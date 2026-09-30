@@ -5,15 +5,6 @@ status: unread
 ---
 # agitator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who agitates; a political troublemaker.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who agitates; a political troublemaker.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"On this issue an agitator and preacher named Kalloch was elected Mayor."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The central government on Earth, weakened by shortages and distracted by agitators at home and in space, was neither vigilant nor prepared."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"It was originated or elaborated by men such as Karl Marx, Frederick Engels, and Ferdinand Lasalle, as labor leaders and political agitators, who found a ready weapon in the bungling economic analysis of the time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who agitates; a political troublemaker.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who agitates; a political troublemaker.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"On this issue an agitator and preacher named Kalloch was elected Mayor."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The central government on Earth, weakened by shortages and distracted by agitators at home and in space, was neither vigilant nor prepared."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"It was originated or elaborated by men such as Karl Marx, Frederick Engels, and Ferdinand Lasalle, as labor leaders and political agitators, who found a ready weapon in the bungling economic analysis of the time."*

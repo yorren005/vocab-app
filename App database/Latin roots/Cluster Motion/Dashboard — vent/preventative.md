@@ -5,13 +5,6 @@ status: unread
 ---
 # preventative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remedy that prevents or slows the course of an illness or disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any obstruction that impedes or is burdensome.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preventative designates remedy that prevents or slows the course of an illness or disease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remedy that prevents or slows the course of an illness or disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any obstruction that impedes or is burdensome.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preventative designates remedy that prevents or slows the course of an illness or disease."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # impressiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Splendid or imposing in size or appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of making a strong or vivid impression on the mind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"His very name carried an impressiveness hardly to be measured without a precise chronology of scholarship."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate had the medical accomplishment of looking perfectly grave whatever nonsense was talked to him, and his dark steady eyes gave him impressiveness as a listener."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Then, what you feel for him is not worthy love, but something entirely unworthy," I answered loftily, with a very poor imitation of Jane's impressiveness of speech."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Splendid or imposing in size or appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of making a strong or vivid impression on the mind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"His very name carried an impressiveness hardly to be measured without a precise chronology of scholarship."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate had the medical accomplishment of looking perfectly grave whatever nonsense was talked to him, and his dark steady eyes gave him impressiveness as a listener."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Then, what you feel for him is not worthy love, but something entirely unworthy," I answered loftily, with a very poor imitation of Jane's impressiveness of speech."*

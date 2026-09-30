@@ -5,14 +5,6 @@ status: unread
 ---
 # modish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the current fashion or style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the current fashion or style.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Wi’ thieveless sneer to see his modish mien, He, down the water, gies him this guid-e’en:— Auld Brig “I doubt na, frien’, ye’ll think ye’re nae sheepshank, Ance ye were streekit owre frae bank to bank!"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Laura had refused to impose upon Isabel either her own modish elegance or Yvonne's effect of the arresting and bizarre."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the current fashion or style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the current fashion or style.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Wi’ thieveless sneer to see his modish mien, He, down the water, gies him this guid-e’en:— Auld Brig “I doubt na, frien’, ye’ll think ye’re nae sheepshank, Ance ye were streekit owre frae bank to bank!"*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Laura had refused to impose upon Isabel either her own modish elegance or Yvonne's effect of the arresting and bizarre."*

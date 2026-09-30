@@ -5,13 +5,6 @@ status: unread
 ---
 # nonvisual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not resulting in vision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not resulting in vision.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonvisual designates not resulting in vision."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not resulting in vision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not resulting in vision.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonvisual designates not resulting in vision."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # hospice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lodging for travelers (especially one kept by a monastic order).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A program of medical and emotional care for the terminally ill.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Our Lady’s Hospice for the dying."*
-> - 📜 **James Joyce (*Ulysses*):** *"The bedside manner it is that they use in the Mater hospice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lodging for travelers (especially one kept by a monastic order).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A program of medical and emotional care for the terminally ill.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Our Lady’s Hospice for the dying."*
+> - 📜 **James Joyce (*Ulysses*):** *"The bedside manner it is that they use in the Mater hospice."*

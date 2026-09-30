@@ -5,13 +5,6 @@ status: unread
 ---
 # deputize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act as a substitute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appoint as a substitute.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"We were deputized to invite our Chief Magistrate to attend the great Northwestern Fair, to be held in May--and this was our errand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Act as a substitute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appoint as a substitute.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"We were deputized to invite our Chief Magistrate to attend the great Northwestern Fair, to be held in May--and this was our errand."*

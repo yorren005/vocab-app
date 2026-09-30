@@ -5,13 +5,6 @@ status: unread
 ---
 # malanga
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american aroid having edible tubers that are cooked and eaten like yams or potatoes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical american aroid having edible tubers that are cooked and eaten like yams or potatoes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malanga designates tropical american aroid having edible tubers that are cooked and eaten like yams or potatoes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american aroid having edible tubers that are cooked and eaten like yams or potatoes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical american aroid having edible tubers that are cooked and eaten like yams or potatoes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malanga designates tropical american aroid having edible tubers that are cooked and eaten like yams or potatoes."*

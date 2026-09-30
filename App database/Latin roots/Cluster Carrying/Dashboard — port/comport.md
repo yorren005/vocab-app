@@ -5,15 +5,6 @@ status: unread
 ---
 # comport
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Behave well or properly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Behave in a certain manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Never was there a more beautiful example of how the majesty of age and wisdom may comport with the obeisance and respect enjoined upon it, as from a lower social rank, and inferior order of endowment, towards a higher."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The calf will thrive, though weaned by necessity at a very early age, and the season for shooting cows, although short, would be amply long enough to comport with the chances of future increase."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"We will see how they comport themselves under their present trials ere we burden them with greater."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Behave well or properly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Behave in a certain manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Never was there a more beautiful example of how the majesty of age and wisdom may comport with the obeisance and respect enjoined upon it, as from a lower social rank, and inferior order of endowment, towards a higher."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The calf will thrive, though weaned by necessity at a very early age, and the season for shooting cows, although short, would be amply long enough to comport with the chances of future increase."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"We will see how they comport themselves under their present trials ere we burden them with greater."*

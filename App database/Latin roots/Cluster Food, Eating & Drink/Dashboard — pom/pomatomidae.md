@@ -5,13 +5,6 @@ status: unread
 ---
 # pomatomidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Food and game fishes related to pompanos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Food and game fishes related to pompanos.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pomatomidae designates food and game fishes related to pompanos."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Food and game fishes related to pompanos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Food and game fishes related to pompanos.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pomatomidae designates food and game fishes related to pompanos."*

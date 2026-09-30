@@ -5,15 +5,6 @@ status: unread
 ---
 # enamored
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract; cause to be enamored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by foolish or unreasoning fondness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Leroy Edson knelt, an enamored knight, at the shrine of her youth and beauty, she gave him her hand."*
-> - 📜 **Effie Afton (*Eventide*):** *"Surrounded by enamored admirers, no doubt," remarked the clerk."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It was evident that the young couple were completely enamored."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract; cause to be enamored.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by foolish or unreasoning fondness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"Leroy Edson knelt, an enamored knight, at the shrine of her youth and beauty, she gave him her hand."*
+> - 📜 **Effie Afton (*Eventide*):** *"Surrounded by enamored admirers, no doubt," remarked the clerk."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It was evident that the young couple were completely enamored."*

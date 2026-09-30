@@ -5,13 +5,6 @@ status: unread
 ---
 # oligochaeta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Earthworms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Earthworms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Oligochaeta designates earthworms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Earthworms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Earthworms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Oligochaeta designates earthworms."*

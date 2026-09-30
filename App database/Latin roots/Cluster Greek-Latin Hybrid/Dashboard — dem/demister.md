@@ -5,13 +5,6 @@ status: unread
 ---
 # demister
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heater that removes mist from the windshield of a car.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heater that removes mist from the windshield of a car.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demister designates heater that removes mist from the windshield of a car."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heater that removes mist from the windshield of a car.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heater that removes mist from the windshield of a car.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demister designates heater that removes mist from the windshield of a car."*

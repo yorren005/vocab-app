@@ -5,15 +5,6 @@ status: unread
 ---
 # rigmarole
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of confused and meaningless statements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long and complicated and confusing procedure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Susy ran through a long rigmarole, with a volubility worthy the daughter of a fluent public speaker."*
-> - 📜 **James Joyce (*Ulysses*):** *"Though this sort of thing went on every other night or very near it still Stephen’s feelings got the better of him in a sense though he knew that Corley’s brandnew rigmarole on a par with the others was hardly deserving of much credence."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Gracie came home from school one day last week with the greatest rigmarole he had told her about people who lived down at the shore . . . stories there couldn’t be a word of truth in, you know."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of confused and meaningless statements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long and complicated and confusing procedure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"Susy ran through a long rigmarole, with a volubility worthy the daughter of a fluent public speaker."*
+> - 📜 **James Joyce (*Ulysses*):** *"Though this sort of thing went on every other night or very near it still Stephen’s feelings got the better of him in a sense though he knew that Corley’s brandnew rigmarole on a par with the others was hardly deserving of much credence."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Gracie came home from school one day last week with the greatest rigmarole he had told her about people who lived down at the shore . . . stories there couldn’t be a word of truth in, you know."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # adenota
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: African antelopes: puku.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: African antelopes: puku.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenota designates african antelopes: puku."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: African antelopes: puku.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: African antelopes: puku.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenota designates african antelopes: puku."*

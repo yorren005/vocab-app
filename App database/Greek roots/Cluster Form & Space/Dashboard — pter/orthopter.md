@@ -5,13 +5,6 @@ status: unread
 ---
 # orthopter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heavier-than-air craft that is propelled by the flapping of wings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heavier-than-air craft that is propelled by the flapping of wings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthopter designates heavier-than-air craft that is propelled by the flapping of wings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heavier-than-air craft that is propelled by the flapping of wings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heavier-than-air craft that is propelled by the flapping of wings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthopter designates heavier-than-air craft that is propelled by the flapping of wings."*

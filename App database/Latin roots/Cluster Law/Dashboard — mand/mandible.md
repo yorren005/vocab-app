@@ -5,14 +5,6 @@ status: unread
 ---
 # mandible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The jaw in vertebrates that is hinged to open the mouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The jaw in vertebrates that is hinged to open the mouth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"To sum up, then: in the Right Whale’s there is no great well of sperm; no ivory teeth at all; no long, slender mandible of a lower jaw, like the Sperm Whale’s."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"To sum up, then: in the Right Whale’s there is no great well of sperm; no ivory teeth at all; no long, slender mandible of a lower jaw, like the Sperm Whale’s."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The jaw in vertebrates that is hinged to open the mouth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The jaw in vertebrates that is hinged to open the mouth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"To sum up, then: in the Right Whale’s there is no great well of sperm; no ivory teeth at all; no long, slender mandible of a lower jaw, like the Sperm Whale’s."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"To sum up, then: in the Right Whale’s there is no great well of sperm; no ivory teeth at all; no long, slender mandible of a lower jaw, like the Sperm Whale’s."*

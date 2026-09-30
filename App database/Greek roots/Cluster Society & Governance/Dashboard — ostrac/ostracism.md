@@ -5,15 +5,6 @@ status: unread
 ---
 # ostracism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of temporary banishment by popular vote without trial or special accusation practiced in ancient Greece.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exclusion by general consent from common privileges or social acceptance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The most effective of all peaceful methods if petty persecution rising at times to social ostracism."*
-> - 📜 **George Eliot (*Middlemarch*):** *"You should read history—look at ostracism, persecution, martyrdom, and that kind of thing."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"After having been sentenced to a perpetual ostracism from the esteem and confidence, and honors and emoluments of his country, he will still be liable to prosecution and punishment in the ordinary course of law."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of temporary banishment by popular vote without trial or special accusation practiced in ancient Greece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exclusion by general consent from common privileges or social acceptance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The most effective of all peaceful methods if petty persecution rising at times to social ostracism."*
+> - 📜 **George Eliot (*Middlemarch*):** *"You should read history—look at ostracism, persecution, martyrdom, and that kind of thing."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"After having been sentenced to a perpetual ostracism from the esteem and confidence, and honors and emoluments of his country, he will still be liable to prosecution and punishment in the ordinary course of law."*

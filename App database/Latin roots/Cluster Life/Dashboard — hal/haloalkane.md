@@ -5,13 +5,6 @@ status: unread
 ---
 # haloalkane
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Organic compound in which halogen atoms have been substituted for hydrogen atoms in an alkane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organic compound in which halogen atoms have been substituted for hydrogen atoms in an alkane.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haloalkane designates organic compound in which halogen atoms have been substituted for hydrogen atoms in an alkane."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Organic compound in which halogen atoms have been substituted for hydrogen atoms in an alkane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organic compound in which halogen atoms have been substituted for hydrogen atoms in an alkane.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haloalkane designates organic compound in which halogen atoms have been substituted for hydrogen atoms in an alkane."*

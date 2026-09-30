@@ -5,15 +5,6 @@ status: unread
 ---
 # dissenting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Withhold assent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express opposition through action or words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"No dissenting voice was raised against the marriage."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Still in the Dissenting line, eh?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode to have won the hand of Harriet Vincy; whose family was undeniable in a Middlemarch light—a better light surely than any thrown in London thoroughfares or dissenting chapel-yards."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Withhold assent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express opposition through action or words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"No dissenting voice was raised against the marriage."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Still in the Dissenting line, eh?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode to have won the hand of Harriet Vincy; whose family was undeniable in a Middlemarch light—a better light surely than any thrown in London thoroughfares or dissenting chapel-yards."*

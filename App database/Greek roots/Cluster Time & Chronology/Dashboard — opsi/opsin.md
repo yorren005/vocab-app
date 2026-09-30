@@ -5,13 +5,6 @@ status: unread
 ---
 # opsin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Retinal protein formed by the action of light on rhodopsin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retinal protein formed by the action of light on rhodopsin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opsin designates retinal protein formed by the action of light on rhodopsin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Retinal protein formed by the action of light on rhodopsin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retinal protein formed by the action of light on rhodopsin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opsin designates retinal protein formed by the action of light on rhodopsin."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # ferrous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or containing iron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or containing iron.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The principle had, indeed, been utilised in certain branches of iron smelting before this date, but for non-ferrous work the idea was new."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Hughes, G., “Non-ferrous Metals in Railway Work.” _J."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This oxide is incapable of existing by itself, but possessing when nascent a powerful affinity for silica at high temperatures, it produces ferrous silicates, which are, in the main, fusible slag-like products."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or containing iron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or containing iron.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The principle had, indeed, been utilised in certain branches of iron smelting before this date, but for non-ferrous work the idea was new."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Hughes, G., “Non-ferrous Metals in Railway Work.” _J."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This oxide is incapable of existing by itself, but possessing when nascent a powerful affinity for silica at high temperatures, it produces ferrous silicates, which are, in the main, fusible slag-like products."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # cephaloridine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A broad spectrum semisynthetic antibiotic produced by modifying cephalosporin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A broad spectrum semisynthetic antibiotic produced by modifying cephalosporin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephaloridine designates a broad spectrum semisynthetic antibiotic produced by modifying cephalosporin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A broad spectrum semisynthetic antibiotic produced by modifying cephalosporin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A broad spectrum semisynthetic antibiotic produced by modifying cephalosporin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephaloridine designates a broad spectrum semisynthetic antibiotic produced by modifying cephalosporin."*

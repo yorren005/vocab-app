@@ -5,15 +5,6 @@ status: unread
 ---
 # impute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attribute or credit to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attribute (responsibility or fault) to a cause or source.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This silence for my sin you did impute, Which shall be most my glory being dumb, For I impair not beauty being mute, When others would give life, and bring a tomb."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do beseech your Majesty, impute his words To wayward sickliness and age in him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I should have been more strange, I must confess, But that thou overheard’st, ere I was ’ware, My true-love passion; therefore pardon me, And not impute this yielding to light love, Which the dark night hath so discovered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attribute or credit to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attribute (responsibility or fault) to a cause or source.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This silence for my sin you did impute, Which shall be most my glory being dumb, For I impair not beauty being mute, When others would give life, and bring a tomb."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do beseech your Majesty, impute his words To wayward sickliness and age in him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I should have been more strange, I must confess, But that thou overheard’st, ere I was ’ware, My true-love passion; therefore pardon me, And not impute this yielding to light love, Which the dark night hath so discovered."*

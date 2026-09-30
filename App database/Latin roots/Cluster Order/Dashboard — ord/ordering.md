@@ -5,15 +5,6 @@ status: unread
 ---
 # ordering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Logical or comprehensible arrangement of separate elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting things in a sequential arrangement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have thou the ordering of this present time."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Knippel, that your husband is ordering living-quarters for Bruno, too?" Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Leaving the carriage at the posting-house and ordering fresh horses to be ready, my companion gave me his arm, and we went towards home."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Logical or comprehensible arrangement of separate elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting things in a sequential arrangement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have thou the ordering of this present time."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Knippel, that your husband is ordering living-quarters for Bruno, too?" Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Leaving the carriage at the posting-house and ordering fresh horses to be ready, my companion gave me his arm, and we went towards home."*

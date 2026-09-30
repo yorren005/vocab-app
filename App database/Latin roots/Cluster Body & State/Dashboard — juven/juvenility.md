@@ -5,14 +5,6 @@ status: unread
 ---
 # juvenility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking and evidencing lack of experience of life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The freshness and vitality characteristic of a young person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Next in juvenility to Abraham came two more girls, Hope and Modesty; then a boy of three, and then the baby, who had just completed his first year."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I can't keep up any pretence of juvenility with you, can I?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking and evidencing lack of experience of life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The freshness and vitality characteristic of a young person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Next in juvenility to Abraham came two more girls, Hope and Modesty; then a boy of three, and then the baby, who had just completed his first year."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"I can't keep up any pretence of juvenility with you, can I?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # audubon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states ornithologist and artist (born in haiti) noted for his paintings of birds of america (1785-1851).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states ornithologist and artist (born in haiti) noted for his paintings of birds of america (1785-1851).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, audubon designates united states ornithologist and artist (born in haiti) noted for his paintings of birds of america (1785-1851)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states ornithologist and artist (born in haiti) noted for his paintings of birds of america (1785-1851).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states ornithologist and artist (born in haiti) noted for his paintings of birds of america (1785-1851).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, audubon designates united states ornithologist and artist (born in haiti) noted for his paintings of birds of america (1785-1851)."*

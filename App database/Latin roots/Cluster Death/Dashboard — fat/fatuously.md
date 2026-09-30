@@ -5,13 +5,6 @@ status: unread
 ---
 # fatuously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vacuously or complacently and unconsciously foolish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vacuously or complacently and unconsciously foolish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I asked it of everyone I met, and was fatuously assured that I demanded the impossible; at long last I asked it of old Bridget, whose sound common sense had come to my rescue times and again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vacuously or complacently and unconsciously foolish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vacuously or complacently and unconsciously foolish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I asked it of everyone I met, and was fatuously assured that I demanded the impossible; at long last I asked it of old Bridget, whose sound common sense had come to my rescue times and again."*

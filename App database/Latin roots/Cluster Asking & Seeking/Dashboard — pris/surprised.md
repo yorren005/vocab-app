@@ -5,15 +5,6 @@ status: unread
 ---
 # surprised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be surprised.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come upon or take unawares.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You see how easily she may be surprised."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The prisoners, Which he in this adventure hath surprised To his own use he keeps, and sends me word I shall have none but Mordake, Earl of Fife."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had all your quarters been as safely kept As that whereof I had the government, We had not been thus shamefully surprised."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be surprised.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come upon or take unawares.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You see how easily she may be surprised."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The prisoners, Which he in this adventure hath surprised To his own use he keeps, and sends me word I shall have none but Mordake, Earl of Fife."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had all your quarters been as safely kept As that whereof I had the government, We had not been thus shamefully surprised."*

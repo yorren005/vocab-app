@@ -5,13 +5,6 @@ status: unread
 ---
 # autotroph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An autotrophic organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring only carbon dioxide or carbonates as a source of carbon and a simple inorganic nitrogen compound for metabolic synthesis of organic molecules (such as glucose).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autotroph designates an autotrophic organism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An autotrophic organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring only carbon dioxide or carbonates as a source of carbon and a simple inorganic nitrogen compound for metabolic synthesis of organic molecules (such as glucose).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autotroph designates an autotrophic organism."*

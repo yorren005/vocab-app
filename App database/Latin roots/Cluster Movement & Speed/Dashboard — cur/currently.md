@@ -5,15 +5,6 @@ status: unread
 ---
 # currently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At this time or period; now.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At this time or period; now.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I examined, too, in thought, the possibility of my ever being able to translate currently a certain little French story which Madame Pierrot had that day shown me; nor was that problem solved to my satisfaction ere I fell sweetly asleep."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Our inventory tax is merely an extension of the passage tax on ships intruding on INOR's jurisdictions and which is currently being negotiated by the UIPS and INOR governments."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"He was a broad-shouldered man, inclining to be portly, and he was currently accepted as a man of an indomitable will."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At this time or period; now.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At this time or period; now.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I examined, too, in thought, the possibility of my ever being able to translate currently a certain little French story which Madame Pierrot had that day shown me; nor was that problem solved to my satisfaction ere I fell sweetly asleep."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Our inventory tax is merely an extension of the passage tax on ships intruding on INOR's jurisdictions and which is currently being negotiated by the UIPS and INOR governments."*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"He was a broad-shouldered man, inclining to be portly, and he was currently accepted as a man of an indomitable will."*

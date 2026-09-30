@@ -5,13 +5,6 @@ status: unread
 ---
 # trilogy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of three literary or dramatic works related in subject or theme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of three literary or dramatic works related in subject or theme.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trilogy designates a set of three literary or dramatic works related in subject or theme."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of three literary or dramatic works related in subject or theme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of three literary or dramatic works related in subject or theme.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trilogy designates a set of three literary or dramatic works related in subject or theme."*

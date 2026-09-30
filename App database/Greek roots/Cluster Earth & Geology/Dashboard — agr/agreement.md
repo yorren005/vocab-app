@@ -5,15 +5,6 @@ status: unread
 ---
 # agreement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The statement (oral or written) of an exchange of promises.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compatibility of observations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is a gentleman whom by chance I met, Upon agreement from us to his liking, Will undertake to woo curst Katherine; Yea, and to marry her, if her dowry please."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where then do you know best We be affied, and such assurance ta’en As shall with either part’s agreement stand?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Badger “well enough,” an agreement was made, the Lord Chancellor’s consent was obtained, and it was all settled."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The statement (oral or written) of an exchange of promises.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compatibility of observations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is a gentleman whom by chance I met, Upon agreement from us to his liking, Will undertake to woo curst Katherine; Yea, and to marry her, if her dowry please."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where then do you know best We be affied, and such assurance ta’en As shall with either part’s agreement stand?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Badger “well enough,” an agreement was made, the Lord Chancellor’s consent was obtained, and it was all settled."*

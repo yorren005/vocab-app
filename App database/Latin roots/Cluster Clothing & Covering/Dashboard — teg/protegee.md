@@ -5,15 +5,6 @@ status: unread
 ---
 # protegee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman protege.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman protege.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Crawford doted on the girl; and it was the lady’s death which now obliged her _protegee_, after some months’ further trial at her uncle’s house, to find another home."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"This oopu she showed to her _protegee_, who told her to put it into a large calabash with water and feed it with limu, so that it might become a pet fish."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Crawley, as your dear daughter and protegee, and thanked her in the name of France, for all your benevolence towards our unfortunates during their exile!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman protege.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman protege.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Crawford doted on the girl; and it was the lady’s death which now obliged her _protegee_, after some months’ further trial at her uncle’s house, to find another home."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"This oopu she showed to her _protegee_, who told her to put it into a large calabash with water and feed it with limu, so that it might become a pet fish."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Crawley, as your dear daughter and protegee, and thanked her in the name of France, for all your benevolence towards our unfortunates during their exile!"*

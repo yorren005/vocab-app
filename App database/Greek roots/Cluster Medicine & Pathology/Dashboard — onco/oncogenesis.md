@@ -5,13 +5,6 @@ status: unread
 ---
 # oncogenesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The induction or formation of tumors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The induction or formation of tumors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oncogenesis designates the induction or formation of tumors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The induction or formation of tumors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The induction or formation of tumors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oncogenesis designates the induction or formation of tumors."*

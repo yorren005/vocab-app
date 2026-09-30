@@ -5,15 +5,6 @@ status: unread
 ---
 # politics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or science of government: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or science concerned with guiding or influencing governmental policy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Allen, after drinking his glass of water, joined some gentlemen to talk over the politics of the day and compare the accounts of their newspapers; and the ladies walked about together, noticing every new face, and almost every new bonnet in the room."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"What was needed in many directions, both in politics and in industry, was merely negative action by the government, the repeal of the old laws, the overthrow of old abuses."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The philosophers of the time believed in a "natural law" in industry and politics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or science of government: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or science concerned with guiding or influencing governmental policy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Allen, after drinking his glass of water, joined some gentlemen to talk over the politics of the day and compare the accounts of their newspapers; and the ladies walked about together, noticing every new face, and almost every new bonnet in the room."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"What was needed in many directions, both in politics and in industry, was merely negative action by the government, the repeal of the old laws, the overthrow of old abuses."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The philosophers of the time believed in a "natural law" in industry and politics."*

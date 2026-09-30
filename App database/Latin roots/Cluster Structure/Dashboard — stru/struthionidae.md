@@ -5,13 +5,6 @@ status: unread
 ---
 # struthionidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall terrestrial birds: ostriches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall terrestrial birds: ostriches.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, struthionidae designates tall terrestrial birds: ostriches."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall terrestrial birds: ostriches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall terrestrial birds: ostriches.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, struthionidae designates tall terrestrial birds: ostriches."*

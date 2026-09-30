@@ -5,20 +5,6 @@ status: unread
 ---
 # dusk
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Dusky
-> 2. **Nuance / Usage**: Become dark
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"On the morrow, in the dusk of evening, Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"continued, Tess staying on till dusk with the body of harvesters."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"of natural as well as of sylvan dusk gathered over me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Dusky
+> 2. **Nuance / Usage**: Become dark
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"On the morrow, in the dusk of evening, Mr."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"continued, Tess staying on till dusk with the body of harvesters."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"of natural as well as of sylvan dusk gathered over me."*

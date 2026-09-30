@@ -5,13 +5,6 @@ status: unread
 ---
 # prosimii
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not used in all classifications; in some classifications considered coextensive with the lemuroidea; in others includes both lemuroidea and tarsioidea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not used in all classifications; in some classifications considered coextensive with the lemuroidea; in others includes both lemuroidea and tarsioidea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosimii designates not used in all classifications; in some classifications considered coextensive with the lemuroidea; in others includes both lemuroidea and tarsioidea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not used in all classifications; in some classifications considered coextensive with the lemuroidea; in others includes both lemuroidea and tarsioidea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not used in all classifications; in some classifications considered coextensive with the lemuroidea; in others includes both lemuroidea and tarsioidea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosimii designates not used in all classifications; in some classifications considered coextensive with the lemuroidea; in others includes both lemuroidea and tarsioidea."*

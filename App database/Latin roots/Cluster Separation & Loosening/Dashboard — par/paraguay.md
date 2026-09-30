@@ -5,15 +5,6 @@ status: unread
 ---
 # paraguay
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A landlocked republic in south central south america; achieved independence from spain in 1811.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A landlocked republic in south central south america; achieved independence from spain in 1811.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Additional assemblies have been incorporated in Paraguay and Colombia."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A similar custom used to be constantly transforming the language of the Abipones of Paraguay, amongst whom, however, a word once abolished seems never to have been revived."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among the Chiquites of Paraguay a sick man would be asked by the medicine-man whether he had not thrown away some of the flesh of the deer or turtle, and if he answered yes, the medicine-man would say, "That is what is killing you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A landlocked republic in south central south america; achieved independence from spain in 1811.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A landlocked republic in south central south america; achieved independence from spain in 1811.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Additional assemblies have been incorporated in Paraguay and Colombia."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A similar custom used to be constantly transforming the language of the Abipones of Paraguay, amongst whom, however, a word once abolished seems never to have been revived."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among the Chiquites of Paraguay a sick man would be asked by the medicine-man whether he had not thrown away some of the flesh of the deer or turtle, and if he answered yes, the medicine-man would say, "That is what is killing you."*

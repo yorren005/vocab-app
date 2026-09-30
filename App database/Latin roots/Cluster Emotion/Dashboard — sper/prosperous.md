@@ -5,15 +5,6 @@ status: unread
 ---
 # prosperous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In fortunate circumstances financially; moderately rich.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very lively and profitable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then go thou forth; And fortune play upon thy prosperous helm, As thy auspicious mistress!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, worthy Menenius, and with most prosperous approbation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These promises are fair, the parties sure, And our induction full of prosperous hope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In fortunate circumstances financially; moderately rich.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very lively and profitable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then go thou forth; And fortune play upon thy prosperous helm, As thy auspicious mistress!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, worthy Menenius, and with most prosperous approbation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These promises are fair, the parties sure, And our induction full of prosperous hope."*

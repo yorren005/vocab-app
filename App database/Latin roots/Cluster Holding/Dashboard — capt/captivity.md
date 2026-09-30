@@ -5,15 +5,6 @@ status: unread
 ---
 # captivity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being imprisoned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being a slave; --shakespeare.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Triumphant Death, smear’d with captivity, Young Talbot’s valour makes me smile at thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This Edmund, in the reign of Bolingbroke, As I have read, laid claim unto the crown And, but for Owen Glendower, had been king, Who kept him in captivity till he died."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have advertised him by secret means That if about this hour he make this way, Under the colour of his usual game, He shall here find his friends with horse and men To set him free from his captivity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being imprisoned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being a slave; --shakespeare.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Triumphant Death, smear’d with captivity, Young Talbot’s valour makes me smile at thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This Edmund, in the reign of Bolingbroke, As I have read, laid claim unto the crown And, but for Owen Glendower, had been king, Who kept him in captivity till he died."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have advertised him by secret means That if about this hour he make this way, Under the colour of his usual game, He shall here find his friends with horse and men To set him free from his captivity."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # diminish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decrease in size, extent, or range.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lessen the authority, dignity, or reputation of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whiles a wedlock hymn we sing, Feed yourselves with questioning, That reason wonder may diminish How thus we met, and these things finish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fishermen that walk upon the beach Appear like mice; and yond tall anchoring bark, Diminish’d to her cock; her cock a buoy Almost too small for sight: the murmuring surge That on th’unnumber’d idle pebble chafes Cannot be heard so high."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I and my fellows Are ministers of Fate: the elements Of whom your swords are temper’d may as well Wound the loud winds, or with bemock’d-at stabs Kill the still-closing waters, as diminish One dowle that’s in my plume."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decrease in size, extent, or range.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lessen the authority, dignity, or reputation of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whiles a wedlock hymn we sing, Feed yourselves with questioning, That reason wonder may diminish How thus we met, and these things finish."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fishermen that walk upon the beach Appear like mice; and yond tall anchoring bark, Diminish’d to her cock; her cock a buoy Almost too small for sight: the murmuring surge That on th’unnumber’d idle pebble chafes Cannot be heard so high."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I and my fellows Are ministers of Fate: the elements Of whom your swords are temper’d may as well Wound the loud winds, or with bemock’d-at stabs Kill the still-closing waters, as diminish One dowle that’s in my plume."*

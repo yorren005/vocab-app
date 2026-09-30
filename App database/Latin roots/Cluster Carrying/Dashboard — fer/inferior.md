@@ -5,15 +5,6 @@ status: unread
 ---
 # inferior
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of lesser rank or station or quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A character or symbol set or printed or written beneath or slightly below and to the side of another character.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But since your worth, wide as the ocean is, The humble as the proudest sail doth bear, My saucy bark (inferior far to his) On your broad main doth wilfully appear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"WINCHESTER. [_Aside_.] Now Winchester will not submit, I trow, Or be inferior to the proudest peer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, brother king, farewell, and sit you fast, For I will hence to Warwick’s other daughter; That, though I want a kingdom, yet in marriage I may not prove inferior to yourself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of lesser rank or station or quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A character or symbol set or printed or written beneath or slightly below and to the side of another character.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But since your worth, wide as the ocean is, The humble as the proudest sail doth bear, My saucy bark (inferior far to his) On your broad main doth wilfully appear."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"WINCHESTER. [_Aside_.] Now Winchester will not submit, I trow, Or be inferior to the proudest peer."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, brother king, farewell, and sit you fast, For I will hence to Warwick’s other daughter; That, though I want a kingdom, yet in marriage I may not prove inferior to yourself."*

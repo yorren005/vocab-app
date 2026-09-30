@@ -5,13 +5,6 @@ status: unread
 ---
 # presbyopic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to see distant objects clearly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to see distant objects clearly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, presbyopic designates able to see distant objects clearly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to see distant objects clearly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to see distant objects clearly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, presbyopic designates able to see distant objects clearly."*

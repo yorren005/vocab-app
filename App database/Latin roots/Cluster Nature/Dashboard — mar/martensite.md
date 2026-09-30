@@ -5,13 +5,6 @@ status: unread
 ---
 # martensite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid solution of carbon in alpha-iron that is formed when steel is cooled so rapidly that the change from austenite to pearlite is suppressed; responsible for the hardness of quenched steel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solid solution of carbon in alpha-iron that is formed when steel is cooled so rapidly that the change from austenite to pearlite is suppressed; responsible for the hardness of quenched steel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, martensite designates a solid solution of carbon in alpha-iron that is formed when steel is cooled so rapidly that the change from austenite to pearlite is suppressed; responsible for the hardness of quenched steel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid solution of carbon in alpha-iron that is formed when steel is cooled so rapidly that the change from austenite to pearlite is suppressed; responsible for the hardness of quenched steel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solid solution of carbon in alpha-iron that is formed when steel is cooled so rapidly that the change from austenite to pearlite is suppressed; responsible for the hardness of quenched steel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, martensite designates a solid solution of carbon in alpha-iron that is formed when steel is cooled so rapidly that the change from austenite to pearlite is suppressed; responsible for the hardness of quenched steel."*

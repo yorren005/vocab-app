@@ -5,13 +5,6 @@ status: unread
 ---
 # robitussin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trade name of an expectorant that loosens phlegm and makes it easier to cough up.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trade name of an expectorant that loosens phlegm and makes it easier to cough up.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, robitussin designates trade name of an expectorant that loosens phlegm and makes it easier to cough up."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Trade name of an expectorant that loosens phlegm and makes it easier to cough up.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trade name of an expectorant that loosens phlegm and makes it easier to cough up.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, robitussin designates trade name of an expectorant that loosens phlegm and makes it easier to cough up."*

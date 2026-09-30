@@ -5,13 +5,6 @@ status: unread
 ---
 # misalign
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Align imperfectly or badly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Align imperfectly or badly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misalign designates align imperfectly or badly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Align imperfectly or badly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Align imperfectly or badly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misalign designates align imperfectly or badly."*

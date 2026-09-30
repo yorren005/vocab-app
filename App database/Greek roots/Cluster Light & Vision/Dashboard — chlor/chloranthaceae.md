@@ -5,13 +5,6 @@ status: unread
 ---
 # chloranthaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small family of tropical herbs and shrubs and trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small family of tropical herbs and shrubs and trees.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chloranthaceae designates small family of tropical herbs and shrubs and trees."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small family of tropical herbs and shrubs and trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small family of tropical herbs and shrubs and trees.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chloranthaceae designates small family of tropical herbs and shrubs and trees."*

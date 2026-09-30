@@ -5,13 +5,6 @@ status: unread
 ---
 # deuteragonist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The actor taking the part of second importance in a classical Greek drama.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who serves as a foil to another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deuteragonist designates the actor taking the part of second importance in a classical greek drama."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The actor taking the part of second importance in a classical Greek drama.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who serves as a foil to another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deuteragonist designates the actor taking the part of second importance in a classical greek drama."*

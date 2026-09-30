@@ -5,15 +5,6 @@ status: unread
 ---
 # finances
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assets in the form of money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The commercial activity of providing funds and capital.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The primary fact determining the public finances is the extent of the sphere of "the state," meaning by the state the totality of political powers and functions in a community."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But it is much to be desired that in large part the finances of a system of social insurance should be disassociated from the ordinary budgetary system of taxation and public expenditures."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"And in the wretched state of his own finances, there was a very powerful motive for secrecy, in addition to his fear of discovery by Lydia’s relations; for it had just transpired that he had left gaming debts behind him to a very considerable amount."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Assets in the form of money.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The commercial activity of providing funds and capital.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The primary fact determining the public finances is the extent of the sphere of "the state," meaning by the state the totality of political powers and functions in a community."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But it is much to be desired that in large part the finances of a system of social insurance should be disassociated from the ordinary budgetary system of taxation and public expenditures."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"And in the wretched state of his own finances, there was a very powerful motive for secrecy, in addition to his fear of discovery by Lydia’s relations; for it had just transpired that he had left gaming debts behind him to a very considerable amount."*

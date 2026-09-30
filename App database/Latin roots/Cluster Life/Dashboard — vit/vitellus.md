@@ -5,13 +5,6 @@ status: unread
 ---
 # vitellus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nutritive material of an ovum stored for the nutrition of an embryo (especially the yellow mass of a bird or reptile egg).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nutritive material of an ovum stored for the nutrition of an embryo (especially the yellow mass of a bird or reptile egg).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vitellus designates nutritive material of an ovum stored for the nutrition of an embryo (especially the yellow mass of a bird or reptile egg)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nutritive material of an ovum stored for the nutrition of an embryo (especially the yellow mass of a bird or reptile egg).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nutritive material of an ovum stored for the nutrition of an embryo (especially the yellow mass of a bird or reptile egg).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vitellus designates nutritive material of an ovum stored for the nutrition of an embryo (especially the yellow mass of a bird or reptile egg)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # manuscript
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The form of a literary work submitted for publication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Handwritten book or document.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He has some manuscript near him, but is not referring to it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn gets up, adjusts his spectacles, puts on his hat, puts the manuscript in his pocket, goes out, tells the middle-aged man out at elbows, “I shall be back presently.” Very rarely tells him anything more explicit."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A table and some shelves were covered with manuscript papers and with worn pens and a medley of such tokens."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The form of a literary work submitted for publication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Handwritten book or document.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He has some manuscript near him, but is not referring to it."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn gets up, adjusts his spectacles, puts on his hat, puts the manuscript in his pocket, goes out, tells the middle-aged man out at elbows, “I shall be back presently.” Very rarely tells him anything more explicit."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A table and some shelves were covered with manuscript papers and with worn pens and a medley of such tokens."*

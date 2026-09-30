@@ -5,15 +5,6 @@ status: unread
 ---
 # cussed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Utter obscenities or profanities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stubbornly persistent in wrongdoing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Too cussed to live and too mean to die,” was his comment."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Tell them he's out on the plains, tryin' to get back some of the life the cussed stuff burnt out of him." And away the stage coach rattled, and soon was out of hearing."*
-> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"Surely the fellow wasn’t cussed fool enough to kill her an’ then hisself?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Utter obscenities or profanities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stubbornly persistent in wrongdoing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Too cussed to live and too mean to die,” was his comment."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Tell them he's out on the plains, tryin' to get back some of the life the cussed stuff burnt out of him." And away the stage coach rattled, and soon was out of hearing."*
+> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"Surely the fellow wasn’t cussed fool enough to kill her an’ then hisself?"*

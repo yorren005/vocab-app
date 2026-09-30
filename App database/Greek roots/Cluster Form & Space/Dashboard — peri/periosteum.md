@@ -5,13 +5,6 @@ status: unread
 ---
 # periosteum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The membrane of connective tissue that closely invests all bones except at the articular surfaces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The membrane of connective tissue that closely invests all bones except at the articular surfaces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periosteum designates the membrane of connective tissue that closely invests all bones except at the articular surfaces."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The membrane of connective tissue that closely invests all bones except at the articular surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The membrane of connective tissue that closely invests all bones except at the articular surfaces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periosteum designates the membrane of connective tissue that closely invests all bones except at the articular surfaces."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # tepal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An undifferentiated part of a perianth that cannot be distinguished as a sepal or a petal (as in lilies and tulips).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An undifferentiated part of a perianth that cannot be distinguished as a sepal or a petal (as in lilies and tulips).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tepal designates an undifferentiated part of a perianth that cannot be distinguished as a sepal or a petal (as in lilies and tulips)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An undifferentiated part of a perianth that cannot be distinguished as a sepal or a petal (as in lilies and tulips).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An undifferentiated part of a perianth that cannot be distinguished as a sepal or a petal (as in lilies and tulips).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tepal designates an undifferentiated part of a perianth that cannot be distinguished as a sepal or a petal (as in lilies and tulips)."*

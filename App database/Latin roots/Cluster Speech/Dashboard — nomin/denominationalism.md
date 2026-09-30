@@ -5,13 +5,6 @@ status: unread
 ---
 # denominationalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A narrow-minded adherence to a particular sect or party or denomination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tendency, in protestantism, to separate into religious denominations or to advocate such separations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"The cause of denominationalism is the tenacious clinging to faith and doctrines."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A narrow-minded adherence to a particular sect or party or denomination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tendency, in protestantism, to separate into religious denominations or to advocate such separations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"The cause of denominationalism is the tenacious clinging to faith and doctrines."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # didactically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a didactic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a didactic manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Poul Anderson (*The Valor of Cappen Varra*):** *"Now I hunger." "Silver," said Cappen didactically, "is a certain shield against all black magics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a didactic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a didactic manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Poul Anderson (*The Valor of Cappen Varra*):** *"Now I hunger." "Silver," said Cappen didactically, "is a certain shield against all black magics."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # tabu
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prejudice (especially in polynesia and other south pacific islands) that prohibits the use or mention of something because of its sacred nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inhibition or ban resulting from social custom or emotional aversion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He told me that it was '_tabu_,' forbidden for any men but their own relations to look at them; but I suppose the promised beads acted as an inducement, and so he sent away for some old lady who had charge, and who alone is allowed to open the doors."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"This is a sign that such trees are "tabu" or sacred."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He told me that it was '_tabu,_' forbidden for any men but their own relations to look at them; but I suppose the promised beads acted as an inducement, and so he sent away for some old lady who had charge, and who alone is allowed to open the doors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prejudice (especially in polynesia and other south pacific islands) that prohibits the use or mention of something because of its sacred nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inhibition or ban resulting from social custom or emotional aversion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He told me that it was '_tabu_,' forbidden for any men but their own relations to look at them; but I suppose the promised beads acted as an inducement, and so he sent away for some old lady who had charge, and who alone is allowed to open the doors."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"This is a sign that such trees are "tabu" or sacred."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He told me that it was '_tabu,_' forbidden for any men but their own relations to look at them; but I suppose the promised beads acted as an inducement, and so he sent away for some old lady who had charge, and who alone is allowed to open the doors."*

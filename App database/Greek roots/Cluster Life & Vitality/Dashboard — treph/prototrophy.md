@@ -5,13 +5,6 @@ status: unread
 ---
 # prototrophy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the nutritional requirements of the normal or wild type.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the nutritional requirements of the normal or wild type.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prototrophy designates having the nutritional requirements of the normal or wild type."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the nutritional requirements of the normal or wild type.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the nutritional requirements of the normal or wild type.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prototrophy designates having the nutritional requirements of the normal or wild type."*

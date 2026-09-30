@@ -5,14 +5,6 @@ status: unread
 ---
 # legislating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making or enacting laws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make laws, bills, etc. or bring into effect by legislation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Whether sixty-five members for a few years, and a hundred or two hundred for a few more, be a safe depositary for a limited and well-guarded power of legislating for the United States?"*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"But he is for legislating it out of all force while the law itself stands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making or enacting laws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make laws, bills, etc. or bring into effect by legislation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Whether sixty-five members for a few years, and a hundred or two hundred for a few more, be a safe depositary for a limited and well-guarded power of legislating for the United States?"*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"But he is for legislating it out of all force while the law itself stands."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # regularity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A property of polygons: the property of having equal sides and equal angles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being characterized by a fixed principle or rate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes, and his young client, and several blue bags hastily stuffed out of all regularity of form, as the larger sort of serpents are in their first gorged state, have returned to the official den."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is falling still; upon the roof, upon the skylight, even through the skylight, and drip, drip, drip, with the regularity of the Ghost’s Walk, on the stone floor below."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An indescribable succession of dull blows, perplexing in their regularity, sent their sound with difficulty through the fluffy atmosphere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A property of polygons: the property of having equal sides and equal angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being characterized by a fixed principle or rate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes, and his young client, and several blue bags hastily stuffed out of all regularity of form, as the larger sort of serpents are in their first gorged state, have returned to the official den."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is falling still; upon the roof, upon the skylight, even through the skylight, and drip, drip, drip, with the regularity of the Ghost’s Walk, on the stone floor below."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An indescribable succession of dull blows, perplexing in their regularity, sent their sound with difficulty through the fluffy atmosphere."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # indecency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being indecent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indecent or improper act.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"This is an amusement to sharpen the intellect; it has a sting—it has what we call satire, and wit without indecency."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"If there were no other use in the conversation of ladies, it is sufficient that it would lay a restraint upon those odious topics of immodesty and indecencies, into which the rudeness of our northern genius is so apt to fall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being indecent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indecent or improper act.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"This is an amusement to sharpen the intellect; it has a sting—it has what we call satire, and wit without indecency."*
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"If there were no other use in the conversation of ladies, it is sufficient that it would lay a restraint upon those odious topics of immodesty and indecencies, into which the rudeness of our northern genius is so apt to fall."*

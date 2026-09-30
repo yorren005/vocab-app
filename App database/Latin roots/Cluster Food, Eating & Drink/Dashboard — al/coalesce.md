@@ -5,15 +5,6 @@ status: unread
 ---
 # coalesce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mix together different elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fuse or cause to grow together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Inferior and unspiritual methods of healing may try to make Mind and drugs coalesce, but the two will 144:1 not mingle scientifically."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"When thus equipped the good and strong in the South will coalesce and rule by the sheer force of superior worth, which is the only method countenanced by truly civilized peoples."*
-> - 📜 **James Joyce (*Ulysses*):** *"But, by Saint Patrick...! _(The women’s heads coalesce."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mix together different elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fuse or cause to grow together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Inferior and unspiritual methods of healing may try to make Mind and drugs coalesce, but the two will 144:1 not mingle scientifically."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"When thus equipped the good and strong in the South will coalesce and rule by the sheer force of superior worth, which is the only method countenanced by truly civilized peoples."*
+> - 📜 **James Joyce (*Ulysses*):** *"But, by Saint Patrick...! _(The women’s heads coalesce."*

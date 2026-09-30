@@ -5,15 +5,6 @@ status: unread
 ---
 # establishment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of forming or establishing something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organization founded and united for a specific purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce,” he went on, “makes no condition beyond expressing his expectation that our young friend will not at any time remove herself from the establishment in question without his knowledge and concurrence."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I expect a judgment shortly and shall then place my establishment on a superior footing."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The law-stationer’s establishment is, in Guster’s eyes, a temple of plenty and splendour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of forming or establishing something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organization founded and united for a specific purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce,” he went on, “makes no condition beyond expressing his expectation that our young friend will not at any time remove herself from the establishment in question without his knowledge and concurrence."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I expect a judgment shortly and shall then place my establishment on a superior footing."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The law-stationer’s establishment is, in Guster’s eyes, a temple of plenty and splendour."*

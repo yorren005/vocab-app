@@ -5,15 +5,6 @@ status: unread
 ---
 # human
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any living or extinct member of the family hominidae characterized by superior intelligence, articulate speech, and erect carriage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of humanity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know into what straits of fortune she is driven and it is not impossible to me, if it appear not inconvenient to you, to set her before your eyes tomorrow, human as she is, and without any danger."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even now we hous’d him in the abbey here, And now he’s there, past thought of human reason."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such a pother, As if that whatsoever god who leads him Were slyly crept into his human powers And gave him graceful posture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any living or extinct member of the family hominidae characterized by superior intelligence, articulate speech, and erect carriage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of humanity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know into what straits of fortune she is driven and it is not impossible to me, if it appear not inconvenient to you, to set her before your eyes tomorrow, human as she is, and without any danger."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even now we hous’d him in the abbey here, And now he’s there, past thought of human reason."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such a pother, As if that whatsoever god who leads him Were slyly crept into his human powers And gave him graceful posture."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # solenostemon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of shrubby often succulent herbs of tropical africa and asia; includes some plants often placed in genus coleus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of shrubby often succulent herbs of tropical africa and asia; includes some plants often placed in genus coleus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solenostemon designates genus of shrubby often succulent herbs of tropical africa and asia; includes some plants often placed in genus coleus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of shrubby often succulent herbs of tropical africa and asia; includes some plants often placed in genus coleus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of shrubby often succulent herbs of tropical africa and asia; includes some plants often placed in genus coleus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solenostemon designates genus of shrubby often succulent herbs of tropical africa and asia; includes some plants often placed in genus coleus."*

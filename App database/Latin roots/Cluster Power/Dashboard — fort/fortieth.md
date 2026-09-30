@@ -5,15 +5,6 @@ status: unread
 ---
 # fortieth
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Position 40 in a countable series of things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordinal number of forty in counting order.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But at this moment the _Nautilus_, raised by the last waves of the tide, quitted her coral bed exactly at the fortieth minute fixed by the Captain."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Burns, M.D., was a close student; this was not the first nor the fortieth time that his friend had thus discovered him."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"An ugly brick house in Fortieth Street?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Position 40 in a countable series of things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordinal number of forty in counting order.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But at this moment the _Nautilus_, raised by the last waves of the tide, quitted her coral bed exactly at the fortieth minute fixed by the Captain."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Burns, M.D., was a close student; this was not the first nor the fortieth time that his friend had thus discovered him."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"An ugly brick house in Fortieth Street?"*

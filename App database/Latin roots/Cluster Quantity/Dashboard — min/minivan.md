@@ -5,13 +5,6 @@ status: unread
 ---
 # minivan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small box-shaped passenger van; usually has removable seats; used as a family car.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small box-shaped passenger van; usually has removable seats; used as a family car.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minivan designates a small box-shaped passenger van; usually has removable seats; used as a family car."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small box-shaped passenger van; usually has removable seats; used as a family car.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small box-shaped passenger van; usually has removable seats; used as a family car.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minivan designates a small box-shaped passenger van; usually has removable seats; used as a family car."*

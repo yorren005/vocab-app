@@ -5,13 +5,6 @@ status: unread
 ---
 # insentient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of feeling and consciousness and animation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of feeling and consciousness and animation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The cause of a brief sharp unforeseen heard loud lone crack emitted by the insentient material of a strainveined timber table."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of feeling and consciousness and animation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of feeling and consciousness and animation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"The cause of a brief sharp unforeseen heard loud lone crack emitted by the insentient material of a strainveined timber table."*

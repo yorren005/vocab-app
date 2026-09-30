@@ -5,13 +5,6 @@ status: unread
 ---
 # mimesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Imitation, mimicry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imitation, mimicry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mimesis designates imitation, mimicry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Imitation, mimicry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imitation, mimicry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mimesis designates imitation, mimicry."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # respire
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Breathe easily again, as after exertion or anxiety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo the biomedical and metabolic processes of respiration by taking up oxygen and producing carbon monoxide.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"O'er the sea, And from the mountains where I now respire, Fain would I waft such blessing upon thee, As, with a sigh, I deem thou mightst have been to me!"*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Now that, not my apology, but my defence is made, I feel my soul respire more easily."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"If once I was clear of this curst farm, I should respire more at ease. * * * * * CXLV.--To MR."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Breathe easily again, as after exertion or anxiety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo the biomedical and metabolic processes of respiration by taking up oxygen and producing carbon monoxide.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"O'er the sea, And from the mountains where I now respire, Fain would I waft such blessing upon thee, As, with a sigh, I deem thou mightst have been to me!"*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Now that, not my apology, but my defence is made, I feel my soul respire more easily."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"If once I was clear of this curst farm, I should respire more at ease. * * * * * CXLV.--To MR."*

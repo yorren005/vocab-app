@@ -5,15 +5,6 @@ status: unread
 ---
 # mellowed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soften, make mellow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become more relaxed, easygoing, or genial.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And more than so, my father, Even in the downfall of his mellowed years, When nature brought him to the door of death?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The royal tree hath left us royal fruit, Which, mellowed by the stealing hours of time, Will well become the seat of majesty, And make, no doubt, us happy by his reign."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the oven made by the hot pavements and hot buildings, he has baked himself dryer than usual; and he has in his thirsty mind his mellowed port-wine half a century old."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Soften, make mellow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become more relaxed, easygoing, or genial.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And more than so, my father, Even in the downfall of his mellowed years, When nature brought him to the door of death?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The royal tree hath left us royal fruit, Which, mellowed by the stealing hours of time, Will well become the seat of majesty, And make, no doubt, us happy by his reign."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In the oven made by the hot pavements and hot buildings, he has baked himself dryer than usual; and he has in his thirsty mind his mellowed port-wine half a century old."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # archosaurian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct reptiles including: dinosaurs; plesiosaurs; pterosaurs; ichthyosaurs; thecodonts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to reptiles of the subclass archosauria.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archosaurian designates extinct reptiles including: dinosaurs; plesiosaurs; pterosaurs; ichthyosaurs; thecodonts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct reptiles including: dinosaurs; plesiosaurs; pterosaurs; ichthyosaurs; thecodonts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to reptiles of the subclass archosauria.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archosaurian designates extinct reptiles including: dinosaurs; plesiosaurs; pterosaurs; ichthyosaurs; thecodonts."*

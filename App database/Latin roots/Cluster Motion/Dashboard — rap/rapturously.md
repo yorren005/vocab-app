@@ -5,15 +5,6 @@ status: unread
 ---
 # rapturously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ecstatic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ecstatic manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Well, who is it?” she asked, in a voice and with a smile I half recognised; “you’ve not quite forgotten me, I think, Miss Jane?” In another second I was embracing and kissing her rapturously: “Bessie!"*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"My dear, dear aunt,” she rapturously cried, “what delight! what felicity!"*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Then I thought if she were, as I feared, by no means rapturously grateful for that destiny yet, when would she begin to be interested in me?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ecstatic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ecstatic manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Well, who is it?” she asked, in a voice and with a smile I half recognised; “you’ve not quite forgotten me, I think, Miss Jane?” In another second I was embracing and kissing her rapturously: “Bessie!"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"My dear, dear aunt,” she rapturously cried, “what delight! what felicity!"*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Then I thought if she were, as I feared, by no means rapturously grateful for that destiny yet, when would she begin to be interested in me?"*

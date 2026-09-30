@@ -5,13 +5,6 @@ status: unread
 ---
 # granuliferous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or full of granules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing or full of granules.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, granuliferous designates producing or full of granules."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or full of granules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing or full of granules.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, granuliferous designates producing or full of granules."*

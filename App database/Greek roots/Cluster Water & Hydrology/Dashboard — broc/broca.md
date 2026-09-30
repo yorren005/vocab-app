@@ -5,13 +5,6 @@ status: unread
 ---
 # broca
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French anthropologist who studied the craniums and brains of different races of people; remembered for his discovery that articulate speech depends on an area of the brain now known as broca's area (1824-1880).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French anthropologist who studied the craniums and brains of different races of people; remembered for his discovery that articulate speech depends on an area of the brain now known as broca's area (1824-1880).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I have from Oxford sent to London The heads of Brocas and Sir Bennet Seely, Two of the dangerous consorted traitors That sought at Oxford thy dire overthrow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French anthropologist who studied the craniums and brains of different races of people; remembered for his discovery that articulate speech depends on an area of the brain now known as broca's area (1824-1880).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French anthropologist who studied the craniums and brains of different races of people; remembered for his discovery that articulate speech depends on an area of the brain now known as broca's area (1824-1880).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I have from Oxford sent to London The heads of Brocas and Sir Bennet Seely, Two of the dangerous consorted traitors That sought at Oxford thy dire overthrow."*

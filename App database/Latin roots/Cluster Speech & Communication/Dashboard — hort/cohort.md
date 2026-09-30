@@ -5,15 +5,6 @@ status: unread
 ---
 # cohort
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A company of companions or supporters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A band of warriors (originally a unit of a roman legion).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Oldenberg, Part ii. (Oxford, 1892) p. 218 (_Sacred Books of the East_, vol. xxx.). [251] Petronius, _Sat._ 48; Pausanias, x. 12: 8; Justin Martyr, _Cohort ad Graecos_, 37, p. 34 c (ed. 1742)."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Be where I can reach you." ## Narval and Drummer turned away from the view tank in which they had observed Brad and heard his words and those of his cohorts."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"On his way home, in the night, he represents himself as attended by witnesses, cohorts to left and to right."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A company of companions or supporters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A band of warriors (originally a unit of a roman legion).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Oldenberg, Part ii. (Oxford, 1892) p. 218 (_Sacred Books of the East_, vol. xxx.). [251] Petronius, _Sat._ 48; Pausanias, x. 12: 8; Justin Martyr, _Cohort ad Graecos_, 37, p. 34 c (ed. 1742)."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Be where I can reach you." ## Narval and Drummer turned away from the view tank in which they had observed Brad and heard his words and those of his cohorts."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"On his way home, in the night, he represents himself as attended by witnesses, cohorts to left and to right."*

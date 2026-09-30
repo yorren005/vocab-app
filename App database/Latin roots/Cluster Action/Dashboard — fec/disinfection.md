@@ -5,13 +5,6 @@ status: unread
 ---
 # disinfection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treatment to destroy harmful microorganisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treatment to destroy harmful microorganisms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But until the ceremony of expiation or disinfection had been performed, if he wished to eat he had either to get some one to feed him, or else to go down on his knees and pick up the food from the ground with his mouth like a beast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treatment to destroy harmful microorganisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treatment to destroy harmful microorganisms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But until the ceremony of expiation or disinfection had been performed, if he wished to eat he had either to get some one to feed him, or else to go down on his knees and pick up the food from the ground with his mouth like a beast."*

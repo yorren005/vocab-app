@@ -5,13 +5,6 @@ status: unread
 ---
 # fixate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attach (oneself) to a person or thing in a neurotic way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pay attention to exclusively and obsessively.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fixate designates attach (oneself) to a person or thing in a neurotic way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attach (oneself) to a person or thing in a neurotic way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pay attention to exclusively and obsessively.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fixate designates attach (oneself) to a person or thing in a neurotic way."*

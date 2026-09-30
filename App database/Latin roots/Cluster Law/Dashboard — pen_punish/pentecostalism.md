@@ -5,13 +5,6 @@ status: unread
 ---
 # pentecostalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The principles and practices of pentecostal religious groups; characterized by religious excitement and talking in tongues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principles and practices of pentecostal religious groups; characterized by religious excitement and talking in tongues.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentecostalism designates the principles and practices of pentecostal religious groups; characterized by religious excitement and talking in tongues."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principles and practices of pentecostal religious groups; characterized by religious excitement and talking in tongues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principles and practices of pentecostal religious groups; characterized by religious excitement and talking in tongues.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentecostalism designates the principles and practices of pentecostal religious groups; characterized by religious excitement and talking in tongues."*

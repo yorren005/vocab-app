@@ -5,15 +5,6 @@ status: unread
 ---
 # matronly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Befitting or characteristic of a fully mature woman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Befitting or characteristic of a fully mature woman.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Me and Tom was to be sure to remember it.” Charley dried her eyes and entered on her functions, going in her matronly little way about and about the room and folding up everything she could lay her hands upon."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I looked: I saw a woman attired like a well-dressed servant, matronly, yet still young; very good-looking, with black hair and eyes, and lively complexion."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester in her behalf; but, hard-favoured and matronly as she was, the idea could not be admitted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Befitting or characteristic of a fully mature woman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Befitting or characteristic of a fully mature woman.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Me and Tom was to be sure to remember it.” Charley dried her eyes and entered on her functions, going in her matronly little way about and about the room and folding up everything she could lay her hands upon."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I looked: I saw a woman attired like a well-dressed servant, matronly, yet still young; very good-looking, with black hair and eyes, and lively complexion."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester in her behalf; but, hard-favoured and matronly as she was, the idea could not be admitted."*

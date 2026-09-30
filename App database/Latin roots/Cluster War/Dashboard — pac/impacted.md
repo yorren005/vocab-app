@@ -5,13 +5,6 @@ status: unread
 ---
 # impacted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Press or wedge together; pack together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have an effect upon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impacted designates press or wedge together; pack together."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Press or wedge together; pack together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have an effect upon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impacted designates press or wedge together; pack together."*

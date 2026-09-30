@@ -5,13 +5,6 @@ status: unread
 ---
 # castilian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The spanish language as spoken in castile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spanish language as spoken in castile.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Nauras Indians of New Granada ate the hearts of Spaniards when they had the opportunity, hoping thereby to make themselves as dauntless as the dreaded Castilian chivalry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The spanish language as spoken in castile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spanish language as spoken in castile.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Nauras Indians of New Granada ate the hearts of Spaniards when they had the opportunity, hoping thereby to make themselves as dauntless as the dreaded Castilian chivalry."*

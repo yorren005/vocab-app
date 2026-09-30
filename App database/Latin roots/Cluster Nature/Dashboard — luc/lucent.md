@@ -5,15 +5,6 @@ status: unread
 ---
 # lucent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Softly bright or radiant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Softly bright or radiant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"With all these faculties brought to bear on all he thinks, and lucent in all he says, there is little wonder that men recognized another note in Jesus from that familiar in their usual teachers."*
-> - 📜 **John Milton (*Paradise Lost*):** *"There lands the Fiend, a spot like which perhaps Astronomer in the Sun’s lucent Orbe Through his glaz’d Optic Tube yet never saw."*
-> - 📜 **John Milton (*Paradise Lost*):** *"There lands the Fiend, a spot like which perhaps Astronomer in the sun’s lucent orb Through his glazed optick tube yet never saw."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Softly bright or radiant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Softly bright or radiant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"With all these faculties brought to bear on all he thinks, and lucent in all he says, there is little wonder that men recognized another note in Jesus from that familiar in their usual teachers."*
+> - 📜 **John Milton (*Paradise Lost*):** *"There lands the Fiend, a spot like which perhaps Astronomer in the Sun’s lucent Orbe Through his glaz’d Optic Tube yet never saw."*
+> - 📜 **John Milton (*Paradise Lost*):** *"There lands the Fiend, a spot like which perhaps Astronomer in the sun’s lucent orb Through his glazed optick tube yet never saw."*

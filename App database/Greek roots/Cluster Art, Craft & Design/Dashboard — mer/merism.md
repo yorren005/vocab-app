@@ -5,13 +5,6 @@ status: unread
 ---
 # merism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Possession of (such) an arrangement of or relation among constituent chemical units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possession of (such) an arrangement of or relation among constituent chemical units.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The error, mes- merism - or hypnotism, to use the recent term 402:24 - illustrates the fact just stated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possession of (such) an arrangement of or relation among constituent chemical units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possession of (such) an arrangement of or relation among constituent chemical units.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The error, mes- merism - or hypnotism, to use the recent term 402:24 - illustrates the fact just stated."*

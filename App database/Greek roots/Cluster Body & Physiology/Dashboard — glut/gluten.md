@@ -5,13 +5,6 @@ status: unread
 ---
 # gluten
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A protein substance that remains when starch is removed from cereal grains; gives cohesiveness to dough.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protein substance that remains when starch is removed from cereal grains; gives cohesiveness to dough.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gluten designates a protein substance that remains when starch is removed from cereal grains; gives cohesiveness to dough."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A protein substance that remains when starch is removed from cereal grains; gives cohesiveness to dough.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protein substance that remains when starch is removed from cereal grains; gives cohesiveness to dough.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gluten designates a protein substance that remains when starch is removed from cereal grains; gives cohesiveness to dough."*

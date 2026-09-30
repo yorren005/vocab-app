@@ -5,13 +5,6 @@ status: unread
 ---
 # labial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A consonant whose articulation involves movement of the lips.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the lips of the mouth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The labial melody with which the Typee girls carry on an ordinary conversation, giving a musical prolongation to the final syllable of every sentence, and chirping out some of the words with a liquid, bird-like accent, was singularly pleasing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A consonant whose articulation involves movement of the lips.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the lips of the mouth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The labial melody with which the Typee girls carry on an ordinary conversation, giving a musical prolongation to the final syllable of every sentence, and chirping out some of the words with a liquid, bird-like accent, was singularly pleasing."*

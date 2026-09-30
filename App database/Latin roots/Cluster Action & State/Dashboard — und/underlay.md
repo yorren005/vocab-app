@@ -5,15 +5,6 @@ status: unread
 ---
 # underlay
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pad placed under a carpet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise or support (the level of printing) by inserting a piece of paper or cardboard under the type.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That would depend upon whether the germs of staunch comradeship underlay the temporary emotion, or whether it were a sensuous joy in her form only, with no substratum of everlastingness."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In short, what theory underlay and prompted the practice of these customs?"*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"A ray of the truth that underlay Cashel’s grotesque experiment was flickering in her mind as she asked herself that question."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pad placed under a carpet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise or support (the level of printing) by inserting a piece of paper or cardboard under the type.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That would depend upon whether the germs of staunch comradeship underlay the temporary emotion, or whether it were a sensuous joy in her form only, with no substratum of everlastingness."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In short, what theory underlay and prompted the practice of these customs?"*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"A ray of the truth that underlay Cashel’s grotesque experiment was flickering in her mind as she asked herself that question."*

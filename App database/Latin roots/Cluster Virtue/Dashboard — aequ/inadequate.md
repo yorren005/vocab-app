@@ -5,15 +5,6 @@ status: unread
 ---
 # inadequate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking the requisite qualities or resources to meet a task.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not sufficient to meet a need.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She tried several ballads, but found them inadequate; till, recollecting the psalter that her eyes had so often wandered over of a Sunday morning before she had eaten of the tree of knowledge, she chanted: “O ye Sun and Moon ..."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When he spoke it was in the most inadequate, commonplace voice of the many varied tones she had heard from him."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess asked herself; and, thinking of her wasted life, said, “All is vanity.” She repeated the words mechanically, till she reflected that this was a most inadequate thought for modern days."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking the requisite qualities or resources to meet a task.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not sufficient to meet a need.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She tried several ballads, but found them inadequate; till, recollecting the psalter that her eyes had so often wandered over of a Sunday morning before she had eaten of the tree of knowledge, she chanted: “O ye Sun and Moon ..."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When he spoke it was in the most inadequate, commonplace voice of the many varied tones she had heard from him."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess asked herself; and, thinking of her wasted life, said, “All is vanity.” She repeated the words mechanically, till she reflected that this was a most inadequate thought for modern days."*

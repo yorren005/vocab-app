@@ -5,13 +5,6 @@ status: unread
 ---
 # autarky
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Self-sufficiency, independence; specifically : national economic self-sufficiency and independence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A policy of establishing a self-sufficient and independent national economy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autarky designates self-sufficiency, independence; specifically : national economic self-sufficiency and independence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Self-sufficiency, independence; specifically : national economic self-sufficiency and independence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A policy of establishing a self-sufficient and independent national economy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autarky designates self-sufficiency, independence; specifically : national economic self-sufficiency and independence."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # sphalerite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mineral composed essentially of zinc sulfide that is the most important ore of zinc —called also zinc blende.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mineral composed essentially of zinc sulfide that is the most important ore of zinc —called also zinc blende.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphalerite designates a mineral composed essentially of zinc sulfide that is the most important ore of zinc —called also zinc blende."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mineral composed essentially of zinc sulfide that is the most important ore of zinc —called also zinc blende.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mineral composed essentially of zinc sulfide that is the most important ore of zinc —called also zinc blende.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphalerite designates a mineral composed essentially of zinc sulfide that is the most important ore of zinc —called also zinc blende."*

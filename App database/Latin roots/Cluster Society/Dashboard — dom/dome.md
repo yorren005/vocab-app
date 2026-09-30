@@ -5,15 +5,6 @@ status: unread
 ---
 # dome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A concave shape whose distinguishing characteristic is that the concavity faces downward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal terms for a human head.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Here, rivers in the sea were lost; There, mountains to the skies were toss’t: Here, tumbling billows mark’d the coast, With surging foam; There, distant shone Art’s lofty boast, The lordly dome."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"With awe-struck thought, and pitying tears, I view that noble, stately Dome, Where Scotia’s kings of other years, Fam’d heroes! had their royal home: Alas, how chang’d the times to come!"*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"So, I rubbed it off with all possible speed by turning into a street where I saw the great black dome of Saint Paul’s bulging at me from behind a grim stone building which a bystander said was Newgate Prison."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A concave shape whose distinguishing characteristic is that the concavity faces downward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal terms for a human head.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Here, rivers in the sea were lost; There, mountains to the skies were toss’t: Here, tumbling billows mark’d the coast, With surging foam; There, distant shone Art’s lofty boast, The lordly dome."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"With awe-struck thought, and pitying tears, I view that noble, stately Dome, Where Scotia’s kings of other years, Fam’d heroes! had their royal home: Alas, how chang’d the times to come!"*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"So, I rubbed it off with all possible speed by turning into a street where I saw the great black dome of Saint Paul’s bulging at me from behind a grim stone building which a bystander said was Newgate Prison."*

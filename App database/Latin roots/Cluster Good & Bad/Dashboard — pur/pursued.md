@@ -5,15 +5,6 @@ status: unread
 ---
 # pursued
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is being chased.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carry out or participate in an activity; be involved in.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Would I might never O’ertake pursued success, but I do feel, By the rebound of yours, a grief that smites My very heart at root."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most probable That so she died, for her physician tells me She hath pursued conclusions infinite Of easy ways to die."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then they fled Into this abbey, whither we pursued them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is being chased.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carry out or participate in an activity; be involved in.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Would I might never O’ertake pursued success, but I do feel, By the rebound of yours, a grief that smites My very heart at root."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most probable That so she died, for her physician tells me She hath pursued conclusions infinite Of easy ways to die."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then they fled Into this abbey, whither we pursued them."*

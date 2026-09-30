@@ -5,15 +5,6 @@ status: unread
 ---
 # posting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sign posted in a public place as an advertisement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (bookkeeping) a listing on the company's records.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Till I return of posting is no need."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But this exceeding posting day and night Must wear your spirits low."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, ’tis slander, Whose edge is sharper than the sword, whose tongue Outvenoms all the worms of Nile, whose breath Rides on the posting winds and doth belie All corners of the world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sign posted in a public place as an advertisement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (bookkeeping) a listing on the company's records.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Till I return of posting is no need."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But this exceeding posting day and night Must wear your spirits low."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, ’tis slander, Whose edge is sharper than the sword, whose tongue Outvenoms all the worms of Nile, whose breath Rides on the posting winds and doth belie All corners of the world."*

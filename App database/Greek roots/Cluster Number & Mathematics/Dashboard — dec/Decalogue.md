@@ -5,15 +5,6 @@ status: unread
 ---
 # Decalogue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ten commandments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A basic set of rules carrying binding authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"In her decalogue of manners to refuse an apology was an unpardonable sin."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He could have borne any sin in the Decalogue less hardly than a breach of the military oath."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Decalogue disregarded Corporeal sense defrauds and lies; it breaks all the commands of the Mosaic Decalogue to meet its own de- 489:15 mands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ten commandments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A basic set of rules carrying binding authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"In her decalogue of manners to refuse an apology was an unpardonable sin."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"He could have borne any sin in the Decalogue less hardly than a breach of the military oath."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Decalogue disregarded Corporeal sense defrauds and lies; it breaks all the commands of the Mosaic Decalogue to meet its own de- 489:15 mands."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # congregationalist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the congregational church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or characteristic of a congregational church.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"In this province, too, were the long-worked missionary establishments of the American Board (Congregationalist) and the China Inland Missions."*
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"The Americans have formed into two messes, the Presbyterians and Methodists eating at one time, the Congregationalists, who are in the majority, at another."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"How did they happen to be Presbyterians and not Congregationalists?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the congregational church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or characteristic of a congregational church.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"In this province, too, were the long-worked missionary establishments of the American Board (Congregationalist) and the China Inland Missions."*
+> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"The Americans have formed into two messes, the Presbyterians and Methodists eating at one time, the Congregationalists, who are in the majority, at another."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"How did they happen to be Presbyterians and not Congregationalists?"*

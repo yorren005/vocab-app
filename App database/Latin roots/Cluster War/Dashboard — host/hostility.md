@@ -5,15 +5,6 @@ status: unread
 ---
 # hostility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hostile (very unfriendly) disposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of deep-seated ill-will.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King hath sent to know The nature of your griefs, and whereupon You conjure from the breast of civil peace Such bold hostility, teaching his duteous land Audacious cruelty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To say the truth, it is your policy To save your subjects from such massacre And ruthless slaughters as are daily seen By our proceeding in hostility; And therefore take this compact of a truce, Although you break it when your pleasure serves."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, in the body of the fleshly land, This kingdom, this confine of blood and breath, Hostility and civil tumult reigns Between my conscience and my cousin’s death."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hostile (very unfriendly) disposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of deep-seated ill-will.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King hath sent to know The nature of your griefs, and whereupon You conjure from the breast of civil peace Such bold hostility, teaching his duteous land Audacious cruelty."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To say the truth, it is your policy To save your subjects from such massacre And ruthless slaughters as are daily seen By our proceeding in hostility; And therefore take this compact of a truce, Although you break it when your pleasure serves."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, in the body of the fleshly land, This kingdom, this confine of blood and breath, Hostility and civil tumult reigns Between my conscience and my cousin’s death."*

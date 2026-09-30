@@ -5,14 +5,6 @@ status: unread
 ---
 # typically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a typical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a typical manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Perhaps none of his poems is more purely and typically Shelleian than _The Cloud_, and it is interesting to note how essentially it springs from the faculty of make-believe."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Mr Edwards was a small, dapper little man, typically house-agenty in manner, even to the point of assuring us gravely that another tenant was urgently in the field, and that we had secured our lease by the very skin of our teeth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a typical manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a typical manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Perhaps none of his poems is more purely and typically Shelleian than _The Cloud_, and it is interesting to note how essentially it springs from the faculty of make-believe."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Mr Edwards was a small, dapper little man, typically house-agenty in manner, even to the point of assuring us gravely that another tenant was urgently in the field, and that we had secured our lease by the very skin of our teeth."*

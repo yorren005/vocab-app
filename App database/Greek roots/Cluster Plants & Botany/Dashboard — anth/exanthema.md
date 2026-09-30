@@ -5,13 +5,6 @@ status: unread
 ---
 # exanthema
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eruption on the skin occurring as a symptom of a disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eruption on the skin occurring as a symptom of a disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exanthema designates eruption on the skin occurring as a symptom of a disease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eruption on the skin occurring as a symptom of a disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eruption on the skin occurring as a symptom of a disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exanthema designates eruption on the skin occurring as a symptom of a disease."*

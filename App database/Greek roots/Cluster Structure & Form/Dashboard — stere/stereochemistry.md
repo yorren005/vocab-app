@@ -5,13 +5,6 @@ status: unread
 ---
 # stereochemistry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of chemistry that deals with the spatial arrangement of atoms and groups in molecules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spatial arrangement of atoms and groups in a compound and its relation to the properties of the compound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereochemistry designates a branch of chemistry that deals with the spatial arrangement of atoms and groups in molecules."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of chemistry that deals with the spatial arrangement of atoms and groups in molecules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spatial arrangement of atoms and groups in a compound and its relation to the properties of the compound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereochemistry designates a branch of chemistry that deals with the spatial arrangement of atoms and groups in molecules."*

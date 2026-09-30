@@ -5,13 +5,6 @@ status: unread
 ---
 # victoriana
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Collection of materials of or characteristic of the victorian era.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Collection of materials of or characteristic of the victorian era.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, victoriana designates collection of materials of or characteristic of the victorian era."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Collection of materials of or characteristic of the victorian era.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Collection of materials of or characteristic of the victorian era.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, victoriana designates collection of materials of or characteristic of the victorian era."*

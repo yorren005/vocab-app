@@ -5,13 +5,6 @@ status: unread
 ---
 # electrocutioner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An executioner who uses electricity to kill the condemned person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An executioner who uses electricity to kill the condemned person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrocutioner designates an executioner who uses electricity to kill the condemned person."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An executioner who uses electricity to kill the condemned person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An executioner who uses electricity to kill the condemned person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrocutioner designates an executioner who uses electricity to kill the condemned person."*

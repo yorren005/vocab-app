@@ -5,15 +5,6 @@ status: unread
 ---
 # tonnage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tax imposed on ships that enter the us; based on the tonnage of the ship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tax imposed on ships that enter the us; based on the tonnage of the ship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A state tax on railroad tonnage (Pennsylvania, 1860) was declared unconstitutional by the United States Supreme Court."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"There were thirty-six ships of fair tonnage which were reported there during those months."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"There is a good channel between these islands where vessels of any tonnage could anchor, but a little exposed to the south-east winds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tax imposed on ships that enter the us; based on the tonnage of the ship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tax imposed on ships that enter the us; based on the tonnage of the ship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A state tax on railroad tonnage (Pennsylvania, 1860) was declared unconstitutional by the United States Supreme Court."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"There were thirty-six ships of fair tonnage which were reported there during those months."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"There is a good channel between these islands where vessels of any tonnage could anchor, but a little exposed to the south-east winds."*

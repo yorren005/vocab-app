@@ -5,13 +5,6 @@ status: unread
 ---
 # ascomycete
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a division (Ascomycota) of higher fungi (such as yeasts or molds) with septate hyphae and spores formed in asci.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a division (Ascomycota) of higher fungi (such as yeasts or molds) with septate hyphae and spores formed in asci.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"ASCOMYCETES, 1s. -------------- London: ROBERT HARDWICKE, 192, Piccadilly. ------------------------------------------------------------------------ PREFACE TO SECOND EDITION."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a division (Ascomycota) of higher fungi (such as yeasts or molds) with septate hyphae and spores formed in asci.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a division (Ascomycota) of higher fungi (such as yeasts or molds) with septate hyphae and spores formed in asci.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"ASCOMYCETES, 1s. -------------- London: ROBERT HARDWICKE, 192, Piccadilly. ------------------------------------------------------------------------ PREFACE TO SECOND EDITION."*

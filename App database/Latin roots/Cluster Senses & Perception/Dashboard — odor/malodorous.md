@@ -5,14 +5,6 @@ status: unread
 ---
 # malodorous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an unpleasant smell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an unpleasant smell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"God bless you!...” He embraced his daughter, and then again Pierre, and kissed him with his malodorous mouth."*
-> - 📜 **Bram Stoker (*Dracula*):** *"We were prepared for some unpleasantness, for as we were opening the door a faint, malodorous air seemed to exhale through the gaps, but none of us ever expected such an odour as we encountered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an unpleasant smell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an unpleasant smell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"God bless you!...” He embraced his daughter, and then again Pierre, and kissed him with his malodorous mouth."*
+> - 📜 **Bram Stoker (*Dracula*):** *"We were prepared for some unpleasantness, for as we were opening the door a faint, malodorous air seemed to exhale through the gaps, but none of us ever expected such an odour as we encountered."*

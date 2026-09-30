@@ -5,15 +5,6 @@ status: unread
 ---
 # thereabouts
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Near that time or date.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Near that place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PAROLLES. ‘Five or six thousand horse’ I said—I will say true—or thereabouts, set down,—for I’ll speak truth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, for a fine thief, of the age of two-and-twenty or thereabouts!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be intelligent to me? ’Tis thereabouts; For, to yourself, what you do know, you must, And cannot say you dare not."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Near that time or date.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Near that place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PAROLLES. ‘Five or six thousand horse’ I said—I will say true—or thereabouts, set down,—for I’ll speak truth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, for a fine thief, of the age of two-and-twenty or thereabouts!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be intelligent to me? ’Tis thereabouts; For, to yourself, what you do know, you must, And cannot say you dare not."*

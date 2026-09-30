@@ -5,14 +5,6 @@ status: unread
 ---
 # insultingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disrespectful and insulting manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unfair and insulting manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"If he had spoken insultingly, you should have used your horsewhip on him."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"It is not mouthing everything sacred; it is not vague ranting assertions; it is not assuming, haughtily and insultingly, the dictatorial language of a Roman pontiff, that must dissolve a union like ours."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disrespectful and insulting manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unfair and insulting manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"If he had spoken insultingly, you should have used your horsewhip on him."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"It is not mouthing everything sacred; it is not vague ranting assertions; it is not assuming, haughtily and insultingly, the dictatorial language of a Roman pontiff, that must dissolve a union like ours."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # naturally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As might be expected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According to nature; by natural means; without artificial help.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have forgot your name; but, sure, that part Was aptly fitted and naturally perform’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"AUTOLYCUS. [_Aside._] Though I am not naturally honest, I am so sometimes by chance."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He naturally doesn't want anybody to know what is happening up there, but everybody in school knows that a ghost wanders about and sighs through the pine trees." "Mother has said more than once that nothing is going on there at all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As might be expected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According to nature; by natural means; without artificial help.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have forgot your name; but, sure, that part Was aptly fitted and naturally perform’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"AUTOLYCUS. [_Aside._] Though I am not naturally honest, I am so sometimes by chance."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He naturally doesn't want anybody to know what is happening up there, but everybody in school knows that a ghost wanders about and sighs through the pine trees." "Mother has said more than once that nothing is going on there at all."*

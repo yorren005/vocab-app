@@ -5,15 +5,6 @@ status: unread
 ---
 # conformable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Quick to comply; -shakespeare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disposed or willing to comply.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Heaven witness I have been to you a true and humble wife, At all times to your will conformable, Ever in fear to kindle your dislike, Yea, subject to your countenance, glad or sorry As I saw it inclined."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"On comparing the Constitution planned by the convention with the standard here fixed, we perceive at once that it is, in the most rigid sense, conformable to it."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It must be satisfactory to every State, because it is conformable to the standard already established, or which may be established, by the State itself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Quick to comply; -shakespeare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disposed or willing to comply.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Heaven witness I have been to you a true and humble wife, At all times to your will conformable, Ever in fear to kindle your dislike, Yea, subject to your countenance, glad or sorry As I saw it inclined."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"On comparing the Constitution planned by the convention with the standard here fixed, we perceive at once that it is, in the most rigid sense, conformable to it."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It must be satisfactory to every State, because it is conformable to the standard already established, or which may be established, by the State itself."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # familiarized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make familiar or conversant with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having achieved a comfortable relation with your environment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"On the contrary, he would have despised any ostentation of expense; his profession had familiarized him with all grades of poverty, and he cared much for those who suffered hardships."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The frequency with which death visited the family during his childhood and youth, familiarized him at an early age with scenes of sorrow and grief."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Thus she early became familiarized with their sufferings, and their wants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make familiar or conversant with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having achieved a comfortable relation with your environment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"On the contrary, he would have despised any ostentation of expense; his profession had familiarized him with all grades of poverty, and he cared much for those who suffered hardships."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The frequency with which death visited the family during his childhood and youth, familiarized him at an early age with scenes of sorrow and grief."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Thus she early became familiarized with their sufferings, and their wants."*

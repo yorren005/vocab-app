@@ -5,13 +5,6 @@ status: unread
 ---
 # monocotyledones
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising seed plants that produce an embryo with a single cotyledon and parallel-veined leaves: includes grasses and lilies and palms and orchids; divided into four subclasses or superorders: alismatidae; arecidae; commelinidae; and liliidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising seed plants that produce an embryo with a single cotyledon and parallel-veined leaves: includes grasses and lilies and palms and orchids; divided into four subclasses or superorders: alismatidae; arecidae; commelinidae; and liliidae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocotyledones designates comprising seed plants that produce an embryo with a single cotyledon and parallel-veined leaves: includes grasses and lilies and palms and orchids; divided into four subclasses or superorders: alismatidae; arecidae; commelinidae; and liliidae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising seed plants that produce an embryo with a single cotyledon and parallel-veined leaves: includes grasses and lilies and palms and orchids; divided into four subclasses or superorders: alismatidae; arecidae; commelinidae; and liliidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising seed plants that produce an embryo with a single cotyledon and parallel-veined leaves: includes grasses and lilies and palms and orchids; divided into four subclasses or superorders: alismatidae; arecidae; commelinidae; and liliidae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocotyledones designates comprising seed plants that produce an embryo with a single cotyledon and parallel-veined leaves: includes grasses and lilies and palms and orchids; divided into four subclasses or superorders: alismatidae; arecidae; commelinidae; and liliidae."*

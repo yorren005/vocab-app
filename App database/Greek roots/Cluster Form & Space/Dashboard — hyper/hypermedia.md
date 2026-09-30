@@ -5,13 +5,6 @@ status: unread
 ---
 # hypermedia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A multimedia system in which related items of information are connected and can be presented together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A multimedia system in which related items of information are connected and can be presented together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypermedia designates a multimedia system in which related items of information are connected and can be presented together."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A multimedia system in which related items of information are connected and can be presented together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A multimedia system in which related items of information are connected and can be presented together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypermedia designates a multimedia system in which related items of information are connected and can be presented together."*

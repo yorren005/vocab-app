@@ -5,15 +5,6 @@ status: unread
 ---
 # canter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A smooth three-beat gait; between a trot and a gallop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ride at a canter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then there was a pony expressly for my riding, a chubby pony with a short neck and a mane all over his eyes who could canter—when he would—so easily and quietly that he was a treasure."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"’Tis a canter now,” he said, throwing away the light."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She would canter up to the door on her pony, followed by a mounted livery servant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A smooth three-beat gait; between a trot and a gallop.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ride at a canter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Then there was a pony expressly for my riding, a chubby pony with a short neck and a mane all over his eyes who could canter—when he would—so easily and quietly that he was a treasure."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"’Tis a canter now,” he said, throwing away the light."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She would canter up to the door on her pony, followed by a mounted livery servant."*

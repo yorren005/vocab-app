@@ -5,15 +5,6 @@ status: unread
 ---
 # emphatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spoken with emphasis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sudden and strong.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But people who know better should be very emphatic in suppressing it." "What was the misfortune that happened long ago in the castle and then again?" Kurt asked in great suspense."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George shook his head in the most emphatic manner."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If I have not,” pursues Sir Leicester, “in the most emphatic manner, adjured you, officer, to exercise your utmost skill in this atrocious case, I particularly desire to take the present opportunity of rectifying any omission I may have made."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spoken with emphasis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sudden and strong.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But people who know better should be very emphatic in suppressing it." "What was the misfortune that happened long ago in the castle and then again?" Kurt asked in great suspense."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"George shook his head in the most emphatic manner."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"If I have not,” pursues Sir Leicester, “in the most emphatic manner, adjured you, officer, to exercise your utmost skill in this atrocious case, I particularly desire to take the present opportunity of rectifying any omission I may have made."*

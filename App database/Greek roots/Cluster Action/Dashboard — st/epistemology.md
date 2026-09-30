@@ -5,13 +5,6 @@ status: unread
 ---
 # epistemology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study or a theory of the nature and grounds of knowledge especially with reference to its limits and validity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study or a theory of the nature and grounds of knowledge especially with reference to its limits and validity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Like Seneca and Plutarch he was not interested in Philosophy apart from these issues--epistemology, psychology, physics and so forth were not practical matters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study or a theory of the nature and grounds of knowledge especially with reference to its limits and validity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study or a theory of the nature and grounds of knowledge especially with reference to its limits and validity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Like Seneca and Plutarch he was not interested in Philosophy apart from these issues--epistemology, psychology, physics and so forth were not practical matters."*

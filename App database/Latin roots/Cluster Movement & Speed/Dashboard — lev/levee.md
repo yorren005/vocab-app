@@ -5,15 +5,6 @@ status: unread
 ---
 # levee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal reception of visitors or guests (as at a royal court).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pier that provides a landing place on a river.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"My bardship here, at your Levee On sic a day as this is, Is sure an uncouth sight to see, Amang thae birth-day dresses Sae fine this day."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Nae mair we see his levee door Philosophers and poets pour, And toothy critics by the score, In bloody raw!"*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Reclining upon our mats, we now held a kind of levee, giving audience to successive troops of the natives, who introduced themselves to us by pronouncing their respective names, and retired in high good humour on receiving ours in return."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal reception of visitors or guests (as at a royal court).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pier that provides a landing place on a river.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"My bardship here, at your Levee On sic a day as this is, Is sure an uncouth sight to see, Amang thae birth-day dresses Sae fine this day."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Nae mair we see his levee door Philosophers and poets pour, And toothy critics by the score, In bloody raw!"*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Reclining upon our mats, we now held a kind of levee, giving audience to successive troops of the natives, who introduced themselves to us by pronouncing their respective names, and retired in high good humour on receiving ours in return."*

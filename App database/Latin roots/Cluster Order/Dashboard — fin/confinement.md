@@ -5,15 +5,6 @@ status: unread
 ---
 # confinement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concluding state of pregnancy; from the onset of contractions to the birth of a child.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of restraining of a person's liberty by confining them.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was in vain that we all three talked to him and endeavoured to persuade him; he listened with that gentleness which went so well with his bluff bearing, but was evidently no more shaken by our representations that his place of confinement was."*
-> - 📜 **Jane Austen (*Persuasion*):** *"It must be a work of time to ascertain that no injury had been done to the spine; but Mr Robinson found nothing to increase alarm, and Charles Musgrove began, consequently, to feel no necessity for longer confinement."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He’s not to die. ’Tis confinement during Her Majesty’s pleasure.” “Hurrah!” said Coggan, with a swelling heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concluding state of pregnancy; from the onset of contractions to the birth of a child.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of restraining of a person's liberty by confining them.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It was in vain that we all three talked to him and endeavoured to persuade him; he listened with that gentleness which went so well with his bluff bearing, but was evidently no more shaken by our representations that his place of confinement was."*
+> - 📜 **Jane Austen (*Persuasion*):** *"It must be a work of time to ascertain that no injury had been done to the spine; but Mr Robinson found nothing to increase alarm, and Charles Musgrove began, consequently, to feel no necessity for longer confinement."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He’s not to die. ’Tis confinement during Her Majesty’s pleasure.” “Hurrah!” said Coggan, with a swelling heart."*

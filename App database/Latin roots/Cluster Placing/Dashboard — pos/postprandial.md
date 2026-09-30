@@ -5,14 +5,6 @@ status: unread
 ---
 # postprandial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Following a meal (especially dinner).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Following a meal (especially dinner).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Your postprandial, do you know that word?"*
-> - 📜 **James Joyce (*Ulysses*):** *"There was a fellow I knew once in Barcelona, queer fellow, used to call it his postprandial."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Following a meal (especially dinner).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Following a meal (especially dinner).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Your postprandial, do you know that word?"*
+> - 📜 **James Joyce (*Ulysses*):** *"There was a fellow I knew once in Barcelona, queer fellow, used to call it his postprandial."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # biosphere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The regions of the surface and atmosphere of the earth (or other planet) where living organisms exist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The regions of the surface and atmosphere of the earth (or other planet) where living organisms exist.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biosphere designates the regions of the surface and atmosphere of the earth (or other planet) where living organisms exist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The regions of the surface and atmosphere of the earth (or other planet) where living organisms exist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The regions of the surface and atmosphere of the earth (or other planet) where living organisms exist.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biosphere designates the regions of the surface and atmosphere of the earth (or other planet) where living organisms exist."*

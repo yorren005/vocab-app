@@ -5,13 +5,6 @@ status: unread
 ---
 # cellaret
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sideboard with compartments for holding bottles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sideboard with compartments for holding bottles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A board was found, fixed on two saddles and covered with a horsecloth, a small samovar was produced and a cellaret and half a bottle of rum, and having asked Mary Hendríkhovna to preside, they all crowded round her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sideboard with compartments for holding bottles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sideboard with compartments for holding bottles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A board was found, fixed on two saddles and covered with a horsecloth, a small samovar was produced and a cellaret and half a bottle of rum, and having asked Mary Hendríkhovna to preside, they all crowded round her."*

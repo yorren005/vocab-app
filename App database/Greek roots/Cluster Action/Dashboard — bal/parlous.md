@@ -5,15 +5,6 @@ status: unread
 ---
 # parlous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fraught with danger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fraught with danger.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art in a parlous state, shepherd."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SNOUT By’r lakin, a parlous fear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, ’tis a parlous boy, Bold, quick, ingenious, forward, capable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fraught with danger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fraught with danger.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art in a parlous state, shepherd."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SNOUT By’r lakin, a parlous fear."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, ’tis a parlous boy, Bold, quick, ingenious, forward, capable."*

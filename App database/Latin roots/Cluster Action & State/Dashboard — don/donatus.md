@@ -5,13 +5,6 @@ status: unread
 ---
 # donatus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman grammarian whose textbook on latin grammar was used throughout the middle ages (fourth century).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman grammarian whose textbook on latin grammar was used throughout the middle ages (fourth century).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, donatus designates roman grammarian whose textbook on latin grammar was used throughout the middle ages (fourth century)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman grammarian whose textbook on latin grammar was used throughout the middle ages (fourth century).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman grammarian whose textbook on latin grammar was used throughout the middle ages (fourth century).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, donatus designates roman grammarian whose textbook on latin grammar was used throughout the middle ages (fourth century)."*

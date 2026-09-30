@@ -5,14 +5,6 @@ status: unread
 ---
 # facetiousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Playful humor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Playful humor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I'm becoming a mere bundle of quivering ganglions." I loath facetiousness in moments of stress."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"But even the pathetic facetiousness of her elder sister did not bring a smile to Hannah Knowles's face, and the next day one was at the loom and the other at the wheel again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Playful humor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Playful humor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I'm becoming a mere bundle of quivering ganglions." I loath facetiousness in moments of stress."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"But even the pathetic facetiousness of her elder sister did not bring a smile to Hannah Knowles's face, and the next day one was at the loom and the other at the wheel again."*

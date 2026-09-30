@@ -5,15 +5,6 @@ status: unread
 ---
 # pensive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deeply or seriously thoughtful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing pensive sadness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, brother of Clarence, how like you our choice, That you stand pensive as half malcontent?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My leisure serves me, pensive daughter, now.— My lord, we must entreat the time alone."*
-> - 📜 **Jane Austen (*Persuasion*):** *"A few months hence, and the room now so deserted, occupied but by her silent, pensive self, might be filled again with all that was happy and gay, all that was glowing and bright in prosperous love, all that was most unlike Anne Elliot!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deeply or seriously thoughtful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing pensive sadness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, brother of Clarence, how like you our choice, That you stand pensive as half malcontent?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My leisure serves me, pensive daughter, now.— My lord, we must entreat the time alone."*
+> - 📜 **Jane Austen (*Persuasion*):** *"A few months hence, and the room now so deserted, occupied but by her silent, pensive self, might be filled again with all that was happy and gay, all that was glowing and bright in prosperous love, all that was most unlike Anne Elliot!"*

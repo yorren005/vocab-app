@@ -5,15 +5,6 @@ status: unread
 ---
 # latticed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a pattern of fretwork or latticework.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a pattern of fretwork or latticework.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The new part, containing the schoolroom and dormitory, was lit by mullioned and latticed windows, which gave it a church-like aspect; a stone tablet over the door bore this inscription:— LOWOOD INSTITUTION."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The steps and banisters were of oak; the staircase window was high and latticed; both it and the long gallery into which the bedroom doors opened looked as if they belonged to a church rather than a house."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The house presented two pointed gables in its front; the windows were latticed and narrow: the front door was narrow too, one step led up to it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a pattern of fretwork or latticework.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a pattern of fretwork or latticework.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The new part, containing the schoolroom and dormitory, was lit by mullioned and latticed windows, which gave it a church-like aspect; a stone tablet over the door bore this inscription:— LOWOOD INSTITUTION."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The steps and banisters were of oak; the staircase window was high and latticed; both it and the long gallery into which the bedroom doors opened looked as if they belonged to a church rather than a house."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The house presented two pointed gables in its front; the windows were latticed and narrow: the front door was narrow too, one step led up to it."*

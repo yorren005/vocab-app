@@ -5,13 +5,6 @@ status: unread
 ---
 # bromeliaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of tropical american plants of order xyridales including several (as the pineapple) of economic importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of tropical american plants of order xyridales including several (as the pineapple) of economic importance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bromeliaceae designates a family of tropical american plants of order xyridales including several (as the pineapple) of economic importance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of tropical american plants of order xyridales including several (as the pineapple) of economic importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of tropical american plants of order xyridales including several (as the pineapple) of economic importance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bromeliaceae designates a family of tropical american plants of order xyridales including several (as the pineapple) of economic importance."*

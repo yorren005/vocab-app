@@ -5,13 +5,6 @@ status: unread
 ---
 # leontief
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states economist (born in russia) who devised an input-output method of economic analysis (1906-1999).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states economist (born in russia) who devised an input-output method of economic analysis (1906-1999).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leontief designates united states economist (born in russia) who devised an input-output method of economic analysis (1906-1999)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states economist (born in russia) who devised an input-output method of economic analysis (1906-1999).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states economist (born in russia) who devised an input-output method of economic analysis (1906-1999).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leontief designates united states economist (born in russia) who devised an input-output method of economic analysis (1906-1999)."*

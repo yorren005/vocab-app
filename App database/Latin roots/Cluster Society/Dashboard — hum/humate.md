@@ -5,13 +5,6 @@ status: unread
 ---
 # humate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Material that is high in humic acids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Material that is high in humic acids.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, humate designates material that is high in humic acids."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Material that is high in humic acids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Material that is high in humic acids.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, humate designates material that is high in humic acids."*

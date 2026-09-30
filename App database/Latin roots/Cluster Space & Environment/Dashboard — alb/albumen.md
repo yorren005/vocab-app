@@ -5,13 +5,6 @@ status: unread
 ---
 # albumen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple water-soluble protein found in many animal tissues and liquids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The white part of an egg; the nutritive and protective gelatinous substance surrounding the yolk consisting mainly of albumin dissolved in water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albumen designates a simple water-soluble protein found in many animal tissues and liquids."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple water-soluble protein found in many animal tissues and liquids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The white part of an egg; the nutritive and protective gelatinous substance surrounding the yolk consisting mainly of albumin dissolved in water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albumen designates a simple water-soluble protein found in many animal tissues and liquids."*

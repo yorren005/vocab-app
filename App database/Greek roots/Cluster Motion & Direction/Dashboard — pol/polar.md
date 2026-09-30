@@ -5,15 +5,6 @@ status: unread
 ---
 # polar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a geographic pole or the region around it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming from or having the characteristics of such a region.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The snow had followed the birds from the polar basin as a white pillar of a cloud, and individual flakes could not be seen."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The third showed the pinnacle of an iceberg piercing a polar winter sky: a muster of northern lights reared their dim lances, close serried, along the horizon."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thy sons ne’er madden in the fierce extremes Of Fortune’s polar frost, or torrid beams."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a geographic pole or the region around it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming from or having the characteristics of such a region.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The snow had followed the birds from the polar basin as a white pillar of a cloud, and individual flakes could not be seen."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The third showed the pinnacle of an iceberg piercing a polar winter sky: a muster of northern lights reared their dim lances, close serried, along the horizon."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thy sons ne’er madden in the fierce extremes Of Fortune’s polar frost, or torrid beams."*

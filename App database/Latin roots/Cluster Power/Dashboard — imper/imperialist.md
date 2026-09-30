@@ -5,14 +5,6 @@ status: unread
 ---
 # imperialist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A believer in imperialism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to imperialism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Nor did the energetic imperialist stop here."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We will not be slaves to the imperialists of the Inner Region." The new President organized a brotherhood with like morals, and bestowed on them ministries of great personal influence and profit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A believer in imperialism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to imperialism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Nor did the energetic imperialist stop here."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We will not be slaves to the imperialists of the Inner Region." The new President organized a brotherhood with like morals, and bestowed on them ministries of great personal influence and profit."*

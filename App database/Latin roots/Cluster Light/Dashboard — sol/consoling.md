@@ -5,15 +5,6 @@ status: unread
 ---
 # consoling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give moral or emotional strength to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording comfort or solace.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Lippo faithfully followed Leonore wherever she went and from time to time repeated his consoling words, but he said them in such a wailing voice that they sounded extremely doleful."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Mary, very much gratified by this attention, was delighted to receive him, while a thousand feelings rushed on Anne, of which this was the most consoling, that it would soon be over."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Let us flatter ourselves that _I_ may be the survivor.” This was not very consoling to Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give moral or emotional strength to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording comfort or solace.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Lippo faithfully followed Leonore wherever she went and from time to time repeated his consoling words, but he said them in such a wailing voice that they sounded extremely doleful."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Mary, very much gratified by this attention, was delighted to receive him, while a thousand feelings rushed on Anne, of which this was the most consoling, that it would soon be over."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Let us flatter ourselves that _I_ may be the survivor.” This was not very consoling to Mrs."*

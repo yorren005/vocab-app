@@ -5,13 +5,6 @@ status: unread
 ---
 # timpani
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large hemispherical brass or copper percussion instrument with a drumhead that can be tuned by adjusting the tension on it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large hemispherical brass or copper percussion instrument with a drumhead that can be tuned by adjusting the tension on it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, timpani designates a large hemispherical brass or copper percussion instrument with a drumhead that can be tuned by adjusting the tension on it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large hemispherical brass or copper percussion instrument with a drumhead that can be tuned by adjusting the tension on it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large hemispherical brass or copper percussion instrument with a drumhead that can be tuned by adjusting the tension on it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, timpani designates a large hemispherical brass or copper percussion instrument with a drumhead that can be tuned by adjusting the tension on it."*

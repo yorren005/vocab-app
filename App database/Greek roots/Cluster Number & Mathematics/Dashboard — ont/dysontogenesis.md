@@ -5,13 +5,6 @@ status: unread
 ---
 # dysontogenesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The defective development of an embryo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The defective development of an embryo.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysontogenesis designates the defective development of an embryo."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The defective development of an embryo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The defective development of an embryo.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysontogenesis designates the defective development of an embryo."*

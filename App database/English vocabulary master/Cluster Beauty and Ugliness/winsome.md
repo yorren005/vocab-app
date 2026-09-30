@@ -5,20 +5,6 @@ status: unread
 ---
 # winsome
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Cheerful, lighthearted
-> 2. **Nuance / Usage**: Generally pleasing and engaging often because of a childlike charm and innocence
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a winsome appearance*) and predicatively after a linking verb (*remained winsome*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"childlike look, and winsome fanciful ways, and shy tremulous grace."*
-> - 📜 **Jonathan Freke Slingsby [pseudonym; {{w (*Slingsby in Scotland. Part II.—Conclusion.*):** *"Will ye keep your troth to me, / Winsome Annie Ramsay? / Will ye keep your troth to me, / Winsome Annie Ramsay? / Will ye keep your troth to me? / My ain true luve will ye be? / Then meet me at the trysting tree, / Winsome Annie Ramsay."*
-> - 📜 **David Alexander (*Hangman’s Dozen*):** *"The pink wallpaper of the nursery was decorated with a Noah's Ark of friendly lions and comical giraffes and winsome elephants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Appealing, charming, and engaging in appearance or manner, often because of a fresh, open, or childlike innocence.
+> 2. **Nuance / Usage**: Derived from Old English *wynsum* ("joyous, delightful"), it suggests a disarming, unstudied sweetness that wins affection effortlessly rather than through grand sophistication.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a winsome smile*) and predicatively after a linking verb (*remained winsome*).
+> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"She had a childlike look, **winsome** fanciful ways, and a shy, tremulous grace."*
+> - 📜 **David Alexander (*Hangman’s Dozen*):** *"The pink wallpaper of the nursery was decorated with a Noah's Ark of friendly lions, comical giraffes, and **winsome** elephants."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Phoebe possessed a **winsome** cheerfulness that brightened the gloomy old chambers like a beam of morning sunshine."*

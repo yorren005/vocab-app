@@ -5,15 +5,6 @@ status: unread
 ---
 # despot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ruler with absolute power and authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One exercising power tyrannically : a person exercising absolute power in a brutal or oppressive way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"If I were to meet that most unparalleled despot in the streets to-morrow, I would fell him like a rotten tree!” “I have no doubt of it,” said Mr."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The assessor is as near a despot as any agent of popular government to-day."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Lines Inscribed In A Lady’s Pocket Almanac Grant me, indulgent Heaven, that I may live, To see the miscreants feel the pains they give; Deal Freedom’s sacred treasures free as air, Till Slave and Despot be but things that were."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ruler with absolute power and authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One exercising power tyrannically : a person exercising absolute power in a brutal or oppressive way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"If I were to meet that most unparalleled despot in the streets to-morrow, I would fell him like a rotten tree!” “I have no doubt of it,” said Mr."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The assessor is as near a despot as any agent of popular government to-day."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Lines Inscribed In A Lady’s Pocket Almanac Grant me, indulgent Heaven, that I may live, To see the miscreants feel the pains they give; Deal Freedom’s sacred treasures free as air, Till Slave and Despot be but things that were."*

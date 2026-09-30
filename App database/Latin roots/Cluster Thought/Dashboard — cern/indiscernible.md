@@ -5,14 +5,6 @@ status: unread
 ---
 # indiscernible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficult or impossible to perceive or discern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Barely able to be perceived.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"You were in the grounds adjoining Major Howard's mansion on the night of the twelfth of January last," said he, addressing the singular-looking man, whose features were so entirely hidden by his collar and hat-brim, as to be indiscernible."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"A crease and a hole in the midst of a cluster of lumps of raw flesh indicated the presence of an eye and a mouth; the rest of his features were indiscernible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficult or impossible to perceive or discern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Barely able to be perceived.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"You were in the grounds adjoining Major Howard's mansion on the night of the twelfth of January last," said he, addressing the singular-looking man, whose features were so entirely hidden by his collar and hat-brim, as to be indiscernible."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"A crease and a hole in the midst of a cluster of lumps of raw flesh indicated the presence of an eye and a mouth; the rest of his features were indiscernible."*

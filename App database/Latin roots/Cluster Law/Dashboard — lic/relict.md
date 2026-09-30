@@ -5,15 +5,6 @@ status: unread
 ---
 # relict
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism or species surviving as a remnant of an otherwise extinct flora or fauna in an environment much changed from that in which it originated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Geological feature that is a remnant of a pre-existing formation after other parts have disappeared.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"She is the relict of my beloved uncle, the sixteenth or seventeenth Baron Bluebell—I forget exactly how many of them there have been."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The only relict of it is a boar’s head, carved in relief in stone, which formerly served as the sign, but at present is built into the parting line of two houses which stand on the site of the renowned old tavern."*
-> - 📜 **James Joyce (*Ulysses*):** *"Mrs Florence MacCabe, relict of the late Patk MacCabe, deeply lamented, of Bride Street."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism or species surviving as a remnant of an otherwise extinct flora or fauna in an environment much changed from that in which it originated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Geological feature that is a remnant of a pre-existing formation after other parts have disappeared.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"She is the relict of my beloved uncle, the sixteenth or seventeenth Baron Bluebell—I forget exactly how many of them there have been."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The only relict of it is a boar’s head, carved in relief in stone, which formerly served as the sign, but at present is built into the parting line of two houses which stand on the site of the renowned old tavern."*
+> - 📜 **James Joyce (*Ulysses*):** *"Mrs Florence MacCabe, relict of the late Patk MacCabe, deeply lamented, of Bride Street."*

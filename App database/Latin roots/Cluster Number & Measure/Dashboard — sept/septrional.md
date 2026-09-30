@@ -5,13 +5,6 @@ status: unread
 ---
 # septrional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of northern regions; from the seven stars (or seven plowing oxen) of ursa major.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of northern regions; from the seven stars (or seven plowing oxen) of ursa major.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, septrional designates of northern regions; from the seven stars (or seven plowing oxen) of ursa major."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of northern regions; from the seven stars (or seven plowing oxen) of ursa major.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of northern regions; from the seven stars (or seven plowing oxen) of ursa major.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, septrional designates of northern regions; from the seven stars (or seven plowing oxen) of ursa major."*

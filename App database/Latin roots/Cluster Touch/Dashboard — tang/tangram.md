@@ -5,13 +5,6 @@ status: unread
 ---
 # tangram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chinese puzzle consisting of a square divided into seven pieces that must be arranged to match particular designs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chinese puzzle consisting of a square divided into seven pieces that must be arranged to match particular designs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tangram designates a chinese puzzle consisting of a square divided into seven pieces that must be arranged to match particular designs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chinese puzzle consisting of a square divided into seven pieces that must be arranged to match particular designs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chinese puzzle consisting of a square divided into seven pieces that must be arranged to match particular designs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tangram designates a chinese puzzle consisting of a square divided into seven pieces that must be arranged to match particular designs."*

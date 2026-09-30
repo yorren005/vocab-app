@@ -5,13 +5,6 @@ status: unread
 ---
 # atopic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genetic disposition to develop an allergic reaction (such as allergic rhinitis or asthma) and produce elevated levels of IgE upon exposure to an environmental antigen and especially one inhaled or ingested.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genetic disposition to develop an allergic reaction (such as allergic rhinitis or asthma) and produce elevated levels of IgE upon exposure to an environmental antigen and especially one inhaled or ingested.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atopic designates a genetic disposition to develop an allergic reaction (such as allergic rhinitis or asthma) and produce elevated levels of ige upon exposure to an environmental antigen and especially one inhaled or ingested."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genetic disposition to develop an allergic reaction (such as allergic rhinitis or asthma) and produce elevated levels of IgE upon exposure to an environmental antigen and especially one inhaled or ingested.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genetic disposition to develop an allergic reaction (such as allergic rhinitis or asthma) and produce elevated levels of IgE upon exposure to an environmental antigen and especially one inhaled or ingested.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atopic designates a genetic disposition to develop an allergic reaction (such as allergic rhinitis or asthma) and produce elevated levels of ige upon exposure to an environmental antigen and especially one inhaled or ingested."*

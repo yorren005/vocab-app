@@ -5,15 +5,6 @@ status: unread
 ---
 # undiscovered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not discovered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not yet discovered.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Full often, like a shag-haired crafty kern, Hath he conversed with the enemy, And undiscovered come to me again And given me notice of their villainies."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"To suppose that a manuscript of many generations back could have remained undiscovered in a room such as that, so modern, so habitable!—Or that she should be the first to possess the skill of unlocking a cabinet, the key of which was open to all!"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"As yet my flight, I was sure, was undiscovered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not discovered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not yet discovered.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Full often, like a shag-haired crafty kern, Hath he conversed with the enemy, And undiscovered come to me again And given me notice of their villainies."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"To suppose that a manuscript of many generations back could have remained undiscovered in a room such as that, so modern, so habitable!—Or that she should be the first to possess the skill of unlocking a cabinet, the key of which was open to all!"*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"As yet my flight, I was sure, was undiscovered."*

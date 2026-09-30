@@ -5,13 +5,6 @@ status: unread
 ---
 # convertibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being exchangeable (especially the ability to convert a currency into gold or other currencies without restriction).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being exchangeable (especially the ability to convert a currency into gold or other currencies without restriction).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, convertibility designates the quality of being exchangeable (especially the ability to convert a currency into gold or other currencies without restriction)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being exchangeable (especially the ability to convert a currency into gold or other currencies without restriction).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being exchangeable (especially the ability to convert a currency into gold or other currencies without restriction).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, convertibility designates the quality of being exchangeable (especially the ability to convert a currency into gold or other currencies without restriction)."*

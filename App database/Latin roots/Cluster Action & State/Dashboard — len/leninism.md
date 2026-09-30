@@ -5,13 +5,6 @@ status: unread
 ---
 # leninism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The political and economic theories of lenin which provided the guiding doctrine of the soviet union; the modification of marxism by lenin stressed that imperialism is the highest form of capitalism (which shifts the struggle from developed to underdeveloped countries).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political and economic theories of lenin which provided the guiding doctrine of the soviet union; the modification of marxism by lenin stressed that imperialism is the highest form of capitalism (which shifts the struggle from developed to underdeveloped countries).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leninism designates the political and economic theories of lenin which provided the guiding doctrine of the soviet union; the modification of marxism by lenin stressed that imperialism is the highest form of capitalism (which shifts the struggle from developed to underdeveloped countries)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The political and economic theories of lenin which provided the guiding doctrine of the soviet union; the modification of marxism by lenin stressed that imperialism is the highest form of capitalism (which shifts the struggle from developed to underdeveloped countries).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political and economic theories of lenin which provided the guiding doctrine of the soviet union; the modification of marxism by lenin stressed that imperialism is the highest form of capitalism (which shifts the struggle from developed to underdeveloped countries).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leninism designates the political and economic theories of lenin which provided the guiding doctrine of the soviet union; the modification of marxism by lenin stressed that imperialism is the highest form of capitalism (which shifts the struggle from developed to underdeveloped countries)."*

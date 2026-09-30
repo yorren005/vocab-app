@@ -5,13 +5,6 @@ status: unread
 ---
 # ephemera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something transitory; lasting a day.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anything short-lived, as an insect that lives only for a day in its winged form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ephemera designates something transitory; lasting a day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something transitory; lasting a day.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anything short-lived, as an insect that lives only for a day in its winged form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ephemera designates something transitory; lasting a day."*

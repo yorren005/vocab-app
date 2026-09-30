@@ -5,15 +5,6 @@ status: unread
 ---
 # mirror
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Polished surface that forms images by reflecting light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A faithful depiction or reflection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When such a spacious mirror’s set before him, He needs must see himself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, in the verity of extolment, I take him to be a soul of great article and his infusion of such dearth and rareness as, to make true diction of him, his semblable is his mirror and who else would trace him his umbrage, nothing more."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They sell the pasture now to buy the horse, Following the mirror of all Christian kings, With winged heels, as English Mercuries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Polished surface that forms images by reflecting light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A faithful depiction or reflection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When such a spacious mirror’s set before him, He needs must see himself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, in the verity of extolment, I take him to be a soul of great article and his infusion of such dearth and rareness as, to make true diction of him, his semblable is his mirror and who else would trace him his umbrage, nothing more."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They sell the pasture now to buy the horse, Following the mirror of all Christian kings, With winged heels, as English Mercuries."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # porcupinefish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spines become erect when the body is inflated; worldwide in warm waters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spines become erect when the body is inflated; worldwide in warm waters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porcupinefish designates spines become erect when the body is inflated; worldwide in warm waters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spines become erect when the body is inflated; worldwide in warm waters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spines become erect when the body is inflated; worldwide in warm waters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porcupinefish designates spines become erect when the body is inflated; worldwide in warm waters."*

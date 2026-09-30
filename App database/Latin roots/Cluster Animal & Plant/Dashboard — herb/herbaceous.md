@@ -5,15 +5,6 @@ status: unread
 ---
 # herbaceous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of a nonwoody herb or plant part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of a nonwoody herb or plant part.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby appears, greasy, warm, herbaceous, and chewing."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And Captain Nemo, not wishing to entangle his screw in this herbaceous mass, kept some yards beneath the surface of the waves."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Straight down this path, and into the herbaceous garden. _Quite_ slowly, and keep a sharp eye between the branches." He quite chuckled with delight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of a nonwoody herb or plant part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of a nonwoody herb or plant part.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby appears, greasy, warm, herbaceous, and chewing."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And Captain Nemo, not wishing to entangle his screw in this herbaceous mass, kept some yards beneath the surface of the waves."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Straight down this path, and into the herbaceous garden. _Quite_ slowly, and keep a sharp eye between the branches." He quite chuckled with delight."*

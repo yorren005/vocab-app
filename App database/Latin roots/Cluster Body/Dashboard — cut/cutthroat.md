@@ -5,14 +5,6 @@ status: unread
 ---
 # cutthroat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who murders by cutting the victim's throat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ruthless in competition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"You Skye cutthroats!" If the nor'easter held, Shane calculated, he could run through Biscay full, come into the Mediterranean on a broad reach, and jam her straight at Marseilles."*
-> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"There is a desprate gang of cutthroats from over in the Indian Territory going to steal your runaway nigger to-night, and they have been trying to scare you so as you will stay in the house and not bother them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who murders by cutting the victim's throat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ruthless in competition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"You Skye cutthroats!" If the nor'easter held, Shane calculated, he could run through Biscay full, come into the Mediterranean on a broad reach, and jam her straight at Marseilles."*
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"There is a desprate gang of cutthroats from over in the Indian Territory going to steal your runaway nigger to-night, and they have been trying to scare you so as you will stay in the house and not bother them."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # bolus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rounded mass: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large pill.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"But to make assurance doubly sure they deemed it advisable to administer the rest of the ashes as a bolus to the animals."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Epistle To Colonel De Peyster My honor’d Colonel, deep I feel Your interest in the Poet’s weal; Ah! now sma’ heart hae I to speel The steep Parnassus, Surrounded thus by bolus pill, And potion glasses."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Mawmsey that it must lower the character of practitioners, and be a constant injury to the public, if their only mode of getting paid for their work was by their making out long bills for draughts, boluses, and mixtures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rounded mass: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large pill.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"But to make assurance doubly sure they deemed it advisable to administer the rest of the ashes as a bolus to the animals."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Epistle To Colonel De Peyster My honor’d Colonel, deep I feel Your interest in the Poet’s weal; Ah! now sma’ heart hae I to speel The steep Parnassus, Surrounded thus by bolus pill, And potion glasses."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mawmsey that it must lower the character of practitioners, and be a constant injury to the public, if their only mode of getting paid for their work was by their making out long bills for draughts, boluses, and mixtures."*

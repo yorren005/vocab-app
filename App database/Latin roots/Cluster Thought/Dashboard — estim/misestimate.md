@@ -5,13 +5,6 @@ status: unread
 ---
 # misestimate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Judge incorrectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calculate incorrectly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misestimate designates judge incorrectly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Judge incorrectly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calculate incorrectly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misestimate designates judge incorrectly."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # notepaper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Writing paper intended for writing short notes or letters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Writing paper intended for writing short notes or letters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Write out on a sheet of notepaper what you want and my servant will take a cab and bring the things back to you.” Campbell scrawled a few lines, blotted them, and addressed an envelope to his assistant."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Tell her to bring notepaper and a pencil.' 'Hi, Dad, what's happenin'.' 'Don't ask me, ask my grandchild; she gave me the job."*
-> - 📜 **James Joyce (*Ulysses*):** *"Take out sheet notepaper, envelope: unconcerned."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Writing paper intended for writing short notes or letters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Writing paper intended for writing short notes or letters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Write out on a sheet of notepaper what you want and my servant will take a cab and bring the things back to you.” Campbell scrawled a few lines, blotted them, and addressed an envelope to his assistant."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Tell her to bring notepaper and a pencil.' 'Hi, Dad, what's happenin'.' 'Don't ask me, ask my grandchild; she gave me the job."*
+> - 📜 **James Joyce (*Ulysses*):** *"Take out sheet notepaper, envelope: unconcerned."*

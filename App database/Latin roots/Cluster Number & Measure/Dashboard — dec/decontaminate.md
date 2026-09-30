@@ -5,13 +5,6 @@ status: unread
 ---
 # decontaminate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rid of contamination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rid of contamination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decontaminate designates rid of contamination."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rid of contamination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rid of contamination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decontaminate designates rid of contamination."*

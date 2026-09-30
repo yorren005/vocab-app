@@ -5,15 +5,6 @@ status: unread
 ---
 # plentitude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A full supply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A full supply.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For seven years I had lived on seal meat, so that at sight of the enormous plentitude of different and succulent food I fell a victim to my weakness and ate of such quantities that once again I was well nigh to dying."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Ay, as a man would be inside the sun, Delirious with the plentitude of light Should interfuse him to the finger-ends”-- X."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"Full salvation always brings this, and as long as a worker lives in its plentitude and enjoyment he is consumed with a burning, longing, panting thirst for souls."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A full supply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A full supply.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For seven years I had lived on seal meat, so that at sight of the enormous plentitude of different and succulent food I fell a victim to my weakness and ate of such quantities that once again I was well nigh to dying."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Ay, as a man would be inside the sun, Delirious with the plentitude of light Should interfuse him to the finger-ends”-- X."*
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"Full salvation always brings this, and as long as a worker lives in its plentitude and enjoyment he is consumed with a burning, longing, panting thirst for souls."*

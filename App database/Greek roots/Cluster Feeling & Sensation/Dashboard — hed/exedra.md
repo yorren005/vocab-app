@@ -5,13 +5,6 @@ status: unread
 ---
 # exedra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A room (as in a temple or house) in ancient Greece and Rome used for conversation and formed by an open or columned recess often semicircular in shape and furnished with seats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large outdoor nearly semicircular seat with a solid back.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exedra designates a room (as in a temple or house) in ancient greece and rome used for conversation and formed by an open or columned recess often semicircular in shape and furnished with seats."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room (as in a temple or house) in ancient Greece and Rome used for conversation and formed by an open or columned recess often semicircular in shape and furnished with seats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large outdoor nearly semicircular seat with a solid back.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exedra designates a room (as in a temple or house) in ancient greece and rome used for conversation and formed by an open or columned recess often semicircular in shape and furnished with seats."*

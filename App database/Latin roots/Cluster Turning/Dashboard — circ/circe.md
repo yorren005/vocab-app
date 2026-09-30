@@ -5,15 +5,6 @@ status: unread
 ---
 # circe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a sorceress who detained odysseus on her island and turned his men into swine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a sorceress who detained odysseus on her island and turned his men into swine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think you all have drunk of Circe’s cup."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See, how the ugly witch doth bend her brows, As if with Circe she would change my shape!"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Now will you go to sleep?" "Circe . . ." "You don't feel as though you were going to sleep." "Mon Dieu!" Lawrence murmured under his breath."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a sorceress who detained odysseus on her island and turned his men into swine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a sorceress who detained odysseus on her island and turned his men into swine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think you all have drunk of Circe’s cup."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See, how the ugly witch doth bend her brows, As if with Circe she would change my shape!"*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Now will you go to sleep?" "Circe . . ." "You don't feel as though you were going to sleep." "Mon Dieu!" Lawrence murmured under his breath."*

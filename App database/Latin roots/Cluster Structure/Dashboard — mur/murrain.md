@@ -5,15 +5,6 @@ status: unread
 ---
 # murrain
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disease of domestic animals that resembles a plague.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any disease of domestic animals that resembles a plague.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A murrain on your monster, and the devil take your fingers!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A red murrain o’ thy jade’s tricks!"*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Every fire was put out and a large one lit on the top of the hill, and the cattle driven round it sunwards (_dessil_), to keep off murrain all the year."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disease of domestic animals that resembles a plague.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any disease of domestic animals that resembles a plague.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A murrain on your monster, and the devil take your fingers!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A red murrain o’ thy jade’s tricks!"*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Every fire was put out and a large one lit on the top of the hill, and the cattle driven round it sunwards (_dessil_), to keep off murrain all the year."*

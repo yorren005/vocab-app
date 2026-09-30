@@ -5,15 +5,6 @@ status: unread
 ---
 # conservation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An occurrence of improvement by virtue of preventing loss or injury or other change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The preservation and careful management of the environment and of natural resources.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The law of the conservation of energy expresses the fundamental likeness of heat, light, and power."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He repeated charges that the UIPS non-renewables deficits resulted from poor control and excessive consumption of raw materials, plus breakdown in recycling and conservation policies."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"In short, there were no legal provisions whatever for the well-being and conservation of society, the enlightened end of civilized legislation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An occurrence of improvement by virtue of preventing loss or injury or other change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The preservation and careful management of the environment and of natural resources.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The law of the conservation of energy expresses the fundamental likeness of heat, light, and power."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He repeated charges that the UIPS non-renewables deficits resulted from poor control and excessive consumption of raw materials, plus breakdown in recycling and conservation policies."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"In short, there were no legal provisions whatever for the well-being and conservation of society, the enlightened end of civilized legislation."*

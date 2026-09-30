@@ -5,15 +5,6 @@ status: unread
 ---
 # medical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thorough physical examination; includes a variety of tests depending on the age and sex and health of the person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the study or practice of medicine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole had been educated for the medical profession and had once lived, in his professional capacity, in the household of a German prince."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Krook addresses a crazy little woman who is his female lodger, who appears and vanishes in a breath, who soon returns accompanied by a testy medical man brought from his dinner, with a broad, snuffy upper lip and a broad Scotch tongue."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bless the hearts o’ ye,” says the medical man, looking up at them after a moment’s examination."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thorough physical examination; includes a variety of tests depending on the age and sex and health of the person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the study or practice of medicine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole had been educated for the medical profession and had once lived, in his professional capacity, in the household of a German prince."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Krook addresses a crazy little woman who is his female lodger, who appears and vanishes in a breath, who soon returns accompanied by a testy medical man brought from his dinner, with a broad, snuffy upper lip and a broad Scotch tongue."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bless the hearts o’ ye,” says the medical man, looking up at them after a moment’s examination."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # clastic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Made up of fragments of preexisting rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Made up of fragments of preexisting rocks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clastic designates made up of fragments of preexisting rocks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made up of fragments of preexisting rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Made up of fragments of preexisting rocks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clastic designates made up of fragments of preexisting rocks."*

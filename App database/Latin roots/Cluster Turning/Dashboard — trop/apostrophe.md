@@ -5,15 +5,6 @@ status: unread
 ---
 # apostrophe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Address to an absent or imaginary person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mark (') used to indicate the omission of one or more letters from a printed word.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sit down!” This little apostrophe to Mrs."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"He then explained this affectionate apostrophe, by touching his brooch representing the lady and the weeping willow at the tomb with the urn upon it, and saying, “Had it made for me, express!” “Is the lady anybody?” said I."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers and Wemmick did after this apostrophe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Address to an absent or imaginary person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mark (') used to indicate the omission of one or more letters from a printed word.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Sit down!” This little apostrophe to Mrs."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He then explained this affectionate apostrophe, by touching his brooch representing the lady and the weeping willow at the tomb with the urn upon it, and saying, “Had it made for me, express!” “Is the lady anybody?” said I."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers and Wemmick did after this apostrophe."*

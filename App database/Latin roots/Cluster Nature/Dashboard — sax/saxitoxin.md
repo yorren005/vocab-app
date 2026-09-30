@@ -5,13 +5,6 @@ status: unread
 ---
 # saxitoxin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A powerful neurotoxin produced by certain dinoflagellates found in red tides; it can accumulate in mollusks that feed on the dinoflagellates and cause food poisoning to humans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A powerful neurotoxin produced by certain dinoflagellates found in red tides; it can accumulate in mollusks that feed on the dinoflagellates and cause food poisoning to humans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saxitoxin designates a powerful neurotoxin produced by certain dinoflagellates found in red tides; it can accumulate in mollusks that feed on the dinoflagellates and cause food poisoning to humans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A powerful neurotoxin produced by certain dinoflagellates found in red tides; it can accumulate in mollusks that feed on the dinoflagellates and cause food poisoning to humans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A powerful neurotoxin produced by certain dinoflagellates found in red tides; it can accumulate in mollusks that feed on the dinoflagellates and cause food poisoning to humans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saxitoxin designates a powerful neurotoxin produced by certain dinoflagellates found in red tides; it can accumulate in mollusks that feed on the dinoflagellates and cause food poisoning to humans."*

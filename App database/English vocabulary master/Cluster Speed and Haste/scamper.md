@@ -5,20 +5,6 @@ status: unread
 ---
 # scamper
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Quick, light run
-> 2. **Nuance / Usage**: Playful or hurried run or movement
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to scamper the target*) and intransitive clauses (*scampering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"cloak, and have a scamper on the moors, under its shelter."*
-> - 📜 **Thomas Keightley (*The Fairy Mythology*):** *"And so saying he scampered off to the hill, to the amusement of honest Plat; and it is likely lost no time in making his advances to the young widow."*
-> - 📜 **Daniel Taylor (*Real Madrid win Champions League as Cristiano Ronaldo double defeats Juve*):** *"Three minutes later, Luka Modric scampered down the right, clipped a cross to the near post and Ronaldo’s clipped finish gave the remainder of the match an air of inevitability."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Quick, light run
+> 2. **Nuance / Usage**: Playful or hurried run or movement
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to scamper the target*) and intransitive clauses (*scampering against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"cloak, and have a scamper on the moors, under its shelter."*
+> - 📜 **Thomas Keightley (*The Fairy Mythology*):** *"And so saying he scampered off to the hill, to the amusement of honest Plat; and it is likely lost no time in making his advances to the young widow."*
+> - 📜 **Daniel Taylor (*Real Madrid win Champions League as Cristiano Ronaldo double defeats Juve*):** *"Three minutes later, Luka Modric scampered down the right, clipped a cross to the near post and Ronaldo’s clipped finish gave the remainder of the match an air of inevitability."*

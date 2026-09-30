@@ -5,15 +5,6 @@ status: unread
 ---
 # verb
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The word class that serves as the predicate of a sentence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A content word that denotes an action, occurrence, or state of existence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It will be proved to thy face that thou hast men about thee that usually talk of a noun and a verb, and such abominable words as no Christian ear can endure to hear."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"From time to time, drowsily, I stirred—please, my reader, don’t miss that verb—I STIRRED."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Both bore the name of Stana, from the verb _stati_, "to remain standing"; for the ceremony could not be successfully performed by persons of any other name."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The word class that serves as the predicate of a sentence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A content word that denotes an action, occurrence, or state of existence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It will be proved to thy face that thou hast men about thee that usually talk of a noun and a verb, and such abominable words as no Christian ear can endure to hear."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"From time to time, drowsily, I stirred—please, my reader, don’t miss that verb—I STIRRED."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Both bore the name of Stana, from the verb _stati_, "to remain standing"; for the ceremony could not be successfully performed by persons of any other name."*

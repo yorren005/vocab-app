@@ -5,13 +5,6 @@ status: unread
 ---
 # unpartitioned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not divided by partitions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not divided by partitions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unpartitioned designates not divided by partitions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not divided by partitions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not divided by partitions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unpartitioned designates not divided by partitions."*

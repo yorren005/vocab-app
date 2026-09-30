@@ -5,15 +5,6 @@ status: unread
 ---
 # saltpetre
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (kno3) used especially as a fertilizer and explosive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (kno3) used especially as a fertilizer and explosive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"But I could find no saltpetre; indeed, no nitrates of any kind."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"For example, gelignite, which is being used for agricultural purposes in Great Britain, consists of nitro-glycerine mixed with nitro-cotton, wood-meal and saltpetre."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The wood-meal acts as the absorbent instead of the kieselguhr, while the nitro-cotton is another kind of explosive and the saltpetre, one of the ingredients in the old gunpowder, provides the necessary oxygen for burning up the wood-meal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (kno3) used especially as a fertilizer and explosive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (kno3) used especially as a fertilizer and explosive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"But I could find no saltpetre; indeed, no nitrates of any kind."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"For example, gelignite, which is being used for agricultural purposes in Great Britain, consists of nitro-glycerine mixed with nitro-cotton, wood-meal and saltpetre."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The wood-meal acts as the absorbent instead of the kieselguhr, while the nitro-cotton is another kind of explosive and the saltpetre, one of the ingredients in the old gunpowder, provides the necessary oxygen for burning up the wood-meal."*

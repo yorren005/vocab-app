@@ -5,15 +5,6 @@ status: unread
 ---
 # substantive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any word or group of words functioning as a noun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a firm basis in reality and being therefore important, meaningful, or considerable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Perhaps his exalted appreciation of the merits of the old girl causes him usually to make the noun-substantive “goodness” of the feminine gender."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Many who knew her, thought it a pity that so substantive and rare a creature should have been absorbed into the life of another, and be only known in a certain circle as a wife and mother."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Albino is as well made as other men—has no substantive deformity—and yet this mere aspect of all-pervading whiteness makes him more strangely hideous than the ugliest abortion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any word or group of words functioning as a noun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a firm basis in reality and being therefore important, meaningful, or considerable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Perhaps his exalted appreciation of the merits of the old girl causes him usually to make the noun-substantive “goodness” of the feminine gender."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Many who knew her, thought it a pity that so substantive and rare a creature should have been absorbed into the life of another, and be only known in a certain circle as a wife and mother."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Albino is as well made as other men—has no substantive deformity—and yet this mere aspect of all-pervading whiteness makes him more strangely hideous than the ugliest abortion."*

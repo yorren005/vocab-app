@@ -5,13 +5,6 @@ status: unread
 ---
 # acceptor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) in the formation of a coordinate bond it is the compound to which electrons are donated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person (or institution) who accepts a check or draft and becomes responsible for paying the party named in the draft when it matures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acceptor designates (chemistry) in the formation of a coordinate bond it is the compound to which electrons are donated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) in the formation of a coordinate bond it is the compound to which electrons are donated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person (or institution) who accepts a check or draft and becomes responsible for paying the party named in the draft when it matures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acceptor designates (chemistry) in the formation of a coordinate bond it is the compound to which electrons are donated."*

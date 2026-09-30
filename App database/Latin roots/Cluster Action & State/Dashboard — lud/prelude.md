@@ -5,15 +5,6 @@ status: unread
 ---
 # prelude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that serves as a preceding event or introduces what follows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Music that precedes a fugue or introduces an act in an opera.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"For a moment the voices cheered the heart of Tess, till she reasoned that this interview had its origin, on one side or the other, in the same attraction which had been the prelude to her own tribulation."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The grand sequence is this, that at the end of the session I must come forward in the presence of many of the Edinburgh grandees and deliver a Latin oration as a prelude to receiving the medal."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Miss Ingram, who had now seated herself with proud grace at the piano, spreading out her snowy robes in queenly amplitude, commenced a brilliant prelude; talking meantime."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that serves as a preceding event or introduces what follows.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Music that precedes a fugue or introduces an act in an opera.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"For a moment the voices cheered the heart of Tess, till she reasoned that this interview had its origin, on one side or the other, in the same attraction which had been the prelude to her own tribulation."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"The grand sequence is this, that at the end of the session I must come forward in the presence of many of the Edinburgh grandees and deliver a Latin oration as a prelude to receiving the medal."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Miss Ingram, who had now seated herself with proud grace at the piano, spreading out her snowy robes in queenly amplitude, commenced a brilliant prelude; talking meantime."*

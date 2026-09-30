@@ -5,15 +5,6 @@ status: unread
 ---
 # plaza
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public square in a city or town.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An open area usually located near urban buildings and often featuring walkways, trees and shrubs, places to sit, and sometimes shops.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Down to the Plaza Victoria, with its dim arcades, or to the 25 de Mayo, with its cathedral, its stunted paradise trees."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"At the Plaza--and the little Jap."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"We visited the leaning tower, and although one of my companions suggested that we should take refuge in the plaza, I thought that we should be quite the same as if altogether in the open country."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A public square in a city or town.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An open area usually located near urban buildings and often featuring walkways, trees and shrubs, places to sit, and sometimes shops.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Down to the Plaza Victoria, with its dim arcades, or to the 25 de Mayo, with its cathedral, its stunted paradise trees."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"At the Plaza--and the little Jap."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"We visited the leaning tower, and although one of my companions suggested that we should take refuge in the plaza, I thought that we should be quite the same as if altogether in the open country."*

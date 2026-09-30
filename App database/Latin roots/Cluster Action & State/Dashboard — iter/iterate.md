@@ -5,15 +5,6 @@ status: unread
 ---
 # iterate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To say, state, or perform again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Run or be performed again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Jane's speech of welcome made such an impression that it is no wonder some of the old mothers in Israel got up to iterate it, as the dinner progressed."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A tune much iterated has the ridiculous effect of making the words in my mind perform a sort of minuet to keep time—an effect hardly tolerable, I imagine, after boyhood."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They contrast finely with those elaborate and iterated repinings which we sometimes meet with in poetry, the effusions of morbid minds sickening under miseries of their own creating, and venting their bitterness upon an unoffending world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To say, state, or perform again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Run or be performed again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Jane's speech of welcome made such an impression that it is no wonder some of the old mothers in Israel got up to iterate it, as the dinner progressed."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A tune much iterated has the ridiculous effect of making the words in my mind perform a sort of minuet to keep time—an effect hardly tolerable, I imagine, after boyhood."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They contrast finely with those elaborate and iterated repinings which we sometimes meet with in poetry, the effusions of morbid minds sickening under miseries of their own creating, and venting their bitterness upon an unoffending world."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # Examples
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or way of behaving that serves as a pattern to be imitated or not to be imitated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A punishment inflicted on someone as a warning to others; also : an individual so punished.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We have record that very well it can, And three examples of the like hath been Within my age."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It fits us then to be as provident As fears may teach us out of late examples Left by the fatal and neglected English Upon our fields."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Men of his way should be most liberal; They are set here for examples."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or way of behaving that serves as a pattern to be imitated or not to be imitated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A punishment inflicted on someone as a warning to others; also : an individual so punished.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We have record that very well it can, And three examples of the like hath been Within my age."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It fits us then to be as provident As fears may teach us out of late examples Left by the fatal and neglected English Upon our fields."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Men of his way should be most liberal; They are set here for examples."*

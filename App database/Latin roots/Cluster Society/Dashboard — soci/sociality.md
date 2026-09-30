@@ -5,15 +5,6 @@ status: unread
 ---
 # sociality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency to associate with others and to form social groups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tendency to associate with others and to form social groups.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But the sun of his sociality soon recovers from this brief eclipse and shines again."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not to be behindhand in the sociality of the evening, he complies and gives them “Believe Me, if All Those Endearing Young Charms.” This ballad, he informs Mrs."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Edwardi de Halbergate ē omnibus eorum pertinenciis. [69] The hospitaler was allowed to drink with any orderly person, for the sake of sociality, at the direction and request of that person, without asking leave.--_Licet hostilario, etc._ [70] <g>St."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency to associate with others and to form social groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tendency to associate with others and to form social groups.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But the sun of his sociality soon recovers from this brief eclipse and shines again."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Not to be behindhand in the sociality of the evening, he complies and gives them “Believe Me, if All Those Endearing Young Charms.” This ballad, he informs Mrs."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Edwardi de Halbergate ē omnibus eorum pertinenciis. [69] The hospitaler was allowed to drink with any orderly person, for the sake of sociality, at the direction and request of that person, without asking leave.--_Licet hostilario, etc._ [70] <g>St."*

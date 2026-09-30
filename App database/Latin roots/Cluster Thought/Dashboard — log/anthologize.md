@@ -5,13 +5,6 @@ status: unread
 ---
 # anthologize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compile an anthology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compile an anthology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthologize designates compile an anthology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compile an anthology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compile an anthology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthologize designates compile an anthology."*

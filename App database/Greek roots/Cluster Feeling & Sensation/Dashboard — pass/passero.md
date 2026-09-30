@@ -5,13 +5,6 @@ status: unread
 ---
 # passero
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A naval battle in the mediterranean sea off cape passero in which the spanish navy was destroyed by france and england while attempting to recover sicily and sardinia from italy (1719).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A naval battle in the mediterranean sea off cape passero in which the spanish navy was destroyed by france and england while attempting to recover sicily and sardinia from italy (1719).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passero designates a naval battle in the mediterranean sea off cape passero in which the spanish navy was destroyed by france and england while attempting to recover sicily and sardinia from italy (1719)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A naval battle in the mediterranean sea off cape passero in which the spanish navy was destroyed by france and england while attempting to recover sicily and sardinia from italy (1719).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A naval battle in the mediterranean sea off cape passero in which the spanish navy was destroyed by france and england while attempting to recover sicily and sardinia from italy (1719).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passero designates a naval battle in the mediterranean sea off cape passero in which the spanish navy was destroyed by france and england while attempting to recover sicily and sardinia from italy (1719)."*

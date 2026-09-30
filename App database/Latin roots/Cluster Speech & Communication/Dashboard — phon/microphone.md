@@ -5,15 +5,6 @@ status: unread
 ---
 # microphone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Device for converting sound waves into electrical energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Device for converting sound waves into electrical energy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer picked up a microphone, Brad beside him."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer keyed his microphone open and handed it to Brad."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He detached a microphone from the bulkhead nearby, keyed the computer, and spoke."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Device for converting sound waves into electrical energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Device for converting sound waves into electrical energy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer picked up a microphone, Brad beside him."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer keyed his microphone open and handed it to Brad."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He detached a microphone from the bulkhead nearby, keyed the computer, and spoke."*

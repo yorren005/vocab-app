@@ -5,15 +5,6 @@ status: unread
 ---
 # panorama
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: cyclorama.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a picture exhibited a part at a time by being unrolled before the spectator.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sight, coming as it did, superimposed upon the other dark scenery of the previous days, formed a sort of climax to the whole panorama, and it was more than he could endure."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Traders, pilgrims, Herods--"the kingdoms of the world and the glory of them" (Matt. 6:8)--all within reach, and travelling no faster as a rule than the camel cared to go--they formed a panorama of life for a thoughtful and imaginative boy."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Shifting his eyes slightly brought into focus the panorama of Coldfield's dome and its multi-colored lights."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: cyclorama.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a picture exhibited a part at a time by being unrolled before the spectator.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sight, coming as it did, superimposed upon the other dark scenery of the previous days, formed a sort of climax to the whole panorama, and it was more than he could endure."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Traders, pilgrims, Herods--"the kingdoms of the world and the glory of them" (Matt. 6:8)--all within reach, and travelling no faster as a rule than the camel cared to go--they formed a panorama of life for a thoughtful and imaginative boy."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Shifting his eyes slightly brought into focus the panorama of Coldfield's dome and its multi-colored lights."*

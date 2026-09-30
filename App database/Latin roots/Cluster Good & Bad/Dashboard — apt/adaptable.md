@@ -5,15 +5,6 @@ status: unread
 ---
 # adaptable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of adapting (of becoming or being made suitable) to a particular situation or use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of adapting (of becoming or being made suitable) to a particular situation or use.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"At first, some general conditions such as maximum rates were inserted in the laws and charters; but these were not adaptable to changing conditions and, for lack of administrative agents, could not be enforced."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"After the first half mile, Chester, than whom few men were more adaptable to a friend's mood, accepted the situation and paced along as silently as Burns, until the round was made and the two were at Burns's door."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"You seem to be watching a community of ants, persistent, untiring, organized, only the ant-hill is a town, and the ants are men physically strong, gluttons for work, resourceful, adaptable, cheerful."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of adapting (of becoming or being made suitable) to a particular situation or use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of adapting (of becoming or being made suitable) to a particular situation or use.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"At first, some general conditions such as maximum rates were inserted in the laws and charters; but these were not adaptable to changing conditions and, for lack of administrative agents, could not be enforced."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"After the first half mile, Chester, than whom few men were more adaptable to a friend's mood, accepted the situation and paced along as silently as Burns, until the round was made and the two were at Burns's door."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"You seem to be watching a community of ants, persistent, untiring, organized, only the ant-hill is a town, and the ants are men physically strong, gluttons for work, resourceful, adaptable, cheerful."*

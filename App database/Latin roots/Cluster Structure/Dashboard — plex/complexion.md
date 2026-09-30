@@ -5,15 +5,6 @@ status: unread
 ---
 # complexion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The coloring of a person's face.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combination that results from coupling or interlinking.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The purple pride Which on thy soft cheek for complexion dwells, In my love’s veins thou hast too grossly dyed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will see a pageant truly played Between the pale complexion of true love And the red glow of scorn and proud disdain, Go hence a little, and I shall conduct you, If you will mark it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best thing in him Is his complexion; and faster than his tongue Did make offence, his eye did heal it up."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The coloring of a person's face.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combination that results from coupling or interlinking.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The purple pride Which on thy soft cheek for complexion dwells, In my love’s veins thou hast too grossly dyed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will see a pageant truly played Between the pale complexion of true love And the red glow of scorn and proud disdain, Go hence a little, and I shall conduct you, If you will mark it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best thing in him Is his complexion; and faster than his tongue Did make offence, his eye did heal it up."*

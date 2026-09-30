@@ -5,13 +5,6 @@ status: unread
 ---
 # cholesterol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A waxy, fat-like substance C27H46O that is found in the cells, tissues, and body fluids of humans and animals and that serves as a component of cell membranes and functions as a precursor of vitamin D and steroid hormones (such as cortisol and estrogen).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amount of cholesterol in someone's blood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cholesterol designates a waxy, fat-like substance c27h46o that is found in the cells, tissues, and body fluids of humans and animals and that serves as a component of cell membranes and functions as a precursor of vitamin d and steroid hormones (such as cortisol and estrogen)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A waxy, fat-like substance C27H46O that is found in the cells, tissues, and body fluids of humans and animals and that serves as a component of cell membranes and functions as a precursor of vitamin D and steroid hormones (such as cortisol and estrogen).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amount of cholesterol in someone's blood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cholesterol designates a waxy, fat-like substance c27h46o that is found in the cells, tissues, and body fluids of humans and animals and that serves as a component of cell membranes and functions as a precursor of vitamin d and steroid hormones (such as cortisol and estrogen)."*

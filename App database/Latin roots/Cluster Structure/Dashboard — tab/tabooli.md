@@ -5,13 +5,6 @@ status: unread
 ---
 # tabooli
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A finely chopped salad with tomatoes and parsley and mint and scallions and bulgur wheat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A finely chopped salad with tomatoes and parsley and mint and scallions and bulgur wheat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tabooli designates a finely chopped salad with tomatoes and parsley and mint and scallions and bulgur wheat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A finely chopped salad with tomatoes and parsley and mint and scallions and bulgur wheat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A finely chopped salad with tomatoes and parsley and mint and scallions and bulgur wheat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tabooli designates a finely chopped salad with tomatoes and parsley and mint and scallions and bulgur wheat."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # skeptically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With scepticism; in a sceptical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With scepticism; in a sceptical manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"This amazed Nicholas and even made him regard Bolkónski’s courtship skeptically."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"At first her intervention in the business of packing was received skeptically."*
-> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"Probably he meant Taos,--whole nest of artists at Taos.” “Well, but why in thunder then--?” The clerk smiled skeptically."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With scepticism; in a sceptical manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With scepticism; in a sceptical manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"This amazed Nicholas and even made him regard Bolkónski’s courtship skeptically."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"At first her intervention in the business of packing was received skeptically."*
+> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"Probably he meant Taos,--whole nest of artists at Taos.” “Well, but why in thunder then--?” The clerk smiled skeptically."*

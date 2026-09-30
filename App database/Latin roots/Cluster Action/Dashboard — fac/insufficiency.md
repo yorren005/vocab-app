@@ -5,15 +5,6 @@ status: unread
 ---
 # insufficiency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of competence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (pathology) inability of a bodily part or organ to function normally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is’t not enough, is’t not enough, young man, That I did never, no, nor never can Deserve a sweet look from Demetrius’ eye, But you must flout my insufficiency?"*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"CL O! from what power hast thou this powerful might, With insufficiency my heart to sway?"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Insufficiency of the Present Confederation to Preserve the Union FEDERALIST No."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of competence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (pathology) inability of a bodily part or organ to function normally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is’t not enough, is’t not enough, young man, That I did never, no, nor never can Deserve a sweet look from Demetrius’ eye, But you must flout my insufficiency?"*
+> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"CL O! from what power hast thou this powerful might, With insufficiency my heart to sway?"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Insufficiency of the Present Confederation to Preserve the Union FEDERALIST No."*

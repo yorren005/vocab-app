@@ -5,15 +5,6 @@ status: unread
 ---
 # conflicting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be in conflict.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Go against, as of rules and laws.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Call the creatures Whose naked natures live in all the spite Of wreakful heaven, whose bare unhoused trunks, To the conflicting elements exposed, Answer mere nature, bid them flatter thee."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There are conflicting opinions respecting the original of his picture."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Hears I have conflicting interests, claims clashing against his and what not."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be in conflict.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Go against, as of rules and laws.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Call the creatures Whose naked natures live in all the spite Of wreakful heaven, whose bare unhoused trunks, To the conflicting elements exposed, Answer mere nature, bid them flatter thee."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There are conflicting opinions respecting the original of his picture."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Hears I have conflicting interests, claims clashing against his and what not."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # dissolute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unrestrained by convention or morality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrestrained by convention or morality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His dissolute disease will scarce obey this medicine."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode, in his usual subdued voice, “an unfortunate dissolute wretch, whom I helped too much in days gone by."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Afterwards he went to America, and returned I fear to an idle dissolute life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unrestrained by convention or morality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrestrained by convention or morality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His dissolute disease will scarce obey this medicine."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode, in his usual subdued voice, “an unfortunate dissolute wretch, whom I helped too much in days gone by."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Afterwards he went to America, and returned I fear to an idle dissolute life."*

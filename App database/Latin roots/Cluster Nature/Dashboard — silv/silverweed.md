@@ -5,13 +5,6 @@ status: unread
 ---
 # silverweed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various twining shrubs of the genus argyreia having silvery leaves and showy purple flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Low-growing perennial having leaves silvery beneath; northern united states; europe; asia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silverweed designates any of various twining shrubs of the genus argyreia having silvery leaves and showy purple flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various twining shrubs of the genus argyreia having silvery leaves and showy purple flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Low-growing perennial having leaves silvery beneath; northern united states; europe; asia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silverweed designates any of various twining shrubs of the genus argyreia having silvery leaves and showy purple flowers."*

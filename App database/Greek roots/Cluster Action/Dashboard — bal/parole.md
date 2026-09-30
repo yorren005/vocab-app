@@ -5,15 +5,6 @@ status: unread
 ---
 # parole
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A promise made with or confirmed by a pledge of one's honor; especially : the promise of a prisoner of war to fulfill stated conditions in consideration of their release.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A watchword given only to officers of the guard and of the day.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet,” says the trooper, “I am on my parole with you."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But my point is that I gave you my parole."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Clowes?" "I beg your pardon?" "You would like to tell my cousin and his wife?" "I should like to feel myself a free agent, which I'm not now, because I'm under parole to you." "And so you will remain," said Lawrence coldly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A promise made with or confirmed by a pledge of one's honor; especially : the promise of a prisoner of war to fulfill stated conditions in consideration of their release.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A watchword given only to officers of the guard and of the day.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet,” says the trooper, “I am on my parole with you."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"But my point is that I gave you my parole."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Clowes?" "I beg your pardon?" "You would like to tell my cousin and his wife?" "I should like to feel myself a free agent, which I'm not now, because I'm under parole to you." "And so you will remain," said Lawrence coldly."*

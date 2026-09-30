@@ -5,15 +5,6 @@ status: unread
 ---
 # heroine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mythological or legendary woman often of divine descent having great strength or ability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman admired and emulated for her achievements and qualities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak knew her instantly as the heroine of the yellow waggon, myrtles, and looking-glass: prosily, as the woman who owed him twopence."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But to give such cool advice—the very advice she had asked for—it ruffled our heroine all the afternoon."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Our heroine, who had hitherto held her peace, at this wild moment could not help joining in with the rest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mythological or legendary woman often of divine descent having great strength or ability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman admired and emulated for her achievements and qualities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak knew her instantly as the heroine of the yellow waggon, myrtles, and looking-glass: prosily, as the woman who owed him twopence."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But to give such cool advice—the very advice she had asked for—it ruffled our heroine all the afternoon."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Our heroine, who had hitherto held her peace, at this wild moment could not help joining in with the rest."*

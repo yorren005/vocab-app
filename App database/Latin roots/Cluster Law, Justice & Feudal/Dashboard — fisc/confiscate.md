@@ -5,15 +5,6 @@ status: unread
 ---
 # confiscate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take temporary possession of as a security, by legal authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surrendered as a penalty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore give out you are of Epidamnum, Lest that your goods too soon be confiscate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First pay me for the nursing of thy sons, And let it be confiscate all, so soon As I have receiv’d it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, Clarence, now then it is more than needful Forthwith that Edward be pronounced a traitor And all his lands and goods be confiscate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take temporary possession of as a security, by legal authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surrendered as a penalty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore give out you are of Epidamnum, Lest that your goods too soon be confiscate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First pay me for the nursing of thy sons, And let it be confiscate all, so soon As I have receiv’d it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, Clarence, now then it is more than needful Forthwith that Edward be pronounced a traitor And all his lands and goods be confiscate."*

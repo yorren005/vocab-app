@@ -5,15 +5,6 @@ status: unread
 ---
 # simplicity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being simple or uncompounded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of penetration or subtlety.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such is the simplicity of man to hearken after the flesh."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Twice-sod simplicity, _bis coctus!_ O, thou monster Ignorance, how deformed dost thou look!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou makest the triumviry, the corner-cap of society, The shape of love’s Tyburn, that hangs up simplicity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being simple or uncompounded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of penetration or subtlety.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such is the simplicity of man to hearken after the flesh."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Twice-sod simplicity, _bis coctus!_ O, thou monster Ignorance, how deformed dost thou look!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou makest the triumviry, the corner-cap of society, The shape of love’s Tyburn, that hangs up simplicity."*

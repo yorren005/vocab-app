@@ -5,15 +5,6 @@ status: unread
 ---
 # side
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A place within a region identified relative to a center or reference location.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of two or more contesting groups.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To side this title is impanelled A quest of thoughts, all tenants to the heart, And by their verdict is determined The clear eye’s moiety, and the dear heart’s part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To win me soon to hell my female evil Tempteth my better angel from my side, And would corrupt my saint to be a devil, Wooing his purity with her foul pride."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast a sister by the mother’s side, Admired Octavia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A place within a region identified relative to a center or reference location.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of two or more contesting groups.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To side this title is impanelled A quest of thoughts, all tenants to the heart, And by their verdict is determined The clear eye’s moiety, and the dear heart’s part."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To win me soon to hell my female evil Tempteth my better angel from my side, And would corrupt my saint to be a devil, Wooing his purity with her foul pride."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast a sister by the mother’s side, Admired Octavia."*

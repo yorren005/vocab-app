@@ -5,15 +5,6 @@ status: unread
 ---
 # apoplexy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: stroke.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: gross hemorrhage into a cavity or into the substance of an organ.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace is a very apoplexy, lethargy; mulled, deaf, sleepy, insensible; a getter of more bastard children than war’s a destroyer of men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I hear, moreover, his Highness is fallen into this same whoreson apoplexy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This apoplexy, as I take it, is a kind of lethargy, an ’t please your lordship, a kind of sleeping in the blood, a whoreson tingling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: stroke.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: gross hemorrhage into a cavity or into the substance of an organ.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace is a very apoplexy, lethargy; mulled, deaf, sleepy, insensible; a getter of more bastard children than war’s a destroyer of men."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I hear, moreover, his Highness is fallen into this same whoreson apoplexy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This apoplexy, as I take it, is a kind of lethargy, an ’t please your lordship, a kind of sleeping in the blood, a whoreson tingling."*

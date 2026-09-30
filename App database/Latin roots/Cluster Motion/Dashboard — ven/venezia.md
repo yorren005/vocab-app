@@ -5,13 +5,6 @@ status: unread
 ---
 # venezia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The provincial capital of veneto; built on 118 islands within a lagoon in the gulf of venice; has canals instead of streets; one of italy's major ports and a famous tourist attraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The provincial capital of veneto; built on 118 islands within a lagoon in the gulf of venice; has canals instead of streets; one of italy's major ports and a famous tourist attraction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venezia designates the provincial capital of veneto; built on 118 islands within a lagoon in the gulf of venice; has canals instead of streets; one of italy's major ports and a famous tourist attraction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The provincial capital of veneto; built on 118 islands within a lagoon in the gulf of venice; has canals instead of streets; one of italy's major ports and a famous tourist attraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The provincial capital of veneto; built on 118 islands within a lagoon in the gulf of venice; has canals instead of streets; one of italy's major ports and a famous tourist attraction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venezia designates the provincial capital of veneto; built on 118 islands within a lagoon in the gulf of venice; has canals instead of streets; one of italy's major ports and a famous tourist attraction."*

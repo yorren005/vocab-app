@@ -5,15 +5,6 @@ status: unread
 ---
 # preponderate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weigh more heavily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Weigh more heavily.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The people, by throwing themselves into either scale, will infallibly make it preponderate."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In a country consisting chiefly of the cultivators of land, where the rules of an equal representation obtain, the landed interest must, upon the whole, preponderate in the government."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Both joy and sorrow are mingled in the cup of human life,” said Aunt Lucy, solemnly: “Which shall preponderate it is partly in our power to determine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Weigh more heavily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Weigh more heavily.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The people, by throwing themselves into either scale, will infallibly make it preponderate."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In a country consisting chiefly of the cultivators of land, where the rules of an equal representation obtain, the landed interest must, upon the whole, preponderate in the government."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Both joy and sorrow are mingled in the cup of human life,” said Aunt Lucy, solemnly: “Which shall preponderate it is partly in our power to determine."*

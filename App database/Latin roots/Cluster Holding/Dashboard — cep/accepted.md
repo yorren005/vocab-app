@@ -5,15 +5,6 @@ status: unread
 ---
 # accepted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider or hold as true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receive willingly something given or offered.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It will not be accepted, on my life."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him be sent, great Princes, And he shall buy my daughter; and her presence Shall quite strike off all service I have done In most accepted pain."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"All this he had accepted as if it could not be otherwise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider or hold as true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receive willingly something given or offered.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It will not be accepted, on my life."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him be sent, great Princes, And he shall buy my daughter; and her presence Shall quite strike off all service I have done In most accepted pain."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"All this he had accepted as if it could not be otherwise."*

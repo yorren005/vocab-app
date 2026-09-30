@@ -5,15 +5,6 @@ status: unread
 ---
 # graven
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shape (a material like stone or wood) by whittling away at it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carve, cut, or etch into a material or surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rise resty Muse, my love’s sweet face survey, If time have any wrinkle graven there, If any, be a satire to decay, And make time’s spoils despised everywhere."*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"Rise, resty Muse, my love’s sweet face survey, If Time have any wrinkle graven there; If any, be a satire to decay, And make time’s spoils despised every where."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I’ve got a wold silver spoon, and a wold graven seal at home, too; but, Lord, what’s a spoon and seal?..."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shape (a material like stone or wood) by whittling away at it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carve, cut, or etch into a material or surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rise resty Muse, my love’s sweet face survey, If time have any wrinkle graven there, If any, be a satire to decay, And make time’s spoils despised everywhere."*
+> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"Rise, resty Muse, my love’s sweet face survey, If Time have any wrinkle graven there; If any, be a satire to decay, And make time’s spoils despised every where."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I’ve got a wold silver spoon, and a wold graven seal at home, too; but, Lord, what’s a spoon and seal?..."*

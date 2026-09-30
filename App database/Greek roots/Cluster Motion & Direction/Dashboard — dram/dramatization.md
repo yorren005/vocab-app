@@ -5,13 +5,6 @@ status: unread
 ---
 # dramatization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conversion into dramatic form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dramatic representation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dramatization designates conversion into dramatic form."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conversion into dramatic form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dramatic representation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dramatization designates conversion into dramatic form."*

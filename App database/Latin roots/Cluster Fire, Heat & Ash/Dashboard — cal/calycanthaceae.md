@@ -5,13 +5,6 @@ status: unread
 ---
 # calycanthaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrubs or small trees having aromatic bark; the eastern united states and eastern asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrubs or small trees having aromatic bark; the eastern united states and eastern asia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calycanthaceae designates shrubs or small trees having aromatic bark; the eastern united states and eastern asia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrubs or small trees having aromatic bark; the eastern united states and eastern asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrubs or small trees having aromatic bark; the eastern united states and eastern asia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calycanthaceae designates shrubs or small trees having aromatic bark; the eastern united states and eastern asia."*

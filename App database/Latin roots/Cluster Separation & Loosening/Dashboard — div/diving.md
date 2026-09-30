@@ -5,15 +5,6 @@ status: unread
 ---
 # diving
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An athletic competition that involves diving into water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A headlong plunge into water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"In the mean time, Wemmick was diving into his coat-pockets, and getting something out of paper there."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So close did the monster come to the hull, that at first it seemed as if he meant it malice; but suddenly going down in a maelstrom, within three rods of the planks, he wholly disappeared from view, as if diving under the keel."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And all the time numberless fowls were diving, and ducking, and screaming, and yelling, and fighting around them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An athletic competition that involves diving into water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A headlong plunge into water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"In the mean time, Wemmick was diving into his coat-pockets, and getting something out of paper there."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So close did the monster come to the hull, that at first it seemed as if he meant it malice; but suddenly going down in a maelstrom, within three rods of the planks, he wholly disappeared from view, as if diving under the keel."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And all the time numberless fowls were diving, and ducking, and screaming, and yelling, and fighting around them."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # unconsummated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not consummated (especially of a marriage).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not consummated (especially of a marriage).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unconsummated designates not consummated (especially of a marriage)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not consummated (especially of a marriage).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not consummated (especially of a marriage).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unconsummated designates not consummated (especially of a marriage)."*

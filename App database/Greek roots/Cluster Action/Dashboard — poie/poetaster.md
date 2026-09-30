@@ -5,15 +5,6 @@ status: unread
 ---
 # poetaster
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inferior poet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inferior poet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A certain poetaster, whose head was full of a play of his own writing, was explaining the plot and design of it to a courtier."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"For Phalaris was just that minute dreaming how a most vile poetaster had lampooned him, and how he had got him roaring in his bull."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Fraught with invective they ne'er go To folks at Paternoster Row: No judges, fiddlers, dancing-masters, No pickpockets, or poetasters Are known to honest quadrupeds: No single brute his fellows leads."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inferior poet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inferior poet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A certain poetaster, whose head was full of a play of his own writing, was explaining the plot and design of it to a courtier."*
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"For Phalaris was just that minute dreaming how a most vile poetaster had lampooned him, and how he had got him roaring in his bull."*
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Fraught with invective they ne'er go To folks at Paternoster Row: No judges, fiddlers, dancing-masters, No pickpockets, or poetasters Are known to honest quadrupeds: No single brute his fellows leads."*

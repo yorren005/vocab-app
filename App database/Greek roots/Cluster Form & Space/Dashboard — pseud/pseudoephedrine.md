@@ -5,13 +5,6 @@ status: unread
 ---
 # pseudoephedrine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Poisonous crystalline alkaloid occurring with ephedrine and isomorphic with it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Poisonous crystalline alkaloid occurring with ephedrine and isomorphic with it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudoephedrine designates poisonous crystalline alkaloid occurring with ephedrine and isomorphic with it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Poisonous crystalline alkaloid occurring with ephedrine and isomorphic with it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Poisonous crystalline alkaloid occurring with ephedrine and isomorphic with it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudoephedrine designates poisonous crystalline alkaloid occurring with ephedrine and isomorphic with it."*

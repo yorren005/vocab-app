@@ -5,15 +5,6 @@ status: unread
 ---
 # hallowed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Render holy by means of religious rites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of religious veneration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nothing sweet boy, but yet like prayers divine, I must each day say o’er the very same, Counting no old thing old, thou mine, I thine, Even as when first I hallowed thy fair name."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whom we raise We will make fast within a hallowed verge. [_Here they do the ceremonies belonging, and make the circle; Bolingbroke or Southwell reads_ “Conjuro te”, _etc."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More than my all is nothing; nor my prayers Are not words duly hallowed, nor my wishes More worth than empty vanities; yet prayers and wishes Are all I can return."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Render holy by means of religious rites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of religious veneration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nothing sweet boy, but yet like prayers divine, I must each day say o’er the very same, Counting no old thing old, thou mine, I thine, Even as when first I hallowed thy fair name."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whom we raise We will make fast within a hallowed verge. [_Here they do the ceremonies belonging, and make the circle; Bolingbroke or Southwell reads_ “Conjuro te”, _etc."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More than my all is nothing; nor my prayers Are not words duly hallowed, nor my wishes More worth than empty vanities; yet prayers and wishes Are all I can return."*

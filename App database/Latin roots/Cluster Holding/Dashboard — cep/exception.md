@@ -5,15 +5,6 @@ status: unread
 ---
 # exception
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deliberate act of omission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instance that does not conform to a rule or generalization.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What I have done That might your nature, honour, and exception Roughly awake, I here proclaim was madness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast taken against me a most just exception, but yet I protest, I have dealt most directly in thy affair."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She could easily let them have the whole cottage with the exception of a tiny chamber."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deliberate act of omission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instance that does not conform to a rule or generalization.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What I have done That might your nature, honour, and exception Roughly awake, I here proclaim was madness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast taken against me a most just exception, but yet I protest, I have dealt most directly in thy affair."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She could easily let them have the whole cottage with the exception of a tiny chamber."*

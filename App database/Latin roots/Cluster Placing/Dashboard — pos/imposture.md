@@ -5,15 +5,6 @@ status: unread
 ---
 # imposture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pretending to be another person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pretending to be another person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"This, though I had myself suggested an imposture, made it very unlikely to my quiet thoughts."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"But if not an imposture, what could it be supposed to be?"*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"This exasperated me; and as soon as I knew that this folly had been printed and was in every house, I hastened to M. le Curé, and entreated him in his next Sunday's sermon to tell the true story of Pierre Plastron, and reveal the imposture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pretending to be another person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pretending to be another person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"This, though I had myself suggested an imposture, made it very unlikely to my quiet thoughts."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"But if not an imposture, what could it be supposed to be?"*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"This exasperated me; and as soon as I knew that this folly had been printed and was in every house, I hastened to M. le Curé, and entreated him in his next Sunday's sermon to tell the true story of Pierre Plastron, and reveal the imposture."*

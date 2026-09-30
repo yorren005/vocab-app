@@ -5,15 +5,6 @@ status: unread
 ---
 # solo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any activity that is performed alone without assistance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical composition for one voice or instrument (with or without accompaniment).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The solo over, a duet followed, and then a glee: a joyous conversational murmur filled up the intervals."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Wi’ hand on hainch, and upward e’e, He croon’d his gamut, one, two, three, Then in an arioso key, The wee Apoll Set off wi’ allegretto glee His giga solo."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It came in as a sort of brief interlude and solo between more extensive performances."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any activity that is performed alone without assistance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical composition for one voice or instrument (with or without accompaniment).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The solo over, a duet followed, and then a glee: a joyous conversational murmur filled up the intervals."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Wi’ hand on hainch, and upward e’e, He croon’d his gamut, one, two, three, Then in an arioso key, The wee Apoll Set off wi’ allegretto glee His giga solo."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It came in as a sort of brief interlude and solo between more extensive performances."*

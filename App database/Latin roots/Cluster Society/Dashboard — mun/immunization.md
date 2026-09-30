@@ -5,13 +5,6 @@ status: unread
 ---
 # immunization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making immune (especially by inoculation).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making immune (especially by inoculation).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The next morning, following instructions, I reported to the dispensary for vaccinations and immunization shots and on to the Personnel Office to sign papers that came at me from all directions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making immune (especially by inoculation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making immune (especially by inoculation).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The next morning, following instructions, I reported to the dispensary for vaccinations and immunization shots and on to the Personnel Office to sign papers that came at me from all directions."*

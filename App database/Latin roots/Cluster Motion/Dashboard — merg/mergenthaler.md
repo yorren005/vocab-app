@@ -5,13 +5,6 @@ status: unread
 ---
 # mergenthaler
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states inventor (born in germany) of the linotype machine (1854-1899).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states inventor (born in germany) of the linotype machine (1854-1899).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mergenthaler designates united states inventor (born in germany) of the linotype machine (1854-1899)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states inventor (born in germany) of the linotype machine (1854-1899).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states inventor (born in germany) of the linotype machine (1854-1899).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mergenthaler designates united states inventor (born in germany) of the linotype machine (1854-1899)."*

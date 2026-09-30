@@ -5,13 +5,6 @@ status: unread
 ---
 # dissentient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of catholics) refusing to attend services of the church of england.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disagreeing, especially with a majority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"South Carolina, to show the strength and unity of her opinions, brings her assembly to a unanimity, within seven votes; Pennsylvania, not to be outdone in this respect more than others, reduces her dissentient fraction to one vote."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of catholics) refusing to attend services of the church of england.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disagreeing, especially with a majority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"South Carolina, to show the strength and unity of her opinions, brings her assembly to a unanimity, within seven votes; Pennsylvania, not to be outdone in this respect more than others, reduces her dissentient fraction to one vote."*

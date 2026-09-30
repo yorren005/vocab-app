@@ -5,15 +5,6 @@ status: unread
 ---
 # subsidiary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An assistant subject to the authority or control of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A company that is completely controlled by another company.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Silver, subsidiary | 385.8 | .90 | 14.953 to 1 4."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Silver, | Needs of the | $10 |$10 subsidiary | people | | 4."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Silver, |Minor coins |Lawful money[a]| subsidiary | |in sums or mul-|162,000,000 | |tiples of $20 | 4."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An assistant subject to the authority or control of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A company that is completely controlled by another company.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Silver, subsidiary | 385.8 | .90 | 14.953 to 1 4."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Silver, | Needs of the | $10 |$10 subsidiary | people | | 4."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Silver, |Minor coins |Lawful money[a]| subsidiary | |in sums or mul-|162,000,000 | |tiples of $20 | 4."*

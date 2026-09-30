@@ -5,15 +5,6 @@ status: unread
 ---
 # centaur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a race of creatures fabled to be half human and half horse and to live in the mountains of Thessaly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class of asteroids with elliptical orbits that typically lie between the orbits of Jupiter and Neptune.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go bear it to the Centaur, where we host, And stay there, Dromio, till I come to thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll to the Centaur to go seek this slave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The gold I gave to Dromio is laid up Safe at the Centaur, and the heedful slave Is wander’d forth in care to seek me out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a race of creatures fabled to be half human and half horse and to live in the mountains of Thessaly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class of asteroids with elliptical orbits that typically lie between the orbits of Jupiter and Neptune.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go bear it to the Centaur, where we host, And stay there, Dromio, till I come to thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll to the Centaur to go seek this slave."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The gold I gave to Dromio is laid up Safe at the Centaur, and the heedful slave Is wander’d forth in care to seek me out."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # heptathlon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A 7-event athletic contest; specifically : a composite contest for female athletes that consists of the 100-meter hurdles, the high jump, the shot put, the 200-meter dash, the long jump, the javelin throw, and the 800-meter run.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 7-event athletic contest; specifically : a composite contest for female athletes that consists of the 100-meter hurdles, the high jump, the shot put, the 200-meter dash, the long jump, the javelin throw, and the 800-meter run.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heptathlon designates a 7-event athletic contest; specifically : a composite contest for female athletes that consists of the 100-meter hurdles, the high jump, the shot put, the 200-meter dash, the long jump, the javelin throw, and the 800-meter run."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A 7-event athletic contest; specifically : a composite contest for female athletes that consists of the 100-meter hurdles, the high jump, the shot put, the 200-meter dash, the long jump, the javelin throw, and the 800-meter run.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 7-event athletic contest; specifically : a composite contest for female athletes that consists of the 100-meter hurdles, the high jump, the shot put, the 200-meter dash, the long jump, the javelin throw, and the 800-meter run.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heptathlon designates a 7-event athletic contest; specifically : a composite contest for female athletes that consists of the 100-meter hurdles, the high jump, the shot put, the 200-meter dash, the long jump, the javelin throw, and the 800-meter run."*

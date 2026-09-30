@@ -5,15 +5,6 @@ status: unread
 ---
 # displace
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to move, usually with force or pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take the place of or have precedence over.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be possible for you to displace it with your little finger, there is some hope the ladies of Rome, especially his mother, may prevail with him."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I hadn’t thought of that.” But even the novelty and painfulness of his going to a Papistical land could not displace for long Mr and Mrs Clare’s natural interest in their son’s marriage."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"But the stream went along like soft air, like the flowing of a river, setting me aside from time to time, as the air will displace a straw, or the water a stone, but no more."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to move, usually with force or pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take the place of or have precedence over.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be possible for you to displace it with your little finger, there is some hope the ladies of Rome, especially his mother, may prevail with him."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I hadn’t thought of that.” But even the novelty and painfulness of his going to a Papistical land could not displace for long Mr and Mrs Clare’s natural interest in their son’s marriage."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"But the stream went along like soft air, like the flowing of a river, setting me aside from time to time, as the air will displace a straw, or the water a stone, but no more."*

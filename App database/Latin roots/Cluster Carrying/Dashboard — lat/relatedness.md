@@ -5,13 +5,6 @@ status: unread
 ---
 # relatedness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular manner of connectedness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular manner of connectedness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relatedness designates a particular manner of connectedness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular manner of connectedness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular manner of connectedness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relatedness designates a particular manner of connectedness."*

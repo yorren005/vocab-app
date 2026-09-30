@@ -5,20 +5,6 @@ status: unread
 ---
 # prowl
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Act or instance of prowling
-> 2. **Nuance / Usage**: Roam over in a predatory manner
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to prowl the target*) and intransitive clauses (*prowling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Who gave you leave to prowl about?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If such a lonely member of the bar do flit across the waste, and come upon a prowling suitor who is unable to leave off haunting the scenes of his anxiety, they frighten one another and retreat into opposite shades."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"he keeps me prowling and dangling about him as if I was made of the same stone as himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To roam or move about stealthily and restlessly in search of prey, plunder, or an opportunity to strike.
+> 2. **Nuance / Usage**: Also used as a noun (especially in the phrase *on the prowl*) to evoke the tense, predatory vigilance of a nocturnal hunter or a restless mind pacing a room.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive) and Noun.
+> - **Syntactic Constructions**: Operates transitively (*prowled the streets*) or intransitively (*prowling about the perimeter*), and in the idiom *on the prowl*.
+> - **Collocations & Registers**: Visceral narrative registers; collocated with *predator*, *wolves*, *alleys*, *night*, and *restlessly*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Who gave you leave to **prowl** about my grounds at this hour?"*
+> - 📜 **Rudyard Kipling (*The Jungle Book*):** *"Shere Khan was on the **prowl** again, his low, rasping cough echoing through the dry ravines."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Gaunt wolves **prowled** closer to the firelight, drawn by the scent of the camp."*

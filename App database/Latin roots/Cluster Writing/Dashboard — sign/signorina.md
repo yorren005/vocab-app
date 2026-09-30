@@ -5,13 +5,6 @@ status: unread
 ---
 # signorina
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An italian courtesy title for an unmarried woman; equivalent to `miss', it is either used alone or before a name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An italian title or form of address for an unmarried woman.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, signorina designates an italian courtesy title for an unmarried woman; equivalent to `miss', it is either used alone or before a name."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An italian courtesy title for an unmarried woman; equivalent to `miss', it is either used alone or before a name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An italian title or form of address for an unmarried woman.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, signorina designates an italian courtesy title for an unmarried woman; equivalent to `miss', it is either used alone or before a name."*

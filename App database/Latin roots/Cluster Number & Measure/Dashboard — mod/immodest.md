@@ -5,15 +5,6 @@ status: unread
 ---
 # immodest
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing an exaggerated opinion of your importance, ability, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offending against sexual mores in conduct or appearance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Presumptuous vassals, are you not ashamed With this immodest clamorous outrage To trouble and disturb the King and us?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be thou ashamed that I have took upon me Such an immodest raiment, if shame live In a disguise of love."*
-> - 📜 **George Eliot (*Middlemarch*):** *"On the contrary, she would have expressed the prettiest surprise and disapprobation if she had heard that another young lady had been detected in that immodest prematureness—indeed, would probably have disbelieved in its possibility."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing an exaggerated opinion of your importance, ability, etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offending against sexual mores in conduct or appearance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Presumptuous vassals, are you not ashamed With this immodest clamorous outrage To trouble and disturb the King and us?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be thou ashamed that I have took upon me Such an immodest raiment, if shame live In a disguise of love."*
+> - 📜 **George Eliot (*Middlemarch*):** *"On the contrary, she would have expressed the prettiest surprise and disapprobation if she had heard that another young lady had been detected in that immodest prematureness—indeed, would probably have disbelieved in its possibility."*

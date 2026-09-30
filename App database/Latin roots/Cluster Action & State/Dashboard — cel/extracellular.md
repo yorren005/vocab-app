@@ -5,13 +5,6 @@ status: unread
 ---
 # extracellular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Located or occurring outside a cell or cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located or occurring outside a cell or cells.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extracellular designates located or occurring outside a cell or cells."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Located or occurring outside a cell or cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located or occurring outside a cell or cells.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extracellular designates located or occurring outside a cell or cells."*

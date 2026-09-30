@@ -5,13 +5,6 @@ status: unread
 ---
 # aphaeresis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (linguistics) omission at the beginning of a word as in `coon' for `raccoon' or `till' for `until'.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (linguistics) omission at the beginning of a word as in `coon' for `raccoon' or `till' for `until'.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphaeresis designates (linguistics) omission at the beginning of a word as in `coon' for `raccoon' or `till' for `until'."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (linguistics) omission at the beginning of a word as in `coon' for `raccoon' or `till' for `until'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (linguistics) omission at the beginning of a word as in `coon' for `raccoon' or `till' for `until'.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphaeresis designates (linguistics) omission at the beginning of a word as in `coon' for `raccoon' or `till' for `until'."*

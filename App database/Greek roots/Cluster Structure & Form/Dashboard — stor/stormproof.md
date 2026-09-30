@@ -5,13 +5,6 @@ status: unread
 ---
 # stormproof
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protected against or able to withstand storms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protected against or able to withstand storms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stormproof designates protected against or able to withstand storms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Protected against or able to withstand storms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protected against or able to withstand storms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stormproof designates protected against or able to withstand storms."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # ali
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states prizefighter who won the world heavyweight championship three times (born in 1942).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fourth caliph of islam who is considered to be the first caliph by shiites; he was a cousin and son-in-law of muhammad; after his assassination islam was divided into shiite and sunnite sects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It is Ahmet Ali, with his attendants and a lot of people following him." "And who is Ahmet Ali?" "Ahmet Ali! don't you know, Zanim?"*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The great wrestler, Ahmet Ali."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"So that's Ahmet Ali." "Yes, Zan," Fenzile clapped her hands with delight, like a child seeing a circus procession."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states prizefighter who won the world heavyweight championship three times (born in 1942).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fourth caliph of islam who is considered to be the first caliph by shiites; he was a cousin and son-in-law of muhammad; after his assassination islam was divided into shiite and sunnite sects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It is Ahmet Ali, with his attendants and a lot of people following him." "And who is Ahmet Ali?" "Ahmet Ali! don't you know, Zanim?"*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The great wrestler, Ahmet Ali."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"So that's Ahmet Ali." "Yes, Zan," Fenzile clapped her hands with delight, like a child seeing a circus procession."*

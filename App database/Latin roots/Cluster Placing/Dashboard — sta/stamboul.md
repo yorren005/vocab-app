@@ -5,13 +5,6 @@ status: unread
 ---
 # stamboul
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest city and former capital of turkey; rebuilt on the site of ancient byzantium by constantine i in the fourth century; renamed constantinople by constantine who made it the capital of the byzantine empire; now the seat of the eastern orthodox church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest city and former capital of turkey; rebuilt on the site of ancient byzantium by constantine i in the fourth century; renamed constantinople by constantine who made it the capital of the byzantine empire; now the seat of the eastern orthodox church.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"And whose more rife with merriment than thine, O Stamboul! once the empress of their reign?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest city and former capital of turkey; rebuilt on the site of ancient byzantium by constantine i in the fourth century; renamed constantinople by constantine who made it the capital of the byzantine empire; now the seat of the eastern orthodox church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest city and former capital of turkey; rebuilt on the site of ancient byzantium by constantine i in the fourth century; renamed constantinople by constantine who made it the capital of the byzantine empire; now the seat of the eastern orthodox church.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"And whose more rife with merriment than thine, O Stamboul! once the empress of their reign?"*

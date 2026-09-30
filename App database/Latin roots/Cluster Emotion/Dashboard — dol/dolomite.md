@@ -5,13 +5,6 @@ status: unread
 ---
 # dolomite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of sedimentary rock resembling marble or limestone but rich in magnesium carbonate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light colored mineral consisting of calcium magnesium carbonate; a source of magnesium; used as a ceramic and as fertilizer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dolomite designates a kind of sedimentary rock resembling marble or limestone but rich in magnesium carbonate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of sedimentary rock resembling marble or limestone but rich in magnesium carbonate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light colored mineral consisting of calcium magnesium carbonate; a source of magnesium; used as a ceramic and as fertilizer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dolomite designates a kind of sedimentary rock resembling marble or limestone but rich in magnesium carbonate."*

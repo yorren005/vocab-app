@@ -5,15 +5,6 @@ status: unread
 ---
 # oculist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled in testing for defects of vision in order to prescribe corrective glasses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical doctor specializing in the diagnosis and treatment of diseases of the eye.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He had the advice of an eminent oculist; and he eventually recovered the sight of that one eye."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Just before I commenced reading Science and Health I spent a half day in having my eyes examined by one of the leading oculists in Boston."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Oculists told me I would always have to wear them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled in testing for defects of vision in order to prescribe corrective glasses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical doctor specializing in the diagnosis and treatment of diseases of the eye.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He had the advice of an eminent oculist; and he eventually recovered the sight of that one eye."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Just before I commenced reading Science and Health I spent a half day in having my eyes examined by one of the leading oculists in Boston."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Oculists told me I would always have to wear them."*

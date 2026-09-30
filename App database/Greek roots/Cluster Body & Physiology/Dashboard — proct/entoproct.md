@@ -5,13 +5,6 @@ status: unread
 ---
 # entoproct
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various moss-like aquatic animals usually forming branching colonies; each polyp having a both mouth and anus within a closed ring of tentacles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various moss-like aquatic animals usually forming branching colonies; each polyp having a both mouth and anus within a closed ring of tentacles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entoproct designates any of various moss-like aquatic animals usually forming branching colonies; each polyp having a both mouth and anus within a closed ring of tentacles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various moss-like aquatic animals usually forming branching colonies; each polyp having a both mouth and anus within a closed ring of tentacles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various moss-like aquatic animals usually forming branching colonies; each polyp having a both mouth and anus within a closed ring of tentacles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entoproct designates any of various moss-like aquatic animals usually forming branching colonies; each polyp having a both mouth and anus within a closed ring of tentacles."*

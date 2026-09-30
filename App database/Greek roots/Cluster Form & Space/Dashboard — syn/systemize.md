@@ -5,14 +5,6 @@ status: unread
 ---
 # systemize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrange according to a system or reduce to a system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange according to a system or reduce to a system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Then, again, in 1825, Bernard Germain, Count de Lacépède, a great naturalist, published a scientific systemized whale book, wherein are several pictures of the different species of the Leviathan."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Then, again, in 1825, Bernard Germain, Count de Lacépède, a great naturalist, published a scientific systemized whale book, wherein are several pictures of the different species of the Leviathan."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrange according to a system or reduce to a system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange according to a system or reduce to a system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Then, again, in 1825, Bernard Germain, Count de Lacépède, a great naturalist, published a scientific systemized whale book, wherein are several pictures of the different species of the Leviathan."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Then, again, in 1825, Bernard Germain, Count de Lacépède, a great naturalist, published a scientific systemized whale book, wherein are several pictures of the different species of the Leviathan."*

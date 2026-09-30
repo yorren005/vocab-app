@@ -5,13 +5,6 @@ status: unread
 ---
 # tonal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Employing variations in pitch to distinguish meanings of otherwise similar words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having tonality; i.e. tones and chords organized in relation to one tone such as a keynote or tonic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tonal designates employing variations in pitch to distinguish meanings of otherwise similar words."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Employing variations in pitch to distinguish meanings of otherwise similar words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having tonality; i.e. tones and chords organized in relation to one tone such as a keynote or tonic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tonal designates employing variations in pitch to distinguish meanings of otherwise similar words."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # nutritious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or providing nourishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or providing nourishment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"In her arduous labors in the Army of the Cumberland, she met with a large number of patients who suffered for want of suitably prepared, delicate and nutritious food."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"It is most nutritious and makes capital soup."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"While the valley of the Arkansas has longer grass, and more of it, the dealers in the Kaw region claim that their "feed" is the most nutritious."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or providing nourishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or providing nourishment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"In her arduous labors in the Army of the Cumberland, she met with a large number of patients who suffered for want of suitably prepared, delicate and nutritious food."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"It is most nutritious and makes capital soup."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"While the valley of the Arkansas has longer grass, and more of it, the dealers in the Kaw region claim that their "feed" is the most nutritious."*

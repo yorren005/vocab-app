@@ -5,15 +5,6 @@ status: unread
 ---
 # ferociously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a physically fierce manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a physically fierce manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He took out of his mouth the pulpy quid and, lodging it between his teeth, bit ferociously: —Khaan!"*
-> - 📜 **James Scurry (*The captivity, sufferings, and escape of James Scurry*):** *"The games commenced with the rams, perhaps thirty or forty pair each day; their mode of fighting is well known, and therefore needs no description: they would fight ferociously, but were seldom suffered to be completely conquered."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"The man grinned ferociously, placed one hand on a stake of the ring, and vaulted over the ropes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a physically fierce manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a physically fierce manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"He took out of his mouth the pulpy quid and, lodging it between his teeth, bit ferociously: —Khaan!"*
+> - 📜 **James Scurry (*The captivity, sufferings, and escape of James Scurry*):** *"The games commenced with the rams, perhaps thirty or forty pair each day; their mode of fighting is well known, and therefore needs no description: they would fight ferociously, but were seldom suffered to be completely conquered."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"The man grinned ferociously, placed one hand on a stake of the ring, and vaulted over the ropes."*

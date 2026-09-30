@@ -5,15 +5,6 @@ status: unread
 ---
 # derivative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The result of mathematical differentiation; the instantaneous change of one quantity relative to another; df(x)/dx.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound obtained from, or regarded as derived from, another compound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For honour, ’Tis a derivative from me to mine, And only that I stand for."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In this way we might conclude that, while the imitation of sunshine in these ceremonies was primary and original, the purification attributed to them was secondary and derivative."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But in regard to the interfering acts of a superior and subordinate authority, of an original and derivative power, the nature and reason of the thing indicate the converse of that rule as proper to be followed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The result of mathematical differentiation; the instantaneous change of one quantity relative to another; df(x)/dx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound obtained from, or regarded as derived from, another compound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For honour, ’Tis a derivative from me to mine, And only that I stand for."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In this way we might conclude that, while the imitation of sunshine in these ceremonies was primary and original, the purification attributed to them was secondary and derivative."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But in regard to the interfering acts of a superior and subordinate authority, of an original and derivative power, the nature and reason of the thing indicate the converse of that rule as proper to be followed."*

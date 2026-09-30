@@ -5,15 +5,6 @@ status: unread
 ---
 # afflatus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong creative impulse; divine inspiration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong creative impulse; divine inspiration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"His song was entirely an affair of uncontrolled afflatus, and this is a force which dwindles in middle life, leaving stranded the poet who has no other resource."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But no one could so well represent the king in his divine character as his son, who might be supposed to share the divine afflatus of his father."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The divine afflatus descends equally on the good and the bad, the lofty and the lowly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong creative impulse; divine inspiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong creative impulse; divine inspiration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"His song was entirely an affair of uncontrolled afflatus, and this is a force which dwindles in middle life, leaving stranded the poet who has no other resource."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But no one could so well represent the king in his divine character as his son, who might be supposed to share the divine afflatus of his father."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The divine afflatus descends equally on the good and the bad, the lofty and the lowly."*

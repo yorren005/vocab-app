@@ -5,15 +5,6 @@ status: unread
 ---
 # interpenetrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Penetrate mutually or be interlocked.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread or diffuse through.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And all this mixes with your most mystic mood; so that fact and fancy, half-way meeting, interpenetrate, and form one seamless whole."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"And all this mixes with your most mystic mood; so that fact and fancy, half-way meeting, interpenetrate, and form one seamless whole."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The branching dendroidal threads of this fungus proceed from a creeping mycelium or spawn of entangled filaments which interpenetrates the matrix, upon which it establishes itself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Penetrate mutually or be interlocked.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread or diffuse through.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And all this mixes with your most mystic mood; so that fact and fancy, half-way meeting, interpenetrate, and form one seamless whole."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"And all this mixes with your most mystic mood; so that fact and fancy, half-way meeting, interpenetrate, and form one seamless whole."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The branching dendroidal threads of this fungus proceed from a creeping mycelium or spawn of entangled filaments which interpenetrates the matrix, upon which it establishes itself."*

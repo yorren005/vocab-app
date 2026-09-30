@@ -5,15 +5,6 @@ status: unread
 ---
 # grammarian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A linguist who specializes in the study of grammar and syntax.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A linguist who specializes in the study of grammar and syntax.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The devoted disciples of a dead grammarian are bearing his body up a mountain-side for burial on its lofty summit, “where meteors shoot, clouds form, lightnings are loosened, stars come and go!"*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The grammarian, in his hunger and thirst after knowledge and truth, thought not of time."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But the grammarian was true to one side only of Browning’s philosophy of life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A linguist who specializes in the study of grammar and syntax.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A linguist who specializes in the study of grammar and syntax.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The devoted disciples of a dead grammarian are bearing his body up a mountain-side for burial on its lofty summit, “where meteors shoot, clouds form, lightnings are loosened, stars come and go!"*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The grammarian, in his hunger and thirst after knowledge and truth, thought not of time."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But the grammarian was true to one side only of Browning’s philosophy of life."*

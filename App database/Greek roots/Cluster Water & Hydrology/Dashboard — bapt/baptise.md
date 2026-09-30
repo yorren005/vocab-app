@@ -5,15 +5,6 @@ status: unread
 ---
 # baptise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer baptism to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Administer baptism to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He’s not going out in bluey specs with the sweat rolling off him to baptise blacks, is he?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Repent, repent," John cries, "the judgement is coming." And men do repent, and John baptises them as a symbol that God has forgiven them."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is our experience that we repent and fall again; what else was the experience of the people whom John baptised?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer baptism to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Administer baptism to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"He’s not going out in bluey specs with the sweat rolling off him to baptise blacks, is he?"*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Repent, repent," John cries, "the judgement is coming." And men do repent, and John baptises them as a symbol that God has forgiven them."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is our experience that we repent and fall again; what else was the experience of the people whom John baptised?"*

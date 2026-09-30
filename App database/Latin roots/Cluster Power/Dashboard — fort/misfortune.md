@@ -5,15 +5,6 @@ status: unread
 ---
 # misfortune
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unnecessary and unforeseen trouble resulting from an unfortunate event.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unfortunate state resulting from unfavorable outcomes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, brother Rivers, are you yet to learn What late misfortune is befall’n King Edward?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I should be still Plucking the grass to know where sits the wind, Peering in maps for ports, and piers and roads; And every object that might make me fear Misfortune to my ventures, out of doubt Would make me sad."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If e’er the Jew her father come to heaven, It will be for his gentle daughter’s sake; And never dare misfortune cross her foot, Unless she do it under this excuse, That she is issue to a faithless Jew."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unnecessary and unforeseen trouble resulting from an unfortunate event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unfortunate state resulting from unfavorable outcomes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, brother Rivers, are you yet to learn What late misfortune is befall’n King Edward?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I should be still Plucking the grass to know where sits the wind, Peering in maps for ports, and piers and roads; And every object that might make me fear Misfortune to my ventures, out of doubt Would make me sad."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If e’er the Jew her father come to heaven, It will be for his gentle daughter’s sake; And never dare misfortune cross her foot, Unless she do it under this excuse, That she is issue to a faithless Jew."*

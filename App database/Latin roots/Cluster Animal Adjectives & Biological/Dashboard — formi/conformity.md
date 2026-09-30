@@ -5,15 +5,6 @@ status: unread
 ---
 # conformity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Correspondence in form or appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting according to certain accepted standards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Spelling and punctuation have been largely brought into conformity with modern British usage."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester an exacting, fastidious sort of man?” “Not particularly so; but he has a gentleman’s tastes and habits, and he expects to have things managed in conformity to them.” “Do you like him?"*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Her pleasant manners and cheerful conformity made her always valuable amongst them; but _now_ she was absolutely necessary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Correspondence in form or appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting according to certain accepted standards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Spelling and punctuation have been largely brought into conformity with modern British usage."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester an exacting, fastidious sort of man?” “Not particularly so; but he has a gentleman’s tastes and habits, and he expects to have things managed in conformity to them.” “Do you like him?"*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Her pleasant manners and cheerful conformity made her always valuable amongst them; but _now_ she was absolutely necessary."*

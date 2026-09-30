@@ -5,13 +5,6 @@ status: unread
 ---
 # contortionist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acrobat able to twist into unusual positions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acrobat able to twist into unusual positions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contortionist designates an acrobat able to twist into unusual positions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acrobat able to twist into unusual positions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acrobat able to twist into unusual positions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contortionist designates an acrobat able to twist into unusual positions."*

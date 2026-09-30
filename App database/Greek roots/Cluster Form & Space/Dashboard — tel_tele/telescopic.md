@@ -5,15 +5,6 @@ status: unread
 ---
 # telescopic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Visible only with a telescope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of discerning distant objects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Was there any ingenious plot, any hide-and-seek course of action, which might be detected by a careful telescopic watch?"*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Her telescopic eye swept the whole field."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"It appears to have been his object to convert the mind of Alice into a kind of telescopic medium, through which Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Visible only with a telescope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of discerning distant objects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Was there any ingenious plot, any hide-and-seek course of action, which might be detected by a careful telescopic watch?"*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Her telescopic eye swept the whole field."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"It appears to have been his object to convert the mind of Alice into a kind of telescopic medium, through which Mr."*

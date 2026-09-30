@@ -5,15 +5,6 @@ status: unread
 ---
 # decanter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bottle with a stopper; for serving wine or water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bottle with a stopper; for serving wine or water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He left his compliments, and would you partake of some refreshment”—there were biscuits and a decanter of wine on a small table—“and look over the paper,” which the young gentleman gave me as he spoke."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers, taking a decanter of choicer wine from his dumb-waiter, and filling for each of us and for himself, “and may the question of supremacy be settled to the lady’s satisfaction!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Hawley, passing the decanter to Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bottle with a stopper; for serving wine or water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bottle with a stopper; for serving wine or water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He left his compliments, and would you partake of some refreshment”—there were biscuits and a decanter of wine on a small table—“and look over the paper,” which the young gentleman gave me as he spoke."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers, taking a decanter of choicer wine from his dumb-waiter, and filling for each of us and for himself, “and may the question of supremacy be settled to the lady’s satisfaction!"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Hawley, passing the decanter to Mr."*

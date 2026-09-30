@@ -5,15 +5,6 @@ status: unread
 ---
 # barnyard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yard adjoining a barn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yard adjoining a barn.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte B. Herr (*The Wise Mamma Goose*):** *"She had left the barnyard because it was so noisy there that she could not collect her wits, and had hidden herself between the rows of tall red hollyhocks which border one side of the garden."*
-> - 📜 **Charlotte B. Herr (*The Wise Mamma Goose*):** *"There was something wrong in the barnyard."*
-> - 📜 **Charlotte B. Herr (*The Wise Mamma Goose*):** *"He was the king of the barnyard, and took care of them all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A yard adjoining a barn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yard adjoining a barn.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte B. Herr (*The Wise Mamma Goose*):** *"She had left the barnyard because it was so noisy there that she could not collect her wits, and had hidden herself between the rows of tall red hollyhocks which border one side of the garden."*
+> - 📜 **Charlotte B. Herr (*The Wise Mamma Goose*):** *"There was something wrong in the barnyard."*
+> - 📜 **Charlotte B. Herr (*The Wise Mamma Goose*):** *"He was the king of the barnyard, and took care of them all."*

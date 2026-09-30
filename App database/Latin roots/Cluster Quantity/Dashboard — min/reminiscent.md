@@ -5,15 +5,6 @@ status: unread
 ---
 # reminiscent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to bring to mind; - wilder hobson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to bring to mind; - wilder hobson.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The turkey in the poultry-yard, always troubled with a class-grievance (probably Christmas), may be reminiscent of that summer morning wrongfully taken from him when he got into the lane among the felled trees, where there was a barn and barley."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Choruses." He gave a reminiscent laugh."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"It must, in its initial stages, witness a dispersal, combined with a consecration, reminiscent of the dawn of the Heroic Age in Bahá'u'lláh's native land."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to bring to mind; - wilder hobson.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to bring to mind; - wilder hobson.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The turkey in the poultry-yard, always troubled with a class-grievance (probably Christmas), may be reminiscent of that summer morning wrongfully taken from him when he got into the lane among the felled trees, where there was a barn and barley."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Choruses." He gave a reminiscent laugh."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"It must, in its initial stages, witness a dispersal, combined with a consecration, reminiscent of the dawn of the Heroic Age in Bahá'u'lláh's native land."*

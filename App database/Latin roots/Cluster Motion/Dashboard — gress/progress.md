@@ -5,15 +5,6 @@ status: unread
 ---
 # progress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gradual improvement or growth or development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of moving forward (as toward a goal).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The wrinkles which thy glass will truly show, Of mouthed graves will give thee memory, Thou by thy dial’s shady stealth mayst know, Time’s thievish progress to eternity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of that and all the progress more and less, Resolvedly more leisure shall express."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nothing but to show you how a king may go a progress through the guts of a beggar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gradual improvement or growth or development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of moving forward (as toward a goal).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The wrinkles which thy glass will truly show, Of mouthed graves will give thee memory, Thou by thy dial’s shady stealth mayst know, Time’s thievish progress to eternity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of that and all the progress more and less, Resolvedly more leisure shall express."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nothing but to show you how a king may go a progress through the guts of a beggar."*

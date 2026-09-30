@@ -5,15 +5,6 @@ status: unread
 ---
 # diabolical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing the cunning or ingenuity or wickedness typical of a devil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely evil or cruel; expressive of cruelty or befitting hell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"My mind,” Sir Leicester adds with a generous warmth, “has not, as may be easily supposed, recovered its tone since the late diabolical occurrence."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The infantry have two most diabolical upward cuts, which we are too humane to use."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It hardly was credible that such a heavenly light could be the parent of such a diabolical sound."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing the cunning or ingenuity or wickedness typical of a devil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely evil or cruel; expressive of cruelty or befitting hell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"My mind,” Sir Leicester adds with a generous warmth, “has not, as may be easily supposed, recovered its tone since the late diabolical occurrence."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The infantry have two most diabolical upward cuts, which we are too humane to use."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It hardly was credible that such a heavenly light could be the parent of such a diabolical sound."*

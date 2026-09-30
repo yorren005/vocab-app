@@ -5,15 +5,6 @@ status: unread
 ---
 # uneven
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not even or uniform as e.g. in shape or texture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a contest or contestants) not fairly matched as opponents.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Eight yards of uneven ground is threescore and ten miles afoot with me, and the stony-hearted villains know it well enough."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In most uneven and distracted manner."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The villain is much lighter-heel’d than I: I follow’d fast, but faster he did fly, That fallen am I in dark uneven way, And here will rest me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not even or uniform as e.g. in shape or texture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a contest or contestants) not fairly matched as opponents.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Eight yards of uneven ground is threescore and ten miles afoot with me, and the stony-hearted villains know it well enough."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In most uneven and distracted manner."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The villain is much lighter-heel’d than I: I follow’d fast, but faster he did fly, That fallen am I in dark uneven way, And here will rest me."*

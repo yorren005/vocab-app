@@ -5,15 +5,6 @@ status: unread
 ---
 # dispose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give, sell, or transfer to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Throw or cast away.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, dear queen; For we intend so to dispose you as Yourself shall give us counsel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At my tent The Douglas is, and I beseech your Grace I may dispose of him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter our gates; dispose of us and ours; For we no longer are defensible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give, sell, or transfer to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Throw or cast away.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, dear queen; For we intend so to dispose you as Yourself shall give us counsel."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At my tent The Douglas is, and I beseech your Grace I may dispose of him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter our gates; dispose of us and ours; For we no longer are defensible."*

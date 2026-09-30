@@ -5,13 +5,6 @@ status: unread
 ---
 # fenestra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small opening covered with membrane (especially one in the bone between the middle and inner ear).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small opening covered with membrane (especially one in the bone between the middle and inner ear).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Et in orientali parte duarum elarum orientalium, in earum duabus fenestris, quælibet fenestra constat ex tribus panis vitreatis sine armis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small opening covered with membrane (especially one in the bone between the middle and inner ear).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small opening covered with membrane (especially one in the bone between the middle and inner ear).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Et in orientali parte duarum elarum orientalium, in earum duabus fenestris, quælibet fenestra constat ex tribus panis vitreatis sine armis."*

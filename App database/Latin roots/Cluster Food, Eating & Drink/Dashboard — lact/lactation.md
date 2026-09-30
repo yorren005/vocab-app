@@ -5,13 +5,6 @@ status: unread
 ---
 # lactation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The period following birth during which milk is secreted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production and secretion of milk by the mammary glands.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Hence the custom which prohibits the commerce of the sexes while the worms are hatching may be only an extension, by analogy, of the rule which is observed by many races, that the husband may not cohabit with his wife during pregnancy and lactation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The period following birth during which milk is secreted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production and secretion of milk by the mammary glands.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Hence the custom which prohibits the commerce of the sexes while the worms are hatching may be only an extension, by analogy, of the rule which is observed by many races, that the husband may not cohabit with his wife during pregnancy and lactation."*

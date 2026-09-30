@@ -5,15 +5,6 @@ status: unread
 ---
 # orbit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The (usually elliptical) path described by one celestial body in its revolution about another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular environment or walk of life.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Clark, who, twenty years younger than Jan Coggan, revolved in the same orbit."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But even while we are talking and meditating about the earth’s orbit and the solar system, what we feel and adjust our movements to is the stable earth and the changing day."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"And God help me also, if I have attained so high rank among the blessed before I have learned that the human soul is beyond human aid; that in its eternal relations each soul travels in an orbit of its own and holds correspondence only with its Sun."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The (usually elliptical) path described by one celestial body in its revolution about another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular environment or walk of life.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Clark, who, twenty years younger than Jan Coggan, revolved in the same orbit."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But even while we are talking and meditating about the earth’s orbit and the solar system, what we feel and adjust our movements to is the stable earth and the changing day."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"And God help me also, if I have attained so high rank among the blessed before I have learned that the human soul is beyond human aid; that in its eternal relations each soul travels in an orbit of its own and holds correspondence only with its Sun."*

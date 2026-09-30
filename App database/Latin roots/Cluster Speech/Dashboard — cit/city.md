@@ -5,15 +5,6 @@ status: unread
 ---
 # city
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and densely populated urban area; may include several independent administrative districts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An incorporated administrative district established by state charter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virginity being blown down, man will quicklier be blown up; marry, in blowing him down again, with the breach yourselves made, you lose your city."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, come; for if they do approach the city, we shall lose all the sight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The city cast Her people out upon her, and Antony, Enthroned i’ th’ market-place, did sit alone, Whistling to th’ air, which, but for vacancy, Had gone to gaze on Cleopatra too, And made a gap in nature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and densely populated urban area; may include several independent administrative districts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An incorporated administrative district established by state charter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virginity being blown down, man will quicklier be blown up; marry, in blowing him down again, with the breach yourselves made, you lose your city."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, come; for if they do approach the city, we shall lose all the sight."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The city cast Her people out upon her, and Antony, Enthroned i’ th’ market-place, did sit alone, Whistling to th’ air, which, but for vacancy, Had gone to gaze on Cleopatra too, And made a gap in nature."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # florence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in central italy on the arno; provincial capital of tuscany; center of the italian renaissance from 14th to 16th centuries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in northeast south carolina; transportation center.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Without the walls of Florence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath arm’d our answer, And Florence is denied before he comes: Yet, for our gentlemen that mean to see The Tuscan service, freely have they leave To stand on either part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the Duke of Florence attended; two French Lords, and Soldiers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in central italy on the arno; provincial capital of tuscany; center of the italian renaissance from 14th to 16th centuries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in northeast south carolina; transportation center.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Without the walls of Florence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath arm’d our answer, And Florence is denied before he comes: Yet, for our gentlemen that mean to see The Tuscan service, freely have they leave To stand on either part."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the Duke of Florence attended; two French Lords, and Soldiers."*

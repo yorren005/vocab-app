@@ -5,15 +5,6 @@ status: unread
 ---
 # recommendation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (as a course of action) that is recommended as advisable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that recommends (or expresses commendation of) a person or thing as worthy or desirable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Certainly, certainly!” “And to confer upon me the favour of your distinguished recommendation?” “By all means, Mademoiselle Hortense.” “A word from Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But it is mere impertinence in me to offer any recommendation."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You don’t mean to set up for a new character with ME after all these years, I hope?” Her friendly indignation had an exemplary effect upon her husband, who shook his head at the trooper several times as a silent recommendation to him to yield."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (as a course of action) that is recommended as advisable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that recommends (or expresses commendation of) a person or thing as worthy or desirable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Certainly, certainly!” “And to confer upon me the favour of your distinguished recommendation?” “By all means, Mademoiselle Hortense.” “A word from Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But it is mere impertinence in me to offer any recommendation."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You don’t mean to set up for a new character with ME after all these years, I hope?” Her friendly indignation had an exemplary effect upon her husband, who shook his head at the trooper several times as a silent recommendation to him to yield."*

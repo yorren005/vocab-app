@@ -5,15 +5,6 @@ status: unread
 ---
 # or
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in northwestern united states on the pacific.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room in a hospital equipped for the performance of surgical operations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Nay, the debts due to the French and Dutch are to be paid in militiamen instead of louis d’ors and ducats."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"This Santa Engracia quarter seemed like a furnace, señors."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"These two good fathers have acquainted you with our need of it already." "Yes, I will sell it, I will sell it," answered Candiola, with a crafty smile; "but I cannot part with it at the price which these señors indicated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in northwestern united states on the pacific.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room in a hospital equipped for the performance of surgical operations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Nay, the debts due to the French and Dutch are to be paid in militiamen instead of louis d’ors and ducats."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"This Santa Engracia quarter seemed like a furnace, señors."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"These two good fathers have acquainted you with our need of it already." "Yes, I will sell it, I will sell it," answered Candiola, with a crafty smile; "but I cannot part with it at the price which these señors indicated."*

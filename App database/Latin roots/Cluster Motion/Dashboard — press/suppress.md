@@ -5,15 +5,6 @@ status: unread
 ---
 # suppress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To put down by force or authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come down on or keep down by unjust use of one's authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mercy that was quick in us but late, By your own counsel is suppress’d and kill’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus the Mortimers, In whom the title rested, were suppress’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well didst thou, Richard, to suppress thy voice; For, had the passions of thy heart burst out, I fear we should have seen decipher’d there More rancorous spite, more furious raging broils, Than yet can be imagined or supposed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To put down by force or authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come down on or keep down by unjust use of one's authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mercy that was quick in us but late, By your own counsel is suppress’d and kill’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus the Mortimers, In whom the title rested, were suppress’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well didst thou, Richard, to suppress thy voice; For, had the passions of thy heart burst out, I fear we should have seen decipher’d there More rancorous spite, more furious raging broils, Than yet can be imagined or supposed."*

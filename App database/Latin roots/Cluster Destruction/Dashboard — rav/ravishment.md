@@ -5,15 +5,6 @@ status: unread
 ---
 # ravishment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of delight at being filled with wonder and enchantment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The crime of forcing a woman to submit to sexual intercourse against her will.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And they, like straggling slaves for pillage fighting, Obdurate vassals fell exploits effecting, In bloody death and ravishment delighting, Nor children’s tears nor mothers’ groans respecting, Swell in their pride, the onset still expecting."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, Philomel, that sing’st of ravishment, Make thy sad grove in my disheveled hair."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Thir song was partial, but the harmony (What could it less when Spirits immortal sing?) Suspended Hell, and took with ravishment The thronging audience."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of delight at being filled with wonder and enchantment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The crime of forcing a woman to submit to sexual intercourse against her will.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And they, like straggling slaves for pillage fighting, Obdurate vassals fell exploits effecting, In bloody death and ravishment delighting, Nor children’s tears nor mothers’ groans respecting, Swell in their pride, the onset still expecting."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, Philomel, that sing’st of ravishment, Make thy sad grove in my disheveled hair."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Thir song was partial, but the harmony (What could it less when Spirits immortal sing?) Suspended Hell, and took with ravishment The thronging audience."*

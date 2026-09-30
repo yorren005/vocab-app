@@ -5,15 +5,6 @@ status: unread
 ---
 # oppress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come down on or keep down by unjust use of one's authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to suffer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You ne’er oppress’d me with a mother’s groan, Yet I express to you a mother’s care."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Answer me like men. ‘When griping griefs the heart doth wound, And doleful dumps the mind oppress, Then music with her silver sound’— Why ‘silver sound’?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ANTONIO. [_Aside to Sebastian._] Let it be tonight; For, now they are oppress’d with travel, they Will not, nor cannot, use such vigilance As when they are fresh."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Come down on or keep down by unjust use of one's authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to suffer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You ne’er oppress’d me with a mother’s groan, Yet I express to you a mother’s care."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Answer me like men. ‘When griping griefs the heart doth wound, And doleful dumps the mind oppress, Then music with her silver sound’— Why ‘silver sound’?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ANTONIO. [_Aside to Sebastian._] Let it be tonight; For, now they are oppress’d with travel, they Will not, nor cannot, use such vigilance As when they are fresh."*

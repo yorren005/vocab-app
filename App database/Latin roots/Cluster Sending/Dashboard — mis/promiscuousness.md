@@ -5,13 +5,6 @@ status: unread
 ---
 # promiscuousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indulging in promiscuous (casual and indiscriminate) sexual relations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indulging in promiscuous (casual and indiscriminate) sexual relations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, promiscuousness designates indulging in promiscuous (casual and indiscriminate) sexual relations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indulging in promiscuous (casual and indiscriminate) sexual relations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indulging in promiscuous (casual and indiscriminate) sexual relations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, promiscuousness designates indulging in promiscuous (casual and indiscriminate) sexual relations."*

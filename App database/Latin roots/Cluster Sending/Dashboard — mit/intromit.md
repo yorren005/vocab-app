@@ -5,13 +5,6 @@ status: unread
 ---
 # intromit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Allow to enter; grant entry to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allow to enter; grant entry to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intromit designates allow to enter; grant entry to."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Allow to enter; grant entry to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allow to enter; grant entry to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intromit designates allow to enter; grant entry to."*

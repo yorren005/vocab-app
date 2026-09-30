@@ -5,15 +5,6 @@ status: unread
 ---
 # supererogatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: More than is needed, desired, or required.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: More than is needed, desired, or required.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He was close to her doors: his standing was sufficient: his qualities were even supererogatory."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He was close to her doors: his standing was sufficient: his qualities were even supererogatory."*
-> - 📜 **James Joyce (*Ulysses*):** *"What supererogatory marks of special hospitality did the host show his guest?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: More than is needed, desired, or required.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: More than is needed, desired, or required.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He was close to her doors: his standing was sufficient: his qualities were even supererogatory."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He was close to her doors: his standing was sufficient: his qualities were even supererogatory."*
+> - 📜 **James Joyce (*Ulysses*):** *"What supererogatory marks of special hospitality did the host show his guest?"*

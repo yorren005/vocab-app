@@ -5,13 +5,6 @@ status: unread
 ---
 # superfecundation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fertilization of two or more ova released during the same menstrual cycle by sperm from separate acts of coitus (especially by different males).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fertilization of two or more ova released during the same menstrual cycle by sperm from separate acts of coitus (especially by different males).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superfecundation designates fertilization of two or more ova released during the same menstrual cycle by sperm from separate acts of coitus (especially by different males)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fertilization of two or more ova released during the same menstrual cycle by sperm from separate acts of coitus (especially by different males).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fertilization of two or more ova released during the same menstrual cycle by sperm from separate acts of coitus (especially by different males).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superfecundation designates fertilization of two or more ova released during the same menstrual cycle by sperm from separate acts of coitus (especially by different males)."*

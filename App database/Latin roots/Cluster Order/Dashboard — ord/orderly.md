@@ -5,15 +5,6 @@ status: unread
 ---
 # orderly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soldier who serves as an attendant to a superior officer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A male hospital attendant who has general duties that do not involve the medical treatment of patients.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But orderly to end where I begun, Our wills and fates do so contrary run That our devices still are overthrown."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These things being bought and orderly bestow’d, Return in haste, for I do feast tonight My best esteem’d acquaintance; hie thee, go."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet he would not swear; praised women’s modesty; and gave such orderly and well-behaved reproof to all uncomeliness that I would have sworn his disposition would have gone to the truth of his words."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soldier who serves as an attendant to a superior officer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A male hospital attendant who has general duties that do not involve the medical treatment of patients.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But orderly to end where I begun, Our wills and fates do so contrary run That our devices still are overthrown."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These things being bought and orderly bestow’d, Return in haste, for I do feast tonight My best esteem’d acquaintance; hie thee, go."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet he would not swear; praised women’s modesty; and gave such orderly and well-behaved reproof to all uncomeliness that I would have sworn his disposition would have gone to the truth of his words."*

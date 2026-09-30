@@ -5,13 +5,6 @@ status: unread
 ---
 # nationally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to a nation taken as a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extending throughout an entire nation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The party that would succeed nationally must triumph in states—triumph in the state elections, must be prepared by municipal success."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to a nation taken as a whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extending throughout an entire nation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The party that would succeed nationally must triumph in states—triumph in the state elections, must be prepared by municipal success."*

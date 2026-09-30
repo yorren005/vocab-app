@@ -5,13 +5,6 @@ status: unread
 ---
 # acanthocephala
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Phylum or class of elongated wormlike parasites that live in the intestines of vertebrates: spiny-headed worms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Phylum or class of elongated wormlike parasites that live in the intestines of vertebrates: spiny-headed worms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Acanthocephala designates phylum or class of elongated wormlike parasites that live in the intestines of vertebrates: spiny-headed worms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Phylum or class of elongated wormlike parasites that live in the intestines of vertebrates: spiny-headed worms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Phylum or class of elongated wormlike parasites that live in the intestines of vertebrates: spiny-headed worms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Acanthocephala designates phylum or class of elongated wormlike parasites that live in the intestines of vertebrates: spiny-headed worms."*

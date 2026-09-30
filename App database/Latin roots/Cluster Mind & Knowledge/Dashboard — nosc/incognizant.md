@@ -5,13 +5,6 @@ status: unread
 ---
 # incognizant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (often followed by `of') not aware.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often followed by `of') not aware.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incognizant designates (often followed by `of') not aware."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (often followed by `of') not aware.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often followed by `of') not aware.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incognizant designates (often followed by `of') not aware."*

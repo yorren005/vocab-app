@@ -5,20 +5,6 @@ status: unread
 ---
 # cleave
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (intransitive) to split
-> 2. **Nuance / Usage**: Divide by or as if by a cutting blow : split
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (contronym / auto-antonym: transitive & intransitive).
-> - **Syntactic Constructions**: Operates transitively in the sense of splitting (*to cleave a path through granite*), and intransitively with *to* in the sense of clinging (*cleaving steadfastly to tradition*).
-> - **Collocations & Registers**: Archaic biblical, martial, and geologic registers; collocated with *cleave unto*, *cleave asunder*, *rock*, *wedge*, and *heft*.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"At last he cried, “Cleave him to the brisket!"*
-> - 📜 **Washington Irving (*The Sketch Book*):** *"he verily feared would cleave him asunder."*
-> - 📜 **Walter Scott (*Ivanhoe*):** *"yeoman, Robert Locksley, called Cleave-the-Wand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To split, sever, or divide something forcefully along a natural grain or with a heavy cutting blow, as with an axe or sword; also, to cut a path through water or air.
+> 2. **Nuance / Usage**: A classic English contronym (auto-antonym): from a separate Old English root (*clifian*), it also means to cling, adhere, or remain steadfastly faithful *to* someone or something.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (contronym / auto-antonym: transitive & intransitive).
+> - **Syntactic Constructions**: Operates transitively in the sense of splitting (*to cleave a helm in twain*), and intransitively with *to* or *unto* in the sense of clinging (*cleaving steadfastly to tradition*).
+> - **Collocations & Registers**: Archaic biblical, martial, and geologic registers; collocated with *cleave unto*, *cleave asunder*, *rock*, *helm*, and *twain*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"At last he cried, '**Cleave** him to the brisket!'"*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"He raised a two-handed sword which the squire verily feared would **cleave** him asunder."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"O Hamlet, speak no more! Thou hast **cleft** my heart in twain."*

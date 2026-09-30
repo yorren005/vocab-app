@@ -5,15 +5,6 @@ status: unread
 ---
 # inflated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exaggerate or make bigger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill with gas or air.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Morland’s account of it was no inflated representation, no studied appeal to their passions."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"While this country was lowering its level of prices from an inflated paper money to a gold commodity basis, the gold basis itself was sinking to a lower level."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"When the balance between the capitalizations of various industries and between the incomes of the various periods proves to be false, the inevitable readjustment causes suffering and loss to many, but particularly in the inflated industries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exaggerate or make bigger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill with gas or air.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Morland’s account of it was no inflated representation, no studied appeal to their passions."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"While this country was lowering its level of prices from an inflated paper money to a gold commodity basis, the gold basis itself was sinking to a lower level."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"When the balance between the capitalizations of various industries and between the incomes of the various periods proves to be false, the inevitable readjustment causes suffering and loss to many, but particularly in the inflated industries."*

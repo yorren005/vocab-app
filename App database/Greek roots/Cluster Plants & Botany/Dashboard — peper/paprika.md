@@ -5,13 +5,6 @@ status: unread
 ---
 # paprika
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually mild red seasoning consisting of the dried finely ground pods of various sweet peppers; also : a sweet pepper used for making paprika.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually mild red seasoning consisting of the dried finely ground pods of various sweet peppers; also : a sweet pepper used for making paprika.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"There was a dog howling all night under my window, which may have had something to do with it; or it may have been the paprika, for I had to drink up all the water in my carafe, and was still thirsty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually mild red seasoning consisting of the dried finely ground pods of various sweet peppers; also : a sweet pepper used for making paprika.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually mild red seasoning consisting of the dried finely ground pods of various sweet peppers; also : a sweet pepper used for making paprika.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"There was a dog howling all night under my window, which may have had something to do with it; or it may have been the paprika, for I had to drink up all the water in my carafe, and was still thirsty."*

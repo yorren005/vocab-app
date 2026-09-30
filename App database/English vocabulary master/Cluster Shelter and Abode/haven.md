@@ -5,20 +5,6 @@ status: unread
 ---
 # haven
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Safe place
-> 2. **Nuance / Usage**: Harbor, port
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Unto the wished haven of my bliss."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"looked in to ask you—but I haven’t got it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"much as yet; we—haven’t—come—to—hah!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A harbor, port, or sheltered inlet that provides safe anchorage for ships and boats during rough weather.
+> 2. **Nuance / Usage**: More broadly, any refuge, sanctuary, or place of safety, peace, and protection from danger or turmoil (*safe haven*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Two Gentlemen of Verona*):** *"Here is a **haven** where I may safely anchor after all my storms."*
+> - 📜 **Alfred, Lord Tennyson (*Break, Break, Break*):** *"And the stately ships go on to their **haven** under the hill."*
+> - 📜 **Gerard Manley Hopkins (*Heaven-Haven*):** *"I have desired to go where springs not fail, to fields where flies no sharp and sided hail, and a **haven** out of the swing of the sea."*

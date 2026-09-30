@@ -5,13 +5,6 @@ status: unread
 ---
 # glottis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The elongated space between the vocal cords; also : the structures that surround this space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The elongated space between the vocal cords; also : the structures that surround this space.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Next, the same habit must have compelled the forward position of the glottis or opening of the windpipe, which is always in front of the gullet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The elongated space between the vocal cords; also : the structures that surround this space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The elongated space between the vocal cords; also : the structures that surround this space.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Next, the same habit must have compelled the forward position of the glottis or opening of the windpipe, which is always in front of the gullet."*

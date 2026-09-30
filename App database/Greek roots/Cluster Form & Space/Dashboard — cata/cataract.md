@@ -5,15 +5,6 @@ status: unread
 ---
 # cataract
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An eye disease that involves the clouding or opacification of the natural lens of the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large waterfall; violent rush of water over a precipice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Other dispersed fragments of the same great palladium are to be found on the canals of Venice, at the second cataract of the Nile, in the baths of Germany, and sprinkled on the sea-sand all over the English coast."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Were Niagara but a cataract of sand, would you travel your thousand miles to see it?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Floating on the waves we saw the abandoned boat, as for one instant it tossed and gaped beneath the ship’s bows like a chip at the base of a cataract; and then the vast hull rolled over it, and it was seen no more till it came up weltering astern."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An eye disease that involves the clouding or opacification of the natural lens of the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large waterfall; violent rush of water over a precipice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Other dispersed fragments of the same great palladium are to be found on the canals of Venice, at the second cataract of the Nile, in the baths of Germany, and sprinkled on the sea-sand all over the English coast."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Were Niagara but a cataract of sand, would you travel your thousand miles to see it?"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Floating on the waves we saw the abandoned boat, as for one instant it tossed and gaped beneath the ship’s bows like a chip at the base of a cataract; and then the vast hull rolled over it, and it was seen no more till it came up weltering astern."*

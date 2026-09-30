@@ -5,15 +5,6 @@ status: unread
 ---
 # emblematical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as a visible symbol for something abstract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as a visible symbol for something abstract.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Go and gaze upon the iron emblematical harpoons round yonder lofty mansion, and your question will be answered."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And as that famous great tierce is mystically carved in front, so the whale’s vast plaited forehead forms innumerable strange devices for the emblematical adornment of his wondrous tun."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Go and gaze upon the iron emblematical harpoons round yonder lofty mansion, and your question will be answered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as a visible symbol for something abstract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as a visible symbol for something abstract.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Go and gaze upon the iron emblematical harpoons round yonder lofty mansion, and your question will be answered."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And as that famous great tierce is mystically carved in front, so the whale’s vast plaited forehead forms innumerable strange devices for the emblematical adornment of his wondrous tun."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Go and gaze upon the iron emblematical harpoons round yonder lofty mansion, and your question will be answered."*

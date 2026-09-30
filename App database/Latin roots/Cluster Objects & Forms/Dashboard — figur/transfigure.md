@@ -5,15 +5,6 @@ status: unread
 ---
 # transfigure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elevate or idealize, in allusion to christ's transfiguration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change completely the nature or appearance of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"It was too slight to seize upon at the instant; yet, as recollected afterwards, seemed to transfigure the whole man."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"No glamour ever transfigures them."*
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"Fell? or is it the mere radiance of a foul soul that thus transpires through, and transfigures, its clay continent?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Elevate or idealize, in allusion to christ's transfiguration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change completely the nature or appearance of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"It was too slight to seize upon at the instant; yet, as recollected afterwards, seemed to transfigure the whole man."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"No glamour ever transfigures them."*
+> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"Fell? or is it the mere radiance of a foul soul that thus transpires through, and transfigures, its clay continent?"*

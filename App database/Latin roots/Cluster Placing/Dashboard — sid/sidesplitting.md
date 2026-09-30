@@ -5,13 +5,6 @@ status: unread
 ---
 # sidesplitting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very funny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very funny.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sidesplitting designates very funny."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very funny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very funny.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sidesplitting designates very funny."*

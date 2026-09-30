@@ -5,15 +5,6 @@ status: unread
 ---
 # recital
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of giving an account describing incidents or a course of events.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Performance of music or dance especially by soloists.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The recital of his adventure obliterated for the time all sense of their own desires, and they thanked God together that their loss had been the widow's gain."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"But God willed otherwise, as will be learned from the recital of God's dealings with me on an occasion of a journey alone in a carriage from Troy to Schenectady."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I, Darrell Standing, cannot refrain from breaking in on this recital of an earlier existence in order to note a conclusion of my own."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of giving an account describing incidents or a course of events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Performance of music or dance especially by soloists.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The recital of his adventure obliterated for the time all sense of their own desires, and they thanked God together that their loss had been the widow's gain."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"But God willed otherwise, as will be learned from the recital of God's dealings with me on an occasion of a journey alone in a carriage from Troy to Schenectady."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I, Darrell Standing, cannot refrain from breaking in on this recital of an earlier existence in order to note a conclusion of my own."*

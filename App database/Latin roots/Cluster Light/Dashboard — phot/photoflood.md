@@ -5,13 +5,6 @@ status: unread
 ---
 # photoflood
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Light that is a source of artificial illumination having a broad beam; used in photography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Light that is a source of artificial illumination having a broad beam; used in photography.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoflood designates light that is a source of artificial illumination having a broad beam; used in photography."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Light that is a source of artificial illumination having a broad beam; used in photography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Light that is a source of artificial illumination having a broad beam; used in photography.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoflood designates light that is a source of artificial illumination having a broad beam; used in photography."*

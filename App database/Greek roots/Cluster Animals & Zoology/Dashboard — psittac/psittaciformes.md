@@ -5,13 +5,6 @@ status: unread
 ---
 # psittaciformes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of birds including parrots and amazons and cockatoos and lorikeets and lories and macaws and parakeets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of birds including parrots and amazons and cockatoos and lorikeets and lories and macaws and parakeets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psittaciformes designates an order of birds including parrots and amazons and cockatoos and lorikeets and lories and macaws and parakeets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of birds including parrots and amazons and cockatoos and lorikeets and lories and macaws and parakeets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of birds including parrots and amazons and cockatoos and lorikeets and lories and macaws and parakeets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psittaciformes designates an order of birds including parrots and amazons and cockatoos and lorikeets and lories and macaws and parakeets."*

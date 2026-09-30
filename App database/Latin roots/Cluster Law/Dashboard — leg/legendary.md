@@ -5,15 +5,6 @@ status: unread
 ---
 # legendary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So celebrated as to having taken on the nature of a legend.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Celebrated in fable or legend.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Scores of persons have deliriously found themselves made parties in Jarndyce and Jarndyce without knowing how or why; whole families have inherited legendary hatreds with the suit."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Atlantis! the Atlantis of Plato, that continent denied by Origen and Humbolt, who placed its disappearance amongst the legendary tales."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Forbes_ All volcanic phenomena are associated in Hawaiian legendary lore with the goddess Pele; and it is a somewhat curious fact that to the same celebrated personage is also attributed a great flood that occurred in ancient times."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: So celebrated as to having taken on the nature of a legend.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Celebrated in fable or legend.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Scores of persons have deliriously found themselves made parties in Jarndyce and Jarndyce without knowing how or why; whole families have inherited legendary hatreds with the suit."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Atlantis! the Atlantis of Plato, that continent denied by Origen and Humbolt, who placed its disappearance amongst the legendary tales."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Forbes_ All volcanic phenomena are associated in Hawaiian legendary lore with the goddess Pele; and it is a somewhat curious fact that to the same celebrated personage is also attributed a great flood that occurred in ancient times."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # cremains
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The remains of a dead body after cremation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The remains of a dead body after cremation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cremains designates the remains of a dead body after cremation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The remains of a dead body after cremation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The remains of a dead body after cremation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cremains designates the remains of a dead body after cremation."*

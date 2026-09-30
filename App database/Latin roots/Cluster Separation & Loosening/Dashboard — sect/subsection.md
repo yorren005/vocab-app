@@ -5,13 +5,6 @@ status: unread
 ---
 # subsection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A section of a section; a part of a part; i.e., a part of something already divided.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A section of a section; a part of a part; i.e., a part of something already divided.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subsection designates a section of a section; a part of a part; i.e., a part of something already divided."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A section of a section; a part of a part; i.e., a part of something already divided.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A section of a section; a part of a part; i.e., a part of something already divided.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subsection designates a section of a section; a part of a part; i.e., a part of something already divided."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # photosynthesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Synthesis of chemical compounds with the aid of radiant energy and especially light; especially : formation of carbohydrates from carbon dioxide and a source of hydrogen (such as water) in the chlorophyll-containing cells (as of green plants) exposed to light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Synthesis of chemical compounds with the aid of radiant energy and especially light; especially : formation of carbohydrates from carbon dioxide and a source of hydrogen (such as water) in the chlorophyll-containing cells (as of green plants) exposed to light.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photosynthesis designates synthesis of chemical compounds with the aid of radiant energy and especially light; especially : formation of carbohydrates from carbon dioxide and a source of hydrogen (such as water) in the chlorophyll-containing cells (as of green plants) exposed to light."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Synthesis of chemical compounds with the aid of radiant energy and especially light; especially : formation of carbohydrates from carbon dioxide and a source of hydrogen (such as water) in the chlorophyll-containing cells (as of green plants) exposed to light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Synthesis of chemical compounds with the aid of radiant energy and especially light; especially : formation of carbohydrates from carbon dioxide and a source of hydrogen (such as water) in the chlorophyll-containing cells (as of green plants) exposed to light.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photosynthesis designates synthesis of chemical compounds with the aid of radiant energy and especially light; especially : formation of carbohydrates from carbon dioxide and a source of hydrogen (such as water) in the chlorophyll-containing cells (as of green plants) exposed to light."*

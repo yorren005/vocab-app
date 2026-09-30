@@ -5,15 +5,6 @@ status: unread
 ---
 # aristocrat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an aristocracy; especially : noble.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who has the bearing and viewpoint typical of the aristocracy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"She was an aristocrat in social caste; she was an aristocrat by nature."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Complete absence of self-consciousness, perfect disinterestedness, are evident in every tone; it is clear that he is an aristocrat, but it is also clear that he is a saint."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He struck a match, and I perceived that this young aristocrat had not only a silver-mounted dressing-case but also a whole candle all to himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an aristocracy; especially : noble.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who has the bearing and viewpoint typical of the aristocracy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"She was an aristocrat in social caste; she was an aristocrat by nature."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Complete absence of self-consciousness, perfect disinterestedness, are evident in every tone; it is clear that he is an aristocrat, but it is also clear that he is a saint."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He struck a match, and I perceived that this young aristocrat had not only a silver-mounted dressing-case but also a whole candle all to himself."*

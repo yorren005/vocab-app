@@ -5,13 +5,6 @@ status: unread
 ---
 # crematory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mortuary where corpses are cremated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A furnace where a corpse can be burned and reduced to ashes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crematory designates a mortuary where corpses are cremated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mortuary where corpses are cremated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A furnace where a corpse can be burned and reduced to ashes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crematory designates a mortuary where corpses are cremated."*

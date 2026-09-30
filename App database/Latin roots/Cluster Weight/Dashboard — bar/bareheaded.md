@@ -5,15 +5,6 @@ status: unread
 ---
 # bareheaded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the head uncovered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the head uncovered.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the Duke, attended; Egeon, bareheaded; with the Headsman and other Officers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bareheaded plodded by my foot-cloth mule, And thought thee happy when I shook my head?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Welcome, Bolingbroke!” Whilst he, from the one side to the other turning, Bareheaded, lower than his proud steed’s neck, Bespake them thus, “I thank you, countrymen.” And thus still doing, thus he passed along."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the head uncovered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the head uncovered.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the Duke, attended; Egeon, bareheaded; with the Headsman and other Officers."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bareheaded plodded by my foot-cloth mule, And thought thee happy when I shook my head?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Welcome, Bolingbroke!” Whilst he, from the one side to the other turning, Bareheaded, lower than his proud steed’s neck, Bespake them thus, “I thank you, countrymen.” And thus still doing, thus he passed along."*

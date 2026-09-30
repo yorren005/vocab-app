@@ -5,15 +5,6 @@ status: unread
 ---
 # marital
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the state of marriage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the state of marriage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Having once embarked on your marital voyage, it is impossible not to be aware that you make no way and that the sea is not within sight—that, in fact, you are exploring an enclosed basin."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Though always polite, it was his habit to receive such services with marital coolness, as his wife’s duty."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"But this re-established marital happiness was to be of brief duration, for in 1779 her second husband died, and the mother was now left with four little children to care and provide for."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the state of marriage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the state of marriage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Having once embarked on your marital voyage, it is impossible not to be aware that you make no way and that the sea is not within sight—that, in fact, you are exploring an enclosed basin."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Though always polite, it was his habit to receive such services with marital coolness, as his wife’s duty."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"But this re-established marital happiness was to be of brief duration, for in 1779 her second husband died, and the mother was now left with four little children to care and provide for."*

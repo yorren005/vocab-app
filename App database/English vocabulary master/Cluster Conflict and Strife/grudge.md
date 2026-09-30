@@ -5,20 +5,6 @@ status: unread
 ---
 # grudge
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Feeling of deep-seated resentment or ill will
-> 2. **Nuance / Usage**: Be unwilling to give or allow (someone something)
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to grudge the target*) and intransitive clauses (*grudging against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I will feed fat the ancient grudge I bear him."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Or frugal Nature grudge thee one?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"You bear me a grudge, Josh, that I know."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A persistent feeling of ill will, bitterness, or resentment harbored against someone over a past insult or injury.
+> 2. **Nuance / Usage**: As a transitive verb, to be reluctant to give, grant, or allow something, or to feel envious resentment at another's good fortune.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count) & Transitive Verb.
+> - **Syntactic Constructions**: Operates nominally (*bear a grudge*, *nurse an ancient grudge*) and transitively with double objects (*grudge him his success*).
+> - **Collocations & Registers**: Psychological, moral, and narrative registers; collocated with *bear*, *harbor*, *ancient*, *settle*, and *malice*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"If I can catch him once upon the hip, I will feed fat the ancient **grudge** I bear him."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Did pitying Heaven withhold the boon, or frugal Nature **grudge** thee one?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"You bear me a **grudge**, Josh, that I know."*

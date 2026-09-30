@@ -5,13 +5,6 @@ status: unread
 ---
 # prosom
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A frequently prescribed sleeping pill (trade name prosom).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A frequently prescribed sleeping pill (trade name prosom).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosom designates a frequently prescribed sleeping pill (trade name prosom)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A frequently prescribed sleeping pill (trade name prosom).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A frequently prescribed sleeping pill (trade name prosom).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosom designates a frequently prescribed sleeping pill (trade name prosom)."*

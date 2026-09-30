@@ -5,15 +5,6 @@ status: unread
 ---
 # deceased
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is no longer alive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pass from physical life and lose all bodily attributes and functions necessary to sustain life.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is a history in all men’s lives Figuring the natures of the times deceased; The which observed, a man may prophesy, With a near aim, of the main chance of things As yet not come to life, who in their seeds And weak beginning lie intreasured."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But yet, before we go, let’s not forget The noble Duke of Bedford late deceased, But see his exequies fulfill’d in Rouen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"QUEEN MARGARET. [_Aside_.] My hope is gone, now Suffolk is deceased."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is no longer alive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pass from physical life and lose all bodily attributes and functions necessary to sustain life.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is a history in all men’s lives Figuring the natures of the times deceased; The which observed, a man may prophesy, With a near aim, of the main chance of things As yet not come to life, who in their seeds And weak beginning lie intreasured."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But yet, before we go, let’s not forget The noble Duke of Bedford late deceased, But see his exequies fulfill’d in Rouen."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"QUEEN MARGARET. [_Aside_.] My hope is gone, now Suffolk is deceased."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # conjunct
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Progressing melodically by intervals of a second.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bound in close association.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am doubtful that you have been conjunct And bosom’d with her, as far as we call hers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Progressing melodically by intervals of a second.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bound in close association.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am doubtful that you have been conjunct And bosom’d with her, as far as we call hers."*

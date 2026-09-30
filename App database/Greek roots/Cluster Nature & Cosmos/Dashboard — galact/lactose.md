@@ -5,13 +5,6 @@ status: unread
 ---
 # lactose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disaccharide sugar C12H22O11 that is present in milk and yields glucose and galactose upon hydrolysis and yields especially lactic acid upon fermentation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unable to digest lactose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactose designates a disaccharide sugar c12h22o11 that is present in milk and yields glucose and galactose upon hydrolysis and yields especially lactic acid upon fermentation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disaccharide sugar C12H22O11 that is present in milk and yields glucose and galactose upon hydrolysis and yields especially lactic acid upon fermentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unable to digest lactose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactose designates a disaccharide sugar c12h22o11 that is present in milk and yields glucose and galactose upon hydrolysis and yields especially lactic acid upon fermentation."*

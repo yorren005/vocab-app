@@ -5,15 +5,6 @@ status: unread
 ---
 # persecutor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who torments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who torments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A persecutor I am sure thou art."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A PERSECUTOR PUNISHED BY THE LORD."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"And now the awful persecutor is converted. 5."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who torments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who torments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A persecutor I am sure thou art."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A PERSECUTOR PUNISHED BY THE LORD."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"And now the awful persecutor is converted. 5."*

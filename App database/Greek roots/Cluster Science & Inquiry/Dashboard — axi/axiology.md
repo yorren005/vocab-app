@@ -5,13 +5,6 @@ status: unread
 ---
 # axiology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the nature, types, and criteria of values and of value judgments especially in ethics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the nature, types, and criteria of values and of value judgments especially in ethics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axiology designates the study of the nature, types, and criteria of values and of value judgments especially in ethics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the nature, types, and criteria of values and of value judgments especially in ethics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the nature, types, and criteria of values and of value judgments especially in ethics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axiology designates the study of the nature, types, and criteria of values and of value judgments especially in ethics."*

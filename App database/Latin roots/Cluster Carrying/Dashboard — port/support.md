@@ -5,15 +5,6 @@ status: unread
 ---
 # support
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of providing for or maintaining by supplying with money or necessities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aiding the cause or policy or interests of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Support him by the arm. [_To Orlando_.] Give me your hand, And let me all your fortunes understand. [_Exeunt._] ACT III SCENE I."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suffer us to famish, and their storehouses crammed with grain; make edicts for usury to support usurers; repeal daily any wholesome act established against the rich, and provide more piercing statutes daily to chain up and restrain the poor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet are these feet, whose strengthless stay is numb, Unable to support this lump of clay, Swift-winged with desire to get a grave, As witting I no other comfort have."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of providing for or maintaining by supplying with money or necessities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aiding the cause or policy or interests of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Support him by the arm. [_To Orlando_.] Give me your hand, And let me all your fortunes understand. [_Exeunt._] ACT III SCENE I."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suffer us to famish, and their storehouses crammed with grain; make edicts for usury to support usurers; repeal daily any wholesome act established against the rich, and provide more piercing statutes daily to chain up and restrain the poor."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet are these feet, whose strengthless stay is numb, Unable to support this lump of clay, Swift-winged with desire to get a grave, As witting I no other comfort have."*

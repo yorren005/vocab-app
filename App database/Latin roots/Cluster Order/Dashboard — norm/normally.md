@@ -5,15 +5,6 @@ status: unread
 ---
 # normally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Under normal conditions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under normal conditions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some have thought this cycle to be normally a period of ten years, divided into one year of crisis, three years of depression, three years of recovery, and three years of unusual prosperity."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Foreign trade normally imparts increased efficiency to the productive forces of each country."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Normally, you would have started orientation and psy-phys testing immediately."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Under normal conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under normal conditions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some have thought this cycle to be normally a period of ten years, divided into one year of crisis, three years of depression, three years of recovery, and three years of unusual prosperity."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Foreign trade normally imparts increased efficiency to the productive forces of each country."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Normally, you would have started orientation and psy-phys testing immediately."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # psychoanalysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of analyzing psychic phenomena and treating emotional disorders that involves treatment sessions during which the patient is encouraged to talk freely about personal experiences and especially about early childhood and dreams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of analyzing psychic phenomena and treating emotional disorders that involves treatment sessions during which the patient is encouraged to talk freely about personal experiences and especially about early childhood and dreams.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychoanalysis designates a method of analyzing psychic phenomena and treating emotional disorders that involves treatment sessions during which the patient is encouraged to talk freely about personal experiences and especially about early childhood and dreams."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of analyzing psychic phenomena and treating emotional disorders that involves treatment sessions during which the patient is encouraged to talk freely about personal experiences and especially about early childhood and dreams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of analyzing psychic phenomena and treating emotional disorders that involves treatment sessions during which the patient is encouraged to talk freely about personal experiences and especially about early childhood and dreams.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychoanalysis designates a method of analyzing psychic phenomena and treating emotional disorders that involves treatment sessions during which the patient is encouraged to talk freely about personal experiences and especially about early childhood and dreams."*

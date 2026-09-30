@@ -5,15 +5,6 @@ status: unread
 ---
 # popish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or supporting romanism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or supporting romanism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"This was some portion of a Romish book—some infamous Popish publication."*
-> - 📜 **Classic Author (*Joe Miller's Jests, or The Wits Vade-Mecum*):** *"The Deputies of _Rochel_, attending to speak with _Henry_ the Fourth of _France_, met with a Physician who had renounced the Protestant Religion, and embrac'd the Popish Communion, whom they began to revile most grievously."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The deputies of Rochelle attending to speak with Henry the Fourth of France, met with a physician who had renounced the Protestant religion, and embraced the Popish communion, whom they began to revile most grievously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or supporting romanism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or supporting romanism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"This was some portion of a Romish book—some infamous Popish publication."*
+> - 📜 **Classic Author (*Joe Miller's Jests, or The Wits Vade-Mecum*):** *"The Deputies of _Rochel_, attending to speak with _Henry_ the Fourth of _France_, met with a Physician who had renounced the Protestant Religion, and embrac'd the Popish Communion, whom they began to revile most grievously."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The deputies of Rochelle attending to speak with Henry the Fourth of France, met with a physician who had renounced the Protestant religion, and embraced the Popish communion, whom they began to revile most grievously."*

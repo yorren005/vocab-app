@@ -5,13 +5,6 @@ status: unread
 ---
 # sepsis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A potentially life-threatening, systemic response of the immune system that results from the spread of pathogenic agents (such as bacteria or viruses) and their toxins to the bloodstream from a localized infection (as of the lungs), that involves both inflammatory and immunosuppressive activity, that is marked especially by fever, chills, rapid heart rate and breathing, fatigue, confusion, increased blood coagulation, hypotension, impaired microcirculation, and organ dysfunction, and that may progress to septic shock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal condition that results from infection of the placental site following delivery or abortion and is characterized in mild form by fever but in serious cases the infection may spread through the uterine wall or pass into the bloodstream —called also childbed fever, puerperal sepsis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sepsis designates a potentially life-threatening, systemic response of the immune system that results from the spread of pathogenic agents (such as bacteria or viruses) and their toxins to the bloodstream from a localized infection (as of the lungs), that involves both inflammatory and immunosuppressive activity, that is marked especially by fever, chills, rapid heart rate and breathing, fatigue, confusion, increased blood coagulation, hypotension, impaired microcirculation, and organ dysfunction, and that may progress to septic shock."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A potentially life-threatening, systemic response of the immune system that results from the spread of pathogenic agents (such as bacteria or viruses) and their toxins to the bloodstream from a localized infection (as of the lungs), that involves both inflammatory and immunosuppressive activity, that is marked especially by fever, chills, rapid heart rate and breathing, fatigue, confusion, increased blood coagulation, hypotension, impaired microcirculation, and organ dysfunction, and that may progress to septic shock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal condition that results from infection of the placental site following delivery or abortion and is characterized in mild form by fever but in serious cases the infection may spread through the uterine wall or pass into the bloodstream —called also childbed fever, puerperal sepsis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sepsis designates a potentially life-threatening, systemic response of the immune system that results from the spread of pathogenic agents (such as bacteria or viruses) and their toxins to the bloodstream from a localized infection (as of the lungs), that involves both inflammatory and immunosuppressive activity, that is marked especially by fever, chills, rapid heart rate and breathing, fatigue, confusion, increased blood coagulation, hypotension, impaired microcirculation, and organ dysfunction, and that may progress to septic shock."*

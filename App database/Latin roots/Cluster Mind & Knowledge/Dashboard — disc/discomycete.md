@@ -5,13 +5,6 @@ status: unread
 ---
 # discomycete
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fungus that is a member of the subclass discomycetes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any fungus that is a member of the subclass discomycetes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discomycete designates any fungus that is a member of the subclass discomycetes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fungus that is a member of the subclass discomycetes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any fungus that is a member of the subclass discomycetes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discomycete designates any fungus that is a member of the subclass discomycetes."*

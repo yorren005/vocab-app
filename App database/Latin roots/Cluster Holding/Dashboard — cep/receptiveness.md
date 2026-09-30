@@ -5,13 +5,6 @@ status: unread
 ---
 # receptiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Willingness or readiness to receive (especially impressions or ideas).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willingness or readiness to receive (especially impressions or ideas).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Jesus loved little children because of their freedom from wrong and their receptiveness of right."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Willingness or readiness to receive (especially impressions or ideas).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willingness or readiness to receive (especially impressions or ideas).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Jesus loved little children because of their freedom from wrong and their receptiveness of right."*

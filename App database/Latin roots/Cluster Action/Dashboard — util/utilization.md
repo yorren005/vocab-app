@@ -5,15 +5,6 @@ status: unread
 ---
 # utilization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of using.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of having been made use of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A similar variation may be noted in the utilization of marginal land, marginal factories, marginal forges, and marginal agents of every kind.[5] § 8. #The general level of prices#."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"ARTICLE SIX We commit our Governments to accept financial, fiduciary, material and technological assessments for our utilization of the common space-ways."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Getting more use out of the book by effort, out of the farm by applying more fertilizer, out of the house by putting more people into it, is intensive utilization."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of using.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of having been made use of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A similar variation may be noted in the utilization of marginal land, marginal factories, marginal forges, and marginal agents of every kind.[5] § 8. #The general level of prices#."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"ARTICLE SIX We commit our Governments to accept financial, fiduciary, material and technological assessments for our utilization of the common space-ways."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Getting more use out of the book by effort, out of the farm by applying more fertilizer, out of the house by putting more people into it, is intensive utilization."*

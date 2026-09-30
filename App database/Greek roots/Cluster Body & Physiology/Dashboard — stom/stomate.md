@@ -5,13 +5,6 @@ status: unread
 ---
 # stomate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute epidermal pore in a leaf or stem through which gases and water vapor can pass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A minute epidermal pore in a leaf or stem through which gases and water vapor can pass.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stomate designates a minute epidermal pore in a leaf or stem through which gases and water vapor can pass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute epidermal pore in a leaf or stem through which gases and water vapor can pass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A minute epidermal pore in a leaf or stem through which gases and water vapor can pass.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stomate designates a minute epidermal pore in a leaf or stem through which gases and water vapor can pass."*

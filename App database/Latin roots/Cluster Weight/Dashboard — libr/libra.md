@@ -5,15 +5,6 @@ status: unread
 ---
 # libra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astrology) a person who is born while the sun is in libra.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small faint zodiacal constellation in the southern hemisphere; between virgo and scorpius.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Auld cantie Coil may count the day, As annual it returns, The third of Libra’s equal sway, That gave another Burns, With future rhymes, an’ other times, To emulate his sire: To sing auld Coil in nobler style With more poetic fire."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"Let the same likewise be made, Libra ascending, Venus being received from Mercury in Gemini in the ninth house, and write upon it the name of the angel of Venus (which is Annael)."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"Again you make the same image, Aquarius ascending, Saturn fortunately possessing the ninth in his exaltation, which is Libra, and let there be written upon it the name of the angel of Saturn, (which is Cassi-al)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (astrology) a person who is born while the sun is in libra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small faint zodiacal constellation in the southern hemisphere; between virgo and scorpius.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Auld cantie Coil may count the day, As annual it returns, The third of Libra’s equal sway, That gave another Burns, With future rhymes, an’ other times, To emulate his sire: To sing auld Coil in nobler style With more poetic fire."*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"Let the same likewise be made, Libra ascending, Venus being received from Mercury in Gemini in the ninth house, and write upon it the name of the angel of Venus (which is Annael)."*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"Again you make the same image, Aquarius ascending, Saturn fortunately possessing the ninth in his exaltation, which is Libra, and let there be written upon it the name of the angel of Saturn, (which is Cassi-al)."*

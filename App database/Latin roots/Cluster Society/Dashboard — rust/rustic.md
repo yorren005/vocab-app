@@ -5,15 +5,6 @@ status: unread
 ---
 # rustic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unsophisticated country person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of rural life.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Meantime, forget this new-fall’n dignity, And fall into our rustic revelry."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yield, rustic mountaineer. [_Exeunt, fighting._] Enter Belarius and Arviragus."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is only that!” he said, speaking in a homely, rustic way and with great vehemence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unsophisticated country person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of rural life.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Meantime, forget this new-fall’n dignity, And fall into our rustic revelry."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yield, rustic mountaineer. [_Exeunt, fighting._] Enter Belarius and Arviragus."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is only that!” he said, speaking in a homely, rustic way and with great vehemence."*

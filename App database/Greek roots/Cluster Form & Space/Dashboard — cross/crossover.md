@@ -5,13 +5,6 @@ status: unread
 ---
 # crossover
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The interchange of sections between pairing homologous chromosomes during the prophase of meiosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A voter who is registered as a member of one political party but who votes in the primary of another party.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crossover designates the interchange of sections between pairing homologous chromosomes during the prophase of meiosis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The interchange of sections between pairing homologous chromosomes during the prophase of meiosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A voter who is registered as a member of one political party but who votes in the primary of another party.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crossover designates the interchange of sections between pairing homologous chromosomes during the prophase of meiosis."*

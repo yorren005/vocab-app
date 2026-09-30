@@ -5,15 +5,6 @@ status: unread
 ---
 # uninspiring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Depressing to the spirit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Depressing to the spirit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I love the making of interiors, and if Pastimes must be fitted beautifully to do justice to itself, still more would it be needful to turn the uninspiring "flat" into a haven of comfort and cheer."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Stoic Spermaticos Logos was a cold and uninspiring dogma compared with "Abba Father" and the Spirit of Jesus--it was not the same thing at all."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"His was probably the most uninspiring funeral that is set down in history."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Depressing to the spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Depressing to the spirit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I love the making of interiors, and if Pastimes must be fitted beautifully to do justice to itself, still more would it be needful to turn the uninspiring "flat" into a haven of comfort and cheer."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Stoic Spermaticos Logos was a cold and uninspiring dogma compared with "Abba Father" and the Spirit of Jesus--it was not the same thing at all."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"His was probably the most uninspiring funeral that is set down in history."*

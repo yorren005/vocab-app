@@ -5,13 +5,6 @@ status: unread
 ---
 # thigmotaxis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxis in which contact especially with a solid body is the directive factor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxis in which contact especially with a solid body is the directive factor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thigmotaxis designates a taxis in which contact especially with a solid body is the directive factor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxis in which contact especially with a solid body is the directive factor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxis in which contact especially with a solid body is the directive factor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thigmotaxis designates a taxis in which contact especially with a solid body is the directive factor."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # dignity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being worthy of esteem or respect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formality in bearing and appearance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The great dignity that his valour hath here acquir’d for him shall at home be encountered with a shame as ample."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Meantime, forget this new-fall’n dignity, And fall into our rustic revelry."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hapless Egeon, whom the fates have mark’d To bear the extremity of dire mishap; Now, trust me, were it not against our laws, Against my crown, my oath, my dignity, Which princes, would they, may not disannul, My soul should sue as advocate for thee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being worthy of esteem or respect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formality in bearing and appearance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The great dignity that his valour hath here acquir’d for him shall at home be encountered with a shame as ample."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Meantime, forget this new-fall’n dignity, And fall into our rustic revelry."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hapless Egeon, whom the fates have mark’d To bear the extremity of dire mishap; Now, trust me, were it not against our laws, Against my crown, my oath, my dignity, Which princes, would they, may not disannul, My soul should sue as advocate for thee."*

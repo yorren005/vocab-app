@@ -5,13 +5,6 @@ status: unread
 ---
 # galactosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The secretion of milk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The secretion of milk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, galactosis designates the secretion of milk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The secretion of milk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The secretion of milk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, galactosis designates the secretion of milk."*

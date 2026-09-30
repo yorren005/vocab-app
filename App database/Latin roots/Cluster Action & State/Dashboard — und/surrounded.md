@@ -5,15 +5,6 @@ status: unread
 ---
 # surrounded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extend on all sides of simultaneously; encircle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Envelop completely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Both ladies were kneeling before a large trunk, surrounded by heaps of clothes, shoes, books and boxes, and a hundred trifles besides."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Uncle Philip was immediately surrounded, and eight arms held him so tight that there was no use in struggling."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"With lively gestures they surrounded him like an old acquaintance, so that Salo quickly felt that he had come among good friends."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extend on all sides of simultaneously; encircle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Envelop completely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Both ladies were kneeling before a large trunk, surrounded by heaps of clothes, shoes, books and boxes, and a hundred trifles besides."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Uncle Philip was immediately surrounded, and eight arms held him so tight that there was no use in struggling."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"With lively gestures they surrounded him like an old acquaintance, so that Salo quickly felt that he had come among good friends."*

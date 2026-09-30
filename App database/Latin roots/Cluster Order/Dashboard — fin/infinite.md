@@ -5,15 +5,6 @@ status: unread
 ---
 # infinite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The unlimited expanse in which everything is located.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no limits or boundaries in time or space or extent or magnitude.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou this to hazard needs must intimate Skill infinite, or monstrous desperate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In nature’s infinite book of secrecy A little I can read."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Age cannot wither her, nor custom stale Her infinite variety."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The unlimited expanse in which everything is located.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no limits or boundaries in time or space or extent or magnitude.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou this to hazard needs must intimate Skill infinite, or monstrous desperate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In nature’s infinite book of secrecy A little I can read."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Age cannot wither her, nor custom stale Her infinite variety."*

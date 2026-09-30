@@ -5,15 +5,6 @@ status: unread
 ---
 # rudiment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The elementary stages of any subject (usually plural).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The remains of a body part that was functional at an earlier stage of life.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"And each can either cause to die, or fan To brighter life, the seed or rudiment Of good or evil moral tendency Acquired, or inbred by heredity."*
-> - 📜 **Bram Stoker (*Dracula*):** *"This gave me an idea, or the rudiment of one."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, my good lord, this boy is forest-born And hath been tutored in the rudiments Of many desperate studies by his uncle, Whom he reports to be a great magician, Obscured in the circle of this forest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The elementary stages of any subject (usually plural).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The remains of a body part that was functional at an earlier stage of life.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"And each can either cause to die, or fan To brighter life, the seed or rudiment Of good or evil moral tendency Acquired, or inbred by heredity."*
+> - 📜 **Bram Stoker (*Dracula*):** *"This gave me an idea, or the rudiment of one."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, my good lord, this boy is forest-born And hath been tutored in the rudiments Of many desperate studies by his uncle, Whom he reports to be a great magician, Obscured in the circle of this forest."*

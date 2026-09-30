@@ -5,13 +5,6 @@ status: unread
 ---
 # asterism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (mineralogy) a star-shaped figure with six rays that is seen in some crystal structures under reflected or transmitted light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astronomy) a cluster of stars (or a small constellation).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asterism designates (mineralogy) a star-shaped figure with six rays that is seen in some crystal structures under reflected or transmitted light."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (mineralogy) a star-shaped figure with six rays that is seen in some crystal structures under reflected or transmitted light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astronomy) a cluster of stars (or a small constellation).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asterism designates (mineralogy) a star-shaped figure with six rays that is seen in some crystal structures under reflected or transmitted light."*

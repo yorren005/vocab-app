@@ -5,13 +5,6 @@ status: unread
 ---
 # pleuropneumonia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Combined inflammation of the pleura and lungs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute febrile and often fatal respiratory disorder of cattle, goats, sheep, and related animals caused by a mycoplasma (Mycoplasma mycoides).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleuropneumonia designates combined inflammation of the pleura and lungs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Combined inflammation of the pleura and lungs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute febrile and often fatal respiratory disorder of cattle, goats, sheep, and related animals caused by a mycoplasma (Mycoplasma mycoides).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleuropneumonia designates combined inflammation of the pleura and lungs."*

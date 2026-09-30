@@ -5,15 +5,6 @@ status: unread
 ---
 # returning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Go or come back to place, condition, or activity where one has been before.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give back.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When we banished him, we respected not them; and he returning to break our necks, they respect not us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The games are done, and Caesar is returning."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For mine own good, All causes shall give way: I am in blood Stepp’d in so far that, should I wade no more, Returning were as tedious as go o’er."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Go or come back to place, condition, or activity where one has been before.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give back.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When we banished him, we respected not them; and he returning to break our necks, they respect not us."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The games are done, and Caesar is returning."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For mine own good, All causes shall give way: I am in blood Stepp’d in so far that, should I wade no more, Returning were as tedious as go o’er."*

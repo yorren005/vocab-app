@@ -5,15 +5,6 @@ status: unread
 ---
 # cap
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tight-fitting headdress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A top (as for a bottle).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virginity, like an old courtier, wears her cap out of fashion, richly suited, but unsuitable, just like the brooch and the toothpick, which wear not now."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be more expressive to them; for they wear themselves in the cap of the time; there do muster true gait; eat, speak, and move, under the influence of the most receiv’d star; and though the devil lead the measure, such are to be followed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have ever held my cap off to thy fortunes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tight-fitting headdress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A top (as for a bottle).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virginity, like an old courtier, wears her cap out of fashion, richly suited, but unsuitable, just like the brooch and the toothpick, which wear not now."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be more expressive to them; for they wear themselves in the cap of the time; there do muster true gait; eat, speak, and move, under the influence of the most receiv’d star; and though the devil lead the measure, such are to be followed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have ever held my cap off to thy fortunes."*

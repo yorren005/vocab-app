@@ -5,13 +5,6 @@ status: unread
 ---
 # cathect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inject with libidinal energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inject with libidinal energy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cathect designates inject with libidinal energy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inject with libidinal energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inject with libidinal energy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cathect designates inject with libidinal energy."*

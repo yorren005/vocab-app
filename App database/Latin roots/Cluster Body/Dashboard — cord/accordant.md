@@ -5,15 +5,6 @@ status: unread
 ---
 # accordant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being in agreement or harmony; often followed by `with'; -thomas hardy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In keeping.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Both gentlemen had a glance at Fanny, to see if a word of accordant praise could be extorted from her; yet both feeling that it could not be."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"And now they rise in triumphant acclamation, heaving higher and higher their accordant notes and piling sound on sound."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"The Buddha himself is in the Great-Vehicle (Mahayana) And accordant with the Truth he has attained, Enriched by meditation and wisdom, By it he saves all creatures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being in agreement or harmony; often followed by `with'; -thomas hardy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In keeping.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Both gentlemen had a glance at Fanny, to see if a word of accordant praise could be extorted from her; yet both feeling that it could not be."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"And now they rise in triumphant acclamation, heaving higher and higher their accordant notes and piling sound on sound."*
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"The Buddha himself is in the Great-Vehicle (Mahayana) And accordant with the Truth he has attained, Enriched by meditation and wisdom, By it he saves all creatures."*

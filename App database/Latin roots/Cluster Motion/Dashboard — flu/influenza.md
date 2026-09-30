@@ -5,15 +5,6 @@ status: unread
 ---
 # influenza
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute febrile highly contagious viral disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute febrile highly contagious viral disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Verney's junior partner, who attended me for influenza while Dr."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"While I have been in town, poor Merrivale has had an attack of influenza, which has been pretty serious, and has left him rather alarmingly weak."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"He said when he passed the store that there's a regular outbreak of influenza down below the State Line Road." "I hope and pray it don't spread up here!" Mama pulled her cape closer around her shoulders."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute febrile highly contagious viral disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute febrile highly contagious viral disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Verney's junior partner, who attended me for influenza while Dr."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"While I have been in town, poor Merrivale has had an attack of influenza, which has been pretty serious, and has left him rather alarmingly weak."*
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"He said when he passed the store that there's a regular outbreak of influenza down below the State Line Road." "I hope and pray it don't spread up here!" Mama pulled her cape closer around her shoulders."*

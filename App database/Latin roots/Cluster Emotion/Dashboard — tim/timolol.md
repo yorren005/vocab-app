@@ -5,13 +5,6 @@ status: unread
 ---
 # timolol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A beta blocker (trade name blocadren) administered after heart attacks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A beta blocker (trade name blocadren) administered after heart attacks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, timolol designates a beta blocker (trade name blocadren) administered after heart attacks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A beta blocker (trade name blocadren) administered after heart attacks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A beta blocker (trade name blocadren) administered after heart attacks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, timolol designates a beta blocker (trade name blocadren) administered after heart attacks."*

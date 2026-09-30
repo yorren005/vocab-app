@@ -5,13 +5,6 @@ status: unread
 ---
 # disreputably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disreputable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disreputable manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"No one was what could be called, in good society, disreputably drunk, unless it was the seedy gentleman whom I met by appointment; and even he was able to handle himself tolerably well."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disreputable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disreputable manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"No one was what could be called, in good society, disreputably drunk, unless it was the seedy gentleman whom I met by appointment; and even he was able to handle himself tolerably well."*

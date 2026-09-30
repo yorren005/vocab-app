@@ -5,13 +5,6 @@ status: unread
 ---
 # eurhythmics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eurhythmics designates the interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eurhythmics designates the interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding."*

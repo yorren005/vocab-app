@@ -5,15 +5,6 @@ status: unread
 ---
 # terrifying
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with terror; frighten greatly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing extreme terror.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As not one of them wanted to admit the hasty retreat before the ghost had even been properly inspected, they only dropped vague and terrifying words about the matter."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby’s sleep and terrifying him with unaccountable questions, so that often when the cock at the little dairy in Cursitor Street breaks out in his usual absurd way about the morning, Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But the very shiftlessness of the household rendered the misfortune a less terrifying one to them than it would have been to a thriving family, though in the present case it meant ruin, and in the other it would only have meant inconvenience."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with terror; frighten greatly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing extreme terror.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As not one of them wanted to admit the hasty retreat before the ghost had even been properly inspected, they only dropped vague and terrifying words about the matter."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby’s sleep and terrifying him with unaccountable questions, so that often when the cock at the little dairy in Cursitor Street breaks out in his usual absurd way about the morning, Mr."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But the very shiftlessness of the household rendered the misfortune a less terrifying one to them than it would have been to a thriving family, though in the present case it meant ruin, and in the other it would only have meant inconvenience."*

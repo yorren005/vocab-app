@@ -5,13 +5,6 @@ status: unread
 ---
 # parietales
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large order of dicotyledonous plants of subclass dilleniidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large order of dicotyledonous plants of subclass dilleniidae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parietales designates a large order of dicotyledonous plants of subclass dilleniidae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large order of dicotyledonous plants of subclass dilleniidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large order of dicotyledonous plants of subclass dilleniidae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parietales designates a large order of dicotyledonous plants of subclass dilleniidae."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # humane
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or concerned with the humanities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked or motivated by concern with the alleviation of suffering.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Noble tribunes, It is the humane way: the other course Will prove too bloody, and the end of it Unknown to the beginning."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I had a thousand sons, the first humane principle I would teach them should be to forswear thin potations and to addict themselves to sack."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In humane gentleness, Welcome to Troy!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or concerned with the humanities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked or motivated by concern with the alleviation of suffering.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Noble tribunes, It is the humane way: the other course Will prove too bloody, and the end of it Unknown to the beginning."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I had a thousand sons, the first humane principle I would teach them should be to forswear thin potations and to addict themselves to sack."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In humane gentleness, Welcome to Troy!"*

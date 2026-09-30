@@ -5,15 +5,6 @@ status: unread
 ---
 # curriculum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An integrated course of academic studies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An integrated course of academic studies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The curriculum of the "Divinity Hall," as it was called, consisted of five of these short sessions."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"As has been already mentioned, the theological curriculum extended over five sessions of two months."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"During his first two years in Edinburgh he was busily engaged in writing lectures and in adapting his existing stock to the requirements of the new curriculum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An integrated course of academic studies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An integrated course of academic studies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"The curriculum of the "Divinity Hall," as it was called, consisted of five of these short sessions."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"As has been already mentioned, the theological curriculum extended over five sessions of two months."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"During his first two years in Edinburgh he was busily engaged in writing lectures and in adapting his existing stock to the requirements of the new curriculum."*

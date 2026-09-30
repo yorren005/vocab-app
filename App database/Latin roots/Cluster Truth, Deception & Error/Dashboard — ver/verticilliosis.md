@@ -5,13 +5,6 @@ status: unread
 ---
 # verticilliosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wilt caused by fungi of the genus verticillium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wilt caused by fungi of the genus verticillium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verticilliosis designates wilt caused by fungi of the genus verticillium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wilt caused by fungi of the genus verticillium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wilt caused by fungi of the genus verticillium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verticilliosis designates wilt caused by fungi of the genus verticillium."*

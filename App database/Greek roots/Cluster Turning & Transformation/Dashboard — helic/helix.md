@@ -5,13 +5,6 @@ status: unread
 ---
 # helix
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something spiral in form: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornamental volute.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Lewis, 1997, Helix Books, Addison-Wesley, Reading, MA. (Foreseeable technologies may reveal huge quantities of raw materials from space.) MONITORING AND CONTROLLING DEBRIS IN SPACE."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something spiral in form: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornamental volute.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Lewis, 1997, Helix Books, Addison-Wesley, Reading, MA. (Foreseeable technologies may reveal huge quantities of raw materials from space.) MONITORING AND CONTROLLING DEBRIS IN SPACE."*

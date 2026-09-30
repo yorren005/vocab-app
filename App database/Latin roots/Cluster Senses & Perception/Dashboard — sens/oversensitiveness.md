@@ -5,13 +5,6 @@ status: unread
 ---
 # oversensitiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sensitivity leading to easy irritation or upset.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sensitivity leading to easy irritation or upset.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oversensitiveness designates sensitivity leading to easy irritation or upset."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sensitivity leading to easy irritation or upset.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sensitivity leading to easy irritation or upset.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oversensitiveness designates sensitivity leading to easy irritation or upset."*

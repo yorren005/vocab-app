@@ -5,13 +5,6 @@ status: unread
 ---
 # sudan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in northeastern africa on the red sea; achieved independence from egypt and the united kingdom in 1956.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region of northern africa to the south of the sahara and libyan deserts; extends from the atlantic to the red sea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sudan designates a republic in northeastern africa on the red sea; achieved independence from egypt and the united kingdom in 1956."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in northeastern africa on the red sea; achieved independence from egypt and the united kingdom in 1956.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region of northern africa to the south of the sahara and libyan deserts; extends from the atlantic to the red sea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sudan designates a republic in northeastern africa on the red sea; achieved independence from egypt and the united kingdom in 1956."*

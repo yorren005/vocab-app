@@ -5,14 +5,6 @@ status: unread
 ---
 # euphemistically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a euphemistic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a euphemistic manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"She was what is euphemistically called a "cook" in Tonking; just another name for an arrangement so often resulting from the lonely life of Europeans among a slack-fibred dependent alien population."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"In August, 1888, just previous to the acquisition of New Guinea as a British possession, they were all driven away, or euphemistically got notice to quit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a euphemistic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a euphemistic manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"She was what is euphemistically called a "cook" in Tonking; just another name for an arrangement so often resulting from the lonely life of Europeans among a slack-fibred dependent alien population."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"In August, 1888, just previous to the acquisition of New Guinea as a British possession, they were all driven away, or euphemistically got notice to quit."*

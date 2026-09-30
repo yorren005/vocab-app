@@ -5,13 +5,6 @@ status: unread
 ---
 # sensate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having physical sensation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having physical sensation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensate designates having physical sensation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having physical sensation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having physical sensation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensate designates having physical sensation."*

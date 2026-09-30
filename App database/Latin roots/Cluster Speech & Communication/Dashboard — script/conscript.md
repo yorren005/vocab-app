@@ -5,15 +5,6 @@ status: unread
 ---
 # conscript
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is drafted into military service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enroll into service compulsorily.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"I'll conscript them as fast as a provost guard can catch them." The general settled back on his elbow again and looked at his visitor as if to inquire what he thought of the situation."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"They were informed that they would now come under the Conscript Act, and that every man of them who was subject to service under that Act would be summarily conscripted unless he chose to re-enlist."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"Even, if they re-enlisted under the provisions of the Conscript Act, how much better would they be than conscripts while bearing the name of volunteers?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is drafted into military service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enroll into service compulsorily.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"I'll conscript them as fast as a provost guard can catch them." The general settled back on his elbow again and looked at his visitor as if to inquire what he thought of the situation."*
+> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"They were informed that they would now come under the Conscript Act, and that every man of them who was subject to service under that Act would be summarily conscripted unless he chose to re-enlist."*
+> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"Even, if they re-enlisted under the provisions of the Conscript Act, how much better would they be than conscripts while bearing the name of volunteers?"*

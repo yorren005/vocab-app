@@ -5,15 +5,6 @@ status: unread
 ---
 # metallic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a metal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Made of or containing a metal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed and a parting salutation to the scornful Judy, strides out of the parlour, clashing imaginary sabres and other metallic appurtenances as he goes."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The moon, as seen through these films, had a lurid metallic look."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She put her hand in his, and thus they went on, to a place where the reflected sun glared up from the river, under a bridge, with a molten-metallic glow that dazzled their eyes, though the sun itself was hidden by the bridge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a metal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Made of or containing a metal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed and a parting salutation to the scornful Judy, strides out of the parlour, clashing imaginary sabres and other metallic appurtenances as he goes."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The moon, as seen through these films, had a lurid metallic look."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She put her hand in his, and thus they went on, to a place where the reflected sun glared up from the river, under a bridge, with a molten-metallic glow that dazzled their eyes, though the sun itself was hidden by the bridge."*

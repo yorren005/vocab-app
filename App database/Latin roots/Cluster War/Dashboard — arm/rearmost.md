@@ -5,13 +5,6 @@ status: unread
 ---
 # rearmost
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Located farthest to the rear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located farthest to the rear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rearmost designates located farthest to the rear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Located farthest to the rear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located farthest to the rear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rearmost designates located farthest to the rear."*

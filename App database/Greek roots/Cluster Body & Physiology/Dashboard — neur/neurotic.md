@@ -5,13 +5,6 @@ status: unread
 ---
 # neurotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, constituting, or affected with neurosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One affected with a neurosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurotic designates of, relating to, constituting, or affected with neurosis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, constituting, or affected with neurosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One affected with a neurosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurotic designates of, relating to, constituting, or affected with neurosis."*

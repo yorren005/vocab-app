@@ -5,15 +5,6 @@ status: unread
 ---
 # hall
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An interior passage or corridor onto which rooms open.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large entrance or reception room or area.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A hall in the Duke’s palace Scene II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A hall in the Duke’s palace Enter Duke, Egeon, Jailer, Officers and other Attendants."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A hall in Aufidius’s house Scene VI."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An interior passage or corridor onto which rooms open.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large entrance or reception room or area.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A hall in the Duke’s palace Scene II."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A hall in the Duke’s palace Enter Duke, Egeon, Jailer, Officers and other Attendants."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A hall in Aufidius’s house Scene VI."*

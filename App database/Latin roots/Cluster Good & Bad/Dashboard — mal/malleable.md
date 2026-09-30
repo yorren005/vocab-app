@@ -5,15 +5,6 @@ status: unread
 ---
 # malleable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily influenced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being shaped or bent or drawn out.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Boult, take her away; use her at thy pleasure: crack the glass of her virginity, and make the rest malleable."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"When the substance is in a proper state for the next process, it betrays evidences of incipient decomposition; the fibres are relaxed and softened, and rendered perfectly malleable."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Their tempers, doubtless, are rendered pliant and malleable in the fiery furnace of domestic tribulation, and a curtain-lecture is worth all the sermons in the world for teaching the virtues of patience and long-suffering."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily influenced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being shaped or bent or drawn out.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Boult, take her away; use her at thy pleasure: crack the glass of her virginity, and make the rest malleable."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"When the substance is in a proper state for the next process, it betrays evidences of incipient decomposition; the fibres are relaxed and softened, and rendered perfectly malleable."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Their tempers, doubtless, are rendered pliant and malleable in the fiery furnace of domestic tribulation, and a curtain-lecture is worth all the sermons in the world for teaching the virtues of patience and long-suffering."*

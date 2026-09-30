@@ -5,13 +5,6 @@ status: unread
 ---
 # patentee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inventor to whom a patent is issued.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inventor to whom a patent is issued.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He was a patentee of the Openshaw unbreakable tire, and his business met with such success that he was able to sell it and to retire upon a handsome competence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inventor to whom a patent is issued.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inventor to whom a patent is issued.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He was a patentee of the Openshaw unbreakable tire, and his business met with such success that he was able to sell it and to retire upon a handsome competence."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # dida
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To defeat or confound thoroughly especially by indirect or deceptive means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affectedly or pretentiously elegant or refined in manners or tastes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dida designates to defeat or confound thoroughly especially by indirect or deceptive means."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To defeat or confound thoroughly especially by indirect or deceptive means.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affectedly or pretentiously elegant or refined in manners or tastes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dida designates to defeat or confound thoroughly especially by indirect or deceptive means."*

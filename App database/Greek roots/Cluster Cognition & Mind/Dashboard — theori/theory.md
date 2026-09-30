@@ -5,15 +5,6 @@ status: unread
 ---
 # theory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientifically acceptable or plausible general principle or body of principles based on data and offered to explain phenomena; especially : scientific theory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hypothetical structure explaining or relating to an observed set of facts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the midst of which dust and noise there is but one thing perfectly clear, to wit, that Tom only may and can, or shall and will, be reclaimed according to somebody’s theory but nobody’s practice."*
-> - 📜 **Jane Austen (*Persuasion*):** *"As to the management of their children, his theory was much better than his wife’s, and his practice not so bad."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns responded by publishing a pamphlet entitled _An_ _Examination of Professor Ferrier's Theory of Knowing and Being_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientifically acceptable or plausible general principle or body of principles based on data and offered to explain phenomena; especially : scientific theory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hypothetical structure explaining or relating to an observed set of facts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"In the midst of which dust and noise there is but one thing perfectly clear, to wit, that Tom only may and can, or shall and will, be reclaimed according to somebody’s theory but nobody’s practice."*
+> - 📜 **Jane Austen (*Persuasion*):** *"As to the management of their children, his theory was much better than his wife’s, and his practice not so bad."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns responded by publishing a pamphlet entitled _An_ _Examination of Professor Ferrier's Theory of Knowing and Being_."*

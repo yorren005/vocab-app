@@ -5,15 +5,6 @@ status: unread
 ---
 # proverbs
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An old testament book consisting of proverbs from various israeli sages (including solomon).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condensed but memorable saying embodying some important fact of experience that is taken as true by many people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They said they were an-hungry, sighed forth proverbs That hunger broke stone walls, that dogs must eat, That meat was made for mouths, that the gods sent not Corn for the rich men only."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir John stands to his word, the devil shall have his bargain, for he was never yet a breaker of proverbs."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are the better at proverbs, by how much “A fool’s bolt is soon shot.” CONSTABLE."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An old testament book consisting of proverbs from various israeli sages (including solomon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condensed but memorable saying embodying some important fact of experience that is taken as true by many people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They said they were an-hungry, sighed forth proverbs That hunger broke stone walls, that dogs must eat, That meat was made for mouths, that the gods sent not Corn for the rich men only."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir John stands to his word, the devil shall have his bargain, for he was never yet a breaker of proverbs."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are the better at proverbs, by how much “A fool’s bolt is soon shot.” CONSTABLE."*

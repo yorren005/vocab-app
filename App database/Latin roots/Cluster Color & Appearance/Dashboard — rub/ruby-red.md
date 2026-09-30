@@ -5,13 +5,6 @@ status: unread
 ---
 # ruby-red
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ruby-red designates of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ruby-red designates of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies."*

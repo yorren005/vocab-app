@@ -5,13 +5,6 @@ status: unread
 ---
 # geraint
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (arthurian legend) one of the knights of the round table.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (arthurian legend) one of the knights of the round table.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Thomas,[277] “was an interesting work by Geraint Bardd Glass y Cadair, an illustrious Welshman, who flourished about the ninth century."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (arthurian legend) one of the knights of the round table.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (arthurian legend) one of the knights of the round table.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Thomas,[277] “was an interesting work by Geraint Bardd Glass y Cadair, an illustrious Welshman, who flourished about the ninth century."*

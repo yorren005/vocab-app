@@ -5,13 +5,6 @@ status: unread
 ---
 # procaviidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Includes all recent members of the order hyracoidea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Includes all recent members of the order hyracoidea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, procaviidae designates includes all recent members of the order hyracoidea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Includes all recent members of the order hyracoidea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Includes all recent members of the order hyracoidea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, procaviidae designates includes all recent members of the order hyracoidea."*

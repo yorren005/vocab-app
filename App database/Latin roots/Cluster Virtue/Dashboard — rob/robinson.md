@@ -5,15 +5,6 @@ status: unread
 ---
 # robinson
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English chemist noted for his studies of molecular structures in plants (1886-1975).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states prizefighter who won the world middleweight championship five times and the world welterweight championship once (1921-1989).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce said he doubted if Robinson Crusoe could have read it, though he had had no other on his desolate island."*
-> - 📜 **Jane Austen (*Persuasion*):** *"It must be a work of time to ascertain that no injury had been done to the spine; but Mr Robinson found nothing to increase alarm, and Charles Musgrove began, consequently, to feel no necessity for longer confinement."*
-> - 📜 **Jane Austen (*Persuasion*):** *"I perfectly understand Mr Robinson’s directions, and have no fears; and indeed, Mary, I cannot wonder at your husband."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English chemist noted for his studies of molecular structures in plants (1886-1975).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states prizefighter who won the world middleweight championship five times and the world welterweight championship once (1921-1989).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce said he doubted if Robinson Crusoe could have read it, though he had had no other on his desolate island."*
+> - 📜 **Jane Austen (*Persuasion*):** *"It must be a work of time to ascertain that no injury had been done to the spine; but Mr Robinson found nothing to increase alarm, and Charles Musgrove began, consequently, to feel no necessity for longer confinement."*
+> - 📜 **Jane Austen (*Persuasion*):** *"I perfectly understand Mr Robinson’s directions, and have no fears; and indeed, Mary, I cannot wonder at your husband."*

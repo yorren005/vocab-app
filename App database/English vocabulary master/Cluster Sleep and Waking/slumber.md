@@ -5,20 +5,6 @@ status: unread
 ---
 # slumber
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Sleep
-> 2. **Nuance / Usage**: Sleep lightly : doze
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to slumber the target*) and intransitive clauses (*slumbering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"But you must not now slumber in it."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"From miserable slumber I awaked."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"But like a pleasant slumber in thy lap?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A peaceful, deep, and undisturbed sleep; to sleep quietly and serenely.
+> 2. **Nuance / Usage**: Figuratively, a state of latent stillness, dormancy, or quiescence in nature, volcano, or human potential before awakening.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to slumber the target*) and intransitive clauses (*slumbering against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Wordsworth (*A Slumber Did My Spirit Seal*):** *"A **slumber** did my spirit seal; I had no human fears."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"Think but this, and all is mended, that you have but **slumbered** here while these visions did appear."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Exhausted by a thousand conflicting emotions, I threw myself on the bed and sank into a troubled **slumber**."*

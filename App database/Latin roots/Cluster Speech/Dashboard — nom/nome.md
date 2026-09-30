@@ -5,13 +5,6 @@ status: unread
 ---
 # nome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in western alaska on the southern coast of the seward peninsula; an important center of an alaskan gold rush at the beginning of the 20th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in western alaska on the southern coast of the seward peninsula; an important center of an alaskan gold rush at the beginning of the 20th century.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nome designates a town in western alaska on the southern coast of the seward peninsula; an important center of an alaskan gold rush at the beginning of the 20th century."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in western alaska on the southern coast of the seward peninsula; an important center of an alaskan gold rush at the beginning of the 20th century.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in western alaska on the southern coast of the seward peninsula; an important center of an alaskan gold rush at the beginning of the 20th century.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nome designates a town in western alaska on the southern coast of the seward peninsula; an important center of an alaskan gold rush at the beginning of the 20th century."*

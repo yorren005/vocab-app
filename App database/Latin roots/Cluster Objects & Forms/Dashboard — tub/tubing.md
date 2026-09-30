@@ -5,13 +5,6 @@ status: unread
 ---
 # tubing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conduit consisting of a long hollow object (usually cylindrical) used to hold and conduct objects or liquids or gases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with a tube or insert a tube into.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tubing designates conduit consisting of a long hollow object (usually cylindrical) used to hold and conduct objects or liquids or gases."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conduit consisting of a long hollow object (usually cylindrical) used to hold and conduct objects or liquids or gases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with a tube or insert a tube into.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tubing designates conduit consisting of a long hollow object (usually cylindrical) used to hold and conduct objects or liquids or gases."*

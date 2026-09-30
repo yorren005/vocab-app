@@ -5,15 +5,6 @@ status: unread
 ---
 # metr
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek metr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I made the experiment often; and it seemed to me, and to all that attempted it, that we did reach the very edge of the stream; but the next moment perceived that we were at a certain distance, say twenty metres or thereabout."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Our varied metres are becoming as painfully over-polished as Pope's one metre."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"These threads, and many others, were all taken up in his first serious poem, 'Queen Mab' (1812-13), an over-long rhapsody, partly in blank verse, partly in loose metres."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek metr.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I made the experiment often; and it seemed to me, and to all that attempted it, that we did reach the very edge of the stream; but the next moment perceived that we were at a certain distance, say twenty metres or thereabout."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Our varied metres are becoming as painfully over-polished as Pope's one metre."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"These threads, and many others, were all taken up in his first serious poem, 'Queen Mab' (1812-13), an over-long rhapsody, partly in blank verse, partly in loose metres."*

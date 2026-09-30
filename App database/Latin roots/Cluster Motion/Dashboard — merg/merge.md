@@ -5,15 +5,6 @@ status: unread
 ---
 # merge
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mix together different elements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These various kinds so merge into each other that they cannot always be distinguished in practice."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Simplify your complicated interests, feelings, thoughts, wishes, aims; merge all considerations in one purpose: that of fulfilling with effect—with power—the mission of your great Master."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode had gone on to particulars in the expectation that these would work strongly on Ladislaw, and merge other feelings in grateful acceptance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mix together different elements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These various kinds so merge into each other that they cannot always be distinguished in practice."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Simplify your complicated interests, feelings, thoughts, wishes, aims; merge all considerations in one purpose: that of fulfilling with effect—with power—the mission of your great Master."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode had gone on to particulars in the expectation that these would work strongly on Ladislaw, and merge other feelings in grateful acceptance."*

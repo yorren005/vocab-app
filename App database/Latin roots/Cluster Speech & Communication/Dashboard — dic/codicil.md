@@ -5,15 +5,6 @@ status: unread
 ---
 # codicil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A supplement to a will; a testamentary instrument intended to alter an already executed will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supplement to a will; a testamentary instrument intended to alter an already executed will.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I am sure Casaubon was not.” “Well, it would have been worse if he had made the codicil to hinder her from marrying again at all, you know.” “I don’t know that,” said Sir James."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She doesn’t _want_ to marry Ladislaw.” “But this codicil is framed so as to make everybody believe that she did."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Why, he has made a codicil to his will, to say the property was all to go away from you if you married—I mean—” “That is of no consequence,” said Dorothea, breaking in impetuously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A supplement to a will; a testamentary instrument intended to alter an already executed will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supplement to a will; a testamentary instrument intended to alter an already executed will.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"I am sure Casaubon was not.” “Well, it would have been worse if he had made the codicil to hinder her from marrying again at all, you know.” “I don’t know that,” said Sir James."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She doesn’t _want_ to marry Ladislaw.” “But this codicil is framed so as to make everybody believe that she did."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Why, he has made a codicil to his will, to say the property was all to go away from you if you married—I mean—” “That is of no consequence,” said Dorothea, breaking in impetuously."*

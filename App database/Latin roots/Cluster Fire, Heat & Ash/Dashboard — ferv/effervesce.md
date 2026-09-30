@@ -5,15 +5,6 @@ status: unread
 ---
 # effervesce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become bubbly or frothy or foaming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become bubbly or frothy or foaming.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I suppose your love will effervesce in six months, or less."*
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"The mixture, which was at first of a reddish hue, began, in proportion as the crystals melted, to brighten in colour, to effervesce audibly, and to throw off small fumes of vapour."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"I have already filled the glasses." There, in fact, stood the four glasses, brimful of this wonderful water, the delicate spray of which, as it effervesced from the surface, resembled the tremulous glitter of diamonds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become bubbly or frothy or foaming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become bubbly or frothy or foaming.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I suppose your love will effervesce in six months, or less."*
+> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"The mixture, which was at first of a reddish hue, began, in proportion as the crystals melted, to brighten in colour, to effervesce audibly, and to throw off small fumes of vapour."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"I have already filled the glasses." There, in fact, stood the four glasses, brimful of this wonderful water, the delicate spray of which, as it effervesced from the surface, resembled the tremulous glitter of diamonds."*

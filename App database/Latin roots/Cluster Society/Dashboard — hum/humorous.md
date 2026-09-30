@@ -5,15 +5,6 @@ status: unread
 ---
 # humorous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of or characterized by humor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of or characterized by humor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Duke is humorous; what he is indeed More suits you to conceive than I to speak of."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why would you be so fond to overcome The bonny prizer of the humorous Duke?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now I perceive the devil understands Welsh, And ’tis no marvel he’s so humorous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of or characterized by humor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of or characterized by humor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Duke is humorous; what he is indeed More suits you to conceive than I to speak of."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why would you be so fond to overcome The bonny prizer of the humorous Duke?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now I perceive the devil understands Welsh, And ’tis no marvel he’s so humorous."*

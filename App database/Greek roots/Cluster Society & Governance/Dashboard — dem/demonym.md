@@ -5,13 +5,6 @@ status: unread
 ---
 # demonym
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word (such as Nevadan or Sooner) used to denote a person who inhabits or is native to a particular place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word (such as Nevadan or Sooner) used to denote a person who inhabits or is native to a particular place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demonym designates a word (such as nevadan or sooner) used to denote a person who inhabits or is native to a particular place."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word (such as Nevadan or Sooner) used to denote a person who inhabits or is native to a particular place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word (such as Nevadan or Sooner) used to denote a person who inhabits or is native to a particular place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demonym designates a word (such as nevadan or sooner) used to denote a person who inhabits or is native to a particular place."*

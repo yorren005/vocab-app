@@ -5,13 +5,6 @@ status: unread
 ---
 # spirea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A japanese shrub that resembles members of the genus spiraea; widely cultivated in many varieties for its dense panicles of flowers in many colors; often forced by florists for easter blooming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any rosaceous plant of the genus spiraea; has sprays of small white or pink flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirea designates a japanese shrub that resembles members of the genus spiraea; widely cultivated in many varieties for its dense panicles of flowers in many colors; often forced by florists for easter blooming."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A japanese shrub that resembles members of the genus spiraea; widely cultivated in many varieties for its dense panicles of flowers in many colors; often forced by florists for easter blooming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any rosaceous plant of the genus spiraea; has sprays of small white or pink flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirea designates a japanese shrub that resembles members of the genus spiraea; widely cultivated in many varieties for its dense panicles of flowers in many colors; often forced by florists for easter blooming."*

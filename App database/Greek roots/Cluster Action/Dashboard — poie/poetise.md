@@ -5,13 +5,6 @@ status: unread
 ---
 # poetise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compose verses or put into verse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compose verses or put into verse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I am just now in a high fit of poetising, provided that the strait-jacket of criticism don't cure me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compose verses or put into verse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compose verses or put into verse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I am just now in a high fit of poetising, provided that the strait-jacket of criticism don't cure me."*

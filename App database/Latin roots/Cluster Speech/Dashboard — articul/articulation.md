@@ -5,15 +5,6 @@ status: unread
 ---
 # articulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The aspect of pronunciation that involves bringing articulatory organs together so as to shape the sounds of speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The shape or manner in which things come together and a connection is made.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"To savages generally is imputed a guttural articulation."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He was sparing in discourse; but whatever he said was pregnant with meaning, and uttered with rectitude of articulation and force of emphasis of which I had entertained no conception previously to my knowledge of him."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"No articulation was ever more distinct."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The aspect of pronunciation that involves bringing articulatory organs together so as to shape the sounds of speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The shape or manner in which things come together and a connection is made.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"To savages generally is imputed a guttural articulation."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He was sparing in discourse; but whatever he said was pregnant with meaning, and uttered with rectitude of articulation and force of emphasis of which I had entertained no conception previously to my knowledge of him."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"No articulation was ever more distinct."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # fellini
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian filmmaker (1920-1993).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian filmmaker (1920-1993).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fellini designates italian filmmaker (1920-1993)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian filmmaker (1920-1993).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian filmmaker (1920-1993).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fellini designates italian filmmaker (1920-1993)."*

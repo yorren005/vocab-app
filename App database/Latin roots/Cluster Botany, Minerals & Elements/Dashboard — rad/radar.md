@@ -5,13 +5,6 @@ status: unread
 ---
 # radar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring instrument in which the echo of a pulse of microwave radiation is used to detect and locate distant objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring instrument in which the echo of a pulse of microwave radiation is used to detect and locate distant objects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radar designates measuring instrument in which the echo of a pulse of microwave radiation is used to detect and locate distant objects."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring instrument in which the echo of a pulse of microwave radiation is used to detect and locate distant objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring instrument in which the echo of a pulse of microwave radiation is used to detect and locate distant objects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radar designates measuring instrument in which the echo of a pulse of microwave radiation is used to detect and locate distant objects."*

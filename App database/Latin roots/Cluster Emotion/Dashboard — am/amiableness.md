@@ -5,13 +5,6 @@ status: unread
 ---
 # amiableness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition to be friendly and approachable (easy to talk to).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to be friendly and approachable (easy to talk to).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"It is hardly necessary to add, (for who knows not the domestic amiableness of George III.?) that his majesty laughed at the thing with his accustomed good humour. 532."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition to be friendly and approachable (easy to talk to).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to be friendly and approachable (easy to talk to).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"It is hardly necessary to add, (for who knows not the domestic amiableness of George III.?) that his majesty laughed at the thing with his accustomed good humour. 532."*

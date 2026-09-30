@@ -5,15 +5,6 @@ status: unread
 ---
 # excitability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive sensitivity of an organ or body part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being easily excited.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Feeling uneasy and dissatisfied with himself for this nervous excitability, he returned to bed."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Feeling uneasy and dissatisfied with himself for this nervous excitability, he returned to bed."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"We are glad to hear him _booing_ about again.'" Wordsworth's health, steady and robust for the most part, indicated the same restrained excitability."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive sensitivity of an organ or body part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being easily excited.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Feeling uneasy and dissatisfied with himself for this nervous excitability, he returned to bed."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Feeling uneasy and dissatisfied with himself for this nervous excitability, he returned to bed."*
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"We are glad to hear him _booing_ about again.'" Wordsworth's health, steady and robust for the most part, indicated the same restrained excitability."*

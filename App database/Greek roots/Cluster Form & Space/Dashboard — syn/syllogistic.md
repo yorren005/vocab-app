@@ -5,14 +5,6 @@ status: unread
 ---
 # syllogistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or consisting of syllogism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or consisting of syllogism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill commenced his labors, the only logic recognized was the syllogistic."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"Brethren in the ministry, let us be less anxious about the syllogistic accuracy of our sermons and be more eager to help men live right and quit sin and go to heaven."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or consisting of syllogism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or consisting of syllogism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill commenced his labors, the only logic recognized was the syllogistic."*
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"Brethren in the ministry, let us be less anxious about the syllogistic accuracy of our sermons and be more eager to help men live right and quit sin and go to heaven."*

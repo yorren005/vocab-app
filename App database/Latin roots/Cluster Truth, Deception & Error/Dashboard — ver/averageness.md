@@ -5,13 +5,6 @@ status: unread
 ---
 # averageness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being that is average; indicates normality but with connotations of mediocrity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ordinariness as a consequence of being average and not outstanding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, averageness designates the state of being that is average; indicates normality but with connotations of mediocrity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being that is average; indicates normality but with connotations of mediocrity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ordinariness as a consequence of being average and not outstanding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, averageness designates the state of being that is average; indicates normality but with connotations of mediocrity."*

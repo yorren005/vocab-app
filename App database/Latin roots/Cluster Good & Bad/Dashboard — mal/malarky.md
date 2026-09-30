@@ -5,13 +5,6 @@ status: unread
 ---
 # malarky
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Empty rhetoric or insincere or exaggerated talk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Empty rhetoric or insincere or exaggerated talk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malarky designates empty rhetoric or insincere or exaggerated talk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Empty rhetoric or insincere or exaggerated talk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Empty rhetoric or insincere or exaggerated talk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malarky designates empty rhetoric or insincere or exaggerated talk."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # mari
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a rural finnish people living in eastern russia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The finnic language spoken by the cheremis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What’s on you? _Ma mère m’a mariée._ British Beatitudes! _Retamplatan digidi boumboum_."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Hist._ [38] 1287.--Conventus Ecclesiæ Beatæ Mariæ de <g>Tynterna</g> intravit dictam ecclesiam ad celebrandum in _nova_ ecclesia."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"And to Isis in her later character of patroness of mariners the Virgin Mary perhaps owes her beautiful epithet of _Stella Maris,_ "Star of the Sea," under which she is adored by tempest-tossed sailors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a rural finnish people living in eastern russia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The finnic language spoken by the cheremis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"What’s on you? _Ma mère m’a mariée._ British Beatitudes! _Retamplatan digidi boumboum_."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Hist._ [38] 1287.--Conventus Ecclesiæ Beatæ Mariæ de <g>Tynterna</g> intravit dictam ecclesiam ad celebrandum in _nova_ ecclesia."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"And to Isis in her later character of patroness of mariners the Virgin Mary perhaps owes her beautiful epithet of _Stella Maris,_ "Star of the Sea," under which she is adored by tempest-tossed sailors."*

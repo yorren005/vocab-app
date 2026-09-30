@@ -5,15 +5,6 @@ status: unread
 ---
 # astrological
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or concerned with astrology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or concerned with astrology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So, swinging his seated form to the roll of the ship, and with his astrological-looking instrument placed to his eye, he remained in that posture for some moments to catch the precise instant when the sun should gain its precise meridian."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"So, swinging his seated form to the roll of the ship, and with his astrological-looking instrument placed to his eye, he remained in that posture for some moments to catch the precise instant when the sun should gain its precise meridian."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"In confirmation of this astrological suggestion, I may say that while in Topeka I saw "stars," on several occasions, leading Indians in the opposite direction from that in which they wished to go."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or concerned with astrology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or concerned with astrology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So, swinging his seated form to the roll of the ship, and with his astrological-looking instrument placed to his eye, he remained in that posture for some moments to catch the precise instant when the sun should gain its precise meridian."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"So, swinging his seated form to the roll of the ship, and with his astrological-looking instrument placed to his eye, he remained in that posture for some moments to catch the precise instant when the sun should gain its precise meridian."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"In confirmation of this astrological suggestion, I may say that while in Topeka I saw "stars," on several occasions, leading Indians in the opposite direction from that in which they wished to go."*

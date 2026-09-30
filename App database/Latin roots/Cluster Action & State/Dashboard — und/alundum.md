@@ -5,13 +5,6 @@ status: unread
 ---
 # alundum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance made of fused alumina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance made of fused alumina.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alundum designates a substance made of fused alumina."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance made of fused alumina.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance made of fused alumina.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alundum designates a substance made of fused alumina."*

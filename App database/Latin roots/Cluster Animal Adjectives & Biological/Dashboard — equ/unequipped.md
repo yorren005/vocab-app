@@ -5,13 +5,6 @@ status: unread
 ---
 # unequipped
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without necessary physical or intellectual equipment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without necessary physical or intellectual equipment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unequipped designates without necessary physical or intellectual equipment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without necessary physical or intellectual equipment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without necessary physical or intellectual equipment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unequipped designates without necessary physical or intellectual equipment."*

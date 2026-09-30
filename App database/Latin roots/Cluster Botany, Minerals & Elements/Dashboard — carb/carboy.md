@@ -5,15 +5,6 @@ status: unread
 ---
 # carboy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large bottle for holding corrosive liquids; usually cushioned in a special container.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large bottle for holding corrosive liquids; usually cushioned in a special container.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"My name is Kenge,” he said; “you may remember it, my child; Kenge and Carboy, Lincoln’s Inn.” I replied that I remembered to have seen him once before."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I always received by return of post exactly the same answer in the same round hand, with the signature of Kenge and Carboy in another writing, which I supposed to be Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We are, Madam, Your obedt Servts, Kenge and Carboy Miss Esther Summerson Oh, never, never, never shall I forget the emotion this letter caused in the house!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large bottle for holding corrosive liquids; usually cushioned in a special container.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large bottle for holding corrosive liquids; usually cushioned in a special container.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"My name is Kenge,” he said; “you may remember it, my child; Kenge and Carboy, Lincoln’s Inn.” I replied that I remembered to have seen him once before."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I always received by return of post exactly the same answer in the same round hand, with the signature of Kenge and Carboy in another writing, which I supposed to be Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"We are, Madam, Your obedt Servts, Kenge and Carboy Miss Esther Summerson Oh, never, never, never shall I forget the emotion this letter caused in the house!"*

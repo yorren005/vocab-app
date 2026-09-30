@@ -5,13 +5,6 @@ status: unread
 ---
 # ponca
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the siouan people of the missouri river valley in northeastern nebraska.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dhegiha dialect spoken by the ponca.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"President Hayes, February 1, 1881, sent a message to Congress sustaining in the main the findings of the Ponca Indian Commission, and approving its recommendation that they remain on their reservation in Indian Territory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the siouan people of the missouri river valley in northeastern nebraska.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dhegiha dialect spoken by the ponca.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"President Hayes, February 1, 1881, sent a message to Congress sustaining in the main the findings of the Ponca Indian Commission, and approving its recommendation that they remain on their reservation in Indian Territory."*

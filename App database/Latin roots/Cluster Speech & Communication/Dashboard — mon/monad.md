@@ -5,15 +5,6 @@ status: unread
 ---
 # monad
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) an atom having a valence of one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A singular metaphysical entity from which material properties are said to derive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"How 90:3 were the loaves and fishes multiplied on the shores of Galilee, - and that, too, without meal or monad from which loaf or fish could come?"*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Into one love to be gathered, many in number, according to the unity of the essence of the Monad, let us hasten."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"As we are blessed, let us pursue unity, seeking the good Monad."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) an atom having a valence of one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A singular metaphysical entity from which material properties are said to derive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"How 90:3 were the loaves and fishes multiplied on the shores of Galilee, - and that, too, without meal or monad from which loaf or fish could come?"*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Into one love to be gathered, many in number, according to the unity of the essence of the Monad, let us hasten."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"As we are blessed, let us pursue unity, seeking the good Monad."*

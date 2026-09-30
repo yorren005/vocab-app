@@ -5,13 +5,6 @@ status: unread
 ---
 # spatiality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any property relating to or occupying space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any property relating to or occupying space.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spatiality designates any property relating to or occupying space."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any property relating to or occupying space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any property relating to or occupying space.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spatiality designates any property relating to or occupying space."*

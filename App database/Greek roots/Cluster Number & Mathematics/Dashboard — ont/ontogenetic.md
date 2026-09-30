@@ -5,13 +5,6 @@ status: unread
 ---
 # ontogenetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or appearing in the course of ontogeny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on visible morphological characters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ontogenetic designates of, relating to, or appearing in the course of ontogeny."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or appearing in the course of ontogeny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on visible morphological characters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ontogenetic designates of, relating to, or appearing in the course of ontogeny."*

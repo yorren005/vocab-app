@@ -5,15 +5,6 @@ status: unread
 ---
 # associate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who joins with others in some activity or endeavor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A friend who is frequently in the company of another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"We never could associate, never could communicate, never probably from that time forth could interchange another word on earth."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This good-fellowship—_camaraderie_—usually occurring through similarity of pursuits, is unfortunately seldom superadded to love between the sexes, because men and women associate, not in their labours, but in their pleasures merely."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Samuel Zeller, who had been her associate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who joins with others in some activity or endeavor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A friend who is frequently in the company of another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"We never could associate, never could communicate, never probably from that time forth could interchange another word on earth."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This good-fellowship—_camaraderie_—usually occurring through similarity of pursuits, is unfortunately seldom superadded to love between the sexes, because men and women associate, not in their labours, but in their pleasures merely."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Samuel Zeller, who had been her associate."*

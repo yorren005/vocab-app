@@ -5,15 +5,6 @@ status: unread
 ---
 # susceptible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (often followed by `of' or `to') yielding readily to or capable of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily impressed emotionally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"This ancestor is said to have been a man extremely susceptible to violent outbreaks."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The occasion of this seizure is that Guster has a tender heart and a susceptible something that possibly might have been imagination, but for Tooting and her patron saint."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am very susceptible to such horrid things."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (often followed by `of' or `to') yielding readily to or capable of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily impressed emotionally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"This ancestor is said to have been a man extremely susceptible to violent outbreaks."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The occasion of this seizure is that Guster has a tender heart and a susceptible something that possibly might have been imagination, but for Tooting and her patron saint."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I am very susceptible to such horrid things."*

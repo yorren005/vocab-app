@@ -5,15 +5,6 @@ status: unread
 ---
 # dominican
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A roman catholic friar wearing the black mantle of the dominican order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of the dominican republic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They broke into his bedchamber at the Dominican convent near Perth, where he was residing, and barbarously murdered him by oft-repeated wounds."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"There she lay within, in her habit of a Dominican lay sister, her hands waxy, her face waxy, her eyelids closed."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"There she lay within, in her habit of a Dominican lay sister, her hands waxy, her face waxy, her eyelids closed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A roman catholic friar wearing the black mantle of the dominican order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of the dominican republic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They broke into his bedchamber at the Dominican convent near Perth, where he was residing, and barbarously murdered him by oft-repeated wounds."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"There she lay within, in her habit of a Dominican lay sister, her hands waxy, her face waxy, her eyelids closed."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"There she lay within, in her habit of a Dominican lay sister, her hands waxy, her face waxy, her eyelids closed."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # megakaryocyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large bone marrow cell; regarded as the source of blood platelets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large bone marrow cell; regarded as the source of blood platelets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megakaryocyte designates a large bone marrow cell; regarded as the source of blood platelets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large bone marrow cell; regarded as the source of blood platelets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large bone marrow cell; regarded as the source of blood platelets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megakaryocyte designates a large bone marrow cell; regarded as the source of blood platelets."*

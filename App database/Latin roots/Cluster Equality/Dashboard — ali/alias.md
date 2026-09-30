@@ -5,15 +5,6 @@ status: unread
 ---
 # alias
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A name that has been assumed temporarily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As known or named at another time or place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The black prince, sir; alias the prince of darkness; alias the devil."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, then you should discover a brace of unmeriting, proud, violent, testy magistrates, alias fools, as any in Rome."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Try if she can speak now—ask her her name.” I felt I could speak, and I answered—“My name is Jane Elliott.” Anxious as ever to avoid discovery, I had before resolved to assume an _alias_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A name that has been assumed temporarily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As known or named at another time or place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The black prince, sir; alias the prince of darkness; alias the devil."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, then you should discover a brace of unmeriting, proud, violent, testy magistrates, alias fools, as any in Rome."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Try if she can speak now—ask her her name.” I felt I could speak, and I answered—“My name is Jane Elliott.” Anxious as ever to avoid discovery, I had before resolved to assume an _alias_."*

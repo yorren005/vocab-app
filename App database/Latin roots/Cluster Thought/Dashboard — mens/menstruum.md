@@ -5,13 +5,6 @@ status: unread
 ---
 # menstruum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (archaic) a solvent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The monthly discharge of blood from the uterus of nonpregnant women from puberty to menopause; ; --hippocrates; --aristotle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"How ignorant are plough-boys!--Nay, I have since discovered that a _godly woman_ may be a--!--But hold--here's t'ye again--this rum is generous Antigua, so a very unfit menstruum for scandal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (archaic) a solvent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The monthly discharge of blood from the uterus of nonpregnant women from puberty to menopause; ; --hippocrates; --aristotle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"How ignorant are plough-boys!--Nay, I have since discovered that a _godly woman_ may be a--!--But hold--here's t'ye again--this rum is generous Antigua, so a very unfit menstruum for scandal."*

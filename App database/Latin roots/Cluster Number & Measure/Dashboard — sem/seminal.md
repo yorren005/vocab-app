@@ -5,15 +5,6 @@ status: unread
 ---
 # seminal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or containing or consisting of semen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing seeds of later development.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Since I have undertaken to manhandle this Leviathan, it behoves me to approve myself omnisciently exhaustive in the enterprise; not overlooking the minutest seminal germs of his blood, and spinning him out to the uttermost coil of his bowels."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Since I have undertaken to manhandle this Leviathan, it behooves me to approve myself omnisciently exhaustive in the enterprise; not overlooking the minutest seminal germs of his blood, and spinning him out to the uttermost coil of his bowels."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Without her aid, this seminal principle of mischief, this root of upas, could not have been planted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or containing or consisting of semen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing seeds of later development.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Since I have undertaken to manhandle this Leviathan, it behoves me to approve myself omnisciently exhaustive in the enterprise; not overlooking the minutest seminal germs of his blood, and spinning him out to the uttermost coil of his bowels."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Since I have undertaken to manhandle this Leviathan, it behooves me to approve myself omnisciently exhaustive in the enterprise; not overlooking the minutest seminal germs of his blood, and spinning him out to the uttermost coil of his bowels."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Without her aid, this seminal principle of mischief, this root of upas, could not have been planted."*

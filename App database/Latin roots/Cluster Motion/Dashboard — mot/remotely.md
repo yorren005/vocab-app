@@ -5,15 +5,6 @@ status: unread
 ---
 # remotely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a remote manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a remote degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The dairy called Talbothays, for which she was bound, stood not remotely from some of the former estates of the d’Urbervilles, near the great family vaults of her granddames and their powerful husbands."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I knew him before he gave me one of those aids, though, a moment before, I had not been conscious of remotely suspecting his identity."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The training programs are antiquated; many aren't even remotely tied in with the equipment installed on ships of the line."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a remote manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a remote degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The dairy called Talbothays, for which she was bound, stood not remotely from some of the former estates of the d’Urbervilles, near the great family vaults of her granddames and their powerful husbands."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I knew him before he gave me one of those aids, though, a moment before, I had not been conscious of remotely suspecting his identity."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The training programs are antiquated; many aren't even remotely tied in with the equipment installed on ships of the line."*

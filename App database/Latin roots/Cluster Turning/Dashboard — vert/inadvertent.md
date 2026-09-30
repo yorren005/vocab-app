@@ -5,13 +5,6 @@ status: unread
 ---
 # inadvertent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening by chance or unexpectedly or unintentionally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happening by chance or unexpectedly or unintentionally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"The boy, also, after a week or two of mental disquiet, began to gratify his protectors by many inadvertent proofs that he considered them as parents, and their house as home."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening by chance or unexpectedly or unintentionally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happening by chance or unexpectedly or unintentionally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"The boy, also, after a week or two of mental disquiet, began to gratify his protectors by many inadvertent proofs that he considered them as parents, and their house as home."*

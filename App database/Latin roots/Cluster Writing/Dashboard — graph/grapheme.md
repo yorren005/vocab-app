@@ -5,13 +5,6 @@ status: unread
 ---
 # grapheme
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A written symbol that is used to represent speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A written symbol that is used to represent speech.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, grapheme designates a written symbol that is used to represent speech."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written symbol that is used to represent speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A written symbol that is used to represent speech.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, grapheme designates a written symbol that is used to represent speech."*

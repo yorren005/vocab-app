@@ -5,15 +5,6 @@ status: unread
 ---
 # familiarity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Personal knowledge or information about someone or something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Usualness by virtue of being familiar or well known.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And didst thou not, when she was gone downstairs, desire me to be no more so familiarity with such poor people, saying that ere long they should call me madam?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hope upon familiarity will grow more contempt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Camillo’s flight, Added to their familiarity, (Which was as gross as ever touch’d conjecture, That lack’d sight only, nought for approbation But only seeing, all other circumstances Made up to th’ deed) doth push on this proceeding."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Personal knowledge or information about someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Usualness by virtue of being familiar or well known.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And didst thou not, when she was gone downstairs, desire me to be no more so familiarity with such poor people, saying that ere long they should call me madam?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hope upon familiarity will grow more contempt."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Camillo’s flight, Added to their familiarity, (Which was as gross as ever touch’d conjecture, That lack’d sight only, nought for approbation But only seeing, all other circumstances Made up to th’ deed) doth push on this proceeding."*

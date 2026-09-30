@@ -5,13 +5,6 @@ status: unread
 ---
 # morbilliform
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a rash that resembles that of measles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a rash that resembles that of measles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morbilliform designates of a rash that resembles that of measles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a rash that resembles that of measles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a rash that resembles that of measles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morbilliform designates of a rash that resembles that of measles."*

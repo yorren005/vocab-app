@@ -5,15 +5,6 @@ status: unread
 ---
 # special
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A special offering (usually temporary and at a reduced price) that is featured in advertising.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dish or meal given prominence in e.g. a restaurant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is the time that keeps you as my chest Or as the wardrobe which the robe doth hide, To make some special instant special-blest, By new unfolding his imprisoned pride."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus he his special nothing ever prologues."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, what place make you special, when you put off that with such contempt?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A special offering (usually temporary and at a reduced price) that is featured in advertising.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dish or meal given prominence in e.g. a restaurant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is the time that keeps you as my chest Or as the wardrobe which the robe doth hide, To make some special instant special-blest, By new unfolding his imprisoned pride."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus he his special nothing ever prologues."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, what place make you special, when you put off that with such contempt?"*

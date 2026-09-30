@@ -5,13 +5,6 @@ status: unread
 ---
 # hemingwayesque
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the manner of ernest hemingway.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the manner of ernest hemingway.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemingwayesque designates in the manner of ernest hemingway."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the manner of ernest hemingway.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the manner of ernest hemingway.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemingwayesque designates in the manner of ernest hemingway."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # halle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in the saxony region of germany on the saale river; a member of the hanseatic league during the 13th and 14th centuries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in the saxony region of germany on the saale river; a member of the hanseatic league during the 13th and 14th centuries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Das Beste muss hier die Presse thun zur Intimidation, und die ersten Kotwuerfe auf Karl Heine und namentlich auf Adolf Halle werden schon wirken."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Deutsches Litteraturblatt, Halle a."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Gohon might have suited him, though." "But, Nannon, it was not because of that affair at the Halle that M."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in the saxony region of germany on the saale river; a member of the hanseatic league during the 13th and 14th centuries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in the saxony region of germany on the saale river; a member of the hanseatic league during the 13th and 14th centuries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Das Beste muss hier die Presse thun zur Intimidation, und die ersten Kotwuerfe auf Karl Heine und namentlich auf Adolf Halle werden schon wirken."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Deutsches Litteraturblatt, Halle a."*
+> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Gohon might have suited him, though." "But, Nannon, it was not because of that affair at the Halle that M."*

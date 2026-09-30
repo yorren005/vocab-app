@@ -5,15 +5,6 @@ status: unread
 ---
 # university
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The body of faculty and students at a university.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establishment where a seat of higher learning is housed, including administrative and living quarters as well as facilities for research and teaching.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, nor mine now. [_To Polonius._] My lord, you play’d once i’ th’university, you say?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"While I play the good husband at home, my son and my servant spend all at the university."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The young barons left the castle in order to attend a university in Germany, and Philip also left for an agricultural school."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The body of faculty and students at a university.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establishment where a seat of higher learning is housed, including administrative and living quarters as well as facilities for research and teaching.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, nor mine now. [_To Polonius._] My lord, you play’d once i’ th’university, you say?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"While I play the good husband at home, my son and my servant spend all at the university."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The young barons left the castle in order to attend a university in Germany, and Philip also left for an agricultural school."*

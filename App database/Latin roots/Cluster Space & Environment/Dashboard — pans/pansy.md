@@ -5,15 +5,6 @@ status: unread
 ---
 # pansy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large-flowered garden plant derived chiefly from the wild pansy of europe and having velvety petals of various colors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A timid man or boy considered childish or unassertive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I’ve been more than once, Pansy,” Madame Merle declared."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Am I not your great friend in Rome?” “I remember the last time best,” said Pansy, “because you told me I should come away.” “Did you tell her that?” the child’s father asked."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It’s precisely to fit her for the world,” she murmured, glancing at Pansy, who stood, at a little distance, attentive to Madame Merle’s elegant apparel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large-flowered garden plant derived chiefly from the wild pansy of europe and having velvety petals of various colors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A timid man or boy considered childish or unassertive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I’ve been more than once, Pansy,” Madame Merle declared."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Am I not your great friend in Rome?” “I remember the last time best,” said Pansy, “because you told me I should come away.” “Did you tell her that?” the child’s father asked."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It’s precisely to fit her for the world,” she murmured, glancing at Pansy, who stood, at a little distance, attentive to Madame Merle’s elegant apparel."*

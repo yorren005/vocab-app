@@ -5,15 +5,6 @@ status: unread
 ---
 # horribly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a dreadful kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a dreadful kind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, thou wilt be horribly chid tomorrow when thou comest to thy father."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By this leek, I will most horribly revenge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But he, as loving his own pride and purposes, Evades them, with a bombast circumstance, Horribly stuff’d with epithets of war: And in conclusion, Nonsuits my mediators: for “Certes,” says he, “I have already chose my officer.” And what was he?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a dreadful kind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a dreadful kind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, thou wilt be horribly chid tomorrow when thou comest to thy father."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By this leek, I will most horribly revenge."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But he, as loving his own pride and purposes, Evades them, with a bombast circumstance, Horribly stuff’d with epithets of war: And in conclusion, Nonsuits my mediators: for “Certes,” says he, “I have already chose my officer.” And what was he?"*

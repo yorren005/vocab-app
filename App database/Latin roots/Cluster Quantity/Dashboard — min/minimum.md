@@ -5,15 +5,6 @@ status: unread
 ---
 # minimum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The smallest possible quantity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The point on a curve where the tangent changes from negative on the left to positive on the right.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The general price level fluctuated, but on the whole tended downward between 1884 and 1893 (the year of panic), and reached a minimum in the year 1895 in Germany, 1896 in England, and 1897 in America."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"See Vol. 1, pp. 275, 302.] [Footnote 7: The legal requirements as to minimum reserves vary greatly from no specific per cent to 40 or more in different countries, for different classes of banks, and for different purposes."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Usually he asserts that this is because production grows faster than wages, wages being fixed, as he believes, by the minimum of subsistence--a theory akin to the iron law of wages."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The smallest possible quantity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The point on a curve where the tangent changes from negative on the left to positive on the right.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The general price level fluctuated, but on the whole tended downward between 1884 and 1893 (the year of panic), and reached a minimum in the year 1895 in Germany, 1896 in England, and 1897 in America."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"See Vol. 1, pp. 275, 302.] [Footnote 7: The legal requirements as to minimum reserves vary greatly from no specific per cent to 40 or more in different countries, for different classes of banks, and for different purposes."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Usually he asserts that this is because production grows faster than wages, wages being fixed, as he believes, by the minimum of subsistence--a theory akin to the iron law of wages."*

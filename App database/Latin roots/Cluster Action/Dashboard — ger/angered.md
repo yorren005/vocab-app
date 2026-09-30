@@ -5,15 +5,6 @@ status: unread
 ---
 # angered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make angry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become angry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And that is it Hath made me rig my navy, at whose burden The angered ocean foams, with which I meant To scourge th’ ingratitude that despiteful Rome Cast on my noble father."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Prince once set a dish of applejohns before him, and told him there were five more Sir Johns, and, putting off his hat, said “I will now take my leave of these six dry, round, old, withered knights.” It angered him to the heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She makes it strange, but she would be best pleased To be so angered with another letter. [_Exit._] JULIA."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make angry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become angry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And that is it Hath made me rig my navy, at whose burden The angered ocean foams, with which I meant To scourge th’ ingratitude that despiteful Rome Cast on my noble father."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Prince once set a dish of applejohns before him, and told him there were five more Sir Johns, and, putting off his hat, said “I will now take my leave of these six dry, round, old, withered knights.” It angered him to the heart."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She makes it strange, but she would be best pleased To be so angered with another letter. [_Exit._] JULIA."*

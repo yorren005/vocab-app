@@ -5,15 +5,6 @@ status: unread
 ---
 # fabric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The underlying structure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The kingly crowned head, the vigilant eye, The counsellor heart, the arm our soldier, Our steed the leg, the tongue our trumpeter, With other muniments and petty helps Is this our fabric, if that they— MENENIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now ’tis odds beyond arithmetic, And manhood is called foolery when it stands Against a falling fabric."*
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"I think our heart-strings were, like warp and woof In some firm fabric, woven in and out; Your golden filaments in fair design Across my duller fibre."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The underlying structure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The kingly crowned head, the vigilant eye, The counsellor heart, the arm our soldier, Our steed the leg, the tongue our trumpeter, With other muniments and petty helps Is this our fabric, if that they— MENENIUS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now ’tis odds beyond arithmetic, And manhood is called foolery when it stands Against a falling fabric."*
+> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"I think our heart-strings were, like warp and woof In some firm fabric, woven in and out; Your golden filaments in fair design Across my duller fibre."*

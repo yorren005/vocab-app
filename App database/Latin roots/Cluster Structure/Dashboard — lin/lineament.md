@@ -5,15 +5,6 @@ status: unread
 ---
 # lineament
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A characteristic property that defines the apparent individual nature of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The characteristic parts of a person's face: eyes and nose and mouth and chin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Examine every married lineament, And see how one another lends content; And what obscur’d in this fair volume lies, Find written in the margent of his eyes."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"John and the ugliness of Judas Iscariot, as represented in a window of the church he attended, that not a single lineament could be selected and called worthy either of distinction or notoriety."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An angularity of lineament, and a fixity of facial machinery in general, proclaimed that serious work was the order of the day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A characteristic property that defines the apparent individual nature of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The characteristic parts of a person's face: eyes and nose and mouth and chin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Examine every married lineament, And see how one another lends content; And what obscur’d in this fair volume lies, Find written in the margent of his eyes."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"John and the ugliness of Judas Iscariot, as represented in a window of the church he attended, that not a single lineament could be selected and called worthy either of distinction or notoriety."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An angularity of lineament, and a fixity of facial machinery in general, proclaimed that serious work was the order of the day."*

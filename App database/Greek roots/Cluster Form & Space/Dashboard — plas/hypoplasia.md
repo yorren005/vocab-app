@@ -5,13 +5,6 @@ status: unread
 ---
 # hypoplasia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Underdevelopment of an organ because of a decrease in the number of cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Underdevelopment of an organ because of a decrease in the number of cells.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypoplasia designates underdevelopment of an organ because of a decrease in the number of cells."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Underdevelopment of an organ because of a decrease in the number of cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Underdevelopment of an organ because of a decrease in the number of cells.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypoplasia designates underdevelopment of an organ because of a decrease in the number of cells."*

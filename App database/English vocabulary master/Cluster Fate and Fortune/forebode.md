@@ -5,20 +5,6 @@ status: unread
 ---
 # forebode
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Augur, predict
-> 2. **Nuance / Usage**: Foretell, portend
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to forebode the target*) and intransitive clauses (*foreboding against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Taking a little more claret and dipping one of the cakes in it, he shook his head and smiled at Ada and me with an ingenuous foreboding that he never could be made to understand."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There was such a shock of apprehension in his face, and he knew Richard so perfectly, and I too had seen so much of his gradual decay, that what my dear girl had said to me in the fullness of her foreboding love sounded like a knell in my ears."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She perceived in his words the realization of her own apprehensive foreboding in former times."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Augur, predict
+> 2. **Nuance / Usage**: Foretell, portend
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to forebode the target*) and intransitive clauses (*foreboding against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Taking a little more claret and dipping one of the cakes in it, he shook his head and smiled at Ada and me with an ingenuous foreboding that he never could be made to understand."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There was such a shock of apprehension in his face, and he knew Richard so perfectly, and I too had seen so much of his gradual decay, that what my dear girl had said to me in the fullness of her foreboding love sounded like a knell in my ears."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She perceived in his words the realization of her own apprehensive foreboding in former times."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # multicolour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having sections or patches colored differently and usually brightly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having sections or patches colored differently and usually brightly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Mr Bloom stood at the corner, his eyes wandering over the multicoloured hoardings."*
-> - 📜 **James Joyce (*Ulysses*):** *"What selfinvolved enigma did Bloom risen, going, gathering multicoloured multiform multitudinous garments, voluntarily apprehending, not comprehend?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having sections or patches colored differently and usually brightly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having sections or patches colored differently and usually brightly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Mr Bloom stood at the corner, his eyes wandering over the multicoloured hoardings."*
+> - 📜 **James Joyce (*Ulysses*):** *"What selfinvolved enigma did Bloom risen, going, gathering multicoloured multiform multitudinous garments, voluntarily apprehending, not comprehend?"*

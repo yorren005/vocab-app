@@ -5,20 +5,6 @@ status: unread
 ---
 # fret
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Pass (time) in fretting
-> 2. **Nuance / Usage**: Cause to suffer emotional strain : vex
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to fret the target*) and intransitive clauses (*freting against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Stamp, rave, and fret, that I may sing and dance."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"You have now done your duty by her, and must fret no longer."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But don’t you fret yourself on that score."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To feel or express constant, gnawing worry, discontent, or nervous agitation over a trouble.
+> 2. **Nuance / Usage**: Literally (from Old English *fretan*, "to devour"), to chafe, wear away, or corrode by friction, or for water to ripple when agitated by wind.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to fret the target*) and intransitive clauses (*freting against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Macbeth*):** *"Life's but a walking shadow, a poor player that struts and **frets** his hour upon the stage and then is heard no more."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"You have now done your duty by her, and must **fret** no longer."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe laid his broad hand gently on my shoulder and said, 'Don't you **fret** yourself on that score, Pip.'"*

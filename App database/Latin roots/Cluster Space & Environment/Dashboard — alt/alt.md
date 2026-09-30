@@ -5,15 +5,6 @@ status: unread
 ---
 # alt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Angular distance above the horizon (especially of a celestial object).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Angular distance above the horizon (especially of a celestial object).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He alt’red much upon the hearing it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you once more, Is not your father grown incapable Of reasonable affairs? is he not stupid With age and alt’ring rheums? can he speak? hear?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am but sorry, not afeard; delay’d, But nothing alt’red: what I was, I am: More straining on for plucking back; not following My leash unwillingly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Angular distance above the horizon (especially of a celestial object).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Angular distance above the horizon (especially of a celestial object).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He alt’red much upon the hearing it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you once more, Is not your father grown incapable Of reasonable affairs? is he not stupid With age and alt’ring rheums? can he speak? hear?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am but sorry, not afeard; delay’d, But nothing alt’red: what I was, I am: More straining on for plucking back; not following My leash unwillingly."*

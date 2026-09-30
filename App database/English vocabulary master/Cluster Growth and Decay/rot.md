@@ -5,20 +5,6 @@ status: unread
 ---
 # rot
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Go to ruin : deteriorate
-> 2. **Nuance / Usage**: (intransitive) to decline in function or utility
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"No further, sir; a man may rot even here."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I would my tongue could rot them off!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I’ll speak no more but “Vengeance rot you all!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Go to ruin : deteriorate
+> 2. **Nuance / Usage**: (intransitive) to decline in function or utility
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"No further, sir; a man may rot even here."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I would my tongue could rot them off!"*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I’ll speak no more but “Vengeance rot you all!"*

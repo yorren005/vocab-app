@@ -5,13 +5,6 @@ status: unread
 ---
 # abnegate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deny oneself (something); restrain, especially from indulging in some pleasure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surrender (power or a position).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"He shook in a self-abnegating way, as one who shook for Tellson and Co."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deny oneself (something); restrain, especially from indulging in some pleasure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surrender (power or a position).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"He shook in a self-abnegating way, as one who shook for Tellson and Co."*

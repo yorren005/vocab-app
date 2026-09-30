@@ -5,13 +5,6 @@ status: unread
 ---
 # sperm-filled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled with sperm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filled with sperm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sperm-filled designates filled with sperm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled with sperm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filled with sperm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sperm-filled designates filled with sperm."*

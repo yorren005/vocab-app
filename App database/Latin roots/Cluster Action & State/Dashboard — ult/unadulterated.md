@@ -5,15 +5,6 @@ status: unread
 ---
 # unadulterated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not mixed with impurities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without qualification; used informally as (often pejorative) intensifiers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It is pure unadulterated country life."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Pure boyhood recollections, unadulterated by later visits to the scenes in which they had their birth"--_The Hawaiian Star_."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"There he stood, with a border of grizzled locks beneath his skull-cap, while his grey eyes, accustomed to the shaded light of his study, were winking, like those of Hester’s infant, in the unadulterated sunshine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not mixed with impurities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without qualification; used informally as (often pejorative) intensifiers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It is pure unadulterated country life."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Pure boyhood recollections, unadulterated by later visits to the scenes in which they had their birth"--_The Hawaiian Star_."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"There he stood, with a border of grizzled locks beneath his skull-cap, while his grey eyes, accustomed to the shaded light of his study, were winking, like those of Hester’s infant, in the unadulterated sunshine."*

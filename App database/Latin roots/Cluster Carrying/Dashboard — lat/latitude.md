@@ -5,15 +5,6 @@ status: unread
 ---
 # latitude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The angular distance between an imaginary line around a heavenly body parallel to its equator and the equator itself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freedom from normal restraints in conduct.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Not until January fourteenth, seven weeks since the wreck, did we come up with a warmer latitude."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"He did not want them to die of love; but with sense and temper which ought to have made him judge and feel better, he allowed himself great latitude on such points."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No possible endeavor then could enable her commander to make the great passage southwards, double Cape Horn, and then running down sixty degrees of latitude arrive in the equatorial Pacific in time to cruise there."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The angular distance between an imaginary line around a heavenly body parallel to its equator and the equator itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freedom from normal restraints in conduct.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Not until January fourteenth, seven weeks since the wreck, did we come up with a warmer latitude."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"He did not want them to die of love; but with sense and temper which ought to have made him judge and feel better, he allowed himself great latitude on such points."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No possible endeavor then could enable her commander to make the great passage southwards, double Cape Horn, and then running down sixty degrees of latitude arrive in the equatorial Pacific in time to cruise there."*

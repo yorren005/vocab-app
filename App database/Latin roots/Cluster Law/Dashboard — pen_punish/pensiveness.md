@@ -5,15 +5,6 @@ status: unread
 ---
 # pensiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistent morbid meditation on a problem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep serious thoughtfulness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So Lucrece set a-work, sad tales doth tell To pencilled pensiveness and coloured sorrow; She lends them words, and she their looks doth borrow."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Over all the legal neighbourhood there hangs, like some great veil of rust or gigantic cobweb, the idleness and pensiveness of the long vacation."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The sportive sunlight—feebly sportive, at best, in the predominant pensiveness of the day and scene—withdrew itself as they came nigh, and left the spots where it had danced the drearier, because they had hoped to find them bright."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistent morbid meditation on a problem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep serious thoughtfulness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So Lucrece set a-work, sad tales doth tell To pencilled pensiveness and coloured sorrow; She lends them words, and she their looks doth borrow."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Over all the legal neighbourhood there hangs, like some great veil of rust or gigantic cobweb, the idleness and pensiveness of the long vacation."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The sportive sunlight—feebly sportive, at best, in the predominant pensiveness of the day and scene—withdrew itself as they came nigh, and left the spots where it had danced the drearier, because they had hoped to find them bright."*

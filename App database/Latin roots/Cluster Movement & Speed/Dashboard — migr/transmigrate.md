@@ -5,15 +5,6 @@ status: unread
 ---
 # transmigrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be born anew in another body after death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move from one country or region to another and settle there.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It lives by that which nourisheth it, and the elements once out of it, it transmigrates."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Sometimes, at the death of the human incarnation, the divine spirit transmigrates into another man."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus, for example, it is thought that if a Gilyak falls in combat with a bear, his soul transmigrates into the body of the beast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be born anew in another body after death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move from one country or region to another and settle there.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It lives by that which nourisheth it, and the elements once out of it, it transmigrates."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Sometimes, at the death of the human incarnation, the divine spirit transmigrates into another man."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus, for example, it is thought that if a Gilyak falls in combat with a bear, his soul transmigrates into the body of the beast."*

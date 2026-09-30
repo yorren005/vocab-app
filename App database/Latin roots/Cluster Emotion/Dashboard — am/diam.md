@@ -5,13 +5,6 @@ status: unread
 ---
 # diam
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The length of a straight line passing through the center of a circle and connecting two points on the circumference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The length of a straight line passing through the center of a circle and connecting two points on the circumference.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diam designates the length of a straight line passing through the center of a circle and connecting two points on the circumference."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The length of a straight line passing through the center of a circle and connecting two points on the circumference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The length of a straight line passing through the center of a circle and connecting two points on the circumference.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diam designates the length of a straight line passing through the center of a circle and connecting two points on the circumference."*

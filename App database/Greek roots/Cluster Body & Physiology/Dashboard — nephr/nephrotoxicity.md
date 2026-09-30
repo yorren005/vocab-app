@@ -5,13 +5,6 @@ status: unread
 ---
 # nephrotoxicity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Poisonous to the kidney; also : resulting from or marked by poisoning of the kidney.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Poisonous to the kidney; also : resulting from or marked by poisoning of the kidney.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrotoxicity designates poisonous to the kidney; also : resulting from or marked by poisoning of the kidney."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Poisonous to the kidney; also : resulting from or marked by poisoning of the kidney.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Poisonous to the kidney; also : resulting from or marked by poisoning of the kidney.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrotoxicity designates poisonous to the kidney; also : resulting from or marked by poisoning of the kidney."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # connate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of similar parts or organs; closely joined or united.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related in nature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, connate designates of similar parts or organs; closely joined or united."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of similar parts or organs; closely joined or united.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related in nature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, connate designates of similar parts or organs; closely joined or united."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # contentment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happiness with one's situation in life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happiness with one's situation in life.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Beholding him in which glow of contentment, Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And Sir Leicester is glad to repose in dignified contentment before the great fire in the library, condescendingly perusing the backs of his books or honouring the fine arts with a glance of approbation."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Elizabeth did not quite equal her father in personal contentment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Happiness with one's situation in life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happiness with one's situation in life.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Beholding him in which glow of contentment, Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And Sir Leicester is glad to repose in dignified contentment before the great fire in the library, condescendingly perusing the backs of his books or honouring the fine arts with a glance of approbation."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Elizabeth did not quite equal her father in personal contentment."*

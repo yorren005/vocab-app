@@ -5,13 +5,6 @@ status: unread
 ---
 # fraternization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Associating with others in a brotherly or friendly way; especially with an enemy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Associating with others in a brotherly or friendly way; especially with an enemy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fraternization designates associating with others in a brotherly or friendly way; especially with an enemy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Associating with others in a brotherly or friendly way; especially with an enemy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Associating with others in a brotherly or friendly way; especially with an enemy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fraternization designates associating with others in a brotherly or friendly way; especially with an enemy."*

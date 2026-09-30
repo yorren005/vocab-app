@@ -5,13 +5,6 @@ status: unread
 ---
 # judiciousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Good judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of forming opinions by distinguishing and evaluating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Still Ned provides everything in the world he can think of to help Mamie," said Caroline, who had come up the walk just in time to fan the flame in me by her sweet wistfulness, with a soft judiciousness in her voice and eyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Good judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of forming opinions by distinguishing and evaluating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Still Ned provides everything in the world he can think of to help Mamie," said Caroline, who had come up the walk just in time to fan the flame in me by her sweet wistfulness, with a soft judiciousness in her voice and eyes."*

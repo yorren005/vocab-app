@@ -5,15 +5,6 @@ status: unread
 ---
 # cal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small calorie.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: California.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I wish cousins Cal and Art would invite themselves to dine with us too." "Art's very busy just now," said Ella: "there's a good deal of sickness, and I don't believe he's spent a whole night at home for the last week or more." "Dear me!"*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I'm nearly done with Art's, and then I have Cal's to do." "Oh, how pretty!" exclaimed Zoe, examining the work: "and that's a new stitch; won't you teach it to me?" "Yes, indeed, with pleasure."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Cal and Art say, perhaps one or both of them may go on to spend two or three weeks this winter; and in that case I shall go along." "Perhaps we may go at the same time, and what a nice party we will make!" said Zoe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small calorie.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: California.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I wish cousins Cal and Art would invite themselves to dine with us too." "Art's very busy just now," said Ella: "there's a good deal of sickness, and I don't believe he's spent a whole night at home for the last week or more." "Dear me!"*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I'm nearly done with Art's, and then I have Cal's to do." "Oh, how pretty!" exclaimed Zoe, examining the work: "and that's a new stitch; won't you teach it to me?" "Yes, indeed, with pleasure."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Cal and Art say, perhaps one or both of them may go on to spend two or three weeks this winter; and in that case I shall go along." "Perhaps we may go at the same time, and what a nice party we will make!" said Zoe."*

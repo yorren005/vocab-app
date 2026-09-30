@@ -5,14 +5,6 @@ status: unread
 ---
 # colosseum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large amphitheater in rome whose construction was begun by vespasian about ad 75 or 80.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large amphitheater in rome whose construction was begun by vespasian about ad 75 or 80.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Where the huge velarium that Nero had stretched across the Colosseum at Rome, that Titan sail of purple on which was represented the starry sky, and Apollo driving a chariot drawn by white, gilt-reined steeds?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The picturesqueness of the chimney stacks and tumble-down walls of the burned-out quarters of the town, stretching out and concealing one another, reminded him of the Rhine and the Colosseum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large amphitheater in rome whose construction was begun by vespasian about ad 75 or 80.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large amphitheater in rome whose construction was begun by vespasian about ad 75 or 80.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Where the huge velarium that Nero had stretched across the Colosseum at Rome, that Titan sail of purple on which was represented the starry sky, and Apollo driving a chariot drawn by white, gilt-reined steeds?"*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The picturesqueness of the chimney stacks and tumble-down walls of the burned-out quarters of the town, stretching out and concealing one another, reminded him of the Rhine and the Colosseum."*

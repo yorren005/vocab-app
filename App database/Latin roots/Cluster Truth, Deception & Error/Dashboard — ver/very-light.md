@@ -5,13 +5,6 @@ status: unread
 ---
 # very-light
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colored flare fired from a very pistol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colored flare fired from a very pistol.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, very-light designates a colored flare fired from a very pistol."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colored flare fired from a very pistol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colored flare fired from a very pistol.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, very-light designates a colored flare fired from a very pistol."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # asymmetrical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by asymmetry in the spatial arrangement or placement of parts or components.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Irregular in shape or outline.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What composite asymmetrical image in the mirror then attracted his attention?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by asymmetry in the spatial arrangement or placement of parts or components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Irregular in shape or outline.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"What composite asymmetrical image in the mirror then attracted his attention?"*

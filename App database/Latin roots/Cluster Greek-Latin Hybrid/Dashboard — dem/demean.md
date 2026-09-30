@@ -5,15 +5,6 @@ status: unread
 ---
 # demean
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce in worth or character, usually verbally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce in worth or character, usually verbally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, out of doubt Antipholus is mad, Else would he never so demean himself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She never reprehended him but mildly, When he demean’d himself rough, rude, and wildly."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As for me, without shame I tell you the only reason I do not spit upon you is that I cannot demean myself nor so degrade my spittle.” “I’ve reached the limit of my patience!” he bellowed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce in worth or character, usually verbally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce in worth or character, usually verbally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, out of doubt Antipholus is mad, Else would he never so demean himself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She never reprehended him but mildly, When he demean’d himself rough, rude, and wildly."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As for me, without shame I tell you the only reason I do not spit upon you is that I cannot demean myself nor so degrade my spittle.” “I’ve reached the limit of my patience!” he bellowed."*

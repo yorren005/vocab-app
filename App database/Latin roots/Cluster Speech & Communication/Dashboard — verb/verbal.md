@@ -5,15 +5,6 @@ status: unread
 ---
 # verbal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicated in the form of words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or formed from words in general.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, we’re ready for you.” First, Jo has to complete his errand of good nature by handing over the physic he has been to get, which he delivers with the laconic verbal direction that “it’s to be all took d’rectly.” Secondly, Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I merely beg to observe, sir, that the fact is the reverse.” My guardian delicately dismissed this remark without making any verbal answer."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Well?” said Bathsheba, unwilling to believe that her verbal _lettre-de-cachet_ could possibly have miscarried."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicated in the form of words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or formed from words in general.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, we’re ready for you.” First, Jo has to complete his errand of good nature by handing over the physic he has been to get, which he delivers with the laconic verbal direction that “it’s to be all took d’rectly.” Secondly, Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I merely beg to observe, sir, that the fact is the reverse.” My guardian delicately dismissed this remark without making any verbal answer."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Well?” said Bathsheba, unwilling to believe that her verbal _lettre-de-cachet_ could possibly have miscarried."*

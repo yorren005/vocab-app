@@ -5,15 +5,6 @@ status: unread
 ---
 # installing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of installing something (as equipment).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set up for use.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba had shown indications of anointing him above his fellows by installing him as the bailiff that the farm imperatively required."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I expected no one; is he gone?” “No; he said he had known you long, and that he could take the liberty of installing himself here till you returned.” “The devil he did!"*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Jane and I with Henrietta were out by the old gray moss rock at the first break of day, installing Jasper and Petunia and a few of their _confreres_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of installing something (as equipment).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set up for use.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba had shown indications of anointing him above his fellows by installing him as the bailiff that the farm imperatively required."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I expected no one; is he gone?” “No; he said he had known you long, and that he could take the liberty of installing himself here till you returned.” “The devil he did!"*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Jane and I with Henrietta were out by the old gray moss rock at the first break of day, installing Jasper and Petunia and a few of their _confreres_."*

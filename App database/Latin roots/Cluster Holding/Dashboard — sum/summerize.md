@@ -5,13 +5,6 @@ status: unread
 ---
 # summerize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prepare for summer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prepare for summer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, summerize designates prepare for summer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prepare for summer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prepare for summer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, summerize designates prepare for summer."*

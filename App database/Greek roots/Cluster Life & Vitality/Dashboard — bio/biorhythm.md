@@ -5,13 +5,6 @@ status: unread
 ---
 # biorhythm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An innately determined rhythmic biological process or function (such as sleep behavior); also : the internal mechanism that determines such a process or function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An innately determined rhythmic biological process or function (such as sleep behavior); also : the internal mechanism that determines such a process or function.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biorhythm designates an innately determined rhythmic biological process or function (such as sleep behavior); also : the internal mechanism that determines such a process or function."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An innately determined rhythmic biological process or function (such as sleep behavior); also : the internal mechanism that determines such a process or function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An innately determined rhythmic biological process or function (such as sleep behavior); also : the internal mechanism that determines such a process or function.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biorhythm designates an innately determined rhythmic biological process or function (such as sleep behavior); also : the internal mechanism that determines such a process or function."*

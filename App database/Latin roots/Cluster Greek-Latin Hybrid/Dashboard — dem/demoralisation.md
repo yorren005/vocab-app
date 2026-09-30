@@ -5,13 +5,6 @@ status: unread
 ---
 # demoralisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of disorder and confusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Depression resulting from an undermining of your morale.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"In the reaction after that excitement I found myself in face of a great difficulty--what to do with my men, to keep them from demoralisation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of disorder and confusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Depression resulting from an undermining of your morale.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"In the reaction after that excitement I found myself in face of a great difficulty--what to do with my men, to keep them from demoralisation."*

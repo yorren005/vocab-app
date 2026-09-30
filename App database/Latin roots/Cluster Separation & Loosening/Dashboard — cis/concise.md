@@ -5,15 +5,6 @@ status: unread
 ---
 # concise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing much in few words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing much in few words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed bears the concise testimony, “A few!” “I have seen something of the profession and something of life, Tony,” says Mr."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"But if he wrote to his father, no wonder he was concise."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"In this paper we purposely limit ourselves to a concise narrative of the leading events of Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing much in few words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing much in few words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed bears the concise testimony, “A few!” “I have seen something of the profession and something of life, Tony,” says Mr."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"But if he wrote to his father, no wonder he was concise."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"In this paper we purposely limit ourselves to a concise narrative of the leading events of Mr."*

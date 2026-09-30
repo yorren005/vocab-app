@@ -5,15 +5,6 @@ status: unread
 ---
 # penetrable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Admitting of penetration or passage into or through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being penetrated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace, sit you down, And let me wring your heart, for so I shall, If it be made of penetrable stuff; If damned custom have not braz’d it so, That it is proof and bulwark against sense."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not made of stones, But penetrable to your kind entreaties, Albeit against my conscience and my soul."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His ear her prayers admits, but his heart granteth No penetrable entrance to her plaining; Tears harden lust, though marble wear with raining."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Admitting of penetration or passage into or through.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being penetrated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace, sit you down, And let me wring your heart, for so I shall, If it be made of penetrable stuff; If damned custom have not braz’d it so, That it is proof and bulwark against sense."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not made of stones, But penetrable to your kind entreaties, Albeit against my conscience and my soul."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His ear her prayers admits, but his heart granteth No penetrable entrance to her plaining; Tears harden lust, though marble wear with raining."*

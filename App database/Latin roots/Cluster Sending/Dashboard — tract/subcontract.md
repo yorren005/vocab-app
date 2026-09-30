@@ -5,13 +5,6 @@ status: unread
 ---
 # subcontract
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A contract assigning to another party some obligations of a prior contract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arranged for contracted work to be done by others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subcontract designates a contract assigning to another party some obligations of a prior contract."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A contract assigning to another party some obligations of a prior contract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arranged for contracted work to be done by others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subcontract designates a contract assigning to another party some obligations of a prior contract."*

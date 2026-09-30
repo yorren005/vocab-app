@@ -5,13 +5,6 @@ status: unread
 ---
 # inamorata
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman with whom you are in love or have an intimate relationship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman with whom you are in love or have an intimate relationship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Nor, in enumerating the characters of Sir Launcelot Greaves who fix themselves in a reader's memory, should Tom's inamorata, Dolly, be forgotten, or the malicious Ferret, or that precious pair, Justice and Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman with whom you are in love or have an intimate relationship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman with whom you are in love or have an intimate relationship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Nor, in enumerating the characters of Sir Launcelot Greaves who fix themselves in a reader's memory, should Tom's inamorata, Dolly, be forgotten, or the malicious Ferret, or that precious pair, Justice and Mrs."*

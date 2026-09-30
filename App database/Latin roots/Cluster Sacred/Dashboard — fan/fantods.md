@@ -5,13 +5,6 @@ status: unread
 ---
 # fantods
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ill-defined state of irritability and distress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ill-defined state of irritability and distress.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fantods designates an ill-defined state of irritability and distress."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ill-defined state of irritability and distress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ill-defined state of irritability and distress.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fantods designates an ill-defined state of irritability and distress."*

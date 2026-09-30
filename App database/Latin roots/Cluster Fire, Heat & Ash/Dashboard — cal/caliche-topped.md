@@ -5,13 +5,6 @@ status: unread
 ---
 # caliche-topped
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with caliche, a hard calcium-carbonate encrusted soil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with caliche, a hard calcium-carbonate encrusted soil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caliche-topped designates covered with caliche, a hard calcium-carbonate encrusted soil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with caliche, a hard calcium-carbonate encrusted soil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with caliche, a hard calcium-carbonate encrusted soil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caliche-topped designates covered with caliche, a hard calcium-carbonate encrusted soil."*

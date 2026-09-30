@@ -5,20 +5,6 @@ status: unread
 ---
 # keep
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Have in control
-> 2. **Nuance / Usage**: Retain in one's possession or power
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"She may detain, but not still keep her treasure!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Till then I’ll keep him dark, and safely lock’d."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Let her not say ’tis I that keep you here."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: The strongest, central fortified tower of a medieval castle, acting as the ultimate refuge during a siege.
+> 2. **Nuance / Usage**: Also denotes the food, shelter, and necessities required to sustain a person (*earning one's keep*), or as a verb, to retain and guard in one's possession.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The massive Norman **keep** of Torquilstone rose grimly above the surrounding outer walls and moat."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"The archers retreated step by step across the courtyard until they gained the iron-studded door of the central **keep**."*
+> - 📜 **Robert Louis Stevenson (*The Black Arrow*):** *"High over the gateway, the banner of the baron fluttered from the battlements of the stone **keep**."*

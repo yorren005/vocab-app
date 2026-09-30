@@ -5,13 +5,6 @@ status: unread
 ---
 # developer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who develops real estate (especially someone who prepares a site for residential or commercial use).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Photographic equipment consisting of a chemical solution for developing film.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The action of light upon certain chemicals, the subsequent action upon the same of other chemicals, such as developers, toning solutions and so on, form a very well-known region of the domain of science."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who develops real estate (especially someone who prepares a site for residential or commercial use).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Photographic equipment consisting of a chemical solution for developing film.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The action of light upon certain chemicals, the subsequent action upon the same of other chemicals, such as developers, toning solutions and so on, form a very well-known region of the domain of science."*

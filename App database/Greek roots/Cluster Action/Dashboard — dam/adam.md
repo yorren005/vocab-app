@@ -5,15 +5,6 @@ status: unread
 ---
 # adam
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (old testament) in judeo-christian mythology; the first man and the husband of eve and the progenitor of the human race.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scottish architect who designed many public buildings in england and scotland (1728-1792).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An Orchard near Oliver’s house Enter Orlando and Adam."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As I remember, Adam, it was upon this fashion bequeathed me by will but poor a thousand crowns, and, as thou sayst, charged my brother, on his blessing, to breed me well; and there begins my sadness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is it, Adam, that grieves me, and the spirit of my father, which I think is within me, begins to mutiny against this servitude."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (old testament) in judeo-christian mythology; the first man and the husband of eve and the progenitor of the human race.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scottish architect who designed many public buildings in england and scotland (1728-1792).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An Orchard near Oliver’s house Enter Orlando and Adam."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As I remember, Adam, it was upon this fashion bequeathed me by will but poor a thousand crowns, and, as thou sayst, charged my brother, on his blessing, to breed me well; and there begins my sadness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is it, Adam, that grieves me, and the spirit of my father, which I think is within me, begins to mutiny against this servitude."*

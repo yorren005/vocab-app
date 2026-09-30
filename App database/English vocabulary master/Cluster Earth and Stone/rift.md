@@ -5,20 +5,6 @@ status: unread
 ---
 # rift
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Fault
-> 2. **Nuance / Usage**: Chasm or fissure
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the rift withstood the storm*), direct object (*cleaved the rift*), or prepositional anchor (*amidst the rift*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"tops, with occasionally a deep rift where there is a chasm."*
-> - 📜 **Henry Wadsworth Longfellow (*Birds of Passage*):** *"Where ashes are heaped in drifts / Over vineyard and field and town, / Whenever he starts and lifts / His head through the blackened rifts / Of the crags that keep him down"*
-> - 📜 **David Smith (*Elon Musk calls Trump’s ‘big, beautiful’ tax bill a ‘disgusting abomination’*):** *"Elon Musk, the billionaire tech entrepreneur, has opened a new rift with Donald Trump by denouncing the US president’s tax and spending bill as a “disgusting abomination”."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Fault
+> 2. **Nuance / Usage**: Chasm or fissure
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the rift withstood the storm*), direct object (*cleaved the rift*), or prepositional anchor (*amidst the rift*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"tops, with occasionally a deep rift where there is a chasm."*
+> - 📜 **Henry Wadsworth Longfellow (*Birds of Passage*):** *"Where ashes are heaped in drifts / Over vineyard and field and town, / Whenever he starts and lifts / His head through the blackened rifts / Of the crags that keep him down"*
+> - 📜 **David Smith (*Elon Musk calls Trump’s ‘big, beautiful’ tax bill a ‘disgusting abomination’*):** *"Elon Musk, the billionaire tech entrepreneur, has opened a new rift with Donald Trump by denouncing the US president’s tax and spending bill as a “disgusting abomination”."*

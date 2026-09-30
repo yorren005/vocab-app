@@ -5,13 +5,6 @@ status: unread
 ---
 # nonnatural
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing outside of or not in accordance with nature; -aldous huxley.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing outside of or not in accordance with nature; -aldous huxley.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonnatural designates existing outside of or not in accordance with nature; -aldous huxley."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing outside of or not in accordance with nature; -aldous huxley.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing outside of or not in accordance with nature; -aldous huxley.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonnatural designates existing outside of or not in accordance with nature; -aldous huxley."*

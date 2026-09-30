@@ -5,15 +5,6 @@ status: unread
 ---
 # patronize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assume sponsorship of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Do one's shopping at; do business with; be a customer or client of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Say that he wants to patronize me,” pursued Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"But, fair or not fair, there are unbecoming conjunctions, which reason will patronize in vain—which taste cannot tolerate—which ridicule will seize."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Minchin shared fully in the new pique against Bulstrode, excited by his apparent determination to patronize Lydgate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Assume sponsorship of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Do one's shopping at; do business with; be a customer or client of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Say that he wants to patronize me,” pursued Mr."*
+> - 📜 **Jane Austen (*Persuasion*):** *"But, fair or not fair, there are unbecoming conjunctions, which reason will patronize in vain—which taste cannot tolerate—which ridicule will seize."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Minchin shared fully in the new pique against Bulstrode, excited by his apparent determination to patronize Lydgate."*

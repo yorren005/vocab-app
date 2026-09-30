@@ -5,13 +5,6 @@ status: unread
 ---
 # underproduction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inadequate production or less than expected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inadequate production or less than expected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underproduction designates inadequate production or less than expected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inadequate production or less than expected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inadequate production or less than expected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underproduction designates inadequate production or less than expected."*

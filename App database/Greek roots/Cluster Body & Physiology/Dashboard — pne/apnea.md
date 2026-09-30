@@ -5,13 +5,6 @@ status: unread
 ---
 # apnea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transient cessation of respiration; especially : sleep apnea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transient cessation of respiration; especially : sleep apnea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apnea designates transient cessation of respiration; especially : sleep apnea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transient cessation of respiration; especially : sleep apnea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transient cessation of respiration; especially : sleep apnea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apnea designates transient cessation of respiration; especially : sleep apnea."*

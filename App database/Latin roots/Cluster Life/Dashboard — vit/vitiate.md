@@ -5,15 +5,6 @@ status: unread
 ---
 # vitiate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make imperfect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If the periods be separated by short intervals, the measures to be reviewed and rectified will have been of recent date, and will be connected with all the circumstances which tend to vitiate and pervert the result of occasional revisions."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"God has made man capable of this, and nothing can vitiate the ability and power divinely bestowed on 393:15 man."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Hers are faults of principle, Fanny; of blunted delicacy and a corrupted, vitiated mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make imperfect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If the periods be separated by short intervals, the measures to be reviewed and rectified will have been of recent date, and will be connected with all the circumstances which tend to vitiate and pervert the result of occasional revisions."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"God has made man capable of this, and nothing can vitiate the ability and power divinely bestowed on 393:15 man."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Hers are faults of principle, Fanny; of blunted delicacy and a corrupted, vitiated mind."*

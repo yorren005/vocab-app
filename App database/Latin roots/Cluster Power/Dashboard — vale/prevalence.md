@@ -5,15 +5,6 @@ status: unread
 ---
 # prevalence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of prevailing generally; being widespread.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (epidemiology) the ratio (for a given time period) of the number of occurrences of a disease or event to the number of units at risk in the population.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Prevalence of protective tariffs. § 2."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Note on Tariff legislation and business depressions. § 1. #Prevalence of protective tariffs.# For a century and a half most serious students of economics have favored a larger measure of freedom, if not absolute freedom, in foreign trade."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Prevalence of unemployment. § 12."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of prevailing generally; being widespread.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (epidemiology) the ratio (for a given time period) of the number of occurrences of a disease or event to the number of units at risk in the population.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Prevalence of protective tariffs. § 2."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Note on Tariff legislation and business depressions. § 1. #Prevalence of protective tariffs.# For a century and a half most serious students of economics have favored a larger measure of freedom, if not absolute freedom, in foreign trade."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Prevalence of unemployment. § 12."*

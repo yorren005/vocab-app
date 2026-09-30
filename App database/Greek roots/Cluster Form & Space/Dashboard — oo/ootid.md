@@ -5,13 +5,6 @@ status: unread
 ---
 # ootid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An egg cell that results from the second meiotic division of an oocyte and that develops into a mature egg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An egg cell that results from the second meiotic division of an oocyte and that develops into a mature egg.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ootid designates an egg cell that results from the second meiotic division of an oocyte and that develops into a mature egg."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An egg cell that results from the second meiotic division of an oocyte and that develops into a mature egg.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An egg cell that results from the second meiotic division of an oocyte and that develops into a mature egg.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ootid designates an egg cell that results from the second meiotic division of an oocyte and that develops into a mature egg."*

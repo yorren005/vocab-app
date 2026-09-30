@@ -5,13 +5,6 @@ status: unread
 ---
 # assertiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aggressive self-assurance; given to making bold assertions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aggressive self-assurance; given to making bold assertions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"This could call for unusual assertiveness to open lines of communication where there are none, and at keeping them open for a two-way flow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aggressive self-assurance; given to making bold assertions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aggressive self-assurance; given to making bold assertions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"This could call for unusual assertiveness to open lines of communication where there are none, and at keeping them open for a two-way flow."*

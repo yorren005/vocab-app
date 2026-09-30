@@ -5,15 +5,6 @@ status: unread
 ---
 # navigation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The guidance of ships or airplanes from place to place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ship traffic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Chadband’s being much given to describe himself, both verbally and in writing, as a vessel, he is occasionally mistaken by strangers for a gentleman connected with navigation, but he is, as he expresses it, “in the ministry.” Mr."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"For example, the forest has an immediate value to its owners and to the consumers of lumber, and it has also a diffused utility in its influence on industry, on climate, on navigation, on water-power and on floods."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In those days, the captain’s authority was restricted to the navigation and general management of the vessel: while over the whale-hunting department and all its concerns, the Specksnyder or Chief Harpooneer reigned supreme."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The guidance of ships or airplanes from place to place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ship traffic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Chadband’s being much given to describe himself, both verbally and in writing, as a vessel, he is occasionally mistaken by strangers for a gentleman connected with navigation, but he is, as he expresses it, “in the ministry.” Mr."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"For example, the forest has an immediate value to its owners and to the consumers of lumber, and it has also a diffused utility in its influence on industry, on climate, on navigation, on water-power and on floods."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In those days, the captain’s authority was restricted to the navigation and general management of the vessel: while over the whale-hunting department and all its concerns, the Specksnyder or Chief Harpooneer reigned supreme."*

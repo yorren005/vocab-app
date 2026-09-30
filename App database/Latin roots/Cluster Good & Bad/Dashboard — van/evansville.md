@@ -5,13 +5,6 @@ status: unread
 ---
 # evansville
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in southwestern indiana on the ohio river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southwestern indiana on the ohio river.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Louis and Mound City, and at Louisville and Evansville and Paducah, and she began to feel that she must go where her services were more needed, and give herself wholly to this work of caring for and nursing the wounded patriots of the war."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in southwestern indiana on the ohio river.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southwestern indiana on the ohio river.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Louis and Mound City, and at Louisville and Evansville and Paducah, and she began to feel that she must go where her services were more needed, and give herself wholly to this work of caring for and nursing the wounded patriots of the war."*

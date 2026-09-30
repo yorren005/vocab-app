@@ -5,13 +5,6 @@ status: unread
 ---
 # monophthong
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vowel sound that throughout its duration has a single constant articulatory position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vowel sound that throughout its duration has a single constant articulatory position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monophthong designates a vowel sound that throughout its duration has a single constant articulatory position."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vowel sound that throughout its duration has a single constant articulatory position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vowel sound that throughout its duration has a single constant articulatory position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monophthong designates a vowel sound that throughout its duration has a single constant articulatory position."*

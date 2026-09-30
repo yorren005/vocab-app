@@ -5,15 +5,6 @@ status: unread
 ---
 # preservative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound that is added to protect against decay or decomposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending or having the power to preserve.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The most sovereign prescription in Galen is but empiricutic and, to this preservative, of no better report than a horse drench."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In front it was formed of board nailed to posts and covered with tar as a preservative."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This I rubbed into the meat as a preservative."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound that is added to protect against decay or decomposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending or having the power to preserve.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The most sovereign prescription in Galen is but empiricutic and, to this preservative, of no better report than a horse drench."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In front it was formed of board nailed to posts and covered with tar as a preservative."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This I rubbed into the meat as a preservative."*

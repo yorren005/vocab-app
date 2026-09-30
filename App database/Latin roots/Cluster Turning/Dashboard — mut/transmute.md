@@ -5,15 +5,6 @@ status: unread
 ---
 # transmute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change in outward structure or looks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change or alter in form, appearance, or nature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Of the countless millions of saurians then existing, capricious Nature had seized upon this one, to transmute it into an imperishable monument of that extinct race."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Dost thou desire nothing brighter than gold that thou wouldst transmute all this ethereal lustre into such dross as thou wallowest in already?"*
-> - 📜 **Nathaniel Hawthorne (*Chippings with a Chisel (From "Twice Told Tales")*):** *"The speculation had turned out so successful, that my friend expected to transmute slate and marble into silver and gold, to the amount of at least a thousand dollars, during the few months of his sojourn at Nantucket and the Vineyard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Change in outward structure or looks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change or alter in form, appearance, or nature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Of the countless millions of saurians then existing, capricious Nature had seized upon this one, to transmute it into an imperishable monument of that extinct race."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Dost thou desire nothing brighter than gold that thou wouldst transmute all this ethereal lustre into such dross as thou wallowest in already?"*
+> - 📜 **Nathaniel Hawthorne (*Chippings with a Chisel (From "Twice Told Tales")*):** *"The speculation had turned out so successful, that my friend expected to transmute slate and marble into silver and gold, to the amount of at least a thousand dollars, during the few months of his sojourn at Nantucket and the Vineyard."*

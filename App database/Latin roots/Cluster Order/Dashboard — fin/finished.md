@@ -5,15 +5,6 @@ status: unread
 ---
 # finished
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come or bring to a finish or an end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Finally be or do something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What he bids be done is finished with his bidding."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not well done, mark you now, to take the tales out of my mouth, ere it is made and finished."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The nuptial finished, Let him be whipped and hanged."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Come or bring to a finish or an end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Finally be or do something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What he bids be done is finished with his bidding."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not well done, mark you now, to take the tales out of my mouth, ere it is made and finished."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The nuptial finished, Let him be whipped and hanged."*

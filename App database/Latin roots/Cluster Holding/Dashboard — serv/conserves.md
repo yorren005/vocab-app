@@ -5,14 +5,6 @@ status: unread
 ---
 # conserves
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fruit preserved by cooking with sugar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fruit preserved by cooking with sugar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will’t please your honour taste of these conserves?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I ne’er drank sack in my life; and if you give me any conserves, give me conserves of beef."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fruit preserved by cooking with sugar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fruit preserved by cooking with sugar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will’t please your honour taste of these conserves?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I ne’er drank sack in my life; and if you give me any conserves, give me conserves of beef."*

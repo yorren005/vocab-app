@@ -5,15 +5,6 @@ status: unread
 ---
 # reed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall woody perennial grasses with hollow slender stems especially of the genera arundo and phragmites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states journalist who reported on the october revolution from petrograd in 1917; founded the communist labor party in america in 1919; is buried in the kremlin in moscow (1887-1920).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had as lief have a reed that will do me no service as a partisan I could not heave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Care no more to clothe and eat; To thee the reed is as the oak."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"By little and little he has been induced to trust in that rotten reed, and it communicates some portion of its rottenness to everything around him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall woody perennial grasses with hollow slender stems especially of the genera arundo and phragmites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states journalist who reported on the october revolution from petrograd in 1917; founded the communist labor party in america in 1919; is buried in the kremlin in moscow (1887-1920).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had as lief have a reed that will do me no service as a partisan I could not heave."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Care no more to clothe and eat; To thee the reed is as the oak."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"By little and little he has been induced to trust in that rotten reed, and it communicates some portion of its rottenness to everything around him."*

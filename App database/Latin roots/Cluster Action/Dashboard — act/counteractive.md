@@ -5,13 +5,6 @@ status: unread
 ---
 # counteractive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposing or neutralizing or mitigating an effect by contrary action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposing or neutralizing or mitigating an effect by contrary action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counteractive designates opposing or neutralizing or mitigating an effect by contrary action."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposing or neutralizing or mitigating an effect by contrary action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposing or neutralizing or mitigating an effect by contrary action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counteractive designates opposing or neutralizing or mitigating an effect by contrary action."*

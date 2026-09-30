@@ -5,13 +5,6 @@ status: unread
 ---
 # tanganyika
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The longest lake in the world in central africa between tanzania and congo in the great rift valley.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former state in east africa; united with zanzibar in 1964 to form tanzania.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The later extensions of the copper mining industry occurred in Utah, Tennessee, and Queensland, whilst within recent years the most important work on a large scale has been commenced in Tanganyika, in Nevada, and in Siberia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The longest lake in the world in central africa between tanzania and congo in the great rift valley.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former state in east africa; united with zanzibar in 1964 to form tanzania.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The later extensions of the copper mining industry occurred in Utah, Tennessee, and Queensland, whilst within recent years the most important work on a large scale has been commenced in Tanganyika, in Nevada, and in Siberia."*

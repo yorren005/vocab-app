@@ -5,15 +5,6 @@ status: unread
 ---
 # apportioned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distribute according to a plan or set apart for a special purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give out as one's portion or share.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The main ground for the decision was that a tax on incomes from rent of land as well as on incomes from personal property is direct, and must therefore be apportioned among the states according to population."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Of this preparation a tolerably abundant plateful was apportioned to each pupil."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"We made a very good meal by the kitchen fire, and then apportioned the bedrooms: Herbert and Startop were to occupy one; I and our charge the other."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distribute according to a plan or set apart for a special purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give out as one's portion or share.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The main ground for the decision was that a tax on incomes from rent of land as well as on incomes from personal property is direct, and must therefore be apportioned among the states according to population."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Of this preparation a tolerably abundant plateful was apportioned to each pupil."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"We made a very good meal by the kitchen fire, and then apportioned the bedrooms: Herbert and Startop were to occupy one; I and our charge the other."*

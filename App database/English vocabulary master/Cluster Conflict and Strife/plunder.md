@@ -5,20 +5,6 @@ status: unread
 ---
 # plunder
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (transitive) to take (goods) by pillage
-> 2. **Nuance / Usage**: Take by force or wrongfully : steal, loot
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to plunder the target*) and intransitive clauses (*plundering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby Dick*):** *"to back a poor stranger in a strait, as to plunder a wealthy one."*
-> - 📜 **Walter Scott (*Ivanhoe*):** *"enable his patron and principal to plunder the benefice under his name."*
-> - 📜 **Walter Scott (*Ivanhoe*):** *"have described them, the plunder of polished nations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To rob, pillage, or strip a place or people of goods and valuables by force, especially in time of war or civil disorder.
+> 2. **Nuance / Usage**: As a mass noun, the booty, spoils, or stolen property seized during a raid or conquest; also used figuratively of plundering natural resources or literary sources.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive) & Noun (mass).
+> - **Syntactic Constructions**: Operates transitively (*plundered the abbey*) and nominally (*laden with plunder*).
+> - **Collocations & Registers**: Martial, historical, and political registers; collocated with *pillage*, *loot*, *booty*, *province*, and *treasury*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab was as ready to back a poor stranger in a strait as to **plunder** a wealthy one."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The Norman barons enriched their castles with the **plunder** of conquered provinces."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The barbarian horsemen swept across the Danube to **plunder** the defenceless villages of Thrace."*

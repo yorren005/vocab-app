@@ -5,13 +5,6 @@ status: unread
 ---
 # metall
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: metal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: metal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"I believe there are over one hundred miles of metalled roads in the capital and the suburbs, all due to untiring M."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: metal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: metal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"I believe there are over one hundred miles of metalled roads in the capital and the suburbs, all due to untiring M."*

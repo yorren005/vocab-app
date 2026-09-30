@@ -5,13 +5,6 @@ status: unread
 ---
 # porphyrin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various compounds with a macrocyclic structure that consists essentially of four pyrrole rings joined by four =CH— groups; especially : one (such as chlorophyll or hemoglobin) containing a central metal atom and usually exhibiting biological activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various compounds with a macrocyclic structure that consists essentially of four pyrrole rings joined by four =CH— groups; especially : one (such as chlorophyll or hemoglobin) containing a central metal atom and usually exhibiting biological activity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porphyrin designates any of various compounds with a macrocyclic structure that consists essentially of four pyrrole rings joined by four =ch— groups; especially : one (such as chlorophyll or hemoglobin) containing a central metal atom and usually exhibiting biological activity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various compounds with a macrocyclic structure that consists essentially of four pyrrole rings joined by four =CH— groups; especially : one (such as chlorophyll or hemoglobin) containing a central metal atom and usually exhibiting biological activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various compounds with a macrocyclic structure that consists essentially of four pyrrole rings joined by four =CH— groups; especially : one (such as chlorophyll or hemoglobin) containing a central metal atom and usually exhibiting biological activity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porphyrin designates any of various compounds with a macrocyclic structure that consists essentially of four pyrrole rings joined by four =ch— groups; especially : one (such as chlorophyll or hemoglobin) containing a central metal atom and usually exhibiting biological activity."*

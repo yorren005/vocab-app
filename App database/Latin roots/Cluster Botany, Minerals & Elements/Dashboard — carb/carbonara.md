@@ -5,13 +5,6 @@ status: unread
 ---
 # carbonara
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sauce for pasta; contains eggs and bacon or ham and grated cheese.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sauce for pasta; contains eggs and bacon or ham and grated cheese.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbonara designates sauce for pasta; contains eggs and bacon or ham and grated cheese."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sauce for pasta; contains eggs and bacon or ham and grated cheese.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sauce for pasta; contains eggs and bacon or ham and grated cheese.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbonara designates sauce for pasta; contains eggs and bacon or ham and grated cheese."*

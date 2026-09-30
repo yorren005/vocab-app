@@ -5,13 +5,6 @@ status: unread
 ---
 # styloid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a style : styliform —used especially of slender pointed skeletal processes (as on the ulna).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a style : styliform —used especially of slender pointed skeletal processes (as on the ulna).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, styloid designates resembling a style : styliform —used especially of slender pointed skeletal processes (as on the ulna)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a style : styliform —used especially of slender pointed skeletal processes (as on the ulna).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a style : styliform —used especially of slender pointed skeletal processes (as on the ulna).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, styloid designates resembling a style : styliform —used especially of slender pointed skeletal processes (as on the ulna)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # producer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who manufactures something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who finds financing for and supervises the making and presentation of a show (play or film or program or similar work).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The use of money may be necessary several times before a commodity completes its journey from producer to consumer."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It shuts out some foreign goods which would otherwise enter, an in so far it "protects" the domestic producer from the foreign competitors who would sell at lower prices than those at which he can or will sell."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Whenever the government collects a cent of tariff taxes, the domestic producer in so far and as respects that unit of goods is unprotected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who manufactures something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who finds financing for and supervises the making and presentation of a show (play or film or program or similar work).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The use of money may be necessary several times before a commodity completes its journey from producer to consumer."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It shuts out some foreign goods which would otherwise enter, an in so far it "protects" the domestic producer from the foreign competitors who would sell at lower prices than those at which he can or will sell."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Whenever the government collects a cent of tariff taxes, the domestic producer in so far and as respects that unit of goods is unprotected."*

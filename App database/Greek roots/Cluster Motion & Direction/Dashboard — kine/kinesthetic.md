@@ -5,13 +5,6 @@ status: unread
 ---
 # kinesthetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sense mediated by receptors located in muscles, tendons, and joints and stimulated by bodily movements and tensions; also : sensory experience derived from this sense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sense mediated by receptors located in muscles, tendons, and joints and stimulated by bodily movements and tensions; also : sensory experience derived from this sense.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinesthetic designates a sense mediated by receptors located in muscles, tendons, and joints and stimulated by bodily movements and tensions; also : sensory experience derived from this sense."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sense mediated by receptors located in muscles, tendons, and joints and stimulated by bodily movements and tensions; also : sensory experience derived from this sense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sense mediated by receptors located in muscles, tendons, and joints and stimulated by bodily movements and tensions; also : sensory experience derived from this sense.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinesthetic designates a sense mediated by receptors located in muscles, tendons, and joints and stimulated by bodily movements and tensions; also : sensory experience derived from this sense."*

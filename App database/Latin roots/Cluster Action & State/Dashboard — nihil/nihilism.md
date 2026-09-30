@@ -5,13 +5,6 @@ status: unread
 ---
 # nihilism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A revolutionary doctrine that advocates destruction of the social system for its own sake.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The delusion that things (or everything, including the self) do not exist; a sense that everything is unreal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nihilism designates a revolutionary doctrine that advocates destruction of the social system for its own sake."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A revolutionary doctrine that advocates destruction of the social system for its own sake.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The delusion that things (or everything, including the self) do not exist; a sense that everything is unreal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nihilism designates a revolutionary doctrine that advocates destruction of the social system for its own sake."*

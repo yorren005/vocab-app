@@ -5,13 +5,6 @@ status: unread
 ---
 # expunction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deletion by an act of expunging or erasing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deletion by an act of expunging or erasing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expunction designates deletion by an act of expunging or erasing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deletion by an act of expunging or erasing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deletion by an act of expunging or erasing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expunction designates deletion by an act of expunging or erasing."*

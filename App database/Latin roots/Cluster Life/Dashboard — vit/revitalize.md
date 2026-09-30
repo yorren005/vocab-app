@@ -5,13 +5,6 @@ status: unread
 ---
 # revitalize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restore strength.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give new life or vigor to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"In the give-and-take Grandchild learns a lot about Grandma and Grandpa, and everyone involved in the game broadens their awareness, and renew and revitalize family traditions and values."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Restore strength.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give new life or vigor to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"In the give-and-take Grandchild learns a lot about Grandma and Grandpa, and everyone involved in the game broadens their awareness, and renew and revitalize family traditions and values."*

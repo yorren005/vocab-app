@@ -5,15 +5,6 @@ status: unread
 ---
 # state
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The territory occupied by one of the constituent administrative districts of a nation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The way something is with respect to its main attributes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I perceive that men as plants increase, Cheered and checked even by the self-same sky: Vaunt in their youthful sap, at height decrease, And wear their brave state out of memory."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I have seen such interchange of State, Or state it self confounded, to decay, Ruin hath taught me thus to ruminate: That Time will come and take my love away."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then need I not to fear the worst of wrongs, When in the least of them my life hath end, I see, a better state to me belongs Than that, which on thy humour doth depend."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The territory occupied by one of the constituent administrative districts of a nation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The way something is with respect to its main attributes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I perceive that men as plants increase, Cheered and checked even by the self-same sky: Vaunt in their youthful sap, at height decrease, And wear their brave state out of memory."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I have seen such interchange of State, Or state it self confounded, to decay, Ruin hath taught me thus to ruminate: That Time will come and take my love away."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then need I not to fear the worst of wrongs, When in the least of them my life hath end, I see, a better state to me belongs Than that, which on thy humour doth depend."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hedonic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoted to pleasure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoted to pleasure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hedonic designates devoted to pleasure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoted to pleasure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoted to pleasure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hedonic designates devoted to pleasure."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # advertizement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public promotion of some product or service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public promotion of some product or service.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, advertizement designates a public promotion of some product or service."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A public promotion of some product or service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public promotion of some product or service.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, advertizement designates a public promotion of some product or service."*

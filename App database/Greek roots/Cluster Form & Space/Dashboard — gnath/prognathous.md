@@ -5,13 +5,6 @@ status: unread
 ---
 # prognathous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a projecting lower jaw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a projecting lower jaw.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prognathous designates having a projecting lower jaw."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a projecting lower jaw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a projecting lower jaw.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prognathous designates having a projecting lower jaw."*

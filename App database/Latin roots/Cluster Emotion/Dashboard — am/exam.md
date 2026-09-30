@@ -5,14 +5,6 @@ status: unread
 ---
 # exam
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of questions or exercises evaluating skill or knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of questions or exercises evaluating skill or knowledge.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"And when our test exams came out And mine were extra bad, I said, "We needn't fuss about A scrap of paper, dad." When sister's chap comes round at night, And pa seems in a rage, Ma only smiles; she knows all right, It's just dad's camoflage."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Exams. in elementary mathematics; and I hope Herby has got into the Academy, but do not know for certain yet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of questions or exercises evaluating skill or knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of questions or exercises evaluating skill or knowledge.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"And when our test exams came out And mine were extra bad, I said, "We needn't fuss about A scrap of paper, dad." When sister's chap comes round at night, And pa seems in a rage, Ma only smiles; she knows all right, It's just dad's camoflage."*
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Exams. in elementary mathematics; and I hope Herby has got into the Academy, but do not know for certain yet."*

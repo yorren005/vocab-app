@@ -5,15 +5,6 @@ status: unread
 ---
 # autobiography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A biography of yourself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biography of yourself.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"My father, the author of the _Sinner's Friend_, narrates in his autobiography a circumstance which he often used to speak of with great emotion."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"JANE EYRE AN AUTOBIOGRAPHY by Charlotte Brontë _ILLUSTRATED BY F."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The same may be said of his autobiography in miniature, "Rueckschau,"[222] which catalogues the poet's experiences, pleasant and adverse, with evident sincerity though of course with a liberal admixture of witty irony."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biography of yourself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biography of yourself.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"My father, the author of the _Sinner's Friend_, narrates in his autobiography a circumstance which he often used to speak of with great emotion."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"JANE EYRE AN AUTOBIOGRAPHY by Charlotte Brontë _ILLUSTRATED BY F."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The same may be said of his autobiography in miniature, "Rueckschau,"[222] which catalogues the poet's experiences, pleasant and adverse, with evident sincerity though of course with a liberal admixture of witty irony."*

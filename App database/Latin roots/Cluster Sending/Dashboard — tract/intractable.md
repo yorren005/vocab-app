@@ -5,15 +5,6 @@ status: unread
 ---
 # intractable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not tractable; difficult to manage or mold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not tractable; difficult to manage or mold.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Some of them are unmannered, rough, intractable, as well as ignorant; but others are docile, have a wish to learn, and evince a disposition that pleases me."*
-> - 📜 **Effie Afton (*Eventide*):** *"Our pen waxes wild and intractable, whenever we get safely over the stormy gulf, and stand on the shores of bonny, bright Texas; for we feel at home there, hog-wallows, musquitoes, Camanches and all."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"He was the most intractable of invalids, even threatening to break a bottle over Dr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not tractable; difficult to manage or mold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not tractable; difficult to manage or mold.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Some of them are unmannered, rough, intractable, as well as ignorant; but others are docile, have a wish to learn, and evince a disposition that pleases me."*
+> - 📜 **Effie Afton (*Eventide*):** *"Our pen waxes wild and intractable, whenever we get safely over the stormy gulf, and stand on the shores of bonny, bright Texas; for we feel at home there, hog-wallows, musquitoes, Camanches and all."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"He was the most intractable of invalids, even threatening to break a bottle over Dr."*

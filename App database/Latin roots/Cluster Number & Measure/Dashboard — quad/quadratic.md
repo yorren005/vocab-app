@@ -5,13 +5,6 @@ status: unread
 ---
 # quadratic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An equation in which the highest power of an unknown quantity is a square.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polynomial of the second degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Oh, Jane, your simple experiment proposition is about to become compound quadratics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An equation in which the highest power of an unknown quantity is a square.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polynomial of the second degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Oh, Jane, your simple experiment proposition is about to become compound quadratics."*

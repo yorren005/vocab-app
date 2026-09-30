@@ -5,15 +5,6 @@ status: unread
 ---
 # misjudge
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Judge incorrectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judge incorrectly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It is cruel—she cannot help being mad.” “Jane, my little darling (so I will call you, for so you are), you don’t know what you are talking about; you misjudge me again: it is not because she is mad I hate her."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"More than that, he seems to me (I may misjudge him) to be a man of a desperate and fierce character.” “I know he is,” I returned."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Don't misjudge me, I beg: I have no designs on Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Judge incorrectly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judge incorrectly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It is cruel—she cannot help being mad.” “Jane, my little darling (so I will call you, for so you are), you don’t know what you are talking about; you misjudge me again: it is not because she is mad I hate her."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"More than that, he seems to me (I may misjudge him) to be a man of a desperate and fierce character.” “I know he is,” I returned."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Don't misjudge me, I beg: I have no designs on Mrs."*

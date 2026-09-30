@@ -5,13 +5,6 @@ status: unread
 ---
 # repossession
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of regaining possession (especially the seizure of collateral securing a loan that is in default).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of regaining possession (especially the seizure of collateral securing a loan that is in default).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repossession designates the action of regaining possession (especially the seizure of collateral securing a loan that is in default)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of regaining possession (especially the seizure of collateral securing a loan that is in default).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of regaining possession (especially the seizure of collateral securing a loan that is in default).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repossession designates the action of regaining possession (especially the seizure of collateral securing a loan that is in default)."*

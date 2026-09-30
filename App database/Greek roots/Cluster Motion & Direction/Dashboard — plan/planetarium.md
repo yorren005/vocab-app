@@ -5,13 +5,6 @@ status: unread
 ---
 # planetarium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A building housing an instrument for projecting the positions of the planets onto a domed ceiling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical device for projecting images of celestial bodies and other astronomical phenomena onto the inner surface of a hemispherical dome.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planetarium designates a building housing an instrument for projecting the positions of the planets onto a domed ceiling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A building housing an instrument for projecting the positions of the planets onto a domed ceiling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical device for projecting images of celestial bodies and other astronomical phenomena onto the inner surface of a hemispherical dome.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planetarium designates a building housing an instrument for projecting the positions of the planets onto a domed ceiling."*

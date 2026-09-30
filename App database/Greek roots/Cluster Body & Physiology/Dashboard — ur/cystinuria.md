@@ -5,13 +5,6 @@ status: unread
 ---
 # cystinuria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metabolic defect characterized by excretion of excessive amounts of cystine in the urine and inherited as an autosomal recessive trait.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metabolic defect characterized by excretion of excessive amounts of cystine in the urine and inherited as an autosomal recessive trait.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cystinuria designates a metabolic defect characterized by excretion of excessive amounts of cystine in the urine and inherited as an autosomal recessive trait."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metabolic defect characterized by excretion of excessive amounts of cystine in the urine and inherited as an autosomal recessive trait.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metabolic defect characterized by excretion of excessive amounts of cystine in the urine and inherited as an autosomal recessive trait.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cystinuria designates a metabolic defect characterized by excretion of excessive amounts of cystine in the urine and inherited as an autosomal recessive trait."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hemianopia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blindness in one half of the visual field of one or both eyes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blindness in one half of the visual field of one or both eyes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemianopia designates blindness in one half of the visual field of one or both eyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blindness in one half of the visual field of one or both eyes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blindness in one half of the visual field of one or both eyes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemianopia designates blindness in one half of the visual field of one or both eyes."*

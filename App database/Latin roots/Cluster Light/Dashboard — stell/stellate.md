@@ -5,13 +5,6 @@ status: unread
 ---
 # stellate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged like rays or radii; radiating from a common center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arranged like rays or radii; radiating from a common center.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Then it began to scramble all over the oval stellated globe of the tiny blossoms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged like rays or radii; radiating from a common center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arranged like rays or radii; radiating from a common center.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Then it began to scramble all over the oval stellated globe of the tiny blossoms."*

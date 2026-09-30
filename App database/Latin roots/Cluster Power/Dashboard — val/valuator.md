@@ -5,13 +5,6 @@ status: unread
 ---
 # valuator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who estimates officially the worth or value or quality of things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who estimates officially the worth or value or quality of things.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I fell into converse with several farmers and made arrangements with one to take his young pigs at valuation--which I judged a good affair to me, his valuator being largely indebted to me in the line of bone manures and feeding stuffs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who estimates officially the worth or value or quality of things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who estimates officially the worth or value or quality of things.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I fell into converse with several farmers and made arrangements with one to take his young pigs at valuation--which I judged a good affair to me, his valuator being largely indebted to me in the line of bone manures and feeding stuffs."*

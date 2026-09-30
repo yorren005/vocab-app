@@ -5,15 +5,6 @@ status: unread
 ---
 # firmament
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The apparent surface of the imaginary sphere on which celestial bodies appear to be projected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The apparent surface of the imaginary sphere on which celestial bodies appear to be projected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could be well mov’d, if I were as you; If I could pray to move, prayers would move me: But I am constant as the northern star, Of whose true-fix’d and resting quality There is no fellow in the firmament."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I should have been that I am, had the maidenliest star in the firmament twinkled on my bastardizing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With the eyes of heavy mind I see thy glory like a shooting star Fall to the base earth from the firmament."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The apparent surface of the imaginary sphere on which celestial bodies appear to be projected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The apparent surface of the imaginary sphere on which celestial bodies appear to be projected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could be well mov’d, if I were as you; If I could pray to move, prayers would move me: But I am constant as the northern star, Of whose true-fix’d and resting quality There is no fellow in the firmament."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I should have been that I am, had the maidenliest star in the firmament twinkled on my bastardizing."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With the eyes of heavy mind I see thy glory like a shooting star Fall to the base earth from the firmament."*

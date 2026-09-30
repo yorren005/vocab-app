@@ -5,15 +5,6 @@ status: unread
 ---
 # provoking
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Call forth (emotions, feelings, and responses).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evoke or provoke to appear or occur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I now perceive it was not altogether your brother’s evil disposition made him seek his death; but a provoking merit, set a-work by a reproveable badness in himself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, but he prated, And spoke such scurvy and provoking terms Against your honour, That with the little godliness I have, I did full hard forbear him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Ma looked at me in that provoking way of hers as if I wasn’t in sight, but I was quite determined to be taught to dance, and so I went to Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Call forth (emotions, feelings, and responses).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evoke or provoke to appear or occur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I now perceive it was not altogether your brother’s evil disposition made him seek his death; but a provoking merit, set a-work by a reproveable badness in himself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, but he prated, And spoke such scurvy and provoking terms Against your honour, That with the little godliness I have, I did full hard forbear him."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Ma looked at me in that provoking way of hers as if I wasn’t in sight, but I was quite determined to be taught to dance, and so I went to Mr."*

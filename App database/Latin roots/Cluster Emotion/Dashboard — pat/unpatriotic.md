@@ -5,13 +5,6 @@ status: unread
 ---
 # unpatriotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing lack of love for your country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing lack of love for your country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"You expressed, besides, your apprehension, that the unpatriotic prejudices of my countrymen would not allow fair play to such a work as that of which I endeavoured to demonstrate the probable success."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing lack of love for your country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing lack of love for your country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"You expressed, besides, your apprehension, that the unpatriotic prejudices of my countrymen would not allow fair play to such a work as that of which I endeavoured to demonstrate the probable success."*

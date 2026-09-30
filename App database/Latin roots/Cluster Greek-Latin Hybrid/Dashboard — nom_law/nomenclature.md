@@ -5,15 +5,6 @@ status: unread
 ---
 # nomenclature
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of words used to name things in a particular discipline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of words used to name things in a particular discipline.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He seemed to be of too strange and mysterious a nature to belong to any variety among those of popular nomenclature."*
-> - 📜 **Algis Budrys (*Citadel*):** *"I keep forgetting about proper nomenclature." "So do I, Mary, so do I," Marlowe sighed."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He seemed to be of too strange and mysterious a nature to belong to any variety among those of popular nomenclature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of words used to name things in a particular discipline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of words used to name things in a particular discipline.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He seemed to be of too strange and mysterious a nature to belong to any variety among those of popular nomenclature."*
+> - 📜 **Algis Budrys (*Citadel*):** *"I keep forgetting about proper nomenclature." "So do I, Mary, so do I," Marlowe sighed."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He seemed to be of too strange and mysterious a nature to belong to any variety among those of popular nomenclature."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # admission
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of admitting someone to enter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acknowledgment of the truth of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He doth rely on none; But carries on the stream of his dispose, Without observance or respect of any, In will peculiar and in self-admission."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The old lady relaxes, consents to the admission of the visitors as a favour, and dismisses Rosa."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The policeman considers him an imbecile civilian, a remnant of the barbarous watchmen times, but gives him admission as something that must be borne with until government shall abolish him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of admitting someone to enter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acknowledgment of the truth of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He doth rely on none; But carries on the stream of his dispose, Without observance or respect of any, In will peculiar and in self-admission."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old lady relaxes, consents to the admission of the visitors as a favour, and dismisses Rosa."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The policeman considers him an imbecile civilian, a remnant of the barbarous watchmen times, but gives him admission as something that must be borne with until government shall abolish him."*

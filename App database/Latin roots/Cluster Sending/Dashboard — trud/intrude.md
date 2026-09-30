@@ -5,15 +5,6 @@ status: unread
 ---
 # intrude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enter uninvited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enter unlawfully on someone's property.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, say they are vile and false: As where’s that palace whereinto foul things Sometimes intrude not?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Chiron, thy years wants wit, thy wit wants edge And manners, to intrude where I am graced, And may, for aught thou knowest, affected be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should the worm intrude the maiden bud?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enter uninvited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enter unlawfully on someone's property.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, say they are vile and false: As where’s that palace whereinto foul things Sometimes intrude not?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Chiron, thy years wants wit, thy wit wants edge And manners, to intrude where I am graced, And may, for aught thou knowest, affected be."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should the worm intrude the maiden bud?"*

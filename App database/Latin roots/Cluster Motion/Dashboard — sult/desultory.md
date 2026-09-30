@@ -5,15 +5,6 @@ status: unread
 ---
 # desultory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by lack of definite plan or regularity or purpose; jumping from one thing to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by lack of definite plan or regularity or purpose; jumping from one thing to another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"My poor life and heart, how weak I am!” she moaned, in a relaxed, desultory way, heedless of Liddy’s presence."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That he was a desultory tentative student of something and everything might only have been predicted of him."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He spent years and years in desultory studies, undertakings, and meditations; he began to evince considerable indifference to social forms and observances."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by lack of definite plan or regularity or purpose; jumping from one thing to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by lack of definite plan or regularity or purpose; jumping from one thing to another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"My poor life and heart, how weak I am!” she moaned, in a relaxed, desultory way, heedless of Liddy’s presence."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That he was a desultory tentative student of something and everything might only have been predicted of him."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He spent years and years in desultory studies, undertakings, and meditations; he began to evince considerable indifference to social forms and observances."*

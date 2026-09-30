@@ -5,15 +5,6 @@ status: unread
 ---
 # ratification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Making something valid by formally ratifying or confirming it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making something valid by formally ratifying or confirming it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It has not a little contributed to the infirmities of the existing federal system, that it never had a ratification by the PEOPLE."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Owing its ratification to the law of a State, it has been contended that the same authority might repeal the law by which it was ratified."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is to be the assent and ratification of the several States, derived from the supreme authority in each State, the authority of the people themselves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making something valid by formally ratifying or confirming it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making something valid by formally ratifying or confirming it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It has not a little contributed to the infirmities of the existing federal system, that it never had a ratification by the PEOPLE."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Owing its ratification to the law of a State, it has been contended that the same authority might repeal the law by which it was ratified."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is to be the assent and ratification of the several States, derived from the supreme authority in each State, the authority of the people themselves."*

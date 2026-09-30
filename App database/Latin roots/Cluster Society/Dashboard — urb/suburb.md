@@ -5,15 +5,6 @@ status: unread
 ---
 # suburb
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A residential district located on the outskirts of a city.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A residential district located on the outskirts of a city.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"But the king of the city, whose name was Daizan, had a daughter, and when it was with her after the manner of women she went forth from the city and dwelt for a time in the suburb, for such was the custom of the place."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He hardly spoke a word the whole way out to the southern suburb, but sat with his chin upon his breast and his hat drawn over his eyes, sunk in the deepest thought."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I went to Nina San Croix in hiding and gave her a large sum of money, with which she purchased a residence in a retired part of the city, far up in the northern suburb."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A residential district located on the outskirts of a city.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A residential district located on the outskirts of a city.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"But the king of the city, whose name was Daizan, had a daughter, and when it was with her after the manner of women she went forth from the city and dwelt for a time in the suburb, for such was the custom of the place."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He hardly spoke a word the whole way out to the southern suburb, but sat with his chin upon his breast and his hat drawn over his eyes, sunk in the deepest thought."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I went to Nina San Croix in hiding and gave her a large sum of money, with which she purchased a residence in a retired part of the city, far up in the northern suburb."*

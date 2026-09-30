@@ -5,20 +5,6 @@ status: unread
 ---
 # schadenfreude
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Malicious enjoyment derived from observing someone else's misfortune
-> 2. **Nuance / Usage**: Enjoyment obtained from seeing or hearing about the troubles of others
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the schadenfreude withstood the storm*), direct object (*cleaved the schadenfreude*), or prepositional anchor (*amidst the schadenfreude*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Schopenhauer (*The Essays of Arthur Schopenhauer: On Human Nature*):** *"To feel envy is human, but to indulge other people’s malice is devilish. There is no more infallible sign of a thoroughly bad heart and extreme moral worthlessness than an inclination to a sheer and undisguised malignant joy, or Schadenfreude."*
-> - 📜 **Friedrich Nietzsche (*Human, All Too Human*):** *"Schadenfreude originated in the fact that everyone in some respects feels himself to be suffering and inferior."*
-> - 📜 **Juli Fraga (*The New York Times*):** *"The opposite of schadenfreude is freudenfreude, which describes finding joy in another person’s good fortune."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Pleasure, self-satisfaction, or malicious glee derived from witnessing or hearing about another person's misfortune.
+> 2. **Nuance / Usage**: A German compound of *Schaden* ("damage, harm") and *Freude* ("joy"), often triggered when an arrogant rival or hypocrite suffers a public downfall.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the schadenfreude withstood the storm*), direct object (*cleaved the schadenfreude*), or prepositional anchor (*amidst the schadenfreude*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Schopenhauer (*On Human Nature*):** *"There is no more infallible sign of a thoroughly bad heart than an inclination to a sheer and undisguised malignant joy, or **Schadenfreude**."*
+> - 📜 **Friedrich Nietzsche (*Human, All Too Human*):** *"**Schadenfreude** originated in the fact that everyone in some respects feels himself to be suffering and inferior."*
+> - 📜 **Juli Fraga (*The New York Times*):** *"The opposite of **schadenfreude** is freudenfreude, which describes finding genuine joy in another person’s good fortune."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # convocation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group gathered in response to a summons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of convoking.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A certain convocation of politic worms are e’en at him."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His timing was to be here when Camari broadcast his appeal for his convocation with INOR Heads of State."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Meanwhile, and especially in the light of the forthcoming convocation, I want you, Brad, to accelerate preparing our military fleet to take possession of the depot and that gaggle of transport and other vessels that constantly hover about."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group gathered in response to a summons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of convoking.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A certain convocation of politic worms are e’en at him."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His timing was to be here when Camari broadcast his appeal for his convocation with INOR Heads of State."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Meanwhile, and especially in the light of the forthcoming convocation, I want you, Brad, to accelerate preparing our military fleet to take possession of the depot and that gaggle of transport and other vessels that constantly hover about."*

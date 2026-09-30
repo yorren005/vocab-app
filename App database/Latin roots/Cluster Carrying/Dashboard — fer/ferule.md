@@ -5,15 +5,6 @@ status: unread
 ---
 # ferule
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A switch (a stick or cane or flat paddle) used to punish children.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A switch (a stick or cane or flat paddle) used to punish children.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Come, come, you old Smut, there, bear a hand, and let’s have that ferule and buckle-screw; I’ll be ready for them presently."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Come, come, you old Smut, there, bear a hand, and let’s have that ferule and buckle-screw; I’ll be ready for them presently."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It was but half-hospitality to let her remain outside; to punish him for which Isabel administered innumerable taps with the ferule of her straight young wit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A switch (a stick or cane or flat paddle) used to punish children.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A switch (a stick or cane or flat paddle) used to punish children.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Come, come, you old Smut, there, bear a hand, and let’s have that ferule and buckle-screw; I’ll be ready for them presently."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Come, come, you old Smut, there, bear a hand, and let’s have that ferule and buckle-screw; I’ll be ready for them presently."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It was but half-hospitality to let her remain outside; to punish him for which Isabel administered innumerable taps with the ferule of her straight young wit."*

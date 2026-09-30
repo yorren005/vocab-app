@@ -5,13 +5,6 @@ status: unread
 ---
 # assimilator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone (especially a child) who learns (as from a teacher) or takes up knowledge or beliefs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone (especially a child) who learns (as from a teacher) or takes up knowledge or beliefs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, assimilator designates someone (especially a child) who learns (as from a teacher) or takes up knowledge or beliefs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone (especially a child) who learns (as from a teacher) or takes up knowledge or beliefs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone (especially a child) who learns (as from a teacher) or takes up knowledge or beliefs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, assimilator designates someone (especially a child) who learns (as from a teacher) or takes up knowledge or beliefs."*

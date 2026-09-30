@@ -5,13 +5,6 @@ status: unread
 ---
 # fluidram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A british imperial capacity measure (liquid or dry) equal to 60 minims or 3.5516 cubic centimeters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of capacity or volume in the apothecary system equal to one eighth of a fluid ounce.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluidram designates a british imperial capacity measure (liquid or dry) equal to 60 minims or 3.5516 cubic centimeters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A british imperial capacity measure (liquid or dry) equal to 60 minims or 3.5516 cubic centimeters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of capacity or volume in the apothecary system equal to one eighth of a fluid ounce.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluidram designates a british imperial capacity measure (liquid or dry) equal to 60 minims or 3.5516 cubic centimeters."*

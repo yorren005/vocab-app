@@ -5,15 +5,6 @@ status: unread
 ---
 # installment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A payment of part of a debt; usually paid at regular intervals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part of a broadcast serial.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I told them in my last letter but three," continued Ukridge complainingly, "that I proposed to let them have the eggs on the _Times_ installment system, and they said I was frivolous."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He bought a hat for three and sixpence, and got the suits and the boots on the installment system, paying a small sum in advance, as earnest of more to come."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"On the 20th, the day following, the first installment of patients arrived, two hundred and eighteen suffering and famished men from the rebel prison of Belle Isle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A payment of part of a debt; usually paid at regular intervals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part of a broadcast serial.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I told them in my last letter but three," continued Ukridge complainingly, "that I proposed to let them have the eggs on the _Times_ installment system, and they said I was frivolous."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He bought a hat for three and sixpence, and got the suits and the boots on the installment system, paying a small sum in advance, as earnest of more to come."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"On the 20th, the day following, the first installment of patients arrived, two hundred and eighteen suffering and famished men from the rebel prison of Belle Isle."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # fanned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strike out (a batter), (of a pitcher).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (an emotion) fiercer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Coggan and Gabriel put about their horses, and, fanned by the velvety air of this July night, retraced the road by which they had come."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A heated breeze from the south slowly fanned the summits of lofty objects, and in the sky dashes of buoyant cloud were sailing in a course at right angles to that of another stratum, neither of them in the direction of the breeze below."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A hot breeze, as if breathed from the parted lips of some dragon about to swallow the globe, fanned him from the south, while directly opposite in the north rose a grim misshapen body of cloud, in the very teeth of the wind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strike out (a batter), (of a pitcher).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (an emotion) fiercer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Coggan and Gabriel put about their horses, and, fanned by the velvety air of this July night, retraced the road by which they had come."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A heated breeze from the south slowly fanned the summits of lofty objects, and in the sky dashes of buoyant cloud were sailing in a course at right angles to that of another stratum, neither of them in the direction of the breeze below."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A hot breeze, as if breathed from the parted lips of some dragon about to swallow the globe, fanned him from the south, while directly opposite in the north rose a grim misshapen body of cloud, in the very teeth of the wind."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # macrodantin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Derivative of nitrofuran used as an antibacterial medicine (trade name macrodantin) effective against a broad range of gram-positive and gram-negative bacteria; used to treat infections of the urinary tract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derivative of nitrofuran used as an antibacterial medicine (trade name macrodantin) effective against a broad range of gram-positive and gram-negative bacteria; used to treat infections of the urinary tract.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrodantin designates derivative of nitrofuran used as an antibacterial medicine (trade name macrodantin) effective against a broad range of gram-positive and gram-negative bacteria; used to treat infections of the urinary tract."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Derivative of nitrofuran used as an antibacterial medicine (trade name macrodantin) effective against a broad range of gram-positive and gram-negative bacteria; used to treat infections of the urinary tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derivative of nitrofuran used as an antibacterial medicine (trade name macrodantin) effective against a broad range of gram-positive and gram-negative bacteria; used to treat infections of the urinary tract.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrodantin designates derivative of nitrofuran used as an antibacterial medicine (trade name macrodantin) effective against a broad range of gram-positive and gram-negative bacteria; used to treat infections of the urinary tract."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # erotica
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Creative activity (writing or pictures or films etc.) of no literary or artistic value other than to stimulate sexual desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creative activity (writing or pictures or films etc.) of no literary or artistic value other than to stimulate sexual desire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erotica designates creative activity (writing or pictures or films etc.) of no literary or artistic value other than to stimulate sexual desire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Creative activity (writing or pictures or films etc.) of no literary or artistic value other than to stimulate sexual desire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creative activity (writing or pictures or films etc.) of no literary or artistic value other than to stimulate sexual desire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erotica designates creative activity (writing or pictures or films etc.) of no literary or artistic value other than to stimulate sexual desire."*

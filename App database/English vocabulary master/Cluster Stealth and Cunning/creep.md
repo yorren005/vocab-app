@@ -5,20 +5,6 @@ status: unread
 ---
 # creep
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Go very slowly
-> 2. **Nuance / Usage**: Move slowly on hands and knees
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to creep the target*) and intransitive clauses (*creeping against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"did the physician, in his dark way, creep frightfully near the secret."*
-> - 📜 **Bram Stoker (*Dracula*):** *"us, the shadows of the evening began to creep round us."*
-> - 📜 **Bram Stoker (*Dracula*):** *"really tired, and we intended to creep off to bed as soon as we could."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To move slowly, quietly, and cautiously close to the ground in order to avoid detection or approach a target unseen.
+> 2. **Nuance / Usage**: Extended figuratively to gradual, imperceptible progression (such as shadows, age, or doubt advancing unnoticed) or to the prickling sensation of fear on the skin (*made his flesh creep*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (intransitive) and Noun.
+> - **Syntactic Constructions**: Operates in intransitive clauses with directional prepositions (*to creep along the wall*, *creeping into the mind*).
+> - **Collocations & Registers**: Atmospheric and suspenseful narrative registers; collocated with *shadows*, *silence*, *stealthily*, and *flesh*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Thus did the physician, in his dark and secretive way, **creep** frightfully near the secret."*
+> - 📜 **Bram Stoker (*Dracula*):** *"As the sun sank lower behind the mountain peaks, the shadows of the evening began to **creep** round us."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Tomorrow, and tomorrow, and tomorrow, **creeps** in this petty pace from day to day, to the last syllable of recorded time."*

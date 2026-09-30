@@ -5,13 +5,6 @@ status: unread
 ---
 # tabernacles
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A major jewish festival beginning on the eve of the 15th of tishri and commemorating the shelter of the israelites during their 40 years in the wilderness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mormon temple.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Man's works are graven, cunning, and skilful On earth, where his tabernacles are; But the sea is wanton, the sea is wilful, And who shall mend her and who shall mar?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major jewish festival beginning on the eve of the 15th of tishri and commemorating the shelter of the israelites during their 40 years in the wilderness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mormon temple.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Man's works are graven, cunning, and skilful On earth, where his tabernacles are; But the sea is wanton, the sea is wilful, And who shall mend her and who shall mar?"*

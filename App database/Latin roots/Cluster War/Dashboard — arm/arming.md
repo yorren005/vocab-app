@@ -5,15 +5,6 @@ status: unread
 ---
 # arming
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of equiping with weapons in preparation for war.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prepare oneself for a military confrontation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and the particular confirmations, point from point, to the full arming of the verity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now play him me, Patroclus, Arming to answer in a night alarm.’ And then, forsooth, the faint defects of age Must be the scene of mirth: to cough and spit And, with a palsy fumbling on his gorget, Shake in and out the rivet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hector, by this, is arming him in Troy; Ajax, your guard, stays to conduct you home."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of equiping with weapons in preparation for war.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prepare oneself for a military confrontation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and the particular confirmations, point from point, to the full arming of the verity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now play him me, Patroclus, Arming to answer in a night alarm.’ And then, forsooth, the faint defects of age Must be the scene of mirth: to cough and spit And, with a palsy fumbling on his gorget, Shake in and out the rivet."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hector, by this, is arming him in Troy; Ajax, your guard, stays to conduct you home."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # jubilate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Celebrate a jubilee.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To express great joy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Suddenly Leonore called back in jubilating tones, "Salo, Salo, did you hear?" Salo had heard her call but comprehended nothing further."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Celebrate a jubilee.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To express great joy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Suddenly Leonore called back in jubilating tones, "Salo, Salo, did you hear?" Salo had heard her call but comprehended nothing further."*

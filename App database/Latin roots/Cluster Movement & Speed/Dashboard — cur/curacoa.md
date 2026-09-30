@@ -5,13 +5,6 @@ status: unread
 ---
 # curacoa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flavored with sour orange peel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flavored with sour orange peel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Lashings of stuff we put up: port wine and sherry and curacoa to which we did ample justice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flavored with sour orange peel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flavored with sour orange peel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Lashings of stuff we put up: port wine and sherry and curacoa to which we did ample justice."*

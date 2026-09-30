@@ -5,13 +5,6 @@ status: unread
 ---
 # callosotomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Severing the corpus callosum so that communication between the cerebral hemispheres is interrupted (in cases of severe intractable epilepsy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severing the corpus callosum so that communication between the cerebral hemispheres is interrupted (in cases of severe intractable epilepsy).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callosotomy designates severing the corpus callosum so that communication between the cerebral hemispheres is interrupted (in cases of severe intractable epilepsy)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severing the corpus callosum so that communication between the cerebral hemispheres is interrupted (in cases of severe intractable epilepsy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severing the corpus callosum so that communication between the cerebral hemispheres is interrupted (in cases of severe intractable epilepsy).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callosotomy designates severing the corpus callosum so that communication between the cerebral hemispheres is interrupted (in cases of severe intractable epilepsy)."*

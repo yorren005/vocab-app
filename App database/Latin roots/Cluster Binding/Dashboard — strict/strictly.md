@@ -5,15 +5,6 @@ status: unread
 ---
 # strictly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restricted to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a stringent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, by no means; she hath so strictly tied Her to her chamber, that ’tis impossible."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King hath strictly charged the contrary."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Lippo on his arrival home from school had posted himself there to see that his mother's orders were strictly kept."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Restricted to something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a stringent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, by no means; she hath so strictly tied Her to her chamber, that ’tis impossible."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King hath strictly charged the contrary."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Lippo on his arrival home from school had posted himself there to see that his mother's orders were strictly kept."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # arrogant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing feelings of unwarranted importance out of overbearing pride.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing feelings of unwarranted importance out of overbearing pride.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The law Protects not us; then why should we be tender To let an arrogant piece of flesh threat us, Play judge and executioner all himself, For we do fear the law?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Arrogant Winchester, that haughty prelate Whom Henry, our late sovereign, ne’er could brook?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He dares not calm his contumelious spirit, Nor cease to be an arrogant controller, Though Suffolk dare him twenty thousand times."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing feelings of unwarranted importance out of overbearing pride.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing feelings of unwarranted importance out of overbearing pride.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The law Protects not us; then why should we be tender To let an arrogant piece of flesh threat us, Play judge and executioner all himself, For we do fear the law?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Arrogant Winchester, that haughty prelate Whom Henry, our late sovereign, ne’er could brook?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He dares not calm his contumelious spirit, Nor cease to be an arrogant controller, Though Suffolk dare him twenty thousand times."*

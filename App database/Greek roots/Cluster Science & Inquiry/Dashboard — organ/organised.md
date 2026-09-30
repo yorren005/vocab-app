@@ -5,15 +5,6 @@ status: unread
 ---
 # organised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring order and organization to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Create (as an entity).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"There were many, of course, in the Church who had no sympathy with this movement, and who, if they had been properly organised and led, might have been able to defeat it."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"The trouble is that I've no gift for organised charity."*
-> - 📜 **Bram Stoker (*Dracula*):** *"It was a pity that we had not some better organised plan of attack, for even at the moment I wondered what we were to do."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring order and organization to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Create (as an entity).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"There were many, of course, in the Church who had no sympathy with this movement, and who, if they had been properly organised and led, might have been able to defeat it."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"The trouble is that I've no gift for organised charity."*
+> - 📜 **Bram Stoker (*Dracula*):** *"It was a pity that we had not some better organised plan of attack, for even at the moment I wondered what we were to do."*

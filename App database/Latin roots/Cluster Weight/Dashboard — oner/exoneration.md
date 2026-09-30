@@ -5,13 +5,6 @@ status: unread
 ---
 # exoneration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being relieved from blame or obligation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of vindicating or defending against criticism or censure etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Why, my dear Miss Archer,” he began to explain with the most considerate eagerness, “I don’t offer you any exoneration from life or from any chances or dangers whatever."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being relieved from blame or obligation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of vindicating or defending against criticism or censure etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Why, my dear Miss Archer,” he began to explain with the most considerate eagerness, “I don’t offer you any exoneration from life or from any chances or dangers whatever."*

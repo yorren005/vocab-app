@@ -5,15 +5,6 @@ status: unread
 ---
 # tact
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consideration in dealing with others and avoiding giving offense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consideration in dealing with others and avoiding giving offense.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"You know, just accustom yourself to talk it over, with your tact and in your quiet way, with him and Ada, and see what you all make of it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Even what she read and said seemed to us to be ill-chosen for such auditors, if it had been imparted ever so modestly and with ever so much tact."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Nothing but Miss Summerson’s fine tact, he said, would have found this out for him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consideration in dealing with others and avoiding giving offense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consideration in dealing with others and avoiding giving offense.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"You know, just accustom yourself to talk it over, with your tact and in your quiet way, with him and Ada, and see what you all make of it."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Even what she read and said seemed to us to be ill-chosen for such auditors, if it had been imparted ever so modestly and with ever so much tact."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Nothing but Miss Summerson’s fine tact, he said, would have found this out for him."*

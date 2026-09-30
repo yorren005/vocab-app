@@ -5,20 +5,6 @@ status: unread
 ---
 # cower
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (transitive) to cause to cower; to frighten into submission
-> 2. **Nuance / Usage**: (intransitive) to crouch or cringe, or to avoid or shy away from something, in fear
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to cower the target*) and intransitive clauses (*cowering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Richard Carpenter (screenwriter) (*Catweazle*):** *"Carrot ran past him to get to the barrel first, and peered down at the cowering Catweazle. “No rats, Dad,” he said. “What's that terrible pong, then?” said Mr Bennett, sniffing."*
-> - 📜 **Oliver Goldsmith (*{{w*):** *"Some sterner virtues o’er the mountain’s breast<br>May sit, like falcons, cowering on the nest"*
-> - 📜 **Classic Author (*Annual Report of the Bureau of Labor and Industry of Kansas*):** *"This done, their doubts will vanish, and they will stand confronted by an object lesson which must have the effect either to arouse them to a determination to banish despotism from the land, or cower them into submission and servitude."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: (transitive) to cause to cower; to frighten into submission
+> 2. **Nuance / Usage**: (intransitive) to crouch or cringe, or to avoid or shy away from something, in fear
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to cower the target*) and intransitive clauses (*cowering against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Richard Carpenter (screenwriter) (*Catweazle*):** *"Carrot ran past him to get to the barrel first, and peered down at the cowering Catweazle. “No rats, Dad,” he said. “What's that terrible pong, then?” said Mr Bennett, sniffing."*
+> - 📜 **Oliver Goldsmith (*{{w*):** *"Some sterner virtues o’er the mountain’s breast<br>May sit, like falcons, cowering on the nest"*
+> - 📜 **Classic Author (*Annual Report of the Bureau of Labor and Industry of Kansas*):** *"This done, their doubts will vanish, and they will stand confronted by an object lesson which must have the effect either to arouse them to a determination to banish despotism from the land, or cower them into submission and servitude."*

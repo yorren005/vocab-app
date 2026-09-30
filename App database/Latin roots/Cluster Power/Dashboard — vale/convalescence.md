@@ -5,15 +5,6 @@ status: unread
 ---
 # convalescence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gradual healing (through rest) after sickness or injury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gradual healing (through rest) after sickness or injury.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here she sat down and hastily scribbled a note between the small convulsive sobs of convalescence which follow a fit of crying as a ground-swell follows a storm."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And how their num’rous creditors rejoice; But just as hopes to warm enjoyment rise, Cry Convalescence! and the vision flies."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Bickerdyke personally, and all has been superintended by her." After the close of the Atlanta Campaign and the convalescence of the greater part of the wounded, Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gradual healing (through rest) after sickness or injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gradual healing (through rest) after sickness or injury.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here she sat down and hastily scribbled a note between the small convulsive sobs of convalescence which follow a fit of crying as a ground-swell follows a storm."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And how their num’rous creditors rejoice; But just as hopes to warm enjoyment rise, Cry Convalescence! and the vision flies."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Bickerdyke personally, and all has been superintended by her." After the close of the Atlanta Campaign and the convalescence of the greater part of the wounded, Mrs."*

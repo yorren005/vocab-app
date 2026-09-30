@@ -5,13 +5,6 @@ status: unread
 ---
 # demodulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (electronics) the reception of a signal by extracting it from the carrier wave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (electronics) the reception of a signal by extracting it from the carrier wave.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demodulation designates (electronics) the reception of a signal by extracting it from the carrier wave."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (electronics) the reception of a signal by extracting it from the carrier wave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (electronics) the reception of a signal by extracting it from the carrier wave.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demodulation designates (electronics) the reception of a signal by extracting it from the carrier wave."*

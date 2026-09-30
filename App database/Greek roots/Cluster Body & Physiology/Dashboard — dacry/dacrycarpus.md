@@ -5,13 +5,6 @@ status: unread
 ---
 # dacrycarpus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen coniferous shrubs or trees of new zealand to malaysia and philippines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen coniferous shrubs or trees of new zealand to malaysia and philippines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dacrycarpus designates evergreen coniferous shrubs or trees of new zealand to malaysia and philippines."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen coniferous shrubs or trees of new zealand to malaysia and philippines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen coniferous shrubs or trees of new zealand to malaysia and philippines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dacrycarpus designates evergreen coniferous shrubs or trees of new zealand to malaysia and philippines."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # stair-rod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rod that holds a stair-carpet in the angle between two steps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rod that holds a stair-carpet in the angle between two steps.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stair-rod designates a rod that holds a stair-carpet in the angle between two steps."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rod that holds a stair-carpet in the angle between two steps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rod that holds a stair-carpet in the angle between two steps.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stair-rod designates a rod that holds a stair-carpet in the angle between two steps."*

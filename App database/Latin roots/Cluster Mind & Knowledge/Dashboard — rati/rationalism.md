@@ -5,13 +5,6 @@ status: unread
 ---
 # rationalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) the doctrine that knowledge is acquired by reason without resort to experience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological doctrine that human reason rather than divine revelation establishes religious truth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rationalism designates (philosophy) the doctrine that knowledge is acquired by reason without resort to experience."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) the doctrine that knowledge is acquired by reason without resort to experience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological doctrine that human reason rather than divine revelation establishes religious truth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rationalism designates (philosophy) the doctrine that knowledge is acquired by reason without resort to experience."*

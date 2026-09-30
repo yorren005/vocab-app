@@ -5,15 +5,6 @@ status: unread
 ---
 # provocative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving or tending to provoke, excite, or stimulate; stimulating discussion or exciting controversy; ; ; - anthony trollope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exciting sexual desire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"They must be neither provocative nor supine, neither fanatical nor excessively liberal, in their exposition of the fundamental and distinguishing features of their Faith."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The Revolution was a grand thing!” continued Monsieur Pierre, betraying by this desperate and provocative proposition his extreme youth and his wish to express all that was in his mind."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Besides that, he was beginning to feel for the pretty and provocative Mademoiselle Bourienne that passionate animal feeling which was apt to master him with great suddenness and prompt him to the coarsest and most reckless actions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving or tending to provoke, excite, or stimulate; stimulating discussion or exciting controversy; ; ; - anthony trollope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exciting sexual desire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"They must be neither provocative nor supine, neither fanatical nor excessively liberal, in their exposition of the fundamental and distinguishing features of their Faith."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The Revolution was a grand thing!” continued Monsieur Pierre, betraying by this desperate and provocative proposition his extreme youth and his wish to express all that was in his mind."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Besides that, he was beginning to feel for the pretty and provocative Mademoiselle Bourienne that passionate animal feeling which was apt to master him with great suddenness and prompt him to the coarsest and most reckless actions."*

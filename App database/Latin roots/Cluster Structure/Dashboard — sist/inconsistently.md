@@ -5,15 +5,6 @@ status: unread
 ---
 # inconsistently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without showing consistency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without showing consistency.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The self-denying pair had been occupied in coaxing the appetites of some of their sick parishioners, whom they, somewhat inconsistently, tried to keep imprisoned in the flesh, their own appetites being quite forgotten."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He seemed surprised—very inconsistently so, as he had just told me to go."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"But a similar distinction is inconsistently preserved by many writers in the case of material things."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without showing consistency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without showing consistency.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The self-denying pair had been occupied in coaxing the appetites of some of their sick parishioners, whom they, somewhat inconsistently, tried to keep imprisoned in the flesh, their own appetites being quite forgotten."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He seemed surprised—very inconsistently so, as he had just told me to go."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"But a similar distinction is inconsistently preserved by many writers in the case of material things."*

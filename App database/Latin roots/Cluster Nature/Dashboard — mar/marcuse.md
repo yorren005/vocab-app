@@ -5,13 +5,6 @@ status: unread
 ---
 # marcuse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states political philosopher (born in germany) concerned about the dehumanizing effects of capitalism and modern technology (1898-1979).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states political philosopher (born in germany) concerned about the dehumanizing effects of capitalism and modern technology (1898-1979).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marcuse designates united states political philosopher (born in germany) concerned about the dehumanizing effects of capitalism and modern technology (1898-1979)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states political philosopher (born in germany) concerned about the dehumanizing effects of capitalism and modern technology (1898-1979).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states political philosopher (born in germany) concerned about the dehumanizing effects of capitalism and modern technology (1898-1979).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marcuse designates united states political philosopher (born in germany) concerned about the dehumanizing effects of capitalism and modern technology (1898-1979)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # silvan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spirit that lives in or frequents the woods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of wooded regions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"To the best archer a prize was to be awarded, being a bugle-horn, mounted with silver, and a silken baldric richly ornamented with a medallion of St Hubert, the patron of silvan sport."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"The diminished list of competitors for silvan fame still amounted to eight."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Around, and at a distance from them, were seen many a bold yeoman, whose silvan dress and weatherbeaten countenances showed the ordinary nature of their occupation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spirit that lives in or frequents the woods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of wooded regions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"To the best archer a prize was to be awarded, being a bugle-horn, mounted with silver, and a silken baldric richly ornamented with a medallion of St Hubert, the patron of silvan sport."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"The diminished list of competitors for silvan fame still amounted to eight."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Around, and at a distance from them, were seen many a bold yeoman, whose silvan dress and weatherbeaten countenances showed the ordinary nature of their occupation."*

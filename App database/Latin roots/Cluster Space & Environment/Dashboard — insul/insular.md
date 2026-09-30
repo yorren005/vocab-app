@@ -5,15 +5,6 @@ status: unread
 ---
 # insular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of or situated on an island.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggestive of the isolated life of an island; - leonard michaels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There now is your insular city of the Manhattoes, belted round by wharves as Indian isles by coral reefs—commerce surrounds it with her surf."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Each silent worshipper seemed purposely sitting apart from the other, as if each silent grief were insular and incommunicable."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I saw that under the mask of these half humorous inuendoes, this old seaman, as an insulated Quakerish Nantucketer, was full of his insular prejudices, and rather distrustful of all aliens, unless they hailed from Cape Cod or the Vineyard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of or situated on an island.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggestive of the isolated life of an island; - leonard michaels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There now is your insular city of the Manhattoes, belted round by wharves as Indian isles by coral reefs—commerce surrounds it with her surf."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Each silent worshipper seemed purposely sitting apart from the other, as if each silent grief were insular and incommunicable."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I saw that under the mask of these half humorous inuendoes, this old seaman, as an insulated Quakerish Nantucketer, was full of his insular prejudices, and rather distrustful of all aliens, unless they hailed from Cape Cod or the Vineyard."*

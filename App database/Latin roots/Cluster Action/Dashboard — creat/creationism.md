@@ -5,13 +5,6 @@ status: unread
 ---
 # creationism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The literal belief in the account of creation given in the book of genesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The literal belief in the account of creation given in the book of genesis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creationism designates the literal belief in the account of creation given in the book of genesis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The literal belief in the account of creation given in the book of genesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The literal belief in the account of creation given in the book of genesis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creationism designates the literal belief in the account of creation given in the book of genesis."*

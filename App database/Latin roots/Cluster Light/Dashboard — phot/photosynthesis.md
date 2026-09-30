@@ -5,13 +5,6 @@ status: unread
 ---
 # photosynthesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Synthesis of compounds with the aid of radiant energy (especially in plants).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Synthesis of compounds with the aid of radiant energy (especially in plants).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photosynthesis designates synthesis of compounds with the aid of radiant energy (especially in plants)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Synthesis of compounds with the aid of radiant energy (especially in plants).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Synthesis of compounds with the aid of radiant energy (especially in plants).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photosynthesis designates synthesis of compounds with the aid of radiant energy (especially in plants)."*

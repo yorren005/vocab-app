@@ -5,15 +5,6 @@ status: unread
 ---
 # martingale
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A harness strap that connects the nose piece to the girth; prevents the horse from throwing back its head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spar under the bowsprit of a sailboat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"At this moment, leaning on the forecastle bulwark, I saw below me Ned Land grappling the martingale in one hand, brandishing his terrible harpoon in the other, scarcely twenty feet from the motionless animal."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Major Martingale never thought about asking to see the marriage licence, Captain Cinqbars was perfectly enchanted with her skill in making punch."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Ask Martingale; he was in Spain, aide-de-camp to General Blazes." "He was a very kind old man, Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A harness strap that connects the nose piece to the girth; prevents the horse from throwing back its head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spar under the bowsprit of a sailboat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"At this moment, leaning on the forecastle bulwark, I saw below me Ned Land grappling the martingale in one hand, brandishing his terrible harpoon in the other, scarcely twenty feet from the motionless animal."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Major Martingale never thought about asking to see the marriage licence, Captain Cinqbars was perfectly enchanted with her skill in making punch."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Ask Martingale; he was in Spain, aide-de-camp to General Blazes." "He was a very kind old man, Mr."*

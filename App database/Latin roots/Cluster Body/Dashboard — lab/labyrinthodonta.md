@@ -5,13 +5,6 @@ status: unread
 ---
 # labyrinthodonta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct amphibians typically resembling heavy-bodied salamanders or crocodiles and having a solid flattened skull and conical teeth; devonian through triassic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct amphibians typically resembling heavy-bodied salamanders or crocodiles and having a solid flattened skull and conical teeth; devonian through triassic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labyrinthodonta designates extinct amphibians typically resembling heavy-bodied salamanders or crocodiles and having a solid flattened skull and conical teeth; devonian through triassic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct amphibians typically resembling heavy-bodied salamanders or crocodiles and having a solid flattened skull and conical teeth; devonian through triassic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct amphibians typically resembling heavy-bodied salamanders or crocodiles and having a solid flattened skull and conical teeth; devonian through triassic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, labyrinthodonta designates extinct amphibians typically resembling heavy-bodied salamanders or crocodiles and having a solid flattened skull and conical teeth; devonian through triassic."*

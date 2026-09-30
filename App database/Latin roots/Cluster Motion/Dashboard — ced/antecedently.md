@@ -5,15 +5,6 @@ status: unread
 ---
 # antecedently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At an earlier time or formerly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At an earlier time or formerly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, by chance or by devilry, the ministrant was antecedently made interesting by being a handsome stranger who had evidently seen better days."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, by chance or by devilry, the ministrant was antecedently made interesting by being a handsome stranger who had evidently seen better days."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I was myself so much more antecedently conscious of my figures than of their setting--a too preliminary, a preferential interest in which struck me as in general such a putting of the cart before the horse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At an earlier time or formerly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At an earlier time or formerly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, by chance or by devilry, the ministrant was antecedently made interesting by being a handsome stranger who had evidently seen better days."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, by chance or by devilry, the ministrant was antecedently made interesting by being a handsome stranger who had evidently seen better days."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I was myself so much more antecedently conscious of my figures than of their setting--a too preliminary, a preferential interest in which struck me as in general such a putting of the cart before the horse."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # intuitively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intuitive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intuitive manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She knew intuitively that servants and porters and waiters would far rather serve Hyde than her father."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He had determined not to ask her to marry him till he was sure of her answer, but he was sure of it now, intuitively sure of it . . . the truth being that under his impassive manner impulse was driving him along like a leaf in the wind."*
-> - 📜 **Effie Afton (*Eventide*):** *"Bitterly she charged him with cold, unfeeling cruelty; for she intuitively perceived the drift of those few words."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intuitive manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intuitive manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"She knew intuitively that servants and porters and waiters would far rather serve Hyde than her father."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"He had determined not to ask her to marry him till he was sure of her answer, but he was sure of it now, intuitively sure of it . . . the truth being that under his impassive manner impulse was driving him along like a leaf in the wind."*
+> - 📜 **Effie Afton (*Eventide*):** *"Bitterly she charged him with cold, unfeeling cruelty; for she intuitively perceived the drift of those few words."*

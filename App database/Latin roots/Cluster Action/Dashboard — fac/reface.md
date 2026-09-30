@@ -5,13 +5,6 @@ status: unread
 ---
 # reface
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put a new facing on (a garment).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with a new facing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reface designates put a new facing on (a garment)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put a new facing on (a garment).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with a new facing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reface designates put a new facing on (a garment)."*

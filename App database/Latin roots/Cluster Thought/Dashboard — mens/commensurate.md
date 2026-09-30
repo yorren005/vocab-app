@@ -5,15 +5,6 @@ status: unread
 ---
 # commensurate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corresponding in size or degree or extent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Corresponding in size or degree or extent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"On a comparison of this extent with that of several countries in Europe, the practicability of rendering our system commensurate to it appears to be demonstrable."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But is not the fact an alarming proof of the danger resulting from a government which does not possess regular powers commensurate to its objects?"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The provision for defense must in this, as in all other cases, be made commensurate to the danger of attack."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corresponding in size or degree or extent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Corresponding in size or degree or extent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"On a comparison of this extent with that of several countries in Europe, the practicability of rendering our system commensurate to it appears to be demonstrable."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But is not the fact an alarming proof of the danger resulting from a government which does not possess regular powers commensurate to its objects?"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The provision for defense must in this, as in all other cases, be made commensurate to the danger of attack."*

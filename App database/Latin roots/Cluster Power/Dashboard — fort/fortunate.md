@@ -5,15 +5,6 @@ status: unread
 ---
 # fortunate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having unexpected good fortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supremely favored.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am most fortunate thus accidentally to encounter you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For you my staff of office did I break In Richard’s time, and posted day and night To meet you on the way, and kiss your hand, When yet you were in place and in account Nothing so strong and fortunate as I."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Resolve on this; thou shalt be fortunate If thou receive me for thy warlike mate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having unexpected good fortune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supremely favored.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am most fortunate thus accidentally to encounter you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For you my staff of office did I break In Richard’s time, and posted day and night To meet you on the way, and kiss your hand, When yet you were in place and in account Nothing so strong and fortunate as I."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Resolve on this; thou shalt be fortunate If thou receive me for thy warlike mate."*

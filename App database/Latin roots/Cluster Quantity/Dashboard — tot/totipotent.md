@@ -5,13 +5,6 @@ status: unread
 ---
 # totipotent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the ability to give rise to unlike cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the ability to give rise to unlike cells.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, totipotent designates having the ability to give rise to unlike cells."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the ability to give rise to unlike cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the ability to give rise to unlike cells.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, totipotent designates having the ability to give rise to unlike cells."*

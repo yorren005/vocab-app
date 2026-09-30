@@ -5,15 +5,6 @@ status: unread
 ---
 # persuade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Win approval or support for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause somebody to adopt a certain position, belief, or course of action; twist somebody's arm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, rather persuade him to hold his hands."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I cannot persuade thee Rather to show a noble grace to both parts Than seek the end of one, thou shalt no sooner March to assault thy country than to tread— Trust to’t, thou shalt not—on thy mother’s womb That brought thee to this world."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hadst thou thy wits, and didst persuade revenge, It could not move thus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Win approval or support for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause somebody to adopt a certain position, belief, or course of action; twist somebody's arm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, rather persuade him to hold his hands."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I cannot persuade thee Rather to show a noble grace to both parts Than seek the end of one, thou shalt no sooner March to assault thy country than to tread— Trust to’t, thou shalt not—on thy mother’s womb That brought thee to this world."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hadst thou thy wits, and didst persuade revenge, It could not move thus."*

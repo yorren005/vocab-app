@@ -5,13 +5,6 @@ status: unread
 ---
 # appositeness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appropriateness for the occasion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appropriateness for the occasion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But the chief peculiarity of his speech was its directness and appositeness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Appropriateness for the occasion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appropriateness for the occasion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But the chief peculiarity of his speech was its directness and appositeness."*

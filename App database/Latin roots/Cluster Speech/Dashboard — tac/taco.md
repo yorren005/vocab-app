@@ -5,13 +5,6 @@ status: unread
 ---
 # taco
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (ethnic slur) offensive term for a person of mexican descent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tortilla rolled cupped around a filling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taco designates (ethnic slur) offensive term for a person of mexican descent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (ethnic slur) offensive term for a person of mexican descent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tortilla rolled cupped around a filling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taco designates (ethnic slur) offensive term for a person of mexican descent."*

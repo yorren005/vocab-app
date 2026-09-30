@@ -5,13 +5,6 @@ status: unread
 ---
 # polygene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gene that by itself has little effect on the phenotype but which can act together with others to produce observable variations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gene that by itself has little effect on the phenotype but which can act together with others to produce observable variations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polygene designates a gene that by itself has little effect on the phenotype but which can act together with others to produce observable variations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gene that by itself has little effect on the phenotype but which can act together with others to produce observable variations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gene that by itself has little effect on the phenotype but which can act together with others to produce observable variations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polygene designates a gene that by itself has little effect on the phenotype but which can act together with others to produce observable variations."*

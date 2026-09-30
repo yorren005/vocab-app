@@ -5,15 +5,6 @@ status: unread
 ---
 # catechism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oral instruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manual for catechizing; specifically : a summary of religious doctrine often in the form of questions and answers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To say ay and no to these particulars is more than to answer in a catechism."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so ends my catechism. [_Exit._] SCENE II."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am just so near disgrace as that those who are put in authority over me (as the catechism goes) would far rather be without me than with me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Oral instruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manual for catechizing; specifically : a summary of religious doctrine often in the form of questions and answers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To say ay and no to these particulars is more than to answer in a catechism."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so ends my catechism. [_Exit._] SCENE II."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I am just so near disgrace as that those who are put in authority over me (as the catechism goes) would far rather be without me than with me."*

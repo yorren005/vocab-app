@@ -5,15 +5,6 @@ status: unread
 ---
 # procreate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have offspring or produce more individuals of a given animal or plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have offspring or produce more individuals of a given animal or plant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"In the begin- ing God created man in His, God's, image; but mor- 140:30 tals would procreate man, and make God in their own human image."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Those who stayed procreated, natural or clone, according to their customs or inclinations."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The emigrants procreated and populated their cities in the void."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have offspring or produce more individuals of a given animal or plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have offspring or produce more individuals of a given animal or plant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"In the begin- ing God created man in His, God's, image; but mor- 140:30 tals would procreate man, and make God in their own human image."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Those who stayed procreated, natural or clone, according to their customs or inclinations."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The emigrants procreated and populated their cities in the void."*

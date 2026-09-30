@@ -5,15 +5,6 @@ status: unread
 ---
 # sanguine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A blood-red color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confidently optimistic and cheerful.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Guiderius had Upon his neck a mole, a sanguine star; It was a mark of wonder."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This sanguine coward, this bed-presser, this horse-back-breaker, this huge hill of flesh— FALSTAFF. ’Sblood, you starveling, you eel-skin, you dried neat’s-tongue, you bull’s pizzle, you stock-fish—O, for breath to utter what is like thee!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, what, ye sanguine, shallow-hearted boys!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A blood-red color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confidently optimistic and cheerful.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Guiderius had Upon his neck a mole, a sanguine star; It was a mark of wonder."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This sanguine coward, this bed-presser, this horse-back-breaker, this huge hill of flesh— FALSTAFF. ’Sblood, you starveling, you eel-skin, you dried neat’s-tongue, you bull’s pizzle, you stock-fish—O, for breath to utter what is like thee!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, what, ye sanguine, shallow-hearted boys!"*

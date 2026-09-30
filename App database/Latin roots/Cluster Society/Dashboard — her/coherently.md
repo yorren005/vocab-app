@@ -5,15 +5,6 @@ status: unread
 ---
 # coherently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a coherent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a coherent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I became convinced, through the failure of my experiments, that only through death could I clearly and coherently resurrect the memories of my previous selves."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"It took a while to get him down to where he could speak coherently."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Did you not get my telegram?” I answered as quickly and coherently as I could that I had only got his telegram early in the morning, and had not lost a minute in coming here, and that I could not make any one in the house hear me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a coherent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a coherent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I became convinced, through the failure of my experiments, that only through death could I clearly and coherently resurrect the memories of my previous selves."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"It took a while to get him down to where he could speak coherently."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Did you not get my telegram?” I answered as quickly and coherently as I could that I had only got his telegram early in the morning, and had not lost a minute in coming here, and that I could not make any one in the house hear me."*

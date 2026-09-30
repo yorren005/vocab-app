@@ -5,13 +5,6 @@ status: unread
 ---
 # vela
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A constellation in the southern hemisphere between carina and pyxis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A membranous covering attached to the immature fruiting body of certain mushrooms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I could never understand before why there was so much excitement during the last Congress over the acquisition of Alta Vela."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A constellation in the southern hemisphere between carina and pyxis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A membranous covering attached to the immature fruiting body of certain mushrooms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I could never understand before why there was so much excitement during the last Congress over the acquisition of Alta Vela."*

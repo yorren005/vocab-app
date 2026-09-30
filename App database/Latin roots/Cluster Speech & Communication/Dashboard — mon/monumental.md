@@ -5,15 +5,6 @@ status: unread
 ---
 # monumental
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating or belonging to or serving as a monument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of outstanding significance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath perverted a young gentlewoman here in Florence, of a most chaste renown, and this night he fleshes his will in the spoil of her honour; he hath given her his monumental ring, and thinks himself made in the unchaste composition."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet I’ll not shed her blood, Nor scar that whiter skin of hers than snow, And smooth as monumental alabaster."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To have done is to hang Quite out of fashion, like a rusty mail In monumental mock’ry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating or belonging to or serving as a monument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of outstanding significance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath perverted a young gentlewoman here in Florence, of a most chaste renown, and this night he fleshes his will in the spoil of her honour; he hath given her his monumental ring, and thinks himself made in the unchaste composition."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet I’ll not shed her blood, Nor scar that whiter skin of hers than snow, And smooth as monumental alabaster."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To have done is to hang Quite out of fashion, like a rusty mail In monumental mock’ry."*

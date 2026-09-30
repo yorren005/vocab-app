@@ -5,13 +5,6 @@ status: unread
 ---
 # nonparticulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not composed of distinct particles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not composed of distinct particles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonparticulate designates not composed of distinct particles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not composed of distinct particles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not composed of distinct particles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonparticulate designates not composed of distinct particles."*

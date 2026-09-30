@@ -5,15 +5,6 @@ status: unread
 ---
 # proportion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quotient obtained when the magnitude of a part is divided by the magnitude of the whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Magnitude or extent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The just proportion that we gave them out."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bid him therefore consider of his ransom; which must proportion the losses we have borne, the subjects we have lost, the disgrace we have digested; which in weight to re-answer, his pettishness would bow under."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, if these men do not die well, it will be a black matter for the King that led them to it; who to disobey were against all proportion of subjection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quotient obtained when the magnitude of a part is divided by the magnitude of the whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Magnitude or extent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The just proportion that we gave them out."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bid him therefore consider of his ransom; which must proportion the losses we have borne, the subjects we have lost, the disgrace we have digested; which in weight to re-answer, his pettishness would bow under."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, if these men do not die well, it will be a black matter for the King that led them to it; who to disobey were against all proportion of subjection."*

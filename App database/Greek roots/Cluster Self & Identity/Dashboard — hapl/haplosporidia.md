@@ -5,13 +5,6 @@ status: unread
 ---
 # haplosporidia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order in the subclass acnidosporidia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order in the subclass acnidosporidia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplosporidia designates an order in the subclass acnidosporidia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order in the subclass acnidosporidia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order in the subclass acnidosporidia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplosporidia designates an order in the subclass acnidosporidia."*

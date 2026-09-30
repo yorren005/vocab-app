@@ -5,15 +5,6 @@ status: unread
 ---
 # coextensive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being of equal extent or scope or duration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being of equal extent or scope or duration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Economic relations never have been coextensive with political relations."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This power ought to be coextensive with all the possible combinations of such circumstances; and ought to be under the direction of the same councils which are appointed to preside over the common defense."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If there are such things as political axioms, the propriety of the judicial power of a government being coextensive with its legislative, may be ranked among the number."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being of equal extent or scope or duration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being of equal extent or scope or duration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Economic relations never have been coextensive with political relations."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This power ought to be coextensive with all the possible combinations of such circumstances; and ought to be under the direction of the same councils which are appointed to preside over the common defense."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If there are such things as political axioms, the propriety of the judicial power of a government being coextensive with its legislative, may be ranked among the number."*

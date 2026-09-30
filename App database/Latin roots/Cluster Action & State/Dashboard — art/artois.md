@@ -5,13 +5,6 @@ status: unread
 ---
 # artois
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A former province of northern france near the english channel (between picardy and flanders).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former province of northern france near the english channel (between picardy and flanders).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord Regent, and redoubted Burgundy, By whose approach the regions of Artois, Walloon and Picardy are friends to us, This happy night the Frenchmen are secure, Having all day caroused and banqueted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former province of northern france near the english channel (between picardy and flanders).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former province of northern france near the english channel (between picardy and flanders).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord Regent, and redoubted Burgundy, By whose approach the regions of Artois, Walloon and Picardy are friends to us, This happy night the Frenchmen are secure, Having all day caroused and banqueted."*

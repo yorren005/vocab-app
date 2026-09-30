@@ -5,15 +5,6 @@ status: unread
 ---
 # zoo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A facility with usually indoor and outdoor settings where living, typically wild animals are kept especially for public exhibition —called also zoological garden, zoological park.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A place, situation, or group marked by crowding, confusion, or unrestrained behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"That was last week; and as the day was mild and-- almost!--sunny, I suggested to the little girls that we should go holiday-making on our own account, and pay a visit to the Zoo."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"We've got on our hats." "To the Zoo!"*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"All good little girls go to the Zoo, and ride on the elephants, and throw buns to the bears."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A facility with usually indoor and outdoor settings where living, typically wild animals are kept especially for public exhibition —called also zoological garden, zoological park.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A place, situation, or group marked by crowding, confusion, or unrestrained behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"That was last week; and as the day was mild and-- almost!--sunny, I suggested to the little girls that we should go holiday-making on our own account, and pay a visit to the Zoo."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"We've got on our hats." "To the Zoo!"*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"All good little girls go to the Zoo, and ride on the elephants, and throw buns to the bears."*

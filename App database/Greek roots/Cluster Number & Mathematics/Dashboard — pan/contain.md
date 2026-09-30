@@ -5,15 +5,6 @@ status: unread
 ---
 # contain
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Include or contain; have as a component.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contain or hold; have within.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look what thy memory cannot contain, Commit to these waste blanks, and thou shalt find Those children nursed, delivered from thy brain, To take a new acquaintance of thy mind."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In Florence was it from a casement thrown me, Wrapp’d in a paper, which contain’d the name Of her that threw it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You good gods, Let what is here contain’d relish of love, Of my lord’s health, of his content; yet not That we two are asunder; let that grieve him!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Include or contain; have as a component.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contain or hold; have within.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look what thy memory cannot contain, Commit to these waste blanks, and thou shalt find Those children nursed, delivered from thy brain, To take a new acquaintance of thy mind."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In Florence was it from a casement thrown me, Wrapp’d in a paper, which contain’d the name Of her that threw it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You good gods, Let what is here contain’d relish of love, Of my lord’s health, of his content; yet not That we two are asunder; let that grieve him!"*

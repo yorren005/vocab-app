@@ -5,15 +5,6 @@ status: unread
 ---
 # readjustment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of adjusting again (to changed circumstances).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of adjusting something to match a standard.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The very acceptance of the theory of social expediency implies the need of frequent readjustment of the institution of private property."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The essential characteristic of a crisis is the forcible and sudden movement of readjustment in the mistaken capitalization of productive agents."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"When the balance between the capitalizations of various industries and between the incomes of the various periods proves to be false, the inevitable readjustment causes suffering and loss to many, but particularly in the inflated industries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of adjusting again (to changed circumstances).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of adjusting something to match a standard.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The very acceptance of the theory of social expediency implies the need of frequent readjustment of the institution of private property."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The essential characteristic of a crisis is the forcible and sudden movement of readjustment in the mistaken capitalization of productive agents."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"When the balance between the capitalizations of various industries and between the incomes of the various periods proves to be false, the inevitable readjustment causes suffering and loss to many, but particularly in the inflated industries."*

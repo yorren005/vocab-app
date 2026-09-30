@@ -5,13 +5,6 @@ status: unread
 ---
 # unionidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freshwater mussels found worldwide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freshwater mussels found worldwide.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unionidae designates freshwater mussels found worldwide."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freshwater mussels found worldwide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freshwater mussels found worldwide.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unionidae designates freshwater mussels found worldwide."*

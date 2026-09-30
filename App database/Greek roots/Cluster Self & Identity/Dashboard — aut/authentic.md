@@ -5,15 +5,6 @@ status: unread
 ---
 # authentic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not false or imitation : real, actual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: True to one's own personality, spirit, or character.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of all the learned and authentic fellows,— PAROLLES."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, Sir John, here is the heart of my purpose: you are a gentleman of excellent breeding, admirable discourse, of great admittance, authentic in your place and person, generally allowed for your many warlike, courtlike, and learned preparations."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How could communities, Degrees in schools, and brotherhoods in cities, Peaceful commerce from dividable shores, The primogenity and due of birth, Prerogative of age, crowns, sceptres, laurels, But by degree stand in authentic place?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not false or imitation : real, actual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: True to one's own personality, spirit, or character.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of all the learned and authentic fellows,— PAROLLES."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, Sir John, here is the heart of my purpose: you are a gentleman of excellent breeding, admirable discourse, of great admittance, authentic in your place and person, generally allowed for your many warlike, courtlike, and learned preparations."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How could communities, Degrees in schools, and brotherhoods in cities, Peaceful commerce from dividable shores, The primogenity and due of birth, Prerogative of age, crowns, sceptres, laurels, But by degree stand in authentic place?"*

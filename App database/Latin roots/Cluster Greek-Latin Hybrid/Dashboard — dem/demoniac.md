@@ -5,15 +5,6 @@ status: unread
 ---
 # demoniac
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who acts as if possessed by a demon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frenzied as if possessed by a demon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"This was a demoniac laugh—low, suppressed, and deep—uttered, as it seemed, at the very keyhole of my chamber door."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They think me mad—Starbuck does; but I’m demoniac, I am madness maddened!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Few or no words were spoken; and the silent ship, as if manned by painted sailors in wax, day after day tore on through all the swift madness and gladness of the demoniac waves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who acts as if possessed by a demon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frenzied as if possessed by a demon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"This was a demoniac laugh—low, suppressed, and deep—uttered, as it seemed, at the very keyhole of my chamber door."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They think me mad—Starbuck does; but I’m demoniac, I am madness maddened!"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Few or no words were spoken; and the silent ship, as if manned by painted sailors in wax, day after day tore on through all the swift madness and gladness of the demoniac waves."*

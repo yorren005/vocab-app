@@ -5,15 +5,6 @@ status: unread
 ---
 # ont
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being : existence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being : existence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"In art, as in politics, _les grandpères ont toujours tort_.” “This play was good enough for us, Harry."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Les gros bataillons ont toujours raison. * * Large battalions are always victorious."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"I 'ont stap here," says he, "it ain't wort my while at all, at all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being : existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being : existence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"In art, as in politics, _les grandpères ont toujours tort_.” “This play was good enough for us, Harry."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Les gros bataillons ont toujours raison. * * Large battalions are always victorious."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"I 'ont stap here," says he, "it ain't wort my while at all, at all."*

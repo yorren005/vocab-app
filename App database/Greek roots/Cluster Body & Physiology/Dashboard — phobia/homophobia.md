@@ -5,13 +5,6 @@ status: unread
 ---
 # homophobia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discrimination against, aversion to, or fear of homosexuality or gay people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discrimination against, aversion to, or fear of homosexuality or gay people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homophobia designates discrimination against, aversion to, or fear of homosexuality or gay people."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discrimination against, aversion to, or fear of homosexuality or gay people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discrimination against, aversion to, or fear of homosexuality or gay people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homophobia designates discrimination against, aversion to, or fear of homosexuality or gay people."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # mollify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be more favorably inclined; gain the good will of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more temperate, acceptable, or suitable by adding something else; moderate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Du Land der Liebe! bin ich der Deine schon, Oft zuernt' ich weinend, dass du immer Bloede die eigene Seele leugnest.[51] How much the reproach has been softened, and with what tender regard he strives to mollify his former bitterness!"*
-> - 📜 **James Joyce (*Ulysses*):** *"In vain the voice of Mr Canvasser Bloom was heard endeavouring to urge, to mollify, to refrain."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Such joy did not mollify madame."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be more favorably inclined; gain the good will of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more temperate, acceptable, or suitable by adding something else; moderate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Du Land der Liebe! bin ich der Deine schon, Oft zuernt' ich weinend, dass du immer Bloede die eigene Seele leugnest.[51] How much the reproach has been softened, and with what tender regard he strives to mollify his former bitterness!"*
+> - 📜 **James Joyce (*Ulysses*):** *"In vain the voice of Mr Canvasser Bloom was heard endeavouring to urge, to mollify, to refrain."*
+> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Such joy did not mollify madame."*

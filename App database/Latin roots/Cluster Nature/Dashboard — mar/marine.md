@@ -5,15 +5,6 @@ status: unread
 ---
 # marine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the united states marine corps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soldier who serves both on shipboard and on land.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Also, in long thin letters, KROOK, DEALER IN MARINE STORES."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The marine-store merchant holds the light, and the law-stationer conducts the search."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"His premises are the premises formerly occupied by Krook, marine store dealer—a relation of this gentleman’s that you saw in his lifetime if I don’t mistake?” My guardian replied, “Yes.” “Well!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the united states marine corps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soldier who serves both on shipboard and on land.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Also, in long thin letters, KROOK, DEALER IN MARINE STORES."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The marine-store merchant holds the light, and the law-stationer conducts the search."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"His premises are the premises formerly occupied by Krook, marine store dealer—a relation of this gentleman’s that you saw in his lifetime if I don’t mistake?” My guardian replied, “Yes.” “Well!"*

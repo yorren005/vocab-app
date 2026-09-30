@@ -5,15 +5,6 @@ status: unread
 ---
 # indorse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be behind; approve of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give support or one's approval to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He appealed to me to indorse his view that there was a tin of sardines and part of a cold fowl and plenty of bread and cheese."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"My motive for withholding it from the coroner’s inquiry is that a man of science shrinks from placing himself in the public position of seeming to indorse a popular superstition."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Semi-Colon lay on the grass close to his father, who occupied a cracker-box seat in this tableau, the amiable son at little intervals raising his head to indorse, in his peculiar dissyllabic way, what the positive parent said."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be behind; approve of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give support or one's approval to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He appealed to me to indorse his view that there was a tin of sardines and part of a cold fowl and plenty of bread and cheese."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"My motive for withholding it from the coroner’s inquiry is that a man of science shrinks from placing himself in the public position of seeming to indorse a popular superstition."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Semi-Colon lay on the grass close to his father, who occupied a cracker-box seat in this tableau, the amiable son at little intervals raising his head to indorse, in his peculiar dissyllabic way, what the positive parent said."*

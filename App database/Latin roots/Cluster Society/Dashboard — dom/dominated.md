@@ -5,15 +5,6 @@ status: unread
 ---
 # dominated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be larger in number, quantity, power, status or importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be in control.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In earlier conditions of society natural chance dominated industry, and it still remains and must always remain important."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"No other German poet has allowed himself to be so completely dominated by the Greek idea as did Hoelderlin."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"An ecstasy of happiness dominated her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be larger in number, quantity, power, status or importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be in control.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In earlier conditions of society natural chance dominated industry, and it still remains and must always remain important."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"No other German poet has allowed himself to be so completely dominated by the Greek idea as did Hoelderlin."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"An ecstasy of happiness dominated her."*

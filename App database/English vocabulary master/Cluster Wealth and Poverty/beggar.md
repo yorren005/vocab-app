@@ -5,20 +5,6 @@ status: unread
 ---
 # beggar
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Man, boy
-> 2. **Nuance / Usage**: Person who begs
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the beggar withstood the storm*), direct object (*cleaved the beggar*), or prepositional anchor (*amidst the beggar*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"comparison; thou the beggar, for so witnesseth thy lowliness."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Lean, rent, and beggar’d by the strumpet wind!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"You teach me how a beggar should be answer’d."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Man, boy
+> 2. **Nuance / Usage**: Person who begs
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the beggar withstood the storm*), direct object (*cleaved the beggar*), or prepositional anchor (*amidst the beggar*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"comparison; thou the beggar, for so witnesseth thy lowliness."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Lean, rent, and beggar’d by the strumpet wind!"*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"You teach me how a beggar should be answer’d."*

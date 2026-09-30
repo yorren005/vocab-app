@@ -5,13 +5,6 @@ status: unread
 ---
 # pentagram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentagram designates a star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentagram designates a star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon."*

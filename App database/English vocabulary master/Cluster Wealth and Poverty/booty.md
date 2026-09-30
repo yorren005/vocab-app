@@ -5,20 +5,6 @@ status: unread
 ---
 # booty
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Buttocks
-> 2. **Nuance / Usage**: Rich gain or prize
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"or two and a knife and fork: with this booty I made a hasty retreat."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"Cossacks budge when once they had got booty and prisoners."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"that of the Cossack who wanted more booty than he got, and so on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Buttocks
+> 2. **Nuance / Usage**: Rich gain or prize
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"or two and a knife and fork: with this booty I made a hasty retreat."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Cossacks budge when once they had got booty and prisoners."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"that of the Cossack who wanted more booty than he got, and so on."*

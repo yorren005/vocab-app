@@ -5,13 +5,6 @@ status: unread
 ---
 # hypotenuse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The side of a right-angled triangle that is opposite the right angle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The length of a hypotenuse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypotenuse designates the side of a right-angled triangle that is opposite the right angle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The side of a right-angled triangle that is opposite the right angle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The length of a hypotenuse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypotenuse designates the side of a right-angled triangle that is opposite the right angle."*

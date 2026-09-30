@@ -5,13 +5,6 @@ status: unread
 ---
 # tachygraphy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of writing rapidly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of writing rapidly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tachygraphy designates a method of writing rapidly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of writing rapidly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of writing rapidly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tachygraphy designates a method of writing rapidly."*

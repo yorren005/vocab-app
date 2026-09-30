@@ -5,15 +5,6 @@ status: unread
 ---
 # dynamite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An explosive that is made of nitroglycerin absorbed in a porous material and that often contains ammonium nitrate or cellulose nitrate; also : an explosive (such as a mixture of ammonium nitrate and nitrocellulose) that contains no nitroglycerin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that has a powerful effect; also : something that has great potential to cause trouble or conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Dynamite and detonators,” the fool rattled on."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I can actually sympathize with him—thirty-five pounds of dynamite loose in the prison."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Of course they found no dynamite in it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An explosive that is made of nitroglycerin absorbed in a porous material and that often contains ammonium nitrate or cellulose nitrate; also : an explosive (such as a mixture of ammonium nitrate and nitrocellulose) that contains no nitroglycerin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that has a powerful effect; also : something that has great potential to cause trouble or conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Dynamite and detonators,” the fool rattled on."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I can actually sympathize with him—thirty-five pounds of dynamite loose in the prison."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Of course they found no dynamite in it."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # jocose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by jokes and good humor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by jokes and good humor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Swills) found his voice seriously affected by the impure state of the atmosphere, his jocose expression at the time being that he was like an empty post-office, for he hadn’t a single note in him."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Well aged parent,” said Wemmick, shaking hands with him in a cordial and jocose way, “how am you?” “All right, John; all right!” replied the old man."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Raffles ended with a jocose snuffle: no man felt his intellect more superior to religious cant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by jokes and good humor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by jokes and good humor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Swills) found his voice seriously affected by the impure state of the atmosphere, his jocose expression at the time being that he was like an empty post-office, for he hadn’t a single note in him."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Well aged parent,” said Wemmick, shaking hands with him in a cordial and jocose way, “how am you?” “All right, John; all right!” replied the old man."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Raffles ended with a jocose snuffle: no man felt his intellect more superior to religious cant."*

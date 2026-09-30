@@ -5,13 +5,6 @@ status: unread
 ---
 # repetitiousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Verboseness resulting from excessive repetitions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verboseness resulting from excessive repetitions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repetitiousness designates verboseness resulting from excessive repetitions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Verboseness resulting from excessive repetitions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verboseness resulting from excessive repetitions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repetitiousness designates verboseness resulting from excessive repetitions."*

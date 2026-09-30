@@ -5,13 +5,6 @@ status: unread
 ---
 # oogamy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or involving a small motile male gamete and a large immobile female gamete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or involving a small motile male gamete and a large immobile female gamete.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oogamy designates having or involving a small motile male gamete and a large immobile female gamete."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or involving a small motile male gamete and a large immobile female gamete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or involving a small motile male gamete and a large immobile female gamete.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oogamy designates having or involving a small motile male gamete and a large immobile female gamete."*

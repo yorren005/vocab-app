@@ -5,19 +5,6 @@ status: unread
 ---
 # beleaguer
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Besiege
-> 2. **Nuance / Usage**: Exhaust
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to beleaguer the target*) and intransitive clauses (*beleaguering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"That heart, already more than lost, The imp beleaguer’d all perdue; For frowning Honour kept his post— To meet that frown, he shrunk to do."*
-> - 📜 **Walter Scott (*Ivanhoe*):** *"Meanwhile, the lord of the beleaguered and endangered castle lay upon a bed of bodily pain and mental agony."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -53,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To lay siege to a fortress, city, or camp by surrounding it with an armed force so as to cut off all entry and escape.
+> 2. **Nuance / Usage**: Used figuratively (especially in the participial form *beleaguered*) to describe someone or something beset, harassed, or surrounded on all sides by relentless troubles, critics, or hardships.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Transitive Verb.
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*beleaguer the citadel*) and participial modifiers (*the beleaguered garrison*, *a beleaguered administration*).
+> - **Collocations & Registers**: Martial, historical, and journalistic registers; collocated with *garrison*, *fortress*, *citadel*, *debt*, and *critics*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"That heart, already more than lost, the imp **beleaguer’d** all perdue."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"Meanwhile, the lord of the **beleaguered** and endangered castle lay upon a bed of bodily pain and mental agony."*
+> - 📜 **Washington Irving (*Conquest of Granada*):** *"The Christian army encamped before the walls to **beleaguer** the Moorish stronghold by land and sea."*

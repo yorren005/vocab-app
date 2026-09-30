@@ -5,15 +5,6 @@ status: unread
 ---
 # deaden
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make vague or obscure or make (an image) less visible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut a girdle around so as to kill by interrupting the circulation of water and nutrients.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A quantity of straw has been tumbled down in the street to deaden the noises there, and she might be driven to the door perhaps without his hearing wheels."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Following the wall of the jail, I found the roadway covered with straw to deaden the noise of passing vehicles; and from this, and from the quantity of people standing about smelling strongly of spirits and beer, I inferred that the trials were on."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Sometimes, a strong man’s hand, sometimes a strong man’s breast, was set against my mouth to deaden my cries, and with a hot breath always close to me, I struggled ineffectually in the dark, while I was fastened tight to the wall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make vague or obscure or make (an image) less visible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut a girdle around so as to kill by interrupting the circulation of water and nutrients.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"A quantity of straw has been tumbled down in the street to deaden the noises there, and she might be driven to the door perhaps without his hearing wheels."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Following the wall of the jail, I found the roadway covered with straw to deaden the noise of passing vehicles; and from this, and from the quantity of people standing about smelling strongly of spirits and beer, I inferred that the trials were on."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Sometimes, a strong man’s hand, sometimes a strong man’s breast, was set against my mouth to deaden my cries, and with a hot breath always close to me, I struggled ineffectually in the dark, while I was fastened tight to the wall."*

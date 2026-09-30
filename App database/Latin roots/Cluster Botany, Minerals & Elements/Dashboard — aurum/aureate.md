@@ -5,13 +5,6 @@ status: unread
 ---
 # aureate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elaborately or excessively ornamented.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the deep slightly brownish color of gold.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aureate designates elaborately or excessively ornamented."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Elaborately or excessively ornamented.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the deep slightly brownish color of gold.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aureate designates elaborately or excessively ornamented."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # pronucleus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The nucleus of the ovum or sperm after fertilization but before they fuse to form the nucleus of the zygote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The nucleus of the ovum or sperm after fertilization but before they fuse to form the nucleus of the zygote.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pronucleus designates the nucleus of the ovum or sperm after fertilization but before they fuse to form the nucleus of the zygote."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The nucleus of the ovum or sperm after fertilization but before they fuse to form the nucleus of the zygote.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The nucleus of the ovum or sperm after fertilization but before they fuse to form the nucleus of the zygote.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pronucleus designates the nucleus of the ovum or sperm after fertilization but before they fuse to form the nucleus of the zygote."*

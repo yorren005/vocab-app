@@ -5,13 +5,6 @@ status: unread
 ---
 # collectivism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soviet communism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political theory that the people should own the means of production.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This opinion, or plan, has appeared under a variety of names, the main ones being communism, collectivism, social-democracy, and socialism, of which the last name has just now the greatest vogue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Soviet communism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political theory that the people should own the means of production.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This opinion, or plan, has appeared under a variety of names, the main ones being communism, collectivism, social-democracy, and socialism, of which the last name has just now the greatest vogue."*

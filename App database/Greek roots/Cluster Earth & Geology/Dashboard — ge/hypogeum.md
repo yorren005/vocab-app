@@ -5,13 +5,6 @@ status: unread
 ---
 # hypogeum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The subterranean part of an ancient building; also : an ancient underground burial chamber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The subterranean part of an ancient building; also : an ancient underground burial chamber.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypogeum designates the subterranean part of an ancient building; also : an ancient underground burial chamber."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The subterranean part of an ancient building; also : an ancient underground burial chamber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The subterranean part of an ancient building; also : an ancient underground burial chamber.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypogeum designates the subterranean part of an ancient building; also : an ancient underground burial chamber."*

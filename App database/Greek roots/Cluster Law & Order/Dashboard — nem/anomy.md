@@ -5,13 +5,6 @@ status: unread
 ---
 # anomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Social instability resulting from a breakdown of standards and values; also : personal unrest, alienation, and uncertainty that comes from a lack of purpose or ideals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Social instability resulting from a breakdown of standards and values; also : personal unrest, alienation, and uncertainty that comes from a lack of purpose or ideals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anomy designates social instability resulting from a breakdown of standards and values; also : personal unrest, alienation, and uncertainty that comes from a lack of purpose or ideals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Social instability resulting from a breakdown of standards and values; also : personal unrest, alienation, and uncertainty that comes from a lack of purpose or ideals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Social instability resulting from a breakdown of standards and values; also : personal unrest, alienation, and uncertainty that comes from a lack of purpose or ideals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anomy designates social instability resulting from a breakdown of standards and values; also : personal unrest, alienation, and uncertainty that comes from a lack of purpose or ideals."*

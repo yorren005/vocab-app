@@ -5,15 +5,6 @@ status: unread
 ---
 # significantly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a statistically significant way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a significant manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt looks round with that grave professional interest and attention on his face, and glancing significantly at the trooper, signs to Phil to carry his table out."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And if you don’t—” He paused and shrugged his shoulders significantly."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Ah!—she understands what she has to do,—nobody better,” rejoined Leah significantly; “and it is not every one could fill her shoes—not for all the money she gets.” “That it is not!” was the reply."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a statistically significant way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a significant manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt looks round with that grave professional interest and attention on his face, and glancing significantly at the trooper, signs to Phil to carry his table out."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And if you don’t—” He paused and shrugged his shoulders significantly."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Ah!—she understands what she has to do,—nobody better,” rejoined Leah significantly; “and it is not every one could fill her shoes—not for all the money she gets.” “That it is not!” was the reply."*

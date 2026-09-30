@@ -5,14 +5,6 @@ status: unread
 ---
 # deflate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Collapse by releasing contained air or gas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Release contained air or gas from.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I managed to spill enough air to deflate the canopy."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"At his feet lay a deflated haversack caked with whatever it had been dragged through, probably since elementary school."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Collapse by releasing contained air or gas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Release contained air or gas from.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I managed to spill enough air to deflate the canopy."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"At his feet lay a deflated haversack caked with whatever it had been dragged through, probably since elementary school."*

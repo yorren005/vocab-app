@@ -5,15 +5,6 @@ status: unread
 ---
 # cosmos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Everything that exists anywhere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various mostly mexican herbs of the genus cosmos having radiate heads of variously colored flowers and pinnate leaves; popular fall-blooming annuals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"With all the humour and charm there is in Plato, we cannot escape his tremendous teaching on the age-long consequences of good and evil in a cosmos ordered by God."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Men "could do no other"--they had to determine for themselves the significance of Jesus in the real world, in the whole cosmos of God; and it meant fruitful conflict of opinion, the growth of the human mind, and an ever-heightened emphasis on Jesus."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Shakespeare’s moral proportion appeared to them, in their low spiritual condition, a moral chaos, which they set about converting, in some of his great plays, into a cosmos; and a sad muss, if not a ridiculous muss, they made of it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Everything that exists anywhere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various mostly mexican herbs of the genus cosmos having radiate heads of variously colored flowers and pinnate leaves; popular fall-blooming annuals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"With all the humour and charm there is in Plato, we cannot escape his tremendous teaching on the age-long consequences of good and evil in a cosmos ordered by God."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Men "could do no other"--they had to determine for themselves the significance of Jesus in the real world, in the whole cosmos of God; and it meant fruitful conflict of opinion, the growth of the human mind, and an ever-heightened emphasis on Jesus."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Shakespeare’s moral proportion appeared to them, in their low spiritual condition, a moral chaos, which they set about converting, in some of his great plays, into a cosmos; and a sad muss, if not a ridiculous muss, they made of it."*

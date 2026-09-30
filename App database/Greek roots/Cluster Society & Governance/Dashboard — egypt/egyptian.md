@@ -5,15 +5,6 @@ status: unread
 ---
 # egyptian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of egypt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ancient and now extinct language of egypt under the pharaohs; written records date back to 3000 bc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him appear. [_Exit second Messenger._] These strong Egyptian fetters I must break, Or lose myself in dotage."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, first or last, your fine Egyptian cookery Shall have the fame."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He will to his Egyptian dish again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of egypt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ancient and now extinct language of egypt under the pharaohs; written records date back to 3000 bc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him appear. [_Exit second Messenger._] These strong Egyptian fetters I must break, Or lose myself in dotage."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, first or last, your fine Egyptian cookery Shall have the fame."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He will to his Egyptian dish again."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # coordination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The skillful and effective interaction of movements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The regulation of diverse elements into an integrated and harmonious operation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I initiated the Purchase Requests, got coordination on technical accuracy of procurement data from the parachute engineers and Maintenance technical services."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The skillful and effective interaction of movements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The regulation of diverse elements into an integrated and harmonious operation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I initiated the Purchase Requests, got coordination on technical accuracy of procurement data from the parachute engineers and Maintenance technical services."*

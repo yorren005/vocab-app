@@ -5,15 +5,6 @@ status: unread
 ---
 # elliptical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rounded like an egg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by extreme economy of expression or omission of superfluous elements; ; - h.o.taylor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Rachette in Germany introduced the elliptical blast furnace. (Intended first for lead smelting; rapidly adopted for copper matte smelting.) =1875.= The water-jacketing of blast furnaces."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spores are elliptical, rather elongated, constricted, and without spines (fig. 64)."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Its extremity, at first thin and pointed, swells in the form of a globular vesicle, which soon takes the elliptical or ovate shape of the perfected acrospore, and at length separates itself from the branch that supports it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rounded like an egg.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by extreme economy of expression or omission of superfluous elements; ; - h.o.taylor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Rachette in Germany introduced the elliptical blast furnace. (Intended first for lead smelting; rapidly adopted for copper matte smelting.) =1875.= The water-jacketing of blast furnaces."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spores are elliptical, rather elongated, constricted, and without spines (fig. 64)."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Its extremity, at first thin and pointed, swells in the form of a globular vesicle, which soon takes the elliptical or ovate shape of the perfected acrospore, and at length separates itself from the branch that supports it."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # salisbury
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of zimbabwe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital and largest city of zimbabwe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Gloucester, Bedford, Exeter, Erpingham, with all his host: Salisbury and Westmorland."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, good Salisbury, and good luck go with thee!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet I do thee wrong to mind thee of it, For thou art fram’d of the firm truth of valour. [_Exit Salisbury._] BEDFORD."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of zimbabwe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital and largest city of zimbabwe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Gloucester, Bedford, Exeter, Erpingham, with all his host: Salisbury and Westmorland."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, good Salisbury, and good luck go with thee!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet I do thee wrong to mind thee of it, For thou art fram’d of the firm truth of valour. [_Exit Salisbury._] BEDFORD."*

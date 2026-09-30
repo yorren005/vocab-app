@@ -5,14 +5,6 @@ status: unread
 ---
 # tined
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plate with tin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preserve in a can or tin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Cainy and I haven’t tined our eyes to-night.” “A good few twins, too, I hear?” “Too many by half."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Cainy and I haven’t tined our eyes to-night.” “A good few twins, too, I hear, so to speak it?” “Too many by half."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plate with tin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preserve in a can or tin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Cainy and I haven’t tined our eyes to-night.” “A good few twins, too, I hear?” “Too many by half."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Cainy and I haven’t tined our eyes to-night.” “A good few twins, too, I hear, so to speak it?” “Too many by half."*

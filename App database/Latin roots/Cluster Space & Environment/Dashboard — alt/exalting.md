@@ -5,15 +5,6 @@ status: unread
 ---
 # exalting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Praise, glorify, or honor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill with sublime emotion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon), all the while being visited with conscientious questionings whether she were not exalting these poor doings above measure and contemplating them with that self-satisfaction which was the last doom of ignorance and folly."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Every proud mind knows something of this experience, and perhaps it is only to be overcome by a sense of fellowship deep enough to make all efforts at isolation seem mean and petty instead of exalting."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Nor did they omit to call upon us to admire the natural loveliness of their own abode, and the lavish abundance with which it produced all manner of luxuriant fruits; exalting it in this particular above any of the surrounding valleys."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Praise, glorify, or honor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill with sublime emotion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon), all the while being visited with conscientious questionings whether she were not exalting these poor doings above measure and contemplating them with that self-satisfaction which was the last doom of ignorance and folly."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Every proud mind knows something of this experience, and perhaps it is only to be overcome by a sense of fellowship deep enough to make all efforts at isolation seem mean and petty instead of exalting."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Nor did they omit to call upon us to admire the natural loveliness of their own abode, and the lavish abundance with which it produced all manner of luxuriant fruits; exalting it in this particular above any of the surrounding valleys."*

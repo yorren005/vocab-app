@@ -5,13 +5,6 @@ status: unread
 ---
 # conciseness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Terseness and economy in writing and speaking achieved by expressing a great deal in just a few words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terseness and economy in writing and speaking achieved by expressing a great deal in just a few words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conciseness designates terseness and economy in writing and speaking achieved by expressing a great deal in just a few words."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Terseness and economy in writing and speaking achieved by expressing a great deal in just a few words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terseness and economy in writing and speaking achieved by expressing a great deal in just a few words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conciseness designates terseness and economy in writing and speaking achieved by expressing a great deal in just a few words."*

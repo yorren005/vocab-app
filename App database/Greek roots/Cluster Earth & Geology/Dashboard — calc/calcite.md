@@ -5,13 +5,6 @@ status: unread
 ---
 # calcite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mineral CaCO3 consisting of calcium carbonate crystallized in hexagonal form and including common limestone, chalk, and marble.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mineral CaCO3 consisting of calcium carbonate crystallized in hexagonal form and including common limestone, chalk, and marble.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcite designates a mineral caco3 consisting of calcium carbonate crystallized in hexagonal form and including common limestone, chalk, and marble."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mineral CaCO3 consisting of calcium carbonate crystallized in hexagonal form and including common limestone, chalk, and marble.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mineral CaCO3 consisting of calcium carbonate crystallized in hexagonal form and including common limestone, chalk, and marble.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcite designates a mineral caco3 consisting of calcium carbonate crystallized in hexagonal form and including common limestone, chalk, and marble."*

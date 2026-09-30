@@ -5,15 +5,6 @@ status: unread
 ---
 # manliness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being manly; having the characteristics of an adult male.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being manly; having the characteristics of an adult male.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"But the downward steps had destroyed his will, his self-control, his manliness, his virtue."*
-> - 📜 **George Eliot (*Middlemarch*):** *"You may ask why, in the name of manliness, Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Kiss me.” His native warm-heartedness took a great deal of quenching, and it is a part of manliness for a husband to feel keenly the fact that an inexperienced girl has got into trouble by marrying him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being manly; having the characteristics of an adult male.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being manly; having the characteristics of an adult male.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"But the downward steps had destroyed his will, his self-control, his manliness, his virtue."*
+> - 📜 **George Eliot (*Middlemarch*):** *"You may ask why, in the name of manliness, Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Kiss me.” His native warm-heartedness took a great deal of quenching, and it is a part of manliness for a husband to feel keenly the fact that an inexperienced girl has got into trouble by marrying him."*

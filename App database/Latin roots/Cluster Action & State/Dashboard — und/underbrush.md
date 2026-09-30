@@ -5,15 +5,6 @@ status: unread
 ---
 # underbrush
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The brush (small trees and bushes and ferns etc.) growing beneath taller trees in a wood or forest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The brush (small trees and bushes and ferns etc.) growing beneath taller trees in a wood or forest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"It was hard work for the tenderly nurtured maiden to climb the steep mountain ridge, at one time through a thorny tangle of underbrush, and at another clinging against the bare face of the rocks, holding on to swinging vines for support."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"This would itself be a laborious and fatiguing task, as the way would be obstructed by a thick growth of trees and tangled underbrush."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Nan stepped from the road and pushed aside the thick underbrush to find a dry spot to place her foot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The brush (small trees and bushes and ferns etc.) growing beneath taller trees in a wood or forest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The brush (small trees and bushes and ferns etc.) growing beneath taller trees in a wood or forest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"It was hard work for the tenderly nurtured maiden to climb the steep mountain ridge, at one time through a thorny tangle of underbrush, and at another clinging against the bare face of the rocks, holding on to swinging vines for support."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"This would itself be a laborious and fatiguing task, as the way would be obstructed by a thick growth of trees and tangled underbrush."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Nan stepped from the road and pushed aside the thick underbrush to find a dry spot to place her foot."*

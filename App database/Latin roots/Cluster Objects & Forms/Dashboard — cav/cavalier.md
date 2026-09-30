@@ -5,15 +5,6 @@ status: unread
 ---
 # cavalier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gallant or courtly gentleman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A royalist supporter of charles i during the english civil war.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Clowes stepped back and indicated her cavalier, very big and handsome in white clothes and a Panama hat: "May I introduce-- Captain Hyde, Miss Stafford," with a delicate formality which thrilled Isabel to her finger-tips."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In cavalier attendance upon the school of females, you invariably see a male of full grown magnitude, but not old; who, upon any alarm, evinces his gallantry by falling in the rear and covering the flight of his ladies."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His black cavalier boots were made for swaggering."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gallant or courtly gentleman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A royalist supporter of charles i during the english civil war.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Clowes stepped back and indicated her cavalier, very big and handsome in white clothes and a Panama hat: "May I introduce-- Captain Hyde, Miss Stafford," with a delicate formality which thrilled Isabel to her finger-tips."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In cavalier attendance upon the school of females, you invariably see a male of full grown magnitude, but not old; who, upon any alarm, evinces his gallantry by falling in the rear and covering the flight of his ladies."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His black cavalier boots were made for swaggering."*

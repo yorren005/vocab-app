@@ -5,15 +5,6 @@ status: unread
 ---
 # emmet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Robert Emmet was buried here by torchlight, wasn’t he?"*
-> - 📜 **James Joyce (*Ulysses*):** *"Down there Emmet was hanged, drawn and quartered."*
-> - 📜 **James Joyce (*Ulysses*):** *"And the citizen and Bloom having an argument about the point, the brothers Sheares and Wolfe Tone beyond on Arbour Hill and Robert Emmet and die for your country, the Tommy Moore touch about Sara Curran and she’s far from the land."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Robert Emmet was buried here by torchlight, wasn’t he?"*
+> - 📜 **James Joyce (*Ulysses*):** *"Down there Emmet was hanged, drawn and quartered."*
+> - 📜 **James Joyce (*Ulysses*):** *"And the citizen and Bloom having an argument about the point, the brothers Sheares and Wolfe Tone beyond on Arbour Hill and Robert Emmet and die for your country, the Tommy Moore touch about Sara Curran and she’s far from the land."*

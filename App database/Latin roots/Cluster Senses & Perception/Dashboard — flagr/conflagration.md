@@ -5,15 +5,6 @@ status: unread
 ---
 # conflagration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very intense and uncontrolled fire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very intense and uncontrolled fire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"On the ground the groups of villagers were still occupied in doing all they could to keep down the conflagration, which was not much."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"As far as their light reaches, so far, in the belief of the peasants, the fields will be fruitful, and the houses on which they shine will be safe from conflagration or sickness."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In Gacko it is also believed that if a pregnant woman witnesses a conflagration, her child will either be born with a red eruption on its skin or will contract the malady sooner or later afterwards."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very intense and uncontrolled fire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very intense and uncontrolled fire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"On the ground the groups of villagers were still occupied in doing all they could to keep down the conflagration, which was not much."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"As far as their light reaches, so far, in the belief of the peasants, the fields will be fruitful, and the houses on which they shine will be safe from conflagration or sickness."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In Gacko it is also believed that if a pregnant woman witnesses a conflagration, her child will either be born with a red eruption on its skin or will contract the malady sooner or later afterwards."*

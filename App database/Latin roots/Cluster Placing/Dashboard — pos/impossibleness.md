@@ -5,13 +5,6 @@ status: unread
 ---
 # impossibleness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapability of existing or occurring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapability of existing or occurring.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impossibleness designates incapability of existing or occurring."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapability of existing or occurring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapability of existing or occurring.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impossibleness designates incapability of existing or occurring."*

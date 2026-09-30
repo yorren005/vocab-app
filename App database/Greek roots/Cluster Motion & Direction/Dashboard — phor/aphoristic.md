@@ -5,13 +5,6 @@ status: unread
 ---
 # aphoristic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing aphorisms or maxims.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terse and witty and like a maxim.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphoristic designates containing aphorisms or maxims."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing aphorisms or maxims.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terse and witty and like a maxim.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphoristic designates containing aphorisms or maxims."*

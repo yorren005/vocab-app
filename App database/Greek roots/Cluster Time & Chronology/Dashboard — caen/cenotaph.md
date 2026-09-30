@@ -5,15 +5,6 @@ status: unread
 ---
 # cenotaph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tomb or a monument erected in honor of a person or group of persons whose remains are elsewhere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tomb or a monument erected in honor of a person or group of persons whose remains are elsewhere.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"It was composed principally of large empty calabashes, with a few polished cocoanut shells, and looked not unlike a cenotaph of skulls."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Between the marble cenotaphs on either hand of the pulpit, the wall which formed its back was adorned with a large painting representing a gallant ship beating against a terrible storm off a lee coast of black rocks and snowy breakers."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Between the marble cenotaphs on either hand of the pulpit, the wall which formed its back was adorned with a large painting representing a gallant ship beating against a terrible storm off a lee coast of black rocks and snowy breakers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tomb or a monument erected in honor of a person or group of persons whose remains are elsewhere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tomb or a monument erected in honor of a person or group of persons whose remains are elsewhere.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"It was composed principally of large empty calabashes, with a few polished cocoanut shells, and looked not unlike a cenotaph of skulls."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Between the marble cenotaphs on either hand of the pulpit, the wall which formed its back was adorned with a large painting representing a gallant ship beating against a terrible storm off a lee coast of black rocks and snowy breakers."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Between the marble cenotaphs on either hand of the pulpit, the wall which formed its back was adorned with a large painting representing a gallant ship beating against a terrible storm off a lee coast of black rocks and snowy breakers."*

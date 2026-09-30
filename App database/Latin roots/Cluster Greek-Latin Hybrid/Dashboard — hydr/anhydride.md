@@ -5,13 +5,6 @@ status: unread
 ---
 # anhydride
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound formed from one or more other compounds in a reaction resulting in removal of water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound formed from one or more other compounds in a reaction resulting in removal of water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anhydride designates a compound formed from one or more other compounds in a reaction resulting in removal of water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound formed from one or more other compounds in a reaction resulting in removal of water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound formed from one or more other compounds in a reaction resulting in removal of water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anhydride designates a compound formed from one or more other compounds in a reaction resulting in removal of water."*

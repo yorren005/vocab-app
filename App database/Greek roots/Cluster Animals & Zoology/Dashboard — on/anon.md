@@ -5,15 +5,6 @@ status: unread
 ---
 # anon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At another time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (old-fashioned or informal) in a little while.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get you gone, sir; I’ll talk with you more anon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will speak with you further anon. [_Exit Steward._] Enter Helena."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST LORD. [_Aside._] You shall hear one anon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At another time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (old-fashioned or informal) in a little while.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get you gone, sir; I’ll talk with you more anon."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will speak with you further anon. [_Exit Steward._] Enter Helena."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST LORD. [_Aside._] You shall hear one anon."*

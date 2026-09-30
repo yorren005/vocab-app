@@ -5,15 +5,6 @@ status: unread
 ---
 # globe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 3rd planet from the sun; the planet we live on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An object with a spherical shape.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is spherical, like a globe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, thou poor ghost, while memory holds a seat In this distracted globe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, thou globe of sinful continents, what a life dost thou lead!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The 3rd planet from the sun; the planet we live on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An object with a spherical shape.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is spherical, like a globe."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, thou poor ghost, while memory holds a seat In this distracted globe."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, thou globe of sinful continents, what a life dost thou lead!"*

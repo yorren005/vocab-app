@@ -5,13 +5,6 @@ status: unread
 ---
 # chromoplast
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plastid containing pigments other than chlorophyll usually yellow or orange carotenoids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plastid containing pigments other than chlorophyll usually yellow or orange carotenoids.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromoplast designates plastid containing pigments other than chlorophyll usually yellow or orange carotenoids."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plastid containing pigments other than chlorophyll usually yellow or orange carotenoids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plastid containing pigments other than chlorophyll usually yellow or orange carotenoids.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromoplast designates plastid containing pigments other than chlorophyll usually yellow or orange carotenoids."*

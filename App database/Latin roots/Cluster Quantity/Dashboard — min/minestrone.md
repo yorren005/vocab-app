@@ -5,13 +5,6 @@ status: unread
 ---
 # minestrone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soup made with a variety of vegetables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soup made with a variety of vegetables.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minestrone designates soup made with a variety of vegetables."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Soup made with a variety of vegetables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soup made with a variety of vegetables.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minestrone designates soup made with a variety of vegetables."*

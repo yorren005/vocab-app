@@ -5,13 +5,6 @@ status: unread
 ---
 # antispasmodic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug used to relieve or prevent spasms (especially of the smooth muscles).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug used to relieve or prevent spasms (especially of the smooth muscles).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antispasmodic designates a drug used to relieve or prevent spasms (especially of the smooth muscles)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug used to relieve or prevent spasms (especially of the smooth muscles).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug used to relieve or prevent spasms (especially of the smooth muscles).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antispasmodic designates a drug used to relieve or prevent spasms (especially of the smooth muscles)."*

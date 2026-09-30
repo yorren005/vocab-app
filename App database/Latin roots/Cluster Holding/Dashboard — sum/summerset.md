@@ -5,15 +5,6 @@ status: unread
 ---
 # summerset
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acrobatic feat in which the feet roll over the head (either forward or backward) and return.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acrobatic feat in which the feet roll over the head (either forward or backward) and return.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"I have seen him do the summerset several times together, upon a trencher fixed on a rope which is no thicker than a common packthread in England."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"They were very clever bears, and could climb posts and trees, dance and turn summersets and do a great many other tricks besides."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Aunt Polly entered in time to see him throw a few double summersets, deliver a final mighty hurrah, and sail through the open window, carrying the rest of the flower-pots with him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acrobatic feat in which the feet roll over the head (either forward or backward) and return.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acrobatic feat in which the feet roll over the head (either forward or backward) and return.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"I have seen him do the summerset several times together, upon a trencher fixed on a rope which is no thicker than a common packthread in England."*
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"They were very clever bears, and could climb posts and trees, dance and turn summersets and do a great many other tricks besides."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Aunt Polly entered in time to see him throw a few double summersets, deliver a final mighty hurrah, and sail through the open window, carrying the rest of the flower-pots with him."*

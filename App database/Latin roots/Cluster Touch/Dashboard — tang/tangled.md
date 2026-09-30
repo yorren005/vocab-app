@@ -5,15 +5,6 @@ status: unread
 ---
 # tangled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Force into some kind of situation, condition, or course of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tangle or complicate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His speech was like a tangled chain; nothing impaired, but all disordered."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She could think of nothing better to do with her palpitating self than to go in here and hide; and entering, she lighted on a spot sheltered from the damp fog by a reclining trunk, where she sank down upon a tangled couch of fronds and stems."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It is strange—life and men’s ways and laws and tangled paths."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Force into some kind of situation, condition, or course of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tangle or complicate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His speech was like a tangled chain; nothing impaired, but all disordered."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She could think of nothing better to do with her palpitating self than to go in here and hide; and entering, she lighted on a spot sheltered from the damp fog by a reclining trunk, where she sank down upon a tangled couch of fronds and stems."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It is strange—life and men’s ways and laws and tangled paths."*

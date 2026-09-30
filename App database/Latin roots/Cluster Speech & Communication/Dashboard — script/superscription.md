@@ -5,15 +5,6 @@ status: unread
 ---
 # superscription
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inscription written above something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of superscribing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or doth this churlish superscription Pretend some alteration in good will?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Prithee, Apemantus, read me the superscription of these letters."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce received a letter, and looking at the superscription, said, “From Boythorn?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inscription written above something else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of superscribing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or doth this churlish superscription Pretend some alteration in good will?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Prithee, Apemantus, read me the superscription of these letters."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce received a letter, and looking at the superscription, said, “From Boythorn?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # understandable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being apprehended or understood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being apprehended or understood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I declare it looked as though he would presently put to us some questions in an understandable language; but he died without uttering a sound, without moving a limb, without twitching a muscle."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"How understandable everything was!"*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Many readers, especially those who take an intellectual attitude toward all things, in the heavens above and in the earth beneath, suppose that they are prepared to understand almost anything which is understandable if it is only PUT right."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being apprehended or understood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being apprehended or understood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I declare it looked as though he would presently put to us some questions in an understandable language; but he died without uttering a sound, without moving a limb, without twitching a muscle."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"How understandable everything was!"*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Many readers, especially those who take an intellectual attitude toward all things, in the heavens above and in the earth beneath, suppose that they are prepared to understand almost anything which is understandable if it is only PUT right."*

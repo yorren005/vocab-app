@@ -5,13 +5,6 @@ status: unread
 ---
 # oryzomys
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rice rats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rice rats.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Oryzomys designates rice rats."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rice rats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rice rats.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Oryzomys designates rice rats."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # decipherer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The kind of intellectual who converts messages from a code to plain text.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reader capable of reading and interpreting illegible or obscure text.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decipherer designates the kind of intellectual who converts messages from a code to plain text."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The kind of intellectual who converts messages from a code to plain text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reader capable of reading and interpreting illegible or obscure text.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decipherer designates the kind of intellectual who converts messages from a code to plain text."*

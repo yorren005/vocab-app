@@ -5,14 +5,6 @@ status: unread
 ---
 # electrophorus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple electrostatic generator that generates repeated charges of static electricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family electrophoridae; electric eels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Then comes the "Electrophorus," an electrical instrument suggested by Volta, which was thought at the time a grand invention for the purpose of getting light (Fig. 6 A)."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"I do not know whether I shall be successful in lighting a gas-jet with the electrophorus, but I will try."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple electrostatic generator that generates repeated charges of static electricity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family electrophoridae; electric eels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Then comes the "Electrophorus," an electrical instrument suggested by Volta, which was thought at the time a grand invention for the purpose of getting light (Fig. 6 A)."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"I do not know whether I shall be successful in lighting a gas-jet with the electrophorus, but I will try."*

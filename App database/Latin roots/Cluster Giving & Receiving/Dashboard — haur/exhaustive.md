@@ -5,15 +5,6 @@ status: unread
 ---
 # exhaustive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Performed comprehensively and completely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Performed comprehensively and completely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"See,” continued the Vicar, opening several small drawers, “I fancy I have made an exhaustive study of the entomology of this district."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Since I have undertaken to manhandle this Leviathan, it behoves me to approve myself omnisciently exhaustive in the enterprise; not overlooking the minutest seminal germs of his blood, and spinning him out to the uttermost coil of his bowels."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Braun thought, and I readily concurred in the opinion, that he would do best not to essay an exhaustive history, but to select certain conspicuously interesting types and proceed by the method of close analysis, characterization and comparison."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Performed comprehensively and completely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Performed comprehensively and completely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"See,” continued the Vicar, opening several small drawers, “I fancy I have made an exhaustive study of the entomology of this district."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Since I have undertaken to manhandle this Leviathan, it behoves me to approve myself omnisciently exhaustive in the enterprise; not overlooking the minutest seminal germs of his blood, and spinning him out to the uttermost coil of his bowels."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Braun thought, and I readily concurred in the opinion, that he would do best not to essay an exhaustive history, but to select certain conspicuously interesting types and proceed by the method of close analysis, characterization and comparison."*

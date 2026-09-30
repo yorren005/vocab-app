@@ -5,15 +5,6 @@ status: unread
 ---
 # emigrant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who leaves one country to settle in another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who leaves one country to settle in another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But it is a common name in Nantucket, they say, and I suppose this Peter here is an emigrant from there."*
-> - 📜 **Effie Afton (*Eventide*):** *"Camford, formerly the wealthiest merchant in New Orleans, but now a poor Texan emigrant in his log-cabin on the Cibolo."*
-> - 📜 **Effie Afton (*Eventide*):** *"Camford in his new emigrant home, and now we have another party of friends arriving in our young "Italy of America," even the romantic Miss Mary Lester, and her John Falstaff husband; and Fred."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who leaves one country to settle in another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who leaves one country to settle in another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But it is a common name in Nantucket, they say, and I suppose this Peter here is an emigrant from there."*
+> - 📜 **Effie Afton (*Eventide*):** *"Camford, formerly the wealthiest merchant in New Orleans, but now a poor Texan emigrant in his log-cabin on the Cibolo."*
+> - 📜 **Effie Afton (*Eventide*):** *"Camford in his new emigrant home, and now we have another party of friends arriving in our young "Italy of America," even the romantic Miss Mary Lester, and her John Falstaff husband; and Fred."*

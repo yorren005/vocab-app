@@ -5,13 +5,6 @@ status: unread
 ---
 # geocentric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, measured from, or as if observed from the earth's center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or relating to the earth as center.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Its transcendental aspirations—still unconsciously based on the geocentric view of things, a zenithal paradise, a nadiral hell—were as foreign to his own as if they had been the dreams of people on another planet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, measured from, or as if observed from the earth's center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or relating to the earth as center.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Its transcendental aspirations—still unconsciously based on the geocentric view of things, a zenithal paradise, a nadiral hell—were as foreign to his own as if they had been the dreams of people on another planet."*

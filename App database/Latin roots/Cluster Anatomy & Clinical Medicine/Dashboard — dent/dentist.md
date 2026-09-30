@@ -5,15 +5,6 @@ status: unread
 ---
 # dentist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person qualified to practice dentistry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person qualified to practice dentistry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"He cherished an extraordinary belief in the virtues of “shorts” as a disguise, and had in his own mind sketched a dress for himself that would have made him something between a dean and a dentist."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Altogether the sight of these strange instruments recalled to mind that display of cruel-looking mother-of-pearl-handled things which one sees in their velvet-lined cases at the elbow of a dentist."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Dentist down the street,” said a blurred voice unsympathetically."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person qualified to practice dentistry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person qualified to practice dentistry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He cherished an extraordinary belief in the virtues of “shorts” as a disguise, and had in his own mind sketched a dress for himself that would have made him something between a dean and a dentist."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Altogether the sight of these strange instruments recalled to mind that display of cruel-looking mother-of-pearl-handled things which one sees in their velvet-lined cases at the elbow of a dentist."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Dentist down the street,” said a blurred voice unsympathetically."*

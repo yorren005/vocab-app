@@ -5,13 +5,6 @@ status: unread
 ---
 # canavalia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbs or woody vines of mainly american tropics and subtropics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbs or woody vines of mainly american tropics and subtropics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canavalia designates herbs or woody vines of mainly american tropics and subtropics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbs or woody vines of mainly american tropics and subtropics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbs or woody vines of mainly american tropics and subtropics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canavalia designates herbs or woody vines of mainly american tropics and subtropics."*

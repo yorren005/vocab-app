@@ -5,15 +5,6 @@ status: unread
 ---
 # paucity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An insufficient quantity or number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insufficient quantity or number.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Their speech, which I speak uncommonly easy, is round and rich and musical, possessing a paucity of consonants, being composed principally of vowels."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Any inward debate Lydgate had as to the consequences of this engagement which had stolen upon him, turned on the paucity of time rather than of money."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Here again I found the tally agreeing exactly; the carriers’ men were able to supplement the paucity of the written words with a few details."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An insufficient quantity or number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insufficient quantity or number.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Their speech, which I speak uncommonly easy, is round and rich and musical, possessing a paucity of consonants, being composed principally of vowels."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Any inward debate Lydgate had as to the consequences of this engagement which had stolen upon him, turned on the paucity of time rather than of money."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Here again I found the tally agreeing exactly; the carriers’ men were able to supplement the paucity of the written words with a few details."*

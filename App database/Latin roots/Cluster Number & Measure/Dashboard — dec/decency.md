@@ -5,15 +5,6 @@ status: unread
 ---
 # decency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of conforming to standards of propriety and morality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being polite and respectable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I am afraid it is too late now for the funeral to be performed with proper decency."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"I expect my surveyor from Brockham with his report in the morning; and afterwards I cannot in decency fail attending the club."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But the modern, more enlightened, labor movement has better ideals and policies in respect to the safety, sanitation, and decency of the working places."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of conforming to standards of propriety and morality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being polite and respectable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I am afraid it is too late now for the funeral to be performed with proper decency."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"I expect my surveyor from Brockham with his report in the morning; and afterwards I cannot in decency fail attending the club."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But the modern, more enlightened, labor movement has better ideals and policies in respect to the safety, sanitation, and decency of the working places."*

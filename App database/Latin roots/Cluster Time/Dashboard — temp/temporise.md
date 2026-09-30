@@ -5,14 +5,6 @@ status: unread
 ---
 # temporise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw out a discussion or process in order to gain time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Draw out a discussion or process in order to gain time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Lady Southdown, we say, for the sake of the invalid's health, or for the sake of her soul's ultimate welfare, or for the sake of her money, agreed to temporise."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"On the first day when his father formally gave him the hint that he was to place his affections at Miss Swartz's feet, George temporised with the old gentleman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw out a discussion or process in order to gain time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Draw out a discussion or process in order to gain time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Lady Southdown, we say, for the sake of the invalid's health, or for the sake of her soul's ultimate welfare, or for the sake of her money, agreed to temporise."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"On the first day when his father formally gave him the hint that he was to place his affections at Miss Swartz's feet, George temporised with the old gentleman."*

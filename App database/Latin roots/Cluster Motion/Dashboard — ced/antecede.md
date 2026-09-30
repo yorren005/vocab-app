@@ -5,13 +5,6 @@ status: unread
 ---
 # antecede
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be earlier in time; go back further.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be earlier in time; go back further.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antecede designates be earlier in time; go back further."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be earlier in time; go back further.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be earlier in time; go back further.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antecede designates be earlier in time; go back further."*

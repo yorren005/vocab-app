@@ -5,13 +5,6 @@ status: unread
 ---
 # deuteranopia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Color blindness marked by usually complete loss of ability to distinguish colors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Color blindness marked by usually complete loss of ability to distinguish colors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deuteranopia designates color blindness marked by usually complete loss of ability to distinguish colors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Color blindness marked by usually complete loss of ability to distinguish colors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Color blindness marked by usually complete loss of ability to distinguish colors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deuteranopia designates color blindness marked by usually complete loss of ability to distinguish colors."*

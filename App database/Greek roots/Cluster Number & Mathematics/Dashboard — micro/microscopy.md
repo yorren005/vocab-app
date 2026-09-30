@@ -5,13 +5,6 @@ status: unread
 ---
 # microscopy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Research with the use of microscopes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Research with the use of microscopes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Any person possessed of the cardinal virtues of microscopy—patience and perseverance—will be rewarded in this instance; whilst those who are deficient will lose an object worthy of the virtues they dare not boast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Research with the use of microscopes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Research with the use of microscopes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Any person possessed of the cardinal virtues of microscopy—patience and perseverance—will be rewarded in this instance; whilst those who are deficient will lose an object worthy of the virtues they dare not boast."*

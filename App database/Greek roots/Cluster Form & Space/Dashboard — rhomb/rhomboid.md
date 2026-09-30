@@ -5,15 +5,6 @@ status: unread
 ---
 # rhomboid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A parallelogram with no right angles and with adjacent sides of unequal length.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped somewhat like a rhombus or rhomboid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"These blocks are all in pairs except one, which is a rhomboid."*
-> - 📜 **James Joyce (*Ulysses*):** *"The floor is covered with an oilcloth mosaic of jade and azure and cinnabar rhomboids."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"In the first course, there was a shoulder of mutton cut into an equilateral triangle, a piece of beef into a rhomboides, and a pudding into a cycloid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A parallelogram with no right angles and with adjacent sides of unequal length.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped somewhat like a rhombus or rhomboid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"These blocks are all in pairs except one, which is a rhomboid."*
+> - 📜 **James Joyce (*Ulysses*):** *"The floor is covered with an oilcloth mosaic of jade and azure and cinnabar rhomboids."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"In the first course, there was a shoulder of mutton cut into an equilateral triangle, a piece of beef into a rhomboides, and a pudding into a cycloid."*

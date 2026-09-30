@@ -5,13 +5,6 @@ status: unread
 ---
 # parisienne
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A female native or resident of paris.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female native or resident of paris.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I turned my face away to conceal a smile I could not suppress: there was something ludicrous as well as painful in the little Parisienne’s earnest and innate devotion to matters of dress."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female native or resident of paris.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female native or resident of paris.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I turned my face away to conceal a smile I could not suppress: there was something ludicrous as well as painful in the little Parisienne’s earnest and innate devotion to matters of dress."*

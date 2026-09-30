@@ -5,15 +5,6 @@ status: unread
 ---
 # disproportionate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Out of proportion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not proportionate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And try to restrain the disproportionate fervour with which you throw yourself into commonplace home pleasures."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon made no objection beyond a passing remark that the sum might be disproportionate in relation to other good objects, but when Dorothea in her ignorance resisted that suggestion, he acquiesced."*
-> - 📜 **George Eliot (*Middlemarch*):** *"For Bulstrode shrank from a direct lie with an intensity disproportionate to the number of his more indirect misdeeds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Out of proportion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not proportionate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And try to restrain the disproportionate fervour with which you throw yourself into commonplace home pleasures."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon made no objection beyond a passing remark that the sum might be disproportionate in relation to other good objects, but when Dorothea in her ignorance resisted that suggestion, he acquiesced."*
+> - 📜 **George Eliot (*Middlemarch*):** *"For Bulstrode shrank from a direct lie with an intensity disproportionate to the number of his more indirect misdeeds."*

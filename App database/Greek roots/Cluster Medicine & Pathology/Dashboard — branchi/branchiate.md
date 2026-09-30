@@ -5,13 +5,6 @@ status: unread
 ---
 # branchiate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provided with gills.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provided with gills.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, branchiate designates provided with gills."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provided with gills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provided with gills.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, branchiate designates provided with gills."*

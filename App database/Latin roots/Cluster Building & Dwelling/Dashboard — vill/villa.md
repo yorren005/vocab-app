@@ -5,15 +5,6 @@ status: unread
 ---
 # villa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mexican revolutionary leader (1877-1923).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Detached or semidetached suburban house.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"They had taken a little villa in Sils on the mountain, which they had seen advertised for the summer months."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The Herons, though an ordinary villa, stood in its own grounds, and was certainly the last place in which one would have expected to find lodgings, so private was its appearance."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A man she knew, one of the workmen employed at an adjoining villa, was passing by, and she begged him to come in and go upstairs with her; she feared something had happened to one of her lodgers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mexican revolutionary leader (1877-1923).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Detached or semidetached suburban house.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"They had taken a little villa in Sils on the mountain, which they had seen advertised for the summer months."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The Herons, though an ordinary villa, stood in its own grounds, and was certainly the last place in which one would have expected to find lodgings, so private was its appearance."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A man she knew, one of the workmen employed at an adjoining villa, was passing by, and she begged him to come in and go upstairs with her; she feared something had happened to one of her lodgers."*

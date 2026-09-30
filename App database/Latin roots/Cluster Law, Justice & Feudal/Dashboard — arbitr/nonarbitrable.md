@@ -5,13 +5,6 @@ status: unread
 ---
 # nonarbitrable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not appropriate for or subject to arbitration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not appropriate for or subject to arbitration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonarbitrable designates not appropriate for or subject to arbitration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not appropriate for or subject to arbitration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not appropriate for or subject to arbitration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonarbitrable designates not appropriate for or subject to arbitration."*

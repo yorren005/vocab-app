@@ -5,13 +5,6 @@ status: unread
 ---
 # nervure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the vascular bundles or ribs that form the branching framework of conducting and supporting tissues in a leaf or other plant organ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the horny ribs that stiffen and support the wing of an insect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nervure designates any of the vascular bundles or ribs that form the branching framework of conducting and supporting tissues in a leaf or other plant organ."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the vascular bundles or ribs that form the branching framework of conducting and supporting tissues in a leaf or other plant organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the horny ribs that stiffen and support the wing of an insect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nervure designates any of the vascular bundles or ribs that form the branching framework of conducting and supporting tissues in a leaf or other plant organ."*

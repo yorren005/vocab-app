@@ -5,13 +5,6 @@ status: unread
 ---
 # currier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states lithographer who (with his partner james ives) produced thousands of prints signed `currier & ives' (1813-1888).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A craftsman who curries leather for use.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, currier designates united states lithographer who (with his partner james ives) produced thousands of prints signed `currier & ives' (1813-1888)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states lithographer who (with his partner james ives) produced thousands of prints signed `currier & ives' (1813-1888).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A craftsman who curries leather for use.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, currier designates united states lithographer who (with his partner james ives) produced thousands of prints signed `currier & ives' (1813-1888)."*

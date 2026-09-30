@@ -5,15 +5,6 @@ status: unread
 ---
 # licensed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Authorize officially.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given official approval to act.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Blue-gown, the livery of the licensed beggar."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Crawford called the next day, and on the score of Edmund’s return, Sir Thomas felt himself more than licensed to ask him to stay dinner; it was really a necessary compliment."*
-> - 📜 **James Joyce (*Ulysses*):** *"Licensed for the sale of beer, wine and spirits for consumption on the premises."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Authorize officially.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given official approval to act.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Blue-gown, the livery of the licensed beggar."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Crawford called the next day, and on the score of Edmund’s return, Sir Thomas felt himself more than licensed to ask him to stay dinner; it was really a necessary compliment."*
+> - 📜 **James Joyce (*Ulysses*):** *"Licensed for the sale of beer, wine and spirits for consumption on the premises."*

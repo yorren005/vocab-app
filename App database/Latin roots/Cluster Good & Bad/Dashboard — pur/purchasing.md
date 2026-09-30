@@ -5,15 +5,6 @@ status: unread
 ---
 # purchasing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of buying.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtain by purchase; acquire by means of a financial transaction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, I warrant you, and not without his true purchasing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You lay out too much pains For purchasing but trouble."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be so, How little is the cost I have bestowed In purchasing the semblance of my soul From out the state of hellish cruelty!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of buying.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtain by purchase; acquire by means of a financial transaction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, I warrant you, and not without his true purchasing."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You lay out too much pains For purchasing but trouble."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be so, How little is the cost I have bestowed In purchasing the semblance of my soul From out the state of hellish cruelty!"*

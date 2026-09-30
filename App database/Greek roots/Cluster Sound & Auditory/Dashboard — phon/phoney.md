@@ -5,13 +5,6 @@ status: unread
 ---
 # phoney
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who professes beliefs and opinions that he or she does not hold in order to conceal his or her real feelings or motives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fraudulent; having a misleading appearance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phoney designates a person who professes beliefs and opinions that he or she does not hold in order to conceal his or her real feelings or motives."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who professes beliefs and opinions that he or she does not hold in order to conceal his or her real feelings or motives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fraudulent; having a misleading appearance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phoney designates a person who professes beliefs and opinions that he or she does not hold in order to conceal his or her real feelings or motives."*

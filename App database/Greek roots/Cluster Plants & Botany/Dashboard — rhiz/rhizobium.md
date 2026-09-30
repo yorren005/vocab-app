@@ -5,13 +5,6 @@ status: unread
 ---
 # rhizobium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of rhizobiaceae; usually occur in the root nodules of legumes; can fix atmospheric oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The type genus of rhizobiaceae; usually occur in the root nodules of legumes; can fix atmospheric oxygen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizobium designates the type genus of rhizobiaceae; usually occur in the root nodules of legumes; can fix atmospheric oxygen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of rhizobiaceae; usually occur in the root nodules of legumes; can fix atmospheric oxygen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The type genus of rhizobiaceae; usually occur in the root nodules of legumes; can fix atmospheric oxygen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizobium designates the type genus of rhizobiaceae; usually occur in the root nodules of legumes; can fix atmospheric oxygen."*

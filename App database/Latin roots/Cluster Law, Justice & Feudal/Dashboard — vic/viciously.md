@@ -5,15 +5,6 @@ status: unread
 ---
 # viciously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vicious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a vicious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester flung me behind him: the lunatic sprang and grappled his throat viciously, and laid her teeth to his cheek: they struggled."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They viciously snapped, not only at each other’s disembowelments, but like flexible bows, bent round, and bit their own; till those entrails seemed swallowed over and over again by the same mouth, to be oppositely voided by the gaping wound."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Bodies in various cemeteries were first disinterred and then viciously mutilated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vicious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a vicious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester flung me behind him: the lunatic sprang and grappled his throat viciously, and laid her teeth to his cheek: they struggled."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They viciously snapped, not only at each other’s disembowelments, but like flexible bows, bent round, and bit their own; till those entrails seemed swallowed over and over again by the same mouth, to be oppositely voided by the gaping wound."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Bodies in various cemeteries were first disinterred and then viciously mutilated."*

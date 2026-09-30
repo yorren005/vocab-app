@@ -5,13 +5,6 @@ status: unread
 ---
 # toxicity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The degree to which something is poisonous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grave harmfulness or deadliness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxicity designates the degree to which something is poisonous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The degree to which something is poisonous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grave harmfulness or deadliness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxicity designates the degree to which something is poisonous."*

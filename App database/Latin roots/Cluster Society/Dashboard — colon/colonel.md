@@ -5,15 +5,6 @@ status: unread
 ---
 # colonel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A commissioned military officer in the united states army or air force or marines who ranks above a lieutenant colonel and below a brigadier general.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commissioned military officer in the united states army or air force or marines who ranks above a lieutenant colonel and below a brigadier general.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby whether he means Carrots, or the Colonel, or Gallows, or Young Chisel, or Terrier Tip, or Lanky, or the Brick."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The Colonel is produced, but is not at all near the thing."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Colonel Wallis had known Mr Elliot long, had been well acquainted also with his wife, had perfectly understood the whole story."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commissioned military officer in the united states army or air force or marines who ranks above a lieutenant colonel and below a brigadier general.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commissioned military officer in the united states army or air force or marines who ranks above a lieutenant colonel and below a brigadier general.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby whether he means Carrots, or the Colonel, or Gallows, or Young Chisel, or Terrier Tip, or Lanky, or the Brick."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Colonel is produced, but is not at all near the thing."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Colonel Wallis had known Mr Elliot long, had been well acquainted also with his wife, had perfectly understood the whole story."*

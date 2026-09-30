@@ -5,15 +5,6 @@ status: unread
 ---
 # antecedent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone from whom you are descended (but usually more remote than a grandparent).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A preceding occurrence or cause or event.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He found her in an unusual mood: her eyes as she looked up to him were suspicious and perplexed as with some antecedent thought."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To curse his miserable lot was at first his impulse, but even that lowest stage of rebellion needed an activity whose absence was necessarily antecedent to the existence of the morbid misery which wrung him."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"This practice seems to have taken its rise antecedent to Christianity, as it reminds us of the pagan custom of hanging up offerings in their temples."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone from whom you are descended (but usually more remote than a grandparent).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A preceding occurrence or cause or event.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He found her in an unusual mood: her eyes as she looked up to him were suspicious and perplexed as with some antecedent thought."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To curse his miserable lot was at first his impulse, but even that lowest stage of rebellion needed an activity whose absence was necessarily antecedent to the existence of the morbid misery which wrung him."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"This practice seems to have taken its rise antecedent to Christianity, as it reminds us of the pagan custom of hanging up offerings in their temples."*

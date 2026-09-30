@@ -5,15 +5,6 @@ status: unread
 ---
 # mineral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Solid homogeneous inorganic substances occurring in nature having a definite chemical composition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to minerals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She did confess she had For you a mortal mineral, which, being took, Should by the minute feed on life, and ling’ring, By inches waste you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To draw apart the body he hath kill’d, O’er whom his very madness, like some ore Among a mineral of metals base, Shows itself pure."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Right, as usual,” said the Duchess: “what a clear way you have of putting things!” “It’s a mineral, I _think_,” said Alice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Solid homogeneous inorganic substances occurring in nature having a definite chemical composition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to minerals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She did confess she had For you a mortal mineral, which, being took, Should by the minute feed on life, and ling’ring, By inches waste you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To draw apart the body he hath kill’d, O’er whom his very madness, like some ore Among a mineral of metals base, Shows itself pure."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Right, as usual,” said the Duchess: “what a clear way you have of putting things!” “It’s a mineral, I _think_,” said Alice."*

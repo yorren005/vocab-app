@@ -5,13 +5,6 @@ status: unread
 ---
 # lusterware
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pottery with a metallic sheen produced by adding metallic oxides to the glaze.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pottery with a metallic sheen produced by adding metallic oxides to the glaze.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lusterware designates pottery with a metallic sheen produced by adding metallic oxides to the glaze."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pottery with a metallic sheen produced by adding metallic oxides to the glaze.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pottery with a metallic sheen produced by adding metallic oxides to the glaze.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lusterware designates pottery with a metallic sheen produced by adding metallic oxides to the glaze."*

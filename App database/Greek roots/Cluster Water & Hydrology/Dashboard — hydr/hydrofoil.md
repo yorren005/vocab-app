@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrofoil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device consisting of a flat or curved piece (as a metal plate) so that its surface reacts to the water it is passing through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speedboat that is equipped with winglike structures that lift it so that it skims the water at high speeds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrofoil designates a device consisting of a flat or curved piece (as a metal plate) so that its surface reacts to the water it is passing through."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device consisting of a flat or curved piece (as a metal plate) so that its surface reacts to the water it is passing through.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speedboat that is equipped with winglike structures that lift it so that it skims the water at high speeds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrofoil designates a device consisting of a flat or curved piece (as a metal plate) so that its surface reacts to the water it is passing through."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # ransom
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Money demanded for the return of a captured person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Payment for the release of someone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We thank you, maiden, But may not be so credulous of cure, When our most learned doctors leave us, and The congregated college have concluded That labouring art can never ransom nature From her inaidable estate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For when mine hours Were nice and lucky, men did ransom lives Of me for jests."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For me, my ransom’s death; On either side I come to spend my breath, Which neither here I’ll keep nor bear again, But end it by some means for Imogen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Money demanded for the return of a captured person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Payment for the release of someone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We thank you, maiden, But may not be so credulous of cure, When our most learned doctors leave us, and The congregated college have concluded That labouring art can never ransom nature From her inaidable estate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For when mine hours Were nice and lucky, men did ransom lives Of me for jests."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For me, my ransom’s death; On either side I come to spend my breath, Which neither here I’ll keep nor bear again, But end it by some means for Imogen."*

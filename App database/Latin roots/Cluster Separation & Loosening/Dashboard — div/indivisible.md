@@ -5,15 +5,6 @@ status: unread
 ---
 # indivisible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible of undergoing division.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible of undergoing division.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"Looking on the face of the dead, he wondered much where the spirit that so lately had seemed to be with the frame but a single identity, one and indivisible, had fled."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"To them the principle of life and fertility, whether animal or vegetable, was one and indivisible."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Nor could, one speak of his parts, for the one is indivisible and therefore limitless, not so conceived because there is no passing beyond it, but as being without dimension or limit, and therefore without form or name."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible of undergoing division.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible of undergoing division.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **C. A. Frazer (*Atmâ*):** *"Looking on the face of the dead, he wondered much where the spirit that so lately had seemed to be with the frame but a single identity, one and indivisible, had fled."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"To them the principle of life and fertility, whether animal or vegetable, was one and indivisible."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Nor could, one speak of his parts, for the one is indivisible and therefore limitless, not so conceived because there is no passing beyond it, but as being without dimension or limit, and therefore without form or name."*

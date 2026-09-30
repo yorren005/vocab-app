@@ -5,14 +5,6 @@ status: unread
 ---
 # silverware
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tableware made of silver or silver plate or pewter or stainless steel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tableware made of silver or silver plate or pewter or stainless steel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Safe deposit is the keeping of things to be returned in identical form, as silverware, notes, and papers."*
-> - 📜 **James Joyce (*Ulysses*):** *"The sun freed itself slowly and lit glints of light among the silverware opposite in Walter Sexton’s window by which John Howard Parnell passed, unseeing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tableware made of silver or silver plate or pewter or stainless steel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tableware made of silver or silver plate or pewter or stainless steel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Safe deposit is the keeping of things to be returned in identical form, as silverware, notes, and papers."*
+> - 📜 **James Joyce (*Ulysses*):** *"The sun freed itself slowly and lit glints of light among the silverware opposite in Walter Sexton’s window by which John Howard Parnell passed, unseeing."*

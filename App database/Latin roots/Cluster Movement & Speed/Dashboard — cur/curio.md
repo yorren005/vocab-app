@@ -5,15 +5,6 @@ status: unread
 ---
 # curio
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something unusual -- perhaps worthy of collecting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something unusual -- perhaps worthy of collecting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"VALENTINE, Gentleman attending on the Duke CURIO, Gentleman attending on the Duke VIOLA, in love with the Duke."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Orsino, Duke of Illyria, Curio, and other Lords; Musicians attending."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Duke, Curio and Attendants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something unusual -- perhaps worthy of collecting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something unusual -- perhaps worthy of collecting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"VALENTINE, Gentleman attending on the Duke CURIO, Gentleman attending on the Duke VIOLA, in love with the Duke."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Orsino, Duke of Illyria, Curio, and other Lords; Musicians attending."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Duke, Curio and Attendants."*

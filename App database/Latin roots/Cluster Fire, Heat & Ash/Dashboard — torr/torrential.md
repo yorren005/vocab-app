@@ -5,15 +5,6 @@ status: unread
 ---
 # torrential
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resulting from the action of a torrent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a torrent in force and abundance; ; ; - winthrop sargeant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Water there was none, nor sign of water, except for washed gullies that told of ancient and torrential rains."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The practical side of him was so strong that he might have been a great statesman or reformer, had not his imagination, stimulated by a torrential fluency of language, overborne his will."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"One hour.' In a torrential downpour, we slogged through ankle-deep mud and climbed into the backs of canvas covered trucks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resulting from the action of a torrent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a torrent in force and abundance; ; ; - winthrop sargeant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Water there was none, nor sign of water, except for washed gullies that told of ancient and torrential rains."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"The practical side of him was so strong that he might have been a great statesman or reformer, had not his imagination, stimulated by a torrential fluency of language, overborne his will."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"One hour.' In a torrential downpour, we slogged through ankle-deep mud and climbed into the backs of canvas covered trucks."*

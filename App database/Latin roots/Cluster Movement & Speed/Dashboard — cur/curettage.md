@@ -5,13 +5,6 @@ status: unread
 ---
 # curettage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgery to remove tissue or growths from a bodily cavity (as the uterus) by scraping with a curette.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgery to remove tissue or growths from a bodily cavity (as the uterus) by scraping with a curette.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curettage designates surgery to remove tissue or growths from a bodily cavity (as the uterus) by scraping with a curette."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgery to remove tissue or growths from a bodily cavity (as the uterus) by scraping with a curette.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgery to remove tissue or growths from a bodily cavity (as the uterus) by scraping with a curette.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curettage designates surgery to remove tissue or growths from a bodily cavity (as the uterus) by scraping with a curette."*

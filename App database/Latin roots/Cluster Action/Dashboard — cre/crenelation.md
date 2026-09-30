@@ -5,13 +5,6 @@ status: unread
 ---
 # crenelation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rampart built around the top of a castle with regular gaps for firing arrows or guns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of constructing ramparts with gaps for firing guns or arrows.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"Yes, I had the sharpest sense that during this transit he never took his eyes from me, and I can see at this moment the way his hand, as he went, passed from one of the crenelations to the next."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rampart built around the top of a castle with regular gaps for firing arrows or guns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of constructing ramparts with gaps for firing guns or arrows.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Turn of the Screw*):** *"Yes, I had the sharpest sense that during this transit he never took his eyes from me, and I can see at this moment the way his hand, as he went, passed from one of the crenelations to the next."*

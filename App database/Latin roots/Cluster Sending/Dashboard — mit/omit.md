@@ -5,15 +5,6 @@ status: unread
 ---
 # omit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prevent from being included or considered or accepted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leave undone or leave out.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lords, you are appointed for that office; The due of honour in no point omit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, my lords, omit no happy hour That may give furtherance to our expedition; For we have now no thought in us but France, Save those to God, that run before our business."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you omit The offer of this time, I cannot promise But that you shall sustain more new disgraces With these you bear already."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prevent from being included or considered or accepted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leave undone or leave out.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lords, you are appointed for that office; The due of honour in no point omit."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, my lords, omit no happy hour That may give furtherance to our expedition; For we have now no thought in us but France, Save those to God, that run before our business."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you omit The offer of this time, I cannot promise But that you shall sustain more new disgraces With these you bear already."*

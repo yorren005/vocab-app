@@ -5,13 +5,6 @@ status: unread
 ---
 # semisolid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Partly solid; having a rigidity and viscosity intermediate between a solid and a liquid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partly solid; having a rigidity and viscosity intermediate between a solid and a liquid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semisolid designates partly solid; having a rigidity and viscosity intermediate between a solid and a liquid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partly solid; having a rigidity and viscosity intermediate between a solid and a liquid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partly solid; having a rigidity and viscosity intermediate between a solid and a liquid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semisolid designates partly solid; having a rigidity and viscosity intermediate between a solid and a liquid."*

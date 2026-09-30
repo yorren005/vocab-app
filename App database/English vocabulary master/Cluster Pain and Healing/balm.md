@@ -5,20 +5,6 @@ status: unread
 ---
 # balm
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (figuratively) something soothing
-> 2. **Nuance / Usage**: Aromatic preparation (such as a healing ointment)
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"As sweet as balm, as soft as air, as gentle— O Antony!"*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"They were unable to give each other the balm of sisterly consolation, and each could only lament in silence."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The wine had acted as a balm upon her bruised spirits, and the holy man’s words brought sudden peace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: (figuratively) something soothing
+> 2. **Nuance / Usage**: Aromatic preparation (such as a healing ointment)
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"As sweet as balm, as soft as air, as gentle— O Antony!"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"They were unable to give each other the balm of sisterly consolation, and each could only lament in silence."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The wine had acted as a balm upon her bruised spirits, and the holy man’s words brought sudden peace."*

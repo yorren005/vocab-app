@@ -5,13 +5,6 @@ status: unread
 ---
 # hysteresis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slowing of an effect when the forces acting upon a body are changed (as if from viscosity or internal friction); especially : a lagging in the values of resulting magnetization in a magnetic material (such as iron) due to a changing magnetizing force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slowing of an effect when the forces acting upon a body are changed (as if from viscosity or internal friction); especially : a lagging in the values of resulting magnetization in a magnetic material (such as iron) due to a changing magnetizing force.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hysteresis designates a slowing of an effect when the forces acting upon a body are changed (as if from viscosity or internal friction); especially : a lagging in the values of resulting magnetization in a magnetic material (such as iron) due to a changing magnetizing force."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slowing of an effect when the forces acting upon a body are changed (as if from viscosity or internal friction); especially : a lagging in the values of resulting magnetization in a magnetic material (such as iron) due to a changing magnetizing force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slowing of an effect when the forces acting upon a body are changed (as if from viscosity or internal friction); especially : a lagging in the values of resulting magnetization in a magnetic material (such as iron) due to a changing magnetizing force.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hysteresis designates a slowing of an effect when the forces acting upon a body are changed (as if from viscosity or internal friction); especially : a lagging in the values of resulting magnetization in a magnetic material (such as iron) due to a changing magnetizing force."*

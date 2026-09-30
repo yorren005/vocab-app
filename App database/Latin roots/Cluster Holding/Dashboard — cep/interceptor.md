@@ -5,13 +5,6 @@ status: unread
 ---
 # interceptor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fast maneuverable fighter plane designed to intercept enemy aircraft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fast maneuverable fighter plane designed to intercept enemy aircraft.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Have one of your squadrons remain in this sector and to take out the interceptors that have been harassing our fleet and then catch up with us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fast maneuverable fighter plane designed to intercept enemy aircraft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fast maneuverable fighter plane designed to intercept enemy aircraft.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Have one of your squadrons remain in this sector and to take out the interceptors that have been harassing our fleet and then catch up with us."*

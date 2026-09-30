@@ -5,13 +5,6 @@ status: unread
 ---
 # habacuc
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An old testament book telling habakkuk's prophecies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old testament book telling habakkuk's prophecies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, habacuc designates an old testament book telling habakkuk's prophecies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An old testament book telling habakkuk's prophecies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old testament book telling habakkuk's prophecies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, habacuc designates an old testament book telling habakkuk's prophecies."*

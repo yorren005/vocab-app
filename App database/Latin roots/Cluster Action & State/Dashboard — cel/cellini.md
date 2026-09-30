@@ -5,14 +5,6 @@ status: unread
 ---
 # cellini
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian sculptor (1500-1571).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian sculptor (1500-1571).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His whole high, broad form, seemed made of solid bronze, and shaped in an unalterable mould, like Cellini’s cast Perseus."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"His whole high, broad form, seemed made of solid bronze, and shaped in an unalterable mould, like Cellini’s cast Perseus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian sculptor (1500-1571).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian sculptor (1500-1571).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His whole high, broad form, seemed made of solid bronze, and shaped in an unalterable mould, like Cellini’s cast Perseus."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"His whole high, broad form, seemed made of solid bronze, and shaped in an unalterable mould, like Cellini’s cast Perseus."*

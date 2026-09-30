@@ -5,15 +5,6 @@ status: unread
 ---
 # affirm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish or strengthen as with new evidence or facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To declare or affirm solemnly and formally as true.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For there’s no motion That tends to vice in man but I affirm It is the woman’s part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I said so, dear Katharine; and I must not blush to affirm it."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I am not depressed.” “But I affirm that you are: so much depressed that a few more words would bring tears to your eyes—indeed, they are there now, shining and swimming; and a bead has slipped from the lash and fallen on to the flag."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish or strengthen as with new evidence or facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To declare or affirm solemnly and formally as true.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For there’s no motion That tends to vice in man but I affirm It is the woman’s part."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I said so, dear Katharine; and I must not blush to affirm it."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I am not depressed.” “But I affirm that you are: so much depressed that a few more words would bring tears to your eyes—indeed, they are there now, shining and swimming; and a bead has slipped from the lash and fallen on to the flag."*

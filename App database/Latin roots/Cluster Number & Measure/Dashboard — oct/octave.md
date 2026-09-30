@@ -5,15 +5,6 @@ status: unread
 ---
 # octave
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feast day and the seven days following it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical interval of eight tones.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But as she ain’t here; just pitch it an octave or two lower, will you, and I’ll not only be obliged to you, but it’ll do you more credit,” says Mr."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"So, an octave struck the answer."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The final scene has been graphically described by Madame Octave Feuillet as she witnessed it in her childhood some sixty years ago."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feast day and the seven days following it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical interval of eight tones.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But as she ain’t here; just pitch it an octave or two lower, will you, and I’ll not only be obliged to you, but it’ll do you more credit,” says Mr."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"So, an octave struck the answer."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The final scene has been graphically described by Madame Octave Feuillet as she witnessed it in her childhood some sixty years ago."*

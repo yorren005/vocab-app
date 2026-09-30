@@ -5,15 +5,6 @@ status: unread
 ---
 # inconsiderable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Too small or unimportant to merit attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too small or unimportant to merit attention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"When I go into our little church on a Sunday, a considerable part of the inconsiderable congregation expect to see me drop, scorched and withered, on the pavement under the Dedlock displeasure."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The agitation which she had herself experienced on first learning her brother’s engagement made her expect to raise no inconsiderable emotion in Mr. and Mrs."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy.” “You saw me dance at Meryton, I believe, sir.” “Yes, indeed, and received no inconsiderable pleasure from the sight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Too small or unimportant to merit attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too small or unimportant to merit attention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"When I go into our little church on a Sunday, a considerable part of the inconsiderable congregation expect to see me drop, scorched and withered, on the pavement under the Dedlock displeasure."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"The agitation which she had herself experienced on first learning her brother’s engagement made her expect to raise no inconsiderable emotion in Mr. and Mrs."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy.” “You saw me dance at Meryton, I believe, sir.” “Yes, indeed, and received no inconsiderable pleasure from the sight."*

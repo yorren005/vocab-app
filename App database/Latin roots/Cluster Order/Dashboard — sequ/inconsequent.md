@@ -5,15 +5,6 @@ status: unread
 ---
 # inconsequent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking worth or importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking worth or importance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"How precisely like Red Pepper Burns it was to plan for a “stag” dinner in this inconsequent way!"*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"You only care to amuse yourself.” The note she had heard in his voice a moment before reappeared, and mixed with it now was an audible strain of bitterness--a bitterness so abrupt and inconsequent that the girl was afraid she had hurt him."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"My poor Henrietta,” she said, “you’ve no sense of privacy.” Henrietta coloured deeply, and for a moment her brilliant eyes were suffused, while Isabel found her more than ever inconsequent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking worth or importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking worth or importance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"How precisely like Red Pepper Burns it was to plan for a “stag” dinner in this inconsequent way!"*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"You only care to amuse yourself.” The note she had heard in his voice a moment before reappeared, and mixed with it now was an audible strain of bitterness--a bitterness so abrupt and inconsequent that the girl was afraid she had hurt him."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"My poor Henrietta,” she said, “you’ve no sense of privacy.” Henrietta coloured deeply, and for a moment her brilliant eyes were suffused, while Isabel found her more than ever inconsequent."*

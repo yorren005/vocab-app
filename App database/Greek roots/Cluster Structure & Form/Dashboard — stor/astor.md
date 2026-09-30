@@ -5,15 +5,6 @@ status: unread
 ---
 # astor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: British politician (born in the united states) who was the first woman to sit in the british house of commons (1879-1964).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states capitalist (born in germany) who made a fortune in fur trading (1763-1848).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I, at last, became determined, and chose the roof-garden at the Astor to tell him good-by, and perform the final operation."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"He went into the reading-room of the Astor House every day to look over the advertised wants in the daily papers."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Stubbs?” “Over to the Astor House."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: British politician (born in the united states) who was the first woman to sit in the british house of commons (1879-1964).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states capitalist (born in germany) who made a fortune in fur trading (1763-1848).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I, at last, became determined, and chose the roof-garden at the Astor to tell him good-by, and perform the final operation."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"He went into the reading-room of the Astor House every day to look over the advertised wants in the daily papers."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Stubbs?” “Over to the Astor House."*

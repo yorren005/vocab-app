@@ -5,13 +5,6 @@ status: unread
 ---
 # parenteral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated or occurring outside the intestine; especially : introduced otherwise than by way of the intestines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated or occurring outside the intestine; especially : introduced otherwise than by way of the intestines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parenteral designates situated or occurring outside the intestine; especially : introduced otherwise than by way of the intestines."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated or occurring outside the intestine; especially : introduced otherwise than by way of the intestines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated or occurring outside the intestine; especially : introduced otherwise than by way of the intestines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parenteral designates situated or occurring outside the intestine; especially : introduced otherwise than by way of the intestines."*

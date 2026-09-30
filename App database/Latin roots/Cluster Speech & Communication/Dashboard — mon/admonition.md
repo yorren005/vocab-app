@@ -5,15 +5,6 @@ status: unread
 ---
 # admonition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cautionary advice about something imminent (especially imminent danger or other unpleasantness).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A firm rebuke.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Double and treble admonition, and still forfeit in the same kind?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A lunatic lean-witted fool, Presuming on an ague’s privilege, Darest with thy frozen admonition Make pale our cheek, chasing the royal blood With fury from his native residence."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The clergyman stayed to exchange a few sentences, either of admonition or reproof, with his haughty parishioner; this duty done, he too departed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cautionary advice about something imminent (especially imminent danger or other unpleasantness).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A firm rebuke.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Double and treble admonition, and still forfeit in the same kind?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A lunatic lean-witted fool, Presuming on an ague’s privilege, Darest with thy frozen admonition Make pale our cheek, chasing the royal blood With fury from his native residence."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The clergyman stayed to exchange a few sentences, either of admonition or reproof, with his haughty parishioner; this duty done, he too departed."*

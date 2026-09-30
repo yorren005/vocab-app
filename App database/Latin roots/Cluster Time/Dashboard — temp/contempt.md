@@ -5,15 +5,6 @@ status: unread
 ---
 # contempt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of respect accompanied by a feeling of intense dislike.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manner that is generally disrespectful and contemptuous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, what place make you special, when you put off that with such contempt?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is not well, rash and unbridled boy, To fly the favours of so good a king, To pluck his indignation on thy head By the misprizing of a maid too virtuous For the contempt of empire."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How ill agrees it with your gravity To counterfeit thus grossly with your slave, Abetting him to thwart me in my mood; Be it my wrong, you are from me exempt, But wrong not that wrong with a more contempt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of respect accompanied by a feeling of intense dislike.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manner that is generally disrespectful and contemptuous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, what place make you special, when you put off that with such contempt?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is not well, rash and unbridled boy, To fly the favours of so good a king, To pluck his indignation on thy head By the misprizing of a maid too virtuous For the contempt of empire."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How ill agrees it with your gravity To counterfeit thus grossly with your slave, Abetting him to thwart me in my mood; Be it my wrong, you are from me exempt, But wrong not that wrong with a more contempt."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # specie
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coins collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coins collectively.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The notes depreciated and drove gold out of circulation, and it was not until 1821 that specie payments were definitely resumed."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This was called "the resumption of specie payments." Almost every nation has at some time issued political money."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These notes may be returned to the issuing bank either to be redeemed in specie or to be paid in some other form of credit, such as deposits or exchange."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coins collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coins collectively.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The notes depreciated and drove gold out of circulation, and it was not until 1821 that specie payments were definitely resumed."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This was called "the resumption of specie payments." Almost every nation has at some time issued political money."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These notes may be returned to the issuing bank either to be redeemed in specie or to be paid in some other form of credit, such as deposits or exchange."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # timpanist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who plays the timpani.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of two or more kettledrums played by one performer in an orchestra or band.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, timpanist designates a person who plays the timpani."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who plays the timpani.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of two or more kettledrums played by one performer in an orchestra or band.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, timpanist designates a person who plays the timpani."*

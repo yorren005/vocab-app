@@ -5,15 +5,6 @@ status: unread
 ---
 # adequate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the requisite qualities or resources to meet a task.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sufficient for the purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He had by this time grown used to being in love; the passion now startled him less even when it tortured him more, and he felt himself adequate to the situation."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The sun, on account of the mist, had a curious sentient, personal look, demanding the masculine pronoun for its adequate expression."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Neither had an adequate conception of the complicated forces at work outside the smooth and gentle current in which they and their associates floated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the requisite qualities or resources to meet a task.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sufficient for the purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He had by this time grown used to being in love; the passion now startled him less even when it tortured him more, and he felt himself adequate to the situation."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The sun, on account of the mist, had a curious sentient, personal look, demanding the masculine pronoun for its adequate expression."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Neither had an adequate conception of the complicated forces at work outside the smooth and gentle current in which they and their associates floated."*

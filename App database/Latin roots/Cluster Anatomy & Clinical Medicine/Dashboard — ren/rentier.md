@@ -5,13 +5,6 @@ status: unread
 ---
 # rentier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose income is from property rents or bond interest and other investments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone whose income is from property rents or bond interest and other investments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The one who has a perpetual income from bonds or rents is called a _rentier_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose income is from property rents or bond interest and other investments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone whose income is from property rents or bond interest and other investments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The one who has a perpetual income from bonds or rents is called a _rentier_."*

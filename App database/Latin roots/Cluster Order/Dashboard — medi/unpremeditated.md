@@ -5,15 +5,6 @@ status: unread
 ---
 # unpremeditated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not prepared or planned in advance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not premeditated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ask me what question thou canst possible, And I will answer unpremeditated."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Even now, coming round by the Sol’s Arms with the intention of passing down the court, and out at the Chancery Lane end, and so terminating his unpremeditated after-supper stroll of ten minutes’ long from his own door and back again, Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The girls were wild for dancing; and the evenings ended, occasionally, in an unpremeditated little ball."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not prepared or planned in advance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not premeditated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ask me what question thou canst possible, And I will answer unpremeditated."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Even now, coming round by the Sol’s Arms with the intention of passing down the court, and out at the Chancery Lane end, and so terminating his unpremeditated after-supper stroll of ten minutes’ long from his own door and back again, Mr."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The girls were wild for dancing; and the evenings ended, occasionally, in an unpremeditated little ball."*

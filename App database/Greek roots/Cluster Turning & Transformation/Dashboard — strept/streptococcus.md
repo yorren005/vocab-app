@@ -5,13 +5,6 @@ status: unread
 ---
 # streptococcus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Streptococcus) of spherical or ovoid chiefly nonmotile and parasitic gram-positive bacteria that divide only in one plane, occur in pairs or chains, and include important pathogens of humans and domestic animals; broadly : a coccus occurring in chains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Streptococcus) of spherical or ovoid chiefly nonmotile and parasitic gram-positive bacteria that divide only in one plane, occur in pairs or chains, and include important pathogens of humans and domestic animals; broadly : a coccus occurring in chains.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptococcus designates any of a genus (streptococcus) of spherical or ovoid chiefly nonmotile and parasitic gram-positive bacteria that divide only in one plane, occur in pairs or chains, and include important pathogens of humans and domestic animals; broadly : a coccus occurring in chains."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Streptococcus) of spherical or ovoid chiefly nonmotile and parasitic gram-positive bacteria that divide only in one plane, occur in pairs or chains, and include important pathogens of humans and domestic animals; broadly : a coccus occurring in chains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Streptococcus) of spherical or ovoid chiefly nonmotile and parasitic gram-positive bacteria that divide only in one plane, occur in pairs or chains, and include important pathogens of humans and domestic animals; broadly : a coccus occurring in chains.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptococcus designates any of a genus (streptococcus) of spherical or ovoid chiefly nonmotile and parasitic gram-positive bacteria that divide only in one plane, occur in pairs or chains, and include important pathogens of humans and domestic animals; broadly : a coccus occurring in chains."*

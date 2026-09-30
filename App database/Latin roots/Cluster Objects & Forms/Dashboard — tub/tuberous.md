@@ -5,13 +5,6 @@ status: unread
 ---
 # tuberous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling a tuber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling a tuber.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I saw long ribbons of fucus floating, some globular, others tuberous; laurenciæ and cladostephi of most delicate foliage, and some rhodomeniæ palmatæ, resembling the fan of a cactus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling a tuber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling a tuber.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I saw long ribbons of fucus floating, some globular, others tuberous; laurenciæ and cladostephi of most delicate foliage, and some rhodomeniæ palmatæ, resembling the fan of a cactus."*

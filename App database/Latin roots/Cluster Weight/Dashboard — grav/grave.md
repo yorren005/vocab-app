@@ -5,15 +5,6 @@ status: unread
 ---
 # grave
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Death of a person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A place for the burial of a corpse (especially beneath the ground and marked by a tombstone).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art the grave where buried love doth live, Hung with the trophies of my lovers gone, Who all their parts of me to thee did give, That due of many, now is thine alone."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mere word’s a slave, Debauch’d on every tomb, on every grave A lying trophy, and as oft is dumb Where dust and damn’d oblivion is the tomb Of honour’d bones indeed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When you have spoken it, ’tis dead, and I am the grave of it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Death of a person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A place for the burial of a corpse (especially beneath the ground and marked by a tombstone).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art the grave where buried love doth live, Hung with the trophies of my lovers gone, Who all their parts of me to thee did give, That due of many, now is thine alone."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mere word’s a slave, Debauch’d on every tomb, on every grave A lying trophy, and as oft is dumb Where dust and damn’d oblivion is the tomb Of honour’d bones indeed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When you have spoken it, ’tis dead, and I am the grave of it."*

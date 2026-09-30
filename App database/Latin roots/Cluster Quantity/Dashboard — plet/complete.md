@@ -5,15 +5,6 @@ status: unread
 ---
 # complete
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come or bring to a finish or an end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to a whole, with all the necessary parts or elements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What may this mean, That thou, dead corse, again in complete steel, Revisit’st thus the glimpses of the moon, Making night hideous, and we fools of nature So horridly to shake our disposition With thoughts beyond the reaches of our souls?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In complete glory she reveal’d herself; And, whereas I was black and swart before, With those clear rays which she infused on me That beauty am I blest with which you may see."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By my valour, the most complete champion that ever I heard!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Come or bring to a finish or an end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to a whole, with all the necessary parts or elements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What may this mean, That thou, dead corse, again in complete steel, Revisit’st thus the glimpses of the moon, Making night hideous, and we fools of nature So horridly to shake our disposition With thoughts beyond the reaches of our souls?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In complete glory she reveal’d herself; And, whereas I was black and swart before, With those clear rays which she infused on me That beauty am I blest with which you may see."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By my valour, the most complete champion that ever I heard!"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # lino
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A floor covering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A floor covering.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"On October 22 it was moving from the village of Mikúlino to that of Shámshevo."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"To the left of the road between Mikúlino and Shámshevo there were large forests, extending in some places up to the road itself though in others a mile or more back from it."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"That morning, Cossacks of Denísov’s party had seized and carried off into the forest two wagons loaded with cavalry saddles, which had stuck in the mud not far from Mikúlino where the forest ran close to the road."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A floor covering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A floor covering.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"On October 22 it was moving from the village of Mikúlino to that of Shámshevo."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"To the left of the road between Mikúlino and Shámshevo there were large forests, extending in some places up to the road itself though in others a mile or more back from it."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"That morning, Cossacks of Denísov’s party had seized and carried off into the forest two wagons loaded with cavalry saddles, which had stuck in the mud not far from Mikúlino where the forest ran close to the road."*

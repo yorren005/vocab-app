@@ -5,15 +5,6 @@ status: unread
 ---
 # man
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual human; especially : an adult male human.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man belonging to a particular category (as by birth, residence, membership, or occupation) —usually used in combination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How called you the man you speak of, madam?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Man is enemy to virginity; how may we barricado it against him?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Man setting down before you will undermine you and blow you up."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual human; especially : an adult male human.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man belonging to a particular category (as by birth, residence, membership, or occupation) —usually used in combination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How called you the man you speak of, madam?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Man is enemy to virginity; how may we barricado it against him?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Man setting down before you will undermine you and blow you up."*

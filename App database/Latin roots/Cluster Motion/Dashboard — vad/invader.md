@@ -5,15 +5,6 @@ status: unread
 ---
 # invader
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who enters by force in order to conquer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who enters by force in order to conquer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"We have seen the invader enter our doors; we have been obliged to spread our table for him, and give him of our best."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But supposing the invader of domestic bliss to betake himself away at the first rush of the harem’s lord, then is it very diverting to watch that lord."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Similar impediments occur at every step, to exhaust the strength and delay the progress of an invader."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who enters by force in order to conquer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who enters by force in order to conquer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"We have seen the invader enter our doors; we have been obliged to spread our table for him, and give him of our best."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But supposing the invader of domestic bliss to betake himself away at the first rush of the harem’s lord, then is it very diverting to watch that lord."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Similar impediments occur at every step, to exhaust the strength and delay the progress of an invader."*

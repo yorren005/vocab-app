@@ -5,15 +5,6 @@ status: unread
 ---
 # prepare
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make ready or suitable or equip in advance for a particular purpose or for some use, event, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prepare for eating by applying heat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go you and prepare Aliena; for, look you, here comes my Rosalind."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore back to Rome and prepare for your execution."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore prepare you, I your commission will forthwith dispatch, And he to England shall along with you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make ready or suitable or equip in advance for a particular purpose or for some use, event, etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prepare for eating by applying heat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go you and prepare Aliena; for, look you, here comes my Rosalind."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore back to Rome and prepare for your execution."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore prepare you, I your commission will forthwith dispatch, And he to England shall along with you."*

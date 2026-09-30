@@ -5,15 +5,6 @@ status: unread
 ---
 # stall
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compartment in a stable where a single animal is confined and fed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small area set off by walls for special use.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you leave me; stall this in your bosom; and I thank you for your honest care."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We could not stall together In the whole world."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look how we can, or sad or merrily, Interpretation will misquote our looks, And we shall feed like oxen at a stall, The better cherish’d still the nearer death."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compartment in a stable where a single animal is confined and fed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small area set off by walls for special use.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you leave me; stall this in your bosom; and I thank you for your honest care."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We could not stall together In the whole world."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look how we can, or sad or merrily, Interpretation will misquote our looks, And we shall feed like oxen at a stall, The better cherish’d still the nearer death."*

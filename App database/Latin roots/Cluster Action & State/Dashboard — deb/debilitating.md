@@ -5,14 +5,6 @@ status: unread
 ---
 # debilitating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make weak.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impairing the strength and vitality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I forgit myself when I take such an interest in your breakfast, as to wish your frame, exhausted by the debilitating effects of prodigygality, to be stimilated by the ’olesome nourishment of your forefathers."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The summer days in the lower valleys are quite warm, but, as the dry atmosphere rapidly absorbs the perspiration of the body, it prevents the debilitating effect experienced where the air is heavier and more saturated with moisture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make weak.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impairing the strength and vitality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I forgit myself when I take such an interest in your breakfast, as to wish your frame, exhausted by the debilitating effects of prodigygality, to be stimilated by the ’olesome nourishment of your forefathers."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The summer days in the lower valleys are quite warm, but, as the dry atmosphere rapidly absorbs the perspiration of the body, it prevents the debilitating effect experienced where the air is heavier and more saturated with moisture."*

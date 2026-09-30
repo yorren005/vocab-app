@@ -5,15 +5,6 @@ status: unread
 ---
 # jocularity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling facetious merriment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fun characterized by humor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"George.” (There is an ogreish kind of jocularity in Grandfather Smallweed to-day.) “And you can refuse, you mean, eh?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, receiving this new light with a most agreeable jocularity of surprise."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy’s power of jocularity merged into a power of taking the profoundest offence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling facetious merriment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fun characterized by humor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"George.” (There is an ogreish kind of jocularity in Grandfather Smallweed to-day.) “And you can refuse, you mean, eh?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, receiving this new light with a most agreeable jocularity of surprise."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy’s power of jocularity merged into a power of taking the profoundest offence."*

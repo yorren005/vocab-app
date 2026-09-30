@@ -5,15 +5,6 @@ status: unread
 ---
 # compressing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Applying pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more compact by or as if by pressing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Very well,” she said, and gave him her hand, compressing her lips to a demure impassivity."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John, and I scorn you when you offer it.” He looked at me fixedly, compressing his well-cut lips while he did so."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Again the pealing organ heaves its thrilling thunders, compressing air into music, and rolling it forth upon the soul."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Applying pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more compact by or as if by pressing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Very well,” she said, and gave him her hand, compressing her lips to a demure impassivity."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John, and I scorn you when you offer it.” He looked at me fixedly, compressing his well-cut lips while he did so."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Again the pealing organ heaves its thrilling thunders, compressing air into music, and rolling it forth upon the soul."*

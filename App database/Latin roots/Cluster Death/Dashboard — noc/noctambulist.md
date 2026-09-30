@@ -5,14 +5,6 @@ status: unread
 ---
 # noctambulist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who walks about in their sleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who walks about in their sleep.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Roads, garden-paths, the house-fronts, the barton-walls were warm as hearths, and reflected the noontime temperature into the noctambulist’s face."*
-> - 📜 **James Joyce (*Ulysses*):** *"What proposal did Bloom, diambulist, father of Milly, somnambulist, make to Stephen, noctambulist?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who walks about in their sleep.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who walks about in their sleep.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Roads, garden-paths, the house-fronts, the barton-walls were warm as hearths, and reflected the noontime temperature into the noctambulist’s face."*
+> - 📜 **James Joyce (*Ulysses*):** *"What proposal did Bloom, diambulist, father of Milly, somnambulist, make to Stephen, noctambulist?"*

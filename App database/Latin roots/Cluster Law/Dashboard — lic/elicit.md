@@ -5,15 +5,6 @@ status: unread
 ---
 # elicit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Call forth (emotions, feelings, and responses).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deduce (a principle) or construe (a meaning).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And as our utmost endeavours could only elicit from Richard himself sweeping assurances that everything was going on capitally and that it really was all right at last, our anxiety was not much relieved by him."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"I hope that the friction will elicit heat, since this neither cold nor hot spirit is not to edification." The other letters of this period range over a wide variety of subjects."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I wiped my tears and hushed my sobs, fearful lest any sign of violent grief might waken a preternatural voice to comfort me, or elicit from the gloom some haloed face, bending over me with strange pity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Call forth (emotions, feelings, and responses).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deduce (a principle) or construe (a meaning).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"And as our utmost endeavours could only elicit from Richard himself sweeping assurances that everything was going on capitally and that it really was all right at last, our anxiety was not much relieved by him."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"I hope that the friction will elicit heat, since this neither cold nor hot spirit is not to edification." The other letters of this period range over a wide variety of subjects."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I wiped my tears and hushed my sobs, fearful lest any sign of violent grief might waken a preternatural voice to comfort me, or elicit from the gloom some haloed face, bending over me with strange pity."*

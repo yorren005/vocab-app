@@ -5,15 +5,6 @@ status: unread
 ---
 # candlelight
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The light provided by a burning candle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The light provided by a burning candle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The dairy had again worked by morning candlelight for a long time; and a fresh renewal of Clare’s pleading occurred one morning between three and four."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In the candlelight the painting was more than unpleasant."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"’Tis a thousand pities your husband can’t see ’ee now—you do look a real beauty!” said Izz Huett, regarding Tess as she stood on the threshold between the steely starlight without and the yellow candlelight within."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The light provided by a burning candle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The light provided by a burning candle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The dairy had again worked by morning candlelight for a long time; and a fresh renewal of Clare’s pleading occurred one morning between three and four."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In the candlelight the painting was more than unpleasant."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"’Tis a thousand pities your husband can’t see ’ee now—you do look a real beauty!” said Izz Huett, regarding Tess as she stood on the threshold between the steely starlight without and the yellow candlelight within."*

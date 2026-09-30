@@ -5,15 +5,6 @@ status: unread
 ---
 # authenticity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undisputed credibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undisputed credibility.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Their faith bears its own signature, and they have only to look within to discover its authenticity."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"That check, those letters, with all signatures and endorsements and those persons are this day living and can testify to the authenticity of the circumstance."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"If Jesus comes to them with a word from God, can he not prove its authenticity preferably with "a sign from the sky" (Mark 8:11)?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undisputed credibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undisputed credibility.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Their faith bears its own signature, and they have only to look within to discover its authenticity."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"That check, those letters, with all signatures and endorsements and those persons are this day living and can testify to the authenticity of the circumstance."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"If Jesus comes to them with a word from God, can he not prove its authenticity preferably with "a sign from the sky" (Mark 8:11)?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # modest
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by simplicity; having a humble opinion of yourself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not large but sufficient in size or amount.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will no more enforce mine office on you, Humbly entreating from your royal thoughts A modest one to bear me back again."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your wife Octavia, with her modest eyes And still conclusion, shall acquire no honour Demuring upon me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ready, sir; but his will hath in it a more modest working."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by simplicity; having a humble opinion of yourself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not large but sufficient in size or amount.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will no more enforce mine office on you, Humbly entreating from your royal thoughts A modest one to bear me back again."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your wife Octavia, with her modest eyes And still conclusion, shall acquire no honour Demuring upon me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ready, sir; but his will hath in it a more modest working."*

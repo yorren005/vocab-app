@@ -5,15 +5,6 @@ status: unread
 ---
 # chair
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A seat typically having four legs and a back for one person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electric chair —used with the.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is like a barber’s chair, that fits all buttocks—the pin-buttock, the quatch-buttock, the brawn-buttock, or any buttock."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So our virtues Lie in th’ interpretation of the time, And power, unto itself most commendable, Hath not a tomb so evident as a chair T’ extol what it hath done."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This chair shall be my state, this dagger my sceptre, and this cushion my crown."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A seat typically having four legs and a back for one person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electric chair —used with the.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is like a barber’s chair, that fits all buttocks—the pin-buttock, the quatch-buttock, the brawn-buttock, or any buttock."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So our virtues Lie in th’ interpretation of the time, And power, unto itself most commendable, Hath not a tomb so evident as a chair T’ extol what it hath done."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This chair shall be my state, this dagger my sceptre, and this cushion my crown."*

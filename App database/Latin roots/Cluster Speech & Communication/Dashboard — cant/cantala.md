@@ -5,13 +5,6 @@ status: unread
 ---
 # cantala
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hard fiber used in making coarse twine; from philippine agave plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Philippine plant yielding a hard fibre used in making coarse twine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cantala designates hard fiber used in making coarse twine; from philippine agave plants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hard fiber used in making coarse twine; from philippine agave plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Philippine plant yielding a hard fibre used in making coarse twine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cantala designates hard fiber used in making coarse twine; from philippine agave plants."*

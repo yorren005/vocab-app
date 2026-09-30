@@ -5,15 +5,6 @@ status: unread
 ---
 # suds
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The froth produced by soaps or detergents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dysphemism for beer (especially for lager that effervesces).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Her fingers were white and wrinkled with washing, and the soap-suds were yet smoking which she wiped off her arms."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The short and long of it is, men, will ye spit fire or not?” “Oh! see the suds he makes!” cried Flask, dancing up and down—“What a hump—Oh, _do_ pile on the beef—lays like a log!"*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Well, run and get me your pipe and bowl and I will mix you some suds.” The soap-suds were soon ready, and Tommie took his favorite position on the broad window-sill with the bowl in his lap."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The froth produced by soaps or detergents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dysphemism for beer (especially for lager that effervesces).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Her fingers were white and wrinkled with washing, and the soap-suds were yet smoking which she wiped off her arms."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The short and long of it is, men, will ye spit fire or not?” “Oh! see the suds he makes!” cried Flask, dancing up and down—“What a hump—Oh, _do_ pile on the beef—lays like a log!"*
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Well, run and get me your pipe and bowl and I will mix you some suds.” The soap-suds were soon ready, and Tommie took his favorite position on the broad window-sill with the bowl in his lap."*

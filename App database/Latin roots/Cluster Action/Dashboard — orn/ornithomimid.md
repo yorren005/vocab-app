@@ -5,13 +5,6 @@ status: unread
 ---
 # ornithomimid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lightly built medium-sized dinosaur having extremely long limbs and necks with small heads and big brains and large eyes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lightly built medium-sized dinosaur having extremely long limbs and necks with small heads and big brains and large eyes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithomimid designates lightly built medium-sized dinosaur having extremely long limbs and necks with small heads and big brains and large eyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lightly built medium-sized dinosaur having extremely long limbs and necks with small heads and big brains and large eyes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lightly built medium-sized dinosaur having extremely long limbs and necks with small heads and big brains and large eyes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithomimid designates lightly built medium-sized dinosaur having extremely long limbs and necks with small heads and big brains and large eyes."*

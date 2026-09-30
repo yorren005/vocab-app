@@ -5,15 +5,6 @@ status: unread
 ---
 # fantastically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceedingly; extremely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exceedingly; extremely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Re-enter Ophelia, fantastically dressed with straws and flowers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When he was naked, he was, for all the world, like a forked radish, with a head fantastically carved upon it with a knife."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Lear, fantastically dressed up with flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceedingly; extremely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exceedingly; extremely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Re-enter Ophelia, fantastically dressed with straws and flowers."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When he was naked, he was, for all the world, like a forked radish, with a head fantastically carved upon it with a knife."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Lear, fantastically dressed up with flowers."*

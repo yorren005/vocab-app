@@ -5,13 +5,6 @@ status: unread
 ---
 # radiancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being bright and sending out rays of light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being bright and sending out rays of light.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Oh, madame, are you sure?" All the radiancy had gone; her eyes filled with tears."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being bright and sending out rays of light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being bright and sending out rays of light.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Oh, madame, are you sure?" All the radiancy had gone; her eyes filled with tears."*

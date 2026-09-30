@@ -5,15 +5,6 @@ status: unread
 ---
 # malt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A milkshake made with malt powder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lager of high alcohol content; by law it is considered too alcoholic to be sold as lager or beer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"DROMIO OF SYRACUSE. [_Within._] Mome, malt-horse, capon, coxcomb, idiot, patch!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fiend hath pricked down Bardolph irrecoverable, and his face is Lucifer’s privy-kitchen, where he doth nothing but roast malt-worms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You peasant swain! you whoreson malt-horse drudge!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A milkshake made with malt powder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lager of high alcohol content; by law it is considered too alcoholic to be sold as lager or beer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"DROMIO OF SYRACUSE. [_Within._] Mome, malt-horse, capon, coxcomb, idiot, patch!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fiend hath pricked down Bardolph irrecoverable, and his face is Lucifer’s privy-kitchen, where he doth nothing but roast malt-worms."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You peasant swain! you whoreson malt-horse drudge!"*

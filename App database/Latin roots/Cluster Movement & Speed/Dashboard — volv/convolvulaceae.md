@@ -5,13 +5,6 @@ status: unread
 ---
 # convolvulaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Morning glory; bindweed; sweet potato; plants having trumpet-shaped flowers and a climbing or twining habit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Morning glory; bindweed; sweet potato; plants having trumpet-shaped flowers and a climbing or twining habit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, convolvulaceae designates morning glory; bindweed; sweet potato; plants having trumpet-shaped flowers and a climbing or twining habit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Morning glory; bindweed; sweet potato; plants having trumpet-shaped flowers and a climbing or twining habit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Morning glory; bindweed; sweet potato; plants having trumpet-shaped flowers and a climbing or twining habit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, convolvulaceae designates morning glory; bindweed; sweet potato; plants having trumpet-shaped flowers and a climbing or twining habit."*

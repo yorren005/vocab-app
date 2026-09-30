@@ -5,13 +5,6 @@ status: unread
 ---
 # triceratops
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Huge ceratopsian dinosaur having three horns and the neck heavily armored with a very solid frill.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Huge ceratopsian dinosaur having three horns and the neck heavily armored with a very solid frill.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Triceratops designates huge ceratopsian dinosaur having three horns and the neck heavily armored with a very solid frill."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Huge ceratopsian dinosaur having three horns and the neck heavily armored with a very solid frill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Huge ceratopsian dinosaur having three horns and the neck heavily armored with a very solid frill.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Triceratops designates huge ceratopsian dinosaur having three horns and the neck heavily armored with a very solid frill."*

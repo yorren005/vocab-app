@@ -5,13 +5,6 @@ status: unread
 ---
 # athelstan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first saxon ruler who extended his kingdom to include nearly all of england (895-939).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first saxon ruler who extended his kingdom to include nearly all of england (895-939).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Life and Death of Cormac the Skald*):** *"Then they sailed out to sea, and at last came to Norway, where at that time Hakon, the foster-son of Athelstan, was king."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The first saxon ruler who extended his kingdom to include nearly all of england (895-939).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first saxon ruler who extended his kingdom to include nearly all of england (895-939).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Life and Death of Cormac the Skald*):** *"Then they sailed out to sea, and at last came to Norway, where at that time Hakon, the foster-son of Athelstan, was king."*

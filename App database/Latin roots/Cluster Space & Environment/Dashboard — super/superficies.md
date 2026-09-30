@@ -5,14 +5,6 @@ status: unread
 ---
 # superficies
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The purely external aspect of a thing; superficial appearance; -r.w.speaight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Outer surface of an area or a body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"As if a woman were a mere colored superficies!"*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"The superficies was composed of several bits of wood, about the bigness of a die, but some larger than others."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The purely external aspect of a thing; superficial appearance; -r.w.speaight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Outer surface of an area or a body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"As if a woman were a mere colored superficies!"*
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"The superficies was composed of several bits of wood, about the bigness of a die, but some larger than others."*

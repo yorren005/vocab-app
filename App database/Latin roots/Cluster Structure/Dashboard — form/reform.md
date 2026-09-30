@@ -5,15 +5,6 @@ status: unread
 ---
 # reform
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A change for the better as a result of correcting abuses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A campaign aimed to correct abuses or malpractices.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hope we have reform’d that indifferently with us, sir."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, as we hear you do reform yourselves, We will, according to your strengths and qualities, Give you advancement."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Meantime but ask What you would have reform’d that is not well, And well shall you perceive how willingly I will both hear and grant you your requests."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A change for the better as a result of correcting abuses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A campaign aimed to correct abuses or malpractices.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hope we have reform’d that indifferently with us, sir."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, as we hear you do reform yourselves, We will, according to your strengths and qualities, Give you advancement."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Meantime but ask What you would have reform’d that is not well, And well shall you perceive how willingly I will both hear and grant you your requests."*

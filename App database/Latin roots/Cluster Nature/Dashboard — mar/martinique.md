@@ -5,14 +5,6 @@ status: unread
 ---
 # martinique
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An island in the eastern caribbean in the windward islands; administered as an overseas region of france.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An island in the eastern caribbean in the windward islands; administered as an overseas region of france.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"April 16th, we sighted Martinique and Guadaloupe from a distance of about thirty miles."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Others succeeded in locating such queer names as Popocatepetl, Martinique, Ashtabula, Rhodesia, Orkney, Comanche."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An island in the eastern caribbean in the windward islands; administered as an overseas region of france.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An island in the eastern caribbean in the windward islands; administered as an overseas region of france.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"April 16th, we sighted Martinique and Guadaloupe from a distance of about thirty miles."*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Others succeeded in locating such queer names as Popocatepetl, Martinique, Ashtabula, Rhodesia, Orkney, Comanche."*

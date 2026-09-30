@@ -5,13 +5,6 @@ status: unread
 ---
 # cingulum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) an encircling structure (as the ridge around the base of a tooth).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anatomy) an encircling structure (as the ridge around the base of a tooth).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"IX.--OF THE CINGULUM VENERIS, OR THE GIRDLE OF VENUS."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) an encircling structure (as the ridge around the base of a tooth).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anatomy) an encircling structure (as the ridge around the base of a tooth).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"IX.--OF THE CINGULUM VENERIS, OR THE GIRDLE OF VENUS."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # preform
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form into a shape resembling the final, desired one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form or shape beforehand or determine the shape of beforehand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"In her lay a Godframed Godgiven preformed possibility which thou hast fructified with thy modicum of man’s work."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Form into a shape resembling the final, desired one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form or shape beforehand or determine the shape of beforehand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"In her lay a Godframed Godgiven preformed possibility which thou hast fructified with thy modicum of man’s work."*

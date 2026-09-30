@@ -5,13 +5,6 @@ status: unread
 ---
 # venogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An x ray of a vein injected with a radiopaque contrast medium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An x ray of a vein injected with a radiopaque contrast medium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venogram designates an x ray of a vein injected with a radiopaque contrast medium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An x ray of a vein injected with a radiopaque contrast medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An x ray of a vein injected with a radiopaque contrast medium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venogram designates an x ray of a vein injected with a radiopaque contrast medium."*

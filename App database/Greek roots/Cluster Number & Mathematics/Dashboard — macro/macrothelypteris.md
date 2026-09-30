@@ -5,13 +5,6 @@ status: unread
 ---
 # macrothelypteris
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medium to large terrestrial ferns of tropical asia to polynesia and australia; naturalized in americas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medium to large terrestrial ferns of tropical asia to polynesia and australia; naturalized in americas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrothelypteris designates medium to large terrestrial ferns of tropical asia to polynesia and australia; naturalized in americas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Medium to large terrestrial ferns of tropical asia to polynesia and australia; naturalized in americas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medium to large terrestrial ferns of tropical asia to polynesia and australia; naturalized in americas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrothelypteris designates medium to large terrestrial ferns of tropical asia to polynesia and australia; naturalized in americas."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # silver-lace
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrubby perennial of the canary islands having white flowers and leaves and hairy stems covered with dustlike down; sometimes placed in genus chrysanthemum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrubby perennial of the canary islands having white flowers and leaves and hairy stems covered with dustlike down; sometimes placed in genus chrysanthemum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silver-lace designates shrubby perennial of the canary islands having white flowers and leaves and hairy stems covered with dustlike down; sometimes placed in genus chrysanthemum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrubby perennial of the canary islands having white flowers and leaves and hairy stems covered with dustlike down; sometimes placed in genus chrysanthemum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrubby perennial of the canary islands having white flowers and leaves and hairy stems covered with dustlike down; sometimes placed in genus chrysanthemum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silver-lace designates shrubby perennial of the canary islands having white flowers and leaves and hairy stems covered with dustlike down; sometimes placed in genus chrysanthemum."*

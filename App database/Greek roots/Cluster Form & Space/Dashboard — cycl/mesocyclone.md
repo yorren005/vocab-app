@@ -5,13 +5,6 @@ status: unread
 ---
 # mesocyclone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rapidly rotating air mass within a thunderstorm that often gives rise to a tornado.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rapidly rotating air mass within a thunderstorm that often gives rise to a tornado.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesocyclone designates a rapidly rotating air mass within a thunderstorm that often gives rise to a tornado."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rapidly rotating air mass within a thunderstorm that often gives rise to a tornado.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rapidly rotating air mass within a thunderstorm that often gives rise to a tornado.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesocyclone designates a rapidly rotating air mass within a thunderstorm that often gives rise to a tornado."*

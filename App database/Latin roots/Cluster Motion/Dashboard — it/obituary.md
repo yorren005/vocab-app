@@ -5,15 +5,6 @@ status: unread
 ---
 # obituary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A notice of someone's death; usually includes a short biography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A notice of someone's death; usually includes a short biography.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Read your own obituary notice they say you live longer."*
-> - 📜 **James Joyce (*Ulysses*):** *"Queer lot of stuff he must have put through his hands in his time: obituary notices, pubs’ ads, speeches, divorce suits, found drowned."*
-> - 📜 **James Joyce (*Ulysses*):** *"Under the obituary notices they stuck it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A notice of someone's death; usually includes a short biography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A notice of someone's death; usually includes a short biography.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Read your own obituary notice they say you live longer."*
+> - 📜 **James Joyce (*Ulysses*):** *"Queer lot of stuff he must have put through his hands in his time: obituary notices, pubs’ ads, speeches, divorce suits, found drowned."*
+> - 📜 **James Joyce (*Ulysses*):** *"Under the obituary notices they stuck it."*

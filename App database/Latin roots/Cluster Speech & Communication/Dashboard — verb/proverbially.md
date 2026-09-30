@@ -5,15 +5,6 @@ status: unread
 ---
 # proverbially
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the manner of something that has become a byword.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the manner of something that has become a byword.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Rural communities are proverbially conservative; the American farmer is proverbially an individualist."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Women's memories are proverbially longer than men's." The speed slackened still further."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"He needed cheering--we all needed cheering; proverbially the surest way of cheering yourself is to cheer other people; therefore the sane and obvious way of spending his money was in providing cheer for the company."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the manner of something that has become a byword.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the manner of something that has become a byword.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Rural communities are proverbially conservative; the American farmer is proverbially an individualist."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Women's memories are proverbially longer than men's." The speed slackened still further."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"He needed cheering--we all needed cheering; proverbially the surest way of cheering yourself is to cheer other people; therefore the sane and obvious way of spending his money was in providing cheer for the company."*

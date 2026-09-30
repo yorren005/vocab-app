@@ -5,13 +5,6 @@ status: unread
 ---
 # electronics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physics that deals with the emission and effects of electrons and with the use of electronic devices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of physics that deals with the emission and effects of electrons and with the use of electronic devices.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electronics designates the branch of physics that deals with the emission and effects of electrons and with the use of electronic devices."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physics that deals with the emission and effects of electrons and with the use of electronic devices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of physics that deals with the emission and effects of electrons and with the use of electronic devices.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electronics designates the branch of physics that deals with the emission and effects of electrons and with the use of electronic devices."*

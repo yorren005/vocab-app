@@ -5,15 +5,6 @@ status: unread
 ---
 # undefended
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not defended or capable of being defended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not defended or capable of being defended.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Stafford, "this isn't true?" "Perfectly true, sir." Undefended, unreserved, stripped even of pride, Val stood up before them all as if before a firing party, for the others had involuntarily fallen back leaving him alone. . . ."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"The thought of their old father's grave, unwatched and undefended in the outermost dark field, filled their hearts with a strange tenderness."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The prisoners were undefended."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not defended or capable of being defended.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not defended or capable of being defended.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Stafford, "this isn't true?" "Perfectly true, sir." Undefended, unreserved, stripped even of pride, Val stood up before them all as if before a firing party, for the others had involuntarily fallen back leaving him alone. . . ."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"The thought of their old father's grave, unwatched and undefended in the outermost dark field, filled their hearts with a strange tenderness."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The prisoners were undefended."*

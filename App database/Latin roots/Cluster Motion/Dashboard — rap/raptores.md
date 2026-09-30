@@ -5,13 +5,6 @@ status: unread
 ---
 # raptores
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Term used in former classifications; erroneously grouped together birds of the orders falconiformes and strigiformes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Term used in former classifications; erroneously grouped together birds of the orders falconiformes and strigiformes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raptores designates term used in former classifications; erroneously grouped together birds of the orders falconiformes and strigiformes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Term used in former classifications; erroneously grouped together birds of the orders falconiformes and strigiformes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Term used in former classifications; erroneously grouped together birds of the orders falconiformes and strigiformes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raptores designates term used in former classifications; erroneously grouped together birds of the orders falconiformes and strigiformes."*

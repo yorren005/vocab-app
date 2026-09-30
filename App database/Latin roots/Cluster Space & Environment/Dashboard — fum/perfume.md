@@ -5,15 +5,6 @@ status: unread
 ---
 # perfume
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive odor that is pleasant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toiletry that emits and diffuses a fragrant odor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From the barge A strange invisible perfume hits the sense Of the adjacent wharfs."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For Hamlet, and the trifling of his favour, Hold it a fashion and a toy in blood; A violet in the youth of primy nature, Forward, not permanent, sweet, not lasting; The perfume and suppliance of a minute; No more."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My honour’d lord, you know right well you did, And with them words of so sweet breath compos’d As made the things more rich; their perfume lost, Take these again; for to the noble mind Rich gifts wax poor when givers prove unkind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive odor that is pleasant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toiletry that emits and diffuses a fragrant odor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From the barge A strange invisible perfume hits the sense Of the adjacent wharfs."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For Hamlet, and the trifling of his favour, Hold it a fashion and a toy in blood; A violet in the youth of primy nature, Forward, not permanent, sweet, not lasting; The perfume and suppliance of a minute; No more."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My honour’d lord, you know right well you did, And with them words of so sweet breath compos’d As made the things more rich; their perfume lost, Take these again; for to the noble mind Rich gifts wax poor when givers prove unkind."*

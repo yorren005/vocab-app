@@ -5,15 +5,6 @@ status: unread
 ---
 # strictness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conscientious attention to rules and details.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncompromising resolution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"So far from diminishing its strictness, it adds emphasis to its claims, and fully meets its unmitigated requisitions."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But Will’s articles and speeches naturally recommended him in families which the new strictness of party division had marked off on the side of Reform."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The proposed Constitution, therefore, is, in strictness, neither a national nor a federal Constitution, but a composition of both."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conscientious attention to rules and details.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncompromising resolution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"So far from diminishing its strictness, it adds emphasis to its claims, and fully meets its unmitigated requisitions."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But Will’s articles and speeches naturally recommended him in families which the new strictness of party division had marked off on the side of Reform."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The proposed Constitution, therefore, is, in strictness, neither a national nor a federal Constitution, but a composition of both."*

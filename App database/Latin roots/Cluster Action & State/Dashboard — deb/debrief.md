@@ -5,13 +5,6 @@ status: unread
 ---
 # debrief
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put someone through a debriefing and make him report.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put someone through a debriefing and make him report.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A debriefing officer took Hodak in tow, and an another escorted Drummer to the VIP lounge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put someone through a debriefing and make him report.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put someone through a debriefing and make him report.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A debriefing officer took Hodak in tow, and an another escorted Drummer to the VIP lounge."*

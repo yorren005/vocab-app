@@ -5,13 +5,6 @@ status: unread
 ---
 # debacle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden and violent collapse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flooding caused by a tumultuous breakup of ice in a river during the spring or summer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debacle designates a sudden and violent collapse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden and violent collapse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flooding caused by a tumultuous breakup of ice in a river during the spring or summer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debacle designates a sudden and violent collapse."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # underpin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Support from beneath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Support with evidence or authority or make more certain or confirm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underpin designates support from beneath."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Support from beneath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Support with evidence or authority or make more certain or confirm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underpin designates support from beneath."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # hospitably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hospitable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a hospitable manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet hospitably declares that he will hear of no business until after dinner and that his friend shall not partake of his counsel without first partaking of boiled pork and greens."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket and waiting upon him hospitably."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A few days after, I stopped at the house of a lady, who treated me very hospitably, for which I could make no return, except in thanks and Christian counsel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hospitable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a hospitable manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet hospitably declares that he will hear of no business until after dinner and that his friend shall not partake of his counsel without first partaking of boiled pork and greens."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket and waiting upon him hospitably."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A few days after, I stopped at the house of a lady, who treated me very hospitably, for which I could make no return, except in thanks and Christian counsel."*

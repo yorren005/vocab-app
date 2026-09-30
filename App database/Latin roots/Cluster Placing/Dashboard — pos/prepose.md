@@ -5,13 +5,6 @@ status: unread
 ---
 # prepose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place before another constituent in the sentence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place before another constituent in the sentence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prepose designates place before another constituent in the sentence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Place before another constituent in the sentence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place before another constituent in the sentence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prepose designates place before another constituent in the sentence."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # solute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dissolved matter in a solution; the component of a solution that changes its state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dissolved matter in a solution; the component of a solution that changes its state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"God had been graciously preparing me during many years for the reception of this final revelation of the ab- 107:6 solute divine Principle of scientific mental healing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dissolved matter in a solution; the component of a solution that changes its state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dissolved matter in a solution; the component of a solution that changes its state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"God had been graciously preparing me during many years for the reception of this final revelation of the ab- 107:6 solute divine Principle of scientific mental healing."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # embattle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fortify by furnishing with battlements for defense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prepare for battle or conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The night Is shiny, and they say we shall embattle By th’ second hour i’ th’ morn."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But after embattling his facts, an advocate who should wholly suppress a not unreasonable surmise, which might tell eloquently upon his cause—such an advocate, would he not be blameworthy?"*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But after embattling his facts, an advocate who should wholly suppress a not unreasonable surmise, which might tell eloquently upon his cause—such an advocate, would he not be blameworthy?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fortify by furnishing with battlements for defense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prepare for battle or conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The night Is shiny, and they say we shall embattle By th’ second hour i’ th’ morn."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But after embattling his facts, an advocate who should wholly suppress a not unreasonable surmise, which might tell eloquently upon his cause—such an advocate, would he not be blameworthy?"*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But after embattling his facts, an advocate who should wholly suppress a not unreasonable surmise, which might tell eloquently upon his cause—such an advocate, would he not be blameworthy?"*

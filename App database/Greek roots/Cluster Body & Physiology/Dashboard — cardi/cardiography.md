@@ -5,13 +5,6 @@ status: unread
 ---
 # cardiography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diagnostic procedure consisting of recording the activity of the heart electronically with a cardiograph (and producing a cardiogram).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diagnostic procedure consisting of recording the activity of the heart electronically with a cardiograph (and producing a cardiogram).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiography designates diagnostic procedure consisting of recording the activity of the heart electronically with a cardiograph (and producing a cardiogram)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Diagnostic procedure consisting of recording the activity of the heart electronically with a cardiograph (and producing a cardiogram).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diagnostic procedure consisting of recording the activity of the heart electronically with a cardiograph (and producing a cardiogram).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiography designates diagnostic procedure consisting of recording the activity of the heart electronically with a cardiograph (and producing a cardiogram)."*

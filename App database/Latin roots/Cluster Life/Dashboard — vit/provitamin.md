@@ -5,13 +5,6 @@ status: unread
 ---
 # provitamin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vitamin precursor; a substance that is converted into a vitamin in animal tissues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vitamin precursor; a substance that is converted into a vitamin in animal tissues.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, provitamin designates vitamin precursor; a substance that is converted into a vitamin in animal tissues."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vitamin precursor; a substance that is converted into a vitamin in animal tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vitamin precursor; a substance that is converted into a vitamin in animal tissues.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, provitamin designates vitamin precursor; a substance that is converted into a vitamin in animal tissues."*

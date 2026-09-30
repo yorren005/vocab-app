@@ -5,15 +5,6 @@ status: unread
 ---
 # imprisoned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lock up or confine, in or as in a jail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confine as if in a prison.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is the time that keeps you as my chest Or as the wardrobe which the robe doth hide, To make some special instant special-blest, By new unfolding his imprisoned pride."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O let me suffer (being at your beck) Th’ imprisoned absence of your liberty, And patience tame to sufferance bide each check, Without accusing you of injury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, York, unloose thy long-imprisoned thoughts, And let thy tongue be equal with thy heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lock up or confine, in or as in a jail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confine as if in a prison.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is the time that keeps you as my chest Or as the wardrobe which the robe doth hide, To make some special instant special-blest, By new unfolding his imprisoned pride."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O let me suffer (being at your beck) Th’ imprisoned absence of your liberty, And patience tame to sufferance bide each check, Without accusing you of injury."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, York, unloose thy long-imprisoned thoughts, And let thy tongue be equal with thy heart."*

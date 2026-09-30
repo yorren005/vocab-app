@@ -5,13 +5,6 @@ status: unread
 ---
 # heliolatry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sun worship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sun worship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His present aspect, coupled with the lack of all human forms in the scene, explained the old-time heliolatries in a moment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sun worship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sun worship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His present aspect, coupled with the lack of all human forms in the scene, explained the old-time heliolatries in a moment."*

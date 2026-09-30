@@ -5,15 +5,6 @@ status: unread
 ---
 # migratory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of animals that move seasonally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitually moving from place to place especially in search of seasonal work.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"He is not a beast, a vegetable, nor a migratory mind."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"They thought that a certain Old Woman who Never Dies made the crops to grow, and that, living somewhere in the south, she sent the migratory waterfowl in spring as her tokens and representatives."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"The blood-sucking bats were comparatively few, and the migratory sort fewer still."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of animals that move seasonally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitually moving from place to place especially in search of seasonal work.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"He is not a beast, a vegetable, nor a migratory mind."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"They thought that a certain Old Woman who Never Dies made the crops to grow, and that, living somewhere in the south, she sent the migratory waterfowl in spring as her tokens and representatives."*
+> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"The blood-sucking bats were comparatively few, and the migratory sort fewer still."*

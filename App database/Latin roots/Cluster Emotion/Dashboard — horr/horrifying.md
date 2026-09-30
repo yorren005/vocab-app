@@ -5,15 +5,6 @@ status: unread
 ---
 # horrifying
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with apprehension or alarm; cause to be unpleasantly surprised.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provoking horror; ; ; ; - winston churchill.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"You shuddered as you gazed, and wondered what monstrous cannibal and savage could ever have gone a death-harvesting with such a hacking, horrifying implement."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"The 'ole thing 'ere," said the hired retainer, "is these 'ere fowls have bin and got the roop." I had never heard of the disease before, but it sounded quite horrifying."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"You shuddered as you gazed, and wondered what monstrous cannibal and savage could ever have gone a death-harvesting with such a hacking, horrifying implement."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with apprehension or alarm; cause to be unpleasantly surprised.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provoking horror; ; ; ; - winston churchill.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"You shuddered as you gazed, and wondered what monstrous cannibal and savage could ever have gone a death-harvesting with such a hacking, horrifying implement."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"The 'ole thing 'ere," said the hired retainer, "is these 'ere fowls have bin and got the roop." I had never heard of the disease before, but it sounded quite horrifying."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"You shuddered as you gazed, and wondered what monstrous cannibal and savage could ever have gone a death-harvesting with such a hacking, horrifying implement."*

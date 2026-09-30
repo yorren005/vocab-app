@@ -5,15 +5,6 @@ status: unread
 ---
 # accordance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concurrence of opinion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of granting rights.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Everything is ready for you, Esther,” said Miss Donny, “and the scheme of your pursuits has been arranged in exact accordance with the wishes of your guardian, Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The old girl would prefer the bar in front, as being exposed to the weather and a primitive sort of perch more in accordance with her usual course of travelling, but Mrs."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He was inwardly convinced that, in accordance with the anticipations of his easy-going and worse-educated comrades, that day would see Boldwood the accepted husband of Miss Everdene."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concurrence of opinion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of granting rights.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Everything is ready for you, Esther,” said Miss Donny, “and the scheme of your pursuits has been arranged in exact accordance with the wishes of your guardian, Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old girl would prefer the bar in front, as being exposed to the weather and a primitive sort of perch more in accordance with her usual course of travelling, but Mrs."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He was inwardly convinced that, in accordance with the anticipations of his easy-going and worse-educated comrades, that day would see Boldwood the accepted husband of Miss Everdene."*

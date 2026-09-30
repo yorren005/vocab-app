@@ -5,13 +5,6 @@ status: unread
 ---
 # quadrivium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (middle ages) a higher division of the curriculum in a medieval university involving arithmetic and music and geometry and astronomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (middle ages) a higher division of the curriculum in a medieval university involving arithmetic and music and geometry and astronomy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadrivium designates (middle ages) a higher division of the curriculum in a medieval university involving arithmetic and music and geometry and astronomy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (middle ages) a higher division of the curriculum in a medieval university involving arithmetic and music and geometry and astronomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (middle ages) a higher division of the curriculum in a medieval university involving arithmetic and music and geometry and astronomy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadrivium designates (middle ages) a higher division of the curriculum in a medieval university involving arithmetic and music and geometry and astronomy."*

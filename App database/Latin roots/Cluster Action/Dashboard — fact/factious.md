@@ -5,15 +5,6 @@ status: unread
 ---
 # factious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dissenting (especially dissenting with the majority opinion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dissenting (especially dissenting with the majority opinion).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Lord, what madness rules in brainsick men, When for so slight and frivolous a cause Such factious emulations shall arise!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"GLOUCESTER. [_Aside to Cardinal_.] Make up no factious numbers for the matter, In thine own person answer thy abuse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is a traitor; let him to the Tower, And chop away that factious pate of his."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dissenting (especially dissenting with the majority opinion).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dissenting (especially dissenting with the majority opinion).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Lord, what madness rules in brainsick men, When for so slight and frivolous a cause Such factious emulations shall arise!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"GLOUCESTER. [_Aside to Cardinal_.] Make up no factious numbers for the matter, In thine own person answer thy abuse."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is a traitor; let him to the Tower, And chop away that factious pate of his."*

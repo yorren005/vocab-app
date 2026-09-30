@@ -5,13 +5,6 @@ status: unread
 ---
 # rubricate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place in the church calendar as a red-letter day honoring a saint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Furnish with rubrics or regulate by rubrics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubricate designates place in the church calendar as a red-letter day honoring a saint."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Place in the church calendar as a red-letter day honoring a saint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Furnish with rubrics or regulate by rubrics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubricate designates place in the church calendar as a red-letter day honoring a saint."*

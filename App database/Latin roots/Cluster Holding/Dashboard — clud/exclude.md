@@ -5,15 +5,6 @@ status: unread
 ---
 # exclude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prevent from being included or considered or accepted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prevent from entering; shut out.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"My Lady,” in naming whom he always made a courtly gesture as if particularly to exclude her from any part in the quarrel, “is expected, I believe, daily."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The blazing fires of faggot and coal—Dedlock timber and antediluvian forest—that blaze upon the broad wide hearths and wink in the twilight on the frowning woods, sullen to see how trees are sacrificed, do not exclude the enemy."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many of the reductions had little effect, the former rate having been much higher than was needed to exclude the goods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prevent from being included or considered or accepted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prevent from entering; shut out.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"My Lady,” in naming whom he always made a courtly gesture as if particularly to exclude her from any part in the quarrel, “is expected, I believe, daily."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The blazing fires of faggot and coal—Dedlock timber and antediluvian forest—that blaze upon the broad wide hearths and wink in the twilight on the frowning woods, sullen to see how trees are sacrificed, do not exclude the enemy."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many of the reductions had little effect, the former rate having been much higher than was needed to exclude the goods."*

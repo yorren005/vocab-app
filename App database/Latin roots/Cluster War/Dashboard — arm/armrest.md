@@ -5,13 +5,6 @@ status: unread
 ---
 # armrest
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A support for the arm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A support for the arm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"He was dragging his feet, and when he got to the side of his big black buggy, he had to catch one hand on the dashboard and the other on the armrest so he could pull himself up to the seat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A support for the arm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A support for the arm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"He was dragging his feet, and when he got to the side of his big black buggy, he had to catch one hand on the dashboard and the other on the armrest so he could pull himself up to the seat."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # careen
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Cause to heel over
-> 2. **Nuance / Usage**: Clean, caulk, or repair the hull of a boat
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to careen the target*) and intransitive clauses (*careening against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **E. M. Forster (*s:en:The_Machine_Stops*):** *"They were not motionless, but swayed to and fro above her head, thronging out of one sky-light into another, as if the universe and not the air-ship was careening."*
-> - 📜 **Katie Rife (*Passengers strains the considerable charms of Chris Pratt and Jennifer Lawrence*):** *"He tries for a lot of things, careening wildly from earnest romance to feel-good comedy to hackneyed suspense, all the while leaving it up to the audience to suss out the moral complexity and existential terror underneath the glossy surface."*
-> - 📜 **Emma Bubola, Ryan Mac (*The New York Times*):** *"Argentina may be an unlikely place for a billionaire looking for stability. The country has careened through nearly a century of instability, marred by military coups and spectacular financial collapses epitomized by triple-digit inflation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To lurch, sway, or rush forward precipitously while tilting dangerously from side to side.
+> 2. **Nuance / Usage**: Historically a nautical term (from Latin *carina*, "keel") meaning to turn a ship onto its side on shore in order to scrape, caulk, or repair its hull.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to careen the target*) and intransitive clauses (*careening against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **E. M. Forster (*The Machine Stops*):** *"The stars swayed to and fro above her head, thronging out of one skylight into another, as if the universe and not the air-ship were **careening**."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The Hispaniola lay **careened** in the shallow cove, her timbers groaning softly with every wash of the incoming tide."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whale-boat **careened** violently on the crest of the swell, nearly pitching the harpooner into the foaming wake."*

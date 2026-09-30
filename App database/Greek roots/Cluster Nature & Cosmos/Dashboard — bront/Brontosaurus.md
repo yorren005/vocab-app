@@ -5,14 +5,6 @@ status: unread
 ---
 # brontosaurus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Huge quadrupedal herbivorous dinosaur common in north america in the late jurassic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Huge quadrupedal herbivorous dinosaur common in north america in the late jurassic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Further in the gallery was the huge skeleton barrel of a Brontosaurus."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"THUNDER-BEAST Atlantosaurus, or “gigantic lizard.” A dinosaur of the brontosaurus or “thunder lizard” family, and the largest land animal known."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Huge quadrupedal herbivorous dinosaur common in north america in the late jurassic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Huge quadrupedal herbivorous dinosaur common in north america in the late jurassic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Further in the gallery was the huge skeleton barrel of a Brontosaurus."*
+> - 📜 **F. H. Costello (*Sure-dart*):** *"THUNDER-BEAST Atlantosaurus, or “gigantic lizard.” A dinosaur of the brontosaurus or “thunder lizard” family, and the largest land animal known."*

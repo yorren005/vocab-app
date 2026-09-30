@@ -5,15 +5,6 @@ status: unread
 ---
 # barter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An equal exchange.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exchange goods without involving money.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But with a baser man of arms by far Once in contempt they would have barter’d me, Which I disdaining scorn’d, and craved death Rather than I would be so vile-esteem’d."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She was bewildered too by the prospect of having to rely on her own resources again: it seemed to herself that she never could again acquire energy sufficient to go to market, barter, and sell."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Barter still lingers to-day.[3] The extent to which, on an average, money is used in different parts of the world differs widely."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An equal exchange.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exchange goods without involving money.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But with a baser man of arms by far Once in contempt they would have barter’d me, Which I disdaining scorn’d, and craved death Rather than I would be so vile-esteem’d."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She was bewildered too by the prospect of having to rely on her own resources again: it seemed to herself that she never could again acquire energy sufficient to go to market, barter, and sell."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Barter still lingers to-day.[3] The extent to which, on an average, money is used in different parts of the world differs widely."*

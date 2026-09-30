@@ -5,15 +5,6 @@ status: unread
 ---
 # synthetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving synthesis : not analytic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attributing to a subject something determined by observation rather than analysis of the nature of the subject and not resulting in self-contradiction if negated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill's credit, the great critical power that could gather valuable truths from so many discordant sources, and the wonderful synthetic ability required to weld these and his own contributions into one organic whole."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"One of the greatest triumphs of the organic chemist was when he produced artificial or synthetic indigo."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is claimed that "synthetic" rubber is exactly the same as natural rubber, although some users say it is not quite the same."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving synthesis : not analytic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attributing to a subject something determined by observation rather than analysis of the nature of the subject and not resulting in self-contradiction if negated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill's credit, the great critical power that could gather valuable truths from so many discordant sources, and the wonderful synthetic ability required to weld these and his own contributions into one organic whole."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"One of the greatest triumphs of the organic chemist was when he produced artificial or synthetic indigo."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is claimed that "synthetic" rubber is exactly the same as natural rubber, although some users say it is not quite the same."*

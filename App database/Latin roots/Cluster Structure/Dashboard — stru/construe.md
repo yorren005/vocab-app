@@ -5,15 +5,6 @@ status: unread
 ---
 # construe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make sense of; assign a meaning to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make sense of; assign a meaning to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, my good Lord Mowbray, Construe the times to their necessities, And you shall say indeed, it is the time, And not the King, that doth you injuries."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But men may construe things after their fashion, Clean from the purpose of the things themselves."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All my engagements I will construe to thee, All the charactery of my sad brows."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make sense of; assign a meaning to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make sense of; assign a meaning to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, my good Lord Mowbray, Construe the times to their necessities, And you shall say indeed, it is the time, And not the King, that doth you injuries."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But men may construe things after their fashion, Clean from the purpose of the things themselves."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All my engagements I will construe to thee, All the charactery of my sad brows."*

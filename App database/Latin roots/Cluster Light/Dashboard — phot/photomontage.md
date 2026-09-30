@@ -5,13 +5,6 @@ status: unread
 ---
 # photomontage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A montage that uses photographic images.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A montage that uses photographic images.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photomontage designates a montage that uses photographic images."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A montage that uses photographic images.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A montage that uses photographic images.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photomontage designates a montage that uses photographic images."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # tontine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of life insurance whereby on the death or default of a participant his share is distributed to the remaining members.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An annuity scheme wherein participants share certain benefits and on the death of any participant his benefits are redistributed among the remaining participants; can run for a fixed period of time or until the death of all but one participant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tontine designates a form of life insurance whereby on the death or default of a participant his share is distributed to the remaining members."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of life insurance whereby on the death or default of a participant his share is distributed to the remaining members.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An annuity scheme wherein participants share certain benefits and on the death of any participant his benefits are redistributed among the remaining participants; can run for a fixed period of time or until the death of all but one participant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tontine designates a form of life insurance whereby on the death or default of a participant his share is distributed to the remaining members."*

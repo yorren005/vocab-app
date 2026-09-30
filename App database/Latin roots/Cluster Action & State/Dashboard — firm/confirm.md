@@ -5,15 +5,6 @@ status: unread
 ---
 # confirm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish or strengthen as with new evidence or facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strengthen or make more firm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her death itself, which could not be her office to say is come, was faithfully confirm’d by the rector of the place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would the gods had nothing else to do But to confirm my curses."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, my circumstances, Being so near the truth as I will make them, Must first induce you to believe; whose strength I will confirm with oath; which I doubt not You’ll give me leave to spare when you shall find You need it not."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish or strengthen as with new evidence or facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strengthen or make more firm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her death itself, which could not be her office to say is come, was faithfully confirm’d by the rector of the place."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would the gods had nothing else to do But to confirm my curses."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, my circumstances, Being so near the truth as I will make them, Must first induce you to believe; whose strength I will confirm with oath; which I doubt not You’ll give me leave to spare when you shall find You need it not."*

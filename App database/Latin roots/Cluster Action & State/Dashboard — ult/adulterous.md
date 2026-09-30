@@ -5,15 +5,6 @@ status: unread
 ---
 # adulterous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by adultery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not faithful to a spouse or lover.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only th’ adulterous Antony, most large In his abominations, turns you off And gives his potent regiment to a trull That noises it against us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That Angelo is an adulterous thief, An hypocrite, a virgin-violator, Is it not strange and strange?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"In the parallel passage we read: "`The wicked generation and adulterous seeketh a sign, but there shall no sign be given it, but the sign of the prophet Jonah'; so he left them and departed" (Matt. 16:4)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by adultery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not faithful to a spouse or lover.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only th’ adulterous Antony, most large In his abominations, turns you off And gives his potent regiment to a trull That noises it against us."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That Angelo is an adulterous thief, An hypocrite, a virgin-violator, Is it not strange and strange?"*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"In the parallel passage we read: "`The wicked generation and adulterous seeketh a sign, but there shall no sign be given it, but the sign of the prophet Jonah'; so he left them and departed" (Matt. 16:4)."*

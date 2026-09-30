@@ -5,14 +5,6 @@ status: unread
 ---
 # erectly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a straight-backed manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a straight-backed manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Up helm!—square in!” In an instant the yards swung round; and as the ship half-wheeled upon her heel, her three firm-seated graceful masts erectly poised upon her long, ribbed hull, seemed as the three Horatii pirouetting on one sufficient steed."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Up helm!—square in!” In an instant the yards swung round; and as the ship half-wheeled upon her heel, her three firm-seated graceful masts erectly poised upon her long, ribbed hull, seemed as the three Horatii pirouetting on one sufficient steed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a straight-backed manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a straight-backed manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Up helm!—square in!” In an instant the yards swung round; and as the ship half-wheeled upon her heel, her three firm-seated graceful masts erectly poised upon her long, ribbed hull, seemed as the three Horatii pirouetting on one sufficient steed."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Up helm!—square in!” In an instant the yards swung round; and as the ship half-wheeled upon her heel, her three firm-seated graceful masts erectly poised upon her long, ribbed hull, seemed as the three Horatii pirouetting on one sufficient steed."*

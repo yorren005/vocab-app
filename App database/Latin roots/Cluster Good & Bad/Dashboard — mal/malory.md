@@ -5,13 +5,6 @@ status: unread
 ---
 # malory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English writer who published a translation of romances about king arthur taken from french and other sources (died in 1471).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English writer who published a translation of romances about king arthur taken from french and other sources (died in 1471).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malory designates english writer who published a translation of romances about king arthur taken from french and other sources (died in 1471)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English writer who published a translation of romances about king arthur taken from french and other sources (died in 1471).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English writer who published a translation of romances about king arthur taken from french and other sources (died in 1471).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malory designates english writer who published a translation of romances about king arthur taken from french and other sources (died in 1471)."*

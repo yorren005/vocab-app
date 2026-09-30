@@ -5,13 +5,6 @@ status: unread
 ---
 # sociobiologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A biologist who studies the biological determinants of social behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologist who studies the biological determinants of social behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sociobiologist designates a biologist who studies the biological determinants of social behavior."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biologist who studies the biological determinants of social behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologist who studies the biological determinants of social behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sociobiologist designates a biologist who studies the biological determinants of social behavior."*

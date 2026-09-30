@@ -5,20 +5,6 @@ status: unread
 ---
 # bask
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: The act of bathing in warmth
-> 2. **Nuance / Usage**: Take pleasure or derive enjoyment
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to bask the target*) and intransitive clauses (*basking against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"and I _was_ disposed to bask in her youthful lightness of heart."*
-> - 📜 **James Joyce (*Ulysses*):** *"ties, the usual sequel, to bask in the loved one’s smiles."*
-> - 📜 **Paul Stephen (*Leisure and Pleasure on the Far North Line*):** *"There will be no problems with visibility, or the highly changeable Highland weather, as Scotland basks in what is reported to be the country's hottest September day for more than a century."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To lie or relax in a pleasant, enveloping warmth, especially in direct sunlight or before a glowing fire.
+> 2. **Nuance / Usage**: Extended figuratively to reveling or taking deep, unhurried pleasure in approval, fortune, or affection (*to bask in someone's favor*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to bask the target*) and intransitive clauses (*basking against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I was disposed to **bask** in her youthful lightness of heart."*
+> - 📜 **James Joyce (*Ulysses*):** *"He sought the usual sequel, to **bask** in the loved one’s smiles."*
+> - 📜 **Paul Stephen (*Leisure and Pleasure on the Far North Line*):** *"There will be no problems with visibility as Scotland **basks** in what is reported to be the country's hottest September day for more than a century."*

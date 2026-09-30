@@ -5,13 +5,6 @@ status: unread
 ---
 # gestural
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of the language of the deaf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being other than verbal communication.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gestural designates used of the language of the deaf."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of the language of the deaf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being other than verbal communication.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gestural designates used of the language of the deaf."*

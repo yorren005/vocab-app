@@ -5,15 +5,6 @@ status: unread
 ---
 # cession
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of ceding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of ceding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"For power finds its place in lack of power; Advance is cession, and the driven ship May run aground because the helmsman’s thought Lacked force to balance opposites.” It was on a morning of May that Peter Featherstone was buried."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"At present, a large part of the vacant Western territory is, by cession at least, if not by any anterior right, the common property of the Union."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If that were at an end, the States which made the cession, on a principle of federal compromise, would be apt when the motive of the grant had ceased, to reclaim the lands as a reversion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of ceding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of ceding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"For power finds its place in lack of power; Advance is cession, and the driven ship May run aground because the helmsman’s thought Lacked force to balance opposites.” It was on a morning of May that Peter Featherstone was buried."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"At present, a large part of the vacant Western territory is, by cession at least, if not by any anterior right, the common property of the Union."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If that were at an end, the States which made the cession, on a principle of federal compromise, would be apt when the motive of the grant had ceased, to reclaim the lands as a reversion."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # eloquent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing yourself readily, clearly, effectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing yourself readily, clearly, effectively.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HAMLET. ’Tis as easy as lying: govern these ventages with your finger and thumb, give it breath with your mouth, and it will discourse most eloquent music."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be eloquent in my behalf to her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, write it in a martial hand, be curst and brief; it is no matter how witty, so it be eloquent and full of invention."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing yourself readily, clearly, effectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing yourself readily, clearly, effectively.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HAMLET. ’Tis as easy as lying: govern these ventages with your finger and thumb, give it breath with your mouth, and it will discourse most eloquent music."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be eloquent in my behalf to her."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, write it in a martial hand, be curst and brief; it is no matter how witty, so it be eloquent and full of invention."*

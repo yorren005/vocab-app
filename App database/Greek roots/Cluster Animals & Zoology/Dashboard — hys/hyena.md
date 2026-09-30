@@ -5,15 +5,6 @@ status: unread
 ---
 # hyena
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several large strong nocturnal carnivorous Old World mammals (family Hyaenidae) that usually feed as scavengers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spotted hyena.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will laugh like a hyena, and that when thou are inclined to sleep."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She saw him dropping his keys and trying to grasp his stick, while he looked at her like an aged hyena, the muscles of his face getting distorted with the effort of his hand."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So, call him the Hyena Whale, if you please."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several large strong nocturnal carnivorous Old World mammals (family Hyaenidae) that usually feed as scavengers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spotted hyena.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will laugh like a hyena, and that when thou are inclined to sleep."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She saw him dropping his keys and trying to grasp his stick, while he looked at her like an aged hyena, the muscles of his face getting distorted with the effort of his hand."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So, call him the Hyena Whale, if you please."*

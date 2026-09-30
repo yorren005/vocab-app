@@ -5,15 +5,6 @@ status: unread
 ---
 # stagnate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stand still.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to stagnate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Well may he eschew the calm of domestic life; it is not his element: there his faculties stagnate—they cannot develop or appear to advantage."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I should rush into idleness, and stagnate there with all my might.” “And you mean to give it all to your work."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Country people have no opportunity of being either, so they stagnate.” “Culture and corruption,” echoed Dorian."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stand still.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to stagnate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Well may he eschew the calm of domestic life; it is not his element: there his faculties stagnate—they cannot develop or appear to advantage."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I should rush into idleness, and stagnate there with all my might.” “And you mean to give it all to your work."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Country people have no opportunity of being either, so they stagnate.” “Culture and corruption,” echoed Dorian."*

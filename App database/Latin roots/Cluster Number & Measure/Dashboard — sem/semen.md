@@ -5,13 +5,6 @@ status: unread
 ---
 # semen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The thick white fluid containing spermatozoa that is ejaculated by the male genital tract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The thick white fluid containing spermatozoa that is ejaculated by the male genital tract.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Hire facounde eke full womanly and plain, No contrefeted termes had she To semen wise.” —CHAUCER."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The thick white fluid containing spermatozoa that is ejaculated by the male genital tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The thick white fluid containing spermatozoa that is ejaculated by the male genital tract.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Hire facounde eke full womanly and plain, No contrefeted termes had she To semen wise.” —CHAUCER."*

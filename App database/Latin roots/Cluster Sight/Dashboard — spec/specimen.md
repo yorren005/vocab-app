@@ -5,15 +5,6 @@ status: unread
 ---
 # specimen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An example regarded as typical of its class.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bit of tissue or blood or urine that is taken for diagnostic purposes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But she was rather took by something about this person, whether by his being unshaved, or by his hair being in want of attention, or by what other ladies’ reasons, I leave you to judge; and she accepted of the specimen, and likewise of the address."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Will you allow me to ask why you want to see the captain’s hand, in the case that I could find any specimen of it?” Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It may be said that married men of forty are usually ready and generous enough to fling passing glances at any specimen of moderate beauty they may discern by the way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An example regarded as typical of its class.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bit of tissue or blood or urine that is taken for diagnostic purposes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But she was rather took by something about this person, whether by his being unshaved, or by his hair being in want of attention, or by what other ladies’ reasons, I leave you to judge; and she accepted of the specimen, and likewise of the address."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Will you allow me to ask why you want to see the captain’s hand, in the case that I could find any specimen of it?” Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It may be said that married men of forty are usually ready and generous enough to fling passing glances at any specimen of moderate beauty they may discern by the way."*

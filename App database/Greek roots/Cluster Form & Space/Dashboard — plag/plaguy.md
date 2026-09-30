@@ -5,15 +5,6 @@ status: unread
 ---
 # plaguy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing irritation or annoyance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disagreeable manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is so plaguy proud that the death tokens of it Cry ‘No recovery.’ AGAMEMNON."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I’ll try the bench here.” “Just as you please; I’m sorry I cant spare ye a tablecloth for a mattress, and it’s a plaguy rough board here”—feeling of the knots and notches."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"He got so frightened about his plaguy soul, that he shrinked and sheered away from whales, for fear of after-claps, in case he got stove and went to Davy Jones.” “Peleg!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing irritation or annoyance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disagreeable manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is so plaguy proud that the death tokens of it Cry ‘No recovery.’ AGAMEMNON."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I’ll try the bench here.” “Just as you please; I’m sorry I cant spare ye a tablecloth for a mattress, and it’s a plaguy rough board here”—feeling of the knots and notches."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"He got so frightened about his plaguy soul, that he shrinked and sheered away from whales, for fear of after-claps, in case he got stove and went to Davy Jones.” “Peleg!"*

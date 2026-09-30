@@ -5,13 +5,6 @@ status: unread
 ---
 # implicitness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inexplicitness as a consequence of being implied or indirect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inexplicitness as a consequence of being implied or indirect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His affection was proved to have been sincere, and his conduct cleared of all blame, unless any could attach to the implicitness of his confidence in his friend."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inexplicitness as a consequence of being implied or indirect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inexplicitness as a consequence of being implied or indirect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His affection was proved to have been sincere, and his conduct cleared of all blame, unless any could attach to the implicitness of his confidence in his friend."*

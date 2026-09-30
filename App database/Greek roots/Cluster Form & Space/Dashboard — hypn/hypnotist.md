@@ -5,13 +5,6 @@ status: unread
 ---
 # hypnotist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study or act of inducing hypnosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study or act of inducing hypnosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The Christian Scientist demonstrates 375:12 that divine Mind heals, while the hypnotist dispossesses the patient of his individuality in order to control him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study or act of inducing hypnosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study or act of inducing hypnosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The Christian Scientist demonstrates 375:12 that divine Mind heals, while the hypnotist dispossesses the patient of his individuality in order to control him."*

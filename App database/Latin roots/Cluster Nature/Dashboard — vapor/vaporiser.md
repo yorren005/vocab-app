@@ -5,15 +5,6 @@ status: unread
 ---
 # vaporiser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device that puts out a substance in the form of a vapor (especially for medicinal inhalation).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device that puts out a substance in the form of a vapor (especially for medicinal inhalation).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In one, which is exemplified by the ordinary car or bicycle motor, the oil is gasified in a vessel called a carburetter or vaporiser and then led into the cylinder of the engine, together with the necessary air to enable it to burn."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"With kerosene, however, heat has to be employed in the vaporiser to make it turn readily into a gas."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This forces the oil up a pipe and drives it in a jet into a vaporiser, a tube heated from the outside so that in it the oil is turned into gas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device that puts out a substance in the form of a vapor (especially for medicinal inhalation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device that puts out a substance in the form of a vapor (especially for medicinal inhalation).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In one, which is exemplified by the ordinary car or bicycle motor, the oil is gasified in a vessel called a carburetter or vaporiser and then led into the cylinder of the engine, together with the necessary air to enable it to burn."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"With kerosene, however, heat has to be employed in the vaporiser to make it turn readily into a gas."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This forces the oil up a pipe and drives it in a jet into a vaporiser, a tube heated from the outside so that in it the oil is turned into gas."*

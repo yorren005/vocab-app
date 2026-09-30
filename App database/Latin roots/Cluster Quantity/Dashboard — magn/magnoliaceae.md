@@ -5,13 +5,6 @@ status: unread
 ---
 # magnoliaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subclass magnoliidae: genera liriodendron, magnolia, and manglietia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subclass magnoliidae: genera liriodendron, magnolia, and manglietia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnoliaceae designates subclass magnoliidae: genera liriodendron, magnolia, and manglietia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subclass magnoliidae: genera liriodendron, magnolia, and manglietia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subclass magnoliidae: genera liriodendron, magnolia, and manglietia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnoliaceae designates subclass magnoliidae: genera liriodendron, magnolia, and manglietia."*

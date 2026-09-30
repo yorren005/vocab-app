@@ -5,13 +5,6 @@ status: unread
 ---
 # overstrung
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being in a tense state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too tightly strung.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"My overstrung nerves failed me suddenly, and I turned and ran—ran as though some dreadful hand were behind me clutching at the skirt of my dress."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being in a tense state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too tightly strung.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"My overstrung nerves failed me suddenly, and I turned and ran—ran as though some dreadful hand were behind me clutching at the skirt of my dress."*

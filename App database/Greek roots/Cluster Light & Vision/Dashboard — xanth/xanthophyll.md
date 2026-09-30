@@ -5,13 +5,6 @@ status: unread
 ---
 # xanthophyll
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several yellow to orange carotenoid pigments that are oxygen derivatives of carotenes; especially : lutein.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several yellow to orange carotenoid pigments that are oxygen derivatives of carotenes; especially : lutein.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthophyll designates any of several yellow to orange carotenoid pigments that are oxygen derivatives of carotenes; especially : lutein."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several yellow to orange carotenoid pigments that are oxygen derivatives of carotenes; especially : lutein.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several yellow to orange carotenoid pigments that are oxygen derivatives of carotenes; especially : lutein.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthophyll designates any of several yellow to orange carotenoid pigments that are oxygen derivatives of carotenes; especially : lutein."*

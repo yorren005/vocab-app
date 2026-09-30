@@ -5,15 +5,6 @@ status: unread
 ---
 # community
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of people living in a particular local area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Common ownership.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Since the three would, in later years, have great authority in the little community, it would be splendid if they were educated alike and could agree thoroughly in everything."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"An extremely dangerous person in any community."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We are a prosperous community, Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of people living in a particular local area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Common ownership.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Since the three would, in later years, have great authority in the little community, it would be splendid if they were educated alike and could agree thoroughly in everything."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"An extremely dangerous person in any community."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"We are a prosperous community, Mr."*

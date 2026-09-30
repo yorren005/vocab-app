@@ -5,13 +5,6 @@ status: unread
 ---
 # bartholdi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French sculptor best known for creating the statue of liberty now in new york harbor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French sculptor best known for creating the statue of liberty now in new york harbor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bartholdi designates french sculptor best known for creating the statue of liberty now in new york harbor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French sculptor best known for creating the statue of liberty now in new york harbor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French sculptor best known for creating the statue of liberty now in new york harbor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bartholdi designates french sculptor best known for creating the statue of liberty now in new york harbor."*

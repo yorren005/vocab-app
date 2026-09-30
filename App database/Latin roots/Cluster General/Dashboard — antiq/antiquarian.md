@@ -5,15 +5,6 @@ status: unread
 ---
 # antiquarian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert or collector of antiquities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to persons who study or deal in antiques or antiquities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"However, in the hope that some antiquarian scholar may be able to place more definitely the date of the events I shall describe, I here give an extract."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Sheldon Jackson, "Alaska and its Inhabitants," _The American Antiquarian_, ii. (Chicago, 1879-1880) pp. 111 _sq._; A."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"It’s tauld he was a sodger bred, And ane wad rather fa’n than fled; But now he’s quat the spurtle-blade, And dog-skin wallet, And taen the—Antiquarian trade, I think they call it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert or collector of antiquities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to persons who study or deal in antiques or antiquities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"However, in the hope that some antiquarian scholar may be able to place more definitely the date of the events I shall describe, I here give an extract."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Sheldon Jackson, "Alaska and its Inhabitants," _The American Antiquarian_, ii. (Chicago, 1879-1880) pp. 111 _sq._; A."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"It’s tauld he was a sodger bred, And ane wad rather fa’n than fled; But now he’s quat the spurtle-blade, And dog-skin wallet, And taen the—Antiquarian trade, I think they call it."*

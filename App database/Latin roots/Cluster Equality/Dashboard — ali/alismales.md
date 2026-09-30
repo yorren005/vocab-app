@@ -5,13 +5,6 @@ status: unread
 ---
 # alismales
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of aquatic monocotyledonous herbaceous plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of aquatic monocotyledonous herbaceous plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alismales designates an order of aquatic monocotyledonous herbaceous plants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of aquatic monocotyledonous herbaceous plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of aquatic monocotyledonous herbaceous plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alismales designates an order of aquatic monocotyledonous herbaceous plants."*

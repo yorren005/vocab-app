@@ -5,13 +5,6 @@ status: unread
 ---
 # millettia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several tropical trees or shrubs yielding showy streaked dark reddish or chocolate-colored wood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several tropical trees or shrubs yielding showy streaked dark reddish or chocolate-colored wood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, millettia designates any of several tropical trees or shrubs yielding showy streaked dark reddish or chocolate-colored wood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several tropical trees or shrubs yielding showy streaked dark reddish or chocolate-colored wood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several tropical trees or shrubs yielding showy streaked dark reddish or chocolate-colored wood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, millettia designates any of several tropical trees or shrubs yielding showy streaked dark reddish or chocolate-colored wood."*

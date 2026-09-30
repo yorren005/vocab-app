@@ -5,15 +5,6 @@ status: unread
 ---
 # tremulous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of the voice) quivering as from weakness or fear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of the voice) quivering as from weakness or fear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"George,” says Grandfather Smallweed with a tremulous wave of his shrivelled hand, “this is the gentleman, sir.” Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I doubted if we should have got home without assistance, the boy’s steps were so uncertain and tremulous."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her singing was soft and rather tremulous at first, but it soon swelled to a steady clearness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of the voice) quivering as from weakness or fear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of the voice) quivering as from weakness or fear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"George,” says Grandfather Smallweed with a tremulous wave of his shrivelled hand, “this is the gentleman, sir.” Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I doubted if we should have got home without assistance, the boy’s steps were so uncertain and tremulous."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her singing was soft and rather tremulous at first, but it soon swelled to a steady clearness."*

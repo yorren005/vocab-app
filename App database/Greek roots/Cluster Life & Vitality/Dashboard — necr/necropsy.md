@@ -5,13 +5,6 @@ status: unread
 ---
 # necropsy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Autopsy; especially : an autopsy performed on an animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To perform an autopsy on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, necropsy designates autopsy; especially : an autopsy performed on an animal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Autopsy; especially : an autopsy performed on an animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To perform an autopsy on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, necropsy designates autopsy; especially : an autopsy performed on an animal."*

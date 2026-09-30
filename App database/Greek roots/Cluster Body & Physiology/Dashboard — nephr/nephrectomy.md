@@ -5,13 +5,6 @@ status: unread
 ---
 # nephrectomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal of a kidney.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surgical removal of a kidney.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrectomy designates the surgical removal of a kidney."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal of a kidney.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surgical removal of a kidney.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrectomy designates the surgical removal of a kidney."*

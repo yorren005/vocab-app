@@ -5,13 +5,6 @@ status: unread
 ---
 # heracles
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (classical mythology) a hero noted for his strength; performed 12 immense labors to gain immortality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (classical mythology) a hero noted for his strength; performed 12 immense labors to gain immortality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Antaeus, the Libyan wrestler, was invincible so long as his feet were on mother earth, and Heracles had lifted him into the air and the air had crushed him...."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (classical mythology) a hero noted for his strength; performed 12 immense labors to gain immortality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (classical mythology) a hero noted for his strength; performed 12 immense labors to gain immortality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Antaeus, the Libyan wrestler, was invincible so long as his feet were on mother earth, and Heracles had lifted him into the air and the air had crushed him...."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # importunity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insistent solicitation and entreaty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insistent solicitation and entreaty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then weigh what loss your honour may sustain If with too credent ear you list his songs, Or lose your heart, or your chaste treasure open To his unmaster’d importunity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is furnished with my opinion, which, bettered with his own learning (the greatness whereof I cannot enough commend), comes with him at my importunity to fill up your Grace’s request in my stead."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Note if your lady strain his entertainment With any strong or vehement importunity, Much will be seen in that."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insistent solicitation and entreaty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insistent solicitation and entreaty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then weigh what loss your honour may sustain If with too credent ear you list his songs, Or lose your heart, or your chaste treasure open To his unmaster’d importunity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is furnished with my opinion, which, bettered with his own learning (the greatness whereof I cannot enough commend), comes with him at my importunity to fill up your Grace’s request in my stead."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Note if your lady strain his entertainment With any strong or vehement importunity, Much will be seen in that."*

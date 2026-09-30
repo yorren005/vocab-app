@@ -5,15 +5,6 @@ status: unread
 ---
 # demoralise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower someone's spirits; make downhearted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"First mate angry; said it was folly, and to yield to such foolish ideas would demoralise the men; said he would engage to keep them out of trouble with a handspike."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"When not in the right mood he could fall as low as any one, saved only by his looking at such hours rather like a demoralised prince in exile."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Mate now more demoralised than either of men."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower someone's spirits; make downhearted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"First mate angry; said it was folly, and to yield to such foolish ideas would demoralise the men; said he would engage to keep them out of trouble with a handspike."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"When not in the right mood he could fall as low as any one, saved only by his looking at such hours rather like a demoralised prince in exile."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Mate now more demoralised than either of men."*

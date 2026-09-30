@@ -5,13 +5,6 @@ status: unread
 ---
 # chordospartium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 2 species of small new zealand trees: weeping tree broom; endangered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 2 species of small new zealand trees: weeping tree broom; endangered.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chordospartium designates 2 species of small new zealand trees: weeping tree broom; endangered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: 2 species of small new zealand trees: weeping tree broom; endangered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 2 species of small new zealand trees: weeping tree broom; endangered.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chordospartium designates 2 species of small new zealand trees: weeping tree broom; endangered."*

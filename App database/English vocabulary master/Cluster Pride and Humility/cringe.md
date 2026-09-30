@@ -5,20 +5,6 @@ status: unread
 ---
 # cringe
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Recoil in distaste
-> 2. **Nuance / Usage**: Shrink in fear or servility
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to cringe the target*) and intransitive clauses (*cringing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"And practis’d distances to cringe, not fight."*
-> - 📜 **Thomas Cooper (poet) (*The Baron’s Yule Feast: A Christmas-rhyme*):** *"Lady, receive a tributary lay / From one who cringeth not to titled state / Conventional, and lacking will to prate / Of comeliness— [...]"*
-> - 📜 **Edgar Fawcett (*Songs of Doubt and Dream: (Poems)*):** *"Humbly thou cringest that with nod of head / Couldst fling me seaward from they steepest cliffs!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Recoil in distaste
+> 2. **Nuance / Usage**: Shrink in fear or servility
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to cringe the target*) and intransitive clauses (*cringing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"And practis’d distances to cringe, not fight."*
+> - 📜 **Thomas Cooper (poet) (*The Baron’s Yule Feast: A Christmas-rhyme*):** *"Lady, receive a tributary lay / From one who cringeth not to titled state / Conventional, and lacking will to prate / Of comeliness— [...]"*
+> - 📜 **Edgar Fawcett (*Songs of Doubt and Dream: (Poems)*):** *"Humbly thou cringest that with nod of head / Couldst fling me seaward from they steepest cliffs!"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # monovular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of twins) derived from a single egg or ovum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of twins) derived from a single egg or ovum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monovular designates (of twins) derived from a single egg or ovum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of twins) derived from a single egg or ovum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of twins) derived from a single egg or ovum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monovular designates (of twins) derived from a single egg or ovum."*

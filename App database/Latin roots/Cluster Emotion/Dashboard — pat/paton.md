@@ -5,15 +5,6 @@ status: unread
 ---
 # paton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: South african writer (1903-1988).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: South african writer (1903-1988).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Paton, in _Folk-lore_, i. (1890) p. 524. [248] The Greeks and Romans thought that a field was completely protected against insects if a menstruous woman walked round it with bare feet and streaming hair (Pliny, _Nat."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Paton, in _Folk-lore_, ii. (1891) p. 128."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Paton, in _Folk-lore_, vi. (1895) p. 94."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: South african writer (1903-1988).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: South african writer (1903-1988).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Paton, in _Folk-lore_, i. (1890) p. 524. [248] The Greeks and Romans thought that a field was completely protected against insects if a menstruous woman walked round it with bare feet and streaming hair (Pliny, _Nat."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Paton, in _Folk-lore_, ii. (1891) p. 128."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Paton, in _Folk-lore_, vi. (1895) p. 94."*

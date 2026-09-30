@@ -5,13 +5,6 @@ status: unread
 ---
 # chiromancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Telling fortunes by lines on the palm of the hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Telling fortunes by lines on the palm of the hand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiromancy designates telling fortunes by lines on the palm of the hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Telling fortunes by lines on the palm of the hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Telling fortunes by lines on the palm of the hand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiromancy designates telling fortunes by lines on the palm of the hand."*

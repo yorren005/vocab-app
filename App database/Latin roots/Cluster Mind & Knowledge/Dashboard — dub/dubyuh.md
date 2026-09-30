@@ -5,13 +5,6 @@ status: unread
 ---
 # dubyuh
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 43rd president of the united states; son of george herbert walker bush (born in 1946).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 43rd president of the united states; son of george herbert walker bush (born in 1946).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dubyuh designates 43rd president of the united states; son of george herbert walker bush (born in 1946)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: 43rd president of the united states; son of george herbert walker bush (born in 1946).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 43rd president of the united states; son of george herbert walker bush (born in 1946).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dubyuh designates 43rd president of the united states; son of george herbert walker bush (born in 1946)."*

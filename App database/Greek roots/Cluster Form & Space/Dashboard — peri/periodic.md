@@ -5,15 +5,6 @@ status: unread
 ---
 # periodic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or recurring at regular intervals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring repeatedly from time to time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"He makes periodic efforts to find me, but my lawyers are loyal, and will give no clue." "And the settlement?"*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The second element of PPIP is the preventive health assessment (PHA), which in 1996 replaced the periodic physical examination program for all active-duty members."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Periodic Expulsion of Evils in a Material Vehicle 4."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or recurring at regular intervals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring repeatedly from time to time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"He makes periodic efforts to find me, but my lawyers are loyal, and will give no clue." "And the settlement?"*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The second element of PPIP is the preventive health assessment (PHA), which in 1996 replaced the periodic physical examination program for all active-duty members."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Periodic Expulsion of Evils in a Material Vehicle 4."*

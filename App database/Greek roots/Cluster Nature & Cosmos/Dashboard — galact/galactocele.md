@@ -5,13 +5,6 @@ status: unread
 ---
 # galactocele
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cystic tumor containing milk or a milky substance (especially in the mammary glands).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cystic tumor containing milk or a milky substance (especially in the mammary glands).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, galactocele designates a cystic tumor containing milk or a milky substance (especially in the mammary glands)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cystic tumor containing milk or a milky substance (especially in the mammary glands).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cystic tumor containing milk or a milky substance (especially in the mammary glands).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, galactocele designates a cystic tumor containing milk or a milky substance (especially in the mammary glands)."*

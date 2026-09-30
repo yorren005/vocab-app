@@ -5,15 +5,6 @@ status: unread
 ---
 # flu
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute febrile highly contagious viral disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute febrile highly contagious viral disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Under the floors ran flues through which the kitchen smoke escaped, warming the sleeping-room in its passage."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But that darkness was licked up by the fierce flames, which at intervals forked forth from the sooty flues, and illuminated every lofty rope in the rigging, as with the famed Greek fire."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But that darkness was licked up by the fierce flames, which at intervals forked forth from the sooty flues, and illuminated every lofty rope in the rigging, as with the famed Greek fire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute febrile highly contagious viral disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute febrile highly contagious viral disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Under the floors ran flues through which the kitchen smoke escaped, warming the sleeping-room in its passage."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But that darkness was licked up by the fierce flames, which at intervals forked forth from the sooty flues, and illuminated every lofty rope in the rigging, as with the famed Greek fire."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But that darkness was licked up by the fierce flames, which at intervals forked forth from the sooty flues, and illuminated every lofty rope in the rigging, as with the famed Greek fire."*

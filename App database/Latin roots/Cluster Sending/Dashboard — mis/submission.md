@@ -5,15 +5,6 @@ status: unread
 ---
 # submission
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (manuscripts or architectural plans and models or estimates or works of art of all genres etc.) submitted for the judgment of others (as in a competition).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of submitting; usually surrendering power to another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And therefore tell her I return great thanks, And in submission will attend on her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Submission, Dauphin! ’Tis a mere French word."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We know the time since he was mild and affable; And if we did but glance a far-off look, Immediately he was upon his knee, That all the court admired him for submission."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (manuscripts or architectural plans and models or estimates or works of art of all genres etc.) submitted for the judgment of others (as in a competition).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of submitting; usually surrendering power to another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And therefore tell her I return great thanks, And in submission will attend on her."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Submission, Dauphin! ’Tis a mere French word."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We know the time since he was mild and affable; And if we did but glance a far-off look, Immediately he was upon his knee, That all the court admired him for submission."*

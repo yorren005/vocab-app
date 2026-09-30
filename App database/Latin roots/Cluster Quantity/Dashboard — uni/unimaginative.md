@@ -5,15 +5,6 @@ status: unread
 ---
 # unimaginative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deficient in originality or creativity; lacking powers of invention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dealing only with concrete facts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Before we had made an end of this talk my father and the other squires came in, and we ceased our ghost stories, ashamed to speak of such matters before these new-comers—hard-headed, unimaginative men, who had no sympathy with idle legends."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"A practical, unimaginative woman, who has neither understanding nor sympathy for romance--that was obviously the verdict."*
-> - 📜 **Algis Budrys (*Citadel*):** *"Washington--aging, crowded Washington, mazed by narrow streets, carrying the burden of the severe, unimaginative past on its grimy architecture--respired heavily under the sinking sun."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deficient in originality or creativity; lacking powers of invention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dealing only with concrete facts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Before we had made an end of this talk my father and the other squires came in, and we ceased our ghost stories, ashamed to speak of such matters before these new-comers—hard-headed, unimaginative men, who had no sympathy with idle legends."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"A practical, unimaginative woman, who has neither understanding nor sympathy for romance--that was obviously the verdict."*
+> - 📜 **Algis Budrys (*Citadel*):** *"Washington--aging, crowded Washington, mazed by narrow streets, carrying the burden of the severe, unimaginative past on its grimy architecture--respired heavily under the sinking sun."*

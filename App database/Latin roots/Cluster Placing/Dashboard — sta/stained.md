@@ -5,15 +5,6 @@ status: unread
 ---
 # stained
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Color with a liquid dye or tint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produce or leave stains.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Behold it stained With his most noble blood."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some of my shame, if you will know of me What man I am, and how, and why, and where This handkerchief was stained."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is a dear and true-industrious friend, Sir Walter Blunt, new lighted from his horse, Stained with the variation of each soil Betwixt that Holmedon and this seat of ours; And he hath brought us smooth and welcome news."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Color with a liquid dye or tint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produce or leave stains.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Behold it stained With his most noble blood."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some of my shame, if you will know of me What man I am, and how, and why, and where This handkerchief was stained."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is a dear and true-industrious friend, Sir Walter Blunt, new lighted from his horse, Stained with the variation of each soil Betwixt that Holmedon and this seat of ours; And he hath brought us smooth and welcome news."*

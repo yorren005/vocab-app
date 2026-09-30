@@ -5,15 +5,6 @@ status: unread
 ---
 # invitingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tantalizing manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tantalizing manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had put a plate with round butter-balls beside the steaming coffee-pot, and fresh round rolls peeped invitingly from an old-fashioned little china basket."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"It was the sergeant who had spoken to me, and he was now looking round at the company, with his handcuffs invitingly extended towards them in his right hand, and his left on my shoulder."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But presently I came to a smoky light proceeding from a low, wide building, the door of which stood invitingly open."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tantalizing manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tantalizing manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had put a plate with round butter-balls beside the steaming coffee-pot, and fresh round rolls peeped invitingly from an old-fashioned little china basket."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"It was the sergeant who had spoken to me, and he was now looking round at the company, with his handcuffs invitingly extended towards them in his right hand, and his left on my shoulder."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But presently I came to a smoky light proceeding from a low, wide building, the door of which stood invitingly open."*

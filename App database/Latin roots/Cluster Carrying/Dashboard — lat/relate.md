@@ -5,15 +5,6 @@ status: unread
 ---
 # relate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a logical or causal connection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be relevant to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My sovereign liege, no letters, and few words, But such as I, without your special pardon, Dare not relate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let be called before us That gentleman of Buckingham’s; in person I’ll hear his confessions justify, And point by point the treasons of his master He shall again relate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stand forth, and with bold spirit relate what you, Most like a careful subject, have collected Out of the Duke of Buckingham."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a logical or causal connection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be relevant to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My sovereign liege, no letters, and few words, But such as I, without your special pardon, Dare not relate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let be called before us That gentleman of Buckingham’s; in person I’ll hear his confessions justify, And point by point the treasons of his master He shall again relate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stand forth, and with bold spirit relate what you, Most like a careful subject, have collected Out of the Duke of Buckingham."*

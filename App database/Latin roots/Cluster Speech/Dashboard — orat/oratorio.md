@@ -5,14 +5,6 @@ status: unread
 ---
 # oratorio
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition for voices and orchestra based on a religious text.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical composition for voices and orchestra based on a religious text.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"They took her to the ancient concerts by way of a treat, and to the oratorio, and to St."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"And when, on the return of the family from an oratorio at Winchester, the Baronet announced to the young ladies that he should next year very probably take them to the "county balls," they worshipped him for his kindness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition for voices and orchestra based on a religious text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical composition for voices and orchestra based on a religious text.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"They took her to the ancient concerts by way of a treat, and to the oratorio, and to St."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"And when, on the return of the family from an oratorio at Winchester, the Baronet announced to the young ladies that he should next year very probably take them to the "county balls," they worshipped him for his kindness."*

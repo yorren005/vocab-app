@@ -5,13 +5,6 @@ status: unread
 ---
 # incandesce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to become incandescent or glow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become incandescent or glow with heat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incandesce designates cause to become incandescent or glow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to become incandescent or glow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become incandescent or glow with heat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incandesce designates cause to become incandescent or glow."*

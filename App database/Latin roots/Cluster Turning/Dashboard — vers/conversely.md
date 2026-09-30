@@ -5,15 +5,6 @@ status: unread
 ---
 # conversely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With the terms of the relation reversed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With the terms of the relation reversed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"What Jesus then teaches on prayer will illuminate what he means by God; and conversely his conception of God will throw new light upon the whole problem of prayer."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is a received and well-founded maxim, that where no other circumstances affect the case, the greater the power is, the shorter ought to be its duration; and, conversely, the smaller the power, the more safely may its duration be protracted."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The several bills of rights in Great Britain form its Constitution, and conversely the constitution of each State is its bill of rights."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With the terms of the relation reversed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With the terms of the relation reversed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"What Jesus then teaches on prayer will illuminate what he means by God; and conversely his conception of God will throw new light upon the whole problem of prayer."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is a received and well-founded maxim, that where no other circumstances affect the case, the greater the power is, the shorter ought to be its duration; and, conversely, the smaller the power, the more safely may its duration be protracted."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The several bills of rights in Great Britain form its Constitution, and conversely the constitution of each State is its bill of rights."*

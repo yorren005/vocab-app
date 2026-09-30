@@ -5,13 +5,6 @@ status: unread
 ---
 # paederasty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sexual relations between a man and a boy (usually anal intercourse with the boy as a passive partner).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sexual relations between a man and a boy (usually anal intercourse with the boy as a passive partner).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paederasty designates sexual relations between a man and a boy (usually anal intercourse with the boy as a passive partner)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sexual relations between a man and a boy (usually anal intercourse with the boy as a passive partner).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sexual relations between a man and a boy (usually anal intercourse with the boy as a passive partner).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paederasty designates sexual relations between a man and a boy (usually anal intercourse with the boy as a passive partner)."*

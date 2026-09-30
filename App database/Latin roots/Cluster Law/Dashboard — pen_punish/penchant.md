@@ -5,15 +5,6 @@ status: unread
 ---
 # penchant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong liking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong liking.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I won’t listen to you—you are so profane!” she said, in a restless state between distress at hearing him and a _penchant_ to hear more."*
-> - 📜 **Effie Afton (*Eventide*):** *"Hannah's penchant for me seems to have decreased somewhat, since father waited on Col."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I won’t listen to you—you are so profane!” she said, in a restless state between distress at hearing him and a _penchant_ to hear more."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong liking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong liking.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I won’t listen to you—you are so profane!” she said, in a restless state between distress at hearing him and a _penchant_ to hear more."*
+> - 📜 **Effie Afton (*Eventide*):** *"Hannah's penchant for me seems to have decreased somewhat, since father waited on Col."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I won’t listen to you—you are so profane!” she said, in a restless state between distress at hearing him and a _penchant_ to hear more."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # epithalamion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A song or poem in honor of a bride and bridegroom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A song or poem in honor of a bride and bridegroom.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"Sing mournfully that sad Epithalamion I gave thee now: and prethee let thy lute weep."*
-> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"EPITHALAMION The pale dawn went down unto the sea, Past the gray ships in the offing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A song or poem in honor of a bride and bridegroom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A song or poem in honor of a bride and bridegroom.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"Sing mournfully that sad Epithalamion I gave thee now: and prethee let thy lute weep."*
+> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"EPITHALAMION The pale dawn went down unto the sea, Past the gray ships in the offing."*

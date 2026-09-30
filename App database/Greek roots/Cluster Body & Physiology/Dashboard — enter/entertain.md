@@ -5,15 +5,6 @@ status: unread
 ---
 # entertain
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide entertainment for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take into consideration, have in view.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I play the noble housewife with the time, to entertain it so merrily with a fool."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But entertain it, And though you think me poor, I am the man Will give thee all the world."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Until I know this sure uncertainty I’ll entertain the offer’d fallacy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide entertainment for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take into consideration, have in view.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I play the noble housewife with the time, to entertain it so merrily with a fool."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But entertain it, And though you think me poor, I am the man Will give thee all the world."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Until I know this sure uncertainty I’ll entertain the offer’d fallacy."*

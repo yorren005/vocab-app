@@ -5,13 +5,6 @@ status: unread
 ---
 # evernia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lichens of the family usneaceae having a pendulous or shrubby thallus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lichens of the family usneaceae having a pendulous or shrubby thallus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, evernia designates lichens of the family usneaceae having a pendulous or shrubby thallus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lichens of the family usneaceae having a pendulous or shrubby thallus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lichens of the family usneaceae having a pendulous or shrubby thallus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, evernia designates lichens of the family usneaceae having a pendulous or shrubby thallus."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # bastnasite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow-to-brown mineral that is a source of rare earth elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellow-to-brown mineral that is a source of rare earth elements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bastnasite designates a yellow-to-brown mineral that is a source of rare earth elements."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow-to-brown mineral that is a source of rare earth elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellow-to-brown mineral that is a source of rare earth elements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bastnasite designates a yellow-to-brown mineral that is a source of rare earth elements."*

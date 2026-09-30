@@ -5,13 +5,6 @@ status: unread
 ---
 # comradely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heartily friendly and congenial.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heartily friendly and congenial.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"True to our theory we must offer them our comradely affection and openly and honestly express our need of them in our lives and in our activities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heartily friendly and congenial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heartily friendly and congenial.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"True to our theory we must offer them our comradely affection and openly and honestly express our need of them in our lives and in our activities."*

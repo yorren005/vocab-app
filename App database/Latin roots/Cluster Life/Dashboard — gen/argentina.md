@@ -5,15 +5,6 @@ status: unread
 ---
 # argentina
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in southern south america; second largest country in south america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the argentinidae: argentines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Russia, Argentina, and Australia have rapidly taken the place of America in supplying food to Western Europe, in part, no doubt, because we refused to take Europe's goods in trade."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Summer schools are established in Argentina and Chile."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"To foretell the price of wheat one must know the rainfall in India, the condition of the crop in Argentina, must be in touch as nearly as possible with every unit of supply that will come into the market."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in southern south america; second largest country in south america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the argentinidae: argentines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Russia, Argentina, and Australia have rapidly taken the place of America in supplying food to Western Europe, in part, no doubt, because we refused to take Europe's goods in trade."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Summer schools are established in Argentina and Chile."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"To foretell the price of wheat one must know the rainfall in India, the condition of the crop in Argentina, must be in touch as nearly as possible with every unit of supply that will come into the market."*

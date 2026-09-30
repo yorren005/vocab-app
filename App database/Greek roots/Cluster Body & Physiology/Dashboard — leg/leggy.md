@@ -5,13 +5,6 @@ status: unread
 ---
 # leggy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of plants) having tall spindly stems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having long legs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leggy designates (of plants) having tall spindly stems."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of plants) having tall spindly stems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having long legs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leggy designates (of plants) having tall spindly stems."*

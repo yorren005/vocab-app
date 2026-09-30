@@ -5,14 +5,6 @@ status: unread
 ---
 # glacial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or derived from a glacier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of warmth and cordiality; expressive of unfriendliness or disdain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I have left the bones of my transient carcasses in pond bottoms, and glacial gravels, and asphaltum lakes."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The only traces of Glacial Action in the line explored were seen near Topeka."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or derived from a glacier.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of warmth and cordiality; expressive of unfriendliness or disdain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I have left the bones of my transient carcasses in pond bottoms, and glacial gravels, and asphaltum lakes."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The only traces of Glacial Action in the line explored were seen near Topeka."*

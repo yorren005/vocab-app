@@ -5,15 +5,6 @@ status: unread
 ---
 # injudiciously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an injudicious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an injudicious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You will find she is some young lady who has had a misunderstanding with her friends, and has probably injudiciously left them."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"To her she was most injudiciously indulgent."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Her aunts declared themselves deeply hurt, and Lydia was held to have treated them very injudiciously; but when they died, and their wills became public, it was found that they had vied with one another in enriching her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an injudicious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an injudicious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You will find she is some young lady who has had a misunderstanding with her friends, and has probably injudiciously left them."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"To her she was most injudiciously indulgent."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Her aunts declared themselves deeply hurt, and Lydia was held to have treated them very injudiciously; but when they died, and their wills became public, it was found that they had vied with one another in enriching her."*

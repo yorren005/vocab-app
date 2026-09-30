@@ -5,15 +5,6 @@ status: unread
 ---
 # extreme
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The furthest or highest degree of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The point located farthest from the middle of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mad in pursuit and in possession so, Had, having, and in quest, to have extreme, A bliss in proof, and proved, a very woe; Before a joy proposed behind a dream."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, it is A charge too heavy for my strength; but yet We’ll strive to bear it for your worthy sake To th’extreme edge of hazard."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The painful service, The extreme dangers, and the drops of blood Shed for my thankless country are requited But with that surname, a good memory And witness of the malice and displeasure Which thou shouldst bear me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The furthest or highest degree of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The point located farthest from the middle of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mad in pursuit and in possession so, Had, having, and in quest, to have extreme, A bliss in proof, and proved, a very woe; Before a joy proposed behind a dream."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, it is A charge too heavy for my strength; but yet We’ll strive to bear it for your worthy sake To th’extreme edge of hazard."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The painful service, The extreme dangers, and the drops of blood Shed for my thankless country are requited But with that surname, a good memory And witness of the malice and displeasure Which thou shouldst bear me."*

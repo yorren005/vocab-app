@@ -5,15 +5,6 @@ status: unread
 ---
 # reclaim
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Claim back.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reuse (materials from waste products).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My heart is wondrous light Since this same wayward girl is so reclaim’d. [_Exeunt._] SCENE III."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He had done so largely as an experiment--to see whether his influence would thereby be strengthened with those in his own congregation and beyond it whom he wished to reclaim from intemperance."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He was a perfect drunkard, helpless, poor; his friends' best efforts to reclaim' him were of no avail."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Claim back.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reuse (materials from waste products).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My heart is wondrous light Since this same wayward girl is so reclaim’d. [_Exeunt._] SCENE III."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"He had done so largely as an experiment--to see whether his influence would thereby be strengthened with those in his own congregation and beyond it whom he wished to reclaim from intemperance."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"He was a perfect drunkard, helpless, poor; his friends' best efforts to reclaim' him were of no avail."*

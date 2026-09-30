@@ -5,13 +5,6 @@ status: unread
 ---
 # olein
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A naturally occurring glyceride of oleic acid that is found in fats and oils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A naturally occurring glyceride of oleic acid that is found in fats and oils.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, olein designates a naturally occurring glyceride of oleic acid that is found in fats and oils."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A naturally occurring glyceride of oleic acid that is found in fats and oils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A naturally occurring glyceride of oleic acid that is found in fats and oils.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, olein designates a naturally occurring glyceride of oleic acid that is found in fats and oils."*

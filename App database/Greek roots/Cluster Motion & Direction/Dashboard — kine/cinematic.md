@@ -5,13 +5,6 @@ status: unread
 ---
 # cinematic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, suggestive of, or suitable for movies or the filming of movies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filmed and presented as a movie.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cinematic designates of, relating to, suggestive of, or suitable for movies or the filming of movies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, suggestive of, or suitable for movies or the filming of movies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filmed and presented as a movie.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cinematic designates of, relating to, suggestive of, or suitable for movies or the filming of movies."*

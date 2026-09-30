@@ -5,15 +5,6 @@ status: unread
 ---
 # fixed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restore by replacing a part or putting together what is torn or broken.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be firmly attached.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O no, it is an ever-fixed mark That looks on tempests and is never shaken; It is the star to every wand’ring bark, Whose worth’s unknown, although his height be taken."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With silence, nephew, be thou politic; Strong-fixed is the house of Lancaster, And like a mountain, not to be removed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why are thine eyes fixed to the sullen earth, Gazing on that which seems to dim thy sight?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Restore by replacing a part or putting together what is torn or broken.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be firmly attached.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O no, it is an ever-fixed mark That looks on tempests and is never shaken; It is the star to every wand’ring bark, Whose worth’s unknown, although his height be taken."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With silence, nephew, be thou politic; Strong-fixed is the house of Lancaster, And like a mountain, not to be removed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why are thine eyes fixed to the sullen earth, Gazing on that which seems to dim thy sight?"*

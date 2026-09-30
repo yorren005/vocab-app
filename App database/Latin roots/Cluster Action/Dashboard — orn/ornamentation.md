@@ -5,15 +5,6 @@ status: unread
 ---
 # ornamentation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being ornamented.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something used to beautify.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The daughter communities of Latin America were called into being and exterior ornamentation of the Temple was consummated while the American mother community was in the throes of the last, most harassing stage of the devastating struggle."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Nearly a million dollar drive to complete the Mother Temple of the West has been auspiciously launched and construction of interior sections of the ornamentation initiated."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The interior ornamentation of the Mother Temple of the West has, before its appointed time, been completed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being ornamented.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something used to beautify.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The daughter communities of Latin America were called into being and exterior ornamentation of the Temple was consummated while the American mother community was in the throes of the last, most harassing stage of the devastating struggle."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Nearly a million dollar drive to complete the Mother Temple of the West has been auspiciously launched and construction of interior sections of the ornamentation initiated."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The interior ornamentation of the Mother Temple of the West has, before its appointed time, been completed."*

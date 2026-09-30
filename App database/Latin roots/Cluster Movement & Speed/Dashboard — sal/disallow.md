@@ -5,15 +5,6 @@ status: unread
 ---
 # disallow
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Command against.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Command against.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What follows if we disallow of this?"*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"You totally disallow any similarity in the obligations; and may I not thence infer that your notions of the duties of the dancing state are not so strict as your partner might wish?"*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"I repeat, The Count your master’s known munificence Is ample warrant that no just pretence Of mine for dowry will be disallowed; Though his fair daughter’s self, as I avowed At starting, is my object."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Command against.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Command against.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What follows if we disallow of this?"*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"You totally disallow any similarity in the obligations; and may I not thence infer that your notions of the duties of the dancing state are not so strict as your partner might wish?"*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"I repeat, The Count your master’s known munificence Is ample warrant that no just pretence Of mine for dowry will be disallowed; Though his fair daughter’s self, as I avowed At starting, is my object."*

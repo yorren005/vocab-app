@@ -5,13 +5,6 @@ status: unread
 ---
 # immobilise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold as reserve or withdraw from circulation; of capital.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To hold fast or prevent from moving.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immobilise designates hold as reserve or withdraw from circulation; of capital."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold as reserve or withdraw from circulation; of capital.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To hold fast or prevent from moving.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immobilise designates hold as reserve or withdraw from circulation; of capital."*

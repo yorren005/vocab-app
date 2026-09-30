@@ -5,13 +5,6 @@ status: unread
 ---
 # disunify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Break up or separate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Break up or separate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disunify designates break up or separate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Break up or separate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Break up or separate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disunify designates break up or separate."*

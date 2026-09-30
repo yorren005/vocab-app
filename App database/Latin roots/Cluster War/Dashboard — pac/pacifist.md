@@ -5,13 +5,6 @@ status: unread
 ---
 # pacifist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone opposed to violence as a means of settling disputes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposed to war.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Nations with slowly growing populations, and still possessed of ample territories to maintain their accustomed standards of life, naturally favor the _status quo_, and are pacifist or nonmilitarist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone opposed to violence as a means of settling disputes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposed to war.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Nations with slowly growing populations, and still possessed of ample territories to maintain their accustomed standards of life, naturally favor the _status quo_, and are pacifist or nonmilitarist."*

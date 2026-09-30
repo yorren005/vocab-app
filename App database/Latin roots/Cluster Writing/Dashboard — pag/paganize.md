@@ -5,13 +5,6 @@ status: unread
 ---
 # paganize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make pagan in character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make pagan in character.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paganize designates make pagan in character."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make pagan in character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make pagan in character.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paganize designates make pagan in character."*

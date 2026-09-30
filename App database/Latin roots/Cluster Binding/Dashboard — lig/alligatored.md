@@ -5,13 +5,6 @@ status: unread
 ---
 # alligatored
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Crack and acquire the appearance of alligator hide, as from weathering or improper application; of paint and varnishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of paint or varnish; having the appearance of alligator hide.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alligatored designates crack and acquire the appearance of alligator hide, as from weathering or improper application; of paint and varnishes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Crack and acquire the appearance of alligator hide, as from weathering or improper application; of paint and varnishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of paint or varnish; having the appearance of alligator hide.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alligatored designates crack and acquire the appearance of alligator hide, as from weathering or improper application; of paint and varnishes."*

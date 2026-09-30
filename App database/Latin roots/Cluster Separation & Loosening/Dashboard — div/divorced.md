@@ -5,15 +5,6 @@ status: unread
 ---
 # divorced
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Part; cease or break association with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get a divorce; formally terminate a marriage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This sleep is sound indeed; this is a sleep That from this golden rigol hath divorced So many English kings."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beguil’d, divorced, wronged, spited, slain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Souls and bodies hath he divorced three, and his incensement at this moment is so implacable that satisfaction can be none but by pangs of death and sepulchre."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Part; cease or break association with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get a divorce; formally terminate a marriage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This sleep is sound indeed; this is a sleep That from this golden rigol hath divorced So many English kings."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beguil’d, divorced, wronged, spited, slain."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Souls and bodies hath he divorced three, and his incensement at this moment is so implacable that satisfaction can be none but by pangs of death and sepulchre."*

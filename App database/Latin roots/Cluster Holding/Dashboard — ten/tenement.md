@@ -5,15 +5,6 @@ status: unread
 ---
 # tenement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A run-down apartment house barely meeting minimal standards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A run-down apartment house barely meeting minimal standards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby could withstand his little woman’s look as it enters at his eyes, the windows of his soul, and searches the whole tenement, he were other than the man he is."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “and in the opinion of my friends, a commodious tenement."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The village being small he had little difficulty in finding Mrs Durbeyfield’s tenement, which was a house in a walled garden, remote from the main road, where she had stowed away her clumsy old furniture as best she could."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A run-down apartment house barely meeting minimal standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A run-down apartment house barely meeting minimal standards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby could withstand his little woman’s look as it enters at his eyes, the windows of his soul, and searches the whole tenement, he were other than the man he is."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “and in the opinion of my friends, a commodious tenement."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The village being small he had little difficulty in finding Mrs Durbeyfield’s tenement, which was a house in a walled garden, remote from the main road, where she had stowed away her clumsy old furniture as best she could."*

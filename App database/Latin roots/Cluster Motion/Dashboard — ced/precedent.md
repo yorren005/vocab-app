@@ -5,15 +5,6 @@ status: unread
 ---
 # precedent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An example that is used to justify similar occurrences at a later time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (civil law) a law established by following earlier judicial decisions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do it at once, Or thy precedent services are all But accidents unpurposed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am perfect That the Pannonians and Dalmatians for Their liberties are now in arms, a precedent Which not to read would show the Britons cold; So Cæsar shall not find them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A murderer and a villain; A slave that is not twentieth part the tithe Of your precedent lord."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An example that is used to justify similar occurrences at a later time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (civil law) a law established by following earlier judicial decisions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do it at once, Or thy precedent services are all But accidents unpurposed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am perfect That the Pannonians and Dalmatians for Their liberties are now in arms, a precedent Which not to read would show the Britons cold; So Cæsar shall not find them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A murderer and a villain; A slave that is not twentieth part the tithe Of your precedent lord."*

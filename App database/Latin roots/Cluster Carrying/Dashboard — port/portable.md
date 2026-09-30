@@ -5,15 +5,6 @@ status: unread
 ---
 # portable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small light typewriter; usually with a case in which it can be carried.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily or conveniently transported.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How light and portable my pain seems now, When that which makes me bend makes the King bow; He childed as I fathered!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All these are portable, With other graces weigh’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go tell him this, and add That if he overhold his price so much We’ll none of him, but let him, like an engine Not portable, lie under this report: Bring action hither; this cannot go to war."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small light typewriter; usually with a case in which it can be carried.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily or conveniently transported.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How light and portable my pain seems now, When that which makes me bend makes the King bow; He childed as I fathered!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All these are portable, With other graces weigh’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go tell him this, and add That if he overhold his price so much We’ll none of him, but let him, like an engine Not portable, lie under this report: Bring action hither; this cannot go to war."*

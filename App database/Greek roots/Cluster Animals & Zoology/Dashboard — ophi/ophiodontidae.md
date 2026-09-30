@@ -5,13 +5,6 @@ status: unread
 ---
 # ophiodontidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fishes closely related to greenlings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fishes closely related to greenlings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophiodontidae designates fishes closely related to greenlings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fishes closely related to greenlings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fishes closely related to greenlings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ophiodontidae designates fishes closely related to greenlings."*

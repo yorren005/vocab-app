@@ -5,13 +5,6 @@ status: unread
 ---
 # unicef
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agency of the united nations responsible for programs to aid education and the health of children and mothers in developing countries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agency of the united nations responsible for programs to aid education and the health of children and mothers in developing countries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unicef designates an agency of the united nations responsible for programs to aid education and the health of children and mothers in developing countries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agency of the united nations responsible for programs to aid education and the health of children and mothers in developing countries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agency of the united nations responsible for programs to aid education and the health of children and mothers in developing countries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unicef designates an agency of the united nations responsible for programs to aid education and the health of children and mothers in developing countries."*

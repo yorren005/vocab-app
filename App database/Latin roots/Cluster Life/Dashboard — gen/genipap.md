@@ -5,13 +5,6 @@ status: unread
 ---
 # genipap
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A succulent orange-sized tropical fruit with a thick rind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A succulent orange-sized tropical fruit with a thick rind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genipap designates a succulent orange-sized tropical fruit with a thick rind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A succulent orange-sized tropical fruit with a thick rind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A succulent orange-sized tropical fruit with a thick rind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genipap designates a succulent orange-sized tropical fruit with a thick rind."*

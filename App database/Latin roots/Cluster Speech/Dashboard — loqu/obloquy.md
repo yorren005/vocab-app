@@ -5,15 +5,6 @@ status: unread
 ---
 # obloquy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State of disgrace resulting from public abuse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A false accusation of an offense or a malicious misrepresentation of someone's words or actions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is an honour ’longing to our house, Bequeathed down from many ancestors, Which were the greatest obloquy i’ the world In me to lose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mine honour’s such a ring; My chastity’s the jewel of our house, Bequeathed down from many ancestors, Which were the greatest obloquy i’ the world In me to lose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This day, in argument upon a case, Some words there grew ’twixt Somerset and me; Among which terms he used his lavish tongue And did upbraid me with my father’s death; Which obloquy set bars before my tongue, Else with the like I had requited him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: State of disgrace resulting from public abuse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A false accusation of an offense or a malicious misrepresentation of someone's words or actions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is an honour ’longing to our house, Bequeathed down from many ancestors, Which were the greatest obloquy i’ the world In me to lose."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mine honour’s such a ring; My chastity’s the jewel of our house, Bequeathed down from many ancestors, Which were the greatest obloquy i’ the world In me to lose."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This day, in argument upon a case, Some words there grew ’twixt Somerset and me; Among which terms he used his lavish tongue And did upbraid me with my father’s death; Which obloquy set bars before my tongue, Else with the like I had requited him."*

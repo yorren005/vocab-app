@@ -5,15 +5,6 @@ status: unread
 ---
 # mechanically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mechanical manner; by a mechanism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a machinelike manner; without feeling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket—Sir Leicester mechanically bows his head—“and you ask me to consider a proposal of five hundred pounds."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now I understand you, you know, and being deputed by Sir Leicester Dedlock, Baronet, to look into this little matter,” again Sir Leicester mechanically bows in confirmation of the statement, “can give it my fair and full attention."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He said mechanically, “Ah, why?” and continued to look at her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mechanical manner; by a mechanism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a machinelike manner; without feeling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket—Sir Leicester mechanically bows his head—“and you ask me to consider a proposal of five hundred pounds."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now I understand you, you know, and being deputed by Sir Leicester Dedlock, Baronet, to look into this little matter,” again Sir Leicester mechanically bows in confirmation of the statement, “can give it my fair and full attention."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He said mechanically, “Ah, why?” and continued to look at her."*

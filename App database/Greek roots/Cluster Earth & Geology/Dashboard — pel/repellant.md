@@ -5,14 +5,6 @@ status: unread
 ---
 # repellant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound with which fabrics are treated to repel water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical substance that repels animals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"You note that the very thing that appealed most strongly to the mind of the Jew--the miraculous raising of the Jesus--was the most repellant to the Greek, who, in his search for wisdom, demanded to know the how of every assertion."*
-> - 📜 **Grant Allen (*Michael's Crag*):** *"They're black, and repellant, and iron-bound, and dangerous, but they're certainly magnificent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound with which fabrics are treated to repel water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical substance that repels animals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"You note that the very thing that appealed most strongly to the mind of the Jew--the miraculous raising of the Jesus--was the most repellant to the Greek, who, in his search for wisdom, demanded to know the how of every assertion."*
+> - 📜 **Grant Allen (*Michael's Crag*):** *"They're black, and repellant, and iron-bound, and dangerous, but they're certainly magnificent."*

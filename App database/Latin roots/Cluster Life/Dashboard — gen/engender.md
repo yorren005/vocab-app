@@ -5,15 +5,6 @@ status: unread
 ---
 # engender
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Call forth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make children.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, dear, if I be so, From my cold heart let heaven engender hail And poison it in the source, and the first stone Drop in my neck; as it determines, so Dissolve my life!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Error, soon conceiv’d, Thou never com’st unto a happy birth, But kill’st the mother that engender’d thee!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here I stand your slave, A poor, infirm, weak, and despis’d old man: But yet I call you servile ministers, That will with two pernicious daughters join Your high-engender’d battles ’gainst a head So old and white as this!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Call forth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make children.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, dear, if I be so, From my cold heart let heaven engender hail And poison it in the source, and the first stone Drop in my neck; as it determines, so Dissolve my life!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Error, soon conceiv’d, Thou never com’st unto a happy birth, But kill’st the mother that engender’d thee!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here I stand your slave, A poor, infirm, weak, and despis’d old man: But yet I call you servile ministers, That will with two pernicious daughters join Your high-engender’d battles ’gainst a head So old and white as this!"*

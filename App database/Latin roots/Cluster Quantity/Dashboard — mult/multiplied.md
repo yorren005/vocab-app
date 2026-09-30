@@ -5,15 +5,6 @@ status: unread
 ---
 # multiplied
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Combine by multiplication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Combine or increase by multiplication.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, by the grace of God, and Hume’s advice, Your grace’s title shall be multiplied."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Great is his comfort in this earthly vale, Although by his sight his sin be multiplied."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And they’re born as fast as they die—faster, I reckon, because they’ve increased and multiplied."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Combine by multiplication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Combine or increase by multiplication.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, by the grace of God, and Hume’s advice, Your grace’s title shall be multiplied."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Great is his comfort in this earthly vale, Although by his sight his sin be multiplied."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And they’re born as fast as they die—faster, I reckon, because they’ve increased and multiplied."*

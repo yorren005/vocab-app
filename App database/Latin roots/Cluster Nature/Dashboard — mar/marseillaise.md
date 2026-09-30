@@ -5,15 +5,6 @@ status: unread
 ---
 # marseillaise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The french national anthem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The french national anthem.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Her songs are to be "The Wearing of the Green"--& "Poland Dirge" & the "Marseillaise"."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Come, uncle; take your dutiful and sharp-set nephew in to dinner.” As the boy (for he is little more) lays a hand on Jasper’s shoulder, Jasper cordially and gaily lays a hand on _his_ shoulder, and so Marseillaise-wise they go in to dinner."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"France has sung the _Marseillaise_, her anthem of freedom, and waded through blood in ill-directed struggles for her disenthralment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The french national anthem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The french national anthem.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Her songs are to be "The Wearing of the Green"--& "Poland Dirge" & the "Marseillaise"."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Come, uncle; take your dutiful and sharp-set nephew in to dinner.” As the boy (for he is little more) lays a hand on Jasper’s shoulder, Jasper cordially and gaily lays a hand on _his_ shoulder, and so Marseillaise-wise they go in to dinner."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"France has sung the _Marseillaise_, her anthem of freedom, and waded through blood in ill-directed struggles for her disenthralment."*

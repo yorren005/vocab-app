@@ -5,15 +5,6 @@ status: unread
 ---
 # purse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A container used for carrying money and small personal items or accessories (especially by women).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sum of money spoken of as the contents of a money purse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take this purse of gold, And let me buy your friendly help thus far, Which I will over-pay, and pay again When I have found it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet I should bear no cross if I did bear you, for I think you have no money in your purse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think he is not a pick-purse nor a horse-stealer, but for his verity in love, I do think him as concave as a covered goblet or a worm-eaten nut."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A container used for carrying money and small personal items or accessories (especially by women).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sum of money spoken of as the contents of a money purse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take this purse of gold, And let me buy your friendly help thus far, Which I will over-pay, and pay again When I have found it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet I should bear no cross if I did bear you, for I think you have no money in your purse."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think he is not a pick-purse nor a horse-stealer, but for his verity in love, I do think him as concave as a covered goblet or a worm-eaten nut."*

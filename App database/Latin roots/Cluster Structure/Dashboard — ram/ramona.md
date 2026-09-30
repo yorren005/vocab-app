@@ -5,13 +5,6 @@ status: unread
 ---
 # ramona
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrubby plant with aromatic greyish-green leaves used as a cooking herb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrubby plant with aromatic greyish-green leaves used as a cooking herb.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramona designates shrubby plant with aromatic greyish-green leaves used as a cooking herb."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrubby plant with aromatic greyish-green leaves used as a cooking herb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrubby plant with aromatic greyish-green leaves used as a cooking herb.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramona designates shrubby plant with aromatic greyish-green leaves used as a cooking herb."*

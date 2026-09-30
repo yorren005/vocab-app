@@ -5,13 +5,6 @@ status: unread
 ---
 # dicloxacillin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Antibacterial (trade name dynapen) used to treat staphylococcal infections that are resistant to penicillin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antibacterial (trade name dynapen) used to treat staphylococcal infections that are resistant to penicillin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicloxacillin designates antibacterial (trade name dynapen) used to treat staphylococcal infections that are resistant to penicillin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Antibacterial (trade name dynapen) used to treat staphylococcal infections that are resistant to penicillin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antibacterial (trade name dynapen) used to treat staphylococcal infections that are resistant to penicillin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicloxacillin designates antibacterial (trade name dynapen) used to treat staphylococcal infections that are resistant to penicillin."*

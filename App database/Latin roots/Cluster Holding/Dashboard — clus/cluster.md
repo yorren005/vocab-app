@@ -5,15 +5,6 @@ status: unread
 ---
 # cluster
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grouping of a number of similar things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come together as in a cluster or flock.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was glad when we came to the brickmaker’s house, though it was one of a cluster of wretched hovels in a brick-field, with pigsties close to the broken windows and miserable little gardens before the doors growing nothing but stagnant pools."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In the middle distance was a cluster of wretched, flat-roofed hovels."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There are numerous islands in the group, over all of which Raa Kook is king, although the cluster of islands to the south is restive and occasionally in revolt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A grouping of a number of similar things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come together as in a cluster or flock.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I was glad when we came to the brickmaker’s house, though it was one of a cluster of wretched hovels in a brick-field, with pigsties close to the broken windows and miserable little gardens before the doors growing nothing but stagnant pools."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In the middle distance was a cluster of wretched, flat-roofed hovels."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There are numerous islands in the group, over all of which Raa Kook is king, although the cluster of islands to the south is restive and occasionally in revolt."*

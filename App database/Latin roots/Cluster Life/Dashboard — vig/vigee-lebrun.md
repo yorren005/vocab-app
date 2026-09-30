@@ -5,13 +5,6 @@ status: unread
 ---
 # vigee-lebrun
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French painter noted for her portraits (1755-1842).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French painter noted for her portraits (1755-1842).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vigee-lebrun designates french painter noted for her portraits (1755-1842)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French painter noted for her portraits (1755-1842).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French painter noted for her portraits (1755-1842).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vigee-lebrun designates french painter noted for her portraits (1755-1842)."*

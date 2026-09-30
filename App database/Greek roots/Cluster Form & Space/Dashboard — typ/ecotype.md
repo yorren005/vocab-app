@@ -5,13 +5,6 @@ status: unread
 ---
 # ecotype
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A population of a species that survives as a distinct group through environmental selection and isolation and that is comparable with a taxonomic subspecies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A population of a species that survives as a distinct group through environmental selection and isolation and that is comparable with a taxonomic subspecies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecotype designates a population of a species that survives as a distinct group through environmental selection and isolation and that is comparable with a taxonomic subspecies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A population of a species that survives as a distinct group through environmental selection and isolation and that is comparable with a taxonomic subspecies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A population of a species that survives as a distinct group through environmental selection and isolation and that is comparable with a taxonomic subspecies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecotype designates a population of a species that survives as a distinct group through environmental selection and isolation and that is comparable with a taxonomic subspecies."*

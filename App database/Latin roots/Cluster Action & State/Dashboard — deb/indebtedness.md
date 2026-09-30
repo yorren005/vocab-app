@@ -5,15 +5,6 @@ status: unread
 ---
 # indebtedness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An obligation to pay money to another party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A personal relation in which one is indebted for a service or favor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"But now--she had been lying there two weeks; six dollars were due for board, and still she was unable to rise, and, when she did, how could she ever pay the back indebtedness?"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"During these days of wonderful business and deliverances, after each indebtedness was discharged, there still was not left cash in hand a sum exceeding three to five dollars."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The wasteful process of shipping these sums back and forth is avoided by the cancellation of indebtedness between the two localities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obligation to pay money to another party.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A personal relation in which one is indebted for a service or favor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"But now--she had been lying there two weeks; six dollars were due for board, and still she was unable to rise, and, when she did, how could she ever pay the back indebtedness?"*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"During these days of wonderful business and deliverances, after each indebtedness was discharged, there still was not left cash in hand a sum exceeding three to five dollars."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The wasteful process of shipping these sums back and forth is avoided by the cancellation of indebtedness between the two localities."*

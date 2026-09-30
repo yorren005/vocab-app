@@ -5,15 +5,6 @@ status: unread
 ---
 # native
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An indigenous person who was born in a particular place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person born in a particular place or country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mightiest space in fortune nature brings To join like likes, and kiss like native things."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say I am your mother, And put you in the catalogue of those That were enwombed mine. ’Tis often seen Adoption strives with nature, and choice breeds A native slip to us from foreign seeds."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet it irks me the poor dappled fools, Being native burghers of this desert city, Should in their own confines with forked heads Have their round haunches gored."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An indigenous person who was born in a particular place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person born in a particular place or country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mightiest space in fortune nature brings To join like likes, and kiss like native things."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say I am your mother, And put you in the catalogue of those That were enwombed mine. ’Tis often seen Adoption strives with nature, and choice breeds A native slip to us from foreign seeds."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet it irks me the poor dappled fools, Being native burghers of this desert city, Should in their own confines with forked heads Have their round haunches gored."*

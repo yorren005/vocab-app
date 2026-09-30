@@ -5,13 +5,6 @@ status: unread
 ---
 # Prokaryote
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the typically unicellular microorganisms that lack a distinct nucleus and membrane-bound organelles and that are classified as a kingdom (Prokaryotae synonym Monera) or into two domains (Bacteria and Archaea).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the typically unicellular microorganisms that lack a distinct nucleus and membrane-bound organelles and that are classified as a kingdom (Prokaryotae synonym Monera) or into two domains (Bacteria and Archaea).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Prokaryote designates any of the typically unicellular microorganisms that lack a distinct nucleus and membrane-bound organelles and that are classified as a kingdom (prokaryotae synonym monera) or into two domains (bacteria and archaea)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the typically unicellular microorganisms that lack a distinct nucleus and membrane-bound organelles and that are classified as a kingdom (Prokaryotae synonym Monera) or into two domains (Bacteria and Archaea).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the typically unicellular microorganisms that lack a distinct nucleus and membrane-bound organelles and that are classified as a kingdom (Prokaryotae synonym Monera) or into two domains (Bacteria and Archaea).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Prokaryote designates any of the typically unicellular microorganisms that lack a distinct nucleus and membrane-bound organelles and that are classified as a kingdom (prokaryotae synonym monera) or into two domains (bacteria and archaea)."*

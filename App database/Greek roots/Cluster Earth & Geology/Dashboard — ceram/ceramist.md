@@ -5,13 +5,6 @@ status: unread
 ---
 # ceramist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A craftsman who shapes pottery on a potter's wheel and bakes them it a kiln.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A craftsman who shapes pottery on a potter's wheel and bakes them it a kiln.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceramist designates a craftsman who shapes pottery on a potter's wheel and bakes them it a kiln."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A craftsman who shapes pottery on a potter's wheel and bakes them it a kiln.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A craftsman who shapes pottery on a potter's wheel and bakes them it a kiln.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceramist designates a craftsman who shapes pottery on a potter's wheel and bakes them it a kiln."*

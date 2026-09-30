@@ -5,15 +5,6 @@ status: unread
 ---
 # popper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: British philosopher (born in austria) who argued that scientific theories can never be proved to be true, but are tested by attempts to falsify them (1902-1994).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A container of stimulant drug (amyl nitrate or butyl nitrite).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Malmo, the Wounded Rat Mama’s Happy Christmas Cured of Carelessness A Visit from a Prince Stringing Cranberries Christmas in California A Troublesome Call Bertie’s Corn-Popper Fire!"*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"BERTIE’S CORN-POPPER Bertie had the desire of his heart,--a corn-popper!"*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Bertie could hardly wait to eat his supper before he tried his corn-popper."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: British philosopher (born in austria) who argued that scientific theories can never be proved to be true, but are tested by attempts to falsify them (1902-1994).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A container of stimulant drug (amyl nitrate or butyl nitrite).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Malmo, the Wounded Rat Mama’s Happy Christmas Cured of Carelessness A Visit from a Prince Stringing Cranberries Christmas in California A Troublesome Call Bertie’s Corn-Popper Fire!"*
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"BERTIE’S CORN-POPPER Bertie had the desire of his heart,--a corn-popper!"*
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Bertie could hardly wait to eat his supper before he tried his corn-popper."*

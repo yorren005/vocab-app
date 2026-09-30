@@ -5,13 +5,6 @@ status: unread
 ---
 # steatopygia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An accumulation of a large amount of fat on the buttocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An accumulation of a large amount of fat on the buttocks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steatopygia designates an accumulation of a large amount of fat on the buttocks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An accumulation of a large amount of fat on the buttocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An accumulation of a large amount of fat on the buttocks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steatopygia designates an accumulation of a large amount of fat on the buttocks."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # dispersed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distribute loosely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause to separate and go in different directions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, our army is dispersed already."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With Henry’s death the English circle ends; Dispersed are the glories it included."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now there rests no other shift but this: To gather our soldiers, scattered and dispersed, And lay new platforms to endamage them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distribute loosely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause to separate and go in different directions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, our army is dispersed already."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With Henry’s death the English circle ends; Dispersed are the glories it included."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now there rests no other shift but this: To gather our soldiers, scattered and dispersed, And lay new platforms to endamage them."*

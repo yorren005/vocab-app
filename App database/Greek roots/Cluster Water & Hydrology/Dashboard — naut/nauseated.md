@@ -5,13 +5,6 @@ status: unread
 ---
 # nauseated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Upset and make nauseated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause aversion in; offend the moral sense of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nauseated designates upset and make nauseated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Upset and make nauseated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause aversion in; offend the moral sense of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nauseated designates upset and make nauseated."*

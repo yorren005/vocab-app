@@ -5,15 +5,6 @@ status: unread
 ---
 # divisibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being divisible; the capacity to be divided into parts or divided among a number of persons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being divisible; the capacity to be divided into parts or divided among a number of persons.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Divisibility; that is, the quality in the monetary material that permits it to be divided easily into smaller amounts and then to be united again into larger masses at little cost and without loss in amount or in quality."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Such be- 280:12 lief can neither apprehend nor worship the infinite; and to accommodate its finite sense of the divisibility of Soul and substance, it seeks to divide the one Spirit into per- 280:15 sons and souls."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The divisibility of life, or, to put it otherwise, the plurality of souls, is an idea suggested by many familiar facts, and has commended itself to philosophers like Plato, as well as to savages."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being divisible; the capacity to be divided into parts or divided among a number of persons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being divisible; the capacity to be divided into parts or divided among a number of persons.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Divisibility; that is, the quality in the monetary material that permits it to be divided easily into smaller amounts and then to be united again into larger masses at little cost and without loss in amount or in quality."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Such be- 280:12 lief can neither apprehend nor worship the infinite; and to accommodate its finite sense of the divisibility of Soul and substance, it seeks to divide the one Spirit into per- 280:15 sons and souls."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The divisibility of life, or, to put it otherwise, the plurality of souls, is an idea suggested by many familiar facts, and has commended itself to philosophers like Plato, as well as to savages."*

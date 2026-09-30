@@ -5,15 +5,6 @@ status: unread
 ---
 # precinct
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A district of a city or town marked out for administrative purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A district of a city or town marked out for administrative purposes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for myself, most part of all this night, Within her quarter and mine own precinct I was employ’d in passing to and fro About relieving of the sentinels."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"To me it is most memorable—the time when the one with a grouch, who never played, alighted in a moment of absent-mindedness within the taboo precinct and was immediately captured in my hand."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Poor little place, where its one priest comes On a festa-day, if he comes at all, To the dozen folk from their scattered homes, Gathered within that precinct small By the dozen ways one roams-- 17."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A district of a city or town marked out for administrative purposes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A district of a city or town marked out for administrative purposes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for myself, most part of all this night, Within her quarter and mine own precinct I was employ’d in passing to and fro About relieving of the sentinels."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"To me it is most memorable—the time when the one with a grouch, who never played, alighted in a moment of absent-mindedness within the taboo precinct and was immediately captured in my hand."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Poor little place, where its one priest comes On a festa-day, if he comes at all, To the dozen folk from their scattered homes, Gathered within that precinct small By the dozen ways one roams-- 17."*

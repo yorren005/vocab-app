@@ -5,13 +5,6 @@ status: unread
 ---
 # redbone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A speedy red or red-and-tan american hound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speedy red or red-and-tan american hound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redbone designates a speedy red or red-and-tan american hound."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A speedy red or red-and-tan american hound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speedy red or red-and-tan american hound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redbone designates a speedy red or red-and-tan american hound."*

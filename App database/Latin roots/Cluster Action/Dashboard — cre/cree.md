@@ -5,15 +5,6 @@ status: unread
 ---
 # cree
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an algonquian people living in central canada.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The algonquian language spoken by the cree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Song—A Fiddler In The North The Minstrel At Lincluden A Vision Song—A Red, Red Rose Song—Young Jamie, Pride Of A’ The Plain Song—The Flowery Banks Of Cree Monody On a lady famed for her Caprice."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And let us all our vows renew, Along the flowery banks of Cree."*
-> - 📜 **James Joyce (*Ulysses*):** *"The door of Ruttledge’s office whispered: ee: cree."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an algonquian people living in central canada.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The algonquian language spoken by the cree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Song—A Fiddler In The North The Minstrel At Lincluden A Vision Song—A Red, Red Rose Song—Young Jamie, Pride Of A’ The Plain Song—The Flowery Banks Of Cree Monody On a lady famed for her Caprice."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And let us all our vows renew, Along the flowery banks of Cree."*
+> - 📜 **James Joyce (*Ulysses*):** *"The door of Ruttledge’s office whispered: ee: cree."*

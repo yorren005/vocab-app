@@ -5,15 +5,6 @@ status: unread
 ---
 # decorator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who specializes in designing architectural interiors and their furnishings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who decorates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Friends and Helpers*):** *"The humming-bird is an upholsterer and decorator."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"But the pink and crimson asters furnished a centrepiece decidedly more in keeping, somehow, with a men's dinner than roses would have been, and the decorators were content with them."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"There have been decorators and furnishers up from Plymouth, and it is evident that our friend has large ideas and means to spare no pains or expense to restore the grandeur of his family."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who specializes in designing architectural interiors and their furnishings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who decorates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Friends and Helpers*):** *"The humming-bird is an upholsterer and decorator."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"But the pink and crimson asters furnished a centrepiece decidedly more in keeping, somehow, with a men's dinner than roses would have been, and the decorators were content with them."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"There have been decorators and furnishers up from Plymouth, and it is evident that our friend has large ideas and means to spare no pains or expense to restore the grandeur of his family."*

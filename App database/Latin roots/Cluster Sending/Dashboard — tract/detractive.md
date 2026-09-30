@@ -5,13 +5,6 @@ status: unread
 ---
 # detractive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing to decrease in importance or value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing to decrease in importance or value.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detractive designates causing to decrease in importance or value."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing to decrease in importance or value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing to decrease in importance or value.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detractive designates causing to decrease in importance or value."*

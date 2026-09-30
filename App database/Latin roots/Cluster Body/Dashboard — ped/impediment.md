@@ -5,15 +5,6 @@ status: unread
 ---
 # impediment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something immaterial that interferes with or delays action or progress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any structure that makes progress difficult.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"May I never To this good purpose, that so fairly shows, Dream of impediment!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lay A fault on us, your tribunes, that we laboured, No impediment between, but that you must Cast your election on him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What was th’ impediment that broke this off?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something immaterial that interferes with or delays action or progress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any structure that makes progress difficult.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"May I never To this good purpose, that so fairly shows, Dream of impediment!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lay A fault on us, your tribunes, that we laboured, No impediment between, but that you must Cast your election on him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What was th’ impediment that broke this off?"*

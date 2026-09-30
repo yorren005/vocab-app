@@ -5,13 +5,6 @@ status: unread
 ---
 # submersed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sink below the surface; go under or as if under water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put under water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, submersed designates sink below the surface; go under or as if under water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sink below the surface; go under or as if under water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put under water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, submersed designates sink below the surface; go under or as if under water."*

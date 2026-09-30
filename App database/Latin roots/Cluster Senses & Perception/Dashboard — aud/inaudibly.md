@@ -5,15 +5,6 @@ status: unread
 ---
 # inaudibly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inaudible manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inaudible manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Quale asked Ada and me, not inaudibly, whether he was not a great creature—which he certainly was, flabbily speaking, though Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How warm ’tis to-day!” she said, almost inaudibly."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"You will never hear the tom-tom again,” he muttered, but inaudibly of course, for strict silence had been enjoined."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inaudible manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inaudible manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Quale asked Ada and me, not inaudibly, whether he was not a great creature—which he certainly was, flabbily speaking, though Mr."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How warm ’tis to-day!” she said, almost inaudibly."*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"You will never hear the tom-tom again,” he muttered, but inaudibly of course, for strict silence had been enjoined."*

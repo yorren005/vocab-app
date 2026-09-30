@@ -5,15 +5,6 @@ status: unread
 ---
 # ventilator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device (such as a fan) that introduces fresh air or expels foul air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device that facilitates breathing in cases of respiratory failure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The next day after this, on going into his room, he laid before me an empty envelope, and a five dollar bill, and asked me the question, "Did you throw that envelope with that bill in it, through that ventilator?" I assured him that I did not."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It has evidently been thrown in through the ventilator." We both recognized God's hand in the provision made and mentally gave thanks to our Heavenly Father."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Above the door was a ventilator, through which volumes of fresh air renewed the impoverished atmosphere of the cell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device (such as a fan) that introduces fresh air or expels foul air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device that facilitates breathing in cases of respiratory failure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The next day after this, on going into his room, he laid before me an empty envelope, and a five dollar bill, and asked me the question, "Did you throw that envelope with that bill in it, through that ventilator?" I assured him that I did not."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"It has evidently been thrown in through the ventilator." We both recognized God's hand in the provision made and mentally gave thanks to our Heavenly Father."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Above the door was a ventilator, through which volumes of fresh air renewed the impoverished atmosphere of the cell."*

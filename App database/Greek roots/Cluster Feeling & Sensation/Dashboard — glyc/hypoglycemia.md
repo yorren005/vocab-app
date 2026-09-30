@@ -5,13 +5,6 @@ status: unread
 ---
 # hypoglycemia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally low blood sugar usually resulting from excessive insulin or a poor diet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally low blood sugar usually resulting from excessive insulin or a poor diet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypoglycemia designates abnormally low blood sugar usually resulting from excessive insulin or a poor diet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally low blood sugar usually resulting from excessive insulin or a poor diet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally low blood sugar usually resulting from excessive insulin or a poor diet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypoglycemia designates abnormally low blood sugar usually resulting from excessive insulin or a poor diet."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # unalterably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unalterable and unchangeable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unalterable and unchangeable manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"So obedient to impulses the most transient and brief, and yet so unalterably observant of the direction which is given to it!"*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"In a word, he at length succeeded in gaining her hand, though with the solemn assurance, that her heart was unalterably another’s."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The regiment was also a home, and as unalterably dear and precious as his parents’ house."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unalterable and unchangeable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unalterable and unchangeable manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"So obedient to impulses the most transient and brief, and yet so unalterably observant of the direction which is given to it!"*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"In a word, he at length succeeded in gaining her hand, though with the solemn assurance, that her heart was unalterably another’s."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The regiment was also a home, and as unalterably dear and precious as his parents’ house."*

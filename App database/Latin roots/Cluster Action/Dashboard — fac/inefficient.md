@@ -5,15 +5,6 @@ status: unread
 ---
 # inefficient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not producing desired results; wasteful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking the ability or skill to perform effectively; inadequate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There was Slant-Eyed Wilson, with an unguessed weak heart of fear, who died in the jacket within the first hour while the unconvinced inefficient of a prison doctor looked on and smiled."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But as conditions changed with industrial development, chattel slavery became an inefficient form of industrial organization and a hindrance to progress. § 2. #Workers in the Middle Ages#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This result is easily explained by lack of commercial knowledge and lack of harmony among the members, selling on credit, and inefficient management."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not producing desired results; wasteful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking the ability or skill to perform effectively; inadequate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There was Slant-Eyed Wilson, with an unguessed weak heart of fear, who died in the jacket within the first hour while the unconvinced inefficient of a prison doctor looked on and smiled."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But as conditions changed with industrial development, chattel slavery became an inefficient form of industrial organization and a hindrance to progress. § 2. #Workers in the Middle Ages#."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This result is easily explained by lack of commercial knowledge and lack of harmony among the members, selling on credit, and inefficient management."*

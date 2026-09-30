@@ -5,15 +5,6 @@ status: unread
 ---
 # unanimous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In complete agreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting together as a single undiversified whole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Every voice in nature was unanimous in bespeaking change."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The result was that a unanimous and enthusiastic call was addressed to him."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The committee to which it was sent received it with great regret, and a unanimous feeling found expression that, at anyrate, he should retain the office of Principal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In complete agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting together as a single undiversified whole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Every voice in nature was unanimous in bespeaking change."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"The result was that a unanimous and enthusiastic call was addressed to him."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"The committee to which it was sent received it with great regret, and a unanimous feeling found expression that, at anyrate, he should retain the office of Principal."*

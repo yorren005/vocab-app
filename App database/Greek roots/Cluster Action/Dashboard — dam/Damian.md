@@ -5,14 +5,6 @@ status: unread
 ---
 # Damian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of tame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of tame.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Damian,” said the Grand Master, “retire, and have a guard ready to await our sudden call; and suffer no one to enter the garden until we shall leave it.”—The squire bowed and retreated.—“Jew,” continued the haughty old man, “mark me."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"I will teach her to throw spell and incantation over the soldiers of the blessed Temple.—There, Damian, spurn this Jew from the gate—shoot him dead if he oppose or turn again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of tame.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of tame.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Damian,” said the Grand Master, “retire, and have a guard ready to await our sudden call; and suffer no one to enter the garden until we shall leave it.”—The squire bowed and retreated.—“Jew,” continued the haughty old man, “mark me."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"I will teach her to throw spell and incantation over the soldiers of the blessed Temple.—There, Damian, spurn this Jew from the gate—shoot him dead if he oppose or turn again."*

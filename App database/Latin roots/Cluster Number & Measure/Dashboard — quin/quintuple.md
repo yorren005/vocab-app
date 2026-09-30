@@ -5,13 +5,6 @@ status: unread
 ---
 # quintuple
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of five similar things considered as a unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increase fivefold.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quintuple designates a set of five similar things considered as a unit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of five similar things considered as a unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increase fivefold.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quintuple designates a set of five similar things considered as a unit."*

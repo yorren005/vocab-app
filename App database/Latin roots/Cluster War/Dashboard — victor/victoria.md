@@ -5,15 +5,6 @@ status: unread
 ---
 # victoria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Queen of great britain and ireland and empress of india from 1837 to 1901; the last hanoverian ruler of england (1819-1901).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) goddess of victory; counterpart of greek nike.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The modern[9] movement for the minimum wage began in Victoria in 1896, and it soon extended to nearly all the other Australasian states."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Some of the aborigines of Victoria used to regard the fat of the emu as sacred, believing that it had once been the fat of the black man."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Brough Smyth, _Aborigines of Victoria_ (Melbourne and London, 1878), i. 450. [31] E."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Queen of great britain and ireland and empress of india from 1837 to 1901; the last hanoverian ruler of england (1819-1901).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) goddess of victory; counterpart of greek nike.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The modern[9] movement for the minimum wage began in Victoria in 1896, and it soon extended to nearly all the other Australasian states."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Some of the aborigines of Victoria used to regard the fat of the emu as sacred, believing that it had once been the fat of the black man."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Brough Smyth, _Aborigines of Victoria_ (Melbourne and London, 1878), i. 450. [31] E."*

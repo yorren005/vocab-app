@@ -5,13 +5,6 @@ status: unread
 ---
 # antialiasing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer graphics) a technique that is used to smooth jagged distortions in curves and diagonal lines so they appear smoother.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer graphics) a technique that is used to smooth jagged distortions in curves and diagonal lines so they appear smoother.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antialiasing designates (computer graphics) a technique that is used to smooth jagged distortions in curves and diagonal lines so they appear smoother."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer graphics) a technique that is used to smooth jagged distortions in curves and diagonal lines so they appear smoother.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer graphics) a technique that is used to smooth jagged distortions in curves and diagonal lines so they appear smoother.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antialiasing designates (computer graphics) a technique that is used to smooth jagged distortions in curves and diagonal lines so they appear smoother."*

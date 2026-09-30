@@ -5,13 +5,6 @@ status: unread
 ---
 # hosta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Robust east asian clump-forming perennial herbs having racemose flowers: plantain lilies; sometimes placed in family hostaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Robust east asian clump-forming perennial herbs having racemose flowers: plantain lilies; sometimes placed in family hostaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hosta designates robust east asian clump-forming perennial herbs having racemose flowers: plantain lilies; sometimes placed in family hostaceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Robust east asian clump-forming perennial herbs having racemose flowers: plantain lilies; sometimes placed in family hostaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Robust east asian clump-forming perennial herbs having racemose flowers: plantain lilies; sometimes placed in family hostaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hosta designates robust east asian clump-forming perennial herbs having racemose flowers: plantain lilies; sometimes placed in family hostaceae."*

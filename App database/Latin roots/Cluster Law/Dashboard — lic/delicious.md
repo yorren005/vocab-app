@@ -5,15 +5,6 @@ status: unread
 ---
 # delicious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Variety of sweet eating apples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greatly pleasing or entertaining.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now I feed myself With most delicious poison."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What think you, if he were convey’d to bed, Wrapp’d in sweet clothes, rings put upon his fingers, A most delicious banquet by his bed, And brave attendants near him when he wakes, Would not the beggar then forget himself?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His taste delicious, in digestion souring, Devours his will, that lived by foul devouring."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Variety of sweet eating apples.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greatly pleasing or entertaining.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now I feed myself With most delicious poison."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What think you, if he were convey’d to bed, Wrapp’d in sweet clothes, rings put upon his fingers, A most delicious banquet by his bed, And brave attendants near him when he wakes, Would not the beggar then forget himself?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His taste delicious, in digestion souring, Devours his will, that lived by foul devouring."*

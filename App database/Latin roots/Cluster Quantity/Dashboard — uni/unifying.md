@@ -5,14 +5,6 @@ status: unread
 ---
 # unifying
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To bring or combine together or with something else.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The word "trust" originally applied, and still in legal usage applies, to a particular form of organization, that of a board of trustees holding the stock, and thus unifying the control, of two or more formerly separate enterprises."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The unifying forces that had survived the Great Migration withered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To bring or combine together or with something else.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The word "trust" originally applied, and still in legal usage applies, to a particular form of organization, that of a board of trustees holding the stock, and thus unifying the control, of two or more formerly separate enterprises."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The unifying forces that had survived the Great Migration withered."*

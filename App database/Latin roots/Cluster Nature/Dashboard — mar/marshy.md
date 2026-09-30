@@ -5,15 +5,6 @@ status: unread
 ---
 # marshy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of soil) soft and watery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of soil) soft and watery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Oh, it’s not the trouble,” returned Miss Jellyby; “the question is, if there IS any.” The evening was so very cold and the rooms had such a marshy smell that I must confess it was a little miserable, and Ada was half crying."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It was damp, marshy ground, as is all that district, and there were marks of many feet, both upon the path and amid the short grass which bounded it on either side."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"About two hundred yards from the tree a small brook crossed the road and ran into a marshy and thickly-wooded glen, known by the name of Wiley’s Swamp."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of soil) soft and watery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of soil) soft and watery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Oh, it’s not the trouble,” returned Miss Jellyby; “the question is, if there IS any.” The evening was so very cold and the rooms had such a marshy smell that I must confess it was a little miserable, and Ada was half crying."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It was damp, marshy ground, as is all that district, and there were marks of many feet, both upon the path and amid the short grass which bounded it on either side."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"About two hundred yards from the tree a small brook crossed the road and ran into a marshy and thickly-wooded glen, known by the name of Wiley’s Swamp."*

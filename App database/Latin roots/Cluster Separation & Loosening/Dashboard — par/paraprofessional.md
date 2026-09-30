@@ -5,15 +5,6 @@ status: unread
 ---
 # paraprofessional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trained worker who is not a member of a profession but who assists a professional.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trained worker who is not a member of a profession but who assists a professional.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"As the SPS functions and workload became clear, I joined its paraprofessional training to certification and when the Service became operational I took my turn on the 'hotline,' especially those related to my McClellan responsibilities."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"COMPLIANCE WITH THIS PUBLICATION IS MANDATORY UNQUOTE *** Mental health experts have come to accept paraprofessional-level suicide intervention and prevention workers as among those in the forefront of primary resources."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The process, itself, I felt, would encourage collaboration among professionals, paraprofessionals, and administrators and directors of suicide prevention entities in neighboring civilian communities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A trained worker who is not a member of a profession but who assists a professional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trained worker who is not a member of a profession but who assists a professional.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"As the SPS functions and workload became clear, I joined its paraprofessional training to certification and when the Service became operational I took my turn on the 'hotline,' especially those related to my McClellan responsibilities."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"COMPLIANCE WITH THIS PUBLICATION IS MANDATORY UNQUOTE *** Mental health experts have come to accept paraprofessional-level suicide intervention and prevention workers as among those in the forefront of primary resources."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The process, itself, I felt, would encourage collaboration among professionals, paraprofessionals, and administrators and directors of suicide prevention entities in neighboring civilian communities."*

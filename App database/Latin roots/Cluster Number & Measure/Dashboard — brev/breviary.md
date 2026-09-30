@@ -5,15 +5,6 @@ status: unread
 ---
 # breviary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) a book of prayers to be recited daily certain priests and members of religious orders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) a book of prayers to be recited daily certain priests and members of religious orders.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Andrew Lang with Lockhart's _Life of Scott_, "make it their breviary "--will detect some echoes of its sentences in this little book."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"His language on the accumulation of books recalls the amusement of St Francis at the idea of possessing a breviary."*
-> - 📜 **James Joyce (*Ulysses*):** *"Father Conmee drew off his gloves and took his rededged breviary out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) a book of prayers to be recited daily certain priests and members of religious orders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) a book of prayers to be recited daily certain priests and members of religious orders.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Andrew Lang with Lockhart's _Life of Scott_, "make it their breviary "--will detect some echoes of its sentences in this little book."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"His language on the accumulation of books recalls the amusement of St Francis at the idea of possessing a breviary."*
+> - 📜 **James Joyce (*Ulysses*):** *"Father Conmee drew off his gloves and took his rededged breviary out."*

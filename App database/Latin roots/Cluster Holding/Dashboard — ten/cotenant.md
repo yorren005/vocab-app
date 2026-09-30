@@ -5,13 +5,6 @@ status: unread
 ---
 # cotenant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two or more tenants holding title to the same property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of two or more tenants holding title to the same property.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cotenant designates one of two or more tenants holding title to the same property."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two or more tenants holding title to the same property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of two or more tenants holding title to the same property.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cotenant designates one of two or more tenants holding title to the same property."*

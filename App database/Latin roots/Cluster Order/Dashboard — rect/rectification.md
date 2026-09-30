@@ -5,14 +5,6 @@ status: unread
 ---
 # rectification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) the process of refinement or purification of a substance by distillation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The conversion of alternating current to direct current.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate did not make the affair a ground for valuing himself or (very particularly) despising Minchin, such rectification of misjudgments often happening among men of equal qualifications."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"If Browning’s idea of the quickening, the regeneration, the rectification of personality, through a higher personality, be fully comprehended, his idea of the great function of Art, as an intermediate agency of personality, will become plain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) the process of refinement or purification of a substance by distillation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The conversion of alternating current to direct current.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate did not make the affair a ground for valuing himself or (very particularly) despising Minchin, such rectification of misjudgments often happening among men of equal qualifications."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"If Browning’s idea of the quickening, the regeneration, the rectification of personality, through a higher personality, be fully comprehended, his idea of the great function of Art, as an intermediate agency of personality, will become plain."*

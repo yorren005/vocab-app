@@ -5,13 +5,6 @@ status: unread
 ---
 # agonistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the athletic contests held in ancient greece.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Striving to overcome in argument.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"O agonistic throes," tender, passionate yearnings, pinings, triumphant joys, sweet dreams--I took from you all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the athletic contests held in ancient greece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Striving to overcome in argument.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"O agonistic throes," tender, passionate yearnings, pinings, triumphant joys, sweet dreams--I took from you all."*

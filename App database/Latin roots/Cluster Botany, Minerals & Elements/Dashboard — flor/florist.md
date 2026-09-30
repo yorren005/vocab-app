@@ -5,15 +5,6 @@ status: unread
 ---
 # florist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who grows and deals in flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shop where flowers and ornamental plants are sold.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Passing a florist's shop he suddenly felt like giving that which, as it had occurred to him before, had seemed to him would be only a mockery from his hands."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"These are not made by merely looking through a florist's catalogue, and ordering this or that new seedling and a proper selection of bulbs or shrubs; everything in a country garden has its history and personal association."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The astronomer will no longer look up to the stars, - he will look out from them upon the universe; and the 125:30 florist will find his flower before its seed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who grows and deals in flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shop where flowers and ornamental plants are sold.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Passing a florist's shop he suddenly felt like giving that which, as it had occurred to him before, had seemed to him would be only a mockery from his hands."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"These are not made by merely looking through a florist's catalogue, and ordering this or that new seedling and a proper selection of bulbs or shrubs; everything in a country garden has its history and personal association."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The astronomer will no longer look up to the stars, - he will look out from them upon the universe; and the 125:30 florist will find his flower before its seed."*

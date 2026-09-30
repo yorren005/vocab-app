@@ -5,15 +5,6 @@ status: unread
 ---
 # annoy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause annoyance in; disturb, especially by minor irritations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause annoyance in; disturb, especially by minor irritations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweets with sweets war not, joy delights in joy: Why lov’st thou that which thou receiv’st not gladly, Or else receiv’st with pleasure thine annoy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We fear not What can from Italy annoy us; but We grieve at chances here."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us be lead within thy bosom, Richard, And weigh thee down to ruin, shame, and death; Thy nephews’ souls bid thee despair and die. [_To Richmond._] Sleep, Richmond, sleep in peace, and wake in joy; Good angels guard thee from the boar’s annoy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause annoyance in; disturb, especially by minor irritations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause annoyance in; disturb, especially by minor irritations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweets with sweets war not, joy delights in joy: Why lov’st thou that which thou receiv’st not gladly, Or else receiv’st with pleasure thine annoy?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We fear not What can from Italy annoy us; but We grieve at chances here."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us be lead within thy bosom, Richard, And weigh thee down to ruin, shame, and death; Thy nephews’ souls bid thee despair and die. [_To Richmond._] Sleep, Richmond, sleep in peace, and wake in joy; Good angels guard thee from the boar’s annoy."*

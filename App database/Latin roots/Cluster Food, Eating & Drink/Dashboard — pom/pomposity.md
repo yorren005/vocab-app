@@ -5,15 +5,6 @@ status: unread
 ---
 # pomposity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of elegance as a consequence of being pompous and puffed up with vanity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of elegance as a consequence of being pompous and puffed up with vanity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"His pomposity grows daily but he eyes me with suspicion when he sees me in secret conclave with Petunia."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I am much indebted to you, sir, for a Scotch bonnet is fitted neither to my years nor my gravity.” With a comical pomposity of manner he bowed solemnly to both of us and strode off upon his way."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Sapsea deal with him in his own parlour, as I did.” “O!” cries Sapsea, picking up the ball thrown to him with ineffable complacency and pomposity; “yes, yes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of elegance as a consequence of being pompous and puffed up with vanity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of elegance as a consequence of being pompous and puffed up with vanity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"His pomposity grows daily but he eyes me with suspicion when he sees me in secret conclave with Petunia."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I am much indebted to you, sir, for a Scotch bonnet is fitted neither to my years nor my gravity.” With a comical pomposity of manner he bowed solemnly to both of us and strode off upon his way."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Sapsea deal with him in his own parlour, as I did.” “O!” cries Sapsea, picking up the ball thrown to him with ineffable complacency and pomposity; “yes, yes."*

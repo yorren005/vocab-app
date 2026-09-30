@@ -5,13 +5,6 @@ status: unread
 ---
 # faceted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having facets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having facets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And all for me!” On the same day the Chief of Police came to Pierre, inviting him to send a representative to the Faceted Palace to recover things that were to be returned to their owners that day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having facets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having facets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And all for me!” On the same day the Chief of Police came to Pierre, inviting him to send a representative to the Faceted Palace to recover things that were to be returned to their owners that day."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # nonhierarchic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not classified hierarchically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not classified hierarchically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonhierarchic designates not classified hierarchically."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not classified hierarchically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not classified hierarchically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonhierarchic designates not classified hierarchically."*

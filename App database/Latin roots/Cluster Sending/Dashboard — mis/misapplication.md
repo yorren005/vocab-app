@@ -5,14 +5,6 @@ status: unread
 ---
 # misapplication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wrong use or application.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fraudulent appropriation of funds or property entrusted to your care but actually owned by someone else.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Strange that their very elevation was a misapplication, that to raise seemed to falsify."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"If my analysis of the magician's logic is correct, its two great principles turn out to be merely two different misapplications of the association of ideas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wrong use or application.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fraudulent appropriation of funds or property entrusted to your care but actually owned by someone else.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Strange that their very elevation was a misapplication, that to raise seemed to falsify."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"If my analysis of the magician's logic is correct, its two great principles turn out to be merely two different misapplications of the association of ideas."*

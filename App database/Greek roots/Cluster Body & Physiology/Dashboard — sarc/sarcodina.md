@@ -5,13 +5,6 @@ status: unread
 ---
 # sarcodina
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by the formation of pseudopods for locomotion and taking food: actinopoda; rhizopoda.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by the formation of pseudopods for locomotion and taking food: actinopoda; rhizopoda.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcodina designates characterized by the formation of pseudopods for locomotion and taking food: actinopoda; rhizopoda."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by the formation of pseudopods for locomotion and taking food: actinopoda; rhizopoda.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by the formation of pseudopods for locomotion and taking food: actinopoda; rhizopoda.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcodina designates characterized by the formation of pseudopods for locomotion and taking food: actinopoda; rhizopoda."*

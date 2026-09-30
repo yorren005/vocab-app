@@ -5,13 +5,6 @@ status: unread
 ---
 # bellarmino
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian cardinal and theologian (1542-1621).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian cardinal and theologian (1542-1621).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bellarmino designates italian cardinal and theologian (1542-1621)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian cardinal and theologian (1542-1621).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian cardinal and theologian (1542-1621).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bellarmino designates italian cardinal and theologian (1542-1621)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # adjusted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Alter or regulate so as to achieve accuracy or conform to a standard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place in a line or arrange so as to be parallel or straight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"When he is at last adjusted like a lay-figure, Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I suppose the people who admired him for them in his youth attached too much importance to them and too little to any training that would have balanced and adjusted them, and so he became what he is."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He caused his bedstead to be moved out nearer to the window when he heard it was such inclement weather, and his head to be so adjusted that he could see the driving snow and sleet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Alter or regulate so as to achieve accuracy or conform to a standard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place in a line or arrange so as to be parallel or straight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"When he is at last adjusted like a lay-figure, Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I suppose the people who admired him for them in his youth attached too much importance to them and too little to any training that would have balanced and adjusted them, and so he became what he is."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He caused his bedstead to be moved out nearer to the window when he heard it was such inclement weather, and his head to be so adjusted that he could see the driving snow and sleet."*

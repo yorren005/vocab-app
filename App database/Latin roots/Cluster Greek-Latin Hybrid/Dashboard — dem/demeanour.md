@@ -5,15 +5,6 @@ status: unread
 ---
 # demeanour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (behavioral attributes) the way a person behaves toward other people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (behavioral attributes) the way a person behaves toward other people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will jest with me, know my aspect, And fashion your demeanour to my looks, Or I will beat this method in your sconce."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I found the Prince in the next room, Washing with kindly tears his gentle cheeks, With such a deep demeanour in great sorrow That tyranny, which never quaff’d but blood, Would, by beholding him, have wash’d his knife With gentle eye-drops."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Blunt-witted lord, ignoble in demeanour!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (behavioral attributes) the way a person behaves toward other people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (behavioral attributes) the way a person behaves toward other people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will jest with me, know my aspect, And fashion your demeanour to my looks, Or I will beat this method in your sconce."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I found the Prince in the next room, Washing with kindly tears his gentle cheeks, With such a deep demeanour in great sorrow That tyranny, which never quaff’d but blood, Would, by beholding him, have wash’d his knife With gentle eye-drops."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Blunt-witted lord, ignoble in demeanour!"*

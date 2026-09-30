@@ -5,15 +5,6 @@ status: unread
 ---
 # bartlett
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states explorer who accompanied peary's expedition to the north pole and who led many other arctic trips (1875-1946).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states publisher and editor who compiled a book of familiar quotations (1820-1905).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Farr, of Norwalk, Ohio--Miss Bartlett, of the Soldiers' Aid Society, Peoria, Ill.--Mrs."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Abner Bartlett, of Medford, Mass., now aged eighty-five years." A barrel of hospital clothing sent from Conway, Mass., contained a pair of socks knit by a lady ninety-seven years old, who declared herself ready and anxious to do all she could."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"His daughter, near the close of the war, became the wife of one of the most distinguished young officers in the service, General Bartlett."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states explorer who accompanied peary's expedition to the north pole and who led many other arctic trips (1875-1946).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states publisher and editor who compiled a book of familiar quotations (1820-1905).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Farr, of Norwalk, Ohio--Miss Bartlett, of the Soldiers' Aid Society, Peoria, Ill.--Mrs."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Abner Bartlett, of Medford, Mass., now aged eighty-five years." A barrel of hospital clothing sent from Conway, Mass., contained a pair of socks knit by a lady ninety-seven years old, who declared herself ready and anxious to do all she could."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"His daughter, near the close of the war, became the wife of one of the most distinguished young officers in the service, General Bartlett."*

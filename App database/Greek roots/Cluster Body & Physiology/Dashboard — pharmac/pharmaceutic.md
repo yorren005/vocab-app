@@ -5,13 +5,6 @@ status: unread
 ---
 # pharmaceutic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Drug or medicine that is prepared or dispensed in pharmacies and used in medical treatment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to pharmacy or pharmacists.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Ontology needed 129:21 We must abandon pharmaceutics, and take up ontol- ogy, - "the science of real being." We must look deep into realism instead of accepting only the out- 129:24 ward sense of things."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Drug or medicine that is prepared or dispensed in pharmacies and used in medical treatment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to pharmacy or pharmacists.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Ontology needed 129:21 We must abandon pharmaceutics, and take up ontol- ogy, - "the science of real being." We must look deep into realism instead of accepting only the out- 129:24 ward sense of things."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # mesosphere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the earth's atmosphere between the stratosphere and the thermosphere in which temperature decreases with altitude to the atmosphere's absolute minimum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the earth's atmosphere between the stratosphere and the thermosphere in which temperature decreases with altitude to the atmosphere's absolute minimum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesosphere designates the part of the earth's atmosphere between the stratosphere and the thermosphere in which temperature decreases with altitude to the atmosphere's absolute minimum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the earth's atmosphere between the stratosphere and the thermosphere in which temperature decreases with altitude to the atmosphere's absolute minimum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the earth's atmosphere between the stratosphere and the thermosphere in which temperature decreases with altitude to the atmosphere's absolute minimum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesosphere designates the part of the earth's atmosphere between the stratosphere and the thermosphere in which temperature decreases with altitude to the atmosphere's absolute minimum."*

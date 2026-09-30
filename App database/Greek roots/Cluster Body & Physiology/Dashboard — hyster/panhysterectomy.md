@@ -5,13 +5,6 @@ status: unread
 ---
 # panhysterectomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of the uterus and the ovaries and oviducts and cervix and related lymph nodes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of the uterus and the ovaries and oviducts and cervix and related lymph nodes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panhysterectomy designates surgical removal of the uterus and the ovaries and oviducts and cervix and related lymph nodes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of the uterus and the ovaries and oviducts and cervix and related lymph nodes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of the uterus and the ovaries and oviducts and cervix and related lymph nodes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, panhysterectomy designates surgical removal of the uterus and the ovaries and oviducts and cervix and related lymph nodes."*

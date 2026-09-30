@@ -5,13 +5,6 @@ status: unread
 ---
 # uremic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accumulation in the blood of constituents normally eliminated in the urine that produces a severe toxic condition and usually occurs in severe kidney disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The toxic bodily condition associated with uremia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uremic designates accumulation in the blood of constituents normally eliminated in the urine that produces a severe toxic condition and usually occurs in severe kidney disease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accumulation in the blood of constituents normally eliminated in the urine that produces a severe toxic condition and usually occurs in severe kidney disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The toxic bodily condition associated with uremia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uremic designates accumulation in the blood of constituents normally eliminated in the urine that produces a severe toxic condition and usually occurs in severe kidney disease."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # succussion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaking a person to determine whether a large amount of liquid is present in a body cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaking a person to determine whether a large amount of liquid is present in a body cavity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, succussion designates shaking a person to determine whether a large amount of liquid is present in a body cavity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaking a person to determine whether a large amount of liquid is present in a body cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaking a person to determine whether a large amount of liquid is present in a body cavity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, succussion designates shaking a person to determine whether a large amount of liquid is present in a body cavity."*

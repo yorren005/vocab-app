@@ -5,15 +5,6 @@ status: unread
 ---
 # underrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make too low an estimate of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make too low an estimate of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Ah! don't misunderstand me--yours is a rich manysided nature, and you're too intelligent to underrate the value of money."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"You, as a good Tory, must not underrate them."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But to underrate or forget thy faithful services is something I could never be guilty of, even in the giddiest moment of my life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make too low an estimate of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make too low an estimate of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Ah! don't misunderstand me--yours is a rich manysided nature, and you're too intelligent to underrate the value of money."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"You, as a good Tory, must not underrate them."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But to underrate or forget thy faithful services is something I could never be guilty of, even in the giddiest moment of my life."*

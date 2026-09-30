@@ -5,15 +5,6 @@ status: unread
 ---
 # valve
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure in a hollow organ (like the heart) with a flap to insure one-way flow of fluid through it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Device in a brass wind instrument for varying the length of the air column to alter the pitch of a tone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It served as a reservoir for compressed air, which a valve, worked by a spring, allowed to escape into a metal tube."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"To suppose that God forgives or punishes sin according as His mercy is sought or un- 6:21 sought, is to misunderstand Love and to make prayer the safety-valve for wrong-doing."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"It's only that I'm so happy that some of it has just got to overflow somewhere, and this is going to be the overflow house--a sort of safety valve for me, you see."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure in a hollow organ (like the heart) with a flap to insure one-way flow of fluid through it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Device in a brass wind instrument for varying the length of the air column to alter the pitch of a tone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It served as a reservoir for compressed air, which a valve, worked by a spring, allowed to escape into a metal tube."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"To suppose that God forgives or punishes sin according as His mercy is sought or un- 6:21 sought, is to misunderstand Love and to make prayer the safety-valve for wrong-doing."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"It's only that I'm so happy that some of it has just got to overflow somewhere, and this is going to be the overflow house--a sort of safety valve for me, you see."*

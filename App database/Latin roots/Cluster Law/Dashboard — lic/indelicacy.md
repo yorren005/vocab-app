@@ -5,15 +5,6 @@ status: unread
 ---
 # indelicacy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being indelicate and offensive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An impolite act or expression.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She saw the indelicacy of putting himself forward as he had done, and the inconsistency of his professions with his conduct."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"And the shame!—the indelicacy!—the horrible ugliness of this exposure of a sick and guilty heart to the very eye that would gloat over it!"*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Ames had any, nor did either of them suppose he was guilty of any impropriety or even indelicacy in becoming a purchaser of this stock."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being indelicate and offensive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An impolite act or expression.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She saw the indelicacy of putting himself forward as he had done, and the inconsistency of his professions with his conduct."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"And the shame!—the indelicacy!—the horrible ugliness of this exposure of a sick and guilty heart to the very eye that would gloat over it!"*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Ames had any, nor did either of them suppose he was guilty of any impropriety or even indelicacy in becoming a purchaser of this stock."*

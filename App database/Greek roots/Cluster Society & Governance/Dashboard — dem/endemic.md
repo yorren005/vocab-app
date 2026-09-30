@@ -5,13 +5,6 @@ status: unread
 ---
 # endemic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Native to a particular locality or region; often, specifically : restricted or peculiar to a particular locality or region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persisting over time in a particular region or population.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What endemic characteristics were present?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Native to a particular locality or region; often, specifically : restricted or peculiar to a particular locality or region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persisting over time in a particular region or population.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"What endemic characteristics were present?"*

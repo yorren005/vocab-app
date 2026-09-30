@@ -5,13 +5,6 @@ status: unread
 ---
 # digitigrade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal that walks so that only the toes touch the ground as e.g. dogs and cats and horses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of mammals) walking on the toes with the posterior part of the foot raised (as cats, dogs, and horses do).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitigrade designates an animal that walks so that only the toes touch the ground as e.g. dogs and cats and horses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal that walks so that only the toes touch the ground as e.g. dogs and cats and horses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of mammals) walking on the toes with the posterior part of the foot raised (as cats, dogs, and horses do).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitigrade designates an animal that walks so that only the toes touch the ground as e.g. dogs and cats and horses."*

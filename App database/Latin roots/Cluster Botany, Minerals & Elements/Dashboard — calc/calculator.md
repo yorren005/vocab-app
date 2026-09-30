@@ -5,13 +5,6 @@ status: unread
 ---
 # calculator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert at calculation (or at operating calculating machines).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small machine that is used for mathematical calculations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calculator designates an expert at calculation (or at operating calculating machines)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert at calculation (or at operating calculating machines).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small machine that is used for mathematical calculations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calculator designates an expert at calculation (or at operating calculating machines)."*

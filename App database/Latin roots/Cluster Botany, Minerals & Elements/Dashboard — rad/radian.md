@@ -5,13 +5,6 @@ status: unread
 ---
 # radian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The unit of plane angle adopted under the systeme international d'unites; equal to the angle at the center of a circle subtended by an arc equal in length to the radius (approximately 57.295 degrees).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The unit of plane angle adopted under the systeme international d'unites; equal to the angle at the center of a circle subtended by an arc equal in length to the radius (approximately 57.295 degrees).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radian designates the unit of plane angle adopted under the systeme international d'unites; equal to the angle at the center of a circle subtended by an arc equal in length to the radius (approximately 57.295 degrees)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The unit of plane angle adopted under the systeme international d'unites; equal to the angle at the center of a circle subtended by an arc equal in length to the radius (approximately 57.295 degrees).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The unit of plane angle adopted under the systeme international d'unites; equal to the angle at the center of a circle subtended by an arc equal in length to the radius (approximately 57.295 degrees).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radian designates the unit of plane angle adopted under the systeme international d'unites; equal to the angle at the center of a circle subtended by an arc equal in length to the radius (approximately 57.295 degrees)."*

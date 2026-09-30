@@ -5,15 +5,6 @@ status: unread
 ---
 # syllogism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deductive scheme of a formal argument consisting of a major and a minor premise and a conclusion (as in "every virtue is laudable; kindness is a virtue; therefore kindness is laudable").
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A subtle, specious, or crafty argument.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If that this simple syllogism will serve, so; if it will not, what remedy?"*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"It was this, taken with his theory of the syllogism, which worked the great change."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"If both the major and the minor propo- sitions of a syllogism are correct, the conclusion, if properly 129:1 drawn, cannot be false."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deductive scheme of a formal argument consisting of a major and a minor premise and a conclusion (as in "every virtue is laudable; kindness is a virtue; therefore kindness is laudable").
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A subtle, specious, or crafty argument.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If that this simple syllogism will serve, so; if it will not, what remedy?"*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"It was this, taken with his theory of the syllogism, which worked the great change."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"If both the major and the minor propo- sitions of a syllogism are correct, the conclusion, if properly 129:1 drawn, cannot be false."*

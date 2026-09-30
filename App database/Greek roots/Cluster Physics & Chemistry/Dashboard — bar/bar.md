@@ -5,15 +5,6 @@ status: unread
 ---
 # bar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A straight piece (as of wood or metal) that is longer than it is wide and has any of various uses (as for a lever, support, barrier, or fastening).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solid piece or block of material that is longer than it is wide.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I bar confusion. ’Tis I must make conclusion Of these most strange events."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I make my wager rather against your confidence than her reputation; and, to bar your offence herein too, I durst attempt it against any lady in the world."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whereon, At three and two years old, I stole these babes, Thinking to bar thee of succession as Thou refts me of my lands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A straight piece (as of wood or metal) that is longer than it is wide and has any of various uses (as for a lever, support, barrier, or fastening).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solid piece or block of material that is longer than it is wide.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I bar confusion. ’Tis I must make conclusion Of these most strange events."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I make my wager rather against your confidence than her reputation; and, to bar your offence herein too, I durst attempt it against any lady in the world."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whereon, At three and two years old, I stole these babes, Thinking to bar thee of succession as Thou refts me of my lands."*

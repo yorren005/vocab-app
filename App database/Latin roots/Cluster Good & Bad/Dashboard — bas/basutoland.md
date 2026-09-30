@@ -5,13 +5,6 @@ status: unread
 ---
 # basutoland
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A landlocked constitutional monarchy in southern africa; achieved independence from the united kingdom in 1966.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A landlocked constitutional monarchy in southern africa; achieved independence from the united kingdom in 1966.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basutoland designates a landlocked constitutional monarchy in southern africa; achieved independence from the united kingdom in 1966."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A landlocked constitutional monarchy in southern africa; achieved independence from the united kingdom in 1966.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A landlocked constitutional monarchy in southern africa; achieved independence from the united kingdom in 1966.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basutoland designates a landlocked constitutional monarchy in southern africa; achieved independence from the united kingdom in 1966."*

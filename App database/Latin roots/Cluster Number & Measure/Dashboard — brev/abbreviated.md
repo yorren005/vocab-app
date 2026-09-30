@@ -5,15 +5,6 @@ status: unread
 ---
 # abbreviated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce in scope while retaining essential elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shorten.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He clepeth a calf “cauf”, half “hauf”; neighbour _vocatur_ “nebour”, neigh abbreviated “ne”."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"We held fast to this conclusion till the next morning, when we met our invalid striding over the moors, clad in abbreviated tweeds, and the manniest of hard felt hats."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"In some tables “Number” has been abbreviated to “No.”, “United States of America” to “U."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce in scope while retaining essential elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shorten.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He clepeth a calf “cauf”, half “hauf”; neighbour _vocatur_ “nebour”, neigh abbreviated “ne”."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"We held fast to this conclusion till the next morning, when we met our invalid striding over the moors, clad in abbreviated tweeds, and the manniest of hard felt hats."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"In some tables “Number” has been abbreviated to “No.”, “United States of America” to “U."*

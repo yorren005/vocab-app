@@ -5,15 +5,6 @@ status: unread
 ---
 # affected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have an effect upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act physically on; have an effect upon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast affected the fine strains of honour To imitate the graces of the gods, To tear with thunder the wide cheeks o’ th’ air And yet to charge thy sulphur with a bolt That should but rive an oak."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, she confess’d she never lov’d you; only Affected greatness got by you, not you; Married your royalty, was wife to your place; Abhorr’d your person."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have I affected wealth or honour?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have an effect upon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act physically on; have an effect upon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast affected the fine strains of honour To imitate the graces of the gods, To tear with thunder the wide cheeks o’ th’ air And yet to charge thy sulphur with a bolt That should but rive an oak."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, she confess’d she never lov’d you; only Affected greatness got by you, not you; Married your royalty, was wife to your place; Abhorr’d your person."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have I affected wealth or honour?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # prognosticate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a prediction about; tell in advance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indicate by signs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Various magic ceremonies were then celebrated to counteract the influence of witches and demons, and to prognosticate to the young their success or disappointment in the matrimonial lottery."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The colours of the paper prognosticate the character of the coming year; if red prevails, there will be many fires; if white, there will be floods and rain; and so with the other colours."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"His ensigns were known by the inscription, Liberty of Conscience, and the Protestant Succession; and the people saluted him as he passed with repeated cheers, that seemed to prognosticate success."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a prediction about; tell in advance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indicate by signs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Various magic ceremonies were then celebrated to counteract the influence of witches and demons, and to prognosticate to the young their success or disappointment in the matrimonial lottery."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The colours of the paper prognosticate the character of the coming year; if red prevails, there will be many fires; if white, there will be floods and rain; and so with the other colours."*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"His ensigns were known by the inscription, Liberty of Conscience, and the Protestant Succession; and the people saluted him as he passed with repeated cheers, that seemed to prognosticate success."*

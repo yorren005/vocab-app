@@ -5,13 +5,6 @@ status: unread
 ---
 # introspectiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thoughtfulness about your own situation and feelings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thoughtfulness about your own situation and feelings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, introspectiveness designates thoughtfulness about your own situation and feelings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thoughtfulness about your own situation and feelings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thoughtfulness about your own situation and feelings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, introspectiveness designates thoughtfulness about your own situation and feelings."*

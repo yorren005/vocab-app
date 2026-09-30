@@ -5,13 +5,6 @@ status: unread
 ---
 # disconcertion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anxious embarrassment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anxious embarrassment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And if they could be prevailed upon or compelled to do it, the increased expense of a frequent rotation of service, and the loss of labor and disconcertion of the industrious pursuits of individuals, would form conclusive objections to the scheme."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anxious embarrassment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anxious embarrassment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And if they could be prevailed upon or compelled to do it, the increased expense of a frequent rotation of service, and the loss of labor and disconcertion of the industrious pursuits of individuals, would form conclusive objections to the scheme."*

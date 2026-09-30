@@ -5,13 +5,6 @@ status: unread
 ---
 # urbana
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A university town in east central illinois adjoining champaign.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A university town in east central illinois adjoining champaign.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Judge Corwin, of Urbana, Ohio, separated in this manner from his party, wandered for two days on the plains south of Hays City, subsisting on a little corn which had been dropped by some passing wagon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A university town in east central illinois adjoining champaign.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A university town in east central illinois adjoining champaign.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Judge Corwin, of Urbana, Ohio, separated in this manner from his party, wandered for two days on the plains south of Hays City, subsisting on a little corn which had been dropped by some passing wagon."*

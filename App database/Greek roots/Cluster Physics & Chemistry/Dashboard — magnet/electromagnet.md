@@ -5,13 +5,6 @@ status: unread
 ---
 # electromagnet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A core of magnetic material (such as iron) surrounded by a coil of wire through which an electric current is passed to magnetize the core.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A core of magnetic material (such as iron) surrounded by a coil of wire through which an electric current is passed to magnetize the core.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromagnet designates a core of magnetic material (such as iron) surrounded by a coil of wire through which an electric current is passed to magnetize the core."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A core of magnetic material (such as iron) surrounded by a coil of wire through which an electric current is passed to magnetize the core.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A core of magnetic material (such as iron) surrounded by a coil of wire through which an electric current is passed to magnetize the core.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromagnet designates a core of magnetic material (such as iron) surrounded by a coil of wire through which an electric current is passed to magnetize the core."*

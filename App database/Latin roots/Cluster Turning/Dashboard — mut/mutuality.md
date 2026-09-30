@@ -5,15 +5,6 @@ status: unread
 ---
 # mutuality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reciprocality of sentiments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reciprocal relation between interdependent entities (objects or individuals or groups).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The problem is often in bringing the two distant age groups into each other's presence so that the dynamics of their interaction and mutuality can take place."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Where such cross feed and mutuality does not prevail, employer-community initiatives can explore them and apply the results for the common good."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When these mutualities so marshal the way, hard at hand comes the master and main exercise, the incorporate conclusion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reciprocality of sentiments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reciprocal relation between interdependent entities (objects or individuals or groups).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The problem is often in bringing the two distant age groups into each other's presence so that the dynamics of their interaction and mutuality can take place."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Where such cross feed and mutuality does not prevail, employer-community initiatives can explore them and apply the results for the common good."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When these mutualities so marshal the way, hard at hand comes the master and main exercise, the incorporate conclusion."*

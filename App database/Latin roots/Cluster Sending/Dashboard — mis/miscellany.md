@@ -5,15 +5,6 @@ status: unread
 ---
 # miscellany
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection containing a variety of sorts of things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anthology of short literary pieces and poems and ballads etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Groups of vertical braces } represent a single brace encompassing three-- in one case, four-- rhymed lines.] * * * * * * * * * * * * * * The Augustan Reprint Society THE MERRY-THOUGHT: or, the Glass-Window and Bog-House MISCELLANY."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Roberts beginning in 1731, _The Merry-Thought: or, the Glass-Window and Bog-House Miscellany_, commonly known simply as _The Bog-House Miscellany_."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"The MERRY-THOUGHT: or, the Glass-Window and Bog-House MISCELLANY."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection containing a variety of sorts of things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anthology of short literary pieces and poems and ballads etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Groups of vertical braces } represent a single brace encompassing three-- in one case, four-- rhymed lines.] * * * * * * * * * * * * * * The Augustan Reprint Society THE MERRY-THOUGHT: or, the Glass-Window and Bog-House MISCELLANY."*
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Roberts beginning in 1731, _The Merry-Thought: or, the Glass-Window and Bog-House Miscellany_, commonly known simply as _The Bog-House Miscellany_."*
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"The MERRY-THOUGHT: or, the Glass-Window and Bog-House MISCELLANY."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # rad
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of absorbed ionizing radiation equal to 100 ergs per gram of irradiated material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The unit of plane angle adopted under the systeme international d'unites; equal to the angle at the center of a circle subtended by an arc equal in length to the radius (approximately 57.295 degrees).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I tell ye what, men, old Rad’s investment must go for it! he had best cut away his part of the hull and tow it home."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If old Rad were here now, I’d tell him to jump overboard and scatter ’em."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But he’s a simple old soul,—Rad, and a beauty too."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of absorbed ionizing radiation equal to 100 ergs per gram of irradiated material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The unit of plane angle adopted under the systeme international d'unites; equal to the angle at the center of a circle subtended by an arc equal in length to the radius (approximately 57.295 degrees).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I tell ye what, men, old Rad’s investment must go for it! he had best cut away his part of the hull and tow it home."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If old Rad were here now, I’d tell him to jump overboard and scatter ’em."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But he’s a simple old soul,—Rad, and a beauty too."*

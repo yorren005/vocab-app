@@ -5,13 +5,6 @@ status: unread
 ---
 # mismatched
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Match badly; match two objects or people that do not go together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either not matched or unsuitably matched.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Mismatched quotes are not fixed if it’s not sufficiently clear where the missing quote should be placed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Match badly; match two objects or people that do not go together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either not matched or unsuitably matched.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Mismatched quotes are not fixed if it’s not sufficiently clear where the missing quote should be placed."*

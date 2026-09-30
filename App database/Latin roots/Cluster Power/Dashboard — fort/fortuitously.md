@@ -5,14 +5,6 @@ status: unread
 ---
 # fortuitously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By good fortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By good fortune.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle’s great-aunt, who staggered at a boy fortuitously, and pulled his ears."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Everything came about fortuitously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By good fortune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By good fortune.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle’s great-aunt, who staggered at a boy fortuitously, and pulled his ears."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Everything came about fortuitously."*

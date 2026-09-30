@@ -5,13 +5,6 @@ status: unread
 ---
 # elocute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declaim in an elocutionary manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declaim in an elocutionary manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elocute designates declaim in an elocutionary manner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Declaim in an elocutionary manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declaim in an elocutionary manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elocute designates declaim in an elocutionary manner."*

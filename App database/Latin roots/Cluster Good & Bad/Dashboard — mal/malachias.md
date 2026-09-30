@@ -5,14 +5,6 @@ status: unread
 ---
 # malachias
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hebrew minor prophet of the 5th century bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old testament book containing the prophecies of malachi.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"But Malachias’ tale began to freeze them with horror."*
-> - 📜 **James Joyce (*Ulysses*):** *"Malachias, overcome by emotion, ceased."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hebrew minor prophet of the 5th century bc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old testament book containing the prophecies of malachi.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"But Malachias’ tale began to freeze them with horror."*
+> - 📜 **James Joyce (*Ulysses*):** *"Malachias, overcome by emotion, ceased."*

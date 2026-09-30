@@ -5,15 +5,6 @@ status: unread
 ---
 # anode
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The electrode of an electrochemical cell at which oxidation occurs: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The positive terminal of an electrolytic cell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"In addition, the purity of the materials, the cleanliness of the batteries, the perfection of the electrical connections as well as the distance between the anode and the cathode are all matters of importance."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The individual electrodes, again, have special names, that by which the current enters being the anode and that by which it leaves the cathode."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"A lead anode is used while the process is carried on in a box the bottom of which is covered with mercury, which forms the cathode."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The electrode of an electrochemical cell at which oxidation occurs: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The positive terminal of an electrolytic cell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"In addition, the purity of the materials, the cleanliness of the batteries, the perfection of the electrical connections as well as the distance between the anode and the cathode are all matters of importance."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The individual electrodes, again, have special names, that by which the current enters being the anode and that by which it leaves the cathode."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"A lead anode is used while the process is carried on in a box the bottom of which is covered with mercury, which forms the cathode."*

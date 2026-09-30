@@ -5,15 +5,6 @@ status: unread
 ---
 # volitional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With deliberate intention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With deliberate intention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"So, according as the family income is from rents or from wages, the motives of the parents differ. [Sidenote: Motives in volitional control] Postponement of marriage must be classed as a mode of volitional control of population."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The failure to marry, from whatever cause, is, in the social view of the question, volitional control."*
-> - 📜 **James Joyce (*Ulysses*):** *"His errors are volitional and are the portals of discovery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With deliberate intention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With deliberate intention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"So, according as the family income is from rents or from wages, the motives of the parents differ. [Sidenote: Motives in volitional control] Postponement of marriage must be classed as a mode of volitional control of population."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The failure to marry, from whatever cause, is, in the social view of the question, volitional control."*
+> - 📜 **James Joyce (*Ulysses*):** *"His errors are volitional and are the portals of discovery."*

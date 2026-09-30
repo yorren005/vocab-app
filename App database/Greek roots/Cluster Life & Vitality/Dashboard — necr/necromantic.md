@@ -5,15 +5,6 @@ status: unread
 ---
 # necromantic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or associated with necromancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to or produced by or used in the art of conjuring up the dead.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle in a high-crowned hat, with a necromantic work in one volume under his arm."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And the lighted lamp and the burning peat fire seemed to invoke like some necromantic ritual."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Your poor cousin Clifford is another dead and long-buried person, on whom the governor and council have wrought a necromantic miracle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or associated with necromancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to or produced by or used in the art of conjuring up the dead.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle in a high-crowned hat, with a necromantic work in one volume under his arm."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And the lighted lamp and the burning peat fire seemed to invoke like some necromantic ritual."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Your poor cousin Clifford is another dead and long-buried person, on whom the governor and council have wrought a necromantic miracle."*

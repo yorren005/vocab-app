@@ -5,15 +5,6 @@ status: unread
 ---
 # detestable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offensive to the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unequivocally detestable; ; ; ; - edmund burke.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most detestable death, by thee beguil’d, By cruel, cruel thee quite overthrown."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou detestable maw, thou womb of death, Gorg’d with the dearest morsel of the earth, Thus I enforce thy rotten jaws to open, [_Breaking open the door of the monument._] And in despite, I’ll cram thee with more food."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nothing I’ll bear from thee But nakedness, thou detestable town!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Offensive to the mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unequivocally detestable; ; ; ; - edmund burke.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most detestable death, by thee beguil’d, By cruel, cruel thee quite overthrown."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou detestable maw, thou womb of death, Gorg’d with the dearest morsel of the earth, Thus I enforce thy rotten jaws to open, [_Breaking open the door of the monument._] And in despite, I’ll cram thee with more food."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nothing I’ll bear from thee But nakedness, thou detestable town!"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # barytone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A male singing voice of medium compass between bass and tenor; also : a person having this voice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a family of instruments having a range between tenor and bass; especially : the baritone saxhorn or baritone saxophone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Oh, my eye!” Songs followed--college songs, popular airs, opera bits--all delivered in' a resounding barytone and accompanied by thumping chords improvised by the performer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A male singing voice of medium compass between bass and tenor; also : a person having this voice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a family of instruments having a range between tenor and bass; especially : the baritone saxhorn or baritone saxophone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Oh, my eye!” Songs followed--college songs, popular airs, opera bits--all delivered in' a resounding barytone and accompanied by thumping chords improvised by the performer."*

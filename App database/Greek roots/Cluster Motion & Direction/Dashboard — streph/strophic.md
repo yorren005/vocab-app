@@ -5,13 +5,6 @@ status: unread
 ---
 # strophic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, containing, or consisting of strophes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using the same music for successive stanzas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, strophic designates relating to, containing, or consisting of strophes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, containing, or consisting of strophes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using the same music for successive stanzas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, strophic designates relating to, containing, or consisting of strophes."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # paroxytone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Word having stress or acute accent on the next to last syllable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Word having stress or acute accent on the next to last syllable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paroxytone designates word having stress or acute accent on the next to last syllable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Word having stress or acute accent on the next to last syllable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Word having stress or acute accent on the next to last syllable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paroxytone designates word having stress or acute accent on the next to last syllable."*

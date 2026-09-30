@@ -5,13 +5,6 @@ status: unread
 ---
 # recurve
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curve or bend (something) back or down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curve or bend (something) back or down.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"All around the orifice of the peridium the teeth become recurved, and the orange spores are exposed, crowded together within."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curve or bend (something) back or down.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curve or bend (something) back or down.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"All around the orifice of the peridium the teeth become recurved, and the orange spores are exposed, crowded together within."*

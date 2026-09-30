@@ -5,15 +5,6 @@ status: unread
 ---
 # opinionated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obstinate in your opinions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obstinate in your opinions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"They are jealous of her power, impatient of her authority, find fault with her nurses, and accuse her of being arbitrary, opinionated, severe and capricious."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Opinionated she may be, because convinced of the general soundness of her ideas, and infallibility of her judgment."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I have known whole parishes "set by the ears" by just one warped, self-opinionated man, who put his own pet theories before anything else, and went about sowing dissension--splitting up a hitherto united people into two opposing camps."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obstinate in your opinions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obstinate in your opinions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"They are jealous of her power, impatient of her authority, find fault with her nurses, and accuse her of being arbitrary, opinionated, severe and capricious."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Opinionated she may be, because convinced of the general soundness of her ideas, and infallibility of her judgment."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I have known whole parishes "set by the ears" by just one warped, self-opinionated man, who put his own pet theories before anything else, and went about sowing dissension--splitting up a hitherto united people into two opposing camps."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # calceus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shoe covering the ankle; worn by ancient romans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shoe covering the ankle; worn by ancient romans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calceus designates a shoe covering the ankle; worn by ancient romans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shoe covering the ankle; worn by ancient romans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shoe covering the ankle; worn by ancient romans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calceus designates a shoe covering the ankle; worn by ancient romans."*

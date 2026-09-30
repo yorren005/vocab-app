@@ -5,14 +5,6 @@ status: unread
 ---
 # borer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drill for penetrating rock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various insects or larvae or mollusks that bore into wood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"This borer cleans out the nest ready for use."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"These lantern-figures correspond to the sawyers, borers, blacksmiths, washers and others which twenty or more years ago were on top of the stove of every corner grocery or country post-office."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drill for penetrating rock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various insects or larvae or mollusks that bore into wood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"This borer cleans out the nest ready for use."*
+> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"These lantern-figures correspond to the sawyers, borers, blacksmiths, washers and others which twenty or more years ago were on top of the stove of every corner grocery or country post-office."*

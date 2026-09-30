@@ -5,13 +5,6 @@ status: unread
 ---
 # mendel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Augustinian monk and botanist whose experiments in breeding garden peas led to his eventual recognition as founder of the science of genetics (1822-1884).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Augustinian monk and botanist whose experiments in breeding garden peas led to his eventual recognition as founder of the science of genetics (1822-1884).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mendel designates augustinian monk and botanist whose experiments in breeding garden peas led to his eventual recognition as founder of the science of genetics (1822-1884)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Augustinian monk and botanist whose experiments in breeding garden peas led to his eventual recognition as founder of the science of genetics (1822-1884).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Augustinian monk and botanist whose experiments in breeding garden peas led to his eventual recognition as founder of the science of genetics (1822-1884).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mendel designates augustinian monk and botanist whose experiments in breeding garden peas led to his eventual recognition as founder of the science of genetics (1822-1884)."*

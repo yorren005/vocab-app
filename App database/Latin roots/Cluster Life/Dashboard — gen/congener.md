@@ -5,15 +5,6 @@ status: unread
 ---
 # congener
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A minor chemical constituent that gives a wine or liquor its distinctive character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal or plant that bears a relationship to another (as related by common descent or by membership in the same genus).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The plants infested with this parasite are first attacked in the leaves, but afterwards the roots become spotted and diseased in a similar manner to the potatoes attacked by its congener."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Anatomically, it is distinguished from the white whale and the North Cape whale by the seven cervical vertebrae, and it has two more ribs than its congeners."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The stylospores of the cluster-cups possess the irregular, globular form and structure of their congeners."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A minor chemical constituent that gives a wine or liquor its distinctive character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal or plant that bears a relationship to another (as related by common descent or by membership in the same genus).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The plants infested with this parasite are first attacked in the leaves, but afterwards the roots become spotted and diseased in a similar manner to the potatoes attacked by its congener."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Anatomically, it is distinguished from the white whale and the North Cape whale by the seven cervical vertebrae, and it has two more ribs than its congeners."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The stylospores of the cluster-cups possess the irregular, globular form and structure of their congeners."*

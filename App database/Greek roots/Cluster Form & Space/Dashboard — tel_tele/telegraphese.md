@@ -5,13 +5,6 @@ status: unread
 ---
 # telegraphese
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Language characterized by terseness and ellipsis as in telegrams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Language characterized by terseness and ellipsis as in telegrams.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telegraphese designates language characterized by terseness and ellipsis as in telegrams."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Language characterized by terseness and ellipsis as in telegrams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Language characterized by terseness and ellipsis as in telegrams.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telegraphese designates language characterized by terseness and ellipsis as in telegrams."*

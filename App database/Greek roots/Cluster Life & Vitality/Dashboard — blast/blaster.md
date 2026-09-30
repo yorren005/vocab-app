@@ -5,15 +5,6 @@ status: unread
 ---
 # blaster
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A workman employed to blast with explosives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A workman employed to blast with explosives.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Drawing my heavy blaster I rake the beam across the doorway."*
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"The key engaged, and as the door slid open, I stepped inside, my blaster held at the ready."*
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"I carefully checked the loading of my blaster, just in case I'd need it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A workman employed to blast with explosives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A workman employed to blast with explosives.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Drawing my heavy blaster I rake the beam across the doorway."*
+> - 📜 **Randall Garrett (*Deadly decoy*):** *"The key engaged, and as the door slid open, I stepped inside, my blaster held at the ready."*
+> - 📜 **Randall Garrett (*Deadly decoy*):** *"I carefully checked the loading of my blaster, just in case I'd need it."*

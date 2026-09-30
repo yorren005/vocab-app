@@ -5,15 +5,6 @@ status: unread
 ---
 # chrysanthemum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various composite plants (genus Chrysanthemum) including weeds, ornamentals grown for their brightly colored often double flower heads, and others important as sources of medicinals and insecticides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flower head of an ornamental chrysanthemum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Get some boughs of laurustinus, and variegated box, and yew, and boy’s-love; ay, and some bunches of chrysanthemum."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Get some boughs of laurustinus, and variegated box, and yew, and boy’s-love; ay, and some bunches of chrysanthemum."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"VASE WITH CHRYSANTHEMUM HANDLES (_Colour_) 192 Buff stoneware with chrysanthemum design outlined in low relief and coloured with turquoise, green and pale yellow glazes in dark purple ground."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various composite plants (genus Chrysanthemum) including weeds, ornamentals grown for their brightly colored often double flower heads, and others important as sources of medicinals and insecticides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flower head of an ornamental chrysanthemum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Get some boughs of laurustinus, and variegated box, and yew, and boy’s-love; ay, and some bunches of chrysanthemum."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Get some boughs of laurustinus, and variegated box, and yew, and boy’s-love; ay, and some bunches of chrysanthemum."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"VASE WITH CHRYSANTHEMUM HANDLES (_Colour_) 192 Buff stoneware with chrysanthemum design outlined in low relief and coloured with turquoise, green and pale yellow glazes in dark purple ground."*

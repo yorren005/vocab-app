@@ -5,13 +5,6 @@ status: unread
 ---
 # diagrammatical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shown or represented by diagrams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shown or represented by diagrams.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diagrammatical designates shown or represented by diagrams."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shown or represented by diagrams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shown or represented by diagrams.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diagrammatical designates shown or represented by diagrams."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # bankruptcy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of complete lack of some abstract property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inability to discharge all your debts as they come due.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Now at the time of a crisis a general contraction of credit occurs, and all borrowers with maturing obligations are faced with bankruptcy."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many states were forced to the point of bankruptcy by their reckless generosity, and some states repudiated the debts thus incurred."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Jesus brings out the utter bankruptcy to which sin reduces men."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of complete lack of some abstract property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inability to discharge all your debts as they come due.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Now at the time of a crisis a general contraction of credit occurs, and all borrowers with maturing obligations are faced with bankruptcy."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many states were forced to the point of bankruptcy by their reckless generosity, and some states repudiated the debts thus incurred."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Jesus brings out the utter bankruptcy to which sin reduces men."*

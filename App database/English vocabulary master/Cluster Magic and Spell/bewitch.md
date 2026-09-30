@@ -5,20 +5,6 @@ status: unread
 ---
 # bewitch
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Cast a spell over
-> 2. **Nuance / Usage**: (transitive) to cast a spell upon
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to bewitch the target*) and intransitive clauses (*bewitching against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Heavens grant that Warwick’s words bewitch him not!"*
-> - 📜 **Andrew Lang (*The Violet Fairy Book*):** *"But above all beware never to look the Fairy of the Dawn in the face, for she has eyes that will bewitch you, and glances that will befool you."*
-> - 📜 **Attila Zohar (*Kings Cross Black Magic*):** *"She so bewitched the whole princely race that six different princes, although each was married to a young wife, remained childless."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To cast a magical spell over someone or place them under supernatural enchantment.
+> 2. **Nuance / Usage**: Figuratively, to captivate, delight, or fascinate someone so completely that their judgment or attention is wholly charmed.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to bewitch the target*) and intransitive clauses (*bewitching against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Henry VI, Part 3*):** *"Heavens grant that Warwick’s words **bewitch** him not!"*
+> - 📜 **Andrew Lang (*The Violet Fairy Book*):** *"Beware never to look the Fairy of the Dawn in the face, for she has eyes that will **bewitch** you and glances that will befool you."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The sweet, airy voice of Phoebe had **bewitched** the old regular customer into buying twice as much gingerbread as he needed."*

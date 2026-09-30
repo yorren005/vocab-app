@@ -5,13 +5,6 @@ status: unread
 ---
 # heterodactyl
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of bird feet) having the first and second toes directed backward the third and fourth forward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of bird feet) having the first and second toes directed backward the third and fourth forward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterodactyl designates (of bird feet) having the first and second toes directed backward the third and fourth forward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of bird feet) having the first and second toes directed backward the third and fourth forward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of bird feet) having the first and second toes directed backward the third and fourth forward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterodactyl designates (of bird feet) having the first and second toes directed backward the third and fourth forward."*

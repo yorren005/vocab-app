@@ -5,15 +5,6 @@ status: unread
 ---
 # application
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of bringing something to bear; using it for a particular purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A verbal or written request for assistance or employment or admission to a school.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had no doubt that the sons of the three most important families of Nolla ought naturally to live and study together, and she knew that every effort would be made to find Salo a suitable room, even if the application came rather late."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Do you know, Miss Summerson, I almost wonder that YOU never turned your thoughts to Africa.” This application of the subject was really so unexpected to me that I was quite at a loss how to receive it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Green’s appears, on inquiry, to be at the present time aboard a vessel bound for China, three months out, but considered accessible by telegraph on application to the Lords of the Admiralty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of bringing something to bear; using it for a particular purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A verbal or written request for assistance or employment or admission to a school.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had no doubt that the sons of the three most important families of Nolla ought naturally to live and study together, and she knew that every effort would be made to find Salo a suitable room, even if the application came rather late."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Do you know, Miss Summerson, I almost wonder that YOU never turned your thoughts to Africa.” This application of the subject was really so unexpected to me that I was quite at a loss how to receive it."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Green’s appears, on inquiry, to be at the present time aboard a vessel bound for China, three months out, but considered accessible by telegraph on application to the Lords of the Admiralty."*

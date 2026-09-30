@@ -5,15 +5,6 @@ status: unread
 ---
 # document
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Writing that provides information (especially information of an official nature).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anything serving as a representation of a person's thinking by means of symbolic marks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A document in madness, thoughts and remembrance fitted."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You know the kind of document, sir—wanting employ?” Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If you had perused this document, you would have seen that it reduces your interest considerably, though still leaving it a very handsome one, still leaving it a very handsome one,” said Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Writing that provides information (especially information of an official nature).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anything serving as a representation of a person's thinking by means of symbolic marks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A document in madness, thoughts and remembrance fitted."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You know the kind of document, sir—wanting employ?” Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"If you had perused this document, you would have seen that it reduces your interest considerably, though still leaving it a very handsome one, still leaving it a very handsome one,” said Mr."*

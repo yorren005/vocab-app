@@ -5,15 +5,6 @@ status: unread
 ---
 # benevolence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disposition to do good.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclination to do kind or charitable acts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Sir John Falstaff have committed disparagements unto you, I am of the Church, and will be glad to do my benevolence to make atonements and compremises between you."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Among the ladies who were most distinguished for this rapacious benevolence (if I may use the expression) was a Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I presume that you founded that belief upon your general knowledge of my being an orphan girl, indebted for everything to the benevolence of Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disposition to do good.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclination to do kind or charitable acts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Sir John Falstaff have committed disparagements unto you, I am of the Church, and will be glad to do my benevolence to make atonements and compremises between you."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Among the ladies who were most distinguished for this rapacious benevolence (if I may use the expression) was a Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I presume that you founded that belief upon your general knowledge of my being an orphan girl, indebted for everything to the benevolence of Mr."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # summersault
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acrobatic feat in which the feet roll over the head (either forward or backward) and return.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acrobatic feat in which the feet roll over the head (either forward or backward) and return.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"But more amusing than this to the children was to see him turn summersaults both forward and backward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acrobatic feat in which the feet roll over the head (either forward or backward) and return.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acrobatic feat in which the feet roll over the head (either forward or backward) and return.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"But more amusing than this to the children was to see him turn summersaults both forward and backward."*

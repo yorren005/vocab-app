@@ -5,15 +5,6 @@ status: unread
 ---
 # supplant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take the place or move into the position of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take the place or move into the position of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be fond, can it a woman’s fear; Which fear if better reasons can supplant, I will subscribe and say I wronged the Duke."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now for our Irish wars: We must supplant those rough rug-headed kerns, Which live like venom where no venom else But only they have privilege to live."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I remember You did supplant your brother Prospero."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take the place or move into the position of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take the place or move into the position of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be fond, can it a woman’s fear; Which fear if better reasons can supplant, I will subscribe and say I wronged the Duke."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now for our Irish wars: We must supplant those rough rug-headed kerns, Which live like venom where no venom else But only they have privilege to live."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I remember You did supplant your brother Prospero."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # carnify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become muscular or fleshy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become muscular or fleshy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnify designates become muscular or fleshy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become muscular or fleshy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become muscular or fleshy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnify designates become muscular or fleshy."*

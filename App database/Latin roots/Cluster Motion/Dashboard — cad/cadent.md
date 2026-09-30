@@ -5,13 +5,6 @@ status: unread
 ---
 # cadent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by a rhythmical cadence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by a rhythmical cadence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let it stamp wrinkles in her brow of youth; With cadent tears fret channels in her cheeks; Turn all her mother’s pains and benefits To laughter and contempt; that she may feel How sharper than a serpent’s tooth it is To have a thankless child!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by a rhythmical cadence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by a rhythmical cadence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let it stamp wrinkles in her brow of youth; With cadent tears fret channels in her cheeks; Turn all her mother’s pains and benefits To laughter and contempt; that she may feel How sharper than a serpent’s tooth it is To have a thankless child!"*

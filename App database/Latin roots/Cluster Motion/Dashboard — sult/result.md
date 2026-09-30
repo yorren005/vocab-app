@@ -5,15 +5,6 @@ status: unread
 ---
 # result
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phenomenon that follows and is caused by some previous phenomenon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement that solves a problem or explains how to solve the problem.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Such kinds of jokes are very much akin to roughness, and from small cruelties larger ones soon result."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She already saw the consequences and pictured the terrible scenes that would result if the three boys were obliged to live closely together."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The three had never yet come together without bringing as a result some mean deed on one side and an explosion of rage on the other."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phenomenon that follows and is caused by some previous phenomenon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement that solves a problem or explains how to solve the problem.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Such kinds of jokes are very much akin to roughness, and from small cruelties larger ones soon result."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She already saw the consequences and pictured the terrible scenes that would result if the three boys were obliged to live closely together."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The three had never yet come together without bringing as a result some mean deed on one side and an explosion of rage on the other."*

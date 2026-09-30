@@ -5,15 +5,6 @@ status: unread
 ---
 # prow
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Valiant, gallant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bow of a ship : stem.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"The prow, indeed, touched the moonlight where it was cut clean across by the darkness; and this was how I discovered that it was the Marie, a pretty pleasure-boat which had been made for my wife."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Yes, the world’s a ship on its passage out, and not a voyage complete; and the pulpit is its prow."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His bone leg steadied in that hole; one arm elevated, and holding by a shroud; Captain Ahab stood erect, looking straight out beyond the ship’s ever-pitching prow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Valiant, gallant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bow of a ship : stem.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"The prow, indeed, touched the moonlight where it was cut clean across by the darkness; and this was how I discovered that it was the Marie, a pretty pleasure-boat which had been made for my wife."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Yes, the world’s a ship on its passage out, and not a voyage complete; and the pulpit is its prow."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His bone leg steadied in that hole; one arm elevated, and holding by a shroud; Captain Ahab stood erect, looking straight out beyond the ship’s ever-pitching prow."*

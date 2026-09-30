@@ -5,13 +5,6 @@ status: unread
 ---
 # sphincter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An annular muscle surrounding and able to contract or close a bodily opening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An annular muscle surrounding and able to contract or close a bodily opening.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphincter designates an annular muscle surrounding and able to contract or close a bodily opening."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An annular muscle surrounding and able to contract or close a bodily opening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An annular muscle surrounding and able to contract or close a bodily opening.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphincter designates an annular muscle surrounding and able to contract or close a bodily opening."*

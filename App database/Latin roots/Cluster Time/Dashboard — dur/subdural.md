@@ -5,13 +5,6 @@ status: unread
 ---
 # subdural
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Below the dura mater but above the arachnoid membrane of the meninges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Below the dura mater but above the arachnoid membrane of the meninges.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subdural designates below the dura mater but above the arachnoid membrane of the meninges."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Below the dura mater but above the arachnoid membrane of the meninges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Below the dura mater but above the arachnoid membrane of the meninges.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subdural designates below the dura mater but above the arachnoid membrane of the meninges."*

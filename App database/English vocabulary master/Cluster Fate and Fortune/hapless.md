@@ -5,20 +5,6 @@ status: unread
 ---
 # hapless
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Very unlucky; ill-fated
-> 2. **Nuance / Usage**: Having no luck : unfortunate
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a hapless appearance*) and predicatively after a linking verb (*remained hapless*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"His days may finish ere that hapless time."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"See, ruthless queen, a hapless father’s tears."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Some happy mean to end a hapless life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Very unlucky; ill-fated
+> 2. **Nuance / Usage**: Having no luck : unfortunate
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a hapless appearance*) and predicatively after a linking verb (*remained hapless*).
+> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"His days may finish ere that hapless time."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"See, ruthless queen, a hapless father’s tears."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Some happy mean to end a hapless life."*

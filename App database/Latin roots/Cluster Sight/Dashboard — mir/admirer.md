@@ -5,15 +5,6 @@ status: unread
 ---
 # admirer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who backs a politician or a team etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who admires; someone who esteems or respects or approves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I thank your Grace, Healthful, and ever since a fresh admirer Of what I saw there."*
-> - 📜 **Jane Austen (*Persuasion*):** *"And this is the end, you see, of Captain Benwick’s being supposed to be an admirer of yours."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His apparent partiality had subsided, his attentions were over, he was the admirer of some one else."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who backs a politician or a team etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who admires; someone who esteems or respects or approves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I thank your Grace, Healthful, and ever since a fresh admirer Of what I saw there."*
+> - 📜 **Jane Austen (*Persuasion*):** *"And this is the end, you see, of Captain Benwick’s being supposed to be an admirer of yours."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His apparent partiality had subsided, his attentions were over, he was the admirer of some one else."*

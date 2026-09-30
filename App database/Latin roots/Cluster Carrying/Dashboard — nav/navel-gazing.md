@@ -5,13 +5,6 @@ status: unread
 ---
 # navel-gazing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Literally, the contemplation of one's navel, which is an idiom usually meaning complacent self-absorption.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Literally, the contemplation of one's navel, which is an idiom usually meaning complacent self-absorption.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, navel-gazing designates literally, the contemplation of one's navel, which is an idiom usually meaning complacent self-absorption."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Literally, the contemplation of one's navel, which is an idiom usually meaning complacent self-absorption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Literally, the contemplation of one's navel, which is an idiom usually meaning complacent self-absorption.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, navel-gazing designates literally, the contemplation of one's navel, which is an idiom usually meaning complacent self-absorption."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # carnation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eurasian plant with pink to purple-red spice-scented usually double flowers; widely cultivated in many varieties and many colors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pink or reddish-pink color.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HOSTESS. ’A could never abide carnation; ’twas a colour he never liked."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, sir, how much carnation ribbon may a man buy for a remuneration?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What shall I put?” “Something of this sort, I should think,” returned Liddy promptly:— “The rose is red, The violet blue, Carnation’s sweet, And so are you.” “Yes, that shall be it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eurasian plant with pink to purple-red spice-scented usually double flowers; widely cultivated in many varieties and many colors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pink or reddish-pink color.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HOSTESS. ’A could never abide carnation; ’twas a colour he never liked."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, sir, how much carnation ribbon may a man buy for a remuneration?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What shall I put?” “Something of this sort, I should think,” returned Liddy promptly:— “The rose is red, The violet blue, Carnation’s sweet, And so are you.” “Yes, that shall be it."*

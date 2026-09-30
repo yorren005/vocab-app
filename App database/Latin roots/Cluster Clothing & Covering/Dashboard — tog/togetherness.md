@@ -5,13 +5,6 @@ status: unread
 ---
 # togetherness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affectionate closeness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affectionate closeness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, togetherness designates affectionate closeness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affectionate closeness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affectionate closeness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, togetherness designates affectionate closeness."*

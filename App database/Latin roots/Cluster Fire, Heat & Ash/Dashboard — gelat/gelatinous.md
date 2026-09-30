@@ -5,15 +5,6 @@ status: unread
 ---
 # gelatinous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thick like gelatin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thick like gelatin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Others, the greater number yellow and gelatinous, waited only to be picked."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Cheez!" said Marta, struggling through the gelatinous stuff."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This gelatinous substance is dissolved away from the granular bodies which are immersed in it, by adding a little water upon the slide on which the mass is placed for examination."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thick like gelatin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thick like gelatin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Others, the greater number yellow and gelatinous, waited only to be picked."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Cheez!" said Marta, struggling through the gelatinous stuff."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This gelatinous substance is dissolved away from the granular bodies which are immersed in it, by adding a little water upon the slide on which the mass is placed for examination."*

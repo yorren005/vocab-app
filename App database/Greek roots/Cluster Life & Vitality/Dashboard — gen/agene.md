@@ -5,13 +5,6 @@ status: unread
 ---
 # agene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow pungent volatile oil (trade name agene) formerly used for bleaching and aging flour.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellow pungent volatile oil (trade name agene) formerly used for bleaching and aging flour.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agene designates a yellow pungent volatile oil (trade name agene) formerly used for bleaching and aging flour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow pungent volatile oil (trade name agene) formerly used for bleaching and aging flour.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellow pungent volatile oil (trade name agene) formerly used for bleaching and aging flour.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agene designates a yellow pungent volatile oil (trade name agene) formerly used for bleaching and aging flour."*

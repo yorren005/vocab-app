@@ -5,14 +5,6 @@ status: unread
 ---
 # tepidly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unenthusiastically lukewarm manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unenthusiastically lukewarm manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And his gifts were treated tepidly, though with cupidinous eyes."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And isn't it enough of the fresh air you have, and you on the salt water?" And her embraces were half chastity, half sin, tepidly passionate, unintimate ... so that shame was on him, and no pride or joyousness...."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unenthusiastically lukewarm manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unenthusiastically lukewarm manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And his gifts were treated tepidly, though with cupidinous eyes."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And isn't it enough of the fresh air you have, and you on the salt water?" And her embraces were half chastity, half sin, tepidly passionate, unintimate ... so that shame was on him, and no pride or joyousness...."*

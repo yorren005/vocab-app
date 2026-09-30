@@ -5,13 +5,6 @@ status: unread
 ---
 # overcapitalize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Estimate the capital value of (a company) at an unreasonably or unlawfully high level.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overestimate the market value of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"If, in turn, any of the minor factors, as materials or uses of goods, are overvalued (overcapitalized) it will appear ultimately in a check in the demand for them at these prices, and in a reduction in the demand for money loans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Estimate the capital value of (a company) at an unreasonably or unlawfully high level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overestimate the market value of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"If, in turn, any of the minor factors, as materials or uses of goods, are overvalued (overcapitalized) it will appear ultimately in a check in the demand for them at these prices, and in a reduction in the demand for money loans."*

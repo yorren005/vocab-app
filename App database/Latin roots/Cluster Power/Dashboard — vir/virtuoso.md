@@ -5,14 +5,6 @@ status: unread
 ---
 # virtuoso
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is dazzlingly skilled in any field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musician who is a consummate master of technique and artistry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The Duke is showing, with the weak pride of the mere virtuoso, a portrait of his last Duchess, to some one who has been sent to negotiate another marriage."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The pride of the virtuoso is also implied in the word, “though”."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is dazzlingly skilled in any field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musician who is a consummate master of technique and artistry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The Duke is showing, with the weak pride of the mere virtuoso, a portrait of his last Duchess, to some one who has been sent to negotiate another marriage."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The pride of the virtuoso is also implied in the word, “though”."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # galactic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a galaxy and especially the Milky Way galaxy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a galaxy and especially the Milky Way galaxy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"The addition of Karlshaven IV to the list of planets under colonization would be made, and Holliday's asking prices for land would be posted with Emigration, together with a prospectus abstracted from the General Galactic Survey."*
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"Two galactic millennia had passed since the empire had reached that same period in technological growth, depleting the petroleum resources of a hundred worlds."*
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"It's not that, Holdreth Khain," I said, keeping my voice smooth; "We realize that a high percentage of your race are loyal to the Galactic Federation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a galaxy and especially the Milky Way galaxy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a galaxy and especially the Milky Way galaxy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Algis Budrys (*Citadel*):** *"The addition of Karlshaven IV to the list of planets under colonization would be made, and Holliday's asking prices for land would be posted with Emigration, together with a prospectus abstracted from the General Galactic Survey."*
+> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"Two galactic millennia had passed since the empire had reached that same period in technological growth, depleting the petroleum resources of a hundred worlds."*
+> - 📜 **Randall Garrett (*Deadly decoy*):** *"It's not that, Holdreth Khain," I said, keeping my voice smooth; "We realize that a high percentage of your race are loyal to the Galactic Federation."*

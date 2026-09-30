@@ -5,15 +5,6 @@ status: unread
 ---
 # specialized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become more focus on an area of activity or field of study.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be specific about.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Diversified versus specialized farming. § 6."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"As farming becomes more commercialized it necessarily becomes somewhat more specialized, and produces a smaller variety of products."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Factories can be specialized to produce that for which each is best fitted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become more focus on an area of activity or field of study.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be specific about.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Diversified versus specialized farming. § 6."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"As farming becomes more commercialized it necessarily becomes somewhat more specialized, and produces a smaller variety of products."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Factories can be specialized to produce that for which each is best fitted."*

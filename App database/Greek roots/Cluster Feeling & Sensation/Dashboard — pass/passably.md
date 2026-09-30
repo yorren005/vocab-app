@@ -5,14 +5,6 @@ status: unread
 ---
 # passably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a moderately sufficient extent or degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a moderately sufficient extent or degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"He does his duties passably well."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Thank you, I'm well, and have had a passably agreeable summer, barring the heat, sundry persistent mosquitoes, several grievous disappointments, and a felon on my thumb,” he began, with shameless imperturbability."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a moderately sufficient extent or degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a moderately sufficient extent or degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"He does his duties passably well."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Thank you, I'm well, and have had a passably agreeable summer, barring the heat, sundry persistent mosquitoes, several grievous disappointments, and a felon on my thumb,” he began, with shameless imperturbability."*

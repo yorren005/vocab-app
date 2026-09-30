@@ -5,13 +5,6 @@ status: unread
 ---
 # theanthropism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (theology) the doctrine that jesus was a union of the human and the divine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The representation of objects (especially a god) as having human form or traits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theanthropism designates (theology) the doctrine that jesus was a union of the human and the divine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (theology) the doctrine that jesus was a union of the human and the divine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The representation of objects (especially a god) as having human form or traits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theanthropism designates (theology) the doctrine that jesus was a union of the human and the divine."*

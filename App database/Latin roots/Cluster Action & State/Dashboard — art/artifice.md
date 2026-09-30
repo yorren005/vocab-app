@@ -5,15 +5,6 @@ status: unread
 ---
 # artifice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deceptive maneuver (especially to avoid capture).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deceptive maneuver (especially to avoid capture).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet resorts to his standard artifice for the maintenance of discipline."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Such a strain of shallow artifice could not impose even upon Catherine."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"What could the bewildered scouts do, masters as they were of every war-like artifice save this one, but trot helplessly after him, exposing themselves fatally to view, while they gave pathetic utterance to the coyote cry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deceptive maneuver (especially to avoid capture).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deceptive maneuver (especially to avoid capture).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet resorts to his standard artifice for the maintenance of discipline."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Such a strain of shallow artifice could not impose even upon Catherine."*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"What could the bewildered scouts do, masters as they were of every war-like artifice save this one, but trot helplessly after him, exposing themselves fatally to view, while they gave pathetic utterance to the coyote cry."*

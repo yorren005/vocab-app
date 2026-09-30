@@ -5,15 +5,6 @@ status: unread
 ---
 # orbicular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Circular or nearly circular.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the shape of a sphere or ball; ; ; - zane grey.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These pustules were brown, orbicular, regular, and in habit seemed to resemble rather those of most of the _Pucciniæ_ than of a _Trichobasis_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The pustules are not small and orbicular as in most instances in other groups (except _Polycystis_), but are large and irregular, and generally but few together or single."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Its presence was indicated by brownish orbicular spots, on which the fertile threads occurred in small bundles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Circular or nearly circular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the shape of a sphere or ball; ; ; - zane grey.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These pustules were brown, orbicular, regular, and in habit seemed to resemble rather those of most of the _Pucciniæ_ than of a _Trichobasis_."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The pustules are not small and orbicular as in most instances in other groups (except _Polycystis_), but are large and irregular, and generally but few together or single."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Its presence was indicated by brownish orbicular spots, on which the fertile threads occurred in small bundles."*

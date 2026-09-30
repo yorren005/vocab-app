@@ -5,15 +5,6 @@ status: unread
 ---
 # vicarage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official residence provided by a church for its parson or vicar or rector.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official residence provided by a church for its parson or vicar or rector.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Some two or three years before Angel’s appearance at the Marlott dance, on a day when he had left school and was pursuing his studies at home, a parcel came to the Vicarage from the local bookseller’s, directed to the Reverend James Clare."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His father’s hill-surrounded little town, the Tudor church-tower of red stone, the clump of trees near the Vicarage, came at last into view beneath him, and he rode down towards the well-known gate."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Every time that he returned hither he was conscious of this divergence, and since he had last shared in the Vicarage life it had grown even more distinctly foreign to his own than usual."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official residence provided by a church for its parson or vicar or rector.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official residence provided by a church for its parson or vicar or rector.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Some two or three years before Angel’s appearance at the Marlott dance, on a day when he had left school and was pursuing his studies at home, a parcel came to the Vicarage from the local bookseller’s, directed to the Reverend James Clare."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His father’s hill-surrounded little town, the Tudor church-tower of red stone, the clump of trees near the Vicarage, came at last into view beneath him, and he rode down towards the well-known gate."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Every time that he returned hither he was conscious of this divergence, and since he had last shared in the Vicarage life it had grown even more distinctly foreign to his own than usual."*

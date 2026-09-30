@@ -5,15 +5,6 @@ status: unread
 ---
 # subsequent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Following in time or order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Following in time or order.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy I told my guardian of his old proposal and his subsequent retraction."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The moment of her stepping forward in the Octagon Room to speak to him: the moment of Mr Elliot’s appearing and tearing her away, and one or two subsequent moments, marked by returning hope or increasing despondency, were dwelt on with energy."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was a Sunday morning in late October, about four months after Tess Durbeyfield’s arrival at Trantridge, and some few weeks subsequent to the night ride in The Chase."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Following in time or order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Following in time or order.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy I told my guardian of his old proposal and his subsequent retraction."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The moment of her stepping forward in the Octagon Room to speak to him: the moment of Mr Elliot’s appearing and tearing her away, and one or two subsequent moments, marked by returning hope or increasing despondency, were dwelt on with energy."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was a Sunday morning in late October, about four months after Tess Durbeyfield’s arrival at Trantridge, and some few weeks subsequent to the night ride in The Chase."*

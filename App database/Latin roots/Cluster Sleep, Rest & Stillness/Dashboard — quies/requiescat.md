@@ -5,15 +5,6 @@ status: unread
 ---
 # requiescat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prayer for the repose of the soul of a dead person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prayer for the repose of the soul of a dead person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"_Requiescat in Pace._" The production of gold in Queensland during the last five years has been greater than ever."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Of the Indian warrior on the plains we may well say, _requiescat in pace_, and may his pace be rapid towards either civilization or the happy hunting ground."*
-> - 📜 **James Joyce (*Ulysses*):** *"A bogoak frame over his bald head: Wilde’s _Requiescat_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prayer for the repose of the soul of a dead person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prayer for the repose of the soul of a dead person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"_Requiescat in Pace._" The production of gold in Queensland during the last five years has been greater than ever."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Of the Indian warrior on the plains we may well say, _requiescat in pace_, and may his pace be rapid towards either civilization or the happy hunting ground."*
+> - 📜 **James Joyce (*Ulysses*):** *"A bogoak frame over his bald head: Wilde’s _Requiescat_."*

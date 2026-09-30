@@ -5,13 +5,6 @@ status: unread
 ---
 # sida
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of tropical subshrubs or herbs some of which yield fibers of mucilaginous substances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of tropical subshrubs or herbs some of which yield fibers of mucilaginous substances.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sida designates large genus of tropical subshrubs or herbs some of which yield fibers of mucilaginous substances."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of tropical subshrubs or herbs some of which yield fibers of mucilaginous substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of tropical subshrubs or herbs some of which yield fibers of mucilaginous substances.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sida designates large genus of tropical subshrubs or herbs some of which yield fibers of mucilaginous substances."*

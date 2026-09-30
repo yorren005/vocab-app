@@ -5,13 +5,6 @@ status: unread
 ---
 # anaphylaxis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anaphylactic shock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hypersensitivity (as to foreign proteins or drugs) resulting from sensitization following prior contact with the causative agent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaphylaxis designates anaphylactic shock."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anaphylactic shock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hypersensitivity (as to foreign proteins or drugs) resulting from sensitization following prior contact with the causative agent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaphylaxis designates anaphylactic shock."*

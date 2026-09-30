@@ -5,14 +5,6 @@ status: unread
 ---
 # caliber
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A degree or grade of excellence or worth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diameter of a tube or gun barrel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"But I would rather live in a world that possessed only literature of the Poe caliber, than shiver in one echoing solely the strains of the Miltonian muse."*
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"The Empress has forbidden the use of guns of large caliber against us, because of the harm they might do to her loyal people and their houses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A degree or grade of excellence or worth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diameter of a tube or gun barrel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"But I would rather live in a world that possessed only literature of the Poe caliber, than shiver in one echoing solely the strains of the Miltonian muse."*
+> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"The Empress has forbidden the use of guns of large caliber against us, because of the harm they might do to her loyal people and their houses."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # comfortable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing or experiencing physical well-being or relief (`comfy' is informal).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from stress or conducive to mental ease; having or affording peace of mind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best wishes that can be forg’d in your thoughts be servants to you! [_To Helena._] Be comfortable to my mother, your mistress, and make much of her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray you, daughter, sing, or express yourself in a more comfortable sort."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have another daughter, Who, I am sure, is kind and comfortable: When she shall hear this of thee, with her nails She’ll flay thy wolvish visage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing or experiencing physical well-being or relief (`comfy' is informal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from stress or conducive to mental ease; having or affording peace of mind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best wishes that can be forg’d in your thoughts be servants to you! [_To Helena._] Be comfortable to my mother, your mistress, and make much of her."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray you, daughter, sing, or express yourself in a more comfortable sort."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have another daughter, Who, I am sure, is kind and comfortable: When she shall hear this of thee, with her nails She’ll flay thy wolvish visage."*

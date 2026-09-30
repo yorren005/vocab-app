@@ -5,15 +5,6 @@ status: unread
 ---
 # curlew
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large migratory shorebirds of the sandpiper family; closely related to woodcocks but having a down-curved bill.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large migratory shorebirds of the sandpiper family; closely related to woodcocks but having a down-curved bill.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And your cry would be heard no more than the whinnying of the curlew...."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And afar off a curlew called, and a grouse crowed in defiance."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And who better than she could understand the springy heather and the blue smoke-reek, the crickets of the evening and the curlew's call?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large migratory shorebirds of the sandpiper family; closely related to woodcocks but having a down-curved bill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large migratory shorebirds of the sandpiper family; closely related to woodcocks but having a down-curved bill.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And your cry would be heard no more than the whinnying of the curlew...."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And afar off a curlew called, and a grouse crowed in defiance."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And who better than she could understand the springy heather and the blue smoke-reek, the crickets of the evening and the curlew's call?"*

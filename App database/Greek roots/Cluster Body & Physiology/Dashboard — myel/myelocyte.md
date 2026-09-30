@@ -5,13 +5,6 @@ status: unread
 ---
 # myelocyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bone-marrow cell; especially : a motile cell with cytoplasmic granules that gives rise to the granulocytes of the blood and occurs abnormally in the circulating blood (as in myelogenous leukemia).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bone-marrow cell; especially : a motile cell with cytoplasmic granules that gives rise to the granulocytes of the blood and occurs abnormally in the circulating blood (as in myelogenous leukemia).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelocyte designates a bone-marrow cell; especially : a motile cell with cytoplasmic granules that gives rise to the granulocytes of the blood and occurs abnormally in the circulating blood (as in myelogenous leukemia)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bone-marrow cell; especially : a motile cell with cytoplasmic granules that gives rise to the granulocytes of the blood and occurs abnormally in the circulating blood (as in myelogenous leukemia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bone-marrow cell; especially : a motile cell with cytoplasmic granules that gives rise to the granulocytes of the blood and occurs abnormally in the circulating blood (as in myelogenous leukemia).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelocyte designates a bone-marrow cell; especially : a motile cell with cytoplasmic granules that gives rise to the granulocytes of the blood and occurs abnormally in the circulating blood (as in myelogenous leukemia)."*

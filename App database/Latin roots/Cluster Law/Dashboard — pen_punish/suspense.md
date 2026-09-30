@@ -5,15 +5,6 @@ status: unread
 ---
 # suspense
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apprehension about what is going to happen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An uncertain cognitive state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord of Gloucester, ’tis my special hope That you will clear yourself from all suspense."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Now it's moving," her brother continued with growing suspense."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But people who know better should be very emphatic in suppressing it." "What was the misfortune that happened long ago in the castle and then again?" Kurt asked in great suspense."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Apprehension about what is going to happen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An uncertain cognitive state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My Lord of Gloucester, ’tis my special hope That you will clear yourself from all suspense."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Now it's moving," her brother continued with growing suspense."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But people who know better should be very emphatic in suppressing it." "What was the misfortune that happened long ago in the castle and then again?" Kurt asked in great suspense."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hypogynous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inserted upon the receptacle or axis below the gynoecium and free from it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having hypogynous floral organs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypogynous designates inserted upon the receptacle or axis below the gynoecium and free from it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inserted upon the receptacle or axis below the gynoecium and free from it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having hypogynous floral organs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypogynous designates inserted upon the receptacle or axis below the gynoecium and free from it."*

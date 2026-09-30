@@ -5,15 +5,6 @@ status: unread
 ---
 # octopus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Octopus) of cephalopod mollusks that have eight muscular arms equipped with two rows of suckers; broadly : any octopod excepting the paper nautilus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that resembles an octopus especially in having many centrally directed branches.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Well,” said Conseil, with the most serious air in the world, “I remember perfectly to have seen a large vessel drawn under the waves by an octopus’s arm.” “You saw that?” said the Canadian."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Not only is it supposed that these poulps can draw down vessels, but a certain Olaus Magnus speaks of an octopus a mile long that is more like an island than an animal."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"But before leaving, Aiai told his friend to go and kill the big _hee kupua_ (wonderful octopus) in the deep sea, right out of Wailuanui, Koolau, and he consented."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Octopus) of cephalopod mollusks that have eight muscular arms equipped with two rows of suckers; broadly : any octopod excepting the paper nautilus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that resembles an octopus especially in having many centrally directed branches.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Well,” said Conseil, with the most serious air in the world, “I remember perfectly to have seen a large vessel drawn under the waves by an octopus’s arm.” “You saw that?” said the Canadian."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Not only is it supposed that these poulps can draw down vessels, but a certain Olaus Magnus speaks of an octopus a mile long that is more like an island than an animal."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"But before leaving, Aiai told his friend to go and kill the big _hee kupua_ (wonderful octopus) in the deep sea, right out of Wailuanui, Koolau, and he consented."*

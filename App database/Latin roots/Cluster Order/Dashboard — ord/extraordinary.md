@@ -5,15 +5,6 @@ status: unread
 ---
 # extraordinary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond what is ordinary or usual; highly unusual or exceptional or remarkable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Far more than usual or expected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unless you could teach me to forget a banished father, you must not learn me how to remember any extraordinary pleasure."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These signs have mark’d me extraordinary, And all the courses of my life do show I am not in the roll of common men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let that persuade thee there’s something extraordinary in thee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond what is ordinary or usual; highly unusual or exceptional or remarkable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Far more than usual or expected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unless you could teach me to forget a banished father, you must not learn me how to remember any extraordinary pleasure."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These signs have mark’d me extraordinary, And all the courses of my life do show I am not in the roll of common men."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let that persuade thee there’s something extraordinary in thee."*

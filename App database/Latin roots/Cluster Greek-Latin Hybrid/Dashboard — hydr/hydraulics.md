@@ -5,13 +5,6 @@ status: unread
 ---
 # hydraulics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Study of the mechanics of fluids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Study of the mechanics of fluids.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"You should have been a surgeon.” “It is a question of hydraulics, you see, and came within my own province.” “This has been done,” said I, examining the wound, “by a very heavy and sharp instrument.” “A thing like a cleaver,” said he."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Study of the mechanics of fluids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Study of the mechanics of fluids.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"You should have been a surgeon.” “It is a question of hydraulics, you see, and came within my own province.” “This has been done,” said I, examining the wound, “by a very heavy and sharp instrument.” “A thing like a cleaver,” said he."*

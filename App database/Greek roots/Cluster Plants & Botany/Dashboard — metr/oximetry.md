@@ -5,13 +5,6 @@ status: unread
 ---
 # oximetry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A method that utilizes spectrophotometry to measure the oxygen saturation of circulating blood or a localized region of tissue by means of an oximeter; especially : pulse oximetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A test using oximetry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oximetry designates a method that utilizes spectrophotometry to measure the oxygen saturation of circulating blood or a localized region of tissue by means of an oximeter; especially : pulse oximetry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A method that utilizes spectrophotometry to measure the oxygen saturation of circulating blood or a localized region of tissue by means of an oximeter; especially : pulse oximetry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A test using oximetry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oximetry designates a method that utilizes spectrophotometry to measure the oxygen saturation of circulating blood or a localized region of tissue by means of an oximeter; especially : pulse oximetry."*

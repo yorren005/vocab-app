@@ -5,15 +5,6 @@ status: unread
 ---
 # projecting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicate vividly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extend out or project in space.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Often a deep circular hole was dug in the hut and the girl squatted in the hole, with her head projecting above the surface of the ground."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Then he turns again to the hearth, and after crossing himself falls on his knees and kisses the projecting part of the Yule log."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"While he sits thus enriching the milk of the dairy, the lads who are to herd the sheep in the coming year go to the hearth and kneeling down before it kiss each other across the projecting end of the Yule log."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicate vividly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extend out or project in space.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Often a deep circular hole was dug in the hut and the girl squatted in the hole, with her head projecting above the surface of the ground."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Then he turns again to the hearth, and after crossing himself falls on his knees and kisses the projecting part of the Yule log."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"While he sits thus enriching the milk of the dairy, the lads who are to herd the sheep in the coming year go to the hearth and kneeling down before it kiss each other across the projecting end of the Yule log."*

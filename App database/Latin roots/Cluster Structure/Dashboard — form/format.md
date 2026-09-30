@@ -5,13 +5,6 @@ status: unread
 ---
 # format
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The organization of information according to preset specifications (usually for computer processing).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The general appearance of a publication.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, format designates the organization of information according to preset specifications (usually for computer processing)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The organization of information according to preset specifications (usually for computer processing).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The general appearance of a publication.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, format designates the organization of information according to preset specifications (usually for computer processing)."*

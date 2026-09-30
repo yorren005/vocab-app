@@ -5,15 +5,6 @@ status: unread
 ---
 # myl
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek myl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Myles Crawford began on the _Independent._ Funny the way those newspaper men veer about when they get wind of a new opening."*
-> - 📜 **James Joyce (*Ulysses*):** *"The editor’s blue eyes roved towards Mr Bloom’s face, shadowed by a smile. —Will you join us, Myles?"*
-> - 📜 **James Joyce (*Ulysses*):** *"North Cork and Spanish officers! —Where was that, Myles?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek myl.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Medicine & Pathology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Myles Crawford began on the _Independent._ Funny the way those newspaper men veer about when they get wind of a new opening."*
+> - 📜 **James Joyce (*Ulysses*):** *"The editor’s blue eyes roved towards Mr Bloom’s face, shadowed by a smile. —Will you join us, Myles?"*
+> - 📜 **James Joyce (*Ulysses*):** *"North Cork and Spanish officers! —Where was that, Myles?"*

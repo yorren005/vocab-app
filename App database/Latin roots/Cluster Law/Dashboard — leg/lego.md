@@ -5,13 +5,6 @@ status: unread
 ---
 # lego
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (trademark) a child's plastic construction set for making mechanical models.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (trademark) a child's plastic construction set for making mechanical models.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lego designates (trademark) a child's plastic construction set for making mechanical models."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (trademark) a child's plastic construction set for making mechanical models.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (trademark) a child's plastic construction set for making mechanical models.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lego designates (trademark) a child's plastic construction set for making mechanical models."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # divergence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of moving away in different direction from a common point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variation that deviates from the standard or norm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But on seeing Bathsheba turn, he looked aside, and as soon as he got beyond the gate, and there was the barest excuse for a divergence, he made one, and vanished."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Every time that he returned hither he was conscious of this divergence, and since he had last shared in the Vicarage life it had grown even more distinctly foreign to his own than usual."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"On their part they saw a great difference in him, a growing divergence from the Angel Clare of former times."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of moving away in different direction from a common point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variation that deviates from the standard or norm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But on seeing Bathsheba turn, he looked aside, and as soon as he got beyond the gate, and there was the barest excuse for a divergence, he made one, and vanished."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Every time that he returned hither he was conscious of this divergence, and since he had last shared in the Vicarage life it had grown even more distinctly foreign to his own than usual."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"On their part they saw a great difference in him, a growing divergence from the Angel Clare of former times."*

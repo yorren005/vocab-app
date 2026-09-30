@@ -5,15 +5,6 @@ status: unread
 ---
 # colonize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Settle as a colony; of countries in the developing world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Settle as colonists or establish a colony (in).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"What a country to attempt to colonize!"*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Initially in Earth orbit, later in lunar space and on Luna itself, they guided settlers in developing new lifestyles and colonizing skills, and showed them how to wrest and refine usable elements and minerals from nearby sources."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Colonizing Pluto and constructing space kits that would be transformed into surface habitat and supply depots began centuries earlier when Planet Pluto was barely past aphelion but within economical range of deep space transports."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Settle as a colony; of countries in the developing world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Settle as colonists or establish a colony (in).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"What a country to attempt to colonize!"*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Initially in Earth orbit, later in lunar space and on Luna itself, they guided settlers in developing new lifestyles and colonizing skills, and showed them how to wrest and refine usable elements and minerals from nearby sources."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Colonizing Pluto and constructing space kits that would be transformed into surface habitat and supply depots began centuries earlier when Planet Pluto was barely past aphelion but within economical range of deep space transports."*

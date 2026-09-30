@@ -5,13 +5,6 @@ status: unread
 ---
 # emetine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An emetic alkaloid C29H40N2O4 extracted from ipecac root and used especially to treat amebiasis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An emetic alkaloid C29H40N2O4 extracted from ipecac root and used especially to treat amebiasis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emetine designates an emetic alkaloid c29h40n2o4 extracted from ipecac root and used especially to treat amebiasis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An emetic alkaloid C29H40N2O4 extracted from ipecac root and used especially to treat amebiasis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An emetic alkaloid C29H40N2O4 extracted from ipecac root and used especially to treat amebiasis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emetine designates an emetic alkaloid c29h40n2o4 extracted from ipecac root and used especially to treat amebiasis."*

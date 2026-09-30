@@ -5,15 +5,6 @@ status: unread
 ---
 # pompous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Puffed up with vanity; ; ; ; - newsweek.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by pomp and ceremony and stately display.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I heard you rightly, The Duke hath put on a religious life And thrown into neglect the pompous court."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now sleep yslaked hath the rouse; No din but snores about the house, Made louder by the o’erfed breast Of this most pompous marriage feast."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, if I turn mine eyes upon myself, I find myself a traitor with the rest; For I have given here my soul’s consent T’ undeck the pompous body of a king, Made glory base and sovereignty a slave, Proud majesty a subject, state a peasant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Puffed up with vanity; ; ; ; - newsweek.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by pomp and ceremony and stately display.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I heard you rightly, The Duke hath put on a religious life And thrown into neglect the pompous court."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now sleep yslaked hath the rouse; No din but snores about the house, Made louder by the o’erfed breast Of this most pompous marriage feast."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, if I turn mine eyes upon myself, I find myself a traitor with the rest; For I have given here my soul’s consent T’ undeck the pompous body of a king, Made glory base and sovereignty a slave, Proud majesty a subject, state a peasant."*

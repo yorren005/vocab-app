@@ -5,15 +5,6 @@ status: unread
 ---
 # mutiny
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Open rebellion against constituted authority (especially by seamen or soldiers against their officers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage in a mutiny against an authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My very hairs do mutiny, for the white Reprove the brown for rashness, and they them For fear and doting."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is it, Adam, that grieves me, and the spirit of my father, which I think is within me, begins to mutiny against this servitude."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This mutiny were better put in hazard Than stay, past doubt, for greater."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Open rebellion against constituted authority (especially by seamen or soldiers against their officers).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage in a mutiny against an authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My very hairs do mutiny, for the white Reprove the brown for rashness, and they them For fear and doting."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is it, Adam, that grieves me, and the spirit of my father, which I think is within me, begins to mutiny against this servitude."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This mutiny were better put in hazard Than stay, past doubt, for greater."*

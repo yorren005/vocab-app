@@ -5,15 +5,6 @@ status: unread
 ---
 # seraph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An angel of the first order; usually portrayed as the winged head of a child.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An angel of the first order; usually portrayed as the winged head of a child.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The beauteous, seraph sister-band— With earnest tears I pray— Thou know’st the snares on ev’ry hand, Guide Thou their steps alway."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Bright as a cloudless summer sun, With stately port he moves; His guardian Seraph eyes with awe The noble Ward he loves."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"On Her Recovery But rarely seen since Nature’s birth, The natives of the sky; Yet still one seraph’s left on earth, For Jessie did not die."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An angel of the first order; usually portrayed as the winged head of a child.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An angel of the first order; usually portrayed as the winged head of a child.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The beauteous, seraph sister-band— With earnest tears I pray— Thou know’st the snares on ev’ry hand, Guide Thou their steps alway."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Bright as a cloudless summer sun, With stately port he moves; His guardian Seraph eyes with awe The noble Ward he loves."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"On Her Recovery But rarely seen since Nature’s birth, The natives of the sky; Yet still one seraph’s left on earth, For Jessie did not die."*

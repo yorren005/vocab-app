@@ -5,15 +5,6 @@ status: unread
 ---
 # omniscient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infinitely wise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infinitely wise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And when they will next come forth again, the fashionable intelligence—which, like the fiend, is omniscient of the past and present, but not the future—cannot yet undertake to say."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Lo! ye believers in gods all goodness, and in man all ill, lo you! see the omniscient gods oblivious of suffering man; and man, though idiotic, and knowing not what he does, yet full of the sweet things of love and gratitude."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"He drew a picture of a Lord, Omniscient, pure and kind, His thoughts, His purposes, His word, Too high for human mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infinitely wise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infinitely wise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"And when they will next come forth again, the fashionable intelligence—which, like the fiend, is omniscient of the past and present, but not the future—cannot yet undertake to say."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Lo! ye believers in gods all goodness, and in man all ill, lo you! see the omniscient gods oblivious of suffering man; and man, though idiotic, and knowing not what he does, yet full of the sweet things of love and gratitude."*
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"He drew a picture of a Lord, Omniscient, pure and kind, His thoughts, His purposes, His word, Too high for human mind."*

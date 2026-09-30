@@ -5,15 +5,6 @@ status: unread
 ---
 # zephyr
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A breeze from the west.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gentle breeze.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He felt a zephyr curling about his cheek, and turned."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Euroclydon, nevertheless, is a mighty pleasant zephyr to any one in-doors, with his feet on the hob quietly toasting for bed."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He felt a zephyr curling about his cheek, and turned."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A breeze from the west.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gentle breeze.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He felt a zephyr curling about his cheek, and turned."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Euroclydon, nevertheless, is a mighty pleasant zephyr to any one in-doors, with his feet on the hob quietly toasting for bed."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He felt a zephyr curling about his cheek, and turned."*

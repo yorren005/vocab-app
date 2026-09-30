@@ -5,15 +5,6 @@ status: unread
 ---
 # saloon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A room or establishment where alcoholic drinks are served over a counter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tavern consisting of a building with a bar and public rooms; often provides light meals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Now that was the Lord, ma'am, for there was not a single noise of any kind to waken me, and I was sound asleep!" THE LORD TAKES AWAY THE CUSTOM OF A LIQUOR SALOON."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You can weave the political pull of San Francisco saloon-men and ward heelers into a position of graft such as this one you occupy; but you can’t weave jute."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Fortunately there was another entrance to the drawing-room than that through the saloon where they were all seated at dinner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room or establishment where alcoholic drinks are served over a counter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tavern consisting of a building with a bar and public rooms; often provides light meals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Now that was the Lord, ma'am, for there was not a single noise of any kind to waken me, and I was sound asleep!" THE LORD TAKES AWAY THE CUSTOM OF A LIQUOR SALOON."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You can weave the political pull of San Francisco saloon-men and ward heelers into a position of graft such as this one you occupy; but you can’t weave jute."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Fortunately there was another entrance to the drawing-room than that through the saloon where they were all seated at dinner."*

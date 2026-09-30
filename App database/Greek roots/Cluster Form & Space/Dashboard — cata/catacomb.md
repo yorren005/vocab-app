@@ -5,15 +5,6 @@ status: unread
 ---
 # catacomb
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A subterranean cemetery of galleries with recesses for tombs —usually plural.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something resembling a catacomb: such as.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"For the library being dusty as a catacomb, the private room of Old Time himself, I had often to betake myself to her for assistance."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Belzoni, worming himself through the subterranean passages of the Egyptian catacombs, could not have met with great impediments than those we here encountered."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And he dreamed that the Holy Virgin Mother of the Kiev catacombs came to him and said, ‘Believe in me and I will make you whole.’ So he begged: ‘Take me to her, take me to her.’ It’s the real truth I’m telling you, I saw it myself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subterranean cemetery of galleries with recesses for tombs —usually plural.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something resembling a catacomb: such as.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"For the library being dusty as a catacomb, the private room of Old Time himself, I had often to betake myself to her for assistance."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Belzoni, worming himself through the subterranean passages of the Egyptian catacombs, could not have met with great impediments than those we here encountered."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And he dreamed that the Holy Virgin Mother of the Kiev catacombs came to him and said, ‘Believe in me and I will make you whole.’ So he begged: ‘Take me to her, take me to her.’ It’s the real truth I’m telling you, I saw it myself."*

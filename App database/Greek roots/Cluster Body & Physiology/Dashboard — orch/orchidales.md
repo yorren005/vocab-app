@@ -5,13 +5,6 @@ status: unread
 ---
 # orchidales
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Order of plants with irregular flowers having minute seeds: orchidaceae; burmanniaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Order of plants with irregular flowers having minute seeds: orchidaceae; burmanniaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orchidales designates order of plants with irregular flowers having minute seeds: orchidaceae; burmanniaceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Order of plants with irregular flowers having minute seeds: orchidaceae; burmanniaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Order of plants with irregular flowers having minute seeds: orchidaceae; burmanniaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orchidales designates order of plants with irregular flowers having minute seeds: orchidaceae; burmanniaceae."*

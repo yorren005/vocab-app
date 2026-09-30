@@ -5,13 +5,6 @@ status: unread
 ---
 # decorousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Propriety in manners and conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Propriety in manners and conduct.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"It was like dragging a hideous shape of death into the cleanly and cheerful space before a household fire, where it would present all the uglier aspect, amid the decorousness of everything about it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Propriety in manners and conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Propriety in manners and conduct.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"It was like dragging a hideous shape of death into the cleanly and cheerful space before a household fire, where it would present all the uglier aspect, amid the decorousness of everything about it."*

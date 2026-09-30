@@ -5,15 +5,6 @@ status: unread
 ---
 # tuning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) calibrating something (an instrument or electronic circuit) to a standard frequency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjust for (better) functioning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Feast-finding minstrels, tuning my defame, Will tie the hearers to attend each line, How Tarquin wronged me, I Collatine."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It was like the place-names of native Ulster--_Athbo_, the Ford of Cows, _Sraidcuacha_, the Cuckoo's Lane--one name sounded to the other like tuning-forks."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"While the couples were arranging themselves and the musicians tuning up, Pierre sat down with his little partner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) calibrating something (an instrument or electronic circuit) to a standard frequency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjust for (better) functioning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Feast-finding minstrels, tuning my defame, Will tie the hearers to attend each line, How Tarquin wronged me, I Collatine."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It was like the place-names of native Ulster--_Athbo_, the Ford of Cows, _Sraidcuacha_, the Cuckoo's Lane--one name sounded to the other like tuning-forks."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"While the couples were arranging themselves and the musicians tuning up, Pierre sat down with his little partner."*

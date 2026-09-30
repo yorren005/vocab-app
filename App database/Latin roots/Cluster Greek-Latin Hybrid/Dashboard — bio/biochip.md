@@ -5,13 +5,6 @@ status: unread
 ---
 # biochip
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A microchip that uses tiny strands of dna to latch onto and quickly recognize thousands of genes at a time; intended for use in a biological environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A microchip that uses tiny strands of dna to latch onto and quickly recognize thousands of genes at a time; intended for use in a biological environment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biochip designates a microchip that uses tiny strands of dna to latch onto and quickly recognize thousands of genes at a time; intended for use in a biological environment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microchip that uses tiny strands of dna to latch onto and quickly recognize thousands of genes at a time; intended for use in a biological environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A microchip that uses tiny strands of dna to latch onto and quickly recognize thousands of genes at a time; intended for use in a biological environment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biochip designates a microchip that uses tiny strands of dna to latch onto and quickly recognize thousands of genes at a time; intended for use in a biological environment."*

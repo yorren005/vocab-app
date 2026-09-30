@@ -5,13 +5,6 @@ status: unread
 ---
 # pulmonata
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large order of gastropods usually breathing by means of a lung-like sac comprising most land snails and slugs and many freshwater snails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large order of gastropods usually breathing by means of a lung-like sac comprising most land snails and slugs and many freshwater snails.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pulmonata designates large order of gastropods usually breathing by means of a lung-like sac comprising most land snails and slugs and many freshwater snails."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large order of gastropods usually breathing by means of a lung-like sac comprising most land snails and slugs and many freshwater snails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large order of gastropods usually breathing by means of a lung-like sac comprising most land snails and slugs and many freshwater snails.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pulmonata designates large order of gastropods usually breathing by means of a lung-like sac comprising most land snails and slugs and many freshwater snails."*

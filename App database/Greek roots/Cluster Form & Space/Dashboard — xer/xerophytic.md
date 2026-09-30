@@ -5,13 +5,6 @@ status: unread
 ---
 # xerophytic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adapted to a xeric (or dry) environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adapted to a xeric (or dry) environment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xerophytic designates adapted to a xeric (or dry) environment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adapted to a xeric (or dry) environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adapted to a xeric (or dry) environment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xerophytic designates adapted to a xeric (or dry) environment."*

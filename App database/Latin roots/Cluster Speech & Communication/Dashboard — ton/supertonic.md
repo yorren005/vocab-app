@@ -5,13 +5,6 @@ status: unread
 ---
 # supertonic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) the second note of a diatonic scale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) the second note of a diatonic scale.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supertonic designates (music) the second note of a diatonic scale."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) the second note of a diatonic scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) the second note of a diatonic scale.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supertonic designates (music) the second note of a diatonic scale."*

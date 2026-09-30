@@ -5,13 +5,6 @@ status: unread
 ---
 # anthozoan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sessile marine coelenterates including solitary and colonial polyps; the medusoid phase is entirely suppressed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sessile marine coelenterates including solitary and colonial polyps; the medusoid phase is entirely suppressed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthozoan designates sessile marine coelenterates including solitary and colonial polyps; the medusoid phase is entirely suppressed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sessile marine coelenterates including solitary and colonial polyps; the medusoid phase is entirely suppressed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sessile marine coelenterates including solitary and colonial polyps; the medusoid phase is entirely suppressed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthozoan designates sessile marine coelenterates including solitary and colonial polyps; the medusoid phase is entirely suppressed."*

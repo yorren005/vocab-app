@@ -5,13 +5,6 @@ status: unread
 ---
 # pteriidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pearl oysters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pearl oysters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteriidae designates pearl oysters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pearl oysters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pearl oysters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteriidae designates pearl oysters."*

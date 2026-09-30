@@ -5,13 +5,6 @@ status: unread
 ---
 # helichrysum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of mostly african and australian herbs and shrubs: everlasting flowers; in some classifications includes genus ozothamnus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of mostly african and australian herbs and shrubs: everlasting flowers; in some classifications includes genus ozothamnus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helichrysum designates large genus of mostly african and australian herbs and shrubs: everlasting flowers; in some classifications includes genus ozothamnus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of mostly african and australian herbs and shrubs: everlasting flowers; in some classifications includes genus ozothamnus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of mostly african and australian herbs and shrubs: everlasting flowers; in some classifications includes genus ozothamnus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helichrysum designates large genus of mostly african and australian herbs and shrubs: everlasting flowers; in some classifications includes genus ozothamnus."*

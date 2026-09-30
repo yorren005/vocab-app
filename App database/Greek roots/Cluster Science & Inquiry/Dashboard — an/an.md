@@ -5,15 +5,6 @@ status: unread
 ---
 # an
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of not, without, lacking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of not, without, lacking.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Erinnerst Du Dich des Gedichtes von Chamisso,[110] wo der Maler einen Juengling ans Kreuz nagelt, um ein Bild vom Todesschmerze zu haben?"*
-> - 📜 **James Joyce (*Ulysses*):** *"And left the _femme de trente ans._ And why no other children born?"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"B.] They steek their een, and grape an’ wale For muckle anes, an’ straught anes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of not, without, lacking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of not, without, lacking.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Erinnerst Du Dich des Gedichtes von Chamisso,[110] wo der Maler einen Juengling ans Kreuz nagelt, um ein Bild vom Todesschmerze zu haben?"*
+> - 📜 **James Joyce (*Ulysses*):** *"And left the _femme de trente ans._ And why no other children born?"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"B.] They steek their een, and grape an’ wale For muckle anes, an’ straught anes."*

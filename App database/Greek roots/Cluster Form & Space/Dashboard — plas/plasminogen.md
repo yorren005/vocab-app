@@ -5,13 +5,6 @@ status: unread
 ---
 # plasminogen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inactive form of plasmin that occurs in plasma and is converted to plasmin by organic solvents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inactive form of plasmin that occurs in plasma and is converted to plasmin by organic solvents.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasminogen designates an inactive form of plasmin that occurs in plasma and is converted to plasmin by organic solvents."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inactive form of plasmin that occurs in plasma and is converted to plasmin by organic solvents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inactive form of plasmin that occurs in plasma and is converted to plasmin by organic solvents.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasminogen designates an inactive form of plasmin that occurs in plasma and is converted to plasmin by organic solvents."*

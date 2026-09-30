@@ -5,13 +5,6 @@ status: unread
 ---
 # destabilization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that causes a loss of equilibrium (as of a ship or aircraft).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of destabilizing; making something less stable (especially of a government or country or economy).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The real target's spunnel lines will crash, destabilization will disrupt the entire Slingshot construction schedule."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that causes a loss of equilibrium (as of a ship or aircraft).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of destabilizing; making something less stable (especially of a government or country or economy).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The real target's spunnel lines will crash, destabilization will disrupt the entire Slingshot construction schedule."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # marshals
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The united states' oldest federal law enforcement agency is responsible today for protecting the federal judiciary and transporting federal prisoners and protecting federal witnesses and managing assets seized from criminals and generally ensuring the effective operation of the federal judicial system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A law officer having duties similar to those of a sheriff in carrying out the judgments of a court of law.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I know,” interrupted Bilíbin, “you’re thinking it’s very easy to take marshals, sitting on a sofa by the fire!"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"These gentlemen ride onto the bridge alone and wave white handkerchiefs; they assure the officer on duty that they, the marshals, are on their way to negotiate with Prince Auersperg."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The fog lay unbroken like a sea down below, but higher up at the village of Schlappanitz where Napoleon stood with his marshals around him, it was quite light."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The united states' oldest federal law enforcement agency is responsible today for protecting the federal judiciary and transporting federal prisoners and protecting federal witnesses and managing assets seized from criminals and generally ensuring the effective operation of the federal judicial system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A law officer having duties similar to those of a sheriff in carrying out the judgments of a court of law.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I know,” interrupted Bilíbin, “you’re thinking it’s very easy to take marshals, sitting on a sofa by the fire!"*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"These gentlemen ride onto the bridge alone and wave white handkerchiefs; they assure the officer on duty that they, the marshals, are on their way to negotiate with Prince Auersperg."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The fog lay unbroken like a sea down below, but higher up at the village of Schlappanitz where Napoleon stood with his marshals around him, it was quite light."*

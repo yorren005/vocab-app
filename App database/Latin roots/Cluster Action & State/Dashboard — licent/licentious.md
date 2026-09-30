@@ -5,15 +5,6 @@ status: unread
 ---
 # licentious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking moral discipline; especially sexually unrestrained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking moral discipline; especially sexually unrestrained.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How dearly would it touch thee to the quick, Should’st thou but hear I were licentious?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What rein can hold licentious wickedness When down the hill he holds his fierce career?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he be none of mine, my sanctity Will to my sense bend no licentious ear, But curb it, spite of seeing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking moral discipline; especially sexually unrestrained.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking moral discipline; especially sexually unrestrained.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How dearly would it touch thee to the quick, Should’st thou but hear I were licentious?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What rein can hold licentious wickedness When down the hill he holds his fierce career?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he be none of mine, my sanctity Will to my sense bend no licentious ear, But curb it, spite of seeing."*

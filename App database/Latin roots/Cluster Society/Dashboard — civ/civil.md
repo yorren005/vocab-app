@@ -5,15 +5,6 @@ status: unread
 ---
 # civil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Applying to ordinary citizens as contrasted with the military.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not rude; marked by satisfactory (or especially minimal) adherence to social usages and sufficient but not noteworthy consideration for others; - w.s. maugham.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The round world Should have shook lions into civil streets, And citizens to their dens."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tongues I’ll hang on every tree That shall civil sayings show."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If anything that’s civil, speak; if savage, Take or lend."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Applying to ordinary citizens as contrasted with the military.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not rude; marked by satisfactory (or especially minimal) adherence to social usages and sufficient but not noteworthy consideration for others; - w.s. maugham.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The round world Should have shook lions into civil streets, And citizens to their dens."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tongues I’ll hang on every tree That shall civil sayings show."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If anything that’s civil, speak; if savage, Take or lend."*

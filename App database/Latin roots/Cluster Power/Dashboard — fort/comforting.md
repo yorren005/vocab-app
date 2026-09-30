@@ -5,15 +5,6 @@ status: unread
 ---
 # comforting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give moral or emotional strength to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lessen pain or discomfort; alleviate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When it pleaseth their deities to take the wife of a man from him, it shows to man the tailors of the earth; comforting therein that when old robes are worn out, there are members to make new."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These should be hours for necessities, Not for delights; times to repair our nature With comforting repose, and not for us To waste these times."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"EDMUND. [_Aside._] If I find him comforting the King, it will stuff his suspicion more fully."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give moral or emotional strength to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lessen pain or discomfort; alleviate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When it pleaseth their deities to take the wife of a man from him, it shows to man the tailors of the earth; comforting therein that when old robes are worn out, there are members to make new."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These should be hours for necessities, Not for delights; times to repair our nature With comforting repose, and not for us To waste these times."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"EDMUND. [_Aside._] If I find him comforting the King, it will stuff his suspicion more fully."*

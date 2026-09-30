@@ -5,13 +5,6 @@ status: unread
 ---
 # altimeter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that measures the height above ground; used in navigation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that measures the height above ground; used in navigation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"With that subconscious concentration of the flying man on his ship, he glanced at the instrument board first, and taking in the astonishing information that both the altimeter and the air-speed meter registered zero, he looked over the side."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that measures the height above ground; used in navigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that measures the height above ground; used in navigation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"With that subconscious concentration of the flying man on his ship, he glanced at the instrument board first, and taking in the astonishing information that both the altimeter and the air-speed meter registered zero, he looked over the side."*

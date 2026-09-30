@@ -5,14 +5,6 @@ status: unread
 ---
 # sensory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a nerve fiber or impulse originating outside and passing toward the central nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or derived from the senses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Millions of people who see poorly, or not at all, or who have other sensory problems, use precision tools all the time."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The entire field of communications to bypass sensory limitations is just beginning to open up; it'll be part of your world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a nerve fiber or impulse originating outside and passing toward the central nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or derived from the senses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Millions of people who see poorly, or not at all, or who have other sensory problems, use precision tools all the time."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The entire field of communications to bypass sensory limitations is just beginning to open up; it'll be part of your world."*

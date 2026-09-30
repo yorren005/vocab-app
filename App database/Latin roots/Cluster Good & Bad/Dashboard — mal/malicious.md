@@ -5,15 +5,6 @@ status: unread
 ---
 # malicious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the nature of or resulting from malice; ; - rudyard kipling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the nature of or resulting from malice; ; - rudyard kipling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Either you must confess yourselves wondrous malicious Or be accused of folly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not take His rougher accents for malicious sounds, But, as I say, such as become a soldier Rather than envy you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We do it wrong, being so majestical, To offer it the show of violence, For it is as the air, invulnerable, And our vain blows malicious mockery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the nature of or resulting from malice; ; - rudyard kipling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the nature of or resulting from malice; ; - rudyard kipling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Either you must confess yourselves wondrous malicious Or be accused of folly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not take His rougher accents for malicious sounds, But, as I say, such as become a soldier Rather than envy you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We do it wrong, being so majestical, To offer it the show of violence, For it is as the air, invulnerable, And our vain blows malicious mockery."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # tepee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native american tent; usually of conical shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native american tent; usually of conical shape.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"While with shrill cries two or three of the women gathered the little ones together, the rest pulled frantically at the poles holding each tepee in place."*
-> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"On the beach below, squatted within the opened flap of his tepee, Torquam, mighty chief of the Mariposa, smoked his evening pipe."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The companions of Frank Higgins were the children of the Sioux Indians, whose tepees were near the homestead."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native american tent; usually of conical shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native american tent; usually of conical shape.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"While with shrill cries two or three of the women gathered the little ones together, the rest pulled frantically at the poles holding each tepee in place."*
+> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"On the beach below, squatted within the opened flap of his tepee, Torquam, mighty chief of the Mariposa, smoked his evening pipe."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The companions of Frank Higgins were the children of the Sioux Indians, whose tepees were near the homestead."*

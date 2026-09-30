@@ -5,14 +5,6 @@ status: unread
 ---
 # distributive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to distribute or allot or disperse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to distribute or allot or disperse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Consumers' coöperation (often called distributive coöperation) is concerned with the later steps, the placing of a consumption good (rarely also productive agents) into the hands of the final user."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"To say the truth, I had conceived a few scruples with relation to the distributive justice of princes upon those occasions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to distribute or allot or disperse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to distribute or allot or disperse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Consumers' coöperation (often called distributive coöperation) is concerned with the later steps, the placing of a consumption good (rarely also productive agents) into the hands of the final user."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"To say the truth, I had conceived a few scruples with relation to the distributive justice of princes upon those occasions."*

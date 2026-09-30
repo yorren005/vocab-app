@@ -5,15 +5,6 @@ status: unread
 ---
 # colon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the large intestine between the cecum and the rectum; it extracts moisture from food residues before they are excreted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic unit of money in el salvador; equal to 100 centavos.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Colon was all of five feet eleven; in circumference, perhaps a score or so of inches."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Philosophy and Entomology had constant combat for Colon, and victory tarried with neither long enough for the seat of war to be cultivated and blossom with any luxuriance."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Colon's son, of two years less than a score, we dubbed Semi-colon, as being a smaller edition, or to be exact, precisely one-half of what the senior Colon was."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the large intestine between the cecum and the rectum; it extracts moisture from food residues before they are excreted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic unit of money in el salvador; equal to 100 centavos.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Colon was all of five feet eleven; in circumference, perhaps a score or so of inches."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Philosophy and Entomology had constant combat for Colon, and victory tarried with neither long enough for the seat of war to be cultivated and blossom with any luxuriance."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Colon's son, of two years less than a score, we dubbed Semi-colon, as being a smaller edition, or to be exact, precisely one-half of what the senior Colon was."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # emphasize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To stress, single out as important.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give extra weight to (a communication).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"At the same time, to emphasize the exorcism, they knock on doors, window-shutters, chests, and other domestic articles of furniture."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The evidence of satirists is generally to be discounted, because they tend to emphasize the exceptional; and it is not the exceptional thing that gives the character of an age, or of a man."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Thou hast made us for Thyself," said Augustine in the famous sentence, of which we are apt to emphasize the latter half, "and our heart knows no rest till it rests in Thee" (Confessions, i. 1)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To stress, single out as important.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give extra weight to (a communication).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"At the same time, to emphasize the exorcism, they knock on doors, window-shutters, chests, and other domestic articles of furniture."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The evidence of satirists is generally to be discounted, because they tend to emphasize the exceptional; and it is not the exceptional thing that gives the character of an age, or of a man."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Thou hast made us for Thyself," said Augustine in the famous sentence, of which we are apt to emphasize the latter half, "and our heart knows no rest till it rests in Thee" (Confessions, i. 1)."*

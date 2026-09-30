@@ -5,13 +5,6 @@ status: unread
 ---
 # octo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: eight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: eight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog octo as a recognized concept in linguistic and etymological taxonomy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: eight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: eight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog octo as a recognized concept in linguistic and etymological taxonomy."*

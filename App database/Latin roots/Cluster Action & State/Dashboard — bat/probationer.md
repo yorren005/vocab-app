@@ -5,14 +5,6 @@ status: unread
 ---
 # probationer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nurse in training who is undergoing a trial period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone released on probation or on parole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The Hall session of 1844 was Cairns's last, and the next step for him to take in ordinary course was to apply to a Presbytery for license as a probationer."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"These formed the official creed of the Church, and assent to them was exacted from all its ministers, probationers, and elders."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nurse in training who is undergoing a trial period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone released on probation or on parole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"The Hall session of 1844 was Cairns's last, and the next step for him to take in ordinary course was to apply to a Presbytery for license as a probationer."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"These formed the official creed of the Church, and assent to them was exacted from all its ministers, probationers, and elders."*

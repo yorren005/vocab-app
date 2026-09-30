@@ -5,13 +5,6 @@ status: unread
 ---
 # toneless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in tone or expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in tone or expression.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Halfred Hamundson," she began--and her voice was loud, yet toneless--"Answers I demand to two questions, before these ten hundred hearers in thy hall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in tone or expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in tone or expression.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Halfred Hamundson," she began--and her voice was loud, yet toneless--"Answers I demand to two questions, before these ten hundred hearers in thy hall."*

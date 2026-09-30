@@ -5,15 +5,6 @@ status: unread
 ---
 # prospect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The possibility of future success.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belief about (or mental picture of) the future.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their chiefest prospect murdering basilisks; Their softest touch as smart as lizards’ stings!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These flags of France, that are advanced here Before the eye and prospect of your town, Have hither march’d to your endamagement."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Thane of Cawdor lives, A prosperous gentleman; and to be king Stands not within the prospect of belief, No more than to be Cawdor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The possibility of future success.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belief about (or mental picture of) the future.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their chiefest prospect murdering basilisks; Their softest touch as smart as lizards’ stings!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These flags of France, that are advanced here Before the eye and prospect of your town, Have hither march’d to your endamagement."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Thane of Cawdor lives, A prosperous gentleman; and to be king Stands not within the prospect of belief, No more than to be Cawdor."*

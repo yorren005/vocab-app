@@ -5,13 +5,6 @@ status: unread
 ---
 # cure-all
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hypothetical remedy for all ills or diseases; once sought by the alchemists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hypothetical remedy for all ills or diseases; once sought by the alchemists.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cure-all designates hypothetical remedy for all ills or diseases; once sought by the alchemists."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hypothetical remedy for all ills or diseases; once sought by the alchemists.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hypothetical remedy for all ills or diseases; once sought by the alchemists.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cure-all designates hypothetical remedy for all ills or diseases; once sought by the alchemists."*

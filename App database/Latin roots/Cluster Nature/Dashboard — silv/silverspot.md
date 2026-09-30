@@ -5,13 +5,6 @@ status: unread
 ---
 # silverspot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Butterfly with silver spots on the underside of the hind wings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Butterfly with silver spots on the underside of the hind wings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silverspot designates butterfly with silver spots on the underside of the hind wings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Butterfly with silver spots on the underside of the hind wings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Butterfly with silver spots on the underside of the hind wings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silverspot designates butterfly with silver spots on the underside of the hind wings."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # conversationalist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone skilled at conversation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone skilled at conversation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Gilchrist even more gifted as a conversationalist than as a writer."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Morgan’s appearance might be somewhat disappointing, as even her loyal worshippers had been forced to admit to each other; but she proved to be a delightful conversationalist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone skilled at conversation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone skilled at conversation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Gilchrist even more gifted as a conversationalist than as a writer."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Morgan’s appearance might be somewhat disappointing, as even her loyal worshippers had been forced to admit to each other; but she proved to be a delightful conversationalist."*

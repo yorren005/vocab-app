@@ -5,13 +5,6 @@ status: unread
 ---
 # clinician
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner (of medicine or psychology) who does clinical work instead of laboratory experiments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A practitioner (of medicine or psychology) who does clinical work instead of laboratory experiments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clinician designates a practitioner (of medicine or psychology) who does clinical work instead of laboratory experiments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner (of medicine or psychology) who does clinical work instead of laboratory experiments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A practitioner (of medicine or psychology) who does clinical work instead of laboratory experiments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clinician designates a practitioner (of medicine or psychology) who does clinical work instead of laboratory experiments."*

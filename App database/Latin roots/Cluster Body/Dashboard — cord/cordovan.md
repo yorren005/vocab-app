@@ -5,14 +5,6 @@ status: unread
 ---
 # cordovan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fine leather originally made in cordoba, spain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fine leather originally made in cordoba, spain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"While the crowd still sways and surges, Ere the applauding shouts have ceas'd, See, the second bull emerges-- 'Tis the famed Cordovan beast,-- By the picador ungoaded, Scathless of the chulo's dart."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"When she removed the cordovan leather from the grand piano and ventured to play a few notes on it, it sounded with a mournful sadness, startling the dismal echoes of the house."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fine leather originally made in cordoba, spain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fine leather originally made in cordoba, spain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"While the crowd still sways and surges, Ere the applauding shouts have ceas'd, See, the second bull emerges-- 'Tis the famed Cordovan beast,-- By the picador ungoaded, Scathless of the chulo's dart."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"When she removed the cordovan leather from the grand piano and ventured to play a few notes on it, it sounded with a mournful sadness, startling the dismal echoes of the house."*

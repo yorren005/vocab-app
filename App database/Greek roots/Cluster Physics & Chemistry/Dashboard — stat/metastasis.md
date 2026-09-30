@@ -5,13 +5,6 @@ status: unread
 ---
 # metastasis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change of position, state, or form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spread of a disease-producing agency (such as cancer cells) from the initial or primary site of disease to another part of the body; also : the process by which such spreading occurs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"There is no metastasis, no stoppage of harmonious 420:3 action, no paralysis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Change of position, state, or form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spread of a disease-producing agency (such as cancer cells) from the initial or primary site of disease to another part of the body; also : the process by which such spreading occurs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"There is no metastasis, no stoppage of harmonious 420:3 action, no paralysis."*

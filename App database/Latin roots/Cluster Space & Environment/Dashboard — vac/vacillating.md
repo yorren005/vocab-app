@@ -5,15 +5,6 @@ status: unread
 ---
 # vacillating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be undecided about something; waver between conflicting positions or courses of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move or sway in a rising and falling or wavelike pattern.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her resolve, however, had been taken, and it seemed vacillating even to childishness to abandon it now, unless for graver reasons."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In its details American policy in tariff legislation under the Constitution has been varied and vacillating."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is a history of a vacillating public opinion toward the policy of protective duties."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be undecided about something; waver between conflicting positions or courses of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move or sway in a rising and falling or wavelike pattern.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her resolve, however, had been taken, and it seemed vacillating even to childishness to abandon it now, unless for graver reasons."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In its details American policy in tariff legislation under the Constitution has been varied and vacillating."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is a history of a vacillating public opinion toward the policy of protective duties."*

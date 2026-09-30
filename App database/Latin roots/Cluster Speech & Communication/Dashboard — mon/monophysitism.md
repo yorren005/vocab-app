@@ -5,13 +5,6 @@ status: unread
 ---
 # monophysitism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A christian heresy of the 5th and 6th centuries that challenged the orthodox definition of the two natures (human and divine) in jesus and instead believed there was a single divine nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A christian heresy of the 5th and 6th centuries that challenged the orthodox definition of the two natures (human and divine) in jesus and instead believed there was a single divine nature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monophysitism designates a christian heresy of the 5th and 6th centuries that challenged the orthodox definition of the two natures (human and divine) in jesus and instead believed there was a single divine nature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A christian heresy of the 5th and 6th centuries that challenged the orthodox definition of the two natures (human and divine) in jesus and instead believed there was a single divine nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A christian heresy of the 5th and 6th centuries that challenged the orthodox definition of the two natures (human and divine) in jesus and instead believed there was a single divine nature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monophysitism designates a christian heresy of the 5th and 6th centuries that challenged the orthodox definition of the two natures (human and divine) in jesus and instead believed there was a single divine nature."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # gawk
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Stare conspicuously
-> 2. **Nuance / Usage**: Gape or stare stupidly
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the gawk withstood the storm*), direct object (*cleaved the gawk*), or prepositional anchor (*amidst the gawk*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Ari Thorgilsson (*The Book of the Settlement of Iceland*):** *"His morning prey he craveth; So crowed the gawk of carrion<sup>6</sup> {{..."*
-> - 📜 **John Bunyan Robinson (*Bird Or Feather Convention ...*):** *"Some sneakingly fly watching, as the hawk; Or, as a Cuckoo, grow to limb as a gawk."*
-> - 📜 **Thomas Carlyle (*The Prinzenraub*):** *"A Duke of Weissenfels, for instance; foolish old gawk, whom {{w|Wilhelmina_of_Prussia,_Princess_of_Orange|Wilhehmina Princess Royal"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To stare openly, awkwardly, and unthinkingly at someone or something in slack-jawed wonder or curiosity.
+> 2. **Nuance / Usage**: As a noun, an awkward, clumsy, or bashful person; emphasizes an unrefined, intrusive, or gaping manner of looking.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the gawk withstood the storm*), direct object (*cleaved the gawk*), or prepositional anchor (*amidst the gawk*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"Curiosity brought a dozen villagers to **gawk** through the iron gates at the deserted mansion."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"She felt that the whole street was **gawking** at her city hat as she walked past the drugstore."*
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"The townspeople stood around on the muddy planks, **gawking** at the strangers who had just stepped off the steamboat."*

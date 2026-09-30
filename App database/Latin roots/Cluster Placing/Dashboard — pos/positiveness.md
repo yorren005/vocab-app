@@ -5,15 +5,6 @@ status: unread
 ---
 # positiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The character of the positive electric pole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality or state characterized by certainty or acceptance or affirmation and dogmatic assertiveness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"No!” I cried with great positiveness."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"About her played her children, Noise and Impudence, Dulness and Vanity, Positiveness, Pedantry, and Ill-manners."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Positiveness is a good quality for preachers and orators, because he that would obtrude his thoughts and reasons upon a multitude, will convince others the more, as he appears convinced himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The character of the positive electric pole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality or state characterized by certainty or acceptance or affirmation and dogmatic assertiveness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"No!” I cried with great positiveness."*
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"About her played her children, Noise and Impudence, Dulness and Vanity, Positiveness, Pedantry, and Ill-manners."*
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Positiveness is a good quality for preachers and orators, because he that would obtrude his thoughts and reasons upon a multitude, will convince others the more, as he appears convinced himself."*

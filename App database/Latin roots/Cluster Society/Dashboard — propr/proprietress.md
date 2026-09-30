@@ -5,15 +5,6 @@ status: unread
 ---
 # proprietress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman proprietor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman proprietor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby and the proprietress of the house—a drunken face tied up in a black bundle, and flaring out of a heap of rags on the floor of a dog-hutch which is her private apartment—leads to the establishment of this conclusion."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"And we read how one of the great Athenian orators, Lysias, went there and took with him to be initiated a harlot, with whom he was living, and the woman's proprietress--a squalid party; and they were initiated."*
-> - 📜 **James Joyce (*Ulysses*):** *"LIFE ON THE RAW —They buy one and fourpenceworth of brawn and four slices of panloaf at the north city diningrooms in Marlborough street from Miss Kate Collins, proprietress..."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman proprietor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman proprietor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby and the proprietress of the house—a drunken face tied up in a black bundle, and flaring out of a heap of rags on the floor of a dog-hutch which is her private apartment—leads to the establishment of this conclusion."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"And we read how one of the great Athenian orators, Lysias, went there and took with him to be initiated a harlot, with whom he was living, and the woman's proprietress--a squalid party; and they were initiated."*
+> - 📜 **James Joyce (*Ulysses*):** *"LIFE ON THE RAW —They buy one and fourpenceworth of brawn and four slices of panloaf at the north city diningrooms in Marlborough street from Miss Kate Collins, proprietress..."*

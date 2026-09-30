@@ -5,15 +5,6 @@ status: unread
 ---
 # indignant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Angered at something unjust or wrong.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Angered at something unjust or wrong.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"So he felt more indignant than before and had immediately interpreted Apollonie's hint."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not a cousin of the batch but is really indignant, and connects it with the feebleness of William Buffy when in office, and really does feel deprived of a stake in the country—or the pension list—or something—by fraud and wrong."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes and his relations being minor cannibal chiefs and it being proposed to abolish cannibalism, indignant champions were to put the case thus: Make man-eating unlawful, and you starve the Vholeses!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Angered at something unjust or wrong.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Angered at something unjust or wrong.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"So he felt more indignant than before and had immediately interpreted Apollonie's hint."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Not a cousin of the batch but is really indignant, and connects it with the feebleness of William Buffy when in office, and really does feel deprived of a stake in the country—or the pension list—or something—by fraud and wrong."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes and his relations being minor cannibal chiefs and it being proposed to abolish cannibalism, indignant champions were to put the case thus: Make man-eating unlawful, and you starve the Vholeses!"*

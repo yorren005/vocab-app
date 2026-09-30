@@ -5,13 +5,6 @@ status: unread
 ---
 # ignominiousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unworthiness meriting public disgrace and dishonor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unworthiness meriting public disgrace and dishonor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ignominiousness designates unworthiness meriting public disgrace and dishonor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unworthiness meriting public disgrace and dishonor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unworthiness meriting public disgrace and dishonor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ignominiousness designates unworthiness meriting public disgrace and dishonor."*

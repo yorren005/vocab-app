@@ -5,13 +5,6 @@ status: unread
 ---
 # mys
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cape of northeastern Russia in Asia on the Bering Strait at the eastern end of the Chukchi Peninsula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cape of northeastern Russia in Asia on the Bering Strait at the eastern end of the Chukchi Peninsula.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mys designates cape of northeastern russia in asia on the bering strait at the eastern end of the chukchi peninsula."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cape of northeastern Russia in Asia on the Bering Strait at the eastern end of the Chukchi Peninsula.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cape of northeastern Russia in Asia on the Bering Strait at the eastern end of the Chukchi Peninsula.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mys designates cape of northeastern russia in asia on the bering strait at the eastern end of the chukchi peninsula."*

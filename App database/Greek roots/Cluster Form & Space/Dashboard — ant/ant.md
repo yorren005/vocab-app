@@ -5,15 +5,6 @@ status: unread
 ---
 # ant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a family (Formicidae) of colonial hymenopterous insects with a complex social organization and various castes performing special duties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a family (Formicidae) of colonial hymenopterous insects with a complex social organization and various castes performing special duties.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We’ll set thee to school to an ant, to teach thee there’s no labouring i’the winter."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He gives the native name of the ant as _issauba_. [151] J."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Or, if you will, like so many ant-hills of powder, they all stand before me; and I their match."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a family (Formicidae) of colonial hymenopterous insects with a complex social organization and various castes performing special duties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a family (Formicidae) of colonial hymenopterous insects with a complex social organization and various castes performing special duties.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We’ll set thee to school to an ant, to teach thee there’s no labouring i’the winter."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He gives the native name of the ant as _issauba_. [151] J."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Or, if you will, like so many ant-hills of powder, they all stand before me; and I their match."*

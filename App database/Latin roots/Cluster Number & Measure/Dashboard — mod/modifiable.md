@@ -5,13 +5,6 @@ status: unread
 ---
 # modifiable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being modified in form or character or strength (especially by making less extreme);  - alexis carrel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being modified in form or character or strength (especially by making less extreme);  - alexis carrel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modifiable designates capable of being modified in form or character or strength (especially by making less extreme);  - alexis carrel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being modified in form or character or strength (especially by making less extreme);  - alexis carrel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being modified in form or character or strength (especially by making less extreme);  - alexis carrel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modifiable designates capable of being modified in form or character or strength (especially by making less extreme);  - alexis carrel."*

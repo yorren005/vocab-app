@@ -5,15 +5,6 @@ status: unread
 ---
 # regrets
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polite refusal of an invitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sadness associated with some wrong done or some disappointment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole and to have the opportunity of tendering my personal regrets."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He dined with us, however, at an early hour, and became so much more like what he used to be that I was still more at peace to think I had been able to soften his regrets."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Her attachment and regrets had, for a long time, clouded every enjoyment of youth, and an early loss of bloom and spirits had been their lasting effect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polite refusal of an invitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sadness associated with some wrong done or some disappointment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole and to have the opportunity of tendering my personal regrets."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He dined with us, however, at an early hour, and became so much more like what he used to be that I was still more at peace to think I had been able to soften his regrets."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Her attachment and regrets had, for a long time, clouded every enjoyment of youth, and an early loss of bloom and spirits had been their lasting effect."*

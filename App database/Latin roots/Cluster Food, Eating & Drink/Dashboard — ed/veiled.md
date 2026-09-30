@@ -5,15 +5,6 @@ status: unread
 ---
 # veiled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To obscure, or conceal with or as if with a veil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make undecipherable or imperceptible by obscuring or concealing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor did you think it folly To keep your great pretences veiled till when They needs must show themselves, which, in the hatching, It seemed, appeared to Rome."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our veiled dames Commit the war of white and damask in Their nicely-gauded cheeks to th’ wanton spoil Of Phoebus’ burning kisses."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Her face is veiled, and still she sufficiently betrays herself to make more than one of those who pass her look round sharply."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To obscure, or conceal with or as if with a veil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make undecipherable or imperceptible by obscuring or concealing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor did you think it folly To keep your great pretences veiled till when They needs must show themselves, which, in the hatching, It seemed, appeared to Rome."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our veiled dames Commit the war of white and damask in Their nicely-gauded cheeks to th’ wanton spoil Of Phoebus’ burning kisses."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Her face is veiled, and still she sufficiently betrays herself to make more than one of those who pass her look round sharply."*

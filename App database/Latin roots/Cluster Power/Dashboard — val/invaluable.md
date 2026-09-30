@@ -5,15 +5,6 @@ status: unread
 ---
 # invaluable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having incalculable monetary, intellectual, or spiritual worth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having incalculable monetary, intellectual, or spiritual worth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"And she,” said Mrs Smith, “besides nursing me most admirably, has really proved an invaluable acquaintance."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They took her away into a further room, and the medical attendance which had been useless in Troy’s case was invaluable in Bathsheba’s, who fell into a series of fainting-fits that had a serious aspect for a time."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"If I have a very large farm, either English or colonial, you will be invaluable as a wife to me; better than a woman out of the largest mansion in the country."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having incalculable monetary, intellectual, or spiritual worth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having incalculable monetary, intellectual, or spiritual worth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"And she,” said Mrs Smith, “besides nursing me most admirably, has really proved an invaluable acquaintance."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They took her away into a further room, and the medical attendance which had been useless in Troy’s case was invaluable in Bathsheba’s, who fell into a series of fainting-fits that had a serious aspect for a time."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"If I have a very large farm, either English or colonial, you will be invaluable as a wife to me; better than a woman out of the largest mansion in the country."*

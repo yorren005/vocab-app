@@ -5,15 +5,6 @@ status: unread
 ---
 # reconsider
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider again; give new consideration to; usually with a view to changing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider again (a bill) that had been voted upon before, with a view to altering it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He shared pain, he sympathized with suffering; and his understanding of pain, and, above all, his choice of pain, taught men to reconsider it and to understand it, and altered the attitude of the world toward it."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But when, in the clearer light of next morning, I began to reconsider the matter and to hear it discussed around me on all sides, I took another view of the case, which was more reasonable."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"But Lulu told me you had quite determined to send her away from here: I hope you will reconsider, and--let her stay," with a very coaxing look up into his face."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider again; give new consideration to; usually with a view to changing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider again (a bill) that had been voted upon before, with a view to altering it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"He shared pain, he sympathized with suffering; and his understanding of pain, and, above all, his choice of pain, taught men to reconsider it and to understand it, and altered the attitude of the world toward it."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"But when, in the clearer light of next morning, I began to reconsider the matter and to hear it discussed around me on all sides, I took another view of the case, which was more reasonable."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"But Lulu told me you had quite determined to send her away from here: I hope you will reconsider, and--let her stay," with a very coaxing look up into his face."*

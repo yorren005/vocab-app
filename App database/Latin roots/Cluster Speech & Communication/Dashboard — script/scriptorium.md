@@ -5,15 +5,6 @@ status: unread
 ---
 # scriptorium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A room in a monastery that is set aside for writing or copying manuscripts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room in a monastery that is set aside for writing or copying manuscripts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"A certain number of the brotherhood were constantly employed in the <g>Scriptorium</g>, in making copies of the most esteemed works, to furnish and augment the common library."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"In every conventual establishment there was a chamber called the <g>Scriptorium</g>, or writing-room; but it was sometimes applied to a more remote place, where there was room for other employments."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"There was an especial benediction of the Scriptorium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room in a monastery that is set aside for writing or copying manuscripts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room in a monastery that is set aside for writing or copying manuscripts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"A certain number of the brotherhood were constantly employed in the <g>Scriptorium</g>, in making copies of the most esteemed works, to furnish and augment the common library."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"In every conventual establishment there was a chamber called the <g>Scriptorium</g>, or writing-room; but it was sometimes applied to a more remote place, where there was room for other employments."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"There was an especial benediction of the Scriptorium."*

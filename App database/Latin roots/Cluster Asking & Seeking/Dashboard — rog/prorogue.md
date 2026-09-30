@@ -5,15 +5,6 @@ status: unread
 ---
 # prorogue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold back to a later time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjourn by royal prerogative; without dissolving the legislative body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Epicurean cooks Sharpen with cloyless sauce his appetite, That sleep and feeding may prorogue his honour Even till a Lethe’d dullness— Enter Varrius."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, our vessel is of Tyre, in it the king; A man who for this three months hath not spoken To anyone, nor taken sustenance But to prorogue his grief."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hear thou must, and nothing may prorogue it, On Thursday next be married to this County."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold back to a later time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjourn by royal prerogative; without dissolving the legislative body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Epicurean cooks Sharpen with cloyless sauce his appetite, That sleep and feeding may prorogue his honour Even till a Lethe’d dullness— Enter Varrius."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, our vessel is of Tyre, in it the king; A man who for this three months hath not spoken To anyone, nor taken sustenance But to prorogue his grief."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hear thou must, and nothing may prorogue it, On Thursday next be married to this County."*

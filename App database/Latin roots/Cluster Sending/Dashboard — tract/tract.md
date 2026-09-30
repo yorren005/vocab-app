@@ -5,15 +5,6 @@ status: unread
 ---
 # tract
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extended area of land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of body parts that together serve some particular purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As I belong to worship and affect In honour honesty, the tract of everything Would by a good discourser lose some life, Which action’s self was tongue to."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No levelled malice Infects one comma in the course I hold, But flies an eagle flight, bold and forth on, Leaving no tract behind."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"On the right was a tract of land, partly meadow and partly moor, reaching, at its remote verge, to a wide undulating upland."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extended area of land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of body parts that together serve some particular purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As I belong to worship and affect In honour honesty, the tract of everything Would by a good discourser lose some life, Which action’s self was tongue to."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No levelled malice Infects one comma in the course I hold, But flies an eagle flight, bold and forth on, Leaving no tract behind."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"On the right was a tract of land, partly meadow and partly moor, reaching, at its remote verge, to a wide undulating upland."*

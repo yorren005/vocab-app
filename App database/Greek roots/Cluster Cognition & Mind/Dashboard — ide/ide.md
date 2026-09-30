@@ -5,15 +5,6 @@ status: unread
 ---
 # ide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Integrated drive electronics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Binary chemical compound —added to the contracted name of the nonmetallic or more electronegative element or group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Why father, Ile go downe, an't please you let me, Because Ide see the thing they call the Gentlewoman, I see no woman but through contemplation, And there Ile doe't before the company, And wish my brother fortune. _Bri_."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Ide see you sleepe, for sure your sleepes are excellent You that are waking such a noted wonder, Must in your slumber prove an admiration: I would behold your dreames too, if't were possible; Those were rich showes. _Ang_."*
-> - 📜 **George Eliot (*Middlemarch*):** *"That is wi-ide.” Naumann’s pronunciation of the vowel seemed to stretch the word satirically."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Integrated drive electronics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Binary chemical compound —added to the contracted name of the nonmetallic or more electronegative element or group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Why father, Ile go downe, an't please you let me, Because Ide see the thing they call the Gentlewoman, I see no woman but through contemplation, And there Ile doe't before the company, And wish my brother fortune. _Bri_."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Ide see you sleepe, for sure your sleepes are excellent You that are waking such a noted wonder, Must in your slumber prove an admiration: I would behold your dreames too, if't were possible; Those were rich showes. _Ang_."*
+> - 📜 **George Eliot (*Middlemarch*):** *"That is wi-ide.” Naumann’s pronunciation of the vowel seemed to stretch the word satirically."*

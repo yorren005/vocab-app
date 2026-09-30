@@ -5,15 +5,6 @@ status: unread
 ---
 # gravedigger
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who earns a living by digging graves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who earns a living by digging graves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle in a comprehensive black cloak, being descried entering at the turnpike, the gravedigger was admonished in a friendly way, “Look out!"*
-> - 📜 **James Joyce (*Ulysses*):** *"A seventh gravedigger came beside Mr Bloom to take up an idle spade. —O, excuse me!"*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"This young woman chancing to be at a country assembly, where the gravedigger of the parish acted as master of the ceremonies, was called out to dance before Miss Gobble, who happened to be there present also with her mother."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who earns a living by digging graves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who earns a living by digging graves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle in a comprehensive black cloak, being descried entering at the turnpike, the gravedigger was admonished in a friendly way, “Look out!"*
+> - 📜 **James Joyce (*Ulysses*):** *"A seventh gravedigger came beside Mr Bloom to take up an idle spade. —O, excuse me!"*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"This young woman chancing to be at a country assembly, where the gravedigger of the parish acted as master of the ceremonies, was called out to dance before Miss Gobble, who happened to be there present also with her mother."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # encirclement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A war measure that isolates some area of importance to the enemy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A war measure that isolates some area of importance to the enemy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encirclement designates a war measure that isolates some area of importance to the enemy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A war measure that isolates some area of importance to the enemy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A war measure that isolates some area of importance to the enemy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encirclement designates a war measure that isolates some area of importance to the enemy."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # deaccession
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sell (art works) from a collection, especially in order to raise money for the purchase of other art works.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sell (art works) from a collection, especially in order to raise money for the purchase of other art works.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deaccession designates sell (art works) from a collection, especially in order to raise money for the purchase of other art works."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sell (art works) from a collection, especially in order to raise money for the purchase of other art works.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sell (art works) from a collection, especially in order to raise money for the purchase of other art works.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deaccession designates sell (art works) from a collection, especially in order to raise money for the purchase of other art works."*

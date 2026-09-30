@@ -5,14 +5,6 @@ status: unread
 ---
 # decimal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A proper fraction whose denominator is a power of 10.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A number in the decimal system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A decimal system is a great convenience in the use of money as a common denominator, but not indispensable."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As to Tom, Charley’s brother, I am really afraid to say what he did at school in ciphering, but I think it was decimals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proper fraction whose denominator is a power of 10.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A number in the decimal system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A decimal system is a great convenience in the use of money as a common denominator, but not indispensable."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"As to Tom, Charley’s brother, I am really afraid to say what he did at school in ciphering, but I think it was decimals."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # unnavigable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being navigated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being navigated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The grey, forbidding mountains, showing hardly a foothold for man or beast, tree or house, matched the grey, swirling river, here unnavigable even for rafts."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Or he will put the spittle in a frog and throw the animal into an inaccessible, unnavigable river, which will make the victim quake and shake with ague."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being navigated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being navigated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The grey, forbidding mountains, showing hardly a foothold for man or beast, tree or house, matched the grey, swirling river, here unnavigable even for rafts."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Or he will put the spittle in a frog and throw the animal into an inaccessible, unnavigable river, which will make the victim quake and shake with ague."*

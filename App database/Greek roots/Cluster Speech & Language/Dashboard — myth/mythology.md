@@ -5,15 +5,6 @@ status: unread
 ---
 # mythology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An allegorical narrative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body of myths: such as.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"To drop metaphor, while nominally investigating a particular problem of ancient mythology, I have really been discussing questions of more general interest which concern the gradual evolution of human thought from savagery to civilization."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Waiving the fact that he had not much evidence for this in the mythology, how was a man to distinguish god from daemon, to know which is which?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Yes, but what that religion needed was a great reformer, who should have cut the religion clear adrift from idols of every kind, from the old mythology, from obscenity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An allegorical narrative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body of myths: such as.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"To drop metaphor, while nominally investigating a particular problem of ancient mythology, I have really been discussing questions of more general interest which concern the gradual evolution of human thought from savagery to civilization."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Waiving the fact that he had not much evidence for this in the mythology, how was a man to distinguish god from daemon, to know which is which?"*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Yes, but what that religion needed was a great reformer, who should have cut the religion clear adrift from idols of every kind, from the old mythology, from obscenity."*

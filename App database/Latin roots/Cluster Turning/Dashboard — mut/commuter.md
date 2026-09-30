@@ -5,15 +5,6 @@ status: unread
 ---
 # commuter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A passenger train that is ridden primarily by passengers who travel regularly from one place to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who travels regularly from home in a suburb to work in a city.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The switch of weapons and holsters to clips on their inner coveralls completed, they strolled out of the storage room and mingled with a throng of citizen commuters."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Skirting knots of commuters they faced outward in a momentarily vacant slot for two along the edge of the fast moving lane."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We'll have lost the launch window." More commuters swung aboard the strip and crowded their space."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A passenger train that is ridden primarily by passengers who travel regularly from one place to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who travels regularly from home in a suburb to work in a city.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The switch of weapons and holsters to clips on their inner coveralls completed, they strolled out of the storage room and mingled with a throng of citizen commuters."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Skirting knots of commuters they faced outward in a momentarily vacant slot for two along the edge of the fast moving lane."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We'll have lost the launch window." More commuters swung aboard the strip and crowded their space."*

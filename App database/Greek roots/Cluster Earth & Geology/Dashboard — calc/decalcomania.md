@@ -5,13 +5,6 @@ status: unread
 ---
 # decalcomania
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either a design that is fixed to some surface or a paper bearing the design which is to be transferred to the surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of transfering designs from specially prepared paper to a wood or glass or metal surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decalcomania designates either a design that is fixed to some surface or a paper bearing the design which is to be transferred to the surface."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either a design that is fixed to some surface or a paper bearing the design which is to be transferred to the surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of transfering designs from specially prepared paper to a wood or glass or metal surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decalcomania designates either a design that is fixed to some surface or a paper bearing the design which is to be transferred to the surface."*

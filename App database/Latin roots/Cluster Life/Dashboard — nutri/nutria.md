@@ -5,13 +5,6 @@ status: unread
 ---
 # nutria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aquatic south american rodent resembling a small beaver; bred for its fur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aquatic south american rodent resembling a small beaver; bred for its fur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nutria designates aquatic south american rodent resembling a small beaver; bred for its fur."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aquatic south american rodent resembling a small beaver; bred for its fur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aquatic south american rodent resembling a small beaver; bred for its fur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nutria designates aquatic south american rodent resembling a small beaver; bred for its fur."*

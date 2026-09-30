@@ -5,15 +5,6 @@ status: unread
 ---
 # nates
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fleshy part of the human body that you sit on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fleshy part of the human body that you sit on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Spiritual development germi- 66:12 nates not from seed sown in the soil of material hopes, but when these decay, Love propagates anew the higher joys of Spirit, which have no taint of earth."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Because a belief origi- nates unseen, the mental state should be continually 377:18 watched that it may not produce blindly its bad effects."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Blushes furiously all over from frons to nates, three tears falling from his left eye.)_ Spare my past."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fleshy part of the human body that you sit on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fleshy part of the human body that you sit on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Spiritual development germi- 66:12 nates not from seed sown in the soil of material hopes, but when these decay, Love propagates anew the higher joys of Spirit, which have no taint of earth."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Because a belief origi- nates unseen, the mental state should be continually 377:18 watched that it may not produce blindly its bad effects."*
+> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Blushes furiously all over from frons to nates, three tears falling from his left eye.)_ Spare my past."*

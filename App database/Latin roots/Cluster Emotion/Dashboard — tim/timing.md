@@ -5,15 +5,6 @@ status: unread
 ---
 # timing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The time when something happens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The regulation of occurrence, pace, or coordination to achieve a desired effect (as in music, theater, athletics, mechanics).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Critical to the program's success is timing the Extractor's launch."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The odds were not with him but timing and surprise might even them a bit."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His timing was to be here when Camari broadcast his appeal for his convocation with INOR Heads of State."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The time when something happens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The regulation of occurrence, pace, or coordination to achieve a desired effect (as in music, theater, athletics, mechanics).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Critical to the program's success is timing the Extractor's launch."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The odds were not with him but timing and surprise might even them a bit."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His timing was to be here when Camari broadcast his appeal for his convocation with INOR Heads of State."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # asphyxiating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of oxygen and prevent from breathing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impair the respiration of or obstruct the air passage of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asphyxiating designates deprive of oxygen and prevent from breathing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of oxygen and prevent from breathing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impair the respiration of or obstruct the air passage of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asphyxiating designates deprive of oxygen and prevent from breathing."*

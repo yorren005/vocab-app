@@ -5,15 +5,6 @@ status: unread
 ---
 # misuse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Improper or excessive use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apply to a wrong thing or person; apply badly or incorrectly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am perjured most, For all my vows are oaths but to misuse thee: And all my honest faith in thee is lost."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Misuse the tenour of thy kinsman’s trust?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, who shall believe But you misuse the reverence of your place, Employ the countenance and grace of heaven As a false favourite doth his prince’s name, In deeds dishonourable?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Improper or excessive use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apply to a wrong thing or person; apply badly or incorrectly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am perjured most, For all my vows are oaths but to misuse thee: And all my honest faith in thee is lost."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Misuse the tenour of thy kinsman’s trust?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, who shall believe But you misuse the reverence of your place, Employ the countenance and grace of heaven As a false favourite doth his prince’s name, In deeds dishonourable?"*

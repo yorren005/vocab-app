@@ -5,13 +5,6 @@ status: unread
 ---
 # commando
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a military unit trained as shock troops for hit-and-run raids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amphibious military unit trained for raids into enemy territory.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"And when she died, having lived out her life just before her husband, Ralph Kenzie, went on commando with his son to the Zulu war, whither her death drove him, ah! then it ached for the last time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a military unit trained as shock troops for hit-and-run raids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amphibious military unit trained for raids into enemy territory.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"And when she died, having lived out her life just before her husband, Ralph Kenzie, went on commando with his son to the Zulu war, whither her death drove him, ah! then it ached for the last time."*

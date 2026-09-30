@@ -5,15 +5,6 @@ status: unread
 ---
 # organized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Create (as an entity).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be structured or ordered or operating according to some principle or idea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The whole string of trailing individuals advanced in the completest balance of intention, like the remarkable creatures known as Chain Salpæ, which, distinctly organized in other respects, have one will common to a whole family."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A clergyman says, "I was very anxious for the building of a mission chapel to accommodate a flourishing mission-school that had been organized under my pastorate."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"While from 1792 to 1836 almost continuously a central banking system was in operation, other banks, organized under state charters, were steadily increasing in number."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Create (as an entity).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be structured or ordered or operating according to some principle or idea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The whole string of trailing individuals advanced in the completest balance of intention, like the remarkable creatures known as Chain Salpæ, which, distinctly organized in other respects, have one will common to a whole family."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A clergyman says, "I was very anxious for the building of a mission chapel to accommodate a flourishing mission-school that had been organized under my pastorate."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"While from 1792 to 1836 almost continuously a central banking system was in operation, other banks, organized under state charters, were steadily increasing in number."*

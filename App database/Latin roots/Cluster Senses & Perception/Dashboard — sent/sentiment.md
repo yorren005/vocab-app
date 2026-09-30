@@ -5,15 +5,6 @@ status: unread
 ---
 # sentiment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tender, romantic, or nostalgic feeling or emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A personal belief or judgment that is not founded on proof or certainty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was so full of feeling too and had such a delicate sentiment for what was beautiful or tender that he could have won a heart by that alone."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But there are chords in the human mind—” Expressing the remainder of the desolate sentiment in rum-and-water, Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed is at once permitted so far to assert his supremacy as to be carried on a visit of sentiment into the next house and upstairs into Miss Flite’s deserted room, where he looks like a hideous bird of prey newly added to her aviary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tender, romantic, or nostalgic feeling or emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A personal belief or judgment that is not founded on proof or certainty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He was so full of feeling too and had such a delicate sentiment for what was beautiful or tender that he could have won a heart by that alone."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But there are chords in the human mind—” Expressing the remainder of the desolate sentiment in rum-and-water, Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed is at once permitted so far to assert his supremacy as to be carried on a visit of sentiment into the next house and upstairs into Miss Flite’s deserted room, where he looks like a hideous bird of prey newly added to her aviary."*

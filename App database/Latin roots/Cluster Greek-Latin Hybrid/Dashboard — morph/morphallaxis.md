@@ -5,13 +5,6 @@ status: unread
 ---
 # morphallaxis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regeneration on a reduced scale of a body part; observed especially in invertebrates such as certain lobsters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regeneration on a reduced scale of a body part; observed especially in invertebrates such as certain lobsters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphallaxis designates regeneration on a reduced scale of a body part; observed especially in invertebrates such as certain lobsters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regeneration on a reduced scale of a body part; observed especially in invertebrates such as certain lobsters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regeneration on a reduced scale of a body part; observed especially in invertebrates such as certain lobsters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphallaxis designates regeneration on a reduced scale of a body part; observed especially in invertebrates such as certain lobsters."*

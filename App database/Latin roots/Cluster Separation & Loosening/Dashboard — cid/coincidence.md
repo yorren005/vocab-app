@@ -5,15 +5,6 @@ status: unread
 ---
 # coincidence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that might have been arranged although it was really accidental.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of occupying the same position or area in space.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is a coincidence,” said Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George directed another succession of quick bright glances at me as my guardian and I exchanged a word or two of surprise at the coincidence, and I therefore explained to him how we knew the name."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It’s a curious coincidence, as you say,” answers Weevle, once more glancing up and down the court."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that might have been arranged although it was really accidental.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of occupying the same position or area in space.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is a coincidence,” said Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"George directed another succession of quick bright glances at me as my guardian and I exchanged a word or two of surprise at the coincidence, and I therefore explained to him how we knew the name."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It’s a curious coincidence, as you say,” answers Weevle, once more glancing up and down the court."*

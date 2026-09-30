@@ -5,13 +5,6 @@ status: unread
 ---
 # semicoma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mild comatose state; a coma from which the person can be roused by appropriate stimuli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mild comatose state; a coma from which the person can be roused by appropriate stimuli.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semicoma designates a mild comatose state; a coma from which the person can be roused by appropriate stimuli."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mild comatose state; a coma from which the person can be roused by appropriate stimuli.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mild comatose state; a coma from which the person can be roused by appropriate stimuli.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semicoma designates a mild comatose state; a coma from which the person can be roused by appropriate stimuli."*

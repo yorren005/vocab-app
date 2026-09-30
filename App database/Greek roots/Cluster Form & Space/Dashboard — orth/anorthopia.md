@@ -5,13 +5,6 @@ status: unread
 ---
 # anorthopia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distorted vision in which straight lines appear curved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distorted vision in which straight lines appear curved.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anorthopia designates distorted vision in which straight lines appear curved."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distorted vision in which straight lines appear curved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distorted vision in which straight lines appear curved.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anorthopia designates distorted vision in which straight lines appear curved."*

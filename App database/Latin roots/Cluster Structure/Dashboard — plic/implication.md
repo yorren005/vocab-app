@@ -5,15 +5,6 @@ status: unread
 ---
 # implication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that is inferred (deduced or entailed or implied).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meaning that is not expressly stated but can be inferred.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Piper, as in duty bound, is of the same opinion, holding that a private station is better than public applause, and thanking heaven for her own (and, by implication, Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “but we had better not travel out of the record into implication."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"You are in a counting-house, you know, and you look about you.” It struck me as a singular implication that you couldn’t be out of a counting-house, you know, and look about you; but I silently deferred to his experience."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that is inferred (deduced or entailed or implied).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meaning that is not expressly stated but can be inferred.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Piper, as in duty bound, is of the same opinion, holding that a private station is better than public applause, and thanking heaven for her own (and, by implication, Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “but we had better not travel out of the record into implication."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"You are in a counting-house, you know, and you look about you.” It struck me as a singular implication that you couldn’t be out of a counting-house, you know, and look about you; but I silently deferred to his experience."*

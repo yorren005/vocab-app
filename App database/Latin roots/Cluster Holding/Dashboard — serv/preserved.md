@@ -5,15 +5,6 @@ status: unread
 ---
 # preserved
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep or maintain in unaltered condition; cause to remain or last.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Keep in safety and protect from harm, decay, loss, or destruction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here on my knee I beg mortality, Rather than life preserved with infamy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Show me one scar charactered on thy skin; Men’s flesh preserved so whole do seldom win."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What cannot be preserved when fortune takes, Patience her injury a mockery makes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep or maintain in unaltered condition; cause to remain or last.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Keep in safety and protect from harm, decay, loss, or destruction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here on my knee I beg mortality, Rather than life preserved with infamy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Show me one scar charactered on thy skin; Men’s flesh preserved so whole do seldom win."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What cannot be preserved when fortune takes, Patience her injury a mockery makes."*

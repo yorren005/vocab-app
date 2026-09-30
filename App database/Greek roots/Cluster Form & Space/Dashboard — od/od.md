@@ -5,15 +5,6 @@ status: unread
 ---
 # od
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: —used as a mild oath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overdose of a narcotic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray, how far thither? ’Ods pittikins! can it be six mile yet?"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mystery of godliness Scientific healing has this advantage over other meth- ods, - that in it Truth controls error."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is a man haunts the forest that abuses our young plants with carving “Rosalind” on their barks; hangs odes upon hawthorns and elegies on brambles; all, forsooth, deifying the name of Rosalind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: —used as a mild oath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overdose of a narcotic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray, how far thither? ’Ods pittikins! can it be six mile yet?"*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mystery of godliness Scientific healing has this advantage over other meth- ods, - that in it Truth controls error."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is a man haunts the forest that abuses our young plants with carving “Rosalind” on their barks; hangs odes upon hawthorns and elegies on brambles; all, forsooth, deifying the name of Rosalind."*

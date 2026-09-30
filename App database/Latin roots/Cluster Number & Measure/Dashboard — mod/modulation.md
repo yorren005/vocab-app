@@ -5,15 +5,6 @@ status: unread
 ---
 # modulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical passage moving from one key to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (electronics) the transmission of a signal by using it to vary a carrier wave; changing the carrier's amplitude or frequency or phase.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I am very glad to hear it,” said Dorothea, laughing out her words in a bird-like modulation, and looking at Will with playful gratitude in her eyes."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The voice was not only mellifluent and clear, but the emphasis was so just, and the modulation so impassioned, that it seemed as if a heart of stone could not fail of being moved by it."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I used all my eloquence, all the persuasive flourishes of the hand, and heart-melting modulation of periods in my power, to urge her out to Harvieston, but all in vain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical passage moving from one key to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (electronics) the transmission of a signal by using it to vary a carrier wave; changing the carrier's amplitude or frequency or phase.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"I am very glad to hear it,” said Dorothea, laughing out her words in a bird-like modulation, and looking at Will with playful gratitude in her eyes."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The voice was not only mellifluent and clear, but the emphasis was so just, and the modulation so impassioned, that it seemed as if a heart of stone could not fail of being moved by it."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I used all my eloquence, all the persuasive flourishes of the hand, and heart-melting modulation of periods in my power, to urge her out to Harvieston, but all in vain."*

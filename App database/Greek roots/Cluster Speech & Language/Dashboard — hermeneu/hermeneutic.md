@@ -5,13 +5,6 @@ status: unread
 ---
 # hermeneutic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the methodological principles of interpretation (as of the Bible).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method or principle of interpretation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hermeneutic designates the study of the methodological principles of interpretation (as of the bible)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the methodological principles of interpretation (as of the Bible).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method or principle of interpretation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hermeneutic designates the study of the methodological principles of interpretation (as of the bible)."*

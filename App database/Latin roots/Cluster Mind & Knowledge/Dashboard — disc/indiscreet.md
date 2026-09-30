@@ -5,15 +5,6 @@ status: unread
 ---
 # indiscreet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking discretion; injudicious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking discretion; injudicious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For as it would ill become me to be vain, indiscreet, or a fool, So, were there a patch set on learning, to see him in a school."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will rather sue to be despised than to deceive so good a commander with so slight, so drunken, and so indiscreet an officer."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But she is a little dreaded elsewhere in consequence of an indiscreet profusion in the article of rouge and persistency in an obsolete pearl necklace like a rosary of little bird’s-eggs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking discretion; injudicious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking discretion; injudicious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For as it would ill become me to be vain, indiscreet, or a fool, So, were there a patch set on learning, to see him in a school."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will rather sue to be despised than to deceive so good a commander with so slight, so drunken, and so indiscreet an officer."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But she is a little dreaded elsewhere in consequence of an indiscreet profusion in the article of rouge and persistency in an obsolete pearl necklace like a rosary of little bird’s-eggs."*

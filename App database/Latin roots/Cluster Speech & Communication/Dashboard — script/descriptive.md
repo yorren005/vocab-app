@@ -5,15 +5,6 @@ status: unread
 ---
 # descriptive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to describe or inform or characterized by description.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing the structure of a language.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Meanwhile she folds up a cocked hat for that redoubtable old general at Bath, descriptive of her melancholy condition."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Campbell, _Witchcraft and Second Sight in the Highlands and Islands of Scotland_, p. 304: "Both the sun (_a Ghrian_) and moon (_a Ghealach_) are feminine in Gaelic, and the names are simply descriptive of their appearance."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Mackenzie, _An Historical, Topographical, and Descriptive View of the County of Northumberland_, Second Edition (Newcastle, 1825), i. 217. [502] _County Folk-lore_, vol. iv. _Northumberland_, collected by M.C."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to describe or inform or characterized by description.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing the structure of a language.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Meanwhile she folds up a cocked hat for that redoubtable old general at Bath, descriptive of her melancholy condition."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Campbell, _Witchcraft and Second Sight in the Highlands and Islands of Scotland_, p. 304: "Both the sun (_a Ghrian_) and moon (_a Ghealach_) are feminine in Gaelic, and the names are simply descriptive of their appearance."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Mackenzie, _An Historical, Topographical, and Descriptive View of the County of Northumberland_, Second Edition (Newcastle, 1825), i. 217. [502] _County Folk-lore_, vol. iv. _Northumberland_, collected by M.C."*

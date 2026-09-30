@@ -5,13 +5,6 @@ status: unread
 ---
 # nonterritorial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not displaying territoriality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not displaying territoriality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonterritorial designates not displaying territoriality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not displaying territoriality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not displaying territoriality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonterritorial designates not displaying territoriality."*

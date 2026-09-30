@@ -5,13 +5,6 @@ status: unread
 ---
 # helotry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a class of serfs in ancient Sparta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone held in forced servitude : an enslaved person or serf.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helotry designates a member of a class of serfs in ancient sparta."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a class of serfs in ancient Sparta.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone held in forced servitude : an enslaved person or serf.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helotry designates a member of a class of serfs in ancient sparta."*

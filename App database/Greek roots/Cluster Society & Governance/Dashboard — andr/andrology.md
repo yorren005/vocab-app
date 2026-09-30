@@ -5,13 +5,6 @@ status: unread
 ---
 # andrology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine concerned with the anatomy, functions, and disorders (such as infertility or impotence) of the male reproductive system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine concerned with the anatomy, functions, and disorders (such as infertility or impotence) of the male reproductive system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, andrology designates a branch of medicine concerned with the anatomy, functions, and disorders (such as infertility or impotence) of the male reproductive system."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine concerned with the anatomy, functions, and disorders (such as infertility or impotence) of the male reproductive system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine concerned with the anatomy, functions, and disorders (such as infertility or impotence) of the male reproductive system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, andrology designates a branch of medicine concerned with the anatomy, functions, and disorders (such as infertility or impotence) of the male reproductive system."*

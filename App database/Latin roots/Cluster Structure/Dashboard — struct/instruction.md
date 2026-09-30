@@ -5,15 +5,6 @@ status: unread
 ---
 # instruction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message describing how something is to be done.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activities of educating or instructing; activities that impart knowledge or skill.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My queen and Eros Have by their brave instruction got upon me A nobleness in record."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The queen, my mistress, Confined in all she has, her monument, Of thy intents desires instruction, That she preparedly may frame herself To the way she’s forced to."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their noise be our instruction.—Ladders, ho!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A message describing how something is to be done.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activities of educating or instructing; activities that impart knowledge or skill.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My queen and Eros Have by their brave instruction got upon me A nobleness in record."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The queen, my mistress, Confined in all she has, her monument, Of thy intents desires instruction, That she preparedly may frame herself To the way she’s forced to."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their noise be our instruction.—Ladders, ho!"*

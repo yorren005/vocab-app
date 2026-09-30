@@ -5,13 +5,6 @@ status: unread
 ---
 # projectionist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person who operates the projector in a movie house.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person who operates the projector in a movie house.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, projectionist designates the person who operates the projector in a movie house."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The person who operates the projector in a movie house.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person who operates the projector in a movie house.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, projectionist designates the person who operates the projector in a movie house."*

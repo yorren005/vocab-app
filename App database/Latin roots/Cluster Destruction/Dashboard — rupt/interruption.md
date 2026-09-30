@@ -5,15 +5,6 @@ status: unread
 ---
 # interruption
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of delaying or interrupting the continuity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Some abrupt occurrence that interrupts an ongoing activity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And bloody England into England gone, O’erbearing interruption, spite of France?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Famous Plantagenet, most gracious Prince, Lend favourable ear to our requests, And pardon us the interruption Of thy devotion and right Christian zeal."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She heard me out without interruption and then said with her pretty accent and in her mildest voice, “Hey, mademoiselle, I have received my answer!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of delaying or interrupting the continuity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Some abrupt occurrence that interrupts an ongoing activity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And bloody England into England gone, O’erbearing interruption, spite of France?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Famous Plantagenet, most gracious Prince, Lend favourable ear to our requests, And pardon us the interruption Of thy devotion and right Christian zeal."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"She heard me out without interruption and then said with her pretty accent and in her mildest voice, “Hey, mademoiselle, I have received my answer!"*

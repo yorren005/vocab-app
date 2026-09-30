@@ -5,15 +5,6 @@ status: unread
 ---
 # athletic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to athletes or athletics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of an athlete.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"His shape, now divested of cloak, I perceived harmonised in squareness with his physiognomy: I suppose it was a good figure in the athletic sense of the term—broad chested and thin flanked, though neither tall nor graceful."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She was a big woman, in stature almost equalling her husband, and corpulent besides: she showed virile force in the contest—more than once she almost throttled him, athletic as he was."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I distinguished them easily; they were true Papuans, with athletic figures, men of good race, large high foreheads, large, but not broad and flat, and white teeth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to athletes or athletics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of an athlete.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"His shape, now divested of cloak, I perceived harmonised in squareness with his physiognomy: I suppose it was a good figure in the athletic sense of the term—broad chested and thin flanked, though neither tall nor graceful."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She was a big woman, in stature almost equalling her husband, and corpulent besides: she showed virile force in the contest—more than once she almost throttled him, athletic as he was."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I distinguished them easily; they were true Papuans, with athletic figures, men of good race, large high foreheads, large, but not broad and flat, and white teeth."*

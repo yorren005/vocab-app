@@ -5,15 +5,6 @@ status: unread
 ---
 # incurring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acquiring or coming into something (usually undesirable).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make oneself subject to; bring upon oneself; become liable to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In fact, and I who am about to die have the right to say it without incurring the charge of immodesty, the three best minds in San Quentin from the Warden down were the three that rotted there together in solitary."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It is not to be meddled with by any, except the war chieftain and his waiter, under the penalty of incurring great evil."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He saw no way of eluding Featherstone’s stupid demand without incurring consequences which he liked less even than the task of fulfilling it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acquiring or coming into something (usually undesirable).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make oneself subject to; bring upon oneself; become liable to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In fact, and I who am about to die have the right to say it without incurring the charge of immodesty, the three best minds in San Quentin from the Warden down were the three that rotted there together in solitary."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It is not to be meddled with by any, except the war chieftain and his waiter, under the penalty of incurring great evil."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He saw no way of eluding Featherstone’s stupid demand without incurring consequences which he liked less even than the task of fulfilling it."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # valise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small overnight bag for short trips.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small overnight bag for short trips.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In fifteen minutes, the door-bell rang violently, and a gentleman, valise in hand, said, "Mrs."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He was on his way to a Bremen steamer, and all other adieus were said, all his baggage on board, except the valise in his hand."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"How plainly he’s a fugitive! no baggage, not a hat-box, valise, or carpet-bag,—no friends accompany him to the wharf with their adieux."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small overnight bag for short trips.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small overnight bag for short trips.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"In fifteen minutes, the door-bell rang violently, and a gentleman, valise in hand, said, "Mrs."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"He was on his way to a Bremen steamer, and all other adieus were said, all his baggage on board, except the valise in his hand."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"How plainly he’s a fugitive! no baggage, not a hat-box, valise, or carpet-bag,—no friends accompany him to the wharf with their adieux."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # merchantman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cargo ship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cargo ship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The _Sparwehr_ was a Dutch merchantman daring the uncharted seas for Indies beyond the Indies."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Here and there a lantern gleamed at the stern of some huge merchantman."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He gave a swaggering detail of the capture of a Spanish merchantman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cargo ship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cargo ship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The _Sparwehr_ was a Dutch merchantman daring the uncharted seas for Indies beyond the Indies."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Here and there a lantern gleamed at the stern of some huge merchantman."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He gave a swaggering detail of the capture of a Spanish merchantman."*

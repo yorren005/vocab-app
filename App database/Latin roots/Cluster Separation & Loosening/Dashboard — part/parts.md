@@ -5,15 +5,6 @@ status: unread
 ---
 # parts
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The local environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something determined in relation to something that includes it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art the grave where buried love doth live, Hung with the trophies of my lovers gone, Who all their parts of me to thee did give, That due of many, now is thine alone."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy father’s moral parts Mayst thou inherit too!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No going then, Eternity was in our lips and eyes, Bliss in our brows’ bent; none our parts so poor But was a race of heaven."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The local environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something determined in relation to something that includes it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art the grave where buried love doth live, Hung with the trophies of my lovers gone, Who all their parts of me to thee did give, That due of many, now is thine alone."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy father’s moral parts Mayst thou inherit too!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No going then, Eternity was in our lips and eyes, Bliss in our brows’ bent; none our parts so poor But was a race of heaven."*

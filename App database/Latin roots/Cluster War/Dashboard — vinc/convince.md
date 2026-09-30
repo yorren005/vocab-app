@@ -5,15 +5,6 @@ status: unread
 ---
 # convince
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make (someone) agree, understand, or realize the truth or validity of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (someone) agree, understand, or realize the truth or validity of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your Italy contains none so accomplish’d a courtier to convince the honour of my mistress, if in the holding or loss of that you term her frail."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Else might the world convince of levity As well my undertakings as your counsels; But I attest the gods, your full consent Gave wings to my propension, and cut off All fears attending on so dire a project."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or that persuasion could but thus convince me That my integrity and truth to you Might be affronted with the match and weight Of such a winnowed purity in love."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make (someone) agree, understand, or realize the truth or validity of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (someone) agree, understand, or realize the truth or validity of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your Italy contains none so accomplish’d a courtier to convince the honour of my mistress, if in the holding or loss of that you term her frail."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Else might the world convince of levity As well my undertakings as your counsels; But I attest the gods, your full consent Gave wings to my propension, and cut off All fears attending on so dire a project."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or that persuasion could but thus convince me That my integrity and truth to you Might be affronted with the match and weight Of such a winnowed purity in love."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # trembler
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who quakes and trembles with (or as with) fear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who quakes and trembles with (or as with) fear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"When the real is attained, which is announced by Science, joy is no longer a trembler, nor is hope a cheat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who quakes and trembles with (or as with) fear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who quakes and trembles with (or as with) fear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"When the real is attained, which is announced by Science, joy is no longer a trembler, nor is hope a cheat."*

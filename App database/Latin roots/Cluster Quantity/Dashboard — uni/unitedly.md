@@ -5,13 +5,6 @@ status: unread
 ---
 # unitedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With cooperation and interchange.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With cooperation and interchange.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"To tell the truth they were somewhat inclined to be lazy, but a perfect tumult of hilarity prevailed; and they worked together so unitedly, and seemed actuated by such an instinct of friendliness, that it was truly beautiful to behold."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With cooperation and interchange.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With cooperation and interchange.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"To tell the truth they were somewhat inclined to be lazy, but a perfect tumult of hilarity prevailed; and they worked together so unitedly, and seemed actuated by such an instinct of friendliness, that it was truly beautiful to behold."*

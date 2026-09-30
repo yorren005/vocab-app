@@ -5,15 +5,6 @@ status: unread
 ---
 # disservice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act intended to help that turns out badly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act intended to help that turns out badly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins began,-- “Believe me, my dear Miss Elizabeth, that your modesty, so far from doing you any disservice, rather adds to your other perfections."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Miss Crawford’s beauty did her no disservice with the Miss Bertrams."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Politically, it was no advantage to its numerous and emulous supporters, and of no disservice to its few determined opponents."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act intended to help that turns out badly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act intended to help that turns out badly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins began,-- “Believe me, my dear Miss Elizabeth, that your modesty, so far from doing you any disservice, rather adds to your other perfections."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Miss Crawford’s beauty did her no disservice with the Miss Bertrams."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Politically, it was no advantage to its numerous and emulous supporters, and of no disservice to its few determined opponents."*

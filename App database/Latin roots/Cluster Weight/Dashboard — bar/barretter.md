@@ -5,13 +5,6 @@ status: unread
 ---
 # barretter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A resistor inserted into a circuit to compensate for changes (as those arising from temperature fluctuations).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A resistor inserted into a circuit to compensate for changes (as those arising from temperature fluctuations).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barretter designates a resistor inserted into a circuit to compensate for changes (as those arising from temperature fluctuations)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A resistor inserted into a circuit to compensate for changes (as those arising from temperature fluctuations).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A resistor inserted into a circuit to compensate for changes (as those arising from temperature fluctuations).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barretter designates a resistor inserted into a circuit to compensate for changes (as those arising from temperature fluctuations)."*

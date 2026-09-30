@@ -5,15 +5,6 @@ status: unread
 ---
 # interment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ritual placing of a corpse in a grave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ritual placing of a corpse in a grave.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Gibson, who had come down to direct his sister’s interment and settle the family affairs."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Lines On The Author’s Death Written With The Supposed View Of Being Handed To Rankine After The Poet’s Interment He who of Rankine sang, lies stiff and dead, And a green grassy hillock hides his head; Alas! alas! a devilish change indeed."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Gargery had departed this life on Monday last at twenty minutes past six in the evening, and that my attendance was requested at the interment on Monday next at three o’clock in the afternoon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ritual placing of a corpse in a grave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ritual placing of a corpse in a grave.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Gibson, who had come down to direct his sister’s interment and settle the family affairs."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Lines On The Author’s Death Written With The Supposed View Of Being Handed To Rankine After The Poet’s Interment He who of Rankine sang, lies stiff and dead, And a green grassy hillock hides his head; Alas! alas! a devilish change indeed."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Gargery had departed this life on Monday last at twenty minutes past six in the evening, and that my attendance was requested at the interment on Monday next at three o’clock in the afternoon."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # crossly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ill-natured manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ill-natured manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy friends are fled, to wait upon thy foes, And crossly to thy good all fortune goes. [_Exit._] ACT III SCENE I."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Found _it_,” the Mouse replied rather crossly: “of course you know what ‘it’ means.” “I know what ‘it’ means well enough, when _I_ find a thing,” said the Duck: “it’s generally a frog or a worm."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"For such a pretty maid as ’tis, this is a fine chance!” Tess smiled crossly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ill-natured manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ill-natured manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy friends are fled, to wait upon thy foes, And crossly to thy good all fortune goes. [_Exit._] ACT III SCENE I."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Found _it_,” the Mouse replied rather crossly: “of course you know what ‘it’ means.” “I know what ‘it’ means well enough, when _I_ find a thing,” said the Duck: “it’s generally a frog or a worm."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"For such a pretty maid as ’tis, this is a fine chance!” Tess smiled crossly."*

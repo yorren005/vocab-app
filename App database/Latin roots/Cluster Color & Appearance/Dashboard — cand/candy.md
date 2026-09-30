@@ -5,15 +5,6 @@ status: unread
 ---
 # candy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rich sweet made of flavored sugar and often combined with fruit or nuts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coat with something sweet, such as a hard sugar glaze.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, what a candy deal of courtesy This fawning greyhound then did proffer me!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Orsino, this is that Antonio That took the _Phoenix_ and her fraught from Candy, And this is he that did the _Tiger_ board When your young nephew Titus lost his leg."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A red and white candy-striped umbilical snaked out from the dock and sealed against the Eagle's main portal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rich sweet made of flavored sugar and often combined with fruit or nuts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coat with something sweet, such as a hard sugar glaze.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, what a candy deal of courtesy This fawning greyhound then did proffer me!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Orsino, this is that Antonio That took the _Phoenix_ and her fraught from Candy, And this is he that did the _Tiger_ board When your young nephew Titus lost his leg."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A red and white candy-striped umbilical snaked out from the dock and sealed against the Eagle's main portal."*

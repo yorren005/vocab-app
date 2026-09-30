@@ -5,13 +5,6 @@ status: unread
 ---
 # tetrahydrocannabinol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Psychoactive substance present in marijuana.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Psychoactive substance present in marijuana.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrahydrocannabinol designates psychoactive substance present in marijuana."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Psychoactive substance present in marijuana.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Psychoactive substance present in marijuana.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrahydrocannabinol designates psychoactive substance present in marijuana."*

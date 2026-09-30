@@ -5,13 +5,6 @@ status: unread
 ---
 # colloquium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An academic meeting or seminar usually led by a different lecturer and on a different topic at each meeting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An address to an academic meeting or seminar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"MON. [76] “Nullus et monachus habeat colloquium cum maliere cognata aut extranea, in temporibus indebitis, sicut, prandii, et coenæ, et horæ meridianæ, aut tempore potûs assiguati.”--_MS."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An academic meeting or seminar usually led by a different lecturer and on a different topic at each meeting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An address to an academic meeting or seminar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"MON. [76] “Nullus et monachus habeat colloquium cum maliere cognata aut extranea, in temporibus indebitis, sicut, prandii, et coenæ, et horæ meridianæ, aut tempore potûs assiguati.”--_MS."*

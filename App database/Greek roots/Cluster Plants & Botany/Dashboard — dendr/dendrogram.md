@@ -5,13 +5,6 @@ status: unread
 ---
 # dendrogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branching diagram representing a hierarchy of categories based on degree of similarity or number of shared characteristics especially in biological taxonomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branching diagram representing a hierarchy of categories based on degree of similarity or number of shared characteristics especially in biological taxonomy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendrogram designates a branching diagram representing a hierarchy of categories based on degree of similarity or number of shared characteristics especially in biological taxonomy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branching diagram representing a hierarchy of categories based on degree of similarity or number of shared characteristics especially in biological taxonomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branching diagram representing a hierarchy of categories based on degree of similarity or number of shared characteristics especially in biological taxonomy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendrogram designates a branching diagram representing a hierarchy of categories based on degree of similarity or number of shared characteristics especially in biological taxonomy."*

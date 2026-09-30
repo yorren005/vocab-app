@@ -5,15 +5,6 @@ status: unread
 ---
 # Timothy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A European perennial grass (Phleum pratense) that has long cylindrical spikes and is widely grown for hay in the U.S.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disciple of the apostle Paul.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He loved Paul of Tarsus, liked St John, hated St James as much as he dared, and regarded with mixed feelings Timothy, Titus, and Philemon."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They were Will Aden, Abel Milliken, and Timothy Grant."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Not until morning did I hear of the return of Abel Milliken and Timothy Grant, but I was not long in learning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A European perennial grass (Phleum pratense) that has long cylindrical spikes and is widely grown for hay in the U.S.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disciple of the apostle Paul.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He loved Paul of Tarsus, liked St John, hated St James as much as he dared, and regarded with mixed feelings Timothy, Titus, and Philemon."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They were Will Aden, Abel Milliken, and Timothy Grant."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Not until morning did I hear of the return of Abel Milliken and Timothy Grant, but I was not long in learning."*

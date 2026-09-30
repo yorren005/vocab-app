@@ -5,15 +5,6 @@ status: unread
 ---
 # sorting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An operation that segregates items into groups according to a specified criterion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic cognitive process of arranging into classes or categories.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby, still opening her letters, casting her bright eyes smilingly over them, and sorting them as she spoke, “that you have a business example before you in your mother."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Liddy held up her hands and arms, coated with dust from the rubbish they were sorting, and looked imploringly at her mistress."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Ukridge was sorting the letters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An operation that segregates items into groups according to a specified criterion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic cognitive process of arranging into classes or categories.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby, still opening her letters, casting her bright eyes smilingly over them, and sorting them as she spoke, “that you have a business example before you in your mother."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Liddy held up her hands and arms, coated with dust from the rubbish they were sorting, and looked imploringly at her mistress."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Ukridge was sorting the letters."*

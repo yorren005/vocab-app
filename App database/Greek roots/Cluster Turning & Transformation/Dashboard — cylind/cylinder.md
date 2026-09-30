@@ -5,15 +5,6 @@ status: unread
 ---
 # cylinder
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The surface traced by a straight line moving parallel to a fixed straight line and intersecting a fixed planar closed curve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solid or surface bounded by a cylinder and two parallel planes cutting all its elements; especially : right circular cylinder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Squish, squash echoed the milk in the great cylinder, but never arose the sound they waited for."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It is an elongated cylinder with conical ends."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The length of this cylinder, from stem to stern, is exactly 232 feet, and its maximum breadth is twenty-six feet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surface traced by a straight line moving parallel to a fixed straight line and intersecting a fixed planar closed curve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solid or surface bounded by a cylinder and two parallel planes cutting all its elements; especially : right circular cylinder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Squish, squash echoed the milk in the great cylinder, but never arose the sound they waited for."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It is an elongated cylinder with conical ends."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The length of this cylinder, from stem to stern, is exactly 232 feet, and its maximum breadth is twenty-six feet."*

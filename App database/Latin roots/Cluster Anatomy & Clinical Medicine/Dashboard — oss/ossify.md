@@ -5,13 +5,6 @@ status: unread
 ---
 # ossify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become bony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make rigid and set into a conventional pattern.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I was placed under an X-ray examination, and was told that the joints were becoming ossified."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become bony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make rigid and set into a conventional pattern.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I was placed under an X-ray examination, and was told that the joints were becoming ossified."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # eleven-plus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (formerly in britain) an examination taken by 11 and 12 year old students to select suitable candidates for grammar school.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (formerly in britain) an examination taken by 11 and 12 year old students to select suitable candidates for grammar school.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eleven-plus designates (formerly in britain) an examination taken by 11 and 12 year old students to select suitable candidates for grammar school."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (formerly in britain) an examination taken by 11 and 12 year old students to select suitable candidates for grammar school.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (formerly in britain) an examination taken by 11 and 12 year old students to select suitable candidates for grammar school.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eleven-plus designates (formerly in britain) an examination taken by 11 and 12 year old students to select suitable candidates for grammar school."*

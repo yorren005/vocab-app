@@ -5,20 +5,6 @@ status: unread
 ---
 # gleam
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Glint
-> 2. **Nuance / Usage**: Small bright light
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"reflecting, with a pleased gleam in his face."*
-> - 📜 **George Eliot (*Middlemarch*):** *"cloud sent a bright gleam over the table."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"their naked bodies gleam with paint and oil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Glint
+> 2. **Nuance / Usage**: Small bright light
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"reflecting, with a pleased gleam in his face."*
+> - 📜 **George Eliot (*Middlemarch*):** *"cloud sent a bright gleam over the table."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"their naked bodies gleam with paint and oil."*

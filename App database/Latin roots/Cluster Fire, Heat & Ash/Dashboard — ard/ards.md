@@ -5,14 +5,6 @@ status: unread
 ---
 # ards
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute lung injury characterized by coughing and rales; inflammation of the lungs which become stiff and fibrous and cannot exchange oxygen; occurs among persons exposed to irritants such as corrosive chemical vapors or ammonia or chlorine etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acute lung injury characterized by coughing and rales; inflammation of the lungs which become stiff and fibrous and cannot exchange oxygen; occurs among persons exposed to irritants such as corrosive chemical vapors or ammonia or chlorine etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He voted for it and put on his topboots to ride to Dublin from the Ards of Down to do so."*
-> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"Here’s what the law does: The law takes a man worth six thousand dollars and up’ards, and jams him into an old trap of a cabin like this, and lets him go round in clothes that ain’t fitten for a hog."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute lung injury characterized by coughing and rales; inflammation of the lungs which become stiff and fibrous and cannot exchange oxygen; occurs among persons exposed to irritants such as corrosive chemical vapors or ammonia or chlorine etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acute lung injury characterized by coughing and rales; inflammation of the lungs which become stiff and fibrous and cannot exchange oxygen; occurs among persons exposed to irritants such as corrosive chemical vapors or ammonia or chlorine etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"He voted for it and put on his topboots to ride to Dublin from the Ards of Down to do so."*
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"Here’s what the law does: The law takes a man worth six thousand dollars and up’ards, and jams him into an old trap of a cabin like this, and lets him go round in clothes that ain’t fitten for a hog."*

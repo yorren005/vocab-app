@@ -5,13 +5,6 @@ status: unread
 ---
 # posology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The pharmacological determination of appropriate doses of drugs and medicines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pharmacological determination of appropriate doses of drugs and medicines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, posology designates the pharmacological determination of appropriate doses of drugs and medicines."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The pharmacological determination of appropriate doses of drugs and medicines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pharmacological determination of appropriate doses of drugs and medicines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, posology designates the pharmacological determination of appropriate doses of drugs and medicines."*

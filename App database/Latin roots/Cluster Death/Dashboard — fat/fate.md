@@ -5,15 +5,6 @@ status: unread
 ---
 # fate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event (or a course of events) that will inevitably happen in the future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ultimate agency regarded as predetermining the course of events (often personified as a woman).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar sits down in Alexandria, where I will oppose his fate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, good my fellows, do not please sharp fate To grace it with your sorrows."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou art privy to thy country’s fate, Which, happily, foreknowing may avoid, O speak!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An event (or a course of events) that will inevitably happen in the future.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ultimate agency regarded as predetermining the course of events (often personified as a woman).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar sits down in Alexandria, where I will oppose his fate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, good my fellows, do not please sharp fate To grace it with your sorrows."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou art privy to thy country’s fate, Which, happily, foreknowing may avoid, O speak!"*

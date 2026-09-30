@@ -5,20 +5,6 @@ status: unread
 ---
 # gloaming
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Twilight, dusk
-> 2. **Nuance / Usage**: (obsolete) sullenness; melancholy
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the gloaming withstood the storm*), direct object (*cleaved the gloaming*), or prepositional anchor (*amidst the gloaming*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anonymous (*Vocal Melodies of Scotland*):** *"Where in purple hue, the hieland hills we view / And the moon coming out in the gloaming."*
-> - 📜 **David Lodge (author) (*Thinks ...*):** *"I clung to her nipples as she soared and swooped through the gloaming, scooping up insects, and I remember the shapes of things that she flew between, above, beneath."*
-> - 📜 **Classic Author (*The Gloaming*):** *"Your alarm bells, your alarm / They should be ringing, they should be ringing / This is the gloaming"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Twilight, dusk
+> 2. **Nuance / Usage**: (obsolete) sullenness; melancholy
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the gloaming withstood the storm*), direct object (*cleaved the gloaming*), or prepositional anchor (*amidst the gloaming*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anonymous (*Vocal Melodies of Scotland*):** *"Where in purple hue, the hieland hills we view / And the moon coming out in the gloaming."*
+> - 📜 **David Lodge (author) (*Thinks ...*):** *"I clung to her nipples as she soared and swooped through the gloaming, scooping up insects, and I remember the shapes of things that she flew between, above, beneath."*
+> - 📜 **Classic Author (*The Gloaming*):** *"Your alarm bells, your alarm / They should be ringing, they should be ringing / This is the gloaming"*

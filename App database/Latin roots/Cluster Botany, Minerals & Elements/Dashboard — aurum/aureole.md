@@ -5,15 +5,6 @@ status: unread
 ---
 # aureole
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The outermost region of the sun's atmosphere; visible as a white halo during a solar eclipse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indication of radiant light drawn around the head of a saint.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"For the wind was rising and had begun to disperse the clouds, and suddenly the sun broke through, and the glory of it fell like an aureole on the young wife, and at once she vanished away."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"At this moment the setting sun flooded the poor plain room with light; the unpainted wood was all of a golden-brown, and Ann Bray, with her gray hair and aged face, stood at the head of the table in a kind of aureole."*
-> - 📜 **James Joyce (*Ulysses*):** *"His scarlet beak blazes within the aureole of his straw hat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outermost region of the sun's atmosphere; visible as a white halo during a solar eclipse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indication of radiant light drawn around the head of a saint.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"For the wind was rising and had begun to disperse the clouds, and suddenly the sun broke through, and the glory of it fell like an aureole on the young wife, and at once she vanished away."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"At this moment the setting sun flooded the poor plain room with light; the unpainted wood was all of a golden-brown, and Ann Bray, with her gray hair and aged face, stood at the head of the table in a kind of aureole."*
+> - 📜 **James Joyce (*Ulysses*):** *"His scarlet beak blazes within the aureole of his straw hat."*

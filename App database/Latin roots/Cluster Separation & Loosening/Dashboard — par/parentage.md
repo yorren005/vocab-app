@@ -5,15 +5,6 @@ status: unread
 ---
 # parentage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being a parent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The kinship relation of an offspring to the parents.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He asked me of what parentage I was."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Graceless, wilt thou deny thy parentage?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The elder of them, being put to nurse, Was by a beggar-woman stolen away, And, ignorant of his birth and parentage, Became a bricklayer when he came to age."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being a parent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The kinship relation of an offspring to the parents.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He asked me of what parentage I was."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Graceless, wilt thou deny thy parentage?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The elder of them, being put to nurse, Was by a beggar-woman stolen away, And, ignorant of his birth and parentage, Became a bricklayer when he came to age."*

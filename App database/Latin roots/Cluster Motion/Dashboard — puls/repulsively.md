@@ -5,15 +5,6 @@ status: unread
 ---
 # repulsively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an offensive and hateful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an offensive and hateful manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Anne could command herself enough to receive that look, and not repulsively."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Are you—repulsively ugly?” She laughed again."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And even that ruined and befouled house—which in dull weather was repulsively ugly—seemed quietly beautiful now, in the clear, motionless brilliance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an offensive and hateful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an offensive and hateful manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne could command herself enough to receive that look, and not repulsively."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Are you—repulsively ugly?” She laughed again."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And even that ruined and befouled house—which in dull weather was repulsively ugly—seemed quietly beautiful now, in the clear, motionless brilliance."*

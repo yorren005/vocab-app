@@ -5,13 +5,6 @@ status: unread
 ---
 # saprolegniales
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Order of chiefly aquatic fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Order of chiefly aquatic fungi.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saprolegniales designates order of chiefly aquatic fungi."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Order of chiefly aquatic fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Order of chiefly aquatic fungi.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saprolegniales designates order of chiefly aquatic fungi."*

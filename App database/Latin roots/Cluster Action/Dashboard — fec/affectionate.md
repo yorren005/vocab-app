@@ -5,15 +5,6 @@ status: unread
 ---
 # affectionate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or displaying warmth or affection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or displaying warmth or affection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"A more charming group of young people and a more wise and affectionate mother would be hard to find."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Lippo will find an affectionate protectress in her who will be able to appreciate his little-recognized virtues."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She has apparently been able to shake it off in the good care and affectionate treatment she is getting here."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or displaying warmth or affection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or displaying warmth or affection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"A more charming group of young people and a more wise and affectionate mother would be hard to find."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Lippo will find an affectionate protectress in her who will be able to appreciate his little-recognized virtues."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She has apparently been able to shake it off in the good care and affectionate treatment she is getting here."*

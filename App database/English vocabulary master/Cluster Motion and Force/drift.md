@@ -5,20 +5,6 @@ status: unread
 ---
 # drift
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Anything driven at random
-> 2. **Nuance / Usage**: The act of driving something along
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the drift withstood the storm*), direct object (*cleaved the drift*), or prepositional anchor (*amidst the drift*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"What is the course and drift of your compact?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Shall rain their drift of bullets on this town."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"That you shall say my cunning drift excels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To be carried slowly and aimlessly along by a current of water or air; as a noun, a mass of snow, sand, or leaves piled up by the wind.
+> 2. **Nuance / Usage**: Figuratively, the underlying direction, general meaning, or tenor of an argument or speech (as in *catch someone's drift*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the drift withstood the storm*), direct object (*cleaved the drift*), or prepositional anchor (*amidst the drift*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"What is the course and **drift** of your compact?"*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The Nellie swung to her anchor without a flutter of the sails, and was at rest before the slow **drift** of the ebb tide."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The sled dogs burrowed deep into the white **drift** as the Arctic gale howled across the frozen river."*

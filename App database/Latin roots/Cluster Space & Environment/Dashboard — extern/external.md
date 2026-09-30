@@ -5,15 +5,6 @@ status: unread
 ---
 # external
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Outward features.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happening or arising or located outside or beyond some limits or especially surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In all external grace you have some part, But you like none, none you for constant heart. 54 O how much more doth beauty beauteous seem, By that sweet ornament which truth doth give!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If they had swallowed poison ’twould appear By external swelling; but she looks like sleep, As she would catch another Antony In her strong toil of grace."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you be one, as you are well expressed By all external warrants, show it now By putting on the destined livery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Outward features.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happening or arising or located outside or beyond some limits or especially surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In all external grace you have some part, But you like none, none you for constant heart. 54 O how much more doth beauty beauteous seem, By that sweet ornament which truth doth give!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If they had swallowed poison ’twould appear By external swelling; but she looks like sleep, As she would catch another Antony In her strong toil of grace."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you be one, as you are well expressed By all external warrants, show it now By putting on the destined livery."*

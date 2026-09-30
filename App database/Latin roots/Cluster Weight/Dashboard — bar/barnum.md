@@ -5,15 +5,6 @@ status: unread
 ---
 # barnum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states showman who popularized the circus (1810-1891).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states showman who popularized the circus (1810-1891).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Forty hard-bitten lifers waited for the guard Barnum to go to sleep on his shift."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Barnum, who has charge of the train formerly running between Louisville and Nashville, but now transferred to the road between Nashville and Chattanooga."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Or, if happily resurrected at a somewhat earlier period, might not some enterprising Barnum of the twentieth century place on our bones the seal of centuries, and lay them with the mummies in his showcases?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states showman who popularized the circus (1810-1891).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states showman who popularized the circus (1810-1891).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Forty hard-bitten lifers waited for the guard Barnum to go to sleep on his shift."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Barnum, who has charge of the train formerly running between Louisville and Nashville, but now transferred to the road between Nashville and Chattanooga."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Or, if happily resurrected at a somewhat earlier period, might not some enterprising Barnum of the twentieth century place on our bones the seal of centuries, and lay them with the mummies in his showcases?"*

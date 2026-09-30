@@ -5,13 +5,6 @@ status: unread
 ---
 # emmetropia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (ophthalmology) the normal refractive condition of the eye in which there is clear focus of light on the retina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (ophthalmology) the normal refractive condition of the eye in which there is clear focus of light on the retina.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emmetropia designates (ophthalmology) the normal refractive condition of the eye in which there is clear focus of light on the retina."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (ophthalmology) the normal refractive condition of the eye in which there is clear focus of light on the retina.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (ophthalmology) the normal refractive condition of the eye in which there is clear focus of light on the retina.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emmetropia designates (ophthalmology) the normal refractive condition of the eye in which there is clear focus of light on the retina."*

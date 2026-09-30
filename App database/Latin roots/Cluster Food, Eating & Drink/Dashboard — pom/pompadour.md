@@ -5,14 +5,6 @@ status: unread
 ---
 # pompadour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French noblewoman who was the lover of louis xv, whose policies she influenced (1721-1764).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hair style in which the front hair is swept up from the forehead.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Perhaps the little woman thought she might play the part of a Maintenon or a Pompadour."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Clarke was dressed in pompadour, with gold buttons; and his lovely Dolly in a smart checked lutestring, a present from her mistress."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French noblewoman who was the lover of louis xv, whose policies she influenced (1721-1764).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hair style in which the front hair is swept up from the forehead.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Perhaps the little woman thought she might play the part of a Maintenon or a Pompadour."*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Clarke was dressed in pompadour, with gold buttons; and his lovely Dolly in a smart checked lutestring, a present from her mistress."*

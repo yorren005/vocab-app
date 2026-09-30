@@ -5,13 +5,6 @@ status: unread
 ---
 # tacoma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in west central washington on an arm of puget sound to the south of seattle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in west central washington on an arm of puget sound to the south of seattle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Higgins tells of preaching in a town on the Tacoma Eastern Railway in Washington: "In one town where no religious organization was at work, I held services in a dance hall, and seventy-five persons were present, sixty of whom were loggers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in west central washington on an arm of puget sound to the south of seattle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in west central washington on an arm of puget sound to the south of seattle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Higgins tells of preaching in a town on the Tacoma Eastern Railway in Washington: "In one town where no religious organization was at work, I held services in a dance hall, and seventy-five persons were present, sixty of whom were loggers."*

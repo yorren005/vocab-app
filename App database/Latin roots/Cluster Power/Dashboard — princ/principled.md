@@ -5,15 +5,6 @@ status: unread
 ---
 # principled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or manifesting objectively defined standards of rightness or morality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or manifesting objectively defined standards of rightness or morality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You think me an unfeeling, loose-principled rake: don’t you?” “I don’t like you so well as I have done sometimes, indeed, sir."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"As she grew up, a sound English education corrected in a great measure her French defects; and when she left school, I found in her a pleasing and obliging companion: docile, good-tempered, and well-principled."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But the Tollers have welcomed Ned all the same.” “I am sure he is a very deserving, well-principled young man,” said Rosamond, with a neat air of patronage in return for Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or manifesting objectively defined standards of rightness or morality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or manifesting objectively defined standards of rightness or morality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You think me an unfeeling, loose-principled rake: don’t you?” “I don’t like you so well as I have done sometimes, indeed, sir."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"As she grew up, a sound English education corrected in a great measure her French defects; and when she left school, I found in her a pleasing and obliging companion: docile, good-tempered, and well-principled."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But the Tollers have welcomed Ned all the same.” “I am sure he is a very deserving, well-principled young man,” said Rosamond, with a neat air of patronage in return for Mrs."*

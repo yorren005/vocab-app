@@ -5,13 +5,6 @@ status: unread
 ---
 # sylvanite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A silver-white mineral consisting of silver gold telluride; a source of gold in australia and america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A silver-white mineral consisting of silver gold telluride; a source of gold in australia and america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sylvanite designates a silver-white mineral consisting of silver gold telluride; a source of gold in australia and america."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A silver-white mineral consisting of silver gold telluride; a source of gold in australia and america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A silver-white mineral consisting of silver gold telluride; a source of gold in australia and america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sylvanite designates a silver-white mineral consisting of silver gold telluride; a source of gold in australia and america."*

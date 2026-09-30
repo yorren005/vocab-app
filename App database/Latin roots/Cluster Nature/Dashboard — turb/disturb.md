@@ -5,15 +5,6 @@ status: unread
 ---
 # disturb
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move deeply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change the arrangement or position of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In food, in sport, and life-preserving rest To be disturb’d would mad or man or beast."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My liege, I am advised what I say, Neither disturb’d with the effect of wine, Nor heady-rash, provok’d with raging ire, Albeit my wrongs might make one wiser mad."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell him he hath made a match with such a wrangler That all the courts of France will be disturb’d With chaces."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move deeply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change the arrangement or position of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In food, in sport, and life-preserving rest To be disturb’d would mad or man or beast."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My liege, I am advised what I say, Neither disturb’d with the effect of wine, Nor heady-rash, provok’d with raging ire, Albeit my wrongs might make one wiser mad."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell him he hath made a match with such a wrangler That all the courts of France will be disturb’d With chaces."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # clinic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A facility (as of a hospital) for diagnosis and treatment of outpatients.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group practice in which several physicians work cooperatively.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"And no wonder, for besides his parish work he was forever running here and there—to the juvenile detention home, the clinic for alcoholics, the mental health center, the Black ghetto."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"In the inner office Van Horn, his dress coat off, gave the chloroform while the Scotchman set the arm; and the American surgeons, no longer crowding, but standing off respectfully as if at a clinic, looked on critically."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Do your base officials routinely check with local crisis clinics to find out the number and types of distress calls being received from military people?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A facility (as of a hospital) for diagnosis and treatment of outpatients.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group practice in which several physicians work cooperatively.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"And no wonder, for besides his parish work he was forever running here and there—to the juvenile detention home, the clinic for alcoholics, the mental health center, the Black ghetto."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"In the inner office Van Horn, his dress coat off, gave the chloroform while the Scotchman set the arm; and the American surgeons, no longer crowding, but standing off respectfully as if at a clinic, looked on critically."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Do your base officials routinely check with local crisis clinics to find out the number and types of distress calls being received from military people?"*

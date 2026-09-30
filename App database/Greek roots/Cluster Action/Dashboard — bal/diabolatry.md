@@ -5,13 +5,6 @@ status: unread
 ---
 # diabolatry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The acts or rites of worshiping devils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The acts or rites of worshiping devils.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diabolatry designates the acts or rites of worshiping devils."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The acts or rites of worshiping devils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The acts or rites of worshiping devils.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diabolatry designates the acts or rites of worshiping devils."*

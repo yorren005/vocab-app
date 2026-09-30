@@ -5,15 +5,6 @@ status: unread
 ---
 # presbyterianism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrines and practices of the presbyterian church: based in calvinism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrines and practices of the presbyterian church: based in calvinism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Its adherents, who included perhaps one-third of the ministers and people of the Church, were specially numerous in the Highlands, where United Presbyterianism was practically unrepresented."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The petulant threat of some, that in the event of Disestablishment they would abandon Presbyterianism, he absolutely declined to notice."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The system of doctrine taught by it demands thorough preparation for the effort of Presbyterianism has ever been directed to the intellect rather than to the emotions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrines and practices of the presbyterian church: based in calvinism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrines and practices of the presbyterian church: based in calvinism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Its adherents, who included perhaps one-third of the ministers and people of the Church, were specially numerous in the Highlands, where United Presbyterianism was practically unrepresented."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"The petulant threat of some, that in the event of Disestablishment they would abandon Presbyterianism, he absolutely declined to notice."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The system of doctrine taught by it demands thorough preparation for the effort of Presbyterianism has ever been directed to the intellect rather than to the emotions."*

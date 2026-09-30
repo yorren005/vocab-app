@@ -5,15 +5,6 @@ status: unread
 ---
 # acquiescence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acceptance without protest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agreement with a statement or proposal to do something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It’s a quiet place.” Jobling nods intelligence and acquiescence."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet’s face expresses, so far as in its wooden material lies, the highest approbation and acquiescence."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn returns methodically as he softly rubs his hands, “I should like to be assured of your acquiescence in my arrangements, Lady Dedlock.” “You may be assured of it.” “Good."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acceptance without protest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agreement with a statement or proposal to do something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It’s a quiet place.” Jobling nods intelligence and acquiescence."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet’s face expresses, so far as in its wooden material lies, the highest approbation and acquiescence."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn returns methodically as he softly rubs his hands, “I should like to be assured of your acquiescence in my arrangements, Lady Dedlock.” “You may be assured of it.” “Good."*

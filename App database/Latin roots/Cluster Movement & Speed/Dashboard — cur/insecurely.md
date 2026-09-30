@@ -5,15 +5,6 @@ status: unread
 ---
 # insecurely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tentative and self-conscious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner involving risk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"And now let's get in and have something to eat, for goodness' sake." The kitchen window proved to be insecurely latched."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"My stores and bedding and other things were packed in large covered baskets insecurely fastened with padlocks."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The sight of a Mongol woman astride a galloping pony was not a thing to be forgotten; ears of hair flapping, high hat insecurely poised on top, silver ornaments and white teeth flashing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tentative and self-conscious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner involving risk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"And now let's get in and have something to eat, for goodness' sake." The kitchen window proved to be insecurely latched."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"My stores and bedding and other things were packed in large covered baskets insecurely fastened with padlocks."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The sight of a Mongol woman astride a galloping pony was not a thing to be forgotten; ears of hair flapping, high hat insecurely poised on top, silver ornaments and white teeth flashing."*

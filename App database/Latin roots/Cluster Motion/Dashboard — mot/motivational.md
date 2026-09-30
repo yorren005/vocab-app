@@ -5,14 +5,6 @@ status: unread
 ---
 # motivational
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to motivation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to motivation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Each of you will be full to the brim with motivational boosters to keep you oriented to the mission."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Emphasis on adult education, support group discussions, and motivational training can help to reduce such barriers among middle year's adults (parents of school age children) as well as the elderly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to motivation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to motivation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Each of you will be full to the brim with motivational boosters to keep you oriented to the mission."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Emphasis on adult education, support group discussions, and motivational training can help to reduce such barriers among middle year's adults (parents of school age children) as well as the elderly."*

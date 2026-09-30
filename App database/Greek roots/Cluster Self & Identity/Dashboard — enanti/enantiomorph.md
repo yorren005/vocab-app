@@ -5,13 +5,6 @@ status: unread
 ---
 # enantiomorph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enantiomer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of a pair of crystals (as of quartz) that are structural mirror images.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enantiomorph designates enantiomer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enantiomer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of a pair of crystals (as of quartz) that are structural mirror images.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enantiomorph designates enantiomer."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # protestation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal and solemn declaration of objection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong declaration of protest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She kneels, and makes show of protestation unto him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, before God, Kate, I cannot look greenly, nor gasp out my eloquence, nor I have no cunning in protestation; only downright oaths, which I never use till urg’d, nor never break for urging."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I can but say their protestation over."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal and solemn declaration of objection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong declaration of protest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She kneels, and makes show of protestation unto him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, before God, Kate, I cannot look greenly, nor gasp out my eloquence, nor I have no cunning in protestation; only downright oaths, which I never use till urg’d, nor never break for urging."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I can but say their protestation over."*

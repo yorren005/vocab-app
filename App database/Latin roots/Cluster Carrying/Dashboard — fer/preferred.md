@@ -5,15 +5,6 @@ status: unread
 ---
 # preferred
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Like better; value more highly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Select as an alternative over another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace, son!—And show some reason, Buckingham, Why Somerset should be preferred in this."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Large gifts have I bestowed on learned clerks, Because my book preferred me to the King."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stokesley and Gardiner, the one of Winchester, Newly preferred from the King’s secretary; The other, London."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Like better; value more highly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Select as an alternative over another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace, son!—And show some reason, Buckingham, Why Somerset should be preferred in this."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Large gifts have I bestowed on learned clerks, Because my book preferred me to the King."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stokesley and Gardiner, the one of Winchester, Newly preferred from the King’s secretary; The other, London."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # portsmouth
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city in southeastern virginia on the elizabeth river opposite norfolk; naval base; shipyards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port town in southeastern new hampshire on the atlantic ocean.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"You were living with your husband, and were the only woman on board.” “But you, yourself, brought Mrs Harville, her sister, her cousin, and three children, round from Portsmouth to Plymouth."*
-> - 📜 **Jane Austen (*Persuasion*):** *"I was at Plymouth dreading to hear of him; he sent in letters, but the Grappler was under orders for Portsmouth."*
-> - 📜 **Jane Austen (*Persuasion*):** *"He stood his chance for the rest; wrote up for leave of absence, but without waiting the return, travelled night and day till he got to Portsmouth, rowed off to the Grappler that instant, and never left the poor fellow for a week."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city in southeastern virginia on the elizabeth river opposite norfolk; naval base; shipyards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port town in southeastern new hampshire on the atlantic ocean.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"You were living with your husband, and were the only woman on board.” “But you, yourself, brought Mrs Harville, her sister, her cousin, and three children, round from Portsmouth to Plymouth."*
+> - 📜 **Jane Austen (*Persuasion*):** *"I was at Plymouth dreading to hear of him; he sent in letters, but the Grappler was under orders for Portsmouth."*
+> - 📜 **Jane Austen (*Persuasion*):** *"He stood his chance for the rest; wrote up for leave of absence, but without waiting the return, travelled night and day till he got to Portsmouth, rowed off to the Grappler that instant, and never left the poor fellow for a week."*

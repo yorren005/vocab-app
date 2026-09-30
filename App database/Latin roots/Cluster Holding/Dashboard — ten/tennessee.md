@@ -5,15 +5,6 @@ status: unread
 ---
 # tennessee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in east central united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river formed by the confluence of two other rivers near knoxville; it follows a u-shaped course to become a tributary of the ohio river in western kentucky.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Please, God, let a good man be in Glendale, Tennessee, who will understand and protect me--no, that's the wrong prayer!"*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Paris and London and New York are nice safe places to live in, in comparison with Glendale, Tennessee, in some respects."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"If any jungle explorer thinks he has mapped and charted a woman's heart he had better pack up his instruments of warfare and recorders and come down to Glendale, Tennessee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in east central united states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river formed by the confluence of two other rivers near knoxville; it follows a u-shaped course to become a tributary of the ohio river in western kentucky.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Please, God, let a good man be in Glendale, Tennessee, who will understand and protect me--no, that's the wrong prayer!"*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Paris and London and New York are nice safe places to live in, in comparison with Glendale, Tennessee, in some respects."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"If any jungle explorer thinks he has mapped and charted a woman's heart he had better pack up his instruments of warfare and recorders and come down to Glendale, Tennessee."*

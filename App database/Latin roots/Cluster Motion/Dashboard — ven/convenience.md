@@ -5,15 +5,6 @@ status: unread
 ---
 # convenience
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being suitable or opportune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being useful and convenient.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll beat him, by my life, if I can meet him with any convenience, an he were double and double a lord."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such is his noble purpose, and, believe’t, The duke will lay upon him all the honour That good convenience claims."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s further think of this, Weigh what convenience both of time and means May fit us to our shape."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being suitable or opportune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being useful and convenient.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll beat him, by my life, if I can meet him with any convenience, an he were double and double a lord."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such is his noble purpose, and, believe’t, The duke will lay upon him all the honour That good convenience claims."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s further think of this, Weigh what convenience both of time and means May fit us to our shape."*

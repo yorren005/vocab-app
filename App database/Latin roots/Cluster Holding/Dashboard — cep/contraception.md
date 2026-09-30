@@ -5,13 +5,6 @@ status: unread
 ---
 # contraception
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Birth control by the use of devices (diaphragm or intrauterine device or condom) or drugs or surgery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Birth control by the use of devices (diaphragm or intrauterine device or condom) or drugs or surgery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contraception designates birth control by the use of devices (diaphragm or intrauterine device or condom) or drugs or surgery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Birth control by the use of devices (diaphragm or intrauterine device or condom) or drugs or surgery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Birth control by the use of devices (diaphragm or intrauterine device or condom) or drugs or surgery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contraception designates birth control by the use of devices (diaphragm or intrauterine device or condom) or drugs or surgery."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # sylviidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications considered a subfamily (sylviinae) of the family muscicapidae: old world (true) warblers; american kinglets and gnatcatchers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications considered a subfamily (sylviinae) of the family muscicapidae: old world (true) warblers; american kinglets and gnatcatchers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sylviidae designates in some classifications considered a subfamily (sylviinae) of the family muscicapidae: old world (true) warblers; american kinglets and gnatcatchers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications considered a subfamily (sylviinae) of the family muscicapidae: old world (true) warblers; american kinglets and gnatcatchers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications considered a subfamily (sylviinae) of the family muscicapidae: old world (true) warblers; american kinglets and gnatcatchers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sylviidae designates in some classifications considered a subfamily (sylviinae) of the family muscicapidae: old world (true) warblers; american kinglets and gnatcatchers."*

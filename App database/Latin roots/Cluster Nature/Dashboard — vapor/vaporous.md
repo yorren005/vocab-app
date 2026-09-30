@@ -5,15 +5,6 @@ status: unread
 ---
 # vaporous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So thin as to transmit light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling or characteristic of vapor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The vaporous night approaches."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is iron-dust on everything; and the smoke is seen through the windows rolling heavily out of the tall chimneys to mingle with the smoke from a vaporous Babylon of other chimneys."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The coldest moon of an idea rises haloed through his vaporous imagination."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: So thin as to transmit light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling or characteristic of vapor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The vaporous night approaches."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There is iron-dust on everything; and the smoke is seen through the windows rolling heavily out of the tall chimneys to mingle with the smoke from a vaporous Babylon of other chimneys."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The coldest moon of an idea rises haloed through his vaporous imagination."*

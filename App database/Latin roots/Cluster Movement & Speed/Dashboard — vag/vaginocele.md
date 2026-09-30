@@ -5,13 +5,6 @@ status: unread
 ---
 # vaginocele
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hernia projecting into the vagina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hernia projecting into the vagina.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vaginocele designates hernia projecting into the vagina."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hernia projecting into the vagina.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hernia projecting into the vagina.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vaginocele designates hernia projecting into the vagina."*

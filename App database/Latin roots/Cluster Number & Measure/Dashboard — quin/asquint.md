@@ -5,14 +5,6 @@ status: unread
 ---
 # asquint
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used especially of glances) directed to one side with or as if with doubt or suspicion or envy; - elizabeth bowen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used especially of glances) directed to one side with or as if with doubt or suspicion or envy; - elizabeth bowen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That eye that told you so look’d but asquint."*
-> - 📜 **James Joyce (*Ulysses*):** *"Corny Kelleher, asquint, drawls at the horse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (used especially of glances) directed to one side with or as if with doubt or suspicion or envy; - elizabeth bowen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used especially of glances) directed to one side with or as if with doubt or suspicion or envy; - elizabeth bowen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That eye that told you so look’d but asquint."*
+> - 📜 **James Joyce (*Ulysses*):** *"Corny Kelleher, asquint, drawls at the horse."*

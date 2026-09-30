@@ -5,13 +5,6 @@ status: unread
 ---
 # temporalty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worldly possessions of a church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In christianity, members of a religious community that do not have the priestly responsibilities of ordained clergy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, temporalty designates the worldly possessions of a church."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The worldly possessions of a church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In christianity, members of a religious community that do not have the priestly responsibilities of ordained clergy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, temporalty designates the worldly possessions of a church."*

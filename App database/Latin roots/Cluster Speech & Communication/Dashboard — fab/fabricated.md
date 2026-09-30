@@ -5,15 +5,6 @@ status: unread
 ---
 # fabricated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put together out of artificial or natural components or parts; ; ; he manufactured a popular cereal".
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make up something artificial or untrue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Of the fabricated tastes of good fashionable society she knew but little, and of the formulated self-indulgence of bad, nothing at all."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"To him, daily, Cecil Winwood was reporting the progress of the break—all fancied and fabricated in his own imagination."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In old Norse times, the thrones of the sea-loving Danish kings were fabricated, saith tradition, of the tusks of the narwhale."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put together out of artificial or natural components or parts; ; ; he manufactured a popular cereal".
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make up something artificial or untrue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Of the fabricated tastes of good fashionable society she knew but little, and of the formulated self-indulgence of bad, nothing at all."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"To him, daily, Cecil Winwood was reporting the progress of the break—all fancied and fabricated in his own imagination."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In old Norse times, the thrones of the sea-loving Danish kings were fabricated, saith tradition, of the tusks of the narwhale."*

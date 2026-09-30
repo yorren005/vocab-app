@@ -5,15 +5,6 @@ status: unread
 ---
 # ordained
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Order by virtue of superior authority; decree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appoint to a clerical posts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A holy maid hither with me I bring, Which, by a vision sent to her from heaven Ordained is to raise this tedious siege And drive the English forth the bounds of France."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wast thou ordained, dear father, To lose thy youth in peace, and to achieve The silver livery of advised age, And, in thy reverence and thy chair-days, thus To die in ruffian battle?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Die, prophet, in thy speech. [_Stabs him._] For this, amongst the rest, was I ordained."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Order by virtue of superior authority; decree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appoint to a clerical posts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A holy maid hither with me I bring, Which, by a vision sent to her from heaven Ordained is to raise this tedious siege And drive the English forth the bounds of France."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wast thou ordained, dear father, To lose thy youth in peace, and to achieve The silver livery of advised age, And, in thy reverence and thy chair-days, thus To die in ruffian battle?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Die, prophet, in thy speech. [_Stabs him._] For this, amongst the rest, was I ordained."*

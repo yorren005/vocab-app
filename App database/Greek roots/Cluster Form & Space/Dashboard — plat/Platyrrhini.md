@@ -5,13 +5,6 @@ status: unread
 ---
 # platyrrhini
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: New world monkeys: capuchin; douroucouli; howler monkey; saki; spider monkey; squirrel monkey; titi; uakari; woolly monkey; marmoset; tamarin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New world monkeys: capuchin; douroucouli; howler monkey; saki; spider monkey; squirrel monkey; titi; uakari; woolly monkey; marmoset; tamarin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Platyrrhini designates new world monkeys: capuchin; douroucouli; howler monkey; saki; spider monkey; squirrel monkey; titi; uakari; woolly monkey; marmoset; tamarin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: New world monkeys: capuchin; douroucouli; howler monkey; saki; spider monkey; squirrel monkey; titi; uakari; woolly monkey; marmoset; tamarin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New world monkeys: capuchin; douroucouli; howler monkey; saki; spider monkey; squirrel monkey; titi; uakari; woolly monkey; marmoset; tamarin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Platyrrhini designates new world monkeys: capuchin; douroucouli; howler monkey; saki; spider monkey; squirrel monkey; titi; uakari; woolly monkey; marmoset; tamarin."*

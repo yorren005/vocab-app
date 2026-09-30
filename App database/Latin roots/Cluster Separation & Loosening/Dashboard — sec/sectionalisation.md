@@ -5,13 +5,6 @@ status: unread
 ---
 # sectionalisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of dividing or partitioning; separation by the creation of a boundary that divides or keeps apart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of dividing or partitioning; separation by the creation of a boundary that divides or keeps apart.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sectionalisation designates the act of dividing or partitioning; separation by the creation of a boundary that divides or keeps apart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of dividing or partitioning; separation by the creation of a boundary that divides or keeps apart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of dividing or partitioning; separation by the creation of a boundary that divides or keeps apart.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sectionalisation designates the act of dividing or partitioning; separation by the creation of a boundary that divides or keeps apart."*

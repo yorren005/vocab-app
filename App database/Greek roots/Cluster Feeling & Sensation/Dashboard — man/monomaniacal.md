@@ -5,13 +5,6 @@ status: unread
 ---
 # monomaniacal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obsessed with a single subject or idea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obsessed with a single subject or idea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grant Allen (*Michael's Crag*):** *"Well suppressed, indeed, and kept firmly in check for his daughter's sake, and by his brave wife's aid; but insanity, none the less, of the profoundest monomaniacal pattern, for all that."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obsessed with a single subject or idea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obsessed with a single subject or idea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grant Allen (*Michael's Crag*):** *"Well suppressed, indeed, and kept firmly in check for his daughter's sake, and by his brave wife's aid; but insanity, none the less, of the profoundest monomaniacal pattern, for all that."*

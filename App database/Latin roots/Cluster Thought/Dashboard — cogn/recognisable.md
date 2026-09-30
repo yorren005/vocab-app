@@ -5,15 +5,6 @@ status: unread
 ---
 # recognisable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being recognized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being recognized.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Even in his descriptive passages the dream-character of his scenery is notorious; it is not the clear, recognisable scenery of Wordsworth, but a landscape that hovers athwart the heat and haze arising from his crackling fantasies."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I was not related to the outlaw, or connected with him by any recognisable tie; he had put his hand to no writing or settlement in my favour before his apprehension, and to do so now would be idle."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It rested upon two figures which, in spite of increasing distance, were still sufficiently salient; they were recognisable without difficulty as those of Caspar Goodwood and Lord Warburton."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being recognized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being recognized.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Even in his descriptive passages the dream-character of his scenery is notorious; it is not the clear, recognisable scenery of Wordsworth, but a landscape that hovers athwart the heat and haze arising from his crackling fantasies."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I was not related to the outlaw, or connected with him by any recognisable tie; he had put his hand to no writing or settlement in my favour before his apprehension, and to do so now would be idle."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It rested upon two figures which, in spite of increasing distance, were still sufficiently salient; they were recognisable without difficulty as those of Caspar Goodwood and Lord Warburton."*

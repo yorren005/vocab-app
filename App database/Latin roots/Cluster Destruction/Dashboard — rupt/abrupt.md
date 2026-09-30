@@ -5,15 +5,6 @@ status: unread
 ---
 # abrupt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by sudden changes in subject and sharp transitions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exceedingly sudden and unexpected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stay, my Lord Talbot, for my lady craves To know the cause of your abrupt departure."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce was turning to speak to us when his attention was attracted by the abrupt entrance into the room of the Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"How do you like her, my dear?” In answer to this question, which was oddly abrupt, I said I liked her very much and thought she was more agreeable than she used to be."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by sudden changes in subject and sharp transitions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exceedingly sudden and unexpected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stay, my Lord Talbot, for my lady craves To know the cause of your abrupt departure."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce was turning to speak to us when his attention was attracted by the abrupt entrance into the room of the Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"How do you like her, my dear?” In answer to this question, which was oddly abrupt, I said I liked her very much and thought she was more agreeable than she used to be."*

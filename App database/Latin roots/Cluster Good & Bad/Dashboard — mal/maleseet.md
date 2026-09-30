@@ -5,13 +5,6 @@ status: unread
 ---
 # maleseet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The algonquian language of the malecite and passamaquody.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The algonquian language of the malecite and passamaquody.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maleseet designates the algonquian language of the malecite and passamaquody."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The algonquian language of the malecite and passamaquody.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The algonquian language of the malecite and passamaquody.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maleseet designates the algonquian language of the malecite and passamaquody."*

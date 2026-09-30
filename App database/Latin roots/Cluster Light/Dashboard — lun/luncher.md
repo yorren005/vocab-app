@@ -5,13 +5,6 @@ status: unread
 ---
 # luncher
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is eating lunch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is eating lunch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"Philip, having the power to choose his own time for meals, and frequenting this old house, sometimes met Barter in the act of coming away from it with the dregs of the stream of the late lunchers or diners."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is eating lunch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is eating lunch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"Philip, having the power to choose his own time for meals, and frequenting this old house, sometimes met Barter in the act of coming away from it with the dregs of the stream of the late lunchers or diners."*

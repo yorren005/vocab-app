@@ -5,13 +5,6 @@ status: unread
 ---
 # gymnogyps
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing solely the california condor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing solely the california condor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnogyps designates containing solely the california condor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing solely the california condor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing solely the california condor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnogyps designates containing solely the california condor."*

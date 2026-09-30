@@ -5,15 +5,6 @@ status: unread
 ---
 # relaxing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become less tense, rest, or take one's ease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less taut.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet with the warmest enthusiasm, though without relaxing the rigidity of a single muscle."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"If I'm complaisant, that's enough," said Bernard, his features relaxing into a broad grin."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But, though Lawrence knew all, Val had never relaxed the strain before him: was incapable of relaxing it before any spectator."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become less tense, rest, or take one's ease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less taut.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet with the warmest enthusiasm, though without relaxing the rigidity of a single muscle."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"If I'm complaisant, that's enough," said Bernard, his features relaxing into a broad grin."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"But, though Lawrence knew all, Val had never relaxed the strain before him: was incapable of relaxing it before any spectator."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # phonophobia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An intolerance of or hypersensitivity to sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fear of sounds and especially loud, sudden sounds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonophobia designates an intolerance of or hypersensitivity to sound."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intolerance of or hypersensitivity to sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fear of sounds and especially loud, sudden sounds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonophobia designates an intolerance of or hypersensitivity to sound."*

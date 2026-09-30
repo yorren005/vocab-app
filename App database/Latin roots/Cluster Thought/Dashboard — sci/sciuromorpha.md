@@ -5,13 +5,6 @@ status: unread
 ---
 # sciuromorpha
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large more or less primitive rodents: squirrels; marmots; gophers; beavers; etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large more or less primitive rodents: squirrels; marmots; gophers; beavers; etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sciuromorpha designates large more or less primitive rodents: squirrels; marmots; gophers; beavers; etc."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large more or less primitive rodents: squirrels; marmots; gophers; beavers; etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large more or less primitive rodents: squirrels; marmots; gophers; beavers; etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sciuromorpha designates large more or less primitive rodents: squirrels; marmots; gophers; beavers; etc."*

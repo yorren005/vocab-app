@@ -5,15 +5,6 @@ status: unread
 ---
 # sanely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With good sense or in a reasonable or intelligent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sane or lucid manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Thy shrunk voice sounds too calmly, sanely woful to me."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He thought: Alan was in love with this woman and this woman with Alan, and Alan had looked ahead sanely, seen, decided."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Five years, going on six now, since he had left the sea, and invested his fortune in a Belfast shipyard, and taken over the homestead of Clan Campbell to run as it had always been run, wisely, sanely, healthily...."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With good sense or in a reasonable or intelligent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sane or lucid manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Thy shrunk voice sounds too calmly, sanely woful to me."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He thought: Alan was in love with this woman and this woman with Alan, and Alan had looked ahead sanely, seen, decided."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Five years, going on six now, since he had left the sea, and invested his fortune in a Belfast shipyard, and taken over the homestead of Clan Campbell to run as it had always been run, wisely, sanely, healthily...."*

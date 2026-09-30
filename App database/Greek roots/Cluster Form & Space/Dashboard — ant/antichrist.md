@@ -5,15 +5,6 @@ status: unread
 ---
 # antichrist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who denies or opposes Christ; specifically : a great antagonist expected to fill the world with wickedness but to be conquered forever by Christ at his second coming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: —used in an exaggerated way to describe a person regarded as a powerful and malevolent adversary—usually used with the.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode felt that his mode of talking about Catholic countries, as if there were any truce with Antichrist, illustrated the usual tendency to unsoundness in intellectual men."*
-> - 📜 **James Joyce (*Ulysses*):** *"FLORRY: _(Offended.)_ Well, it was in the papers about Antichrist."*
-> - 📜 **James Joyce (*Ulysses*):** *"Safe arrival of Antichrist. _(Stephen turns and sees Bloom.)_ STEPHEN: A time, times and half a time. _(Reuben J Antichrist, wandering jew, a clutching hand open on his spine, stumps forward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who denies or opposes Christ; specifically : a great antagonist expected to fill the world with wickedness but to be conquered forever by Christ at his second coming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: —used in an exaggerated way to describe a person regarded as a powerful and malevolent adversary—usually used with the.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode felt that his mode of talking about Catholic countries, as if there were any truce with Antichrist, illustrated the usual tendency to unsoundness in intellectual men."*
+> - 📜 **James Joyce (*Ulysses*):** *"FLORRY: _(Offended.)_ Well, it was in the papers about Antichrist."*
+> - 📜 **James Joyce (*Ulysses*):** *"Safe arrival of Antichrist. _(Stephen turns and sees Bloom.)_ STEPHEN: A time, times and half a time. _(Reuben J Antichrist, wandering jew, a clutching hand open on his spine, stumps forward."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # string
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lightweight cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stringed instruments that are played with a bow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have sounded the very base-string of humility."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I kiss his dirty shoe, and from heart-string I love the lovely bully."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would ’twere something that would fret the string, The master-cord on ’s heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lightweight cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stringed instruments that are played with a bow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have sounded the very base-string of humility."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I kiss his dirty shoe, and from heart-string I love the lovely bully."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would ’twere something that would fret the string, The master-cord on ’s heart."*

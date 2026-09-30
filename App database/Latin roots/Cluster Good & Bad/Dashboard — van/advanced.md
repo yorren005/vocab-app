@@ -5,15 +5,6 @@ status: unread
 ---
 # advanced
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move forward, also in the metaphorical sense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring forward for consideration or acceptance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An Advanced post of the Volscian camp before Rome."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An Advanced post of the Volscian camp before Rome."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These flags of France, that are advanced here Before the eye and prospect of your town, Have hither march’d to your endamagement."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move forward, also in the metaphorical sense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring forward for consideration or acceptance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An Advanced post of the Volscian camp before Rome."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An Advanced post of the Volscian camp before Rome."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These flags of France, that are advanced here Before the eye and prospect of your town, Have hither march’d to your endamagement."*

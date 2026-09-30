@@ -5,14 +5,6 @@ status: unread
 ---
 # vulgarism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An offensive or indecent word or phrase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of lacking taste and refinement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It was a vulgarism. [56] Galen, extant in Arabic in _hist. anteislam_. _Abulfedae_ (ed."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Visions of good and ill breeding, of old vulgarisms and new gentilities, were before her; and she was meditating much upon silver forks, napkins, and finger-glasses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An offensive or indecent word or phrase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of lacking taste and refinement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It was a vulgarism. [56] Galen, extant in Arabic in _hist. anteislam_. _Abulfedae_ (ed."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Visions of good and ill breeding, of old vulgarisms and new gentilities, were before her; and she was meditating much upon silver forks, napkins, and finger-glasses."*

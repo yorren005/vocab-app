@@ -5,13 +5,6 @@ status: unread
 ---
 # acanthus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus acanthus having large spiny leaves and spikes or white or purplish flowers; native to mediterranean region but widely cultivated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus acanthus having large spiny leaves and spikes or white or purplish flowers; native to mediterranean region but widely cultivated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Another cope was of green velvet, embroidered with heart-shaped groups of acanthus-leaves, from which spread long-stemmed white blossoms, the details of which were picked out with silver thread and coloured crystals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus acanthus having large spiny leaves and spikes or white or purplish flowers; native to mediterranean region but widely cultivated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus acanthus having large spiny leaves and spikes or white or purplish flowers; native to mediterranean region but widely cultivated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Another cope was of green velvet, embroidered with heart-shaped groups of acanthus-leaves, from which spread long-stemmed white blossoms, the details of which were picked out with silver thread and coloured crystals."*

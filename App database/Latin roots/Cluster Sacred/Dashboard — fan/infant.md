@@ -5,15 +5,6 @@ status: unread
 ---
 # infant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very young child (birth to 1 year) who has not yet begun to walk or talk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very young child (birth to 1 year) who has not yet begun to walk or talk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At first the infant, Mewling and puking in the nurse’s arms; Then the whining schoolboy, with his satchel And shining morning face, creeping like snail Unwillingly to school."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look, when his infant fortune came to age,” And, “Gentle Harry Percy,” and “kind cousin.” O, the devil take such cozeners!—God forgive me!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So that this land, like an offensive wife That hath enraged him on to offer strokes, As he is striking, holds his infant up And hangs resolved correction in the arm That was uprear’d to execution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very young child (birth to 1 year) who has not yet begun to walk or talk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very young child (birth to 1 year) who has not yet begun to walk or talk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At first the infant, Mewling and puking in the nurse’s arms; Then the whining schoolboy, with his satchel And shining morning face, creeping like snail Unwillingly to school."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look, when his infant fortune came to age,” And, “Gentle Harry Percy,” and “kind cousin.” O, the devil take such cozeners!—God forgive me!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So that this land, like an offensive wife That hath enraged him on to offer strokes, As he is striking, holds his infant up And hangs resolved correction in the arm That was uprear’d to execution."*

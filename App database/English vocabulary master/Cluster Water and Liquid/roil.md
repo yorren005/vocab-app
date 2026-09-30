@@ -5,20 +5,6 @@ status: unread
 ---
 # roil
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Rile
-> 2. **Nuance / Usage**: Stir up : disturb, disorder
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to roil the target*) and intransitive clauses (*roiling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **{{w (*The Blue Touch Paper*):** *"[of St Leonards in East Sussex in 1947] A sort of roiling mist seemed year-round to hold the town in its grip."*
-> - 📜 **{{w (*Lives of the Norths*):** *"That his friends should believe it, was what roiled him exceedingly."*
-> - 📜 **Stephen King (*Needful Things*):** *"By noon, Brian's stomach had begun to roil and knot. He hurried down to the bathroom at the end of the hall in his stocking feet, closed the door, and vomited into the toilet bowl as quietly as he could."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Rile
+> 2. **Nuance / Usage**: Stir up : disturb, disorder
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to roil the target*) and intransitive clauses (*roiling against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **{{w (*The Blue Touch Paper*):** *"[of St Leonards in East Sussex in 1947] A sort of roiling mist seemed year-round to hold the town in its grip."*
+> - 📜 **{{w (*Lives of the Norths*):** *"That his friends should believe it, was what roiled him exceedingly."*
+> - 📜 **Stephen King (*Needful Things*):** *"By noon, Brian's stomach had begun to roil and knot. He hurried down to the bathroom at the end of the hall in his stocking feet, closed the door, and vomited into the toilet bowl as quietly as he could."*

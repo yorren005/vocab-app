@@ -5,15 +5,6 @@ status: unread
 ---
 # equipment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrumentality needed for an undertaking or to perform a service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrumentality needed for an undertaking or to perform a service.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the business of preparation and equipment he soon lost himself, and even his grief at parting from Ada, who remained in Hertfordshire while he, Mr."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Agricultural equipment (livestock, tools, etc.) 3,822 4,919 7,706 4."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Manufacturing equipment 2,541 3,298 6,069 5."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrumentality needed for an undertaking or to perform a service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrumentality needed for an undertaking or to perform a service.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"In the business of preparation and equipment he soon lost himself, and even his grief at parting from Ada, who remained in Hertfordshire while he, Mr."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Agricultural equipment (livestock, tools, etc.) 3,822 4,919 7,706 4."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Manufacturing equipment 2,541 3,298 6,069 5."*

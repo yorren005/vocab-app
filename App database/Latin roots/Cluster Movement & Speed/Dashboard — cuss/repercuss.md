@@ -5,13 +5,6 @@ status: unread
 ---
 # repercuss
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause repercussions; have an unwanted effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause repercussions; have an unwanted effect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repercuss designates cause repercussions; have an unwanted effect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause repercussions; have an unwanted effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause repercussions; have an unwanted effect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repercuss designates cause repercussions; have an unwanted effect."*

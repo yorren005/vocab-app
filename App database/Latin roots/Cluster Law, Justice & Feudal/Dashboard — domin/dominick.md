@@ -5,13 +5,6 @@ status: unread
 ---
 # dominick
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American breed of chicken having barred grey plumage raised for meat and brown eggs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American breed of chicken having barred grey plumage raised for meat and brown eggs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dominick designates american breed of chicken having barred grey plumage raised for meat and brown eggs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: American breed of chicken having barred grey plumage raised for meat and brown eggs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American breed of chicken having barred grey plumage raised for meat and brown eggs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dominick designates american breed of chicken having barred grey plumage raised for meat and brown eggs."*

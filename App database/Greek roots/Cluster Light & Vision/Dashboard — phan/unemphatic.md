@@ -5,13 +5,6 @@ status: unread
 ---
 # unemphatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not emphasized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not emphasized.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I like her better as she is.” Hence, when she found that Dorothea was making arrangements for her final departure to Lowick, Celia raised her eyebrows with disappointment, and in her quiet unemphatic way shot a needle-arrow of sarcasm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not emphasized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not emphasized.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"I like her better as she is.” Hence, when she found that Dorothea was making arrangements for her final departure to Lowick, Celia raised her eyebrows with disappointment, and in her quiet unemphatic way shot a needle-arrow of sarcasm."*

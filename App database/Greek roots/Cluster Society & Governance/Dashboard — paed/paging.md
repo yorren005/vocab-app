@@ -5,13 +5,6 @@ status: unread
 ---
 # paging
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Calling out the name of a person (especially by a loudspeaker system).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of numbering pages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paging designates calling out the name of a person (especially by a loudspeaker system)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Calling out the name of a person (especially by a loudspeaker system).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of numbering pages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paging designates calling out the name of a person (especially by a loudspeaker system)."*

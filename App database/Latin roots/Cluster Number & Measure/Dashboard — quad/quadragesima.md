@@ -5,13 +5,6 @@ status: unread
 ---
 # quadragesima
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first sunday in lent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first sunday in lent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"We shall begin with the fire-festivals of spring, which usually fall on the first Sunday of Lent (_Quadragesima_ or _Invocavit_), Easter Eve, and May Day. 2."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The first sunday in lent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first sunday in lent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"We shall begin with the fire-festivals of spring, which usually fall on the first Sunday of Lent (_Quadragesima_ or _Invocavit_), Easter Eve, and May Day. 2."*

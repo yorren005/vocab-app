@@ -5,15 +5,6 @@ status: unread
 ---
 # successor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who follows next in order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thing or person that immediately replaces something or someone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Great Alexander Left his to th’ worthiest; so his successor Was like to be the best."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"His successor informed me of it yesterday,” said Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"His successor is in my house now—in possession, I think he calls it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who follows next in order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thing or person that immediately replaces something or someone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Great Alexander Left his to th’ worthiest; so his successor Was like to be the best."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"His successor informed me of it yesterday,” said Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"His successor is in my house now—in possession, I think he calls it."*

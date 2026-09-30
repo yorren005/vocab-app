@@ -5,15 +5,6 @@ status: unread
 ---
 # analyse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To study or determine the nature and relationship of the parts of (something) by analysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To subject to scientific or grammatical analysis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Children can feel, but they cannot analyse their feelings; and if the analysis is partially effected in thought, they know not how to express the result of the process in words."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The ground was hard, the air was still, my road was lonely; I walked fast till I got warm, and then I walked slowly to enjoy and analyse the species of pleasure brooding for me in the hour and situation."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Instead of wishing to shun, I longed only to dare—to divine it; and I thought Miss Ingram happy, because one day she might look into the abyss at her leisure, explore its secrets and analyse their nature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To study or determine the nature and relationship of the parts of (something) by analysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To subject to scientific or grammatical analysis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Children can feel, but they cannot analyse their feelings; and if the analysis is partially effected in thought, they know not how to express the result of the process in words."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The ground was hard, the air was still, my road was lonely; I walked fast till I got warm, and then I walked slowly to enjoy and analyse the species of pleasure brooding for me in the hour and situation."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Instead of wishing to shun, I longed only to dare—to divine it; and I thought Miss Ingram happy, because one day she might look into the abyss at her leisure, explore its secrets and analyse their nature."*

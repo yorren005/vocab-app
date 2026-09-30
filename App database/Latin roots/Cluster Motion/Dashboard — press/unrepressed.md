@@ -5,13 +5,6 @@ status: unread
 ---
 # unrepressed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not repressed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not repressed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"And now, a fresh surge from the sea of her unknown being, unrepressed by the _hitherto_ of the objects of sense, had burst the gates and bars, swept the obstructions from its channel, and poured from her in melodious song."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not repressed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not repressed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"And now, a fresh surge from the sea of her unknown being, unrepressed by the _hitherto_ of the objects of sense, had burst the gates and bars, swept the obstructions from its channel, and poured from her in melodious song."*

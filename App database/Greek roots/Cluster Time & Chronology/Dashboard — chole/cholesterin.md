@@ -5,13 +5,6 @@ status: unread
 ---
 # cholesterin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal sterol that is normally synthesized by the liver; the most abundant steroid in animal tissues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal sterol that is normally synthesized by the liver; the most abundant steroid in animal tissues.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cholesterin designates an animal sterol that is normally synthesized by the liver; the most abundant steroid in animal tissues."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal sterol that is normally synthesized by the liver; the most abundant steroid in animal tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal sterol that is normally synthesized by the liver; the most abundant steroid in animal tissues.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cholesterin designates an animal sterol that is normally synthesized by the liver; the most abundant steroid in animal tissues."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # antonomasia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of a proper name to designate a member of a class (such as a Solomon for a wise ruler); also : the use of an epithet or title in place of a proper name (such as the Bard for Shakespeare).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of a proper name to designate a member of a class (such as a Solomon for a wise ruler); also : the use of an epithet or title in place of a proper name (such as the Bard for Shakespeare).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antonomasia designates the use of a proper name to designate a member of a class (such as a solomon for a wise ruler); also : the use of an epithet or title in place of a proper name (such as the bard for shakespeare)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of a proper name to designate a member of a class (such as a Solomon for a wise ruler); also : the use of an epithet or title in place of a proper name (such as the Bard for Shakespeare).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of a proper name to designate a member of a class (such as a Solomon for a wise ruler); also : the use of an epithet or title in place of a proper name (such as the Bard for Shakespeare).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antonomasia designates the use of a proper name to designate a member of a class (such as a solomon for a wise ruler); also : the use of an epithet or title in place of a proper name (such as the bard for shakespeare)."*

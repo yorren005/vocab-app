@@ -5,13 +5,6 @@ status: unread
 ---
 # opisthobranchia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gastropods having the gills when present posterior to the heart and having no operculum: includes sea slugs; sea butterflies; sea hares.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gastropods having the gills when present posterior to the heart and having no operculum: includes sea slugs; sea butterflies; sea hares.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opisthobranchia designates gastropods having the gills when present posterior to the heart and having no operculum: includes sea slugs; sea butterflies; sea hares."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gastropods having the gills when present posterior to the heart and having no operculum: includes sea slugs; sea butterflies; sea hares.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gastropods having the gills when present posterior to the heart and having no operculum: includes sea slugs; sea butterflies; sea hares.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opisthobranchia designates gastropods having the gills when present posterior to the heart and having no operculum: includes sea slugs; sea butterflies; sea hares."*

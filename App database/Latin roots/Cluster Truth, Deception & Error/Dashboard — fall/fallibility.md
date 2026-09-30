@@ -5,15 +5,6 @@ status: unread
 ---
 # fallibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The likelihood of making errors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The likelihood of making errors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Man with his vanity, his broad fallibility, his poor natural functions!"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In 1806 Pfuel had been one of those responsible, for the plan of campaign that ended in Jena and Auerstädt, but he did not see the least proof of the fallibility of his theory in the disasters of that war."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Meanwhile we're all in the soup of fallibility together."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The likelihood of making errors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The likelihood of making errors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Man with his vanity, his broad fallibility, his poor natural functions!"*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In 1806 Pfuel had been one of those responsible, for the plan of campaign that ended in Jena and Auerstädt, but he did not see the least proof of the fallibility of his theory in the disasters of that war."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Meanwhile we're all in the soup of fallibility together."*

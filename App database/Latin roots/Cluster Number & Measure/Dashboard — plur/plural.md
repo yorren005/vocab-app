@@ -5,15 +5,6 @@ status: unread
 ---
 # plural
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The form of a word that is used to denote more than one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of more than one member, set, or kind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What is your genitive case plural, William?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast no faith left now, unless thou’dst two, And that’s far worse than none; better have none Than plural faith, which is too much by one."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Beauquier, _op. cit._ pp. 31-33. [274] Curiously enough, while the singular is _granno-mio_, the plural is _grannas-mias_. [275] Dr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The form of a word that is used to denote more than one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of more than one member, set, or kind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What is your genitive case plural, William?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast no faith left now, unless thou’dst two, And that’s far worse than none; better have none Than plural faith, which is too much by one."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Beauquier, _op. cit._ pp. 31-33. [274] Curiously enough, while the singular is _granno-mio_, the plural is _grannas-mias_. [275] Dr."*

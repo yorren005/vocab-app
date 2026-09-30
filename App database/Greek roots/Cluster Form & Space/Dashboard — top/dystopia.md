@@ -5,13 +5,6 @@ status: unread
 ---
 # dystopia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An imagined world or society in which people lead wretched, dehumanized, fearful lives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anti-utopia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dystopia designates an imagined world or society in which people lead wretched, dehumanized, fearful lives."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An imagined world or society in which people lead wretched, dehumanized, fearful lives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anti-utopia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dystopia designates an imagined world or society in which people lead wretched, dehumanized, fearful lives."*

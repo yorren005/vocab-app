@@ -5,13 +5,6 @@ status: unread
 ---
 # salpiglossis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a small genus (Salpiglossis) of Chilean herbs of the nightshade family with large funnel-shaped varicolored flowers often strikingly marked.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a small genus (Salpiglossis) of Chilean herbs of the nightshade family with large funnel-shaped varicolored flowers often strikingly marked.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salpiglossis designates any of a small genus (salpiglossis) of chilean herbs of the nightshade family with large funnel-shaped varicolored flowers often strikingly marked."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a small genus (Salpiglossis) of Chilean herbs of the nightshade family with large funnel-shaped varicolored flowers often strikingly marked.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a small genus (Salpiglossis) of Chilean herbs of the nightshade family with large funnel-shaped varicolored flowers often strikingly marked.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salpiglossis designates any of a small genus (salpiglossis) of chilean herbs of the nightshade family with large funnel-shaped varicolored flowers often strikingly marked."*

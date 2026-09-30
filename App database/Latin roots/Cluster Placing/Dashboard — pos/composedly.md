@@ -5,15 +5,6 @@ status: unread
 ---
 # composedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a self-collected or self-possessed manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a self-collected or self-possessed manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I,” he said, beating one hand on the other passionately, “am the man from Shropshire.” “I believe I and my family have also had the honour of furnishing some entertainment in the same grave place,” said my guardian composedly."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole with a quickened sense of the ludicrous, “that my chairs and tables were not paid for, and yet my landlord walks off with them as composedly as possible."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George, still composedly smoking, replies, “If I had, I shouldn’t trouble them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a self-collected or self-possessed manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a self-collected or self-possessed manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I,” he said, beating one hand on the other passionately, “am the man from Shropshire.” “I believe I and my family have also had the honour of furnishing some entertainment in the same grave place,” said my guardian composedly."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole with a quickened sense of the ludicrous, “that my chairs and tables were not paid for, and yet my landlord walks off with them as composedly as possible."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"George, still composedly smoking, replies, “If I had, I shouldn’t trouble them."*

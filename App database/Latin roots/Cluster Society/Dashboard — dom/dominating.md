@@ -5,15 +5,6 @@ status: unread
 ---
 # dominating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be larger in number, quantity, power, status or importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be in control.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"But a new power had entered into his life, and that power gradually asserted itself as the chief and dominating influence there."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"That there is nevertheless, a noticeable degree of regularity in the recurrence of crises may be due to the presence of one dominating factor."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"At present heredity and psychology are dominating our minds--or, rather, theories as to both; for though beginnings have been made, the stage has not yet been reached of very wide or certain discovery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be larger in number, quantity, power, status or importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be in control.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"But a new power had entered into his life, and that power gradually asserted itself as the chief and dominating influence there."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"That there is nevertheless, a noticeable degree of regularity in the recurrence of crises may be due to the presence of one dominating factor."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"At present heredity and psychology are dominating our minds--or, rather, theories as to both; for though beginnings have been made, the stage has not yet been reached of very wide or certain discovery."*

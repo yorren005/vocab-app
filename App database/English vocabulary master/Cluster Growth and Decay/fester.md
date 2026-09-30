@@ -5,20 +5,6 @@ status: unread
 ---
 # fester
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Generate pus
-> 2. **Nuance / Usage**: Putrefy, rot
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to fester the target*) and intransitive clauses (*festering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Rim. Part III.—Conclusion.*):** *"He has been away so long and so often, there has been such mismanagement under a long minority, such changes and such misrule, such a hard hand and such a high hand, that the whole place is a fester."*
-> - 📜 **Thomas Babington Macaulay (*The History of England from the Accession of James the Second*):** *"All this time hatred, kept down by fear, festered in the hearts of the children of the soil."*
-> - 📜 **Philip Haigh (*Discord over Avanti West Coast is part of a wider problem*):** *"But the longer the problems are left to fester, the worse they will become."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Generate pus
+> 2. **Nuance / Usage**: Putrefy, rot
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to fester the target*) and intransitive clauses (*festering against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Rim. Part III.—Conclusion.*):** *"He has been away so long and so often, there has been such mismanagement under a long minority, such changes and such misrule, such a hard hand and such a high hand, that the whole place is a fester."*
+> - 📜 **Thomas Babington Macaulay (*The History of England from the Accession of James the Second*):** *"All this time hatred, kept down by fear, festered in the hearts of the children of the soil."*
+> - 📜 **Philip Haigh (*Discord over Avanti West Coast is part of a wider problem*):** *"But the longer the problems are left to fester, the worse they will become."*

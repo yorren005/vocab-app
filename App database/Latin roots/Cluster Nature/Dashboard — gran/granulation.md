@@ -5,13 +5,6 @@ status: unread
 ---
 # granulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: New connective tissue and tiny blood vessels that form on the surfaces of a wound during the healing process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of forming something into granules or grains.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Berkeley noticed them in the English Flora in 1836, or at least the granulations on the upper surfaces of the leaves bearing _R. cancellata_, _R. cornuta_, and _R. lacerata_, and called them abortive pseudoperidia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: New connective tissue and tiny blood vessels that form on the surfaces of a wound during the healing process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of forming something into granules or grains.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Berkeley noticed them in the English Flora in 1836, or at least the granulations on the upper surfaces of the leaves bearing _R. cancellata_, _R. cornuta_, and _R. lacerata_, and called them abortive pseudoperidia."*

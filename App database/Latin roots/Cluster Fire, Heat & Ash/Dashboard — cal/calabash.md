@@ -5,15 +5,6 @@ status: unread
 ---
 # calabash
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Round gourd of the calabash tree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical american evergreen that produces large round gourds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"When they have all done so and seated themselves again gravely in the circle, the girl offers to each of them a calabash full of very strong _chicha_."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nothing about the silver calabash he spat into?"*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"In the morning, after the army had gone, Kalelealuaka said to his wives, "I am thirsting for some water taken with the snout of the calabash held downward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Round gourd of the calabash tree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical american evergreen that produces large round gourds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"When they have all done so and seated themselves again gravely in the circle, the girl offers to each of them a calabash full of very strong _chicha_."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nothing about the silver calabash he spat into?"*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"In the morning, after the army had gone, Kalelealuaka said to his wives, "I am thirsting for some water taken with the snout of the calabash held downward."*

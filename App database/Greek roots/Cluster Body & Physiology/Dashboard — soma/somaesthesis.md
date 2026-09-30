@@ -5,13 +5,6 @@ status: unread
 ---
 # somaesthesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The faculty of bodily perception; sensory systems associated with the body; includes skin senses and proprioception and the internal organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The faculty of bodily perception; sensory systems associated with the body; includes skin senses and proprioception and the internal organs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somaesthesis designates the faculty of bodily perception; sensory systems associated with the body; includes skin senses and proprioception and the internal organs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The faculty of bodily perception; sensory systems associated with the body; includes skin senses and proprioception and the internal organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The faculty of bodily perception; sensory systems associated with the body; includes skin senses and proprioception and the internal organs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somaesthesis designates the faculty of bodily perception; sensory systems associated with the body; includes skin senses and proprioception and the internal organs."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # illustrious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely known and esteemed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or conferring glory.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Armado is a most illustrious wight, A man of fire-new words, fashion’s own knight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet I protest, For his right noble mind, illustrious virtue, And honourable carriage, Had his necessity made use of me, I would have put my wealth into donation, And the best half should have returned to him, So much I love his heart."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The more spirit there is in it, the better for mankind and the worse for those mercenary task-masters and low tricksters who delight in putting that illustrious art at a disadvantage in the world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely known and esteemed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or conferring glory.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Armado is a most illustrious wight, A man of fire-new words, fashion’s own knight."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet I protest, For his right noble mind, illustrious virtue, And honourable carriage, Had his necessity made use of me, I would have put my wealth into donation, And the best half should have returned to him, So much I love his heart."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The more spirit there is in it, the better for mankind and the worse for those mercenary task-masters and low tricksters who delight in putting that illustrious art at a disadvantage in the world."*

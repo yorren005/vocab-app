@@ -5,15 +5,6 @@ status: unread
 ---
 # dense
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Permitting little if any light to pass through because of denseness of matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hard to pass through because of dense growth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The raw afternoon is rawest, and the dense fog is densest, and the muddy streets are muddiest near that leaden-headed old obstruction, appropriate ornament for the threshold of a leaden-headed old corporation, Temple Bar."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"For the streets were so full of dense brown smoke that scarcely anything was to be seen."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The fog is very dense indeed!” said I."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Permitting little if any light to pass through because of denseness of matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hard to pass through because of dense growth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The raw afternoon is rawest, and the dense fog is densest, and the muddy streets are muddiest near that leaden-headed old obstruction, appropriate ornament for the threshold of a leaden-headed old corporation, Temple Bar."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"For the streets were so full of dense brown smoke that scarcely anything was to be seen."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The fog is very dense indeed!” said I."*

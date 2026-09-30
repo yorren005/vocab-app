@@ -5,14 +5,6 @@ status: unread
 ---
 # Pentateuch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first five books of Jewish and Christian Scriptures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first five books of Jewish and Christian Scriptures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Colenso, Bishop of Natal, in South Africa; he published works questioning the inspiration and historical accuracy of certain parts of the Bible, among which was ‘The Pentateuch, and the Book of Joshua critically examined’. -- Holy-Cross Day."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Moses saw the Promised Land from a distance, but the sight of that collection of log shacks means more to you, tired and almost frozen, than the land beyond muddy Jordan did to the writer of the Pentateuch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The first five books of Jewish and Christian Scriptures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first five books of Jewish and Christian Scriptures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Colenso, Bishop of Natal, in South Africa; he published works questioning the inspiration and historical accuracy of certain parts of the Bible, among which was ‘The Pentateuch, and the Book of Joshua critically examined’. -- Holy-Cross Day."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Moses saw the Promised Land from a distance, but the sight of that collection of log shacks means more to you, tired and almost frozen, than the land beyond muddy Jordan did to the writer of the Pentateuch."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # medicinal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the properties of medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the properties of medicine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The Welsh peasants believe the beads to possess medicinal virtues of many sorts and to be particularly efficacious for all maladies of the eyes."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The ascription of medicinal power to fire kindled by the friction of wood is said to be especially characteristic of the Slavs who inhabit the Carpathian Mountains and the Balkan peninsula."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"It was a medicinal project upon his niece’s understanding, which he must consider as at present diseased."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the properties of medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the properties of medicine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The Welsh peasants believe the beads to possess medicinal virtues of many sorts and to be particularly efficacious for all maladies of the eyes."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The ascription of medicinal power to fire kindled by the friction of wood is said to be especially characteristic of the Slavs who inhabit the Carpathian Mountains and the Balkan peninsula."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"It was a medicinal project upon his niece’s understanding, which he must consider as at present diseased."*

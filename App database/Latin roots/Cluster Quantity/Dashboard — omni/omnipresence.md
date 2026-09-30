@@ -5,15 +5,6 @@ status: unread
 ---
 # omnipresence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being everywhere at once (or seeming to be everywhere at once).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being everywhere at once (or seeming to be everywhere at once).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His omnipresence, our divine equality!"*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"His omnipresence, our divine equality!"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Our Master read mortal mind on a scientific basis, that of the omnipresence of Mind. 94:30 An approximation of this discernment indicates spiritual growth and union with the infinite capacities of the one Mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being everywhere at once (or seeming to be everywhere at once).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being everywhere at once (or seeming to be everywhere at once).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His omnipresence, our divine equality!"*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"His omnipresence, our divine equality!"*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Our Master read mortal mind on a scientific basis, that of the omnipresence of Mind. 94:30 An approximation of this discernment indicates spiritual growth and union with the infinite capacities of the one Mind."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # transformer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical device by which alternating current of one voltage is changed to another voltage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical device by which alternating current of one voltage is changed to another voltage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"But you do not yourself look upon this as likely?” “I do not think Flora would hurt a fly.” “Still, jealousy is a strange transformer of characters."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Alternating current is used, and it is obtained from a transformer or induction coil."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Such an arrangement is in industrial realms generally called a transformer, the term induction coil being employed more for those things of a similar nature intended for the laboratory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical device by which alternating current of one voltage is changed to another voltage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical device by which alternating current of one voltage is changed to another voltage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"But you do not yourself look upon this as likely?” “I do not think Flora would hurt a fly.” “Still, jealousy is a strange transformer of characters."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Alternating current is used, and it is obtained from a transformer or induction coil."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Such an arrangement is in industrial realms generally called a transformer, the term induction coil being employed more for those things of a similar nature intended for the laboratory."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # montane
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or inhabiting mountainous regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or inhabiting mountainous regions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, montane designates of or inhabiting mountainous regions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or inhabiting mountainous regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or inhabiting mountainous regions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, montane designates of or inhabiting mountainous regions."*

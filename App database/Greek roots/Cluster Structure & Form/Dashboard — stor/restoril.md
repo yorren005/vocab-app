@@ -5,13 +5,6 @@ status: unread
 ---
 # restoril
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A frequently prescribed benzodiazepine (trade name restoril); takes effect slowly and lasts long enough to help those people who wake up frequently during the night.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A frequently prescribed benzodiazepine (trade name restoril); takes effect slowly and lasts long enough to help those people who wake up frequently during the night.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, restoril designates a frequently prescribed benzodiazepine (trade name restoril); takes effect slowly and lasts long enough to help those people who wake up frequently during the night."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A frequently prescribed benzodiazepine (trade name restoril); takes effect slowly and lasts long enough to help those people who wake up frequently during the night.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A frequently prescribed benzodiazepine (trade name restoril); takes effect slowly and lasts long enough to help those people who wake up frequently during the night.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, restoril designates a frequently prescribed benzodiazepine (trade name restoril); takes effect slowly and lasts long enough to help those people who wake up frequently during the night."*

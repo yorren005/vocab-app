@@ -5,13 +5,6 @@ status: unread
 ---
 # abducting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take away to an undisclosed location against their will and usually in order to extract a ransom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pull away from the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Nowhere perhaps is the art of abducting human souls more carefully cultivated or carried to higher perfection than in the Malay Peninsula."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take away to an undisclosed location against their will and usually in order to extract a ransom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pull away from the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Nowhere perhaps is the art of abducting human souls more carefully cultivated or carried to higher perfection than in the Malay Peninsula."*

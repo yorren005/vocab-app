@@ -5,15 +5,6 @@ status: unread
 ---
 # inseparably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without possibility of separation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without possibility of separation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The three are inseparably connected, and to understand one we must understand all."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"But, dear friend, I have certainly to see that this is not to be so, now: that for me too love & death are folded inseparably together: Death that will renew my youth."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Feminine traits, moulded inseparably with those of the other sex!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without possibility of separation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without possibility of separation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"The three are inseparably connected, and to understand one we must understand all."*
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"But, dear friend, I have certainly to see that this is not to be so, now: that for me too love & death are folded inseparably together: Death that will renew my youth."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Feminine traits, moulded inseparably with those of the other sex!"*

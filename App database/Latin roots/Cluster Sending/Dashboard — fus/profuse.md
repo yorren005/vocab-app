@@ -5,15 +5,6 @@ status: unread
 ---
 # profuse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Produced or growing in extreme abundance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produced or growing in extreme abundance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"My Lady signifies, without profuse expenditure of words, that she is as wearily well as she can hope to be."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The walk had made them hungry, Angel in particular, who was now an outdoor man, accustomed to the profuse _dapes inemptae_ of the dairyman’s somewhat coarsely-laden table."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was what saved me, for, toward morning, I awoke to find myself in a profuse perspiration and quite free of all delirium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Produced or growing in extreme abundance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produced or growing in extreme abundance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"My Lady signifies, without profuse expenditure of words, that she is as wearily well as she can hope to be."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The walk had made them hungry, Angel in particular, who was now an outdoor man, accustomed to the profuse _dapes inemptae_ of the dairyman’s somewhat coarsely-laden table."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was what saved me, for, toward morning, I awoke to find myself in a profuse perspiration and quite free of all delirium."*

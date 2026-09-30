@@ -5,15 +5,6 @@ status: unread
 ---
 # ramadan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ninth month of the islamic calendar; the month of fasting; the holiest period for the islamic faith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (islam) a fast (held from sunrise to sunset) that is carried out during the islamic month of ramadan.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There was Queequeg, now, certainly entertaining the most absurd notions about Yojo and his Ramadan;—but what of that?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I wonder, thought I, if this can possibly be a part of his Ramadan; do they fast on their hams that way in his native island."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It can’t last for ever, thank God, and his Ramadan only comes once a year; and I don’t believe it’s very punctual then."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ninth month of the islamic calendar; the month of fasting; the holiest period for the islamic faith.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (islam) a fast (held from sunrise to sunset) that is carried out during the islamic month of ramadan.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There was Queequeg, now, certainly entertaining the most absurd notions about Yojo and his Ramadan;—but what of that?"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I wonder, thought I, if this can possibly be a part of his Ramadan; do they fast on their hams that way in his native island."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It can’t last for ever, thank God, and his Ramadan only comes once a year; and I don’t believe it’s very punctual then."*

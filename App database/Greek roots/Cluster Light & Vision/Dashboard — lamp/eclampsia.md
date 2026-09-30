@@ -5,13 +5,6 @@ status: unread
 ---
 # eclampsia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic condition characterized by convulsions and possibly coma during or immediately after pregnancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toxic condition characterized by convulsions and possibly coma during or immediately after pregnancy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eclampsia designates a toxic condition characterized by convulsions and possibly coma during or immediately after pregnancy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic condition characterized by convulsions and possibly coma during or immediately after pregnancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toxic condition characterized by convulsions and possibly coma during or immediately after pregnancy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eclampsia designates a toxic condition characterized by convulsions and possibly coma during or immediately after pregnancy."*

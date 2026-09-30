@@ -5,15 +5,6 @@ status: unread
 ---
 # dealing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Method or manner of conduct in relation to others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of transacting within or between groups (as carrying on commercial activities).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is no honesty in such dealing, unless a woman should be made an ass and a beast, to bear every knave’s wrong."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or hast thou a mark to thyself, like a honest, plain-dealing man?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alack, alack, Edmund, I like not this unnatural dealing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Method or manner of conduct in relation to others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of transacting within or between groups (as carrying on commercial activities).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is no honesty in such dealing, unless a woman should be made an ass and a beast, to bear every knave’s wrong."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or hast thou a mark to thyself, like a honest, plain-dealing man?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alack, alack, Edmund, I like not this unnatural dealing."*

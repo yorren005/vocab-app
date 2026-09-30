@@ -5,13 +5,6 @@ status: unread
 ---
 # heliostat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument consisting of a mirror mounted on an axis moved by clockwork by which a sunbeam is steadily reflected in one direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument consisting of a mirror mounted on an axis moved by clockwork by which a sunbeam is steadily reflected in one direction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliostat designates an instrument consisting of a mirror mounted on an axis moved by clockwork by which a sunbeam is steadily reflected in one direction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument consisting of a mirror mounted on an axis moved by clockwork by which a sunbeam is steadily reflected in one direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument consisting of a mirror mounted on an axis moved by clockwork by which a sunbeam is steadily reflected in one direction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliostat designates an instrument consisting of a mirror mounted on an axis moved by clockwork by which a sunbeam is steadily reflected in one direction."*

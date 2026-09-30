@@ -5,15 +5,6 @@ status: unread
 ---
 # underwriter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A banker who deals chiefly in underwriting new securities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent who sells insurance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like a mob of young collegians, they are full of fight, fun, and wickedness, tumbling round the world at such a reckless, rollicking rate, that no prudent underwriter would insure them any more than he would a riotous lad at Yale or Harvard."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Like a mob of young collegians, they are full of fight, fun, and wickedness, tumbling round the world at such a reckless, rollicking rate, that no prudent underwriter would insure them any more than he would a riotous lad at Yale or Harvard."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A very worthy, though not particularly erudite, underwriter at Lloyd’s was conversing one day with a friend in the coffee-house, on the subject of a ship they had mutually insured."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A banker who deals chiefly in underwriting new securities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent who sells insurance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like a mob of young collegians, they are full of fight, fun, and wickedness, tumbling round the world at such a reckless, rollicking rate, that no prudent underwriter would insure them any more than he would a riotous lad at Yale or Harvard."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Like a mob of young collegians, they are full of fight, fun, and wickedness, tumbling round the world at such a reckless, rollicking rate, that no prudent underwriter would insure them any more than he would a riotous lad at Yale or Harvard."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A very worthy, though not particularly erudite, underwriter at Lloyd’s was conversing one day with a friend in the coffee-house, on the subject of a ship they had mutually insured."*

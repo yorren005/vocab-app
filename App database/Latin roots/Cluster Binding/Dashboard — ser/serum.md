@@ -5,13 +5,6 @@ status: unread
 ---
 # serum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amber, watery fluid, rich in proteins, that separates out when blood coagulates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amber, watery fluid, rich in proteins, that separates out when blood coagulates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"When Burns came back he opened the outer door and called to Johnny Caruthers, to know if he had obtained the serum for which he had been sent to the druggist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An amber, watery fluid, rich in proteins, that separates out when blood coagulates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amber, watery fluid, rich in proteins, that separates out when blood coagulates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"When Burns came back he opened the outer door and called to Johnny Caruthers, to know if he had obtained the serum for which he had been sent to the druggist."*

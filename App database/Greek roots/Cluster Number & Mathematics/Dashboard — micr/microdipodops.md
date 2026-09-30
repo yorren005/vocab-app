@@ -5,13 +5,6 @@ status: unread
 ---
 # microdipodops
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kangaroo mice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kangaroo mice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microdipodops designates kangaroo mice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Kangaroo mice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kangaroo mice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microdipodops designates kangaroo mice."*

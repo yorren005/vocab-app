@@ -5,15 +5,6 @@ status: unread
 ---
 # annihilating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill in large numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wreaking or capable of wreaking complete destruction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He followed him again with a last resolve, annihilating return."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Will, however, having given that annihilating pinch, was rather ashamed, imagining from Dorothea’s silence that he had offended her still more; and having also a conscience about plucking the tail-feathers from a benefactor."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They have already depopulated the whole of Baffin’s Bay, and are annihilating a class of useful animals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill in large numbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wreaking or capable of wreaking complete destruction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He followed him again with a last resolve, annihilating return."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Will, however, having given that annihilating pinch, was rather ashamed, imagining from Dorothea’s silence that he had offended her still more; and having also a conscience about plucking the tail-feathers from a benefactor."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They have already depopulated the whole of Baffin’s Bay, and are annihilating a class of useful animals."*

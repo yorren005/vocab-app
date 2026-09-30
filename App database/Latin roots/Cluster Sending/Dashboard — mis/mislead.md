@@ -5,15 +5,6 @@ status: unread
 ---
 # mislead
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lead someone in the wrong direction or give someone wrong directions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give false or misleading information to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SONG _ Take, O take those lips away, That so sweetly were forsworn, And those eyes, the break of day, Lights that do mislead the morn."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are not you he That frights the maidens of the villagery, Skim milk, and sometimes labour in the quern, And bootless make the breathless housewife churn, And sometime make the drink to bear no barm, Mislead night-wanderers, laughing at their harm?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have no need to observe that I do not wilfully or negligently mislead my readers and that before I wrote that description I took pains to investigate the subject."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lead someone in the wrong direction or give someone wrong directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give false or misleading information to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SONG _ Take, O take those lips away, That so sweetly were forsworn, And those eyes, the break of day, Lights that do mislead the morn."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are not you he That frights the maidens of the villagery, Skim milk, and sometimes labour in the quern, And bootless make the breathless housewife churn, And sometime make the drink to bear no barm, Mislead night-wanderers, laughing at their harm?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I have no need to observe that I do not wilfully or negligently mislead my readers and that before I wrote that description I took pains to investigate the subject."*

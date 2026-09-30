@@ -5,13 +5,6 @@ status: unread
 ---
 # aplacophoran
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep-water wormlike mollusks lacking calcareous plates on the body but having fine slimy spicules on the covering mantle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep-water wormlike mollusks lacking calcareous plates on the body but having fine slimy spicules on the covering mantle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aplacophoran designates deep-water wormlike mollusks lacking calcareous plates on the body but having fine slimy spicules on the covering mantle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep-water wormlike mollusks lacking calcareous plates on the body but having fine slimy spicules on the covering mantle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep-water wormlike mollusks lacking calcareous plates on the body but having fine slimy spicules on the covering mantle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aplacophoran designates deep-water wormlike mollusks lacking calcareous plates on the body but having fine slimy spicules on the covering mantle."*

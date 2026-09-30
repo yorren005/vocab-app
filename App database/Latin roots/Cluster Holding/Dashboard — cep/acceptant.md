@@ -5,13 +5,6 @@ status: unread
 ---
 # acceptant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accepting willingly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accepting willingly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acceptant designates accepting willingly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accepting willingly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accepting willingly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acceptant designates accepting willingly."*

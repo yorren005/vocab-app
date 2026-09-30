@@ -5,13 +5,6 @@ status: unread
 ---
 # adjectival
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or functioning as an adjective.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or functioning as an adjective.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"It must contain, as far as the mind is concerned, no substantives which could be put into an adjectival form; in other words, the object defined must not be explained through abstractions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or functioning as an adjective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or functioning as an adjective.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"It must contain, as far as the mind is concerned, no substantives which could be put into an adjectival form; in other words, the object defined must not be explained through abstractions."*

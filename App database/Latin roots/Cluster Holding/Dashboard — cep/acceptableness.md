@@ -5,13 +5,6 @@ status: unread
 ---
 # acceptableness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Satisfactoriness by virtue of conforming to approved standards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Satisfactoriness by virtue of conforming to approved standards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acceptableness designates satisfactoriness by virtue of conforming to approved standards."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Satisfactoriness by virtue of conforming to approved standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Satisfactoriness by virtue of conforming to approved standards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acceptableness designates satisfactoriness by virtue of conforming to approved standards."*

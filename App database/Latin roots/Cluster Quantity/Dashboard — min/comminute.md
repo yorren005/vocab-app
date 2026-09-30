@@ -5,13 +5,6 @@ status: unread
 ---
 # comminute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce to small pieces or particles by pounding or abrading.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce to small pieces or particles by pounding or abrading.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The leaves become sickly and yellow as the mycelium of the fungus spreads over them, when they present a peculiar appearance, as if growing beside a chalky road in dry dusty weather, and had become covered with comminuted chalk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce to small pieces or particles by pounding or abrading.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce to small pieces or particles by pounding or abrading.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The leaves become sickly and yellow as the mycelium of the fungus spreads over them, when they present a peculiar appearance, as if growing beside a chalky road in dry dusty weather, and had become covered with comminuted chalk."*

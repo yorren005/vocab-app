@@ -5,14 +5,6 @@ status: unread
 ---
 # concordant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In keeping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being of the same opinion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That it cried, How true a twain Seemeth this concordant one!"*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"You were to have universal concord, and were to get it by eliminating all the people who wouldn’t, or conscientiously couldn’t, be concordant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In keeping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being of the same opinion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That it cried, How true a twain Seemeth this concordant one!"*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"You were to have universal concord, and were to get it by eliminating all the people who wouldn’t, or conscientiously couldn’t, be concordant."*

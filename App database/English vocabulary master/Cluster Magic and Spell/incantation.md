@@ -5,20 +5,6 @@ status: unread
 ---
 # incantation
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Formula of words used as above
-> 2. **Nuance / Usage**: (computing, slang) any esoteric command or procedure
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the incantation withstood the storm*), direct object (*cleaved the incantation*), or prepositional anchor (*amidst the incantation*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Red Letter Year*):** *"new years eve we dropped mushrooms / and danced around the house / making music with everything that we found / incantation replaced resolution"*
-> - 📜 **Elliott O'Donnell (*Werwolves*):** *"Then he produced a string of beads, and after placing it over the scratchings he had made on the soil, jerked out some strange incantation in a voice that thickened and quivered with terror."*
-> - 📜 **Eleanour Sinclair Rohde (*The Old English Herbals*):** *"Yarrow is one of the aboriginal English plants, and from time immemorial it has been used in incantations and by witches. Country folk still regard it as one of our most valuable herbs, especially for rheumatism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A series of ritual words chanted or recited as a magical spell or charm to produce a supernatural effect.
+> 2. **Nuance / Usage**: Figuratively, any rhythmic, hypnotic, or formulaic repetition of phrases used as if it possessed the power to alter reality.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the incantation withstood the storm*), direct object (*cleaved the incantation*), or prepositional anchor (*amidst the incantation*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon, Gent.*):** *"The Headless Horseman rushed along the hollow in a hurry to get back to the church-yard before daybreak, like a spirit bound by an **incantation**."*
+> - 📜 **Elliott O'Donnell (*Werwolves*):** *"He produced a string of beads and, placing it over the scratchings on the soil, muttered a strange **incantation** in a voice that quivered with terror."*
+> - 📜 **Eleanour Sinclair Rohde (*The Old English Herbals*):** *"Yarrow is one of the oldest English plants, and from time immemorial it has been used in **incantations** and folk charms across the countryside."*

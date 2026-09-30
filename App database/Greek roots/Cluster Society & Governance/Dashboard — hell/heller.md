@@ -5,13 +5,6 @@ status: unread
 ---
 # heller
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 100 halers equal 1 koruna slovakia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 100 halers equal 1 koruna in czech republic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Say, that's some ray they have." "It sure is one first-class heller," agreed Ben."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: 100 halers equal 1 koruna slovakia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 100 halers equal 1 koruna in czech republic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Say, that's some ray they have." "It sure is one first-class heller," agreed Ben."*

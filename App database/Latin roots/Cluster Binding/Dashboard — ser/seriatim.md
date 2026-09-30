@@ -5,13 +5,6 @@ status: unread
 ---
 # seriatim
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a series; one after another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a series; one after another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Having said thus much, I will take up the judge’s interrogatories as I find them printed in the _Chicago Times_, and answer them _seriatim_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a series; one after another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a series; one after another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Having said thus much, I will take up the judge’s interrogatories as I find them printed in the _Chicago Times_, and answer them _seriatim_."*

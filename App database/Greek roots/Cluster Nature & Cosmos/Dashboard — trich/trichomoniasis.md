@@ -5,13 +5,6 @@ status: unread
 ---
 # trichomoniasis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infection of the vagina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infection of the vagina.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichomoniasis designates infection of the vagina."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infection of the vagina.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infection of the vagina.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichomoniasis designates infection of the vagina."*

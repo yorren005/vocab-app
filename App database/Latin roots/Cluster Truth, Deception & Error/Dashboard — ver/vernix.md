@@ -5,13 +5,6 @@ status: unread
 ---
 # vernix
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white cheeselike protective material that covers the skin of a fetus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white cheeselike protective material that covers the skin of a fetus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vernix designates a white cheeselike protective material that covers the skin of a fetus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white cheeselike protective material that covers the skin of a fetus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white cheeselike protective material that covers the skin of a fetus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vernix designates a white cheeselike protective material that covers the skin of a fetus."*

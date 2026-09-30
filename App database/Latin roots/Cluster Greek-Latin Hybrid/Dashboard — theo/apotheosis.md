@@ -5,15 +5,6 @@ status: unread
 ---
 # apotheosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Model of excellence or perfection of a kind; one having no equal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The elevation of a person (as to the status of a god).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Thus a mild sort of apotheosis took place in his fancy, whilst she still lived and breathed within his own horizon, a troubled creature like himself."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Up from the spray of thy ocean-perishing—straight up, leaps thy apotheosis!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Thus a mild sort of apotheosis took place in his fancy, whilst she still lived and breathed within his own horizon, a troubled creature like himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Model of excellence or perfection of a kind; one having no equal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The elevation of a person (as to the status of a god).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Thus a mild sort of apotheosis took place in his fancy, whilst she still lived and breathed within his own horizon, a troubled creature like himself."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Up from the spray of thy ocean-perishing—straight up, leaps thy apotheosis!"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Thus a mild sort of apotheosis took place in his fancy, whilst she still lived and breathed within his own horizon, a troubled creature like himself."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # deciding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cognitive process of reaching a decision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reach, make, or come to a decision about something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The ladies wanted my opinion before deciding."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I say nothing else at present; but you know me, my dear; now, don’t you?” I endeavoured to say that I knew he was far more capable than I of deciding what we ought to do, but was he sure that this was right?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, should he resolve not to return at all, a tale of his being alive and being in the neighbourhood would be awkward; and he was anxious to acquire a knowledge of his wife’s temporal affairs before deciding which to do."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cognitive process of reaching a decision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reach, make, or come to a decision about something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The ladies wanted my opinion before deciding."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I say nothing else at present; but you know me, my dear; now, don’t you?” I endeavoured to say that I knew he was far more capable than I of deciding what we ought to do, but was he sure that this was right?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, should he resolve not to return at all, a tale of his being alive and being in the neighbourhood would be awkward; and he was anxious to acquire a knowledge of his wife’s temporal affairs before deciding which to do."*

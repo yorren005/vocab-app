@@ -5,15 +5,6 @@ status: unread
 ---
 # donation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A voluntary gift (as of money or service or ideas) made to some worthwhile cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of giving in common with others for a common purpose especially to a charity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ accusation Which they have often made against the Senate, All cause unborn, could never be the native Of our so frank donation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was wise nature’s end in the donation, To be his evidence now."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A contract of true love to celebrate, And some donation freely to estate On the blest lovers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A voluntary gift (as of money or service or ideas) made to some worthwhile cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of giving in common with others for a common purpose especially to a charity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ accusation Which they have often made against the Senate, All cause unborn, could never be the native Of our so frank donation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was wise nature’s end in the donation, To be his evidence now."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A contract of true love to celebrate, And some donation freely to estate On the blest lovers."*

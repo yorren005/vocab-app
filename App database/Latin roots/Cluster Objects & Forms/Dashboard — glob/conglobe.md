@@ -5,13 +5,6 @@ status: unread
 ---
 # conglobe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assume a globular shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assume a globular shape.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Tho’ something like moisture conglobes in my eye, Let no one misdeem me disloyal; A poor friendless wand’rer may well claim a sigh, Still more if that wand’rer were royal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Assume a globular shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assume a globular shape.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Tho’ something like moisture conglobes in my eye, Let no one misdeem me disloyal; A poor friendless wand’rer may well claim a sigh, Still more if that wand’rer were royal."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # primigravida
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (obstetrics) a woman who is pregnant for the first time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (obstetrics) a woman who is pregnant for the first time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primigravida designates (obstetrics) a woman who is pregnant for the first time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (obstetrics) a woman who is pregnant for the first time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (obstetrics) a woman who is pregnant for the first time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primigravida designates (obstetrics) a woman who is pregnant for the first time."*

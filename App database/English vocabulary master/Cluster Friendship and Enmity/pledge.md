@@ -5,20 +5,6 @@ status: unread
 ---
 # pledge
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: The property so delivered
-> 2. **Nuance / Usage**: Make a solemn promise (to do something)
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the pledge withstood the storm*), direct object (*cleaved the pledge*), or prepositional anchor (*amidst the pledge*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Bear her this jewel, pledge of my affection."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Let it come, i’ faith, and I’ll pledge you all; and a fig for Peter!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I thank both him and you, and pledge him freely."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A solemn promise, vow, or binding commitment of loyalty, support, or honor; to bind oneself by a solemn oath.
+> 2. **Nuance / Usage**: Also denotes a tangible token or security given as a guarantee of good faith, or the act of drinking a toast to someone's health and fellowship.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the pledge withstood the storm*), direct object (*cleaved the pledge*), or prepositional anchor (*amidst the pledge*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"Bear her this jewel, **pledge** of my affection."*
+> - 📜 **Ben Jonson (*Song: To Celia*):** *"Drink to me only with thine eyes, and I will **pledge** with mine."*
+> - 📜 **Thomas Jefferson (*The Declaration of Independence*):** *"And for the support of this Declaration, with a firm reliance on the protection of divine Providence, we mutually **pledge** to each other our Lives, our Fortunes and our sacred Honor."*

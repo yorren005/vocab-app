@@ -5,15 +5,6 @@ status: unread
 ---
 # explore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inquire into.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travel to or penetrate into.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The morning was wet and foggy, and Clare, rightly informed that the caretaker only opened the windows on fine days, ventured to creep out of their chamber and explore the house, leaving Tess asleep."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"To see and explore either the ramparts and keep of the one, or the cloisters of the other, had been for many weeks a darling wish, though to be more than the visitor of an hour had seemed too nearly impossible for desire."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"We shall not have to explore our way into a hall dimly lighted by the expiring embers of a wood fire—nor be obliged to spread our beds on the floor of a room without windows, doors, or furniture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inquire into.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travel to or penetrate into.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The morning was wet and foggy, and Clare, rightly informed that the caretaker only opened the windows on fine days, ventured to creep out of their chamber and explore the house, leaving Tess asleep."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"To see and explore either the ramparts and keep of the one, or the cloisters of the other, had been for many weeks a darling wish, though to be more than the visitor of an hour had seemed too nearly impossible for desire."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"We shall not have to explore our way into a hall dimly lighted by the expiring embers of a wood fire—nor be obliged to spread our beds on the floor of a room without windows, doors, or furniture."*

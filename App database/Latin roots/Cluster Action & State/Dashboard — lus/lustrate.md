@@ -5,13 +5,6 @@ status: unread
 ---
 # lustrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Purify by means of a ritual; also used in post-communist countries to refer to the political cleansing of former officials.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Purify by means of a ritual; also used in post-communist countries to refer to the political cleansing of former officials.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Moses advanced a nation to the worship of God in Spirit instead of matter, and il- 200:6 lustrated the grand human capacities of being bestowed by immortal Mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Purify by means of a ritual; also used in post-communist countries to refer to the political cleansing of former officials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Purify by means of a ritual; also used in post-communist countries to refer to the political cleansing of former officials.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Moses advanced a nation to the worship of God in Spirit instead of matter, and il- 200:6 lustrated the grand human capacities of being bestowed by immortal Mind."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # scott
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Award-winning united states film actor (1928-1999).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English explorer who reached the south pole just a month after amundsen; he and his party died on the return journey (1868-1912).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He would gain cheerfulness, and she would learn to be an enthusiast for Scott and Lord Byron; nay, that was probably learnt already; of course they had fallen in love over poetry."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Andrew Lang with Lockhart's _Life of Scott_, "make it their breviary "--will detect some echoes of its sentences in this little book."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The fullest of the descriptions, so far as I know, is the one bequeathed to us by John Ramsay, laird of Ochtertyre, near Crieff, the patron of Burns and the friend of Sir Walter Scott."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Award-winning united states film actor (1928-1999).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English explorer who reached the south pole just a month after amundsen; he and his party died on the return journey (1868-1912).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"He would gain cheerfulness, and she would learn to be an enthusiast for Scott and Lord Byron; nay, that was probably learnt already; of course they had fallen in love over poetry."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Andrew Lang with Lockhart's _Life of Scott_, "make it their breviary "--will detect some echoes of its sentences in this little book."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The fullest of the descriptions, so far as I know, is the one bequeathed to us by John Ramsay, laird of Ochtertyre, near Crieff, the patron of Burns and the friend of Sir Walter Scott."*

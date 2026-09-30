@@ -5,13 +5,6 @@ status: unread
 ---
 # incorrupt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free of corruption or immorality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free of corruption or immorality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incorrupt designates free of corruption or immorality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free of corruption or immorality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free of corruption or immorality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incorrupt designates free of corruption or immorality."*

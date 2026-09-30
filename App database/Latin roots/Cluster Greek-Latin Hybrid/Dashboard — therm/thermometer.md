@@ -5,15 +5,6 @@ status: unread
 ---
 # thermometer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring instrument for measuring temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring instrument for measuring temperature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Poetry is a thermometer: by taking its average height you can estimate the normal temperature of its writer's mind."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The thermometer indicated a temperature of 4.25 (cent.): a temperature that at this depth seemed common to all latitudes."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"On the contrary, Captain Nemo went himself to test the temperature in the depths of the sea, and his thermometer, placed in communication with the different sheets of water, gave him the required degree immediately and accurately."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring instrument for measuring temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring instrument for measuring temperature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Poetry is a thermometer: by taking its average height you can estimate the normal temperature of its writer's mind."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The thermometer indicated a temperature of 4.25 (cent.): a temperature that at this depth seemed common to all latitudes."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"On the contrary, Captain Nemo went himself to test the temperature in the depths of the sea, and his thermometer, placed in communication with the different sheets of water, gave him the required degree immediately and accurately."*

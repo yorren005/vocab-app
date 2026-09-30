@@ -5,15 +5,6 @@ status: unread
 ---
 # line
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formation of people or things one beside another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mark that is long relative to its width.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, ’tis most sweet, When in one line two crafts directly meet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, pardon me, that I descend so low, To show the line and the predicament Wherein you range under this subtle King."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I fear my brother Mortimer doth stir About his title, and hath sent for you To line his enterprise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formation of people or things one beside another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mark that is long relative to its width.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, ’tis most sweet, When in one line two crafts directly meet."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, pardon me, that I descend so low, To show the line and the predicament Wherein you range under this subtle King."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I fear my brother Mortimer doth stir About his title, and hath sent for you To line his enterprise."*

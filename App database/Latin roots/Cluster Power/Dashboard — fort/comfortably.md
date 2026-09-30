@@ -5,15 +5,6 @@ status: unread
 ---
 # comfortably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In mental comfort; without stress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical comfort.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Oh, this is better, this is lovely," the sick man replied, comfortably leaning back in the chair."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When her master was comfortably sitting in the lovely morning sun, Apollonie fetched Loneli out."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, comfortably putting his hands into his pockets and stretching out his legs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In mental comfort; without stress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical comfort.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Oh, this is better, this is lovely," the sick man replied, comfortably leaning back in the chair."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When her master was comfortably sitting in the lovely morning sun, Apollonie fetched Loneli out."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, comfortably putting his hands into his pockets and stretching out his legs."*

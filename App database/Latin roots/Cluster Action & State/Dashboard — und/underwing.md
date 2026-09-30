@@ -5,13 +5,6 @@ status: unread
 ---
 # underwing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moth having dull forewings and brightly colored hind wings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moth having dull forewings and brightly colored hind wings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underwing designates moth having dull forewings and brightly colored hind wings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moth having dull forewings and brightly colored hind wings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moth having dull forewings and brightly colored hind wings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underwing designates moth having dull forewings and brightly colored hind wings."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # formulated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elaborate, as of theories and hypotheses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come up with (an idea, plan, explanation, theory, or principle) after a mental effort.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Of the fabricated tastes of good fashionable society she knew but little, and of the formulated self-indulgence of bad, nothing at all."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The Articles of Agreement, after having been finally formulated by the Committee, had been sent down to Presbyteries for their consideration; and the reports of the Presbyteries were laid on the table of the Assembly of that year."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"When the people generally feel differently as to the ends to be attained, a different public policy must be formulated, tho the economic analysis may not need to be changed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Elaborate, as of theories and hypotheses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come up with (an idea, plan, explanation, theory, or principle) after a mental effort.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Of the fabricated tastes of good fashionable society she knew but little, and of the formulated self-indulgence of bad, nothing at all."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"The Articles of Agreement, after having been finally formulated by the Committee, had been sent down to Presbyteries for their consideration; and the reports of the Presbyteries were laid on the table of the Assembly of that year."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"When the people generally feel differently as to the ends to be attained, a different public policy must be formulated, tho the economic analysis may not need to be changed."*

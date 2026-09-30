@@ -5,15 +5,6 @@ status: unread
 ---
 # palpitating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to throb or beat rapidly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shake with fast, tremulous movements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Amaranthine glosses came over them then, and the unresting world wheeled her round to a contrasting prospect eastward, in the shape of indecisive and palpitating stars."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She could think of nothing better to do with her palpitating self than to go in here and hide; and entering, she lighted on a spot sheltered from the damp fog by a reclining trunk, where she sank down upon a tangled couch of fronds and stems."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"After wearing and wasting her palpitating heart with every engine of regret that lonely inexperience could devise, common sense had illuminated her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to throb or beat rapidly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shake with fast, tremulous movements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Amaranthine glosses came over them then, and the unresting world wheeled her round to a contrasting prospect eastward, in the shape of indecisive and palpitating stars."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She could think of nothing better to do with her palpitating self than to go in here and hide; and entering, she lighted on a spot sheltered from the damp fog by a reclining trunk, where she sank down upon a tangled couch of fronds and stems."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"After wearing and wasting her palpitating heart with every engine of regret that lonely inexperience could devise, common sense had illuminated her."*

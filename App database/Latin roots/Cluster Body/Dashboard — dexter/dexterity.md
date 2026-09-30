@@ -5,15 +5,6 @@ status: unread
 ---
 # dexterity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adroitness in using the hands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adroitness in using the hands.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O most wicked speed, to post With such dexterity to incestuous sheets!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, Falstaff, you carried your guts away as nimbly, with as quick dexterity, and roared for mercy, and still ran and roared, as ever I heard bull-calf."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that my admirable dexterity of wit, my counterfeiting the action of an old woman, delivered me, the knave constable had set me i’ the stocks, i’ the common stocks, for a witch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adroitness in using the hands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adroitness in using the hands.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O most wicked speed, to post With such dexterity to incestuous sheets!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, Falstaff, you carried your guts away as nimbly, with as quick dexterity, and roared for mercy, and still ran and roared, as ever I heard bull-calf."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that my admirable dexterity of wit, my counterfeiting the action of an old woman, delivered me, the knave constable had set me i’ the stocks, i’ the common stocks, for a witch."*

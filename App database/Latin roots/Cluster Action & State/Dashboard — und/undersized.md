@@ -5,15 +5,6 @@ status: unread
 ---
 # undersized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Smaller than normal for its kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smaller than normal for its kind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There was a little undersized one that would fly into real rages, sometimes with me, sometimes with its fellows."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Nobody can call such an undersized man handsome."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"It turned aside for the boulders, and also for an undersized railway-truck lying there on its back with its wheels in the air."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Smaller than normal for its kind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smaller than normal for its kind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There was a little undersized one that would fly into real rages, sometimes with me, sometimes with its fellows."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Nobody can call such an undersized man handsome."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"It turned aside for the boulders, and also for an undersized railway-truck lying there on its back with its wheels in the air."*

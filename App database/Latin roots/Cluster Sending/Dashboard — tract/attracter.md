@@ -5,13 +5,6 @@ status: unread
 ---
 # attracter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An entertainer who attracts large audiences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) a point in the ideal multidimensional phase space that is used to describe a system toward which the system tends to evolve regardless of the starting conditions of the system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attracter designates an entertainer who attracts large audiences."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An entertainer who attracts large audiences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) a point in the ideal multidimensional phase space that is used to describe a system toward which the system tends to evolve regardless of the starting conditions of the system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attracter designates an entertainer who attracts large audiences."*

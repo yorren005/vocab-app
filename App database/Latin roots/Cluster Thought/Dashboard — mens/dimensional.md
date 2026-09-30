@@ -5,15 +5,6 @@ status: unread
 ---
 # dimensional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to dimensions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having dimension--the quality or character or stature proper to a person; - norman cousins.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The capsule is transmitting orders to each ship of the fleet to move to new coordinates in a three-dimensional tract."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A globe-shaped view tank, suspended close overhead displayed the three-dimensional battle zone."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"But some philosophical people have been asking why _three_ dimensions particularly—why not another direction at right angles to the other three?—and have even tried to construct a Four-Dimensional geometry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to dimensions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having dimension--the quality or character or stature proper to a person; - norman cousins.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The capsule is transmitting orders to each ship of the fleet to move to new coordinates in a three-dimensional tract."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A globe-shaped view tank, suspended close overhead displayed the three-dimensional battle zone."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"But some philosophical people have been asking why _three_ dimensions particularly—why not another direction at right angles to the other three?—and have even tried to construct a Four-Dimensional geometry."*

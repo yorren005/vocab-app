@@ -5,15 +5,6 @@ status: unread
 ---
 # gent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal abbreviation of `gentleman'.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A boy or man.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"I had thought I had been a younger Brother, a poor Gent."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Do ye envy the city gent, Behint a kist to lie an’ sklent; Or pursue-proud, big wi’ cent. per cent."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Our deeds are fetters that we forge ourselves. 2_d Gent._ Ay, truly: but I think it is the world That brings the iron."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal abbreviation of `gentleman'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A boy or man.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"I had thought I had been a younger Brother, a poor Gent."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Do ye envy the city gent, Behint a kist to lie an’ sklent; Or pursue-proud, big wi’ cent. per cent."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Our deeds are fetters that we forge ourselves. 2_d Gent._ Ay, truly: but I think it is the world That brings the iron."*

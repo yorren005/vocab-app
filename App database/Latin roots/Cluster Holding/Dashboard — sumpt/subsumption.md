@@ -5,13 +5,6 @@ status: unread
 ---
 # subsumption
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The premise of a syllogism that contains the minor term (which is the subject of the conclusion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incorporating something under a more general category.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subsumption designates the premise of a syllogism that contains the minor term (which is the subject of the conclusion)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The premise of a syllogism that contains the minor term (which is the subject of the conclusion).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incorporating something under a more general category.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subsumption designates the premise of a syllogism that contains the minor term (which is the subject of the conclusion)."*

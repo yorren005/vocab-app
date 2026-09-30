@@ -5,13 +5,6 @@ status: unread
 ---
 # belonephobia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal fear of sharp or pointed objects (such as hypodermic needles or scissors) : aichmophobia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal fear of sharp or pointed objects (such as hypodermic needles or scissors) : aichmophobia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, belonephobia designates abnormal fear of sharp or pointed objects (such as hypodermic needles or scissors) : aichmophobia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal fear of sharp or pointed objects (such as hypodermic needles or scissors) : aichmophobia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal fear of sharp or pointed objects (such as hypodermic needles or scissors) : aichmophobia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, belonephobia designates abnormal fear of sharp or pointed objects (such as hypodermic needles or scissors) : aichmophobia."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # poetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of poets or poetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to writing poetry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But how could this admirable and poetic man ever have descended into the Valley of Humiliation, have felt with the man of Uz—as she herself had felt two or three years ago—“My soul chooseth strangling and death rather than my life."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Balder's horse, too, with all its trappings, was burned on the pile.[256] [Tale of Balder in the older _Edda_.] In the older or poetic _Edda_ the tragic tale of Balder is hinted at rather than told at length."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"M’Adam, Of Craigen-Gillan In answer to an obliging Letter he sent in the commencement of my poetic career."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of poets or poetry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to writing poetry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But how could this admirable and poetic man ever have descended into the Valley of Humiliation, have felt with the man of Uz—as she herself had felt two or three years ago—“My soul chooseth strangling and death rather than my life."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Balder's horse, too, with all its trappings, was burned on the pile.[256] [Tale of Balder in the older _Edda_.] In the older or poetic _Edda_ the tragic tale of Balder is hinted at rather than told at length."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"M’Adam, Of Craigen-Gillan In answer to an obliging Letter he sent in the commencement of my poetic career."*

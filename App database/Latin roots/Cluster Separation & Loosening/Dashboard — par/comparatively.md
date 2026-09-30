@@ -5,15 +5,6 @@ status: unread
 ---
 # comparatively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a relative manner; by comparison to something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a relative manner; by comparison to something else.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"It was a much safer place for a gentleman in his predicament: he might there be important at comparatively little expense."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Yes, I am sure: carry her gently to the inn.” “Yes, yes, to the inn,” repeated Captain Wentworth, comparatively collected, and eager to be doing something."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whenever Boldwood dozed she took a form, and comparatively ceased to be a vision: when he awoke there was the letter justifying the dream."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a relative manner; by comparison to something else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a relative manner; by comparison to something else.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"It was a much safer place for a gentleman in his predicament: he might there be important at comparatively little expense."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Yes, I am sure: carry her gently to the inn.” “Yes, yes, to the inn,” repeated Captain Wentworth, comparatively collected, and eager to be doing something."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whenever Boldwood dozed she took a form, and comparatively ceased to be a vision: when he awoke there was the letter justifying the dream."*

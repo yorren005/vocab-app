@@ -5,15 +5,6 @@ status: unread
 ---
 # tab
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The bill in a restaurant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sensationalist journalism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hodak stretched, quickly finished his drink, paid his tab, and slapped drinking partners' shoulders good-bye."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"It ought to make you thankful that you are so well cared for, Tab.” The cat opened her eyes and winked drowsily at her mistress."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Now, the Guardian Station prison, I am informed, keeps tabs on its inmates using a sophisticated surveillance system."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The bill in a restaurant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sensationalist journalism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hodak stretched, quickly finished his drink, paid his tab, and slapped drinking partners' shoulders good-bye."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"It ought to make you thankful that you are so well cared for, Tab.” The cat opened her eyes and winked drowsily at her mistress."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Now, the Guardian Station prison, I am informed, keeps tabs on its inmates using a sophisticated surveillance system."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # euphrasy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phren.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"But to nobler sights Michael from Adam’s eyes the film removed, Which that false fruit that promised clearer sight Had bred; then purged with euphrasy and rue The visual nerve, for he had much to see; And from the well of life three drops instilled."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phren.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Cognition & Mind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"But to nobler sights Michael from Adam’s eyes the film removed, Which that false fruit that promised clearer sight Had bred; then purged with euphrasy and rue The visual nerve, for he had much to see; And from the well of life three drops instilled."*

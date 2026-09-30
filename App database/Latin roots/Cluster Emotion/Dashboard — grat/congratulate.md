@@ -5,15 +5,6 @@ status: unread
 ---
 # congratulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Say something to someone that expresses praise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express congratulations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, it is the King’s most sweet pleasure and affection to congratulate the Princess at her pavilion in the posteriors of this day, which the rude multitude call the afternoon."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If you possess it and find it comfortable, I am quite delighted and congratulate you heartily."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And nobody, my love, will congratulate you more sincerely on such a marriage than I shall.” It was curious that this should make me uncomfortable, but I think it did."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Say something to someone that expresses praise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express congratulations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, it is the King’s most sweet pleasure and affection to congratulate the Princess at her pavilion in the posteriors of this day, which the rude multitude call the afternoon."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"If you possess it and find it comfortable, I am quite delighted and congratulate you heartily."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And nobody, my love, will congratulate you more sincerely on such a marriage than I shall.” It was curious that this should make me uncomfortable, but I think it did."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # rub
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unforeseen obstacle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of rubbing or wiping.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This palt’ring Becomes not Rome, nor has Coriolanus Deserved this so dishonoured rub, laid falsely I’ th’ plain way of his merit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To sleep, perchance to dream—ay, there’s the rub, For in that sleep of death what dreams may come, When we have shuffled off this mortal coil, Must give us pause."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, Hamlet, take my napkin, rub thy brows."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unforeseen obstacle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of rubbing or wiping.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This palt’ring Becomes not Rome, nor has Coriolanus Deserved this so dishonoured rub, laid falsely I’ th’ plain way of his merit."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To sleep, perchance to dream—ay, there’s the rub, For in that sleep of death what dreams may come, When we have shuffled off this mortal coil, Must give us pause."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, Hamlet, take my napkin, rub thy brows."*

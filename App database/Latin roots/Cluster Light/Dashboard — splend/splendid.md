@@ -5,15 +5,6 @@ status: unread
 ---
 # splendid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having great beauty and splendor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very good;of the highest quality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Since the three would, in later years, have great authority in the little community, it would be splendid if they were educated alike and could agree thoroughly in everything."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"This is a splendid principle and ought to be followed."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is a splendid thing to finish anything one has begun, but there are things that cannot be finished all at once."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having great beauty and splendor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very good;of the highest quality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Since the three would, in later years, have great authority in the little community, it would be splendid if they were educated alike and could agree thoroughly in everything."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"This is a splendid principle and ought to be followed."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is a splendid thing to finish anything one has begun, but there are things that cannot be finished all at once."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # conifer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any gymnospermous tree or shrub bearing cones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any gymnospermous tree or shrub bearing cones.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the hall of Osiris at Denderah the coffin containing the hawk-headed mummy of the god is clearly depicted as enclosed within a tree, apparently a conifer, the trunk and branches of which are seen above and below the coffin."*
-> - 📜 **James Joyce (*Ulysses*):** *"Larches, firs, all the trees of the conifer family are going fast."*
-> - 📜 **James Joyce (*Ulysses*):** *"The fashionable international world attended _en masse_ this afternoon at the wedding of the chevalier Jean Wyse de Neaulan, grand high chief ranger of the Irish National Foresters, with Miss Fir Conifer of Pine Valley."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any gymnospermous tree or shrub bearing cones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any gymnospermous tree or shrub bearing cones.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the hall of Osiris at Denderah the coffin containing the hawk-headed mummy of the god is clearly depicted as enclosed within a tree, apparently a conifer, the trunk and branches of which are seen above and below the coffin."*
+> - 📜 **James Joyce (*Ulysses*):** *"Larches, firs, all the trees of the conifer family are going fast."*
+> - 📜 **James Joyce (*Ulysses*):** *"The fashionable international world attended _en masse_ this afternoon at the wedding of the chevalier Jean Wyse de Neaulan, grand high chief ranger of the Irish National Foresters, with Miss Fir Conifer of Pine Valley."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # palaver
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long parley usually between persons of different cultures or levels of sophistication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conference, discussion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Dad useter take the hide off'n me and Bob for lyin'; an' then he'd stand an' palaver folks that he jest couldn't scurce abide, fur I heard him say so."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I knew some mystic palaver or other had been going on, but what that mummery had to do with the death or disappearance of my father I did not care--only just streaked it down the passage."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The custom is preceded by four weeks' dead silence; no gun is allowed to be fired, no drum to be beaten, no palaver to be made between man and man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long parley usually between persons of different cultures or levels of sophistication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conference, discussion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Dad useter take the hide off'n me and Bob for lyin'; an' then he'd stand an' palaver folks that he jest couldn't scurce abide, fur I heard him say so."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I knew some mystic palaver or other had been going on, but what that mummery had to do with the death or disappearance of my father I did not care--only just streaked it down the passage."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The custom is preceded by four weeks' dead silence; no gun is allowed to be fired, no drum to be beaten, no palaver to be made between man and man."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # alms
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (such as money or food) given freely to relieve the poor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something (such as money or food) given freely to relieve the poor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They have made him drink alms-drink."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A beggar’s tongue Make motion through my lips, and my armed knees, Who bowed but in my stirrup, bend like his That hath received an alms!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even so As with a man by his own alms empoisoned And with his charity slain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (such as money or food) given freely to relieve the poor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something (such as money or food) given freely to relieve the poor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They have made him drink alms-drink."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A beggar’s tongue Make motion through my lips, and my armed knees, Who bowed but in my stirrup, bend like his That hath received an alms!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even so As with a man by his own alms empoisoned And with his charity slain."*

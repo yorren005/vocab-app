@@ -5,15 +5,6 @@ status: unread
 ---
 # saxe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A french marshal who distinguished himself in the war of the austrian succession (1696-1750).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area in germany around the upper elbe river; the original home of the saxons.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"And what does she propose to do with the photograph?” “To ruin me.” “But how?” “I am about to be married.” “So I have heard.” “To Clotilde Lothman von Saxe-Meningen, second daughter of the King of Scandinavia."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I went home to Saxe-Coburg Square, and I took the advice of my assistant."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Come along!” We travelled by the Underground as far as Aldersgate; and a short walk took us to Saxe-Coburg Square, the scene of the singular story which we had listened to in the morning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A french marshal who distinguished himself in the war of the austrian succession (1696-1750).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area in germany around the upper elbe river; the original home of the saxons.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"And what does she propose to do with the photograph?” “To ruin me.” “But how?” “I am about to be married.” “So I have heard.” “To Clotilde Lothman von Saxe-Meningen, second daughter of the King of Scandinavia."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I went home to Saxe-Coburg Square, and I took the advice of my assistant."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Come along!” We travelled by the Underground as far as Aldersgate; and a short walk took us to Saxe-Coburg Square, the scene of the singular story which we had listened to in the morning."*

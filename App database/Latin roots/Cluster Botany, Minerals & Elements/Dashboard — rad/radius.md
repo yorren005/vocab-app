@@ -5,15 +5,6 @@ status: unread
 ---
 # radius
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The length of a line segment between the center and circumference of a circle or sphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A straight line from the center to the perimeter of a circle (or from the center to the surface of a sphere).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was not quite so far off as could have been wished; but it was probably far enough, her radius of movement and repute having been so small."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"No one has ever believed this very much outside the radius of Christ's person and influence."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But he forgot him in a minute--or remembered him only in the association with Isabel which brought Val into the radius of his good will."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The length of a line segment between the center and circumference of a circle or sphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A straight line from the center to the perimeter of a circle (or from the center to the surface of a sphere).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was not quite so far off as could have been wished; but it was probably far enough, her radius of movement and repute having been so small."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"No one has ever believed this very much outside the radius of Christ's person and influence."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"But he forgot him in a minute--or remembered him only in the association with Isabel which brought Val into the radius of his good will."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # calypter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scalelike structure between the base of the wing and the halter of a two-winged fly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scalelike structure between the base of the wing and the halter of a two-winged fly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calypter designates scalelike structure between the base of the wing and the halter of a two-winged fly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Scalelike structure between the base of the wing and the halter of a two-winged fly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scalelike structure between the base of the wing and the halter of a two-winged fly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calypter designates scalelike structure between the base of the wing and the halter of a two-winged fly."*

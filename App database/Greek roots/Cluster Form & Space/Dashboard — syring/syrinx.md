@@ -5,13 +5,6 @@ status: unread
 ---
 # syrinx
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: panpipe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: the vocal organ of birds that is a special modification of the lower part of the trachea or of the bronchi or of both.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog syrinx as a recognized concept in linguistic and etymological taxonomy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: panpipe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: the vocal organ of birds that is a special modification of the lower part of the trachea or of the bronchi or of both.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog syrinx as a recognized concept in linguistic and etymological taxonomy."*

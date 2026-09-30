@@ -5,15 +5,6 @@ status: unread
 ---
 # promiscuously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an indiscriminate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a licentious and promiscuous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now I’ll be more interesting, and let you see some loose play—giving all the cuts and points, infantry and cavalry, quicker than lightning, and as promiscuously—with just enough rule to regulate instinct and yet not to fetter it."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In the next place, it may fairly be supposed, that there would be less difficulty in gaining some of the jurors promiscuously taken from the public mass, than in gaining men who had been chosen by the government for their probity and good character."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Everything had been heaped in promiscuously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an indiscriminate manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a licentious and promiscuous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now I’ll be more interesting, and let you see some loose play—giving all the cuts and points, infantry and cavalry, quicker than lightning, and as promiscuously—with just enough rule to regulate instinct and yet not to fetter it."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In the next place, it may fairly be supposed, that there would be less difficulty in gaining some of the jurors promiscuously taken from the public mass, than in gaining men who had been chosen by the government for their probity and good character."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Everything had been heaped in promiscuously."*

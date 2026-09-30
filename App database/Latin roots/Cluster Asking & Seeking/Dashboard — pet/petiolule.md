@@ -5,13 +5,6 @@ status: unread
 ---
 # petiolule
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The stalk of a leaflet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The stalk of a leaflet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petiolule designates the stalk of a leaflet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The stalk of a leaflet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The stalk of a leaflet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petiolule designates the stalk of a leaflet."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # thermoacidophile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Archaebacteria that thrive in strongly acidic environments at high temperatures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaebacteria that thrive in strongly acidic environments at high temperatures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoacidophile designates archaebacteria that thrive in strongly acidic environments at high temperatures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Archaebacteria that thrive in strongly acidic environments at high temperatures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaebacteria that thrive in strongly acidic environments at high temperatures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoacidophile designates archaebacteria that thrive in strongly acidic environments at high temperatures."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # incandescent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Emitting light as a result of being heated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by ardent emotion or intensity or brilliance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His fire was waiting incandescent, his steam was at high pressure, in a few seconds he could make the long strap move at an invisible velocity."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Sensors, analyzers, siphons and beam-guides paralleled the lasers' signals along an incandescent column of plasma from the dissolving planetoid into the Extractor's processes and, when ready, into the hopper."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"There is the secret of those beautiful incandescent glow lamps that you so often see now-a-days (Fig. 15)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Emitting light as a result of being heated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by ardent emotion or intensity or brilliance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His fire was waiting incandescent, his steam was at high pressure, in a few seconds he could make the long strap move at an invisible velocity."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Sensors, analyzers, siphons and beam-guides paralleled the lasers' signals along an incandescent column of plasma from the dissolving planetoid into the Extractor's processes and, when ready, into the hopper."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"There is the secret of those beautiful incandescent glow lamps that you so often see now-a-days (Fig. 15)."*

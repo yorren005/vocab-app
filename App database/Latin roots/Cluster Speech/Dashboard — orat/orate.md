@@ -5,13 +5,6 @@ status: unread
 ---
 # orate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Talk pompously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk pompously.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Bring a stranger within thy tower it will go hard but thou wilt have the secondbest bed. _Orate, fratres, pro memetipso_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Talk pompously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk pompously.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Bring a stranger within thy tower it will go hard but thou wilt have the secondbest bed. _Orate, fratres, pro memetipso_."*

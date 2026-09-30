@@ -5,15 +5,6 @@ status: unread
 ---
 # abhorrence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hate coupled with disgust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hate coupled with disgust.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Did he look like—not like YOU?” says the woman with abhorrence."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Surely then he might have regarded that abhorrence of the un-intact state, which he had inherited with the creed of mysticism, as at least open to correction when the result was due to treachery."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"As her successor in that house, she regarded her with jealous abhorrence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hate coupled with disgust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hate coupled with disgust.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Did he look like—not like YOU?” says the woman with abhorrence."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Surely then he might have regarded that abhorrence of the un-intact state, which he had inherited with the creed of mysticism, as at least open to correction when the result was due to treachery."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"As her successor in that house, she regarded her with jealous abhorrence."*

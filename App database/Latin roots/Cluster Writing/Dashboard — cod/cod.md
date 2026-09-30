@@ -5,15 +5,6 @@ status: unread
 ---
 # cod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The vessel that contains the seeds of a plant (not the seeds themselves).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lean white flesh of important north atlantic food fish; usually baked or poached.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"We had a fine cod-fish, a piece of roast beef, a dish of cutlets, and a pudding; an excellent dinner, if it had had any cooking to speak of, but it was almost raw."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Why, what a cod’s head and shoulders I am,” said Mr."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Of these I picked up no less than twelve hundred and nineteen, which I split and cured in the sun after the manner of cod."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vessel that contains the seeds of a plant (not the seeds themselves).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lean white flesh of important north atlantic food fish; usually baked or poached.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"We had a fine cod-fish, a piece of roast beef, a dish of cutlets, and a pudding; an excellent dinner, if it had had any cooking to speak of, but it was almost raw."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Why, what a cod’s head and shoulders I am,” said Mr."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Of these I picked up no less than twelve hundred and nineteen, which I split and cured in the sun after the manner of cod."*

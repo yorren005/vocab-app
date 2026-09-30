@@ -5,15 +5,6 @@ status: unread
 ---
 # atheistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who does not believe in the existence of God or any gods : one who subscribes to or advocates atheism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who does not believe in the existence of God or any gods : one who subscribes to or advocates atheism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A future life?” Prince Andrew repeated, but Pierre, giving him no time to reply, took the repetition for a denial, the more readily as he knew Prince Andrew’s former atheistic convictions."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"When we suppose that the fact in the case of the Almighty is as we are able to hear, we err in an atheistic way."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"You were the servants of the atheistic popes, of cruel kings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who does not believe in the existence of God or any gods : one who subscribes to or advocates atheism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who does not believe in the existence of God or any gods : one who subscribes to or advocates atheism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A future life?” Prince Andrew repeated, but Pierre, giving him no time to reply, took the repetition for a denial, the more readily as he knew Prince Andrew’s former atheistic convictions."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"When we suppose that the fact in the case of the Almighty is as we are able to hear, we err in an atheistic way."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"You were the servants of the atheistic popes, of cruel kings."*

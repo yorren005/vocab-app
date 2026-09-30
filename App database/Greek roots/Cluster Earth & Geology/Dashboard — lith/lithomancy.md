@@ -5,13 +5,6 @@ status: unread
 ---
 # lithomancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination by means of stones or stone talismans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divination by means of stones or stone talismans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithomancy designates divination by means of stones or stone talismans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination by means of stones or stone talismans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divination by means of stones or stone talismans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithomancy designates divination by means of stones or stone talismans."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # skepticism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Doubt about the truth of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The disbelief in any claims of ultimate knowledge.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"But as the current of its doctrines is so entirely opposed to our natural inclinations, as to render a moral renovation indispensable to a perception of the glory of revealed truth; all such ground of skepticism is removed."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"That's the test.' The look of discovery was replaced by skepticism."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Neither 209:12 philosophy nor skepticism can hinder the march of the Science which reveals the supremacy of Mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Doubt about the truth of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The disbelief in any claims of ultimate knowledge.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"But as the current of its doctrines is so entirely opposed to our natural inclinations, as to render a moral renovation indispensable to a perception of the glory of revealed truth; all such ground of skepticism is removed."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"That's the test.' The look of discovery was replaced by skepticism."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Neither 209:12 philosophy nor skepticism can hinder the march of the Science which reveals the supremacy of Mind."*

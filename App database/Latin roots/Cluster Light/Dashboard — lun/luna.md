@@ -5,15 +5,6 @@ status: unread
 ---
 # luna
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman mythology) the goddess of the moon; counterpart of greek selene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) the goddess of the moon; counterpart of greek selene.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A title to Phoebe, to Luna, to the moon."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Is fortune’s fickle Luna waning?"*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A deployment station to O'Hare and hundreds of his colleagues, and to more than four centuries of his predecessors, the Depot was as much home to him as his permanent station afloat in space between Earth and Luna."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman mythology) the goddess of the moon; counterpart of greek selene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) the goddess of the moon; counterpart of greek selene.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A title to Phoebe, to Luna, to the moon."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Is fortune’s fickle Luna waning?"*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A deployment station to O'Hare and hundreds of his colleagues, and to more than four centuries of his predecessors, the Depot was as much home to him as his permanent station afloat in space between Earth and Luna."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # splendor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quality that outshines the usual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being magnificent or splendid or grand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It actually glistened in its renewed splendor, and the Baron silently looked about him."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"O married love! each heart shall own; Where two congenial souls unite, Thy golden chains inlaid with down, Thy lamp with heaven's own splendor bright." LANGHORNE."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"He has been decorated with attributes superior in dignity and splendor to those of a king of Great Britain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quality that outshines the usual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being magnificent or splendid or grand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It actually glistened in its renewed splendor, and the Baron silently looked about him."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"O married love! each heart shall own; Where two congenial souls unite, Thy golden chains inlaid with down, Thy lamp with heaven's own splendor bright." LANGHORNE."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"He has been decorated with attributes superior in dignity and splendor to those of a king of Great Britain."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # duce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leader.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leader.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"But does it pro- duce any lasting benefit?"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mind is the divine Principle, Love, and can pro- duce nothing unlike the eternal Father-Mother, God. 335:27 Reality is spiritual, harmonious, immutable, immortal, divine, eternal."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"If matter is first, it cannot pro- 551:6 duce Mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Leader.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leader.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"But does it pro- duce any lasting benefit?"*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mind is the divine Principle, Love, and can pro- duce nothing unlike the eternal Father-Mother, God. 335:27 Reality is spiritual, harmonious, immutable, immortal, divine, eternal."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"If matter is first, it cannot pro- 551:6 duce Mind."*

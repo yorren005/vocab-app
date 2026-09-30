@@ -5,15 +5,6 @@ status: unread
 ---
 # barman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An employee who mixes and serves alcoholic drinks at a bar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An employee who mixes and serves alcoholic drinks at a bar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The barman rushed forward and raised his hand in respectful greeting."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Honored to see you, Major Scarf," he said, "what'll it be?" "Firehouse Red, and I don't mean the runny slops you peddle to the bar flies." The barman dashed off and returned with a long-necked flagon and a large tumbler."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The barman set the brimming tumbler close to the Major's massive, thick-fingered hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An employee who mixes and serves alcoholic drinks at a bar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An employee who mixes and serves alcoholic drinks at a bar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The barman rushed forward and raised his hand in respectful greeting."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Honored to see you, Major Scarf," he said, "what'll it be?" "Firehouse Red, and I don't mean the runny slops you peddle to the bar flies." The barman dashed off and returned with a long-necked flagon and a large tumbler."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The barman set the brimming tumbler close to the Major's massive, thick-fingered hand."*

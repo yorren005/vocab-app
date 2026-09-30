@@ -5,15 +5,6 @@ status: unread
 ---
 # pet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A domesticated animal kept for companionship or amusement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A special loved one.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Why, my pet of pets, I could have told you that weeks and weeks ago!” To see Ada lift up her flushed face in joyful surprise, and hold me round the neck, and laugh, and cry, and blush, was so pleasant!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Unless my cousin John is blind, my pet,” said I, “I should think my cousin John knows pretty well as much as we know.” “We want to speak to him before Richard goes,” said Ada timidly, “and we wanted you to advise us, and to tell him so."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He can’t say better than that, Esther, can he?” cried my pet triumphantly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A domesticated animal kept for companionship or amusement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A special loved one.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Why, my pet of pets, I could have told you that weeks and weeks ago!” To see Ada lift up her flushed face in joyful surprise, and hold me round the neck, and laugh, and cry, and blush, was so pleasant!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Unless my cousin John is blind, my pet,” said I, “I should think my cousin John knows pretty well as much as we know.” “We want to speak to him before Richard goes,” said Ada timidly, “and we wanted you to advise us, and to tell him so."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He can’t say better than that, Esther, can he?” cried my pet triumphantly."*

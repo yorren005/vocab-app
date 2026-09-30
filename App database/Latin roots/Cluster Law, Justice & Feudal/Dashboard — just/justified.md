@@ -5,15 +5,6 @@ status: unread
 ---
 # justified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show to be reasonable or provide adequate ground for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show to be right by providing justification or proof.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But will you be more justified?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wherein our entertainment shall shame us; we will be justified in our loves."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, Camillo, And take her by the hand, whose worth and honesty Is richly noted, and here justified By us, a pair of kings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Show to be reasonable or provide adequate ground for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show to be right by providing justification or proof.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But will you be more justified?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wherein our entertainment shall shame us; we will be justified in our loves."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, Camillo, And take her by the hand, whose worth and honesty Is richly noted, and here justified By us, a pair of kings."*

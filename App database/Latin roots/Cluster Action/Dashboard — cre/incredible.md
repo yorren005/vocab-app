@@ -5,15 +5,6 @@ status: unread
 ---
 # incredible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond belief or understanding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond belief or understanding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I tell you, ’tis incredible to believe How much she loves me: O! the kindest Kate She hung about my neck, and kiss on kiss She vied so fast, protesting oath on oath, That in a twink she won me to her love."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She informed the Rector's widow that she had come to her with a quite incredible communication."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He had, moreover, been very much afraid that she would tell him that no ghost of Wildenstein existed, after he himself had seen the incredible apparition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond belief or understanding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond belief or understanding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I tell you, ’tis incredible to believe How much she loves me: O! the kindest Kate She hung about my neck, and kiss on kiss She vied so fast, protesting oath on oath, That in a twink she won me to her love."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She informed the Rector's widow that she had come to her with a quite incredible communication."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He had, moreover, been very much afraid that she would tell him that no ghost of Wildenstein existed, after he himself had seen the incredible apparition."*

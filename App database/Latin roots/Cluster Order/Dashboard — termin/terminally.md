@@ -5,13 +5,6 @@ status: unread
 ---
 # terminally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At the end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At the end.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"They are produced either terminally or laterally upon the threads of the mycelium, from which they are separated by septa or partitions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At the end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At the end.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"They are produced either terminally or laterally upon the threads of the mycelium, from which they are separated by septa or partitions."*

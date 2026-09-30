@@ -5,13 +5,6 @@ status: unread
 ---
 # catechumen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A convert to Christianity receiving training in doctrine and discipline before baptism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One receiving instruction in the basic doctrines of Christianity before admission to communicant membership in a church.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The catechumens filled several rows of pews in the front of the spacious area of the building, and, when they rose in a body to make profession of their faith, the scene is described as having been most impressive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A convert to Christianity receiving training in doctrine and discipline before baptism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One receiving instruction in the basic doctrines of Christianity before admission to communicant membership in a church.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"The catechumens filled several rows of pews in the front of the spacious area of the building, and, when they rose in a body to make profession of their faith, the scene is described as having been most impressive."*

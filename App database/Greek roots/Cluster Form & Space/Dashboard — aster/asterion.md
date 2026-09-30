@@ -5,13 +5,6 @@ status: unread
 ---
 # asterion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The craniometric point at the junction of the lamboid suture and the occipitomastoid suture and the parietomastoid suture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craniometric point at the junction of the lamboid suture and the occipitomastoid suture and the parietomastoid suture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asterion designates the craniometric point at the junction of the lamboid suture and the occipitomastoid suture and the parietomastoid suture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The craniometric point at the junction of the lamboid suture and the occipitomastoid suture and the parietomastoid suture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craniometric point at the junction of the lamboid suture and the occipitomastoid suture and the parietomastoid suture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asterion designates the craniometric point at the junction of the lamboid suture and the occipitomastoid suture and the parietomastoid suture."*

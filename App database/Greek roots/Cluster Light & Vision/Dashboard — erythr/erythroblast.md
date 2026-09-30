@@ -5,13 +5,6 @@ status: unread
 ---
 # erythroblast
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nucleated cell in bone marrow from which red blood cells develop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nucleated cell in bone marrow from which red blood cells develop.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythroblast designates a nucleated cell in bone marrow from which red blood cells develop."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nucleated cell in bone marrow from which red blood cells develop.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nucleated cell in bone marrow from which red blood cells develop.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythroblast designates a nucleated cell in bone marrow from which red blood cells develop."*

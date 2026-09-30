@@ -5,14 +5,6 @@ status: unread
 ---
 # preponderating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weigh more heavily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having superior power and influence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"There can be no doubt that this circumstance will always secure to them a preponderating influence over the militia."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Hitherto the preponderating tendency of the Negro has been toward disintegration, showing the lack of a proper measure of fellow-feeling; the tendency of the Anglo-Saxon is toward racial integration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Weigh more heavily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having superior power and influence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"There can be no doubt that this circumstance will always secure to them a preponderating influence over the militia."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Hitherto the preponderating tendency of the Negro has been toward disintegration, showing the lack of a proper measure of fellow-feeling; the tendency of the Anglo-Saxon is toward racial integration."*

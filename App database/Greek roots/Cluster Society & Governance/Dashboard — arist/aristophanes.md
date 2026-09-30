@@ -5,15 +5,6 @@ status: unread
 ---
 # aristophanes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient greek dramatist remembered for his comedies (448-380 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient greek dramatist remembered for his comedies (448-380 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"See Harpocration and Suidas, _s.v._ [Greek: Skiron]; Scholiast on Aristophanes, _Eccles._ 18. [57] Mrs."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Academy, April 17: on ‘Aristophanes’ Apology’, by J."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Athenaeum, April 17, pp. 513, 514: on ‘Aristophanes’ Apology’. 1875."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient greek dramatist remembered for his comedies (448-380 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient greek dramatist remembered for his comedies (448-380 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"See Harpocration and Suidas, _s.v._ [Greek: Skiron]; Scholiast on Aristophanes, _Eccles._ 18. [57] Mrs."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Academy, April 17: on ‘Aristophanes’ Apology’, by J."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Athenaeum, April 17, pp. 513, 514: on ‘Aristophanes’ Apology’. 1875."*

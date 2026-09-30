@@ -5,15 +5,6 @@ status: unread
 ---
 # perpetuation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of prolonging something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of prolonging something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is more than possible that this uniformity may be found by experience to be of great importance to the public welfare, both as a security against the perpetuation of the same spirit in the body, and as a cure for the diseases of faction."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Their views were opposed by the Strong Government Whigs who argued that local self-government was inadequate to the establishment and perpetuation of political freedom, and that it afforded little or no power to successfully resist foreign invasion."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The perpetuation of the Federal Union, as the palladium of our civil and religious liberties, and the only sure Bulwark of American independence. 3d."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of prolonging something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of prolonging something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is more than possible that this uniformity may be found by experience to be of great importance to the public welfare, both as a security against the perpetuation of the same spirit in the body, and as a cure for the diseases of faction."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Their views were opposed by the Strong Government Whigs who argued that local self-government was inadequate to the establishment and perpetuation of political freedom, and that it afforded little or no power to successfully resist foreign invasion."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The perpetuation of the Federal Union, as the palladium of our civil and religious liberties, and the only sure Bulwark of American independence. 3d."*

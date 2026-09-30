@@ -5,15 +5,6 @@ status: unread
 ---
 # parapet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low wall along the edge of a roof or balcony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fortification consisting of a low wall.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She crouches on the parapet outside for hours and hours."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Weevle are the possessors of those eyes, and they have been leaning in conversation against the low stone parapet under the trees."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, refolding his arms, resettles himself against the parapet, as resuming a conversation of interest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low wall along the edge of a roof or balcony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fortification consisting of a low wall.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"She crouches on the parapet outside for hours and hours."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Weevle are the possessors of those eyes, and they have been leaning in conversation against the low stone parapet under the trees."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, refolding his arms, resettles himself against the parapet, as resuming a conversation of interest."*

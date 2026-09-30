@@ -5,13 +5,6 @@ status: unread
 ---
 # levallorphan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Drug (trade name lorfan) that is related to morphine but that counteracts the respiratory depression produced by morphine poisoning but without affecting its analgesic effects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drug (trade name lorfan) that is related to morphine but that counteracts the respiratory depression produced by morphine poisoning but without affecting its analgesic effects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levallorphan designates drug (trade name lorfan) that is related to morphine but that counteracts the respiratory depression produced by morphine poisoning but without affecting its analgesic effects."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Drug (trade name lorfan) that is related to morphine but that counteracts the respiratory depression produced by morphine poisoning but without affecting its analgesic effects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drug (trade name lorfan) that is related to morphine but that counteracts the respiratory depression produced by morphine poisoning but without affecting its analgesic effects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levallorphan designates drug (trade name lorfan) that is related to morphine but that counteracts the respiratory depression produced by morphine poisoning but without affecting its analgesic effects."*

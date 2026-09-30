@@ -5,13 +5,6 @@ status: unread
 ---
 # severeness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of the degree of something undesirable e.g. pain or weather.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something hard to endure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, severeness designates used of the degree of something undesirable e.g. pain or weather."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of the degree of something undesirable e.g. pain or weather.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something hard to endure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, severeness designates used of the degree of something undesirable e.g. pain or weather."*

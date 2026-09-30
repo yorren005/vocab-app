@@ -5,15 +5,6 @@ status: unread
 ---
 # candlemas
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feast day commemorating the presentation of christ in the temple; a quarter day in scotland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feast day commemorating the presentation of christ in the temple; a quarter day in scotland.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Then I was three year at Mellstock, and I’ve been here one-and-thirty year come Candlemas."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"After this her daily tasks were gone through heavily enough, and brought on the day which was of great import to agriculturists—the day of the Candlemas Fair."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It is a day of fulfilment; agreements for outdoor service during the ensuing year, entered into at Candlemas, are to be now carried out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feast day commemorating the presentation of christ in the temple; a quarter day in scotland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feast day commemorating the presentation of christ in the temple; a quarter day in scotland.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Then I was three year at Mellstock, and I’ve been here one-and-thirty year come Candlemas."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"After this her daily tasks were gone through heavily enough, and brought on the day which was of great import to agriculturists—the day of the Candlemas Fair."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It is a day of fulfilment; agreements for outdoor service during the ensuing year, entered into at Candlemas, are to be now carried out."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # distal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated farthest from point of attachment or origin, as of a limb or bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Directed away from the midline or mesial plane of the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, distal designates situated farthest from point of attachment or origin, as of a limb or bone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated farthest from point of attachment or origin, as of a limb or bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Directed away from the midline or mesial plane of the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, distal designates situated farthest from point of attachment or origin, as of a limb or bone."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # disclosure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The speech act of making something evident.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The speech act of making something evident.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell’s townsman heard of the disclosure, he no more allowed the girl to be patronized and honoured than he would have suffered her to be trodden underfoot before his eyes."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"This caused me to feel that I ought to tell her, and Caddy too, that I was going to be the mistress of Bleak House and that if I avoided that disclosure any longer I might become less worthy in my own eyes of its master’s love."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He prepared me, on that fatal night, for his disclosure of my guilt to you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The speech act of making something evident.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The speech act of making something evident.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell’s townsman heard of the disclosure, he no more allowed the girl to be patronized and honoured than he would have suffered her to be trodden underfoot before his eyes."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"This caused me to feel that I ought to tell her, and Caddy too, that I was going to be the mistress of Bleak House and that if I avoided that disclosure any longer I might become less worthy in my own eyes of its master’s love."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He prepared me, on that fatal night, for his disclosure of my guilt to you."*

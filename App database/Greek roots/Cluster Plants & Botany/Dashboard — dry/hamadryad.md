@@ -5,13 +5,6 @@ status: unread
 ---
 # hamadryad
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wood nymph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King cobra.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Faces of hamadryads peep out from the boles and among the leaves and break, blossoming into bloom.)_ Who profaned our silent shade?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wood nymph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King cobra.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Faces of hamadryads peep out from the boles and among the leaves and break, blossoming into bloom.)_ Who profaned our silent shade?"*

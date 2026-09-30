@@ -5,13 +5,6 @@ status: unread
 ---
 # antisemitism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The intense dislike for and prejudice against jewish people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The intense dislike for and prejudice against jewish people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antisemitism designates the intense dislike for and prejudice against jewish people."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The intense dislike for and prejudice against jewish people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The intense dislike for and prejudice against jewish people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antisemitism designates the intense dislike for and prejudice against jewish people."*

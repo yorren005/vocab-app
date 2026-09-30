@@ -5,13 +5,6 @@ status: unread
 ---
 # arsenopyrite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A silver-white mineral consisting of a combined sulfide and arsenide of iron that occurs in prismatic orthorhombic crystals or in masses or grains and that is the principal source of arsenic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A silver-white mineral consisting of a combined sulfide and arsenide of iron that occurs in prismatic orthorhombic crystals or in masses or grains and that is the principal source of arsenic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arsenopyrite designates a silver-white mineral consisting of a combined sulfide and arsenide of iron that occurs in prismatic orthorhombic crystals or in masses or grains and that is the principal source of arsenic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A silver-white mineral consisting of a combined sulfide and arsenide of iron that occurs in prismatic orthorhombic crystals or in masses or grains and that is the principal source of arsenic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A silver-white mineral consisting of a combined sulfide and arsenide of iron that occurs in prismatic orthorhombic crystals or in masses or grains and that is the principal source of arsenic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arsenopyrite designates a silver-white mineral consisting of a combined sulfide and arsenide of iron that occurs in prismatic orthorhombic crystals or in masses or grains and that is the principal source of arsenic."*

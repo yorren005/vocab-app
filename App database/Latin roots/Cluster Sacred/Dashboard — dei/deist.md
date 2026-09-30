@@ -5,15 +5,6 @@ status: unread
 ---
 # deist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who believes that god created the universe and then abandoned it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to deism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I hate a man that wishes to be a deist; but I fear, every fair, unprejudiced inquirer must in some degree be a sceptic."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He added later a very complete set of the writings of the English Deists, and the works of Voltaire, Rousseau, and Renan."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"His knowledge of later controversies, such as that with the Deists, which afterwards bore fruit in his work on "Unbelief in the Eighteenth Century," was also widened and deepened at this time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who believes that god created the universe and then abandoned it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to deism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I hate a man that wishes to be a deist; but I fear, every fair, unprejudiced inquirer must in some degree be a sceptic."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"He added later a very complete set of the writings of the English Deists, and the works of Voltaire, Rousseau, and Renan."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"His knowledge of later controversies, such as that with the Deists, which afterwards bore fruit in his work on "Unbelief in the Eighteenth Century," was also widened and deepened at this time."*

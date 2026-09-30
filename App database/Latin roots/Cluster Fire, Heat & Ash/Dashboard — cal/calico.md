@@ -5,15 +5,6 @@ status: unread
 ---
 # calico
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coarse cloth with a bright print.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Made of calico or resembling calico in being patterned.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"So in wondering how to use it, she thought of a poor woman who needed a new calico dress, and at once bought it and gave it to her."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The order was now given “To the garden!” Each put on a coarse straw bonnet, with strings of coloured calico, and a cloak of grey frieze."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I suppose, Miss Temple, the thread I bought at Lowton will do; it struck me that it would be just of the quality for the calico chemises, and I sorted the needles to match."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coarse cloth with a bright print.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Made of calico or resembling calico in being patterned.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"So in wondering how to use it, she thought of a poor woman who needed a new calico dress, and at once bought it and gave it to her."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The order was now given “To the garden!” Each put on a coarse straw bonnet, with strings of coloured calico, and a cloak of grey frieze."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I suppose, Miss Temple, the thread I bought at Lowton will do; it struck me that it would be just of the quality for the calico chemises, and I sorted the needles to match."*

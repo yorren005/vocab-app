@@ -5,13 +5,6 @@ status: unread
 ---
 # ichthyosaur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several marine reptiles of the mesozoic having a body like a porpoise with dorsal and tail fins and paddle-shaped limbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several marine reptiles of the mesozoic having a body like a porpoise with dorsal and tail fins and paddle-shaped limbs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ichthyosaur designates any of several marine reptiles of the mesozoic having a body like a porpoise with dorsal and tail fins and paddle-shaped limbs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several marine reptiles of the mesozoic having a body like a porpoise with dorsal and tail fins and paddle-shaped limbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several marine reptiles of the mesozoic having a body like a porpoise with dorsal and tail fins and paddle-shaped limbs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ichthyosaur designates any of several marine reptiles of the mesozoic having a body like a porpoise with dorsal and tail fins and paddle-shaped limbs."*

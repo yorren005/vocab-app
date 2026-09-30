@@ -5,15 +5,6 @@ status: unread
 ---
 # liquor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alcoholic beverage that is distilled rather than fermented.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A liquid substance that is a solution (or emulsion or suspension) used or obtained in an industrial process.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, get thee to Yaughan; fetch me a stoup of liquor. [_Exit Second Clown._] [_Digs and sings._] In youth when I did love, did love, Methought it was very sweet; To contract, O, the time for, a, my behove, O methought there was nothing meet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A noble shalt thou have, and present pay; And liquor likewise will I give to thee, And friendship shall combine, and brotherhood."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know you not, The fire that mounts the liquor till ’t run o’er, In seeming to augment it wastes it?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alcoholic beverage that is distilled rather than fermented.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A liquid substance that is a solution (or emulsion or suspension) used or obtained in an industrial process.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, get thee to Yaughan; fetch me a stoup of liquor. [_Exit Second Clown._] [_Digs and sings._] In youth when I did love, did love, Methought it was very sweet; To contract, O, the time for, a, my behove, O methought there was nothing meet."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A noble shalt thou have, and present pay; And liquor likewise will I give to thee, And friendship shall combine, and brotherhood."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know you not, The fire that mounts the liquor till ’t run o’er, In seeming to augment it wastes it?"*

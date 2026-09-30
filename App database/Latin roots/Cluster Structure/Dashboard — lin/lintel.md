@@ -5,15 +5,6 @@ status: unread
 ---
 # lintel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Horizontal beam used as a finishing piece over a door or window.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Horizontal beam used as a finishing piece over a door or window.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Of evenings she would stand dreaming at the lintel while he was leaning dreaming over the taffrail, and though there were ten thousand miles between them their hearts would be intimate as pigeons...."*
-> - 📜 **John Keats (*Lamia*):** *"Besides, there, nightly, with terrific glare, Love, jealous grown of so complete a pair, Hover'd and buzz'd his wings, with fearful roar, Above the lintel of their chamber door, And down the passage cast a glow upon the floor."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes!” I cried—“Holmes!” “Come out,” said he, “and please be careful with the revolver.” I stooped under the rude lintel, and there he sat upon a stone outside, his grey eyes dancing with amusement as they fell upon my astonished features."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Horizontal beam used as a finishing piece over a door or window.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Horizontal beam used as a finishing piece over a door or window.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Of evenings she would stand dreaming at the lintel while he was leaning dreaming over the taffrail, and though there were ten thousand miles between them their hearts would be intimate as pigeons...."*
+> - 📜 **John Keats (*Lamia*):** *"Besides, there, nightly, with terrific glare, Love, jealous grown of so complete a pair, Hover'd and buzz'd his wings, with fearful roar, Above the lintel of their chamber door, And down the passage cast a glow upon the floor."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes!” I cried—“Holmes!” “Come out,” said he, “and please be careful with the revolver.” I stooped under the rude lintel, and there he sat upon a stone outside, his grey eyes dancing with amusement as they fell upon my astonished features."*

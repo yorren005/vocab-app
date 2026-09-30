@@ -5,13 +5,6 @@ status: unread
 ---
 # telemann
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German baroque composer (1681-1767).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German baroque composer (1681-1767).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemann designates german baroque composer (1681-1767)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: German baroque composer (1681-1767).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German baroque composer (1681-1767).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemann designates german baroque composer (1681-1767)."*

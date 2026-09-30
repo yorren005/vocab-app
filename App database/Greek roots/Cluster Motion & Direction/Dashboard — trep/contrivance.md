@@ -5,15 +5,6 @@ status: unread
 ---
 # contrivance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device or control that is very useful for a particular job.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The faculty of contriving; inventive skill.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ah! ’tis wonderful what can be done by contrivance!” “My own mind exactly, neighbour.” “Ah, he’s his grandfer’s own grandson!—his grandfer were just such a nice unparticular man!” said the maltster."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"By this hurried contrivance Bathsheba’s property in wheat was safe for at any rate a week or two, provided always that there was not much wind."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The faculty of contrivance was worn out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device or control that is very useful for a particular job.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The faculty of contriving; inventive skill.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ah! ’tis wonderful what can be done by contrivance!” “My own mind exactly, neighbour.” “Ah, he’s his grandfer’s own grandson!—his grandfer were just such a nice unparticular man!” said the maltster."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"By this hurried contrivance Bathsheba’s property in wheat was safe for at any rate a week or two, provided always that there was not much wind."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The faculty of contrivance was worn out."*

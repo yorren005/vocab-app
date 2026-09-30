@@ -5,15 +5,6 @@ status: unread
 ---
 # subordinate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An assistant subject to the authority or control of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word that is more specific than a given word.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Workers subordinate in early societies. § 2."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Its main difficulty. § 1. #Workers subordinate in early societies#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"As far back as the history of settled and populous communities can be traced, the masses of workers have been subordinate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An assistant subject to the authority or control of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word that is more specific than a given word.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Workers subordinate in early societies. § 2."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Its main difficulty. § 1. #Workers subordinate in early societies#."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"As far back as the history of settled and populous communities can be traced, the masses of workers have been subordinate."*

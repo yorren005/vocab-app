@@ -5,15 +5,6 @@ status: unread
 ---
 # visitation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An annoying or frustrating or catastrophic event.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any disaster or catastrophe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it will please you To show us so much gentry and good will As to expend your time with us awhile, For the supply and profit of our hope, Your visitation shall receive such thanks As fits a king’s remembrance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This visitation Is but to whet thy almost blunted purpose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now this follows— Which, as I take it, is a kind of puppy To the old dam treason—Charles the Emperor, Under pretence to see the Queen his aunt— For ’twas indeed his colour, but he came To whisper Wolsey—here makes visitation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An annoying or frustrating or catastrophic event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any disaster or catastrophe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it will please you To show us so much gentry and good will As to expend your time with us awhile, For the supply and profit of our hope, Your visitation shall receive such thanks As fits a king’s remembrance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This visitation Is but to whet thy almost blunted purpose."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now this follows— Which, as I take it, is a kind of puppy To the old dam treason—Charles the Emperor, Under pretence to see the Queen his aunt— For ’twas indeed his colour, but he came To whisper Wolsey—here makes visitation."*

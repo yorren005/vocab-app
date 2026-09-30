@@ -5,14 +5,6 @@ status: unread
 ---
 # planchette
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A triangular board supported on casters; when lightly touched with the fingertips it is supposed to spell out supernatural (or unconscious) messages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A triangular board supported on casters; when lightly touched with the fingertips it is supposed to spell out supernatural (or unconscious) messages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Even planchette - the French toy which years ago pleased so many people - attested the con- 80:24 trol of mortal mind over its substratum, called matter."*
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"She is exceedingly superstitious, and in the early part of May consulted the Chinese planchette to read her destiny."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A triangular board supported on casters; when lightly touched with the fingertips it is supposed to spell out supernatural (or unconscious) messages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A triangular board supported on casters; when lightly touched with the fingertips it is supposed to spell out supernatural (or unconscious) messages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Even planchette - the French toy which years ago pleased so many people - attested the con- 80:24 trol of mortal mind over its substratum, called matter."*
+> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"She is exceedingly superstitious, and in the early part of May consulted the Chinese planchette to read her destiny."*

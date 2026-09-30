@@ -5,13 +5,6 @@ status: unread
 ---
 # incommunicado
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without the means or right to communicate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without the means or right to communicate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incommunicado designates without the means or right to communicate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without the means or right to communicate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without the means or right to communicate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incommunicado designates without the means or right to communicate."*

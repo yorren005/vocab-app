@@ -5,15 +5,6 @@ status: unread
 ---
 # paracelsus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swiss physician who introduced treatments of particular illnesses based on his observation and experience; he saw illness as having an external cause (rather than an imbalance of humors) and replaced traditional remedies with chemical remedies (1493-1541).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swiss physician who introduced treatments of particular illnesses based on his observation and experience; he saw illness as having an external cause (rather than an imbalance of humors) and replaced traditional remedies with chemical remedies (1493-1541).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So I say; both of Galen and Paracelsus."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Who wants a system on the basis of the four elements, or a book to refute Paracelsus?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And likewise call to mind that saying of Paracelsus about what it is that maketh the best musk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Swiss physician who introduced treatments of particular illnesses based on his observation and experience; he saw illness as having an external cause (rather than an imbalance of humors) and replaced traditional remedies with chemical remedies (1493-1541).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swiss physician who introduced treatments of particular illnesses based on his observation and experience; he saw illness as having an external cause (rather than an imbalance of humors) and replaced traditional remedies with chemical remedies (1493-1541).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So I say; both of Galen and Paracelsus."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Who wants a system on the basis of the four elements, or a book to refute Paracelsus?"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And likewise call to mind that saying of Paracelsus about what it is that maketh the best musk."*

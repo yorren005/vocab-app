@@ -5,13 +5,6 @@ status: unread
 ---
 # paleo-american
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the paleo-american peoples who were the earliest human inhabitants of north america and south america during the late pleistocene epoch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the paleo-american peoples who were the earliest human inhabitants of north america and south america during the late pleistocene epoch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleo-american designates a member of the paleo-american peoples who were the earliest human inhabitants of north america and south america during the late pleistocene epoch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the paleo-american peoples who were the earliest human inhabitants of north america and south america during the late pleistocene epoch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the paleo-american peoples who were the earliest human inhabitants of north america and south america during the late pleistocene epoch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleo-american designates a member of the paleo-american peoples who were the earliest human inhabitants of north america and south america during the late pleistocene epoch."*

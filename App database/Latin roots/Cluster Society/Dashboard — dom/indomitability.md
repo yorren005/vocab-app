@@ -5,13 +5,6 @@ status: unread
 ---
 # indomitability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property being difficult or impossible to defeat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property being difficult or impossible to defeat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indomitability designates the property being difficult or impossible to defeat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property being difficult or impossible to defeat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property being difficult or impossible to defeat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indomitability designates the property being difficult or impossible to defeat."*

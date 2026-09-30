@@ -5,15 +5,6 @@ status: unread
 ---
 # dicey
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of uncertain outcome; especially fraught with risk; - new yorker.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of uncertain outcome; especially fraught with risk; - new yorker.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Zoe summoned Aunt Dicey, the housekeeper, gave her orders for the day, and the needed supplies from pantry and storeroom, they went to the sewing-room, to give some directions to Christine and Alma."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"She is in great pain." "She has plenty of helpers about her,--Christine, Aunt Dicey, and a servant-maid or two,--who will do all they can to relieve her."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"You can give your orders, and let Christine and Aunt Dicey see them carried out." "But I want my taste consulted in the arrangement of the flowers," she objected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of uncertain outcome; especially fraught with risk; - new yorker.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of uncertain outcome; especially fraught with risk; - new yorker.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Zoe summoned Aunt Dicey, the housekeeper, gave her orders for the day, and the needed supplies from pantry and storeroom, they went to the sewing-room, to give some directions to Christine and Alma."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"She is in great pain." "She has plenty of helpers about her,--Christine, Aunt Dicey, and a servant-maid or two,--who will do all they can to relieve her."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"You can give your orders, and let Christine and Aunt Dicey see them carried out." "But I want my taste consulted in the arrangement of the flowers," she objected."*

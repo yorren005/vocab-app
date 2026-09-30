@@ -5,15 +5,6 @@ status: unread
 ---
 # seneca
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman statesman and philosopher who was an advisor to nero; his nine extant tragedies are modeled on greek tragedies (circa 4 bc - 65 ad).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the iroquoian people formerly living in new york state south of lake ontario.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Seneca cannot be too heavy, nor Plautus too light, for the law of writ and the liberty."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The transition is a keen one, I assure you, from a schoolmaster to a sailor, and requires a strong decoction of Seneca and the Stoics to enable you to grin and bear it."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The transition is a keen one, I assure you, from a schoolmaster to a sailor, and requires a strong decoction of Seneca and the Stoics to enable you to grin and bear it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman statesman and philosopher who was an advisor to nero; his nine extant tragedies are modeled on greek tragedies (circa 4 bc - 65 ad).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the iroquoian people formerly living in new york state south of lake ontario.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Seneca cannot be too heavy, nor Plautus too light, for the law of writ and the liberty."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The transition is a keen one, I assure you, from a schoolmaster to a sailor, and requires a strong decoction of Seneca and the Stoics to enable you to grin and bear it."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The transition is a keen one, I assure you, from a schoolmaster to a sailor, and requires a strong decoction of Seneca and the Stoics to enable you to grin and bear it."*

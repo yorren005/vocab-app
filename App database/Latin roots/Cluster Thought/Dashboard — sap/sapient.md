@@ -5,15 +5,6 @@ status: unread
 ---
 # sapient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acutely insightful and wise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acutely insightful and wise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It shall be done; I will arraign them straight. [_To Edgar._] Come, sit thou here, most learned justicer; [_To the Fool._] Thou, sapient sir, sit here."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Strange to say, this salutary measure had no effect whatever in staying the cattle-plague, and seven years later the sapient Joh."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The same sapient writer recommends you, if you are troubled with pimples, to watch for a falling star, and then instantly, while the star is still shooting from the sky, to wipe the pimples with a cloth or anything that comes to hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acutely insightful and wise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acutely insightful and wise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It shall be done; I will arraign them straight. [_To Edgar._] Come, sit thou here, most learned justicer; [_To the Fool._] Thou, sapient sir, sit here."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Strange to say, this salutary measure had no effect whatever in staying the cattle-plague, and seven years later the sapient Joh."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The same sapient writer recommends you, if you are troubled with pimples, to watch for a falling star, and then instantly, while the star is still shooting from the sky, to wipe the pimples with a cloth or anything that comes to hand."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # financial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving financial matters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving financial matters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She received, in reply, the following little financial statement: "My Dear Friend:--Remember the five loaves and two fishes, and listen to the message of your two dollars."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"There is no financial fund, endowment, or pecuniary provision whatever existing for the support of the Home."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Prices rose to a temporary maximum in 1857 and then fell as a great international financial crisis occurred."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving financial matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving financial matters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"She received, in reply, the following little financial statement: "My Dear Friend:--Remember the five loaves and two fishes, and listen to the message of your two dollars."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"There is no financial fund, endowment, or pecuniary provision whatever existing for the support of the Home."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Prices rose to a temporary maximum in 1857 and then fell as a great international financial crisis occurred."*

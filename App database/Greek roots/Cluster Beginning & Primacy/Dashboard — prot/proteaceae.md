@@ -5,13 +5,6 @@ status: unread
 ---
 # proteaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large family of australian and south african shrubs and trees with leathery leaves and clustered mostly tetramerous flowers; constitutes the order proteales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large family of australian and south african shrubs and trees with leathery leaves and clustered mostly tetramerous flowers; constitutes the order proteales.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proteaceae designates large family of australian and south african shrubs and trees with leathery leaves and clustered mostly tetramerous flowers; constitutes the order proteales."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large family of australian and south african shrubs and trees with leathery leaves and clustered mostly tetramerous flowers; constitutes the order proteales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large family of australian and south african shrubs and trees with leathery leaves and clustered mostly tetramerous flowers; constitutes the order proteales.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proteaceae designates large family of australian and south african shrubs and trees with leathery leaves and clustered mostly tetramerous flowers; constitutes the order proteales."*

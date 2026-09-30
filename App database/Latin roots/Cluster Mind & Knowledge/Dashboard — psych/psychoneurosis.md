@@ -5,13 +5,6 @@ status: unread
 ---
 # psychoneurosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental or personality disturbance not attributable to any known neurological or organic dysfunction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mental or personality disturbance not attributable to any known neurological or organic dysfunction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychoneurosis designates a mental or personality disturbance not attributable to any known neurological or organic dysfunction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental or personality disturbance not attributable to any known neurological or organic dysfunction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mental or personality disturbance not attributable to any known neurological or organic dysfunction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychoneurosis designates a mental or personality disturbance not attributable to any known neurological or organic dysfunction."*

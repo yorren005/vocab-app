@@ -5,15 +5,6 @@ status: unread
 ---
 # lamplit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lighted by a lamp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lighted by a lamp.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She raised them to look out at the evening sky, indigo blue against the lamplit interior, or faintly primrose in the west, and wondered for the thousandth time why it was still such an effort to Val to refer to his brief military experience."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Waterloo, lamplit and resonant: the pulsing of many lamps, the hurry of many steps, the flitting by of many faces under an arch of gloom: dark quiet and the scent of violets in a waiting car."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Most of the windows were dark, but now and then fantastic shadows were silhouetted against some lamplit blind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lighted by a lamp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lighted by a lamp.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"She raised them to look out at the evening sky, indigo blue against the lamplit interior, or faintly primrose in the west, and wondered for the thousandth time why it was still such an effort to Val to refer to his brief military experience."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Waterloo, lamplit and resonant: the pulsing of many lamps, the hurry of many steps, the flitting by of many faces under an arch of gloom: dark quiet and the scent of violets in a waiting car."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Most of the windows were dark, but now and then fantastic shadows were silhouetted against some lamplit blind."*

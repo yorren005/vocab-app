@@ -5,13 +5,6 @@ status: unread
 ---
 # conodont
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A Paleozoic toothlike fossil that is probably the remains of an extinct eellike marine animal that may be an invertebrate or primitive vertebrate; also : the animal from which conodonts are derived.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Paleozoic toothlike fossil that is probably the remains of an extinct eellike marine animal that may be an invertebrate or primitive vertebrate; also : the animal from which conodonts are derived.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conodont designates a paleozoic toothlike fossil that is probably the remains of an extinct eellike marine animal that may be an invertebrate or primitive vertebrate; also : the animal from which conodonts are derived."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Paleozoic toothlike fossil that is probably the remains of an extinct eellike marine animal that may be an invertebrate or primitive vertebrate; also : the animal from which conodonts are derived.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Paleozoic toothlike fossil that is probably the remains of an extinct eellike marine animal that may be an invertebrate or primitive vertebrate; also : the animal from which conodonts are derived.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conodont designates a paleozoic toothlike fossil that is probably the remains of an extinct eellike marine animal that may be an invertebrate or primitive vertebrate; also : the animal from which conodonts are derived."*

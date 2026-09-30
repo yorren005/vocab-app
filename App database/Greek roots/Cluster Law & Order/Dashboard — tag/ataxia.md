@@ -5,13 +5,6 @@ status: unread
 ---
 # ataxia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inability to coordinate voluntary muscular movements that is symptomatic of some central nervous system disorders and injuries and not due to muscle weakness —called also incoordination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inherited systemic disorder marked especially by progressive pathological changes in the nervous system resulting in loss of motor coordination and by increased susceptibility to cancer especially of lymphoid tissue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ataxia designates an inability to coordinate voluntary muscular movements that is symptomatic of some central nervous system disorders and injuries and not due to muscle weakness —called also incoordination."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inability to coordinate voluntary muscular movements that is symptomatic of some central nervous system disorders and injuries and not due to muscle weakness —called also incoordination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inherited systemic disorder marked especially by progressive pathological changes in the nervous system resulting in loss of motor coordination and by increased susceptibility to cancer especially of lymphoid tissue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ataxia designates an inability to coordinate voluntary muscular movements that is symptomatic of some central nervous system disorders and injuries and not due to muscle weakness —called also incoordination."*

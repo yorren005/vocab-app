@@ -5,15 +5,6 @@ status: unread
 ---
 # interminable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tiresomely long; seemingly without end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tiresomely long; seemingly without end.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester has no objection to an interminable Chancery suit."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have a sense that for an interminable period I have lived in a wagon and travelled on, ever on, with this present company."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"But before I go on, tell me what you mean by your ‘Well, sir?’ It is a small phrase very frequent with you; and which many a time has drawn me on and on through interminable talk: I don’t very well know why.” “I mean,—What next?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tiresomely long; seemingly without end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tiresomely long; seemingly without end.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester has no objection to an interminable Chancery suit."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have a sense that for an interminable period I have lived in a wagon and travelled on, ever on, with this present company."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"But before I go on, tell me what you mean by your ‘Well, sir?’ It is a small phrase very frequent with you; and which many a time has drawn me on and on through interminable talk: I don’t very well know why.” “I mean,—What next?"*

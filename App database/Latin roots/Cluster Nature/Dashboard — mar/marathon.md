@@ -5,15 +5,6 @@ status: unread
 ---
 # marathon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any long and arduous undertaking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A footrace of 26 miles 385 yards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"O boys! —And Xenophon looked upon Marathon, Mr Dedalus said, looking again on the fireplace and to the window, and Marathon looked on the sea. —That will do, professor MacHugh cried from the window."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"We would doubt whether on the plain of Marathon we could be reconciled even to the ghost of Miltiades."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In such a struggle every pass becomes a Thermopylæ, every plain a Marathon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any long and arduous undertaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A footrace of 26 miles 385 yards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"O boys! —And Xenophon looked upon Marathon, Mr Dedalus said, looking again on the fireplace and to the window, and Marathon looked on the sea. —That will do, professor MacHugh cried from the window."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"We would doubt whether on the plain of Marathon we could be reconciled even to the ghost of Miltiades."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In such a struggle every pass becomes a Thermopylæ, every plain a Marathon."*

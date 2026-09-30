@@ -5,13 +5,6 @@ status: unread
 ---
 # gastroscopy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An endoscope for viewing the interior of the stomach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An endoscope for viewing the interior of the stomach.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastroscopy designates an endoscope for viewing the interior of the stomach."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An endoscope for viewing the interior of the stomach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An endoscope for viewing the interior of the stomach.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastroscopy designates an endoscope for viewing the interior of the stomach."*

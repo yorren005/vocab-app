@@ -5,13 +5,6 @@ status: unread
 ---
 # antistrophe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The section of a choral ode answering a previous strophe in classical greek drama; the second of two metrically corresponding sections in a poem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The section of a choral ode answering a previous strophe in classical greek drama; the second of two metrically corresponding sections in a poem.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Antistrophe Plunderer of Armies! lift thine eyes, (A while forbear, ye torturing fiends;) Seest thou whose step, unwilling, hither bends?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The section of a choral ode answering a previous strophe in classical greek drama; the second of two metrically corresponding sections in a poem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The section of a choral ode answering a previous strophe in classical greek drama; the second of two metrically corresponding sections in a poem.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Antistrophe Plunderer of Armies! lift thine eyes, (A while forbear, ye torturing fiends;) Seest thou whose step, unwilling, hither bends?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # gran
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mother of your father or mother.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mother of your father or mother.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"To cure the painful and dangerous wound inflicted by a ray-fish, the Indians of the Gran Chaco smoke the wounded limb and then cause a woman in her courses to sit astride of it."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Pelleschi, _Eight Months on the Gran Chaco of the Argentine Republic_ (London, 1886), p. 106."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Every day the coast looked the same, as though we had not moved; but we passed various places—trading places—with names like Gran’ Bassam, Little Popo; names that seemed to belong to some sordid farce acted in front of a sinister back-cloth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mother of your father or mother.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mother of your father or mother.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"To cure the painful and dangerous wound inflicted by a ray-fish, the Indians of the Gran Chaco smoke the wounded limb and then cause a woman in her courses to sit astride of it."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Pelleschi, _Eight Months on the Gran Chaco of the Argentine Republic_ (London, 1886), p. 106."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Every day the coast looked the same, as though we had not moved; but we passed various places—trading places—with names like Gran’ Bassam, Little Popo; names that seemed to belong to some sordid farce acted in front of a sinister back-cloth."*

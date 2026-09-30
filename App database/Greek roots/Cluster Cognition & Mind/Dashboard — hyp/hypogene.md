@@ -5,13 +5,6 @@ status: unread
 ---
 # hypogene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed, crystallized, or lying at depths below the earth's surface : plutonic —used of various rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed, crystallized, or lying at depths below the earth's surface : plutonic —used of various rocks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypogene designates formed, crystallized, or lying at depths below the earth's surface : plutonic —used of various rocks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed, crystallized, or lying at depths below the earth's surface : plutonic —used of various rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed, crystallized, or lying at depths below the earth's surface : plutonic —used of various rocks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypogene designates formed, crystallized, or lying at depths below the earth's surface : plutonic —used of various rocks."*

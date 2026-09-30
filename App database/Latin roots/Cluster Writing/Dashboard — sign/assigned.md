@@ -5,15 +5,6 @@ status: unread
 ---
 # assigned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an assignment to (a person) to a post, or assign a task to (a person).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give out.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His sons he there proclaimed the kings of kings: Great Media, Parthia, and Armenia He gave to Alexander; to Ptolemy he assigned Syria, Cilicia, and Phoenicia."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Only once had he to consult a Greek lexicon for the meaning of a word; and then it turned out that the meaning he had assigned to it provisionally was the right one."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"In these he assigned full marks to a large proportion of the papers sent in."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an assignment to (a person) to a post, or assign a task to (a person).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give out.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His sons he there proclaimed the kings of kings: Great Media, Parthia, and Armenia He gave to Alexander; to Ptolemy he assigned Syria, Cilicia, and Phoenicia."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Only once had he to consult a Greek lexicon for the meaning of a word; and then it turned out that the meaning he had assigned to it provisionally was the right one."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"In these he assigned full marks to a large proportion of the papers sent in."*

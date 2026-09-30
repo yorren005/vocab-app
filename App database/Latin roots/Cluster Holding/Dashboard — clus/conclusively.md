@@ -5,15 +5,6 @@ status: unread
 ---
 # conclusively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a conclusive way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a conclusive way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"You can have been personally acquainted with very few of a set of men you condemn so conclusively."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The first of these questions has been answered as conclusively as seems possible on the basis of all available data, by a doctor of medicine, S."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The record of the Bahá'í community since inception of the Formative Age conclusively demonstrates that accomplishment of signal acts accompanied, or followed upon, periods of acute distress in European and American contemporary history."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a conclusive way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a conclusive way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"You can have been personally acquainted with very few of a set of men you condemn so conclusively."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The first of these questions has been answered as conclusively as seems possible on the basis of all available data, by a doctor of medicine, S."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The record of the Bahá'í community since inception of the Formative Age conclusively demonstrates that accomplishment of signal acts accompanied, or followed upon, periods of acute distress in European and American contemporary history."*

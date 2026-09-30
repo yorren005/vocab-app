@@ -5,20 +5,6 @@ status: unread
 ---
 # lumber
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Rumble
-> 2. **Nuance / Usage**: Move ponderously
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to lumber the target*) and intransitive clauses (*lumbering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. de Crèvecoeur (*Letters from an American Farmer*):** *"Here they live by fishing on the most plentiful coasts in the world; there they fell trees, by the sides of large rivers, for masts and lumber {{..."*
-> - 📜 **Thomas Rymer (*The Tragedies of the Last Age Consider'd*):** *"so much stuff lumberd together"*
-> - 📜 **Carr, Annie Roe (*Nan Sherwood at Pine Camp*):** *"The town of Hobart Forks was by no means a lumber town."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Rumble
+> 2. **Nuance / Usage**: Move ponderously
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to lumber the target*) and intransitive clauses (*lumbering against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. de Crèvecoeur (*Letters from an American Farmer*):** *"Here they live by fishing on the most plentiful coasts in the world; there they fell trees, by the sides of large rivers, for masts and lumber {{..."*
+> - 📜 **Thomas Rymer (*The Tragedies of the Last Age Consider'd*):** *"so much stuff lumberd together"*
+> - 📜 **Carr, Annie Roe (*Nan Sherwood at Pine Camp*):** *"The town of Hobart Forks was by no means a lumber town."*

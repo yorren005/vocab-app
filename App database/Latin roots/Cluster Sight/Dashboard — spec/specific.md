@@ -5,15 +5,6 @@ status: unread
 ---
 # specific
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fact about some part (as opposed to general).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicine that has a mitigating effect on a specific disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"This referred to a specific page in the printed book."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"EVERY WORK, HOWEVER GOOD, NEEDS SPECIAL, SPECIFIC, DAILY PRAYER FOR ITS PROSPERITY."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She was led to see that the habit was a _sin_; and as such, she abandoned it, with specific application to Christ to save her from it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fact about some part (as opposed to general).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicine that has a mitigating effect on a specific disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"This referred to a specific page in the printed book."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"EVERY WORK, HOWEVER GOOD, NEEDS SPECIAL, SPECIFIC, DAILY PRAYER FOR ITS PROSPERITY."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"She was led to see that the habit was a _sin_; and as such, she abandoned it, with specific application to Christ to save her from it."*

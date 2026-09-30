@@ -5,15 +5,6 @@ status: unread
 ---
 # commend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express approval of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Present as worthy of regard, kindness, or confidence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Commend me to my kinsmen and my son."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They shall be no more than needful there, if they were more than they can commend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do beseech you, sir, Since you are like to see the king before me, Commend the paper to his gracious hand, Which I presume shall render you no blame, But rather make you thank your pains for it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Express approval of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Present as worthy of regard, kindness, or confidence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Commend me to my kinsmen and my son."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They shall be no more than needful there, if they were more than they can commend."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do beseech you, sir, Since you are like to see the king before me, Commend the paper to his gracious hand, Which I presume shall render you no blame, But rather make you thank your pains for it."*

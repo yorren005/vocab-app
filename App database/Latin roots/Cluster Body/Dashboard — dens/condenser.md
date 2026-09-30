@@ -5,15 +5,6 @@ status: unread
 ---
 # condenser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical device characterized by its capacity to store an electric charge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus that converts vapor into liquid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Its action forces the gas along the pipe to the right and down into the condenser."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Passing then through the bottom of the tank the gas travels from right to left through the "regulating valve" and into an arrangement almost exactly similar to the condenser but called the evaporator."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The pump compresses the gas and drives it through the coil in the condenser, where it is cooled by water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical device characterized by its capacity to store an electric charge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus that converts vapor into liquid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Its action forces the gas along the pipe to the right and down into the condenser."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Passing then through the bottom of the tank the gas travels from right to left through the "regulating valve" and into an arrangement almost exactly similar to the condenser but called the evaporator."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The pump compresses the gas and drives it through the coil in the condenser, where it is cooled by water."*

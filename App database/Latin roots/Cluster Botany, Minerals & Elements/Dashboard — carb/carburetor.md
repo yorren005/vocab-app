@@ -5,13 +5,6 @@ status: unread
 ---
 # carburetor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mixes air with gasoline vapor prior to explosion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mixes air with gasoline vapor prior to explosion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carburetor designates mixes air with gasoline vapor prior to explosion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mixes air with gasoline vapor prior to explosion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mixes air with gasoline vapor prior to explosion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carburetor designates mixes air with gasoline vapor prior to explosion."*

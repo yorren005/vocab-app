@@ -5,20 +5,6 @@ status: unread
 ---
 # artisan
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Artisanal
-> 2. **Nuance / Usage**: Person who displays great dexterity
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **G. H. Robin (*Railways of Paisley, Renfrew and Barrhead—1*):** *"One or two works, particularly those of Babcock & Wilcox, are on the Renfrew line, and the passenger services are run to suit the artisan rather than the businessman travelling daily to the city."*
-> - 📜 **Andrea Chesman (*The Backyard Homestead Book of Kitchen Know-How*):** *"Bread is either cheap (soft, squishy supermarket loaves) or expensive (artisan bakery loaves)."*
-> - 📜 **Cooper, Thomas V. (Thomas Valentine) (*American politics (non-partisan) from the beginning to date*):** *"the depression and inadequacy of the wages of the artisan and laborer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Artisanal
+> 2. **Nuance / Usage**: Person who displays great dexterity
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **G. H. Robin (*Railways of Paisley, Renfrew and Barrhead—1*):** *"One or two works, particularly those of Babcock & Wilcox, are on the Renfrew line, and the passenger services are run to suit the artisan rather than the businessman travelling daily to the city."*
+> - 📜 **Andrea Chesman (*The Backyard Homestead Book of Kitchen Know-How*):** *"Bread is either cheap (soft, squishy supermarket loaves) or expensive (artisan bakery loaves)."*
+> - 📜 **Cooper, Thomas V. (Thomas Valentine) (*American politics (non-partisan) from the beginning to date*):** *"the depression and inadequacy of the wages of the artisan and laborer."*

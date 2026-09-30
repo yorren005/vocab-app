@@ -5,15 +5,6 @@ status: unread
 ---
 # precautionary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taken in advance to protect against possible danger or failure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taken in advance to protect against possible danger or failure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode with precautionary information for his daughters and servants, and accounting for his allowing no one but himself to enter the room even with food and drink."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor was there wanting still another precautionary motive more related to Ahab personally."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor was there wanting still another precautionary motive more related to Ahab personally."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taken in advance to protect against possible danger or failure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taken in advance to protect against possible danger or failure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode with precautionary information for his daughters and servants, and accounting for his allowing no one but himself to enter the room even with food and drink."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor was there wanting still another precautionary motive more related to Ahab personally."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor was there wanting still another precautionary motive more related to Ahab personally."*

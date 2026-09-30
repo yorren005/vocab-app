@@ -5,13 +5,6 @@ status: unread
 ---
 # bartok
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hungarian composer and pianist who collected hungarian folk music; in 1940 he moved to the united states (1881-1945).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hungarian composer and pianist who collected hungarian folk music; in 1940 he moved to the united states (1881-1945).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bartok designates hungarian composer and pianist who collected hungarian folk music; in 1940 he moved to the united states (1881-1945)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hungarian composer and pianist who collected hungarian folk music; in 1940 he moved to the united states (1881-1945).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hungarian composer and pianist who collected hungarian folk music; in 1940 he moved to the united states (1881-1945).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bartok designates hungarian composer and pianist who collected hungarian folk music; in 1940 he moved to the united states (1881-1945)."*

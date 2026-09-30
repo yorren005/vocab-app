@@ -5,15 +5,6 @@ status: unread
 ---
 # electoral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to elections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or composed of electors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Republican candidate Hayes, after a long contest in Congress, was declared elected by a margin of one electoral vote."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In 1880, when business prosperity was rapidly returning, the party in power was successful by a goodly margin of votes in the electoral college, tho having a bare plurality of the popular vote."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In 1892, Cleveland, being again a candidate, was successful over Harrison by a largely increased plurality of the popular vote, and received almost double the electoral vote of his opponent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to elections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or composed of electors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Republican candidate Hayes, after a long contest in Congress, was declared elected by a margin of one electoral vote."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In 1880, when business prosperity was rapidly returning, the party in power was successful by a goodly margin of votes in the electoral college, tho having a bare plurality of the popular vote."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In 1892, Cleveland, being again a candidate, was successful over Harrison by a largely increased plurality of the popular vote, and received almost double the electoral vote of his opponent."*

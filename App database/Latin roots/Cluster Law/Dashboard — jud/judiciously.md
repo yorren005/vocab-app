@@ -5,15 +5,6 @@ status: unread
 ---
 # judiciously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a judicious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a judicious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Your aunt Norris has always been an advocate, and very judiciously, for young people’s being brought up without unnecessary indulgences; but there should be moderation in everything."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke, confidentially but not judiciously."*
-> - 📜 **George Eliot (*Middlemarch*):** *"All through their girlhood she had felt that she could act on her sister by a word judiciously placed—by opening a little window for the daylight of her own understanding to enter among the strange colored lamps by which Dodo habitually saw."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a judicious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a judicious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Your aunt Norris has always been an advocate, and very judiciously, for young people’s being brought up without unnecessary indulgences; but there should be moderation in everything."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke, confidentially but not judiciously."*
+> - 📜 **George Eliot (*Middlemarch*):** *"All through their girlhood she had felt that she could act on her sister by a word judiciously placed—by opening a little window for the daylight of her own understanding to enter among the strange colored lamps by which Dodo habitually saw."*

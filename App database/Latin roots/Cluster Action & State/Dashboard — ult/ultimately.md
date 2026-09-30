@@ -5,15 +5,6 @@ status: unread
 ---
 # ultimately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As the end result of a succession or process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As the end result of a succession or process.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"That she will faithfully apply herself to the acquisition of those accomplishments, upon the exercise of which she will be ultimately dependent."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But if she was to be the practical woman she had intended to show herself, business must be carried on, introductions or none, and she ultimately acquired confidence enough to speak and reply boldly to men merely known to her by hearsay."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He spoke to her in low tones, and she instinctively modulated her own to the same pitch, and her voice ultimately even caught the inflection of his."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As the end result of a succession or process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As the end result of a succession or process.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"That she will faithfully apply herself to the acquisition of those accomplishments, upon the exercise of which she will be ultimately dependent."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But if she was to be the practical woman she had intended to show herself, business must be carried on, introductions or none, and she ultimately acquired confidence enough to speak and reply boldly to men merely known to her by hearsay."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He spoke to her in low tones, and she instinctively modulated her own to the same pitch, and her voice ultimately even caught the inflection of his."*

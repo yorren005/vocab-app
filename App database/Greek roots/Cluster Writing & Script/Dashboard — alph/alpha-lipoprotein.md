@@ -5,13 +5,6 @@ status: unread
 ---
 # alpha-lipoprotein
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lipoprotein that transports cholesterol in the blood; composed of a high proportion of protein and relatively little cholesterol; high levels are thought to be associated with decreased risk of coronary heart disease and atherosclerosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lipoprotein that transports cholesterol in the blood; composed of a high proportion of protein and relatively little cholesterol; high levels are thought to be associated with decreased risk of coronary heart disease and atherosclerosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alpha-lipoprotein designates a lipoprotein that transports cholesterol in the blood; composed of a high proportion of protein and relatively little cholesterol; high levels are thought to be associated with decreased risk of coronary heart disease and atherosclerosis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lipoprotein that transports cholesterol in the blood; composed of a high proportion of protein and relatively little cholesterol; high levels are thought to be associated with decreased risk of coronary heart disease and atherosclerosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lipoprotein that transports cholesterol in the blood; composed of a high proportion of protein and relatively little cholesterol; high levels are thought to be associated with decreased risk of coronary heart disease and atherosclerosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alpha-lipoprotein designates a lipoprotein that transports cholesterol in the blood; composed of a high proportion of protein and relatively little cholesterol; high levels are thought to be associated with decreased risk of coronary heart disease and atherosclerosis."*

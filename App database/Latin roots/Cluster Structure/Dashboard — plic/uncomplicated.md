@@ -5,13 +5,6 @@ status: unread
 ---
 # uncomplicated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking complexity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easy and not involved or complicated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"His thought is uncomplicated by distinctions due to tradition and its accidents."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking complexity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easy and not involved or complicated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"His thought is uncomplicated by distinctions due to tradition and its accidents."*

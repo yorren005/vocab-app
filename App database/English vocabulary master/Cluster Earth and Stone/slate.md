@@ -5,20 +5,6 @@ status: unread
 ---
 # slate
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Tablet (as of slate) used for writing on
-> 2. **Nuance / Usage**: Piece of other material used as a roofing tile
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He writes to this purpose on his slate, and Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"indignantly written on the slate, “I am not."*
-> - 📜 **Lewis Carroll (*Alice in Wonderland*):** *"—Mind that loose slate—Oh, it’s coming down!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Tablet (as of slate) used for writing on
+> 2. **Nuance / Usage**: Piece of other material used as a roofing tile
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He writes to this purpose on his slate, and Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"indignantly written on the slate, “I am not."*
+> - 📜 **Lewis Carroll (*Alice in Wonderland*):** *"—Mind that loose slate—Oh, it’s coming down!"*

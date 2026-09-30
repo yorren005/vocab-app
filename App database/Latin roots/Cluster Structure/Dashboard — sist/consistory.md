@@ -5,15 +5,6 @@ status: unread
 ---
 # consistory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A church tribunal or governing body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A church tribunal or governing body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Bishops place themselves on each side the court, in manner of consistory; below them the Scribes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How far I have proceeded, Or how far further shall, is warranted By a commission from the Consistory, Yea, the whole Consistory of Rome."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My other self, my counsel’s consistory, My oracle, my prophet, my dear cousin, I, as a child, will go by thy direction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A church tribunal or governing body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A church tribunal or governing body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Bishops place themselves on each side the court, in manner of consistory; below them the Scribes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How far I have proceeded, Or how far further shall, is warranted By a commission from the Consistory, Yea, the whole Consistory of Rome."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My other self, my counsel’s consistory, My oracle, my prophet, my dear cousin, I, as a child, will go by thy direction."*

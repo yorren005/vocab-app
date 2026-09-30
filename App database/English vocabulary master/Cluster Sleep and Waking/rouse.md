@@ -5,20 +5,6 @@ status: unread
 ---
 # rouse
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Stir up : excite
-> 2. **Nuance / Usage**: Cause to break from cover
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to rouse the target*) and intransitive clauses (*rousing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"’Fore God, they have given me a rouse already."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"No dog shall rouse thee, though a thousand bark."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"alarm-bell and rouse the house."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To awaken someone from sleep or dormancy; to wake up and become active.
+> 2. **Nuance / Usage**: To stir up, incite, or provoke strong emotion, courage, or anger (*rouse the crowd*); originally, to flush a hunted animal from its cover.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to rouse the target*) and intransitive clauses (*rousing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Titus Andronicus*):** *"Here lurks no treason, here no envy swells; no dog shall **rouse** thee, though a thousand bark."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He threatened to pull the great alarm-bell and **rouse** the whole house."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I had to **rouse** myself from my reverie and prepare for the duties of the morning."*

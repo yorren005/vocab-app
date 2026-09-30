@@ -5,20 +5,6 @@ status: unread
 ---
 # fen
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Monetary subunit of the yuan
-> 2. **Nuance / Usage**: Unit of currency in china, one-hundredth of a yuan
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the fen withstood the storm*), direct object (*cleaved the fen*), or prepositional anchor (*amidst the fen*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Geological Survey (U.S.) (*National Water Summary on Wetland Resources*):** *"Bogs are acidic, nutrient poor, and have a low species diversity, whereas fens are less acidic and have higher nutrient levels and species diversity."*
-> - 📜 **Sincere Humphrey (*Freshwater Microbiology*):** *"Bogs are acidic peatlands, while fens are non-acidic peatlands."*
-> - 📜 **Rick Cech (*Butterflies of the East Coast: An Observer's Guide*):** *"[...] fens are alkaline. In fact, the precise acidity of a fen depends on the soil through which in-seeping waters have percolated. Northeastern fens vary from somewhat acidic to highly basic (Johnson, 1985, p. 27)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Monetary subunit of the yuan
+> 2. **Nuance / Usage**: Unit of currency in china, one-hundredth of a yuan
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the fen withstood the storm*), direct object (*cleaved the fen*), or prepositional anchor (*amidst the fen*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Geological Survey (U.S.) (*National Water Summary on Wetland Resources*):** *"Bogs are acidic, nutrient poor, and have a low species diversity, whereas fens are less acidic and have higher nutrient levels and species diversity."*
+> - 📜 **Sincere Humphrey (*Freshwater Microbiology*):** *"Bogs are acidic peatlands, while fens are non-acidic peatlands."*
+> - 📜 **Rick Cech (*Butterflies of the East Coast: An Observer's Guide*):** *"[...] fens are alkaline. In fact, the precise acidity of a fen depends on the soil through which in-seeping waters have percolated. Northeastern fens vary from somewhat acidic to highly basic (Johnson, 1985, p. 27)."*

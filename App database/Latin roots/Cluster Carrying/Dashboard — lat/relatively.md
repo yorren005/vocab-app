@@ -5,15 +5,6 @@ status: unread
 ---
 # relatively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a relative manner; by comparison to something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a relative manner; by comparison to something else.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Relatively even to this world of ours, which has its limits too (as your Highness shall find when you have made the tour of it and are come to the brink of the void beyond), it is a very little speck."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He did not covet the post relatively to the farm: in relation to herself, as beloved by him and unmarried to another, he had coveted it."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Relatively to these, Systematic Theology, and even Apologetics, receded into the background."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a relative manner; by comparison to something else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a relative manner; by comparison to something else.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Relatively even to this world of ours, which has its limits too (as your Highness shall find when you have made the tour of it and are come to the brink of the void beyond), it is a very little speck."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He did not covet the post relatively to the farm: in relation to herself, as beloved by him and unmarried to another, he had coveted it."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Relatively to these, Systematic Theology, and even Apologetics, receded into the background."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # supplication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prayer asking god's help as part of a religious service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A humble request for help from someone in authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Palace Enter the King with a supplication, and the Queen with Suffolk’s head, the Duke of Buckingham and the Lord Saye."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What answer makes your grace to the rebels’ supplication?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sirrah, can you with a grace deliver up a supplication?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prayer asking god's help as part of a religious service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A humble request for help from someone in authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Palace Enter the King with a supplication, and the Queen with Suffolk’s head, the Duke of Buckingham and the Lord Saye."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What answer makes your grace to the rebels’ supplication?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sirrah, can you with a grace deliver up a supplication?"*

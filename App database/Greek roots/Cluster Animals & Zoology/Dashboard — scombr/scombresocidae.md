@@ -5,13 +5,6 @@ status: unread
 ---
 # scombresocidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Only sauries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Only sauries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scombresocidae designates only sauries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Only sauries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Only sauries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scombresocidae designates only sauries."*

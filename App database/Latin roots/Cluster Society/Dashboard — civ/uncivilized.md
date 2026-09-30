@@ -5,15 +5,6 @@ status: unread
 ---
 # uncivilized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without civilizing influences; ; ; ; -margaret meade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without civilizing influences; ; ; ; -margaret meade.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For some time past, though at intervals only, the unaccompanied, secluded White Whale had haunted those uncivilized seas mostly frequented by the Sperm Whale fishermen."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Believe me, no civilized man ever regrets a pleasure, and no uncivilized man ever knows what a pleasure is.” “I know what pleasure is,” cried Dorian Gray."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"That is the reason why people who live out of town are so absolutely uncivilized."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without civilizing influences; ; ; ; -margaret meade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without civilizing influences; ; ; ; -margaret meade.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For some time past, though at intervals only, the unaccompanied, secluded White Whale had haunted those uncivilized seas mostly frequented by the Sperm Whale fishermen."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Believe me, no civilized man ever regrets a pleasure, and no uncivilized man ever knows what a pleasure is.” “I know what pleasure is,” cried Dorian Gray."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"That is the reason why people who live out of town are so absolutely uncivilized."*

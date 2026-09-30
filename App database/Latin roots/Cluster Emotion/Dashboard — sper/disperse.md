@@ -5,15 +5,6 @@ status: unread
 ---
 # disperse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distribute loosely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause to separate and go in different directions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These offices, so oft as thou wilt look, Shall profit thee, and much enrich thy book. 78 So oft have I invoked thee for my muse, And found such fair assistance in my verse, As every alien pen hath got my use, And under thee their poesy disperse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Glory is like a circle in the water, Which never ceaseth to enlarge itself Till by broad spreading it disperse to nought."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A little gale will soon disperse that cloud And blow it to the source from whence it came; Thy very beams will dry those vapours up, For every cloud engenders not a storm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distribute loosely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause to separate and go in different directions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These offices, so oft as thou wilt look, Shall profit thee, and much enrich thy book. 78 So oft have I invoked thee for my muse, And found such fair assistance in my verse, As every alien pen hath got my use, And under thee their poesy disperse."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Glory is like a circle in the water, Which never ceaseth to enlarge itself Till by broad spreading it disperse to nought."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A little gale will soon disperse that cloud And blow it to the source from whence it came; Thy very beams will dry those vapours up, For every cloud engenders not a storm."*

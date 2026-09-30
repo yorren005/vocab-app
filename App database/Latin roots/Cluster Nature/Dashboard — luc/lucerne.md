@@ -5,15 +5,6 @@ status: unread
 ---
 # lucerne
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Important european leguminous forage plant with trifoliate leaves and blue-violet flowers grown widely as a pasture and hay crop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Important european leguminous forage plant with trifoliate leaves and blue-violet flowers grown widely as a pasture and hay crop.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The custom prevailed, for example, throughout the canton of Lucerne."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"At last they reached the Lake of Lucerne, settled at Brunnen, and began feverishly to read and write."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It was at the village of Gersau, which stands on the borders of the Lake of Lucerne, at the foot of Mount Rigi."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Important european leguminous forage plant with trifoliate leaves and blue-violet flowers grown widely as a pasture and hay crop.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Important european leguminous forage plant with trifoliate leaves and blue-violet flowers grown widely as a pasture and hay crop.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The custom prevailed, for example, throughout the canton of Lucerne."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"At last they reached the Lake of Lucerne, settled at Brunnen, and began feverishly to read and write."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It was at the village of Gersau, which stands on the borders of the Lake of Lucerne, at the foot of Mount Rigi."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # legality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lawfulness by virtue of conformity to a legal statute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lawfulness by virtue of conformity to a legal statute.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The Sanhedrim has not the right.” “Pilate is willing that it should take that right.” “But it is a fine question of legality,” I insisted."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I have heard the question discussed in all its bearings as to the legality of prohibiting the latter on account of their durability."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Brought from all the recesses of the coast in all the legality of time contracts, lost in uncongenial surroundings, fed on unfamiliar food, they sickened, became inefficient, and were then allowed to crawl away and rest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lawfulness by virtue of conformity to a legal statute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lawfulness by virtue of conformity to a legal statute.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The Sanhedrim has not the right.” “Pilate is willing that it should take that right.” “But it is a fine question of legality,” I insisted."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I have heard the question discussed in all its bearings as to the legality of prohibiting the latter on account of their durability."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Brought from all the recesses of the coast in all the legality of time contracts, lost in uncongenial surroundings, fed on unfamiliar food, they sickened, became inefficient, and were then allowed to crawl away and rest."*

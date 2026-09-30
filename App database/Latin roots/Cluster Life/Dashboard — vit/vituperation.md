@@ -5,15 +5,6 @@ status: unread
 ---
 # vituperation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abusive or venomous language used to express blame or censure or bitter deep-seated ill will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abusive or venomous language used to express blame or censure or bitter deep-seated ill will.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"From one open shop came the sound of blows and vituperation, and just as the officer came up to it a man in a gray coat with a shaven head was flung out violently."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"He was met with violence, with fraud, and vituperation, with misrepresentation, with disregard for all the forms of law."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Webster justly rebuked all this vituperation, and justified the bill, both for the equity of its provisions, and the necessity for enacting them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abusive or venomous language used to express blame or censure or bitter deep-seated ill will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abusive or venomous language used to express blame or censure or bitter deep-seated ill will.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"From one open shop came the sound of blows and vituperation, and just as the officer came up to it a man in a gray coat with a shaven head was flung out violently."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"He was met with violence, with fraud, and vituperation, with misrepresentation, with disregard for all the forms of law."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Webster justly rebuked all this vituperation, and justified the bill, both for the equity of its provisions, and the necessity for enacting them."*

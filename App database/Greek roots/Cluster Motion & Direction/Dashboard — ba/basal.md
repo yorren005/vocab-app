@@ -5,13 +5,6 @@ status: unread
 ---
 # basal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Especially of leaves; located at the base of a plant or stem; especially arising directly from the root or rootstock or a root-like stem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as or forming a base.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The outward movement of the basal half of the jaw necessarily twists in the same direction the column-like bone to which it is suspended."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Especially of leaves; located at the base of a plant or stem; especially arising directly from the root or rootstock or a root-like stem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as or forming a base.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The outward movement of the basal half of the jaw necessarily twists in the same direction the column-like bone to which it is suspended."*

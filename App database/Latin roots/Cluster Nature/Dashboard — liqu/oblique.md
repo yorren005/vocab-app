@@ -5,15 +5,6 @@ status: unread
 ---
 # oblique
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any grammatical case other than the nominative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diagonally arranged abdominal muscle on either side of the torso.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Down, down, they sped, the wheels humming like a top, the dog-cart rocking right and left, its axis acquiring a slightly oblique set in relation to the line of progress; the figure of the horse rising and falling in undulations before them."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But this word “cynical” is one of the most misused in the English language, especially when, by a glaring and gratuitous falsification of its original sense, it is applied, not to rough and snarling invective, but to gentle and oblique satire."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Suppose we change it.” “Not on my account, Sir James,” said Dorothea, determined not to lose the opportunity of freeing herself from certain oblique references to excellent matches."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any grammatical case other than the nominative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diagonally arranged abdominal muscle on either side of the torso.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Down, down, they sped, the wheels humming like a top, the dog-cart rocking right and left, its axis acquiring a slightly oblique set in relation to the line of progress; the figure of the horse rising and falling in undulations before them."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But this word “cynical” is one of the most misused in the English language, especially when, by a glaring and gratuitous falsification of its original sense, it is applied, not to rough and snarling invective, but to gentle and oblique satire."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Suppose we change it.” “Not on my account, Sir James,” said Dorothea, determined not to lose the opportunity of freeing herself from certain oblique references to excellent matches."*

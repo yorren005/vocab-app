@@ -5,13 +5,6 @@ status: unread
 ---
 # nucleate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form into a nucleus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a nucleus or occurring in the nucleus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nucleate designates form into a nucleus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Form into a nucleus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a nucleus or occurring in the nucleus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nucleate designates form into a nucleus."*

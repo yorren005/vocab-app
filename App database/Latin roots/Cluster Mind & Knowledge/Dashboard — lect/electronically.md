@@ -5,13 +5,6 @@ status: unread
 ---
 # electronically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By electronic means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By electronic means.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"All rooms, corridors and exterior approaches leading to the meeting site were physically and electronically searched, and the identity disks of all individuals passing through the area scrutinized and verified."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By electronic means.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By electronic means.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"All rooms, corridors and exterior approaches leading to the meeting site were physically and electronically searched, and the identity disks of all individuals passing through the area scrutinized and verified."*

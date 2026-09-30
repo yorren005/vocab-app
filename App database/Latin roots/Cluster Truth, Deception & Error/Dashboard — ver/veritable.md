@@ -5,15 +5,6 @@ status: unread
 ---
 # veritable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Often used as intensifiers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not counterfeit or copied.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most veritable, therefore look to ’t well."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Luckiest of all was Israel Stickney in casting lots, so that in the end, when he passed, he was a veritable treasure trove of clothing."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Thus, but not in the Wordsworthian sense, he is a veritable poet of Nature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Often used as intensifiers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not counterfeit or copied.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most veritable, therefore look to ’t well."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Luckiest of all was Israel Stickney in casting lots, so that in the end, when he passed, he was a veritable treasure trove of clothing."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Thus, but not in the Wordsworthian sense, he is a veritable poet of Nature."*

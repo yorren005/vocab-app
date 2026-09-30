@@ -5,15 +5,6 @@ status: unread
 ---
 # rudely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impolite manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impolite manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy place in Council thou hast rudely lost, Which by thy younger brother is supplied, And art almost an alien to the hearts Of all the court and princes of my blood."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now this lustful lord leaped from his bed, Throwing his mantle rudely o’er his arm; Is madly tossed between desire and dread; Th’ one sweetly flatters, th’ other feareth harm."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If not, enforced hate, Instead of love’s coy touch, shall rudely tear thee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impolite manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impolite manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy place in Council thou hast rudely lost, Which by thy younger brother is supplied, And art almost an alien to the hearts Of all the court and princes of my blood."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now this lustful lord leaped from his bed, Throwing his mantle rudely o’er his arm; Is madly tossed between desire and dread; Th’ one sweetly flatters, th’ other feareth harm."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If not, enforced hate, Instead of love’s coy touch, shall rudely tear thee."*

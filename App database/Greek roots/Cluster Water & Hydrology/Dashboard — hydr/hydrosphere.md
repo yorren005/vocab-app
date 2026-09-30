@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrosphere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The aqueous vapor of the atmosphere; broadly : the aqueous envelope of the earth including bodies of water and aqueous vapor in the atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The aqueous vapor of the atmosphere; broadly : the aqueous envelope of the earth including bodies of water and aqueous vapor in the atmosphere.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrosphere designates the aqueous vapor of the atmosphere; broadly : the aqueous envelope of the earth including bodies of water and aqueous vapor in the atmosphere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The aqueous vapor of the atmosphere; broadly : the aqueous envelope of the earth including bodies of water and aqueous vapor in the atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The aqueous vapor of the atmosphere; broadly : the aqueous envelope of the earth including bodies of water and aqueous vapor in the atmosphere.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrosphere designates the aqueous vapor of the atmosphere; broadly : the aqueous envelope of the earth including bodies of water and aqueous vapor in the atmosphere."*

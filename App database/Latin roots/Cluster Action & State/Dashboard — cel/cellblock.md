@@ -5,13 +5,6 @@ status: unread
 ---
 # cellblock
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A division of a prison (usually consisting of several cells).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A division of a prison (usually consisting of several cells).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cellblock designates a division of a prison (usually consisting of several cells)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A division of a prison (usually consisting of several cells).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A division of a prison (usually consisting of several cells).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cellblock designates a division of a prison (usually consisting of several cells)."*

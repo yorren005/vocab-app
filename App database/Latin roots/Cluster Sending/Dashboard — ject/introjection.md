@@ -5,13 +5,6 @@ status: unread
 ---
 # introjection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychoanalysis) the internalization of the parent figures and their values; leads to the formation of the superego.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychology) unconscious internalization of aspects of the world (especially aspects of persons) within the self in such a way that the internalized representation takes over the psychological functions of the external objects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, introjection designates (psychoanalysis) the internalization of the parent figures and their values; leads to the formation of the superego."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychoanalysis) the internalization of the parent figures and their values; leads to the formation of the superego.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychology) unconscious internalization of aspects of the world (especially aspects of persons) within the self in such a way that the internalized representation takes over the psychological functions of the external objects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, introjection designates (psychoanalysis) the internalization of the parent figures and their values; leads to the formation of the superego."*

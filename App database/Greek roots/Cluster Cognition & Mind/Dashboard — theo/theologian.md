@@ -5,15 +5,6 @@ status: unread
 ---
 # theologian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is learned in theology or who speculates about theology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is learned in theology or who speculates about theology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Ure, but a good scholar and a well-read theologian."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"These lectures were given on a Free Church foundation, instituted in memory of the distinguished theologian whose name it bears; and now for the first time the lecturer was chosen from beyond the borders of the Free Church."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is the heart that makes the theologian." Where does your theology come from? 2."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is learned in theology or who speculates about theology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is learned in theology or who speculates about theology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Ure, but a good scholar and a well-read theologian."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"These lectures were given on a Free Church foundation, instituted in memory of the distinguished theologian whose name it bears; and now for the first time the lecturer was chosen from beyond the borders of the Free Church."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is the heart that makes the theologian." Where does your theology come from? 2."*

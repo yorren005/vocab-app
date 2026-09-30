@@ -5,13 +5,6 @@ status: unread
 ---
 # unfamiliarity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unusualness as a consequence of not being well known.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unusualness as a consequence of not being well known.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby’s lambs, being wholly unconnected with Borrioboola-Gha; he is not softened by distance and unfamiliarity; he is not a genuine foreign-grown savage; he is the ordinary home-made article."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unusualness as a consequence of not being well known.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unusualness as a consequence of not being well known.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby’s lambs, being wholly unconnected with Borrioboola-Gha; he is not softened by distance and unfamiliarity; he is not a genuine foreign-grown savage; he is the ordinary home-made article."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # timeliness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being at the right time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Timely convenience.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, timeliness designates being at the right time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being at the right time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Timely convenience.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, timeliness designates being at the right time."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # tester
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who administers a test to determine your qualifications.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flat canopy (especially one over a four-poster bed).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hold, there’s a tester for thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tester I’ll have in pouch when thou shalt lack, Base Phrygian Turk!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In removing the light towards the bedstead its rays fell upon the tester of white dimity; something was hanging beneath it, and she lifted the candle to see what it was."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who administers a test to determine your qualifications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flat canopy (especially one over a four-poster bed).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hold, there’s a tester for thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tester I’ll have in pouch when thou shalt lack, Base Phrygian Turk!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In removing the light towards the bedstead its rays fell upon the tester of white dimity; something was hanging beneath it, and she lifted the candle to see what it was."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # dilettanteish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing frivolous or superficial interest; amateurish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing frivolous or superficial interest; amateurish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dilettanteish designates showing frivolous or superficial interest; amateurish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing frivolous or superficial interest; amateurish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing frivolous or superficial interest; amateurish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dilettanteish designates showing frivolous or superficial interest; amateurish."*

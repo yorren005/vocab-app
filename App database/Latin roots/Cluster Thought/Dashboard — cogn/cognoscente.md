@@ -5,13 +5,6 @@ status: unread
 ---
 # cognoscente
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert able to appreciate a field; especially in the fine arts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert able to appreciate a field; especially in the fine arts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cognoscente designates an expert able to appreciate a field; especially in the fine arts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert able to appreciate a field; especially in the fine arts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert able to appreciate a field; especially in the fine arts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cognoscente designates an expert able to appreciate a field; especially in the fine arts."*

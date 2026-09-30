@@ -5,13 +5,6 @@ status: unread
 ---
 # phonotactics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The area of phonology concerned with the analysis and description of the permitted sound sequences of a language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The area of phonology concerned with the analysis and description of the permitted sound sequences of a language.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonotactics designates the area of phonology concerned with the analysis and description of the permitted sound sequences of a language."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The area of phonology concerned with the analysis and description of the permitted sound sequences of a language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The area of phonology concerned with the analysis and description of the permitted sound sequences of a language.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonotactics designates the area of phonology concerned with the analysis and description of the permitted sound sequences of a language."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # ranter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who rants and raves; speaks in a violent or loud manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who rants and raves; speaks in a violent or loud manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A ranter preaches there between the services—an excellent, fiery, Christian man, they say."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I’ll lay a guinea he’s after Tess.” “O no. ’Tis a ranter pa’son who’s been sniffing after her lately; not a dandy like this.” “Well—this is the same man.” “The same man as the preacher?"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But stooks are cowpit wi’ the blast, And now the sinn keeks in the west, Then I maun rin amang the rest, An’ quat my chanter; Sae I subscribe myself’ in haste, Yours, Rab the Ranter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who rants and raves; speaks in a violent or loud manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who rants and raves; speaks in a violent or loud manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A ranter preaches there between the services—an excellent, fiery, Christian man, they say."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I’ll lay a guinea he’s after Tess.” “O no. ’Tis a ranter pa’son who’s been sniffing after her lately; not a dandy like this.” “Well—this is the same man.” “The same man as the preacher?"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But stooks are cowpit wi’ the blast, And now the sinn keeks in the west, Then I maun rin amang the rest, An’ quat my chanter; Sae I subscribe myself’ in haste, Yours, Rab the Ranter."*

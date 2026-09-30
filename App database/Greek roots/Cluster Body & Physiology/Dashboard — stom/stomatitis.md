@@ -5,13 +5,6 @@ status: unread
 ---
 # stomatitis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous inflammatory diseases of the mouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute viral disease especially of various domesticated animals (such as horses and cows) that resembles foot-and-mouth disease, is marked by erosive blisters in and about the mouth, and is caused by any of three rhabdoviruses (Vesiculovirus alagoas, V. indiana, and V. newjersey) which sometimes infect humans producing flu-like symptoms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stomatitis designates any of numerous inflammatory diseases of the mouth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous inflammatory diseases of the mouth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute viral disease especially of various domesticated animals (such as horses and cows) that resembles foot-and-mouth disease, is marked by erosive blisters in and about the mouth, and is caused by any of three rhabdoviruses (Vesiculovirus alagoas, V. indiana, and V. newjersey) which sometimes infect humans producing flu-like symptoms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stomatitis designates any of numerous inflammatory diseases of the mouth."*

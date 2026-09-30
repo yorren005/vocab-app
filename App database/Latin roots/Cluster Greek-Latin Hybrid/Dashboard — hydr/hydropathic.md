@@ -5,15 +5,6 @@ status: unread
 ---
 # hydropathic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to hydropathy or its administration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to hydropathy or its administration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"In the course of the treatment she was frequently taken to an underground water-cave, called Mauoki, for the _Kakelekele_ (hydropathic cure)."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Kakelekele, hydropathic cure, p. 126. kala, a species of fish."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"She had a black dress--fine silk, it was, quite real--of an old fashion, certainly, but no more so than you see at hydropathics and other places to which old solitary ladies come for the purpose of talking over their infirmities with one another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to hydropathy or its administration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to hydropathy or its administration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"In the course of the treatment she was frequently taken to an underground water-cave, called Mauoki, for the _Kakelekele_ (hydropathic cure)."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Kakelekele, hydropathic cure, p. 126. kala, a species of fish."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"She had a black dress--fine silk, it was, quite real--of an old fashion, certainly, but no more so than you see at hydropathics and other places to which old solitary ladies come for the purpose of talking over their infirmities with one another."*

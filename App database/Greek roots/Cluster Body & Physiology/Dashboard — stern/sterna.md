@@ -5,13 +5,6 @@ status: unread
 ---
 # sterna
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of sterninae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The flat bone that articulates with the clavicles and the first seven pairs of ribs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was a species of the Sterna nilotica, peculiar to Egypt; its beak is black, head grey and pointed, the eye surrounded by white spots, the back, wings, and tail of a greyish colour, the belly and throat white, and claws red."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of sterninae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The flat bone that articulates with the clavicles and the first seven pairs of ribs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was a species of the Sterna nilotica, peculiar to Egypt; its beak is black, head grey and pointed, the eye surrounded by white spots, the back, wings, and tail of a greyish colour, the belly and throat white, and claws red."*

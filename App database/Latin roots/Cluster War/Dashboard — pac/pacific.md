@@ -5,15 +5,6 @@ status: unread
 ---
 # pacific
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest ocean in the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or bordering the pacific ocean.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He has no idea, poor wretch, of the spiritual destitution of a coral reef in the Pacific or what it costs to look up the precious souls among the coco-nuts and bread-fruit."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At last he reached the summit, and a wide and novel prospect burst upon him with an effect almost like that of the Pacific upon Balboa’s gaze."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Awake, I remembered that I, Darrell Standing, in the flesh, during the year preceding my incarceration in San Quentin, had flown with Haas further over the Pacific at Santa Monica."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest ocean in the world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or bordering the pacific ocean.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He has no idea, poor wretch, of the spiritual destitution of a coral reef in the Pacific or what it costs to look up the precious souls among the coco-nuts and bread-fruit."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At last he reached the summit, and a wide and novel prospect burst upon him with an effect almost like that of the Pacific upon Balboa’s gaze."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Awake, I remembered that I, Darrell Standing, in the flesh, during the year preceding my incarceration in San Quentin, had flown with Haas further over the Pacific at Santa Monica."*

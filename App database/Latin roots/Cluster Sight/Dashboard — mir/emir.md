@@ -5,15 +5,6 @@ status: unread
 ---
 # emir
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An independent ruler or chieftain (especially in africa or arabia).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An independent ruler or chieftain (especially in africa or arabia).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"His dark eyes and swarthy skin and Paynim features suited the costume exactly: he looked the very model of an Eastern emir, an agent or a victim of the bowstring."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The second Emir lounges about the rigging awhile, and then slightly shaking the main brace, to see whether it be all right with that important rope, he likewise takes up the old burden, and with a rapid “Dinner, Mr."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Surely the Shulamite was not fairer than the Fenzile, daughter of Hamadj, a Druse emir!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An independent ruler or chieftain (especially in africa or arabia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An independent ruler or chieftain (especially in africa or arabia).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"His dark eyes and swarthy skin and Paynim features suited the costume exactly: he looked the very model of an Eastern emir, an agent or a victim of the bowstring."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The second Emir lounges about the rigging awhile, and then slightly shaking the main brace, to see whether it be all right with that important rope, he likewise takes up the old burden, and with a rapid “Dinner, Mr."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Surely the Shulamite was not fairer than the Fenzile, daughter of Hamadj, a Druse emir!"*

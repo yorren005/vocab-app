@@ -5,15 +5,6 @@ status: unread
 ---
 # stole
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long loose garment : robe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ecclesiastical vestment consisting of a long usually silk band worn traditionally around the neck by bishops and priests and over the left shoulder by deacons.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He stole from France, As ’tis reported, for the king had married him Against his liking."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He stole from Florence, taking no leave, and I follow him to his country for justice."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whereon, At three and two years old, I stole these babes, Thinking to bar thee of succession as Thou refts me of my lands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long loose garment : robe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ecclesiastical vestment consisting of a long usually silk band worn traditionally around the neck by bishops and priests and over the left shoulder by deacons.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He stole from France, As ’tis reported, for the king had married him Against his liking."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He stole from Florence, taking no leave, and I follow him to his country for justice."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whereon, At three and two years old, I stole these babes, Thinking to bar thee of succession as Thou refts me of my lands."*

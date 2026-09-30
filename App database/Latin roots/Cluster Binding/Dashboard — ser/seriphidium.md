@@ -5,13 +5,6 @@ status: unread
 ---
 # seriphidium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Woody plants grown chiefly for their silver or grey and often aromatic foliage; formerly included in the genus artemisia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Woody plants grown chiefly for their silver or grey and often aromatic foliage; formerly included in the genus artemisia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seriphidium designates woody plants grown chiefly for their silver or grey and often aromatic foliage; formerly included in the genus artemisia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Woody plants grown chiefly for their silver or grey and often aromatic foliage; formerly included in the genus artemisia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Woody plants grown chiefly for their silver or grey and often aromatic foliage; formerly included in the genus artemisia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seriphidium designates woody plants grown chiefly for their silver or grey and often aromatic foliage; formerly included in the genus artemisia."*

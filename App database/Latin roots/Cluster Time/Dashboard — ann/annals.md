@@ -5,15 +5,6 @@ status: unread
 ---
 # annals
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reports of the work of a society or learned body etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronological account of events in successive years.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you have writ your annals true, ’tis there, That like an eagle in a dovecote, I Fluttered your Volscians in Corioles, Alone I did it."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tears came into the eyes of Retty Priddle, the pretty red-haired youngest—the last bud of the Paridelles, so important in the county annals."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Dalyell, _Darker Superstitions of Scotland_ (Edinburgh, 1834), pp. 140 _sq._; Daniel Wilson, _The Archaeology and Prehistoric Annals of Scotland_ (Edinburgh, 1851), pp. 303 _sqq._; Lieut.-Col."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reports of the work of a society or learned body etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronological account of events in successive years.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you have writ your annals true, ’tis there, That like an eagle in a dovecote, I Fluttered your Volscians in Corioles, Alone I did it."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tears came into the eyes of Retty Priddle, the pretty red-haired youngest—the last bud of the Paridelles, so important in the county annals."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Dalyell, _Darker Superstitions of Scotland_ (Edinburgh, 1834), pp. 140 _sq._; Daniel Wilson, _The Archaeology and Prehistoric Annals of Scotland_ (Edinburgh, 1851), pp. 303 _sqq._; Lieut.-Col."*

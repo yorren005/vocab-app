@@ -5,15 +5,6 @@ status: unread
 ---
 # proteus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a prophetic god who served poseidon; was capable of changing his shape at will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the proteidae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I can add colours to the chameleon, Change shapes with Proteus for advantages, And set the murderous Machiavel to school."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An open place Enter Valentine and Proteus."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cease to persuade, my loving Proteus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a prophetic god who served poseidon; was capable of changing his shape at will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the proteidae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I can add colours to the chameleon, Change shapes with Proteus for advantages, And set the murderous Machiavel to school."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An open place Enter Valentine and Proteus."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cease to persuade, my loving Proteus."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # uninspired
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no intellectual or emotional or spiritual excitement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deficient in originality or creativity; lacking powers of invention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It was her custom to read the Bible from duty, and then turn to these uninspired volumes for the kindling of a higher devotion."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It was a time rich in hidden intellectual forces, and yet it bore the stamp of that uninspired Philistinism which is so abundantly evidenced by the barren commonplace character of its architecture and art."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Hence the misappre- 319:24 hension of the spiritual meaning of the Bible, and the misinterpretation of the Word in some instances by uninspired writers, who only wrote 319:27 down what an inspired teacher had said."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no intellectual or emotional or spiritual excitement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deficient in originality or creativity; lacking powers of invention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"It was her custom to read the Bible from duty, and then turn to these uninspired volumes for the kindling of a higher devotion."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It was a time rich in hidden intellectual forces, and yet it bore the stamp of that uninspired Philistinism which is so abundantly evidenced by the barren commonplace character of its architecture and art."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Hence the misappre- 319:24 hension of the spiritual meaning of the Bible, and the misinterpretation of the Word in some instances by uninspired writers, who only wrote 319:27 down what an inspired teacher had said."*

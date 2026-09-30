@@ -5,15 +5,6 @@ status: unread
 ---
 # costly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Entailing great loss or sacrifice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a high price.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Costly thy habit as thy purse can buy, But not express’d in fancy; rich, not gaudy: For the apparel oft proclaims the man; And they in France of the best rank and station Are of a most select and generous chief in that."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Woe to the hand that shed this costly blood!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A day in April never came so sweet, To show how costly summer was at hand, As this fore-spurrer comes before his lord."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Entailing great loss or sacrifice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a high price.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Costly thy habit as thy purse can buy, But not express’d in fancy; rich, not gaudy: For the apparel oft proclaims the man; And they in France of the best rank and station Are of a most select and generous chief in that."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Woe to the hand that shed this costly blood!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A day in April never came so sweet, To show how costly summer was at hand, As this fore-spurrer comes before his lord."*

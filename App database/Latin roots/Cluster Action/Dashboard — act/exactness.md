@@ -5,15 +5,6 @@ status: unread
 ---
 # exactness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being exact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being exact.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Is there any claim that I can release or any charge or trouble that I can spare my husband in obtaining HIS release by certifying to the exactness of your discovery?"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Loest was lost in wonder at the marvelous way and exactness of time in which the Lord delivered him, while the creditor was astonished thus to find Loest's Mighty Friend had not failed him in his hour of need."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The benefit derived by any citizen from most of the public services evidently cannot be measured with exactness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being exact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being exact.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Is there any claim that I can release or any charge or trouble that I can spare my husband in obtaining HIS release by certifying to the exactness of your discovery?"*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Loest was lost in wonder at the marvelous way and exactness of time in which the Lord delivered him, while the creditor was astonished thus to find Loest's Mighty Friend had not failed him in his hour of need."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The benefit derived by any citizen from most of the public services evidently cannot be measured with exactness."*

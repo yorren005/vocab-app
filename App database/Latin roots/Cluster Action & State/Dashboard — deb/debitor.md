@@ -5,13 +5,6 @@ status: unread
 ---
 # debitor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who owes a creditor; someone who has the obligation of paying a debt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who owes a creditor; someone who has the obligation of paying a debt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have no true debitor and creditor but it; of what’s past, is, and to come, the discharge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who owes a creditor; someone who has the obligation of paying a debt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who owes a creditor; someone who has the obligation of paying a debt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have no true debitor and creditor but it; of what’s past, is, and to come, the discharge."*

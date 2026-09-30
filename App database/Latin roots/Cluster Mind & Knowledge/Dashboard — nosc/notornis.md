@@ -5,13 +5,6 @@ status: unread
 ---
 # notornis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flightless new zealand birds similar to gallinules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flightless new zealand birds similar to gallinules.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notornis designates flightless new zealand birds similar to gallinules."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flightless new zealand birds similar to gallinules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flightless new zealand birds similar to gallinules.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notornis designates flightless new zealand birds similar to gallinules."*

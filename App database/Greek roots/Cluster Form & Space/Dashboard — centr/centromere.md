@@ -5,13 +5,6 @@ status: unread
 ---
 # centromere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The point or region on a chromosome to which the spindle attaches during mitosis and meiosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The point or region on a chromosome to which the spindle attaches during mitosis and meiosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centromere designates the point or region on a chromosome to which the spindle attaches during mitosis and meiosis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The point or region on a chromosome to which the spindle attaches during mitosis and meiosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The point or region on a chromosome to which the spindle attaches during mitosis and meiosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centromere designates the point or region on a chromosome to which the spindle attaches during mitosis and meiosis."*

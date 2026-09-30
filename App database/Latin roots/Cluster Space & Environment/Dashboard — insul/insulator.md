@@ -5,15 +5,6 @@ status: unread
 ---
 # insulator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A material such as glass or porcelain with negligible electrical or thermal conductivity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A material such as glass or porcelain with negligible electrical or thermal conductivity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This is two conductors, generally in the form of two plates with an insulator between them."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In the Leyden jar the insulator is a glass jar, while the "plates" are coatings of tinfoil, one inside and the other outside."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Now an air-gap--a gap that is filled with air, between two conductors--is a very strong insulator."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A material such as glass or porcelain with negligible electrical or thermal conductivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A material such as glass or porcelain with negligible electrical or thermal conductivity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This is two conductors, generally in the form of two plates with an insulator between them."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In the Leyden jar the insulator is a glass jar, while the "plates" are coatings of tinfoil, one inside and the other outside."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Now an air-gap--a gap that is filled with air, between two conductors--is a very strong insulator."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # metamorphose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change completely the nature or appearance of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change in outward structure or looks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I obeyed with singular hardihood, for how did I know whether a wave of his wand might not metamorphose me into some strange monster or conjure me into one of the bottles on his mantelpiece?"*
-> - 📜 **James Scurry (*The captivity, sufferings, and escape of James Scurry*):** *"A British sailor, however, in any disguise, if flowing with money, can easily make his peace with a waiter at an inn, and metamorphose a frowning aspect into a smiling countenance."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In the printed texts, it is generally called the _Metamorphoses_. [74] _Apol._ 24. [75] _Apol._ 23. [76] _Apol._ 72; _Flor._ 18. [77] _Flor._ 20. [78] _Apol._ 98."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Change completely the nature or appearance of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change in outward structure or looks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I obeyed with singular hardihood, for how did I know whether a wave of his wand might not metamorphose me into some strange monster or conjure me into one of the bottles on his mantelpiece?"*
+> - 📜 **James Scurry (*The captivity, sufferings, and escape of James Scurry*):** *"A British sailor, however, in any disguise, if flowing with money, can easily make his peace with a waiter at an inn, and metamorphose a frowning aspect into a smiling countenance."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In the printed texts, it is generally called the _Metamorphoses_. [74] _Apol._ 24. [75] _Apol._ 23. [76] _Apol._ 72; _Flor._ 18. [77] _Flor._ 20. [78] _Apol._ 98."*

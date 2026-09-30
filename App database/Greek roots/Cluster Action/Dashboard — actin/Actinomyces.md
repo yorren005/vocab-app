@@ -5,13 +5,6 @@ status: unread
 ---
 # actinomyces
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soil-inhabiting saprophytes and disease-producing plant and animal parasites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soil-inhabiting saprophytes and disease-producing plant and animal parasites.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Actinomyces designates soil-inhabiting saprophytes and disease-producing plant and animal parasites."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Soil-inhabiting saprophytes and disease-producing plant and animal parasites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soil-inhabiting saprophytes and disease-producing plant and animal parasites.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Actinomyces designates soil-inhabiting saprophytes and disease-producing plant and animal parasites."*

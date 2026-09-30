@@ -5,15 +5,6 @@ status: unread
 ---
 # sack
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually rectangular-shaped bag (as of paper, burlap, or canvas).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amount contained in a sack; especially : a fixed amount of a commodity used as a unit of measure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Proceed by process, Lest parties—as he is beloved—break out And sack great Rome with Romans."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art so fat-witted, with drinking of old sack, and unbuttoning thee after supper, and sleeping upon benches after noon, that thou hast forgotten to demand that truly which thou wouldst truly know."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What says Sir John Sack-and-sugar?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually rectangular-shaped bag (as of paper, burlap, or canvas).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amount contained in a sack; especially : a fixed amount of a commodity used as a unit of measure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Proceed by process, Lest parties—as he is beloved—break out And sack great Rome with Romans."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art so fat-witted, with drinking of old sack, and unbuttoning thee after supper, and sleeping upon benches after noon, that thou hast forgotten to demand that truly which thou wouldst truly know."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What says Sir John Sack-and-sugar?"*

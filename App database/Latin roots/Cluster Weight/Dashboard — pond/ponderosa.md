@@ -5,13 +5,6 @@ status: unread
 ---
 # ponderosa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Common and widely distributed tall timber pine of western north america having dark green needles in bunches of 2 to 5 and thick bark with dark brown plates when mature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Common and widely distributed tall timber pine of western north america having dark green needles in bunches of 2 to 5 and thick bark with dark brown plates when mature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ponderosa designates common and widely distributed tall timber pine of western north america having dark green needles in bunches of 2 to 5 and thick bark with dark brown plates when mature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Common and widely distributed tall timber pine of western north america having dark green needles in bunches of 2 to 5 and thick bark with dark brown plates when mature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Common and widely distributed tall timber pine of western north america having dark green needles in bunches of 2 to 5 and thick bark with dark brown plates when mature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ponderosa designates common and widely distributed tall timber pine of western north america having dark green needles in bunches of 2 to 5 and thick bark with dark brown plates when mature."*

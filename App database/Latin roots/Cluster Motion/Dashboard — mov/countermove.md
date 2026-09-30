@@ -5,13 +5,6 @@ status: unread
 ---
 # countermove
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An attack by a defending force against an attacking enemy force in order to regain lost ground or cut off enemy advance units etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An attack by a defending force against an attacking enemy force in order to regain lost ground or cut off enemy advance units etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, countermove designates an attack by a defending force against an attacking enemy force in order to regain lost ground or cut off enemy advance units etc."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An attack by a defending force against an attacking enemy force in order to regain lost ground or cut off enemy advance units etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An attack by a defending force against an attacking enemy force in order to regain lost ground or cut off enemy advance units etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, countermove designates an attack by a defending force against an attacking enemy force in order to regain lost ground or cut off enemy advance units etc."*

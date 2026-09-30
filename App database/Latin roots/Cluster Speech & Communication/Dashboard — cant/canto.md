@@ -5,15 +5,6 @@ status: unread
 ---
 # canto
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The highest part (usually the melody) in a piece of choral music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major division of a long poem.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Part three, for instance, contains a poem that reads like a parody of Belinda awaking in the first canto of Pope's _Rape of the Lock_."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Then soft on the air I whisper a prayer, And know 'twill be echoed above: "Be Thou very near her to comfort and cheer her, Oh, God, bless and cherish my Love!" CANTO THE SECOND."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Jonathan Foster, in the Bohn Library):-- “The Carmelite monk, Fra Filippo di Tommaso Lippi (1412-1469) *1* was born at Florence in a bye-street called Ardiglione, under the Canto alla Cuculia, and behind the convent of the Carmelites."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The highest part (usually the melody) in a piece of choral music.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major division of a long poem.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Part three, for instance, contains a poem that reads like a parody of Belinda awaking in the first canto of Pope's _Rape of the Lock_."*
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Then soft on the air I whisper a prayer, And know 'twill be echoed above: "Be Thou very near her to comfort and cheer her, Oh, God, bless and cherish my Love!" CANTO THE SECOND."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Jonathan Foster, in the Bohn Library):-- “The Carmelite monk, Fra Filippo di Tommaso Lippi (1412-1469) *1* was born at Florence in a bye-street called Ardiglione, under the Canto alla Cuculia, and behind the convent of the Carmelites."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # stolon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A horizontal branch from the base of plant that produces new plants from buds at its tips.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A horizontal branch from the base of plant that produces new plants from buds at its tips.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stolon designates a horizontal branch from the base of plant that produces new plants from buds at its tips."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A horizontal branch from the base of plant that produces new plants from buds at its tips.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A horizontal branch from the base of plant that produces new plants from buds at its tips.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stolon designates a horizontal branch from the base of plant that produces new plants from buds at its tips."*

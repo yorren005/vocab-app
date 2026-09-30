@@ -5,15 +5,6 @@ status: unread
 ---
 # irrelevantly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an irrelevant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an irrelevant manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Why have we never met before?” “If you had told me you knew my grandfather when you appeared in the garden, I should not have been in the least surprised,” I answered rather irrelevantly."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Her eyes, however, at last came back to him, just as he said very irrelevantly; “Are you enjoying your visit to your uncle?” “Very much indeed.” She dropped, but then she broke out."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Osmond went on irrelevantly, addressing himself to his other companion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an irrelevant manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an irrelevant manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Why have we never met before?” “If you had told me you knew my grandfather when you appeared in the garden, I should not have been in the least surprised,” I answered rather irrelevantly."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Her eyes, however, at last came back to him, just as he said very irrelevantly; “Are you enjoying your visit to your uncle?” “Very much indeed.” She dropped, but then she broke out."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Osmond went on irrelevantly, addressing himself to his other companion."*

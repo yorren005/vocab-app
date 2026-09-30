@@ -5,13 +5,6 @@ status: unread
 ---
 # modulus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An integer that can be divided without remainder into the difference between two other integers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The absolute value of a complex number.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modulus designates an integer that can be divided without remainder into the difference between two other integers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An integer that can be divided without remainder into the difference between two other integers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The absolute value of a complex number.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modulus designates an integer that can be divided without remainder into the difference between two other integers."*

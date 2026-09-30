@@ -5,15 +5,6 @@ status: unread
 ---
 # logician
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled at symbolic logic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person skilled at symbolic logic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill's achievements as an economist, logician, psychologist, and politician are known more or less vaguely to all educated men; but his capacity and his actual work as a critic are comparatively little regarded."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Men who had only known the quiet thinker and logician of Baker Street would have failed to recognise him."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And all the logicians in the world could not shame me to myself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled at symbolic logic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person skilled at symbolic logic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill's achievements as an economist, logician, psychologist, and politician are known more or less vaguely to all educated men; but his capacity and his actual work as a critic are comparatively little regarded."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Men who had only known the quiet thinker and logician of Baker Street would have failed to recognise him."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And all the logicians in the world could not shame me to myself."*

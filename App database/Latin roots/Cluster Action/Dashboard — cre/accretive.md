@@ -5,13 +5,6 @@ status: unread
 ---
 # accretive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing by accretion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growing by accretion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accretive designates growing by accretion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing by accretion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growing by accretion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accretive designates growing by accretion."*

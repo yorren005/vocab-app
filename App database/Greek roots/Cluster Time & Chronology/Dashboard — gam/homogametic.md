@@ -5,13 +5,6 @@ status: unread
 ---
 # homogametic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming gametes which all have the same type of sex chromosome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming gametes which all have the same type of sex chromosome.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homogametic designates forming gametes which all have the same type of sex chromosome."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming gametes which all have the same type of sex chromosome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming gametes which all have the same type of sex chromosome.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homogametic designates forming gametes which all have the same type of sex chromosome."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # herero
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a pastoral bantu people living in namibia, botswana, and angola.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A banto language spoken by the herero in namibia, botswana, and angola.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herero designates a member of a pastoral bantu people living in namibia, botswana, and angola."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a pastoral bantu people living in namibia, botswana, and angola.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A banto language spoken by the herero in namibia, botswana, and angola.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herero designates a member of a pastoral bantu people living in namibia, botswana, and angola."*

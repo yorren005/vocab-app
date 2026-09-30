@@ -5,15 +5,6 @@ status: unread
 ---
 # facetious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cleverly amusing in tone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cleverly amusing in tone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You must grow your hair for the marriage knot,” Yunsan warned me one day, with the ghost of a twinkle in his austere eyes, more nearly facetious and human than I had ever beheld him."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers is.” “Yah!” cried Wemmick, suddenly hitting out at the turnkey in a facetious way, “you’re dumb as one of your own keys when you have to do with my principal, you know you are."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"If there was anything marvellous, his auditors were lost in astonishment; and if anything facetious, they were sure to laugh exactly in the right place."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cleverly amusing in tone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cleverly amusing in tone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You must grow your hair for the marriage knot,” Yunsan warned me one day, with the ghost of a twinkle in his austere eyes, more nearly facetious and human than I had ever beheld him."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers is.” “Yah!” cried Wemmick, suddenly hitting out at the turnkey in a facetious way, “you’re dumb as one of your own keys when you have to do with my principal, you know you are."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"If there was anything marvellous, his auditors were lost in astonishment; and if anything facetious, they were sure to laugh exactly in the right place."*

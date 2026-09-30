@@ -5,15 +5,6 @@ status: unread
 ---
 # homogeneous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the same or a similar kind or nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of uniform structure or composition throughout.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ultimately he was reduced well-nigh to a homogeneous sop, and the dyes of his clothes trickled down and stood in a pool at the foot of the ladder."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This quality is present only when the material is quite homogeneous throughout the whole mass, a condition fulfilled more completely by the metals than by any other goods."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He isn't so--so homogeneous as most people are."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the same or a similar kind or nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of uniform structure or composition throughout.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ultimately he was reduced well-nigh to a homogeneous sop, and the dyes of his clothes trickled down and stood in a pool at the foot of the ladder."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This quality is present only when the material is quite homogeneous throughout the whole mass, a condition fulfilled more completely by the metals than by any other goods."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"He isn't so--so homogeneous as most people are."*

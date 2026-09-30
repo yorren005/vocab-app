@@ -5,13 +5,6 @@ status: unread
 ---
 # enchondroma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Benign slow-growing tumor of cartilaginous cells at the ends of tubular bones (especially in the hands and feet).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Benign slow-growing tumor of cartilaginous cells at the ends of tubular bones (especially in the hands and feet).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enchondroma designates benign slow-growing tumor of cartilaginous cells at the ends of tubular bones (especially in the hands and feet)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Benign slow-growing tumor of cartilaginous cells at the ends of tubular bones (especially in the hands and feet).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Benign slow-growing tumor of cartilaginous cells at the ends of tubular bones (especially in the hands and feet).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enchondroma designates benign slow-growing tumor of cartilaginous cells at the ends of tubular bones (especially in the hands and feet)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # perversely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deliberately deviant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a contrary disobedient manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and perversely she persevers so."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Anywhere’s nowhere,” said Miss Jellyby, stopping perversely."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I could do no more.” Like the prophet on the top of Peor, Izz Huett would fain have spoken perversely at such a moment, but the fascination exercised over her rougher nature by Tess’s character compelled her to grace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deliberately deviant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a contrary disobedient manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and perversely she persevers so."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Anywhere’s nowhere,” said Miss Jellyby, stopping perversely."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I could do no more.” Like the prophet on the top of Peor, Izz Huett would fain have spoken perversely at such a moment, but the fascination exercised over her rougher nature by Tess’s character compelled her to grace."*

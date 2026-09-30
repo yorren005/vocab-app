@@ -5,15 +5,6 @@ status: unread
 ---
 # prefect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chief officer or chief magistrate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chief officer or chief magistrate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Or think of a decent young citizen in a toga—perhaps too much dice, you know—coming out here in the train of some prefect, or tax-gatherer, or trader even, to mend his fortunes."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"All eyes are turned anxiously to the door from which the Sub-Prefect himself and the other representatives of the majesty of the law are expected to issue and pay their homage to the hero of the hour."*
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"The Taianfu district is especially dangerous, as the prefect will not allow them to be interfered with."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chief officer or chief magistrate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chief officer or chief magistrate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Or think of a decent young citizen in a toga—perhaps too much dice, you know—coming out here in the train of some prefect, or tax-gatherer, or trader even, to mend his fortunes."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"All eyes are turned anxiously to the door from which the Sub-Prefect himself and the other representatives of the majesty of the law are expected to issue and pay their homage to the hero of the hour."*
+> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"The Taianfu district is especially dangerous, as the prefect will not allow them to be interfered with."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # graveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A manner that is serious and solemn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manner that is serious and solemn.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A very riband in the cap of youth, Yet needful too, for youth no less becomes The light and careless livery that it wears Than settled age his sables and his weeds, Importing health and graveness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A manner that is serious and solemn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manner that is serious and solemn.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A very riband in the cap of youth, Yet needful too, for youth no less becomes The light and careless livery that it wears Than settled age his sables and his weeds, Importing health and graveness."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # bone-dry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without a trace of moisture; as dry as a weathered bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without a trace of moisture; as dry as a weathered bone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bone-dry designates without a trace of moisture; as dry as a weathered bone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without a trace of moisture; as dry as a weathered bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without a trace of moisture; as dry as a weathered bone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bone-dry designates without a trace of moisture; as dry as a weathered bone."*

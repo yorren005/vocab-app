@@ -5,13 +5,6 @@ status: unread
 ---
 # divaricate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Branch off.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread apart.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Even to sit where a woman has sat, especially with divaricated thighs, as though to grant the last favours, most especially with previously well uplifted white sateen coatpans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Branch off.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread apart.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Even to sit where a woman has sat, especially with divaricated thighs, as though to grant the last favours, most especially with previously well uplifted white sateen coatpans."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # holocaust
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sacrifice consumed by fire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thorough destruction involving extensive loss of life especially through fire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"The wreckage of the nations, Ten million dwellings lost, Murders and mutilations, The world's great holocaust."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Yet even in this holocaust there were degrees, gradations of sacrifice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sacrifice consumed by fire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thorough destruction involving extensive loss of life especially through fire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"The wreckage of the nations, Ten million dwellings lost, Murders and mutilations, The world's great holocaust."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Yet even in this holocaust there were degrees, gradations of sacrifice."*

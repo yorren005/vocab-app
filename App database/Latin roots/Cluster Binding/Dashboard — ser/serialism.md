@@ -5,13 +5,6 @@ status: unread
 ---
 # serialism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 20th century music that uses a definite order of notes as a thematic basis for a musical composition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 20th century music that uses a definite order of notes as a thematic basis for a musical composition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serialism designates 20th century music that uses a definite order of notes as a thematic basis for a musical composition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: 20th century music that uses a definite order of notes as a thematic basis for a musical composition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 20th century music that uses a definite order of notes as a thematic basis for a musical composition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serialism designates 20th century music that uses a definite order of notes as a thematic basis for a musical composition."*

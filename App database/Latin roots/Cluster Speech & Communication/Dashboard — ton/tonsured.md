@@ -5,14 +5,6 @@ status: unread
 ---
 # tonsured
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shave the head of a newly inducted monk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a bald spot either shaved or natural.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Song of Roland*):** *"On her tower, high up clomb Bramimunde, Around her there the clerks and canons stood Of the false law, whom God ne'er loved nor knew; Orders they'd none, nor were their heads tonsured."*
-> - 📜 **James Joyce (*Ulysses*):** *"A choir gives back menace and echo, assisting about the altar’s horns, the snorted Latin of jackpriests moving burly in their albs, tonsured and oiled and gelded, fat with the fat of kidneys of wheat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shave the head of a newly inducted monk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a bald spot either shaved or natural.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Song of Roland*):** *"On her tower, high up clomb Bramimunde, Around her there the clerks and canons stood Of the false law, whom God ne'er loved nor knew; Orders they'd none, nor were their heads tonsured."*
+> - 📜 **James Joyce (*Ulysses*):** *"A choir gives back menace and echo, assisting about the altar’s horns, the snorted Latin of jackpriests moving burly in their albs, tonsured and oiled and gelded, fat with the fat of kidneys of wheat."*

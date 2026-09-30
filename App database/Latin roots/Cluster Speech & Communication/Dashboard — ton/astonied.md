@@ -5,13 +5,6 @@ status: unread
 ---
 # astonied
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled with the emotional impact of overwhelming surprise or shock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filled with the emotional impact of overwhelming surprise or shock.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astonied designates filled with the emotional impact of overwhelming surprise or shock."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled with the emotional impact of overwhelming surprise or shock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filled with the emotional impact of overwhelming surprise or shock.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astonied designates filled with the emotional impact of overwhelming surprise or shock."*

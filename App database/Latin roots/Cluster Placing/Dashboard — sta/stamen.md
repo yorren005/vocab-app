@@ -5,13 +5,6 @@ status: unread
 ---
 # stamen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The male reproductive organ of a flower.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The male reproductive organ of a flower.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Blight Hard seeds of hate I planted That should by now be grown,-- Rough stalks, and from thick stamens A poisonous pollen blown, And odors rank, unbreathable, From dark corollas thrown!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The male reproductive organ of a flower.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The male reproductive organ of a flower.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Blight Hard seeds of hate I planted That should by now be grown,-- Rough stalks, and from thick stamens A poisonous pollen blown, And odors rank, unbreathable, From dark corollas thrown!"*

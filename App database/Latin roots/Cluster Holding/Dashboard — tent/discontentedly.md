@@ -5,15 +5,6 @@ status: unread
 ---
 # discontentedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With discontent; in a discontented manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With discontent; in a discontented manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then comes, dropping after all, Apemantus, discontentedly, like himself."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What did you say that for?” “’Cause he gave me the penny!” “What a pucker everything is in!” said Bathsheba, discontentedly when the child had gone."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What did you say that for?” “’Cause he gave me the penny!” “What a pucker everything is in!” said Bathsheba, discontentedly when the child had gone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With discontent; in a discontented manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With discontent; in a discontented manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then comes, dropping after all, Apemantus, discontentedly, like himself."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What did you say that for?” “’Cause he gave me the penny!” “What a pucker everything is in!” said Bathsheba, discontentedly when the child had gone."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What did you say that for?” “’Cause he gave me the penny!” “What a pucker everything is in!” said Bathsheba, discontentedly when the child had gone."*

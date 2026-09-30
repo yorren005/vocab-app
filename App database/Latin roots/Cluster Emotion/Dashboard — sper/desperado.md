@@ -5,15 +5,6 @@ status: unread
 ---
 # desperado
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bold outlaw (especially on the american frontier).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bold outlaw (especially on the american frontier).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"SAVED FROM THE HANDS OF A DESPERADO."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There is nothing like the perils of whaling to breed this free and easy sort of genial, desperado philosophy; and with it I now regarded this whole voyage of the Pequod, and the great White Whale its object."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"There is nothing like the perils of whaling to breed this free and easy sort of genial, desperado philosophy; and with it I now regarded this whole voyage of the Pequod, and the great White Whale its object."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bold outlaw (especially on the american frontier).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bold outlaw (especially on the american frontier).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"SAVED FROM THE HANDS OF A DESPERADO."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There is nothing like the perils of whaling to breed this free and easy sort of genial, desperado philosophy; and with it I now regarded this whole voyage of the Pequod, and the great White Whale its object."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"There is nothing like the perils of whaling to breed this free and easy sort of genial, desperado philosophy; and with it I now regarded this whole voyage of the Pequod, and the great White Whale its object."*

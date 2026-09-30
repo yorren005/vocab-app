@@ -5,15 +5,6 @@ status: unread
 ---
 # seedy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of seeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shabby and untidy; ; - mark twain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I am a seedy old fellow,” said the Vicar, rising, pushing his chair away and looking down at himself."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Beside the couch was a wooden chair, and on the angle of the back hung a very seedy and disreputable hard-felt hat, much the worse for wear, and cracked in several places."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"With his collar turned up, his shiny, seedy coat, his red cravat, and his worn boots, he was a perfect sample of the class."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shabby and untidy; ; - mark twain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"I am a seedy old fellow,” said the Vicar, rising, pushing his chair away and looking down at himself."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Beside the couch was a wooden chair, and on the angle of the back hung a very seedy and disreputable hard-felt hat, much the worse for wear, and cracked in several places."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"With his collar turned up, his shiny, seedy coat, his red cravat, and his worn boots, he was a perfect sample of the class."*

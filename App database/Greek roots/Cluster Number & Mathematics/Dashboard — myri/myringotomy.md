@@ -5,13 +5,6 @@ status: unread
 ---
 # myringotomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical incision into the eardrum (to relieve pressure or release pus from the middle ear).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical incision into the eardrum (to relieve pressure or release pus from the middle ear).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myringotomy designates surgical incision into the eardrum (to relieve pressure or release pus from the middle ear)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical incision into the eardrum (to relieve pressure or release pus from the middle ear).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical incision into the eardrum (to relieve pressure or release pus from the middle ear).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myringotomy designates surgical incision into the eardrum (to relieve pressure or release pus from the middle ear)."*

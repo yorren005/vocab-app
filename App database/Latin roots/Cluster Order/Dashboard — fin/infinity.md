@@ -5,15 +5,6 @@ status: unread
 ---
 # infinity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Time without end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Time without end.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket pervades a vast number of houses and strolls about an infinity of streets, to outward appearance rather languishing for want of an object."*
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Infinity Pressed down upon the finite Me!"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Right and wrong do not meet at infinity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Time without end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Time without end.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket pervades a vast number of houses and strolls about an infinity of streets, to outward appearance rather languishing for want of an object."*
+> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Infinity Pressed down upon the finite Me!"*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Right and wrong do not meet at infinity."*

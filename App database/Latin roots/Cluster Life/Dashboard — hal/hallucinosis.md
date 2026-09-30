@@ -5,13 +5,6 @@ status: unread
 ---
 # hallucinosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental state in which the person has continual hallucinations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mental state in which the person has continual hallucinations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hallucinosis designates a mental state in which the person has continual hallucinations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental state in which the person has continual hallucinations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mental state in which the person has continual hallucinations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hallucinosis designates a mental state in which the person has continual hallucinations."*

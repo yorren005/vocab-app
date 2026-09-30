@@ -5,14 +5,6 @@ status: unread
 ---
 # cremate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce to ashes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce to ashes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Cremate, 29. _See_ Burning, Giving, Relics."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"One of these, which excited great indignation in his family, was that his body should be conveyed to Milan, and there cremated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +41,10 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce to ashes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce to ashes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Cremate, 29. _See_ Burning, Giving, Relics."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"One of these, which excited great indignation in his family, was that his body should be conveyed to Milan, and there cremated."*

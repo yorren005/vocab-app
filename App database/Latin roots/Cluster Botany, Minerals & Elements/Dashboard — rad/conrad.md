@@ -5,15 +5,6 @@ status: unread
 ---
 # conrad
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English novelist (born in poland) noted for sea stories and for his narrative technique (1857-1924).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English novelist (born in poland) noted for sea stories and for his narrative technique (1857-1924).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Conrad, of Keokuk, Iowa, and her two sisters."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The Democrats nominated Conrad B."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Conrad, Louisiana, August 15th, 1850."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English novelist (born in poland) noted for sea stories and for his narrative technique (1857-1924).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English novelist (born in poland) noted for sea stories and for his narrative technique (1857-1924).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Conrad, of Keokuk, Iowa, and her two sisters."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The Democrats nominated Conrad B."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Conrad, Louisiana, August 15th, 1850."*

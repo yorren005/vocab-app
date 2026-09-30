@@ -5,15 +5,6 @@ status: unread
 ---
 # gratis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Costing nothing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without payment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The people cry you mocked them; and, of late, When corn was given them gratis, you repined, Scandaled the suppliants for the people, called them Timepleasers, flatterers, foes to nobleness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whoever gave that counsel to give forth The corn o’ th’ storehouse gratis, as ’twas used Sometime in Greece— MENENIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This kind of service Did not deserve corn gratis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Costing nothing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without payment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The people cry you mocked them; and, of late, When corn was given them gratis, you repined, Scandaled the suppliants for the people, called them Timepleasers, flatterers, foes to nobleness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whoever gave that counsel to give forth The corn o’ th’ storehouse gratis, as ’twas used Sometime in Greece— MENENIUS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This kind of service Did not deserve corn gratis."*

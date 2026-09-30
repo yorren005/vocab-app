@@ -5,15 +5,6 @@ status: unread
 ---
 # raped
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Force (someone) to have sex against their will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy and strip of its possession.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Also, in the end she wept, so that I was raped of my vision, and it was Har, naked and clinging, that bestrode the stallion when he vaulted away."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"A girl in her teens was shamelessly raped, whilst an eleven-month-old baby was heartlessly trampled underfoot."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"His friends who sacked the city; His slaves who raped the nuns; His ghouls devoid of pity-- The bloody, lustful Huns, The 'scrap of paper' liars, The burners of Louvain Shall feed hell's hottest fires With Judas and with Cain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Force (someone) to have sex against their will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy and strip of its possession.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Also, in the end she wept, so that I was raped of my vision, and it was Har, naked and clinging, that bestrode the stallion when he vaulted away."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"A girl in her teens was shamelessly raped, whilst an eleven-month-old baby was heartlessly trampled underfoot."*
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"His friends who sacked the city; His slaves who raped the nuns; His ghouls devoid of pity-- The bloody, lustful Huns, The 'scrap of paper' liars, The burners of Louvain Shall feed hell's hottest fires With Judas and with Cain."*

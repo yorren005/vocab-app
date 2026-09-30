@@ -5,13 +5,6 @@ status: unread
 ---
 # prothetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The addition of a sound to the beginning of a word (as in Old French estat—whence English estate—from Latin status).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The addition of a sound to the beginning of a word (as in Old French estat—whence English estate—from Latin status).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prothetic designates the addition of a sound to the beginning of a word (as in old french estat—whence english estate—from latin status)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The addition of a sound to the beginning of a word (as in Old French estat—whence English estate—from Latin status).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The addition of a sound to the beginning of a word (as in Old French estat—whence English estate—from Latin status).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prothetic designates the addition of a sound to the beginning of a word (as in old french estat—whence english estate—from latin status)."*

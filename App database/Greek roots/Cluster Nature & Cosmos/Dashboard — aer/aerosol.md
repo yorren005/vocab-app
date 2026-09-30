@@ -5,13 +5,6 @@ status: unread
 ---
 # aerosol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A suspension of fine solid or liquid particles in gas; also, aerosols plural : the fine particles of an aerosol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance (such as an insecticide or medicine) dispensed from a pressurized container as an aerosol; also : the container for this.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerosol designates a suspension of fine solid or liquid particles in gas; also, aerosols plural : the fine particles of an aerosol."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A suspension of fine solid or liquid particles in gas; also, aerosols plural : the fine particles of an aerosol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance (such as an insecticide or medicine) dispensed from a pressurized container as an aerosol; also : the container for this.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerosol designates a suspension of fine solid or liquid particles in gas; also, aerosols plural : the fine particles of an aerosol."*

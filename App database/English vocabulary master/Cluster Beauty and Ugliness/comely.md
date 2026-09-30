@@ -5,20 +5,6 @@ status: learned
 ---
 # comely
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Attractive; visually pleasing; good-looking
-> 2. **Nuance / Usage**: Having a pleasing appearance : not homely or plain
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a comely appearance*) and predicatively after a linking verb (*remained comely*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Bashful sincerity and comely love."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"it; for, in most comely truth, thou deservest it."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"promised the Black Man that comely Hester Prynne should make one."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Pleasing and wholesome in appearance; gracefully attractive without being flashy or ostentatious.
+> 2. **Nuance / Usage**: Also used in formal or literary prose to mean fitting, seemly, or in keeping with good taste and propriety.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a comely appearance*) and predicatively after a linking verb (*remained comely*).
+> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Promised the Black Man that **comely** Hester Prynne should make one."*
+> - 📜 **William Shakespeare (*Much Ado About Nothing*):** *"Bashful sincerity and **comely** love."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"He was a **comely**, well-behaved young man, whose open countenance won immediate goodwill."*

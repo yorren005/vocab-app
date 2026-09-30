@@ -5,15 +5,6 @@ status: unread
 ---
 # restore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Return to its original or usable and functioning condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Return to life; get or give new life or energy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O heavenly powers, restore him!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sight may distinguish of colours; but suddenly to nominate them all, it is impossible.—My lords, Saint Alban here hath done a miracle; and would ye not think his cunning to be great that could restore this cripple to his legs again?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If then the King your father will restore But that one half which is unsatisfied, We will give up our right in Aquitaine, And hold fair friendship with his majesty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Return to its original or usable and functioning condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Return to life; get or give new life or energy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O heavenly powers, restore him!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sight may distinguish of colours; but suddenly to nominate them all, it is impossible.—My lords, Saint Alban here hath done a miracle; and would ye not think his cunning to be great that could restore this cripple to his legs again?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If then the King your father will restore But that one half which is unsatisfied, We will give up our right in Aquitaine, And hold fair friendship with his majesty."*

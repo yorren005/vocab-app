@@ -5,13 +5,6 @@ status: unread
 ---
 # fingerprinting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The procedure of taking inked impressions of a person's fingerprints for the purpose of identification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take an impression of a person's fingerprints.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingerprinting designates the procedure of taking inked impressions of a person's fingerprints for the purpose of identification."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The procedure of taking inked impressions of a person's fingerprints for the purpose of identification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take an impression of a person's fingerprints.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingerprinting designates the procedure of taking inked impressions of a person's fingerprints for the purpose of identification."*

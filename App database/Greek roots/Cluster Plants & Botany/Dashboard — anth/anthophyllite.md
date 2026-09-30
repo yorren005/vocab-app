@@ -5,13 +5,6 @@ status: unread
 ---
 # anthophyllite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark brown mineral of the amphibole group; magnesium iron silicate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dark brown mineral of the amphibole group; magnesium iron silicate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthophyllite designates a dark brown mineral of the amphibole group; magnesium iron silicate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark brown mineral of the amphibole group; magnesium iron silicate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dark brown mineral of the amphibole group; magnesium iron silicate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthophyllite designates a dark brown mineral of the amphibole group; magnesium iron silicate."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # tangy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tasting sour like a lemon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tasting sour like a lemon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tangy designates tasting sour like a lemon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tasting sour like a lemon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tasting sour like a lemon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tangy designates tasting sour like a lemon."*

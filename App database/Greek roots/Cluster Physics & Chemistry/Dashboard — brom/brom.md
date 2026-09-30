@@ -5,15 +5,6 @@ status: unread
 ---
 # brom
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: bromine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: bromine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Among these the most formidable was a burly, roaring, roistering blade of the name of Abraham--or, according to the Dutch abbreviation, Brom--Van Brunt, the hero of the country round, which rang with his feats of strength and hardihood."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"From his Herculean frame and great powers of limb, he had received the nickname of BROM BONES, by which he was universally known."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"There was something extremely provoking in this obstinately pacific system; it left Brom no alternative but to draw upon the funds of rustic waggery in his disposition and to play off boorish practical jokes upon his rival."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: bromine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: bromine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Among these the most formidable was a burly, roaring, roistering blade of the name of Abraham--or, according to the Dutch abbreviation, Brom--Van Brunt, the hero of the country round, which rang with his feats of strength and hardihood."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"From his Herculean frame and great powers of limb, he had received the nickname of BROM BONES, by which he was universally known."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"There was something extremely provoking in this obstinately pacific system; it left Brom no alternative but to draw upon the funds of rustic waggery in his disposition and to play off boorish practical jokes upon his rival."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # glycerin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sweet syrupy trihydroxy alcohol obtained by saponification of fats and oils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sweet syrupy trihydroxy alcohol obtained by saponification of fats and oils.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Nitro-glycerin, eh?” Buller called after the departing bulk of his friend."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sweet syrupy trihydroxy alcohol obtained by saponification of fats and oils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sweet syrupy trihydroxy alcohol obtained by saponification of fats and oils.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Nitro-glycerin, eh?” Buller called after the departing bulk of his friend."*

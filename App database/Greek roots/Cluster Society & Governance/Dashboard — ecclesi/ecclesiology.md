@@ -5,13 +5,6 @@ status: unread
 ---
 # ecclesiology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of church architecture and adornment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Theological doctrine relating to the church.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecclesiology designates the study of church architecture and adornment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of church architecture and adornment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Theological doctrine relating to the church.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecclesiology designates the study of church architecture and adornment."*

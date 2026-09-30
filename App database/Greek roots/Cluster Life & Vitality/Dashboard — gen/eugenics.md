@@ -5,14 +5,6 @@ status: unread
 ---
 # eugenics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or advocacy of controlled selective breeding of human populations (as by sterilization) to improve the populations' genetic composition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice or advocacy of controlled selective breeding of human populations (as by sterilization) to improve the populations' genetic composition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is the problem of eugenics, the choice and biologic breeding of capable men to be the citizens of the nation, and broadly understood, it includes both the negro and the immigrant problems.] [Footnote 2: See Vol."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"You can understand that; it is a plain proposition in eugenics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or advocacy of controlled selective breeding of human populations (as by sterilization) to improve the populations' genetic composition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice or advocacy of controlled selective breeding of human populations (as by sterilization) to improve the populations' genetic composition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is the problem of eugenics, the choice and biologic breeding of capable men to be the citizens of the nation, and broadly understood, it includes both the negro and the immigrant problems.] [Footnote 2: See Vol."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"You can understand that; it is a plain proposition in eugenics."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # periapsis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) the point in an orbit closest to the body being orbited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astronomy) the point in an orbit closest to the body being orbited.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periapsis designates (astronomy) the point in an orbit closest to the body being orbited."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) the point in an orbit closest to the body being orbited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astronomy) the point in an orbit closest to the body being orbited.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periapsis designates (astronomy) the point in an orbit closest to the body being orbited."*

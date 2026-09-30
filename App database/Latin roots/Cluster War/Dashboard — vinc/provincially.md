@@ -5,13 +5,6 @@ status: unread
 ---
 # provincially
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By the province; through the province.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By the province; through the province.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"The train presently arrived, and Miss Stackpole, promptly descending, proved, as Isabel had promised, quite delicately, even though rather provincially, fair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By the province; through the province.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By the province; through the province.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"The train presently arrived, and Miss Stackpole, promptly descending, proved, as Isabel had promised, quite delicately, even though rather provincially, fair."*

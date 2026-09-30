@@ -5,15 +5,6 @@ status: unread
 ---
 # date
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The brown, oblong edible fruit of a palm (Phoenix dactylifera).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tall palm with pinnate leaves that yields the date.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be thou the tenth Muse, ten times more in worth Than those old nine which rhymers invocate, And he that calls on thee, let him bring forth Eternal numbers to outlive long date."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your date is better in your pie and your porridge than in your cheek."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here comes the almanac of my true date."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The brown, oblong edible fruit of a palm (Phoenix dactylifera).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tall palm with pinnate leaves that yields the date.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be thou the tenth Muse, ten times more in worth Than those old nine which rhymers invocate, And he that calls on thee, let him bring forth Eternal numbers to outlive long date."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your date is better in your pie and your porridge than in your cheek."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here comes the almanac of my true date."*

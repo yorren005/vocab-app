@@ -5,13 +5,6 @@ status: unread
 ---
 # medium-large
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of anything that is large but not the largest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of anything that is large but not the largest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, medium-large designates of anything that is large but not the largest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of anything that is large but not the largest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of anything that is large but not the largest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, medium-large designates of anything that is large but not the largest."*

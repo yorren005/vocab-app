@@ -5,13 +5,6 @@ status: unread
 ---
 # novate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Replace with something new, especially an old obligation by a new one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Replace with something new, especially an old obligation by a new one.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, novate designates replace with something new, especially an old obligation by a new one."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Replace with something new, especially an old obligation by a new one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Replace with something new, especially an old obligation by a new one.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, novate designates replace with something new, especially an old obligation by a new one."*

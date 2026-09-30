@@ -5,13 +5,6 @@ status: unread
 ---
 # demiurge
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A subordinate deity, in some philosophies the creator of the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A subordinate deity, in some philosophies the creator of the universe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Logos, that was before the Day-Star was, has appeared among men as a teacher,--he by whom all things were made. {284} As Demiurge he gave life; as teacher he taught to live well; that, as God, he may lavish upon us life forever."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subordinate deity, in some philosophies the creator of the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A subordinate deity, in some philosophies the creator of the universe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Logos, that was before the Day-Star was, has appeared among men as a teacher,--he by whom all things were made. {284} As Demiurge he gave life; as teacher he taught to live well; that, as God, he may lavish upon us life forever."*

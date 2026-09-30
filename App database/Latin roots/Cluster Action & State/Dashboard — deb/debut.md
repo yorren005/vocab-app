@@ -5,15 +5,6 @@ status: unread
 ---
 # debut
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of beginning something new.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presentation of a debutante in society.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"And when Mary Madeline came home, on the evening of her debut at the seminary, walking between the two young lady boarders, Amy Seaton and Jenny Andrews, Mrs."*
-> - 📜 **Effie Afton (*Eventide*):** *"And the baby became the toast on all sides; as what baby does not, when making its debut among strangers?"*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"It was decidedly on the short side and as “skimpy” as the notable wincey Anne had worn upon the occasion of her debut at Green Gables; but at least it would not be materially injured by down and feathers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of beginning something new.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presentation of a debutante in society.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"And when Mary Madeline came home, on the evening of her debut at the seminary, walking between the two young lady boarders, Amy Seaton and Jenny Andrews, Mrs."*
+> - 📜 **Effie Afton (*Eventide*):** *"And the baby became the toast on all sides; as what baby does not, when making its debut among strangers?"*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"It was decidedly on the short side and as “skimpy” as the notable wincey Anne had worn upon the occasion of her debut at Green Gables; but at least it would not be materially injured by down and feathers."*

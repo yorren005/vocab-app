@@ -5,15 +5,6 @@ status: unread
 ---
 # paste
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dough that contains a considerable proportion of fat and is used for pastry crust or fancy rolls.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A confection made by evaporating fruit with sugar or by flavoring a gelatin, starch, or gum arabic preparation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cry to it, nuncle, as the cockney did to the eels when she put ’em i’ the paste alive; she knapped ’em o’ the coxcombs with a stick and cried ‘Down, wantons, down!’ ’Twas her brother that, in pure kindness to his horse buttered his hay."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our lands, our lives, and all are Bolingbroke’s, And nothing can we call our own but death And that small model of the barren earth Which serves as paste and cover to our bones."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will grind your bones to dust, And with your blood and it I’ll make a paste, And of the paste a coffin I will rear, And make two pasties of your shameful heads, And bid that strumpet, your unhallowed dam, Like to the earth swallow her own increase."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dough that contains a considerable proportion of fat and is used for pastry crust or fancy rolls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A confection made by evaporating fruit with sugar or by flavoring a gelatin, starch, or gum arabic preparation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cry to it, nuncle, as the cockney did to the eels when she put ’em i’ the paste alive; she knapped ’em o’ the coxcombs with a stick and cried ‘Down, wantons, down!’ ’Twas her brother that, in pure kindness to his horse buttered his hay."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our lands, our lives, and all are Bolingbroke’s, And nothing can we call our own but death And that small model of the barren earth Which serves as paste and cover to our bones."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will grind your bones to dust, And with your blood and it I’ll make a paste, And of the paste a coffin I will rear, And make two pasties of your shameful heads, And bid that strumpet, your unhallowed dam, Like to the earth swallow her own increase."*

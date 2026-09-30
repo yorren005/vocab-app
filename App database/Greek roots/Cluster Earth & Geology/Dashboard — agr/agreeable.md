@@ -5,15 +5,6 @@ status: unread
 ---
 # agreeable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming to your own liking or feelings or nature; ; ; - disraeli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In keeping.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is wrong to call Loneli raggedy; few people are as honest and agreeable as Apollonie and her grandchild." Mea was ready with many more complaints, for whenever anything bothered her, she felt the need to tell her mother."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is an air of prescription about him which is always agreeable to Sir Leicester; he receives it as a kind of tribute."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby in an agreeable voice, “to have the pleasure of receiving you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming to your own liking or feelings or nature; ; ; - disraeli.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In keeping.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is wrong to call Loneli raggedy; few people are as honest and agreeable as Apollonie and her grandchild." Mea was ready with many more complaints, for whenever anything bothered her, she felt the need to tell her mother."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There is an air of prescription about him which is always agreeable to Sir Leicester; he receives it as a kind of tribute."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby in an agreeable voice, “to have the pleasure of receiving you."*

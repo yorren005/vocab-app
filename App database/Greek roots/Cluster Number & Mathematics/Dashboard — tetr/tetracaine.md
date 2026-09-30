@@ -5,13 +5,6 @@ status: unread
 ---
 # tetracaine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline compound used in the form of a hydrochloride as a local anesthetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline compound used in the form of a hydrochloride as a local anesthetic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetracaine designates a crystalline compound used in the form of a hydrochloride as a local anesthetic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline compound used in the form of a hydrochloride as a local anesthetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline compound used in the form of a hydrochloride as a local anesthetic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetracaine designates a crystalline compound used in the form of a hydrochloride as a local anesthetic."*

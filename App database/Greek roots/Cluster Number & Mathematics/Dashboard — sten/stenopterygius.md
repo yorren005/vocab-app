@@ -5,13 +5,6 @@ status: unread
 ---
 # stenopterygius
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ichthyosaur of the genus stenopterygius.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ichthyosaur of the genus stenopterygius.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stenopterygius designates an ichthyosaur of the genus stenopterygius."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ichthyosaur of the genus stenopterygius.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ichthyosaur of the genus stenopterygius.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stenopterygius designates an ichthyosaur of the genus stenopterygius."*

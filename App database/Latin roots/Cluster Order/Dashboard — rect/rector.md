@@ -5,15 +5,6 @@ status: unread
 ---
 # rector
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person authorized to conduct religious worship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person authorized to conduct religious worship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her death itself, which could not be her office to say is come, was faithfully confirm’d by the rector of the place."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Rector, on account of her being the widow of a former rector of the parish, and sometimes Mrs."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa, to avoid confusion with the wife of the present rector."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person authorized to conduct religious worship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person authorized to conduct religious worship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her death itself, which could not be her office to say is come, was faithfully confirm’d by the rector of the place."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Rector, on account of her being the widow of a former rector of the parish, and sometimes Mrs."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa, to avoid confusion with the wife of the present rector."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # unspectacular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not spectacular.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not spectacular.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Aside from its effects upon the wage-bargain, unionism finds its greatest justification is in its unspectacular fraternal, mutual-benefit, and educational functions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not spectacular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not spectacular.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Aside from its effects upon the wage-bargain, unionism finds its greatest justification is in its unspectacular fraternal, mutual-benefit, and educational functions."*

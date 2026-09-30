@@ -5,13 +5,6 @@ status: unread
 ---
 # gerund
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A noun formed from a verb (such as the `-ing' form of an english verb when used as a noun).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A noun formed from a verb (such as the `-ing' form of an english verb when used as a noun).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gerund designates a noun formed from a verb (such as the `-ing' form of an english verb when used as a noun)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A noun formed from a verb (such as the `-ing' form of an english verb when used as a noun).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A noun formed from a verb (such as the `-ing' form of an english verb when used as a noun).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gerund designates a noun formed from a verb (such as the `-ing' form of an english verb when used as a noun)."*

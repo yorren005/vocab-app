@@ -5,15 +5,6 @@ status: unread
 ---
 # platte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A river in nebraska that flows eastward to become a tributary of the missouri river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river in nebraska that flows eastward to become a tributary of the missouri river.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"For years this had been their favorite path between Arkansas and the Platte."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The Pawnees live beyond the Platte, and for years have been friendly to the whites, even serving in the wars against the other tribes on several occasions."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Our guide told us that when he first crossed the plains, by the Platte route, his party camped for the night near Monument Rock."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A river in nebraska that flows eastward to become a tributary of the missouri river.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river in nebraska that flows eastward to become a tributary of the missouri river.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"For years this had been their favorite path between Arkansas and the Platte."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The Pawnees live beyond the Platte, and for years have been friendly to the whites, even serving in the wars against the other tribes on several occasions."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Our guide told us that when he first crossed the plains, by the Platte route, his party camped for the night near Monument Rock."*

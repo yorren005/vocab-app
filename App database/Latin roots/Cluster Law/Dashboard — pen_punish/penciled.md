@@ -5,14 +5,6 @@ status: unread
 ---
 # penciled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Write, draw, or trace with a pencil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drawn or written with a pencil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She shall see deeds of honour in their kind, Which sometime show well, penciled."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"There was a penciled memorandum on the envelope in his own handwriting: _Mem._ Might work K."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Write, draw, or trace with a pencil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drawn or written with a pencil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She shall see deeds of honour in their kind, Which sometime show well, penciled."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"There was a penciled memorandum on the envelope in his own handwriting: _Mem._ Might work K."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # postcard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A card for sending messages by post without an envelope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A card for sending messages by post without an envelope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Send her a picture postcard explaining that you forgot all about her until it was too--” The last word was jerked back into his throat by the jump of the Green Imp."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Picture Postcards During a discussion among older adults, one of them said he was having trouble coming up with what to write on a picture postcard that he wanted to mail to his faraway grandchild."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Oh! and thank you so much for the postcard, too."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A card for sending messages by post without an envelope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A card for sending messages by post without an envelope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Send her a picture postcard explaining that you forgot all about her until it was too--” The last word was jerked back into his throat by the jump of the Green Imp."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Picture Postcards During a discussion among older adults, one of them said he was having trouble coming up with what to write on a picture postcard that he wanted to mail to his faraway grandchild."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Oh! and thank you so much for the postcard, too."*

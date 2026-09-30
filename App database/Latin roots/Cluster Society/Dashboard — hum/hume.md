@@ -5,15 +5,6 @@ status: unread
 ---
 # hume
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scottish philosopher whose sceptical philosophy restricted human knowledge to that which can be perceived by the senses (1711-1776).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scottish philosopher whose sceptical philosophy restricted human knowledge to that which can be perceived by the senses (1711-1776).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, by the grace of God, and Hume’s advice, Your grace’s title shall be multiplied."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, Hume, take this reward; make merry, man, With thy confederates in this weighty cause. [_Exit._] HUME."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hume must make merry with the Duchess’ gold."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Scottish philosopher whose sceptical philosophy restricted human knowledge to that which can be perceived by the senses (1711-1776).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scottish philosopher whose sceptical philosophy restricted human knowledge to that which can be perceived by the senses (1711-1776).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, by the grace of God, and Hume’s advice, Your grace’s title shall be multiplied."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, Hume, take this reward; make merry, man, With thy confederates in this weighty cause. [_Exit._] HUME."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hume must make merry with the Duchess’ gold."*

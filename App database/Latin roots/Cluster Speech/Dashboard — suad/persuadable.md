@@ -5,15 +5,6 @@ status: unread
 ---
 # persuadable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being susceptible to persuasion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being susceptible to persuasion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But more persuadable we can, I hope,” said I."*
-> - 📜 **Jane Austen (*Persuasion*):** *"She thought it could scarcely escape him to feel that a persuadable temper might sometimes be as much in favour of happiness as a very resolute character."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It said, “Be weak, be water, be characterless, be cheaply persuadable.” The latter command, to let the fruit alone, was certain to be disobeyed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being susceptible to persuasion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being susceptible to persuasion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But more persuadable we can, I hope,” said I."*
+> - 📜 **Jane Austen (*Persuasion*):** *"She thought it could scarcely escape him to feel that a persuadable temper might sometimes be as much in favour of happiness as a very resolute character."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It said, “Be weak, be water, be characterless, be cheaply persuadable.” The latter command, to let the fruit alone, was certain to be disobeyed."*

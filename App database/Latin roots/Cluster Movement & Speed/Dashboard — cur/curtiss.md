@@ -5,13 +5,6 @@ status: unread
 ---
 # curtiss
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states industrialist and aviation pioneer (1878-1930).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English botanical writer and publisher (1746-1799).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In the United States explosives have been used for years, owing to the exertions of the Du Pont Powder Company, while Messrs Curtiss' and Harvey, and Messrs Nobels, the great explosive manufacturers, are busy introducing them in Great Britain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states industrialist and aviation pioneer (1878-1930).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English botanical writer and publisher (1746-1799).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In the United States explosives have been used for years, owing to the exertions of the Du Pont Powder Company, while Messrs Curtiss' and Harvey, and Messrs Nobels, the great explosive manufacturers, are busy introducing them in Great Britain."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # tractable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily managed (controlled or taught or molded); ; - samuel butler.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Readily reacting to suggestions and influences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt find me tractable to any honest reason."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their curses now Live where their prayers did; and it’s come to pass This tractable obedience is a slave To each incensed will."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But since my master and mistress have bought you, there’s no going but by their consent: therefore I will make them acquainted with your purpose, and I doubt not but I shall find them tractable enough."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily managed (controlled or taught or molded); ; - samuel butler.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Readily reacting to suggestions and influences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt find me tractable to any honest reason."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their curses now Live where their prayers did; and it’s come to pass This tractable obedience is a slave To each incensed will."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But since my master and mistress have bought you, there’s no going but by their consent: therefore I will make them acquainted with your purpose, and I doubt not but I shall find them tractable enough."*

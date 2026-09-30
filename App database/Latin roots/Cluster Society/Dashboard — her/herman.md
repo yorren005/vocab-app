@@ -5,15 +5,6 @@ status: unread
 ---
 # herman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states jazz musician and bandleader (1913-1987).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states jazz musician and bandleader (1913-1987).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Only Herman Tromp escaped in the fog, and was able, long after, to tell me of the adventure."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"BY HERMAN MELVILLE, AUTHOR OF “TYPEE,” “OMOO,” “REDBURN,” “MARDI,” “WHITE-JACKET.” NEW YORK: HARPER & BROTHERS, PUBLISHERS."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Entered, according to Act of Congress, in the year 1851, by HERMAN MELVILLE, in the Clerk’s Office of the District Court for the Southern District of New York."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states jazz musician and bandleader (1913-1987).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states jazz musician and bandleader (1913-1987).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Only Herman Tromp escaped in the fog, and was able, long after, to tell me of the adventure."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"BY HERMAN MELVILLE, AUTHOR OF “TYPEE,” “OMOO,” “REDBURN,” “MARDI,” “WHITE-JACKET.” NEW YORK: HARPER & BROTHERS, PUBLISHERS."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Entered, according to Act of Congress, in the year 1851, by HERMAN MELVILLE, in the Clerk’s Office of the District Court for the Southern District of New York."*

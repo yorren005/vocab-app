@@ -5,15 +5,6 @@ status: unread
 ---
 # conjuring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Calling up a spirit or devil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Summon into action or bring into existence, often as if by magic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here stood he in the dark, his sharp sword out, Mumbling of wicked charms, conjuring the moon To stand auspicious mistress."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ilk ghaist that haunts auld ha’ or chaumer, Ye gipsy-gang that deal in glamour, And you, deep-read in hell’s black grammar, Warlocks and witches, Ye’ll quake at his conjuring hammer, Ye midnight bitches."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He waggled his club over it as if he were going to perform a conjuring trick."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Calling up a spirit or devil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Summon into action or bring into existence, often as if by magic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here stood he in the dark, his sharp sword out, Mumbling of wicked charms, conjuring the moon To stand auspicious mistress."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ilk ghaist that haunts auld ha’ or chaumer, Ye gipsy-gang that deal in glamour, And you, deep-read in hell’s black grammar, Warlocks and witches, Ye’ll quake at his conjuring hammer, Ye midnight bitches."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He waggled his club over it as if he were going to perform a conjuring trick."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # constitutionally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: According to the constitution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According to the constitution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"But realism is required, and Shelley was constitutionally incapable of realism The personages of the story, Laon and the Hermit, the Tyrant and Cythna, are pale projections of Shelley himself; of Dr."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But I had a reason that was an old reason now for constitutionally faltering whenever I heard the word “convict.” “You don’t mind them, Handel?” said Herbert."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"At the end of the passage, while the bell was still reverberating, I found Sarah Pocket, who appeared to have now become constitutionally green and yellow by reason of me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: According to the constitution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According to the constitution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"But realism is required, and Shelley was constitutionally incapable of realism The personages of the story, Laon and the Hermit, the Tyrant and Cythna, are pale projections of Shelley himself; of Dr."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"But I had a reason that was an old reason now for constitutionally faltering whenever I heard the word “convict.” “You don’t mind them, Handel?” said Herbert."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"At the end of the passage, while the bell was still reverberating, I found Sarah Pocket, who appeared to have now become constitutionally green and yellow by reason of me."*

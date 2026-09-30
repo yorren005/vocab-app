@@ -5,15 +5,6 @@ status: unread
 ---
 # ingratiate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gain favor with somebody by deliberate efforts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gain favor with somebody by deliberate efforts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I felt a remarkable repugnance to my godmother, but my worthy aunts insisted so much that I should ingratiate myself with one who had so much to leave that I could not but comply."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The Petersburg Freemasons all came to see him, tried to ingratiate themselves with him, and it seemed to them all that he was preparing something for them and concealing it."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He ingratiates himself with them by telling his history, and by his talk on art, and a most interesting and deeply significant talk it is, the gist of it being well expressed in a passage of Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gain favor with somebody by deliberate efforts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gain favor with somebody by deliberate efforts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I felt a remarkable repugnance to my godmother, but my worthy aunts insisted so much that I should ingratiate myself with one who had so much to leave that I could not but comply."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The Petersburg Freemasons all came to see him, tried to ingratiate themselves with him, and it seemed to them all that he was preparing something for them and concealing it."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He ingratiates himself with them by telling his history, and by his talk on art, and a most interesting and deeply significant talk it is, the gist of it being well expressed in a passage of Mrs."*

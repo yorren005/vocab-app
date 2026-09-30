@@ -5,13 +5,6 @@ status: unread
 ---
 # vertex
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The point of intersection of lines or the point opposite the base of a figure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The highest point (of something).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"STRAW-BRISTLE MOULD; perithecium sub-ovate, base radiato-fibrose, hairs of the vertex very long, interwoven, branched; spores broadly elliptic, apiculate at either end.—On mouldering straw, reeds, matting, &c."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The point of intersection of lines or the point opposite the base of a figure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The highest point (of something).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"STRAW-BRISTLE MOULD; perithecium sub-ovate, base radiato-fibrose, hairs of the vertex very long, interwoven, branched; spores broadly elliptic, apiculate at either end.—On mouldering straw, reeds, matting, &c."*

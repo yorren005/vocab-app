@@ -5,15 +5,6 @@ status: unread
 ---
 # complex
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conceptual whole made up of complicated and related parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound described in terms of the central atom to which other atoms are bound or coordinated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge, using his silver trowel persuasively and smoothingly, “that this has been a great cause, that this has been a protracted cause, that this has been a complex cause."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Almost at a leap Tess thus changed from simple girl to complex woman."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Suspended animation is nothing new, not alone in the vegetable world and in the lower forms of animal life, but in the highly evolved, complex organism of man himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conceptual whole made up of complicated and related parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound described in terms of the central atom to which other atoms are bound or coordinated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge, using his silver trowel persuasively and smoothingly, “that this has been a great cause, that this has been a protracted cause, that this has been a complex cause."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Almost at a leap Tess thus changed from simple girl to complex woman."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Suspended animation is nothing new, not alone in the vegetable world and in the lower forms of animal life, but in the highly evolved, complex organism of man himself."*

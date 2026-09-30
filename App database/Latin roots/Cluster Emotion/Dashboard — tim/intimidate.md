@@ -5,15 +5,6 @@ status: unread
 ---
 # intimidate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make timid or fearful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To compel or deter by or as if by threats.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"But, in such a cause, his anger, though it must shock, could not intimidate Henry, who was sustained in his purpose by a conviction of its justice."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The usage they have in every case received from the natives has been such as to intimidate the boldest of their number."*
-> - 📜 **Effie Afton (*Eventide*):** *"As the fair girl grew older, she resolved the arbitrary woman should not govern or intimidate her, and met all her attempts at petty tyranny with a bold, undaunted spirit, which seemed to increase the woman's hatred."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make timid or fearful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To compel or deter by or as if by threats.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"But, in such a cause, his anger, though it must shock, could not intimidate Henry, who was sustained in his purpose by a conviction of its justice."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The usage they have in every case received from the natives has been such as to intimidate the boldest of their number."*
+> - 📜 **Effie Afton (*Eventide*):** *"As the fair girl grew older, she resolved the arbitrary woman should not govern or intimidate her, and met all her attempts at petty tyranny with a bold, undaunted spirit, which seemed to increase the woman's hatred."*

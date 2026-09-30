@@ -5,15 +5,6 @@ status: unread
 ---
 # disturbed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move deeply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change the arrangement or position of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Goodnight then, Casca: this disturbed sky Is not to walk in."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give us the proudest prisoner of the Goths, That we may hew his limbs, and on a pile _Ad manes fratrum_ sacrifice his flesh Before this earthy prison of their bones, That so the shadows be not unappeased, Nor we disturbed with prodigies on earth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What terror ’tis! but she, in worser taking, From sleep disturbed, heedfully doth view The sight which makes supposed terror true."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move deeply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change the arrangement or position of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Goodnight then, Casca: this disturbed sky Is not to walk in."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give us the proudest prisoner of the Goths, That we may hew his limbs, and on a pile _Ad manes fratrum_ sacrifice his flesh Before this earthy prison of their bones, That so the shadows be not unappeased, Nor we disturbed with prodigies on earth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What terror ’tis! but she, in worser taking, From sleep disturbed, heedfully doth view The sight which makes supposed terror true."*

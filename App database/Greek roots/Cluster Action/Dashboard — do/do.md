@@ -5,15 +5,6 @@ status: unread
 ---
 # do
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform, execute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform, execute.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"Then another month to convert to something we could massage with our favorite 486 in DOS."*
-> - 📜 **James Joyce (*Ulysses*):** *"Dos à dos!_ _(Arabesquing wearily they weave a pattern on the floor, weaving, unweaving, curtseying, twirling, simply swirling.)_ ZOE: I’m giddy! _(She frees herself, droops on a chair."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"My goodness," said Aunt Rebecca, "since them automobiles is so common abody don't get many how-de-dos no more as you travel along the country roads."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform, execute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform, execute.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"Then another month to convert to something we could massage with our favorite 486 in DOS."*
+> - 📜 **James Joyce (*Ulysses*):** *"Dos à dos!_ _(Arabesquing wearily they weave a pattern on the floor, weaving, unweaving, curtseying, twirling, simply swirling.)_ ZOE: I’m giddy! _(She frees herself, droops on a chair."*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"My goodness," said Aunt Rebecca, "since them automobiles is so common abody don't get many how-de-dos no more as you travel along the country roads."*

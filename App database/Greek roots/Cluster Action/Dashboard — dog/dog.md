@@ -5,15 +5,6 @@ status: unread
 ---
 # dog
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A carnivorous mammal (Canis familiaris) closely related to the gray wolf that has long been domesticated as a pet, occurs in a variety of sizes, colors, and coat types, and is sometimes trained to perform special tasks (such as herding, guarding, or acting as a service animal).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a family (Canidae) of carnivorous mammals that includes the wolves, jackals, foxes, coyotes, and the domestic dog : canid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"France is a dog-hole, and it no more merits The tread of a man’s foot: to the wars!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His taken labours bid him me forgive; I, his despiteful Juno, sent him forth From courtly friends, with camping foes to live, Where death and danger dog the heels of worth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All’s but naught; Patience is sottish, and impatience does Become a dog that’s mad."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A carnivorous mammal (Canis familiaris) closely related to the gray wolf that has long been domesticated as a pet, occurs in a variety of sizes, colors, and coat types, and is sometimes trained to perform special tasks (such as herding, guarding, or acting as a service animal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a family (Canidae) of carnivorous mammals that includes the wolves, jackals, foxes, coyotes, and the domestic dog : canid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"France is a dog-hole, and it no more merits The tread of a man’s foot: to the wars!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His taken labours bid him me forgive; I, his despiteful Juno, sent him forth From courtly friends, with camping foes to live, Where death and danger dog the heels of worth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All’s but naught; Patience is sottish, and impatience does Become a dog that’s mad."*

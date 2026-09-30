@@ -5,13 +5,6 @@ status: unread
 ---
 # indistinguishability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exact sameness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exact sameness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indistinguishability designates exact sameness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exact sameness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exact sameness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indistinguishability designates exact sameness."*

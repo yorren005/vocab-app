@@ -5,13 +5,6 @@ status: unread
 ---
 # odontophorus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of central and south american crested partridges resembling quails; sometimes placed in a distinct subfamily or isolated in a distinct family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of central and south american crested partridges resembling quails; sometimes placed in a distinct subfamily or isolated in a distinct family.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, odontophorus designates genus of central and south american crested partridges resembling quails; sometimes placed in a distinct subfamily or isolated in a distinct family."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of central and south american crested partridges resembling quails; sometimes placed in a distinct subfamily or isolated in a distinct family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of central and south american crested partridges resembling quails; sometimes placed in a distinct subfamily or isolated in a distinct family.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, odontophorus designates genus of central and south american crested partridges resembling quails; sometimes placed in a distinct subfamily or isolated in a distinct family."*

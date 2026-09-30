@@ -5,15 +5,6 @@ status: unread
 ---
 # despotism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oppressive absolute power and authority exerted by government : rule by a despot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oppressive or despotic exercise of power.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Taxation that, in its principle, is variable, shifting, or dependent on personal whim and favoritism, is despotism."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A busybody despotism may protect the fool, but it thereby helps to perpetuate and multiply his folly; yet if the fool is left alone, he too often is a plague to the wise and the virtuous. § 7. #City growth and the housing problem#."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The veil fell from his hardness and despotism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Oppressive absolute power and authority exerted by government : rule by a despot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oppressive or despotic exercise of power.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Taxation that, in its principle, is variable, shifting, or dependent on personal whim and favoritism, is despotism."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A busybody despotism may protect the fool, but it thereby helps to perpetuate and multiply his folly; yet if the fool is left alone, he too often is a plague to the wise and the virtuous. § 7. #City growth and the housing problem#."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The veil fell from his hardness and despotism."*

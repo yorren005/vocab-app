@@ -5,15 +5,6 @@ status: unread
 ---
 # camera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipment for taking photographs (usually consisting of a lightproof box with a lens at one end and light-sensitive film at the other).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Television equipment consisting of a lens system that focuses an image on a photosensitive mosaic that is scanned by an electron beam.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Snapping away with a camera when he ought to be improving his mind, and then diving down into the cellar like a rabbit into its hole to develop his pictures."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He also ordered an enlarging camera, a Kodak, and a magic lantern."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"A clockwork man, which is broken, and you can have it back, or a tandem bicycle, an enlarging camera, a Kodak, and a magic lantern?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipment for taking photographs (usually consisting of a lightproof box with a lens at one end and light-sensitive film at the other).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Television equipment consisting of a lens system that focuses an image on a photosensitive mosaic that is scanned by an electron beam.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Snapping away with a camera when he ought to be improving his mind, and then diving down into the cellar like a rabbit into its hole to develop his pictures."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He also ordered an enlarging camera, a Kodak, and a magic lantern."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"A clockwork man, which is broken, and you can have it back, or a tandem bicycle, an enlarging camera, a Kodak, and a magic lantern?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # montagu
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states anthropologist (born in england) who popularized anthropology (1905-).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states anthropologist (born in england) who popularized anthropology (1905-).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"Basil Montagu; and here he composed many of his smaller pieces."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CAPULET, head of a Veronese family at feud with the Montagues."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Draw thy tool; here comes of the house of Montagues."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states anthropologist (born in england) who popularized anthropology (1905-).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states anthropologist (born in england) who popularized anthropology (1905-).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"Basil Montagu; and here he composed many of his smaller pieces."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CAPULET, head of a Veronese family at feud with the Montagues."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Draw thy tool; here comes of the house of Montagues."*

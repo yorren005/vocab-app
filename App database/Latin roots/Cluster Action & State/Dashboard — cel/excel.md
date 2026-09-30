@@ -5,15 +5,6 @@ status: unread
 ---
 # excel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinguish oneself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinguish oneself.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her father is no better than an earl, Although in glorious titles he excel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do excel thee in my rapier as much as thou didst me in carrying gates."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O queen of queens, how far dost thou excel No thought can think, nor tongue of mortal tell._ How shall she know my griefs?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinguish oneself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinguish oneself.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her father is no better than an earl, Although in glorious titles he excel."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do excel thee in my rapier as much as thou didst me in carrying gates."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O queen of queens, how far dost thou excel No thought can think, nor tongue of mortal tell._ How shall she know my griefs?"*

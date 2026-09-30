@@ -5,15 +5,6 @@ status: unread
 ---
 # ravine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep narrow steep-sided valley (especially one formed by running water).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deep narrow steep-sided valley (especially one formed by running water).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"If he had not held the reins tightly, your wild cries would have driven horses and carriage down the ravine long ago." All arms suddenly dropped and all eyes were directed towards the figure on the coachman's seat."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I could hear the river flowing swiftly below the wall, but I could not see it, except as something dark, a ravine of gloom below, and beyond the walls I did not venture to look."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The stone is pointed out to this day, balanced on the hillside of the ravine formed by the stream, and is one of the objects for the Hawaiian sightseer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep narrow steep-sided valley (especially one formed by running water).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deep narrow steep-sided valley (especially one formed by running water).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"If he had not held the reins tightly, your wild cries would have driven horses and carriage down the ravine long ago." All arms suddenly dropped and all eyes were directed towards the figure on the coachman's seat."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I could hear the river flowing swiftly below the wall, but I could not see it, except as something dark, a ravine of gloom below, and beyond the walls I did not venture to look."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The stone is pointed out to this day, balanced on the hillside of the ravine formed by the stream, and is one of the objects for the Hawaiian sightseer."*

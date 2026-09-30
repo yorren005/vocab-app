@@ -5,13 +5,6 @@ status: unread
 ---
 # surpriser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A captor who uses surprise to capture the victim.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A captor who uses surprise to capture the victim.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surpriser designates a captor who uses surprise to capture the victim."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A captor who uses surprise to capture the victim.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A captor who uses surprise to capture the victim.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surpriser designates a captor who uses surprise to capture the victim."*

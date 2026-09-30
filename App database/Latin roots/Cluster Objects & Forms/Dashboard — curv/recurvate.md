@@ -5,13 +5,6 @@ status: unread
 ---
 # recurvate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved backward or inward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curved backward or inward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recurvate designates curved backward or inward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved backward or inward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curved backward or inward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recurvate designates curved backward or inward."*

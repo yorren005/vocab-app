@@ -5,13 +5,6 @@ status: unread
 ---
 # archegonium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A female sex organ occurring in mosses, ferns, and most gymnosperms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female sex organ occurring in mosses, ferns, and most gymnosperms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archegonium designates a female sex organ occurring in mosses, ferns, and most gymnosperms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female sex organ occurring in mosses, ferns, and most gymnosperms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female sex organ occurring in mosses, ferns, and most gymnosperms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archegonium designates a female sex organ occurring in mosses, ferns, and most gymnosperms."*

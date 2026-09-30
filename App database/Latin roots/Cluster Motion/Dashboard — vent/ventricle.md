@@ -5,13 +5,6 @@ status: unread
 ---
 # ventricle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of four connected cavities in the brain; is continuous with the central canal of the spinal cord and contains cerebrospinal fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chamber of the heart that receives blood from an atrium and pumps it to the arteries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These are begot in the ventricle of memory, nourished in the womb of _pia mater_, and delivered upon the mellowing of occasion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of four connected cavities in the brain; is continuous with the central canal of the spinal cord and contains cerebrospinal fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chamber of the heart that receives blood from an atrium and pumps it to the arteries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These are begot in the ventricle of memory, nourished in the womb of _pia mater_, and delivered upon the mellowing of occasion."*

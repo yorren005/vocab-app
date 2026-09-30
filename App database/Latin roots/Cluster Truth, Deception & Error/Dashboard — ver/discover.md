@@ -5,15 +5,6 @@ status: unread
 ---
 # discover
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover or determine the existence, presence, or fact of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get to know or become aware of, usually accidentally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If there be here German, or Dane, Low Dutch, Italian, or French, let him speak to me, I’ll discover that which shall undo the Florentine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But this it is: our foot Upon the hills adjoining to the city Shall stay with us—order for sea is given; They have put forth the haven— Where their appointment we may best discover And look on their endeavour. [_Exeunt._] SCENE XI."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where yond pine does stand I shall discover all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover or determine the existence, presence, or fact of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get to know or become aware of, usually accidentally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If there be here German, or Dane, Low Dutch, Italian, or French, let him speak to me, I’ll discover that which shall undo the Florentine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But this it is: our foot Upon the hills adjoining to the city Shall stay with us—order for sea is given; They have put forth the haven— Where their appointment we may best discover And look on their endeavour. [_Exeunt._] SCENE XI."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where yond pine does stand I shall discover all."*

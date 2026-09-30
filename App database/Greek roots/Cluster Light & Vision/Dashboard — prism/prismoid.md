@@ -5,13 +5,6 @@ status: unread
 ---
 # prismoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prismatoid whose bases are polygons having the same number of sides and whose other faces are trapezoids or parallelograms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prismatoid whose bases are polygons having the same number of sides and whose other faces are trapezoids or parallelograms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prismoid designates a prismatoid whose bases are polygons having the same number of sides and whose other faces are trapezoids or parallelograms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prismatoid whose bases are polygons having the same number of sides and whose other faces are trapezoids or parallelograms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prismatoid whose bases are polygons having the same number of sides and whose other faces are trapezoids or parallelograms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prismoid designates a prismatoid whose bases are polygons having the same number of sides and whose other faces are trapezoids or parallelograms."*

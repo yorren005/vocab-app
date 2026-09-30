@@ -5,15 +5,6 @@ status: unread
 ---
 # marconi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian electrical engineer who invented wireless telegraphy and in 1901 transmitted radio signals across the atlantic ocean (1874-1937).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian electrical engineer who invented wireless telegraphy and in 1901 transmitted radio signals across the atlantic ocean (1874-1937).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"When wireless telegraphy reached the point at which the public became interested, Marconi was just coming to the front and so, for ever, will his name be foremost in the public estimation."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Now Marconi has done exceedingly valuable work in this field."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"A very great step was taken when Marconi dispensed with one of the plates of Hertz, and used the earth instead; while the other plate gave place to the elevated wires, the most familiar part of the apparatus to most people."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian electrical engineer who invented wireless telegraphy and in 1901 transmitted radio signals across the atlantic ocean (1874-1937).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian electrical engineer who invented wireless telegraphy and in 1901 transmitted radio signals across the atlantic ocean (1874-1937).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"When wireless telegraphy reached the point at which the public became interested, Marconi was just coming to the front and so, for ever, will his name be foremost in the public estimation."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Now Marconi has done exceedingly valuable work in this field."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"A very great step was taken when Marconi dispensed with one of the plates of Hertz, and used the earth instead; while the other plate gave place to the elevated wires, the most familiar part of the apparatus to most people."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # xylocaine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A local anesthetic (trade names lidocaine and xylocaine) used topically on the skin and mucous membranes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A local anesthetic (trade names lidocaine and xylocaine) used topically on the skin and mucous membranes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylocaine designates a local anesthetic (trade names lidocaine and xylocaine) used topically on the skin and mucous membranes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A local anesthetic (trade names lidocaine and xylocaine) used topically on the skin and mucous membranes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A local anesthetic (trade names lidocaine and xylocaine) used topically on the skin and mucous membranes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylocaine designates a local anesthetic (trade names lidocaine and xylocaine) used topically on the skin and mucous membranes."*

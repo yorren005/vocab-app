@@ -5,14 +5,6 @@ status: unread
 ---
 # umbrageous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled with shade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Angered at something unjust or wrong.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Young fir-trees are raised at the doorway and elsewhere about the homestead; and very often small umbrageous arbours are constructed in the garden."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Thomas[292] has described them, in the umbrageous and many-coloured foliage that enriches the scene, and in which the melancholy yew-tree is conspicuous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled with shade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Angered at something unjust or wrong.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Young fir-trees are raised at the doorway and elsewhere about the homestead; and very often small umbrageous arbours are constructed in the garden."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Thomas[292] has described them, in the umbrageous and many-coloured foliage that enriches the scene, and in which the melancholy yew-tree is conspicuous."*

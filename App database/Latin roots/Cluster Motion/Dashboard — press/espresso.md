@@ -5,13 +5,6 @@ status: unread
 ---
 # espresso
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong black coffee brewed by forcing hot water under pressure through finely ground coffee beans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strong black coffee brewed by forcing hot water under pressure through finely ground coffee beans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, espresso designates strong black coffee brewed by forcing hot water under pressure through finely ground coffee beans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong black coffee brewed by forcing hot water under pressure through finely ground coffee beans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strong black coffee brewed by forcing hot water under pressure through finely ground coffee beans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, espresso designates strong black coffee brewed by forcing hot water under pressure through finely ground coffee beans."*

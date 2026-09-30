@@ -5,15 +5,6 @@ status: unread
 ---
 # vindictively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vindictive, revengeful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a vindictive, revengeful manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"He did this because there is a saying in the Neverland that, every time you breathe, a grown-up dies; and Peter was killing them off vindictively as fast as possible."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I can’t bear it!” Natásha cried, and her eyes glittered coldly and vindictively."*
-> - 📜 **James Joyce (*Ulysses*):** *"MRS BELLINGHAM: _(Shakes her muff and quizzing-glasses vindictively.)_ Make him smart, Hanna dear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vindictive, revengeful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a vindictive, revengeful manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"He did this because there is a saying in the Neverland that, every time you breathe, a grown-up dies; and Peter was killing them off vindictively as fast as possible."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I can’t bear it!” Natásha cried, and her eyes glittered coldly and vindictively."*
+> - 📜 **James Joyce (*Ulysses*):** *"MRS BELLINGHAM: _(Shakes her muff and quizzing-glasses vindictively.)_ Make him smart, Hanna dear."*

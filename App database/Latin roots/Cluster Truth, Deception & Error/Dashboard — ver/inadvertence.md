@@ -5,15 +5,6 @@ status: unread
 ---
 # inadvertence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unintentional omission resulting from failure to notice something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of forgetting or ignoring your responsibilities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Whatever her sins, they were not sins of intention, but of inadvertence, and why should she have been punished so persistently?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"A single episode or phrase may suffer change from a copyist's hand, from inadvertence or from theological predilection."*
-> - 📜 **James Joyce (*Ulysses*):** *"Once by inadvertence twice by design he challenges his destiny."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unintentional omission resulting from failure to notice something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of forgetting or ignoring your responsibilities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Whatever her sins, they were not sins of intention, but of inadvertence, and why should she have been punished so persistently?"*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"A single episode or phrase may suffer change from a copyist's hand, from inadvertence or from theological predilection."*
+> - 📜 **James Joyce (*Ulysses*):** *"Once by inadvertence twice by design he challenges his destiny."*

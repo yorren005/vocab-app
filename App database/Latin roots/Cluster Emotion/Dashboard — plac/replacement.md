@@ -5,15 +5,6 @@ status: unread
 ---
 # replacement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of furnishing an equivalent person or thing in the place of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who takes the place of another person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"We explored packaging, marketing and replacement factors."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"This general depreciation appears to be nearly avoided in large factories where there is serial replacement of the parts, but occasionally some invention or some improvement of process necessitates an almost completely new equipment."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Expensive improvements on railroads, the straightening of curves, the tunneling of mountains, the reducing of grades, the replacement of lighter by heavier rails, have been made possible by a fall in the rate of interest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of furnishing an equivalent person or thing in the place of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who takes the place of another person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"We explored packaging, marketing and replacement factors."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"This general depreciation appears to be nearly avoided in large factories where there is serial replacement of the parts, but occasionally some invention or some improvement of process necessitates an almost completely new equipment."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Expensive improvements on railroads, the straightening of curves, the tunneling of mountains, the reducing of grades, the replacement of lighter by heavier rails, have been made possible by a fall in the rate of interest."*

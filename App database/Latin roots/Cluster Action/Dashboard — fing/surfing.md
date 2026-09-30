@@ -5,13 +5,6 @@ status: unread
 ---
 # surfing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sport of riding a surfboard toward the shore on the crest of a wave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ride the waves of the sea with a surfboard.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surfing designates the sport of riding a surfboard toward the shore on the crest of a wave."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sport of riding a surfboard toward the shore on the crest of a wave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ride the waves of the sea with a surfboard.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surfing designates the sport of riding a surfboard toward the shore on the crest of a wave."*

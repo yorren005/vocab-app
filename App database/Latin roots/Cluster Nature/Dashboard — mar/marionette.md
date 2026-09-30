@@ -5,15 +5,6 @@ status: unread
 ---
 # marionette
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small figure of a person operated from above with strings by a puppeteer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small figure of a person operated from above with strings by a puppeteer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Now that Kathleen is married, she naturally takes with her her own fortune." She looked at me expectantly, and I smiled, another stiff, marionette smile--and said:-- "How true!"*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"They moved like monstrous marionettes and made gestures like live things."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Delphine, would you like to have a run in the car for a couple of hours or so before dinner?" We jumped on our chairs, Delphine and I, automatically, like marionettes, the one from pleasure, the other from surprise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small figure of a person operated from above with strings by a puppeteer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small figure of a person operated from above with strings by a puppeteer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Now that Kathleen is married, she naturally takes with her her own fortune." She looked at me expectantly, and I smiled, another stiff, marionette smile--and said:-- "How true!"*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"They moved like monstrous marionettes and made gestures like live things."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Delphine, would you like to have a run in the car for a couple of hours or so before dinner?" We jumped on our chairs, Delphine and I, automatically, like marionettes, the one from pleasure, the other from surprise."*

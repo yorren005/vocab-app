@@ -5,13 +5,6 @@ status: unread
 ---
 # sennacherib
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: King of assyria who invaded judea twice and defeated babylon and rebuilt nineveh after it had been destroyed by babylonians (died in 681 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King of assyria who invaded judea twice and defeated babylon and rebuilt nineveh after it had been destroyed by babylonians (died in 681 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Here Sennacherib sailed in the great galleys the brown Sidonian shipwrights had made for him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: King of assyria who invaded judea twice and defeated babylon and rebuilt nineveh after it had been destroyed by babylonians (died in 681 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King of assyria who invaded judea twice and defeated babylon and rebuilt nineveh after it had been destroyed by babylonians (died in 681 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Here Sennacherib sailed in the great galleys the brown Sidonian shipwrights had made for him."*

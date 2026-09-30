@@ -5,15 +5,6 @@ status: unread
 ---
 # comical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arousing or provoking laughter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arousing or provoking laughter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best actors in the world, either for tragedy, comedy, history, pastoral, pastoral-comical, historical-pastoral, tragical-historical, tragical-comical-historical-pastoral, scene individable, or poem unlimited."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Just look at the progress I am making." With comical seriousness the Baron pointed to the empty cup and the sole remaining roll."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The idea of her learning housekeeping of a person of my vast experience was such a joke that I laughed, and coloured up, and fell into a comical confusion when she proposed it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arousing or provoking laughter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arousing or provoking laughter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best actors in the world, either for tragedy, comedy, history, pastoral, pastoral-comical, historical-pastoral, tragical-historical, tragical-comical-historical-pastoral, scene individable, or poem unlimited."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Just look at the progress I am making." With comical seriousness the Baron pointed to the empty cup and the sole remaining roll."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The idea of her learning housekeeping of a person of my vast experience was such a joke that I laughed, and coloured up, and fell into a comical confusion when she proposed it."*

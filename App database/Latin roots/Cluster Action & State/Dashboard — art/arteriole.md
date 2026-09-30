@@ -5,13 +5,6 @@ status: unread
 ---
 # arteriole
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the small thin-walled arteries that end in capillaries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the small thin-walled arteries that end in capillaries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arteriole designates one of the small thin-walled arteries that end in capillaries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the small thin-walled arteries that end in capillaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the small thin-walled arteries that end in capillaries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arteriole designates one of the small thin-walled arteries that end in capillaries."*

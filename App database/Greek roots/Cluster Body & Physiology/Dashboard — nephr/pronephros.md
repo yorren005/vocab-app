@@ -5,13 +5,6 @@ status: unread
 ---
 # pronephros
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either member of the first and most cranial pair of the three successive paired vertebrate renal organs that functions in the adults of amphioxus and some lampreys, functions temporarily in larval fishes and amphibians, and is present but nonfunctional in embryos of reptiles, birds, and mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either member of the first and most cranial pair of the three successive paired vertebrate renal organs that functions in the adults of amphioxus and some lampreys, functions temporarily in larval fishes and amphibians, and is present but nonfunctional in embryos of reptiles, birds, and mammals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pronephros designates either member of the first and most cranial pair of the three successive paired vertebrate renal organs that functions in the adults of amphioxus and some lampreys, functions temporarily in larval fishes and amphibians, and is present but nonfunctional in embryos of reptiles, birds, and mammals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either member of the first and most cranial pair of the three successive paired vertebrate renal organs that functions in the adults of amphioxus and some lampreys, functions temporarily in larval fishes and amphibians, and is present but nonfunctional in embryos of reptiles, birds, and mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either member of the first and most cranial pair of the three successive paired vertebrate renal organs that functions in the adults of amphioxus and some lampreys, functions temporarily in larval fishes and amphibians, and is present but nonfunctional in embryos of reptiles, birds, and mammals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pronephros designates either member of the first and most cranial pair of the three successive paired vertebrate renal organs that functions in the adults of amphioxus and some lampreys, functions temporarily in larval fishes and amphibians, and is present but nonfunctional in embryos of reptiles, birds, and mammals."*

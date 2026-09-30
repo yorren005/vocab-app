@@ -5,15 +5,6 @@ status: unread
 ---
 # epicure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person devoted to refined sensuous enjoyment (especially good food and drink).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person devoted to refined sensuous enjoyment (especially good food and drink).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With the health that Pompey gives him, else he is a very epicure."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Our alderman was _ex-officio_ the epicure of the party, half of his duties as a New York city father having been to study carefully all known flavors."*
-> - 📜 **James Joyce (*Ulysses*):** *"Well preserved fat corpse, gentleman, epicure, invaluable for fruit garden."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person devoted to refined sensuous enjoyment (especially good food and drink).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person devoted to refined sensuous enjoyment (especially good food and drink).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With the health that Pompey gives him, else he is a very epicure."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Our alderman was _ex-officio_ the epicure of the party, half of his duties as a New York city father having been to study carefully all known flavors."*
+> - 📜 **James Joyce (*Ulysses*):** *"Well preserved fat corpse, gentleman, epicure, invaluable for fruit garden."*

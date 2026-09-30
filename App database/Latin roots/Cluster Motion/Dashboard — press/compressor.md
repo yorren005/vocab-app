@@ -5,15 +5,6 @@ status: unread
 ---
 # compressor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device that compresses gasses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical device that compresses gasses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"First of all a pump or compressor compresses it."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In the centre is the compressor."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Carbonic acid gas liquefies at a very moderate temperature and pressure, and so while it leaves the compressor as a gas it becomes liquid in the condenser and remains so until it has passed the regulating valve."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device that compresses gasses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical device that compresses gasses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"First of all a pump or compressor compresses it."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In the centre is the compressor."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Carbonic acid gas liquefies at a very moderate temperature and pressure, and so while it leaves the compressor as a gas it becomes liquid in the condenser and remains so until it has passed the regulating valve."*

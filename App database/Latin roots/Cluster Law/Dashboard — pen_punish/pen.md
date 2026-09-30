@@ -5,15 +5,6 @@ status: unread
 ---
 # pen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A writing implement with a point from which ink flows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enclosure for confining livestock.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These offices, so oft as thou wilt look, Shall profit thee, and much enrich thy book. 78 So oft have I invoked thee for my muse, And found such fair assistance in my verse, As every alien pen hath got my use, And under thee their poesy disperse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lean penury within that pen doth dwell, That to his subject lends not some small glory, But he that writes of you, if he can tell, That you are you, so dignifies his story."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think good thoughts, whilst other write good words, And like unlettered clerk still cry Amen, To every hymn that able spirit affords, In polished form of well refined pen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A writing implement with a point from which ink flows.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enclosure for confining livestock.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These offices, so oft as thou wilt look, Shall profit thee, and much enrich thy book. 78 So oft have I invoked thee for my muse, And found such fair assistance in my verse, As every alien pen hath got my use, And under thee their poesy disperse."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lean penury within that pen doth dwell, That to his subject lends not some small glory, But he that writes of you, if he can tell, That you are you, so dignifies his story."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think good thoughts, whilst other write good words, And like unlettered clerk still cry Amen, To every hymn that able spirit affords, In polished form of well refined pen."*

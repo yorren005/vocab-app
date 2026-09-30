@@ -5,13 +5,6 @@ status: unread
 ---
 # clavus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard thickening of the skin (especially on the top or sides of the toes) caused by the pressure of ill-fitting shoes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard thickening of the skin (especially on the top or sides of the toes) caused by the pressure of ill-fitting shoes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Valentin._ 5. [85] _de cor. mil._ 13, _clavus latus in cruce ipsius_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard thickening of the skin (especially on the top or sides of the toes) caused by the pressure of ill-fitting shoes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard thickening of the skin (especially on the top or sides of the toes) caused by the pressure of ill-fitting shoes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Valentin._ 5. [85] _de cor. mil._ 13, _clavus latus in cruce ipsius_."*

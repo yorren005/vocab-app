@@ -5,15 +5,6 @@ status: unread
 ---
 # narcotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (such as opium or morphine) that in moderate doses dulls the senses, relieves pain, and induces profound sleep but in excessive doses causes stupor, coma, or convulsions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (such as marijuana or LSD) subject to restriction similar to that of addictive narcotics whether physiologically addictive and narcotic or not.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Every one seemed to be under the influence of some narcotic."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Knowing its narcotic nature, he refused; but Jimmy said he would have something mixed with it, which would convert it into an innocent beverage that would inspirit them for the rest of their journey."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"A steady droning sound of many men chanting each to himself some weird incantation came out from the black, flat wall of the woods as the humming of bees comes out of a hive, and had a strange narcotic effect upon my half-awake senses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (such as opium or morphine) that in moderate doses dulls the senses, relieves pain, and induces profound sleep but in excessive doses causes stupor, coma, or convulsions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (such as marijuana or LSD) subject to restriction similar to that of addictive narcotics whether physiologically addictive and narcotic or not.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Every one seemed to be under the influence of some narcotic."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Knowing its narcotic nature, he refused; but Jimmy said he would have something mixed with it, which would convert it into an innocent beverage that would inspirit them for the rest of their journey."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"A steady droning sound of many men chanting each to himself some weird incantation came out from the black, flat wall of the woods as the humming of bees comes out of a hive, and had a strange narcotic effect upon my half-awake senses."*

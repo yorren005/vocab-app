@@ -5,15 +5,6 @@ status: unread
 ---
 # portentously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a portentous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a portentous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"But by-and-by Nancy, in her attic, became portentously worse, the supposed tumor having indeed given way to the blister, but only wandered to another region with angrier pain."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"I preternaturally listened; I figured to myself what might portentously be; I wondered if his bed were also empty and he too were secretly at watch."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The hall was portentously dark, and Ben pulled him straight across it to the door marked "Fire Exit." "Elevator?" queried Murray."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a portentous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a portentous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"But by-and-by Nancy, in her attic, became portentously worse, the supposed tumor having indeed given way to the blister, but only wandered to another region with angrier pain."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"I preternaturally listened; I figured to myself what might portentously be; I wondered if his bed were also empty and he too were secretly at watch."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The hall was portentously dark, and Ben pulled him straight across it to the door marked "Fire Exit." "Elevator?" queried Murray."*

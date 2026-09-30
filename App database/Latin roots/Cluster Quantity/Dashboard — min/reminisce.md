@@ -5,13 +5,6 @@ status: unread
 ---
 # reminisce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recall the past.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recall the past.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Minchley, I want--" [_Left reminiscing._ THE BRIDE (_as the page boy's gloomy eye catches hers, "smiles as she was wont to smile_")."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Recall the past.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recall the past.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Minchley, I want--" [_Left reminiscing._ THE BRIDE (_as the page boy's gloomy eye catches hers, "smiles as she was wont to smile_")."*

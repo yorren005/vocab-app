@@ -5,15 +5,6 @@ status: unread
 ---
 # dublin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capital and largest city and major port of the irish republic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capital and largest city and major port of the irish republic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But this that I am gaun to tell, Which lately on a night befell, Is just as true’s the Deil’s in hell Or Dublin city: That e’er he nearer comes oursel’ ’S a muckle pity."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Edinburgh, York, Keswick, Dublin, Nantgwillt, Lynmouth, Tremadoc, Tanyrallt, Killarney, London (Half Moon Street and Pimlico), Bracknell, Edinburgh again, and Windsor, successively received this fantastic household."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He then introduced me to the elderly Irishman, who was, it seemed, a professor--of what I do not know--at Dublin University."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capital and largest city and major port of the irish republic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capital and largest city and major port of the irish republic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But this that I am gaun to tell, Which lately on a night befell, Is just as true’s the Deil’s in hell Or Dublin city: That e’er he nearer comes oursel’ ’S a muckle pity."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Edinburgh, York, Keswick, Dublin, Nantgwillt, Lynmouth, Tremadoc, Tanyrallt, Killarney, London (Half Moon Street and Pimlico), Bracknell, Edinburgh again, and Windsor, successively received this fantastic household."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He then introduced me to the elderly Irishman, who was, it seemed, a professor--of what I do not know--at Dublin University."*

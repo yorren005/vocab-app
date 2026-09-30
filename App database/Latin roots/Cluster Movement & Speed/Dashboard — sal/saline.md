@@ -5,15 +5,6 @@ status: unread
 ---
 # saline
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An isotonic solution of sodium chloride and distilled water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing salt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His were the shinbones of the saline beef; his would have been the drumsticks."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In fact, I was already obliged to increase my respirations to eke out of this cell the little oxygen it contained, when suddenly I was refreshed by a current of pure air, and perfumed with saline emanations."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"His were the shinbones of the saline beef; his would have been the drumsticks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An isotonic solution of sodium chloride and distilled water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing salt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His were the shinbones of the saline beef; his would have been the drumsticks."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In fact, I was already obliged to increase my respirations to eke out of this cell the little oxygen it contained, when suddenly I was refreshed by a current of pure air, and perfumed with saline emanations."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"His were the shinbones of the saline beef; his would have been the drumsticks."*

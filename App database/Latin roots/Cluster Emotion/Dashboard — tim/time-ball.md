@@ -5,13 +5,6 @@ status: unread
 ---
 # time-ball
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ball that slides down a staff to show a fixed time; especially at an observatory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ball that slides down a staff to show a fixed time; especially at an observatory.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, time-ball designates a ball that slides down a staff to show a fixed time; especially at an observatory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ball that slides down a staff to show a fixed time; especially at an observatory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ball that slides down a staff to show a fixed time; especially at an observatory.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, time-ball designates a ball that slides down a staff to show a fixed time; especially at an observatory."*

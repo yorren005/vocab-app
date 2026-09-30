@@ -5,15 +5,6 @@ status: unread
 ---
 # tomb
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An excavation in which a corpse is buried : grave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A place of interment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or who is he so fond will be the tomb Of his self-love to stop posterity?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This silence for my sin you did impute, Which shall be most my glory being dumb, For I impair not beauty being mute, When others would give life, and bring a tomb."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Excuse not silence so, for’t lies in thee, To make him much outlive a gilded tomb: And to be praised of ages yet to be."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excavation in which a corpse is buried : grave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A place of interment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or who is he so fond will be the tomb Of his self-love to stop posterity?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This silence for my sin you did impute, Which shall be most my glory being dumb, For I impair not beauty being mute, When others would give life, and bring a tomb."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Excuse not silence so, for’t lies in thee, To make him much outlive a gilded tomb: And to be praised of ages yet to be."*

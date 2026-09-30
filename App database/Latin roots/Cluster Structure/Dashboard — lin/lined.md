@@ -5,15 +5,6 @@ status: unread
 ---
 # lined
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be in line with; form a line along.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover the interior of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then the justice, In fair round belly with good capon lined, With eyes severe and beard of formal cut, Full of wise saws and modern instances; And so he plays his part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the pictures fairest lined Are but black to Rosalind."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Winter garments must be lined, So must slender Rosalind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be in line with; form a line along.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover the interior of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then the justice, In fair round belly with good capon lined, With eyes severe and beard of formal cut, Full of wise saws and modern instances; And so he plays his part."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the pictures fairest lined Are but black to Rosalind."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Winter garments must be lined, So must slender Rosalind."*

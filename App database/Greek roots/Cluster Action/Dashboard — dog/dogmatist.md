@@ -5,14 +5,6 @@ status: unread
 ---
 # dogmatist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stubborn person of arbitrary or arrogant opinions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stubborn person of arbitrary or arrogant opinions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"A medical work of his, and a treatise on the Soul are lost, but his _Pyrrhonean Sketches_ and his books _Against the Dogmatists_ remain--written in a Greek which suggests that he was himself a Greek and not a foreigner using the language."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The triflers and the dogmatists of the day used Plato's myths to confute the Christian doctrine of the resurrection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stubborn person of arbitrary or arrogant opinions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stubborn person of arbitrary or arrogant opinions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"A medical work of his, and a treatise on the Soul are lost, but his _Pyrrhonean Sketches_ and his books _Against the Dogmatists_ remain--written in a Greek which suggests that he was himself a Greek and not a foreigner using the language."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The triflers and the dogmatists of the day used Plato's myths to confute the Christian doctrine of the resurrection."*

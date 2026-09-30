@@ -5,15 +5,6 @@ status: unread
 ---
 # granite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plutonic igneous rock having visibly crystalline texture; generally composed of feldspar and mica and quartz.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something having the quality of granite (unyielding firmness).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the building trades about 16 per cent are organized, of granite cutters 69 per cent, masons 39 per cent, plasterers 32 per cent, carpenters 21 per cent, and painters 17 per cent."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I struck straight into the heath; I held on to a hollow I saw deeply furrowing the brown moorside; I waded knee-deep in its dark growth; I turned with its turnings, and finding a moss-blackened granite crag in a hidden angle, I sat down under it."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I felt the consecration of its loneliness: my eye feasted on the outline of swell and sweep—on the wild colouring communicated to ridge and dell by moss, by heath-bell, by flower-sprinkled turf, by brilliant bracken, and mellow granite crag."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plutonic igneous rock having visibly crystalline texture; generally composed of feldspar and mica and quartz.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something having the quality of granite (unyielding firmness).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the building trades about 16 per cent are organized, of granite cutters 69 per cent, masons 39 per cent, plasterers 32 per cent, carpenters 21 per cent, and painters 17 per cent."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I struck straight into the heath; I held on to a hollow I saw deeply furrowing the brown moorside; I waded knee-deep in its dark growth; I turned with its turnings, and finding a moss-blackened granite crag in a hidden angle, I sat down under it."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I felt the consecration of its loneliness: my eye feasted on the outline of swell and sweep—on the wild colouring communicated to ridge and dell by moss, by heath-bell, by flower-sprinkled turf, by brilliant bracken, and mellow granite crag."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # scented
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to smell or be smelly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Catch the scent of; get wind of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For The mutable, rank-scented many, let them Regard me, as I do not flatter, and Therein behold themselves."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Besides which, he quite scented the dining-room with bear’s-grease and other perfumery."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak wandered away under the quiet and scented trees."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to smell or be smelly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Catch the scent of; get wind of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For The mutable, rank-scented many, let them Regard me, as I do not flatter, and Therein behold themselves."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Besides which, he quite scented the dining-room with bear’s-grease and other perfumery."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak wandered away under the quiet and scented trees."*

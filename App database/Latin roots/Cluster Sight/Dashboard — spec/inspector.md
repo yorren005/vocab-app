@@ -5,15 +5,6 @@ status: unread
 ---
 # inspector
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A high ranking police officer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An investigator who observes carefully.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket, “you’ll excuse anything that may appear to be disagreeable in this, for my name’s Inspector Bucket of the Detective, and I have a duty to perform."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You put that to her ladyship, Sir Leicester Dedlock, Baronet, from me, Inspector Bucket of the Detective."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Put it to her ladyship, if you think it right, from Inspector Bucket of the Detective."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A high ranking police officer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An investigator who observes carefully.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket, “you’ll excuse anything that may appear to be disagreeable in this, for my name’s Inspector Bucket of the Detective, and I have a duty to perform."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You put that to her ladyship, Sir Leicester Dedlock, Baronet, from me, Inspector Bucket of the Detective."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Put it to her ladyship, if you think it right, from Inspector Bucket of the Detective."*

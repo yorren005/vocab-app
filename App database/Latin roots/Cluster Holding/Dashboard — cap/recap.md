@@ -5,13 +5,6 @@ status: unread
 ---
 # recap
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A summary at the end that repeats the substance of a longer discussion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A used automobile tire that has been remolded to give it new treads.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"At this moment I can recap to my mind their slender shafts, and the graceful inequalities of their bark, on which my eye was accustomed to dwell day after day in the midst of my solitary musings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A summary at the end that repeats the substance of a longer discussion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A used automobile tire that has been remolded to give it new treads.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"At this moment I can recap to my mind their slender shafts, and the graceful inequalities of their bark, on which my eye was accustomed to dwell day after day in the midst of my solitary musings."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # tenacity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistent determination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persistent determination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Each trial only increased its tenacity, and brought him greater humility, for it opened his own heart to a sense of his own powerlessness, and this faith has grown with work and trial, till its strength is beyond all precedent."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The tenacity with which he strove to hide this inward drama made it the more vivid for him; as we hear with the more keenness what we wish others not to hear."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate could only say, “Poor, poor darling!”—but he secretly wondered over the terrible tenacity of this mild creature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistent determination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persistent determination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Each trial only increased its tenacity, and brought him greater humility, for it opened his own heart to a sense of his own powerlessness, and this faith has grown with work and trial, till its strength is beyond all precedent."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The tenacity with which he strove to hide this inward drama made it the more vivid for him; as we hear with the more keenness what we wish others not to hear."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate could only say, “Poor, poor darling!”—but he secretly wondered over the terrible tenacity of this mild creature."*

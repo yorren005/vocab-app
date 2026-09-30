@@ -5,15 +5,6 @@ status: unread
 ---
 # series
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Similar things placed in order or happening one after another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A serialized set of programs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"STORK 1921 FOREWORD The present story is the third by Madame Spyri to appear in this series."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bogsby to sing at a series of concerts called Harmonic Assemblies, or Meetings, which it would appear are held at the Sol’s Arms under Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The old girl’s umbrella is of a flabby habit of waist and seems to be in need of stays—an appearance that is possibly referable to its having served through a series of years at home as a cupboard and on journeys as a carpet bag."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Similar things placed in order or happening one after another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A serialized set of programs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"STORK 1921 FOREWORD The present story is the third by Madame Spyri to appear in this series."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bogsby to sing at a series of concerts called Harmonic Assemblies, or Meetings, which it would appear are held at the Sol’s Arms under Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old girl’s umbrella is of a flabby habit of waist and seems to be in need of stays—an appearance that is possibly referable to its having served through a series of years at home as a cupboard and on journeys as a carpet bag."*

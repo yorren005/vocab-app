@@ -5,15 +5,6 @@ status: unread
 ---
 # accident
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unfortunate mishap; especially one causing damage or injury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anything that happens suddenly or by chance without an apparent cause.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The day Was yours by accident; had it gone with us, We should not, when the blood was cool, have threaten’d Our prisoners with the sword."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet Gertrude, leave us too, For we have closely sent for Hamlet hither, That he, as ’twere by accident, may here Affront Ophelia."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where joy most revels, grief doth most lament; Grief joys, joy grieves, on slender accident."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unfortunate mishap; especially one causing damage or injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anything that happens suddenly or by chance without an apparent cause.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The day Was yours by accident; had it gone with us, We should not, when the blood was cool, have threaten’d Our prisoners with the sword."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet Gertrude, leave us too, For we have closely sent for Hamlet hither, That he, as ’twere by accident, may here Affront Ophelia."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where joy most revels, grief doth most lament; Grief joys, joy grieves, on slender accident."*

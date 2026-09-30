@@ -5,13 +5,6 @@ status: unread
 ---
 # partitive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Word (such a `some' or `less') that is used to indicate a part as distinct from a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (romance languages) relating to or denoting a part of a whole or a quantity that is less than the whole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, partitive designates word (such a `some' or `less') that is used to indicate a part as distinct from a whole."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Word (such a `some' or `less') that is used to indicate a part as distinct from a whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (romance languages) relating to or denoting a part of a whole or a quantity that is less than the whole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, partitive designates word (such a `some' or `less') that is used to indicate a part as distinct from a whole."*

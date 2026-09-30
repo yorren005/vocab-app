@@ -5,13 +5,6 @@ status: unread
 ---
 # schizocarp
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dry compound fruit that splits at maturity into several indehiscent one-seeded carpels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dry compound fruit that splits at maturity into several indehiscent one-seeded carpels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizocarp designates a dry compound fruit that splits at maturity into several indehiscent one-seeded carpels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dry compound fruit that splits at maturity into several indehiscent one-seeded carpels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dry compound fruit that splits at maturity into several indehiscent one-seeded carpels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizocarp designates a dry compound fruit that splits at maturity into several indehiscent one-seeded carpels."*

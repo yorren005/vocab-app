@@ -5,15 +5,6 @@ status: unread
 ---
 # prediction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of predicting (as by reasoning about the future).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement made about the future.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This villain of mine comes under the prediction; there’s son against father: the King falls from bias of nature; there’s father against child."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am thinking, brother, of a prediction I read this other day, what should follow these eclipses."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My noble partner You greet with present grace and great prediction Of noble having and of royal hope, That he seems rapt withal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of predicting (as by reasoning about the future).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement made about the future.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This villain of mine comes under the prediction; there’s son against father: the King falls from bias of nature; there’s father against child."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am thinking, brother, of a prediction I read this other day, what should follow these eclipses."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My noble partner You greet with present grace and great prediction Of noble having and of royal hope, That he seems rapt withal."*

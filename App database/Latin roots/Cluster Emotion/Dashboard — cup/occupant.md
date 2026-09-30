@@ -5,15 +5,6 @@ status: unread
 ---
 # occupant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who lives at a particular place for a prolonged period or who was born there.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who lives at a particular place for a prolonged period or who was born there.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was easy to know that the ceremonious, gouty, grey-haired gentleman, the only other occupant of the great pew, was Sir Leicester Dedlock, and that the lady was Lady Dedlock."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The occupant of the pew in the hall, having said thus much, stirs the fire and leaves the triumvirate to warm themselves."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A desolating wind wandered from the north over the hill whereon Oak had watched the yellow waggon and its occupant in the sunshine of a few days earlier."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who lives at a particular place for a prolonged period or who was born there.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who lives at a particular place for a prolonged period or who was born there.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It was easy to know that the ceremonious, gouty, grey-haired gentleman, the only other occupant of the great pew, was Sir Leicester Dedlock, and that the lady was Lady Dedlock."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The occupant of the pew in the hall, having said thus much, stirs the fire and leaves the triumvirate to warm themselves."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A desolating wind wandered from the north over the hill whereon Oak had watched the yellow waggon and its occupant in the sunshine of a few days earlier."*

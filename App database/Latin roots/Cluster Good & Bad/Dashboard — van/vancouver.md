@@ -5,15 +5,6 @@ status: unread
 ---
 # vancouver
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English navigator remembered for his exploration of the pacific coast of north america (1757-1798).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in southwestern washington on the columbia river across from portland, oregon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"She has explored seas and archipelagoes which had no chart, where no Cook or Vancouver had ever sailed."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"A similar admission has been made by other eminent voyagers: by Carteret, Byron, Kotzebue, and Vancouver."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"It was one of those clumsy, old-fashioned, English pieces known generally as Tower Hill muskets, and, for aught I know, might have been left on the island by Wallace, Carteret, Cook, or Vancouver."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English navigator remembered for his exploration of the pacific coast of north america (1757-1798).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in southwestern washington on the columbia river across from portland, oregon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"She has explored seas and archipelagoes which had no chart, where no Cook or Vancouver had ever sailed."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"A similar admission has been made by other eminent voyagers: by Carteret, Byron, Kotzebue, and Vancouver."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"It was one of those clumsy, old-fashioned, English pieces known generally as Tower Hill muskets, and, for aught I know, might have been left on the island by Wallace, Carteret, Cook, or Vancouver."*

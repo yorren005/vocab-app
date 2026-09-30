@@ -5,14 +5,6 @@ status: unread
 ---
 # semester
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two divisions of an academic year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Half a year; a period of 6 months.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He had accepted an appointment as _locum tenens_ for four weeks in an English Independent chapel at Hamburg, which delayed his arrival at Berlin until after the winter _semester_ had commenced."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Sherwood, “is, that arrangements have been made for you to attend Lakeview Hall this coming semester."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two divisions of an academic year.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Half a year; a period of 6 months.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"He had accepted an appointment as _locum tenens_ for four weeks in an English Independent chapel at Hamburg, which delayed his arrival at Berlin until after the winter _semester_ had commenced."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Sherwood, “is, that arrangements have been made for you to attend Lakeview Hall this coming semester."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # medicative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the properties of medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the properties of medicine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, medicative designates having the properties of medicine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the properties of medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the properties of medicine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, medicative designates having the properties of medicine."*

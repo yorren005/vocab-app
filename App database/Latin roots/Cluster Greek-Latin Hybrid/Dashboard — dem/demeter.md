@@ -5,15 +5,6 @@ status: unread
 ---
 # demeter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) goddess of fertility and protector of marriage in ancient mythology; counterpart of roman ceres.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) goddess of fertility and protector of marriage in ancient mythology; counterpart of roman ceres.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He called her Artemis, Demeter, and other fanciful names half teasingly, which she did not like because she did not understand them."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The torches of Demeter, which figure so largely in her myth and on her monuments, are perhaps to be explained by this custom."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Every year, as we saw, men went to be initiated into the rites of Demeter at Eleusis, a few miles from Athens."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) goddess of fertility and protector of marriage in ancient mythology; counterpart of roman ceres.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) goddess of fertility and protector of marriage in ancient mythology; counterpart of roman ceres.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He called her Artemis, Demeter, and other fanciful names half teasingly, which she did not like because she did not understand them."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The torches of Demeter, which figure so largely in her myth and on her monuments, are perhaps to be explained by this custom."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Every year, as we saw, men went to be initiated into the rites of Demeter at Eleusis, a few miles from Athens."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # cadaverous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very thin especially from disease or hunger or cold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a cadaver or corpse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was short, cadaverous, and withered, with his head sunk sideways between his shoulders and the breath issuing in visible smoke from his mouth as if he were on fire within."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Some approached pure blanching; some had a bluish pallor; some worn by the older characters (which had possibly lain by folded for many a year) inclined to a cadaverous tint, and to a Georgian style."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"By degrees the freshest among them began to grow cadaverous and saucer-eyed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very thin especially from disease or hunger or cold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a cadaver or corpse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He was short, cadaverous, and withered, with his head sunk sideways between his shoulders and the breath issuing in visible smoke from his mouth as if he were on fire within."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Some approached pure blanching; some had a bluish pallor; some worn by the older characters (which had possibly lain by folded for many a year) inclined to a cadaverous tint, and to a Georgian style."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"By degrees the freshest among them began to grow cadaverous and saucer-eyed."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrocracking
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process whereby hydrocarbon molecules of petroleum are broken down into kerosene and gasolene by the addition of hydrogen under high pressure in the presence of a catalyst.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process whereby hydrocarbon molecules of petroleum are broken down into kerosene and gasolene by the addition of hydrogen under high pressure in the presence of a catalyst.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocracking designates the process whereby hydrocarbon molecules of petroleum are broken down into kerosene and gasolene by the addition of hydrogen under high pressure in the presence of a catalyst."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process whereby hydrocarbon molecules of petroleum are broken down into kerosene and gasolene by the addition of hydrogen under high pressure in the presence of a catalyst.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process whereby hydrocarbon molecules of petroleum are broken down into kerosene and gasolene by the addition of hydrogen under high pressure in the presence of a catalyst.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocracking designates the process whereby hydrocarbon molecules of petroleum are broken down into kerosene and gasolene by the addition of hydrogen under high pressure in the presence of a catalyst."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # planer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A power tool for smoothing or shaping wood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A power tool for smoothing or shaping wood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It could drive lathes, drills, planers, punches, polishers, in a word all the cunning machines of a great factory?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A power tool for smoothing or shaping wood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A power tool for smoothing or shaping wood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It could drive lathes, drills, planers, punches, polishers, in a word all the cunning machines of a great factory?"*

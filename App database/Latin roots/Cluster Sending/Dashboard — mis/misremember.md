@@ -5,13 +5,6 @@ status: unread
 ---
 # misremember
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remember incorrectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remember incorrectly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"The death close before me was terrible, but far more terrible than death was the dread of being misremembered after death."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remember incorrectly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remember incorrectly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The death close before me was terrible, but far more terrible than death was the dread of being misremembered after death."*

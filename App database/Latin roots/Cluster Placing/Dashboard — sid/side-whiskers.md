@@ -5,13 +5,6 @@ status: unread
 ---
 # side-whiskers
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Facial hair that has grown down the side of a man's face in front of the ears (especially when the rest of the beard is shaved off).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Facial hair that has grown down the side of a man's face in front of the ears (especially when the rest of the beard is shaved off).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, side-whiskers designates facial hair that has grown down the side of a man's face in front of the ears (especially when the rest of the beard is shaved off)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Facial hair that has grown down the side of a man's face in front of the ears (especially when the rest of the beard is shaved off).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Facial hair that has grown down the side of a man's face in front of the ears (especially when the rest of the beard is shaved off).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, side-whiskers designates facial hair that has grown down the side of a man's face in front of the ears (especially when the rest of the beard is shaved off)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # quiescence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of quiet (but possibly temporary) inaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quiet and inactive restfulness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He never omitted the ceremony afterwards, and the gravity and quiescence with which I underwent it, seemed to invest it for him with a certain charm."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"After collapse came quiescence, and, after a long quiescence, revival."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If moody Ahab was now all quiescence, at least so far as could be known on deck, Stubb, his second mate, flushed with conquest, betrayed an unusual but still good-natured excitement."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of quiet (but possibly temporary) inaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quiet and inactive restfulness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He never omitted the ceremony afterwards, and the gravity and quiescence with which I underwent it, seemed to invest it for him with a certain charm."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"After collapse came quiescence, and, after a long quiescence, revival."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If moody Ahab was now all quiescence, at least so far as could be known on deck, Stubb, his second mate, flushed with conquest, betrayed an unusual but still good-natured excitement."*

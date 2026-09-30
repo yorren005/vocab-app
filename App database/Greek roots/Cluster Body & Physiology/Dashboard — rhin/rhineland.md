@@ -5,13 +5,6 @@ status: unread
 ---
 # rhineland
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A picturesque region of germany around the rhine river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A picturesque region of germany around the rhine river.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"To lay down the pen and even to think of that beautiful Rhineland makes one happy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A picturesque region of germany around the rhine river.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A picturesque region of germany around the rhine river.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"To lay down the pen and even to think of that beautiful Rhineland makes one happy."*

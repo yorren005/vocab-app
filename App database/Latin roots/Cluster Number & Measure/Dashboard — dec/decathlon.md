@@ -5,13 +5,6 @@ status: unread
 ---
 # decathlon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An athletic contest consisting of ten different events.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An athletic contest consisting of ten different events.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decathlon designates an athletic contest consisting of ten different events."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An athletic contest consisting of ten different events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An athletic contest consisting of ten different events.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decathlon designates an athletic contest consisting of ten different events."*

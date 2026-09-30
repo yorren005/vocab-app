@@ -5,15 +5,6 @@ status: unread
 ---
 # obliging
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Force somebody to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bind by an obligation; cause to be indebted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"After meditating a while Kurt replied, "I guess I really shouldn't." "Don't you all like Loneli because she never gets rough and always is friendly, obliging and cheerful?"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"We think and know that she is the friendliest and most obliging child in school." "Long live Loneli!" Lux suddenly cheered so that the whole band involuntarily joined him."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I have often said before that Loneli is the most clever child in all Nolla, besides being the most friendly and obliging one could possibly find."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Force somebody to do something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bind by an obligation; cause to be indebted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"After meditating a while Kurt replied, "I guess I really shouldn't." "Don't you all like Loneli because she never gets rough and always is friendly, obliging and cheerful?"*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"We think and know that she is the friendliest and most obliging child in school." "Long live Loneli!" Lux suddenly cheered so that the whole band involuntarily joined him."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I have often said before that Loneli is the most clever child in all Nolla, besides being the most friendly and obliging one could possibly find."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # podetium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organ or body resembling a stalk; especially the outgrowth of the thallus of certain lichens on which the ascocarp is borne.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organ or body resembling a stalk; especially the outgrowth of the thallus of certain lichens on which the ascocarp is borne.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podetium designates an organ or body resembling a stalk; especially the outgrowth of the thallus of certain lichens on which the ascocarp is borne."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organ or body resembling a stalk; especially the outgrowth of the thallus of certain lichens on which the ascocarp is borne.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organ or body resembling a stalk; especially the outgrowth of the thallus of certain lichens on which the ascocarp is borne.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podetium designates an organ or body resembling a stalk; especially the outgrowth of the thallus of certain lichens on which the ascocarp is borne."*

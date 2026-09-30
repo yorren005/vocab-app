@@ -5,13 +5,6 @@ status: unread
 ---
 # abstractor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who makes abstracts or summarizes information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who makes abstracts or summarizes information.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abstractor designates one who makes abstracts or summarizes information."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who makes abstracts or summarizes information.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who makes abstracts or summarizes information.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abstractor designates one who makes abstracts or summarizes information."*

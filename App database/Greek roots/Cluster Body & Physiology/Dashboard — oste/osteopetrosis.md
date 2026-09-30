@@ -5,13 +5,6 @@ status: unread
 ---
 # osteopetrosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inherited disorder characterized by an increase in bone density; in severe forms the bone marrow cavity may be obliterated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inherited disorder characterized by an increase in bone density; in severe forms the bone marrow cavity may be obliterated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteopetrosis designates an inherited disorder characterized by an increase in bone density; in severe forms the bone marrow cavity may be obliterated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inherited disorder characterized by an increase in bone density; in severe forms the bone marrow cavity may be obliterated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inherited disorder characterized by an increase in bone density; in severe forms the bone marrow cavity may be obliterated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteopetrosis designates an inherited disorder characterized by an increase in bone density; in severe forms the bone marrow cavity may be obliterated."*

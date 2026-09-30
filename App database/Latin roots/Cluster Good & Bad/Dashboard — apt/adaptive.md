@@ -5,13 +5,6 @@ status: unread
 ---
 # adaptive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a capacity for adaptation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a capacity for adaptation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adaptive designates having a capacity for adaptation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a capacity for adaptation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a capacity for adaptation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adaptive designates having a capacity for adaptation."*

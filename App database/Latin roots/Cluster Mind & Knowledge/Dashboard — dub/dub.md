@@ -5,15 +5,6 @@ status: unread
 ---
 # dub
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The new sounds added by dubbing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give a nickname to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SILENCE. [_Singing._] _Do me right, And dub me knight: Samingo._ Is’t not so?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But he that temper’d thee bade thee stand up, Gave thee no instance why thou shouldst do treason, Unless to dub thee with the name of traitor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unsheathe your sword and dub him presently.— Edward, kneel down."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The new sounds added by dubbing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give a nickname to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SILENCE. [_Singing._] _Do me right, And dub me knight: Samingo._ Is’t not so?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But he that temper’d thee bade thee stand up, Gave thee no instance why thou shouldst do treason, Unless to dub thee with the name of traitor."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unsheathe your sword and dub him presently.— Edward, kneel down."*

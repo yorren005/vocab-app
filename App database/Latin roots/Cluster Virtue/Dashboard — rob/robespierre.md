@@ -5,15 +5,6 @@ status: unread
 ---
 # robespierre
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French revolutionary; leader of the jacobins and architect of the reign of terror; was himself executed in a coup d'etat (1758-1794).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French revolutionary; leader of the jacobins and architect of the reign of terror; was himself executed in a coup d'etat (1758-1794).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Then Robespierre was beheaded for being a despot."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The absurdities of the old religion yielded place to Reason--embodied symbolically for the hour in the person of Mme Momoro--afterwards, more vaguely, in Robespierre's Supreme Being, who really came from Rousseau."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"And then--"avec ton Etre Supreme tu commences a m'embeter," said Billaud to Robespierre himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French revolutionary; leader of the jacobins and architect of the reign of terror; was himself executed in a coup d'etat (1758-1794).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French revolutionary; leader of the jacobins and architect of the reign of terror; was himself executed in a coup d'etat (1758-1794).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Then Robespierre was beheaded for being a despot."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The absurdities of the old religion yielded place to Reason--embodied symbolically for the hour in the person of Mme Momoro--afterwards, more vaguely, in Robespierre's Supreme Being, who really came from Rousseau."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"And then--"avec ton Etre Supreme tu commences a m'embeter," said Billaud to Robespierre himself."*

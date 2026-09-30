@@ -5,15 +5,6 @@ status: unread
 ---
 # distrust
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Doubt about someone's honesty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of not trusting others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make me not offended In your distrust."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, woe is me, you are so sick of late, So far from cheer and from your former state, That I distrust you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet, though I distrust, Discomfort you, my lord, it nothing must: For women’s fear and love holds quantity, In neither aught, or in extremity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Doubt about someone's honesty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of not trusting others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make me not offended In your distrust."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, woe is me, you are so sick of late, So far from cheer and from your former state, That I distrust you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet, though I distrust, Discomfort you, my lord, it nothing must: For women’s fear and love holds quantity, In neither aught, or in extremity."*

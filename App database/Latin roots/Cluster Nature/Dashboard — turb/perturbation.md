@@ -5,15 +5,6 @@ status: unread
 ---
 # perturbation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unhappy and worried mental state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) a secondary influence on a system that causes it to deviate slightly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It hath it original from much grief, from study and perturbation of the brain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O polish’d perturbation! golden care!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A great perturbation in nature, to receive at once the benefit of sleep, and do the effects of watching."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unhappy and worried mental state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) a secondary influence on a system that causes it to deviate slightly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It hath it original from much grief, from study and perturbation of the brain."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O polish’d perturbation! golden care!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A great perturbation in nature, to receive at once the benefit of sleep, and do the effects of watching."*

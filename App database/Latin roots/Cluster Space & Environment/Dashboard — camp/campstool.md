@@ -5,15 +5,6 @@ status: unread
 ---
 # campstool
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A folding stool.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A folding stool.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"We belated historians must not linger after his example; and if we did so, it is probable that our chat would be thin and eager, as if delivered from a campstool in a parrot-house."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Napoleon sat on a campstool, wrapped in thought."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He sat silently on a campstool below the knoll, with head bowed and elbows on his knees."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A folding stool.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A folding stool.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"We belated historians must not linger after his example; and if we did so, it is probable that our chat would be thin and eager, as if delivered from a campstool in a parrot-house."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Napoleon sat on a campstool, wrapped in thought."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He sat silently on a campstool below the knoll, with head bowed and elbows on his knees."*

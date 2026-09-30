@@ -5,13 +5,6 @@ status: unread
 ---
 # thermodynamic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to thermodynamics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or relating to a system of atoms, molecules, colloidal particles, or larger bodies considered as an isolated group in the study of thermodynamic processes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermodynamic designates of or relating to thermodynamics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to thermodynamics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or relating to a system of atoms, molecules, colloidal particles, or larger bodies considered as an isolated group in the study of thermodynamic processes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermodynamic designates of or relating to thermodynamics."*

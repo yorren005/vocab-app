@@ -5,13 +5,6 @@ status: unread
 ---
 # paralegal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with specialized training who assists lawyers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person with specialized training who assists lawyers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paralegal designates a person with specialized training who assists lawyers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with specialized training who assists lawyers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person with specialized training who assists lawyers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paralegal designates a person with specialized training who assists lawyers."*

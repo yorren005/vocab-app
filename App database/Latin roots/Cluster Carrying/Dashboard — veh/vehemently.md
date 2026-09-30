@@ -5,15 +5,6 @@ status: unread
 ---
 # vehemently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vehement manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a vehement manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It’ll blow a gale in the course of the night!” He was now alternately putting his hands into his pockets as if he were going to keep them there a long time, and taking them out again and vehemently rubbing them all over his head."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It has aroused all the dogs in the neighbourhood, who bark vehemently."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You are taking too much upon yourself!” she said, vehemently."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vehement manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a vehement manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It’ll blow a gale in the course of the night!” He was now alternately putting his hands into his pockets as if he were going to keep them there a long time, and taking them out again and vehemently rubbing them all over his head."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It has aroused all the dogs in the neighbourhood, who bark vehemently."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You are taking too much upon yourself!” she said, vehemently."*

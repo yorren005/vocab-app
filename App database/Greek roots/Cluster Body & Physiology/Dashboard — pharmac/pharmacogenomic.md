@@ -5,13 +5,6 @@ status: unread
 ---
 # pharmacogenomic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science concerned with understanding how genetic differences among individuals cause varied responses to the same drug and with developing drug therapies to compensate for these differences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science concerned with understanding how genetic differences among individuals cause varied responses to the same drug and with developing drug therapies to compensate for these differences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pharmacogenomic designates the science concerned with understanding how genetic differences among individuals cause varied responses to the same drug and with developing drug therapies to compensate for these differences."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science concerned with understanding how genetic differences among individuals cause varied responses to the same drug and with developing drug therapies to compensate for these differences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science concerned with understanding how genetic differences among individuals cause varied responses to the same drug and with developing drug therapies to compensate for these differences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pharmacogenomic designates the science concerned with understanding how genetic differences among individuals cause varied responses to the same drug and with developing drug therapies to compensate for these differences."*

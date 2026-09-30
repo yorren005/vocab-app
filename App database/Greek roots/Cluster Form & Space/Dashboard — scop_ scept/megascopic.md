@@ -5,13 +5,6 @@ status: unread
 ---
 # megascopic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Visible to the naked eye (especially of rocks and anatomical features).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Visible to the naked eye (especially of rocks and anatomical features).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megascopic designates visible to the naked eye (especially of rocks and anatomical features)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Visible to the naked eye (especially of rocks and anatomical features).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Visible to the naked eye (especially of rocks and anatomical features).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megascopic designates visible to the naked eye (especially of rocks and anatomical features)."*

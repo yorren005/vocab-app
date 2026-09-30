@@ -5,13 +5,6 @@ status: unread
 ---
 # mammea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American and asiatic trees having edible one-seeded fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American and asiatic trees having edible one-seeded fruit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mammea designates american and asiatic trees having edible one-seeded fruit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: American and asiatic trees having edible one-seeded fruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American and asiatic trees having edible one-seeded fruit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mammea designates american and asiatic trees having edible one-seeded fruit."*

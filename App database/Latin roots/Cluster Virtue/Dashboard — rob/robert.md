@@ -5,15 +5,6 @@ status: unread
 ---
 # robert
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states parliamentary authority and author (in 1876) of robert's rules of order (1837-1923).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states parliamentary authority and author (in 1876) of robert's rules of order (1837-1923).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am Robert Shallow, sir, a poor esquire of this county, and one of the King’s justices of the peace."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am glad to see you well, good Master Robert Shallow."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll through Gloucestershire, and there will I visit Master Robert Shallow, Esquire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states parliamentary authority and author (in 1876) of robert's rules of order (1837-1923).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states parliamentary authority and author (in 1876) of robert's rules of order (1837-1923).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am Robert Shallow, sir, a poor esquire of this county, and one of the King’s justices of the peace."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am glad to see you well, good Master Robert Shallow."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll through Gloucestershire, and there will I visit Master Robert Shallow, Esquire."*

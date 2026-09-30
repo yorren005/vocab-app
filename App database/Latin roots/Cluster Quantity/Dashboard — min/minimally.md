@@ -5,13 +5,6 @@ status: unread
 ---
 # minimally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a minimal degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a minimal degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Among the migrants were artisans and technicians, minimally to highly-skilled administrators, sociologists, teachers, scientists and engineers and, scattered among them, contemporary philosophers who preached the metaphysical."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a minimal degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a minimal degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Among the migrants were artisans and technicians, minimally to highly-skilled administrators, sociologists, teachers, scientists and engineers and, scattered among them, contemporary philosophers who preached the metaphysical."*

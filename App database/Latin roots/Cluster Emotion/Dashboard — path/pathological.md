@@ -5,15 +5,6 @@ status: unread
 ---
 # pathological
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the practice of pathology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Caused by or evidencing a mentally disturbed condition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many industries and branches of industry in America are thus parasitical A condition essentially pathological has come to be looked upon as normal."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"To the poet he bequeathed something of his own pathological sensuality, instability of thought and action, lack of will-energy, and the tears of a heartbroken mother, a sufficient guarantee, surely, of a poet of melancholy."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Lenau's aimlessness and instability were so extreme that they may properly be counted a pathological trait."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the practice of pathology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Caused by or evidencing a mentally disturbed condition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many industries and branches of industry in America are thus parasitical A condition essentially pathological has come to be looked upon as normal."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"To the poet he bequeathed something of his own pathological sensuality, instability of thought and action, lack of will-energy, and the tears of a heartbroken mother, a sufficient guarantee, surely, of a poet of melancholy."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Lenau's aimlessness and instability were so extreme that they may properly be counted a pathological trait."*

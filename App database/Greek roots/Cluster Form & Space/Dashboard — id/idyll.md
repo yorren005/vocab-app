@@ -5,15 +5,6 @@ status: unread
 ---
 # idyll
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple descriptive work in poetry or prose that deals with rustic life or pastoral scenes or suggests a mood of peace and contentment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A narrative poem (such as Tennyson's Idylls of the King) treating an epic, romantic, or tragic theme.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"But I can finish your idyll for you."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I can read the 'Idylls of the King,' but I can't read Bernard Shaw." "Nor anybody else," said Bernard."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"It is prominent in ‘In Memoriam’ and in ‘The Idylls of the King’."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple descriptive work in poetry or prose that deals with rustic life or pastoral scenes or suggests a mood of peace and contentment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A narrative poem (such as Tennyson's Idylls of the King) treating an epic, romantic, or tragic theme.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"But I can finish your idyll for you."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"I can read the 'Idylls of the King,' but I can't read Bernard Shaw." "Nor anybody else," said Bernard."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"It is prominent in ‘In Memoriam’ and in ‘The Idylls of the King’."*

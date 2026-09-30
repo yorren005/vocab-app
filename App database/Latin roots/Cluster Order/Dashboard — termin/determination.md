@@ -5,15 +5,6 @@ status: unread
 ---
 # determination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of determining the properties of something, usually by research or calculation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being determined to do or achieve something; firmness of purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So should that beauty which you hold in lease Find no determination, then you were Yourself again after yourself’s decease, When your sweet issue your sweet form should bear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Welcome, Sir Walter Blunt, and would to God You were of our determination!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He professes to have received no sinister measure from his judge, but most willingly humbles himself to the determination of justice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of determining the properties of something, usually by research or calculation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being determined to do or achieve something; firmness of purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So should that beauty which you hold in lease Find no determination, then you were Yourself again after yourself’s decease, When your sweet issue your sweet form should bear."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Welcome, Sir Walter Blunt, and would to God You were of our determination!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He professes to have received no sinister measure from his judge, but most willingly humbles himself to the determination of justice."*

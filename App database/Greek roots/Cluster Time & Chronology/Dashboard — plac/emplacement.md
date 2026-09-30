@@ -5,15 +5,6 @@ status: unread
 ---
 # emplacement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Military installation consisting of a prepared position for siting a weapon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting something in a certain place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I want to check your weapons control center, and every gun emplacement."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I repeat: first, the fire control center, then each gun emplacement."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"At each gun emplacement, Rimov, his guards and Scarf watched Brad and Kumiko inspect sector guides, range and directional interlocks and power drives."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Military installation consisting of a prepared position for siting a weapon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting something in a certain place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I want to check your weapons control center, and every gun emplacement."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I repeat: first, the fire control center, then each gun emplacement."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"At each gun emplacement, Rimov, his guards and Scarf watched Brad and Kumiko inspect sector guides, range and directional interlocks and power drives."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # protocol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of rules that explain the correct conduct and procedures to be followed in formal situations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of conventions governing the treatment and especially the formatting of data in an electronic communications system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Just the routine chit-chat of protocol: small talk about the inconveniences of long hops and living out of traveling kits."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Copy to each Senior Elder of the General Assembly, to Ministers of Intelligence and Diplomatic Protocols, and to Slingshot Director."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He nodded perfunctory greetings to his Ministers of Intelligence and Diplomatic Protocols, and to the Commander of the UIPS Space Forces as he took his seat at the head of the long table."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of rules that explain the correct conduct and procedures to be followed in formal situations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of conventions governing the treatment and especially the formatting of data in an electronic communications system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Just the routine chit-chat of protocol: small talk about the inconveniences of long hops and living out of traveling kits."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Copy to each Senior Elder of the General Assembly, to Ministers of Intelligence and Diplomatic Protocols, and to Slingshot Director."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He nodded perfunctory greetings to his Ministers of Intelligence and Diplomatic Protocols, and to the Commander of the UIPS Space Forces as he took his seat at the head of the long table."*

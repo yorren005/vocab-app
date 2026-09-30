@@ -5,15 +5,6 @@ status: unread
 ---
 # create
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make or cause to be or to become.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring into existence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou canst like this creature as a maid, I can create the rest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are you a god? would you create me new?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Arise my knights o’ th’ battle; I create you Companions to our person, and will fit you With dignities becoming your estates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make or cause to be or to become.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring into existence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou canst like this creature as a maid, I can create the rest."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are you a god? would you create me new?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Arise my knights o’ th’ battle; I create you Companions to our person, and will fit you With dignities becoming your estates."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # adverse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Contrary to your interests or welfare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an opposing direction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All’s well that ends well yet, Though time seem so adverse and means unfit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Henry the Fifth, thy ghost I invocate: Prosper this realm, keep it from civil broils, Combat with adverse planets in the heavens."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The adverse winds, Whose leisure I have stay’d, have given him time To land his legions all as soon as I; His marches are expedient to this town, His forces strong, his soldiers confident."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contrary to your interests or welfare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an opposing direction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All’s well that ends well yet, Though time seem so adverse and means unfit."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Henry the Fifth, thy ghost I invocate: Prosper this realm, keep it from civil broils, Combat with adverse planets in the heavens."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The adverse winds, Whose leisure I have stay’d, have given him time To land his legions all as soon as I; His marches are expedient to this town, His forces strong, his soldiers confident."*

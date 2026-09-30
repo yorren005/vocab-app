@@ -5,15 +5,6 @@ status: unread
 ---
 # metropolis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and densely populated urban area; may include several independent administrative districts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: People living in a large densely populated municipality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The next is this: King John hath reconcil’d Himself to Rome; his spirit is come in, That so stood out against the holy church, The great metropolis and see of Rome."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"The journey from our town to the metropolis was a journey of about five hours."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Sprague?” “To a certain extent—with regard to populous districts, and in the metropolis,” said the Doctor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and densely populated urban area; may include several independent administrative districts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: People living in a large densely populated municipality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The next is this: King John hath reconcil’d Himself to Rome; his spirit is come in, That so stood out against the holy church, The great metropolis and see of Rome."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The journey from our town to the metropolis was a journey of about five hours."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Sprague?” “To a certain extent—with regard to populous districts, and in the metropolis,” said the Doctor."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # autodidact
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A self-taught person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A self-taught person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autodidact designates a self-taught person."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A self-taught person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A self-taught person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autodidact designates a self-taught person."*

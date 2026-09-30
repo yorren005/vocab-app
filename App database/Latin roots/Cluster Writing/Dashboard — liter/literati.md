@@ -5,15 +5,6 @@ status: unread
 ---
 # literati
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The literary intelligentsia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The literary intelligentsia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I have likewise warm friends among the literati; Professors Stewart, Blair, and Mr."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I distrusted my own judgment on your finding fault with it, and applied for the opinion of some of the literati here, who honour me with their critical strictures, and they all allowed it to be proper."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I have the advice of some very judicious friends among the literati here, but with them I sometimes find it necessary to claim the privilege of thinking for myself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The literary intelligentsia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The literary intelligentsia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I have likewise warm friends among the literati; Professors Stewart, Blair, and Mr."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I distrusted my own judgment on your finding fault with it, and applied for the opinion of some of the literati here, who honour me with their critical strictures, and they all allowed it to be proper."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I have the advice of some very judicious friends among the literati here, but with them I sometimes find it necessary to claim the privilege of thinking for myself."*

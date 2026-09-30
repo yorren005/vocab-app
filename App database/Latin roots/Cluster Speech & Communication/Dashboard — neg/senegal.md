@@ -5,15 +5,6 @@ status: unread
 ---
 # senegal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in northwestern africa on the coast of the atlantic; formerly a french colony but achieved independence in 1960.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in northwestern africa on the coast of the atlantic; formerly a french colony but achieved independence in 1960.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Slave’s Lament It was in sweet Senegal that my foes did me enthral, For the lands of Virginia,—ginia, O: Torn from that lovely shore, and must never see it more; And alas!"*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Lawrence, the Mississippi, the Amazon, the Plata, the Orinoco, the Niger, the Senegal, the Elbe, the Loire, and the Rhine, which carry water from the most civilised, as well as from the most savage, countries!"*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"It is believed that the king of Cayor in Senegal would infallibly die within the year if he were to cross a river or an arm of the sea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in northwestern africa on the coast of the atlantic; formerly a french colony but achieved independence in 1960.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in northwestern africa on the coast of the atlantic; formerly a french colony but achieved independence in 1960.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Slave’s Lament It was in sweet Senegal that my foes did me enthral, For the lands of Virginia,—ginia, O: Torn from that lovely shore, and must never see it more; And alas!"*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Lawrence, the Mississippi, the Amazon, the Plata, the Orinoco, the Niger, the Senegal, the Elbe, the Loire, and the Rhine, which carry water from the most civilised, as well as from the most savage, countries!"*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"It is believed that the king of Cayor in Senegal would infallibly die within the year if he were to cross a river or an arm of the sea."*

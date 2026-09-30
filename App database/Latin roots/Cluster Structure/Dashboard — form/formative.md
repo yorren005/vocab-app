@@ -5,15 +5,6 @@ status: unread
 ---
 # formative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Minimal language unit that has a syntactic (or morphological) function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of forming new cells and tissues.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I used to play cricket myself." Laura Clowes in this period went through an experience almost equally formative."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"It must have been a formative experience." This time Isabel had no doubt about it, there was certainly a touch of cruel irony in Hyde's soft voice."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The second epoch of the Formative Age of the Bahá'í Dispensation has opened."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Minimal language unit that has a syntactic (or morphological) function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of forming new cells and tissues.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"I used to play cricket myself." Laura Clowes in this period went through an experience almost equally formative."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"It must have been a formative experience." This time Isabel had no doubt about it, there was certainly a touch of cruel irony in Hyde's soft voice."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The second epoch of the Formative Age of the Bahá'í Dispensation has opened."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # peripheral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer science) electronic equipment connected by cable to the cpu of a computer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On or near an edge or constituting an outer boundary; the outer area.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Generally familiar with the schematics of the Slingshot stations, he was overwhelmed by the two enormous cones and their peripherals, which configured the Terminals' hoppers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer science) electronic equipment connected by cable to the cpu of a computer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On or near an edge or constituting an outer boundary; the outer area.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Generally familiar with the schematics of the Slingshot stations, he was overwhelmed by the two enormous cones and their peripherals, which configured the Terminals' hoppers."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # consubstantiation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine of the high anglican church that after the consecration of the eucharist the substance of the body and blood of christ coexists with the substance of the consecrated bread and wine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine of the high anglican church that after the consecration of the eucharist the substance of the body and blood of christ coexists with the substance of the consecrated bread and wine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, consubstantiation designates the doctrine of the high anglican church that after the consecration of the eucharist the substance of the body and blood of christ coexists with the substance of the consecrated bread and wine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine of the high anglican church that after the consecration of the eucharist the substance of the body and blood of christ coexists with the substance of the consecrated bread and wine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine of the high anglican church that after the consecration of the eucharist the substance of the body and blood of christ coexists with the substance of the consecrated bread and wine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, consubstantiation designates the doctrine of the high anglican church that after the consecration of the eucharist the substance of the body and blood of christ coexists with the substance of the consecrated bread and wine."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # acarina
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mites and ticks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mites and ticks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acarina designates mites and ticks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mites and ticks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mites and ticks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acarina designates mites and ticks."*

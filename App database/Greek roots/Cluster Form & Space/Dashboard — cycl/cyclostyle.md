@@ -5,13 +5,6 @@ status: unread
 ---
 # cyclostyle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A writing implement with a small toothed wheel that cuts small holes in a stencil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Print with an implement with small toothed wheels that cuts small holes in a stencil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclostyle designates a writing implement with a small toothed wheel that cuts small holes in a stencil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A writing implement with a small toothed wheel that cuts small holes in a stencil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Print with an implement with small toothed wheels that cuts small holes in a stencil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclostyle designates a writing implement with a small toothed wheel that cuts small holes in a stencil."*

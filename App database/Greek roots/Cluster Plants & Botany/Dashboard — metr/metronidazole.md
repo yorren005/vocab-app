@@ -5,13 +5,6 @@ status: unread
 ---
 # metronidazole
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Antiprotozoal medication (trade name flagyl) used to treat trichomoniasis and giardiasis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antiprotozoal medication (trade name flagyl) used to treat trichomoniasis and giardiasis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metronidazole designates antiprotozoal medication (trade name flagyl) used to treat trichomoniasis and giardiasis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Antiprotozoal medication (trade name flagyl) used to treat trichomoniasis and giardiasis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antiprotozoal medication (trade name flagyl) used to treat trichomoniasis and giardiasis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metronidazole designates antiprotozoal medication (trade name flagyl) used to treat trichomoniasis and giardiasis."*

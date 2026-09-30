@@ -5,15 +5,6 @@ status: unread
 ---
 # unoffending
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not offending.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not causing anger or annoyance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"If I sit here thinking of him,” snarls the old man, holding up his impotent ten fingers, “I want to strangle him now.” And in a sudden access of fury, he throws the cushion at the unoffending Mrs."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"What stung me, was the identification of the whole affair with my unoffending self."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They contrast finely with those elaborate and iterated repinings which we sometimes meet with in poetry, the effusions of morbid minds sickening under miseries of their own creating, and venting their bitterness upon an unoffending world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not offending.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not causing anger or annoyance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"If I sit here thinking of him,” snarls the old man, holding up his impotent ten fingers, “I want to strangle him now.” And in a sudden access of fury, he throws the cushion at the unoffending Mrs."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"What stung me, was the identification of the whole affair with my unoffending self."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They contrast finely with those elaborate and iterated repinings which we sometimes meet with in poetry, the effusions of morbid minds sickening under miseries of their own creating, and venting their bitterness upon an unoffending world."*

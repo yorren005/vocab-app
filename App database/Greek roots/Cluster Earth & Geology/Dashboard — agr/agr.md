@@ -5,14 +5,6 @@ status: unread
 ---
 # agr
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Agricultural; agriculture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agricultural; agriculture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Donaldson, iii. (Paisley, 1880) pp. 349 _sq._, referring to "Agr."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Voilà l’agrément des camps, monsieur le prince,” * said the staff officer. * “This is a pleasure one gets in camp, Prince.” They rode up the opposite hill."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Agricultural; agriculture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agricultural; agriculture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Donaldson, iii. (Paisley, 1880) pp. 349 _sq._, referring to "Agr."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Voilà l’agrément des camps, monsieur le prince,” * said the staff officer. * “This is a pleasure one gets in camp, Prince.” They rode up the opposite hill."*

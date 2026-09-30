@@ -5,13 +5,6 @@ status: unread
 ---
 # anadiplosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetition of the final words of a sentence or line at the beginning of the next.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repetition of the final words of a sentence or line at the beginning of the next.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anadiplosis designates repetition of the final words of a sentence or line at the beginning of the next."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetition of the final words of a sentence or line at the beginning of the next.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repetition of the final words of a sentence or line at the beginning of the next.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anadiplosis designates repetition of the final words of a sentence or line at the beginning of the next."*

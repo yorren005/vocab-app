@@ -5,13 +5,6 @@ status: unread
 ---
 # perissodactyl
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Perissodactyla) of nonruminant ungulate mammals (such as a horse, a tapir, or a rhinoceros) that usually have an odd number of toes, molar teeth with transverse ridges on the grinding surface, and the posterior premolars resembling true molars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Perissodactyla) of nonruminant ungulate mammals (such as a horse, a tapir, or a rhinoceros) that usually have an odd number of toes, molar teeth with transverse ridges on the grinding surface, and the posterior premolars resembling true molars.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perissodactyl designates any of an order (perissodactyla) of nonruminant ungulate mammals (such as a horse, a tapir, or a rhinoceros) that usually have an odd number of toes, molar teeth with transverse ridges on the grinding surface, and the posterior premolars resembling true molars."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Perissodactyla) of nonruminant ungulate mammals (such as a horse, a tapir, or a rhinoceros) that usually have an odd number of toes, molar teeth with transverse ridges on the grinding surface, and the posterior premolars resembling true molars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Perissodactyla) of nonruminant ungulate mammals (such as a horse, a tapir, or a rhinoceros) that usually have an odd number of toes, molar teeth with transverse ridges on the grinding surface, and the posterior premolars resembling true molars.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perissodactyl designates any of an order (perissodactyla) of nonruminant ungulate mammals (such as a horse, a tapir, or a rhinoceros) that usually have an odd number of toes, molar teeth with transverse ridges on the grinding surface, and the posterior premolars resembling true molars."*

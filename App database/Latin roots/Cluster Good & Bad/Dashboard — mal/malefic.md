@@ -5,13 +5,6 @@ status: unread
 ---
 # malefic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or exerting a malignant influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or exerting a malignant influence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"As she was supposed to exercise malefic influence on any man who might inadvertently glance at her, she had to wear a sort of head-dress combining in itself the purposes of a veil, a bonnet, and a mantlet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or exerting a malignant influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or exerting a malignant influence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"As she was supposed to exercise malefic influence on any man who might inadvertently glance at her, she had to wear a sort of head-dress combining in itself the purposes of a veil, a bonnet, and a mantlet."*

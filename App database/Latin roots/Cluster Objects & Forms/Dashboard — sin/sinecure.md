@@ -5,15 +5,6 @@ status: unread
 ---
 # sinecure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A benefice to which no spiritual or pastoral duties are attached.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An office that involves minimal duties.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"By some writers this office is called a sinecure."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"By some writers this office is called a sinecure."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Miss Briggs was not formally dismissed, but her place as companion was a sinecure and a derision; and her company was the fat spaniel in the drawing-room, or occasionally the discontented Firkin in the housekeeper's closet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benefice to which no spiritual or pastoral duties are attached.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An office that involves minimal duties.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"By some writers this office is called a sinecure."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"By some writers this office is called a sinecure."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Miss Briggs was not formally dismissed, but her place as companion was a sinecure and a derision; and her company was the fat spaniel in the drawing-room, or occasionally the discontented Firkin in the housekeeper's closet."*

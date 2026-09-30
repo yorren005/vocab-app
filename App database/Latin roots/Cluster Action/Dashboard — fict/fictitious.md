@@ -5,15 +5,6 @@ status: unread
 ---
 # fictitious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed or conceived by the imagination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adopted in order to deceive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The gamblers constitute themselves a little fictitious economic circle, and they transfer gains and losses on the turn of events that have no practical objective result within their circle except to determine the direction of the transfer."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"When he speaks of the lost sheep, it is not a fictitious joy that he describes or an imaginary one; it is real."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Henry James, delineating a fictitious writer clearly intended to be the ideal of an artist, makes him regret that he has sometimes allowed himself to take the second-best word instead of searching for the best."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed or conceived by the imagination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adopted in order to deceive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The gamblers constitute themselves a little fictitious economic circle, and they transfer gains and losses on the turn of events that have no practical objective result within their circle except to determine the direction of the transfer."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"When he speaks of the lost sheep, it is not a fictitious joy that he describes or an imaginary one; it is real."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Henry James, delineating a fictitious writer clearly intended to be the ideal of an artist, makes him regret that he has sometimes allowed himself to take the second-best word instead of searching for the best."*

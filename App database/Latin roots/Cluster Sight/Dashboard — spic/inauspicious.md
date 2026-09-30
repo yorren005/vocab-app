@@ -5,15 +5,6 @@ status: unread
 ---
 # inauspicious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not auspicious; boding ill.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contrary to your interests or welfare.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, here Will I set up my everlasting rest; And shake the yoke of inauspicious stars From this world-wearied flesh."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is not to be wondered at, that a government instituted in times so inauspicious, should on experiment be found greatly deficient and inadequate to the purpose it was intended to answer."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"As he drew near, I remembered with many misgivings the inauspicious termination of our former interview, and when he entered the house, I watched with intense anxiety the reception he met with from its inmates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not auspicious; boding ill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contrary to your interests or welfare.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, here Will I set up my everlasting rest; And shake the yoke of inauspicious stars From this world-wearied flesh."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is not to be wondered at, that a government instituted in times so inauspicious, should on experiment be found greatly deficient and inadequate to the purpose it was intended to answer."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"As he drew near, I remembered with many misgivings the inauspicious termination of our former interview, and when he entered the house, I watched with intense anxiety the reception he met with from its inmates."*

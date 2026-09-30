@@ -5,15 +5,6 @@ status: unread
 ---
 # pageant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elaborate representation of scenes from history etc; usually involves a parade with rich costumes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rich and spectacular ceremony.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will see a pageant truly played Between the pale complexion of true love And the red glow of scorn and proud disdain, Go hence a little, and I shall conduct you, If you will mark it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were I a man, a duke, and next of blood, I would remove these tedious stumbling-blocks And smooth my way upon their headless necks; And, being a woman, I will not be slack To play my part in Fortune’s pageant.— Where are you there?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The very all of all is—but, sweet heart, I do implore secrecy—that the King would have me present the Princess, sweet chuck, with some delightful ostentation, or show, or pageant, or antic, or firework."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elaborate representation of scenes from history etc; usually involves a parade with rich costumes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rich and spectacular ceremony.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will see a pageant truly played Between the pale complexion of true love And the red glow of scorn and proud disdain, Go hence a little, and I shall conduct you, If you will mark it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were I a man, a duke, and next of blood, I would remove these tedious stumbling-blocks And smooth my way upon their headless necks; And, being a woman, I will not be slack To play my part in Fortune’s pageant.— Where are you there?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The very all of all is—but, sweet heart, I do implore secrecy—that the King would have me present the Princess, sweet chuck, with some delightful ostentation, or show, or pageant, or antic, or firework."*

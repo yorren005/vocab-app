@@ -5,13 +5,6 @@ status: unread
 ---
 # underarm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With hand brought forward and up from below shoulder level.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With the hand swung below shoulder level.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Don't know how many shots it holds and we need them all." She swung with that underarm motion which is the nearest any woman can achieve to a throw."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With hand brought forward and up from below shoulder level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With the hand swung below shoulder level.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Don't know how many shots it holds and we need them all." She swung with that underarm motion which is the nearest any woman can achieve to a throw."*

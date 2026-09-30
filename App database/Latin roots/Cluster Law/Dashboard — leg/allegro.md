@@ -5,15 +5,6 @@ status: unread
 ---
 # allegro
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brisk and lively tempo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical composition or musical passage to be performed quickly in a brisk lively manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth of course belongs to the_ allegro _or_ allegra _division of the army of Venus."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It appears that she was formerly a _danseuse_ at the Allegro, and that she has known the bridegroom for some years."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"She used to be at the Allegro."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brisk and lively tempo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical composition or musical passage to be performed quickly in a brisk lively manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth of course belongs to the_ allegro _or_ allegra _division of the army of Venus."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It appears that she was formerly a _danseuse_ at the Allegro, and that she has known the bridegroom for some years."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"She used to be at the Allegro."*

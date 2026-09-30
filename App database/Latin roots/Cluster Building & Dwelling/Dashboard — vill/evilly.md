@@ -5,15 +5,6 @@ status: unread
 ---
 # evilly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a wicked evil manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a wicked evil manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O monument And wonder of good deeds evilly bestowed!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The figure that now stood by its bows was tall and swart, with one white tooth evilly protruding from its steel-like lips."*
-> - 📜 **Anonymous (*The Story of Gunnlaug the Worm-Tongue and Raven the Skald*):** *"But Helga thought evilly of all these redes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a wicked evil manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a wicked evil manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O monument And wonder of good deeds evilly bestowed!"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The figure that now stood by its bows was tall and swart, with one white tooth evilly protruding from its steel-like lips."*
+> - 📜 **Anonymous (*The Story of Gunnlaug the Worm-Tongue and Raven the Skald*):** *"But Helga thought evilly of all these redes."*

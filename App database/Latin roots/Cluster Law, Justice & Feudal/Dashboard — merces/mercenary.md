@@ -5,15 +5,6 @@ status: unread
 ---
 # mercenary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person hired to fight for another country than their own.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by materialism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is well paid that is well satisfied, And I delivering you, am satisfied, And therein do account myself well paid, My mind was never yet more mercenary."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The more spirit there is in it, the better for mankind and the worse for those mercenary task-masters and low tricksters who delight in putting that illustrious art at a disadvantage in the world."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Mercenary creatures ask, ‘What is the use of a man’s going to the North Pole?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person hired to fight for another country than their own.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by materialism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is well paid that is well satisfied, And I delivering you, am satisfied, And therein do account myself well paid, My mind was never yet more mercenary."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The more spirit there is in it, the better for mankind and the worse for those mercenary task-masters and low tricksters who delight in putting that illustrious art at a disadvantage in the world."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mercenary creatures ask, ‘What is the use of a man’s going to the North Pole?"*

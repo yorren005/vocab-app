@@ -5,13 +5,6 @@ status: unread
 ---
 # domesticize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Overcome the wildness of; make docile and tractable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overcome the wildness of; make docile and tractable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, domesticize designates overcome the wildness of; make docile and tractable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Overcome the wildness of; make docile and tractable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overcome the wildness of; make docile and tractable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, domesticize designates overcome the wildness of; make docile and tractable."*

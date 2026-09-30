@@ -5,15 +5,6 @@ status: unread
 ---
 # theological
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or concerning theology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or concerning theology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I used to be quite up in that scene of Milton’s when I was theological."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"It was by no means so common in those days as it has since become for a Scottish theological student to attend a German University."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"With the completion of this task he seemed to be free to return to his theological work, and he did return to it; but his release turned out to be only a brief respite."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or concerning theology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or concerning theology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I used to be quite up in that scene of Milton’s when I was theological."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"It was by no means so common in those days as it has since become for a Scottish theological student to attend a German University."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"With the completion of this task he seemed to be free to return to his theological work, and he did return to it; but his release turned out to be only a brief respite."*

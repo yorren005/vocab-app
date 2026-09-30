@@ -5,13 +5,6 @@ status: unread
 ---
 # carboloy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alloy based on tungsten with cobalt or nickel as a binder; used in making metal-cutting tools.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alloy based on tungsten with cobalt or nickel as a binder; used in making metal-cutting tools.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carboloy designates an alloy based on tungsten with cobalt or nickel as a binder; used in making metal-cutting tools."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alloy based on tungsten with cobalt or nickel as a binder; used in making metal-cutting tools.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alloy based on tungsten with cobalt or nickel as a binder; used in making metal-cutting tools.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carboloy designates an alloy based on tungsten with cobalt or nickel as a binder; used in making metal-cutting tools."*

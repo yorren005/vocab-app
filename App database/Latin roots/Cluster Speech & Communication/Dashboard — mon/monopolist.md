@@ -5,15 +5,6 @@ status: unread
 ---
 # monopolist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who monopolizes the means of producing or selling something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who monopolizes the means of producing or selling something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In this case the privilege is socially earned by the monopolist; it is not gotten for nothing."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Nor is a land-owner a monopolist any more than is the owner of a valuable machine."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The owner of forty acres of land worth four hundred dollars, or the owner of a village lot worth a hundred dollars, can hardly be called a monopolist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who monopolizes the means of producing or selling something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who monopolizes the means of producing or selling something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In this case the privilege is socially earned by the monopolist; it is not gotten for nothing."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Nor is a land-owner a monopolist any more than is the owner of a valuable machine."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The owner of forty acres of land worth four hundred dollars, or the owner of a village lot worth a hundred dollars, can hardly be called a monopolist."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # halictidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small solitary bees; many are valuable pollinators for agriculture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of small solitary bees; many are valuable pollinators for agriculture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halictidae designates a family of small solitary bees; many are valuable pollinators for agriculture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small solitary bees; many are valuable pollinators for agriculture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of small solitary bees; many are valuable pollinators for agriculture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halictidae designates a family of small solitary bees; many are valuable pollinators for agriculture."*

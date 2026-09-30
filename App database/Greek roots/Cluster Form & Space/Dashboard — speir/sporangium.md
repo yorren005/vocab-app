@@ -5,15 +5,6 @@ status: unread
 ---
 # sporangium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure within which spores are produced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure within which spores are produced.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"In the hazel mildew, for instance, there are two spores in each _sporangium_; in the willow mildew four; in the maple mildew eight; in the grass mildew, and some others, numerous."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The conceptacle in this species is minute, and contains but one sporangium, which is one of the characters of the genus in which it is now included, and a more justifiable distinction than the ramifications of the appendages."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The sporangium contains eight ovate spores."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure within which spores are produced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure within which spores are produced.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"In the hazel mildew, for instance, there are two spores in each _sporangium_; in the willow mildew four; in the maple mildew eight; in the grass mildew, and some others, numerous."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The conceptacle in this species is minute, and contains but one sporangium, which is one of the characters of the genus in which it is now included, and a more justifiable distinction than the ramifications of the appendages."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The sporangium contains eight ovate spores."*

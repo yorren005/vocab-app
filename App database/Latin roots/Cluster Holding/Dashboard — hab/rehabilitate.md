@@ -5,14 +5,6 @@ status: unread
 ---
 # rehabilitate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Help to readapt, as to a former state of health or good repute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reinstall politically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Since Kurt had made his little speech and had rehabilitated Loneli's honour before the school children, the grandmother was as kind to her as of yore and never mentioned the shame-bench again."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We were relieved of military government, became rehabilitated in our sovereignty, with entire control of our local autonomy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Help to readapt, as to a former state of health or good repute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reinstall politically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Since Kurt had made his little speech and had rehabilitated Loneli's honour before the school children, the grandmother was as kind to her as of yore and never mentioned the shame-bench again."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We were relieved of military government, became rehabilitated in our sovereignty, with entire control of our local autonomy."*

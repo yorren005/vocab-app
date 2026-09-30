@@ -5,13 +5,6 @@ status: unread
 ---
 # trilogy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of three dramas or literary works or sometimes three musical compositions that are closely related and develop a single theme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A series of three dramas or literary works or sometimes three musical compositions that are closely related and develop a single theme.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trilogy designates a series of three dramas or literary works or sometimes three musical compositions that are closely related and develop a single theme."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of three dramas or literary works or sometimes three musical compositions that are closely related and develop a single theme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A series of three dramas or literary works or sometimes three musical compositions that are closely related and develop a single theme.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trilogy designates a series of three dramas or literary works or sometimes three musical compositions that are closely related and develop a single theme."*

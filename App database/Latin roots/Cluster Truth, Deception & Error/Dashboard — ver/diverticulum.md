@@ -5,13 +5,6 @@ status: unread
 ---
 # diverticulum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A herniation through the muscular wall of a tubular organ (especially the colon).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A herniation through the muscular wall of a tubular organ (especially the colon).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diverticulum designates a herniation through the muscular wall of a tubular organ (especially the colon)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A herniation through the muscular wall of a tubular organ (especially the colon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A herniation through the muscular wall of a tubular organ (especially the colon).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diverticulum designates a herniation through the muscular wall of a tubular organ (especially the colon)."*

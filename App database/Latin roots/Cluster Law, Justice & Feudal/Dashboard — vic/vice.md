@@ -5,15 +5,6 @@ status: unread
 ---
 # vice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moral weakness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific form of evildoing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So thou be good, slander doth but approve, Thy worth the greater being wooed of time, For canker vice the sweetest buds doth love, And thou present’st a pure unstained prime."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You may see, Lepidus, and henceforth know, It is not Caesar’s natural vice to hate Our great competitor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What he cannot help in his nature you account a vice in him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moral weakness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific form of evildoing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So thou be good, slander doth but approve, Thy worth the greater being wooed of time, For canker vice the sweetest buds doth love, And thou present’st a pure unstained prime."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You may see, Lepidus, and henceforth know, It is not Caesar’s natural vice to hate Our great competitor."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What he cannot help in his nature you account a vice in him."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # primal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as an essential component.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having existed from the beginning; in an earliest or original stage or state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It hath been taught us from the primal state That he which is was wished until he were, And the ebbed man, ne’er loved till ne’er worth love, Comes deared by being lacked."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thanks, dear my lord. [_Exit Polonius._] O, my offence is rank, it smells to heaven; It hath the primal eldest curse upon’t,— A brother’s murder!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A man who has spent his primal strength in journeying in one direction has not much spirit left for reversing his course."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as an essential component.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having existed from the beginning; in an earliest or original stage or state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It hath been taught us from the primal state That he which is was wished until he were, And the ebbed man, ne’er loved till ne’er worth love, Comes deared by being lacked."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thanks, dear my lord. [_Exit Polonius._] O, my offence is rank, it smells to heaven; It hath the primal eldest curse upon’t,— A brother’s murder!"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A man who has spent his primal strength in journeying in one direction has not much spirit left for reversing his course."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # astrologer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who predicts the future by the positions of the planets and sun and moon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who predicts the future by the positions of the planets and sun and moon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"He returned and presented the shuttle to the noted astrologer Chun Ping, informing him at the same time where, when and from whom he had received it."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Then "such a planet in such a house shows great machinations, plots, and conspiracies, that may in time be brought to light:" after which, if we hear of any discovery, the astrologer gets the honour; if not, his prediction still stands good."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"The astrologer pointing to the little coffin, our squire understood the hint, and deposited another shilling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who predicts the future by the positions of the planets and sun and moon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who predicts the future by the positions of the planets and sun and moon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"He returned and presented the shuttle to the noted astrologer Chun Ping, informing him at the same time where, when and from whom he had received it."*
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Then "such a planet in such a house shows great machinations, plots, and conspiracies, that may in time be brought to light:" after which, if we hear of any discovery, the astrologer gets the honour; if not, his prediction still stands good."*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"The astrologer pointing to the little coffin, our squire understood the hint, and deposited another shilling."*

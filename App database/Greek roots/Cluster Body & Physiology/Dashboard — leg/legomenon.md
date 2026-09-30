@@ -5,13 +5,6 @@ status: unread
 ---
 # legomenon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word or form occurring only once in a document or corpus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word or form occurring only once in a document or corpus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, legomenon designates a word or form occurring only once in a document or corpus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word or form occurring only once in a document or corpus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word or form occurring only once in a document or corpus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, legomenon designates a word or form occurring only once in a document or corpus."*

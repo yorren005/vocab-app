@@ -5,13 +5,6 @@ status: unread
 ---
 # stainability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (cytology) the capacity of cells or cell parts to stain specifically with certain dyes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (cytology) the capacity of cells or cell parts to stain specifically with certain dyes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stainability designates (cytology) the capacity of cells or cell parts to stain specifically with certain dyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (cytology) the capacity of cells or cell parts to stain specifically with certain dyes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (cytology) the capacity of cells or cell parts to stain specifically with certain dyes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stainability designates (cytology) the capacity of cells or cell parts to stain specifically with certain dyes."*

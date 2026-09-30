@@ -5,13 +5,6 @@ status: unread
 ---
 # geomancer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who practices geomancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who practices geomancy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The geomancer and his assistants stand on the side of the grave which is turned away from the sun; and the grave-diggers and coffin-bearers attach their shadows firmly to their persons by tying a strip of cloth tightly round their waists."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who practices geomancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who practices geomancy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The geomancer and his assistants stand on the side of the grave which is turned away from the sun; and the grave-diggers and coffin-bearers attach their shadows firmly to their persons by tying a strip of cloth tightly round their waists."*

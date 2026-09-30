@@ -5,15 +5,6 @@ status: unread
 ---
 # spend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass time in a specific way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pay out.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if thou live remembered not to be, Die single and thine image dies with thee. 4 Unthrifty loveliness why dost thou spend, Upon thyself thy beauty’s legacy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have no precious time at all to spend; Nor services to do till you require."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spend’st thou thy fury on some worthless song, Darkening thy power to lend base subjects light?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass time in a specific way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pay out.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if thou live remembered not to be, Die single and thine image dies with thee. 4 Unthrifty loveliness why dost thou spend, Upon thyself thy beauty’s legacy?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have no precious time at all to spend; Nor services to do till you require."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spend’st thou thy fury on some worthless song, Darkening thy power to lend base subjects light?"*

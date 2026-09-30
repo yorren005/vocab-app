@@ -5,13 +5,6 @@ status: unread
 ---
 # spiccato
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bowing in such a way that the bow bounces lightly off the strings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bowing in such a way that the bow bounces lightly off the strings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spiccato designates bowing in such a way that the bow bounces lightly off the strings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bowing in such a way that the bow bounces lightly off the strings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bowing in such a way that the bow bounces lightly off the strings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spiccato designates bowing in such a way that the bow bounces lightly off the strings."*

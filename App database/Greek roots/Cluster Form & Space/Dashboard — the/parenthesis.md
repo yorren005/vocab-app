@@ -5,15 +5,6 @@ status: unread
 ---
 # parenthesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amplifying or explanatory word, phrase, or sentence inserted in a passage from which it is usually set off by punctuation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A remark or passage that departs from the theme of a discourse : digression.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Aye, aye!” and opened and read it with evident pleasure, announcing to us in a parenthesis when he was about half-way through, that Boythorn was “coming down” on a visit."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"SCENA III. _Enter_ Charles. _Char._ What a noise is in this house? my head is broken, within a Parenthesis, in every corner, as if the Earth were shaken with some strange Collect, there are stirs and motions."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"The words "within a Parenthesis" are omitted in the MS. but ("my head is broken") is in parentheses in MS."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An amplifying or explanatory word, phrase, or sentence inserted in a passage from which it is usually set off by punctuation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A remark or passage that departs from the theme of a discourse : digression.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Aye, aye!” and opened and read it with evident pleasure, announcing to us in a parenthesis when he was about half-way through, that Boythorn was “coming down” on a visit."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"SCENA III. _Enter_ Charles. _Char._ What a noise is in this house? my head is broken, within a Parenthesis, in every corner, as if the Earth were shaken with some strange Collect, there are stirs and motions."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"The words "within a Parenthesis" are omitted in the MS. but ("my head is broken") is in parentheses in MS."*

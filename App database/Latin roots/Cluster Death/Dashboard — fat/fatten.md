@@ -5,15 +5,6 @@ status: unread
 ---
 # fatten
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make fat or plump.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make fat or plump.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Why Deer, Those that men fatten for their private pleasures, And let their tenants starve upon the Commons. _Char_."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I'll have to catch a dozen or so young pullets and roosters and coop them up to fatten."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"And what then? to-morrow we, too, one and all, Die, to fatten these ravenous carrion birds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make fat or plump.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make fat or plump.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Why Deer, Those that men fatten for their private pleasures, And let their tenants starve upon the Commons. _Char_."*
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I'll have to catch a dozen or so young pullets and roosters and coop them up to fatten."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"And what then? to-morrow we, too, one and all, Die, to fatten these ravenous carrion birds."*

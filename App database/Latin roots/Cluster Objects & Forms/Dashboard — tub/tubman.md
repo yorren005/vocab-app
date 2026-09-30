@@ -5,13 +5,6 @@ status: unread
 ---
 # tubman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states abolitionist born a slave on a plantation in maryland and became a famous conductor on the underground railroad leading other slaves to freedom in the north (1820-1913).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states abolitionist born a slave on a plantation in maryland and became a famous conductor on the underground railroad leading other slaves to freedom in the north (1820-1913).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tubman designates united states abolitionist born a slave on a plantation in maryland and became a famous conductor on the underground railroad leading other slaves to freedom in the north (1820-1913)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states abolitionist born a slave on a plantation in maryland and became a famous conductor on the underground railroad leading other slaves to freedom in the north (1820-1913).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states abolitionist born a slave on a plantation in maryland and became a famous conductor on the underground railroad leading other slaves to freedom in the north (1820-1913).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tubman designates united states abolitionist born a slave on a plantation in maryland and became a famous conductor on the underground railroad leading other slaves to freedom in the north (1820-1913)."*

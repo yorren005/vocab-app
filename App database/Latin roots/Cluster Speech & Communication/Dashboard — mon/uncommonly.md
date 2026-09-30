@@ -5,15 +5,6 @@ status: unread
 ---
 # uncommonly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceptionally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exceptionally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I scarcely knew him again, he was so uncommonly smart."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Yet Charley was uncommonly expert at other things and had as nimble little fingers as I ever watched."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Caddy, while she was observant of her husband and was evidently founded upon him, had acquired a grace and self-possession of her own, which, united to her pretty face and figure, was uncommonly agreeable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceptionally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exceptionally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I scarcely knew him again, he was so uncommonly smart."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Yet Charley was uncommonly expert at other things and had as nimble little fingers as I ever watched."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Caddy, while she was observant of her husband and was evidently founded upon him, had acquired a grace and self-possession of her own, which, united to her pretty face and figure, was uncommonly agreeable."*

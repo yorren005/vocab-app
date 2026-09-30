@@ -5,13 +5,6 @@ status: unread
 ---
 # theorem
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formula, proposition, or statement in mathematics or logic deduced or to be deduced from other formulas or propositions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An idea accepted or proposed as a demonstrable truth often as a part of a general theory : proposition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theorem designates a formula, proposition, or statement in mathematics or logic deduced or to be deduced from other formulas or propositions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formula, proposition, or statement in mathematics or logic deduced or to be deduced from other formulas or propositions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An idea accepted or proposed as a demonstrable truth often as a part of a general theory : proposition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theorem designates a formula, proposition, or statement in mathematics or logic deduced or to be deduced from other formulas or propositions."*

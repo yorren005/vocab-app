@@ -5,15 +5,6 @@ status: unread
 ---
 # testament
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A profession of belief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A legal document declaring a person's wishes regarding the disposal of their property when they die.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of six preceding ancestors, that gem Conferr’d by testament to th’ sequent issue, Hath it been owed and worn."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore allow me such exercises as may become a gentleman, or give me the poor allottery my father left me by testament; with that I will go buy my fortunes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, go, cheer up thy hungry-starved men; Help Salisbury to make his testament."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A profession of belief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A legal document declaring a person's wishes regarding the disposal of their property when they die.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of six preceding ancestors, that gem Conferr’d by testament to th’ sequent issue, Hath it been owed and worn."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore allow me such exercises as may become a gentleman, or give me the poor allottery my father left me by testament; with that I will go buy my fortunes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, go, cheer up thy hungry-starved men; Help Salisbury to make his testament."*

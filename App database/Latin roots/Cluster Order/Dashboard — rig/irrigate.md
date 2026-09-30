@@ -5,15 +5,6 @@ status: unread
 ---
 # irrigate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supply with water, as with channels or ditches or streams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply with a constant flow or sprinkling of some liquid, for the purpose of cooling, cleansing, or disinfecting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Thus it will be seen that abundant fall is obtainable to irrigate all the lands adjacent."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She soon rose from table, and, with an impression that Clare would soon follow her, went along a little wriggling path, now stepping to one side of the irrigating channels, and now to the other, till she stood by the main stream of the Var."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The irrigating system had broken down, or water was scant, or more frequently the cutting-off of the opium crop had driven the people from their homes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Supply with water, as with channels or ditches or streams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply with a constant flow or sprinkling of some liquid, for the purpose of cooling, cleansing, or disinfecting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Thus it will be seen that abundant fall is obtainable to irrigate all the lands adjacent."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She soon rose from table, and, with an impression that Clare would soon follow her, went along a little wriggling path, now stepping to one side of the irrigating channels, and now to the other, till she stood by the main stream of the Var."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The irrigating system had broken down, or water was scant, or more frequently the cutting-off of the opium crop had driven the people from their homes."*

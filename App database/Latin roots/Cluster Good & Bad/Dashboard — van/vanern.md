@@ -5,13 +5,6 @@ status: unread
 ---
 # vanern
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lake in southwestern sweden; the largest lake in sweden.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lake in southwestern sweden; the largest lake in sweden.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vanern designates a lake in southwestern sweden; the largest lake in sweden."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lake in southwestern sweden; the largest lake in sweden.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lake in southwestern sweden; the largest lake in sweden.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vanern designates a lake in southwestern sweden; the largest lake in sweden."*

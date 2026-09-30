@@ -5,15 +5,6 @@ status: unread
 ---
 # nihil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (latin) nil; nothing (as used by a sheriff after an unsuccessful effort to serve a writ).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (latin) nil; nothing (as used by a sheriff after an unsuccessful effort to serve a writ).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PISTOL. ’Tis _semper idem_, for _obsque hoc nihil est;_ ’tis all in every part."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Marc._ iv, 17, _nihil impudentius si ille nos sibi filio faciet qui nobis filios facere non permisit aufercndo conubium_. [61] de Rossi, cited by Harnack, _Expansion_, i, 208 n. [62] Romans 1, 14. [63] See p. 241; and cf."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Marc._ iii, i, _atquin nihil putem a deo subitum quia nihil a deo non dispositum_. [44] vii, 13, _skataophagein_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (latin) nil; nothing (as used by a sheriff after an unsuccessful effort to serve a writ).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (latin) nil; nothing (as used by a sheriff after an unsuccessful effort to serve a writ).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PISTOL. ’Tis _semper idem_, for _obsque hoc nihil est;_ ’tis all in every part."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Marc._ iv, 17, _nihil impudentius si ille nos sibi filio faciet qui nobis filios facere non permisit aufercndo conubium_. [61] de Rossi, cited by Harnack, _Expansion_, i, 208 n. [62] Romans 1, 14. [63] See p. 241; and cf."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Marc._ iii, i, _atquin nihil putem a deo subitum quia nihil a deo non dispositum_. [44] vii, 13, _skataophagein_."*

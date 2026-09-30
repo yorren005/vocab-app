@@ -5,15 +5,6 @@ status: unread
 ---
 # planting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of fixing firmly in place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collection of plants (trees or shrubs or flowers) in a particular area.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What have you been doing?” “Tending thrashing-machine and wimbling haybonds, and saying ‘Hoosh!’ to the cocks and hens when they go upon your seeds, and planting Early Flourballs and Thompson’s Wonderfuls with a dibble.” “Yes—I see."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The planting of flowers on Fanny’s grave had been perhaps but a species of elusion of the primary grief, and now it was as if his intention had been known and circumvented."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whilst Oak was doing as she desired, Bathsheba collected the flowers, and began planting them with that sympathetic manipulation of roots and leaves which is so conspicuous in a woman’s gardening, and which flowers seem to understand and thrive upon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of fixing firmly in place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collection of plants (trees or shrubs or flowers) in a particular area.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What have you been doing?” “Tending thrashing-machine and wimbling haybonds, and saying ‘Hoosh!’ to the cocks and hens when they go upon your seeds, and planting Early Flourballs and Thompson’s Wonderfuls with a dibble.” “Yes—I see."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The planting of flowers on Fanny’s grave had been perhaps but a species of elusion of the primary grief, and now it was as if his intention had been known and circumvented."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whilst Oak was doing as she desired, Bathsheba collected the flowers, and began planting them with that sympathetic manipulation of roots and leaves which is so conspicuous in a woman’s gardening, and which flowers seem to understand and thrive upon."*

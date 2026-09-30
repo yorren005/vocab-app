@@ -5,15 +5,6 @@ status: unread
 ---
 # servitude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State of subjection to an owner or master or forced labor imposed as punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State of subjection to an owner or master or forced labor imposed as punishment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is it, Adam, that grieves me, and the spirit of my father, which I think is within me, begins to mutiny against this servitude."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This servitude makes you to keep unwed."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"But I did not love my servitude: I wished, many a time, he had continued to neglect me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: State of subjection to an owner or master or forced labor imposed as punishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State of subjection to an owner or master or forced labor imposed as punishment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is it, Adam, that grieves me, and the spirit of my father, which I think is within me, begins to mutiny against this servitude."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This servitude makes you to keep unwed."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"But I did not love my servitude: I wished, many a time, he had continued to neglect me."*

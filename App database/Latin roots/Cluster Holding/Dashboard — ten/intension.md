@@ -5,13 +5,6 @@ status: unread
 ---
 # intension
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: What you must know in order to determine the reference of an expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: What you must know in order to determine the reference of an expression.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intension designates what you must know in order to determine the reference of an expression."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: What you must know in order to determine the reference of an expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: What you must know in order to determine the reference of an expression.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intension designates what you must know in order to determine the reference of an expression."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hysteron proteron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech consisting of the reversal of a natural or rational order (as in "then came the thunder and the lightning").
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A figure of speech consisting of the reversal of a natural or rational order (as in "then came the thunder and the lightning").
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hysteron proteron designates a figure of speech consisting of the reversal of a natural or rational order (as in "then came the thunder and the lightning")."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech consisting of the reversal of a natural or rational order (as in "then came the thunder and the lightning").
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A figure of speech consisting of the reversal of a natural or rational order (as in "then came the thunder and the lightning").
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hysteron proteron designates a figure of speech consisting of the reversal of a natural or rational order (as in "then came the thunder and the lightning")."*

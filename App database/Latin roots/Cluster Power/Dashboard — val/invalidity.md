@@ -5,15 +5,6 @@ status: unread
 ---
 # invalidity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Illogicality as a consequence of having a conclusion that does not follow from the premisses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Illogicality as a consequence of having a conclusion that does not follow from the premisses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The premium in personal insurance (life, accident, sickness, invalidity, old age pensions) is in almost all cases paid out of some current income."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Old-age and invalidity pensions. § 12."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Likewise, those who are disabled in consequence _of_ old age, or invalidity, possess a well-founded claim to more relief on the part of the state than they have hitherto enjoyed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Illogicality as a consequence of having a conclusion that does not follow from the premisses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Illogicality as a consequence of having a conclusion that does not follow from the premisses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The premium in personal insurance (life, accident, sickness, invalidity, old age pensions) is in almost all cases paid out of some current income."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Old-age and invalidity pensions. § 12."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Likewise, those who are disabled in consequence _of_ old age, or invalidity, possess a well-founded claim to more relief on the part of the state than they have hitherto enjoyed."*

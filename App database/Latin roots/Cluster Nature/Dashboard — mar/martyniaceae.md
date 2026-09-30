@@ -5,13 +5,6 @@ status: unread
 ---
 # martyniaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In most classifications not considered a separate family but included in the pedaliaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In most classifications not considered a separate family but included in the pedaliaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, martyniaceae designates in most classifications not considered a separate family but included in the pedaliaceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In most classifications not considered a separate family but included in the pedaliaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In most classifications not considered a separate family but included in the pedaliaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, martyniaceae designates in most classifications not considered a separate family but included in the pedaliaceae."*

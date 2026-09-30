@@ -5,13 +5,6 @@ status: unread
 ---
 # monogenesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Asexual reproduction by the production and release of spores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Asexual reproduction by the production and release of spores.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monogenesis designates asexual reproduction by the production and release of spores."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Asexual reproduction by the production and release of spores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Asexual reproduction by the production and release of spores.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monogenesis designates asexual reproduction by the production and release of spores."*

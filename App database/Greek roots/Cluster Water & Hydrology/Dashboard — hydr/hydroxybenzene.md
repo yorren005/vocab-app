@@ -5,13 +5,6 @@ status: unread
 ---
 # hydroxybenzene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic white soluble crystalline acidic derivative of benzene; used in manufacturing and as a disinfectant and antiseptic; poisonous if taken internally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toxic white soluble crystalline acidic derivative of benzene; used in manufacturing and as a disinfectant and antiseptic; poisonous if taken internally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxybenzene designates a toxic white soluble crystalline acidic derivative of benzene; used in manufacturing and as a disinfectant and antiseptic; poisonous if taken internally."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic white soluble crystalline acidic derivative of benzene; used in manufacturing and as a disinfectant and antiseptic; poisonous if taken internally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toxic white soluble crystalline acidic derivative of benzene; used in manufacturing and as a disinfectant and antiseptic; poisonous if taken internally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxybenzene designates a toxic white soluble crystalline acidic derivative of benzene; used in manufacturing and as a disinfectant and antiseptic; poisonous if taken internally."*

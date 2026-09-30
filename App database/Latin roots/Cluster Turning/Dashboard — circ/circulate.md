@@ -5,15 +5,6 @@ status: unread
 ---
 # circulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become widely known and passed on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to become widely known.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These substitutes for, or supplements to, money enable each dollar to do more work, to circulate more rapidly."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To them the fact that paper money may circulate for a time at par appears a reason why it always should."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Bank notes _are_ money, and so long as their amount is limited by prompt redemption they circulate _instead of_ so much of other kinds of money."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become widely known and passed on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to become widely known.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These substitutes for, or supplements to, money enable each dollar to do more work, to circulate more rapidly."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To them the fact that paper money may circulate for a time at par appears a reason why it always should."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Bank notes _are_ money, and so long as their amount is limited by prompt redemption they circulate _instead of_ so much of other kinds of money."*

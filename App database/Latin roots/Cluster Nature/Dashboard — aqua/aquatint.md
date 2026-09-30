@@ -5,13 +5,6 @@ status: unread
 ---
 # aquatint
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An etching made by a process that makes it resemble a water color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of etching that imitates the broad washes of a water color.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aquatint designates an etching made by a process that makes it resemble a water color."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An etching made by a process that makes it resemble a water color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of etching that imitates the broad washes of a water color.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aquatint designates an etching made by a process that makes it resemble a water color."*

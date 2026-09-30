@@ -5,13 +5,6 @@ status: unread
 ---
 # vacuum-clean
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clean with a vacuum cleaner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clean with a vacuum cleaner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vacuum-clean designates clean with a vacuum cleaner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clean with a vacuum cleaner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clean with a vacuum cleaner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vacuum-clean designates clean with a vacuum cleaner."*

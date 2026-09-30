@@ -5,13 +5,6 @@ status: unread
 ---
 # invalidated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare invalid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make invalid for use.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This conclusion cannot be invalidated by alleging that the State in which the experiment was made was at that crisis, and had been for a long time before, violently heated and distracted by the rage of party."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare invalid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make invalid for use.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This conclusion cannot be invalidated by alleging that the State in which the experiment was made was at that crisis, and had been for a long time before, violently heated and distracted by the rage of party."*

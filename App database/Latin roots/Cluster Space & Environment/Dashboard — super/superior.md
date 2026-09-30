@@ -5,15 +5,6 @@ status: unread
 ---
 # superior
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of greater rank or station or quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The head of a religious community.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The general’s disdain’d By him one step below, he by the next, That next by him beneath; so every step, Exampl’d by the first pace that is sick Of his superior, grows to an envious fever Of pale and bloodless emulation."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You can be reassured, for we have thought of that, too," the visitor said with a slightly superior smile."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A very superior gentleman, Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of greater rank or station or quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The head of a religious community.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The general’s disdain’d By him one step below, he by the next, That next by him beneath; so every step, Exampl’d by the first pace that is sick Of his superior, grows to an envious fever Of pale and bloodless emulation."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You can be reassured, for we have thought of that, too," the visitor said with a slightly superior smile."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A very superior gentleman, Mr."*

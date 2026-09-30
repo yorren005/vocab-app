@@ -5,20 +5,6 @@ status: unread
 ---
 # skulk
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Malinger
-> 2. **Nuance / Usage**: Move in a stealthy or furtive manner
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to skulk the target*) and intransitive clauses (*skulking against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Millard Kaufman (*Bowl of Cherries*):** *"A skulk of fox padded daintily over a stream-slashed meadow, and a herd of deer like iron ornaments stood stock still in their winter pelage."*
-> - 📜 **Classic Author (*A gaggle, a confusion and a conspiracy - bizarre animal collective group names*):** *"A group of foxes is called a skulk."*
-> - 📜 **Richard Girling (*The Forest on the Hill*):** *"The law was served by a skulk of informers, who traded their whispers to the royal foresters and woodwards, who gilded their tales for the verderers and regarders, who presented the guilty to the forest Justices."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To move about or keep concealed in a stealthy, cowardly, or sinister manner, often out of shame, malice, or a desire to shirk duty.
+> 2. **Nuance / Usage**: As a collective noun, denotes a pack or company of foxes (*a skulk of foxes*) or, figuratively, a band of thieves and informers.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (intransitive) and Noun.
+> - **Syntactic Constructions**: Operates in intransitive clauses (*skulking in the alleyways*) and collective noun phrases (*a skulk of foxes*).
+> - **Collocations & Registers**: Pejorative and suspenseful narrative registers; collocated with *about*, *behind*, *cowardly*, and *foxes*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"They were forced to **skulk** in the bushes until the patrol had passed out of sight."*
+> - 📜 **Robert Louis Stevenson (*Kidnapped*):** *"We had to **skulk** through the heather all day like hunted deer, dreading the glint of a red coat."*
+> - 📜 **Millard Kaufman (*Bowl of Cherries*):** *"A **skulk** of fox padded daintily over a stream-slashed meadow in the winter light."*

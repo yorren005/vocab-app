@@ -5,15 +5,6 @@ status: unread
 ---
 # considerately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a considerate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a considerate manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Nothing of the kind.” “Then she had better go.” “Excuse me, my Lady,” Sir Leicester considerately interposes, “but perhaps this may be doing an injury to the young woman which she has not merited."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The men who sat nearest considerately turned their faces towards the other end of the field, some of them beginning to smoke; one, with absent-minded fondness, regretfully stroking the jar that would no longer yield a stream."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"She gave advice, advice too sound to be resisted by a good understanding, and given so mildly and considerately as not to irritate an imperfect temper, and she had the happiness of observing its good effects not unfrequently."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a considerate manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a considerate manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Nothing of the kind.” “Then she had better go.” “Excuse me, my Lady,” Sir Leicester considerately interposes, “but perhaps this may be doing an injury to the young woman which she has not merited."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The men who sat nearest considerately turned their faces towards the other end of the field, some of them beginning to smoke; one, with absent-minded fondness, regretfully stroking the jar that would no longer yield a stream."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"She gave advice, advice too sound to be resisted by a good understanding, and given so mildly and considerately as not to irritate an imperfect temper, and she had the happiness of observing its good effects not unfrequently."*

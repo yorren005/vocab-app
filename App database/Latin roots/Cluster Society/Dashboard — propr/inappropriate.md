@@ -5,15 +5,6 @@ status: unread
 ---
 # inappropriate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suitable for a particular occasion etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in keeping with what is correct or proper.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"In any case, it has been pointed out, the word adds nothing to the number of our facts; nor is it quite clear yet that it eliminates God from the story any more than the term "digestion" makes it inappropriate to say Grace before meat."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I had begun to be always decorating the chambers in some quite unnecessary and inappropriate way or other, and very expensive those wrestles with Barnard proved to be."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The provision made by the Medical Bureau of the Government at this time for the care and comfort of the wounded and fever-stricken was small and often inappropriate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suitable for a particular occasion etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in keeping with what is correct or proper.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"In any case, it has been pointed out, the word adds nothing to the number of our facts; nor is it quite clear yet that it eliminates God from the story any more than the term "digestion" makes it inappropriate to say Grace before meat."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I had begun to be always decorating the chambers in some quite unnecessary and inappropriate way or other, and very expensive those wrestles with Barnard proved to be."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The provision made by the Medical Bureau of the Government at this time for the care and comfort of the wounded and fever-stricken was small and often inappropriate."*

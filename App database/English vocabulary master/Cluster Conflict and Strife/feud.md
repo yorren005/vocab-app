@@ -5,20 +5,6 @@ status: unread
 ---
 # feud
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (intransitive) to carry on a feud
-> 2. **Nuance / Usage**: State of long-standing mutual hostility
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the feud withstood the storm*), direct object (*cleaved the feud*), or prepositional anchor (*amidst the feud*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"MONTAGUE, head of a Veronese family at feud with the Capulets."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"CAPULET, head of a Veronese family at feud with the Montagues."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Wi’ dissipation, feud, an’ faction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A prolonged and bitter quarrel or state of mutual hostility, especially between two families, clans, or factions, marked by retaliatory acts of vengeance.
+> 2. **Nuance / Usage**: Used as an intransitive verb (*to feud*) for carrying on a persistent rivalry or long-standing dispute over generations or years.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count) & Intransitive Verb.
+> - **Syntactic Constructions**: Functions nominally (*a blood feud*, *at feud with*) and verbally (*feuding over ancestral lands*).
+> - **Collocations & Registers**: Historical, dramatic, and social registers; paired with *blood*, *ancient*, *hereditary*, *clan*, and *faction*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Montague, head of a Veronese family at **feud** with the Capulets."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The country side was torn wi’ dissipation, **feud**, an’ faction."*
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"A **feud** is this way: a man has a quarrel with another man, and kills him; then that other man's brother kills him."*

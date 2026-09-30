@@ -5,15 +5,6 @@ status: unread
 ---
 # humankind
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All of the living human inhabitants of the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All of the living human inhabitants of the earth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To all humankind besides, Tess was only a passing thought."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Brad," Ram spoke slowly, quietly, "a trite expression, repeated all too often during our history, is 'humankind now faces its greatest crisis'."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Nevertheless, even if the term 'crisis' never really applied in the past, it does in these times for humankind's destiny."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: All of the living human inhabitants of the earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All of the living human inhabitants of the earth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To all humankind besides, Tess was only a passing thought."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Brad," Ram spoke slowly, quietly, "a trite expression, repeated all too often during our history, is 'humankind now faces its greatest crisis'."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Nevertheless, even if the term 'crisis' never really applied in the past, it does in these times for humankind's destiny."*

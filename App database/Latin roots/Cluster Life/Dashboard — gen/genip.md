@@ -5,13 +5,6 @@ status: unread
 ---
 # genip
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american tree bearing a small edible fruit with green leathery skin and sweet juicy translucent pulp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Round one-inch caribbean fruit with green leathery skin and sweet juicy translucent pulp; eaten like grapes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genip designates tropical american tree bearing a small edible fruit with green leathery skin and sweet juicy translucent pulp."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american tree bearing a small edible fruit with green leathery skin and sweet juicy translucent pulp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Round one-inch caribbean fruit with green leathery skin and sweet juicy translucent pulp; eaten like grapes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genip designates tropical american tree bearing a small edible fruit with green leathery skin and sweet juicy translucent pulp."*

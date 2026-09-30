@@ -5,13 +5,6 @@ status: unread
 ---
 # geopolitics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the effects of economic geography on the powers of the state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the effects of economic geography on the powers of the state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geopolitics designates the study of the effects of economic geography on the powers of the state."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the effects of economic geography on the powers of the state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the effects of economic geography on the powers of the state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geopolitics designates the study of the effects of economic geography on the powers of the state."*

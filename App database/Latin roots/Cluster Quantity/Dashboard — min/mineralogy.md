@@ -5,15 +5,6 @@ status: unread
 ---
 # mineralogy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of geology that studies minerals: their structure and properties and the ways of distinguishing them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of geology that studies minerals: their structure and properties and the ways of distinguishing them.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"In the midst he would rush out to a lecture on mineralogy, and come back sighing that it was all about "stones, stones, stones"!"*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I am no specialist in mineralogy, and I went on down a very ruinous aisle running parallel to the first hall I had entered."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Fully Illustrated. 12s. 6d. net. =ANTIMONY: Its History, Chemistry, Mineralogy, Geology, Metallurgy, Uses and Preparation, Analysis, Production and Valuation.= BY C."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of geology that studies minerals: their structure and properties and the ways of distinguishing them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of geology that studies minerals: their structure and properties and the ways of distinguishing them.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"In the midst he would rush out to a lecture on mineralogy, and come back sighing that it was all about "stones, stones, stones"!"*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I am no specialist in mineralogy, and I went on down a very ruinous aisle running parallel to the first hall I had entered."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Fully Illustrated. 12s. 6d. net. =ANTIMONY: Its History, Chemistry, Mineralogy, Geology, Metallurgy, Uses and Preparation, Analysis, Production and Valuation.= BY C."*

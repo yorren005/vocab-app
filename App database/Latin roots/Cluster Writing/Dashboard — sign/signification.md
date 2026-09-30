@@ -5,15 +5,6 @@ status: unread
 ---
 # signification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The message that is intended or expressed or signified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The message that is intended or expressed or signified.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Not so; here there were no doctrines, nothing but that pregnant phrase, _la vraie signification de la vie_."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"But this is not of public signification that I should occupy with it the time of M. le Maire."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was still pondering the signification of “Institution,” and endeavouring to make out a connection between the first words and the verse of Scripture, when the sound of a cough close behind me made me turn my head."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The message that is intended or expressed or signified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The message that is intended or expressed or signified.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Not so; here there were no doctrines, nothing but that pregnant phrase, _la vraie signification de la vie_."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"But this is not of public signification that I should occupy with it the time of M. le Maire."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was still pondering the signification of “Institution,” and endeavouring to make out a connection between the first words and the verse of Scripture, when the sound of a cough close behind me made me turn my head."*

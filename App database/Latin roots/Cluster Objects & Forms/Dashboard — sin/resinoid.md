@@ -5,13 +5,6 @@ status: unread
 ---
 # resinoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plastic containing resins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plastic containing resins.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resinoid designates a plastic containing resins."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plastic containing resins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plastic containing resins.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resinoid designates a plastic containing resins."*

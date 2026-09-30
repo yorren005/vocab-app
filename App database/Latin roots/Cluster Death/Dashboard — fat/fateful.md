@@ -5,15 +5,6 @@ status: unread
 ---
 # fateful
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having momentous consequences; of decisive importance; - saturday rev.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ominously prophetic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Out of this shoot, so slender to look on, there shall grow a harmful fateful shaft."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He glided up the gallery and up the stairs, and stopped in the dark, low corridor of the fateful third storey: I had followed and stood at his side."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"Her I will shortly send to the borders of Kashmir, and if you repair in fitting season to the Sacred Well of Purity you will there receive from her any communication I may have to make." The subject of the fateful sapphire she lightly dismissed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having momentous consequences; of decisive importance; - saturday rev.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ominously prophetic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Out of this shoot, so slender to look on, there shall grow a harmful fateful shaft."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He glided up the gallery and up the stairs, and stopped in the dark, low corridor of the fateful third storey: I had followed and stood at his side."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"Her I will shortly send to the borders of Kashmir, and if you repair in fitting season to the Sacred Well of Purity you will there receive from her any communication I may have to make." The subject of the fateful sapphire she lightly dismissed."*

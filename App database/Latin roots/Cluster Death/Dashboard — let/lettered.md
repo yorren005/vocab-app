@@ -5,15 +5,6 @@ status: unread
 ---
 # lettered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Win an athletic letter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set down or print with letters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ARMADO. [_To Holofernes_.] Monsieur, are you not lettered?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The embossed design is merely to make the coins easily recognizable and difficult to counterfeit; and milled or lettered edges are to prevent clipping and otherwise abstracting metal from the coins. 10. #Seigniorage defined#."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At last the Captain made a postman of it; tying a lettered, leathern tally round its neck, with the ship’s time and place; and then letting it escape."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Win an athletic letter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set down or print with letters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ARMADO. [_To Holofernes_.] Monsieur, are you not lettered?"*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The embossed design is merely to make the coins easily recognizable and difficult to counterfeit; and milled or lettered edges are to prevent clipping and otherwise abstracting metal from the coins. 10. #Seigniorage defined#."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At last the Captain made a postman of it; tying a lettered, leathern tally round its neck, with the ship’s time and place; and then letting it escape."*

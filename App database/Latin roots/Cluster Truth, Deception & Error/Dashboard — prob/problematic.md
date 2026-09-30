@@ -5,14 +5,6 @@ status: unread
 ---
 # problematic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to doubt or debate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making great mental demands; hard to comprehend or solve or believe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The whole thing is too problematic; I cannot consent to be the cause of your goodness being wasted."*
-> - 📜 **James Joyce (*Ulysses*):** *"What rendered problematic for Bloom the realisation of these mutually selfexcluding propositions?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to doubt or debate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making great mental demands; hard to comprehend or solve or believe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"The whole thing is too problematic; I cannot consent to be the cause of your goodness being wasted."*
+> - 📜 **James Joyce (*Ulysses*):** *"What rendered problematic for Bloom the realisation of these mutually selfexcluding propositions?"*

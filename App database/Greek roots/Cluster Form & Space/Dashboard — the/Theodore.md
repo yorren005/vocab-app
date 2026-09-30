@@ -5,15 +5,6 @@ status: unread
 ---
 # Theodore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Badlands in three areas along the Little Missouri River in western North Dakota.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frederick 1862—1934 English composer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Brocklehurst; remember me to Mrs. and Miss Brocklehurst, and to Augusta and Theodore, and Master Broughton Brocklehurst.” “I will, madam."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What tricks Theodore and I used to play on our Miss Wilsons, and Mrs."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Theodore Tiffereau made gold at Paris in the year 1854 in the presence of M."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Badlands in three areas along the Little Missouri River in western North Dakota.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frederick 1862—1934 English composer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Brocklehurst; remember me to Mrs. and Miss Brocklehurst, and to Augusta and Theodore, and Master Broughton Brocklehurst.” “I will, madam."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What tricks Theodore and I used to play on our Miss Wilsons, and Mrs."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Theodore Tiffereau made gold at Paris in the year 1854 in the presence of M."*

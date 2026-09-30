@@ -5,15 +5,6 @@ status: unread
 ---
 # bronchial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or associated with the bronchi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or associated with the bronchi.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “dear me—something bronchial, I think—hem!—to remark that you was so good on that occasion as to repel and repudiate that declaration."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Pulmonary misbeliefs Damp atmosphere and freezing snow empurpled the 175:27 plump cheeks of our ancestors, but they never indulged in the refinement of inflamed bronchial tubes."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Me it has imprisoned very much with bronchial & asthmatic troubles--and the four walls of the house & the ceiling seem to close in upon one's spirit as well as one's body, all too much."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or associated with the bronchi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or associated with the bronchi.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “dear me—something bronchial, I think—hem!—to remark that you was so good on that occasion as to repel and repudiate that declaration."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Pulmonary misbeliefs Damp atmosphere and freezing snow empurpled the 175:27 plump cheeks of our ancestors, but they never indulged in the refinement of inflamed bronchial tubes."*
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Me it has imprisoned very much with bronchial & asthmatic troubles--and the four walls of the house & the ceiling seem to close in upon one's spirit as well as one's body, all too much."*

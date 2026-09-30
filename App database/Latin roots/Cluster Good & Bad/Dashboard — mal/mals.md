@@ -5,13 +5,6 @@ status: unread
 ---
 # mals
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A master's degree in library science.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A master's degree in library science.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mals designates a master's degree in library science."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A master's degree in library science.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A master's degree in library science.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mals designates a master's degree in library science."*

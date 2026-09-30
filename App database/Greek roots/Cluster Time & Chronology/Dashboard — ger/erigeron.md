@@ -5,13 +5,6 @@ status: unread
 ---
 # erigeron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a widely distributed genus (Erigeron) of composite herbs with flower heads that resemble asters but have fewer and narrower involucral bracts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a widely distributed genus (Erigeron) of composite herbs with flower heads that resemble asters but have fewer and narrower involucral bracts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erigeron designates any of a widely distributed genus (erigeron) of composite herbs with flower heads that resemble asters but have fewer and narrower involucral bracts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a widely distributed genus (Erigeron) of composite herbs with flower heads that resemble asters but have fewer and narrower involucral bracts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a widely distributed genus (Erigeron) of composite herbs with flower heads that resemble asters but have fewer and narrower involucral bracts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erigeron designates any of a widely distributed genus (erigeron) of composite herbs with flower heads that resemble asters but have fewer and narrower involucral bracts."*

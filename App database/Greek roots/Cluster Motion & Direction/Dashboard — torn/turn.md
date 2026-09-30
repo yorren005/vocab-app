@@ -5,15 +5,6 @@ status: unread
 ---
 # turn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause to move around an axis or a center : make rotate or revolve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause to move around so as to effect a desired end (as of locking, opening, or shutting).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This young maid might do her A shrewd turn, if she pleas’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would the cutting of my garments would serve the turn, or the breaking of my Spanish sword."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The duke knows him for no other but a poor officer of mine, and writ to me this other day to turn him out o’ the band."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause to move around an axis or a center : make rotate or revolve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause to move around so as to effect a desired end (as of locking, opening, or shutting).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This young maid might do her A shrewd turn, if she pleas’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would the cutting of my garments would serve the turn, or the breaking of my Spanish sword."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The duke knows him for no other but a poor officer of mine, and writ to me this other day to turn him out o’ the band."*

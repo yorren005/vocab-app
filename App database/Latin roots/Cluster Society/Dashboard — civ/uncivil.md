@@ -5,15 +5,6 @@ status: unread
 ---
 # uncivil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking civility or good manners; - willa cather.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking civility or good manners; - willa cather.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ uncivil kerns of Ireland are in arms And temper clay with blood of Englishmen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King of Heaven forbid our lord the King Should so with civil and uncivil arms Be rushed upon!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mistress Mary, if you prized my lady’s favour at anything more than contempt, you would not give means for this uncivil rule; she shall know of it, by this hand. [_Exit._] MARIA."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking civility or good manners; - willa cather.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking civility or good manners; - willa cather.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ uncivil kerns of Ireland are in arms And temper clay with blood of Englishmen."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King of Heaven forbid our lord the King Should so with civil and uncivil arms Be rushed upon!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mistress Mary, if you prized my lady’s favour at anything more than contempt, you would not give means for this uncivil rule; she shall know of it, by this hand. [_Exit._] MARIA."*

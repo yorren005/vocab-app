@@ -5,13 +5,6 @@ status: unread
 ---
 # rachis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An axial structure: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The elongated axis of an inflorescence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"CORN SMUT; produced on the receptacle and rachis; epidermis soon ruptured; spores loose, minute, globose, black.—On the ears of corn and grasses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An axial structure: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The elongated axis of an inflorescence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"CORN SMUT; produced on the receptacle and rachis; epidermis soon ruptured; spores loose, minute, globose, black.—On the ears of corn and grasses."*

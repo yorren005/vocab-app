@@ -5,14 +5,6 @@ status: unread
 ---
 # bureaucracy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of nonelected government officials.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An administrative policymaking group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A bureaucracy rose and flourished; the spoils systems and corruption matched those of ancient Earth."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"New governments will need time to become entrenched, create lines of authority and accountability, and install bureaucracies responsive to the wishes of a new elite."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of nonelected government officials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An administrative policymaking group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A bureaucracy rose and flourished; the spoils systems and corruption matched those of ancient Earth."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"New governments will need time to become entrenched, create lines of authority and accountability, and install bureaucracies responsive to the wishes of a new elite."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # authenticate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish the authenticity of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establish the authenticity of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The wind blowing in the night where it listed--must we authenticate every verse of the Fourth Gospel before we believe that he listened to it also and caught something?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Does God make His message clear, does He properly authenticate Himself?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Jesus," wrote Matthew Arnold, "never touches theory, but bases himself invariably upon experience." It is to experience that Jesus goes to authenticate his message."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish the authenticity of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establish the authenticity of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The wind blowing in the night where it listed--must we authenticate every verse of the Fourth Gospel before we believe that he listened to it also and caught something?"*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Does God make His message clear, does He properly authenticate Himself?"*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Jesus," wrote Matthew Arnold, "never touches theory, but bases himself invariably upon experience." It is to experience that Jesus goes to authenticate his message."*

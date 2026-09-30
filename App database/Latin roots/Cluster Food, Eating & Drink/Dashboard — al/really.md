@@ -5,15 +5,6 @@ status: unread
 ---
 # really
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In accordance with truth or fact or reality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In actual fact.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I were really that I am delivered to be."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"With all your wild ideas about fighting, you seem to really believe that there is a ghost in Wildenstein." "You must understand, Mea, that this is only to prove that there is none," Kurt eagerly went on."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You are most active of all in that, Kurt, and I do not like it; so I hope that you will let the matter rest as soon as you have understood how unfounded the talk really is."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In accordance with truth or fact or reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In actual fact.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I were really that I am delivered to be."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"With all your wild ideas about fighting, you seem to really believe that there is a ghost in Wildenstein." "You must understand, Mea, that this is only to prove that there is none," Kurt eagerly went on."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You are most active of all in that, Kurt, and I do not like it; so I hope that you will let the matter rest as soon as you have understood how unfounded the talk really is."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # encyclical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A letter from the pope sent to all roman catholic bishops throughout the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended for wide distribution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encyclical designates a letter from the pope sent to all roman catholic bishops throughout the world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A letter from the pope sent to all roman catholic bishops throughout the world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended for wide distribution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encyclical designates a letter from the pope sent to all roman catholic bishops throughout the world."*

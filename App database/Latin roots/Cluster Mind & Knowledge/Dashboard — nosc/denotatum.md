@@ -5,13 +5,6 @@ status: unread
 ---
 # denotatum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An actual object referred to by a linguistic expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An actual object referred to by a linguistic expression.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, denotatum designates an actual object referred to by a linguistic expression."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An actual object referred to by a linguistic expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An actual object referred to by a linguistic expression.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, denotatum designates an actual object referred to by a linguistic expression."*

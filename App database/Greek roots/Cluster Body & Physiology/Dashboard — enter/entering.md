@@ -5,15 +5,6 @@ status: unread
 ---
 # entering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement into or inward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of entering.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Third Servingman; the First, entering, meets him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a thing that Angelo knows not; for he this very day receives letters of strange tenour, perchance of the Duke’s death, perchance entering into some monastery; but, by chance, nothing of what is writ."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And why should we proclaim it in an hour before his entering, that if any crave redress of injustice, they should exhibit their petitions in the street?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement into or inward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of entering.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Third Servingman; the First, entering, meets him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a thing that Angelo knows not; for he this very day receives letters of strange tenour, perchance of the Duke’s death, perchance entering into some monastery; but, by chance, nothing of what is writ."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And why should we proclaim it in an hour before his entering, that if any crave redress of injustice, they should exhibit their petitions in the street?"*

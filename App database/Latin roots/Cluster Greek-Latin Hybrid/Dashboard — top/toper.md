@@ -5,15 +5,6 @@ status: unread
 ---
 # toper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who drinks alcoholic beverages (especially to excess).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who drinks alcoholic beverages (especially to excess).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It may be observed that such a class of mug is called a God-forgive-me in Weatherbury and its vicinity for uncertain reasons; probably because its size makes any given toper feel ashamed of himself when he sees its bottom in drinking it empty."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"At any rate, there will be a kindred pleasure in treading the halls once vocal with their mirth to that the toper enjoys in smelling to the empty cask, once filled with generous wine.” The resolution was no sooner formed than put in execution."*
-> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"You didn't find him," chuckled the toper."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who drinks alcoholic beverages (especially to excess).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who drinks alcoholic beverages (especially to excess).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It may be observed that such a class of mug is called a God-forgive-me in Weatherbury and its vicinity for uncertain reasons; probably because its size makes any given toper feel ashamed of himself when he sees its bottom in drinking it empty."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"At any rate, there will be a kindred pleasure in treading the halls once vocal with their mirth to that the toper enjoys in smelling to the empty cask, once filled with generous wine.” The resolution was no sooner formed than put in execution."*
+> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"You didn't find him," chuckled the toper."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # subsist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Support oneself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Support oneself.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Between Elizabeth and Charlotte there was a restraint which kept them mutually silent on the subject; and Elizabeth felt persuaded that no real confidence could ever subsist between them again."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The _minimum_ of wages, even such as it exists in the case of the worst-paid laborer, is not the very least sum that human nature can subsist upon: it is something more than this; in the case of all above the worst-paid class it is decidedly more."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"What relation is to subsist between the nine or more States ratifying the Constitution, and the remaining few who do not become parties to it?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Support oneself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Support oneself.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Between Elizabeth and Charlotte there was a restraint which kept them mutually silent on the subject; and Elizabeth felt persuaded that no real confidence could ever subsist between them again."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The _minimum_ of wages, even such as it exists in the case of the worst-paid laborer, is not the very least sum that human nature can subsist upon: it is something more than this; in the case of all above the worst-paid class it is decidedly more."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"What relation is to subsist between the nine or more States ratifying the Constitution, and the remaining few who do not become parties to it?"*

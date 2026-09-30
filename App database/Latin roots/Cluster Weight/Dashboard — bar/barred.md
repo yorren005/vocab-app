@@ -5,15 +5,6 @@ status: unread
 ---
 # barred
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prevent from entering; keep out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Render unsuitable for passage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Purpose so barred, it follows Nothing is done to purpose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Things hid and barred, you mean, from common sense?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A jewel in a ten-times-barred-up chest Is a bold spirit in a loyal breast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prevent from entering; keep out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Render unsuitable for passage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Purpose so barred, it follows Nothing is done to purpose."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Things hid and barred, you mean, from common sense?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A jewel in a ten-times-barred-up chest Is a bold spirit in a loyal breast."*

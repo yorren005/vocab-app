@@ -5,15 +5,6 @@ status: unread
 ---
 # finiteness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being finite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being finite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The human form, or physical finiteness, cannot be made the basis of any true idea of the infinite Godhead. 255:18 Eye hath not seen Spirit, nor hath ear heard His voice."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Finiteness cannot present the idea or the vast- 256:30 ness of infinity."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It is not rational to say that Mind is infinite, but dwells in finiteness, - in matter, - or that matter is 284:3 infinite and the medium of Mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being finite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being finite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The human form, or physical finiteness, cannot be made the basis of any true idea of the infinite Godhead. 255:18 Eye hath not seen Spirit, nor hath ear heard His voice."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Finiteness cannot present the idea or the vast- 256:30 ness of infinity."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It is not rational to say that Mind is infinite, but dwells in finiteness, - in matter, - or that matter is 284:3 infinite and the medium of Mind."*

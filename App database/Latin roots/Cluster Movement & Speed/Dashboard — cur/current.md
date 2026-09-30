@@ -5,15 +5,6 @@ status: unread
 ---
 # current
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flow of electricity through a conductor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A steady flow of a fluid (usually from natural causes).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This bald unjointed chat of his, my lord, I answered indirectly, as I said, And I beseech you, let not his report Come current for an accusation Betwixt my love and your high Majesty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It holds current that I told you yesternight: there’s a franklin in the Wild of Kent hath brought three hundred marks with him in gold."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We must have bloody noses and crack’d crowns, And pass them current too.—Gods me, my horse!— What say’st thou, Kate?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flow of electricity through a conductor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A steady flow of a fluid (usually from natural causes).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This bald unjointed chat of his, my lord, I answered indirectly, as I said, And I beseech you, let not his report Come current for an accusation Betwixt my love and your high Majesty."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It holds current that I told you yesternight: there’s a franklin in the Wild of Kent hath brought three hundred marks with him in gold."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We must have bloody noses and crack’d crowns, And pass them current too.—Gods me, my horse!— What say’st thou, Kate?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # radioactive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting or caused by radioactivity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting or caused by radioactivity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"They said she was radioactive, but most of 'em wouldn't believe it."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Being turned into a machine is not the easiest thing in the world on one's temper; it upsets the disposition." "Some sort of a special extra radioactive gas storm connected with the comet, I think, though I can't be sure."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"He thinks the big comet which hit the earth contained radioactive gas that made us all into metal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting or caused by radioactivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting or caused by radioactivity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"They said she was radioactive, but most of 'em wouldn't believe it."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Being turned into a machine is not the easiest thing in the world on one's temper; it upsets the disposition." "Some sort of a special extra radioactive gas storm connected with the comet, I think, though I can't be sure."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"He thinks the big comet which hit the earth contained radioactive gas that made us all into metal."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # national
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who owes allegiance to that nation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or belonging to a nation or country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester in a great chair looks at the file and appears to have a stately liking for the legal repetitions and prolixities as ranging among the national bulwarks."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Oswald, my second (ten and a half), is the child who contributed two and nine-pence to the Great National Smithers Testimonial."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"On these national occasions Sir Leicester finds the cousins useful."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who owes allegiance to that nation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or belonging to a nation or country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester in a great chair looks at the file and appears to have a stately liking for the legal repetitions and prolixities as ranging among the national bulwarks."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Oswald, my second (ten and a half), is the child who contributed two and nine-pence to the Great National Smithers Testimonial."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"On these national occasions Sir Leicester finds the cousins useful."*

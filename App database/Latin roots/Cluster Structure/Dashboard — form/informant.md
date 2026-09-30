@@ -5,15 +5,6 @@ status: unread
 ---
 # informant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who supplies information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who sees an event and reports what happened.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The airs the fellow gives himself!” said my informant, shaking her head at old Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The trooper thanks his informant and rides slowly on, looking about him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She’s had him took away to her own house, sir,” said his informant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who supplies information.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who sees an event and reports what happened.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The airs the fellow gives himself!” said my informant, shaking her head at old Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The trooper thanks his informant and rides slowly on, looking about him."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She’s had him took away to her own house, sir,” said his informant."*

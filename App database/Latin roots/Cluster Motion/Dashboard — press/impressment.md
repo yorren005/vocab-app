@@ -5,15 +5,6 @@ status: unread
 ---
 # impressment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of coercing someone into government service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of coercing someone into government service.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"He opened it with much impressment--assumed, of course--and showed a great bundle of white flowers."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Such impressments shall be made in accordance with the provisions, and subject to the restrictions of the existing impressment laws, except so far as is herein otherwise provided."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It will be recollected, sir, that our great causes of quarrel with Great Britain were her depredations on the northern commerce, and the impressment of New England seamen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of coercing someone into government service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of coercing someone into government service.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"He opened it with much impressment--assumed, of course--and showed a great bundle of white flowers."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Such impressments shall be made in accordance with the provisions, and subject to the restrictions of the existing impressment laws, except so far as is herein otherwise provided."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It will be recollected, sir, that our great causes of quarrel with Great Britain were her depredations on the northern commerce, and the impressment of New England seamen."*

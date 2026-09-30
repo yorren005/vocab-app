@@ -5,15 +5,6 @@ status: unread
 ---
 # contradictoriness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation that exists when opposites cannot coexist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation that exists when opposites cannot coexist.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He worked in a reverie now, musing upon her story, and upon the contradictoriness of that feminine heart which had caused her to speak more warmly to him to-night than she ever had done whilst unmarried and free to speak as warmly as she chose."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But he was not without contradictoriness and rebellion even towards his own resolve."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He worked in a reverie now, musing upon her story, and upon the contradictoriness of that feminine heart which had caused her to speak more warmly to him to-night than she ever had done whilst unmarried and free to speak as warmly as she chose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation that exists when opposites cannot coexist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation that exists when opposites cannot coexist.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He worked in a reverie now, musing upon her story, and upon the contradictoriness of that feminine heart which had caused her to speak more warmly to him to-night than she ever had done whilst unmarried and free to speak as warmly as she chose."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But he was not without contradictoriness and rebellion even towards his own resolve."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He worked in a reverie now, musing upon her story, and upon the contradictoriness of that feminine heart which had caused her to speak more warmly to him to-night than she ever had done whilst unmarried and free to speak as warmly as she chose."*

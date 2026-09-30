@@ -5,13 +5,6 @@ status: unread
 ---
 # seventy-eight
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of seventy and eight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shellac based phonograph record that played at 78 revolutions per minute.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seventy-eight designates the cardinal number that is the sum of seventy and eight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of seventy and eight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shellac based phonograph record that played at 78 revolutions per minute.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seventy-eight designates the cardinal number that is the sum of seventy and eight."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # accommodation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Making or becoming suitable; adjusting to circumstances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A settlement of differences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most humbly, therefore, bending to your state, I crave fit disposition for my wife, Due reference of place and exhibition, With such accommodation and besort As levels with her breeding."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The beadle is very careful that two gentlemen not very neat about the cuffs and buttons (for whose accommodation he has provided a special little table near the coroner in the Harmonic Meeting Room) should see all that is to be seen."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Into George’s Shooting Gallery, &c., he goes; and in it there are gaslights (partly turned off now), and two whitened targets for rifle-shooting, and archery accommodation, and fencing appliances, and all necessaries for the British art of boxing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making or becoming suitable; adjusting to circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A settlement of differences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most humbly, therefore, bending to your state, I crave fit disposition for my wife, Due reference of place and exhibition, With such accommodation and besort As levels with her breeding."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The beadle is very careful that two gentlemen not very neat about the cuffs and buttons (for whose accommodation he has provided a special little table near the coroner in the Harmonic Meeting Room) should see all that is to be seen."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Into George’s Shooting Gallery, &c., he goes; and in it there are gaslights (partly turned off now), and two whitened targets for rifle-shooting, and archery accommodation, and fencing appliances, and all necessaries for the British art of boxing."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # paedophilia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sexual attraction to children.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sexual attraction to children.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paedophilia designates a sexual attraction to children."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sexual attraction to children.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sexual attraction to children.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paedophilia designates a sexual attraction to children."*

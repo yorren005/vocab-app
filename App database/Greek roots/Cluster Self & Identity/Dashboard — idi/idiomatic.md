@@ -5,13 +5,6 @@ status: unread
 ---
 # idiomatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or conforming to idiom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or conforming to idiom.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"No, you wicked foreign woman; I am your match.” Madame Defarge was not likely to follow these idiomatic remarks in detail; but, she so far understood them as to perceive that she was set at naught."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or conforming to idiom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or conforming to idiom.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"No, you wicked foreign woman; I am your match.” Madame Defarge was not likely to follow these idiomatic remarks in detail; but, she so far understood them as to perceive that she was set at naught."*

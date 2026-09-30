@@ -5,13 +5,6 @@ status: unread
 ---
 # overexcited
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unduly excited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unduly excited.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overexcited designates unduly excited."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unduly excited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unduly excited.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overexcited designates unduly excited."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # inject
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an injection to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To introduce (a new aspect or element).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"I inject into her chest about a doz. of different preparations."*
-> - 📜 **James Joyce (*Ulysses*):** *"Fear injects juices make it tender enough for them."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Would not jets of boiling water, constantly injected by the pumps, raise the temperature in this part and stay the congelation?” “Let us try it,” I said resolutely."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an injection to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To introduce (a new aspect or element).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"I inject into her chest about a doz. of different preparations."*
+> - 📜 **James Joyce (*Ulysses*):** *"Fear injects juices make it tender enough for them."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Would not jets of boiling water, constantly injected by the pumps, raise the temperature in this part and stay the congelation?” “Let us try it,” I said resolutely."*

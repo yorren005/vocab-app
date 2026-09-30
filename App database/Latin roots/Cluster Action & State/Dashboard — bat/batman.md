@@ -5,13 +5,6 @@ status: unread
 ---
 # batman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An orderly assigned to serve a british military officer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An orderly assigned to serve a british military officer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Having left that soldier who was evidently drunk, Rostóv stopped the horse of a batman or groom of some important personage and began to question him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An orderly assigned to serve a british military officer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An orderly assigned to serve a british military officer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Having left that soldier who was evidently drunk, Rostóv stopped the horse of a batman or groom of some important personage and began to question him."*

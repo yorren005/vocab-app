@@ -5,15 +5,6 @@ status: unread
 ---
 # sepia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brown melanin-containing pigment from the ink of cuttlefishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inky secretion of a cuttlefish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Indoors in the great hall it was dark because floor and staircase and wall and ceiling were all lined with Spanish chestnut-wood, while the windows were full of Flemish glass in purple and sepia and blue."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"It reminded me of a sepia painting I had once seen done from the ink of a fossil Belemnite that must have perished and become fossilised millions of years ago."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"On this glaze, and sometimes under it, the painters executed rapid, bold, and rather impressionist designs in shades of brown, varying from black to a soft sepia colour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brown melanin-containing pigment from the ink of cuttlefishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inky secretion of a cuttlefish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Indoors in the great hall it was dark because floor and staircase and wall and ceiling were all lined with Spanish chestnut-wood, while the windows were full of Flemish glass in purple and sepia and blue."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"It reminded me of a sepia painting I had once seen done from the ink of a fossil Belemnite that must have perished and become fossilised millions of years ago."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"On this glaze, and sometimes under it, the painters executed rapid, bold, and rather impressionist designs in shades of brown, varying from black to a soft sepia colour."*

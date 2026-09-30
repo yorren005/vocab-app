@@ -5,15 +5,6 @@ status: unread
 ---
 # cotyledon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first leaf or one of the first pair or whorl of leaves developed by the embryo of a seed plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small lobe of the mammalian placenta that facilitates the delivery of oxygen and nutrients to the fetus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"PENNY-WORT BRAND; seated on pallid spots; sori round, convex, compact, at length confluent in large orbicular patches; spores subglobose, not constricted, shortly pedicellate.—On _Cotyledon umbilicus_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"If the cotyledons, or seed-leaves, are watered with similar impregnated water, a different result has been observed to take place."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"In two series of plants cultivated at different periods from good seeds, one hundred and five plants which, had not received the water impregnated with zoospores upon their cotyledons vegetated without any indications of the parasite."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The first leaf or one of the first pair or whorl of leaves developed by the embryo of a seed plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small lobe of the mammalian placenta that facilitates the delivery of oxygen and nutrients to the fetus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"PENNY-WORT BRAND; seated on pallid spots; sori round, convex, compact, at length confluent in large orbicular patches; spores subglobose, not constricted, shortly pedicellate.—On _Cotyledon umbilicus_."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"If the cotyledons, or seed-leaves, are watered with similar impregnated water, a different result has been observed to take place."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"In two series of plants cultivated at different periods from good seeds, one hundred and five plants which, had not received the water impregnated with zoospores upon their cotyledons vegetated without any indications of the parasite."*

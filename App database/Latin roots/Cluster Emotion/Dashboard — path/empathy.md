@@ -5,13 +5,6 @@ status: unread
 ---
 # empathy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Understanding and entering into another's feelings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Understanding and entering into another's feelings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, empathy designates understanding and entering into another's feelings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Understanding and entering into another's feelings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Understanding and entering into another's feelings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, empathy designates understanding and entering into another's feelings."*

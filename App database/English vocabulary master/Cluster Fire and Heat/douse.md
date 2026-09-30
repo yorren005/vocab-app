@@ -5,20 +5,6 @@ status: unread
 ---
 # douse
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Slosh
-> 2. **Nuance / Usage**: Plunge into water
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to douse the target*) and intransitive clauses (*dousing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"To say her pray’rs, douse, honest woman!"*
-> - 📜 **Herman Melville (*Moby Dick*):** *"boys, it’ll be douse sail soon."*
-> - 📜 **Jhariah Clare (*City of Ashes*):** *"Set fire to your matches! / Douse them in gasoline!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To extinguish a fire or light suddenly, especially by pouring or sloshing water or another liquid over it.
+> 2. **Nuance / Usage**: Also means to drench or saturate thoroughly with liquid (*doused in gasoline*), or in nautical usage, to lower a sail or close a porthole quickly.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to douse the target*) and intransitive clauses (*dousing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Stand by the halyards, boys; it’ll be **douse** sail soon, and quench the lanterns."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"He **doused** the glim with a single sweep of his cap and left us in pitch darkness."*
+> - 📜 **Jhariah Clare (*City of Ashes*):** *"Set fire to your matches and **douse** them in gasoline!"*

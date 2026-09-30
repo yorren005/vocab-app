@@ -5,14 +5,6 @@ status: unread
 ---
 # unprepossessing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Creating an unfavorable or neutral first impression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creating an unfavorable or neutral first impression.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Then he screwed his features up someway sideways and glared out into the night with an unprepossessing cast of countenance. —Pom! he then shouted once."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"In his volume there were several pictures of Sands in various oriental costumes; and he travelled about with a black attendant of most unprepossessing appearance, just like another Brian de Bois Guilbert."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Creating an unfavorable or neutral first impression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creating an unfavorable or neutral first impression.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Then he screwed his features up someway sideways and glared out into the night with an unprepossessing cast of countenance. —Pom! he then shouted once."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"In his volume there were several pictures of Sands in various oriental costumes; and he travelled about with a black attendant of most unprepossessing appearance, just like another Brian de Bois Guilbert."*

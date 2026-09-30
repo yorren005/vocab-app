@@ -5,15 +5,6 @@ status: unread
 ---
 # ira
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A militant organization of irish nationalists who used terrorism and guerilla warfare in an effort to drive british forces from northern ireland and achieve a united independent ireland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A retirement plan that allows you to contribute a limited yearly sum toward your retirement; taxes on the interest earned in the account are deferred.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say, my lords, _ira furor brevis est_, But yond man is ever angry."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, take her, And fluently persuade her to a peace. _Et opus exegi, quod nec Jovis ira, nec ignis—_ Strike up, and lead her in."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But truce with kings, and truce with constitutions, With bloody armaments and revolutions; Let Majesty your first attention summon, Ah! ca ira!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A militant organization of irish nationalists who used terrorism and guerilla warfare in an effort to drive british forces from northern ireland and achieve a united independent ireland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A retirement plan that allows you to contribute a limited yearly sum toward your retirement; taxes on the interest earned in the account are deferred.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say, my lords, _ira furor brevis est_, But yond man is ever angry."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, take her, And fluently persuade her to a peace. _Et opus exegi, quod nec Jovis ira, nec ignis—_ Strike up, and lead her in."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But truce with kings, and truce with constitutions, With bloody armaments and revolutions; Let Majesty your first attention summon, Ah! ca ira!"*

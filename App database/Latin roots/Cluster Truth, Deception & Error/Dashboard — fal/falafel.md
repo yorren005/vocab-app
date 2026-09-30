@@ -5,13 +5,6 @@ status: unread
 ---
 # falafel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small croquette of mashed chick peas or fava beans seasoned with sesame seeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small croquette of mashed chick peas or fava beans seasoned with sesame seeds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falafel designates small croquette of mashed chick peas or fava beans seasoned with sesame seeds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small croquette of mashed chick peas or fava beans seasoned with sesame seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small croquette of mashed chick peas or fava beans seasoned with sesame seeds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falafel designates small croquette of mashed chick peas or fava beans seasoned with sesame seeds."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # isotherm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (meteorology) an isogram connecting points having the same temperature at a given time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (meteorology) an isogram connecting points having the same temperature at a given time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isotherm designates (meteorology) an isogram connecting points having the same temperature at a given time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (meteorology) an isogram connecting points having the same temperature at a given time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (meteorology) an isogram connecting points having the same temperature at a given time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isotherm designates (meteorology) an isogram connecting points having the same temperature at a given time."*

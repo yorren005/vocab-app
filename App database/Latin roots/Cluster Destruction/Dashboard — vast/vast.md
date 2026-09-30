@@ -5,15 +5,6 @@ status: unread
 ---
 # vast
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unusually great in size or amount or degree or especially extent or scope; ; ; ; ; ; ; ; ; - w.r.inge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unusually great in size or amount or degree or especially extent or scope; ; ; ; ; ; ; ; ; - w.r.inge.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A man whom both the waters and the wind, In that vast tennis-court, have made the ball For them to play upon, entreats you pity him; He asks of you, that never used to beg."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou god of this great vast, rebuke these surges, Which wash both heaven and hell; and thou that hast Upon the winds command, bind them in brass, Having call’d them from the deep!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am no pilot; yet wert thou as far As that vast shore wash’d with the farthest sea, I should adventure for such merchandise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unusually great in size or amount or degree or especially extent or scope; ; ; ; ; ; ; ; ; - w.r.inge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unusually great in size or amount or degree or especially extent or scope; ; ; ; ; ; ; ; ; - w.r.inge.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A man whom both the waters and the wind, In that vast tennis-court, have made the ball For them to play upon, entreats you pity him; He asks of you, that never used to beg."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou god of this great vast, rebuke these surges, Which wash both heaven and hell; and thou that hast Upon the winds command, bind them in brass, Having call’d them from the deep!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am no pilot; yet wert thou as far As that vast shore wash’d with the farthest sea, I should adventure for such merchandise."*

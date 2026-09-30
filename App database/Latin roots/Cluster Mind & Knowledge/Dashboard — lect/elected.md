@@ -5,15 +5,6 @@ status: unread
 ---
 # elected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Select by a vote for an office or membership.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Choose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We do here pronounce, Upon the part o’ th’ people, in whose power We were elected theirs, Martius is worthy Of present death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why hast thou gone so far To be unbent when thou hast ta’en thy stand, Th’ elected deer before thee?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For you must know we have with special soul Elected him our absence to supply; Lent him our terror, drest him with our love, And given his deputation all the organs Of our own power."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Select by a vote for an office or membership.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Choose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We do here pronounce, Upon the part o’ th’ people, in whose power We were elected theirs, Martius is worthy Of present death."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why hast thou gone so far To be unbent when thou hast ta’en thy stand, Th’ elected deer before thee?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For you must know we have with special soul Elected him our absence to supply; Lent him our terror, drest him with our love, And given his deputation all the organs Of our own power."*

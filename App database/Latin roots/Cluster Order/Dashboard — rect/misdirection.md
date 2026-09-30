@@ -5,13 +5,6 @@ status: unread
 ---
 # misdirection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An incorrect charge to a jury given by a judge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incorrect directions or instructions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She sent to the post office, and sure enough there was the first letter with its misdirection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An incorrect charge to a jury given by a judge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incorrect directions or instructions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"She sent to the post office, and sure enough there was the first letter with its misdirection."*

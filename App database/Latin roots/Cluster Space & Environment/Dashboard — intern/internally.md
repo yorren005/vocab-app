@@ -5,15 +5,6 @@ status: unread
 ---
 # internally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: On or from the inside.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On or from the inside.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The ’prentices giggle internally and nudge each other."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It consists of a mound of earth faced on both sides with a solid wall of stone and strengthened internally by oak beams and planks, the whole being laid on a foundation of boulders."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The automatic self-test devices hummed pressure checks, and indicators glowed as the life support systems balanced internally."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: On or from the inside.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On or from the inside.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The ’prentices giggle internally and nudge each other."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It consists of a mound of earth faced on both sides with a solid wall of stone and strengthened internally by oak beams and planks, the whole being laid on a foundation of boulders."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The automatic self-test devices hummed pressure checks, and indicators glowed as the life support systems balanced internally."*

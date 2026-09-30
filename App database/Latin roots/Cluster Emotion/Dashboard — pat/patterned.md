@@ -5,15 +5,6 @@ status: unread
 ---
 # patterned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plan or create according to a model or models.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form a pattern.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, such a place there is where we did hunt,— O, had we never, never hunted there!— Patterned by that the poet here describes, By nature made for murders and for rapes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy princely office how canst thou fulfill, When, patterned by thy fault, foul Sin may say He learned to sin, and thou didst teach the way?"*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It was a small Chinese box of black and gold-dust lacquer, elaborately wrought, the sides patterned with curved waves, and the silken cords hung with round crystals and tasselled in plaited metal threads."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plan or create according to a model or models.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form a pattern.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, such a place there is where we did hunt,— O, had we never, never hunted there!— Patterned by that the poet here describes, By nature made for murders and for rapes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy princely office how canst thou fulfill, When, patterned by thy fault, foul Sin may say He learned to sin, and thou didst teach the way?"*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It was a small Chinese box of black and gold-dust lacquer, elaborately wrought, the sides patterned with curved waves, and the silken cords hung with round crystals and tasselled in plaited metal threads."*

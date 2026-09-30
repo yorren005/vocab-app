@@ -5,13 +5,6 @@ status: unread
 ---
 # blennioidea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blennies; butterfishes; gunnels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blennies; butterfishes; gunnels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blennioidea designates blennies; butterfishes; gunnels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blennies; butterfishes; gunnels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blennies; butterfishes; gunnels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blennioidea designates blennies; butterfishes; gunnels."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # aver
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Report or maintain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To declare or affirm solemnly and formally as true.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"There, I can aver that earth and ice were lost to sight by the numbers of sea-mammals covering them, and I involuntarily sought for old Proteus, the mythological shepherd who watched these immense flocks of Neptune."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"I solemnly aver that yesterday I found a pair of drawers made for a case of amputation at the thigh."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"The natives aver that, when night comes, from out the bottomless depth of some lagoon the Bunyip rises, and, in form like monstrous sea-calf, drags his loathsome length from out the ooze."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Report or maintain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To declare or affirm solemnly and formally as true.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"There, I can aver that earth and ice were lost to sight by the numbers of sea-mammals covering them, and I involuntarily sought for old Proteus, the mythological shepherd who watched these immense flocks of Neptune."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"I solemnly aver that yesterday I found a pair of drawers made for a case of amputation at the thigh."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"The natives aver that, when night comes, from out the bottomless depth of some lagoon the Bunyip rises, and, in form like monstrous sea-calf, drags his loathsome length from out the ooze."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # vendetta
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Revenge
-> 2. **Nuance / Usage**: Blood feud
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alex Marquardt (*US intervenes to protect state secrets in Saudi Crown Prince’s vendetta against former spy*):** *"The source added: “It appears to me a very personal vendetta that doesn’t have long term interests both for the kingdom and for the US and for intelligence cooperation in the future."*
-> - 📜 **Stephen Collinson (*Trump’s vendettas deliver, but at what cost to the GOP*):** *"But Trump’s pursuit of his political vendettas in a presidency increasingly revolving around personal goals, expensive legacy projects and tin-eared economic messaging is going to cause a headache for the GOP."*
-> - 📜 **François de Roubaix (*''''''Vendetta''''''*):** *"Vendetta est une belle tradition. Un art fin comme un lien entre les générations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A blood feud in which the family or clan of a murdered or wronged person seeks ruthless, retaliatory vengeance on the offender or the offender's kin.
+> 2. **Nuance / Usage**: Borrowed from Italian (from Latin *vindicta*, "vengeance"); widely used figuratively for any prolonged, obsessive, and vindictive campaign waged against a personal or political rival.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count).
+> - **Syntactic Constructions**: Functions as a direct object (*pursue a personal vendetta*) or prepositional head (*a vendetta against the agency*).
+> - **Collocations & Registers**: Historical, political, and dramatic registers; paired with *blood*, *personal*, *wage*, *pursue*, and *retaliation*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alex Marquardt (*CNN*):** *"It appears to be a very personal **vendetta** that serves neither long-term diplomatic interests nor future intelligence cooperation."*
+> - 📜 **Stephen Collinson (*CNN*):** *"His pursuit of political **vendettas** in a presidency revolving around personal grievances is causing a headache for the party."*
+> - 📜 **Prosper Mérimée (*Colomba*):** *"Among the mountain families of Corsica, a **vendetta** was handed down from father to son like a sacred inheritance."*

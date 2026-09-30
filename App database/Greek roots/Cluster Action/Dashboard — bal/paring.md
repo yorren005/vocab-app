@@ -5,15 +5,6 @@ status: unread
 ---
 # paring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin fragment or slice (especially of wood) that has been shaved from something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually plural) a part of a fruit or vegetable that is pared or cut off; especially the skin or peel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virginity breeds mites, much like a cheese; consumes itself to the very paring, and so dies with feeding his own stomach."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some devils ask but the paring of one’s nail, A rush, a hair, a drop of blood, a pin, A nut, a cherry-stone; but she, more covetous, Would have a chain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do remember him at Clement’s Inn, like a man made after supper of a cheese-paring."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin fragment or slice (especially of wood) that has been shaved from something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually plural) a part of a fruit or vegetable that is pared or cut off; especially the skin or peel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virginity breeds mites, much like a cheese; consumes itself to the very paring, and so dies with feeding his own stomach."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some devils ask but the paring of one’s nail, A rush, a hair, a drop of blood, a pin, A nut, a cherry-stone; but she, more covetous, Would have a chain."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do remember him at Clement’s Inn, like a man made after supper of a cheese-paring."*

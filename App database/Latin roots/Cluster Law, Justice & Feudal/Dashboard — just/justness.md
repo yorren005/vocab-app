@@ -5,15 +5,6 @@ status: unread
 ---
 # justness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conformity with some esthetic standard of correctness or propriety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being just or fair.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, brother Hector, We may not think the justness of each act Such and no other than event doth form it; Nor once deject the courage of our minds Because Cassandra’s mad."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This Jesus holds the justness of the Roman tax."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But we find, in fact, that the antagonists of the proposed Constitution, so far from acquiescing in their justness or truth, seem to make their principal and most zealous effort against this part of the plan."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conformity with some esthetic standard of correctness or propriety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being just or fair.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, brother Hector, We may not think the justness of each act Such and no other than event doth form it; Nor once deject the courage of our minds Because Cassandra’s mad."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This Jesus holds the justness of the Roman tax."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But we find, in fact, that the antagonists of the proposed Constitution, so far from acquiescing in their justness or truth, seem to make their principal and most zealous effort against this part of the plan."*

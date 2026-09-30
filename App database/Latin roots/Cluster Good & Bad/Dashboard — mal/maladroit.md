@@ -5,14 +5,6 @@ status: unread
 ---
 # maladroit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not adroit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not adroit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Out of which maladroit delay sprang anxieties, disappointments, shocks, catastrophes, and passing-strange destinies."*
-> - 📜 **James Joyce (*Ulysses*):** *"They swarmed loud, uncouth about the temple, their heads thickplotting under maladroit silk hats."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not adroit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not adroit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Out of which maladroit delay sprang anxieties, disappointments, shocks, catastrophes, and passing-strange destinies."*
+> - 📜 **James Joyce (*Ulysses*):** *"They swarmed loud, uncouth about the temple, their heads thickplotting under maladroit silk hats."*

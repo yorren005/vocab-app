@@ -5,15 +5,6 @@ status: unread
 ---
 # sensational
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing intense interest, curiosity, or emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commanding attention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The morning following the arrest of Victor Ancona, the newspapers published long sensational articles, denounced him as a fiend, and convicted him."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I've been reading sensational novels lately, and it seems to me that Hawk's cut out to be a minion."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"To him, I suppose, the return of Ukridge was as sensational and astounding an event as the reappearance of one from the tomb would have been."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing intense interest, curiosity, or emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commanding attention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The morning following the arrest of Victor Ancona, the newspapers published long sensational articles, denounced him as a fiend, and convicted him."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I've been reading sensational novels lately, and it seems to me that Hawk's cut out to be a minion."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"To him, I suppose, the return of Ukridge was as sensational and astounding an event as the reappearance of one from the tomb would have been."*

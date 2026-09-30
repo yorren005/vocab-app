@@ -5,13 +5,6 @@ status: unread
 ---
 # anuran
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to frogs and toads.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anuran designates any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to frogs and toads.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anuran designates any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species."*

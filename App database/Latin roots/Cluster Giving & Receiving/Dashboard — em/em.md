@@ -5,15 +5,6 @@ status: unread
 ---
 # em
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quad with a square body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A linear unit (1/6 inch) used in printing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The Rector is climbing High Ems with him and the two other boys."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He told them finally that the rector had mentioned the castle of High Ems in their lessons that day."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"The former, when he had deposited his burden, took a critical survey of the room, and in cracked tones grated out—“Aw wonder how yah can faishion to stand thear i’ idleness un war, when all on ’ems goan out!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quad with a square body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A linear unit (1/6 inch) used in printing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The Rector is climbing High Ems with him and the two other boys."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He told them finally that the rector had mentioned the castle of High Ems in their lessons that day."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"The former, when he had deposited his burden, took a critical survey of the room, and in cracked tones grated out—“Aw wonder how yah can faishion to stand thear i’ idleness un war, when all on ’ems goan out!"*

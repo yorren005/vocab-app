@@ -5,15 +5,6 @@ status: unread
 ---
 # positive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The primary form of an adjective or adverb; denotes a quality without qualification, comparison, or relation to increase or diminution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A film showing a photographic image whose tones correspond to those of the original subject.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I shall be rather praised for this than mocked, for it is as positive as the earth is firm that Falstaff is there."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Agamemnon is a fool to offer to command Achilles; Achilles is a fool to be commanded of Agamemnon; Thersites is a fool to serve such a fool; and this Patroclus is a fool positive."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"If you had told me your intention, Lippo, I could have helped you to do some positive good."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The primary form of an adjective or adverb; denotes a quality without qualification, comparison, or relation to increase or diminution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A film showing a photographic image whose tones correspond to those of the original subject.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I shall be rather praised for this than mocked, for it is as positive as the earth is firm that Falstaff is there."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Agamemnon is a fool to offer to command Achilles; Achilles is a fool to be commanded of Agamemnon; Thersites is a fool to serve such a fool; and this Patroclus is a fool positive."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"If you had told me your intention, Lippo, I could have helped you to do some positive good."*

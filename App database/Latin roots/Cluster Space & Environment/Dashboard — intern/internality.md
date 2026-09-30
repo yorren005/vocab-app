@@ -5,13 +5,6 @@ status: unread
 ---
 # internality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preoccupation with what concerns human inner nature (especially ethical or ideological values); - h.r.finch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preoccupation with what concerns human inner nature (especially ethical or ideological values); - h.r.finch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internality designates preoccupation with what concerns human inner nature (especially ethical or ideological values); - h.r.finch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preoccupation with what concerns human inner nature (especially ethical or ideological values); - h.r.finch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preoccupation with what concerns human inner nature (especially ethical or ideological values); - h.r.finch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internality designates preoccupation with what concerns human inner nature (especially ethical or ideological values); - h.r.finch."*

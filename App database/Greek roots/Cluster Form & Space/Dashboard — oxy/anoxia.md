@@ -5,13 +5,6 @@ status: unread
 ---
 # anoxia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hypoxia especially of such severity as to result in permanent damage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The absence of dissolved oxygen in a body of water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anoxia designates hypoxia especially of such severity as to result in permanent damage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hypoxia especially of such severity as to result in permanent damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The absence of dissolved oxygen in a body of water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anoxia designates hypoxia especially of such severity as to result in permanent damage."*

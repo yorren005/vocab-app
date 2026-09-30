@@ -5,13 +5,6 @@ status: unread
 ---
 # noc
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An undercover agent who is given no official cover.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An undercover agent who is given no official cover.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KATHARINE. _Les dames et demoiselles pour être baisées devant leurs noces, il n’est pas la coutume de France._ KING HENRY."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An undercover agent who is given no official cover.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An undercover agent who is given no official cover.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KATHARINE. _Les dames et demoiselles pour être baisées devant leurs noces, il n’est pas la coutume de France._ KING HENRY."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # erg
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A centimeter-gram-second unit of work equal to the work done by a force of one dyne acting through a distance of one centimeter and equivalent to 10—7 joule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A centimeter-gram-second unit of work equal to the work done by a force of one dyne acting through a distance of one centimeter and equivalent to 10—7 joule.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erg designates a centimeter-gram-second unit of work equal to the work done by a force of one dyne acting through a distance of one centimeter and equivalent to 10—7 joule."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A centimeter-gram-second unit of work equal to the work done by a force of one dyne acting through a distance of one centimeter and equivalent to 10—7 joule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A centimeter-gram-second unit of work equal to the work done by a force of one dyne acting through a distance of one centimeter and equivalent to 10—7 joule.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erg designates a centimeter-gram-second unit of work equal to the work done by a force of one dyne acting through a distance of one centimeter and equivalent to 10—7 joule."*

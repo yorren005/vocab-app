@@ -5,13 +5,6 @@ status: unread
 ---
 # rhein
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: River 820 miles (1320 kilometers) long in western Europe flowing from southeastern Switzerland to the North Sea in the Netherlands and forming the western boundary of Liechtenstein and Austria and the southwestern boundary of Germany.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: City in southwestern Germany on the Rhine River opposite Mannheim.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhein designates river 820 miles (1320 kilometers) long in western europe flowing from southeastern switzerland to the north sea in the netherlands and forming the western boundary of liechtenstein and austria and the southwestern boundary of germany."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: River 820 miles (1320 kilometers) long in western Europe flowing from southeastern Switzerland to the North Sea in the Netherlands and forming the western boundary of Liechtenstein and Austria and the southwestern boundary of Germany.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: City in southwestern Germany on the Rhine River opposite Mannheim.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhein designates river 820 miles (1320 kilometers) long in western europe flowing from southeastern switzerland to the north sea in the netherlands and forming the western boundary of liechtenstein and austria and the southwestern boundary of germany."*

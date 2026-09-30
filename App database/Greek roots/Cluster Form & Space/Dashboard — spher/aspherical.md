@@ -5,13 +5,6 @@ status: unread
 ---
 # aspherical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Varying slightly from a perfectly spherical shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Varying slightly from a perfectly spherical shape.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aspherical designates varying slightly from a perfectly spherical shape."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Varying slightly from a perfectly spherical shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Varying slightly from a perfectly spherical shape.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aspherical designates varying slightly from a perfectly spherical shape."*

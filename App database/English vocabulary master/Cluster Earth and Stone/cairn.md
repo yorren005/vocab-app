@@ -5,19 +5,6 @@ status: unread
 ---
 # cairn
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Cairn terrier
-> 2. **Nuance / Usage**: Heap of stones piled up as a memorial or as a landmark
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the cairn withstood the storm*), direct object (*cleaved the cairn*), or prepositional anchor (*amidst the cairn*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Campbell (poet) (*The Poetical Works of Thomas Campbell*):** *"Now here let us place the gray stone of her cairn: / Why speak ye no word!"—said Glenara the stern."*
-> - 📜 **T. E. Lawrence (*Seven Pillars of Wisdom*):** *"After fifteen minutes of this we were glad to reach a high saddle on which former travellers had piled little cairns of commemoration and thankfulness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -53,3 +40,16 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Cairn terrier
+> 2. **Nuance / Usage**: Heap of stones piled up as a memorial or as a landmark
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the cairn withstood the storm*), direct object (*cleaved the cairn*), or prepositional anchor (*amidst the cairn*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Campbell (poet) (*The Poetical Works of Thomas Campbell*):** *"Now here let us place the gray stone of her cairn: / Why speak ye no word!"—said Glenara the stern."*
+> - 📜 **T. E. Lawrence (*Seven Pillars of Wisdom*):** *"After fifteen minutes of this we were glad to reach a high saddle on which former travellers had piled little cairns of commemoration and thankfulness."*

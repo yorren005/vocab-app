@@ -5,15 +5,6 @@ status: unread
 ---
 # penitential
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or constituting penance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing or constituting penance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The debilitated cousin, more debilitated by the dreariness of the place, gets into a fearful state of depression, groaning under penitential sofa-pillows in his gunless hours and protesting that such fernal old jail’s—nough t’sew fler up—frever."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"XXXII This penitential mood kept her from naming the wedding-day."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"As soon as I arrived, I sent a penitential codfish and barrel of oysters to Joe (as reparation for not having gone myself), and then went on to Barnard’s Inn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or constituting penance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing or constituting penance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The debilitated cousin, more debilitated by the dreariness of the place, gets into a fearful state of depression, groaning under penitential sofa-pillows in his gunless hours and protesting that such fernal old jail’s—nough t’sew fler up—frever."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"XXXII This penitential mood kept her from naming the wedding-day."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"As soon as I arrived, I sent a penitential codfish and barrel of oysters to Joe (as reparation for not having gone myself), and then went on to Barnard’s Inn."*

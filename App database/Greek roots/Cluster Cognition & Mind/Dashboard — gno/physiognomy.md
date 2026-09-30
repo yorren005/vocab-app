@@ -5,15 +5,6 @@ status: unread
 ---
 # physiognomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of discovering temperament and character from outward appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The facial features held to show qualities of mind or character by their configuration or expression.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In Ajax and Ulysses, O, what art Of physiognomy might one behold!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Over and above the faces that have fallen drowsily on tables and the heels that lie prone on hard floors instead of beds, the brick and mortar physiognomy of the very court itself looks worn and jaded."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His pew is exactly opposite yours, miss.” “I know it.” “And you did not see his goings on!” “Certainly I did not, I tell you.” Liddy assumed a smaller physiognomy, and shut her lips decisively."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of discovering temperament and character from outward appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The facial features held to show qualities of mind or character by their configuration or expression.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In Ajax and Ulysses, O, what art Of physiognomy might one behold!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Over and above the faces that have fallen drowsily on tables and the heels that lie prone on hard floors instead of beds, the brick and mortar physiognomy of the very court itself looks worn and jaded."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His pew is exactly opposite yours, miss.” “I know it.” “And you did not see his goings on!” “Certainly I did not, I tell you.” Liddy assumed a smaller physiognomy, and shut her lips decisively."*

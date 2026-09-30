@@ -5,14 +5,6 @@ status: unread
 ---
 # redirect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Channel into a new direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Channel into a new direction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"I could only redirect it and hand it to him in silence."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Finally, satisfied, he held the finger up, examined it and redirected his attention to his audience."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Channel into a new direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Channel into a new direction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"I could only redirect it and hand it to him in silence."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Finally, satisfied, he held the finger up, examined it and redirected his attention to his audience."*

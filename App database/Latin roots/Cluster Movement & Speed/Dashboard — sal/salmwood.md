@@ -5,13 +5,6 @@ status: unread
 ---
 # salmwood
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large tropical american tree of the genus cordia grown for its abundant creamy white flowers and valuable wood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large tropical american tree of the genus cordia grown for its abundant creamy white flowers and valuable wood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salmwood designates large tropical american tree of the genus cordia grown for its abundant creamy white flowers and valuable wood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large tropical american tree of the genus cordia grown for its abundant creamy white flowers and valuable wood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large tropical american tree of the genus cordia grown for its abundant creamy white flowers and valuable wood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salmwood designates large tropical american tree of the genus cordia grown for its abundant creamy white flowers and valuable wood."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # practicable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Usable for a specific purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being done with means at hand and circumstances as they are.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Known to have some influence with her sister, she was continually requested, or at least receiving hints to exert it, beyond what was practicable."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Vague wishes of getting Sarah thither, had occurred before to Mrs Musgrove and Henrietta; but without Anne, it would hardly have been resolved on, and found practicable so soon."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Deeds of endurance, which seem ordinary in philosophy, are rare in conduct, and Bathsheba was astonishing all around her now, for her philosophy was her conduct, and she seldom thought practicable what she did not practise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Usable for a specific purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being done with means at hand and circumstances as they are.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Known to have some influence with her sister, she was continually requested, or at least receiving hints to exert it, beyond what was practicable."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Vague wishes of getting Sarah thither, had occurred before to Mrs Musgrove and Henrietta; but without Anne, it would hardly have been resolved on, and found practicable so soon."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Deeds of endurance, which seem ordinary in philosophy, are rare in conduct, and Bathsheba was astonishing all around her now, for her philosophy was her conduct, and she seldom thought practicable what she did not practise."*

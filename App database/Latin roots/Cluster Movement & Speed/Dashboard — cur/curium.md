@@ -5,13 +5,6 @@ status: unread
 ---
 # curium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive transuranic metallic element; produced by bombarding plutonium with helium nuclei.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radioactive transuranic metallic element; produced by bombarding plutonium with helium nuclei.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curium designates a radioactive transuranic metallic element; produced by bombarding plutonium with helium nuclei."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive transuranic metallic element; produced by bombarding plutonium with helium nuclei.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radioactive transuranic metallic element; produced by bombarding plutonium with helium nuclei.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curium designates a radioactive transuranic metallic element; produced by bombarding plutonium with helium nuclei."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # farina
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fine meal made from cereal grain especially wheat; often used as a cooked cereal or in puddings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fine meal made from cereal grain especially wheat; often used as a cooked cereal or in puddings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Calces o’ fossils, earths, and trees; True sal-marinum o’ the seas; The farina of beans an’ pease, He has’t in plenty; Aqua-fontis, what you please, He can content ye."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"It was no fictitious effort, but she had already prepared soup and farina, and was dispensing it to the crowds of poor fellows lying thickly about."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"How the men watched for the dessert of farina and condensed milk, and those more severely wounded for the draughts of milk punch!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fine meal made from cereal grain especially wheat; often used as a cooked cereal or in puddings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fine meal made from cereal grain especially wheat; often used as a cooked cereal or in puddings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Calces o’ fossils, earths, and trees; True sal-marinum o’ the seas; The farina of beans an’ pease, He has’t in plenty; Aqua-fontis, what you please, He can content ye."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"It was no fictitious effort, but she had already prepared soup and farina, and was dispensing it to the crowds of poor fellows lying thickly about."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"How the men watched for the dessert of farina and condensed milk, and those more severely wounded for the draughts of milk punch!"*

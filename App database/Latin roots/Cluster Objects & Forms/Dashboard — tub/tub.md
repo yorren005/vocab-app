@@ -5,15 +5,6 @@ status: unread
 ---
 # tub
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A relatively large open container that you fill with water and use to wash the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large open vessel for holding or storing liquids.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cloyed will— That satiate yet unsatisfied desire, that tub Both fill’d and running—ravening first the lamb, Longs after for the garbage."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No! to the spital go, And from the powdering tub of infamy Fetch forth the lazar kite of Cressid’s kind, Doll Tearsheet she by name, and her espouse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Troth, sir, she hath eaten up all her beef, and she is herself in the tub."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A relatively large open container that you fill with water and use to wash the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large open vessel for holding or storing liquids.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cloyed will— That satiate yet unsatisfied desire, that tub Both fill’d and running—ravening first the lamb, Longs after for the garbage."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No! to the spital go, And from the powdering tub of infamy Fetch forth the lazar kite of Cressid’s kind, Doll Tearsheet she by name, and her espouse."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Troth, sir, she hath eaten up all her beef, and she is herself in the tub."*

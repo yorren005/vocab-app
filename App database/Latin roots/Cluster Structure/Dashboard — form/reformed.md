@@ -5,15 +5,6 @@ status: unread
 ---
 # reformed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make changes for improvement in order to remove abuse and injustices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring, lead, or force to abandon a wrong or evil course of life, conduct, and adopt a right one.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, bring away the plaintiffs: by this time our sexton hath reformed Signior Leonato of the matter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They are reformed, civil, full of good, And fit for great employment, worthy lord."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"After a while, he was able to keep it, and reformed entirely."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make changes for improvement in order to remove abuse and injustices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring, lead, or force to abandon a wrong or evil course of life, conduct, and adopt a right one.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, bring away the plaintiffs: by this time our sexton hath reformed Signior Leonato of the matter."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They are reformed, civil, full of good, And fit for great employment, worthy lord."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"After a while, he was able to keep it, and reformed entirely."*

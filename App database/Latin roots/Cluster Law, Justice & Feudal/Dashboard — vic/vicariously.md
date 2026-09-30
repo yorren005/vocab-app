@@ -5,15 +5,6 @@ status: unread
 ---
 # vicariously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indirectly, as, by, or through a substitute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indirectly, as, by, or through a substitute.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"My sister, having so much to do, was going to church vicariously, that is to say, Joe and I were going."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"It is not to the parents, but to the succeeding generation, that the debt is vicariously paid. [Sidenote: And in larger circles] Friendship widens the range of generosity and multiplies the mass of gifts."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"These are not opposed to the law of causation but fulfil it vicariously, or by a process of substitution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indirectly, as, by, or through a substitute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indirectly, as, by, or through a substitute.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"My sister, having so much to do, was going to church vicariously, that is to say, Joe and I were going."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"It is not to the parents, but to the succeeding generation, that the debt is vicariously paid. [Sidenote: And in larger circles] Friendship widens the range of generosity and multiplies the mass of gifts."*
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"These are not opposed to the law of causation but fulfil it vicariously, or by a process of substitution."*

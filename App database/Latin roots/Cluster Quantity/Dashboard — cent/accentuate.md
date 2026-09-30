@@ -5,15 +5,6 @@ status: unread
 ---
 # accentuate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To stress, single out as important.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put stress on; utter with an accent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"What are American dry-goods?” asked the duchess, raising her large hands in wonder and accentuating the verb."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"The cut was that of a country tailor, the coat accentuating the curve of Aunt Eliza's back, while the skirt showed a persistent tendency to sag at the back."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was lowness and quiet accentuated: an emphasis of deep meanings, their form, at the same time, being scarcely expressed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To stress, single out as important.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put stress on; utter with an accent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"What are American dry-goods?” asked the duchess, raising her large hands in wonder and accentuating the verb."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"The cut was that of a country tailor, the coat accentuating the curve of Aunt Eliza's back, while the skirt showed a persistent tendency to sag at the back."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was lowness and quiet accentuated: an emphasis of deep meanings, their form, at the same time, being scarcely expressed."*

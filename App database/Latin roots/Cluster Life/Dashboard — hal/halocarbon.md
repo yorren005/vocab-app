@@ -5,13 +5,6 @@ status: unread
 ---
 # halocarbon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of various compounds of carbon and any of the halogens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of various compounds of carbon and any of the halogens.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halocarbon designates one of various compounds of carbon and any of the halogens."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of various compounds of carbon and any of the halogens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of various compounds of carbon and any of the halogens.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halocarbon designates one of various compounds of carbon and any of the halogens."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # operative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person secretly employed in espionage for a government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who can be employed as a detective to collect information.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is means, madam: Our foster nurse of nature is repose, The which he lacks; that to provoke in him Are many simples operative, whose power Will close the eye of anguish."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess could eventually join him there, and perhaps in that country of contrasting scenes and notions and habits the conventions would not be so operative which made life with her seem impracticable to him here."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"In neither case has it been that men invented or imagined the laws; in both cases it has been genuine discovery of what was already existent and operative, and often the discovery has involved surprise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person secretly employed in espionage for a government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who can be employed as a detective to collect information.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is means, madam: Our foster nurse of nature is repose, The which he lacks; that to provoke in him Are many simples operative, whose power Will close the eye of anguish."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess could eventually join him there, and perhaps in that country of contrasting scenes and notions and habits the conventions would not be so operative which made life with her seem impracticable to him here."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"In neither case has it been that men invented or imagined the laws; in both cases it has been genuine discovery of what was already existent and operative, and often the discovery has involved surprise."*

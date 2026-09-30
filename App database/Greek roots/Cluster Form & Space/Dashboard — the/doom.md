@@ -5,15 +5,6 @@ status: unread
 ---
 # doom
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A law or ordinance especially in Anglo-Saxon England.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judgment, decision; especially : a judicial condemnation or sentence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell him, from his all-obeying breath I hear The doom of Egypt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The death of Antony Is not a single doom; in the name lay A moiety of the world."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Firm and irrevocable is my doom Which I have passed upon her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A law or ordinance especially in Anglo-Saxon England.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judgment, decision; especially : a judicial condemnation or sentence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell him, from his all-obeying breath I hear The doom of Egypt."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The death of Antony Is not a single doom; in the name lay A moiety of the world."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Firm and irrevocable is my doom Which I have passed upon her."*

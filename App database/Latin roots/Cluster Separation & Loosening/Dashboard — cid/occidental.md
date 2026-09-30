@@ -5,15 +5,6 @@ status: unread
 ---
 # occidental
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native inhabitant of the occident.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial language.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A sort of halo, an occidental glow, came over life then."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"In his dress he combined very effectively both Chinese and occidental symbols of mourning, his white coat-sleeve being adorned with a band of black crape, while in the long black queue he wore braided the white mourning thread of China."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The complacent cocksureness of the Occidental attitude toward Oriental ways and standards has little to rest on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native inhabitant of the occident.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial language.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A sort of halo, an occidental glow, came over life then."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"In his dress he combined very effectively both Chinese and occidental symbols of mourning, his white coat-sleeve being adorned with a band of black crape, while in the long black queue he wore braided the white mourning thread of China."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The complacent cocksureness of the Occidental attitude toward Oriental ways and standards has little to rest on."*

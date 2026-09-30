@@ -5,15 +5,6 @@ status: unread
 ---
 # mannered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having unnatural mannerisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having unnatural mannerisms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Because I don’t love you.” “Yes, but—” She contracted a yawn to an inoffensive smallness, so that it was hardly ill-mannered at all."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They are the most simple-mannered people alive, and quite unambitious."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You should be better-mannered than to disturb a man in the midst of a game of chess."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having unnatural mannerisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having unnatural mannerisms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Because I don’t love you.” “Yes, but—” She contracted a yawn to an inoffensive smallness, so that it was hardly ill-mannered at all."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They are the most simple-mannered people alive, and quite unambitious."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You should be better-mannered than to disturb a man in the midst of a game of chess."*

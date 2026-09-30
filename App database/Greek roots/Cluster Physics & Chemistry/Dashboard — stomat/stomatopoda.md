@@ -5,13 +5,6 @@ status: unread
 ---
 # stomatopoda
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mantis shrimps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mantis shrimps.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stomatopoda designates mantis shrimps."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mantis shrimps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mantis shrimps.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stomatopoda designates mantis shrimps."*

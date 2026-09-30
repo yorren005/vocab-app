@@ -5,13 +5,6 @@ status: unread
 ---
 # politicize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To give a political tone or character to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To give a political tone or character to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, politicize designates to give a political tone or character to."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give a political tone or character to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To give a political tone or character to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, politicize designates to give a political tone or character to."*

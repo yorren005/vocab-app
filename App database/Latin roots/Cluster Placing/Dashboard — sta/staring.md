@@ -5,15 +5,6 @@ status: unread
 ---
 # staring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Look at with fixed eyes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fixate one's eyes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the bloodiest shame, The wildest savagery, the vilest stroke, That ever wall-ey’d wrath or staring rage Presented to the tears of soft remorse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In brief, for so the season bids us be, Prepare thy battle early in the morning, And put thy fortune to the arbitrement Of bloody strokes and mortal-staring war."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They seemed almost, with staring on one another, to tear the cases of their eyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Look at with fixed eyes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fixate one's eyes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the bloodiest shame, The wildest savagery, the vilest stroke, That ever wall-ey’d wrath or staring rage Presented to the tears of soft remorse."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In brief, for so the season bids us be, Prepare thy battle early in the morning, And put thy fortune to the arbitrement Of bloody strokes and mortal-staring war."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They seemed almost, with staring on one another, to tear the cases of their eyes."*

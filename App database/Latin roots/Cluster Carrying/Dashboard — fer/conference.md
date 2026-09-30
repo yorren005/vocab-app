@@ -5,15 +5,6 @@ status: unread
 ---
 # conference
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An association of sports teams that organizes matches for its members.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, for the love of Love and her soft hours, Let’s not confound the time with conference harsh."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I cannot speak to her, yet she urged conference."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was the copy of our conference."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An association of sports teams that organizes matches for its members.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, for the love of Love and her soft hours, Let’s not confound the time with conference harsh."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I cannot speak to her, yet she urged conference."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was the copy of our conference."*

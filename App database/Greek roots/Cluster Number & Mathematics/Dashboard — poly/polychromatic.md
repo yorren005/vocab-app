@@ -5,13 +5,6 @@ status: unread
 ---
 # polychromatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a variety or a change of colors : multicolored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or relating to radiation that is composed of more than one wavelength.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polychromatic designates showing a variety or a change of colors : multicolored."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a variety or a change of colors : multicolored.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or relating to radiation that is composed of more than one wavelength.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polychromatic designates showing a variety or a change of colors : multicolored."*

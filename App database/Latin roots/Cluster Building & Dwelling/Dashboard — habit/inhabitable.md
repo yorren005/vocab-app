@@ -5,13 +5,6 @@ status: unread
 ---
 # inhabitable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fit for habitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fit for habitation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The only apartments now inhabitable are those of its loyal and intelligent warden and his family, whose civility and general information respecting the castle are very acceptable to its daily visitors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fit for habitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fit for habitation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The only apartments now inhabitable are those of its loyal and intelligent warden and his family, whose civility and general information respecting the castle are very acceptable to its daily visitors."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # underclothing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergarment worn next to the skin and under the outer garments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergarment worn next to the skin and under the outer garments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"They had nearly the same preferences in silks, patterns for underclothing, china-ware, and clergymen; they confided their little troubles of health and household management to each other, and various little points of superiority on Mrs."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And she has begun to buy in the best linen and cambric for her underclothing.” “Not by my will,” said Mr."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A door opened to the right, and an emaciated sallow man on crutches, barefoot and in underclothing, limped out and, leaning against the doorpost, looked with glittering envious eyes at those who were passing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergarment worn next to the skin and under the outer garments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergarment worn next to the skin and under the outer garments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"They had nearly the same preferences in silks, patterns for underclothing, china-ware, and clergymen; they confided their little troubles of health and household management to each other, and various little points of superiority on Mrs."*
+> - 📜 **George Eliot (*Middlemarch*):** *"And she has begun to buy in the best linen and cambric for her underclothing.” “Not by my will,” said Mr."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A door opened to the right, and an emaciated sallow man on crutches, barefoot and in underclothing, limped out and, leaning against the doorpost, looked with glittering envious eyes at those who were passing."*

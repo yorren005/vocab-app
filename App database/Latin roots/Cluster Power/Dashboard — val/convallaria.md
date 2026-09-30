@@ -5,13 +5,6 @@ status: unread
 ---
 # convallaria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sometimes placed in family convallariaceae: lily of the valley.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sometimes placed in family convallariaceae: lily of the valley.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, convallaria designates sometimes placed in family convallariaceae: lily of the valley."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sometimes placed in family convallariaceae: lily of the valley.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sometimes placed in family convallariaceae: lily of the valley.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, convallaria designates sometimes placed in family convallariaceae: lily of the valley."*

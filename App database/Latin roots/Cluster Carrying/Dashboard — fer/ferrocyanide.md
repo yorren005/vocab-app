@@ -5,13 +5,6 @@ status: unread
 ---
 # ferrocyanide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Salt of ferrocyanic acid usually obtained by a reaction of a cyanide with iron sulphate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Salt of ferrocyanic acid usually obtained by a reaction of a cyanide with iron sulphate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferrocyanide designates salt of ferrocyanic acid usually obtained by a reaction of a cyanide with iron sulphate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Salt of ferrocyanic acid usually obtained by a reaction of a cyanide with iron sulphate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Salt of ferrocyanic acid usually obtained by a reaction of a cyanide with iron sulphate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferrocyanide designates salt of ferrocyanic acid usually obtained by a reaction of a cyanide with iron sulphate."*

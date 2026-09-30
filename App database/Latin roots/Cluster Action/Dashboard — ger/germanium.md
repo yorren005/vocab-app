@@ -5,13 +5,6 @@ status: unread
 ---
 # germanium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brittle grey crystalline element that is a semiconducting metalloid (resembling silicon) used in transistors; occurs in germanite and argyrodite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brittle grey crystalline element that is a semiconducting metalloid (resembling silicon) used in transistors; occurs in germanite and argyrodite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, germanium designates a brittle grey crystalline element that is a semiconducting metalloid (resembling silicon) used in transistors; occurs in germanite and argyrodite."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brittle grey crystalline element that is a semiconducting metalloid (resembling silicon) used in transistors; occurs in germanite and argyrodite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brittle grey crystalline element that is a semiconducting metalloid (resembling silicon) used in transistors; occurs in germanite and argyrodite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, germanium designates a brittle grey crystalline element that is a semiconducting metalloid (resembling silicon) used in transistors; occurs in germanite and argyrodite."*

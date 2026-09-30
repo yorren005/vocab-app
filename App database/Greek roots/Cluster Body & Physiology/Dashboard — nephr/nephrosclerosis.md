@@ -5,13 +5,6 @@ status: unread
 ---
 # nephrosclerosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kidney disease that is usually associated with hypertension; sclerosis of the renal arterioles reduces blood flow that can lead to kidney failure and heart failure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kidney disease that is usually associated with hypertension; sclerosis of the renal arterioles reduces blood flow that can lead to kidney failure and heart failure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrosclerosis designates kidney disease that is usually associated with hypertension; sclerosis of the renal arterioles reduces blood flow that can lead to kidney failure and heart failure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Kidney disease that is usually associated with hypertension; sclerosis of the renal arterioles reduces blood flow that can lead to kidney failure and heart failure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kidney disease that is usually associated with hypertension; sclerosis of the renal arterioles reduces blood flow that can lead to kidney failure and heart failure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrosclerosis designates kidney disease that is usually associated with hypertension; sclerosis of the renal arterioles reduces blood flow that can lead to kidney failure and heart failure."*

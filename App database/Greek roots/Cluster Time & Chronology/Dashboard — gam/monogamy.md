@@ -5,13 +5,6 @@ status: unread
 ---
 # monogamy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or practice of having only one sexual partner at a time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or custom of being married to only one person at a time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Some of his works, such as that _On Monogamy_, bear the stamp of Montanism, for re-marriage was condemned by the Montanists."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or practice of having only one sexual partner at a time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or custom of being married to only one person at a time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Some of his works, such as that _On Monogamy_, bear the stamp of Montanism, for re-marriage was condemned by the Montanists."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # marbleizing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A texture like that of marble.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make something look like marble.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marbleizing designates a texture like that of marble."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A texture like that of marble.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make something look like marble.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marbleizing designates a texture like that of marble."*

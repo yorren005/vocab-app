@@ -5,13 +5,6 @@ status: unread
 ---
 # emersion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) the reappearance of a celestial body after an eclipse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of emerging.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emersion designates (astronomy) the reappearance of a celestial body after an eclipse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) the reappearance of a celestial body after an eclipse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of emerging.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emersion designates (astronomy) the reappearance of a celestial body after an eclipse."*

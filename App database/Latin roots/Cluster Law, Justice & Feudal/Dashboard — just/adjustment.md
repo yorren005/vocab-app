@@ -5,15 +5,6 @@ status: unread
 ---
 # adjustment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Making or becoming suitable; adjusting to circumstances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making something different (as e.g. the size of a garment).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"That’s not my sort either.” Grandfather Smallweed has been gradually sliding down in his chair since his last adjustment and is now a bundle of clothes with a voice in it calling for Judy."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The adjustment of the farmer’s hazy conceptions of her charms to the portrait of herself she now presented him with was less a diminution than a difference."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What with one thing and another, I see that my work is well cut out for me.” V “How do I look to-night, Liddy?” said Bathsheba, giving a final adjustment to her dress before leaving the glass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making or becoming suitable; adjusting to circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making something different (as e.g. the size of a garment).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"That’s not my sort either.” Grandfather Smallweed has been gradually sliding down in his chair since his last adjustment and is now a bundle of clothes with a voice in it calling for Judy."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The adjustment of the farmer’s hazy conceptions of her charms to the portrait of herself she now presented him with was less a diminution than a difference."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What with one thing and another, I see that my work is well cut out for me.” V “How do I look to-night, Liddy?” said Bathsheba, giving a final adjustment to her dress before leaving the glass."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # surge
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Rise and fall actively : toss
-> 2. **Nuance / Usage**: Sudden transient rush, flood or increase
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to surge the target*) and intransitive clauses (*surging against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"grasped at the chair, when the room began to surge and turn."*
-> - 📜 **Cecil J. Allen (*Locomotive Running Past and Present*):** *"When the diesel was being worked full out, the ammeter normally showed about 1,500-1,600 amps, with occasional surges of current at starting or up the steepest gradients to 1,700 or even 1,800 amps."*
-> - 📜 **Classic Author (*BBC*):** *"Wales began the second half as they ended the first, closing down Montenegro quickly and the pressure told as Bale surged into the box and pulled the ball back for skipper Ramsey, arriving on cue, to double their lead."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Rise and fall actively : toss
+> 2. **Nuance / Usage**: Sudden transient rush, flood or increase
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to surge the target*) and intransitive clauses (*surging against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"grasped at the chair, when the room began to surge and turn."*
+> - 📜 **Cecil J. Allen (*Locomotive Running Past and Present*):** *"When the diesel was being worked full out, the ammeter normally showed about 1,500-1,600 amps, with occasional surges of current at starting or up the steepest gradients to 1,700 or even 1,800 amps."*
+> - 📜 **Classic Author (*BBC*):** *"Wales began the second half as they ended the first, closing down Montenegro quickly and the pressure told as Bale surged into the box and pulled the ball back for skipper Ramsey, arriving on cue, to double their lead."*

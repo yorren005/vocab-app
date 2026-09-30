@@ -5,15 +5,6 @@ status: unread
 ---
 # intellect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowledge and intellectual ability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capacity for rational thought or inference or discrimination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His intellect is not replenished; he is only an animal, only sensible in the duller parts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath Bolingbroke Deposed thine intellect?"*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"On the Improvement of the Understanding (Treatise on the Emendation of the Intellect) by Baruch Spinoza [Benedict de Spinoza] Translated by R."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowledge and intellectual ability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capacity for rational thought or inference or discrimination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His intellect is not replenished; he is only an animal, only sensible in the duller parts."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath Bolingbroke Deposed thine intellect?"*
+> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"On the Improvement of the Understanding (Treatise on the Emendation of the Intellect) by Baruch Spinoza [Benedict de Spinoza] Translated by R."*

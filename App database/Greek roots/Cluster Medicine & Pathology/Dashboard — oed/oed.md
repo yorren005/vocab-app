@@ -5,13 +5,6 @@ status: unread
 ---
 # oed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oxford English Dictionary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oxford English Dictionary.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oed designates oxford english dictionary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Oxford English Dictionary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oxford English Dictionary.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oed designates oxford english dictionary."*

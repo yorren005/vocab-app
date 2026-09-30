@@ -5,15 +5,6 @@ status: unread
 ---
 # recollect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recall knowledge from memory; have a recollection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recall knowledge from memory; have a recollection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PERICLES. [_Aside._] How from the finny subject of the sea These fishers tell the infirmities of men; And from their watery empire recollect All that may men approve or men detect!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I had never worn a black frock, that I could recollect."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I recollect once thinking there was something in his manner, uncouth as it was, that denoted a fall in life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Recall knowledge from memory; have a recollection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recall knowledge from memory; have a recollection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PERICLES. [_Aside._] How from the finny subject of the sea These fishers tell the infirmities of men; And from their watery empire recollect All that may men approve or men detect!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I had never worn a black frock, that I could recollect."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I recollect once thinking there was something in his manner, uncouth as it was, that denoted a fall in life."*

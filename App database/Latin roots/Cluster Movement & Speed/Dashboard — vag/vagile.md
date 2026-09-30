@@ -5,13 +5,6 @@ status: unread
 ---
 # vagile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having freedom to move about.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having freedom to move about.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vagile designates having freedom to move about."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having freedom to move about.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having freedom to move about.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vagile designates having freedom to move about."*

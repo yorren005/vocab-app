@@ -5,13 +5,6 @@ status: unread
 ---
 # technocracy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by technicians; specifically : management of society by technical experts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Government by technicians; specifically : management of society by technical experts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technocracy designates government by technicians; specifically : management of society by technical experts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by technicians; specifically : management of society by technical experts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Government by technicians; specifically : management of society by technical experts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technocracy designates government by technicians; specifically : management of society by technical experts."*

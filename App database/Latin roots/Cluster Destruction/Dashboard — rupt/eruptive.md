@@ -5,13 +5,6 @@ status: unread
 ---
 # eruptive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or characterized by eruptions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produced by the action of fire or intense heat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They were too volcanic, spasmodic, eruptive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or characterized by eruptions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produced by the action of fire or intense heat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They were too volcanic, spasmodic, eruptive."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # manumission
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal act of freeing from slavery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal act of freeing from slavery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Let that urbanity, which I trust will distinguish America, and the necessity of national defence—let all these things operate on their minds, and they will search that paper, and see if they have power of manumission."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We ought to possess them in the manner we have inherited them from our ancestors, as their manumission is incompatible with the felicity of the country."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal act of freeing from slavery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal act of freeing from slavery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Let that urbanity, which I trust will distinguish America, and the necessity of national defence—let all these things operate on their minds, and they will search that paper, and see if they have power of manumission."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We ought to possess them in the manner we have inherited them from our ancestors, as their manumission is incompatible with the felicity of the country."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # absence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being absent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failure to be present.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor dare I chide the world-without-end hour, Whilst I (my sovereign) watch the clock for you, Nor think the bitterness of absence sour, When you have bid your servant once adieu."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O let me suffer (being at your beck) Th’ imprisoned absence of your liberty, And patience tame to sufferance bide each check, Without accusing you of injury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But do not so, I love thee in such sort, As thou being mine, mine is thy good report. 97 How like a winter hath my absence been From thee, the pleasure of the fleeting year!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being absent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failure to be present.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor dare I chide the world-without-end hour, Whilst I (my sovereign) watch the clock for you, Nor think the bitterness of absence sour, When you have bid your servant once adieu."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O let me suffer (being at your beck) Th’ imprisoned absence of your liberty, And patience tame to sufferance bide each check, Without accusing you of injury."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But do not so, I love thee in such sort, As thou being mine, mine is thy good report. 97 How like a winter hath my absence been From thee, the pleasure of the fleeting year!"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # ping
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A river in western thailand; a major tributary of the chao phraya.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sharp high-pitched resonant sound (as of a sonar echo or a bullet striking metal).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"When I said we meant to keep fowls, I didn't mean in a small sort of way--two cocks and a couple of hens and a ping-pong ball for a nest egg."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Just before reaching Hua-lin-ping, or "Phoenix" Flat, where we were to spend the night, I espied across the narrow valley to our right a picturesque temple perched at the top of a high wooded cliff."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"A generation ago Hua-lin-ping was an important frontier post, but to-day its broad, barrack-lined street is deserted and grass-grown, for the vanguard of effective Chinese occupation is steadily pushing westward into the tribes country."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A river in western thailand; a major tributary of the chao phraya.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sharp high-pitched resonant sound (as of a sonar echo or a bullet striking metal).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"When I said we meant to keep fowls, I didn't mean in a small sort of way--two cocks and a couple of hens and a ping-pong ball for a nest egg."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Just before reaching Hua-lin-ping, or "Phoenix" Flat, where we were to spend the night, I espied across the narrow valley to our right a picturesque temple perched at the top of a high wooded cliff."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"A generation ago Hua-lin-ping was an important frontier post, but to-day its broad, barrack-lined street is deserted and grass-grown, for the vanguard of effective Chinese occupation is steadily pushing westward into the tribes country."*

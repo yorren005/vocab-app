@@ -5,15 +5,6 @@ status: unread
 ---
 # hallelujah
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shout or song of praise to god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shout or song of praise to god.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Hell fire and a hallelujah chorus, if she's beautiful," he answered me promptly."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"The rapture of the hallelujah sent From all that breathes and is ..." rings through these poems."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"But as she reached the words, "Hallelujah," the notes swelled into a grand paen of triumph, her voice trilling so wondrously, even upon such a high elevation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shout or song of praise to god.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shout or song of praise to god.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Hell fire and a hallelujah chorus, if she's beautiful," he answered me promptly."*
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"The rapture of the hallelujah sent From all that breathes and is ..." rings through these poems."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"But as she reached the words, "Hallelujah," the notes swelled into a grand paen of triumph, her voice trilling so wondrously, even upon such a high elevation."*

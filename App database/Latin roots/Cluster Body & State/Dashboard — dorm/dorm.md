@@ -5,13 +5,6 @@ status: unread
 ---
 # dorm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A college or university building containing living quarters for students.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A college or university building containing living quarters for students.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dorm designates a college or university building containing living quarters for students."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A college or university building containing living quarters for students.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A college or university building containing living quarters for students.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dorm designates a college or university building containing living quarters for students."*

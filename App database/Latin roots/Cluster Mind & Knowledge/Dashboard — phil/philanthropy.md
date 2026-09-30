@@ -5,15 +5,6 @@ status: unread
 ---
 # philanthropy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Voluntary promotion of human welfare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Voluntary promotion of human welfare.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He seemed to project those two shining knobs of temples of his into everything that went on and to brush his hair farther and farther back, until the very roots were almost ready to fly out of his head in inappeasable philanthropy."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In America a very little has yet been done in this way, and that mostly by private philanthropy.[5] § 5. #Public inspection of standards and of foods#."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Won in youth to religion, she has cultivated my original qualities thus:—From the minute germ, natural affection, she has developed the overshadowing tree, philanthropy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Voluntary promotion of human welfare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Voluntary promotion of human welfare.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He seemed to project those two shining knobs of temples of his into everything that went on and to brush his hair farther and farther back, until the very roots were almost ready to fly out of his head in inappeasable philanthropy."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In America a very little has yet been done in this way, and that mostly by private philanthropy.[5] § 5. #Public inspection of standards and of foods#."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Won in youth to religion, she has cultivated my original qualities thus:—From the minute germ, natural affection, she has developed the overshadowing tree, philanthropy."*

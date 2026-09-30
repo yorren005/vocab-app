@@ -5,13 +5,6 @@ status: unread
 ---
 # illegalise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare illegal; outlaw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare illegal; outlaw.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illegalise designates declare illegal; outlaw."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare illegal; outlaw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare illegal; outlaw.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illegalise designates declare illegal; outlaw."*

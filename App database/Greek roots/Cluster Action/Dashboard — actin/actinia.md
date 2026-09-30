@@ -5,13 +5,6 @@ status: unread
 ---
 # actinia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of sea anemone common in rock pools.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any sea anemone or related animal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinia designates a genus of sea anemone common in rock pools."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of sea anemone common in rock pools.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any sea anemone or related animal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinia designates a genus of sea anemone common in rock pools."*

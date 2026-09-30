@@ -5,15 +5,6 @@ status: unread
 ---
 # contestant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who participates in competitions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who dissents from some established policy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The herald sounded the signal of attack, and both contestants rushed at each other."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"One of the contestants shook his head, puzzled, and surrendered."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Correct." "That was clever of Joe," thought the cheat as the teacher gave out a word to one of the three contestants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who participates in competitions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who dissents from some established policy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The herald sounded the signal of attack, and both contestants rushed at each other."*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"One of the contestants shook his head, puzzled, and surrendered."*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Correct." "That was clever of Joe," thought the cheat as the teacher gave out a word to one of the three contestants."*

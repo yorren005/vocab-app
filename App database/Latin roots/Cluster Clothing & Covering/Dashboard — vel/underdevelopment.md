@@ -5,13 +5,6 @@ status: unread
 ---
 # underdevelopment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State of inadequate development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (photography) inadequate processing of film resulting in inadequate contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underdevelopment designates state of inadequate development."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: State of inadequate development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (photography) inadequate processing of film resulting in inadequate contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underdevelopment designates state of inadequate development."*

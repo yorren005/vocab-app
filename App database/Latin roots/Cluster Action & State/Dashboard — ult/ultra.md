@@ -5,15 +5,6 @@ status: unread
 ---
 # ultra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of opinions and actions) far beyond the norm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of opinions and actions) far beyond the norm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Standard Oil Company at one time had this form of organization, which was declared by the courts to be illegal _(ultra vires)_ for corporations."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The ultra-radical and the ultra-conservative alike declare that these measures "logically" lead on to the complete destruction of private property."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They will ultimately gather within their folds most of the ultra-discontented, and others that are not able to find an alternative economic philosophy and a plan that inspire their hopes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of opinions and actions) far beyond the norm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of opinions and actions) far beyond the norm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Standard Oil Company at one time had this form of organization, which was declared by the courts to be illegal _(ultra vires)_ for corporations."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The ultra-radical and the ultra-conservative alike declare that these measures "logically" lead on to the complete destruction of private property."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They will ultimately gather within their folds most of the ultra-discontented, and others that are not able to find an alternative economic philosophy and a plan that inspire their hopes."*

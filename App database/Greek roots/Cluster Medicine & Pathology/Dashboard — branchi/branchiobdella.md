@@ -5,13 +5,6 @@ status: unread
 ---
 # branchiobdella
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the branchiobdellidae: a small worm that lives on the gills or surface of a crayfish attached by a sucker.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the branchiobdellidae: a small worm that lives on the gills or surface of a crayfish attached by a sucker.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, branchiobdella designates type genus of the branchiobdellidae: a small worm that lives on the gills or surface of a crayfish attached by a sucker."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the branchiobdellidae: a small worm that lives on the gills or surface of a crayfish attached by a sucker.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the branchiobdellidae: a small worm that lives on the gills or surface of a crayfish attached by a sucker.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, branchiobdella designates type genus of the branchiobdellidae: a small worm that lives on the gills or surface of a crayfish attached by a sucker."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # propylaea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vestibule or entrance of architectural importance before a building or enclosure —often plural.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vestibule or entrance of architectural importance before a building or enclosure —often plural.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, propylaea designates a vestibule or entrance of architectural importance before a building or enclosure —often plural."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vestibule or entrance of architectural importance before a building or enclosure —often plural.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vestibule or entrance of architectural importance before a building or enclosure —often plural.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, propylaea designates a vestibule or entrance of architectural importance before a building or enclosure —often plural."*

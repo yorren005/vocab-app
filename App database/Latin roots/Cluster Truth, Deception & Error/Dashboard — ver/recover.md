@@ -5,15 +5,6 @@ status: unread
 ---
 # recover
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get or find back; recover the use of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get over an illness or shock.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I had any drum of the enemy’s; I would swear I recover’d it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He may recover yet. [_Exeunt with the body._] SCENE X."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those that do die of it do seldom or never recover."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Get or find back; recover the use of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get over an illness or shock.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I had any drum of the enemy’s; I would swear I recover’d it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He may recover yet. [_Exeunt with the body._] SCENE X."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those that do die of it do seldom or never recover."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # rodomontade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vain and empty boasting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vain and empty boasting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rodomontade designates vain and empty boasting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vain and empty boasting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vain and empty boasting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rodomontade designates vain and empty boasting."*

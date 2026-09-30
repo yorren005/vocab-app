@@ -5,13 +5,6 @@ status: unread
 ---
 # micro-organism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any organism of microscopic size.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any organism of microscopic size.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micro-organism designates any organism of microscopic size."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any organism of microscopic size.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any organism of microscopic size.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micro-organism designates any organism of microscopic size."*

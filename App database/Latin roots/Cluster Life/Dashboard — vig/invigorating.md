@@ -5,15 +5,6 @@ status: unread
 ---
 # invigorating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heighten or intensify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give life or energy to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet at last appears, rosy from the invigorating pail, and sits down to her work, Mr."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was an invigorating sea breeze, charged with iodine."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He found the tide of wealth flowing merely in the channels of traffic; he has diverted from it invigorating rills to refresh the garden of literature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heighten or intensify.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give life or energy to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet at last appears, rosy from the invigorating pail, and sits down to her work, Mr."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was an invigorating sea breeze, charged with iodine."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He found the tide of wealth flowing merely in the channels of traffic; he has diverted from it invigorating rills to refresh the garden of literature."*

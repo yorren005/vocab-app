@@ -5,15 +5,6 @@ status: unread
 ---
 # virtuously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a moral manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a chaste and virtuous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is hypocrisy against the devil: They that mean virtuously and yet do so, The devil their virtue tempts, and they tempt heaven."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We are so virtuously bound— TIMON."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet all his virtues, Not virtuously on his own part beheld, Do in our eyes begin to lose their gloss; Yea, like fair fruit in an unwholesome dish, Are like to rot untasted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a moral manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a chaste and virtuous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is hypocrisy against the devil: They that mean virtuously and yet do so, The devil their virtue tempts, and they tempt heaven."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We are so virtuously bound— TIMON."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet all his virtues, Not virtuously on his own part beheld, Do in our eyes begin to lose their gloss; Yea, like fair fruit in an unwholesome dish, Are like to rot untasted."*

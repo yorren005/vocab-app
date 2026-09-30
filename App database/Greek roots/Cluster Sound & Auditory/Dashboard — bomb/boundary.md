@@ -5,15 +5,6 @@ status: unread
 ---
 # boundary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The line or plane indicating the limit or extent of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line determining the limits of an area.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He came up to the boundary fence, and stood to regain breath."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The spot had been consecrated to this ancient diversion from time immemorial, the old stocks conveniently forming a base facing the boundary of the churchyard, in front of which the ground was trodden hard and bare as a pavement by the players."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Westward, the wiry boughs of the bare thorn hedge which formed the boundary of the field rose against the pale opalescence of the lower sky."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The line or plane indicating the limit or extent of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line determining the limits of an area.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He came up to the boundary fence, and stood to regain breath."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The spot had been consecrated to this ancient diversion from time immemorial, the old stocks conveniently forming a base facing the boundary of the churchyard, in front of which the ground was trodden hard and bare as a pavement by the players."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Westward, the wiry boughs of the bare thorn hedge which formed the boundary of the field rose against the pale opalescence of the lower sky."*

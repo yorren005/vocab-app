@@ -5,13 +5,6 @@ status: unread
 ---
 # discolouration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soiled or discolored appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of changing the natural color of something by making it duller or dingier or unnatural or faded.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discolouration designates a soiled or discolored appearance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soiled or discolored appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of changing the natural color of something by making it duller or dingier or unnatural or faded.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discolouration designates a soiled or discolored appearance."*

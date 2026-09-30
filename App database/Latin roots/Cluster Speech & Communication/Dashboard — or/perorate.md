@@ -5,13 +5,6 @@ status: unread
 ---
 # perorate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conclude a speech with a formal recapitulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliver an oration in grandiloquent style.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perorate designates conclude a speech with a formal recapitulation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conclude a speech with a formal recapitulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliver an oration in grandiloquent style.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perorate designates conclude a speech with a formal recapitulation."*

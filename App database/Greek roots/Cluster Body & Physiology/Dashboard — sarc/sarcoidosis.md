@@ -5,13 +5,6 @@ status: unread
 ---
 # sarcoidosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic disease of unknown cause that is characterized by the formation of nodules especially in the lymph nodes, lungs, bones, and skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronic disease of unknown cause that is characterized by the formation of nodules especially in the lymph nodes, lungs, bones, and skin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcoidosis designates a chronic disease of unknown cause that is characterized by the formation of nodules especially in the lymph nodes, lungs, bones, and skin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic disease of unknown cause that is characterized by the formation of nodules especially in the lymph nodes, lungs, bones, and skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronic disease of unknown cause that is characterized by the formation of nodules especially in the lymph nodes, lungs, bones, and skin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcoidosis designates a chronic disease of unknown cause that is characterized by the formation of nodules especially in the lymph nodes, lungs, bones, and skin."*

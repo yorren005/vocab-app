@@ -5,13 +5,6 @@ status: unread
 ---
 # telecom
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (often plural) systems used in transmitting messages over a distance electronically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often plural) systems used in transmitting messages over a distance electronically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telecom designates (often plural) systems used in transmitting messages over a distance electronically."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (often plural) systems used in transmitting messages over a distance electronically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often plural) systems used in transmitting messages over a distance electronically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telecom designates (often plural) systems used in transmitting messages over a distance electronically."*

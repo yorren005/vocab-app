@@ -5,15 +5,6 @@ status: unread
 ---
 # archangel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chief angel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of angels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There you have a dim and mighty archangel fitly set before you!"*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"You must mingle in that vast multitude, which the voice of the archangel and the trump of God shall assemble."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Say, goddess, what ensued, when Raphael, The affable archangel . . ."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chief angel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of angels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There you have a dim and mighty archangel fitly set before you!"*
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"You must mingle in that vast multitude, which the voice of the archangel and the trump of God shall assemble."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Say, goddess, what ensued, when Raphael, The affable archangel . . ."*

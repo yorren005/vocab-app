@@ -5,13 +5,6 @@ status: unread
 ---
 # everglades
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large subtropical swamp in southern florida that is noted for its wildlife.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large subtropical swamp in southern florida that is noted for its wildlife.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"No. 63—The Florida Scout; or, The Princess of the Everglades."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large subtropical swamp in southern florida that is noted for its wildlife.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large subtropical swamp in southern florida that is noted for its wildlife.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"No. 63—The Florida Scout; or, The Princess of the Everglades."*

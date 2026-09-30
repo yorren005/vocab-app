@@ -5,15 +5,6 @@ status: unread
 ---
 # amended
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make amendments to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make better.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ambitious love hath so in me offended That barefoot plod I the cold ground upon, With sainted vow my faults to have amended."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet his nature In that’s no changeling, and I must excuse What cannot be amended."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look what is done cannot be now amended."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make amendments to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make better.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ambitious love hath so in me offended That barefoot plod I the cold ground upon, With sainted vow my faults to have amended."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet his nature In that’s no changeling, and I must excuse What cannot be amended."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look what is done cannot be now amended."*

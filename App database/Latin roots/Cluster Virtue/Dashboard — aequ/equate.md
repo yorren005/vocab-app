@@ -5,15 +5,6 @@ status: unread
 ---
 # equate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider or describe as similar, equal, or analogous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be equivalent or parallel, in mathematics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"This they connected with God after the manner familiar to Jewish thinkers, and following the same lead, began to equate it with God, as a separate being."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Second, control of the Depot equates to a strangle hold over construction progress and launch of the Slingshot terminals -- which is life-or-death for the UIPS." "...and not for the rest of us?" "Not for centuries."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Following once more, but this time another leader, Clement equates the Philonian Logos with the historic Jesus of Nazareth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider or describe as similar, equal, or analogous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be equivalent or parallel, in mathematics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"This they connected with God after the manner familiar to Jewish thinkers, and following the same lead, began to equate it with God, as a separate being."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Second, control of the Depot equates to a strangle hold over construction progress and launch of the Slingshot terminals -- which is life-or-death for the UIPS." "...and not for the rest of us?" "Not for centuries."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Following once more, but this time another leader, Clement equates the Philonian Logos with the historic Jesus of Nazareth."*

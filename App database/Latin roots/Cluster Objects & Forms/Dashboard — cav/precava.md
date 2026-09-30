@@ -5,13 +5,6 @@ status: unread
 ---
 # precava
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Receives blood from the head and arms and chest and empties into the right atrium of the heart; formed from the azygos and both brachiocephalic veins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receives blood from the head and arms and chest and empties into the right atrium of the heart; formed from the azygos and both brachiocephalic veins.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precava designates receives blood from the head and arms and chest and empties into the right atrium of the heart; formed from the azygos and both brachiocephalic veins."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Receives blood from the head and arms and chest and empties into the right atrium of the heart; formed from the azygos and both brachiocephalic veins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receives blood from the head and arms and chest and empties into the right atrium of the heart; formed from the azygos and both brachiocephalic veins.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precava designates receives blood from the head and arms and chest and empties into the right atrium of the heart; formed from the azygos and both brachiocephalic veins."*

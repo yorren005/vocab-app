@@ -5,15 +5,6 @@ status: unread
 ---
 # fluently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fluent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a fluent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, take her, And fluently persuade her to a peace. _Et opus exegi, quod nec Jovis ira, nec ignis—_ Strike up, and lead her in."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He spoke fluently and unceasingly."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How is it that you speak so fluently now?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fluent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a fluent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, take her, And fluently persuade her to a peace. _Et opus exegi, quod nec Jovis ira, nec ignis—_ Strike up, and lead her in."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He spoke fluently and unceasingly."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How is it that you speak so fluently now?"*

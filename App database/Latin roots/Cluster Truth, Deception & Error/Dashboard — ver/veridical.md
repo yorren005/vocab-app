@@ -5,13 +5,6 @@ status: unread
 ---
 # veridical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coinciding with reality; - f.a.olafson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coinciding with reality; - f.a.olafson.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, veridical designates coinciding with reality; - f.a.olafson."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coinciding with reality; - f.a.olafson.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coinciding with reality; - f.a.olafson.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, veridical designates coinciding with reality; - f.a.olafson."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # robustious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Noisy and lacking in restraint or discipline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Noisy and lacking in restraint or discipline.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, it offends me to the soul to hear a robustious periwig-pated fellow tear a passion to tatters, to very rags, to split the ears of the groundlings, who, for the most part, are capable of nothing but inexplicable dumb shows and noise."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Just, just; and the men do sympathize with the mastiffs in robustious and rough coming on, leaving their wits with their wives; and then, give them great meals of beef and iron and steel, they will eat like wolves and fight like devils."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A robustious countryman, meeting a physician, ran to hide behind a wall; being asked the cause, he replied, It is so long since I have been sick, that I am ashamed to look a physician in the face. 700."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Noisy and lacking in restraint or discipline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Noisy and lacking in restraint or discipline.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, it offends me to the soul to hear a robustious periwig-pated fellow tear a passion to tatters, to very rags, to split the ears of the groundlings, who, for the most part, are capable of nothing but inexplicable dumb shows and noise."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Just, just; and the men do sympathize with the mastiffs in robustious and rough coming on, leaving their wits with their wives; and then, give them great meals of beef and iron and steel, they will eat like wolves and fight like devils."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A robustious countryman, meeting a physician, ran to hide behind a wall; being asked the cause, he replied, It is so long since I have been sick, that I am ashamed to look a physician in the face. 700."*

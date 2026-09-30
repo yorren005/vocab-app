@@ -5,13 +5,6 @@ status: unread
 ---
 # diaphragm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A body partition of muscle and connective tissue; specifically : the partition separating the chest and abdominal cavities in mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dividing membrane or thin partition especially in a tube.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He compressed between 2 fingers the flesh circumjacent to a cicatrice in the left infracostal region below the diaphragm resulting from a sting inflicted 2 weeks and 3 days previously (23 May 1904) by a bee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A body partition of muscle and connective tissue; specifically : the partition separating the chest and abdominal cavities in mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dividing membrane or thin partition especially in a tube.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"He compressed between 2 fingers the flesh circumjacent to a cicatrice in the left infracostal region below the diaphragm resulting from a sting inflicted 2 weeks and 3 days previously (23 May 1904) by a bee."*

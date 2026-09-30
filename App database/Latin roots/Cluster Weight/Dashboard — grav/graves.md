@@ -5,15 +5,6 @@ status: unread
 ---
 # graves
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English writer known for his interest in mythology and in the classics (1895-1985).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Death of a person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The wrinkles which thy glass will truly show, Of mouthed graves will give thee memory, Thou by thy dial’s shady stealth mayst know, Time’s thievish progress to eternity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Think Upon the wounds his body bears, which show Like graves i’ th’ holy churchyard."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The herbs that have on them cold dew o’ th’ night Are strewings fit’st for graves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English writer known for his interest in mythology and in the classics (1895-1985).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Death of a person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The wrinkles which thy glass will truly show, Of mouthed graves will give thee memory, Thou by thy dial’s shady stealth mayst know, Time’s thievish progress to eternity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Think Upon the wounds his body bears, which show Like graves i’ th’ holy churchyard."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The herbs that have on them cold dew o’ th’ night Are strewings fit’st for graves."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrogenate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Combine or treat with or expose to hydrogen; add hydrogen to the molecule of (an unsaturated organic compound).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Combine or treat with or expose to hydrogen; add hydrogen to the molecule of (an unsaturated organic compound).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrogenate designates combine or treat with or expose to hydrogen; add hydrogen to the molecule of (an unsaturated organic compound)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Combine or treat with or expose to hydrogen; add hydrogen to the molecule of (an unsaturated organic compound).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Combine or treat with or expose to hydrogen; add hydrogen to the molecule of (an unsaturated organic compound).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrogenate designates combine or treat with or expose to hydrogen; add hydrogen to the molecule of (an unsaturated organic compound)."*

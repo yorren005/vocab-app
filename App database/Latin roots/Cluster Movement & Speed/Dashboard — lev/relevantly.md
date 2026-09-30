@@ -5,14 +5,6 @@ status: unread
 ---
 # relevantly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With relevance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With relevance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"That way we shall be saying there is no God—nothing!” shouted Nicholas, banging the table—very little to the point as it seemed to his listeners, but quite relevantly to the course of his own thoughts."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"You’re looking very well,” Osmond repeated still less relevantly than before."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With relevance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With relevance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"That way we shall be saying there is no God—nothing!” shouted Nicholas, banging the table—very little to the point as it seemed to his listeners, but quite relevantly to the course of his own thoughts."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"You’re looking very well,” Osmond repeated still less relevantly than before."*

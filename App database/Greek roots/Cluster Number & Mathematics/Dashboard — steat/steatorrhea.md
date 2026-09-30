@@ -5,13 +5,6 @@ status: unread
 ---
 # steatorrhea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of greater than normal amounts of fat in the feces which are frothy and foul smelling and floating; a symptom of disorders of fat metabolism and malabsorption syndrome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of greater than normal amounts of fat in the feces which are frothy and foul smelling and floating; a symptom of disorders of fat metabolism and malabsorption syndrome.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steatorrhea designates the presence of greater than normal amounts of fat in the feces which are frothy and foul smelling and floating; a symptom of disorders of fat metabolism and malabsorption syndrome."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of greater than normal amounts of fat in the feces which are frothy and foul smelling and floating; a symptom of disorders of fat metabolism and malabsorption syndrome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of greater than normal amounts of fat in the feces which are frothy and foul smelling and floating; a symptom of disorders of fat metabolism and malabsorption syndrome.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steatorrhea designates the presence of greater than normal amounts of fat in the feces which are frothy and foul smelling and floating; a symptom of disorders of fat metabolism and malabsorption syndrome."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # pogonion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The craniometric point that is the most forward-projecting point on the anterior surface of the chin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craniometric point that is the most forward-projecting point on the anterior surface of the chin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pogonion designates the craniometric point that is the most forward-projecting point on the anterior surface of the chin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The craniometric point that is the most forward-projecting point on the anterior surface of the chin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craniometric point that is the most forward-projecting point on the anterior surface of the chin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pogonion designates the craniometric point that is the most forward-projecting point on the anterior surface of the chin."*

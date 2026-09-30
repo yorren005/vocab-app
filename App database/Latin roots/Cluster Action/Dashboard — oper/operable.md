@@ -5,13 +5,6 @@ status: unread
 ---
 # operable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being treated by surgical operation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fit or ready for use or service.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, operable designates capable of being treated by surgical operation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being treated by surgical operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fit or ready for use or service.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, operable designates capable of being treated by surgical operation."*

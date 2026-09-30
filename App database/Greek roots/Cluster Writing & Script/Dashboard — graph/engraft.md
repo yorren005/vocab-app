@@ -5,15 +5,6 @@ status: unread
 ---
 # engraft
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to grow together parts from different plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fix or set securely or deeply.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"You may have a wen or cancer upon your person and not be able to cut it out, lest you bleed to death; but surely it is no way to cure it, to engraft it and spread it over your whole body."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"You may have a wen or cancer upon your person and not be able to cut it out lest you bleed to death; but surely it is no way to cure it, to engraft it and spread it over your whole body."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best and soundest of his time hath been but rash; then must we look from his age to receive not alone the imperfections of long-engrafted condition, but therewithal the unruly waywardness that infirm and choleric years bring with them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to grow together parts from different plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fix or set securely or deeply.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"You may have a wen or cancer upon your person and not be able to cut it out, lest you bleed to death; but surely it is no way to cure it, to engraft it and spread it over your whole body."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"You may have a wen or cancer upon your person and not be able to cut it out lest you bleed to death; but surely it is no way to cure it, to engraft it and spread it over your whole body."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best and soundest of his time hath been but rash; then must we look from his age to receive not alone the imperfections of long-engrafted condition, but therewithal the unruly waywardness that infirm and choleric years bring with them."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # imperial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small tufted beard worn by emperor napoleon iii.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of luggage carried on top of a coach.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, Dian, from thy altar do I fly, And to imperial Love, that god most high, Do my sighs stream. [_To first Lord._] Sir, will you hear my suit?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My due from thee is this imperial crown, Which, as immediate from thy place and blood, Derives itself to me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then hear me, gracious sovereign, and you peers, That owe yourselves, your lives, and services To this imperial throne."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small tufted beard worn by emperor napoleon iii.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of luggage carried on top of a coach.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, Dian, from thy altar do I fly, And to imperial Love, that god most high, Do my sighs stream. [_To first Lord._] Sir, will you hear my suit?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My due from thee is this imperial crown, Which, as immediate from thy place and blood, Derives itself to me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then hear me, gracious sovereign, and you peers, That owe yourselves, your lives, and services To this imperial throne."*

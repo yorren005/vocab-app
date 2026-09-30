@@ -5,15 +5,6 @@ status: unread
 ---
 # fanny
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fleshy part of the human body that you sit on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: External female sex organs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Fortune came, his prize-money as lieutenant being great; promotion, too, came at _last;_ but Fanny Harville did not live to know it."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Captain Wentworth believed it impossible for man to be more attached to woman than poor Benwick had been to Fanny Harville, or to be more deeply afflicted under the dreadful change."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Fanny Harville was a very superior creature, and his attachment to her was indeed attachment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fleshy part of the human body that you sit on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: External female sex organs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Fortune came, his prize-money as lieutenant being great; promotion, too, came at _last;_ but Fanny Harville did not live to know it."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Captain Wentworth believed it impossible for man to be more attached to woman than poor Benwick had been to Fanny Harville, or to be more deeply afflicted under the dreadful change."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Fanny Harville was a very superior creature, and his attachment to her was indeed attachment."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # revocation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being cancelled or annulled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act (by someone having the authority) of annulling something previously done.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Where then had Peter meant the rest of the money to go—and where the land? and what was revoked and what not revoked—and was the revocation for better or for worse?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Vincy felt herself the happiest of women—possible revocation shrinking out of sight in this dazzling vision."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"McKnight, Judge Shaler, Judge Wilkins, Judge Shannon, and others inquiry was instituted, and a revocation of the order obtained."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being cancelled or annulled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act (by someone having the authority) of annulling something previously done.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Where then had Peter meant the rest of the money to go—and where the land? and what was revoked and what not revoked—and was the revocation for better or for worse?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Vincy felt herself the happiest of women—possible revocation shrinking out of sight in this dazzling vision."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"McKnight, Judge Shaler, Judge Wilkins, Judge Shannon, and others inquiry was instituted, and a revocation of the order obtained."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # economy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The structure or conditions of economic life in a country, area, or period; also : an economic system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thrifty and efficient use of material resources : frugality in expenditures; also : an instance or a means of economizing : saving.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In like manner she gets together, in the iron bread-basket, as many outside fragments and worn-down heels of loaves as the rigid economy of the house has left in existence."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now I dare say her marrying another child, and having two more, was all wrong in point of political economy, but it was very agreeable."*
-> - 📜 **Jane Austen (*Persuasion*):** *"While Lady Elliot lived, there had been method, moderation, and economy, which had just kept him within his income; but with her had died all such right-mindedness, and from that period he had been constantly exceeding it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The structure or conditions of economic life in a country, area, or period; also : an economic system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thrifty and efficient use of material resources : frugality in expenditures; also : an instance or a means of economizing : saving.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"In like manner she gets together, in the iron bread-basket, as many outside fragments and worn-down heels of loaves as the rigid economy of the house has left in existence."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now I dare say her marrying another child, and having two more, was all wrong in point of political economy, but it was very agreeable."*
+> - 📜 **Jane Austen (*Persuasion*):** *"While Lady Elliot lived, there had been method, moderation, and economy, which had just kept him within his income; but with her had died all such right-mindedness, and from that period he had been constantly exceeding it."*

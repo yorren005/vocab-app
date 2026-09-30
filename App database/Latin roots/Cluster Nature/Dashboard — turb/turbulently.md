@@ -5,13 +5,6 @@ status: unread
 ---
 # turbulently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a turbulent manner; with turbulence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a stormy or violent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The remorseless sea of turbulently swaying shapes, voices of vengeance, and faces hardened in the furnaces of suffering until the touch of pity could make no mark on them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a turbulent manner; with turbulence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a stormy or violent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The remorseless sea of turbulently swaying shapes, voices of vengeance, and faces hardened in the furnaces of suffering until the touch of pity could make no mark on them."*

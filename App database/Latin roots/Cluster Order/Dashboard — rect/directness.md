@@ -5,15 +5,6 @@ status: unread
 ---
 # directness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trueness of course toward a goal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being honest and straightforward in attitude and speech.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Next day the weather was bad, but she trudged on, the honesty, directness, and impartiality of elemental enmity disconcerting her but little."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There was an unceremonious directness, a searching, decided steadfastness in his gaze now, which told that intention, and not diffidence, had hitherto kept it averted from the stranger."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But he had spoken now, and had spoken with unmistakable directness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Trueness of course toward a goal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being honest and straightforward in attitude and speech.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Next day the weather was bad, but she trudged on, the honesty, directness, and impartiality of elemental enmity disconcerting her but little."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There was an unceremonious directness, a searching, decided steadfastness in his gaze now, which told that intention, and not diffidence, had hitherto kept it averted from the stranger."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But he had spoken now, and had spoken with unmistakable directness."*

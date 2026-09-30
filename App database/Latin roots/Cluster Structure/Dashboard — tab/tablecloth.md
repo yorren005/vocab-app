@@ -5,15 +5,6 @@ status: unread
 ---
 # tablecloth
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A covering spread over a dining table.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A covering spread over a dining table.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She soon finished her eating, and having a consciousness that Clare was regarding her, began to trace imaginary patterns on the tablecloth with her forefinger with the constraint of a domestic animal that perceives itself to be watched."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The others waited for the dairyman’s answer as if their lives hung upon it; Retty, with parted lips, gazing on the tablecloth, Marian with heat added to her redness, Tess throbbing and looking out at the meads."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I have thought over what you say,” she remarked to him, moving her forefinger over the tablecloth, her other hand, which bore the ring that mocked them both, supporting her forehead."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A covering spread over a dining table.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A covering spread over a dining table.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She soon finished her eating, and having a consciousness that Clare was regarding her, began to trace imaginary patterns on the tablecloth with her forefinger with the constraint of a domestic animal that perceives itself to be watched."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The others waited for the dairyman’s answer as if their lives hung upon it; Retty, with parted lips, gazing on the tablecloth, Marian with heat added to her redness, Tess throbbing and looking out at the meads."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I have thought over what you say,” she remarked to him, moving her forefinger over the tablecloth, her other hand, which bore the ring that mocked them both, supporting her forehead."*

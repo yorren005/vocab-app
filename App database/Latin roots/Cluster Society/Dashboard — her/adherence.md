@@ -5,15 +5,6 @@ status: unread
 ---
 # adherence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Faithful support for a cause or political party or religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of sticking together (as of glue and wood) or the joining of surfaces of different composition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"By a steady adherence to the Union we may hope, erelong, to become the arbiter of Europe in America, and to be able to incline the balance of European competitions in this part of the world as our interest may dictate."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A rigorous adherence, however, to this principle, is waived by those who would be gainers by it."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"That inflexible and uniform adherence to the rights of the Constitution, and of individuals, which we perceive to be indispensable in the courts of justice, can certainly not be expected from judges who hold their offices by a temporary commission."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Faithful support for a cause or political party or religion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of sticking together (as of glue and wood) or the joining of surfaces of different composition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"By a steady adherence to the Union we may hope, erelong, to become the arbiter of Europe in America, and to be able to incline the balance of European competitions in this part of the world as our interest may dictate."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A rigorous adherence, however, to this principle, is waived by those who would be gainers by it."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"That inflexible and uniform adherence to the rights of the Constitution, and of individuals, which we perceive to be indispensable in the courts of justice, can certainly not be expected from judges who hold their offices by a temporary commission."*

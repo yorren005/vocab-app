@@ -5,13 +5,6 @@ status: unread
 ---
 # barracking
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shouting to interrupt a speech with which you disagree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lodge in barracks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barracking designates shouting to interrupt a speech with which you disagree."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shouting to interrupt a speech with which you disagree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lodge in barracks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barracking designates shouting to interrupt a speech with which you disagree."*

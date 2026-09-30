@@ -5,13 +5,6 @@ status: unread
 ---
 # primates
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal order including lemurs and tarsiers and monkeys and apes and human beings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A senior clergyman and dignitary.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primates designates an animal order including lemurs and tarsiers and monkeys and apes and human beings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal order including lemurs and tarsiers and monkeys and apes and human beings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A senior clergyman and dignitary.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primates designates an animal order including lemurs and tarsiers and monkeys and apes and human beings."*

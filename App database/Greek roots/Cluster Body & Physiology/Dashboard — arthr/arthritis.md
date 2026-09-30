@@ -5,13 +5,6 @@ status: unread
 ---
 # arthritis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of joints due to infectious, metabolic, or constitutional causes; also : a specific arthritic condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inflammatory arthritis that develops following a bacterial infection (as with chlamydia, shigella, or salmonella), is characterized by pain, swelling, and stiffness of joints (as of the knees or ankles), may be accompanied by inflammation of the eyelids, skin, or urinary tract, and typically lasts one year or less but may become chronic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"The doctors kept saying that my general condition was good and my arthritis might improve some."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of joints due to infectious, metabolic, or constitutional causes; also : a specific arthritic condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inflammatory arthritis that develops following a bacterial infection (as with chlamydia, shigella, or salmonella), is characterized by pain, swelling, and stiffness of joints (as of the knees or ankles), may be accompanied by inflammation of the eyelids, skin, or urinary tract, and typically lasts one year or less but may become chronic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"The doctors kept saying that my general condition was good and my arthritis might improve some."*

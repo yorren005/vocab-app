@@ -5,15 +5,6 @@ status: unread
 ---
 # arcadian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inhabitant of arcadia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used with regard to idealized country life) idyllically rustic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak could pipe with Arcadian sweetness, and the sound of the well-known notes cheered his own heart as well as those of the loungers."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"No idly-feign’d, poetic pains, My sad, love-lorn lamentings claim: No shepherd’s pipe-Arcadian strains; No fabled tortures, quaint and tame."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He agreed with Laura, however, that her fair Arcadian was a trifle too innocent for her years."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inhabitant of arcadia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used with regard to idealized country life) idyllically rustic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak could pipe with Arcadian sweetness, and the sound of the well-known notes cheered his own heart as well as those of the loungers."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"No idly-feign’d, poetic pains, My sad, love-lorn lamentings claim: No shepherd’s pipe-Arcadian strains; No fabled tortures, quaint and tame."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"He agreed with Laura, however, that her fair Arcadian was a trifle too innocent for her years."*

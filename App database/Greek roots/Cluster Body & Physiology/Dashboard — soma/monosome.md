@@ -5,13 +5,6 @@ status: unread
 ---
 # monosome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chromosome lacking a synaptic mate; especially : an unpaired X chromosome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single ribosome.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monosome designates a chromosome lacking a synaptic mate; especially : an unpaired x chromosome."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chromosome lacking a synaptic mate; especially : an unpaired X chromosome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single ribosome.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monosome designates a chromosome lacking a synaptic mate; especially : an unpaired x chromosome."*

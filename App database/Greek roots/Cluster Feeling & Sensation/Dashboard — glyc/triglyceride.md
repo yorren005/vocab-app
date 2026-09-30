@@ -5,13 +5,6 @@ status: unread
 ---
 # triglyceride
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Glyceride occurring naturally in animal and vegetable tissues; it consists of three individual fatty acids bound together in a single large molecule; an important energy source forming much of the fat stored by the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Glyceride occurring naturally in animal and vegetable tissues; it consists of three individual fatty acids bound together in a single large molecule; an important energy source forming much of the fat stored by the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triglyceride designates glyceride occurring naturally in animal and vegetable tissues; it consists of three individual fatty acids bound together in a single large molecule; an important energy source forming much of the fat stored by the body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Glyceride occurring naturally in animal and vegetable tissues; it consists of three individual fatty acids bound together in a single large molecule; an important energy source forming much of the fat stored by the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Glyceride occurring naturally in animal and vegetable tissues; it consists of three individual fatty acids bound together in a single large molecule; an important energy source forming much of the fat stored by the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triglyceride designates glyceride occurring naturally in animal and vegetable tissues; it consists of three individual fatty acids bound together in a single large molecule; an important energy source forming much of the fat stored by the body."*

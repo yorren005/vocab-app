@@ -5,20 +5,6 @@ status: unread
 ---
 # cacophony
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Mix of discordant sounds; dissonance
-> 2. **Nuance / Usage**: Incongruous or chaotic mixture : a striking combination
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Louis Stevenson (*Essays in the Art of Writing*):** *"In the work of bad writers there is cacophony supreme, the rattle of incongruous consonants."*
-> - 📜 **Ray Bradbury (*Fahrenheit 451*):** *"You drowned in music and pure cacophony."*
-> - 📜 **Marcel Proust (*Swann's Way*):** *"To his ears, modern music sounded like a dunghill of cacophony."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A harsh, discordant, and jarring mixture of simultaneous sounds.
+> 2. **Nuance / Usage**: Figuratively, any chaotic, clashing assortment of competing voices, colors, or opinions.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Louis Stevenson (*Essays in the Art of Writing*):** *"In the work of bad writers there is **cacophony** supreme, the rattle of incongruous consonants."*
+> - 📜 **Ray Bradbury (*Fahrenheit 451*):** *"You drowned in music and pure **cacophony**."*
+> - 📜 **Marcel Proust (*Swann's Way*):** *"To his unaccustomed ears, modern music sounded like a jarring **cacophony**."*

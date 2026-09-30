@@ -5,15 +5,6 @@ status: unread
 ---
 # secretary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is head of an administrative department of government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assistant who handles correspondence and clerical work for a boss or an organization.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"WOLSEY. [_Aside to his Secretary_.] A word with you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I shall anon advise you Further in the proceeding. [_Exit Secretary._] Enter Surveyor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cardinal, Prithee call Gardiner to me, my new secretary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is head of an administrative department of government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assistant who handles correspondence and clerical work for a boss or an organization.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"WOLSEY. [_Aside to his Secretary_.] A word with you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I shall anon advise you Further in the proceeding. [_Exit Secretary._] Enter Surveyor."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cardinal, Prithee call Gardiner to me, my new secretary."*

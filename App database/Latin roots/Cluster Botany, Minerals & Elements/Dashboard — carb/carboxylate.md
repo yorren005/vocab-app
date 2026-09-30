@@ -5,13 +5,6 @@ status: unread
 ---
 # carboxylate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat (a chemical compound) with carboxyl or carboxylic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat (a chemical compound) with carboxyl or carboxylic acid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carboxylate designates treat (a chemical compound) with carboxyl or carboxylic acid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat (a chemical compound) with carboxyl or carboxylic acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat (a chemical compound) with carboxyl or carboxylic acid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carboxylate designates treat (a chemical compound) with carboxyl or carboxylic acid."*

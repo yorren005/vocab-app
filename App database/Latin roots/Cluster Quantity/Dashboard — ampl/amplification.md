@@ -5,15 +5,6 @@ status: unread
 ---
 # amplification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Addition of extra material or illustration or clarifying detail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amount of increase in signal power or voltage or current expressed as the ratio of output to input.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Got all the spunk in the world, and you could not get him to squeal or double cross in a million years.” To all of which, and with amplification, Ed Morrell agreed."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It is mainly an amplification of the points put forth in the Message of February 24th, in which he gave his reasons for his orders."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"The truth is, I was determined to write a good letter, full of argument, amplification, erudition, and, as Bayes says, _all that_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Addition of extra material or illustration or clarifying detail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amount of increase in signal power or voltage or current expressed as the ratio of output to input.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Got all the spunk in the world, and you could not get him to squeal or double cross in a million years.” To all of which, and with amplification, Ed Morrell agreed."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It is mainly an amplification of the points put forth in the Message of February 24th, in which he gave his reasons for his orders."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"The truth is, I was determined to write a good letter, full of argument, amplification, erudition, and, as Bayes says, _all that_."*

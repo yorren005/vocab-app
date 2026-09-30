@@ -5,13 +5,6 @@ status: unread
 ---
 # stative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: ( used of verbs (e.g. `be' or `own') and most participial adjectives) expressing existence or a state rather than an action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: ( used of verbs (e.g. `be' or `own') and most participial adjectives) expressing existence or a state rather than an action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stative designates ( used of verbs (e.g. `be' or `own') and most participial adjectives) expressing existence or a state rather than an action."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: ( used of verbs (e.g. `be' or `own') and most participial adjectives) expressing existence or a state rather than an action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: ( used of verbs (e.g. `be' or `own') and most participial adjectives) expressing existence or a state rather than an action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stative designates ( used of verbs (e.g. `be' or `own') and most participial adjectives) expressing existence or a state rather than an action."*

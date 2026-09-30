@@ -5,15 +5,6 @@ status: unread
 ---
 # annual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) a plant that completes its entire life cycle within the space of a year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reference book that is published regularly once every year.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The city strived God Neptune’s annual feast to keep: from whence Lysimachus our Tyrian ship espies, His banners sable, trimm’d with rich expense; And to him in his barge with fervour hies."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In that event, no doubt, he would establish the Jarndyce Institution and the Summerson Almshouses, and a little annual Corporation Pilgrimage to St."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"These annual migrations from farm to farm were on the increase here."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) a plant that completes its entire life cycle within the space of a year.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reference book that is published regularly once every year.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The city strived God Neptune’s annual feast to keep: from whence Lysimachus our Tyrian ship espies, His banners sable, trimm’d with rich expense; And to him in his barge with fervour hies."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In that event, no doubt, he would establish the Jarndyce Institution and the Summerson Almshouses, and a little annual Corporation Pilgrimage to St."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"These annual migrations from farm to farm were on the increase here."*

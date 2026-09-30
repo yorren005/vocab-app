@@ -5,15 +5,6 @@ status: unread
 ---
 # ge
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gilt edges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gilt edges.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Certains droits et privilèges de la noblesse me paraissent être des moyens de soutenir ce sentiment.” * * “The principle of monarchies is honor seems to me incontestable."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"At Jumièges in Normandy, down to the first half of the nineteenth century, the midsummer festival was marked by certain singular features which bore the stamp of a very high antiquity."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"At Jumièges in Normandy the man clad all in green, who bore the title of the Green Wolf, was pursued by his comrades, and when they caught him they feigned to fling him upon the midsummer bonfire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gilt edges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gilt edges.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Certains droits et privilèges de la noblesse me paraissent être des moyens de soutenir ce sentiment.” * * “The principle of monarchies is honor seems to me incontestable."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"At Jumièges in Normandy, down to the first half of the nineteenth century, the midsummer festival was marked by certain singular features which bore the stamp of a very high antiquity."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"At Jumièges in Normandy the man clad all in green, who bore the title of the Green Wolf, was pursued by his comrades, and when they caught him they feigned to fling him upon the midsummer bonfire."*

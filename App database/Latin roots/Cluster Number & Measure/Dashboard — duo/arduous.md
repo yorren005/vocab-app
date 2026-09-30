@@ -5,15 +5,6 @@ status: unread
 ---
 # arduous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by effort to the point of exhaustion; especially physical effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taxing to the utmost; testing powers of endurance; ; ; - f.d.roosevelt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Their legs are so hard as to encourage the idea that they must have devoted the greater part of their long and arduous lives to pedestrian exercises and the walking of matches."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I can now say I am entirely well, and engaged in arduous work--often among the sick, losing whole nights of rest." CURED OF SPINE DISEASE."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In five weeks of most arduous toil I managed thus to make a jar which I estimated to hold a gallon and a half."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by effort to the point of exhaustion; especially physical effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taxing to the utmost; testing powers of endurance; ; ; - f.d.roosevelt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Their legs are so hard as to encourage the idea that they must have devoted the greater part of their long and arduous lives to pedestrian exercises and the walking of matches."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"I can now say I am entirely well, and engaged in arduous work--often among the sick, losing whole nights of rest." CURED OF SPINE DISEASE."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In five weeks of most arduous toil I managed thus to make a jar which I estimated to hold a gallon and a half."*

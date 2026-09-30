@@ -5,15 +5,6 @@ status: unread
 ---
 # creativeness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to create.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability to create.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There is some unsuffusing thing beyond thee, thou clear spirit, to whom all thy eternity is but time, all thy creativeness mechanical."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"They were happy in their worship of beauty in art and in nature, and above all, happy in their creativeness."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"There is some unsuffusing thing beyond thee, thou clear spirit, to whom all thy eternity is but time, all thy creativeness mechanical."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to create.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability to create.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There is some unsuffusing thing beyond thee, thou clear spirit, to whom all thy eternity is but time, all thy creativeness mechanical."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"They were happy in their worship of beauty in art and in nature, and above all, happy in their creativeness."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"There is some unsuffusing thing beyond thee, thou clear spirit, to whom all thy eternity is but time, all thy creativeness mechanical."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # uninstructed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking information or instruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking information or instruction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"When an uninstructed multitude attempts to see with its eyes, it is exceedingly apt to be deceived."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"By those uninstructed in Christian Science, nothing is really understood of material 371:9 existence."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Anybody might know that.” The other boys agreed that there was reason in what Tom said, because an ignorant lump of bread, uninstructed by an incantation, could not be expected to act very intelligently when set upon an errand of such gravity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking information or instruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking information or instruction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"When an uninstructed multitude attempts to see with its eyes, it is exceedingly apt to be deceived."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"By those uninstructed in Christian Science, nothing is really understood of material 371:9 existence."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Anybody might know that.” The other boys agreed that there was reason in what Tom said, because an ignorant lump of bread, uninstructed by an incantation, could not be expected to act very intelligently when set upon an errand of such gravity."*

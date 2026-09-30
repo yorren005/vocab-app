@@ -5,15 +5,6 @@ status: unread
 ---
 # detached
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to become detached or separated; take off.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separate (a small unit) from a larger, especially for a special assignment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Detached hurdles thatched with straw were stuck into the ground at various scattered points, amid and under which the whitish forms of his meek ewes moved and rustled."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When the detached episodes were collected as stated in the preface of 1891, these pages were overlooked, though they were in the original manuscript."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They could then see the faint summer fogs in layers, woolly, level, and apparently no thicker than counterpanes, spread about the meadows in detached remnants of small extent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to become detached or separated; take off.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separate (a small unit) from a larger, especially for a special assignment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Detached hurdles thatched with straw were stuck into the ground at various scattered points, amid and under which the whitish forms of his meek ewes moved and rustled."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When the detached episodes were collected as stated in the preface of 1891, these pages were overlooked, though they were in the original manuscript."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They could then see the faint summer fogs in layers, woolly, level, and apparently no thicker than counterpanes, spread about the meadows in detached remnants of small extent."*

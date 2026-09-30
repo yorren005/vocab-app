@@ -5,15 +5,6 @@ status: unread
 ---
 # sanity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Normal or sound powers of mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Normal or sound powers of mind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A happiness that often madness hits on, which reason and sanity could not so prosperously be delivered of."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My meritorious, distinguished, honourable officer!” She uses some odd expressions, but is as cordial and full of heart as sanity itself can be—more so than it often is."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Long Bill Hodge slowly lost his sanity, so that a year later, he, too, went to live in Bughouse Alley."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Normal or sound powers of mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Normal or sound powers of mind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A happiness that often madness hits on, which reason and sanity could not so prosperously be delivered of."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"My meritorious, distinguished, honourable officer!” She uses some odd expressions, but is as cordial and full of heart as sanity itself can be—more so than it often is."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Long Bill Hodge slowly lost his sanity, so that a year later, he, too, went to live in Bughouse Alley."*

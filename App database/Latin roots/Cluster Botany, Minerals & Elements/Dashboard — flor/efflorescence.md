@@ -5,14 +5,6 @@ status: unread
 ---
 # efflorescence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of greatest prosperity or productivity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any red eruption of the skin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"He could hardly have failed to know the most recent efflorescence of English poetry, living as he did in circles where the varied merits of the new poets were largely and keenly discussed."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"These are easily distinguished by their coarse grey body, reddish at the base, and thin, watery green glaze, very transparent and showing a bluish efflorescence where it has run thick."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of greatest prosperity or productivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any red eruption of the skin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"He could hardly have failed to know the most recent efflorescence of English poetry, living as he did in circles where the varied merits of the new poets were largely and keenly discussed."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"These are easily distinguished by their coarse grey body, reddish at the base, and thin, watery green glaze, very transparent and showing a bluish efflorescence where it has run thick."*

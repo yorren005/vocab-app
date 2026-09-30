@@ -5,15 +5,6 @@ status: unread
 ---
 # separate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A separately printed article that originally appeared in a larger publication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A garment that can be purchased separately and worn in combinations with other garments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will not hence and leave my husband here; And ill it doth beseem your holiness To separate the husband and the wife."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A man can no more separate age and covetousness than he can part young limbs and lechery: but the gout galls the one, and the pox pinches the other; and so both the degrees prevent my curses."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you can separate yourself and your misdemeanours, you are welcome to the house; if not, and it would please you to take leave of her, she is very willing to bid you farewell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A separately printed article that originally appeared in a larger publication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A garment that can be purchased separately and worn in combinations with other garments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will not hence and leave my husband here; And ill it doth beseem your holiness To separate the husband and the wife."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A man can no more separate age and covetousness than he can part young limbs and lechery: but the gout galls the one, and the pox pinches the other; and so both the degrees prevent my curses."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you can separate yourself and your misdemeanours, you are welcome to the house; if not, and it would please you to take leave of her, she is very willing to bid you farewell."*

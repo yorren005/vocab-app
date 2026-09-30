@@ -5,14 +5,6 @@ status: unread
 ---
 # entelechy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (aristotle) the state of something that is fully realized; actuality as opposed to potentiality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (aristotle) the state of something that is fully realized; actuality as opposed to potentiality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"But I, entelechy, form of forms, am I by memory because under everchanging forms."*
-> - 📜 **James Joyce (*Ulysses*):** *"STEPHEN: (_Looks behind_.) So that gesture, not music not odour, would be a universal language, the gift of tongues rendering visible not the lay sense but the first entelechy, the structural rhythm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (aristotle) the state of something that is fully realized; actuality as opposed to potentiality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (aristotle) the state of something that is fully realized; actuality as opposed to potentiality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"But I, entelechy, form of forms, am I by memory because under everchanging forms."*
+> - 📜 **James Joyce (*Ulysses*):** *"STEPHEN: (_Looks behind_.) So that gesture, not music not odour, would be a universal language, the gift of tongues rendering visible not the lay sense but the first entelechy, the structural rhythm."*

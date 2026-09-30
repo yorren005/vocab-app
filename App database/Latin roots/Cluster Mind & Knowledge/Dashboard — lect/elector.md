@@ -5,15 +5,6 @@ status: unread
 ---
 # elector
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A citizen who has a legal right to vote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the german princes who were entitled to vote in the election of new emperor of the holy roman empire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In one of the conflicts, the emperor himself was put to flight, and very near being made prisoner by the elector of Saxony."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It makes no difference that in these senatorial districts and counties a number of representatives are voted for by each elector at the same time."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It forms, however, but one county, in which every elector votes for each of its representatives in the State legislature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A citizen who has a legal right to vote.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the german princes who were entitled to vote in the election of new emperor of the holy roman empire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In one of the conflicts, the emperor himself was put to flight, and very near being made prisoner by the elector of Saxony."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It makes no difference that in these senatorial districts and counties a number of representatives are voted for by each elector at the same time."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It forms, however, but one county, in which every elector votes for each of its representatives in the State legislature."*

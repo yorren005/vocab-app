@@ -5,15 +5,6 @@ status: unread
 ---
 # accurst
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Under a curse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under a curse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In second husband let me be accurst!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O time most accurst, ’Mongst all foes that a friend should be the worst!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Mild zephyrs waft thee to life’s farthest shore, Nor think of me and my distress more,— Falsehood accurst!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Under a curse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under a curse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In second husband let me be accurst!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O time most accurst, ’Mongst all foes that a friend should be the worst!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Mild zephyrs waft thee to life’s farthest shore, Nor think of me and my distress more,— Falsehood accurst!"*

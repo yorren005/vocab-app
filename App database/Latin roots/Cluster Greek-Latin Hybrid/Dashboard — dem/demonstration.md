@@ -5,15 +5,6 @@ status: unread
 ---
 # demonstration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A show or display; the act of presenting something to sight or view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A show of military force or preparedness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did your letters pierce the queen to any demonstration of grief?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By a familiar demonstration of the working, my tough signior."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If that you were The ground-piece of some painter, I would buy you T’ instruct me ’gainst a capital grief, indeed Such heart-pierced demonstration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A show or display; the act of presenting something to sight or view.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A show of military force or preparedness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did your letters pierce the queen to any demonstration of grief?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By a familiar demonstration of the working, my tough signior."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If that you were The ground-piece of some painter, I would buy you T’ instruct me ’gainst a capital grief, indeed Such heart-pierced demonstration."*

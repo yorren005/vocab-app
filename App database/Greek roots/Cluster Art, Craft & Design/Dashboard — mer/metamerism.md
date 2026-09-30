@@ -5,13 +5,6 @@ status: unread
 ---
 # metamerism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having or the stage of evolutionary development characterized by a body made up of metameres.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The identical visual appearance of two colors that have different physical or spectral compositions : the condition of being metameric in color.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metamerism designates the condition of having or the stage of evolutionary development characterized by a body made up of metameres."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having or the stage of evolutionary development characterized by a body made up of metameres.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The identical visual appearance of two colors that have different physical or spectral compositions : the condition of being metameric in color.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metamerism designates the condition of having or the stage of evolutionary development characterized by a body made up of metameres."*

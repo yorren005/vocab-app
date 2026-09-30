@@ -5,13 +5,6 @@ status: unread
 ---
 # Atropos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the three Fates in Greek and Roman mythology who determine human destinies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the three Fates in Greek and Roman mythology who determine human destinies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Atropos designates one of the three fates in greek and roman mythology who determine human destinies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the three Fates in Greek and Roman mythology who determine human destinies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the three Fates in Greek and Roman mythology who determine human destinies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Atropos designates one of the three fates in greek and roman mythology who determine human destinies."*

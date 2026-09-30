@@ -5,13 +5,6 @@ status: unread
 ---
 # heliopsis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any north american shrubby perennial herb of the genus heliopsis having large yellow daisylike flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any north american shrubby perennial herb of the genus heliopsis having large yellow daisylike flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliopsis designates any north american shrubby perennial herb of the genus heliopsis having large yellow daisylike flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any north american shrubby perennial herb of the genus heliopsis having large yellow daisylike flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any north american shrubby perennial herb of the genus heliopsis having large yellow daisylike flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heliopsis designates any north american shrubby perennial herb of the genus heliopsis having large yellow daisylike flowers."*

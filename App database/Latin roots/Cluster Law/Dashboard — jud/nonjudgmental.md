@@ -5,14 +5,6 @@ status: unread
 ---
 # nonjudgmental
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refraining from making judgments especially ones based on personal opinions or standards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refraining from making judgments especially ones based on personal opinions or standards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Whatever the past might have been, his advanced years called for him to be nonjudgmental, empathic, and healing."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"They listen, offer nonjudgmental feedback, and together with the caller, explore options."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Refraining from making judgments especially ones based on personal opinions or standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refraining from making judgments especially ones based on personal opinions or standards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Whatever the past might have been, his advanced years called for him to be nonjudgmental, empathic, and healing."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"They listen, offer nonjudgmental feedback, and together with the caller, explore options."*

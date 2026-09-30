@@ -5,15 +5,6 @@ status: unread
 ---
 # irregularly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an irregular manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an irregular form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"On account of her age she could not well be etherized, nor endure the repeated necessary resetting of the bones, and consequently they grew together irregularly."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some events are unique in nature and seem unlikely ever to occur again; others are of a kind occurring so irregularly that no reasonable prediction can be made as to the time and frequency of their occurrences."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The fields were small and were laid out irregularly, which was no disadvantage for hand cultivation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an irregular manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an irregular form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"On account of her age she could not well be etherized, nor endure the repeated necessary resetting of the bones, and consequently they grew together irregularly."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some events are unique in nature and seem unlikely ever to occur again; others are of a kind occurring so irregularly that no reasonable prediction can be made as to the time and frequency of their occurrences."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The fields were small and were laid out irregularly, which was no disadvantage for hand cultivation."*

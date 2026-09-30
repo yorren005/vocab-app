@@ -5,15 +5,6 @@ status: unread
 ---
 # stringent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Demanding strict attention to rules and procedures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Demanding strict attention to rules and procedures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Any business man able to offer any commercial paper of sound quality should now be able to borrow on it at some rate of discount, even in the most stringent times."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Laws and principles are not for the times when there is no temptation: they are for such moments as this, when body and soul rise in mutiny against their rigour; stringent are they; inviolate they shall be."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I should suffer often, no doubt, attached to him only in this capacity: my body would be under rather a stringent yoke, but my heart and mind would be free."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Demanding strict attention to rules and procedures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Demanding strict attention to rules and procedures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Any business man able to offer any commercial paper of sound quality should now be able to borrow on it at some rate of discount, even in the most stringent times."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Laws and principles are not for the times when there is no temptation: they are for such moments as this, when body and soul rise in mutiny against their rigour; stringent are they; inviolate they shall be."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I should suffer often, no doubt, attached to him only in this capacity: my body would be under rather a stringent yoke, but my heart and mind would be free."*

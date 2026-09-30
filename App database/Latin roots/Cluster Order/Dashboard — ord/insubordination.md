@@ -5,15 +5,6 @@ status: unread
 ---
 # insubordination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defiance of authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insubordinate act.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"She says she won’t!” Nibs exclaimed, aghast at such insubordination, whereupon Peter went sternly toward the young lady’s chamber."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"A plain statement of the course she should pursue in case of insubordination, induced them to proceed and confine themselves, for the time being, to imprecations and grumbling."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"As night approached, it proving impossible to quell her insubordination by rebuke or threats of punishment, Master Brackett, the jailer, thought fit to introduce a physician."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Defiance of authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insubordinate act.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"She says she won’t!” Nibs exclaimed, aghast at such insubordination, whereupon Peter went sternly toward the young lady’s chamber."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"A plain statement of the course she should pursue in case of insubordination, induced them to proceed and confine themselves, for the time being, to imprecations and grumbling."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"As night approached, it proving impossible to quell her insubordination by rebuke or threats of punishment, Master Brackett, the jailer, thought fit to introduce a physician."*

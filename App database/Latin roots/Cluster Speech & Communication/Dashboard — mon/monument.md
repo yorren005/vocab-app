@@ -5,15 +5,6 @@ status: unread
 ---
 # monument
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure erected to commemorate persons or events.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An important site that is marked and preserved as public property.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the quick fire of youth light not your mind, You are no maiden but a monument; When you are dead, you should be such a one As you are now; for you are cold and stern, And now you should be as your mother was When your sweet self was got."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hence, Mardian, And bring me how he takes my death.—To th’ monument! [_Exeunt._] SCENE XIV."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look out o’ th’ other side your monument; His guard have brought him thither."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure erected to commemorate persons or events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An important site that is marked and preserved as public property.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the quick fire of youth light not your mind, You are no maiden but a monument; When you are dead, you should be such a one As you are now; for you are cold and stern, And now you should be as your mother was When your sweet self was got."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hence, Mardian, And bring me how he takes my death.—To th’ monument! [_Exeunt._] SCENE XIV."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look out o’ th’ other side your monument; His guard have brought him thither."*

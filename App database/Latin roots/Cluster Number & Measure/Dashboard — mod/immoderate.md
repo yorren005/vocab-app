@@ -5,15 +5,6 @@ status: unread
 ---
 # immoderate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond reasonable limits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond reasonable limits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As surfeit is the father of much fast, So every scope by the immoderate use Turns to restraint."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt swallowed his meal with signs of immoderate impatience."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I myself should never favor immoderate views—in fact I take my stand with Huskisson—but I cannot blind myself to the consideration that the non-representation of large towns—” “Large towns be damned!” said Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond reasonable limits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond reasonable limits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As surfeit is the father of much fast, So every scope by the immoderate use Turns to restraint."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt swallowed his meal with signs of immoderate impatience."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I myself should never favor immoderate views—in fact I take my stand with Huskisson—but I cannot blind myself to the consideration that the non-representation of large towns—” “Large towns be damned!” said Mr."*

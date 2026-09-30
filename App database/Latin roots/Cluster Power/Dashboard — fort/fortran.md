@@ -5,13 +5,6 @@ status: unread
 ---
 # fortran
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-level programing language for mathematical and scientific purposes; stands for formula translation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A high-level programing language for mathematical and scientific purposes; stands for formula translation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fortran designates a high-level programing language for mathematical and scientific purposes; stands for formula translation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-level programing language for mathematical and scientific purposes; stands for formula translation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A high-level programing language for mathematical and scientific purposes; stands for formula translation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fortran designates a high-level programing language for mathematical and scientific purposes; stands for formula translation."*

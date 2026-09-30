@@ -5,13 +5,6 @@ status: unread
 ---
 # suborbital
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or involving a trajectory of less than one orbit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated on or below the floor of the eye socket.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suborbital designates having or involving a trajectory of less than one orbit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or involving a trajectory of less than one orbit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated on or below the floor of the eye socket.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suborbital designates having or involving a trajectory of less than one orbit."*

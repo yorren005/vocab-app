@@ -5,15 +5,6 @@ status: unread
 ---
 # plutonian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of hades or tartarus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of hades or tartarus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Since that time to our days the Plutonian work has been suspended."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I conclude that Plutonian weapons destroyed both ships."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Defense Alert One remains in effect at Slingshot construction site and throughout Plutonian Special Zone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of hades or tartarus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of hades or tartarus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Since that time to our days the Plutonian work has been suspended."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I conclude that Plutonian weapons destroyed both ships."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Defense Alert One remains in effect at Slingshot construction site and throughout Plutonian Special Zone."*

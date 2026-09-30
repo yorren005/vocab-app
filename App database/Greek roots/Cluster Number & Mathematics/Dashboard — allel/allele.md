@@ -5,13 +5,6 @@ status: unread
 ---
 # allele
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the alternative forms of a gene that may occur at a given locus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of a pair of alternative Mendelian characters (such as smooth and wrinkled seed in the pea).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"It is amusing to view the unpar one ar alleled embarra two ars is it? double ess ment of a harassed pedlar while gauging au the symmetry with a y of a peeled pear under a cemetery wall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the alternative forms of a gene that may occur at a given locus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of a pair of alternative Mendelian characters (such as smooth and wrinkled seed in the pea).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"It is amusing to view the unpar one ar alleled embarra two ars is it? double ess ment of a harassed pedlar while gauging au the symmetry with a y of a peeled pear under a cemetery wall."*

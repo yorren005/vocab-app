@@ -5,15 +5,6 @@ status: unread
 ---
 # physique
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constitution of the human body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alternative names for the body of a human being.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Another brother, James, a young man of vigorous mental powers, and originally of stalwart physique, who had been working at his trade as a tailor in Glasgow, fell into bad health, which soon showed the symptoms of rapid consumption."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"In 1766 William Burness rented on borrowed money the farm of Mount Oliphant, and in taking his share in the effort to make this undertaking succeed, the future poet seems to have seriously overstrained his physique."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She was by nature an actress of parts that entered into her _physique:_ she even acted her own character, and so well, that she did not know it to be precisely her own.) “The best in Middlemarch, I’ll be bound,” said Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constitution of the human body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alternative names for the body of a human being.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Another brother, James, a young man of vigorous mental powers, and originally of stalwart physique, who had been working at his trade as a tailor in Glasgow, fell into bad health, which soon showed the symptoms of rapid consumption."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"In 1766 William Burness rented on borrowed money the farm of Mount Oliphant, and in taking his share in the effort to make this undertaking succeed, the future poet seems to have seriously overstrained his physique."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She was by nature an actress of parts that entered into her _physique:_ she even acted her own character, and so well, that she did not know it to be precisely her own.) “The best in Middlemarch, I’ll be bound,” said Mr."*

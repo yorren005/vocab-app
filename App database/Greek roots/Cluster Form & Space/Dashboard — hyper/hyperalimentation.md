@@ -5,13 +5,6 @@ status: unread
 ---
 # hyperalimentation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administration of a nutritionally adequate solution through a catheter into the vena cava; used in cases of long-term coma or severe burns or severe gastrointestinal syndromes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Administration of a nutritionally adequate solution through a catheter into the vena cava; used in cases of long-term coma or severe burns or severe gastrointestinal syndromes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperalimentation designates administration of a nutritionally adequate solution through a catheter into the vena cava; used in cases of long-term coma or severe burns or severe gastrointestinal syndromes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Administration of a nutritionally adequate solution through a catheter into the vena cava; used in cases of long-term coma or severe burns or severe gastrointestinal syndromes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Administration of a nutritionally adequate solution through a catheter into the vena cava; used in cases of long-term coma or severe burns or severe gastrointestinal syndromes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperalimentation designates administration of a nutritionally adequate solution through a catheter into the vena cava; used in cases of long-term coma or severe burns or severe gastrointestinal syndromes."*

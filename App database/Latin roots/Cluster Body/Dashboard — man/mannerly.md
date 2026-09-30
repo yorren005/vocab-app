@@ -5,15 +5,6 @@ status: unread
 ---
 # mannerly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Socially correct in behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Socially correct in behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Discourse is heavy, fasting; when we have supp’d, We’ll mannerly demand thee of thy story, So far as thou wilt speak it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tut, tut, here is a mannerly forbearance!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, come, Nerissa, for I long to see Quick Cupid’s post that comes so mannerly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Socially correct in behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Socially correct in behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Discourse is heavy, fasting; when we have supp’d, We’ll mannerly demand thee of thy story, So far as thou wilt speak it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tut, tut, here is a mannerly forbearance!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, come, Nerissa, for I long to see Quick Cupid’s post that comes so mannerly."*

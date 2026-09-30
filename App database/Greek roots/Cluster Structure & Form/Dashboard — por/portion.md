@@ -5,15 +5,6 @@ status: unread
 ---
 # portion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something determined in relation to something that includes it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something less than the whole of a human artifact.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What prodigal portion have I spent that I should come to such penury?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, gentle madam, I unworthy am To woo so fair a dame to be his wife, And have no portion in the choice myself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What piles of wealth hath he accumulated To his own portion!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something determined in relation to something that includes it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something less than the whole of a human artifact.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What prodigal portion have I spent that I should come to such penury?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, gentle madam, I unworthy am To woo so fair a dame to be his wife, And have no portion in the choice myself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What piles of wealth hath he accumulated To his own portion!"*

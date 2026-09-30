@@ -5,13 +5,6 @@ status: unread
 ---
 # psychogenesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The development in the life of an individual of some disorder that is caused by psychological rather than physiological factors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A general term for the origin and development of almost any aspect of the mind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychogenesis designates the development in the life of an individual of some disorder that is caused by psychological rather than physiological factors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The development in the life of an individual of some disorder that is caused by psychological rather than physiological factors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A general term for the origin and development of almost any aspect of the mind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychogenesis designates the development in the life of an individual of some disorder that is caused by psychological rather than physiological factors."*

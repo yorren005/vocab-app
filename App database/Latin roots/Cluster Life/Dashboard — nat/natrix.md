@@ -5,13 +5,6 @@ status: unread
 ---
 # natrix
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Water snakes; a cosmopolitan genus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Water snakes; a cosmopolitan genus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, natrix designates water snakes; a cosmopolitan genus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Water snakes; a cosmopolitan genus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Water snakes; a cosmopolitan genus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, natrix designates water snakes; a cosmopolitan genus."*

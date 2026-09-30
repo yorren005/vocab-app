@@ -5,15 +5,6 @@ status: unread
 ---
 # idiot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A foolish or stupid person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person affected with extreme intellectual disability.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"DROMIO OF SYRACUSE. [_Within._] Mome, malt-horse, capon, coxcomb, idiot, patch!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Life’s but a walking shadow; a poor player, That struts and frets his hour upon the stage, And then is heard no more: it is a tale Told by an idiot, full of sound and fury, Signifying nothing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The portrait of a blinking idiot Presenting me a schedule!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A foolish or stupid person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person affected with extreme intellectual disability.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"DROMIO OF SYRACUSE. [_Within._] Mome, malt-horse, capon, coxcomb, idiot, patch!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Life’s but a walking shadow; a poor player, That struts and frets his hour upon the stage, And then is heard no more: it is a tale Told by an idiot, full of sound and fury, Signifying nothing."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The portrait of a blinking idiot Presenting me a schedule!"*

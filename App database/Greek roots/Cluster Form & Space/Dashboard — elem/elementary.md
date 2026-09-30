@@ -5,15 +5,6 @@ status: unread
 ---
 # elementary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easy and not involved or complicated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or characteristic of elementary school or elementary education.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"But he had now to look about him for employment in the vacation; and for a while, in spite of the successes of the past session, he was unable to find it, and was glad to take some poorly paid elementary teaching."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To understand in the most general way how this occurs, a knowledge at least of the elementary principles of foreign exchange is required, and to this we may now turn."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The view that there are "two profits" in a trade is an advance upon the notion that "one man's gain is another's loss,"[3] but there is an error in elementary arithmetic here, both as to the number and as to the aggregate amount of profits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easy and not involved or complicated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or characteristic of elementary school or elementary education.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"But he had now to look about him for employment in the vacation; and for a while, in spite of the successes of the past session, he was unable to find it, and was glad to take some poorly paid elementary teaching."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To understand in the most general way how this occurs, a knowledge at least of the elementary principles of foreign exchange is required, and to this we may now turn."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The view that there are "two profits" in a trade is an advance upon the notion that "one man's gain is another's loss,"[3] but there is an error in elementary arithmetic here, both as to the number and as to the aggregate amount of profits."*

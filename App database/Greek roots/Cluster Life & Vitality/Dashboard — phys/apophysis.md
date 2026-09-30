@@ -5,13 +5,6 @@ status: unread
 ---
 # apophysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) a natural swelling or enlargement: at the base of the stalk or seta in certain mosses or on the cone scale of certain conifers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anatomy) a natural outgrowth or projection on an organ or body part such as the process of a vertebra.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apophysis designates (botany) a natural swelling or enlargement: at the base of the stalk or seta in certain mosses or on the cone scale of certain conifers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) a natural swelling or enlargement: at the base of the stalk or seta in certain mosses or on the cone scale of certain conifers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anatomy) a natural outgrowth or projection on an organ or body part such as the process of a vertebra.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apophysis designates (botany) a natural swelling or enlargement: at the base of the stalk or seta in certain mosses or on the cone scale of certain conifers."*

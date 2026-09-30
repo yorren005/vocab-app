@@ -5,20 +5,6 @@ status: unread
 ---
 # doom
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Judgment
-> 2. **Nuance / Usage**: Destiny, especially terrible
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the doom withstood the storm*), direct object (*cleaved the doom*), or prepositional anchor (*amidst the doom*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Thy end is truth’s and beauty’s doom and date."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And live; if no, then thou art doom’d to die."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Expect your highness’ doom of life or death."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Judgment
+> 2. **Nuance / Usage**: Destiny, especially terrible
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the doom withstood the storm*), direct object (*cleaved the doom*), or prepositional anchor (*amidst the doom*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Thy end is truth’s and beauty’s doom and date."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And live; if no, then thou art doom’d to die."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Expect your highness’ doom of life or death."*

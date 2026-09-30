@@ -5,14 +5,6 @@ status: unread
 ---
 # rectangle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A parallelogram with four right angles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parallelogram with four right angles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"It is equally incorrect to say that when there are 60 units the "total utility" is equal to the area between the right angle and the curve a-g, while the value is equal to the rectangle below and to the left of the point g."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Let the better grades of indirect agents be represented by longer rectangles, the upper parts of which represent the more accessible, more easily secured utilities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A parallelogram with four right angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parallelogram with four right angles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"It is equally incorrect to say that when there are 60 units the "total utility" is equal to the area between the right angle and the curve a-g, while the value is equal to the rectangle below and to the left of the point g."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Let the better grades of indirect agents be represented by longer rectangles, the upper parts of which represent the more accessible, more easily secured utilities."*

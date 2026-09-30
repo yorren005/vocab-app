@@ -5,15 +5,6 @@ status: unread
 ---
 # rapturous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling great rapture or delight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling great rapture or delight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was in this state when I first shrunk from the light as it twinkled on me once more, and knew with a boundless joy for which no words are rapturous enough that I should see again."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Not one, however, started with rapturous wonder on beholding her, no whisper of eager inquiry ran round the room, nor was she once called a divinity by anybody."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Your Beauty’s a flower in the morning that blows, And withers the faster, the faster it grows: But the rapturous charm o’ the bonie green knowes, Ilk spring they’re new deckit wi’ bonie white yowes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling great rapture or delight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling great rapture or delight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I was in this state when I first shrunk from the light as it twinkled on me once more, and knew with a boundless joy for which no words are rapturous enough that I should see again."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Not one, however, started with rapturous wonder on beholding her, no whisper of eager inquiry ran round the room, nor was she once called a divinity by anybody."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Your Beauty’s a flower in the morning that blows, And withers the faster, the faster it grows: But the rapturous charm o’ the bonie green knowes, Ilk spring they’re new deckit wi’ bonie white yowes."*

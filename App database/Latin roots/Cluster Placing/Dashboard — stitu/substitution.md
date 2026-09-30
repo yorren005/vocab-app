@@ -5,15 +5,6 @@ status: unread
 ---
 # substitution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event in which one thing is substituted for another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting one thing or person in the place of another:.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"What shall be the actual rate as between these extremes is a question whose answer depends on our economic legislation as to ownership, exploitation, prices, use, and substitution."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But this does not mean that it would be economical, at present costs of mining coal and of building reservoirs, to make this substitution now."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To determine when, how far, and by what methods to develop this water power from lakes and rivers for the use of the people and to make this substitution, is another of our great economic problems."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An event in which one thing is substituted for another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting one thing or person in the place of another:.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"What shall be the actual rate as between these extremes is a question whose answer depends on our economic legislation as to ownership, exploitation, prices, use, and substitution."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But this does not mean that it would be economical, at present costs of mining coal and of building reservoirs, to make this substitution now."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To determine when, how far, and by what methods to develop this water power from lakes and rivers for the use of the people and to make this substitution, is another of our great economic problems."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # anthoceropsida
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hornworts: in some classification systems included in the class hepaticopsida.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hornworts: in some classification systems included in the class hepaticopsida.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthoceropsida designates hornworts: in some classification systems included in the class hepaticopsida."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hornworts: in some classification systems included in the class hepaticopsida.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hornworts: in some classification systems included in the class hepaticopsida.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthoceropsida designates hornworts: in some classification systems included in the class hepaticopsida."*

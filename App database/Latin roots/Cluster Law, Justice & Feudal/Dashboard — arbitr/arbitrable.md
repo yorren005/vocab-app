@@ -5,13 +5,6 @@ status: unread
 ---
 # arbitrable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appropriate for or subject to settlement by arbitration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appropriate for or subject to settlement by arbitration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arbitrable designates appropriate for or subject to settlement by arbitration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Appropriate for or subject to settlement by arbitration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appropriate for or subject to settlement by arbitration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arbitrable designates appropriate for or subject to settlement by arbitration."*

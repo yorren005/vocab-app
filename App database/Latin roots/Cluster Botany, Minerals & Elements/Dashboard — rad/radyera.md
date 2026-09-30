@@ -5,13 +5,6 @@ status: unread
 ---
 # radyera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very small genus of shrubs of southern hemisphere: bush hibiscus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very small genus of shrubs of southern hemisphere: bush hibiscus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radyera designates very small genus of shrubs of southern hemisphere: bush hibiscus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very small genus of shrubs of southern hemisphere: bush hibiscus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very small genus of shrubs of southern hemisphere: bush hibiscus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radyera designates very small genus of shrubs of southern hemisphere: bush hibiscus."*

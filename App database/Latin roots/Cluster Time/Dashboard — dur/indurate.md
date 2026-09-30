@@ -5,15 +5,6 @@ status: unread
 ---
 # indurate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become fixed or established.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make hard or harder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was a wide margin of grass along here, and Gabriel’s footsteps were deadened by its softness, even at this indurating period of the year."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"But he is a dour old man--indurated, impervious to good influence."*
-> - 📜 **James Joyce (*Ulysses*):** *"Both indurated by early domestic training and an inherited tenacity of heterodox resistance professed their disbelief in many orthodox religious, national, social and ethical doctrines."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become fixed or established.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make hard or harder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was a wide margin of grass along here, and Gabriel’s footsteps were deadened by its softness, even at this indurating period of the year."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"But he is a dour old man--indurated, impervious to good influence."*
+> - 📜 **James Joyce (*Ulysses*):** *"Both indurated by early domestic training and an inherited tenacity of heterodox resistance professed their disbelief in many orthodox religious, national, social and ethical doctrines."*

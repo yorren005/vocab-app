@@ -5,13 +5,6 @@ status: unread
 ---
 # humification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of the formation of humus from plant remains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of the formation of humus from plant remains.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, humification designates the process of the formation of humus from plant remains."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of the formation of humus from plant remains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of the formation of humus from plant remains.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, humification designates the process of the formation of humus from plant remains."*

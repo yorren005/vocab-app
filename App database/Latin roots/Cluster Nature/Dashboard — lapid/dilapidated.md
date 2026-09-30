@@ -5,15 +5,6 @@ status: unread
 ---
 # dilapidated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into a condition of decay or partial ruin by neglect or misuse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fall into decay or ruin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the meantime, the place became dilapidated, the wind whistled through the cracked walls, the rain fell through the broken roof, the weeds choked the passage to the rotting door."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is a black, dilapidated street, avoided by all decent people, where the crazy houses were seized upon, when their decay was far advanced, by some bold vagrants who after establishing their own possession took to letting them out in lodgings."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She passed through the whole sliding scale, until the missionary found her in the poor, dilapidated tenement where, for two days and nights, she had lain in bed to keep warm; or as nearly so as her scanty covering would admit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into a condition of decay or partial ruin by neglect or misuse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fall into decay or ruin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"In the meantime, the place became dilapidated, the wind whistled through the cracked walls, the rain fell through the broken roof, the weeds choked the passage to the rotting door."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is a black, dilapidated street, avoided by all decent people, where the crazy houses were seized upon, when their decay was far advanced, by some bold vagrants who after establishing their own possession took to letting them out in lodgings."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"She passed through the whole sliding scale, until the missionary found her in the poor, dilapidated tenement where, for two days and nights, she had lain in bed to keep warm; or as nearly so as her scanty covering would admit."*

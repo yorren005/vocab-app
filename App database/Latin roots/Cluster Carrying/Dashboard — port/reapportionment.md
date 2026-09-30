@@ -5,13 +5,6 @@ status: unread
 ---
 # reapportionment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A new apportionment (especially a new apportionment of congressional seats in the united states on the basis of census results).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A new apportionment (especially a new apportionment of congressional seats in the united states on the basis of census results).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"As these States will, for a great length of time, advance in population with peculiar rapidity, they will be interested in frequent reapportionments of the representatives to the number of inhabitants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A new apportionment (especially a new apportionment of congressional seats in the united states on the basis of census results).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A new apportionment (especially a new apportionment of congressional seats in the united states on the basis of census results).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"As these States will, for a great length of time, advance in population with peculiar rapidity, they will be interested in frequent reapportionments of the representatives to the number of inhabitants."*

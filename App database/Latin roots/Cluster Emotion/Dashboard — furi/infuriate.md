@@ -5,15 +5,6 @@ status: unread
 ---
 # infuriate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make furious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make furious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"The rain poured like a second deluge, and terrific winds roared, and shrieked, and bellowed like infuriate spirits of the rushing storm."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"An ani- mal may infuriate another by looking it in the eye, and both will fight for nothing."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The effect was to infuriate the old fellow tenfold, and down he came careering toward us, with what I then thought the most vicious expression of countenance I had ever seen on a buffalo's physiognomy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make furious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make furious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"The rain poured like a second deluge, and terrific winds roared, and shrieked, and bellowed like infuriate spirits of the rushing storm."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"An ani- mal may infuriate another by looking it in the eye, and both will fight for nothing."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The effect was to infuriate the old fellow tenfold, and down he came careering toward us, with what I then thought the most vicious expression of countenance I had ever seen on a buffalo's physiognomy."*

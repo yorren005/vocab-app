@@ -5,13 +5,6 @@ status: unread
 ---
 # radiopharmaceutical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pharmaceutical consisting of a radioactive compound used in radiation therapy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pharmaceutical consisting of a radioactive compound used in radiation therapy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiopharmaceutical designates pharmaceutical consisting of a radioactive compound used in radiation therapy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pharmaceutical consisting of a radioactive compound used in radiation therapy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pharmaceutical consisting of a radioactive compound used in radiation therapy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiopharmaceutical designates pharmaceutical consisting of a radioactive compound used in radiation therapy."*

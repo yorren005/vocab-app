@@ -5,13 +5,6 @@ status: unread
 ---
 # dynastic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A succession of rulers of the same line of descent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A powerful group or family that maintains its position for a considerable time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dynastic designates a succession of rulers of the same line of descent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A succession of rulers of the same line of descent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A powerful group or family that maintains its position for a considerable time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dynastic designates a succession of rulers of the same line of descent."*

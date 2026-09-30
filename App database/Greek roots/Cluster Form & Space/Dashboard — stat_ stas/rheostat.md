@@ -5,15 +5,6 @@ status: unread
 ---
 # rheostat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resistor for regulating current.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resistor for regulating current.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This is done by making each crank operate a variable resistance or rheostat."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"So current from a battery flows to the two wires leading to the distant station, each passing through the rheostat connected to one of the cranks."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And that force can be very easily varied by the use of an instrument called a "rheostat" or variable resistance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resistor for regulating current.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resistor for regulating current.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This is done by making each crank operate a variable resistance or rheostat."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"So current from a battery flows to the two wires leading to the distant station, each passing through the rheostat connected to one of the cranks."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And that force can be very easily varied by the use of an instrument called a "rheostat" or variable resistance."*

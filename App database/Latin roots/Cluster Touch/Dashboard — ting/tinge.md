@@ -5,15 +5,6 @@ status: unread
 ---
 # tinge
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slight but appreciable amount.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pale or subdued color.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Our dear little old woman is such a capital old woman,” Richard would say, coming up to meet me in the garden early, with his pleasant laugh and perhaps the least tinge of a blush, “that I can’t get on without her."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge with a tinge of melancholy in his smile, “one of those coincidences which may or may not require an explanation beyond our present limited faculties, that I have a cousin in the medical profession."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The secret lay in the tinge of recklessness imparted to his career and character by the sense that he had been made to miss his true destiny through the prejudices of his family."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slight but appreciable amount.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pale or subdued color.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Our dear little old woman is such a capital old woman,” Richard would say, coming up to meet me in the garden early, with his pleasant laugh and perhaps the least tinge of a blush, “that I can’t get on without her."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge with a tinge of melancholy in his smile, “one of those coincidences which may or may not require an explanation beyond our present limited faculties, that I have a cousin in the medical profession."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The secret lay in the tinge of recklessness imparted to his career and character by the sense that he had been made to miss his true destiny through the prejudices of his family."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # decollete
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a garment) having a low-cut neckline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a garment) having a low-cut neckline.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decollete designates (of a garment) having a low-cut neckline."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a garment) having a low-cut neckline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a garment) having a low-cut neckline.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decollete designates (of a garment) having a low-cut neckline."*

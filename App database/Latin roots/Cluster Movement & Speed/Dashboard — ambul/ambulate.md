@@ -5,13 +5,6 @@ status: unread
 ---
 # ambulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Walk about; not be bedridden or incapable of walking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walk about; not be bedridden or incapable of walking.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ambulate designates walk about; not be bedridden or incapable of walking."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Walk about; not be bedridden or incapable of walking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walk about; not be bedridden or incapable of walking.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ambulate designates walk about; not be bedridden or incapable of walking."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # canute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: King of denmark and norway who forced edmund ii to divide england with him; on the death of edmund ii, canute became king of all england (994-1035).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King of denmark and norway who forced edmund ii to divide england with him; on the death of edmund ii, canute became king of all england (994-1035).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The great castle of Norwich, built by Canute, and the great tower at Bury, prove their civilization and skill in architecture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: King of denmark and norway who forced edmund ii to divide england with him; on the death of edmund ii, canute became king of all england (994-1035).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King of denmark and norway who forced edmund ii to divide england with him; on the death of edmund ii, canute became king of all england (994-1035).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The great castle of Norwich, built by Canute, and the great tower at Bury, prove their civilization and skill in architecture."*

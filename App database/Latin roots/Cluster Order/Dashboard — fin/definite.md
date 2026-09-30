@@ -5,15 +5,6 @@ status: unread
 ---
 # definite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Precise; explicit and clearly defined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Known for certain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was not like what I had expected, but I had expected nothing definite, and I dare say anything definite would have surprised me."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Oh, as to resting NOW,” said Richard, “or as to doing anything very definite NOW, that’s not easy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And pray has he done so?” “Really, Lady Dedlock, I cannot make you a definite reply."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Precise; explicit and clearly defined.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Known for certain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It was not like what I had expected, but I had expected nothing definite, and I dare say anything definite would have surprised me."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Oh, as to resting NOW,” said Richard, “or as to doing anything very definite NOW, that’s not easy."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And pray has he done so?” “Really, Lady Dedlock, I cannot make you a definite reply."*

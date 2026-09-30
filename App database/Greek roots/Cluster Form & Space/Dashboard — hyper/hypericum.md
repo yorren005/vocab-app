@@ -5,13 +5,6 @@ status: unread
 ---
 # hypericum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large almost cosmopolitan genus of evergreen or deciduous shrubs and herbs with often showy yellow flowers; cosmopolitan except tropical lowlands and arctic or high altitudes and desert regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large almost cosmopolitan genus of evergreen or deciduous shrubs and herbs with often showy yellow flowers; cosmopolitan except tropical lowlands and arctic or high altitudes and desert regions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"John’s-wort (_Hypericum_), but especially on the under surface of the leaves of the Tutsan, covering them with its golden-coloured spores (Plate VIII. fig. 174)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large almost cosmopolitan genus of evergreen or deciduous shrubs and herbs with often showy yellow flowers; cosmopolitan except tropical lowlands and arctic or high altitudes and desert regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large almost cosmopolitan genus of evergreen or deciduous shrubs and herbs with often showy yellow flowers; cosmopolitan except tropical lowlands and arctic or high altitudes and desert regions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"John’s-wort (_Hypericum_), but especially on the under surface of the leaves of the Tutsan, covering them with its golden-coloured spores (Plate VIII. fig. 174)."*

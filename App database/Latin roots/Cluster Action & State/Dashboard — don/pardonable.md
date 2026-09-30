@@ -5,15 +5,6 @@ status: unread
 ---
 # pardonable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Admitting of being pardoned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Admitting of being pardoned.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He thought it a very degrading alliance; and Lady Russell, though with more tempered and pardonable pride, received it as a most unfortunate one."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The Admiral hated marriage, and thought it never pardonable in a young man of independent fortune."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Inquiries into our condition are allowable when they are prompted by a disinterested concern for our welfare; and this solicitude is not only pardonable, but may justly be demanded from those who choose us for their companions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Admitting of being pardoned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Admitting of being pardoned.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"He thought it a very degrading alliance; and Lady Russell, though with more tempered and pardonable pride, received it as a most unfortunate one."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The Admiral hated marriage, and thought it never pardonable in a young man of independent fortune."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Inquiries into our condition are allowable when they are prompted by a disinterested concern for our welfare; and this solicitude is not only pardonable, but may justly be demanded from those who choose us for their companions."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # voter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A citizen who has a legal right to vote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A citizen who has a legal right to vote.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Look what Stanley said the other day—that the House had been tinkering long enough at small questions of bribery, inquiring whether this or that voter has had a guinea when everybody knows that the seats have been sold wholesale."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke, necessarily, had his agents, who understood the nature of the Middlemarch voter and the means of enlisting his ignorance on the side of the Bill—which were remarkably similar to the means of enlisting it on the side against the Bill."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"By the State law, as long as an Indian is simply an Indian, he can buy no whisky, and is thus cruelly debarred from the privilege of getting drunk, but once a voter, he can luxuriate in corn-juice and the calaboose, as well as his white brother."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A citizen who has a legal right to vote.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A citizen who has a legal right to vote.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Look what Stanley said the other day—that the House had been tinkering long enough at small questions of bribery, inquiring whether this or that voter has had a guinea when everybody knows that the seats have been sold wholesale."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke, necessarily, had his agents, who understood the nature of the Middlemarch voter and the means of enlisting his ignorance on the side of the Bill—which were remarkably similar to the means of enlisting it on the side against the Bill."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"By the State law, as long as an Indian is simply an Indian, he can buy no whisky, and is thus cruelly debarred from the privilege of getting drunk, but once a voter, he can luxuriate in corn-juice and the calaboose, as well as his white brother."*

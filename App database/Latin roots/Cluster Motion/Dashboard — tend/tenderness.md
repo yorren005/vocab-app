@@ -5,15 +5,6 @@ status: unread
 ---
 # tenderness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tendency to express warm and affectionate feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pain that is felt (as when the area is touched).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not of a woman’s tenderness to be Requires nor child nor woman’s face to see.— I have sat too long. [_He rises._] VOLUMNIA."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O lady, weep no more, lest I give cause To be suspected of more tenderness Than doth become a man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not an eye But is a-weary of thy common sight, Save mine, which hath desired to see thee more, Which now doth that I would not have it do, Make blind itself with foolish tenderness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tendency to express warm and affectionate feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pain that is felt (as when the area is touched).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not of a woman’s tenderness to be Requires nor child nor woman’s face to see.— I have sat too long. [_He rises._] VOLUMNIA."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O lady, weep no more, lest I give cause To be suspected of more tenderness Than doth become a man."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not an eye But is a-weary of thy common sight, Save mine, which hath desired to see thee more, Which now doth that I would not have it do, Make blind itself with foolish tenderness."*

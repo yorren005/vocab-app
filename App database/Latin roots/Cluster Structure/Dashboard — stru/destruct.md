@@ -5,13 +5,6 @@ status: unread
 ---
 # destruct
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy (one's own missile or rocket).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Do away with, cause the destruction or undoing of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, destruct designates destroy (one's own missile or rocket)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy (one's own missile or rocket).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Do away with, cause the destruction or undoing of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, destruct designates destroy (one's own missile or rocket)."*

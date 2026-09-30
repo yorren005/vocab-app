@@ -5,15 +5,6 @@ status: unread
 ---
 # gratitude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of thankfulness and appreciation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of thankfulness and appreciation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Time was I did him a desired office, Dear almost as his life; which gratitude Through flinty Tartar’s bosom would peep forth, And answer thanks."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now the good gods forbid That our renowned Rome, whose gratitude Towards her deserved children is enrolled In Jove’s own book, like an unnatural dam Should now eat up her own."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For since patiently and constantly thou hast stuck to the bare fortune of that beggar Posthumus, thou canst not, in the course of gratitude, but be a diligent follower of mine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of thankfulness and appreciation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of thankfulness and appreciation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Time was I did him a desired office, Dear almost as his life; which gratitude Through flinty Tartar’s bosom would peep forth, And answer thanks."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now the good gods forbid That our renowned Rome, whose gratitude Towards her deserved children is enrolled In Jove’s own book, like an unnatural dam Should now eat up her own."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For since patiently and constantly thou hast stuck to the bare fortune of that beggar Posthumus, thou canst not, in the course of gratitude, but be a diligent follower of mine."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # proportionately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a proportionate degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In proportion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This move was unexpected, and proportionately disconcerting."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Opposite the spot to which he had brought her was such a general confluence, and the river was proportionately voluminous and deep."*
-> - 📜 **George Eliot (*Middlemarch*):** *"No nature could be less suspicious than hers: when she was a child she believed in the gratitude of wasps and the honorable susceptibility of sparrows, and was proportionately indignant when their baseness was made manifest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a proportionate degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In proportion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This move was unexpected, and proportionately disconcerting."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Opposite the spot to which he had brought her was such a general confluence, and the river was proportionately voluminous and deep."*
+> - 📜 **George Eliot (*Middlemarch*):** *"No nature could be less suspicious than hers: when she was a child she believed in the gratitude of wasps and the honorable susceptibility of sparrows, and was proportionately indignant when their baseness was made manifest."*

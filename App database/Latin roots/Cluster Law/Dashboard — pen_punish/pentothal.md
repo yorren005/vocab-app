@@ -5,13 +5,6 @@ status: unread
 ---
 # pentothal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Barbiturate that is a hygroscopic powder (trade name pentothal) that is a strong barbiturate that acts rapidly; induces a relaxed state when injected as a general anesthetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Barbiturate that is a hygroscopic powder (trade name pentothal) that is a strong barbiturate that acts rapidly; induces a relaxed state when injected as a general anesthetic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentothal designates barbiturate that is a hygroscopic powder (trade name pentothal) that is a strong barbiturate that acts rapidly; induces a relaxed state when injected as a general anesthetic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Barbiturate that is a hygroscopic powder (trade name pentothal) that is a strong barbiturate that acts rapidly; induces a relaxed state when injected as a general anesthetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Barbiturate that is a hygroscopic powder (trade name pentothal) that is a strong barbiturate that acts rapidly; induces a relaxed state when injected as a general anesthetic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentothal designates barbiturate that is a hygroscopic powder (trade name pentothal) that is a strong barbiturate that acts rapidly; induces a relaxed state when injected as a general anesthetic."*

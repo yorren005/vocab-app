@@ -5,15 +5,6 @@ status: unread
 ---
 # done
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Engage in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carry out or perform an action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that record could with a backward look, Even of five hundred courses of the sun, Show me your image in some antique book, Since mind at first in character was done."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou wilt leave me, do not leave me last, When other petty griefs have done their spite, But in the onset come, so shall I taste At first the very worst of fortune’s might."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now all is done, have what shall have no end, Mine appetite I never more will grind On newer proof, to try an older friend, A god in love, to whom I am confined."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engage in.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carry out or perform an action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that record could with a backward look, Even of five hundred courses of the sun, Show me your image in some antique book, Since mind at first in character was done."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou wilt leave me, do not leave me last, When other petty griefs have done their spite, But in the onset come, so shall I taste At first the very worst of fortune’s might."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now all is done, have what shall have no end, Mine appetite I never more will grind On newer proof, to try an older friend, A god in love, to whom I am confined."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # confidant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone to whom private matters are confided.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone to whom private matters are confided.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"So reasoned Edmund, till his father made him the confidant of a scheme which placed Fanny’s chance of seeing the second lieutenant of H.M.S."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"See the advantages of a cabman as a confidant."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I gave a cry of surprise, threw up my arms to cover my face, and, rushing to my confidant, the Lascar, entreated him to prevent anyone from coming up to me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone to whom private matters are confided.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone to whom private matters are confided.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"So reasoned Edmund, till his father made him the confidant of a scheme which placed Fanny’s chance of seeing the second lieutenant of H.M.S."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"See the advantages of a cabman as a confidant."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I gave a cry of surprise, threw up my arms to cover my face, and, rushing to my confidant, the Lascar, entreated him to prevent anyone from coming up to me."*

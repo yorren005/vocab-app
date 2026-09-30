@@ -5,13 +5,6 @@ status: unread
 ---
 # reappraisal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A new appraisal or evaluation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A new appraisal or evaluation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reappraisal designates a new appraisal or evaluation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A new appraisal or evaluation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A new appraisal or evaluation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reappraisal designates a new appraisal or evaluation."*

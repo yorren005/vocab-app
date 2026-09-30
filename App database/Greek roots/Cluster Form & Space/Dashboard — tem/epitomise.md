@@ -5,13 +5,6 @@ status: unread
 ---
 # epitomise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Embody the essential characteristics of or be a typical example of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Embody the essential characteristics of or be a typical example of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epitomise designates embody the essential characteristics of or be a typical example of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Embody the essential characteristics of or be a typical example of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Embody the essential characteristics of or be a typical example of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epitomise designates embody the essential characteristics of or be a typical example of."*

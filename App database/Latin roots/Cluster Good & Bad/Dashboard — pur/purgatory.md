@@ -5,15 +5,6 @@ status: unread
 ---
 # purgatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporary condition of torment or suffering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (theology) in roman catholic theology the place where those who have died in a state of grace undergo limited torment to expiate their sins.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I should venture purgatory for ’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is no world without Verona walls, But purgatory, torture, hell itself."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"In the unseen world described by a poet whom M. le Maire has probably heard of, the man who traverses Purgatory (to speak of no other place) is seen by all, and is a wonder to all he meets--his shadow, his breath separate him from those around him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporary condition of torment or suffering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (theology) in roman catholic theology the place where those who have died in a state of grace undergo limited torment to expiate their sins.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I should venture purgatory for ’t."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is no world without Verona walls, But purgatory, torture, hell itself."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"In the unseen world described by a poet whom M. le Maire has probably heard of, the man who traverses Purgatory (to speak of no other place) is seen by all, and is a wonder to all he meets--his shadow, his breath separate him from those around him."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # systematic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or consisting of a system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presented or formulated as a coherent body of ideas or principles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle, but her voice had not a friendly sound, I thought; it was much too business-like and systematic."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Her systematic manner of flying at her and pouncing on her, with or without pretence, whether or no, is wonderful, evincing an accomplishment in the art of girl-driving seldom reached by the oldest practitioners."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This it was only possible to protect by systematic thatching."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or consisting of a system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presented or formulated as a coherent body of ideas or principles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle, but her voice had not a friendly sound, I thought; it was much too business-like and systematic."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Her systematic manner of flying at her and pouncing on her, with or without pretence, whether or no, is wonderful, evincing an accomplishment in the art of girl-driving seldom reached by the oldest practitioners."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This it was only possible to protect by systematic thatching."*

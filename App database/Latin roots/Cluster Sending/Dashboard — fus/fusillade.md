@@ -5,15 +5,6 @@ status: unread
 ---
 # fusillade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rapid simultaneous discharge of firearms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attack with fusillade.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"A fusillade burst out under my feet."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The fusillade below stopped short, as I had foreseen it would when the squirts got empty."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The fusillade burst out again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rapid simultaneous discharge of firearms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attack with fusillade.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"A fusillade burst out under my feet."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The fusillade below stopped short, as I had foreseen it would when the squirts got empty."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The fusillade burst out again."*

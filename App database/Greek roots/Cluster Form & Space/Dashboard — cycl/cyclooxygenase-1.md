@@ -5,13 +5,6 @@ status: unread
 ---
 # cyclooxygenase-1
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that regulates prostaglandins that are important for the health of the stomach lining and kidneys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme that regulates prostaglandins that are important for the health of the stomach lining and kidneys.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclooxygenase-1 designates an enzyme that regulates prostaglandins that are important for the health of the stomach lining and kidneys."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that regulates prostaglandins that are important for the health of the stomach lining and kidneys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme that regulates prostaglandins that are important for the health of the stomach lining and kidneys.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclooxygenase-1 designates an enzyme that regulates prostaglandins that are important for the health of the stomach lining and kidneys."*

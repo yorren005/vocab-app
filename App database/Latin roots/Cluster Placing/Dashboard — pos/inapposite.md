@@ -5,13 +5,6 @@ status: unread
 ---
 # inapposite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of an inappropriate or misapplied nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of an inappropriate or misapplied nature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inapposite designates of an inappropriate or misapplied nature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of an inappropriate or misapplied nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of an inappropriate or misapplied nature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inapposite designates of an inappropriate or misapplied nature."*

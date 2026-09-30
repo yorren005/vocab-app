@@ -5,15 +5,6 @@ status: unread
 ---
 # aerated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expose to fresh air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aerate (sewage) so as to favor the growth of organisms that decompose organic matter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Assume it, and it follows that if all the blood in a man could be aerated with one breath, he might then seal up his nostrils and not fetch another for a considerable time."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Assume it, and it follows that if all the blood in a man could be aerated with one breath, he might then seal up his nostrils and not fetch another for a considerable time."*
-> - 📜 **James Joyce (*Ulysses*):** *"Hackney cars, cabs, delivery waggons, mailvans, private broughams, aerated mineral water floats with rattling crates of bottles, rattled, rolled, horsedrawn, rapidly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expose to fresh air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aerate (sewage) so as to favor the growth of organisms that decompose organic matter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Assume it, and it follows that if all the blood in a man could be aerated with one breath, he might then seal up his nostrils and not fetch another for a considerable time."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Assume it, and it follows that if all the blood in a man could be aerated with one breath, he might then seal up his nostrils and not fetch another for a considerable time."*
+> - 📜 **James Joyce (*Ulysses*):** *"Hackney cars, cabs, delivery waggons, mailvans, private broughams, aerated mineral water floats with rattling crates of bottles, rattled, rolled, horsedrawn, rapidly."*

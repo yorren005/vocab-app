@@ -5,15 +5,6 @@ status: unread
 ---
 # locust
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Migratory grasshoppers of warm regions having short antennae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hardwood from any of various locust trees.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It stands on a knoll surrounded by locust trees and lofty elms, from among which its decent whitewashed walls shine modestly forth, like Christian purity beaming through the shades of retirement."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Supplies were continually sent from friends at home, and they remained until the wounded had all left save a few who were retained at Smoketown and Locust Spring Hospitals."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Whence gather'd?--The locust's glad chirrup May furnish a stave; The ring of a rowel and stirrup, The wash of a wave."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Migratory grasshoppers of warm regions having short antennae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hardwood from any of various locust trees.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It stands on a knoll surrounded by locust trees and lofty elms, from among which its decent whitewashed walls shine modestly forth, like Christian purity beaming through the shades of retirement."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Supplies were continually sent from friends at home, and they remained until the wounded had all left save a few who were retained at Smoketown and Locust Spring Hospitals."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Whence gather'd?--The locust's glad chirrup May furnish a stave; The ring of a rowel and stirrup, The wash of a wave."*

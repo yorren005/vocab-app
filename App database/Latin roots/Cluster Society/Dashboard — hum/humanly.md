@@ -5,15 +5,6 @@ status: unread
 ---
 # humanly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the manner of human beings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the manner of human beings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, Charley,” said I after letting her go on for a little while, “if I am to be ill, my great trust, humanly speaking, is in you."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Even the pale stag seemed to have reminding glances and to mean mutely, “Yes, we know.” And the group of delicately touched miniatures had made an audience as of beings no longer disturbed about their own earthly lot, but still humanly interested."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"A system of triple checking each item of all orders precludes, as far as is humanly possible, any error in filling accurately all specifications. _This brochure was compiled by H."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the manner of human beings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the manner of human beings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, Charley,” said I after letting her go on for a little while, “if I am to be ill, my great trust, humanly speaking, is in you."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Even the pale stag seemed to have reminding glances and to mean mutely, “Yes, we know.” And the group of delicately touched miniatures had made an audience as of beings no longer disturbed about their own earthly lot, but still humanly interested."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"A system of triple checking each item of all orders precludes, as far as is humanly possible, any error in filling accurately all specifications. _This brochure was compiled by H."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # altered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to change; make different; cause a transformation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become different in some particular way, without permanently losing one's or its former characteristics or essence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou mayst be false, and yet I know it not. 93 So shall I live, supposing thou art true, Like a deceived husband, so love’s face, May still seem love to me, though altered new: Thy looks with me, thy heart in other place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can you not see, or will ye not observe The strangeness of his altered countenance?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know it, But ’tis so lately altered that the old name Is fresh about me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to change; make different; cause a transformation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become different in some particular way, without permanently losing one's or its former characteristics or essence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou mayst be false, and yet I know it not. 93 So shall I live, supposing thou art true, Like a deceived husband, so love’s face, May still seem love to me, though altered new: Thy looks with me, thy heart in other place."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can you not see, or will ye not observe The strangeness of his altered countenance?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know it, But ’tis so lately altered that the old name Is fresh about me."*

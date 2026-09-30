@@ -5,15 +5,6 @@ status: unread
 ---
 # domingo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spanish operatic tenor noted for performances in operas by verdi and puccini (born in 1941).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spanish operatic tenor noted for performances in operas by verdi and puccini (born in 1941).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Don Domingo Larripa was our leader."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Holy Virgin del Pilar, and thou, dear little Santo Domingo of my soul, why have ye let my receipts be burned?"*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Holy Virgin del Pilar, Santo Domingo del Val, resurrect them, I pray!" "And your daughter?" I asked with interest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spanish operatic tenor noted for performances in operas by verdi and puccini (born in 1941).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spanish operatic tenor noted for performances in operas by verdi and puccini (born in 1941).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Don Domingo Larripa was our leader."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Holy Virgin del Pilar, and thou, dear little Santo Domingo of my soul, why have ye let my receipts be burned?"*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Holy Virgin del Pilar, Santo Domingo del Val, resurrect them, I pray!" "And your daughter?" I asked with interest."*

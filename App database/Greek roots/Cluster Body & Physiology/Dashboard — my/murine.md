@@ -5,13 +5,6 @@ status: unread
 ---
 # murine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a murid genus (Mus) or its subfamily (Murinae) which includes the common household rats and mice; also : of, relating to, or involving these rodents and especially the house mouse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mild disease that is marked especially by fever, headache, and rash, is caused by a rickettsia (Rickettsia typhi synonym R. mooseri), is widespread in nature in rodents, and is transmitted to humans by a flea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, murine designates of or relating to a murid genus (mus) or its subfamily (murinae) which includes the common household rats and mice; also : of, relating to, or involving these rodents and especially the house mouse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a murid genus (Mus) or its subfamily (Murinae) which includes the common household rats and mice; also : of, relating to, or involving these rodents and especially the house mouse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mild disease that is marked especially by fever, headache, and rash, is caused by a rickettsia (Rickettsia typhi synonym R. mooseri), is widespread in nature in rodents, and is transmitted to humans by a flea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, murine designates of or relating to a murid genus (mus) or its subfamily (murinae) which includes the common household rats and mice; also : of, relating to, or involving these rodents and especially the house mouse."*

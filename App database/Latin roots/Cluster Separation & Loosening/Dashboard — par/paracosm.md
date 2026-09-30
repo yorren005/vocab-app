@@ -5,13 +5,6 @@ status: unread
 ---
 # paracosm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prolonged fantasy world invented by children; can have a definite geography and language and history.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prolonged fantasy world invented by children; can have a definite geography and language and history.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paracosm designates a prolonged fantasy world invented by children; can have a definite geography and language and history."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prolonged fantasy world invented by children; can have a definite geography and language and history.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prolonged fantasy world invented by children; can have a definite geography and language and history.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paracosm designates a prolonged fantasy world invented by children; can have a definite geography and language and history."*

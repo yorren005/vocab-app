@@ -5,13 +5,6 @@ status: unread
 ---
 # locative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic role of the noun phrase that designates the place of the state or action denoted by the verb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The semantic role of the noun phrase that designates the place of the state or action denoted by the verb.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, locative designates the semantic role of the noun phrase that designates the place of the state or action denoted by the verb."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic role of the noun phrase that designates the place of the state or action denoted by the verb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The semantic role of the noun phrase that designates the place of the state or action denoted by the verb.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, locative designates the semantic role of the noun phrase that designates the place of the state or action denoted by the verb."*

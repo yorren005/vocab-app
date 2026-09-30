@@ -5,15 +5,6 @@ status: unread
 ---
 # satisfy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meet the requirements or expectations of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make happy or satisfied.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are too old, sir; let it satisfy you, you are too old."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of this my letters Before did satisfy you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will this description satisfy him?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Meet the requirements or expectations of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make happy or satisfied.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are too old, sir; let it satisfy you, you are too old."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of this my letters Before did satisfy you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will this description satisfy him?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # internecine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of conflict) within a group or organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by bloodshed and carnage for both sides.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"TWO centuries of internecine strife between the great feudal princes culminated in the destruction of the Chou dynasty and the consolidation of the Chinese states under the powerful Ch´in emperor Chêng."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of conflict) within a group or organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by bloodshed and carnage for both sides.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"TWO centuries of internecine strife between the great feudal princes culminated in the destruction of the Chou dynasty and the consolidation of the Chinese states under the powerful Ch´in emperor Chêng."*

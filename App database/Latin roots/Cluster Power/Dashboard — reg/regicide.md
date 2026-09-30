@@ -5,15 +5,6 @@ status: unread
 ---
 # regicide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who commits regicide; the killer of a king.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of killing a king.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Revolution and regicide a grand thing?..."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I am not speaking of regicide, I am speaking about ideas.” “Yes: ideas of robbery, murder, and regicide,” again interjected an ironical voice."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The evidence for the systematic killing of the Khazar kings, drawn from the accounts of old Arab travellers, has been collected by me elsewhere.[1] Africa, again, has supplied several fresh examples of a similar practice of regicide."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who commits regicide; the killer of a king.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of killing a king.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Revolution and regicide a grand thing?..."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I am not speaking of regicide, I am speaking about ideas.” “Yes: ideas of robbery, murder, and regicide,” again interjected an ironical voice."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The evidence for the systematic killing of the Khazar kings, drawn from the accounts of old Arab travellers, has been collected by me elsewhere.[1] Africa, again, has supplied several fresh examples of a similar practice of regicide."*

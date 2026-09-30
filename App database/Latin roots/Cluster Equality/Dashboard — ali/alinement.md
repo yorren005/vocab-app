@@ -5,13 +5,6 @@ status: unread
 ---
 # alinement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organization of people (or countries) involved in a pact or treaty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organization of people (or countries) involved in a pact or treaty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alinement designates an organization of people (or countries) involved in a pact or treaty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organization of people (or countries) involved in a pact or treaty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organization of people (or countries) involved in a pact or treaty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alinement designates an organization of people (or countries) involved in a pact or treaty."*

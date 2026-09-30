@@ -5,13 +5,6 @@ status: unread
 ---
 # intumescence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swelling up with blood or other fluids (as with congestion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The increase in volume of certain substances when they are heated (often accompanied by release of water).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intumescence designates swelling up with blood or other fluids (as with congestion)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Swelling up with blood or other fluids (as with congestion).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The increase in volume of certain substances when they are heated (often accompanied by release of water).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intumescence designates swelling up with blood or other fluids (as with congestion)."*

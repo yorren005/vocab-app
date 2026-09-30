@@ -5,15 +5,6 @@ status: unread
 ---
 # posset
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sweet spiced hot milk curdled with ale or beer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sweet spiced hot milk curdled with ale or beer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go; and we’ll have a posset for’t soon at night, in faith, at the latter end of a sea-coal fire. [_Exit Rugby._] An honest, willing, kind fellow, as ever servant shall come in house withal; and, I warrant you, no tell-tale nor no breed-bate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt eat a posset tonight at my house, where I will desire thee to laugh at my wife, that now laughs at thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The doors are open; and the surfeited grooms Do mock their charge with snores: I have drugg’d their possets, That death and nature do contend about them, Whether they live or die."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sweet spiced hot milk curdled with ale or beer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sweet spiced hot milk curdled with ale or beer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go; and we’ll have a posset for’t soon at night, in faith, at the latter end of a sea-coal fire. [_Exit Rugby._] An honest, willing, kind fellow, as ever servant shall come in house withal; and, I warrant you, no tell-tale nor no breed-bate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt eat a posset tonight at my house, where I will desire thee to laugh at my wife, that now laughs at thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The doors are open; and the surfeited grooms Do mock their charge with snores: I have drugg’d their possets, That death and nature do contend about them, Whether they live or die."*

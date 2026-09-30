@@ -5,15 +5,6 @@ status: unread
 ---
 # alarmingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an alarming manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an alarming manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A correspondent of _The Illustrated Christian Weekly_, states that a mother of her acquaintance had a child taken alarmingly ill."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"My sister, who had begun to be alarmingly meditative, had to employ herself actively in getting the gin, the hot water, the sugar, and the lemon-peel, and mixing them."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"There was a bar at the Jolly Bargemen, with some alarmingly long chalk scores in it on the wall at the side of the door, which seemed to me to be never paid off."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an alarming manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an alarming manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A correspondent of _The Illustrated Christian Weekly_, states that a mother of her acquaintance had a child taken alarmingly ill."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"My sister, who had begun to be alarmingly meditative, had to employ herself actively in getting the gin, the hot water, the sugar, and the lemon-peel, and mixing them."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"There was a bar at the Jolly Bargemen, with some alarmingly long chalk scores in it on the wall at the side of the door, which seemed to me to be never paid off."*

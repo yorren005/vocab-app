@@ -5,15 +5,6 @@ status: unread
 ---
 # broncho
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unbroken or imperfectly broken mustang.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unbroken or imperfectly broken mustang.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The champion broncho-buster of Arizona is not a Sunday-school superintendent."*
-> - 📜 **James Joyce (*Ulysses*):** *"It was I broke in the bucking broncho Ajax with my patent spiked saddle for carnivores."*
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"The butterflies there in the bush were romancing, The smell of the grass caught your soul in a trance, So why be a-fearing the spurs and the traces, O broncho that would not be broken of dancing?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unbroken or imperfectly broken mustang.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unbroken or imperfectly broken mustang.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The champion broncho-buster of Arizona is not a Sunday-school superintendent."*
+> - 📜 **James Joyce (*Ulysses*):** *"It was I broke in the bucking broncho Ajax with my patent spiked saddle for carnivores."*
+> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"The butterflies there in the bush were romancing, The smell of the grass caught your soul in a trance, So why be a-fearing the spurs and the traces, O broncho that would not be broken of dancing?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # compression
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An increase in the density of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process or result of becoming smaller or pressed together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Seeing his advance take the form of an attitude threatening a possible enclosure, if not compression, of her person, she edged off round the bush."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Uranus and Neptune orbits, although contained within the tank displays, were cut out by the compression."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Seeing his advance take the form of an attitude threatening a possible enclosure, if not compression, of her person she edged off round the bush."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An increase in the density of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process or result of becoming smaller or pressed together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Seeing his advance take the form of an attitude threatening a possible enclosure, if not compression, of her person, she edged off round the bush."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Uranus and Neptune orbits, although contained within the tank displays, were cut out by the compression."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Seeing his advance take the form of an attitude threatening a possible enclosure, if not compression, of her person she edged off round the bush."*

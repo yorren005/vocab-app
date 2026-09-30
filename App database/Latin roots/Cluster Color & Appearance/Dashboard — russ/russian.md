@@ -5,15 +5,6 @@ status: unread
 ---
 # russian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of russia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The slavic language that is the official language of russia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Foolish curs, that run winking into the mouth of a Russian bear and have their heads crush’d like rotten apples!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We four indeed confronted were with four In Russian habit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bruise me with scorn, confound me with a flout, Thrust thy sharp wit quite through my ignorance, Cut me to pieces with thy keen conceit, And I will wish thee never more to dance, Nor never more in Russian habit wait."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of russia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The slavic language that is the official language of russia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Foolish curs, that run winking into the mouth of a Russian bear and have their heads crush’d like rotten apples!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We four indeed confronted were with four In Russian habit."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bruise me with scorn, confound me with a flout, Thrust thy sharp wit quite through my ignorance, Cut me to pieces with thy keen conceit, And I will wish thee never more to dance, Nor never more in Russian habit wait."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # bifurcation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bifurcating branch (one or both of them).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The place where something divides into two branches.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"SEE especially the poem entitled ‘Bifurcation’."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bifurcating branch (one or both of them).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The place where something divides into two branches.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"SEE especially the poem entitled ‘Bifurcation’."*

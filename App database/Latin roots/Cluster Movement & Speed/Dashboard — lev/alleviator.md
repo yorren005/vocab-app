@@ -5,13 +5,6 @@ status: unread
 ---
 # alleviator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A therapist who makes suffering more endurable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remedy that alleviates pain without curing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alleviator designates a therapist who makes suffering more endurable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A therapist who makes suffering more endurable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remedy that alleviates pain without curing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alleviator designates a therapist who makes suffering more endurable."*

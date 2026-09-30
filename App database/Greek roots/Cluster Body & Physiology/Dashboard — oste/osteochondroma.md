@@ -5,13 +5,6 @@ status: unread
 ---
 # osteochondroma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Benign tumor containing both bone and cartilage; usually occurs near the end of a long bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Benign tumor containing both bone and cartilage; usually occurs near the end of a long bone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteochondroma designates benign tumor containing both bone and cartilage; usually occurs near the end of a long bone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Benign tumor containing both bone and cartilage; usually occurs near the end of a long bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Benign tumor containing both bone and cartilage; usually occurs near the end of a long bone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteochondroma designates benign tumor containing both bone and cartilage; usually occurs near the end of a long bone."*

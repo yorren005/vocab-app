@@ -5,13 +5,6 @@ status: unread
 ---
 # sacculate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed with or having saclike expansions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed with or having saclike expansions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sacculate designates formed with or having saclike expansions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed with or having saclike expansions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed with or having saclike expansions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sacculate designates formed with or having saclike expansions."*

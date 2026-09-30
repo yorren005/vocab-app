@@ -5,15 +5,6 @@ status: unread
 ---
 # minnow
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very small european freshwater fish common in gravelly streams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very small european freshwater fish common in gravelly streams.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There did I see that low-spirited swain, that base minnow of thy mirth—_ COSTARD."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that will all the treasure know o’ th’ earth Must know the center too; he that will fish For my least minnow, let him lead his line To catch one at my heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear you this Triton of the minnows?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very small european freshwater fish common in gravelly streams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very small european freshwater fish common in gravelly streams.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There did I see that low-spirited swain, that base minnow of thy mirth—_ COSTARD."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that will all the treasure know o’ th’ earth Must know the center too; he that will fish For my least minnow, let him lead his line To catch one at my heart."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear you this Triton of the minnows?"*

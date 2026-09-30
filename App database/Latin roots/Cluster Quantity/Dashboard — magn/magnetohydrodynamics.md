@@ -5,13 +5,6 @@ status: unread
 ---
 # magnetohydrodynamics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the interaction of magnetic fields and electrically conducting fluids (as plasma or molten metal).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the interaction of magnetic fields and electrically conducting fluids (as plasma or molten metal).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetohydrodynamics designates the study of the interaction of magnetic fields and electrically conducting fluids (as plasma or molten metal)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the interaction of magnetic fields and electrically conducting fluids (as plasma or molten metal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the interaction of magnetic fields and electrically conducting fluids (as plasma or molten metal).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetohydrodynamics designates the study of the interaction of magnetic fields and electrically conducting fluids (as plasma or molten metal)."*

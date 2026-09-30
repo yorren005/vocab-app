@@ -5,13 +5,6 @@ status: unread
 ---
 # ornithopod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bipedal herbivorous dinosaur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bipedal herbivorous dinosaur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithopod designates bipedal herbivorous dinosaur."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bipedal herbivorous dinosaur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bipedal herbivorous dinosaur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ornithopod designates bipedal herbivorous dinosaur."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # reduce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut down on; make a reduction in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less complex.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Which to reduce into our former favour You are assembled; and my speech entreats That I may know the let, why gentle Peace Should not expel these inconveniences And bless us with her former qualities."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All springs reduce their currents to mine eyes, That I, being governed by the watery moon, May send forth plenteous tears to drown the world."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Abate the edge of traitors, gracious Lord, That would reduce these bloody days again, And make poor England weep in streams of blood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut down on; make a reduction in.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less complex.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Which to reduce into our former favour You are assembled; and my speech entreats That I may know the let, why gentle Peace Should not expel these inconveniences And bless us with her former qualities."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All springs reduce their currents to mine eyes, That I, being governed by the watery moon, May send forth plenteous tears to drown the world."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Abate the edge of traitors, gracious Lord, That would reduce these bloody days again, And make poor England weep in streams of blood."*

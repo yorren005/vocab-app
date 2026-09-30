@@ -5,15 +5,6 @@ status: unread
 ---
 # genuinely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In accordance with truth or fact or reality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genuinely; with authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Compare with this the genuinely corrupt Byron, through the cracks and fissures of whose heaving versification steam up perpetually the sulphurous vapours from his central iniquity."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But there was a dash of good nature in it: he's genuinely fond of Mrs."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"All I want is to cheek you by him." "Val is genuinely religious and a bit of an ascetic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In accordance with truth or fact or reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genuinely; with authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Compare with this the genuinely corrupt Byron, through the cracks and fissures of whose heaving versification steam up perpetually the sulphurous vapours from his central iniquity."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"But there was a dash of good nature in it: he's genuinely fond of Mrs."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"All I want is to cheek you by him." "Val is genuinely religious and a bit of an ascetic."*

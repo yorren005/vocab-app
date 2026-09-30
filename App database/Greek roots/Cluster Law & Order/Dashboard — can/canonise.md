@@ -5,13 +5,6 @@ status: unread
 ---
 # canonise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat as a sacred person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare (a dead person) to be a saint.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"On his house-top, he displayed pike and cap, as a good citizen must, and in a window he had stationed his saw inscribed as his “Little Sainte Guillotine”--for the great sharp female was by that time popularly canonised."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat as a sacred person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare (a dead person) to be a saint.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"On his house-top, he displayed pike and cap, as a good citizen must, and in a window he had stationed his saw inscribed as his “Little Sainte Guillotine”--for the great sharp female was by that time popularly canonised."*

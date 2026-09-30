@@ -5,13 +5,6 @@ status: unread
 ---
 # pentatone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gapped scale with five notes; usually the fourth and seventh notes of the diatonic scale are omitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gapped scale with five notes; usually the fourth and seventh notes of the diatonic scale are omitted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentatone designates a gapped scale with five notes; usually the fourth and seventh notes of the diatonic scale are omitted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gapped scale with five notes; usually the fourth and seventh notes of the diatonic scale are omitted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gapped scale with five notes; usually the fourth and seventh notes of the diatonic scale are omitted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentatone designates a gapped scale with five notes; usually the fourth and seventh notes of the diatonic scale are omitted."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # carpetbagging
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Presumptuously seeking success or a position in a new locality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presumptuously seeking success or a position in a new locality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpetbagging designates presumptuously seeking success or a position in a new locality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Presumptuously seeking success or a position in a new locality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presumptuously seeking success or a position in a new locality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpetbagging designates presumptuously seeking success or a position in a new locality."*

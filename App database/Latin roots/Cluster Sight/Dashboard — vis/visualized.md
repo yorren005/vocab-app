@@ -5,15 +5,6 @@ status: unread
 ---
 # visualized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Imagine; conceive of; see in one's mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: View the outline of by means of an x-ray.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But when I had become expert at this visualized game of memory the exercise palled on me."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Brad visualized the scene on the bridges and flight decks of the more than two dozen warships, ranging from cruisers to fighters that formed the task force."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He recalled and visualized each planet, natural and artificial satellite and space station out to the Guardians."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Imagine; conceive of; see in one's mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: View the outline of by means of an x-ray.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But when I had become expert at this visualized game of memory the exercise palled on me."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Brad visualized the scene on the bridges and flight decks of the more than two dozen warships, ranging from cruisers to fighters that formed the task force."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He recalled and visualized each planet, natural and artificial satellite and space station out to the Guardians."*

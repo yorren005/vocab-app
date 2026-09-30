@@ -5,15 +5,6 @@ status: unread
 ---
 # extern
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonresident doctor or medical student; connected with a hospital but not living there.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonresident doctor or medical student; connected with a hospital but not living there.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For when my outward action doth demonstrate The native act and figure of my heart In complement extern, ’tis not long after But I will wear my heart upon my sleeve For daws to peck at: I am not what I am."*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"CXXV Were’t aught to me I bore the canopy, With my extern the outward honouring, Or laid great bases for eternity, Which proves more short than waste or ruining?"*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"An extern school grew round the old almost monastic foundation, which subsists still with its middle-age costume and usages--and all Cistercians pray that it may long flourish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonresident doctor or medical student; connected with a hospital but not living there.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonresident doctor or medical student; connected with a hospital but not living there.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For when my outward action doth demonstrate The native act and figure of my heart In complement extern, ’tis not long after But I will wear my heart upon my sleeve For daws to peck at: I am not what I am."*
+> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"CXXV Were’t aught to me I bore the canopy, With my extern the outward honouring, Or laid great bases for eternity, Which proves more short than waste or ruining?"*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"An extern school grew round the old almost monastic foundation, which subsists still with its middle-age costume and usages--and all Cistercians pray that it may long flourish."*

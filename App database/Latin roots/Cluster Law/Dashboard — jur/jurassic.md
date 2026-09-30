@@ -5,14 +5,6 @@ status: unread
 ---
 # jurassic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From 190 million to 135 million years ago; dinosaurs; conifers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or denoting the second period of the mesozoic era.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"It may be that he swept back into the past, and fell among the blood-drinking, hairy savages of the Age of Unpolished Stone; into the abysses of the Cretaceous Sea; or among the grotesque saurians, the huge reptilian brutes of the Jurassic times."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"WORM-TAIL Archæopteryx, or “primitive bird.” A strange bird of the Jurassic period, but possibly surviving to the Cretaceous, the period of the story."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From 190 million to 135 million years ago; dinosaurs; conifers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or denoting the second period of the mesozoic era.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"It may be that he swept back into the past, and fell among the blood-drinking, hairy savages of the Age of Unpolished Stone; into the abysses of the Cretaceous Sea; or among the grotesque saurians, the huge reptilian brutes of the Jurassic times."*
+> - 📜 **F. H. Costello (*Sure-dart*):** *"WORM-TAIL Archæopteryx, or “primitive bird.” A strange bird of the Jurassic period, but possibly surviving to the Cretaceous, the period of the story."*

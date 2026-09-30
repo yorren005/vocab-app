@@ -5,13 +5,6 @@ status: unread
 ---
 # dermatobia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Larvae live under the skin of domestic mammals and humans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Larvae live under the skin of domestic mammals and humans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatobia designates larvae live under the skin of domestic mammals and humans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Larvae live under the skin of domestic mammals and humans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Larvae live under the skin of domestic mammals and humans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatobia designates larvae live under the skin of domestic mammals and humans."*

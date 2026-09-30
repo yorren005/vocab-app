@@ -5,13 +5,6 @@ status: unread
 ---
 # catheterisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The operation of introducing a catheter into the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The operation of introducing a catheter into the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catheterisation designates the operation of introducing a catheter into the body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The operation of introducing a catheter into the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The operation of introducing a catheter into the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catheterisation designates the operation of introducing a catheter into the body."*

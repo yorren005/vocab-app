@@ -5,15 +5,6 @@ status: unread
 ---
 # spectral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a spectrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling or characteristic of a phantom.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He has a yellow look in the spectral darkness of a candle that has guttered down until the whole length of its wick (still burning) has doubled over and left a tower of winding-sheet above it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It has plenty of spectral company in ghosts of trees and hedges, slowly vanishing and giving place to the realities of day."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The spectral, half-compounded, aqueous light which pervaded the open mead impressed them with a feeling of isolation, as if they were Adam and Eve."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a spectrum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling or characteristic of a phantom.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He has a yellow look in the spectral darkness of a candle that has guttered down until the whole length of its wick (still burning) has doubled over and left a tower of winding-sheet above it."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It has plenty of spectral company in ghosts of trees and hedges, slowly vanishing and giving place to the realities of day."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The spectral, half-compounded, aqueous light which pervaded the open mead impressed them with a feeling of isolation, as if they were Adam and Eve."*

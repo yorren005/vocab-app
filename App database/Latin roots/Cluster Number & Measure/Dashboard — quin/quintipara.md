@@ -5,13 +5,6 @@ status: unread
 ---
 # quintipara
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (obstetrics) woman who has given birth to a viable infant in each of five pregnancies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (obstetrics) woman who has given birth to a viable infant in each of five pregnancies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quintipara designates (obstetrics) woman who has given birth to a viable infant in each of five pregnancies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (obstetrics) woman who has given birth to a viable infant in each of five pregnancies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (obstetrics) woman who has given birth to a viable infant in each of five pregnancies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quintipara designates (obstetrics) woman who has given birth to a viable infant in each of five pregnancies."*

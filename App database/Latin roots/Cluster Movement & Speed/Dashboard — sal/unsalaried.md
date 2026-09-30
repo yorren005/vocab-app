@@ -5,13 +5,6 @@ status: unread
 ---
 # unsalaried
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not paying a salary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not paying a salary.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"On this trip she went as an unsalaried agent of the Western Sanitary Commission--receiving only her expenses, and the goods and provisions wherewith to relieve the want and misery she met among our suffering men."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not paying a salary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not paying a salary.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"On this trip she went as an unsalaried agent of the Western Sanitary Commission--receiving only her expenses, and the goods and provisions wherewith to relieve the want and misery she met among our suffering men."*

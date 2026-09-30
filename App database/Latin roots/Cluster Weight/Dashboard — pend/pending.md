@@ -5,15 +5,6 @@ status: unread
 ---
 # pending
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Awaiting conclusion or confirmation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Awaiting conclusion or confirmation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I have just called to see you,” said Gabriel, pending her further speech."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Something kept saying to me, _you must wait_, for there is something pending on that train you must wait for."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"On the other hand, men of larger qualities of leadership in the older parties are constantly adopting and advancing pending measures of social reform."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Awaiting conclusion or confirmation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Awaiting conclusion or confirmation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I have just called to see you,” said Gabriel, pending her further speech."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Something kept saying to me, _you must wait_, for there is something pending on that train you must wait for."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"On the other hand, men of larger qualities of leadership in the older parties are constantly adopting and advancing pending measures of social reform."*

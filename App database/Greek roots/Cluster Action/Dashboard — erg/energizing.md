@@ -5,13 +5,6 @@ status: unread
 ---
 # energizing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of causing to have energy and be active.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be alert and energetic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"All the true acquisitions of the soul, all the reflected results of its energizing after the unattainable in this life, all that has truly BEEN, belong to the absolute, and are permanent amid all earth’s changes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of causing to have energy and be active.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be alert and energetic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"All the true acquisitions of the soul, all the reflected results of its energizing after the unattainable in this life, all that has truly BEEN, belong to the absolute, and are permanent amid all earth’s changes."*

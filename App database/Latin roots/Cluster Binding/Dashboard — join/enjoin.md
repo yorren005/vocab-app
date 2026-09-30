@@ -5,15 +5,6 @@ status: unread
 ---
 # enjoin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Issue an injunction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give instructions to or direct somebody to do something with authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, pilgrim, I will bring you Where you shall host; of enjoin’d penitents There’s four or five, to great Saint Jaques bound, Already at my house."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By my soul, nor I: And yet, to satisfy this good old man, I would bend under any heavy weight That he’ll enjoin me to."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where I have learnt me to repent the sin Of disobedient opposition To you and your behests; and am enjoin’d By holy Lawrence to fall prostrate here, To beg your pardon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Issue an injunction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give instructions to or direct somebody to do something with authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, pilgrim, I will bring you Where you shall host; of enjoin’d penitents There’s four or five, to great Saint Jaques bound, Already at my house."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By my soul, nor I: And yet, to satisfy this good old man, I would bend under any heavy weight That he’ll enjoin me to."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where I have learnt me to repent the sin Of disobedient opposition To you and your behests; and am enjoin’d By holy Lawrence to fall prostrate here, To beg your pardon."*

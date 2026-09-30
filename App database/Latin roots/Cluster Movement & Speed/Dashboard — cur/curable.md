@@ -5,14 +5,6 @@ status: unread
 ---
 # curable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curing or healing is possible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being hardened by some additive or other agent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Usually to admit that you are sick, renders your case less curable, while to recognize your sin, aids in destroying it."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"But, though it be a malady, and whether it be curable, and if so, by what means; or, on the other hand, whether it be the _culnus immedicabile_ of the social system, I leave it to those whose right and duty it is to inquire and to decide."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curing or healing is possible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being hardened by some additive or other agent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Usually to admit that you are sick, renders your case less curable, while to recognize your sin, aids in destroying it."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"But, though it be a malady, and whether it be curable, and if so, by what means; or, on the other hand, whether it be the _culnus immedicabile_ of the social system, I leave it to those whose right and duty it is to inquire and to decide."*

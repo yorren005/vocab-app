@@ -5,20 +5,6 @@ status: unread
 ---
 # hunger
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Need or compelling desire for food
-> 2. **Nuance / Usage**: (intransitive) to be in need of food
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Or lambs pursued by hunger-starved wolves."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Or can conceal his hunger till he famish?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And give them life whom hunger starved half dead."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: An uneasy or painful physical sensation caused by a lack of food, coupled with a compelling physiological need to eat.
+> 2. **Nuance / Usage**: Frequently used both as a noun and an intransitive verb (*to hunger for*) to express a deep spiritual, intellectual, or emotional longing.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"And give them life whom **hunger** starved half dead."*
+> - 📜 **Knut Hamsun (*Hunger*):** *"It was during the time I wandered about starving in Christiania, that strange city which no one leaves before it has set its mark upon him with **hunger**."*
+> - 📜 **Miguel de Cervantes (*Don Quixote*):** *"There is no sauce in the world like **hunger**, and since the poor never lack this, they always eat with relish."*

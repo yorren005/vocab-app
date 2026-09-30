@@ -5,15 +5,6 @@ status: unread
 ---
 # gentlemanlike
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Befitting a man of good breeding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Befitting a man of good breeding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will tell her, sir, that you do protest, which, as I take it, is a gentlemanlike offer."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Where could you expect a more gentlemanlike, agreeable man?"*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bingley was good-looking and gentlemanlike: he had a pleasant countenance, and easy, unaffected manners."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Befitting a man of good breeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Befitting a man of good breeding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will tell her, sir, that you do protest, which, as I take it, is a gentlemanlike offer."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Where could you expect a more gentlemanlike, agreeable man?"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bingley was good-looking and gentlemanlike: he had a pleasant countenance, and easy, unaffected manners."*

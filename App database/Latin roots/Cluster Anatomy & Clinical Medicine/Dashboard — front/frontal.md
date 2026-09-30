@@ -5,15 +5,6 @@ status: unread
 ---
 # frontal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adornment worn on the forehead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drapery that covers the front of an altar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"And the lofty frontal bone of Mr."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"After his blood has coagulated in the sun, it is burned along with the frontal bone, the flesh attached to it, and the brain; the ashes are then scattered over the ground to fertilise it."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Against the frontal bone of the bison's skull, the lead falls harmless."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adornment worn on the forehead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drapery that covers the front of an altar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"And the lofty frontal bone of Mr."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"After his blood has coagulated in the sun, it is burned along with the frontal bone, the flesh attached to it, and the brain; the ashes are then scattered over the ground to fertilise it."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Against the frontal bone of the bison's skull, the lead falls harmless."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # ataraxia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Calmness untroubled by mental or emotional disquiet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calmness untroubled by mental or emotional disquiet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Christians for a century or two never thought of _ataraxia_ or apathy, and, though Clement of Alexandria plays with them, he tries to give them a new turn."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The aim of the Sceptic is ataraxia [freedom from mental perturbation or excitement] in matters which depend on opinion, and in things which are inevitable restraint of the feelings (_metriopatheian_)."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Astronomy, 27, 97, 219, 277, 281, 285. _Ataraxia_, 216, 219."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Calmness untroubled by mental or emotional disquiet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calmness untroubled by mental or emotional disquiet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Christians for a century or two never thought of _ataraxia_ or apathy, and, though Clement of Alexandria plays with them, he tries to give them a new turn."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The aim of the Sceptic is ataraxia [freedom from mental perturbation or excitement] in matters which depend on opinion, and in things which are inevitable restraint of the feelings (_metriopatheian_)."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Astronomy, 27, 97, 219, 277, 281, 285. _Ataraxia_, 216, 219."*

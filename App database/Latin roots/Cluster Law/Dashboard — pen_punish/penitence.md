@@ -5,15 +5,6 @@ status: unread
 ---
 # penitence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remorse for your past conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remorse for your past conduct.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More will I do; Though all that I can do is nothing worth, Since that my penitence comes after all, Imploring pardon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Clifford, repent in bootless penitence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll teach you how you shall arraign your conscience, And try your penitence, if it be sound Or hollowly put on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remorse for your past conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remorse for your past conduct.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More will I do; Though all that I can do is nothing worth, Since that my penitence comes after all, Imploring pardon."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Clifford, repent in bootless penitence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll teach you how you shall arraign your conscience, And try your penitence, if it be sound Or hollowly put on."*

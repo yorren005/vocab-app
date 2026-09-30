@@ -5,15 +5,6 @@ status: unread
 ---
 # provincial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) an official in charge of an ecclesiastical province acting under the superior general of a religious order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A country person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Would not this, sir, and a forest of feathers, if the rest of my fortunes turn Turk with me; with two Provincial roses on my razed shoes, get me a fellowship in a cry of players, sir?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His subject am I not, Nor here provincial."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I knew the windlestraw, Guy de Villehardouin, a raw young provincial, come up the first time to Court, but a fiery little cockerel for all of that."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) an official in charge of an ecclesiastical province acting under the superior general of a religious order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A country person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Would not this, sir, and a forest of feathers, if the rest of my fortunes turn Turk with me; with two Provincial roses on my razed shoes, get me a fellowship in a cry of players, sir?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His subject am I not, Nor here provincial."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I knew the windlestraw, Guy de Villehardouin, a raw young provincial, come up the first time to Court, but a fiery little cockerel for all of that."*

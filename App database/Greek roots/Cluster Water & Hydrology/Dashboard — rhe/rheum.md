@@ -5,15 +5,6 @@ status: unread
 ---
 # rheum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A watery discharge from the mucous membranes especially of the eyes or nose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A watery discharge from the mucous membranes especially of the eyes or nose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ENOBARBUS. [_Aside to Agrippa_.] That year, indeed, he was troubled with a rheum; What willingly he did confound he wailed, Believe ’t, till I weep too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I guess it stood in her chin, by the salt rheum that ran between France and it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At a few drops of women’s rheum, which are As cheap as lies, he sold the blood and labour Of our great action."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A watery discharge from the mucous membranes especially of the eyes or nose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A watery discharge from the mucous membranes especially of the eyes or nose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ENOBARBUS. [_Aside to Agrippa_.] That year, indeed, he was troubled with a rheum; What willingly he did confound he wailed, Believe ’t, till I weep too."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I guess it stood in her chin, by the salt rheum that ran between France and it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At a few drops of women’s rheum, which are As cheap as lies, he sold the blood and labour Of our great action."*

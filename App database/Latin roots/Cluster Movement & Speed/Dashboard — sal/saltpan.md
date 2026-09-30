@@ -5,13 +5,6 @@ status: unread
 ---
 # saltpan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shallow basin in a desert region; contains salt and gypsum that was deposited by an evaporated salt lake.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shallow basin in a desert region; contains salt and gypsum that was deposited by an evaporated salt lake.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltpan designates a shallow basin in a desert region; contains salt and gypsum that was deposited by an evaporated salt lake."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shallow basin in a desert region; contains salt and gypsum that was deposited by an evaporated salt lake.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shallow basin in a desert region; contains salt and gypsum that was deposited by an evaporated salt lake.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltpan designates a shallow basin in a desert region; contains salt and gypsum that was deposited by an evaporated salt lake."*

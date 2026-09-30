@@ -5,13 +5,6 @@ status: unread
 ---
 # ephedra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Ephedra of the family Ephedraceae) of jointed nearly leafless shrubs of dry or desert regions with the leaves reduced to scales at the nodes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extract of ma huang containing ephedrine and related alkaloids and used as a dietary supplement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ephedra designates any of a genus (ephedra of the family ephedraceae) of jointed nearly leafless shrubs of dry or desert regions with the leaves reduced to scales at the nodes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Ephedra of the family Ephedraceae) of jointed nearly leafless shrubs of dry or desert regions with the leaves reduced to scales at the nodes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extract of ma huang containing ephedrine and related alkaloids and used as a dietary supplement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ephedra designates any of a genus (ephedra of the family ephedraceae) of jointed nearly leafless shrubs of dry or desert regions with the leaves reduced to scales at the nodes."*

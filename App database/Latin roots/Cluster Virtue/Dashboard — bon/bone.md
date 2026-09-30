@@ -5,15 +5,6 @@ status: unread
 ---
 # bone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rigid connective tissue that makes up the skeleton of vertebrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The porous calcified substance from which bones are made.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here comes lean Jack, here comes bare-bone."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now for the bare-pick’d bone of majesty Doth dogged war bristle his angry crest And snarleth in the gentle eyes of peace."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"NATHANIEL. _Laus Deo, bone intelligo._ HOLOFERNES. _Bone?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rigid connective tissue that makes up the skeleton of vertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The porous calcified substance from which bones are made.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here comes lean Jack, here comes bare-bone."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now for the bare-pick’d bone of majesty Doth dogged war bristle his angry crest And snarleth in the gentle eyes of peace."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"NATHANIEL. _Laus Deo, bone intelligo._ HOLOFERNES. _Bone?"*

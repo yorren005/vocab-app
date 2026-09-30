@@ -5,15 +5,6 @@ status: unread
 ---
 # fat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft greasy substance occurring in organic tissue and consisting of a mixture of lipids (mostly triglycerides).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of body tissue containing stored fat that serves as a source of energy; it also cushions and insulates vital organs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard that Julius Caesar Grew fat with feasting there."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay,” quoth Jaques, “Sweep on, you fat and greasy citizens! ’Tis just the fashion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have but lean luck in the match, and yet is she a wondrous fat marriage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft greasy substance occurring in organic tissue and consisting of a mixture of lipids (mostly triglycerides).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of body tissue containing stored fat that serves as a source of energy; it also cushions and insulates vital organs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard that Julius Caesar Grew fat with feasting there."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay,” quoth Jaques, “Sweep on, you fat and greasy citizens! ’Tis just the fashion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have but lean luck in the match, and yet is she a wondrous fat marriage."*

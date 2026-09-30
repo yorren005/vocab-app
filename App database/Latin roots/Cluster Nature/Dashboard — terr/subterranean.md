@@ -5,15 +5,6 @@ status: unread
 ---
 # subterranean
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or operating under the surface of the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lying beyond what is openly revealed or avowed (especially being kept in the background or deliberately concealed); ; - bertrand russell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby was about to descend into the subterranean regions to take tea when he looked out of his door just now and saw the crow who was out late."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Iridescent bubbles of dank subterranean breath rose from the sweating sod beside the waiting-maid’s feet as she trod, hissing as they burst and expanded away to join the vapoury firmament above."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For again Starbuck’s downcast eyes lighted up with the stubbornness of life; the subterranean laugh died away; the winds blew on; the sails filled out; the ship heaved and rolled as before."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or operating under the surface of the earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lying beyond what is openly revealed or avowed (especially being kept in the background or deliberately concealed); ; - bertrand russell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby was about to descend into the subterranean regions to take tea when he looked out of his door just now and saw the crow who was out late."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Iridescent bubbles of dank subterranean breath rose from the sweating sod beside the waiting-maid’s feet as she trod, hissing as they burst and expanded away to join the vapoury firmament above."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For again Starbuck’s downcast eyes lighted up with the stubbornness of life; the subterranean laugh died away; the winds blew on; the sails filled out; the ship heaved and rolled as before."*

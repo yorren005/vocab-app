@@ -5,13 +5,6 @@ status: unread
 ---
 # monasticism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Asceticism as a form of religious life; usually conducted in a community under a common rule and characterized by celibacy and poverty and obedience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Asceticism as a form of religious life; usually conducted in a community under a common rule and characterized by celibacy and poverty and obedience.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It is significant that Christian monasticism and the coenobite life began in Egypt, where, as we learn from papyri found in recent years, great monasteries of Serapis existed long before our era."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Asceticism as a form of religious life; usually conducted in a community under a common rule and characterized by celibacy and poverty and obedience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Asceticism as a form of religious life; usually conducted in a community under a common rule and characterized by celibacy and poverty and obedience.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It is significant that Christian monasticism and the coenobite life began in Egypt, where, as we learn from papyri found in recent years, great monasteries of Serapis existed long before our era."*

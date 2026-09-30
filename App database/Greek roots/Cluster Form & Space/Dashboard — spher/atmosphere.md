@@ -5,15 +5,6 @@ status: unread
 ---
 # atmosphere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The gaseous envelope of a celestial body (such as a planet).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The whole mass of air surrounding the earth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The atmosphere is created by an old Swiss castle and by the romantic associations of the noble family who lived there."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As soon as Mäzli noticed that the usual cheerfulness had departed from the house, she tried to get into a different atmosphere at once."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli actually begged to go to bed before the evening song had been sung, because the depressing atmosphere in the house was so little to her taste that she even preferred to go to bed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The gaseous envelope of a celestial body (such as a planet).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The whole mass of air surrounding the earth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The atmosphere is created by an old Swiss castle and by the romantic associations of the noble family who lived there."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As soon as Mäzli noticed that the usual cheerfulness had departed from the house, she tried to get into a different atmosphere at once."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli actually begged to go to bed before the evening song had been sung, because the depressing atmosphere in the house was so little to her taste that she even preferred to go to bed."*

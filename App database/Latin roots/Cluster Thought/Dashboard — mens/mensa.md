@@ -5,15 +5,6 @@ status: unread
 ---
 # mensa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A faint constellation in the polar region of the southern hemisphere and containing part of the large magellanic cloud.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A faint constellation in the polar region of the southern hemisphere and containing part of the large magellanic cloud.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"When it tends to the mensa, it is a token of a slanderous tongue and of envy."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"This is also called the line of fortune; it is termed likewise the mensa, because it makes up the table of the hand."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"If no mensa at all, it shows a man malevolent, contentious, faithless, inconstant and of base condition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A faint constellation in the polar region of the southern hemisphere and containing part of the large magellanic cloud.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A faint constellation in the polar region of the southern hemisphere and containing part of the large magellanic cloud.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"When it tends to the mensa, it is a token of a slanderous tongue and of envy."*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"This is also called the line of fortune; it is termed likewise the mensa, because it makes up the table of the hand."*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"If no mensa at all, it shows a man malevolent, contentious, faithless, inconstant and of base condition."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # arda
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agency of the intelligence community that conducts advanced research and development related to information technology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agency of the intelligence community that conducts advanced research and development related to information technology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arda designates an agency of the intelligence community that conducts advanced research and development related to information technology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agency of the intelligence community that conducts advanced research and development related to information technology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agency of the intelligence community that conducts advanced research and development related to information technology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arda designates an agency of the intelligence community that conducts advanced research and development related to information technology."*

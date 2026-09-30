@@ -5,13 +5,6 @@ status: unread
 ---
 # clade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of biological taxa (such as species) that includes all descendants of one common ancestor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of biological taxa (such as species) that includes all descendants of one common ancestor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clade designates a group of biological taxa (such as species) that includes all descendants of one common ancestor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of biological taxa (such as species) that includes all descendants of one common ancestor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of biological taxa (such as species) that includes all descendants of one common ancestor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clade designates a group of biological taxa (such as species) that includes all descendants of one common ancestor."*

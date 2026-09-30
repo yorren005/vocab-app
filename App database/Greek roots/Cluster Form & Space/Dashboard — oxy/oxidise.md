@@ -5,15 +5,6 @@ status: unread
 ---
 # oxidise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Add oxygen to or combine with oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enter into a combination with oxygen or become converted into an oxide.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"At a higher temperature the sulphate is again decomposed to CuO and SO_{3}, some of which passes off and is free to oxidise more sulphide; the rest is decomposed to SO_{2} and oxygen."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The proportion of sulphur in the charge thus controls the concentration of the copper by the smelting operation, and, in order to effect the desired concentration, oxygen is required in order to burn off sulphur and to oxidise iron."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It is eliminated with difficulty, the nickel and copper tending to oxidise together on bessemerising."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Add oxygen to or combine with oxygen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enter into a combination with oxygen or become converted into an oxide.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"At a higher temperature the sulphate is again decomposed to CuO and SO_{3}, some of which passes off and is free to oxidise more sulphide; the rest is decomposed to SO_{2} and oxygen."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The proportion of sulphur in the charge thus controls the concentration of the copper by the smelting operation, and, in order to effect the desired concentration, oxygen is required in order to burn off sulphur and to oxidise iron."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It is eliminated with difficulty, the nickel and copper tending to oxidise together on bessemerising."*

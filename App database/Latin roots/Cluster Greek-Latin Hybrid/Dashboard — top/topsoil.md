@@ -5,13 +5,6 @@ status: unread
 ---
 # topsoil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The layer of soil on the surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The layer of soil on the surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topsoil designates the layer of soil on the surface."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The layer of soil on the surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The layer of soil on the surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topsoil designates the layer of soil on the surface."*

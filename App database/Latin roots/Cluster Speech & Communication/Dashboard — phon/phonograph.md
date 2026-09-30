@@ -5,15 +5,6 @@ status: unread
 ---
 # phonograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Machine in which rotating records cause a stylus to vibrate and the vibrations are amplified acoustically or electronically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Machine in which rotating records cause a stylus to vibrate and the vibrations are amplified acoustically or electronically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Seward’s Diary._ (Kept in phonograph) _25 May._--Ebb tide in appetite to-day."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I shall take this cylinder with me, and then I can complete my entry on Lucy’s phonograph. _Memorandum left by Lucy Westenra._ _17 September."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I am to relieve them in a quarter of an hour, and I am entering this on Lucy’s phonograph."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Machine in which rotating records cause a stylus to vibrate and the vibrations are amplified acoustically or electronically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Machine in which rotating records cause a stylus to vibrate and the vibrations are amplified acoustically or electronically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"Seward’s Diary._ (Kept in phonograph) _25 May._--Ebb tide in appetite to-day."*
+> - 📜 **Bram Stoker (*Dracula*):** *"I shall take this cylinder with me, and then I can complete my entry on Lucy’s phonograph. _Memorandum left by Lucy Westenra._ _17 September."*
+> - 📜 **Bram Stoker (*Dracula*):** *"I am to relieve them in a quarter of an hour, and I am entering this on Lucy’s phonograph."*

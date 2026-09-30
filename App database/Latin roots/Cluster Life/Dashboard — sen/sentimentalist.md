@@ -5,15 +5,6 @@ status: unread
 ---
 # sentimentalist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who indulges in excessive sentimentality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who indulges in excessive sentimentality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence isn't a sentimentalist like Jack or Val." Here Jack Bendish got as far as an artless "Oh, I say!" but his wife paid no attention."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For unless you own the whale, you are but a provincial and sentimentalist in Truth."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"For unless you own the whale, you are but a provincial and sentimentalist in Truth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who indulges in excessive sentimentality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who indulges in excessive sentimentality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence isn't a sentimentalist like Jack or Val." Here Jack Bendish got as far as an artless "Oh, I say!" but his wife paid no attention."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For unless you own the whale, you are but a provincial and sentimentalist in Truth."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"For unless you own the whale, you are but a provincial and sentimentalist in Truth."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # preferably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: More readily or willingly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: More readily or willingly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"If Jesus comes to them with a word from God, can he not prove its authenticity preferably with "a sign from the sky" (Mark 8:11)?"*
-> - 📜 **James Joyce (*Ulysses*):** *"The sailor stared at him heavily from a pair of drowsy baggy eyes, rather bunged up from excessive use of boose, preferably good old Hollands and water. —You know Simon Dedalus? he asked at length. —I’ve heard of him, Stephen said."*
-> - 📜 **James Joyce (*Ulysses*):** *"On the whole though favouring preferably light opera of the _Don Giovanni_ description and _Martha_, a gem in its line, he had a _penchant_, though with only a surface knowledge, for the severe classical school such as Mendelssohn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: More readily or willingly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: More readily or willingly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"If Jesus comes to them with a word from God, can he not prove its authenticity preferably with "a sign from the sky" (Mark 8:11)?"*
+> - 📜 **James Joyce (*Ulysses*):** *"The sailor stared at him heavily from a pair of drowsy baggy eyes, rather bunged up from excessive use of boose, preferably good old Hollands and water. —You know Simon Dedalus? he asked at length. —I’ve heard of him, Stephen said."*
+> - 📜 **James Joyce (*Ulysses*):** *"On the whole though favouring preferably light opera of the _Don Giovanni_ description and _Martha_, a gem in its line, he had a _penchant_, though with only a surface knowledge, for the severe classical school such as Mendelssohn."*

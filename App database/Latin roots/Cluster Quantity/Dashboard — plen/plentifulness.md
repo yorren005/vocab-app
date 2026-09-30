@@ -5,14 +5,6 @@ status: unread
 ---
 # plentifulness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A full supply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A full supply.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"And now I speak not of the love that has been turned to hatred, the honor to ignominy, the ease and plentifulness of all things to danger, want, and nakedness."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"In some hollows the plentifulness of water in those days was made apparent, for it had to be but a small depression to be a-glint with it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A full supply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A full supply.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"And now I speak not of the love that has been turned to hatred, the honor to ignominy, the ease and plentifulness of all things to danger, want, and nakedness."*
+> - 📜 **F. H. Costello (*Sure-dart*):** *"In some hollows the plentifulness of water in those days was made apparent, for it had to be but a small depression to be a-glint with it."*

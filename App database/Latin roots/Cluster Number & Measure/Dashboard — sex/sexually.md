@@ -5,13 +5,6 @@ status: unread
 ---
 # sexually
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to sexuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By sexual means.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Prevailingly, women are depicted as sexually insatiable, as in a piece written by a man who takes a month's vacation from sex to recoup his strength (pt. 2, p. 12)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to sexuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By sexual means.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Prevailingly, women are depicted as sexually insatiable, as in a piece written by a man who takes a month's vacation from sex to recoup his strength (pt. 2, p. 12)."*

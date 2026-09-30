@@ -5,15 +5,6 @@ status: unread
 ---
 # stipend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sum of money allotted on a regular basis; usually for some specific purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sum of money allotted on a regular basis; usually for some specific purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Whereas from our present _via media_--facilitation of divorce--can only result the era when the young lady in reduced circumstances will no longer turn governess but will be open to engagement as wife at a reasonable stipend."*
-> - 📜 **George Eliot (*Middlemarch*):** *"After a time—not, of course, at first—he might be with me as my curate, and he would have so much to do that his stipend would be nearly what I used to get as vicar."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Was it possible that with his small stipend he could afford such extravagances?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sum of money allotted on a regular basis; usually for some specific purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sum of money allotted on a regular basis; usually for some specific purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Whereas from our present _via media_--facilitation of divorce--can only result the era when the young lady in reduced circumstances will no longer turn governess but will be open to engagement as wife at a reasonable stipend."*
+> - 📜 **George Eliot (*Middlemarch*):** *"After a time—not, of course, at first—he might be with me as my curate, and he would have so much to do that his stipend would be nearly what I used to get as vicar."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Was it possible that with his small stipend he could afford such extravagances?"*

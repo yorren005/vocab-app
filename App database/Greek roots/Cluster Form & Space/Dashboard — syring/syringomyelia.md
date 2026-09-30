@@ -5,13 +5,6 @@ status: unread
 ---
 # syringomyelia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic progressive disease of the spinal cord associated with sensory disturbances, muscle atrophy, and spasticity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronic progressive disease of the spinal cord associated with sensory disturbances, muscle atrophy, and spasticity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syringomyelia designates a chronic progressive disease of the spinal cord associated with sensory disturbances, muscle atrophy, and spasticity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic progressive disease of the spinal cord associated with sensory disturbances, muscle atrophy, and spasticity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronic progressive disease of the spinal cord associated with sensory disturbances, muscle atrophy, and spasticity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syringomyelia designates a chronic progressive disease of the spinal cord associated with sensory disturbances, muscle atrophy, and spasticity."*

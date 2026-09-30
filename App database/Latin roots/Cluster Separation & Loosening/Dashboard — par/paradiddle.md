@@ -5,13 +5,6 @@ status: unread
 ---
 # paradiddle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sound of a drum (especially a snare drum) beaten rapidly and continuously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sound of a drum (especially a snare drum) beaten rapidly and continuously.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paradiddle designates the sound of a drum (especially a snare drum) beaten rapidly and continuously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sound of a drum (especially a snare drum) beaten rapidly and continuously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sound of a drum (especially a snare drum) beaten rapidly and continuously.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paradiddle designates the sound of a drum (especially a snare drum) beaten rapidly and continuously."*

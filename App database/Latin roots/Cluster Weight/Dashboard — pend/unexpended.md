@@ -5,14 +5,6 @@ status: unread
 ---
 # unexpended
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of financial resources) not spent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not used up.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There was, it might be said, the energy of her mother’s unexpended family, as well as the natural energy of Tess’s years, rekindled after the experience which had so overwhelmed her for the time."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But a man should not and cannot forgive and forget,” he replied, and though till that moment he had not been thinking of Kurágin, all his unexpended anger suddenly swelled up in his heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of financial resources) not spent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not used up.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There was, it might be said, the energy of her mother’s unexpended family, as well as the natural energy of Tess’s years, rekindled after the experience which had so overwhelmed her for the time."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But a man should not and cannot forgive and forget,” he replied, and though till that moment he had not been thinking of Kurágin, all his unexpended anger suddenly swelled up in his heart."*

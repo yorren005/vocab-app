@@ -5,15 +5,6 @@ status: unread
 ---
 # inventory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A detailed list of all the items in stock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The merchandise that a shop has on hand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The leanness that afflicts us, the object of our misery, is as an inventory to particularize their abundance; our sufferance is a gain to them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, but some natural notes about her body Above ten thousand meaner movables Would testify, t’ enrich mine inventory."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Forsooth, an inventory, thus importing The several parcels of his plate, his treasure, Rich stuffs and ornaments of household, which I find at such proud rate that it outspeaks Possession of a subject."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A detailed list of all the items in stock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The merchandise that a shop has on hand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The leanness that afflicts us, the object of our misery, is as an inventory to particularize their abundance; our sufferance is a gain to them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, but some natural notes about her body Above ten thousand meaner movables Would testify, t’ enrich mine inventory."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Forsooth, an inventory, thus importing The several parcels of his plate, his treasure, Rich stuffs and ornaments of household, which I find at such proud rate that it outspeaks Possession of a subject."*

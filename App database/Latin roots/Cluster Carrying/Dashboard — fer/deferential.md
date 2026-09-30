@@ -5,15 +5,6 @@ status: unread
 ---
 # deferential
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing deference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing deference.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby submits with his deferential cough."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, with his deferential cough."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes, who was deferential and carried his own bag."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing deference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing deference.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby submits with his deferential cough."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, with his deferential cough."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes, who was deferential and carried his own bag."*

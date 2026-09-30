@@ -5,15 +5,6 @@ status: unread
 ---
 # scribe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French playwright (1791-1861).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal terms for journalists.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Write down thy mind, bewray thy meaning so, An if thy stumps will let thee play the scribe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That my master, being scribe, to himself should write the letter?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is no great scribe, rather handling his pen like the pocket-staff he carries about with him always convenient to his grasp, and discourages correspondence with himself in others as being too artless and direct a way of doing delicate business."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French playwright (1791-1861).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal terms for journalists.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Write down thy mind, bewray thy meaning so, An if thy stumps will let thee play the scribe."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That my master, being scribe, to himself should write the letter?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is no great scribe, rather handling his pen like the pocket-staff he carries about with him always convenient to his grasp, and discourages correspondence with himself in others as being too artless and direct a way of doing delicate business."*

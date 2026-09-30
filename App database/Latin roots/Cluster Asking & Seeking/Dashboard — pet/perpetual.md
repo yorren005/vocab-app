@@ -5,15 +5,6 @@ status: unread
 ---
 # perpetual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Continuing forever or indefinitely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uninterrupted in time and indefinitely long continuing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, for a quart d’ecu he will sell the fee-simple of his salvation, the inheritance of it, and cut the entail from all remainders, and a perpetual succession for it perpetually."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, thou art a perpetual triumph, an everlasting bonfire-light!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I were better to be eaten to death with a rust than to be scoured to nothing with perpetual motion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Continuing forever or indefinitely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uninterrupted in time and indefinitely long continuing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, for a quart d’ecu he will sell the fee-simple of his salvation, the inheritance of it, and cut the entail from all remainders, and a perpetual succession for it perpetually."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, thou art a perpetual triumph, an everlasting bonfire-light!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I were better to be eaten to death with a rust than to be scoured to nothing with perpetual motion."*

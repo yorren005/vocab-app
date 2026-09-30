@@ -5,13 +5,6 @@ status: unread
 ---
 # timeline
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sequence of related events arranged in chronological order and displayed along a line (usually drawn left to right or top to bottom).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sequence of related events arranged in chronological order and displayed along a line (usually drawn left to right or top to bottom).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Net yields from nonrenewable reserves, residues and substitutes had dwindled until exhaustion was certain and a timeline predictable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sequence of related events arranged in chronological order and displayed along a line (usually drawn left to right or top to bottom).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sequence of related events arranged in chronological order and displayed along a line (usually drawn left to right or top to bottom).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Net yields from nonrenewable reserves, residues and substitutes had dwindled until exhaustion was certain and a timeline predictable."*

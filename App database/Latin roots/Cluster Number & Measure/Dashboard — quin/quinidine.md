@@ -5,13 +5,6 @@ status: unread
 ---
 # quinidine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cardiac drug (trade names quinidex and quinora) used to treat certain heart arrhythmias.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cardiac drug (trade names quinidex and quinora) used to treat certain heart arrhythmias.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quinidine designates cardiac drug (trade names quinidex and quinora) used to treat certain heart arrhythmias."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cardiac drug (trade names quinidex and quinora) used to treat certain heart arrhythmias.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cardiac drug (trade names quinidex and quinora) used to treat certain heart arrhythmias.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quinidine designates cardiac drug (trade names quinidex and quinora) used to treat certain heart arrhythmias."*

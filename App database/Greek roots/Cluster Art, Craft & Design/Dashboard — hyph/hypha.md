@@ -5,13 +5,6 @@ status: unread
 ---
 # hypha
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the threads that make up the mycelium of a fungus, increase by apical growth, and are transversely septate or nonseptate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the threads that make up the mycelium of a fungus, increase by apical growth, and are transversely septate or nonseptate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypha designates one of the threads that make up the mycelium of a fungus, increase by apical growth, and are transversely septate or nonseptate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the threads that make up the mycelium of a fungus, increase by apical growth, and are transversely septate or nonseptate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the threads that make up the mycelium of a fungus, increase by apical growth, and are transversely septate or nonseptate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypha designates one of the threads that make up the mycelium of a fungus, increase by apical growth, and are transversely septate or nonseptate."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # malocclusion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (dentistry) a condition in which the opposing teeth do not mesh normally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (dentistry) a condition in which the opposing teeth do not mesh normally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malocclusion designates (dentistry) a condition in which the opposing teeth do not mesh normally."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (dentistry) a condition in which the opposing teeth do not mesh normally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (dentistry) a condition in which the opposing teeth do not mesh normally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malocclusion designates (dentistry) a condition in which the opposing teeth do not mesh normally."*

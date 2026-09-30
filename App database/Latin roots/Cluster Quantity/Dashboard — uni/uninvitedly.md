@@ -5,14 +5,6 @@ status: unread
 ---
 # uninvitedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without invitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without invitation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This was strangely heightened at times by the ragged Elijah’s diabolical incoherences uninvitedly recurring to me, with a subtle energy I could not have before conceived of."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"This was strangely heightened at times by the ragged Elijah’s diabolical incoherences uninvitedly recurring to me, with a subtle energy I could not have before conceived of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without invitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without invitation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This was strangely heightened at times by the ragged Elijah’s diabolical incoherences uninvitedly recurring to me, with a subtle energy I could not have before conceived of."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"This was strangely heightened at times by the ragged Elijah’s diabolical incoherences uninvitedly recurring to me, with a subtle energy I could not have before conceived of."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # vacillation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indecision in speech or action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Changing location by moving back and forth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"However, some exceptions were made in legislation, and, after much apparent hesitation and vacillation, were allowed by, the courts to stand, and these have now grown in number until they form an impressive total."*
-> - 📜 **George Eliot (*Middlemarch*):** *"On the whole his surmises, in addition to what he knew of the fact, increased his friendliness and tolerance towards Ladislaw, and made him understand the vacillation which kept him at Middlemarch after he had said that he should go away."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"But not only in matters of such relative importance did Lenau exhibit this vacillation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indecision in speech or action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Changing location by moving back and forth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"However, some exceptions were made in legislation, and, after much apparent hesitation and vacillation, were allowed by, the courts to stand, and these have now grown in number until they form an impressive total."*
+> - 📜 **George Eliot (*Middlemarch*):** *"On the whole his surmises, in addition to what he knew of the fact, increased his friendliness and tolerance towards Ladislaw, and made him understand the vacillation which kept him at Middlemarch after he had said that he should go away."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"But not only in matters of such relative importance did Lenau exhibit this vacillation."*

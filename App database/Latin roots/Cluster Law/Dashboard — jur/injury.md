@@ -5,15 +5,6 @@ status: unread
 ---
 # injury
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any physical damage to the body caused by violence or accident or fracture etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An accident that results in physical damage or hurt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do forgive thy robbery gentle thief Although thou steal thee all my poverty: And yet love knows it is a greater grief To bear greater wrong, than hate’s known injury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O let me suffer (being at your beck) Th’ imprisoned absence of your liberty, And patience tame to sufferance bide each check, Without accusing you of injury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I shall do my friends no wrong, for I have none to lament me; the world no injury, for in it I have nothing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any physical damage to the body caused by violence or accident or fracture etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An accident that results in physical damage or hurt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do forgive thy robbery gentle thief Although thou steal thee all my poverty: And yet love knows it is a greater grief To bear greater wrong, than hate’s known injury."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O let me suffer (being at your beck) Th’ imprisoned absence of your liberty, And patience tame to sufferance bide each check, Without accusing you of injury."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I shall do my friends no wrong, for I have none to lament me; the world no injury, for in it I have nothing."*

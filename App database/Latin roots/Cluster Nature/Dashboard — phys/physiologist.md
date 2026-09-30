@@ -5,15 +5,6 @@ status: unread
 ---
 # physiologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A biologist specializing in physiology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologist specializing in physiology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Ere quitting, for the nonce, the Sperm Whale’s head, I would have you, as a sensible physiologist, simply—particularly remark its front aspect, in all its compacted collectedness."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The mathematician said, that he had never seen the advantages to be derived from the study of mathematics so justly and so forcibly described; the same remark was made by the classic about classics, and by the physiologist about natural science."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Ere quitting, for the nonce, the Sperm Whale’s head, I would have you, as a sensible physiologist, simply—particularly remark its front aspect, in all its compacted collectedness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biologist specializing in physiology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologist specializing in physiology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Ere quitting, for the nonce, the Sperm Whale’s head, I would have you, as a sensible physiologist, simply—particularly remark its front aspect, in all its compacted collectedness."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The mathematician said, that he had never seen the advantages to be derived from the study of mathematics so justly and so forcibly described; the same remark was made by the classic about classics, and by the physiologist about natural science."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Ere quitting, for the nonce, the Sperm Whale’s head, I would have you, as a sensible physiologist, simply—particularly remark its front aspect, in all its compacted collectedness."*

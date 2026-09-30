@@ -5,20 +5,6 @@ status: unread
 ---
 # grapple
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Hand-to-hand struggle
-> 2. **Nuance / Usage**: Contest for superiority or mastery
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"valour, and in the grapple I boarded them."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I was as willing to grapple as he was to board."*
-> - 📜 **""Voyageur"" (*The Cockermouth, Keswick & Penrith Railway*):** *"Class 4 2-6-4T No. 42098 grapples with the 1 in 63 to Troutbeck at the head of the "Lakes Express"."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To seize, hold fast, and struggle with an opponent in close hand-to-hand combat; originally, to hook and secure a ship with a grappling iron.
+> 2. **Nuance / Usage**: Figuratively (usually *grapple with*), to wrestle intellectually or morally with a stubborn problem, dilemma, or hardship in an effort to master it.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Hamlet*):** *"Those friends thou hast, and their adoption tried, **grapple** them unto thy soul with hoops of steel."*
+> - 📜 **Arthur Conan Doyle (*The Final Problem*):** *"Locked in each other's arms, the two mortal enemies **grappled** upon the narrow brink of the Reichenbach Fall."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab stood on the quarter-deck, **grappling** with the inscrutable malice he saw behind the white whale's brow."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # curliness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of hair) a tendency to curl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of hair) a tendency to curl.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curliness designates (of hair) a tendency to curl."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of hair) a tendency to curl.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of hair) a tendency to curl.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curliness designates (of hair) a tendency to curl."*

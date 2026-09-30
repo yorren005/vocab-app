@@ -5,13 +5,6 @@ status: unread
 ---
 # sinistrorsal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spiraling upward from right to left.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spiraling upward from right to left.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinistrorsal designates spiraling upward from right to left."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spiraling upward from right to left.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spiraling upward from right to left.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinistrorsal designates spiraling upward from right to left."*

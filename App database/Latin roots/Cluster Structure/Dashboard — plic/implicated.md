@@ -5,15 +5,6 @@ status: unread
 ---
 # implicated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into intimate and incriminating connection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impose, involve, or imply as a necessary accompaniment or result.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Weevle reverts from this intelligence to the Galaxy portraits implicated, and seems to know the originals, and to be known of them."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He has had something—he don’t know what—to do with so much in this connexion that is mysterious that it is possible he may even be implicated, without knowing it, in the present transaction."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George, “this man with me is the other party implicated in this unfortunate affair—nominally, only nominally—and my sole object is to prevent his getting into trouble on my account."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into intimate and incriminating connection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impose, involve, or imply as a necessary accompaniment or result.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Weevle reverts from this intelligence to the Galaxy portraits implicated, and seems to know the originals, and to be known of them."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He has had something—he don’t know what—to do with so much in this connexion that is mysterious that it is possible he may even be implicated, without knowing it, in the present transaction."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"George, “this man with me is the other party implicated in this unfortunate affair—nominally, only nominally—and my sole object is to prevent his getting into trouble on my account."*

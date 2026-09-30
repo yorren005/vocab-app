@@ -5,13 +5,6 @@ status: unread
 ---
 # amyl
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hydrocarbon radical that occurs in many organic compounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hydrocarbon radical that occurs in many organic compounds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amyl designates a hydrocarbon radical that occurs in many organic compounds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hydrocarbon radical that occurs in many organic compounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hydrocarbon radical that occurs in many organic compounds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amyl designates a hydrocarbon radical that occurs in many organic compounds."*

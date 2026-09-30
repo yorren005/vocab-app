@@ -5,13 +5,6 @@ status: unread
 ---
 # irrupt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enter uninvited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Erupt or intensify suddenly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, irrupt designates enter uninvited."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enter uninvited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Erupt or intensify suddenly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, irrupt designates enter uninvited."*

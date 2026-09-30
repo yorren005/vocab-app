@@ -5,13 +5,6 @@ status: unread
 ---
 # ostracoderm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various primitive, extinct jawless fish (class Agnatha) of the Lower Paleozoic with a bony covering of plates or scales serving as a protective armor and which on the broad head usually form a bony shield of fused plates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various primitive, extinct jawless fish (class Agnatha) of the Lower Paleozoic with a bony covering of plates or scales serving as a protective armor and which on the broad head usually form a bony shield of fused plates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ostracoderm designates any of various primitive, extinct jawless fish (class agnatha) of the lower paleozoic with a bony covering of plates or scales serving as a protective armor and which on the broad head usually form a bony shield of fused plates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various primitive, extinct jawless fish (class Agnatha) of the Lower Paleozoic with a bony covering of plates or scales serving as a protective armor and which on the broad head usually form a bony shield of fused plates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various primitive, extinct jawless fish (class Agnatha) of the Lower Paleozoic with a bony covering of plates or scales serving as a protective armor and which on the broad head usually form a bony shield of fused plates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ostracoderm designates any of various primitive, extinct jawless fish (class agnatha) of the lower paleozoic with a bony covering of plates or scales serving as a protective armor and which on the broad head usually form a bony shield of fused plates."*

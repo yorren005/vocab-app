@@ -5,14 +5,6 @@ status: unread
 ---
 # celibate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unmarried person who has taken a religious vow of chastity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abstaining from sexual intercourse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He must be celibate; if he is married he must leave his wife."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Each of these groping celibates supplied at any rate a want of which the other was impatiently conscious."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unmarried person who has taken a religious vow of chastity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abstaining from sexual intercourse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He must be celibate; if he is married he must leave his wife."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Each of these groping celibates supplied at any rate a want of which the other was impatiently conscious."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # horoscopy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The drawing up and interpretation of horoscopes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The drawing up and interpretation of horoscopes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, horoscopy designates the drawing up and interpretation of horoscopes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The drawing up and interpretation of horoscopes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The drawing up and interpretation of horoscopes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, horoscopy designates the drawing up and interpretation of horoscopes."*

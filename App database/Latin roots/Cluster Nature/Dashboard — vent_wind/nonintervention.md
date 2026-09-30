@@ -5,13 +5,6 @@ status: unread
 ---
 # nonintervention
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A foreign policy of staying out of other countries' disputes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A foreign policy of staying out of other countries' disputes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Wait, I have not finished...” he said to Prince Andrew, seizing him by the arm, “I believe that intervention will be stronger than nonintervention."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A foreign policy of staying out of other countries' disputes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A foreign policy of staying out of other countries' disputes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Wait, I have not finished...” he said to Prince Andrew, seizing him by the arm, “I believe that intervention will be stronger than nonintervention."*

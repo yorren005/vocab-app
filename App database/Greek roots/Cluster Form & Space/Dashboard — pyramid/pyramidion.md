@@ -5,13 +5,6 @@ status: unread
 ---
 # pyramidion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pyramidion is the capstone of an Egyptian pyramid or the upper section of an obelisk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speakers of the Ancient Egyptian language referred to pyramidia as benbenet and associated the pyramid as a whole with the sacred benben stone..
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyramidion designates a pyramidion is the capstone of an egyptian pyramid or the upper section of an obelisk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pyramidion is the capstone of an Egyptian pyramid or the upper section of an obelisk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speakers of the Ancient Egyptian language referred to pyramidia as benbenet and associated the pyramid as a whole with the sacred benben stone..
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyramidion designates a pyramidion is the capstone of an egyptian pyramid or the upper section of an obelisk."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # reallocate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Allocate, distribute, or apportion anew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allocate, distribute, or apportion anew.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reallocate designates allocate, distribute, or apportion anew."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Allocate, distribute, or apportion anew.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allocate, distribute, or apportion anew.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reallocate designates allocate, distribute, or apportion anew."*

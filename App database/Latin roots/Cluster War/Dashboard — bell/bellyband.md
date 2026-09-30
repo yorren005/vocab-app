@@ -5,13 +5,6 @@ status: unread
 ---
 # bellyband
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cloth band that is worn around the waist (as on infants until the navel has healed).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strap around the belly of a draft animal holding the shafts of a wagon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"She was well primed with a good load of Delahunt’s port under her bellyband."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cloth band that is worn around the waist (as on infants until the navel has healed).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strap around the belly of a draft animal holding the shafts of a wagon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"She was well primed with a good load of Delahunt’s port under her bellyband."*

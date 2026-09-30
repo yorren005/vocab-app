@@ -5,13 +5,6 @@ status: unread
 ---
 # realty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Property consisting of houses and land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Property consisting of houses and land.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"O Heaven! that such resemblance of the Highest Should yet remain, where faith and realty Remain not: Wherefore should not strength and might There fail where virtue fails, or weakest prove Where boldest, though to fight unconquerable?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Property consisting of houses and land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Property consisting of houses and land.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"O Heaven! that such resemblance of the Highest Should yet remain, where faith and realty Remain not: Wherefore should not strength and might There fail where virtue fails, or weakest prove Where boldest, though to fight unconquerable?"*

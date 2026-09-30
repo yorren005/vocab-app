@@ -5,14 +5,6 @@ status: unread
 ---
 # incommensurable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to measure or compare in value or size or excellence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having a common factor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"For us with the standard of good and evil given us by Christ, no human actions are incommensurable."*
-> - 📜 **James Joyce (*Ulysses*):** *"The committal of homicide or suicide during sleep by an aberration of the light of reason, the incommensurable categorical intelligence situated in the cerebral convolutions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to measure or compare in value or size or excellence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having a common factor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"For us with the standard of good and evil given us by Christ, no human actions are incommensurable."*
+> - 📜 **James Joyce (*Ulysses*):** *"The committal of homicide or suicide during sleep by an aberration of the light of reason, the incommensurable categorical intelligence situated in the cerebral convolutions."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # creashak
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen mat-forming shrub of north america and northern eurasia having small white flowers and red berries; leaves turn red in autumn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen mat-forming shrub of north america and northern eurasia having small white flowers and red berries; leaves turn red in autumn.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creashak designates evergreen mat-forming shrub of north america and northern eurasia having small white flowers and red berries; leaves turn red in autumn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen mat-forming shrub of north america and northern eurasia having small white flowers and red berries; leaves turn red in autumn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen mat-forming shrub of north america and northern eurasia having small white flowers and red berries; leaves turn red in autumn.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creashak designates evergreen mat-forming shrub of north america and northern eurasia having small white flowers and red berries; leaves turn red in autumn."*

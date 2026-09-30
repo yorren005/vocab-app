@@ -5,15 +5,6 @@ status: unread
 ---
 # fortunately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By good fortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By good fortune.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know ’tis from Cordelia, Who hath most fortunately been inform’d Of my obscured course."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fair lovers, you are fortunately met."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most fortunately: he hath achiev’d a maid That paragons description and wild fame, One that excels the quirks of blazoning pens, And in the essential vesture of creation Does tire the ingener."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By good fortune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By good fortune.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know ’tis from Cordelia, Who hath most fortunately been inform’d Of my obscured course."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fair lovers, you are fortunately met."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most fortunately: he hath achiev’d a maid That paragons description and wild fame, One that excels the quirks of blazoning pens, And in the essential vesture of creation Does tire the ingener."*

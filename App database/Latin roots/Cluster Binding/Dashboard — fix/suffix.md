@@ -5,13 +5,6 @@ status: unread
 ---
 # suffix
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An affix that is added at the end of the word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attach a suffix to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suffix designates an affix that is added at the end of the word."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An affix that is added at the end of the word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attach a suffix to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suffix designates an affix that is added at the end of the word."*

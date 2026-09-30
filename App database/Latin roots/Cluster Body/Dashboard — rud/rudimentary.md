@@ -5,15 +5,6 @@ status: unread
 ---
 # rudimentary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or involving basic facts or principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being in the earliest stages of development.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"For one of the higher types nimbly and sweetly to recommend itself unto his gentle senses, it had at least to retain certain rudimentary characteristics allying it to such “dragons of the prime” as toads and snakes."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It was naturally of the essence that the young woman should be herself complex; that was rudimentary--or was at any rate the light in which Isabel Archer had originally dawned."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"What strange developments of humanity, what wonderful advances upon our rudimentary civilisation, I thought, might not appear when I came to look nearly into the dim elusive world that raced and fluctuated before my eyes!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or involving basic facts or principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being in the earliest stages of development.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"For one of the higher types nimbly and sweetly to recommend itself unto his gentle senses, it had at least to retain certain rudimentary characteristics allying it to such “dragons of the prime” as toads and snakes."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It was naturally of the essence that the young woman should be herself complex; that was rudimentary--or was at any rate the light in which Isabel Archer had originally dawned."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"What strange developments of humanity, what wonderful advances upon our rudimentary civilisation, I thought, might not appear when I came to look nearly into the dim elusive world that raced and fluctuated before my eyes!"*

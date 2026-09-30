@@ -5,13 +5,6 @@ status: unread
 ---
 # reveler
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A celebrant who shares in a noisy party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A celebrant who shares in a noisy party.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He had never missed a carousal at Danílov’s or other Moscow revelers’, drank whole nights through, outvying everyone else, and was at all the balls and parties of the best society."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A celebrant who shares in a noisy party.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A celebrant who shares in a noisy party.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He had never missed a carousal at Danílov’s or other Moscow revelers’, drank whole nights through, outvying everyone else, and was at all the balls and parties of the best society."*

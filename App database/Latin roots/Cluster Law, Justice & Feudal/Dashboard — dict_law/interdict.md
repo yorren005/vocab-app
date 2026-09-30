@@ -5,15 +5,6 @@ status: unread
 ---
 # interdict
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ecclesiastical censure by the roman catholic church withdrawing certain sacraments and christian burial from a person or all persons in a particular district.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A court order prohibiting a party from doing a certain activity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From this session interdict Every fowl of tyrant wing, Save the eagle, feather’d king; Keep the obsequy so strict."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon’s codicil seemed to him, as it did to her, a gross and cruel interdict on any active friendship between them."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"It is especially the name of a father-in-law which is thus laid under an interdict."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ecclesiastical censure by the roman catholic church withdrawing certain sacraments and christian burial from a person or all persons in a particular district.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A court order prohibiting a party from doing a certain activity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From this session interdict Every fowl of tyrant wing, Save the eagle, feather’d king; Keep the obsequy so strict."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon’s codicil seemed to him, as it did to her, a gross and cruel interdict on any active friendship between them."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"It is especially the name of a father-in-law which is thus laid under an interdict."*

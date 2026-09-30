@@ -5,13 +5,6 @@ status: unread
 ---
 # sentimentalize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Look at with sentimentality or turn into an object of sentiment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (someone or something) sentimental or imbue with sentimental qualities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Now, I don't see why I should have been sentimentalizing over myself like that."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Look at with sentimentality or turn into an object of sentiment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (someone or something) sentimental or imbue with sentimental qualities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Now, I don't see why I should have been sentimentalizing over myself like that."*

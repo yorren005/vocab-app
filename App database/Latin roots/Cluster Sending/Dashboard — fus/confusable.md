@@ -5,13 +5,6 @@ status: unread
 ---
 # confusable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So similar as to be easily identified for another thing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So similar as to be easily identified for another thing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, confusable designates so similar as to be easily identified for another thing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: So similar as to be easily identified for another thing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So similar as to be easily identified for another thing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, confusable designates so similar as to be easily identified for another thing."*

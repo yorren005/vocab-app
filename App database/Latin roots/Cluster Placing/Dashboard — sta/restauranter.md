@@ -5,13 +5,6 @@ status: unread
 ---
 # restauranter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The proprietor of a restaurant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The proprietor of a restaurant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, restauranter designates the proprietor of a restaurant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The proprietor of a restaurant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The proprietor of a restaurant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, restauranter designates the proprietor of a restaurant."*

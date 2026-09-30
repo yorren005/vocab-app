@@ -5,15 +5,6 @@ status: unread
 ---
 # profane
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Violate the sacred character of a place or language.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cominius and Lartius stand bare._] May these same instruments which, you profane, Never sound more!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We should profane the service of the dead To sing sage requiem and such rest to her As to peace-parted souls."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By heaven, Poins, I feel me much to blame, So idly to profane the precious time, When tempest of commotion, like the south Borne with black vapour, doth begin to melt And drop upon our bare unarmed heads."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Violate the sacred character of a place or language.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cominius and Lartius stand bare._] May these same instruments which, you profane, Never sound more!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We should profane the service of the dead To sing sage requiem and such rest to her As to peace-parted souls."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By heaven, Poins, I feel me much to blame, So idly to profane the precious time, When tempest of commotion, like the south Borne with black vapour, doth begin to melt And drop upon our bare unarmed heads."*

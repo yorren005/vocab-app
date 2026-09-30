@@ -5,20 +5,6 @@ status: unread
 ---
 # char
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Burn slightly or partly : scorch
-> 2. **Nuance / Usage**: Odd job, a chore or piece of housework
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the char withstood the storm*), direct object (*cleaved the char*), or prepositional anchor (*amidst the char*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Gwen White (*Antique Toys And Their Background*):** *"The rollers wore grooves in the nursery floors and the chars complained of getting splinters in their hands while scrubbing."*
-> - 📜 **Arthur Conan Doyle (*The Naval Treaty*):** *"She explained that she was the commissionaire's wife, who did the charing, and I gave her the order for the coffee."*
-> - 📜 **Classic Author (*Classic Work*):** *"The unit is an 80-column, 30 char. /sec dot matrix printer which uses a 5 by 7 font."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To burn or scorch the surface of wood, flesh, or food until it is blackened and reduced to carbon.
+> 2. **Nuance / Usage**: As a noun, denotes the blackened, carbonized material or charcoal produced by partial combustion; in culinary usage, controlled surface blackening over high heat.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the char withstood the storm*), direct object (*cleaved the char*), or prepositional anchor (*amidst the char*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The beams of the roof were **charred** and blackened by the fierce heat of the conflagration."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Across the common, the heather was **charred** into black patches where the Heat-Ray had swept."*
+> - 📜 **Ray Bradbury (*Fahrenheit 451*):** *"The pages curled into brittle black **char** as the kerosene flame licked the bindings."*

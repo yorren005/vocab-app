@@ -5,15 +5,6 @@ status: unread
 ---
 # unrecognizable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defying recognition as e.g. because of damage or alteration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defying recognition as e.g. because of damage or alteration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The tank displayed the debris of a space battle: ruptured ships, unrecognizable masses and fragments, and bloated human bodies."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"An old silk, of a color now unrecognizable, clung to her figure in those limp folds which are so eloquent of misery."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Some fifty miles below the Inner Station we came upon a hut of reeds, an inclined and melancholy pole, with the unrecognizable tatters of what had been a flag of some sort flying from it, and a neatly stacked wood-pile."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Defying recognition as e.g. because of damage or alteration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defying recognition as e.g. because of damage or alteration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The tank displayed the debris of a space battle: ruptured ships, unrecognizable masses and fragments, and bloated human bodies."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"An old silk, of a color now unrecognizable, clung to her figure in those limp folds which are so eloquent of misery."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Some fifty miles below the Inner Station we came upon a hut of reeds, an inclined and melancholy pole, with the unrecognizable tatters of what had been a flag of some sort flying from it, and a neatly stacked wood-pile."*

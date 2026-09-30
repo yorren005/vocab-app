@@ -5,14 +5,6 @@ status: unread
 ---
 # accordion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A portable box-shaped free-reed instrument; the reeds are made to vibrate by air from the bellows controlled by the player.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A portable box-shaped free-reed instrument; the reeds are made to vibrate by air from the bellows controlled by the player.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"An accordion began to whine like a tinker."*
-> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"They were dressed in accordion-pleated, pink tissue-paper and had hats to match."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A portable box-shaped free-reed instrument; the reeds are made to vibrate by air from the bellows controlled by the player.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A portable box-shaped free-reed instrument; the reeds are made to vibrate by air from the bellows controlled by the player.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"An accordion began to whine like a tinker."*
+> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"They were dressed in accordion-pleated, pink tissue-paper and had hats to match."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # adapted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make fit for, or change to suit a new purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adapt or conform oneself to new or different conditions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was so adapted to the routine of Greenleaf before long that I seemed to have been there a great while and almost to have dreamed rather than really lived my old life at my godmother’s."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Stationed in a waggon on this lawn, now, which, from the shape of the land, is naturally adapted to a public meeting, he would improve almost any occasion you could mention for hours and hours!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He said, Well, it was really very pleasant to see how things lazily adapted themselves to purposes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make fit for, or change to suit a new purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adapt or conform oneself to new or different conditions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I was so adapted to the routine of Greenleaf before long that I seemed to have been there a great while and almost to have dreamed rather than really lived my old life at my godmother’s."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Stationed in a waggon on this lawn, now, which, from the shape of the land, is naturally adapted to a public meeting, he would improve almost any occasion you could mention for hours and hours!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He said, Well, it was really very pleasant to see how things lazily adapted themselves to purposes."*

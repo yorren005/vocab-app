@@ -5,15 +5,6 @@ status: unread
 ---
 # virility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The masculine property of being capable of copulation and procreation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being manly; having the characteristics of an adult male.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But their intercourse was only dramatic or symbolical, for the hierophant had temporarily deprived himself of his virility by an application of hemlock."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Further, we may conjecture, though we are not expressly told, that it was on the same Day of Blood and for the same purpose that the novices sacrificed their virility."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The philosophy of sin involved is hardly deep enough, but {328} this doctrine of the second baptism cannot be said to lack virility."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The masculine property of being capable of copulation and procreation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being manly; having the characteristics of an adult male.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But their intercourse was only dramatic or symbolical, for the hierophant had temporarily deprived himself of his virility by an application of hemlock."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Further, we may conjecture, though we are not expressly told, that it was on the same Day of Blood and for the same purpose that the novices sacrificed their virility."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The philosophy of sin involved is hardly deep enough, but {328} this doctrine of the second baptism cannot be said to lack virility."*

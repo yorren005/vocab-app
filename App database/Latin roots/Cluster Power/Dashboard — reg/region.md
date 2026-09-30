@@ -5,15 +5,6 @@ status: unread
 ---
 # region
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The extended spatial location of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part of an animal that has a special function or is supplied by a given artery or nerve.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No more, you petty spirits of region low, Offend our hearing; hush!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ha! ’Swounds, I should take it: for it cannot be But I am pigeon-liver’d, and lack gall To make oppression bitter, or ere this I should have fatted all the region kites With this slave’s offal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And to the English court assemble now, From every region, apes of idleness!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The extended spatial location of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part of an animal that has a special function or is supplied by a given artery or nerve.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No more, you petty spirits of region low, Offend our hearing; hush!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ha! ’Swounds, I should take it: for it cannot be But I am pigeon-liver’d, and lack gall To make oppression bitter, or ere this I should have fatted all the region kites With this slave’s offal."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And to the English court assemble now, From every region, apes of idleness!"*

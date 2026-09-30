@@ -5,15 +5,6 @@ status: unread
 ---
 # cuticle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dead skin at the base of a fingernail or toenail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outer layer of the skin covering the exterior body surface of vertebrates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Fell, the cuticle under the skin."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Mehevi was remarkable fond of mollifying his entire cuticle with this ointment."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"If a leaf be taken fresh and the cuticle stripped off, which it will sometimes do very readily, the orifices through which the _Æcidium_ has burst will appear in irregular holes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dead skin at the base of a fingernail or toenail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outer layer of the skin covering the exterior body surface of vertebrates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Fell, the cuticle under the skin."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Mehevi was remarkable fond of mollifying his entire cuticle with this ointment."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"If a leaf be taken fresh and the cuticle stripped off, which it will sometimes do very readily, the orifices through which the _Æcidium_ has burst will appear in irregular holes."*

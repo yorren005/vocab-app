@@ -5,15 +5,6 @@ status: unread
 ---
 # seal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fastener consisting of a resinous composition that is plastic when warm; used for sealing documents and parcels and letters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device incised to make an impression; used to secure a closing or to authenticate documents.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when we in our viciousness grow hard— O misery on’t!—the wise gods seal our eyes, In our own filth drop our clear judgments, make us Adore our errors, laugh at’s while we strut To our confusion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To let a fellow that will take rewards And say “God quit you!” be familiar with My playfellow, your hand, this kingly seal And plighter of high hearts!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, I had rather seal my lips Than to my peril speak that which is not."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fastener consisting of a resinous composition that is plastic when warm; used for sealing documents and parcels and letters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device incised to make an impression; used to secure a closing or to authenticate documents.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when we in our viciousness grow hard— O misery on’t!—the wise gods seal our eyes, In our own filth drop our clear judgments, make us Adore our errors, laugh at’s while we strut To our confusion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To let a fellow that will take rewards And say “God quit you!” be familiar with My playfellow, your hand, this kingly seal And plighter of high hearts!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, I had rather seal my lips Than to my peril speak that which is not."*

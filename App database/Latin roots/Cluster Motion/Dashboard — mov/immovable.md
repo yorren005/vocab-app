@@ -5,15 +5,6 @@ status: unread
 ---
 # immovable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Property consisting of houses and land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able or intended to be moved.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He sat secure, straight and immovable even when the horses trotted or galloped."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But no; stiff and immovable, the boy sat at his post, firmly holding the reins."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the north and north-west, where the sun had set three hours before, there was a pale dead light both beautiful and awful; and into it long sullen lines of cloud waved up like a sea stricken immovable as it was heaving."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Property consisting of houses and land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able or intended to be moved.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He sat secure, straight and immovable even when the horses trotted or galloped."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But no; stiff and immovable, the boy sat at his post, firmly holding the reins."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In the north and north-west, where the sun had set three hours before, there was a pale dead light both beautiful and awful; and into it long sullen lines of cloud waved up like a sea stricken immovable as it was heaving."*

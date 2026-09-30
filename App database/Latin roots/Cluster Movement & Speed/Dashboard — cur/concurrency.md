@@ -5,13 +5,6 @@ status: unread
 ---
 # concurrency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Agreement of results or opinions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting together, as agents or circumstances or events.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concurrency designates agreement of results or opinions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Agreement of results or opinions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting together, as agents or circumstances or events.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concurrency designates agreement of results or opinions."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hierarchical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Classified according to various criteria into successive levels or layers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classified according to various criteria into successive levels or layers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Is it true that we two young gentlemen have been promoted to be sergeants?" "I don't know anything about it, friend Pirli," I answered; and it was true that I was ignorant of my elevation to the hierarchical altitude of a sergeant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Classified according to various criteria into successive levels or layers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classified according to various criteria into successive levels or layers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Is it true that we two young gentlemen have been promoted to be sergeants?" "I don't know anything about it, friend Pirli," I answered; and it was true that I was ignorant of my elevation to the hierarchical altitude of a sergeant."*

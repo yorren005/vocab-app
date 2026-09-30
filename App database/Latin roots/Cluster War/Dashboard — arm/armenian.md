@@ -5,15 +5,6 @@ status: unread
 ---
 # armenian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of armenia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The indo-european language spoken predominantly in armenia, but also in azerbaijan.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Série, iv. (1884) pp. 14 _sqq._; William Simpson, _The Buddhist Praying Wheel_ (London, 1896), pp. 87 _sqq._ It is a popular Armenian idea that "the body of the sun has the shape of the wheel of a water-mill; it revolves and moves forward."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Involuntarily he noticed a Georgian or Armenian family consisting of a very handsome old man of Oriental type, wearing a new, cloth-covered, sheepskin coat and new boots, an old woman of similar type, and a young woman."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was looking at the Armenian family and at two French soldiers who had gone up to them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of armenia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The indo-european language spoken predominantly in armenia, but also in azerbaijan.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Série, iv. (1884) pp. 14 _sqq._; William Simpson, _The Buddhist Praying Wheel_ (London, 1896), pp. 87 _sqq._ It is a popular Armenian idea that "the body of the sun has the shape of the wheel of a water-mill; it revolves and moves forward."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Involuntarily he noticed a Georgian or Armenian family consisting of a very handsome old man of Oriental type, wearing a new, cloth-covered, sheepskin coat and new boots, an old woman of similar type, and a young woman."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was looking at the Armenian family and at two French soldiers who had gone up to them."*

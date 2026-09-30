@@ -5,15 +5,6 @@ status: unread
 ---
 # conqueror
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is victorious by force of arms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is victorious by force of arms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You did know How much you were my conqueror, and that My sword, made weak by my affection, would Obey it on all cause."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me report to him Your sweet dependency, and you shall find A conqueror that will pray in aid for kindness Where he for grace is kneeled to."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s present him to the Duke, like a Roman conqueror, and it would do well to set the deer’s horns upon his head for a branch of victory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is victorious by force of arms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is victorious by force of arms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You did know How much you were my conqueror, and that My sword, made weak by my affection, would Obey it on all cause."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me report to him Your sweet dependency, and you shall find A conqueror that will pray in aid for kindness Where he for grace is kneeled to."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s present him to the Duke, like a Roman conqueror, and it would do well to set the deer’s horns upon his head for a branch of victory."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # rustiness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being coated or clogged with rust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ineptitude or awkwardness as a consequence of age or lack of practice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And though now nailed amidst all the rustiness of iron bolts and the verdigris of copper spikes, yet, untouchable and immaculate to any foulness, it still preserved its Quito glow."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"And though now nailed amidst all the rustiness of iron bolts and the verdigris of copper spikes, yet, untouchable and immaculate to any foulness, it still preserved its Quito glow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being coated or clogged with rust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ineptitude or awkwardness as a consequence of age or lack of practice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And though now nailed amidst all the rustiness of iron bolts and the verdigris of copper spikes, yet, untouchable and immaculate to any foulness, it still preserved its Quito glow."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"And though now nailed amidst all the rustiness of iron bolts and the verdigris of copper spikes, yet, untouchable and immaculate to any foulness, it still preserved its Quito glow."*

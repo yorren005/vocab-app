@@ -5,15 +5,6 @@ status: unread
 ---
 # amon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A primeval egyptian personification of air and breath; worshipped especially at thebes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A primeval egyptian personification of air and breath; worshipped especially at thebes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"You don't carry such a thing as a good palm-leaf fan amon'st your stuff, I expect?"*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"I feel it within me, Marthy Downs, an' it's a terrible thing to have happened right amon'st us in Christian times."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"I shouldn't want to marry amon'st the Holts if I was young ag'in!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A primeval egyptian personification of air and breath; worshipped especially at thebes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A primeval egyptian personification of air and breath; worshipped especially at thebes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"You don't carry such a thing as a good palm-leaf fan amon'st your stuff, I expect?"*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"I feel it within me, Marthy Downs, an' it's a terrible thing to have happened right amon'st us in Christian times."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"I shouldn't want to marry amon'st the Holts if I was young ag'in!"*

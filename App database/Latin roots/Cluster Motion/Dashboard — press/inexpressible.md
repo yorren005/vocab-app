@@ -5,15 +5,6 @@ status: unread
 ---
 # inexpressible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defying expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defying expression.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Mademoiselle, I have an inexpressible desire to find service with a young lady who is good, accomplished, beautiful."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It would be an inexpressible relief."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"O, it was no levity to me!” He felt how richly he deserved the reproach that the wounded cry conveyed, and, in a sorrow that was inexpressible, leapt down and took her hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Defying expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defying expression.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mademoiselle, I have an inexpressible desire to find service with a young lady who is good, accomplished, beautiful."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It would be an inexpressible relief."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"O, it was no levity to me!” He felt how richly he deserved the reproach that the wounded cry conveyed, and, in a sorrow that was inexpressible, leapt down and took her hand."*

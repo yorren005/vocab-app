@@ -5,13 +5,6 @@ status: unread
 ---
 # archimandrite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The superior of an abbey of monks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The superior of an abbey of monks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"Father Archimandrite Innocent Figuroffsky; the Rev."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The superior of an abbey of monks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The superior of an abbey of monks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"Father Archimandrite Innocent Figuroffsky; the Rev."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # lecturing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Teaching by giving a discourse on some subject (typically to a class).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliver a lecture or talk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You shall go, sir—your lecturing I will not hear!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"About this time they would hear Dairyman Crick’s voice, lecturing the non-resident milkers for arriving late, and speaking sharply to old Deborah Fyander for not washing her hands."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"She must have known, after what I had done, that father wouldn’t let her smack me; for, while she was lecturing, father winked at me across her shoulder."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Teaching by giving a discourse on some subject (typically to a class).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliver a lecture or talk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You shall go, sir—your lecturing I will not hear!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"About this time they would hear Dairyman Crick’s voice, lecturing the non-resident milkers for arriving late, and speaking sharply to old Deborah Fyander for not washing her hands."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"She must have known, after what I had done, that father wouldn’t let her smack me; for, while she was lecturing, father winked at me across her shoulder."*

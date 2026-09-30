@@ -5,15 +5,6 @@ status: unread
 ---
 # assist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of contributing to the fulfillment of a need or furtherance of an effort or purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (sports) the act of enabling another player to make a good play.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the great gods be just, they shall assist The deeds of justest men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Assist. [_Exeunt, bearing the body of Martius."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Assist me, then, sweet Warwick, and I will; For hither we have broken in by force."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of contributing to the fulfillment of a need or furtherance of an effort or purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (sports) the act of enabling another player to make a good play.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the great gods be just, they shall assist The deeds of justest men."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Assist. [_Exeunt, bearing the body of Martius."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Assist me, then, sweet Warwick, and I will; For hither we have broken in by force."*

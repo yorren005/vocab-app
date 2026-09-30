@@ -5,15 +5,6 @@ status: unread
 ---
 # serial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A serialized set of programs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A periodical that appears at scheduled times.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The shares vary in denomination from $25 to $200; the larger figure being common under the serial plan and $100 being usual under the continuous (or permanent) plan, described below."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Tug operator and anyone else that observes my presence or the flitter must not repeat must not log the serial number of my flitter or any of its features."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"The last story, however incomplete and like the mere opening of a serial, had been told; we handshook and “candlestuck,” as somebody said, and went to bed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A serialized set of programs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A periodical that appears at scheduled times.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The shares vary in denomination from $25 to $200; the larger figure being common under the serial plan and $100 being usual under the continuous (or permanent) plan, described below."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Tug operator and anyone else that observes my presence or the flitter must not repeat must not log the serial number of my flitter or any of its features."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"The last story, however incomplete and like the mere opening of a serial, had been told; we handshook and “candlestuck,” as somebody said, and went to bed."*

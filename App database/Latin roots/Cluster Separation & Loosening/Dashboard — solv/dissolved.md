@@ -5,15 +5,6 @@ status: unread
 ---
 # dissolved
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become weaker.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to go into a solution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I, after him, do after him wish too, Since I nor wax nor honey can bring home, I quickly were dissolved from my hive To give some labourers room."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That I am freely dissolved, and dissolutely."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All which together, like a troubled ocean, Beat at thy rocky and wrack-threat’ning heart, To soften it with their continual motion; For stones dissolved to water do convert."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become weaker.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to go into a solution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I, after him, do after him wish too, Since I nor wax nor honey can bring home, I quickly were dissolved from my hive To give some labourers room."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That I am freely dissolved, and dissolutely."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All which together, like a troubled ocean, Beat at thy rocky and wrack-threat’ning heart, To soften it with their continual motion; For stones dissolved to water do convert."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # inscrutable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of an obscure nature; ; ; ; - rachel carson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of an obscure nature; ; ; ; - rachel carson.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so good morrow, servant. [_Exit._] SPEED. [_Aside_.] O jest unseen, inscrutable, invisible, As a nose on a man’s face, or a weathercock on a steeple!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She supposes herself to be an inscrutable Being, quite out of the reach and ken of ordinary mortals—seeing herself in her glass, where indeed she looks so."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The patronesses of those establishments, albeit so loftily inscrutable, being as nicely weighed and measured there as any other article of the stock-in-trade, are perfectly understood in this new fashion by the rawest hand behind the counter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of an obscure nature; ; ; ; - rachel carson.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of an obscure nature; ; ; ; - rachel carson.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so good morrow, servant. [_Exit._] SPEED. [_Aside_.] O jest unseen, inscrutable, invisible, As a nose on a man’s face, or a weathercock on a steeple!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"She supposes herself to be an inscrutable Being, quite out of the reach and ken of ordinary mortals—seeing herself in her glass, where indeed she looks so."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The patronesses of those establishments, albeit so loftily inscrutable, being as nicely weighed and measured there as any other article of the stock-in-trade, are perfectly understood in this new fashion by the rawest hand behind the counter."*

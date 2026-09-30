@@ -5,15 +5,6 @@ status: unread
 ---
 # deadening
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making something futile and useless (as by routine).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make vague or obscure or make (an image) less visible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"These appalling facts display more of the malignity of sin, its blinding, deadening influence, and more of the rancorous enmity of the carnal heart against God, than all the other enormities which blacken the world's history."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I mark this in our old Mogul’s wine; it’s quite as deadening to some as filliping to others."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"I mark this in our old Mogul’s wine; it’s quite as deadening to some as filliping to others."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making something futile and useless (as by routine).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make vague or obscure or make (an image) less visible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"These appalling facts display more of the malignity of sin, its blinding, deadening influence, and more of the rancorous enmity of the carnal heart against God, than all the other enormities which blacken the world's history."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I mark this in our old Mogul’s wine; it’s quite as deadening to some as filliping to others."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"I mark this in our old Mogul’s wine; it’s quite as deadening to some as filliping to others."*

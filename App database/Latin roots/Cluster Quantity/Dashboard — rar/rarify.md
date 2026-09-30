@@ -5,13 +5,6 @@ status: unread
 ---
 # rarify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more complex, intricate, or richer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more complex, intricate, or richer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"To Shelley's ethereal vision the most rarified mental or spiritual music traced its beautiful corresponding forms on the sand of outward things."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more complex, intricate, or richer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more complex, intricate, or richer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"To Shelley's ethereal vision the most rarified mental or spiritual music traced its beautiful corresponding forms on the sand of outward things."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # apologize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To express regret for something done or said : to make an apology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To offer a defense or excuse or admission of fault for (something)—used in negative statements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The relations between us are of an unfortunate description, Lady Dedlock; but as they are not of my making, I will not apologize for them."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Indeed the mistake was mine, and I ought to apologize for it.” I had not once looked up."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed begins to apologize."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To express regret for something done or said : to make an apology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To offer a defense or excuse or admission of fault for (something)—used in negative statements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The relations between us are of an unfortunate description, Lady Dedlock; but as they are not of my making, I will not apologize for them."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Indeed the mistake was mine, and I ought to apologize for it.” I had not once looked up."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed begins to apologize."*

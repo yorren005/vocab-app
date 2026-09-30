@@ -5,15 +5,6 @@ status: unread
 ---
 # coherent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by an orderly, logical, and aesthetically consistent relation of parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of thinking and expressing yourself in a clear and consistent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Instruct my daughter how she shall persever, That time and place with this deceit so lawful May prove coherent."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Viewed by this light it becomes a coherent scheme and not the monstrous maze the laity are apt to think it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, who lived mysteriously up a court, owing to the like coherent causes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by an orderly, logical, and aesthetically consistent relation of parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of thinking and expressing yourself in a clear and consistent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Instruct my daughter how she shall persever, That time and place with this deceit so lawful May prove coherent."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Viewed by this light it becomes a coherent scheme and not the monstrous maze the laity are apt to think it."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, who lived mysteriously up a court, owing to the like coherent causes."*

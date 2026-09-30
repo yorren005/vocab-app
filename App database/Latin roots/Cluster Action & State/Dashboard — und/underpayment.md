@@ -5,13 +5,6 @@ status: unread
 ---
 # underpayment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A payment smaller than needed or expected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of paying less than required.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underpayment designates a payment smaller than needed or expected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A payment smaller than needed or expected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of paying less than required.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underpayment designates a payment smaller than needed or expected."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # jacobean
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any distinguished personage during the reign of james i.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to james i or his reign or times.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When they were together the Jacobean and the Victorian ages were juxtaposed."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"It was as dark as a dark evening, for the great doors were still fast shut, and what scanty light filtered through the painted panes was absorbed, not reflected, by raftered roof, panelled walls, and Jacobean stair."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"But you must think of that lonely death in the tawdry dressing-room simply as a strange lurid fragment from some Jacobean tragedy, as a wonderful scene from Webster, or Ford, or Cyril Tourneur."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any distinguished personage during the reign of james i.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to james i or his reign or times.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When they were together the Jacobean and the Victorian ages were juxtaposed."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"It was as dark as a dark evening, for the great doors were still fast shut, and what scanty light filtered through the painted panes was absorbed, not reflected, by raftered roof, panelled walls, and Jacobean stair."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"But you must think of that lonely death in the tawdry dressing-room simply as a strange lurid fragment from some Jacobean tragedy, as a wonderful scene from Webster, or Ford, or Cyril Tourneur."*

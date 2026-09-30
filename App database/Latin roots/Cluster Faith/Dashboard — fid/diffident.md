@@ -5,15 +5,6 @@ status: unread
 ---
 # diffident
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing modest reserve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking self-confidence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"When she left off—and she had not laughed languidly, but with real enjoyment—I said, in my diffident way with her,— “I hope I may suppose that you would not be amused if they did me any harm.” “No, no you may be sure of that,” said Estella."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"A rather cynical smile, now and then, at the random and diffident ways of England was the only freedom he allowed to the foreign strain within him."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I'm so sorry," she murmured, raising her beautiful dark eyes in a diffident apology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing modest reserve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking self-confidence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"When she left off—and she had not laughed languidly, but with real enjoyment—I said, in my diffident way with her,— “I hope I may suppose that you would not be amused if they did me any harm.” “No, no you may be sure of that,” said Estella."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"A rather cynical smile, now and then, at the random and diffident ways of England was the only freedom he allowed to the foreign strain within him."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"I'm so sorry," she murmured, raising her beautiful dark eyes in a diffident apology."*

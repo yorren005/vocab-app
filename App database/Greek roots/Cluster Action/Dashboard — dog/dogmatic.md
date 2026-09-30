@@ -5,15 +5,6 @@ status: unread
 ---
 # dogmatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or given to the expression of opinions very strongly or positively as if they were facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to dogma.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His aspect was probably as un-Sabbatarian a one as a dogmatic parson’s son often presented; his attire being his dairy clothes, long wading boots, a cabbage-leaf inside his hat to keep his head cool, with a thistle-spud to finish him off."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The old time "scientific" socialist had a lofty scorn for any less dogmatic philosophy than his own or for any less sweeping social change than that he expected."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Yet it would be difficult to maintain that they were more dogmatic than himself; they at least had ventured on the experiment of a new life, that was to bring ancient Philosophy to a new test."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or given to the expression of opinions very strongly or positively as if they were facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to dogma.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His aspect was probably as un-Sabbatarian a one as a dogmatic parson’s son often presented; his attire being his dairy clothes, long wading boots, a cabbage-leaf inside his hat to keep his head cool, with a thistle-spud to finish him off."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The old time "scientific" socialist had a lofty scorn for any less dogmatic philosophy than his own or for any less sweeping social change than that he expected."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Yet it would be difficult to maintain that they were more dogmatic than himself; they at least had ventured on the experiment of a new life, that was to bring ancient Philosophy to a new test."*

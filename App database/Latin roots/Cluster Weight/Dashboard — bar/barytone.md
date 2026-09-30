@@ -5,13 +5,6 @@ status: unread
 ---
 # barytone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A male singer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A male singer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Oh, my eye!” Songs followed--college songs, popular airs, opera bits--all delivered in' a resounding barytone and accompanied by thumping chords improvised by the performer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A male singer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A male singer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Oh, my eye!” Songs followed--college songs, popular airs, opera bits--all delivered in' a resounding barytone and accompanied by thumping chords improvised by the performer."*

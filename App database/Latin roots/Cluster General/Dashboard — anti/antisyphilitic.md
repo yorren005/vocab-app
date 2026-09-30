@@ -5,13 +5,6 @@ status: unread
 ---
 # antisyphilitic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (or other chemical agent) that is effective against syphilis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (or other chemical agent) that is effective against syphilis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antisyphilitic designates a drug (or other chemical agent) that is effective against syphilis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (or other chemical agent) that is effective against syphilis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (or other chemical agent) that is effective against syphilis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antisyphilitic designates a drug (or other chemical agent) that is effective against syphilis."*

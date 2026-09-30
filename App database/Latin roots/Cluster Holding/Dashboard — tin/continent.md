@@ -5,15 +5,6 @@ status: unread
 ---
 # continent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the large landmasses of the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The european mainland.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Heart, once be stronger than thy continent; Crack thy frail case!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, to speak feelingly of him, he is the card or calendar of gentry; for you shall find in him the continent of what part a gentleman would see."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, but mark how he bears his course, and runs me up With like advantage on the other side, Gelding the opposed continent as much As on the other side it takes from you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the large landmasses of the earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The european mainland.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Heart, once be stronger than thy continent; Crack thy frail case!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, to speak feelingly of him, he is the card or calendar of gentry; for you shall find in him the continent of what part a gentleman would see."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, but mark how he bears his course, and runs me up With like advantage on the other side, Gelding the opposed continent as much As on the other side it takes from you."*

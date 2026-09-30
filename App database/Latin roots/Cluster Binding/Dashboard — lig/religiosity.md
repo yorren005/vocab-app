@@ -5,13 +5,6 @@ status: unread
 ---
 # religiosity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exaggerated or affected piety and religious zeal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggerated or affected piety and religious zeal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, religiosity designates exaggerated or affected piety and religious zeal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exaggerated or affected piety and religious zeal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggerated or affected piety and religious zeal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, religiosity designates exaggerated or affected piety and religious zeal."*

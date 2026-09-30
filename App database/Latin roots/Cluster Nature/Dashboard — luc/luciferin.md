@@ -5,13 +5,6 @@ status: unread
 ---
 # luciferin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pigment occurring in luminescent organisms (as fireflies); emits heatless light when undergoing oxidation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pigment occurring in luminescent organisms (as fireflies); emits heatless light when undergoing oxidation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, luciferin designates pigment occurring in luminescent organisms (as fireflies); emits heatless light when undergoing oxidation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pigment occurring in luminescent organisms (as fireflies); emits heatless light when undergoing oxidation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pigment occurring in luminescent organisms (as fireflies); emits heatless light when undergoing oxidation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, luciferin designates pigment occurring in luminescent organisms (as fireflies); emits heatless light when undergoing oxidation."*

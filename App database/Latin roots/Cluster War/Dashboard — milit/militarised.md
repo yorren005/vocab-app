@@ -5,13 +5,6 @@ status: unread
 ---
 # militarised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lend a military character to (a country), as by building up a military force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adopt for military use.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, militarised designates lend a military character to (a country), as by building up a military force."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lend a military character to (a country), as by building up a military force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adopt for military use.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, militarised designates lend a military character to (a country), as by building up a military force."*

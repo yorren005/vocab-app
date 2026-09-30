@@ -5,15 +5,6 @@ status: unread
 ---
 # rationale
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) an explanation of the fundamental reasons (especially an explanation of the working of some device in terms of laws of nature).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) an explanation of the fundamental reasons (especially an explanation of the working of some device in terms of laws of nature).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"See his _Rationale Divinorum Officiorum_ (appended to the _Rationale Divinorum Officiorum_ of G. [W.] Durandus, Lyons, 1584), p. 556 _recto: "Solent porro hoc tempore_ [the Eve of St."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Durantis), a writer of the thirteenth century, in his _Rationale Divinorum Officiorum_, lib. vii. cap. 14 (p. 442 _verso_, ed."*
-> - 📜 **George Eliot (*Middlemarch*):** *"That is the rationale of the system of charging which has hitherto obtained; and nothing is more offensive than this ostentation of reform, where there is no real amelioration.” “Ostentation, Hackbutt?” said Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) an explanation of the fundamental reasons (especially an explanation of the working of some device in terms of laws of nature).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) an explanation of the fundamental reasons (especially an explanation of the working of some device in terms of laws of nature).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"See his _Rationale Divinorum Officiorum_ (appended to the _Rationale Divinorum Officiorum_ of G. [W.] Durandus, Lyons, 1584), p. 556 _recto: "Solent porro hoc tempore_ [the Eve of St."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Durantis), a writer of the thirteenth century, in his _Rationale Divinorum Officiorum_, lib. vii. cap. 14 (p. 442 _verso_, ed."*
+> - 📜 **George Eliot (*Middlemarch*):** *"That is the rationale of the system of charging which has hitherto obtained; and nothing is more offensive than this ostentation of reform, where there is no real amelioration.” “Ostentation, Hackbutt?” said Mr."*

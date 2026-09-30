@@ -5,13 +5,6 @@ status: unread
 ---
 # starwort
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Low-growing north temperate herb having small white star-shaped flowers; named for its alleged ability to ease sharp pains in the side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Low-growing north temperate herb having small white star-shaped flowers; named for its alleged ability to ease sharp pains in the side.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, starwort designates low-growing north temperate herb having small white star-shaped flowers; named for its alleged ability to ease sharp pains in the side."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Low-growing north temperate herb having small white star-shaped flowers; named for its alleged ability to ease sharp pains in the side.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Low-growing north temperate herb having small white star-shaped flowers; named for its alleged ability to ease sharp pains in the side.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, starwort designates low-growing north temperate herb having small white star-shaped flowers; named for its alleged ability to ease sharp pains in the side."*

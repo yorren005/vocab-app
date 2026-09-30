@@ -5,13 +5,6 @@ status: unread
 ---
 # understudied
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be an understudy or alternate for a role.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be an understudy or alternate for a role.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, understudied designates be an understudy or alternate for a role."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be an understudy or alternate for a role.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be an understudy or alternate for a role.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, understudied designates be an understudy or alternate for a role."*

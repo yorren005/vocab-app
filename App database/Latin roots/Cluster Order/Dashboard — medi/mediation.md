@@ -5,15 +5,6 @@ status: unread
 ---
 # mediation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A negotiation to resolve differences that is conducted by some impartial party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of intervening for the purpose of bringing about a settlement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cherish it, my boy, And noble offices thou mayst effect Of mediation, after I am dead, Between his greatness and thy other brethren."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Mediation and voluntary arbitration. § 12."*
-> - 📜 **John Milton (*Paradise Lost*):** *"And now without redemption all mankind Must have bin lost, adjudg’d to Death and Hell By doom severe, had not the Son of God, In whom the fulness dwels of love divine, His dearest mediation thus renewd."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A negotiation to resolve differences that is conducted by some impartial party.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of intervening for the purpose of bringing about a settlement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cherish it, my boy, And noble offices thou mayst effect Of mediation, after I am dead, Between his greatness and thy other brethren."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Mediation and voluntary arbitration. § 12."*
+> - 📜 **John Milton (*Paradise Lost*):** *"And now without redemption all mankind Must have bin lost, adjudg’d to Death and Hell By doom severe, had not the Son of God, In whom the fulness dwels of love divine, His dearest mediation thus renewd."*

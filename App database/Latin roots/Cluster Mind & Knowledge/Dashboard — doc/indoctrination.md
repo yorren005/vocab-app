@@ -5,15 +5,6 @@ status: unread
 ---
 # indoctrination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Teaching someone to accept doctrines uncritically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Teaching someone to accept doctrines uncritically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You will be psychologically adjusted as you progress through this indoctrination."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He had called his victim "Drummer," a name familiar to Brad through the many intelligence briefings he had been given during indoctrination; also, "Scarf" was a name used in the immigration clerk's call from the landing site."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I was convinced that the time was long past for both military and civilian managers and supervisors, in both the public and private sectors to acquire basic indoctrination in ci/sp as it pertained to the people that they commanded or supervised."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Teaching someone to accept doctrines uncritically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Teaching someone to accept doctrines uncritically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You will be psychologically adjusted as you progress through this indoctrination."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He had called his victim "Drummer," a name familiar to Brad through the many intelligence briefings he had been given during indoctrination; also, "Scarf" was a name used in the immigration clerk's call from the landing site."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I was convinced that the time was long past for both military and civilian managers and supervisors, in both the public and private sectors to acquire basic indoctrination in ci/sp as it pertained to the people that they commanded or supervised."*

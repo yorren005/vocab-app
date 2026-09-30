@@ -5,15 +5,6 @@ status: unread
 ---
 # perjurer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who deliberately gives false testimony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who deliberately gives false testimony.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Hast thou forgotten, Perjurer, that bloodstained midsummer night on Hamunds Fjord?"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Then Christian Science proved the witness, Nerve, to 438:9 be a perjurer."*
-> - 📜 **Classic Author (*The Song of Roland*):** *"Guenes arrived, the felon perjurer, Begins to speak, with very cunning air, Says to the King: "God keep you, Sire, I swear!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who deliberately gives false testimony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who deliberately gives false testimony.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Hast thou forgotten, Perjurer, that bloodstained midsummer night on Hamunds Fjord?"*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Then Christian Science proved the witness, Nerve, to 438:9 be a perjurer."*
+> - 📜 **Classic Author (*The Song of Roland*):** *"Guenes arrived, the felon perjurer, Begins to speak, with very cunning air, Says to the King: "God keep you, Sire, I swear!"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # minute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of time equal to 60 seconds or 1/60th of an hour.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indefinitely short time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s not a minute of our lives should stretch Without some pleasure now."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sossius, One of my place in Syria, his lieutenant, For quick accumulation of renown, Which he achieved by th’ minute, lost his favour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With news the time’s with labour, and throes forth Each minute some. [_Exeunt._] SCENE VIII."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of time equal to 60 seconds or 1/60th of an hour.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indefinitely short time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s not a minute of our lives should stretch Without some pleasure now."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sossius, One of my place in Syria, his lieutenant, For quick accumulation of renown, Which he achieved by th’ minute, lost his favour."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With news the time’s with labour, and throes forth Each minute some. [_Exeunt._] SCENE VIII."*

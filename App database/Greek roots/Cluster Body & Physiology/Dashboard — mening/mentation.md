@@ -5,13 +5,6 @@ status: unread
 ---
 # mentation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of using your mind to consider something carefully.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of using your mind to consider something carefully.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mentation designates the process of using your mind to consider something carefully."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of using your mind to consider something carefully.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of using your mind to consider something carefully.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mentation designates the process of using your mind to consider something carefully."*

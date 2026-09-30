@@ -5,15 +5,6 @@ status: unread
 ---
 # combatant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who fights (or is fighting).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engaging in or ready for combat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give with thy trumpet a loud note to Troy, Thou dreadful Ajax, that the appalled air May pierce the head of the great combatant, And hale him hither."*
-> - 📜 **Classic Author (*The Song of Roland*):** *"CXXII Grandonie was both proof and valiant, And virtuous, a vassal combatant."*
-> - 📜 **Classic Author (*The Song of Roland*):** *"That Emperour is bold and combatant, Rather he'ld die than from the field draw back; No king neath heav'n above a child he ranks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who fights (or is fighting).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engaging in or ready for combat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give with thy trumpet a loud note to Troy, Thou dreadful Ajax, that the appalled air May pierce the head of the great combatant, And hale him hither."*
+> - 📜 **Classic Author (*The Song of Roland*):** *"CXXII Grandonie was both proof and valiant, And virtuous, a vassal combatant."*
+> - 📜 **Classic Author (*The Song of Roland*):** *"That Emperour is bold and combatant, Rather he'ld die than from the field draw back; No king neath heav'n above a child he ranks."*

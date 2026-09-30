@@ -5,15 +5,6 @@ status: unread
 ---
 # pontiff
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The head of the roman catholic church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The head of the roman catholic church.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"This rule was observed both by the Mikado and by the pontiff of the Zapotecs."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"These were the Chibchas, Muyscas, or Mozcas, divided into two kingdoms, with capitals at Bogota and Tunja, but united apparently in spiritual allegiance to the high pontiff of Sogamozo or Iraca."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the West African kingdom of Congo there was a supreme pontiff called Chitomé or Chitombé, whom the negroes regarded as a god on earth and all-powerful in heaven."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The head of the roman catholic church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The head of the roman catholic church.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"This rule was observed both by the Mikado and by the pontiff of the Zapotecs."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"These were the Chibchas, Muyscas, or Mozcas, divided into two kingdoms, with capitals at Bogota and Tunja, but united apparently in spiritual allegiance to the high pontiff of Sogamozo or Iraca."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the West African kingdom of Congo there was a supreme pontiff called Chitomé or Chitombé, whom the negroes regarded as a god on earth and all-powerful in heaven."*

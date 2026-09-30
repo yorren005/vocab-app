@@ -5,15 +5,6 @@ status: unread
 ---
 # devotedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With devotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With devotion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I love her most devotedly, and yet I do her wrong, in doing myself wrong, every day and hour."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Oh, my dear!”—how affectionately and devotedly she poured this out as she clung to my neck, I never can remember without tears—“I’ll be good.” So I let Charley cry a little longer, and it did us both good."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Truth is truth between man and woman, as between man and man,” she lifted her eyes and they beamed devotedly into his, as her lip rose in a tender half-smile."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With devotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With devotion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I love her most devotedly, and yet I do her wrong, in doing myself wrong, every day and hour."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Oh, my dear!”—how affectionately and devotedly she poured this out as she clung to my neck, I never can remember without tears—“I’ll be good.” So I let Charley cry a little longer, and it did us both good."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Truth is truth between man and woman, as between man and man,” she lifted her eyes and they beamed devotedly into his, as her lip rose in a tender half-smile."*

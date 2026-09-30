@@ -5,15 +5,6 @@ status: unread
 ---
 # mediaeval
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or belonging to the middle ages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As if belonging to the middle ages; old-fashioned and unenlightened.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Chambers, _The Mediaeval Stage_ (Oxford, 1903), i. 110 _sqq._ [567] In Eastern Europe to this day the great season for driving out the cattle to pasture for the first time in spring is St."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Angelico was incomparably the greatest of the distinctively mediaeval school, whose ‘dicta’ the Prior in the poem has all at his tongue’s end."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Asia Minor, for example, was the seat of various great religious capitals peopled by thousands of sacred slaves, and ruled by pontiffs who wielded at once temporal and spiritual authority, like the popes of mediaeval Rome."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or belonging to the middle ages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As if belonging to the middle ages; old-fashioned and unenlightened.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Chambers, _The Mediaeval Stage_ (Oxford, 1903), i. 110 _sqq._ [567] In Eastern Europe to this day the great season for driving out the cattle to pasture for the first time in spring is St."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Angelico was incomparably the greatest of the distinctively mediaeval school, whose ‘dicta’ the Prior in the poem has all at his tongue’s end."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Asia Minor, for example, was the seat of various great religious capitals peopled by thousands of sacred slaves, and ruled by pontiffs who wielded at once temporal and spiritual authority, like the popes of mediaeval Rome."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # demetrius
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Son of antigonus cyclops and king of macedonia; he and his father were defeated at the battle of ipsus (337-283 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Son of antigonus cyclops and king of macedonia; he and his father were defeated at the battle of ipsus (337-283 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Speak not to us. [_Exeunt Antony and Cleopatra with the Train._] DEMETRIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Egeus, Hermia, Lysander and Demetrius."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Demetrius is a worthy gentleman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Son of antigonus cyclops and king of macedonia; he and his father were defeated at the battle of ipsus (337-283 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Son of antigonus cyclops and king of macedonia; he and his father were defeated at the battle of ipsus (337-283 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Speak not to us. [_Exeunt Antony and Cleopatra with the Train._] DEMETRIUS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Egeus, Hermia, Lysander and Demetrius."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Demetrius is a worthy gentleman."*

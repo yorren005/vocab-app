@@ -5,15 +5,6 @@ status: unread
 ---
 # commons
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of open land for recreational use in an urban area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pasture subject to common use.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Deliver them this paper. [_He gives them a paper_.] Having read it, Bid them repair to th’ marketplace, where I, Even in theirs and in the commons’ ears, Will vouch the truth of it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, fly to Scotland, Till that the nobles and the armed commons Have of their puissance made a little taste."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, my good lord, How now for mitigation of this bill Urged by the Commons?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of open land for recreational use in an urban area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pasture subject to common use.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Deliver them this paper. [_He gives them a paper_.] Having read it, Bid them repair to th’ marketplace, where I, Even in theirs and in the commons’ ears, Will vouch the truth of it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, fly to Scotland, Till that the nobles and the armed commons Have of their puissance made a little taste."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, my good lord, How now for mitigation of this bill Urged by the Commons?"*

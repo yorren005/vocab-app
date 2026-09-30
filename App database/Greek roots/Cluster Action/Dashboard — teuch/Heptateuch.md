@@ -5,13 +5,6 @@ status: unread
 ---
 # Heptateuch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first seven books of the canonical Jewish and Christian Scriptures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first seven books of the canonical Jewish and Christian Scriptures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Heptateuch designates the first seven books of the canonical jewish and christian scriptures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The first seven books of the canonical Jewish and Christian Scriptures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first seven books of the canonical Jewish and Christian Scriptures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Heptateuch designates the first seven books of the canonical jewish and christian scriptures."*

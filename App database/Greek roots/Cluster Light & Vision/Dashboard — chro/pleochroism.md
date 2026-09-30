@@ -5,13 +5,6 @@ status: unread
 ---
 # pleochroism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of a crystal of showing different colors when viewed by light polarized in different directions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of a crystal of showing different colors when viewed by light polarized in different directions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleochroism designates the property of a crystal of showing different colors when viewed by light polarized in different directions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of a crystal of showing different colors when viewed by light polarized in different directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of a crystal of showing different colors when viewed by light polarized in different directions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleochroism designates the property of a crystal of showing different colors when viewed by light polarized in different directions."*

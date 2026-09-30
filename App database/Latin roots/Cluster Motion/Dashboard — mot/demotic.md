@@ -5,13 +5,6 @@ status: unread
 ---
 # demotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A simplified cursive form of the ancient hieratic script.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The modern greek vernacular.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Here is another difficult text: (Figure 2) It is demotic—a style of Egyptian writing and a phase of the language which had perished from the knowledge of all men twenty-five hundred years before the Christian era."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A simplified cursive form of the ancient hieratic script.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The modern greek vernacular.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Here is another difficult text: (Figure 2) It is demotic—a style of Egyptian writing and a phase of the language which had perished from the knowledge of all men twenty-five hundred years before the Christian era."*

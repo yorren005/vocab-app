@@ -5,15 +5,6 @@ status: unread
 ---
 # bonnet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hat tied under the chin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protective covering consisting of a metal part that covers the engine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then your hose should be ungartered, your bonnet unbanded, your sleeve unbuttoned, your shoe untied, and everything about you demonstrating a careless desolation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Put your bonnet to his right use; ’tis for the head."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me any gage of thine, and I will wear it in my bonnet; then, if ever thou dar’st acknowledge it, I will make it my quarrel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hat tied under the chin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protective covering consisting of a metal part that covers the engine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then your hose should be ungartered, your bonnet unbanded, your sleeve unbuttoned, your shoe untied, and everything about you demonstrating a careless desolation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Put your bonnet to his right use; ’tis for the head."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me any gage of thine, and I will wear it in my bonnet; then, if ever thou dar’st acknowledge it, I will make it my quarrel."*

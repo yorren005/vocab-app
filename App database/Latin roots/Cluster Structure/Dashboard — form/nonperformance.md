@@ -5,13 +5,6 @@ status: unread
 ---
 # nonperformance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure to act with the prudence that a reasonable person would exercise under the same circumstances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failure to act with the prudence that a reasonable person would exercise under the same circumstances.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonperformance designates failure to act with the prudence that a reasonable person would exercise under the same circumstances."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure to act with the prudence that a reasonable person would exercise under the same circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failure to act with the prudence that a reasonable person would exercise under the same circumstances.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonperformance designates failure to act with the prudence that a reasonable person would exercise under the same circumstances."*

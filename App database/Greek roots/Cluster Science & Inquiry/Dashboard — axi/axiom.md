@@ -5,15 +5,6 @@ status: unread
 ---
 # axiom
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement accepted as true as the basis for argument or inference : postulate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An established rule or principle or a self-evident truth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And wear it thou! and call aloud This axiom undoubted— Would thou hae Nobles’ patronage?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It was an accepted axiom of all social and economic life."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"That was an axiom, very little challenged."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement accepted as true as the basis for argument or inference : postulate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An established rule or principle or a self-evident truth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And wear it thou! and call aloud This axiom undoubted— Would thou hae Nobles’ patronage?"*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"It was an accepted axiom of all social and economic life."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"That was an axiom, very little challenged."*

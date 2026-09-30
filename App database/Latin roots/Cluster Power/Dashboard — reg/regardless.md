@@ -5,15 +5,6 @@ status: unread
 ---
 # regardless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually followed by `of') without due thought or consideration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spite of everything; without regard to drawbacks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"What I say is, it was all very well and we got on very well while I was a boy, utterly regardless of this same suit; but as soon as I began to take an interest in it and to look into it, then it was quite another thing."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"One might have supposed that the course was straight on—over everything, neither to the right nor to the left, regardless of all considerations in the way, sparing nothing, treading everything under foot.” She has been looking at the table."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She sits, in her stately manner, holding her hand, and regardless of its roughness, puts it often to her lips."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually followed by `of') without due thought or consideration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spite of everything; without regard to drawbacks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"What I say is, it was all very well and we got on very well while I was a boy, utterly regardless of this same suit; but as soon as I began to take an interest in it and to look into it, then it was quite another thing."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"One might have supposed that the course was straight on—over everything, neither to the right nor to the left, regardless of all considerations in the way, sparing nothing, treading everything under foot.” She has been looking at the table."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"She sits, in her stately manner, holding her hand, and regardless of its roughness, puts it often to her lips."*

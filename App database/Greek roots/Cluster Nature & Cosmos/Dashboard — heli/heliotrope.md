@@ -5,13 +5,6 @@ status: unread
 ---
 # heliotrope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Heliotropium) of herbs or shrubs of the borage family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bloodstone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I recognised some euphorbias, with the caustic sugar coming from them; heliotropes, quite incapable of justifying their name, sadly drooped their clusters of flowers, both their colour and perfume half gone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Heliotropium) of herbs or shrubs of the borage family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bloodstone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I recognised some euphorbias, with the caustic sugar coming from them; heliotropes, quite incapable of justifying their name, sadly drooped their clusters of flowers, both their colour and perfume half gone."*

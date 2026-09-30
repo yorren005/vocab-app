@@ -5,13 +5,6 @@ status: unread
 ---
 # unlined
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having a lining or liner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smooth, especially of skin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"At that time, like all the farm servants' dwellings in the district, it consisted of a single room with an earthen floor, an open unlined roof of red tiles, and rafters running across and resting on the wall at each side."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having a lining or liner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smooth, especially of skin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"At that time, like all the farm servants' dwellings in the district, it consisted of a single room with an earthen floor, an open unlined roof of red tiles, and rafters running across and resting on the wall at each side."*

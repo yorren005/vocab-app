@@ -5,15 +5,6 @@ status: unread
 ---
 # proviso
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stipulated condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stipulated condition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"I shall like it,” she cried, “beyond anything in the world; and do not let us put it off—let us go to-morrow.” This was readily agreed to, with only a proviso of Miss Tilney’s, that it did not rain, which Catherine was sure it would not."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But I'm at your service, subject always to the proviso that I'm Bernard's agent, which makes my position rather delicate."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And now she began to think of her husband’s will, which had been made at the time of their marriage, leaving the bulk of his property to her, with proviso in case of her having children."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stipulated condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stipulated condition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"I shall like it,” she cried, “beyond anything in the world; and do not let us put it off—let us go to-morrow.” This was readily agreed to, with only a proviso of Miss Tilney’s, that it did not rain, which Catherine was sure it would not."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"But I'm at your service, subject always to the proviso that I'm Bernard's agent, which makes my position rather delicate."*
+> - 📜 **George Eliot (*Middlemarch*):** *"And now she began to think of her husband’s will, which had been made at the time of their marriage, leaving the bulk of his property to her, with proviso in case of her having children."*

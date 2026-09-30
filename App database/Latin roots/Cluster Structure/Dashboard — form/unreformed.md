@@ -5,13 +5,6 @@ status: unread
 ---
 # unreformed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unaffected by the reformation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unaffected by the reformation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The unreformed provincial mind distrusted London; and while true religion was everywhere saving, honest Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unaffected by the reformation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unaffected by the reformation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"The unreformed provincial mind distrusted London; and while true religion was everywhere saving, honest Mrs."*

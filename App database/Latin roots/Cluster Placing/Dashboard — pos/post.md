@@ -5,15 +5,6 @@ status: unread
 ---
 # post
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position where someone (as a guard or sentry) stands or is assigned to stand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Military installation at which a body of troops is stationed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His highness comes post from Marseilles, of as able body as when he number’d thirty; he will be here tomorrow, or I am deceived by him that in such intelligence hath seldom fail’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s see if other watchmen Do hear what we do. [_They advance to another post._] SECOND SOLDIER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why then, ’tis good to be a post."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The position where someone (as a guard or sentry) stands or is assigned to stand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Military installation at which a body of troops is stationed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His highness comes post from Marseilles, of as able body as when he number’d thirty; he will be here tomorrow, or I am deceived by him that in such intelligence hath seldom fail’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s see if other watchmen Do hear what we do. [_They advance to another post._] SECOND SOLDIER."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why then, ’tis good to be a post."*

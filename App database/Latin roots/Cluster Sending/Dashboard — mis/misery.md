@@ -5,15 +5,6 @@ status: unread
 ---
 # misery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of ill-being due to affliction or misfortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of intense unhappiness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when we in our viciousness grow hard— O misery on’t!—the wise gods seal our eyes, In our own filth drop our clear judgments, make us Adore our errors, laugh at’s while we strut To our confusion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And we two will rail against our mistress the world and all our misery."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But seven years since, in Syracusa, boy, Thou know’st we parted; but perhaps, my son, Thou sham’st to acknowledge me in misery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of ill-being due to affliction or misfortune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of intense unhappiness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when we in our viciousness grow hard— O misery on’t!—the wise gods seal our eyes, In our own filth drop our clear judgments, make us Adore our errors, laugh at’s while we strut To our confusion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And we two will rail against our mistress the world and all our misery."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But seven years since, in Syracusa, boy, Thou know’st we parted; but perhaps, my son, Thou sham’st to acknowledge me in misery."*

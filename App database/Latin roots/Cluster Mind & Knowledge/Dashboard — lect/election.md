@@ -5,15 +5,6 @@ status: unread
 ---
 # election
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vote to select the winner of a position or political office.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of selecting someone or something; the exercise of deliberate choice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy frank election make; Thou hast power to choose, and they none to forsake."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let them assemble And, on a safer judgment, all revoke Your ignorant election."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lay A fault on us, your tribunes, that we laboured, No impediment between, but that you must Cast your election on him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vote to select the winner of a position or political office.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of selecting someone or something; the exercise of deliberate choice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy frank election make; Thou hast power to choose, and they none to forsake."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let them assemble And, on a safer judgment, all revoke Your ignorant election."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lay A fault on us, your tribunes, that we laboured, No impediment between, but that you must Cast your election on him."*

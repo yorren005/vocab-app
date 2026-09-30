@@ -5,15 +5,6 @@ status: unread
 ---
 # commemorate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark by some ceremony or observation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Call to remembrance; keep alive the memory of someone or something, as in a ceremony.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The brief service was of that simple and moving kind with which Presbyterian Scotland is wont to commemorate her dead."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Peter's Day is celebrated by bonfires and dances exactly like those which commemorate St."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"At the Luna landing's Tercentenary a universal calendar was ordained to commemorate the Event as New Year's Day, Year 0, formally beginning humankind's Interplanetary Era."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark by some ceremony or observation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Call to remembrance; keep alive the memory of someone or something, as in a ceremony.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"The brief service was of that simple and moving kind with which Presbyterian Scotland is wont to commemorate her dead."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Peter's Day is celebrated by bonfires and dances exactly like those which commemorate St."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"At the Luna landing's Tercentenary a universal calendar was ordained to commemorate the Event as New Year's Day, Year 0, formally beginning humankind's Interplanetary Era."*

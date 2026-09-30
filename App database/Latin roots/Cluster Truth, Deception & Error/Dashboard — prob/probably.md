@@ -5,15 +5,6 @@ status: unread
 ---
 # probably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With considerable certainty; without much doubt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easy to believe on the basis of available evidence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Most original of all is Mäzli, probably not over six, as she is too young to go to school."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She probably heard in school about the country, and her wish to go there only shows that she is extremely attentive."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The mother explained to him, however, that grandmother and grandchild were probably fast asleep by that time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With considerable certainty; without much doubt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easy to believe on the basis of available evidence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Most original of all is Mäzli, probably not over six, as she is too young to go to school."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She probably heard in school about the country, and her wish to go there only shows that she is extremely attentive."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The mother explained to him, however, that grandmother and grandchild were probably fast asleep by that time."*

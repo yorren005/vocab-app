@@ -5,13 +5,6 @@ status: unread
 ---
 # undermanned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inadequate in number of workers or assistants etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inadequate in number of workers or assistants etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undermanned designates inadequate in number of workers or assistants etc."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inadequate in number of workers or assistants etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inadequate in number of workers or assistants etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undermanned designates inadequate in number of workers or assistants etc."*

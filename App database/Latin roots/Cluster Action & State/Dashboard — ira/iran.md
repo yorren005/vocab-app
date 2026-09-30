@@ -5,13 +5,6 @@ status: unread
 ---
 # iran
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A theocratic islamic republic in the middle east in western asia; iran was the core of the ancient empire that was known as persia until 1935; rich in oil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theocratic islamic republic in the middle east in western asia; iran was the core of the ancient empire that was known as persia until 1935; rich in oil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"For the space of one year men ceased not to lament for him, and for many years they shed bitter tears for that arrow, and they said, "The glory of Iran hath been laid low."[261] [The myth of Balder was perhaps acted as a magical ceremony."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A theocratic islamic republic in the middle east in western asia; iran was the core of the ancient empire that was known as persia until 1935; rich in oil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theocratic islamic republic in the middle east in western asia; iran was the core of the ancient empire that was known as persia until 1935; rich in oil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"For the space of one year men ceased not to lament for him, and for many years they shed bitter tears for that arrow, and they said, "The glory of Iran hath been laid low."[261] [The myth of Balder was perhaps acted as a magical ceremony."*

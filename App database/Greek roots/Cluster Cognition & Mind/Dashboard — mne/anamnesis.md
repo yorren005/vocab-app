@@ -5,13 +5,6 @@ status: unread
 ---
 # anamnesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A recalling to mind : reminiscence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A preliminary case history of a medical or psychiatric patient.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anamnesis designates a recalling to mind : reminiscence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A recalling to mind : reminiscence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A preliminary case history of a medical or psychiatric patient.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anamnesis designates a recalling to mind : reminiscence."*

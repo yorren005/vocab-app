@@ -5,15 +5,6 @@ status: unread
 ---
 # aggregated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Amount in the aggregate to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gather in a mass, sum, or whole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In fact, the artist’s design seemed this: a final theory of my own, partly based upon the aggregated opinions of many aged persons with whom I conversed upon the subject."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"In fact, the artist’s design seemed this: a final theory of my own, partly based upon the aggregated opinions of many aged persons with whom I conversed upon the subject."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The reduction provided for in his bill aggregated $77,000,000 on internal taxes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Amount in the aggregate to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gather in a mass, sum, or whole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In fact, the artist’s design seemed this: a final theory of my own, partly based upon the aggregated opinions of many aged persons with whom I conversed upon the subject."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"In fact, the artist’s design seemed this: a final theory of my own, partly based upon the aggregated opinions of many aged persons with whom I conversed upon the subject."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The reduction provided for in his bill aggregated $77,000,000 on internal taxes."*

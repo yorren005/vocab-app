@@ -5,15 +5,6 @@ status: unread
 ---
 # declaratory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the use of or having the nature of a declaration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the use of or having the nature of a declaration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Miss Wisk’s mission, my guardian said, was to show the world that woman’s mission was man’s mission and that the only genuine mission of both man and woman was to be always moving declaratory resolutions about things in general at public meetings."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"A "Declaratory Statement" was drawn up of the sense in which, while retaining the Standards, the Church understood them."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They are only declaratory of a truth which would have resulted by necessary and unavoidable implication from the very act of constituting a federal government, and vesting it with certain specified powers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the use of or having the nature of a declaration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the use of or having the nature of a declaration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Miss Wisk’s mission, my guardian said, was to show the world that woman’s mission was man’s mission and that the only genuine mission of both man and woman was to be always moving declaratory resolutions about things in general at public meetings."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"A "Declaratory Statement" was drawn up of the sense in which, while retaining the Standards, the Church understood them."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They are only declaratory of a truth which would have resulted by necessary and unavoidable implication from the very act of constituting a federal government, and vesting it with certain specified powers."*

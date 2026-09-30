@@ -5,15 +5,6 @@ status: unread
 ---
 # presumably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By reasonable assumption.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By reasonable assumption.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"It is, presumably, a transcript of one of the early copies."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The flower it blaws, it fades, it fa’s, And art can ne’er renew it; But worth and truth, eternal youth Will gie to Polly Stewart, O lovely Polly Stewart, &c. [Footnote 1: Bacon was the name of a presumably intrusive host."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke’s estate, presumably worth about three thousand a-year—a rental which seemed wealth to provincial families, still discussing Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By reasonable assumption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By reasonable assumption.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"It is, presumably, a transcript of one of the early copies."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The flower it blaws, it fades, it fa’s, And art can ne’er renew it; But worth and truth, eternal youth Will gie to Polly Stewart, O lovely Polly Stewart, &c. [Footnote 1: Bacon was the name of a presumably intrusive host."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke’s estate, presumably worth about three thousand a-year—a rental which seemed wealth to provincial families, still discussing Mr."*

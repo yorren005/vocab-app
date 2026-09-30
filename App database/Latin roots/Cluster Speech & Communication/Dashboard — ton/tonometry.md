@@ -5,13 +5,6 @@ status: unread
 ---
 # tonometry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of intraocular pressure by determining the amount of force needed to make a slight indentation in the cornea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The measurement of intraocular pressure by determining the amount of force needed to make a slight indentation in the cornea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tonometry designates the measurement of intraocular pressure by determining the amount of force needed to make a slight indentation in the cornea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of intraocular pressure by determining the amount of force needed to make a slight indentation in the cornea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The measurement of intraocular pressure by determining the amount of force needed to make a slight indentation in the cornea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tonometry designates the measurement of intraocular pressure by determining the amount of force needed to make a slight indentation in the cornea."*

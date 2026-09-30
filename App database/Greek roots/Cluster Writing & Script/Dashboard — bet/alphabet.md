@@ -5,15 +5,6 @@ status: unread
 ---
 # alphabet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of letters or other characters with which one or more languages are written especially if arranged in a customary order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of signs or signals that serve as equivalents for letters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt not sigh, nor hold thy stumps to heaven, Nor wink, nor nod, nor kneel, nor make a sign, But I of these will wrest an alphabet, And by still practice learn to know thy meaning."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As substitutes, I had four angels, of Queen Anne’s reign, taking a complacent gentleman to heaven, in festoons, with some difficulty; and a composition in needlework representing fruit, a kettle, and an alphabet."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Not only each day did they change the point in the alphabet where the code initialled, but they changed it every conversation, and, often, in the midst of a conversation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of letters or other characters with which one or more languages are written especially if arranged in a customary order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of signs or signals that serve as equivalents for letters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt not sigh, nor hold thy stumps to heaven, Nor wink, nor nod, nor kneel, nor make a sign, But I of these will wrest an alphabet, And by still practice learn to know thy meaning."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"As substitutes, I had four angels, of Queen Anne’s reign, taking a complacent gentleman to heaven, in festoons, with some difficulty; and a composition in needlework representing fruit, a kettle, and an alphabet."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Not only each day did they change the point in the alphabet where the code initialled, but they changed it every conversation, and, often, in the midst of a conversation."*

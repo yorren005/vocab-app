@@ -5,13 +5,6 @@ status: unread
 ---
 # pogonophoran
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slender animal with tentacles and a tubelike outer covering; lives on the deep ocean bottom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slender animal with tentacles and a tubelike outer covering; lives on the deep ocean bottom.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pogonophoran designates slender animal with tentacles and a tubelike outer covering; lives on the deep ocean bottom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Slender animal with tentacles and a tubelike outer covering; lives on the deep ocean bottom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slender animal with tentacles and a tubelike outer covering; lives on the deep ocean bottom.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pogonophoran designates slender animal with tentacles and a tubelike outer covering; lives on the deep ocean bottom."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # chloropicrin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy colorless insoluble liquid compound that causes tears and vomiting; used as a pesticide and as tear gas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy colorless insoluble liquid compound that causes tears and vomiting; used as a pesticide and as tear gas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chloropicrin designates a heavy colorless insoluble liquid compound that causes tears and vomiting; used as a pesticide and as tear gas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy colorless insoluble liquid compound that causes tears and vomiting; used as a pesticide and as tear gas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy colorless insoluble liquid compound that causes tears and vomiting; used as a pesticide and as tear gas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chloropicrin designates a heavy colorless insoluble liquid compound that causes tears and vomiting; used as a pesticide and as tear gas."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # relic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antiquity that has survived from the distant past.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something of sentimental value.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Anyhow, whatever the origin of the relic, there was and is something sinister, or solemn, according to mood, in the scene amid which it stands; something tending to impress the most phlegmatic passer-by."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"This church before the Reformation had collegiate rank, and is now the sole remaining relic of the ancient village of Dunglass."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"It is almost the only relic I have done any honour to."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antiquity that has survived from the distant past.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something of sentimental value.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Anyhow, whatever the origin of the relic, there was and is something sinister, or solemn, according to mood, in the scene amid which it stands; something tending to impress the most phlegmatic passer-by."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"This church before the Reformation had collegiate rank, and is now the sole remaining relic of the ancient village of Dunglass."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"It is almost the only relic I have done any honour to."*

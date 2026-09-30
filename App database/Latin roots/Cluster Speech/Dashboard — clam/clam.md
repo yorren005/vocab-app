@@ -5,15 +5,6 @@ status: unread
 ---
 # clam
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Burrowing marine mollusk living on sand or mud; the shell closes with viselike firmness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of paper money worth one dollar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"In all the clam’rous cry of starving want, They dun Benevolence with shameless front; Oblige them, patronise their tinsel lays— They persecute you all your future days!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Mourn, clam’ring craiks at close o’ day, ’Mang fields o’ flow’ring clover gay; And when ye wing your annual way Frae our claud shore, Tell thae far warlds wha lies in clay, Wham we deplore."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A clam for supper? a cold clam; is _that_ what you mean, Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Burrowing marine mollusk living on sand or mud; the shell closes with viselike firmness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of paper money worth one dollar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"In all the clam’rous cry of starving want, They dun Benevolence with shameless front; Oblige them, patronise their tinsel lays— They persecute you all your future days!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Mourn, clam’ring craiks at close o’ day, ’Mang fields o’ flow’ring clover gay; And when ye wing your annual way Frae our claud shore, Tell thae far warlds wha lies in clay, Wham we deplore."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A clam for supper? a cold clam; is _that_ what you mean, Mrs."*

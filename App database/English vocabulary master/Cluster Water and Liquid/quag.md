@@ -5,20 +5,6 @@ status: unread
 ---
 # quag
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Marsh, bog
-> 2. **Nuance / Usage**: (obsolete) quagmire; marsh; bog
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the quag withstood the storm*), direct object (*cleaved the quag*), or prepositional anchor (*amidst the quag*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Pucelle or puzel, dolphin or dogfish, Your hearts I’ll stamp out with my horse’s heels And make a quagmire of your mingled brains."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The deer, looking soaked, leave quagmires where they pass."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Tess, meanwhile, as the one who had dragged her parents into this quagmire, was silently wondering what she could do to help them out of it; and then her mother broached her scheme."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Marsh, bog
+> 2. **Nuance / Usage**: (obsolete) quagmire; marsh; bog
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the quag withstood the storm*), direct object (*cleaved the quag*), or prepositional anchor (*amidst the quag*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Pucelle or puzel, dolphin or dogfish, Your hearts I’ll stamp out with my horse’s heels And make a quagmire of your mingled brains."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The deer, looking soaked, leave quagmires where they pass."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Tess, meanwhile, as the one who had dragged her parents into this quagmire, was silently wondering what she could do to help them out of it; and then her mother broached her scheme."*

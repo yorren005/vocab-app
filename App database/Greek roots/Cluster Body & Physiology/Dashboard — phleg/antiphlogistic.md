@@ -5,13 +5,6 @@ status: unread
 ---
 # antiphlogistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Counteracting inflammation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Counteracting inflammation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The young companion of Miss Crawley, at the conclusion of their interview, came in to receive their instructions, and administered those antiphlogistic medicines which the eminent men ordered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Counteracting inflammation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Counteracting inflammation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The young companion of Miss Crawley, at the conclusion of their interview, came in to receive their instructions, and administered those antiphlogistic medicines which the eminent men ordered."*

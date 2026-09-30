@@ -5,15 +5,6 @@ status: unread
 ---
 # pomegranate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrub or small tree native to southwestern asia having large red many-seeded fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go to, sir; you were beaten in Italy for picking a kernel out of a pomegranate; you are a vagabond, and no true traveller."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was the nightingale, and not the lark, That pierc’d the fearful hollow of thine ear; Nightly she sings on yond pomegranate tree."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"This was the fairest spot in all sunny Kashmir, where the nightingale sings perpetually in groves of citron, magnolia, and pomegranate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrub or small tree native to southwestern asia having large red many-seeded fruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large globular fruit having many seeds with juicy red pulp in a tough brownish-red rind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go to, sir; you were beaten in Italy for picking a kernel out of a pomegranate; you are a vagabond, and no true traveller."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was the nightingale, and not the lark, That pierc’d the fearful hollow of thine ear; Nightly she sings on yond pomegranate tree."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"This was the fairest spot in all sunny Kashmir, where the nightingale sings perpetually in groves of citron, magnolia, and pomegranate."*

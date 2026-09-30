@@ -5,15 +5,6 @@ status: unread
 ---
 # coverlet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative bedspread (usually quilted).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decorative bedspread (usually quilted).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Without the bed her other fair hand was, On the green coverlet; whose perfect white Showed like an April daisy on the grass, With pearly sweat resembling dew of night."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Noticing stains of blood on the bed, he drew down the coverlet and saw that the girl was weltering in her gore, for one of her feet was lopped off."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I folded my shawl double, and spread it over me for a coverlet; a low, mossy swell was my pillow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative bedspread (usually quilted).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decorative bedspread (usually quilted).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Without the bed her other fair hand was, On the green coverlet; whose perfect white Showed like an April daisy on the grass, With pearly sweat resembling dew of night."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Noticing stains of blood on the bed, he drew down the coverlet and saw that the girl was weltering in her gore, for one of her feet was lopped off."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I folded my shawl double, and spread it over me for a coverlet; a low, mossy swell was my pillow."*

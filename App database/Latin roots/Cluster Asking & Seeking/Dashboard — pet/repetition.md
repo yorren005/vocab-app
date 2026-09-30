@@ -5,15 +5,6 @@ status: unread
 ---
 # repetition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that repeats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of doing or performing again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, call him hither; We are reconcil’d, and the first view shall kill All repetition."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath faults, with surplus, to tire in repetition. [_Shouts within_.] What shouts are these?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O gentle lady, ’Tis not for you to hear what I can speak: The repetition, in a woman’s ear, Would murder as it fell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that repeats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of doing or performing again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, call him hither; We are reconcil’d, and the first view shall kill All repetition."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath faults, with surplus, to tire in repetition. [_Shouts within_.] What shouts are these?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O gentle lady, ’Tis not for you to hear what I can speak: The repetition, in a woman’s ear, Would murder as it fell."*

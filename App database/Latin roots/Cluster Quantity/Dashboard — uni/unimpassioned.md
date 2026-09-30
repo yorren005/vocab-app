@@ -5,15 +5,6 @@ status: unread
 ---
 # unimpassioned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from emotional appeal; marked by reasonableness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from emotional appeal; marked by reasonableness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"What had been the engrossing world had dissolved into an uninteresting outer dumb-show; while here, in this apparently dim and unimpassioned place, novelty had volcanically started up, as it had never, for him, started up elsewhere."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"The officiating clergyman delivered a long homily in a dull unimpassioned manner, which failed to awaken his interest."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Her Pearl—for so had Hester called her; not as a name expressive of her aspect, which had nothing of the calm, white, unimpassioned lustre that would be indicated by the comparison."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from emotional appeal; marked by reasonableness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from emotional appeal; marked by reasonableness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"What had been the engrossing world had dissolved into an uninteresting outer dumb-show; while here, in this apparently dim and unimpassioned place, novelty had volcanically started up, as it had never, for him, started up elsewhere."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"The officiating clergyman delivered a long homily in a dull unimpassioned manner, which failed to awaken his interest."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Her Pearl—for so had Hester called her; not as a name expressive of her aspect, which had nothing of the calm, white, unimpassioned lustre that would be indicated by the comparison."*

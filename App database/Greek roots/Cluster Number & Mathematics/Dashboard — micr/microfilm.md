@@ -5,13 +5,6 @@ status: unread
 ---
 # microfilm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Film on which materials are photographed at greatly reduced size; useful for storage; a magnification system is used to read the material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Record on microfilm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microfilm designates film on which materials are photographed at greatly reduced size; useful for storage; a magnification system is used to read the material."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Film on which materials are photographed at greatly reduced size; useful for storage; a magnification system is used to read the material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Record on microfilm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microfilm designates film on which materials are photographed at greatly reduced size; useful for storage; a magnification system is used to read the material."*

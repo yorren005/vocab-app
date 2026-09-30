@@ -5,15 +5,6 @@ status: unread
 ---
 # constitutional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A regular walk taken as a form of exercise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of benefit to or intended to benefit your physical makeup.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is a slow, expensive, British, constitutional kind of thing."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We only say that if it SHOULD make us rich, we have no constitutional objection to being rich."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But I have a constitutional objection to this sort of thing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A regular walk taken as a form of exercise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of benefit to or intended to benefit your physical makeup.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is a slow, expensive, British, constitutional kind of thing."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"We only say that if it SHOULD make us rich, we have no constitutional objection to being rich."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But I have a constitutional objection to this sort of thing."*

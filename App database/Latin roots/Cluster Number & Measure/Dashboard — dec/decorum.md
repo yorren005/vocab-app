@@ -5,15 +5,6 @@ status: unread
 ---
 # decorum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Propriety in manners and conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Propriety in manners and conduct.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, dear Isis, keep decorum and fortune him accordingly!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If your master Would have a queen his beggar, you must tell him That majesty, to keep decorum, must No less beg than a kingdom."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I do not see why you wish your sons to live with mine at all." "It is a matter of decorum," the attorney's wife replied, "and my husband agrees with me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Propriety in manners and conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Propriety in manners and conduct.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, dear Isis, keep decorum and fortune him accordingly!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If your master Would have a queen his beggar, you must tell him That majesty, to keep decorum, must No less beg than a kingdom."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I do not see why you wish your sons to live with mine at all." "It is a matter of decorum," the attorney's wife replied, "and my husband agrees with me."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # roost
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Support on which birds rest
-> 2. **Nuance / Usage**: Group of birds roosting together
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Clark E. Adams (*Urban Wildlife Management*):** *"a roost of birds is merely a fortuitous aggregation of individuals that have strategically placed their roost site to minimize distance to their supplemental and main food sources"*
-> - 📜 **Chuma Nwokolo (*The Extinction of Menai*):** *"A roost of chickens clucked excitedly in the undergrowth to the south of the Mata's enclosure, as a nocturnal snake hunted eggs"*
-> - 📜 **Samanth Subramanian (*How our home delivery habit reshaped the world*):** *"The UPS package centre for central London, a brief walk from Kentish Town tube station, holds a below-ground bay in which 170 vans roost every night."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A branch, perch, or shelter where birds or bats regularly settle to rest or sleep at night.
+> 2. **Nuance / Usage**: Used figuratively for a person's resting place or home, and in idioms such as *rule the roost* (to be in charge) and *come home to roost* (of bad actions returning to cause trouble).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Clark E. Adams (*Urban Wildlife Management*):** *"A **roost** of birds is an aggregation of individuals that have strategically placed their resting site near food sources."*
+> - 📜 **Chuma Nwokolo (*The Extinction of Menai*):** *"A **roost** of chickens clucked excitedly in the undergrowth as a nocturnal snake hunted eggs."*
+> - 📜 **Samanth Subramanian (*The Guardian*):** *"The package centre for central London holds a below-ground bay in which 170 vans **roost** every night."*

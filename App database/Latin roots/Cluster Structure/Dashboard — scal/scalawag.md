@@ -5,14 +5,6 @@ status: unread
 ---
 # scalawag
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white southerner who supported reconstruction policies after the american civil war (usually for self-interest).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deceitful and unreliable scoundrel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"One following the other, the warships catapulted off of their launch tracks, rose swiftly into space, and formed up behind mine sweepers Scamp, Varlet and Scalawag."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"This made all of the Southern white people mad at me, and they called me a scalawag."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white southerner who supported reconstruction policies after the american civil war (usually for self-interest).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deceitful and unreliable scoundrel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"One following the other, the warships catapulted off of their launch tracks, rose swiftly into space, and formed up behind mine sweepers Scamp, Varlet and Scalawag."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"This made all of the Southern white people mad at me, and they called me a scalawag."*

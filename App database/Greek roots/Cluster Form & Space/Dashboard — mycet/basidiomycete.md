@@ -5,13 +5,6 @@ status: unread
 ---
 # basidiomycete
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a division (Basidiomycota) of higher fungi that have septate hyphae and spores borne on a basidium and that include rusts, smuts, mushrooms, and puffballs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a division (Basidiomycota) of higher fungi that have septate hyphae and spores borne on a basidium and that include rusts, smuts, mushrooms, and puffballs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidiomycete designates any of a division (basidiomycota) of higher fungi that have septate hyphae and spores borne on a basidium and that include rusts, smuts, mushrooms, and puffballs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a division (Basidiomycota) of higher fungi that have septate hyphae and spores borne on a basidium and that include rusts, smuts, mushrooms, and puffballs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a division (Basidiomycota) of higher fungi that have septate hyphae and spores borne on a basidium and that include rusts, smuts, mushrooms, and puffballs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidiomycete designates any of a division (basidiomycota) of higher fungi that have septate hyphae and spores borne on a basidium and that include rusts, smuts, mushrooms, and puffballs."*

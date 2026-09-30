@@ -5,13 +5,6 @@ status: unread
 ---
 # unmodernized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not brought up to date.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not brought up to date.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmodernized designates not brought up to date."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not brought up to date.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not brought up to date.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmodernized designates not brought up to date."*

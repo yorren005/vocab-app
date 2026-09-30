@@ -5,15 +5,6 @@ status: unread
 ---
 # predominate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be larger in number, quantity, power, status or importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appear very large or occupy a commanding position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Master Brook, thou shalt know I will predominate over the peasant, and thou shalt lie with his wife."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be whores still, And he whose pious breath seeks to convert you, Be strong in whore, allure him, burn him up; Let your close fire predominate his smoke, And be no turncoats."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy, by the feelings which prevailed on his entering the room; and then, though but a moment before she had believed her wishes to predominate, she began to regret that he came."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be larger in number, quantity, power, status or importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appear very large or occupy a commanding position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Master Brook, thou shalt know I will predominate over the peasant, and thou shalt lie with his wife."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be whores still, And he whose pious breath seeks to convert you, Be strong in whore, allure him, burn him up; Let your close fire predominate his smoke, And be no turncoats."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy, by the feelings which prevailed on his entering the room; and then, though but a moment before she had believed her wishes to predominate, she began to regret that he came."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # eardrop
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An earring with a pendant ornament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An earring with a pendant ornament.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"THE FAN: _(Folding together, rests against her left eardrop.)_ Have you forgotten me?"*
-> - 📜 **James Joyce (*Ulysses*):** *"She has large pendant beryl eardrops.)_ BELLA: My word!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An earring with a pendant ornament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An earring with a pendant ornament.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"THE FAN: _(Folding together, rests against her left eardrop.)_ Have you forgotten me?"*
+> - 📜 **James Joyce (*Ulysses*):** *"She has large pendant beryl eardrops.)_ BELLA: My word!"*

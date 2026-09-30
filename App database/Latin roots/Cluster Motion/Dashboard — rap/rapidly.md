@@ -5,15 +5,6 @@ status: unread
 ---
 # rapidly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With rapid movements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With rapid movements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"One ought to put in the first block and pack it before one takes up the second." "Then I won't wait for you," Mäzli declared, rapidly whisking out by the door."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Very well, very well, And what do you want to do on this beautiful Sunday?" the lady asked, "Take a walk," Mäzli answered rapidly."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli had risen rapidly and looked towards the door with large expectant eyes, wondering what was going to happen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With rapid movements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With rapid movements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"One ought to put in the first block and pack it before one takes up the second." "Then I won't wait for you," Mäzli declared, rapidly whisking out by the door."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Very well, very well, And what do you want to do on this beautiful Sunday?" the lady asked, "Take a walk," Mäzli answered rapidly."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli had risen rapidly and looked towards the door with large expectant eyes, wondering what was going to happen."*

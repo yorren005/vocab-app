@@ -5,13 +5,6 @@ status: unread
 ---
 # carnegiea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Caryophylloid dicot genus with only one species: saguaro.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Caryophylloid dicot genus with only one species: saguaro.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnegiea designates caryophylloid dicot genus with only one species: saguaro."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Caryophylloid dicot genus with only one species: saguaro.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Caryophylloid dicot genus with only one species: saguaro.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnegiea designates caryophylloid dicot genus with only one species: saguaro."*

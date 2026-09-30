@@ -5,15 +5,6 @@ status: unread
 ---
 # ardently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ardent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ardent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, alas, Being a natural sister of our sex, Your sorrow beats so ardently upon me That it shall make a counter-reflect ’gainst My brother’s heart and warm it to some pity, Though it were made of stone."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"I long ardently to see you." The experience which has thus been described caused no great rift with the past, nor did it produce any great change in his outward life."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Never,” I thought; and ardently I wished to die."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ardent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ardent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, alas, Being a natural sister of our sex, Your sorrow beats so ardently upon me That it shall make a counter-reflect ’gainst My brother’s heart and warm it to some pity, Though it were made of stone."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"I long ardently to see you." The experience which has thus been described caused no great rift with the past, nor did it produce any great change in his outward life."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Never,” I thought; and ardently I wished to die."*

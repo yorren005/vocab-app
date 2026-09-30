@@ -5,15 +5,6 @@ status: unread
 ---
 # mistiness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cloudiness resulting from haze or mist or vapor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cloudiness resulting from haze or mist or vapor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But her eyes had a softness—invariably a softness—which, had they not been dark, would have seemed mistiness; as they were, it lowered an expression that might have been piercing to simple clearness."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Through this low-lit mistiness Tess walked leisurely along."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Out of the mistiness of her clouded brain a thought had come with unwonted clearness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cloudiness resulting from haze or mist or vapor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cloudiness resulting from haze or mist or vapor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But her eyes had a softness—invariably a softness—which, had they not been dark, would have seemed mistiness; as they were, it lowered an expression that might have been piercing to simple clearness."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Through this low-lit mistiness Tess walked leisurely along."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Out of the mistiness of her clouded brain a thought had come with unwonted clearness."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # demoralized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower someone's spirits; make downhearted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Jane appointed Henrietta to sit and hold the slow old horses in case they should have got demoralized by the militant atmosphere pervading Glendale and try to bolt."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Exhausted, wounded, sick and dying men were arriving there by scores of thousands--the remnants of a great army, broken by a series of terrible battles, disheartened and well-nigh demoralized."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She remained at Harrison's Landing until the 12th of August, and passed through all the terrible and trying scenes that attended the arrival of the defeated, demoralized, and depressed troops of McClellan's army."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower someone's spirits; make downhearted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Jane appointed Henrietta to sit and hold the slow old horses in case they should have got demoralized by the militant atmosphere pervading Glendale and try to bolt."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Exhausted, wounded, sick and dying men were arriving there by scores of thousands--the remnants of a great army, broken by a series of terrible battles, disheartened and well-nigh demoralized."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She remained at Harrison's Landing until the 12th of August, and passed through all the terrible and trying scenes that attended the arrival of the defeated, demoralized, and depressed troops of McClellan's army."*

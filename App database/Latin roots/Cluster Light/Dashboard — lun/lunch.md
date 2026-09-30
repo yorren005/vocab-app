@@ -5,15 +5,6 @@ status: unread
 ---
 # lunch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A midday meal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take the midday meal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He had to hang it up because the mother insisted that they should go to lunch and postpone everything else till the afternoon."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had gone out with a sign to attend to Bruno's belated lunch."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt was so much occupied at lunch with his own plans and ideas that he never even noticed when his favorite dessert appeared on the table."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A midday meal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take the midday meal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He had to hang it up because the mother insisted that they should go to lunch and postpone everything else till the afternoon."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had gone out with a sign to attend to Bruno's belated lunch."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt was so much occupied at lunch with his own plans and ideas that he never even noticed when his favorite dessert appeared on the table."*

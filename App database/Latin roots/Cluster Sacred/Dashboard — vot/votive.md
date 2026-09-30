@@ -5,15 +5,6 @@ status: unread
 ---
 # votive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dedicated in fulfillment of a vow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dedicated in fulfillment of a vow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It had walked for hundreds of years, if not as benefit-club, as votive sisterhood of some sort; and it walked still."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Caiaphas was appointed by Gratus, but Caiaphas is the shadow and the mouthpiece of Hanan.” “They have never forgiven you that little matter of the votive shields,” Miriam teased."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In all innocence before his palace he had affixed two shields with votive inscriptions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dedicated in fulfillment of a vow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dedicated in fulfillment of a vow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It had walked for hundreds of years, if not as benefit-club, as votive sisterhood of some sort; and it walked still."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Caiaphas was appointed by Gratus, but Caiaphas is the shadow and the mouthpiece of Hanan.” “They have never forgiven you that little matter of the votive shields,” Miriam teased."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In all innocence before his palace he had affixed two shields with votive inscriptions."*

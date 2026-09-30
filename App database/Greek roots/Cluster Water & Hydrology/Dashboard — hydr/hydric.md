@@ -5,13 +5,6 @@ status: unread
 ---
 # hydric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or characterized by excessive moisture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or characterized by excessive moisture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydric designates having or characterized by excessive moisture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or characterized by excessive moisture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or characterized by excessive moisture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydric designates having or characterized by excessive moisture."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # lithe-bodied
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a lithe body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a lithe body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithe-bodied designates having a lithe body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a lithe body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a lithe body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithe-bodied designates having a lithe body."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # binary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of two stars that revolve around each other under their mutual gravitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pre-compiled, pre-linked program that is ready to run under a given operating system; a binary for one operating system will not run on a different operating system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"When the melted metal is exposed to oxygen, this oxide is produced and passes into solution in the liquid, yielding a series of binary alloys, of which the oxide acts as the second constituent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of two stars that revolve around each other under their mutual gravitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pre-compiled, pre-linked program that is ready to run under a given operating system; a binary for one operating system will not run on a different operating system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"When the melted metal is exposed to oxygen, this oxide is produced and passes into solution in the liquid, yielding a series of binary alloys, of which the oxide acts as the second constituent."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # repurchase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of purchasing back something previously sold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Buy what had previously been sold, lost, or given away.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The man of the Fancy Repository and Brompton Emporium of Fine Arts (of whom she bought the screens, vainly hoping that he would repurchase them when ornamented by her hand) can hardly hide the sneer with which he examines these feeble works of art."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Once more we sit in England’s royal throne, Repurchased with the blood of enemies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of purchasing back something previously sold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Buy what had previously been sold, lost, or given away.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The man of the Fancy Repository and Brompton Emporium of Fine Arts (of whom she bought the screens, vainly hoping that he would repurchase them when ornamented by her hand) can hardly hide the sneer with which he examines these feeble works of art."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Once more we sit in England’s royal throne, Repurchased with the blood of enemies."*

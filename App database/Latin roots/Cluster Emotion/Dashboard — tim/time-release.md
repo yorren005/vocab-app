@@ -5,13 +5,6 @@ status: unread
 ---
 # time-release
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a preparation that gradually releases an active substance (especially a drug) over a period of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a preparation that gradually releases an active substance (especially a drug) over a period of time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, time-release designates of or relating to a preparation that gradually releases an active substance (especially a drug) over a period of time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a preparation that gradually releases an active substance (especially a drug) over a period of time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a preparation that gradually releases an active substance (especially a drug) over a period of time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, time-release designates of or relating to a preparation that gradually releases an active substance (especially a drug) over a period of time."*

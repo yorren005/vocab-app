@@ -5,13 +5,6 @@ status: unread
 ---
 # codification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of codifying; arranging in a systematic order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of rules or principles or laws (especially written ones).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"An enlargement of the free list, essential reductions and readjustments of rates, are to be fully considered, and some errors of conflicting codifications corrected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of codifying; arranging in a systematic order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of rules or principles or laws (especially written ones).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"An enlargement of the free list, essential reductions and readjustments of rates, are to be fully considered, and some errors of conflicting codifications corrected."*

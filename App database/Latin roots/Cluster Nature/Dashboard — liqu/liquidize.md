@@ -5,13 +5,6 @@ status: unread
 ---
 # liquidize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get rid of all one's merchandise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (a solid substance) liquid, as by heating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liquidize designates get rid of all one's merchandise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Get rid of all one's merchandise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (a solid substance) liquid, as by heating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liquidize designates get rid of all one's merchandise."*

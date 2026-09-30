@@ -5,15 +5,6 @@ status: unread
 ---
 # sumptuously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sumptuous and opulent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sumptuous and opulent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This monument five hundred years hath stood, Which I have sumptuously re-edified."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"In a sumptuously furnished room of this magnificent structure, Maurice Dalton, the present owner thereof, lies dying; battling heroically yet losingly in that last, inevitable conflict which he had been summoned to wage with the forces of decay."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky admired him smiling sumptuously, easy, lofty, and stately."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sumptuous and opulent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sumptuous and opulent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This monument five hundred years hath stood, Which I have sumptuously re-edified."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"In a sumptuously furnished room of this magnificent structure, Maurice Dalton, the present owner thereof, lies dying; battling heroically yet losingly in that last, inevitable conflict which he had been summoned to wage with the forces of decay."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky admired him smiling sumptuously, easy, lofty, and stately."*

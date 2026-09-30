@@ -5,15 +5,6 @@ status: unread
 ---
 # sidereal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the stars or constellations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of divisions of time) determined by daily motion of the stars.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The whole sidereal system coruscated, reeled and fell in flame."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The whole sky, though lit by the sidereal rays, seemed black by contrast with the whiteness of the waters."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Jesus became a phantom, or an aeon; his body, sidereal substance, which offered, Clement himself said, no material resistance to the touch of St John's hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the stars or constellations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of divisions of time) determined by daily motion of the stars.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The whole sidereal system coruscated, reeled and fell in flame."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The whole sky, though lit by the sidereal rays, seemed black by contrast with the whiteness of the waters."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Jesus became a phantom, or an aeon; his body, sidereal substance, which offered, Clement himself said, no material resistance to the touch of St John's hand."*

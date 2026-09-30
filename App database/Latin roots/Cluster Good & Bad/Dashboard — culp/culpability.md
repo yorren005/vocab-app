@@ -5,15 +5,6 @@ status: unread
 ---
 # culpability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of guilt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of guilt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her culpability lay in her making no attempt to control feeling by subtle and careful inquiry into consequences."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"No blame attached to me: I am as free from culpability as any one of you three."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode, which on the one hand would have inclined her to desire that the mildest view of his character should be the true one, but on the other, made her the more afraid of seeming to palliate his culpability."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of guilt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of guilt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her culpability lay in her making no attempt to control feeling by subtle and careful inquiry into consequences."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"No blame attached to me: I am as free from culpability as any one of you three."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode, which on the one hand would have inclined her to desire that the mildest view of his character should be the true one, but on the other, made her the more afraid of seeming to palliate his culpability."*

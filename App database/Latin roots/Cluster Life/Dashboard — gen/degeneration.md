@@ -5,15 +5,6 @@ status: unread
 ---
 # degeneration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of declining from a higher to a lower level of effective power or vitality or essential quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being degenerate in mental or moral qualities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the economic realm, as is now seen to be the case in the biologic realm, competition of some effective kind is an indispensable condition not only of progress but of life without degeneration."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"We have seen how Jesus regards sin as at once the cause and consequence of a degeneration of the moral nature, and as a repudiation of God."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I believe that you are suffering from what is called fatty degeneration of the heart, a disease which was first divined and explored by Laennec, the man who gave us the stethoscope, not so very many years ago."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of declining from a higher to a lower level of effective power or vitality or essential quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being degenerate in mental or moral qualities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the economic realm, as is now seen to be the case in the biologic realm, competition of some effective kind is an indispensable condition not only of progress but of life without degeneration."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"We have seen how Jesus regards sin as at once the cause and consequence of a degeneration of the moral nature, and as a repudiation of God."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I believe that you are suffering from what is called fatty degeneration of the heart, a disease which was first divined and explored by Laennec, the man who gave us the stethoscope, not so very many years ago."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # voltaic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of niger-congo languages spoken primarily in southeastern mali and northern ghana.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or producing electric current by chemical action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"ELECTROTYPING In 1799, Allesandro Volta, of Pavia, in Italy, constructed the first electric battery, which came to be called the Voltaic pile."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"His electrotypes were made by taking an impression from the wood-cut in an alloy of soft metal of which bismuth was probably the chief ingredient, and immersing the metal mold in an ordinary Voltaic battery for the deposition of the copper shell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of niger-congo languages spoken primarily in southeastern mali and northern ghana.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or producing electric current by chemical action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"ELECTROTYPING In 1799, Allesandro Volta, of Pavia, in Italy, constructed the first electric battery, which came to be called the Voltaic pile."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"His electrotypes were made by taking an impression from the wood-cut in an alloy of soft metal of which bismuth was probably the chief ingredient, and immersing the metal mold in an ordinary Voltaic battery for the deposition of the copper shell."*

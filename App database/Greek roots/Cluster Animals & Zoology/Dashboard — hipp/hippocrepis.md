@@ -5,13 +5,6 @@ status: unread
 ---
 # hippocrepis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Species of old world herbs or subshrubs: horseshoe vetch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Species of old world herbs or subshrubs: horseshoe vetch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippocrepis designates species of old world herbs or subshrubs: horseshoe vetch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Species of old world herbs or subshrubs: horseshoe vetch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Species of old world herbs or subshrubs: horseshoe vetch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hippocrepis designates species of old world herbs or subshrubs: horseshoe vetch."*

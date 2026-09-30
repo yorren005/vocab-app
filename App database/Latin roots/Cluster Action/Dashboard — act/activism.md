@@ -5,13 +5,6 @@ status: unread
 ---
 # activism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A policy of taking direct and militant action to achieve a political or social goal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A policy of taking direct and militant action to achieve a political or social goal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, activism designates a policy of taking direct and militant action to achieve a political or social goal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A policy of taking direct and militant action to achieve a political or social goal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A policy of taking direct and militant action to achieve a political or social goal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, activism designates a policy of taking direct and militant action to achieve a political or social goal."*

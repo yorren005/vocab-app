@@ -5,13 +5,6 @@ status: unread
 ---
 # peristaltic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, resulting from, or being peristalsis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an action suggestive of peristalsis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peristaltic designates of, relating to, resulting from, or being peristalsis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, resulting from, or being peristalsis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an action suggestive of peristalsis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peristaltic designates of, relating to, resulting from, or being peristalsis."*

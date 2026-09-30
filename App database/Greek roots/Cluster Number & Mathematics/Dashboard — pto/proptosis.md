@@ -5,13 +5,6 @@ status: unread
 ---
 # proptosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Forward projection or displacement especially of the eyeball.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forward projection or displacement especially of the eyeball.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proptosis designates forward projection or displacement especially of the eyeball."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forward projection or displacement especially of the eyeball.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forward projection or displacement especially of the eyeball.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proptosis designates forward projection or displacement especially of the eyeball."*

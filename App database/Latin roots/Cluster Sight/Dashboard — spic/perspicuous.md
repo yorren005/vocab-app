@@ -5,13 +5,6 @@ status: unread
 ---
 # perspicuous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of language) transparently clear; easily understandable; ; ; - robert burton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of language) transparently clear; easily understandable; ; ; - robert burton.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perspicuous designates (of language) transparently clear; easily understandable; ; ; - robert burton."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of language) transparently clear; easily understandable; ; ; - robert burton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of language) transparently clear; easily understandable; ; ; - robert burton.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perspicuous designates (of language) transparently clear; easily understandable; ; ; - robert burton."*

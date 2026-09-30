@@ -5,15 +5,6 @@ status: unread
 ---
 # extenuation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A partial excuse to mitigate censure; an attempt to represent an offense as less serious than it appears by showing mitigating circumstances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To act in such a way as to cause an offense to seem less serious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"The circumstances of his marriage, too, were found to admit of much extenuation."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Sir Walter seemed to admit it as complete apology; and though Elizabeth could not see the circumstance in quite so favourable a light, she allowed it be a great extenuation."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Tyler's friend offered the only extenuation possible--the man had "been on board the Alabama and was very bitter." But in Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A partial excuse to mitigate censure; an attempt to represent an offense as less serious than it appears by showing mitigating circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To act in such a way as to cause an offense to seem less serious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"The circumstances of his marriage, too, were found to admit of much extenuation."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Sir Walter seemed to admit it as complete apology; and though Elizabeth could not see the circumstance in quite so favourable a light, she allowed it be a great extenuation."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Tyler's friend offered the only extenuation possible--the man had "been on board the Alabama and was very bitter." But in Mrs."*

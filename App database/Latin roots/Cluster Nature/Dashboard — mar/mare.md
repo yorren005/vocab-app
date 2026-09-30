@@ -5,15 +5,6 @@ status: unread
 ---
 # mare
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Female equine animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dark region of considerable extent on the surface of the moon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath put all my substance into that fat belly of his: but I will have some of it out again, or I will ride thee o’ nights like the mare."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think I am as like to ride the mare if I have any vantage of ground to get up."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though patience be a tired mare, yet she will plod."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Female equine animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dark region of considerable extent on the surface of the moon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath put all my substance into that fat belly of his: but I will have some of it out again, or I will ride thee o’ nights like the mare."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think I am as like to ride the mare if I have any vantage of ground to get up."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though patience be a tired mare, yet she will plod."*

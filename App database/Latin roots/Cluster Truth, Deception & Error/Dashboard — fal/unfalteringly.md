@@ -5,13 +5,6 @@ status: unread
 ---
 # unfalteringly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With determination; in a determined manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With determination; in a determined manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"This was continued unfalteringly as long as there was occasion for it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With determination; in a determined manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With determination; in a determined manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"This was continued unfalteringly as long as there was occasion for it."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # derogate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to seem less serious; play down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to seem less serious; play down.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SECOND LORD. [_Aside._] You are a fool granted; therefore your issues, being foolish, do not derogate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dry up in her the organs of increase; And from her derogate body never spring A babe to honour her!"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Besides, unless His Majesty the Emperor derogates from the principle of our alliance..."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to seem less serious; play down.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to seem less serious; play down.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SECOND LORD. [_Aside._] You are a fool granted; therefore your issues, being foolish, do not derogate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dry up in her the organs of increase; And from her derogate body never spring A babe to honour her!"*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Besides, unless His Majesty the Emperor derogates from the principle of our alliance..."*

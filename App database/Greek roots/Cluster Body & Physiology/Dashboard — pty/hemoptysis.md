@@ -5,13 +5,6 @@ status: unread
 ---
 # hemoptysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expectoration of blood from some part of the respiratory tract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expectoration of blood from some part of the respiratory tract.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemoptysis designates expectoration of blood from some part of the respiratory tract."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expectoration of blood from some part of the respiratory tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expectoration of blood from some part of the respiratory tract.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemoptysis designates expectoration of blood from some part of the respiratory tract."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # bones
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A percussion instrument consisting of a pair of hollow pieces of wood or bone (usually held between the thumb and fingers) that are made to click together (as by spanish dancers) in rhythm with the dance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rigid connective tissue that makes up the skeleton of vertebrates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mere word’s a slave, Debauch’d on every tomb, on every grave A lying trophy, and as oft is dumb Where dust and damn’d oblivion is the tomb Of honour’d bones indeed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he filled His vacancy with his voluptuousness, Full surfeits and the dryness of his bones Call on him for’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In verity, you did; my bones bear witness, That since have felt the vigour of his rage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A percussion instrument consisting of a pair of hollow pieces of wood or bone (usually held between the thumb and fingers) that are made to click together (as by spanish dancers) in rhythm with the dance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rigid connective tissue that makes up the skeleton of vertebrates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mere word’s a slave, Debauch’d on every tomb, on every grave A lying trophy, and as oft is dumb Where dust and damn’d oblivion is the tomb Of honour’d bones indeed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he filled His vacancy with his voluptuousness, Full surfeits and the dryness of his bones Call on him for’t."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In verity, you did; my bones bear witness, That since have felt the vigour of his rage."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # etherize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anesthetize with ether.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anesthetize with ether.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"On account of her age she could not well be etherized, nor endure the repeated necessary resetting of the bones, and consequently they grew together irregularly."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Effects of fear A woman in the city of Lynn, Massachusetts, was etherized and died in consequence, although her physi- 159:1 cians insisted that it would be unsafe to perform a needed surgical operation without the ether."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anesthetize with ether.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anesthetize with ether.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"On account of her age she could not well be etherized, nor endure the repeated necessary resetting of the bones, and consequently they grew together irregularly."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Effects of fear A woman in the city of Lynn, Massachusetts, was etherized and died in consequence, although her physi- 159:1 cians insisted that it would be unsafe to perform a needed surgical operation without the ether."*

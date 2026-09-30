@@ -5,13 +5,6 @@ status: unread
 ---
 # adduction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physiology) moving of a body part toward the central axis of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physiology) moving of a body part toward the central axis of the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adduction designates (physiology) moving of a body part toward the central axis of the body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (physiology) moving of a body part toward the central axis of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physiology) moving of a body part toward the central axis of the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adduction designates (physiology) moving of a body part toward the central axis of the body."*

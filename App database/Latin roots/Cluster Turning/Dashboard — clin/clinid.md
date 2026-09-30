@@ -5,13 +5,6 @@ status: unread
 ---
 # clinid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly small blennioid fishes of coral reefs and seagrass beds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly small blennioid fishes of coral reefs and seagrass beds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clinid designates mostly small blennioid fishes of coral reefs and seagrass beds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly small blennioid fishes of coral reefs and seagrass beds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly small blennioid fishes of coral reefs and seagrass beds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clinid designates mostly small blennioid fishes of coral reefs and seagrass beds."*

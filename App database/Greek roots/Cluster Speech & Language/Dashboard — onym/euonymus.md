@@ -5,13 +5,6 @@ status: unread
 ---
 # euonymus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed chiefly evergreen shrubs or small trees or vines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed chiefly evergreen shrubs or small trees or vines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SPINDLE UREDO; spots yellowish; sori roundish, circinating, often confluent; epidermis erumpent; sporidia ovoid and slightly coherent, tawny-yellow.—On leaves of _Euonymus Europæus_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed chiefly evergreen shrubs or small trees or vines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed chiefly evergreen shrubs or small trees or vines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SPINDLE UREDO; spots yellowish; sori roundish, circinating, often confluent; epidermis erumpent; sporidia ovoid and slightly coherent, tawny-yellow.—On leaves of _Euonymus Europæus_."*

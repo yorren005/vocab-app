@@ -5,15 +5,6 @@ status: unread
 ---
 # tortoise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Usually herbivorous land turtles having clawed elephant-like limbs; worldwide in arid area except australia and antarctica.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Usually herbivorous land turtles having clawed elephant-like limbs; worldwide in arid area except australia and antarctica.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The master was an old Turtle—we used to call him Tortoise—” “Why did you call him Tortoise, if he wasn’t one?” Alice asked."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"There must have been plenty of fun at Field Place when he told his sisters stories about the alchemist in the attic or "the Great Tortoise that lived in Warnham Pond," frightened them with electric shocks, and taught his baby brother to say devil."*
-> - 📜 **George Eliot (*Middlemarch*):** *"How very mean of you to whip poor old Tortoise!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Usually herbivorous land turtles having clawed elephant-like limbs; worldwide in arid area except australia and antarctica.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Usually herbivorous land turtles having clawed elephant-like limbs; worldwide in arid area except australia and antarctica.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The master was an old Turtle—we used to call him Tortoise—” “Why did you call him Tortoise, if he wasn’t one?” Alice asked."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"There must have been plenty of fun at Field Place when he told his sisters stories about the alchemist in the attic or "the Great Tortoise that lived in Warnham Pond," frightened them with electric shocks, and taught his baby brother to say devil."*
+> - 📜 **George Eliot (*Middlemarch*):** *"How very mean of you to whip poor old Tortoise!"*

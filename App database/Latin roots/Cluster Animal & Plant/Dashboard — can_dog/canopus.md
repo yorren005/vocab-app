@@ -5,14 +5,6 @@ status: unread
 ---
 # canopus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supergiant star 650 light years from earth; second brightest star in the sky.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supergiant star 650 light years from earth; second brightest star in the sky.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He points it burning towards Sirius; he says that Sirius shall twinkle like Canopus."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He sings; he sings about Canopus, he sings about Sirius; he points to them with fire,[807] that they may twinkle like each other."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Supergiant star 650 light years from earth; second brightest star in the sky.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supergiant star 650 light years from earth; second brightest star in the sky.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He points it burning towards Sirius; he says that Sirius shall twinkle like Canopus."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He sings; he sings about Canopus, he sings about Sirius; he points to them with fire,[807] that they may twinkle like each other."*

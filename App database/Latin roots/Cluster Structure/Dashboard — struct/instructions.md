@@ -5,15 +5,6 @@ status: unread
 ---
 # instructions
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A manual usually accompanying a technical device and explaining how to install or operate it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message describing how something is to be done.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You, Diana, Under my poor instructions yet must suffer Something in my behalf."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dost thou think in time She will not quench, and let instructions enter Where folly now possesses?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But in these cases We still have judgement here; that we but teach Bloody instructions, which being taught, return To plague th’ inventor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A manual usually accompanying a technical device and explaining how to install or operate it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message describing how something is to be done.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You, Diana, Under my poor instructions yet must suffer Something in my behalf."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dost thou think in time She will not quench, and let instructions enter Where folly now possesses?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But in these cases We still have judgement here; that we but teach Bloody instructions, which being taught, return To plague th’ inventor."*

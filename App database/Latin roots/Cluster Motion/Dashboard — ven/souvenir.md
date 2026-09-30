@@ -5,15 +5,6 @@ status: unread
 ---
 # souvenir
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something of sentimental value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reminder of past events.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She had looked at them that morning; felt that starve she must and would, but that souvenir of her mother should never leave her."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"He lives in an ancient, rambling house across the road from my home, and he is making a souvenir collection of derelict women."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is a little souvenir from the King of Bohemia in return for my assistance in the case of the Irene Adler papers.” “And the ring?” I asked, glancing at a remarkable brilliant which sparkled upon his finger."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something of sentimental value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reminder of past events.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"She had looked at them that morning; felt that starve she must and would, but that souvenir of her mother should never leave her."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"He lives in an ancient, rambling house across the road from my home, and he is making a souvenir collection of derelict women."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is a little souvenir from the King of Bohemia in return for my assistance in the case of the Irene Adler papers.” “And the ring?” I asked, glancing at a remarkable brilliant which sparkled upon his finger."*

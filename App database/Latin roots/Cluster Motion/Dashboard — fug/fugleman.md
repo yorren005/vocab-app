@@ -5,13 +5,6 @@ status: unread
 ---
 # fugleman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A leader and organizer and spokesman (especially a political leader).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A leader and organizer and spokesman (especially a political leader).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fugleman designates a leader and organizer and spokesman (especially a political leader)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A leader and organizer and spokesman (especially a political leader).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A leader and organizer and spokesman (especially a political leader).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fugleman designates a leader and organizer and spokesman (especially a political leader)."*

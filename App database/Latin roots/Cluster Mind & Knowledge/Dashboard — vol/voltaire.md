@@ -5,15 +5,6 @@ status: unread
 ---
 # voltaire
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French writer who was the embodiment of 18th century enlightenment (1694-1778).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French writer who was the embodiment of 18th century enlightenment (1694-1778).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He added later a very complete set of the writings of the English Deists, and the works of Voltaire, Rousseau, and Renan."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Whenever he had a great personality to deal with, such as Origen, Grotius, or Pascal, or, in a quite different way, Voltaire, he rose to the full height of his powers."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Thus, in preparing for one of the lectures, he read through twenty volumes of Voltaire, out of a set of fifty which had been put at his disposal by a friend."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French writer who was the embodiment of 18th century enlightenment (1694-1778).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French writer who was the embodiment of 18th century enlightenment (1694-1778).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"He added later a very complete set of the writings of the English Deists, and the works of Voltaire, Rousseau, and Renan."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Whenever he had a great personality to deal with, such as Origen, Grotius, or Pascal, or, in a quite different way, Voltaire, he rose to the full height of his powers."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Thus, in preparing for one of the lectures, he read through twenty volumes of Voltaire, out of a set of fifty which had been put at his disposal by a friend."*

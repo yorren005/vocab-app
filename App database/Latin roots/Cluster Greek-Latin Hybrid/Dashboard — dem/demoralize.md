@@ -5,15 +5,6 @@ status: unread
 ---
 # demoralize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower someone's spirits; make downhearted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She became what would have been called a fine creature; her aspect was fair and arresting; her soul that of a woman whom the turbulent experiences of the last year or two had quite failed to demoralize."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The allegory shows that the snake-talker utters the first voluble lie, which beguiles the woman and demoralizes the man."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I have said before upon the floor of the Senate that this whole system demoralizes everybody who is engaged in it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower someone's spirits; make downhearted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She became what would have been called a fine creature; her aspect was fair and arresting; her soul that of a woman whom the turbulent experiences of the last year or two had quite failed to demoralize."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The allegory shows that the snake-talker utters the first voluble lie, which beguiles the woman and demoralizes the man."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I have said before upon the floor of the Senate that this whole system demoralizes everybody who is engaged in it."*

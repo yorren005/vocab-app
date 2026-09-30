@@ -5,15 +5,6 @@ status: unread
 ---
 # ejection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of expelling or projecting or ejecting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of forcing out someone or something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I remember how we spread out along an aircraft's line of flight as it neared the drop zone, observed the chute ejection and canopy opening, and the dummy swinging in an arc underneath."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"They will aid in the ejection of error."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"He believes that Spirit is sifted through matter, carried on a nerve, ex- posed to ejection by the operation of matter. 171:21 The intellectual, the moral, the spiritual, - yea, the image of infinite Mind, - subject to non-intelligence!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of expelling or projecting or ejecting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of forcing out someone or something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I remember how we spread out along an aircraft's line of flight as it neared the drop zone, observed the chute ejection and canopy opening, and the dummy swinging in an arc underneath."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"They will aid in the ejection of error."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"He believes that Spirit is sifted through matter, carried on a nerve, ex- posed to ejection by the operation of matter. 171:21 The intellectual, the moral, the spiritual, - yea, the image of infinite Mind, - subject to non-intelligence!"*

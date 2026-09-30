@@ -5,13 +5,6 @@ status: unread
 ---
 # dimorphism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) the property of certain substances that enables them to exist in two distinct crystalline forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) the existence of two forms of individual within the same animal species (independent of sex differences).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dimorphism designates (chemistry) the property of certain substances that enables them to exist in two distinct crystalline forms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) the property of certain substances that enables them to exist in two distinct crystalline forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) the existence of two forms of individual within the same animal species (independent of sex differences).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dimorphism designates (chemistry) the property of certain substances that enables them to exist in two distinct crystalline forms."*

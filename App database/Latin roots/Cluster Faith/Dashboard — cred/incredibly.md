@@ -5,15 +5,6 @@ status: unread
 ---
 # incredibly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easy to believe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exceedingly; extremely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"An incredibly tall figure, which could not possibly be human, was wandering across the terrace with slow steps."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is a well-nigh incredibly small proportion, hardly as great as that of the weight of the gyroscope compared with the car or ship to which it is applied."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The whole thing was incredibly silly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easy to believe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exceedingly; extremely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"An incredibly tall figure, which could not possibly be human, was wandering across the terrace with slow steps."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is a well-nigh incredibly small proportion, hardly as great as that of the weight of the gyroscope compared with the car or ship to which it is applied."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The whole thing was incredibly silly."*

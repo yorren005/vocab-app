@@ -5,13 +5,6 @@ status: unread
 ---
 # antitauon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antilepton of very great mass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antilepton of very great mass.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitauon designates an antilepton of very great mass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antilepton of very great mass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antilepton of very great mass.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitauon designates an antilepton of very great mass."*

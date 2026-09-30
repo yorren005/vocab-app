@@ -5,13 +5,6 @@ status: unread
 ---
 # brevicipitidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Narrow-mouthed toads and sheep frogs; some burrow and some are arboreal; found worldwide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Narrow-mouthed toads and sheep frogs; some burrow and some are arboreal; found worldwide.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brevicipitidae designates narrow-mouthed toads and sheep frogs; some burrow and some are arboreal; found worldwide."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Narrow-mouthed toads and sheep frogs; some burrow and some are arboreal; found worldwide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Narrow-mouthed toads and sheep frogs; some burrow and some are arboreal; found worldwide.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brevicipitidae designates narrow-mouthed toads and sheep frogs; some burrow and some are arboreal; found worldwide."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # poem
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A composition in verse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something suggesting a poem (as in expressiveness, lyricism, or formal grace).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best actors in the world, either for tragedy, comedy, history, pastoral, pastoral-comical, historical-pastoral, tragical-historical, tragical-comical-historical-pastoral, scene individable, or poem unlimited."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Never may That state or fortune fall into my keeping Which is not owed to you. [_Exeunt Lucilius and Old Athenian._] POET. [_Presenting his poem_.] Vouchsafe my labour, and long live your lordship."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hope (London, 1880), p. 52, _recto._ The title of the original poem was _Regnum Papisticum_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A composition in verse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something suggesting a poem (as in expressiveness, lyricism, or formal grace).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best actors in the world, either for tragedy, comedy, history, pastoral, pastoral-comical, historical-pastoral, tragical-historical, tragical-comical-historical-pastoral, scene individable, or poem unlimited."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Never may That state or fortune fall into my keeping Which is not owed to you. [_Exeunt Lucilius and Old Athenian._] POET. [_Presenting his poem_.] Vouchsafe my labour, and long live your lordship."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hope (London, 1880), p. 52, _recto._ The title of the original poem was _Regnum Papisticum_."*

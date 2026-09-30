@@ -5,20 +5,6 @@ status: unread
 ---
 # boulder
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Detached and rounded or much-worn mass of rock
-> 2. **Nuance / Usage**: City northwest of denver in north central colorado
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the boulder withstood the storm*), direct object (*cleaved the boulder*), or prepositional anchor (*amidst the boulder*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Carol Benson (*The Old Lonesome*):** *"There were four sizes of marbles and we called them boulders, biggies, regulars, and teenies."*
-> - 📜 **Classic Author (*The ties that bind ..., ... and prevent falls have become family unifier in rock climbing*):** *"He bouldered a route in the same area with ease. Mitchell, 11, was hanging with the older kids in an area where bouldering nearly upside down seemed to be...."*
-> - 📜 **Classic Author (*Homes blend eco-friendliness, unique design*):** *"There's even old climbing hardware in it because people bouldered on it for years."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Detached and rounded or much-worn mass of rock
+> 2. **Nuance / Usage**: City northwest of denver in north central colorado
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the boulder withstood the storm*), direct object (*cleaved the boulder*), or prepositional anchor (*amidst the boulder*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Carol Benson (*The Old Lonesome*):** *"There were four sizes of marbles and we called them boulders, biggies, regulars, and teenies."*
+> - 📜 **Classic Author (*The ties that bind ..., ... and prevent falls have become family unifier in rock climbing*):** *"He bouldered a route in the same area with ease. Mitchell, 11, was hanging with the older kids in an area where bouldering nearly upside down seemed to be...."*
+> - 📜 **Classic Author (*Homes blend eco-friendliness, unique design*):** *"There's even old climbing hardware in it because people bouldered on it for years."*

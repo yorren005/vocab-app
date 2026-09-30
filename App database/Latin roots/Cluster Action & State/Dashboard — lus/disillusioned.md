@@ -5,15 +5,6 @@ status: unread
 ---
 # disillusioned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from enchantment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freed from illusion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"This always disillusioned her finally, for it was hard to deny his proofs."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Buns, once fresh and tender, become hard and misanthropic in its refreshment rooms, and look as if they had seen the littleness of existence and were disillusioned."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"I make out now what he must have done at school.” And she gave, in her simple sharpness, an almost droll disillusioned nod."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from enchantment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freed from illusion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"This always disillusioned her finally, for it was hard to deny his proofs."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Buns, once fresh and tender, become hard and misanthropic in its refreshment rooms, and look as if they had seen the littleness of existence and were disillusioned."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"I make out now what he must have done at school.” And she gave, in her simple sharpness, an almost droll disillusioned nod."*

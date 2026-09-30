@@ -5,15 +5,6 @@ status: unread
 ---
 # poster
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sign posted in a public place as an advertisement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who pastes up bills or placards on walls or billboards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Here’s the announcement.” He drew from his breast-pocket a poster whereon was printed the day, hour, and place of meeting, at which he, d’Urberville, would preach the Gospel as aforesaid."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"THE YELLOW POSTER “Oh, look there, Nan!” cried Bess Harley suddenly, as they turned into High Street from the avenue on which Tillbury's high school was situated."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Let's go and read the poster.” “Why it is a poster, isn't it?” cried Bess."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sign posted in a public place as an advertisement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who pastes up bills or placards on walls or billboards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Here’s the announcement.” He drew from his breast-pocket a poster whereon was printed the day, hour, and place of meeting, at which he, d’Urberville, would preach the Gospel as aforesaid."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"THE YELLOW POSTER “Oh, look there, Nan!” cried Bess Harley suddenly, as they turned into High Street from the avenue on which Tillbury's high school was situated."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Let's go and read the poster.” “Why it is a poster, isn't it?” cried Bess."*

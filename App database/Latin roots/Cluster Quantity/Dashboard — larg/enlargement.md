@@ -5,15 +5,6 @@ status: unread
 ---
 # enlargement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of increasing (something) in size or volume or quantity or scope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being enlarged.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now the arbitrator of despairs, Just Death, kind umpire of men’s miseries, With sweet enlargement doth dismiss me hence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Master Lieutenant, now that God and friends Have shaken Edward from the regal seat And turned my captive state to liberty, My fear to hope, my sorrows unto joys, At our enlargement what are thy due fees?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, tenderness of years, take this key, give enlargement to the swain, bring him festinately hither."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of increasing (something) in size or volume or quantity or scope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being enlarged.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now the arbitrator of despairs, Just Death, kind umpire of men’s miseries, With sweet enlargement doth dismiss me hence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Master Lieutenant, now that God and friends Have shaken Edward from the regal seat And turned my captive state to liberty, My fear to hope, my sorrows unto joys, At our enlargement what are thy due fees?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, tenderness of years, take this key, give enlargement to the swain, bring him festinately hither."*

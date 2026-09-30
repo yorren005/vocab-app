@@ -5,13 +5,6 @@ status: unread
 ---
 # transcendentalist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Advocate of transcendentalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advocate of transcendentalism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transcendentalist designates advocate of transcendentalism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Advocate of transcendentalism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advocate of transcendentalism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transcendentalist designates advocate of transcendentalism."*

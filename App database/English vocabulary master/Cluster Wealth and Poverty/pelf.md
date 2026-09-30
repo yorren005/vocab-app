@@ -5,20 +5,6 @@ status: unread
 ---
 # pelf
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Money, riches
-> 2. **Nuance / Usage**: (countable, yorkshire, derogatory) a contemptible or useless person
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the pelf withstood the storm*), direct object (*cleaved the pelf*), or prepositional anchor (*amidst the pelf*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"phartridges in their purblind pomp of pelf and power."*
-> - 📜 **Dale Wimbrow (*The Guy in the Glass*):** *"When you get what you want in your struggle for pelf, and the world makes you King for a day, / Then go to the mirror and look at yourself, and see what that guy has to say."*
-> - 📜 **Nicholas von Hoffman (*The Class of ’43 is Puzzled*):** *"Some of the rich classmates were keeping their pelf to themselves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Money, riches
+> 2. **Nuance / Usage**: (countable, yorkshire, derogatory) a contemptible or useless person
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the pelf withstood the storm*), direct object (*cleaved the pelf*), or prepositional anchor (*amidst the pelf*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"phartridges in their purblind pomp of pelf and power."*
+> - 📜 **Dale Wimbrow (*The Guy in the Glass*):** *"When you get what you want in your struggle for pelf, and the world makes you King for a day, / Then go to the mirror and look at yourself, and see what that guy has to say."*
+> - 📜 **Nicholas von Hoffman (*The Class of ’43 is Puzzled*):** *"Some of the rich classmates were keeping their pelf to themselves."*

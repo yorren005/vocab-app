@@ -5,13 +5,6 @@ status: unread
 ---
 # catamountain
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bushy-tailed wildcat of europe that resembles the domestic cat and is regarded as the ancestor of the domestic cat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bushy-tailed wildcat of europe that resembles the domestic cat and is regarded as the ancestor of the domestic cat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catamountain designates bushy-tailed wildcat of europe that resembles the domestic cat and is regarded as the ancestor of the domestic cat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bushy-tailed wildcat of europe that resembles the domestic cat and is regarded as the ancestor of the domestic cat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bushy-tailed wildcat of europe that resembles the domestic cat and is regarded as the ancestor of the domestic cat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catamountain designates bushy-tailed wildcat of europe that resembles the domestic cat and is regarded as the ancestor of the domestic cat."*

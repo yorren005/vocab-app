@@ -5,15 +5,6 @@ status: unread
 ---
 # bonnie
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very pleasing to the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very pleasing to the eye.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thou art a gay an’ a bonnie lass, But thou has a waukrife minnie."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Bonie, bonnie, pretty, beautiful."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Ah! she was a bonnie thing, that old gun of mine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very pleasing to the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very pleasing to the eye.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thou art a gay an’ a bonnie lass, But thou has a waukrife minnie."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Bonie, bonnie, pretty, beautiful."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Ah! she was a bonnie thing, that old gun of mine."*

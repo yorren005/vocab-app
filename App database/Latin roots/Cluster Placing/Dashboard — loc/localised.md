@@ -5,15 +5,6 @@ status: unread
 ---
 # localised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Identify the location or place of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concentrate on a particular place or spot.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"They are neither of the world nor out of it, and consequently, in so far as they are localised and incarnate and their actions woven into a tale, 'The Revolt of Islam' is a failure."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Whales are localised, according to their kinds, in certain seas which they never leave."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Adonis in Syria THE MYTH of Adonis was localised and his rites celebrated with much solemnity at two places in Western Asia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Identify the location or place of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concentrate on a particular place or spot.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"They are neither of the world nor out of it, and consequently, in so far as they are localised and incarnate and their actions woven into a tale, 'The Revolt of Islam' is a failure."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Whales are localised, according to their kinds, in certain seas which they never leave."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Adonis in Syria THE MYTH of Adonis was localised and his rites celebrated with much solemnity at two places in Western Asia."*

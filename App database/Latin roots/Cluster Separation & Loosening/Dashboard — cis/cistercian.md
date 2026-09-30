@@ -5,15 +5,6 @@ status: unread
 ---
 # cistercian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Member of an order of monks noted for austerity and a vow of silence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Member of an order of monks noted for austerity and a vow of silence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They had rambled round by a road which led to the well-known ruins of the Cistercian abbey behind the mill, the latter having, in centuries past, been attached to the monastic establishment."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I found out by chance that the barn of Deep Moat Grange had been an oratory in the days of the ancient Cistercian Abbey, which had been built on that site about 1460."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"The whole situation was most favourable for his traffic, and even now when its good repute was blown upon, the Cistercian abbots' "hidie-hole" still showed itself capable of keeping its secrets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Member of an order of monks noted for austerity and a vow of silence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Member of an order of monks noted for austerity and a vow of silence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They had rambled round by a road which led to the well-known ruins of the Cistercian abbey behind the mill, the latter having, in centuries past, been attached to the monastic establishment."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I found out by chance that the barn of Deep Moat Grange had been an oratory in the days of the ancient Cistercian Abbey, which had been built on that site about 1460."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"The whole situation was most favourable for his traffic, and even now when its good repute was blown upon, the Cistercian abbots' "hidie-hole" still showed itself capable of keeping its secrets."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # regionalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feature (as a pronunciation or expression or custom) that is characteristic of a particular region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A foreign policy that defines the international interests of a country in terms of particular geographic areas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regionalism designates a feature (as a pronunciation or expression or custom) that is characteristic of a particular region."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feature (as a pronunciation or expression or custom) that is characteristic of a particular region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A foreign policy that defines the international interests of a country in terms of particular geographic areas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regionalism designates a feature (as a pronunciation or expression or custom) that is characteristic of a particular region."*

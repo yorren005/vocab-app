@@ -5,15 +5,6 @@ status: unread
 ---
 # atheist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who does not believe in the existence of God or any gods : one who subscribes to or advocates atheism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who does not believe in the existence of God or any gods : one who subscribes to or advocates atheism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It were far more sensible for those who deny the fitness and necessity of prayer to take the ground of the atheist and say plainly "We do not pray, for there is no God to pray to," for to deny prayer, is practical atheism."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A----, who professed infidelity, and who was, I think, as near an atheist as any I ever met."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"I'le dye an _Atheist_ then. _Arn_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who does not believe in the existence of God or any gods : one who subscribes to or advocates atheism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who does not believe in the existence of God or any gods : one who subscribes to or advocates atheism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"It were far more sensible for those who deny the fitness and necessity of prayer to take the ground of the atheist and say plainly "We do not pray, for there is no God to pray to," for to deny prayer, is practical atheism."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A----, who professed infidelity, and who was, I think, as near an atheist as any I ever met."*
+> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"I'le dye an _Atheist_ then. _Arn_."*

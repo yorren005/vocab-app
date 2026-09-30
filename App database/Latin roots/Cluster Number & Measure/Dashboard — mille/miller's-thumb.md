@@ -5,13 +5,6 @@ status: unread
 ---
 # miller's-thumb
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small freshwater sculpin of europe and north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small freshwater sculpin of europe and north america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miller's-thumb designates small freshwater sculpin of europe and north america."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small freshwater sculpin of europe and north america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small freshwater sculpin of europe and north america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miller's-thumb designates small freshwater sculpin of europe and north america."*

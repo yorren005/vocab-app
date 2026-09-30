@@ -5,13 +5,6 @@ status: unread
 ---
 # percentile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (statistics) any of the 99 numbered points that divide an ordered set of scores into 100 parts each of which contains one-hundredth of the total.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (statistics) any of the 99 numbered points that divide an ordered set of scores into 100 parts each of which contains one-hundredth of the total.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, percentile designates (statistics) any of the 99 numbered points that divide an ordered set of scores into 100 parts each of which contains one-hundredth of the total."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (statistics) any of the 99 numbered points that divide an ordered set of scores into 100 parts each of which contains one-hundredth of the total.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (statistics) any of the 99 numbered points that divide an ordered set of scores into 100 parts each of which contains one-hundredth of the total.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, percentile designates (statistics) any of the 99 numbered points that divide an ordered set of scores into 100 parts each of which contains one-hundredth of the total."*

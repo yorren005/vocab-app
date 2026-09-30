@@ -5,14 +5,6 @@ status: unread
 ---
 # deliberateness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rate demonstrating an absence of haste or hurry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of thoughtfulness in action or decision.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak’s motions, though they had a quiet energy, were slow, and their deliberateness accorded well with his occupation."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak’s motions, though they had a quiet energy, were slow, and their deliberateness accorded well with his occupation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rate demonstrating an absence of haste or hurry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of thoughtfulness in action or decision.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak’s motions, though they had a quiet energy, were slow, and their deliberateness accorded well with his occupation."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak’s motions, though they had a quiet energy, were slow, and their deliberateness accorded well with his occupation."*

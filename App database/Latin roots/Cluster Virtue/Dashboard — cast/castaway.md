@@ -5,15 +5,6 @@ status: unread
 ---
 # castaway
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is rejected (from society or home).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shipwrecked person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That ever I should call thee castaway!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He thence departs a heavy convertite; She there remains a hopeless castaway."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Who cares about the looks of a castaway like me!” Her journey back was rather a meander than a march."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is rejected (from society or home).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shipwrecked person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That ever I should call thee castaway!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He thence departs a heavy convertite; She there remains a hopeless castaway."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Who cares about the looks of a castaway like me!” Her journey back was rather a meander than a march."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # terence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dramatist of ancient rome (born in greece) whose comedies were based on works by menander (190?-159 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dramatist of ancient rome (born in greece) whose comedies were based on works by menander (190?-159 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The Latin dramatist Terence pictures the young man looking at one of these paintings and saying to himself, "If Jupiter did it, why should not I?" Centuries later we find Augustine quoting that sentence."*
-> - 📜 **James Joyce (*Ulysses*):** *"One of the drunks spelt out the name: Terence Mulcahy."*
-> - 📜 **James Joyce (*Ulysses*):** *"Terence O’Ryan heard him and straightway brought him a crystal cup full of the foamy ebon ale which the noble twin brothers Bungiveagh and Bungardilaun brew ever in their divine alevats, cunning as the sons of deathless Leda."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dramatist of ancient rome (born in greece) whose comedies were based on works by menander (190?-159 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dramatist of ancient rome (born in greece) whose comedies were based on works by menander (190?-159 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The Latin dramatist Terence pictures the young man looking at one of these paintings and saying to himself, "If Jupiter did it, why should not I?" Centuries later we find Augustine quoting that sentence."*
+> - 📜 **James Joyce (*Ulysses*):** *"One of the drunks spelt out the name: Terence Mulcahy."*
+> - 📜 **James Joyce (*Ulysses*):** *"Terence O’Ryan heard him and straightway brought him a crystal cup full of the foamy ebon ale which the noble twin brothers Bungiveagh and Bungardilaun brew ever in their divine alevats, cunning as the sons of deathless Leda."*

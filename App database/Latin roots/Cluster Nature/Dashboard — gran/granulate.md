@@ -5,15 +5,6 @@ status: unread
 ---
 # granulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form into grains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become granular.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"They manufacture sago, but do not granulate it."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"They do not, however, make it in a granulated form, but bake it into cakes, covering them with a frame of woven leaves, this being the handiest form for carrying it about with them in their canoes."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The differential in sugar is the difference between the cost of the raw sugar and the refined granulated sugar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Form into grains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become granular.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"They manufacture sago, but do not granulate it."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"They do not, however, make it in a granulated form, but bake it into cakes, covering them with a frame of woven leaves, this being the handiest form for carrying it about with them in their canoes."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The differential in sugar is the difference between the cost of the raw sugar and the refined granulated sugar."*

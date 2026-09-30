@@ -5,15 +5,6 @@ status: unread
 ---
 # adventuress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman adventurer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman adventurer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The facts are briefly these: Some five years ago, during a lengthy visit to Warsaw, I made the acquaintance of the well-known adventuress, Irene Adler."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"French was recognized as a presuming adventuress by all disappointed aspirants for the captain's hand."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The embrace somehow brought tears into the eyes of the little adventuress--which ornaments, as we know, she wore very seldom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman adventurer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman adventurer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The facts are briefly these: Some five years ago, during a lengthy visit to Warsaw, I made the acquaintance of the well-known adventuress, Irene Adler."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"French was recognized as a presuming adventuress by all disappointed aspirants for the captain's hand."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The embrace somehow brought tears into the eyes of the little adventuress--which ornaments, as we know, she wore very seldom."*

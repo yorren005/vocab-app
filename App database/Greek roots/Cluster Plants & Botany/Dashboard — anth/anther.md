@@ -5,15 +5,6 @@ status: unread
 ---
 # anther
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of a stamen that produces and contains pollen and is usually borne on a stalk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of a stamen that produces and contains pollen and is usually borne on a stalk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Flowers of Bladder-campion with anther smut (_Ustilago antherarum_). 〃 103."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Anther distorted by smut (_Ustilago antherarum_). 〃 104."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Spores of Anther smut (_Ustilago antherarum_) × 460. 〃 105."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of a stamen that produces and contains pollen and is usually borne on a stalk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of a stamen that produces and contains pollen and is usually borne on a stalk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Flowers of Bladder-campion with anther smut (_Ustilago antherarum_). 〃 103."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Anther distorted by smut (_Ustilago antherarum_). 〃 104."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Spores of Anther smut (_Ustilago antherarum_) × 460. 〃 105."*

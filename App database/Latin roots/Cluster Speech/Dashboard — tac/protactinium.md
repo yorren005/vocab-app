@@ -5,13 +5,6 @@ status: unread
 ---
 # protactinium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short-lived radioactive metallic element formed from uranium and disintegrating into actinium and then into lead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short-lived radioactive metallic element formed from uranium and disintegrating into actinium and then into lead.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protactinium designates a short-lived radioactive metallic element formed from uranium and disintegrating into actinium and then into lead."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short-lived radioactive metallic element formed from uranium and disintegrating into actinium and then into lead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short-lived radioactive metallic element formed from uranium and disintegrating into actinium and then into lead.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protactinium designates a short-lived radioactive metallic element formed from uranium and disintegrating into actinium and then into lead."*

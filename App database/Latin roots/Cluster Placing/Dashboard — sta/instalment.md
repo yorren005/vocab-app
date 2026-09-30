@@ -5,15 +5,6 @@ status: unread
 ---
 # instalment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A part of a broadcast serial.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part of a published serial.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Each fair instalment, coat, and several crest, With loyal blazon, evermore be blest!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is it not an easy matter To make William Lord Hastings of our mind For the instalment of this noble Duke In the seat royal of this famous isle?"*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"But to go back to the morning when the first instalment of her story was received."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A part of a broadcast serial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part of a published serial.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Each fair instalment, coat, and several crest, With loyal blazon, evermore be blest!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is it not an easy matter To make William Lord Hastings of our mind For the instalment of this noble Duke In the seat royal of this famous isle?"*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"But to go back to the morning when the first instalment of her story was received."*

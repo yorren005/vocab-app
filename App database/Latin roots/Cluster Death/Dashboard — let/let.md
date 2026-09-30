@@ -5,15 +5,6 @@ status: unread
 ---
 # let
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brutal terrorist group active in kashmir; fights against india with the goal of restoring islamic rule of india.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A serve that strikes the net before falling into the receiver's court; the ball must be served again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be thou the tenth Muse, ten times more in worth Than those old nine which rhymers invocate, And he that calls on thee, let him bring forth Eternal numbers to outlive long date."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O let me suffer (being at your beck) Th’ imprisoned absence of your liberty, And patience tame to sufferance bide each check, Without accusing you of injury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O if, I say, you look upon this verse, When I (perhaps) compounded am with clay, Do not so much as my poor name rehearse; But let your love even with my life decay."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brutal terrorist group active in kashmir; fights against india with the goal of restoring islamic rule of india.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A serve that strikes the net before falling into the receiver's court; the ball must be served again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be thou the tenth Muse, ten times more in worth Than those old nine which rhymers invocate, And he that calls on thee, let him bring forth Eternal numbers to outlive long date."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O let me suffer (being at your beck) Th’ imprisoned absence of your liberty, And patience tame to sufferance bide each check, Without accusing you of injury."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O if, I say, you look upon this verse, When I (perhaps) compounded am with clay, Do not so much as my poor name rehearse; But let your love even with my life decay."*

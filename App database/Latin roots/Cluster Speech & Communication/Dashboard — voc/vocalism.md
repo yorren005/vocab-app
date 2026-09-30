@@ -5,13 +5,6 @@ status: unread
 ---
 # vocalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The system of vowels used in a particular language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sound made by the vibration of vocal folds modified by the resonance of the vocal tract.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vocalism designates the system of vowels used in a particular language."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The system of vowels used in a particular language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sound made by the vibration of vocal folds modified by the resonance of the vocal tract.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vocalism designates the system of vowels used in a particular language."*

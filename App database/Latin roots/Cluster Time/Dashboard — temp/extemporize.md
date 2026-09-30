@@ -5,15 +5,6 @@ status: unread
 ---
 # extemporize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Manage in a makeshift way; do with whatever is at hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform without preparation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It is safer to accept any chance that offers itself, and extemporize a procedure to fit it, than to get a good plan matured, and wait for a chance of using it."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It is better to accept any chance that offers itself, and extemporize a procedure to fit it, than to get a good plan matured, and wait for a chance of using it."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Abt Vogler. (After he has been extemporizing upon the musical instrument of his invention.) The Abbe Georg Joseph Vogler was born at Wuerzburg (Bavaria), June 15, 1749; appointed Kappelmeister to the King of Sweden, in 1786."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Manage in a makeshift way; do with whatever is at hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform without preparation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It is safer to accept any chance that offers itself, and extemporize a procedure to fit it, than to get a good plan matured, and wait for a chance of using it."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It is better to accept any chance that offers itself, and extemporize a procedure to fit it, than to get a good plan matured, and wait for a chance of using it."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Abt Vogler. (After he has been extemporizing upon the musical instrument of his invention.) The Abbe Georg Joseph Vogler was born at Wuerzburg (Bavaria), June 15, 1749; appointed Kappelmeister to the King of Sweden, in 1786."*

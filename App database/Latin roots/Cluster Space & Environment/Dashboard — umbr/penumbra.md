@@ -5,15 +5,6 @@ status: unread
 ---
 # penumbra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fringe region of partial shadow around an umbra.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fringe region of partial shadow around an umbra.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He fancied that he had felt himself in the penumbra of a very deep sadness when touching that slight and fragile creature."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He fancied that he had felt himself in the penumbra of a very deep sadness when touching that slight and fragile creature."*
-> - 📜 **James Joyce (*Ulysses*):** *"What spectacle confronted them when they, first the host, then the guest, emerged silently, doubly dark, from obscurity by a passage from the rere of the house into the penumbra of the garden?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fringe region of partial shadow around an umbra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fringe region of partial shadow around an umbra.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He fancied that he had felt himself in the penumbra of a very deep sadness when touching that slight and fragile creature."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He fancied that he had felt himself in the penumbra of a very deep sadness when touching that slight and fragile creature."*
+> - 📜 **James Joyce (*Ulysses*):** *"What spectacle confronted them when they, first the host, then the guest, emerged silently, doubly dark, from obscurity by a passage from the rere of the house into the penumbra of the garden?"*

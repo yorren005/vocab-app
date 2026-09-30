@@ -5,14 +5,6 @@ status: unread
 ---
 # misinformation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Information that is incorrect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Information that is incorrect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Cowardice, though sometimes the effect of natural imbecility, is generally a prejudice of education, or bad habit contracted from misinformation, or misapprehension; and may certainly be cured by experience, and the exercise of reason."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Here is a fact correctly stated; and yet it is phrased with such ingenious infelicity that it can be depended upon to convey misinformation every time it is uncarefully read: By the Salic law no woman or descendant of a woman could occupy the throne."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Information that is incorrect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Information that is incorrect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Cowardice, though sometimes the effect of natural imbecility, is generally a prejudice of education, or bad habit contracted from misinformation, or misapprehension; and may certainly be cured by experience, and the exercise of reason."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Here is a fact correctly stated; and yet it is phrased with such ingenious infelicity that it can be depended upon to convey misinformation every time it is uncarefully read: By the Salic law no woman or descendant of a woman could occupy the throne."*

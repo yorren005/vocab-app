@@ -5,15 +5,6 @@ status: unread
 ---
 # flushed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn red, as if in embarrassment or shame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flow freely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Do you know where he is living?" she cried out, while her cheeks flushed with happiness."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Why, my pet of pets, I could have told you that weeks and weeks ago!” To see Ada lift up her flushed face in joyful surprise, and hold me round the neck, and laugh, and cry, and blush, was so pleasant!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby has but recently taken a passage upward by the vessel, Chadband; and her attention was attracted to that Bark A 1, when she was something flushed by the hot weather."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn red, as if in embarrassment or shame.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flow freely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Do you know where he is living?" she cried out, while her cheeks flushed with happiness."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Why, my pet of pets, I could have told you that weeks and weeks ago!” To see Ada lift up her flushed face in joyful surprise, and hold me round the neck, and laugh, and cry, and blush, was so pleasant!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby has but recently taken a passage upward by the vessel, Chadband; and her attention was attracted to that Bark A 1, when she was something flushed by the hot weather."*

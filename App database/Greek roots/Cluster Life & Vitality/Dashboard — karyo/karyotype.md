@@ -5,13 +5,6 @@ status: unread
 ---
 # karyotype
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The appearance of the chromosomal makeup of a somatic cell in an individual or species (including the number and arrangement and size and structure of the chromosomes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The appearance of the chromosomal makeup of a somatic cell in an individual or species (including the number and arrangement and size and structure of the chromosomes).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, karyotype designates the appearance of the chromosomal makeup of a somatic cell in an individual or species (including the number and arrangement and size and structure of the chromosomes)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The appearance of the chromosomal makeup of a somatic cell in an individual or species (including the number and arrangement and size and structure of the chromosomes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The appearance of the chromosomal makeup of a somatic cell in an individual or species (including the number and arrangement and size and structure of the chromosomes).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, karyotype designates the appearance of the chromosomal makeup of a somatic cell in an individual or species (including the number and arrangement and size and structure of the chromosomes)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # astigmatism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A defect of an optical system (such as a lens) causing rays from a point to fail to meet in a focal point resulting in a blurred and imperfect image.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A defect of vision due to astigmatism of the refractive system of the eye and especially to corneal irregularity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The man with astigmatism, or myopia, or whatever else it is, must get the glasses that will show him the real world, and he is safe, and free to go and come as he pleases."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"ASTIGMATISM AND HERNIA HEALED It is nearly five years since I bought my first copy of Science and Health, the reading of which cured me of chronic constipation, nervous headache, astigmatism, and hernia, in less than four months."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"In February I was able to put away eyeglasses, which I had worn ten years and a half for astigmatism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A defect of an optical system (such as a lens) causing rays from a point to fail to meet in a focal point resulting in a blurred and imperfect image.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A defect of vision due to astigmatism of the refractive system of the eye and especially to corneal irregularity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The man with astigmatism, or myopia, or whatever else it is, must get the glasses that will show him the real world, and he is safe, and free to go and come as he pleases."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"ASTIGMATISM AND HERNIA HEALED It is nearly five years since I bought my first copy of Science and Health, the reading of which cured me of chronic constipation, nervous headache, astigmatism, and hernia, in less than four months."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"In February I was able to put away eyeglasses, which I had worn ten years and a half for astigmatism."*

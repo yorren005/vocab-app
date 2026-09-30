@@ -5,13 +5,6 @@ status: unread
 ---
 # batidaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family coextensive with genus batis: saltworts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family coextensive with genus batis: saltworts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batidaceae designates family coextensive with genus batis: saltworts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Family coextensive with genus batis: saltworts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family coextensive with genus batis: saltworts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batidaceae designates family coextensive with genus batis: saltworts."*

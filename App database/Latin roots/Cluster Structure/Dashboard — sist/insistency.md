@@ -5,13 +5,6 @@ status: unread
 ---
 # insistency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of demanding notice or attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of insisting on something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It is not due to anything in the room,” said Rebecca again with the shrill insistency of terror."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of demanding notice or attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of insisting on something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It is not due to anything in the room,” said Rebecca again with the shrill insistency of terror."*

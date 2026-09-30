@@ -5,15 +5,6 @@ status: unread
 ---
 # distort
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make false by mutilation or addition; as of a message or story.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form into a spiral shape.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"So some with direful strange Grimaces, Within this Dome distort their Faces; Strain, ----squeeze, ----yet loth for to depart, Again they strain--for what? a Fart."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Nay, but they are not to take in a decoction or in nauseous form, so you need not snub that so charming nose, or I shall point out to my friend Arthur what woes he may have to endure in seeing so much beauty that he so loves so much distort."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Seward is loved not only by his household and his friends, but even by his patients, who, being some of them hardly in mental equilibrium, are apt to distort causes and effects."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make false by mutilation or addition; as of a message or story.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form into a spiral shape.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"So some with direful strange Grimaces, Within this Dome distort their Faces; Strain, ----squeeze, ----yet loth for to depart, Again they strain--for what? a Fart."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Nay, but they are not to take in a decoction or in nauseous form, so you need not snub that so charming nose, or I shall point out to my friend Arthur what woes he may have to endure in seeing so much beauty that he so loves so much distort."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Seward is loved not only by his household and his friends, but even by his patients, who, being some of them hardly in mental equilibrium, are apt to distort causes and effects."*

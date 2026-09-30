@@ -5,13 +5,6 @@ status: unread
 ---
 # actinometry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring the intensity of electromagnetic radiation (especially of the sun's rays).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring the intensity of electromagnetic radiation (especially of the sun's rays).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinometry designates measuring the intensity of electromagnetic radiation (especially of the sun's rays)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring the intensity of electromagnetic radiation (especially of the sun's rays).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring the intensity of electromagnetic radiation (especially of the sun's rays).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinometry designates measuring the intensity of electromagnetic radiation (especially of the sun's rays)."*

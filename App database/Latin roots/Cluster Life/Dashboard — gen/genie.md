@@ -5,15 +5,6 @@ status: unread
 ---
 # genie
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (islam) an invisible spirit mentioned in the koran and believed by muslims to inhabit the earth and influence mankind by appearing in the form of humans or animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (islam) an invisible spirit mentioned in the koran and believed by muslims to inhabit the earth and influence mankind by appearing in the form of humans or animals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Squod, like a genie, catches him up, chair and all, and deposits him on the hearth-stone."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"He seemed to me like a genie of the sea; and, as he walked before me, I could not help admiring his stature, which was outlined in black on the luminous horizon."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"He was no longer my equal, but a man of the waters, the genie of the sea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (islam) an invisible spirit mentioned in the koran and believed by muslims to inhabit the earth and influence mankind by appearing in the form of humans or animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (islam) an invisible spirit mentioned in the koran and believed by muslims to inhabit the earth and influence mankind by appearing in the form of humans or animals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Squod, like a genie, catches him up, chair and all, and deposits him on the hearth-stone."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"He seemed to me like a genie of the sea; and, as he walked before me, I could not help admiring his stature, which was outlined in black on the luminous horizon."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"He was no longer my equal, but a man of the waters, the genie of the sea."*

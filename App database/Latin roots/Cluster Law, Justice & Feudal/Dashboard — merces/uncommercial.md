@@ -5,13 +5,6 @@ status: unread
 ---
 # uncommercial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conducive to commercial success; - h.e.clurman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conducive to commercial success; - h.e.clurman.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncommercial designates not conducive to commercial success; - h.e.clurman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conducive to commercial success; - h.e.clurman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conducive to commercial success; - h.e.clurman.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncommercial designates not conducive to commercial success; - h.e.clurman."*

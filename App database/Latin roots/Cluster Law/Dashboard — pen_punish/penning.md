@@ -5,15 +5,6 @@ status: unread
 ---
 # penning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of creating written works.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produce a literary work.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Read thou this challenge; mark but the penning of it."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Writing to Bess and other girl friends in her old home town and penning long letters on thin paper to Momsey and Papa Sherwood in Scotland, did not fill all of these hours when Nan shut herself into that east room."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"Whether they or their judges had any part in penning those laws, which they assumed the liberty of interpreting, and glossing upon at their pleasure?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of creating written works.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produce a literary work.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Read thou this challenge; mark but the penning of it."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Writing to Bess and other girl friends in her old home town and penning long letters on thin paper to Momsey and Papa Sherwood in Scotland, did not fill all of these hours when Nan shut herself into that east room."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"Whether they or their judges had any part in penning those laws, which they assumed the liberty of interpreting, and glossing upon at their pleasure?"*

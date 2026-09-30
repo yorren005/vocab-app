@@ -5,13 +5,6 @@ status: unread
 ---
 # technobabble
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Technical jargon from computing and other high-tech subjects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Technical jargon from computing and other high-tech subjects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technobabble designates technical jargon from computing and other high-tech subjects."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Technical jargon from computing and other high-tech subjects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Technical jargon from computing and other high-tech subjects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technobabble designates technical jargon from computing and other high-tech subjects."*

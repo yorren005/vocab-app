@@ -5,15 +5,6 @@ status: unread
 ---
 # navigable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be sailed on or through safely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to be sailed on or through safely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"First to mention among the means of transportation are the navigable waters--oceans, lakes, rivers, and canals, with the necessary equipment of dredged inlets, harbors, docks, locks, and lighthouses."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Good natural harbors on the waterways leading out to the oceans are a most important kind of national wealth, as are the navigable great lakes within the boundaries or on the borders of a country."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The 295 navigable rivers in the country have a length of 26,400 miles of navigable water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be sailed on or through safely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to be sailed on or through safely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"First to mention among the means of transportation are the navigable waters--oceans, lakes, rivers, and canals, with the necessary equipment of dredged inlets, harbors, docks, locks, and lighthouses."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Good natural harbors on the waterways leading out to the oceans are a most important kind of national wealth, as are the navigable great lakes within the boundaries or on the borders of a country."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The 295 navigable rivers in the country have a length of 26,400 miles of navigable water."*

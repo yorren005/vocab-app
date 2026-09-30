@@ -5,15 +5,6 @@ status: unread
 ---
 # sensuous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking delight in beauty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking delight in beauty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That would depend upon whether the germs of staunch comradeship underlay the temporary emotion, or whether it were a sensuous joy in her form only, with no substratum of everlastingness."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"This sensuous acceptance of the physical joy of life pleased Laura, born a Selincourt, bred in France, and temperamentally out of touch with middle-class England."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Riding was an indulgence which she allowed herself in spite of conscientious qualms; she felt that she enjoyed it in a pagan sensuous way, and always looked forward to renouncing it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking delight in beauty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking delight in beauty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That would depend upon whether the germs of staunch comradeship underlay the temporary emotion, or whether it were a sensuous joy in her form only, with no substratum of everlastingness."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"This sensuous acceptance of the physical joy of life pleased Laura, born a Selincourt, bred in France, and temperamentally out of touch with middle-class England."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Riding was an indulgence which she allowed herself in spite of conscientious qualms; she felt that she enjoyed it in a pagan sensuous way, and always looked forward to renouncing it."*

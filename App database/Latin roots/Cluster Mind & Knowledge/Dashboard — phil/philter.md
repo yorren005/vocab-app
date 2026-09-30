@@ -5,13 +5,6 @@ status: unread
 ---
 # philter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drink credited with magical power; can make the one who takes it love the one who gave it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drink credited with magical power; can make the one who takes it love the one who gave it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And, perchance still failing, then might I expect the common bravo’s steel in my back or the common poisoner’s philter in my wine, my meat, or bread."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drink credited with magical power; can make the one who takes it love the one who gave it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drink credited with magical power; can make the one who takes it love the one who gave it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And, perchance still failing, then might I expect the common bravo’s steel in my back or the common poisoner’s philter in my wine, my meat, or bread."*

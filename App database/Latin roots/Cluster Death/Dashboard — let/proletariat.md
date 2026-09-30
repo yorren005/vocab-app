@@ -5,14 +5,6 @@ status: unread
 ---
 # proletariat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social class comprising those who do manual labor or work for wages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A social class comprising those who do manual labor or work for wages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"It should react upon his metrical vocabulary to its beneficial expansion, by taking him outside his aristocratic circle of language, and keeping him in touch with the great commonalty, the proletariat of speech."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"In addition to the general precepts of economy, we learn that definite regulations were issued prescribing the number and even the nature of the articles to be used by the various ranks of the nobility and by the proletariat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A social class comprising those who do manual labor or work for wages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A social class comprising those who do manual labor or work for wages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"It should react upon his metrical vocabulary to its beneficial expansion, by taking him outside his aristocratic circle of language, and keeping him in touch with the great commonalty, the proletariat of speech."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"In addition to the general precepts of economy, we learn that definite regulations were issued prescribing the number and even the nature of the articles to be used by the various ranks of the nobility and by the proletariat."*

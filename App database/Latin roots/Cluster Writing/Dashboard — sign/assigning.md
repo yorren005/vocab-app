@@ -5,15 +5,6 @@ status: unread
 ---
 # assigning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of distributing something to designated places or persons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an assignment to (a person) to a post, or assign a task to (a person).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"According to the Scriptures, the judgment will result in assigning to men _very different allotments_."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Individual identicards ejected from an aperture, assigning them to a small apartment with sleeping cubicles off a common room."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The surgeon in charge, instead of assigning a female nurse of his own selection to this ward, called for a _volunteer_, among the women nurses of the hospital."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of distributing something to designated places or persons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an assignment to (a person) to a post, or assign a task to (a person).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"According to the Scriptures, the judgment will result in assigning to men _very different allotments_."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Individual identicards ejected from an aperture, assigning them to a small apartment with sleeping cubicles off a common room."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The surgeon in charge, instead of assigning a female nurse of his own selection to this ward, called for a _volunteer_, among the women nurses of the hospital."*

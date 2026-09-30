@@ -5,13 +5,6 @@ status: unread
 ---
 # haematoidin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An orange-yellow pigment in the bile that forms as a product of hemoglobin; excess amounts in the blood produce the yellow appearance observed in jaundice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An orange-yellow pigment in the bile that forms as a product of hemoglobin; excess amounts in the blood produce the yellow appearance observed in jaundice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematoidin designates an orange-yellow pigment in the bile that forms as a product of hemoglobin; excess amounts in the blood produce the yellow appearance observed in jaundice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An orange-yellow pigment in the bile that forms as a product of hemoglobin; excess amounts in the blood produce the yellow appearance observed in jaundice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An orange-yellow pigment in the bile that forms as a product of hemoglobin; excess amounts in the blood produce the yellow appearance observed in jaundice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematoidin designates an orange-yellow pigment in the bile that forms as a product of hemoglobin; excess amounts in the blood produce the yellow appearance observed in jaundice."*

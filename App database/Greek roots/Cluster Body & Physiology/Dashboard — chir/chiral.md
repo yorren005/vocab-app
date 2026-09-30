@@ -5,13 +5,6 @@ status: unread
 ---
 # chiral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a molecule that is not superimposable on its mirror image.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An atom especially in an organic molecule that has four unique atoms or groups attached to it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiral designates of or relating to a molecule that is not superimposable on its mirror image."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a molecule that is not superimposable on its mirror image.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An atom especially in an organic molecule that has four unique atoms or groups attached to it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiral designates of or relating to a molecule that is not superimposable on its mirror image."*

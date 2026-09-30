@@ -5,14 +5,6 @@ status: unread
 ---
 # naturalistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing what is real; not abstract or ideal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing what is real; not abstract or ideal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"This instance serves to illustrate the salient differences between the Chou and Sung art, the two extremes; the Chou art is symbolical and geometrical, the Sung impressionist and naturalistic."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"But the best and most characteristic Sung decoration was a beautiful freehand carving executed with admirable spirit and taste, in those bold, half naturalistic, half idealised sketches which distinguish the art of the time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing what is real; not abstract or ideal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing what is real; not abstract or ideal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"This instance serves to illustrate the salient differences between the Chou and Sung art, the two extremes; the Chou art is symbolical and geometrical, the Sung impressionist and naturalistic."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"But the best and most characteristic Sung decoration was a beautiful freehand carving executed with admirable spirit and taste, in those bold, half naturalistic, half idealised sketches which distinguish the art of the time."*

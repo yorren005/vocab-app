@@ -5,13 +5,6 @@ status: unread
 ---
 # coprolalia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obsessive or uncontrollable use of obscene language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obsessive or uncontrollable use of obscene language.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coprolalia designates obsessive or uncontrollable use of obscene language."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obsessive or uncontrollable use of obscene language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obsessive or uncontrollable use of obscene language.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coprolalia designates obsessive or uncontrollable use of obscene language."*

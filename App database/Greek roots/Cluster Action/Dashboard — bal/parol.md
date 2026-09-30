@@ -5,13 +5,6 @@ status: unread
 ---
 # parol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Word of mouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Word of mouth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The great number of letters received of this class, led her to decide to spend some months at Annapolis, among the camps and records of paroled and exchanged prisoners, for the purpose of answering the inquiries of friends."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Word of mouth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Word of mouth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The great number of letters received of this class, led her to decide to spend some months at Annapolis, among the camps and records of paroled and exchanged prisoners, for the purpose of answering the inquiries of friends."*

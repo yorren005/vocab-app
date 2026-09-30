@@ -5,13 +5,6 @@ status: unread
 ---
 # photophore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light-emitting organ; especially : one of the luminous spots on various marine mostly deep-sea fishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light-emitting organ; especially : one of the luminous spots on various marine mostly deep-sea fishes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photophore designates a light-emitting organ; especially : one of the luminous spots on various marine mostly deep-sea fishes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light-emitting organ; especially : one of the luminous spots on various marine mostly deep-sea fishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light-emitting organ; especially : one of the luminous spots on various marine mostly deep-sea fishes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photophore designates a light-emitting organ; especially : one of the luminous spots on various marine mostly deep-sea fishes."*

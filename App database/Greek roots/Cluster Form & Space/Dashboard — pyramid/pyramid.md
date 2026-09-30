@@ -5,15 +5,6 @@ status: unread
 ---
 # pyramid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient massive structure found especially in Egypt having typically a square ground plan, outside walls in the form of four triangles that meet in a point at the top, and inner sepulchral chambers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure or object of similar form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ANTONY. [_To Caesar_.] Thus do they, sir: they take the flow o’ th’ Nile By certain scales i’ th’ pyramid; they know By th’ height, the lowness, or the mean, if dearth Or foison follow."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They said that Palamon had Arcite’s body Within an inch o’ th’ pyramid, that the cry Was general “À Palamon.” But anon, Th’ assistants made a brave redemption, and The two bold titlers at this instant are Hand to hand at it."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Rather was it a pyramid, four-square, broad at the base, sloping upward not steeply to the apex."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient massive structure found especially in Egypt having typically a square ground plan, outside walls in the form of four triangles that meet in a point at the top, and inner sepulchral chambers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure or object of similar form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ANTONY. [_To Caesar_.] Thus do they, sir: they take the flow o’ th’ Nile By certain scales i’ th’ pyramid; they know By th’ height, the lowness, or the mean, if dearth Or foison follow."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They said that Palamon had Arcite’s body Within an inch o’ th’ pyramid, that the cry Was general “À Palamon.” But anon, Th’ assistants made a brave redemption, and The two bold titlers at this instant are Hand to hand at it."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Rather was it a pyramid, four-square, broad at the base, sloping upward not steeply to the apex."*

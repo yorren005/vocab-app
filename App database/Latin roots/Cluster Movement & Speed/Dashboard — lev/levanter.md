@@ -5,15 +5,6 @@ status: unread
 ---
 # levanter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An easterly wind in the western mediterranean area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An easterly wind in the western mediterranean area.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So that Monsoons, Pampas, Nor-Westers, Harmattans, Trades; any wind but the Levanter and Simoom, might blow Moby Dick into the devious zig-zag world-circle of the Pequod’s circumnavigating wake."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And then came "a tempestuous wind, called Euroclydon." And that was the Levanter of to-day, Euraquilo, they call it--hell let loose."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"So that Monsoons, Pampas, Nor’-Westers, Harmattans, Trades; any wind but the Levanter and Simoon, might blow Moby Dick into the devious zig-zag world-circle of the Pequod’s circumnavigating wake."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An easterly wind in the western mediterranean area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An easterly wind in the western mediterranean area.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So that Monsoons, Pampas, Nor-Westers, Harmattans, Trades; any wind but the Levanter and Simoom, might blow Moby Dick into the devious zig-zag world-circle of the Pequod’s circumnavigating wake."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And then came "a tempestuous wind, called Euroclydon." And that was the Levanter of to-day, Euraquilo, they call it--hell let loose."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"So that Monsoons, Pampas, Nor’-Westers, Harmattans, Trades; any wind but the Levanter and Simoon, might blow Moby Dick into the devious zig-zag world-circle of the Pequod’s circumnavigating wake."*

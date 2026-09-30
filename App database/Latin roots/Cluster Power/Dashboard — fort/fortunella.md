@@ -5,13 +5,6 @@ status: unread
 ---
 # fortunella
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of shrubs native to south china producing small ovoid fruits resembling oranges: includes kumquats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of shrubs native to south china producing small ovoid fruits resembling oranges: includes kumquats.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fortunella designates small genus of shrubs native to south china producing small ovoid fruits resembling oranges: includes kumquats."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of shrubs native to south china producing small ovoid fruits resembling oranges: includes kumquats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of shrubs native to south china producing small ovoid fruits resembling oranges: includes kumquats.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fortunella designates small genus of shrubs native to south china producing small ovoid fruits resembling oranges: includes kumquats."*

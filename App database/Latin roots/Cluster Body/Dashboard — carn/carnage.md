@@ -5,15 +5,6 @@ status: unread
 ---
 # carnage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The savage and excessive killing of many people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The savage and excessive killing of many people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"A light fall of snow had obliterated all footmarks; and a deathly silence pervaded the island, as if for a space Nature stood still in horror of the recent carnage."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Sparta was little better than a wellregulated camp; and Rome was never sated of carnage and conquest."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The intervals of foreign war were filled up by domestic vicissitudes convulsions, and carnage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The savage and excessive killing of many people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The savage and excessive killing of many people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"A light fall of snow had obliterated all footmarks; and a deathly silence pervaded the island, as if for a space Nature stood still in horror of the recent carnage."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Sparta was little better than a wellregulated camp; and Rome was never sated of carnage and conquest."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The intervals of foreign war were filled up by domestic vicissitudes convulsions, and carnage."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # debussy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French composer who is said to have created impressionism in music (1862-1918).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French composer who is said to have created impressionism in music (1862-1918).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Laura, in a plain black dress, was at the piano, the cool drenched foliage of Claude Debussy's rainwet gardens rustling under her magic fingers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French composer who is said to have created impressionism in music (1862-1918).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French composer who is said to have created impressionism in music (1862-1918).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Laura, in a plain black dress, was at the piano, the cool drenched foliage of Claude Debussy's rainwet gardens rustling under her magic fingers."*

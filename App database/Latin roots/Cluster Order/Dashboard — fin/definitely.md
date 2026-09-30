@@ -5,15 +5,6 @@ status: unread
 ---
 # definitely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without question and beyond doubt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without question and beyond doubt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius had been definitely ordered to change his usual mode of behaviour."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I didn’t definitely promise Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The first time that she definitely noticed her position was when she reached a gate leading into a thicket overhung by some large oak and beech trees."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without question and beyond doubt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without question and beyond doubt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius had been definitely ordered to change his usual mode of behaviour."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I didn’t definitely promise Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The first time that she definitely noticed her position was when she reached a gate leading into a thicket overhung by some large oak and beech trees."*

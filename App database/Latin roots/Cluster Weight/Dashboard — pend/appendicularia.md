@@ -5,13 +5,6 @@ status: unread
 ---
 # appendicularia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free-swimming tadpole-shaped pelagic tunicate resembling larvae of other tunicates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free-swimming tadpole-shaped pelagic tunicate resembling larvae of other tunicates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appendicularia designates free-swimming tadpole-shaped pelagic tunicate resembling larvae of other tunicates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free-swimming tadpole-shaped pelagic tunicate resembling larvae of other tunicates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free-swimming tadpole-shaped pelagic tunicate resembling larvae of other tunicates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appendicularia designates free-swimming tadpole-shaped pelagic tunicate resembling larvae of other tunicates."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # homage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Respectful deference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Respectful deference.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me have a child at fifty, to whom Herod of Jewry may do homage."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know his eye doth homage otherwhere, Or else what lets it but he would be here?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if that I am I, then well I know Your weeping sister is no wife of mine, Nor to her bed no homage do I owe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Respectful deference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Respectful deference.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me have a child at fifty, to whom Herod of Jewry may do homage."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know his eye doth homage otherwhere, Or else what lets it but he would be here?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if that I am I, then well I know Your weeping sister is no wife of mine, Nor to her bed no homage do I owe."*

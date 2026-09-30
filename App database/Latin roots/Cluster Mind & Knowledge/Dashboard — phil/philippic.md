@@ -5,13 +5,6 @@ status: unread
 ---
 # philippic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A speech of violent denunciation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speech of violent denunciation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Bickerdyke's philippic--She procures his dismissal--His interview with General Sherman--"She ranks me"--The commanding generals appreciate her--Convalescent soldiers _vs._ colored nurses--The Medical Director's order--Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A speech of violent denunciation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speech of violent denunciation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Bickerdyke's philippic--She procures his dismissal--His interview with General Sherman--"She ranks me"--The commanding generals appreciate her--Convalescent soldiers _vs._ colored nurses--The Medical Director's order--Mrs."*

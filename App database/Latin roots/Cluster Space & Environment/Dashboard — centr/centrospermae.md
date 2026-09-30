@@ -5,13 +5,6 @@ status: unread
 ---
 # centrospermae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in former classification systems; approximately synonymous with order caryophyllales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in former classification systems; approximately synonymous with order caryophyllales.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrospermae designates used in former classification systems; approximately synonymous with order caryophyllales."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in former classification systems; approximately synonymous with order caryophyllales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in former classification systems; approximately synonymous with order caryophyllales.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrospermae designates used in former classification systems; approximately synonymous with order caryophyllales."*

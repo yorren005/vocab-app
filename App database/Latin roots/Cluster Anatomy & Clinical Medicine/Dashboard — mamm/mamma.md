@@ -5,15 +5,6 @@ status: unread
 ---
 # mamma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal terms for a mother.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Milk-secreting organ of female mammals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Nobody doubts her right to have precedence of mamma, but it would be more becoming in her not to be always insisting on it."*
-> - 📜 **Jane Austen (*Persuasion*):** *"It is not that mamma cares about it the least in the world, but I know it is taken notice of by many persons.” How was Anne to set all these matters to rights?"*
-> - 📜 **Jane Austen (*Persuasion*):** *"I am come on to give you notice, that papa and mamma are out of spirits this evening, especially mamma; she is thinking so much of poor Richard!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal terms for a mother.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Milk-secreting organ of female mammals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Nobody doubts her right to have precedence of mamma, but it would be more becoming in her not to be always insisting on it."*
+> - 📜 **Jane Austen (*Persuasion*):** *"It is not that mamma cares about it the least in the world, but I know it is taken notice of by many persons.” How was Anne to set all these matters to rights?"*
+> - 📜 **Jane Austen (*Persuasion*):** *"I am come on to give you notice, that papa and mamma are out of spirits this evening, especially mamma; she is thinking so much of poor Richard!"*

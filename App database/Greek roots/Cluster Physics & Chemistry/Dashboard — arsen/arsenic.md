@@ -5,15 +5,6 @@ status: unread
 ---
 # arsenic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid chemical element that is used especially in wood preservatives, alloys, and semiconductors and is extremely toxic in both pure and combined forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poisonous trioxide As2O3 or As4O6 of arsenic used especially as an insecticide or weed killer —called also arsenic trioxide.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"As to his religious notions—why, as Voltaire said, incantations will destroy a flock of sheep if administered with a certain quantity of arsenic."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I look for the man who will bring the arsenic, and don’t mind about his incantations.” “Very good."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But then you must not offend your arsenic-man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid chemical element that is used especially in wood preservatives, alloys, and semiconductors and is extremely toxic in both pure and combined forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poisonous trioxide As2O3 or As4O6 of arsenic used especially as an insecticide or weed killer —called also arsenic trioxide.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"As to his religious notions—why, as Voltaire said, incantations will destroy a flock of sheep if administered with a certain quantity of arsenic."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I look for the man who will bring the arsenic, and don’t mind about his incantations.” “Very good."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But then you must not offend your arsenic-man."*

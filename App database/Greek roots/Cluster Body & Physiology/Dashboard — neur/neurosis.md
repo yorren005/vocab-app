@@ -5,13 +5,6 @@ status: unread
 ---
 # neurosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental and emotional disorder that affects only part of the personality, is accompanied by a less distorted perception of reality than in a psychosis, does not result in disturbance of the use of language, and is accompanied by various physical, physiological, and mental disturbances (such as visceral symptoms, anxieties, or phobias).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anxiety disorder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurosis designates a mental and emotional disorder that affects only part of the personality, is accompanied by a less distorted perception of reality than in a psychosis, does not result in disturbance of the use of language, and is accompanied by various physical, physiological, and mental disturbances (such as visceral symptoms, anxieties, or phobias)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental and emotional disorder that affects only part of the personality, is accompanied by a less distorted perception of reality than in a psychosis, does not result in disturbance of the use of language, and is accompanied by various physical, physiological, and mental disturbances (such as visceral symptoms, anxieties, or phobias).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anxiety disorder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurosis designates a mental and emotional disorder that affects only part of the personality, is accompanied by a less distorted perception of reality than in a psychosis, does not result in disturbance of the use of language, and is accompanied by various physical, physiological, and mental disturbances (such as visceral symptoms, anxieties, or phobias)."*

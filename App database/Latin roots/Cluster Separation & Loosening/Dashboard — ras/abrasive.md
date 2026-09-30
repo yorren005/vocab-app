@@ -5,14 +5,6 @@ status: unread
 ---
 # abrasive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that abrades or wears down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing abrasion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His abrasive voice matched his heavy features and rotund body."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"After some experimenting he found a finger-hole which, when squeezed, caused this emery-cloth to revolve, giving a satisfactory abrasive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that abrades or wears down.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing abrasion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His abrasive voice matched his heavy features and rotund body."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"After some experimenting he found a finger-hole which, when squeezed, caused this emery-cloth to revolve, giving a satisfactory abrasive."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # expedite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speed up the progress of; facilitate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Process fast and efficiently.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Since such were her feelings, it only remained, he thought, to secure and expedite a marriage, which, in his very first conversation with Wickham, he easily learnt had never been _his_ design."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Urge special effort to expedite work of Temple, reinforce pioneer endeavor in Europe owing to deteriorating international situation."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"When later on in his memoirs Count Rostopchín explained his actions at this time, he repeatedly says that he was then actuated by two important considerations: to maintain tranquillity in Moscow and expedite the departure of the inhabitants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speed up the progress of; facilitate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Process fast and efficiently.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Since such were her feelings, it only remained, he thought, to secure and expedite a marriage, which, in his very first conversation with Wickham, he easily learnt had never been _his_ design."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Urge special effort to expedite work of Temple, reinforce pioneer endeavor in Europe owing to deteriorating international situation."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"When later on in his memoirs Count Rostopchín explained his actions at this time, he repeatedly says that he was then actuated by two important considerations: to maintain tranquillity in Moscow and expedite the departure of the inhabitants."*

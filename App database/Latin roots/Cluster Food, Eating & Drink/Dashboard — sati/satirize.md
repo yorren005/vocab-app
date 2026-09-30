@@ -5,15 +5,6 @@ status: unread
 ---
 # satirize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ridicule with satire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ridicule with satire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"In it we are presented with a number of pictures of the utterly fossilized condition of the clergy of the day in the Established Church (see especially book II., vv. 326-832, in which he satirizes the clergy and the universities)."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Hammerdown is sitting on the great mahogany dining-tables, in the dining-room below, waving the ivory hammer, and employing all the artifices of eloquence, enthusiasm, entreaty, reason, despair; shouting to his people; satirizing Mr."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"V― having satirized a nobleman who was powerful at court, the latter sought every occasion to revenge himself, and challenged V― to fight him with swords."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ridicule with satire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ridicule with satire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"In it we are presented with a number of pictures of the utterly fossilized condition of the clergy of the day in the Established Church (see especially book II., vv. 326-832, in which he satirizes the clergy and the universities)."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Hammerdown is sitting on the great mahogany dining-tables, in the dining-room below, waving the ivory hammer, and employing all the artifices of eloquence, enthusiasm, entreaty, reason, despair; shouting to his people; satirizing Mr."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"V― having satirized a nobleman who was powerful at court, the latter sought every occasion to revenge himself, and challenged V― to fight him with swords."*

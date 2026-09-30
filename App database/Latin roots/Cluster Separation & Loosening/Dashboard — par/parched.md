@@ -5,15 +5,6 @@ status: unread
 ---
 # parched
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to wither or parch from exposure to heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dried out by heat or excessive exposure to sunlight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, hath thy fiery heart so parched thine entrails That not a tear can fall for Rutland’s death?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Though he crosses one leg on another, and folds his hands, and several times closes and opens his parched lips, he seems to all intents and purposes as insensible as before."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"My veins were swollen, the blood coursing through them like a high-flowing river; my tongue was parched and dry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to wither or parch from exposure to heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dried out by heat or excessive exposure to sunlight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, hath thy fiery heart so parched thine entrails That not a tear can fall for Rutland’s death?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Though he crosses one leg on another, and folds his hands, and several times closes and opens his parched lips, he seems to all intents and purposes as insensible as before."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"My veins were swollen, the blood coursing through them like a high-flowing river; my tongue was parched and dry."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # tendril
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slender stem-like structure by which some twining plants attach themselves to an object for support.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slender stem-like structure by which some twining plants attach themselves to an object for support.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Sallie has got a tendril around Henrietta which grows by the day."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I seemed to see the little green tendril that had unclasped from the oak turning on its stem and winding tight again."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I'll begin at the beginning and some way unclasp those gourdy tendrils that Sallie has been strangling him with."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Slender stem-like structure by which some twining plants attach themselves to an object for support.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slender stem-like structure by which some twining plants attach themselves to an object for support.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Sallie has got a tendril around Henrietta which grows by the day."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I seemed to see the little green tendril that had unclasped from the oak turning on its stem and winding tight again."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I'll begin at the beginning and some way unclasp those gourdy tendrils that Sallie has been strangling him with."*

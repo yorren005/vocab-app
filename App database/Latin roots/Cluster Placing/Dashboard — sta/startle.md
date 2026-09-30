@@ -5,15 +5,6 @@ status: unread
 ---
 # startle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden involuntary movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To stimulate to action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Patience herself would startle at this letter And play the swaggerer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll startle you Worse than the sacring bell when the brown wench Lay kissing in your arms, Lord Cardinal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou little know’st how thou dost startle me, To call thyself Marina."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden involuntary movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To stimulate to action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Patience herself would startle at this letter And play the swaggerer."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll startle you Worse than the sacring bell when the brown wench Lay kissing in your arms, Lord Cardinal."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou little know’st how thou dost startle me, To call thyself Marina."*

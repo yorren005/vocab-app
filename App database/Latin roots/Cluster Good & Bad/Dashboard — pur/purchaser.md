@@ -5,15 +5,6 @@ status: unread
 ---
 # purchaser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who buys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who buys.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Allston, and was anxious to know who was the fortunate purchaser of the painting of the 'Angel Uriel,' which had won the prize at the exhibition of the Royal Academy."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The gas was relighted, and various articles were selected; the purchaser then asked for the account, and the money was paid--_a little more than_ £30."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The purchaser of some kinds of property in times of depression is securing them at a lower capitalization than they will later have."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who buys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who buys.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Allston, and was anxious to know who was the fortunate purchaser of the painting of the 'Angel Uriel,' which had won the prize at the exhibition of the Royal Academy."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The gas was relighted, and various articles were selected; the purchaser then asked for the account, and the money was paid--_a little more than_ £30."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The purchaser of some kinds of property in times of depression is securing them at a lower capitalization than they will later have."*

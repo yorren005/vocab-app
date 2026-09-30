@@ -5,13 +5,6 @@ status: unread
 ---
 # tectaria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Terrestrial or epilithic ferns of tropical rain forests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terrestrial or epilithic ferns of tropical rain forests.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tectaria designates terrestrial or epilithic ferns of tropical rain forests."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Terrestrial or epilithic ferns of tropical rain forests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terrestrial or epilithic ferns of tropical rain forests.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tectaria designates terrestrial or epilithic ferns of tropical rain forests."*

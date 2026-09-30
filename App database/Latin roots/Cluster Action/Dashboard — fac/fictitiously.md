@@ -5,13 +5,6 @@ status: unread
 ---
 # fictitiously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a false manner intended to mislead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a fictional manner (created by the imagination).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fictitiously designates in a false manner intended to mislead."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a false manner intended to mislead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a fictional manner (created by the imagination).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fictitiously designates in a false manner intended to mislead."*

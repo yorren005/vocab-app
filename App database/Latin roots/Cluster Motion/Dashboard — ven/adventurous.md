@@ -5,15 +5,6 @@ status: unread
 ---
 # adventurous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Willing to undertake or seeking out new and daring enterprises.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willing to undertake or seeking out new and daring enterprises.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if I cannot win you to this love, Go search like nobles, like noble subjects, And in your search spend your adventurous worth; Whom if you find, and win unto return, You shall like diamonds sit about his crown."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I lie in a shady place like this and think of adventurous spirits going to the North Pole or penetrating to the heart of the Torrid Zone with admiration."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba’s adventurous spirit was beginning to find some grains of relish in these highly novel proceedings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Willing to undertake or seeking out new and daring enterprises.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willing to undertake or seeking out new and daring enterprises.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if I cannot win you to this love, Go search like nobles, like noble subjects, And in your search spend your adventurous worth; Whom if you find, and win unto return, You shall like diamonds sit about his crown."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I lie in a shady place like this and think of adventurous spirits going to the North Pole or penetrating to the heart of the Torrid Zone with admiration."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba’s adventurous spirit was beginning to find some grains of relish in these highly novel proceedings."*

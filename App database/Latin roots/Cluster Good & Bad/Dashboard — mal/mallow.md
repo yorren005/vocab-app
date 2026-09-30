@@ -5,15 +5,6 @@ status: unread
 ---
 # mallow
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the family malvaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the family malvaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She had had a season in Dublin, and who knows how many in Cork, Killarney, and Mallow?"*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"The flowers that she had planted herself long ago had bloomed all summer in the garden; there were still some ragged sailors and the snowberries and phlox and her favorite white mallows, of which she picked herself a posy."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"She was certainly a good-looking woman, and stepped modestly and soberly along the walk between the mallows and marigolds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the family malvaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the family malvaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She had had a season in Dublin, and who knows how many in Cork, Killarney, and Mallow?"*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"The flowers that she had planted herself long ago had bloomed all summer in the garden; there were still some ragged sailors and the snowberries and phlox and her favorite white mallows, of which she picked herself a posy."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"She was certainly a good-looking woman, and stepped modestly and soberly along the walk between the mallows and marigolds."*

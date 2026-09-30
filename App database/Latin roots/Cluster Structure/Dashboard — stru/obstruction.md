@@ -5,15 +5,6 @@ status: unread
 ---
 # obstruction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any structure that makes progress difficult.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical condition of blocking or filling a passage with an obstruction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is no obstruction in this."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could be sad: this does make some obstruction in the blood, this cross-gartering."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, it hath bay windows transparent as barricadoes, and the clerestories toward the south-north are as lustrous as ebony; and yet complainest thou of obstruction?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any structure that makes progress difficult.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical condition of blocking or filling a passage with an obstruction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is no obstruction in this."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could be sad: this does make some obstruction in the blood, this cross-gartering."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, it hath bay windows transparent as barricadoes, and the clerestories toward the south-north are as lustrous as ebony; and yet complainest thou of obstruction?"*

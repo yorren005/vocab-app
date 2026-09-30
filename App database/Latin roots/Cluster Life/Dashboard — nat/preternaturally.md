@@ -5,15 +5,6 @@ status: unread
 ---
 # preternaturally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a supernatural manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a supernatural manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"It did not need a preternaturally keen observer to deduce what had happened."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"They were at this period extravagantly and preternaturally fond of me; which, after all, I could reflect, was no more than a graceful response in children perpetually bowed over and hugged."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"I preternaturally listened; I figured to myself what might portentously be; I wondered if his bed were also empty and he too were secretly at watch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a supernatural manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a supernatural manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"It did not need a preternaturally keen observer to deduce what had happened."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"They were at this period extravagantly and preternaturally fond of me; which, after all, I could reflect, was no more than a graceful response in children perpetually bowed over and hugged."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"I preternaturally listened; I figured to myself what might portentously be; I wondered if his bed were also empty and he too were secretly at watch."*

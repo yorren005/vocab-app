@@ -5,13 +5,6 @@ status: unread
 ---
 # duramen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The older inactive central wood of a tree or woody plant; usually darker and denser than the surrounding sapwood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The older inactive central wood of a tree or woody plant; usually darker and denser than the surrounding sapwood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, duramen designates the older inactive central wood of a tree or woody plant; usually darker and denser than the surrounding sapwood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The older inactive central wood of a tree or woody plant; usually darker and denser than the surrounding sapwood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The older inactive central wood of a tree or woody plant; usually darker and denser than the surrounding sapwood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, duramen designates the older inactive central wood of a tree or woody plant; usually darker and denser than the surrounding sapwood."*

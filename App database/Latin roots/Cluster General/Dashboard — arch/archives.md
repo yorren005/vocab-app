@@ -5,15 +5,6 @@ status: unread
 ---
 # archives
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Collection of records especially about an institution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A depository containing historical records and documents.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"I might collect vouchers in abundance from the records and archives of every State in the Union."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The spunnel communications channels were loaded with traffic, and archives throughout the system opened, many for the first time in millennia."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The UIPS searched the ancient archives of Earth's military history and designed weapons of defense and offense."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Collection of records especially about an institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A depository containing historical records and documents.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"I might collect vouchers in abundance from the records and archives of every State in the Union."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The spunnel communications channels were loaded with traffic, and archives throughout the system opened, many for the first time in millennia."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The UIPS searched the ancient archives of Earth's military history and designed weapons of defense and offense."*

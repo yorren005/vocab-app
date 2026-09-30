@@ -5,13 +5,6 @@ status: unread
 ---
 # victualler
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An innkeeper (especially british).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supplier of victuals or supplies to an army.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"At least my friends are all in the _public_ line, and it might not suit to have it moved at a special vestry by John Gage at the Crown and Horseshoe, licensed victualler, and seconded by Joseph Horner of the Green Dragon, ditto, that the Rev."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An innkeeper (especially british).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supplier of victuals or supplies to an army.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"At least my friends are all in the _public_ line, and it might not suit to have it moved at a special vestry by John Gage at the Crown and Horseshoe, licensed victualler, and seconded by Joseph Horner of the Green Dragon, ditto, that the Rev."*

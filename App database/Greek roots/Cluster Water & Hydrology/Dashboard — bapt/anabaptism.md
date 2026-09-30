@@ -5,13 +5,6 @@ status: unread
 ---
 # anabaptism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A protestant movement in the 16th century that believed in the primacy of the bible, baptised only believers, not infants, and believed in complete separation of church and state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protestant movement in the 16th century that believed in the primacy of the bible, baptised only believers, not infants, and believed in complete separation of church and state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anabaptism designates a protestant movement in the 16th century that believed in the primacy of the bible, baptised only believers, not infants, and believed in complete separation of church and state."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A protestant movement in the 16th century that believed in the primacy of the bible, baptised only believers, not infants, and believed in complete separation of church and state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protestant movement in the 16th century that believed in the primacy of the bible, baptised only believers, not infants, and believed in complete separation of church and state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anabaptism designates a protestant movement in the 16th century that believed in the primacy of the bible, baptised only believers, not infants, and believed in complete separation of church and state."*

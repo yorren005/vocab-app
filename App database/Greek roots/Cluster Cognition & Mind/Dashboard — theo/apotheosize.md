@@ -5,13 +5,6 @@ status: unread
 ---
 # apotheosize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deify or glorify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deify or glorify.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The ecstasy of faith almost apotheosized her; it set upon her face a glowing irradiation, and brought a red spot into the middle of each cheek; while the miniature candle-flame inverted in her eye-pupils shone like a diamond."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deify or glorify.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deify or glorify.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The ecstasy of faith almost apotheosized her; it set upon her face a glowing irradiation, and brought a red spot into the middle of each cheek; while the miniature candle-flame inverted in her eye-pupils shone like a diamond."*

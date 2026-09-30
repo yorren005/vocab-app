@@ -5,15 +5,6 @@ status: unread
 ---
 # signor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used as an italian courtesy title; can be prefixed to the name or used separately.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used as an italian courtesy title; can be prefixed to the name or used separately.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HORTENSIO. _Alla nostra casa ben venuto; molto honorato signor mio Petruchio._ Rise, Grumio, rise: we will compound this quarrel."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"I have also received a letter on the subject from Signor Carlo Placci, dated 4 (or 7) September, 1905, 1 Via Alfieri, Firenze. [316] Frederick Starr, "Holy Week in Mexico," _The Journal of American Folk-lore_, xii. (1899) pp. 164 _sq._; C."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Dinsmore and Lulu Raymond in regard to her refusal to take music-lessons of Signor Foresti after he had struck her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used as an italian courtesy title; can be prefixed to the name or used separately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used as an italian courtesy title; can be prefixed to the name or used separately.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HORTENSIO. _Alla nostra casa ben venuto; molto honorato signor mio Petruchio._ Rise, Grumio, rise: we will compound this quarrel."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"I have also received a letter on the subject from Signor Carlo Placci, dated 4 (or 7) September, 1905, 1 Via Alfieri, Firenze. [316] Frederick Starr, "Holy Week in Mexico," _The Journal of American Folk-lore_, xii. (1899) pp. 164 _sq._; C."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Dinsmore and Lulu Raymond in regard to her refusal to take music-lessons of Signor Foresti after he had struck her."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # victorious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having won.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Experiencing triumph.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know, my hearts, I hope well of tomorrow, and will lead you Where rather I’ll expect victorious life Than death and honour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a stem Of that victorious stock; and let us fear The native mightiness and fate of him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Victorious Talbot, pardon my abuse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having won.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Experiencing triumph.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know, my hearts, I hope well of tomorrow, and will lead you Where rather I’ll expect victorious life Than death and honour."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a stem Of that victorious stock; and let us fear The native mightiness and fate of him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Victorious Talbot, pardon my abuse."*

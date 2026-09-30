@@ -5,13 +5,6 @@ status: unread
 ---
 # oxygenise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change (a compound) by increasing the proportion of the electronegative part; or change (an element or ion) from a lower to a higher positive valence: remove one or more electrons from (an atom, ion, or molecule).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dehydrogenate with oxygen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oxygenise designates change (a compound) by increasing the proportion of the electronegative part; or change (an element or ion) from a lower to a higher positive valence: remove one or more electrons from (an atom, ion, or molecule)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Change (a compound) by increasing the proportion of the electronegative part; or change (an element or ion) from a lower to a higher positive valence: remove one or more electrons from (an atom, ion, or molecule).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dehydrogenate with oxygen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oxygenise designates change (a compound) by increasing the proportion of the electronegative part; or change (an element or ion) from a lower to a higher positive valence: remove one or more electrons from (an atom, ion, or molecule)."*

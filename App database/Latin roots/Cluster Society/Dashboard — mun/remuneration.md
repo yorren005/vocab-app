@@ -5,15 +5,6 @@ status: unread
 ---
 # remuneration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that remunerates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of paying for goods or services or to recompense for losses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now will I look to his remuneration."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Three farthings—_remuneration_."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What’s the price of this inkle?” “One penny.” “No, I’ll give you a remuneration.” Why, it carries it! _Remuneration_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that remunerates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of paying for goods or services or to recompense for losses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now will I look to his remuneration."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Three farthings—_remuneration_."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What’s the price of this inkle?” “One penny.” “No, I’ll give you a remuneration.” Why, it carries it! _Remuneration_."*

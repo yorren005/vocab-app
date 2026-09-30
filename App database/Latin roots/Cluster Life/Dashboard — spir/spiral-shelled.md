@@ -5,13 +5,6 @@ status: unread
 ---
 # spiral-shelled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a shell that forms a spiral.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a shell that forms a spiral.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spiral-shelled designates having a shell that forms a spiral."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a shell that forms a spiral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a shell that forms a spiral.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spiral-shelled designates having a shell that forms a spiral."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # indic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of the indo-iranian family of languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of the indo-iranian family of languages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"With present computer networking capabilities the resources indices in such guides can be readily maintained current and widely disseminated throughout a region and on and among military installations."*
-> - 📜 **James Joyce (*Ulysses*):** *"Gone the nine men’s morrice with caps of indices."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Popular opinion among children, as among men, is of ten just, but as often very unjust; for the same manifestations may proceed from opposite principles; and, therefore, as indices to character, may mislead as often as enlighten."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of the indo-iranian family of languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of the indo-iranian family of languages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"With present computer networking capabilities the resources indices in such guides can be readily maintained current and widely disseminated throughout a region and on and among military installations."*
+> - 📜 **James Joyce (*Ulysses*):** *"Gone the nine men’s morrice with caps of indices."*
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Popular opinion among children, as among men, is of ten just, but as often very unjust; for the same manifestations may proceed from opposite principles; and, therefore, as indices to character, may mislead as often as enlighten."*

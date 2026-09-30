@@ -5,15 +5,6 @@ status: unread
 ---
 # rancour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of deep and bitter anger and ill-will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of deep and bitter anger and ill-will.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virtue is choked with foul ambition, And charity chased hence by rancour’s hand; Foul subornation is predominant, And equity exiled your highness’ land."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What! bear her in hand until they come to take hands, and then, with public accusation, uncovered slander, unmitigated rancour,—O God, that I were a man!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The broken rancour of your high-swoll’n hates, But lately splintered, knit, and joined together, Must gently be preserved, cherished, and kept."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of deep and bitter anger and ill-will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of deep and bitter anger and ill-will.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virtue is choked with foul ambition, And charity chased hence by rancour’s hand; Foul subornation is predominant, And equity exiled your highness’ land."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What! bear her in hand until they come to take hands, and then, with public accusation, uncovered slander, unmitigated rancour,—O God, that I were a man!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The broken rancour of your high-swoll’n hates, But lately splintered, knit, and joined together, Must gently be preserved, cherished, and kept."*

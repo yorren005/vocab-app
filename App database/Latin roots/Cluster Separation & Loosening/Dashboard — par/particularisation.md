@@ -5,13 +5,6 @@ status: unread
 ---
 # particularisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An individualized description of a particular instance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individualized description of a particular instance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, particularisation designates an individualized description of a particular instance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individualized description of a particular instance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individualized description of a particular instance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, particularisation designates an individualized description of a particular instance."*

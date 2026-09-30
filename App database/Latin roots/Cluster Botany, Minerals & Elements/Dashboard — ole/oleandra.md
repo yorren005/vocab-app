@@ -5,13 +5,6 @@ status: unread
 ---
 # oleandra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Or family polypodiaceae: tropical epiphytic or terrestrial ferns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Or family polypodiaceae: tropical epiphytic or terrestrial ferns.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oleandra designates or family polypodiaceae: tropical epiphytic or terrestrial ferns."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Or family polypodiaceae: tropical epiphytic or terrestrial ferns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Or family polypodiaceae: tropical epiphytic or terrestrial ferns.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oleandra designates or family polypodiaceae: tropical epiphytic or terrestrial ferns."*

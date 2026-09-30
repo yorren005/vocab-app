@@ -5,15 +5,6 @@ status: unread
 ---
 # selenium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic nonmetallic element related to sulfur and tellurium; occurs in several allotropic forms; a stable grey metallike allotrope conducts electricity better in the light than in the dark and is used in photocells; occurs in sulfide ores (as pyrite).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toxic nonmetallic element related to sulfur and tellurium; occurs in several allotropic forms; a stable grey metallike allotrope conducts electricity better in the light than in the dark and is used in photocells; occurs in sulfide ores (as pyrite).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The basis of it is a peculiar power possessed by the metal selenium when in a certain state."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Now the special feature of selenium is that its resistance is reduced if light shine upon it."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Suppose, then, that current be flowing through a mass of selenium and that the latter be suddenly illuminated brightly, the resistance will at once fall and the current increase."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic nonmetallic element related to sulfur and tellurium; occurs in several allotropic forms; a stable grey metallike allotrope conducts electricity better in the light than in the dark and is used in photocells; occurs in sulfide ores (as pyrite).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toxic nonmetallic element related to sulfur and tellurium; occurs in several allotropic forms; a stable grey metallike allotrope conducts electricity better in the light than in the dark and is used in photocells; occurs in sulfide ores (as pyrite).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The basis of it is a peculiar power possessed by the metal selenium when in a certain state."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Now the special feature of selenium is that its resistance is reduced if light shine upon it."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Suppose, then, that current be flowing through a mass of selenium and that the latter be suddenly illuminated brightly, the resistance will at once fall and the current increase."*

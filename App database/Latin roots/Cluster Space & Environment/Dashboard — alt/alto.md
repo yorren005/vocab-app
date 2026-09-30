@@ -5,15 +5,6 @@ status: unread
 ---
 # alto
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A singer whose voice lies in the alto clef.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest female singing voice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Well, this curate was only nineteen." And then, coming out into the fading light, she locked the north door behind her and went off whistling like a blackbird, if a blackbird could whistle the alto of Calkin's Magnificat in B flat. . . ."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The tomb is of pure white marble, surmounted by a tablet of the same, which in alto relievo, represents a female figure ministering to a soldier, who lies upon a couch."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"It would do no possible good, and would only make her unhappy to grieve me.” “'O wert thou in the cauld blast,'” chimed in Alice's alto, low and sweet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A singer whose voice lies in the alto clef.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest female singing voice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Well, this curate was only nineteen." And then, coming out into the fading light, she locked the north door behind her and went off whistling like a blackbird, if a blackbird could whistle the alto of Calkin's Magnificat in B flat. . . ."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The tomb is of pure white marble, surmounted by a tablet of the same, which in alto relievo, represents a female figure ministering to a soldier, who lies upon a couch."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"It would do no possible good, and would only make her unhappy to grieve me.” “'O wert thou in the cauld blast,'” chimed in Alice's alto, low and sweet."*

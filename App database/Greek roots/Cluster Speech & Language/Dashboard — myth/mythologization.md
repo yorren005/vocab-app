@@ -5,13 +5,6 @@ status: unread
 ---
 # mythologization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The restatement of a message as a myth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The restatement of a message as a myth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mythologization designates the restatement of a message as a myth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The restatement of a message as a myth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The restatement of a message as a myth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mythologization designates the restatement of a message as a myth."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # minstrelsy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A troupe of minstrels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ballads sung by minstrels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How you delight, my lords, I know not, I, But I protest I love to hear him lie, And I will use him for my minstrelsy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This, my last boon, give me, For such kindness must relieve me, That you aptly will suppose What pageantry, what feats, what shows, What minstrelsy, and pretty din, The regent made in Mytilene To greet the king."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Even the sound of the Waits, rude as may be their minstrelsy, breaks upon the mid-watches of a winter night with the effect of perfect harmony."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A troupe of minstrels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ballads sung by minstrels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How you delight, my lords, I know not, I, But I protest I love to hear him lie, And I will use him for my minstrelsy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This, my last boon, give me, For such kindness must relieve me, That you aptly will suppose What pageantry, what feats, what shows, What minstrelsy, and pretty din, The regent made in Mytilene To greet the king."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Even the sound of the Waits, rude as may be their minstrelsy, breaks upon the mid-watches of a winter night with the effect of perfect harmony."*

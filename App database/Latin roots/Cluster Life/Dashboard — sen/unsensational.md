@@ -5,13 +5,6 @@ status: unread
 ---
 # unsensational
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not of such character as to arouse intense interest, curiosity, or emotional reaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not of such character as to arouse intense interest, curiosity, or emotional reaction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsensational designates not of such character as to arouse intense interest, curiosity, or emotional reaction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not of such character as to arouse intense interest, curiosity, or emotional reaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not of such character as to arouse intense interest, curiosity, or emotional reaction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsensational designates not of such character as to arouse intense interest, curiosity, or emotional reaction."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # unalienable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being repudiated or transferred to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being repudiated or transferred to another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I say the right of a state to annul a law of Congress cannot be maintained but on the ground of the unalienable right of man to resist oppression; that is to say, upon the ground of revolution."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We hold these truths to be self-evident, that all men are created equal; that they are endowed by their Creator with certain unalienable Rights; that among these are Life, Liberty, and the pursuit of Happiness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being repudiated or transferred to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being repudiated or transferred to another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I say the right of a state to annul a law of Congress cannot be maintained but on the ground of the unalienable right of man to resist oppression; that is to say, upon the ground of revolution."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We hold these truths to be self-evident, that all men are created equal; that they are endowed by their Creator with certain unalienable Rights; that among these are Life, Liberty, and the pursuit of Happiness."*

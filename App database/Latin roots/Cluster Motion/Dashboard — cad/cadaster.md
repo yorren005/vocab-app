@@ -5,13 +5,6 @@ status: unread
 ---
 # cadaster
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public register showing the details of ownership and value of land; made for the purpose of taxation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public register showing the details of ownership and value of land; made for the purpose of taxation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cadaster designates a public register showing the details of ownership and value of land; made for the purpose of taxation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A public register showing the details of ownership and value of land; made for the purpose of taxation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public register showing the details of ownership and value of land; made for the purpose of taxation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cadaster designates a public register showing the details of ownership and value of land; made for the purpose of taxation."*

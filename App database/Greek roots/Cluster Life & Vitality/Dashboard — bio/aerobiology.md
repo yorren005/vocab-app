@@ -5,13 +5,6 @@ status: unread
 ---
 # aerobiology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science dealing with the occurrence, transportation, and effects of airborne materials (such as viruses, pollen, or pollutants).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science dealing with the occurrence, transportation, and effects of airborne materials (such as viruses, pollen, or pollutants).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerobiology designates the science dealing with the occurrence, transportation, and effects of airborne materials (such as viruses, pollen, or pollutants)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science dealing with the occurrence, transportation, and effects of airborne materials (such as viruses, pollen, or pollutants).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science dealing with the occurrence, transportation, and effects of airborne materials (such as viruses, pollen, or pollutants).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerobiology designates the science dealing with the occurrence, transportation, and effects of airborne materials (such as viruses, pollen, or pollutants)."*

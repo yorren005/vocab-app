@@ -5,13 +5,6 @@ status: unread
 ---
 # schizogony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Asexual reproduction by multiple segmentation characteristic of sporozoans (such as the malaria parasite).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Asexual reproduction by multiple segmentation characteristic of sporozoans (such as the malaria parasite).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizogony designates asexual reproduction by multiple segmentation characteristic of sporozoans (such as the malaria parasite)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Asexual reproduction by multiple segmentation characteristic of sporozoans (such as the malaria parasite).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Asexual reproduction by multiple segmentation characteristic of sporozoans (such as the malaria parasite).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizogony designates asexual reproduction by multiple segmentation characteristic of sporozoans (such as the malaria parasite)."*

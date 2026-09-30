@@ -5,20 +5,6 @@ status: unread
 ---
 # clandestine
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (of a person or lodge) not recognized as a regular member
-> 2. **Nuance / Usage**: Marked by, held in, or conducted with secrecy : surreptitious
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a clandestine appearance*) and predicatively after a linking verb (*remained clandestine*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*s:Northanger Abbey*):** *"Whether the torments of absence were softened by a clandestine correspondence, let us not inquire. Mr. and Mrs. Morland never did."*
-> - 📜 **G. K. Chesterton (*s:Manalive*):** *"Lady Bullingdon could not, of course, countenance such an arrangement for a moment, and the two unhappy persons escaped for a clandestine marriage."*
-> - 📜 **H. P. Lovecraft (*s:Herbert West: Reanimator*):** *"Bodies were always a nuisance -- even the small guinea-pig bodies from the slight clandestine experiments in West’s room at the boarding-house."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: (of a person or lodge) not recognized as a regular member
+> 2. **Nuance / Usage**: Marked by, held in, or conducted with secrecy : surreptitious
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a clandestine appearance*) and predicatively after a linking verb (*remained clandestine*).
+> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*s:Northanger Abbey*):** *"Whether the torments of absence were softened by a clandestine correspondence, let us not inquire. Mr. and Mrs. Morland never did."*
+> - 📜 **G. K. Chesterton (*s:Manalive*):** *"Lady Bullingdon could not, of course, countenance such an arrangement for a moment, and the two unhappy persons escaped for a clandestine marriage."*
+> - 📜 **H. P. Lovecraft (*s:Herbert West: Reanimator*):** *"Bodies were always a nuisance -- even the small guinea-pig bodies from the slight clandestine experiments in West’s room at the boarding-house."*

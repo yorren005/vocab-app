@@ -5,15 +5,6 @@ status: unread
 ---
 # confirmed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish or strengthen as with new evidence or facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strengthen or make more firm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"H’as such a confirmed countenance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus far can I praise him; he is of a noble strain, of approved valour, and confirmed honesty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am my master’s true confirmed love, But cannot be true servant to my master Unless I prove false traitor to myself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish or strengthen as with new evidence or facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strengthen or make more firm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"H’as such a confirmed countenance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus far can I praise him; he is of a noble strain, of approved valour, and confirmed honesty."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am my master’s true confirmed love, But cannot be true servant to my master Unless I prove false traitor to myself."*

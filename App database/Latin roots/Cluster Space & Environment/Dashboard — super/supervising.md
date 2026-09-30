@@ -5,15 +5,6 @@ status: unread
 ---
 # supervising
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Management by overseeing the performance or operation of a person or group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Watch and direct.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Especially is the difficulty of supervising workers and of ensuring the performance of a certain standard, or minimum, amount and quality of work great in larger enterprises."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The lender must also, in estimating net interest, count the cost of placing, supervising, and collecting the loan."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A larger part of the energies of men will then be directed merely to supervising the developed machinery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Management by overseeing the performance or operation of a person or group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Watch and direct.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Especially is the difficulty of supervising workers and of ensuring the performance of a certain standard, or minimum, amount and quality of work great in larger enterprises."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The lender must also, in estimating net interest, count the cost of placing, supervising, and collecting the loan."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A larger part of the energies of men will then be directed merely to supervising the developed machinery."*

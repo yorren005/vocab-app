@@ -5,15 +5,6 @@ status: unread
 ---
 # regenerate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reestablish on a new, usually improved, basis or make new or like new.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Amplify (an electron current) by causing part of the power in the output circuit to act upon the input circuit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Without corrupting the State legislatures, it cannot prosecute the attempt, because the periodical change of members would otherwise regenerate the whole body."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And believe me, if I still value my life it is only because I still hope to meet such a divine creature, who will regenerate, purify, and elevate me."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Either here or hereafter, suf- fering or Science must destroy all illusions regarding life and mind, and regenerate material sense 296:9 and self."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reestablish on a new, usually improved, basis or make new or like new.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Amplify (an electron current) by causing part of the power in the output circuit to act upon the input circuit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Without corrupting the State legislatures, it cannot prosecute the attempt, because the periodical change of members would otherwise regenerate the whole body."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And believe me, if I still value my life it is only because I still hope to meet such a divine creature, who will regenerate, purify, and elevate me."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Either here or hereafter, suf- fering or Science must destroy all illusions regarding life and mind, and regenerate material sense 296:9 and self."*

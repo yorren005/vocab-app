@@ -5,15 +5,6 @@ status: unread
 ---
 # intemperately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indulging excessively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indulging excessively.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Stubb was a high liver; he was somewhat intemperately fond of the whale as a flavorish thing to his palate."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Stubb was a high liver; he was somewhat intemperately fond of the whale as a flavorish thing to his palate."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"If he had been less intemperately solicitous about his bones, and more solicitous about his Works, it would have been better for his good name, and a kindness to us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indulging excessively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indulging excessively.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Stubb was a high liver; he was somewhat intemperately fond of the whale as a flavorish thing to his palate."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Stubb was a high liver; he was somewhat intemperately fond of the whale as a flavorish thing to his palate."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"If he had been less intemperately solicitous about his bones, and more solicitous about his Works, it would have been better for his good name, and a kindness to us."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # malti
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The national language of the republic of malta; a semitic language derived from arabic but with many loan words from italian, spanish, and norman-french.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The national language of the republic of malta; a semitic language derived from arabic but with many loan words from italian, spanish, and norman-french.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malti designates the national language of the republic of malta; a semitic language derived from arabic but with many loan words from italian, spanish, and norman-french."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The national language of the republic of malta; a semitic language derived from arabic but with many loan words from italian, spanish, and norman-french.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The national language of the republic of malta; a semitic language derived from arabic but with many loan words from italian, spanish, and norman-french.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malti designates the national language of the republic of malta; a semitic language derived from arabic but with many loan words from italian, spanish, and norman-french."*

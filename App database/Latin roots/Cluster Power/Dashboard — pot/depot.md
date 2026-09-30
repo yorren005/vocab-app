@@ -5,15 +5,6 @@ status: unread
 ---
 # depot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Station where transport vehicles load or unload passengers or goods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A depository for goods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He was never known to wait a second, say nothing about a minute, beyond the time._' I then inquired if we could not stay at the depot."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Knowing of no human help, I left the depot and went into the woods, some ways from the station, where I could be alone, and tell that Friend who is able to provide, and who is rich unto all that call upon Him."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He took the morning train at the Princeton depot, and reached home about eleven o'clock."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Station where transport vehicles load or unload passengers or goods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A depository for goods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"He was never known to wait a second, say nothing about a minute, beyond the time._' I then inquired if we could not stay at the depot."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Knowing of no human help, I left the depot and went into the woods, some ways from the station, where I could be alone, and tell that Friend who is able to provide, and who is rich unto all that call upon Him."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"He took the morning train at the Princeton depot, and reached home about eleven o'clock."*

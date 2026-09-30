@@ -5,15 +5,6 @@ status: unread
 ---
 # nomination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of officially naming a candidate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of having been proposed as a suitable candidate for appointment or election.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What imports the nomination of this gentleman?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is, and wants but nomination."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Is he really going to be put in nomination, though?” said Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of officially naming a candidate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of having been proposed as a suitable candidate for appointment or election.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What imports the nomination of this gentleman?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is, and wants but nomination."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Is he really going to be put in nomination, though?” said Mr."*

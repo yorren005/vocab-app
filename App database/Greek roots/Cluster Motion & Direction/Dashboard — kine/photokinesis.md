@@ -5,13 +5,6 @@ status: unread
 ---
 # photokinesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Motion or activity induced by light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Motion or activity induced by light.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photokinesis designates motion or activity induced by light."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Motion or activity induced by light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Motion or activity induced by light.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photokinesis designates motion or activity induced by light."*

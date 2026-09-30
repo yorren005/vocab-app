@@ -5,15 +5,6 @@ status: unread
 ---
 # rheumatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, characteristic of, or affected with rheumatism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One affected with rheumatism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are both, i’ good truth, as rheumatic as two dry toasts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HOSTESS. ’A did in some sort, indeed, handle women; but then he was rheumatic, and talk’d of the whore of Babylon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And youthful still—in your doublet and hose, this raw rheumatic day?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, characteristic of, or affected with rheumatism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One affected with rheumatism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are both, i’ good truth, as rheumatic as two dry toasts."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HOSTESS. ’A did in some sort, indeed, handle women; but then he was rheumatic, and talk’d of the whore of Babylon."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And youthful still—in your doublet and hose, this raw rheumatic day?"*

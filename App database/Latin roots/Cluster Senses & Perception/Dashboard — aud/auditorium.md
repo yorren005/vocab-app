@@ -5,15 +5,6 @@ status: unread
 ---
 # auditorium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The area of a theater or concert hall where the audience sits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The area of a theater or concert hall where the audience sits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Eddy and to the friend who invited me to attend the service held in the Auditorium years ago."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Morlene, thickly veiled, had been sitting in a corner of the auditorium throughout the meeting."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The auditorium has the shape of a keystone, with the stage at the narrow end."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The area of a theater or concert hall where the audience sits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The area of a theater or concert hall where the audience sits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Eddy and to the friend who invited me to attend the service held in the Auditorium years ago."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Morlene, thickly veiled, had been sitting in a corner of the auditorium throughout the meeting."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The auditorium has the shape of a keystone, with the stage at the narrow end."*

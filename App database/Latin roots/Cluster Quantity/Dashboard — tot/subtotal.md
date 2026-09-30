@@ -5,13 +5,6 @@ status: unread
 ---
 # subtotal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sum of part of a group of numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sum of part of a group of numbers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subtotal designates the sum of part of a group of numbers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sum of part of a group of numbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sum of part of a group of numbers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subtotal designates the sum of part of a group of numbers."*

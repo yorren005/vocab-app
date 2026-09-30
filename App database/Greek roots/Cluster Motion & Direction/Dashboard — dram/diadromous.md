@@ -5,13 +5,6 @@ status: unread
 ---
 # diadromous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Migratory between salt water and fresh water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Migratory between salt water and fresh water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diadromous designates migratory between salt water and fresh water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Migratory between salt water and fresh water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Migratory between salt water and fresh water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diadromous designates migratory between salt water and fresh water."*

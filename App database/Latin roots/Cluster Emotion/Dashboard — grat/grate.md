@@ -5,15 +5,6 @@ status: unread
 ---
 # grate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A frame of iron bars to hold a fire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A harsh rasping sound made by scraping something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What peer hath been suborn’d to grate on you, That you should seal this lawless bloody book Of forged rebellion with a seal divine And consecrate commotion’s bitter edge?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, through this grate, I count each one And view the Frenchmen how they fortify."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been content, sir, you should lay my countenance to pawn; I have grated upon my good friends for three reprieves for you and your coach-fellow Nym, or else you had looked through the grate like a gemini of baboons."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A frame of iron bars to hold a fire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A harsh rasping sound made by scraping something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What peer hath been suborn’d to grate on you, That you should seal this lawless bloody book Of forged rebellion with a seal divine And consecrate commotion’s bitter edge?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, through this grate, I count each one And view the Frenchmen how they fortify."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been content, sir, you should lay my countenance to pawn; I have grated upon my good friends for three reprieves for you and your coach-fellow Nym, or else you had looked through the grate like a gemini of baboons."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # submediant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) the sixth note of a major or minor scale (or the third below the tonic).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) the sixth note of a major or minor scale (or the third below the tonic).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, submediant designates (music) the sixth note of a major or minor scale (or the third below the tonic)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) the sixth note of a major or minor scale (or the third below the tonic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) the sixth note of a major or minor scale (or the third below the tonic).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, submediant designates (music) the sixth note of a major or minor scale (or the third below the tonic)."*

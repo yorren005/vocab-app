@@ -5,13 +5,6 @@ status: unread
 ---
 # quiesce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become quiet or quieter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become quiet or quieter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quiesce designates become quiet or quieter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become quiet or quieter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become quiet or quieter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quiesce designates become quiet or quieter."*

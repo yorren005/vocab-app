@@ -5,15 +5,6 @@ status: unread
 ---
 # searching
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Try to locate or discover, or try to establish the existence of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Search or seek.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, poor shepherd, searching of thy wound, I have by hard adventure found mine own."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, i’ faith, you have drunk too much canaries, and that’s a marvellous searching wine, and it perfumes the blood ere one can say “What’s this?” How do you now?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Searching the window for a flint, I found This paper, thus seal’d up, and I am sure It did not lie there when I went to bed. [_Gives him the letter._] BRUTUS."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Try to locate or discover, or try to establish the existence of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Search or seek.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, poor shepherd, searching of thy wound, I have by hard adventure found mine own."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, i’ faith, you have drunk too much canaries, and that’s a marvellous searching wine, and it perfumes the blood ere one can say “What’s this?” How do you now?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Searching the window for a flint, I found This paper, thus seal’d up, and I am sure It did not lie there when I went to bed. [_Gives him the letter._] BRUTUS."*

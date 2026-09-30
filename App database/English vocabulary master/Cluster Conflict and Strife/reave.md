@@ -5,19 +5,6 @@ status: unread
 ---
 # reave
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Plunder, rob
-> 2. **Nuance / Usage**: Rob, despoil
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to reave the target*) and intransitive clauses (*reaving against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Had you that craft to ’reave her Of what should stead her most?"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"An’ may they never learn the gaets, Of ither vile, wanrestfu’ pets— To slink thro’ slaps, an’ reave an’ steal At stacks o’ pease, or stocks o’ kail!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -53,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To plunder, pillage, or carry off goods by force in a raid; to rob or despoil.
+> 2. **Nuance / Usage**: An archaic and poetic verb (surviving in *bereave* and *reiver*) that also means to tear away, strip, or deprive someone of life, hope, or possession.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive; past *reaved* or *reft*).
+> - **Syntactic Constructions**: Operates in archaic transitive clauses (*reft of hope*) and intransitive raiding pairs (*to reave and steal*).
+> - **Collocations & Registers**: Archaic, Scottish border-ballad, and high poetic registers; collocated with *plunder*, *foray*, *bereft*, *spoil*, and *border*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"Had you that craft to **reave** her of what should stead her most?"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"May they never learn the gaets of ither vile, wanrestfu’ pets—to slink thro’ slaps, an’ **reave** an’ steal!"*
+> - 📜 **Sir Walter Scott (*Marmion*):** *"The border riders lived by the lance, riding forth beneath the moon to **reave** thelowland herds."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrogen-bomb
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attack with a hydrogen bomb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attack with a hydrogen bomb.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrogen-bomb designates attack with a hydrogen bomb."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attack with a hydrogen bomb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attack with a hydrogen bomb.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrogen-bomb designates attack with a hydrogen bomb."*

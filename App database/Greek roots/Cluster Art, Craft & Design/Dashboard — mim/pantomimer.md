@@ -5,13 +5,6 @@ status: unread
 ---
 # pantomimer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An actor who communicates entirely by gesture and facial expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An actor who communicates entirely by gesture and facial expression.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pantomimer designates an actor who communicates entirely by gesture and facial expression."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An actor who communicates entirely by gesture and facial expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An actor who communicates entirely by gesture and facial expression.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pantomimer designates an actor who communicates entirely by gesture and facial expression."*

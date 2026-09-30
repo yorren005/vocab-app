@@ -5,13 +5,6 @@ status: unread
 ---
 # ovule
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small body that contains the female germ cell of a plant; develops into a seed after fertilization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small or immature ovum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"I have brought you some eggs,” he remarked, hastily exposing ten of the precious ovules to view."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small body that contains the female germ cell of a plant; develops into a seed after fertilization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small or immature ovum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"I have brought you some eggs,” he remarked, hastily exposing ten of the precious ovules to view."*

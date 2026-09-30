@@ -5,15 +5,6 @@ status: unread
 ---
 # partially
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In part; in some degree; not wholly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In part; in some degree; not wholly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If partially affin’d, or leagu’d in office, Thou dost deliver more or less than truth, Thou art no soldier."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Men’s faults do seldom to themselves appear; Their own transgressions partially they smother."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Although it was extremely cold, the snow was but partially frozen, and it churned—with a sound as if it were a beach of small shells—under the hoofs of the horses into mire and water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In part; in some degree; not wholly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In part; in some degree; not wholly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If partially affin’d, or leagu’d in office, Thou dost deliver more or less than truth, Thou art no soldier."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Men’s faults do seldom to themselves appear; Their own transgressions partially they smother."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Although it was extremely cold, the snow was but partially frozen, and it churned—with a sound as if it were a beach of small shells—under the hoofs of the horses into mire and water."*

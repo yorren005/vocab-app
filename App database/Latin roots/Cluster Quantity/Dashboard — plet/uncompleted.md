@@ -5,15 +5,6 @@ status: unread
 ---
 # uncompleted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not yet finished.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not caught or not caught within bounds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But I now leave my cetological System standing thus unfinished, even as the great Cathedral of Cologne was left, with the crane still standing upon the top of the uncompleted tower."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"In fact, she tarried in Washington to finish many an uncompleted task, for some time after her office had been abolished."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But I now leave my cetological System standing thus unfinished, even as the great Cathedral of Cologne was left, with the crane still standing upon the top of the uncompleted tower."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not yet finished.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not caught or not caught within bounds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But I now leave my cetological System standing thus unfinished, even as the great Cathedral of Cologne was left, with the crane still standing upon the top of the uncompleted tower."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"In fact, she tarried in Washington to finish many an uncompleted task, for some time after her office had been abolished."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But I now leave my cetological System standing thus unfinished, even as the great Cathedral of Cologne was left, with the crane still standing upon the top of the uncompleted tower."*

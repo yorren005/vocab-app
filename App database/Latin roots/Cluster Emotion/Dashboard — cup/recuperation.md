@@ -5,15 +5,6 @@ status: unread
 ---
 # recuperation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gradual healing (through rest) after sickness or injury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gradual healing (through rest) after sickness or injury.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was given irregular intervals of jacket and recuperation."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Thus I would have ten hours’ recuperation, and do twenty in the jacket; or I would receive only four hours’ rest."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Recuperation mental By conceding power to discord, a large majority of 394:6 doctors depress mental energy, which is the only real recuperative power."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gradual healing (through rest) after sickness or injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gradual healing (through rest) after sickness or injury.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was given irregular intervals of jacket and recuperation."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Thus I would have ten hours’ recuperation, and do twenty in the jacket; or I would receive only four hours’ rest."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Recuperation mental By conceding power to discord, a large majority of 394:6 doctors depress mental energy, which is the only real recuperative power."*

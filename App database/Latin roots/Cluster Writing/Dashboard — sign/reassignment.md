@@ -5,13 +5,6 @@ status: unread
 ---
 # reassignment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assignment to a different duty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assignment to a different duty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"When you read it, note that all requests for release or reassignment are denied." Xindral folded back into his normal, slightly bowed posture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Assignment to a different duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assignment to a different duty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"When you read it, note that all requests for release or reassignment are denied." Xindral folded back into his normal, slightly bowed posture."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # juvenile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young person, not fully developed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of or appropriate for children or young people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Or put it, my juvenile friends, that he saw an elephant, and returning said ‘Lo, the city is barren, I have seen but an eel,’ would THAT be Terewth?” Mrs."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In a true view, perhaps, there was more to be gathered and told of each anxious and experienced one, to whom the years were drawing nigh when she should say, “I have no pleasure in them,” than of her juvenile comrades."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Hubble as a little curly sharp-edged person in sky-blue, who held a conventionally juvenile position, because she had married Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A young person, not fully developed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of or appropriate for children or young people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Or put it, my juvenile friends, that he saw an elephant, and returning said ‘Lo, the city is barren, I have seen but an eel,’ would THAT be Terewth?” Mrs."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In a true view, perhaps, there was more to be gathered and told of each anxious and experienced one, to whom the years were drawing nigh when she should say, “I have no pleasure in them,” than of her juvenile comrades."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Hubble as a little curly sharp-edged person in sky-blue, who held a conventionally juvenile position, because she had married Mr."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # intellectually
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intellectual manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intellectual manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And yet—and the incident is delicious—Jake Oppenheimer was intellectually honest."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Intellectually, and by the solidity of her character, she was better fitted to be Shelley's mate than any other woman he ever came across."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It is only the intellectually lost who ever argue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intellectual manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intellectual manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And yet—and the incident is delicious—Jake Oppenheimer was intellectually honest."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Intellectually, and by the solidity of her character, she was better fitted to be Shelley's mate than any other woman he ever came across."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It is only the intellectually lost who ever argue."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # surpliced
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing a surplice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wearing a surplice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"There was not a soul there save the two whom I had followed and a surpliced clergyman, who seemed to be expostulating with them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing a surplice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wearing a surplice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"There was not a soul there save the two whom I had followed and a surpliced clergyman, who seemed to be expostulating with them."*

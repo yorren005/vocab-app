@@ -5,13 +5,6 @@ status: unread
 ---
 # plaguey
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Likely to spread and cause an epidemic disease; - jonathan swift.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing irritation or annoyance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plaguey designates likely to spread and cause an epidemic disease; - jonathan swift."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Likely to spread and cause an epidemic disease; - jonathan swift.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing irritation or annoyance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plaguey designates likely to spread and cause an epidemic disease; - jonathan swift."*

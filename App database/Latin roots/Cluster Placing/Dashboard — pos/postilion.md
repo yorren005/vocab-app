@@ -5,15 +5,6 @@ status: unread
 ---
 # postilion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who rides the near horse of a pair in order to guide the horses pulling a carriage (especially a carriage without a coachman).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who rides the near horse of a pair in order to guide the horses pulling a carriage (especially a carriage without a coachman).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Our postilion is looking after the waggoner,” said Richard, “and the waggoner is coming back after us."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, Miss Summerson,” said he, “we are off, if you please!” He gave me his arm, and the two officers courteously bowed me out, and we found at the door a phaeton or barouche with a postilion and post horses."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I remember they made me laugh uncommonly—there’s a droll bit about a postilion’s breeches."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who rides the near horse of a pair in order to guide the horses pulling a carriage (especially a carriage without a coachman).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who rides the near horse of a pair in order to guide the horses pulling a carriage (especially a carriage without a coachman).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Our postilion is looking after the waggoner,” said Richard, “and the waggoner is coming back after us."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, Miss Summerson,” said he, “we are off, if you please!” He gave me his arm, and the two officers courteously bowed me out, and we found at the door a phaeton or barouche with a postilion and post horses."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I remember they made me laugh uncommonly—there’s a droll bit about a postilion’s breeches."*

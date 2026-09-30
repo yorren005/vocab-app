@@ -5,13 +5,6 @@ status: unread
 ---
 # taconite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variety of chert containing magnetite and hematite; mined as a low-grade iron ore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variety of chert containing magnetite and hematite; mined as a low-grade iron ore.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taconite designates a variety of chert containing magnetite and hematite; mined as a low-grade iron ore."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variety of chert containing magnetite and hematite; mined as a low-grade iron ore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variety of chert containing magnetite and hematite; mined as a low-grade iron ore.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taconite designates a variety of chert containing magnetite and hematite; mined as a low-grade iron ore."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # telegnostic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtaining knowledge of distant events allegedly without use of normal sensory mechanisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtaining knowledge of distant events allegedly without use of normal sensory mechanisms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telegnostic designates obtaining knowledge of distant events allegedly without use of normal sensory mechanisms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtaining knowledge of distant events allegedly without use of normal sensory mechanisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtaining knowledge of distant events allegedly without use of normal sensory mechanisms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telegnostic designates obtaining knowledge of distant events allegedly without use of normal sensory mechanisms."*

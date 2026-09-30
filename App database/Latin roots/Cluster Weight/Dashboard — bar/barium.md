@@ -5,13 +5,6 @@ status: unread
 ---
 # barium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft silvery metallic element of the alkali earth group; found in barite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft silvery metallic element of the alkali earth group; found in barite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"For instance, I have in one bottle an alcoholic solution of a lithium salt, in another of a barium, in a third of a strontium, and so on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft silvery metallic element of the alkali earth group; found in barite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft silvery metallic element of the alkali earth group; found in barite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"For instance, I have in one bottle an alcoholic solution of a lithium salt, in another of a barium, in a third of a strontium, and so on."*

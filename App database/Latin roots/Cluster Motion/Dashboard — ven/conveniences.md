@@ -5,15 +5,6 @@ status: unread
 ---
 # conveniences
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Things that make you comfortable and at ease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being suitable or opportune.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"If deprived of the society of my fellow creatures, and of the conveniences of life, I could not but reflect that my forlorn situation was yet attended with some advantages."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In front is a leather rack, in which to keep your speaking trumpet, pipe, telescope, and other nautical conveniences."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They will consider the conformity of the thing proposed or required to their immediate interests or aims; the momentary conveniences or inconveniences that would attend its adoption."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Things that make you comfortable and at ease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being suitable or opportune.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"If deprived of the society of my fellow creatures, and of the conveniences of life, I could not but reflect that my forlorn situation was yet attended with some advantages."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In front is a leather rack, in which to keep your speaking trumpet, pipe, telescope, and other nautical conveniences."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They will consider the conformity of the thing proposed or required to their immediate interests or aims; the momentary conveniences or inconveniences that would attend its adoption."*

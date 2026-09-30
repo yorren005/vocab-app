@@ -5,15 +5,6 @@ status: unread
 ---
 # grammar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the classes of words, their inflections, and their functions and relations in the sentence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A study of what is to be preferred and what avoided in inflection and syntax.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I read it in the grammar long ago."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"To which Charley, whose grammar, I confess to my shame, never did any credit to my educational powers, replied, “Yes, miss."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Charley was curious, too, about the voyage, and about the heat in India, and the serpents and the tigers; and as she picked up such information much faster than grammar, I told her what I knew on those points."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the classes of words, their inflections, and their functions and relations in the sentence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A study of what is to be preferred and what avoided in inflection and syntax.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I read it in the grammar long ago."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"To which Charley, whose grammar, I confess to my shame, never did any credit to my educational powers, replied, “Yes, miss."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Charley was curious, too, about the voyage, and about the heat in India, and the serpents and the tigers; and as she picked up such information much faster than grammar, I told her what I knew on those points."*

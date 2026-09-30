@@ -5,13 +5,6 @@ status: unread
 ---
 # rhombus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A parallelogram with four equal sides and sometimes one with no right angles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parallelogram with four equal sides and sometimes one with no right angles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhombus designates a parallelogram with four equal sides and sometimes one with no right angles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A parallelogram with four equal sides and sometimes one with no right angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parallelogram with four equal sides and sometimes one with no right angles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhombus designates a parallelogram with four equal sides and sometimes one with no right angles."*

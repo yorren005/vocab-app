@@ -5,15 +5,6 @@ status: unread
 ---
 # discretion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom to act or judge on one's own.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Knowing how to avoid embarrassment or distress.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it raises the greater war between him and his discretion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, these are almost thoroughly persuaded; For though abundantly they lack discretion, Yet are they passing cowardly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It seems it is as proper to our age To cast beyond ourselves in our opinions As it is common for the younger sort To lack discretion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom to act or judge on one's own.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Knowing how to avoid embarrassment or distress.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it raises the greater war between him and his discretion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, these are almost thoroughly persuaded; For though abundantly they lack discretion, Yet are they passing cowardly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It seems it is as proper to our age To cast beyond ourselves in our opinions As it is common for the younger sort To lack discretion."*

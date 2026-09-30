@@ -5,13 +5,6 @@ status: unread
 ---
 # unresolved
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not solved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not brought to a conclusion; subject to further thought.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unresolved designates not solved."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not solved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not brought to a conclusion; subject to further thought.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unresolved designates not solved."*

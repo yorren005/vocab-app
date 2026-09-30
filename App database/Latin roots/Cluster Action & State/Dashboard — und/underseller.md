@@ -5,13 +5,6 @@ status: unread
 ---
 # underseller
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A seller that sells at a lower price than others do.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A seller that sells at a lower price than others do.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underseller designates a seller that sells at a lower price than others do."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A seller that sells at a lower price than others do.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A seller that sells at a lower price than others do.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underseller designates a seller that sells at a lower price than others do."*

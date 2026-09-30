@@ -5,15 +5,6 @@ status: unread
 ---
 # purpose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anticipated outcome that is intended or that guides your planned actions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: What something is used for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for a woman wert thou first created, Till nature as she wrought thee fell a-doting, And by addition me of thee defeated, By adding one thing to my purpose nothing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Nature (sovereign mistress over wrack) As thou goest onwards still will pluck thee back, She keeps thee to this purpose, that her skill May time disgrace, and wretched minutes kill."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such is his noble purpose, and, believe’t, The duke will lay upon him all the honour That good convenience claims."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anticipated outcome that is intended or that guides your planned actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: What something is used for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for a woman wert thou first created, Till nature as she wrought thee fell a-doting, And by addition me of thee defeated, By adding one thing to my purpose nothing."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Nature (sovereign mistress over wrack) As thou goest onwards still will pluck thee back, She keeps thee to this purpose, that her skill May time disgrace, and wretched minutes kill."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such is his noble purpose, and, believe’t, The duke will lay upon him all the honour That good convenience claims."*

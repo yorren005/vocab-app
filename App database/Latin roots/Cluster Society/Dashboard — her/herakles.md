@@ -5,15 +5,6 @@ status: unread
 ---
 # herakles
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (classical mythology) a hero noted for his strength; performed 12 immense labors to gain immortality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (classical mythology) a hero noted for his strength; performed 12 immense labors to gain immortality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"A pagan could have seen no real reason why Jesus should not be a demi-god like Herakles or Dionysos; no reason, either, why a man should not worship Jesus as well as these."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"For my part, I will never let go the continuance of the soul, unless some Herakles shall come and take away the Pythia's tripod and abolish and destroy the oracle."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In later life he told the story of a dream which he had that night--a long and somewhat literary dream modelled on Prodicus' fable of the _Choice of Herakles_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (classical mythology) a hero noted for his strength; performed 12 immense labors to gain immortality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (classical mythology) a hero noted for his strength; performed 12 immense labors to gain immortality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"A pagan could have seen no real reason why Jesus should not be a demi-god like Herakles or Dionysos; no reason, either, why a man should not worship Jesus as well as these."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"For my part, I will never let go the continuance of the soul, unless some Herakles shall come and take away the Pythia's tripod and abolish and destroy the oracle."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In later life he told the story of a dream which he had that night--a long and somewhat literary dream modelled on Prodicus' fable of the _Choice of Herakles_."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # catamount
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Short-tailed wildcats with usually tufted ears; valued for their fur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large american feline resembling a lion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He scrambled over rock and stone, through brush and brier, rolled down banks like a hedgehog, scrambled up others like a catamount."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Smart as a whip and as bold as a catamount."*
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"A catamount would have been so proud of them he’d have jumped out of his skin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Short-tailed wildcats with usually tufted ears; valued for their fur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large american feline resembling a lion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He scrambled over rock and stone, through brush and brier, rolled down banks like a hedgehog, scrambled up others like a catamount."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Smart as a whip and as bold as a catamount."*
+> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"A catamount would have been so proud of them he’d have jumped out of his skin."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # machinery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Machines or machine systems collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of means and activities whereby a social institution functions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was a creaking of machinery behind, and some of the young ones turned their heads."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the interior face of the west wall of the tower projected a little canopy with a quarter-jack and small bell beneath it, the automaton being driven by the same clock machinery that struck the large bell in the tower."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An angularity of lineament, and a fixity of facial machinery in general, proclaimed that serious work was the order of the day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Machines or machine systems collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of means and activities whereby a social institution functions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was a creaking of machinery behind, and some of the young ones turned their heads."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the interior face of the west wall of the tower projected a little canopy with a quarter-jack and small bell beneath it, the automaton being driven by the same clock machinery that struck the large bell in the tower."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An angularity of lineament, and a fixity of facial machinery in general, proclaimed that serious work was the order of the day."*

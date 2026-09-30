@@ -5,15 +5,6 @@ status: unread
 ---
 # exciting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arouse or elicit a feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act as a stimulant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But it is so exciting to imagine that an old, old Baron of Wallerstätten might wander around the battlements in his armor."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His ill-considered marriage seems to have completed that estrangement from me which was begun by his extraordinary opinions.” Tess beat up the long hill still faster; but she could not outwalk them without exciting notice."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Afterwards, however, as we waited for M. de Clairon--for the crisis was too exciting for personal resentment--M. le Curé himself let drop something which made it apparent that it was the ladies of the hospital upon whom his suspicions fell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arouse or elicit a feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act as a stimulant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But it is so exciting to imagine that an old, old Baron of Wallerstätten might wander around the battlements in his armor."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His ill-considered marriage seems to have completed that estrangement from me which was begun by his extraordinary opinions.” Tess beat up the long hill still faster; but she could not outwalk them without exciting notice."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Afterwards, however, as we waited for M. de Clairon--for the crisis was too exciting for personal resentment--M. le Curé himself let drop something which made it apparent that it was the ladies of the hospital upon whom his suspicions fell."*

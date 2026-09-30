@@ -5,13 +5,6 @@ status: unread
 ---
 # convolve
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curl, wind, or twist together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curl, wind, or twist together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, convolve designates curl, wind, or twist together."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curl, wind, or twist together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curl, wind, or twist together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, convolve designates curl, wind, or twist together."*

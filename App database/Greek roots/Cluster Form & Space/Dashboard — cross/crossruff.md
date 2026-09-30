@@ -5,13 +5,6 @@ status: unread
 ---
 # crossruff
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trump alternately in two hands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trump alternately in two hands.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crossruff designates trump alternately in two hands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Trump alternately in two hands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trump alternately in two hands.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crossruff designates trump alternately in two hands."*

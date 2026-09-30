@@ -5,13 +5,6 @@ status: unread
 ---
 # expansible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to expand or be expanded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of gases) capable of expansion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"There seems to be practically no limit to the consumption of textiles, provided their price falls; the demand for dress alone is indefinitely expansible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to expand or be expanded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of gases) capable of expansion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"There seems to be practically no limit to the consumption of textiles, provided their price falls; the demand for dress alone is indefinitely expansible."*

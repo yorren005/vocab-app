@@ -5,15 +5,6 @@ status: unread
 ---
 # mutually
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mutual or shared manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a mutual or shared manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So then it seems your most offenceful act Was mutually committed?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From time to time I have acquainted you With the dear love I bear to fair Anne Page, Who mutually hath answered my affection, So far forth as herself might be her chooser, Even to my wish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pinch him, fairies, mutually; Pinch him for his villainy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mutual or shared manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a mutual or shared manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So then it seems your most offenceful act Was mutually committed?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From time to time I have acquainted you With the dear love I bear to fair Anne Page, Who mutually hath answered my affection, So far forth as herself might be her chooser, Even to my wish."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pinch him, fairies, mutually; Pinch him for his villainy."*

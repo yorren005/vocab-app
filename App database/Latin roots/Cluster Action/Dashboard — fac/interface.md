@@ -5,13 +5,6 @@ status: unread
 ---
 # interface
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) a surface forming a common boundary between two things (two objects or liquids or chemical phases).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) a program that controls a display for the user (usually on a computer monitor) and that allows the user to interact with the system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Your sector coordinates are in the capsule; use standard locks to interface the coordinates with your ship's flight controls."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) a surface forming a common boundary between two things (two objects or liquids or chemical phases).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) a program that controls a display for the user (usually on a computer monitor) and that allows the user to interact with the system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Your sector coordinates are in the capsule; use standard locks to interface the coordinates with your ship's flight controls."*

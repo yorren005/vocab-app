@@ -5,15 +5,6 @@ status: unread
 ---
 # established
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Set up or found.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set up or lay the groundwork for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suffer us to famish, and their storehouses crammed with grain; make edicts for usury to support usurers; repeal daily any wholesome act established against the rich, and provide more piercing statutes daily to chain up and restrain the poor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By the consent of all, we were established The people’s magistrates."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet so my fancy may be satisfied, And peace established between these realms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Set up or found.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set up or lay the groundwork for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suffer us to famish, and their storehouses crammed with grain; make edicts for usury to support usurers; repeal daily any wholesome act established against the rich, and provide more piercing statutes daily to chain up and restrain the poor."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By the consent of all, we were established The people’s magistrates."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet so my fancy may be satisfied, And peace established between these realms."*

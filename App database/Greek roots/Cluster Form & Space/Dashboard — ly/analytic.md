@@ -5,13 +5,6 @@ status: unread
 ---
 # analytic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to analysis or analytics; especially : separating something into component parts or constituent elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being a proposition (such as "no bachelor is married") whose truth is evident from the meaning of the words it contains.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The connecting links of his thought have often to be supplied by an analytic reader whose mind is not up to the required tension to spring over the chasm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to analysis or analytics; especially : separating something into component parts or constituent elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being a proposition (such as "no bachelor is married") whose truth is evident from the meaning of the words it contains.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The connecting links of his thought have often to be supplied by an analytic reader whose mind is not up to the required tension to spring over the chasm."*

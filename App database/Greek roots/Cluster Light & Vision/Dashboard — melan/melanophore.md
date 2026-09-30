@@ -5,13 +5,6 @@ status: unread
 ---
 # melanophore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A melanin-containing chromatophore cell especially of fishes, amphibians, and reptiles that is similar to a mammalian melanocyte.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A melanin-containing chromatophore cell especially of fishes, amphibians, and reptiles that is similar to a mammalian melanocyte.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melanophore designates a melanin-containing chromatophore cell especially of fishes, amphibians, and reptiles that is similar to a mammalian melanocyte."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A melanin-containing chromatophore cell especially of fishes, amphibians, and reptiles that is similar to a mammalian melanocyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A melanin-containing chromatophore cell especially of fishes, amphibians, and reptiles that is similar to a mammalian melanocyte.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melanophore designates a melanin-containing chromatophore cell especially of fishes, amphibians, and reptiles that is similar to a mammalian melanocyte."*

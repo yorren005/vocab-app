@@ -5,15 +5,6 @@ status: unread
 ---
 # haply
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By accident.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By accident.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord your son made me to think of this; Else Paris, and the medicine, and the king, Had from the conversation of my thoughts Haply been absent then."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST GENTLEMAN. ’Tis but the boldness of his hand haply, which his heart was not consenting to."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When haply he shall hear that she is gone He will return; and hope I may that she, Hearing so much, will speed her foot again, Led hither by pure love."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By accident.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By accident.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord your son made me to think of this; Else Paris, and the medicine, and the king, Had from the conversation of my thoughts Haply been absent then."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST GENTLEMAN. ’Tis but the boldness of his hand haply, which his heart was not consenting to."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When haply he shall hear that she is gone He will return; and hope I may that she, Hearing so much, will speed her foot again, Led hither by pure love."*

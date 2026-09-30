@@ -5,15 +5,6 @@ status: unread
 ---
 # neurasthenic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person suffering a nervous breakdown.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or suffering from neurasthenia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Sadger,[76] marks the neurasthenic, and often constitutes a hereditary taint."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"FREED FROM NEURASTHENIC AND OTHER TROUBLES Christian Science found in me a minister's son who had failed to profit by continuous teaching in the old thought."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Some years ago I was pronounced by a professor of /materia medica/, whose works are in general use, a neurasthenic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person suffering a nervous breakdown.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or suffering from neurasthenia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Sadger,[76] marks the neurasthenic, and often constitutes a hereditary taint."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"FREED FROM NEURASTHENIC AND OTHER TROUBLES Christian Science found in me a minister's son who had failed to profit by continuous teaching in the old thought."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Some years ago I was pronounced by a professor of /materia medica/, whose works are in general use, a neurasthenic."*

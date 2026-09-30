@@ -5,13 +5,6 @@ status: unread
 ---
 # necropolis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cemetery; especially : a large elaborate cemetery of an ancient city.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cemetery; especially : a large elaborate cemetery of an ancient city.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Again, effigies of Osiris, with faces of green wax and their interior full of grain, were found buried near the necropolis of Thebes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cemetery; especially : a large elaborate cemetery of an ancient city.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cemetery; especially : a large elaborate cemetery of an ancient city.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Again, effigies of Osiris, with faces of green wax and their interior full of grain, were found buried near the necropolis of Thebes."*

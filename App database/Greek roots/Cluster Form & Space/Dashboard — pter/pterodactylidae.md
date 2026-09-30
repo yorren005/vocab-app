@@ -5,13 +5,6 @@ status: unread
 ---
 # pterodactylidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reptile family in the order pterosauria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reptile family in the order pterosauria.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pterodactylidae designates a reptile family in the order pterosauria."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reptile family in the order pterosauria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reptile family in the order pterosauria.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pterodactylidae designates a reptile family in the order pterosauria."*

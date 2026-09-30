@@ -5,15 +5,6 @@ status: unread
 ---
 # terribly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used as intensifiers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a terrible manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It thunders and lightens terribly; then the Spirit riseth._] SPIRIT. _Adsum_."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you should do it too terribly, you would fright the Duchess and the ladies, that they would shriek; and that were enough to hang us all."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It struck mine ear most terribly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used as intensifiers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a terrible manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It thunders and lightens terribly; then the Spirit riseth._] SPIRIT. _Adsum_."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you should do it too terribly, you would fright the Duchess and the ladies, that they would shriek; and that were enough to hang us all."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It struck mine ear most terribly."*

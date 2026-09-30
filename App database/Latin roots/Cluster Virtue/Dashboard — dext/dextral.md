@@ -5,13 +5,6 @@ status: unread
 ---
 # dextral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or on the right.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preferring to use right foot or hand or eye.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dextral designates of or on the right."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or on the right.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preferring to use right foot or hand or eye.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dextral designates of or on the right."*

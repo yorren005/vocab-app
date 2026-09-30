@@ -5,15 +5,6 @@ status: unread
 ---
 # regimen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) a systematic plan for therapy (often including diet).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) a systematic plan for therapy (often including diet).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"For it is thought that she herself would suffer if she were to neglect the prescribed regimen."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"We, too, may believe that people were healed, perhaps by living a healthy life in a quiet place, a life of regimen and diet; and perhaps faith-healing or suggestion played as strong a part as anything else."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I cannot persuade you to adopt my regimen, Vincy?” “No, no; I’ve no opinion of that system."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) a systematic plan for therapy (often including diet).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) a systematic plan for therapy (often including diet).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"For it is thought that she herself would suffer if she were to neglect the prescribed regimen."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"We, too, may believe that people were healed, perhaps by living a healthy life in a quiet place, a life of regimen and diet; and perhaps faith-healing or suggestion played as strong a part as anything else."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I cannot persuade you to adopt my regimen, Vincy?” “No, no; I’ve no opinion of that system."*

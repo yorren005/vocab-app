@@ -5,13 +5,6 @@ status: unread
 ---
 # malinowski
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: British anthropologist (born in poland) who introduced the technique of the participant observer (1884-1942).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: British anthropologist (born in poland) who introduced the technique of the participant observer (1884-1942).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malinowski designates british anthropologist (born in poland) who introduced the technique of the participant observer (1884-1942)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: British anthropologist (born in poland) who introduced the technique of the participant observer (1884-1942).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: British anthropologist (born in poland) who introduced the technique of the participant observer (1884-1942).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malinowski designates british anthropologist (born in poland) who introduced the technique of the participant observer (1884-1942)."*

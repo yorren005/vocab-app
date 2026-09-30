@@ -5,15 +5,6 @@ status: unread
 ---
 # department
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized division of a large organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The territorial and administrative division of some countries (such as france).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then, giving the Home Department and the leadership of the House of Commons to Joodle, the Exchequer to Koodle, the Colonies to Loodle, and the Foreign Office to Moodle, what are you to do with Noodle?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Why, Quebec, my poppet,” says George, following, on invitation, into that department."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In fact, that is our family department,” said Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized division of a large organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The territorial and administrative division of some countries (such as france).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Then, giving the Home Department and the leadership of the House of Commons to Joodle, the Exchequer to Koodle, the Colonies to Loodle, and the Foreign Office to Moodle, what are you to do with Noodle?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Why, Quebec, my poppet,” says George, following, on invitation, into that department."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In fact, that is our family department,” said Mr."*

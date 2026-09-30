@@ -5,13 +5,6 @@ status: unread
 ---
 # hyalospongiae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sponges with siliceous spicules that have six rays; choanocytes are restricted to finger-shaped chambers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sponges with siliceous spicules that have six rays; choanocytes are restricted to finger-shaped chambers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyalospongiae designates sponges with siliceous spicules that have six rays; choanocytes are restricted to finger-shaped chambers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sponges with siliceous spicules that have six rays; choanocytes are restricted to finger-shaped chambers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sponges with siliceous spicules that have six rays; choanocytes are restricted to finger-shaped chambers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyalospongiae designates sponges with siliceous spicules that have six rays; choanocytes are restricted to finger-shaped chambers."*

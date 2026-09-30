@@ -5,13 +5,6 @@ status: unread
 ---
 # monochromous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or appearing to have only one color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or appearing to have only one color.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monochromous designates having or appearing to have only one color."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or appearing to have only one color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or appearing to have only one color.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monochromous designates having or appearing to have only one color."*

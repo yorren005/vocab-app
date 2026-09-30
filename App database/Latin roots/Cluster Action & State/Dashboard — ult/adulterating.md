@@ -5,14 +5,6 @@ status: unread
 ---
 # adulterating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt, debase, or make impure by adding a foreign or inferior substance; often by replacing valuable ingredients with inferior ones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making impure or corrupt by adding extraneous materials.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The preparation consists in chopping fine the tea and adulterating leaves and twigs."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Adulterating Christian Science, makes it void."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt, debase, or make impure by adding a foreign or inferior substance; often by replacing valuable ingredients with inferior ones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making impure or corrupt by adding extraneous materials.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The preparation consists in chopping fine the tea and adulterating leaves and twigs."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Adulterating Christian Science, makes it void."*

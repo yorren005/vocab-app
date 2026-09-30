@@ -5,13 +5,6 @@ status: unread
 ---
 # undischarged
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Owed as a debt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Still capable of exploding or being fired.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"One, the most trifling part of my duty, remains undischarged."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Owed as a debt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Still capable of exploding or being fired.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"One, the most trifling part of my duty, remains undischarged."*

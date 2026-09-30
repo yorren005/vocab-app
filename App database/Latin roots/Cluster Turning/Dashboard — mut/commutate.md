@@ -5,13 +5,6 @@ status: unread
 ---
 # commutate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reverse the direction of (an alternating electric current) each half cycle so as to produce a unidirectional current.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reverse the direction of (an alternating electric current) each half cycle so as to produce a unidirectional current.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commutate designates reverse the direction of (an alternating electric current) each half cycle so as to produce a unidirectional current."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reverse the direction of (an alternating electric current) each half cycle so as to produce a unidirectional current.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reverse the direction of (an alternating electric current) each half cycle so as to produce a unidirectional current.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commutate designates reverse the direction of (an alternating electric current) each half cycle so as to produce a unidirectional current."*

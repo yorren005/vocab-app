@@ -5,15 +5,6 @@ status: unread
 ---
 # observantly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an observant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an observant manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The Tsar looked intently and observantly into Kutúzov’s eye waiting to hear whether he would say anything more."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Yes, you talk, but try it yourself!” And the count turned to the cook, who, with a shrewd and respectful expression, looked observantly and sympathetically at the father and son."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Jasper looks observantly from the one to the other, slightly smiles, and turns his back to mix a jug of mulled wine at the fire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an observant manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an observant manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The Tsar looked intently and observantly into Kutúzov’s eye waiting to hear whether he would say anything more."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Yes, you talk, but try it yourself!” And the count turned to the cook, who, with a shrewd and respectful expression, looked observantly and sympathetically at the father and son."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Jasper looks observantly from the one to the other, slightly smiles, and turns his back to mix a jug of mulled wine at the fire."*

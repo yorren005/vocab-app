@@ -5,15 +5,6 @@ status: unread
 ---
 # nautilus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Nautilus) of cephalopod mollusks of the South Pacific and Indian oceans with a spiral chambered shell that is pearly on the inside —called also chambered nautilus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paper nautilus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like noiseless nautilus shells, their light prows sped through the sea; but only slowly they neared the foe."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"So I contented myself with saying— “By what name ought I to address you?” “Sir,” replied the commander, “I am nothing to you but Captain Nemo; and you and your companions are nothing to me but the passengers of the _Nautilus_.” Captain Nemo called."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Then he became more calm, regained his accustomed coldness of expression, and turning towards me— “Now, Professor,” said he, “if you wish to go over the _Nautilus_, I am at your service.” Captain Nemo rose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Nautilus) of cephalopod mollusks of the South Pacific and Indian oceans with a spiral chambered shell that is pearly on the inside —called also chambered nautilus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paper nautilus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like noiseless nautilus shells, their light prows sped through the sea; but only slowly they neared the foe."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"So I contented myself with saying— “By what name ought I to address you?” “Sir,” replied the commander, “I am nothing to you but Captain Nemo; and you and your companions are nothing to me but the passengers of the _Nautilus_.” Captain Nemo called."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Then he became more calm, regained his accustomed coldness of expression, and turning towards me— “Now, Professor,” said he, “if you wish to go over the _Nautilus_, I am at your service.” Captain Nemo rose."*

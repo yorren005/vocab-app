@@ -5,13 +5,6 @@ status: unread
 ---
 # cityscape
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A viewpoint toward a city or other heavily populated area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Painting depicting a city or urban area.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cityscape designates a viewpoint toward a city or other heavily populated area."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A viewpoint toward a city or other heavily populated area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Painting depicting a city or urban area.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cityscape designates a viewpoint toward a city or other heavily populated area."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # uncooperative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwilling to cooperate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intentionally unaccommodating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncooperative designates unwilling to cooperate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwilling to cooperate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intentionally unaccommodating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncooperative designates unwilling to cooperate."*

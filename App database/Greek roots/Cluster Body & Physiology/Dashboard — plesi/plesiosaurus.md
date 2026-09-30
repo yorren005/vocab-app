@@ -5,15 +5,6 @@ status: unread
 ---
 # plesiosaurus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct marine reptile with a small head on a long neck a short tail and four paddle-shaped limbs; of the jurassic and cretaceous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct marine reptile with a small head on a long neck a short tail and four paddle-shaped limbs; of the jurassic and cretaceous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"He may even now—if I may use the phrase—be wandering on some plesiosaurus-haunted Oolitic coral reef, or beside the lonely saline seas of the Triassic Age."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The limbs were probably two pairs of paddles, like those of _Plesiosaurus_, from which this diver chiefly differed in the arrangement of the bones of the breast."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"FISH-SNAKE Plesiosaurus or elasmosaurus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct marine reptile with a small head on a long neck a short tail and four paddle-shaped limbs; of the jurassic and cretaceous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct marine reptile with a small head on a long neck a short tail and four paddle-shaped limbs; of the jurassic and cretaceous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"He may even now—if I may use the phrase—be wandering on some plesiosaurus-haunted Oolitic coral reef, or beside the lonely saline seas of the Triassic Age."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The limbs were probably two pairs of paddles, like those of _Plesiosaurus_, from which this diver chiefly differed in the arrangement of the bones of the breast."*
+> - 📜 **F. H. Costello (*Sure-dart*):** *"FISH-SNAKE Plesiosaurus or elasmosaurus."*

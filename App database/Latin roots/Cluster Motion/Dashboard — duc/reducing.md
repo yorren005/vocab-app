@@ -5,15 +5,6 @@ status: unread
 ---
 # reducing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any process in which electrons are added to an atom or ion (as by removing oxygen or adding hydrogen); always occurs accompanied by oxidation of the reducing agent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of excess weight (as by dieting); becoming slimmer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No—I’ve hardly looked at her at all,” simpered Joseph, reducing his body smaller whilst talking, apparently from a meek sense of undue prominence."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This done, she paid him, reducing herself to almost her last shilling thereby, and he moved off and left them, only too glad to get out of further dealings with such a family."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This checks prices, and, reducing the specie reserves of the banks, compels them to be more cautious."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any process in which electrons are added to an atom or ion (as by removing oxygen or adding hydrogen); always occurs accompanied by oxidation of the reducing agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of excess weight (as by dieting); becoming slimmer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No—I’ve hardly looked at her at all,” simpered Joseph, reducing his body smaller whilst talking, apparently from a meek sense of undue prominence."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This done, she paid him, reducing herself to almost her last shilling thereby, and he moved off and left them, only too glad to get out of further dealings with such a family."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This checks prices, and, reducing the specie reserves of the banks, compels them to be more cautious."*

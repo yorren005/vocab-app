@@ -5,13 +5,6 @@ status: unread
 ---
 # nyctalopia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inability to see clearly in dim light; due to a deficiency of vitamin a or to a retinal disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inability to see clearly in dim light; due to a deficiency of vitamin a or to a retinal disorder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nyctalopia designates inability to see clearly in dim light; due to a deficiency of vitamin a or to a retinal disorder."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inability to see clearly in dim light; due to a deficiency of vitamin a or to a retinal disorder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inability to see clearly in dim light; due to a deficiency of vitamin a or to a retinal disorder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nyctalopia designates inability to see clearly in dim light; due to a deficiency of vitamin a or to a retinal disorder."*

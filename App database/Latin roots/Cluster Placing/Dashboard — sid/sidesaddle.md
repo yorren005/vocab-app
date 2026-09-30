@@ -5,13 +5,6 @@ status: unread
 ---
 # sidesaddle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A saddle for a woman; rider sits with both feet on the same side of the horse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On or as if on a sidesaddle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"No sidesaddle or pillion for her, not for Joe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A saddle for a woman; rider sits with both feet on the same side of the horse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On or as if on a sidesaddle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"No sidesaddle or pillion for her, not for Joe."*

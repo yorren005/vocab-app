@@ -5,15 +5,6 @@ status: unread
 ---
 # universe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The whole body of things and phenomena observed or postulated : cosmos: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A systematic whole held to arise by and persist through the direct intervention of divine power.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now entertain conjecture of a time When creeping murmur and the poring dark Fills the wide vessel of the universe."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She is the child of the universe.” Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The universe,” he observed, “makes rather an indifferent parent, I am afraid.” “Oh!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The whole body of things and phenomena observed or postulated : cosmos: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A systematic whole held to arise by and persist through the direct intervention of divine power.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now entertain conjecture of a time When creeping murmur and the poring dark Fills the wide vessel of the universe."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"She is the child of the universe.” Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The universe,” he observed, “makes rather an indifferent parent, I am afraid.” “Oh!"*

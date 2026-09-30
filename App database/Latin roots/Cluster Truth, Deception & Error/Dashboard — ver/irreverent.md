@@ -5,15 +5,6 @@ status: unread
 ---
 # irreverent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing lack of due respect or veneration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by a lightly pert and exuberant quality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Graffiti is an irreverent form, with strong popular and anti-establishment elements."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He had an irreverent vision of God smiling and talking comfortably to his father while the bald-headed bankers cooled their fat heels and glared at one another outside the picket-gates of heaven...."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It’s the first position in this part of the county.” “I dare say you think me very irreverent,” Isabel took occasion to remark."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing lack of due respect or veneration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by a lightly pert and exuberant quality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Graffiti is an irreverent form, with strong popular and anti-establishment elements."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He had an irreverent vision of God smiling and talking comfortably to his father while the bald-headed bankers cooled their fat heels and glared at one another outside the picket-gates of heaven...."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It’s the first position in this part of the county.” “I dare say you think me very irreverent,” Isabel took occasion to remark."*

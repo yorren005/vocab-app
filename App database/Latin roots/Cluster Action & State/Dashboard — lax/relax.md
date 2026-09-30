@@ -5,15 +5,6 @@ status: unread
 ---
 # relax
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become less tense, rest, or take one's ease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less taut.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"They then rubbed two pieces of wood one against another so rapidly as to produce fire, the men joining in one after the other, and working with the utmost energy and never allowing the friction to relax."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers relax into something like a smile, and Wemmick become bolder."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"But Lulu grew self-confident, and began to relax her vigilance: it was so long since her temper had got decidedly the better of her, that she thought it conquered, or so nearly so that she need not be continually on the watch against it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become less tense, rest, or take one's ease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less taut.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"They then rubbed two pieces of wood one against another so rapidly as to produce fire, the men joining in one after the other, and working with the utmost energy and never allowing the friction to relax."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers relax into something like a smile, and Wemmick become bolder."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"But Lulu grew self-confident, and began to relax her vigilance: it was so long since her temper had got decidedly the better of her, that she thought it conquered, or so nearly so that she need not be continually on the watch against it."*

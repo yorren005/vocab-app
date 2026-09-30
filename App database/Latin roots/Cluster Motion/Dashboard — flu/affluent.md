@@ -5,15 +5,6 @@ status: unread
 ---
 # affluent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An affluent person; a person who is financially well off.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch that flows into the main stream.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"They cannot endure doctrines, which level all vain distinctions, and require the noble, the affluent, and the learned, to assume the same station of penitence and contrition, with the lowliest peasant."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I had the happiness to know you in former times, and the Drama has ever had a claim which has ever been acknowledged, on the noble and the affluent.” Meanwhile, Mr."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"She was understood to be wretchedly poor, and seemed to make it her choice to remain so; inasmuch as her affluent cousin, the Judge, had repeatedly offered her all the comforts of life, either in the old mansion or his own modern residence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An affluent person; a person who is financially well off.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch that flows into the main stream.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"They cannot endure doctrines, which level all vain distinctions, and require the noble, the affluent, and the learned, to assume the same station of penitence and contrition, with the lowliest peasant."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I had the happiness to know you in former times, and the Drama has ever had a claim which has ever been acknowledged, on the noble and the affluent.” Meanwhile, Mr."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"She was understood to be wretchedly poor, and seemed to make it her choice to remain so; inasmuch as her affluent cousin, the Judge, had repeatedly offered her all the comforts of life, either in the old mansion or his own modern residence."*

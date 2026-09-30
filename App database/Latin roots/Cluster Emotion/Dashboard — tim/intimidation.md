@@ -5,15 +5,6 @@ status: unread
 ---
 # intimidation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of intimidating a weaker person to make them do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The feeling of discouragement in the face of someone's superior fame or wealth or status etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"He intimates that he has decided upon threats and public intimidation as being probably more effective than a servile attitude, which, he allows us to infer, he would be quite willing to take if advisable."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Das Beste muss hier die Presse thun zur Intimidation, und die ersten Kotwuerfe auf Karl Heine und namentlich auf Adolf Halle werden schon wirken."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If it were necessary to confirm so plain a truth by facts, examples would not be wanting, even in this country, of the intimidation or seduction of the Executive by the terrors or allurements of the pecuniary arrangements of the legislative body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of intimidating a weaker person to make them do something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The feeling of discouragement in the face of someone's superior fame or wealth or status etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"He intimates that he has decided upon threats and public intimidation as being probably more effective than a servile attitude, which, he allows us to infer, he would be quite willing to take if advisable."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Das Beste muss hier die Presse thun zur Intimidation, und die ersten Kotwuerfe auf Karl Heine und namentlich auf Adolf Halle werden schon wirken."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If it were necessary to confirm so plain a truth by facts, examples would not be wanting, even in this country, of the intimidation or seduction of the Executive by the terrors or allurements of the pecuniary arrangements of the legislative body."*

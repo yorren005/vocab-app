@@ -5,15 +5,6 @@ status: unread
 ---
 # dispersal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of dispersing or diffusing something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of dispersing or diffusing something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"It must, in its initial stages, witness a dispersal, combined with a consecration, reminiscent of the dawn of the Heroic Age in Bahá'u'lláh's native land."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Nor were these the only tokens of dispersal."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"So many times had Rosa seen such dispersals, and so very little did she know of any other Home, that she was contented to remain where she was, and was even better contented than ever before, having her latest friend with her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of dispersing or diffusing something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of dispersing or diffusing something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"It must, in its initial stages, witness a dispersal, combined with a consecration, reminiscent of the dawn of the Heroic Age in Bahá'u'lláh's native land."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Nor were these the only tokens of dispersal."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"So many times had Rosa seen such dispersals, and so very little did she know of any other Home, that she was contented to remain where she was, and was even better contented than ever before, having her latest friend with her."*

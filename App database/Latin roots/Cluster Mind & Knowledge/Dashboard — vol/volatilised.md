@@ -5,13 +5,6 @@ status: unread
 ---
 # volatilised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make volatile; cause to pass off in a vapor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Converted into a gas or vapor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"In addition, values in the form of volatilised metallic products are also conveyed by the gases, particularly when lead, zinc, arsenic, etc., are present in the furnace charge, and these are carried forward in the form of _fume_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make volatile; cause to pass off in a vapor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Converted into a gas or vapor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"In addition, values in the form of volatilised metallic products are also conveyed by the gases, particularly when lead, zinc, arsenic, etc., are present in the furnace charge, and these are carried forward in the form of _fume_."*

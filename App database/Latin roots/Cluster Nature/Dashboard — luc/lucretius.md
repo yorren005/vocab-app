@@ -5,15 +5,6 @@ status: unread
 ---
 # lucretius
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman philosopher and poet; in a long didactic poem he tried to provide a scientific explanation of the universe (96-55 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman philosopher and poet; in a long didactic poem he tried to provide a scientific explanation of the universe (96-55 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Daughter, dear daughter,” old Lucretius cries, “That life was mine which thou hast here deprived."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"When the Roman poet, Lucretius, wants to describe the wonder and magic of the pageant of Nature in the spring-time he goes to the pomp of Cybele."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Lucretius was a poet to whom the gods were idle and irrelevant; yet to that pageant he goes for a picture of the miraculous life of nature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman philosopher and poet; in a long didactic poem he tried to provide a scientific explanation of the universe (96-55 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman philosopher and poet; in a long didactic poem he tried to provide a scientific explanation of the universe (96-55 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Daughter, dear daughter,” old Lucretius cries, “That life was mine which thou hast here deprived."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"When the Roman poet, Lucretius, wants to describe the wonder and magic of the pageant of Nature in the spring-time he goes to the pomp of Cybele."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Lucretius was a poet to whom the gods were idle and irrelevant; yet to that pageant he goes for a picture of the miraculous life of nature."*

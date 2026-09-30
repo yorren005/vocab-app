@@ -5,14 +5,6 @@ status: unread
 ---
 # reversible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A garment (especially a coat) that can be worn inside out (with either side of the cloth showing).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of reversing or being reversed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Reversible propositions 113:9 The fundamental propositions of divine metaphysics are summarized in the four following, to me, /self-evident/ propositions."*
-> - 📜 **James Joyce (*Ulysses*):** *"An unsatisfactory equation between an exodus and return in time through reversible space and an exodus and return in space through irreversible time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A garment (especially a coat) that can be worn inside out (with either side of the cloth showing).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of reversing or being reversed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Reversible propositions 113:9 The fundamental propositions of divine metaphysics are summarized in the four following, to me, /self-evident/ propositions."*
+> - 📜 **James Joyce (*Ulysses*):** *"An unsatisfactory equation between an exodus and return in time through reversible space and an exodus and return in space through irreversible time."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # xeroderma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genetic disorder inherited as a recessive autosomal trait that is caused by a defect in mechanisms that repair DNA mutations (such as those caused by ultraviolet light) and is characterized by the development of pigment abnormalities and multiple skin cancers in areas exposed to the sun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genetic disorder inherited as a recessive autosomal trait that is caused by a defect in mechanisms that repair DNA mutations (such as those caused by ultraviolet light) and is characterized by the development of pigment abnormalities and multiple skin cancers in areas exposed to the sun.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xeroderma designates a genetic disorder inherited as a recessive autosomal trait that is caused by a defect in mechanisms that repair dna mutations (such as those caused by ultraviolet light) and is characterized by the development of pigment abnormalities and multiple skin cancers in areas exposed to the sun."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genetic disorder inherited as a recessive autosomal trait that is caused by a defect in mechanisms that repair DNA mutations (such as those caused by ultraviolet light) and is characterized by the development of pigment abnormalities and multiple skin cancers in areas exposed to the sun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genetic disorder inherited as a recessive autosomal trait that is caused by a defect in mechanisms that repair DNA mutations (such as those caused by ultraviolet light) and is characterized by the development of pigment abnormalities and multiple skin cancers in areas exposed to the sun.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xeroderma designates a genetic disorder inherited as a recessive autosomal trait that is caused by a defect in mechanisms that repair dna mutations (such as those caused by ultraviolet light) and is characterized by the development of pigment abnormalities and multiple skin cancers in areas exposed to the sun."*

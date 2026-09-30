@@ -5,15 +5,6 @@ status: unread
 ---
 # ambulance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vehicle that takes people to and from hospitals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vehicle that takes people to and from hospitals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"There is an ambulance here: I think I will put you in it, and have you taken home at once."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"And you, cousin Zoe, get into your carriage, and drive on behind it, or ahead if you choose." "Can't I ride in the ambulance beside him?" she asked, almost imploringly."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Zoe would not stir till she had seen Edward put into the ambulance, and made as comfortable for his ride home as circumstances would permit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vehicle that takes people to and from hospitals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vehicle that takes people to and from hospitals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"There is an ambulance here: I think I will put you in it, and have you taken home at once."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"And you, cousin Zoe, get into your carriage, and drive on behind it, or ahead if you choose." "Can't I ride in the ambulance beside him?" she asked, almost imploringly."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Zoe would not stir till she had seen Edward put into the ambulance, and made as comfortable for his ride home as circumstances would permit."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # volcanic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or produced by or consisting of volcanoes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Explosively unstable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The moon has eyed Tom with a dull cold stare, as admitting some puny emulation of herself in his desert region unfit for life and blasted by volcanic fires; but she has passed on and is gone."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They were too volcanic, spasmodic, eruptive."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"To the N.E. two volcanic islands emerged of unequal size, surrounded by a coral reef that measured forty miles in circumference."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or produced by or consisting of volcanoes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Explosively unstable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The moon has eyed Tom with a dull cold stare, as admitting some puny emulation of herself in his desert region unfit for life and blasted by volcanic fires; but she has passed on and is gone."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They were too volcanic, spasmodic, eruptive."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"To the N.E. two volcanic islands emerged of unequal size, surrounded by a coral reef that measured forty miles in circumference."*

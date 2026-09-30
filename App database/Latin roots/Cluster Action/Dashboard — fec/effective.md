@@ -5,15 +5,6 @@ status: unread
 ---
 # effective
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or capable of producing an intended result or having a striking effect; -lewismumford.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to accomplish a purpose; functioning effectively; -g.b.shaw.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The day is closing in and the gas is lighted, but is not yet fully effective, for it is not quite dark."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When expressed with some amount of reflectiveness it seems co-ordinate with a belief that this flattery must be reasonable to be effective."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Those who have the power of reproaching in silence may find it a means more effective than words."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or capable of producing an intended result or having a striking effect; -lewismumford.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to accomplish a purpose; functioning effectively; -g.b.shaw.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The day is closing in and the gas is lighted, but is not yet fully effective, for it is not quite dark."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When expressed with some amount of reflectiveness it seems co-ordinate with a belief that this flattery must be reasonable to be effective."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Those who have the power of reproaching in silence may find it a means more effective than words."*

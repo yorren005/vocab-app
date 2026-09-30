@@ -5,15 +5,6 @@ status: unread
 ---
 # molly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Popular aquarium fish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Popular aquarium fish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Molly, let them see your wrist.” Her entrapped hand was on the table, but she had already put her other hand behind her waist."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Molly, let them see your wrist.” “Master,” she again murmured."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Now, Molly, Molly, Molly, Molly, how slow you are to-day!” She was at his elbow when he addressed her, putting a dish upon the table."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Popular aquarium fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Popular aquarium fish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Molly, let them see your wrist.” Her entrapped hand was on the table, but she had already put her other hand behind her waist."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Molly, let them see your wrist.” “Master,” she again murmured."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Now, Molly, Molly, Molly, Molly, how slow you are to-day!” She was at his elbow when he addressed her, putting a dish upon the table."*

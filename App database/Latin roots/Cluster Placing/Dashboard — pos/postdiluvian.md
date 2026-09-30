@@ -5,13 +5,6 @@ status: unread
 ---
 # postdiluvian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anything living after noah's flood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing or occurring after noah's flood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postdiluvian designates anything living after noah's flood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anything living after noah's flood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing or occurring after noah's flood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postdiluvian designates anything living after noah's flood."*

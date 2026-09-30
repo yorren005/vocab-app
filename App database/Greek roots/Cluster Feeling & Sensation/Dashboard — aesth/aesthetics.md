@@ -5,14 +5,6 @@ status: unread
 ---
 # aesthetics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The artistic or beautiful qualities of something : beauty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular theory or conception of beauty or art : a particular taste for or approach to what is pleasing to the senses and especially sight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"The painter, the sculptor, the musical composer must plead our cause in the world of aesthetics."*
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"As is indicated in the title, he wrestled with a theory of American aesthetics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The artistic or beautiful qualities of something : beauty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular theory or conception of beauty or art : a particular taste for or approach to what is pleasing to the senses and especially sight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"The painter, the sculptor, the musical composer must plead our cause in the world of aesthetics."*
+> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"As is indicated in the title, he wrestled with a theory of American aesthetics."*

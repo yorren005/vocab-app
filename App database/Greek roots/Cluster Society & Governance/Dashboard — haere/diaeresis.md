@@ -5,13 +5,6 @@ status: unread
 ---
 # diaeresis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mark ¨ placed over a vowel to indicate that the vowel is pronounced in a separate syllable (as in naïve or Brontë).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The break in a verse caused by the coincidence of the end of a foot with the end of a word.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diaeresis designates a mark ¨ placed over a vowel to indicate that the vowel is pronounced in a separate syllable (as in naïve or brontë)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mark ¨ placed over a vowel to indicate that the vowel is pronounced in a separate syllable (as in naïve or Brontë).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The break in a verse caused by the coincidence of the end of a foot with the end of a word.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diaeresis designates a mark ¨ placed over a vowel to indicate that the vowel is pronounced in a separate syllable (as in naïve or brontë)."*

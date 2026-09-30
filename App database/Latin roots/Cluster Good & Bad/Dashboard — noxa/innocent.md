@@ -5,15 +5,6 @@ status: unread
 ---
 # innocent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who lacks knowledge of evil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from evil or guilt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know him: he was a botcher’s ’prentice in Paris, from whence he was whipped for getting the shrieve’s fool with child, a dumb innocent that could not say him nay. [_First Lord lifts up his hand in anger._] BERTRAM."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If their purgation did consist in words, They are as innocent as grace itself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I draw the sword myself; take it, and hit The innocent mansion of my love, my heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who lacks knowledge of evil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from evil or guilt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know him: he was a botcher’s ’prentice in Paris, from whence he was whipped for getting the shrieve’s fool with child, a dumb innocent that could not say him nay. [_First Lord lifts up his hand in anger._] BERTRAM."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If their purgation did consist in words, They are as innocent as grace itself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I draw the sword myself; take it, and hit The innocent mansion of my love, my heart."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # indication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that serves to indicate or suggest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of indicating or pointing out by name.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce sat enjoying the image of his friend Boythorn, we observed the favourable omen that there was not the least indication of any change in the wind."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But William Buffy somehow discovered, contrary to all expectation, that these were not the times when it could be done, and this was the first clear indication Sir Leicester Dedlock had conveyed to him that the country was going to pieces."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Permit me, for one moment!” She has given a faint indication of intending to speak."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that serves to indicate or suggest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of indicating or pointing out by name.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce sat enjoying the image of his friend Boythorn, we observed the favourable omen that there was not the least indication of any change in the wind."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But William Buffy somehow discovered, contrary to all expectation, that these were not the times when it could be done, and this was the first clear indication Sir Leicester Dedlock had conveyed to him that the country was going to pieces."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Permit me, for one moment!” She has given a faint indication of intending to speak."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # autocracy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The authority or rule of an autocrat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Government in which one person possesses unlimited power.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"The ghost of its memory has touched me." O melody divine, of fantasy And frenzied mem'ry wrought, advance From out the shades; O spectral utterance, Untwine thy chains, thy fair autocracy Unveil, have being, declare Thy state and tuneful sovereignty."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Do not hope to find elsewhere the secret of our ills."[11] This then in briefest outline is the transition from the century of individualism and autocracy to the nineteenth century of democracy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The authority or rule of an autocrat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Government in which one person possesses unlimited power.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **C. A. Frazer (*Atmâ*):** *"The ghost of its memory has touched me." O melody divine, of fantasy And frenzied mem'ry wrought, advance From out the shades; O spectral utterance, Untwine thy chains, thy fair autocracy Unveil, have being, declare Thy state and tuneful sovereignty."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Do not hope to find elsewhere the secret of our ills."[11] This then in briefest outline is the transition from the century of individualism and autocracy to the nineteenth century of democracy."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # visible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being seen; or open to easy view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obvious to the eye.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here I am Antony, Yet cannot hold this visible shape, my knave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If that the heavens do not their visible spirits Send quickly down to tame these vile offences, It will come, Humanity must perforce prey on itself, Like monsters of the deep."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dear, look up: Though Fortune, visible an enemy, Should chase us with my father, power no jot Hath she to change our loves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being seen; or open to easy view.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obvious to the eye.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here I am Antony, Yet cannot hold this visible shape, my knave."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If that the heavens do not their visible spirits Send quickly down to tame these vile offences, It will come, Humanity must perforce prey on itself, Like monsters of the deep."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dear, look up: Though Fortune, visible an enemy, Should chase us with my father, power no jot Hath she to change our loves."*

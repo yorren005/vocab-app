@@ -5,15 +5,6 @@ status: unread
 ---
 # conspiracy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A secret agreement between two or more people to perform an unlawful act.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plot to carry out some harmful or illegal act (especially a political plot).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O conspiracy, Sham’st thou to show thy dangerous brow by night, When evils are most free?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Seek none, conspiracy; Hide it in smiles and affability: For if thou path, thy native semblance on, Not Erebus itself were dim enough To hide thee from prevention."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou be’st not immortal, look about you: security gives way to conspiracy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A secret agreement between two or more people to perform an unlawful act.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plot to carry out some harmful or illegal act (especially a political plot).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O conspiracy, Sham’st thou to show thy dangerous brow by night, When evils are most free?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Seek none, conspiracy; Hide it in smiles and affability: For if thou path, thy native semblance on, Not Erebus itself were dim enough To hide thee from prevention."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou be’st not immortal, look about you: security gives way to conspiracy."*

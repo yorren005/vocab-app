@@ -5,13 +5,6 @@ status: unread
 ---
 # myelinisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The development of a myelin sheath around a nerve fiber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The development of a myelin sheath around a nerve fiber.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelinisation designates the development of a myelin sheath around a nerve fiber."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The development of a myelin sheath around a nerve fiber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The development of a myelin sheath around a nerve fiber.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelinisation designates the development of a myelin sheath around a nerve fiber."*

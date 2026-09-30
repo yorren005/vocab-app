@@ -5,15 +5,6 @@ status: unread
 ---
 # occupancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of being a tenant or occupant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of occupying or taking possession of a building.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"When enclosed areas were shirtsleeve ready for occupancy, the Cadre would erect essential life support, residential and recreational facilities."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"He left Burns, departing with a shuffling step and an air of grudging the strange gentleman the occupancy of the room, although it was to be for only so long as it would take to bring back word that neither of the ladies would see him to-night."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Hold thought steadfastly to the endur- ing, the good, and the true, and you will bring these 261:6 into your experience proportionably to their occupancy of your thoughts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of being a tenant or occupant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of occupying or taking possession of a building.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"When enclosed areas were shirtsleeve ready for occupancy, the Cadre would erect essential life support, residential and recreational facilities."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"He left Burns, departing with a shuffling step and an air of grudging the strange gentleman the occupancy of the room, although it was to be for only so long as it would take to bring back word that neither of the ladies would see him to-night."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Hold thought steadfastly to the endur- ing, the good, and the true, and you will bring these 261:6 into your experience proportionably to their occupancy of your thoughts."*

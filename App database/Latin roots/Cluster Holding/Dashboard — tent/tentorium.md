@@ -5,13 +5,6 @@ status: unread
 ---
 # tentorium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) a fold of dura mater that covers the cerebellum and supports the occipital lobes of the cerebrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anatomy) a fold of dura mater that covers the cerebellum and supports the occipital lobes of the cerebrum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tentorium designates (anatomy) a fold of dura mater that covers the cerebellum and supports the occipital lobes of the cerebrum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) a fold of dura mater that covers the cerebellum and supports the occipital lobes of the cerebrum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anatomy) a fold of dura mater that covers the cerebellum and supports the occipital lobes of the cerebrum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tentorium designates (anatomy) a fold of dura mater that covers the cerebellum and supports the occipital lobes of the cerebrum."*

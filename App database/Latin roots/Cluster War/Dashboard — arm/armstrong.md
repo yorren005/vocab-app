@@ -5,15 +5,6 @@ status: unread
 ---
 # armstrong
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states astronaut; the first man to set foot on the moon (july 20, 1969) (1930-).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states pioneering jazz trumpeter and bandleader (1900-1971).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Johnson, Miss Armstrong, and Mrs."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The Fourteenth Corps by Miss Armstrong."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This is the invention of two gentlemen, Messrs Armstrong and Orling, whose first syllables combine to form the title of the torpedo."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states astronaut; the first man to set foot on the moon (july 20, 1969) (1930-).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states pioneering jazz trumpeter and bandleader (1900-1971).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Johnson, Miss Armstrong, and Mrs."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The Fourteenth Corps by Miss Armstrong."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This is the invention of two gentlemen, Messrs Armstrong and Orling, whose first syllables combine to form the title of the torpedo."*

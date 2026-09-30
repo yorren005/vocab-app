@@ -5,13 +5,6 @@ status: unread
 ---
 # electromagnet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporary magnet made by coiling wire around an iron core; when current flows in the coil the iron becomes a magnet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A temporary magnet made by coiling wire around an iron core; when current flows in the coil the iron becomes a magnet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromagnet designates a temporary magnet made by coiling wire around an iron core; when current flows in the coil the iron becomes a magnet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporary magnet made by coiling wire around an iron core; when current flows in the coil the iron becomes a magnet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A temporary magnet made by coiling wire around an iron core; when current flows in the coil the iron becomes a magnet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromagnet designates a temporary magnet made by coiling wire around an iron core; when current flows in the coil the iron becomes a magnet."*

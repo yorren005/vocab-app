@@ -5,15 +5,6 @@ status: unread
 ---
 # impersonate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assume or act the character of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent another person with comic intentions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I can just imagine what a funny figure that policeman cut!” And as he waved his arms to impersonate the policeman, his portly form again shook with a deep ringing laugh, the laugh of one who always eats well and, in particular, drinks well."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Septimus, as an official personage to be addressed, or kind of human peg to hang his oratorical hat on, and fell into the exasperating habit, common among such orators, of impersonating him as a wicked and weak opponent."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"The show was given by a man and two boys, one of whom impersonated a girl."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Assume or act the character of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent another person with comic intentions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I can just imagine what a funny figure that policeman cut!” And as he waved his arms to impersonate the policeman, his portly form again shook with a deep ringing laugh, the laugh of one who always eats well and, in particular, drinks well."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Septimus, as an official personage to be addressed, or kind of human peg to hang his oratorical hat on, and fell into the exasperating habit, common among such orators, of impersonating him as a wicked and weak opponent."*
+> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"The show was given by a man and two boys, one of whom impersonated a girl."*

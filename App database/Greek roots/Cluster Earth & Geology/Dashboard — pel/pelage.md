@@ -5,13 +5,6 @@ status: unread
 ---
 # pelage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Growth of hair or wool or fur covering the body of an animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growth of hair or wool or fur covering the body of an animal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pelage designates growth of hair or wool or fur covering the body of an animal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growth of hair or wool or fur covering the body of an animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growth of hair or wool or fur covering the body of an animal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pelage designates growth of hair or wool or fur covering the body of an animal."*

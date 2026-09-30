@@ -5,13 +5,6 @@ status: unread
 ---
 # maritimes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The collective name for the canadian provinces of new brunswick and nova scotia and prince edward island.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The collective name for the canadian provinces of new brunswick and nova scotia and prince edward island.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maritimes designates the collective name for the canadian provinces of new brunswick and nova scotia and prince edward island."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The collective name for the canadian provinces of new brunswick and nova scotia and prince edward island.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The collective name for the canadian provinces of new brunswick and nova scotia and prince edward island.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maritimes designates the collective name for the canadian provinces of new brunswick and nova scotia and prince edward island."*

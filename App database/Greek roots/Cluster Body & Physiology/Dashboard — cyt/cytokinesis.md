@@ -5,13 +5,6 @@ status: unread
 ---
 # cytokinesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cytoplasmic changes accompanying mitosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cleavage of the cytoplasm into daughter cells following nuclear division.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytokinesis designates the cytoplasmic changes accompanying mitosis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cytoplasmic changes accompanying mitosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cleavage of the cytoplasm into daughter cells following nuclear division.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytokinesis designates the cytoplasmic changes accompanying mitosis."*

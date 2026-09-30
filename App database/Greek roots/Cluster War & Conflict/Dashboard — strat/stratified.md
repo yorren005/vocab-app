@@ -5,13 +5,6 @@ status: unread
 ---
 # stratified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divide society into social classes or castes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form layers or strata.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stratified designates divide society into social classes or castes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divide society into social classes or castes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form layers or strata.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stratified designates divide society into social classes or castes."*

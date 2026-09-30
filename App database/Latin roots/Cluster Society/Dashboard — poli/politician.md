@@ -5,15 +5,6 @@ status: unread
 ---
 # politician
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A leader engaged in civil administration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person active in party politics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This might be the pate of a politician which this ass now o’er-offices, one that would circumvent God, might it not?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, look you, I am whipp’d and scourged with rods, Nettled, and stung with pismires, when I hear Of this vile politician, Bolingbroke."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get thee glass eyes, And like a scurvy politician, seem To see the things thou dost not."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A leader engaged in civil administration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person active in party politics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This might be the pate of a politician which this ass now o’er-offices, one that would circumvent God, might it not?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, look you, I am whipp’d and scourged with rods, Nettled, and stung with pismires, when I hear Of this vile politician, Bolingbroke."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get thee glass eyes, And like a scurvy politician, seem To see the things thou dost not."*

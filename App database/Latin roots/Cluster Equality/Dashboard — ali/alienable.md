@@ -5,14 +5,6 @@ status: unread
 ---
 # alienable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transferable to another owner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transferable to another owner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"There was only a small part of his estate that Sir Walter could dispose of; but had every acre been alienable, it would have made no difference."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Congratulate me on an ever-present and never alienable friend like her, and do, do insert, if you have not _lost_, my dedication [to Mary]."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transferable to another owner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transferable to another owner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"There was only a small part of his estate that Sir Walter could dispose of; but had every acre been alienable, it would have made no difference."*
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Congratulate me on an ever-present and never alienable friend like her, and do, do insert, if you have not _lost_, my dedication [to Mary]."*

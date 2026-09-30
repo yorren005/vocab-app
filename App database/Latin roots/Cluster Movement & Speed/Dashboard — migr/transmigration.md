@@ -5,15 +5,6 @@ status: unread
 ---
 # transmigration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The passing of a soul into another body after death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The passing of a soul into another body after death.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"To suppose, with Benfey and others, that the theories of animism and transmigration current among rude peoples of Asia are derived from Buddhism, is to reverse the facts."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The theory of transmigration is held by the Moqui Indians, who belong to the same race as the Zunis."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus their belief in transmigration into the turtle is probably one of the regular articles of their totem faith."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The passing of a soul into another body after death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The passing of a soul into another body after death.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"To suppose, with Benfey and others, that the theories of animism and transmigration current among rude peoples of Asia are derived from Buddhism, is to reverse the facts."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The theory of transmigration is held by the Moqui Indians, who belong to the same race as the Zunis."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus their belief in transmigration into the turtle is probably one of the regular articles of their totem faith."*

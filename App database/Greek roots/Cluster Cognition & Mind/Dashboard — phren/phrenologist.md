@@ -5,15 +5,6 @@ status: unread
 ---
 # phrenologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who claims to be able to read your character from the shape of your skull.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who claims to be able to read your character from the shape of your skull.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"To scan the lines of his face, or feel the bumps on the head of this Leviathan; this is a thing which no Physiognomist or Phrenologist has as yet undertaken."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If the Sperm Whale be physiognomically a Sphinx, to the phrenologist his brain seems that geometrical circle which it is impossible to square."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"To scan the lines of his face, or feel the bumps on the head of this Leviathan; this is a thing which no Physiognomist or Phrenologist has as yet undertaken."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who claims to be able to read your character from the shape of your skull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who claims to be able to read your character from the shape of your skull.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"To scan the lines of his face, or feel the bumps on the head of this Leviathan; this is a thing which no Physiognomist or Phrenologist has as yet undertaken."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If the Sperm Whale be physiognomically a Sphinx, to the phrenologist his brain seems that geometrical circle which it is impossible to square."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"To scan the lines of his face, or feel the bumps on the head of this Leviathan; this is a thing which no Physiognomist or Phrenologist has as yet undertaken."*

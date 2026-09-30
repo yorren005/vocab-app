@@ -5,13 +5,6 @@ status: unread
 ---
 # rhizotomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical procedure in which spinal nerve roots are cut; done (anterior roots) to relieve intractable pain or (posterior roots) to stop severe muscle spasms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical procedure in which spinal nerve roots are cut; done (anterior roots) to relieve intractable pain or (posterior roots) to stop severe muscle spasms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizotomy designates surgical procedure in which spinal nerve roots are cut; done (anterior roots) to relieve intractable pain or (posterior roots) to stop severe muscle spasms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical procedure in which spinal nerve roots are cut; done (anterior roots) to relieve intractable pain or (posterior roots) to stop severe muscle spasms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical procedure in which spinal nerve roots are cut; done (anterior roots) to relieve intractable pain or (posterior roots) to stop severe muscle spasms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizotomy designates surgical procedure in which spinal nerve roots are cut; done (anterior roots) to relieve intractable pain or (posterior roots) to stop severe muscle spasms."*

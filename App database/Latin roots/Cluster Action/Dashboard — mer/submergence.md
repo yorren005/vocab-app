@@ -5,14 +5,6 @@ status: unread
 ---
 # submergence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sinking until covered completely with water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sinking until covered completely with water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Purification by Spirit; submergence in 581:24 Spirit."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Submergence in Spirit; immortality brought to light. 582:24 CANAAN (the son of Ham)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sinking until covered completely with water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sinking until covered completely with water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Purification by Spirit; submergence in 581:24 Spirit."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Submergence in Spirit; immortality brought to light. 582:24 CANAAN (the son of Ham)."*

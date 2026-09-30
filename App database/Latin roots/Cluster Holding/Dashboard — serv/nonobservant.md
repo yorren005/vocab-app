@@ -5,13 +5,6 @@ status: unread
 ---
 # nonobservant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing or refusing to observe religious customs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failing or refusing to observe religious customs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonobservant designates failing or refusing to observe religious customs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing or refusing to observe religious customs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failing or refusing to observe religious customs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonobservant designates failing or refusing to observe religious customs."*

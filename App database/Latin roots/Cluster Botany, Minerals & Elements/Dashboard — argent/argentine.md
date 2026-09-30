@@ -5,15 +5,6 @@ status: unread
 ---
 # argentine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various small silver-scaled salmon-like marine fishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of argentina or its people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Celestial Dian, goddess argentine, I will obey thee."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Pelleschi, _Eight Months on the Gran Chaco of the Argentine Republic_ (London, 1886), p. 106."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"This," he said, leaning against the door and endeavoring to button his collar at the back, "reminds me of an afternoon in the Argentine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various small silver-scaled salmon-like marine fishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of argentina or its people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Celestial Dian, goddess argentine, I will obey thee."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Pelleschi, _Eight Months on the Gran Chaco of the Argentine Republic_ (London, 1886), p. 106."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"This," he said, leaning against the door and endeavoring to button his collar at the back, "reminds me of an afternoon in the Argentine."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # importer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose business involves importing goods from outside (especially from a foreign country).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone whose business involves importing goods from outside (especially from a foreign country).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Indeed, the importation of any article is proof conclusive that the importer thinks that the monetary costs of an article would be higher in the importing than in the exporting country."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It is paid from the profits of the manufacturer, or divided between him and the merchant or the importer, and diminishes their profit to that extent."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Where is your father’s place of business?” “He travels for Westhouse & Marbank, the great claret importers of Fenchurch Street.” “Thank you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose business involves importing goods from outside (especially from a foreign country).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone whose business involves importing goods from outside (especially from a foreign country).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Indeed, the importation of any article is proof conclusive that the importer thinks that the monetary costs of an article would be higher in the importing than in the exporting country."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It is paid from the profits of the manufacturer, or divided between him and the merchant or the importer, and diminishes their profit to that extent."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Where is your father’s place of business?” “He travels for Westhouse & Marbank, the great claret importers of Fenchurch Street.” “Thank you."*

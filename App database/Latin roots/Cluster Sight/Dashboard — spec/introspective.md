@@ -5,15 +5,6 @@ status: unread
 ---
 # introspective
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Given to examining own sensory and perceptual experiences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to examining own sensory and perceptual experiences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Inward melancholy it was impossible for a man like Oak, introspective far beyond his neighbours, to banish quite, whilst conning the present untoward page of his history."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Then he stood before the fire and looked me over in his singular introspective fashion."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is introspective, and I want to introspect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Given to examining own sensory and perceptual experiences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to examining own sensory and perceptual experiences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Inward melancholy it was impossible for a man like Oak, introspective far beyond his neighbours, to banish quite, whilst conning the present untoward page of his history."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Then he stood before the fire and looked me over in his singular introspective fashion."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is introspective, and I want to introspect."*

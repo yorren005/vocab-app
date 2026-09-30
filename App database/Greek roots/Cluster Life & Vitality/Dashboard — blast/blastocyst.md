@@ -5,13 +5,6 @@ status: unread
 ---
 # blastocyst
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The modified blastula of a placental mammal having an outer layer composed of the trophoblast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The modified blastula of a placental mammal having an outer layer composed of the trophoblast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastocyst designates the modified blastula of a placental mammal having an outer layer composed of the trophoblast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The modified blastula of a placental mammal having an outer layer composed of the trophoblast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The modified blastula of a placental mammal having an outer layer composed of the trophoblast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastocyst designates the modified blastula of a placental mammal having an outer layer composed of the trophoblast."*

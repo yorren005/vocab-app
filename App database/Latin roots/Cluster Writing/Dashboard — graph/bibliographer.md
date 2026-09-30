@@ -5,14 +5,6 @@ status: unread
 ---
 # bibliographer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone trained in compiling bibliographies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone trained in compiling bibliographies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Enschede warns us, however, that his theories are simply those of a practical founder and not a bibliographer's."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"It was first communicated to the public in that curious record of ancient literature, which has been accumulated by the combined exertions of Sir Egerton Brydges and Mr Hazlewood, in the periodical work entitled the British Bibliographer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone trained in compiling bibliographies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone trained in compiling bibliographies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Enschede warns us, however, that his theories are simply those of a practical founder and not a bibliographer's."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"It was first communicated to the public in that curious record of ancient literature, which has been accumulated by the combined exertions of Sir Egerton Brydges and Mr Hazlewood, in the periodical work entitled the British Bibliographer."*

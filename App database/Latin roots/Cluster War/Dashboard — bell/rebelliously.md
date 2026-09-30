@@ -5,13 +5,6 @@ status: unread
 ---
 # rebelliously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rebellious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rebellious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"Last week you said you were thankful, whatever happened, to have me out of bed---" "You oughtn't to have been out!" Suze broke in, rebelliously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rebellious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rebellious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"Last week you said you were thankful, whatever happened, to have me out of bed---" "You oughtn't to have been out!" Suze broke in, rebelliously."*

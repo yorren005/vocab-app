@@ -5,15 +5,6 @@ status: unread
 ---
 # constituted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form or compose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Create and charge with a task or function.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Nominated, constituted, and appointed him."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"One thin and filthy blanket constituted the covering."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The seven provinces constituted the northern march."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Form or compose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Create and charge with a task or function.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Nominated, constituted, and appointed him."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"One thin and filthy blanket constituted the covering."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The seven provinces constituted the northern march."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # moneywort
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A loosestrife vine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loosestrife vine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moneywort designates a loosestrife vine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A loosestrife vine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loosestrife vine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moneywort designates a loosestrife vine."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # colic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute abdominal pain (especially in infants).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acute abdominal pain (especially in infants).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now crack thy lungs and split thy brazen pipe; Blow, villain, till thy sphered bias cheek Out-swell the colic of puff’d Aquilon."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Young people and children dance and sing round the bonfires, and leap over the embers to secure good crops or a happy marriage within the year, or as a means of guarding themselves against colic."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Now colic grips, an’ barkin hoast May kill us a’; For loyal Forbes’ charter’d boast Is ta’en awa?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute abdominal pain (especially in infants).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acute abdominal pain (especially in infants).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now crack thy lungs and split thy brazen pipe; Blow, villain, till thy sphered bias cheek Out-swell the colic of puff’d Aquilon."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Young people and children dance and sing round the bonfires, and leap over the embers to secure good crops or a happy marriage within the year, or as a means of guarding themselves against colic."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Now colic grips, an’ barkin hoast May kill us a’; For loyal Forbes’ charter’d boast Is ta’en awa?"*

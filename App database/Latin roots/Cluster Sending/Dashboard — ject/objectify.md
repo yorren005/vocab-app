@@ -5,13 +5,6 @@ status: unread
 ---
 # objectify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make external or objective, or give reality to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make impersonal or present as an object.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The picture is the artist's thought objectified."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make external or objective, or give reality to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make impersonal or present as an object.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The picture is the artist's thought objectified."*

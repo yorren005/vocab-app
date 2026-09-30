@@ -5,13 +5,6 @@ status: unread
 ---
 # opisthotonos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe spasm in which the back arches and the head bends back and heels flex toward the back.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severe spasm in which the back arches and the head bends back and heels flex toward the back.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opisthotonos designates severe spasm in which the back arches and the head bends back and heels flex toward the back."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe spasm in which the back arches and the head bends back and heels flex toward the back.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severe spasm in which the back arches and the head bends back and heels flex toward the back.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opisthotonos designates severe spasm in which the back arches and the head bends back and heels flex toward the back."*

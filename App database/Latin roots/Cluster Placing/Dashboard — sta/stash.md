@@ -5,15 +5,6 @@ status: unread
 ---
 # stash
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A secret store of valuables or money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Save up as for future use.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Landlord,” said I, “tell him to stash his tomahawk there, or pipe, or whatever you call it; tell him to stop smoking, in short, and I will turn in with him."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"We work by the month, or by the job, or by the profit; not for us to ask the why and wherefore of our work, unless it be too confounded cobbling, and then we stash it if we can."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Landlord,” said I, “tell him to stash his tomahawk there, or pipe, or whatever you call it; tell him to stop smoking, in short, and I will turn in with him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A secret store of valuables or money.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Save up as for future use.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Landlord,” said I, “tell him to stash his tomahawk there, or pipe, or whatever you call it; tell him to stop smoking, in short, and I will turn in with him."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"We work by the month, or by the job, or by the profit; not for us to ask the why and wherefore of our work, unless it be too confounded cobbling, and then we stash it if we can."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Landlord,” said I, “tell him to stash his tomahawk there, or pipe, or whatever you call it; tell him to stop smoking, in short, and I will turn in with him."*

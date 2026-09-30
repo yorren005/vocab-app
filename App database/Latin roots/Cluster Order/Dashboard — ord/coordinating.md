@@ -5,13 +5,6 @@ status: unread
 ---
 # coordinating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring order and organization to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring into common action, movement, or condition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Very heavily he moved, muscle-bound a good deal, Shane thought; a man for pushing and crushing and resisting, but not for fast, nervous work, sinew and brain coordinating like the crack of a whip."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring order and organization to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring into common action, movement, or condition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Very heavily he moved, muscle-bound a good deal, Shane thought; a man for pushing and crushing and resisting, but not for fast, nervous work, sinew and brain coordinating like the crack of a whip."*

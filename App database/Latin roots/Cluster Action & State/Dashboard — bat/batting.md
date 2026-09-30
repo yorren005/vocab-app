@@ -5,14 +5,6 @@ status: unread
 ---
 # batting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (baseball) the batter's attempt to get on base.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stuffing made of rolls or sheets of cotton wool or synthetic fiber.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"If you are batting, attack the ball."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Samples weighing from 4 to 6 ozs. are taken three times per shift from the stream of copper running into the moulds, by batting the metal into water with a wooden paddle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (baseball) the batter's attempt to get on base.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stuffing made of rolls or sheets of cotton wool or synthetic fiber.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"If you are batting, attack the ball."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Samples weighing from 4 to 6 ozs. are taken three times per shift from the stream of copper running into the moulds, by batting the metal into water with a wooden paddle."*

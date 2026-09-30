@@ -5,15 +5,6 @@ status: unread
 ---
 # demesne
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extensive landed property (especially in the country) retained by the owner for his own use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Territory over which rule or control is exercised.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"As for you, Chettam, you are spending a fortune on those oak fences round your demesne.” Dorothea, submitting uneasily to this discouragement, went with Celia into the library, which was her usual drawing-room."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"In a recess of this declivity, near the southern verge of my little demesne, was placed a slight building, with seats and lattices."*
-> - 📜 **James Joyce (*Ulysses*):** *"Demesne situate in the townland of Rosenallis, barony of Tinnahinch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extensive landed property (especially in the country) retained by the owner for his own use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Territory over which rule or control is exercised.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"As for you, Chettam, you are spending a fortune on those oak fences round your demesne.” Dorothea, submitting uneasily to this discouragement, went with Celia into the library, which was her usual drawing-room."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"In a recess of this declivity, near the southern verge of my little demesne, was placed a slight building, with seats and lattices."*
+> - 📜 **James Joyce (*Ulysses*):** *"Demesne situate in the townland of Rosenallis, barony of Tinnahinch."*

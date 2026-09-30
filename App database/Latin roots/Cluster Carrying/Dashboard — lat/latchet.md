@@ -5,14 +5,6 @@ status: unread
 ---
 # latchet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A leather strap or thong used to attach a sandal or shoe to the foot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A leather strap or thong used to attach a sandal or shoe to the foot.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Because I am subduing myself to permanent consciousness of my unworthiness to unloose the latchet of Dr."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Warthell, a man, the latchet of whose shoes the possessor of a heart like yours is unworthy to unloose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A leather strap or thong used to attach a sandal or shoe to the foot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A leather strap or thong used to attach a sandal or shoe to the foot.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Because I am subduing myself to permanent consciousness of my unworthiness to unloose the latchet of Dr."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Warthell, a man, the latchet of whose shoes the possessor of a heart like yours is unworthy to unloose."*

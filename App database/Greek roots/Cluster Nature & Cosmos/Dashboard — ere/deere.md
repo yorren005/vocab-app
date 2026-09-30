@@ -5,13 +5,6 @@ status: unread
 ---
 # deere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states industrialist who manufactured plows suitable for working the prairie soil (1804-1886).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states industrialist who manufactured plows suitable for working the prairie soil (1804-1886).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deere designates united states industrialist who manufactured plows suitable for working the prairie soil (1804-1886)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states industrialist who manufactured plows suitable for working the prairie soil (1804-1886).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states industrialist who manufactured plows suitable for working the prairie soil (1804-1886).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deere designates united states industrialist who manufactured plows suitable for working the prairie soil (1804-1886)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # december
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The last (12th) month of the year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The last (12th) month of the year.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What old December’s bareness everywhere!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say “a day” without the “ever.” No, no, Orlando, men are April when they woo, December when they wed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When we shall hear The rain and wind beat dark December, how, In this our pinching cave, shall we discourse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The last (12th) month of the year.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The last (12th) month of the year.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What old December’s bareness everywhere!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say “a day” without the “ever.” No, no, Orlando, men are April when they woo, December when they wed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When we shall hear The rain and wind beat dark December, how, In this our pinching cave, shall we discourse."*

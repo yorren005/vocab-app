@@ -5,15 +5,6 @@ status: unread
 ---
 # relevant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a bearing on or connection with the subject at issue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a bearing on or connection with the subject at issue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The more relevant question for us is: How came he to wait till he was at least about thirty years old before he began to teach in public?"*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes, and, indeed, he has little to do with my story.” “I am glad of all details,” remarked my friend, “whether they seem to you to be relevant or not.” “I shall try not to miss anything of importance."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Show costs in still accessible resources separately and integrate results with relevant commitments and schedules."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a bearing on or connection with the subject at issue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a bearing on or connection with the subject at issue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The more relevant question for us is: How came he to wait till he was at least about thirty years old before he began to teach in public?"*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes, and, indeed, he has little to do with my story.” “I am glad of all details,” remarked my friend, “whether they seem to you to be relevant or not.” “I shall try not to miss anything of importance."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Show costs in still accessible resources separately and integrate results with relevant commitments and schedules."*

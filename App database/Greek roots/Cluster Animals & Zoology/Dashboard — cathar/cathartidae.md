@@ -5,13 +5,6 @@ status: unread
 ---
 # cathartidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Condors; turkey buzzards; king vultures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Condors; turkey buzzards; king vultures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cathartidae designates condors; turkey buzzards; king vultures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Condors; turkey buzzards; king vultures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Condors; turkey buzzards; king vultures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cathartidae designates condors; turkey buzzards; king vultures."*

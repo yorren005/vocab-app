@@ -5,14 +5,6 @@ status: unread
 ---
 # populist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of democratic principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of democratic principles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"At the same moment that the demand for pop-bottles is increased, the demand for other things is decreased, possibly that for pop-corn or pop-guns or Populist papers--who can tell?"*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"RIVERS, author of "The Governor's Garden," "Captain Shays, a Populist of 1786," etc."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of democratic principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of democratic principles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"At the same moment that the demand for pop-bottles is increased, the demand for other things is decreased, possibly that for pop-corn or pop-guns or Populist papers--who can tell?"*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"RIVERS, author of "The Governor's Garden," "Captain Shays, a Populist of 1786," etc."*

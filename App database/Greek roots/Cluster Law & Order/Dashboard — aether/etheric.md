@@ -5,13 +5,6 @@ status: unread
 ---
 # etheric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rarefied element formerly believed to fill the upper regions of space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The upper regions of space : heavens.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The lords of the moon, Theosophos told me, an orangefiery shipload from planet Alpha of the lunar chain would not assume the etheric doubles and these were therefore incarnated by the rubycoloured egos from the second constellation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rarefied element formerly believed to fill the upper regions of space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The upper regions of space : heavens.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"The lords of the moon, Theosophos told me, an orangefiery shipload from planet Alpha of the lunar chain would not assume the etheric doubles and these were therefore incarnated by the rubycoloured egos from the second constellation."*

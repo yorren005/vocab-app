@@ -5,15 +5,6 @@ status: unread
 ---
 # filial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designating the generation or the sequence of generations following the parental generation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of or befitting an offspring.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy due from me Is tears and heavy sorrows of the blood, Which nature, love, and filial tenderness, Shall, O dear father, pay thee plenteously."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When thou wilt inflame, How coldly those impediments stand forth, Of wealth, of filial fear, law, kindred, fame!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Some men rarely revert to their father, but seem, in the bank-books of their remembrance, to have transferred all the stock of filial affection into their mother’s name."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designating the generation or the sequence of generations following the parental generation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of or befitting an offspring.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy due from me Is tears and heavy sorrows of the blood, Which nature, love, and filial tenderness, Shall, O dear father, pay thee plenteously."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When thou wilt inflame, How coldly those impediments stand forth, Of wealth, of filial fear, law, kindred, fame!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Some men rarely revert to their father, but seem, in the bank-books of their remembrance, to have transferred all the stock of filial affection into their mother’s name."*

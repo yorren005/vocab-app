@@ -5,15 +5,6 @@ status: unread
 ---
 # hygiene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science of the establishment and maintenance of health.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conditions or practices (as of cleanliness) conducive to health.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"He met and mastered on the basis of Chris- tian Science, the power of Mind over matter, all the claims 44:12 of medicine, surgery, and hygiene."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"He showed that diseases were cast out neither 138:12 by corporeality, by /materia medica/, nor by hygiene, but by the divine Spirit, casting out the errors of mortal mind."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Methods rejected It is plain that God does not employ drugs or hygiene, 143:6 nor provide them for human use; else Jesus would have recommended and employed them in his heal- ing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A science of the establishment and maintenance of health.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conditions or practices (as of cleanliness) conducive to health.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"He met and mastered on the basis of Chris- tian Science, the power of Mind over matter, all the claims 44:12 of medicine, surgery, and hygiene."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"He showed that diseases were cast out neither 138:12 by corporeality, by /materia medica/, nor by hygiene, but by the divine Spirit, casting out the errors of mortal mind."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Methods rejected It is plain that God does not employ drugs or hygiene, 143:6 nor provide them for human use; else Jesus would have recommended and employed them in his heal- ing."*

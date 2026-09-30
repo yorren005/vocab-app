@@ -5,14 +5,6 @@ status: unread
 ---
 # subduct
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin duc within the domain of Motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of duc in systematic terminology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"Or Nature faild in mee, and left some part Not proof enough such Object to sustain, Or from my side subducting, took perhaps More then enough; at least on her bestow’d Too much of Ornament, in outward shew Elaborate, of inward less exact."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Or Nature failed in me, and left some part Not proof enough such object to sustain; Or, from my side subducting, took perhaps More than enough; at least on her bestowed Too much of ornament, in outward show Elaborate, of inward less exact."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin duc within the domain of Motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of duc in systematic terminology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"Or Nature faild in mee, and left some part Not proof enough such Object to sustain, Or from my side subducting, took perhaps More then enough; at least on her bestow’d Too much of Ornament, in outward shew Elaborate, of inward less exact."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Or Nature failed in me, and left some part Not proof enough such object to sustain; Or, from my side subducting, took perhaps More than enough; at least on her bestowed Too much of ornament, in outward show Elaborate, of inward less exact."*

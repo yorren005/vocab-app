@@ -5,13 +5,6 @@ status: unread
 ---
 # tetrachlorethylene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anthelmintic agent used against hookworm and other nematodes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anthelmintic agent used against hookworm and other nematodes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrachlorethylene designates anthelmintic agent used against hookworm and other nematodes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anthelmintic agent used against hookworm and other nematodes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anthelmintic agent used against hookworm and other nematodes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrachlorethylene designates anthelmintic agent used against hookworm and other nematodes."*

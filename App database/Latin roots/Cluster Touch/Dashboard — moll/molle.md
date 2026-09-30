@@ -5,13 +5,6 @@ status: unread
 ---
 # molle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small peruvian evergreen with broad rounded head and slender pendant branches with attractive clusters of greenish flowers followed by clusters of rose-pink fruits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small peruvian evergreen with broad rounded head and slender pendant branches with attractive clusters of greenish flowers followed by clusters of rose-pink fruits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, molle designates small peruvian evergreen with broad rounded head and slender pendant branches with attractive clusters of greenish flowers followed by clusters of rose-pink fruits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small peruvian evergreen with broad rounded head and slender pendant branches with attractive clusters of greenish flowers followed by clusters of rose-pink fruits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small peruvian evergreen with broad rounded head and slender pendant branches with attractive clusters of greenish flowers followed by clusters of rose-pink fruits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, molle designates small peruvian evergreen with broad rounded head and slender pendant branches with attractive clusters of greenish flowers followed by clusters of rose-pink fruits."*

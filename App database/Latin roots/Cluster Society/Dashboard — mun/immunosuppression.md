@@ -5,13 +5,6 @@ status: unread
 ---
 # immunosuppression
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lowering the body's normal immune response to invasion by foreign substances; can be deliberate (as in lowering the immune response to prevent rejection of a transplanted organ) or incidental (as a side effect of radiotherapy or chemotherapy for cancer).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lowering the body's normal immune response to invasion by foreign substances; can be deliberate (as in lowering the immune response to prevent rejection of a transplanted organ) or incidental (as a side effect of radiotherapy or chemotherapy for cancer).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunosuppression designates lowering the body's normal immune response to invasion by foreign substances; can be deliberate (as in lowering the immune response to prevent rejection of a transplanted organ) or incidental (as a side effect of radiotherapy or chemotherapy for cancer)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lowering the body's normal immune response to invasion by foreign substances; can be deliberate (as in lowering the immune response to prevent rejection of a transplanted organ) or incidental (as a side effect of radiotherapy or chemotherapy for cancer).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lowering the body's normal immune response to invasion by foreign substances; can be deliberate (as in lowering the immune response to prevent rejection of a transplanted organ) or incidental (as a side effect of radiotherapy or chemotherapy for cancer).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunosuppression designates lowering the body's normal immune response to invasion by foreign substances; can be deliberate (as in lowering the immune response to prevent rejection of a transplanted organ) or incidental (as a side effect of radiotherapy or chemotherapy for cancer)."*

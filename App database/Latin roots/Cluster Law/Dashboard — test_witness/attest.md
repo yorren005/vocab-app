@@ -5,15 +5,6 @@ status: unread
 ---
 # attest
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Authenticate, affirm to be true, genuine, or correct, as in an official capacity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O pardon! since a crooked figure may Attest in little place a million, And let us, ciphers to this great accompt, On your imaginary forces work."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dishonour not your mothers; now attest That those whom you call’d fathers did beget you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Else might the world convince of levity As well my undertakings as your counsels; But I attest the gods, your full consent Gave wings to my propension, and cut off All fears attending on so dire a project."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Authenticate, affirm to be true, genuine, or correct, as in an official capacity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O pardon! since a crooked figure may Attest in little place a million, And let us, ciphers to this great accompt, On your imaginary forces work."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dishonour not your mothers; now attest That those whom you call’d fathers did beget you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Else might the world convince of levity As well my undertakings as your counsels; But I attest the gods, your full consent Gave wings to my propension, and cut off All fears attending on so dire a project."*

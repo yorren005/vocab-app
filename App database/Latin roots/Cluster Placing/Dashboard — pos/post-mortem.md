@@ -5,13 +5,6 @@ status: unread
 ---
 # post-mortem
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discussion of an event after it has occurred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An examination and dissection of a dead body to determine cause of death or the changes produced by disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, post-mortem designates discussion of an event after it has occurred."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discussion of an event after it has occurred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An examination and dissection of a dead body to determine cause of death or the changes produced by disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, post-mortem designates discussion of an event after it has occurred."*

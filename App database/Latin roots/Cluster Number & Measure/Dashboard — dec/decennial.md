@@ -5,13 +5,6 @@ status: unread
 ---
 # decennial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin dec within the domain of Number & Measure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of dec in systematic terminology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 429, for figures of population and of decennial rates of increase.] [Footnote 8: The effect of the growth of cities is discussed in the "American Journal of Sociology," Vol. 18, p. 342, in an article on "Walker's Theory of Immigration," by E.A."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin dec within the domain of Number & Measure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of dec in systematic terminology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 429, for figures of population and of decennial rates of increase.] [Footnote 8: The effect of the growth of cities is discussed in the "American Journal of Sociology," Vol. 18, p. 342, in an article on "Walker's Theory of Immigration," by E.A."*

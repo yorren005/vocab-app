@@ -5,15 +5,6 @@ status: unread
 ---
 # summoning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Calling up supposed supernatural forces by spells and incantations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Call in an official matter, such as to attend court.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Again, summoning all my courage, I attempted it."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I am hungry: so are you, I daresay, only you forget.” Summoning Mary, I soon had the room in more cheerful order: I prepared him, likewise, a comfortable repast."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I did.” It was no laughing matter with Estella now, nor was she summoning these remembrances from any shallow place."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Calling up supposed supernatural forces by spells and incantations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Call in an official matter, such as to attend court.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Again, summoning all my courage, I attempted it."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I am hungry: so are you, I daresay, only you forget.” Summoning Mary, I soon had the room in more cheerful order: I prepared him, likewise, a comfortable repast."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I did.” It was no laughing matter with Estella now, nor was she summoning these remembrances from any shallow place."*

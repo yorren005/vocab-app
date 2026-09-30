@@ -5,13 +5,6 @@ status: unread
 ---
 # gratingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a harsh and grating manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a harsh and grating manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"THE GRAMOPHONE: _(Drowning his voice.)_ Whorusalaminyourhighhohhhh... _(The disc rasps gratingly against the needle.)_ THE THREE WHORES: _(Covering their ears, squawk.)_ Ahhkkk!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a harsh and grating manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a harsh and grating manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"THE GRAMOPHONE: _(Drowning his voice.)_ Whorusalaminyourhighhohhhh... _(The disc rasps gratingly against the needle.)_ THE THREE WHORES: _(Covering their ears, squawk.)_ Ahhkkk!"*

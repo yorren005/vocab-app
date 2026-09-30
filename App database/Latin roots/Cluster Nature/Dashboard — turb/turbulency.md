@@ -5,13 +5,6 @@ status: unread
 ---
 # turbulency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unstable flow of a liquid or gas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unstable flow of a liquid or gas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, turbulency designates unstable flow of a liquid or gas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unstable flow of a liquid or gas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unstable flow of a liquid or gas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, turbulency designates unstable flow of a liquid or gas."*

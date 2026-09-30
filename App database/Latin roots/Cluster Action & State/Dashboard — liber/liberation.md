@@ -5,15 +5,6 @@ status: unread
 ---
 # liberation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of liberating someone or something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attempt to achieve equal rights or status.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The force of the invective, the keenness of the wit, and the fervor of the imagination which they displayed, rendered them an important force in the theological liberation of Scotland."*
-> - 📜 **Effie Afton (*Eventide*):** *"First, Resolved, That the enfranchised women of Wimbledon use their combined efforts for the liberation of their suffering sisterhood, who yet groan beneath the despotic cruelties of the oppressor man." The secretary sat down."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Others suffering from the frightful jail fever or wasted by privation and wearisome marches with little or no food, received from them food and clothing, and were thus enabled to maintain existence till the time for their liberation came."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of liberating someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attempt to achieve equal rights or status.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The force of the invective, the keenness of the wit, and the fervor of the imagination which they displayed, rendered them an important force in the theological liberation of Scotland."*
+> - 📜 **Effie Afton (*Eventide*):** *"First, Resolved, That the enfranchised women of Wimbledon use their combined efforts for the liberation of their suffering sisterhood, who yet groan beneath the despotic cruelties of the oppressor man." The secretary sat down."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Others suffering from the frightful jail fever or wasted by privation and wearisome marches with little or no food, received from them food and clothing, and were thus enabled to maintain existence till the time for their liberation came."*

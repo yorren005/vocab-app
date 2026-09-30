@@ -5,14 +5,6 @@ status: unread
 ---
 # hydroxide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound of an oxide with water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical compound containing the hydroxyl group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The positive plate consists of nickel tubes filled with alternate layers of nickel hydroxide, while the negative plate is formed of prepared oxide of iron in a nickel framework."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The electrolyte is a solution of potassium hydroxide."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound of an oxide with water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical compound containing the hydroxyl group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The positive plate consists of nickel tubes filled with alternate layers of nickel hydroxide, while the negative plate is formed of prepared oxide of iron in a nickel framework."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The electrolyte is a solution of potassium hydroxide."*

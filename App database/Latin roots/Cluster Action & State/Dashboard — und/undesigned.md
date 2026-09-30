@@ -5,15 +5,6 @@ status: unread
 ---
 # undesigned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not done or made or performed with purpose or intent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not done or made or performed with purpose or intent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Economic monopoly is a result of private property that is undesigned by the government or by society."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Once it had, by an opening undesigned and unmerited, led him into the way of happiness."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Economic monopoly is a result of private property that is undesigned by the government or by society."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not done or made or performed with purpose or intent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not done or made or performed with purpose or intent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Economic monopoly is a result of private property that is undesigned by the government or by society."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Once it had, by an opening undesigned and unmerited, led him into the way of happiness."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Economic monopoly is a result of private property that is undesigned by the government or by society."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # theaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of trees and shrubs of the order parietales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of trees and shrubs of the order parietales.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theaceae designates a family of trees and shrubs of the order parietales."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of trees and shrubs of the order parietales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of trees and shrubs of the order parietales.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theaceae designates a family of trees and shrubs of the order parietales."*

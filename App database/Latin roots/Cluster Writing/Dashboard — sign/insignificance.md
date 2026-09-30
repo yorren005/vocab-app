@@ -5,15 +5,6 @@ status: unread
 ---
 # insignificance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of having little or no significance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of having little or no significance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins seemed to sink into insignificance; to the young ladies he certainly was nothing; but he had still at intervals a kind listener in Mrs."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"My watchfulness has been effectual; and though I should certainly be a more interesting object to all my acquaintance, were I distractedly in love with him, I cannot say that I regret my comparative insignificance."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Let us hope, therefore, that her being there may teach her her own insignificance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of having little or no significance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of having little or no significance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins seemed to sink into insignificance; to the young ladies he certainly was nothing; but he had still at intervals a kind listener in Mrs."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"My watchfulness has been effectual; and though I should certainly be a more interesting object to all my acquaintance, were I distractedly in love with him, I cannot say that I regret my comparative insignificance."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Let us hope, therefore, that her being there may teach her her own insignificance."*

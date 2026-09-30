@@ -5,15 +5,6 @@ status: unread
 ---
 # contemptuously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without respect; in a disdainful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without respect; in a disdainful manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As in revenge of thy ingratitude, I throw thy name against the bruising stones, Trampling contemptuously on thy disdain."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn’s case at present, though Mademoiselle Hortense, with her eyes almost shut up (but still looking out sideways), is only smiling contemptuously and shaking her head."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Chadband merely laughs and contemptuously tells him he can “offer” twenty pence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without respect; in a disdainful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without respect; in a disdainful manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As in revenge of thy ingratitude, I throw thy name against the bruising stones, Trampling contemptuously on thy disdain."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn’s case at present, though Mademoiselle Hortense, with her eyes almost shut up (but still looking out sideways), is only smiling contemptuously and shaking her head."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Chadband merely laughs and contemptuously tells him he can “offer” twenty pence."*

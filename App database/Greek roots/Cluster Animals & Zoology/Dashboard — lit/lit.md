@@ -5,15 +5,6 @@ status: unread
 ---
 # lit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Literature —often used before another noun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affected by alcohol : drunk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, from her elevation, instantly cries out, “No he don’t!” “My lit-tle woman!” says Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby.” “Every—my lit—” “I should be glad,” says Mrs."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Ideal and real clashed slightly as the sun lit up their figures against the green hedges and creeper-laced house-fronts; for, though the whole troop wore white garments, no two whites were alike among them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Literature —often used before another noun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affected by alcohol : drunk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, from her elevation, instantly cries out, “No he don’t!” “My lit-tle woman!” says Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby.” “Every—my lit—” “I should be glad,” says Mrs."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Ideal and real clashed slightly as the sun lit up their figures against the green hedges and creeper-laced house-fronts; for, though the whole troop wore white garments, no two whites were alike among them."*

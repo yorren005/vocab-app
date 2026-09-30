@@ -5,15 +5,6 @@ status: unread
 ---
 # coeval
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of nearly the same age as another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of the same period.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The church was surrounded by yew trees, which seemed almost coeval with itself."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Adjoining it was a low snug parsonage which seemed coeval with the church."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The three spent at the university were coeval with the second and last three spent by the little Stratford lad at Stratford school supposedly, and perhapsedly, and maybe, and by inference—with nothing to infer from."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of nearly the same age as another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of the same period.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The church was surrounded by yew trees, which seemed almost coeval with itself."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Adjoining it was a low snug parsonage which seemed coeval with the church."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The three spent at the university were coeval with the second and last three spent by the little Stratford lad at Stratford school supposedly, and perhapsedly, and maybe, and by inference—with nothing to infer from."*

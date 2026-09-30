@@ -5,14 +5,6 @@ status: unread
 ---
 # stipendiary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (united kingdom) a paid magistrate (appointed by the home secretary) dealing with police cases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or of the nature of a stipend or allowance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"On his at length responding, he was shown by a miserably shabby and underpaid stipendiary Philanthropist (who could hardly have done worse if he had taken service with a declared enemy of the human race) to Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy’s two fellow-stipendiaries are away on leave."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (united kingdom) a paid magistrate (appointed by the home secretary) dealing with police cases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or of the nature of a stipend or allowance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"On his at length responding, he was shown by a miserably shabby and underpaid stipendiary Philanthropist (who could hardly have done worse if he had taken service with a declared enemy of the human race) to Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy’s two fellow-stipendiaries are away on leave."*

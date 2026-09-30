@@ -5,14 +5,6 @@ status: unread
 ---
 # superpose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place (one geometric figure) upon another so that their perimeters coincide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place on top of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"There is not space here to detail how, by another current superposed upon those referred to already, the receiving-pen is made to dip itself periodically into the inkwell at the will of the sender."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Sometimes these glazes were superposed as on the Japanese tea jars, which avowedly owed their technique to Chinese models."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Place (one geometric figure) upon another so that their perimeters coincide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place on top of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"There is not space here to detail how, by another current superposed upon those referred to already, the receiving-pen is made to dip itself periodically into the inkwell at the will of the sender."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Sometimes these glazes were superposed as on the Japanese tea jars, which avowedly owed their technique to Chinese models."*

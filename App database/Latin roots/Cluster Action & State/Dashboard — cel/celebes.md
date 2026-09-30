@@ -5,15 +5,6 @@ status: unread
 ---
 # celebes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountainous island in eastern indonesia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountainous island in eastern indonesia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Kruijt, "De weerwolf bij de Toradja's van Midden-Celebes," _Tijdschrift voor Indische Taal- Landen Volkenkunde,_ xli. (1899) pp. 548-551, 557-560. [764] A.C."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Toradjas of Central Celebes believe that things of the same sort attract each other by means of their indwelling spirits or vital ether."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In eastern seas there is a large shell which the Buginese of Celebes call the "old man" (_kadjâwo_)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountainous island in eastern indonesia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountainous island in eastern indonesia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Kruijt, "De weerwolf bij de Toradja's van Midden-Celebes," _Tijdschrift voor Indische Taal- Landen Volkenkunde,_ xli. (1899) pp. 548-551, 557-560. [764] A.C."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Toradjas of Central Celebes believe that things of the same sort attract each other by means of their indwelling spirits or vital ether."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In eastern seas there is a large shell which the Buginese of Celebes call the "old man" (_kadjâwo_)."*

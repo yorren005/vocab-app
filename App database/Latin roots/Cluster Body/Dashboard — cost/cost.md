@@ -5,15 +5,6 @@ status: unread
 ---
 # cost
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The total spent for goods or services including money and time and labor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of having material worth (often indicated by the amount of money something would bring if sold).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why so large cost having so short a lease, Dost thou upon thy fading mansion spend?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If she had partaken of my flesh and cost me the dearest groans of a mother, I could not have owed her a more rooted love."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Provide your going; Choose your own company, and command what cost Your heart has mind to. [_Exeunt._] SCENE V."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The total spent for goods or services including money and time and labor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of having material worth (often indicated by the amount of money something would bring if sold).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why so large cost having so short a lease, Dost thou upon thy fading mansion spend?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If she had partaken of my flesh and cost me the dearest groans of a mother, I could not have owed her a more rooted love."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Provide your going; Choose your own company, and command what cost Your heart has mind to. [_Exeunt._] SCENE V."*

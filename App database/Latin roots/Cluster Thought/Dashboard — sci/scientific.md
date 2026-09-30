@@ -5,15 +5,6 @@ status: unread
 ---
 # scientific
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the practice of science.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conforming with the principles or methods used in science.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not in a scientific way, as I expect he does, but by ear."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket does not claim to be a scientific judge of horses, but he lays out a little money on the principal events in that line, and generally sums up his knowledge of the subject in the remark that when he sees a horse as can go, he knows him."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"They were a notable family, full of all kinds of interesting lore, literary, scientific, and pastoral, and they exercised a boundless hospitality to all, whether gentle or simple, who came within their reach."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the practice of science.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conforming with the principles or methods used in science.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Not in a scientific way, as I expect he does, but by ear."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket does not claim to be a scientific judge of horses, but he lays out a little money on the principal events in that line, and generally sums up his knowledge of the subject in the remark that when he sees a horse as can go, he knows him."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"They were a notable family, full of all kinds of interesting lore, literary, scientific, and pastoral, and they exercised a boundless hospitality to all, whether gentle or simple, who came within their reach."*

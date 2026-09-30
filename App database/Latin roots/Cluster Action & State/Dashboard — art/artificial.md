@@ -5,15 +5,6 @@ status: unread
 ---
 # artificial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Contrived by art rather than nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Artificially formal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, I can smile, and murder while I smile, And cry “Content!” to that which grieves my heart, And wet my cheeks with artificial tears, And frame my face to all occasions."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We, Hermia, like two artificial gods, Have with our needles created both one flower, Both on one sampler, sitting on one cushion, Both warbling of one song, both in one key, As if our hands, our sides, voices, and minds, Had been incorporate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fair one, all goodness that consists in bounty Expect even here, where is a kingly patient: If that thy prosperous and artificial feat Can draw him but to answer thee in aught, Thy sacred physic shall receive such pay As thy desires can wish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contrived by art rather than nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Artificially formal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, I can smile, and murder while I smile, And cry “Content!” to that which grieves my heart, And wet my cheeks with artificial tears, And frame my face to all occasions."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We, Hermia, like two artificial gods, Have with our needles created both one flower, Both on one sampler, sitting on one cushion, Both warbling of one song, both in one key, As if our hands, our sides, voices, and minds, Had been incorporate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fair one, all goodness that consists in bounty Expect even here, where is a kingly patient: If that thy prosperous and artificial feat Can draw him but to answer thee in aught, Thy sacred physic shall receive such pay As thy desires can wish."*

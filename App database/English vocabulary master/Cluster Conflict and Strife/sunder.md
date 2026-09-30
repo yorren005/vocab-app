@@ -5,20 +5,6 @@ status: unread
 ---
 # sunder
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (intransitive) to part, separate
-> 2. **Nuance / Usage**: Become parted, disunited, or severed
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to sunder the target*) and intransitive clauses (*sundering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Strangers and foes do sunder and not kiss."*
-> - 📜 **Edgar Allan Poe (*s:The Works of the Late Edgar Allan Poe/Volume 1/The Pit and the Pendulum*):** *"Notwithstanding its terrifically wide sweep, (some thirty feet or more,) and the hissing vigor of its descent, sufficient to sunder these very walls of iron, still the fraying of my robe would be all that, for several minutes, it would accomplish."*
-> - 📜 **Lloyd Alexander (*Taran Wanderer*):** *"In Taran's hand the sundered bone had turned into gray dust, which he cast aside."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To split apart, sever, or divide forcefully into separate pieces, especially by a violent blow or upheaval.
+> 2. **Nuance / Usage**: Frequently used of severing deep human bonds, alliances, or friendships, and preserved in the archaic adverbial phrase *in sunder* (related to *asunder*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive) & Noun (in *in sunder*).
+> - **Syntactic Constructions**: Operates transitively (*sundered the chains*, *sundered old friendships*) and intransitively (*foes do sunder*).
+> - **Collocations & Registers**: Literary, biblical, and dramatic registers; collocated with *bonds*, *chains*, *ties*, *iron*, and *cleave*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"Strangers and foes do **sunder** and not kiss."*
+> - 📜 **Edgar Allan Poe (*The Pit and the Pendulum*):** *"Notwithstanding its wide sweep and the hissing vigor of its descent, sufficient to **sunder** these very walls of iron, the fraying of my robe was all it accomplished."*
+> - 📜 **Lloyd Alexander (*Taran Wanderer*):** *"In Taran's hand the **sundered** bone had turned into gray dust, which he cast aside."*

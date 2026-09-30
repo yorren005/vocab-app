@@ -5,15 +5,6 @@ status: unread
 ---
 # microscopical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or used in microscopy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Visible under a microscope; using a microscope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Some cable-lengths off the shores of the Island of Clermont I admired the gigantic work accomplished by these microscopical workers."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And it is here, too, that microscopical analysis comes in."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Its vegetative system is complete, and, apparently, its reproductive also; hence it seems to claim recognition as a perfect plant, and under the name of _Uredo Rosæ_ was so recognized, until microscopical investigation determined otherwise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or used in microscopy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Visible under a microscope; using a microscope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Some cable-lengths off the shores of the Island of Clermont I admired the gigantic work accomplished by these microscopical workers."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And it is here, too, that microscopical analysis comes in."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Its vegetative system is complete, and, apparently, its reproductive also; hence it seems to claim recognition as a perfect plant, and under the name of _Uredo Rosæ_ was so recognized, until microscopical investigation determined otherwise."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # inductance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical phenomenon whereby an electromotive force (emf) is generated in a closed circuit by a change in the flow of current.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical device (typically a conducting coil) that introduces inductance into a circuit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This is called "inductance," and it has exactly the same effect upon the current that inertia has upon a body."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"What inertia is to a material body inductance is to an electric current."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"There is capacity at each end and a fairly long length of wire to provide the inductance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical phenomenon whereby an electromotive force (emf) is generated in a closed circuit by a change in the flow of current.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical device (typically a conducting coil) that introduces inductance into a circuit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This is called "inductance," and it has exactly the same effect upon the current that inertia has upon a body."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"What inertia is to a material body inductance is to an electric current."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"There is capacity at each end and a fairly long length of wire to provide the inductance."*

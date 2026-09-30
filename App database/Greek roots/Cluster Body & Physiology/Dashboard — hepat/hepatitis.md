@@ -5,13 +5,6 @@ status: unread
 ---
 # hepatitis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the liver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease or condition (such as hepatitis A or hepatitis B) marked by inflammation of the liver.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hepatitis designates inflammation of the liver."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the liver.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease or condition (such as hepatitis A or hepatitis B) marked by inflammation of the liver.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hepatitis designates inflammation of the liver."*

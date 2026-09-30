@@ -5,13 +5,6 @@ status: unread
 ---
 # ingenuousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of innocent naivete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Openly straightforward or frank.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Nor did his blushes and awkwardness take away from it: she was pleased with these healthy tokens of the young gentleman's ingenuousness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of innocent naivete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Openly straightforward or frank.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Nor did his blushes and awkwardness take away from it: she was pleased with these healthy tokens of the young gentleman's ingenuousness."*

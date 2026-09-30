@@ -5,15 +5,6 @@ status: unread
 ---
 # psalter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The Book of Psalms; also : a collection of Psalms for liturgical or devotional use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Book of Psalms; also : a collection of Psalms for liturgical or devotional use.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The boy was of the dunce class apparently; the book was a psalter, and this was his way of learning the collect."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She tried several ballads, but found them inadequate; till, recollecting the psalter that her eyes had so often wandered over of a Sunday morning before she had eaten of the tree of knowledge, she chanted: “O ye Sun and Moon ..."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The boy was of the dunce class apparently; the book was a psalter, and this was his way of learning the collect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Book of Psalms; also : a collection of Psalms for liturgical or devotional use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Book of Psalms; also : a collection of Psalms for liturgical or devotional use.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The boy was of the dunce class apparently; the book was a psalter, and this was his way of learning the collect."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She tried several ballads, but found them inadequate; till, recollecting the psalter that her eyes had so often wandered over of a Sunday morning before she had eaten of the tree of knowledge, she chanted: “O ye Sun and Moon ..."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The boy was of the dunce class apparently; the book was a psalter, and this was his way of learning the collect."*

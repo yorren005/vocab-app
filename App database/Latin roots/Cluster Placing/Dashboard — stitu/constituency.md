@@ -5,15 +5,6 @@ status: unread
 ---
 # constituency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The body of voters who elect a representative for their area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of voters who elect a representative for their area.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The constituency, for which the Gospels were written, was steeped in the tradition of Jesus' life, and the Christians accepted the Gospels, as embodying what they knew; and there were still survivors from the first days of the Gospel."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill to stand for an Irish constituency, and stated that the only opinion it would be necessary for him to change was the one he had so often expressed against denominational education."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Imagine a New York city father without digestion; what a subject of scorn he would become to his constituency!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The body of voters who elect a representative for their area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of voters who elect a representative for their area.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The constituency, for which the Gospels were written, was steeped in the tradition of Jesus' life, and the Christians accepted the Gospels, as embodying what they knew; and there were still survivors from the first days of the Gospel."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill to stand for an Irish constituency, and stated that the only opinion it would be necessary for him to change was the one he had so often expressed against denominational education."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Imagine a New York city father without digestion; what a subject of scorn he would become to his constituency!"*

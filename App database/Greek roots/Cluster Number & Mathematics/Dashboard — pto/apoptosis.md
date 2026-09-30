@@ -5,13 +5,6 @@ status: unread
 ---
 # apoptosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genetically directed process of cell self-destruction that is marked by the fragmentation of nuclear DNA, is activated either by the presence of a stimulus or removal of a suppressing agent or stimulus, is a normal physiological process eliminating DNA-damaged, superfluous, or unwanted cells, and when halted (as by gene mutation) may result in uncontrolled cell growth and tumor formation —called also cell suicide, programmed cell death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genetically directed process of cell self-destruction that is marked by the fragmentation of nuclear DNA, is activated either by the presence of a stimulus or removal of a suppressing agent or stimulus, is a normal physiological process eliminating DNA-damaged, superfluous, or unwanted cells, and when halted (as by gene mutation) may result in uncontrolled cell growth and tumor formation —called also cell suicide, programmed cell death.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apoptosis designates a genetically directed process of cell self-destruction that is marked by the fragmentation of nuclear dna, is activated either by the presence of a stimulus or removal of a suppressing agent or stimulus, is a normal physiological process eliminating dna-damaged, superfluous, or unwanted cells, and when halted (as by gene mutation) may result in uncontrolled cell growth and tumor formation —called also cell suicide, programmed cell death."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genetically directed process of cell self-destruction that is marked by the fragmentation of nuclear DNA, is activated either by the presence of a stimulus or removal of a suppressing agent or stimulus, is a normal physiological process eliminating DNA-damaged, superfluous, or unwanted cells, and when halted (as by gene mutation) may result in uncontrolled cell growth and tumor formation —called also cell suicide, programmed cell death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genetically directed process of cell self-destruction that is marked by the fragmentation of nuclear DNA, is activated either by the presence of a stimulus or removal of a suppressing agent or stimulus, is a normal physiological process eliminating DNA-damaged, superfluous, or unwanted cells, and when halted (as by gene mutation) may result in uncontrolled cell growth and tumor formation —called also cell suicide, programmed cell death.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apoptosis designates a genetically directed process of cell self-destruction that is marked by the fragmentation of nuclear dna, is activated either by the presence of a stimulus or removal of a suppressing agent or stimulus, is a normal physiological process eliminating dna-damaged, superfluous, or unwanted cells, and when halted (as by gene mutation) may result in uncontrolled cell growth and tumor formation —called also cell suicide, programmed cell death."*

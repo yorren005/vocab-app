@@ -5,14 +5,6 @@ status: unread
 ---
 # saltpeter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (kno3) used especially as a fertilizer and explosive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (kno3) used especially as a fertilizer and explosive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Over the whole field, previously so gaily beautiful with the glitter of bayonets and cloudlets of smoke in the morning sun, there now spread a mist of damp and smoke and a strange acid smell of saltpeter and blood."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Niter, charcoal, and saltpeter, combined in certain proportions, give certain reactions; different combinations give various results."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (kno3) used especially as a fertilizer and explosive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (kno3) used especially as a fertilizer and explosive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Over the whole field, previously so gaily beautiful with the glitter of bayonets and cloudlets of smoke in the morning sun, there now spread a mist of damp and smoke and a strange acid smell of saltpeter and blood."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Niter, charcoal, and saltpeter, combined in certain proportions, give certain reactions; different combinations give various results."*

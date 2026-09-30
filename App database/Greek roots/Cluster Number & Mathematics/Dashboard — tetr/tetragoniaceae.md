@@ -5,13 +5,6 @@ status: unread
 ---
 # tetragoniaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Succulent herbs or small shrubs mostly of south africa but also new zealand and north america: carpetweeds; fig marigolds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Succulent herbs or small shrubs mostly of south africa but also new zealand and north america: carpetweeds; fig marigolds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetragoniaceae designates succulent herbs or small shrubs mostly of south africa but also new zealand and north america: carpetweeds; fig marigolds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Succulent herbs or small shrubs mostly of south africa but also new zealand and north america: carpetweeds; fig marigolds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Succulent herbs or small shrubs mostly of south africa but also new zealand and north america: carpetweeds; fig marigolds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetragoniaceae designates succulent herbs or small shrubs mostly of south africa but also new zealand and north america: carpetweeds; fig marigolds."*

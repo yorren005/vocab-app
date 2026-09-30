@@ -5,15 +5,6 @@ status: unread
 ---
 # desperately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With great urgency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intense despair.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your eldest daughters have fordone themselves, And desperately are dead."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A man that apprehends death no more dreadfully but as a drunken sleep; careless, reckless, and fearless of what’s past, present, or to come; insensible of mortality and desperately mortal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A bloody deed, and desperately dispatched."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With great urgency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intense despair.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your eldest daughters have fordone themselves, And desperately are dead."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A man that apprehends death no more dreadfully but as a drunken sleep; careless, reckless, and fearless of what’s past, present, or to come; insensible of mortality and desperately mortal."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A bloody deed, and desperately dispatched."*

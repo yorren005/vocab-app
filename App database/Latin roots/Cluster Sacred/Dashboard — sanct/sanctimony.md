@@ -5,14 +5,6 @@ status: unread
 ---
 # sanctimony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being hypocritically devout.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being hypocritically devout.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If sanctimony and a frail vow betwixt an erring barbarian and a supersubtle Venetian be not too hard for my wits and all the tribe of hell, thou shalt enjoy her; therefore make money."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If beauty have a soul, this is not she; If souls guide vows, if vows be sanctimonies, If sanctimony be the god’s delight, If there be rule in unity itself, This was not she."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being hypocritically devout.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being hypocritically devout.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If sanctimony and a frail vow betwixt an erring barbarian and a supersubtle Venetian be not too hard for my wits and all the tribe of hell, thou shalt enjoy her; therefore make money."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If beauty have a soul, this is not she; If souls guide vows, if vows be sanctimonies, If sanctimony be the god’s delight, If there be rule in unity itself, This was not she."*

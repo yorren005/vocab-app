@@ -5,15 +5,6 @@ status: unread
 ---
 # deject
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower someone's spirits; make downhearted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower someone's spirits; make downhearted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I, of ladies most deject and wretched, That suck’d the honey of his music vows, Now see that noble and most sovereign reason, Like sweet bells jangled out of tune and harsh, That unmatch’d form and feature of blown youth Blasted with ecstasy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Reason and respect Make livers pale and lustihood deject."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, brother Hector, We may not think the justness of each act Such and no other than event doth form it; Nor once deject the courage of our minds Because Cassandra’s mad."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower someone's spirits; make downhearted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower someone's spirits; make downhearted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I, of ladies most deject and wretched, That suck’d the honey of his music vows, Now see that noble and most sovereign reason, Like sweet bells jangled out of tune and harsh, That unmatch’d form and feature of blown youth Blasted with ecstasy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Reason and respect Make livers pale and lustihood deject."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, brother Hector, We may not think the justness of each act Such and no other than event doth form it; Nor once deject the courage of our minds Because Cassandra’s mad."*

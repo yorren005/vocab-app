@@ -5,15 +5,6 @@ status: unread
 ---
 # electorate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The body of enfranchised citizens; those qualified to vote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of enfranchised citizens; those qualified to vote.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The changes have been determined in most cases by motives of temporary partisan advantage or by the political activity of the immediate beneficiaries rather than by clear knowledge and consistent purpose of the electorate as a whole."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The majority of the American electorate is not voting a special favor at the polls, but is recognizing what it believes to be in its own interest."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"This selfish issue bribes the electorate, and blinds it and its legislator to every question of the general welfare."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The body of enfranchised citizens; those qualified to vote.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of enfranchised citizens; those qualified to vote.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The changes have been determined in most cases by motives of temporary partisan advantage or by the political activity of the immediate beneficiaries rather than by clear knowledge and consistent purpose of the electorate as a whole."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The majority of the American electorate is not voting a special favor at the polls, but is recognizing what it believes to be in its own interest."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"This selfish issue bribes the electorate, and blinds it and its legislator to every question of the general welfare."*

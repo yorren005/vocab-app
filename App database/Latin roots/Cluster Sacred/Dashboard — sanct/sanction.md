@@ -5,15 +5,6 @@ status: unread
 ---
 # sanction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formal and explicit approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanism of social control for enforcing a society's standards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"If only her mother would sanction the plan!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And he is upon the whole of a fixed opinion that to give the sanction of his countenance to any complaints respecting it would be to encourage some person in the lower classes to rise up somewhere—like Wat Tyler."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Warden Atherton gave the final sanction to the badness of my name."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formal and explicit approval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanism of social control for enforcing a society's standards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"If only her mother would sanction the plan!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And he is upon the whole of a fixed opinion that to give the sanction of his countenance to any complaints respecting it would be to encourage some person in the lower classes to rise up somewhere—like Wat Tyler."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Warden Atherton gave the final sanction to the badness of my name."*

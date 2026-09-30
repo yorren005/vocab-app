@@ -5,13 +5,6 @@ status: unread
 ---
 # sclera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dense fibrous opaque white outer coat enclosing the eyeball except the part covered by the cornea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dense fibrous opaque white outer coat enclosing the eyeball except the part covered by the cornea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclera designates the dense fibrous opaque white outer coat enclosing the eyeball except the part covered by the cornea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dense fibrous opaque white outer coat enclosing the eyeball except the part covered by the cornea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dense fibrous opaque white outer coat enclosing the eyeball except the part covered by the cornea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclera designates the dense fibrous opaque white outer coat enclosing the eyeball except the part covered by the cornea."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # creese
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A malayan dagger with a wavy blade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A malayan dagger with a wavy blade.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"She had caught up an old Malay creese that lay in a corner, and was now making for the door, at which half a dozen domestics were by this time gathered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A malayan dagger with a wavy blade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A malayan dagger with a wavy blade.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"She had caught up an old Malay creese that lay in a corner, and was now making for the door, at which half a dozen domestics were by this time gathered."*

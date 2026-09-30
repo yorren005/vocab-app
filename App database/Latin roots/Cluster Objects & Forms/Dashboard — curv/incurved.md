@@ -5,13 +5,6 @@ status: unread
 ---
 # incurved
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bent into or having an inward curve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bent into or having an inward curve.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Four sporangia, each containing but four spores (fig. 244), are enclosed in each conceptacle, which is surrounded by a few appendages (about six) thrice dichotomous, and thickened at the tips of the ultimate branches, which are incurved (fig. 247)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bent into or having an inward curve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bent into or having an inward curve.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Four sporangia, each containing but four spores (fig. 244), are enclosed in each conceptacle, which is surrounded by a few appendages (about six) thrice dichotomous, and thickened at the tips of the ultimate branches, which are incurved (fig. 247)."*

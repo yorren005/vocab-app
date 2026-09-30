@@ -5,15 +5,6 @@ status: unread
 ---
 # humour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A characteristic (habitual or relatively temporary) state of feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message whose ingenuity or verbal skill or incongruity has the power to evoke laughter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And every humour hath his adjunct pleasure, Wherein it finds a joy above the rest, But these particulars are not my measure, All these I better in one general best."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then need I not to fear the worst of wrongs, When in the least of them my life hath end, I see, a better state to me belongs Than that, which on thy humour doth depend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As it is a spare life, look you, it fits my humour well; but as there is no more plenty in it, it goes much against my stomach."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A characteristic (habitual or relatively temporary) state of feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message whose ingenuity or verbal skill or incongruity has the power to evoke laughter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And every humour hath his adjunct pleasure, Wherein it finds a joy above the rest, But these particulars are not my measure, All these I better in one general best."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then need I not to fear the worst of wrongs, When in the least of them my life hath end, I see, a better state to me belongs Than that, which on thy humour doth depend."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As it is a spare life, look you, it fits my humour well; but as there is no more plenty in it, it goes much against my stomach."*

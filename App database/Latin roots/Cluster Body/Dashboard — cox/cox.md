@@ -5,15 +5,6 @@ status: unread
 ---
 # cox
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two related enzymes that control the production of prostaglandins and are blocked by aspirin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The helmsman of a ship's boat or a racing crew.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall I have a cox-comb of frieze? ’Tis time I were choked with a piece of toasted cheese."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Y., Miss Caroline Cox, of Mott Haven, N."*
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"Cox, resident engineer of the Peking section of the Peking-Tientsin railway."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two related enzymes that control the production of prostaglandins and are blocked by aspirin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The helmsman of a ship's boat or a racing crew.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall I have a cox-comb of frieze? ’Tis time I were choked with a piece of toasted cheese."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Y., Miss Caroline Cox, of Mott Haven, N."*
+> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"Cox, resident engineer of the Peking section of the Peking-Tientsin railway."*

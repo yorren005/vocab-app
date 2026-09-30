@@ -5,13 +5,6 @@ status: unread
 ---
 # lavation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The work of cleansing (usually with soap and water).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The work of cleansing (usually with soap and water).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lavation designates the work of cleansing (usually with soap and water)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The work of cleansing (usually with soap and water).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The work of cleansing (usually with soap and water).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lavation designates the work of cleansing (usually with soap and water)."*

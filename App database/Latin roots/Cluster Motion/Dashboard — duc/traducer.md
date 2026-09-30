@@ -5,13 +5,6 @@ status: unread
 ---
 # traducer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who attacks the reputation of another by slander or libel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who attacks the reputation of another by slander or libel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"My Lady is too high in position, too handsome, too accomplished, too superior in most respects to the best of those by whom she is surrounded, not to have her enemies and traducers, I dare say."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who attacks the reputation of another by slander or libel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who attacks the reputation of another by slander or libel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"My Lady is too high in position, too handsome, too accomplished, too superior in most respects to the best of those by whom she is surrounded, not to have her enemies and traducers, I dare say."*

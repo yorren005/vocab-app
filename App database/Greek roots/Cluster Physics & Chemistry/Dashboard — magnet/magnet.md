@@ -5,15 +5,6 @@ status: unread
 ---
 # magnet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: lodestone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a body having the property of attracting iron and producing a magnetic field external to itself; specifically : a mass of iron, steel, or alloy that has this property artificially imparted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Neither of these returnings was very pleasant or desirable: no magnet drew me to a given point, increasing in its strength of attraction the nearer I came."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"To this youth, preaching sublime mysteries, and needing to be mothered into the bargain, they were as iron to the magnet."*
-> - 📜 **George Eliot (*Middlemarch*):** *"There is a powerful magnet in this neighborhood.” “To be sure there is."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: lodestone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a body having the property of attracting iron and producing a magnetic field external to itself; specifically : a mass of iron, steel, or alloy that has this property artificially imparted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Neither of these returnings was very pleasant or desirable: no magnet drew me to a given point, increasing in its strength of attraction the nearer I came."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"To this youth, preaching sublime mysteries, and needing to be mothered into the bargain, they were as iron to the magnet."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There is a powerful magnet in this neighborhood.” “To be sure there is."*

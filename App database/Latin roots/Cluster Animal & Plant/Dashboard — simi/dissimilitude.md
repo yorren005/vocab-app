@@ -5,13 +5,6 @@ status: unread
 ---
 # dissimilitude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dissimilarity evidenced by an absence of likeness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dissimilarity evidenced by an absence of likeness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But to render the contrast in this respect still more striking, it may be of use to throw the principal circumstances of dissimilitude into a closer group."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dissimilarity evidenced by an absence of likeness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dissimilarity evidenced by an absence of likeness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But to render the contrast in this respect still more striking, it may be of use to throw the principal circumstances of dissimilitude into a closer group."*

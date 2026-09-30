@@ -5,13 +5,6 @@ status: unread
 ---
 # onomatopoeic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characterized by onomatopoeia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of words) formed in imitation of a natural sound; ; - harry hoijer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onomatopoeic designates of or relating to or characterized by onomatopoeia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characterized by onomatopoeia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of words) formed in imitation of a natural sound; ; - harry hoijer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onomatopoeic designates of or relating to or characterized by onomatopoeia."*

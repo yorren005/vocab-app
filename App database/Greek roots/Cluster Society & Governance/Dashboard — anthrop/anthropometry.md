@@ -5,13 +5,6 @@ status: unread
 ---
 # anthropometry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measurement and study of the human body and its parts and capacities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measurement and study of the human body and its parts and capacities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropometry designates measurement and study of the human body and its parts and capacities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Measurement and study of the human body and its parts and capacities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measurement and study of the human body and its parts and capacities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropometry designates measurement and study of the human body and its parts and capacities."*

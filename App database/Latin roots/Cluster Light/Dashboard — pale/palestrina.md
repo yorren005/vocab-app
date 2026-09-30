@@ -5,14 +5,6 @@ status: unread
 ---
 # palestrina
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian composer (1526-1594).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian composer (1526-1594).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"She professed herself delighted to be left at peace in Florence; she had locked up her apartment and sent her cook home to Palestrina."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The interval, for example, which divides the wild revels of Cybele from the stately ritual of the Catholic Church is measured by the gulf which severs the dissonant clash of cymbals and tambourines from the grave harmonies of Palestrina and Handel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian composer (1526-1594).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian composer (1526-1594).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"She professed herself delighted to be left at peace in Florence; she had locked up her apartment and sent her cook home to Palestrina."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The interval, for example, which divides the wild revels of Cybele from the stately ritual of the Catholic Church is measured by the gulf which severs the dissonant clash of cymbals and tambourines from the grave harmonies of Palestrina and Handel."*

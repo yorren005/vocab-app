@@ -5,15 +5,6 @@ status: unread
 ---
 # constructor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who contracts for and supervises construction (as of a building).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who contracts for and supervises construction (as of a building).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"All these deeds manifested Jesus' control over the belief that matter is substance, 369:12 that it can be the arbiter of life or the constructor of any form of existence."*
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"GOODYEAR, Esq., Senior Constructor, Admiralty."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Messrs Chance Bros., the great lighthouse constructors, of Birmingham, have done it, almost entirely, by floating the apparatus on mercury."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who contracts for and supervises construction (as of a building).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who contracts for and supervises construction (as of a building).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"All these deeds manifested Jesus' control over the belief that matter is substance, 369:12 that it can be the arbiter of life or the constructor of any form of existence."*
+> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"GOODYEAR, Esq., Senior Constructor, Admiralty."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Messrs Chance Bros., the great lighthouse constructors, of Birmingham, have done it, almost entirely, by floating the apparatus on mercury."*

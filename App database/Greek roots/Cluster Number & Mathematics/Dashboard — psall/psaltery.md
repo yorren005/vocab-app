@@ -5,15 +5,6 @@ status: unread
 ---
 # psaltery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient musical instrument resembling the zither.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient musical instrument resembling the zither.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Fathers of the Church (we would say), pastors of the Church, pious laics of the Church: you are taking from its walls the panoply of Aquinas--take also from its walls the psaltery of Alighieri."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus we read of a band of prophets coming down from a high place with a psaltery, a timbrel, a pipe, and a harp before them, and prophesying as they went."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, hark you! [_Trumpets, hautboys, drums beat, all together._] The trumpets, sackbuts, psalteries, and fifes, Tabors and cymbals, and the shouting Romans Make the sun dance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient musical instrument resembling the zither.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient musical instrument resembling the zither.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Fathers of the Church (we would say), pastors of the Church, pious laics of the Church: you are taking from its walls the panoply of Aquinas--take also from its walls the psaltery of Alighieri."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus we read of a band of prophets coming down from a high place with a psaltery, a timbrel, a pipe, and a harp before them, and prophesying as they went."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, hark you! [_Trumpets, hautboys, drums beat, all together._] The trumpets, sackbuts, psalteries, and fifes, Tabors and cymbals, and the shouting Romans Make the sun dance."*

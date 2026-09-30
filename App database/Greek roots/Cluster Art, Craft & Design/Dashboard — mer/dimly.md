@@ -5,15 +5,6 @@ status: unread
 ---
 # dimly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dim indistinct manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner lacking interest or vitality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"From tiers of staircase windows clogged lamps like the eyes of Equity, bleared Argus with a fathomless pocket for every eye and an eye upon it, dimly blink at the stars."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"With a glance upward at the dimly lighted windows of Sir Leicester’s room, he sets off, full-swing, to the nearest coach-stand, picks out the horse for his money, and directs to be driven to the shooting gallery."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Two figures were dimly visible in front, sitting with their legs outside the waggon, one of whom was driving."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dim indistinct manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner lacking interest or vitality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"From tiers of staircase windows clogged lamps like the eyes of Equity, bleared Argus with a fathomless pocket for every eye and an eye upon it, dimly blink at the stars."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"With a glance upward at the dimly lighted windows of Sir Leicester’s room, he sets off, full-swing, to the nearest coach-stand, picks out the horse for his money, and directs to be driven to the shooting gallery."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Two figures were dimly visible in front, sitting with their legs outside the waggon, one of whom was driving."*

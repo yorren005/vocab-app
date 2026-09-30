@@ -5,14 +5,6 @@ status: unread
 ---
 # photius
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Patriarch of constantinople and saint of the greek orthodox church; was condemned by the fourth council of constantinople in 869 but was reinstated by a later pope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Patriarch of constantinople and saint of the greek orthodox church; was condemned by the fourth council of constantinople in 869 but was reinstated by a later pope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He behaved admirably at the beginning of his reign and during 1812, but acted badly by giving a constitution to Poland, forming the Holy Alliance, entrusting power to Arakchéev, favoring Golítsyn and mysticism, and afterwards Shishkóv and Photius."*
-> - 📜 **James Joyce (*Ulysses*):** *"They make him welcome. _Was Du verlachst wirst Du noch dienen._ Brood of mockers: Photius, pseudomalachi, Johann Most."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Patriarch of constantinople and saint of the greek orthodox church; was condemned by the fourth council of constantinople in 869 but was reinstated by a later pope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Patriarch of constantinople and saint of the greek orthodox church; was condemned by the fourth council of constantinople in 869 but was reinstated by a later pope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He behaved admirably at the beginning of his reign and during 1812, but acted badly by giving a constitution to Poland, forming the Holy Alliance, entrusting power to Arakchéev, favoring Golítsyn and mysticism, and afterwards Shishkóv and Photius."*
+> - 📜 **James Joyce (*Ulysses*):** *"They make him welcome. _Was Du verlachst wirst Du noch dienen._ Brood of mockers: Photius, pseudomalachi, Johann Most."*

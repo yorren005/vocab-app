@@ -5,15 +5,6 @@ status: unread
 ---
 # labored
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strive and make an effort to reach a goal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work hard.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But mark: as in this haughty great attempt They labored to plant the rightful heir, I lost my liberty and they their lives."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"His first church was at V----, and, though he labored diligently, working with his own hands for his support, he became eighty dollars in debt."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"There, as under the eye of the Master, he reviewed the time he had labored as a colporteur, and prayed for forgiveness for the past and grace for the future."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strive and make an effort to reach a goal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work hard.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But mark: as in this haughty great attempt They labored to plant the rightful heir, I lost my liberty and they their lives."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"His first church was at V----, and, though he labored diligently, working with his own hands for his support, he became eighty dollars in debt."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"There, as under the eye of the Master, he reviewed the time he had labored as a colporteur, and prayed for forgiveness for the past and grace for the future."*

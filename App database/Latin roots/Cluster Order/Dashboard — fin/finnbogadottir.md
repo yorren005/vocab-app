@@ -5,13 +5,6 @@ status: unread
 ---
 # finnbogadottir
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Former president of iceland; first woman to be democratically elected head of state (born in 1930).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Former president of iceland; first woman to be democratically elected head of state (born in 1930).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finnbogadottir designates former president of iceland; first woman to be democratically elected head of state (born in 1930)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Former president of iceland; first woman to be democratically elected head of state (born in 1930).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Former president of iceland; first woman to be democratically elected head of state (born in 1930).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finnbogadottir designates former president of iceland; first woman to be democratically elected head of state (born in 1930)."*

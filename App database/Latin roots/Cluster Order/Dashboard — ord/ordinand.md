@@ -5,13 +5,6 @@ status: unread
 ---
 # ordinand
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person being ordained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person being ordained.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ordinand designates a person being ordained."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person being ordained.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person being ordained.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ordinand designates a person being ordained."*

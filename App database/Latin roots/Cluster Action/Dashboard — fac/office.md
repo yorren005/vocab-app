@@ -5,15 +5,6 @@ status: unread
 ---
 # office
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place of business where professional or clerical duties are performed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An administrative unit of government.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will no more enforce mine office on you, Humbly entreating from your royal thoughts A modest one to bear me back again."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must not marvel, Helen, at my course, Which holds not colour with the time, nor does The ministration and required office On my particular."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her death itself, which could not be her office to say is come, was faithfully confirm’d by the rector of the place."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Place of business where professional or clerical duties are performed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An administrative unit of government.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will no more enforce mine office on you, Humbly entreating from your royal thoughts A modest one to bear me back again."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must not marvel, Helen, at my course, Which holds not colour with the time, nor does The ministration and required office On my particular."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her death itself, which could not be her office to say is come, was faithfully confirm’d by the rector of the place."*

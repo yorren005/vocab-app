@@ -5,14 +5,6 @@ status: unread
 ---
 # oligarchy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by the few.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A government in which a small group exercises control especially for corrupt and selfish purposes; also : a group exercising such control.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Whilst the objection itself is levelled against a pretended oligarchy, the principle of it strikes at the very root of republican government."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"So far as their tribes can be said to have a political constitution, it is a democracy or rather an oligarchy of old and influential men, who meet in council and decide on all measures of importance to the practical exclusion of the younger men."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by the few.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A government in which a small group exercises control especially for corrupt and selfish purposes; also : a group exercising such control.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Whilst the objection itself is levelled against a pretended oligarchy, the principle of it strikes at the very root of republican government."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"So far as their tribes can be said to have a political constitution, it is a democracy or rather an oligarchy of old and influential men, who meet in council and decide on all measures of importance to the practical exclusion of the younger men."*

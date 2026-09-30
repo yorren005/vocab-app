@@ -5,13 +5,6 @@ status: unread
 ---
 # chlorination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The addition or substitution of chlorine in organic compounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disinfection of water by the addition of small amounts of chlorine or a chlorine compound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorination designates the addition or substitution of chlorine in organic compounds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The addition or substitution of chlorine in organic compounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disinfection of water by the addition of small amounts of chlorine or a chlorine compound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorination designates the addition or substitution of chlorine in organic compounds."*

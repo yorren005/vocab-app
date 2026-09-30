@@ -5,15 +5,6 @@ status: unread
 ---
 # cavalryman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soldier in a motorized army unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soldier mounted on horseback.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Well, young cavalryman, how is my Rook behaving?” he asked. (Rook was a young horse Telyánin had sold to Rostóv.) The lieutenant never looked the man he was speaking to straight in the face; his eyes continually wandered from one object to another."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Forward, with God!” said Bagratión, in a resolute, sonorous voice, turning for a moment to the front line, and slightly swinging his arms, he went forward uneasily over the rough field with the awkward gait of a cavalryman."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A weal dog astwide a fence!” shouted Denísov after him (the most insulting expression a cavalryman can address to a mounted infantryman) and riding up to Rostóv, he burst out laughing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soldier in a motorized army unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soldier mounted on horseback.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Well, young cavalryman, how is my Rook behaving?” he asked. (Rook was a young horse Telyánin had sold to Rostóv.) The lieutenant never looked the man he was speaking to straight in the face; his eyes continually wandered from one object to another."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Forward, with God!” said Bagratión, in a resolute, sonorous voice, turning for a moment to the front line, and slightly swinging his arms, he went forward uneasily over the rough field with the awkward gait of a cavalryman."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A weal dog astwide a fence!” shouted Denísov after him (the most insulting expression a cavalryman can address to a mounted infantryman) and riding up to Rostóv, he burst out laughing."*

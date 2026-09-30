@@ -5,15 +5,6 @@ status: unread
 ---
 # project
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any piece of work that is undertaken or attempted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A planned undertaking.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The king’s disease,—my project may deceive me, But my intents are fix’d, and will not leave me. [_Exit._] SCENE II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sole sir o’ th’ world, I cannot project mine own cause so well To make it clear, but do confess I have Been laden with like frailties which before Have often shamed our sex."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore this project Should have a back or second, that might hold If this did blast in proof."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any piece of work that is undertaken or attempted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A planned undertaking.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The king’s disease,—my project may deceive me, But my intents are fix’d, and will not leave me. [_Exit._] SCENE II."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sole sir o’ th’ world, I cannot project mine own cause so well To make it clear, but do confess I have Been laden with like frailties which before Have often shamed our sex."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore this project Should have a back or second, that might hold If this did blast in proof."*

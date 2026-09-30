@@ -5,13 +5,6 @@ status: unread
 ---
 # plectomycetes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Class of fungi in which the fruiting body is a cleistothecium (it releases spores only on decay or disintegration).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Class of fungi in which the fruiting body is a cleistothecium (it releases spores only on decay or disintegration).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plectomycetes designates class of fungi in which the fruiting body is a cleistothecium (it releases spores only on decay or disintegration)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Class of fungi in which the fruiting body is a cleistothecium (it releases spores only on decay or disintegration).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Class of fungi in which the fruiting body is a cleistothecium (it releases spores only on decay or disintegration).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plectomycetes designates class of fungi in which the fruiting body is a cleistothecium (it releases spores only on decay or disintegration)."*

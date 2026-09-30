@@ -5,13 +5,6 @@ status: unread
 ---
 # orthomolecular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designating or relating to a form of treatment of mental disorders that seeks to restore biochemical balance in the body with large doses of vitamins and minerals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating or relating to a form of treatment of mental disorders that seeks to restore biochemical balance in the body with large doses of vitamins and minerals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthomolecular designates designating or relating to a form of treatment of mental disorders that seeks to restore biochemical balance in the body with large doses of vitamins and minerals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designating or relating to a form of treatment of mental disorders that seeks to restore biochemical balance in the body with large doses of vitamins and minerals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating or relating to a form of treatment of mental disorders that seeks to restore biochemical balance in the body with large doses of vitamins and minerals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthomolecular designates designating or relating to a form of treatment of mental disorders that seeks to restore biochemical balance in the body with large doses of vitamins and minerals."*

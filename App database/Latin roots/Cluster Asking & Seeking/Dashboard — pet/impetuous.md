@@ -5,15 +5,6 @@ status: unread
 ---
 # impetuous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by undue haste and lack of thought or deliberation; ; ; ; ; (`brainish' is archaic).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by violent force.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The ocean, overpeering of his list, Eats not the flats with more impetuous haste Than young Laertes, in a riotous head, O’erbears your offices."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was then the most impetuous boy in the world, and he is now the most impetuous man."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Excuse me if I recommend you not to chafe so much, not to be so impetuous, not to wear yourself out so."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by undue haste and lack of thought or deliberation; ; ; ; ; (`brainish' is archaic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by violent force.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The ocean, overpeering of his list, Eats not the flats with more impetuous haste Than young Laertes, in a riotous head, O’erbears your offices."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He was then the most impetuous boy in the world, and he is now the most impetuous man."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Excuse me if I recommend you not to chafe so much, not to be so impetuous, not to wear yourself out so."*

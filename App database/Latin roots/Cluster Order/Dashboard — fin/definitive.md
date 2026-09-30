@@ -5,15 +5,6 @@ status: unread
 ---
 # definitive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clearly defined or formulated; - r.b.taney.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of recognized authority or excellence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Never crave him; we are definitive."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This tribunal, under an oath of impartiality, pronounces definitive sentence, which all the cantons are bound to enforce."*
-> - 📜 **Algis Budrys (*Citadel*):** *"In the case of unoccupied, habitable planets, however, the state's function ceases with the filing of a complete and definitive survey at the Under-Ministry for Emigration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clearly defined or formulated; - r.b.taney.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of recognized authority or excellence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Never crave him; we are definitive."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This tribunal, under an oath of impartiality, pronounces definitive sentence, which all the cantons are bound to enforce."*
+> - 📜 **Algis Budrys (*Citadel*):** *"In the case of unoccupied, habitable planets, however, the state's function ceases with the filing of a complete and definitive survey at the Under-Ministry for Emigration."*

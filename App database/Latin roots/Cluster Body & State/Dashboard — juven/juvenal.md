@@ -5,15 +5,6 @@ status: unread
 ---
 # juvenal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman satirist who denounced the vice and folly of roman society during the reign of the emperor domitian (60-140).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman satirist who denounced the vice and folly of roman society during the reign of the emperor domitian (60-140).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was never manned with an agate till now, but I will inset you neither in gold nor silver, but in vile apparel, and send you back again to your master, for a jewel,—the juvenal, the Prince your master, whose chin is not yet fledge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How canst thou part sadness and melancholy, my tender juvenal?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I spoke it, tender juvenal, as a congruent epitheton appertaining to thy young days, which we may nominate tender."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman satirist who denounced the vice and folly of roman society during the reign of the emperor domitian (60-140).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman satirist who denounced the vice and folly of roman society during the reign of the emperor domitian (60-140).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was never manned with an agate till now, but I will inset you neither in gold nor silver, but in vile apparel, and send you back again to your master, for a jewel,—the juvenal, the Prince your master, whose chin is not yet fledge."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How canst thou part sadness and melancholy, my tender juvenal?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I spoke it, tender juvenal, as a congruent epitheton appertaining to thy young days, which we may nominate tender."*

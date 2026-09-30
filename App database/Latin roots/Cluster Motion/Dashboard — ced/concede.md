@@ -5,15 +5,6 @@ status: unread
 ---
 # concede
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Admit (to a wrongdoing).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be willing to concede.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To this demand the friends of protection who were in power felt compelled to concede something--or to appear to do so."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"So much his own are all these things that it is hard to imagine the possibility of his being a mere literary creation, even if we could concede a joint literary creation by several authors writing independent works."*
-> - 📜 **George Eliot (*Middlemarch*):** *"That’s the style.” “You must concede that there are abuses, Hawley,” said Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Admit (to a wrongdoing).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be willing to concede.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To this demand the friends of protection who were in power felt compelled to concede something--or to appear to do so."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"So much his own are all these things that it is hard to imagine the possibility of his being a mere literary creation, even if we could concede a joint literary creation by several authors writing independent works."*
+> - 📜 **George Eliot (*Middlemarch*):** *"That’s the style.” “You must concede that there are abuses, Hawley,” said Mr."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # dividend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That part of the earnings of a corporation that is distributed to its shareholders; usually paid quarterly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A number to be divided by another number.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Whenever the question comes before them, the courts maintain the right of the railroads to earn a fair dividend."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Money spent in the uplift of the American Negro is, therefore, an investment in the interests of Africa that will pay a glorious dividend."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"It might seem that the dividend would be declared if earned, otherwise not."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: That part of the earnings of a corporation that is distributed to its shareholders; usually paid quarterly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A number to be divided by another number.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Whenever the question comes before them, the courts maintain the right of the railroads to earn a fair dividend."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Money spent in the uplift of the American Negro is, therefore, an investment in the interests of Africa that will pay a glorious dividend."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"It might seem that the dividend would be declared if earned, otherwise not."*

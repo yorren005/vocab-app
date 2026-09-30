@@ -5,13 +5,6 @@ status: unread
 ---
 # fornicatress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman adulterer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman adulterer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, let her be admitted. [_Exit Servant._] See you the fornicatress be removed; Let her have needful but not lavish means; There shall be order for it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman adulterer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman adulterer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, let her be admitted. [_Exit Servant._] See you the fornicatress be removed; Let her have needful but not lavish means; There shall be order for it."*

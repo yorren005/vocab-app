@@ -5,13 +5,6 @@ status: unread
 ---
 # asthenic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking strength or vigor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a slender physique.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asthenic designates lacking strength or vigor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking strength or vigor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a slender physique.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asthenic designates lacking strength or vigor."*

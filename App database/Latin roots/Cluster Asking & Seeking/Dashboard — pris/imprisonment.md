@@ -5,15 +5,6 @@ status: unread
 ---
 # imprisonment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Putting someone in prison or in jail as lawful punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being imprisoned.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beside the charge, the shame, imprisonment, You have done wrong to this my honest friend, Who, but for staying on our controversy, Had hoisted sail and put to sea today."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your lordship may minister the potion of imprisonment to me in respect of poverty; but how I should be your patient to follow your prescriptions, the wise may make some dram of a scruple, or indeed a scruple itself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even like a man new haled from the rack, So fare my limbs with long imprisonment; And these gray locks, the pursuivants of death, Nestor-like aged in an age of care, Argue the end of Edmund Mortimer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Putting someone in prison or in jail as lawful punishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being imprisoned.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beside the charge, the shame, imprisonment, You have done wrong to this my honest friend, Who, but for staying on our controversy, Had hoisted sail and put to sea today."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your lordship may minister the potion of imprisonment to me in respect of poverty; but how I should be your patient to follow your prescriptions, the wise may make some dram of a scruple, or indeed a scruple itself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even like a man new haled from the rack, So fare my limbs with long imprisonment; And these gray locks, the pursuivants of death, Nestor-like aged in an age of care, Argue the end of Edmund Mortimer."*

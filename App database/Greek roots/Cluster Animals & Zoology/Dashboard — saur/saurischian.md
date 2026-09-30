@@ -5,13 +5,6 @@ status: unread
 ---
 # saurischian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbivorous or carnivorous dinosaur having a three-pronged pelvis like that of a crocodile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbivorous or carnivorous dinosaur having a three-pronged pelvis like that of a crocodile.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saurischian designates herbivorous or carnivorous dinosaur having a three-pronged pelvis like that of a crocodile."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbivorous or carnivorous dinosaur having a three-pronged pelvis like that of a crocodile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbivorous or carnivorous dinosaur having a three-pronged pelvis like that of a crocodile.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saurischian designates herbivorous or carnivorous dinosaur having a three-pronged pelvis like that of a crocodile."*

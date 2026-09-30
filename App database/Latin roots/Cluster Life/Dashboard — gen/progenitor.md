@@ -5,15 +5,6 @@ status: unread
 ---
 # progenitor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancestor in the direct line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancestor in the direct line.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"This oldest son is represented to have been the progenitor of the _Kanaka-maoli_, the people living on the mainland of Kane (_Aina kumupuaa a Kane_): the youngest was the progenitor of the white people (_ka poe keo keo maoli_)."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"They said that, after death, the ghost went first to the region of Wakea, the name of their first reputed progenitor, and if it had observed the religious rites and ceremonies, was entertained and allowed to remain there."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"It is the progenitor of all the fish in the sea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancestor in the direct line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancestor in the direct line.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"This oldest son is represented to have been the progenitor of the _Kanaka-maoli_, the people living on the mainland of Kane (_Aina kumupuaa a Kane_): the youngest was the progenitor of the white people (_ka poe keo keo maoli_)."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"They said that, after death, the ghost went first to the region of Wakea, the name of their first reputed progenitor, and if it had observed the religious rites and ceremonies, was entertained and allowed to remain there."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"It is the progenitor of all the fish in the sea."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # explanatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving or intended to explain or make clear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving or intended to explain or make clear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby addresses an explanatory cough to Mrs."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It is to be done on my responsibility,” she added, in an explanatory tone to them, and immediately afterwards left the room."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She knew but little of their meeting in Derbyshire, and therefore felt for the awkwardness which must attend her sister, in seeing him almost for the first time after receiving his explanatory letter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving or intended to explain or make clear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving or intended to explain or make clear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby addresses an explanatory cough to Mrs."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It is to be done on my responsibility,” she added, in an explanatory tone to them, and immediately afterwards left the room."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She knew but little of their meeting in Derbyshire, and therefore felt for the awkwardness which must attend her sister, in seeing him almost for the first time after receiving his explanatory letter."*

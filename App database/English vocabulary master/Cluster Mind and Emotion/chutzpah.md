@@ -5,20 +5,6 @@ status: unread
 ---
 # chutzpah
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Supreme self-confidence : nerve, gall
-> 2. **Nuance / Usage**: (informal) nearly arrogant courage; utter audacity, effrontery or impudence; supreme self-confidence; exaggerated self-opinion
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Uncountable Noun (Yiddish loanword).
-> - **Syntactic Constructions**: Functions as a direct object of verbs denoting possession or courage (*it took real chutzpah to challenge the board*), a predicate noun (*that was pure chutzpah*), or with prepositions (*with unblushing chutzpah*).
-> - **Collocations & Registers**: Colloquial, journalistic, and rhetorical registers; paired with *brazen*, *unmitigated*, *sheer*, *astonishing*, and *gall*.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Leo Rosten (*The Joys of Yiddish*):** *"Chutzpah is that quality enshrined in a man who, having killed his mother and father, throws himself on the mercy of the court because he is an orphan."*
-> - 📜 **Philip Howard (*The Times: Modern Manners*):** *"If the service is rotten and the meal a disaster, we should withhold a tip and explain why we are doing so. Few of us have the chutzpah to do this."*
-> - 📜 **John Scalzi (*Whatever*):** *"The ability to just come out and put on a placard that the Jurassic era is temporally contiguous with the Fifth Dynasty of the Old Kingdom of Egypt — well, there’s a word for that, and that word is chutzpah."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Supreme, brazen self-confidence; shameless audacity, nerve, or gall that defies conventional restraint.
+> 2. **Nuance / Usage**: Depending on context, it can carry either grudging admiration for bold initiative against the odds or exasperation at outrageous impudence.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Uncountable Noun (Yiddish loanword).
+> - **Syntactic Constructions**: Functions as a direct object of verbs denoting possession or courage (*it took real chutzpah to challenge the board*), a predicate noun (*that was pure chutzpah*), or with prepositions (*with unblushing chutzpah*).
+> - **Collocations & Registers**: Colloquial, journalistic, and rhetorical registers; paired with *brazen*, *unmitigated*, *sheer*, *astonishing*, and *gall*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Leo Rosten (*The Joys of Yiddish*):** *"**Chutzpah** is that quality enshrined in a man who, having killed his mother and father, throws himself on the mercy of the court because he is an orphan."*
+> - 📜 **Philip Howard (*The Times*):** *"If the service is rotten and the meal a disaster, we should withhold a tip and explain why, though few of us have the **chutzpah** to do so."*
+> - 📜 **John Scalzi (*Whatever*):** *"To claim on a museum placard that the Jurassic era was contemporaneous with the Old Kingdom of Egypt takes a breathtaking level of **chutzpah**."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # bath
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A washing or soaking (as in water or steam) of all or part of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Water used for bathing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I could wish You were conducted to a gentle bath And balms applied to you, yet dare I never Deny your asking."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It sall be vary gud, gud feith, gud captains bath: and I sall quit you with gud leve, as I may pick occasion; that sall I, marry."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your statue spouting blood in many pipes, In which so many smiling Romans bath’d, Signifies that from you great Rome shall suck Reviving blood, and that great men shall press For tinctures, stains, relics, and cognizance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A washing or soaking (as in water or steam) of all or part of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Water used for bathing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I could wish You were conducted to a gentle bath And balms applied to you, yet dare I never Deny your asking."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It sall be vary gud, gud feith, gud captains bath: and I sall quit you with gud leve, as I may pick occasion; that sall I, marry."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your statue spouting blood in many pipes, In which so many smiling Romans bath’d, Signifies that from you great Rome shall suck Reviving blood, and that great men shall press For tinctures, stains, relics, and cognizance."*

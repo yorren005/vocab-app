@@ -5,13 +5,6 @@ status: unread
 ---
 # hallstand
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of furniture where coats and hats and umbrellas can be hung; usually has a mirror.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of furniture where coats and hats and umbrellas can be hung; usually has a mirror.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hallstand designates a piece of furniture where coats and hats and umbrellas can be hung; usually has a mirror."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of furniture where coats and hats and umbrellas can be hung; usually has a mirror.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of furniture where coats and hats and umbrellas can be hung; usually has a mirror.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hallstand designates a piece of furniture where coats and hats and umbrellas can be hung; usually has a mirror."*

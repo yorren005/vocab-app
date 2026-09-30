@@ -5,15 +5,6 @@ status: unread
 ---
 # insufferable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of persons or their behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of persons or their behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Isabella, on hearing the particulars of the visit, gave a different explanation: “It was all pride, pride, insufferable haughtiness and pride! she had long suspected the family to be very high, and this made it certain."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Neglect it—go on as heretofore, craving, whining, and idling—and suffer the results of your idiocy, however bad and insufferable they may be."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Assistance is impossible; condolence, insufferable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of persons or their behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of persons or their behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Isabella, on hearing the particulars of the visit, gave a different explanation: “It was all pride, pride, insufferable haughtiness and pride! she had long suspected the family to be very high, and this made it certain."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Neglect it—go on as heretofore, craving, whining, and idling—and suffer the results of your idiocy, however bad and insufferable they may be."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Assistance is impossible; condolence, insufferable."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # storied
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an illustrious past.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having stories as indicated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Inscription For The Headstone Of Fergusson The Poet^1 No sculptured marble here, nor pompous lay, “No storied urn nor animated bust;” This simple stone directs pale Scotia’s way, To pour her sorrows o’er the Poet’s dust."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But gulp down your tears and hie aloft to the royal-mast with your hearts; for your friends who have gone before are clearing out the seven-storied heavens, and making refugees of long-pampered Gabriel, Michael, and Raphael, against your coming."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There it was, too, that most of the deadly encounters with the white whale had taken place; there the waves were storied with his deeds; there also was that tragic spot where the monomaniac old man had found the awful motive to his vengeance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an illustrious past.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having stories as indicated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Inscription For The Headstone Of Fergusson The Poet^1 No sculptured marble here, nor pompous lay, “No storied urn nor animated bust;” This simple stone directs pale Scotia’s way, To pour her sorrows o’er the Poet’s dust."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But gulp down your tears and hie aloft to the royal-mast with your hearts; for your friends who have gone before are clearing out the seven-storied heavens, and making refugees of long-pampered Gabriel, Michael, and Raphael, against your coming."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There it was, too, that most of the deadly encounters with the white whale had taken place; there the waves were storied with his deeds; there also was that tragic spot where the monomaniac old man had found the awful motive to his vengeance."*

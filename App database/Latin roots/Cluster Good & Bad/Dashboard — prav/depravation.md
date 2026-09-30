@@ -5,13 +5,6 @@ status: unread
 ---
 # depravation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moral perversion; impairment of virtue and moral principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moral perversion; impairment of virtue and moral principles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Think, we had mothers; do not give advantage To stubborn critics, apt, without a theme, For depravation, to square the general sex By Cressid’s rule."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moral perversion; impairment of virtue and moral principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moral perversion; impairment of virtue and moral principles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Think, we had mothers; do not give advantage To stubborn critics, apt, without a theme, For depravation, to square the general sex By Cressid’s rule."*

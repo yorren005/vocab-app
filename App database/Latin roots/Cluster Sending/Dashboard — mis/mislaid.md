@@ -5,15 +5,6 @@ status: unread
 ---
 # mislaid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place (something) where one cannot find it again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lost temporarily; as especially put in an unaccustomed or forgotten place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"All through dinner—which was long, in consequence of such accidents as the dish of potatoes being mislaid in the coal skuttle and the handle of the corkscrew coming off and striking the young woman in the chin—Mrs."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The gods of birth were careless, and I was mislaid in a far land and nursed by an alien people."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"I would write to him myself, but have mislaid his direction; and, as I hinted above, am afraid he took something in my conduct amiss."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Place (something) where one cannot find it again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lost temporarily; as especially put in an unaccustomed or forgotten place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"All through dinner—which was long, in consequence of such accidents as the dish of potatoes being mislaid in the coal skuttle and the handle of the corkscrew coming off and striking the young woman in the chin—Mrs."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The gods of birth were careless, and I was mislaid in a far land and nursed by an alien people."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"I would write to him myself, but have mislaid his direction; and, as I hinted above, am afraid he took something in my conduct amiss."*

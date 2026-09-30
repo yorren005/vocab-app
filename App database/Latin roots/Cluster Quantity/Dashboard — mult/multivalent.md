@@ -5,13 +5,6 @@ status: unread
 ---
 # multivalent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of the association of three or more homologous chromosomes during the first division of meiosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having more than one valence, or having a valence of 3 or higher.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multivalent designates used of the association of three or more homologous chromosomes during the first division of meiosis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of the association of three or more homologous chromosomes during the first division of meiosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having more than one valence, or having a valence of 3 or higher.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multivalent designates used of the association of three or more homologous chromosomes during the first division of meiosis."*

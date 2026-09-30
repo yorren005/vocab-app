@@ -5,15 +5,6 @@ status: unread
 ---
 # ludicrous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Broadly or extravagantly humorous; resembling farce.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incongruous;inviting ridicule.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole with a quickened sense of the ludicrous, “that my chairs and tables were not paid for, and yet my landlord walks off with them as composedly as possible."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As I naturally speculated on the object of these visits, and as I always associated something ludicrous with the visitor, it fell out that in laughing about Mr."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"And his keen sense of the ludicrous side of things often acted as an antiseptic, and kept him right both with himself and with his people."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Broadly or extravagantly humorous; resembling farce.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incongruous;inviting ridicule.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole with a quickened sense of the ludicrous, “that my chairs and tables were not paid for, and yet my landlord walks off with them as composedly as possible."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"As I naturally speculated on the object of these visits, and as I always associated something ludicrous with the visitor, it fell out that in laughing about Mr."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"And his keen sense of the ludicrous side of things often acted as an antiseptic, and kept him right both with himself and with his people."*

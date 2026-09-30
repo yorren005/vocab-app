@@ -5,15 +5,6 @@ status: unread
 ---
 # voluminous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large in volume or bulk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by repeated turns and bends.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Opposite the spot to which he had brought her was such a general confluence, and the river was proportionately voluminous and deep."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Legislation to remedy these evils began in England a century ago, and the English code of factory laws, regulating the construction and operation of factories and providing for their inspection, has become voluminous."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"From his voluminous manuscripts, written in the last quarter of the eighteenth century, a selection was published in the latter part of the nineteenth century."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large in volume or bulk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by repeated turns and bends.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Opposite the spot to which he had brought her was such a general confluence, and the river was proportionately voluminous and deep."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Legislation to remedy these evils began in England a century ago, and the English code of factory laws, regulating the construction and operation of factories and providing for their inspection, has become voluminous."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"From his voluminous manuscripts, written in the last quarter of the eighteenth century, a selection was published in the latter part of the nineteenth century."*

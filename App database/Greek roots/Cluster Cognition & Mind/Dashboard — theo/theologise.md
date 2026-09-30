@@ -5,13 +5,6 @@ status: unread
 ---
 # theologise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat from a theological viewpoint or render theological in character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make theoretical speculations about theology or discuss theological subjects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theologise designates treat from a theological viewpoint or render theological in character."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat from a theological viewpoint or render theological in character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make theoretical speculations about theology or discuss theological subjects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theologise designates treat from a theological viewpoint or render theological in character."*

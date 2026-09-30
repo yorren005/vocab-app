@@ -5,15 +5,6 @@ status: unread
 ---
 # progeny
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The immediate descendants of a person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The immediate descendants of a person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, all French and France exclaims on thee, Doubting thy birth and lawful progeny."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, let me tell you whom you have condemn’d: Not one begotten of a shepherd swain, But issued from the progeny of kings; Virtuous and holy, chosen from above, By inspiration of celestial grace, To work exceeding miracles on earth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And this same progeny of evils comes From our debate, from our dissension; We are their parents and original."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The immediate descendants of a person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The immediate descendants of a person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, all French and France exclaims on thee, Doubting thy birth and lawful progeny."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, let me tell you whom you have condemn’d: Not one begotten of a shepherd swain, But issued from the progeny of kings; Virtuous and holy, chosen from above, By inspiration of celestial grace, To work exceeding miracles on earth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And this same progeny of evils comes From our debate, from our dissension; We are their parents and original."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # splendour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quality that outshines the usual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being magnificent or splendid or grand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To solemnize this day the glorious sun Stays in his course and plays the alchemist, Turning with splendour of his precious eye The meagre cloddy earth to glittering gold."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll go along, no such sight to be shown, But to rejoice in splendour of my own. [_Exeunt._] SCENE III."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O happiness enjoyed but of a few, And, if possessed, as soon decayed and done As is the morning’s silver melting dew Against the golden splendour of the sun!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quality that outshines the usual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being magnificent or splendid or grand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To solemnize this day the glorious sun Stays in his course and plays the alchemist, Turning with splendour of his precious eye The meagre cloddy earth to glittering gold."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll go along, no such sight to be shown, But to rejoice in splendour of my own. [_Exeunt._] SCENE III."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O happiness enjoyed but of a few, And, if possessed, as soon decayed and done As is the morning’s silver melting dew Against the golden splendour of the sun!"*

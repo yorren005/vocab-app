@@ -5,15 +5,6 @@ status: unread
 ---
 # disillusionment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freeing from false belief or illusions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freeing from false belief or illusions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Wonder, disillusionment, passion, tragedy, despair."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Prince Andrew looked at the laughing Speránski with astonishment, regret, and disillusionment."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Where was his spleen, his contempt for life, his disillusionment?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freeing from false belief or illusions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freeing from false belief or illusions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Wonder, disillusionment, passion, tragedy, despair."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Prince Andrew looked at the laughing Speránski with astonishment, regret, and disillusionment."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Where was his spleen, his contempt for life, his disillusionment?"*

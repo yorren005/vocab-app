@@ -5,15 +5,6 @@ status: unread
 ---
 # finely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In tiny pieces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an elegant manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such and so finely bolted didst thou seem."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We will turn it finely off, sir; we will take some care. [_Exit Costard._] KING."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spirits are not finely touched But to fine issues; nor nature never lends The smallest scruple of her excellence But, like a thrifty goddess, she determines Herself the glory of a creditor, Both thanks and use."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In tiny pieces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an elegant manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such and so finely bolted didst thou seem."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We will turn it finely off, sir; we will take some care. [_Exit Costard._] KING."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spirits are not finely touched But to fine issues; nor nature never lends The smallest scruple of her excellence But, like a thrifty goddess, she determines Herself the glory of a creditor, Both thanks and use."*

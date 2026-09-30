@@ -5,13 +5,6 @@ status: unread
 ---
 # cirrocumulus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cloud at a high altitude consisting of a series of regularly arranged small clouds resembling ripples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cloud at a high altitude consisting of a series of regularly arranged small clouds resembling ripples.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cirrocumulus designates a cloud at a high altitude consisting of a series of regularly arranged small clouds resembling ripples."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cloud at a high altitude consisting of a series of regularly arranged small clouds resembling ripples.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cloud at a high altitude consisting of a series of regularly arranged small clouds resembling ripples.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cirrocumulus designates a cloud at a high altitude consisting of a series of regularly arranged small clouds resembling ripples."*

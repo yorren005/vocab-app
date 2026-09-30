@@ -5,15 +5,6 @@ status: unread
 ---
 # herald
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (formal) a person who announces important news.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that precedes and indicates the approach of something or someone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him be regarded As the most noble corse that ever herald Did follow to his urn."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Governor of Harfleur MONTJOY, a French herald."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come thou no more for ransom, gentle herald."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (formal) a person who announces important news.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that precedes and indicates the approach of something or someone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him be regarded As the most noble corse that ever herald Did follow to his urn."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Governor of Harfleur MONTJOY, a French herald."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come thou no more for ransom, gentle herald."*

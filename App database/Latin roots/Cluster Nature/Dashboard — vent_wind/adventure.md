@@ -5,15 +5,6 @@ status: unread
 ---
 # adventure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wild and exciting undertaking (not necessarily lawful).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take a risk in the hope of a favorable outcome.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you saw yourself with your eyes or knew yourself with your judgement, the fear of your adventure would counsel you to a more equal enterprise."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, poor shepherd, searching of thy wound, I have by hard adventure found mine own."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you beat us out of it, it is yours; if you fall in the adventure, our crows shall fare the better for you; and there’s an end."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wild and exciting undertaking (not necessarily lawful).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take a risk in the hope of a favorable outcome.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you saw yourself with your eyes or knew yourself with your judgement, the fear of your adventure would counsel you to a more equal enterprise."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, poor shepherd, searching of thy wound, I have by hard adventure found mine own."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you beat us out of it, it is yours; if you fall in the adventure, our crows shall fare the better for you; and there’s an end."*

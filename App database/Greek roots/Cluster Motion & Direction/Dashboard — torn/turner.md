@@ -5,15 +5,6 @@ status: unread
 ---
 # turner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states slave and insurrectionist who in 1831 led a rebellion of slaves in virginia; he was captured and executed (1800-1831).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states endocrinologist (1892-1970).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Ternaux-Compans, _Essai sur l'ancien Cundinamarca_ (Paris, N.D.), p. 18. [174] George Turner, LL.D., _Samoa, a Hundred Years ago and long before_ (London, 1884), p. 200."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"On Andrew Turner In se’enteen hunder’n forty-nine, The deil gat stuff to mak a swine, An’ coost it in a corner; But wilily he chang’d his plan, An’ shap’d it something like a man, An’ ca’d it Andrew Turner."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Don't you wish you had?" as Turner said."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states slave and insurrectionist who in 1831 led a rebellion of slaves in virginia; he was captured and executed (1800-1831).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states endocrinologist (1892-1970).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Ternaux-Compans, _Essai sur l'ancien Cundinamarca_ (Paris, N.D.), p. 18. [174] George Turner, LL.D., _Samoa, a Hundred Years ago and long before_ (London, 1884), p. 200."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"On Andrew Turner In se’enteen hunder’n forty-nine, The deil gat stuff to mak a swine, An’ coost it in a corner; But wilily he chang’d his plan, An’ shap’d it something like a man, An’ ca’d it Andrew Turner."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Don't you wish you had?" as Turner said."*

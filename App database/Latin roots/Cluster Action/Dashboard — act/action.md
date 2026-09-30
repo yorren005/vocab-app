@@ -5,15 +5,6 @@ status: unread
 ---
 # action
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something done (usually as opposed to something said).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being active.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I knew in what particular action to try him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And as in the common course of all treasons, we still see them reveal themselves till they attain to their abhorr’d ends; so he that in this action contrives against his own nobility, in his proper stream, o’erflows himself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Noble friends, That which combined us was most great, and let not A leaner action rend us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition**: The process or state of doing something intentionally to achieve an aim, especially in contrast to mere words or contemplation.
+> 2. **Secondary / Nuanced Definition**: A formal legal proceeding brought in a court of law, or the unfolding sequence of events that drives the plot of a drama or narrative.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Hamlet*):** *"Suit the **action** to the word, the word to the **action**."*
+> - 📜 **Hannah Arendt (*The Human Condition*):** *"Through **action** and speech, men show who they are and reveal actively their unique personal identities."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"To every **action** there is always opposed an equal reaction."*

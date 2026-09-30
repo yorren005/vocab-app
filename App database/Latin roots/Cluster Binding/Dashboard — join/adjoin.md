@@ -5,15 +5,6 @@ status: unread
 ---
 # adjoin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lie adjacent to another or share a boundary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be in direct physical contact with; make contact.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a massy wheel Fix’d on the summit of the highest mount, To whose huge spokes ten thousand lesser things Are mortis’d and adjoin’d; which when it falls, Each small annexment, petty consequence, Attends the boist’rous ruin."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Your room adjoins mine,” said he, opening a door, “and mine opens into the drawing-room that we have just quitted.” I entered the Captain’s room: it had a severe, almost a monkish, aspect."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"If this adjoins railroad tracts, he can secure what is desired of the latter at from two to ten dollars per acre."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lie adjacent to another or share a boundary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be in direct physical contact with; make contact.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a massy wheel Fix’d on the summit of the highest mount, To whose huge spokes ten thousand lesser things Are mortis’d and adjoin’d; which when it falls, Each small annexment, petty consequence, Attends the boist’rous ruin."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Your room adjoins mine,” said he, opening a door, “and mine opens into the drawing-room that we have just quitted.” I entered the Captain’s room: it had a severe, almost a monkish, aspect."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"If this adjoins railroad tracts, he can secure what is desired of the latter at from two to ten dollars per acre."*

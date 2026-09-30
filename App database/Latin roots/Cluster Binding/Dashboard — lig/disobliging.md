@@ -5,13 +5,6 @@ status: unread
 ---
 # disobliging
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause inconvenience or discomfort to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ignore someone's wishes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her heart instantaneously at ease on this point, she resolved to lose no time in particular examination of anything, as she greatly dreaded disobliging the General by any delay."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause inconvenience or discomfort to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ignore someone's wishes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her heart instantaneously at ease on this point, she resolved to lose no time in particular examination of anything, as she greatly dreaded disobliging the General by any delay."*

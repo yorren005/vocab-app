@@ -5,15 +5,6 @@ status: unread
 ---
 # unattractive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking beauty or charm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking power to arouse interest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"The worst of it is, that she manages to make me appear so unamiable and unattractive in my husband's eyes," she sighed to herself."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Speaking generally, he has obtained a very wide acceptance of the utilitarian doctrines: they were presented by Bentham in a form so harsh and unattractive as to produce an almost repelling effect."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Yet could she as a young and not unattractive lady, go with safety and propriety among a hundred thousand armed men, and tell them that no one had sent her?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking beauty or charm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking power to arouse interest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"The worst of it is, that she manages to make me appear so unamiable and unattractive in my husband's eyes," she sighed to herself."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Speaking generally, he has obtained a very wide acceptance of the utilitarian doctrines: they were presented by Bentham in a form so harsh and unattractive as to produce an almost repelling effect."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Yet could she as a young and not unattractive lady, go with safety and propriety among a hundred thousand armed men, and tell them that no one had sent her?"*

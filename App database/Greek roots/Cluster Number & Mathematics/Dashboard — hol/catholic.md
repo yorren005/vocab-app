@@ -5,15 +5,6 @@ status: unread
 ---
 # catholic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman catholic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or forming the church universal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"What interested him in Christian truth, and what he had, ever since he had been a student, set himself specially to expound and defend, were the great catholic doctrines which are the heritage of the one Church of Christ."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He spoke to everybody he met, in the train, in the steamboat, or in hotels, in fluent if rather "bookish" German, in correct but somewhat halting French, or, if it was a Roman Catholic priest he had to deal with, in sonorous Latin."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"WONDERFUL CONVERSION OF A ROMAN CATHOLIC."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman catholic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or forming the church universal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"What interested him in Christian truth, and what he had, ever since he had been a student, set himself specially to expound and defend, were the great catholic doctrines which are the heritage of the one Church of Christ."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"He spoke to everybody he met, in the train, in the steamboat, or in hotels, in fluent if rather "bookish" German, in correct but somewhat halting French, or, if it was a Roman Catholic priest he had to deal with, in sonorous Latin."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"WONDERFUL CONVERSION OF A ROMAN CATHOLIC."*

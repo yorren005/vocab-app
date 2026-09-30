@@ -5,13 +5,6 @@ status: unread
 ---
 # bathyal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to ocean depths between 200 and 2000 meters (corresponds to the continental slope).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to ocean depths between 200 and 2000 meters (corresponds to the continental slope).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bathyal designates relating to ocean depths between 200 and 2000 meters (corresponds to the continental slope)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to ocean depths between 200 and 2000 meters (corresponds to the continental slope).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to ocean depths between 200 and 2000 meters (corresponds to the continental slope).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bathyal designates relating to ocean depths between 200 and 2000 meters (corresponds to the continental slope)."*

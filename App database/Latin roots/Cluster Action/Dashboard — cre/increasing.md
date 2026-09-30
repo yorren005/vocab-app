@@ -5,15 +5,6 @@ status: unread
 ---
 # increasing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become bigger or greater in amount.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make bigger or more.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I have seen the hungry ocean gain Advantage on the kingdom of the shore, And the firm soil win of the watery main, Increasing store with loss, and loss with store."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Great and increasing; but by sea He is an absolute master."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So he wishes you all happiness that remains loyal to his vow, and your increasing in love."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become bigger or greater in amount.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make bigger or more.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I have seen the hungry ocean gain Advantage on the kingdom of the shore, And the firm soil win of the watery main, Increasing store with loss, and loss with store."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Great and increasing; but by sea He is an absolute master."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So he wishes you all happiness that remains loyal to his vow, and your increasing in love."*

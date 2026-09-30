@@ -5,15 +5,6 @@ status: unread
 ---
 # ornamental
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant grown for its beauty or ornamental value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving an esthetic rather than a useful purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"This chafing over, the ornamental part of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Such a fine woman as her, so handsome and so graceful and so elegant, is like a fresh lemon on a dinner-table, ornamental wherever she goes."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Casually glancing over the hedge, Oak saw coming down the incline before him an ornamental spring waggon, painted yellow and gaily marked, drawn by two horses, a waggoner walking alongside bearing a whip perpendicularly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant grown for its beauty or ornamental value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving an esthetic rather than a useful purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"This chafing over, the ornamental part of Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Such a fine woman as her, so handsome and so graceful and so elegant, is like a fresh lemon on a dinner-table, ornamental wherever she goes."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Casually glancing over the hedge, Oak saw coming down the incline before him an ornamental spring waggon, painted yellow and gaily marked, drawn by two horses, a waggoner walking alongside bearing a whip perpendicularly."*

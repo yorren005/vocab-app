@@ -5,13 +5,6 @@ status: unread
 ---
 # arcturus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 4th brightest star and the brightest star in the constellation bootes; 36 light-years from earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The 4th brightest star and the brightest star in the constellation bootes; 36 light-years from earth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"There’s Arcturus looking very bright.” “Yes, and the Bear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The 4th brightest star and the brightest star in the constellation bootes; 36 light-years from earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The 4th brightest star and the brightest star in the constellation bootes; 36 light-years from earth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"There’s Arcturus looking very bright.” “Yes, and the Bear."*

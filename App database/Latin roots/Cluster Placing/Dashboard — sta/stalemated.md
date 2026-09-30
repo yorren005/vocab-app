@@ -5,13 +5,6 @@ status: unread
 ---
 # stalemated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to a stalemate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At a complete standstill because of opposition of two unrelenting forces or factions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I like neither Bulstrode nor speculation.” He spoke rather sulkily, feeling himself stalemated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to a stalemate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At a complete standstill because of opposition of two unrelenting forces or factions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"I like neither Bulstrode nor speculation.” He spoke rather sulkily, feeling himself stalemated."*

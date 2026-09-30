@@ -5,13 +5,6 @@ status: unread
 ---
 # photosphere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The intensely luminous surface of a star (especially the sun).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The intensely luminous surface of a star (especially the sun).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her hopes mingled with the sunshine in an ideal photosphere which surrounded her as she bounded along against the soft south wind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The intensely luminous surface of a star (especially the sun).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The intensely luminous surface of a star (especially the sun).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her hopes mingled with the sunshine in an ideal photosphere which surrounded her as she bounded along against the soft south wind."*

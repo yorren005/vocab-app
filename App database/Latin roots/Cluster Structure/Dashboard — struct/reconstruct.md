@@ -5,15 +5,6 @@ status: unread
 ---
 # reconstruct
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reassemble mentally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Build again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The plain fact is that we actually know Jesus a great deal better than we know our x and our y, the elements from which we hoped to reconstruct him."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Can you reconstruct a typical day in the life of Jesus (cf. pp. 81, 82). 4."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"It requires some effort to reconstruct that atmosphere to-day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reassemble mentally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Build again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The plain fact is that we actually know Jesus a great deal better than we know our x and our y, the elements from which we hoped to reconstruct him."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Can you reconstruct a typical day in the life of Jesus (cf. pp. 81, 82). 4."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"It requires some effort to reconstruct that atmosphere to-day."*

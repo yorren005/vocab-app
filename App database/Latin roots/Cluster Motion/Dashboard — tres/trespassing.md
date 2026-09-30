@@ -5,15 +5,6 @@ status: unread
 ---
 # trespassing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enter unlawfully on someone's property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make excessive use of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"No trespass on human rights 447:1 The heavenly law is broken by trespassing upon man's individual right of self-government."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"At one time it is a broken treaty, at another the killing of their buffalo, and trespassing upon the hunting-grounds, and again it is some other grievance."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"I believe I was trespassing then,” she said; “but I did so unintentionally."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enter unlawfully on someone's property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make excessive use of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"No trespass on human rights 447:1 The heavenly law is broken by trespassing upon man's individual right of self-government."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"At one time it is a broken treaty, at another the killing of their buffalo, and trespassing upon the hunting-grounds, and again it is some other grievance."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"I believe I was trespassing then,” she said; “but I did so unintentionally."*

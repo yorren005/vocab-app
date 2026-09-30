@@ -5,15 +5,6 @@ status: unread
 ---
 # prepossessing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Possess beforehand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be preoccupied.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Gusher, being a flabby gentleman with a moist surface and eyes so much too small for his moon of a face that they seemed to have been originally made for somebody else, was not at first sight prepossessing; yet he was scarcely seated before Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Miss Wisk, whom I cannot report as prepossessing in appearance, and whose manner was grim, listened to the proceedings, as part of woman’s wrongs, with a disdainful face."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"She looked at him with great admiration, and even supposed it possible that some people might think him handsomer than his brother, though, in her eyes, his air was more assuming, and his countenance less prepossessing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possess beforehand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be preoccupied.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Gusher, being a flabby gentleman with a moist surface and eyes so much too small for his moon of a face that they seemed to have been originally made for somebody else, was not at first sight prepossessing; yet he was scarcely seated before Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Miss Wisk, whom I cannot report as prepossessing in appearance, and whose manner was grim, listened to the proceedings, as part of woman’s wrongs, with a disdainful face."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"She looked at him with great admiration, and even supposed it possible that some people might think him handsomer than his brother, though, in her eyes, his air was more assuming, and his countenance less prepossessing."*

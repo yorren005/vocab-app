@@ -5,13 +5,6 @@ status: unread
 ---
 # overarm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With hand brought forward and down from above shoulder level.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With hand brought forward and down from above shoulder level.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overarm designates with hand brought forward and down from above shoulder level."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With hand brought forward and down from above shoulder level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With hand brought forward and down from above shoulder level.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overarm designates with hand brought forward and down from above shoulder level."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # pendulous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having branches or flower heads that bend downward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having branches or flower heads that bend downward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now all the plagues that in the pendulous air Hang fated o’er men’s faults light on thy daughters!"*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The room was blue-domed but very small, and its walls were covered with soft green hangings in pendulous drops."*
-> - 📜 **Charles Dickens (*A Christmas Carol in Prose; Being a Ghost Story of Christmas*):** *"What has he done with his money?" asked a red-faced gentleman with a pendulous excrescence on the end of his nose, that shook like the gills of a turkey-cock."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having branches or flower heads that bend downward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having branches or flower heads that bend downward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now all the plagues that in the pendulous air Hang fated o’er men’s faults light on thy daughters!"*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The room was blue-domed but very small, and its walls were covered with soft green hangings in pendulous drops."*
+> - 📜 **Charles Dickens (*A Christmas Carol in Prose; Being a Ghost Story of Christmas*):** *"What has he done with his money?" asked a red-faced gentleman with a pendulous excrescence on the end of his nose, that shook like the gills of a turkey-cock."*

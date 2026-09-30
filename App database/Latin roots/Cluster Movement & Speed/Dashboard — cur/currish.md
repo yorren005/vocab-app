@@ -5,15 +5,6 @@ status: unread
 ---
 # currish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Base and cowardly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a cur; snarling and rude.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let Aesop fable in a winter’s night; His currish riddle sorts not with this place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy currish spirit Govern’d a wolf who, hang’d for human slaughter, Even from the gallows did his fell soul fleet, And whilst thou layest in thy unhallowed dam, Infus’d itself in thee; for thy desires Are wolfish, bloody, starv’d and ravenous."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would she were in heaven, so she could Entreat some power to change this currish Jew."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Base and cowardly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a cur; snarling and rude.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let Aesop fable in a winter’s night; His currish riddle sorts not with this place."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy currish spirit Govern’d a wolf who, hang’d for human slaughter, Even from the gallows did his fell soul fleet, And whilst thou layest in thy unhallowed dam, Infus’d itself in thee; for thy desires Are wolfish, bloody, starv’d and ravenous."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would she were in heaven, so she could Entreat some power to change this currish Jew."*

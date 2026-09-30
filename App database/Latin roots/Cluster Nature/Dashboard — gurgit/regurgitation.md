@@ -5,13 +5,6 @@ status: unread
 ---
 # regurgitation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Backflow of blood through a defective heart valve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recall after rote memorization.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"When I passed outside, however, and pressed down the levers which controlled it, I knew at once by the whishing sound that there was a slight leakage, which allowed a regurgitation of water through one of the side cylinders."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Backflow of blood through a defective heart valve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recall after rote memorization.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"When I passed outside, however, and pressed down the levers which controlled it, I knew at once by the whishing sound that there was a slight leakage, which allowed a regurgitation of water through one of the side cylinders."*

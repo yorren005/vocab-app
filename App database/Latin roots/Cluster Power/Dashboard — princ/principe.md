@@ -5,13 +5,6 @@ status: unread
 ---
 # principe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An island in the gulf of guinea that is part of sao tome and principe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An island in the gulf of guinea that is part of sao tome and principe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I am an admirer of Montesquieu,” replied Prince Andrew, “and his idea that le principe des monarchies est l’honneur me paraît incontestable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An island in the gulf of guinea that is part of sao tome and principe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An island in the gulf of guinea that is part of sao tome and principe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I am an admirer of Montesquieu,” replied Prince Andrew, “and his idea that le principe des monarchies est l’honneur me paraît incontestable."*

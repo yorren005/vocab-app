@@ -5,15 +5,6 @@ status: unread
 ---
 # bole
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: trunk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: the main stem of a tree apart from limbs and roots —called also bole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"There sat a bottle in a bole, Beyont the ingle low; And aye she took the tither souk, To drouk the stourie tow."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Bole, a hole, or small recess in the wall."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"The fruit that had been green in June was ripe now, and down the Painted-Lady apple-trees fell such a cascade of ruby and coral-coloured apples, from high sprig to heavy bole, that they looked like trees in a Kate Greenaway drawing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: trunk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: the main stem of a tree apart from limbs and roots —called also bole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"There sat a bottle in a bole, Beyont the ingle low; And aye she took the tither souk, To drouk the stourie tow."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Bole, a hole, or small recess in the wall."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"The fruit that had been green in June was ripe now, and down the Painted-Lady apple-trees fell such a cascade of ruby and coral-coloured apples, from high sprig to heavy bole, that they looked like trees in a Kate Greenaway drawing."*

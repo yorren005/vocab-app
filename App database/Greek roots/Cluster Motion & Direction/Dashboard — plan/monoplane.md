@@ -5,13 +5,6 @@ status: unread
 ---
 # monoplane
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An airplane with a single wing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An airplane with a single wing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Thus, as a sample of my rovings: in a single interval of fifteen minutes of subconsciousness I have crawled and bellowed in the slime of the primeval world and sat beside Haas—further and cleaved the twentieth century air in a gas-driven monoplane."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An airplane with a single wing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An airplane with a single wing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Thus, as a sample of my rovings: in a single interval of fifteen minutes of subconsciousness I have crawled and bellowed in the slime of the primeval world and sat beside Haas—further and cleaved the twentieth century air in a gas-driven monoplane."*

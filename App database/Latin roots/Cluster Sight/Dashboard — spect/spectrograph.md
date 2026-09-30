@@ -5,13 +5,6 @@ status: unread
 ---
 # spectrograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spectroscope by which spectra can be photographed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photographic record of a spectrum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spectrograph designates a spectroscope by which spectra can be photographed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spectroscope by which spectra can be photographed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photographic record of a spectrum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spectrograph designates a spectroscope by which spectra can be photographed."*

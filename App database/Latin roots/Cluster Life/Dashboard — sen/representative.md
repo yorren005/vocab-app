@@ -5,15 +5,6 @@ status: unread
 ---
 # representative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who represents others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate who represents someone else's policy or purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The present representative of the Dedlocks is an excellent master."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There were some stately footmen, and there was a perfect picture of an old coachman, who looked as if he were the official representative of all the pomps and vanities that had ever been put into his coach."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My digestive functions, as you may have heard me mention, are not in a good state, and rest might improve them; but I shall not rest, sir, while I am your representative."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who represents others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate who represents someone else's policy or purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The present representative of the Dedlocks is an excellent master."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There were some stately footmen, and there was a perfect picture of an old coachman, who looked as if he were the official representative of all the pomps and vanities that had ever been put into his coach."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"My digestive functions, as you may have heard me mention, are not in a good state, and rest might improve them; but I shall not rest, sir, while I am your representative."*

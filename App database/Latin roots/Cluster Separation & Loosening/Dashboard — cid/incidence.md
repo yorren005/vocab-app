@@ -5,15 +5,6 @@ status: unread
 ---
 # incidence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relative frequency of occurrence of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The striking of a light beam on a surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"At one end one sees innumerable masses of grey weather-beaten stones in every grotesque angle of incidence and coincidence, but all rude and mean, covered with mystic Hebrew letters and half-buried amid long grass, nettles, and weeds."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The passing on of the burden is called the _shifting_ of the tax; the final location of the burden is called the _incidence_ of the tax."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The passing on of the burden is called the shifting of the tax; the location of the final burden is called the incidence of the tax."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The relative frequency of occurrence of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The striking of a light beam on a surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"At one end one sees innumerable masses of grey weather-beaten stones in every grotesque angle of incidence and coincidence, but all rude and mean, covered with mystic Hebrew letters and half-buried amid long grass, nettles, and weeds."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The passing on of the burden is called the _shifting_ of the tax; the final location of the burden is called the _incidence_ of the tax."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The passing on of the burden is called the shifting of the tax; the location of the final burden is called the incidence of the tax."*

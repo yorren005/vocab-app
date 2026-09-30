@@ -5,15 +5,6 @@ status: unread
 ---
 # undeviating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Going directly ahead from one point to another without veering or turning aside.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of values and principles; not subject to change; steady.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Believe it to be most fervent, most undeviating, in F."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Sperm Whale blows as a clock ticks, with the same undeviating and reliable uniformity."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Besides, if you regard him very closely, and time him with your watch, you will find that when unmolested, there is an undeviating rhyme between the periods of his jets and the ordinary periods of respiration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Going directly ahead from one point to another without veering or turning aside.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of values and principles; not subject to change; steady.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Believe it to be most fervent, most undeviating, in F."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Sperm Whale blows as a clock ticks, with the same undeviating and reliable uniformity."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Besides, if you regard him very closely, and time him with your watch, you will find that when unmolested, there is an undeviating rhyme between the periods of his jets and the ordinary periods of respiration."*

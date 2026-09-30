@@ -5,15 +5,6 @@ status: unread
 ---
 # alignment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organization of people (or countries) involved in a pact or treaty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spatial property possessed by an arrangement or position of things in a straight line or in parallel lines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A lackey scampered about, lifted the lids of beakers, peered in, made minute changes in the alignment of goblets, and scuttled out."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Shifting his eyes critically from the checklist to flitter and back, he walked around the tiny flyer inspecting the spars for alignment and cracks."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Mass attractors took over, fine-tuned the alignment and drift, and gently drew the Eagle a third its length into the dock."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organization of people (or countries) involved in a pact or treaty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spatial property possessed by an arrangement or position of things in a straight line or in parallel lines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A lackey scampered about, lifted the lids of beakers, peered in, made minute changes in the alignment of goblets, and scuttled out."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Shifting his eyes critically from the checklist to flitter and back, he walked around the tiny flyer inspecting the spars for alignment and cracks."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Mass attractors took over, fine-tuned the alignment and drift, and gently drew the Eagle a third its length into the dock."*

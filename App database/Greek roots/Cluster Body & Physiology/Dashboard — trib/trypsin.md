@@ -5,13 +5,6 @@ status: unread
 ---
 # trypsin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A proteolytic enzyme that is secreted in the pancreatic juice in the form of trypsinogen, is activated in the duodenum, and is most active in a slightly alkaline medium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A proteolytic enzyme that is secreted in the pancreatic juice in the form of trypsinogen, is activated in the duodenum, and is most active in a slightly alkaline medium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Why, there was my theory of the hydrolysis of casein by trypsin, which Professor Walters had been carrying out in his laboratory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proteolytic enzyme that is secreted in the pancreatic juice in the form of trypsinogen, is activated in the duodenum, and is most active in a slightly alkaline medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A proteolytic enzyme that is secreted in the pancreatic juice in the form of trypsinogen, is activated in the duodenum, and is most active in a slightly alkaline medium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Why, there was my theory of the hydrolysis of casein by trypsin, which Professor Walters had been carrying out in his laboratory."*

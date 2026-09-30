@@ -5,14 +5,6 @@ status: unread
 ---
 # tort
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) any wrongdoing for which an action for damages may be brought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) any wrongdoing for which an action for damages may be brought.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"In art, as in politics, _les grandpères ont toujours tort_.” “This play was good enough for us, Harry."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Obdurately.)_ Sirs, take notice that by the law of torts you are bound over in your own recognisances for six months in the sum of five pounds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) any wrongdoing for which an action for damages may be brought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) any wrongdoing for which an action for damages may be brought.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"In art, as in politics, _les grandpères ont toujours tort_.” “This play was good enough for us, Harry."*
+> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Obdurately.)_ Sirs, take notice that by the law of torts you are bound over in your own recognisances for six months in the sum of five pounds."*

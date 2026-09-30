@@ -5,13 +5,6 @@ status: unread
 ---
 # nuclease
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: General term for enzymes that catalyze the hydrolysis of nucleic acid by cleaving chains of nucleotides into smaller units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: General term for enzymes that catalyze the hydrolysis of nucleic acid by cleaving chains of nucleotides into smaller units.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nuclease designates general term for enzymes that catalyze the hydrolysis of nucleic acid by cleaving chains of nucleotides into smaller units."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: General term for enzymes that catalyze the hydrolysis of nucleic acid by cleaving chains of nucleotides into smaller units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: General term for enzymes that catalyze the hydrolysis of nucleic acid by cleaving chains of nucleotides into smaller units.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nuclease designates general term for enzymes that catalyze the hydrolysis of nucleic acid by cleaving chains of nucleotides into smaller units."*

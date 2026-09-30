@@ -5,15 +5,6 @@ status: unread
 ---
 # currency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The metal or paper medium of exchange that is presently used.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: General acceptance or use.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This properly belongs in a complete theoretical treatment of the subject.] [Footnote 8: See "Modern Currency Reforms" (1916), by E.W."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They are not an "elastic currency," increasing or diminishing with the needs of business."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"At length Congress in 1908 created a "National Monetary Commission" to inquire into and report what changes were necessary and desirable in the monetary system of the United States or in the laws relative to banking and currency."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The metal or paper medium of exchange that is presently used.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: General acceptance or use.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This properly belongs in a complete theoretical treatment of the subject.] [Footnote 8: See "Modern Currency Reforms" (1916), by E.W."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They are not an "elastic currency," increasing or diminishing with the needs of business."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"At length Congress in 1908 created a "National Monetary Commission" to inquire into and report what changes were necessary and desirable in the monetary system of the United States or in the laws relative to banking and currency."*

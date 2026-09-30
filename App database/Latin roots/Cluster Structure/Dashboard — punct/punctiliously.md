@@ -5,15 +5,6 @@ status: unread
 ---
 # punctiliously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a punctilious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a punctilious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The sea-vultures all in pious mourning, the air-sharks all punctiliously in black or speckled."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I felt also an interest in the scene from the consideration that these fleeting customs were posting fast into oblivion, and that this was perhaps the only family in England in which the whole of them was still punctiliously observed."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The sea-vultures all in pious mourning, the air-sharks all punctiliously in black or speckled."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a punctilious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a punctilious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The sea-vultures all in pious mourning, the air-sharks all punctiliously in black or speckled."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I felt also an interest in the scene from the consideration that these fleeting customs were posting fast into oblivion, and that this was perhaps the only family in England in which the whole of them was still punctiliously observed."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The sea-vultures all in pious mourning, the air-sharks all punctiliously in black or speckled."*

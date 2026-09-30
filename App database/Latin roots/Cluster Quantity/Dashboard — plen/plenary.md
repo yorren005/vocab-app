@@ -5,14 +5,6 @@ status: unread
 ---
 # plenary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full in all respects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full in all respects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The clerk several times used the word “plenary” (of the service), a word Pétya did not understand."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"These are kept and burned on May Day by men who must first have received plenary absolution from the Church."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full in all respects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full in all respects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The clerk several times used the word “plenary” (of the service), a word Pétya did not understand."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"These are kept and burned on May Day by men who must first have received plenary absolution from the Church."*

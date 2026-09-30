@@ -5,15 +5,6 @@ status: unread
 ---
 # considerateness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kind and considerate regard for others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kind and considerate regard for others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the Maiden’s Blush, through all varieties of the Provence down to the Crimson Tuscany, the countenance of Oak’s acquaintance quickly graduated; whereupon he, in considerateness, turned away his head."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No—not at all,” said Gabriel, in a reproving tone of considerateness."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her misgiving was such that at dusk, when the milking was over, she walked in the garden alone, to continue her regrets that she had disclosed to him her discovery of his considerateness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Kind and considerate regard for others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kind and considerate regard for others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the Maiden’s Blush, through all varieties of the Provence down to the Crimson Tuscany, the countenance of Oak’s acquaintance quickly graduated; whereupon he, in considerateness, turned away his head."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No—not at all,” said Gabriel, in a reproving tone of considerateness."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her misgiving was such that at dusk, when the milking was over, she walked in the garden alone, to continue her regrets that she had disclosed to him her discovery of his considerateness."*

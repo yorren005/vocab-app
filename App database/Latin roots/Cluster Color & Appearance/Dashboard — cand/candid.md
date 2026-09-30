@@ -5,15 +5,6 @@ status: unread
 ---
 # candid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by directness in manner or speech; without subtlety or evasion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal or natural; especially caught off guard or unprepared.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I write down these opinions not because I believe that this or any other thing was so because I thought so, but only because I did think so and I want to be quite candid about all I thought and did."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, unabashed and candid."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Live upon your practical wisdom, and let us live upon you!” He laughed, but as usual seemed quite candid and really to mean what he said."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by directness in manner or speech; without subtlety or evasion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal or natural; especially caught off guard or unprepared.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I write down these opinions not because I believe that this or any other thing was so because I thought so, but only because I did think so and I want to be quite candid about all I thought and did."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, unabashed and candid."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Live upon your practical wisdom, and let us live upon you!” He laughed, but as usual seemed quite candid and really to mean what he said."*

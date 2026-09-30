@@ -5,15 +5,6 @@ status: unread
 ---
 # reject
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person or thing that is rejected or set aside as inferior in quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refuse to accept or acknowledge.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When she shall challenge this, you will reject her."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Into a beastly scrap of ground which a Turk would reject as a savage abomination and a Caffre would shudder at, they bring our dear brother here departed to receive Christian burial."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The fact is,” said d’Urberville drily, “whatever your dear husband believed you accept, and whatever he rejected you reject, without the least inquiry or reasoning on your own part."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The person or thing that is rejected or set aside as inferior in quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refuse to accept or acknowledge.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When she shall challenge this, you will reject her."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Into a beastly scrap of ground which a Turk would reject as a savage abomination and a Caffre would shudder at, they bring our dear brother here departed to receive Christian burial."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The fact is,” said d’Urberville drily, “whatever your dear husband believed you accept, and whatever he rejected you reject, without the least inquiry or reasoning on your own part."*

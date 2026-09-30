@@ -5,13 +5,6 @@ status: unread
 ---
 # Thea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As soon as the slightest provocation is given : immediately.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: —used in phrases such as march to the beat of a different drummer to describe a person who thinks, lives, or behaves in an unusual way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Thea designates as soon as the slightest provocation is given : immediately."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As soon as the slightest provocation is given : immediately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: —used in phrases such as march to the beat of a different drummer to describe a person who thinks, lives, or behaves in an unusual way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Thea designates as soon as the slightest provocation is given : immediately."*

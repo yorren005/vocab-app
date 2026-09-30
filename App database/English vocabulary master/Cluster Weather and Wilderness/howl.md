@@ -5,20 +5,6 @@ status: unread
 ---
 # howl
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Go on a spree or rampage
-> 2. **Nuance / Usage**: Utter a loud, protracted, mournful sound or cry, as dogs and wolves often do
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to howl the target*) and intransitive clauses (*howling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I had rather hear Lady, my brach, howl in Irish."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"To hear there a proud lady and a proud city wife howl together!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Phil gives a howl at the recollection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Go on a spree or rampage
+> 2. **Nuance / Usage**: Utter a loud, protracted, mournful sound or cry, as dogs and wolves often do
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to howl the target*) and intransitive clauses (*howling against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I had rather hear Lady, my brach, howl in Irish."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"To hear there a proud lady and a proud city wife howl together!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Phil gives a howl at the recollection."*

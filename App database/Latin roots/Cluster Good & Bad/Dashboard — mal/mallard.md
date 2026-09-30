@@ -5,15 +5,6 @@ status: unread
 ---
 # mallard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wild dabbling duck from which domestic ducks are descended; widely distributed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wild dabbling duck from which domestic ducks are descended; widely distributed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She once being loofed, The noble ruin of her magic, Antony, Claps on his sea-wing and, like a doting mallard, Leaving the fight in height, flies after her."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The grave, sage hern thus easy picks his frog, And thinks the mallard a sad worthless dog."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The grave sage hern thus easy picks his frog, And thinks the mallard a sad worthless dog."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wild dabbling duck from which domestic ducks are descended; widely distributed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wild dabbling duck from which domestic ducks are descended; widely distributed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She once being loofed, The noble ruin of her magic, Antony, Claps on his sea-wing and, like a doting mallard, Leaving the fight in height, flies after her."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The grave, sage hern thus easy picks his frog, And thinks the mallard a sad worthless dog."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The grave sage hern thus easy picks his frog, And thinks the mallard a sad worthless dog."*

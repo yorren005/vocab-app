@@ -5,15 +5,6 @@ status: unread
 ---
 # armored
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equip with armor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protected by armor (used of persons or things military).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Poul Anderson (*The Valor of Cappen Varra*):** *"Then only his lack of fear had armored him; and if he had known the truth, that would not have lasted a minute."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"To get home is not so easy but I remember armored car provided by intelligent corporation for transport of bankroll, so here I am."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The second carload, in Yoshio's armored vehicle, also got free, but the third had trouble."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equip with armor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protected by armor (used of persons or things military).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Poul Anderson (*The Valor of Cappen Varra*):** *"Then only his lack of fear had armored him; and if he had known the truth, that would not have lasted a minute."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"To get home is not so easy but I remember armored car provided by intelligent corporation for transport of bankroll, so here I am."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The second carload, in Yoshio's armored vehicle, also got free, but the third had trouble."*

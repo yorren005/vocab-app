@@ -5,13 +5,6 @@ status: unread
 ---
 # falcate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved like a sickle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curved like a sickle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falcate designates curved like a sickle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved like a sickle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curved like a sickle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, falcate designates curved like a sickle."*

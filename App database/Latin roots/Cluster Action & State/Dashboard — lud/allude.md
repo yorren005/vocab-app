@@ -5,15 +5,6 @@ status: unread
 ---
 # allude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a more or less disguised reference to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a more or less disguised reference to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby with his finger on his nose, “don’t allude to it!” For some little time the jurymen hang about the Sol’s Arms colloquially."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now I won’t allude to conspiring to extort money or anything of that sort, because we are men and women of the world here, and our object is to make things pleasant."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then, my dear Miss Summerson,” said he with the frankest gaiety, “don’t allude to it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a more or less disguised reference to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a more or less disguised reference to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby with his finger on his nose, “don’t allude to it!” For some little time the jurymen hang about the Sol’s Arms colloquially."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now I won’t allude to conspiring to extort money or anything of that sort, because we are men and women of the world here, and our object is to make things pleasant."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Then, my dear Miss Summerson,” said he with the frankest gaiety, “don’t allude to it."*

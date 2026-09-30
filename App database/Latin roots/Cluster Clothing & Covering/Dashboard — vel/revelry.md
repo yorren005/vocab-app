@@ -5,15 +5,6 @@ status: unread
 ---
 # revelry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unrestrained merrymaking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrestrained merrymaking.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Meantime, forget this new-fall’n dignity, And fall into our rustic revelry."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In spite of all this, the spirit of revelry was wanting in the atmosphere of the house."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Then the dance and song began round every fire, and the wild hurrahs filled the air with the most frantic revelry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unrestrained merrymaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrestrained merrymaking.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Meantime, forget this new-fall’n dignity, And fall into our rustic revelry."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In spite of all this, the spirit of revelry was wanting in the atmosphere of the house."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Then the dance and song began round every fire, and the wild hurrahs filled the air with the most frantic revelry."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # abstinent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who refrains from drinking intoxicating beverages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Self-restraining; not indulging an appetite especially for food or drink.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abstinent designates a person who refrains from drinking intoxicating beverages."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who refrains from drinking intoxicating beverages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Self-restraining; not indulging an appetite especially for food or drink.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abstinent designates a person who refrains from drinking intoxicating beverages."*

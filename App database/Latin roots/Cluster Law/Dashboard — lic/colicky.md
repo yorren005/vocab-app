@@ -5,14 +5,6 @@ status: unread
 ---
 # colicky
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from excessive gas in the alimentary canal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from excessive gas in the alimentary canal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Every few minutes the minister passed him the bottle and it acted like paregoric on a colicky baby."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"This time he thought he could detect colicky symptoms, and he began to encourage them with considerable hope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from excessive gas in the alimentary canal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from excessive gas in the alimentary canal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Every few minutes the minister passed him the bottle and it acted like paregoric on a colicky baby."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"This time he thought he could detect colicky symptoms, and he began to encourage them with considerable hope."*

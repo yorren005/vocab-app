@@ -5,13 +5,6 @@ status: unread
 ---
 # perfecter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled worker who perfects something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being complete of its kind and without defect or blemish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are well understood to be a perfecter giber for the table than a necessary bencher in the Capitol."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled worker who perfects something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being complete of its kind and without defect or blemish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are well understood to be a perfecter giber for the table than a necessary bencher in the Capitol."*

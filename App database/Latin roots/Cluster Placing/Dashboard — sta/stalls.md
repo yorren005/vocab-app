@@ -5,15 +5,6 @@ status: unread
 ---
 # stalls
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A farm building for housing horses or other livestock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compartment in a stable where a single animal is confined and fed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stalls, bulks, windows Are smothered up, leads filled, and ridges horsed With variable complexions, all agreeing In earnestness to see him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And Duncan’s horses (a thing most strange and certain) Beauteous and swift, the minions of their race, Turn’d wild in nature, broke their stalls, flung out, Contending ’gainst obedience, as they would make War with mankind."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Near to her close and consecrated bower, While she was in her dull and sleeping hour, A crew of patches, rude mechanicals, That work for bread upon Athenian stalls, Were met together to rehearse a play Intended for great Theseus’ nuptial day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A farm building for housing horses or other livestock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compartment in a stable where a single animal is confined and fed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stalls, bulks, windows Are smothered up, leads filled, and ridges horsed With variable complexions, all agreeing In earnestness to see him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And Duncan’s horses (a thing most strange and certain) Beauteous and swift, the minions of their race, Turn’d wild in nature, broke their stalls, flung out, Contending ’gainst obedience, as they would make War with mankind."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Near to her close and consecrated bower, While she was in her dull and sleeping hour, A crew of patches, rude mechanicals, That work for bread upon Athenian stalls, Were met together to rehearse a play Intended for great Theseus’ nuptial day."*

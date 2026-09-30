@@ -5,13 +5,6 @@ status: unread
 ---
 # nonevent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anticipated event that turns out to be far less significant than was expected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anticipated event that turns out to be far less significant than was expected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonevent designates an anticipated event that turns out to be far less significant than was expected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anticipated event that turns out to be far less significant than was expected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anticipated event that turns out to be far less significant than was expected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonevent designates an anticipated event that turns out to be far less significant than was expected."*

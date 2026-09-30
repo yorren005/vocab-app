@@ -5,15 +5,6 @@ status: unread
 ---
 # canna
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus canna having large sheathing leaves and clusters of large showy flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus canna having large sheathing leaves and clusters of large showy flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"There Sophy tight, a lassie bright, Besides a handsome fortune: Wha canna win her in a night, Has little art in courtin’."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Laird o’ Braehead has been on his speed, For mair than a towmond or twa, man; The Laird o’ the Ford will straught on a board, If he canna get her at a’, man."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Though I canna ride in weel-booted pride, And flee o’er the hills like a craw, man, I can haud up my head wi’ the best o’ the breed, Though fluttering ever so braw, man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus canna having large sheathing leaves and clusters of large showy flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus canna having large sheathing leaves and clusters of large showy flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"There Sophy tight, a lassie bright, Besides a handsome fortune: Wha canna win her in a night, Has little art in courtin’."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Laird o’ Braehead has been on his speed, For mair than a towmond or twa, man; The Laird o’ the Ford will straught on a board, If he canna get her at a’, man."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Though I canna ride in weel-booted pride, And flee o’er the hills like a craw, man, I can haud up my head wi’ the best o’ the breed, Though fluttering ever so braw, man."*

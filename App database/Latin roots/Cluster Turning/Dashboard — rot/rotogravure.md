@@ -5,13 +5,6 @@ status: unread
 ---
 # rotogravure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Printing by transferring an image from a photogravure plate to a cylinder in a rotary press.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Printed material (text and pictures) produced by an intaglio printing process in a rotary press.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rotogravure designates printing by transferring an image from a photogravure plate to a cylinder in a rotary press."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Printing by transferring an image from a photogravure plate to a cylinder in a rotary press.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Printed material (text and pictures) produced by an intaglio printing process in a rotary press.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rotogravure designates printing by transferring an image from a photogravure plate to a cylinder in a rotary press."*

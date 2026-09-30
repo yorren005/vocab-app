@@ -5,13 +5,6 @@ status: unread
 ---
 # rescission
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) the act of rescinding; the cancellation of a contract and the return of the parties to the positions they would have had if the contract had not been made.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the act of rescinding; the cancellation of a contract and the return of the parties to the positions they would have had if the contract had not been made.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rescission designates (law) the act of rescinding; the cancellation of a contract and the return of the parties to the positions they would have had if the contract had not been made."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) the act of rescinding; the cancellation of a contract and the return of the parties to the positions they would have had if the contract had not been made.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the act of rescinding; the cancellation of a contract and the return of the parties to the positions they would have had if the contract had not been made.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rescission designates (law) the act of rescinding; the cancellation of a contract and the return of the parties to the positions they would have had if the contract had not been made."*

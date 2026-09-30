@@ -5,15 +5,6 @@ status: unread
 ---
 # pondering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reflect deeply on a subject.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deeply or seriously thoughtful.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Loneli hated to see him that way and could not help pondering about this remarkable change."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Anything would suit the purpose, written in the hand.” “Some writing in that hand,” says the trooper, pondering; “may be, I have.” “My dearest friend!” “May be, I have not.” “Ho!” says Grandfather Smallweed, crest-fallen."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Where shall I find you?” “Why, I must get a lodging of some sort,” said Richard, pondering."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reflect deeply on a subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deeply or seriously thoughtful.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Loneli hated to see him that way and could not help pondering about this remarkable change."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Anything would suit the purpose, written in the hand.” “Some writing in that hand,” says the trooper, pondering; “may be, I have.” “My dearest friend!” “May be, I have not.” “Ho!” says Grandfather Smallweed, crest-fallen."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Where shall I find you?” “Why, I must get a lodging of some sort,” said Richard, pondering."*

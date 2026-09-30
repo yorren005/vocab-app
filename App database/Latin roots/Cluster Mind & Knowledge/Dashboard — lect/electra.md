@@ -5,13 +5,6 @@ status: unread
 ---
 # electra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the daughter of agamemnon and clytemnestra; persuaded her brother (orestes) to avenge agamemnon's death by helping her to kill clytemnestra and her lover (aegisthus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the daughter of agamemnon and clytemnestra; persuaded her brother (orestes) to avenge agamemnon's death by helping her to kill clytemnestra and her lover (aegisthus).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electra designates (greek mythology) the daughter of agamemnon and clytemnestra; persuaded her brother (orestes) to avenge agamemnon's death by helping her to kill clytemnestra and her lover (aegisthus)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the daughter of agamemnon and clytemnestra; persuaded her brother (orestes) to avenge agamemnon's death by helping her to kill clytemnestra and her lover (aegisthus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the daughter of agamemnon and clytemnestra; persuaded her brother (orestes) to avenge agamemnon's death by helping her to kill clytemnestra and her lover (aegisthus).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electra designates (greek mythology) the daughter of agamemnon and clytemnestra; persuaded her brother (orestes) to avenge agamemnon's death by helping her to kill clytemnestra and her lover (aegisthus)."*

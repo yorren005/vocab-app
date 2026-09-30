@@ -5,13 +5,6 @@ status: unread
 ---
 # oceania
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large group of islands in the south pacific including melanesia and micronesia and polynesia (and sometimes australasia and the malay archipelago).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large group of islands in the south pacific including melanesia and micronesia and polynesia (and sometimes australasia and the malay archipelago).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Unfortunate man of science, after having braved the icebergs of the South Pole, the coral reefs of Oceania, the cannibals of the Pacific, to perish miserably in a railway train!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large group of islands in the south pacific including melanesia and micronesia and polynesia (and sometimes australasia and the malay archipelago).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large group of islands in the south pacific including melanesia and micronesia and polynesia (and sometimes australasia and the malay archipelago).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Unfortunate man of science, after having braved the icebergs of the South Pole, the coral reefs of Oceania, the cannibals of the Pacific, to perish miserably in a railway train!"*

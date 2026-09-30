@@ -5,15 +5,6 @@ status: unread
 ---
 # continence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The exercise of self constraint in sexual matters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Voluntary control over urinary and fecal discharge.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"There is a want of faith, a half-heartedness about men's prayers; they pray as Augustine says he himself did: "Give me chastity and continence, but not now" (Conf, viii. 7, 17)."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"They also fast much, eat no salt, and are bound to strict continence."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"To this day some of the Indian tribes of Central America practise continence for the purpose of thereby promoting the growth of the crops."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The exercise of self constraint in sexual matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Voluntary control over urinary and fecal discharge.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"There is a want of faith, a half-heartedness about men's prayers; they pray as Augustine says he himself did: "Give me chastity and continence, but not now" (Conf, viii. 7, 17)."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"They also fast much, eat no salt, and are bound to strict continence."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"To this day some of the Indian tribes of Central America practise continence for the purpose of thereby promoting the growth of the crops."*

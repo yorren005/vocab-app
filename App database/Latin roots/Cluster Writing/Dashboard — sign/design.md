@@ -5,15 +5,6 @@ status: unread
 ---
 # design
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of working out the form of something (as by making a sketch or outline or plan).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arrangement scheme.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, for the love of laughter, hinder not the honour of his design: let him fetch off his drum in any hand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I cannot help it now, Unless by using means I lame the foot Of our design."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But my design To note the chamber."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of working out the form of something (as by making a sketch or outline or plan).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arrangement scheme.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, for the love of laughter, hinder not the honour of his design: let him fetch off his drum in any hand."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I cannot help it now, Unless by using means I lame the foot Of our design."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But my design To note the chamber."*

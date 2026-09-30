@@ -5,15 +5,6 @@ status: unread
 ---
 # imperium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The domain ruled by an emperor or empress; the region over which imperial dominion is exercised.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supreme authority; absolute dominion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They still, in fine, seem to cherish with blind devotion the political monster of an imperium in imperio."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"GRIGGS, Author of "Imperium in Imperio," "Overshadowed," "Dorlan's Plan," etc."*
-> - 📜 **James Joyce (*Ulysses*):** *"Lenehan, lighting it for him with quick grace, said: —Silence for my brandnew riddle! —_Imperium romanum_, J."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The domain ruled by an emperor or empress; the region over which imperial dominion is exercised.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supreme authority; absolute dominion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They still, in fine, seem to cherish with blind devotion the political monster of an imperium in imperio."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"GRIGGS, Author of "Imperium in Imperio," "Overshadowed," "Dorlan's Plan," etc."*
+> - 📜 **James Joyce (*Ulysses*):** *"Lenehan, lighting it for him with quick grace, said: —Silence for my brandnew riddle! —_Imperium romanum_, J."*

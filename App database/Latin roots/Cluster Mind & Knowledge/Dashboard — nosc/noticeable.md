@@ -5,15 +5,6 @@ status: unread
 ---
 # noticeable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable or worthy of being perceived.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being detected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The report was sure to have some foundation, and the most noticeable thing of all was that Kurt's change had come since that night."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But dearest,” he continued in a palliative voice, “don’t be like it!” Oak sighed a deep honest sigh—none the less so in that, being like the sigh of a pine plantation, it was rather noticeable as a disturbance of the atmosphere."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was no necessity for any continuance of speech, and the fact that she did add more seemed to proceed from an unconscious desire to show unconcern by making a remark, which is noticeable in the ingenuous when they are acting by stealth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable or worthy of being perceived.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being detected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The report was sure to have some foundation, and the most noticeable thing of all was that Kurt's change had come since that night."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But dearest,” he continued in a palliative voice, “don’t be like it!” Oak sighed a deep honest sigh—none the less so in that, being like the sigh of a pine plantation, it was rather noticeable as a disturbance of the atmosphere."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was no necessity for any continuance of speech, and the fact that she did add more seemed to proceed from an unconscious desire to show unconcern by making a remark, which is noticeable in the ingenuous when they are acting by stealth."*

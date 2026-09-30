@@ -5,15 +5,6 @@ status: unread
 ---
 # repressive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restrictive of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restrictive of action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"He was fuming under a repressive law which he was forced to acknowledge: he was dangerously poised, and Rosamond’s voice now brought the decisive vibration."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"They were thoroughly imbued with the doctrine that they were inherently superior to the Negro and instituted repressive measures to keep alive recognition of this claim."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"To prevent uprisings on the part of the slaves repressive measures were instituted, and the Southern white man became an adept in the art of controlling others, and his nature became inured to the task."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Restrictive of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restrictive of action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"He was fuming under a repressive law which he was forced to acknowledge: he was dangerously poised, and Rosamond’s voice now brought the decisive vibration."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"They were thoroughly imbued with the doctrine that they were inherently superior to the Negro and instituted repressive measures to keep alive recognition of this claim."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"To prevent uprisings on the part of the slaves repressive measures were instituted, and the Southern white man became an adept in the art of controlling others, and his nature became inured to the task."*

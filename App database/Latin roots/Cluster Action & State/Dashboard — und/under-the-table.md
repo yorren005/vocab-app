@@ -5,13 +5,6 @@ status: unread
 ---
 # under-the-table
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed and carried out secretly or confidentially.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed and carried out secretly or confidentially.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, under-the-table designates designed and carried out secretly or confidentially."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed and carried out secretly or confidentially.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed and carried out secretly or confidentially.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, under-the-table designates designed and carried out secretly or confidentially."*

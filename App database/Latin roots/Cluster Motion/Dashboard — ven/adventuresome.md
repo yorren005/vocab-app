@@ -5,13 +5,6 @@ status: unread
 ---
 # adventuresome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Willing to undertake or seeking out new and daring enterprises.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willing to undertake or seeking out new and daring enterprises.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adventuresome designates willing to undertake or seeking out new and daring enterprises."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Willing to undertake or seeking out new and daring enterprises.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willing to undertake or seeking out new and daring enterprises.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adventuresome designates willing to undertake or seeking out new and daring enterprises."*

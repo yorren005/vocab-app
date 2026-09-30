@@ -5,14 +5,6 @@ status: unread
 ---
 # felly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rim (or part of the rim) into which spokes are inserted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rim (or part of the rim) into which spokes are inserted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The felly harshed against the curbstone: stopped."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All you gods, In general synod, take away her power; Break all the spokes and fellies from her wheel, And bowl the round nave down the hill of heaven, As low as to the fiends._ POLONIUS."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rim (or part of the rim) into which spokes are inserted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rim (or part of the rim) into which spokes are inserted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"The felly harshed against the curbstone: stopped."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All you gods, In general synod, take away her power; Break all the spokes and fellies from her wheel, And bowl the round nave down the hill of heaven, As low as to the fiends._ POLONIUS."*

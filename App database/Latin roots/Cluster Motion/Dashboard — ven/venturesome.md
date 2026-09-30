@@ -5,15 +5,6 @@ status: unread
 ---
 # venturesome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disposed to venture or take risks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disposed to venture or take risks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was most venturesome for a woman, at night, and alone."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Could it be that of the only venturesome woman in the parish—Bathsheba?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What makes you so venturesome and hardy?” “Why, I shall soon be away from you, and besides”—I was going to say something about what had passed between me and Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disposed to venture or take risks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disposed to venture or take risks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was most venturesome for a woman, at night, and alone."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Could it be that of the only venturesome woman in the parish—Bathsheba?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What makes you so venturesome and hardy?” “Why, I shall soon be away from you, and besides”—I was going to say something about what had passed between me and Mrs."*

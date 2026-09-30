@@ -5,15 +5,6 @@ status: unread
 ---
 # oleomargarine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spread made chiefly from vegetable oils and used as a substitute for butter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spread made chiefly from vegetable oils and used as a substitute for butter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The federal law levying a tax on oleomargarine, however, was designed as protective legislation in the interest of the farmer."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Among the real exceptions to the otherwise fair record of the farming class in this respect is the tax on oleomargarine and the special favor accorded to farmers' associations in the Clayton Act."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"White bread and butter; But he had to take corn-cake instead of white bread, With oleomargarine on it to spread."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spread made chiefly from vegetable oils and used as a substitute for butter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spread made chiefly from vegetable oils and used as a substitute for butter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The federal law levying a tax on oleomargarine, however, was designed as protective legislation in the interest of the farmer."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Among the real exceptions to the otherwise fair record of the farming class in this respect is the tax on oleomargarine and the special favor accorded to farmers' associations in the Clayton Act."*
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"White bread and butter; But he had to take corn-cake instead of white bread, With oleomargarine on it to spread."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # ordinance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative rule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statute enacted by a city government.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let ordinance Come as the gods foresay it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These couchings and these lowly courtesies Might fire the blood of ordinary men, And turn pre-ordinance and first decree Into the law of children."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let the superfluous and lust-dieted man, That slaves your ordinance, that will not see Because he does not feel, feel your power quickly; So distribution should undo excess, And each man have enough."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative rule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statute enacted by a city government.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let ordinance Come as the gods foresay it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These couchings and these lowly courtesies Might fire the blood of ordinary men, And turn pre-ordinance and first decree Into the law of children."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let the superfluous and lust-dieted man, That slaves your ordinance, that will not see Because he does not feel, feel your power quickly; So distribution should undo excess, And each man have enough."*

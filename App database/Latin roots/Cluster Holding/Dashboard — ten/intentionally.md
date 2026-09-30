@@ -5,15 +5,6 @@ status: unread
 ---
 # intentionally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With intention; in an intentional manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With intention; in an intentional manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Whether intentionally or accidentally, I don’t know."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Had he done this intentionally, yet contrived to make his death appear like an accident?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Then, too, the rate may intentionally be fixed so as to make just possible the survival of the most favorably located or most efficiently operated establishments, while compelling the abandonment of other establishments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With intention; in an intentional manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With intention; in an intentional manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Whether intentionally or accidentally, I don’t know."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Had he done this intentionally, yet contrived to make his death appear like an accident?"*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Then, too, the rate may intentionally be fixed so as to make just possible the survival of the most favorably located or most efficiently operated establishments, while compelling the abandonment of other establishments."*

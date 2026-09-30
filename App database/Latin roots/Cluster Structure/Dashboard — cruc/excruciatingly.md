@@ -5,14 +5,6 @@ status: unread
 ---
 # excruciatingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a very painful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a very painful manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Excruciatingly funny to watch the stampede, after the loud "One--two--three--and away!" The plunges, the waddles, the skelter of flying heels!"*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Side by side with that statement let all men now write that my situation is the most excruciatingly _painful_ one that a human being has ever been called upon to endure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a very painful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a very painful manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Excruciatingly funny to watch the stampede, after the loud "One--two--three--and away!" The plunges, the waddles, the skelter of flying heels!"*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Side by side with that statement let all men now write that my situation is the most excruciatingly _painful_ one that a human being has ever been called upon to endure."*

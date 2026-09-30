@@ -5,20 +5,6 @@ status: unread
 ---
 # nightfall
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Nocturnal emission
-> 2. **Nuance / Usage**: The close of the day : dusk
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the nightfall withstood the storm*), direct object (*cleaved the nightfall*), or prepositional anchor (*amidst the nightfall*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Though near nightfall, the rank-smelling weed-flowers glowed as if they would not close for intentness, and the waves of colour mixed with the waves of sound."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Finding my apprehensions unfounded, however, and calmed by the deep silence that reigned as evening declined at nightfall, I took confidence."*
-> - 📜 **Bram Stoker (*Dracula*):** *"We left in pretty good time, and came after nightfall to Klausenburgh."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Nocturnal emission
+> 2. **Nuance / Usage**: The close of the day : dusk
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the nightfall withstood the storm*), direct object (*cleaved the nightfall*), or prepositional anchor (*amidst the nightfall*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Though near nightfall, the rank-smelling weed-flowers glowed as if they would not close for intentness, and the waves of colour mixed with the waves of sound."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Finding my apprehensions unfounded, however, and calmed by the deep silence that reigned as evening declined at nightfall, I took confidence."*
+> - 📜 **Bram Stoker (*Dracula*):** *"We left in pretty good time, and came after nightfall to Klausenburgh."*

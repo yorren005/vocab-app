@@ -5,13 +5,6 @@ status: unread
 ---
 # repatriate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has returned to the country of origin or whose citizenship has been restored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Send someone back to his homeland against his will, as of refugees.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repatriate designates a person who has returned to the country of origin or whose citizenship has been restored."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has returned to the country of origin or whose citizenship has been restored.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Send someone back to his homeland against his will, as of refugees.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repatriate designates a person who has returned to the country of origin or whose citizenship has been restored."*

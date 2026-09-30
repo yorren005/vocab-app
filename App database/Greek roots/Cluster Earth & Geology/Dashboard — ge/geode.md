@@ -5,13 +5,6 @@ status: unread
 ---
 # geode
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nodule of stone having a cavity lined with crystals or mineral matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cavity in a geode.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geode designates a nodule of stone having a cavity lined with crystals or mineral matter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nodule of stone having a cavity lined with crystals or mineral matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cavity in a geode.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geode designates a nodule of stone having a cavity lined with crystals or mineral matter."*

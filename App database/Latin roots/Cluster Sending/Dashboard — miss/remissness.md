@@ -5,15 +5,6 @@ status: unread
 ---
 # remissness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being lax and neglectful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being lax and neglectful.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The General, meanwhile, though offended every morning by Frederick’s remissness in writing, was free from any real anxiety about him, and had no more pressing solicitude than that of making Miss Morland’s time at Northanger pass pleasantly."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"As soon as he had apologised for the remissness of his memory, he asked me if he should send Boots for Mr."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"But there he is, and, by the bye, his absence may sufficiently account for any remissness of his sister’s in writing, for there has been no ‘Well, Mary, when do you write to Fanny?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being lax and neglectful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being lax and neglectful.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"The General, meanwhile, though offended every morning by Frederick’s remissness in writing, was free from any real anxiety about him, and had no more pressing solicitude than that of making Miss Morland’s time at Northanger pass pleasantly."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"As soon as he had apologised for the remissness of his memory, he asked me if he should send Boots for Mr."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"But there he is, and, by the bye, his absence may sufficiently account for any remissness of his sister’s in writing, for there has been no ‘Well, Mary, when do you write to Fanny?"*

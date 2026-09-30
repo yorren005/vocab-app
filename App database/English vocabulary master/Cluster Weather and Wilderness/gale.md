@@ -5,20 +5,6 @@ status: unread
 ---
 # gale
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Emotional outburst
-> 2. **Nuance / Usage**: Outburst, especially of laughter
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the gale withstood the storm*), direct object (*cleaved the gale*), or prepositional anchor (*amidst the gale*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"There is a high gale in that sky, and on this hill-top."*
-> - 📜 **Herman Melville (*Moby Dick*):** *"not till the nineteenth that a brisk gale from the northwest sprang up."*
-> - 📜 **Mary Shelley (*Frankenstein*):** *"but I was quickly restored by the cold gale of the mountains."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Emotional outburst
+> 2. **Nuance / Usage**: Outburst, especially of laughter
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the gale withstood the storm*), direct object (*cleaved the gale*), or prepositional anchor (*amidst the gale*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"There is a high gale in that sky, and on this hill-top."*
+> - 📜 **Herman Melville (*Moby Dick*):** *"not till the nineteenth that a brisk gale from the northwest sprang up."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"but I was quickly restored by the cold gale of the mountains."*

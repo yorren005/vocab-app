@@ -5,15 +5,6 @@ status: unread
 ---
 # rein
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a pair of long straps (usually connected to the bit or the headpiece) used to control a horse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any means of control.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What rein can hold licentious wickedness When down the hill he holds his fierce career?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can sodden water, A drench for sur-rein’d jades, their barley-broth, Decoct their cold blood to such valiant heat?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet Lord Longaville, rein thy tongue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a pair of long straps (usually connected to the bit or the headpiece) used to control a horse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any means of control.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What rein can hold licentious wickedness When down the hill he holds his fierce career?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can sodden water, A drench for sur-rein’d jades, their barley-broth, Decoct their cold blood to such valiant heat?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet Lord Longaville, rein thy tongue."*

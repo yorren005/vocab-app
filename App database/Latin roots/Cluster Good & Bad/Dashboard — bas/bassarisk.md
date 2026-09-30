@@ -5,13 +5,6 @@ status: unread
 ---
 # bassarisk
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Raccoon-like omnivorous mammal of mexico and the southwestern united states having a long bushy tail with black and white rings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raccoon-like omnivorous mammal of mexico and the southwestern united states having a long bushy tail with black and white rings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bassarisk designates raccoon-like omnivorous mammal of mexico and the southwestern united states having a long bushy tail with black and white rings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Raccoon-like omnivorous mammal of mexico and the southwestern united states having a long bushy tail with black and white rings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raccoon-like omnivorous mammal of mexico and the southwestern united states having a long bushy tail with black and white rings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bassarisk designates raccoon-like omnivorous mammal of mexico and the southwestern united states having a long bushy tail with black and white rings."*

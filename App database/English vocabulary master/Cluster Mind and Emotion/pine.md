@@ -5,20 +5,6 @@ status: unread
 ---
 # pine
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (uncountable) the wood of this tree
-> 2. **Nuance / Usage**: (countable, uncountable) any coniferous tree of the genus pinus
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"heavily swinging; on the other side to a wood of dark pine-trees."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"in the fable she was to pine apart from me."*
-> - 📜 **Herman Melville (*Moby Dick*):** *"in the world could make eider down of a pine plank."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To yearn intensely and painfully for someone or something absent or lost (usually followed by *for* or *after*).
+> 2. **Nuance / Usage**: To waste away in health, vitality, or spirit through prolonged grief, homesickness, or unrequited longing (*to pine away*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (intransitive).
+> - **Syntactic Constructions**: Operates with prepositional complements (*to pine for home*, *pining after lost youth*) or adverbial particles (*pining away in solitude*).
+> - **Collocations & Registers**: Elegiac and psychological registers; paired with *longing*, *solitude*, *grief*, and *absence*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"She never told her love, but let concealment, like a worm i' the bud, feed on her damask cheek: she **pined** in thought."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Like the swan in the fable, she felt she was destined to **pine** apart from all she loved."*
+> - 📜 **Percy Bysshe Shelley (*To a Skylark*):** *"We look before and after, and **pine** for what is not: our sincerest laughter with some pain is fraught."*

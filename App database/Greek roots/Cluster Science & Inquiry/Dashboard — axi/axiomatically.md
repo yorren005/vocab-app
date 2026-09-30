@@ -5,13 +5,6 @@ status: unread
 ---
 # axiomatically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: On the basis of axioms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On the basis of axioms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axiomatically designates on the basis of axioms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: On the basis of axioms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On the basis of axioms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axiomatically designates on the basis of axioms."*

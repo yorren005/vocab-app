@@ -5,14 +5,6 @@ status: unread
 ---
 # compositor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who sets written material into type.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who sets written material into type.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The curses to which the General gave a low utterance, as soon as Rebecca and her conqueror had quitted him, were so deep, that I am sure no compositor would venture to print them were they written down."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Similar striking differences appear among the occupations in the printing industry; of stereotypers 90 per cent are organized and of compositors only 35 per cent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who sets written material into type.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who sets written material into type.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The curses to which the General gave a low utterance, as soon as Rebecca and her conqueror had quitted him, were so deep, that I am sure no compositor would venture to print them were they written down."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Similar striking differences appear among the occupations in the printing industry; of stereotypers 90 per cent are organized and of compositors only 35 per cent."*

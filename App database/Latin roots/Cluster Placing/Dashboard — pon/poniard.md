@@ -5,15 +5,6 @@ status: unread
 ---
 # poniard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dagger with a slender blade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stab with a poniard.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me thy poniard; you shall know, my boys, Your mother’s hand shall right your mother’s wrong."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He had stuck his ricking-rod, or poniard, as it was indifferently called—a long iron lance, polished by handling—into the stack, used to support the sheaves instead of the support called a groom used on houses."*
-> - 📜 **James Joyce (*Ulysses*):** *"Amen. _(She draws a poniard and, clad in the sheathmail of an elected knight of nine, strikes at his loins.)_ Nekum!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dagger with a slender blade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stab with a poniard.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me thy poniard; you shall know, my boys, Your mother’s hand shall right your mother’s wrong."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He had stuck his ricking-rod, or poniard, as it was indifferently called—a long iron lance, polished by handling—into the stack, used to support the sheaves instead of the support called a groom used on houses."*
+> - 📜 **James Joyce (*Ulysses*):** *"Amen. _(She draws a poniard and, clad in the sheathmail of an elected knight of nine, strikes at his loins.)_ Nekum!"*

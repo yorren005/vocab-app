@@ -5,13 +5,6 @@ status: unread
 ---
 # primulales
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primulaceae; theophrastaceae; myrsinaceae; and (in some classifications) plumbaginaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primulaceae; theophrastaceae; myrsinaceae; and (in some classifications) plumbaginaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primulales designates primulaceae; theophrastaceae; myrsinaceae; and (in some classifications) plumbaginaceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Primulaceae; theophrastaceae; myrsinaceae; and (in some classifications) plumbaginaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primulaceae; theophrastaceae; myrsinaceae; and (in some classifications) plumbaginaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, primulales designates primulaceae; theophrastaceae; myrsinaceae; and (in some classifications) plumbaginaceae."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # purgation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Purging the body by the use of a cathartic to stimulate evacuation of the bowels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ceremonial cleansing from defilement or uncleanness by the performance of appropriate rites.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If their purgation did consist in words, They are as innocent as grace itself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If any man doubt that, let him put me to my purgation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your wisdom should show itself more richer to signify this to the doctor, for me to put him to his purgation would perhaps plunge him into far more choler."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Purging the body by the use of a cathartic to stimulate evacuation of the bowels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ceremonial cleansing from defilement or uncleanness by the performance of appropriate rites.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If their purgation did consist in words, They are as innocent as grace itself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If any man doubt that, let him put me to my purgation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your wisdom should show itself more richer to signify this to the doctor, for me to put him to his purgation would perhaps plunge him into far more choler."*

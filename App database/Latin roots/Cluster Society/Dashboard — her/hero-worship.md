@@ -5,13 +5,6 @@ status: unread
 ---
 # hero-worship
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Love unquestioningly and uncritically or to excess; venerate as an idol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Love unquestioningly and uncritically or to excess; venerate as an idol.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hero-worship designates love unquestioningly and uncritically or to excess; venerate as an idol."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Love unquestioningly and uncritically or to excess; venerate as an idol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Love unquestioningly and uncritically or to excess; venerate as an idol.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hero-worship designates love unquestioningly and uncritically or to excess; venerate as an idol."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # unendurable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being put up with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being put up with.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At the sight and sound of that, to her, unendurable act, Bathsheba sprang towards him."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Ned Plymdale perfectly wearisome; but to most mortals there is a stupidity which is unendurable and a stupidity which is altogether acceptable—else, indeed, what would become of social bonds?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"There was nothing unendurable now: the debts were paid, Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being put up with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being put up with.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At the sight and sound of that, to her, unendurable act, Bathsheba sprang towards him."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Ned Plymdale perfectly wearisome; but to most mortals there is a stupidity which is unendurable and a stupidity which is altogether acceptable—else, indeed, what would become of social bonds?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"There was nothing unendurable now: the debts were paid, Mr."*

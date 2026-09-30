@@ -5,13 +5,6 @@ status: unread
 ---
 # verminous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the nature of vermin; very offensive or repulsive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of the nature of vermin; very offensive or repulsive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"In short, he rendered it pretty clear that Providence made a distinct mistake in originating so small a nation of hearts of oak, and so many other verminous peoples."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the nature of vermin; very offensive or repulsive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of the nature of vermin; very offensive or repulsive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"In short, he rendered it pretty clear that Providence made a distinct mistake in originating so small a nation of hearts of oak, and so many other verminous peoples."*

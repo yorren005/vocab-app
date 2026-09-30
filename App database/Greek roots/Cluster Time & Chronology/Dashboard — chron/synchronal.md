@@ -5,13 +5,6 @@ status: unread
 ---
 # synchronal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or existing at the same time or having the same period or phase; - jour.a.m.a.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring or existing at the same time or having the same period or phase; - jour.a.m.a.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchronal designates occurring or existing at the same time or having the same period or phase; - jour.a.m.a."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or existing at the same time or having the same period or phase; - jour.a.m.a.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring or existing at the same time or having the same period or phase; - jour.a.m.a.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchronal designates occurring or existing at the same time or having the same period or phase; - jour.a.m.a."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # genoese
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of genoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of genoa or its inhabitants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Here were Italians, Genoese, Neapolitans, Livonians, droll, vivacious, vindictive."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Here had the Roman galleys splashed and here the great Venetian boats set proud sail against the Genoese."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of genoa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of genoa or its inhabitants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Here were Italians, Genoese, Neapolitans, Livonians, droll, vivacious, vindictive."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Here had the Roman galleys splashed and here the great Venetian boats set proud sail against the Genoese."*

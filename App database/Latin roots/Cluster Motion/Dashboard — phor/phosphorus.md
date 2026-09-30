@@ -5,15 +5,6 @@ status: unread
 ---
 # phosphorus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A multivalent nonmetallic element of the nitrogen family that occurs commonly in inorganic phosphate rocks and as organic phosphates in all living cells; is highly reactive and occurs in several allotropic forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A planet (usually venus) seen just before sunrise in the eastern sky.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"With such a mind, active as phosphorus, biting everything that came near into the form that suited it, how could Mrs."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"These different aliments appeared to me to be rich in phosphorus, and I thought they must have a marine origin."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Beside the road the glow worms did their feeble best to light the way; and now and then an old stump in the swamp displayed a ghostly gleam of phosphorus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A multivalent nonmetallic element of the nitrogen family that occurs commonly in inorganic phosphate rocks and as organic phosphates in all living cells; is highly reactive and occurs in several allotropic forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A planet (usually venus) seen just before sunrise in the eastern sky.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"With such a mind, active as phosphorus, biting everything that came near into the form that suited it, how could Mrs."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"These different aliments appeared to me to be rich in phosphorus, and I thought they must have a marine origin."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Beside the road the glow worms did their feeble best to light the way; and now and then an old stump in the swamp displayed a ghostly gleam of phosphorus."*

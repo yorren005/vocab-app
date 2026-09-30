@@ -5,13 +5,6 @@ status: unread
 ---
 # stellite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very hard alloy of cobalt and chromium with cobalt as the principal ingredient; used to make cutting tools and for surfaces subject to heavy wear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very hard alloy of cobalt and chromium with cobalt as the principal ingredient; used to make cutting tools and for surfaces subject to heavy wear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stellite designates a very hard alloy of cobalt and chromium with cobalt as the principal ingredient; used to make cutting tools and for surfaces subject to heavy wear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very hard alloy of cobalt and chromium with cobalt as the principal ingredient; used to make cutting tools and for surfaces subject to heavy wear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very hard alloy of cobalt and chromium with cobalt as the principal ingredient; used to make cutting tools and for surfaces subject to heavy wear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stellite designates a very hard alloy of cobalt and chromium with cobalt as the principal ingredient; used to make cutting tools and for surfaces subject to heavy wear."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # increasingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Advancing in amount or intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advancing in amount or intensity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The material distinctions of rank and wealth he increasingly despised."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Thus it happened that when the last of Tess’s sovereigns had been spent she was unprovided with others to take their place, while on account of the season she found it increasingly difficult to get employment."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"However, all the mutations so increasingly discernible in village life did not originate entirely in the agricultural unrest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Advancing in amount or intensity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advancing in amount or intensity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The material distinctions of rank and wealth he increasingly despised."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Thus it happened that when the last of Tess’s sovereigns had been spent she was unprovided with others to take their place, while on account of the season she found it increasingly difficult to get employment."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"However, all the mutations so increasingly discernible in village life did not originate entirely in the agricultural unrest."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # jointed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fit as if by joints.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with a joint.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O well-knit Samson, strong-jointed Samson!"*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He was broad-shouldered and double-jointed, with short curly black hair and a bluff but not unpleasant countenance, having a mingled air of fun and arrogance."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"On Mars along with that double-jointed six- wheeler we sent up a few years ago there to sniff around in potholes and climb over rocks?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fit as if by joints.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with a joint.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O well-knit Samson, strong-jointed Samson!"*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He was broad-shouldered and double-jointed, with short curly black hair and a bluff but not unpleasant countenance, having a mingled air of fun and arrogance."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"On Mars along with that double-jointed six- wheeler we sent up a few years ago there to sniff around in potholes and climb over rocks?"*

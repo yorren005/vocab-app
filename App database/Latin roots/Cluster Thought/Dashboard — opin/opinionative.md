@@ -5,13 +5,6 @@ status: unread
 ---
 # opinionative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obstinate in your opinions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obstinate in your opinions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"They were not only opinionative, peevish, covetous, morose, vain, talkative, but incapable of friendship, and dead to all natural affection, which never descended below their grandchildren."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obstinate in your opinions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obstinate in your opinions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"They were not only opinionative, peevish, covetous, morose, vain, talkative, but incapable of friendship, and dead to all natural affection, which never descended below their grandchildren."*

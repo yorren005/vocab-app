@@ -5,15 +5,6 @@ status: unread
 ---
 # mensch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decent responsible person with admirable characteristics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decent responsible person with admirable characteristics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Bastian, _Der Mensch in der Geschichte_ (Leipsic, 1860), iii. 81. [7] Athenaeus, xii. 8, p. 514 c. [8] _The Voiages and Travels of John Struys_ (London, 1684), p. 30. [9] Rev."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Kein Mensch auf Erden soll dich so beherrschen."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Es war der einzige Mensch, mit dem ich mich verwandt fuehlte, und wir moegen uns wohl in manchen Dingen geglichen haben; scherze nur darueber, soviel Du willst."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decent responsible person with admirable characteristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decent responsible person with admirable characteristics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Bastian, _Der Mensch in der Geschichte_ (Leipsic, 1860), iii. 81. [7] Athenaeus, xii. 8, p. 514 c. [8] _The Voiages and Travels of John Struys_ (London, 1684), p. 30. [9] Rev."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Kein Mensch auf Erden soll dich so beherrschen."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Es war der einzige Mensch, mit dem ich mich verwandt fuehlte, und wir moegen uns wohl in manchen Dingen geglichen haben; scherze nur darueber, soviel Du willst."*

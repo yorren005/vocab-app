@@ -5,13 +5,6 @@ status: unread
 ---
 # coplanar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying in the same plane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lying in the same plane.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coplanar designates lying in the same plane."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying in the same plane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lying in the same plane.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coplanar designates lying in the same plane."*

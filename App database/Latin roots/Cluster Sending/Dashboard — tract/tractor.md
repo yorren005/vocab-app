@@ -5,14 +5,6 @@ status: unread
 ---
 # tractor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wheeled vehicle with large wheels; used in farming and other applications.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A truck that has a cab but no body; used for pulling large trailers or vans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But I can't come in now, Laura: I have to go over to Countisford to talk to Bishop about the new tractor, and I want to get back by teatime."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Words are also tools, whether they describe other tools, or tornadoes, toys, teeth, trees, or tractors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wheeled vehicle with large wheels; used in farming and other applications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A truck that has a cab but no body; used for pulling large trailers or vans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"But I can't come in now, Laura: I have to go over to Countisford to talk to Bishop about the new tractor, and I want to get back by teatime."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Words are also tools, whether they describe other tools, or tornadoes, toys, teeth, trees, or tractors."*

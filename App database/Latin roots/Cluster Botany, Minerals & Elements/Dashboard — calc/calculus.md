@@ -5,13 +5,6 @@ status: unread
 ---
 # calculus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard lump produced by the concretion of mineral salts; found in hollow organs or ducts of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An incrustation that forms on the teeth and gums.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Man has Forever.” Back to his book then: deeper drooped his head: CALCULUS racked him: Leaden before, his eyes grew dross of lead: TUSSIS attacked him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard lump produced by the concretion of mineral salts; found in hollow organs or ducts of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An incrustation that forms on the teeth and gums.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Man has Forever.” Back to his book then: deeper drooped his head: CALCULUS racked him: Leaden before, his eyes grew dross of lead: TUSSIS attacked him."*

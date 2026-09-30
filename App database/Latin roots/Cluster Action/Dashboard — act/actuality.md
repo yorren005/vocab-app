@@ -5,15 +5,6 @@ status: unread
 ---
 # actuality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of actually existing objectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of actually existing objectively.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The coarse brawl, the loathsome den, the crude violence of disordered life, the very vileness of thief and outcast, were more vivid, in their intense actuality of impression, than all the gracious shapes of art, the dreamy shadows of song."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His ostensible mission to meet with the President of Planet Pluto is, in actuality, a guise under which he intends to meet with dissident elements among our people."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"An actuality had been converted into thought and emotion, and thought and emotion may be all that endure, and an actuality be unreal ... but an actuality is so warm ... so reassuring...."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of actually existing objectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of actually existing objectively.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The coarse brawl, the loathsome den, the crude violence of disordered life, the very vileness of thief and outcast, were more vivid, in their intense actuality of impression, than all the gracious shapes of art, the dreamy shadows of song."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His ostensible mission to meet with the President of Planet Pluto is, in actuality, a guise under which he intends to meet with dissident elements among our people."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"An actuality had been converted into thought and emotion, and thought and emotion may be all that endure, and an actuality be unreal ... but an actuality is so warm ... so reassuring...."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # ignited
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to start burning; subject to fire or great heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Start to burn or burst into flames.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The materials of the bonfire are piled in an open space near a church, and they are generally ignited by young couples who have been married within the year."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Heaps of combustible materials are now ignited with the new fire, and blazing bundles are placed on boards and sent floating down the brook."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Sometimes fuel is piled on rafts, ignited, and allowed to drift blazing across the fiords in the darkness of night."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to start burning; subject to fire or great heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Start to burn or burst into flames.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The materials of the bonfire are piled in an open space near a church, and they are generally ignited by young couples who have been married within the year."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Heaps of combustible materials are now ignited with the new fire, and blazing bundles are placed on boards and sent floating down the brook."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Sometimes fuel is piled on rafts, ignited, and allowed to drift blazing across the fiords in the darkness of night."*

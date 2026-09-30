@@ -5,15 +5,6 @@ status: unread
 ---
 # rare
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not widely known; especially valued for its uncommonness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recurring only at long intervals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore are feasts so solemn and so rare, Since seldom coming in that long year set, Like stones of worth they thinly placed are, Or captain jewels in the carcanet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or call it winter, which being full of care, Makes summer’s welcome, thrice more wished, more rare. 57 Being your slave what should I do but tend, Upon the hours, and times of your desire?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say this becomes him— As his composure must be rare indeed Whom these things cannot blemish—yet must Antony No way excuse his foils when we do bear So great weight in his lightness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not widely known; especially valued for its uncommonness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recurring only at long intervals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore are feasts so solemn and so rare, Since seldom coming in that long year set, Like stones of worth they thinly placed are, Or captain jewels in the carcanet."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or call it winter, which being full of care, Makes summer’s welcome, thrice more wished, more rare. 57 Being your slave what should I do but tend, Upon the hours, and times of your desire?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say this becomes him— As his composure must be rare indeed Whom these things cannot blemish—yet must Antony No way excuse his foils when we do bear So great weight in his lightness."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # hereof
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerning this.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerning this.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, jailer, bring me where the goldsmith is, I long to know the truth hereof at large."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The shame hereof will make me hide my head. [_Exit Talbot."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What will ensue hereof there’s none can tell; But by bad courses may be understood That their events can never fall out good. [_Exit._] KING RICHARD."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerning this.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerning this.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, jailer, bring me where the goldsmith is, I long to know the truth hereof at large."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The shame hereof will make me hide my head. [_Exit Talbot."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What will ensue hereof there’s none can tell; But by bad courses may be understood That their events can never fall out good. [_Exit._] KING RICHARD."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # nonfiction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prose writing that is not fictional.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prose writing that is not fictional.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonfiction designates prose writing that is not fictional."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prose writing that is not fictional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prose writing that is not fictional.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonfiction designates prose writing that is not fictional."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # fatuous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of intelligence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of intelligence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Several other women also chimed in, with an animus which none of them would have been so fatuous as to show but for the rollicking evening they had passed."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Oh, damn himself for his suspicions, for his annoyance, and damn the fatuous Arab fool for arousing them...."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"She was one of the small ones of the earth; she had not been born to honours; she knew the world too well to nourish fatuous illusions on the article of her own place in it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of intelligence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of intelligence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Several other women also chimed in, with an animus which none of them would have been so fatuous as to show but for the rollicking evening they had passed."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Oh, damn himself for his suspicions, for his annoyance, and damn the fatuous Arab fool for arousing them...."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"She was one of the small ones of the earth; she had not been born to honours; she knew the world too well to nourish fatuous illusions on the article of her own place in it."*

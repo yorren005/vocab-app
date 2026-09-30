@@ -5,15 +5,6 @@ status: unread
 ---
 # misleading
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lead someone in the wrong direction or give someone wrong directions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give false or misleading information to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am so sorry for my trespass made That, to deserve well at my brother’s hands, I here proclaim myself thy mortal foe, With resolution, whereso’er I meet thee— As I will meet thee if thou stir abroad— To plague thee for thy foul misleading me."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The cabala of this erotic philosophy seemed to consist of the subtlest meanings expressed in misleading ways."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But unfortunately these figures have little significance in connection with such an inquiry, if indeed they are not badly misleading."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lead someone in the wrong direction or give someone wrong directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give false or misleading information to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am so sorry for my trespass made That, to deserve well at my brother’s hands, I here proclaim myself thy mortal foe, With resolution, whereso’er I meet thee— As I will meet thee if thou stir abroad— To plague thee for thy foul misleading me."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The cabala of this erotic philosophy seemed to consist of the subtlest meanings expressed in misleading ways."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But unfortunately these figures have little significance in connection with such an inquiry, if indeed they are not badly misleading."*

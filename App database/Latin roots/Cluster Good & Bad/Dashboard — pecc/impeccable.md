@@ -5,14 +5,6 @@ status: unread
 ---
 # impeccable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without fault or error.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of sin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"But if the invitation should get lost on the way?” “I thought the British post-office was impeccable.” “The good Homer sometimes nods,” said Ralph."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Soul impeccable Through false estimates of soul as dwelling in sense 311:15 and of mind as dwelling in matter, belief strays into a sense of temporary loss or absence of soul, spir- itual truth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without fault or error.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of sin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"But if the invitation should get lost on the way?” “I thought the British post-office was impeccable.” “The good Homer sometimes nods,” said Ralph."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Soul impeccable Through false estimates of soul as dwelling in sense 311:15 and of mind as dwelling in matter, belief strays into a sense of temporary loss or absence of soul, spir- itual truth."*

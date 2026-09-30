@@ -5,15 +5,6 @@ status: unread
 ---
 # elements
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Violent or severe weather (viewed as caused by the action of the four elements).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abstract part of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For when these quicker elements are gone In tender embassy of love to thee, My life being made of four, with two alone, Sinks down to death, oppressed with melancholy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It lives by that which nourisheth it, and the elements once out of it, it transmigrates."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The elements be kind to thee, and make Thy spirits all of comfort!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Violent or severe weather (viewed as caused by the action of the four elements).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abstract part of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For when these quicker elements are gone In tender embassy of love to thee, My life being made of four, with two alone, Sinks down to death, oppressed with melancholy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It lives by that which nourisheth it, and the elements once out of it, it transmigrates."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The elements be kind to thee, and make Thy spirits all of comfort!"*

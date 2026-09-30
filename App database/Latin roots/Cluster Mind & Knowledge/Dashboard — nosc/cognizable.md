@@ -5,14 +5,6 @@ status: unread
 ---
 # cognizable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being known.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being known.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A hieroglyph,” said the Rhetor, “is an emblem of something not cognizable by the senses but which possesses qualities resembling those of the symbol.” Pierre knew very well what a hieroglyph was, but dared not speak."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Phenomena explained Portraits, landscape-paintings, fac-similes of penman- ship, peculiarities of expression, recollected sentences, 86:27 can all be taken from pictorial thought and memory as readily as from objects cognizable by the senses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being known.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being known.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A hieroglyph,” said the Rhetor, “is an emblem of something not cognizable by the senses but which possesses qualities resembling those of the symbol.” Pierre knew very well what a hieroglyph was, but dared not speak."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Phenomena explained Portraits, landscape-paintings, fac-similes of penman- ship, peculiarities of expression, recollected sentences, 86:27 can all be taken from pictorial thought and memory as readily as from objects cognizable by the senses."*

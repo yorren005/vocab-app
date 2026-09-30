@@ -5,13 +5,6 @@ status: unread
 ---
 # stargaze
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Observe the stars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a daydream; indulge in a fantasy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stargaze designates observe the stars."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Observe the stars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a daydream; indulge in a fantasy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stargaze designates observe the stars."*

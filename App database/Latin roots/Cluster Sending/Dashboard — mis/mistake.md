@@ -5,15 +5,6 @@ status: unread
 ---
 # mistake
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wrong action attributable to bad judgment or ignorance or inattention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An understanding of something that is not correct.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No marvel then though I mistake my view, The sun it self sees not, till heaven clears."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would we could do so, for her benefits are mightily misplaced, and the bountiful blind woman doth most mistake in her gifts to women."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, good my liege, mistake me not so much To think my poverty is treacherous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wrong action attributable to bad judgment or ignorance or inattention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An understanding of something that is not correct.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No marvel then though I mistake my view, The sun it self sees not, till heaven clears."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would we could do so, for her benefits are mightily misplaced, and the bountiful blind woman doth most mistake in her gifts to women."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, good my liege, mistake me not so much To think my poverty is treacherous."*

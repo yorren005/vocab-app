@@ -5,15 +5,6 @@ status: unread
 ---
 # starkey
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rock star and drummer for the beatles (born in 1940).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rock star and drummer for the beatles (born in 1940).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"As the pirates advanced, the quick eye of Starkey sighted Nibs disappearing through the wood, and at once his pistol flashed out."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"It was the pirate dinghy, with three figures in her, Smee and Starkey, and the third a captive, no other than Tiger Lily."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"He must be swimming out to us,” Starkey said, when they had looked for him in vain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rock star and drummer for the beatles (born in 1940).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rock star and drummer for the beatles (born in 1940).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"As the pirates advanced, the quick eye of Starkey sighted Nibs disappearing through the wood, and at once his pistol flashed out."*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"It was the pirate dinghy, with three figures in her, Smee and Starkey, and the third a captive, no other than Tiger Lily."*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"He must be swimming out to us,” Starkey said, when they had looked for him in vain."*

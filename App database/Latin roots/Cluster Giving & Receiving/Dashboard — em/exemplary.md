@@ -5,15 +5,6 @@ status: unread
 ---
 # exemplary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of imitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or serving as an illustration of a type.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, my dear Miss Summerson, if you want common sense, responsibility, and respectability, all united—if you want an exemplary man—Vholes is THE man.” We had not known, we said, that Richard was assisted by any gentleman of that name."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet’s health, always given by himself on these occasions in a speech of exemplary terseness."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You don’t mean to set up for a new character with ME after all these years, I hope?” Her friendly indignation had an exemplary effect upon her husband, who shook his head at the trooper several times as a silent recommendation to him to yield."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of imitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or serving as an illustration of a type.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, my dear Miss Summerson, if you want common sense, responsibility, and respectability, all united—if you want an exemplary man—Vholes is THE man.” We had not known, we said, that Richard was assisted by any gentleman of that name."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet’s health, always given by himself on these occasions in a speech of exemplary terseness."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You don’t mean to set up for a new character with ME after all these years, I hope?” Her friendly indignation had an exemplary effect upon her husband, who shook his head at the trooper several times as a silent recommendation to him to yield."*

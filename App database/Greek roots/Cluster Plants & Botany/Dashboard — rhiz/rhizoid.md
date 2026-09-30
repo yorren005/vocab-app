@@ -5,13 +5,6 @@ status: unread
 ---
 # rhizoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rootlike structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rootlike structure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizoid designates a rootlike structure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rootlike structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rootlike structure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhizoid designates a rootlike structure."*

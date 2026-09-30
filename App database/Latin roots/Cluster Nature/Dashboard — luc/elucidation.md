@@ -5,15 +5,6 @@ status: unread
 ---
 # elucidation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of explaining that serves to clear up and cast light on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An interpretation that removes obstacles to understanding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"This was the new premise brought by Mill to the elucidation of the wages question; and it sufficed to change the entire aspect of human life regarded from the point of view of political economy."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The necessity of naval protection to external or maritime commerce does not require a particular elucidation, no more than the conduciveness of that species of commerce to the prosperity of a navy."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The notes to the poems will be found, I trust, to cover all points and features of the text which require explanation and elucidation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of explaining that serves to clear up and cast light on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An interpretation that removes obstacles to understanding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"This was the new premise brought by Mill to the elucidation of the wages question; and it sufficed to change the entire aspect of human life regarded from the point of view of political economy."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The necessity of naval protection to external or maritime commerce does not require a particular elucidation, no more than the conduciveness of that species of commerce to the prosperity of a navy."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The notes to the poems will be found, I trust, to cover all points and features of the text which require explanation and elucidation."*

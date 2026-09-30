@@ -5,13 +5,6 @@ status: unread
 ---
 # polys
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymerized plastic or something made of this; especially : a polyester fiber, fabric, or garment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A roly-poly person or thing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polys designates a polymerized plastic or something made of this; especially : a polyester fiber, fabric, or garment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymerized plastic or something made of this; especially : a polyester fiber, fabric, or garment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A roly-poly person or thing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polys designates a polymerized plastic or something made of this; especially : a polyester fiber, fabric, or garment."*

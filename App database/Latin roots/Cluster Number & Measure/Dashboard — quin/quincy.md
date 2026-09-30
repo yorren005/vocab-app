@@ -5,15 +5,6 @@ status: unread
 ---
 # quincy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American patriot who presented the colonists' grievances to the english king (1744-1775).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American patriot who presented the colonists' grievances to the english king (1744-1775).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Louis Hospitals--Ladies who ministered to the soldiers in Quincy, and in Springfield, Illinois--Miss Georgiana Willets, Misses Molineux and McCabe--Ladies of Cincinnati who served in the hospitals--Mrs."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"At Memphis and Mound City, (near Cairo) at Quincy, Illinois, and the cities on the Ohio River, the hospitals were in equally crowded condition."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Miss Maertz was born in Quincy, Illinois, in 1838."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: American patriot who presented the colonists' grievances to the english king (1744-1775).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American patriot who presented the colonists' grievances to the english king (1744-1775).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Louis Hospitals--Ladies who ministered to the soldiers in Quincy, and in Springfield, Illinois--Miss Georgiana Willets, Misses Molineux and McCabe--Ladies of Cincinnati who served in the hospitals--Mrs."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"At Memphis and Mound City, (near Cairo) at Quincy, Illinois, and the cities on the Ohio River, the hospitals were in equally crowded condition."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Miss Maertz was born in Quincy, Illinois, in 1838."*

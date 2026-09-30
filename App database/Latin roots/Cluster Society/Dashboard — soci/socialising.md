@@ -5,13 +5,6 @@ status: unread
 ---
 # socialising
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of meeting for social purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take part in social activities; interact with others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, socialising designates the act of meeting for social purposes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of meeting for social purposes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take part in social activities; interact with others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, socialising designates the act of meeting for social purposes."*

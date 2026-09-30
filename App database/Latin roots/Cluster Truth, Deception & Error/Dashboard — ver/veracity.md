@@ -5,15 +5,6 @@ status: unread
 ---
 # veracity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwillingness to tell lies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unwillingness to tell lies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Miller is the wife of a Congregational minister, and a lady of unquestionably veracity."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bingley’s regard; and yet it was not in her nature to question the veracity of a young man of such amiable appearance as Wickham."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Of what he has _particularly_ accused me I am ignorant; but of the truth of what I shall relate I can summon more than one witness of undoubted veracity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwillingness to tell lies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unwillingness to tell lies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Miller is the wife of a Congregational minister, and a lady of unquestionably veracity."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bingley’s regard; and yet it was not in her nature to question the veracity of a young man of such amiable appearance as Wickham."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Of what he has _particularly_ accused me I am ignorant; but of the truth of what I shall relate I can summon more than one witness of undoubted veracity."*

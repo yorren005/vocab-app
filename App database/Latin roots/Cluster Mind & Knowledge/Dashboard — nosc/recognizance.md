@@ -5,14 +5,6 @@ status: unread
 ---
 # recognizance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a security entered into before a court with a condition to perform some act required by law; on failure to perform that act a sum is forfeited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a security entered into before a court with a condition to perform some act required by law; on failure to perform that act a sum is forfeited.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But yet Iago knows That she with Cassio hath the act of shame A thousand times committed; Cassio confess’d it, And she did gratify his amorous works With that recognizance and pledge of love Which I first gave her; I saw it in his hand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This fellow might be in’s time a great buyer of land, with his statutes, his recognizances, his fines, his double vouchers, his recoveries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a security entered into before a court with a condition to perform some act required by law; on failure to perform that act a sum is forfeited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a security entered into before a court with a condition to perform some act required by law; on failure to perform that act a sum is forfeited.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But yet Iago knows That she with Cassio hath the act of shame A thousand times committed; Cassio confess’d it, And she did gratify his amorous works With that recognizance and pledge of love Which I first gave her; I saw it in his hand."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This fellow might be in’s time a great buyer of land, with his statutes, his recognizances, his fines, his double vouchers, his recoveries."*

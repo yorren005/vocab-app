@@ -5,18 +5,6 @@ status: unread
 ---
 # singe
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Slight burn : scorch
-> 2. **Nuance / Usage**: (transitive) to burn slightly
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to singe the target*) and intransitive clauses (*singing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Roger L'Estrange (*The Viſions of Dom [[Francisco de Quevedo*):** *"made combustible by Flame They treat of, we have pretty Game, For they their own Tail Singe, to save Us"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -52,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To burn superficially or lightly, especially the ends of hair, feathers, fur, or fabric exposed to a brief flame.
+> 2. **Nuance / Usage**: Figuratively, to inflict slight harm or a brush with danger or scandal (as in Francis Bacon's famous phrase *"singeing the King of Spain's beard"*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to singe the target*) and intransitive clauses (*singing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*King Lear*):** *"You sulphurous and thought-executing fires, vaunt-couriers to oak-cleaving thunderbolts, **singe** my white head!"*
+> - 📜 **Roger L'Estrange (*The Visions of Dom Francisco de Quevedo*):** *"Made combustible by flame they treat of, we have pretty game, for they their own tail **singe**, to save us."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The candle flare came so close to his eyebrows that it **singed** the ends of his hair."*

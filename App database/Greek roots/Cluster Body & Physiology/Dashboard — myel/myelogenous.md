@@ -5,13 +5,6 @@ status: unread
 ---
 # myelogenous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, originating in, or produced by the bone marrow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leukemia characterized by proliferation of myeloid tissue (as of the bone marrow and spleen) and an abnormal increase in the number of granulocytes, myelocytes, and myeloblasts in the circulating blood —called also myelocytic leukemia, myeloid leukemia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelogenous designates of, relating to, originating in, or produced by the bone marrow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, originating in, or produced by the bone marrow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leukemia characterized by proliferation of myeloid tissue (as of the bone marrow and spleen) and an abnormal increase in the number of granulocytes, myelocytes, and myeloblasts in the circulating blood —called also myelocytic leukemia, myeloid leukemia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelogenous designates of, relating to, originating in, or produced by the bone marrow."*

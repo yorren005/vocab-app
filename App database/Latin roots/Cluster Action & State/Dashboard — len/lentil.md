@@ -5,15 +5,6 @@ status: unread
 ---
 # lentil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Round flat seed of the lentil plant used for food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fruit or seed of a lentil plant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And, provided with a lentil, he lighted a fire of dead wood that crackled joyously."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Why, just one serving of butter is 100 of fats, and eight almonds is another, while a serving of lentils is 100 of proteins."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"John present each other with plates of sprouting corn, lentils, and canary seed, which have been planted forty days before the festival."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Round flat seed of the lentil plant used for food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fruit or seed of a lentil plant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And, provided with a lentil, he lighted a fire of dead wood that crackled joyously."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Why, just one serving of butter is 100 of fats, and eight almonds is another, while a serving of lentils is 100 of proteins."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"John present each other with plates of sprouting corn, lentils, and canary seed, which have been planted forty days before the festival."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # unportable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not portable; not easily moved or transported.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not portable; not easily moved or transported.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unportable designates not portable; not easily moved or transported."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not portable; not easily moved or transported.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not portable; not easily moved or transported.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unportable designates not portable; not easily moved or transported."*

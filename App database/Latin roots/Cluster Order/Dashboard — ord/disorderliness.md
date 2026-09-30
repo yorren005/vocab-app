@@ -5,14 +5,6 @@ status: unread
 ---
 # disorderliness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which things are not in their expected places.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rowdy behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There are some enterprises in which a careful disorderliness is the true method."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"There are some enterprises in which a careful disorderliness is the true method."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which things are not in their expected places.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rowdy behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There are some enterprises in which a careful disorderliness is the true method."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"There are some enterprises in which a careful disorderliness is the true method."*

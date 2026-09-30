@@ -5,13 +5,6 @@ status: unread
 ---
 # herrerasaurus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of theropod dinosaur found in argentina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of theropod dinosaur found in argentina.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herrerasaurus designates a kind of theropod dinosaur found in argentina."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of theropod dinosaur found in argentina.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of theropod dinosaur found in argentina.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, herrerasaurus designates a kind of theropod dinosaur found in argentina."*

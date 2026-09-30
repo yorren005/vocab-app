@@ -5,15 +5,6 @@ status: unread
 ---
 # negociate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be successful; achieve a goal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sell or discount.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"They disclose Mary and her brother zealous to repay one good turn with another by watching the success of his dramatic efforts and endeavouring to negociate favourably for him with actors and managers."*
-> - 📜 **James Scurry (*The captivity, sufferings, and escape of James Scurry*):** *"Drake, midshipman of the Hannibal, to negociate this, to us, important business, in which he acted the hypocrite admirably, and to our entire satisfaction."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"You promised me the office of negociating with booksellers and so forth for your next work." [Lady Stoddart published several tales under the name of Blackford.] "Is it in good forwardness?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be successful; achieve a goal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sell or discount.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"They disclose Mary and her brother zealous to repay one good turn with another by watching the success of his dramatic efforts and endeavouring to negociate favourably for him with actors and managers."*
+> - 📜 **James Scurry (*The captivity, sufferings, and escape of James Scurry*):** *"Drake, midshipman of the Hannibal, to negociate this, to us, important business, in which he acted the hypocrite admirably, and to our entire satisfaction."*
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"You promised me the office of negociating with booksellers and so forth for your next work." [Lady Stoddart published several tales under the name of Blackford.] "Is it in good forwardness?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # inspection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal or official examination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal or official examination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"So they go out in a loose procession, something after the manner of a straggling funeral, and make their inspection in Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He proposed to show us his Court of Chancery and all the strange medley it contained; during the whole of our inspection (prolonged by himself) he kept close to Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn; nor does he so much as glance at the affidavit in Jarndyce and Jarndyce, that has been given to him for his inspection (though he still holds it in his hand), but continues to look at the lawyer with an air of troubled meditation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal or official examination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal or official examination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"So they go out in a loose procession, something after the manner of a straggling funeral, and make their inspection in Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He proposed to show us his Court of Chancery and all the strange medley it contained; during the whole of our inspection (prolonged by himself) he kept close to Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn; nor does he so much as glance at the affidavit in Jarndyce and Jarndyce, that has been given to him for his inspection (though he still holds it in his hand), but continues to look at the lawyer with an air of troubled meditation."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # scullery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small room (in large old british houses) next to the kitchen; where kitchen utensils are cleaned and kept and other rough household jobs are done.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small room (in large old british houses) next to the kitchen; where kitchen utensils are cleaned and kept and other rough household jobs are done.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The purposes for which a few shapeless pantries and a comfortless scullery were deemed sufficient at Fullerton, were here carried on in appropriate divisions, commodious and roomy."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Pursuing the tradesman's drive between coach-house, tool shed, coal shed, and miscellaneous outbuildings, Lawrence emerged on a brick yard, ducked under a clothes-line, made for an open doorway, and found himself in the scullery."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He took the largest of the jugs from the dresser and strode with it into the scullery, whence came the sound of running water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small room (in large old british houses) next to the kitchen; where kitchen utensils are cleaned and kept and other rough household jobs are done.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small room (in large old british houses) next to the kitchen; where kitchen utensils are cleaned and kept and other rough household jobs are done.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"The purposes for which a few shapeless pantries and a comfortless scullery were deemed sufficient at Fullerton, were here carried on in appropriate divisions, commodious and roomy."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Pursuing the tradesman's drive between coach-house, tool shed, coal shed, and miscellaneous outbuildings, Lawrence emerged on a brick yard, ducked under a clothes-line, made for an open doorway, and found himself in the scullery."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He took the largest of the jugs from the dresser and strode with it into the scullery, whence came the sound of running water."*

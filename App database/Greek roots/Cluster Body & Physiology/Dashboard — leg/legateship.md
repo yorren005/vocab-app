@@ -5,13 +5,6 @@ status: unread
 ---
 # legateship
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The post or office of legate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The post or office of legate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, legateship designates the post or office of legate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The post or office of legate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The post or office of legate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, legateship designates the post or office of legate."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # inheriting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtain from someone after their death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receive from a predecessor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She had no resources for solitude; and inheriting a considerable share of the Elliot self-importance, was very prone to add to every other distress that of fancying herself neglected and ill-used."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins from the guilt of inheriting Longbourn."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"This was his plan of amends--of atonement--for inheriting their father’s estate; and he thought it an excellent one, full of eligibility and suitableness, and excessively generous and disinterested on his own part."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtain from someone after their death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receive from a predecessor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"She had no resources for solitude; and inheriting a considerable share of the Elliot self-importance, was very prone to add to every other distress that of fancying herself neglected and ill-used."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins from the guilt of inheriting Longbourn."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"This was his plan of amends--of atonement--for inheriting their father’s estate; and he thought it an excellent one, full of eligibility and suitableness, and excessively generous and disinterested on his own part."*

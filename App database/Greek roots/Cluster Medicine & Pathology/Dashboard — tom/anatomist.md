@@ -5,15 +5,6 @@ status: unread
 ---
 # anatomist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in anatomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert in anatomy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But some specimen bones of it being taken across the sea to Owen, the English Anatomist, it turned out that this alleged reptile was a whale, though of a departed species."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But some specimen bones of it being taken across the sea to Owen, the English Anatomist, it turned out that this alleged reptile was a whale, though of a departed species."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"His upper jaw was furnished with two long white sharp-pointed teeth or fangs, such as the reader may have observed in the chaps of a wolf, or full-grown mastiff, and an anatomist would describe as a preternatural elongation of the dentes canini."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in anatomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert in anatomy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But some specimen bones of it being taken across the sea to Owen, the English Anatomist, it turned out that this alleged reptile was a whale, though of a departed species."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But some specimen bones of it being taken across the sea to Owen, the English Anatomist, it turned out that this alleged reptile was a whale, though of a departed species."*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"His upper jaw was furnished with two long white sharp-pointed teeth or fangs, such as the reader may have observed in the chaps of a wolf, or full-grown mastiff, and an anatomist would describe as a preternatural elongation of the dentes canini."*

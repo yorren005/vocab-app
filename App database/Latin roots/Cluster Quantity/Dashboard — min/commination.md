@@ -5,13 +5,6 @@ status: unread
 ---
 # commination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prayers proclaiming god's anger against sinners; read in the church of england on ash wednesday.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A threat of divine punishment or vengeance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Rawdon Crawley, the Dowager Countess wrote back such a letter regarding Becky, with such particulars, hints, facts, falsehoods, and general comminations, that intimacy between Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prayers proclaiming god's anger against sinners; read in the church of england on ash wednesday.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A threat of divine punishment or vengeance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Rawdon Crawley, the Dowager Countess wrote back such a letter regarding Becky, with such particulars, hints, facts, falsehoods, and general comminations, that intimacy between Mrs."*

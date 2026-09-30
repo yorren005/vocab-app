@@ -5,14 +5,6 @@ status: unread
 ---
 # symbolically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a symbolic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of symbols.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"As in droughty regions baptism by immersion could only be performed symbolically, Mr."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The absurdities of the old religion yielded place to Reason--embodied symbolically for the hour in the person of Mme Momoro--afterwards, more vaguely, in Robespierre's Supreme Being, who really came from Rousseau."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a symbolic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of symbols.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"As in droughty regions baptism by immersion could only be performed symbolically, Mr."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The absurdities of the old religion yielded place to Reason--embodied symbolically for the hour in the person of Mme Momoro--afterwards, more vaguely, in Robespierre's Supreme Being, who really came from Rousseau."*

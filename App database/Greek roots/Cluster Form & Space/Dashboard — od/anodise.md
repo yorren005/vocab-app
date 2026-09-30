@@ -5,13 +5,6 @@ status: unread
 ---
 # anodise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coat a metal with an oxide coat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coat a metal with an oxide coat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anodise designates coat a metal with an oxide coat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coat a metal with an oxide coat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coat a metal with an oxide coat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anodise designates coat a metal with an oxide coat."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # periodontal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Investing or surrounding a tooth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or affecting periodontal tissues or regions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periodontal designates investing or surrounding a tooth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Investing or surrounding a tooth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or affecting periodontal tissues or regions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periodontal designates investing or surrounding a tooth."*

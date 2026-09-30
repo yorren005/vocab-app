@@ -5,15 +5,6 @@ status: unread
 ---
 # ech
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Sound & Auditory.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Ech, ay, the silver cord, the gowden bowl, the almond blossom--Hobby could weave them a'--terrible grand at the weavin' is Hobby."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"He’s getten t’ raight sperrit in him! _He_ knaws—ay, he knaws, as weel as I do, who sud be t’ maister yonder—Ech, ech, ech!"*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Ech, ech, ech!’ “‘Where must we go?’ I asked of my cousin, disregarding the old wretch’s mockery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Sound & Auditory.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Ech, ay, the silver cord, the gowden bowl, the almond blossom--Hobby could weave them a'--terrible grand at the weavin' is Hobby."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"He’s getten t’ raight sperrit in him! _He_ knaws—ay, he knaws, as weel as I do, who sud be t’ maister yonder—Ech, ech, ech!"*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Ech, ech, ech!’ “‘Where must we go?’ I asked of my cousin, disregarding the old wretch’s mockery."*

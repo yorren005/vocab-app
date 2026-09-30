@@ -5,14 +5,6 @@ status: unread
 ---
 # reversionary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving a reversion (especially a legal reversion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involving a reversion (especially a legal reversion).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"These money transactions--these speculations in life and death--these silent battles for reversionary spoil--make brothers very loving towards each other in Vanity Fair."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Here’s an early job to begin with!” Having thus given his parent God speed, young Jerry seated himself on the stool, entered on his reversionary interest in the straw his father had been chewing, and cogitated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving a reversion (especially a legal reversion).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involving a reversion (especially a legal reversion).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"These money transactions--these speculations in life and death--these silent battles for reversionary spoil--make brothers very loving towards each other in Vanity Fair."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Here’s an early job to begin with!” Having thus given his parent God speed, young Jerry seated himself on the stool, entered on his reversionary interest in the straw his father had been chewing, and cogitated."*

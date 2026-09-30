@@ -5,15 +5,6 @@ status: unread
 ---
 # insisting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Continual and persistent demands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be emphatic or resolute and refuse to budge.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes, still quietly insisting on the seat by not giving the address, “that you have influence with Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Nobody doubts her right to have precedence of mamma, but it would be more becoming in her not to be always insisting on it."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She took out her purse and was insisting to Boldwood on paying for her tea for herself, when at this moment Pennyways entered the tent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Continual and persistent demands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be emphatic or resolute and refuse to budge.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes, still quietly insisting on the seat by not giving the address, “that you have influence with Mr."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Nobody doubts her right to have precedence of mamma, but it would be more becoming in her not to be always insisting on it."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She took out her purse and was insisting to Boldwood on paying for her tea for herself, when at this moment Pennyways entered the tent."*

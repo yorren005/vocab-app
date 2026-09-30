@@ -5,13 +5,6 @@ status: unread
 ---
 # helminthic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasitic worm (such as a tapeworm, liver fluke, ascarid, or leech); especially : an intestinal worm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parasitic worm (such as a tapeworm, liver fluke, ascarid, or leech); especially : an intestinal worm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helminthic designates a parasitic worm (such as a tapeworm, liver fluke, ascarid, or leech); especially : an intestinal worm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasitic worm (such as a tapeworm, liver fluke, ascarid, or leech); especially : an intestinal worm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parasitic worm (such as a tapeworm, liver fluke, ascarid, or leech); especially : an intestinal worm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helminthic designates a parasitic worm (such as a tapeworm, liver fluke, ascarid, or leech); especially : an intestinal worm."*

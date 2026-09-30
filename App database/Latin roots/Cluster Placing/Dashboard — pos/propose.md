@@ -5,15 +5,6 @@ status: unread
 ---
 # propose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a proposal, declare a plan for something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Present for consideration, examination, criticism, etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What to ourselves in passion we propose, The passion ending, doth the purpose lose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suppose that I am now my father’s mouth; Resign thy chair, and where I stand kneel thou, Whilst I propose the selfsame words to thee Which, traitor, thou wouldst have me answer to."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There will she hide her, To listen our propose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a proposal, declare a plan for something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Present for consideration, examination, criticism, etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What to ourselves in passion we propose, The passion ending, doth the purpose lose."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suppose that I am now my father’s mouth; Resign thy chair, and where I stand kneel thou, Whilst I propose the selfsame words to thee Which, traitor, thou wouldst have me answer to."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There will she hide her, To listen our propose."*

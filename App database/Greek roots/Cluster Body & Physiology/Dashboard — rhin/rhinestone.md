@@ -5,13 +5,6 @@ status: unread
 ---
 # rhinestone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An imitation diamond made from rock crystal or glass or paste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An imitation diamond made from rock crystal or glass or paste.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinestone designates an imitation diamond made from rock crystal or glass or paste."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An imitation diamond made from rock crystal or glass or paste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An imitation diamond made from rock crystal or glass or paste.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinestone designates an imitation diamond made from rock crystal or glass or paste."*

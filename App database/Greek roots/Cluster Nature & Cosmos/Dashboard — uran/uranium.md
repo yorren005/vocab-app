@@ -5,13 +5,6 @@ status: unread
 ---
 # uranium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A silvery heavy radioactive polyvalent metallic element that is found especially in uraninite and exists naturally as a mixture of mostly nonfissionable isotopes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A volatile compound UF6 of uranium and fluorine that is used in one major process of enriching uranium in uranium 235.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uranium designates a silvery heavy radioactive polyvalent metallic element that is found especially in uraninite and exists naturally as a mixture of mostly nonfissionable isotopes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A silvery heavy radioactive polyvalent metallic element that is found especially in uraninite and exists naturally as a mixture of mostly nonfissionable isotopes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A volatile compound UF6 of uranium and fluorine that is used in one major process of enriching uranium in uranium 235.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uranium designates a silvery heavy radioactive polyvalent metallic element that is found especially in uraninite and exists naturally as a mixture of mostly nonfissionable isotopes."*

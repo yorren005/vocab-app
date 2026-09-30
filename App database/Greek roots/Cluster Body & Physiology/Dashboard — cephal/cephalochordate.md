@@ -5,13 +5,6 @@ status: unread
 ---
 # cephalochordate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fish-like animals having a notochord rather than a true spinal column.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fish-like animals having a notochord rather than a true spinal column.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalochordate designates fish-like animals having a notochord rather than a true spinal column."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fish-like animals having a notochord rather than a true spinal column.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fish-like animals having a notochord rather than a true spinal column.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalochordate designates fish-like animals having a notochord rather than a true spinal column."*

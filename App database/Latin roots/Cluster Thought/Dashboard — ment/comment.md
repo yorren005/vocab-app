@@ -5,15 +5,6 @@ status: unread
 ---
 # comment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that expresses a personal opinion or belief or adds information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A written explanation or criticism or illustration that is added to a book or other textual material.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That this huge stage presenteth nought but shows Whereon the stars in secret influence comment."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I prithee, when thou see’st that act a-foot, Even with the very comment of thy soul Observe mine uncle."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Comment appelez-vous la main en anglais?_ ALICE. _La main?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that expresses a personal opinion or belief or adds information.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A written explanation or criticism or illustration that is added to a book or other textual material.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That this huge stage presenteth nought but shows Whereon the stars in secret influence comment."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I prithee, when thou see’st that act a-foot, Even with the very comment of thy soul Observe mine uncle."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Comment appelez-vous la main en anglais?_ ALICE. _La main?"*

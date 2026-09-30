@@ -5,15 +5,6 @@ status: unread
 ---
 # astonishing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affect with wonder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surprising greatly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am so accustomed and inured to hard work that I don’t know what fatigue is.” We murmured that it was very astonishing and very gratifying, or something to that effect."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"By heaven, he is the most astonishing bird in Europe!” replied the other."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And his father before him was one of the most astonishing birds that ever lived!” The subject of this laudation was a very little canary, who was so tame that he was brought down by Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affect with wonder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surprising greatly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I am so accustomed and inured to hard work that I don’t know what fatigue is.” We murmured that it was very astonishing and very gratifying, or something to that effect."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"By heaven, he is the most astonishing bird in Europe!” replied the other."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And his father before him was one of the most astonishing birds that ever lived!” The subject of this laudation was a very little canary, who was so tame that he was brought down by Mr."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # untangled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Release from entanglement of difficulty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become or cause to become undone by separating the fibers or threads of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"We untangled and made for the door."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"Sure-dart, catching the expression on the chief’s face, saw that it was a business now of taking care of themselves till the bloody human knot could be untangled."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Release from entanglement of difficulty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become or cause to become undone by separating the fibers or threads of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"We untangled and made for the door."*
+> - 📜 **F. H. Costello (*Sure-dart*):** *"Sure-dart, catching the expression on the chief’s face, saw that it was a business now of taking care of themselves till the bloody human knot could be untangled."*

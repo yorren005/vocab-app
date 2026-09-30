@@ -5,13 +5,6 @@ status: unread
 ---
 # chiropractic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of noninvasive therapy which holds that certain musculoskeletal disorders result from nervous system dysfunction arising from misalignment of the spine and joints and that focuses treatment especially on the manual adjustment or manipulation of the spinal vertebrae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of noninvasive therapy which holds that certain musculoskeletal disorders result from nervous system dysfunction arising from misalignment of the spine and joints and that focuses treatment especially on the manual adjustment or manipulation of the spinal vertebrae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiropractic designates a system of noninvasive therapy which holds that certain musculoskeletal disorders result from nervous system dysfunction arising from misalignment of the spine and joints and that focuses treatment especially on the manual adjustment or manipulation of the spinal vertebrae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of noninvasive therapy which holds that certain musculoskeletal disorders result from nervous system dysfunction arising from misalignment of the spine and joints and that focuses treatment especially on the manual adjustment or manipulation of the spinal vertebrae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of noninvasive therapy which holds that certain musculoskeletal disorders result from nervous system dysfunction arising from misalignment of the spine and joints and that focuses treatment especially on the manual adjustment or manipulation of the spinal vertebrae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiropractic designates a system of noninvasive therapy which holds that certain musculoskeletal disorders result from nervous system dysfunction arising from misalignment of the spine and joints and that focuses treatment especially on the manual adjustment or manipulation of the spinal vertebrae."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # intone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Utter monotonously and repetitively and rhythmically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recite with musical intonation; recite as a chant or a psalm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"M. le Curé stood up in the midst of us and began to intone the psalm: [He has a beautiful voice."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"When the Sacrament was replaced upon the altar, M. le Curé, perceiving our meaning, began at once in his noble voice to intone the _Te Deum_."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Lord, have mercy upon me;' and then songs without words--a sort of low intoning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Utter monotonously and repetitively and rhythmically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recite with musical intonation; recite as a chant or a psalm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"M. le Curé stood up in the midst of us and began to intone the psalm: [He has a beautiful voice."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"When the Sacrament was replaced upon the altar, M. le Curé, perceiving our meaning, began at once in his noble voice to intone the _Te Deum_."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Lord, have mercy upon me;' and then songs without words--a sort of low intoning."*

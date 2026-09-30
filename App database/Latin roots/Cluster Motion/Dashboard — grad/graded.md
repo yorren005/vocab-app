@@ -5,15 +5,6 @@ status: unread
 ---
 # graded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign a rank or rating to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Level to the right gradient.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It had the same long regularly graded retreating slope from above the brows, which were likewise very projecting, like two long promontories thickly wooded on top."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It had the same long regularly graded retreating slope from above the brows, which were likewise very projecting, like two long promontories thickly wooded on top."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"This man owns up that some may think a 2,000 calory ration is altogether too small, and he advises such to begin with 3,000 or even 3,500--graded, of course, according to a man's size, weight, and occupation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign a rank or rating to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Level to the right gradient.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It had the same long regularly graded retreating slope from above the brows, which were likewise very projecting, like two long promontories thickly wooded on top."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It had the same long regularly graded retreating slope from above the brows, which were likewise very projecting, like two long promontories thickly wooded on top."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"This man owns up that some may think a 2,000 calory ration is altogether too small, and he advises such to begin with 3,000 or even 3,500--graded, of course, according to a man's size, weight, and occupation."*

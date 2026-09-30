@@ -5,13 +5,6 @@ status: unread
 ---
 # salesperson
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person employed to represent a business and to sell its merchandise (as to customers in a store or to customers who are visited).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person employed to represent a business and to sell its merchandise (as to customers in a store or to customers who are visited).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salesperson designates a person employed to represent a business and to sell its merchandise (as to customers in a store or to customers who are visited)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person employed to represent a business and to sell its merchandise (as to customers in a store or to customers who are visited).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person employed to represent a business and to sell its merchandise (as to customers in a store or to customers who are visited).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salesperson designates a person employed to represent a business and to sell its merchandise (as to customers in a store or to customers who are visited)."*

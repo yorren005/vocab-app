@@ -5,15 +5,6 @@ status: unread
 ---
 # spectrum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ordered array of the components of an emission or wave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A broad range of related objects or values or qualities or ideas or activities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"In the solar spectrum, beyond the extreme red and extreme violet rays, are whole series of colours, demonstrable, but imperceptible to gross human vision."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"You know that ordinary white light is made up of a series of beautiful colours (the spectrum), which I show you here."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"The whole of those colours come off together, and that ribbon is white because the whole of the colours of the spectrum are reflected at the same moment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ordered array of the components of an emission or wave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A broad range of related objects or values or qualities or ideas or activities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"In the solar spectrum, beyond the extreme red and extreme violet rays, are whole series of colours, demonstrable, but imperceptible to gross human vision."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"You know that ordinary white light is made up of a series of beautiful colours (the spectrum), which I show you here."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"The whole of those colours come off together, and that ribbon is white because the whole of the colours of the spectrum are reflected at the same moment."*

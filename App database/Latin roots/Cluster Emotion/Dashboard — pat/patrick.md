@@ -5,15 +5,6 @@ status: unread
 ---
 # patrick
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apostle and patron saint of ireland; an english missionary to ireland in the 5th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apostle and patron saint of ireland; an english missionary to ireland in the 5th century.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, by Saint Patrick, but there is, Horatio, And much offence too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At Friar Patrick’s cell, Where I intend holy confession."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The sun begins to gild the western sky, And now it is about the very hour That Silvia at Friar Patrick’s cell should meet me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Apostle and patron saint of ireland; an english missionary to ireland in the 5th century.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apostle and patron saint of ireland; an english missionary to ireland in the 5th century.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, by Saint Patrick, but there is, Horatio, And much offence too."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At Friar Patrick’s cell, Where I intend holy confession."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The sun begins to gild the western sky, And now it is about the very hour That Silvia at Friar Patrick’s cell should meet me."*

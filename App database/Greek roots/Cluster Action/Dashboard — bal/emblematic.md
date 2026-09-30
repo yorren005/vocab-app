@@ -5,14 +5,6 @@ status: unread
 ---
 # emblematic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or constituting an emblem : symbolic, representative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or constituting an emblem : symbolic, representative.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"This instrument, however, might perhaps have been emblematic of his double functions."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"This humble stone Stands emblematic of their union."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or constituting an emblem : symbolic, representative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or constituting an emblem : symbolic, representative.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"This instrument, however, might perhaps have been emblematic of his double functions."*
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"This humble stone Stands emblematic of their union."*

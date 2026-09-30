@@ -5,15 +5,6 @@ status: unread
 ---
 # circumscribe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw a line around.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restrict or confine,.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The dreariness and desolation of the landscape, the short gloomy days and darksome nights, while they circumscribe our wanderings, shut in our feelings also from rambling abroad, and make us more keenly disposed for the pleasure of the social circle."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"But even that did not circumscribe the rich grave look of grounds and house."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Here is the change beginning, here the lines Circumscribe beauty, set to bliss The limit time assigns.” 13."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw a line around.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restrict or confine,.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The dreariness and desolation of the landscape, the short gloomy days and darksome nights, while they circumscribe our wanderings, shut in our feelings also from rambling abroad, and make us more keenly disposed for the pleasure of the social circle."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"But even that did not circumscribe the rich grave look of grounds and house."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Here is the change beginning, here the lines Circumscribe beauty, set to bliss The limit time assigns.” 13."*

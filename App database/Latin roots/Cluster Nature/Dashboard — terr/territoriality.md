@@ -5,13 +5,6 @@ status: unread
 ---
 # territoriality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The behavior of a male animal that defines and defends its territory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The behavior of a male animal that defines and defends its territory.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, territoriality designates the behavior of a male animal that defines and defends its territory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The behavior of a male animal that defines and defends its territory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The behavior of a male animal that defines and defends its territory.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, territoriality designates the behavior of a male animal that defines and defends its territory."*

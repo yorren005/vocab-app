@@ -5,15 +5,6 @@ status: unread
 ---
 # rigidly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rigid manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rigid manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The trooper raising his head, she makes another poke at her esteemed grandfather, and having thus brought them together, stares rigidly at the fire."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She locked her fingers, threw back her head, and strained her hot hands rigidly across her forehead, saying, with a hysterical sob, “Would to God you would speak and tell me your secret, Fanny!..."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her brow had heavily contracted; her whole face was pallid, her lips apart, her eyes rigidly staring at their visitor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rigid manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rigid manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The trooper raising his head, she makes another poke at her esteemed grandfather, and having thus brought them together, stares rigidly at the fire."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She locked her fingers, threw back her head, and strained her hot hands rigidly across her forehead, saying, with a hysterical sob, “Would to God you would speak and tell me your secret, Fanny!..."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her brow had heavily contracted; her whole face was pallid, her lips apart, her eyes rigidly staring at their visitor."*

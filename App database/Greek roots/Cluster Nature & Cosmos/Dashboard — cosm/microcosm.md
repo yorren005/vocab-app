@@ -5,15 +5,6 @@ status: unread
 ---
 # microcosm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A little world; especially : the human race or human nature seen as an epitome of the world or the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A community or other unity that is an epitome of a larger unity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you see this in the map of my microcosm, follows it that I am known well enough too?"*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"If her world is a microcosm, the cosmic quality of it is at least as eminent as the littleness."*
-> - 📜 **James Joyce (*Ulysses*):** *"On that mystery and not on the madonna which the cunning Italian intellect flung to the mob of Europe the church is founded and founded irremovably because founded, like the world, macro and microcosm, upon the void."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A little world; especially : the human race or human nature seen as an epitome of the world or the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A community or other unity that is an epitome of a larger unity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you see this in the map of my microcosm, follows it that I am known well enough too?"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"If her world is a microcosm, the cosmic quality of it is at least as eminent as the littleness."*
+> - 📜 **James Joyce (*Ulysses*):** *"On that mystery and not on the madonna which the cunning Italian intellect flung to the mob of Europe the church is founded and founded irremovably because founded, like the world, macro and microcosm, upon the void."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # irascible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Quickly aroused to anger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by anger.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Wrench was a small, neat, bilious man, with a well-dressed wig: he had a laborious practice, an irascible temper, a lymphatic wife and seven children; and he was already rather late before setting out on a four-miles drive to meet Dr."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like some poor devils ashore that happen to know an irascible great man, they make distant unobtrusive salutations to him in the street, lest if they pursued the acquaintance further, they might receive a summary thump for their presumption."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The suddenness of his arrest and the outrage offered to his sovereign dignity so preyed upon the irascible feelings of this proud savage as to throw him into a raging fever."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Quickly aroused to anger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by anger.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Wrench was a small, neat, bilious man, with a well-dressed wig: he had a laborious practice, an irascible temper, a lymphatic wife and seven children; and he was already rather late before setting out on a four-miles drive to meet Dr."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like some poor devils ashore that happen to know an irascible great man, they make distant unobtrusive salutations to him in the street, lest if they pursued the acquaintance further, they might receive a summary thump for their presumption."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The suddenness of his arrest and the outrage offered to his sovereign dignity so preyed upon the irascible feelings of this proud savage as to throw him into a raging fever."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # pyroscope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pyrometer that uses the color of the light emitted by a hot object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pyrometer that uses the color of the light emitted by a hot object.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyroscope designates a pyrometer that uses the color of the light emitted by a hot object."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pyrometer that uses the color of the light emitted by a hot object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pyrometer that uses the color of the light emitted by a hot object.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyroscope designates a pyrometer that uses the color of the light emitted by a hot object."*

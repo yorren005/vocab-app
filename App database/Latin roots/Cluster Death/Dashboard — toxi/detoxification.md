@@ -5,13 +5,6 @@ status: unread
 ---
 # detoxification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A treatment for addiction to drugs or alcohol intended to remove the physiological effects of the addictive substances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treatment for poisoning by neutralizing the toxic properties (normally a function of the liver).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detoxification designates a treatment for addiction to drugs or alcohol intended to remove the physiological effects of the addictive substances."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A treatment for addiction to drugs or alcohol intended to remove the physiological effects of the addictive substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treatment for poisoning by neutralizing the toxic properties (normally a function of the liver).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detoxification designates a treatment for addiction to drugs or alcohol intended to remove the physiological effects of the addictive substances."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # ruinously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a ruinous manner or to a ruinous degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a ruinous manner or to a ruinous degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But this incurable loitering beside Bathsheba Everdene stole his time ruinously."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But this incurable loitering beside Bathsheba Everdene stole his time ruinously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a ruinous manner or to a ruinous degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a ruinous manner or to a ruinous degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But this incurable loitering beside Bathsheba Everdene stole his time ruinously."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But this incurable loitering beside Bathsheba Everdene stole his time ruinously."*

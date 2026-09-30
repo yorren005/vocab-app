@@ -5,13 +5,6 @@ status: unread
 ---
 # typos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An error (as of spelling) in typed or typeset material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An error (as of spelling) in typed or typeset material.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, typos designates an error (as of spelling) in typed or typeset material."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An error (as of spelling) in typed or typeset material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An error (as of spelling) in typed or typeset material.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, typos designates an error (as of spelling) in typed or typeset material."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # constantinople
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest city and former capital of turkey; rebuilt on the site of ancient byzantium by constantine i in the fourth century; renamed constantinople by constantine who made it the capital of the byzantine empire; now the seat of the eastern orthodox church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The council in 869 that condemned photius who had become the patriarch of constantinople without approval from the vatican, thereby precipitating the schism between the eastern and western churches.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall not thou and I, between Saint Denis and Saint George, compound a boy, half French, half English, that shall go to Constantinople and take the Turk by the beard?"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I remembered when Constantine repented for reasons of state and policy and commanded Alexander—the other Alexander, thrice cursed, Bishop of Constantinople—to receive Arius into communion on the morrow."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But I said, and so said all we Arians, that the violent sickness was due to a poison, and that the poison was due to Alexander himself, Bishop of Constantinople and devil’s poisoner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest city and former capital of turkey; rebuilt on the site of ancient byzantium by constantine i in the fourth century; renamed constantinople by constantine who made it the capital of the byzantine empire; now the seat of the eastern orthodox church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The council in 869 that condemned photius who had become the patriarch of constantinople without approval from the vatican, thereby precipitating the schism between the eastern and western churches.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall not thou and I, between Saint Denis and Saint George, compound a boy, half French, half English, that shall go to Constantinople and take the Turk by the beard?"*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I remembered when Constantine repented for reasons of state and policy and commanded Alexander—the other Alexander, thrice cursed, Bishop of Constantinople—to receive Arius into communion on the morrow."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But I said, and so said all we Arians, that the violent sickness was due to a poison, and that the poison was due to Alexander himself, Bishop of Constantinople and devil’s poisoner."*

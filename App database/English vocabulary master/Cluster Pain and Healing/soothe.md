@@ -5,20 +5,6 @@ status: unread
 ---
 # soothe
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Relieve, alleviate
-> 2. **Nuance / Usage**: Bring comfort, solace, or reassurance to
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to soothe the target*) and intransitive clauses (*soothing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"attempt to reason with or soothe her would only increase the irritation."*
-> - 📜 **George Eliot (*Middlemarch*):** *"the next hour he did nothing but soothe and tend her."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"on his arm as if that touch might soothe or rouse him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Relieve, alleviate
+> 2. **Nuance / Usage**: Bring comfort, solace, or reassurance to
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to soothe the target*) and intransitive clauses (*soothing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"attempt to reason with or soothe her would only increase the irritation."*
+> - 📜 **George Eliot (*Middlemarch*):** *"the next hour he did nothing but soothe and tend her."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"on his arm as if that touch might soothe or rouse him."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # attentive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (often followed by `to') giving care or attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking heed; giving close and thoughtful attention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear him, lords, And be you silent and attentive too, For he that interrupts him shall not live."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reason is, your spirits are attentive."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The hour’s now come, The very minute bids thee ope thine ear; Obey, and be attentive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (often followed by `to') giving care or attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking heed; giving close and thoughtful attention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear him, lords, And be you silent and attentive too, For he that interrupts him shall not live."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reason is, your spirits are attentive."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The hour’s now come, The very minute bids thee ope thine ear; Obey, and be attentive."*

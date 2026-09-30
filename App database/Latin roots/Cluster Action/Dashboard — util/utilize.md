@@ -5,15 +5,6 @@ status: unread
 ---
 # utilize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into service; make work or employ for a particular purpose or for its inherent or natural purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert (from an investment trust to a unit trust).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"In the third place, we can utilize the new experiments made upon Jesus Christ in the Reformation and in other revivals."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Such resources will be available, proportionately, from the Common Reserve in conformance with a nation's or government's verified needs and technological capabilities to utilize the resources for peaceful and beneficial purposes."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"In fact, the painstaking effort to utilize every bit of soil was tragic to American eyes, accustomed to long stretches of countryside awaiting the plough."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into service; make work or employ for a particular purpose or for its inherent or natural purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert (from an investment trust to a unit trust).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"In the third place, we can utilize the new experiments made upon Jesus Christ in the Reformation and in other revivals."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Such resources will be available, proportionately, from the Common Reserve in conformance with a nation's or government's verified needs and technological capabilities to utilize the resources for peaceful and beneficial purposes."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"In fact, the painstaking effort to utilize every bit of soil was tragic to American eyes, accustomed to long stretches of countryside awaiting the plough."*

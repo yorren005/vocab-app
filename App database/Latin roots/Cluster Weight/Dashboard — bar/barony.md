@@ -5,15 +5,6 @@ status: unread
 ---
 # barony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The estate of a baron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rank or dignity or position of a baronet or baroness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I’ll tell you what: If my young lord your son have not the day, Upon mine honour, for a silken point I’ll give my barony, never talk of it."*
-> - 📜 **James Joyce (*Ulysses*):** *"Demesne situate in the townland of Rosenallis, barony of Tinnahinch."*
-> - 📜 **James Joyce (*Ulysses*):** *"Those were old worldish days, loyal times in joyous townlands, old times in the barony."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The estate of a baron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rank or dignity or position of a baronet or baroness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I’ll tell you what: If my young lord your son have not the day, Upon mine honour, for a silken point I’ll give my barony, never talk of it."*
+> - 📜 **James Joyce (*Ulysses*):** *"Demesne situate in the townland of Rosenallis, barony of Tinnahinch."*
+> - 📜 **James Joyce (*Ulysses*):** *"Those were old worldish days, loyal times in joyous townlands, old times in the barony."*

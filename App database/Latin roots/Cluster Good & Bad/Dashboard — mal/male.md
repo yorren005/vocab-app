@@ -5,15 +5,6 @@ status: unread
 ---
 # male
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal that produces gametes (spermatozoa) that can fertilize female gametes (ova).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who belongs to the sex that cannot have babies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That very hour, and in the self-same inn, A mean woman was delivered Of such a burden, male twins, both alike."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is no more mercy in him than there is milk in a male tiger."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So the son of the female is the shadow of the male."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal that produces gametes (spermatozoa) that can fertilize female gametes (ova).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who belongs to the sex that cannot have babies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That very hour, and in the self-same inn, A mean woman was delivered Of such a burden, male twins, both alike."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is no more mercy in him than there is milk in a male tiger."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So the son of the female is the shadow of the male."*

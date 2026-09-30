@@ -5,13 +5,6 @@ status: unread
 ---
 # apothecium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spore-bearing structure in many lichens and fungi consisting of a discoid or cupped body bearing asci on the exposed flat or concave surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spore-bearing structure in many lichens and fungi consisting of a discoid or cupped body bearing asci on the exposed flat or concave surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apothecium designates a spore-bearing structure in many lichens and fungi consisting of a discoid or cupped body bearing asci on the exposed flat or concave surface."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spore-bearing structure in many lichens and fungi consisting of a discoid or cupped body bearing asci on the exposed flat or concave surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spore-bearing structure in many lichens and fungi consisting of a discoid or cupped body bearing asci on the exposed flat or concave surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apothecium designates a spore-bearing structure in many lichens and fungi consisting of a discoid or cupped body bearing asci on the exposed flat or concave surface."*

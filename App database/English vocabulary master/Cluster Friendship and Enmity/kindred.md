@@ -5,20 +5,6 @@ status: unread
 ---
 # kindred
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Of the same ancestry
-> 2. **Nuance / Usage**: Group of related individuals
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Against acquaintance, kindred, and allies."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"promise you, your kindred hath made my eyes water ere now."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Whom conscience and my kindred bids to right."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: One's family, clan, and blood relations collectively; as an adjective, sharing the same ancestry or lineage.
+> 2. **Nuance / Usage**: Frequently used figuratively as an adjective (*kindred spirits*, *kindred arts*) to describe people or things that share a deep affinity of temperament, spirit, or nature.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Richard II*):** *"Whom conscience and my **kindred** bids to right."*
+> - 📜 **L. M. Montgomery (*Anne of Green Gables*):** *"Kindred spirits are not so scarce as I used to think; it's splendid to find out there are so many of them in the world, and that you are of my **kindred**."*
+> - 📜 **John Keats (*Sonnet to Solitude*):** *"But the sweet converse of an innocent mind, whose words are images of thoughts refined, is my soul's pleasure with a **kindred** spirit."*

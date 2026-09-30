@@ -5,13 +5,6 @@ status: unread
 ---
 # tragedienne
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An actress who specializes in tragic roles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An actress who specializes in tragic roles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tragedienne designates an actress who specializes in tragic roles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An actress who specializes in tragic roles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An actress who specializes in tragic roles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tragedienne designates an actress who specializes in tragic roles."*

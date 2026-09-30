@@ -5,15 +5,6 @@ status: unread
 ---
 # revolutionary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radical supporter of political or social revolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Markedly new or introducing radical change.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He entertains religious convictions of a curious kind; but, as the man is quite free from revolutionary sentiments, I have never considered it to be my duty to interfere with him, or to investigate his creed."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In many places the resulting changes were revolutionary."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Contemptuous of authority, he had gone his own way, spending pocket-money on revolutionary literature, trying to raise ghosts, and dabbling in chemical experiments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radical supporter of political or social revolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Markedly new or introducing radical change.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He entertains religious convictions of a curious kind; but, as the man is quite free from revolutionary sentiments, I have never considered it to be my duty to interfere with him, or to investigate his creed."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In many places the resulting changes were revolutionary."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Contemptuous of authority, he had gone his own way, spending pocket-money on revolutionary literature, trying to raise ghosts, and dabbling in chemical experiments."*

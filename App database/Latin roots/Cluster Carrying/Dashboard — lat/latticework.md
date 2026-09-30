@@ -5,13 +5,6 @@ status: unread
 ---
 # latticework
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Framework consisting of an ornamental design made of strips of wood or metal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Framework consisting of an ornamental design made of strips of wood or metal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latticework designates framework consisting of an ornamental design made of strips of wood or metal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Framework consisting of an ornamental design made of strips of wood or metal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Framework consisting of an ornamental design made of strips of wood or metal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latticework designates framework consisting of an ornamental design made of strips of wood or metal."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # spore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A primitive usually unicellular often environmentally resistant dormant or reproductive body produced by plants, fungi, and some microorganisms and capable of development into a new individual either directly or after fusion with another spore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To produce or reproduce by spores.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Withering observed the spore-spots on the leaves of the mountain-ash, but was evidently puzzled to account for them."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spore spots of cluster-cups are generally found upon the under surfaces of the leaves on which they are produced, and the spermogones are most numerous on the upper."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spore then emits a curved and obtuse tube, which soon ceasing to elongate itself, gives origin to three or four sporidia, of a reniform or kidney shape."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A primitive usually unicellular often environmentally resistant dormant or reproductive body produced by plants, fungi, and some microorganisms and capable of development into a new individual either directly or after fusion with another spore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To produce or reproduce by spores.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Withering observed the spore-spots on the leaves of the mountain-ash, but was evidently puzzled to account for them."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spore spots of cluster-cups are generally found upon the under surfaces of the leaves on which they are produced, and the spermogones are most numerous on the upper."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spore then emits a curved and obtuse tube, which soon ceasing to elongate itself, gives origin to three or four sporidia, of a reniform or kidney shape."*

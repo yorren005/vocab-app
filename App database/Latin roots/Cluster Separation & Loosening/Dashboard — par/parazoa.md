@@ -5,13 +5,6 @@ status: unread
 ---
 # parazoa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Multicellular organisms having less-specialized cells than in the metazoa; comprises the single phylum porifera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive multicellular marine animal whose porous body is supported by a fibrous skeletal framework; usually occurs in sessile colonies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parazoa designates multicellular organisms having less-specialized cells than in the metazoa; comprises the single phylum porifera."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Multicellular organisms having less-specialized cells than in the metazoa; comprises the single phylum porifera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive multicellular marine animal whose porous body is supported by a fibrous skeletal framework; usually occurs in sessile colonies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parazoa designates multicellular organisms having less-specialized cells than in the metazoa; comprises the single phylum porifera."*

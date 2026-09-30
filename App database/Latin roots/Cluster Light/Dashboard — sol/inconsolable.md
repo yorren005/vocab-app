@@ -5,15 +5,6 @@ status: unread
 ---
 # inconsolable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sad beyond comforting; incapable of being consoled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sad beyond comforting; incapable of being consoled.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy and his inconsolable friend that there is no end to the Dedlocks, whose family greatness seems to consist in their never having done anything to distinguish themselves for seven hundred years."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket sits concealed in one of the inconsolable carriages and at his ease surveys the crowd through the lattice blinds."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Was he so very fond of his brother as to be still inconsolable for his loss?” “Why, no—perhaps not."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sad beyond comforting; incapable of being consoled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sad beyond comforting; incapable of being consoled.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy and his inconsolable friend that there is no end to the Dedlocks, whose family greatness seems to consist in their never having done anything to distinguish themselves for seven hundred years."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket sits concealed in one of the inconsolable carriages and at his ease surveys the crowd through the lattice blinds."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Was he so very fond of his brother as to be still inconsolable for his loss?” “Why, no—perhaps not."*

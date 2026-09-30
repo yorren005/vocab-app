@@ -5,15 +5,6 @@ status: unread
 ---
 # ransacking
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thorough search for something (often causing disorder or confusion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Steal goods; take as spoils.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The bastard Faulconbridge Is now in England ransacking the church, Offending charity."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"By-and-by, when I happened to be ransacking one of the bags, I came across half a dozen pounds or more of old iron tied up in a white cloth."*
-> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"Gracewood in the act of ransacking his bed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thorough search for something (often causing disorder or confusion).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Steal goods; take as spoils.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The bastard Faulconbridge Is now in England ransacking the church, Offending charity."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"By-and-by, when I happened to be ransacking one of the bags, I came across half a dozen pounds or more of old iron tied up in a white cloth."*
+> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"Gracewood in the act of ransacking his bed."*

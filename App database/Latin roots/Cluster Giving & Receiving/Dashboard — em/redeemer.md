@@ -5,15 +5,6 @@ status: unread
 ---
 # redeemer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A teacher and prophet born in bethlehem and active in nazareth; his life and sermons form the basis for christianity (circa 4 bc - ad 29).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who redeems or buys back (promissory notes or merchandise or commercial paper etc.).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I every day expect an embassage From my Redeemer, to redeem me hence; And more at peace my soul shall part to heaven Since I have made my friends at peace on earth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when your carters or your waiting vassals Have done a drunken slaughter, and defaced The precious image of our dear Redeemer, You straight are on your knees for pardon, pardon, And I, unjustly too, must grant it you."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I could go back and be his comforter—his pride; his redeemer from misery, perhaps from ruin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A teacher and prophet born in bethlehem and active in nazareth; his life and sermons form the basis for christianity (circa 4 bc - ad 29).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who redeems or buys back (promissory notes or merchandise or commercial paper etc.).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I every day expect an embassage From my Redeemer, to redeem me hence; And more at peace my soul shall part to heaven Since I have made my friends at peace on earth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when your carters or your waiting vassals Have done a drunken slaughter, and defaced The precious image of our dear Redeemer, You straight are on your knees for pardon, pardon, And I, unjustly too, must grant it you."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I could go back and be his comforter—his pride; his redeemer from misery, perhaps from ruin."*

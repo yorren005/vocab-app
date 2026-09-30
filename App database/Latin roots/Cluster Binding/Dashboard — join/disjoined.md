@@ -5,13 +5,6 @@ status: unread
 ---
 # disjoined
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make disjoint, separated, or disconnected; undo the joining of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become separated, disconnected or disjoint.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The last link between the midsummer customs of gathering the mistletoe and lighting the bonfires is supplied by Balder's myth, which can hardly be disjoined from the customs in question."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make disjoint, separated, or disconnected; undo the joining of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become separated, disconnected or disjoint.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The last link between the midsummer customs of gathering the mistletoe and lighting the bonfires is supplied by Balder's myth, which can hardly be disjoined from the customs in question."*

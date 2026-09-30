@@ -5,13 +5,6 @@ status: unread
 ---
 # dive-bomb
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bomb from a diving airplane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bomb from a diving airplane.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dive-bomb designates bomb from a diving airplane."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bomb from a diving airplane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bomb from a diving airplane.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dive-bomb designates bomb from a diving airplane."*

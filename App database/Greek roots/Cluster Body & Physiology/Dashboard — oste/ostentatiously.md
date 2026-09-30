@@ -5,15 +5,6 @@ status: unread
 ---
 # ostentatiously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With ostentation; in an ostentatious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With ostentation; in an ostentatious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"To this gentleman, Stubb was now politely introduced by the Guernsey-man, who at once ostentatiously put on the aspect of interpreting between them."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"While the Frenchman’s boats, then, were engaged in towing the ship one way, Stubb benevolently towed away at his whale the other way, ostentatiously slacking out a most unusually long tow-line."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The other three men were marked about the arms and breasts with several slight wounds, which they somewhat ostentatiously displayed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With ostentation; in an ostentatious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With ostentation; in an ostentatious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"To this gentleman, Stubb was now politely introduced by the Guernsey-man, who at once ostentatiously put on the aspect of interpreting between them."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"While the Frenchman’s boats, then, were engaged in towing the ship one way, Stubb benevolently towed away at his whale the other way, ostentatiously slacking out a most unusually long tow-line."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The other three men were marked about the arms and breasts with several slight wounds, which they somewhat ostentatiously displayed."*

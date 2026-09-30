@@ -5,15 +5,6 @@ status: unread
 ---
 # dominoes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several games played with small rectangular blocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states rhythm and blues pianist and singer and composer (born in 1928).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The Accountant had brought out already a box of dominoes, and was toying architecturally with the bones."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"For some reason or other we did not begin that game of dominoes."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"On the other hand, I never pretended to offer such literature as should be a substitute for a cigar or a game at dominoes to an idle man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several games played with small rectangular blocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states rhythm and blues pianist and singer and composer (born in 1928).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The Accountant had brought out already a box of dominoes, and was toying architecturally with the bones."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"For some reason or other we did not begin that game of dominoes."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"On the other hand, I never pretended to offer such literature as should be a substitute for a cigar or a game at dominoes to an idle man."*

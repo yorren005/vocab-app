@@ -5,15 +5,6 @@ status: unread
 ---
 # basin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bowl-shaped vessel; usually used for holding food or liquids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantity that a basin will hold.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sly is discovered in a rich nightgown, with Attendants: some with apparel, basin, ewer, and other appurtenances; and Lord, dressed like a servant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will’t please your mightiness to wash your hands? [_Servants present a ewer, basin and napkin._] O, how we joy to see your wit restor’d!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I dreamt of a silver basin and ewer tonight.—Flaminius, honest Flaminius, you are very respectively welcome, sir."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bowl-shaped vessel; usually used for holding food or liquids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantity that a basin will hold.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sly is discovered in a rich nightgown, with Attendants: some with apparel, basin, ewer, and other appurtenances; and Lord, dressed like a servant."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will’t please your mightiness to wash your hands? [_Servants present a ewer, basin and napkin._] O, how we joy to see your wit restor’d!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I dreamt of a silver basin and ewer tonight.—Flaminius, honest Flaminius, you are very respectively welcome, sir."*

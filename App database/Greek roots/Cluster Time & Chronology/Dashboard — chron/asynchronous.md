@@ -5,13 +5,6 @@ status: unread
 ---
 # asynchronous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not simultaneous or concurrent in time : not synchronous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, used in, or being digital communication (as between computers) in which there is no timing requirement for transmission and in which the start of each character is individually signaled by the transmitting device.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asynchronous designates not simultaneous or concurrent in time : not synchronous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not simultaneous or concurrent in time : not synchronous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, used in, or being digital communication (as between computers) in which there is no timing requirement for transmission and in which the start of each character is individually signaled by the transmitting device.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asynchronous designates not simultaneous or concurrent in time : not synchronous."*

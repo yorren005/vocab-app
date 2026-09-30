@@ -5,15 +5,6 @@ status: unread
 ---
 # classical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Traditional genre of music conforming to an established form and appealing to critical interest and developed musical taste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the most highly developed stage of an earlier civilisation and its culture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was a sort of celestial person, who owed her being to poetry—one of those classical divinities Clare was accustomed to talk to her about when they took their walks together."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Inglis, who was consulted in the matter, also pronounced strongly for the proposal, and so John was allowed to begin his classical studies."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"After he did so, his interest in John's classical studies was constant and helpful; and, although he gave him no direct assistance in them (if he had done so, he would have called down upon himself the wrath of Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Traditional genre of music conforming to an established form and appealing to critical interest and developed musical taste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the most highly developed stage of an earlier civilisation and its culture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was a sort of celestial person, who owed her being to poetry—one of those classical divinities Clare was accustomed to talk to her about when they took their walks together."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Inglis, who was consulted in the matter, also pronounced strongly for the proposal, and so John was allowed to begin his classical studies."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"After he did so, his interest in John's classical studies was constant and helpful; and, although he gave him no direct assistance in them (if he had done so, he would have called down upon himself the wrath of Mr."*

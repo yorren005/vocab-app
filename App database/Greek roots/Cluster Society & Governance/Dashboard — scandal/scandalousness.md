@@ -5,13 +5,6 @@ status: unread
 ---
 # scandalousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disgracefulness that offends public morality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disgracefulness that offends public morality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scandalousness designates disgracefulness that offends public morality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disgracefulness that offends public morality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disgracefulness that offends public morality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scandalousness designates disgracefulness that offends public morality."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # intimate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone to whom private matters are confided.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give to understand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou this to hazard needs must intimate Skill infinite, or monstrous desperate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, your father here doth intimate The payment of a hundred thousand crowns, Being but the one half of an entire sum Disbursed by my father in his wars."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And the spirit of humours intimate reading aloud to him!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone to whom private matters are confided.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give to understand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou this to hazard needs must intimate Skill infinite, or monstrous desperate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, your father here doth intimate The payment of a hundred thousand crowns, Being but the one half of an entire sum Disbursed by my father in his wars."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And the spirit of humours intimate reading aloud to him!"*

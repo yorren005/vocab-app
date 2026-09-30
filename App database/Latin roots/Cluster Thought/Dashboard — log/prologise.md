@@ -5,13 +5,6 @@ status: unread
 ---
 # prologise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Write or speak a prologue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Write or speak a prologue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prologise designates write or speak a prologue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Write or speak a prologue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Write or speak a prologue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prologise designates write or speak a prologue."*

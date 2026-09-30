@@ -5,13 +5,6 @@ status: unread
 ---
 # pacesetter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A leading instance in its field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A horse used to set the pace in racing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pacesetter designates a leading instance in its field."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A leading instance in its field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A horse used to set the pace in racing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pacesetter designates a leading instance in its field."*

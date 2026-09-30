@@ -5,13 +5,6 @@ status: unread
 ---
 # thrombocyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tiny bits of protoplasm found in vertebrate blood; essential for blood clotting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tiny bits of protoplasm found in vertebrate blood; essential for blood clotting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombocyte designates tiny bits of protoplasm found in vertebrate blood; essential for blood clotting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tiny bits of protoplasm found in vertebrate blood; essential for blood clotting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tiny bits of protoplasm found in vertebrate blood; essential for blood clotting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombocyte designates tiny bits of protoplasm found in vertebrate blood; essential for blood clotting."*

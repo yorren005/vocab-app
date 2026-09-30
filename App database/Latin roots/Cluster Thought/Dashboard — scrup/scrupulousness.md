@@ -5,15 +5,6 @@ status: unread
 ---
 # scrupulousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conformity to high standards of ethics or excellence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strict attention to minute details.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Every see-saw of her breath, every wave of her blood, every pulse singing in her ears, was a voice that joined with nature in revolt against her scrupulousness."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The reflection that the fate of a fellow-creature depended on his sole fiat, would naturally inspire scrupulousness and caution; the dread of being accused of weakness or connivance, would beget equal circumspection, though of a different kind."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"He dressed neatly, ate abundantly, fasted with much scrupulousness during Lent, and loved the Virgin del Pilar with a fanatical sort of family affection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conformity to high standards of ethics or excellence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strict attention to minute details.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Every see-saw of her breath, every wave of her blood, every pulse singing in her ears, was a voice that joined with nature in revolt against her scrupulousness."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The reflection that the fate of a fellow-creature depended on his sole fiat, would naturally inspire scrupulousness and caution; the dread of being accused of weakness or connivance, would beget equal circumspection, though of a different kind."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"He dressed neatly, ate abundantly, fasted with much scrupulousness during Lent, and loved the Virgin del Pilar with a fanatical sort of family affection."*

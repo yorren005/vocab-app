@@ -5,13 +5,6 @@ status: unread
 ---
 # theurgy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or technique of compelling or persuading a god or beneficent or supernatural power to do or refrain from doing something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or technique of compelling or persuading a god or beneficent or supernatural power to do or refrain from doing something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Groups of people endeavoured to combine Christianity with the old thought, with philosophy, theosophy, theurgy, and magic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or technique of compelling or persuading a god or beneficent or supernatural power to do or refrain from doing something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or technique of compelling or persuading a god or beneficent or supernatural power to do or refrain from doing something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Groups of people endeavoured to combine Christianity with the old thought, with philosophy, theosophy, theurgy, and magic."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # segregate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is or has been segregated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separate by race or religion; practice a policy of racial segregation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Men given to retirement and abstract study are notoriously liable to contract a certain degree of childlikeness: and if this be the case when we segregate a man, how much more when we segregate a child!"*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Why are we segregating these two groups in the first place?"*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"But liberal white margins are far more potent in attracting attention and in segregating an advertisement from mixed company than solid blacks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is or has been segregated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separate by race or religion; practice a policy of racial segregation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Men given to retirement and abstract study are notoriously liable to contract a certain degree of childlikeness: and if this be the case when we segregate a man, how much more when we segregate a child!"*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Why are we segregating these two groups in the first place?"*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"But liberal white margins are far more potent in attracting attention and in segregating an advertisement from mixed company than solid blacks."*

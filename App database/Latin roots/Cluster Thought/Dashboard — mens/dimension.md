@@ -5,15 +5,6 @@ status: unread
 ---
 # dimension
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The magnitude of something in a particular direction (especially length or width or height).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A construct whereby objects or individuals can be distinguished.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A spirit I am indeed, But am in that dimension grossly clad, Which from the womb I did participate."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess was no insignificant creature to toy with and dismiss; but a woman living her precious life—a life which, to herself who endured or enjoyed it, possessed as great a dimension as the life of the mightiest to himself."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Rings of laser arrays along the edge of the Extractor's hopper flashed alive and focused their beams on a large, slowly tumbling planetoid hundreds of kilometers across its minor dimension."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The magnitude of something in a particular direction (especially length or width or height).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A construct whereby objects or individuals can be distinguished.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A spirit I am indeed, But am in that dimension grossly clad, Which from the womb I did participate."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess was no insignificant creature to toy with and dismiss; but a woman living her precious life—a life which, to herself who endured or enjoyed it, possessed as great a dimension as the life of the mightiest to himself."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Rings of laser arrays along the edge of the Extractor's hopper flashed alive and focused their beams on a large, slowly tumbling planetoid hundreds of kilometers across its minor dimension."*

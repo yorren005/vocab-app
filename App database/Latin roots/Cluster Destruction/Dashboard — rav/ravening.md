@@ -5,15 +5,6 @@ status: unread
 ---
 # ravening
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtain or seize by violence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prey on or hunt for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cloyed will— That satiate yet unsatisfied desire, that tub Both fill’d and running—ravening first the lamb, Longs after for the garbage."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beautiful tyrant, fiend angelical, Dove-feather’d raven, wolvish-ravening lamb!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"His wretched refuge, dark despair, While ravening wrongs and woes pursue, And distant far the faithful few Who would his sorrows share."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtain or seize by violence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prey on or hunt for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cloyed will— That satiate yet unsatisfied desire, that tub Both fill’d and running—ravening first the lamb, Longs after for the garbage."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beautiful tyrant, fiend angelical, Dove-feather’d raven, wolvish-ravening lamb!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"His wretched refuge, dark despair, While ravening wrongs and woes pursue, And distant far the faithful few Who would his sorrows share."*

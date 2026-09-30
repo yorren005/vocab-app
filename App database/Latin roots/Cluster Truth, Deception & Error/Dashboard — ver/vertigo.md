@@ -5,13 +5,6 @@ status: unread
 ---
 # vertigo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reeling sensation; a feeling that you are about to fall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reeling sensation; a feeling that you are about to fall.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I think you have tonight." "Do you care for no one but yourself?" he flung at her in his vertigo of humiliation and anger."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reeling sensation; a feeling that you are about to fall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reeling sensation; a feeling that you are about to fall.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"I think you have tonight." "Do you care for no one but yourself?" he flung at her in his vertigo of humiliation and anger."*

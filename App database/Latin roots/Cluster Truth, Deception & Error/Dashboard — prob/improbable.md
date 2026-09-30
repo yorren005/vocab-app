@@ -5,15 +5,6 @@ status: unread
 ---
 # improbable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not likely to be true or to occur or to have occurred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a probability too low to inspire belief.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If this were played upon a stage now, I could condemn it as an improbable fiction."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, Jo’s improbable story concerning the lady and the sovereign has awakened more or less the curiosity of all the company."*
-> - 📜 **Jane Austen (*Persuasion*):** *"If there is anything in my story which you know to be either false or improbable, stop me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not likely to be true or to occur or to have occurred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a probability too low to inspire belief.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If this were played upon a stage now, I could condemn it as an improbable fiction."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, Jo’s improbable story concerning the lady and the sovereign has awakened more or less the curiosity of all the company."*
+> - 📜 **Jane Austen (*Persuasion*):** *"If there is anything in my story which you know to be either false or improbable, stop me."*

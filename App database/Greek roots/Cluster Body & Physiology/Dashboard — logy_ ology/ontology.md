@@ -5,15 +5,6 @@ status: unread
 ---
 # ontology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer science) a rigorous and exhaustive organization of some knowledge domain that is usually hierarchical and contains all the relevant entities and their relations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The metaphysical study of the nature of being and existence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Ontology needed 129:21 We must abandon pharmaceutics, and take up ontol- ogy, - "the science of real being." We must look deep into realism instead of accepting only the out- 129:24 ward sense of things."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Ontology defined 460:3 Ontology is defined as "the science of the necessary constituents and relations of all beings," and it under- lies all metaphysical practice."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Ontology /versus/ physiology Ontology receives less attention than physiology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer science) a rigorous and exhaustive organization of some knowledge domain that is usually hierarchical and contains all the relevant entities and their relations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The metaphysical study of the nature of being and existence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Ontology needed 129:21 We must abandon pharmaceutics, and take up ontol- ogy, - "the science of real being." We must look deep into realism instead of accepting only the out- 129:24 ward sense of things."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Ontology defined 460:3 Ontology is defined as "the science of the necessary constituents and relations of all beings," and it under- lies all metaphysical practice."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Ontology /versus/ physiology Ontology receives less attention than physiology."*

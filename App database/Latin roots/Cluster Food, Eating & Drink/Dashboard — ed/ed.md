@@ -5,13 +5,6 @@ status: unread
 ---
 # ed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impotence resulting from a man's inability to have or maintain an erection of his penis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impotence resulting from a man's inability to have or maintain an erection of his penis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ed designates impotence resulting from a man's inability to have or maintain an erection of his penis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impotence resulting from a man's inability to have or maintain an erection of his penis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impotence resulting from a man's inability to have or maintain an erection of his penis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ed designates impotence resulting from a man's inability to have or maintain an erection of his penis."*

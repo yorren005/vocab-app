@@ -5,15 +5,6 @@ status: unread
 ---
 # depleted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Use up (resources or materials).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: No longer sufficient.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"But missionaries' pockets are more often depleted, than those of benevolent organizations, and the one in question was fain to take the applicant to a friend, whom we shall call Q."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"When the resources have been depleted, a precipitous collapse of the economic system will result, manifested in massive unemployment, decreased food production, and a decline in population as the death rate soars."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Jeremy Rifkin, 1991, Crown Publishers. (How industrialized nations exploit the sea beds of the world for industrial minerals, especially as land-based minerals are depleted.) COSMIC WORMHOLES."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Use up (resources or materials).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: No longer sufficient.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"But missionaries' pockets are more often depleted, than those of benevolent organizations, and the one in question was fain to take the applicant to a friend, whom we shall call Q."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"When the resources have been depleted, a precipitous collapse of the economic system will result, manifested in massive unemployment, decreased food production, and a decline in population as the death rate soars."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Jeremy Rifkin, 1991, Crown Publishers. (How industrialized nations exploit the sea beds of the world for industrial minerals, especially as land-based minerals are depleted.) COSMIC WORMHOLES."*

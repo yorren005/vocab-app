@@ -5,15 +5,6 @@ status: unread
 ---
 # improbability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being improbable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being improbable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"God held it to answer their prayers." Think of this wonderful improbability according to natural circumstances."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She had one dollar in her pocket; half drew it out; thought of the improbability of having any more for several days; put it back."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"There is therefore no improbability in the supposition that as a representative of Jupiter the priest of Diana enjoyed this reputation, though positive evidence of it appears to be lacking."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being improbable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being improbable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"God held it to answer their prayers." Think of this wonderful improbability according to natural circumstances."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"She had one dollar in her pocket; half drew it out; thought of the improbability of having any more for several days; put it back."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"There is therefore no improbability in the supposition that as a representative of Jupiter the priest of Diana enjoyed this reputation, though positive evidence of it appears to be lacking."*

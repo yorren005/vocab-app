@@ -5,13 +5,6 @@ status: unread
 ---
 # tragicomical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Manifesting both tragic and comic aspects; - b.r.redman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having pathetic as well as ludicrous characteristics; --joseph conrad.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tragicomical designates manifesting both tragic and comic aspects; - b.r.redman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Manifesting both tragic and comic aspects; - b.r.redman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having pathetic as well as ludicrous characteristics; --joseph conrad.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tragicomical designates manifesting both tragic and comic aspects; - b.r.redman."*

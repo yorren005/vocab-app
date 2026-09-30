@@ -5,15 +5,6 @@ status: unread
 ---
 # idiosyncrasy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A peculiarity of constitution, behavior, or temperament : an individualizing characteristic or quality; broadly : eccentricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unusual part or feature of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was written to me (as it told me in so many words), perhaps because it was the writer’s idiosyncrasy to put that trust in me, perhaps because it was mine to justify it."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"X Every village has its idiosyncrasy, its constitution, often its own code of morality."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"At that moment—(ought I to attribute it to some peculiar idiosyncrasy)—I felt so great a heat that I was obliged to take off my coat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A peculiarity of constitution, behavior, or temperament : an individualizing characteristic or quality; broadly : eccentricity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unusual part or feature of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It was written to me (as it told me in so many words), perhaps because it was the writer’s idiosyncrasy to put that trust in me, perhaps because it was mine to justify it."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"X Every village has its idiosyncrasy, its constitution, often its own code of morality."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"At that moment—(ought I to attribute it to some peculiar idiosyncrasy)—I felt so great a heat that I was obliged to take off my coat."*

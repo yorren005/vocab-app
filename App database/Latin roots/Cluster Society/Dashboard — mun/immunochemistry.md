@@ -5,13 +5,6 @@ status: unread
 ---
 # immunochemistry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The field of chemistry concerned with chemical processes in immunology (such as chemical studies of antigens and antibodies).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The field of chemistry concerned with chemical processes in immunology (such as chemical studies of antigens and antibodies).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunochemistry designates the field of chemistry concerned with chemical processes in immunology (such as chemical studies of antigens and antibodies)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The field of chemistry concerned with chemical processes in immunology (such as chemical studies of antigens and antibodies).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The field of chemistry concerned with chemical processes in immunology (such as chemical studies of antigens and antibodies).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunochemistry designates the field of chemistry concerned with chemical processes in immunology (such as chemical studies of antigens and antibodies)."*

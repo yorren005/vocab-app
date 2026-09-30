@@ -5,13 +5,6 @@ status: unread
 ---
 # tremellaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of basidiomycetous fungi of the order tremellales that have the basidium divided longitudinally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of basidiomycetous fungi of the order tremellales that have the basidium divided longitudinally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tremellaceae designates a family of basidiomycetous fungi of the order tremellales that have the basidium divided longitudinally."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of basidiomycetous fungi of the order tremellales that have the basidium divided longitudinally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of basidiomycetous fungi of the order tremellales that have the basidium divided longitudinally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tremellaceae designates a family of basidiomycetous fungi of the order tremellales that have the basidium divided longitudinally."*

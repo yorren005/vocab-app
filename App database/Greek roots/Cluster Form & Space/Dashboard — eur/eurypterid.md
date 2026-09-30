@@ -5,13 +5,6 @@ status: unread
 ---
 # eurypterid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Eurypterida) of usually large aquatic Paleozoic arthropods resembling scorpions and related to the horseshoe crabs —called also sea scorpion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Eurypterida) of usually large aquatic Paleozoic arthropods resembling scorpions and related to the horseshoe crabs —called also sea scorpion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eurypterid designates any of an order (eurypterida) of usually large aquatic paleozoic arthropods resembling scorpions and related to the horseshoe crabs —called also sea scorpion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Eurypterida) of usually large aquatic Paleozoic arthropods resembling scorpions and related to the horseshoe crabs —called also sea scorpion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Eurypterida) of usually large aquatic Paleozoic arthropods resembling scorpions and related to the horseshoe crabs —called also sea scorpion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eurypterid designates any of an order (eurypterida) of usually large aquatic paleozoic arthropods resembling scorpions and related to the horseshoe crabs —called also sea scorpion."*

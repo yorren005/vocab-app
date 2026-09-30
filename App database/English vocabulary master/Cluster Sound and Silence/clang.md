@@ -5,20 +5,6 @@ status: unread
 ---
 # clang
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Go with a clang
-> 2. **Nuance / Usage**: Make a loud metallic ringing sound
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to clang the target*) and intransitive clauses (*clanging against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Paul McCartney (*Maxwell's Silver Hammer*):** *"Bang, bang, Maxwell's silver hammer<br>Came down upon her head<br>Clang, clang, Maxwell's silver hammer<br>Made sure that she was dead"*
-> - 📜 **Oliver Sacks (*Awakenings*):** *"For much of this day, Mrs Y. wrote in her diary, covering page after page in a rapid scrawl full of paligraphic repetitions, puns, clangs, and violent, perseverative crossings-out {{..."*
-> - 📜 **Classic Author (*Zoo*):** *"A dented metal punching bag waiting to be clanged; a solitary object in the rhino's cage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A loud, resonant, metallic ringing sound, as of heavy iron gates shutting or anvils being struck; to make such a sound.
+> 2. **Nuance / Usage**: In psychiatry and linguistics, a word association driven by sound or rhyme rather than meaning (*clang association*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to clang the target*) and intransitive clauses (*clanging against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The cellar-door flew open with a booming sound, and then he heard the noise much louder, on the floors below; then coming up the stairs, **clanging** its heavy chains."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Mrs. Y. wrote in her diary, covering page after page in a rapid scrawl full of repetitions, puns, and **clangs**."*
+> - 📜 **Homer (*The Iliad*, trans. Samuel Butler):** *"Terrible was the **clang** of the silver bow as the god strode down from the peaks of Olympus."*

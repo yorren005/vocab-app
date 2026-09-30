@@ -5,15 +5,6 @@ status: unread
 ---
 # penurious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having enough money to pay for necessities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively unwilling to spend.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have but little gold of late, brave Timon, The want whereof doth daily make revolt In my penurious band."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It was too far to return to dinner, and an allowance of cold meat and bread, in the same penurious proportion observed in our ordinary meals, was served round between the services."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"What might be extravagant to-day, might in half a century become penurious and inadequate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having enough money to pay for necessities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively unwilling to spend.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have but little gold of late, brave Timon, The want whereof doth daily make revolt In my penurious band."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It was too far to return to dinner, and an allowance of cold meat and bread, in the same penurious proportion observed in our ordinary meals, was served round between the services."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"What might be extravagant to-day, might in half a century become penurious and inadequate."*

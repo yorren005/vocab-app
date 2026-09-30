@@ -5,15 +5,6 @@ status: unread
 ---
 # ferrule
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metal cap or band placed on a wooden pole to prevent splitting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metal cap or band placed on a wooden pole to prevent splitting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Look, did not this stump come from thy shop?” “I believe it did, sir; does the ferrule stand, sir?” “Well enough."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Look, did not this stump come from thy shop?” “I believe it did, sir; does the ferrule stand, sir?” “Well enough."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The ripcord cable is run through a sleeve of which one end ferrule is fastened to the harness webbing and the other end to the pack side flap in line with the canopy release cones."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metal cap or band placed on a wooden pole to prevent splitting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metal cap or band placed on a wooden pole to prevent splitting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Look, did not this stump come from thy shop?” “I believe it did, sir; does the ferrule stand, sir?” “Well enough."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Look, did not this stump come from thy shop?” “I believe it did, sir; does the ferrule stand, sir?” “Well enough."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The ripcord cable is run through a sleeve of which one end ferrule is fastened to the harness webbing and the other end to the pack side flap in line with the canopy release cones."*

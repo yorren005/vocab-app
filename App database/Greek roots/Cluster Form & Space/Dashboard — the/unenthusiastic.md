@@ -5,13 +5,6 @@ status: unread
 ---
 # unenthusiastic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not enthusiastic; lacking excitement or ardor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not enthusiastic; lacking excitement or ardor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"There was a strong assumption of superiority in this Puritanic toleration, hardly less trying to the blond flesh of an unenthusiastic sister than a Puritanic persecution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not enthusiastic; lacking excitement or ardor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not enthusiastic; lacking excitement or ardor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"There was a strong assumption of superiority in this Puritanic toleration, hardly less trying to the blond flesh of an unenthusiastic sister than a Puritanic persecution."*

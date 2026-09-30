@@ -5,15 +5,6 @@ status: unread
 ---
 # liberal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who favors a political philosophy of progress and reform and the protection of civil liberties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who favors an economic theory of laissez-faire and self-regulating markets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard it, Pompey, And am well studied for a liberal thanks Which I do owe you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There with fantastic garlands did she make Of crow-flowers, nettles, daisies, and long purples, That liberal shepherds give a grosser name, But our cold maids do dead men’s fingers call them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Three of the carriages, in faith, are very dear to fancy, very responsive to the hilts, most delicate carriages, and of very liberal conceit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who favors a political philosophy of progress and reform and the protection of civil liberties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who favors an economic theory of laissez-faire and self-regulating markets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard it, Pompey, And am well studied for a liberal thanks Which I do owe you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There with fantastic garlands did she make Of crow-flowers, nettles, daisies, and long purples, That liberal shepherds give a grosser name, But our cold maids do dead men’s fingers call them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Three of the carriages, in faith, are very dear to fancy, very responsive to the hilts, most delicate carriages, and of very liberal conceit."*

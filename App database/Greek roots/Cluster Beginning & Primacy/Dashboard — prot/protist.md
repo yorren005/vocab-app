@@ -5,13 +5,6 @@ status: unread
 ---
 # protist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a diverse taxonomic group and especially a kingdom (Protista synonym Protoctista) of eukaryotic organisms that are unicellular and sometimes colonial or less often multicellular and that typically include the protozoans, most algae, and often some fungi (such as slime molds).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a diverse taxonomic group and especially a kingdom (Protista synonym Protoctista) of eukaryotic organisms that are unicellular and sometimes colonial or less often multicellular and that typically include the protozoans, most algae, and often some fungi (such as slime molds).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protist designates any of a diverse taxonomic group and especially a kingdom (protista synonym protoctista) of eukaryotic organisms that are unicellular and sometimes colonial or less often multicellular and that typically include the protozoans, most algae, and often some fungi (such as slime molds)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a diverse taxonomic group and especially a kingdom (Protista synonym Protoctista) of eukaryotic organisms that are unicellular and sometimes colonial or less often multicellular and that typically include the protozoans, most algae, and often some fungi (such as slime molds).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a diverse taxonomic group and especially a kingdom (Protista synonym Protoctista) of eukaryotic organisms that are unicellular and sometimes colonial or less often multicellular and that typically include the protozoans, most algae, and often some fungi (such as slime molds).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protist designates any of a diverse taxonomic group and especially a kingdom (protista synonym protoctista) of eukaryotic organisms that are unicellular and sometimes colonial or less often multicellular and that typically include the protozoans, most algae, and often some fungi (such as slime molds)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # temptress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who is considered to be dangerously seductive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman who is considered to be dangerously seductive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"You temptress, Tess; you dear damned witch of Babylon—I could not resist you as soon as I met you again!” “I couldn’t help your seeing me again!” said Tess, recoiling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who is considered to be dangerously seductive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman who is considered to be dangerously seductive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"You temptress, Tess; you dear damned witch of Babylon—I could not resist you as soon as I met you again!” “I couldn’t help your seeing me again!” said Tess, recoiling."*

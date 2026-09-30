@@ -5,13 +5,6 @@ status: unread
 ---
 # moronity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mild mental retardation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mild mental retardation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moronity designates mild mental retardation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mild mental retardation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mild mental retardation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moronity designates mild mental retardation."*

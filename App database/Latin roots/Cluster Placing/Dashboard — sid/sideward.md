@@ -5,13 +5,6 @@ status: unread
 ---
 # sideward
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Toward one side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Toward one side.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The group hurried past without a sideward glance, the metal feet of the ape-men ringing oddly loud on the granite of the echoing passage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Toward one side.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Toward one side.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The group hurried past without a sideward glance, the metal feet of the ape-men ringing oddly loud on the granite of the echoing passage."*

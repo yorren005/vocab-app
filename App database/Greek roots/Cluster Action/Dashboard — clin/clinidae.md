@@ -5,13 +5,6 @@ status: unread
 ---
 # clinidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Viviparous blennies of temperate and tropical seas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Viviparous blennies of temperate and tropical seas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clinidae designates viviparous blennies of temperate and tropical seas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Viviparous blennies of temperate and tropical seas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Viviparous blennies of temperate and tropical seas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clinidae designates viviparous blennies of temperate and tropical seas."*

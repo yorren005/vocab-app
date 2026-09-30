@@ -5,13 +5,6 @@ status: unread
 ---
 # aldomet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Antihypertensive drug (trade name aldomet) used in the treatment of high blood pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antihypertensive drug (trade name aldomet) used in the treatment of high blood pressure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aldomet designates antihypertensive drug (trade name aldomet) used in the treatment of high blood pressure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Antihypertensive drug (trade name aldomet) used in the treatment of high blood pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antihypertensive drug (trade name aldomet) used in the treatment of high blood pressure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aldomet designates antihypertensive drug (trade name aldomet) used in the treatment of high blood pressure."*

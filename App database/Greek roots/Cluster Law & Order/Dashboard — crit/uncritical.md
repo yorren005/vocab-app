@@ -5,13 +5,6 @@ status: unread
 ---
 # uncritical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by disregard for critical standards or procedures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not critical; not tending to find or call attention to errors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Hence the difference between the pessimism of Ibsen and the romantic Weltschmerz of these uncritical minds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by disregard for critical standards or procedures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not critical; not tending to find or call attention to errors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Hence the difference between the pessimism of Ibsen and the romantic Weltschmerz of these uncritical minds."*

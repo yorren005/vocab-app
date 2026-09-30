@@ -5,15 +5,6 @@ status: unread
 ---
 # fumes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gases ejected from an engine as waste products.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cloud of fine particles suspended in a gas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But ’tis not so; ’Twas but a bolt of nothing, shot at nothing, Which the brain makes of fumes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The charm dissolves apace; And as the morning steals upon the night, Melting the darkness, so their rising senses Begin to chase the ignorant fumes that mantle Their clearer reason."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I think it is rather our way to be in earnest.” Sir Leicester has a misgiving that there may be a hidden Wat Tylerish meaning in this expression, and fumes a little."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gases ejected from an engine as waste products.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cloud of fine particles suspended in a gas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But ’tis not so; ’Twas but a bolt of nothing, shot at nothing, Which the brain makes of fumes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The charm dissolves apace; And as the morning steals upon the night, Melting the darkness, so their rising senses Begin to chase the ignorant fumes that mantle Their clearer reason."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I think it is rather our way to be in earnest.” Sir Leicester has a misgiving that there may be a hidden Wat Tylerish meaning in this expression, and fumes a little."*

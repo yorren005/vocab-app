@@ -5,13 +5,6 @@ status: unread
 ---
 # anathematization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal act of pronouncing (someone or something) accursed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal act of pronouncing (someone or something) accursed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anathematization designates the formal act of pronouncing (someone or something) accursed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal act of pronouncing (someone or something) accursed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal act of pronouncing (someone or something) accursed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anathematization designates the formal act of pronouncing (someone or something) accursed."*

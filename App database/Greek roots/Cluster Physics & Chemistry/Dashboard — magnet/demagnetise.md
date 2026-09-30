@@ -5,13 +5,6 @@ status: unread
 ---
 # demagnetise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Erase (a magnetic storage device).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make nonmagnetic; take away the magnetic properties (of).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demagnetise designates erase (a magnetic storage device)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Erase (a magnetic storage device).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make nonmagnetic; take away the magnetic properties (of).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demagnetise designates erase (a magnetic storage device)."*

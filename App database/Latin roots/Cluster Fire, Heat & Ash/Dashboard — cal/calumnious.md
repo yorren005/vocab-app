@@ -5,15 +5,6 @@ status: unread
 ---
 # calumnious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of statements) harmful and often untrue; tending to discredit or malign.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of statements) harmful and often untrue; tending to discredit or malign.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wilt thou ever be a foul-mouth’d and calumnious knave?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virtue itself ’scapes not calumnious strokes: The canker galls the infants of the spring Too oft before their buttons be disclos’d, And in the morn and liquid dew of youth Contagious blastments are most imminent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I know There’s none stands under more calumnious tongues Than I myself, poor man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of statements) harmful and often untrue; tending to discredit or malign.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of statements) harmful and often untrue; tending to discredit or malign.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wilt thou ever be a foul-mouth’d and calumnious knave?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virtue itself ’scapes not calumnious strokes: The canker galls the infants of the spring Too oft before their buttons be disclos’d, And in the morn and liquid dew of youth Contagious blastments are most imminent."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I know There’s none stands under more calumnious tongues Than I myself, poor man."*

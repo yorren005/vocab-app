@@ -5,13 +5,6 @@ status: unread
 ---
 # monera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prokaryotic bacteria and blue-green algae and various primitive pathogens; because of lack of consensus on how to divide the organisms into phyla informal names are used for the major divisions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prokaryotic bacteria and blue-green algae and various primitive pathogens; because of lack of consensus on how to divide the organisms into phyla informal names are used for the major divisions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monera designates prokaryotic bacteria and blue-green algae and various primitive pathogens; because of lack of consensus on how to divide the organisms into phyla informal names are used for the major divisions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prokaryotic bacteria and blue-green algae and various primitive pathogens; because of lack of consensus on how to divide the organisms into phyla informal names are used for the major divisions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prokaryotic bacteria and blue-green algae and various primitive pathogens; because of lack of consensus on how to divide the organisms into phyla informal names are used for the major divisions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monera designates prokaryotic bacteria and blue-green algae and various primitive pathogens; because of lack of consensus on how to divide the organisms into phyla informal names are used for the major divisions."*

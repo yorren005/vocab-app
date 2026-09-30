@@ -5,15 +5,6 @@ status: unread
 ---
 # outline
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The line that appears to bound an object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sketchy summary of the main points of an argument or theory.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It came from the direction of a small dark object under the plantation hedge—a shepherd’s hut—now presenting an outline to which an uninitiated person might have been puzzled to attach either meaning or use."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A rectangular space of light appeared in the side of the hut, and in the opening the outline of Farmer Oak’s figure."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"As the wind blows the fire inwards, the portion in flames completely disappears like melting sugar, and the outline is lost to the eye."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The line that appears to bound an object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sketchy summary of the main points of an argument or theory.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It came from the direction of a small dark object under the plantation hedge—a shepherd’s hut—now presenting an outline to which an uninitiated person might have been puzzled to attach either meaning or use."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A rectangular space of light appeared in the side of the hut, and in the opening the outline of Farmer Oak’s figure."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"As the wind blows the fire inwards, the portion in flames completely disappears like melting sugar, and the outline is lost to the eye."*

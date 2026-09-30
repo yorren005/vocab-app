@@ -5,15 +5,6 @@ status: unread
 ---
 # unconstitutional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not consistent with or according to a constitution; contrary to the u.s. constitution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not consistent with or according to a constitution; contrary to the u.s. constitution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It is clearly _ex post facto_, and, therefore, unconstitutional."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Speaking generally, the duties may be on either imports or exports; but, as export duties are unconstitutional in the United States, our tariff discussions are concerned only with import duties."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To make up for the expected reduction of receipts from other sources, a duty was laid again upon raw sugar, and an income tax law was passed (this soon, however, to be declared unconstitutional)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not consistent with or according to a constitution; contrary to the u.s. constitution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not consistent with or according to a constitution; contrary to the u.s. constitution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It is clearly _ex post facto_, and, therefore, unconstitutional."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Speaking generally, the duties may be on either imports or exports; but, as export duties are unconstitutional in the United States, our tariff discussions are concerned only with import duties."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To make up for the expected reduction of receipts from other sources, a duty was laid again upon raw sugar, and an income tax law was passed (this soon, however, to be declared unconstitutional)."*

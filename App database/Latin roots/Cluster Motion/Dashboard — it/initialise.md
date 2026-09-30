@@ -5,13 +5,6 @@ status: unread
 ---
 # initialise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign an initial value to a computer program.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide (a disk) into marked sectors so that it may store data.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, initialise designates assign an initial value to a computer program."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign an initial value to a computer program.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide (a disk) into marked sectors so that it may store data.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, initialise designates assign an initial value to a computer program."*

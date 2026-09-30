@@ -5,13 +5,6 @@ status: unread
 ---
 # astrophysicist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An astronomer who studies the physical properties of celestial bodies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An astronomer who studies the physical properties of celestial bodies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astrophysicist designates an astronomer who studies the physical properties of celestial bodies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An astronomer who studies the physical properties of celestial bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An astronomer who studies the physical properties of celestial bodies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astrophysicist designates an astronomer who studies the physical properties of celestial bodies."*

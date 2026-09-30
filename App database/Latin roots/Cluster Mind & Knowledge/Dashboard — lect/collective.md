@@ -5,15 +5,6 @@ status: unread
 ---
 # collective
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Members of a cooperative enterprise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done by or characteristic of individuals acting together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns's death, though not without secessions, collective and individual."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Secure in his "_aliquid inconcussum_," he came increasingly to regard the life of the individual Christian and the collective life of the Church as the most convincing of all witnesses to the Unseen and the Supernatural."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These things are caused, it is true, by the action of men, but it is a collective action out of the control of the individual."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Members of a cooperative enterprise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done by or characteristic of individuals acting together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns's death, though not without secessions, collective and individual."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Secure in his "_aliquid inconcussum_," he came increasingly to regard the life of the individual Christian and the collective life of the Church as the most convincing of all witnesses to the Unseen and the Supernatural."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These things are caused, it is true, by the action of men, but it is a collective action out of the control of the individual."*

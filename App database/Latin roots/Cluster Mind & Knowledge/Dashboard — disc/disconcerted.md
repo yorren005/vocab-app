@@ -5,15 +5,6 @@ status: unread
 ---
 # disconcerted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to feel embarrassment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to lose one's composure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The three children's faces were absolutely disconcerted, for the obstacles were clearly insurmountable."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was disconcerted and walked to the window; I almost believed with an intention of jumping out, until he turned and I was reassured by seeing in his eyes what he had gone there to hide."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sit down.” He sat down, a little disconcerted by my presence, I thought, and without looking at me, drew his heavy sunburnt hand across and across his upper lip."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to feel embarrassment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to lose one's composure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The three children's faces were absolutely disconcerted, for the obstacles were clearly insurmountable."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He was disconcerted and walked to the window; I almost believed with an intention of jumping out, until he turned and I was reassured by seeing in his eyes what he had gone there to hide."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Sit down.” He sat down, a little disconcerted by my presence, I thought, and without looking at me, drew his heavy sunburnt hand across and across his upper lip."*

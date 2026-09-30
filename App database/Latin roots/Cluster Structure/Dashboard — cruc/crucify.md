@@ -5,15 +5,6 @@ status: unread
 ---
 # crucify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill by nailing onto a cross.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat cruelly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Whom did they crucify there, young scholar?"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You know what the Romans are in such matters.” “Then will Hanan avoid the question,” she smiled, “by compelling Pilate to crucify him."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And all the while the mob cried: “Crucify him!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill by nailing onto a cross.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat cruelly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Whom did they crucify there, young scholar?"*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You know what the Romans are in such matters.” “Then will Hanan avoid the question,” she smiled, “by compelling Pilate to crucify him."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And all the while the mob cried: “Crucify him!"*

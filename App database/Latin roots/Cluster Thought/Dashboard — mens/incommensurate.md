@@ -5,13 +5,6 @@ status: unread
 ---
 # incommensurate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not corresponding in size or degree or extent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not corresponding in size or degree or extent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Yet to supply this conception various historians take forces of different kinds, all of which are incommensurate with the movement observed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not corresponding in size or degree or extent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not corresponding in size or degree or extent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Yet to supply this conception various historians take forces of different kinds, all of which are incommensurate with the movement observed."*

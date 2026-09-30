@@ -5,13 +5,6 @@ status: unread
 ---
 # tardigrada
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications considered a separate phylum: microscopic arachnid-like invertebrates living in water or damp moss having 4 pairs of legs and instead of a mouth a pair of stylets or needlelike piercing organs connected with the pharynx.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications considered a separate phylum: microscopic arachnid-like invertebrates living in water or damp moss having 4 pairs of legs and instead of a mouth a pair of stylets or needlelike piercing organs connected with the pharynx.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tardigrada designates in some classifications considered a separate phylum: microscopic arachnid-like invertebrates living in water or damp moss having 4 pairs of legs and instead of a mouth a pair of stylets or needlelike piercing organs connected with the pharynx."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications considered a separate phylum: microscopic arachnid-like invertebrates living in water or damp moss having 4 pairs of legs and instead of a mouth a pair of stylets or needlelike piercing organs connected with the pharynx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications considered a separate phylum: microscopic arachnid-like invertebrates living in water or damp moss having 4 pairs of legs and instead of a mouth a pair of stylets or needlelike piercing organs connected with the pharynx.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tardigrada designates in some classifications considered a separate phylum: microscopic arachnid-like invertebrates living in water or damp moss having 4 pairs of legs and instead of a mouth a pair of stylets or needlelike piercing organs connected with the pharynx."*

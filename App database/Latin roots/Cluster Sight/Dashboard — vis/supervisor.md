@@ -5,15 +5,6 @@ status: unread
 ---
 # supervisor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who supervises or has charge and direction of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A program that controls the execution of other programs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Would you, the supervisor, grossly gape on, Behold her topp’d?"*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"So strong was the superstitious belief of the people in this deified stone that when, some twenty years ago, the road supervisor of the district threw it over and broke off a portion, it was prophesied that Kaneaukai would be avenged for the insult."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"And when shortly afterward the supervisor lost his position and removed from the district, returning not to the day of his death; and since several of his relatives have met untimely ends, not a few felt it was the recompense of his sacrilegious act."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who supervises or has charge and direction of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A program that controls the execution of other programs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Would you, the supervisor, grossly gape on, Behold her topp’d?"*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"So strong was the superstitious belief of the people in this deified stone that when, some twenty years ago, the road supervisor of the district threw it over and broke off a portion, it was prophesied that Kaneaukai would be avenged for the insult."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"And when shortly afterward the supervisor lost his position and removed from the district, returning not to the day of his death; and since several of his relatives have met untimely ends, not a few felt it was the recompense of his sacrilegious act."*

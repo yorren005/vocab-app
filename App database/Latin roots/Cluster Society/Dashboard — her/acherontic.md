@@ -5,13 +5,6 @@ status: unread
 ---
 # acherontic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dark and dismal as of the rivers acheron and styx in hades; ; -wordsworth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dark and dismal as of the rivers acheron and styx in hades; ; -wordsworth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acherontic designates dark and dismal as of the rivers acheron and styx in hades; ; -wordsworth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dark and dismal as of the rivers acheron and styx in hades; ; -wordsworth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dark and dismal as of the rivers acheron and styx in hades; ; -wordsworth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acherontic designates dark and dismal as of the rivers acheron and styx in hades; ; -wordsworth."*

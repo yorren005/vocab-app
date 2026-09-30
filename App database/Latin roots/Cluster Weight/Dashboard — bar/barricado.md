@@ -5,15 +5,6 @@ status: unread
 ---
 # barricado
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Block off with barricades.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Block off with barricades.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Man is enemy to virginity; how may we barricado it against him?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be it concluded, No barricado for a belly."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Fast we found, fast shut The dismal Gates, and barricado’d strong; But long ere our approaching heard within Noise, other then the sound of Dance or Song, Torment, and lowd lament, and furious rage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Block off with barricades.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Block off with barricades.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Man is enemy to virginity; how may we barricado it against him?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be it concluded, No barricado for a belly."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Fast we found, fast shut The dismal Gates, and barricado’d strong; But long ere our approaching heard within Noise, other then the sound of Dance or Song, Torment, and lowd lament, and furious rage."*

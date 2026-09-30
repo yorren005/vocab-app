@@ -5,15 +5,6 @@ status: unread
 ---
 # malmsey
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sweet madeira wine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sweet madeira wine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yonder he comes, and that arrant malmsey-nose knave, Bardolph, with him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, then, two treys, an if you grow so nice, Metheglin, wort, and malmsey."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take him on the costard with the hilts of thy sword, and then throw him in the malmsey-butt in the next room."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sweet madeira wine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sweet madeira wine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yonder he comes, and that arrant malmsey-nose knave, Bardolph, with him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, then, two treys, an if you grow so nice, Metheglin, wort, and malmsey."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take him on the costard with the hilts of thy sword, and then throw him in the malmsey-butt in the next room."*

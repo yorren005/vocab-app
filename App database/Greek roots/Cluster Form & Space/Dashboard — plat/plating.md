@@ -5,15 +5,6 @@ status: unread
 ---
 # plating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin coating of metal deposited on a surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The application of a thin coat of metal (as by electrolysis).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Was it unintentionally that your cannon balls rebounded off the plating of my vessel?"*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Perhaps one of the greatest forward steps in the development of electrotyping was made when the plating dynamo was invented."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"With the invention of the plating dynamo and its improvements, the time of depositing the shell was reduced so that now two hours is the common time that a mold is kept in the tubs or batteries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin coating of metal deposited on a surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The application of a thin coat of metal (as by electrolysis).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Was it unintentionally that your cannon balls rebounded off the plating of my vessel?"*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Perhaps one of the greatest forward steps in the development of electrotyping was made when the plating dynamo was invented."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"With the invention of the plating dynamo and its improvements, the time of depositing the shell was reduced so that now two hours is the common time that a mold is kept in the tubs or batteries."*

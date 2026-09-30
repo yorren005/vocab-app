@@ -5,15 +5,6 @@ status: unread
 ---
 # produce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fresh fruits and vegetable grown for the market.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring forth or yield.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My honour’s at the stake, which to defeat, I must produce my power."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When you sally upon him, speak what terrible language you will; though you understand it not yourselves, no matter; for we must not seem to understand him, unless someone among us, whom we must produce for an interpreter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did, my lord, but loath am to produce So bad an instrument; his name’s Parolles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fresh fruits and vegetable grown for the market.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring forth or yield.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My honour’s at the stake, which to defeat, I must produce my power."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When you sally upon him, speak what terrible language you will; though you understand it not yourselves, no matter; for we must not seem to understand him, unless someone among us, whom we must produce for an interpreter."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did, my lord, but loath am to produce So bad an instrument; his name’s Parolles."*

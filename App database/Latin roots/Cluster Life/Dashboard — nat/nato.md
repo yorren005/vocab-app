@@ -5,15 +5,6 @@ status: unread
 ---
 # nato
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An international organization created in 1949 by the north atlantic treaty for purposes of collective security.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An international organization created in 1949 by the north atlantic treaty for purposes of collective security.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Military personnel and civilians of all nations involved that were killed or wounded on both sides in those two wars and in other clashes between the US/NATO countries and the USSR have been estimated to be in the hundreds of thousands."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The teams would provide on-site emergency repairs sufficient to continue flights of US/NATO combat-damaged or otherwise disabled aircraft compelled to land in the Middle East, on Med islands, or in North Africa on return flights from battle zones."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Context During the period covered by this memoir, the probability of a worldwide nuclear conflagration, sparked by a Cold War incident between US/NATO and the USSR, was considered to be high."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An international organization created in 1949 by the north atlantic treaty for purposes of collective security.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An international organization created in 1949 by the north atlantic treaty for purposes of collective security.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Military personnel and civilians of all nations involved that were killed or wounded on both sides in those two wars and in other clashes between the US/NATO countries and the USSR have been estimated to be in the hundreds of thousands."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The teams would provide on-site emergency repairs sufficient to continue flights of US/NATO combat-damaged or otherwise disabled aircraft compelled to land in the Middle East, on Med islands, or in North Africa on return flights from battle zones."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Context During the period covered by this memoir, the probability of a worldwide nuclear conflagration, sparked by a Cold War incident between US/NATO and the USSR, was considered to be high."*

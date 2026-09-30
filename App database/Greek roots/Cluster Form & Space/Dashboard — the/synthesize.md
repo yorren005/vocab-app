@@ -5,13 +5,6 @@ status: unread
 ---
 # synthesize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Combine so as to form a more complex, product.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Combine and form a synthesis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His voice was on our tapes, and easy to synthesize."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Combine so as to form a more complex, product.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Combine and form a synthesis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His voice was on our tapes, and easy to synthesize."*

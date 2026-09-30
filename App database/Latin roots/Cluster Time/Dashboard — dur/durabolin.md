@@ -5,13 +5,6 @@ status: unread
 ---
 # durabolin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An androgen (trade names durabolin or kabolin) that is used to treat testosterone deficiency or breast cancer or osteoporosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An androgen (trade names durabolin or kabolin) that is used to treat testosterone deficiency or breast cancer or osteoporosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, durabolin designates an androgen (trade names durabolin or kabolin) that is used to treat testosterone deficiency or breast cancer or osteoporosis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An androgen (trade names durabolin or kabolin) that is used to treat testosterone deficiency or breast cancer or osteoporosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An androgen (trade names durabolin or kabolin) that is used to treat testosterone deficiency or breast cancer or osteoporosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, durabolin designates an androgen (trade names durabolin or kabolin) that is used to treat testosterone deficiency or breast cancer or osteoporosis."*

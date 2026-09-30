@@ -5,13 +5,6 @@ status: unread
 ---
 # cannery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A factory where food is canned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A factory where food is canned.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Pine Camp was in the midst of a vast huckleberry country, and at the Forks a cannery had been established."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A factory where food is canned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A factory where food is canned.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Pine Camp was in the midst of a vast huckleberry country, and at the Forks a cannery had been established."*

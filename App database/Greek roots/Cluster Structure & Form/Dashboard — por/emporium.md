@@ -5,13 +5,6 @@ status: unread
 ---
 # emporium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A place of trade; especially : a commercial center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A retail outlet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The man of the Fancy Repository and Brompton Emporium of Fine Arts (of whom she bought the screens, vainly hoping that he would repurchase them when ornamented by her hand) can hardly hide the sneer with which he examines these feeble works of art."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A place of trade; especially : a commercial center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A retail outlet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The man of the Fancy Repository and Brompton Emporium of Fine Arts (of whom she bought the screens, vainly hoping that he would repurchase them when ornamented by her hand) can hardly hide the sneer with which he examines these feeble works of art."*

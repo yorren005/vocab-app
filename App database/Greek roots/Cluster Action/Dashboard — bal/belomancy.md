@@ -5,13 +5,6 @@ status: unread
 ---
 # belomancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Studying the flight of arrows, an ancient form of divination used by the Greeks and Arabs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Studying the flight of arrows, an ancient form of divination used by the Greeks and Arabs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, belomancy designates studying the flight of arrows, an ancient form of divination used by the greeks and arabs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Studying the flight of arrows, an ancient form of divination used by the Greeks and Arabs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Studying the flight of arrows, an ancient form of divination used by the Greeks and Arabs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, belomancy designates studying the flight of arrows, an ancient form of divination used by the greeks and arabs."*

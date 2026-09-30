@@ -5,13 +5,6 @@ status: unread
 ---
 # declassified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lift the restriction on and make available again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having had security classification removed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declassified designates lift the restriction on and make available again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lift the restriction on and make available again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having had security classification removed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declassified designates lift the restriction on and make available again."*

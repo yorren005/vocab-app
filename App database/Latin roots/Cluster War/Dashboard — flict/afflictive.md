@@ -5,14 +5,6 @@ status: unread
 ---
 # afflictive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing misery or pain or distress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing misery or pain or distress.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Hour is ripe to recall unnumbered tribulations, sacrifices heroically endured by the dawn-breakers, culminating in Bahá'u'lláh's afflictive imprisonment in Síyáh _Ch_ál, Centennial of which is now approaching."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The very circumstance, which your suffering sense deems wrathful and afflictive, Love can make an angel 574:30 entertained unawares."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing misery or pain or distress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing misery or pain or distress.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Hour is ripe to recall unnumbered tribulations, sacrifices heroically endured by the dawn-breakers, culminating in Bahá'u'lláh's afflictive imprisonment in Síyáh _Ch_ál, Centennial of which is now approaching."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The very circumstance, which your suffering sense deems wrathful and afflictive, Love can make an angel 574:30 entertained unawares."*

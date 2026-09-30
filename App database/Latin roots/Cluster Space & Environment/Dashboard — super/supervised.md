@@ -5,15 +5,6 @@ status: unread
 ---
 # supervised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Watch and direct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Keep tabs on; keep an eye on; keep under surveillance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"While she supervised the cooking of the meats and soups and coffee, all nice things were made and distributed by herself."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I was convinced that the time was long past for both military and civilian managers and supervisors, in both the public and private sectors to acquire basic indoctrination in ci/sp as it pertained to the people that they commanded or supervised."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The underground staff are very carefully organised with this end in view, and the whole is supervised by Government inspectors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Watch and direct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Keep tabs on; keep an eye on; keep under surveillance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"While she supervised the cooking of the meats and soups and coffee, all nice things were made and distributed by herself."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I was convinced that the time was long past for both military and civilian managers and supervisors, in both the public and private sectors to acquire basic indoctrination in ci/sp as it pertained to the people that they commanded or supervised."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The underground staff are very carefully organised with this end in view, and the whole is supervised by Government inspectors."*

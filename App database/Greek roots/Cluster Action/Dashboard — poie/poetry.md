@@ -5,15 +5,6 @@ status: unread
 ---
 # poetry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Metrical writing : verse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The productions of a poet : poems.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, truly; for the truest poetry is the most feigning, and lovers are given to poetry, and what they swear in poetry may be said, as lovers, they do feign."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"About a hoop of gold, a paltry ring That she did give me, whose posy was For all the world like cutlers’ poetry Upon a knife, “Love me, and leave me not.” NERISSA."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go in, Bianca. [_Exit Bianca._] And for I know she taketh most delight In music, instruments, and poetry, Schoolmasters will I keep within my house Fit to instruct her youth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Metrical writing : verse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The productions of a poet : poems.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, truly; for the truest poetry is the most feigning, and lovers are given to poetry, and what they swear in poetry may be said, as lovers, they do feign."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"About a hoop of gold, a paltry ring That she did give me, whose posy was For all the world like cutlers’ poetry Upon a knife, “Love me, and leave me not.” NERISSA."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go in, Bianca. [_Exit Bianca._] And for I know she taketh most delight In music, instruments, and poetry, Schoolmasters will I keep within my house Fit to instruct her youth."*

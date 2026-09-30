@@ -5,15 +5,6 @@ status: unread
 ---
 # jurisdiction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) the right and power to interpret and apply the law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law; the territory within which power can be exercised.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now art thou within point-blank of our jurisdiction regal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, that without the King’s assent or knowledge, You wrought to be a legate, by which power You maimed the jurisdiction of all bishops."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All luck go with him in the next world, for that is beyond Rome’s jurisdiction.” “He holds that property is sin—that is what hits the Pharisees,” Ambivius spoke up."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) the right and power to interpret and apply the law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law; the territory within which power can be exercised.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now art thou within point-blank of our jurisdiction regal."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, that without the King’s assent or knowledge, You wrought to be a legate, by which power You maimed the jurisdiction of all bishops."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All luck go with him in the next world, for that is beyond Rome’s jurisdiction.” “He holds that property is sin—that is what hits the Pharisees,” Ambivius spoke up."*

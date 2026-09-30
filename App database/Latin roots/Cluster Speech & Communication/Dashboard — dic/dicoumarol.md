@@ -5,13 +5,6 @@ status: unread
 ---
 # dicoumarol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anticoagulant drug that has now been largely replaced by warfarin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anticoagulant drug that has now been largely replaced by warfarin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicoumarol designates an anticoagulant drug that has now been largely replaced by warfarin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anticoagulant drug that has now been largely replaced by warfarin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anticoagulant drug that has now been largely replaced by warfarin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicoumarol designates an anticoagulant drug that has now been largely replaced by warfarin."*

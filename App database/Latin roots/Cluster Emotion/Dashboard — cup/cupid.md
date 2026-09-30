@@ -5,15 +5,6 @@ status: unread
 ---
 # cupid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman mythology) god of love; counterpart of greek eros.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A symbol for love in the form of a cherubic naked boy with wings and a bow and arrow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The brains of my Cupid’s knock’d out, and I begin to love, as an old man loves money, with no stomach."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that will divide a minute into a thousand parts, and break but a part of the thousand part of a minute in the affairs of love, it may be said of him that Cupid hath clapped him o’ the shoulder, but I’ll warrant him heart-whole."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lovers And men in dangerous bonds pray not alike; Though forfeiters you cast in prison, yet You clasp young Cupid’s tables."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman mythology) god of love; counterpart of greek eros.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A symbol for love in the form of a cherubic naked boy with wings and a bow and arrow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The brains of my Cupid’s knock’d out, and I begin to love, as an old man loves money, with no stomach."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that will divide a minute into a thousand parts, and break but a part of the thousand part of a minute in the affairs of love, it may be said of him that Cupid hath clapped him o’ the shoulder, but I’ll warrant him heart-whole."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lovers And men in dangerous bonds pray not alike; Though forfeiters you cast in prison, yet You clasp young Cupid’s tables."*

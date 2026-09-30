@@ -5,15 +5,6 @@ status: unread
 ---
 # stationary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Standing still.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being moved.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby and his conductors are stationary, the crowd flows round, and from its squalid depths obsequious advice heaves up to Mr."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Therefore, the rate of interest this year in long-time loans would be just that resulting in the expectation, on all hands, of a stationary level of general prices."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The gold output had caught up with, and began to surpass, the normal monetary demands of the world, meaning by that phrase, the amount of gold needed to maintain a stationary level of prices. § 12. #Rising prices after 1896#."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Standing still.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being moved.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby and his conductors are stationary, the crowd flows round, and from its squalid depths obsequious advice heaves up to Mr."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Therefore, the rate of interest this year in long-time loans would be just that resulting in the expectation, on all hands, of a stationary level of general prices."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The gold output had caught up with, and began to surpass, the normal monetary demands of the world, meaning by that phrase, the amount of gold needed to maintain a stationary level of prices. § 12. #Rising prices after 1896#."*

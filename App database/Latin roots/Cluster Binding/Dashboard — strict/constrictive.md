@@ -5,13 +5,6 @@ status: unread
 ---
 # constrictive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of circumstances) tending to constrict freedom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restricting the scope or freedom of action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, constrictive designates (of circumstances) tending to constrict freedom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of circumstances) tending to constrict freedom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restricting the scope or freedom of action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, constrictive designates (of circumstances) tending to constrict freedom."*

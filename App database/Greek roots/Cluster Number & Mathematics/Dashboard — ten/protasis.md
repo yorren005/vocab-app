@@ -5,14 +5,6 @@ status: unread
 ---
 # protasis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The introductory part of a play or narrative poem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The subordinate clause of a conditional sentence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"It doubles itself in the middle of his life, reflects itself in another, repeats itself, protasis, epitasis, catastasis, catastrophe."*
-> - 📜 **James Joyce (*Ulysses*):** *"Positing what protasis would the contraction for such several schemes become a natural and necessary apodosis?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The introductory part of a play or narrative poem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The subordinate clause of a conditional sentence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"It doubles itself in the middle of his life, reflects itself in another, repeats itself, protasis, epitasis, catastasis, catastrophe."*
+> - 📜 **James Joyce (*Ulysses*):** *"Positing what protasis would the contraction for such several schemes become a natural and necessary apodosis?"*

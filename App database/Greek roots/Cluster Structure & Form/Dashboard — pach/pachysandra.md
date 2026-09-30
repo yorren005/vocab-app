@@ -5,13 +5,6 @@ status: unread
 ---
 # pachysandra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus pachysandra; low-growing evergreen herbs or subshrubs having dentate leaves and used as ground cover.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus pachysandra; low-growing evergreen herbs or subshrubs having dentate leaves and used as ground cover.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachysandra designates any plant of the genus pachysandra; low-growing evergreen herbs or subshrubs having dentate leaves and used as ground cover."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus pachysandra; low-growing evergreen herbs or subshrubs having dentate leaves and used as ground cover.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus pachysandra; low-growing evergreen herbs or subshrubs having dentate leaves and used as ground cover.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachysandra designates any plant of the genus pachysandra; low-growing evergreen herbs or subshrubs having dentate leaves and used as ground cover."*

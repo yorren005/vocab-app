@@ -5,13 +5,6 @@ status: unread
 ---
 # marchantia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of marchantiaceae; liverworts that reproduce asexually by gemmae and have stalked antheridiophores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of marchantiaceae; liverworts that reproduce asexually by gemmae and have stalked antheridiophores.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marchantia designates type genus of marchantiaceae; liverworts that reproduce asexually by gemmae and have stalked antheridiophores."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of marchantiaceae; liverworts that reproduce asexually by gemmae and have stalked antheridiophores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of marchantiaceae; liverworts that reproduce asexually by gemmae and have stalked antheridiophores.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marchantia designates type genus of marchantiaceae; liverworts that reproduce asexually by gemmae and have stalked antheridiophores."*

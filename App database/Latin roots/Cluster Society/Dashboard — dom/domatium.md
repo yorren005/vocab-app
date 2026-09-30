@@ -5,13 +5,6 @@ status: unread
 ---
 # domatium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A part of a plant (e.g., a leaf) that has been modified to provide protection for insects or mites or fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part of a plant (e.g., a leaf) that has been modified to provide protection for insects or mites or fungi.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, domatium designates a part of a plant (e.g., a leaf) that has been modified to provide protection for insects or mites or fungi."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A part of a plant (e.g., a leaf) that has been modified to provide protection for insects or mites or fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part of a plant (e.g., a leaf) that has been modified to provide protection for insects or mites or fungi.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, domatium designates a part of a plant (e.g., a leaf) that has been modified to provide protection for insects or mites or fungi."*

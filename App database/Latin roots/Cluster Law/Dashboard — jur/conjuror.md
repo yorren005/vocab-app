@@ -5,15 +5,6 @@ status: unread
 ---
 # conjuror
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who performs magic tricks to amuse an audience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A witch doctor who practices conjury.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket lost no time in transferring this paper, with the dexterity of a conjuror, from Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"’Tis years since I went to Conjuror Trendle’s son in Egdon—years!” said the dairyman bitterly."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Conjuror Fall, t’other side of Casterbridge, that they used to call ‘Wide-O’, was a very good man when I was a boy,” said Jonathan Kail."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who performs magic tricks to amuse an audience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A witch doctor who practices conjury.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket lost no time in transferring this paper, with the dexterity of a conjuror, from Mr."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"’Tis years since I went to Conjuror Trendle’s son in Egdon—years!” said the dairyman bitterly."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Conjuror Fall, t’other side of Casterbridge, that they used to call ‘Wide-O’, was a very good man when I was a boy,” said Jonathan Kail."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # topology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Topographic study of a given place (especially the history of the place as indicated by its topography).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of anatomy based on regions or divisions of the body and emphasizing the relations between various structures (muscles and nerves and arteries etc.) in that region.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topology designates topographic study of a given place (especially the history of the place as indicated by its topography)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Topographic study of a given place (especially the history of the place as indicated by its topography).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of anatomy based on regions or divisions of the body and emphasizing the relations between various structures (muscles and nerves and arteries etc.) in that region.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topology designates topographic study of a given place (especially the history of the place as indicated by its topography)."*

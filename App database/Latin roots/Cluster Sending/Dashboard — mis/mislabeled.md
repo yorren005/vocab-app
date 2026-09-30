@@ -5,13 +5,6 @@ status: unread
 ---
 # mislabeled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Branded or labeled falsely and in violation of statutory requirements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Branded or labeled falsely and in violation of statutory requirements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mislabeled designates branded or labeled falsely and in violation of statutory requirements."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Branded or labeled falsely and in violation of statutory requirements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Branded or labeled falsely and in violation of statutory requirements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mislabeled designates branded or labeled falsely and in violation of statutory requirements."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # petty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Larceny of property having a value less than some amount (the amount varies by locale).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inferior in rank or status.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou wilt leave me, do not leave me last, When other petty griefs have done their spite, But in the onset come, so shall I taste At first the very worst of fortune’s might."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good friend,” quoth he, “Say, the firm Roman to great Egypt sends This treasure of an oyster; at whose foot, To mend the petty present, I will piece Her opulent throne with kingdoms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could have given less matter A better ear.—Menas, I did not think This amorous surfeiter would have donned his helm For such a petty war."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Larceny of property having a value less than some amount (the amount varies by locale).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inferior in rank or status.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou wilt leave me, do not leave me last, When other petty griefs have done their spite, But in the onset come, so shall I taste At first the very worst of fortune’s might."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good friend,” quoth he, “Say, the firm Roman to great Egypt sends This treasure of an oyster; at whose foot, To mend the petty present, I will piece Her opulent throne with kingdoms."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could have given less matter A better ear.—Menas, I did not think This amorous surfeiter would have donned his helm For such a petty war."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # communalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of communal living and common ownership.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loyalty and commitment to the interests of your own minority or ethnic group rather than to society as a whole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, communalism designates the practice of communal living and common ownership."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of communal living and common ownership.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loyalty and commitment to the interests of your own minority or ethnic group rather than to society as a whole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, communalism designates the practice of communal living and common ownership."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # monitoring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of observing something (and sometimes keeping a record of it).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Keep tabs on; keep an eye on; keep under surveillance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Lewis, 1997, Helix Books, Addison-Wesley, Reading, MA. (Foreseeable technologies may reveal huge quantities of raw materials from space.) MONITORING AND CONTROLLING DEBRIS IN SPACE."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Translating a requirement into acquisition called for justifying funds, ensuring that procurement and manufacturing specifications and tech data were current, and initiating and monitoring acquisition documents."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of observing something (and sometimes keeping a record of it).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Keep tabs on; keep an eye on; keep under surveillance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Lewis, 1997, Helix Books, Addison-Wesley, Reading, MA. (Foreseeable technologies may reveal huge quantities of raw materials from space.) MONITORING AND CONTROLLING DEBRIS IN SPACE."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Translating a requirement into acquisition called for justifying funds, ensuring that procurement and manufacturing specifications and tech data were current, and initiating and monitoring acquisition documents."*

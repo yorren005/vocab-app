@@ -5,15 +5,6 @@ status: unread
 ---
 # pious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing or expressing reverence for a deity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing or expressing reverence for a deity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So Follow’d my banishment, and this twenty years This rock and these demesnes have been my world, Where I have liv’d at honest freedom, paid More pious debts to heaven than in all The fore-end of my time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In few, Ophelia, Do not believe his vows; for they are brokers, Not of that dye which their investments show, But mere implorators of unholy suits, Breathing like sanctified and pious bawds, The better to beguile."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The first row of the pious chanson will show you more."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing or expressing reverence for a deity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing or expressing reverence for a deity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So Follow’d my banishment, and this twenty years This rock and these demesnes have been my world, Where I have liv’d at honest freedom, paid More pious debts to heaven than in all The fore-end of my time."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In few, Ophelia, Do not believe his vows; for they are brokers, Not of that dye which their investments show, But mere implorators of unholy suits, Breathing like sanctified and pious bawds, The better to beguile."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The first row of the pious chanson will show you more."*

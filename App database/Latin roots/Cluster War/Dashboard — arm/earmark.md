@@ -5,13 +5,6 @@ status: unread
 ---
 # earmark
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Identification mark on the ear of a domestic animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinctive characteristic or attribute.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, earmark designates identification mark on the ear of a domestic animal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Identification mark on the ear of a domestic animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinctive characteristic or attribute.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, earmark designates identification mark on the ear of a domestic animal."*

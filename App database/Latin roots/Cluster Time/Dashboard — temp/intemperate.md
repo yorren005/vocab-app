@@ -5,15 +5,6 @@ status: unread
 ---
 # intemperate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of weather or climate) not mild; subject to extremes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive in behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He would not, but by gift of my chaste body To his concupiscible intemperate lust, Release my brother; and after much debatement, My sisterly remorse confutes mine honour, And I did yield to him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will write against it: You seem to me as Dian in her orb, As chaste as is the bud ere it be blown; But you are more intemperate in your blood Than Venus, or those pamper’d animals That rage in savage sensuality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That intemperate surfeit of her eye hath distempered the other senses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of weather or climate) not mild; subject to extremes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive in behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He would not, but by gift of my chaste body To his concupiscible intemperate lust, Release my brother; and after much debatement, My sisterly remorse confutes mine honour, And I did yield to him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will write against it: You seem to me as Dian in her orb, As chaste as is the bud ere it be blown; But you are more intemperate in your blood Than Venus, or those pamper’d animals That rage in savage sensuality."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That intemperate surfeit of her eye hath distempered the other senses."*

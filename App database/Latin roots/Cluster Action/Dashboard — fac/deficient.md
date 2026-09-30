@@ -5,15 +5,6 @@ status: unread
 ---
 # deficient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inadequate in amount or degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a quantity not able to fulfill a need or requirement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll look no more; Lest my brain turn, and the deficient sight Topple down headlong."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is abused, stol’n from me, and corrupted By spells and medicines bought of mountebanks; For nature so preposterously to err, Being not deficient, blind, or lame of sense, Sans witchcraft could not."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby’s advice, for the stair-carpets, besides being very deficient in stair-wires, were so torn as to be absolute traps."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inadequate in amount or degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a quantity not able to fulfill a need or requirement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll look no more; Lest my brain turn, and the deficient sight Topple down headlong."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is abused, stol’n from me, and corrupted By spells and medicines bought of mountebanks; For nature so preposterously to err, Being not deficient, blind, or lame of sense, Sans witchcraft could not."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby’s advice, for the stair-carpets, besides being very deficient in stair-wires, were so torn as to be absolute traps."*

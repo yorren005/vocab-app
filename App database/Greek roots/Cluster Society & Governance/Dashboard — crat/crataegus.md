@@ -5,13 +5,6 @@ status: unread
 ---
 # crataegus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thorny shrubs and small trees: hawthorn; thorn; thorn apple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thorny shrubs and small trees: hawthorn; thorn; thorn apple.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crataegus designates thorny shrubs and small trees: hawthorn; thorn; thorn apple."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thorny shrubs and small trees: hawthorn; thorn; thorn apple.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thorny shrubs and small trees: hawthorn; thorn; thorn apple.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crataegus designates thorny shrubs and small trees: hawthorn; thorn; thorn apple."*

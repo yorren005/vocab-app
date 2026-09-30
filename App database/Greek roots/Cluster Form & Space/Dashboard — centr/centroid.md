@@ -5,13 +5,6 @@ status: unread
 ---
 # centroid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Center of mass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A point whose coordinates are the averages of the corresponding coordinates of a given set of points and which for a given plane or three-dimensional figure (such as a triangle or sphere) corresponds to the center of mass of a thin plate of uniform thickness and consistency or a body of uniform consistency having the same boundary.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centroid designates center of mass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Center of mass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A point whose coordinates are the averages of the corresponding coordinates of a given set of points and which for a given plane or three-dimensional figure (such as a triangle or sphere) corresponds to the center of mass of a thin plate of uniform thickness and consistency or a body of uniform consistency having the same boundary.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centroid designates center of mass."*

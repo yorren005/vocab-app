@@ -5,15 +5,6 @@ status: unread
 ---
 # dine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have supper; eat dinner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give dinner to; host for dinner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, will you walk with me about the town, And then go to my inn and dine with me?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good sister, let us dine, and never fret; A man is master of his liberty; Time is their master, and when they see time, They’ll go or come."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Husband, I’ll dine above with you today, And shrive you of a thousand idle pranks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have supper; eat dinner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give dinner to; host for dinner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, will you walk with me about the town, And then go to my inn and dine with me?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good sister, let us dine, and never fret; A man is master of his liberty; Time is their master, and when they see time, They’ll go or come."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Husband, I’ll dine above with you today, And shrive you of a thousand idle pranks."*

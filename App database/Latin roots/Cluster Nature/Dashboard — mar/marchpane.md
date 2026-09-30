@@ -5,14 +5,6 @@ status: unread
 ---
 # marchpane
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Almond paste and egg whites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Almond paste and egg whites.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good thou, save me a piece of marchpane; and as thou loves me, let the porter let in Susan Grindstone and Nell."*
-> - 📜 **James Joyce (*Ulysses*):** *"Hot herringpies, green mugs of sack, honeysauces, sugar of roses, marchpane, gooseberried pigeons, ringocandies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Almond paste and egg whites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Almond paste and egg whites.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good thou, save me a piece of marchpane; and as thou loves me, let the porter let in Susan Grindstone and Nell."*
+> - 📜 **James Joyce (*Ulysses*):** *"Hot herringpies, green mugs of sack, honeysauces, sugar of roses, marchpane, gooseberried pigeons, ringocandies."*

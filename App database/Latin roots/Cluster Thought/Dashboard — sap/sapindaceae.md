@@ -5,13 +5,6 @@ status: unread
 ---
 # sapindaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly tropical new and old world deciduous and evergreen trees and shrubs bearing leathery drupes with yellow translucent flesh; most plants produce toxic saponins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly tropical new and old world deciduous and evergreen trees and shrubs bearing leathery drupes with yellow translucent flesh; most plants produce toxic saponins.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapindaceae designates chiefly tropical new and old world deciduous and evergreen trees and shrubs bearing leathery drupes with yellow translucent flesh; most plants produce toxic saponins."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly tropical new and old world deciduous and evergreen trees and shrubs bearing leathery drupes with yellow translucent flesh; most plants produce toxic saponins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly tropical new and old world deciduous and evergreen trees and shrubs bearing leathery drupes with yellow translucent flesh; most plants produce toxic saponins.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapindaceae designates chiefly tropical new and old world deciduous and evergreen trees and shrubs bearing leathery drupes with yellow translucent flesh; most plants produce toxic saponins."*

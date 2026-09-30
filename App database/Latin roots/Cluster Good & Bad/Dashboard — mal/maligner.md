@@ -5,13 +5,6 @@ status: unread
 ---
 # maligner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who attacks the reputation of another by slander or libel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who attacks the reputation of another by slander or libel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Blaine marched down the halls of the American Congress, and threw his shining lance full and fair against the brazen foreheads of the defamers of his country and the maligners of his honor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who attacks the reputation of another by slander or libel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who attacks the reputation of another by slander or libel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Blaine marched down the halls of the American Congress, and threw his shining lance full and fair against the brazen foreheads of the defamers of his country and the maligners of his honor."*

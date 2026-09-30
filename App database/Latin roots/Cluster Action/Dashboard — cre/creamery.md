@@ -5,14 +5,6 @@ status: unread
 ---
 # creamery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A workplace where dairy products (butter and cheese etc.) are produced or sold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A workplace where dairy products (butter and cheese etc.) are produced or sold.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"I did hear it reported that Elder Fry calculates to give up preachin' an' go into the creamery business another spring."*
-> - 📜 **James Joyce (*Ulysses*):** *"I am the dreamery creamery butter. _(A skeleton judashand strangles the light."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +41,10 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A workplace where dairy products (butter and cheese etc.) are produced or sold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A workplace where dairy products (butter and cheese etc.) are produced or sold.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"I did hear it reported that Elder Fry calculates to give up preachin' an' go into the creamery business another spring."*
+> - 📜 **James Joyce (*Ulysses*):** *"I am the dreamery creamery butter. _(A skeleton judashand strangles the light."*

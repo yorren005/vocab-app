@@ -5,15 +5,6 @@ status: unread
 ---
 # cantata
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition for voices and orchestra based on a religious text.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical composition for voices and orchestra based on a religious text.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Hurrah!” cried the three hundred voices again, but instead of the band a choir began singing a cantata composed by Paul Ivánovich Kutúzov: Russians!"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The footman, who was distributing leaflets with Kutúzov’s cantata, laid one before Pierre as one of the principal guests."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Salmon performed the Battle of Borodino (a savage cantata against the Corsican upstart, who had lately met with his Russian reverses)--Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition for voices and orchestra based on a religious text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical composition for voices and orchestra based on a religious text.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Hurrah!” cried the three hundred voices again, but instead of the band a choir began singing a cantata composed by Paul Ivánovich Kutúzov: Russians!"*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The footman, who was distributing leaflets with Kutúzov’s cantata, laid one before Pierre as one of the principal guests."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Salmon performed the Battle of Borodino (a savage cantata against the Corsican upstart, who had lately met with his Russian reverses)--Mr."*

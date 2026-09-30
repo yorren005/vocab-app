@@ -5,13 +5,6 @@ status: unread
 ---
 # hybridization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (genetics) the act of mixing different species or varieties of animals or plants and thus to produce hybrids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) the act of mixing different species or varieties of animals or plants and thus to produce hybrids.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hybridization designates (genetics) the act of mixing different species or varieties of animals or plants and thus to produce hybrids."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (genetics) the act of mixing different species or varieties of animals or plants and thus to produce hybrids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) the act of mixing different species or varieties of animals or plants and thus to produce hybrids.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hybridization designates (genetics) the act of mixing different species or varieties of animals or plants and thus to produce hybrids."*

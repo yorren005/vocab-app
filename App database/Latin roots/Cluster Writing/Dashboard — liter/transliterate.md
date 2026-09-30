@@ -5,14 +5,6 @@ status: unread
 ---
 # transliterate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rewrite in a different script.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rewrite in a different script.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Osiris was the offspring of an intrigue between the earth-god Seb (Keb or Geb, as the name is sometimes transliterated) and the sky-goddess Nut."*
-> - 📜 **James Joyce (*Ulysses*):** *"Dolphin’s Barn: the transliterated name and address of the addresser of the 3 letters in reversed alphabetic boustrophedonic punctated quadrilinear cryptogram (vowels suppressed) N."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rewrite in a different script.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rewrite in a different script.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Osiris was the offspring of an intrigue between the earth-god Seb (Keb or Geb, as the name is sometimes transliterated) and the sky-goddess Nut."*
+> - 📜 **James Joyce (*Ulysses*):** *"Dolphin’s Barn: the transliterated name and address of the addresser of the 3 letters in reversed alphabetic boustrophedonic punctated quadrilinear cryptogram (vowels suppressed) N."*

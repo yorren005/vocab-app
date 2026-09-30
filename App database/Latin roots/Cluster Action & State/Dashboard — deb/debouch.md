@@ -5,15 +5,6 @@ status: unread
 ---
 # debouch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: March out (as from a defile) into open ground.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pass out or emerge; especially of rivers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A squad of constables debouched from College street, marching in Indian file."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Davout’s troops, in whose charge were the prisoners, were crossing the Crimean bridge and some were already debouching into the Kalúga road."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The main valley of the North Platte, two hundred miles from its mouth to where it debouches through the Black Hills out on to the great plains, is an average of ten miles wide."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: March out (as from a defile) into open ground.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pass out or emerge; especially of rivers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"A squad of constables debouched from College street, marching in Indian file."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Davout’s troops, in whose charge were the prisoners, were crossing the Crimean bridge and some were already debouching into the Kalúga road."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The main valley of the North Platte, two hundred miles from its mouth to where it debouches through the Black Hills out on to the great plains, is an average of ten miles wide."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # mined
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get from the earth by excavation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lay mines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Here was beauty native, to be picked like a nugget, not to be mined for in bitter hours of torment and distress."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"No, the bridge has not yet been taken and I hope it will not be, for it is mined and orders have been given to blow it up."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But why did they not blow up the bridge, if it was mined?” “That is what I ask you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Get from the earth by excavation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lay mines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Here was beauty native, to be picked like a nugget, not to be mined for in bitter hours of torment and distress."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"No, the bridge has not yet been taken and I hope it will not be, for it is mined and orders have been given to blow it up."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But why did they not blow up the bridge, if it was mined?” “That is what I ask you."*

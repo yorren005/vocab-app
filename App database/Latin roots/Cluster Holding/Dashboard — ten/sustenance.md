@@ -5,15 +5,6 @@ status: unread
 ---
 # sustenance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A source of materials to nourish the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The financial means whereby one lives.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, our vessel is of Tyre, in it the king; A man who for this three months hath not spoken To anyone, nor taken sustenance But to prorogue his grief."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I have hardly a penny in the world—I am staying with my aunt for my bare sustenance."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He went into the corn-field at autumn and visited the olive tree for sustenance as did other men."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A source of materials to nourish the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The financial means whereby one lives.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, our vessel is of Tyre, in it the king; A man who for this three months hath not spoken To anyone, nor taken sustenance But to prorogue his grief."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I have hardly a penny in the world—I am staying with my aunt for my bare sustenance."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"He went into the corn-field at autumn and visited the olive tree for sustenance as did other men."*

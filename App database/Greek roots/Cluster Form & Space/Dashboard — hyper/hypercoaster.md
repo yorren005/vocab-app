@@ -5,13 +5,6 @@ status: unread
 ---
 # hypercoaster
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A roller coaster that goes up 200 feet or higher and can catapult riders from 0 to 70 mph in 4 seconds by motors originally designed to launch rockets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A roller coaster that goes up 200 feet or higher and can catapult riders from 0 to 70 mph in 4 seconds by motors originally designed to launch rockets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercoaster designates a roller coaster that goes up 200 feet or higher and can catapult riders from 0 to 70 mph in 4 seconds by motors originally designed to launch rockets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A roller coaster that goes up 200 feet or higher and can catapult riders from 0 to 70 mph in 4 seconds by motors originally designed to launch rockets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A roller coaster that goes up 200 feet or higher and can catapult riders from 0 to 70 mph in 4 seconds by motors originally designed to launch rockets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercoaster designates a roller coaster that goes up 200 feet or higher and can catapult riders from 0 to 70 mph in 4 seconds by motors originally designed to launch rockets."*

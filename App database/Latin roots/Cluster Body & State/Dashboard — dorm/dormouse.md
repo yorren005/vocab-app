@@ -5,15 +5,6 @@ status: unread
 ---
 # dormouse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small furry-tailed squirrel-like old world rodent that becomes torpid in cold weather.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small furry-tailed squirrel-like old world rodent that becomes torpid in cold weather.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She did show favour to the youth in your sight only to exasperate you, to awake your dormouse valour, to put fire in your heart and brimstone in your liver."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Very uncomfortable for the Dormouse,” thought Alice; “only, as it’s asleep, I suppose it doesn’t mind.” The table was a large one, but the three were all crowded together at one corner of it: “No room!"*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The Dormouse is asleep again,” said the Hatter, and he poured a little hot tea upon its nose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small furry-tailed squirrel-like old world rodent that becomes torpid in cold weather.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small furry-tailed squirrel-like old world rodent that becomes torpid in cold weather.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She did show favour to the youth in your sight only to exasperate you, to awake your dormouse valour, to put fire in your heart and brimstone in your liver."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Very uncomfortable for the Dormouse,” thought Alice; “only, as it’s asleep, I suppose it doesn’t mind.” The table was a large one, but the three were all crowded together at one corner of it: “No room!"*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The Dormouse is asleep again,” said the Hatter, and he poured a little hot tea upon its nose."*

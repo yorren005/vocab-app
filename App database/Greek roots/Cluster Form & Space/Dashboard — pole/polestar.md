@@ -5,13 +5,6 @@ status: unread
 ---
 # polestar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The brightest star in ursa minor; at the end of the handle of the little dipper; the northern axis of the earth points toward it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The brightest star in ursa minor; at the end of the handle of the little dipper; the northern axis of the earth points toward it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polestar designates the brightest star in ursa minor; at the end of the handle of the little dipper; the northern axis of the earth points toward it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The brightest star in ursa minor; at the end of the handle of the little dipper; the northern axis of the earth points toward it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The brightest star in ursa minor; at the end of the handle of the little dipper; the northern axis of the earth points toward it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polestar designates the brightest star in ursa minor; at the end of the handle of the little dipper; the northern axis of the earth points toward it."*

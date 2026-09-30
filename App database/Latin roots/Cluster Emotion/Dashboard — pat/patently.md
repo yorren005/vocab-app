@@ -5,15 +5,6 @@ status: unread
 ---
 # patently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unmistakably (`plain' is often used informally for `plainly').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unmistakably (`plain' is often used informally for `plainly').
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But Morrell’s method was so patently the reverse of my method of self-hypnosis that I was fascinated."*
-> - 📜 **James Joyce (*Ulysses*):** *"Stephen, patently crosstempered, repeated and shoved aside his mug of coffee or whatever you like to call it none too politely, adding: —We can’t change the country."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"No chronological significance can be attached to the variations of colour, and to place the grey ware earlier than the red is both, unscientific and patently incorrect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unmistakably (`plain' is often used informally for `plainly').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unmistakably (`plain' is often used informally for `plainly').
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But Morrell’s method was so patently the reverse of my method of self-hypnosis that I was fascinated."*
+> - 📜 **James Joyce (*Ulysses*):** *"Stephen, patently crosstempered, repeated and shoved aside his mug of coffee or whatever you like to call it none too politely, adding: —We can’t change the country."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"No chronological significance can be attached to the variations of colour, and to place the grey ware earlier than the red is both, unscientific and patently incorrect."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # taboo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prejudice (especially in polynesia and other south pacific islands) that prohibits the use or mention of something because of its sacred nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inhibition or ban resulting from social custom or emotional aversion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"To me it is most memorable—the time when the one with a grouch, who never played, alighted in a moment of absent-mindedness within the taboo precinct and was immediately captured in my hand."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I am taboo—sacred as the sacred canoe-house under the floor of which repose the bones of heaven alone knows how many previous kings of Raa Kook’s line."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And, later and earlier, there were other lives in which I sang with the priests and bards the taboo-songs of the stars wherein we believed was written our imperishable record."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prejudice (especially in polynesia and other south pacific islands) that prohibits the use or mention of something because of its sacred nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inhibition or ban resulting from social custom or emotional aversion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"To me it is most memorable—the time when the one with a grouch, who never played, alighted in a moment of absent-mindedness within the taboo precinct and was immediately captured in my hand."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I am taboo—sacred as the sacred canoe-house under the floor of which repose the bones of heaven alone knows how many previous kings of Raa Kook’s line."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And, later and earlier, there were other lives in which I sang with the priests and bards the taboo-songs of the stars wherein we believed was written our imperishable record."*

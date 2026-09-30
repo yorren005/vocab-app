@@ -5,13 +5,6 @@ status: unread
 ---
 # piscidia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of shrubs or small trees having indehiscent pods with black seeds; roots and bark yield fish poisons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of shrubs or small trees having indehiscent pods with black seeds; roots and bark yield fish poisons.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, piscidia designates genus of shrubs or small trees having indehiscent pods with black seeds; roots and bark yield fish poisons."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of shrubs or small trees having indehiscent pods with black seeds; roots and bark yield fish poisons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of shrubs or small trees having indehiscent pods with black seeds; roots and bark yield fish poisons.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, piscidia designates genus of shrubs or small trees having indehiscent pods with black seeds; roots and bark yield fish poisons."*

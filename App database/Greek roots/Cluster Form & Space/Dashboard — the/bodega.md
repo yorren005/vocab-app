@@ -5,13 +5,6 @@ status: unread
 ---
 # bodega
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A storehouse for maturing wine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A storehouse for maturing wine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"I saw John Henry Menton casually in the Bodega just now and it will cost me a fall if I don’t..."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A storehouse for maturing wine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A storehouse for maturing wine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"I saw John Henry Menton casually in the Bodega just now and it will cost me a fall if I don’t..."*

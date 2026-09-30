@@ -5,15 +5,6 @@ status: unread
 ---
 # labyrinth
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Complex system of paths or tunnels in which it is easy to get lost.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex system of interconnecting cavities; concerned with hearing and equilibrium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, Suffolk, stay; Thou mayst not wander in that labyrinth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, lost in the labyrinth of thy fury?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A labyrinth of grandeur, less the property of an old family of human beings and their ghostly likenesses than of an old family of echoings and thunderings which start out of their hundred graves at every sound and go resounding through the building."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Complex system of paths or tunnels in which it is easy to get lost.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex system of interconnecting cavities; concerned with hearing and equilibrium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, Suffolk, stay; Thou mayst not wander in that labyrinth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, lost in the labyrinth of thy fury?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A labyrinth of grandeur, less the property of an old family of human beings and their ghostly likenesses than of an old family of echoings and thunderings which start out of their hundred graves at every sound and go resounding through the building."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # partiality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A predisposition to like something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclination to favor one group or view or opinion over alternatives.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Perhaps I speak with some little partiality."*
-> - 📜 **Jane Austen (*Persuasion*):** *"They are as fine healthy children as ever were seen, poor little dears! without partiality; but Mrs Charles knows no more how they should be treated—!"*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Without any partiality on my part, it would be impossible for me to ignore this fact: for it is perfectly well known and acknowledged by all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A predisposition to like something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclination to favor one group or view or opinion over alternatives.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Perhaps I speak with some little partiality."*
+> - 📜 **Jane Austen (*Persuasion*):** *"They are as fine healthy children as ever were seen, poor little dears! without partiality; but Mrs Charles knows no more how they should be treated—!"*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Without any partiality on my part, it would be impossible for me to ignore this fact: for it is perfectly well known and acknowledged by all."*

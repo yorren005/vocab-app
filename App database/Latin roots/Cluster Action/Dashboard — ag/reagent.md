@@ -5,15 +5,6 @@ status: unread
 ---
 # reagent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical agent for use in chemical reactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical agent for use in chemical reactions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He affirmed his significance as a conscious rational animal proceeding syllogistically from the known to the unknown and a conscious rational reagent between a micro and a macrocosm ineluctably constructed upon the incertitude of the void."*
-> - 📜 **James Joyce (*Ulysses*):** *"Because a nature full and volatile in its free state, was alternately the agent and reagent of attraction."*
-> - 📜 **James Joyce (*Ulysses*):** *"Because attraction between agent(s) and reagent(s) at all instants varied, with inverse proportion of increase and decrease, with incessant circular extension and radial reentrance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical agent for use in chemical reactions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical agent for use in chemical reactions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"He affirmed his significance as a conscious rational animal proceeding syllogistically from the known to the unknown and a conscious rational reagent between a micro and a macrocosm ineluctably constructed upon the incertitude of the void."*
+> - 📜 **James Joyce (*Ulysses*):** *"Because a nature full and volatile in its free state, was alternately the agent and reagent of attraction."*
+> - 📜 **James Joyce (*Ulysses*):** *"Because attraction between agent(s) and reagent(s) at all instants varied, with inverse proportion of increase and decrease, with incessant circular extension and radial reentrance."*

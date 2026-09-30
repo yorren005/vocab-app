@@ -5,15 +5,6 @@ status: unread
 ---
 # parsee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a monotheistic sect of zoroastrian origin; descended from the persians; now found in western india.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a monotheistic sect of zoroastrian origin; descended from the persians; now found in western india.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And Ahab chanced so to stand, that the Parsee occupied his shadow; while, if the Parsee’s shadow was there at all it seemed only to blend with, and lengthen Ahab’s."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Ahab and all his boat’s crew seemed asleep but the Parsee; who crouching in the bow, sat watching the sharks, that spectrally played round the whale, and tapped the light cedar planks with their tails."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Started from his slumbers, Ahab, face to face, saw the Parsee; and hooped round by the gloom of the night they seemed the last men in a flooded world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a monotheistic sect of zoroastrian origin; descended from the persians; now found in western india.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a monotheistic sect of zoroastrian origin; descended from the persians; now found in western india.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And Ahab chanced so to stand, that the Parsee occupied his shadow; while, if the Parsee’s shadow was there at all it seemed only to blend with, and lengthen Ahab’s."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Ahab and all his boat’s crew seemed asleep but the Parsee; who crouching in the bow, sat watching the sharks, that spectrally played round the whale, and tapped the light cedar planks with their tails."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Started from his slumbers, Ahab, face to face, saw the Parsee; and hooped round by the gloom of the night they seemed the last men in a flooded world."*

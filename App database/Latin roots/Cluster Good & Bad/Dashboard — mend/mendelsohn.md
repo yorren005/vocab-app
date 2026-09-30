@@ -5,13 +5,6 @@ status: unread
 ---
 # mendelsohn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German architect who migrated to palestine in 1937 (1887-1953).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German architect who migrated to palestine in 1937 (1887-1953).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Edward Mendelsohn (London: Faber and Faber, 976), 510-18."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: German architect who migrated to palestine in 1937 (1887-1953).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German architect who migrated to palestine in 1937 (1887-1953).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Edward Mendelsohn (London: Faber and Faber, 976), 510-18."*

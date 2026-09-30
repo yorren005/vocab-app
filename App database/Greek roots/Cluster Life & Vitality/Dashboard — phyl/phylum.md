@@ -5,13 +5,6 @@ status: unread
 ---
 # phylum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A direct line of descent within a group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group that constitutes or has the unity of a phylum; specifically : a primary category in biological taxonomy especially of animals that ranks above the class and below the kingdom.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylum designates a direct line of descent within a group."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A direct line of descent within a group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group that constitutes or has the unity of a phylum; specifically : a primary category in biological taxonomy especially of animals that ranks above the class and below the kingdom.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylum designates a direct line of descent within a group."*

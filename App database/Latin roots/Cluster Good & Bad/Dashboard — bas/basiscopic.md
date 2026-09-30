@@ -5,13 +5,6 @@ status: unread
 ---
 # basiscopic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Facing or on the side toward the base.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Facing or on the side toward the base.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basiscopic designates facing or on the side toward the base."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Facing or on the side toward the base.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Facing or on the side toward the base.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basiscopic designates facing or on the side toward the base."*

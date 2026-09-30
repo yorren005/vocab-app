@@ -5,15 +5,6 @@ status: unread
 ---
 # concentrated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make denser, stronger, or purer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Direct one's attention on something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is thoughtful, gloomy, concentrated."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Sinister design lurked in the woman’s features, a concentrated purpose of revenge on the other sex—so it seemed to him then."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His face grew colder and more shrunken as he stood concentrated on the moment, and a minute or two after, he found himself in the street, walking along he did not know whither."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make denser, stronger, or purer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Direct one's attention on something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is thoughtful, gloomy, concentrated."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Sinister design lurked in the woman’s features, a concentrated purpose of revenge on the other sex—so it seemed to him then."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His face grew colder and more shrunken as he stood concentrated on the moment, and a minute or two after, he found himself in the street, walking along he did not know whither."*

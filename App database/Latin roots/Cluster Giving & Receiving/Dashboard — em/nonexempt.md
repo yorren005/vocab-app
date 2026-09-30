@@ -5,13 +5,6 @@ status: unread
 ---
 # nonexempt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of goods or funds) subject to taxation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of persons) not exempt from an obligation or liability.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonexempt designates (of goods or funds) subject to taxation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of goods or funds) subject to taxation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of persons) not exempt from an obligation or liability.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonexempt designates (of goods or funds) subject to taxation."*

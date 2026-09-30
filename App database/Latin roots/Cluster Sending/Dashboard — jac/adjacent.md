@@ -5,15 +5,6 @@ status: unread
 ---
 # adjacent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nearest in space or position; immediately adjoining without intervening space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a common boundary or edge; abutting; touching.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From the barge A strange invisible perfume hits the sense Of the adjacent wharfs."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I conjure thee by Rosaline’s bright eyes, By her high forehead and her scarlet lip, By her fine foot, straight leg, and quivering thigh, And the demesnes that there adjacent lie, That in thy likeness thou appear to us."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The adjacent low-lying ground for half a mile in breadth is a stagnant river with melancholy trees for islands in it and a surface punctured all over, all day long, with falling rain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nearest in space or position; immediately adjoining without intervening space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a common boundary or edge; abutting; touching.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From the barge A strange invisible perfume hits the sense Of the adjacent wharfs."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I conjure thee by Rosaline’s bright eyes, By her high forehead and her scarlet lip, By her fine foot, straight leg, and quivering thigh, And the demesnes that there adjacent lie, That in thy likeness thou appear to us."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The adjacent low-lying ground for half a mile in breadth is a stagnant river with melancholy trees for islands in it and a surface punctured all over, all day long, with falling rain."*

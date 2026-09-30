@@ -5,15 +5,6 @@ status: unread
 ---
 # visual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or using sight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Visible; - shakespeare.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The great aids to idealization in love were present here: occasional observation of her from a distance, and the absence of social intercourse with her—visual familiarity, oral strangeness."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"An intensely visual memory had flashed over him."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But all in vain; those young Platonists have a notion that their vision is imperfect; they are short-sighted; what use, then, to strain the visual nerve?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or using sight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Visible; - shakespeare.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The great aids to idealization in love were present here: occasional observation of her from a distance, and the absence of social intercourse with her—visual familiarity, oral strangeness."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"An intensely visual memory had flashed over him."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But all in vain; those young Platonists have a notion that their vision is imperfect; they are short-sighted; what use, then, to strain the visual nerve?"*

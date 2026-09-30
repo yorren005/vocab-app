@@ -5,20 +5,6 @@ status: unread
 ---
 # dart
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Light spear
-> 2. **Nuance / Usage**: Game in which darts are thrown at a target
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the dart withstood the storm*), direct object (*cleaved the dart*), or prepositional anchor (*amidst the dart*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Here stand I, lady; dart thy skill at me."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And not death’s ebon dart to strike him dead."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"What strength had I to dart retaliation at my antagonist?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Light spear
+> 2. **Nuance / Usage**: Game in which darts are thrown at a target
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the dart withstood the storm*), direct object (*cleaved the dart*), or prepositional anchor (*amidst the dart*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Here stand I, lady; dart thy skill at me."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And not death’s ebon dart to strike him dead."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"What strength had I to dart retaliation at my antagonist?"*

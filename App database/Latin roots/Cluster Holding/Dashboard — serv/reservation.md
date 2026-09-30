@@ -5,15 +5,6 @@ status: unread
 ---
 # reservation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A district that is reserved for particular purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement that limits or restricts some claim.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I most unfeignedly beseech your lordship to make some reservation of your wrongs."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have the power still To banish your defenders, till at length Your ignorance—which finds not till it feels, Making but reservation of yourselves, Still your own foes—deliver you, As most abated captives to some nation That won you without blows!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ourself, by monthly course, With reservation of an hundred knights, By you to be sustain’d, shall our abode Make with you by due turn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A district that is reserved for particular purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement that limits or restricts some claim.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I most unfeignedly beseech your lordship to make some reservation of your wrongs."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have the power still To banish your defenders, till at length Your ignorance—which finds not till it feels, Making but reservation of yourselves, Still your own foes—deliver you, As most abated captives to some nation That won you without blows!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ourself, by monthly course, With reservation of an hundred knights, By you to be sustain’d, shall our abode Make with you by due turn."*

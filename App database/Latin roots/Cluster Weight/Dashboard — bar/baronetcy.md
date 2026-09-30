@@ -5,15 +5,6 @@ status: unread
 ---
 # baronetcy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rank or dignity or position of a baronet or baroness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The title of a baron.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester and the baronetcy, Sir Leicester and Chesney Wold, Sir Leicester and his ancestors and his patrimony”—Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"He considered the blessing of beauty as inferior only to the blessing of a baronetcy; and the Sir Walter Elliot, who united these gifts, was the constant object of his warmest respect and devotion."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Now you are to understand, that time had worked a very material change in Mr Elliot’s opinions as to the value of a baronetcy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rank or dignity or position of a baronet or baroness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The title of a baron.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester and the baronetcy, Sir Leicester and Chesney Wold, Sir Leicester and his ancestors and his patrimony”—Mr."*
+> - 📜 **Jane Austen (*Persuasion*):** *"He considered the blessing of beauty as inferior only to the blessing of a baronetcy; and the Sir Walter Elliot, who united these gifts, was the constant object of his warmest respect and devotion."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Now you are to understand, that time had worked a very material change in Mr Elliot’s opinions as to the value of a baronetcy."*

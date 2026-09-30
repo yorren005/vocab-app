@@ -5,13 +5,6 @@ status: unread
 ---
 # accrete
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grow together (of plants and organs).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grow or become attached by accretion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"Of its bones is coral made;" its arguments and theories have lain long in Wordsworth's mind, and have accreted to themselves a rich investiture of observation and feeling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Grow together (of plants and organs).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grow or become attached by accretion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"Of its bones is coral made;" its arguments and theories have lain long in Wordsworth's mind, and have accreted to themselves a rich investiture of observation and feeling."*

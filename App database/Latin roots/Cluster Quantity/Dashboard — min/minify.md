@@ -5,13 +5,6 @@ status: unread
 ---
 # minify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make smaller.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make smaller.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"But by no means do I ever overlook or minify the fact that this is one of the most extraordinary experiences of my life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make smaller.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make smaller.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"But by no means do I ever overlook or minify the fact that this is one of the most extraordinary experiences of my life."*

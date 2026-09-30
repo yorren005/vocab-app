@@ -5,15 +5,6 @@ status: unread
 ---
 # insincere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking sincerity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking sincerity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"For the insincere and the trivial there is no message from God, no truth of God--how should there be?"*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But however insincere _you_ may choose to be, you shall not find _me_ so."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Miss Bingley’s congratulations to her brother on his approaching marriage were all that was affectionate and insincere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking sincerity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking sincerity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"For the insincere and the trivial there is no message from God, no truth of God--how should there be?"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But however insincere _you_ may choose to be, you shall not find _me_ so."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Miss Bingley’s congratulations to her brother on his approaching marriage were all that was affectionate and insincere."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # distance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property created by the space between two objects or points.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distant region.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If there be breadth enough in the world, I will hold a long distance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Another part of the Forest Enter Touchstone and Audrey; Jaques at a distance observing them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Rosalind, Celia and Corin, at a distance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property created by the space between two objects or points.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distant region.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If there be breadth enough in the world, I will hold a long distance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Another part of the Forest Enter Touchstone and Audrey; Jaques at a distance observing them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Rosalind, Celia and Corin, at a distance."*

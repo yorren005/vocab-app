@@ -5,13 +5,6 @@ status: unread
 ---
 # thermodynamics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Physics that deals with the mechanical action or relations of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thermodynamic processes and phenomena.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermodynamics designates physics that deals with the mechanical action or relations of heat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Physics that deals with the mechanical action or relations of heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thermodynamic processes and phenomena.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermodynamics designates physics that deals with the mechanical action or relations of heat."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # miserable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very unhappy; full of misery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving or inciting pity; ; ; - galsworthy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Twice did he turn his back and purposed so; But kindness, nobler ever than revenge, And nature, stronger than his just occasion, Made him give battle to the lioness, Who quickly fell before him; in which hurtling From miserable slumber I awaked."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had I been thief-stol’n, As my two brothers, happy! but most miserable Is the desire that’s glorious."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get you therefore hence, Poor miserable wretches, to your death, The taste whereof God of his mercy give You patience to endure, and true repentance Of all your dear offences!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very unhappy; full of misery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving or inciting pity; ; ; - galsworthy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Twice did he turn his back and purposed so; But kindness, nobler ever than revenge, And nature, stronger than his just occasion, Made him give battle to the lioness, Who quickly fell before him; in which hurtling From miserable slumber I awaked."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had I been thief-stol’n, As my two brothers, happy! but most miserable Is the desire that’s glorious."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get you therefore hence, Poor miserable wretches, to your death, The taste whereof God of his mercy give You patience to endure, and true repentance Of all your dear offences!"*

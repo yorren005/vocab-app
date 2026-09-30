@@ -5,13 +5,6 @@ status: unread
 ---
 # fixative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound (such as ethanol or formaldehyde) that fixes tissues and cells for microscopic study.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A varnish dissolved in alcohol and sprayed over pictures to prevent smudging.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fixative designates a compound (such as ethanol or formaldehyde) that fixes tissues and cells for microscopic study."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound (such as ethanol or formaldehyde) that fixes tissues and cells for microscopic study.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A varnish dissolved in alcohol and sprayed over pictures to prevent smudging.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fixative designates a compound (such as ethanol or formaldehyde) that fixes tissues and cells for microscopic study."*

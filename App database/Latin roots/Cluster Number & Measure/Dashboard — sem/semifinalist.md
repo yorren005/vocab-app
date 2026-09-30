@@ -5,13 +5,6 @@ status: unread
 ---
 # semifinalist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of four competitors remaining in a tournament by elimination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of four competitors remaining in a tournament by elimination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semifinalist designates one of four competitors remaining in a tournament by elimination."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of four competitors remaining in a tournament by elimination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of four competitors remaining in a tournament by elimination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semifinalist designates one of four competitors remaining in a tournament by elimination."*

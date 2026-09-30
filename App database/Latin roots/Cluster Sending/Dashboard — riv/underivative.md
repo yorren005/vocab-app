@@ -5,13 +5,6 @@ status: unread
 ---
 # underivative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not derivative or imitative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not derivative or imitative.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underivative designates not derivative or imitative."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not derivative or imitative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not derivative or imitative.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underivative designates not derivative or imitative."*

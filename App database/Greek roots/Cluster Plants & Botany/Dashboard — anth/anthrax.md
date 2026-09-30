@@ -5,13 +5,6 @@ status: unread
 ---
 # anthrax
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An infectious disease of warm-blooded animals (such as cattle and sheep) caused by a spore-forming bacterium (Bacillus anthracis), transmissible to humans especially by the handling of infected products (such as wool), and characterized by cutaneous ulcerating nodules or by often fatal lesions in the lungs; also : the bacterium causing anthrax.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An infectious disease of warm-blooded animals (such as cattle and sheep) caused by a spore-forming bacterium (Bacillus anthracis), transmissible to humans especially by the handling of infected products (such as wool), and characterized by cutaneous ulcerating nodules or by often fatal lesions in the lungs; also : the bacterium causing anthrax.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthrax designates an infectious disease of warm-blooded animals (such as cattle and sheep) caused by a spore-forming bacterium (bacillus anthracis), transmissible to humans especially by the handling of infected products (such as wool), and characterized by cutaneous ulcerating nodules or by often fatal lesions in the lungs; also : the bacterium causing anthrax."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infectious disease of warm-blooded animals (such as cattle and sheep) caused by a spore-forming bacterium (Bacillus anthracis), transmissible to humans especially by the handling of infected products (such as wool), and characterized by cutaneous ulcerating nodules or by often fatal lesions in the lungs; also : the bacterium causing anthrax.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An infectious disease of warm-blooded animals (such as cattle and sheep) caused by a spore-forming bacterium (Bacillus anthracis), transmissible to humans especially by the handling of infected products (such as wool), and characterized by cutaneous ulcerating nodules or by often fatal lesions in the lungs; also : the bacterium causing anthrax.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthrax designates an infectious disease of warm-blooded animals (such as cattle and sheep) caused by a spore-forming bacterium (bacillus anthracis), transmissible to humans especially by the handling of infected products (such as wool), and characterized by cutaneous ulcerating nodules or by often fatal lesions in the lungs; also : the bacterium causing anthrax."*

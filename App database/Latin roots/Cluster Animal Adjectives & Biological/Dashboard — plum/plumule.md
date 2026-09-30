@@ -5,13 +5,6 @@ status: unread
 ---
 # plumule
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Down feather of young birds; persists in some adult birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Down feather of young birds; persists in some adult birds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumule designates down feather of young birds; persists in some adult birds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Down feather of young birds; persists in some adult birds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Down feather of young birds; persists in some adult birds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumule designates down feather of young birds; persists in some adult birds."*

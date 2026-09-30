@@ -5,15 +5,6 @@ status: unread
 ---
 # apache
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of athapaskan tribes that migrated to the southwestern desert (from arizona to texas and south into mexico); fought a losing battle from 1861 to 1886 with the united states and were resettled in oklahoma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parisian gangster.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"After that came a long newspaper story about how a miners’ camp had been attacked by Apache Indians, and there was my Frank’s name among the killed."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The first four times that an Apache Indian goes out on the war-path, he is bound to refrain from scratching his head with his fingers and from letting water touch his lips."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(In workman’s corduroy overalls, black gansy with red floating tie and apache cap.)_ Mankind is incorrigible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of athapaskan tribes that migrated to the southwestern desert (from arizona to texas and south into mexico); fought a losing battle from 1861 to 1886 with the united states and were resettled in oklahoma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parisian gangster.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"After that came a long newspaper story about how a miners’ camp had been attacked by Apache Indians, and there was my Frank’s name among the killed."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The first four times that an Apache Indian goes out on the war-path, he is bound to refrain from scratching his head with his fingers and from letting water touch his lips."*
+> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(In workman’s corduroy overalls, black gansy with red floating tie and apache cap.)_ Mankind is incorrigible."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # toggle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any instruction that works first one way and then the other; it turns something on the first time it is used and then turns it off the next time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hinged switch that can assume either of two positions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toggle designates any instruction that works first one way and then the other; it turns something on the first time it is used and then turns it off the next time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any instruction that works first one way and then the other; it turns something on the first time it is used and then turns it off the next time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hinged switch that can assume either of two positions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toggle designates any instruction that works first one way and then the other; it turns something on the first time it is used and then turns it off the next time."*

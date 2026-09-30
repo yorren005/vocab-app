@@ -5,13 +5,6 @@ status: unread
 ---
 # perfectibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability of becoming perfect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capability of becoming perfect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I took in all the new ideas at one time—human perfectibility, now."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability of becoming perfect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capability of becoming perfect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"I took in all the new ideas at one time—human perfectibility, now."*

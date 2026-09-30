@@ -5,15 +5,6 @@ status: unread
 ---
 # deprecatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to diminish or disparage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to diminish or disparage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I am not quite sure whether clever men ever dance.” “I would dance with you if you would allow me.” “Oh!” said Rosamond, with a slight deprecatory laugh."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Would you mind telling me what made you so confident that the spleen had nothing to do with the complication?” Fields inquired in a deprecatory manner which made Burns long to twist his neck."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He used to nod many times to her and smile when she came in, and utter inarticulate deprecatory moans when she was going away."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to diminish or disparage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to diminish or disparage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"I am not quite sure whether clever men ever dance.” “I would dance with you if you would allow me.” “Oh!” said Rosamond, with a slight deprecatory laugh."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Would you mind telling me what made you so confident that the spleen had nothing to do with the complication?” Fields inquired in a deprecatory manner which made Burns long to twist his neck."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He used to nod many times to her and smile when she came in, and utter inarticulate deprecatory moans when she was going away."*

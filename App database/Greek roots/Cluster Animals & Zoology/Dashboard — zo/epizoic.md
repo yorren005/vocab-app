@@ -5,13 +5,6 @@ status: unread
 ---
 # epizoic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Living or growing on the exterior surface of an animal usually as a parasite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living or growing on the exterior surface of an animal usually as a parasite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epizoic designates living or growing on the exterior surface of an animal usually as a parasite."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living or growing on the exterior surface of an animal usually as a parasite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living or growing on the exterior surface of an animal usually as a parasite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epizoic designates living or growing on the exterior surface of an animal usually as a parasite."*

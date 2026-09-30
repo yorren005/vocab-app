@@ -5,15 +5,6 @@ status: unread
 ---
 # inexpressive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not expressive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not expressive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"His imperturbable face has been as inexpressive as his rusty clothes."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge was disengaged, and we found him at his table in his dusty room with the inexpressive-looking books and the piles of papers."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The dawn of the March morning is singularly inexpressive, and there is nothing to show where the eastern horizon lies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not expressive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not expressive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"His imperturbable face has been as inexpressive as his rusty clothes."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge was disengaged, and we found him at his table in his dusty room with the inexpressive-looking books and the piles of papers."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The dawn of the March morning is singularly inexpressive, and there is nothing to show where the eastern horizon lies."*

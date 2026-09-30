@@ -5,13 +5,6 @@ status: unread
 ---
 # topsy-turvyness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of extreme confusion and disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of extreme confusion and disorder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topsy-turvyness designates a state of extreme confusion and disorder."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of extreme confusion and disorder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of extreme confusion and disorder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topsy-turvyness designates a state of extreme confusion and disorder."*

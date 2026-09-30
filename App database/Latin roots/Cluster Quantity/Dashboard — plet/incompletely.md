@@ -5,13 +5,6 @@ status: unread
 ---
 # incompletely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not to a full degree or extent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not to a full degree or extent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond was not angry, but she moved backward a little in timid happiness, and Lydgate could now sit near her and speak less incompletely."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not to a full degree or extent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not to a full degree or extent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond was not angry, but she moved backward a little in timid happiness, and Lydgate could now sit near her and speak less incompletely."*

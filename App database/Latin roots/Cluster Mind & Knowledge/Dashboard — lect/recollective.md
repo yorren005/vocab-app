@@ -5,13 +5,6 @@ status: unread
 ---
 # recollective
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Good at remembering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Good at remembering.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recollective designates good at remembering."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Good at remembering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Good at remembering.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recollective designates good at remembering."*

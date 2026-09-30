@@ -5,15 +5,6 @@ status: unread
 ---
 # chlorate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any salt of chloric acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any salt of chloric acid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Would he obtain air by chemical means, in getting by heat the oxygen contained in chlorate of potash, and in absorbing carbonic acid by caustic potash?"*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"These chemical matches were simply sulphur matches tipped with a mixture of chlorate of potash and sugar."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"I have here two of the original "Prometheans." They consist (as you see) of a small quantity of chlorate of potash and sugar rolled up tightly in a piece of paper."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any salt of chloric acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any salt of chloric acid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Would he obtain air by chemical means, in getting by heat the oxygen contained in chlorate of potash, and in absorbing carbonic acid by caustic potash?"*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"These chemical matches were simply sulphur matches tipped with a mixture of chlorate of potash and sugar."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"I have here two of the original "Prometheans." They consist (as you see) of a small quantity of chlorate of potash and sugar rolled up tightly in a piece of paper."*

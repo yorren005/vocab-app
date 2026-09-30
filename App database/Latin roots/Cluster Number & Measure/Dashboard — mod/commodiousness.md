@@ -5,13 +5,6 @@ status: unread
 ---
 # commodiousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spatial largeness and extensiveness (especially inside a building).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spatial largeness and extensiveness (especially inside a building).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"With such commodiousness of situation, these two learned persons sat themselves down, each in his own domain, yet familiarly passing from one apartment to the other, and bestowing a mutual and not incurious inspection into one another’s business."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spatial largeness and extensiveness (especially inside a building).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spatial largeness and extensiveness (especially inside a building).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"With such commodiousness of situation, these two learned persons sat themselves down, each in his own domain, yet familiarly passing from one apartment to the other, and bestowing a mutual and not incurious inspection into one another’s business."*

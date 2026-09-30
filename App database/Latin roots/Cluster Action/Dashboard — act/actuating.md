@@ -5,14 +5,6 @@ status: unread
 ---
 # actuating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put in motion or move to act.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an incentive for action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Salvation with him means that revelation of the soul to itself, that awakening, quickening, actuating, attitude-adjusting, of the soul, which sets it gravitating toward the Divine."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The principles actuating both classes are alike."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +41,10 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put in motion or move to act.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an incentive for action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Salvation with him means that revelation of the soul to itself, that awakening, quickening, actuating, attitude-adjusting, of the soul, which sets it gravitating toward the Divine."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The principles actuating both classes are alike."*

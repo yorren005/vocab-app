@@ -5,13 +5,6 @@ status: unread
 ---
 # xylene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of three toxic flammable oily isomeric aromatic hydrocarbons C8H10 that are di-methyl homologues of benzene and are usually obtained from petroleum or natural gas distillates; also : a mixture of xylenes and ethyl benzene used chiefly as a solvent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of three toxic flammable oily isomeric aromatic hydrocarbons C8H10 that are di-methyl homologues of benzene and are usually obtained from petroleum or natural gas distillates; also : a mixture of xylenes and ethyl benzene used chiefly as a solvent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylene designates any of three toxic flammable oily isomeric aromatic hydrocarbons c8h10 that are di-methyl homologues of benzene and are usually obtained from petroleum or natural gas distillates; also : a mixture of xylenes and ethyl benzene used chiefly as a solvent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of three toxic flammable oily isomeric aromatic hydrocarbons C8H10 that are di-methyl homologues of benzene and are usually obtained from petroleum or natural gas distillates; also : a mixture of xylenes and ethyl benzene used chiefly as a solvent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of three toxic flammable oily isomeric aromatic hydrocarbons C8H10 that are di-methyl homologues of benzene and are usually obtained from petroleum or natural gas distillates; also : a mixture of xylenes and ethyl benzene used chiefly as a solvent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylene designates any of three toxic flammable oily isomeric aromatic hydrocarbons c8h10 that are di-methyl homologues of benzene and are usually obtained from petroleum or natural gas distillates; also : a mixture of xylenes and ethyl benzene used chiefly as a solvent."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # intercession
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prayer to god on behalf of another person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of intervening (as to mediate a dispute, etc.).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hast thou by secret means Used intercession to obtain a league, And, now the matter grows to compromise, Stand’st thou aloof upon comparison?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let it be noised That through our intercession this revokement And pardon comes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I bear no hatred, blessed man; for lo, My intercession likewise steads my foe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prayer to god on behalf of another person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of intervening (as to mediate a dispute, etc.).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hast thou by secret means Used intercession to obtain a league, And, now the matter grows to compromise, Stand’st thou aloof upon comparison?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let it be noised That through our intercession this revokement And pardon comes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I bear no hatred, blessed man; for lo, My intercession likewise steads my foe."*

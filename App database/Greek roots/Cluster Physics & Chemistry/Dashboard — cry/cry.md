@@ -5,15 +5,6 @@ status: unread
 ---
 # cry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To utter loudly : shout.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beg, beseech.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think good thoughts, whilst other write good words, And like unlettered clerk still cry Amen, To every hymn that able spirit affords, In polished form of well refined pen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you cry ‘O Lord, sir!’ at your whipping, and ‘spare not me’?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of late when I cried “Ho!” Like boys unto a muss, kings would start forth And cry “Your will?” Have you no ears?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To utter loudly : shout.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beg, beseech.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think good thoughts, whilst other write good words, And like unlettered clerk still cry Amen, To every hymn that able spirit affords, In polished form of well refined pen."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you cry ‘O Lord, sir!’ at your whipping, and ‘spare not me’?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of late when I cried “Ho!” Like boys unto a muss, kings would start forth And cry “Your will?” Have you no ears?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # plebeian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the common people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or associated with the great masses of people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A more plebeian one will answer my purpose just as well, and the pleasure of knowing whose heart my old one beats against—well, I won’t speak of that."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I smiled as I unfolded it, and devised how I would tease you about your aristocratic tastes, and your efforts to masque your plebeian bride in the attributes of a peeress."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Pocket to be brought up from her cradle as one who in the nature of things must marry a title, and who was to be guarded from the acquisition of plebeian domestic knowledge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the common people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or associated with the great masses of people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A more plebeian one will answer my purpose just as well, and the pleasure of knowing whose heart my old one beats against—well, I won’t speak of that."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I smiled as I unfolded it, and devised how I would tease you about your aristocratic tastes, and your efforts to masque your plebeian bride in the attributes of a peeress."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pocket to be brought up from her cradle as one who in the nature of things must marry a title, and who was to be guarded from the acquisition of plebeian domestic knowledge."*

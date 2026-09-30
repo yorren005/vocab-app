@@ -5,15 +5,6 @@ status: unread
 ---
 # exotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or from or characteristic of another place or part of the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strikingly strange or unusual.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet the exotic had grown here, suddenly as the prophet’s gourd; and had drawn hither Tess."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For like certain other omnivorous roving lovers that might be named, my Lord Whale has no taste for the nursery, however much for the bower; and so, being a great traveller, he leaves his anonymous babies all over the world; every baby an exotic."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He's an expert in the martial arts and in using exotic weapons."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or from or characteristic of another place or part of the world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strikingly strange or unusual.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet the exotic had grown here, suddenly as the prophet’s gourd; and had drawn hither Tess."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For like certain other omnivorous roving lovers that might be named, my Lord Whale has no taste for the nursery, however much for the bower; and so, being a great traveller, he leaves his anonymous babies all over the world; every baby an exotic."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He's an expert in the martial arts and in using exotic weapons."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # compatriot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person from your own country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person from your own country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I am delighted to meet a compatriot."*
-> - 📜 **James Joyce (*Ulysses*):** *"Knife with which Voisin dismembered the wife of a compatriot and hid remains in a sheet in the cellar, the unfortunate female’s throat being cut from ear to ear."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"None but a compatriot," his Excellency declared, "could have performed that majestic dance in such a way." Then she figured in a waltz with Monsieur de Klingenspohr, the Prince of Peterwaradin's cousin and attache."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person from your own country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person from your own country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I am delighted to meet a compatriot."*
+> - 📜 **James Joyce (*Ulysses*):** *"Knife with which Voisin dismembered the wife of a compatriot and hid remains in a sheet in the cellar, the unfortunate female’s throat being cut from ear to ear."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"None but a compatriot," his Excellency declared, "could have performed that majestic dance in such a way." Then she figured in a waltz with Monsieur de Klingenspohr, the Prince of Peterwaradin's cousin and attache."*

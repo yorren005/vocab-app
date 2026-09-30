@@ -5,15 +5,6 @@ status: unread
 ---
 # feller
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who fells trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A boy or man.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And when I seed her, ’twas nothing but blushes with me!” “Poor feller,” said Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For ye see, shepherd, though ’tis very well for a woman, dang it all, ’tis awkward for a man like him, poor feller?” “’Tis—’tis,” said Gabriel, recovering from a meditation."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The pore feller were faithful and true enough to her in his wish, but his heart would rove, do what he would."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who fells trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A boy or man.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And when I seed her, ’twas nothing but blushes with me!” “Poor feller,” said Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For ye see, shepherd, though ’tis very well for a woman, dang it all, ’tis awkward for a man like him, poor feller?” “’Tis—’tis,” said Gabriel, recovering from a meditation."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The pore feller were faithful and true enough to her in his wish, but his heart would rove, do what he would."*

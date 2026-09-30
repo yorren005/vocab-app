@@ -5,15 +5,6 @@ status: unread
 ---
 # approximation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An approximate calculation of quantity or degree or worth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of coming near to identity (especially close in quantity).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Such a standard averages the fluctuations of particular goods and would give a fair approximation in practice to the ideals of equal sacrifice and equal enjoyment (on the average tho not in individual cases)."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"Especial attention has been given to the descriptions of Indian towns, and it is confidently believed, that here for the first time, can be found, at least, an approximation to a complete list, and the exact location of the entire number destroyed."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Our Master read mortal mind on a scientific basis, that of the omnipresence of Mind. 94:30 An approximation of this discernment indicates spiritual growth and union with the infinite capacities of the one Mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An approximate calculation of quantity or degree or worth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of coming near to identity (especially close in quantity).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Such a standard averages the fluctuations of particular goods and would give a fair approximation in practice to the ideals of equal sacrifice and equal enjoyment (on the average tho not in individual cases)."*
+> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"Especial attention has been given to the descriptions of Indian towns, and it is confidently believed, that here for the first time, can be found, at least, an approximation to a complete list, and the exact location of the entire number destroyed."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Our Master read mortal mind on a scientific basis, that of the omnipresence of Mind. 94:30 An approximation of this discernment indicates spiritual growth and union with the infinite capacities of the one Mind."*

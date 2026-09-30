@@ -5,13 +5,6 @@ status: unread
 ---
 # electrocute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill by electric shock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kill by electrocution, as in the electric chair.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Gob, they ought to drown him in the sea after and electrocute and crucify him to make sure of their job. —But what about the fighting navy, says Ned, that keeps our foes at bay? —I’ll tell you what about it, says the citizen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill by electric shock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kill by electrocution, as in the electric chair.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Gob, they ought to drown him in the sea after and electrocute and crucify him to make sure of their job. —But what about the fighting navy, says Ned, that keeps our foes at bay? —I’ll tell you what about it, says the citizen."*

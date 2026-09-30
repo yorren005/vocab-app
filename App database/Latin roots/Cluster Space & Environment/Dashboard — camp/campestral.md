@@ -5,13 +5,6 @@ status: unread
 ---
 # campestral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of fields or open country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of fields or open country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, campestral designates of fields or open country."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of fields or open country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of fields or open country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, campestral designates of fields or open country."*

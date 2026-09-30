@@ -5,15 +5,6 @@ status: unread
 ---
 # sophistry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deliberately invalid argument displaying ingenuity in reasoning in the hope of deceiving someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberately invalid argument displaying ingenuity in reasoning in the hope of deceiving someone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"No, it is not true!” “It is true.” “Every word?” “Every word.” He looked at her imploringly, as if he would willingly have taken a lie from her lips, knowing it to be one, and have made of it, by some sort of sophistry, a valid denial."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This bald sophistry, or self-deception, was easily possible by confusing the word "socialist" as relating to the abstract principle of social action, with socialist as applied to their own party organization."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Upon my word, I must take Ladislaw’s part until I hear more harm of him.” “Humphrey, that is all sophistry, and you know it,” said his wife."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deliberately invalid argument displaying ingenuity in reasoning in the hope of deceiving someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberately invalid argument displaying ingenuity in reasoning in the hope of deceiving someone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"No, it is not true!” “It is true.” “Every word?” “Every word.” He looked at her imploringly, as if he would willingly have taken a lie from her lips, knowing it to be one, and have made of it, by some sort of sophistry, a valid denial."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This bald sophistry, or self-deception, was easily possible by confusing the word "socialist" as relating to the abstract principle of social action, with socialist as applied to their own party organization."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Upon my word, I must take Ladislaw’s part until I hear more harm of him.” “Humphrey, that is all sophistry, and you know it,” said his wife."*

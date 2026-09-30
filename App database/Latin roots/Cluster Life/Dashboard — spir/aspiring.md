@@ -5,15 +5,6 @@ status: unread
 ---
 # aspiring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have an ambitious plan or a lofty goal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Desiring or striving for recognition or advancement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For, to be plain, They, knowing Dame Eleanor’s aspiring humour, Have hired me to undermine the Duchess And buzz these conjurations in her brain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, will the aspiring blood of Lancaster Sink in the ground?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Show boldness and aspiring confidence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have an ambitious plan or a lofty goal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Desiring or striving for recognition or advancement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For, to be plain, They, knowing Dame Eleanor’s aspiring humour, Have hired me to undermine the Duchess And buzz these conjurations in her brain."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, will the aspiring blood of Lancaster Sink in the ground?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Show boldness and aspiring confidence."*

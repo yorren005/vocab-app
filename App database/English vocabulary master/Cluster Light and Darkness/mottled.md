@@ -5,20 +5,6 @@ status: unread
 ---
 # mottled
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Colored in patches; spotted
-> 2. **Nuance / Usage**: Marked with spots of different colors : having blotches of two or more colors
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a mottled appearance*) and predicatively after a linking verb (*remained mottled*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"eyes,—small, keen, and black,—and thin wide mottled lips."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"handkerchief wrapped, which was mottled all over with bloodstains."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"swelling plain, mottled with the green patches of rushes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Colored in patches; spotted
+> 2. **Nuance / Usage**: Marked with spots of different colors : having blotches of two or more colors
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a mottled appearance*) and predicatively after a linking verb (*remained mottled*).
+> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"eyes,—small, keen, and black,—and thin wide mottled lips."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"handkerchief wrapped, which was mottled all over with bloodstains."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"swelling plain, mottled with the green patches of rushes."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # sericterium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Silk-producing gland of insects (especially of a silkworm) or spiders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Silk-producing gland of insects (especially of a silkworm) or spiders.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sericterium designates silk-producing gland of insects (especially of a silkworm) or spiders."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Silk-producing gland of insects (especially of a silkworm) or spiders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Silk-producing gland of insects (especially of a silkworm) or spiders.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sericterium designates silk-producing gland of insects (especially of a silkworm) or spiders."*

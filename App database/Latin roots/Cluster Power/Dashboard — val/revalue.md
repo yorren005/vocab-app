@@ -5,13 +5,6 @@ status: unread
 ---
 # revalue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gain in value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Value anew.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"If, however, the expected income fails to be realized, the capital loses its value, or it is revalued on the basis of the new rents."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gain in value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Value anew.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"If, however, the expected income fails to be realized, the capital loses its value, or it is revalued on the basis of the new rents."*

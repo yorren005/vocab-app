@@ -5,20 +5,6 @@ status: unread
 ---
 # barrow
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (chiefly british) a hill
-> 2. **Nuance / Usage**: Male hog castrated before sexual maturity
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby Dick*):** *"fast; and then shoulders the barrow and marches up the wharf."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Neolithic skull in the barrow on Long Down."*
-> - 📜 **James Joyce (*Ulysses*):** *"boots followed the trundled barrow along a lane of sepulchres."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: (chiefly british) a hill
+> 2. **Nuance / Usage**: Male hog castrated before sexual maturity
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby Dick*):** *"fast; and then shoulders the barrow and marches up the wharf."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Neolithic skull in the barrow on Long Down."*
+> - 📜 **James Joyce (*Ulysses*):** *"boots followed the trundled barrow along a lane of sepulchres."*

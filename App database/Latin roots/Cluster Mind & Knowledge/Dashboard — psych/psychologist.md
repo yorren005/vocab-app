@@ -5,15 +5,6 @@ status: unread
 ---
 # psychologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist trained in psychology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientist trained in psychology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill's achievements as an economist, logician, psychologist, and politician are known more or less vaguely to all educated men; but his capacity and his actual work as a critic are comparatively little regarded."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"As a systematic psychologist Mr."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"These things are mere abstractions.” “That is all right,” said the Psychologist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist trained in psychology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientist trained in psychology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill's achievements as an economist, logician, psychologist, and politician are known more or less vaguely to all educated men; but his capacity and his actual work as a critic are comparatively little regarded."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"As a systematic psychologist Mr."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"These things are mere abstractions.” “That is all right,” said the Psychologist."*

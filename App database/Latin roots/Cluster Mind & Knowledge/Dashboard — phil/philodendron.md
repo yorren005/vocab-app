@@ -5,13 +5,6 @@ status: unread
 ---
 # philodendron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Often grown as a houseplant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Often grown as a houseplant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philodendron designates often grown as a houseplant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Often grown as a houseplant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Often grown as a houseplant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philodendron designates often grown as a houseplant."*

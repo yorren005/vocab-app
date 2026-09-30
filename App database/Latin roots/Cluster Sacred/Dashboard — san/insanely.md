@@ -5,13 +5,6 @@ status: unread
 ---
 # insanely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an insane manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used as intensives) extremely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Now he alone was blamed for what had happened, he was said to be insanely jealous and subject like his father to fits of bloodthirsty rage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an insane manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used as intensives) extremely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Now he alone was blamed for what had happened, he was said to be insanely jealous and subject like his father to fits of bloodthirsty rage."*

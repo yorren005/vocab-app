@@ -5,15 +5,6 @@ status: unread
 ---
 # elusion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of avoiding capture (especially by cunning).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of avoiding capture (especially by cunning).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The planting of flowers on Fanny’s grave had been perhaps but a species of elusion of the primary grief, and now it was as if his intention had been known and circumvented."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There was not much time, however, for thought or elusion, and she yielded as calmly as she could to the necessity of letting him overtake her."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The planting of flowers on Fanny’s grave had been perhaps but a species of elusion of the primary grief, and now it was as if his intention had been known and circumvented."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of avoiding capture (especially by cunning).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of avoiding capture (especially by cunning).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The planting of flowers on Fanny’s grave had been perhaps but a species of elusion of the primary grief, and now it was as if his intention had been known and circumvented."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There was not much time, however, for thought or elusion, and she yielded as calmly as she could to the necessity of letting him overtake her."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The planting of flowers on Fanny’s grave had been perhaps but a species of elusion of the primary grief, and now it was as if his intention had been known and circumvented."*

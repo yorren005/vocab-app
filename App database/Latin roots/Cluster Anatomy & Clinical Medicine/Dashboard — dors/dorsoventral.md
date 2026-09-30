@@ -5,13 +5,6 @@ status: unread
 ---
 # dorsoventral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extending from the back to the belly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extending from the back to the belly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dorsoventral designates extending from the back to the belly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extending from the back to the belly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extending from the back to the belly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dorsoventral designates extending from the back to the belly."*

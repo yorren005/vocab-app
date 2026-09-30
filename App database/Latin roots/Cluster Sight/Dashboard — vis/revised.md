@@ -5,15 +5,6 @@ status: unread
 ---
 # revised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make revisions in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Revise or reorganize, especially for the purpose of updating and improving.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The manuscript was revised around 1803 and sold to a London publisher, Crosbie & Co., who sold it back in 1816."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the campaign of 1908 the Republicans admitted that the protective tariff needed to be revised, but they declared that it should be revised by its friends."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"For usually a tariff has been revised downward because a few years of prosperity with large imports had so increased customs duties that the government has had surplus revenues."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make revisions in.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Revise or reorganize, especially for the purpose of updating and improving.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"The manuscript was revised around 1803 and sold to a London publisher, Crosbie & Co., who sold it back in 1816."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the campaign of 1908 the Republicans admitted that the protective tariff needed to be revised, but they declared that it should be revised by its friends."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"For usually a tariff has been revised downward because a few years of prosperity with large imports had so increased customs duties that the government has had surplus revenues."*

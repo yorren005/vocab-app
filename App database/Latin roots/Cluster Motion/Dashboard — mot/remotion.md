@@ -5,14 +5,6 @@ status: unread
 ---
 # remotion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of removing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of removing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This act persuades me That this remotion of the Duke and her Is practice only."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All thy safety were remotion, and thy defence absence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of removing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of removing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This act persuades me That this remotion of the Duke and her Is practice only."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All thy safety were remotion, and thy defence absence."*

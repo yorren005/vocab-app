@@ -5,13 +5,6 @@ status: unread
 ---
 # remittal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A payment of money sent to a person in another place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abatement in intensity or degree (as in the manifestations of a disease).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, remittal designates a payment of money sent to a person in another place."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A payment of money sent to a person in another place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abatement in intensity or degree (as in the manifestations of a disease).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, remittal designates a payment of money sent to a person in another place."*

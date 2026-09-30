@@ -5,13 +5,6 @@ status: unread
 ---
 # acephaly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The congenital lack of a head (especially in a parasitic twin).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The congenital lack of a head (especially in a parasitic twin).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acephaly designates the congenital lack of a head (especially in a parasitic twin)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The congenital lack of a head (especially in a parasitic twin).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The congenital lack of a head (especially in a parasitic twin).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acephaly designates the congenital lack of a head (especially in a parasitic twin)."*

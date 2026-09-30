@@ -5,15 +5,6 @@ status: unread
 ---
 # enthusiastic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing great excitement and interest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing great excitement and interest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Our friends at the castle and even Philip, who certainly was not easily filled with enthusiasm, were extremely enthusiastic about our new playmate."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But even if he had not received it she had a sudden enthusiastic trust that he surely would forgive her."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Biesenthal had an enthusiastic reverence for what in the hands of others were the dry details of Hebrew Grammar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing great excitement and interest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing great excitement and interest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Our friends at the castle and even Philip, who certainly was not easily filled with enthusiasm, were extremely enthusiastic about our new playmate."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But even if he had not received it she had a sudden enthusiastic trust that he surely would forgive her."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Biesenthal had an enthusiastic reverence for what in the hands of others were the dry details of Hebrew Grammar."*

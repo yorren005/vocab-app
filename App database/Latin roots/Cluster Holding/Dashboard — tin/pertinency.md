@@ -5,13 +5,6 @@ status: unread
 ---
 # pertinency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relevance by virtue of being applicable to the matter at hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relevance by virtue of being applicable to the matter at hand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pertinency designates relevance by virtue of being applicable to the matter at hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relevance by virtue of being applicable to the matter at hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relevance by virtue of being applicable to the matter at hand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pertinency designates relevance by virtue of being applicable to the matter at hand."*

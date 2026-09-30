@@ -5,15 +5,6 @@ status: unread
 ---
 # pirate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who commits or practices piracy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To commit piracy on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ere we were two days old at sea, a pirate of very warlike appointment gave us chase."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This villain here, Being captain of a pinnace, threatens more Than Bargulus the strong Illyrian pirate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus stands my state, ’twixt Cade and York distressed, Like to a ship that, having scaped a tempest, Is straightway calmed and boarded with a pirate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who commits or practices piracy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To commit piracy on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ere we were two days old at sea, a pirate of very warlike appointment gave us chase."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This villain here, Being captain of a pinnace, threatens more Than Bargulus the strong Illyrian pirate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus stands my state, ’twixt Cade and York distressed, Like to a ship that, having scaped a tempest, Is straightway calmed and boarded with a pirate."*

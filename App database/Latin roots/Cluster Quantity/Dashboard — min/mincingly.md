@@ -5,15 +5,6 @@ status: unread
 ---
 # mincingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mincing manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a mincing manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I collect my thoughts here for the business of the day,” said the old lady mincingly."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I'd like to smash something--crush it to a jelly." Val mincingly pointed out that such a consummation was not far off, but he was ignored."*
-> - 📜 **James Joyce (*Ulysses*):** *"STEPHEN: _(Mincingly.)_ I love you, sir darling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mincing manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a mincing manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I collect my thoughts here for the business of the day,” said the old lady mincingly."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"I'd like to smash something--crush it to a jelly." Val mincingly pointed out that such a consummation was not far off, but he was ignored."*
+> - 📜 **James Joyce (*Ulysses*):** *"STEPHEN: _(Mincingly.)_ I love you, sir darling."*

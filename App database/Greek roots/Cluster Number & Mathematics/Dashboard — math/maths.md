@@ -5,13 +5,6 @@ status: unread
 ---
 # maths
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science (or group of related sciences) dealing with the logic of quantity and shape and arrangement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science (or group of related sciences) dealing with the logic of quantity and shape and arrangement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Didst never want to be a pirate, my hearty?” Now John had sometimes experienced this hankering at maths. prep.; and he was struck by Hook’s picking him out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A science (or group of related sciences) dealing with the logic of quantity and shape and arrangement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science (or group of related sciences) dealing with the logic of quantity and shape and arrangement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"Didst never want to be a pirate, my hearty?” Now John had sometimes experienced this hankering at maths. prep.; and he was struck by Hook’s picking him out."*

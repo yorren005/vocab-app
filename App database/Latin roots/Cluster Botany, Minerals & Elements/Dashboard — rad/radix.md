@@ -5,13 +5,6 @@ status: unread
 ---
 # radix
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (numeration system) the positive integer that is equivalent to one in the next higher counting place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (numeration system) the positive integer that is equivalent to one in the next higher counting place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radix designates (numeration system) the positive integer that is equivalent to one in the next higher counting place."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (numeration system) the positive integer that is equivalent to one in the next higher counting place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (numeration system) the positive integer that is equivalent to one in the next higher counting place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radix designates (numeration system) the positive integer that is equivalent to one in the next higher counting place."*

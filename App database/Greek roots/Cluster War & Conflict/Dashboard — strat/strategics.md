@@ -5,13 +5,6 @@ status: unread
 ---
 # strategics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science or art of strategy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science or art of strategy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And all these proposals, based on strategics and tactics, contradict each other."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science or art of strategy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science or art of strategy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And all these proposals, based on strategics and tactics, contradict each other."*

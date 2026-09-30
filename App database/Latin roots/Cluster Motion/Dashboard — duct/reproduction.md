@@ -5,15 +5,6 @@ status: unread
 ---
 # reproduction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of generating offspring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recall that is hypothesized to work by storing the original stimulus input and reproducing it during recall.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And you thought I was the mere stone reproduction of one of them."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"And what is true of the reproduction of plants and animals may hold good also of the fertility of the human sexes."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"For with Nature the Wordsworthians will admit no tampering: they exact the direct interpretative reproduction of her; that the poet should follow her as a mistress, not use her as a handmaid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of generating offspring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recall that is hypothesized to work by storing the original stimulus input and reproducing it during recall.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And you thought I was the mere stone reproduction of one of them."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"And what is true of the reproduction of plants and animals may hold good also of the fertility of the human sexes."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"For with Nature the Wordsworthians will admit no tampering: they exact the direct interpretative reproduction of her; that the poet should follow her as a mistress, not use her as a handmaid."*

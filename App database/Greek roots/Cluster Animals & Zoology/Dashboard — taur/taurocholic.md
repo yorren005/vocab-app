@@ -5,13 +5,6 @@ status: unread
 ---
 # taurocholic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bile acid C26H45NO7S derived from cholic acid and taurine and occurring as the sodium salt in the bile especially of carnivores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bile acid C26H45NO7S derived from cholic acid and taurine and occurring as the sodium salt in the bile especially of carnivores.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taurocholic designates a bile acid c26h45no7s derived from cholic acid and taurine and occurring as the sodium salt in the bile especially of carnivores."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bile acid C26H45NO7S derived from cholic acid and taurine and occurring as the sodium salt in the bile especially of carnivores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bile acid C26H45NO7S derived from cholic acid and taurine and occurring as the sodium salt in the bile especially of carnivores.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taurocholic designates a bile acid c26h45no7s derived from cholic acid and taurine and occurring as the sodium salt in the bile especially of carnivores."*

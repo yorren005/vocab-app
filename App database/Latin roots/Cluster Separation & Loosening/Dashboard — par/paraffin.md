@@ -5,15 +5,6 @@ status: unread
 ---
 # paraffin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From crude petroleum; used for candles and for preservative or waterproof coatings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A series of non-aromatic saturated hydrocarbons with the general formula cnh(2n+2).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"The next part of the process is to coat the splints with paraffin or melted sulphur."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"The necessity for this coating of sulphur or paraffin you will understand by an experiment."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Now that is exactly what would happen if paraffin (or some similarly combustible body) was not placed on the end of the splint; my phosphorus would burn when I rubbed it on the box, but it would not set fire to the match."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From crude petroleum; used for candles and for preservative or waterproof coatings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A series of non-aromatic saturated hydrocarbons with the general formula cnh(2n+2).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"The next part of the process is to coat the splints with paraffin or melted sulphur."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"The necessity for this coating of sulphur or paraffin you will understand by an experiment."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Now that is exactly what would happen if paraffin (or some similarly combustible body) was not placed on the end of the splint; my phosphorus would burn when I rubbed it on the box, but it would not set fire to the match."*

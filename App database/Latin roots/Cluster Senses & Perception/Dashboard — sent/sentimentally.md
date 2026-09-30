@@ -5,15 +5,6 @@ status: unread
 ---
 # sentimentally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sentimental manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sentimental manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Being even now only a young woman of twenty, one who mentally and sentimentally had not finished growing, it was impossible that any event should have left upon her an impression that was not in time capable of transmutation."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"When they had last met on the old prince’s name day, she had answered at random all his attempts to talk sentimentally, evidently not listening to what he was saying."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"She had not given her last shilling, sentimentally speaking, either to Caspar Goodwood or to Lord Warburton, and yet couldn’t but feel them appreciably in debt to her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sentimental manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sentimental manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Being even now only a young woman of twenty, one who mentally and sentimentally had not finished growing, it was impossible that any event should have left upon her an impression that was not in time capable of transmutation."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"When they had last met on the old prince’s name day, she had answered at random all his attempts to talk sentimentally, evidently not listening to what he was saying."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"She had not given her last shilling, sentimentally speaking, either to Caspar Goodwood or to Lord Warburton, and yet couldn’t but feel them appreciably in debt to her."*

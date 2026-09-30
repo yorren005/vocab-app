@@ -5,15 +5,6 @@ status: unread
 ---
 # monetary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or involving money.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"So closely connected with this that they are hardly more than different phases of the same thing, are the use of money (the monetary economy), the wage system, and competition as a mode of distribution."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A number of these will receive attention in the following pages. § 9. #The monetary economy#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Divisibility; that is, the quality in the monetary material that permits it to be divided easily into smaller amounts and then to be united again into larger masses at little cost and without loss in amount or in quality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving money.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or involving money.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"So closely connected with this that they are hardly more than different phases of the same thing, are the use of money (the monetary economy), the wage system, and competition as a mode of distribution."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A number of these will receive attention in the following pages. § 9. #The monetary economy#."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Divisibility; that is, the quality in the monetary material that permits it to be divided easily into smaller amounts and then to be united again into larger masses at little cost and without loss in amount or in quality."*

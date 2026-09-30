@@ -5,13 +5,6 @@ status: unread
 ---
 # nonproprietary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not protected by trademark or patent or copyright.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not protected by trademark or patent or copyright.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonproprietary designates not protected by trademark or patent or copyright."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not protected by trademark or patent or copyright.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not protected by trademark or patent or copyright.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonproprietary designates not protected by trademark or patent or copyright."*

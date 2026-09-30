@@ -5,15 +5,6 @@ status: unread
 ---
 # sternly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With sternness; in a severe manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With sternness; in a severe manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Much better!” “Why, you an’t such an unnatural woman, I hope,” returns Bucket sternly, “as to wish your own child dead?” “God knows you are right, master,” she returns."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not dead in the first hours of her life, as my cruel sister told me, but sternly nurtured by her, after she had renounced me and my name!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"What do you mean?” inquired my guardian, almost sternly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With sternness; in a severe manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With sternness; in a severe manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Much better!” “Why, you an’t such an unnatural woman, I hope,” returns Bucket sternly, “as to wish your own child dead?” “God knows you are right, master,” she returns."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Not dead in the first hours of her life, as my cruel sister told me, but sternly nurtured by her, after she had renounced me and my name!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"What do you mean?” inquired my guardian, almost sternly."*

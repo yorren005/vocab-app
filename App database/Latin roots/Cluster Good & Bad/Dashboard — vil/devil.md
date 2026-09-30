@@ -5,15 +5,6 @@ status: unread
 ---
 # devil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (judeo-christian and islamic religions) chief spirit of evil and adversary of god; tempter of mankind; master of hell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An evil supernatural being.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To win me soon to hell my female evil Tempteth my better angel from my side, And would corrupt my saint to be a devil, Wooing his purity with her foul pride."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My poor body, madam, requires it; I am driven on by the flesh, and he must needs go that the devil drives."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be more expressive to them; for they wear themselves in the cap of the time; there do muster true gait; eat, speak, and move, under the influence of the most receiv’d star; and though the devil lead the measure, such are to be followed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (judeo-christian and islamic religions) chief spirit of evil and adversary of god; tempter of mankind; master of hell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An evil supernatural being.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To win me soon to hell my female evil Tempteth my better angel from my side, And would corrupt my saint to be a devil, Wooing his purity with her foul pride."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My poor body, madam, requires it; I am driven on by the flesh, and he must needs go that the devil drives."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be more expressive to them; for they wear themselves in the cap of the time; there do muster true gait; eat, speak, and move, under the influence of the most receiv’d star; and though the devil lead the measure, such are to be followed."*

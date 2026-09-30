@@ -5,14 +5,6 @@ status: unread
 ---
 # cannes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port and resort city on the french riviera; site of an annual film festival.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port and resort city on the french riviera; site of an annual film festival.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"So imprisoned and tortured was this gentle little heart, when in the month of March, Anno Domini 1815, Napoleon landed at Cannes, and Louis XVIII fled, and all Europe was in alarm, and the funds fell, and old John Sedley was ruined."*
-> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"It was from Erskine, and written at the Hôtel d’Angleterre, Cannes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A port and resort city on the french riviera; site of an annual film festival.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port and resort city on the french riviera; site of an annual film festival.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"So imprisoned and tortured was this gentle little heart, when in the month of March, Anno Domini 1815, Napoleon landed at Cannes, and Louis XVIII fled, and all Europe was in alarm, and the funds fell, and old John Sedley was ruined."*
+> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"It was from Erskine, and written at the Hôtel d’Angleterre, Cannes."*

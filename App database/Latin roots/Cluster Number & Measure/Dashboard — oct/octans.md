@@ -5,13 +5,6 @@ status: unread
 ---
 # octans
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The constellation that includes the southern celestial pole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The constellation that includes the southern celestial pole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octans designates the constellation that includes the southern celestial pole."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The constellation that includes the southern celestial pole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The constellation that includes the southern celestial pole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octans designates the constellation that includes the southern celestial pole."*

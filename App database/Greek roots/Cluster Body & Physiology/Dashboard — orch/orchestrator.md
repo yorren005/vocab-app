@@ -5,13 +5,6 @@ status: unread
 ---
 # orchestrator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arranger who writes for orchestras.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arranger who writes for orchestras.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orchestrator designates an arranger who writes for orchestras."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arranger who writes for orchestras.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arranger who writes for orchestras.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orchestrator designates an arranger who writes for orchestras."*

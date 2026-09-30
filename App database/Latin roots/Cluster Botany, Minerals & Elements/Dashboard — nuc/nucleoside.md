@@ -5,13 +5,6 @@ status: unread
 ---
 # nucleoside
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A glycoside formed by partial hydrolysis of a nucleic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A glycoside formed by partial hydrolysis of a nucleic acid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nucleoside designates a glycoside formed by partial hydrolysis of a nucleic acid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A glycoside formed by partial hydrolysis of a nucleic acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A glycoside formed by partial hydrolysis of a nucleic acid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nucleoside designates a glycoside formed by partial hydrolysis of a nucleic acid."*

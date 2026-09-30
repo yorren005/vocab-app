@@ -5,13 +5,6 @@ status: unread
 ---
 # apologue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An allegorical narrative usually intended to convey a moral.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An allegorical narrative usually intended to convey a moral.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apologue designates an allegorical narrative usually intended to convey a moral."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An allegorical narrative usually intended to convey a moral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An allegorical narrative usually intended to convey a moral.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apologue designates an allegorical narrative usually intended to convey a moral."*

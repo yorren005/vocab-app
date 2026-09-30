@@ -5,13 +5,6 @@ status: unread
 ---
 # monocle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lens for correcting defective vision in one eye; held in place by facial muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lens for correcting defective vision in one eye; held in place by facial muscles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"In his left eye flashes the monocle of Cashel Boyle O’Connor Fitzmaurice Tisdall Farrell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lens for correcting defective vision in one eye; held in place by facial muscles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lens for correcting defective vision in one eye; held in place by facial muscles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"In his left eye flashes the monocle of Cashel Boyle O’Connor Fitzmaurice Tisdall Farrell."*

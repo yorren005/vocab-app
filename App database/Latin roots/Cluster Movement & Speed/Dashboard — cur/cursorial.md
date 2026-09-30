@@ -5,13 +5,6 @@ status: unread
 ---
 # cursorial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of limbs and feet) adapted for running.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of limbs and feet) adapted for running.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cursorial designates (of limbs and feet) adapted for running."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of limbs and feet) adapted for running.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of limbs and feet) adapted for running.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cursorial designates (of limbs and feet) adapted for running."*

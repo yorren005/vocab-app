@@ -5,15 +5,6 @@ status: unread
 ---
 # diurnal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or belonging to or active during the day.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a daily cycle or occurring every day.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"During the day the animals obsequiously followed the shadow of the smallest tree as it moved round the stem with the diurnal roll; and when the milkers came they could hardly stand still for the flies."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"When a Highlander goes to bathe, or to drink waters out of a consecrated fountain, he must always approach by going round the place, _from east to west on the south side_, in imitation of the apparent diurnal motion of the sun."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"While Highlandmen hate tools an’ taxes; While moorlan’s herds like guid, fat braxies; While terra firma, on her axis, Diurnal turns; Count on a friend, in faith an’ practice, In Robert Burns."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or belonging to or active during the day.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a daily cycle or occurring every day.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"During the day the animals obsequiously followed the shadow of the smallest tree as it moved round the stem with the diurnal roll; and when the milkers came they could hardly stand still for the flies."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"When a Highlander goes to bathe, or to drink waters out of a consecrated fountain, he must always approach by going round the place, _from east to west on the south side_, in imitation of the apparent diurnal motion of the sun."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"While Highlandmen hate tools an’ taxes; While moorlan’s herds like guid, fat braxies; While terra firma, on her axis, Diurnal turns; Count on a friend, in faith an’ practice, In Robert Burns."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # documentary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A film or tv program presenting the facts about a person or event.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or consisting of or derived from documents.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I’ll go round to the others in the course of the day and destroy the notes,” said Wemmick; “it’s a good rule never to leave documentary evidence if you can help it, because you don’t know when it may be put in."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I examined the papers, found a copy of the will by which Walcott inherited the property, a bundle of correspondence, and sufficient documentary evidence to establish his identity beyond the shadow of a doubt."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Some sceptics, it is true, might demand documentary evidence, or even require him to produce the embroidered mantle, forgetting that--Heaven be praised--it was consumed to ashes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A film or tv program presenting the facts about a person or event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or consisting of or derived from documents.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I’ll go round to the others in the course of the day and destroy the notes,” said Wemmick; “it’s a good rule never to leave documentary evidence if you can help it, because you don’t know when it may be put in."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I examined the papers, found a copy of the will by which Walcott inherited the property, a bundle of correspondence, and sufficient documentary evidence to establish his identity beyond the shadow of a doubt."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Some sceptics, it is true, might demand documentary evidence, or even require him to produce the embroidered mantle, forgetting that--Heaven be praised--it was consumed to ashes."*

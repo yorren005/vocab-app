@@ -5,15 +5,6 @@ status: unread
 ---
 # legislator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes or enacts laws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes or enacts laws.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The harmonizing of these needs in the laws of taxation requires a high degree of wisdom, of foresight, and of integrity in the legislator and in the citizen."*
-> - 📜 **George Eliot (*Middlemarch*):** *"All the rest is to show what sort of legislator a philanthropist is likely to make,” ended the Rector, throwing down the paper, and clasping his hands at the back of his head, while he looked at Mr."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Again: “Were the power of judging joined with the legislative, the life and liberty of the subject would be exposed to arbitrary control, for THE JUDGE would then be THE LEGISLATOR."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes or enacts laws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes or enacts laws.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The harmonizing of these needs in the laws of taxation requires a high degree of wisdom, of foresight, and of integrity in the legislator and in the citizen."*
+> - 📜 **George Eliot (*Middlemarch*):** *"All the rest is to show what sort of legislator a philanthropist is likely to make,” ended the Rector, throwing down the paper, and clasping his hands at the back of his head, while he looked at Mr."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Again: “Were the power of judging joined with the legislative, the life and liberty of the subject would be exposed to arbitrary control, for THE JUDGE would then be THE LEGISLATOR."*

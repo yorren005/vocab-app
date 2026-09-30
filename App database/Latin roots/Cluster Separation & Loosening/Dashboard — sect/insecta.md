@@ -5,13 +5,6 @@ status: unread
 ---
 # insecta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insects; about five-sixths of all known animal species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insects; about five-sixths of all known animal species.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insecta designates insects; about five-sixths of all known animal species."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insects; about five-sixths of all known animal species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insects; about five-sixths of all known animal species.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insecta designates insects; about five-sixths of all known animal species."*

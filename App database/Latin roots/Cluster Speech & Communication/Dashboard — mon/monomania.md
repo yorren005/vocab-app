@@ -5,15 +5,6 @@ status: unread
 ---
 # monomania
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mania restricted to one thing or idea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mania restricted to one thing or idea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It’s a monomania with him to think he is possessed of documents."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is not probable that this monomania in him took its instant rise at the precise time of his bodily dismemberment."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But, as in his narrow-flowing monomania, not one jot of Ahab’s broad madness had been left behind; so in that broad madness, not one jot of his great natural intellect had perished."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mania restricted to one thing or idea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mania restricted to one thing or idea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It’s a monomania with him to think he is possessed of documents."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is not probable that this monomania in him took its instant rise at the precise time of his bodily dismemberment."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But, as in his narrow-flowing monomania, not one jot of Ahab’s broad madness had been left behind; so in that broad madness, not one jot of his great natural intellect had perished."*

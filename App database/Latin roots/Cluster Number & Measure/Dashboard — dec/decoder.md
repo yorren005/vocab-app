@@ -5,13 +5,6 @@ status: unread
 ---
 # decoder
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The kind of intellectual who converts messages from a code to plain text.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A machine that converts a coded text into ordinary language.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decoder designates the kind of intellectual who converts messages from a code to plain text."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The kind of intellectual who converts messages from a code to plain text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A machine that converts a coded text into ordinary language.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decoder designates the kind of intellectual who converts messages from a code to plain text."*

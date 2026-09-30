@@ -5,13 +5,6 @@ status: unread
 ---
 # sympathiser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commiserates with someone who has had misfortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who shares your feelings or opinions and hopes that you will be successful.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"I have satisfaction," Charles tells his unfailing sympathiser Coleridge, "in being able to bid you rejoice with me in my sister's continued reason and composedness of mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Commiserates with someone who has had misfortune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who shares your feelings or opinions and hopes that you will be successful.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"I have satisfaction," Charles tells his unfailing sympathiser Coleridge, "in being able to bid you rejoice with me in my sister's continued reason and composedness of mind."*

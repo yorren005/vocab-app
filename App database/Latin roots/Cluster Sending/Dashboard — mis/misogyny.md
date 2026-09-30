@@ -5,13 +5,6 @@ status: unread
 ---
 # misogyny
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hatred of women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hatred of women.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misogyny designates hatred of women."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hatred of women.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hatred of women.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misogyny designates hatred of women."*

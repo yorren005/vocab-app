@@ -5,15 +5,6 @@ status: unread
 ---
 # advertisement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public promotion of some product or service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public promotion of some product or service.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That is not the duke’s letter, sir; that is an advertisement to a proper maid in Florence, one Diana, to take heed of the allurement of one Count Rossillon, a foolish idle boy, but for all that very ruttish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Earl of Westmoreland set forth today, With him my son, Lord John of Lancaster, For this advertisement is five days old."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet doth he give us bold advertisement That with our small conjunction we should on, To see how fortune is disposed to us; For, as he writes, there is no quailing now, Because the King is certainly possess’d Of all our purposes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A public promotion of some product or service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public promotion of some product or service.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That is not the duke’s letter, sir; that is an advertisement to a proper maid in Florence, one Diana, to take heed of the allurement of one Count Rossillon, a foolish idle boy, but for all that very ruttish."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Earl of Westmoreland set forth today, With him my son, Lord John of Lancaster, For this advertisement is five days old."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet doth he give us bold advertisement That with our small conjunction we should on, To see how fortune is disposed to us; For, as he writes, there is no quailing now, Because the King is certainly possess’d Of all our purposes."*

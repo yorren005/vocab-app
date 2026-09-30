@@ -5,13 +5,6 @@ status: unread
 ---
 # decasyllable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A verse line having ten syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A verse line having ten syllables.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decasyllable designates a verse line having ten syllables."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A verse line having ten syllables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A verse line having ten syllables.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decasyllable designates a verse line having ten syllables."*

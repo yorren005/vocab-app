@@ -5,15 +5,6 @@ status: unread
 ---
 # competent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Properly or sufficiently qualified or capable or efficient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adequate for the purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His indignation derives itself out of a very competent injury; therefore, get you on and give him his desire."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Business has prevented me from mixing much with general society in any but a professional character; still I trust I am competent to perceive that she is a highly genteel young lady."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"It is quite possible that, as competent observers have suggested, if the enthusiasm for the project which then existed had been taken advantage of at once, Union might have been carried with a rush."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Properly or sufficiently qualified or capable or efficient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adequate for the purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His indignation derives itself out of a very competent injury; therefore, get you on and give him his desire."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Business has prevented me from mixing much with general society in any but a professional character; still I trust I am competent to perceive that she is a highly genteel young lady."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"It is quite possible that, as competent observers have suggested, if the enthusiasm for the project which then existed had been taken advantage of at once, Union might have been carried with a rush."*

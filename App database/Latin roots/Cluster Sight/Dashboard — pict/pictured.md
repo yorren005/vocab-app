@@ -5,15 +5,6 @@ status: unread
 ---
 # pictured
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Imagine; conceive of; see in one's mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show in, or as in, a picture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She already saw the consequences and pictured the terrible scenes that would result if the three boys were obliged to live closely together."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Thus they pass on from room to room, raising the pictured Dedlocks for a few brief minutes as the young gardener admits the light, and reconsigning them to their graves as he shuts it out again."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Dreary and solemn the old house looks, with so many appliances of habitation and with no inhabitants except the pictured forms upon the walls."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Imagine; conceive of; see in one's mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show in, or as in, a picture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She already saw the consequences and pictured the terrible scenes that would result if the three boys were obliged to live closely together."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Thus they pass on from room to room, raising the pictured Dedlocks for a few brief minutes as the young gardener admits the light, and reconsigning them to their graves as he shuts it out again."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Dreary and solemn the old house looks, with so many appliances of habitation and with no inhabitants except the pictured forms upon the walls."*

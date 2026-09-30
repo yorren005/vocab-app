@@ -5,13 +5,6 @@ status: unread
 ---
 # acarid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the superorders (Acariformes and Parasitiformes); especially : any of a family (Acaridae) of mites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the superorders (Acariformes and Parasitiformes); especially : any of a family (Acaridae) of mites.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acarid designates any of the superorders (acariformes and parasitiformes); especially : any of a family (acaridae) of mites."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the superorders (Acariformes and Parasitiformes); especially : any of a family (Acaridae) of mites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the superorders (Acariformes and Parasitiformes); especially : any of a family (Acaridae) of mites.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acarid designates any of the superorders (acariformes and parasitiformes); especially : any of a family (acaridae) of mites."*

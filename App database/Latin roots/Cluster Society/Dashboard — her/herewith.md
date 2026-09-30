@@ -5,15 +5,6 @@ status: unread
 ---
 # herewith
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (formal) by means of this.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (formal) by means of this.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"This letter bears date November 16, 1848, and is as follows:-- "I herewith enclose the statement respecting the Calabar Mission of our Church, which I take blame to myself for having so long delayed to send."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We herewith grant conditional permission for all spaceports, landing pads and mooring towers, and their associated technical accoutrements and equipment, to remain open to UIPS traffic."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"To President Camari, I herewith declare that the original understandings on cooperation and collaboration with the Government of Planet Pluto until Slingshot is launched remain in effect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (formal) by means of this.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (formal) by means of this.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"This letter bears date November 16, 1848, and is as follows:-- "I herewith enclose the statement respecting the Calabar Mission of our Church, which I take blame to myself for having so long delayed to send."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We herewith grant conditional permission for all spaceports, landing pads and mooring towers, and their associated technical accoutrements and equipment, to remain open to UIPS traffic."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"To President Camari, I herewith declare that the original understandings on cooperation and collaboration with the Government of Planet Pluto until Slingshot is launched remain in effect."*

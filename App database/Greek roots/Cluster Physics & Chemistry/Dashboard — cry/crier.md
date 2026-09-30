@@ -5,15 +5,6 @@ status: unread
 ---
 # crier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who weeps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (formerly) an official who made public announcements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if you mouth it, as many of your players do, I had as lief the town-crier spoke my lines."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say, “Henry King of England, come into the court.” CRIER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say, “Katherine Queen of England, come into the court.” CRIER."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who weeps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (formerly) an official who made public announcements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if you mouth it, as many of your players do, I had as lief the town-crier spoke my lines."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say, “Henry King of England, come into the court.” CRIER."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say, “Katherine Queen of England, come into the court.” CRIER."*

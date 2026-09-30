@@ -5,13 +5,6 @@ status: unread
 ---
 # naturistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In accord with naturism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accord with naturism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, naturistic designates in accord with naturism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In accord with naturism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accord with naturism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, naturistic designates in accord with naturism."*

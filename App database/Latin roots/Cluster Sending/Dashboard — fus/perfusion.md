@@ -5,13 +5,6 @@ status: unread
 ---
 # perfusion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pumping a liquid into an organ or tissue (especially by way of blood vessels).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pumping a liquid into an organ or tissue (especially by way of blood vessels).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perfusion designates pumping a liquid into an organ or tissue (especially by way of blood vessels)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pumping a liquid into an organ or tissue (especially by way of blood vessels).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pumping a liquid into an organ or tissue (especially by way of blood vessels).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perfusion designates pumping a liquid into an organ or tissue (especially by way of blood vessels)."*

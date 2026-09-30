@@ -5,13 +5,6 @@ status: unread
 ---
 # thyrsopteris
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A terrestrial tree fern of south america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A terrestrial tree fern of south america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyrsopteris designates a terrestrial tree fern of south america."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A terrestrial tree fern of south america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A terrestrial tree fern of south america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyrsopteris designates a terrestrial tree fern of south america."*

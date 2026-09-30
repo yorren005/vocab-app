@@ -5,13 +5,6 @@ status: unread
 ---
 # clinodactyly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital defect in which one or more toes or fingers are abnormally positioned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A congenital defect in which one or more toes or fingers are abnormally positioned.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clinodactyly designates a congenital defect in which one or more toes or fingers are abnormally positioned."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital defect in which one or more toes or fingers are abnormally positioned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A congenital defect in which one or more toes or fingers are abnormally positioned.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clinodactyly designates a congenital defect in which one or more toes or fingers are abnormally positioned."*

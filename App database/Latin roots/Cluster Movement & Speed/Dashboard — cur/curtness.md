@@ -5,15 +5,6 @@ status: unread
 ---
 # curtness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrupt discourteous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abrupt discourteous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Hawley’s mode of speech, even when public decorum repressed his “awful language,” was formidable in its curtness and self-possession."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Touchett continued with her stout curtness."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Whose?” The curtness of the counter-question, and the cool, slow manner in which, as he put it, Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrupt discourteous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abrupt discourteous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Hawley’s mode of speech, even when public decorum repressed his “awful language,” was formidable in its curtness and self-possession."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Touchett continued with her stout curtness."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Whose?” The curtness of the counter-question, and the cool, slow manner in which, as he put it, Mr."*

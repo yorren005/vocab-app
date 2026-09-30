@@ -5,13 +5,6 @@ status: unread
 ---
 # coder
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who designs and writes and tests computer programs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who designs and writes and tests computer programs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coder designates a person who designs and writes and tests computer programs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who designs and writes and tests computer programs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who designs and writes and tests computer programs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coder designates a person who designs and writes and tests computer programs."*

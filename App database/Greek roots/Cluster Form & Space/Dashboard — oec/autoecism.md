@@ -5,13 +5,6 @@ status: unread
 ---
 # autoecism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Passing through all life stages on the same host.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Passing through all life stages on the same host.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autoecism designates passing through all life stages on the same host."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Passing through all life stages on the same host.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Passing through all life stages on the same host.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autoecism designates passing through all life stages on the same host."*

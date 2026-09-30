@@ -5,13 +5,6 @@ status: unread
 ---
 # transect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut across or divide transversely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut across or divide transversely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transect designates cut across or divide transversely."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut across or divide transversely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut across or divide transversely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transect designates cut across or divide transversely."*

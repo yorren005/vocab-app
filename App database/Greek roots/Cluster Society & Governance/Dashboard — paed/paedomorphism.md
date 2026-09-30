@@ -5,13 +5,6 @@ status: unread
 ---
 # paedomorphism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Retention in the adult of infantile or juvenile characters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retention in the adult of infantile or juvenile characters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paedomorphism designates retention in the adult of infantile or juvenile characters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Retention in the adult of infantile or juvenile characters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retention in the adult of infantile or juvenile characters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paedomorphism designates retention in the adult of infantile or juvenile characters."*

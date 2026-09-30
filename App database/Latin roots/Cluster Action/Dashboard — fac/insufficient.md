@@ -5,15 +5,6 @@ status: unread
 ---
 # insufficient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a quantity not able to fulfill a need or requirement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a quantity not able to fulfill a need or requirement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A thick and dingy Turkey-carpet muffles the floor where he sits, attended by two candles in old-fashioned silver candlesticks that give a very insufficient light to his large room."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He had a reason for going away, though it was an insufficient one.” “Thankee, sir, thankee!” exclaims Jo."*
-> - 📜 **Jane Austen (*Persuasion*):** *"But these measures, however good in themselves, were insufficient for the real extent of the evil, the whole of which Sir Walter found himself obliged to confess to her soon afterwards."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a quantity not able to fulfill a need or requirement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a quantity not able to fulfill a need or requirement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"A thick and dingy Turkey-carpet muffles the floor where he sits, attended by two candles in old-fashioned silver candlesticks that give a very insufficient light to his large room."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He had a reason for going away, though it was an insufficient one.” “Thankee, sir, thankee!” exclaims Jo."*
+> - 📜 **Jane Austen (*Persuasion*):** *"But these measures, however good in themselves, were insufficient for the real extent of the evil, the whole of which Sir Walter found himself obliged to confess to her soon afterwards."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # dicker
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Barter
-> 2. **Nuance / Usage**: Bargain
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Emily Carr (*Klee Wyck*):** *"In the brilliant sparkle of the morning when everything that was not superlatively blue was superlatively green, I dickered with a man who was taking a party up the inlet that he should drop me off at the village I was headed for."*
-> - 📜 **James Fenimore Cooper (*The Oak Openings*):** *"Then, the white men who penetrated to those semi-wilds were always ready to "dicker" and to "swap," and to "trade" rifles, and watches, and whatever else they might happen to possess, almost to their wives and children."*
-> - 📜 **Jack Cady (*Singleton*):** *"They sat in a booth near the door and drank the first cold ones of the evening while watching three impassioned pinballers dickering with flashing, promising, tilting machines."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Barter
+> 2. **Nuance / Usage**: Bargain
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Emily Carr (*Klee Wyck*):** *"In the brilliant sparkle of the morning when everything that was not superlatively blue was superlatively green, I dickered with a man who was taking a party up the inlet that he should drop me off at the village I was headed for."*
+> - 📜 **James Fenimore Cooper (*The Oak Openings*):** *"Then, the white men who penetrated to those semi-wilds were always ready to "dicker" and to "swap," and to "trade" rifles, and watches, and whatever else they might happen to possess, almost to their wives and children."*
+> - 📜 **Jack Cady (*Singleton*):** *"They sat in a booth near the door and drank the first cold ones of the evening while watching three impassioned pinballers dickering with flashing, promising, tilting machines."*

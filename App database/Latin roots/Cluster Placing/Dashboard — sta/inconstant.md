@@ -5,15 +5,6 @@ status: unread
 ---
 # inconstant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Likely to change frequently often without apparent or cogent reason; variable; ; ; - shakespeare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Likely to change frequently often without apparent or cogent reason; variable; ; ; - shakespeare.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou canst not vex me with inconstant mind, Since that my life on thy revolt doth lie, O what a happy title do I find, Happy to have thy love, happy to die!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, do but think You stand upon the rivage and behold A city on the inconstant billows dancing; For so appears this fleet majestical, Holding due course to Harfleur."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Demetrius, I’ll avouch it to his head, Made love to Nedar’s daughter, Helena, And won her soul; and she, sweet lady, dotes, Devoutly dotes, dotes in idolatry, Upon this spotted and inconstant man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Likely to change frequently often without apparent or cogent reason; variable; ; ; - shakespeare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Likely to change frequently often without apparent or cogent reason; variable; ; ; - shakespeare.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou canst not vex me with inconstant mind, Since that my life on thy revolt doth lie, O what a happy title do I find, Happy to have thy love, happy to die!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, do but think You stand upon the rivage and behold A city on the inconstant billows dancing; For so appears this fleet majestical, Holding due course to Harfleur."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Demetrius, I’ll avouch it to his head, Made love to Nedar’s daughter, Helena, And won her soul; and she, sweet lady, dotes, Devoutly dotes, dotes in idolatry, Upon this spotted and inconstant man."*

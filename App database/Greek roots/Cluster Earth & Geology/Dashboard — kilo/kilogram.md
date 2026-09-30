@@ -5,13 +5,6 @@ status: unread
 ---
 # kilogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The base unit of mass in the International System of Units that is defined by setting the fixed numerical value of Planck's constant to 6.62607015 x 10—34 joule seconds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of force or weight equal to the weight of a kilogram mass under a gravitational attraction equal to that of the earth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"As to strength of back the average for men is 154 kilograms, for women 54 kilograms; legs, average for men 186, average for women 76.5; right forearm, average for men 56, average for women 21.4."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The base unit of mass in the International System of Units that is defined by setting the fixed numerical value of Planck's constant to 6.62607015 x 10—34 joule seconds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of force or weight equal to the weight of a kilogram mass under a gravitational attraction equal to that of the earth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"As to strength of back the average for men is 154 kilograms, for women 54 kilograms; legs, average for men 186, average for women 76.5; right forearm, average for men 56, average for women 21.4."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # conclusive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming an end or termination; especially putting an end to doubt or question.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming an end or termination; especially putting an end to doubt or question.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She had expressed to Oak an intention to wait till Boldwood came home before communicating to him her conclusive reply."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"It is, as William Graham said of it, "a thoughtful, calm, conclusive book, perhaps too reticent and colourless, but none the less like Dr."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Indeed, the importation of any article is proof conclusive that the importer thinks that the monetary costs of an article would be higher in the importing than in the exporting country."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming an end or termination; especially putting an end to doubt or question.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming an end or termination; especially putting an end to doubt or question.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She had expressed to Oak an intention to wait till Boldwood came home before communicating to him her conclusive reply."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"It is, as William Graham said of it, "a thoughtful, calm, conclusive book, perhaps too reticent and colourless, but none the less like Dr."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Indeed, the importation of any article is proof conclusive that the importer thinks that the monetary costs of an article would be higher in the importing than in the exporting country."*

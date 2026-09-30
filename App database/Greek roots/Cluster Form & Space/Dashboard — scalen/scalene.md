@@ -5,13 +5,6 @@ status: unread
 ---
 # scalene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the three sides of unequal length.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the three sides of unequal length.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scalene designates having the three sides of unequal length."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the three sides of unequal length.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the three sides of unequal length.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scalene designates having the three sides of unequal length."*

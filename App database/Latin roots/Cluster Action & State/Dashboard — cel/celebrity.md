@@ -5,15 +5,6 @@ status: unread
 ---
 # celebrity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A widely known person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or quality of being widely honored and acclaimed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The Harmonic Meeting hour arriving, the gentleman of professional celebrity takes the chair, is faced (red-faced) by Little Swills; their friends rally round them and support first-rate talent."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Piper compare opinions on the subject of the young lady of professional celebrity who assists at the Harmonic Meetings and who has a space to herself in the manuscript announcement in the window, Mrs."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"This volume was unexpectedly successful, so that, instead of sailing for the West Indies, he went up to Edinburgh, and during that winter he was the chief literary celebrity of the season."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A widely known person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or quality of being widely honored and acclaimed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Harmonic Meeting hour arriving, the gentleman of professional celebrity takes the chair, is faced (red-faced) by Little Swills; their friends rally round them and support first-rate talent."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Piper compare opinions on the subject of the young lady of professional celebrity who assists at the Harmonic Meetings and who has a space to herself in the manuscript announcement in the window, Mrs."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"This volume was unexpectedly successful, so that, instead of sailing for the West Indies, he went up to Edinburgh, and during that winter he was the chief literary celebrity of the season."*

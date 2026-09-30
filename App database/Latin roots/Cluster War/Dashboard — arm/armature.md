@@ -5,13 +5,6 @@ status: unread
 ---
 # armature
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coil in which voltage is induced by motion through a magnetic field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coil in which voltage is induced by motion through a magnetic field.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Very different was the _Liodon dyspelor_, a still larger animal than the last, with a formidable armature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coil in which voltage is induced by motion through a magnetic field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coil in which voltage is induced by motion through a magnetic field.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Very different was the _Liodon dyspelor_, a still larger animal than the last, with a formidable armature."*

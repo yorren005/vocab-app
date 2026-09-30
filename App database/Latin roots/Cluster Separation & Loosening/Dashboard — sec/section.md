@@ -5,15 +5,6 @@ status: unread
 ---
 # section
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A self-contained part of a larger composition (written or musical).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very thin slice (of tissue or mineral or other substance) for examination under a microscope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When they reached the first newly-ploughed section he held out his hand to help her over it; but she stepped forward on the summits of the earth-rolls as if she did not see him."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The schoolmaster never prescribed any definite section to be learned; he left this to his pupil, in whose industry and interest in his work he had sufficient confidence."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was born on a quarter-section in Minnesota."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A self-contained part of a larger composition (written or musical).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very thin slice (of tissue or mineral or other substance) for examination under a microscope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When they reached the first newly-ploughed section he held out his hand to help her over it; but she stepped forward on the summits of the earth-rolls as if she did not see him."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"The schoolmaster never prescribed any definite section to be learned; he left this to his pupil, in whose industry and interest in his work he had sufficient confidence."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was born on a quarter-section in Minnesota."*

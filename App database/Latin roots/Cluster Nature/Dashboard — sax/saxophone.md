@@ -5,13 +5,6 @@ status: unread
 ---
 # saxophone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A single-reed woodwind with a conical bore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single-reed woodwind with a conical bore.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saxophone designates a single-reed woodwind with a conical bore."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single-reed woodwind with a conical bore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single-reed woodwind with a conical bore.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saxophone designates a single-reed woodwind with a conical bore."*

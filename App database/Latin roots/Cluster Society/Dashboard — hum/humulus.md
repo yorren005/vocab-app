@@ -5,13 +5,6 @@ status: unread
 ---
 # humulus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hops: hardy perennial vines of europe, north america and central and eastern asia producing a latex sap; in some classifications included in the family urticaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hops: hardy perennial vines of europe, north america and central and eastern asia producing a latex sap; in some classifications included in the family urticaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, humulus designates hops: hardy perennial vines of europe, north america and central and eastern asia producing a latex sap; in some classifications included in the family urticaceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hops: hardy perennial vines of europe, north america and central and eastern asia producing a latex sap; in some classifications included in the family urticaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hops: hardy perennial vines of europe, north america and central and eastern asia producing a latex sap; in some classifications included in the family urticaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, humulus designates hops: hardy perennial vines of europe, north america and central and eastern asia producing a latex sap; in some classifications included in the family urticaceae."*

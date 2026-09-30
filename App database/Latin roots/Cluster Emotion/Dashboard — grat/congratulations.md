@@ -5,15 +5,6 @@ status: unread
 ---
 # congratulations
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of approval and commendation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of acknowledging that someone has an occasion for celebration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Perkins have but now exchanged congratulations on the children being abed, and they still linger on a door-step over a few parting words."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Military time.” It is George, and he has hearty congratulations for the old girl (whom he kisses on the great occasion), and for the children, and for Mr."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"To the right-about—every soul!” cried the master; “away with your congratulations!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of approval and commendation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of acknowledging that someone has an occasion for celebration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Perkins have but now exchanged congratulations on the children being abed, and they still linger on a door-step over a few parting words."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Military time.” It is George, and he has hearty congratulations for the old girl (whom he kisses on the great occasion), and for the children, and for Mr."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"To the right-about—every soul!” cried the master; “away with your congratulations!"*

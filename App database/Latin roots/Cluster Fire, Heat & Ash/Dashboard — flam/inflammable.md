@@ -5,15 +5,6 @@ status: unread
 ---
 # inflammable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily ignited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily ignited.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"You set up a post, bore a hole in it, and insert in the hole a stick, which you have first of all smeared with pitch and wrapt in inflammable stuffs."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The genius of republics (say they) is pacific; the spirit of commerce has a tendency to soften the manners of men, and to extinguish those inflammable humors which have so often kindled into wars."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Even the half-pay officer, so long the hero of the club, was soon silenced by him, and the quiet burghers stared with wonder at seeing their inflammable man of war so readily and quietly extinguished. [1] Reckless."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily ignited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily ignited.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"You set up a post, bore a hole in it, and insert in the hole a stick, which you have first of all smeared with pitch and wrapt in inflammable stuffs."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The genius of republics (say they) is pacific; the spirit of commerce has a tendency to soften the manners of men, and to extinguish those inflammable humors which have so often kindled into wars."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Even the half-pay officer, so long the hero of the club, was soon silenced by him, and the quiet burghers stared with wonder at seeing their inflammable man of war so readily and quietly extinguished. [1] Reckless."*

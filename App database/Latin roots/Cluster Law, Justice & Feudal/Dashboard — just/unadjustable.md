@@ -5,13 +5,6 @@ status: unread
 ---
 # unadjustable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not adjustable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not adjustable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"An illusion for remember their complex unadjustable eye."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not adjustable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not adjustable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"An illusion for remember their complex unadjustable eye."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # silvervine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ornamental vine of eastern asia having yellow edible fruit and leaves with silver-white markings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ornamental vine of eastern asia having yellow edible fruit and leaves with silver-white markings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silvervine designates ornamental vine of eastern asia having yellow edible fruit and leaves with silver-white markings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ornamental vine of eastern asia having yellow edible fruit and leaves with silver-white markings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ornamental vine of eastern asia having yellow edible fruit and leaves with silver-white markings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, silvervine designates ornamental vine of eastern asia having yellow edible fruit and leaves with silver-white markings."*

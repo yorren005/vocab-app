@@ -5,15 +5,6 @@ status: unread
 ---
 # persevering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be persistent, refuse to stop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quietly and steadily persevering especially in detail or exactness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But the doomed young rebel (otherwise a mild youth, and very persevering), showing no sign of grace as he got older but, on the contrary, constructing a model of a power-loom, she was fain, with many tears, to mention his backslidings to the baronet."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Diligent, persevering, steady, acute in business."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"They are the thankful record and tribute to the power of _persevering faith_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be persistent, refuse to stop.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quietly and steadily persevering especially in detail or exactness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But the doomed young rebel (otherwise a mild youth, and very persevering), showing no sign of grace as he got older but, on the contrary, constructing a model of a power-loom, she was fain, with many tears, to mention his backslidings to the baronet."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Diligent, persevering, steady, acute in business."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"They are the thankful record and tribute to the power of _persevering faith_."*

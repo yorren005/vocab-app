@@ -5,13 +5,6 @@ status: unread
 ---
 # unanticipated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not anticipated; - h.w.glidden.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not anticipated; - h.w.glidden.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unanticipated designates not anticipated; - h.w.glidden."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not anticipated; - h.w.glidden.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not anticipated; - h.w.glidden.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unanticipated designates not anticipated; - h.w.glidden."*

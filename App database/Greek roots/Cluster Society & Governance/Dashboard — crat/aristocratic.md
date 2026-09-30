@@ -5,15 +5,6 @@ status: unread
 ---
 # aristocratic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or characteristic of the nobility or aristocracy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to or characteristic of the nobility or aristocracy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The old gentleman is rusty to look at, but is reputed to have made good thrift out of aristocratic marriage settlements and aristocratic wills, and to be very rich."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Has an indistinct impression of his aristocratic repute."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is habitually hard upon Sir Leicester, whose countenance it greenly mottles in the manner of sage-cheese and in whose aristocratic system it effects a dismal revolution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or characteristic of the nobility or aristocracy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to or characteristic of the nobility or aristocracy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old gentleman is rusty to look at, but is reputed to have made good thrift out of aristocratic marriage settlements and aristocratic wills, and to be very rich."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Has an indistinct impression of his aristocratic repute."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is habitually hard upon Sir Leicester, whose countenance it greenly mottles in the manner of sage-cheese and in whose aristocratic system it effects a dismal revolution."*

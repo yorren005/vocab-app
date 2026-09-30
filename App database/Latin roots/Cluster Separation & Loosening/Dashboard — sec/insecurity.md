@@ -5,15 +5,6 @@ status: unread
 ---
 # insecurity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being subject to danger or injury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The anxiety you experience when you feel vulnerable and insecure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I have certainly never borrowed any money on such an insecurity."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"True he had flung Hook’s arm to the crocodile, but even this and the increased insecurity of life to which it led, owing to the crocodile’s pertinacity, hardly account for a vindictiveness so relentless and malignant."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"That most useful kind which relates to borrowing and lending is reduced within the narrowest limits, and this still more from an opinion of insecurity than from the scarcity of money."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being subject to danger or injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The anxiety you experience when you feel vulnerable and insecure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"I have certainly never borrowed any money on such an insecurity."*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"True he had flung Hook’s arm to the crocodile, but even this and the increased insecurity of life to which it led, owing to the crocodile’s pertinacity, hardly account for a vindictiveness so relentless and malignant."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"That most useful kind which relates to borrowing and lending is reduced within the narrowest limits, and this still more from an opinion of insecurity than from the scarcity of money."*

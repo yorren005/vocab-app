@@ -5,15 +5,6 @@ status: unread
 ---
 # judas
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (new testament) supposed brother of st. james; one of the apostles who is invoked in prayer when a situation seems hopeless.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (new testament) the apostle who betrayed jesus to his enemies for 30 pieces of silver.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Something browner than Judas’s."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, his kisses are Judas’s own children."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, that I love the tree from whence thou sprang’st, Witness the loving kiss I give the fruit. [_Aside_.] To say the truth, so Judas kissed his master And cried “All hail!” when as he meant all harm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (new testament) supposed brother of st. james; one of the apostles who is invoked in prayer when a situation seems hopeless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (new testament) the apostle who betrayed jesus to his enemies for 30 pieces of silver.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Something browner than Judas’s."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, his kisses are Judas’s own children."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, that I love the tree from whence thou sprang’st, Witness the loving kiss I give the fruit. [_Aside_.] To say the truth, so Judas kissed his master And cried “All hail!” when as he meant all harm."*

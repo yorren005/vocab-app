@@ -5,13 +5,6 @@ status: unread
 ---
 # unauthentic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended to deceive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended to deceive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"There was never a Claimant that couldn’t get a hearing, nor one that couldn’t accumulate a rapturous following, no matter how flimsy and apparently unauthentic his claim might be."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended to deceive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended to deceive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"There was never a Claimant that couldn’t get a hearing, nor one that couldn’t accumulate a rapturous following, no matter how flimsy and apparently unauthentic his claim might be."*

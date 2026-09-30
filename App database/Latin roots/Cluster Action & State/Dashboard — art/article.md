@@ -5,15 +5,6 @@ status: unread
 ---
 # article
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nonfictional prose forming an independent part of a publication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a class of artifacts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have broken The article of your oath, which you shall never Have tongue to charge me with."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But on, Caesar: The article of my oath?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, in the verity of extolment, I take him to be a soul of great article and his infusion of such dearth and rareness as, to make true diction of him, his semblable is his mirror and who else would trace him his umbrage, nothing more."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nonfictional prose forming an independent part of a publication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a class of artifacts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have broken The article of your oath, which you shall never Have tongue to charge me with."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But on, Caesar: The article of my oath?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, in the verity of extolment, I take him to be a soul of great article and his infusion of such dearth and rareness as, to make true diction of him, his semblable is his mirror and who else would trace him his umbrage, nothing more."*

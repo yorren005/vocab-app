@@ -5,15 +5,6 @@ status: unread
 ---
 # nauseous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or able to cause nausea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling nausea; feeling about to vomit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"When he brings the candle here, from the corner of the window-sill, it slowly drips and creeps away down the bricks, here lies in a little thick nauseous pool."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"For a time there were some dungeon lights burning, as the lamp of life hums in Tom-all-Alone’s, heavily, heavily, in the nauseous air, and winking—as that lamp, too, winks in Tom-all-Alone’s—at many horrible things."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The water tasted like a solution of a dozen disagreeable things, and was sufficiently nauseous to have made the fortune of the proprietor, had the spa been situated in the midst of any civilized community."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or able to cause nausea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling nausea; feeling about to vomit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"When he brings the candle here, from the corner of the window-sill, it slowly drips and creeps away down the bricks, here lies in a little thick nauseous pool."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"For a time there were some dungeon lights burning, as the lamp of life hums in Tom-all-Alone’s, heavily, heavily, in the nauseous air, and winking—as that lamp, too, winks in Tom-all-Alone’s—at many horrible things."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The water tasted like a solution of a dozen disagreeable things, and was sufficiently nauseous to have made the fortune of the proprietor, had the spa been situated in the midst of any civilized community."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # tolerable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being borne or endured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: About average; acceptable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did think thee, for two ordinaries, to be a pretty wise fellow; thou didst make tolerable vent of thy travel; it might pass."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall also make no noise in the streets: for, for the watch to babble and to talk is most tolerable and not to be endured."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rich enough to work with tolerable peace of mind?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being borne or endured.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: About average; acceptable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did think thee, for two ordinaries, to be a pretty wise fellow; thou didst make tolerable vent of thy travel; it might pass."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall also make no noise in the streets: for, for the watch to babble and to talk is most tolerable and not to be endured."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Rich enough to work with tolerable peace of mind?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # avicenna
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arabian physician and influential islamic philosopher; his interpretation of aristotle influenced st. thomas aquinas; writings on medicine were important for almost 500 years (980-1037).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arabian physician and influential islamic philosopher; his interpretation of aristotle influenced st. thomas aquinas; writings on medicine were important for almost 500 years (980-1037).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Gilles de Rais, marshal of France, and Avicenna; Nicolas Flamel and his wife Petronella; Lady Alice Kyteler of Kilkenny, and Gerald of Desmond, the Great Earl; and newer names, Dee and Edward Kelly...."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arabian physician and influential islamic philosopher; his interpretation of aristotle influenced st. thomas aquinas; writings on medicine were important for almost 500 years (980-1037).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arabian physician and influential islamic philosopher; his interpretation of aristotle influenced st. thomas aquinas; writings on medicine were important for almost 500 years (980-1037).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Gilles de Rais, marshal of France, and Avicenna; Nicolas Flamel and his wife Petronella; Lady Alice Kyteler of Kilkenny, and Gerald of Desmond, the Great Earl; and newer names, Dee and Edward Kelly...."*

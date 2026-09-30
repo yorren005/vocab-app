@@ -5,13 +5,6 @@ status: unread
 ---
 # cursive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rapid handwriting in which letters are set down in full and are cursively connected within words without lifting the writing implement from the paper.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having successive letter joined together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cursive designates rapid handwriting in which letters are set down in full and are cursively connected within words without lifting the writing implement from the paper."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rapid handwriting in which letters are set down in full and are cursively connected within words without lifting the writing implement from the paper.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having successive letter joined together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cursive designates rapid handwriting in which letters are set down in full and are cursively connected within words without lifting the writing implement from the paper."*

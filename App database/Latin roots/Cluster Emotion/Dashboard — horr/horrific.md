@@ -5,13 +5,6 @@ status: unread
 ---
 # horrific
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grossly offensive to decency or morality; causing horror.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing fear or dread or terror.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"God's fair apostle, Bearing his love in war's horrific train; Thy blessed feet follow its ghastly pain, And misery and death without disdain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Grossly offensive to decency or morality; causing horror.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing fear or dread or terror.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"God's fair apostle, Bearing his love in war's horrific train; Thy blessed feet follow its ghastly pain, And misery and death without disdain."*

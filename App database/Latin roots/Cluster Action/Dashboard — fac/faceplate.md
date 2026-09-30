@@ -5,15 +5,6 @@ status: unread
 ---
 # faceplate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A protective covering for the front of a machine or device (as a door lock or computer component).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protective covering for the front of a machine or device (as a door lock or computer component).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If anyone comes looking for a fight, don't wait for an invitation." Kumiko nodded and closed her faceplate."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Opening their helmet faceplates, they returned the glares of the receiving party."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They snapped their faceplates closed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A protective covering for the front of a machine or device (as a door lock or computer component).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protective covering for the front of a machine or device (as a door lock or computer component).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If anyone comes looking for a fight, don't wait for an invitation." Kumiko nodded and closed her faceplate."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Opening their helmet faceplates, they returned the glares of the receiving party."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They snapped their faceplates closed."*

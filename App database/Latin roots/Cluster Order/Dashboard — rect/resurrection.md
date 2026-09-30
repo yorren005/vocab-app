@@ -5,15 +5,6 @@ status: unread
 ---
 # resurrection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (new testament) the rising of christ on the third day after the crucifixion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A revival from inactivity and disuse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The mixed, singular, luminous gloom in which they walked along together to the spot where the cows lay often made him think of the Resurrection hour."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Out of doors there began noises as of silk smartly rubbed; the restful dead leaves of the preceding autumn were stirred to irritated resurrection, and whirled about unwillingly, and tapped against the shutters."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The corpses of those old fitful passions which had lain inanimate amid the lines of his face ever since his reformation seemed to wake and come together as in a resurrection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (new testament) the rising of christ on the third day after the crucifixion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A revival from inactivity and disuse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The mixed, singular, luminous gloom in which they walked along together to the spot where the cows lay often made him think of the Resurrection hour."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Out of doors there began noises as of silk smartly rubbed; the restful dead leaves of the preceding autumn were stirred to irritated resurrection, and whirled about unwillingly, and tapped against the shutters."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The corpses of those old fitful passions which had lain inanimate amid the lines of his face ever since his reformation seemed to wake and come together as in a resurrection."*

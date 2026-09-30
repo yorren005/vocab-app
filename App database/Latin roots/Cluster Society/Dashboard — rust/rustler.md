@@ -5,13 +5,6 @@ status: unread
 ---
 # rustler
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who steals livestock (especially cattle).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who steals livestock (especially cattle).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They were the dandies attired in colorful, skin-tight sports suits: thieves, pickpockets, high-tech gear rustlers, black marketeers, professional gamblers, and experts in all the scams that are or ever were."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who steals livestock (especially cattle).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who steals livestock (especially cattle).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They were the dandies attired in colorful, skin-tight sports suits: thieves, pickpockets, high-tech gear rustlers, black marketeers, professional gamblers, and experts in all the scams that are or ever were."*

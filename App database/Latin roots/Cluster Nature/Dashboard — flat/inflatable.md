@@ -5,14 +5,6 @@ status: unread
 ---
 # inflatable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to be filled with air or gas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to be filled with air or gas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"As a senior technician, I was assigned to the recovery and repair of damaged parachutes, life rafts, inflatable life preservers, oxygen masks, and the escape-and-evasion kits that air crews relied on when they bailed out over enemy territory."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Life vest checklists directed that inflatable life vests would be examined by the wearer or a technician before donning to ensure that the neoprene inner bladders, mouth inflation tube connections, and inflation CO2 cartridges and levers were intact."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to be filled with air or gas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to be filled with air or gas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"As a senior technician, I was assigned to the recovery and repair of damaged parachutes, life rafts, inflatable life preservers, oxygen masks, and the escape-and-evasion kits that air crews relied on when they bailed out over enemy territory."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Life vest checklists directed that inflatable life vests would be examined by the wearer or a technician before donning to ensure that the neoprene inner bladders, mouth inflation tube connections, and inflation CO2 cartridges and levers were intact."*

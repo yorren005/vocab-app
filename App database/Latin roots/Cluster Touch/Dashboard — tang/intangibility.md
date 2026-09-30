@@ -5,14 +5,6 @@ status: unread
 ---
 # intangibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being intangible and not perceptible by touch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being intangible and not perceptible by touch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Pearl either saw and responded to her mother’s feelings, or herself felt the remoteness and intangibility that had fallen around the minister."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He wished she knew his impressions; but he would as soon have thought of carrying an odour in a net as of attempting to convey the intangibilities of his feeling in the coarse meshes of language."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being intangible and not perceptible by touch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being intangible and not perceptible by touch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Pearl either saw and responded to her mother’s feelings, or herself felt the remoteness and intangibility that had fallen around the minister."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He wished she knew his impressions; but he would as soon have thought of carrying an odour in a net as of attempting to convey the intangibilities of his feeling in the coarse meshes of language."*

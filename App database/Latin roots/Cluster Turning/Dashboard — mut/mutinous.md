@@ -5,15 +5,6 @@ status: unread
 ---
 # mutinous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disposed to or in a state of mutiny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of or characterized by or inciting to mutiny.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A street Enter a company of mutinous Citizens, with staves, clubs, and other weapons."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The senators of Rome are this good belly, And you the mutinous members."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The people mutinous; and, it is rumoured, Cominius, Martius your old enemy, Who is of Rome worse hated than of you,— And Titus Lartius, a most valiant Roman, These three lead on this preparation Whither ’tis bent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disposed to or in a state of mutiny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of or characterized by or inciting to mutiny.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A street Enter a company of mutinous Citizens, with staves, clubs, and other weapons."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The senators of Rome are this good belly, And you the mutinous members."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The people mutinous; and, it is rumoured, Cominius, Martius your old enemy, Who is of Rome worse hated than of you,— And Titus Lartius, a most valiant Roman, These three lead on this preparation Whither ’tis bent."*

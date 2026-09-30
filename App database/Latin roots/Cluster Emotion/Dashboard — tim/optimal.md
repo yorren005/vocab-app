@@ -5,13 +5,6 @@ status: unread
 ---
 # optimal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Most desirable possible under a restriction expressed or implied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most desirable possible under a restriction expressed or implied.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In my line of work, our data bank produces an optimal selection of personalities, skills and identities for the best possible teams we might need to support our contingency plans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Most desirable possible under a restriction expressed or implied.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most desirable possible under a restriction expressed or implied.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In my line of work, our data bank produces an optimal selection of personalities, skills and identities for the best possible teams we might need to support our contingency plans."*

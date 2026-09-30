@@ -5,15 +5,6 @@ status: unread
 ---
 # critter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A regional term for `creature' (especially for domestic animals).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A regional term for `creature' (especially for domestic animals).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"I'm sure I heard Dutton had got a lamb for Christmas; and how could the poor critter come by it unless he stole it somewhere; and as Mrs."*
-> - 📜 **Effie Afton (*Eventide*):** *"Well, I'm glad to find it so; but I wonder where the poor critter _did_ get it?" "I can enlighten you on that point," said Mrs."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"On the road that he traveled there lived a widow woman, who had the reputation of being as ugly, cross-grained a critter as ever lived."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A regional term for `creature' (especially for domestic animals).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A regional term for `creature' (especially for domestic animals).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"I'm sure I heard Dutton had got a lamb for Christmas; and how could the poor critter come by it unless he stole it somewhere; and as Mrs."*
+> - 📜 **Effie Afton (*Eventide*):** *"Well, I'm glad to find it so; but I wonder where the poor critter _did_ get it?" "I can enlighten you on that point," said Mrs."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"On the road that he traveled there lived a widow woman, who had the reputation of being as ugly, cross-grained a critter as ever lived."*

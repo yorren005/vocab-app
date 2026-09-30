@@ -5,15 +5,6 @@ status: unread
 ---
 # equalizer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electronic equipment that reduces frequency distortion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A weight that balances another weight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Interest is therefore the equalizer of the value of things in different periods."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The enterpriser is merely the distributor or equalizer of cost among all the different products for which different agents can be used."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Kumiko and Scarf moved up to stand behind Brad as pressure equalizers hissed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Electronic equipment that reduces frequency distortion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A weight that balances another weight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Interest is therefore the equalizer of the value of things in different periods."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The enterpriser is merely the distributor or equalizer of cost among all the different products for which different agents can be used."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Kumiko and Scarf moved up to stand behind Brad as pressure equalizers hissed."*

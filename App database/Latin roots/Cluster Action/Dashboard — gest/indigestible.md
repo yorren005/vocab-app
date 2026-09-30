@@ -5,15 +5,6 @@ status: unread
 ---
 # indigestible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Digested with difficulty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Digested with difficulty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"There was cake, too, very heavy and indigestible, and speckled with huckleberries that had been dried the fall previous."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Do think of something nice and indigestible.” There were sounds of riot and mirth in the little stone house that night."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"We eat all sorts of indigestible things whenever we happen to think of it, by day or night; and we flourish like green bay trees."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Digested with difficulty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Digested with difficulty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"There was cake, too, very heavy and indigestible, and speckled with huckleberries that had been dried the fall previous."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Do think of something nice and indigestible.” There were sounds of riot and mirth in the little stone house that night."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"We eat all sorts of indigestible things whenever we happen to think of it, by day or night; and we flourish like green bay trees."*

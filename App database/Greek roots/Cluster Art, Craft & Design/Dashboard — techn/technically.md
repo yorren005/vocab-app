@@ -5,15 +5,6 @@ status: unread
 ---
 # technically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to technique.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to technical skill and the technology available.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The third item of consciousness was that of seeing the same sword, perfectly clean and free from blood held vertically in Troy’s hand (in the position technically called “recover swords”)."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The insurance spoken of in relation to accidents is technically that which the employers may or must take to protect themselves against loss, not that which the workman has."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I was shy of her because-- it's a curious fact--she was my first experience of your sex: but she was not shy with me, though I believe she too was-- technically--innocent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to technique.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to technical skill and the technology available.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The third item of consciousness was that of seeing the same sword, perfectly clean and free from blood held vertically in Troy’s hand (in the position technically called “recover swords”)."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The insurance spoken of in relation to accidents is technically that which the employers may or must take to protect themselves against loss, not that which the workman has."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"I was shy of her because-- it's a curious fact--she was my first experience of your sex: but she was not shy with me, though I believe she too was-- technically--innocent."*

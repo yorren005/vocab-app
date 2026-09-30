@@ -5,15 +5,6 @@ status: unread
 ---
 # insignia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A badge worn to show official position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A badge worn to show official position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Then the priest, wearing the insignia of his office, went from hut to hut relighting the fires by means of a flint.[331] Among the Esquimaux with whom C.F."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The walls were festooned with the emblems and insignia of all Nations in attendance."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It meets once a week at a little old-fashioned house kept by a jolly publican of the name of Wagstaff, and bearing for insignia a resplendent half-moon, with a most seductive bunch of grapes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A badge worn to show official position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A badge worn to show official position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Then the priest, wearing the insignia of his office, went from hut to hut relighting the fires by means of a flint.[331] Among the Esquimaux with whom C.F."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The walls were festooned with the emblems and insignia of all Nations in attendance."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It meets once a week at a little old-fashioned house kept by a jolly publican of the name of Wagstaff, and bearing for insignia a resplendent half-moon, with a most seductive bunch of grapes."*

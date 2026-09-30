@@ -5,13 +5,6 @@ status: unread
 ---
 # tetragon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In geometry, a quadrilateral is a four-sided polygon, having four edges (sides) and four corners (vertices).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The word is derived from the Latin words quadri, a variant of four, and latus, meaning "side".
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetragon designates in geometry, a quadrilateral is a four-sided polygon, having four edges (sides) and four corners (vertices)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In geometry, a quadrilateral is a four-sided polygon, having four edges (sides) and four corners (vertices).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The word is derived from the Latin words quadri, a variant of four, and latus, meaning "side".
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetragon designates in geometry, a quadrilateral is a four-sided polygon, having four edges (sides) and four corners (vertices)."*

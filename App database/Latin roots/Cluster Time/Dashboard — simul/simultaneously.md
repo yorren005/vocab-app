@@ -5,15 +5,6 @@ status: unread
 ---
 # simultaneously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At the same instant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At the same instant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed and Judy simultaneously fold their arms and stop in their researches."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In this metamorphosed state he is available in a good many places simultaneously and can throw himself upon a considerable portion of the country at one time."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In this meditative walk his foot met the floor with heel and toe simultaneously, and his fine reddish-fleshed face was bent downwards just enough to render obscure the still mouth and the well-rounded though rather prominent and broad chin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At the same instant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At the same instant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed and Judy simultaneously fold their arms and stop in their researches."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In this metamorphosed state he is available in a good many places simultaneously and can throw himself upon a considerable portion of the country at one time."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In this meditative walk his foot met the floor with heel and toe simultaneously, and his fine reddish-fleshed face was bent downwards just enough to render obscure the still mouth and the well-rounded though rather prominent and broad chin."*

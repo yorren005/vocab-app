@@ -5,15 +5,6 @@ status: unread
 ---
 # seventieth
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Position 70 in a countable series of things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordinal number of seventy in counting order.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It is now that part of New York known as Bloomingdale, on the west side, between about Seventieth and One Hundredth Streets."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He has himself been an expression of the fullest physical life: and now, in his five and seventieth year, since the 7th of last May, he preserves both mind and body in a magnificent vigor."*
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"Holdreth Khain and I went up to the seventieth floor and looked for 6A."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Position 70 in a countable series of things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordinal number of seventy in counting order.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It is now that part of New York known as Bloomingdale, on the west side, between about Seventieth and One Hundredth Streets."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He has himself been an expression of the fullest physical life: and now, in his five and seventieth year, since the 7th of last May, he preserves both mind and body in a magnificent vigor."*
+> - 📜 **Randall Garrett (*Deadly decoy*):** *"Holdreth Khain and I went up to the seventieth floor and looked for 6A."*

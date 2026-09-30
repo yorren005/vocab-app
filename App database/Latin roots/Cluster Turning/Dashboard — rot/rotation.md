@@ -5,15 +5,6 @@ status: unread
 ---
 # rotation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rotating as if on an axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (mathematics) a transformation in which the coordinate axes are rotated by a fixed angle about the origin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Now with that dam I could grow three crops a year, observing due rotation, and be able to turn under a wealth of green manure. . . ."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The farm unit should be of such extent as to permit of the proper use of the soil by rotation of crops, and to employ fully the best modern labor-saving machinery for each purpose."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A rotation of crops is necessary to get good yields."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rotating as if on an axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (mathematics) a transformation in which the coordinate axes are rotated by a fixed angle about the origin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Now with that dam I could grow three crops a year, observing due rotation, and be able to turn under a wealth of green manure. . . ."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The farm unit should be of such extent as to permit of the proper use of the soil by rotation of crops, and to employ fully the best modern labor-saving machinery for each purpose."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A rotation of crops is necessary to get good yields."*

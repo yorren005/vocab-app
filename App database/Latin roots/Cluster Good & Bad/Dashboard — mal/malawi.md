@@ -5,13 +5,6 @@ status: unread
 ---
 # malawi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A landlocked republic in southern central africa; achieved independence from the united kingdom in 1964.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A landlocked republic in southern central africa; achieved independence from the united kingdom in 1964.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malawi designates a landlocked republic in southern central africa; achieved independence from the united kingdom in 1964."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A landlocked republic in southern central africa; achieved independence from the united kingdom in 1964.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A landlocked republic in southern central africa; achieved independence from the united kingdom in 1964.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malawi designates a landlocked republic in southern central africa; achieved independence from the united kingdom in 1964."*

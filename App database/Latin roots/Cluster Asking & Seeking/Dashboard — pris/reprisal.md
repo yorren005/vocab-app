@@ -5,15 +5,6 @@ status: unread
 ---
 # reprisal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A retaliatory action against an enemy in wartime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A retaliatory action against an enemy in wartime.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am on fire To hear this rich reprisal is so nigh, And yet not ours."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This immediately put her on the defensive, and with one of those sudden impulses of reprisal to which she was liable she gave him a little push from her."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I don’t care if you fail to come back for a week or for the whole ten days.” And what can even the Warden of a great prison do in reprisal on a prisoner upon whom the ultimate reprisal has already been wreaked?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A retaliatory action against an enemy in wartime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A retaliatory action against an enemy in wartime.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am on fire To hear this rich reprisal is so nigh, And yet not ours."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This immediately put her on the defensive, and with one of those sudden impulses of reprisal to which she was liable she gave him a little push from her."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I don’t care if you fail to come back for a week or for the whole ten days.” And what can even the Warden of a great prison do in reprisal on a prisoner upon whom the ultimate reprisal has already been wreaked?"*

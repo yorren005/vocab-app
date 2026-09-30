@@ -5,15 +5,6 @@ status: unread
 ---
 # startled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To stimulate to action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move or jump suddenly, as if in surprise or alarm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Going before the Chancellor?” I said, startled for a moment."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Hi, Lady Jane!” A large grey cat leaped from some neighbouring shelf on his shoulder and startled us all."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pray don’t!” cried Ada, very much startled by the idea of my doing so."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To stimulate to action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move or jump suddenly, as if in surprise or alarm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Going before the Chancellor?” I said, startled for a moment."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Hi, Lady Jane!” A large grey cat leaped from some neighbouring shelf on his shoulder and startled us all."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Pray don’t!” cried Ada, very much startled by the idea of my doing so."*

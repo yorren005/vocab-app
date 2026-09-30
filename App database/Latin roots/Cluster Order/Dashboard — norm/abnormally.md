@@ -5,15 +5,6 @@ status: unread
 ---
 # abnormally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an abnormal manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an abnormal manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Long before a new tariff law goes into effect, even months in advance of its passage, while it is merely in prospect, the course of trade is abnormally affected."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Perhaps I am too imaginative, and the earliest impressions I received were of a kind to stimulate the imagination abnormally."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The princess, who had a straight, rigid body, abnormally long for her legs, looked directly at Prince Vasíli with no sign of emotion in her prominent gray eyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an abnormal manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an abnormal manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Long before a new tariff law goes into effect, even months in advance of its passage, while it is merely in prospect, the course of trade is abnormally affected."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Perhaps I am too imaginative, and the earliest impressions I received were of a kind to stimulate the imagination abnormally."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The princess, who had a straight, rigid body, abnormally long for her legs, looked directly at Prince Vasíli with no sign of emotion in her prominent gray eyes."*

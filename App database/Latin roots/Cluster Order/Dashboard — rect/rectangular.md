@@ -5,15 +5,6 @@ status: unread
 ---
 # rectangular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having four right angles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a set of mutually perpendicular axes; meeting at right angles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A rectangular space of light appeared in the side of the hut, and in the opening the outline of Farmer Oak’s figure."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Then the front door again opened, the rays streamed out, the well-known form of Boldwood was seen in the rectangular area of light, the door closed, and Boldwood walked slowly down the path."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Carrying his fingers onward he found that what he had come in contact with was a colossal rectangular pillar; by stretching out his left hand he could feel a similar one adjoining."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having four right angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a set of mutually perpendicular axes; meeting at right angles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A rectangular space of light appeared in the side of the hut, and in the opening the outline of Farmer Oak’s figure."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Then the front door again opened, the rays streamed out, the well-known form of Boldwood was seen in the rectangular area of light, the door closed, and Boldwood walked slowly down the path."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Carrying his fingers onward he found that what he had come in contact with was a colossal rectangular pillar; by stretching out his left hand he could feel a similar one adjoining."*

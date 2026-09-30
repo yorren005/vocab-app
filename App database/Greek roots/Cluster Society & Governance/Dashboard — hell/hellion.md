@@ -5,13 +5,6 @@ status: unread
 ---
 # hellion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rowdy or mischievous person (usually a young man).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rowdy or mischievous person (usually a young man).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hellion designates a rowdy or mischievous person (usually a young man)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rowdy or mischievous person (usually a young man).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rowdy or mischievous person (usually a young man).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hellion designates a rowdy or mischievous person (usually a young man)."*

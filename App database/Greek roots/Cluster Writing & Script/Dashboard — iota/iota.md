@@ -5,15 +5,6 @@ status: unread
 ---
 # iota
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An infinitesimal amount : jot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The 9th letter of the Greek alphabet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He lacked the slightest iota of faith."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But I shall not therefore drop one iota of my convictions, or cease to identify myself with that truth which an evil generation hates."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Not one iota is added to the proof by interpolating a general proposition." We not only may, according to Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infinitesimal amount : jot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The 9th letter of the Greek alphabet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He lacked the slightest iota of faith."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But I shall not therefore drop one iota of my convictions, or cease to identify myself with that truth which an evil generation hates."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Not one iota is added to the proof by interpolating a general proposition." We not only may, according to Mr."*

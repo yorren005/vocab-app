@@ -5,15 +5,6 @@ status: unread
 ---
 # synonym
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two or more words or expressions of the same language that have the same or nearly the same meaning in some or all senses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word, phrase, or name that by association is held to embody something (such as a concept or quality); also : an object held to do this.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His outlook upon time was as a transient flash of the eye now and then: that projection of consciousness into days gone by and to come, which makes the past a synonym for the pathetic and the future a word for circumspection, was foreign to Troy."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But the word is often used as if it were a synonym for trust (in a narrower or wider sense) even as applied to a single enterprise that has grown to be monopolistic."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Brose, a thick mixture of meal and warm water; also a synonym for porridge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two or more words or expressions of the same language that have the same or nearly the same meaning in some or all senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word, phrase, or name that by association is held to embody something (such as a concept or quality); also : an object held to do this.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His outlook upon time was as a transient flash of the eye now and then: that projection of consciousness into days gone by and to come, which makes the past a synonym for the pathetic and the future a word for circumspection, was foreign to Troy."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But the word is often used as if it were a synonym for trust (in a narrower or wider sense) even as applied to a single enterprise that has grown to be monopolistic."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Brose, a thick mixture of meal and warm water; also a synonym for porridge."*

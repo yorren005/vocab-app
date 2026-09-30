@@ -5,14 +5,6 @@ status: unread
 ---
 # deactivate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove from active military status or reassign.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make inactive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Avoid a scrap, but if you find the guns have not been deactivated, do it for them." He pointed at Brad to give emphasis to his words."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Now." "Our fire control center has been deactivated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +41,10 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove from active military status or reassign.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make inactive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Avoid a scrap, but if you find the guns have not been deactivated, do it for them." He pointed at Brad to give emphasis to his words."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Now." "Our fire control center has been deactivated."*

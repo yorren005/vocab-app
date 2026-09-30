@@ -5,13 +5,6 @@ status: unread
 ---
 # xylem
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex tissue in the vascular system of higher plants that consists of vessels, tracheids, or both usually together with wood fibers and parenchyma cells, functions chiefly in conduction of water and dissolved minerals but also in support and food storage, and typically constitutes the woody element (as of a plant stem).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vascular ray or portion of a vascular ray located in xylem —called also wood ray.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylem designates a complex tissue in the vascular system of higher plants that consists of vessels, tracheids, or both usually together with wood fibers and parenchyma cells, functions chiefly in conduction of water and dissolved minerals but also in support and food storage, and typically constitutes the woody element (as of a plant stem)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex tissue in the vascular system of higher plants that consists of vessels, tracheids, or both usually together with wood fibers and parenchyma cells, functions chiefly in conduction of water and dissolved minerals but also in support and food storage, and typically constitutes the woody element (as of a plant stem).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vascular ray or portion of a vascular ray located in xylem —called also wood ray.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylem designates a complex tissue in the vascular system of higher plants that consists of vessels, tracheids, or both usually together with wood fibers and parenchyma cells, functions chiefly in conduction of water and dissolved minerals but also in support and food storage, and typically constitutes the woody element (as of a plant stem)."*

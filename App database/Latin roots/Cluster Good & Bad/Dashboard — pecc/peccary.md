@@ -5,13 +5,6 @@ status: unread
 ---
 # peccary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nocturnal gregarious pig-like wild animals of north america and south america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nocturnal gregarious pig-like wild animals of north america and south america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peccary designates nocturnal gregarious pig-like wild animals of north america and south america."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nocturnal gregarious pig-like wild animals of north america and south america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nocturnal gregarious pig-like wild animals of north america and south america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peccary designates nocturnal gregarious pig-like wild animals of north america and south america."*

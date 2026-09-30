@@ -5,15 +5,6 @@ status: unread
 ---
 # indispose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make unwilling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make unfit or unsuitable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The capricious operation of so dissimilar a method of trial in the same cases, under the same government, is of itself sufficient to indispose every wellregulated judgment towards it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Truly I am not much to boast of, Sir Leicester, and I—I should still, Sir Leicester, if you was not so indisposed—which I hope you will not be long—I should still hope for the favour of being allowed to remain unknown in general."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He dropped down just now, and the doctor who was there for mother said there was no chance for him, because his heart was growed in.” Yes; the Durbeyfield couple had changed places; the dying one was out of danger, and the indisposed one was dead."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make unwilling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make unfit or unsuitable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The capricious operation of so dissimilar a method of trial in the same cases, under the same government, is of itself sufficient to indispose every wellregulated judgment towards it."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Truly I am not much to boast of, Sir Leicester, and I—I should still, Sir Leicester, if you was not so indisposed—which I hope you will not be long—I should still hope for the favour of being allowed to remain unknown in general."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He dropped down just now, and the doctor who was there for mother said there was no chance for him, because his heart was growed in.” Yes; the Durbeyfield couple had changed places; the dying one was out of danger, and the indisposed one was dead."*

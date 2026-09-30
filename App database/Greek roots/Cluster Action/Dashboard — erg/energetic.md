@@ -5,15 +5,6 @@ status: unread
 ---
 # energetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Operating with or marked by vigor or effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by energy : strenuous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Come, just taste how sweet it is." "No, no, no," Mäzli moaned again in such sorrowful tones as no one had ever heard from the energetic little child."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He could have gone with us at that time of the year very well, but he was in the full novelty of his new position and was making most energetic attempts to unravel the mysteries of the fatal suit."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Charley over the water, Charley over the water, over the water to Charley, Charley over the water, over the water to Charley!” and becomes quite energetic about it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operating with or marked by vigor or effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by energy : strenuous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Come, just taste how sweet it is." "No, no, no," Mäzli moaned again in such sorrowful tones as no one had ever heard from the energetic little child."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He could have gone with us at that time of the year very well, but he was in the full novelty of his new position and was making most energetic attempts to unravel the mysteries of the fatal suit."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Charley over the water, Charley over the water, over the water to Charley, Charley over the water, over the water to Charley!” and becomes quite energetic about it."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # meteor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An atmospheric phenomenon (such as lightning or a snowfall).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the small particles of matter in the solar system that are directly observable only by their incandescence from frictional heating on entry into the atmosphere.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I missed the meteor once and hit that woman, who cried out “Clubs!” when I might see from far some forty truncheoners draw to her succour, which were the hope o’ th’ Strand, where she was quartered."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will stare him out of his wits, I will awe him with my cudgel; it shall hang like a meteor o’er the cuckold’s horns."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is some meteor that the sun exhales To be to thee this night a torchbearer And light thee on thy way to Mantua."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An atmospheric phenomenon (such as lightning or a snowfall).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the small particles of matter in the solar system that are directly observable only by their incandescence from frictional heating on entry into the atmosphere.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I missed the meteor once and hit that woman, who cried out “Clubs!” when I might see from far some forty truncheoners draw to her succour, which were the hope o’ th’ Strand, where she was quartered."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will stare him out of his wits, I will awe him with my cudgel; it shall hang like a meteor o’er the cuckold’s horns."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is some meteor that the sun exhales To be to thee this night a torchbearer And light thee on thy way to Mantua."*

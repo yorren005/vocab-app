@@ -5,15 +5,6 @@ status: unread
 ---
 # demarcation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The boundary of a specific area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conceptual separation or distinction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The line of demarcation between savings banks and savings departments of commercial banks cannot be sharply drawn."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The line of demarcation is not easy to draw exactly."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Understanding is the line of demarcation between the real and unreal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The boundary of a specific area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conceptual separation or distinction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The line of demarcation between savings banks and savings departments of commercial banks cannot be sharply drawn."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The line of demarcation is not easy to draw exactly."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Understanding is the line of demarcation between the real and unreal."*

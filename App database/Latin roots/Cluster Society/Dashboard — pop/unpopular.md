@@ -5,15 +5,6 @@ status: unread
 ---
 # unpopular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regarded with disfavor or lacking general approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regarded with disfavor or lacking general approval.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The gaps remain, and there are not unpopular lodgings among the rubbish."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But being contrary to the court’s expectation admitted, they immediately become unpopular and are considered to mean no good."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Everything which has made the Hospital unpopular has helped with other causes—I think they are all connected with my professional zeal—to make me unpopular as a practitioner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regarded with disfavor or lacking general approval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regarded with disfavor or lacking general approval.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The gaps remain, and there are not unpopular lodgings among the rubbish."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But being contrary to the court’s expectation admitted, they immediately become unpopular and are considered to mean no good."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Everything which has made the Hospital unpopular has helped with other causes—I think they are all connected with my professional zeal—to make me unpopular as a practitioner."*

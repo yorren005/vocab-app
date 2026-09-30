@@ -5,14 +5,6 @@ status: unread
 ---
 # disposable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An item that can be disposed of after it has been used.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free or available for use or disposition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The insulation of his heart by reserve during these many years, without a channel of any kind for disposable emotion, had worked its effect."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The insulation of his heart by reserve during these many years, without a duct of any kind for disposable emotion, had worked its effect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An item that can be disposed of after it has been used.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free or available for use or disposition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The insulation of his heart by reserve during these many years, without a channel of any kind for disposable emotion, had worked its effect."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The insulation of his heart by reserve during these many years, without a duct of any kind for disposable emotion, had worked its effect."*

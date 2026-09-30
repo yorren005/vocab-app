@@ -5,13 +5,6 @@ status: unread
 ---
 # sporophyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The diploid, multicellular, asexual reproductive stage in plants and algae that develops from the zygote and that produces spores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The diploid, multicellular, asexual reproductive stage in plants and algae that develops from the zygote and that produces spores.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sporophyte designates the diploid, multicellular, asexual reproductive stage in plants and algae that develops from the zygote and that produces spores."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The diploid, multicellular, asexual reproductive stage in plants and algae that develops from the zygote and that produces spores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The diploid, multicellular, asexual reproductive stage in plants and algae that develops from the zygote and that produces spores.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sporophyte designates the diploid, multicellular, asexual reproductive stage in plants and algae that develops from the zygote and that produces spores."*

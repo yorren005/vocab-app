@@ -5,13 +5,6 @@ status: unread
 ---
 # ultrasonography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Using the reflections of high-frequency sound waves to construct an image of a body organ (a sonogram); commonly used to observe fetal growth or study bodily organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using the reflections of high-frequency sound waves to construct an image of a body organ (a sonogram); commonly used to observe fetal growth or study bodily organs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultrasonography designates using the reflections of high-frequency sound waves to construct an image of a body organ (a sonogram); commonly used to observe fetal growth or study bodily organs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Using the reflections of high-frequency sound waves to construct an image of a body organ (a sonogram); commonly used to observe fetal growth or study bodily organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using the reflections of high-frequency sound waves to construct an image of a body organ (a sonogram); commonly used to observe fetal growth or study bodily organs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultrasonography designates using the reflections of high-frequency sound waves to construct an image of a body organ (a sonogram); commonly used to observe fetal growth or study bodily organs."*

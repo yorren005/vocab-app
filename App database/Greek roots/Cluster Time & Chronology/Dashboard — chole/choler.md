@@ -5,15 +5,6 @@ status: unread
 ---
 # choler
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An irritable petulant feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong emotion; a feeling that is oriented toward some real or supposed grievance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So putting him to rage, You should have ta’en th’ advantage of his choler And passed him unelected."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go about it. [_Exit Aedile._] Put him to choler straight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, my lord; rather with choler."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irritable petulant feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong emotion; a feeling that is oriented toward some real or supposed grievance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So putting him to rage, You should have ta’en th’ advantage of his choler And passed him unelected."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go about it. [_Exit Aedile._] Put him to choler straight."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, my lord; rather with choler."*

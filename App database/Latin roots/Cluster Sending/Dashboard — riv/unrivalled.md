@@ -5,15 +5,6 @@ status: unread
 ---
 # unrivalled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eminent beyond or above comparison.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eminent beyond or above comparison.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Sir Clifford thinks of charging twopence for a peep at the whispering gallery in the spinal column; threepence to hear the echo in the hollow of his cerebellum; and sixpence for the unrivalled view from his forehead."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I cast a last look on these wonders of nature, on the riches of art heaped up in this museum, upon the unrivalled collection destined to perish at the bottom of the sea, with him who had formed it."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The taste of the English in the cultivation of land, and in what is called landscape gardening, is unrivalled."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eminent beyond or above comparison.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eminent beyond or above comparison.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Sir Clifford thinks of charging twopence for a peep at the whispering gallery in the spinal column; threepence to hear the echo in the hollow of his cerebellum; and sixpence for the unrivalled view from his forehead."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I cast a last look on these wonders of nature, on the riches of art heaped up in this museum, upon the unrivalled collection destined to perish at the bottom of the sea, with him who had formed it."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The taste of the English in the cultivation of land, and in what is called landscape gardening, is unrivalled."*

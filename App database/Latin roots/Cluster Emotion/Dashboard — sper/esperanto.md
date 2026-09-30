@@ -5,13 +5,6 @@ status: unread
 ---
 # esperanto
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial language based as far as possible on words common to all the european languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial language based as far as possible on words common to all the european languages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"General amnesty, weekly carnival with masked licence, bonuses for all, esperanto the universal language with universal brotherhood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial language based as far as possible on words common to all the european languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial language based as far as possible on words common to all the european languages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"General amnesty, weekly carnival with masked licence, bonuses for all, esperanto the universal language with universal brotherhood."*

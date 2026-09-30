@@ -5,15 +5,6 @@ status: unread
 ---
 # collapse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrupt failure of function or complete physical exhaustion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural event caused by something suddenly falling down or caving in.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And he drives me to do what I wouldn’t; yes, he does!—Tall, come indoors.” After this collapse, not very dignified for the head of an establishment, she went into the house, Tall at her heels."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To one who knew the man and his story there was something more striking in this immobility than in a collapse."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Some such collapse had been probable, so tender and puny was its frame; but the event came as a shock nevertheless."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrupt failure of function or complete physical exhaustion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural event caused by something suddenly falling down or caving in.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And he drives me to do what I wouldn’t; yes, he does!—Tall, come indoors.” After this collapse, not very dignified for the head of an establishment, she went into the house, Tall at her heels."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To one who knew the man and his story there was something more striking in this immobility than in a collapse."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Some such collapse had been probable, so tender and puny was its frame; but the event came as a shock nevertheless."*

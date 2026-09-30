@@ -5,15 +5,6 @@ status: unread
 ---
 # mistakenly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mistaken manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a mistaken manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For if I were to die—and I may die soon—it would be dreadful that you should always think mistakenly of me."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her eyes rested on the web of a spider, probably starved long ago, which had been mistakenly placed in a corner where no flies ever came, and shivered in the slight draught through the casement."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"As he was a believer in free trade, this act is often mistakenly described as a free-trade measure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mistaken manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a mistaken manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For if I were to die—and I may die soon—it would be dreadful that you should always think mistakenly of me."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her eyes rested on the web of a spider, probably starved long ago, which had been mistakenly placed in a corner where no flies ever came, and shivered in the slight draught through the casement."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"As he was a believer in free trade, this act is often mistakenly described as a free-trade measure."*

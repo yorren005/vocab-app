@@ -5,13 +5,6 @@ status: unread
 ---
 # dialysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The separation of substances in solution by means of their unequal diffusion through semipermeable membranes; especially : such a separation of colloids from soluble substances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of removing blood from an artery (as of a patient affected with kidney failure), purifying it by dialysis, adding vital substances, and returning it to a vein —called also hemodialysis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dialysis designates the separation of substances in solution by means of their unequal diffusion through semipermeable membranes; especially : such a separation of colloids from soluble substances."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The separation of substances in solution by means of their unequal diffusion through semipermeable membranes; especially : such a separation of colloids from soluble substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of removing blood from an artery (as of a patient affected with kidney failure), purifying it by dialysis, adding vital substances, and returning it to a vein —called also hemodialysis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dialysis designates the separation of substances in solution by means of their unequal diffusion through semipermeable membranes; especially : such a separation of colloids from soluble substances."*

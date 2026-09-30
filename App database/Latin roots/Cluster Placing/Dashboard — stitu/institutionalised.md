@@ -5,13 +5,6 @@ status: unread
 ---
 # institutionalised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be admitted; of persons to an institution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Officially placed in or committed to a specialized institution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, institutionalised designates cause to be admitted; of persons to an institution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be admitted; of persons to an institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Officially placed in or committed to a specialized institution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, institutionalised designates cause to be admitted; of persons to an institution."*

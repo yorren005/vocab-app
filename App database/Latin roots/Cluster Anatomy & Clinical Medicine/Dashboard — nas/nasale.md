@@ -5,13 +5,6 @@ status: unread
 ---
 # nasale
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak in a nasal voice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak in a nasal voice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nasale designates speak in a nasal voice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak in a nasal voice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak in a nasal voice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nasale designates speak in a nasal voice."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # gentleman-at-arms
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of 40 gentlemen who attend the british sovereign on state occasions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of 40 gentlemen who attend the british sovereign on state occasions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gentleman-at-arms designates one of 40 gentlemen who attend the british sovereign on state occasions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of 40 gentlemen who attend the british sovereign on state occasions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of 40 gentlemen who attend the british sovereign on state occasions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gentleman-at-arms designates one of 40 gentlemen who attend the british sovereign on state occasions."*

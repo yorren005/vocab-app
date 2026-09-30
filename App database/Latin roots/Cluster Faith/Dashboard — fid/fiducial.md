@@ -5,13 +5,6 @@ status: unread
 ---
 # fiducial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or of the nature of a legal trust (i.e. the holding of something in trust for another).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used as a fixed standard of reference for comparison or measurement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fiducial designates relating to or of the nature of a legal trust (i.e. the holding of something in trust for another)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or of the nature of a legal trust (i.e. the holding of something in trust for another).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used as a fixed standard of reference for comparison or measurement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fiducial designates relating to or of the nature of a legal trust (i.e. the holding of something in trust for another)."*

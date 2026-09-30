@@ -5,15 +5,6 @@ status: unread
 ---
 # intolerable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being put up with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being put up with.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But one halfpennyworth of bread to this intolerable deal of sack!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cousin of Buckingham, though Humphrey’s pride And greatness of his place be grief to us, Yet let us watch the haughty cardinal; His insolence is more intolerable Than all the princes’ in the land beside."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My liege, his railing is intolerable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being put up with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being put up with.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But one halfpennyworth of bread to this intolerable deal of sack!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cousin of Buckingham, though Humphrey’s pride And greatness of his place be grief to us, Yet let us watch the haughty cardinal; His insolence is more intolerable Than all the princes’ in the land beside."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My liege, his railing is intolerable."*

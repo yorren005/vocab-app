@@ -5,15 +5,6 @@ status: unread
 ---
 # legalize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make legal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make legal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It organized and tried to legalize a control of State elections by Federal troops."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Again, we are told that Ohio legalizes “special contracts” up to eight per cent. and, that if we would prevent the efflux of capital we must follow in the same direction."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"When all hope of international bimetallism failed, the efforts of many of its advocates were turned to the plan of legalizing national bimetallism in the United States at a ratio of 16 to 1."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make legal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make legal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It organized and tried to legalize a control of State elections by Federal troops."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Again, we are told that Ohio legalizes “special contracts” up to eight per cent. and, that if we would prevent the efflux of capital we must follow in the same direction."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"When all hope of international bimetallism failed, the efforts of many of its advocates were turned to the plan of legalizing national bimetallism in the United States at a ratio of 16 to 1."*

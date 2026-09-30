@@ -5,13 +5,6 @@ status: unread
 ---
 # empetrum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Crowberries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crowberries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"CROWBERRY UREDO; hypogenous; spots obliterated; sori oval, scattered: the epidermis at first convex, afterwards ruptured and concave; sporidia ovoid or subglobose, bright yellow.—On _Empetrum nigrum_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Crowberries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crowberries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"CROWBERRY UREDO; hypogenous; spots obliterated; sori oval, scattered: the epidermis at first convex, afterwards ruptured and concave; sporidia ovoid or subglobose, bright yellow.—On _Empetrum nigrum_."*

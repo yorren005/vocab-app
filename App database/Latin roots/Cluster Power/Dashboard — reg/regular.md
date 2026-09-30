@@ -5,15 +5,6 @@ status: unread
 ---
 # regular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A regular patron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soldier in the regular army.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, to atone your fears With my more noble meaning, not a man Shall pass his quarter or offend the stream Of regular justice in your city’s bounds, But shall be remedied to your public laws At heaviest answer."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"At ten o'clock next morning all the children were ready to leave and had formed a regular procession."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He never has what you would call a regular breakfast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A regular patron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soldier in the regular army.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, to atone your fears With my more noble meaning, not a man Shall pass his quarter or offend the stream Of regular justice in your city’s bounds, But shall be remedied to your public laws At heaviest answer."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"At ten o'clock next morning all the children were ready to leave and had formed a regular procession."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He never has what you would call a regular breakfast."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # trichloride
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any compound containing three chlorine atoms in each molecule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any compound containing three chlorine atoms in each molecule.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichloride designates any compound containing three chlorine atoms in each molecule."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any compound containing three chlorine atoms in each molecule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any compound containing three chlorine atoms in each molecule.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichloride designates any compound containing three chlorine atoms in each molecule."*

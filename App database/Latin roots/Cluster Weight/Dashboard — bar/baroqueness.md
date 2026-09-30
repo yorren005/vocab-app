@@ -5,13 +5,6 @@ status: unread
 ---
 # baroqueness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elaborate and extensive ornamentation in decorative art and architecture that flourished in europe in the 17th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elaborate and extensive ornamentation in decorative art and architecture that flourished in europe in the 17th century.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baroqueness designates elaborate and extensive ornamentation in decorative art and architecture that flourished in europe in the 17th century."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Elaborate and extensive ornamentation in decorative art and architecture that flourished in europe in the 17th century.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elaborate and extensive ornamentation in decorative art and architecture that flourished in europe in the 17th century.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baroqueness designates elaborate and extensive ornamentation in decorative art and architecture that flourished in europe in the 17th century."*

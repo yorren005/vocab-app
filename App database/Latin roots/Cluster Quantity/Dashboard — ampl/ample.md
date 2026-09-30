@@ -5,15 +5,6 @@ status: unread
 ---
 # ample
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: More than enough in size or scope or capacity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording an abundant supply.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will tarry, holy pilgrim, But till the troops come by, I will conduct you where you shall be lodg’d; The rather for I think I know your hostess As ample as myself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The great dignity that his valour hath here acquir’d for him shall at home be encountered with a shame as ample."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath the Prince John a full commission, In very ample virtue of his father, To hear and absolutely to determine Of what conditions we shall stand upon?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: More than enough in size or scope or capacity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording an abundant supply.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will tarry, holy pilgrim, But till the troops come by, I will conduct you where you shall be lodg’d; The rather for I think I know your hostess As ample as myself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The great dignity that his valour hath here acquir’d for him shall at home be encountered with a shame as ample."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath the Prince John a full commission, In very ample virtue of his father, To hear and absolutely to determine Of what conditions we shall stand upon?"*

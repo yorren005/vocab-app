@@ -5,13 +5,6 @@ status: unread
 ---
 # mericarp
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A carpel with one seed; one of a pair split apart at maturity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A carpel with one seed; one of a pair split apart at maturity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mericarp designates a carpel with one seed; one of a pair split apart at maturity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A carpel with one seed; one of a pair split apart at maturity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A carpel with one seed; one of a pair split apart at maturity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mericarp designates a carpel with one seed; one of a pair split apart at maturity."*

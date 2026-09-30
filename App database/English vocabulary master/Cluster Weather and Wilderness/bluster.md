@@ -5,20 +5,6 @@ status: unread
 ---
 # bluster
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Be windy and boisterous
-> 2. **Nuance / Usage**: Speak or protest loudly
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to bluster the target*) and intransitive clauses (*blustering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Then, dear countryman, Bring in thy ranks but leave without thy rage; Spare thy Athenian cradle and those kin Which in the bluster of thy wrath must fall With those that have offended."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Mike looked at his cap, and looked at the floor, and looked at the ceiling, and looked at the clerk, and even looked at me, before beginning to reply in a nervous manner, “We’ve dressed him up like—” when my guardian blustered out,— “What?"*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"But when I gave him every particular that had occurred, he tried to bluster and took down a life-preserver from the wall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Be windy and boisterous
+> 2. **Nuance / Usage**: Speak or protest loudly
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to bluster the target*) and intransitive clauses (*blustering against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Then, dear countryman, Bring in thy ranks but leave without thy rage; Spare thy Athenian cradle and those kin Which in the bluster of thy wrath must fall With those that have offended."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Mike looked at his cap, and looked at the floor, and looked at the ceiling, and looked at the clerk, and even looked at me, before beginning to reply in a nervous manner, “We’ve dressed him up like—” when my guardian blustered out,— “What?"*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"But when I gave him every particular that had occurred, he tried to bluster and took down a life-preserver from the wall."*

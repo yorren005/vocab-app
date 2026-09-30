@@ -5,15 +5,6 @@ status: unread
 ---
 # investigate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Investigate scientifically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conduct an inquiry or investigation of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have no need to observe that I do not wilfully or negligently mislead my readers and that before I wrote that description I took pains to investigate the subject."*
-> - 📜 **Jane Austen (*Persuasion*):** *"She had some feelings which she was ashamed to investigate."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He entertains religious convictions of a curious kind; but, as the man is quite free from revolutionary sentiments, I have never considered it to be my duty to interfere with him, or to investigate his creed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Investigate scientifically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conduct an inquiry or investigation of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I have no need to observe that I do not wilfully or negligently mislead my readers and that before I wrote that description I took pains to investigate the subject."*
+> - 📜 **Jane Austen (*Persuasion*):** *"She had some feelings which she was ashamed to investigate."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He entertains religious convictions of a curious kind; but, as the man is quite free from revolutionary sentiments, I have never considered it to be my duty to interfere with him, or to investigate his creed."*

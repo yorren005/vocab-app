@@ -5,15 +5,6 @@ status: unread
 ---
 # deference
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A courteous expression (by word or deed) of esteem or regard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Courteous regard for people's feelings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn does so with deference and holds it open while she passes out."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby in his best coat, looking at all the preparations when they are completed and coughing his cough of deference behind his hand, says to Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Fill your glass, Snagsby.” “Thank you, sir, I am sure,” returns the stationer with his cough of deference."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A courteous expression (by word or deed) of esteem or regard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Courteous regard for people's feelings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn does so with deference and holds it open while she passes out."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby in his best coat, looking at all the preparations when they are completed and coughing his cough of deference behind his hand, says to Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Fill your glass, Snagsby.” “Thank you, sir, I am sure,” returns the stationer with his cough of deference."*

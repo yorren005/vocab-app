@@ -5,15 +5,6 @@ status: unread
 ---
 # appleton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English physicist remembered for his studies of the ionosphere (1892-1966).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in eastern wisconsin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He took off his spectacles to polish them, and then as he put them on again, "If it's for that Appleton boy I really can't allow it."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"There's nothing whatever wrong with him but laziness" "It isn't for Appleton."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Appleton's bookstore was close at hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English physicist remembered for his studies of the ionosphere (1892-1966).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in eastern wisconsin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"He took off his spectacles to polish them, and then as he put them on again, "If it's for that Appleton boy I really can't allow it."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"There's nothing whatever wrong with him but laziness" "It isn't for Appleton."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Appleton's bookstore was close at hand."*

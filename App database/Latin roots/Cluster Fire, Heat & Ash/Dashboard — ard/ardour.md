@@ -5,15 +5,6 @@ status: unread
 ---
 # ardour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of strong eagerness (usually in favor of a person or cause).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intense feeling of love.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Proclaim no shame When the compulsive ardour gives the charge, Since frost itself as actively doth burn, And reason panders will."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I warrant you, sir; The white cold virgin snow upon my heart Abates the ardour of my liver."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is a bright-eyed woman, of a strong will and immense power of business detail, who throws herself into objects with surprising ardour!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of strong eagerness (usually in favor of a person or cause).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intense feeling of love.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Proclaim no shame When the compulsive ardour gives the charge, Since frost itself as actively doth burn, And reason panders will."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I warrant you, sir; The white cold virgin snow upon my heart Abates the ardour of my liver."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There is a bright-eyed woman, of a strong will and immense power of business detail, who throws herself into objects with surprising ardour!"*

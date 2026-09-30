@@ -5,15 +5,6 @@ status: unread
 ---
 # minutely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In minute detail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In minute detail.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed a hard-hearted, bad woman?” “She has been unkind to you, no doubt; because you see, she dislikes your cast of character, as Miss Scatcherd does mine; but how minutely you remember all she has done and said to you!"*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"My heart failed me when I saw him squaring at me with every demonstration of mechanical nicety, and eyeing my anatomy as if he were minutely choosing his bone."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Such conditions are often minutely represented in our petty lifetimes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In minute detail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In minute detail.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed a hard-hearted, bad woman?” “She has been unkind to you, no doubt; because you see, she dislikes your cast of character, as Miss Scatcherd does mine; but how minutely you remember all she has done and said to you!"*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"My heart failed me when I saw him squaring at me with every demonstration of mechanical nicety, and eyeing my anatomy as if he were minutely choosing his bone."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Such conditions are often minutely represented in our petty lifetimes."*

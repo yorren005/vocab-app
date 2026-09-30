@@ -5,13 +5,6 @@ status: unread
 ---
 # thermidor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eleventh month of the revolutionary calendar (july and august); the month of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eleventh month of the revolutionary calendar (july and august); the month of heat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermidor designates eleventh month of the revolutionary calendar (july and august); the month of heat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eleventh month of the revolutionary calendar (july and august); the month of heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eleventh month of the revolutionary calendar (july and august); the month of heat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermidor designates eleventh month of the revolutionary calendar (july and august); the month of heat."*

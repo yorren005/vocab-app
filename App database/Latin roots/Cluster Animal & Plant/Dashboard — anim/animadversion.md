@@ -5,15 +5,6 @@ status: unread
 ---
 # animadversion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Harsh criticism or disapproval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harsh criticism or disapproval.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Nor have I scrupled, in so flagrant a case, to allow myself a severity of animadversion little congenial with the general spirit of these papers."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The fifth point will demand little animadversion."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Egan unworthy of his position, or that could justly be the occasion of serious animadversion or criticism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Harsh criticism or disapproval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harsh criticism or disapproval.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Nor have I scrupled, in so flagrant a case, to allow myself a severity of animadversion little congenial with the general spirit of these papers."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The fifth point will demand little animadversion."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Egan unworthy of his position, or that could justly be the occasion of serious animadversion or criticism."*

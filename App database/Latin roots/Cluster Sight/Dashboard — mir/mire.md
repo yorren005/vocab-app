@@ -5,15 +5,6 @@ status: unread
 ---
 # mire
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft wet area of low-lying land that sinks underfoot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep soft mud in water or slush.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My master and his man are both broke loose, Beaten the maids a-row, and bound the doctor, Whose beard they have singed off with brands of fire, And ever as it blazed they threw on him Great pails of puddled mire to quench the hair."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spit, and throw stones, cast mire upon me, set The dogs o’ th’ street to bay me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not till it leave the rider in the mire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft wet area of low-lying land that sinks underfoot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep soft mud in water or slush.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My master and his man are both broke loose, Beaten the maids a-row, and bound the doctor, Whose beard they have singed off with brands of fire, And ever as it blazed they threw on him Great pails of puddled mire to quench the hair."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spit, and throw stones, cast mire upon me, set The dogs o’ th’ street to bay me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not till it leave the rider in the mire."*

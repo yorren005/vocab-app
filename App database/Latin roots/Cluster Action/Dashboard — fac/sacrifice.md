@@ -5,15 +5,6 @@ status: unread
 ---
 # sacrifice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of losing or surrendering something as a penalty for a mistake or fault or failure to perform etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Personnel that are sacrificed (e.g., surrendered or lost in order to gain an objective).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, sir, give the gods a thankful sacrifice."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Roman gods Lead their successes as we wish our own, That both our powers, with smiling fronts encount’ring, May give you thankful sacrifice!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor sleep nor sanctuary, Being naked, sick, nor fane nor Capitol, The prayers of priests nor times of sacrifice, Embarquements all of fury, shall lift up Their rotten privilege and custom ’gainst My hate to Martius."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of losing or surrendering something as a penalty for a mistake or fault or failure to perform etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Personnel that are sacrificed (e.g., surrendered or lost in order to gain an objective).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, sir, give the gods a thankful sacrifice."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Roman gods Lead their successes as we wish our own, That both our powers, with smiling fronts encount’ring, May give you thankful sacrifice!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor sleep nor sanctuary, Being naked, sick, nor fane nor Capitol, The prayers of priests nor times of sacrifice, Embarquements all of fury, shall lift up Their rotten privilege and custom ’gainst My hate to Martius."*

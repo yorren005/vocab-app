@@ -5,15 +5,6 @@ status: unread
 ---
 # starr
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rock star and drummer for the beatles (born in 1940).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rock star and drummer for the beatles (born in 1940).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O ill-starr’d wench, Pale as thy smock, when we shall meet at compt, This look of thine will hurl my soul from heaven, And fiends will snatch at it."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"I have also received a letter on the subject from Signor Carlo Placci, dated 4 (or 7) September, 1905, 1 Via Alfieri, Firenze. [316] Frederick Starr, "Holy Week in Mexico," _The Journal of American Folk-lore_, xii. (1899) pp. 164 _sq._; C."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Such is the fate of simple bard, On life’s rough ocean luckless starr’d!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rock star and drummer for the beatles (born in 1940).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rock star and drummer for the beatles (born in 1940).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O ill-starr’d wench, Pale as thy smock, when we shall meet at compt, This look of thine will hurl my soul from heaven, And fiends will snatch at it."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"I have also received a letter on the subject from Signor Carlo Placci, dated 4 (or 7) September, 1905, 1 Via Alfieri, Firenze. [316] Frederick Starr, "Holy Week in Mexico," _The Journal of American Folk-lore_, xii. (1899) pp. 164 _sq._; C."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Such is the fate of simple bard, On life’s rough ocean luckless starr’d!"*

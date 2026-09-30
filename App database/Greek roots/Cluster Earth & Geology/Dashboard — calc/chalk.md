@@ -5,15 +5,6 @@ status: unread
 ---
 # chalk
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft white, gray, or buff limestone composed chiefly of the shells of foraminifers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prepared form of chalk or a material resembling chalk especially when used (as for writing on blackboards) as a crayon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look down, you gods, And on this couple drop a blessed crown; For it is you that have chalk’d forth the way Which brought us hither."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Lippo actually looks as if he could not stand on his little legs." The boy was as white as chalk from staying up so late."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He seemed to be working hard, with the perspiration standing on his forehead, and had a piece of chalk by him, with which, as he put each separate package or bundle down, he made a crooked mark on the panelling of the wall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft white, gray, or buff limestone composed chiefly of the shells of foraminifers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prepared form of chalk or a material resembling chalk especially when used (as for writing on blackboards) as a crayon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look down, you gods, And on this couple drop a blessed crown; For it is you that have chalk’d forth the way Which brought us hither."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Lippo actually looks as if he could not stand on his little legs." The boy was as white as chalk from staying up so late."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He seemed to be working hard, with the perspiration standing on his forehead, and had a piece of chalk by him, with which, as he put each separate package or bundle down, he made a crooked mark on the panelling of the wall."*

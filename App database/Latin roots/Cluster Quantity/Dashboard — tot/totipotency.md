@@ -5,13 +5,6 @@ status: unread
 ---
 # totipotency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability of a cell to give rise to unlike cells and so to develop a new organism or part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability of a cell to give rise to unlike cells and so to develop a new organism or part.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, totipotency designates the ability of a cell to give rise to unlike cells and so to develop a new organism or part."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability of a cell to give rise to unlike cells and so to develop a new organism or part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability of a cell to give rise to unlike cells and so to develop a new organism or part.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, totipotency designates the ability of a cell to give rise to unlike cells and so to develop a new organism or part."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # suspiciously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With suspicion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With suspicion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Yes,” came suspiciously from the shadow."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I mean no harm—only to keep you from falling.” She pondered suspiciously, till, thinking that this might after all be true, she relented, and said quite humbly, “I beg your pardon, sir.” “I won’t pardon you unless you show some confidence in me."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Except Marian, they all looked wistfully and suspiciously at the pair, in the sad yellow rays which the morning candles emitted in contrast with the first cold signals of the dawn without."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With suspicion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With suspicion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Yes,” came suspiciously from the shadow."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I mean no harm—only to keep you from falling.” She pondered suspiciously, till, thinking that this might after all be true, she relented, and said quite humbly, “I beg your pardon, sir.” “I won’t pardon you unless you show some confidence in me."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Except Marian, they all looked wistfully and suspiciously at the pair, in the sad yellow rays which the morning candles emitted in contrast with the first cold signals of the dawn without."*

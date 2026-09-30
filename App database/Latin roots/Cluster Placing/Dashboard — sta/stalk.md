@@ -5,15 +5,6 @@ status: unread
 ---
 # stalk
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Material consisting of seed coverings and small pieces of stem or leaves that have been separated from the seeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slender or elongated structure that supports a plant or fungus or a plant part or plant organ.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus twice before, and jump at this dead hour, With martial stalk hath he gone by our watch."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or shall we give the signal to our rage And stalk in blood to our possession?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O! ay:—[Aside to Don Pedro] Stalk on, stalk on; the fowl sits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Material consisting of seed coverings and small pieces of stem or leaves that have been separated from the seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slender or elongated structure that supports a plant or fungus or a plant part or plant organ.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus twice before, and jump at this dead hour, With martial stalk hath he gone by our watch."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or shall we give the signal to our rage And stalk in blood to our possession?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O! ay:—[Aside to Don Pedro] Stalk on, stalk on; the fowl sits."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # nonprescription
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Purchasable without a doctor's prescription.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Purchasable without a doctor's prescription.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonprescription designates purchasable without a doctor's prescription."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Purchasable without a doctor's prescription.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Purchasable without a doctor's prescription.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonprescription designates purchasable without a doctor's prescription."*

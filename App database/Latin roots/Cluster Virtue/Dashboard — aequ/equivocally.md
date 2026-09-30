@@ -5,14 +5,6 @@ status: unread
 ---
 # equivocally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ambiguous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ambiguous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Paitrick, a partridge; used equivocally of a wanton girl."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But no language is so copious as to supply words and phrases for every complex idea, or so correct as not to include many equivocally denoting different ideas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ambiguous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ambiguous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Paitrick, a partridge; used equivocally of a wanton girl."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But no language is so copious as to supply words and phrases for every complex idea, or so correct as not to include many equivocally denoting different ideas."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # pastoral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition that evokes rural life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A letter from a pastor to the congregation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best actors in the world, either for tragedy, comedy, history, pastoral, pastoral-comical, historical-pastoral, tragical-historical, tragical-comical-historical-pastoral, scene individable, or poem unlimited."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"This present shepherd, our pastoral Richard, brightens the dull Inns of Court by making Fortune and her train sport through them to the melodious notes of a judgment from the bench."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then does she twirl and twine, a pastoral nymph of good family, through the mazes of the dance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition that evokes rural life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A letter from a pastor to the congregation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best actors in the world, either for tragedy, comedy, history, pastoral, pastoral-comical, historical-pastoral, tragical-historical, tragical-comical-historical-pastoral, scene individable, or poem unlimited."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"This present shepherd, our pastoral Richard, brightens the dull Inns of Court by making Fortune and her train sport through them to the melodious notes of a judgment from the bench."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Then does she twirl and twine, a pastoral nymph of good family, through the mazes of the dance."*

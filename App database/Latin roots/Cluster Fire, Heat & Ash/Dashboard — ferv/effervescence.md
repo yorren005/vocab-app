@@ -5,15 +5,6 @@ status: unread
 ---
 # effervescence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of bubbling as gas escapes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of giving off bubbles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The drops of logic Tess had let fall into the sea of his enthusiasm served to chill its effervescence to stagnation."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"So long as sweet Gaelic was spoken and men's hearts surged with feeling, there would be a song of his father's to translate the effervescence into words of cadenced beauty...."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"This effervescence made her flit with a bird-like movement, rather than walk by her mother’s side."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of bubbling as gas escapes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of giving off bubbles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The drops of logic Tess had let fall into the sea of his enthusiasm served to chill its effervescence to stagnation."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"So long as sweet Gaelic was spoken and men's hearts surged with feeling, there would be a song of his father's to translate the effervescence into words of cadenced beauty...."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"This effervescence made her flit with a bird-like movement, rather than walk by her mother’s side."*

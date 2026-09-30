@@ -5,15 +5,6 @@ status: unread
 ---
 # leper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person afflicted with leprosy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pariah who is avoided by others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The way in which, for instance, the leper approaches him, implies the man's eyes fixed in close study on Jesus' face, and finding nothing there to check him and everything to bring him nearer (Mark 1:41)."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Above all, we find him again and again "moved with compassion." We saw the leper approach him, with eyes fixed on the face of Jesus."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And yet they will all feel warranted in making a wide space between me and them, as if I were a leper!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person afflicted with leprosy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pariah who is avoided by others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The way in which, for instance, the leper approaches him, implies the man's eyes fixed in close study on Jesus' face, and finding nothing there to check him and everything to bring him nearer (Mark 1:41)."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Above all, we find him again and again "moved with compassion." We saw the leper approach him, with eyes fixed on the face of Jesus."*
+> - 📜 **George Eliot (*Middlemarch*):** *"And yet they will all feel warranted in making a wide space between me and them, as if I were a leper!"*

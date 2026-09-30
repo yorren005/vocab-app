@@ -5,15 +5,6 @@ status: unread
 ---
 # penetrating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass into or through, often by overcoming resistance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come to understand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The gentleman now threw a penetrating glance at the delicate looking little girl, who hardly dared to raise her large, dark eyes to his."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I lie in a shady place like this and think of adventurous spirits going to the North Pole or penetrating to the heart of the Torrid Zone with admiration."*
-> - 📜 **Jane Austen (*Persuasion*):** *"In every other respect, in looking around her, or penetrating forward, she saw more to distrust and to apprehend."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass into or through, often by overcoming resistance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come to understand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The gentleman now threw a penetrating glance at the delicate looking little girl, who hardly dared to raise her large, dark eyes to his."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I lie in a shady place like this and think of adventurous spirits going to the North Pole or penetrating to the heart of the Torrid Zone with admiration."*
+> - 📜 **Jane Austen (*Persuasion*):** *"In every other respect, in looking around her, or penetrating forward, she saw more to distrust and to apprehend."*

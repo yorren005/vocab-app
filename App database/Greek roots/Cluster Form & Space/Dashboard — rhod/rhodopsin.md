@@ -5,13 +5,6 @@ status: unread
 ---
 # rhodopsin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A red photosensitive pigment in the retinal rods of the eye of most vertebrates that is important in vision in dim light —called also visual purple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A red photosensitive pigment in the retinal rods of the eye of most vertebrates that is important in vision in dim light —called also visual purple.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhodopsin designates a red photosensitive pigment in the retinal rods of the eye of most vertebrates that is important in vision in dim light —called also visual purple."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A red photosensitive pigment in the retinal rods of the eye of most vertebrates that is important in vision in dim light —called also visual purple.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A red photosensitive pigment in the retinal rods of the eye of most vertebrates that is important in vision in dim light —called also visual purple.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhodopsin designates a red photosensitive pigment in the retinal rods of the eye of most vertebrates that is important in vision in dim light —called also visual purple."*

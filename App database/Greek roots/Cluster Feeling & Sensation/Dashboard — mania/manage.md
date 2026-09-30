@@ -5,15 +5,6 @@ status: unread
 ---
 # manage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be successful; achieve a goal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be in charge of, act on, or dispose of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is already Traduced for levity, and ’tis said in Rome That Photinus, an eunuch, and your maids Manage this war."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have a jest to execute that I cannot manage alone."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In thy faint slumbers I by thee have watch’d, And heard thee murmur tales of iron wars, Speak terms of manage to thy bounding steed, Cry “Courage!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be successful; achieve a goal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be in charge of, act on, or dispose of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is already Traduced for levity, and ’tis said in Rome That Photinus, an eunuch, and your maids Manage this war."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have a jest to execute that I cannot manage alone."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In thy faint slumbers I by thee have watch’d, And heard thee murmur tales of iron wars, Speak terms of manage to thy bounding steed, Cry “Courage!"*

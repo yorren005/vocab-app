@@ -5,15 +5,6 @@ status: unread
 ---
 # magnificent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by grandeur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by grandeur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A letter from the magnificent Armado."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I, that have been love’s whip, A very beadle to a humorous sigh, A critic, nay, a night-watch constable, A domineering pedant o’er the boy, Than whom no mortal so magnificent!"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mea could not hold her magnificent bunch of forget-me-nots near enough to their eyes to be admired."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by grandeur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by grandeur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A letter from the magnificent Armado."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I, that have been love’s whip, A very beadle to a humorous sigh, A critic, nay, a night-watch constable, A domineering pedant o’er the boy, Than whom no mortal so magnificent!"*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mea could not hold her magnificent bunch of forget-me-nots near enough to their eyes to be admired."*

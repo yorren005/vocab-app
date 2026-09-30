@@ -5,13 +5,6 @@ status: unread
 ---
 # oxidate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enter into a combination with oxygen or become converted into an oxide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add oxygen to or combine with oxygen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oxidate designates enter into a combination with oxygen or become converted into an oxide."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enter into a combination with oxygen or become converted into an oxide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add oxygen to or combine with oxygen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oxidate designates enter into a combination with oxygen or become converted into an oxide."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # depart
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move away from a place into another direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be at variance with; be out of line with.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The long day’s task is done, And we must sleep.—That thou depart’st hence safe Does pay thy labour richly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be rul’d by me; depart in patience, And let us to the Tiger all to dinner, And about evening, come yourself alone To know the reason of this strange restraint."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will depart in quiet, And, in despite of mirth, mean to be merry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move away from a place into another direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be at variance with; be out of line with.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The long day’s task is done, And we must sleep.—That thou depart’st hence safe Does pay thy labour richly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be rul’d by me; depart in patience, And let us to the Tiger all to dinner, And about evening, come yourself alone To know the reason of this strange restraint."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will depart in quiet, And, in despite of mirth, mean to be merry."*

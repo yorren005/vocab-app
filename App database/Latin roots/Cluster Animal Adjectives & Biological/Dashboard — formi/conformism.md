@@ -5,13 +5,6 @@ status: unread
 ---
 # conformism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Orthodoxy in thoughts and belief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Orthodoxy in thoughts and belief.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conformism designates orthodoxy in thoughts and belief."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Orthodoxy in thoughts and belief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Orthodoxy in thoughts and belief.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conformism designates orthodoxy in thoughts and belief."*

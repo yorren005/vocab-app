@@ -5,13 +5,6 @@ status: unread
 ---
 # dysthymia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mood disorder characterized by chronic mildly depressed or irritable mood often accompanied by other symptoms (such as eating and sleeping disturbances, fatigue, and poor self-esteem) —called also dysthymic disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mood disorder characterized by chronic mildly depressed or irritable mood often accompanied by other symptoms (such as eating and sleeping disturbances, fatigue, and poor self-esteem) —called also dysthymic disorder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysthymia designates a mood disorder characterized by chronic mildly depressed or irritable mood often accompanied by other symptoms (such as eating and sleeping disturbances, fatigue, and poor self-esteem) —called also dysthymic disorder."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mood disorder characterized by chronic mildly depressed or irritable mood often accompanied by other symptoms (such as eating and sleeping disturbances, fatigue, and poor self-esteem) —called also dysthymic disorder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mood disorder characterized by chronic mildly depressed or irritable mood often accompanied by other symptoms (such as eating and sleeping disturbances, fatigue, and poor self-esteem) —called also dysthymic disorder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysthymia designates a mood disorder characterized by chronic mildly depressed or irritable mood often accompanied by other symptoms (such as eating and sleeping disturbances, fatigue, and poor self-esteem) —called also dysthymic disorder."*

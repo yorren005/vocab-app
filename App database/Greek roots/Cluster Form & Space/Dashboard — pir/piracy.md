@@ -5,15 +5,6 @@ status: unread
 ---
 # piracy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of robbery on the high seas; also : an act resembling such robbery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Robbery on the high seas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Piracy on the sea, brigandage on the land, had been put down, and there was a very great deal of travel."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We can rationalize using the Log Depot if we experience piracy and harassment of our transports and citizens."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"That, at the least, is piracy in my book, and I am within my authority to use force to keep pirates off my ship."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of robbery on the high seas; also : an act resembling such robbery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Robbery on the high seas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Piracy on the sea, brigandage on the land, had been put down, and there was a very great deal of travel."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We can rationalize using the Log Depot if we experience piracy and harassment of our transports and citizens."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"That, at the least, is piracy in my book, and I am within my authority to use force to keep pirates off my ship."*

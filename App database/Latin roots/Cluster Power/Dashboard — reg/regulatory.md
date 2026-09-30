@@ -5,13 +5,6 @@ status: unread
 ---
 # regulatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restricting according to rules or principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restricting according to rules or principles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regulatory designates restricting according to rules or principles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Restricting according to rules or principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restricting according to rules or principles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regulatory designates restricting according to rules or principles."*

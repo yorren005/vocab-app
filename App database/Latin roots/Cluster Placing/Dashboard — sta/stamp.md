@@ -5,15 +5,6 @@ status: unread
 ---
 # stamp
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The distinctive form in which a thing is made.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A type or class.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art as fair in knowledge as in hue, Finding thy worth a limit past my praise, And therefore art enforced to seek anew, Some fresher stamp of the time-bettering days."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks I see him stamp thus and call thus: “Come on, you cowards!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O gods, He has the stamp of Martius, and I have Before-time seen him thus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The distinctive form in which a thing is made.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A type or class.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art as fair in knowledge as in hue, Finding thy worth a limit past my praise, And therefore art enforced to seek anew, Some fresher stamp of the time-bettering days."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks I see him stamp thus and call thus: “Come on, you cowards!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O gods, He has the stamp of Martius, and I have Before-time seen him thus."*

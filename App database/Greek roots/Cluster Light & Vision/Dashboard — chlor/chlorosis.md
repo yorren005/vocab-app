@@ -5,13 +5,6 @@ status: unread
 ---
 # chlorosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Iron deficiency anemia in young women; characterized by weakness and menstrual disturbances and a green color to the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Iron deficiency anemia in young women; characterized by weakness and menstrual disturbances and a green color to the skin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorosis designates iron deficiency anemia in young women; characterized by weakness and menstrual disturbances and a green color to the skin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Iron deficiency anemia in young women; characterized by weakness and menstrual disturbances and a green color to the skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Iron deficiency anemia in young women; characterized by weakness and menstrual disturbances and a green color to the skin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorosis designates iron deficiency anemia in young women; characterized by weakness and menstrual disturbances and a green color to the skin."*

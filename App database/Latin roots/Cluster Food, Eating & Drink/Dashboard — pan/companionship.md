@@ -5,15 +5,6 @@ status: unread
 ---
 # companionship
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being with someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being with someone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be honour in your wars to seem The same you are not, which for your best ends You adopt your policy, how is it less or worse That it shall hold companionship in peace With honour as in war, since that to both It stands in like request?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MESSENGER. ’Tis Alcibiades, and some twenty horse, All of companionship."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"This close companionship with her was not only the greatest enjoyment of my young years, but was the greatest of benefits for my whole life." "You certainly were lucky, mother," Mea exclaimed passionately."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being with someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being with someone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be honour in your wars to seem The same you are not, which for your best ends You adopt your policy, how is it less or worse That it shall hold companionship in peace With honour as in war, since that to both It stands in like request?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MESSENGER. ’Tis Alcibiades, and some twenty horse, All of companionship."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"This close companionship with her was not only the greatest enjoyment of my young years, but was the greatest of benefits for my whole life." "You certainly were lucky, mother," Mea exclaimed passionately."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # affably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an affable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an affable manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"As to Reform, sir, put it in a family light,” he said, rattling the small silver in his pocket, and smiling affably."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"At Waianae the two travellers were treated affably by the people of the district."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The countess looked at her callers, smiling affably, but not concealing the fact that she would not be distressed if they now rose and took their leave."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an affable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an affable manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"As to Reform, sir, put it in a family light,” he said, rattling the small silver in his pocket, and smiling affably."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"At Waianae the two travellers were treated affably by the people of the district."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The countess looked at her callers, smiling affably, but not concealing the fact that she would not be distressed if they now rose and took their leave."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # alexia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aphasia marked by loss of ability to read.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aphasia marked by loss of ability to read.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alexia designates aphasia marked by loss of ability to read."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aphasia marked by loss of ability to read.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aphasia marked by loss of ability to read.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alexia designates aphasia marked by loss of ability to read."*

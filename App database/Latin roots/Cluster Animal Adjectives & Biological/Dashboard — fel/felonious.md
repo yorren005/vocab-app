@@ -5,15 +5,6 @@ status: unread
 ---
 # felonious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or being or having the nature of a crime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or being or having the nature of a crime.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unless it were a bloody murderer, Or foul felonious thief that fleeced poor passengers, I never gave them condign punishment."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"They were mostly of a felonious character; comprising the pen with which a celebrated forgery had been committed, a distinguished razor or two, some locks of hair, and several manuscript confessions written under condemnation,—upon which Mr."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The white comprises part of his head, and the whole of his mouth, which makes him look as if he had just escaped from a felonious visit to a meal-bag."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or being or having the nature of a crime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or being or having the nature of a crime.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unless it were a bloody murderer, Or foul felonious thief that fleeced poor passengers, I never gave them condign punishment."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"They were mostly of a felonious character; comprising the pen with which a celebrated forgery had been committed, a distinguished razor or two, some locks of hair, and several manuscript confessions written under condemnation,—upon which Mr."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The white comprises part of his head, and the whole of his mouth, which makes him look as if he had just escaped from a felonious visit to a meal-bag."*

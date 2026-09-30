@@ -5,13 +5,6 @@ status: unread
 ---
 # actualize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make real or concrete; give reality or substance to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent or describe realistically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She’s brim full of poetry—actualized poetry, if I may use the expression."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make real or concrete; give reality or substance to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent or describe realistically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She’s brim full of poetry—actualized poetry, if I may use the expression."*

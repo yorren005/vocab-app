@@ -5,15 +5,6 @@ status: unread
 ---
 # tendinous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of tendons or resembling a tendon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of tendons or resembling a tendon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At the middle of the forehead horizontally subdivide this upper quoin, and then you have two almost equal parts, which before were naturally divided by an internal wall of a thick tendinous substance. [17] Quoin is not a Euclidean term."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A whaleman’s nipper is a short firm strip of tendinous stuff cut from the tapering part of Leviathan’s tail: it averages an inch in thickness, and for the rest, is about the size of the iron part of a hoe."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"At the middle of the forehead horizontally subdivide this upper quoin, and then you have two almost equal parts, which before were naturally divided by an internal wall of a thick tendinous substance. *Quoin is not a Euclidean term."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of tendons or resembling a tendon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of tendons or resembling a tendon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At the middle of the forehead horizontally subdivide this upper quoin, and then you have two almost equal parts, which before were naturally divided by an internal wall of a thick tendinous substance. [17] Quoin is not a Euclidean term."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A whaleman’s nipper is a short firm strip of tendinous stuff cut from the tapering part of Leviathan’s tail: it averages an inch in thickness, and for the rest, is about the size of the iron part of a hoe."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"At the middle of the forehead horizontally subdivide this upper quoin, and then you have two almost equal parts, which before were naturally divided by an internal wall of a thick tendinous substance. *Quoin is not a Euclidean term."*

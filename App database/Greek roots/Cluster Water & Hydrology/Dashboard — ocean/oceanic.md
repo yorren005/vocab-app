@@ -5,15 +5,6 @@ status: unread
 ---
 # oceanic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the ocean.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring in or frequenting the ocean and especially the open sea as distinguished from littoral or neritic waters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Far different is the case of the oceanic canal in a tropical climate."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The _Nautilus_ remained motionless, the force of its screw subdued by the inclination of its planes: the instrument was propped on the bottom of the oceanic site, and in a few seconds we had obtained a perfect negative."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He notes that the struggle between rich and poor nations and multinational corporations over minerals in the vast oceanic seabed is likely to be heated in the years to come, especially as reserves of land-based minerals approach exhaustion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the ocean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring in or frequenting the ocean and especially the open sea as distinguished from littoral or neritic waters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Far different is the case of the oceanic canal in a tropical climate."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The _Nautilus_ remained motionless, the force of its screw subdued by the inclination of its planes: the instrument was propped on the bottom of the oceanic site, and in a few seconds we had obtained a perfect negative."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He notes that the struggle between rich and poor nations and multinational corporations over minerals in the vast oceanic seabed is likely to be heated in the years to come, especially as reserves of land-based minerals approach exhaustion."*

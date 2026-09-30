@@ -5,13 +5,6 @@ status: unread
 ---
 # overexpose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expose to too much light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expose excessively.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overexpose designates expose to too much light."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expose to too much light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expose excessively.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overexpose designates expose to too much light."*

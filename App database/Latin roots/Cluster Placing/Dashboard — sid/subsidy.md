@@ -5,15 +5,6 @@ status: unread
 ---
 # subsidy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grant paid by a government to an enterprise that benefits the public.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A grant paid by a government to an enterprise that benefits the public.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s the Lord Saye, which sold the towns in France; he that made us pay one-and-twenty fifteens, and one shilling to the pound, the last subsidy."*
-> - 📜 **Algis Budrys (*Citadel*):** *"But we won't be able to dig up that many loafers, and, naturally, we can't give them that big a subsidy."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"From the reckless manner in which they had slashed around with their teeth, it was pertinently suggested that this colony must have obtained from the beaver congress a government subsidy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A grant paid by a government to an enterprise that benefits the public.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A grant paid by a government to an enterprise that benefits the public.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s the Lord Saye, which sold the towns in France; he that made us pay one-and-twenty fifteens, and one shilling to the pound, the last subsidy."*
+> - 📜 **Algis Budrys (*Citadel*):** *"But we won't be able to dig up that many loafers, and, naturally, we can't give them that big a subsidy."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"From the reckless manner in which they had slashed around with their teeth, it was pertinently suggested that this colony must have obtained from the beaver congress a government subsidy."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # ally
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Form or enter into an alliance —usually used with with
-> 2. **Nuance / Usage**: Sovereign or state associated with another by treaty or league
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to ally the target*) and intransitive clauses (*allying against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"been his most powerful ally in moving the heart of Mrs."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"acquaintance, and his ally the still more dreadful young man."*
-> - 📜 **Henry James (*The Portrait of a Lady*):** *"feeling of displeasure she had known this ally to excite."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A person, group, or nation united with another by treaty, common purpose, or mutual support.
+> 2. **Nuance / Usage**: As a verb (*to ally oneself with*), means to join forces or enter into a strategic partnership, whether in war, politics, or personal endeavor.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to ally the target*) and intransitive clauses (*allying against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I recognized my old acquaintance, and his **ally** the still more dreadful young man."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She recalled the feeling of displeasure she had known this **ally** to excite."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"There is only one thing worse than fighting with **allies**, and that is fighting without them."*

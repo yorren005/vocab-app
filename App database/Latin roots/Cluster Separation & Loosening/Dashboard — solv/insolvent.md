@@ -5,15 +5,6 @@ status: unread
 ---
 # insolvent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has insufficient assets to cover their debts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unable to meet or discharge financial obligations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A fractional reserve is therefore ordinarily fully adequate, altho with any less than a 100 per cent reserve any bank would be insolvent if all of its demand obligations were presented at the same instant."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Oh, dear, says one of the company, poor fellow, he died insolvent, and was buried by the parish."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Died insolvent! cries another, that’s a lie, for he died in England: I am sure, I was at his burying. 167."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has insufficient assets to cover their debts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unable to meet or discharge financial obligations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A fractional reserve is therefore ordinarily fully adequate, altho with any less than a 100 per cent reserve any bank would be insolvent if all of its demand obligations were presented at the same instant."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Oh, dear, says one of the company, poor fellow, he died insolvent, and was buried by the parish."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Died insolvent! cries another, that’s a lie, for he died in England: I am sure, I was at his burying. 167."*

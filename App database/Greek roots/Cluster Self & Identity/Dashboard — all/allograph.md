@@ -5,13 +5,6 @@ status: unread
 ---
 # allograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A letter of an alphabet in a particular shape (such as A or a).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A letter or combination of letters that is one of several ways of representing one phoneme (such as pp in hopping representing the phoneme \p\).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allograph designates a letter of an alphabet in a particular shape (such as a or a)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A letter of an alphabet in a particular shape (such as A or a).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A letter or combination of letters that is one of several ways of representing one phoneme (such as pp in hopping representing the phoneme \p\).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allograph designates a letter of an alphabet in a particular shape (such as a or a)."*

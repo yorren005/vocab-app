@@ -5,15 +5,6 @@ status: unread
 ---
 # malachi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hebrew minor prophet of the 5th century bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old testament book containing the prophecies of malachi.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"James Steven, on his text, Malachi, ch. iv. vers. 2."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Some prophet Malachi, To lash our selfish conscience, And teach us purpose high. * * * * * Thank Heaven there's a remnant, A few not quite enslaved, For ten just men in Sodom, The city would have saved."*
-> - 📜 **James Joyce (*Ulysses*):** *"Buck Mulligan’s gay voice went on. —My name is absurd too: Malachi Mulligan, two dactyls."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hebrew minor prophet of the 5th century bc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old testament book containing the prophecies of malachi.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"James Steven, on his text, Malachi, ch. iv. vers. 2."*
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Some prophet Malachi, To lash our selfish conscience, And teach us purpose high. * * * * * Thank Heaven there's a remnant, A few not quite enslaved, For ten just men in Sodom, The city would have saved."*
+> - 📜 **James Joyce (*Ulysses*):** *"Buck Mulligan’s gay voice went on. —My name is absurd too: Malachi Mulligan, two dactyls."*

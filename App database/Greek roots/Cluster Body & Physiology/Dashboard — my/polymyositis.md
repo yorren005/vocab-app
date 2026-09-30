@@ -5,13 +5,6 @@ status: unread
 ---
 # polymyositis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Myositis characterized by weakness of limb and neck muscles and much muscle pain and swelling; progression and severity vary among individuals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Myositis characterized by weakness of limb and neck muscles and much muscle pain and swelling; progression and severity vary among individuals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymyositis designates myositis characterized by weakness of limb and neck muscles and much muscle pain and swelling; progression and severity vary among individuals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Myositis characterized by weakness of limb and neck muscles and much muscle pain and swelling; progression and severity vary among individuals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Myositis characterized by weakness of limb and neck muscles and much muscle pain and swelling; progression and severity vary among individuals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymyositis designates myositis characterized by weakness of limb and neck muscles and much muscle pain and swelling; progression and severity vary among individuals."*

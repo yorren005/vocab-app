@@ -5,13 +5,6 @@ status: unread
 ---
 # nystagmic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involuntary usually rapid movement of the eyeballs occurring normally with dizziness during and after bodily rotation or abnormally following head injury or as a symptom of disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involuntary usually rapid movement of the eyeballs occurring normally with dizziness during and after bodily rotation or abnormally following head injury or as a symptom of disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nystagmic designates involuntary usually rapid movement of the eyeballs occurring normally with dizziness during and after bodily rotation or abnormally following head injury or as a symptom of disease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involuntary usually rapid movement of the eyeballs occurring normally with dizziness during and after bodily rotation or abnormally following head injury or as a symptom of disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involuntary usually rapid movement of the eyeballs occurring normally with dizziness during and after bodily rotation or abnormally following head injury or as a symptom of disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nystagmic designates involuntary usually rapid movement of the eyeballs occurring normally with dizziness during and after bodily rotation or abnormally following head injury or as a symptom of disease."*

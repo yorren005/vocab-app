@@ -5,13 +5,6 @@ status: unread
 ---
 # archaeornis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct primitive toothed bird with a long feathered tail and three free clawed digits on each wing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct primitive toothed bird with a long feathered tail and three free clawed digits on each wing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaeornis designates extinct primitive toothed bird with a long feathered tail and three free clawed digits on each wing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct primitive toothed bird with a long feathered tail and three free clawed digits on each wing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct primitive toothed bird with a long feathered tail and three free clawed digits on each wing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaeornis designates extinct primitive toothed bird with a long feathered tail and three free clawed digits on each wing."*

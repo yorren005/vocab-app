@@ -5,15 +5,6 @@ status: unread
 ---
 # scattering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small number (of something) dispersed haphazardly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical process in which particles are deflected haphazardly as a result of collisions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"QUEEN. [_Scattering flowers._] Sweets to the sweet."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The clear, cold sunshine glances into the brittle woods and approvingly beholds the sharp wind scattering the leaves and drying the moss."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Well along into twilight the heavy firing ceased, although there were scattering shots during the night."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small number (of something) dispersed haphazardly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical process in which particles are deflected haphazardly as a result of collisions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"QUEEN. [_Scattering flowers._] Sweets to the sweet."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The clear, cold sunshine glances into the brittle woods and approvingly beholds the sharp wind scattering the leaves and drying the moss."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Well along into twilight the heavy firing ceased, although there were scattering shots during the night."*

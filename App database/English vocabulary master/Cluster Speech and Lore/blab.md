@@ -5,20 +5,6 @@ status: unread
 ---
 # blab
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Talk idly or thoughtlessly
-> 2. **Nuance / Usage**: One that blabs : tattletale
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Twelfth Night*):** *"Be you his eunuch and your mute I’ll be; When my tongue blabs, then let mine eyes not see."*
-> - 📜 **William Shakespeare (*Venus and Adonis*):** *"These blue-vein'd violets whereon we lean / Never can blab, nor know not what we mean."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"I have not named either that Question or your coming marriage to your Father, as he would blab it everywhere, poor Simple Man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Talk idly or thoughtlessly
+> 2. **Nuance / Usage**: One that blabs : tattletale
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"Be you his eunuch and your mute I’ll be; When my tongue blabs, then let mine eyes not see."*
+> - 📜 **William Shakespeare (*Venus and Adonis*):** *"These blue-vein'd violets whereon we lean / Never can blab, nor know not what we mean."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"I have not named either that Question or your coming marriage to your Father, as he would blab it everywhere, poor Simple Man."*

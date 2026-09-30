@@ -5,13 +5,6 @@ status: unread
 ---
 # pseudoscorpiones
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: False scorpions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: False scorpions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudoscorpiones designates false scorpions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: False scorpions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: False scorpions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudoscorpiones designates false scorpions."*

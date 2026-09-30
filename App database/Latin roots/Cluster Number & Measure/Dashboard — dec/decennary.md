@@ -5,13 +5,6 @@ status: unread
 ---
 # decennary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of 10 years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A period of 10 years.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decennary designates a period of 10 years."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of 10 years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A period of 10 years.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decennary designates a period of 10 years."*

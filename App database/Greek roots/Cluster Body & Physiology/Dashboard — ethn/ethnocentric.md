@@ -5,13 +5,6 @@ status: unread
 ---
 # ethnocentric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Centered on a specific ethnic group, usually one's own.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Centered on a specific ethnic group, usually one's own.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethnocentric designates centered on a specific ethnic group, usually one's own."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Centered on a specific ethnic group, usually one's own.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Centered on a specific ethnic group, usually one's own.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethnocentric designates centered on a specific ethnic group, usually one's own."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # latrobe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states architect (born in england) whose works include the chambers of the united states congress and the supreme court; considered the first professional architect in the united states (1764-1820).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states architect (born in england) whose works include the chambers of the united states congress and the supreme court; considered the first professional architect in the united states (1764-1820).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latrobe designates united states architect (born in england) whose works include the chambers of the united states congress and the supreme court; considered the first professional architect in the united states (1764-1820)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states architect (born in england) whose works include the chambers of the united states congress and the supreme court; considered the first professional architect in the united states (1764-1820).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states architect (born in england) whose works include the chambers of the united states congress and the supreme court; considered the first professional architect in the united states (1764-1820).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latrobe designates united states architect (born in england) whose works include the chambers of the united states congress and the supreme court; considered the first professional architect in the united states (1764-1820)."*

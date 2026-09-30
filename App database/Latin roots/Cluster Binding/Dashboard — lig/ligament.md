@@ -5,15 +5,6 @@ status: unread
 ---
 # ligament
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sheet or band of tough fibrous tissue connecting bones or cartilages or supporting muscles or organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any connection or unifying bond.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Every kind of finer tendon and ligament that is in the nature of poultry to possess is developed in these specimens in the singular form of guitar-strings."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Interwoven as is the love of liberty with every ligament of your hearts, no recommendation of mine is necessary to fortify or confirm the attachment."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Six years after, she fell again on the same knee, so twisting it and injuring the ligaments that it became partially stiff, and, the physician said, incurable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sheet or band of tough fibrous tissue connecting bones or cartilages or supporting muscles or organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any connection or unifying bond.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Every kind of finer tendon and ligament that is in the nature of poultry to possess is developed in these specimens in the singular form of guitar-strings."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Interwoven as is the love of liberty with every ligament of your hearts, no recommendation of mine is necessary to fortify or confirm the attachment."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Six years after, she fell again on the same knee, so twisting it and injuring the ligaments that it became partially stiff, and, the physician said, incurable."*

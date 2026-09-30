@@ -5,13 +5,6 @@ status: unread
 ---
 # rariora
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (plural) rare collector's items.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (plural) rare collector's items.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rariora designates (plural) rare collector's items."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (plural) rare collector's items.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (plural) rare collector's items.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rariora designates (plural) rare collector's items."*

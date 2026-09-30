@@ -5,15 +5,6 @@ status: unread
 ---
 # amend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make amendments to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make better.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If this penetrate, I will consider your music the better; if it do not, it is a vice in her ears which horsehairs and calves’ guts, nor the voice of unpaved eunuch to boot, can never amend. [_Exeunt Musicians._] Enter Cymbeline and Queen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am ill, but your being by me Cannot amend me; society is no comfort To one not sociable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is I That all th’ abhorred things o’ th’ earth amend By being worse than they."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make amendments to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make better.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If this penetrate, I will consider your music the better; if it do not, it is a vice in her ears which horsehairs and calves’ guts, nor the voice of unpaved eunuch to boot, can never amend. [_Exeunt Musicians._] Enter Cymbeline and Queen."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am ill, but your being by me Cannot amend me; society is no comfort To one not sociable."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is I That all th’ abhorred things o’ th’ earth amend By being worse than they."*

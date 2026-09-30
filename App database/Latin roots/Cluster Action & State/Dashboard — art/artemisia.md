@@ -5,15 +5,6 @@ status: unread
 ---
 # artemisia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various composite shrubs or herbs of the genus artemisia having aromatic green or greyish foliage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various composite shrubs or herbs of the genus artemisia having aromatic green or greyish foliage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Another One Queen Artemisia, as old stories tell, When deprived of her husband she loved so well, In respect for the love and affection he show’d her, She reduc’d him to dust and she drank up the powder."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The ground was carpeted with artemisia, which when crushed gave out a pungent odour almost overpowering."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"MUGWORT RUST; spots obliterated, brownish on the opposite side; sori subglobose and oval, minute, scattered, on both surfaces; epidermis soon ruptured; spores subglobose, brownish.—On _Artemisia vulgaris_, &c."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various composite shrubs or herbs of the genus artemisia having aromatic green or greyish foliage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various composite shrubs or herbs of the genus artemisia having aromatic green or greyish foliage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Another One Queen Artemisia, as old stories tell, When deprived of her husband she loved so well, In respect for the love and affection he show’d her, She reduc’d him to dust and she drank up the powder."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The ground was carpeted with artemisia, which when crushed gave out a pungent odour almost overpowering."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"MUGWORT RUST; spots obliterated, brownish on the opposite side; sori subglobose and oval, minute, scattered, on both surfaces; epidermis soon ruptured; spores subglobose, brownish.—On _Artemisia vulgaris_, &c."*

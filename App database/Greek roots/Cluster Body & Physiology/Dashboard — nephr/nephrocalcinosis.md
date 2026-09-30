@@ -5,13 +5,6 @@ status: unread
 ---
 # nephrocalcinosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Renal lithiasis in which calcium deposits form in the renal parenchyma and result in reduced kidney function and blood in the urine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Renal lithiasis in which calcium deposits form in the renal parenchyma and result in reduced kidney function and blood in the urine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrocalcinosis designates renal lithiasis in which calcium deposits form in the renal parenchyma and result in reduced kidney function and blood in the urine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Renal lithiasis in which calcium deposits form in the renal parenchyma and result in reduced kidney function and blood in the urine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Renal lithiasis in which calcium deposits form in the renal parenchyma and result in reduced kidney function and blood in the urine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrocalcinosis designates renal lithiasis in which calcium deposits form in the renal parenchyma and result in reduced kidney function and blood in the urine."*

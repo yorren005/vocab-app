@@ -5,15 +5,6 @@ status: unread
 ---
 # prototype
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An original model on which something is patterned : archetype.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual that exhibits the essential features of a later type.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Diotima, the muse of his "Hyperion," whose prototype was Susette Gontard, he has found it--and now he feels that he is in a new world."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The book he chose was Boetius’ Consolations of Philosophy, a work popular among the writers of that day, and which had been translated by his great prototype, Chaucer."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In this Rice-mother and Rice-child of the Malay Peninsula we may see the counterpart and in a sense the prototype of the Demeter and Persephone of ancient Greece."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An original model on which something is patterned : archetype.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual that exhibits the essential features of a later type.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Diotima, the muse of his "Hyperion," whose prototype was Susette Gontard, he has found it--and now he feels that he is in a new world."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The book he chose was Boetius’ Consolations of Philosophy, a work popular among the writers of that day, and which had been translated by his great prototype, Chaucer."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In this Rice-mother and Rice-child of the Malay Peninsula we may see the counterpart and in a sense the prototype of the Demeter and Persephone of ancient Greece."*

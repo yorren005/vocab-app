@@ -5,13 +5,6 @@ status: unread
 ---
 # motif
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A design or figure that consists of recurring shapes or colors, as in architecture or decoration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theme that is repeated or elaborated in a piece of music.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I want him to have about five years of such days and then he would deserve the joys of parenthood that he now does not appreciate." "Oh, Mamie wouldn't smoke a cigar!" was the exclamation that showed how much Sallie got of the motif of my eruption."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A design or figure that consists of recurring shapes or colors, as in architecture or decoration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theme that is repeated or elaborated in a piece of music.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I want him to have about five years of such days and then he would deserve the joys of parenthood that he now does not appreciate." "Oh, Mamie wouldn't smoke a cigar!" was the exclamation that showed how much Sallie got of the motif of my eruption."*

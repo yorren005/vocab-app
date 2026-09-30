@@ -5,15 +5,6 @@ status: unread
 ---
 # registry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official written record of names or events or transactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official written record of names or events or transactions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"I have wired to get his name and address from the Official Registry."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"At the time of the registry there shall be paid the specific tax for the year ending on the next 31st of December, and such other tax as may be due upon sales or receipts in such business. 3."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Requires a separate registry and tax for each business mentioned in the fifth section, and for each place of conducting the same; but no tax for mere storage of goods at a place other than the registered place of business."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official written record of names or events or transactions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official written record of names or events or transactions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"I have wired to get his name and address from the Official Registry."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"At the time of the registry there shall be paid the specific tax for the year ending on the next 31st of December, and such other tax as may be due upon sales or receipts in such business. 3."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Requires a separate registry and tax for each business mentioned in the fifth section, and for each place of conducting the same; but no tax for mere storage of goods at a place other than the registered place of business."*

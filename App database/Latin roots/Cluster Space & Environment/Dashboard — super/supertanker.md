@@ -5,13 +5,6 @@ status: unread
 ---
 # supertanker
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest class of oil tankers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest class of oil tankers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supertanker designates the largest class of oil tankers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest class of oil tankers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest class of oil tankers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supertanker designates the largest class of oil tankers."*

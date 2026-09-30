@@ -5,15 +5,6 @@ status: unread
 ---
 # disorder
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A physical condition in which there is a disturbance of normal functioning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition in which things are not in their expected places.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Away, boy, from the troops, and save thyself; For friends kill friends, and the disorder’s such As war were hoodwink’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Disorder, that hath spoil’d us, friend us now!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All is on the rout, Fear frames disorder, and disorder wounds Where it should guard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physical condition in which there is a disturbance of normal functioning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition in which things are not in their expected places.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Away, boy, from the troops, and save thyself; For friends kill friends, and the disorder’s such As war were hoodwink’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Disorder, that hath spoil’d us, friend us now!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All is on the rout, Fear frames disorder, and disorder wounds Where it should guard."*

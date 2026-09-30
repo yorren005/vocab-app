@@ -5,15 +5,6 @@ status: unread
 ---
 # dogmatism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The expression of an opinion or belief as if it were a fact : positiveness in assertion of opinion especially when unwarranted or arrogant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A viewpoint or system of ideas based on insufficiently examined premises.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"In modern phrase, he breaks up our dogmatism and puts us at a universal point of view to see things over again in a new and true perspective."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"We may laugh at their crudity--their certainty that, once orthodoxy has been destroyed by argument, the millennium will begin; what is more to the purpose is to recognise that here is something more than the ordinary dogmatism of youthful ignorance."*
-> - 📜 **George Eliot (*Middlemarch*):** *"As to any certainty that a particular method of treatment would either save or kill, Lydgate himself was constantly arguing against such dogmatism; he had no right to speak, and he had every motive for being silent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The expression of an opinion or belief as if it were a fact : positiveness in assertion of opinion especially when unwarranted or arrogant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A viewpoint or system of ideas based on insufficiently examined premises.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"In modern phrase, he breaks up our dogmatism and puts us at a universal point of view to see things over again in a new and true perspective."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"We may laugh at their crudity--their certainty that, once orthodoxy has been destroyed by argument, the millennium will begin; what is more to the purpose is to recognise that here is something more than the ordinary dogmatism of youthful ignorance."*
+> - 📜 **George Eliot (*Middlemarch*):** *"As to any certainty that a particular method of treatment would either save or kill, Lydgate himself was constantly arguing against such dogmatism; he had no right to speak, and he had every motive for being silent."*

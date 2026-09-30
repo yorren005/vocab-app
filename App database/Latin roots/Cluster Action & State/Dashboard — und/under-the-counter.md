@@ -5,13 +5,6 @@ status: unread
 ---
 # under-the-counter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Done or sold illicitly and secretly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done or sold illicitly and secretly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, under-the-counter designates done or sold illicitly and secretly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Done or sold illicitly and secretly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done or sold illicitly and secretly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, under-the-counter designates done or sold illicitly and secretly."*

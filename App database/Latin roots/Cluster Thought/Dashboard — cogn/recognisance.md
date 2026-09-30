@@ -5,14 +5,6 @@ status: unread
 ---
 # recognisance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a security entered into before a court with a condition to perform some act required by law; on failure to perform that act a sum is forfeited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a security entered into before a court with a condition to perform some act required by law; on failure to perform that act a sum is forfeited.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"He offered to deposit a sum equal to the recognisance of the knight's bail; but this was rejected, as an expedient contrary to the practice of the courts."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Obdurately.)_ Sirs, take notice that by the law of torts you are bound over in your own recognisances for six months in the sum of five pounds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a security entered into before a court with a condition to perform some act required by law; on failure to perform that act a sum is forfeited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a security entered into before a court with a condition to perform some act required by law; on failure to perform that act a sum is forfeited.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"He offered to deposit a sum equal to the recognisance of the knight's bail; but this was rejected, as an expedient contrary to the practice of the courts."*
+> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Obdurately.)_ Sirs, take notice that by the law of torts you are bound over in your own recognisances for six months in the sum of five pounds."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # prism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polyhedron with two polygonal faces lying in parallel planes and with the other faces parallelograms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transparent body that is bounded in part by two nonparallel plane faces and is used to refract or disperse a beam of light.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon quite shamefully: I think you would have given up ever coming to see me if he had asked you.” “Of course I submitted to him, because it was my duty; it was my feeling for him,” said Dorothea, looking through the prism of her tears."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I had surveyed the landscape through the prism of poetry, which tinged every object with the hues of the rainbow."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"When understood, it is Truth's prism and praise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polyhedron with two polygonal faces lying in parallel planes and with the other faces parallelograms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transparent body that is bounded in part by two nonparallel plane faces and is used to refract or disperse a beam of light.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon quite shamefully: I think you would have given up ever coming to see me if he had asked you.” “Of course I submitted to him, because it was my duty; it was my feeling for him,” said Dorothea, looking through the prism of her tears."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I had surveyed the landscape through the prism of poetry, which tinged every object with the hues of the rainbow."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"When understood, it is Truth's prism and praise."*

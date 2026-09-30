@@ -5,15 +5,6 @@ status: unread
 ---
 # monotheist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A believer in one god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A believer in one god.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Christ, as the true spiritual idea, is the ideal of God now and forever, here and everywhere. 361:6 The Jew who believes in the First Commandment is a monotheist; he has one omnipresent God."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The Christian who believes in the First Commandment is a monotheist."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It is here that the real interest of Plutarch's theology begins; for, as Christian apologists were quick to point out, all the philosophers were in the last resort monotheists."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A believer in one god.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A believer in one god.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Christ, as the true spiritual idea, is the ideal of God now and forever, here and everywhere. 361:6 The Jew who believes in the First Commandment is a monotheist; he has one omnipresent God."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The Christian who believes in the First Commandment is a monotheist."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It is here that the real interest of Plutarch's theology begins; for, as Christian apologists were quick to point out, all the philosophers were in the last resort monotheists."*

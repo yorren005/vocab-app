@@ -5,15 +5,6 @@ status: unread
 ---
 # hypothesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A proposed explanation for something (such as a phenomenon of unknown cause) that is tentatively assumed in order to test whether it agrees with facts that are known or can be determined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A predicted or anticipated outcome.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, too, the policeman begins to push at doors; to try fastenings; to be suspicious of bundles; and to administer his beat, on the hypothesis that every one is either robbing or being robbed."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Not that she would have listened to any such hypothesis."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This was the hypothesis already suggested by Morrell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proposed explanation for something (such as a phenomenon of unknown cause) that is tentatively assumed in order to test whether it agrees with facts that are known or can be determined.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A predicted or anticipated outcome.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, too, the policeman begins to push at doors; to try fastenings; to be suspicious of bundles; and to administer his beat, on the hypothesis that every one is either robbing or being robbed."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Not that she would have listened to any such hypothesis."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This was the hypothesis already suggested by Morrell."*

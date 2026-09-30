@@ -5,15 +5,6 @@ status: unread
 ---
 # creaking
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A squeaking sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a high-pitched, screeching noise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I shall stay here the forehorse to a smock, Creaking my shoes on the plain masonry, Till honour be bought up, and no sword worn But one to dance with."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let not the creaking of shoes nor the rustling of silks betray thy poor heart to woman."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby is so perpetually on the alert that the house becomes ghostly with creaking boards and rustling garments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A squeaking sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a high-pitched, screeching noise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I shall stay here the forehorse to a smock, Creaking my shoes on the plain masonry, Till honour be bought up, and no sword worn But one to dance with."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let not the creaking of shoes nor the rustling of silks betray thy poor heart to woman."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby is so perpetually on the alert that the house becomes ghostly with creaking boards and rustling garments."*

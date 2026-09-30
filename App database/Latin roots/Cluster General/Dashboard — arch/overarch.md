@@ -5,13 +5,6 @@ status: unread
 ---
 # overarch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be central or dominant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form an arch over.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Then appeared a splendid rainbow, proudly overarching the valley, its ends resting on the high lands on either side."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be central or dominant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form an arch over.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Then appeared a splendid rainbow, proudly overarching the valley, its ends resting on the high lands on either side."*

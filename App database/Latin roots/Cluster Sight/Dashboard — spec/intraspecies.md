@@ -5,13 +5,6 @@ status: unread
 ---
 # intraspecies
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arising or occurring within a species; involving the members of one species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arising or occurring within a species; involving the members of one species.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intraspecies designates arising or occurring within a species; involving the members of one species."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arising or occurring within a species; involving the members of one species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arising or occurring within a species; involving the members of one species.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intraspecies designates arising or occurring within a species; involving the members of one species."*

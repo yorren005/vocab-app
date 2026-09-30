@@ -5,15 +5,6 @@ status: unread
 ---
 # discontinued
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put an end to a state or an activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come to or be at an end.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And twenty of these puny lies I’ll tell, That men shall swear I have discontinued school About a twelvemonth."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As soon as the clock struck, playing was discontinued, the evening song was sung and then followed the disappearance of the two little ones."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Peter's-day (the twenty-ninth of June), has been discontinued upwards of forty years."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put an end to a state or an activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come to or be at an end.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And twenty of these puny lies I’ll tell, That men shall swear I have discontinued school About a twelvemonth."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As soon as the clock struck, playing was discontinued, the evening song was sung and then followed the disappearance of the two little ones."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Peter's-day (the twenty-ninth of June), has been discontinued upwards of forty years."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # truncheon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short stout club used primarily by policemen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short stout club used primarily by policemen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Falstaff meets him, playing on his truncheon like a fife."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An captains were of my mind, they would truncheon you out, for taking their names upon you before you have earned them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Set limb to limb and thou art far the lesser; Thy hand is but a finger to my fist, Thy leg a stick compared with this truncheon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short stout club used primarily by policemen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short stout club used primarily by policemen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Falstaff meets him, playing on his truncheon like a fife."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An captains were of my mind, they would truncheon you out, for taking their names upon you before you have earned them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Set limb to limb and thou art far the lesser; Thy hand is but a finger to my fist, Thy leg a stick compared with this truncheon."*

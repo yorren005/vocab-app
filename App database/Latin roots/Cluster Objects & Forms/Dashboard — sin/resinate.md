@@ -5,13 +5,6 @@ status: unread
 ---
 # resinate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impregnate with resin to give a special flavor to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impregnate with resin to give a special flavor to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resinate designates impregnate with resin to give a special flavor to."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impregnate with resin to give a special flavor to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impregnate with resin to give a special flavor to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resinate designates impregnate with resin to give a special flavor to."*

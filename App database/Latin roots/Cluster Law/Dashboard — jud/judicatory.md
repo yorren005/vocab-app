@@ -5,15 +5,6 @@ status: unread
 ---
 # judicatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The system of law courts that administer justice and constitute the judicial branch of government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of law courts that administer justice and constitute the judicial branch of government.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They have no common treasury; no common troops even in war; no common coin; no common judicatory; nor any other common mark of sovereignty."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In such cases, where foreigners were concerned on either side, it would be impossible for the federal judicatories to do justice without an equitable as well as a legal jurisdiction."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But could an appeal be made to lie from the State courts to the subordinate federal judicatories?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The system of law courts that administer justice and constitute the judicial branch of government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of law courts that administer justice and constitute the judicial branch of government.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They have no common treasury; no common troops even in war; no common coin; no common judicatory; nor any other common mark of sovereignty."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In such cases, where foreigners were concerned on either side, it would be impossible for the federal judicatories to do justice without an equitable as well as a legal jurisdiction."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But could an appeal be made to lie from the State courts to the subordinate federal judicatories?"*

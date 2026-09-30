@@ -5,15 +5,6 @@ status: unread
 ---
 # aviary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A building where birds are kept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A building where birds are kept.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed is at once permitted so far to assert his supremacy as to be carried on a visit of sentiment into the next house and upstairs into Miss Flite’s deserted room, where he looks like a hideous bird of prey newly added to her aviary."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Their gauzy skirts had brushed up from the grass innumerable flies and butterflies which, unable to escape, remained caged in the transparent tissue as in an aviary."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"So much for the exterior; which, with its wire-like reed-twisted sides, not a little reminded me of an immense aviary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A building where birds are kept.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A building where birds are kept.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed is at once permitted so far to assert his supremacy as to be carried on a visit of sentiment into the next house and upstairs into Miss Flite’s deserted room, where he looks like a hideous bird of prey newly added to her aviary."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Their gauzy skirts had brushed up from the grass innumerable flies and butterflies which, unable to escape, remained caged in the transparent tissue as in an aviary."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"So much for the exterior; which, with its wire-like reed-twisted sides, not a little reminded me of an immense aviary."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # comparable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be compared or worthy of comparison.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conforming in every respect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Finally, much better commercial statistics are needed, and for collecting them and reporting the outlook, government organization is required comparable in range and methods to the weather bureau."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"So long as only the seasonal variations are equalized and the total supply of the year is not reduced it is, on the marginal principle, an economic service to the consumers, comparable to insurance in its utility."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Only the literary student reads that little masterpiece, the _Ode to Evening_, which sometimes heralds the Shelleian strain, while other passages are the sole things in the language comparable to the miniatures of _Il Penseroso_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be compared or worthy of comparison.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conforming in every respect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Finally, much better commercial statistics are needed, and for collecting them and reporting the outlook, government organization is required comparable in range and methods to the weather bureau."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"So long as only the seasonal variations are equalized and the total supply of the year is not reduced it is, on the marginal principle, an economic service to the consumers, comparable to insurance in its utility."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Only the literary student reads that little masterpiece, the _Ode to Evening_, which sometimes heralds the Shelleian strain, while other passages are the sole things in the language comparable to the miniatures of _Il Penseroso_."*

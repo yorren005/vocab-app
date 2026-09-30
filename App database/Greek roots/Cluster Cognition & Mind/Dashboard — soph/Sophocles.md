@@ -5,15 +5,6 @@ status: unread
 ---
 # sophocles
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the great tragedians of ancient greece (496-406 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the great tragedians of ancient greece (496-406 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Shelley's was identified by a copy of Sophocles in one coat-pocket and the Keats in another."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The line comes from a play of Sophocles, fr. 695."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"I can only compare these lines to that famous passage of Sophocles where the lamentations of the dying Oedipus are interrupted by the impatient summons of an unseen accompanying god."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the great tragedians of ancient greece (496-406 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the great tragedians of ancient greece (496-406 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Shelley's was identified by a copy of Sophocles in one coat-pocket and the Keats in another."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The line comes from a play of Sophocles, fr. 695."*
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"I can only compare these lines to that famous passage of Sophocles where the lamentations of the dying Oedipus are interrupted by the impatient summons of an unseen accompanying god."*

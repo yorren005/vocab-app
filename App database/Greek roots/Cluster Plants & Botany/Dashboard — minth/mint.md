@@ -5,15 +5,6 @@ status: unread
 ---
 # mint
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a family (Lamiaceae synonym Labiatae, the mint family) of aromatic plants with a square stem and a 4-lobed ovary which produces four one-seeded nutlets in fruit; especially : any of a genus (Mentha) of mints that have white, purple, or pink flowers arranged in a whorl with a nearly regular corolla and four equal stamens and that include some used in flavoring and cookery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of candy flavored with mint.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You should then have accosted her, and with some excellent jests, fire-new from the mint, you should have banged the youth into dumbness."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George stands looking at these boxes a long while—as if they were pictures—and comes back to the fire repeating, “Sir Leicester Dedlock, Baronet, and Manor of Chesney Wold, hey?” “Worth a mint of money, Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But the gallery don’t quite do what was expected of it, and it’s not—in short, it’s not the mint."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a family (Lamiaceae synonym Labiatae, the mint family) of aromatic plants with a square stem and a 4-lobed ovary which produces four one-seeded nutlets in fruit; especially : any of a genus (Mentha) of mints that have white, purple, or pink flowers arranged in a whorl with a nearly regular corolla and four equal stamens and that include some used in flavoring and cookery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of candy flavored with mint.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You should then have accosted her, and with some excellent jests, fire-new from the mint, you should have banged the youth into dumbness."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"George stands looking at these boxes a long while—as if they were pictures—and comes back to the fire repeating, “Sir Leicester Dedlock, Baronet, and Manor of Chesney Wold, hey?” “Worth a mint of money, Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But the gallery don’t quite do what was expected of it, and it’s not—in short, it’s not the mint."*

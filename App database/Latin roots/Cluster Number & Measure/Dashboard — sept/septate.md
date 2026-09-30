@@ -5,15 +5,6 @@ status: unread
 ---
 # septate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a septum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a septum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Before this point was satisfactorily decided, the brown spores, which are borne on long stalks, and are themselves septate or divided (apparently or really) by transverse partitions into a complex fruit, received the name of _Puccinia Rosæ_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The lower leaves of young seedlings have generally rewarded us with the best specimens of the septate-fruited brand (_Puccinia variabilis_, Grev.)."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"ROSE BRAND; hypogenous, scattered over the leaves in minute tufts; spores 5- to 7-septate, terminal joint mucronate; peduncles incrassated below, fusiform.—On leaves of various Roses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a septum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a septum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Before this point was satisfactorily decided, the brown spores, which are borne on long stalks, and are themselves septate or divided (apparently or really) by transverse partitions into a complex fruit, received the name of _Puccinia Rosæ_."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The lower leaves of young seedlings have generally rewarded us with the best specimens of the septate-fruited brand (_Puccinia variabilis_, Grev.)."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"ROSE BRAND; hypogenous, scattered over the leaves in minute tufts; spores 5- to 7-septate, terminal joint mucronate; peduncles incrassated below, fusiform.—On leaves of various Roses."*

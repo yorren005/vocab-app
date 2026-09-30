@@ -5,15 +5,6 @@ status: unread
 ---
 # deprecation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prayer to avert or remove some evil or disaster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of expressing disapproval (especially of yourself).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Don’t flatter me.” He pursued his theme, however, without noticing my deprecation."*
-> - 📜 **George Eliot (*Middlemarch*):** *"O Dodo, you must keep the cross yourself.” “No, no, dear, no,” said Dorothea, putting up her hand with careless deprecation."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I am no judge of these things,” said Dorothea, not coldly, but with an eager deprecation of the appeal to her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prayer to avert or remove some evil or disaster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of expressing disapproval (especially of yourself).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Don’t flatter me.” He pursued his theme, however, without noticing my deprecation."*
+> - 📜 **George Eliot (*Middlemarch*):** *"O Dodo, you must keep the cross yourself.” “No, no, dear, no,” said Dorothea, putting up her hand with careless deprecation."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I am no judge of these things,” said Dorothea, not coldly, but with an eager deprecation of the appeal to her."*

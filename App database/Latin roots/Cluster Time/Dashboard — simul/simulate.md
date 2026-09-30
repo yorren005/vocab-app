@@ -5,15 +5,6 @@ status: unread
 ---
 # simulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reproduce someone's behavior or looks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Create a representation or model of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Thus you learn that these also are images, which mortal mind holds and evolves and which simulate mind, life, and intelligence."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"They are native nothingness, out of which error would simulate creation through a man formed from dust."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"If they wish to make rain they simulate it by sprinkling water or mimicking clouds: if their object is to stop rain and cause drought, they avoid water and resort to warmth and fire for the sake of drying up the too abundant moisture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reproduce someone's behavior or looks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Create a representation or model of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Thus you learn that these also are images, which mortal mind holds and evolves and which simulate mind, life, and intelligence."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"They are native nothingness, out of which error would simulate creation through a man formed from dust."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"If they wish to make rain they simulate it by sprinkling water or mimicking clouds: if their object is to stop rain and cause drought, they avoid water and resort to warmth and fire for the sake of drying up the too abundant moisture."*

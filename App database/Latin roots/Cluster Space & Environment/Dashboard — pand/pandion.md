@@ -5,13 +5,6 @@ status: unread
 ---
 # pandion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the pandionidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the pandionidae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Senseless trees they cannot hear thee, Ruthless bears they will not cheer thee; King Pandion he is dead, All thy friends are lapp’d in lead, All thy fellow birds do sing, Careless of thy sorrowing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the pandionidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the pandionidae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Senseless trees they cannot hear thee, Ruthless bears they will not cheer thee; King Pandion he is dead, All thy friends are lapp’d in lead, All thy fellow birds do sing, Careless of thy sorrowing."*

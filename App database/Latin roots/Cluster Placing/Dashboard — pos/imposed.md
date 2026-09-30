@@ -5,15 +5,6 @@ status: unread
 ---
 # imposed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compel to behave in a certain way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impose something unpleasant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, indeed, my father, I have on Angelo imposed the office; Who may in th’ ambush of my name strike home, And yet my nature never in the fight To do in slander."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nothing, but our undertakings when we vow to weep seas, live in fire, eat rocks, tame tigers; thinking it harder for our mistress to devise imposition enough than for us to undergo any difficulty imposed."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"This is the public-ouse where I was took to.” “Go on to the next!” It is a longer walk to the next, but Jo, relieved of his first suspicions, sticks to the forms imposed upon him and does not look round."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compel to behave in a certain way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impose something unpleasant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, indeed, my father, I have on Angelo imposed the office; Who may in th’ ambush of my name strike home, And yet my nature never in the fight To do in slander."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nothing, but our undertakings when we vow to weep seas, live in fire, eat rocks, tame tigers; thinking it harder for our mistress to devise imposition enough than for us to undergo any difficulty imposed."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"This is the public-ouse where I was took to.” “Go on to the next!” It is a longer walk to the next, but Jo, relieved of his first suspicions, sticks to the forms imposed upon him and does not look round."*

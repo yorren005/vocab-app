@@ -5,15 +5,6 @@ status: unread
 ---
 # benefice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An endowed church office giving income to its holder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Endow with a benefice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In some parishes, where the reputation of the curate in this respect stood higher than that of his rector, the relations between the two have been so strained in consequence that the bishop has had to translate the rector to another benefice."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A living of 500_l._ per annum, falling in the gift of the late Lord Chancellor Talbot, Sir Robert Walpole recommended one of his friends as very deserving of the benefice, whom his lordship approved of."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The bishop soon after presented him to a valuable benefice. 717."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An endowed church office giving income to its holder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Endow with a benefice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In some parishes, where the reputation of the curate in this respect stood higher than that of his rector, the relations between the two have been so strained in consequence that the bishop has had to translate the rector to another benefice."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A living of 500_l._ per annum, falling in the gift of the late Lord Chancellor Talbot, Sir Robert Walpole recommended one of his friends as very deserving of the benefice, whom his lordship approved of."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The bishop soon after presented him to a valuable benefice. 717."*

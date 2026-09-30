@@ -5,15 +5,6 @@ status: unread
 ---
 # tyrannous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by unjust severity or arbitrary behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by unjust severity or arbitrary behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Head to foot Now is he total gules, horridly trick’d With blood of fathers, mothers, daughters, sons, Bak’d and impasted with the parching streets, That lend a tyrannous and a damned light To their vile murders."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, it is excellent To have a giant’s strength; but it is tyrannous To use it like a giant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were he mealed with that Which he corrects, then were he tyrannous; But this being so, he’s just. [_Knocking within."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by unjust severity or arbitrary behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by unjust severity or arbitrary behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Head to foot Now is he total gules, horridly trick’d With blood of fathers, mothers, daughters, sons, Bak’d and impasted with the parching streets, That lend a tyrannous and a damned light To their vile murders."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, it is excellent To have a giant’s strength; but it is tyrannous To use it like a giant."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were he mealed with that Which he corrects, then were he tyrannous; But this being so, he’s just. [_Knocking within."*

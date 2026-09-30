@@ -5,13 +5,6 @@ status: unread
 ---
 # glossalgia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in the tongue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pain in the tongue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossalgia designates pain in the tongue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in the tongue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pain in the tongue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossalgia designates pain in the tongue."*

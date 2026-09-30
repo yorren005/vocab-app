@@ -5,14 +5,6 @@ status: unread
 ---
 # continency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The exercise of self constraint in sexual matters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The exercise of self constraint in sexual matters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This ungenitured agent will unpeople the province with continency."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In her chamber, making a sermon of continency to her; And rails, and swears, and rates, that she, poor soul, Knows not which way to stand, to look, to speak, And sits as one new risen from a dream."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The exercise of self constraint in sexual matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The exercise of self constraint in sexual matters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This ungenitured agent will unpeople the province with continency."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In her chamber, making a sermon of continency to her; And rails, and swears, and rates, that she, poor soul, Knows not which way to stand, to look, to speak, And sits as one new risen from a dream."*

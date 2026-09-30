@@ -5,13 +5,6 @@ status: unread
 ---
 # exotoxin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soluble poisonous substance produced during growth of a microorganism and released into the surrounding medium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soluble poisonous substance produced during growth of a microorganism and released into the surrounding medium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exotoxin designates a soluble poisonous substance produced during growth of a microorganism and released into the surrounding medium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soluble poisonous substance produced during growth of a microorganism and released into the surrounding medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soluble poisonous substance produced during growth of a microorganism and released into the surrounding medium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exotoxin designates a soluble poisonous substance produced during growth of a microorganism and released into the surrounding medium."*

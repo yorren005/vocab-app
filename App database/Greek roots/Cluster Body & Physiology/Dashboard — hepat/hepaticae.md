@@ -5,13 +5,6 @@ status: unread
 ---
 # hepaticae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liverworts: comprises orders anthocerotales; jungermanniales; marchantiales; sphaerocarpales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liverworts: comprises orders anthocerotales; jungermanniales; marchantiales; sphaerocarpales.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hepaticae designates liverworts: comprises orders anthocerotales; jungermanniales; marchantiales; sphaerocarpales."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Liverworts: comprises orders anthocerotales; jungermanniales; marchantiales; sphaerocarpales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liverworts: comprises orders anthocerotales; jungermanniales; marchantiales; sphaerocarpales.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hepaticae designates liverworts: comprises orders anthocerotales; jungermanniales; marchantiales; sphaerocarpales."*

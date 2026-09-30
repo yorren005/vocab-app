@@ -5,13 +5,6 @@ status: unread
 ---
 # lithography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of printing from a plane surface (such as a smooth stone or metal plate) on which the image to be printed is ink-receptive and the blank area ink-repellent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of producing patterns on semiconductor crystals for use as integrated circuits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithography designates the process of printing from a plane surface (such as a smooth stone or metal plate) on which the image to be printed is ink-receptive and the blank area ink-repellent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of printing from a plane surface (such as a smooth stone or metal plate) on which the image to be printed is ink-receptive and the blank area ink-repellent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of producing patterns on semiconductor crystals for use as integrated circuits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithography designates the process of printing from a plane surface (such as a smooth stone or metal plate) on which the image to be printed is ink-receptive and the blank area ink-repellent."*

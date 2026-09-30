@@ -5,13 +5,6 @@ status: unread
 ---
 # moniliales
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Order of imperfect fungi lacking conidiophores of having conidiophores that are superficial and not enclosed in a pycnidium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Order of imperfect fungi lacking conidiophores of having conidiophores that are superficial and not enclosed in a pycnidium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moniliales designates order of imperfect fungi lacking conidiophores of having conidiophores that are superficial and not enclosed in a pycnidium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Order of imperfect fungi lacking conidiophores of having conidiophores that are superficial and not enclosed in a pycnidium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Order of imperfect fungi lacking conidiophores of having conidiophores that are superficial and not enclosed in a pycnidium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moniliales designates order of imperfect fungi lacking conidiophores of having conidiophores that are superficial and not enclosed in a pycnidium."*

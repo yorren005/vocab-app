@@ -5,15 +5,6 @@ status: unread
 ---
 # disparage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express a negative opinion of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express a negative opinion of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Disparage not the faith thou dost not know, Lest to thy peril thou aby it dear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will disparage her no farther till you are my witnesses: bear it coldly but till midnight, and let the issue show itself."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Heaven forbid that I should disparage my dear child, but he has—no deportment.” “He appears to be an excellent master,” I observed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Express a negative opinion of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express a negative opinion of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Disparage not the faith thou dost not know, Lest to thy peril thou aby it dear."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will disparage her no farther till you are my witnesses: bear it coldly but till midnight, and let the issue show itself."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Heaven forbid that I should disparage my dear child, but he has—no deportment.” “He appears to be an excellent master,” I observed."*

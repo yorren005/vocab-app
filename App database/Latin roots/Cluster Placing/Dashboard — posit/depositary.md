@@ -5,15 +5,6 @@ status: unread
 ---
 # depositary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A facility where things can be deposited for storage or safekeeping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A facility where things can be deposited for storage or safekeeping.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is not a great deal larger than Germany, where a diet representing the whole empire is continually assembled; or than Poland before the late dismemberment, where another national diet was the depositary of the supreme power."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A government, the constitution of which renders it unfit to be trusted with all the powers which a free people OUGHT TO DELEGATE TO ANY GOVERNMENT, would be an unsafe and improper depositary of the NATIONAL INTERESTS."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Congress, a single body of men, are the sole depositary of all the federal powers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A facility where things can be deposited for storage or safekeeping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A facility where things can be deposited for storage or safekeeping.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is not a great deal larger than Germany, where a diet representing the whole empire is continually assembled; or than Poland before the late dismemberment, where another national diet was the depositary of the supreme power."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A government, the constitution of which renders it unfit to be trusted with all the powers which a free people OUGHT TO DELEGATE TO ANY GOVERNMENT, would be an unsafe and improper depositary of the NATIONAL INTERESTS."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Congress, a single body of men, are the sole depositary of all the federal powers."*

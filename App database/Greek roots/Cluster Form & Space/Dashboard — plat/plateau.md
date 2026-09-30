@@ -5,15 +5,6 @@ status: unread
 ---
 # plateau
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually extensive land area having a relatively level surface raised sharply above adjacent land on at least one side : tableland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A similar undersea feature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Sheane, _The Great Plateau of Northern Nigeria_ (London, 1911), pp. 158-160. [73] R."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"You do it for his sake and your own, and for that of humanity." "Suppose, after I get up there on that plateau, I didn't find any man at all," I ventured faint-heartedly, but with a ripple of my risibles; the last in life I fear."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Nakuina_ On the plateau lying between Ewa and Waialua, on the island of Oahu, and about a mile off, and mauka of the Kaukonahua bridge, is the historical place called Kukaniloko."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually extensive land area having a relatively level surface raised sharply above adjacent land on at least one side : tableland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A similar undersea feature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Sheane, _The Great Plateau of Northern Nigeria_ (London, 1911), pp. 158-160. [73] R."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"You do it for his sake and your own, and for that of humanity." "Suppose, after I get up there on that plateau, I didn't find any man at all," I ventured faint-heartedly, but with a ripple of my risibles; the last in life I fear."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Nakuina_ On the plateau lying between Ewa and Waialua, on the island of Oahu, and about a mile off, and mauka of the Kaukonahua bridge, is the historical place called Kukaniloko."*

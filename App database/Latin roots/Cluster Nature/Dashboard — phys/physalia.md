@@ -5,13 +5,6 @@ status: unread
 ---
 # physalia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Portuguese man-of-war.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Portuguese man-of-war.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physalia designates portuguese man-of-war."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Portuguese man-of-war.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Portuguese man-of-war.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physalia designates portuguese man-of-war."*

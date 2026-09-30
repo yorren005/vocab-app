@@ -5,15 +5,6 @@ status: unread
 ---
 # caloric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or associated with heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to calories in food.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Yes, the ocean has indeed circulation, and to promote it, the Creator has caused things to multiply in it—caloric, salt, and animalculae.” When Captain Nemo spoke thus, he seemed altogether changed, and aroused an extraordinary emotion in me."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It was clear that the action of the caloric had been imperfect or unequal."*
-> - 📜 **James Joyce (*Ulysses*):** *"Dietary: concerning the respective percentage of protein and caloric energy in bacon, salt ling and butter, the absence of the former in the lastnamed and the abundance of the latter in the firstnamed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or associated with heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to calories in food.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Yes, the ocean has indeed circulation, and to promote it, the Creator has caused things to multiply in it—caloric, salt, and animalculae.” When Captain Nemo spoke thus, he seemed altogether changed, and aroused an extraordinary emotion in me."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It was clear that the action of the caloric had been imperfect or unequal."*
+> - 📜 **James Joyce (*Ulysses*):** *"Dietary: concerning the respective percentage of protein and caloric energy in bacon, salt ling and butter, the absence of the former in the lastnamed and the abundance of the latter in the firstnamed."*

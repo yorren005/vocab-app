@@ -5,13 +5,6 @@ status: unread
 ---
 # diplomate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medical specialist whose competence has been certified by a diploma granted by an appropriate professional group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medical specialist whose competence has been certified by a diploma granted by an appropriate professional group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplomate designates medical specialist whose competence has been certified by a diploma granted by an appropriate professional group."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Medical specialist whose competence has been certified by a diploma granted by an appropriate professional group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medical specialist whose competence has been certified by a diploma granted by an appropriate professional group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplomate designates medical specialist whose competence has been certified by a diploma granted by an appropriate professional group."*

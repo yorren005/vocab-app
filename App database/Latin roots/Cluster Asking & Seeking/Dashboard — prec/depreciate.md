@@ -5,15 +5,6 @@ status: unread
 ---
 # depreciate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belittle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower the value of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Factories are closed, investments depreciate, laborers are thrown out of employment."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"And then we were so merry all the way home! we talked and laughed so loud, that anybody might have heard us ten miles off!” To this, Mary very gravely replied, “Far be it from me, my dear sister, to depreciate such pleasures."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"With what propriety, therefore, or for what good purposes, are attempts at this particular period made by some men to depreciate the importance of the Union?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belittle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower the value of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Factories are closed, investments depreciate, laborers are thrown out of employment."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"And then we were so merry all the way home! we talked and laughed so loud, that anybody might have heard us ten miles off!” To this, Mary very gravely replied, “Far be it from me, my dear sister, to depreciate such pleasures."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"With what propriety, therefore, or for what good purposes, are attempts at this particular period made by some men to depreciate the importance of the Union?"*

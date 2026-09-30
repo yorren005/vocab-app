@@ -5,14 +5,6 @@ status: unread
 ---
 # minimized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make small or insignificant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent as less significant or important.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Moreover, this conflict of interest was minimized and often quite avoided by the native changing to another occupation."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"His virtues were minimized and his shortcomings exaggerated and unduly paraded."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make small or insignificant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent as less significant or important.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Moreover, this conflict of interest was minimized and often quite avoided by the native changing to another occupation."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"His virtues were minimized and his shortcomings exaggerated and unduly paraded."*

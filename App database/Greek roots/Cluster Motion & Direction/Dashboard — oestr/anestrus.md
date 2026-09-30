@@ -5,13 +5,6 @@ status: unread
 ---
 # anestrus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of sexual quiescence between two periods of sexual activity in cyclically breeding mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The period of sexual quiescence between two periods of sexual activity in cyclically breeding mammals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anestrus designates the period of sexual quiescence between two periods of sexual activity in cyclically breeding mammals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of sexual quiescence between two periods of sexual activity in cyclically breeding mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The period of sexual quiescence between two periods of sexual activity in cyclically breeding mammals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anestrus designates the period of sexual quiescence between two periods of sexual activity in cyclically breeding mammals."*

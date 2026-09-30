@@ -5,15 +5,6 @@ status: unread
 ---
 # inattention
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of attention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"We see nothing of them, and this is really an instance of gross inattention."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"His friendship for sinners was a taunt against him in his lifetime; so was his inattention to the Sabbath (Mark 2:24, 3:2), and the details of ceremonial washing (Mark 7:1-5)."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Hurst called them to order, with bitter complaints of their inattention to what was going forward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of attention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"We see nothing of them, and this is really an instance of gross inattention."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"His friendship for sinners was a taunt against him in his lifetime; so was his inattention to the Sabbath (Mark 2:24, 3:2), and the details of ceremonial washing (Mark 7:1-5)."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Hurst called them to order, with bitter complaints of their inattention to what was going forward."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # letting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Property that is leased or rented out or let.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make it possible through a specific action or lack of action for something to happen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rynaldo, you did never lack advice so much As letting her pass so; had I spoke with her, I could have well diverted her intents, Which thus she hath prevented."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know you are more clement than vile men, Who of their broken debtors take a third, A sixth, a tenth, letting them thrive again On their abatement; that’s not my desire."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wouldst thou have that Which thou esteem’st the ornament of life, And live a coward in thine own esteem, Letting “I dare not” wait upon “I would,” Like the poor cat i’ th’ adage?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Property that is leased or rented out or let.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make it possible through a specific action or lack of action for something to happen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rynaldo, you did never lack advice so much As letting her pass so; had I spoke with her, I could have well diverted her intents, Which thus she hath prevented."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know you are more clement than vile men, Who of their broken debtors take a third, A sixth, a tenth, letting them thrive again On their abatement; that’s not my desire."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wouldst thou have that Which thou esteem’st the ornament of life, And live a coward in thine own esteem, Letting “I dare not” wait upon “I would,” Like the poor cat i’ th’ adage?"*

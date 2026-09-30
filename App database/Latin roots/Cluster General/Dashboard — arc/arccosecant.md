@@ -5,13 +5,6 @@ status: unread
 ---
 # arccosecant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The angle that has a cosecant equal to a given number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The angle that has a cosecant equal to a given number.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arccosecant designates the angle that has a cosecant equal to a given number."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The angle that has a cosecant equal to a given number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The angle that has a cosecant equal to a given number.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arccosecant designates the angle that has a cosecant equal to a given number."*

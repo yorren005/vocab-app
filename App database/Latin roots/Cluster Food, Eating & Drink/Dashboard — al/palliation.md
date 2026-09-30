@@ -5,14 +5,6 @@ status: unread
 ---
 # palliation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easing the severity of a pain or a disease without removing the cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To act in such a way as to cause an offense to seem less serious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She could neither wonder nor condemn; but the belief of his self-conquest brought nothing consolatory to her bosom, afforded no palliation of her distress."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"He was anxious, while vindicating himself, to say nothing unkind of the others: but there was only one amongst them whose conduct he could mention without some necessity of defence or palliation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easing the severity of a pain or a disease without removing the cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To act in such a way as to cause an offense to seem less serious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She could neither wonder nor condemn; but the belief of his self-conquest brought nothing consolatory to her bosom, afforded no palliation of her distress."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"He was anxious, while vindicating himself, to say nothing unkind of the others: but there was only one amongst them whose conduct he could mention without some necessity of defence or palliation."*

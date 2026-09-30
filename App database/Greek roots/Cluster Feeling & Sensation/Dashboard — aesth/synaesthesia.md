@@ -5,13 +5,6 @@ status: unread
 ---
 # synaesthesia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sensation that normally occurs in one sense modality occurs when another modality is stimulated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sensation that normally occurs in one sense modality occurs when another modality is stimulated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synaesthesia designates a sensation that normally occurs in one sense modality occurs when another modality is stimulated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sensation that normally occurs in one sense modality occurs when another modality is stimulated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sensation that normally occurs in one sense modality occurs when another modality is stimulated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synaesthesia designates a sensation that normally occurs in one sense modality occurs when another modality is stimulated."*

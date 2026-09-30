@@ -5,15 +5,6 @@ status: unread
 ---
 # navigate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Travel on water propelled by wind or by other means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act as the navigator in a car, plane, or vessel and plan, direct, plot the path and position of the conveyance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"They could not navigate the vessel, and were left to the mercy of the winds and waves, or rather to the care of Him who ruleth wind and waves."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Sir, you may believe me when I tell you that this piece of iron will navigate neither on nor under the sea again; it is only fit to be sold for its weight."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Although he was utterly unable to stand erect or to navigate his body across the deck, he still magnanimously proffered his services to pilot the ship to a good and secure anchorage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Travel on water propelled by wind or by other means.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act as the navigator in a car, plane, or vessel and plan, direct, plot the path and position of the conveyance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"They could not navigate the vessel, and were left to the mercy of the winds and waves, or rather to the care of Him who ruleth wind and waves."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Sir, you may believe me when I tell you that this piece of iron will navigate neither on nor under the sea again; it is only fit to be sold for its weight."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Although he was utterly unable to stand erect or to navigate his body across the deck, he still magnanimously proffered his services to pilot the ship to a good and secure anchorage."*

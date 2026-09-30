@@ -5,13 +5,6 @@ status: unread
 ---
 # penalize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impose a penalty on; inflict punishment on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impose a penalty on; inflict punishment on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penalize designates impose a penalty on; inflict punishment on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impose a penalty on; inflict punishment on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impose a penalty on; inflict punishment on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penalize designates impose a penalty on; inflict punishment on."*

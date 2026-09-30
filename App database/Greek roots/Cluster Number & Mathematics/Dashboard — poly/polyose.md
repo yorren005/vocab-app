@@ -5,13 +5,6 @@ status: unread
 ---
 # polyose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class of carbohydrates whose molecules contain chains of monosaccharide molecules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class of carbohydrates whose molecules contain chains of monosaccharide molecules.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyose designates any of a class of carbohydrates whose molecules contain chains of monosaccharide molecules."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class of carbohydrates whose molecules contain chains of monosaccharide molecules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class of carbohydrates whose molecules contain chains of monosaccharide molecules.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyose designates any of a class of carbohydrates whose molecules contain chains of monosaccharide molecules."*

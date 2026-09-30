@@ -5,13 +5,6 @@ status: unread
 ---
 # amniocentesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical insertion of a hollow needle through the abdominal wall and into the uterus to obtain amniotic fluid especially for the determination of fetal sex or chromosomal abnormality —called also amnio.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surgical insertion of a hollow needle through the abdominal wall and into the uterus to obtain amniotic fluid especially for the determination of fetal sex or chromosomal abnormality —called also amnio.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amniocentesis designates the surgical insertion of a hollow needle through the abdominal wall and into the uterus to obtain amniotic fluid especially for the determination of fetal sex or chromosomal abnormality —called also amnio."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical insertion of a hollow needle through the abdominal wall and into the uterus to obtain amniotic fluid especially for the determination of fetal sex or chromosomal abnormality —called also amnio.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surgical insertion of a hollow needle through the abdominal wall and into the uterus to obtain amniotic fluid especially for the determination of fetal sex or chromosomal abnormality —called also amnio.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amniocentesis designates the surgical insertion of a hollow needle through the abdominal wall and into the uterus to obtain amniotic fluid especially for the determination of fetal sex or chromosomal abnormality —called also amnio."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # pulverize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make into a powder by breaking up or cause to become dust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy completely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The wheels of the dairyman’s spring-cart, as he sped home from market, licked up the pulverized surface of the highway, and were followed by white ribands of dust, as if they had set a thin powder-train on fire."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"So soon as the pick pulverized the rock, the limestone dust was carried into eyes, nose, and every available opening in the clothing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make into a powder by breaking up or cause to become dust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy completely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The wheels of the dairyman’s spring-cart, as he sped home from market, licked up the pulverized surface of the highway, and were followed by white ribands of dust, as if they had set a thin powder-train on fire."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"So soon as the pick pulverized the rock, the limestone dust was carried into eyes, nose, and every available opening in the clothing."*

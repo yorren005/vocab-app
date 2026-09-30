@@ -5,13 +5,6 @@ status: unread
 ---
 # desmosome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized structure of the cell membrane especially of an epithelial cell that serves as a zone of adhesion to anchor contiguous cells together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialized structure of the cell membrane especially of an epithelial cell that serves as a zone of adhesion to anchor contiguous cells together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desmosome designates a specialized structure of the cell membrane especially of an epithelial cell that serves as a zone of adhesion to anchor contiguous cells together."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized structure of the cell membrane especially of an epithelial cell that serves as a zone of adhesion to anchor contiguous cells together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialized structure of the cell membrane especially of an epithelial cell that serves as a zone of adhesion to anchor contiguous cells together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desmosome designates a specialized structure of the cell membrane especially of an epithelial cell that serves as a zone of adhesion to anchor contiguous cells together."*

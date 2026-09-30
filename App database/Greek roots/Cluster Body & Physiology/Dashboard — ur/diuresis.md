@@ -5,13 +5,6 @@ status: unread
 ---
 # diuresis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An increased excretion of urine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An increased excretion of urine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diuresis designates an increased excretion of urine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An increased excretion of urine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An increased excretion of urine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diuresis designates an increased excretion of urine."*

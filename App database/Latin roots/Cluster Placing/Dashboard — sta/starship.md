@@ -5,13 +5,6 @@ status: unread
 ---
 # starship
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spacecraft designed to carry a crew into interstellar space (especially in science fiction).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spacecraft designed to carry a crew into interstellar space (especially in science fiction).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, starship designates a spacecraft designed to carry a crew into interstellar space (especially in science fiction)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spacecraft designed to carry a crew into interstellar space (especially in science fiction).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spacecraft designed to carry a crew into interstellar space (especially in science fiction).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, starship designates a spacecraft designed to carry a crew into interstellar space (especially in science fiction)."*

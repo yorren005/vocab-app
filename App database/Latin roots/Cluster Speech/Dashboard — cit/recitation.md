@@ -5,15 +5,6 @@ status: unread
 ---
 # recitation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Written matter that is recited from memory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public instance of reciting or repeating (from memory) something prepared in advance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Well," said he, "when I came in from recitation a short time ago, I found this envelope on the floor and that five dollar bill in it."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Tell me seriously that all this is true, and that you are happy because of it—because you love me best.” “It is all true, Fred, and I am happy because of it—because I love you best,” said Mary, in a tone of obedient recitation."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"He's been in the third reader ever since I can remember, but every morning when it's time for the little kids in the third reader to go up front to the recitation bench, the teacher will say, 'Bud, looks to me like the fire's half out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Written matter that is recited from memory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public instance of reciting or repeating (from memory) something prepared in advance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Well," said he, "when I came in from recitation a short time ago, I found this envelope on the floor and that five dollar bill in it."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Tell me seriously that all this is true, and that you are happy because of it—because you love me best.” “It is all true, Fred, and I am happy because of it—because I love you best,” said Mary, in a tone of obedient recitation."*
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"He's been in the third reader ever since I can remember, but every morning when it's time for the little kids in the third reader to go up front to the recitation bench, the teacher will say, 'Bud, looks to me like the fire's half out."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # loculus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small cavity or space within an organ or in a plant or animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small cavity or space within an organ or in a plant or animal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, loculus designates a small cavity or space within an organ or in a plant or animal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small cavity or space within an organ or in a plant or animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small cavity or space within an organ or in a plant or animal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, loculus designates a small cavity or space within an organ or in a plant or animal."*

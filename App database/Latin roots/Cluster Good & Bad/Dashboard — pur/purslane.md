@@ -5,14 +5,6 @@ status: unread
 ---
 # purslane
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant of the family portulacaceae having fleshy succulent obovate leaves often grown as a potherb or salad herb; a weed in some areas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant of the family portulacaceae having fleshy succulent obovate leaves often grown as a potherb or salad herb; a weed in some areas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The Purslane white rust (_Cystopus Portulacæ_, D."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"C.) should be sought on the purslane, which, though of limited cultivation, is exceedingly liable to attack from this parasite, and the Thistle white rust (_Cystopus spinulosus_, D."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant of the family portulacaceae having fleshy succulent obovate leaves often grown as a potherb or salad herb; a weed in some areas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant of the family portulacaceae having fleshy succulent obovate leaves often grown as a potherb or salad herb; a weed in some areas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The Purslane white rust (_Cystopus Portulacæ_, D."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"C.) should be sought on the purslane, which, though of limited cultivation, is exceedingly liable to attack from this parasite, and the Thistle white rust (_Cystopus spinulosus_, D."*

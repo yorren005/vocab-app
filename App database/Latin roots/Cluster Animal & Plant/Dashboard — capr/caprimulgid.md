@@ -5,13 +5,6 @@ status: unread
 ---
 # caprimulgid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mainly crepuscular or nocturnal nonpasserine birds with mottled greyish-brown plumage and large eyes; feed on insects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mainly crepuscular or nocturnal nonpasserine birds with mottled greyish-brown plumage and large eyes; feed on insects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caprimulgid designates mainly crepuscular or nocturnal nonpasserine birds with mottled greyish-brown plumage and large eyes; feed on insects."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mainly crepuscular or nocturnal nonpasserine birds with mottled greyish-brown plumage and large eyes; feed on insects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mainly crepuscular or nocturnal nonpasserine birds with mottled greyish-brown plumage and large eyes; feed on insects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caprimulgid designates mainly crepuscular or nocturnal nonpasserine birds with mottled greyish-brown plumage and large eyes; feed on insects."*

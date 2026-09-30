@@ -5,15 +5,6 @@ status: unread
 ---
 # vocation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The particular occupation for which you are trained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body of people doing the same kind of work.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, Hal, ’tis my vocation, Hal, ’tis no sin for a man to labour in his vocation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo, whilst I waited on my tender lambs, And to sun’s parching heat display’d my cheeks, God’s mother deigned to appear to me, And in a vision full of majesty Will’d me to leave my base vocation And free my country from calamity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"True; and yet it is said, “Labour in thy vocation,” which is as much to say as, “Let the magistrates be labouring men;” and therefore should we be magistrates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The particular occupation for which you are trained.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body of people doing the same kind of work.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, Hal, ’tis my vocation, Hal, ’tis no sin for a man to labour in his vocation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo, whilst I waited on my tender lambs, And to sun’s parching heat display’d my cheeks, God’s mother deigned to appear to me, And in a vision full of majesty Will’d me to leave my base vocation And free my country from calamity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"True; and yet it is said, “Labour in thy vocation,” which is as much to say as, “Let the magistrates be labouring men;” and therefore should we be magistrates."*

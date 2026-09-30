@@ -5,15 +5,6 @@ status: unread
 ---
 # sector
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane figure bounded by two radii and the included arc of a circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A social group that forms part of the society or the economy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Five-meter high orange letters glowed brightly along its blunt bow and stern, and on each quarter sector of its exposed surface, proclaiming the huge cylinder as the UIPS SLINGSHOT LOGISTICS DEPOT."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The entire sector from which this attack was launched is honeycombed with utility passages and subsurface supply and maintenance shops," he said."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The computer adjusted to focus on a magnified Plutonian sector."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane figure bounded by two radii and the included arc of a circle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A social group that forms part of the society or the economy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Five-meter high orange letters glowed brightly along its blunt bow and stern, and on each quarter sector of its exposed surface, proclaiming the huge cylinder as the UIPS SLINGSHOT LOGISTICS DEPOT."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The entire sector from which this attack was launched is honeycombed with utility passages and subsurface supply and maintenance shops," he said."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The computer adjusted to focus on a magnified Plutonian sector."*

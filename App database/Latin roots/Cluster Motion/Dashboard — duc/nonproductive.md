@@ -5,13 +5,6 @@ status: unread
 ---
 # nonproductive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not directly productive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not directly productive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonproductive designates not directly productive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not directly productive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not directly productive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonproductive designates not directly productive."*

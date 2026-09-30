@@ -5,20 +5,6 @@ status: unread
 ---
 # cipher
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Zero
-> 2. **Nuance / Usage**: Ciphertext; a message concealed via a cipher
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"read, write, and cipher, on the very smallest scale."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"‘I thought they were written in cipher,’ I said."*
-> - 📜 **Classic Author (*The World Is Listening*):** *"They say no girls in the cipher, so I rock solo"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Zero
+> 2. **Nuance / Usage**: Ciphertext; a message concealed via a cipher
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"read, write, and cipher, on the very smallest scale."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"‘I thought they were written in cipher,’ I said."*
+> - 📜 **Classic Author (*The World Is Listening*):** *"They say no girls in the cipher, so I rock solo"*

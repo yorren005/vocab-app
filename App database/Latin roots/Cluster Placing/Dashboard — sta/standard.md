@@ -5,15 +5,6 @@ status: unread
 ---
 # standard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A basis for comparison; a reference point against which other things can be evaluated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ideal in terms of which something can be judged.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray God she prove not masculine ere long, If underneath the standard of the French She carry armour as she hath begun."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir William Brandon, you shall bear my standard."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt be my lieutenant, monster, or my standard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A basis for comparison; a reference point against which other things can be evaluated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ideal in terms of which something can be judged.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray God she prove not masculine ere long, If underneath the standard of the French She carry armour as she hath begun."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir William Brandon, you shall bear my standard."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt be my lieutenant, monster, or my standard."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # humiliation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State of disgrace or loss of self-respect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strong feelings of embarrassment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I raised my mother up, praying and beseeching her not to stoop before me in such affliction and humiliation."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But how could this admirable and poetic man ever have descended into the Valley of Humiliation, have felt with the man of Uz—as she herself had felt two or three years ago—“My soul chooseth strangling and death rather than my life."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In their distress the pilgrims set apart a day of humiliation and prayer, and continued their worship for eight or nine hours."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: State of disgrace or loss of self-respect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strong feelings of embarrassment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I raised my mother up, praying and beseeching her not to stoop before me in such affliction and humiliation."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But how could this admirable and poetic man ever have descended into the Valley of Humiliation, have felt with the man of Uz—as she herself had felt two or three years ago—“My soul chooseth strangling and death rather than my life."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"In their distress the pilgrims set apart a day of humiliation and prayer, and continued their worship for eight or nine hours."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # trivially
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With little effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a frivolously trivial manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"They are either trivially or extravagantly stated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With little effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a frivolously trivial manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"They are either trivially or extravagantly stated."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # part
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something determined in relation to something that includes it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something less than the whole of a human artifact.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If my slight Muse do please these curious days, The pain be mine, but thine shall be the praise. 39 O how thy worth with manners may I sing, When thou art all the better part of me?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To side this title is impanelled A quest of thoughts, all tenants to the heart, And by their verdict is determined The clear eye’s moiety, and the dear heart’s part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In all external grace you have some part, But you like none, none you for constant heart. 54 O how much more doth beauty beauteous seem, By that sweet ornament which truth doth give!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something determined in relation to something that includes it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something less than the whole of a human artifact.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If my slight Muse do please these curious days, The pain be mine, but thine shall be the praise. 39 O how thy worth with manners may I sing, When thou art all the better part of me?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To side this title is impanelled A quest of thoughts, all tenants to the heart, And by their verdict is determined The clear eye’s moiety, and the dear heart’s part."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In all external grace you have some part, But you like none, none you for constant heart. 54 O how much more doth beauty beauteous seem, By that sweet ornament which truth doth give!"*

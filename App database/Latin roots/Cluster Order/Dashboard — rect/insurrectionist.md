@@ -5,13 +5,6 @@ status: unread
 ---
 # insurrectionist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who takes part in an armed rebellion against the constituted authority (especially in the hope of improving conditions).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who takes part in an armed rebellion against the constituted authority (especially in the hope of improving conditions).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Our intelligence sources," Allen concluded, "report that many supporters of Plutonian objectives are, themselves, descendants of the insurrectionists that fomented the dissolution of our first interplanetary union."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who takes part in an armed rebellion against the constituted authority (especially in the hope of improving conditions).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who takes part in an armed rebellion against the constituted authority (especially in the hope of improving conditions).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Our intelligence sources," Allen concluded, "report that many supporters of Plutonian objectives are, themselves, descendants of the insurrectionists that fomented the dissolution of our first interplanetary union."*

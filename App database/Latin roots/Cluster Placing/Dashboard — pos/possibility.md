@@ -5,15 +5,6 @@ status: unread
 ---
 # possibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A future prospect or potential.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capability of existing or happening or being true.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know th’art valiant; and to the possibility of thy soldiership, will subscribe for thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, lord ambassador, I’ll rather keep That which I have than, coveting for more, Be cast from possibility of all."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O brother, speak with possibility, And do not break into these deep extremes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A future prospect or potential.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capability of existing or happening or being true.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know th’art valiant; and to the possibility of thy soldiership, will subscribe for thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, lord ambassador, I’ll rather keep That which I have than, coveting for more, Be cast from possibility of all."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O brother, speak with possibility, And do not break into these deep extremes."*

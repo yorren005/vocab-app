@@ -5,13 +5,6 @@ status: unread
 ---
 # plumaged
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or covered in plumage; often used as a combining form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or covered in plumage; often used as a combining form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumaged designates having or covered in plumage; often used as a combining form."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or covered in plumage; often used as a combining form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or covered in plumage; often used as a combining form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumaged designates having or covered in plumage; often used as a combining form."*

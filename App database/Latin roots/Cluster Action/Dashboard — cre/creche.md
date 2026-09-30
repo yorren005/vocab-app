@@ -5,13 +5,6 @@ status: unread
 ---
 # creche
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hospital where foundlings (infant children of unknown parents) are taken in and cared for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A representation of christ's nativity in the stable at bethlehem.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creche designates a hospital where foundlings (infant children of unknown parents) are taken in and cared for."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hospital where foundlings (infant children of unknown parents) are taken in and cared for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A representation of christ's nativity in the stable at bethlehem.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creche designates a hospital where foundlings (infant children of unknown parents) are taken in and cared for."*

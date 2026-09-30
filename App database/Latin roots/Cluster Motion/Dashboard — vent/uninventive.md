@@ -5,13 +5,6 @@ status: unread
 ---
 # uninventive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deficient in originality or creativity; lacking powers of invention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deficient in originality or creativity; lacking powers of invention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninventive designates deficient in originality or creativity; lacking powers of invention."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deficient in originality or creativity; lacking powers of invention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deficient in originality or creativity; lacking powers of invention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninventive designates deficient in originality or creativity; lacking powers of invention."*

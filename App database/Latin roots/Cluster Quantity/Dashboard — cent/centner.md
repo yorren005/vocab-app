@@ -5,13 +5,6 @@ status: unread
 ---
 # centner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of weight equal to 100 kilograms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some european countries: a unit of weight equivalent to 50 kilograms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centner designates a unit of weight equal to 100 kilograms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of weight equal to 100 kilograms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some european countries: a unit of weight equivalent to 50 kilograms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centner designates a unit of weight equal to 100 kilograms."*

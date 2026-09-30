@@ -5,13 +5,6 @@ status: unread
 ---
 # trivia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something of small importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (middle ages) an introductory curriculum at a medieval university involving grammar and logic and rhetoric; considered to be a triple way to eloquence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trivia designates something of small importance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something of small importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (middle ages) an introductory curriculum at a medieval university involving grammar and logic and rhetoric; considered to be a triple way to eloquence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trivia designates something of small importance."*

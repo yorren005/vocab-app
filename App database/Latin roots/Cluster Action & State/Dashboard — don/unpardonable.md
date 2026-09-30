@@ -5,15 +5,6 @@ status: unread
 ---
 # unpardonable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not admitting of pardon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not admitting of pardon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, ’tis a fault too too unpardonable."*
-> - 📜 **Jane Austen (*Persuasion*):** *"It would be unpardonable to fail."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Was it unpardonable to think it worth my while to come? and to arrive with some degree of hope?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not admitting of pardon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not admitting of pardon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, ’tis a fault too too unpardonable."*
+> - 📜 **Jane Austen (*Persuasion*):** *"It would be unpardonable to fail."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Was it unpardonable to think it worth my while to come? and to arrive with some degree of hope?"*

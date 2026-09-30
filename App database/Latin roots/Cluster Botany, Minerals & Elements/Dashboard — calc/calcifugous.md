@@ -5,13 +5,6 @@ status: unread
 ---
 # calcifugous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing or living in acid soil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growing or living in acid soil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcifugous designates growing or living in acid soil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing or living in acid soil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growing or living in acid soil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcifugous designates growing or living in acid soil."*

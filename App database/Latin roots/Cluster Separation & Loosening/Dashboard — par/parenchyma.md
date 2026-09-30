@@ -5,15 +5,6 @@ status: unread
 ---
 # parenchyma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Animal tissue that constitutes the essential part of an organ as contrasted with e.g. connective tissue and blood vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The primary tissue of higher plants composed of thin-walled cells that remain capable of cell division even when mature; constitutes the greater part of leaves, roots, the pulp of fruits, and the pith of stems.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These branches perforate the inner walls of the epidermis, and pass into the intercellular spaces of the parenchyma to become mycelium."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"A few days afterwards the mycelium is spread through the parenchyma."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The active part increases and ramifies, and produces a mycelium which spreads through the intercellular passages of the parenchyma."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Animal tissue that constitutes the essential part of an organ as contrasted with e.g. connective tissue and blood vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The primary tissue of higher plants composed of thin-walled cells that remain capable of cell division even when mature; constitutes the greater part of leaves, roots, the pulp of fruits, and the pith of stems.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These branches perforate the inner walls of the epidermis, and pass into the intercellular spaces of the parenchyma to become mycelium."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"A few days afterwards the mycelium is spread through the parenchyma."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The active part increases and ramifies, and produces a mycelium which spreads through the intercellular passages of the parenchyma."*

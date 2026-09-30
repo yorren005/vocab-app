@@ -5,15 +5,6 @@ status: unread
 ---
 # decipher
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert code into ordinary language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Read with difficulty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well didst thou, Richard, to suppress thy voice; For, had the passions of thy heart burst out, I fear we should have seen decipher’d there More rancorous spite, more furious raging broils, Than yet can be imagined or supposed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The white will decipher her well enough."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Besides many completed poems, it remained for his wife to decipher, from scraps of paper, scribbled over, interlined, and erased, a host of fragments, all valuable, and many of them gems of purest ray."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert code into ordinary language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Read with difficulty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well didst thou, Richard, to suppress thy voice; For, had the passions of thy heart burst out, I fear we should have seen decipher’d there More rancorous spite, more furious raging broils, Than yet can be imagined or supposed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The white will decipher her well enough."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Besides many completed poems, it remained for his wife to decipher, from scraps of paper, scribbled over, interlined, and erased, a host of fragments, all valuable, and many of them gems of purest ray."*

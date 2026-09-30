@@ -5,13 +5,6 @@ status: unread
 ---
 # leging
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A garment covering the leg (usually extending from the knee to the ankle).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A garment covering the leg (usually extending from the knee to the ankle).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leging designates a garment covering the leg (usually extending from the knee to the ankle)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A garment covering the leg (usually extending from the knee to the ankle).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A garment covering the leg (usually extending from the knee to the ankle).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leging designates a garment covering the leg (usually extending from the knee to the ankle)."*

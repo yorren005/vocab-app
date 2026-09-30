@@ -5,15 +5,6 @@ status: unread
 ---
 # verification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Additional proof that something that was believed (some fact or hypothesis or theory) is correct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) an affidavit attached to a statement confirming the truth of that statement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"What a verification of the blessed promise: "Before they call I will answer; and while they are yet speaking I will hear." HELP FOR THE SHIPWRECKED."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Of course, this was verification absolute of all the fabric of lies that the poet-forger had spun for Captain Jamie."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"In every sphere of study there is a growing emphasis on verification."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Additional proof that something that was believed (some fact or hypothesis or theory) is correct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) an affidavit attached to a statement confirming the truth of that statement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"What a verification of the blessed promise: "Before they call I will answer; and while they are yet speaking I will hear." HELP FOR THE SHIPWRECKED."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Of course, this was verification absolute of all the fabric of lies that the poet-forger had spun for Captain Jamie."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"In every sphere of study there is a growing emphasis on verification."*

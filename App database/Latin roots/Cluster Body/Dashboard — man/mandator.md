@@ -5,13 +5,6 @@ status: unread
 ---
 # mandator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An authority who issues a mandate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An authority who issues a mandate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandator designates an authority who issues a mandate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An authority who issues a mandate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An authority who issues a mandate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandator designates an authority who issues a mandate."*

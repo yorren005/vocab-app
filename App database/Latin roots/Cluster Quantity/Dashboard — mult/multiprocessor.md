@@ -5,13 +5,6 @@ status: unread
 ---
 # multiprocessor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A computer that uses two or more processing units under integrated control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A computer that uses two or more processing units under integrated control.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiprocessor designates a computer that uses two or more processing units under integrated control."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A computer that uses two or more processing units under integrated control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A computer that uses two or more processing units under integrated control.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiprocessor designates a computer that uses two or more processing units under integrated control."*

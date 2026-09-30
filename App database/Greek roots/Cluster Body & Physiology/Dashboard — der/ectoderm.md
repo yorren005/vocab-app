@@ -5,13 +5,6 @@ status: unread
 ---
 # ectoderm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The outermost of the three primary germ layers of an embryo that is the source of various tissues and structures (such as the epidermis, the nervous system, and the eyes and ears).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tissue (such as neural tissue) derived from this germ layer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectoderm designates the outermost of the three primary germ layers of an embryo that is the source of various tissues and structures (such as the epidermis, the nervous system, and the eyes and ears)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outermost of the three primary germ layers of an embryo that is the source of various tissues and structures (such as the epidermis, the nervous system, and the eyes and ears).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tissue (such as neural tissue) derived from this germ layer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectoderm designates the outermost of the three primary germ layers of an embryo that is the source of various tissues and structures (such as the epidermis, the nervous system, and the eyes and ears)."*

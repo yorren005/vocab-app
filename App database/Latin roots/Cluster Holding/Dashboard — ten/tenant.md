@@ -5,15 +5,6 @@ status: unread
 ---
 # tenant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who pays rent to use land or a building or a car that is owned by someone else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A holder of buildings or lands by any kind of title (as ownership or lease).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"OLD MAN, Tenant to Gloucester."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O my good lord, I have been your tenant, and your father’s tenant these fourscore years."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He’ll ask no questions and would accept you as a tenant at a word from me—before the clock strikes, if you chose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who pays rent to use land or a building or a car that is owned by someone else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A holder of buildings or lands by any kind of title (as ownership or lease).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"OLD MAN, Tenant to Gloucester."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O my good lord, I have been your tenant, and your father’s tenant these fourscore years."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He’ll ask no questions and would accept you as a tenant at a word from me—before the clock strikes, if you chose."*

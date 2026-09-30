@@ -5,13 +5,6 @@ status: unread
 ---
 # canticles
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An old testament book consisting of a collection of love poems traditionally attributed to solomon but actually written much later.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hymn derived from the bible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canticles designates an old testament book consisting of a collection of love poems traditionally attributed to solomon but actually written much later."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An old testament book consisting of a collection of love poems traditionally attributed to solomon but actually written much later.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hymn derived from the bible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canticles designates an old testament book consisting of a collection of love poems traditionally attributed to solomon but actually written much later."*

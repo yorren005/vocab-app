@@ -5,13 +5,6 @@ status: unread
 ---
 # preliterate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not yet having acquired the ability to read and write.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of a society that has not developed writing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preliterate designates not yet having acquired the ability to read and write."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not yet having acquired the ability to read and write.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of a society that has not developed writing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preliterate designates not yet having acquired the ability to read and write."*

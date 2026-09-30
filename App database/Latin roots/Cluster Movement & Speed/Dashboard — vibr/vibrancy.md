@@ -5,13 +5,6 @@ status: unread
 ---
 # vibrancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the character of a loud deep sound; the quality of being resonant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the character of a loud deep sound; the quality of being resonant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Returns' imply 'investments.' As grandparents age, their 'investment' is transformed into a 'return.' The 'return' contributes vitality, vibrancy and enrichment to a grandparent's latter years."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the character of a loud deep sound; the quality of being resonant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the character of a loud deep sound; the quality of being resonant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Returns' imply 'investments.' As grandparents age, their 'investment' is transformed into a 'return.' The 'return' contributes vitality, vibrancy and enrichment to a grandparent's latter years."*

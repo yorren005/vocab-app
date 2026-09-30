@@ -5,13 +5,6 @@ status: unread
 ---
 # cuprimine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (trade name cuprimine) used to treat heavy metal poisoning and wilson's disease and severe arthritis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (trade name cuprimine) used to treat heavy metal poisoning and wilson's disease and severe arthritis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cuprimine designates a drug (trade name cuprimine) used to treat heavy metal poisoning and wilson's disease and severe arthritis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (trade name cuprimine) used to treat heavy metal poisoning and wilson's disease and severe arthritis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (trade name cuprimine) used to treat heavy metal poisoning and wilson's disease and severe arthritis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cuprimine designates a drug (trade name cuprimine) used to treat heavy metal poisoning and wilson's disease and severe arthritis."*

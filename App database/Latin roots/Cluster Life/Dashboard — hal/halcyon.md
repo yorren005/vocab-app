@@ -5,15 +5,6 @@ status: unread
 ---
 # halcyon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a woman who was turned into a kingfisher.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large kingfisher widely distributed in warmer parts of the old world.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Expect Saint Martin’s summer, halcyon’s days, Since I have entered into these wars."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On this hypothesis Sirius, the bright star of Isis, which on July mornings rises from the glassy waves of the eastern Mediterranean, a harbinger of halcyon weather to mariners, was the true _Stella Maris,_ "the Star of the Sea." XLII."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"The first of November was a very lovely day, quite one of the ‘halcyon days’ of ‘St."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a woman who was turned into a kingfisher.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large kingfisher widely distributed in warmer parts of the old world.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Expect Saint Martin’s summer, halcyon’s days, Since I have entered into these wars."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On this hypothesis Sirius, the bright star of Isis, which on July mornings rises from the glassy waves of the eastern Mediterranean, a harbinger of halcyon weather to mariners, was the true _Stella Maris,_ "the Star of the Sea." XLII."*
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"The first of November was a very lovely day, quite one of the ‘halcyon days’ of ‘St."*

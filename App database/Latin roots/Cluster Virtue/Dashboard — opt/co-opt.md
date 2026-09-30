@@ -5,13 +5,6 @@ status: unread
 ---
 # co-opt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Choose or elect as a fellow member or colleague.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Neutralize or win over through assimilation into an established group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, co-opt designates choose or elect as a fellow member or colleague."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Choose or elect as a fellow member or colleague.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Neutralize or win over through assimilation into an established group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, co-opt designates choose or elect as a fellow member or colleague."*

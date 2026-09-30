@@ -5,13 +5,6 @@ status: unread
 ---
 # hemosiderosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The excessive deposition of hemosiderin in bodily tissues (as of the liver, spleen, or lungs) that typically results from bleeding, the breakdown of red blood cells, or repeated transfusions and is usually not accompanied by tissue damage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The excessive deposition of hemosiderin in bodily tissues (as of the liver, spleen, or lungs) that typically results from bleeding, the breakdown of red blood cells, or repeated transfusions and is usually not accompanied by tissue damage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemosiderosis designates the excessive deposition of hemosiderin in bodily tissues (as of the liver, spleen, or lungs) that typically results from bleeding, the breakdown of red blood cells, or repeated transfusions and is usually not accompanied by tissue damage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The excessive deposition of hemosiderin in bodily tissues (as of the liver, spleen, or lungs) that typically results from bleeding, the breakdown of red blood cells, or repeated transfusions and is usually not accompanied by tissue damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The excessive deposition of hemosiderin in bodily tissues (as of the liver, spleen, or lungs) that typically results from bleeding, the breakdown of red blood cells, or repeated transfusions and is usually not accompanied by tissue damage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemosiderosis designates the excessive deposition of hemosiderin in bodily tissues (as of the liver, spleen, or lungs) that typically results from bleeding, the breakdown of red blood cells, or repeated transfusions and is usually not accompanied by tissue damage."*

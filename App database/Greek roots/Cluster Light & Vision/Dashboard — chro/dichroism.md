@@ -5,13 +5,6 @@ status: unread
 ---
 # dichroism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of some crystals and solutions of absorbing one of two plane-polarized components of transmitted light more strongly than the other; also : the property of exhibiting different colors by reflected or transmitted light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property (as of an optically active medium) of unequal absorption of right and left plane-polarized light so that the emergent light is elliptically polarized.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dichroism designates the property of some crystals and solutions of absorbing one of two plane-polarized components of transmitted light more strongly than the other; also : the property of exhibiting different colors by reflected or transmitted light."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of some crystals and solutions of absorbing one of two plane-polarized components of transmitted light more strongly than the other; also : the property of exhibiting different colors by reflected or transmitted light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property (as of an optically active medium) of unequal absorption of right and left plane-polarized light so that the emergent light is elliptically polarized.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dichroism designates the property of some crystals and solutions of absorbing one of two plane-polarized components of transmitted light more strongly than the other; also : the property of exhibiting different colors by reflected or transmitted light."*

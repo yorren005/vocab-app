@@ -5,13 +5,6 @@ status: unread
 ---
 # donatism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A schismatic christian religion in northern africa from the 4th to the 7th century; held that only those who led a blameless life belonged in the church or could administer the sacraments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A schismatic christian religion in northern africa from the 4th to the 7th century; held that only those who led a blameless life belonged in the church or could administer the sacraments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, donatism designates a schismatic christian religion in northern africa from the 4th to the 7th century; held that only those who led a blameless life belonged in the church or could administer the sacraments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A schismatic christian religion in northern africa from the 4th to the 7th century; held that only those who led a blameless life belonged in the church or could administer the sacraments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A schismatic christian religion in northern africa from the 4th to the 7th century; held that only those who led a blameless life belonged in the church or could administer the sacraments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, donatism designates a schismatic christian religion in northern africa from the 4th to the 7th century; held that only those who led a blameless life belonged in the church or could administer the sacraments."*

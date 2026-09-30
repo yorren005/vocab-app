@@ -5,13 +5,6 @@ status: unread
 ---
 # precedential
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having precedence (especially because of longer service).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having precedence (especially because of longer service).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precedential designates having precedence (especially because of longer service)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having precedence (especially because of longer service).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having precedence (especially because of longer service).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precedential designates having precedence (especially because of longer service)."*

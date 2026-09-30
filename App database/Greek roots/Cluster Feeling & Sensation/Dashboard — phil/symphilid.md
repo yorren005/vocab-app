@@ -5,13 +5,6 @@ status: unread
 ---
 # symphilid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Minute arthropod often infesting the underground parts of truck-garden and greenhouse crops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Minute arthropod often infesting the underground parts of truck-garden and greenhouse crops.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symphilid designates minute arthropod often infesting the underground parts of truck-garden and greenhouse crops."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Minute arthropod often infesting the underground parts of truck-garden and greenhouse crops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Minute arthropod often infesting the underground parts of truck-garden and greenhouse crops.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symphilid designates minute arthropod often infesting the underground parts of truck-garden and greenhouse crops."*

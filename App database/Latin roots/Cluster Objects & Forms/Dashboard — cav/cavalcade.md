@@ -5,15 +5,6 @@ status: unread
 ---
 # cavalcade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A procession of people traveling on horseback.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A procession of people traveling on horseback.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"From the accompanying jingle of metal bits of man-harness and steed-harness I knew some cavalcade was passing by on the street beneath my windows."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The cavalcade, following the sweep of the drive, quickly turned the angle of the house, and I lost sight of it."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He felt it not only from the sound of the hoofs of the approaching cavalcade, but because as he drew near everything grew brighter, more joyful, more significant, and more festive around him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A procession of people traveling on horseback.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A procession of people traveling on horseback.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"From the accompanying jingle of metal bits of man-harness and steed-harness I knew some cavalcade was passing by on the street beneath my windows."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The cavalcade, following the sweep of the drive, quickly turned the angle of the house, and I lost sight of it."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He felt it not only from the sound of the hoofs of the approaching cavalcade, but because as he drew near everything grew brighter, more joyful, more significant, and more festive around him."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # admirably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an admirable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an admirable manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"If I find a person unwilling to hear what I have to say, I tell that person directly, ‘I am incapable of fatigue, my good friend, I am never tired, and I mean to go on until I have done.’ It answers admirably!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was admirably said by Captain Swosser."*
-> - 📜 **Jane Austen (*Persuasion*):** *"And she,” said Mrs Smith, “besides nursing me most admirably, has really proved an invaluable acquaintance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an admirable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an admirable manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"If I find a person unwilling to hear what I have to say, I tell that person directly, ‘I am incapable of fatigue, my good friend, I am never tired, and I mean to go on until I have done.’ It answers admirably!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It was admirably said by Captain Swosser."*
+> - 📜 **Jane Austen (*Persuasion*):** *"And she,” said Mrs Smith, “besides nursing me most admirably, has really proved an invaluable acquaintance."*

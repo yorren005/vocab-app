@@ -5,13 +5,6 @@ status: unread
 ---
 # velour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heavy fabric that resembles velvet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heavy fabric that resembles velvet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"MRS BREEN: _(In smart Saxe tailormade, white velours hat and spider veil.)_ Leopardstown."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heavy fabric that resembles velvet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heavy fabric that resembles velvet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"MRS BREEN: _(In smart Saxe tailormade, white velours hat and spider veil.)_ Leopardstown."*

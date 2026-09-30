@@ -5,15 +5,6 @@ status: unread
 ---
 # crested
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lie at the top of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reach a high point.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His legs bestrid the ocean; his reared arm Crested the world; his voice was propertied As all the tuned spheres, and that to friends; But when he meant to quail and shake the orb, He was as rattling thunder."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thou stockdove whose echo resounds thro’ the glen, Ye wild whistling blackbirds in yon thorny den, Thou green-crested lapwing thy screaming forbear, I charge you, disturb not my slumbering Fair."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Tappet-hen, a crested hen-shaped bottle holding three quarts of claret."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lie at the top of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reach a high point.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His legs bestrid the ocean; his reared arm Crested the world; his voice was propertied As all the tuned spheres, and that to friends; But when he meant to quail and shake the orb, He was as rattling thunder."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thou stockdove whose echo resounds thro’ the glen, Ye wild whistling blackbirds in yon thorny den, Thou green-crested lapwing thy screaming forbear, I charge you, disturb not my slumbering Fair."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Tappet-hen, a crested hen-shaped bottle holding three quarts of claret."*

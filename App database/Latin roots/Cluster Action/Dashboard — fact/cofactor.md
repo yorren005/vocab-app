@@ -5,13 +5,6 @@ status: unread
 ---
 # cofactor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance (as a coenzyme) that must join with another to produce a given result.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance (as a coenzyme) that must join with another to produce a given result.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cofactor designates a substance (as a coenzyme) that must join with another to produce a given result."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance (as a coenzyme) that must join with another to produce a given result.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance (as a coenzyme) that must join with another to produce a given result.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cofactor designates a substance (as a coenzyme) that must join with another to produce a given result."*

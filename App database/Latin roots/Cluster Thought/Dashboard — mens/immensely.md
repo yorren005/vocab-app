@@ -5,15 +5,6 @@ status: unread
 ---
 # immensely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an exceedingly great extent or degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an exceedingly great extent or degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"What Loneli had told him had relieved him immensely."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is immensely received in turf-circles."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Tertullian himself was immensely impressed with it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To an exceedingly great extent or degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an exceedingly great extent or degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"What Loneli had told him had relieved him immensely."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is immensely received in turf-circles."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Tertullian himself was immensely impressed with it."*

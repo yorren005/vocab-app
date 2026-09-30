@@ -5,15 +5,6 @@ status: unread
 ---
 # covered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with a covering or cause to be covered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form a cover over.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think he is not a pick-purse nor a horse-stealer, but for his verity in love, I do think him as concave as a covered goblet or a worm-eaten nut."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For the table, sir, it shall be served in; for the meat, sir, it shall be covered; for your coming in to dinner, sir, why, let it be as humours and conceits shall govern. [_Exit._] LORENZO."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What good is covered with the face of heaven, To be discovered, that can do me good?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with a covering or cause to be covered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form a cover over.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think he is not a pick-purse nor a horse-stealer, but for his verity in love, I do think him as concave as a covered goblet or a worm-eaten nut."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For the table, sir, it shall be served in; for the meat, sir, it shall be covered; for your coming in to dinner, sir, why, let it be as humours and conceits shall govern. [_Exit._] LORENZO."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What good is covered with the face of heaven, To be discovered, that can do me good?"*

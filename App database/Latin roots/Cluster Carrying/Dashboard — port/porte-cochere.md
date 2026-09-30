@@ -5,13 +5,6 @@ status: unread
 ---
 # porte-cochere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A carriage entrance passing through a building to an enclosed courtyard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Canopy extending out from a building entrance to shelter those getting in and out of vehicles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porte-cochere designates a carriage entrance passing through a building to an enclosed courtyard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A carriage entrance passing through a building to an enclosed courtyard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Canopy extending out from a building entrance to shelter those getting in and out of vehicles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porte-cochere designates a carriage entrance passing through a building to an enclosed courtyard."*

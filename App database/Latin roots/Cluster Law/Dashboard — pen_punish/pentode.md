@@ -5,13 +5,6 @@ status: unread
 ---
 # pentode
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermionic tube having five electrodes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermionic tube having five electrodes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentode designates a thermionic tube having five electrodes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermionic tube having five electrodes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermionic tube having five electrodes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentode designates a thermionic tube having five electrodes."*

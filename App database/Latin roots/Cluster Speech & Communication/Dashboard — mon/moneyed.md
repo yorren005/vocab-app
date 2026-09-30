@@ -5,15 +5,6 @@ status: unread
 ---
 # moneyed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or arising from the possession of money or wealth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an abundant supply of money or possessions of value.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Doctor is well moneyed, and his friends Potent at court."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A landed interest, a manufacturing interest, a mercantile interest, a moneyed interest, with many lesser interests, grow up of necessity in civilized nations, and divide them into different classes, actuated by different sentiments and views."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Will it lean in favor of the landed interest, or the moneyed interest, or the mercantile interest, or the manufacturing interest?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or arising from the possession of money or wealth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an abundant supply of money or possessions of value.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Doctor is well moneyed, and his friends Potent at court."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A landed interest, a manufacturing interest, a mercantile interest, a moneyed interest, with many lesser interests, grow up of necessity in civilized nations, and divide them into different classes, actuated by different sentiments and views."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Will it lean in favor of the landed interest, or the moneyed interest, or the mercantile interest, or the manufacturing interest?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # montgolfier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French inventor who (with his brother josef michel montgolfier) pioneered hot-air ballooning (1745-1799).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French inventor who (with his brother jacques etienne montgolfier) pioneered hot-air ballooning (1740-1810).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, montgolfier designates french inventor who (with his brother josef michel montgolfier) pioneered hot-air ballooning (1745-1799)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French inventor who (with his brother josef michel montgolfier) pioneered hot-air ballooning (1745-1799).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French inventor who (with his brother jacques etienne montgolfier) pioneered hot-air ballooning (1740-1810).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, montgolfier designates french inventor who (with his brother josef michel montgolfier) pioneered hot-air ballooning (1745-1799)."*

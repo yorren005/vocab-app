@@ -5,15 +5,6 @@ status: unread
 ---
 # redound
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Return or recoil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contribute.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will, my lord, and doubt not so to deal As all things shall redound unto your good."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"And my heart could but pity the woman, whose pain I yet knew would redound to her infinite gain."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"I did not omit even our sports and pastimes, or any other particular which I thought might redound to the honour of my country."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Return or recoil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contribute.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will, my lord, and doubt not so to deal As all things shall redound unto your good."*
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"And my heart could but pity the woman, whose pain I yet knew would redound to her infinite gain."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"I did not omit even our sports and pastimes, or any other particular which I thought might redound to the honour of my country."*

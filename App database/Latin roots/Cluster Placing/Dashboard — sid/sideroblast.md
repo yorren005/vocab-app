@@ -5,13 +5,6 @@ status: unread
 ---
 # sideroblast
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An erythroblast having granules of ferritin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An erythroblast having granules of ferritin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sideroblast designates an erythroblast having granules of ferritin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An erythroblast having granules of ferritin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An erythroblast having granules of ferritin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sideroblast designates an erythroblast having granules of ferritin."*

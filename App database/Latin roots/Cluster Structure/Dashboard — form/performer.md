@@ -5,15 +5,6 @@ status: unread
 ---
 # performer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An entertainer who performs a dramatic or musical work for an audience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An entertainer who performs a dramatic or musical work for an audience.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that the merit of service is seldom attributed to the true and exact performer, I would have that drum or another, or _hic jacet_."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The performer seemed quite at home anywhere between a horse’s head and its tail, and the necessity for this abnormal attitude having ceased with the passage of the plantation, she began to adopt another, even more obviously convenient than the first."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The Soldier’s Joy” has, too, an additional charm, in being so admirably adapted to the tambourine aforesaid—no mean instrument in the hands of a performer who understands the proper convulsions, spasms, St."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An entertainer who performs a dramatic or musical work for an audience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An entertainer who performs a dramatic or musical work for an audience.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that the merit of service is seldom attributed to the true and exact performer, I would have that drum or another, or _hic jacet_."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The performer seemed quite at home anywhere between a horse’s head and its tail, and the necessity for this abnormal attitude having ceased with the passage of the plantation, she began to adopt another, even more obviously convenient than the first."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The Soldier’s Joy” has, too, an additional charm, in being so admirably adapted to the tambourine aforesaid—no mean instrument in the hands of a performer who understands the proper convulsions, spasms, St."*

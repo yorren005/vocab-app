@@ -5,15 +5,6 @@ status: unread
 ---
 # dioxide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oxide (such as carbon dioxide) containing two atoms of oxygen in the molecule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy colorless gas CO2 that does not support combustion, dissolves in water to form carbonic acid, is formed especially in animal respiration and in the decay or combustion of animal and vegetable matter, is absorbed from the air by plants in photosynthesis, and is used in the carbonation of beverages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The carbon combines with oxygen into carbon dioxide, commonly called carbonic acid gas, the hydrogen and some more oxygen form steam, while the nitrogen is left out in the cold, so to speak."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The acrid odor of nitrogen dioxide filled the room."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The metal is unchanged in dry air at ordinary temperatures; in the presence of moisture and of carbon dioxide a green coating of basic carbonate is produced."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oxide (such as carbon dioxide) containing two atoms of oxygen in the molecule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy colorless gas CO2 that does not support combustion, dissolves in water to form carbonic acid, is formed especially in animal respiration and in the decay or combustion of animal and vegetable matter, is absorbed from the air by plants in photosynthesis, and is used in the carbonation of beverages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The carbon combines with oxygen into carbon dioxide, commonly called carbonic acid gas, the hydrogen and some more oxygen form steam, while the nitrogen is left out in the cold, so to speak."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The acrid odor of nitrogen dioxide filled the room."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The metal is unchanged in dry air at ordinary temperatures; in the presence of moisture and of carbon dioxide a green coating of basic carbonate is produced."*

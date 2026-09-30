@@ -5,13 +5,6 @@ status: unread
 ---
 # eudicotyledon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The eudicots or eudicotyledons are flowering plants that have two seed leaves (cotyledons) upon germination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The term derives from dicotyledon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eudicotyledon designates the eudicots or eudicotyledons are flowering plants that have two seed leaves (cotyledons) upon germination."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The eudicots or eudicotyledons are flowering plants that have two seed leaves (cotyledons) upon germination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The term derives from dicotyledon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eudicotyledon designates the eudicots or eudicotyledons are flowering plants that have two seed leaves (cotyledons) upon germination."*

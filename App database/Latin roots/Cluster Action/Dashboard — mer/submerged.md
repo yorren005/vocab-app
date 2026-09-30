@@ -5,15 +5,6 @@ status: unread
 ---
 # submerged
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sink below the surface; go under or as if under water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover completely or make imperceptible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I would thou didst, So half my Egypt were submerged and made A cistern for scaled snakes!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He hastily bade them farewell, and splashed back along the stretch of submerged road."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The whale, be it observed, lies almost entirely submerged, excepting the immediate parts operated upon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sink below the surface; go under or as if under water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover completely or make imperceptible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I would thou didst, So half my Egypt were submerged and made A cistern for scaled snakes!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He hastily bade them farewell, and splashed back along the stretch of submerged road."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The whale, be it observed, lies almost entirely submerged, excepting the immediate parts operated upon."*

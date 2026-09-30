@@ -5,13 +5,6 @@ status: unread
 ---
 # demerol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic narcotic drug (trade name demerol) used to treat pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A synthetic narcotic drug (trade name demerol) used to treat pain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demerol designates a synthetic narcotic drug (trade name demerol) used to treat pain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic narcotic drug (trade name demerol) used to treat pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A synthetic narcotic drug (trade name demerol) used to treat pain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demerol designates a synthetic narcotic drug (trade name demerol) used to treat pain."*

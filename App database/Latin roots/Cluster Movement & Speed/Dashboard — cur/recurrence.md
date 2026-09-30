@@ -5,15 +5,6 @@ status: unread
 ---
 # recurrence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening again (especially at regular intervals).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happening again (especially at regular intervals).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And then, for half-an-hour, ten minutes, or as long as an hour or so, I would wander erratically and foolishly through the stored memories of my eternal recurrence on earth."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In truth, they were he, they were the links of the chain of recurrence."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As I sit here and muse on it all, the footfalls of the death-watch going up and down outside my cage, the man’s suspicious eyes ever peering in on me, almost I weary of eternal recurrence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening again (especially at regular intervals).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happening again (especially at regular intervals).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And then, for half-an-hour, ten minutes, or as long as an hour or so, I would wander erratically and foolishly through the stored memories of my eternal recurrence on earth."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In truth, they were he, they were the links of the chain of recurrence."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As I sit here and muse on it all, the footfalls of the death-watch going up and down outside my cage, the man’s suspicious eyes ever peering in on me, almost I weary of eternal recurrence."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # arbitrement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of deciding as an arbiter; giving authoritative judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of deciding as an arbiter; giving authoritative judgment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, yes, to be put to the arbitrement of swords, and by such two that would by all likelihood have confounded one the other or have fall’n both."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For well you know we of the off’ring side Must keep aloof from strict arbitrement, And stop all sight-holes, every loop from whence The eye of reason may pry in upon us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, there is no king, be his cause never so spotless, if it come to the arbitrement of swords, can try it out with all unspotted soldiers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of deciding as an arbiter; giving authoritative judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of deciding as an arbiter; giving authoritative judgment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, yes, to be put to the arbitrement of swords, and by such two that would by all likelihood have confounded one the other or have fall’n both."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For well you know we of the off’ring side Must keep aloof from strict arbitrement, And stop all sight-holes, every loop from whence The eye of reason may pry in upon us."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, there is no king, be his cause never so spotless, if it come to the arbitrement of swords, can try it out with all unspotted soldiers."*

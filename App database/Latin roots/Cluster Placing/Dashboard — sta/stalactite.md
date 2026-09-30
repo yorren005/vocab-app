@@ -5,14 +5,6 @@ status: unread
 ---
 # stalactite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cylinder of calcium carbonate hanging from the roof of a limestone cave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cylinder of calcium carbonate hanging from the roof of a limestone cave.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The moon--the regal moon--intensely bright, Shines through the roseate window of the west; Each shaft, an artificial stalactite Of pendent stone, with slumber seems oppressed, Or with a charmèd dream of peaceful rapture blessed."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"In one place, near at hand, a stalagmite had been slowly growing up from the ground for ages, builded by the water-drip from a stalactite overhead."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cylinder of calcium carbonate hanging from the roof of a limestone cave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cylinder of calcium carbonate hanging from the roof of a limestone cave.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The moon--the regal moon--intensely bright, Shines through the roseate window of the west; Each shaft, an artificial stalactite Of pendent stone, with slumber seems oppressed, Or with a charmèd dream of peaceful rapture blessed."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"In one place, near at hand, a stalagmite had been slowly growing up from the ground for ages, builded by the water-drip from a stalactite overhead."*

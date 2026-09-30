@@ -5,13 +5,6 @@ status: unread
 ---
 # relativise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider or treat as relative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider or treat as relative.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relativise designates consider or treat as relative."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider or treat as relative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider or treat as relative.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relativise designates consider or treat as relative."*

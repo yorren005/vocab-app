@@ -5,13 +5,6 @@ status: unread
 ---
 # fulgurating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sharp and piercing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sharp and piercing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fulgurating designates sharp and piercing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sharp and piercing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sharp and piercing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fulgurating designates sharp and piercing."*

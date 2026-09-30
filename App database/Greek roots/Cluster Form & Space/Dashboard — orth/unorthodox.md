@@ -5,13 +5,6 @@ status: unread
 ---
 # unorthodox
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Independent in behavior or thought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breaking with convention or tradition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Bridget had the real characteristic Irish faculty of looking upon life as an amusing game, and the more novel and unorthodox the game was, the better she was pleased."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Independent in behavior or thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breaking with convention or tradition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Bridget had the real characteristic Irish faculty of looking upon life as an amusing game, and the more novel and unorthodox the game was, the better she was pleased."*

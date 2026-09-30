@@ -5,13 +5,6 @@ status: unread
 ---
 # carcinoma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant tumor of epithelial origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A carcinoma that is made up of or arises from squamous cells and usually occurs in areas of the body exposed to strong sunlight over many years.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carcinoma designates a malignant tumor of epithelial origin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant tumor of epithelial origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A carcinoma that is made up of or arises from squamous cells and usually occurs in areas of the body exposed to strong sunlight over many years.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carcinoma designates a malignant tumor of epithelial origin."*

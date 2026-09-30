@@ -5,13 +5,6 @@ status: unread
 ---
 # kilo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of mass or weight equaling one thousand grams or approximately 2.2 pounds : kilogram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: —used as a code word for the letter k.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kilo designates a unit of mass or weight equaling one thousand grams or approximately 2.2 pounds : kilogram."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of mass or weight equaling one thousand grams or approximately 2.2 pounds : kilogram.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: —used as a code word for the letter k.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kilo designates a unit of mass or weight equaling one thousand grams or approximately 2.2 pounds : kilogram."*

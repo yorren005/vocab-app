@@ -5,13 +5,6 @@ status: unread
 ---
 # somatopleure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex fold of tissue in the embryo of a craniate vertebrate consisting of an outer layer of mesoderm together with the ectoderm that sheathes it and giving rise to the amnion and chorion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex fold of tissue in the embryo of a craniate vertebrate consisting of an outer layer of mesoderm together with the ectoderm that sheathes it and giving rise to the amnion and chorion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somatopleure designates a complex fold of tissue in the embryo of a craniate vertebrate consisting of an outer layer of mesoderm together with the ectoderm that sheathes it and giving rise to the amnion and chorion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex fold of tissue in the embryo of a craniate vertebrate consisting of an outer layer of mesoderm together with the ectoderm that sheathes it and giving rise to the amnion and chorion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex fold of tissue in the embryo of a craniate vertebrate consisting of an outer layer of mesoderm together with the ectoderm that sheathes it and giving rise to the amnion and chorion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somatopleure designates a complex fold of tissue in the embryo of a craniate vertebrate consisting of an outer layer of mesoderm together with the ectoderm that sheathes it and giving rise to the amnion and chorion."*

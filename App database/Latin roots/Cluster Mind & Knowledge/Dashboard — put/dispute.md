@@ -5,15 +5,6 @@ status: unread
 ---
 # dispute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disagreement or argument about something important.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming into conflict with.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whether your Grace be worthy, yea or no, Dispute not that; York is the worthier."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dispute not with her; she is lunatic."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me dispute with thee of thy estate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disagreement or argument about something important.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming into conflict with.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whether your Grace be worthy, yea or no, Dispute not that; York is the worthier."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dispute not with her; she is lunatic."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me dispute with thee of thy estate."*

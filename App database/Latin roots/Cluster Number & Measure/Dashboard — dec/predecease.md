@@ -5,14 +5,6 @@ status: unread
 ---
 # predecease
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Die before; die earlier than.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Die before; die earlier than.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If children predecease progenitors, We are their offspring, and they none of ours."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will you mock at an ancient tradition, begun upon an honourable respect, and worn as a memorable trophy of predeceased valour, and dare not avouch in your deeds any of your words?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Die before; die earlier than.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Die before; die earlier than.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If children predecease progenitors, We are their offspring, and they none of ours."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will you mock at an ancient tradition, begun upon an honourable respect, and worn as a memorable trophy of predeceased valour, and dare not avouch in your deeds any of your words?"*

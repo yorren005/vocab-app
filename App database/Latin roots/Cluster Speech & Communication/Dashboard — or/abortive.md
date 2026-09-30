@@ -5,15 +5,6 @@ status: unread
 ---
 # abortive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to accomplish an intended result.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failing to accomplish an intended result.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Remember it, and let it make thee crestfallen, Ay, and allay thus thy abortive pride."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should I joy in any abortive birth?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If ever he have child, abortive be it, Prodigious, and untimely brought to light, Whose ugly and unnatural aspect May fright the hopeful mother at the view, And that be heir to his unhappiness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to accomplish an intended result.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failing to accomplish an intended result.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Remember it, and let it make thee crestfallen, Ay, and allay thus thy abortive pride."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should I joy in any abortive birth?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If ever he have child, abortive be it, Prodigious, and untimely brought to light, Whose ugly and unnatural aspect May fright the hopeful mother at the view, And that be heir to his unhappiness."*

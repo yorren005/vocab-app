@@ -5,13 +5,6 @@ status: unread
 ---
 # catalufa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brightly colored carnivorous fish of western atlantic and west indies waters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brightly colored carnivorous fish of western atlantic and west indies waters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catalufa designates brightly colored carnivorous fish of western atlantic and west indies waters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brightly colored carnivorous fish of western atlantic and west indies waters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brightly colored carnivorous fish of western atlantic and west indies waters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catalufa designates brightly colored carnivorous fish of western atlantic and west indies waters."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # stylophorum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wood poppies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wood poppies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylophorum designates wood poppies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wood poppies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wood poppies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stylophorum designates wood poppies."*

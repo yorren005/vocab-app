@@ -5,13 +5,6 @@ status: unread
 ---
 # undulant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling waves in form or outline or motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling waves in form or outline or motion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"Like sea-cliffs and caves resounded their ranks With shoulders like waves, and undulant flanks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling waves in form or outline or motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling waves in form or outline or motion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"Like sea-cliffs and caves resounded their ranks With shoulders like waves, and undulant flanks."*

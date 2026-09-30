@@ -5,15 +5,6 @@ status: unread
 ---
 # sceptically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With scepticism; in a sceptical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With scepticism; in a sceptical manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Skene received this sceptically, and cross-examined the narrator as to the manner and effect of the blow, with the result of convincing himself that the story was true."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"I’d mightily like one for a pet.” “If we could catch one,” Sure-dart answered rather sceptically, “he would be all right for a pet; but--well, we can’t tell."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"Some others, though they said less, smiled sceptically; and a few looked wise, which in fact was a shrewd way to leave them in the right, no matter what happened."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With scepticism; in a sceptical manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With scepticism; in a sceptical manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Skene received this sceptically, and cross-examined the narrator as to the manner and effect of the blow, with the result of convincing himself that the story was true."*
+> - 📜 **F. H. Costello (*Sure-dart*):** *"I’d mightily like one for a pet.” “If we could catch one,” Sure-dart answered rather sceptically, “he would be all right for a pet; but--well, we can’t tell."*
+> - 📜 **F. H. Costello (*Sure-dart*):** *"Some others, though they said less, smiled sceptically; and a few looked wise, which in fact was a shrewd way to leave them in the right, no matter what happened."*

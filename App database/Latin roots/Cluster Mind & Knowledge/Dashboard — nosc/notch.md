@@ -5,15 +5,6 @@ status: unread
 ---
 # notch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A v-shaped indentation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The location in a range of mountains of a geological formation that is lower than the surrounding peaks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And she’ve a few soft corners to her mind, though I’ve never been able to get into one, the devil’s in’t!” “Ah, baily, she’s a notch above you, and you must own it: a higher class of animal—a finer tissue."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Upon this oar I spent much time, carving minute letters and cutting a notch for each week that passed."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In one place on the oar I cut a small notch for each week, and in another place on the oar I notched the months, being duly careful indeed, to reckon in the additional days to each month over and beyond the four weeks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A v-shaped indentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The location in a range of mountains of a geological formation that is lower than the surrounding peaks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And she’ve a few soft corners to her mind, though I’ve never been able to get into one, the devil’s in’t!” “Ah, baily, she’s a notch above you, and you must own it: a higher class of animal—a finer tissue."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Upon this oar I spent much time, carving minute letters and cutting a notch for each week that passed."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In one place on the oar I cut a small notch for each week, and in another place on the oar I notched the months, being duly careful indeed, to reckon in the additional days to each month over and beyond the four weeks."*

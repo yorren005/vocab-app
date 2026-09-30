@@ -5,13 +5,6 @@ status: unread
 ---
 # cephalic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Directed toward or situated on or in or near the head.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"The proposition, and demonstration, were fairly written on a thin wafer, with ink composed of a cephalic tincture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Directed toward or situated on or in or near the head.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"The proposition, and demonstration, were fairly written on a thin wafer, with ink composed of a cephalic tincture."*

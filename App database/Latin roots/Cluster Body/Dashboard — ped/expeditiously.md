@@ -5,15 +5,6 @@ status: unread
 ---
 # expeditiously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With efficiency; in an efficient manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With efficiency; in an efficient manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But I dressed and wrapped up expeditiously without waking Charley or any one and went down to Mr."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Hamel, whom Chong Mong-ju divined as my brains, was executed by the paddle—in short, was promptly and expeditiously beaten to death to the delighted shouts of the Keijo populace."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It is not likely that money should be very abundant on either side; and it might strike them that they could be more economically, though less expeditiously, married in London, than in Scotland.” “But why all this secrecy?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With efficiency; in an efficient manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With efficiency; in an efficient manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But I dressed and wrapped up expeditiously without waking Charley or any one and went down to Mr."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Hamel, whom Chong Mong-ju divined as my brains, was executed by the paddle—in short, was promptly and expeditiously beaten to death to the delighted shouts of the Keijo populace."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It is not likely that money should be very abundant on either side; and it might strike them that they could be more economically, though less expeditiously, married in London, than in Scotland.” “But why all this secrecy?"*

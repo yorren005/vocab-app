@@ -5,13 +5,6 @@ status: unread
 ---
 # sudorific
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine that causes or increases sweating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inducing perspiration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"The only relic of their occupation is a Bible with half the pages torn out, and the rest scrawled with records of bets, recipes for sudorific and other medicines, and a mass of unintelligible memoranda."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine that causes or increases sweating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inducing perspiration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"The only relic of their occupation is a Bible with half the pages torn out, and the rest scrawled with records of bets, recipes for sudorific and other medicines, and a mass of unintelligible memoranda."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # salutary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to promote physical well-being; beneficial to health.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to promote physical well-being; beneficial to health.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The fluid was applied by means of a wisp of straw, and the person who discharged this salutary office went round the house in the direction of the sun."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The fire, the smoke, the shots, and the shouts are all intended to scare away the witches, who are let loose on this witching day, and who would certainly work harm to the crops and the cattle, if they were not deterred by these salutary measures."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Strange to say, this salutary measure had no effect whatever in staying the cattle-plague, and seven years later the sapient Joh."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to promote physical well-being; beneficial to health.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to promote physical well-being; beneficial to health.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The fluid was applied by means of a wisp of straw, and the person who discharged this salutary office went round the house in the direction of the sun."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The fire, the smoke, the shots, and the shouts are all intended to scare away the witches, who are let loose on this witching day, and who would certainly work harm to the crops and the cattle, if they were not deterred by these salutary measures."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Strange to say, this salutary measure had no effect whatever in staying the cattle-plague, and seven years later the sapient Joh."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # acquiesce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To agree or express agreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To agree or express agreement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"My wife does not question, she believes much; and in respect to that which she cannot acquiesce in, she is silent."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Henry’s indignation on hearing how Catherine had been treated, on comprehending his father’s views, and being ordered to acquiesce in them, had been open and bold."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Then let us cheerfu’ acquiesce, Nor make our scanty pleasures less, By pining at our state: And, even should misfortunes come, I, here wha sit, hae met wi’ some— An’s thankfu’ for them yet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To agree or express agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To agree or express agreement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"My wife does not question, she believes much; and in respect to that which she cannot acquiesce in, she is silent."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Henry’s indignation on hearing how Catherine had been treated, on comprehending his father’s views, and being ordered to acquiesce in them, had been open and bold."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Then let us cheerfu’ acquiesce, Nor make our scanty pleasures less, By pining at our state: And, even should misfortunes come, I, here wha sit, hae met wi’ some— An’s thankfu’ for them yet."*

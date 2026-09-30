@@ -5,13 +5,6 @@ status: unread
 ---
 # moneses
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: one-flowered wintergreen; sometimes included in genus pyrola.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: one-flowered wintergreen; sometimes included in genus pyrola.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moneses designates one species: one-flowered wintergreen; sometimes included in genus pyrola."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: one-flowered wintergreen; sometimes included in genus pyrola.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: one-flowered wintergreen; sometimes included in genus pyrola.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moneses designates one species: one-flowered wintergreen; sometimes included in genus pyrola."*

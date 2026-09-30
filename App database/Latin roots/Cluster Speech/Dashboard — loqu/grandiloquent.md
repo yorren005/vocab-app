@@ -5,15 +5,6 @@ status: unread
 ---
 # grandiloquent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lofty in style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Puffed up with vanity; ; ; ; - newsweek.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Applied to any other creature than the Leviathan—to an ant or a flea—such portly terms might justly be deemed unwarrantably grandiloquent."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Lord God of might, God of our salvation!” began the priest in that voice, clear, not grandiloquent but mild, in which only the Slav clergy read and which acts so irresistibly on a Russian heart."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Applied to any other creature than the Leviathan—to an ant or a flea—such portly terms might justly be deemed unwarrantably grandiloquent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lofty in style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Puffed up with vanity; ; ; ; - newsweek.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Applied to any other creature than the Leviathan—to an ant or a flea—such portly terms might justly be deemed unwarrantably grandiloquent."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Lord God of might, God of our salvation!” began the priest in that voice, clear, not grandiloquent but mild, in which only the Slav clergy read and which acts so irresistibly on a Russian heart."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Applied to any other creature than the Leviathan—to an ant or a flea—such portly terms might justly be deemed unwarrantably grandiloquent."*

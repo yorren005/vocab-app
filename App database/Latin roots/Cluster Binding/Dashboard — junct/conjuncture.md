@@ -5,15 +5,6 @@ status: unread
 ---
 # conjuncture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A critical combination of events or circumstances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A critical combination of events or circumstances.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"This was a wonderful conjuncture of time, desire and amount, and could never have happened by any chance operation of Nature or the natural heart and will."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This end will be answered by committing the right of making it, not to any preestablished body, but to men chosen by the people for the special purpose, and at the particular conjuncture."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"An unprincipled fellow who, by the influence of hereditary or acquired wealth, by superior abilities or by a lucky conjuncture of circumstances, obtains a principal place in the administration of the affairs of government."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A critical combination of events or circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A critical combination of events or circumstances.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"This was a wonderful conjuncture of time, desire and amount, and could never have happened by any chance operation of Nature or the natural heart and will."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This end will be answered by committing the right of making it, not to any preestablished body, but to men chosen by the people for the special purpose, and at the particular conjuncture."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"An unprincipled fellow who, by the influence of hereditary or acquired wealth, by superior abilities or by a lucky conjuncture of circumstances, obtains a principal place in the administration of the affairs of government."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # vicissitude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variation in circumstances or fortune at different times in your life or in the development of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mutability in life or nature (especially successive alternation from one condition to another).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A correspondent of the _Guide to Holiness_ says: "We remember a poor woman who had had a life of sore vicissitude which she bore with remarkable Christian cheerfulness; and after a time of the suspension of trial, a bad prospect came in sight."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Never, in the days of vicissitude that came later, did Taiwun doubt my claim of Korean birth."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"THE NEW ACQUAINTANCE DESCRIBED Idiosyncrasy and vicissitude had combined to stamp Sergeant Troy as an exceptional being."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variation in circumstances or fortune at different times in your life or in the development of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mutability in life or nature (especially successive alternation from one condition to another).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A correspondent of the _Guide to Holiness_ says: "We remember a poor woman who had had a life of sore vicissitude which she bore with remarkable Christian cheerfulness; and after a time of the suspension of trial, a bad prospect came in sight."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Never, in the days of vicissitude that came later, did Taiwun doubt my claim of Korean birth."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"THE NEW ACQUAINTANCE DESCRIBED Idiosyncrasy and vicissitude had combined to stamp Sergeant Troy as an exceptional being."*

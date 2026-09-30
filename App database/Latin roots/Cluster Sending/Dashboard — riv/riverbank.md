@@ -5,15 +5,6 @@ status: unread
 ---
 # riverbank
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The bank of a river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bank of a river.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Catching sight of Laura he slipped across a low boundary wall, his brown mare, a thoroughbred, changing her feet in a ladylike way on the worn stones, and trotted down to the riverbank, raising his cap."*
-> - 📜 **Effie Afton (*Eventide*):** *"The woman threw a coarse, threadbare blanket over her shoulders and went forth, while the boy bent his way along the riverbank in search of dry twigs and branches with which to replenish their wasted stock of fuel."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Next day, overtaking the army, he went in a carriage to the Niemen, and, changing into a Polish uniform, he drove to the riverbank in order to select a place for the crossing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The bank of a river.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bank of a river.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Catching sight of Laura he slipped across a low boundary wall, his brown mare, a thoroughbred, changing her feet in a ladylike way on the worn stones, and trotted down to the riverbank, raising his cap."*
+> - 📜 **Effie Afton (*Eventide*):** *"The woman threw a coarse, threadbare blanket over her shoulders and went forth, while the boy bent his way along the riverbank in search of dry twigs and branches with which to replenish their wasted stock of fuel."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Next day, overtaking the army, he went in a carriage to the Niemen, and, changing into a Polish uniform, he drove to the riverbank in order to select a place for the crossing."*

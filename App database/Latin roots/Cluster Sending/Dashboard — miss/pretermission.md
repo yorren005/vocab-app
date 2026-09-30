@@ -5,13 +5,6 @@ status: unread
 ---
 # pretermission
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Letting pass without notice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Letting pass without notice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Should his child sicken unto death,--why, look For scarce abatement of his cheerfulness, {160} Or pretermission of the daily craft!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Letting pass without notice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Letting pass without notice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Should his child sicken unto death,--why, look For scarce abatement of his cheerfulness, {160} Or pretermission of the daily craft!"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # plasmacyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell that develops from a b lymphocyte in reaction to a specific antigen; found in bone marrow and sometimes in the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cell that develops from a b lymphocyte in reaction to a specific antigen; found in bone marrow and sometimes in the blood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmacyte designates a cell that develops from a b lymphocyte in reaction to a specific antigen; found in bone marrow and sometimes in the blood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell that develops from a b lymphocyte in reaction to a specific antigen; found in bone marrow and sometimes in the blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cell that develops from a b lymphocyte in reaction to a specific antigen; found in bone marrow and sometimes in the blood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmacyte designates a cell that develops from a b lymphocyte in reaction to a specific antigen; found in bone marrow and sometimes in the blood."*

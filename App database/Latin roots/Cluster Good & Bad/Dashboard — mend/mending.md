@@ -5,15 +5,6 @@ status: unread
 ---
 # mending
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Garments that must be repaired.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting something in working order again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, this is like the mending of highways In summer, where the ways are fair enough."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did never think to marry: I must not seem proud: happy are they that hear their detractions, and can put them to mending."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"This is for mother for her mending" Mäzli called out looking with suspense at her uncle's fingers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Garments that must be repaired.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting something in working order again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, this is like the mending of highways In summer, where the ways are fair enough."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did never think to marry: I must not seem proud: happy are they that hear their detractions, and can put them to mending."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"This is for mother for her mending" Mäzli called out looking with suspense at her uncle's fingers."*

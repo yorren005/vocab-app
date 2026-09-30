@@ -5,15 +5,6 @@ status: unread
 ---
 # punctured
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pierce with a pointed object; make a hole into.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make by piercing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The adjacent low-lying ground for half a mile in breadth is a stagnant river with melancholy trees for islands in it and a surface punctured all over, all day long, with falling rain."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Passing his hand over the sheep’s left flank, and selecting the proper point, he punctured the skin and rumen with the lance as it stood in the tube; then he suddenly withdrew the lance, retaining the tube in its place."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Passing his hand over the sheep’s left flank, and selecting the proper point, he punctured the skin and rumen with the lance as it stood in the tube; then he suddenly withdrew the lance, retaining the tube in its place."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pierce with a pointed object; make a hole into.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make by piercing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The adjacent low-lying ground for half a mile in breadth is a stagnant river with melancholy trees for islands in it and a surface punctured all over, all day long, with falling rain."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Passing his hand over the sheep’s left flank, and selecting the proper point, he punctured the skin and rumen with the lance as it stood in the tube; then he suddenly withdrew the lance, retaining the tube in its place."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Passing his hand over the sheep’s left flank, and selecting the proper point, he punctured the skin and rumen with the lance as it stood in the tube; then he suddenly withdrew the lance, retaining the tube in its place."*

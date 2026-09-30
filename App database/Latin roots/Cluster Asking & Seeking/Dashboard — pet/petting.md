@@ -5,15 +5,6 @@ status: unread
 ---
 # petting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affectionate play (or foreplay without contact with the genital organs).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stroke or caress gently.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge, looking over his glasses at me and softly turning the case about and about as if he were petting something."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I believe all the petting that is given them does not make them happy."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Vincy’s, and gradually the visits became cheerful as Fred became simply feeble, and lay not only in need of the utmost petting but conscious of it, so that Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affectionate play (or foreplay without contact with the genital organs).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stroke or caress gently.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge, looking over his glasses at me and softly turning the case about and about as if he were petting something."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I believe all the petting that is given them does not make them happy."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Vincy’s, and gradually the visits became cheerful as Fred became simply feeble, and lay not only in need of the utmost petting but conscious of it, so that Mrs."*

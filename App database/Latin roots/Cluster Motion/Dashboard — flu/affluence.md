@@ -5,15 +5,6 @@ status: unread
 ---
 # affluence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abundant wealth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abundant wealth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She had been used to affluence: it was gone."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The kettle boiled, the children cried for bread; the afflicted father, standing before the fire, felt those deep emotions of heart over his helplessness and impending starvation which those reared in affluence never know."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"In her animal spirits there was an affluence of life and certainty of flow, such as excited my wonder, while it baffled my comprehension."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abundant wealth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abundant wealth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"She had been used to affluence: it was gone."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The kettle boiled, the children cried for bread; the afflicted father, standing before the fire, felt those deep emotions of heart over his helplessness and impending starvation which those reared in affluence never know."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"In her animal spirits there was an affluence of life and certainty of flow, such as excited my wonder, while it baffled my comprehension."*

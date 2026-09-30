@@ -5,15 +5,6 @@ status: unread
 ---
 # inaccessible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being reached only with great difficulty or not at all.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being obtained.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Uninhabitable, and almost inaccessible,— SEBASTIAN."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Mary was not so repulsive and unsisterly as Elizabeth, nor so inaccessible to all influence of hers; neither was there anything among the other component parts of the cottage inimical to comfort."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Since the island was almost inaccessible, at night my repose was not disturbed by continual apprehension of the approach of cannibals or of beasts of prey."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being reached only with great difficulty or not at all.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being obtained.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Uninhabitable, and almost inaccessible,— SEBASTIAN."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Mary was not so repulsive and unsisterly as Elizabeth, nor so inaccessible to all influence of hers; neither was there anything among the other component parts of the cottage inimical to comfort."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Since the island was almost inaccessible, at night my repose was not disturbed by continual apprehension of the approach of cannibals or of beasts of prey."*

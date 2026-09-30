@@ -5,13 +5,6 @@ status: unread
 ---
 # conservancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A commission with jurisdiction over fisheries and navigation in a port or river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official conservation of trees and soil and rivers etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conservancy designates a commission with jurisdiction over fisheries and navigation in a port or river."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commission with jurisdiction over fisheries and navigation in a port or river.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official conservation of trees and soil and rivers etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conservancy designates a commission with jurisdiction over fisheries and navigation in a port or river."*

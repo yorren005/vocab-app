@@ -5,13 +5,6 @@ status: unread
 ---
 # cooperstown
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small town in east central new york; site of the national baseball hall of fame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small town in east central new york; site of the national baseball hall of fame.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cooperstown designates a small town in east central new york; site of the national baseball hall of fame."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small town in east central new york; site of the national baseball hall of fame.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small town in east central new york; site of the national baseball hall of fame.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cooperstown designates a small town in east central new york; site of the national baseball hall of fame."*

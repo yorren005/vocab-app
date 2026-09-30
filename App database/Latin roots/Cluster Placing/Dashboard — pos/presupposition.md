@@ -5,13 +5,6 @@ status: unread
 ---
 # presupposition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of presupposing; a supposition made prior to having knowledge (as for the purpose of argument).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of presupposing; a supposition made prior to having knowledge (as for the purpose of argument).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"As far as I have been able to divine the latent meaning of the objectors, it seems to originate in a presupposition that the people will be disinclined to the exercise of federal authority in any matter of an internal nature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of presupposing; a supposition made prior to having knowledge (as for the purpose of argument).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of presupposing; a supposition made prior to having knowledge (as for the purpose of argument).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"As far as I have been able to divine the latent meaning of the objectors, it seems to originate in a presupposition that the people will be disinclined to the exercise of federal authority in any matter of an internal nature."*

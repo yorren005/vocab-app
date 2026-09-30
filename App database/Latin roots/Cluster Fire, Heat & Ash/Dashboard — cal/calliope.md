@@ -5,13 +5,6 @@ status: unread
 ---
 # calliope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the muse of epic poetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical instrument consisting of a series of steam whistles played from a keyboard.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"BARHAM" 68 LIGHT CRUISER "CALLIOPE" AT SCAPA 69 "MAKE AND MEND" ON LIGHT CRUISER "YARMOUTH" 69 THE DECK OF AN AEROPLANE CARRIER, H.M.S."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the muse of epic poetry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical instrument consisting of a series of steam whistles played from a keyboard.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"BARHAM" 68 LIGHT CRUISER "CALLIOPE" AT SCAPA 69 "MAKE AND MEND" ON LIGHT CRUISER "YARMOUTH" 69 THE DECK OF AN AEROPLANE CARRIER, H.M.S."*

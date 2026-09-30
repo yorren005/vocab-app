@@ -5,13 +5,6 @@ status: unread
 ---
 # fallout
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The radioactive particles that settle to the ground after a nuclear explosion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any adverse and unwanted secondary effect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fallout designates the radioactive particles that settle to the ground after a nuclear explosion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The radioactive particles that settle to the ground after a nuclear explosion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any adverse and unwanted secondary effect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fallout designates the radioactive particles that settle to the ground after a nuclear explosion."*

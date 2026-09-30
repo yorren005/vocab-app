@@ -5,13 +5,6 @@ status: unread
 ---
 # semiprecious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of gemstones having less commercial value than precious stones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of gemstones having less commercial value than precious stones.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiprecious designates used of gemstones having less commercial value than precious stones."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of gemstones having less commercial value than precious stones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of gemstones having less commercial value than precious stones.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiprecious designates used of gemstones having less commercial value than precious stones."*

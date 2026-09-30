@@ -5,15 +5,6 @@ status: unread
 ---
 # movement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A change of position that does not entail a change of location.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of changing location from one place to another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The golden moon above was going her way and seemed to look down with friendly eyes, as if she was gratified that the house, which was filled all day with such noise and lively movement, was standing there so calm and peaceful."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But now, when Tom cried, although she sat quite tranquil, looking quietly at us, and did not by any movement disturb a hair of the head of either of her little charges, I saw two silent tears fall down her face."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The air, the movement in the court, the lapse of time, or the combination of these things recovers him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A change of position that does not entail a change of location.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of changing location from one place to another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The golden moon above was going her way and seemed to look down with friendly eyes, as if she was gratified that the house, which was filled all day with such noise and lively movement, was standing there so calm and peaceful."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But now, when Tom cried, although she sat quite tranquil, looking quietly at us, and did not by any movement disturb a hair of the head of either of her little charges, I saw two silent tears fall down her face."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The air, the movement in the court, the lapse of time, or the combination of these things recovers him."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # contextualism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any doctrine emphasizing the importance of the context in solving problems or establishing the meaning of terms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any doctrine emphasizing the importance of the context in solving problems or establishing the meaning of terms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contextualism designates any doctrine emphasizing the importance of the context in solving problems or establishing the meaning of terms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any doctrine emphasizing the importance of the context in solving problems or establishing the meaning of terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any doctrine emphasizing the importance of the context in solving problems or establishing the meaning of terms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contextualism designates any doctrine emphasizing the importance of the context in solving problems or establishing the meaning of terms."*

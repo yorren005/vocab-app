@@ -5,13 +5,6 @@ status: unread
 ---
 # cupric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or containing divalent copper.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or containing divalent copper.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It is readily formed by the oxidation of copper, and melts at a red heat without decomposition; further heating in the presence of air produces the cupric oxide which is less fusible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or containing divalent copper.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or containing divalent copper.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It is readily formed by the oxidation of copper, and melts at a red heat without decomposition; further heating in the presence of air produces the cupric oxide which is less fusible."*

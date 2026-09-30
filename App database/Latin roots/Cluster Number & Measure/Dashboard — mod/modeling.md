@@ -5,13 +5,6 @@ status: unread
 ---
 # modeling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sculpture produced by molding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A preliminary sculpture in wax or clay from which a finished work can be copied.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And Solon, according to Plutarch, was in a manner compelled, by the universal suffrage of his fellow-citizens, to take upon him the sole and absolute power of new-modeling the constitution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sculpture produced by molding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A preliminary sculpture in wax or clay from which a finished work can be copied.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And Solon, according to Plutarch, was in a manner compelled, by the universal suffrage of his fellow-citizens, to take upon him the sole and absolute power of new-modeling the constitution."*

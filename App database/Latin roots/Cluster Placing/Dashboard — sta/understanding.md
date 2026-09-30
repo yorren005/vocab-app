@@ -5,15 +5,6 @@ status: unread
 ---
 # understanding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cognitive condition of someone who understands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The statement (oral or written) of an exchange of promises.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When a man’s verses cannot be understood, nor a man’s good wit seconded with the forward child, understanding, it strikes a man more dead than a great reckoning in a little room."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray you all, If you have hitherto conceal’d this sight, Let it be tenable in your silence still; And whatsoever else shall hap tonight, Give it an understanding, but no tongue."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What it should be, More than his father’s death, that thus hath put him So much from th’understanding of himself, I cannot dream of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cognitive condition of someone who understands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The statement (oral or written) of an exchange of promises.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When a man’s verses cannot be understood, nor a man’s good wit seconded with the forward child, understanding, it strikes a man more dead than a great reckoning in a little room."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray you all, If you have hitherto conceal’d this sight, Let it be tenable in your silence still; And whatsoever else shall hap tonight, Give it an understanding, but no tongue."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What it should be, More than his father’s death, that thus hath put him So much from th’understanding of himself, I cannot dream of."*

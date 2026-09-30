@@ -5,15 +5,6 @@ status: unread
 ---
 # ranee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (the feminine of raja) a hindu princess or the wife of a raja.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (the feminine of raja) a hindu princess or the wife of a raja.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"Not only does the Ranee believe that the recovery of this gem will ensure the prosperity of the descendants of Runjeet Singh, but I do firmly believe that its re-possession will rally the Sikh forces to form again a conquering faith."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"You go to-morrow to Ferazpore, where you will meet again Rajah Lal, who has perhaps more influence with our clever Ranee than many a better man."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"The splendour of her jewels proclaimed the Ranee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (the feminine of raja) a hindu princess or the wife of a raja.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (the feminine of raja) a hindu princess or the wife of a raja.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **C. A. Frazer (*Atmâ*):** *"Not only does the Ranee believe that the recovery of this gem will ensure the prosperity of the descendants of Runjeet Singh, but I do firmly believe that its re-possession will rally the Sikh forces to form again a conquering faith."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"You go to-morrow to Ferazpore, where you will meet again Rajah Lal, who has perhaps more influence with our clever Ranee than many a better man."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"The splendour of her jewels proclaimed the Ranee."*

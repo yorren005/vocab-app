@@ -5,13 +5,6 @@ status: unread
 ---
 # biont
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A discrete unit of living matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A discrete unit of living matter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biont designates a discrete unit of living matter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A discrete unit of living matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A discrete unit of living matter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biont designates a discrete unit of living matter."*

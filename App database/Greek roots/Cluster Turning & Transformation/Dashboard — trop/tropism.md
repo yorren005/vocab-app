@@ -5,13 +5,6 @@ status: unread
 ---
 # tropism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involuntary orientation by an organism or one of its parts that involves turning or curving by movement or by differential growth and is a positive or negative response to a source of stimulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reflex reaction involving a tropism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tropism designates involuntary orientation by an organism or one of its parts that involves turning or curving by movement or by differential growth and is a positive or negative response to a source of stimulation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involuntary orientation by an organism or one of its parts that involves turning or curving by movement or by differential growth and is a positive or negative response to a source of stimulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reflex reaction involving a tropism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tropism designates involuntary orientation by an organism or one of its parts that involves turning or curving by movement or by differential growth and is a positive or negative response to a source of stimulation."*

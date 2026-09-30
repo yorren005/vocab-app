@@ -5,15 +5,6 @@ status: unread
 ---
 # suppositional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based primarily on surmise rather than adequate evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based primarily on surmise rather than adequate evidence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Scientific phenomena 72:21 God, good, being ever present, it follows in divine logic that evil, the suppositional opposite of good, is never present."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"This is because erroneous methods act on and through the ma- terial stratum of the human mind, called brain, which is 185:30 but a mortal consolidation of material mentality and its suppositional activities."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The suppositional antipode of divine infinite Spirit 200:21 is the so-called human soul or spirit, in other words the five senses, - the flesh that warreth against Spirit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based primarily on surmise rather than adequate evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based primarily on surmise rather than adequate evidence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Scientific phenomena 72:21 God, good, being ever present, it follows in divine logic that evil, the suppositional opposite of good, is never present."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"This is because erroneous methods act on and through the ma- terial stratum of the human mind, called brain, which is 185:30 but a mortal consolidation of material mentality and its suppositional activities."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The suppositional antipode of divine infinite Spirit 200:21 is the so-called human soul or spirit, in other words the five senses, - the flesh that warreth against Spirit."*

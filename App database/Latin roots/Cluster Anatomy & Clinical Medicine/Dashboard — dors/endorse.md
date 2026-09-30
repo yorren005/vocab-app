@@ -5,15 +5,6 @@ status: unread
 ---
 # endorse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be behind; approve of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give support or one's approval to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"By these passages it is plain that a sign or a wonder does not establish a doctrine or endorse a man as certainly being _from God_."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Hence the Scriptures often appear in 488:12 our common version to approve and endorse belief, when they mean to enforce the necessity of understanding."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"While not endorsing his third party scheme (our party is good enough) we endorse the spirit of initiative and independence that prompts it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be behind; approve of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give support or one's approval to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"By these passages it is plain that a sign or a wonder does not establish a doctrine or endorse a man as certainly being _from God_."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Hence the Scriptures often appear in 488:12 our common version to approve and endorse belief, when they mean to enforce the necessity of understanding."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"While not endorsing his third party scheme (our party is good enough) we endorse the spirit of initiative and independence that prompts it."*

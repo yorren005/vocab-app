@@ -5,15 +5,6 @@ status: unread
 ---
 # porcelain
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ceramic ware made of a more or less translucent ceramic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ceramic ware made of a more or less translucent ceramic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"This was the time for Wemmick to produce a little kettle, a tray of glasses, and a black bottle with a porcelain-topped cork, representing some clerical dignitary of a rubicund and social aspect."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"In Russia the poorer people use a large porcelain stove, flat on top like a great table, with a small fire inside which gives out a gentle, summer-like warmth."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"High oaken sideboards, inlaid with ebony, stood at the two extremities of the room, and upon their shelves glittered china, porcelain, and glass of inestimable value."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ceramic ware made of a more or less translucent ceramic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ceramic ware made of a more or less translucent ceramic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"This was the time for Wemmick to produce a little kettle, a tray of glasses, and a black bottle with a porcelain-topped cork, representing some clerical dignitary of a rubicund and social aspect."*
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"In Russia the poorer people use a large porcelain stove, flat on top like a great table, with a small fire inside which gives out a gentle, summer-like warmth."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"High oaken sideboards, inlaid with ebony, stood at the two extremities of the room, and upon their shelves glittered china, porcelain, and glass of inestimable value."*

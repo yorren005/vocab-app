@@ -5,13 +5,6 @@ status: unread
 ---
 # scattergun
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Firearm that is a double-barreled smoothbore shoulder weapon for firing shot at short ranges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Firearm that is a double-barreled smoothbore shoulder weapon for firing shot at short ranges.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scattergun designates firearm that is a double-barreled smoothbore shoulder weapon for firing shot at short ranges."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Firearm that is a double-barreled smoothbore shoulder weapon for firing shot at short ranges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Firearm that is a double-barreled smoothbore shoulder weapon for firing shot at short ranges.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scattergun designates firearm that is a double-barreled smoothbore shoulder weapon for firing shot at short ranges."*

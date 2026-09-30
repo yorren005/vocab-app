@@ -5,13 +5,6 @@ status: unread
 ---
 # surgically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a surgical manner; by means of surgery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a surgical manner; by means of surgery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surgically designates in a surgical manner; by means of surgery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a surgical manner; by means of surgery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a surgical manner; by means of surgery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surgically designates in a surgical manner; by means of surgery."*

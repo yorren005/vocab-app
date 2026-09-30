@@ -5,13 +5,6 @@ status: unread
 ---
 # dendrobium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant of the genus dendrobium having stems like cane and usually showy racemose flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant of the genus dendrobium having stems like cane and usually showy racemose flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendrobium designates a plant of the genus dendrobium having stems like cane and usually showy racemose flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant of the genus dendrobium having stems like cane and usually showy racemose flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant of the genus dendrobium having stems like cane and usually showy racemose flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendrobium designates a plant of the genus dendrobium having stems like cane and usually showy racemose flowers."*

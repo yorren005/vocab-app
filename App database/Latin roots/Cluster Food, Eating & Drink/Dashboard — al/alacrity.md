@@ -5,15 +5,6 @@ status: unread
 ---
 # alacrity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liveliness and eagerness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liveliness and eagerness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The tyrant custom, most grave senators, Hath made the flinty and steel couch of war My thrice-driven bed of down: I do agnize A natural and prompt alacrity I find in hardness, and do undertake This present wars against the Ottomites."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have not that alacrity of spirit Nor cheer of mind that I was wont to have."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, with a bridegroom’s fresh alacrity Let us address to tend on Hector’s heels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Liveliness and eagerness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liveliness and eagerness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The tyrant custom, most grave senators, Hath made the flinty and steel couch of war My thrice-driven bed of down: I do agnize A natural and prompt alacrity I find in hardness, and do undertake This present wars against the Ottomites."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have not that alacrity of spirit Nor cheer of mind that I was wont to have."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, with a bridegroom’s fresh alacrity Let us address to tend on Hector’s heels."*

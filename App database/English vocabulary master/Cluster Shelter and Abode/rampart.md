@@ -5,20 +5,6 @@ status: unread
 ---
 # rampart
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Protective barrier : bulwark
-> 2. **Nuance / Usage**: Defensive structure; a protective barrier; a bulwark
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the rampart withstood the storm*), direct object (*cleaved the rampart*), or prepositional anchor (*amidst the rampart*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"Napoleon rode with them as far as the Dorogomílov gate, but there again stopped and, dismounting from his horse, paced for a long time by the Kámmer-Kollézski rampart."*
-> - 📜 **Herman Melville (*Moby Dick*):** *"Old as Pizarro, this whiteness keeps her ruins for ever new; spreads over her broken ramparts the rigid pallor of an apoplexy that fixes its own distortions."*
-> - 📜 **James Joyce (*Ulysses*):** *"An Irishman saved his life on the ramparts of Vienna."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A wide defensive wall or embankment of earth and stone surrounding a castle, fort, or city, typically having a broad walkway along the top.
+> 2. **Nuance / Usage**: Used figuratively for any bulwark, shield, or protective barrier that guards an institution or principle against threat.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the rampart withstood the storm*), direct object (*cleaved the rampart*), or prepositional anchor (*amidst the rampart*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Napoleon rode with them as far as the gate, and dismounting from his horse, paced for a long time by the **rampart**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Old as Pizarro, this whiteness keeps her ruins for ever new and spreads over her broken **ramparts**."*
+> - 📜 **James Joyce (*Ulysses*):** *"An Irishman saved his life on the **ramparts** of Vienna."*

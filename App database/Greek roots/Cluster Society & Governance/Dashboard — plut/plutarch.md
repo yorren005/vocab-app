@@ -5,15 +5,6 @@ status: unread
 ---
 # plutarch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greek biographer who wrote parallel lives (46?-120 ad).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greek biographer who wrote parallel lives (46?-120 ad).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Müller (Leipsic, 1839), p. 106, _s.v._ "Ignis." Plutarch describes a method of rekindling the sacred fire by means of the sun's rays reflected from a hollow mirror (_Numa_, 9); but he seems to be referring to a Greek rather than to the Roman custom."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Plutarch, who lived from about 50 A.D. to 117 or so, is our great exponent of this old religion."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Plutarch's Lives was the great staple of education in the Renaissance--and as good a one, perhaps, as we have yet discovered, even in this age when there are so many theories of education with foreign names."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Greek biographer who wrote parallel lives (46?-120 ad).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greek biographer who wrote parallel lives (46?-120 ad).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Müller (Leipsic, 1839), p. 106, _s.v._ "Ignis." Plutarch describes a method of rekindling the sacred fire by means of the sun's rays reflected from a hollow mirror (_Numa_, 9); but he seems to be referring to a Greek rather than to the Roman custom."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Plutarch, who lived from about 50 A.D. to 117 or so, is our great exponent of this old religion."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Plutarch's Lives was the great staple of education in the Renaissance--and as good a one, perhaps, as we have yet discovered, even in this age when there are so many theories of education with foreign names."*

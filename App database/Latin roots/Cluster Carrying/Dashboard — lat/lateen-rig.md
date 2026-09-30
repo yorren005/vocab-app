@@ -5,13 +5,6 @@ status: unread
 ---
 # lateen-rig
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rig on a lateen-rigged sailing vessel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rig on a lateen-rigged sailing vessel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lateen-rig designates the rig on a lateen-rigged sailing vessel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rig on a lateen-rigged sailing vessel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rig on a lateen-rigged sailing vessel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lateen-rig designates the rig on a lateen-rigged sailing vessel."*

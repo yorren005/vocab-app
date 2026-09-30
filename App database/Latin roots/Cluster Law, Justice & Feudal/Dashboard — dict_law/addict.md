@@ -5,15 +5,6 @@ status: unread
 ---
 # addict
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is so ardently devoted to something that it resembles an addiction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is physiologically dependent on a substance; abrupt deprivation of the substance produces withdrawal symptoms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I had a thousand sons, the first humane principle I would teach them should be to forswear thin potations and to addict themselves to sack."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If that one be prodigal, Bountiful they will him call, And with such-like flattering, “Pity but he were a king.” If he be addict to vice, Quickly him they will entice; If to women he be bent, They have at commandement."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Did he mention the precise order of occupation to which he would addict himself?” “No."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is so ardently devoted to something that it resembles an addiction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is physiologically dependent on a substance; abrupt deprivation of the substance produces withdrawal symptoms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I had a thousand sons, the first humane principle I would teach them should be to forswear thin potations and to addict themselves to sack."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If that one be prodigal, Bountiful they will him call, And with such-like flattering, “Pity but he were a king.” If he be addict to vice, Quickly him they will entice; If to women he be bent, They have at commandement."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Did he mention the precise order of occupation to which he would addict himself?” “No."*

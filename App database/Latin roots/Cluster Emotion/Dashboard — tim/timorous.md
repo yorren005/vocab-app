@@ -5,15 +5,6 @@ status: unread
 ---
 # timorous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Timid by nature or revealing timidity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Timid by nature or revealing timidity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not worthy of the wealth I owe; Nor dare I say ’tis mine, and yet it is; But, like a timorous thief, most fain would steal What law does vouch mine own."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How are we park’d and bounded in a pale, A little herd of England’s timorous deer, Mazed with a yelping kennel of French curs!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, timorous wretch, Thou hast undone thyself, thy son, and me, And given unto the house of York such head As thou shalt reign but by their sufferance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Timid by nature or revealing timidity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Timid by nature or revealing timidity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not worthy of the wealth I owe; Nor dare I say ’tis mine, and yet it is; But, like a timorous thief, most fain would steal What law does vouch mine own."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How are we park’d and bounded in a pale, A little herd of England’s timorous deer, Mazed with a yelping kennel of French curs!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, timorous wretch, Thou hast undone thyself, thy son, and me, And given unto the house of York such head As thou shalt reign but by their sufferance."*

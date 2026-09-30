@@ -5,15 +5,6 @@ status: unread
 ---
 # audacity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fearless daring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aggressive boldness or unmitigated effrontery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Arm me, audacity, from head to foot!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who would e’er suppose They had such courage and audacity?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My friend, carry your tail without offence Or scandal to the ladies; and be sure You tumble with audacity and manhood; And when you bark, do it with judgement."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fearless daring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aggressive boldness or unmitigated effrontery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Arm me, audacity, from head to foot!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who would e’er suppose They had such courage and audacity?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My friend, carry your tail without offence Or scandal to the ladies; and be sure You tumble with audacity and manhood; And when you bark, do it with judgement."*

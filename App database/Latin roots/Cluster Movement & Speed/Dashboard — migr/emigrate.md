@@ -5,15 +5,6 @@ status: unread
 ---
 # emigrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leave one's country of residence for a new one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leave one's country of residence for a new one.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But, what are you going away for else?” “I am not going to emigrate, you know; I wasn’t aware that you would wish me not to when I told ’ee or I shouldn’t ha’ thought of doing it,” he said, simply."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some human problems are for the individual to solve, as, whether it is better to go to school or to go to work, to choose this occupation or that, to emigrate or to stay at home."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I'm always trying to get them to emigrate, but they need a great deal of shoving." Lawrence said they could not emigrate to China, and, further, that he didn't regard them as brothers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Leave one's country of residence for a new one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leave one's country of residence for a new one.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But, what are you going away for else?” “I am not going to emigrate, you know; I wasn’t aware that you would wish me not to when I told ’ee or I shouldn’t ha’ thought of doing it,” he said, simply."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some human problems are for the individual to solve, as, whether it is better to go to school or to go to work, to choose this occupation or that, to emigrate or to stay at home."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"I'm always trying to get them to emigrate, but they need a great deal of shoving." Lawrence said they could not emigrate to China, and, further, that he didn't regard them as brothers."*

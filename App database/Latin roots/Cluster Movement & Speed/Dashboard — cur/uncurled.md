@@ -5,15 +5,6 @@ status: unread
 ---
 # uncurled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move out of a curled position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not curled.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte B. Herr (*How Freckle Frog Made Herself Pretty*):** *"Would you mind if I wear you to the party just this once?" The poor little caterpillar uncurled himself."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It slept as a child sleeps, lips apart and chubby fingers uncurled, and happy...."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"There, Spunkie,” she said gayly to the cat, who had just uncurled from a nap behind the stove."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move out of a curled position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not curled.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte B. Herr (*How Freckle Frog Made Herself Pretty*):** *"Would you mind if I wear you to the party just this once?" The poor little caterpillar uncurled himself."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It slept as a child sleeps, lips apart and chubby fingers uncurled, and happy...."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"There, Spunkie,” she said gayly to the cat, who had just uncurled from a nap behind the stove."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # oratorical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of an orator or oratory; ; - robert graves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of an orator or oratory; ; - robert graves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Gavin Hamilton—Holy Willie and his priest, Father Auld, after full hearing in the presbytery of Ayr, came off but second best; owing partly to the oratorical powers of Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Yes, _I_’ve done,” said Raffles, taking hold of his hat which stood before him on the table, and giving it a sort of oratorical push."*
-> - 📜 **Effie Afton (*Eventide*):** *"Prague and his amiable lady, in genial after-dinner mood; he burly, and easy-natured, enjoying his oranges; she, majestic and oratorical in her rustling brocades."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of an orator or oratory; ; - robert graves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of an orator or oratory; ; - robert graves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Gavin Hamilton—Holy Willie and his priest, Father Auld, after full hearing in the presbytery of Ayr, came off but second best; owing partly to the oratorical powers of Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Yes, _I_’ve done,” said Raffles, taking hold of his hat which stood before him on the table, and giving it a sort of oratorical push."*
+> - 📜 **Effie Afton (*Eventide*):** *"Prague and his amiable lady, in genial after-dinner mood; he burly, and easy-natured, enjoying his oranges; she, majestic and oratorical in her rustling brocades."*

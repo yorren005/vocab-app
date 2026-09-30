@@ -5,15 +5,6 @@ status: unread
 ---
 # echoing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To say again or imitate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ring or echo with sound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I hadn’t hardly got back here when I heard a shot go echoing and rattling right away into the inn."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If there be a little at any odd moment, it goes, like a little noise in that old echoing place, a long way and usually leads off to ghosts and mystery."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The way was paved here, like the terrace overhead, and my footsteps from being noiseless made an echoing sound upon the flags."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To say again or imitate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ring or echo with sound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I hadn’t hardly got back here when I heard a shot go echoing and rattling right away into the inn."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"If there be a little at any odd moment, it goes, like a little noise in that old echoing place, a long way and usually leads off to ghosts and mystery."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The way was paved here, like the terrace overhead, and my footsteps from being noiseless made an echoing sound upon the flags."*

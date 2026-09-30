@@ -5,15 +5,6 @@ status: unread
 ---
 # permissive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not preventive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Granting or inclined or able to grant permission; not strict in discipline.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sith ’twas my fault to give the people scope, ’Twould be my tyranny to strike and gall them For what I bid them do; for we bid this be done When evil deeds have their permissive pass And not the punishment."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Thus I embold’nd spake, and freedom us’d Permissive, and acceptance found, which gain’d This answer from the gratious voice Divine."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"This was not mandatory, but permissive; and negotiations could now be opened with the gentlemen at Annapolis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not preventive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Granting or inclined or able to grant permission; not strict in discipline.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sith ’twas my fault to give the people scope, ’Twould be my tyranny to strike and gall them For what I bid them do; for we bid this be done When evil deeds have their permissive pass And not the punishment."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Thus I embold’nd spake, and freedom us’d Permissive, and acceptance found, which gain’d This answer from the gratious voice Divine."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"This was not mandatory, but permissive; and negotiations could now be opened with the gentlemen at Annapolis."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # desolation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being decayed or destroyed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bleak and desolate atmosphere.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My desolation does begin to make A better life. ’Tis paltry to be Caesar; Not being Fortune, he’s but Fortune’s knave, A minister of her will."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then your hose should be ungartered, your bonnet unbanded, your sleeve unbuttoned, your shoe untied, and everything about you demonstrating a careless desolation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, there were desolation of gaolers and gallowses!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being decayed or destroyed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bleak and desolate atmosphere.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My desolation does begin to make A better life. ’Tis paltry to be Caesar; Not being Fortune, he’s but Fortune’s knave, A minister of her will."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then your hose should be ungartered, your bonnet unbanded, your sleeve unbuttoned, your shoe untied, and everything about you demonstrating a careless desolation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, there were desolation of gaolers and gallowses!"*

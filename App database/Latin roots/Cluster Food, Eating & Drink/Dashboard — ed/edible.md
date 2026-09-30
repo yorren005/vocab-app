@@ -5,15 +5,6 @@ status: unread
 ---
 # edible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that can be used as food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitable for use as food.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"These shrubs and bushes either bore edible fruit or flowers, or the leaves and tender shoots made nourishing and satisfying food when cooked in the way previously described."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"They also took all sea-mosses, crabs, crawfish, and the various kinds of shellfish along the seashore, even to the opihi-koele at the rocky beach; every edible thing in the sea was taken away."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The harbours swarm with edible fish of all kinds, the king-fish, sea salmon, barramundi, cod, yellow tail, and a host of others."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that can be used as food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitable for use as food.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"These shrubs and bushes either bore edible fruit or flowers, or the leaves and tender shoots made nourishing and satisfying food when cooked in the way previously described."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"They also took all sea-mosses, crabs, crawfish, and the various kinds of shellfish along the seashore, even to the opihi-koele at the rocky beach; every edible thing in the sea was taken away."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The harbours swarm with edible fish of all kinds, the king-fish, sea salmon, barramundi, cod, yellow tail, and a host of others."*

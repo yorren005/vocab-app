@@ -5,15 +5,6 @@ status: unread
 ---
 # energy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dynamic quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capacity of acting or being active.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The calls of "Uncle Philip, Uncle Philip!" sounded with more vigor than usual, because the children had not expected him back so soon, and therefore had to celebrate his coming with double energy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Ha, ha, ha!” To hear him say all this with unimaginable energy, one might have thought him the angriest of mankind."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But according to the old superstition, it should be Rosa’s ears that burn, and not her fresh bright cheeks, for my Lady’s maid is holding forth about her at this moment with surpassing energy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dynamic quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capacity of acting or being active.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The calls of "Uncle Philip, Uncle Philip!" sounded with more vigor than usual, because the children had not expected him back so soon, and therefore had to celebrate his coming with double energy."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Ha, ha, ha!” To hear him say all this with unimaginable energy, one might have thought him the angriest of mankind."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But according to the old superstition, it should be Rosa’s ears that burn, and not her fresh bright cheeks, for my Lady’s maid is holding forth about her at this moment with surpassing energy."*

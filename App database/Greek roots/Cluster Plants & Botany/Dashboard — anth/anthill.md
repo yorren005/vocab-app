@@ -5,13 +5,6 @@ status: unread
 ---
 # anthill
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mound of earth made by ants as they dig their nest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mound of earth made by ants as they dig their nest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthill designates a mound of earth made by ants as they dig their nest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mound of earth made by ants as they dig their nest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mound of earth made by ants as they dig their nest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthill designates a mound of earth made by ants as they dig their nest."*

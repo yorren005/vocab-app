@@ -5,15 +5,6 @@ status: unread
 ---
 # devoted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give entirely to a specific person, activity, or cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dedicate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is your devoted friend, sir, the manifold linguist, and the armipotent soldier."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thine, in all compliments of devoted and heartburning heat of duty, Don Adriano de Armado._ BEROWNE."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our general’s wife is now the general; I may say so in this respect, for that he hath devoted and given up himself to the contemplation, mark, and denotement of her parts and graces."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give entirely to a specific person, activity, or cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dedicate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is your devoted friend, sir, the manifold linguist, and the armipotent soldier."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thine, in all compliments of devoted and heartburning heat of duty, Don Adriano de Armado._ BEROWNE."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our general’s wife is now the general; I may say so in this respect, for that he hath devoted and given up himself to the contemplation, mark, and denotement of her parts and graces."*

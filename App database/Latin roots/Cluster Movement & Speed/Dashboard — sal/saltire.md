@@ -5,15 +5,6 @@ status: unread
 ---
 # saltire
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cross resembling the letter x, with diagonal bars of equal length.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cross resembling the letter x, with diagonal bars of equal length.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Even envious Miss Briggs never spoke ill of her; high and mighty Miss Saltire (Lord Dexter's granddaughter) allowed that her figure was genteel; and as for Miss Swartz, the rich woolly-haired mulatto from St."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She had to make and receive at least fourteen presents--to make fourteen solemn promises of writing every week: "Send my letters under cover to my grandpapa, the Earl of Dexter," said Miss Saltire (who, by the way, was rather shabby)."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She had but this subject, of course, to think about; and Miss Saltire was too cold for a confidante, and she couldn't bring her mind to tell Miss Swartz, the woolly-haired young heiress from St."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cross resembling the letter x, with diagonal bars of equal length.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cross resembling the letter x, with diagonal bars of equal length.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Even envious Miss Briggs never spoke ill of her; high and mighty Miss Saltire (Lord Dexter's granddaughter) allowed that her figure was genteel; and as for Miss Swartz, the rich woolly-haired mulatto from St."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She had to make and receive at least fourteen presents--to make fourteen solemn promises of writing every week: "Send my letters under cover to my grandpapa, the Earl of Dexter," said Miss Saltire (who, by the way, was rather shabby)."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She had but this subject, of course, to think about; and Miss Saltire was too cold for a confidante, and she couldn't bring her mind to tell Miss Swartz, the woolly-haired young heiress from St."*

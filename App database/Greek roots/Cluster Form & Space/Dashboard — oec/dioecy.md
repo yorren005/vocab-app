@@ -5,13 +5,6 @@ status: unread
 ---
 # dioecy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having male reproductive organs in one individual and female in another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having staminate and pistillate flowers borne on different individuals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dioecy designates having male reproductive organs in one individual and female in another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having male reproductive organs in one individual and female in another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having staminate and pistillate flowers borne on different individuals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dioecy designates having male reproductive organs in one individual and female in another."*

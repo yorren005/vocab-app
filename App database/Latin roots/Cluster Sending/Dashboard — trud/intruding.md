@@ -5,15 +5,6 @@ status: unread
 ---
 # intruding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enter uninvited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enter unlawfully on someone's property.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, lady, ’twas my word.— [_To Polonius._] Thou wretched, rash, intruding fool, farewell!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester and Lady Dedlock, as I have already apologized for intruding on you, I cannot do better than be very brief."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He comes now, apologizing for intruding, even by her permission, while she is at table."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enter uninvited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enter unlawfully on someone's property.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, lady, ’twas my word.— [_To Polonius._] Thou wretched, rash, intruding fool, farewell!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester and Lady Dedlock, as I have already apologized for intruding on you, I cannot do better than be very brief."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He comes now, apologizing for intruding, even by her permission, while she is at table."*

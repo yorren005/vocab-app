@@ -5,15 +5,6 @@ status: unread
 ---
 # quintal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of weight equal to 100 kilograms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A united states unit of weight equivalent to 100 pounds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Lately he was studying books so large that they weighed two quintals."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"I have forgotten to say that the Saragossans had improvised a work shop where were turned out daily nine or ten quintals of powder."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"The houses go on falling; and France, after establishing one foot, wastes armies and quintals of powder in gaining ground on which to set the other."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of weight equal to 100 kilograms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A united states unit of weight equivalent to 100 pounds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Lately he was studying books so large that they weighed two quintals."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"I have forgotten to say that the Saragossans had improvised a work shop where were turned out daily nine or ten quintals of powder."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"The houses go on falling; and France, after establishing one foot, wastes armies and quintals of powder in gaining ground on which to set the other."*

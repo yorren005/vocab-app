@@ -5,15 +5,6 @@ status: unread
 ---
 # spinster
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elderly unmarried woman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who spins (who twists fibers into threads).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Formerly Caroline Jellyby, spinster, then of Thavies Inn, within the city of London, but extra-parochial; now of Newman Street, Oxford Street."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But a widow or a spinster owner, if herself acting as the enterpriser, is reported as "occupied" in agriculture."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Strictly speaking, too, the neighbour upon whose garden the raid was made should be unmarried, whether a bachelor or a spinster."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elderly unmarried woman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who spins (who twists fibers into threads).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Formerly Caroline Jellyby, spinster, then of Thavies Inn, within the city of London, but extra-parochial; now of Newman Street, Oxford Street."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But a widow or a spinster owner, if herself acting as the enterpriser, is reported as "occupied" in agriculture."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Strictly speaking, too, the neighbour upon whose garden the raid was made should be unmarried, whether a bachelor or a spinster."*

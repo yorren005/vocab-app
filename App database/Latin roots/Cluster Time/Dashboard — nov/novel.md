@@ -5,15 +5,6 @@ status: unread
 ---
 # novel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extended fictional work in prose; usually in the form of a story.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A printed and bound book that is an extended work of fiction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"CXXIII No, Time, thou shalt not boast that I do change: Thy pyramids built up with newer might To me are nothing novel, nothing strange; They are but dressings of a former sight."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Besides, Bathsheba’s position as absolute mistress of a farm and house was a novel one, and the novelty had not yet begun to wear off."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba’s adventurous spirit was beginning to find some grains of relish in these highly novel proceedings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extended fictional work in prose; usually in the form of a story.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A printed and bound book that is an extended work of fiction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"CXXIII No, Time, thou shalt not boast that I do change: Thy pyramids built up with newer might To me are nothing novel, nothing strange; They are but dressings of a former sight."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Besides, Bathsheba’s position as absolute mistress of a farm and house was a novel one, and the novelty had not yet begun to wear off."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba’s adventurous spirit was beginning to find some grains of relish in these highly novel proceedings."*

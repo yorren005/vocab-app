@@ -5,13 +5,6 @@ status: unread
 ---
 # decameter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: dekameter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a line of verse consisting of 10 metrical feet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hauled along by a network of mag-beams converging from a score of space tugs came the Conference Disk, two hectometers in diameter and a decameter thick at its hub."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: dekameter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a line of verse consisting of 10 metrical feet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hauled along by a network of mag-beams converging from a score of space tugs came the Conference Disk, two hectometers in diameter and a decameter thick at its hub."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # verticillated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming one or more whorls (especially a whorl of leaves around a stem).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming one or more whorls (especially a whorl of leaves around a stem).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verticillated designates forming one or more whorls (especially a whorl of leaves around a stem)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming one or more whorls (especially a whorl of leaves around a stem).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming one or more whorls (especially a whorl of leaves around a stem).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verticillated designates forming one or more whorls (especially a whorl of leaves around a stem)."*

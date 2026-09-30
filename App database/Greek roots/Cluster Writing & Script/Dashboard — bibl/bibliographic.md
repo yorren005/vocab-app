@@ -5,13 +5,6 @@ status: unread
 ---
 # bibliographic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The history, identification, or description of writings or publications.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A list often with descriptive or critical notes of writings relating to a particular subject, period, or author.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Potts for some bibliographic details respecting the various editions of the _Tales from Shakespeare_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The history, identification, or description of writings or publications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A list often with descriptive or critical notes of writings relating to a particular subject, period, or author.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Potts for some bibliographic details respecting the various editions of the _Tales from Shakespeare_."*

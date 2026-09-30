@@ -5,15 +5,6 @@ status: unread
 ---
 # fossil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose style is out of fashion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The remains (or an impression) of a plant or animal that existed in a past geological age and that has been excavated from the soil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"You would think there was not a single tusk left either above or below the ground in the whole country. ‘Mostly fossil,’ the manager had remarked, disparagingly."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"It was no more fossil than I am; but they call it fossil when it is dug up."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I don’t deny there is a remarkable quantity of ivory—mostly fossil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose style is out of fashion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The remains (or an impression) of a plant or animal that existed in a past geological age and that has been excavated from the soil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"You would think there was not a single tusk left either above or below the ground in the whole country. ‘Mostly fossil,’ the manager had remarked, disparagingly."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"It was no more fossil than I am; but they call it fossil when it is dug up."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I don’t deny there is a remarkable quantity of ivory—mostly fossil."*

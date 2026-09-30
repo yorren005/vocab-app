@@ -5,15 +5,6 @@ status: unread
 ---
 # advocacy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Active support of an idea or cause etc.; especially the act of pleading or arguing for something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Active support of an idea or cause etc.; especially the act of pleading or arguing for something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The duteous merciful constancy of his wife had delivered him from one dread, but it could not hinder her presence from being still a tribunal before which he shrank from confession and desired advocacy."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill failed to promote the practical success of those objects the advocacy of which forms the chief feature of his political writings."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Her husband is now editor of the _New Covenant_, a paper published in Chicago, Illinois, in advocacy of Universalist sentiments, and, at the same time, of those measures of reform, which tend to elevate and purify erring and sinful human nature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Active support of an idea or cause etc.; especially the act of pleading or arguing for something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Active support of an idea or cause etc.; especially the act of pleading or arguing for something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"The duteous merciful constancy of his wife had delivered him from one dread, but it could not hinder her presence from being still a tribunal before which he shrank from confession and desired advocacy."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill failed to promote the practical success of those objects the advocacy of which forms the chief feature of his political writings."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Her husband is now editor of the _New Covenant_, a paper published in Chicago, Illinois, in advocacy of Universalist sentiments, and, at the same time, of those measures of reform, which tend to elevate and purify erring and sinful human nature."*

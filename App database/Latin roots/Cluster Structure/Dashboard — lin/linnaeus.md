@@ -5,13 +5,6 @@ status: unread
 ---
 # linnaeus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swedish botanist who proposed the modern system of biological nomenclature (1707-1778).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swedish botanist who proposed the modern system of biological nomenclature (1707-1778).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The cereals which they cultivated were wheat, barley, and apparently sorghum (_Holcus sorghum,_ Linnaeus), the _doora_ of the modern fellaheen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Swedish botanist who proposed the modern system of biological nomenclature (1707-1778).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swedish botanist who proposed the modern system of biological nomenclature (1707-1778).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The cereals which they cultivated were wheat, barley, and apparently sorghum (_Holcus sorghum,_ Linnaeus), the _doora_ of the modern fellaheen."*

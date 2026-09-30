@@ -5,15 +5,6 @@ status: unread
 ---
 # alienate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arouse hostility or indifference in where there had formerly been love, affection, or friendliness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer property or ownership.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He sees how quarrels injure life, and alienate a man from God."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"You have plenty of interests left and plenty of friends: so long as you don't alienate them by behaving in such an unmanly way."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is not, however a mere possibility of inconvenience in the exercise of powers, but an immediate constitutional repugnancy that can by implication alienate and extinguish a pre-existing right of sovereignty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arouse hostility or indifference in where there had formerly been love, affection, or friendliness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer property or ownership.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"He sees how quarrels injure life, and alienate a man from God."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"You have plenty of interests left and plenty of friends: so long as you don't alienate them by behaving in such an unmanly way."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is not, however a mere possibility of inconvenience in the exercise of powers, but an immediate constitutional repugnancy that can by implication alienate and extinguish a pre-existing right of sovereignty."*

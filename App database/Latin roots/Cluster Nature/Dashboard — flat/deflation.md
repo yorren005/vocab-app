@@ -5,13 +5,6 @@ status: unread
 ---
 # deflation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (geology) the erosion of soil as a consequence of sand and dust and loose rocks being removed by the wind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contraction of economic activity resulting in a decline of prices.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deflation designates (geology) the erosion of soil as a consequence of sand and dust and loose rocks being removed by the wind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (geology) the erosion of soil as a consequence of sand and dust and loose rocks being removed by the wind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contraction of economic activity resulting in a decline of prices.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deflation designates (geology) the erosion of soil as a consequence of sand and dust and loose rocks being removed by the wind."*

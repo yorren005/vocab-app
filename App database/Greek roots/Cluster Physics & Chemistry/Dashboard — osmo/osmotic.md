@@ -5,13 +5,6 @@ status: unread
 ---
 # osmotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, caused by, or having the properties of osmosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pressure produced by or associated with osmosis and dependent on molar concentration and absolute temperature: such as.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osmotic designates of, relating to, caused by, or having the properties of osmosis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, caused by, or having the properties of osmosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pressure produced by or associated with osmosis and dependent on molar concentration and absolute temperature: such as.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osmotic designates of, relating to, caused by, or having the properties of osmosis."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # convener
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The member of a group whose duty it is to convene meetings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The member of a group whose duty it is to convene meetings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns was one of the conveners, soon found that, if relief were to be granted, they had only two alternatives before them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The member of a group whose duty it is to convene meetings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The member of a group whose duty it is to convene meetings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns was one of the conveners, soon found that, if relief were to be granted, they had only two alternatives before them."*

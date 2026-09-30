@@ -5,15 +5,6 @@ status: unread
 ---
 # unarm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take away the weapons from; render harmless.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take away the weapons from; render harmless.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he should do so, He leaves his back unarm’d, the French and Welsh Baying him at the heels: never fear that."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Call here my varlet; I’ll unarm again."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Courtiers as free, as debonair, unarm’d, As bending angels; that’s their fame in peace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take away the weapons from; render harmless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take away the weapons from; render harmless.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he should do so, He leaves his back unarm’d, the French and Welsh Baying him at the heels: never fear that."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Call here my varlet; I’ll unarm again."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Courtiers as free, as debonair, unarm’d, As bending angels; that’s their fame in peace."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # ravaging
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plundering with excessive damage and destruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a pillaging or destructive raid on (a place), as in wartimes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Prolonged hostilities ravaging Holy Land providentially terminated."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Advancing age can be an important factor: changes that occur during a person's eighth decade and beyond can be ravaging, especially if health had seriously deteriorated or a great personal loss experienced."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"This, as if in a spirit of vengeance, was made of the skin of one of those ravaging birds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plundering with excessive damage and destruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a pillaging or destructive raid on (a place), as in wartimes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Prolonged hostilities ravaging Holy Land providentially terminated."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Advancing age can be an important factor: changes that occur during a person's eighth decade and beyond can be ravaging, especially if health had seriously deteriorated or a great personal loss experienced."*
+> - 📜 **F. H. Costello (*Sure-dart*):** *"This, as if in a spirit of vengeance, was made of the skin of one of those ravaging birds."*

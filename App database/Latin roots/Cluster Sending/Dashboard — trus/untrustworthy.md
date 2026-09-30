@@ -5,15 +5,6 @@ status: unread
 ---
 # untrustworthy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not worthy of trust or belief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not worthy of trust or belief.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He had wished to know, finally, in the name of his mother, if Tess could really come to manage the old lady’s fowl-farm or not; the lad who had hitherto superintended the birds having proved untrustworthy."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"On the basis of these necessarily untrustworthy reports Napoleon gave his orders, which had either been executed before he gave them or could not be and were not executed."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"It is only when they have been spoiled by overpayment, or by bullying of a sort they do not understand, that the foreigner finds them exacting and untrustworthy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not worthy of trust or belief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not worthy of trust or belief.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He had wished to know, finally, in the name of his mother, if Tess could really come to manage the old lady’s fowl-farm or not; the lad who had hitherto superintended the birds having proved untrustworthy."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"On the basis of these necessarily untrustworthy reports Napoleon gave his orders, which had either been executed before he gave them or could not be and were not executed."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"It is only when they have been spoiled by overpayment, or by bullying of a sort they do not understand, that the foreigner finds them exacting and untrustworthy."*

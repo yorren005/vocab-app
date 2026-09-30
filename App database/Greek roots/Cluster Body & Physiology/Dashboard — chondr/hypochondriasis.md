@@ -5,13 +5,6 @@ status: unread
 ---
 # hypochondriasis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive concern about one's health especially when accompanied by imagined physical ailments; specifically : illness anxiety disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive concern about one's health especially when accompanied by imagined physical ailments; specifically : illness anxiety disorder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypochondriasis designates excessive concern about one's health especially when accompanied by imagined physical ailments; specifically : illness anxiety disorder."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive concern about one's health especially when accompanied by imagined physical ailments; specifically : illness anxiety disorder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive concern about one's health especially when accompanied by imagined physical ailments; specifically : illness anxiety disorder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypochondriasis designates excessive concern about one's health especially when accompanied by imagined physical ailments; specifically : illness anxiety disorder."*

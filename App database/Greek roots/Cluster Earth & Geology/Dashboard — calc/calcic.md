@@ -5,13 +5,6 @@ status: unread
 ---
 # calcic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Derived from or containing calcium or lime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from or containing calcium or lime.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcic designates derived from or containing calcium or lime."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Derived from or containing calcium or lime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from or containing calcium or lime.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcic designates derived from or containing calcium or lime."*

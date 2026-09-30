@@ -5,15 +5,6 @@ status: unread
 ---
 # kine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of movement, motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of movement, motion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If to be fat be to be hated, then Pharaoh’s lean kine are to be loved."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The ripe hue of the red and dun kine absorbed the evening sunlight, which the white-coated animals returned to the eye in rays almost dazzling, even at the distant elevation on which she stood."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"So we find Angel Clare at six-and-twenty here at Talbothays as a student of kine, and, as there were no houses near at hand in which he could get a comfortable lodging, a boarder at the dairyman’s."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of movement, motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of movement, motion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If to be fat be to be hated, then Pharaoh’s lean kine are to be loved."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The ripe hue of the red and dun kine absorbed the evening sunlight, which the white-coated animals returned to the eye in rays almost dazzling, even at the distant elevation on which she stood."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"So we find Angel Clare at six-and-twenty here at Talbothays as a student of kine, and, as there were no houses near at hand in which he could get a comfortable lodging, a boarder at the dairyman’s."*

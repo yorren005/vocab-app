@@ -5,15 +5,6 @@ status: unread
 ---
 # reclaimed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Claim back.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reuse (materials from waste products).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the midst of which dust and noise there is but one thing perfectly clear, to wit, that Tom only may and can, or shall and will, be reclaimed according to somebody’s theory but nobody’s practice."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The others returned, the room filled again, benches were reclaimed and repossessed, and another hour of pleasure or of penance was to be sat out, another hour of music was to give delight or the gapes, as real or affected taste for it prevailed."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A physician of extended practice was converted and reclaimed while I had charge of the place in which he lived."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Claim back.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reuse (materials from waste products).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"In the midst of which dust and noise there is but one thing perfectly clear, to wit, that Tom only may and can, or shall and will, be reclaimed according to somebody’s theory but nobody’s practice."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The others returned, the room filled again, benches were reclaimed and repossessed, and another hour of pleasure or of penance was to be sat out, another hour of music was to give delight or the gapes, as real or affected taste for it prevailed."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A physician of extended practice was converted and reclaimed while I had charge of the place in which he lived."*

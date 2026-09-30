@@ -5,15 +5,6 @@ status: unread
 ---
 # pepper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two pungent spices that consist of the dried, typically ground fruit of an Indian vine (Piper nigrum):.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Black pepper.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Swear me, Kate, like a lady as thou art, A good mouth-filling oath, and leave “In sooth,” And such protest of pepper-gingerbread, To velvet-guards and Sunday citizens."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I warrant there’s vinegar and pepper in’t."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet, casting a glance on the table-cloth, and winking “salt!” at Malta with her right eye, and shaking the pepper away from Quebec with her head, “I begin to think George is in the roving way again.” “George,” returns Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two pungent spices that consist of the dried, typically ground fruit of an Indian vine (Piper nigrum):.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Black pepper.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Swear me, Kate, like a lady as thou art, A good mouth-filling oath, and leave “In sooth,” And such protest of pepper-gingerbread, To velvet-guards and Sunday citizens."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I warrant there’s vinegar and pepper in’t."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet, casting a glance on the table-cloth, and winking “salt!” at Malta with her right eye, and shaking the pepper away from Quebec with her head, “I begin to think George is in the roving way again.” “George,” returns Mr."*

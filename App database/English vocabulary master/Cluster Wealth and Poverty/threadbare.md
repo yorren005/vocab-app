@@ -5,20 +5,6 @@ status: unread
 ---
 # threadbare
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Wearing threadbare clothing : very poor
-> 2. **Nuance / Usage**: Barely adequate because of cheapness or shabbiness
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a threadbare presence*) or predicatively (*remained threadbare*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"sandalled shoes in an old threadbare velvet reticule."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He could hear nothing, but the drip, drip on the threadbare carpet."*
-> - 📜 **Paul Salopek (*Blessed. Cursed. Claimed. On Foot through the Holy Lands*):** *"Unkempt, in threadbare clothes, with holed shoes and sun-cured hide, my costume is permanent: the traveler, the man from far away."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Wearing threadbare clothing : very poor
+> 2. **Nuance / Usage**: Barely adequate because of cheapness or shabbiness
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a threadbare presence*) or predicatively (*remained threadbare*).
+> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"sandalled shoes in an old threadbare velvet reticule."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He could hear nothing, but the drip, drip on the threadbare carpet."*
+> - 📜 **Paul Salopek (*Blessed. Cursed. Claimed. On Foot through the Holy Lands*):** *"Unkempt, in threadbare clothes, with holed shoes and sun-cured hide, my costume is permanent: the traveler, the man from far away."*

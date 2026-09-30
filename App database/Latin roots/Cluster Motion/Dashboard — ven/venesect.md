@@ -5,13 +5,6 @@ status: unread
 ---
 # venesect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Practice venesection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Practice venesection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venesect designates practice venesection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Practice venesection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Practice venesection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venesect designates practice venesection."*

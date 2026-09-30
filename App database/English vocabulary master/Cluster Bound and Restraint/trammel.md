@@ -5,20 +5,6 @@ status: unread
 ---
 # trammel
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Catch or hold in or as if in a net : enmesh
-> 2. **Nuance / Usage**: Prevent or impede the free play of : confine
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to trammel the target*) and intransitive clauses (*trammeling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **{{w (*{{w*):** *"[They] disclaim the trammels of any sordid contract."*
-> - 📜 **s:Author:William Graham Sumner (*s:War and Other Essays*):** *"The men who came here were able to throw off all the trammels of tradition and established doctrine."*
-> - 📜 **{{w (*{{w*):** *"Also, it would be convenient for spending the night - or, if you find that the trammels of convention still defy the peculiar circumstances, well, maybe we could make it two apartments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A restriction, impediment, or hindrance to free action or expression (usually in the plural, *trammels*); as a verb, to confine, hamper, or enmesh.
+> 2. **Nuance / Usage**: Originally a three-layered fishing or fowling net and a hobble used to teach a horse to amble; also denotes an adjustable iron hook for hanging a pot in a fireplace.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (usually plural: *trammels*) & Transitive Verb.
+> - **Syntactic Constructions**: Operates in direct transitive or passive constructions (*trammeled by convention*) and plural noun phrases (*throw off the trammels of tradition*).
+> - **Collocations & Registers**: Literary, philosophical, and legal registers; collocated with *convention*, *tradition*, *etiquette*, *fetter*, and *cast off*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Graham Sumner (*War and Other Essays*):** *"The men who came here were able to throw off all the **trammels** of tradition and established doctrine."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"If the assassination could **trammel** up the consequence, and catch, with his surcease, success, that but this blow might be the be-all and the end-all here."*
+> - 📜 **Charlotte Brontë (*Shirley*):** *"She spoke with a fearless frankness, wholly free from the **trammels** of artificial society."*

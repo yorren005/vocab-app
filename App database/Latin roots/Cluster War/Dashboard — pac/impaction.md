@@ -5,13 +5,6 @@ status: unread
 ---
 # impaction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being pressed closely together and firmly fixed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disorder in which feces are impacted in the lower colon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impaction designates the condition of being pressed closely together and firmly fixed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being pressed closely together and firmly fixed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disorder in which feces are impacted in the lower colon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impaction designates the condition of being pressed closely together and firmly fixed."*

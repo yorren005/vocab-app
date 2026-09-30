@@ -5,15 +5,6 @@ status: unread
 ---
 # hysterics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An attack of hysteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person suffering from hysteria.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Retty was a bunch of hysterics."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Dorothy Castleton got hysterics over what had happened, and yelled and screamed for a long time and she set Mrs."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"My mother was in hysterics; and though I endeavoured to give her every assistance in my power, I am afraid I did not do so much as I might have done."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An attack of hysteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person suffering from hysteria.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Retty was a bunch of hysterics."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Dorothy Castleton got hysterics over what had happened, and yelled and screamed for a long time and she set Mrs."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"My mother was in hysterics; and though I endeavoured to give her every assistance in my power, I am afraid I did not do so much as I might have done."*

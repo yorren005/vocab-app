@@ -5,13 +5,6 @@ status: unread
 ---
 # monos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Monophonic reproduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infectious mononucleosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monos designates monophonic reproduction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Monophonic reproduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infectious mononucleosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monos designates monophonic reproduction."*

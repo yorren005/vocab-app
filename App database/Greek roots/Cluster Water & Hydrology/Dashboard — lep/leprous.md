@@ -5,15 +5,6 @@ status: unread
 ---
 # leprous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling or having leprosy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling or having leprosy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Believe me, one would marry a leprous witch to be rid on ’t, I’ll assure you."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"For the white leprous face of the sphinx was towards it."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Above me towered the sphinx, upon the bronze pedestal, white, shining, leprous, in the light of the rising moon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling or having leprosy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling or having leprosy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Believe me, one would marry a leprous witch to be rid on ’t, I’ll assure you."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"For the white leprous face of the sphinx was towards it."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Above me towered the sphinx, upon the bronze pedestal, white, shining, leprous, in the light of the rising moon."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # liquidator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A criminal who commits homicide (who performs the unlawful premeditated killing of another human being).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a person (usually appointed by a court of law) who liquidates assets or preserves them for the benefit of affected parties.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liquidator designates a criminal who commits homicide (who performs the unlawful premeditated killing of another human being)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A criminal who commits homicide (who performs the unlawful premeditated killing of another human being).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a person (usually appointed by a court of law) who liquidates assets or preserves them for the benefit of affected parties.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liquidator designates a criminal who commits homicide (who performs the unlawful premeditated killing of another human being)."*

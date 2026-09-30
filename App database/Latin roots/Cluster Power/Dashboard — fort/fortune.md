@@ -5,15 +5,6 @@ status: unread
 ---
 # fortune
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unknown and unpredictable phenomenon that causes an event to result one way rather than another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large amount of wealth or prosperity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou wilt leave me, do not leave me last, When other petty griefs have done their spite, But in the onset come, so shall I taste At first the very worst of fortune’s might."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mightiest space in fortune nature brings To join like likes, and kiss like native things."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Florentines and Senoys are by th’ ears; Have fought with equal fortune, and continue A braving war."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unknown and unpredictable phenomenon that causes an event to result one way rather than another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large amount of wealth or prosperity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou wilt leave me, do not leave me last, When other petty griefs have done their spite, But in the onset come, so shall I taste At first the very worst of fortune’s might."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mightiest space in fortune nature brings To join like likes, and kiss like native things."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Florentines and Senoys are by th’ ears; Have fought with equal fortune, and continue A braving war."*

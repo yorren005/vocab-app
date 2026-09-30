@@ -5,13 +5,6 @@ status: unread
 ---
 # comparison-shop
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compare prices for a given item.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compare prices for a given item.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, comparison-shop designates compare prices for a given item."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compare prices for a given item.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compare prices for a given item.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, comparison-shop designates compare prices for a given item."*

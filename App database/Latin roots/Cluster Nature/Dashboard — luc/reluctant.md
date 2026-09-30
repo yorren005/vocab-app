@@ -5,15 +5,6 @@ status: unread
 ---
 # reluctant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwillingness to do something contrary to your custom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disinclined to become involved.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore had related in the meantime how Mäzli had proposed to visit the sick Castle-Steward and how she had at first been reluctant to go, till Mäzli had made her feel that she was wrong."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I have noticed that you have evaded mentioning the name Salo, that you seemed reluctant to answer Leonore's questions concerning his possible coming."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Yet the time is so short since his depreciation began that as he saunters away, reluctant to leave the spot for some long months together, though he hates it, Richard himself may feel his own case as if it were a startling one."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwillingness to do something contrary to your custom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disinclined to become involved.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore had related in the meantime how Mäzli had proposed to visit the sick Castle-Steward and how she had at first been reluctant to go, till Mäzli had made her feel that she was wrong."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I have noticed that you have evaded mentioning the name Salo, that you seemed reluctant to answer Leonore's questions concerning his possible coming."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Yet the time is so short since his depreciation began that as he saunters away, reluctant to leave the spot for some long months together, though he hates it, Richard himself may feel his own case as if it were a startling one."*

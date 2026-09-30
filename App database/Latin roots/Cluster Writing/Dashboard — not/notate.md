@@ -5,13 +5,6 @@ status: unread
 ---
 # notate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into notation, as of music or choreography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into notation, as of music or choreography.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notate designates put into notation, as of music or choreography."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into notation, as of music or choreography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into notation, as of music or choreography.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notate designates put into notation, as of music or choreography."*

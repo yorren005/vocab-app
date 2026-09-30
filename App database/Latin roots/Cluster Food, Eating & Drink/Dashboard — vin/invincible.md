@@ -5,15 +5,6 @@ status: unread
 ---
 # invincible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being overcome or subdued.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being overcome or subdued.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You were used to load me With precepts that would make invincible The heart that conned them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was so forlorn, that his dimensions to any thick sight were invincible."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo, there thou stand’st, a breathing valiant man Of an invincible unconquer’d spirit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being overcome or subdued.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being overcome or subdued.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You were used to load me With precepts that would make invincible The heart that conned them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was so forlorn, that his dimensions to any thick sight were invincible."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo, there thou stand’st, a breathing valiant man Of an invincible unconquer’d spirit."*

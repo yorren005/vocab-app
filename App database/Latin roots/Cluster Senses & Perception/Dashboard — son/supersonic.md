@@ -5,13 +5,6 @@ status: unread
 ---
 # supersonic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of speed) greater than the speed of sound in a given medium (especially air).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having frequencies above those of audible sound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supersonic designates (of speed) greater than the speed of sound in a given medium (especially air)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of speed) greater than the speed of sound in a given medium (especially air).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having frequencies above those of audible sound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supersonic designates (of speed) greater than the speed of sound in a given medium (especially air)."*

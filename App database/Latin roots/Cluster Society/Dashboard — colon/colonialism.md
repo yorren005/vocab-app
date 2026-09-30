@@ -5,13 +5,6 @@ status: unread
 ---
 # colonialism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exploitation by a stronger country of weaker one; the use of the weaker country's resources to strengthen and enrich the stronger country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exploitation by a stronger country of weaker one; the use of the weaker country's resources to strengthen and enrich the stronger country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colonialism designates exploitation by a stronger country of weaker one; the use of the weaker country's resources to strengthen and enrich the stronger country."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exploitation by a stronger country of weaker one; the use of the weaker country's resources to strengthen and enrich the stronger country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exploitation by a stronger country of weaker one; the use of the weaker country's resources to strengthen and enrich the stronger country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colonialism designates exploitation by a stronger country of weaker one; the use of the weaker country's resources to strengthen and enrich the stronger country."*

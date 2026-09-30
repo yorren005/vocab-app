@@ -5,13 +5,6 @@ status: unread
 ---
 # sectionalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A partiality for some particular place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A partiality for some particular place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The pro-slavery party has elected its Presidential candidate, only, however, by the votes of a minority, and that of such a character as to stamp the victory as the offspring of sectionalism and temporary causes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A partiality for some particular place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A partiality for some particular place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The pro-slavery party has elected its Presidential candidate, only, however, by the votes of a minority, and that of such a character as to stamp the victory as the offspring of sectionalism and temporary causes."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # drachma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various ancient Greek units of weight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various modern units of weight; especially : dram.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See here these movers that do prize their hours At a cracked drachma."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Greece │Drachma │Gold and silver│ 19.3│5, 10, 20, 50, │ │ │ │ and 100 │ │ │ │ drachmas."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To every Roman citizen he gives, To every several man, seventy-five drachmas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various ancient Greek units of weight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various modern units of weight; especially : dram.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See here these movers that do prize their hours At a cracked drachma."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Greece │Drachma │Gold and silver│ 19.3│5, 10, 20, 50, │ │ │ │ and 100 │ │ │ │ drachmas."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To every Roman citizen he gives, To every several man, seventy-five drachmas."*

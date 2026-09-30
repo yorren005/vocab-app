@@ -5,13 +5,6 @@ status: unread
 ---
 # natality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ratio of live births in an area to the population of that area; expressed per 1000 population per year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ratio of live births in an area to the population of that area; expressed per 1000 population per year.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, natality designates the ratio of live births in an area to the population of that area; expressed per 1000 population per year."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ratio of live births in an area to the population of that area; expressed per 1000 population per year.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ratio of live births in an area to the population of that area; expressed per 1000 population per year.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, natality designates the ratio of live births in an area to the population of that area; expressed per 1000 population per year."*

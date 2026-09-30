@@ -5,13 +5,6 @@ status: unread
 ---
 # volvox
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the volvocaceae; minute pale green flagellates occurring in tiny spherical colonies; minute flagella rotate the colony about an axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the volvocaceae; minute pale green flagellates occurring in tiny spherical colonies; minute flagella rotate the colony about an axis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volvox designates type genus of the volvocaceae; minute pale green flagellates occurring in tiny spherical colonies; minute flagella rotate the colony about an axis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the volvocaceae; minute pale green flagellates occurring in tiny spherical colonies; minute flagella rotate the colony about an axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the volvocaceae; minute pale green flagellates occurring in tiny spherical colonies; minute flagella rotate the colony about an axis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volvox designates type genus of the volvocaceae; minute pale green flagellates occurring in tiny spherical colonies; minute flagella rotate the colony about an axis."*

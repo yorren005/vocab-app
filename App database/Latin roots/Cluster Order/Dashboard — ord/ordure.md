@@ -5,15 +5,6 @@ status: unread
 ---
 # ordure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Solid excretory product evacuated from the bowels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Solid excretory product evacuated from the bowels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"From Walls besmear'd with stinking Ordure, By Swine who nee'r provide Bumfodder _Libera Nos_---- (Pt. 4, p. 7) Other types of graffiti, however, vary from the very earnest expression of affection to the nonexcrementally satiric."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"In his right hand he grasped a flail, and (that he might never be unprovided of an offensive weapon) a vessel full of ordure in his left."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"He had a weekly allowance, from the society, of a vessel filled with human ordure, about the bigness of a Bristol barrel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Solid excretory product evacuated from the bowels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Solid excretory product evacuated from the bowels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"From Walls besmear'd with stinking Ordure, By Swine who nee'r provide Bumfodder _Libera Nos_---- (Pt. 4, p. 7) Other types of graffiti, however, vary from the very earnest expression of affection to the nonexcrementally satiric."*
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"In his right hand he grasped a flail, and (that he might never be unprovided of an offensive weapon) a vessel full of ordure in his left."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"He had a weekly allowance, from the society, of a vessel filled with human ordure, about the bigness of a Bristol barrel."*

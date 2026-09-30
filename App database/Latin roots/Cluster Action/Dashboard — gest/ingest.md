@@ -5,13 +5,6 @@ status: unread
 ---
 # ingest
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serve oneself to, or consume regularly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take up mentally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ingest designates serve oneself to, or consume regularly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serve oneself to, or consume regularly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take up mentally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ingest designates serve oneself to, or consume regularly."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # agal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cord (usually of goat's hair) that arabs (especially bedouins) wind around their heads to hold down the kaffiyeh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cord (usually of goat's hair) that arabs (especially bedouins) wind around their heads to hold down the kaffiyeh.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agal designates a cord (usually of goat's hair) that arabs (especially bedouins) wind around their heads to hold down the kaffiyeh."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cord (usually of goat's hair) that arabs (especially bedouins) wind around their heads to hold down the kaffiyeh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cord (usually of goat's hair) that arabs (especially bedouins) wind around their heads to hold down the kaffiyeh.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agal designates a cord (usually of goat's hair) that arabs (especially bedouins) wind around their heads to hold down the kaffiyeh."*

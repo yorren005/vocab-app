@@ -5,15 +5,6 @@ status: unread
 ---
 # invulnerable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Immune to attack; impregnable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immune to attack; impregnable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We do it wrong, being so majestical, To offer it the show of violence, For it is as the air, invulnerable, And our vain blows malicious mockery."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My fellow-ministers Are like invulnerable."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Sir ---- was also invulnerable while sitting on the grand jury, where quite lately he had protracted the business to an inordinate length in order to extend his own liberty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Immune to attack; impregnable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immune to attack; impregnable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We do it wrong, being so majestical, To offer it the show of violence, For it is as the air, invulnerable, And our vain blows malicious mockery."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My fellow-ministers Are like invulnerable."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Sir ---- was also invulnerable while sitting on the grand jury, where quite lately he had protracted the business to an inordinate length in order to extend his own liberty."*

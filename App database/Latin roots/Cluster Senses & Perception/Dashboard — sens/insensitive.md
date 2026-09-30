@@ -5,14 +5,6 @@ status: unread
 ---
 # insensitive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not responsive to physical stimuli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deficient in human sensibility; not mentally or morally sensitive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"It is something like the way Dame Nature gathers round a foreign body an envelope of some insensitive tissue which can protect from evil that which it would otherwise harm by contact."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The second step in the process of securing safety is that the powerful explosive, the one that does the work, is made very insensitive, so that it is really quite hard to explode it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not responsive to physical stimuli.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deficient in human sensibility; not mentally or morally sensitive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"It is something like the way Dame Nature gathers round a foreign body an envelope of some insensitive tissue which can protect from evil that which it would otherwise harm by contact."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The second step in the process of securing safety is that the powerful explosive, the one that does the work, is made very insensitive, so that it is really quite hard to explode it."*

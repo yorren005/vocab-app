@@ -5,13 +5,6 @@ status: unread
 ---
 # memorialise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Address in a memorial.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be or provide a memorial to a person or an event.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers was querulous and angry with me for having “let it slip through my fingers,” and said we must memorialise by and by, and try at all events for some of it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Address in a memorial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be or provide a memorial to a person or an event.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers was querulous and angry with me for having “let it slip through my fingers,” and said we must memorialise by and by, and try at all events for some of it."*

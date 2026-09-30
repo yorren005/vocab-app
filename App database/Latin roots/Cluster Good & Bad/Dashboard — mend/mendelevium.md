@@ -5,13 +5,6 @@ status: unread
 ---
 # mendelevium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive transuranic element synthesized by bombarding einsteinium with alpha particles (md is the current symbol for mendelevium but mv was formerly the symbol).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radioactive transuranic element synthesized by bombarding einsteinium with alpha particles (md is the current symbol for mendelevium but mv was formerly the symbol).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mendelevium designates a radioactive transuranic element synthesized by bombarding einsteinium with alpha particles (md is the current symbol for mendelevium but mv was formerly the symbol)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive transuranic element synthesized by bombarding einsteinium with alpha particles (md is the current symbol for mendelevium but mv was formerly the symbol).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radioactive transuranic element synthesized by bombarding einsteinium with alpha particles (md is the current symbol for mendelevium but mv was formerly the symbol).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mendelevium designates a radioactive transuranic element synthesized by bombarding einsteinium with alpha particles (md is the current symbol for mendelevium but mv was formerly the symbol)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sensor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any device that receives a signal or stimulus (as heat or pressure or light or motion etc.) and responds to it in a distinctive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any device that receives a signal or stimulus (as heat or pressure or light or motion etc.) and responds to it in a distinctive manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"An aberrant indicator caught his eye and he mind-stroked a sensor control."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hodak, acting as clumsily as he could, slammed and locked the passageway safety doors with the loudest noises he could generate, broadcasting the unusual activity to all within hearing range and for electronic sensor pickup."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Ceres' sensors verify the findings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any device that receives a signal or stimulus (as heat or pressure or light or motion etc.) and responds to it in a distinctive manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any device that receives a signal or stimulus (as heat or pressure or light or motion etc.) and responds to it in a distinctive manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"An aberrant indicator caught his eye and he mind-stroked a sensor control."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hodak, acting as clumsily as he could, slammed and locked the passageway safety doors with the loudest noises he could generate, broadcasting the unusual activity to all within hearing range and for electronic sensor pickup."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Ceres' sensors verify the findings."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # paralogism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unintentionally invalid argument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unintentionally invalid argument.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paralogism designates an unintentionally invalid argument."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unintentionally invalid argument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unintentionally invalid argument.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paralogism designates an unintentionally invalid argument."*

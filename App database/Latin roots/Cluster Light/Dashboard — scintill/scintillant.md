@@ -5,14 +5,6 @@ status: unread
 ---
 # scintillant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having brief brilliant points or flashes of light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having brief brilliant points or flashes of light.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The air without is impregnated with raindew moisture, life essence celestial, glistening on Dublin stone there under starshiny _coelum._ God’s air, the Allfather’s air, scintillant circumambient cessile air."*
-> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"I would I had lain with my love to-night, For I know how flowers are shed, And the cynical scintillant stars are dead-- Dead, dead utterly!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having brief brilliant points or flashes of light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having brief brilliant points or flashes of light.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"The air without is impregnated with raindew moisture, life essence celestial, glistening on Dublin stone there under starshiny _coelum._ God’s air, the Allfather’s air, scintillant circumambient cessile air."*
+> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"I would I had lain with my love to-night, For I know how flowers are shed, And the cynical scintillant stars are dead-- Dead, dead utterly!"*

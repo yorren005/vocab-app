@@ -5,20 +5,6 @@ status: unread
 ---
 # wane
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Become less brilliant or powerful : dim
-> 2. **Nuance / Usage**: Decrease in size, extent, or degree : dwindle: such as
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Adonis, Attis, Osiris*):** *"Some French peasants also prefer to sow in the wane."*
-> - 📜 **H. P. Lovecraft (*s:The Moon-Bog*):** *"It was very dark, for although the sky was clear the moon was now well in the wane, and would not rise till the small hours."*
-> - 📜 **Benjamin Disraeli (*Sybil (novel)*):** *"The situation of the Venetian party in the wane of the eighteenth century had become extremely critical."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: (Of the moon) to show a progressively smaller illuminated area after the full moon; more broadly, to decrease gradually in size, vigor, power, or intensity.
+> 2. **Nuance / Usage**: Frequently paired with its antonym *wax* (*to wax and wane*) or used as a noun in the phrase *on the wane* to describe an empire, season, or reputation approaching its close.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (intransitive) and Noun (singular).
+> - **Syntactic Constructions**: Operates as an intransitive verb (*his influence waned*) or in the prepositional phrase *on the wane* / *in the wane*.
+> - **Collocations & Registers**: Astronomical, historical, and poetic registers; collocated with *wax*, *moon*, *influence*, *daylight*, and *on the wane*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Some French peasants still prefer to sow their winter grain when the moon is on the **wane**."*
+> - 📜 **H. P. Lovecraft (*The Moon-Bog*):** *"It was very dark, for although the sky was clear the moon was now well in the **wane**, and would not rise till the small hours."*
+> - 📜 **Benjamin Disraeli (*Sybil*):** *"The situation of the Venetian party in the **wane** of the eighteenth century had become extremely critical."*

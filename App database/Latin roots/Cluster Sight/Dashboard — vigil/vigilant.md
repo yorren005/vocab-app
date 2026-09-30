@@ -5,15 +5,6 @@ status: unread
 ---
 # vigilant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carefully observant or attentive; on the lookout for possible danger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carefully observant or attentive; on the lookout for possible danger.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The kingly crowned head, the vigilant eye, The counsellor heart, the arm our soldier, Our steed the leg, the tongue our trumpeter, With other muniments and petty helps Is this our fabric, if that they— MENENIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am as vigilant as a cat to steal cream."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sirs, take your places and be vigilant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carefully observant or attentive; on the lookout for possible danger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carefully observant or attentive; on the lookout for possible danger.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The kingly crowned head, the vigilant eye, The counsellor heart, the arm our soldier, Our steed the leg, the tongue our trumpeter, With other muniments and petty helps Is this our fabric, if that they— MENENIUS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am as vigilant as a cat to steal cream."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sirs, take your places and be vigilant."*

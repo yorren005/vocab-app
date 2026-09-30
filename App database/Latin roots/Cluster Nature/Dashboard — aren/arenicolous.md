@@ -5,13 +5,6 @@ status: unread
 ---
 # arenicolous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing or living or burrowing in sand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growing or living or burrowing in sand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arenicolous designates growing or living or burrowing in sand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing or living or burrowing in sand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growing or living or burrowing in sand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arenicolous designates growing or living or burrowing in sand."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # pantropical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distributed throughout the tropics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distributed throughout the tropics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pantropical designates distributed throughout the tropics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distributed throughout the tropics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distributed throughout the tropics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pantropical designates distributed throughout the tropics."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sacredly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By religion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I know and deeply feel how sacredly you keep your promise.” After a short time the little round of light shone out again, and Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Ladislaw, because I have a communication of a very private—indeed, I will say, of a sacredly confidential nature, which I desire to make to you."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Sacredly, in the interests of humanity, not of sect. 236:6 Is it not professional reputation and emolument rather than the dignity of God's laws, which many leaders seek?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By religion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By religion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I know and deeply feel how sacredly you keep your promise.” After a short time the little round of light shone out again, and Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Ladislaw, because I have a communication of a very private—indeed, I will say, of a sacredly confidential nature, which I desire to make to you."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Sacredly, in the interests of humanity, not of sect. 236:6 Is it not professional reputation and emolument rather than the dignity of God's laws, which many leaders seek?"*

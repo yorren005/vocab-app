@@ -5,14 +5,6 @@ status: unread
 ---
 # grandiloquently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rhetorically grandiloquent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rhetorically grandiloquent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"And to-day you are hurt, and you still smile!" "I smile at my thoughts," I said grandiloquently."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Zdrzhinski, the officer with the long mustache, spoke grandiloquently of the Saltánov dam being “a Russian Thermopylae,” and of how a deed worthy of antiquity had been performed by General Raévski."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rhetorically grandiloquent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rhetorically grandiloquent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"And to-day you are hurt, and you still smile!" "I smile at my thoughts," I said grandiloquently."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Zdrzhinski, the officer with the long mustache, spoke grandiloquently of the Saltánov dam being “a Russian Thermopylae,” and of how a deed worthy of antiquity had been performed by General Raévski."*

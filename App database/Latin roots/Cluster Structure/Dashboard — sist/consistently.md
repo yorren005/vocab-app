@@ -5,15 +5,6 @@ status: unread
 ---
 # consistently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a systematic or consistent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a systematic or consistent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Everything seems to have happened to his hands that could possibly take place consistently with the retention of all the fingers, for they are notched, and seamed, and crumpled all over."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I hope everybody here will lead them to believe that I died defying them, consistently and perseveringly, as I did through so many years.” Here Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is no other principle distinctly, certainly, and consistently maintained through all its narrow turnings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a systematic or consistent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a systematic or consistent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Everything seems to have happened to his hands that could possibly take place consistently with the retention of all the fingers, for they are notched, and seamed, and crumpled all over."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I hope everybody here will lead them to believe that I died defying them, consistently and perseveringly, as I did through so many years.” Here Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There is no other principle distinctly, certainly, and consistently maintained through all its narrow turnings."*

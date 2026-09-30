@@ -5,13 +5,6 @@ status: unread
 ---
 # estaminet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small (and usually shabby) cafe selling wine and beer and coffee.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small (and usually shabby) cafe selling wine and beer and coffee.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Hemp the officer reads out periodically at the Sheriffs' Court--young gentlemen of very good family often, only that the latter disowns them; frequenters of billiard-rooms and estaminets, patrons of foreign races and gaming-tables."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small (and usually shabby) cafe selling wine and beer and coffee.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small (and usually shabby) cafe selling wine and beer and coffee.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Hemp the officer reads out periodically at the Sheriffs' Court--young gentlemen of very good family often, only that the latter disowns them; frequenters of billiard-rooms and estaminets, patrons of foreign races and gaming-tables."*

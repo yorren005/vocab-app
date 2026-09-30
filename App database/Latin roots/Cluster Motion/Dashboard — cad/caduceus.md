@@ -5,13 +5,6 @@ status: unread
 ---
 # caduceus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An insignia used by the medical profession; modeled after the staff of hermes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insignia used by the medical profession; modeled after the staff of hermes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caduceus designates an insignia used by the medical profession; modeled after the staff of hermes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An insignia used by the medical profession; modeled after the staff of hermes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insignia used by the medical profession; modeled after the staff of hermes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caduceus designates an insignia used by the medical profession; modeled after the staff of hermes."*

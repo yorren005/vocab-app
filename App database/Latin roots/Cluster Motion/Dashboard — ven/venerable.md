@@ -5,15 +5,6 @@ status: unread
 ---
 # venerable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impressive by reason of age.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Profoundly honored.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Set down your venerable burden, And let him feed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We are all bastards, And that most venerable man which I Did call my father was I know not where When I was stamp’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This youth that you see here I snatch’d one half out of the jaws of death, Reliev’d him with such sanctity of love; And to his image, which methought did promise Most venerable worth, did I devotion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impressive by reason of age.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Profoundly honored.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Set down your venerable burden, And let him feed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We are all bastards, And that most venerable man which I Did call my father was I know not where When I was stamp’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This youth that you see here I snatch’d one half out of the jaws of death, Reliev’d him with such sanctity of love; And to his image, which methought did promise Most venerable worth, did I devotion."*

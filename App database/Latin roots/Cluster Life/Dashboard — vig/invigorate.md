@@ -5,15 +5,6 @@ status: unread
 ---
 # invigorate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heighten or intensify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give life or energy to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Owing to relaxation of pressure occasioned by critical situation advise direct special attention to invigorate activities conducted in Latin America and European continent."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"But first let me mix you a beverage, To invigorate your enfeebled frame. [He mixes a draught and hands it to Hugo.] All human ills this draught can assuage."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Truth and Love antidote this mental miasma, and thus invigorate and sustain ex- 274:3 istence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heighten or intensify.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give life or energy to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Owing to relaxation of pressure occasioned by critical situation advise direct special attention to invigorate activities conducted in Latin America and European continent."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"But first let me mix you a beverage, To invigorate your enfeebled frame. [He mixes a draught and hands it to Hugo.] All human ills this draught can assuage."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Truth and Love antidote this mental miasma, and thus invigorate and sustain ex- 274:3 istence."*

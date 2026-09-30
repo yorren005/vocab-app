@@ -5,13 +5,6 @@ status: unread
 ---
 # unsusceptible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not susceptible to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not susceptible to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"And to have it hurled at one with no warning, no preliminary "leading up," and from Ralph Maplestone of all people--the most reserved, the most unsusceptible, the most woman-hating of mankind!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not susceptible to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not susceptible to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"And to have it hurled at one with no warning, no preliminary "leading up," and from Ralph Maplestone of all people--the most reserved, the most unsusceptible, the most woman-hating of mankind!"*

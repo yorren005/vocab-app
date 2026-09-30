@@ -5,15 +5,6 @@ status: unread
 ---
 # posy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of flowers that is usually given as a present.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arrangement of flowers that is usually given as a present.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is this a prologue, or the posy of a ring?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"About a hoop of gold, a paltry ring That she did give me, whose posy was For all the world like cutlers’ poetry Upon a knife, “Love me, and leave me not.” NERISSA."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What talk you of the posy, or the value?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of flowers that is usually given as a present.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arrangement of flowers that is usually given as a present.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is this a prologue, or the posy of a ring?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"About a hoop of gold, a paltry ring That she did give me, whose posy was For all the world like cutlers’ poetry Upon a knife, “Love me, and leave me not.” NERISSA."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What talk you of the posy, or the value?"*

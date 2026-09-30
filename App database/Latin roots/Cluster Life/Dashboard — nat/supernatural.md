@@ -5,15 +5,6 @@ status: unread
 ---
 # supernatural
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supernatural forces and events and beings collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not existing in nature or subject to explanation according to natural laws; not physical or material.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say miracles are past; and we have our philosophical persons to make modern and familiar things supernatural and causeless."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MACBETH. [_Aside._] Two truths are told, As happy prologues to the swelling act Of the imperial theme.—I thank you, gentlemen.— [_Aside._] This supernatural soliciting Cannot be ill; cannot be good."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It put him into the best spirits that there had been nothing supernatural about it, and that he was able again to talk with his mother as before."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Supernatural forces and events and beings collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not existing in nature or subject to explanation according to natural laws; not physical or material.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say miracles are past; and we have our philosophical persons to make modern and familiar things supernatural and causeless."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MACBETH. [_Aside._] Two truths are told, As happy prologues to the swelling act Of the imperial theme.—I thank you, gentlemen.— [_Aside._] This supernatural soliciting Cannot be ill; cannot be good."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It put him into the best spirits that there had been nothing supernatural about it, and that he was able again to talk with his mother as before."*

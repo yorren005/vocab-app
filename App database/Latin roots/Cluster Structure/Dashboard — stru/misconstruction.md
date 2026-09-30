@@ -5,15 +5,6 @@ status: unread
 ---
 # misconstruction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of misinterpretation resulting from putting a wrong construction on words or actions (often deliberately).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ungrammatical constituent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"You did not use to like cards; but time makes many changes.” “I am not yet so much changed,” cried Anne, and stopped, fearing she hardly knew what misconstruction."*
-> - 📜 **George Eliot (*Middlemarch*):** *"No wonder that in Lydgate’s energetic nature the sense of a hopeless misconstruction easily turned into a dogged resistance."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No stronger proof could be given of the distress under which these writers labor for objections, than their stooping to such a misconstruction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of misinterpretation resulting from putting a wrong construction on words or actions (often deliberately).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ungrammatical constituent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"You did not use to like cards; but time makes many changes.” “I am not yet so much changed,” cried Anne, and stopped, fearing she hardly knew what misconstruction."*
+> - 📜 **George Eliot (*Middlemarch*):** *"No wonder that in Lydgate’s energetic nature the sense of a hopeless misconstruction easily turned into a dogged resistance."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No stronger proof could be given of the distress under which these writers labor for objections, than their stooping to such a misconstruction."*

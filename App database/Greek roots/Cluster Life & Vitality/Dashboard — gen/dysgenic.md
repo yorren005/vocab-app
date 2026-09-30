@@ -5,13 +5,6 @@ status: unread
 ---
 # dysgenic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to promote survival of or reproduction by less well-adapted individuals (such as the weak or diseased) especially at the expense of well-adapted individuals (such as the strong or healthy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Biologically defective or deficient.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysgenic designates tending to promote survival of or reproduction by less well-adapted individuals (such as the weak or diseased) especially at the expense of well-adapted individuals (such as the strong or healthy)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to promote survival of or reproduction by less well-adapted individuals (such as the weak or diseased) especially at the expense of well-adapted individuals (such as the strong or healthy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Biologically defective or deficient.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysgenic designates tending to promote survival of or reproduction by less well-adapted individuals (such as the weak or diseased) especially at the expense of well-adapted individuals (such as the strong or healthy)."*

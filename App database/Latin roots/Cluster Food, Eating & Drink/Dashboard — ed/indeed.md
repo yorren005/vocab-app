@@ -5,15 +5,6 @@ status: unread
 ---
 # indeed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In truth (often tends to intensify).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used as an interjection) an expression of surprise or skepticism or irony etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was excellent indeed, madam; the king very lately spoke of him admiringly, and mourningly; he was skilful enough to have liv’d still, if knowledge could be set up against mortality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do affect a sorrow indeed, but I have it too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been, madam, a wicked creature, as you and all flesh and blood are; and indeed I do marry that I may repent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In truth (often tends to intensify).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used as an interjection) an expression of surprise or skepticism or irony etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was excellent indeed, madam; the king very lately spoke of him admiringly, and mourningly; he was skilful enough to have liv’d still, if knowledge could be set up against mortality."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do affect a sorrow indeed, but I have it too."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been, madam, a wicked creature, as you and all flesh and blood are; and indeed I do marry that I may repent."*

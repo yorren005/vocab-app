@@ -5,13 +5,6 @@ status: unread
 ---
 # blastosphere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Early stage of an embryo produced by cleavage of an ovum; a liquid-filled sphere whose wall is composed of a single layer of cells; during this stage (about eight days after fertilization) implantation in the wall of the uterus occurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Early stage of an embryo produced by cleavage of an ovum; a liquid-filled sphere whose wall is composed of a single layer of cells; during this stage (about eight days after fertilization) implantation in the wall of the uterus occurs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastosphere designates early stage of an embryo produced by cleavage of an ovum; a liquid-filled sphere whose wall is composed of a single layer of cells; during this stage (about eight days after fertilization) implantation in the wall of the uterus occurs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Early stage of an embryo produced by cleavage of an ovum; a liquid-filled sphere whose wall is composed of a single layer of cells; during this stage (about eight days after fertilization) implantation in the wall of the uterus occurs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Early stage of an embryo produced by cleavage of an ovum; a liquid-filled sphere whose wall is composed of a single layer of cells; during this stage (about eight days after fertilization) implantation in the wall of the uterus occurs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastosphere designates early stage of an embryo produced by cleavage of an ovum; a liquid-filled sphere whose wall is composed of a single layer of cells; during this stage (about eight days after fertilization) implantation in the wall of the uterus occurs."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # remunerated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make payment to; compensate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receiving or eligible for compensation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t want to pay too large a price for my friend, but I want you to have your proper percentage and be remunerated for your loss of time."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed remunerated accordingly.” “Not according to your merits, you know,” said Mr."*
-> - 📜 **Effie Afton (*Eventide*):** *"He amply remunerated the care and protection of his kind guardian, and besought him to forsake the forest-hut and dwell beneath his grateful roof."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make payment to; compensate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receiving or eligible for compensation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t want to pay too large a price for my friend, but I want you to have your proper percentage and be remunerated for your loss of time."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed remunerated accordingly.” “Not according to your merits, you know,” said Mr."*
+> - 📜 **Effie Afton (*Eventide*):** *"He amply remunerated the care and protection of his kind guardian, and besought him to forsake the forest-hut and dwell beneath his grateful roof."*

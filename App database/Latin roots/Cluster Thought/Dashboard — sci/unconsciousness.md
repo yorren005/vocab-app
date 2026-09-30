@@ -5,15 +5,6 @@ status: unread
 ---
 # unconsciousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state lacking normal awareness of the self or environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state lacking normal awareness of the self or environment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She was assisted, however, by that perfect indifference and apparent unconsciousness, among the only three of her own friends in the secret of the past, which seemed almost to deny any recollection of it."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"This long struggle with myself made the night less tedious, though, perhaps, more terrible; and when at length I was overpowered by sleep, the short interval of unconsciousness restored me like a cordial."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She remained in speechless unconsciousness till the next afternoon, when, while prayer was being made, she again opened her eyes, sat up and conversed with her children and friends."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state lacking normal awareness of the self or environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state lacking normal awareness of the self or environment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"She was assisted, however, by that perfect indifference and apparent unconsciousness, among the only three of her own friends in the secret of the past, which seemed almost to deny any recollection of it."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"This long struggle with myself made the night less tedious, though, perhaps, more terrible; and when at length I was overpowered by sleep, the short interval of unconsciousness restored me like a cordial."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"She remained in speechless unconsciousness till the next afternoon, when, while prayer was being made, she again opened her eyes, sat up and conversed with her children and friends."*

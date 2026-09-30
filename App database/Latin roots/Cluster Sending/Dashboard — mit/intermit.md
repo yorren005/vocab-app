@@ -5,14 +5,6 @@ status: unread
 ---
 # intermit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cease an action temporarily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cease an action temporarily.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Run to your houses, fall upon your knees, Pray to the gods to intermit the plague That needs must light on this ingratitude."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Salomon did not intermit her efforts for the good of the soldiers; her duty had become a privilege, and she continued her efforts for their relief and assistance, according to her opportunity till the end of the war."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cease an action temporarily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cease an action temporarily.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Run to your houses, fall upon your knees, Pray to the gods to intermit the plague That needs must light on this ingratitude."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Salomon did not intermit her efforts for the good of the soldiers; her duty had become a privilege, and she continued her efforts for their relief and assistance, according to her opportunity till the end of the war."*

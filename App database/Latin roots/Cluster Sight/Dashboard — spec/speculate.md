@@ -5,15 +5,6 @@ status: unread
 ---
 # speculate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To believe especially on uncertain or tentative grounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk over conjecturally, or review in an idle or casual way and with an element of doubt or without sufficient reason to reach a conclusion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I did not speculate upon the source from which it came or wonder whose humanity was so considerate."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As everybody knows.” Quebec and Malta here exclaim, with clapping of hands, that Bluffy is sure to bring mother something, and begin to speculate on what it will be."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She belonged to him: the certainties of that position were so well defined, and the reasonable probabilities of its issue so bounded that she could not speculate on contingencies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To believe especially on uncertain or tentative grounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk over conjecturally, or review in an idle or casual way and with an element of doubt or without sufficient reason to reach a conclusion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I did not speculate upon the source from which it came or wonder whose humanity was so considerate."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"As everybody knows.” Quebec and Malta here exclaim, with clapping of hands, that Bluffy is sure to bring mother something, and begin to speculate on what it will be."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She belonged to him: the certainties of that position were so well defined, and the reasonable probabilities of its issue so bounded that she could not speculate on contingencies."*

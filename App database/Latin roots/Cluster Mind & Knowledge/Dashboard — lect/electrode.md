@@ -5,15 +5,6 @@ status: unread
 ---
 # electrode
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conductor used to make electrical contact with some part of a circuit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conductor used to make electrical contact with some part of a circuit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Since, however, it may not be easy for the general reader to carry all these terms in his mind, we will, when it is necessary to differentiate between the two electrodes, call one the in-electrode and the other the out-electrode."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The bubbles which arise from the in-electrode are oxygen, those from the other hydrogen."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The in-electrode is surrounded by a vast assemblage of these tiny molecules, most of them those of water, but a few those of the acid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conductor used to make electrical contact with some part of a circuit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conductor used to make electrical contact with some part of a circuit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Since, however, it may not be easy for the general reader to carry all these terms in his mind, we will, when it is necessary to differentiate between the two electrodes, call one the in-electrode and the other the out-electrode."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The bubbles which arise from the in-electrode are oxygen, those from the other hydrogen."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The in-electrode is surrounded by a vast assemblage of these tiny molecules, most of them those of water, but a few those of the acid."*

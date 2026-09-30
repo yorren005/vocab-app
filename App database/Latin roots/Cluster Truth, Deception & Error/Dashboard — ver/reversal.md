@@ -5,15 +5,6 @@ status: unread
 ---
 # reversal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A change from one state to the opposite state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unfortunate happening that hinders or impedes; something that is thwarting or frustrating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The free-silver advocates got what they desired, a reversal of the movement of general prices, through an occurrence for which no political party could claim the credit."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This caused a reversal of the former positions of advantage and disadvantage on the part of debtor and creditor respectively."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Reversal of testimony Science reverses the false testimony of the physical senses, and by this reversal mortals arrive at the funda- 120:9 mental facts of being."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A change from one state to the opposite state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unfortunate happening that hinders or impedes; something that is thwarting or frustrating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The free-silver advocates got what they desired, a reversal of the movement of general prices, through an occurrence for which no political party could claim the credit."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This caused a reversal of the former positions of advantage and disadvantage on the part of debtor and creditor respectively."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Reversal of testimony Science reverses the false testimony of the physical senses, and by this reversal mortals arrive at the funda- 120:9 mental facts of being."*

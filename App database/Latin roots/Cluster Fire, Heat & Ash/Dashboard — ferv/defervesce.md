@@ -5,13 +5,6 @@ status: unread
 ---
 # defervesce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Experience an abatement of a fever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Experience an abatement of a fever.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defervesce designates experience an abatement of a fever."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Experience an abatement of a fever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Experience an abatement of a fever.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defervesce designates experience an abatement of a fever."*

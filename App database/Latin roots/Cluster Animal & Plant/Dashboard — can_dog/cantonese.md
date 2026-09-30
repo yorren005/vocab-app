@@ -5,13 +5,6 @@ status: unread
 ---
 # cantonese
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dialect of chinese spoken in canton and neighboring provinces and in hong kong and elsewhere outside china.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dialect of chinese spoken in canton and neighboring provinces and in hong kong and elsewhere outside china.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cantonese designates the dialect of chinese spoken in canton and neighboring provinces and in hong kong and elsewhere outside china."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dialect of chinese spoken in canton and neighboring provinces and in hong kong and elsewhere outside china.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dialect of chinese spoken in canton and neighboring provinces and in hong kong and elsewhere outside china.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cantonese designates the dialect of chinese spoken in canton and neighboring provinces and in hong kong and elsewhere outside china."*

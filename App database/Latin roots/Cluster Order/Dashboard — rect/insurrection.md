@@ -5,15 +5,6 @@ status: unread
 ---
 # insurrection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Organized opposition to authority; a conflict in which one faction tries to wrest control from another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organized opposition to authority; a conflict in which one faction tries to wrest control from another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It will in time Win upon power and throw forth greater themes For insurrection’s arguing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And never yet did insurrection want Such water-colours to impaint his cause, Nor moody beggars starving for a time Of pellmell havoc and confusion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now the bishop Turns insurrection to religion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Organized opposition to authority; a conflict in which one faction tries to wrest control from another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organized opposition to authority; a conflict in which one faction tries to wrest control from another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It will in time Win upon power and throw forth greater themes For insurrection’s arguing."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And never yet did insurrection want Such water-colours to impaint his cause, Nor moody beggars starving for a time Of pellmell havoc and confusion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now the bishop Turns insurrection to religion."*

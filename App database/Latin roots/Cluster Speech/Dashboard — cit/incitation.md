@@ -5,13 +5,6 @@ status: unread
 ---
 # incitation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that incites or provokes; a means of arousing or stirring to action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of urging on or spurring on or rousing to action or instigating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incitation designates something that incites or provokes; a means of arousing or stirring to action."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that incites or provokes; a means of arousing or stirring to action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of urging on or spurring on or rousing to action or instigating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incitation designates something that incites or provokes; a means of arousing or stirring to action."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # pettiness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Narrowness of mind or ideas or views.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being unimportant and petty or frivolous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"But there was a branch house at the west end, and no pettiness or dinginess to give suggestions of shame."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The long reach to Buenos Aires, and the querulous sea-birds mocking him: On the land is desolation and pettiness and disappointment...."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But even then, at moments of weakness as he had accounted them, his mind had penetrated to those distances and he had there seen the same pettiness, worldliness, and senselessness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Narrowness of mind or ideas or views.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being unimportant and petty or frivolous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"But there was a branch house at the west end, and no pettiness or dinginess to give suggestions of shame."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The long reach to Buenos Aires, and the querulous sea-birds mocking him: On the land is desolation and pettiness and disappointment...."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But even then, at moments of weakness as he had accounted them, his mind had penetrated to those distances and he had there seen the same pettiness, worldliness, and senselessness."*

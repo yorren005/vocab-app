@@ -5,13 +5,6 @@ status: unread
 ---
 # prosopagnosia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of visual agnosia characterized by an inability to recognize faces : face blindness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of visual agnosia characterized by an inability to recognize faces : face blindness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosopagnosia designates a form of visual agnosia characterized by an inability to recognize faces : face blindness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of visual agnosia characterized by an inability to recognize faces : face blindness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of visual agnosia characterized by an inability to recognize faces : face blindness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosopagnosia designates a form of visual agnosia characterized by an inability to recognize faces : face blindness."*

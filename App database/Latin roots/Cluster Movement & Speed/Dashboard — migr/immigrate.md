@@ -5,13 +5,6 @@ status: unread
 ---
 # immigrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Migrate to a new environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduce or send as immigrants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immigrate designates migrate to a new environment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Migrate to a new environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduce or send as immigrants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immigrate designates migrate to a new environment."*

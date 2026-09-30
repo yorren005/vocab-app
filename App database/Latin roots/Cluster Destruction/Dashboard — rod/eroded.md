@@ -5,13 +5,6 @@ status: unread
 ---
 # eroded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become ground down or deteriorate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove soil or rock.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Every land-mark in that eight-hour drive in the mountain buckboard, every tree, every mountain, every ford and bridge, every ridge and eroded hillside was ever the same."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become ground down or deteriorate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove soil or rock.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Every land-mark in that eight-hour drive in the mountain buckboard, every tree, every mountain, every ford and bridge, every ridge and eroded hillside was ever the same."*

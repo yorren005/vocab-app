@@ -5,15 +5,6 @@ status: unread
 ---
 # alexandrian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A resident or native of alexandria (especially alexandria in egypt).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to alexander the great or his empire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is not yet an Alexandrian feast."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The quick comedians Extemporally will stage us and present Our Alexandrian revels; Antony Shall be brought drunken forth, and I shall see Some squeaking Cleopatra boy my greatness I’ th’ posture of a whore."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The date at which this Alexandrian ceremony was observed is not expressly stated; but from the mention of the ripe fruits it has been inferred that it took place in late summer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A resident or native of alexandria (especially alexandria in egypt).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to alexander the great or his empire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is not yet an Alexandrian feast."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The quick comedians Extemporally will stage us and present Our Alexandrian revels; Antony Shall be brought drunken forth, and I shall see Some squeaking Cleopatra boy my greatness I’ th’ posture of a whore."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The date at which this Alexandrian ceremony was observed is not expressly stated; but from the mention of the ripe fruits it has been inferred that it took place in late summer."*

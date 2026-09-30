@@ -5,15 +5,6 @@ status: unread
 ---
 # portal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grand and imposing entrance (often extended metaphorically).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A site that the owner positions as an entrance to other sites on the internet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look where he goes even now out at the portal. [_Exit Ghost._] QUEEN."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I, supposing he had done with me, prepared to return to the house; again, however, I heard him call “Jane!” He had opened the portal and stood at it, waiting for me."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The lawn, the grounds were trodden and waste: the portal yawned void."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A grand and imposing entrance (often extended metaphorically).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A site that the owner positions as an entrance to other sites on the internet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look where he goes even now out at the portal. [_Exit Ghost._] QUEEN."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I, supposing he had done with me, prepared to return to the house; again, however, I heard him call “Jane!” He had opened the portal and stood at it, waiting for me."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The lawn, the grounds were trodden and waste: the portal yawned void."*

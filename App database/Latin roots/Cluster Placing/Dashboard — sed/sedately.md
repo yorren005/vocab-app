@@ -5,15 +5,6 @@ status: unread
 ---
 # sedately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sedate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sedate manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Douce, doucely, dousely, sedately, prudently."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"It was a lesson in propriety to see her escorting the children to school, walking sedately by their side when they were well behaved, and butting them back into line if they strayed."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Your offer...” she began at last sedately."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sedate manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sedate manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Douce, doucely, dousely, sedately, prudently."*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"It was a lesson in propriety to see her escorting the children to school, walking sedately by their side when they were well behaved, and butting them back into line if they strayed."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Your offer...” she began at last sedately."*

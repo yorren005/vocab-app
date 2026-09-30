@@ -5,15 +5,6 @@ status: unread
 ---
 # mutchkin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scottish unit of liquid measure equal to 0.9 united states pint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scottish unit of liquid measure equal to 0.9 united states pint.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"I’ve seen me dazed upon a time, I scarce could wink or see a styme; Just ae half-mutchkin does me prime,— Ought less is little— Then back I rattle on the rhyme, As gleg’s a whittle."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Paint Scotland greetin owre her thrissle; Her mutchkin stowp as toom’s a whissle; An’ damn’d excisemen in a bussle, Seizin a stell, Triumphant crushin’t like a mussel, Or limpet shell!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Come, bring the tither mutchkin in, And here’s—for a conclusion— To ev’ry New Light^12 mother’s son, From this time forth, Confusion!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scottish unit of liquid measure equal to 0.9 united states pint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scottish unit of liquid measure equal to 0.9 united states pint.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"I’ve seen me dazed upon a time, I scarce could wink or see a styme; Just ae half-mutchkin does me prime,— Ought less is little— Then back I rattle on the rhyme, As gleg’s a whittle."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Paint Scotland greetin owre her thrissle; Her mutchkin stowp as toom’s a whissle; An’ damn’d excisemen in a bussle, Seizin a stell, Triumphant crushin’t like a mussel, Or limpet shell!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Come, bring the tither mutchkin in, And here’s—for a conclusion— To ev’ry New Light^12 mother’s son, From this time forth, Confusion!"*

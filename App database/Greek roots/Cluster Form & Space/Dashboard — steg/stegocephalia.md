@@ -5,13 +5,6 @@ status: unread
 ---
 # stegocephalia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In former classifications a division of class amphibia comprising all pre-jurassic and some later extinct large salamandriform amphibia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In former classifications a division of class amphibia comprising all pre-jurassic and some later extinct large salamandriform amphibia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stegocephalia designates in former classifications a division of class amphibia comprising all pre-jurassic and some later extinct large salamandriform amphibia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In former classifications a division of class amphibia comprising all pre-jurassic and some later extinct large salamandriform amphibia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In former classifications a division of class amphibia comprising all pre-jurassic and some later extinct large salamandriform amphibia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stegocephalia designates in former classifications a division of class amphibia comprising all pre-jurassic and some later extinct large salamandriform amphibia."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # adore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Love intensely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Love intensely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus, Indian-like, Religious in mine error, I adore The sun that looks upon his worshipper, But knows of him no more."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when we in our viciousness grow hard— O misery on’t!—the wise gods seal our eyes, In our own filth drop our clear judgments, make us Adore our errors, laugh at’s while we strut To our confusion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stoop, boys; this gate Instructs you how t’ adore the heavens, and bows you To a morning’s holy office."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Love intensely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Love intensely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus, Indian-like, Religious in mine error, I adore The sun that looks upon his worshipper, But knows of him no more."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when we in our viciousness grow hard— O misery on’t!—the wise gods seal our eyes, In our own filth drop our clear judgments, make us Adore our errors, laugh at’s while we strut To our confusion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stoop, boys; this gate Instructs you how t’ adore the heavens, and bows you To a morning’s holy office."*

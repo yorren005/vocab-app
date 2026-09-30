@@ -5,14 +5,6 @@ status: unread
 ---
 # mousey
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infested with mice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of something having a drab pale brown color resembling a mouse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Has little mousey any tickles tonight? _(His skin, alert, feels her fingertips approach."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"Fenn did so, and the old nurse repeated the following rhyme, very much in the tone of, "The goblins 'll git you if you don't look out." He climbed up the candlestick, The little mousey brown, To steal and eat tallow, And he couldn't get down."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infested with mice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of something having a drab pale brown color resembling a mouse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Has little mousey any tickles tonight? _(His skin, alert, feels her fingertips approach."*
+> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"Fenn did so, and the old nurse repeated the following rhyme, very much in the tone of, "The goblins 'll git you if you don't look out." He climbed up the candlestick, The little mousey brown, To steal and eat tallow, And he couldn't get down."*

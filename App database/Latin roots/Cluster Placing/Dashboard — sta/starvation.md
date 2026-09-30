@@ -5,15 +5,6 @@ status: unread
 ---
 # starvation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of extreme hunger resulting from lack of essential nutrients over a prolonged period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of depriving of food or subjecting to famine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A runaway wife is an encumbrance to everybody, a burden to herself and a byword—all of which make up a heap of misery greater than any that comes by staying at home—though this may include the trifling items of insult, beating, and starvation."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"They could see but starvation staring them in the face."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The kettle boiled, the children cried for bread; the afflicted father, standing before the fire, felt those deep emotions of heart over his helplessness and impending starvation which those reared in affluence never know."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of extreme hunger resulting from lack of essential nutrients over a prolonged period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of depriving of food or subjecting to famine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A runaway wife is an encumbrance to everybody, a burden to herself and a byword—all of which make up a heap of misery greater than any that comes by staying at home—though this may include the trifling items of insult, beating, and starvation."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"They could see but starvation staring them in the face."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The kettle boiled, the children cried for bread; the afflicted father, standing before the fire, felt those deep emotions of heart over his helplessness and impending starvation which those reared in affluence never know."*

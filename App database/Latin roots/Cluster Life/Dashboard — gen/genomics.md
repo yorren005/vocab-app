@@ -5,13 +5,6 @@ status: unread
 ---
 # genomics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of genetics that studies organisms in terms of their genomes (their full dna sequences).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of genetics that studies organisms in terms of their genomes (their full dna sequences).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genomics designates the branch of genetics that studies organisms in terms of their genomes (their full dna sequences)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of genetics that studies organisms in terms of their genomes (their full dna sequences).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of genetics that studies organisms in terms of their genomes (their full dna sequences).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genomics designates the branch of genetics that studies organisms in terms of their genomes (their full dna sequences)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hydromancer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who practices hydromancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who practices hydromancy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydromancer designates one who practices hydromancy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who practices hydromancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who practices hydromancy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydromancer designates one who practices hydromancy."*

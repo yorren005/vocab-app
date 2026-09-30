@@ -5,15 +5,6 @@ status: unread
 ---
 # intervention
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of intervening (as to mediate a dispute, etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A policy of intervening in the affairs of other countries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"When at length the vote came to be taken, and Fraser was elected by a majority of three, there were few who doubted that the intervention of the Berwick minister had been of critical importance in bringing about this result."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But Kwan Yung-jin was my man, and all that saved him when I made my rush was the intervention of his satellites."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Public affairs always stirred him, but, as time went on, it was more and more to verse and less to practical intervention, and after 1817 he abandoned argument altogether for song."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of intervening (as to mediate a dispute, etc.).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A policy of intervening in the affairs of other countries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"When at length the vote came to be taken, and Fraser was elected by a majority of three, there were few who doubted that the intervention of the Berwick minister had been of critical importance in bringing about this result."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But Kwan Yung-jin was my man, and all that saved him when I made my rush was the intervention of his satellites."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Public affairs always stirred him, but, as time went on, it was more and more to verse and less to practical intervention, and after 1817 he abandoned argument altogether for song."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # restorer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled worker who is employed to restore or refinish buildings or antique furniture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker who is employed to restore or refinish buildings or antique furniture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"Next, to the Son, Destin’d restorer of Mankind, by whom New Heav’n and Earth shall to the Ages rise, Or down from Heav’n descend."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"This man, so restored to life, regards his restorer as, who but God himself, Creator and Sustainer of the world, that came and dwelt in flesh on it awhile, taught, healed the sick, broke bread at his own house, then died!"*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The hair-restorer was in fact a shade too powerful, and in applying it you might get more than you bargained for."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled worker who is employed to restore or refinish buildings or antique furniture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker who is employed to restore or refinish buildings or antique furniture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"Next, to the Son, Destin’d restorer of Mankind, by whom New Heav’n and Earth shall to the Ages rise, Or down from Heav’n descend."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"This man, so restored to life, regards his restorer as, who but God himself, Creator and Sustainer of the world, that came and dwelt in flesh on it awhile, taught, healed the sick, broke bread at his own house, then died!"*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The hair-restorer was in fact a shade too powerful, and in applying it you might get more than you bargained for."*

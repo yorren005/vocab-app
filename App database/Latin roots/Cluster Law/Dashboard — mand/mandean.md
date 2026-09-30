@@ -5,13 +5,6 @@ status: unread
 ---
 # mandean
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a small gnostic sect that originated in jordan and survives in iraq and who believes that john the baptist was the messiah.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The form of aramaic used by the mandeans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandean designates a member of a small gnostic sect that originated in jordan and survives in iraq and who believes that john the baptist was the messiah."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a small gnostic sect that originated in jordan and survives in iraq and who believes that john the baptist was the messiah.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The form of aramaic used by the mandeans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandean designates a member of a small gnostic sect that originated in jordan and survives in iraq and who believes that john the baptist was the messiah."*

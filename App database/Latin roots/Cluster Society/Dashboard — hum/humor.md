@@ -5,15 +5,6 @@ status: unread
 ---
 # humor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message whose ingenuity or verbal skill or incongruity has the power to evoke laughter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of appreciating (and being able to express) the humorous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"That sickness left me with a bad humor, which, for two years, kept me covered with boils."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A violent humor came into my eyes, and for some months I was in danger of losing my sight."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Fred’s door again, Pritchard, and tell him it has struck half-past ten.” This was said without any change in the radiant good-humor of Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A message whose ingenuity or verbal skill or incongruity has the power to evoke laughter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of appreciating (and being able to express) the humorous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"That sickness left me with a bad humor, which, for two years, kept me covered with boils."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A violent humor came into my eyes, and for some months I was in danger of losing my sight."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred’s door again, Pritchard, and tell him it has struck half-past ten.” This was said without any change in the radiant good-humor of Mrs."*

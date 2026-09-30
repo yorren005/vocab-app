@@ -5,15 +5,6 @@ status: unread
 ---
 # century
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of 100 years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ten 10s.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A century send forth; Search every acre in the high-grown field, And bring him to our eye. [_Exit an Officer._] What can man’s wisdom In the restoring his bereaved sense, He that helps him take all my outward worth."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is another well-known suit in Chancery, not yet decided, which was commenced before the close of the last century and in which more than double the amount of seventy thousand pounds has been swallowed up in costs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is not expected there, for he has been recumbent this quarter of a century in the churchyard of St."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of 100 years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ten 10s.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A century send forth; Search every acre in the high-grown field, And bring him to our eye. [_Exit an Officer._] What can man’s wisdom In the restoring his bereaved sense, He that helps him take all my outward worth."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There is another well-known suit in Chancery, not yet decided, which was commenced before the close of the last century and in which more than double the amount of seventy thousand pounds has been swallowed up in costs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is not expected there, for he has been recumbent this quarter of a century in the churchyard of St."*

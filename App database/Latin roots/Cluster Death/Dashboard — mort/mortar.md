@@ -5,15 +5,6 @@ status: unread
 ---
 # mortar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A muzzle-loading high-angle gun with a short barrel that fires shells at high elevations for a short range.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used as a bond in masonry or for covering a wall.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He stands there, like a mortar-piece, to blow us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, if you’ll give me leave, I will tread this unbolted villain into mortar and daub the walls of a jakes with him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"While thus looking out into the shade of Old Square, Lincoln’s Inn, surveying the intolerable bricks and mortar, Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A muzzle-loading high-angle gun with a short barrel that fires shells at high elevations for a short range.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used as a bond in masonry or for covering a wall.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He stands there, like a mortar-piece, to blow us."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, if you’ll give me leave, I will tread this unbolted villain into mortar and daub the walls of a jakes with him."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"While thus looking out into the shade of Old Square, Lincoln’s Inn, surveying the intolerable bricks and mortar, Mr."*

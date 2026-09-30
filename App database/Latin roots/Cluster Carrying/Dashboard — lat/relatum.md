@@ -5,13 +5,6 @@ status: unread
 ---
 # relatum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term in a proposition that is related to the referent of the proposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A term in a proposition that is related to the referent of the proposition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relatum designates a term in a proposition that is related to the referent of the proposition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term in a proposition that is related to the referent of the proposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A term in a proposition that is related to the referent of the proposition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relatum designates a term in a proposition that is related to the referent of the proposition."*

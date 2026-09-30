@@ -5,15 +5,6 @@ status: unread
 ---
 # paleness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unnatural lack of color in the skin (as from bruising or sickness or emotional distress).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of having a naturally light complexion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I wish you to go elsewhere,” she commanded, a paleness of face invisible to the eye being suggested by the trembling words."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"None of the old colour had as yet come to her cheek, and its absolute paleness was heightened by the jet black of her gown, till it appeared preternatural."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The band of silver paleness along the east horizon made even the distant parts of the Great Plain appear dark and near; and the whole enormous landscape bore that impress of reserve, taciturnity, and hesitation which is usual just before day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unnatural lack of color in the skin (as from bruising or sickness or emotional distress).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of having a naturally light complexion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I wish you to go elsewhere,” she commanded, a paleness of face invisible to the eye being suggested by the trembling words."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"None of the old colour had as yet come to her cheek, and its absolute paleness was heightened by the jet black of her gown, till it appeared preternatural."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The band of silver paleness along the east horizon made even the distant parts of the Great Plain appear dark and near; and the whole enormous landscape bore that impress of reserve, taciturnity, and hesitation which is usual just before day."*

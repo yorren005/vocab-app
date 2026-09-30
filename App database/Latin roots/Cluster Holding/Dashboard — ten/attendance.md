@@ -5,15 +5,6 @@ status: unread
 ---
 # attendance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of being present (at a meeting or event etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The frequency with which a person is present.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Clarence, Gloucester, Warwick and others in attendance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Last time, I danced attendance on his will Till Paris was besieged, famished, and lost."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had thought They had parted so much honesty among ’em— At least good manners—as not thus to suffer A man of his place, and so near our favour, To dance attendance on their lordships’ pleasures, And at the door too, like a post with packets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of being present (at a meeting or event etc.).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The frequency with which a person is present.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Clarence, Gloucester, Warwick and others in attendance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Last time, I danced attendance on his will Till Paris was besieged, famished, and lost."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had thought They had parted so much honesty among ’em— At least good manners—as not thus to suffer A man of his place, and so near our favour, To dance attendance on their lordships’ pleasures, And at the door too, like a post with packets."*

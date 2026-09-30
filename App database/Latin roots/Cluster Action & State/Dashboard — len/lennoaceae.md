@@ -5,13 +5,6 @@ status: unread
 ---
 # lennoaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of fleshy parasitic herbs lacking green foliage and having heads of small flowers; california and mexico.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of fleshy parasitic herbs lacking green foliage and having heads of small flowers; california and mexico.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lennoaceae designates family of fleshy parasitic herbs lacking green foliage and having heads of small flowers; california and mexico."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of fleshy parasitic herbs lacking green foliage and having heads of small flowers; california and mexico.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of fleshy parasitic herbs lacking green foliage and having heads of small flowers; california and mexico.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lennoaceae designates family of fleshy parasitic herbs lacking green foliage and having heads of small flowers; california and mexico."*

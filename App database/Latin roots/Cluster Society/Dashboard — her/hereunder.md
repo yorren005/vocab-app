@@ -5,14 +5,6 @@ status: unread
 ---
 # hereunder
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a subsequent part of this document or statement or matter etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under the terms of this agreement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Hereunder lyth a man of Fame, William Walworth callyd by name: Fishmonger he was in lyfftime here, And twise Lord Maior, as in books appere; Who, with courage stout and manly myght, Slew Jack Straw in Kyng Richard’s sight."*
-> - 📜 **Anonymous (*The Story of Gunnlaug the Worm-Tongue and Raven the Skald*):** *"Gunnlaug saw the great mocking hereunder, and much jeering was brought into the play; and withal he went away silent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a subsequent part of this document or statement or matter etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under the terms of this agreement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Hereunder lyth a man of Fame, William Walworth callyd by name: Fishmonger he was in lyfftime here, And twise Lord Maior, as in books appere; Who, with courage stout and manly myght, Slew Jack Straw in Kyng Richard’s sight."*
+> - 📜 **Anonymous (*The Story of Gunnlaug the Worm-Tongue and Raven the Skald*):** *"Gunnlaug saw the great mocking hereunder, and much jeering was brought into the play; and withal he went away silent."*

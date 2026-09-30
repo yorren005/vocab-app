@@ -5,15 +5,6 @@ status: unread
 ---
 # incomparably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an incomparable manner or to an incomparable degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an incomparable manner or to an incomparable degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The issues at stake, demanding every ounce of their energy, are incomparably glorious."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"For man is given a living, loving soul; Man lives as other works of God live not; He strives to reach a high and Heav'nly goal-- Incomparably higher is his lot."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Angelico was incomparably the greatest of the distinctively mediaeval school, whose ‘dicta’ the Prior in the poem has all at his tongue’s end."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an incomparable manner or to an incomparable degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an incomparable manner or to an incomparable degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The issues at stake, demanding every ounce of their energy, are incomparably glorious."*
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"For man is given a living, loving soul; Man lives as other works of God live not; He strives to reach a high and Heav'nly goal-- Incomparably higher is his lot."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Angelico was incomparably the greatest of the distinctively mediaeval school, whose ‘dicta’ the Prior in the poem has all at his tongue’s end."*

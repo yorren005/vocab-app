@@ -5,15 +5,6 @@ status: unread
 ---
 # ratified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Approve and express assent, responsibility, or obligation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formally approved and invested with legal authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This cunning Cardinal The articles o’ th’ combination drew As himself pleased; and they were ratified As he cried “Thus let be,” to as much end As give a crutch to the dead."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me supervise the canzonet. [_He takes the letter_.] Here are only numbers ratified, but, for the elegancy, facility, and golden cadence of poesy, _caret_."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The Emperor ratified whatever Chong Mong-ju willed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Approve and express assent, responsibility, or obligation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formally approved and invested with legal authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This cunning Cardinal The articles o’ th’ combination drew As himself pleased; and they were ratified As he cried “Thus let be,” to as much end As give a crutch to the dead."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me supervise the canzonet. [_He takes the letter_.] Here are only numbers ratified, but, for the elegancy, facility, and golden cadence of poesy, _caret_."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The Emperor ratified whatever Chong Mong-ju willed."*

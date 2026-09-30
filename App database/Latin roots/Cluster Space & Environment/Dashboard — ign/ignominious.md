@@ -5,15 +5,6 @@ status: unread
 ---
 # ignominious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of conduct or character) deserving or bringing disgrace or shame; - rachel carson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of conduct or character) deserving or bringing disgrace or shame; - rachel carson.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath he not twit our sovereign lady here With ignominious words, though clerkly couched, As if she had suborned some to swear False allegations to o’erthrow his state?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And heavens and honour be witness that no want of resolution in me, but only my followers’ base and ignominious treasons, makes me betake me to my heels. [_Exit._] BUCKINGHAM."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Upon the desolate spot, where fate had placed me, I conceived myself far more happy than many, who, for ignominious crimes, were doomed to drag out their lives in solitary confinement with conscience ever biting as a corrosive canker."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of conduct or character) deserving or bringing disgrace or shame; - rachel carson.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of conduct or character) deserving or bringing disgrace or shame; - rachel carson.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath he not twit our sovereign lady here With ignominious words, though clerkly couched, As if she had suborned some to swear False allegations to o’erthrow his state?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And heavens and honour be witness that no want of resolution in me, but only my followers’ base and ignominious treasons, makes me betake me to my heels. [_Exit._] BUCKINGHAM."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Upon the desolate spot, where fate had placed me, I conceived myself far more happy than many, who, for ignominious crimes, were doomed to drag out their lives in solitary confinement with conscience ever biting as a corrosive canker."*

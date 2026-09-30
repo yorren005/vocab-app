@@ -5,13 +5,6 @@ status: unread
 ---
 # architeuthis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Largest mollusk known about but never seen (to 60 feet long).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Largest mollusk known about but never seen (to 60 feet long).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, architeuthis designates largest mollusk known about but never seen (to 60 feet long)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Largest mollusk known about but never seen (to 60 feet long).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Largest mollusk known about but never seen (to 60 feet long).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, architeuthis designates largest mollusk known about but never seen (to 60 feet long)."*

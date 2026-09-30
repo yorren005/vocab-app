@@ -5,13 +5,6 @@ status: unread
 ---
 # cyan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A greenish-blue color —used in photography and color printing of one of the primary colors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dark blue : blue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyan designates a greenish-blue color —used in photography and color printing of one of the primary colors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A greenish-blue color —used in photography and color printing of one of the primary colors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dark blue : blue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyan designates a greenish-blue color —used in photography and color printing of one of the primary colors."*

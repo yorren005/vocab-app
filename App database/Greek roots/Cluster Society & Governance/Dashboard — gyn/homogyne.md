@@ -5,13 +5,6 @@ status: unread
 ---
 # homogyne
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of low perennial herbs of montane europe; in some classifications included in genus tussilago.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of low perennial herbs of montane europe; in some classifications included in genus tussilago.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homogyne designates small genus of low perennial herbs of montane europe; in some classifications included in genus tussilago."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of low perennial herbs of montane europe; in some classifications included in genus tussilago.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of low perennial herbs of montane europe; in some classifications included in genus tussilago.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homogyne designates small genus of low perennial herbs of montane europe; in some classifications included in genus tussilago."*

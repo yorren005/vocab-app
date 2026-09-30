@@ -5,15 +5,6 @@ status: unread
 ---
 # fender
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A barrier that surrounds the wheels of a vehicle to block splashing water or mud.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclined metal frame at the front of a locomotive to clear the track.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Weevle moodily pushes the snuffers-tray from him with his elbow, leans his head on his hand, puts his feet on the fender, and looks at the fire."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket made me sit down in a corner by the fire and take off my wet shoes, which he turned up to dry upon the fender, talking all the time."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"And how odd the directions will look! _Alice’s Right Foot, Esq., Hearthrug, near the Fender,_ (_with Alice’s love_)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A barrier that surrounds the wheels of a vehicle to block splashing water or mud.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclined metal frame at the front of a locomotive to clear the track.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Weevle moodily pushes the snuffers-tray from him with his elbow, leans his head on his hand, puts his feet on the fender, and looks at the fire."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket made me sit down in a corner by the fire and take off my wet shoes, which he turned up to dry upon the fender, talking all the time."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"And how odd the directions will look! _Alice’s Right Foot, Esq., Hearthrug, near the Fender,_ (_with Alice’s love_)."*

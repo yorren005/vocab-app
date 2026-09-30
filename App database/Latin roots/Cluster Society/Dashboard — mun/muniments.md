@@ -5,14 +5,6 @@ status: unread
 ---
 # muniments
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deeds and other documentary evidence of title to land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deeds and other documentary evidence of title to land.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The kingly crowned head, the vigilant eye, The counsellor heart, the arm our soldier, Our steed the leg, the tongue our trumpeter, With other muniments and petty helps Is this our fabric, if that they— MENENIUS."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"In times of danger, and particularly during the siege, they appear to have served the manifold purposes of cellars, storehouses, larders, magazines, and muniments of war, with provisions for a numerous garrison and household."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deeds and other documentary evidence of title to land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deeds and other documentary evidence of title to land.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The kingly crowned head, the vigilant eye, The counsellor heart, the arm our soldier, Our steed the leg, the tongue our trumpeter, With other muniments and petty helps Is this our fabric, if that they— MENENIUS."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"In times of danger, and particularly during the siege, they appear to have served the manifold purposes of cellars, storehouses, larders, magazines, and muniments of war, with provisions for a numerous garrison and household."*

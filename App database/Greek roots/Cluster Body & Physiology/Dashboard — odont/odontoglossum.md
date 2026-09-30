@@ -5,13 +5,6 @@ status: unread
 ---
 # odontoglossum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous and diverse orchids of the genus odontoglossum having racemes of few to many showy usually large flowers in many colors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous and diverse orchids of the genus odontoglossum having racemes of few to many showy usually large flowers in many colors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, odontoglossum designates any of numerous and diverse orchids of the genus odontoglossum having racemes of few to many showy usually large flowers in many colors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous and diverse orchids of the genus odontoglossum having racemes of few to many showy usually large flowers in many colors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous and diverse orchids of the genus odontoglossum having racemes of few to many showy usually large flowers in many colors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, odontoglossum designates any of numerous and diverse orchids of the genus odontoglossum having racemes of few to many showy usually large flowers in many colors."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # undeniable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not possible to deny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not possible to deny.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Being what it is, she neither knows nor cares.” Caddy was not at all deficient in natural affection for her mother, but mentioned this with tears as an undeniable fact, which I am afraid it was."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Still, it is undeniable that he makes calls upon our credulity, which a man obeys with reluctance."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"In any case, the parables give us pictures of the undeniable activities of the household."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not possible to deny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not possible to deny.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Being what it is, she neither knows nor cares.” Caddy was not at all deficient in natural affection for her mother, but mentioned this with tears as an undeniable fact, which I am afraid it was."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Still, it is undeniable that he makes calls upon our credulity, which a man obeys with reluctance."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"In any case, the parables give us pictures of the undeniable activities of the household."*

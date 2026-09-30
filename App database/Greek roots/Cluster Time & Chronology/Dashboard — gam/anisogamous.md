@@ -5,13 +5,6 @@ status: unread
 ---
 # anisogamous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a type of sexual reproduction in which the gametes are dissimilar in some respect (as size or shape).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to a type of sexual reproduction in which the gametes are dissimilar in some respect (as size or shape).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anisogamous designates relating to a type of sexual reproduction in which the gametes are dissimilar in some respect (as size or shape)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a type of sexual reproduction in which the gametes are dissimilar in some respect (as size or shape).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to a type of sexual reproduction in which the gametes are dissimilar in some respect (as size or shape).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anisogamous designates relating to a type of sexual reproduction in which the gametes are dissimilar in some respect (as size or shape)."*

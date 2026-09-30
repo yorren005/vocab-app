@@ -5,15 +5,6 @@ status: unread
 ---
 # ecclesiastes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An old testament book consisting of reflections on the vanity of human life; is traditionally attributed to solomon but probably was written about 250 bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old testament book consisting of reflections on the vanity of human life; is traditionally attributed to solomon but probably was written about 250 bc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Very well,” said Oak, firmly, with the bearing of one who was going to give his days and nights to Ecclesiastes for ever."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The truest of all men was the Man of Sorrows, and the truest of all books is Solomon’s, and Ecclesiastes is the fine hammered steel of woe."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And to the question asked by Ecclesiastes three thousand years ago, “That which is far off and exceeding deep, who can find it out?” two men alone of all now living have the right to give an answer—— CAPTAIN NEMO AND MYSELF."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An old testament book consisting of reflections on the vanity of human life; is traditionally attributed to solomon but probably was written about 250 bc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old testament book consisting of reflections on the vanity of human life; is traditionally attributed to solomon but probably was written about 250 bc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Very well,” said Oak, firmly, with the bearing of one who was going to give his days and nights to Ecclesiastes for ever."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The truest of all men was the Man of Sorrows, and the truest of all books is Solomon’s, and Ecclesiastes is the fine hammered steel of woe."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And to the question asked by Ecclesiastes three thousand years ago, “That which is far off and exceeding deep, who can find it out?” two men alone of all now living have the right to give an answer—— CAPTAIN NEMO AND MYSELF."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # compositae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plants with heads composed of many florets: aster; daisy; dandelion; goldenrod; marigold; lettuces; ragweed; sunflower; thistle; zinnia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plants with heads composed of many florets: aster; daisy; dandelion; goldenrod; marigold; lettuces; ragweed; sunflower; thistle; zinnia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, compositae designates plants with heads composed of many florets: aster; daisy; dandelion; goldenrod; marigold; lettuces; ragweed; sunflower; thistle; zinnia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plants with heads composed of many florets: aster; daisy; dandelion; goldenrod; marigold; lettuces; ragweed; sunflower; thistle; zinnia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plants with heads composed of many florets: aster; daisy; dandelion; goldenrod; marigold; lettuces; ragweed; sunflower; thistle; zinnia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, compositae designates plants with heads composed of many florets: aster; daisy; dandelion; goldenrod; marigold; lettuces; ragweed; sunflower; thistle; zinnia."*

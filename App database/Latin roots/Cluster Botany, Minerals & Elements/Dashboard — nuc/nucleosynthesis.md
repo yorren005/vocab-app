@@ -5,13 +5,6 @@ status: unread
 ---
 # nucleosynthesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) the cosmic synthesis of atoms more complex than the hydrogen atom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astronomy) the cosmic synthesis of atoms more complex than the hydrogen atom.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nucleosynthesis designates (astronomy) the cosmic synthesis of atoms more complex than the hydrogen atom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) the cosmic synthesis of atoms more complex than the hydrogen atom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astronomy) the cosmic synthesis of atoms more complex than the hydrogen atom.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nucleosynthesis designates (astronomy) the cosmic synthesis of atoms more complex than the hydrogen atom."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # humid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or characterized by a great deal of water vapor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or characterized by a great deal of water vapor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"We’ll push on,” said Gabriel, remounting his humid steed."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"By the time that Tess was dressed Clare was downstairs and out in the humid air."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Parting Kiss Humid seal of soft affections, Tenderest pledge of future bliss, Dearest tie of young connections, Love’s first snowdrop, virgin kiss!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or characterized by a great deal of water vapor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or characterized by a great deal of water vapor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"We’ll push on,” said Gabriel, remounting his humid steed."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"By the time that Tess was dressed Clare was downstairs and out in the humid air."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Parting Kiss Humid seal of soft affections, Tenderest pledge of future bliss, Dearest tie of young connections, Love’s first snowdrop, virgin kiss!"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # differentia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinguishing characteristics (especially in different species of a genus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinguishing characteristics (especially in different species of a genus).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, differentia designates distinguishing characteristics (especially in different species of a genus)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinguishing characteristics (especially in different species of a genus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinguishing characteristics (especially in different species of a genus).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, differentia designates distinguishing characteristics (especially in different species of a genus)."*

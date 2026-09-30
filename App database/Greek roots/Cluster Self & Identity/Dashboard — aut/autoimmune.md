@@ -5,13 +5,6 @@ status: unread
 ---
 # autoimmune
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or caused by autoantibodies or T cells that attack molecules, cells, or tissues of the organism producing them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or caused by autoantibodies or T cells that attack molecules, cells, or tissues of the organism producing them.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autoimmune designates of, relating to, or caused by autoantibodies or t cells that attack molecules, cells, or tissues of the organism producing them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or caused by autoantibodies or T cells that attack molecules, cells, or tissues of the organism producing them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or caused by autoantibodies or T cells that attack molecules, cells, or tissues of the organism producing them.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autoimmune designates of, relating to, or caused by autoantibodies or t cells that attack molecules, cells, or tissues of the organism producing them."*

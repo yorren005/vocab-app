@@ -5,13 +5,6 @@ status: unread
 ---
 # prosopography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A study that identifies and relates a group of persons or characters within a particular historical or literary context.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A study that identifies and relates a group of persons or characters within a particular historical or literary context.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosopography designates a study that identifies and relates a group of persons or characters within a particular historical or literary context."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A study that identifies and relates a group of persons or characters within a particular historical or literary context.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A study that identifies and relates a group of persons or characters within a particular historical or literary context.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosopography designates a study that identifies and relates a group of persons or characters within a particular historical or literary context."*

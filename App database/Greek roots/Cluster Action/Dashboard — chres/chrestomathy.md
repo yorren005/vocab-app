@@ -5,13 +5,6 @@ status: unread
 ---
 # chrestomathy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A selection of passages used to help learn a language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A volume of selected passages or stories of an author.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrestomathy designates a selection of passages used to help learn a language."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A selection of passages used to help learn a language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A volume of selected passages or stories of an author.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrestomathy designates a selection of passages used to help learn a language."*

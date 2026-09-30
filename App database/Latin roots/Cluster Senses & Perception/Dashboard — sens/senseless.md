@@ -5,15 +5,6 @@ status: unread
 ---
 # senseless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not marked by the use of reason.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unresponsive to stimulation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say we must not So stain our judgment, or corrupt our hope, To prostitute our past-cure malady To empirics, or to dissever so Our great self and our credit, to esteem A senseless help, when help past sense we deem."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that a fool doth very wisely hit Doth very foolishly, although he smart, Not to seem senseless of the bob."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou whoreson, senseless villain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not marked by the use of reason.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unresponsive to stimulation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say we must not So stain our judgment, or corrupt our hope, To prostitute our past-cure malady To empirics, or to dissever so Our great self and our credit, to esteem A senseless help, when help past sense we deem."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that a fool doth very wisely hit Doth very foolishly, although he smart, Not to seem senseless of the bob."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou whoreson, senseless villain."*

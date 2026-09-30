@@ -5,13 +5,6 @@ status: unread
 ---
 # vocalize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Utter with vibrating vocal chords.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sing (each note a scale or in a melody) with the same vowel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vocalize designates utter with vibrating vocal chords."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Utter with vibrating vocal chords.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sing (each note a scale or in a melody) with the same vowel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vocalize designates utter with vibrating vocal chords."*

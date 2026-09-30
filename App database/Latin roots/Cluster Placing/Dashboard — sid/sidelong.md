@@ -5,15 +5,6 @@ status: unread
 ---
 # sidelong
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used especially of glances) directed to one side with or as if with doubt or suspicion or envy; - elizabeth bowen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated at or extending to the side; ; - tennyson.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He drew out the weapon, which came forth with a slow sidelong wrench of its curved blade: a gush of blood followed, running down over Val's shirt, over his shabby coat, over the steps of Wanhope and the dry autumn turf."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The envious billows sidelong swell to whelm my track; let them; but first I pass."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The first and second were successfully darted, and we saw the whales staggeringly running off, fettered by the enormous sidelong resistance of the towing drugg."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (used especially of glances) directed to one side with or as if with doubt or suspicion or envy; - elizabeth bowen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated at or extending to the side; ; - tennyson.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"He drew out the weapon, which came forth with a slow sidelong wrench of its curved blade: a gush of blood followed, running down over Val's shirt, over his shabby coat, over the steps of Wanhope and the dry autumn turf."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The envious billows sidelong swell to whelm my track; let them; but first I pass."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The first and second were successfully darted, and we saw the whales staggeringly running off, fettered by the enormous sidelong resistance of the towing drugg."*

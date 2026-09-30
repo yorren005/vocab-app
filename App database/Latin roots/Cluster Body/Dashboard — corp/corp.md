@@ -5,15 +5,6 @@ status: unread
 ---
 # corp
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A business firm whose articles of incorporation have been approved in some state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A business firm whose articles of incorporation have been approved in some state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And then says Hughie Rafferty: 'The tide will bring him to Cushendall.' "And at Cushendall next day we found the corp."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Reference may be made to the hierodules of the temples in ancient Asia and in modern India. [85] _Corp."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He was of an adventurous and somewhat restless disposition, and, at the time of the threatened invasion by Napoleon, joined a local Volunteer corps."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A business firm whose articles of incorporation have been approved in some state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A business firm whose articles of incorporation have been approved in some state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And then says Hughie Rafferty: 'The tide will bring him to Cushendall.' "And at Cushendall next day we found the corp."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Reference may be made to the hierodules of the temples in ancient Asia and in modern India. [85] _Corp."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"He was of an adventurous and somewhat restless disposition, and, at the time of the threatened invasion by Napoleon, joined a local Volunteer corps."*

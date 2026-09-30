@@ -5,15 +5,6 @@ status: unread
 ---
 # disaster
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden calamitous event bringing great damage, loss, or destruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone or something that is very bad: such as.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That was not to be blam’d in the command of the service; it was a disaster of war that Caesar himself could not have prevented, if he had been there to command."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She call’d the saints to surety That she would never put it from her finger Unless she gave it to yourself in bed, Where you have never come, or sent it us Upon her great disaster."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To be called into a huge sphere, and not to be seen to move in ’t, are the holes where eyes should be, which pitifully disaster the cheeks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden calamitous event bringing great damage, loss, or destruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone or something that is very bad: such as.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That was not to be blam’d in the command of the service; it was a disaster of war that Caesar himself could not have prevented, if he had been there to command."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She call’d the saints to surety That she would never put it from her finger Unless she gave it to yourself in bed, Where you have never come, or sent it us Upon her great disaster."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To be called into a huge sphere, and not to be seen to move in ’t, are the holes where eyes should be, which pitifully disaster the cheeks."*

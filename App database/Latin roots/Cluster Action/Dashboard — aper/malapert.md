@@ -5,15 +5,6 @@ status: unread
 ---
 # malapert
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin aper within the domain of Action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of aper in systematic terminology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Untutored lad, thou art too malapert."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace, Master Marquess, you are malapert."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, then, I must have an ounce or two of this malapert blood from you. [_Draws._] Enter Olivia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin aper within the domain of Action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of aper in systematic terminology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Untutored lad, thou art too malapert."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace, Master Marquess, you are malapert."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, then, I must have an ounce or two of this malapert blood from you. [_Draws._] Enter Olivia."*

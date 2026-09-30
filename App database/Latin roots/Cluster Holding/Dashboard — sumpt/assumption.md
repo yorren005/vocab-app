@@ -5,15 +5,6 @@ status: unread
 ---
 # assumption
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that is assumed to be true and from which a conclusion can be drawn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hypothesis that is taken for granted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But a stir in that direction, a gathering of reverential awe in the rustic faces, and a blandly ferocious assumption on the part of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have no time to waste.” In the midst of his perfect assumption of indifference, he directs a sharp look at the trooper, taking care to stand with his own back to the light and to have the other with his face towards it."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It is but justice to say, that in no case has there ever been the thought or the assumption, by Doctor Cullis himself, of having _any divinely conferred power_ to heal all that come to him, or for whom he may pray."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that is assumed to be true and from which a conclusion can be drawn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hypothesis that is taken for granted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But a stir in that direction, a gathering of reverential awe in the rustic faces, and a blandly ferocious assumption on the part of Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I have no time to waste.” In the midst of his perfect assumption of indifference, he directs a sharp look at the trooper, taking care to stand with his own back to the light and to have the other with his face towards it."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"It is but justice to say, that in no case has there ever been the thought or the assumption, by Doctor Cullis himself, of having _any divinely conferred power_ to heal all that come to him, or for whom he may pray."*

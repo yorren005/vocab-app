@@ -5,14 +5,6 @@ status: unread
 ---
 # omphalos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scar where the umbilical cord was attached.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scar where the umbilical cord was attached.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"To ourselves... new paganism... omphalos. —Let him stay, Stephen said."*
-> - 📜 **James Joyce (*Ulysses*):** *"But ours is the _omphalos_. —What is your idea of Hamlet?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scar where the umbilical cord was attached.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scar where the umbilical cord was attached.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"To ourselves... new paganism... omphalos. —Let him stay, Stephen said."*
+> - 📜 **James Joyce (*Ulysses*):** *"But ours is the _omphalos_. —What is your idea of Hamlet?"*

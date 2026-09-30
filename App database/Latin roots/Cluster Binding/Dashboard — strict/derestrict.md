@@ -5,13 +5,6 @@ status: unread
 ---
 # derestrict
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make free from restrictions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make free from restrictions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, derestrict designates make free from restrictions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make free from restrictions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make free from restrictions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, derestrict designates make free from restrictions."*

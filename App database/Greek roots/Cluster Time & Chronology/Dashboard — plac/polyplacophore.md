@@ -5,13 +5,6 @@ status: unread
 ---
 # polyplacophore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive elongated bilaterally symmetrical marine mollusk having a mantle covered with eight calcareous plates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive elongated bilaterally symmetrical marine mollusk having a mantle covered with eight calcareous plates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyplacophore designates primitive elongated bilaterally symmetrical marine mollusk having a mantle covered with eight calcareous plates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive elongated bilaterally symmetrical marine mollusk having a mantle covered with eight calcareous plates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive elongated bilaterally symmetrical marine mollusk having a mantle covered with eight calcareous plates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyplacophore designates primitive elongated bilaterally symmetrical marine mollusk having a mantle covered with eight calcareous plates."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sensuality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Desire for sensual pleasures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Desire for sensual pleasures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will write against it: You seem to me as Dian in her orb, As chaste as is the bud ere it be blown; But you are more intemperate in your blood Than Venus, or those pamper’d animals That rage in savage sensuality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the balance of our lives had not one scale of reason to poise another of sensuality, the blood and baseness of our natures would conduct us to most preposterous conclusions."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"To the poet he bequeathed something of his own pathological sensuality, instability of thought and action, lack of will-energy, and the tears of a heartbroken mother, a sufficient guarantee, surely, of a poet of melancholy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Desire for sensual pleasures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Desire for sensual pleasures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will write against it: You seem to me as Dian in her orb, As chaste as is the bud ere it be blown; But you are more intemperate in your blood Than Venus, or those pamper’d animals That rage in savage sensuality."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the balance of our lives had not one scale of reason to poise another of sensuality, the blood and baseness of our natures would conduct us to most preposterous conclusions."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"To the poet he bequeathed something of his own pathological sensuality, instability of thought and action, lack of will-energy, and the tears of a heartbroken mother, a sufficient guarantee, surely, of a poet of melancholy."*

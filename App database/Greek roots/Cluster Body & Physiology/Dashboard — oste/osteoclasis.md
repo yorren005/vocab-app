@@ -5,13 +5,6 @@ status: unread
 ---
 # osteoclasis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treatment of a skeletal deformity by intentionally fracturing a bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treatment of a skeletal deformity by intentionally fracturing a bone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteoclasis designates treatment of a skeletal deformity by intentionally fracturing a bone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treatment of a skeletal deformity by intentionally fracturing a bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treatment of a skeletal deformity by intentionally fracturing a bone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteoclasis designates treatment of a skeletal deformity by intentionally fracturing a bone."*

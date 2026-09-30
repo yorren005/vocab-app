@@ -5,15 +5,6 @@ status: unread
 ---
 # humility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition to be humble; a lack of false pride.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A humble feeling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who were below him He us’d as creatures of another place, And bow’d his eminent top to their low ranks, Making them proud of his humility, In their poor praise he humbled."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though honesty be no puritan, yet it will do no hurt; it will wear the surplice of humility over the black gown of a big heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I heard him swear, Were he to stand for consul, never would he Appear i’ th’ marketplace nor on him put The napless vesture of humility, Nor showing, as the manner is, his wounds To th’ people, beg their stinking breaths."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition to be humble; a lack of false pride.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A humble feeling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who were below him He us’d as creatures of another place, And bow’d his eminent top to their low ranks, Making them proud of his humility, In their poor praise he humbled."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though honesty be no puritan, yet it will do no hurt; it will wear the surplice of humility over the black gown of a big heart."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I heard him swear, Were he to stand for consul, never would he Appear i’ th’ marketplace nor on him put The napless vesture of humility, Nor showing, as the manner is, his wounds To th’ people, beg their stinking breaths."*

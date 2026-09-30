@@ -5,15 +5,6 @@ status: unread
 ---
 # entomological
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the biological science of entomology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the biological science of entomology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"His chief amusements were gunning and fishing, or sauntering along the beach and through the myrtles, in quest of shells or entomological specimens—his collection of the latter might have been envied by a Swammerdamm."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"In the entomological world a solitary interview between fly and spider is usually fatal to the one, and satisfactory to the other."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The valley gave an entomological invitation to Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the biological science of entomology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the biological science of entomology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"His chief amusements were gunning and fishing, or sauntering along the beach and through the myrtles, in quest of shells or entomological specimens—his collection of the latter might have been envied by a Swammerdamm."*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"In the entomological world a solitary interview between fly and spider is usually fatal to the one, and satisfactory to the other."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The valley gave an entomological invitation to Mr."*

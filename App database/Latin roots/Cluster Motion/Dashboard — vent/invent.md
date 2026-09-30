@@ -5,15 +5,6 @@ status: unread
 ---
 # invent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come up with (an idea, plan, explanation, theory, or principle) after a mental effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make up something artificial or untrue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say she never did invent this letter; This is a man’s invention, and his hand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The brain of this foolish-compounded clay, man, is not able to invent anything that tends to laughter more than I invent, or is invented on me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could well wish courtesy would invent some other custom of entertainment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Come up with (an idea, plan, explanation, theory, or principle) after a mental effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make up something artificial or untrue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say she never did invent this letter; This is a man’s invention, and his hand."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The brain of this foolish-compounded clay, man, is not able to invent anything that tends to laughter more than I invent, or is invented on me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could well wish courtesy would invent some other custom of entertainment."*

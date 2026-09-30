@@ -5,15 +5,6 @@ status: unread
 ---
 # electrically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By electricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By electricity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Time sweeps by us on electrically-driven, ball-bearing pinions."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Black-leading._ Making the face of the molded case electrically conductive by applying graphite. _9."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"His sacred organism, so delicate that a touch may disorder it, is also, as it were, electrically charged with a powerful magical or spiritual force which may discharge itself with fatal effect on whatever comes in contact with it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By electricity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By electricity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Time sweeps by us on electrically-driven, ball-bearing pinions."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Black-leading._ Making the face of the molded case electrically conductive by applying graphite. _9."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"His sacred organism, so delicate that a touch may disorder it, is also, as it were, electrically charged with a powerful magical or spiritual force which may discharge itself with fatal effect on whatever comes in contact with it."*

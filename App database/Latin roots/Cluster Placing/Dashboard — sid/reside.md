@@ -5,15 +5,6 @@ status: unread
 ---
 # reside
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make one's home in a particular place or community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Live (in a certain place).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would not there reside, To put my father in impatient thoughts, By being in his eye."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Each man apart, all single and alone, Yet an arch-villain keeps him company. [_To one_.] If where thou art, two villians shall not be, Come not near him. [_To the other_.] If thou wouldst not reside But where one villain is, then him abandon."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I did not think it necessary to reply that I was perfectly aware I should not do that, in any case, but merely told him where I did reside."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make one's home in a particular place or community.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Live (in a certain place).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would not there reside, To put my father in impatient thoughts, By being in his eye."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Each man apart, all single and alone, Yet an arch-villain keeps him company. [_To one_.] If where thou art, two villians shall not be, Come not near him. [_To the other_.] If thou wouldst not reside But where one villain is, then him abandon."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I did not think it necessary to reply that I was perfectly aware I should not do that, in any case, but merely told him where I did reside."*

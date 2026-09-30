@@ -5,13 +5,6 @@ status: unread
 ---
 # frat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social club for male undergraduates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A social club for male undergraduates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Volkmann, _Plutarch_, i, 24, suggests he was the Timon whose wife Pliny defended on one occasion, _Epp._ i, 5, 5. [15] _de frat. am._ 7, 481 D. [16] _de E._ 1, 385 B. [17] _v."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A social club for male undergraduates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A social club for male undergraduates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Volkmann, _Plutarch_, i, 24, suggests he was the Timon whose wife Pliny defended on one occasion, _Epp._ i, 5, 5. [15] _de frat. am._ 7, 481 D. [16] _de E._ 1, 385 B. [17] _v."*

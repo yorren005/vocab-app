@@ -5,13 +5,6 @@ status: unread
 ---
 # ultramicroscope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Light microscope that uses scattered light to show particles too small to see with ordinary microscopes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Light microscope that uses scattered light to show particles too small to see with ordinary microscopes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultramicroscope designates light microscope that uses scattered light to show particles too small to see with ordinary microscopes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Light microscope that uses scattered light to show particles too small to see with ordinary microscopes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Light microscope that uses scattered light to show particles too small to see with ordinary microscopes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultramicroscope designates light microscope that uses scattered light to show particles too small to see with ordinary microscopes."*

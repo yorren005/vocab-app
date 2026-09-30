@@ -5,15 +5,6 @@ status: unread
 ---
 # gentility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elegance by virtue of fineness of manner and expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elegance by virtue of fineness of manner and expression.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He lets me feed with his hinds, bars me the place of a brother, and as much as in him lies, mines my gentility with my education."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For pity’s sake and true gentility’s, Hear and respect me."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn is so powerful.” “It shall not be wanting, mademoiselle.” “Receive the assurance of my devoted gratitude, dear sir.” “Good night.” Mademoiselle goes out with an air of native gentility; and Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Elegance by virtue of fineness of manner and expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elegance by virtue of fineness of manner and expression.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He lets me feed with his hinds, bars me the place of a brother, and as much as in him lies, mines my gentility with my education."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For pity’s sake and true gentility’s, Hear and respect me."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn is so powerful.” “It shall not be wanting, mademoiselle.” “Receive the assurance of my devoted gratitude, dear sir.” “Good night.” Mademoiselle goes out with an air of native gentility; and Mr."*

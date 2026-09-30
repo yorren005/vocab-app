@@ -5,15 +5,6 @@ status: unread
 ---
 # sacrilege
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blasphemous behavior; the act of depriving something of its sacred character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blasphemous behavior; the act of depriving something of its sacred character.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"That night, although news of the sacrilege was spreading through Cho-Sen and half the northern provinces had risen on their officials, Keijo and the Court slept in ignorance."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Beyond gasping at the sacrilege of the king’s tombs and applauding Chong Mong-ju, Cho-Sen was unperturbed."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"His pictures, so sacred to his soul, would be the subject of their prate, “This I love, or this I hate, this likes me more, and this affects me less!” To avoid such sacrilege, he has chosen his portion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blasphemous behavior; the act of depriving something of its sacred character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blasphemous behavior; the act of depriving something of its sacred character.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"That night, although news of the sacrilege was spreading through Cho-Sen and half the northern provinces had risen on their officials, Keijo and the Court slept in ignorance."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Beyond gasping at the sacrilege of the king’s tombs and applauding Chong Mong-ju, Cho-Sen was unperturbed."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"His pictures, so sacred to his soul, would be the subject of their prate, “This I love, or this I hate, this likes me more, and this affects me less!” To avoid such sacrilege, he has chosen his portion."*

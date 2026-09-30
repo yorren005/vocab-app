@@ -5,13 +5,6 @@ status: unread
 ---
 # optometrist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled in testing for defects of vision in order to prescribe corrective glasses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person skilled in testing for defects of vision in order to prescribe corrective glasses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, optometrist designates a person skilled in testing for defects of vision in order to prescribe corrective glasses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled in testing for defects of vision in order to prescribe corrective glasses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person skilled in testing for defects of vision in order to prescribe corrective glasses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, optometrist designates a person skilled in testing for defects of vision in order to prescribe corrective glasses."*

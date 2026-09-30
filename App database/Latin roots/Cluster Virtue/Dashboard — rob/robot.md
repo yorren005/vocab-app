@@ -5,15 +5,6 @@ status: unread
 ---
 # robot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanism that can move automatically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanism that can move automatically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Joining the laughing, chattering throng, they squeezed their way to the desk robot, and registered as a group."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A convoy of robot deflectors and screens cleared the Extractor fleet's path of meteoroids, sand and rock swarms and space debris."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A fleet of robot tugs clamped mag-beams on the free-floating globes and hauled them off."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanism that can move automatically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanism that can move automatically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Joining the laughing, chattering throng, they squeezed their way to the desk robot, and registered as a group."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A convoy of robot deflectors and screens cleared the Extractor fleet's path of meteoroids, sand and rock swarms and space debris."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A fleet of robot tugs clamped mag-beams on the free-floating globes and hauled them off."*

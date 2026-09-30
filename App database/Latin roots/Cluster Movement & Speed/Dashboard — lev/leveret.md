@@ -5,15 +5,6 @@ status: unread
 ---
 # leveret
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young hare especially one in its first year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young hare especially one in its first year.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"But—eh? what?” These interrogatives were addressed to the footman who had come in to say that the keeper had found one of Dagley’s boys with a leveret in his hand just killed."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke, who presently came and said that he would step into the carriage and go with Dorothea as far as Dagley’s, to speak about the small delinquent who had been caught with the leveret."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Your little lad Jacob has been caught killing a leveret, Dagley: I have told Johnson to lock him up in the empty stable an hour or two, just to frighten him, you know."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A young hare especially one in its first year.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young hare especially one in its first year.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"But—eh? what?” These interrogatives were addressed to the footman who had come in to say that the keeper had found one of Dagley’s boys with a leveret in his hand just killed."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke, who presently came and said that he would step into the carriage and go with Dorothea as far as Dagley’s, to speak about the small delinquent who had been caught with the leveret."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Your little lad Jacob has been caught killing a leveret, Dagley: I have told Johnson to lock him up in the empty stable an hour or two, just to frighten him, you know."*

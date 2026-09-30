@@ -5,13 +5,6 @@ status: unread
 ---
 # uninfluential
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not influential.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not influential.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I did not want to quarrel with anyone, influential or uninfluential."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not influential.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not influential.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I did not want to quarrel with anyone, influential or uninfluential."*

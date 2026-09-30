@@ -5,15 +5,6 @@ status: unread
 ---
 # petite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A garment size for short or slender women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very small.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They say he sold his soul to the devil, and that he walks at times.” She felt the _petite mort_ at this unexpectedly gruesome information, and left the solitary man behind her."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Monsieur a parlé de vous: il m’a demandé le nom de ma gouvernante, et si elle n’était pas une petite personne, assez mince et un peu pâle."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Repeating her name slowly, she smiled invitingly at the petite woman seated on a nearby bench."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A garment size for short or slender women.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very small.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They say he sold his soul to the devil, and that he walks at times.” She felt the _petite mort_ at this unexpectedly gruesome information, and left the solitary man behind her."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Monsieur a parlé de vous: il m’a demandé le nom de ma gouvernante, et si elle n’était pas une petite personne, assez mince et un peu pâle."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Repeating her name slowly, she smiled invitingly at the petite woman seated on a nearby bench."*

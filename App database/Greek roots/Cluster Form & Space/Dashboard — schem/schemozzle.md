@@ -5,13 +5,6 @@ status: unread
 ---
 # schemozzle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (yiddish) a confused situation or affair; a mess.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (yiddish) a confused situation or affair; a mess.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schemozzle designates (yiddish) a confused situation or affair; a mess."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (yiddish) a confused situation or affair; a mess.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (yiddish) a confused situation or affair; a mess.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schemozzle designates (yiddish) a confused situation or affair; a mess."*

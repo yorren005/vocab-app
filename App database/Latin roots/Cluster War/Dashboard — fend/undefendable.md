@@ -5,13 +5,6 @@ status: unread
 ---
 # undefendable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not defended or capable of being defended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not defended or capable of being defended.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undefendable designates not defended or capable of being defended."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not defended or capable of being defended.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not defended or capable of being defended.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undefendable designates not defended or capable of being defended."*

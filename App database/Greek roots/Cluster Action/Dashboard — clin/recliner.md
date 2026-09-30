@@ -5,13 +5,6 @@ status: unread
 ---
 # recliner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An armchair whose back can be lowered and foot can be raised to allow the sitter to recline in it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An armchair whose back can be lowered and foot can be raised to allow the sitter to recline in it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recliner designates an armchair whose back can be lowered and foot can be raised to allow the sitter to recline in it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An armchair whose back can be lowered and foot can be raised to allow the sitter to recline in it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An armchair whose back can be lowered and foot can be raised to allow the sitter to recline in it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recliner designates an armchair whose back can be lowered and foot can be raised to allow the sitter to recline in it."*

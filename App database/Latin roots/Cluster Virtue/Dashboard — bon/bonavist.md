@@ -5,13 +5,6 @@ status: unread
 ---
 # bonavist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial twining vine of old world tropics having trifoliate leaves and racemes of fragrant purple pea-like flowers followed by maroon pods of edible seeds; grown as an ornamental and as a vegetable on the indian subcontinent; sometimes placed in genus dolichos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial twining vine of old world tropics having trifoliate leaves and racemes of fragrant purple pea-like flowers followed by maroon pods of edible seeds; grown as an ornamental and as a vegetable on the indian subcontinent; sometimes placed in genus dolichos.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bonavist designates perennial twining vine of old world tropics having trifoliate leaves and racemes of fragrant purple pea-like flowers followed by maroon pods of edible seeds; grown as an ornamental and as a vegetable on the indian subcontinent; sometimes placed in genus dolichos."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial twining vine of old world tropics having trifoliate leaves and racemes of fragrant purple pea-like flowers followed by maroon pods of edible seeds; grown as an ornamental and as a vegetable on the indian subcontinent; sometimes placed in genus dolichos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial twining vine of old world tropics having trifoliate leaves and racemes of fragrant purple pea-like flowers followed by maroon pods of edible seeds; grown as an ornamental and as a vegetable on the indian subcontinent; sometimes placed in genus dolichos.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bonavist designates perennial twining vine of old world tropics having trifoliate leaves and racemes of fragrant purple pea-like flowers followed by maroon pods of edible seeds; grown as an ornamental and as a vegetable on the indian subcontinent; sometimes placed in genus dolichos."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # psychrometer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hygrometer consisting essentially of two similar thermometers with the bulb of one being kept wet so that the cooling that results from evaporation makes it register a lower temperature than the dry one and with the difference between the readings constituting a measure of the dryness of the atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hygrometer consisting essentially of two similar thermometers with the bulb of one being kept wet so that the cooling that results from evaporation makes it register a lower temperature than the dry one and with the difference between the readings constituting a measure of the dryness of the atmosphere.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychrometer designates a hygrometer consisting essentially of two similar thermometers with the bulb of one being kept wet so that the cooling that results from evaporation makes it register a lower temperature than the dry one and with the difference between the readings constituting a measure of the dryness of the atmosphere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hygrometer consisting essentially of two similar thermometers with the bulb of one being kept wet so that the cooling that results from evaporation makes it register a lower temperature than the dry one and with the difference between the readings constituting a measure of the dryness of the atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hygrometer consisting essentially of two similar thermometers with the bulb of one being kept wet so that the cooling that results from evaporation makes it register a lower temperature than the dry one and with the difference between the readings constituting a measure of the dryness of the atmosphere.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychrometer designates a hygrometer consisting essentially of two similar thermometers with the bulb of one being kept wet so that the cooling that results from evaporation makes it register a lower temperature than the dry one and with the difference between the readings constituting a measure of the dryness of the atmosphere."*

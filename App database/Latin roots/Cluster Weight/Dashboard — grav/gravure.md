@@ -5,13 +5,6 @@ status: unread
 ---
 # gravure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A printing process that uses an etched or engraved plate; the plate is smeared with ink and wiped clean, then the ink left in the recesses makes the print.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A printing plate used in the process of gravure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gravure designates a printing process that uses an etched or engraved plate; the plate is smeared with ink and wiped clean, then the ink left in the recesses makes the print."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A printing process that uses an etched or engraved plate; the plate is smeared with ink and wiped clean, then the ink left in the recesses makes the print.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A printing plate used in the process of gravure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gravure designates a printing process that uses an etched or engraved plate; the plate is smeared with ink and wiped clean, then the ink left in the recesses makes the print."*

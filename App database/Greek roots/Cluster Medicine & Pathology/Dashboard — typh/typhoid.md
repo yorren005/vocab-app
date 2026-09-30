@@ -5,15 +5,6 @@ status: unread
 ---
 # typhoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Typhoid fever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease of domestic animals resembling human typhus or typhoid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"There are always typhoid and diphtheria about in the autumn, but Jimmy never fusses."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The severity of the campaign in a malarious country had prostrated many with fevers, and typhoid, in its most malignant forms, was raging with increasing fatality."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"As we were laying mattresses on the floor, whilst the doctors were finding the men, the captain stopped us, refusing to let us put typhoid fever below the deck, on account of the crew, he said, and threatening to push off, at once, from the shore."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Typhoid fever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease of domestic animals resembling human typhus or typhoid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"There are always typhoid and diphtheria about in the autumn, but Jimmy never fusses."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The severity of the campaign in a malarious country had prostrated many with fevers, and typhoid, in its most malignant forms, was raging with increasing fatality."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"As we were laying mattresses on the floor, whilst the doctors were finding the men, the captain stopped us, refusing to let us put typhoid fever below the deck, on account of the crew, he said, and threatening to push off, at once, from the shore."*

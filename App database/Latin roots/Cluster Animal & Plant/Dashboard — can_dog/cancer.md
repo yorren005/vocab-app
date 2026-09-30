@@ -5,15 +5,6 @@ status: unread
 ---
 # cancer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any malignant growth or tumor caused by abnormal and uncontrolled cell division; it may spread to other parts of the body through the lymphatic system or the blood stream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astrology) a person who is born while the sun is in cancer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That were to enlard his fat-already pride, And add more coals to Cancer when he burns With entertaining great Hyperion."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Now it embraces a very large gathering of useful enterprises: _A Consumptive's Home, Children's Home, Grove Hall Church, Tract Repository, a Training College_, and a _Cancer Home_."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A lady came to the Consumptive's Home with a cancer in the cheek, which had attained the size of a filbert."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any malignant growth or tumor caused by abnormal and uncontrolled cell division; it may spread to other parts of the body through the lymphatic system or the blood stream.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astrology) a person who is born while the sun is in cancer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That were to enlard his fat-already pride, And add more coals to Cancer when he burns With entertaining great Hyperion."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Now it embraces a very large gathering of useful enterprises: _A Consumptive's Home, Children's Home, Grove Hall Church, Tract Repository, a Training College_, and a _Cancer Home_."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A lady came to the Consumptive's Home with a cancer in the cheek, which had attained the size of a filbert."*

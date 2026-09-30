@@ -5,15 +5,6 @@ status: unread
 ---
 # orbital
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an orbit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the eye socket.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During construction the System is linked to Planet Pluto, employing mass attractors, orbital dynamics controls and stabilizers, and other means, as appropriate."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Collector is fixed to the Extractor's product launch nodes, functions and operations, and to the Extractor's orbital dynamics at destination."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Piggy-backed to Planet Pluto during construction, the Extractor uses the planet's orbital momentum for launch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an orbit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the eye socket.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During construction the System is linked to Planet Pluto, employing mass attractors, orbital dynamics controls and stabilizers, and other means, as appropriate."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Collector is fixed to the Extractor's product launch nodes, functions and operations, and to the Extractor's orbital dynamics at destination."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Piggy-backed to Planet Pluto during construction, the Extractor uses the planet's orbital momentum for launch."*

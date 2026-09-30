@@ -5,15 +5,6 @@ status: unread
 ---
 # portico
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A porch or entrance to a building consisting of a covered and often columned area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A porch or entrance to a building consisting of a covered and often columned area.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"From the portico, from the eaves, from the parapet, from every ledge and post and pillar, drips the thawed snow."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A gloomy man, who had been observing her from under the portico of the old corn-exchange when she passed through the group without, stepped quickly to her side at the moment of her exclamation, and caught her in his arms as she sank down."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"He reached the splendid portico which was the chief entrance of the Palace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A porch or entrance to a building consisting of a covered and often columned area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A porch or entrance to a building consisting of a covered and often columned area.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"From the portico, from the eaves, from the parapet, from every ledge and post and pillar, drips the thawed snow."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A gloomy man, who had been observing her from under the portico of the old corn-exchange when she passed through the group without, stepped quickly to her side at the moment of her exclamation, and caught her in his arms as she sank down."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"He reached the splendid portico which was the chief entrance of the Palace."*

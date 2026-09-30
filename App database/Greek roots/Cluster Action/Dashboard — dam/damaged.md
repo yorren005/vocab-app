@@ -5,15 +5,6 @@ status: unread
 ---
 # damaged
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflict damage upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffer or be susceptible to damage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I'll attend to it." Lippo was sitting at his little table, laying one horse after the other slowly and carefully in the box so that they should not be damaged."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Indeed, he had more the appearance in all respects of a damaged young man than a well-preserved elderly one."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A shaggy little damaged man, withal, not unlike an old dog of some mongrel breed, who has been considerably knocked about."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflict damage upon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffer or be susceptible to damage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I'll attend to it." Lippo was sitting at his little table, laying one horse after the other slowly and carefully in the box so that they should not be damaged."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Indeed, he had more the appearance in all respects of a damaged young man than a well-preserved elderly one."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A shaggy little damaged man, withal, not unlike an old dog of some mongrel breed, who has been considerably knocked about."*

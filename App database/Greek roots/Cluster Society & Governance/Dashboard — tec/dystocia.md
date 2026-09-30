@@ -5,13 +5,6 @@ status: unread
 ---
 # dystocia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slow or difficult labor or delivery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slow or difficult labor or delivery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dystocia designates slow or difficult labor or delivery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Slow or difficult labor or delivery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slow or difficult labor or delivery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dystocia designates slow or difficult labor or delivery."*

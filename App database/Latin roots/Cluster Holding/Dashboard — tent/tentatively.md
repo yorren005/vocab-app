@@ -5,15 +5,6 @@ status: unread
 ---
 # tentatively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tentative manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tentative manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Perhaps somebody in the house is in love,” she said tentatively."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He thrust tentatively, and again I feigned, this time making a needlessly wide parry."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I am just wondering," I began tentatively."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tentative manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tentative manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Perhaps somebody in the house is in love,” she said tentatively."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He thrust tentatively, and again I feigned, this time making a needlessly wide parry."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I am just wondering," I began tentatively."*

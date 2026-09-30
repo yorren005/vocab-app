@@ -5,15 +5,6 @@ status: unread
 ---
 # revolution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drastic and far-reaching change in ways of thinking and behaving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The overthrow of a government by those who are governed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That I might see what the old world could say, To this composed wonder of your frame, Whether we are mended, or whether better they, Or whether revolution be the same."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The present pleasure, By revolution lowering, does become The opposite of itself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s fine revolution, an we had the trick to see’t."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drastic and far-reaching change in ways of thinking and behaving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The overthrow of a government by those who are governed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That I might see what the old world could say, To this composed wonder of your frame, Whether we are mended, or whether better they, Or whether revolution be the same."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The present pleasure, By revolution lowering, does become The opposite of itself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s fine revolution, an we had the trick to see’t."*

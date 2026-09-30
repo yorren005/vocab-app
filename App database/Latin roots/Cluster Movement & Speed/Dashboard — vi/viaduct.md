@@ -5,15 +5,6 @@ status: unread
 ---
 # viaduct
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bridge consisting of a series of arches supported by piers used to carry a road (or railroad) over a valley.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bridge consisting of a series of arches supported by piers used to carry a road (or railroad) over a valley.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"A great viaduct runs across, with high piers, through which the view seems somehow further away than it really is."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Lucy came with me, and we went early to our old seat, whilst the cortège of boats went up the river to the Viaduct and came down again."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Andrew's, Holborn (now swept away in the building of the Holborn Viaduct), on the 13th of April 1799, and Mary came home once more."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bridge consisting of a series of arches supported by piers used to carry a road (or railroad) over a valley.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bridge consisting of a series of arches supported by piers used to carry a road (or railroad) over a valley.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"A great viaduct runs across, with high piers, through which the view seems somehow further away than it really is."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Lucy came with me, and we went early to our old seat, whilst the cortège of boats went up the river to the Viaduct and came down again."*
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Andrew's, Holborn (now swept away in the building of the Holborn Viaduct), on the 13th of April 1799, and Mary came home once more."*

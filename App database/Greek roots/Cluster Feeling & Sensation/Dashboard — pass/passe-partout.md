@@ -5,13 +5,6 @@ status: unread
 ---
 # passe-partout
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Key that secures entrance everywhere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mounting for a picture using gummed tape.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passe-partout designates key that secures entrance everywhere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Key that secures entrance everywhere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mounting for a picture using gummed tape.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passe-partout designates key that secures entrance everywhere."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # purging
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of removing by cleansing; ridding of sediment or other undesired elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of clearing yourself (or another) from some stigma or charge.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For the satirical slave says here that old men have grey beards; that their faces are wrinkled; their eyes purging thick amber and plum-tree gum; and that they have a plentiful lack of wit, together with most weak hams."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And am I then reveng’d, To take him in the purging of his soul, When he is fit and season’d for his passage?"*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"XLV The other two, slight air, and purging fire Are both with thee, wherever I abide; The first my thought, the other my desire, These present-absent with swift motion slide."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of removing by cleansing; ridding of sediment or other undesired elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of clearing yourself (or another) from some stigma or charge.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For the satirical slave says here that old men have grey beards; that their faces are wrinkled; their eyes purging thick amber and plum-tree gum; and that they have a plentiful lack of wit, together with most weak hams."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And am I then reveng’d, To take him in the purging of his soul, When he is fit and season’d for his passage?"*
+> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"XLV The other two, slight air, and purging fire Are both with thee, wherever I abide; The first my thought, the other my desire, These present-absent with swift motion slide."*

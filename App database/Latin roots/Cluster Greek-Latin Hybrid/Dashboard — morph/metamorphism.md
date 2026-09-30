@@ -5,13 +5,6 @@ status: unread
 ---
 # metamorphism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change in the structure of rock by natural agencies such as pressure or heat or introduction of new chemical substances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change in the structure of rock by natural agencies such as pressure or heat or introduction of new chemical substances.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metamorphism designates change in the structure of rock by natural agencies such as pressure or heat or introduction of new chemical substances."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Change in the structure of rock by natural agencies such as pressure or heat or introduction of new chemical substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change in the structure of rock by natural agencies such as pressure or heat or introduction of new chemical substances.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metamorphism designates change in the structure of rock by natural agencies such as pressure or heat or introduction of new chemical substances."*

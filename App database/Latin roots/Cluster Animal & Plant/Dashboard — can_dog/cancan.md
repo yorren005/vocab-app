@@ -5,13 +5,6 @@ status: unread
 ---
 # cancan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-kicking dance of french origin performed by a female chorus line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A high-kicking dance of french origin performed by a female chorus line.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"In part it was a modest _cancan_, in part a step dance, in part a skirt dance (so far as my tail-coat permitted), and in part original."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-kicking dance of french origin performed by a female chorus line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A high-kicking dance of french origin performed by a female chorus line.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"In part it was a modest _cancan_, in part a step dance, in part a skirt dance (so far as my tail-coat permitted), and in part original."*

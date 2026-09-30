@@ -5,13 +5,6 @@ status: unread
 ---
 # doctrinally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As a matter of doctrine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a matter of doctrine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess, who mused on the christening a good deal, wondered if it were doctrinally sufficient to secure a Christian burial for the child."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As a matter of doctrine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a matter of doctrine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess, who mused on the christening a good deal, wondered if it were doctrinally sufficient to secure a Christian burial for the child."*

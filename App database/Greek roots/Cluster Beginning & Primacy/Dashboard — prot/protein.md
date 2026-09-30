@@ -5,15 +5,6 @@ status: unread
 ---
 # protein
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various naturally occurring extremely complex substances that consist of amino-acid residues joined by peptide bonds, contain the elements carbon, hydrogen, nitrogen, oxygen, usually sulfur, and occasionally other elements (such as phosphorus or iron), and include many essential biological compounds (such as enzymes, hormones, or antibodies).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The total nitrogenous material in plant or animal substances.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Conduct research and develop drip, hydroponics and other agricultural systems, protein synthesis and manufacture, and ship to Coldfield, the Slingshot work site and the Logistics Depot high-quality foodstuffs suitable for storage and consumption."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"If a man consumes a large amount of meat, and very few vegetables, his diet will be too rich in protein, and too lacking in carbohydrates."*
-> - 📜 **James Joyce (*Ulysses*):** *"Dietary: concerning the respective percentage of protein and caloric energy in bacon, salt ling and butter, the absence of the former in the lastnamed and the abundance of the latter in the firstnamed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various naturally occurring extremely complex substances that consist of amino-acid residues joined by peptide bonds, contain the elements carbon, hydrogen, nitrogen, oxygen, usually sulfur, and occasionally other elements (such as phosphorus or iron), and include many essential biological compounds (such as enzymes, hormones, or antibodies).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The total nitrogenous material in plant or animal substances.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Conduct research and develop drip, hydroponics and other agricultural systems, protein synthesis and manufacture, and ship to Coldfield, the Slingshot work site and the Logistics Depot high-quality foodstuffs suitable for storage and consumption."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"If a man consumes a large amount of meat, and very few vegetables, his diet will be too rich in protein, and too lacking in carbohydrates."*
+> - 📜 **James Joyce (*Ulysses*):** *"Dietary: concerning the respective percentage of protein and caloric energy in bacon, salt ling and butter, the absence of the former in the lastnamed and the abundance of the latter in the firstnamed."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # putt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hitting a golf ball that is on the green using a putter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strike (a golf ball) lightly, with a putter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Murder is thy alms-deed; Petitioners for blood thou ne’er putt’st back."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A pack of blessings light upon thy back; Happiness courts thee in her best array; But like a misshaped and sullen wench, Thou putt’st up thy Fortune and thy love."*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"The statute of thy beauty thou wilt take, Thou usurer, that putt’st forth all to use, And sue a friend came debtor for my sake; So him I lose through my unkind abuse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hitting a golf ball that is on the green using a putter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strike (a golf ball) lightly, with a putter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Murder is thy alms-deed; Petitioners for blood thou ne’er putt’st back."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A pack of blessings light upon thy back; Happiness courts thee in her best array; But like a misshaped and sullen wench, Thou putt’st up thy Fortune and thy love."*
+> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"The statute of thy beauty thou wilt take, Thou usurer, that putt’st forth all to use, And sue a friend came debtor for my sake; So him I lose through my unkind abuse."*

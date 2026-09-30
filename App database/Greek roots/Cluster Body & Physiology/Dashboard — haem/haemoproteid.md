@@ -5,13 +5,6 @@ status: unread
 ---
 # haemoproteid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to malaria parasite and having a phase in the viscera of various birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to malaria parasite and having a phase in the viscera of various birds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemoproteid designates related to malaria parasite and having a phase in the viscera of various birds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to malaria parasite and having a phase in the viscera of various birds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to malaria parasite and having a phase in the viscera of various birds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemoproteid designates related to malaria parasite and having a phase in the viscera of various birds."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # specialisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) the structural adaptation of some body part for a particular function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of specializing; making something suitable for a special purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, specialisation designates (biology) the structural adaptation of some body part for a particular function."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) the structural adaptation of some body part for a particular function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of specializing; making something suitable for a special purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, specialisation designates (biology) the structural adaptation of some body part for a particular function."*

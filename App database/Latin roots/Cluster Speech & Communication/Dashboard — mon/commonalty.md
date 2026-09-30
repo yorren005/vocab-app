@@ -5,15 +5,6 @@ status: unread
 ---
 # commonalty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A class composed of persons lacking clerical or noble rank.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A class composed of persons lacking clerical or noble rank.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He’s a very dog to the commonalty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bid him strive To gain the love o’ th’ commonalty."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"It should react upon his metrical vocabulary to its beneficial expansion, by taking him outside his aristocratic circle of language, and keeping him in touch with the great commonalty, the proletariat of speech."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class composed of persons lacking clerical or noble rank.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A class composed of persons lacking clerical or noble rank.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He’s a very dog to the commonalty."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bid him strive To gain the love o’ th’ commonalty."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"It should react upon his metrical vocabulary to its beneficial expansion, by taking him outside his aristocratic circle of language, and keeping him in touch with the great commonalty, the proletariat of speech."*

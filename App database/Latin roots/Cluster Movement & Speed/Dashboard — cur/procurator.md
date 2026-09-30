@@ -5,15 +5,6 @@ status: unread
 ---
 # procurator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person authorized to act for another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (ancient rome) someone employed by the roman emperor to manage finance and taxes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As well had Pilate and I been known to each other before ever he journeyed out to be procurator over the Semitic volcano of Jerusalem."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Thus every procurator’s hands were full."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And for a procurator to punish a zealot caught red-handed was to raise a riot or an insurrection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person authorized to act for another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (ancient rome) someone employed by the roman emperor to manage finance and taxes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As well had Pilate and I been known to each other before ever he journeyed out to be procurator over the Semitic volcano of Jerusalem."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Thus every procurator’s hands were full."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And for a procurator to punish a zealot caught red-handed was to raise a riot or an insurrection."*

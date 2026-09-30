@@ -5,15 +5,6 @@ status: unread
 ---
 # reclining
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of assuming or maintaining a reclining position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move the upper body backwards and down.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The sick child sat completely dressed on a bed in the corner of the room, half reclining on the pillows."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop, reclining on the sofa and shutting out the sight with his hand."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He passes into a kind of relapse or into a swoon, and it is an hour before he opens his eyes, reclining on his faithful and attached old servant’s arm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of assuming or maintaining a reclining position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move the upper body backwards and down.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The sick child sat completely dressed on a bed in the corner of the room, half reclining on the pillows."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop, reclining on the sofa and shutting out the sight with his hand."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He passes into a kind of relapse or into a swoon, and it is an hour before he opens his eyes, reclining on his faithful and attached old servant’s arm."*

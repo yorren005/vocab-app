@@ -5,13 +5,6 @@ status: unread
 ---
 # rotenone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white crystalline insecticide that has low toxicity for mammals; is used in home gardens; extracted from the roots of derris and cube.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white crystalline insecticide that has low toxicity for mammals; is used in home gardens; extracted from the roots of derris and cube.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rotenone designates a white crystalline insecticide that has low toxicity for mammals; is used in home gardens; extracted from the roots of derris and cube."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white crystalline insecticide that has low toxicity for mammals; is used in home gardens; extracted from the roots of derris and cube.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white crystalline insecticide that has low toxicity for mammals; is used in home gardens; extracted from the roots of derris and cube.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rotenone designates a white crystalline insecticide that has low toxicity for mammals; is used in home gardens; extracted from the roots of derris and cube."*

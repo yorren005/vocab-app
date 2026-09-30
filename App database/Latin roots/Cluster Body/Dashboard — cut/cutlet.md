@@ -5,15 +5,6 @@ status: unread
 ---
 # cutlet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thin slice of meat (especially veal) usually fried or broiled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thin slice of meat (especially veal) usually fried or broiled.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Milly served me that cutlet with a sprig of parsley."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Both announcements were made in the coffee-room of the Crozier, to all whom it might or might not concern, by the stranger as he stood with his back to the empty fireplace, waiting for his fried sole, veal cutlet, and pint of sherry."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We had a fine cod-fish, a piece of roast beef, a dish of cutlets, and a pudding; an excellent dinner, if it had had any cooking to speak of, but it was almost raw."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thin slice of meat (especially veal) usually fried or broiled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thin slice of meat (especially veal) usually fried or broiled.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Milly served me that cutlet with a sprig of parsley."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Both announcements were made in the coffee-room of the Crozier, to all whom it might or might not concern, by the stranger as he stood with his back to the empty fireplace, waiting for his fried sole, veal cutlet, and pint of sherry."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"We had a fine cod-fish, a piece of roast beef, a dish of cutlets, and a pudding; an excellent dinner, if it had had any cooking to speak of, but it was almost raw."*

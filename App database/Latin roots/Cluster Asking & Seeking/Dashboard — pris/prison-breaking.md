@@ -5,13 +5,6 @@ status: unread
 ---
 # prison-breaking
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An escape from jail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An escape from jail.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prison-breaking designates an escape from jail."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An escape from jail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An escape from jail.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prison-breaking designates an escape from jail."*

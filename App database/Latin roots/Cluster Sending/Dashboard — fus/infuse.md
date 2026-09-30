@@ -5,15 +5,6 @@ status: unread
 ---
 # infuse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Teach and impress by frequent repetitions or admonitions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill, as with a certain quality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks a woman of this valiant spirit Should, if a coward heard her speak these words, Infuse his breast with magnanimity And make him, naked, foil a man at arms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for thy life let justice be accus’d; Thou almost mak’st me waver in my faith, To hold opinion with Pythagoras That souls of animals infuse themselves Into the trunks of men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These words, these looks, infuse new life in me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Teach and impress by frequent repetitions or admonitions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill, as with a certain quality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks a woman of this valiant spirit Should, if a coward heard her speak these words, Infuse his breast with magnanimity And make him, naked, foil a man at arms."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for thy life let justice be accus’d; Thou almost mak’st me waver in my faith, To hold opinion with Pythagoras That souls of animals infuse themselves Into the trunks of men."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These words, these looks, infuse new life in me."*

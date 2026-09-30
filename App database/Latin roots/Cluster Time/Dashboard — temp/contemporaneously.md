@@ -5,14 +5,6 @@ status: unread
 ---
 # contemporaneously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: During the same period of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: During the same period of time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I am not, I trust, mistaken in the recognition of some deeper correspondence than that of date in the fact that a consciousness of need in my own life had arisen contemporaneously with the possibility of my becoming acquainted with you."*
-> - 📜 **James Joyce (*Ulysses*):** *"What second departure was contemporaneously perceived by him similarly, if differently?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: During the same period of time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: During the same period of time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"I am not, I trust, mistaken in the recognition of some deeper correspondence than that of date in the fact that a consciousness of need in my own life had arisen contemporaneously with the possibility of my becoming acquainted with you."*
+> - 📜 **James Joyce (*Ulysses*):** *"What second departure was contemporaneously perceived by him similarly, if differently?"*

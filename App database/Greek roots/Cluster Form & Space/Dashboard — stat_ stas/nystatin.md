@@ -5,13 +5,6 @@ status: unread
 ---
 # nystatin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antifungal and antibiotic (trade names mycostatin and nystan) discovered in new york state; derived from soil fungi actinomycetes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antifungal and antibiotic (trade names mycostatin and nystan) discovered in new york state; derived from soil fungi actinomycetes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nystatin designates an antifungal and antibiotic (trade names mycostatin and nystan) discovered in new york state; derived from soil fungi actinomycetes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antifungal and antibiotic (trade names mycostatin and nystan) discovered in new york state; derived from soil fungi actinomycetes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antifungal and antibiotic (trade names mycostatin and nystan) discovered in new york state; derived from soil fungi actinomycetes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nystatin designates an antifungal and antibiotic (trade names mycostatin and nystan) discovered in new york state; derived from soil fungi actinomycetes."*

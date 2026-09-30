@@ -5,13 +5,6 @@ status: unread
 ---
 # inside-out
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With the inside surface on the outside.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With the inside surface on the outside.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inside-out designates with the inside surface on the outside."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With the inside surface on the outside.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With the inside surface on the outside.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inside-out designates with the inside surface on the outside."*

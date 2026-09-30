@@ -5,15 +5,6 @@ status: unread
 ---
 # idiom
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression in the usage of a language that has a meaning that cannot be understood from the combined meanings of its elements (such as up in the air for "undecided") or in its grammatically atypical use of words (such as give way for "retreat").
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The language peculiar to a people or to a district, community, class, or group : dialect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Even Kim marvelled at the way I mastered the idiom."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"That very sweet language will be gone soon, if not gone already, and no book learning will revive the suppleness of idiom, that haunting misty loveliness...."*
-> - 📜 **James Joyce (*Ulysses*):** *"So saying he skipped around, nimbly considering, frankly at the same time apologetic to get on his companion’s right, a habit of his, by the bye, his right side being, in classical idiom, his tender Achilles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression in the usage of a language that has a meaning that cannot be understood from the combined meanings of its elements (such as up in the air for "undecided") or in its grammatically atypical use of words (such as give way for "retreat").
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The language peculiar to a people or to a district, community, class, or group : dialect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Even Kim marvelled at the way I mastered the idiom."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"That very sweet language will be gone soon, if not gone already, and no book learning will revive the suppleness of idiom, that haunting misty loveliness...."*
+> - 📜 **James Joyce (*Ulysses*):** *"So saying he skipped around, nimbly considering, frankly at the same time apologetic to get on his companion’s right, a habit of his, by the bye, his right side being, in classical idiom, his tender Achilles."*

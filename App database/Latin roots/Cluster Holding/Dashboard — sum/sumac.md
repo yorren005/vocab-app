@@ -5,13 +5,6 @@ status: unread
 ---
 # sumac
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wood of a sumac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shrub or tree of the genus rhus (usually limited to the non-poisonous members of the genus).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sumac designates wood of a sumac."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wood of a sumac.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shrub or tree of the genus rhus (usually limited to the non-poisonous members of the genus).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sumac designates wood of a sumac."*

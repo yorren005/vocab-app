@@ -5,13 +5,6 @@ status: unread
 ---
 # barosaur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dinosaur that could grow to be as tall as a building five stories tall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dinosaur that could grow to be as tall as a building five stories tall.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barosaur designates a dinosaur that could grow to be as tall as a building five stories tall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dinosaur that could grow to be as tall as a building five stories tall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dinosaur that could grow to be as tall as a building five stories tall.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barosaur designates a dinosaur that could grow to be as tall as a building five stories tall."*

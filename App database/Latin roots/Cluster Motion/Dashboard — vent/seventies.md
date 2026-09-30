@@ -5,15 +5,6 @@ status: unread
 ---
 # seventies
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The decade from 1970 to 1979.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The time of life between 70 and 80.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Massachusetts developed in the seventies a commission of "the advisory type" which investigated and made public the conditions, leaving to public opinion the correction of the evils."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A number of the Western states, notably Illinois and Iowa, developed in the seventies commissions of "the strong type," with power to fix rates and to enforce their rulings."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It is possible that the romantic paste in her composition was defective: we must always remember that hardly anybody born in her decade--that of the eighteenth-century seventies--independently exhibited the full romantic quality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The decade from 1970 to 1979.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The time of life between 70 and 80.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Massachusetts developed in the seventies a commission of "the advisory type" which investigated and made public the conditions, leaving to public opinion the correction of the evils."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A number of the Western states, notably Illinois and Iowa, developed in the seventies commissions of "the strong type," with power to fix rates and to enforce their rulings."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It is possible that the romantic paste in her composition was defective: we must always remember that hardly anybody born in her decade--that of the eighteenth-century seventies--independently exhibited the full romantic quality."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # venturous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disposed to venture or take risks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disposed to venture or take risks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of all exploits since first I follow’d arms Ne’er heard I of a warlike enterprise More venturous or desperate than this."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, get you to my house; I will reward you for this venturous deed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am much too venturous In tempting of your patience, but am boldened Under your promised pardon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disposed to venture or take risks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disposed to venture or take risks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of all exploits since first I follow’d arms Ne’er heard I of a warlike enterprise More venturous or desperate than this."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, get you to my house; I will reward you for this venturous deed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am much too venturous In tempting of your patience, but am boldened Under your promised pardon."*

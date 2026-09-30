@@ -5,13 +5,6 @@ status: unread
 ---
 # hyp
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hypothesis; hypothetical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under : beneath : down.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyp designates hypothesis; hypothetical."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hypothesis; hypothetical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under : beneath : down.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyp designates hypothesis; hypothetical."*

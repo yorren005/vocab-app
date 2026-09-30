@@ -5,13 +5,6 @@ status: unread
 ---
 # telekinesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of motion in objects (as by a spiritualistic medium) without contact or other physical means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production of motion in objects (as by a spiritualistic medium) without contact or other physical means.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telekinesis designates the production of motion in objects (as by a spiritualistic medium) without contact or other physical means."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of motion in objects (as by a spiritualistic medium) without contact or other physical means.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production of motion in objects (as by a spiritualistic medium) without contact or other physical means.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telekinesis designates the production of motion in objects (as by a spiritualistic medium) without contact or other physical means."*

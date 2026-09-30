@@ -5,15 +5,6 @@ status: unread
 ---
 # insist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be emphatic or resolute and refuse to budge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beg persistently and urgently.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"If you insist on going, I had better go along." Apollonie went indoors to get ready for the walk, as she always put on better clothes whenever she mounted to the castle, despite the fact that she might not see anyone."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My darling child, if you insist upon it!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I took for earnest what you insist was jest, and now this that I pray to be jest you say is awful, wretched earnest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be emphatic or resolute and refuse to budge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beg persistently and urgently.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"If you insist on going, I had better go along." Apollonie went indoors to get ready for the walk, as she always put on better clothes whenever she mounted to the castle, despite the fact that she might not see anyone."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"My darling child, if you insist upon it!"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I took for earnest what you insist was jest, and now this that I pray to be jest you say is awful, wretched earnest."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # interspecies
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arising or occurring between species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arising or occurring between species.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interspecies designates arising or occurring between species."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arising or occurring between species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arising or occurring between species.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interspecies designates arising or occurring between species."*

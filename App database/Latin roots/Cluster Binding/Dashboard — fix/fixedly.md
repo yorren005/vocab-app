@@ -5,15 +5,6 @@ status: unread
 ---
 # fixedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fixed manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a fixed manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He hastened down to raise her, but she repulsed him as he bent over her, and looking at him fixedly and coldly, said, ‘I will die here where I have walked."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As I sat looking fixedly at him and the sun’s rays descended, softly shining through the leaves upon his bare head, I felt as if the brightness on him must be like the brightness of the angels."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Well?” he said, in a suppressed passion, fixedly looking at her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fixed manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a fixed manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He hastened down to raise her, but she repulsed him as he bent over her, and looking at him fixedly and coldly, said, ‘I will die here where I have walked."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"As I sat looking fixedly at him and the sun’s rays descended, softly shining through the leaves upon his bare head, I felt as if the brightness on him must be like the brightness of the angels."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Well?” he said, in a suppressed passion, fixedly looking at her."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # intervene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get involved, so as to alter or hinder an action, or through force or threat of force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be placed or located between other things or extend between spaces and events.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns did not intervene often in the debates of the United Presbyterian Synod."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"But many were the tedious hours which must yet intervene."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Her forehead’s like the show’ry bow, When gleaming sunbeams intervene And gild the distant mountain’s brow; An’ she has twa sparkling roguish een."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Get involved, so as to alter or hinder an action, or through force or threat of force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be placed or located between other things or extend between spaces and events.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns did not intervene often in the debates of the United Presbyterian Synod."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"But many were the tedious hours which must yet intervene."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Her forehead’s like the show’ry bow, When gleaming sunbeams intervene And gild the distant mountain’s brow; An’ she has twa sparkling roguish een."*

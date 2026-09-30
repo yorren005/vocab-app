@@ -5,13 +5,6 @@ status: unread
 ---
 # caviar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Salted roe of sturgeon or other large fish; usually served as an hors d'oeuvre.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Salted roe of sturgeon or other large fish; usually served as an hors d'oeuvre.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"There's a Fishmongers boy with Caviar Sir, Anchoves and Potargo, to make ye drink. _Cha_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Salted roe of sturgeon or other large fish; usually served as an hors d'oeuvre.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Salted roe of sturgeon or other large fish; usually served as an hors d'oeuvre.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"There's a Fishmongers boy with Caviar Sir, Anchoves and Potargo, to make ye drink. _Cha_."*

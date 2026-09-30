@@ -5,15 +5,6 @@ status: unread
 ---
 # herring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Valuable flesh of fatty fish from shallow waters of northern atlantic or pacific; usually salted or pickled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commercially important food fish of northern waters of both atlantic and pacific.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Die when thou wilt, if manhood, good manhood, be not forgot upon the face of the Earth, then am I a shotten herring."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hoppedance cries in Tom’s belly for two white herring."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By gar, de herring is no dead so as I vill kill him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Valuable flesh of fatty fish from shallow waters of northern atlantic or pacific; usually salted or pickled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commercially important food fish of northern waters of both atlantic and pacific.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Die when thou wilt, if manhood, good manhood, be not forgot upon the face of the Earth, then am I a shotten herring."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hoppedance cries in Tom’s belly for two white herring."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By gar, de herring is no dead so as I vill kill him."*

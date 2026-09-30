@@ -5,15 +5,6 @@ status: unread
 ---
 # mutual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Common to or shared by two or more parties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerning each of two or more persons or things; especially given or done in return.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, let me be obsequious in thy heart, And take thou my oblation, poor but free, Which is not mixed with seconds, knows no art, But mutual render, only me for thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The nobleness of life Is to do thus [_Embracing_]; when such a mutual pair And such a twain can do’t, in which I bind, On pain of punishment, the world to weet We stand up peerless."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it chances The stealth of our most mutual entertainment With character too gross is writ on Juliet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Common to or shared by two or more parties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerning each of two or more persons or things; especially given or done in return.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, let me be obsequious in thy heart, And take thou my oblation, poor but free, Which is not mixed with seconds, knows no art, But mutual render, only me for thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The nobleness of life Is to do thus [_Embracing_]; when such a mutual pair And such a twain can do’t, in which I bind, On pain of punishment, the world to weet We stand up peerless."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it chances The stealth of our most mutual entertainment With character too gross is writ on Juliet."*

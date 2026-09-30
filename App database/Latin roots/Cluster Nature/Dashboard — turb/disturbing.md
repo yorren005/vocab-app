@@ -5,15 +5,6 @@ status: unread
 ---
 # disturbing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move deeply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change the arrangement or position of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’d have beaten him like a dog, but for disturbing the lords within."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Suddenly a most disturbing thought shot through the uncle's brain: "Suppose the child has already caught the fever?"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But no one listened because they were so deeply absorbed with their own disturbing thoughts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move deeply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change the arrangement or position of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’d have beaten him like a dog, but for disturbing the lords within."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Suddenly a most disturbing thought shot through the uncle's brain: "Suppose the child has already caught the fever?"*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But no one listened because they were so deeply absorbed with their own disturbing thoughts."*

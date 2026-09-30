@@ -5,15 +5,6 @@ status: unread
 ---
 # commissary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A retail store that sells equipment and provisions (usually to military personnel).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A snack bar in a film studio.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"On Commissary Goldie’s Brains Lord, to account who dares thee call, Or e’er dispute thy pleasure?"*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"They became instructors of whole townships in the methods of government business, the constitution of the Commissary and Quartermaster's Departments, and the forms of the Medical Bureau."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The Commissary Department issued vegetables in such small quantities that they did not affect the condition of the troops in any appreciable degree."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A retail store that sells equipment and provisions (usually to military personnel).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A snack bar in a film studio.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"On Commissary Goldie’s Brains Lord, to account who dares thee call, Or e’er dispute thy pleasure?"*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"They became instructors of whole townships in the methods of government business, the constitution of the Commissary and Quartermaster's Departments, and the forms of the Medical Bureau."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The Commissary Department issued vegetables in such small quantities that they did not affect the condition of the troops in any appreciable degree."*

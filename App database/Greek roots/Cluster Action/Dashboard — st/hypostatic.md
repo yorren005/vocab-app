@@ -5,13 +5,6 @@ status: unread
 ---
 # hypostatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that settles at the bottom of a fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The settling of blood in the dependent parts of an organ or body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypostatic designates something that settles at the bottom of a fluid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that settles at the bottom of a fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The settling of blood in the dependent parts of an organ or body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypostatic designates something that settles at the bottom of a fluid."*

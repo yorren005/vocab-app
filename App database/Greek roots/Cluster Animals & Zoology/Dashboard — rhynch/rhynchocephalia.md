@@ -5,13 +5,6 @@ status: unread
 ---
 # rhynchocephalia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tuataras; extinct forms from middle triassic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tuataras; extinct forms from middle triassic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhynchocephalia designates tuataras; extinct forms from middle triassic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tuataras; extinct forms from middle triassic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tuataras; extinct forms from middle triassic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhynchocephalia designates tuataras; extinct forms from middle triassic."*

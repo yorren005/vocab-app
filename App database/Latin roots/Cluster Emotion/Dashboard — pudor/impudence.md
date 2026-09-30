@@ -5,15 +5,6 @@ status: unread
 ---
 # impudence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An impudent statement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being rude and impertinent; inclined to take liberties.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tax of impudence, A strumpet’s boldness, a divulged shame, Traduc’d by odious ballads; my maiden’s name Sear’d otherwise; nay worse of worst extended With vilest torture, let my life be ended."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hast thou or word, or wit, or impudence, That yet can do thee office?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, my father, it befits not me Unto a stranger knight to be so bold: He may my proffer take for an offence, Since men take women’s gifts for impudence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An impudent statement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being rude and impertinent; inclined to take liberties.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tax of impudence, A strumpet’s boldness, a divulged shame, Traduc’d by odious ballads; my maiden’s name Sear’d otherwise; nay worse of worst extended With vilest torture, let my life be ended."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hast thou or word, or wit, or impudence, That yet can do thee office?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, my father, it befits not me Unto a stranger knight to be so bold: He may my proffer take for an offence, Since men take women’s gifts for impudence."*

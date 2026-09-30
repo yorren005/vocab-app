@@ -5,15 +5,6 @@ status: unread
 ---
 # vindication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of vindicating or defending against criticism or censure etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The justification for some act or belief.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"But whether her brother had still exceeded her in resentment, Catherine, though she instinctively addressed herself as much to one as to the other in her vindication, had no means of knowing."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Nor was Darcy’s vindication, though grateful to her feelings, capable of consoling her for such discovery."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He had been preoccupied with his own vindication, and had been blind to what Ladislaw might infer on his own account."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of vindicating or defending against criticism or censure etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The justification for some act or belief.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"But whether her brother had still exceeded her in resentment, Catherine, though she instinctively addressed herself as much to one as to the other in her vindication, had no means of knowing."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Nor was Darcy’s vindication, though grateful to her feelings, capable of consoling her for such discovery."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He had been preoccupied with his own vindication, and had been blind to what Ladislaw might infer on his own account."*

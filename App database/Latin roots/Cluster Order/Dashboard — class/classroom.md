@@ -5,15 +5,6 @@ status: unread
 ---
 # classroom
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A room in a school where lessons take place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room in a school where lessons take place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"His manner," says one who heard these lectures, "was quite different in the Church History classroom from what it was in that of Systematic Theology."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Grandparents in the Virtual Classroom The following exchanges illustrate e-mail interaction and communication between elementary school students in one community and older adults residing either nearby or in various locations throughout the country."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"On the appointed day, waiting in line with my granddaughter to enter her classroom, she glanced around to see if I was still there."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room in a school where lessons take place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room in a school where lessons take place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"His manner," says one who heard these lectures, "was quite different in the Church History classroom from what it was in that of Systematic Theology."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Grandparents in the Virtual Classroom The following exchanges illustrate e-mail interaction and communication between elementary school students in one community and older adults residing either nearby or in various locations throughout the country."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"On the appointed day, waiting in line with my granddaughter to enter her classroom, she glanced around to see if I was still there."*

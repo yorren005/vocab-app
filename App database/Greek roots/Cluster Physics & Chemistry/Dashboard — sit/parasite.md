@@ -5,15 +5,6 @@ status: unread
 ---
 # parasite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism living in, on, or with another organism in order to obtain nutrients, grow, or multiply often in a state that directly or indirectly harms the host.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone or something that resembles a biological parasite in living off of, being dependent on, or exploiting another while giving little or nothing in return.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When steel grows soft Soft as the parasite’s silk, let him be made An ovator for the wars!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is a flatterer, A parasite, a keeper-back of death, Who gently would dissolve the bands of life, Which false hope lingers in extremity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If at home, sir, He’s all my exercise, my mirth, my matter: Now my sworn friend, and then mine enemy; My parasite, my soldier, statesman, all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism living in, on, or with another organism in order to obtain nutrients, grow, or multiply often in a state that directly or indirectly harms the host.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone or something that resembles a biological parasite in living off of, being dependent on, or exploiting another while giving little or nothing in return.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When steel grows soft Soft as the parasite’s silk, let him be made An ovator for the wars!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is a flatterer, A parasite, a keeper-back of death, Who gently would dissolve the bands of life, Which false hope lingers in extremity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If at home, sir, He’s all my exercise, my mirth, my matter: Now my sworn friend, and then mine enemy; My parasite, my soldier, statesman, all."*

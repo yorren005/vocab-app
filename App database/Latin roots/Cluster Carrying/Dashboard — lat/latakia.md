@@ -5,13 +5,6 @@ status: unread
 ---
 # latakia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aromatic turkish tobacco.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A seaport on the western coast of syria.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latakia designates aromatic turkish tobacco."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aromatic turkish tobacco.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A seaport on the western coast of syria.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latakia designates aromatic turkish tobacco."*

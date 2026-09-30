@@ -5,15 +5,6 @@ status: unread
 ---
 # recourse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of turning to for assistance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something or someone turned to for assistance or security.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I’ll give you a pottle of burnt sack to give me recourse to him, and tell him my name is Brook, only for a jest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, but the doors be locked and keys kept safe, That no man hath recourse to her by night."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"How are your various dresses to be remembered, and the particular state of your complexion, and curl of your hair to be described in all their diversities, without having constant recourse to a journal?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of turning to for assistance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something or someone turned to for assistance or security.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I’ll give you a pottle of burnt sack to give me recourse to him, and tell him my name is Brook, only for a jest."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, but the doors be locked and keys kept safe, That no man hath recourse to her by night."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"How are your various dresses to be remembered, and the particular state of your complexion, and curl of your hair to be described in all their diversities, without having constant recourse to a journal?"*

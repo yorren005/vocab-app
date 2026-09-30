@@ -5,15 +5,6 @@ status: unread
 ---
 # unnaturally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unnatural way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not according to nature; not by natural means.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not for myself, Lord Warwick, but my son, Whom I unnaturally shall disinherit."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I never underwent so much, both in body and mind, in the course of a walk with young people as from these unnaturally constrained children when they paid me the compliment of being natural."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"If he were a hundred men I’d horsewhip him—” He dropped his voice suddenly and unnaturally."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unnatural way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not according to nature; not by natural means.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not for myself, Lord Warwick, but my son, Whom I unnaturally shall disinherit."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I never underwent so much, both in body and mind, in the course of a walk with young people as from these unnaturally constrained children when they paid me the compliment of being natural."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"If he were a hundred men I’d horsewhip him—” He dropped his voice suddenly and unnaturally."*

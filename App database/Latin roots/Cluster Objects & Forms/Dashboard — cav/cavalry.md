@@ -5,15 +5,6 @@ status: unread
 ---
 # cavalry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Troops trained to fight on horseback.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly mobile army unit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There used, in that week, to come backward and forward to our lodging to fence with Richard a person who had formerly been a cavalry soldier; he was a fine bluff-looking man, of a frank free bearing, with whom Richard had practised for some months."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In the morning a regiment of cavalry had left the town, and a sergeant and his party had been beating up for recruits through the four streets."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now I’ll be more interesting, and let you see some loose play—giving all the cuts and points, infantry and cavalry, quicker than lightning, and as promiscuously—with just enough rule to regulate instinct and yet not to fetter it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Troops trained to fight on horseback.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly mobile army unit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"There used, in that week, to come backward and forward to our lodging to fence with Richard a person who had formerly been a cavalry soldier; he was a fine bluff-looking man, of a frank free bearing, with whom Richard had practised for some months."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In the morning a regiment of cavalry had left the town, and a sergeant and his party had been beating up for recruits through the four streets."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now I’ll be more interesting, and let you see some loose play—giving all the cuts and points, infantry and cavalry, quicker than lightning, and as promiscuously—with just enough rule to regulate instinct and yet not to fetter it."*

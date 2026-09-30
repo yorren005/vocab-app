@@ -5,15 +5,6 @@ status: unread
 ---
 # inclination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An attitude of mind especially one that favors one alternative over others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astronomy) the angle between the plane of the orbit and the plane of the ecliptic stated in degrees.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go to the fellow, good Alexas, bid him Report the feature of Octavia, her years, Her inclination; let him not leave out The colour of her hair."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Observe his inclination in yourself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray can I not, Though inclination be as sharp as will: My stronger guilt defeats my strong intent, And, like a man to double business bound, I stand in pause where I shall first begin, And both neglect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An attitude of mind especially one that favors one alternative over others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astronomy) the angle between the plane of the orbit and the plane of the ecliptic stated in degrees.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go to the fellow, good Alexas, bid him Report the feature of Octavia, her years, Her inclination; let him not leave out The colour of her hair."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Observe his inclination in yourself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray can I not, Though inclination be as sharp as will: My stronger guilt defeats my strong intent, And, like a man to double business bound, I stand in pause where I shall first begin, And both neglect."*

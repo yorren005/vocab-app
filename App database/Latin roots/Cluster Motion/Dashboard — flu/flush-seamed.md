@@ -5,13 +5,6 @@ status: unread
 ---
 # flush-seamed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Laid edge to edge (not overlapping).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Laid edge to edge (not overlapping).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flush-seamed designates laid edge to edge (not overlapping)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Laid edge to edge (not overlapping).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Laid edge to edge (not overlapping).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flush-seamed designates laid edge to edge (not overlapping)."*

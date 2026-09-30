@@ -5,14 +5,6 @@ status: unread
 ---
 # hershey
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states confectioner and philanthropist who created the model industrial town of hershey, pennsylvania; founded an industrial school for orphan boys (1857-1945).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An industrial town to the east of harrisburg.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"But," Amanda said with a tender glance at the hired girl, "I guess Hershey's ain't got no Millie like we to help." "Ach, pack off now with you," Millie said, trying to frown."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"And I heard Hershey, the director, tell his wife that you certainly know how to conduct a Spelling Bee." "Oh, did he say that?" The news pleased her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states confectioner and philanthropist who created the model industrial town of hershey, pennsylvania; founded an industrial school for orphan boys (1857-1945).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An industrial town to the east of harrisburg.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"But," Amanda said with a tender glance at the hired girl, "I guess Hershey's ain't got no Millie like we to help." "Ach, pack off now with you," Millie said, trying to frown."*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"And I heard Hershey, the director, tell his wife that you certainly know how to conduct a Spelling Bee." "Oh, did he say that?" The news pleased her."*

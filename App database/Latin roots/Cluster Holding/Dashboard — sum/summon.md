@@ -5,15 +5,6 @@ status: unread
 ---
 # summon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Call in an official matter, such as to attend court.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ask to come.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lend you him I will For half a hundred years.—Summon the town."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Summon a parley; we will talk with him. [_Trumpets sound a parley._] CHARLES."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Summon their general unto the wall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Call in an official matter, such as to attend court.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ask to come.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lend you him I will For half a hundred years.—Summon the town."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Summon a parley; we will talk with him. [_Trumpets sound a parley._] CHARLES."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Summon their general unto the wall."*

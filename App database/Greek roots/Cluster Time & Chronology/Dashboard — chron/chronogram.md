@@ -5,13 +5,6 @@ status: unread
 ---
 # chronogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inscription, sentence, or phrase in which certain letters express a date or epoch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inscription, sentence, or phrase in which certain letters express a date or epoch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chronogram designates an inscription, sentence, or phrase in which certain letters express a date or epoch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inscription, sentence, or phrase in which certain letters express a date or epoch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inscription, sentence, or phrase in which certain letters express a date or epoch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chronogram designates an inscription, sentence, or phrase in which certain letters express a date or epoch."*

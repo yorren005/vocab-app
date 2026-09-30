@@ -5,15 +5,6 @@ status: unread
 ---
 # annuity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Income from capital investment paid in a series of regular payments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Income from capital investment paid in a series of regular payments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have left an annuity for his sole support in case he should outlive me."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My mother has a little property, which takes the form of a small life annuity, upon which she lives in an independent though unassuming manner in the Old Street Road."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have no capital myself, but my mother has a little property which takes the form of an annuity”—here Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Income from capital investment paid in a series of regular payments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Income from capital investment paid in a series of regular payments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I have left an annuity for his sole support in case he should outlive me."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"My mother has a little property, which takes the form of a small life annuity, upon which she lives in an independent though unassuming manner in the Old Street Road."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I have no capital myself, but my mother has a little property which takes the form of an annuity”—here Mr."*

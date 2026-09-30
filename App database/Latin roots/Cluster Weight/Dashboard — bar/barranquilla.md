@@ -5,13 +5,6 @@ status: unread
 ---
 # barranquilla
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city of northern colombia near the caribbean on the magdalena river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city of northern colombia near the caribbean on the magdalena river.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barranquilla designates a port city of northern colombia near the caribbean on the magdalena river."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city of northern colombia near the caribbean on the magdalena river.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city of northern colombia near the caribbean on the magdalena river.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barranquilla designates a port city of northern colombia near the caribbean on the magdalena river."*

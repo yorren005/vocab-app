@@ -5,15 +5,6 @@ status: unread
 ---
 # nom
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: pseudonym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a name that a writer uses instead of their legal name : pseudonym, pen name.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Monsieur a parlé de vous: il m’a demandé le nom de ma gouvernante, et si elle n’était pas une petite personne, assez mince et un peu pâle."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"A ROMANCE BY A.C.F. (CAROLINE AUGUSTA FRAZER) "When atman (nom. sing."*
-> - 📜 **Effie Afton (*Eventide*):** *"She writes under a _nom de plume_, but I discovered her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: pseudonym.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a name that a writer uses instead of their legal name : pseudonym, pen name.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Monsieur a parlé de vous: il m’a demandé le nom de ma gouvernante, et si elle n’était pas une petite personne, assez mince et un peu pâle."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"A ROMANCE BY A.C.F. (CAROLINE AUGUSTA FRAZER) "When atman (nom. sing."*
+> - 📜 **Effie Afton (*Eventide*):** *"She writes under a _nom de plume_, but I discovered her."*

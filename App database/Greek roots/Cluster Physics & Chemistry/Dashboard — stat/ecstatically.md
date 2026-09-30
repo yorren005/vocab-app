@@ -5,15 +5,6 @@ status: unread
 ---
 # ecstatically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ecstatic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ecstatic manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Next comes Nibs, the gay and debonair, followed by Slightly, who cuts whistles out of the trees and dances ecstatically to his own tunes."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Garnet!" she said ecstatically."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He made as though he would kiss me, but restrained himself. ‘The only book I had left, and I thought I had lost it,’ he said, looking at it ecstatically. ‘So many accidents happen to a man going about alone, you know."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ecstatic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ecstatic manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"Next comes Nibs, the gay and debonair, followed by Slightly, who cuts whistles out of the trees and dances ecstatically to his own tunes."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Garnet!" she said ecstatically."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He made as though he would kiss me, but restrained himself. ‘The only book I had left, and I thought I had lost it,’ he said, looking at it ecstatically. ‘So many accidents happen to a man going about alone, you know."*

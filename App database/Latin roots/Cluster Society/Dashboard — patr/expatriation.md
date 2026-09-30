@@ -5,15 +5,6 @@ status: unread
 ---
 # expatriation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of expelling a person from their native land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Migration from a place (especially migration from your native country in order to settle in another).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Touchett was intimate; she shared their expatriation, their convictions, their pastimes, their ennui."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Then, perhaps the temporary expatriation, the tedious traversing of seas and continents, the pilgrimage to Bayreuth stands explained."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In the Revised Statutes, section 1999, Congress in the most solemn manner declare that the right of expatriation is beyond the lawful control of government: SEC. 1999."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of expelling a person from their native land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Migration from a place (especially migration from your native country in order to settle in another).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Touchett was intimate; she shared their expatriation, their convictions, their pastimes, their ennui."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Then, perhaps the temporary expatriation, the tedious traversing of seas and continents, the pilgrimage to Bayreuth stands explained."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In the Revised Statutes, section 1999, Congress in the most solemn manner declare that the right of expatriation is beyond the lawful control of government: SEC. 1999."*

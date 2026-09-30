@@ -5,15 +5,6 @@ status: unread
 ---
 # directing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Command with authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intend (something) to move towards a certain goal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This your son-in-law, And son unto the king, whom heavens directing, Is troth-plight to your daughter."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was directing the new circulars till two this morning."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Directing the pitching of the chair in an affable and easy manner, Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Command with authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intend (something) to move towards a certain goal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This your son-in-law, And son unto the king, whom heavens directing, Is troth-plight to your daughter."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I was directing the new circulars till two this morning."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Directing the pitching of the chair in an affable and easy manner, Mr."*

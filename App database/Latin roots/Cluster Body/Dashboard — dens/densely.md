@@ -5,15 +5,6 @@ status: unread
 ---
 # densely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stupid manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a concentrated manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He therefore valiantly hides his personality behind a publisher’s shutters, and cries “Shame!” So densely is the world with any shifting of positions, even the best warranted advance, galls somebody’s kibe."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In those days, and till comparatively recent times, the country was densely wooded."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In European countries the railways were built through comparatively densely populated districts to connect cities already of large size."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stupid manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a concentrated manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He therefore valiantly hides his personality behind a publisher’s shutters, and cries “Shame!” So densely is the world with any shifting of positions, even the best warranted advance, galls somebody’s kibe."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In those days, and till comparatively recent times, the country was densely wooded."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In European countries the railways were built through comparatively densely populated districts to connect cities already of large size."*

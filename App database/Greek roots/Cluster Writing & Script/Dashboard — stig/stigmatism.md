@@ -5,13 +5,6 @@ status: unread
 ---
 # stigmatism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having or being marked by stigmata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (optics) condition of an optical system (as a lens) in which light rays from a single point converge in a single focal point.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stigmatism designates the condition of having or being marked by stigmata."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having or being marked by stigmata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (optics) condition of an optical system (as a lens) in which light rays from a single point converge in a single focal point.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stigmatism designates the condition of having or being marked by stigmata."*

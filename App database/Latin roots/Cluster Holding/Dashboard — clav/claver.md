@@ -5,15 +5,6 @@ status: unread
 ---
 # claver
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Talk socially without exchanging too much information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk socially without exchanging too much information.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Country Lass In simmer, when the hay was mawn, And corn wav’d green in ilka field, While claver blooms white o’er the lea And roses blaw in ilka beild!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Clish-ma-claver, gossip, taletelling; non-sense."*
-> - 📜 **James Joyce (*Ulysses*):** *"No, Peter Claver I am thinking of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Talk socially without exchanging too much information.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk socially without exchanging too much information.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Country Lass In simmer, when the hay was mawn, And corn wav’d green in ilka field, While claver blooms white o’er the lea And roses blaw in ilka beild!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Clish-ma-claver, gossip, taletelling; non-sense."*
+> - 📜 **James Joyce (*Ulysses*):** *"No, Peter Claver I am thinking of."*

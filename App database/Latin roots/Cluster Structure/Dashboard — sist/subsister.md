@@ -5,13 +5,6 @@ status: unread
 ---
 # subsister
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who lives through affliction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who lives through affliction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subsister designates one who lives through affliction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who lives through affliction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who lives through affliction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subsister designates one who lives through affliction."*

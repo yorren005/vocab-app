@@ -5,15 +5,6 @@ status: unread
 ---
 # seam
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Joint consisting of a line formed by joining two pieces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slight depression in the smoothness of a surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall the proud lord That bastes his arrogance with his own seam And never suffers matter of the world Enter his thoughts, save such as doth revolve And ruminate himself—shall he be worshipp’d Of that we hold an idol more than he?"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Gae mind your seam, ye prick-the-louse, An’ jag-the-flea!"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"And a homespun tailor-made suit with a seam down the back and open tails: and--and--one of those real Panamas that you can pull through a wedding ring: and--oh! dear, I am greedy!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Joint consisting of a line formed by joining two pieces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slight depression in the smoothness of a surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall the proud lord That bastes his arrogance with his own seam And never suffers matter of the world Enter his thoughts, save such as doth revolve And ruminate himself—shall he be worshipp’d Of that we hold an idol more than he?"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Gae mind your seam, ye prick-the-louse, An’ jag-the-flea!"*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"And a homespun tailor-made suit with a seam down the back and open tails: and--and--one of those real Panamas that you can pull through a wedding ring: and--oh! dear, I am greedy!"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # severely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a severe or serious degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With sternness; in a severe manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King is not himself, but basely led By flatterers; and what they will inform, Merely in hate ’gainst any of us all, That will the King severely prosecute ’Gainst us, our lives, our children, and our heirs."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But she I mean is promised by her friends Unto a youthful gentleman of worth, And kept severely from resort of men, That no man hath access by day to her."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Don't you agree with me?" Bruno judged himself very severely, because his mother had held up his own faults to him so that he knew them very well."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a severe or serious degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With sternness; in a severe manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King is not himself, but basely led By flatterers; and what they will inform, Merely in hate ’gainst any of us all, That will the King severely prosecute ’Gainst us, our lives, our children, and our heirs."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But she I mean is promised by her friends Unto a youthful gentleman of worth, And kept severely from resort of men, That no man hath access by day to her."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Don't you agree with me?" Bruno judged himself very severely, because his mother had held up his own faults to him so that he knew them very well."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # zeal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eagerness and enthusiastic interest in pursuit of something : fervor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Great enthusiasm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou wert sensible of courtesy, I should not make so dear a show of zeal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or honest Bardolph, whose zeal burns in his nose, of the wicked?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have ta’en up, Under the counterfeited zeal of God, The subjects of his substitute, my father, And both against the peace of heaven and him Have here up-swarm’d them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eagerness and enthusiastic interest in pursuit of something : fervor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Great enthusiasm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou wert sensible of courtesy, I should not make so dear a show of zeal."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or honest Bardolph, whose zeal burns in his nose, of the wicked?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have ta’en up, Under the counterfeited zeal of God, The subjects of his substitute, my father, And both against the peace of heaven and him Have here up-swarm’d them."*

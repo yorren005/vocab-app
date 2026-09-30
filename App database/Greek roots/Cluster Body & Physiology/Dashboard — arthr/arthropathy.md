@@ -5,13 +5,6 @@ status: unread
 ---
 # arthropathy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease of a joint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease of a joint.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthropathy designates a disease of a joint."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease of a joint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease of a joint.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthropathy designates a disease of a joint."*

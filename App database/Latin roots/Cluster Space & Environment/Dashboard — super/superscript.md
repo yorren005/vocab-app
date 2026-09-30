@@ -5,13 +5,6 @@ status: unread
 ---
 # superscript
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A character or symbol set or printed or written above and immediately to one side of another character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written or printed above and to one side of another character.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superscript designates a character or symbol set or printed or written above and immediately to one side of another character."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A character or symbol set or printed or written above and immediately to one side of another character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written or printed above and to one side of another character.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superscript designates a character or symbol set or printed or written above and immediately to one side of another character."*

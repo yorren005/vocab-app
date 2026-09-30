@@ -5,13 +5,6 @@ status: unread
 ---
 # nonpsychoactive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not affecting the mind or mental processes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not affecting the mind or mental processes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonpsychoactive designates not affecting the mind or mental processes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not affecting the mind or mental processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not affecting the mind or mental processes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonpsychoactive designates not affecting the mind or mental processes."*

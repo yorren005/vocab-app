@@ -5,13 +5,6 @@ status: unread
 ---
 # directionless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aimlessly drifting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aimlessly drifting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, directionless designates aimlessly drifting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aimlessly drifting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aimlessly drifting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, directionless designates aimlessly drifting."*

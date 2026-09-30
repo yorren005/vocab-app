@@ -5,15 +5,6 @@ status: unread
 ---
 # allure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power to entice or attract through personal charm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dispose or incline or entice to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And therewithal the best; or let her beauty Look through a casement to allure false hearts, And be false with them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be whores still, And he whose pious breath seeks to convert you, Be strong in whore, allure him, burn him up; Let your close fire predominate his smoke, And be no turncoats."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She told him stories to delight his ear; She show’d him favours to allure his eye; To win his heart, she touch’d him here and there; Touches so soft still conquer chastity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The power to entice or attract through personal charm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dispose or incline or entice to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And therewithal the best; or let her beauty Look through a casement to allure false hearts, And be false with them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be whores still, And he whose pious breath seeks to convert you, Be strong in whore, allure him, burn him up; Let your close fire predominate his smoke, And be no turncoats."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She told him stories to delight his ear; She show’d him favours to allure his eye; To win his heart, she touch’d him here and there; Touches so soft still conquer chastity."*

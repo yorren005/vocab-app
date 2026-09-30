@@ -5,13 +5,6 @@ status: unread
 ---
 # bareboat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vessel (such as a yacht) that can be chartered without a captain or crew or provisions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vessel (such as a yacht) that can be chartered without a captain or crew or provisions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bareboat designates a vessel (such as a yacht) that can be chartered without a captain or crew or provisions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vessel (such as a yacht) that can be chartered without a captain or crew or provisions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vessel (such as a yacht) that can be chartered without a captain or crew or provisions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bareboat designates a vessel (such as a yacht) that can be chartered without a captain or crew or provisions."*

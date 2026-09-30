@@ -5,15 +5,6 @@ status: unread
 ---
 # possum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nocturnal arboreal marsupial having a naked prehensile tail found from southern north america to northern south america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small furry australian arboreal marsupials having long usually prehensile tails.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"It got so that Unc' Billy Possum and Jimmy Skunk didn't dare go to the henhouse for eggs any more, for fear that they would get into one of the traps set for Reddy Fox."*
-> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Reddy Fox Has a Visitor Hardly was old Granny Fox out of sight on her way to hunt for the chicken she had left on the hill, when Unc' Billy Possum came strolling along the Lone Little Path."*
-> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Unc' Billy Possum stopped for a few minutes and considered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nocturnal arboreal marsupial having a naked prehensile tail found from southern north america to northern south america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small furry australian arboreal marsupials having long usually prehensile tails.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"It got so that Unc' Billy Possum and Jimmy Skunk didn't dare go to the henhouse for eggs any more, for fear that they would get into one of the traps set for Reddy Fox."*
+> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Reddy Fox Has a Visitor Hardly was old Granny Fox out of sight on her way to hunt for the chicken she had left on the hill, when Unc' Billy Possum came strolling along the Lone Little Path."*
+> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Unc' Billy Possum stopped for a few minutes and considered."*

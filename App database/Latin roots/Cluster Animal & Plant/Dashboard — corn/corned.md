@@ -5,15 +5,6 @@ status: unread
 ---
 # corned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feed (cattle) with corn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preserve with salt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"He corned for us ten minutes behind the town clock, and Mammy Dilsie had phthisic, so I had to fix the two twins, and we're done left."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The beasts of the plains, in countless numbers, came rushing in toward the Waconda, their forms white with coatings of salt, and probably representing the largest amount of corned meat ever gathered in one place."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Wa-bog-aha big was a brave-- The Great Spirit salted him down: Braves seldom get corned in the grave, They 're oftener corned in the town."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feed (cattle) with corn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preserve with salt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"He corned for us ten minutes behind the town clock, and Mammy Dilsie had phthisic, so I had to fix the two twins, and we're done left."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The beasts of the plains, in countless numbers, came rushing in toward the Waconda, their forms white with coatings of salt, and probably representing the largest amount of corned meat ever gathered in one place."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Wa-bog-aha big was a brave-- The Great Spirit salted him down: Braves seldom get corned in the grave, They 're oftener corned in the town."*

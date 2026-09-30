@@ -5,15 +5,6 @@ status: unread
 ---
 # coventry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being banished or ostracized (excluded from society by general consent).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An industrial city in central england; devastated by air raids during world war ii; remembered as the home of lady godiva in the 11th century.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bardolph, get thee before to Coventry; fill me a bottle of sack."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll not march through Coventry with them, that’s flat."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, sweet lords; let’s meet at Coventry. [_Exeunt all but King Henry and Exeter._] KING HENRY."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being banished or ostracized (excluded from society by general consent).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An industrial city in central england; devastated by air raids during world war ii; remembered as the home of lady godiva in the 11th century.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bardolph, get thee before to Coventry; fill me a bottle of sack."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll not march through Coventry with them, that’s flat."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, sweet lords; let’s meet at Coventry. [_Exeunt all but King Henry and Exeter._] KING HENRY."*

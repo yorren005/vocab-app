@@ -5,15 +5,6 @@ status: unread
 ---
 # convivial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occupied with or fond of the pleasures of good company.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occupied with or fond of the pleasures of good company.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket proceeded in the same convivial manner as before."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"How could he forget that in his Island days, Queequeg, for one, must certainly have been guilty of some murderous, convivial indiscretions."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is a most refreshing, convivial, beautiful object to behold."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occupied with or fond of the pleasures of good company.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occupied with or fond of the pleasures of good company.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket proceeded in the same convivial manner as before."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"How could he forget that in his Island days, Queequeg, for one, must certainly have been guilty of some murderous, convivial indiscretions."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is a most refreshing, convivial, beautiful object to behold."*

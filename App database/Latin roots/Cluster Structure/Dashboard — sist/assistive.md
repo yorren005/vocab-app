@@ -5,13 +5,6 @@ status: unread
 ---
 # assistive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving assistance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giving assistance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, assistive designates giving assistance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving assistance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giving assistance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, assistive designates giving assistance."*

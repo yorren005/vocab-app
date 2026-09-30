@@ -5,14 +5,6 @@ status: unread
 ---
 # subjunctive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mood that represents an act or state (not as a fact but) as contingent or possible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to a mood of verbs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"How are you to escape the judgement of Gehenna?" he asks the Pharisees (Matt. 23:33; the subjunctive mood is worth study)."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It is not like studying German, where you mull along, in a groping, uncertain way, for thirty years; and at last, just as you think you’ve got it, they spring the subjunctive on you, and there you are."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mood that represents an act or state (not as a fact but) as contingent or possible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to a mood of verbs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"How are you to escape the judgement of Gehenna?" he asks the Pharisees (Matt. 23:33; the subjunctive mood is worth study)."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It is not like studying German, where you mull along, in a groping, uncertain way, for thirty years; and at last, just as you think you’ve got it, they spring the subjunctive on you, and there you are."*

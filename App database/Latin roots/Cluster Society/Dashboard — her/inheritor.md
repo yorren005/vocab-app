@@ -5,15 +5,6 @@ status: unread
 ---
 # inheritor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is entitled by law or by the terms of a will to inherit the estate of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is entitled by law or by the terms of a will to inherit the estate of another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The very conveyances of his lands will scarcely lie in this box; and must the inheritor himself have no more, ha?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yourself, held precious in the world’s esteem, To parley with the sole inheritor Of all perfections that a man may owe, Matchless Navarre; the plea of no less weight Than Aquitaine, a dowry for a queen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Meantime, but think how I may do thee good, And be inheritor of thy desire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is entitled by law or by the terms of a will to inherit the estate of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is entitled by law or by the terms of a will to inherit the estate of another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The very conveyances of his lands will scarcely lie in this box; and must the inheritor himself have no more, ha?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yourself, held precious in the world’s esteem, To parley with the sole inheritor Of all perfections that a man may owe, Matchless Navarre; the plea of no less weight Than Aquitaine, a dowry for a queen."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Meantime, but think how I may do thee good, And be inheritor of thy desire."*

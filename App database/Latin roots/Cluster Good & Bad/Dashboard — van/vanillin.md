@@ -5,13 +5,6 @@ status: unread
 ---
 # vanillin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline compound found in vanilla beans and some balsam resins; used in perfumes and flavorings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline compound found in vanilla beans and some balsam resins; used in perfumes and flavorings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vanillin designates a crystalline compound found in vanilla beans and some balsam resins; used in perfumes and flavorings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline compound found in vanilla beans and some balsam resins; used in perfumes and flavorings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline compound found in vanilla beans and some balsam resins; used in perfumes and flavorings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vanillin designates a crystalline compound found in vanilla beans and some balsam resins; used in perfumes and flavorings."*

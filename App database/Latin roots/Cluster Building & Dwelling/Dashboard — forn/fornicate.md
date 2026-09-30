@@ -5,13 +5,6 @@ status: unread
 ---
 # fornicate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have sex without being married.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have sex without being married.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Blind to the world up in a shebeen in Bride street after closing time, fornicating with two shawls and a bully on guard, drinking porter out of teacups."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have sex without being married.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have sex without being married.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Blind to the world up in a shebeen in Bride street after closing time, fornicating with two shawls and a bully on guard, drinking porter out of teacups."*

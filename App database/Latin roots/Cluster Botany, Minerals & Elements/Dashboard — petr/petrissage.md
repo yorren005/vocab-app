@@ -5,13 +5,6 @@ status: unread
 ---
 # petrissage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Massage of the skin which is gently lifted and squeezed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Massage of the skin which is gently lifted and squeezed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrissage designates massage of the skin which is gently lifted and squeezed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Massage of the skin which is gently lifted and squeezed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Massage of the skin which is gently lifted and squeezed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrissage designates massage of the skin which is gently lifted and squeezed."*

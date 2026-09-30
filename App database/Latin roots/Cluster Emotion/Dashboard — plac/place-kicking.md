@@ -5,13 +5,6 @@ status: unread
 ---
 # place-kicking
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (sports) a kick in which the ball is placed on the ground before kicking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kick (a ball) from a stationary position, in football.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, place-kicking designates (sports) a kick in which the ball is placed on the ground before kicking."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (sports) a kick in which the ball is placed on the ground before kicking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kick (a ball) from a stationary position, in football.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, place-kicking designates (sports) a kick in which the ball is placed on the ground before kicking."*

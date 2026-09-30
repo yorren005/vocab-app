@@ -5,15 +5,6 @@ status: unread
 ---
 # desertion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Withdrawing support or help despite allegiance or responsibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of giving something up.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Fortunately (though I do not deny that I felt each desertion) our band grew less and less every day."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I replied— “There is no dishonour, no breach of promise, no desertion in the case."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Impromptu On General Dumourier’s Desertion From The French Republican Army You’re welcome to Despots, Dumourier; You’re welcome to Despots, Dumourier: How does Dampiere do?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Withdrawing support or help despite allegiance or responsibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of giving something up.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Fortunately (though I do not deny that I felt each desertion) our band grew less and less every day."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I replied— “There is no dishonour, no breach of promise, no desertion in the case."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Impromptu On General Dumourier’s Desertion From The French Republican Army You’re welcome to Despots, Dumourier; You’re welcome to Despots, Dumourier: How does Dampiere do?"*

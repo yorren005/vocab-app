@@ -5,13 +5,6 @@ status: unread
 ---
 # deinonychus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swift agile wolf-sized bipedal dinosaur having a large curved claw on each hind foot; of the cretaceous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swift agile wolf-sized bipedal dinosaur having a large curved claw on each hind foot; of the cretaceous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deinonychus designates swift agile wolf-sized bipedal dinosaur having a large curved claw on each hind foot; of the cretaceous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Swift agile wolf-sized bipedal dinosaur having a large curved claw on each hind foot; of the cretaceous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swift agile wolf-sized bipedal dinosaur having a large curved claw on each hind foot; of the cretaceous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deinonychus designates swift agile wolf-sized bipedal dinosaur having a large curved claw on each hind foot; of the cretaceous."*

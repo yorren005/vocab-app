@@ -5,13 +5,6 @@ status: unread
 ---
 # heterochromatin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Densely staining chromatin that appears as nodules in or along chromosomes and contains relatively few genes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Densely staining chromatin that appears as nodules in or along chromosomes and contains relatively few genes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterochromatin designates densely staining chromatin that appears as nodules in or along chromosomes and contains relatively few genes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Densely staining chromatin that appears as nodules in or along chromosomes and contains relatively few genes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Densely staining chromatin that appears as nodules in or along chromosomes and contains relatively few genes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterochromatin designates densely staining chromatin that appears as nodules in or along chromosomes and contains relatively few genes."*

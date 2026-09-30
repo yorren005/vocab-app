@@ -5,13 +5,6 @@ status: unread
 ---
 # torpidness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inactivity resulting from lethargy and lack of vigor or energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inactivity resulting from lethargy and lack of vigor or energy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, torpidness designates inactivity resulting from lethargy and lack of vigor or energy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inactivity resulting from lethargy and lack of vigor or energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inactivity resulting from lethargy and lack of vigor or energy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, torpidness designates inactivity resulting from lethargy and lack of vigor or energy."*

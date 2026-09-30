@@ -5,15 +5,6 @@ status: unread
 ---
 # poplin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ribbed fabric used in clothing and upholstery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ribbed fabric used in clothing and upholstery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And his mother had gone off shopping to buy linen for the house at Cushendhu, poplin for dresses, delft from Holland for the kitchen and glass from Waterford for the sideboard in the dining-room."*
-> - 📜 **James Joyce (*Ulysses*):** *"A tilted urn poured from its mouth a flood of bloodhued poplin: lustrous blood."*
-> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"I am so glad your flowered poplin turned out so well, and that your lace was not torn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ribbed fabric used in clothing and upholstery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ribbed fabric used in clothing and upholstery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And his mother had gone off shopping to buy linen for the house at Cushendhu, poplin for dresses, delft from Holland for the kitchen and glass from Waterford for the sideboard in the dining-room."*
+> - 📜 **James Joyce (*Ulysses*):** *"A tilted urn poured from its mouth a flood of bloodhued poplin: lustrous blood."*
+> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"I am so glad your flowered poplin turned out so well, and that your lace was not torn."*

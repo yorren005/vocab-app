@@ -5,15 +5,6 @@ status: unread
 ---
 # tempering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hardening something by heat treatment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to a desired consistency, texture, or hardness by a process of gradually heating and cooling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have him already tempering between my finger and my thumb, and shortly will I seal with him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But passion lends them power, time means, to meet, Tempering extremities with extreme sweet. [_Exit._] SCENE I."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke; “meeting people half-way—tempering your ideas—saying, ‘Well now, there’s something in that,’ and so on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hardening something by heat treatment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to a desired consistency, texture, or hardness by a process of gradually heating and cooling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have him already tempering between my finger and my thumb, and shortly will I seal with him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But passion lends them power, time means, to meet, Tempering extremities with extreme sweet. [_Exit._] SCENE I."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke; “meeting people half-way—tempering your ideas—saying, ‘Well now, there’s something in that,’ and so on."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # mon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The second day of the week; the first working day.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a buddhist people living in myanmar and adjacent parts of thailand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy dæmon—that thy spirit which keeps thee—is Noble, courageous, high, unmatchable, Where Caesar’s is not."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How answer you, _la plus belle Katherine du monde, mon très cher et divin déesse?_ KATHARINE."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dat is as it shall please _le roi mon père_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The second day of the week; the first working day.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a buddhist people living in myanmar and adjacent parts of thailand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy dæmon—that thy spirit which keeps thee—is Noble, courageous, high, unmatchable, Where Caesar’s is not."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How answer you, _la plus belle Katherine du monde, mon très cher et divin déesse?_ KATHARINE."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dat is as it shall please _le roi mon père_."*

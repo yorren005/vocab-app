@@ -5,20 +5,6 @@ status: unread
 ---
 # fluke
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Flatfish
-> 2. **Nuance / Usage**: Stroke of luck
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Zane Grey (*The Redheaded Outfield*):** *"Three of the best hitters in the Eastern retired on nine strikes! That was no fluke."*
-> - 📜 **Dorothy L. Sayers (*Strong Poison*):** *"And I say," said Wimsey, "that it would be better for her to be hanged outright than to live and have everybody think her a murderess who got off by a fluke."*
-> - 📜 **"Weird Al" Yankovic (*Christmas at Ground Zero*):** *"It's Christmas at ground zero / Now the missiles are on their way / What a crazy fluke / We're gonna get nuked / On this jolly holiday"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Flatfish
+> 2. **Nuance / Usage**: Stroke of luck
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Zane Grey (*The Redheaded Outfield*):** *"Three of the best hitters in the Eastern retired on nine strikes! That was no fluke."*
+> - 📜 **Dorothy L. Sayers (*Strong Poison*):** *"And I say," said Wimsey, "that it would be better for her to be hanged outright than to live and have everybody think her a murderess who got off by a fluke."*
+> - 📜 **"Weird Al" Yankovic (*Christmas at Ground Zero*):** *"It's Christmas at ground zero / Now the missiles are on their way / What a crazy fluke / We're gonna get nuked / On this jolly holiday"*

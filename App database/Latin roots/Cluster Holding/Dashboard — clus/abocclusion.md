@@ -5,13 +5,6 @@ status: unread
 ---
 # abocclusion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition in which the upper teeth do not touch the lower teeth when biting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition in which the upper teeth do not touch the lower teeth when biting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abocclusion designates the condition in which the upper teeth do not touch the lower teeth when biting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition in which the upper teeth do not touch the lower teeth when biting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition in which the upper teeth do not touch the lower teeth when biting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abocclusion designates the condition in which the upper teeth do not touch the lower teeth when biting."*

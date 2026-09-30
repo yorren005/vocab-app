@@ -5,13 +5,6 @@ status: unread
 ---
 # circumvallate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surround with or as if with a rampart or other fortification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surround with or as if with a rampart or other fortification.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circumvallate designates surround with or as if with a rampart or other fortification."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surround with or as if with a rampart or other fortification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surround with or as if with a rampart or other fortification.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circumvallate designates surround with or as if with a rampart or other fortification."*

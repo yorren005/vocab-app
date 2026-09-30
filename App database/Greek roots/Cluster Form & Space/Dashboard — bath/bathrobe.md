@@ -5,14 +5,6 @@ status: unread
 ---
 # bathrobe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A loose-fitting robe of towelling; worn after a bath or swim.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loose-fitting robe of towelling; worn after a bath or swim.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Then Burns, glowing from contact with water as cold as it could be got from the tap, clad in bathrobe and slippers, attempted to solve the mysteries of Bob's toilet."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"He was in bathrobe and slippers, having been excitedly interviewed by Chester through the bathroom door."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A loose-fitting robe of towelling; worn after a bath or swim.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loose-fitting robe of towelling; worn after a bath or swim.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Then Burns, glowing from contact with water as cold as it could be got from the tap, clad in bathrobe and slippers, attempted to solve the mysteries of Bob's toilet."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"He was in bathrobe and slippers, having been excitedly interviewed by Chester through the bathroom door."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # dipole
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pair of equal and opposite electric charges or magnetic poles of opposite sign separated especially by a small distance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body or system (such as a molecule) having such charges or poles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dipole designates a pair of equal and opposite electric charges or magnetic poles of opposite sign separated especially by a small distance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pair of equal and opposite electric charges or magnetic poles of opposite sign separated especially by a small distance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body or system (such as a molecule) having such charges or poles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dipole designates a pair of equal and opposite electric charges or magnetic poles of opposite sign separated especially by a small distance."*

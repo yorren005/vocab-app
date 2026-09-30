@@ -5,15 +5,6 @@ status: unread
 ---
 # boned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Study intensively, as before an exam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the bones from.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Steel, if thou turn the edge, or cut not out the burly-boned clown in chines of beef ere thou sleep in thy sheath, I beseech God on my knees thou mayst be turned to hobnails. [_Here they fight and Cade falls._] O, I am slain!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Poor broken glass, I often did behold In thy sweet semblance my old age new born; But now that fair fresh mirror, dim and old, Shows me a bare-boned death by time outworn."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As soon as we were out of doors, Egbert, with the manner of a little footpad, demanded a shilling of me on the ground that his pocket-money was “boned” from him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Study intensively, as before an exam.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the bones from.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Steel, if thou turn the edge, or cut not out the burly-boned clown in chines of beef ere thou sleep in thy sheath, I beseech God on my knees thou mayst be turned to hobnails. [_Here they fight and Cade falls._] O, I am slain!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Poor broken glass, I often did behold In thy sweet semblance my old age new born; But now that fair fresh mirror, dim and old, Shows me a bare-boned death by time outworn."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"As soon as we were out of doors, Egbert, with the manner of a little footpad, demanded a shilling of me on the ground that his pocket-money was “boned” from him."*

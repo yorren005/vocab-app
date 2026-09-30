@@ -5,15 +5,6 @@ status: unread
 ---
 # legitimate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make legal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show or affirm to be just and legitimate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sirrah, your brother is legitimate; Your father’s wife did after wedlock bear him, And if she did play false, the fault was hers; Which fault lies on the hazards of all husbands That marry wives."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well then, Legitimate Edgar, I must have your land: Our father’s love is to the bastard Edmund As to the legitimate: fine word: legitimate!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, my legitimate, if this letter speed, And my invention thrive, Edmund the base Shall top the legitimate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make legal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show or affirm to be just and legitimate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sirrah, your brother is legitimate; Your father’s wife did after wedlock bear him, And if she did play false, the fault was hers; Which fault lies on the hazards of all husbands That marry wives."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well then, Legitimate Edgar, I must have your land: Our father’s love is to the bastard Edmund As to the legitimate: fine word: legitimate!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, my legitimate, if this letter speed, And my invention thrive, Edmund the base Shall top the legitimate."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # sternum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound ventral bone or cartilage of most vertebrates other than fishes that connects the ribs or the shoulder girdle or both and in humans consists of the manubrium, gladiolus, and xiphoid process —called also breastbone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound ventral bone or cartilage of most vertebrates other than fishes that connects the ribs or the shoulder girdle or both and in humans consists of the manubrium, gladiolus, and xiphoid process —called also breastbone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sternum designates a compound ventral bone or cartilage of most vertebrates other than fishes that connects the ribs or the shoulder girdle or both and in humans consists of the manubrium, gladiolus, and xiphoid process —called also breastbone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound ventral bone or cartilage of most vertebrates other than fishes that connects the ribs or the shoulder girdle or both and in humans consists of the manubrium, gladiolus, and xiphoid process —called also breastbone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound ventral bone or cartilage of most vertebrates other than fishes that connects the ribs or the shoulder girdle or both and in humans consists of the manubrium, gladiolus, and xiphoid process —called also breastbone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sternum designates a compound ventral bone or cartilage of most vertebrates other than fishes that connects the ribs or the shoulder girdle or both and in humans consists of the manubrium, gladiolus, and xiphoid process —called also breastbone."*

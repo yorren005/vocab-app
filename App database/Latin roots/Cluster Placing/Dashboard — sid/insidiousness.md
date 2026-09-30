@@ -5,14 +5,6 @@ status: unread
 ---
 # insidiousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subtle and cumulative harmfulness (especially of a disease).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being designed to entrap.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Of course you have--that's the insidiousness of the devil's stuff."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"They believed in the personality, activity and insidiousness of the Devil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subtle and cumulative harmfulness (especially of a disease).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being designed to entrap.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Of course you have--that's the insidiousness of the devil's stuff."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"They believed in the personality, activity and insidiousness of the Devil."*

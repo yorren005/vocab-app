@@ -5,15 +5,6 @@ status: unread
 ---
 # type
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular kind, class, or group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something distinguishable as a variety : sort.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy father bears the type of King of Naples, Of both the Sicils, and Jerusalem, Yet not so wealthy as an English yeoman."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unto the dignity and height of fortune, The high imperial type of this earth’s glory."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of that true type hath Tarquin rifled me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular kind, class, or group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something distinguishable as a variety : sort.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy father bears the type of King of Naples, Of both the Sicils, and Jerusalem, Yet not so wealthy as an English yeoman."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unto the dignity and height of fortune, The high imperial type of this earth’s glory."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of that true type hath Tarquin rifled me."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # excrement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Waste matter (as urine or sweat but especially feces) discharged from the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Waste matter (as urine or sweat but especially feces) discharged from the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why is Time such a niggard of hair, being, as it is, so plentiful an excrement?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I must tell thee it will please his Grace, by the world, sometime to lean upon my poor shoulder and with his royal finger thus dally with my excrement, with my mustachio."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How many cowards, whose hearts are all as false As stairs of sand, wear yet upon their chins The beards of Hercules and frowning Mars, Who inward search’d, have livers white as milk, And these assume but valour’s excrement To render them redoubted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Waste matter (as urine or sweat but especially feces) discharged from the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Waste matter (as urine or sweat but especially feces) discharged from the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why is Time such a niggard of hair, being, as it is, so plentiful an excrement?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I must tell thee it will please his Grace, by the world, sometime to lean upon my poor shoulder and with his royal finger thus dally with my excrement, with my mustachio."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How many cowards, whose hearts are all as false As stairs of sand, wear yet upon their chins The beards of Hercules and frowning Mars, Who inward search’d, have livers white as milk, And these assume but valour’s excrement To render them redoubted."*

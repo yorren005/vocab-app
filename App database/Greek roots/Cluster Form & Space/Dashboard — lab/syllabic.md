@@ -5,13 +5,6 @@ status: unread
 ---
 # syllabic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting a syllable or the nucleus of a syllable:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not accompanied in the same syllable by a vowel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Sometimes Leah is with her; they are frequently noisy together.” The laugh was repeated in its low, syllabic tone, and terminated in an odd murmur."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting a syllable or the nucleus of a syllable:.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not accompanied in the same syllable by a vowel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Sometimes Leah is with her; they are frequently noisy together.” The laugh was repeated in its low, syllabic tone, and terminated in an odd murmur."*

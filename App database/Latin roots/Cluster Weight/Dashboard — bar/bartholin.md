@@ -5,13 +5,6 @@ status: unread
 ---
 # bartholin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Danish physician who discovered bartholin's gland (1585-1629).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Danish physician who discovered bartholin's gland (1585-1629).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bartholin designates danish physician who discovered bartholin's gland (1585-1629)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Danish physician who discovered bartholin's gland (1585-1629).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Danish physician who discovered bartholin's gland (1585-1629).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bartholin designates danish physician who discovered bartholin's gland (1585-1629)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # eloquence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Powerful and effective language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Powerful and effective language.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring him through the bands. [_Exit Ambassador, attended._] [_To Thidias_.] To try thy eloquence now ’tis time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His industry is upstairs and downstairs; his eloquence the parcel of a reckoning."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, before God, Kate, I cannot look greenly, nor gasp out my eloquence, nor I have no cunning in protestation; only downright oaths, which I never use till urg’d, nor never break for urging."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Powerful and effective language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Powerful and effective language.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring him through the bands. [_Exit Ambassador, attended._] [_To Thidias_.] To try thy eloquence now ’tis time."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His industry is upstairs and downstairs; his eloquence the parcel of a reckoning."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, before God, Kate, I cannot look greenly, nor gasp out my eloquence, nor I have no cunning in protestation; only downright oaths, which I never use till urg’d, nor never break for urging."*

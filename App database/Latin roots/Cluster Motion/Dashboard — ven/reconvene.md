@@ -5,13 +5,6 @@ status: unread
 ---
 # reconvene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meet again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meet again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Congress adjourned May 22d, reconvened at Richmond, Va., July 20th, and adjourned August 22d, until November 18th."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Meet again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meet again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Congress adjourned May 22d, reconvened at Richmond, Va., July 20th, and adjourned August 22d, until November 18th."*

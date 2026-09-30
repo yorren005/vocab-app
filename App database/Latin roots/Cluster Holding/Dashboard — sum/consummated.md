@@ -5,15 +5,6 @@ status: unread
 ---
 # consummated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fulfill sexually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make perfect; bring to perfection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Hopes were cherished for a time that the Union might yet be consummated, and the determination was expressed to carry it through at all hazards."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"It will be consummated through the emergence of the Bahá'í World Commonwealth in the Golden Age of the Bahá'í Dispensation."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The daughter communities of Latin America were called into being and exterior ornamentation of the Temple was consummated while the American mother community was in the throes of the last, most harassing stage of the devastating struggle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fulfill sexually.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make perfect; bring to perfection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Hopes were cherished for a time that the Union might yet be consummated, and the determination was expressed to carry it through at all hazards."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"It will be consummated through the emergence of the Bahá'í World Commonwealth in the Golden Age of the Bahá'í Dispensation."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The daughter communities of Latin America were called into being and exterior ornamentation of the Temple was consummated while the American mother community was in the throes of the last, most harassing stage of the devastating struggle."*

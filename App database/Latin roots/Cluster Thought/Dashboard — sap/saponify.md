@@ -5,13 +5,6 @@ status: unread
 ---
 # saponify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become converted into soap by being hydrolized into an acid and alcohol as a result of being treated with an alkali.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert into soap by hydrolizing an ester into an acid and alcohol as a result of treating it with an alkali.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saponify designates become converted into soap by being hydrolized into an acid and alcohol as a result of being treated with an alkali."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become converted into soap by being hydrolized into an acid and alcohol as a result of being treated with an alkali.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert into soap by hydrolizing an ester into an acid and alcohol as a result of treating it with an alkali.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saponify designates become converted into soap by being hydrolized into an acid and alcohol as a result of being treated with an alkali."*

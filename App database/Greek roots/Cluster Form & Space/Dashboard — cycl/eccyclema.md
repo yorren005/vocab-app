@@ -5,13 +5,6 @@ status: unread
 ---
 # eccyclema
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wheeled device, used in ancient Greek plays, that could be rolled out to allow a tableau to be viewed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wheeled device, used in ancient Greek plays, that could be rolled out to allow a tableau to be viewed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eccyclema designates a wheeled device, used in ancient greek plays, that could be rolled out to allow a tableau to be viewed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wheeled device, used in ancient Greek plays, that could be rolled out to allow a tableau to be viewed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wheeled device, used in ancient Greek plays, that could be rolled out to allow a tableau to be viewed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eccyclema designates a wheeled device, used in ancient greek plays, that could be rolled out to allow a tableau to be viewed."*

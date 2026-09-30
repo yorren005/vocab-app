@@ -5,13 +5,6 @@ status: unread
 ---
 # topspin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Forward spin (usually of a moving ball) that is imparted by an upward stroke.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forward spin (usually of a moving ball) that is imparted by an upward stroke.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topspin designates forward spin (usually of a moving ball) that is imparted by an upward stroke."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forward spin (usually of a moving ball) that is imparted by an upward stroke.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forward spin (usually of a moving ball) that is imparted by an upward stroke.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topspin designates forward spin (usually of a moving ball) that is imparted by an upward stroke."*

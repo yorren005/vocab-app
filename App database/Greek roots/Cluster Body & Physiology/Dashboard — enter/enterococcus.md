@@ -5,13 +5,6 @@ status: unread
 ---
 # enterococcus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Enterococcus) of gram-positive bacteria that resemble streptococci and were formerly classified with them; especially : a bacterium (E. faecalis) normally present in the intestine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several enterococci (such as Enterococcus faecalis and E. faecium) that are resistant to vancomycin and other commonly used antibiotics (such as cephalosporin and tetracycline) and are typically benign colonizers of the gastrointestinal tract and female genital tract but may cause severe infections (as of the urinary tract or bloodstream) especially in hospitalized patients with weakened immune systems and in individuals who are on long-term regimens of antibiotics —abbreviation VRE.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterococcus designates any of a genus (enterococcus) of gram-positive bacteria that resemble streptococci and were formerly classified with them; especially : a bacterium (e. faecalis) normally present in the intestine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Enterococcus) of gram-positive bacteria that resemble streptococci and were formerly classified with them; especially : a bacterium (E. faecalis) normally present in the intestine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several enterococci (such as Enterococcus faecalis and E. faecium) that are resistant to vancomycin and other commonly used antibiotics (such as cephalosporin and tetracycline) and are typically benign colonizers of the gastrointestinal tract and female genital tract but may cause severe infections (as of the urinary tract or bloodstream) especially in hospitalized patients with weakened immune systems and in individuals who are on long-term regimens of antibiotics —abbreviation VRE.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterococcus designates any of a genus (enterococcus) of gram-positive bacteria that resemble streptococci and were formerly classified with them; especially : a bacterium (e. faecalis) normally present in the intestine."*

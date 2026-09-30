@@ -5,15 +5,6 @@ status: unread
 ---
 # malice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling a need to see others suffer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of threatening evil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Name Cleopatra as she is called in Rome; Rail thou in Fulvia’s phrase, and taunt my faults With such full licence as both truth and malice Have power to utter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I rather will subject me to the malice Of a diverted blood and bloody brother."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What I think I utter, and spend my malice in my breath."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling a need to see others suffer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of threatening evil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Name Cleopatra as she is called in Rome; Rail thou in Fulvia’s phrase, and taunt my faults With such full licence as both truth and malice Have power to utter."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I rather will subject me to the malice Of a diverted blood and bloody brother."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What I think I utter, and spend my malice in my breath."*

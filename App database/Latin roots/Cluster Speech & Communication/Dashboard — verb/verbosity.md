@@ -5,13 +5,6 @@ status: unread
 ---
 # verbosity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expressive style that uses excessive or empty words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expressive style that uses excessive or empty words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He draweth out the thread of his verbosity finer than the staple of his argument."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expressive style that uses excessive or empty words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expressive style that uses excessive or empty words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He draweth out the thread of his verbosity finer than the staple of his argument."*

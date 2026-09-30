@@ -5,15 +5,6 @@ status: unread
 ---
 # tactful
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing a sense of what is fitting and considerate in dealing with others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing skill and sensitivity in dealing with people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I'd like you to see my guns," Lawrence continued, too shrewd to be tactful."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"He was distressed to hear that she had been hurt." That was more tactful!"*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"You have been all that is tactful--all that is kind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing a sense of what is fitting and considerate in dealing with others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing skill and sensitivity in dealing with people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"I'd like you to see my guns," Lawrence continued, too shrewd to be tactful."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"He was distressed to hear that she had been hurt." That was more tactful!"*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"You have been all that is tactful--all that is kind."*

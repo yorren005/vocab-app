@@ -5,15 +5,6 @@ status: unread
 ---
 # mesopotamia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The land between the tigris and euphrates; site of several ancient civilizations; part of what is now known as iraq.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The land between the tigris and euphrates; site of several ancient civilizations; part of what is now known as iraq.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spur through Media, Mesopotamia, and the shelters whither The routed fly."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He relates how Sapor, king of Persia, besieged the strong city of Atrae, in the desert of Mesopotamia, for several years without being able to take it."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"On great roads, north and south of the town's girdle of hills, passed to and fro the many-coloured traffic between Egypt and Mesopotamia and the Orient."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The land between the tigris and euphrates; site of several ancient civilizations; part of what is now known as iraq.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The land between the tigris and euphrates; site of several ancient civilizations; part of what is now known as iraq.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spur through Media, Mesopotamia, and the shelters whither The routed fly."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He relates how Sapor, king of Persia, besieged the strong city of Atrae, in the desert of Mesopotamia, for several years without being able to take it."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"On great roads, north and south of the town's girdle of hills, passed to and fro the many-coloured traffic between Egypt and Mesopotamia and the Orient."*

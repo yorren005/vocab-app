@@ -5,15 +5,6 @@ status: unread
 ---
 # promiscuous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not selective of a single class or person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Casual and unrestrained in sexual behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"A baneful promiscuous intercourse of the sexes is hereby avoided, and virtue, without being clamorously invoked, is, as it were, unconsciously practised."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Say, Muse, their Names then known, who first, who last, Rous’d from the slumber, on that fiery Couch, At thir great Emperors call, as next in worth Came singly where he stood on the bare strand, While the promiscuous croud stood yet aloof?"*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Promiscuous universal sympathy is too great a tax on the nervous system."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not selective of a single class or person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Casual and unrestrained in sexual behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"A baneful promiscuous intercourse of the sexes is hereby avoided, and virtue, without being clamorously invoked, is, as it were, unconsciously practised."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Say, Muse, their Names then known, who first, who last, Rous’d from the slumber, on that fiery Couch, At thir great Emperors call, as next in worth Came singly where he stood on the bare strand, While the promiscuous croud stood yet aloof?"*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Promiscuous universal sympathy is too great a tax on the nervous system."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # hellenism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The principles and ideals associated with classical greek civilization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principles and ideals associated with classical greek civilization.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The fact itself is important because it establishes the connection between his Weltschmerz and his most noteworthy characteristic as a poet, namely, his Hellenism."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It is not only the poetic climax of his Hellenism, but also the most complete expression of his Weltschmerz in its various phases."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"There is something of a counterpart to Hoelderlin's Hellenism and championship of Greek liberty in Lenau's espousal of the Polish cause."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principles and ideals associated with classical greek civilization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principles and ideals associated with classical greek civilization.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The fact itself is important because it establishes the connection between his Weltschmerz and his most noteworthy characteristic as a poet, namely, his Hellenism."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It is not only the poetic climax of his Hellenism, but also the most complete expression of his Weltschmerz in its various phases."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"There is something of a counterpart to Hoelderlin's Hellenism and championship of Greek liberty in Lenau's espousal of the Polish cause."*

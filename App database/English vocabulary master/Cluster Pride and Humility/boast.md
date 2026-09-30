@@ -5,20 +5,6 @@ status: unread
 ---
 # boast
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Cause for pride
-> 2. **Nuance / Usage**: Brag; ostentatious positive appraisal of oneself
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I could make as true a boast as that, if I had a sow to my mistress."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"That doth presume to boast of gentle blood."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"My duty will I boast of, nothing else."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Cause for pride
+> 2. **Nuance / Usage**: Brag; ostentatious positive appraisal of oneself
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I could make as true a boast as that, if I had a sow to my mistress."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"That doth presume to boast of gentle blood."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"My duty will I boast of, nothing else."*

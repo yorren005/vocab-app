@@ -5,13 +5,6 @@ status: unread
 ---
 # petteria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: dalmatian laburnum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: dalmatian laburnum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petteria designates one species: dalmatian laburnum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: dalmatian laburnum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: dalmatian laburnum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petteria designates one species: dalmatian laburnum."*

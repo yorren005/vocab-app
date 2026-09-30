@@ -5,15 +5,6 @@ status: unread
 ---
 # evacuation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of removing the contents of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of evacuating; leaving a place in an orderly fashion; especially for protection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"In early youth he had served as a soldier in the West under General Wayne, the "Mad Anthony" of the early days of the Republic, and his boyish eyes had witnessed the evacuation of Detroit by the British in 1796."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The day on which the order for the evacuation of Fredericksburg was issued, she was told that her "experiment was more than a success--it was a triumph." And this by one of the highest officials of the Medical department."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Dokhtúrov went to Málo-Yaroslávets, but Kutúzov lingered with the main army and gave orders for the evacuation of Kalúga—a retreat beyond which town seemed to him quite possible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of removing the contents of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of evacuating; leaving a place in an orderly fashion; especially for protection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"In early youth he had served as a soldier in the West under General Wayne, the "Mad Anthony" of the early days of the Republic, and his boyish eyes had witnessed the evacuation of Detroit by the British in 1796."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The day on which the order for the evacuation of Fredericksburg was issued, she was told that her "experiment was more than a success--it was a triumph." And this by one of the highest officials of the Medical department."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Dokhtúrov went to Málo-Yaroslávets, but Kutúzov lingered with the main army and gave orders for the evacuation of Kalúga—a retreat beyond which town seemed to him quite possible."*

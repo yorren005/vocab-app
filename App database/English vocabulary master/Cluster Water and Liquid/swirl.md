@@ -5,20 +5,6 @@ status: unread
 ---
 # swirl
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Pass in whirling confusion
-> 2. **Nuance / Usage**: Have a twist or convolution
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to swirl the target*) and intransitive clauses (*swirling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alistair Magowan (*Sunderland 0-1 Man Utd*):** *"The contest was a lot more even in the second half, as the wind swirled around the Stadium of Light, but it took Craig Gardner's superb block to prevent Young getting on the scoresheet."*
-> - 📜 **Sarah Lyall (*British Leader’s Liberal Turn Sets Off a Rebellion in His Party*):** *"Mr. Cameron had a respite Thursday from the negative chatter swirling around him when he appeared outside 10 Downing Street to denounce the murder a day before of a British soldier on a London street."*
-> - 📜 **Lisa Respers France (*Celine Dion announces her return to the stage*):** *"Rumors began to swirl last week that Dion would once again be performing after posters with her various song titles began popping up around the French capital."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Pass in whirling confusion
+> 2. **Nuance / Usage**: Have a twist or convolution
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to swirl the target*) and intransitive clauses (*swirling against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alistair Magowan (*Sunderland 0-1 Man Utd*):** *"The contest was a lot more even in the second half, as the wind swirled around the Stadium of Light, but it took Craig Gardner's superb block to prevent Young getting on the scoresheet."*
+> - 📜 **Sarah Lyall (*British Leader’s Liberal Turn Sets Off a Rebellion in His Party*):** *"Mr. Cameron had a respite Thursday from the negative chatter swirling around him when he appeared outside 10 Downing Street to denounce the murder a day before of a British soldier on a London street."*
+> - 📜 **Lisa Respers France (*Celine Dion announces her return to the stage*):** *"Rumors began to swirl last week that Dion would once again be performing after posters with her various song titles began popping up around the French capital."*

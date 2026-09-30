@@ -5,13 +5,6 @@ status: unread
 ---
 # ac
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: account.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: acre.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Holds no trumps nor aces, Cannot take a trick, Cards are all queen's faces, Tino's feeling sick."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: account.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: acre.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Holds no trumps nor aces, Cannot take a trick, Cards are all queen's faces, Tino's feeling sick."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # undersecretary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A secretary immediately subordinate to the head of a department of government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A secretary immediately subordinate to the head of a department of government.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"Christopher Mead, Assistant Undersecretary for External Affairs, returned the handshake, smiling."*
-> - 📜 **Algis Budrys (*Citadel*):** *"Christopher Mead, Assistant Undersecretary for External Affairs," the assistant said, orientating himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A secretary immediately subordinate to the head of a department of government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A secretary immediately subordinate to the head of a department of government.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Algis Budrys (*Citadel*):** *"Christopher Mead, Assistant Undersecretary for External Affairs, returned the handshake, smiling."*
+> - 📜 **Algis Budrys (*Citadel*):** *"Christopher Mead, Assistant Undersecretary for External Affairs," the assistant said, orientating himself."*

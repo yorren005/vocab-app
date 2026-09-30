@@ -5,13 +5,6 @@ status: unread
 ---
 # habitus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Person's predisposition to be affected by something (as a disease).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constitution of the human body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, habitus designates person's predisposition to be affected by something (as a disease)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Person's predisposition to be affected by something (as a disease).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constitution of the human body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, habitus designates person's predisposition to be affected by something (as a disease)."*

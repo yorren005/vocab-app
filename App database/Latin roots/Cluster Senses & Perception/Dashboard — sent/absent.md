@@ -5,15 +5,6 @@ status: unread
 ---
 # absent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Go away or leave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not being in a specified place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord your son made me to think of this; Else Paris, and the medicine, and the king, Had from the conversation of my thoughts Haply been absent then."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The solemn feast Shall more attend upon the coming space, Expecting absent friends."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You see it lawful then; it is no more But that your daughter, ere she seems as won, Desires this ring; appoints him an encounter; In fine, delivers me to fill the time, Herself most chastely absent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Go away or leave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not being in a specified place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord your son made me to think of this; Else Paris, and the medicine, and the king, Had from the conversation of my thoughts Haply been absent then."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The solemn feast Shall more attend upon the coming space, Expecting absent friends."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You see it lawful then; it is no more But that your daughter, ere she seems as won, Desires this ring; appoints him an encounter; In fine, delivers me to fill the time, Herself most chastely absent."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # tin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A silvery malleable metallic element that resists corrosion; used in many alloys and to coat other metals to prevent corrosion; obtained chiefly from cassiterite where it occurs as tin oxide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vessel (box, can, pan, etc.) made of tinplate and used mainly in baking.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, “a habitable doll’s house with good board and a few tin people to get into debt with and borrow money of would set the boy up in life."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Quickly the waitress returns bearing what is apparently a model of the Tower of Babel but what is really a pile of plates and flat tin dish-covers."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He could play ’em a tune on any sort of pot you please, so as it was iron or block tin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A silvery malleable metallic element that resists corrosion; used in many alloys and to coat other metals to prevent corrosion; obtained chiefly from cassiterite where it occurs as tin oxide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vessel (box, can, pan, etc.) made of tinplate and used mainly in baking.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, “a habitable doll’s house with good board and a few tin people to get into debt with and borrow money of would set the boy up in life."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Quickly the waitress returns bearing what is apparently a model of the Tower of Babel but what is really a pile of plates and flat tin dish-covers."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He could play ’em a tune on any sort of pot you please, so as it was iron or block tin."*

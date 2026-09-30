@@ -5,14 +5,6 @@ status: unread
 ---
 # hyphenation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Division of a word especially at the end of a line on a page.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Connecting syllables and words by hyphens.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Inconsistent hyphenation has been left as printed, except “firebox” has been changed to “fire-box” in the Index to match the spelling in the main body of the book."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Archaic and alternative spellings as well as hyphenation differences have been left unchanged. 5."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Division of a word especially at the end of a line on a page.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Connecting syllables and words by hyphens.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Inconsistent hyphenation has been left as printed, except “firebox” has been changed to “fire-box” in the Index to match the spelling in the main body of the book."*
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Archaic and alternative spellings as well as hyphenation differences have been left unchanged. 5."*

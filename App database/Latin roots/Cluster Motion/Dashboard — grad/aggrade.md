@@ -5,13 +5,6 @@ status: unread
 ---
 # aggrade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Build up to a level by depositing sediment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Build up to a level by depositing sediment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aggrade designates build up to a level by depositing sediment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Build up to a level by depositing sediment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Build up to a level by depositing sediment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aggrade designates build up to a level by depositing sediment."*

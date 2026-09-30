@@ -5,15 +5,6 @@ status: unread
 ---
 # dilemma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually undesirable or unpleasant choice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A situation involving such a choice; broadly : predicament.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, Master Doctor, in perplexity and doubtful dilemma."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The ladies were extremely frightened and told the doctor their dilemma, for they were both absolutely compelled to leave."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It seems dreadfully wrong not to have you when you feel so much!” she said with a little distress, and looking hopelessly around for some means of escape from her moral dilemma."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually undesirable or unpleasant choice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A situation involving such a choice; broadly : predicament.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, Master Doctor, in perplexity and doubtful dilemma."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The ladies were extremely frightened and told the doctor their dilemma, for they were both absolutely compelled to leave."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It seems dreadfully wrong not to have you when you feel so much!” she said with a little distress, and looking hopelessly around for some means of escape from her moral dilemma."*

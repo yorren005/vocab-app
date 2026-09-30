@@ -5,13 +5,6 @@ status: unread
 ---
 # visualizer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One whose prevailing mental imagery is visual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One whose prevailing mental imagery is visual.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"KEEP IT SIMPLE The visualizer should keep one cardinal point in mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One whose prevailing mental imagery is visual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One whose prevailing mental imagery is visual.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"KEEP IT SIMPLE The visualizer should keep one cardinal point in mind."*

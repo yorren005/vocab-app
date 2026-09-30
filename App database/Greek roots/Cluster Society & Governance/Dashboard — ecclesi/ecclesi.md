@@ -5,15 +5,6 @@ status: unread
 ---
 # ecclesi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: church.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Hist._ [38] 1287.--Conventus Ecclesiæ Beatæ Mariæ de <g>Tynterna</g> intravit dictam ecclesiam ad celebrandum in _nova_ ecclesia."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Dedicacio Ecclesiæ Tynterniæ, 28 die Jullii."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Sic in toto longitudo Chori cum area campanilis continet virgas. _Item_, altitudo _voltæ_ totius ecclesiæ ab area ecclesiæ continet xi."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: church.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Hist._ [38] 1287.--Conventus Ecclesiæ Beatæ Mariæ de <g>Tynterna</g> intravit dictam ecclesiam ad celebrandum in _nova_ ecclesia."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Dedicacio Ecclesiæ Tynterniæ, 28 die Jullii."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Sic in toto longitudo Chori cum area campanilis continet virgas. _Item_, altitudo _voltæ_ totius ecclesiæ ab area ecclesiæ continet xi."*

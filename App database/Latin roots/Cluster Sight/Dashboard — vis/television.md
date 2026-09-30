@@ -5,15 +5,6 @@ status: unread
 ---
 # television
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Broadcasting visual images of stationary or moving objects; ;  - ernie kovacs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A telecommunication system that transmits images of objects (stationary or moving) between distant points.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The young are already exposed to far more negative forces in the general run of storybooks, television shows, Internet games and the real world."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Let me tell you about it.' The grandchild chose the grandparent over television and the many other forms of professionally polished commercial entertainment that thrusts forward for his or her attention."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"He places his cane on the ground beside him and crosses his legs just as I often do when I watch television."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Broadcasting visual images of stationary or moving objects; ;  - ernie kovacs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A telecommunication system that transmits images of objects (stationary or moving) between distant points.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The young are already exposed to far more negative forces in the general run of storybooks, television shows, Internet games and the real world."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Let me tell you about it.' The grandchild chose the grandparent over television and the many other forms of professionally polished commercial entertainment that thrusts forward for his or her attention."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"He places his cane on the ground beside him and crosses his legs just as I often do when I watch television."*

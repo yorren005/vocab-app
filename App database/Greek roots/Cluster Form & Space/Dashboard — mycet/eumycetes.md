@@ -5,13 +5,6 @@ status: unread
 ---
 # eumycetes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Category used in some classifications: coextensive with division eumycota.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Category used in some classifications: coextensive with division eumycota.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eumycetes designates category used in some classifications: coextensive with division eumycota."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Category used in some classifications: coextensive with division eumycota.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Category used in some classifications: coextensive with division eumycota.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eumycetes designates category used in some classifications: coextensive with division eumycota."*

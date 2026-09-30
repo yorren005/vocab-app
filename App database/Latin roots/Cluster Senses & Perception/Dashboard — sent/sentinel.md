@@ -5,15 +5,6 @@ status: unread
 ---
 # sentinel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person employed to keep watch for some anticipated event.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person employed to keep watch for some anticipated event.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One aloof stand sentinel. [_Exeunt Fairies."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Might it be a sentinel at the castle who was ordered to go about?"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"May be the old castle-barons had always wished an armed sentinel to keep watch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person employed to keep watch for some anticipated event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person employed to keep watch for some anticipated event.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One aloof stand sentinel. [_Exeunt Fairies."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Might it be a sentinel at the castle who was ordered to go about?"*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"May be the old castle-barons had always wished an armed sentinel to keep watch."*

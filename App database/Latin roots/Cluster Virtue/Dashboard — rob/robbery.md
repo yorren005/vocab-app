@@ -5,15 +5,6 @@ status: unread
 ---
 # robbery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Larceny by threat of violence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plundering during riots or in wartime.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do forgive thy robbery gentle thief Although thou steal thee all my poverty: And yet love knows it is a greater grief To bear greater wrong, than hate’s known injury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dost thou think I’ll grace thee with that robbery, thy stol’n name Coriolanus, in Corioles?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But in one night A storm, or robbery, call it what you will, Shook down my mellow hangings, nay, my leaves, And left me bare to weather."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Larceny by threat of violence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plundering during riots or in wartime.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do forgive thy robbery gentle thief Although thou steal thee all my poverty: And yet love knows it is a greater grief To bear greater wrong, than hate’s known injury."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dost thou think I’ll grace thee with that robbery, thy stol’n name Coriolanus, in Corioles?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But in one night A storm, or robbery, call it what you will, Shook down my mellow hangings, nay, my leaves, And left me bare to weather."*

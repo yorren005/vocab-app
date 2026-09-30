@@ -5,13 +5,6 @@ status: unread
 ---
 # entozoic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Living within a living animal usually as a parasite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living within a living animal usually as a parasite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entozoic designates living within a living animal usually as a parasite."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living within a living animal usually as a parasite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living within a living animal usually as a parasite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entozoic designates living within a living animal usually as a parasite."*

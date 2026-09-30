@@ -5,15 +5,6 @@ status: unread
 ---
 # spindle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) tiny fibers that are seen in cell division; the fibers radiate from two poles and meet at the equator in the middle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of wood that has been turned on a lathe; used as a baluster, chair leg, etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed’s seat and guarded by his spindle legs is a drawer in his chair, reported to contain property to a fabulous amount."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Poor devil! see him owre his trash, As feckles as wither’d rash, His spindle shank, a guid whip-lash; His nieve a nit; Thro’ blody flood or field to dash, O how unfit!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Manxman took the reel, and holding it high up, by the projecting handle-ends of the spindle, round which the spool of line revolved, so stood with the angular log hanging downwards, till Ahab advanced to him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) tiny fibers that are seen in cell division; the fibers radiate from two poles and meet at the equator in the middle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of wood that has been turned on a lathe; used as a baluster, chair leg, etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed’s seat and guarded by his spindle legs is a drawer in his chair, reported to contain property to a fabulous amount."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Poor devil! see him owre his trash, As feckles as wither’d rash, His spindle shank, a guid whip-lash; His nieve a nit; Thro’ blody flood or field to dash, O how unfit!"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Manxman took the reel, and holding it high up, by the projecting handle-ends of the spindle, round which the spool of line revolved, so stood with the angular log hanging downwards, till Ahab advanced to him."*

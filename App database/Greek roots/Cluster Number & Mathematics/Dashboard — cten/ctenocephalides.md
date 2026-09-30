@@ -5,13 +5,6 @@ status: unread
 ---
 # ctenocephalides
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arthropod genus of fleas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arthropod genus of fleas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ctenocephalides designates an arthropod genus of fleas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arthropod genus of fleas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arthropod genus of fleas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ctenocephalides designates an arthropod genus of fleas."*

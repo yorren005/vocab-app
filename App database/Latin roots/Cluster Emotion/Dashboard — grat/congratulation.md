@@ -5,15 +5,6 @@ status: unread
 ---
 # congratulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of acknowledging that someone has an occasion for celebration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually plural) an expression of pleasure at the success or good fortune of another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt is so far away, now,” said I, “that I thought the time for such congratulation was past, Miss Flite.” “But, my child,” she returned, “is it possible that you don’t know what has happened?” “No,” said I."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"But, when he had sufficiently mastered the language to be able to read the Koran, he knew that he had two grounds for self-congratulation, and these were sufficiently characteristic."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What does that grave smile signify?” “Wonder and self-congratulation, sir."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of acknowledging that someone has an occasion for celebration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually plural) an expression of pleasure at the success or good fortune of another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt is so far away, now,” said I, “that I thought the time for such congratulation was past, Miss Flite.” “But, my child,” she returned, “is it possible that you don’t know what has happened?” “No,” said I."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"But, when he had sufficiently mastered the language to be able to read the Koran, he knew that he had two grounds for self-congratulation, and these were sufficiently characteristic."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What does that grave smile signify?” “Wonder and self-congratulation, sir."*

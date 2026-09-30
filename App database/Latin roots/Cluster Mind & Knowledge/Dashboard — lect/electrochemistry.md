@@ -5,13 +5,6 @@ status: unread
 ---
 # electrochemistry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Branch of chemistry that deals with the chemical action of electricity and the production of electricity by chemical reactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Branch of chemistry that deals with the chemical action of electricity and the production of electricity by chemical reactions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"DEPOSITING THE SHELL Those who are not technically familiar with electrochemistry are prone to think that the length of time a mold is kept in the electrolytic bath, i. e., the copper bath, determines the thickness of the shell deposited thereon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Branch of chemistry that deals with the chemical action of electricity and the production of electricity by chemical reactions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Branch of chemistry that deals with the chemical action of electricity and the production of electricity by chemical reactions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"DEPOSITING THE SHELL Those who are not technically familiar with electrochemistry are prone to think that the length of time a mold is kept in the electrolytic bath, i. e., the copper bath, determines the thickness of the shell deposited thereon."*

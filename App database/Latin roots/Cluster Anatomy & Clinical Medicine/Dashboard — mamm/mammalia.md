@@ -5,15 +5,6 @@ status: unread
 ---
 # mammalia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Warm-blooded vertebrates characterized by mammary glands in the female.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warm-blooded vertebrates characterized by mammary glands in the female.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I concluded definitely that it belonged to the vertebrate branch, class mammalia."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was evidently a hard impenetrable body, and not the soft substance that forms the bodies of the great marine mammalia."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I told Ned Land and Conseil that provident nature had assigned an important role to these mammalia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Warm-blooded vertebrates characterized by mammary glands in the female.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warm-blooded vertebrates characterized by mammary glands in the female.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I concluded definitely that it belonged to the vertebrate branch, class mammalia."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was evidently a hard impenetrable body, and not the soft substance that forms the bodies of the great marine mammalia."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I told Ned Land and Conseil that provident nature had assigned an important role to these mammalia."*

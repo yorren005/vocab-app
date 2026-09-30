@@ -5,13 +5,6 @@ status: unread
 ---
 # face-lift
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform cosmetic surgery on someone's face.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform cosmetic surgery on someone's face.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, face-lift designates perform cosmetic surgery on someone's face."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform cosmetic surgery on someone's face.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform cosmetic surgery on someone's face.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, face-lift designates perform cosmetic surgery on someone's face."*

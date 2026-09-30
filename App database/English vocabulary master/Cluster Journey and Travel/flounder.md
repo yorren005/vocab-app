@@ -5,20 +5,6 @@ status: unread
 ---
 # flounder
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Proceed or act clumsily or ineffectually
-> 2. **Nuance / Usage**: (intransitive) to flop around as a fish out of water
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the flounder withstood the storm*), direct object (*cleaved the flounder*), or prepositional anchor (*amidst the flounder*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nick Honachefsky (*The Jersey Surf Diaries*):** *"Blackfishing from the beach. I've done my research. Hundreds of shipwrecks line the Jersey coast, and many of them are close enough to reach with a long cast on a dead-low tide. These wrecks hold tautog, porgies, sea bass, flounder."*
-> - 📜 **David Gunston (*Railways on the Screen*):** *"These epics nearly always had runaway trains, nincompoops floundering with the controls and a collapsed bridge just ahead!"*
-> - 📜 **Janette Turner Hospital (*Oyster (novel)*):** *"He is assessing directions, but he is not lost, not floundering."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Proceed or act clumsily or ineffectually
+> 2. **Nuance / Usage**: (intransitive) to flop around as a fish out of water
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the flounder withstood the storm*), direct object (*cleaved the flounder*), or prepositional anchor (*amidst the flounder*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nick Honachefsky (*The Jersey Surf Diaries*):** *"Blackfishing from the beach. I've done my research. Hundreds of shipwrecks line the Jersey coast, and many of them are close enough to reach with a long cast on a dead-low tide. These wrecks hold tautog, porgies, sea bass, flounder."*
+> - 📜 **David Gunston (*Railways on the Screen*):** *"These epics nearly always had runaway trains, nincompoops floundering with the controls and a collapsed bridge just ahead!"*
+> - 📜 **Janette Turner Hospital (*Oyster (novel)*):** *"He is assessing directions, but he is not lost, not floundering."*

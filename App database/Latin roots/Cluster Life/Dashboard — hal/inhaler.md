@@ -5,13 +5,6 @@ status: unread
 ---
 # inhaler
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dispenser that produces a chemical vapor to be inhaled in order to relieve nasal congestion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dispenser that produces a chemical vapor to be inhaled in order to relieve nasal congestion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inhaler designates a dispenser that produces a chemical vapor to be inhaled in order to relieve nasal congestion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dispenser that produces a chemical vapor to be inhaled in order to relieve nasal congestion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dispenser that produces a chemical vapor to be inhaled in order to relieve nasal congestion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inhaler designates a dispenser that produces a chemical vapor to be inhaled in order to relieve nasal congestion."*

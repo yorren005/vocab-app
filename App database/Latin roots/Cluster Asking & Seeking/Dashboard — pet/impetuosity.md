@@ -5,15 +5,6 @@ status: unread
 ---
 # impetuosity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rash impulsiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rash impulsiveness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, sir, I will deliver his challenge by word of mouth, set upon Aguecheek notable report of valour, and drive the gentleman (as I know his youth will aptly receive it) into a most hideous opinion of his rage, skill, fury, and impetuosity."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And then, between jealousy and distraction, I married him!” she whispered with desperate impetuosity."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Jane suits me: do I suit her?” “To the finest fibre of my nature, sir.” “The case being so, we have nothing in the world to wait for: we must be married instantly.” He looked and spoke with eagerness: his old impetuosity was rising."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rash impulsiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rash impulsiveness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, sir, I will deliver his challenge by word of mouth, set upon Aguecheek notable report of valour, and drive the gentleman (as I know his youth will aptly receive it) into a most hideous opinion of his rage, skill, fury, and impetuosity."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And then, between jealousy and distraction, I married him!” she whispered with desperate impetuosity."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Jane suits me: do I suit her?” “To the finest fibre of my nature, sir.” “The case being so, we have nothing in the world to wait for: we must be married instantly.” He looked and spoke with eagerness: his old impetuosity was rising."*

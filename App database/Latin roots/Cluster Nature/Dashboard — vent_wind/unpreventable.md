@@ -5,14 +5,6 @@ status: unread
 ---
 # unpreventable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not preventable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not preventable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"There is also an unpreventable wear of parts that cannot be replaced without replacing the whole machine."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"There is the chance of physical or mental collapse, as the sudden insanity or the sudden death, unforeseen and unpreventable, of one performing responsible duties."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not preventable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not preventable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"There is also an unpreventable wear of parts that cannot be replaced without replacing the whole machine."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"There is the chance of physical or mental collapse, as the sudden insanity or the sudden death, unforeseen and unpreventable, of one performing responsible duties."*

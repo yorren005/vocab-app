@@ -5,15 +5,6 @@ status: unread
 ---
 # inconsiderately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without consideration; in an inconsiderate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without consideration; in an inconsiderate manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Poor Janet has been sadly taken in, and yet there was nothing improper on her side: she did not run into the match inconsiderately; there was no want of foresight."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He is a good creature, and more sensible than any one would imagine,” said Dorothea, inconsiderately."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Webber, on whom she had wasted so much undeserved awe, might be treated as inconsiderately as she used to treat her beaux at Wiltstoken, proceeded to amuse herself by torturing him a little."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without consideration; in an inconsiderate manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without consideration; in an inconsiderate manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Poor Janet has been sadly taken in, and yet there was nothing improper on her side: she did not run into the match inconsiderately; there was no want of foresight."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He is a good creature, and more sensible than any one would imagine,” said Dorothea, inconsiderately."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Webber, on whom she had wasted so much undeserved awe, might be treated as inconsiderately as she used to treat her beaux at Wiltstoken, proceeded to amuse herself by torturing him a little."*

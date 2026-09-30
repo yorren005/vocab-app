@@ -5,15 +5,6 @@ status: unread
 ---
 # specialty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An asset of special worth or utility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinguishing trait.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Troy, yet upon his basis, had been down, And the great Hector’s sword had lack’d a master, But for these instances: The specialty of rule hath been neglected; And look how many Grecian tents do stand Hollow upon this plain, so many hollow factions."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"A notable collection of etchings and engravings from the old masters was gradually made by him, those from Claude’s paintings being a specialty."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"In view of the many interests committed to its care, the Republican party seems disinclined to make a specialty of the Negro Problem."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An asset of special worth or utility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinguishing trait.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Troy, yet upon his basis, had been down, And the great Hector’s sword had lack’d a master, But for these instances: The specialty of rule hath been neglected; And look how many Grecian tents do stand Hollow upon this plain, so many hollow factions."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"A notable collection of etchings and engravings from the old masters was gradually made by him, those from Claude’s paintings being a specialty."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"In view of the many interests committed to its care, the Republican party seems disinclined to make a specialty of the Negro Problem."*

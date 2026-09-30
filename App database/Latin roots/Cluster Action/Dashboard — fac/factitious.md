@@ -5,15 +5,6 @@ status: unread
 ---
 # factitious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not produced by natural forces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not produced by natural forces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I have never done you a single kindness, and why should you be so kind to me?” A factitious reply had been again upon his lips, but it was again suspended, and he looked at her with an arrested eye."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He threw out biting remarks on Lydgate’s tricks, worthy only of a quack, to get himself a factitious reputation with credulous people."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I have divided it into twenty-four hours, like the Italian clocks, because for me there is neither night nor day, sun nor moon, but only that factitious light that I take with me to the bottom of the sea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not produced by natural forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not produced by natural forces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I have never done you a single kindness, and why should you be so kind to me?” A factitious reply had been again upon his lips, but it was again suspended, and he looked at her with an arrested eye."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He threw out biting remarks on Lydgate’s tricks, worthy only of a quack, to get himself a factitious reputation with credulous people."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I have divided it into twenty-four hours, like the Italian clocks, because for me there is neither night nor day, sun nor moon, but only that factitious light that I take with me to the bottom of the sea."*

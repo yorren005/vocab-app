@@ -5,15 +5,6 @@ status: unread
 ---
 # parenthetically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a parenthetical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a parenthetical manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes parenthetically, “I believe I have already mentioned."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket parenthetically, “you must take the consequences."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He says, parenthetically, “since none puts by the curtain I have drawn for you, but I.” It’s too precious a work of art to be entrusted to anybody else."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a parenthetical manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a parenthetical manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes parenthetically, “I believe I have already mentioned."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket parenthetically, “you must take the consequences."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He says, parenthetically, “since none puts by the curtain I have drawn for you, but I.” It’s too precious a work of art to be entrusted to anybody else."*

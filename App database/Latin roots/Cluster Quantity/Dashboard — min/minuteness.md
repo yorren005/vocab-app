@@ -5,15 +5,6 @@ status: unread
 ---
 # minuteness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being very small in size.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Great precision; painstaking attention to details.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"But my affair is widely different; I bring back my heroine to her home in solitude and disgrace; and no sweet elation of spirits can lead me into minuteness."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But the likeness of quality consists in a great number of common subdivisions of quality--demureness, extreme minuteness of touch, avoidance of loud tones and glaring effects."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Here, leading the way through every walk and cross walk, and scarcely allowing them an interval to utter the praises he asked for, every view was pointed out with a minuteness which left beauty entirely behind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being very small in size.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Great precision; painstaking attention to details.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"But my affair is widely different; I bring back my heroine to her home in solitude and disgrace; and no sweet elation of spirits can lead me into minuteness."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But the likeness of quality consists in a great number of common subdivisions of quality--demureness, extreme minuteness of touch, avoidance of loud tones and glaring effects."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Here, leading the way through every walk and cross walk, and scarcely allowing them an interval to utter the praises he asked for, every view was pointed out with a minuteness which left beauty entirely behind."*

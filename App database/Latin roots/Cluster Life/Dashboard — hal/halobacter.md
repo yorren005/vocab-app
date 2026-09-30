@@ -5,13 +5,6 @@ status: unread
 ---
 # halobacter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Halophiles in saline environments such as the dead sea or salt flats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Halophiles in saline environments such as the dead sea or salt flats.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halobacter designates halophiles in saline environments such as the dead sea or salt flats."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Halophiles in saline environments such as the dead sea or salt flats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Halophiles in saline environments such as the dead sea or salt flats.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halobacter designates halophiles in saline environments such as the dead sea or salt flats."*

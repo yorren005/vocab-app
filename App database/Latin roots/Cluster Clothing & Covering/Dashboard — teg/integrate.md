@@ -5,15 +5,6 @@ status: unread
 ---
 # integrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make into a whole or make part of a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open (a place) to members of all races and ethnic groups.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Computer," he said, "integrate these proceedings into the database."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Show costs in still accessible resources separately and integrate results with relevant commitments and schedules."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It will give them all a target against which to plan and integrate deployment schedules, vectors, tactics and combined operations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make into a whole or make part of a whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open (a place) to members of all races and ethnic groups.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Computer," he said, "integrate these proceedings into the database."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Show costs in still accessible resources separately and integrate results with relevant commitments and schedules."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It will give them all a target against which to plan and integrate deployment schedules, vectors, tactics and combined operations."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # cordon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of sentinels or of military posts enclosing or guarding some place or thing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cord or ribbon worn as an insignia of honor or rank.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He turned his back and addressed the head man of the village while his six silken satellites made a cordon between us."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Did you hear that noise, Cabaco?” It was the middle-watch; a fair moonlight; the seamen were standing in a cordon, extending from one of the fresh-water butts in the waist, to the scuttle-butt near the taffrail."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was in the midst of this repose, that Archy, one of the cordon, whose post was near the after-hatches, whispered to his neighbor, a Cholo, the words above."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of sentinels or of military posts enclosing or guarding some place or thing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cord or ribbon worn as an insignia of honor or rank.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He turned his back and addressed the head man of the village while his six silken satellites made a cordon between us."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Did you hear that noise, Cabaco?” It was the middle-watch; a fair moonlight; the seamen were standing in a cordon, extending from one of the fresh-water butts in the waist, to the scuttle-butt near the taffrail."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was in the midst of this repose, that Archy, one of the cordon, whose post was near the after-hatches, whispered to his neighbor, a Cholo, the words above."*

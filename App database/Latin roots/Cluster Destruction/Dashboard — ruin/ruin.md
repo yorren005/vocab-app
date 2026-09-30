@@ -5,15 +5,6 @@ status: unread
 ---
 # ruin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrecoverable state of devastation and destruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ruined building.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I have seen such interchange of State, Or state it self confounded, to decay, Ruin hath taught me thus to ruminate: That Time will come and take my love away."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She once being loofed, The noble ruin of her magic, Antony, Claps on his sea-wing and, like a doting mallard, Leaving the fight in height, flies after her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This mortal house I’ll ruin, Do Caesar what he can."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrecoverable state of devastation and destruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ruined building.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I have seen such interchange of State, Or state it self confounded, to decay, Ruin hath taught me thus to ruminate: That Time will come and take my love away."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She once being loofed, The noble ruin of her magic, Antony, Claps on his sea-wing and, like a doting mallard, Leaving the fight in height, flies after her."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This mortal house I’ll ruin, Do Caesar what he can."*

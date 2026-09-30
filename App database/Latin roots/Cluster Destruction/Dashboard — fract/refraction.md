@@ -5,15 +5,6 @@ status: unread
 ---
 # refraction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The change in direction of a propagating wave (light or sound) when passing from one medium to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amount by which a propagating wave is bent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She had no nerves: she saw life in its proper colours without refraction."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Very soon light reappeared and grew, and the sun being low on the horizon, the refraction edged the different objects with a spectral ring."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"If to-morrow, the 21st of March, the disc of the sun, allowing for refraction, is exactly cut by the northern horizon, it will show that I am at the South Pole.” “Just so,” said I."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The change in direction of a propagating wave (light or sound) when passing from one medium to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amount by which a propagating wave is bent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"She had no nerves: she saw life in its proper colours without refraction."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Very soon light reappeared and grew, and the sun being low on the horizon, the refraction edged the different objects with a spectral ring."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"If to-morrow, the 21st of March, the disc of the sun, allowing for refraction, is exactly cut by the northern horizon, it will show that I am at the South Pole.” “Just so,” said I."*

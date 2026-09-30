@@ -5,13 +5,6 @@ status: unread
 ---
 # etymologizing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (historical linguistics) an explanation of the historical origins of a word or phrase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give the etymology or derivation or suggest an etymology (for a word).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, etymologizing designates (historical linguistics) an explanation of the historical origins of a word or phrase."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (historical linguistics) an explanation of the historical origins of a word or phrase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give the etymology or derivation or suggest an etymology (for a word).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, etymologizing designates (historical linguistics) an explanation of the historical origins of a word or phrase."*

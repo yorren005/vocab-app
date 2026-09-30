@@ -5,13 +5,6 @@ status: unread
 ---
 # cytoplasm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The organized complex of inorganic and organic substances external to the nuclear membrane of a cell and including the cytosol and membrane-bound organelles (such as mitochondria or chloroplasts).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organized complex of inorganic and organic substances external to the nuclear membrane of a cell and including the cytosol and membrane-bound organelles (such as mitochondria or chloroplasts).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytoplasm designates the organized complex of inorganic and organic substances external to the nuclear membrane of a cell and including the cytosol and membrane-bound organelles (such as mitochondria or chloroplasts)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The organized complex of inorganic and organic substances external to the nuclear membrane of a cell and including the cytosol and membrane-bound organelles (such as mitochondria or chloroplasts).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organized complex of inorganic and organic substances external to the nuclear membrane of a cell and including the cytosol and membrane-bound organelles (such as mitochondria or chloroplasts).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytoplasm designates the organized complex of inorganic and organic substances external to the nuclear membrane of a cell and including the cytosol and membrane-bound organelles (such as mitochondria or chloroplasts)."*

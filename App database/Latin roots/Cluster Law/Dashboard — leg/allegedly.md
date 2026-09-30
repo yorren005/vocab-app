@@ -5,13 +5,6 @@ status: unread
 ---
 # allegedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: According to what has been alleged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According to what has been alleged.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allegedly designates according to what has been alleged."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: According to what has been alleged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According to what has been alleged.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allegedly designates according to what has been alleged."*

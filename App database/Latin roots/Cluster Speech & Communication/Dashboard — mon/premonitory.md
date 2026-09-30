@@ -5,15 +5,6 @@ status: unread
 ---
 # premonitory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Warning of future misfortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warning of future misfortune.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He found him presenting the usual premonitory symptoms of death."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"By some fishermen his approach is regarded as premonitory of the advance of the great sperm whale."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"There had already been heavy skirmishing far away on the right where Hooker had forded the creek and taken position on the opposite hills; and the air was dark and thick with fog and exhalations, with the smoke of camp-fires and premonitory death."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Warning of future misfortune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warning of future misfortune.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"He found him presenting the usual premonitory symptoms of death."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"By some fishermen his approach is regarded as premonitory of the advance of the great sperm whale."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"There had already been heavy skirmishing far away on the right where Hooker had forded the creek and taken position on the opposite hills; and the air was dark and thick with fog and exhalations, with the smoke of camp-fires and premonitory death."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # anteater
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Toothless mammal of southern africa and asia having a body covered with horny scales and a long snout for feeding on ants and termites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several tropical american mammals of the family myrmecophagidae which lack teeth and feed on ants and termites.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anteater designates toothless mammal of southern africa and asia having a body covered with horny scales and a long snout for feeding on ants and termites."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Toothless mammal of southern africa and asia having a body covered with horny scales and a long snout for feeding on ants and termites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several tropical american mammals of the family myrmecophagidae which lack teeth and feed on ants and termites.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anteater designates toothless mammal of southern africa and asia having a body covered with horny scales and a long snout for feeding on ants and termites."*

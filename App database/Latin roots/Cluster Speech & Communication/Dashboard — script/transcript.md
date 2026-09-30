@@ -5,15 +5,6 @@ status: unread
 ---
 # transcript
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that has been transcribed; a written record (usually typewritten) of dictated or recorded speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reproduction of a written record (e.g. of a legal or school record).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"It is, presumably, a transcript of one of the early copies."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Putting Scarf in hospital immediately upon return to base didn't give him the chance to tailor the transcript."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"If anything can add effect to the pure feeling and elevated thought here displayed, it is the conviction, that the who leis no effusion of fancy, but a faithful transcript from the writer’s heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that has been transcribed; a written record (usually typewritten) of dictated or recorded speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reproduction of a written record (e.g. of a legal or school record).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"It is, presumably, a transcript of one of the early copies."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Putting Scarf in hospital immediately upon return to base didn't give him the chance to tailor the transcript."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"If anything can add effect to the pure feeling and elevated thought here displayed, it is the conviction, that the who leis no effusion of fancy, but a faithful transcript from the writer’s heart."*

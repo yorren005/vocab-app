@@ -5,15 +5,6 @@ status: unread
 ---
 # reunite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have a reunion; unite again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unify again, as of a country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"They were under a yoke,—I could free them: they were scattered,—I could reunite them: the independence, the affluence which was mine, might be theirs too."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My business is to live without him now: nothing so absurd, so weak as to drag on from day to day, as if I were waiting some impossible change in circumstances, which might reunite me to him."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Pierre saw that there was a conspiracy against him and that they wanted to reunite him with his wife, and in the mood he then was, this was not even unpleasant to him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have a reunion; unite again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unify again, as of a country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"They were under a yoke,—I could free them: they were scattered,—I could reunite them: the independence, the affluence which was mine, might be theirs too."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My business is to live without him now: nothing so absurd, so weak as to drag on from day to day, as if I were waiting some impossible change in circumstances, which might reunite me to him."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Pierre saw that there was a conspiracy against him and that they wanted to reunite him with his wife, and in the mood he then was, this was not even unpleasant to him."*

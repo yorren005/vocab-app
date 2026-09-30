@@ -5,13 +5,6 @@ status: unread
 ---
 # ineloquently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without eloquence; in an inarticulate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without eloquence; in an inarticulate manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ineloquently designates without eloquence; in an inarticulate manner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without eloquence; in an inarticulate manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without eloquence; in an inarticulate manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ineloquently designates without eloquence; in an inarticulate manner."*

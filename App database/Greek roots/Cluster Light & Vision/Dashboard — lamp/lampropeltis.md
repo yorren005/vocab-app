@@ -5,13 +5,6 @@ status: unread
 ---
 # lampropeltis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: King snakes and milk snakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King snakes and milk snakes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lampropeltis designates king snakes and milk snakes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: King snakes and milk snakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King snakes and milk snakes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lampropeltis designates king snakes and milk snakes."*

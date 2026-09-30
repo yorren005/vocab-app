@@ -5,13 +5,6 @@ status: unread
 ---
 # stichomythia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dialogue especially of altercation or dispute delivered by two actors in alternating lines (as in classical Greek drama).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dialogue especially of altercation or dispute delivered by two actors in alternating lines (as in classical Greek drama).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stichomythia designates dialogue especially of altercation or dispute delivered by two actors in alternating lines (as in classical greek drama)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dialogue especially of altercation or dispute delivered by two actors in alternating lines (as in classical Greek drama).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dialogue especially of altercation or dispute delivered by two actors in alternating lines (as in classical Greek drama).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stichomythia designates dialogue especially of altercation or dispute delivered by two actors in alternating lines (as in classical greek drama)."*

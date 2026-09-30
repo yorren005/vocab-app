@@ -5,13 +5,6 @@ status: unread
 ---
 # invertible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an additive or multiplicative inverse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an additive or multiplicative inverse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invertible designates having an additive or multiplicative inverse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an additive or multiplicative inverse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an additive or multiplicative inverse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invertible designates having an additive or multiplicative inverse."*

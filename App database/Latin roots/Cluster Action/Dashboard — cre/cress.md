@@ -5,15 +5,6 @@ status: unread
 ---
 # cress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the family cruciferae with edible leaves that have a pungent taste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pungent leaves of any of numerous cruciferous herbs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Plants of garden-cress, mustard, and shepherd’s-purse had their roots immersed in water impregnated with zoospores."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The experiments which Dr. de Bary performed were all upon plants of the common garden-cress."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Of the British species one is found on many cruciferous plants, as the shepherd’s-purse, garden-cress, mustard, radish, and plants of the cabbage kind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the family cruciferae with edible leaves that have a pungent taste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pungent leaves of any of numerous cruciferous herbs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Plants of garden-cress, mustard, and shepherd’s-purse had their roots immersed in water impregnated with zoospores."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The experiments which Dr. de Bary performed were all upon plants of the common garden-cress."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Of the British species one is found on many cruciferous plants, as the shepherd’s-purse, garden-cress, mustard, radish, and plants of the cabbage kind."*

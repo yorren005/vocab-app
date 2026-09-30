@@ -5,13 +5,6 @@ status: unread
 ---
 # amphimixis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reproduction involving the union or fusion of a male and a female gamete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Union of sperm and egg in sexual reproduction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphimixis designates reproduction involving the union or fusion of a male and a female gamete."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reproduction involving the union or fusion of a male and a female gamete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Union of sperm and egg in sexual reproduction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphimixis designates reproduction involving the union or fusion of a male and a female gamete."*

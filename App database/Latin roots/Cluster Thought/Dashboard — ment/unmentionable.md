@@ -5,15 +5,6 @@ status: unread
 ---
 # unmentionable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A garment worn under other garments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unsuitable or forbidden as a topic of conversation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"Was there a “secret” at Bly—a mystery of Udolpho or an insane, an unmentionable relative kept in unsuspected confinement?"*
-> - 📜 **Effie Afton (*Eventide*):** *"Salsify Mumbles, though as brave as most men in common encounters, was afraid to step outside his door lest his unmentionables should be seized by some of the new-fledged manhood, and a petticoat tied to his coat-tail."*
-> - 📜 **James Joyce (*Ulysses*):** *"His little man-o’-war top and unmentionables were full of sand but Cissy was a past mistress in the art of smoothing over life’s tiny troubles and very quickly not one speck of sand was to be seen on his smart little suit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A garment worn under other garments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unsuitable or forbidden as a topic of conversation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Turn of the Screw*):** *"Was there a “secret” at Bly—a mystery of Udolpho or an insane, an unmentionable relative kept in unsuspected confinement?"*
+> - 📜 **Effie Afton (*Eventide*):** *"Salsify Mumbles, though as brave as most men in common encounters, was afraid to step outside his door lest his unmentionables should be seized by some of the new-fledged manhood, and a petticoat tied to his coat-tail."*
+> - 📜 **James Joyce (*Ulysses*):** *"His little man-o’-war top and unmentionables were full of sand but Cissy was a past mistress in the art of smoothing over life’s tiny troubles and very quickly not one speck of sand was to be seen on his smart little suit."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # base-forming
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Yielding a base in aqueous solution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yielding a base in aqueous solution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, base-forming designates yielding a base in aqueous solution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Yielding a base in aqueous solution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yielding a base in aqueous solution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, base-forming designates yielding a base in aqueous solution."*

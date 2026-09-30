@@ -5,13 +5,6 @@ status: unread
 ---
 # denotive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the power of explicitly denoting or designating or naming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the power of explicitly denoting or designating or naming.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, denotive designates having the power of explicitly denoting or designating or naming."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the power of explicitly denoting or designating or naming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the power of explicitly denoting or designating or naming.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, denotive designates having the power of explicitly denoting or designating or naming."*

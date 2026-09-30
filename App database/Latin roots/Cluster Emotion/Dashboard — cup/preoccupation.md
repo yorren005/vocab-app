@@ -5,15 +5,6 @@ status: unread
 ---
 # preoccupation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An idea that preoccupies the mind and holds the attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mental state of being preoccupied by something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby, “to ask such questions after what I have said of the preoccupation of my mind.” “And I hope, Ma, you give us your consent and wish us well?” said Caddy."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"So he allowed his mind to be occupied with her, deeming his preoccupation to be no more than a philosopher’s regard of an exceedingly novel, fresh, and interesting specimen of womankind."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But that spectacle did not affect her preoccupation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An idea that preoccupies the mind and holds the attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mental state of being preoccupied by something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby, “to ask such questions after what I have said of the preoccupation of my mind.” “And I hope, Ma, you give us your consent and wish us well?” said Caddy."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"So he allowed his mind to be occupied with her, deeming his preoccupation to be no more than a philosopher’s regard of an exceedingly novel, fresh, and interesting specimen of womankind."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But that spectacle did not affect her preoccupation."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # dec
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The last (12th) month of the year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astronomy) the angular distance of a celestial body north or to the south of the celestial equator; expressed in degrees; used with right ascension to specify positions on the celestial sphere.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Hamilton replied as follows:-- "EDINBURGH, _Dec_. 4, 1848."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"BALDWIN Vol. 2 No. 7 Dec. 1827."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Revue des deux Mondes, Dec. 1877, p. 481-514."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The last (12th) month of the year.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astronomy) the angular distance of a celestial body north or to the south of the celestial equator; expressed in degrees; used with right ascension to specify positions on the celestial sphere.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Hamilton replied as follows:-- "EDINBURGH, _Dec_. 4, 1848."*
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"BALDWIN Vol. 2 No. 7 Dec. 1827."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Revue des deux Mondes, Dec. 1877, p. 481-514."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # marasca
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small bitter fruit of the marasca cherry tree from whose juice maraschino liqueur is made.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dalmatian bitter wild cherry tree bearing fruit whose juice is made into maraschino liqueur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marasca designates small bitter fruit of the marasca cherry tree from whose juice maraschino liqueur is made."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small bitter fruit of the marasca cherry tree from whose juice maraschino liqueur is made.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dalmatian bitter wild cherry tree bearing fruit whose juice is made into maraschino liqueur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marasca designates small bitter fruit of the marasca cherry tree from whose juice maraschino liqueur is made."*

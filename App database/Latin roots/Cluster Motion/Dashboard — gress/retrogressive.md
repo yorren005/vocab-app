@@ -5,14 +5,6 @@ status: unread
 ---
 # retrogressive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Going from better to worse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Going from better to worse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The ideas, the modes, the surroundings, appeared retrogressive and unmeaning."*
-> - 📜 **George Eliot (*Middlemarch*):** *"They say he is the most retrogressive man in the county."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Going from better to worse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Going from better to worse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The ideas, the modes, the surroundings, appeared retrogressive and unmeaning."*
+> - 📜 **George Eliot (*Middlemarch*):** *"They say he is the most retrogressive man in the county."*

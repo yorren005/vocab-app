@@ -5,15 +5,6 @@ status: unread
 ---
 # creepy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annoying and unpleasant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing a sensation as of things crawling on your skin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"How do I know that he hasn't had all sorts of cold, creepy feeling's keeping him from proposing to Caroline?"*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Such a deliciously creepy song it was, in which they pretended to be frightened at their own shadows, little witting that so soon shadows would close in upon them, from whom they would shrink in real fear."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"But the snags were thick, the water was treacherous and shallow, the boiler seemed indeed to have a sulky devil in it, and thus neither that fireman nor I had any time to peer into our creepy thoughts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Annoying and unpleasant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing a sensation as of things crawling on your skin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"How do I know that he hasn't had all sorts of cold, creepy feeling's keeping him from proposing to Caroline?"*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"Such a deliciously creepy song it was, in which they pretended to be frightened at their own shadows, little witting that so soon shadows would close in upon them, from whom they would shrink in real fear."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"But the snags were thick, the water was treacherous and shallow, the boiler seemed indeed to have a sulky devil in it, and thus neither that fireman nor I had any time to peer into our creepy thoughts."*

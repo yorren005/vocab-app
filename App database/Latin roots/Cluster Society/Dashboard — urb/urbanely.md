@@ -5,14 +5,6 @@ status: unread
 ---
 # urbanely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an urbane manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an urbane manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He had seen her lift her eyes, and waved his hand urbanely to her, while he blew her a kiss."*
-> - 📜 **Algis Budrys (*Citadel*):** *"Mead, if you would bring our visitor a chair--" They lost themselves in formalities for a few minutes, Marlowe being urbanely correct, Mead following after as best he could through the maze of Dovenilid mores."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an urbane manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an urbane manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He had seen her lift her eyes, and waved his hand urbanely to her, while he blew her a kiss."*
+> - 📜 **Algis Budrys (*Citadel*):** *"Mead, if you would bring our visitor a chair--" They lost themselves in formalities for a few minutes, Marlowe being urbanely correct, Mead following after as best he could through the maze of Dovenilid mores."*

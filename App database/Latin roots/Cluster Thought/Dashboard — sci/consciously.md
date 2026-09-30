@@ -5,15 +5,6 @@ status: unread
 ---
 # consciously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With awareness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With awareness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby consciously asked why."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"To recognize God's existence is to necessitate prayer to Him, by all intelligent creatures, or, a consciously living in sin and under condemnation of conscience, because they do not pray to Him."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Whether or no he had consciously thought it all out; we can see the value of his rule, and how it fits in with his way of life and safeguards it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With awareness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With awareness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby consciously asked why."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"To recognize God's existence is to necessitate prayer to Him, by all intelligent creatures, or, a consciously living in sin and under condemnation of conscience, because they do not pray to Him."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Whether or no he had consciously thought it all out; we can see the value of his rule, and how it fits in with his way of life and safeguards it."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # calcium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white metallic element that burns with a brilliant light; the fifth most abundant element in the earth's crust; an important component of most plants and animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white metallic element that burns with a brilliant light; the fifth most abundant element in the earth's crust; an important component of most plants and animals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The gas, which is another of the combinations of carbon and hydrogen (its molecules containing two atoms of each), is easily made by allowing water to come into contact with calcium carbide."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"So a lump of calcium carbide, with which many readers are familiar, has vast stores of heat locked up within it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white metallic element that burns with a brilliant light; the fifth most abundant element in the earth's crust; an important component of most plants and animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white metallic element that burns with a brilliant light; the fifth most abundant element in the earth's crust; an important component of most plants and animals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The gas, which is another of the combinations of carbon and hydrogen (its molecules containing two atoms of each), is easily made by allowing water to come into contact with calcium carbide."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"So a lump of calcium carbide, with which many readers are familiar, has vast stores of heat locked up within it."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # excursion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A journey taken for pleasure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wandering from the main path of a journey.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, Ada, and Richard took advantage of a very fine day to make a little excursion, Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had now been two months at Talbothays, and this was her first excursion."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"As soon as they met the next morning Tess divined that Angel knew little or nothing of how far she had been concerned in the night’s excursion, though, as regarded himself, he may have been aware that he had not lain still."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A journey taken for pleasure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wandering from the main path of a journey.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, Ada, and Richard took advantage of a very fine day to make a little excursion, Mr."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had now been two months at Talbothays, and this was her first excursion."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"As soon as they met the next morning Tess divined that Angel knew little or nothing of how far she had been concerned in the night’s excursion, though, as regarded himself, he may have been aware that he had not lain still."*

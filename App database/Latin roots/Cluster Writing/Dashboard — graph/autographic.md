@@ -5,13 +5,6 @@ status: unread
 ---
 # autographic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Written in the author's own handwriting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written in the author's own handwriting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autographic designates written in the author's own handwriting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Written in the author's own handwriting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written in the author's own handwriting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autographic designates written in the author's own handwriting."*

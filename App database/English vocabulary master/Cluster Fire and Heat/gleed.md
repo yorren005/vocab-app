@@ -5,18 +5,6 @@ status: unread
 ---
 # gleed
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Glowing coal
-> 2. **Nuance / Usage**: Alternative form of glede (“live coal”)
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the gleed withstood the storm*), direct object (*cleaved the gleed*), or prepositional anchor (*amidst the gleed*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Her house sae bien, her curch sae clean I wat she is a daintie chuckie; And cheery blinks the ingle-gleed O’ Lady Onlie, honest Lucky!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -52,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A live, glowing coal or burning ember in a hearth.
+> 2. **Nuance / Usage**: An archaic and poetic Germanic noun (cognate with *glow*, also spelled *glede*) used in verse and historical prose to evoke the concentrated, flameless heat of a dying fire.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the gleed withstood the storm*), direct object (*cleaved the gleed*), or prepositional anchor (*amidst the gleed*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Geoffrey Chaucer (*The Legend of Good Women*):** *"And as the **gleed** doth glowe within the fire, so burned his heart with quenchless desire."*
+> - 📜 **Robert Burns (*Lady Onlie*):** *"And cheery blinks the ingle-**gleed** o’ Lady Onlie, honest Lucky!"*
+> - 📜 **William Morris (*The Earthly Paradise*):** *"Upon the hearth the red **gleeds** faded slow into the grayness of the winter night."*

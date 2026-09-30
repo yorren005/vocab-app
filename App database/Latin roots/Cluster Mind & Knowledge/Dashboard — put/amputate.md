@@ -5,15 +5,6 @@ status: unread
 ---
 # amputate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove surgically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove surgically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Carter, the surgeon, had to amputate it directly."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Saw a live tree, and you don’t get this dust; amputate a live bone, and you don’t get it (_sneezes_)."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Saw a live tree, and you don’t get this dust; amputate a live bone, and you don’t get it (_sneezes_)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove surgically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove surgically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Carter, the surgeon, had to amputate it directly."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Saw a live tree, and you don’t get this dust; amputate a live bone, and you don’t get it (_sneezes_)."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Saw a live tree, and you don’t get this dust; amputate a live bone, and you don’t get it (_sneezes_)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # nasopharynx
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cavity forming the upper part of the pharynx.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cavity forming the upper part of the pharynx.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nasopharynx designates cavity forming the upper part of the pharynx."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cavity forming the upper part of the pharynx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cavity forming the upper part of the pharynx.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nasopharynx designates cavity forming the upper part of the pharynx."*

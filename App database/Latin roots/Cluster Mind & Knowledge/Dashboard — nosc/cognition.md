@@ -5,15 +5,6 @@ status: unread
 ---
 # cognition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The psychological result of perception and learning and reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The psychological result of perception and learning and reasoning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fear me not, my lord; I will not be myself, nor have cognition Of what I feel."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"This consciousness is a source of self-cognition quite apart from and independent of reason."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Only by separating the two sources of cognition, related to one another as form to content, do we get the mutually exclusive and separately incomprehensible conceptions of freedom and inevitability."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The psychological result of perception and learning and reasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The psychological result of perception and learning and reasoning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fear me not, my lord; I will not be myself, nor have cognition Of what I feel."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"This consciousness is a source of self-cognition quite apart from and independent of reason."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Only by separating the two sources of cognition, related to one another as form to content, do we get the mutually exclusive and separately incomprehensible conceptions of freedom and inevitability."*

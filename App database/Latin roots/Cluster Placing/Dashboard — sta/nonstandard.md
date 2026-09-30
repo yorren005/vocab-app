@@ -5,13 +5,6 @@ status: unread
 ---
 # nonstandard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conforming to the language usage of a prestige group within a community; ; - a.r.dunlap.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Varying from or not adhering to a standard.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"When ships are taken out of the line for repair, the process is too damn long, mostly because of the marginal and nonstandard support equipment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conforming to the language usage of a prestige group within a community; ; - a.r.dunlap.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Varying from or not adhering to a standard.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"When ships are taken out of the line for repair, the process is too damn long, mostly because of the marginal and nonstandard support equipment."*

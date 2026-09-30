@@ -5,13 +5,6 @@ status: unread
 ---
 # preconditioned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into the required condition beforehand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having already been put into a suitable condition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Self which it itself was ineluctably preconditioned to become. _Ecco!_ LYNCH: _(With a mocking whinny of laughter grins at Bloom and Zoe Higgins.)_ What a learned speech, eh?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into the required condition beforehand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having already been put into a suitable condition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Self which it itself was ineluctably preconditioned to become. _Ecco!_ LYNCH: _(With a mocking whinny of laughter grins at Bloom and Zoe Higgins.)_ What a learned speech, eh?"*

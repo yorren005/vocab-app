@@ -5,13 +5,6 @@ status: unread
 ---
 # dormy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In match play a side that stands as many holes ahead as there are holes remaining to be played.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In match play a side that stands as many holes ahead as there are holes remaining to be played.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dormy designates in match play a side that stands as many holes ahead as there are holes remaining to be played."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In match play a side that stands as many holes ahead as there are holes remaining to be played.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In match play a side that stands as many holes ahead as there are holes remaining to be played.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dormy designates in match play a side that stands as many holes ahead as there are holes remaining to be played."*

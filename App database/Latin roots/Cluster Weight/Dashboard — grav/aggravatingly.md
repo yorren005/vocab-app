@@ -5,14 +5,6 @@ status: unread
 ---
 # aggravatingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an aggravating fashion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an aggravating fashion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"My appearance must have prepared him for my answer before it came, uttered in a very calm, very haughty, aggravatingly deliberate tone."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"At the sight of the pretty handwriting and aggravatingly soft-spoken sentences, Asaph Ball was forced to inconsiderate speech."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an aggravating fashion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an aggravating fashion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"My appearance must have prepared him for my answer before it came, uttered in a very calm, very haughty, aggravatingly deliberate tone."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"At the sight of the pretty handwriting and aggravatingly soft-spoken sentences, Asaph Ball was forced to inconsiderate speech."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # hydraulically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hydraulic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a hydraulic manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"This is done by means of a hydraulically operated molding press. _6."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The largest press used in lead molding will give a maximum pressure of two thousand tons per square inch on a thirty inch ram hydraulically operated."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Co., weighing over thirty-thousand pounds, and developing two thousand tons pressure per square inch on a thirty inch hydraulically operated ram is used in the job-plate department."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hydraulic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a hydraulic manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"This is done by means of a hydraulically operated molding press. _6."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The largest press used in lead molding will give a maximum pressure of two thousand tons per square inch on a thirty inch ram hydraulically operated."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Co., weighing over thirty-thousand pounds, and developing two thousand tons pressure per square inch on a thirty inch hydraulically operated ram is used in the job-plate department."*

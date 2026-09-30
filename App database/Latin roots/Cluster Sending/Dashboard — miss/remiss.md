@@ -5,15 +5,6 @@ status: unread
 ---
 # remiss
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing in what duty requires.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failing in what duty requires.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He, being remiss, Most generous, and free from all contriving, Will not peruse the foils; so that with ease, Or with a little shuffling, you may choose A sword unbated, and in a pass of practice, Requite him for your father."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mad ire and wrathful fury makes me weep That thus we die while remiss traitors sleep."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I told you: Lord Angelo, belike thinking me remiss in mine office, awakens me with this unwonted putting-on; methinks strangely, for he hath not used it before."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing in what duty requires.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failing in what duty requires.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He, being remiss, Most generous, and free from all contriving, Will not peruse the foils; so that with ease, Or with a little shuffling, you may choose A sword unbated, and in a pass of practice, Requite him for your father."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mad ire and wrathful fury makes me weep That thus we die while remiss traitors sleep."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I told you: Lord Angelo, belike thinking me remiss in mine office, awakens me with this unwonted putting-on; methinks strangely, for he hath not used it before."*

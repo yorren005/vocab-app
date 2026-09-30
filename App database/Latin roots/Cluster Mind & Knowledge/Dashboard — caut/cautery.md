@@ -5,13 +5,6 @@ status: unread
 ---
 # cautery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument or substance used to destroy tissue for medical reasons (eg removal of a wart) by burning it with a hot iron or an electric current or a caustic or by freezing it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of coagulating blood and destroying tissue with a hot iron or caustic agent or by freezing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cautery designates an instrument or substance used to destroy tissue for medical reasons (eg removal of a wart) by burning it with a hot iron or an electric current or a caustic or by freezing it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument or substance used to destroy tissue for medical reasons (eg removal of a wart) by burning it with a hot iron or an electric current or a caustic or by freezing it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of coagulating blood and destroying tissue with a hot iron or caustic agent or by freezing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cautery designates an instrument or substance used to destroy tissue for medical reasons (eg removal of a wart) by burning it with a hot iron or an electric current or a caustic or by freezing it."*

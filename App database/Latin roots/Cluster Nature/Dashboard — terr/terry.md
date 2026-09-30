@@ -5,15 +5,6 @@ status: unread
 ---
 # terry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English actress (1847-1928).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pile fabric (usually cotton) with uncut loops on both sides; used to make bath towels and bath robes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Terry, of the Cleveland Soldiers' Aid Society, somewhat more than a million; Miss Abby May, of Boston, not far from the same amount; Mrs."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Hawley accompanied her husband to Richmond about the 1st of July, where he had been appointed chief of staff to General Terry."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"For this purpose, an agent thoroughly familiar with the whole business of the Pension Office, and the bureaus before which claims could come, was employed, and Miss Brayton and Miss Terry were daily in attendance as clerks at the office."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English actress (1847-1928).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pile fabric (usually cotton) with uncut loops on both sides; used to make bath towels and bath robes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Terry, of the Cleveland Soldiers' Aid Society, somewhat more than a million; Miss Abby May, of Boston, not far from the same amount; Mrs."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Hawley accompanied her husband to Richmond about the 1st of July, where he had been appointed chief of staff to General Terry."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"For this purpose, an agent thoroughly familiar with the whole business of the Pension Office, and the bureaus before which claims could come, was employed, and Miss Brayton and Miss Terry were daily in attendance as clerks at the office."*

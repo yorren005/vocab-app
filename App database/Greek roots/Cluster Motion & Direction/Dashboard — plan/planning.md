@@ -5,15 +5,6 @@ status: unread
 ---
 # planning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of formulating a program for a definite course of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or process of drawing up plans or layouts for some project or enterprise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"As we were going along, planning what we should do for Richard and Ada, I heard somebody calling “Esther!"*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Let me see: I’ll give them a new pair of boots every Christmas.” And she went on planning to herself how she would manage it."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Next morning, I was planning that I would make the tinfull of meal into mush, and fry it in a greasy frying-pan, in which our last meat had been fried."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of formulating a program for a definite course of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or process of drawing up plans or layouts for some project or enterprise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"As we were going along, planning what we should do for Richard and Ada, I heard somebody calling “Esther!"*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Let me see: I’ll give them a new pair of boots every Christmas.” And she went on planning to herself how she would manage it."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Next morning, I was planning that I would make the tinfull of meal into mush, and fry it in a greasy frying-pan, in which our last meat had been fried."*

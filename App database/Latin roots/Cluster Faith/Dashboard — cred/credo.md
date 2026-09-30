@@ -5,15 +5,6 @@ status: unread
 ---
 # credo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any system of principles or beliefs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any system of principles or beliefs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Bravo, Jacques!' they cried; and one said, 'You are right, _mon ami_, the only god to trust in nowadays.' 'It is a short _credo_, M. le Maire,' said another, who caught my eye."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The saying of St Augustine (Sermon 43, 3), "Immo Credo ut intelligas," is to many of our minds offensive--I think, because we give not quite the right meaning to his "Credo"."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"The purified soul takes the Bible for his "credo" and loves God's children of whatever name with a generosity that overtops every inadequate consideration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any system of principles or beliefs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any system of principles or beliefs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Bravo, Jacques!' they cried; and one said, 'You are right, _mon ami_, the only god to trust in nowadays.' 'It is a short _credo_, M. le Maire,' said another, who caught my eye."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The saying of St Augustine (Sermon 43, 3), "Immo Credo ut intelligas," is to many of our minds offensive--I think, because we give not quite the right meaning to his "Credo"."*
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"The purified soul takes the Bible for his "credo" and loves God's children of whatever name with a generosity that overtops every inadequate consideration."*

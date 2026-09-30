@@ -5,15 +5,6 @@ status: unread
 ---
 # subsurface
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beneath the surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beneath the surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The view screen readouts showed subsurface galleries, several outlined in irregular outlines but empty, others reflected high-mass warship configurations."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"No doubt that they're Narval's thugs and they're going to clamp a tow beam on the stores and haul them off to some subsurface storage or assembly shop."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The entire sector from which this attack was launched is honeycombed with utility passages and subsurface supply and maintenance shops," he said."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beneath the surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beneath the surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The view screen readouts showed subsurface galleries, several outlined in irregular outlines but empty, others reflected high-mass warship configurations."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"No doubt that they're Narval's thugs and they're going to clamp a tow beam on the stores and haul them off to some subsurface storage or assembly shop."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The entire sector from which this attack was launched is honeycombed with utility passages and subsurface supply and maintenance shops," he said."*

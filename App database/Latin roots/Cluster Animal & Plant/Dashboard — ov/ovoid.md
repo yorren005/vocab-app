@@ -5,15 +5,6 @@ status: unread
 ---
 # ovoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An egg-shaped object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rounded like an egg.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These are either isolated or associated together in strings or chaplets, are exceedingly minute, of an ovoid or oblong shape, and are produced in such numbers as to fill the cavity of the spermogone."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spores are ovoid, with a very long peduncle, whence its name (_Uromyces appendiculata_)."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spores are ovoid and brown, with a short peduncle (Plate VII. fig. 155)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An egg-shaped object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rounded like an egg.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These are either isolated or associated together in strings or chaplets, are exceedingly minute, of an ovoid or oblong shape, and are produced in such numbers as to fill the cavity of the spermogone."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spores are ovoid, with a very long peduncle, whence its name (_Uromyces appendiculata_)."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spores are ovoid and brown, with a short peduncle (Plate VII. fig. 155)."*

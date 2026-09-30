@@ -5,13 +5,6 @@ status: unread
 ---
 # anthriscus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chervil: of europe, north africa and asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chervil: of europe, north africa and asia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthriscus designates chervil: of europe, north africa and asia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chervil: of europe, north africa and asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chervil: of europe, north africa and asia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthriscus designates chervil: of europe, north africa and asia."*

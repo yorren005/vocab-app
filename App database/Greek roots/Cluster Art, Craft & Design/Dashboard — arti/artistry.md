@@ -5,15 +5,6 @@ status: unread
 ---
 # artistry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A superior skill that you can learn by study and practice and observation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A superior skill that you can learn by study and practice and observation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"On all sides this was the verdict, one long-haired critic of international fame even claiming openly that Henshaw had not only equaled his former best work, but had gone beyond it, in both artistry and technique."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Landis went up-stairs to get her very best table-cloth Amanda looked about the room with its plain country furnishings, its hominess and yet utter lack of real artistry in decoration."*
-> - 📜 **O. Henry (*My tussle with the devil, and other stories*):** *"If he is not recognized in the new one upon his entrance it is no evidence that the same spirit does not animate both, and the perfection of detail and artistry in both characterizations is convincing proof of the same dominant spirit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A superior skill that you can learn by study and practice and observation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A superior skill that you can learn by study and practice and observation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"On all sides this was the verdict, one long-haired critic of international fame even claiming openly that Henshaw had not only equaled his former best work, but had gone beyond it, in both artistry and technique."*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Landis went up-stairs to get her very best table-cloth Amanda looked about the room with its plain country furnishings, its hominess and yet utter lack of real artistry in decoration."*
+> - 📜 **O. Henry (*My tussle with the devil, and other stories*):** *"If he is not recognized in the new one upon his entrance it is no evidence that the same spirit does not animate both, and the perfection of detail and artistry in both characterizations is convincing proof of the same dominant spirit."*

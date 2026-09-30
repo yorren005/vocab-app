@@ -5,13 +5,6 @@ status: unread
 ---
 # endoderm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The innermost of the three primary germ layers of an embryo that is the source of the epithelium of the digestive tract and its derivatives and of the lower respiratory tract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tissue (such as esophageal or pancreatic tissue) derived from this germ layer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoderm designates the innermost of the three primary germ layers of an embryo that is the source of the epithelium of the digestive tract and its derivatives and of the lower respiratory tract."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The innermost of the three primary germ layers of an embryo that is the source of the epithelium of the digestive tract and its derivatives and of the lower respiratory tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tissue (such as esophageal or pancreatic tissue) derived from this germ layer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoderm designates the innermost of the three primary germ layers of an embryo that is the source of the epithelium of the digestive tract and its derivatives and of the lower respiratory tract."*

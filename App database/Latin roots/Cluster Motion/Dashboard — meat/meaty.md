@@ -5,13 +5,6 @@ status: unread
 ---
 # meaty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Like or containing meat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being on topic and prompting thought.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Wearing a purple Napoleon hat with an amber halfmoon, his fingers and thumb passing slowly down to her soft moist meaty palm which she surrenders gently.)_ The witching hour of night."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Like or containing meat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being on topic and prompting thought.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Wearing a purple Napoleon hat with an amber halfmoon, his fingers and thumb passing slowly down to her soft moist meaty palm which she surrenders gently.)_ The witching hour of night."*

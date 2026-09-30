@@ -5,15 +5,6 @@ status: unread
 ---
 # acheron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a river in hades across which the souls of the dead were carried by charon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a river in hades across which the souls of the dead were carried by charon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But make amends now: get you gone, And at the pit of Acheron Meet me i’ th’ morning: thither he Will come to know his destiny."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hie therefore, Robin, overcast the night; The starry welkin cover thou anon With drooping fog, as black as Acheron, And lead these testy rivals so astray As one come not within another’s way."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll dive into the burning lake below, And pull her out of Acheron by the heels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a river in hades across which the souls of the dead were carried by charon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a river in hades across which the souls of the dead were carried by charon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But make amends now: get you gone, And at the pit of Acheron Meet me i’ th’ morning: thither he Will come to know his destiny."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hie therefore, Robin, overcast the night; The starry welkin cover thou anon With drooping fog, as black as Acheron, And lead these testy rivals so astray As one come not within another’s way."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll dive into the burning lake below, And pull her out of Acheron by the heels."*

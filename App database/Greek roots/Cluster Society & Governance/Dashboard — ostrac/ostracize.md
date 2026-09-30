@@ -5,15 +5,6 @@ status: unread
 ---
 # ostracize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To exile by ostracism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To exclude from a group by common consent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"And now the same people are asked to ostracize Grant and not trust him."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Ostracized by English society, his relations with it finally severed, he disdains to defend himself further against its criticism, and espouses the cause of unhappy humanity."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"The young men who had committed the crime, found themselves ostracized on every hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To exile by ostracism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To exclude from a group by common consent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"And now the same people are asked to ostracize Grant and not trust him."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Ostracized by English society, his relations with it finally severed, he disdains to defend himself further against its criticism, and espouses the cause of unhappy humanity."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"The young men who had committed the crime, found themselves ostracized on every hand."*

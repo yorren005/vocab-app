@@ -5,13 +5,6 @@ status: unread
 ---
 # hypermenorrhea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally heavy or prolonged menstruation; can be a symptom of uterine tumors and can lead to anemia if prolonged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally heavy or prolonged menstruation; can be a symptom of uterine tumors and can lead to anemia if prolonged.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypermenorrhea designates abnormally heavy or prolonged menstruation; can be a symptom of uterine tumors and can lead to anemia if prolonged."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally heavy or prolonged menstruation; can be a symptom of uterine tumors and can lead to anemia if prolonged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally heavy or prolonged menstruation; can be a symptom of uterine tumors and can lead to anemia if prolonged.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypermenorrhea designates abnormally heavy or prolonged menstruation; can be a symptom of uterine tumors and can lead to anemia if prolonged."*

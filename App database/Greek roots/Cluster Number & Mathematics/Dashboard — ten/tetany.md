@@ -5,13 +5,6 @@ status: unread
 ---
 # tetany
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition of physiological calcium imbalance marked by tonic spasm of muscles and often associated with deficient parathyroid secretion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition of physiological calcium imbalance marked by tonic spasm of muscles and often associated with deficient parathyroid secretion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetany designates a condition of physiological calcium imbalance marked by tonic spasm of muscles and often associated with deficient parathyroid secretion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition of physiological calcium imbalance marked by tonic spasm of muscles and often associated with deficient parathyroid secretion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition of physiological calcium imbalance marked by tonic spasm of muscles and often associated with deficient parathyroid secretion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetany designates a condition of physiological calcium imbalance marked by tonic spasm of muscles and often associated with deficient parathyroid secretion."*

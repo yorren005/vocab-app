@@ -5,15 +5,6 @@ status: unread
 ---
 # timeless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unaffected by time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unaffected by time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have I sought every country far and near, And, now it is my chance to find thee out, Must I behold thy timeless cruel death?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then you, belike, suspect these noblemen As guilty of Duke Humphrey’s timeless death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, Bagot, freely speak thy mind, What thou dost know of noble Gloucester’s death, Who wrought it with the King, and who performed The bloody office of his timeless end."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unaffected by time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unaffected by time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have I sought every country far and near, And, now it is my chance to find thee out, Must I behold thy timeless cruel death?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then you, belike, suspect these noblemen As guilty of Duke Humphrey’s timeless death."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, Bagot, freely speak thy mind, What thou dost know of noble Gloucester’s death, Who wrought it with the King, and who performed The bloody office of his timeless end."*

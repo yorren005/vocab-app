@@ -5,13 +5,6 @@ status: unread
 ---
 # criminalization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Legislation that makes something illegal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Legislation that makes something illegal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, criminalization designates legislation that makes something illegal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Legislation that makes something illegal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Legislation that makes something illegal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, criminalization designates legislation that makes something illegal."*

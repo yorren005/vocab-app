@@ -5,15 +5,6 @@ status: unread
 ---
 # pristine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely free from dirt or contamination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immaculately clean and unused.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By Cheshu, he will maintain his argument as well as any military man in the world, in the disciplines of the pristine wars of the Romans."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"No longer could I tread my starry path with that ineffable pristine joy, for my way was beset with dread of the inevitable summons that would rip and tear me as it jerked me back to my strait-jacket hell."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And the separation is essential to the preservation of that institution in its pristine purity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely free from dirt or contamination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immaculately clean and unused.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By Cheshu, he will maintain his argument as well as any military man in the world, in the disciplines of the pristine wars of the Romans."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"No longer could I tread my starry path with that ineffable pristine joy, for my way was beset with dread of the inevitable summons that would rip and tear me as it jerked me back to my strait-jacket hell."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And the separation is essential to the preservation of that institution in its pristine purity."*

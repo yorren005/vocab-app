@@ -5,15 +5,6 @@ status: unread
 ---
 # vent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hole for the escape of gas or air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: External opening of urinary or genital system of a lower vertebrate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did think thee, for two ordinaries, to be a pretty wise fellow; thou didst make tolerable vent of thy travel; it might pass."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here on her breast There is a vent of blood, and something blown."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then we shall ha’ means to vent Our musty superfluity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hole for the escape of gas or air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: External opening of urinary or genital system of a lower vertebrate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did think thee, for two ordinaries, to be a pretty wise fellow; thou didst make tolerable vent of thy travel; it might pass."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here on her breast There is a vent of blood, and something blown."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then we shall ha’ means to vent Our musty superfluity."*

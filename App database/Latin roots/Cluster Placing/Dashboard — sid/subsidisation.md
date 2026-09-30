@@ -5,13 +5,6 @@ status: unread
 ---
 # subsidisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Money (or other benefits) obtained as a subsidy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of providing a subsidy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subsidisation designates money (or other benefits) obtained as a subsidy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Money (or other benefits) obtained as a subsidy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of providing a subsidy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subsidisation designates money (or other benefits) obtained as a subsidy."*

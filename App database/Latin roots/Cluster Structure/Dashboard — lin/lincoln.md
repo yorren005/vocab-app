@@ -5,15 +5,6 @@ status: unread
 ---
 # lincoln
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 16th president of the united states; saved the union during the american civil war and emancipated the slaves; was assassinated by booth (1809-1865).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capital of the state of nebraska; located in southeastern nebraska; site of the university of nebraska.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First I began in private With you, my Lord of Lincoln."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll tell thee, Hubert, half my power this night, Passing these flats, are taken by the tide; These Lincoln Washes have devoured them; Myself, well mounted, hardly have escap’d."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Michaelmas term lately over, and the Lord Chancellor sitting in Lincoln’s Inn Hall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: 16th president of the united states; saved the union during the american civil war and emancipated the slaves; was assassinated by booth (1809-1865).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capital of the state of nebraska; located in southeastern nebraska; site of the university of nebraska.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First I began in private With you, my Lord of Lincoln."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll tell thee, Hubert, half my power this night, Passing these flats, are taken by the tide; These Lincoln Washes have devoured them; Myself, well mounted, hardly have escap’d."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Michaelmas term lately over, and the Lord Chancellor sitting in Lincoln’s Inn Hall."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # prosciutto
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian salt-cured ham usually sliced paper thin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian salt-cured ham usually sliced paper thin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosciutto designates italian salt-cured ham usually sliced paper thin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian salt-cured ham usually sliced paper thin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian salt-cured ham usually sliced paper thin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosciutto designates italian salt-cured ham usually sliced paper thin."*

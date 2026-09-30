@@ -5,14 +5,6 @@ status: unread
 ---
 # inattentively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an absentminded or preoccupied manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an absentminded or preoccupied manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And what a crumby girl!” VI Tess went down the hill to Trantridge Cross, and inattentively waited to take her seat in the van returning from Chaseborough to Shaston."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Rostóv, smoking his pipe and turning his head about as the water trickled down his neck, listened inattentively, with an occasional glance at Ilyín, who was pressing close to him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an absentminded or preoccupied manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an absentminded or preoccupied manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And what a crumby girl!” VI Tess went down the hill to Trantridge Cross, and inattentively waited to take her seat in the van returning from Chaseborough to Shaston."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Rostóv, smoking his pipe and turning his head about as the water trickled down his neck, listened inattentively, with an occasional glance at Ilyín, who was pressing close to him."*

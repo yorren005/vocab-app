@@ -5,15 +5,6 @@ status: unread
 ---
 # regime
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The organization that is the governing authority of a political unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) a systematic plan for therapy (often including diet).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Under the regime of Friedrich Eugen (1795-97) the French gained such a foothold in Wuerttemberg that the country had to pay a contribution of four million gulden to get rid of them."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They desperately needed contacts within Narval's regime."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He's been with Narval since the beginning of the regime."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The organization that is the governing authority of a political unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) a systematic plan for therapy (often including diet).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Under the regime of Friedrich Eugen (1795-97) the French gained such a foothold in Wuerttemberg that the country had to pay a contribution of four million gulden to get rid of them."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They desperately needed contacts within Narval's regime."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He's been with Narval since the beginning of the regime."*

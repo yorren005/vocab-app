@@ -5,13 +5,6 @@ status: unread
 ---
 # alir
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A terrorist organization that seeks to overthrow the government dominated by tutsi and to institute hutu control again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A terrorist organization that seeks to overthrow the government dominated by tutsi and to institute hutu control again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alir designates a terrorist organization that seeks to overthrow the government dominated by tutsi and to institute hutu control again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A terrorist organization that seeks to overthrow the government dominated by tutsi and to institute hutu control again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A terrorist organization that seeks to overthrow the government dominated by tutsi and to institute hutu control again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alir designates a terrorist organization that seeks to overthrow the government dominated by tutsi and to institute hutu control again."*

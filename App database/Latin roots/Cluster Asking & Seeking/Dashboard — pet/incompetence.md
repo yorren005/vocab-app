@@ -5,15 +5,6 @@ status: unread
 ---
 # incompetence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of physical or intellectual ability or qualifications.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inability of a part or organ to function properly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I recalled the hopeless circumstances by which she had been surrounded in the miserable little shop and the miserable little noisy evening school, with that miserable old bundle of incompetence always to be dragged and shouldered."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Men were being swept off by scores, and all things were in such a state as must ever result from inexperience, and perhaps incompetence, on the part of those in charge."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"Through the incompetence of the pilot who was taking her out of the Channel, the ship struck on the Shambles off the Bill of Portland, on February 5, 1805."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of physical or intellectual ability or qualifications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inability of a part or organ to function properly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I recalled the hopeless circumstances by which she had been surrounded in the miserable little shop and the miserable little noisy evening school, with that miserable old bundle of incompetence always to be dragged and shouldered."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Men were being swept off by scores, and all things were in such a state as must ever result from inexperience, and perhaps incompetence, on the part of those in charge."*
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"Through the incompetence of the pilot who was taking her out of the Channel, the ship struck on the Shambles off the Bill of Portland, on February 5, 1805."*

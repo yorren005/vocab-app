@@ -5,15 +5,6 @@ status: unread
 ---
 # equalize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compensate; make the score equal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make equal, uniform, corresponding, or matching.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the attempt to remedy the great evil of unemployment, public works of every kind might be planned and distributed in time so as to better equalize the demand for labor and materials."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In other countries the income tax had been found to be a part of a system of taxation especially valuable as "a balance wheel" to equalize the revenues and expenditures."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"They equalize the flow of streams, moderate floods, and by preventing the washing down of the rich soil, keep the mountain sides from becoming bare and sterile rocks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compensate; make the score equal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make equal, uniform, corresponding, or matching.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the attempt to remedy the great evil of unemployment, public works of every kind might be planned and distributed in time so as to better equalize the demand for labor and materials."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In other countries the income tax had been found to be a part of a system of taxation especially valuable as "a balance wheel" to equalize the revenues and expenditures."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"They equalize the flow of streams, moderate floods, and by preventing the washing down of the rich soil, keep the mountain sides from becoming bare and sterile rocks."*

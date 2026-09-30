@@ -5,13 +5,6 @@ status: unread
 ---
 # streptodornase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme produced by some hemolytic strains of streptococcus that dissolves fibrinous secretions from infections; used medicinally (often in combination with streptokinase).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme produced by some hemolytic strains of streptococcus that dissolves fibrinous secretions from infections; used medicinally (often in combination with streptokinase).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptodornase designates an enzyme produced by some hemolytic strains of streptococcus that dissolves fibrinous secretions from infections; used medicinally (often in combination with streptokinase)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme produced by some hemolytic strains of streptococcus that dissolves fibrinous secretions from infections; used medicinally (often in combination with streptokinase).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme produced by some hemolytic strains of streptococcus that dissolves fibrinous secretions from infections; used medicinally (often in combination with streptokinase).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptodornase designates an enzyme produced by some hemolytic strains of streptococcus that dissolves fibrinous secretions from infections; used medicinally (often in combination with streptokinase)."*

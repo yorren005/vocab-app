@@ -5,15 +5,6 @@ status: unread
 ---
 # motorman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The operator of streetcar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The operator of streetcar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The motorman bangs his footgong.)_ THE GONG: Bang Bang Bla Bak Blud Bugg Bloo. _(The brake cracks violently."*
-> - 📜 **James Joyce (*Ulysses*):** *"The motorman, thrown forward, pugnosed, on the guidewheel, yells as he slides past over chains and keys.)_ THE MOTORMAN: Hey, shitbreeches, are you doing the hat trick? _(Bloom trickleaps to the curbstone and halts again."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The conveyor is carried on a frame mounted on wheels, and this is moved forward and backward by a motor in the front, near which is seated the chargeman who is also the motorman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The operator of streetcar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The operator of streetcar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"The motorman bangs his footgong.)_ THE GONG: Bang Bang Bla Bak Blud Bugg Bloo. _(The brake cracks violently."*
+> - 📜 **James Joyce (*Ulysses*):** *"The motorman, thrown forward, pugnosed, on the guidewheel, yells as he slides past over chains and keys.)_ THE MOTORMAN: Hey, shitbreeches, are you doing the hat trick? _(Bloom trickleaps to the curbstone and halts again."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The conveyor is carried on a frame mounted on wheels, and this is moved forward and backward by a motor in the front, near which is seated the chargeman who is also the motorman."*

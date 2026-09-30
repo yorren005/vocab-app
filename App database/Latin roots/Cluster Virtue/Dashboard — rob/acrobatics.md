@@ -5,13 +5,6 @@ status: unread
 ---
 # acrobatics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The gymnastic moves of an acrobat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The performance of stunts while in flight in an aircraft.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrobatics designates the gymnastic moves of an acrobat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The gymnastic moves of an acrobat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The performance of stunts while in flight in an aircraft.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrobatics designates the gymnastic moves of an acrobat."*

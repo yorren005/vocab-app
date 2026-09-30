@@ -5,13 +5,6 @@ status: unread
 ---
 # epigynous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adnate to the surface of the ovary and appearing to grow from the top of it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having epigynous floral organs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epigynous designates adnate to the surface of the ovary and appearing to grow from the top of it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adnate to the surface of the ovary and appearing to grow from the top of it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having epigynous floral organs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epigynous designates adnate to the surface of the ovary and appearing to grow from the top of it."*

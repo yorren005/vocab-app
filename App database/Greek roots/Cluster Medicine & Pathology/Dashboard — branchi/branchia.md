@@ -5,13 +5,6 @@ status: unread
 ---
 # branchia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Respiratory organ of aquatic animals that breathe oxygen dissolved in water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Respiratory organ of aquatic animals that breathe oxygen dissolved in water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, branchia designates respiratory organ of aquatic animals that breathe oxygen dissolved in water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Respiratory organ of aquatic animals that breathe oxygen dissolved in water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Respiratory organ of aquatic animals that breathe oxygen dissolved in water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, branchia designates respiratory organ of aquatic animals that breathe oxygen dissolved in water."*

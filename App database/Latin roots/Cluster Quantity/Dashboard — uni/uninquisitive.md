@@ -5,13 +5,6 @@ status: unread
 ---
 # uninquisitive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not inquiring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deficient in curiosity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Sedley was of so easy and uninquisitive a nature that she wasn't even jealous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not inquiring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deficient in curiosity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Sedley was of so easy and uninquisitive a nature that she wasn't even jealous."*

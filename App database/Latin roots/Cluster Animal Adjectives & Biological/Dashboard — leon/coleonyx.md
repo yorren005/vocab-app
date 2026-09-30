@@ -5,13 +5,6 @@ status: unread
 ---
 # coleonyx
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Banded geckos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Banded geckos.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coleonyx designates banded geckos."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Banded geckos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Banded geckos.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coleonyx designates banded geckos."*

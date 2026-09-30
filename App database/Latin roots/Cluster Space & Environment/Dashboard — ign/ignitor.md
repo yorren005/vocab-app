@@ -5,13 +5,6 @@ status: unread
 ---
 # ignitor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance used to ignite or kindle a fire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device for lighting or igniting fuel or charges or fires.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ignitor designates a substance used to ignite or kindle a fire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance used to ignite or kindle a fire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device for lighting or igniting fuel or charges or fires.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ignitor designates a substance used to ignite or kindle a fire."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # poleaxe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ax used to slaughter cattle; has a hammer opposite the blade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A battle ax used in the middle ages; a long handled ax and a pick.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Wretched brutes there at the cattlemarket waiting for the poleaxe to split their skulls open."*
-> - 📜 **James Joyce (*Ulysses*):** *"Not for nothing was he a butcher’s son, wielding the sledded poleaxe and spitting in his palms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ax used to slaughter cattle; has a hammer opposite the blade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A battle ax used in the middle ages; a long handled ax and a pick.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Wretched brutes there at the cattlemarket waiting for the poleaxe to split their skulls open."*
+> - 📜 **James Joyce (*Ulysses*):** *"Not for nothing was he a butcher’s son, wielding the sledded poleaxe and spitting in his palms."*

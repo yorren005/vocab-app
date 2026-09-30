@@ -5,13 +5,6 @@ status: unread
 ---
 # determinism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) a philosophical theory holding that all events are inevitable consequences of antecedent sufficient causes; often understood as denying the possibility of free will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) a philosophical theory holding that all events are inevitable consequences of antecedent sufficient causes; often understood as denying the possibility of free will.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His creed of determinism was such that it almost amounted to a vice, and quite amounted, on its negative side, to a renunciative philosophy which had cousinship with that of Schopenhauer and Leopardi."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) a philosophical theory holding that all events are inevitable consequences of antecedent sufficient causes; often understood as denying the possibility of free will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) a philosophical theory holding that all events are inevitable consequences of antecedent sufficient causes; often understood as denying the possibility of free will.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His creed of determinism was such that it almost amounted to a vice, and quite amounted, on its negative side, to a renunciative philosophy which had cousinship with that of Schopenhauer and Leopardi."*

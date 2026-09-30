@@ -5,13 +5,6 @@ status: unread
 ---
 # tritanopic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inability to see the color blue or to distinguish the colors blue and yellow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inability to see the color blue or to distinguish the colors blue and yellow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tritanopic designates inability to see the color blue or to distinguish the colors blue and yellow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inability to see the color blue or to distinguish the colors blue and yellow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inability to see the color blue or to distinguish the colors blue and yellow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tritanopic designates inability to see the color blue or to distinguish the colors blue and yellow."*

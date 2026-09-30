@@ -5,15 +5,6 @@ status: unread
 ---
 # suffer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergo or be subjected to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo (as of injuries and illnesses).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O let me suffer (being at your beck) Th’ imprisoned absence of your liberty, And patience tame to sufferance bide each check, Without accusing you of injury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have made shift to run into ’t, boots and spurs and all, like him that leapt into the custard; and out of it you’ll run again, rather than suffer question for your residence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You, Diana, Under my poor instructions yet must suffer Something in my behalf."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergo or be subjected to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo (as of injuries and illnesses).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O let me suffer (being at your beck) Th’ imprisoned absence of your liberty, And patience tame to sufferance bide each check, Without accusing you of injury."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have made shift to run into ’t, boots and spurs and all, like him that leapt into the custard; and out of it you’ll run again, rather than suffer question for your residence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You, Diana, Under my poor instructions yet must suffer Something in my behalf."*

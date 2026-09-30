@@ -5,15 +5,6 @@ status: unread
 ---
 # scatter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A haphazard distribution in all directions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of scattering.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The thieves are all scatter’d, and possess’d with fear So strongly that they dare not meet each other; Each takes his fellow for an officer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The French have reinforc’d their scatter’d men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The commons, like an angry hive of bees That want their leader, scatter up and down And care not who they sting in his revenge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A haphazard distribution in all directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of scattering.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The thieves are all scatter’d, and possess’d with fear So strongly that they dare not meet each other; Each takes his fellow for an officer."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The French have reinforc’d their scatter’d men."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The commons, like an angry hive of bees That want their leader, scatter up and down And care not who they sting in his revenge."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # grit
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Sand, gravel
-> 2. **Nuance / Usage**: Any of several sandstones
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"palate findeth grit, so an uneasy consciousness heareth innuendoes."*
-> - 📜 **Walter Scott (*Ivanhoe*):** *"chimlay, under it a fire; other grit provision was not seen."*
-> - 📜 **Edwin Percy Whipple (*Success and Its Conditions*):** *"If you are overcome by a man of grit, he insolently makes you conscious of your own weakness"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Sand, gravel
+> 2. **Nuance / Usage**: Any of several sandstones
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"palate findeth grit, so an uneasy consciousness heareth innuendoes."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"chimlay, under it a fire; other grit provision was not seen."*
+> - 📜 **Edwin Percy Whipple (*Success and Its Conditions*):** *"If you are overcome by a man of grit, he insolently makes you conscious of your own weakness"*

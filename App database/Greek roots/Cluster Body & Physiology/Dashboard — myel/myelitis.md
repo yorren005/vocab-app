@@ -5,13 +5,6 @@ status: unread
 ---
 # myelitis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the spinal cord or of the bone marrow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A serious, rare, neurological condition of sudden onset chiefly affecting young children that causes inflammation of the gray matter of the spinal cord, results in severe, sometimes permanent weakness and loss of muscle tone especially of the arms or legs, and is often preceded by a viral respiratory illness or fever —abbreviation AFM.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelitis designates inflammation of the spinal cord or of the bone marrow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the spinal cord or of the bone marrow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A serious, rare, neurological condition of sudden onset chiefly affecting young children that causes inflammation of the gray matter of the spinal cord, results in severe, sometimes permanent weakness and loss of muscle tone especially of the arms or legs, and is often preceded by a viral respiratory illness or fever —abbreviation AFM.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelitis designates inflammation of the spinal cord or of the bone marrow."*

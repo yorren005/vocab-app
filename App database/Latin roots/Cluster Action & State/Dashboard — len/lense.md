@@ -5,15 +5,6 @@ status: unread
 ---
 # lense
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A transparent optical device used to converge or diverge transmitted light and to form images.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transparent optical device used to converge or diverge transmitted light and to form images.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The creeping plants about the old manor-house were bowed with rows of heavy water drops, which had upon objects behind them the effect of minute lenses of high magnifying power."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Grit in a sensitive instrument, or a crack in one of his own high-power lenses, would not be more disturbing than a strong emotion in a nature such as his."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"When Jesus declares that "the light of the body is the eye," he certainly means that light depends upon Mind, 393:27 not upon the complex humors, lenses, muscles, the iris and pupil, constituting the visual organism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A transparent optical device used to converge or diverge transmitted light and to form images.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transparent optical device used to converge or diverge transmitted light and to form images.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The creeping plants about the old manor-house were bowed with rows of heavy water drops, which had upon objects behind them the effect of minute lenses of high magnifying power."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Grit in a sensitive instrument, or a crack in one of his own high-power lenses, would not be more disturbing than a strong emotion in a nature such as his."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"When Jesus declares that "the light of the body is the eye," he certainly means that light depends upon Mind, 393:27 not upon the complex humors, lenses, muscles, the iris and pupil, constituting the visual organism."*

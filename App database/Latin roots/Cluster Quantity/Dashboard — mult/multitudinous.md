@@ -5,15 +5,6 @@ status: unread
 ---
 # multitudinous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Too numerous to be counted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too numerous to be counted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, this my hand will rather The multitudinous seas incarnadine, Making the green one red."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"From the whole extent of the invisible vale came a multitudinous intonation; it forced upon their fancy that a great city lay below them, and that the murmur was the vociferation of its populace."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But when the prickling of the multitudinous darts ceased to hurt and only the numbness remained and continued verging into greater numbness I once more grew frightened."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Too numerous to be counted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too numerous to be counted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, this my hand will rather The multitudinous seas incarnadine, Making the green one red."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"From the whole extent of the invisible vale came a multitudinous intonation; it forced upon their fancy that a great city lay below them, and that the murmur was the vociferation of its populace."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But when the prickling of the multitudinous darts ceased to hurt and only the numbness remained and continued verging into greater numbness I once more grew frightened."*

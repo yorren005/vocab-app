@@ -5,13 +5,6 @@ status: unread
 ---
 # aquaculture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rearing aquatic animals or cultivating aquatic plants for food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rearing aquatic animals or cultivating aquatic plants for food.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aquaculture designates rearing aquatic animals or cultivating aquatic plants for food."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rearing aquatic animals or cultivating aquatic plants for food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rearing aquatic animals or cultivating aquatic plants for food.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aquaculture designates rearing aquatic animals or cultivating aquatic plants for food."*

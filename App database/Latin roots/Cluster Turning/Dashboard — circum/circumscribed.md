@@ -5,15 +5,6 @@ status: unread
 ---
 # circumscribed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw a line around.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restrict or confine,.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The good Andronicus, Patron of virtue, Rome’s best champion, Successful in the battles that he fights, With honour and with fortune is returned From where he circumscribed with his sword And brought to yoke the enemies of Rome."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"There are others which have a more circumscribed though an equally operative influence within their spheres."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"We shall discover that the former are altogether unlimited, and that the latter are circumscribed within very moderate bounds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw a line around.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restrict or confine,.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The good Andronicus, Patron of virtue, Rome’s best champion, Successful in the battles that he fights, With honour and with fortune is returned From where he circumscribed with his sword And brought to yoke the enemies of Rome."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"There are others which have a more circumscribed though an equally operative influence within their spheres."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"We shall discover that the former are altogether unlimited, and that the latter are circumscribed within very moderate bounds."*

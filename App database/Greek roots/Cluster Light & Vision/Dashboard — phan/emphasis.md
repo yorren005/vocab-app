@@ -5,15 +5,6 @@ status: unread
 ---
 # emphasis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Force or intensity of expression that gives impressiveness or importance to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular prominence given in reading or speaking to one or more words or syllables.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be choked with such another emphasis!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HAMLET. [_Advancing._] What is he whose grief Bears such an emphasis? whose phrase of sorrow Conjures the wand’ring stars, and makes them stand Like wonder-wounded hearers?"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius lets nobody either into the garden or into the castle," Apollonie repeated with great emphasis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Force or intensity of expression that gives impressiveness or importance to something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular prominence given in reading or speaking to one or more words or syllables.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be choked with such another emphasis!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HAMLET. [_Advancing._] What is he whose grief Bears such an emphasis? whose phrase of sorrow Conjures the wand’ring stars, and makes them stand Like wonder-wounded hearers?"*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius lets nobody either into the garden or into the castle," Apollonie repeated with great emphasis."*

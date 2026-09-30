@@ -5,15 +5,6 @@ status: unread
 ---
 # exhalation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhaled breath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of expelling air from the lungs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I shall fall Like a bright exhalation in the evening, And no man see me more."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"In the quadrangle the shadows climbed the sturdy walls as if they were an exhalation from the paving-stones."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"The light in her companion’s eyes turned into a smile, and he gave a long exhalation of joy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhaled breath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of expelling air from the lungs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I shall fall Like a bright exhalation in the evening, And no man see me more."*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"In the quadrangle the shadows climbed the sturdy walls as if they were an exhalation from the paving-stones."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"The light in her companion’s eyes turned into a smile, and he gave a long exhalation of joy."*

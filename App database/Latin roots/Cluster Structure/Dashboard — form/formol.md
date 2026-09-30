@@ -5,13 +5,6 @@ status: unread
 ---
 # formol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A 10% solution of formaldehyde in water; used as a disinfectant or to preserve biological specimens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 10% solution of formaldehyde in water; used as a disinfectant or to preserve biological specimens.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formol designates a 10% solution of formaldehyde in water; used as a disinfectant or to preserve biological specimens."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A 10% solution of formaldehyde in water; used as a disinfectant or to preserve biological specimens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 10% solution of formaldehyde in water; used as a disinfectant or to preserve biological specimens.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formol designates a 10% solution of formaldehyde in water; used as a disinfectant or to preserve biological specimens."*

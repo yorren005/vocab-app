@@ -5,15 +5,6 @@ status: unread
 ---
 # diplomatically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With diplomacy; in a diplomatic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With diplomacy; in a diplomatic manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Had I not diplomatically terminated the interview he would still be here telling me the remainder of them."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Now tell me everything--everything about everybody,” she began diplomatically, settling herself comfortably for a good visit."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Ain't?" "No," began the child, then added diplomatically, "why, yes, I do want that, but that ain't what I come for." Millie laughed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With diplomacy; in a diplomatic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With diplomacy; in a diplomatic manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Had I not diplomatically terminated the interview he would still be here telling me the remainder of them."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Now tell me everything--everything about everybody,” she began diplomatically, settling herself comfortably for a good visit."*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Ain't?" "No," began the child, then added diplomatically, "why, yes, I do want that, but that ain't what I come for." Millie laughed."*

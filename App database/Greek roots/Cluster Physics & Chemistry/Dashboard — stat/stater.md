@@ -5,13 +5,6 @@ status: unread
 ---
 # stater
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient gold or silver coin of the Greek city-states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of Massachusetts —used as a nickname.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stater designates an ancient gold or silver coin of the greek city-states."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient gold or silver coin of the Greek city-states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of Massachusetts —used as a nickname.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stater designates an ancient gold or silver coin of the greek city-states."*

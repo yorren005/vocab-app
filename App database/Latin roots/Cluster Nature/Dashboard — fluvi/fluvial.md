@@ -5,13 +5,6 @@ status: unread
 ---
 # fluvial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or happening in a river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or happening in a river.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Sed quando in aere ad libidinem concitantur (quod fere fit) saepe ipsum sperma vel in puteos, vel in aquas fluviales ejicunt ex quo lethalis sequitur annus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or happening in a river.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or happening in a river.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Sed quando in aere ad libidinem concitantur (quod fere fit) saepe ipsum sperma vel in puteos, vel in aquas fluviales ejicunt ex quo lethalis sequitur annus."*

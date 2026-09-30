@@ -5,13 +5,6 @@ status: unread
 ---
 # radiograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A picture produced on a sensitive surface by a form of radiation other than visible light; specifically : an X-ray or gamma ray photograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make a radiograph of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiograph designates a picture produced on a sensitive surface by a form of radiation other than visible light; specifically : an x-ray or gamma ray photograph."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A picture produced on a sensitive surface by a form of radiation other than visible light; specifically : an X-ray or gamma ray photograph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make a radiograph of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiograph designates a picture produced on a sensitive surface by a form of radiation other than visible light; specifically : an x-ray or gamma ray photograph."*

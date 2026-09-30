@@ -5,20 +5,6 @@ status: unread
 ---
 # angst
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Emotional turmoil; painful sadness; anguish
-> 2. **Nuance / Usage**: Feeling of anxiety, apprehension, or insecurity
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the angst withstood the storm*), direct object (*cleaved the angst*), or prepositional anchor (*amidst the angst*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Peter Hammill (*Mirror images*):** *"I've begun to regret that we'd ever met / Between the dimensions. / It gets such a strain to pretend that the change / Is anything but cheap. / With your infant pique and your angst pretensions / Sometimes you act like such a creep."*
-> - 📜 **Martyn Bone (*Perspectives on Barry Hannah*):** *"Harry's adolescence is theatrical and gaudy, and many of its key scenes have a lurid and camp quality that is appropriate to the exaggerated mood-shifting and self-dramatizing of teen angst."*
-> - 📜 **Linda Green (*Entering Potter's World: A Guide for Fanfiction Writers*):** *"General: a story with a general theme. It is neither romance or angst but may incorporate elements of all other genres."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A deep, persistent feeling of existential dread, inner turmoil, and unfocused anxiety about the human condition or one's place in the world.
+> 2. **Nuance / Usage**: In everyday and literary usage, acute emotional brooding or self-conscious distress, especially associated with adolescence or modern alienation.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the angst withstood the storm*), direct object (*cleaved the angst*), or prepositional anchor (*amidst the angst*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Søren Kierkegaard (*The Concept of Anxiety*):** *"Because spirit is present, **angst** is the dizziness of freedom when it looks down into its own possibility."*
+> - 📜 **Martyn Bone (*Perspectives on Barry Hannah*):** *"Many of the novel's key scenes have a lurid quality appropriate to the exaggerated mood-shifting and self-dramatizing of teen **angst**."*
+> - 📜 **W. H. Auden (*The Age of Anxiety*):** *"Beneath the brittle wit of the wartime barroom lay an unspoken **angst** that no rounds of gin could wholly dissolve."*

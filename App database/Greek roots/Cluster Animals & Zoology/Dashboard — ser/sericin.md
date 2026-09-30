@@ -5,13 +5,6 @@ status: unread
 ---
 # sericin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gelatinous protein that cements the two fibroin filaments in a silk fiber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gelatinous protein that cements the two fibroin filaments in a silk fiber.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sericin designates a gelatinous protein that cements the two fibroin filaments in a silk fiber."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gelatinous protein that cements the two fibroin filaments in a silk fiber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gelatinous protein that cements the two fibroin filaments in a silk fiber.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sericin designates a gelatinous protein that cements the two fibroin filaments in a silk fiber."*

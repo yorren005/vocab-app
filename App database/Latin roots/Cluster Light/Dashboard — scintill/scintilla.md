@@ -5,13 +5,6 @@ status: unread
 ---
 # scintilla
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tiny or scarcely detectable amount.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sparkling glittering particle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Some of my young friends can no doubt translate it, "Lateat scintilla forsan"--perchance a spark may lie hid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tiny or scarcely detectable amount.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sparkling glittering particle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Some of my young friends can no doubt translate it, "Lateat scintilla forsan"--perchance a spark may lie hid."*

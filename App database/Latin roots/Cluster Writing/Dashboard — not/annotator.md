@@ -5,13 +5,6 @@ status: unread
 ---
 # annotator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A commentator who writes notes to a text.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commentator who writes notes to a text.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annotator designates a commentator who writes notes to a text."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commentator who writes notes to a text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commentator who writes notes to a text.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annotator designates a commentator who writes notes to a text."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # disinfect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy microorganisms or pathogens by cleansing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy microorganisms or pathogens by cleansing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A commoner who had incurred this danger could disinfect himself by performing a certain ceremony, which consisted in touching the sole of a chief's foot with the palm and back of each of his hands, and afterwards rinsing his hands in water."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"It was when Pierre (wearing the coachman’s coat which Gerásim had procured for him and had disinfected by steam) was on his way with the old man to buy the pistol at the Súkharev market that he met the Rostóvs."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Instead of preaching against humbug outside the walls, it might be better to set up a disinfecting apparatus within."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy microorganisms or pathogens by cleansing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy microorganisms or pathogens by cleansing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A commoner who had incurred this danger could disinfect himself by performing a certain ceremony, which consisted in touching the sole of a chief's foot with the palm and back of each of his hands, and afterwards rinsing his hands in water."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"It was when Pierre (wearing the coachman’s coat which Gerásim had procured for him and had disinfected by steam) was on his way with the old man to buy the pistol at the Súkharev market that he met the Rostóvs."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Instead of preaching against humbug outside the walls, it might be better to set up a disinfecting apparatus within."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # anastrophe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inversion of the usual syntactical order of words for rhetorical effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inversion of the usual syntactical order of words for rhetorical effect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anastrophe designates inversion of the usual syntactical order of words for rhetorical effect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inversion of the usual syntactical order of words for rhetorical effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inversion of the usual syntactical order of words for rhetorical effect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anastrophe designates inversion of the usual syntactical order of words for rhetorical effect."*

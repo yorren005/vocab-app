@@ -5,15 +5,6 @@ status: unread
 ---
 # platonist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of platonism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of platonism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"A poet who is also a Platonist is likely to exalt his office; it is his not merely to amuse or to please, but to lead mankind nearer to the eternal ideal--Shelley called it Intellectual Beauty--which is the only abiding reality."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Beware of such an one, I say; your whales must be seen before they can be killed; and this sunken-eyed young Platonist will tow you ten wakes round the world, and never make you one pint of sperm the richer."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Beware of such an one, I say; your whales must be seen before they can be killed; and this sunken-eyed young Platonist will tow you ten wakes round the world, and never make you one pint of sperm the richer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of platonism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of platonism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"A poet who is also a Platonist is likely to exalt his office; it is his not merely to amuse or to please, but to lead mankind nearer to the eternal ideal--Shelley called it Intellectual Beauty--which is the only abiding reality."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Beware of such an one, I say; your whales must be seen before they can be killed; and this sunken-eyed young Platonist will tow you ten wakes round the world, and never make you one pint of sperm the richer."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Beware of such an one, I say; your whales must be seen before they can be killed; and this sunken-eyed young Platonist will tow you ten wakes round the world, and never make you one pint of sperm the richer."*

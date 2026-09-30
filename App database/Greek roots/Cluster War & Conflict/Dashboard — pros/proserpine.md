@@ -5,15 +5,6 @@ status: unread
 ---
 # proserpine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Goddess of the underworld; counterpart of greek persephone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Goddess of the underworld; counterpart of greek persephone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We maids that have our livers perished, cracked to pieces with love, we shall come there, and do nothing all day long but pick flowers with Proserpine."*
-> - 📜 **John Keats (*Lamia*):** *"As Proserpine still weeps for her Sicilian air."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The rivalry of Artemis and Phaedra for the affection of Hippolytus reproduces, it is said, under different names, the rivalry of Aphrodite and Proserpine for the love of Adonis, for Phaedra is merely a double of Aphrodite."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Goddess of the underworld; counterpart of greek persephone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Goddess of the underworld; counterpart of greek persephone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We maids that have our livers perished, cracked to pieces with love, we shall come there, and do nothing all day long but pick flowers with Proserpine."*
+> - 📜 **John Keats (*Lamia*):** *"As Proserpine still weeps for her Sicilian air."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The rivalry of Artemis and Phaedra for the affection of Hippolytus reproduces, it is said, under different names, the rivalry of Aphrodite and Proserpine for the love of Adonis, for Phaedra is merely a double of Aphrodite."*

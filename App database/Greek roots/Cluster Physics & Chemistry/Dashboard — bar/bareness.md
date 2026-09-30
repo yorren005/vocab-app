@@ -5,15 +5,6 @@ status: unread
 ---
 # bareness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bleak and desolate atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being unclothed and exposed (especially of a part of the body).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What old December’s bareness everywhere!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, so you serve us Till we serve you; but when you have our roses, You barely leave our thorns to prick ourselves, And mock us with our bareness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, for their poverty, I know not where they had that; and for their bareness, I am sure they never learned that of me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bleak and desolate atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being unclothed and exposed (especially of a part of the body).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What old December’s bareness everywhere!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, so you serve us Till we serve you; but when you have our roses, You barely leave our thorns to prick ourselves, And mock us with our bareness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, for their poverty, I know not where they had that; and for their bareness, I am sure they never learned that of me."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # ferret
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Musteline mammal of prairie regions of united states; nearly extinct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Domesticated albino variety of the european polecat bred for hunting rats and rabbits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll fer him, and firk him, and ferret him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not know the French for fer, and ferret, and firk."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They were cunning and trustless, narrow-slitted and heavy-lidded, at one and the same time as sharp as a ferret’s and as indolent as a basking lizard’s."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Musteline mammal of prairie regions of united states; nearly extinct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Domesticated albino variety of the european polecat bred for hunting rats and rabbits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll fer him, and firk him, and ferret him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not know the French for fer, and ferret, and firk."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They were cunning and trustless, narrow-slitted and heavy-lidded, at one and the same time as sharp as a ferret’s and as indolent as a basking lizard’s."*

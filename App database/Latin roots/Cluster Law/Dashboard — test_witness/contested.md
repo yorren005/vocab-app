@@ -5,15 +5,6 @@ status: unread
 ---
 # contested
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To make the subject of dispute, contention, or litigation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disputed or made the object of contention or competition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I take it that this part of the bill must have run something like this: “_Grand Contested Election for the Presidency of the United States._ “WHALING VOYAGE BY ONE ISHMAEL."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The establishment of the same rule for the appointment of taxes, will probably be as little contested; though the rule itself in this case, is by no means founded on the same principle."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This position will hardly be contested."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make the subject of dispute, contention, or litigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disputed or made the object of contention or competition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I take it that this part of the bill must have run something like this: “_Grand Contested Election for the Presidency of the United States._ “WHALING VOYAGE BY ONE ISHMAEL."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The establishment of the same rule for the appointment of taxes, will probably be as little contested; though the rule itself in this case, is by no means founded on the same principle."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This position will hardly be contested."*

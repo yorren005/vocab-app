@@ -5,15 +5,6 @@ status: unread
 ---
 # methodically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a methodical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a methodical manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Ain’t the lady the t’other lady?” Charley shook her head as she methodically drew his rags about him and made him as warm as she could."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If he be seeking his own star as he methodically turns and turns upon the leads, it should be but a pale one to be so rustily represented below."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn returns methodically as he softly rubs his hands, “I should like to be assured of your acquiescence in my arrangements, Lady Dedlock.” “You may be assured of it.” “Good."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a methodical manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a methodical manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Ain’t the lady the t’other lady?” Charley shook her head as she methodically drew his rags about him and made him as warm as she could."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"If he be seeking his own star as he methodically turns and turns upon the leads, it should be but a pale one to be so rustily represented below."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn returns methodically as he softly rubs his hands, “I should like to be assured of your acquiescence in my arrangements, Lady Dedlock.” “You may be assured of it.” “Good."*

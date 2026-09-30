@@ -5,13 +5,6 @@ status: unread
 ---
 # proportionateness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation of corresponding in degree or size or amount.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation of corresponding in degree or size or amount.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proportionateness designates the relation of corresponding in degree or size or amount."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation of corresponding in degree or size or amount.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation of corresponding in degree or size or amount.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proportionateness designates the relation of corresponding in degree or size or amount."*

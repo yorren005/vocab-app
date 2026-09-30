@@ -5,13 +5,6 @@ status: unread
 ---
 # asvins
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (literally `possessing horses' in sanskrit) in hinduism the twin chariot warriors conveying surya.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (literally `possessing horses' in sanskrit) in hinduism the twin chariot warriors conveying surya.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asvins designates (literally `possessing horses' in sanskrit) in hinduism the twin chariot warriors conveying surya."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (literally `possessing horses' in sanskrit) in hinduism the twin chariot warriors conveying surya.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (literally `possessing horses' in sanskrit) in hinduism the twin chariot warriors conveying surya.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asvins designates (literally `possessing horses' in sanskrit) in hinduism the twin chariot warriors conveying surya."*

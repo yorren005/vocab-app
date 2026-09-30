@@ -5,15 +5,6 @@ status: unread
 ---
 # dialectic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of say.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of say.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"At the same time he can use the Old Testament in an efficient way for dialectic, when an "argumentum ad hominem" best meets the case (Mark 7:6; Luke 20:37, 44)."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Madagascar a similar custom everywhere prevails and has resulted, as among the Zulus, in producing certain dialectic differences in the speech of the various tribes."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In the things of sense it is called Right Opinion; in matters of handicraft, Art; in the logical discussion of the things of the mind, it is Dialectic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of say.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of say.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"At the same time he can use the Old Testament in an efficient way for dialectic, when an "argumentum ad hominem" best meets the case (Mark 7:6; Luke 20:37, 44)."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Madagascar a similar custom everywhere prevails and has resulted, as among the Zulus, in producing certain dialectic differences in the speech of the various tribes."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In the things of sense it is called Right Opinion; in matters of handicraft, Art; in the logical discussion of the things of the mind, it is Dialectic."*

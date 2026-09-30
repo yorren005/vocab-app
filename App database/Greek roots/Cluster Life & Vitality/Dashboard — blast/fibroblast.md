@@ -5,13 +5,6 @@ status: unread
 ---
 # fibroblast
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A connective-tissue cell of mesenchymal origin that secretes proteins and especially molecular collagen from which the extracellular fibrillar matrix of connective tissue forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several protein growth factors that stimulate the proliferation especially of endothelial cells and that promote angiogenesis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fibroblast designates a connective-tissue cell of mesenchymal origin that secretes proteins and especially molecular collagen from which the extracellular fibrillar matrix of connective tissue forms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A connective-tissue cell of mesenchymal origin that secretes proteins and especially molecular collagen from which the extracellular fibrillar matrix of connective tissue forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several protein growth factors that stimulate the proliferation especially of endothelial cells and that promote angiogenesis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fibroblast designates a connective-tissue cell of mesenchymal origin that secretes proteins and especially molecular collagen from which the extracellular fibrillar matrix of connective tissue forms."*

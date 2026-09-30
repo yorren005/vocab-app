@@ -5,15 +5,6 @@ status: unread
 ---
 # energise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Raise to a higher energy level.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be alert and energetic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"If, then, such current were employed to energise a magnet, that magnet would give 100 tugs per second."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Broken by the heat of the explosion, the foil cuts off this current, de-energises the magnet, and allows the bar to fall with its ends in the mercury."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Electric current is made to pass through this wire on its way to a suitable house in which are recording instruments, where it energises a magnet and so holds something up."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Raise to a higher energy level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be alert and energetic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"If, then, such current were employed to energise a magnet, that magnet would give 100 tugs per second."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Broken by the heat of the explosion, the foil cuts off this current, de-energises the magnet, and allows the bar to fall with its ends in the mercury."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Electric current is made to pass through this wire on its way to a suitable house in which are recording instruments, where it energises a magnet and so holds something up."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # detection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The perception that something has occurred or some state exists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of detecting something; catching sight of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, could I come to her with any detection in my hand, my desires had instance and argument to commend themselves."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I lay myself open to detection, I know."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Also, Professor Schleimer had similarly been collaborating with me in the detection of phytosterol in mixtures of animal and vegetable fats."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The perception that something has occurred or some state exists.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of detecting something; catching sight of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, could I come to her with any detection in my hand, my desires had instance and argument to commend themselves."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I lay myself open to detection, I know."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Also, Professor Schleimer had similarly been collaborating with me in the detection of phytosterol in mixtures of animal and vegetable fats."*

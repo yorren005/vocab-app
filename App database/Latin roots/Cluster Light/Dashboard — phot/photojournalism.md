@@ -5,13 +5,6 @@ status: unread
 ---
 # photojournalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Journalism that presents a story primarily through the use of pictures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Journalism that presents a story primarily through the use of pictures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photojournalism designates journalism that presents a story primarily through the use of pictures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Journalism that presents a story primarily through the use of pictures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Journalism that presents a story primarily through the use of pictures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photojournalism designates journalism that presents a story primarily through the use of pictures."*

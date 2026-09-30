@@ -5,15 +5,6 @@ status: unread
 ---
 # surpassing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinguish oneself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be or do something to a greater degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CLEOMENES The climate’s delicate; the air most sweet, Fertile the isle, the temple much surpassing The common praise it bears."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But according to the old superstition, it should be Rosa’s ears that burn, and not her fresh bright cheeks, for my Lady’s maid is holding forth about her at this moment with surpassing energy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet put some pins into her mouth and began pinning up her skirts all round a little higher than the level of her grey cloak, which she accomplished with surpassing dispatch and dexterity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinguish oneself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be or do something to a greater degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CLEOMENES The climate’s delicate; the air most sweet, Fertile the isle, the temple much surpassing The common praise it bears."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But according to the old superstition, it should be Rosa’s ears that burn, and not her fresh bright cheeks, for my Lady’s maid is holding forth about her at this moment with surpassing energy."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet put some pins into her mouth and began pinning up her skirts all round a little higher than the level of her grey cloak, which she accomplished with surpassing dispatch and dexterity."*

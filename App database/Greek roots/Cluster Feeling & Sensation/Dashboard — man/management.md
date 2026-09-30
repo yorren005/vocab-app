@@ -5,15 +5,6 @@ status: unread
 ---
 # management
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of managing something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Those in charge of running a business.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Would you like to live here again and undertake the management of the castle?" Apollonie stared at her master at first as if she could not comprehend his words."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I wonder the very paving-stones opposite our house can have the patience to stay there and be a witness of such inconsistencies and contradictions as all that sounding nonsense, and Ma’s management!” I could not but understand her to refer to Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"As to the management of their children, his theory was much better than his wife’s, and his practice not so bad."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of managing something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Those in charge of running a business.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Would you like to live here again and undertake the management of the castle?" Apollonie stared at her master at first as if she could not comprehend his words."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I wonder the very paving-stones opposite our house can have the patience to stay there and be a witness of such inconsistencies and contradictions as all that sounding nonsense, and Ma’s management!” I could not but understand her to refer to Mr."*
+> - 📜 **Jane Austen (*Persuasion*):** *"As to the management of their children, his theory was much better than his wife’s, and his practice not so bad."*

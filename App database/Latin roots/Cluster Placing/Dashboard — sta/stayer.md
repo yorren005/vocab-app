@@ -5,14 +5,6 @@ status: unread
 ---
 # stayer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or other animal having powers of endurance or perseverance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person or other animal having powers of endurance or perseverance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"There's The Barb--you may talk of your flyers and stayers, All bosh--when he strips you can see his eye range Round his rivals, with much the same look as Tom Sayers Once wore when he faced the big novice, Bill Bainge."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Both the Sanscrit Pond and North Kilby people were stayers-at-home, and Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or other animal having powers of endurance or perseverance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person or other animal having powers of endurance or perseverance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"There's The Barb--you may talk of your flyers and stayers, All bosh--when he strips you can see his eye range Round his rivals, with much the same look as Tom Sayers Once wore when he faced the big novice, Bill Bainge."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Both the Sanscrit Pond and North Kilby people were stayers-at-home, and Mr."*

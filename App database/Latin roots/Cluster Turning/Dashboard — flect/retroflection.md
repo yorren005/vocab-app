@@ -5,13 +5,6 @@ status: unread
 ---
 # retroflection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A turning or tilting backward of an organ or body part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An articulatory gesture made by turning the tip of the tongue back against the roof of the mouth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retroflection designates a turning or tilting backward of an organ or body part."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A turning or tilting backward of an organ or body part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An articulatory gesture made by turning the tip of the tongue back against the roof of the mouth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retroflection designates a turning or tilting backward of an organ or body part."*

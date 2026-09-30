@@ -5,20 +5,6 @@ status: unread
 ---
 # carrion
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (figurative) disgusting, horrid, rotten
-> 2. **Nuance / Usage**: (uncountable) (figurative) corrupt or horrid matter
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the carrion withstood the storm*), direct object (*cleaved the carrion*), or prepositional anchor (*amidst the carrion*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"now of a mocking demon, and anon of a carrion-seeking bird of prey?"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Hoodie-craw, the hooded crow, the carrion crow."*
-> - 📜 **James Joyce (*Ulysses*):** *"reeds, over slime, mudchoked bottles, carrion dogs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: (figurative) disgusting, horrid, rotten
+> 2. **Nuance / Usage**: (uncountable) (figurative) corrupt or horrid matter
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the carrion withstood the storm*), direct object (*cleaved the carrion*), or prepositional anchor (*amidst the carrion*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"now of a mocking demon, and anon of a carrion-seeking bird of prey?"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Hoodie-craw, the hooded crow, the carrion crow."*
+> - 📜 **James Joyce (*Ulysses*):** *"reeds, over slime, mudchoked bottles, carrion dogs."*

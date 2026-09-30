@@ -5,14 +5,6 @@ status: unread
 ---
 # cosmetics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that is cosmetic: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cosmetic preparation for external use.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Christian artisan of Celsus had no temptation to use a silver foot-bath or to plaster himself with cosmetics."*
-> - 📜 **James Joyce (*Ulysses*):** *"JOHN EGLINTON: _(Produces a greencapped dark lantern and flashes it towards a corner: with carping accent.)_ Esthetics and cosmetics are for the boudoir."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that is cosmetic: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cosmetic preparation for external use.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Christian artisan of Celsus had no temptation to use a silver foot-bath or to plaster himself with cosmetics."*
+> - 📜 **James Joyce (*Ulysses*):** *"JOHN EGLINTON: _(Produces a greencapped dark lantern and flashes it towards a corner: with carping accent.)_ Esthetics and cosmetics are for the boudoir."*

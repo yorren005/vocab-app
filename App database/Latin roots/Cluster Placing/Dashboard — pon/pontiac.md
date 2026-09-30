@@ -5,13 +5,6 @@ status: unread
 ---
 # pontiac
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Famous chief of the ottawa who led an unsuccessful rebellion against the british (1715-1769).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Famous chief of the ottawa who led an unsuccessful rebellion against the british (1715-1769).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She spent several years as a teacher, and was married and removed to Pontiac, Michigan, in 1845."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Famous chief of the ottawa who led an unsuccessful rebellion against the british (1715-1769).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Famous chief of the ottawa who led an unsuccessful rebellion against the british (1715-1769).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She spent several years as a teacher, and was married and removed to Pontiac, Michigan, in 1845."*

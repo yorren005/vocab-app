@@ -5,15 +5,6 @@ status: unread
 ---
 # numerous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Amounting to a large indefinite number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Amounting to a large indefinite number.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"We valued their stimulating company very much and were always happy when through some chance they were exempt from some of their numerous lessons."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt was always glad to have such numerous friends, for he usually needed a large following for the execution of his schemes."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The expected guests are rather select than numerous, being Mr. and Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Amounting to a large indefinite number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Amounting to a large indefinite number.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"We valued their stimulating company very much and were always happy when through some chance they were exempt from some of their numerous lessons."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt was always glad to have such numerous friends, for he usually needed a large following for the execution of his schemes."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The expected guests are rather select than numerous, being Mr. and Mrs."*

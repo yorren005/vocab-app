@@ -5,13 +5,6 @@ status: unread
 ---
 # imam
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (islam) the man who leads prayers in a mosque; for shiites an imam is a recognized authority on islamic theology and law and a spiritual guide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (islam) the man who leads prayers in a mosque; for shiites an imam is a recognized authority on islamic theology and law and a spiritual guide.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imam designates (islam) the man who leads prayers in a mosque; for shiites an imam is a recognized authority on islamic theology and law and a spiritual guide."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (islam) the man who leads prayers in a mosque; for shiites an imam is a recognized authority on islamic theology and law and a spiritual guide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (islam) the man who leads prayers in a mosque; for shiites an imam is a recognized authority on islamic theology and law and a spiritual guide.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imam designates (islam) the man who leads prayers in a mosque; for shiites an imam is a recognized authority on islamic theology and law and a spiritual guide."*

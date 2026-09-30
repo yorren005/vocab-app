@@ -5,15 +5,6 @@ status: unread
 ---
 # crane
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states writer (1871-1900).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states poet (1899-1932).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Come in, shepherd; sure ye be welcome, though we don’t know yer name.” “Gabriel Oak, that’s my name, neighbours.” The ancient maltster sitting in the midst turned at this—his turning being as the turning of a rusty crane."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"She is led forth from the hut by a son of her father's councillor, who, wearing the wings of a blue crane, the badge of bravery, on his head, escorts her to the cattle kraal, where cows are slaughtered and dancing takes place."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But I now leave my cetological System standing thus unfinished, even as the great Cathedral of Cologne was left, with the crane still standing upon the top of the uncompleted tower."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states writer (1871-1900).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states poet (1899-1932).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Come in, shepherd; sure ye be welcome, though we don’t know yer name.” “Gabriel Oak, that’s my name, neighbours.” The ancient maltster sitting in the midst turned at this—his turning being as the turning of a rusty crane."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"She is led forth from the hut by a son of her father's councillor, who, wearing the wings of a blue crane, the badge of bravery, on his head, escorts her to the cattle kraal, where cows are slaughtered and dancing takes place."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But I now leave my cetological System standing thus unfinished, even as the great Cathedral of Cologne was left, with the crane still standing upon the top of the uncompleted tower."*

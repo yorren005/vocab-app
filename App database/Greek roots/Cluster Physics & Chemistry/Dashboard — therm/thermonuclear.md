@@ -5,15 +5,6 @@ status: unread
 ---
 # thermonuclear
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Using nuclear weapons based on fusion as distinguished from fission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using nuclear weapons based on fusion as distinguished from fission.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Neutronic penetray analysis shows that in addition to thermonuclear power plants the aggregate includes machined parts configured to Catalog 11 long range lasers, explosive decompressors, particle beamers and gun mounts."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It was too late for either side to safely fire long-range thermonuclear warheads."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The thermonuclear warhead launched at the enemy fleet had been faulty or sabotaged into premature detonation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Using nuclear weapons based on fusion as distinguished from fission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using nuclear weapons based on fusion as distinguished from fission.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Neutronic penetray analysis shows that in addition to thermonuclear power plants the aggregate includes machined parts configured to Catalog 11 long range lasers, explosive decompressors, particle beamers and gun mounts."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It was too late for either side to safely fire long-range thermonuclear warheads."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The thermonuclear warhead launched at the enemy fleet had been faulty or sabotaged into premature detonation."*

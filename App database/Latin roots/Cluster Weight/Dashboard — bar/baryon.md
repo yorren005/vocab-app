@@ -5,13 +5,6 @@ status: unread
 ---
 # baryon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the elementary particles having a mass equal to or greater than that of a proton and that participate in strong interactions; a hadron with a baryon number of +1.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the elementary particles having a mass equal to or greater than that of a proton and that participate in strong interactions; a hadron with a baryon number of +1.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baryon designates any of the elementary particles having a mass equal to or greater than that of a proton and that participate in strong interactions; a hadron with a baryon number of +1."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the elementary particles having a mass equal to or greater than that of a proton and that participate in strong interactions; a hadron with a baryon number of +1.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the elementary particles having a mass equal to or greater than that of a proton and that participate in strong interactions; a hadron with a baryon number of +1.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baryon designates any of the elementary particles having a mass equal to or greater than that of a proton and that participate in strong interactions; a hadron with a baryon number of +1."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # expiate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make amends for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make amends for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"XXII My glass shall not persuade me I am old, So long as youth and thou are of one date; But when in thee time’s furrows I behold, Then look I death my days should expiate."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Thou unreprieveable Dunce! that thy formal Bandstrings, thy Ring, nor pomander cannot expiate for, dost thou tell me I should?"*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Were a woman caught peeping and prying, it would go ill with her; she would be marked out for the vengeance of the demon, who would make her expiate her crime at the very next moon by madness or death."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make amends for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make amends for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"XXII My glass shall not persuade me I am old, So long as youth and thou are of one date; But when in thee time’s furrows I behold, Then look I death my days should expiate."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Thou unreprieveable Dunce! that thy formal Bandstrings, thy Ring, nor pomander cannot expiate for, dost thou tell me I should?"*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Were a woman caught peeping and prying, it would go ill with her; she would be marked out for the vengeance of the demon, who would make her expiate her crime at the very next moon by madness or death."*

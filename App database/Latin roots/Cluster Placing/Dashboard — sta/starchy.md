@@ -5,15 +5,6 @@ status: unread
 ---
 # starchy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or containing starch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rigidly formal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Nothing like these starchy doctors for vanity!"*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"It is an open secret that starchy, modern women often long to wilt back into droopy musk roses, that climb over gates and things, but they don't let each other."*
-> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"By-and-by he says: “Starchy clothes—very."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or containing starch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rigidly formal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Nothing like these starchy doctors for vanity!"*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"It is an open secret that starchy, modern women often long to wilt back into droopy musk roses, that climb over gates and things, but they don't let each other."*
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"By-and-by he says: “Starchy clothes—very."*

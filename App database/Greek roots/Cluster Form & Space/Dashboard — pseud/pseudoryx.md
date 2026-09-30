@@ -5,13 +5,6 @@ status: unread
 ---
 # pseudoryx
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Species of large cow-like mammals of vietnam discovered by scientists in 1992.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Species of large cow-like mammals of vietnam discovered by scientists in 1992.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudoryx designates species of large cow-like mammals of vietnam discovered by scientists in 1992."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Species of large cow-like mammals of vietnam discovered by scientists in 1992.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Species of large cow-like mammals of vietnam discovered by scientists in 1992.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudoryx designates species of large cow-like mammals of vietnam discovered by scientists in 1992."*

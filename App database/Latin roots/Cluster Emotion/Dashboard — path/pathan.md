@@ -5,13 +5,6 @@ status: unread
 ---
 # pathan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the mountain people living in the eastern regions of afghanistan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ethnic minority speaking pashto and living in northwestern pakistan and southeastern afghanistan.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pathan designates a member of the mountain people living in the eastern regions of afghanistan."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the mountain people living in the eastern regions of afghanistan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ethnic minority speaking pashto and living in northwestern pakistan and southeastern afghanistan.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pathan designates a member of the mountain people living in the eastern regions of afghanistan."*

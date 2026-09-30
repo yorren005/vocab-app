@@ -5,15 +5,6 @@ status: unread
 ---
 # notable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A celebrity who is an inspiration to others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of notice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We shall find this friar a notable fellow."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, if ever thou dost fall from this faith, thou wilt prove a notable argument."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You depend upon a notable gentleman; I must needs praise him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A celebrity who is an inspiration to others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of notice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We shall find this friar a notable fellow."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, if ever thou dost fall from this faith, thou wilt prove a notable argument."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You depend upon a notable gentleman; I must needs praise him."*

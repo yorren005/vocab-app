@@ -5,15 +5,6 @@ status: unread
 ---
 # topmost
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At or nearest to the top.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At or nearest to the top.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"See and do that; and take out the topmost paper—Last Will and Testament—big printed.” “No, sir,” said Mary, in a firm voice, “I cannot do that.” “Not do it?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And now his bandaged cry was, to beach him on the whale’s topmost back."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"With a frigate’s anchors for my bridle-bitts and fasces of harpoons for spurs, would I could mount that whale and leap the topmost skies, to see whether the fabled heavens with all their countless tents really lie encamped beyond my mortal sight!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At or nearest to the top.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At or nearest to the top.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"See and do that; and take out the topmost paper—Last Will and Testament—big printed.” “No, sir,” said Mary, in a firm voice, “I cannot do that.” “Not do it?"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And now his bandaged cry was, to beach him on the whale’s topmost back."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"With a frigate’s anchors for my bridle-bitts and fasces of harpoons for spurs, would I could mount that whale and leap the topmost skies, to see whether the fabled heavens with all their countless tents really lie encamped beyond my mortal sight!"*

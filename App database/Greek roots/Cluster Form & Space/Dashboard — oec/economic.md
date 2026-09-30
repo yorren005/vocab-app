@@ -5,15 +5,6 @@ status: unread
 ---
 # economic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an economy, the system of production and management of material wealth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the science of economics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Economics--Volume II MODERN ECONOMIC PROBLEMS BY FRANK A."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"RESOURCES AND ECONOMIC ORGANIZATION. 1."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The present economic system PART II."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an economy, the system of production and management of material wealth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the science of economics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Economics--Volume II MODERN ECONOMIC PROBLEMS BY FRANK A."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"RESOURCES AND ECONOMIC ORGANIZATION. 1."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The present economic system PART II."*

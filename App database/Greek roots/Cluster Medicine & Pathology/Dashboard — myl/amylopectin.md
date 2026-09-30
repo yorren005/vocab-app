@@ -5,13 +5,6 @@ status: unread
 ---
 # amylopectin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A component of starch that has a high molecular weight and branched structure and does not tend to gel in aqueous solutions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A component of starch that has a high molecular weight and branched structure and does not tend to gel in aqueous solutions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amylopectin designates a component of starch that has a high molecular weight and branched structure and does not tend to gel in aqueous solutions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A component of starch that has a high molecular weight and branched structure and does not tend to gel in aqueous solutions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A component of starch that has a high molecular weight and branched structure and does not tend to gel in aqueous solutions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amylopectin designates a component of starch that has a high molecular weight and branched structure and does not tend to gel in aqueous solutions."*

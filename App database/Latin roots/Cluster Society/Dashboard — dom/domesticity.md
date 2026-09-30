@@ -5,15 +5,6 @@ status: unread
 ---
 # domesticity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being domestic or domesticated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Domestic activities or life.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His thought had been unsuspended; he was becoming ill with thinking; eaten out with thinking, withered by thinking; scourged out of all his former pulsating, flexuous domesticity."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And the deeper he went in domesticity the more did the sense of acquitting himself and acting with propriety predominate over any other satisfaction."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"England and its queen mourned the sudden death of the prince consort, but it mourned him with a sort of middle-class domesticity, and no majesty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being domestic or domesticated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Domestic activities or life.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His thought had been unsuspended; he was becoming ill with thinking; eaten out with thinking, withered by thinking; scourged out of all his former pulsating, flexuous domesticity."*
+> - 📜 **George Eliot (*Middlemarch*):** *"And the deeper he went in domesticity the more did the sense of acquitting himself and acting with propriety predominate over any other satisfaction."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"England and its queen mourned the sudden death of the prince consort, but it mourned him with a sort of middle-class domesticity, and no majesty."*

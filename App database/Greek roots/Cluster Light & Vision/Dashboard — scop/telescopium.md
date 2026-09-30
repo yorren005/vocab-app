@@ -5,13 +5,6 @@ status: unread
 ---
 # telescopium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small constellation in the southern hemisphere near ara.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small constellation in the southern hemisphere near ara.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telescopium designates a small constellation in the southern hemisphere near ara."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small constellation in the southern hemisphere near ara.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small constellation in the southern hemisphere near ara.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telescopium designates a small constellation in the southern hemisphere near ara."*

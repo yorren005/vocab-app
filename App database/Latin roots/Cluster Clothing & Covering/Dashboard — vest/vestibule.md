@@ -5,15 +5,6 @@ status: unread
 ---
 # vestibule
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large entrance or reception room or area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various bodily cavities leading to another cavity (as of the ear or vagina).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She was obliged to kneel down by the sofa, and remain there to satisfy her patient; and thus they continued a few minutes, when, to her very great satisfaction, she heard some other person crossing the little vestibule."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She was met in the vestibule by Lydia, who, flying to her, cried in a half whisper, “I am glad you are come, for there is such fun here!"*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth jumped out; and after giving each of them a hasty kiss, hurried into the vestibule, where Jane, who came running downstairs from her mother’s apartment, immediately met her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large entrance or reception room or area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various bodily cavities leading to another cavity (as of the ear or vagina).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"She was obliged to kneel down by the sofa, and remain there to satisfy her patient; and thus they continued a few minutes, when, to her very great satisfaction, she heard some other person crossing the little vestibule."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She was met in the vestibule by Lydia, who, flying to her, cried in a half whisper, “I am glad you are come, for there is such fun here!"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth jumped out; and after giving each of them a hasty kiss, hurried into the vestibule, where Jane, who came running downstairs from her mother’s apartment, immediately met her."*

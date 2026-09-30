@@ -5,13 +5,6 @@ status: unread
 ---
 # finicky
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exacting especially about details.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exacting especially about details.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finicky designates exacting especially about details."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exacting especially about details.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exacting especially about details.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finicky designates exacting especially about details."*

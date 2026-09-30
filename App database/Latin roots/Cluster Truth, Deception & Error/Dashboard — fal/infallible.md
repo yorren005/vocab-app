@@ -5,15 +5,6 @@ status: unread
 ---
 # infallible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of failure or error.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of failure or error.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To speak on the part of virginity is to accuse your mothers; which is most infallible disobedience."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, my good Lords of Salisbury and Warwick, Our simple supper ended, give me leave In this close walk to satisfy myself In craving your opinion of my title, Which is infallible, to England’s crown."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BOYET. [_Reads_.] _By heaven, that thou art fair is most infallible; true that thou art beauteous; truth itself that thou art lovely."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of failure or error.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of failure or error.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To speak on the part of virginity is to accuse your mothers; which is most infallible disobedience."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, my good Lords of Salisbury and Warwick, Our simple supper ended, give me leave In this close walk to satisfy myself In craving your opinion of my title, Which is infallible, to England’s crown."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BOYET. [_Reads_.] _By heaven, that thou art fair is most infallible; true that thou art beauteous; truth itself that thou art lovely."*

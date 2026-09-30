@@ -5,13 +5,6 @@ status: unread
 ---
 # tumidity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slight swelling of an organ or part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slight swelling of an organ or part.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tumidity designates slight swelling of an organ or part."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Slight swelling of an organ or part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slight swelling of an organ or part.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tumidity designates slight swelling of an organ or part."*

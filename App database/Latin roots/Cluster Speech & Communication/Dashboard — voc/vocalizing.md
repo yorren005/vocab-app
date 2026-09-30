@@ -5,13 +5,6 @@ status: unread
 ---
 # vocalizing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of singing vocal music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter with vibrating vocal chords.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vocalizing designates the act of singing vocal music."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of singing vocal music.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter with vibrating vocal chords.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vocalizing designates the act of singing vocal music."*

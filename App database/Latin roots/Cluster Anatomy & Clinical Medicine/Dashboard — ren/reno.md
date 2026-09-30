@@ -5,13 +5,6 @@ status: unread
 ---
 # reno
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in western nevada at the foot of the sierra nevada mountains; known for gambling casinos and easy divorce and remarriage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in western nevada at the foot of the sierra nevada mountains; known for gambling casinos and easy divorce and remarriage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reno designates a city in western nevada at the foot of the sierra nevada mountains; known for gambling casinos and easy divorce and remarriage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in western nevada at the foot of the sierra nevada mountains; known for gambling casinos and easy divorce and remarriage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in western nevada at the foot of the sierra nevada mountains; known for gambling casinos and easy divorce and remarriage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reno designates a city in western nevada at the foot of the sierra nevada mountains; known for gambling casinos and easy divorce and remarriage."*

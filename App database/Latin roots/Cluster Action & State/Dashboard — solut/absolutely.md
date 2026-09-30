@@ -5,15 +5,6 @@ status: unread
 ---
 # absolutely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely and without qualification; used informally as intensifiers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Totally and definitely; without question.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath the Prince John a full commission, In very ample virtue of his father, To hear and absolutely to determine Of what conditions we shall stand upon?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet you are amazed; but this shall absolutely resolve you."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Although this was an absolutely false report, all the old stories were brought up again and the talk became livelier than ever."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely and without qualification; used informally as intensifiers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Totally and definitely; without question.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath the Prince John a full commission, In very ample virtue of his father, To hear and absolutely to determine Of what conditions we shall stand upon?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet you are amazed; but this shall absolutely resolve you."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Although this was an absolutely false report, all the old stories were brought up again and the talk became livelier than ever."*

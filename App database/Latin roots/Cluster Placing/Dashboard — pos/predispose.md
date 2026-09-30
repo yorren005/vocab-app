@@ -5,15 +5,6 @@ status: unread
 ---
 # predispose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make susceptible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make susceptible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The predisposing cause and the exciting cause are 178:12 mental."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"And some injustice has been done to his memory by those who have not fully realized the predisposing causes which were at work,--the timidity of age, and the deep-rooted attachment to the England which he knew."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Semi-starvation and neglected colds had predisposed most of the pupils to receive infection: forty-five out of the eighty girls lay ill at one time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make susceptible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make susceptible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The predisposing cause and the exciting cause are 178:12 mental."*
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"And some injustice has been done to his memory by those who have not fully realized the predisposing causes which were at work,--the timidity of age, and the deep-rooted attachment to the England which he knew."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Semi-starvation and neglected colds had predisposed most of the pupils to receive infection: forty-five out of the eighty girls lay ill at one time."*

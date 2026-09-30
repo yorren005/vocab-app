@@ -5,13 +5,6 @@ status: unread
 ---
 # utility-grade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of beef; usable but inferior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of beef; usable but inferior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, utility-grade designates used of beef; usable but inferior."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of beef; usable but inferior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of beef; usable but inferior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, utility-grade designates used of beef; usable but inferior."*

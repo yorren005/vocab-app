@@ -5,15 +5,6 @@ status: unread
 ---
 # hydrocarbon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organic compound containing only carbon and hydrogen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organic compound containing only carbon and hydrogen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Alcohol, again, is a hydrocarbon."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This depends to a large extent upon the proportion of volatile hydrocarbons, but also on the conditions under which they are given off."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Volatile hydrocarbons in reverberatory smelting, 85, 86, 105."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organic compound containing only carbon and hydrogen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organic compound containing only carbon and hydrogen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Alcohol, again, is a hydrocarbon."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This depends to a large extent upon the proportion of volatile hydrocarbons, but also on the conditions under which they are given off."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Volatile hydrocarbons in reverberatory smelting, 85, 86, 105."*

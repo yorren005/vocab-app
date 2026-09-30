@@ -5,15 +5,6 @@ status: unread
 ---
 # irresolution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Doubt concerning two or more possible alternatives or courses of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being irresolute; lacking firmness of purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He had no power to resist, all was wickedness, irresolution, constant yielding."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In either case, feebleness and irresolution must be the characteristics of the station."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He looked suddenly years younger, and an almost boyish recklessness and irresolution appeared in his face."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Doubt concerning two or more possible alternatives or courses of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being irresolute; lacking firmness of purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"He had no power to resist, all was wickedness, irresolution, constant yielding."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In either case, feebleness and irresolution must be the characteristics of the station."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He looked suddenly years younger, and an almost boyish recklessness and irresolution appeared in his face."*

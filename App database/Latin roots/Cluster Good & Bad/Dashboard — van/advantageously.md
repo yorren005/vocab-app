@@ -5,15 +5,6 @@ status: unread
 ---
 # advantageously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner affording benefit or advantage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner affording benefit or advantage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was quite willing to receive Richard into his house and to superintend his studies, and as it seemed that those could be pursued advantageously under Mr."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It sets off his other gifts and graces most advantageously to the critical eye; and the want of it will sometimes mar those graces--appreciably, though not quite consciously--to eyes by no means ultra-critical."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"They were certainly no friends to his acquaintance with me, which I cannot wonder at, since he might have chosen so much more advantageously in many respects."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner affording benefit or advantage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner affording benefit or advantage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He was quite willing to receive Richard into his house and to superintend his studies, and as it seemed that those could be pursued advantageously under Mr."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It sets off his other gifts and graces most advantageously to the critical eye; and the want of it will sometimes mar those graces--appreciably, though not quite consciously--to eyes by no means ultra-critical."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"They were certainly no friends to his acquaintance with me, which I cannot wonder at, since he might have chosen so much more advantageously in many respects."*

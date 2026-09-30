@@ -5,15 +5,6 @@ status: unread
 ---
 # efficiency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ratio of the output to the input of any system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skillfulness in avoiding wasted time and effort.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"It fortunately happened that the work to which John had now to turn his hand allowed him an opportunity of carrying on his studies without interfering with its efficiency."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"But he had to attend to a congregation whose membership was at first nearly six hundred, and afterwards rose to seven hundred and eighty and, with his standard of pastoral efficiency, this left him little leisure."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In truth, I was sent to the jacket because I, a new convict, a master of efficiency, a trained expert in the elimination of waste motion, had elected to tell the stupid head weaver a few things he did not know about his business."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ratio of the output to the input of any system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skillfulness in avoiding wasted time and effort.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"It fortunately happened that the work to which John had now to turn his hand allowed him an opportunity of carrying on his studies without interfering with its efficiency."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"But he had to attend to a congregation whose membership was at first nearly six hundred, and afterwards rose to seven hundred and eighty and, with his standard of pastoral efficiency, this left him little leisure."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In truth, I was sent to the jacket because I, a new convict, a master of efficiency, a trained expert in the elimination of waste motion, had elected to tell the stupid head weaver a few things he did not know about his business."*

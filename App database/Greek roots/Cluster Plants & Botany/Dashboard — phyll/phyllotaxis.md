@@ -5,13 +5,6 @@ status: unread
 ---
 # phyllotaxis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrangement of leaves on a stem and in relation to one another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of phyllotaxis and of the laws that govern it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllotaxis designates the arrangement of leaves on a stem and in relation to one another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrangement of leaves on a stem and in relation to one another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of phyllotaxis and of the laws that govern it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllotaxis designates the arrangement of leaves on a stem and in relation to one another."*

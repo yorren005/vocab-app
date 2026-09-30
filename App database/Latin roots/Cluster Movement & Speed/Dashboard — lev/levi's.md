@@ -5,13 +5,6 @@ status: unread
 ---
 # levi's
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A popular brand of jeans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A popular brand of jeans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levi's designates a popular brand of jeans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A popular brand of jeans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A popular brand of jeans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levi's designates a popular brand of jeans."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # albany
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State capital of new york; located in eastern new york state on the west bank of the hudson river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in southwest georgia; processing center for peanuts and pecans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Room in the Duke of Albany’s Palace Scene IV."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Hall in Albany’s Palace Scene V."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Court before the Duke of Albany’s Palace ACT II Scene I."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: State capital of new york; located in eastern new york state on the west bank of the hudson river.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in southwest georgia; processing center for peanuts and pecans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Room in the Duke of Albany’s Palace Scene IV."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Hall in Albany’s Palace Scene V."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Court before the Duke of Albany’s Palace ACT II Scene I."*

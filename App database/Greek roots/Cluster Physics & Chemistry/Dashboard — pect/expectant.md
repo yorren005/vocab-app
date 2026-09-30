@@ -5,15 +5,6 @@ status: unread
 ---
 # expectant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by eager anticipation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an advanced stage of pregnancy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli had risen rapidly and looked towards the door with large expectant eyes, wondering what was going to happen."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I recalled the first bright gleam of welcome which had shone out of those very windows upon our expectant faces on that cold bright night, and which had never paled."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Cecil Rhodes recorded in his will his contempt for the idle, expectant heir. § 5. #Broader social effects of inheritance#."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by eager anticipation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an advanced stage of pregnancy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli had risen rapidly and looked towards the door with large expectant eyes, wondering what was going to happen."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I recalled the first bright gleam of welcome which had shone out of those very windows upon our expectant faces on that cold bright night, and which had never paled."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Cecil Rhodes recorded in his will his contempt for the idle, expectant heir. § 5. #Broader social effects of inheritance#."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # encephalitis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the brain that is caused especially by infection with a virus (such as herpes simplex or West Nile virus) or less commonly by bacterial or fungal infection or autoimmune reaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equine encephalitis occurring in the eastern U.S. and Canada : equine encephalitis —abbreviation EEE—called also triple E.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephalitis designates inflammation of the brain that is caused especially by infection with a virus (such as herpes simplex or west nile virus) or less commonly by bacterial or fungal infection or autoimmune reaction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the brain that is caused especially by infection with a virus (such as herpes simplex or West Nile virus) or less commonly by bacterial or fungal infection or autoimmune reaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equine encephalitis occurring in the eastern U.S. and Canada : equine encephalitis —abbreviation EEE—called also triple E.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephalitis designates inflammation of the brain that is caused especially by infection with a virus (such as herpes simplex or west nile virus) or less commonly by bacterial or fungal infection or autoimmune reaction."*

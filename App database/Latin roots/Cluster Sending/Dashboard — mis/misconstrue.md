@@ -5,15 +5,6 @@ status: unread
 ---
 # misconstrue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpret in the wrong way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpret in the wrong way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Still, when I reached my chamber, I felt a pang at the idea she should even temporarily misconstrue what she had seen."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is at least problematical, whether the decisions of this body do not, in several instances, misconstrue the limits prescribed for the legislative and executive departments, instead of reducing and limiting them within their constitutional places."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Carwin may be innocent, but the impetuosity of his judge may misconstrue his answers into a confession of guilt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpret in the wrong way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpret in the wrong way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Still, when I reached my chamber, I felt a pang at the idea she should even temporarily misconstrue what she had seen."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is at least problematical, whether the decisions of this body do not, in several instances, misconstrue the limits prescribed for the legislative and executive departments, instead of reducing and limiting them within their constitutional places."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Carwin may be innocent, but the impetuosity of his judge may misconstrue his answers into a confession of guilt."*

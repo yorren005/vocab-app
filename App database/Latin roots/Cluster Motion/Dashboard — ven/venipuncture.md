@@ -5,13 +5,6 @@ status: unread
 ---
 # venipuncture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) puncture of a vein through the skin in order to withdraw blood for analysis or to start an intravenous drip or to inject medication or a radiopaque dye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) puncture of a vein through the skin in order to withdraw blood for analysis or to start an intravenous drip or to inject medication or a radiopaque dye.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venipuncture designates (medicine) puncture of a vein through the skin in order to withdraw blood for analysis or to start an intravenous drip or to inject medication or a radiopaque dye."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) puncture of a vein through the skin in order to withdraw blood for analysis or to start an intravenous drip or to inject medication or a radiopaque dye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) puncture of a vein through the skin in order to withdraw blood for analysis or to start an intravenous drip or to inject medication or a radiopaque dye.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venipuncture designates (medicine) puncture of a vein through the skin in order to withdraw blood for analysis or to start an intravenous drip or to inject medication or a radiopaque dye."*

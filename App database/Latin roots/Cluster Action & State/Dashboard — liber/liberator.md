@@ -5,15 +5,6 @@ status: unread
 ---
 # liberator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who releases people from captivity or bondage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who releases people from captivity or bondage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The results, however, are momentous; for the hero, being a man of action, is no longer content to write and pay for the printing: in his capacity of liberator he has to step into the arena, and, above all, he has to think out a philosophy."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Gilchrist's part something more than the friendship of her new-found liberator was desired."*
-> - 📜 **James Joyce (*Ulysses*):** *"They passed under the hugecloaked Liberator’s form."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who releases people from captivity or bondage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who releases people from captivity or bondage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"The results, however, are momentous; for the hero, being a man of action, is no longer content to write and pay for the printing: in his capacity of liberator he has to step into the arena, and, above all, he has to think out a philosophy."*
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Gilchrist's part something more than the friendship of her new-found liberator was desired."*
+> - 📜 **James Joyce (*Ulysses*):** *"They passed under the hugecloaked Liberator’s form."*

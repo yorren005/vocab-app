@@ -5,13 +5,6 @@ status: unread
 ---
 # tent-fly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flap consisting of a piece of canvas that can be drawn back to provide entrance to a tent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flap consisting of a piece of canvas that can be drawn back to provide entrance to a tent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tent-fly designates flap consisting of a piece of canvas that can be drawn back to provide entrance to a tent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flap consisting of a piece of canvas that can be drawn back to provide entrance to a tent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flap consisting of a piece of canvas that can be drawn back to provide entrance to a tent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tent-fly designates flap consisting of a piece of canvas that can be drawn back to provide entrance to a tent."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # endoplasm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inner portion of the cytoplasm of a cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inner portion of the cytoplasm of a cell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoplasm designates the inner portion of the cytoplasm of a cell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inner portion of the cytoplasm of a cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inner portion of the cytoplasm of a cell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoplasm designates the inner portion of the cytoplasm of a cell."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # carnality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling morbid sexual desire or a propensity to lewdness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling morbid sexual desire or a propensity to lewdness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The error of carnality 131:6 When once destroyed by divine Science, the false evi- dence before the corporeal senses disappears."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"Carnality, the source of cowardice, has been removed, and the weakling is turned into a Lord Nelson for bravery, and a Savonarola for faithfulness to men's souls."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling morbid sexual desire or a propensity to lewdness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling morbid sexual desire or a propensity to lewdness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The error of carnality 131:6 When once destroyed by divine Science, the false evi- dence before the corporeal senses disappears."*
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"Carnality, the source of cowardice, has been removed, and the weakling is turned into a Lord Nelson for bravery, and a Savonarola for faithfulness to men's souls."*

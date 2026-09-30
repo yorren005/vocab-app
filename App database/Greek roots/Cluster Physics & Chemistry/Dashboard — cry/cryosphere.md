@@ -5,13 +5,6 @@ status: unread
 ---
 # cryosphere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the earth's surface characterized by the presence of frozen water; also : a region that is part of the earth's cryosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the earth's surface characterized by the presence of frozen water; also : a region that is part of the earth's cryosphere.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryosphere designates the part of the earth's surface characterized by the presence of frozen water; also : a region that is part of the earth's cryosphere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the earth's surface characterized by the presence of frozen water; also : a region that is part of the earth's cryosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the earth's surface characterized by the presence of frozen water; also : a region that is part of the earth's cryosphere.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryosphere designates the part of the earth's surface characterized by the presence of frozen water; also : a region that is part of the earth's cryosphere."*

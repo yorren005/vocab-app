@@ -5,13 +5,6 @@ status: unread
 ---
 # extragalactic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Outside or beyond a galaxy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Outside or beyond a galaxy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extragalactic designates outside or beyond a galaxy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Outside or beyond a galaxy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Outside or beyond a galaxy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extragalactic designates outside or beyond a galaxy."*

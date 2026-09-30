@@ -5,13 +5,6 @@ status: unread
 ---
 # spermatophyta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seed plants; comprises the angiospermae (or magnoliophyta) and gymnospermae (or gymnospermophyta); in some classification systems spermatophyta is coordinate with pteridophyta (spore producing plants having vascular tissue and roots) and bryophyta (spore producing plants lacking vascular tissue and roots).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seed plants; comprises the angiospermae (or magnoliophyta) and gymnospermae (or gymnospermophyta); in some classification systems spermatophyta is coordinate with pteridophyta (spore producing plants having vascular tissue and roots) and bryophyta (spore producing plants lacking vascular tissue and roots).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermatophyta designates seed plants; comprises the angiospermae (or magnoliophyta) and gymnospermae (or gymnospermophyta); in some classification systems spermatophyta is coordinate with pteridophyta (spore producing plants having vascular tissue and roots) and bryophyta (spore producing plants lacking vascular tissue and roots)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Seed plants; comprises the angiospermae (or magnoliophyta) and gymnospermae (or gymnospermophyta); in some classification systems spermatophyta is coordinate with pteridophyta (spore producing plants having vascular tissue and roots) and bryophyta (spore producing plants lacking vascular tissue and roots).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seed plants; comprises the angiospermae (or magnoliophyta) and gymnospermae (or gymnospermophyta); in some classification systems spermatophyta is coordinate with pteridophyta (spore producing plants having vascular tissue and roots) and bryophyta (spore producing plants lacking vascular tissue and roots).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermatophyta designates seed plants; comprises the angiospermae (or magnoliophyta) and gymnospermae (or gymnospermophyta); in some classification systems spermatophyta is coordinate with pteridophyta (spore producing plants having vascular tissue and roots) and bryophyta (spore producing plants lacking vascular tissue and roots)."*

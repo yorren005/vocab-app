@@ -5,15 +5,6 @@ status: unread
 ---
 # nutriment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A source of materials to nourish the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A source of materials to nourish the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should it thrive and turn to nutriment When he is turned to poison?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I would fain at the moment have become bee or lizard, that I might have found fitting nutriment, permanent shelter here."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Within an hour from the time one hundred and twenty had been placed in the building, she had seen that good beef soup and coffee was administered to each, and during the period I was there, no delicacy or nutriment attainable was wanting to the men."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A source of materials to nourish the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A source of materials to nourish the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should it thrive and turn to nutriment When he is turned to poison?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I would fain at the moment have become bee or lizard, that I might have found fitting nutriment, permanent shelter here."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Within an hour from the time one hundred and twenty had been placed in the building, she had seen that good beef soup and coffee was administered to each, and during the period I was there, no delicacy or nutriment attainable was wanting to the men."*

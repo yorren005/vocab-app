@@ -5,15 +5,6 @@ status: unread
 ---
 # umbra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of complete shadow resulting from total obstruction of light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region of complete shadow resulting from total obstruction of light.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I beseech you read it. [_Giving a letter to Nathaniel._] HOLOFERNES. _Fauste precor, gelida quando pecus omne sub umbra Ruminat_— and so forth."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Nothing of Magellan, nothing of Cabot, nothing of Gomez, nothing of staunch Beresford, or bluff John Whitlock, or of the great hidalgo.... _Stat magni nominis umbra?_ ..."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"LAMB. _Umbra._ "Shadow month 16th or 17th, 1800."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of complete shadow resulting from total obstruction of light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region of complete shadow resulting from total obstruction of light.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I beseech you read it. [_Giving a letter to Nathaniel._] HOLOFERNES. _Fauste precor, gelida quando pecus omne sub umbra Ruminat_— and so forth."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Nothing of Magellan, nothing of Cabot, nothing of Gomez, nothing of staunch Beresford, or bluff John Whitlock, or of the great hidalgo.... _Stat magni nominis umbra?_ ..."*
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"LAMB. _Umbra._ "Shadow month 16th or 17th, 1800."*

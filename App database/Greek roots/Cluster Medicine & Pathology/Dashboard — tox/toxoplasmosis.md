@@ -5,13 +5,6 @@ status: unread
 ---
 # toxoplasmosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infection of humans, other mammals, or birds with disease caused by a toxoplasma (Toxoplasma gondii) that invades the tissues and may seriously damage the central nervous system especially of infants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infection of humans, other mammals, or birds with disease caused by a toxoplasma (Toxoplasma gondii) that invades the tissues and may seriously damage the central nervous system especially of infants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxoplasmosis designates infection of humans, other mammals, or birds with disease caused by a toxoplasma (toxoplasma gondii) that invades the tissues and may seriously damage the central nervous system especially of infants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infection of humans, other mammals, or birds with disease caused by a toxoplasma (Toxoplasma gondii) that invades the tissues and may seriously damage the central nervous system especially of infants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infection of humans, other mammals, or birds with disease caused by a toxoplasma (Toxoplasma gondii) that invades the tissues and may seriously damage the central nervous system especially of infants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxoplasmosis designates infection of humans, other mammals, or birds with disease caused by a toxoplasma (toxoplasma gondii) that invades the tissues and may seriously damage the central nervous system especially of infants."*

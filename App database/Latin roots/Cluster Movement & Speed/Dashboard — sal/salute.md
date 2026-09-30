@@ -5,15 +5,6 @@ status: unread
 ---
 # salute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of honor or courteous recognition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal military gesture of respect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You told me you salute not at the court but you kiss your hands."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s not a man I meet but doth salute me As if I were their well-acquainted friend, And everyone doth call me by my name."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You English princes all, I do salute you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of honor or courteous recognition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal military gesture of respect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You told me you salute not at the court but you kiss your hands."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s not a man I meet but doth salute me As if I were their well-acquainted friend, And everyone doth call me by my name."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You English princes all, I do salute you."*

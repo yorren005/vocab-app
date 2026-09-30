@@ -5,13 +5,6 @@ status: unread
 ---
 # sinlessness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being unsullied by sin or moral wrong; lacking a knowledge of evil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being unsullied by sin or moral wrong; lacking a knowledge of evil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Sinlessness of Mind, Soul Reasoning from cause to effect in the Science of Mind, 467:30 we begin with Mind, which must be under- stood through the idea which expresses it and cannot be learned from its opposite, matter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being unsullied by sin or moral wrong; lacking a knowledge of evil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being unsullied by sin or moral wrong; lacking a knowledge of evil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Sinlessness of Mind, Soul Reasoning from cause to effect in the Science of Mind, 467:30 we begin with Mind, which must be under- stood through the idea which expresses it and cannot be learned from its opposite, matter."*

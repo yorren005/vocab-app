@@ -5,14 +5,6 @@ status: unread
 ---
 # ventriloquist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A performer who projects the voice into a wooden dummy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A performer who projects the voice into a wooden dummy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Make haste up, Millers.” Millers, who was the other nurse, retired into the house, and by degrees the child’s wailing was hushed and stopped, as if it were a young ventriloquist with something in its mouth."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The art of the ventriloquist consists in modifying his voice according to all these variations, without changing his place."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A performer who projects the voice into a wooden dummy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A performer who projects the voice into a wooden dummy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Make haste up, Millers.” Millers, who was the other nurse, retired into the house, and by degrees the child’s wailing was hushed and stopped, as if it were a young ventriloquist with something in its mouth."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The art of the ventriloquist consists in modifying his voice according to all these variations, without changing his place."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # malacopterygii
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extensive group of teleost fishes having fins supported by flexible cartilaginous rays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extensive group of teleost fishes having fins supported by flexible cartilaginous rays.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malacopterygii designates an extensive group of teleost fishes having fins supported by flexible cartilaginous rays."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extensive group of teleost fishes having fins supported by flexible cartilaginous rays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extensive group of teleost fishes having fins supported by flexible cartilaginous rays.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malacopterygii designates an extensive group of teleost fishes having fins supported by flexible cartilaginous rays."*

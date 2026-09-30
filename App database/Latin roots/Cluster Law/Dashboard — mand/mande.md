@@ -5,13 +5,6 @@ status: unread
 ---
 # mande
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of african languages in the niger-congo group spoken from senegal east as far as the ivory coast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of african languages in the niger-congo group spoken from senegal east as far as the ivory coast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mande designates a group of african languages in the niger-congo group spoken from senegal east as far as the ivory coast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of african languages in the niger-congo group spoken from senegal east as far as the ivory coast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of african languages in the niger-congo group spoken from senegal east as far as the ivory coast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mande designates a group of african languages in the niger-congo group spoken from senegal east as far as the ivory coast."*

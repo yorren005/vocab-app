@@ -5,15 +5,6 @@ status: unread
 ---
 # glycerine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sweet syrupy trihydroxy alcohol obtained by saponification of fats and oils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sweet syrupy trihydroxy alcohol obtained by saponification of fats and oils.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Of all the harmless things in the world one would think that that sweet, sticky fluid, glycerine, which most of us have used at one time or another to lubricate a sore throat, was the most harmless."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Glycerine is one of those organic compounds which is obtained from once-living matter."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Arising as a by-product in the manufacture of soap, it consists, as do so many of the organic substances, of carbon and hydrogen, the atoms of which are peculiarly arranged to form the glycerine molecule."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sweet syrupy trihydroxy alcohol obtained by saponification of fats and oils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sweet syrupy trihydroxy alcohol obtained by saponification of fats and oils.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Of all the harmless things in the world one would think that that sweet, sticky fluid, glycerine, which most of us have used at one time or another to lubricate a sore throat, was the most harmless."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Glycerine is one of those organic compounds which is obtained from once-living matter."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Arising as a by-product in the manufacture of soap, it consists, as do so many of the organic substances, of carbon and hydrogen, the atoms of which are peculiarly arranged to form the glycerine molecule."*

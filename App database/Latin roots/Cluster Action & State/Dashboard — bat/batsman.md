@@ -5,13 +5,6 @@ status: unread
 ---
 # batsman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (baseball) a ballplayer who is batting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (baseball) a ballplayer who is batting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"When it broke out he was a second lieutenant in the Winchester Regiment, a keen polo player and first class batsman who rarely opened a book."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (baseball) a ballplayer who is batting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (baseball) a ballplayer who is batting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"When it broke out he was a second lieutenant in the Winchester Regiment, a keen polo player and first class batsman who rarely opened a book."*

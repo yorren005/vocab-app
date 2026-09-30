@@ -5,15 +5,6 @@ status: unread
 ---
 # flats
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Footwear (shoes or slippers) with no heel (or a very low heel).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A level tract of land.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Up to yond hill, Your legs are young; I’ll tread these flats."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The ocean, overpeering of his list, Eats not the flats with more impetuous haste Than young Laertes, in a riotous head, O’erbears your offices."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll tell thee, Hubert, half my power this night, Passing these flats, are taken by the tide; These Lincoln Washes have devoured them; Myself, well mounted, hardly have escap’d."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Footwear (shoes or slippers) with no heel (or a very low heel).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A level tract of land.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Up to yond hill, Your legs are young; I’ll tread these flats."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The ocean, overpeering of his list, Eats not the flats with more impetuous haste Than young Laertes, in a riotous head, O’erbears your offices."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll tell thee, Hubert, half my power this night, Passing these flats, are taken by the tide; These Lincoln Washes have devoured them; Myself, well mounted, hardly have escap’d."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # heis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: —used to say that it is important to make decisions and do things in a quick and definite way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: —used to say that someone is at least a certain age.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"So heiss und stumm, so truebe, Und sternlos war die Nacht, So ganz wie unsre Liebe Zu Thraenen nur gemacht."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: —used to say that it is important to make decisions and do things in a quick and definite way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: —used to say that someone is at least a certain age.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"So heiss und stumm, so truebe, Und sternlos war die Nacht, So ganz wie unsre Liebe Zu Thraenen nur gemacht."*

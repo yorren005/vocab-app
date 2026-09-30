@@ -5,15 +5,6 @@ status: unread
 ---
 # unity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An undivided or unbroken completeness or totality with nothing wanting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The smallest whole number or a numeral representing this number.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I were bound to divine of this unity, I would not prophesy so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, had I power, I should Pour the sweet milk of concord into hell, Uproar the universal peace, confound All unity on earth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, princely Buckingham, seal thou this league With thy embracements to my wife’s allies, And make me happy in your unity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An undivided or unbroken completeness or totality with nothing wanting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The smallest whole number or a numeral representing this number.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I were bound to divine of this unity, I would not prophesy so."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, had I power, I should Pour the sweet milk of concord into hell, Uproar the universal peace, confound All unity on earth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, princely Buckingham, seal thou this league With thy embracements to my wife’s allies, And make me happy in your unity."*

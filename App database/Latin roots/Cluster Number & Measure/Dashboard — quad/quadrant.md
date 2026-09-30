@@ -5,15 +5,6 @@ status: unread
 ---
 # quadrant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quarter of the circumference of a circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the four areas into which a plane is divided by two orthogonal coordinate axes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He came on deck at eleven o'clock, with the quadrant under his coat."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Again he went down and prayed, and again he appeared on deck with his quadrant in his hand."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"This story of prayer was received from the lips of the good Captain Crossby, who was so useful in the Ardrossan awakening; and he himself was the man who prayed and waited upon his God with the quadrant in his hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quarter of the circumference of a circle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the four areas into which a plane is divided by two orthogonal coordinate axes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"He came on deck at eleven o'clock, with the quadrant under his coat."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Again he went down and prayed, and again he appeared on deck with his quadrant in his hand."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"This story of prayer was received from the lips of the good Captain Crossby, who was so useful in the Ardrossan awakening; and he himself was the man who prayed and waited upon his God with the quadrant in his hand."*

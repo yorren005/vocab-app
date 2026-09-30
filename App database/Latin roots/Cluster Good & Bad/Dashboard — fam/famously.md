@@ -5,15 +5,6 @@ status: unread
 ---
 # famously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner or to an extent that is well known.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely well.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say unto you, what he hath done famously he did it to that end."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For then this land was famously enriched With politic grave counsel; then the King Had virtuous uncles to protect his Grace."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"It was a pleasant addition to his naturally pleasant ways, and we got on famously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner or to an extent that is well known.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely well.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say unto you, what he hath done famously he did it to that end."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For then this land was famously enriched With politic grave counsel; then the King Had virtuous uncles to protect his Grace."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"It was a pleasant addition to his naturally pleasant ways, and we got on famously."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sperm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The male reproductive cell; the male gamete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The male reproductive cell; the male gamete.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll no pullet sperm in my brewage. [_Exit Bardolph._] How now?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Chace, what is the matter?” I answered, “we have been stove by a whale.” _“Narrative of the Shipwreck of the Whale Ship Essex of Nantucket, which was attacked and finally destroyed by a large Sperm Whale in the Pacific Ocean."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"THIS MARBLE Is here placed by their surviving Shipmates. ———————————————————— SACRED To the Memory OF The late CAPTAIN EZEKIEL HARDY, Who in the bows of his boat was killed by a Sperm Whale on the coast of Japan, _August_ 3_d_, 1833."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The male reproductive cell; the male gamete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The male reproductive cell; the male gamete.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll no pullet sperm in my brewage. [_Exit Bardolph._] How now?"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Chace, what is the matter?” I answered, “we have been stove by a whale.” _“Narrative of the Shipwreck of the Whale Ship Essex of Nantucket, which was attacked and finally destroyed by a large Sperm Whale in the Pacific Ocean."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"THIS MARBLE Is here placed by their surviving Shipmates. ———————————————————— SACRED To the Memory OF The late CAPTAIN EZEKIEL HARDY, Who in the bows of his boat was killed by a Sperm Whale on the coast of Japan, _August_ 3_d_, 1833."*

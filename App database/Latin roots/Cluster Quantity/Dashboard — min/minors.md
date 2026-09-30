@@ -5,15 +5,6 @@ status: unread
 ---
 # minors
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A league of teams that do not belong to a major league (especially baseball).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young person of either sex.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"If we have studi'd our Majors and our Minors, Antecedents and Consequents, to be concluded Coxcombs, w'have made a fair hand on't."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The income tax returns for the first ten months of the law (March to December, 1913) showed 356,598 taxable individual incomes, equal to about 1 per cent of the taxable population (considering minors to be usually not taxable)."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The persons whom it is sought to aid are only selected groups of the lowest paid workers, generally limited to minors and young women, who in many cases are those of immigrant families in urban districts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A league of teams that do not belong to a major league (especially baseball).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young person of either sex.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"If we have studi'd our Majors and our Minors, Antecedents and Consequents, to be concluded Coxcombs, w'have made a fair hand on't."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The income tax returns for the first ten months of the law (March to December, 1913) showed 356,598 taxable individual incomes, equal to about 1 per cent of the taxable population (considering minors to be usually not taxable)."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The persons whom it is sought to aid are only selected groups of the lowest paid workers, generally limited to minors and young women, who in many cases are those of immigrant families in urban districts."*

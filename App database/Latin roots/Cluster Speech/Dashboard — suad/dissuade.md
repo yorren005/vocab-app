@@ -5,15 +5,6 @@ status: unread
 ---
 # dissuade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn away from by persuasion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn away from by persuasion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet the scarfs and the bannerets about thee did manifoldly dissuade me from believing thee a vessel of too great a burden."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alexas did revolt and went to Jewry on Affairs of Antony; there did dissuade Great Herod to incline himself to Caesar And leave his master Antony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had myself notice of my brother’s purpose herein, and have by underhand means laboured to dissuade him from it; but he is resolute."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn away from by persuasion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn away from by persuasion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet the scarfs and the bannerets about thee did manifoldly dissuade me from believing thee a vessel of too great a burden."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alexas did revolt and went to Jewry on Affairs of Antony; there did dissuade Great Herod to incline himself to Caesar And leave his master Antony."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had myself notice of my brother’s purpose herein, and have by underhand means laboured to dissuade him from it; but he is resolute."*

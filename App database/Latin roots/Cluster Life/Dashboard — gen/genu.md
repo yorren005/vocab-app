@@ -5,15 +5,6 @@ status: unread
 ---
 # genu
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And she is an unimpeachable Christian, I am sure; perhaps of the very tribe, genus, and species you desire to propagate.” “O Angel, you are mocking!” “Mother, I beg pardon."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many explanations of the causes of financial crises have been offered.[7] Nearly all of these belong to the general group of "glut" theories, of which genus there are two species, under-consumption and over-production theories."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"To me this humour seems to possess a greater affinity, on the whole, to that of Addison than to any other of the numerous species of this great British genus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And she is an unimpeachable Christian, I am sure; perhaps of the very tribe, genus, and species you desire to propagate.” “O Angel, you are mocking!” “Mother, I beg pardon."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many explanations of the causes of financial crises have been offered.[7] Nearly all of these belong to the general group of "glut" theories, of which genus there are two species, under-consumption and over-production theories."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"To me this humour seems to possess a greater affinity, on the whole, to that of Addison than to any other of the numerous species of this great British genus."*

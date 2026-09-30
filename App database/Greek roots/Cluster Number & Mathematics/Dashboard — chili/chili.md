@@ -5,15 +5,6 @@ status: unread
 ---
 # chili
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ground beef and chili peppers or chili powder often with tomatoes and kidney beans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very hot and finely tapering pepper of special pungency.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Apparently the Peguenches are an Indian tribe of Chili. [140] J.B. von Spix und C.F."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"In 1842 Lambert introduced reverberatory furnaces into Chili, and so great was his success, that in a short time they were in use throughout that country."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The term is generally applied still to all crude copper exhibiting similar features. _Chili Bar_ is an impure copper imported from Chili for refining."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ground beef and chili peppers or chili powder often with tomatoes and kidney beans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very hot and finely tapering pepper of special pungency.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Apparently the Peguenches are an Indian tribe of Chili. [140] J.B. von Spix und C.F."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"In 1842 Lambert introduced reverberatory furnaces into Chili, and so great was his success, that in a short time they were in use throughout that country."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The term is generally applied still to all crude copper exhibiting similar features. _Chili Bar_ is an impure copper imported from Chili for refining."*

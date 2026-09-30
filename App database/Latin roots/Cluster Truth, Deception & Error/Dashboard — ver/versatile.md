@@ -5,15 +5,6 @@ status: unread
 ---
 # versatile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having great diversity or variety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Changeable or inconstant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Of these, Graham, bright, witty, versatile, the most notorious of punsters and the most illegible of writers, was his chief intimate, and their friendship continued unbroken and close for half a century."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I would never give way to that; I was always versatile."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But it soon appeared that Marnoo’s powers were as versatile as they were extraordinary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having great diversity or variety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Changeable or inconstant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Of these, Graham, bright, witty, versatile, the most notorious of punsters and the most illegible of writers, was his chief intimate, and their friendship continued unbroken and close for half a century."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I would never give way to that; I was always versatile."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But it soon appeared that Marnoo’s powers were as versatile as they were extraordinary."*

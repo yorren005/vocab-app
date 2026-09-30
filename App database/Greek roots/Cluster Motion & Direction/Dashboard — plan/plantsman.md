@@ -5,13 +5,6 @@ status: unread
 ---
 # plantsman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in the science of cultivating plants (fruit or flowers or vegetables or ornamental plants).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert in the science of cultivating plants (fruit or flowers or vegetables or ornamental plants).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plantsman designates an expert in the science of cultivating plants (fruit or flowers or vegetables or ornamental plants)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in the science of cultivating plants (fruit or flowers or vegetables or ornamental plants).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert in the science of cultivating plants (fruit or flowers or vegetables or ornamental plants).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plantsman designates an expert in the science of cultivating plants (fruit or flowers or vegetables or ornamental plants)."*

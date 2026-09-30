@@ -5,15 +5,6 @@ status: unread
 ---
 # adapt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make fit for, or change to suit a new purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adapt or conform oneself to new or different conditions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But I never heard that it had been anybody’s business to find out what his natural bent was, or where his failings lay, or to adapt any kind of knowledge to HIM."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Most hired men on farms are farmers' sons; the city boy does not adapt himself readily to farm work."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"If I may invent or adapt three words, the Christian "out-lived" the pagan, "out-died" him, and "out-thought" him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make fit for, or change to suit a new purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adapt or conform oneself to new or different conditions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But I never heard that it had been anybody’s business to find out what his natural bent was, or where his failings lay, or to adapt any kind of knowledge to HIM."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Most hired men on farms are farmers' sons; the city boy does not adapt himself readily to farm work."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"If I may invent or adapt three words, the Christian "out-lived" the pagan, "out-died" him, and "out-thought" him."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # gentleness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property possessed by a slope that is very gradual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting in a manner that is gentle and mild and even-tempered.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your gentleness shall force More than your force move us to gentleness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And therefore sit you down in gentleness, And take upon command what help we have That to your wanting may be ministered."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art, alone— If thy rare qualities, sweet gentleness, Thy meekness saint-like, wife-like government, Obeying in commanding, and thy parts Sovereign and pious else, could speak thee out— The queen of earthly queens."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property possessed by a slope that is very gradual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting in a manner that is gentle and mild and even-tempered.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your gentleness shall force More than your force move us to gentleness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And therefore sit you down in gentleness, And take upon command what help we have That to your wanting may be ministered."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art, alone— If thy rare qualities, sweet gentleness, Thy meekness saint-like, wife-like government, Obeying in commanding, and thy parts Sovereign and pious else, could speak thee out— The queen of earthly queens."*

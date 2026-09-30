@@ -5,13 +5,6 @@ status: unread
 ---
 # venter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A speaker who expresses or gives vent to a personal opinion or grievance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The region of the body of a vertebrate between the thorax and the pelvis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Do not venter, Ile make your wedding cloaths fit closer t'ee then; I but disturb you, lie go see my nephew: _Lew_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A speaker who expresses or gives vent to a personal opinion or grievance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The region of the body of a vertebrate between the thorax and the pelvis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Do not venter, Ile make your wedding cloaths fit closer t'ee then; I but disturb you, lie go see my nephew: _Lew_."*

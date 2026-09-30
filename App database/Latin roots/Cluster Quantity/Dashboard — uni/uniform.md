@@ -5,15 +5,6 @@ status: unread
 ---
 # uniform
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clothing of distinctive design worn by members of a particular group as a means of identification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with uniforms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was only half dressed—in plain clothes, I observed, not in uniform—and his hair was unbrushed, and he looked as wild as his room."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A third man in uniform, whom Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The second officer, who had attended to it closely, then copied it out and called in another man in uniform (there were several in an outer room), who took it up and went away with it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clothing of distinctive design worn by members of a particular group as a means of identification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with uniforms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He was only half dressed—in plain clothes, I observed, not in uniform—and his hair was unbrushed, and he looked as wild as his room."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A third man in uniform, whom Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The second officer, who had attended to it closely, then copied it out and called in another man in uniform (there were several in an outer room), who took it up and went away with it."*

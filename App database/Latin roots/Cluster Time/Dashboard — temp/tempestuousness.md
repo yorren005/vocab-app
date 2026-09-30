@@ -5,13 +5,6 @@ status: unread
 ---
 # tempestuousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of wild storminess.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of agitation or turbulent change or development.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tempestuousness designates a state of wild storminess."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of wild storminess.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of agitation or turbulent change or development.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tempestuousness designates a state of wild storminess."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # insubordinate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not submissive to authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disposed to or engaged in defiance of established authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Instead of being a ruler in the Province of Body, in which Mortal Man was reported to reside, Nerve was an insubordinate citizen, putting in false 438:12 claims to office and bearing false witness against Man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not submissive to authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disposed to or engaged in defiance of established authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Instead of being a ruler in the Province of Body, in which Mortal Man was reported to reside, Nerve was an insubordinate citizen, putting in false 438:12 claims to office and bearing false witness against Man."*

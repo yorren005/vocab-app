@@ -5,15 +5,6 @@ status: unread
 ---
 # retrogression
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Passing from a more complex to a simpler biological form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Returning to a former state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He had foresight, but has less now than formerly, pointing to a moral retrogression, which, when taken with the decline of his fortunes, seems to indicate some evil influence, probably drink, at work upon him."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"But how about the foresight and the moral retrogression?” Sherlock Holmes laughed."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Moral retrogression 22:3 Vibrating like a pendulum between sin and the hope of forgiveness,- selfishness and sensuality causing con- stant retrogression,- our moral progress will 22:6 be slow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Passing from a more complex to a simpler biological form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Returning to a former state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He had foresight, but has less now than formerly, pointing to a moral retrogression, which, when taken with the decline of his fortunes, seems to indicate some evil influence, probably drink, at work upon him."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"But how about the foresight and the moral retrogression?” Sherlock Holmes laughed."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Moral retrogression 22:3 Vibrating like a pendulum between sin and the hope of forgiveness,- selfishness and sensuality causing con- stant retrogression,- our moral progress will 22:6 be slow."*

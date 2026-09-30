@@ -5,13 +5,6 @@ status: unread
 ---
 # troposphere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest densest part of the earth's atmosphere in which most weather changes occur and temperature generally decreases rapidly with altitude and which extends from the earth's surface to the bottom of the stratosphere at about 7 miles (11 kilometers) high.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest densest part of the earth's atmosphere in which most weather changes occur and temperature generally decreases rapidly with altitude and which extends from the earth's surface to the bottom of the stratosphere at about 7 miles (11 kilometers) high.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, troposphere designates the lowest densest part of the earth's atmosphere in which most weather changes occur and temperature generally decreases rapidly with altitude and which extends from the earth's surface to the bottom of the stratosphere at about 7 miles (11 kilometers) high."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest densest part of the earth's atmosphere in which most weather changes occur and temperature generally decreases rapidly with altitude and which extends from the earth's surface to the bottom of the stratosphere at about 7 miles (11 kilometers) high.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest densest part of the earth's atmosphere in which most weather changes occur and temperature generally decreases rapidly with altitude and which extends from the earth's surface to the bottom of the stratosphere at about 7 miles (11 kilometers) high.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, troposphere designates the lowest densest part of the earth's atmosphere in which most weather changes occur and temperature generally decreases rapidly with altitude and which extends from the earth's surface to the bottom of the stratosphere at about 7 miles (11 kilometers) high."*

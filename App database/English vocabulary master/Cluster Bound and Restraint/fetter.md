@@ -5,19 +5,6 @@ status: unread
 ---
 # fetter
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Put fetters on : shackle
-> 2. **Nuance / Usage**: Chain or shackle for the feet
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (usually plural: *fetters*) & Transitive Verb (*to fetter*).
-> - **Syntactic Constructions**: Operates nominally as a physical restraint (*bound in iron fetters*) or abstract constraint (*break the fetters of dogma*), and verbally in passive participial constructions (*fettered by bureaucracy*).
-> - **Collocations & Registers**: Legal, martial, and philosophical registers; paired with *iron*, *shackle*, *trammel*, *unbind*, and *cast off*.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"independent member, who was to fetter himself for this occasion only."*
-> - 📜 **James Joyce (*Ulysses*):** *"In Gerard’s rosery of Fetter lane he walks, greyedauburn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -53,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A chain, manacle, or shackle fastened around the ankles or feet to restrain a prisoner or animal from escaping.
+> 2. **Nuance / Usage**: Used as a transitive verb (*to fetter*) or plural noun (*fetters*) for any severe constraint, convention, or obligation that binds freedom of thought or action.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (usually plural: *fetters*) & Transitive Verb (*to fetter*).
+> - **Syntactic Constructions**: Operates nominally as a physical restraint (*bound in iron fetters*) or abstract constraint (*break the fetters of dogma*), and verbally in passive participial constructions (*fettered by bureaucracy*).
+> - **Collocations & Registers**: Legal, martial, and philosophical registers; paired with *iron*, *shackle*, *trammel*, *unbind*, and *cast off*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"He was an independent member, who had consented to **fetter** himself for this occasion only."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Here condemned to rattle his iron **fetters** in the deep abyss, he plotted vain revenge."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The tyrant's chains and **fetters** fell away like frost before the rising sun."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # insecure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not firm or firmly fixed; likely to fail or give way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in security or safety.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"These powerful creatures often hurled themselves at the windows of the saloon with such violence as to make us feel very insecure."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If a majority be united by a common interest, the rights of the minority will be insecure."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Heads of State are insecure and fear political coups."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not firm or firmly fixed; likely to fail or give way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in security or safety.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"These powerful creatures often hurled themselves at the windows of the saloon with such violence as to make us feel very insecure."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If a majority be united by a common interest, the rights of the minority will be insecure."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Heads of State are insecure and fear political coups."*

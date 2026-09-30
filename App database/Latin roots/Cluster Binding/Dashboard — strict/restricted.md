@@ -5,15 +5,6 @@ status: unread
 ---
 # restricted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place restrictions on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place under restrictions; limit access to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Was he necessarily restricted to the one means?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Therefore, when gold is the standard, copper, nickel, and silver remain in restricted use."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Her diet is restricted to boiled rice, milk, sugar, curd, and tamarind without salt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Place restrictions on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place under restrictions; limit access to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Was he necessarily restricted to the one means?"*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Therefore, when gold is the standard, copper, nickel, and silver remain in restricted use."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Her diet is restricted to boiled rice, milk, sugar, curd, and tamarind without salt."*

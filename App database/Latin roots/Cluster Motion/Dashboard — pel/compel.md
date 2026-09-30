@@ -5,15 +5,6 @@ status: unread
 ---
 # compel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Force somebody to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Necessitate or exact.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I were not a very coward I’d compel it of you; but fare you well. [_Exeunt Bertram, Lords &c._] FIRST SOLDIER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And strange it is That nature must compel us to lament Our most persisted deeds."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But he hath forc’d us to compel this offer, And it proceeds from policy, not love."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Force somebody to do something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Necessitate or exact.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I were not a very coward I’d compel it of you; but fare you well. [_Exeunt Bertram, Lords &c._] FIRST SOLDIER."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And strange it is That nature must compel us to lament Our most persisted deeds."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But he hath forc’d us to compel this offer, And it proceeds from policy, not love."*

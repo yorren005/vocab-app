@@ -5,15 +5,6 @@ status: unread
 ---
 # observable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being seen or noticed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being seen or noticed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Two things are especially observable as Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Its activity in sucking the moisture from the rich damp sod was almost a process observable by the eye."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A process somewhat analogous to that of alleged formations of the universe, time and times ago, was observable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being seen or noticed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being seen or noticed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Two things are especially observable as Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Its activity in sucking the moisture from the rich damp sod was almost a process observable by the eye."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A process somewhat analogous to that of alleged formations of the universe, time and times ago, was observable."*

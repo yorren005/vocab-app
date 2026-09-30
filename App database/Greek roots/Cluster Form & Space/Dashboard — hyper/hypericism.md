@@ -5,13 +5,6 @@ status: unread
 ---
 # hypericism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe dermatitis of herbivorous domestic animals attributable to photosensitivity from eating saint john's wort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A severe dermatitis of herbivorous domestic animals attributable to photosensitivity from eating saint john's wort.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypericism designates a severe dermatitis of herbivorous domestic animals attributable to photosensitivity from eating saint john's wort."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe dermatitis of herbivorous domestic animals attributable to photosensitivity from eating saint john's wort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A severe dermatitis of herbivorous domestic animals attributable to photosensitivity from eating saint john's wort.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypericism designates a severe dermatitis of herbivorous domestic animals attributable to photosensitivity from eating saint john's wort."*

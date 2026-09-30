@@ -5,14 +5,6 @@ status: unread
 ---
 # decisiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of resoluteness as evidenced by firmness of character or purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being final or definitely settled.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"She rose and crossed the room toward the door with grim decisiveness."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Delia's keeping watch of him.” For a moment there was silence; then, with clear decisiveness came Billy's voice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of resoluteness as evidenced by firmness of character or purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being final or definitely settled.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"She rose and crossed the room toward the door with grim decisiveness."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Delia's keeping watch of him.” For a moment there was silence; then, with clear decisiveness came Billy's voice."*

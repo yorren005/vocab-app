@@ -5,14 +5,6 @@ status: unread
 ---
 # unnoted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not taken into account.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not taken into account.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gnats are unnoted wheresoe’er they fly, But eagles gazed upon with every eye."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"And such defeat, unnoted and unseen Till it had passed, has been my own to-day; And, with a sense of mortified chagrin, I turn me from the pleasing view away, And in the busy city seek to find A new diversion to engage my mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not taken into account.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not taken into account.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gnats are unnoted wheresoe’er they fly, But eagles gazed upon with every eye."*
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"And such defeat, unnoted and unseen Till it had passed, has been my own to-day; And, with a sense of mortified chagrin, I turn me from the pleasing view away, And in the busy city seek to find A new diversion to engage my mind."*

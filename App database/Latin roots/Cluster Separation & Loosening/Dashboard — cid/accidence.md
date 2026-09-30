@@ -5,15 +5,6 @@ status: unread
 ---
 # accidence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of grammar that deals with the inflections of words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of grammar that deals with the inflections of words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray you ask him some questions in his accidence."*
-> - 📜 **James Joyce (*Ulysses*):** *"Theoretical, being confined to certain grammatical rules of accidence and syntax and practically excluding vocabulary."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She had worked even at the Latin accidence, fondly hoping that she might be capable of instructing him in that language."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of grammar that deals with the inflections of words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of grammar that deals with the inflections of words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray you ask him some questions in his accidence."*
+> - 📜 **James Joyce (*Ulysses*):** *"Theoretical, being confined to certain grammatical rules of accidence and syntax and practically excluding vocabulary."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She had worked even at the Latin accidence, fondly hoping that she might be capable of instructing him in that language."*

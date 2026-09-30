@@ -5,15 +5,6 @@ status: unread
 ---
 # communicate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmit information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transmit thoughts or feelings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, I was very late more near her than I think she wish’d me; alone she was, and did communicate to herself her own words to her own ears; she thought, I dare vow for her, they touch’d not any stranger sense."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In short, it’s in total confidence.” “I am at a loss, sir,” said I, “to imagine what you can have to communicate in total confidence to me, whom you have never seen but once; but I should be very sorry to do you any injury.” “Thank you, miss."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We never could associate, never could communicate, never probably from that time forth could interchange another word on earth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmit information.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transmit thoughts or feelings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, I was very late more near her than I think she wish’d me; alone she was, and did communicate to herself her own words to her own ears; she thought, I dare vow for her, they touch’d not any stranger sense."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In short, it’s in total confidence.” “I am at a loss, sir,” said I, “to imagine what you can have to communicate in total confidence to me, whom you have never seen but once; but I should be very sorry to do you any injury.” “Thank you, miss."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"We never could associate, never could communicate, never probably from that time forth could interchange another word on earth."*

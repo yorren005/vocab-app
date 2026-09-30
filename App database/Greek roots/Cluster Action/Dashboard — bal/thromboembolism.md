@@ -5,13 +5,6 @@ status: unread
 ---
 # thromboembolism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The blocking of a blood vessel by a particle that has broken away from a blood clot at its site of formation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The blocking of a blood vessel by a particle that has broken away from a blood clot at its site of formation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thromboembolism designates the blocking of a blood vessel by a particle that has broken away from a blood clot at its site of formation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The blocking of a blood vessel by a particle that has broken away from a blood clot at its site of formation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The blocking of a blood vessel by a particle that has broken away from a blood clot at its site of formation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thromboembolism designates the blocking of a blood vessel by a particle that has broken away from a blood clot at its site of formation."*

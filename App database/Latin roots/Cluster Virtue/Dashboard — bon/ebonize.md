@@ -5,13 +5,6 @@ status: unread
 ---
 # ebonize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stain black to make it look like ebony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stain black to make it look like ebony.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ebonize designates stain black to make it look like ebony."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stain black to make it look like ebony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stain black to make it look like ebony.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ebonize designates stain black to make it look like ebony."*

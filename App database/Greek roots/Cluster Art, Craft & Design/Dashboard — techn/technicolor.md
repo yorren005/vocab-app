@@ -5,13 +5,6 @@ status: unread
 ---
 # technicolor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trademarked method of making color motion pictures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trademarked method of making color motion pictures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technicolor designates a trademarked method of making color motion pictures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A trademarked method of making color motion pictures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trademarked method of making color motion pictures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technicolor designates a trademarked method of making color motion pictures."*

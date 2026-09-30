@@ -5,13 +5,6 @@ status: unread
 ---
 # trionychidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soft-shelled turtles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soft-shelled turtles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trionychidae designates soft-shelled turtles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Soft-shelled turtles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soft-shelled turtles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trionychidae designates soft-shelled turtles."*

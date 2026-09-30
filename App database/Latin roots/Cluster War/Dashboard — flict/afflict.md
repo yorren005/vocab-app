@@ -5,15 +5,6 @@ status: unread
 ---
 # afflict
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause great unhappiness for; distress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause physical pain or suffering in.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay me, most wretched, That have my heart parted betwixt two friends That does afflict each other!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when that time comes, Afflict me with thy mocks, pity me not, As till that time I shall not pity thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the very ecstasy of love, Whose violent property fordoes itself, And leads the will to desperate undertakings, As oft as any passion under heaven That does afflict our natures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause great unhappiness for; distress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause physical pain or suffering in.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay me, most wretched, That have my heart parted betwixt two friends That does afflict each other!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when that time comes, Afflict me with thy mocks, pity me not, As till that time I shall not pity thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the very ecstasy of love, Whose violent property fordoes itself, And leads the will to desperate undertakings, As oft as any passion under heaven That does afflict our natures."*

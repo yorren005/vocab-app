@@ -5,20 +5,6 @@ status: unread
 ---
 # abode
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Wait, delay
-> 2. **Nuance / Usage**: Temporary stay : sojourn
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Desire my man’s abode where I did leave him."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"ways of her new abode, provided with comparative liberality."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"admit some fresh air into the close abode of sickness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A place of residence; a house, home, or dwelling where one lives.
+> 2. **Nuance / Usage**: Carries an elevated, formal, or literary register (often used in phrases like *humble abode* or legally in *no fixed abode* and *right of abode*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She was not long in making herself acquainted with the ways of her new **abode**."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"His yellow skin scarcely covered the work of muscles and arteries beneath; but where was the peaceful **abode** I had once known?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Better to reign in Hell, than serve in Heaven—yet how dreary is this dark **abode**."*

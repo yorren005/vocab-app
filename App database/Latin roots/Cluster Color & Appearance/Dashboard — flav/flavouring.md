@@ -5,14 +5,6 @@ status: unread
 ---
 # flavouring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something added to food primarily for the savor it imparts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lend flavor to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The liquid drawn off from the mash tun, containing, of course, the sugar, is subsequently boiled, numerous flavouring matters (including hops) are added, and then it is cooled again, ready for the final process--fermentation."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"In a happy compromise between her two states of existence, she had already become, with her workbasket before her, the equably vivacious companion with a slight judicious flavouring of information, when the Billickin announced herself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something added to food primarily for the savor it imparts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lend flavor to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The liquid drawn off from the mash tun, containing, of course, the sugar, is subsequently boiled, numerous flavouring matters (including hops) are added, and then it is cooled again, ready for the final process--fermentation."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"In a happy compromise between her two states of existence, she had already become, with her workbasket before her, the equably vivacious companion with a slight judicious flavouring of information, when the Billickin announced herself."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # exonerated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pronounce not guilty of criminal charges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freed from any question of guilt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"From school duties she was exonerated: Mrs."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"My state of mind regarding the pilfering from which I had been so unexpectedly exonerated did not impel me to frank disclosure; but I hope it had some dregs of good at the bottom of it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pronounce not guilty of criminal charges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freed from any question of guilt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"From school duties she was exonerated: Mrs."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"My state of mind regarding the pilfering from which I had been so unexpectedly exonerated did not impel me to frank disclosure; but I hope it had some dregs of good at the bottom of it."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # impalpability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being intangible and not perceptible by touch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being intangible and not perceptible by touch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Troubles and other realities took on themselves a metaphysical impalpability, sinking to mere mental phenomena for serene contemplation, and no longer stood as pressing concretions which chafed body and soul."*
-> - 📜 **James Joyce (*Ulysses*):** *"One who has faded into impalpability through death, through absence, through change of manners."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"The peculiarity was physical, to begin with, and it extended to impalpabilities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being intangible and not perceptible by touch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being intangible and not perceptible by touch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Troubles and other realities took on themselves a metaphysical impalpability, sinking to mere mental phenomena for serene contemplation, and no longer stood as pressing concretions which chafed body and soul."*
+> - 📜 **James Joyce (*Ulysses*):** *"One who has faded into impalpability through death, through absence, through change of manners."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"The peculiarity was physical, to begin with, and it extended to impalpabilities."*

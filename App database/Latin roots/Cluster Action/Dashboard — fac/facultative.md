@@ -5,13 +5,6 @@ status: unread
 ---
 # facultative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the mental faculties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to exist under more than one set of conditions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, facultative designates of or relating to the mental faculties."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the mental faculties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to exist under more than one set of conditions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, facultative designates of or relating to the mental faculties."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # cannily
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With foresight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With foresight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"No, sir; all was very still.” “We shall get you off cannily, Dick: and it will be better, both for your sake, and for that of the poor creature in yonder."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Chorus.—I rede you, beware at the hunting, young men, I rede you, beware at the hunting, young men; Take some on the wing, and some as they spring, But cannily steal on a bonie moor-hen."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Cannilie, cannily, quietly, prudently, cautiously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With foresight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With foresight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"No, sir; all was very still.” “We shall get you off cannily, Dick: and it will be better, both for your sake, and for that of the poor creature in yonder."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Chorus.—I rede you, beware at the hunting, young men, I rede you, beware at the hunting, young men; Take some on the wing, and some as they spring, But cannily steal on a bonie moor-hen."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Cannilie, cannily, quietly, prudently, cautiously."*

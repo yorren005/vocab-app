@@ -5,15 +5,6 @@ status: unread
 ---
 # vote
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A choice that is made by counting the number of people in favor of each alternative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The opinion of a group as determined by voting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby is effected and (more important) the vote and interest of Mrs."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"I vote the young lady tells us a story.” “I’m afraid I don’t know one,” said Alice, rather alarmed at the proposal."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Of the Diagnostic he speedily became the life and soul, and discussed with ardour such questions as the Repeal of the Corn Laws, Vote by Ballot, and the Exclusion of Bishops from the House of Lords."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A choice that is made by counting the number of people in favor of each alternative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The opinion of a group as determined by voting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby is effected and (more important) the vote and interest of Mrs."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"I vote the young lady tells us a story.” “I’m afraid I don’t know one,” said Alice, rather alarmed at the proposal."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Of the Diagnostic he speedily became the life and soul, and discussed with ardour such questions as the Repeal of the Corn Laws, Vote by Ballot, and the Exclusion of Bishops from the House of Lords."*

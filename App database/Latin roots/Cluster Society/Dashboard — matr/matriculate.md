@@ -5,13 +5,6 @@ status: unread
 ---
 # matriculate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has been admitted to a college or university.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enroll as a student.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I do not know that my name is matriculated, as the heralds call it, at all; but I have invented arms for myself, so you know I shall be chief of the name; and, by courtesy of Scotland, will likewise be entitled to supporters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has been admitted to a college or university.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enroll as a student.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I do not know that my name is matriculated, as the heralds call it, at all; but I have invented arms for myself, so you know I shall be chief of the name; and, by courtesy of Scotland, will likewise be entitled to supporters."*

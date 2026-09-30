@@ -5,13 +5,6 @@ status: unread
 ---
 # salicaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Two genera of trees or shrubs having hairy catkins: salix; populus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Two genera of trees or shrubs having hairy catkins: salix; populus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salicaceae designates two genera of trees or shrubs having hairy catkins: salix; populus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Two genera of trees or shrubs having hairy catkins: salix; populus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Two genera of trees or shrubs having hairy catkins: salix; populus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salicaceae designates two genera of trees or shrubs having hairy catkins: salix; populus."*

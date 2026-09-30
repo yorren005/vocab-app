@@ -5,15 +5,6 @@ status: unread
 ---
 # dam
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A barrier preventing the flow of water or of loose solid materials (such as soil or snow); especially, civil engineering : a barrier built across a watercourse for impounding water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A barrier to check the flow of liquid, gas, or air.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now the good gods forbid That our renowned Rome, whose gratitude Towards her deserved children is enrolled In Jove’s own book, like an unnatural dam Should now eat up her own."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll have a bout with thee; Devil or devil’s dam, I’ll conjure thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, kennel, puddle, sink, whose filth and dirt Troubles the silver spring where England drinks; Now will I dam up this thy yawning mouth For swallowing the treasure of the realm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A barrier preventing the flow of water or of loose solid materials (such as soil or snow); especially, civil engineering : a barrier built across a watercourse for impounding water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A barrier to check the flow of liquid, gas, or air.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now the good gods forbid That our renowned Rome, whose gratitude Towards her deserved children is enrolled In Jove’s own book, like an unnatural dam Should now eat up her own."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll have a bout with thee; Devil or devil’s dam, I’ll conjure thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, kennel, puddle, sink, whose filth and dirt Troubles the silver spring where England drinks; Now will I dam up this thy yawning mouth For swallowing the treasure of the realm."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # revolutionist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radical supporter of political or social revolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radical supporter of political or social revolution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It is not what he plans; it is the effect, if his plans are achieved, that makes him a revolutionist."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But if you are to wait till we get a logical Bill, you must put yourself forward as a revolutionist, and then Middlemarch would not elect you, I fancy."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"To me, you're a revolutionist, undermining Narval's government, and trying to cram your politics down our throats." Scarf moved away from the bar, drink in hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radical supporter of political or social revolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radical supporter of political or social revolution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It is not what he plans; it is the effect, if his plans are achieved, that makes him a revolutionist."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But if you are to wait till we get a logical Bill, you must put yourself forward as a revolutionist, and then Middlemarch would not elect you, I fancy."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"To me, you're a revolutionist, undermining Narval's government, and trying to cram your politics down our throats." Scarf moved away from the bar, drink in hand."*

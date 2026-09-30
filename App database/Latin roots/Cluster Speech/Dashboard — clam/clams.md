@@ -5,15 +5,6 @@ status: unread
 ---
 # clams
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal terms for money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Burrowing marine mollusk living on sand or mud; the shell closes with viselike firmness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They are only beginning to be developed artificially by the propagation of oysters, clams, and fish."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was made of small juicy clams, scarcely bigger than hazel nuts, mixed with pounded ship biscuit, and salted pork cut up into little flakes; the whole enriched with butter, and plentifully seasoned with pepper and salt."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It was made of small juicy clams, scarcely bigger than hazel nuts, mixed with pounded ship biscuit, and salted pork cut up into little flakes; the whole enriched with butter, and plentifully seasoned with pepper and salt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal terms for money.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Burrowing marine mollusk living on sand or mud; the shell closes with viselike firmness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They are only beginning to be developed artificially by the propagation of oysters, clams, and fish."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was made of small juicy clams, scarcely bigger than hazel nuts, mixed with pounded ship biscuit, and salted pork cut up into little flakes; the whole enriched with butter, and plentifully seasoned with pepper and salt."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It was made of small juicy clams, scarcely bigger than hazel nuts, mixed with pounded ship biscuit, and salted pork cut up into little flakes; the whole enriched with butter, and plentifully seasoned with pepper and salt."*

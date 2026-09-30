@@ -5,13 +5,6 @@ status: unread
 ---
 # pseudepigrapha
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 52 texts written between 200 bc and ad 200 but ascribed to various prophets and kings in the hebrew scriptures; many are apocalyptic in nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 52 texts written between 200 bc and ad 200 but ascribed to various prophets and kings in the hebrew scriptures; many are apocalyptic in nature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudepigrapha designates 52 texts written between 200 bc and ad 200 but ascribed to various prophets and kings in the hebrew scriptures; many are apocalyptic in nature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: 52 texts written between 200 bc and ad 200 but ascribed to various prophets and kings in the hebrew scriptures; many are apocalyptic in nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 52 texts written between 200 bc and ad 200 but ascribed to various prophets and kings in the hebrew scriptures; many are apocalyptic in nature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudepigrapha designates 52 texts written between 200 bc and ad 200 but ascribed to various prophets and kings in the hebrew scriptures; many are apocalyptic in nature."*

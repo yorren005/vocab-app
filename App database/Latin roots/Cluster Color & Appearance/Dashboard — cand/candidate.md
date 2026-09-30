@@ -5,15 +5,6 @@ status: unread
 ---
 # candidate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A politician who is running for public office.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is considered for something (for an office or prize or honor etc.).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is not a candidate.” Volumnia had thought he might have been employed."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Heh-heh-heh!” laughed the married man with a hideous effort of appreciation, for he was as irrepressibly good-humoured under ghastly snubs as a parliamentary candidate on the hustings."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Republican candidate Hayes, after a long contest in Congress, was declared elected by a margin of one electoral vote."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A politician who is running for public office.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is considered for something (for an office or prize or honor etc.).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is not a candidate.” Volumnia had thought he might have been employed."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Heh-heh-heh!” laughed the married man with a hideous effort of appreciation, for he was as irrepressibly good-humoured under ghastly snubs as a parliamentary candidate on the hustings."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Republican candidate Hayes, after a long contest in Congress, was declared elected by a margin of one electoral vote."*

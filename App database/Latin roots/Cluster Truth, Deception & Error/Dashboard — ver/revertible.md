@@ -5,13 +5,6 @@ status: unread
 ---
 # revertible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To be returned to the former owner or that owner's heirs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To be returned to the former owner or that owner's heirs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, revertible designates to be returned to the former owner or that owner's heirs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To be returned to the former owner or that owner's heirs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To be returned to the former owner or that owner's heirs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, revertible designates to be returned to the former owner or that owner's heirs."*

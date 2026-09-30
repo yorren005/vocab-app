@@ -5,15 +5,6 @@ status: unread
 ---
 # sociological
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or determined by sociology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or determined by sociology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Sociological effects of agricultural decay. § 6."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"No longer able to make a living on the soil, he took up an urban occupation. § 5. #Sociological effects of agricultural decay#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There are merely suggested here some of the complex sociological effects of past economic changes in American agriculture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or determined by sociology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or determined by sociology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Sociological effects of agricultural decay. § 6."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"No longer able to make a living on the soil, he took up an urban occupation. § 5. #Sociological effects of agricultural decay#."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There are merely suggested here some of the complex sociological effects of past economic changes in American agriculture."*

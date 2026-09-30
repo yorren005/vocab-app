@@ -5,15 +5,6 @@ status: unread
 ---
 # detract
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take away a part from; diminish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take away a part from; diminish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall I, for lucre of the rest unvanquish’d, Detract so much from that prerogative As to be call’d but viceroy of the whole?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His forward voice now is to speak well of his friend; his backward voice is to utter foul speeches and to detract."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor will it at all detract from him, dramatically regarded, if either by birth or other circumstances, he have what seems a half wilful overruling morbidness at the bottom of his nature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take away a part from; diminish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take away a part from; diminish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall I, for lucre of the rest unvanquish’d, Detract so much from that prerogative As to be call’d but viceroy of the whole?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His forward voice now is to speak well of his friend; his backward voice is to utter foul speeches and to detract."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor will it at all detract from him, dramatically regarded, if either by birth or other circumstances, he have what seems a half wilful overruling morbidness at the bottom of his nature."*

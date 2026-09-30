@@ -5,13 +5,6 @@ status: unread
 ---
 # phragmipedium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of tropical american orchid species often included in genus cypripedium or paphiopedilum and selenipedium: lady slippers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of tropical american orchid species often included in genus cypripedium or paphiopedilum and selenipedium: lady slippers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phragmipedium designates genus of tropical american orchid species often included in genus cypripedium or paphiopedilum and selenipedium: lady slippers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of tropical american orchid species often included in genus cypripedium or paphiopedilum and selenipedium: lady slippers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of tropical american orchid species often included in genus cypripedium or paphiopedilum and selenipedium: lady slippers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phragmipedium designates genus of tropical american orchid species often included in genus cypripedium or paphiopedilum and selenipedium: lady slippers."*

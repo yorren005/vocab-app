@@ -5,15 +5,6 @@ status: unread
 ---
 # mammy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An offensive term for a black nursemaid in the southern u.s.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal terms for a mother.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Poor mammy has her leg broken."[781] [Wounded witches in Swabia.] In Swabia the witches are liable to accidents of the same sort when they go about their business in the form of animals."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"I’m O’er Young To Marry Yet Chorus.—I’m o’er young, I’m o’er young, I’m o’er young to marry yet; I’m o’er young, ’twad be a sin To tak me frae my mammy yet."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"He corned for us ten minutes behind the town clock, and Mammy Dilsie had phthisic, so I had to fix the two twins, and we're done left."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An offensive term for a black nursemaid in the southern u.s.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal terms for a mother.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Poor mammy has her leg broken."[781] [Wounded witches in Swabia.] In Swabia the witches are liable to accidents of the same sort when they go about their business in the form of animals."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"I’m O’er Young To Marry Yet Chorus.—I’m o’er young, I’m o’er young, I’m o’er young to marry yet; I’m o’er young, ’twad be a sin To tak me frae my mammy yet."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"He corned for us ten minutes behind the town clock, and Mammy Dilsie had phthisic, so I had to fix the two twins, and we're done left."*

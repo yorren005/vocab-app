@@ -5,13 +5,6 @@ status: unread
 ---
 # vacuousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indicative of or marked by mental vacuity and an absence of ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indicative of or marked by mental vacuity and an absence of ideas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vacuousness designates indicative of or marked by mental vacuity and an absence of ideas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indicative of or marked by mental vacuity and an absence of ideas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indicative of or marked by mental vacuity and an absence of ideas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vacuousness designates indicative of or marked by mental vacuity and an absence of ideas."*

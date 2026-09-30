@@ -5,15 +5,6 @@ status: unread
 ---
 # evacuate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move out of an unsafe location into safety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Empty completely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"She has refused to evacuate Malta."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Also another one to evacuate as much infantry as possible."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The House of Representatives by a vote of 71 to 26, adopted a resolution directing the Governor to issue a proclamation ordering the Confederate troops to evacuate Kentucky soil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move out of an unsafe location into safety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Empty completely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"She has refused to evacuate Malta."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Also another one to evacuate as much infantry as possible."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The House of Representatives by a vote of 71 to 26, adopted a resolution directing the Governor to issue a proclamation ordering the Confederate troops to evacuate Kentucky soil."*

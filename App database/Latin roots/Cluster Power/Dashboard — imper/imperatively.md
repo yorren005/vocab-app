@@ -5,15 +5,6 @@ status: unread
 ---
 # imperatively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an imperative and commanding manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an imperative and commanding manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba had shown indications of anointing him above his fellows by installing him as the bailiff that the farm imperatively required."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But Mary herself began to be more agitated by the remembrance of what she had gone through, than she had been by the reality—questioning those acts of hers which had come imperatively and excluded all question in the critical moment."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The young husband was frantic with grief—but circumstances imperatively forbade the deferring his voyage to New York."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an imperative and commanding manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an imperative and commanding manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba had shown indications of anointing him above his fellows by installing him as the bailiff that the farm imperatively required."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But Mary herself began to be more agitated by the remembrance of what she had gone through, than she had been by the reality—questioning those acts of hers which had come imperatively and excluded all question in the critical moment."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The young husband was frantic with grief—but circumstances imperatively forbade the deferring his voyage to New York."*

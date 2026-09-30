@@ -5,15 +5,6 @@ status: unread
 ---
 # hallowmas
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A christian feast day honoring all the saints; first observed in 835.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A christian feast day honoring all the saints; first observed in 835.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I beseech you, look into Master Froth here, sir, a man of fourscore pound a year; whose father died at Hallowmas—was’t not at Hallowmas, Master Froth?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Part us, Northumberland: I towards the north, Where shivering cold and sickness pines the clime; My wife to France, from whence set forth in pomp, She came adorned hither like sweet May, Sent back like Hallowmas or short’st of day."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Hallowmas, All Saints’ Day (1st of November)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A christian feast day honoring all the saints; first observed in 835.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A christian feast day honoring all the saints; first observed in 835.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I beseech you, look into Master Froth here, sir, a man of fourscore pound a year; whose father died at Hallowmas—was’t not at Hallowmas, Master Froth?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Part us, Northumberland: I towards the north, Where shivering cold and sickness pines the clime; My wife to France, from whence set forth in pomp, She came adorned hither like sweet May, Sent back like Hallowmas or short’st of day."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Hallowmas, All Saints’ Day (1st of November)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # ball
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A round or roundish body or mass: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spherical or ovoid body used in a game or sport —used figuratively in phrases like the ball is in your court to indicate who has the responsibility or opportunity for further action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When thou ran’st up Gad’s Hill in the night to catch my horse, if I did not think thou hadst been an _ignis fatuus_ or a ball of wildfire, there’s no purchase in money."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I, from the orient to the drooping west, Making the wind my post-horse, still unfold The acts commenced on this ball of earth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A man whom both the waters and the wind, In that vast tennis-court, have made the ball For them to play upon, entreats you pity him; He asks of you, that never used to beg."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A round or roundish body or mass: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spherical or ovoid body used in a game or sport —used figuratively in phrases like the ball is in your court to indicate who has the responsibility or opportunity for further action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When thou ran’st up Gad’s Hill in the night to catch my horse, if I did not think thou hadst been an _ignis fatuus_ or a ball of wildfire, there’s no purchase in money."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I, from the orient to the drooping west, Making the wind my post-horse, still unfold The acts commenced on this ball of earth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A man whom both the waters and the wind, In that vast tennis-court, have made the ball For them to play upon, entreats you pity him; He asks of you, that never used to beg."*

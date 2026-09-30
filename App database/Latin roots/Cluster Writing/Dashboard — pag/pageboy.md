@@ -5,13 +5,6 @@ status: unread
 ---
 # pageboy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A boy who is employed to run errands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A smooth hair style with the ends of the hair curled inward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"His satellites—the senior clerk, a countinghouse clerk, a scullery maid, a cook, two old women, a little pageboy, the coachman, and various domestic serfs—were seeing him off."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A boy who is employed to run errands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A smooth hair style with the ends of the hair curled inward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"His satellites—the senior clerk, a countinghouse clerk, a scullery maid, a cook, two old women, a little pageboy, the coachman, and various domestic serfs—were seeing him off."*

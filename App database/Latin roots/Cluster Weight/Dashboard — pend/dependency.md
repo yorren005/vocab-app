@@ -5,15 +5,6 @@ status: unread
 ---
 # dependency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of relying on or being controlled by someone or something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me report to him Your sweet dependency, and you shall find A conqueror that will pray in aid for kindness Where he for grace is kneeled to."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By mine honesty, If she be mad, as I believe no other, Her madness hath the oddest frame of sense, Such a dependency of thing on thing, As e’er I heard in madness."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Eleventh, the erection of the first dependency of the first Ma_sh_riqu'l-A_dh_kár of the western world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of relying on or being controlled by someone or something else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me report to him Your sweet dependency, and you shall find A conqueror that will pray in aid for kindness Where he for grace is kneeled to."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By mine honesty, If she be mad, as I believe no other, Her madness hath the oddest frame of sense, Such a dependency of thing on thing, As e’er I heard in madness."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Eleventh, the erection of the first dependency of the first Ma_sh_riqu'l-A_dh_kár of the western world."*

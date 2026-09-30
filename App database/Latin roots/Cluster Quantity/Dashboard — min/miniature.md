@@ -5,15 +5,6 @@ status: unread
 ---
 # miniature
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Painting or drawing included in a book (especially in illuminated medieval manuscripts).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A copy that reproduces a person or thing in greatly reduced size.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Look here,” said he, unfolding a parcel in his hand, and displaying a small miniature painting, “do you know who that is?” “Certainly: Captain Benwick.” “Yes, and you may guess who it is for."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The ecstasy of faith almost apotheosized her; it set upon her face a glowing irradiation, and brought a red spot into the middle of each cheek; while the miniature candle-flame inverted in her eye-pupils shone like a diamond."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"To this crib I always took my doll; human beings must love something, and, in the dearth of worthier objects of affection, I contrived to find a pleasure in loving and cherishing a faded graven image, shabby as a miniature scarecrow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Painting or drawing included in a book (especially in illuminated medieval manuscripts).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A copy that reproduces a person or thing in greatly reduced size.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Look here,” said he, unfolding a parcel in his hand, and displaying a small miniature painting, “do you know who that is?” “Certainly: Captain Benwick.” “Yes, and you may guess who it is for."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The ecstasy of faith almost apotheosized her; it set upon her face a glowing irradiation, and brought a red spot into the middle of each cheek; while the miniature candle-flame inverted in her eye-pupils shone like a diamond."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"To this crib I always took my doll; human beings must love something, and, in the dearth of worthier objects of affection, I contrived to find a pleasure in loving and cherishing a faded graven image, shabby as a miniature scarecrow."*

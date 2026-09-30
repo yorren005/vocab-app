@@ -5,15 +5,6 @@ status: unread
 ---
 # information
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message received and understood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Knowledge acquired through study or experience or instruction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But reason with the fellow Before you punish him, where he heard this, Lest you shall chance to whip your information And beat the messenger who bids beware Of what is to be dreaded."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, this is one Lucio’s information against me."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But I have come to talk with you about something much more important." The visitor now gave her listener some information that seemed to be far from pleasing to Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A message received and understood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Knowledge acquired through study or experience or instruction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But reason with the fellow Before you punish him, where he heard this, Lest you shall chance to whip your information And beat the messenger who bids beware Of what is to be dreaded."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, this is one Lucio’s information against me."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But I have come to talk with you about something much more important." The visitor now gave her listener some information that seemed to be far from pleasing to Mrs."*

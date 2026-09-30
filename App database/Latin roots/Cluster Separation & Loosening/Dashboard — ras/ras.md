@@ -5,15 +5,6 @@ status: unread
 ---
 # ras
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The network in the reticular formation that serves an alerting or arousal function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intensely radioactive metallic element that occurs in minute amounts in uranium ores.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"They're shipping people, which is where the diamond ta-ra-ras come from."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"About five o’clock in the evening we sighted to the north the Cape of Ras-Mohammed."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I distinctly saw a high mountain, towering between the two gulfs of Ras-Mohammed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The network in the reticular formation that serves an alerting or arousal function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intensely radioactive metallic element that occurs in minute amounts in uranium ores.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"They're shipping people, which is where the diamond ta-ra-ras come from."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"About five o’clock in the evening we sighted to the north the Cape of Ras-Mohammed."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I distinctly saw a high mountain, towering between the two gulfs of Ras-Mohammed."*

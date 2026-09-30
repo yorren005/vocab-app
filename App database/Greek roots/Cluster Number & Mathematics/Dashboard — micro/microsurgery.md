@@ -5,13 +5,6 @@ status: unread
 ---
 # microsurgery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgery using operating microscopes and miniaturized precision instruments to perform intricate procedures on very small structures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgery using operating microscopes and miniaturized precision instruments to perform intricate procedures on very small structures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microsurgery designates surgery using operating microscopes and miniaturized precision instruments to perform intricate procedures on very small structures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgery using operating microscopes and miniaturized precision instruments to perform intricate procedures on very small structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgery using operating microscopes and miniaturized precision instruments to perform intricate procedures on very small structures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microsurgery designates surgery using operating microscopes and miniaturized precision instruments to perform intricate procedures on very small structures."*

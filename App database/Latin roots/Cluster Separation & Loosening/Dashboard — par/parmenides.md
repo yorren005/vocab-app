@@ -5,13 +5,6 @@ status: unread
 ---
 # parmenides
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A presocratic greek philosopher born in italy; held the metaphysical view that being is the basic substance and ultimate reality of which all things are composed; said that motion and change are sensory illusions (5th century bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A presocratic greek philosopher born in italy; held the metaphysical view that being is the basic substance and ultimate reality of which all things are composed; said that motion and change are sensory illusions (5th century bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parmenides designates a presocratic greek philosopher born in italy; held the metaphysical view that being is the basic substance and ultimate reality of which all things are composed; said that motion and change are sensory illusions (5th century bc)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A presocratic greek philosopher born in italy; held the metaphysical view that being is the basic substance and ultimate reality of which all things are composed; said that motion and change are sensory illusions (5th century bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A presocratic greek philosopher born in italy; held the metaphysical view that being is the basic substance and ultimate reality of which all things are composed; said that motion and change are sensory illusions (5th century bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parmenides designates a presocratic greek philosopher born in italy; held the metaphysical view that being is the basic substance and ultimate reality of which all things are composed; said that motion and change are sensory illusions (5th century bc)."*

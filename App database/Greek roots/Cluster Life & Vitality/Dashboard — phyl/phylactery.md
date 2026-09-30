@@ -5,13 +5,6 @@ status: unread
 ---
 # phylactery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (judaism) either of two small leather cases containing texts from the hebrew scriptures (known collectively as tefillin); traditionally worn (on the forehead and the left arm) by jewish men during morning prayer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (judaism) either of two small leather cases containing texts from the hebrew scriptures (known collectively as tefillin); traditionally worn (on the forehead and the left arm) by jewish men during morning prayer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He shall cover thee with his feathers, and under his wings shalt thou trust," is a text bound over her daily life, as a phylactery was bound between the eyes of an ancient Hebrew."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (judaism) either of two small leather cases containing texts from the hebrew scriptures (known collectively as tefillin); traditionally worn (on the forehead and the left arm) by jewish men during morning prayer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (judaism) either of two small leather cases containing texts from the hebrew scriptures (known collectively as tefillin); traditionally worn (on the forehead and the left arm) by jewish men during morning prayer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"He shall cover thee with his feathers, and under his wings shalt thou trust," is a text bound over her daily life, as a phylactery was bound between the eyes of an ancient Hebrew."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # projector
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical device for projecting a beam of light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical instrument that projects an enlarged image onto a screen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Who will undertake to unite the discordant opinions of a whole community, in the same judgment of it; and to prevail upon one conceited projector to renounce his INFALLIBLE criterion for the FALLIBLE criterion of his more CONCEITED NEIGHBOR?"*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Like him he was a wild projector, seeking to heap up gold by the bushel and the cartload, instead of scraping it together, coin by coin."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"My lord was pleased to represent me as a great admirer of projects, and a person of much curiosity and easy belief; which, indeed, was not without truth; for I had myself been a sort of projector in my younger days."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical device for projecting a beam of light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical instrument that projects an enlarged image onto a screen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Who will undertake to unite the discordant opinions of a whole community, in the same judgment of it; and to prevail upon one conceited projector to renounce his INFALLIBLE criterion for the FALLIBLE criterion of his more CONCEITED NEIGHBOR?"*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Like him he was a wild projector, seeking to heap up gold by the bushel and the cartload, instead of scraping it together, coin by coin."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"My lord was pleased to represent me as a great admirer of projects, and a person of much curiosity and easy belief; which, indeed, was not without truth; for I had myself been a sort of projector in my younger days."*

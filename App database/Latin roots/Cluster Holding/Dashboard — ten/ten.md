@@ -5,15 +5,6 @@ status: unread
 ---
 # ten
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of nine and one; the base of the decimal system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of four playing cards in a deck with ten pips on the face.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be thou the tenth Muse, ten times more in worth Than those old nine which rhymers invocate, And he that calls on thee, let him bring forth Eternal numbers to outlive long date."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virginity, by being once lost, may be ten times found; by being ever kept, it is ever lost. ’Tis too cold a companion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With that she sighed as she stood, With that she sighed as she stood, And gave this sentence then: Among nine bad if one be good, Among nine bad if one be good, There’s yet one good in ten._ COUNTESS."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of nine and one; the base of the decimal system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of four playing cards in a deck with ten pips on the face.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be thou the tenth Muse, ten times more in worth Than those old nine which rhymers invocate, And he that calls on thee, let him bring forth Eternal numbers to outlive long date."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virginity, by being once lost, may be ten times found; by being ever kept, it is ever lost. ’Tis too cold a companion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With that she sighed as she stood, With that she sighed as she stood, And gave this sentence then: Among nine bad if one be good, Among nine bad if one be good, There’s yet one good in ten._ COUNTESS."*

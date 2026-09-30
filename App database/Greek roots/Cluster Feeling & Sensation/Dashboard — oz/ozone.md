@@ -5,13 +5,6 @@ status: unread
 ---
 # ozone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A triatomic very reactive form of oxygen that is a bluish irritating gas of pungent odor, that is a major air pollutant in the lower atmosphere but a beneficial component of the upper atmosphere, and that is used for oxidizing, bleaching, disinfecting, and deodorizing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pure and refreshing air.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I sought relief at famous springs, the ozone of Florida, and the pure air of Colorado, but in vain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A triatomic very reactive form of oxygen that is a bluish irritating gas of pungent odor, that is a major air pollutant in the lower atmosphere but a beneficial component of the upper atmosphere, and that is used for oxidizing, bleaching, disinfecting, and deodorizing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pure and refreshing air.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I sought relief at famous springs, the ozone of Florida, and the pure air of Colorado, but in vain."*

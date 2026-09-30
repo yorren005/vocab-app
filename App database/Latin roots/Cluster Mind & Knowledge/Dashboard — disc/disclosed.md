@@ -5,15 +5,6 @@ status: unread
 ---
 # disclosed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make known to the public information that was previously known only to a few people or that was meant to be kept a secret.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disclose to view as by removing a cover.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If my observation, which very seldom lies, By the heart’s still rhetoric disclosed with eyes, Deceive me not now, Navarre is infected."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But to speak that in words which his eye hath disclosed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The sum of all I can, I have disclosed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make known to the public information that was previously known only to a few people or that was meant to be kept a secret.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disclose to view as by removing a cover.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If my observation, which very seldom lies, By the heart’s still rhetoric disclosed with eyes, Deceive me not now, Navarre is infected."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But to speak that in words which his eye hath disclosed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The sum of all I can, I have disclosed."*

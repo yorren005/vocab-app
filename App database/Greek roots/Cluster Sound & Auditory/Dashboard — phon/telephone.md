@@ -5,15 +5,6 @@ status: unread
 ---
 # telephone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device by which sound (such as speech) is converted into electrical impulses and transmitted (as by wire or radio waves) to one or more specific receivers : phone : such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A telephone that operates by means of a landline.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Telephone companies are similarly taxed, but sometimes on the number of transmitters, or of subscribers, or on each plant, or otherwise."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Still, sad to relate, the same history had to be repeated in regard to the telegraph and telephone industry, and in some quarters the ultimate outcome is not yet recognized."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Waterworks, gas, electric lighting, street railways, telephone systems, are among these."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device by which sound (such as speech) is converted into electrical impulses and transmitted (as by wire or radio waves) to one or more specific receivers : phone : such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A telephone that operates by means of a landline.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Telephone companies are similarly taxed, but sometimes on the number of transmitters, or of subscribers, or on each plant, or otherwise."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Still, sad to relate, the same history had to be repeated in regard to the telegraph and telephone industry, and in some quarters the ultimate outcome is not yet recognized."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Waterworks, gas, electric lighting, street railways, telephone systems, are among these."*

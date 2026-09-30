@@ -5,15 +5,6 @@ status: unread
 ---
 # barrack
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A building or group of buildings used to house military personnel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lodge in barracks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Peeping in at the gate of the barrack-yard, we found everything very quiet at that time in the morning, and I asked a sergeant standing on the guardhouse-steps where he lived."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He found him in a dull room, fadedly furnished, much as I had found him in his barrack-room but a little while before, except that he was not writing but was sitting with a book before him, from which his eyes and thoughts were far astray."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The high wall being that of a barrack, and marriage being looked upon with disfavour in the army, assignations and communications had probably been made across the river before to-night."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A building or group of buildings used to house military personnel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lodge in barracks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Peeping in at the gate of the barrack-yard, we found everything very quiet at that time in the morning, and I asked a sergeant standing on the guardhouse-steps where he lived."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He found him in a dull room, fadedly furnished, much as I had found him in his barrack-room but a little while before, except that he was not writing but was sitting with a book before him, from which his eyes and thoughts were far astray."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The high wall being that of a barrack, and marriage being looked upon with disfavour in the army, assignations and communications had probably been made across the river before to-night."*

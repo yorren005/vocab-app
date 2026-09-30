@@ -5,15 +5,6 @@ status: unread
 ---
 # generality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An idea or conclusion having general application.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being general or widespread or having general applicability.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sometimes we emerged upon a wider thoroughfare or came to a larger building than the generality, well lighted."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I wish I could fix my mind on what I hear there more firmly than I do,” she remarked as a safe generality."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The generality of readers, when they know him at all, usually know him by his _Ode on the Passions_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An idea or conclusion having general application.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being general or widespread or having general applicability.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Sometimes we emerged upon a wider thoroughfare or came to a larger building than the generality, well lighted."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I wish I could fix my mind on what I hear there more firmly than I do,” she remarked as a safe generality."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The generality of readers, when they know him at all, usually know him by his _Ode on the Passions_."*

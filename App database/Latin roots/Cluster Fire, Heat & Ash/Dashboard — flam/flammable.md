@@ -5,13 +5,6 @@ status: unread
 ---
 # flammable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily ignited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily ignited.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Greek fire: see Gibbon, chap. 52. {a flammable liquid, kept so secret that its exact constitution is still unknown.} 281."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily ignited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily ignited.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Greek fire: see Gibbon, chap. 52. {a flammable liquid, kept so secret that its exact constitution is still unknown.} 281."*

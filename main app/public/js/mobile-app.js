@@ -11,7 +11,7 @@
  * - Offline-First Native Architecture (Capacitor & Android APK Ready)
  */
 
-import { renderObsidianMarkdown, extractFrontmatterAndBody } from './markdown-engine.js';
+import { renderObsidianMarkdown, extractFrontmatterAndBody, createAppleStatusToggle } from './markdown-engine.js';
 import { VaultRuntime } from './dataview-engine.js';
 
 class MobileVocabApp {
@@ -915,6 +915,21 @@ class MobileVocabApp {
         }
       });
 
+      // 1b. Mount Meta Bind status toggles (`INPUT[inlineSelect(...):status]`)
+      const metaMounts = bodyContainer.querySelectorAll('.meta-bind-status-mount');
+      metaMounts.forEach(mount => {
+        const row = mount.closest('tr');
+        const rowLink = row ? row.querySelector('a.internal-link[data-href]') : null;
+        const targetPath = rowLink
+          ? this.resolveLinkPath(rowLink.getAttribute('data-href'), notePath)
+          : notePath;
+        const currentStatus = this.getStatus(targetPath);
+        const toggle = createAppleStatusToggle(currentStatus, async (nextStatus) => {
+          this.setStatus(targetPath, nextStatus);
+        });
+        mount.replaceWith(toggle);
+      });
+
       // 2. Wire up all internal links (from Markdown & Dataview)
       bodyContainer.querySelectorAll('a.internal-link').forEach(link => {
         link.addEventListener('click', (e) => {
@@ -1150,7 +1165,7 @@ class MobileVocabApp {
       } catch (e) {}
     }
 
-    const { defText, secondaryDef, quoteText, quoteAuthor, quoteWork, pos } = this.extractCardDetails(card, rawContent);
+    const { defText, secondaryDef, quotes, quoteText, quoteAuthor, quoteWork, pos } = this.extractCardDetails(card, rawContent);
     const catLabel = card.category === 'greek' ? '🏛️ GREEK ROOT' : card.category === 'latin' ? '📜 LATIN ROOT' : '👑 VOCAB MASTER';
 
     // Find parent root dashboard if available
@@ -1160,6 +1175,10 @@ class MobileVocabApp {
     slideEl.className = 'tiktok-slide';
     if (direction === 'up') slideEl.classList.add('slide-up-in');
     else if (direction === 'down') slideEl.classList.add('slide-down-in');
+
+    const quoteList = quotes && quotes.length > 0
+      ? quotes
+      : (quoteText ? [{ quote: quoteText, author: quoteAuthor, work: quoteWork }] : []);
 
     slideEl.innerHTML = `
       <div class="tiktok-card-surface">
@@ -1197,7 +1216,10 @@ class MobileVocabApp {
         ` : ''}
 
         <div class="tiktok-def-box">
-          <div class="tiktok-def-title">📖 Core Definition</div>
+          <div class="tiktok-def-header-row">
+            <div class="tiktok-def-title">📖 Core Definition</div>
+            <div class="tiktok-def-status-mount" id="feed-card-apple-toggle-mount"></div>
+          </div>
           <div class="tiktok-def-text">${escapeHtml(defText)}</div>
           ${secondaryDef ? `
             <div class="tiktok-def-secondary">
@@ -1207,14 +1229,19 @@ class MobileVocabApp {
           ` : ''}
         </div>
 
-        ${quoteText ? `
-          <div class="tiktok-quote-box">
-            <div class="tiktok-quote-text">“${escapeHtml(quoteText)}”</div>
-            ${(quoteAuthor || quoteWork) ? `
-              <div class="tiktok-quote-author">
-                <span>— ${escapeHtml(quoteAuthor)}${quoteWork ? ` (*${escapeHtml(quoteWork)}*)` : ''}</span>
+        ${quoteList.length > 0 ? `
+          <div class="tiktok-quotes-stack">
+            <div class="tiktok-quotes-header">💬 Literary & Contextual Citations (${quoteList.length})</div>
+            ${quoteList.map((q) => `
+              <div class="tiktok-quote-box">
+                <div class="tiktok-quote-text">“${this.formatQuoteHtml(q.quote, card.name)}”</div>
+                ${(q.author || q.work) ? `
+                  <div class="tiktok-quote-author">
+                    <span>— ${escapeHtml(q.author)}${q.work ? ` <em>(${escapeHtml(q.work)})</em>` : ''}</span>
+                  </div>
+                ` : ''}
               </div>
-            ` : ''}
+            `).join('')}
           </div>
         ` : ''}
 
@@ -1238,6 +1265,20 @@ class MobileVocabApp {
         </div>
       </div>
     `;
+
+    // Mount the original app's Apple Glide Toggle (.apple-c) right at the top of the definition!
+    const appleMount = slideEl.querySelector('#feed-card-apple-toggle-mount');
+    let appleToggleEl = null;
+    if (appleMount) {
+      appleToggleEl = createAppleStatusToggle(status, async (nextStatus) => {
+        this.setStatus(card.path, nextStatus);
+        slideEl.querySelectorAll('.card-status-btn').forEach(b => {
+          const isMatch = b.dataset.setStatus === nextStatus;
+          b.className = isMatch ? `card-status-btn active ${nextStatus}` : 'card-status-btn';
+        });
+      });
+      appleMount.appendChild(appleToggleEl);
+    }
 
     // Audio Speech Pronunciation
     slideEl.querySelector('#btn-pronounce-word')?.addEventListener('click', (e) => {
@@ -1271,6 +1312,16 @@ class MobileVocabApp {
           b.className = 'card-status-btn';
         });
         btn.className = `card-status-btn active ${st}`;
+        if (appleToggleEl) {
+          const pMap = { unread: 'p0', learning: 'p1', learned: 'p2' };
+          const halo = appleToggleEl.querySelector('.halo-c');
+          const lbl = appleToggleEl.querySelector('.label');
+          if (halo) halo.className = `halo-c ${pMap[st] || 'p0'}`;
+          if (lbl) {
+            lbl.className = `label ${st}`;
+            lbl.textContent = st;
+          }
+        }
         // Auto-advance to next word after rating
         setTimeout(() => {
           this.nextFeedWord();
@@ -1429,6 +1480,19 @@ class MobileVocabApp {
       .trim();
   }
 
+  formatQuoteHtml(quoteStr, wordName) {
+    if (!quoteStr) return '';
+    let safe = escapeHtml(quoteStr.replace(/^\*+|\*+$/g, '').trim());
+    // Convert ***word*** or **word** into highlighted strong tags
+    safe = safe.replace(/\*{2,3}([^*]+)\*{2,3}/g, '<strong class="quote-word-hl">$1</strong>');
+    if (!safe.includes('quote-word-hl') && wordName && wordName.length >= 3) {
+      const escapedWord = wordName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      const re = new RegExp(`\\b(${escapedWord}[a-z]*)\\b`, 'gi');
+      safe = safe.replace(re, '<strong class="quote-word-hl">$1</strong>');
+    }
+    return safe;
+  }
+
   extractCardDetails(card, rawContent) {
     let primaryDef = '';
     let secondaryDef = '';
@@ -1460,15 +1524,15 @@ class MobileVocabApp {
         }
 
         if (currentSection === 'def') {
-          const clean = line.replace(/^>\s*/, '').trim();
+          const clean = line.replace(/^>\s*(?:-\s*)?/, '').trim();
           if (!clean) continue;
 
-          const pMatch = clean.match(/(?:1\.\s*)?\*\*(?:Primary|Concise)[^*]*\*\*:\s*(.*)/i);
+          const pMatch = clean.match(/(?:1\.\s*)?\*\*(?:1\.\s*)?(?:Primary|Concise)[^*]*\*\*:\s*(.*)/i);
           if (pMatch && !primaryDef) {
             primaryDef = this.cleanDefinitionText(pMatch[1]);
           }
 
-          const sMatch = clean.match(/(?:2\.\s*)?\*\*(?:Secondary|Nuanced|Nuance)[^*]*\*\*:\s*(.*)/i);
+          const sMatch = clean.match(/(?:2\.\s*)?\*\*(?:2\.\s*)?(?:Secondary|Nuanced|Nuance)[^*]*\*\*:\s*(.*)/i);
           if (sMatch && !secondaryDef) {
             secondaryDef = this.cleanDefinitionText(sMatch[1]);
           }
@@ -1477,7 +1541,7 @@ class MobileVocabApp {
             primaryDef = this.cleanDefinitionText(clean.replace(/^1\.\s*/, '').replace(/\*\*[^*]+\*\*:\s*/, ''));
           }
         } else if (currentSection === 'quote') {
-          const clean = line.replace(/^>\s*-\s*📜?\s*/, '').replace(/^>\s*/, '').trim();
+          const clean = line.replace(/^>\s*-\s*(?:📜|📚|🔬|🌐|🗣️|💬)?\s*/, '').replace(/^>\s*/, '').trim();
           if (!clean) continue;
 
           const m = clean.match(/^\*\*([^*]+?)(?:\s*\(([^)]+)\))?:?\*\*:?\s*\*?["“]([^"”]+)["”]\*?/);
@@ -1510,6 +1574,7 @@ class MobileVocabApp {
     return {
       defText: primaryDef,
       secondaryDef: secondaryDef && secondaryDef !== primaryDef ? secondaryDef : '',
+      quotes: quotes.slice(0, 3),
       quoteText: primaryQuote ? primaryQuote.quote : '',
       quoteAuthor: primaryQuote ? primaryQuote.author : '',
       quoteWork: primaryQuote ? primaryQuote.work : '',
@@ -1560,7 +1625,10 @@ class MobileVocabApp {
       } catch (e) {}
     }
 
-    const { defText, secondaryDef, quoteText, quoteAuthor, quoteWork, pos } = this.extractCardDetails(card, rawContent);
+    const { defText, secondaryDef, quotes, quoteText, quoteAuthor, quoteWork, pos } = this.extractCardDetails(card, rawContent);
+    const quoteList = quotes && quotes.length > 0
+      ? quotes
+      : (quoteText ? [{ quote: quoteText, author: quoteAuthor, work: quoteWork }] : []);
 
     contentEl.innerHTML = `
       <div>
@@ -1586,7 +1654,10 @@ class MobileVocabApp {
 
         <div class="daily-hint-blur ${this.dailyRevealed ? 'revealed' : ''}">
           <div class="tiktok-def-box" style="margin-top:10px;">
-            <div class="tiktok-def-title">📖 Core Definition</div>
+            <div class="tiktok-def-header-row">
+              <div class="tiktok-def-title">📖 Core Definition</div>
+              <div class="tiktok-def-status-mount" id="daily-card-apple-toggle-mount"></div>
+            </div>
             <div class="tiktok-def-text">${escapeHtml(defText)}</div>
             ${secondaryDef ? `
               <div class="tiktok-def-secondary">
@@ -1596,14 +1667,19 @@ class MobileVocabApp {
             ` : ''}
           </div>
 
-          ${quoteText ? `
-            <div class="tiktok-quote-box" style="margin-top:10px;">
-              <div class="tiktok-quote-text">“${escapeHtml(quoteText)}”</div>
-              ${(quoteAuthor || quoteWork) ? `
-                <div class="tiktok-quote-author">
-                  <span>— ${escapeHtml(quoteAuthor)}${quoteWork ? ` (*${escapeHtml(quoteWork)}*)` : ''}</span>
+          ${quoteList.length > 0 ? `
+            <div class="tiktok-quotes-stack" style="margin-top:10px;">
+              <div class="tiktok-quotes-header">💬 Literary & Contextual Citations (${quoteList.length})</div>
+              ${quoteList.map((q) => `
+                <div class="tiktok-quote-box">
+                  <div class="tiktok-quote-text">“${this.formatQuoteHtml(q.quote, card.name)}”</div>
+                  ${(q.author || q.work) ? `
+                    <div class="tiktok-quote-author">
+                      <span>— ${escapeHtml(q.author)}${q.work ? ` <em>(${escapeHtml(q.work)})</em>` : ''}</span>
+                    </div>
+                  ` : ''}
                 </div>
-              ` : ''}
+              `).join('')}
             </div>
           ` : ''}
         </div>
@@ -1632,6 +1708,19 @@ class MobileVocabApp {
         </div>
       </div>
     `;
+
+    // Mount Apple Glide status toggle at top of daily definition
+    const dailyAppleMount = contentEl.querySelector('#daily-card-apple-toggle-mount');
+    if (dailyAppleMount) {
+      const dailyToggle = createAppleStatusToggle(status, async (nextStatus) => {
+        this.setStatus(card.path, nextStatus);
+        contentEl.querySelectorAll('[data-daily-status]').forEach(b => {
+          const isMatch = b.dataset.dailyStatus === nextStatus;
+          b.className = isMatch ? `card-status-btn active ${nextStatus}` : 'card-status-btn';
+        });
+      });
+      dailyAppleMount.appendChild(dailyToggle);
+    }
 
     // Pronounce audio
     contentEl.querySelector('#btn-daily-pronounce')?.addEventListener('click', (e) => {

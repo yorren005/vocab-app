@@ -5,13 +5,6 @@ status: unread
 ---
 # apolemia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large siphonophore of up to 50 ft long.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large siphonophore of up to 50 ft long.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apolemia designates large siphonophore of up to 50 ft long."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large siphonophore of up to 50 ft long.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large siphonophore of up to 50 ft long.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apolemia designates large siphonophore of up to 50 ft long."*

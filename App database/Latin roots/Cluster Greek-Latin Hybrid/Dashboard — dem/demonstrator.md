@@ -5,15 +5,6 @@ status: unread
 ---
 # demonstrator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A teacher or teacher's assistant who demonstrates the principles that are being taught.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who demonstrates an article to a prospective buyer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Death outdone 42:15 The resurrection of the great demonstrator of God's power was the proof of his final triumph over body and matter, and gave full evidence of divine 42:18 Science, - evidence so important to mortals."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Heaven's sentinel The meek demonstrator of good, the highest instruc- 49:15 tor and friend of man, met his earthly fate alone with God."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"I fancy it means a demonstrator of anatomy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A teacher or teacher's assistant who demonstrates the principles that are being taught.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who demonstrates an article to a prospective buyer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Death outdone 42:15 The resurrection of the great demonstrator of God's power was the proof of his final triumph over body and matter, and gave full evidence of divine 42:18 Science, - evidence so important to mortals."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Heaven's sentinel The meek demonstrator of good, the highest instruc- 49:15 tor and friend of man, met his earthly fate alone with God."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"I fancy it means a demonstrator of anatomy."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # bathyscaphe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A navigable submersible for deep-sea exploration having a spherical watertight cabin attached to its underside.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A navigable submersible for deep-sea exploration having a spherical watertight cabin attached to its underside.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bathyscaphe designates a navigable submersible for deep-sea exploration having a spherical watertight cabin attached to its underside."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A navigable submersible for deep-sea exploration having a spherical watertight cabin attached to its underside.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A navigable submersible for deep-sea exploration having a spherical watertight cabin attached to its underside.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bathyscaphe designates a navigable submersible for deep-sea exploration having a spherical watertight cabin attached to its underside."*

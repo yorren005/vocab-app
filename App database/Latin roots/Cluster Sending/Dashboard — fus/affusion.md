@@ -5,13 +5,6 @@ status: unread
 ---
 # affusion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of baptizing someone by pouring water on their head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of baptizing someone by pouring water on their head.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, affusion designates the act of baptizing someone by pouring water on their head."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of baptizing someone by pouring water on their head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of baptizing someone by pouring water on their head.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, affusion designates the act of baptizing someone by pouring water on their head."*

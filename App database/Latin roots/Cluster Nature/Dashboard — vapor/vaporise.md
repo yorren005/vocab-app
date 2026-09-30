@@ -5,15 +5,6 @@ status: unread
 ---
 # vaporise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to change into a vapor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change into a vapor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"If the fuel be petrol it vaporises at the ordinary temperature of the engine and needs no added heat."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"By this means the gold is vaporised and a perfect coating of gold is laid upon the wax."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"But this simple arrangement for using vaporised oil, as will readily be seen, can be employed anywhere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to change into a vapor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change into a vapor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"If the fuel be petrol it vaporises at the ordinary temperature of the engine and needs no added heat."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"By this means the gold is vaporised and a perfect coating of gold is laid upon the wax."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"But this simple arrangement for using vaporised oil, as will readily be seen, can be employed anywhere."*

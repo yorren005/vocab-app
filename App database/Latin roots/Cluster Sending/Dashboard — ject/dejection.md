@@ -5,15 +5,6 @@ status: unread
 ---
 # dejection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of melancholy depression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Solid excretory product evacuated from the bowels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I felt all through the performance that he never looked at the actors but constantly looked at me, and always with a carefully prepared expression of the deepest misery and the profoundest dejection."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"For my little woman is a-listening somewheres, or I’ll forfeit the business and five hundred pound!” In deep dejection Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt was in his presence for some moments without being perceived, and he told me that he never could forget the haggardness of his face and the dejection of his manner before he was aroused from his dream."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of melancholy depression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Solid excretory product evacuated from the bowels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I felt all through the performance that he never looked at the actors but constantly looked at me, and always with a carefully prepared expression of the deepest misery and the profoundest dejection."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"For my little woman is a-listening somewheres, or I’ll forfeit the business and five hundred pound!” In deep dejection Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt was in his presence for some moments without being perceived, and he told me that he never could forget the haggardness of his face and the dejection of his manner before he was aroused from his dream."*

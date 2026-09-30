@@ -5,15 +5,6 @@ status: unread
 ---
 # reclamation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The conversion of wasteland into land suitable for use of habitation or cultivation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rescuing from error and returning to a rightful course.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The reclamation of dunams of waste arenary soil, proposed in the prospectus of Agendath Netaim, Bleibtreustrasse, Berlin, W. 15, by the cultivation of orange plantations and melonfields and reafforestation."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"In the summer of 1892 I began to seek God earnestly, and was not long in finding pardon and reclamation."*
-> - 📜 **Charles Dickens (*A Christmas Carol in Prose; Being a Ghost Story of Christmas*):** *"The Spirit must have heard him thinking, for it said immediately: "Your reclamation, then."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The conversion of wasteland into land suitable for use of habitation or cultivation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rescuing from error and returning to a rightful course.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"The reclamation of dunams of waste arenary soil, proposed in the prospectus of Agendath Netaim, Bleibtreustrasse, Berlin, W. 15, by the cultivation of orange plantations and melonfields and reafforestation."*
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"In the summer of 1892 I began to seek God earnestly, and was not long in finding pardon and reclamation."*
+> - 📜 **Charles Dickens (*A Christmas Carol in Prose; Being a Ghost Story of Christmas*):** *"The Spirit must have heard him thinking, for it said immediately: "Your reclamation, then."*

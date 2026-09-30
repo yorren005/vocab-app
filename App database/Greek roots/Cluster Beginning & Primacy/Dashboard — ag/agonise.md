@@ -5,15 +5,6 @@ status: unread
 ---
 # agonise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to agonize.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffer agony or anguish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"How would your spirits groan in deep vexation, To see each melancholy alteration; And, agonising, curse the time and place When ye begat the base degen’rate race!"*
-> - 📜 **Bram Stoker (*Dracula*):** *"We have had such an adventure, such an agonising experience."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I seem to remember that once the West Lighthouse was right under me, and then there was a sort of agonising feeling, as if I were in an earthquake, and I came back and found you shaking my body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to agonize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffer agony or anguish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"How would your spirits groan in deep vexation, To see each melancholy alteration; And, agonising, curse the time and place When ye begat the base degen’rate race!"*
+> - 📜 **Bram Stoker (*Dracula*):** *"We have had such an adventure, such an agonising experience."*
+> - 📜 **Bram Stoker (*Dracula*):** *"I seem to remember that once the West Lighthouse was right under me, and then there was a sort of agonising feeling, as if I were in an earthquake, and I came back and found you shaking my body."*

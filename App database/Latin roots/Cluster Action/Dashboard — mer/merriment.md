@@ -5,15 +5,6 @@ status: unread
 ---
 # merriment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gay feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Activities that are enjoyable or amusing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where be your gibes now? your gambols? your songs? your flashes of merriment, that were wont to set the table on a roar?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, he will drive you out of your revenge and turn all to a merriment, if you take not the heat."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They do it but in mocking merriment, And mock for mock is only my intent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gay feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Activities that are enjoyable or amusing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where be your gibes now? your gambols? your songs? your flashes of merriment, that were wont to set the table on a roar?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, he will drive you out of your revenge and turn all to a merriment, if you take not the heat."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They do it but in mocking merriment, And mock for mock is only my intent."*

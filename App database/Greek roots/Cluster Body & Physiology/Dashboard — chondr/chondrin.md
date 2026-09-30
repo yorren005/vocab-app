@@ -5,13 +5,6 @@ status: unread
 ---
 # chondrin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that resembles gelatin and is obtained by boiling cartilage in water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance that resembles gelatin and is obtained by boiling cartilage in water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chondrin designates a substance that resembles gelatin and is obtained by boiling cartilage in water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that resembles gelatin and is obtained by boiling cartilage in water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance that resembles gelatin and is obtained by boiling cartilage in water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chondrin designates a substance that resembles gelatin and is obtained by boiling cartilage in water."*

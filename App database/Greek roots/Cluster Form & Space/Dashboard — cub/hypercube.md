@@ -5,13 +5,6 @@ status: unread
 ---
 # hypercube
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A geometric figure (such as a tesseract) in Euclidean space of n dimensions that is analogous to a cube in three dimensions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A computer architecture in which each processor is connected to n others based on analogy to a hypercube of n dimensions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercube designates a geometric figure (such as a tesseract) in euclidean space of n dimensions that is analogous to a cube in three dimensions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A geometric figure (such as a tesseract) in Euclidean space of n dimensions that is analogous to a cube in three dimensions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A computer architecture in which each processor is connected to n others based on analogy to a hypercube of n dimensions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercube designates a geometric figure (such as a tesseract) in euclidean space of n dimensions that is analogous to a cube in three dimensions."*

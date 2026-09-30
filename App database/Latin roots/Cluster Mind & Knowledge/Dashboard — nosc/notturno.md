@@ -5,13 +5,6 @@ status: unread
 ---
 # notturno
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pensive lyrical piece of music (especially for the piano).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pensive lyrical piece of music (especially for the piano).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notturno designates a pensive lyrical piece of music (especially for the piano)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pensive lyrical piece of music (especially for the piano).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pensive lyrical piece of music (especially for the piano).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notturno designates a pensive lyrical piece of music (especially for the piano)."*

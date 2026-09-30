@@ -5,13 +5,6 @@ status: unread
 ---
 # muntingia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: jamaican cherry; sometimes placed in family flacourtiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: jamaican cherry; sometimes placed in family flacourtiaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muntingia designates one species: jamaican cherry; sometimes placed in family flacourtiaceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: jamaican cherry; sometimes placed in family flacourtiaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: jamaican cherry; sometimes placed in family flacourtiaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muntingia designates one species: jamaican cherry; sometimes placed in family flacourtiaceae."*

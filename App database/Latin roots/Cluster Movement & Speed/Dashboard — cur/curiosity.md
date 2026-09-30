@@ -5,15 +5,6 @@ status: unread
 ---
 # curiosity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in which you want to learn more about something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something unusual -- perhaps worthy of collecting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It did always seem so to us; but now, in the division of the kingdom, it appears not which of the Dukes he values most, for qualities are so weighed that curiosity in neither can make choice of either’s moiety."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wherefore should I Stand in the plague of custom, and permit The curiosity of nations to deprive me?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou but rememberest me of mine own conception: I have perceived a most faint neglect of late; which I have rather blamed as mine own jealous curiosity than as a very pretence and purpose of unkindness: I will look further into’t."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in which you want to learn more about something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something unusual -- perhaps worthy of collecting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It did always seem so to us; but now, in the division of the kingdom, it appears not which of the Dukes he values most, for qualities are so weighed that curiosity in neither can make choice of either’s moiety."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wherefore should I Stand in the plague of custom, and permit The curiosity of nations to deprive me?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou but rememberest me of mine own conception: I have perceived a most faint neglect of late; which I have rather blamed as mine own jealous curiosity than as a very pretence and purpose of unkindness: I will look further into’t."*

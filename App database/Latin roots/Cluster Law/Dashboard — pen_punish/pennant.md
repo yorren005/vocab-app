@@ -5,15 +5,6 @@ status: unread
 ---
 # pennant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The award given to the champion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flag longer than it is wide (and often tapering).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Boemus, _Mores, leges et ritus omnium gentium_ (Lyons, 1541), p. 222; John Brand, _Popular Antiquities of Great Britain_ (London, 1882-1883), i. 22 _sq.; The Scapegoat_, pp. 313 _sqq._ [377] Shaw, in Pennant's "Tour in Scotland," printed in J."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Shaw, Minister of Elgin, in Pennant's "Tour in Scotland," printed in John Pinkerton's _Voyages and Travels_ (London, 1808-1814), iii. 136. [529] A."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Goodrich-Freer, "More Folklore from the Hebrides," _Folk-lore_, xiii. (1902) p. 55. [614] Pennant's manuscript, quoted by J."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The award given to the champion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flag longer than it is wide (and often tapering).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Boemus, _Mores, leges et ritus omnium gentium_ (Lyons, 1541), p. 222; John Brand, _Popular Antiquities of Great Britain_ (London, 1882-1883), i. 22 _sq.; The Scapegoat_, pp. 313 _sqq._ [377] Shaw, in Pennant's "Tour in Scotland," printed in J."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Shaw, Minister of Elgin, in Pennant's "Tour in Scotland," printed in John Pinkerton's _Voyages and Travels_ (London, 1808-1814), iii. 136. [529] A."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Goodrich-Freer, "More Folklore from the Hebrides," _Folk-lore_, xiii. (1902) p. 55. [614] Pennant's manuscript, quoted by J."*

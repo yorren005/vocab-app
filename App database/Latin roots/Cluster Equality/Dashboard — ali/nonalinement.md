@@ -5,13 +5,6 @@ status: unread
 ---
 # nonalinement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: People (or countries) who are not aligned with other people (or countries) in a pact or treaty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: People (or countries) who are not aligned with other people (or countries) in a pact or treaty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonalinement designates people (or countries) who are not aligned with other people (or countries) in a pact or treaty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: People (or countries) who are not aligned with other people (or countries) in a pact or treaty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: People (or countries) who are not aligned with other people (or countries) in a pact or treaty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonalinement designates people (or countries) who are not aligned with other people (or countries) in a pact or treaty."*

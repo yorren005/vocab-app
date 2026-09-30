@@ -5,13 +5,6 @@ status: unread
 ---
 # salientia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Frogs, toads, tree toads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frogs, toads, tree toads.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salientia designates frogs, toads, tree toads."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Frogs, toads, tree toads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frogs, toads, tree toads.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salientia designates frogs, toads, tree toads."*

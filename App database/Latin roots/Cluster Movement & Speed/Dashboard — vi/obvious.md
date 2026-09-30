@@ -5,15 +5,6 @@ status: unread
 ---
 # obvious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily perceived by the senses or grasped by the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily perceived by the senses or grasped by the mind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He listened to himself with obvious satisfaction and sometimes gently beat time to his own music with his head or rounded a sentence with his hand."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pardon me for saying what is so obvious, but I wouldn’t have it hastily supposed,” with the least turn of his eyes towards Sir Leicester, “that I am ashamed of my mother’s position here, or wanting in all just respect for Chesney Wold and the family."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Soon soft spirts alternating with loud spirts came in regular succession from within the shed, the obvious sounds of a person milking a cow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily perceived by the senses or grasped by the mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily perceived by the senses or grasped by the mind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He listened to himself with obvious satisfaction and sometimes gently beat time to his own music with his head or rounded a sentence with his hand."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Pardon me for saying what is so obvious, but I wouldn’t have it hastily supposed,” with the least turn of his eyes towards Sir Leicester, “that I am ashamed of my mother’s position here, or wanting in all just respect for Chesney Wold and the family."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Soon soft spirts alternating with loud spirts came in regular succession from within the shed, the obvious sounds of a person milking a cow."*

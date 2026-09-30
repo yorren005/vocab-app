@@ -5,13 +5,6 @@ status: unread
 ---
 # tribology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of engineering that deals with the interaction of surfaces in relative motion (as in bearings or gears): their design and friction and wear and lubrication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of engineering that deals with the interaction of surfaces in relative motion (as in bearings or gears): their design and friction and wear and lubrication.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribology designates the branch of engineering that deals with the interaction of surfaces in relative motion (as in bearings or gears): their design and friction and wear and lubrication."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of engineering that deals with the interaction of surfaces in relative motion (as in bearings or gears): their design and friction and wear and lubrication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of engineering that deals with the interaction of surfaces in relative motion (as in bearings or gears): their design and friction and wear and lubrication.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribology designates the branch of engineering that deals with the interaction of surfaces in relative motion (as in bearings or gears): their design and friction and wear and lubrication."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # anesthetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that causes temporary loss of bodily sensations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or producing insensibility.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"It was rapid and deft work, they admitted, especially since the surgeon was using another man's splints, and the patient proved to be one of the subjects who fight the anesthetic from beginning to end."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that causes temporary loss of bodily sensations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or producing insensibility.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"It was rapid and deft work, they admitted, especially since the surgeon was using another man's splints, and the patient proved to be one of the subjects who fight the anesthetic from beginning to end."*

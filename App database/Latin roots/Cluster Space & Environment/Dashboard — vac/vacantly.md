@@ -5,15 +5,6 @@ status: unread
 ---
 # vacantly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vacant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a vacant manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whatever is the matter?” said Oak, vacantly."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She had sunk down on the lowest stair; and there she sat, her mouth blue and dry, and her dark eyes fixed vacantly upon him, as if she wondered whether it were not all a terrible illusion."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And yet—” He looked vacantly at her, to resume with dazed senses: “Why didn’t you tell me before?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vacant manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a vacant manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whatever is the matter?” said Oak, vacantly."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She had sunk down on the lowest stair; and there she sat, her mouth blue and dry, and her dark eyes fixed vacantly upon him, as if she wondered whether it were not all a terrible illusion."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And yet—” He looked vacantly at her, to resume with dazed senses: “Why didn’t you tell me before?"*

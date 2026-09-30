@@ -5,13 +5,6 @@ status: unread
 ---
 # spiranthes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large cosmopolitan genus of white-flowered terrestrial orchids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large cosmopolitan genus of white-flowered terrestrial orchids.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spiranthes designates large cosmopolitan genus of white-flowered terrestrial orchids."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large cosmopolitan genus of white-flowered terrestrial orchids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large cosmopolitan genus of white-flowered terrestrial orchids.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spiranthes designates large cosmopolitan genus of white-flowered terrestrial orchids."*

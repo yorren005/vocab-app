@@ -5,13 +5,6 @@ status: unread
 ---
 # microsporidian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Parasite of arthropods and fishes that invade and destroy host cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasite of arthropods and fishes that invade and destroy host cells.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microsporidian designates parasite of arthropods and fishes that invade and destroy host cells."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Parasite of arthropods and fishes that invade and destroy host cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasite of arthropods and fishes that invade and destroy host cells.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microsporidian designates parasite of arthropods and fishes that invade and destroy host cells."*

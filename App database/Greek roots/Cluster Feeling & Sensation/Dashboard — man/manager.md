@@ -5,15 +5,6 @@ status: unread
 ---
 # manager
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who controls resources and expenditures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (sports) someone in charge of training an athlete or a team.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Adieu, valour; rust, rapier; be still, drum, for your manager is in love."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where is our usual manager of mirth?"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Through the Baroness' help he was already filling the post of manager of an estate in the far north."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who controls resources and expenditures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (sports) someone in charge of training an athlete or a team.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Adieu, valour; rust, rapier; be still, drum, for your manager is in love."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where is our usual manager of mirth?"*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Through the Baroness' help he was already filling the post of manager of an estate in the far north."*

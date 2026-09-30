@@ -5,13 +5,6 @@ status: unread
 ---
 # reportage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The news as presented by reporters for newspapers or radio or television.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The news as presented by reporters for newspapers or radio or television.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reportage designates the news as presented by reporters for newspapers or radio or television."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The news as presented by reporters for newspapers or radio or television.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The news as presented by reporters for newspapers or radio or television.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reportage designates the news as presented by reporters for newspapers or radio or television."*

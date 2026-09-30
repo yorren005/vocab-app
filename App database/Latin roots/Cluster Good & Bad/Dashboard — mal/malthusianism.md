@@ -5,13 +5,6 @@ status: unread
 ---
 # malthusianism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Malthus' theory that population increase would outpace increases in the means of subsistence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Malthus' theory that population increase would outpace increases in the means of subsistence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malthusianism designates malthus' theory that population increase would outpace increases in the means of subsistence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Malthus' theory that population increase would outpace increases in the means of subsistence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Malthus' theory that population increase would outpace increases in the means of subsistence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malthusianism designates malthus' theory that population increase would outpace increases in the means of subsistence."*

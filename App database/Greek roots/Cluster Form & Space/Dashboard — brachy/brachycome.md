@@ -5,13 +5,6 @@ status: unread
 ---
 # brachycome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly australian herbs having basal or alternate leaves and loosely corymbose flower heads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly australian herbs having basal or alternate leaves and loosely corymbose flower heads.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachycome designates mostly australian herbs having basal or alternate leaves and loosely corymbose flower heads."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly australian herbs having basal or alternate leaves and loosely corymbose flower heads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly australian herbs having basal or alternate leaves and loosely corymbose flower heads.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachycome designates mostly australian herbs having basal or alternate leaves and loosely corymbose flower heads."*

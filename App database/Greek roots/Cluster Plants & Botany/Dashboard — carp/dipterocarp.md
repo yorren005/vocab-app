@@ -5,13 +5,6 @@ status: unread
 ---
 # dipterocarp
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a family (Dipterocarpaceae) of tall hardwood tropical trees chiefly of southeastern Asia that have a 2-winged fruit and are the source of valuable timber, aromatic oils, and resins; especially : a tree of the type genus (Dipterocarpus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a family (Dipterocarpaceae) of tall hardwood tropical trees chiefly of southeastern Asia that have a 2-winged fruit and are the source of valuable timber, aromatic oils, and resins; especially : a tree of the type genus (Dipterocarpus).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dipterocarp designates any of a family (dipterocarpaceae) of tall hardwood tropical trees chiefly of southeastern asia that have a 2-winged fruit and are the source of valuable timber, aromatic oils, and resins; especially : a tree of the type genus (dipterocarpus)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a family (Dipterocarpaceae) of tall hardwood tropical trees chiefly of southeastern Asia that have a 2-winged fruit and are the source of valuable timber, aromatic oils, and resins; especially : a tree of the type genus (Dipterocarpus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a family (Dipterocarpaceae) of tall hardwood tropical trees chiefly of southeastern Asia that have a 2-winged fruit and are the source of valuable timber, aromatic oils, and resins; especially : a tree of the type genus (Dipterocarpus).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dipterocarp designates any of a family (dipterocarpaceae) of tall hardwood tropical trees chiefly of southeastern asia that have a 2-winged fruit and are the source of valuable timber, aromatic oils, and resins; especially : a tree of the type genus (dipterocarpus)."*

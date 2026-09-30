@@ -5,13 +5,6 @@ status: unread
 ---
 # cellulite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lumpy deposits of body fat especially on women's thighs etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lumpy deposits of body fat especially on women's thighs etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cellulite designates lumpy deposits of body fat especially on women's thighs etc."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lumpy deposits of body fat especially on women's thighs etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lumpy deposits of body fat especially on women's thighs etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cellulite designates lumpy deposits of body fat especially on women's thighs etc."*

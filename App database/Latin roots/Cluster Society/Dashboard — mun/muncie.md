@@ -5,13 +5,6 @@ status: unread
 ---
 # muncie
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in east central indiana.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in east central indiana.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muncie designates a town in east central indiana."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in east central indiana.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in east central indiana.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muncie designates a town in east central indiana."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # saltate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move by saltation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leap or skip, often in dancing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltate designates move by saltation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move by saltation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leap or skip, often in dancing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltate designates move by saltation."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # falstaff
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dissolute character in shakespeare's plays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dissolute character in shakespeare's plays.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Prince Henry and Sir John Falstaff."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, All-hallown summer! [_Exit Falstaff._] POINS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Falstaff, Bardolph, Peto, and Gadshill shall rob those men that we have already waylaid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dissolute character in shakespeare's plays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dissolute character in shakespeare's plays.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Prince Henry and Sir John Falstaff."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, All-hallown summer! [_Exit Falstaff._] POINS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Falstaff, Bardolph, Peto, and Gadshill shall rob those men that we have already waylaid."*

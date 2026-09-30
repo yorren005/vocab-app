@@ -5,14 +5,6 @@ status: unread
 ---
 # judea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The southern part of ancient palestine succeeding the kingdom of judah; a roman province at the time of christ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The southern part of ancient palestine succeeding the kingdom of judah; a roman province at the time of christ.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Did the heavenly host descend in rapture, and cause the mountains of Judea to reecho with their acclamations, because a _dependent creature_ had _consented_ to do his Maker's will?"*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"One thing Robin More had told him remained in his mind and captured his fancy, and that was that Pontius Pilate had been governor of Marseilles after his office in Judea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The southern part of ancient palestine succeeding the kingdom of judah; a roman province at the time of christ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The southern part of ancient palestine succeeding the kingdom of judah; a roman province at the time of christ.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Did the heavenly host descend in rapture, and cause the mountains of Judea to reecho with their acclamations, because a _dependent creature_ had _consented_ to do his Maker's will?"*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"One thing Robin More had told him remained in his mind and captured his fancy, and that was that Pontius Pilate had been governor of Marseilles after his office in Judea."*

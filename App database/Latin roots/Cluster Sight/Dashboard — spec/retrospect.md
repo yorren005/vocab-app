@@ -5,15 +5,6 @@ status: unread
 ---
 # retrospect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Contemplation of things past.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Look back upon (a period of time, sequence of events); remember.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"She would have fixed him; she would have made him happy for ever.’ My dearest Fanny, I am giving you, I hope, more pleasure than pain by this retrospect of what might have been—but what never can be now."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"How often thus the morn of life, "In dim eclipse disastrous twilight sheds." A twilight not dispelled until the light dawns on a retrospect whose bitterness could not be borne unless seen side by side with the other picture of Paradise."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"It seems to me indeed, in retrospect, that by the time the morrow’s sun was high I had restlessly read into the facts before us almost all the meaning they were to receive from subsequent and more cruel occurrences."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contemplation of things past.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Look back upon (a period of time, sequence of events); remember.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"She would have fixed him; she would have made him happy for ever.’ My dearest Fanny, I am giving you, I hope, more pleasure than pain by this retrospect of what might have been—but what never can be now."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"How often thus the morn of life, "In dim eclipse disastrous twilight sheds." A twilight not dispelled until the light dawns on a retrospect whose bitterness could not be borne unless seen side by side with the other picture of Paradise."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"It seems to me indeed, in retrospect, that by the time the morrow’s sun was high I had restlessly read into the facts before us almost all the meaning they were to receive from subsequent and more cruel occurrences."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # immovability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being moved or rearranged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being moved or rearranged.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius had been absorbed in their violent altercation and had stared at each other, she in wild excitement and he in stiff immovability, Mäzli had slipped from between the two as swiftly as a little mouse."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"They confronted each other with the pitiless immovability of two statues in whose marble lineaments emotions were fixed for all eternity."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In astronomy it was the immovability of the earth, in history it is the independence of personality—free will."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being moved or rearranged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being moved or rearranged.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius had been absorbed in their violent altercation and had stared at each other, she in wild excitement and he in stiff immovability, Mäzli had slipped from between the two as swiftly as a little mouse."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"They confronted each other with the pitiless immovability of two statues in whose marble lineaments emotions were fixed for all eternity."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In astronomy it was the immovability of the earth, in history it is the independence of personality—free will."*

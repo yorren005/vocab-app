@@ -5,15 +5,6 @@ status: unread
 ---
 # protruding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extend out or project in space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bulge outward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The lid of the bag was thrust open and a thick unwieldy object which did not fit into it was protruding."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The figure that now stood by its bows was tall and swart, with one white tooth evilly protruding from its steel-like lips."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"His lip had fallen, his eyes were protruding, his skin the colour of putty, and he glared at the envelope which he still held in his trembling hand, ‘K."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extend out or project in space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bulge outward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The lid of the bag was thrust open and a thick unwieldy object which did not fit into it was protruding."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The figure that now stood by its bows was tall and swart, with one white tooth evilly protruding from its steel-like lips."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"His lip had fallen, his eyes were protruding, his skin the colour of putty, and he glared at the envelope which he still held in his trembling hand, ‘K."*

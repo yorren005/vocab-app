@@ -5,15 +5,6 @@ status: unread
 ---
 # preeminence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: High status importance owing to marked superiority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High status importance owing to marked superiority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It was not many decades since the study of Latin and Roman institutions had been forced to yield preeminence of position in Germany to the study of Greek."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Nor is it to be imagined, if this obstacle could be surmounted, that the neighboring powers would suffer a revolution to take place which would give to the empire the force and preeminence to which it is entitled."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Each of the three has some special claim to preeminence, but the greatest of them is Hankow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: High status importance owing to marked superiority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High status importance owing to marked superiority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It was not many decades since the study of Latin and Roman institutions had been forced to yield preeminence of position in Germany to the study of Greek."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Nor is it to be imagined, if this obstacle could be surmounted, that the neighboring powers would suffer a revolution to take place which would give to the empire the force and preeminence to which it is entitled."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Each of the three has some special claim to preeminence, but the greatest of them is Hankow."*

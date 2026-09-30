@@ -5,14 +5,6 @@ status: unread
 ---
 # trauma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An injury (such as a wound) to living tissue caused by an extrinsic agent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disordered psychic or behavioral state resulting from severe mental or emotional stress or physical injury.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I can give you a quick rundown on each now, if you wish." "I do." "Myra is a logistician and a Medic certified to Level 4 in space-related trauma, physical and psychological."*
-> - 📜 **James Joyce (*Ulysses*):** *"Got a pectoral trauma, eh, Dix?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An injury (such as a wound) to living tissue caused by an extrinsic agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disordered psychic or behavioral state resulting from severe mental or emotional stress or physical injury.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I can give you a quick rundown on each now, if you wish." "I do." "Myra is a logistician and a Medic certified to Level 4 in space-related trauma, physical and psychological."*
+> - 📜 **James Joyce (*Ulysses*):** *"Got a pectoral trauma, eh, Dix?"*

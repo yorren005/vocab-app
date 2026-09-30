@@ -5,13 +5,6 @@ status: unread
 ---
 # referral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose case has been referred to a specialist or professional group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recommendation to consult the (professional) person or group to whom one has been referred.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Each MAJCOM will ensure that all squadron commanders receive training in basic suicide risk factor identification and referral procedures for at risk personnel as part of the new squadron commanders course."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose case has been referred to a specialist or professional group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recommendation to consult the (professional) person or group to whom one has been referred.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Each MAJCOM will ensure that all squadron commanders receive training in basic suicide risk factor identification and referral procedures for at risk personnel as part of the new squadron commanders course."*

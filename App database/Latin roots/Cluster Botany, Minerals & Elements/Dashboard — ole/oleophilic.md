@@ -5,13 +5,6 @@ status: unread
 ---
 # oleophilic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a strong affinity for oils rather than water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a strong affinity for oils rather than water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oleophilic designates having a strong affinity for oils rather than water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a strong affinity for oils rather than water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a strong affinity for oils rather than water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oleophilic designates having a strong affinity for oils rather than water."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # stereophonic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or constituting sound reproduction involving the use of separated microphones and two transmission channels to achieve the sound separation of a live hearing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or constituting sound reproduction involving the use of separated microphones and two transmission channels to achieve the sound separation of a live hearing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereophonic designates of, relating to, or constituting sound reproduction involving the use of separated microphones and two transmission channels to achieve the sound separation of a live hearing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or constituting sound reproduction involving the use of separated microphones and two transmission channels to achieve the sound separation of a live hearing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or constituting sound reproduction involving the use of separated microphones and two transmission channels to achieve the sound separation of a live hearing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereophonic designates of, relating to, or constituting sound reproduction involving the use of separated microphones and two transmission channels to achieve the sound separation of a live hearing."*

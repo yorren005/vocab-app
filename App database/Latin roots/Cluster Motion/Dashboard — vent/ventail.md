@@ -5,13 +5,6 @@ status: unread
 ---
 # ventail
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medieval hood of mail suspended from a basinet to protect the head and neck.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medieval hood of mail suspended from a basinet to protect the head and neck.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventail designates a medieval hood of mail suspended from a basinet to protect the head and neck."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medieval hood of mail suspended from a basinet to protect the head and neck.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medieval hood of mail suspended from a basinet to protect the head and neck.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventail designates a medieval hood of mail suspended from a basinet to protect the head and neck."*

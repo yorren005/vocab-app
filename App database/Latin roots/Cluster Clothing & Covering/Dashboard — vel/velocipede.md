@@ -5,13 +5,6 @@ status: unread
 ---
 # velocipede
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several early bicycles with pedals on the front wheel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vehicle with three wheels that is moved by foot pedals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"When countrybound velocipedes, a chainless freewheel roadster cycle with side basketcar attached, or draught conveyance, a donkey with wicker trap or smart phaeton with good working solidungular cob (roan gelding, 14 h)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several early bicycles with pedals on the front wheel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vehicle with three wheels that is moved by foot pedals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"When countrybound velocipedes, a chainless freewheel roadster cycle with side basketcar attached, or draught conveyance, a donkey with wicker trap or smart phaeton with good working solidungular cob (roan gelding, 14 h)."*

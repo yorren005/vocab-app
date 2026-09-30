@@ -5,15 +5,6 @@ status: unread
 ---
 # renew
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reestablish on a new, usually improved, basis or make new or like new.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to appear in a new form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore shall he die, And I’ll renew me in his fall."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good news, gods! [_Reads._] _Justice and your father’s wrath, should he take me in his dominion, could not be so cruel to me as you, O the dearest of creatures, would even renew me with your eyes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Renew thy strength; I had rather thou shouldst live while nature will Than die ere I hear more."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reestablish on a new, usually improved, basis or make new or like new.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to appear in a new form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore shall he die, And I’ll renew me in his fall."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good news, gods! [_Reads._] _Justice and your father’s wrath, should he take me in his dominion, could not be so cruel to me as you, O the dearest of creatures, would even renew me with your eyes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Renew thy strength; I had rather thou shouldst live while nature will Than die ere I hear more."*

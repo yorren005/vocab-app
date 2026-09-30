@@ -5,15 +5,6 @@ status: unread
 ---
 # umbrella
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lightweight handheld collapsible canopy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formation of military planes maintained over ground operations or targets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"What college could you leave—in another quarter of the world—with nothing but a grey cloak and an umbrella—to make its way home to Europe?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The old girl’s umbrella is of a flabby habit of waist and seems to be in need of stays—an appearance that is possibly referable to its having served through a series of years at home as a cupboard and on journeys as a carpet bag."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet, with her cloak, basket, and umbrella, goes home, bright-eyed again, to the rest of her family, and the comrades sally forth on the hopeful errand of mollifying Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lightweight handheld collapsible canopy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formation of military planes maintained over ground operations or targets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"What college could you leave—in another quarter of the world—with nothing but a grey cloak and an umbrella—to make its way home to Europe?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old girl’s umbrella is of a flabby habit of waist and seems to be in need of stays—an appearance that is possibly referable to its having served through a series of years at home as a cupboard and on journeys as a carpet bag."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet, with her cloak, basket, and umbrella, goes home, bright-eyed again, to the rest of her family, and the comrades sally forth on the hopeful errand of mollifying Mr."*

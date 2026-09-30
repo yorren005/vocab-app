@@ -5,13 +5,6 @@ status: unread
 ---
 # ectomorphic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the component in W. H. Sheldon's classification of body types that measures the body's degree of slenderness, angularity, and fragility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by a lean slender body build with slight muscular development.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectomorphic designates of or relating to the component in w. h. sheldon's classification of body types that measures the body's degree of slenderness, angularity, and fragility."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the component in W. H. Sheldon's classification of body types that measures the body's degree of slenderness, angularity, and fragility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by a lean slender body build with slight muscular development.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectomorphic designates of or relating to the component in w. h. sheldon's classification of body types that measures the body's degree of slenderness, angularity, and fragility."*

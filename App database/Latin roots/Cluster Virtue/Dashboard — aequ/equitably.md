@@ -5,15 +5,6 @@ status: unread
 ---
 # equitably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an equitable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an equitable manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The king, Raa Kook, is at least six inches above six feet, and though he would weigh fully three hundred pounds, is so equitably proportioned that one could not call him fat."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"It was decided that Harry had been punished equitably for his offense against Lemuel Dalton as an _individual_."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The matter was settled at the time, and by the competent authorities,—equitably, it is to be presumed,—and, at all events, irrevocably."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an equitable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an equitable manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The king, Raa Kook, is at least six inches above six feet, and though he would weigh fully three hundred pounds, is so equitably proportioned that one could not call him fat."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"It was decided that Harry had been punished equitably for his offense against Lemuel Dalton as an _individual_."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The matter was settled at the time, and by the competent authorities,—equitably, it is to be presumed,—and, at all events, irrevocably."*

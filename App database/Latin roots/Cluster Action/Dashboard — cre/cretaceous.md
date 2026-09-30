@@ -5,15 +5,6 @@ status: unread
 ---
 # cretaceous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From 135 million to 63 million years ago; end of the age of reptiles; appearance of modern insects and flowering plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abounding in chalk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Flintcomb-Ash being in the middle of the cretaceous tableland over which no railway had climbed as yet, it would be necessary to walk."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"It may be that he swept back into the past, and fell among the blood-drinking, hairy savages of the Age of Unpolished Stone; into the abysses of the Cretaceous Sea; or among the grotesque saurians, the huge reptilian brutes of the Jurassic times."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"When the professor said a particular rock belonged to the cretaceous formation, one might safely conclude that no modern influences had been at work either on that rock or in that vicinity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From 135 million to 63 million years ago; end of the age of reptiles; appearance of modern insects and flowering plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abounding in chalk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Flintcomb-Ash being in the middle of the cretaceous tableland over which no railway had climbed as yet, it would be necessary to walk."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"It may be that he swept back into the past, and fell among the blood-drinking, hairy savages of the Age of Unpolished Stone; into the abysses of the Cretaceous Sea; or among the grotesque saurians, the huge reptilian brutes of the Jurassic times."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"When the professor said a particular rock belonged to the cretaceous formation, one might safely conclude that no modern influences had been at work either on that rock or in that vicinity."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # rotary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A road junction at which traffic streams circularly around a central island.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electrical converter consisting of a synchronous machine that converts alternating to direct current or vice versa.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In the middle of one of the longest sentences, he stopped the rotary motion of the snuffbox, raised his head, and with inimical politeness lurking in the corners of his thin lips interrupted Weyrother, wishing to say something."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Such improvements have, however, been made in rotary-blowing appliances within recent years that most blast-furnace plants are equipped with blowers of the rotary type, which are found highly satisfactory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A road junction at which traffic streams circularly around a central island.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electrical converter consisting of a synchronous machine that converts alternating to direct current or vice versa.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In the middle of one of the longest sentences, he stopped the rotary motion of the snuffbox, raised his head, and with inimical politeness lurking in the corners of his thin lips interrupted Weyrother, wishing to say something."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Such improvements have, however, been made in rotary-blowing appliances within recent years that most blast-furnace plants are equipped with blowers of the rotary type, which are found highly satisfactory."*

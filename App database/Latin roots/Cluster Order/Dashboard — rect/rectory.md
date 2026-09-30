@@ -5,15 +5,6 @@ status: unread
 ---
 # rectory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official residence provided by a church for its parson or vicar or rector.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official residence provided by a church for its parson or vicar or rector.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Since her husband's death, when she had left the rectory in the valley and had come back to her old home, all her friends called her Mrs."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Apollonie, a young girl then, had always been her messenger, and everyone liked to see her at the rectory."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Lise from the rectory brought it," was Lippo's information."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official residence provided by a church for its parson or vicar or rector.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official residence provided by a church for its parson or vicar or rector.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Since her husband's death, when she had left the rectory in the valley and had come back to her old home, all her friends called her Mrs."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Apollonie, a young girl then, had always been her messenger, and everyone liked to see her at the rectory."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Lise from the rectory brought it," was Lippo's information."*

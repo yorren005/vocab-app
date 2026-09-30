@@ -5,13 +5,6 @@ status: unread
 ---
 # antiapartheid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposing the policy of apartheid in south africa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposing the policy of apartheid in south africa.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiapartheid designates opposing the policy of apartheid in south africa."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposing the policy of apartheid in south africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposing the policy of apartheid in south africa.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiapartheid designates opposing the policy of apartheid in south africa."*

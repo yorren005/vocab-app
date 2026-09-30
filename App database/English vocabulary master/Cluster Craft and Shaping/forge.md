@@ -5,20 +5,6 @@ status: unread
 ---
 # forge
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Form or create with concerted effort
-> 2. **Nuance / Usage**: Form (something, such as metal) by heating and hammering
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"had no shadow of defence, for Joe was busy in the forge,—when Mr."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"initial letter), and ran into the forge, followed by Joe and me."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"so often between the forge and Miss Havisham’s, and Biddy and Estella."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Form or create with concerted effort
+> 2. **Nuance / Usage**: Form (something, such as metal) by heating and hammering
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"had no shadow of defence, for Joe was busy in the forge,—when Mr."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"initial letter), and ran into the forge, followed by Joe and me."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"so often between the forge and Miss Havisham’s, and Biddy and Estella."*

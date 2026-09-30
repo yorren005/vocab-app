@@ -5,13 +5,6 @@ status: unread
 ---
 # gymnospermophyta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plants having naked seeds not enclosed in an ovary; in some systems considered a class (gymnospermae) and in others a division (gymnospermophyta); comprises three subdivisions (or classes): cycadophytina (class cycadopsida) and gnetophytina (class gnetopsida) and coniferophytina (class coniferopsida); in some classifications the coniferophytina are divided into three groups: pinophytina (class pinopsida) and ginkgophytina (class ginkgopsida) and taxophytina (class taxopsida).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plants having naked seeds not enclosed in an ovary; in some systems considered a class (gymnospermae) and in others a division (gymnospermophyta); comprises three subdivisions (or classes): cycadophytina (class cycadopsida) and gnetophytina (class gnetopsida) and coniferophytina (class coniferopsida); in some classifications the coniferophytina are divided into three groups: pinophytina (class pinopsida) and ginkgophytina (class ginkgopsida) and taxophytina (class taxopsida).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnospermophyta designates plants having naked seeds not enclosed in an ovary; in some systems considered a class (gymnospermae) and in others a division (gymnospermophyta); comprises three subdivisions (or classes): cycadophytina (class cycadopsida) and gnetophytina (class gnetopsida) and coniferophytina (class coniferopsida); in some classifications the coniferophytina are divided into three groups: pinophytina (class pinopsida) and ginkgophytina (class ginkgopsida) and taxophytina (class taxopsida)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plants having naked seeds not enclosed in an ovary; in some systems considered a class (gymnospermae) and in others a division (gymnospermophyta); comprises three subdivisions (or classes): cycadophytina (class cycadopsida) and gnetophytina (class gnetopsida) and coniferophytina (class coniferopsida); in some classifications the coniferophytina are divided into three groups: pinophytina (class pinopsida) and ginkgophytina (class ginkgopsida) and taxophytina (class taxopsida).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plants having naked seeds not enclosed in an ovary; in some systems considered a class (gymnospermae) and in others a division (gymnospermophyta); comprises three subdivisions (or classes): cycadophytina (class cycadopsida) and gnetophytina (class gnetopsida) and coniferophytina (class coniferopsida); in some classifications the coniferophytina are divided into three groups: pinophytina (class pinopsida) and ginkgophytina (class ginkgopsida) and taxophytina (class taxopsida).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnospermophyta designates plants having naked seeds not enclosed in an ovary; in some systems considered a class (gymnospermae) and in others a division (gymnospermophyta); comprises three subdivisions (or classes): cycadophytina (class cycadopsida) and gnetophytina (class gnetopsida) and coniferophytina (class coniferopsida); in some classifications the coniferophytina are divided into three groups: pinophytina (class pinopsida) and ginkgophytina (class ginkgopsida) and taxophytina (class taxopsida)."*

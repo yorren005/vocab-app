@@ -5,13 +5,6 @@ status: unread
 ---
 # matriarchate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of social organization in which a female is the family head and title is traced through the female line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of social organization in which a female is the family head and title is traced through the female line.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, matriarchate designates a form of social organization in which a female is the family head and title is traced through the female line."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of social organization in which a female is the family head and title is traced through the female line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of social organization in which a female is the family head and title is traced through the female line.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, matriarchate designates a form of social organization in which a female is the family head and title is traced through the female line."*

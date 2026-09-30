@@ -5,13 +5,6 @@ status: unread
 ---
 # repetitive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetitive and persistent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by repetition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. B. Fyfe (*Calling World-4 of Kithgol*):** *"Is that what's been sending out a repetitive message that's well over two hundred years old?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetitive and persistent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by repetition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. B. Fyfe (*Calling World-4 of Kithgol*):** *"Is that what's been sending out a repetitive message that's well over two hundred years old?"*

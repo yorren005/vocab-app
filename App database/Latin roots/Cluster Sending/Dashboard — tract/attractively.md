@@ -5,15 +5,6 @@ status: unread
 ---
 # attractively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a beautiful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a beautiful manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"How attractively it is laid out, Mrs."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Before we left this attractively clean place the oysterman was met emptying his cans."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"To the right as one walked up from the beach stretched a long line of substantial-looking barracks, and many of the houses were of European appearance, attractively set in large gardens."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a beautiful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a beautiful manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"How attractively it is laid out, Mrs."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Before we left this attractively clean place the oysterman was met emptying his cans."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"To the right as one walked up from the beach stretched a long line of substantial-looking barracks, and many of the houses were of European appearance, attractively set in large gardens."*

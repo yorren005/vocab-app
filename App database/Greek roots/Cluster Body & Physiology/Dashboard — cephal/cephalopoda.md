@@ -5,13 +5,6 @@ status: unread
 ---
 # cephalopoda
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Octopuses; squids; cuttlefish; pearly nautilus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Octopuses; squids; cuttlefish; pearly nautilus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalopoda designates octopuses; squids; cuttlefish; pearly nautilus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Octopuses; squids; cuttlefish; pearly nautilus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Octopuses; squids; cuttlefish; pearly nautilus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalopoda designates octopuses; squids; cuttlefish; pearly nautilus."*

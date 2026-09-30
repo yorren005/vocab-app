@@ -5,15 +5,6 @@ status: unread
 ---
 # diary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A daily written record of (usually personal) experiences and observations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A personal journal (as a physical object).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"For there have been many little consultations and attendances of late, sir,” observes Vholes, turning over the leaves of his diary, “and these things mount up, and I don’t profess to be a man of capital."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He died some five years afterwards and left a diary behind him, with letters and other materials towards his life, which was published and which showed him to have been the victim of a combination on the part of mankind against an amiable child."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Besides, another diary-girl was as good as she, it seemed, in that respect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A daily written record of (usually personal) experiences and observations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A personal journal (as a physical object).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"For there have been many little consultations and attendances of late, sir,” observes Vholes, turning over the leaves of his diary, “and these things mount up, and I don’t profess to be a man of capital."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He died some five years afterwards and left a diary behind him, with letters and other materials towards his life, which was published and which showed him to have been the victim of a combination on the part of mankind against an amiable child."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Besides, another diary-girl was as good as she, it seemed, in that respect."*

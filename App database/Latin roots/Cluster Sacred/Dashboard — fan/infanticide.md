@@ -5,14 +5,6 @@ status: unread
 ---
 # infanticide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who murders an infant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Murdering an infant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Infanticide was generally practiced in ancient times among peoples of advanced civilization, as, for example, in Sparta and Rome, where not only deformed and weak children, but unwelcome ones, commonly were destroyed."*
-> - 📜 **James Joyce (*Ulysses*):** *"They have no mercy on that here or infanticide."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who murders an infant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Murdering an infant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Infanticide was generally practiced in ancient times among peoples of advanced civilization, as, for example, in Sparta and Rome, where not only deformed and weak children, but unwelcome ones, commonly were destroyed."*
+> - 📜 **James Joyce (*Ulysses*):** *"They have no mercy on that here or infanticide."*

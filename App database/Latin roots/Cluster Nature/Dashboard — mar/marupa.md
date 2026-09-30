@@ -5,13 +5,6 @@ status: unread
 ---
 # marupa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tree of the amazon valley yielding a light brittle timber locally regarded as resistant to insect attack.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tree of the amazon valley yielding a light brittle timber locally regarded as resistant to insect attack.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marupa designates tree of the amazon valley yielding a light brittle timber locally regarded as resistant to insect attack."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tree of the amazon valley yielding a light brittle timber locally regarded as resistant to insect attack.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tree of the amazon valley yielding a light brittle timber locally regarded as resistant to insect attack.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marupa designates tree of the amazon valley yielding a light brittle timber locally regarded as resistant to insect attack."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # heteromyidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small new world burrowing mouselike rodents with fur-lined cheek pouches and hind limbs and tail adapted to leaping; adapted to desert conditions: pocket mice; kangaroo mice; kangaroo rats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small new world burrowing mouselike rodents with fur-lined cheek pouches and hind limbs and tail adapted to leaping; adapted to desert conditions: pocket mice; kangaroo mice; kangaroo rats.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heteromyidae designates small new world burrowing mouselike rodents with fur-lined cheek pouches and hind limbs and tail adapted to leaping; adapted to desert conditions: pocket mice; kangaroo mice; kangaroo rats."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small new world burrowing mouselike rodents with fur-lined cheek pouches and hind limbs and tail adapted to leaping; adapted to desert conditions: pocket mice; kangaroo mice; kangaroo rats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small new world burrowing mouselike rodents with fur-lined cheek pouches and hind limbs and tail adapted to leaping; adapted to desert conditions: pocket mice; kangaroo mice; kangaroo rats.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heteromyidae designates small new world burrowing mouselike rodents with fur-lined cheek pouches and hind limbs and tail adapted to leaping; adapted to desert conditions: pocket mice; kangaroo mice; kangaroo rats."*

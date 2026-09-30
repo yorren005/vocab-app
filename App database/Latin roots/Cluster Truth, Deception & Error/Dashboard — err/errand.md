@@ -5,15 +5,6 @@ status: unread
 ---
 # errand
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short trip that is taken in the performance of a necessary task or mission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short trip that is taken in the performance of a necessary task or mission.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This jack of Caesar’s shall Bear us an errand to him. [_Exeunt Servants with Thidias._] You were half blasted ere I knew you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My errand is to you, fair youth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know,” quoth he, “no house, no wife, no mistress.” So that my errand, due unto my tongue, I thank him, I bare home upon my shoulders; For, in conclusion, he did beat me there."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short trip that is taken in the performance of a necessary task or mission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short trip that is taken in the performance of a necessary task or mission.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This jack of Caesar’s shall Bear us an errand to him. [_Exeunt Servants with Thidias._] You were half blasted ere I knew you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My errand is to you, fair youth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know,” quoth he, “no house, no wife, no mistress.” So that my errand, due unto my tongue, I thank him, I bare home upon my shoulders; For, in conclusion, he did beat me there."*

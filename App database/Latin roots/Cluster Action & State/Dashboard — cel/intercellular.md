@@ -5,15 +5,6 @@ status: unread
 ---
 # intercellular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Located between cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located between cells.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These branches perforate the inner walls of the epidermis, and pass into the intercellular spaces of the parenchyma to become mycelium."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The active part increases and ramifies, and produces a mycelium which spreads through the intercellular passages of the parenchyma."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These threads, termed the mycelium, penetrate the intercellular spaces, and insinuate themselves in a complete network, amongst the cells of which the leaf, or other diseased portion of the plant, is composed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Located between cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located between cells.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These branches perforate the inner walls of the epidermis, and pass into the intercellular spaces of the parenchyma to become mycelium."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The active part increases and ramifies, and produces a mycelium which spreads through the intercellular passages of the parenchyma."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These threads, termed the mycelium, penetrate the intercellular spaces, and insinuate themselves in a complete network, amongst the cells of which the leaf, or other diseased portion of the plant, is composed."*

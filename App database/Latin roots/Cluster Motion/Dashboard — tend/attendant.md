@@ -5,15 +5,6 @@ status: unread
 ---
 # attendant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who waits on or tends to or attends to the needs of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is present and participates in a meeting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Find him, and bring him hither. [_Exit an Attendant._] BERTRAM."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Attendant with Parolles."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Call her before us, for We have been too slight in sufferance. [_Exit an Attendant._] QUEEN."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who waits on or tends to or attends to the needs of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is present and participates in a meeting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Find him, and bring him hither. [_Exit an Attendant._] BERTRAM."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Attendant with Parolles."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Call her before us, for We have been too slight in sufferance. [_Exit an Attendant._] QUEEN."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # frontiersman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who lives on the frontier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who lives on the frontier.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Think back to when your children, now parents, were very young and romped in the back yard with their personal frontiersman, pardner or 'friend' who was steadfast and always alongside."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Far East and Far West have met, and the homes of the Russian pioneer and American frontiersman are much alike."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Cody had all the frontiersman's fondness for practical jokes, and delighted in designating Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who lives on the frontier.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who lives on the frontier.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Think back to when your children, now parents, were very young and romped in the back yard with their personal frontiersman, pardner or 'friend' who was steadfast and always alongside."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Far East and Far West have met, and the homes of the Russian pioneer and American frontiersman are much alike."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Cody had all the frontiersman's fondness for practical jokes, and delighted in designating Mr."*

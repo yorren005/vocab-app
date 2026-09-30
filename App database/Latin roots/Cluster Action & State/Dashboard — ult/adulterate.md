@@ -5,15 +5,6 @@ status: unread
 ---
 # adulterate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt, debase, or make impure by adding a foreign or inferior substance; often by replacing valuable ingredients with inferior ones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mixed with impurities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For why should others’ false adulterate eyes Give salutation to my sportive blood?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am possess’d with an adulterate blot; My blood is mingled with the crime of lust; For if we two be one, and thou play false, I do digest the poison of thy flesh, Being strumpeted by thy contagion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, that incestuous, that adulterate beast, With witchcraft of his wit, with traitorous gifts,— O wicked wit, and gifts, that have the power So to seduce!—won to his shameful lust The will of my most seeming-virtuous queen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt, debase, or make impure by adding a foreign or inferior substance; often by replacing valuable ingredients with inferior ones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mixed with impurities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For why should others’ false adulterate eyes Give salutation to my sportive blood?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am possess’d with an adulterate blot; My blood is mingled with the crime of lust; For if we two be one, and thou play false, I do digest the poison of thy flesh, Being strumpeted by thy contagion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, that incestuous, that adulterate beast, With witchcraft of his wit, with traitorous gifts,— O wicked wit, and gifts, that have the power So to seduce!—won to his shameful lust The will of my most seeming-virtuous queen."*

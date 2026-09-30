@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrargyrum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy silvery toxic univalent and bivalent metallic element; the only metal that is liquid at ordinary temperatures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy silvery toxic univalent and bivalent metallic element; the only metal that is liquid at ordinary temperatures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrargyrum designates a heavy silvery toxic univalent and bivalent metallic element; the only metal that is liquid at ordinary temperatures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy silvery toxic univalent and bivalent metallic element; the only metal that is liquid at ordinary temperatures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy silvery toxic univalent and bivalent metallic element; the only metal that is liquid at ordinary temperatures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrargyrum designates a heavy silvery toxic univalent and bivalent metallic element; the only metal that is liquid at ordinary temperatures."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # animalculum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Microscopic organism such as an amoeba or paramecium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Microscopic organism such as an amoeba or paramecium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, animalculum designates microscopic organism such as an amoeba or paramecium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Microscopic organism such as an amoeba or paramecium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Microscopic organism such as an amoeba or paramecium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, animalculum designates microscopic organism such as an amoeba or paramecium."*

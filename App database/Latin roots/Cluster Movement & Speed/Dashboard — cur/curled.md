@@ -5,15 +5,6 @@ status: unread
 ---
 # curled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form a curl, curve, or kink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shape one's body into a curl.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A serving-man, proud in heart and mind; that curled my hair; wore gloves in my cap; served the lust of my mistress’ heart, and did the act of darkness with her; swore as many oaths as I spake words, and broke them in the sweet face of heaven."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make curled-pate ruffians bald, And let the unscarred braggarts of the war Derive some pain from you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His head’s yellow, Hard-haired and curled, thick-twined like ivy tods, Not to undo with thunder."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Form a curl, curve, or kink.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shape one's body into a curl.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A serving-man, proud in heart and mind; that curled my hair; wore gloves in my cap; served the lust of my mistress’ heart, and did the act of darkness with her; swore as many oaths as I spake words, and broke them in the sweet face of heaven."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make curled-pate ruffians bald, And let the unscarred braggarts of the war Derive some pain from you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His head’s yellow, Hard-haired and curled, thick-twined like ivy tods, Not to undo with thunder."*

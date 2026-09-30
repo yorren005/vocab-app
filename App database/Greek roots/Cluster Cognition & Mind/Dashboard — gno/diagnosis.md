@@ -5,15 +5,6 @@ status: unread
 ---
 # diagnosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or act of identifying a disease from its signs and symptoms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The decision reached by diagnosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Mention has already been made, in speaking of Lenau's pathological traits,[104] of his confirmed habit of self-diagnosis."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I agree with your diagnosis, Mr Maplestone, but Evelyn's nature makes it peculiarly essential that she should make a wise choice."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Elton said he could not be sure of what ailed me, but he feared I was right in my own diagnosis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or act of identifying a disease from its signs and symptoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The decision reached by diagnosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Mention has already been made, in speaking of Lenau's pathological traits,[104] of his confirmed habit of self-diagnosis."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I agree with your diagnosis, Mr Maplestone, but Evelyn's nature makes it peculiarly essential that she should make a wise choice."*
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Elton said he could not be sure of what ailed me, but he feared I was right in my own diagnosis."*

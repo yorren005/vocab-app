@@ -5,15 +5,6 @@ status: unread
 ---
 # fervid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by intense emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely hot; - nathaniel hawthorne; - frances trollope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is a very fervid, impassioned speaker—full of fire!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Say you do now, dear, dear husband; say you do, now I have killed him!” “I do love you, Tess—O, I do—it is all come back!” he said, tightening his arms round her with fervid pressure."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Has a girl of fourteen a heart large enough, vigorous enough, to hold the swelling spring of pure, full, fervid eloquence?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by intense emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely hot; - nathaniel hawthorne; - frances trollope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is a very fervid, impassioned speaker—full of fire!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Say you do now, dear, dear husband; say you do, now I have killed him!” “I do love you, Tess—O, I do—it is all come back!” he said, tightening his arms round her with fervid pressure."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Has a girl of fourteen a heart large enough, vigorous enough, to hold the swelling spring of pure, full, fervid eloquence?"*

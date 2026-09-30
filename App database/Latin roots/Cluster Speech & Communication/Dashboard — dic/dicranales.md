@@ -5,13 +5,6 @@ status: unread
 ---
 # dicranales
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed order of mosses with erect gametophores and sporophytes at the tips of stems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed order of mosses with erect gametophores and sporophytes at the tips of stems.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicranales designates widely distributed order of mosses with erect gametophores and sporophytes at the tips of stems."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed order of mosses with erect gametophores and sporophytes at the tips of stems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed order of mosses with erect gametophores and sporophytes at the tips of stems.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicranales designates widely distributed order of mosses with erect gametophores and sporophytes at the tips of stems."*

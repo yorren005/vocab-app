@@ -5,13 +5,6 @@ status: unread
 ---
 # atrium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The central area in a building; open to the sky.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atrium designates any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The central area in a building; open to the sky.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atrium designates any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart)."*

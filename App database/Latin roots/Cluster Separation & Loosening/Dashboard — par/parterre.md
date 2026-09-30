@@ -5,15 +5,6 @@ status: unread
 ---
 # parterre
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornamental flower garden; beds and paths are arranged to form a pattern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seating at the rear of the main floor (beneath the balconies).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed to buy of his young lady all the products of her parterre she wished to sell: and Eliza would have sold the hair off her head if she could have made a handsome profit thereby."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Pray open the large drawer of the cabinet and get out the jewel-box.” The casket was soon open before them, and the various jewels spread out, making a bright parterre on the table."*
-> - 📜 **Effie Afton (*Eventide*):** *"She is the brilliant dahlia, the pride of the gay parterre; but my Edith is the modest daisy blooming in some sheltered nook."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornamental flower garden; beds and paths are arranged to form a pattern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seating at the rear of the main floor (beneath the balconies).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed to buy of his young lady all the products of her parterre she wished to sell: and Eliza would have sold the hair off her head if she could have made a handsome profit thereby."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Pray open the large drawer of the cabinet and get out the jewel-box.” The casket was soon open before them, and the various jewels spread out, making a bright parterre on the table."*
+> - 📜 **Effie Afton (*Eventide*):** *"She is the brilliant dahlia, the pride of the gay parterre; but my Edith is the modest daisy blooming in some sheltered nook."*

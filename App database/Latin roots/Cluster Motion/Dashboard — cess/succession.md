@@ -5,15 +5,6 @@ status: unread
 ---
 # succession
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A following of one thing after another in time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of people or things arranged or following in order.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How much more praise deserv’d thy beauty’s use, If thou couldst answer ‘This fair child of mine Shall sum my count, and make my old excuse,’ Proving his beauty by succession thine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, for a quart d’ecu he will sell the fee-simple of his salvation, the inheritance of it, and cut the entail from all remainders, and a perpetual succession for it perpetually."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whereon, At three and two years old, I stole these babes, Thinking to bar thee of succession as Thou refts me of my lands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A following of one thing after another in time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of people or things arranged or following in order.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How much more praise deserv’d thy beauty’s use, If thou couldst answer ‘This fair child of mine Shall sum my count, and make my old excuse,’ Proving his beauty by succession thine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, for a quart d’ecu he will sell the fee-simple of his salvation, the inheritance of it, and cut the entail from all remainders, and a perpetual succession for it perpetually."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whereon, At three and two years old, I stole these babes, Thinking to bar thee of succession as Thou refts me of my lands."*

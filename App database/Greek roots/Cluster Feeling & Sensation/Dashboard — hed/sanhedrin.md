@@ -5,13 +5,6 @@ status: unread
 ---
 # sanhedrin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The supreme council and tribunal of the Jews during postexilic times headed by a High Priest and having religious, civil, and criminal jurisdiction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The supreme council and tribunal of the Jews during postexilic times headed by a High Priest and having religious, civil, and criminal jurisdiction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanhedrin designates the supreme council and tribunal of the jews during postexilic times headed by a high priest and having religious, civil, and criminal jurisdiction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The supreme council and tribunal of the Jews during postexilic times headed by a High Priest and having religious, civil, and criminal jurisdiction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The supreme council and tribunal of the Jews during postexilic times headed by a High Priest and having religious, civil, and criminal jurisdiction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanhedrin designates the supreme council and tribunal of the jews during postexilic times headed by a high priest and having religious, civil, and criminal jurisdiction."*

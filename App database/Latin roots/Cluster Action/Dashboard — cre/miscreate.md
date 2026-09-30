@@ -5,13 +5,6 @@ status: unread
 ---
 # miscreate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shape or form or make badly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shape or form or make badly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miscreate designates shape or form or make badly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shape or form or make badly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shape or form or make badly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miscreate designates shape or form or make badly."*

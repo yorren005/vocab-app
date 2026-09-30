@@ -5,15 +5,6 @@ status: unread
 ---
 # carbine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Light automatic rifle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Light automatic rifle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is no more like flesh and blood than a rusty old carbine is."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Just as much as the rusty old carbine I have compared him to."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And to think of that rusty carbine, stock and barrel, standing up on end in his corner, hard, indifferent, taking everything so evenly—it made flesh and blood tingle, I do assure you.” “My advice to you,” returns Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Light automatic rifle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Light automatic rifle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is no more like flesh and blood than a rusty old carbine is."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Just as much as the rusty old carbine I have compared him to."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And to think of that rusty carbine, stock and barrel, standing up on end in his corner, hard, indifferent, taking everything so evenly—it made flesh and blood tingle, I do assure you.” “My advice to you,” returns Mrs."*

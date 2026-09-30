@@ -5,15 +5,6 @@ status: unread
 ---
 # temporal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic role of the noun phrase that designates the time of the state or action denoted by the verb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not eternal; - f.d.roosevelt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So children temporal fathers do appease; Gods are more full of mercy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is this an hour for temporal affairs, ha?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Much better She ne’er had known pomp; though’t be temporal, Yet if that quarrel, Fortune, do divorce It from the bearer, ’tis a sufferance panging As soul and body’s severing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic role of the noun phrase that designates the time of the state or action denoted by the verb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not eternal; - f.d.roosevelt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So children temporal fathers do appease; Gods are more full of mercy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is this an hour for temporal affairs, ha?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Much better She ne’er had known pomp; though’t be temporal, Yet if that quarrel, Fortune, do divorce It from the bearer, ’tis a sufferance panging As soul and body’s severing."*

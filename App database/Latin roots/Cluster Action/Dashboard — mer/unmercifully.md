@@ -5,15 +5,6 @@ status: unread
 ---
 # unmercifully
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without pity; in a merciless manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without pity; in a merciless manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"It was no easy task, the full pails tugging most unmercifully at his arms."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"He laughed unmercifully at the frequent mistakes of our hero, and jeeringly dubbed him, “Young Stupid.” “Do you know what Dawkins calls you?” asked one of the boys."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Great were the weariness and annoyance of the old Inspector and the Weighers and Gaugers, whose slumbers were disturbed by the unmercifully lengthened tramp of my passing and returning footsteps."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without pity; in a merciless manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without pity; in a merciless manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"It was no easy task, the full pails tugging most unmercifully at his arms."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"He laughed unmercifully at the frequent mistakes of our hero, and jeeringly dubbed him, “Young Stupid.” “Do you know what Dawkins calls you?” asked one of the boys."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Great were the weariness and annoyance of the old Inspector and the Weighers and Gaugers, whose slumbers were disturbed by the unmercifully lengthened tramp of my passing and returning footsteps."*

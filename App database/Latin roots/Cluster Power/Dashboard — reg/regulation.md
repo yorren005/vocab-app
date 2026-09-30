@@ -5,15 +5,6 @@ status: unread
 ---
 # regulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative rule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A principle or condition that customarily governs behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"George salutes the gentleman but otherwise sits bolt upright and profoundly silent—very forward in his chair, as if the full complement of regulation appendages for a field-day hung about him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"As the crook had absorbed most of Gabriel’s money, he attempted, and carried out, an exchange of his overcoat for a shepherd’s regulation smock-frock."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Public regulation of hours and wages 22."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative rule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A principle or condition that customarily governs behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"George salutes the gentleman but otherwise sits bolt upright and profoundly silent—very forward in his chair, as if the full complement of regulation appendages for a field-day hung about him."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"As the crook had absorbed most of Gabriel’s money, he attempted, and carried out, an exchange of his overcoat for a shepherd’s regulation smock-frock."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Public regulation of hours and wages 22."*

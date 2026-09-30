@@ -5,15 +5,6 @@ status: unread
 ---
 # unattended
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not watched.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking accompaniment or a guard or escort.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your constancy Hath left you unattended.—[_Knocking within._] Hark, more knocking."*
-> - 📜 **Jane Austen (*Persuasion*):** *"At last Miss Elliot and her friend, unattended but by the servant, (for there was no cousin returned), were walking off; and Captain Wentworth, watching them, turned again to Anne, and by manner, rather than words, was offering his services to her."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Were your friends, the Allens, still in Bath, you might go to them with comparative ease; a few hours would take you there; but a journey of seventy miles, to be taken post by you, at your age, alone, unattended!” “Oh, the journey is nothing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not watched.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking accompaniment or a guard or escort.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your constancy Hath left you unattended.—[_Knocking within._] Hark, more knocking."*
+> - 📜 **Jane Austen (*Persuasion*):** *"At last Miss Elliot and her friend, unattended but by the servant, (for there was no cousin returned), were walking off; and Captain Wentworth, watching them, turned again to Anne, and by manner, rather than words, was offering his services to her."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Were your friends, the Allens, still in Bath, you might go to them with comparative ease; a few hours would take you there; but a journey of seventy miles, to be taken post by you, at your age, alone, unattended!” “Oh, the journey is nothing."*

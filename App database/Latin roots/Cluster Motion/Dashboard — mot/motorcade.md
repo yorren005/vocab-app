@@ -5,13 +5,6 @@ status: unread
 ---
 # motorcade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A procession of people traveling in motor cars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A procession of people traveling in motor cars.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motorcade designates a procession of people traveling in motor cars."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A procession of people traveling in motor cars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A procession of people traveling in motor cars.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motorcade designates a procession of people traveling in motor cars."*

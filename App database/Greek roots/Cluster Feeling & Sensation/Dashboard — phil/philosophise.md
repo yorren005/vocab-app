@@ -5,15 +5,6 @@ status: unread
 ---
 # philosophise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason philosophically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reason philosophically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"For he began to philosophise in order to judge his impressions (_phantasias_) and to discover which of them are true and which false, so as to be free from perturbation."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"But not being at that time in a disposition to philosophise upon this phenomenon, I rather chose to observe what course the island would take, because it seemed for a while to stand still."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Moving out over the divide above town the Professor noticed the general depression of the party, and forthwith began philosophising."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason philosophically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reason philosophically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"For he began to philosophise in order to judge his impressions (_phantasias_) and to discover which of them are true and which false, so as to be free from perturbation."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"But not being at that time in a disposition to philosophise upon this phenomenon, I rather chose to observe what course the island would take, because it seemed for a while to stand still."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Moving out over the divide above town the Professor noticed the general depression of the party, and forthwith began philosophising."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # participant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who takes part in an activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who participates in or is skilled at some game.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"One of the most beautiful incidents ever known relating to the faith of children, and the reward of their trust, is contained in the following circumstance, personally known to the editor of this book, who was a participant in the facts."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Every participant in the ceremony comes armed with a scourge of cords or of fish skins; some of them reinforce the virtue of the instrument by tying little sharp stones to the end of the thongs."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"With painful dejection he awaited the end of this action, in which he regarded himself as a participant and which he was unable to arrest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who takes part in an activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who participates in or is skilled at some game.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"One of the most beautiful incidents ever known relating to the faith of children, and the reward of their trust, is contained in the following circumstance, personally known to the editor of this book, who was a participant in the facts."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Every participant in the ceremony comes armed with a scourge of cords or of fish skins; some of them reinforce the virtue of the instrument by tying little sharp stones to the end of the thongs."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"With painful dejection he awaited the end of this action, in which he regarded himself as a participant and which he was unable to arrest."*

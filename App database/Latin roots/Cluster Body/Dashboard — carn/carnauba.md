@@ -5,13 +5,6 @@ status: unread
 ---
 # carnauba
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hard yellowish to brownish wax from leaves of the carnauba palm used especially in floor waxes and polishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brazilian fan palm having an edible root; source of a useful leaf fiber and a brittle yellowish wax.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnauba designates hard yellowish to brownish wax from leaves of the carnauba palm used especially in floor waxes and polishes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hard yellowish to brownish wax from leaves of the carnauba palm used especially in floor waxes and polishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brazilian fan palm having an edible root; source of a useful leaf fiber and a brittle yellowish wax.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carnauba designates hard yellowish to brownish wax from leaves of the carnauba palm used especially in floor waxes and polishes."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # supposititious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based primarily on surmise rather than adequate evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based primarily on surmise rather than adequate evidence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"We shall have YOU taking fire next or blowing up with a bang.” This supposititious phenomenon is so very disagreeable to Mr."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Catherine had read too much not to be perfectly aware of the ease with which a waxen figure might be introduced, and a supposititious funeral carried on."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Halloa!” he growled, “where are you two going?” “Where should we be going, but home?” “Well, then,” said he, “I’m jiggered if I don’t see you home!” This penalty of being jiggered was a favourite supposititious case of his."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based primarily on surmise rather than adequate evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based primarily on surmise rather than adequate evidence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"We shall have YOU taking fire next or blowing up with a bang.” This supposititious phenomenon is so very disagreeable to Mr."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Catherine had read too much not to be perfectly aware of the ease with which a waxen figure might be introduced, and a supposititious funeral carried on."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Halloa!” he growled, “where are you two going?” “Where should we be going, but home?” “Well, then,” said he, “I’m jiggered if I don’t see you home!” This penalty of being jiggered was a favourite supposititious case of his."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # biosystematy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Use of data (e.g. cytogenetic or biochemical) to assess taxonomic relations especially within an evolutionary framework.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use of data (e.g. cytogenetic or biochemical) to assess taxonomic relations especially within an evolutionary framework.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biosystematy designates use of data (e.g. cytogenetic or biochemical) to assess taxonomic relations especially within an evolutionary framework."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Use of data (e.g. cytogenetic or biochemical) to assess taxonomic relations especially within an evolutionary framework.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use of data (e.g. cytogenetic or biochemical) to assess taxonomic relations especially within an evolutionary framework.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biosystematy designates use of data (e.g. cytogenetic or biochemical) to assess taxonomic relations especially within an evolutionary framework."*

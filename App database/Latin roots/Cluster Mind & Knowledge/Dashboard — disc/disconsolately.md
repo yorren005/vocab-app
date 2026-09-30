@@ -5,15 +5,6 @@ status: unread
 ---
 # disconsolately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In grief-stricken loneliness; without comforting circumstances or prospects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grief-stricken loneliness; without comforting circumstances or prospects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet removes his hand from his head as if the shower-bath were over and looks disconsolately at Mr."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"It’s bad enough to be a blacksmith’s wife (and him a Gargery) without being your mother.” My thoughts strayed from that question as I looked disconsolately at the fire."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"As I was loitering along the High Street, looking in disconsolately at the shop windows, and thinking what I would buy if I were a gentleman, who should come out of the bookshop but Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In grief-stricken loneliness; without comforting circumstances or prospects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grief-stricken loneliness; without comforting circumstances or prospects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet removes his hand from his head as if the shower-bath were over and looks disconsolately at Mr."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"It’s bad enough to be a blacksmith’s wife (and him a Gargery) without being your mother.” My thoughts strayed from that question as I looked disconsolately at the fire."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"As I was loitering along the High Street, looking in disconsolately at the shop windows, and thinking what I would buy if I were a gentleman, who should come out of the bookshop but Mr."*

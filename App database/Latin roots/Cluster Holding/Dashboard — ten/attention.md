@@ -5,15 +5,6 @@ status: unread
 ---
 # attention
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process whereby a person concentrates on some features of the environment to the (relative) exclusion of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The work of providing treatment for or attending to someone or something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, with all my heart, And lend my best attention."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To punish you by the heels would amend the attention of your ears, and I care not if I do become your physician."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, what moved me to’t, I will be bold with time and your attention."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process whereby a person concentrates on some features of the environment to the (relative) exclusion of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The work of providing treatment for or attending to someone or something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, with all my heart, And lend my best attention."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To punish you by the heels would amend the attention of your ears, and I care not if I do become your physician."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, what moved me to’t, I will be bold with time and your attention."*

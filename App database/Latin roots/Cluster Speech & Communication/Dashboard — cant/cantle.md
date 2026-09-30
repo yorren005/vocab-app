@@ -5,14 +5,6 @@ status: unread
 ---
 # cantle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The back of a saddle seat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The back of a saddle seat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The greater cantle of the world is lost With very ignorance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See how this river comes me cranking in, And cuts me from the best of all my land A huge half-moon, a monstrous cantle out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The back of a saddle seat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The back of a saddle seat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The greater cantle of the world is lost With very ignorance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See how this river comes me cranking in, And cuts me from the best of all my land A huge half-moon, a monstrous cantle out."*

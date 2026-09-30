@@ -5,13 +5,6 @@ status: unread
 ---
 # colonise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Settle as a colony; of countries in the developing world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Settle as colonists or establish a colony (in).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colonise designates settle as a colony; of countries in the developing world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Settle as a colony; of countries in the developing world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Settle as colonists or establish a colony (in).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colonise designates settle as a colony; of countries in the developing world."*

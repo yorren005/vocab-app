@@ -5,15 +5,6 @@ status: unread
 ---
 # residential
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used or designed for residence or limited to residences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or connected with residence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A very small part of the remainder is used for residential and commercial purposes, the rest being barren mountains, deserts, swamps, and forests."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"When enclosed areas were shirtsleeve ready for occupancy, the Cadre would erect essential life support, residential and recreational facilities."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Wait till they see the A1 residential mansions we're going to put up for them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used or designed for residence or limited to residences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or connected with residence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A very small part of the remainder is used for residential and commercial purposes, the rest being barren mountains, deserts, swamps, and forests."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"When enclosed areas were shirtsleeve ready for occupancy, the Cadre would erect essential life support, residential and recreational facilities."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Wait till they see the A1 residential mansions we're going to put up for them."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # benediction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of praying for divine protection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ceremonial prayer invoking divine protection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The benediction of these covering heavens Fall on their heads like dew! for they are worthy To inlay heaven with stars."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good King, that must approve the common saw, Thou out of heaven’s benediction com’st To the warm sun."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His own unkindness, That stripp’d her from his benediction, turn’d her To foreign casualties, gave her dear rights To his dog-hearted daughters, these things sting His mind so venomously that burning shame Detains him from Cordelia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of praying for divine protection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ceremonial prayer invoking divine protection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The benediction of these covering heavens Fall on their heads like dew! for they are worthy To inlay heaven with stars."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good King, that must approve the common saw, Thou out of heaven’s benediction com’st To the warm sun."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His own unkindness, That stripp’d her from his benediction, turn’d her To foreign casualties, gave her dear rights To his dog-hearted daughters, these things sting His mind so venomously that burning shame Detains him from Cordelia."*

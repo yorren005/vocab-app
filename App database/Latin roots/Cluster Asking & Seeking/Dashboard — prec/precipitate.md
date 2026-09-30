@@ -5,15 +5,6 @@ status: unread
 ---
 # precipitate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A precipitated solid substance in suspension or after settling or filtering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring about abruptly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"But, then, how account for the precipitate return which they had already noted, the supposed faint, the pallor of my looks?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"There are those who would have us believe that his mind was obsessed with the fixed idea of his own speedy return on the clouds, and that he hurried on to death to precipitate this and the new age it was to bring."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"There is no knowing how estates will go when once they come to be entailed.” “I am very sensible, madam, of the hardship to my fair cousins, and could say much on the subject, but that I am cautious of appearing forward and precipitate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A precipitated solid substance in suspension or after settling or filtering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring about abruptly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"But, then, how account for the precipitate return which they had already noted, the supposed faint, the pallor of my looks?"*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"There are those who would have us believe that his mind was obsessed with the fixed idea of his own speedy return on the clouds, and that he hurried on to death to precipitate this and the new age it was to bring."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"There is no knowing how estates will go when once they come to be entailed.” “I am very sensible, madam, of the hardship to my fair cousins, and could say much on the subject, but that I am cautious of appearing forward and precipitate."*

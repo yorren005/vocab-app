@@ -5,15 +5,6 @@ status: unread
 ---
 # habitue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A regular patron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A regular patron.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Captain Runcie, of the S.S. _Gympie_, an old _habitue_ of New Guinea, took the chair."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"At dinner each person was the centre of an expectant group of the four-footed habitues of the inn, and no one seemed to object."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The old bucks and habitues, who ordinarily stand gaping and grinning out of the great front window of the Club, had not arrived at their posts as yet--the newspaper-room was almost empty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A regular patron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A regular patron.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Captain Runcie, of the S.S. _Gympie_, an old _habitue_ of New Guinea, took the chair."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"At dinner each person was the centre of an expectant group of the four-footed habitues of the inn, and no one seemed to object."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The old bucks and habitues, who ordinarily stand gaping and grinning out of the great front window of the Club, had not arrived at their posts as yet--the newspaper-room was almost empty."*

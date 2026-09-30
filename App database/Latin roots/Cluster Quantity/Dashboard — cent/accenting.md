@@ -5,13 +5,6 @@ status: unread
 ---
 # accenting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of giving special importance or significance to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To stress, single out as important.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Han-nah!” again called Squire Newcome, separating the two syllables by a pause of deliberation, and strongly accenting the last syllable,--a habit of his with all proper names."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of giving special importance or significance to something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To stress, single out as important.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Han-nah!” again called Squire Newcome, separating the two syllables by a pause of deliberation, and strongly accenting the last syllable,--a habit of his with all proper names."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # monopsony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oligopsony limited to one buyer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oligopsony limited to one buyer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monopsony designates an oligopsony limited to one buyer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oligopsony limited to one buyer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oligopsony limited to one buyer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monopsony designates an oligopsony limited to one buyer."*

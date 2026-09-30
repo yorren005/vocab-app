@@ -5,15 +5,6 @@ status: unread
 ---
 # archangelic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling archangels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling archangels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grant Allen (*Michael's Crag*):** *"It was only to his wife in his most confidential moments that he ever admitted the truth as to his archangelic character; to all others whom he met he was simply a distinguished English civil servant of blameless life and very solid judgment."*
-> - 📜 **Grant Allen (*Michael's Crag*):** *"Michael's Chair, and all the other reminders of his archangelic dignity in the Penzance neighborhood."*
-> - 📜 **Grant Allen (*Michael's Crag*):** *"He fancied he was fighting his familiar foe, on a tall Cornish peak, in archangelic fashion; and he had vanquished his enemy, and was trampling on him furiously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling archangels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling archangels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grant Allen (*Michael's Crag*):** *"It was only to his wife in his most confidential moments that he ever admitted the truth as to his archangelic character; to all others whom he met he was simply a distinguished English civil servant of blameless life and very solid judgment."*
+> - 📜 **Grant Allen (*Michael's Crag*):** *"Michael's Chair, and all the other reminders of his archangelic dignity in the Penzance neighborhood."*
+> - 📜 **Grant Allen (*Michael's Crag*):** *"He fancied he was fighting his familiar foe, on a tall Cornish peak, in archangelic fashion; and he had vanquished his enemy, and was trampling on him furiously."*

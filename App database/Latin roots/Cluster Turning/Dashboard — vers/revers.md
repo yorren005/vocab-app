@@ -5,15 +5,6 @@ status: unread
 ---
 # revers
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lapel on a woman's garment; turned back to show the reverse side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lapel on a woman's garment; turned back to show the reverse side.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Revers’d that spear, redoubtable in war, Reclined that banner, erst in fields unfurl’d, That like a deathful meteor gleam’d afar, And brav’d the mighty monarchs of the world."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It addressed me as if our places were reversed, as if all the good deeds had been mine and all the feelings they had awakened his."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At the same moment, while he was still reversed in his attitude, there was more light, and he saw, as it were, a copy of the tall poplar tree on the hill drawn in black on the wall of the barn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lapel on a woman's garment; turned back to show the reverse side.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lapel on a woman's garment; turned back to show the reverse side.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Revers’d that spear, redoubtable in war, Reclined that banner, erst in fields unfurl’d, That like a deathful meteor gleam’d afar, And brav’d the mighty monarchs of the world."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It addressed me as if our places were reversed, as if all the good deeds had been mine and all the feelings they had awakened his."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At the same moment, while he was still reversed in his attitude, there was more light, and he saw, as it were, a copy of the tall poplar tree on the hill drawn in black on the wall of the barn."*

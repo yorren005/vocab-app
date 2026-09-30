@@ -5,13 +5,6 @@ status: unread
 ---
 # antinomianism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological doctrine that by faith and god's grace a christian is freed from all laws (including the moral standards of the culture).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological doctrine that by faith and god's grace a christian is freed from all laws (including the moral standards of the culture).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was great at Antinomianism and Bible-classes, and was plainly going to hold a class now."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological doctrine that by faith and god's grace a christian is freed from all laws (including the moral standards of the culture).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological doctrine that by faith and god's grace a christian is freed from all laws (including the moral standards of the culture).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was great at Antinomianism and Bible-classes, and was plainly going to hold a class now."*

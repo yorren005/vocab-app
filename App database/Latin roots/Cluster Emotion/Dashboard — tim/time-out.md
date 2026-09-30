@@ -5,13 +5,6 @@ status: unread
 ---
 # time-out
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brief suspension of play.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brief suspension of play.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, time-out designates a brief suspension of play."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brief suspension of play.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brief suspension of play.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, time-out designates a brief suspension of play."*

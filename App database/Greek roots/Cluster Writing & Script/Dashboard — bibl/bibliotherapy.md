@@ -5,13 +5,6 @@ status: unread
 ---
 # bibliotherapy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of reading materials for help in solving personal problems or for psychiatric therapy; also : the reading materials so used.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of reading materials for help in solving personal problems or for psychiatric therapy; also : the reading materials so used.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliotherapy designates the use of reading materials for help in solving personal problems or for psychiatric therapy; also : the reading materials so used."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of reading materials for help in solving personal problems or for psychiatric therapy; also : the reading materials so used.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of reading materials for help in solving personal problems or for psychiatric therapy; also : the reading materials so used.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliotherapy designates the use of reading materials for help in solving personal problems or for psychiatric therapy; also : the reading materials so used."*

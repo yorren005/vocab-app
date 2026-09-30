@@ -5,14 +5,6 @@ status: unread
 ---
 # preciseness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clarity as a consequence of precision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being reproducible in amount or performance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is all your strict preciseness come to this?"*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Miss Crawford found a sister without preciseness or rusticity, a sister’s husband who looked the gentleman, and a house commodious and well fitted up; and Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clarity as a consequence of precision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being reproducible in amount or performance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is all your strict preciseness come to this?"*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Miss Crawford found a sister without preciseness or rusticity, a sister’s husband who looked the gentleman, and a house commodious and well fitted up; and Mrs."*

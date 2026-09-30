@@ -5,15 +5,6 @@ status: unread
 ---
 # battlefield
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region where a battle is being (or has been) fought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region where a battle is being (or has been) fought.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"Those who sat with him had lately braved death on battlefield, but death had forborne to touch them, and they rejoiced in existence."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"His expressive face kindled with kindly grace as the young Sikh claimed sympathy with him in his view of life as a battlefield."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Within seconds the battlefield stretched before them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A region where a battle is being (or has been) fought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region where a battle is being (or has been) fought.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **C. A. Frazer (*Atmâ*):** *"Those who sat with him had lately braved death on battlefield, but death had forborne to touch them, and they rejoiced in existence."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"His expressive face kindled with kindly grace as the young Sikh claimed sympathy with him in his view of life as a battlefield."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Within seconds the battlefield stretched before them."*

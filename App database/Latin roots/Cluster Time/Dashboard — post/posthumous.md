@@ -5,15 +5,6 @@ status: unread
 ---
 # posthumous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or coming into existence after a person's death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring or coming into existence after a person's death.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"This help on his part was continued by his seeing through the press Wilson's posthumous book, _Counsels of an Invalid_, which appeared in 1862."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"On The Birth Of A Posthumous Child Born in peculiar circumstances of family distress."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"A POSTHUMOUS WRITING OF DIEDRICH KNICKERBOCKER."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or coming into existence after a person's death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring or coming into existence after a person's death.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"This help on his part was continued by his seeing through the press Wilson's posthumous book, _Counsels of an Invalid_, which appeared in 1862."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"On The Birth Of A Posthumous Child Born in peculiar circumstances of family distress."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"A POSTHUMOUS WRITING OF DIEDRICH KNICKERBOCKER."*

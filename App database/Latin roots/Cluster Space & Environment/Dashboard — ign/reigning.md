@@ -5,15 +5,6 @@ status: unread
 ---
 # reigning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have sovereign power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be larger in number, quantity, power, status or importance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now I will believe That there are unicorns; that in Arabia There is one tree, the phoenix’ throne; one phoenix At this hour reigning there."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I witness to The times that brought them in; so shall I do To th’ freshest things now reigning, and make stale The glistering of this present, as my tale Now seems to it."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Uncle Philip was less able to stand the quiet which was reigning after the presentation of his gifts than were the children, who were completely lost in the new marvels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have sovereign power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be larger in number, quantity, power, status or importance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now I will believe That there are unicorns; that in Arabia There is one tree, the phoenix’ throne; one phoenix At this hour reigning there."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I witness to The times that brought them in; so shall I do To th’ freshest things now reigning, and make stale The glistering of this present, as my tale Now seems to it."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Uncle Philip was less able to stand the quiet which was reigning after the presentation of his gifts than were the children, who were completely lost in the new marvels."*

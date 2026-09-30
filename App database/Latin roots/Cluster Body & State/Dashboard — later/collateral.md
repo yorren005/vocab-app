@@ -5,15 +5,6 @@ status: unread
 ---
 # collateral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A security pledged for the repayment of a loan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Descended from a common ancestor but through different lines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In his bright radiance and collateral light Must I be comforted, not in his sphere."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Your ladyship is acquainted with the name of Hawdon?” “I have heard it before.” “Name of any collateral or remote branch of your ladyship’s family?” “No.” “Now, your ladyship,” says Mr."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In supplying credit to enterprises, banks are constantly passing judgment on the collateral security presented to them and on the soundness of the enterprises that are seeking support."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A security pledged for the repayment of a loan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Descended from a common ancestor but through different lines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In his bright radiance and collateral light Must I be comforted, not in his sphere."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Your ladyship is acquainted with the name of Hawdon?” “I have heard it before.” “Name of any collateral or remote branch of your ladyship’s family?” “No.” “Now, your ladyship,” says Mr."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In supplying credit to enterprises, banks are constantly passing judgment on the collateral security presented to them and on the soundness of the enterprises that are seeking support."*

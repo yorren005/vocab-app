@@ -5,13 +5,6 @@ status: unread
 ---
 # adulterator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that lessens the purity or effectiveness of a substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A changer who lessens the purity or effectiveness of a substance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adulterator designates any substance that lessens the purity or effectiveness of a substance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that lessens the purity or effectiveness of a substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A changer who lessens the purity or effectiveness of a substance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adulterator designates any substance that lessens the purity or effectiveness of a substance."*

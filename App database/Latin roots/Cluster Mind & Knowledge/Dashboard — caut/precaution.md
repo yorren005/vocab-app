@@ -5,15 +5,6 @@ status: unread
 ---
 # precaution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A precautionary measure warding off impending danger or damage or injury etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of practicing caution in advance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"You may go into Holborn, without precaution, and be run over."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You may go into Holborn, with precaution, and never be run over."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The sagacious Smallweed supplies him with the newspaper and occasionally drops his eye upon him from the landing as a precaution against his becoming disgusted with waiting and making an untimely departure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A precautionary measure warding off impending danger or damage or injury etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of practicing caution in advance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"You may go into Holborn, without precaution, and be run over."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You may go into Holborn, with precaution, and never be run over."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The sagacious Smallweed supplies him with the newspaper and occasionally drops his eye upon him from the landing as a precaution against his becoming disgusted with waiting and making an untimely departure."*

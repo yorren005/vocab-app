@@ -5,15 +5,6 @@ status: unread
 ---
 # servile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Submissive or fawning in attitude or behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or involving slaves or appropriate for slaves or servants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet, if this servile usage once offend, Go and be free again as Suffolk’s friend. [_She is going._] O, stay!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that I were a god, to shoot forth thunder Upon these paltry, servile, abject drudges!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These growing feathers pluck’d from Caesar’s wing Will make him fly an ordinary pitch, Who else would soar above the view of men, And keep us all in servile fearfulness. [_Exeunt._] SCENE II."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Submissive or fawning in attitude or behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or involving slaves or appropriate for slaves or servants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet, if this servile usage once offend, Go and be free again as Suffolk’s friend. [_She is going._] O, stay!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that I were a god, to shoot forth thunder Upon these paltry, servile, abject drudges!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These growing feathers pluck’d from Caesar’s wing Will make him fly an ordinary pitch, Who else would soar above the view of men, And keep us all in servile fearfulness. [_Exeunt._] SCENE II."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # surplice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A loose-fitting white ecclesiastical vestment with wide sleeves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loose-fitting white ecclesiastical vestment with wide sleeves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though honesty be no puritan, yet it will do no hurt; it will wear the surplice of humility over the black gown of a big heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let the priest in surplice white, That defunctive music can, Be the death-divining swan, Lest the requiem lack his right."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The officiating curate, who had not yet doffed his surplice, perceived the new-comer, and followed him to the communion-space."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A loose-fitting white ecclesiastical vestment with wide sleeves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loose-fitting white ecclesiastical vestment with wide sleeves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though honesty be no puritan, yet it will do no hurt; it will wear the surplice of humility over the black gown of a big heart."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let the priest in surplice white, That defunctive music can, Be the death-divining swan, Lest the requiem lack his right."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The officiating curate, who had not yet doffed his surplice, perceived the new-comer, and followed him to the communion-space."*

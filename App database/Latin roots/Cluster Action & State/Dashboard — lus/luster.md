@@ -5,15 +5,6 @@ status: unread
 ---
 # luster
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quality that outshines the usual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The visual property of something that shines with reflected light.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"They seemed to have become brighter than before, shining with a greenish luster which he had not at first observed."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"You never saw a more brilliant metallic luster than the scales emit— but of this you cannot judge till to-morrow."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"His countenance was pale even to ghastliness, and his deep-set eyes glared with unnatural luster."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quality that outshines the usual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The visual property of something that shines with reflected light.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"They seemed to have become brighter than before, shining with a greenish luster which he had not at first observed."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"You never saw a more brilliant metallic luster than the scales emit— but of this you cannot judge till to-morrow."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"His countenance was pale even to ghastliness, and his deep-set eyes glared with unnatural luster."*

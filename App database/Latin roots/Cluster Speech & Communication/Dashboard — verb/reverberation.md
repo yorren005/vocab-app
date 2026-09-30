@@ -5,15 +5,6 @@ status: unread
 ---
 # reverberation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The repetition of a sound resulting from reflection of the sound waves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A remote or indirect consequence of some action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Just before dawn he was assisted in waking by the abnormal reverberation of familiar music."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"As the consciousness expands on learning that what was fancied to be the rumble of wheels is the reverberation of thunder, so did Bathsheba’s at her intuitive conviction."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was green as an emerald, and the reverberation was stunning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The repetition of a sound resulting from reflection of the sound waves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A remote or indirect consequence of some action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Just before dawn he was assisted in waking by the abnormal reverberation of familiar music."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"As the consciousness expands on learning that what was fancied to be the rumble of wheels is the reverberation of thunder, so did Bathsheba’s at her intuitive conviction."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was green as an emerald, and the reverberation was stunning."*

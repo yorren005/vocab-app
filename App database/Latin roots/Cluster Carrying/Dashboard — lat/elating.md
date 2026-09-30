@@ -5,13 +5,6 @@ status: unread
 ---
 # elating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with high spirits; fill with optimism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making lively and joyful.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elating designates fill with high spirits; fill with optimism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with high spirits; fill with optimism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making lively and joyful.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elating designates fill with high spirits; fill with optimism."*

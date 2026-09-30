@@ -5,13 +5,6 @@ status: unread
 ---
 # callas
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greek coloratura soprano (born in the united states) known for her dramatic intensity in operatic roles (1923-1977).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: South african plant widely cultivated for its showy pure white spathe and yellow spadix.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callas designates greek coloratura soprano (born in the united states) known for her dramatic intensity in operatic roles (1923-1977)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Greek coloratura soprano (born in the united states) known for her dramatic intensity in operatic roles (1923-1977).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: South african plant widely cultivated for its showy pure white spathe and yellow spadix.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callas designates greek coloratura soprano (born in the united states) known for her dramatic intensity in operatic roles (1923-1977)."*

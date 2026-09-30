@@ -5,15 +5,6 @@ status: unread
 ---
 # homely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in physical beauty or proportion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a feeling of home; cozy and comfortable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think, sir, you can eat none of this homely meat."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And ever shall With true observance seek to eke out that Wherein toward me my homely stars have fail’d To equal my great fortune."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath homely age th’ alluring beauty took From my poor cheek? then he hath wasted it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in physical beauty or proportion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a feeling of home; cozy and comfortable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think, sir, you can eat none of this homely meat."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And ever shall With true observance seek to eke out that Wherein toward me my homely stars have fail’d To equal my great fortune."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath homely age th’ alluring beauty took From my poor cheek? then he hath wasted it."*

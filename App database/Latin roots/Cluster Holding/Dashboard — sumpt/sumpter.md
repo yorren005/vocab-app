@@ -5,15 +5,6 @@ status: unread
 ---
 # sumpter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal (such as a mule or burro or horse) used to carry loads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal (such as a mule or burro or horse) used to carry loads.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Persuade me rather to be slave and sumpter To this detested groom. [_Pointing to Oswald._] GONERIL."*
-> - 📜 **Effie Afton (*Eventide*):** *"Sumpter is digesting his fortune."*
-> - 📜 **Effie Afton (*Eventide*):** *"I am afraid our good seeress will discover you and I fighting a duel in that ominous cup, or brewing a tempest in her teapot." "Ha, ha, ha! it is not impossible," ejaculated Sumpter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal (such as a mule or burro or horse) used to carry loads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal (such as a mule or burro or horse) used to carry loads.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Persuade me rather to be slave and sumpter To this detested groom. [_Pointing to Oswald._] GONERIL."*
+> - 📜 **Effie Afton (*Eventide*):** *"Sumpter is digesting his fortune."*
+> - 📜 **Effie Afton (*Eventide*):** *"I am afraid our good seeress will discover you and I fighting a duel in that ominous cup, or brewing a tempest in her teapot." "Ha, ha, ha! it is not impossible," ejaculated Sumpter."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # telepathic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicating without apparent physical signals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicating without apparent physical signals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The processes of intense physical training and weapons drills, the concentrated telepathic loading of Plutonian political history and its government's despotic apparatus had been cleared from their consciousness; the substance remained."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"He gathered that the four-winged birds of the Lassans acted in some way or other as their scouts, remaining in a kind of telepathic communication with the Lassan in the fighting-machine they were assigned to help...."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicating without apparent physical signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicating without apparent physical signals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The processes of intense physical training and weapons drills, the concentrated telepathic loading of Plutonian political history and its government's despotic apparatus had been cleared from their consciousness; the substance remained."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"He gathered that the four-winged birds of the Lassans acted in some way or other as their scouts, remaining in a kind of telepathic communication with the Lassan in the fighting-machine they were assigned to help...."*

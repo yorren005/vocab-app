@@ -5,15 +5,6 @@ status: unread
 ---
 # convalescent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is recovering from illness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Returning to health after illness or debility.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"A week had passed since Leonore had spent her first day as convalescent among the family."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"He gave, at any rate, like a convalescent slightly fatigued, a languid shake of his head."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Bickerdyke's philippic--She procures his dismissal--His interview with General Sherman--"She ranks me"--The commanding generals appreciate her--Convalescent soldiers _vs._ colored nurses--The Medical Director's order--Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is recovering from illness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Returning to health after illness or debility.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"A week had passed since Leonore had spent her first day as convalescent among the family."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"He gave, at any rate, like a convalescent slightly fatigued, a languid shake of his head."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Bickerdyke's philippic--She procures his dismissal--His interview with General Sherman--"She ranks me"--The commanding generals appreciate her--Convalescent soldiers _vs._ colored nurses--The Medical Director's order--Mrs."*

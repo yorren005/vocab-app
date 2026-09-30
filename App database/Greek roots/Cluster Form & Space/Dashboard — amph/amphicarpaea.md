@@ -5,13 +5,6 @@ status: unread
 ---
 # amphicarpaea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very small genus of twining vines of north america and asia: hog peanut.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very small genus of twining vines of north america and asia: hog peanut.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphicarpaea designates very small genus of twining vines of north america and asia: hog peanut."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very small genus of twining vines of north america and asia: hog peanut.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very small genus of twining vines of north america and asia: hog peanut.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphicarpaea designates very small genus of twining vines of north america and asia: hog peanut."*

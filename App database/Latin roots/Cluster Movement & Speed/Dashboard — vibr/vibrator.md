@@ -5,13 +5,6 @@ status: unread
 ---
 # vibrator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device that vibrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mechanical device that produces vibratory motion; used for massage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"I know and I am some vibrator."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device that vibrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mechanical device that produces vibratory motion; used for massage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"I know and I am some vibrator."*

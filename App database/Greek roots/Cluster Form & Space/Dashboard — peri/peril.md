@@ -5,15 +5,6 @@ status: unread
 ---
 # peril
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A source of danger; a possibility of incurring loss or misfortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of danger involving risk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But what at full I know, thou know’st no part; I knowing all my peril, thou no art."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him speak, my lord, Upon his peril, that I have reserved To myself nothing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, I had rather seal my lips Than to my peril speak that which is not."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A source of danger; a possibility of incurring loss or misfortune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of danger involving risk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But what at full I know, thou know’st no part; I knowing all my peril, thou no art."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him speak, my lord, Upon his peril, that I have reserved To myself nothing."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, I had rather seal my lips Than to my peril speak that which is not."*

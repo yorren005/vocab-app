@@ -5,13 +5,6 @@ status: unread
 ---
 # latitudinarian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is broad-minded and tolerant (especially in standards of religious belief and conduct).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unwilling to accept authority or dogma (especially in religion).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latitudinarian designates a person who is broad-minded and tolerant (especially in standards of religious belief and conduct)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is broad-minded and tolerant (especially in standards of religious belief and conduct).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unwilling to accept authority or dogma (especially in religion).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latitudinarian designates a person who is broad-minded and tolerant (especially in standards of religious belief and conduct)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # stratagem
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cleverly contrived trick or scheme for gaining an end : a cunning strategy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trick or ruse in war for deceiving and outwitting the enemy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, for the love of laughter, let him fetch his drum; he says he has a stratagem for’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or the baring of my beard, and to say it was in stratagem."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Every minute now Should be the father of some stratagem."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cleverly contrived trick or scheme for gaining an end : a cunning strategy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trick or ruse in war for deceiving and outwitting the enemy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, for the love of laughter, let him fetch his drum; he says he has a stratagem for’t."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or the baring of my beard, and to say it was in stratagem."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Every minute now Should be the father of some stratagem."*

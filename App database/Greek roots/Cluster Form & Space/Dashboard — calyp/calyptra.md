@@ -5,13 +5,6 @@ status: unread
 ---
 # calyptra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hoodlike structure in a plant; especially : haploid tissue forming a membranous hood over the capsule in a moss.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hoodlike structure in a plant; especially : haploid tissue forming a membranous hood over the capsule in a moss.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calyptra designates a hoodlike structure in a plant; especially : haploid tissue forming a membranous hood over the capsule in a moss."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hoodlike structure in a plant; especially : haploid tissue forming a membranous hood over the capsule in a moss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hoodlike structure in a plant; especially : haploid tissue forming a membranous hood over the capsule in a moss.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calyptra designates a hoodlike structure in a plant; especially : haploid tissue forming a membranous hood over the capsule in a moss."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # adoption
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of accepting with approval; favorable reception.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A legal proceeding that creates a parent-child relation between persons not related by blood; the adopted child is entitled to all privileges belonging to a natural child of the adoptive parents (including the right to inherit).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say I am your mother, And put you in the catalogue of those That were enwombed mine. ’Tis often seen Adoption strives with nature, and choice breeds A native slip to us from foreign seeds."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those friends thou hast, and their adoption tried, Grapple them unto thy soul with hoops of steel; But do not dull thy palm with entertainment Of each new-hatch’d, unfledg’d comrade."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See the hell of having a false woman: my bed shall be abused, my coffers ransacked, my reputation gnawn at; and I shall not only receive this villanous wrong, but stand under the adoption of abominable terms, and by him that does me this wrong."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of accepting with approval; favorable reception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A legal proceeding that creates a parent-child relation between persons not related by blood; the adopted child is entitled to all privileges belonging to a natural child of the adoptive parents (including the right to inherit).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say I am your mother, And put you in the catalogue of those That were enwombed mine. ’Tis often seen Adoption strives with nature, and choice breeds A native slip to us from foreign seeds."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those friends thou hast, and their adoption tried, Grapple them unto thy soul with hoops of steel; But do not dull thy palm with entertainment Of each new-hatch’d, unfledg’d comrade."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See the hell of having a false woman: my bed shall be abused, my coffers ransacked, my reputation gnawn at; and I shall not only receive this villanous wrong, but stand under the adoption of abominable terms, and by him that does me this wrong."*

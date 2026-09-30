@@ -5,13 +5,6 @@ status: unread
 ---
 # hemerocallis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: East asian rhizomatous clump-forming perennial herbs having flowers on long leafless stalks; cosmopolitan in cultivation: day lilies; sometimes placed in subfamily hemerocallidaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: East asian rhizomatous clump-forming perennial herbs having flowers on long leafless stalks; cosmopolitan in cultivation: day lilies; sometimes placed in subfamily hemerocallidaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemerocallis designates east asian rhizomatous clump-forming perennial herbs having flowers on long leafless stalks; cosmopolitan in cultivation: day lilies; sometimes placed in subfamily hemerocallidaceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: East asian rhizomatous clump-forming perennial herbs having flowers on long leafless stalks; cosmopolitan in cultivation: day lilies; sometimes placed in subfamily hemerocallidaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: East asian rhizomatous clump-forming perennial herbs having flowers on long leafless stalks; cosmopolitan in cultivation: day lilies; sometimes placed in subfamily hemerocallidaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemerocallis designates east asian rhizomatous clump-forming perennial herbs having flowers on long leafless stalks; cosmopolitan in cultivation: day lilies; sometimes placed in subfamily hemerocallidaceae."*

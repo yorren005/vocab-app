@@ -5,13 +5,6 @@ status: unread
 ---
 # neurocranium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In human anatomy, the neurocranium, also known as the braincase, brainpan, brain-pan, or brainbox, is the upper and back part of the skull, which forms a protective case around the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the human skull, the neurocranium includes the calvaria or skullcap.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurocranium designates in human anatomy, the neurocranium, also known as the braincase, brainpan, brain-pan, or brainbox, is the upper and back part of the skull, which forms a protective case around the brain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In human anatomy, the neurocranium, also known as the braincase, brainpan, brain-pan, or brainbox, is the upper and back part of the skull, which forms a protective case around the brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the human skull, the neurocranium includes the calvaria or skullcap.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurocranium designates in human anatomy, the neurocranium, also known as the braincase, brainpan, brain-pan, or brainbox, is the upper and back part of the skull, which forms a protective case around the brain."*

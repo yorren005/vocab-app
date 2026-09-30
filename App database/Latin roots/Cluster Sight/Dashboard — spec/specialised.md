@@ -5,13 +5,6 @@ status: unread
 ---
 # specialised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Devote oneself to a special area of work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be specific about.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The sources of his figurative wealth are specialised, sources of Shakespeare's are universal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devote oneself to a special area of work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be specific about.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The sources of his figurative wealth are specialised, sources of Shakespeare's are universal."*

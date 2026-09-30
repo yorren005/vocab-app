@@ -5,15 +5,6 @@ status: unread
 ---
 # insincerity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of not being open or truthful; deceitful or hypocritical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not being open or truthful; deceitful or hypocritical.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She had been used before to feel that he could not be always quite sincere, but now she saw insincerity in everything."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It is true that this self-consciousness brings him dangerously near the bounds of insincerity, but it must also be granted that he never oversteps those bounds."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Is insincerity such a terrible thing?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of not being open or truthful; deceitful or hypocritical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not being open or truthful; deceitful or hypocritical.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"She had been used before to feel that he could not be always quite sincere, but now she saw insincerity in everything."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It is true that this self-consciousness brings him dangerously near the bounds of insincerity, but it must also be granted that he never oversteps those bounds."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Is insincerity such a terrible thing?"*

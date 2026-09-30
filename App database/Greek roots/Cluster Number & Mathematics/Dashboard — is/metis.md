@@ -5,13 +5,6 @@ status: unread
 ---
 # metis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person in western canada who is of caucasian and american indian ancestry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person in western canada who is of caucasian and american indian ancestry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metis designates a person in western canada who is of caucasian and american indian ancestry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person in western canada who is of caucasian and american indian ancestry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person in western canada who is of caucasian and american indian ancestry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metis designates a person in western canada who is of caucasian and american indian ancestry."*

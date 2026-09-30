@@ -5,15 +5,6 @@ status: unread
 ---
 # recapture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal seizure by the government of profits beyond a fixed amount.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of taking something back.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The attempt has been made to recapture more of his thoughts by learning the value given to some of the terms he uses as they appear in the literature of the day, and of course it has been helpful."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Do not default; do not ever, ever give up.'' Recapture the Spark The following article, Joint Day Care for Young and Old, appeared on the op-ed page of The Wall Street Journal, issue dated December 31, 1986."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But we can with care recapture something of the experience of Jesus; we can roughly outline his outward life and environment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal seizure by the government of profits beyond a fixed amount.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of taking something back.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The attempt has been made to recapture more of his thoughts by learning the value given to some of the terms he uses as they appear in the literature of the day, and of course it has been helpful."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Do not default; do not ever, ever give up.'' Recapture the Spark The following article, Joint Day Care for Young and Old, appeared on the op-ed page of The Wall Street Journal, issue dated December 31, 1986."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But we can with care recapture something of the experience of Jesus; we can roughly outline his outward life and environment."*

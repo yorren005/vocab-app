@@ -5,15 +5,6 @@ status: unread
 ---
 # traverse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A horizontal beam that extends across something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A horizontal crosspiece across a window or separating a door from a window over it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He writes brave verses, speaks brave words, swears brave oaths, and breaks them bravely, quite traverse, athwart the heart of his lover, as a puny tilter, that spurs his horse but on one side, breaks his staff like a noble goose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To see thee fight, to see thee foin, to see thee traverse; to see thee here, to see thee there; to see thee pass thy punto, thy stock, thy reverse, thy distance, thy montant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Traverse, go, provide thy money."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A horizontal beam that extends across something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A horizontal crosspiece across a window or separating a door from a window over it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He writes brave verses, speaks brave words, swears brave oaths, and breaks them bravely, quite traverse, athwart the heart of his lover, as a puny tilter, that spurs his horse but on one side, breaks his staff like a noble goose."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To see thee fight, to see thee foin, to see thee traverse; to see thee here, to see thee there; to see thee pass thy punto, thy stock, thy reverse, thy distance, thy montant."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Traverse, go, provide thy money."*

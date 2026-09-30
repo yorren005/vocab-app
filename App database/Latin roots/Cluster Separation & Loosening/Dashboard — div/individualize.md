@@ -5,15 +5,6 @@ status: unread
 ---
 # individualize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make or mark or treat as individual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make personal or more personal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A startling quiet overhung all surrounding things—so completely, that the crunching of the waggon-wheels was as a great noise, and small rustles, which had never obtained a hearing except by night, were distinctly individualized."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But, thanks to Boldwood’s reticence and Oak’s generosity, the lover she had followed had never been individualized as Troy."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The human soul is regarded in Browning’s poetry as a complexly organized, individualized divine force, destined to gravitate towards the Infinite."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make or mark or treat as individual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make personal or more personal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A startling quiet overhung all surrounding things—so completely, that the crunching of the waggon-wheels was as a great noise, and small rustles, which had never obtained a hearing except by night, were distinctly individualized."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But, thanks to Boldwood’s reticence and Oak’s generosity, the lover she had followed had never been individualized as Troy."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The human soul is regarded in Browning’s poetry as a complexly organized, individualized divine force, destined to gravitate towards the Infinite."*

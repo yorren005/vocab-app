@@ -5,13 +5,6 @@ status: unread
 ---
 # transitiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The grammatical relation created by a transitive verb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The grammatical relation created by a transitive verb.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transitiveness designates the grammatical relation created by a transitive verb."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The grammatical relation created by a transitive verb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The grammatical relation created by a transitive verb.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transitiveness designates the grammatical relation created by a transitive verb."*

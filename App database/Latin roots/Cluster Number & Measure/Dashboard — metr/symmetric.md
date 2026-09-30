@@ -5,13 +5,6 @@ status: unread
 ---
 # symmetric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having similarity in size, shape, and relative position of corresponding parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having similarity in size, shape, and relative position of corresponding parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symmetric designates having similarity in size, shape, and relative position of corresponding parts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having similarity in size, shape, and relative position of corresponding parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having similarity in size, shape, and relative position of corresponding parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symmetric designates having similarity in size, shape, and relative position of corresponding parts."*

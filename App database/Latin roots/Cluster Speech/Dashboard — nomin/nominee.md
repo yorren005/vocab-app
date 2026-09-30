@@ -5,15 +5,6 @@ status: unread
 ---
 # nominee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A politician who is running for public office.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A politician who is running for public office.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Thomas Pinckney of South Carolina was the Federal nominee for Vice-President, and Aaron Burr of the Republicans."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In the Presidential election of 1800 John Adams was the nominee for President and C."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Fillmore, who was the nominee on both the Whig and American tickets, was 874,534, and his electoral vote was eight; that of the State of Maryland."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A politician who is running for public office.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A politician who is running for public office.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Thomas Pinckney of South Carolina was the Federal nominee for Vice-President, and Aaron Burr of the Republicans."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In the Presidential election of 1800 John Adams was the nominee for President and C."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Fillmore, who was the nominee on both the Whig and American tickets, was 874,534, and his electoral vote was eight; that of the State of Maryland."*

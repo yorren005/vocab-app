@@ -5,15 +5,6 @@ status: unread
 ---
 # confining
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place limits on (extent or access).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restrict or confine,.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus far, with rough and all-unable pen, Our bending author hath pursu’d the story, In little room confining mighty men, Mangling by starts the full course of their glory."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Here also the firmness of the judicial magistracy is of vast importance in mitigating the severity and confining the operation of such laws."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The passageways were narrow, confining them to two abreast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Place limits on (extent or access).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restrict or confine,.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus far, with rough and all-unable pen, Our bending author hath pursu’d the story, In little room confining mighty men, Mangling by starts the full course of their glory."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Here also the firmness of the judicial magistracy is of vast importance in mitigating the severity and confining the operation of such laws."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The passageways were narrow, confining them to two abreast."*

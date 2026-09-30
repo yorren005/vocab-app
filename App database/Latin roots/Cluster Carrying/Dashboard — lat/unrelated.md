@@ -5,15 +5,6 @@ status: unread
 ---
 # unrelated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a logical or causal relation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not connected by kinship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was now concerned only with the nearest practical matters unrelated to his past interests, and he seized on these the more eagerly the more those past interests were closed to him."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"You will, won’t you, dear?” And when Dunyásha willingly promised to do it all for her, Natásha sat down on the floor, took her old ball dress, and fell into a reverie quite unrelated to what ought to have occupied her thoughts now."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"He already felt unrelated to the familiar scene of things, and was impatient to be gone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a logical or causal relation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not connected by kinship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was now concerned only with the nearest practical matters unrelated to his past interests, and he seized on these the more eagerly the more those past interests were closed to him."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"You will, won’t you, dear?” And when Dunyásha willingly promised to do it all for her, Natásha sat down on the floor, took her old ball dress, and fell into a reverie quite unrelated to what ought to have occupied her thoughts now."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"He already felt unrelated to the familiar scene of things, and was impatient to be gone."*

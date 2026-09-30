@@ -5,13 +5,6 @@ status: unread
 ---
 # smiley
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An emoticon of a smiling face.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An emoticon of a smiling face.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, smiley designates an emoticon of a smiling face."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An emoticon of a smiling face.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An emoticon of a smiling face.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, smiley designates an emoticon of a smiling face."*

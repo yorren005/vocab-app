@@ -5,13 +5,6 @@ status: unread
 ---
 # arminianism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 17th century theology (named after its founder jacobus arminius) that opposes the absolute predestinarianism of john calvin and holds that human free will is compatible with god's sovereignty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 17th century theology (named after its founder jacobus arminius) that opposes the absolute predestinarianism of john calvin and holds that human free will is compatible with god's sovereignty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"We dwell on the points of distinction between Calvinism and Arminianism when the greater part of our people do not know the difference between an Arminian and an Armenian, and some good old sister thinks we are preaching on the cruelty of the Turks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: 17th century theology (named after its founder jacobus arminius) that opposes the absolute predestinarianism of john calvin and holds that human free will is compatible with god's sovereignty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 17th century theology (named after its founder jacobus arminius) that opposes the absolute predestinarianism of john calvin and holds that human free will is compatible with god's sovereignty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"We dwell on the points of distinction between Calvinism and Arminianism when the greater part of our people do not know the difference between an Arminian and an Armenian, and some good old sister thinks we are preaching on the cruelty of the Turks."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # lacrimator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gas that makes the eyes fill with tears but does not damage them; used in dispersing crowds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gas that makes the eyes fill with tears but does not damage them; used in dispersing crowds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lacrimator designates a gas that makes the eyes fill with tears but does not damage them; used in dispersing crowds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gas that makes the eyes fill with tears but does not damage them; used in dispersing crowds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gas that makes the eyes fill with tears but does not damage them; used in dispersing crowds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lacrimator designates a gas that makes the eyes fill with tears but does not damage them; used in dispersing crowds."*

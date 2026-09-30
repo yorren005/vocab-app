@@ -5,15 +5,6 @@ status: unread
 ---
 # propelling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to move forward with force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an incentive for action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Besides, this mystery must necessarily be solved, and before long; for, upon an order from Captain Nemo, the engine, increasing its propelling power, made the screw turn more rapidly."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But the _Nautilus_, carried along by its propelling power, passed through the mass of the vessel like a needle through sailcloth!"*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"The Chinese know nothing about dolls which open and shut their eyes, simple as this principle is, nor of toys which are self-propelling by some mysterious spring secreted within, because, forsooth, they know nothing about making the spring."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to move forward with force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an incentive for action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Besides, this mystery must necessarily be solved, and before long; for, upon an order from Captain Nemo, the engine, increasing its propelling power, made the screw turn more rapidly."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But the _Nautilus_, carried along by its propelling power, passed through the mass of the vessel like a needle through sailcloth!"*
+> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"The Chinese know nothing about dolls which open and shut their eyes, simple as this principle is, nor of toys which are self-propelling by some mysterious spring secreted within, because, forsooth, they know nothing about making the spring."*

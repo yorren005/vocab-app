@@ -5,15 +5,6 @@ status: unread
 ---
 # demolition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event (or the result of an event) that completely destroys something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of demolishing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"My dear sir, I understand your present feelings against the existing state of things, which I grant to be a little hard in your case; but I can never raise my voice for the demolition of a class of men like Mr."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Out." Keeper's message simultaneously loaded into the recon-patroller's computer as authenticator for the mission and demolition and laser gun settings."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"It was soon followed by the senseless and uncivilized demolition of the imposing dome of the Bahá'í Central Administrative Headquarters in the capital."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An event (or the result of an event) that completely destroys something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of demolishing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"My dear sir, I understand your present feelings against the existing state of things, which I grant to be a little hard in your case; but I can never raise my voice for the demolition of a class of men like Mr."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Out." Keeper's message simultaneously loaded into the recon-patroller's computer as authenticator for the mission and demolition and laser gun settings."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"It was soon followed by the senseless and uncivilized demolition of the imposing dome of the Bahá'í Central Administrative Headquarters in the capital."*

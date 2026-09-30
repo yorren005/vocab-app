@@ -5,15 +5,6 @@ status: unread
 ---
 # hereford
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hardy english breed of dairy cattle raised extensively in united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hardy english breed of dairy cattle raised extensively in united states.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Earl of Hereford was reputed then In England the most valiant gentleman."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, My lord the Duke of Buckingham, and Earl Of Hereford, Stafford, and Northampton, I Arrest thee of high treason, in the name Of our most sovereign King."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cousin of Hereford, what dost thou object Against the Duke of Norfolk, Thomas Mowbray?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hardy english breed of dairy cattle raised extensively in united states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hardy english breed of dairy cattle raised extensively in united states.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Earl of Hereford was reputed then In England the most valiant gentleman."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, My lord the Duke of Buckingham, and Earl Of Hereford, Stafford, and Northampton, I Arrest thee of high treason, in the name Of our most sovereign King."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cousin of Hereford, what dost thou object Against the Duke of Norfolk, Thomas Mowbray?"*

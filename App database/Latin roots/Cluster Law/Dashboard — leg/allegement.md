@@ -5,13 +5,6 @@ status: unread
 ---
 # allegement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Statements affirming or denying certain matters of fact that you are prepared to prove.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Statements affirming or denying certain matters of fact that you are prepared to prove.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allegement designates statements affirming or denying certain matters of fact that you are prepared to prove."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Statements affirming or denying certain matters of fact that you are prepared to prove.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Statements affirming or denying certain matters of fact that you are prepared to prove.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allegement designates statements affirming or denying certain matters of fact that you are prepared to prove."*

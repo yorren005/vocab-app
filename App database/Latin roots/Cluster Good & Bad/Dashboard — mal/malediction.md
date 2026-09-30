@@ -5,15 +5,6 @@ status: unread
 ---
 # malediction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of calling down a curse that invokes evil (and usually serves as an insult).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of calling down a curse that invokes evil (and usually serves as an insult).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"But still the disappointed father held a strong lever; and Fred felt as if he were being banished with a malediction."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"There! there! there!” And, with an awful gesture of malediction and hatred, he pointed with his wounded hand, swathed and shapeless with bandages, at the cowering, sobbing, wordless woman by his side."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"As I crossed the bridge over the Avon on my return, I paused to contemplate the distant church in which the poet lies buried, and could not but exult in the malediction which has kept his ashes undisturbed in its quiet and hallowed vaults."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of calling down a curse that invokes evil (and usually serves as an insult).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of calling down a curse that invokes evil (and usually serves as an insult).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"But still the disappointed father held a strong lever; and Fred felt as if he were being banished with a malediction."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"There! there! there!” And, with an awful gesture of malediction and hatred, he pointed with his wounded hand, swathed and shapeless with bandages, at the cowering, sobbing, wordless woman by his side."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"As I crossed the bridge over the Avon on my return, I paused to contemplate the distant church in which the poet lies buried, and could not but exult in the malediction which has kept his ashes undisturbed in its quiet and hallowed vaults."*

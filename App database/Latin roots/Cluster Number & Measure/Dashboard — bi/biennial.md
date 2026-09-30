@@ -5,15 +5,6 @@ status: unread
 ---
 # biennial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) a plant having a life cycle that normally takes two seasons from germination to death to complete; flowering biennials usually bloom and fruit in the second season.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a life cycle lasting two seasons.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Is it probable that it would be persevered in, and transmitted along through all the successive variations in a representative body, which biennial elections would naturally produce in both houses?"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In order to decide on the propriety of this article, two questions must be considered: first, whether biennial elections will, in this case, be safe; secondly, whether they be necessary or useful."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Have we any reason to infer, from the spirit and conduct of the representatives of the people, prior to the Revolution, that biennial elections would have been dangerous to the public liberties?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) a plant having a life cycle that normally takes two seasons from germination to death to complete; flowering biennials usually bloom and fruit in the second season.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a life cycle lasting two seasons.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Is it probable that it would be persevered in, and transmitted along through all the successive variations in a representative body, which biennial elections would naturally produce in both houses?"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In order to decide on the propriety of this article, two questions must be considered: first, whether biennial elections will, in this case, be safe; secondly, whether they be necessary or useful."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Have we any reason to infer, from the spirit and conduct of the representatives of the people, prior to the Revolution, that biennial elections would have been dangerous to the public liberties?"*

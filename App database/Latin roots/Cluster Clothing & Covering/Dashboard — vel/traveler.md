@@ -5,15 +5,6 @@ status: unread
 ---
 # traveler
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who changes location.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who changes location.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I reveled in the beauty of the world, and called loveliness out of the future to enjoy it before time should bring it to me, as a traveler in the plains looks up to the mountains, and already tastes the cool air through the dust of the road."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"In answer to my inquiries, he informed me that, three years before, he was a traveler in Spain."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Now and then one, more gifted than his colleagues, will inform the traveler that his train starts from "No. 3 or No. 7," but a moment's reflection and he hedges with No. 12."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who changes location.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who changes location.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I reveled in the beauty of the world, and called loveliness out of the future to enjoy it before time should bring it to me, as a traveler in the plains looks up to the mountains, and already tastes the cool air through the dust of the road."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"In answer to my inquiries, he informed me that, three years before, he was a traveler in Spain."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Now and then one, more gifted than his colleagues, will inform the traveler that his train starts from "No. 3 or No. 7," but a moment's reflection and he hedges with No. 12."*

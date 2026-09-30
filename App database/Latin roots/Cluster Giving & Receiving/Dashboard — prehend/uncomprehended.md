@@ -5,14 +5,6 @@ status: unread
 ---
 # uncomprehended
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fully understood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not fully understood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"To keep one another back, to breathe in that stifling atmosphere, to be unable to stir, and to await something unknown, uncomprehended, and terrible, was becoming unbearable."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"For Princess Mary, listening to Natásha’s tales of childhood and early youth, there also opened out a new and hitherto uncomprehended side of life: belief in life and its enjoyment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fully understood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not fully understood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"To keep one another back, to breathe in that stifling atmosphere, to be unable to stir, and to await something unknown, uncomprehended, and terrible, was becoming unbearable."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"For Princess Mary, listening to Natásha’s tales of childhood and early youth, there also opened out a new and hitherto uncomprehended side of life: belief in life and its enjoyment."*

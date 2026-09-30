@@ -5,15 +5,6 @@ status: unread
 ---
 # finishing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative texture or appearance of a surface (or the substance that gives it that appearance).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of finishing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The whole road has been reminding me of my namesake Whittington,” said Richard, “and that waggon is the finishing touch."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I sat there for another hour or more, finishing my books and payments and getting through plenty of business."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George, finishing the inquiry in his lower key with the words “You lying old rascal!” “My dear friend, he is not to be depended on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative texture or appearance of a surface (or the substance that gives it that appearance).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of finishing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The whole road has been reminding me of my namesake Whittington,” said Richard, “and that waggon is the finishing touch."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I sat there for another hour or more, finishing my books and payments and getting through plenty of business."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"George, finishing the inquiry in his lower key with the words “You lying old rascal!” “My dear friend, he is not to be depended on."*

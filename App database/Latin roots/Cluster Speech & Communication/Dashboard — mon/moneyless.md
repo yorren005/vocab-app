@@ -5,13 +5,6 @@ status: unread
 ---
 # moneyless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not based on the possession of money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no money.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moneyless designates not based on the possession of money."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not based on the possession of money.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no money.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moneyless designates not based on the possession of money."*

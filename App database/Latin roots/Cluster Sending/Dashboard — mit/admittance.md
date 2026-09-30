@@ -5,15 +5,6 @@ status: unread
 ---
 # admittance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The right to enter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of admitting someone to enter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With five times so much conversation I should get ground of your fair mistress; make her go back even to the yielding, had I admittance and opportunity to friend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give first admittance to th’ambassadors; My news shall be the fruit to that great feast."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For, lo, within a ken our army lies, Upon mine honour, all too confident To give admittance to a thought of fear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The right to enter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of admitting someone to enter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With five times so much conversation I should get ground of your fair mistress; make her go back even to the yielding, had I admittance and opportunity to friend."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give first admittance to th’ambassadors; My news shall be the fruit to that great feast."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For, lo, within a ken our army lies, Upon mine honour, all too confident To give admittance to a thought of fear."*

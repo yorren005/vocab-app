@@ -5,13 +5,6 @@ status: unread
 ---
 # parasympathetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Originates in the brain stem and lower part of the spinal cord; opposes physiological effects of the sympathetic nervous system: stimulates digestive secretions; slows the heart; constricts the pupils; dilates blood vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the parasympathetic nervous system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parasympathetic designates originates in the brain stem and lower part of the spinal cord; opposes physiological effects of the sympathetic nervous system: stimulates digestive secretions; slows the heart; constricts the pupils; dilates blood vessels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Originates in the brain stem and lower part of the spinal cord; opposes physiological effects of the sympathetic nervous system: stimulates digestive secretions; slows the heart; constricts the pupils; dilates blood vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the parasympathetic nervous system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parasympathetic designates originates in the brain stem and lower part of the spinal cord; opposes physiological effects of the sympathetic nervous system: stimulates digestive secretions; slows the heart; constricts the pupils; dilates blood vessels."*

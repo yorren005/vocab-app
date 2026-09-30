@@ -5,13 +5,6 @@ status: unread
 ---
 # underevaluation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An appraisal that underestimates the value of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An appraisal that underestimates the value of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underevaluation designates an appraisal that underestimates the value of something."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An appraisal that underestimates the value of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An appraisal that underestimates the value of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underevaluation designates an appraisal that underestimates the value of something."*

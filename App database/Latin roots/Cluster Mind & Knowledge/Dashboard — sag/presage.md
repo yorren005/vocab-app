@@ -5,15 +5,6 @@ status: unread
 ---
 # presage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A foreboding about what is about to happen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sign of something about to happen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mortal moon hath her eclipse endured, And the sad augurs mock their own presage, Incertainties now crown themselves assured, And peace proclaims olives of endless age."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be thou the trumpet of our wrath And sullen presage of your own decay.— An honourable conduct let him have."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now I change my mind, And partly credit things that do presage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A foreboding about what is about to happen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sign of something about to happen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mortal moon hath her eclipse endured, And the sad augurs mock their own presage, Incertainties now crown themselves assured, And peace proclaims olives of endless age."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be thou the trumpet of our wrath And sullen presage of your own decay.— An honourable conduct let him have."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now I change my mind, And partly credit things that do presage."*

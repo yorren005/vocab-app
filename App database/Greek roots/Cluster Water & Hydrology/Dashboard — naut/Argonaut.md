@@ -5,13 +5,6 @@ status: unread
 ---
 # Argonaut
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a band of heroes sailing with Jason in quest of the Golden Fleece.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adventurer engaged in a quest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was a shoal of argonauts travelling along on the surface of the ocean."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a band of heroes sailing with Jason in quest of the Golden Fleece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adventurer engaged in a quest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was a shoal of argonauts travelling along on the surface of the ocean."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # atomise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spray very finely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strike at with firepower or bombs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atomise designates spray very finely."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spray very finely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strike at with firepower or bombs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atomise designates spray very finely."*

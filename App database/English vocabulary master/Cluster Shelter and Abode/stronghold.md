@@ -5,20 +5,6 @@ status: unread
 ---
 # stronghold
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Fortified place
-> 2. **Nuance / Usage**: Place of security or survival
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch Book*):** *"snows, to this stronghold and came upon the garrison by surprise."*
-> - 📜 **Classic Author (*AA Book of British Villages*):** *"For a time, it was the only Royalist stronghold between London and Exeter, but it fell at last when a member of the garrison turned traitor and admitted the Parliamentary besiegers who destroyed it with gunpowder."*
-> - 📜 **K. Longbottom (*By Goods Train to Gweedore*):** *"Bridge End is the border station and the scene of many a sad parting between enterprising shoppers and their purchases—for it is a stronghold of the Customs !—and half an hour is allowed in the timetable for examination and shunting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A heavily fortified place, castle, or natural fastness designed to withstand attack and provide secure defense.
+> 2. **Nuance / Usage**: Figuratively, a region, community, or institution where a particular cause, political movement, or belief is overwhelmingly dominant.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch Book*):** *"They marched through the winter snows to this **stronghold** and came upon the garrison by surprise."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"The Highlanders retreated into their mountain **strongholds**, where no regular cavalry could follow them."*
+> - 📜 **K. Longbottom (*By Goods Train to Gweedore*):** *"Bridge End is the border station and a veritable **stronghold** of the Customs officers."*

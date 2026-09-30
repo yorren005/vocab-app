@@ -5,13 +5,6 @@ status: unread
 ---
 # anabolic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by or promoting metabolic activity concerned with the biosynthesis of complex molecules (such as proteins or nucleic acids) : relating to, characterized by, or stimulating anabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of usually synthetic hormones that are derivatives of testosterone, are used medically especially to promote tissue growth, and are sometimes abused by athletes to increase the size and strength of their muscles and improve endurance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anabolic designates marked by or promoting metabolic activity concerned with the biosynthesis of complex molecules (such as proteins or nucleic acids) : relating to, characterized by, or stimulating anabolism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by or promoting metabolic activity concerned with the biosynthesis of complex molecules (such as proteins or nucleic acids) : relating to, characterized by, or stimulating anabolism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of usually synthetic hormones that are derivatives of testosterone, are used medically especially to promote tissue growth, and are sometimes abused by athletes to increase the size and strength of their muscles and improve endurance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anabolic designates marked by or promoting metabolic activity concerned with the biosynthesis of complex molecules (such as proteins or nucleic acids) : relating to, characterized by, or stimulating anabolism."*

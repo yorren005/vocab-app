@@ -5,15 +5,6 @@ status: unread
 ---
 # repentant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressing remorse for misdeeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or expressing remorse for misdeeds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is no malice in this burning coal; The breath of heaven hath blown his spirit out And strew’d repentant ashes on his head."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O rash false heat, wrapped in repentant cold, Thy hasty spring still blasts and ne’er grows old!"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"In order to find peace for his restless soul he became a repentant pilgrim."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressing remorse for misdeeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or expressing remorse for misdeeds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is no malice in this burning coal; The breath of heaven hath blown his spirit out And strew’d repentant ashes on his head."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O rash false heat, wrapped in repentant cold, Thy hasty spring still blasts and ne’er grows old!"*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"In order to find peace for his restless soul he became a repentant pilgrim."*

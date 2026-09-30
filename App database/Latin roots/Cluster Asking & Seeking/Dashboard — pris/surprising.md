@@ -5,15 +5,6 @@ status: unread
 ---
 # surprising
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be surprised.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come upon or take unawares.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Surprising!” “Miss Barbary, sir,” returned Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is a bright-eyed woman, of a strong will and immense power of business detail, who throws herself into objects with surprising ardour!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t regret that I have not a strong will and an immense power of business detail to throw myself into objects with surprising ardour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be surprised.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come upon or take unawares.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Surprising!” “Miss Barbary, sir,” returned Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There is a bright-eyed woman, of a strong will and immense power of business detail, who throws herself into objects with surprising ardour!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t regret that I have not a strong will and an immense power of business detail to throw myself into objects with surprising ardour."*

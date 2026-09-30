@@ -5,13 +5,6 @@ status: unread
 ---
 # aesthetician
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker skilled in giving beauty treatments (manicures and facials etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A philosopher who specializes in the nature of beauty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aesthetician designates a worker skilled in giving beauty treatments (manicures and facials etc.)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker skilled in giving beauty treatments (manicures and facials etc.).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A philosopher who specializes in the nature of beauty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aesthetician designates a worker skilled in giving beauty treatments (manicures and facials etc.)."*

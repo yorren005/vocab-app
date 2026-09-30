@@ -5,15 +5,6 @@ status: unread
 ---
 # mutely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without speaking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without speaking.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In its occasional moments of reason, it would look piteously as if mutely appealing, and then the next convulsion would take it and seem to leave it just at death's door."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John—sitting as still as one of the dusty pictures on the walls, keeping his eyes fixed on the page he perused, and his lips mutely sealed—was easy enough to examine."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But Dorothea is not always consistent.” Thus Celia, mutely bending over her tapestry, until she heard her sister calling her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without speaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without speaking.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"In its occasional moments of reason, it would look piteously as if mutely appealing, and then the next convulsion would take it and seem to leave it just at death's door."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John—sitting as still as one of the dusty pictures on the walls, keeping his eyes fixed on the page he perused, and his lips mutely sealed—was easy enough to examine."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But Dorothea is not always consistent.” Thus Celia, mutely bending over her tapestry, until she heard her sister calling her."*

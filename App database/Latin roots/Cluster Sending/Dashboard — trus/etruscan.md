@@ -5,13 +5,6 @@ status: unread
 ---
 # etruscan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of ancient etruria; the etruscans influenced the romans (who had suppressed them by about 200 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of ancient etruria; the etruscans influenced the romans (who had suppressed them by about 200 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"But where repose the all Etruscan three-- Dante, and Petrarch, and, scarce less than they, The Bard of Prose, creative spirit! he Of the Hundred Tales of love--where did they lay Their bones, distinguished from our common clay In death as life?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of ancient etruria; the etruscans influenced the romans (who had suppressed them by about 200 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of ancient etruria; the etruscans influenced the romans (who had suppressed them by about 200 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"But where repose the all Etruscan three-- Dante, and Petrarch, and, scarce less than they, The Bard of Prose, creative spirit! he Of the Hundred Tales of love--where did they lay Their bones, distinguished from our common clay In death as life?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # undirected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aimlessly drifting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aimlessly drifting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Shakespeare, when young, had doubtless all the wildness and irregularity of an ardent, undisciplined, and undirected genius."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Human falsities Mortals have a modus of their own, undirected and un- 212:18 sustained by God."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"If your sagacity, knowledge, and experience, could put me on the right track, I might be able to do so much; unenlightened and undirected, I can do so little."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aimlessly drifting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aimlessly drifting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Shakespeare, when young, had doubtless all the wildness and irregularity of an ardent, undisciplined, and undirected genius."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Human falsities Mortals have a modus of their own, undirected and un- 212:18 sustained by God."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"If your sagacity, knowledge, and experience, could put me on the right track, I might be able to do so much; unenlightened and undirected, I can do so little."*

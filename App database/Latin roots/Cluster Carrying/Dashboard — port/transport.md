@@ -5,15 +5,6 @@ status: unread
 ---
 # transport
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that serves as a means of transportation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An exchange of molecules (and their kinetic energy and momentum) across the boundary between adjacent layers of a fluid or across cell membranes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He cannot temp’rately transport his honours From where he should begin and end, but will Lose those he hath won."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Might not you Transport her purposes by word?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I came hither to transport the tidings, Which I have heavily borne, there ran a rumour Of many worthy fellows that were out; Which was to my belief witness’d the rather, For that I saw the tyrant’s power afoot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that serves as a means of transportation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An exchange of molecules (and their kinetic energy and momentum) across the boundary between adjacent layers of a fluid or across cell membranes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He cannot temp’rately transport his honours From where he should begin and end, but will Lose those he hath won."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Might not you Transport her purposes by word?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I came hither to transport the tidings, Which I have heavily borne, there ran a rumour Of many worthy fellows that were out; Which was to my belief witness’d the rather, For that I saw the tyrant’s power afoot."*

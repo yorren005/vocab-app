@@ -5,15 +5,6 @@ status: unread
 ---
 # stomach
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A saclike expansion of the digestive tract of a vertebrate that is located between the esophagus and duodenum and typically consists of a simple often curved sac with an outer serous covering, a strong muscular wall that contracts rhythmically, and an inner mucous membrane lining that contains gastric glands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the compartments making up the stomach of a ruminant animal (such as a cow or sheep).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virginity breeds mites, much like a cheese; consumes itself to the very paring, and so dies with feeding his own stomach."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The brains of my Cupid’s knock’d out, and I begin to love, as an old man loves money, with no stomach."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did he not rather Discredit my authority with yours, And make the wars alike against my stomach, Having alike your cause?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A saclike expansion of the digestive tract of a vertebrate that is located between the esophagus and duodenum and typically consists of a simple often curved sac with an outer serous covering, a strong muscular wall that contracts rhythmically, and an inner mucous membrane lining that contains gastric glands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the compartments making up the stomach of a ruminant animal (such as a cow or sheep).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virginity breeds mites, much like a cheese; consumes itself to the very paring, and so dies with feeding his own stomach."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The brains of my Cupid’s knock’d out, and I begin to love, as an old man loves money, with no stomach."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did he not rather Discredit my authority with yours, And make the wars alike against my stomach, Having alike your cause?"*

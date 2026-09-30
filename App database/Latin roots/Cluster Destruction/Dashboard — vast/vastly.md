@@ -5,15 +5,6 @@ status: unread
 ---
 # vastly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an exceedingly great extent or degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an exceedingly great extent or degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Thurveydrop, in virtue of his deportment, considering himself vastly superior to all the company—it was a very unpromising case."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Life is vastly different from mere chemic matter fluxing in high modes of notion."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In Songdo I became a fuel-carrier, and the Lady Om and I shared a hut that was vastly more comfortable than the open road in bitter winter weather."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To an exceedingly great extent or degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an exceedingly great extent or degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Thurveydrop, in virtue of his deportment, considering himself vastly superior to all the company—it was a very unpromising case."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Life is vastly different from mere chemic matter fluxing in high modes of notion."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In Songdo I became a fuel-carrier, and the Lady Om and I shared a hut that was vastly more comfortable than the open road in bitter winter weather."*

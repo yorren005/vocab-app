@@ -5,14 +5,6 @@ status: unread
 ---
 # ungratefully
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ungrateful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ungrateful manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Ablethorpe, "you owe me something for the afternoon's work I gave you!" "Yon!" cried the old man, ungratefully, "caa ye that half a day's wark?"*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Janet never speaks ungratefully of her, though she has done nothing for Janet.” “I have not spoken ungratefully,” protested Alice, almost in tears."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ungrateful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ungrateful manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Ablethorpe, "you owe me something for the afternoon's work I gave you!" "Yon!" cried the old man, ungratefully, "caa ye that half a day's wark?"*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Janet never speaks ungratefully of her, though she has done nothing for Janet.” “I have not spoken ungratefully,” protested Alice, almost in tears."*

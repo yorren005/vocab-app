@@ -5,14 +5,6 @@ status: unread
 ---
 # perspicacity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intelligence manifested by being astute (as in business dealings).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capacity to assess situations or circumstances shrewdly and to draw sound conclusions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It raises the thinker into his native air of insight and perspicacity."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"It was a marvellous effort of perspicacity to discover that I did not love her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intelligence manifested by being astute (as in business dealings).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capacity to assess situations or circumstances shrewdly and to draw sound conclusions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It raises the thinker into his native air of insight and perspicacity."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"It was a marvellous effort of perspicacity to discover that I did not love her."*

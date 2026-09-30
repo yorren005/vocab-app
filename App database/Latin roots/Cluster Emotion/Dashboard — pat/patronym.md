@@ -5,13 +5,6 @@ status: unread
 ---
 # patronym
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family name derived from name of your father or a paternal ancestor (especially with an affix (such as -son in english or o'- in irish) added to the name of your father or a paternal ancestor).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family name derived from name of your father or a paternal ancestor (especially with an affix (such as -son in english or o'- in irish) added to the name of your father or a paternal ancestor).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patronym designates a family name derived from name of your father or a paternal ancestor (especially with an affix (such as -son in english or o'- in irish) added to the name of your father or a paternal ancestor)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family name derived from name of your father or a paternal ancestor (especially with an affix (such as -son in english or o'- in irish) added to the name of your father or a paternal ancestor).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family name derived from name of your father or a paternal ancestor (especially with an affix (such as -son in english or o'- in irish) added to the name of your father or a paternal ancestor).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patronym designates a family name derived from name of your father or a paternal ancestor (especially with an affix (such as -son in english or o'- in irish) added to the name of your father or a paternal ancestor)."*

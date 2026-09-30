@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrothermal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to hot water —used especially of the formation of minerals by hot solutions rising from a cooling magma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fissure in the ocean floor especially at or near a mid-ocean ridge from which mineral-rich superheated water issues.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrothermal designates of or relating to hot water —used especially of the formation of minerals by hot solutions rising from a cooling magma."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to hot water —used especially of the formation of minerals by hot solutions rising from a cooling magma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fissure in the ocean floor especially at or near a mid-ocean ridge from which mineral-rich superheated water issues.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrothermal designates of or relating to hot water —used especially of the formation of minerals by hot solutions rising from a cooling magma."*

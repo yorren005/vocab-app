@@ -5,15 +5,6 @@ status: unread
 ---
 # liquefy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become liquid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (a solid substance) liquid, as by heating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"For air, as we well know, is a mixture of gases, and when extreme cold and pressure are applied these gases liquefy, each behaving according to its own nature."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"They do not all liquefy at the same time, nor on being relieved from the pressure and heated do all evaporate again at the same temperature."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This process is known as fractional distillation, and it will be noticed that it consists essentially in collecting and liquefying separately those vapours which are given off at different ranges of temperature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become liquid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (a solid substance) liquid, as by heating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"For air, as we well know, is a mixture of gases, and when extreme cold and pressure are applied these gases liquefy, each behaving according to its own nature."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"They do not all liquefy at the same time, nor on being relieved from the pressure and heated do all evaporate again at the same temperature."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This process is known as fractional distillation, and it will be noticed that it consists essentially in collecting and liquefying separately those vapours which are given off at different ranges of temperature."*

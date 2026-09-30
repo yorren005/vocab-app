@@ -5,15 +5,6 @@ status: unread
 ---
 # divestiture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order to an offending party to rid itself of property; it has the purpose of depriving the defendant of the gains of wrongful behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sale by a company of a product line or a subsidiary or a division.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The United States, as now composed, have no powers to exact obedience, or punish disobedience to their resolutions, either by pecuniary mulcts, by a suspension or divestiture of privileges, or by any other constitutional mode."*
-> - 📜 **James Joyce (*Ulysses*):** *"Freeman’s Journal 1—7—6 Loan (Stephen Dedalus) 1—7—0 ————— 2—19—3 Did the process of divestiture continue?"*
-> - 📜 **James Joyce (*Ulysses*):** *"Did the process of divestiture continue?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order to an offending party to rid itself of property; it has the purpose of depriving the defendant of the gains of wrongful behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sale by a company of a product line or a subsidiary or a division.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The United States, as now composed, have no powers to exact obedience, or punish disobedience to their resolutions, either by pecuniary mulcts, by a suspension or divestiture of privileges, or by any other constitutional mode."*
+> - 📜 **James Joyce (*Ulysses*):** *"Freeman’s Journal 1—7—6 Loan (Stephen Dedalus) 1—7—0 ————— 2—19—3 Did the process of divestiture continue?"*
+> - 📜 **James Joyce (*Ulysses*):** *"Did the process of divestiture continue?"*

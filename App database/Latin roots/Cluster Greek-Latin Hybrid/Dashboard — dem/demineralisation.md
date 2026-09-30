@@ -5,13 +5,6 @@ status: unread
 ---
 # demineralisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal loss of mineral salts (especially from bone).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The removal of minerals and mineral salts from a liquid (especially from water).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demineralisation designates abnormal loss of mineral salts (especially from bone)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal loss of mineral salts (especially from bone).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The removal of minerals and mineral salts from a liquid (especially from water).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demineralisation designates abnormal loss of mineral salts (especially from bone)."*

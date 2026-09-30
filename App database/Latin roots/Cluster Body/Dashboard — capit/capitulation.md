@@ -5,15 +5,6 @@ status: unread
 ---
 # capitulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A document containing the terms of surrender.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A summary that enumerates the main parts of a topic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Capitulation—that was the purport of the simple reply, guarded as it was—capitulation, unknown to herself."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"But at its capitulation, he is undeceived concerning the Hellenic patriots; they ravage and plunder so fiercely that he turns from them with repugnance and both he and Alabanda abandon the cause of liberty which they had championed."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Sudden ceased the battle's din, And he who led the invading army on Gave orders for a halt, in expectation Of winning now the fort's capitulation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A document containing the terms of surrender.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A summary that enumerates the main parts of a topic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Capitulation—that was the purport of the simple reply, guarded as it was—capitulation, unknown to herself."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"But at its capitulation, he is undeceived concerning the Hellenic patriots; they ravage and plunder so fiercely that he turns from them with repugnance and both he and Alabanda abandon the cause of liberty which they had championed."*
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Sudden ceased the battle's din, And he who led the invading army on Gave orders for a halt, in expectation Of winning now the fort's capitulation."*

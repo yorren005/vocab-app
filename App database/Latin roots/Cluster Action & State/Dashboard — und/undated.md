@@ -5,15 +5,6 @@ status: unread
 ---
 # undated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not bearing a date.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not bearing a date.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Read it aloud.” The note was undated, and without either signature or address."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Litzmann," Stuttgart, Cotta, undated."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"WALT WHITMAN TO ANNE GILCHRIST _Camden, New Jersey_ _Undated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not bearing a date.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not bearing a date.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Read it aloud.” The note was undated, and without either signature or address."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Litzmann," Stuttgart, Cotta, undated."*
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"WALT WHITMAN TO ANNE GILCHRIST _Camden, New Jersey_ _Undated."*

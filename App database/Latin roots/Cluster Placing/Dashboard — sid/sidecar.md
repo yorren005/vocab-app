@@ -5,13 +5,6 @@ status: unread
 ---
 # sidecar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cocktail made of orange liqueur with lemon juice and brandy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conveyance consisting of a small carrier attached to the side of a motorcycle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sidecar designates a cocktail made of orange liqueur with lemon juice and brandy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cocktail made of orange liqueur with lemon juice and brandy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conveyance consisting of a small carrier attached to the side of a motorcycle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sidecar designates a cocktail made of orange liqueur with lemon juice and brandy."*

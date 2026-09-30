@@ -5,13 +5,6 @@ status: unread
 ---
 # agrology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Science of soils in relation to crops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Science of soils in relation to crops.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agrology designates science of soils in relation to crops."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Science of soils in relation to crops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Science of soils in relation to crops.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agrology designates science of soils in relation to crops."*

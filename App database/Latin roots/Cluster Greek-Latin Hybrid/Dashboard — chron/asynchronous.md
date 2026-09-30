@@ -5,13 +5,6 @@ status: unread
 ---
 # asynchronous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (digital communication) pertaining to a transmission technique that does not require a common clock between the communicating devices; timing signals are derived from special characters in the data stream itself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not synchronous; not occurring or existing at the same time or having the same period or phase.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asynchronous designates (digital communication) pertaining to a transmission technique that does not require a common clock between the communicating devices; timing signals are derived from special characters in the data stream itself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (digital communication) pertaining to a transmission technique that does not require a common clock between the communicating devices; timing signals are derived from special characters in the data stream itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not synchronous; not occurring or existing at the same time or having the same period or phase.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asynchronous designates (digital communication) pertaining to a transmission technique that does not require a common clock between the communicating devices; timing signals are derived from special characters in the data stream itself."*

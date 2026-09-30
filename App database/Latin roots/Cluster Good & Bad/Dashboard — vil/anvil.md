@@ -5,15 +5,6 @@ status: unread
 ---
 # anvil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy block of iron or steel on which hot metals are shaped by hammering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ossicle between the malleus and the stapes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here I clip The anvil of my sword and do contest As hotly and as nobly with thy love As ever in ambitious strength I did Contend against thy valour."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The weather was still favourable, the ground ringing under her feet like an anvil."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In Gacko, contrary to the usual custom, the fire is made by striking a piece of iron on an anvil, till sparks are given out, which are caught in tinder."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy block of iron or steel on which hot metals are shaped by hammering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ossicle between the malleus and the stapes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here I clip The anvil of my sword and do contest As hotly and as nobly with thy love As ever in ambitious strength I did Contend against thy valour."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The weather was still favourable, the ground ringing under her feet like an anvil."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In Gacko, contrary to the usual custom, the fire is made by striking a piece of iron on an anvil, till sparks are given out, which are caught in tinder."*

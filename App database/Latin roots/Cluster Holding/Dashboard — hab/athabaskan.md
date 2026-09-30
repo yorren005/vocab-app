@@ -5,13 +5,6 @@ status: unread
 ---
 # athabaskan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of any of the north american indian groups speaking an athapaskan language and living in the subarctic regions of western canada and central alaska.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of amerindian languages (the name coined by an american anthropologist, edward sapir).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, athabaskan designates a member of any of the north american indian groups speaking an athapaskan language and living in the subarctic regions of western canada and central alaska."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of any of the north american indian groups speaking an athapaskan language and living in the subarctic regions of western canada and central alaska.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of amerindian languages (the name coined by an american anthropologist, edward sapir).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, athabaskan designates a member of any of the north american indian groups speaking an athapaskan language and living in the subarctic regions of western canada and central alaska."*

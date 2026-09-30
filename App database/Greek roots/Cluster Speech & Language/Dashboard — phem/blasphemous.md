@@ -5,15 +5,6 @@ status: unread
 ---
 # blasphemous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grossly irreverent toward what is held to be sacred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by profanity or cursing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A pox o’ your throat, you bawling, blasphemous, incharitable dog!"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I remembered back to my young days when I had sat at the feet of Arius, who had been a presbyter of the city of Alexandria, and who had been robbed of the bishopric by the blasphemous and heretical Alexander."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Blasphemous and heretical Warden of San Quentin whose feet have fast hold of hell,” I gibed, after I had drunk deep of the water they held to my lips."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Grossly irreverent toward what is held to be sacred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by profanity or cursing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A pox o’ your throat, you bawling, blasphemous, incharitable dog!"*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I remembered back to my young days when I had sat at the feet of Arius, who had been a presbyter of the city of Alexandria, and who had been robbed of the bishopric by the blasphemous and heretical Alexander."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Blasphemous and heretical Warden of San Quentin whose feet have fast hold of hell,” I gibed, after I had drunk deep of the water they held to my lips."*

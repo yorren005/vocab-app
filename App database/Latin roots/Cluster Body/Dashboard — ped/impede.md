@@ -5,15 +5,6 @@ status: unread
 ---
 # impede
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a hindrance or obstacle to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Block passage through.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And it does not become us, who assist in making the laws, to impede or interfere with those who carry them into execution."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Then, at the back,” said Wemmick, “out of sight, so as not to impede the idea of fortifications,—for it’s a principle with me, if you have an idea, carry it out and keep it up,—I don’t know whether that’s your opinion—” I said, decidedly."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Norris might never have saved her money; but having no care of that kind, there was nothing to impede her frugality, or lessen the comfort of making a yearly addition to an income which they had never lived up to."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a hindrance or obstacle to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Block passage through.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"And it does not become us, who assist in making the laws, to impede or interfere with those who carry them into execution."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Then, at the back,” said Wemmick, “out of sight, so as not to impede the idea of fortifications,—for it’s a principle with me, if you have an idea, carry it out and keep it up,—I don’t know whether that’s your opinion—” I said, decidedly."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Norris might never have saved her money; but having no care of that kind, there was nothing to impede her frugality, or lessen the comfort of making a yearly addition to an income which they had never lived up to."*

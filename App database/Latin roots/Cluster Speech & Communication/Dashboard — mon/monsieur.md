@@ -5,15 +5,6 @@ status: unread
 ---
 # monsieur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used as a french courtesy title; equivalent to english `mr'.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used as a french courtesy title; equivalent to english `mr'.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Monsieur Parolles, my lord calls for you. [_Exit Page._] PAROLLES."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Monsieur Parolles, you were born under a charitable star."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is there any unkindness between my lord and you, monsieur?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used as a french courtesy title; equivalent to english `mr'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used as a french courtesy title; equivalent to english `mr'.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Monsieur Parolles, my lord calls for you. [_Exit Page._] PAROLLES."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Monsieur Parolles, you were born under a charitable star."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is there any unkindness between my lord and you, monsieur?"*

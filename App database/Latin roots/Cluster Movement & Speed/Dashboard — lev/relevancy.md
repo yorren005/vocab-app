@@ -5,14 +5,6 @@ status: unread
 ---
 # relevancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation of something to the matter at hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation of something to the matter at hand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"This reflection suggested some meaning—some relevancy—in the death’s head."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Yet, within the majority of families, a culture's mythology, traditions and values retain their relevancy and often, their majesty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation of something to the matter at hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation of something to the matter at hand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"This reflection suggested some meaning—some relevancy—in the death’s head."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Yet, within the majority of families, a culture's mythology, traditions and values retain their relevancy and often, their majesty."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # cosmopolite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sophisticated person who has travelled in many countries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sophisticated person who has travelled in many countries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Francis, the Great Cosmopolite Equestrian and Roughrider, would enact the part of Turpin, and she was not yet too old and careworn to be without a little curiosity to see him."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I mean the spirit--the genius.” “I’m not sure that I understand you,” said the correspondent of the _Interviewer_; “but I expect I shall before I leave.” “He’s what’s called a cosmopolite,” Isabel suggested."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"They talked of the Florentine, the Roman, the cosmopolite world, and might have been distinguished performers figuring for a charity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sophisticated person who has travelled in many countries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sophisticated person who has travelled in many countries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Francis, the Great Cosmopolite Equestrian and Roughrider, would enact the part of Turpin, and she was not yet too old and careworn to be without a little curiosity to see him."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I mean the spirit--the genius.” “I’m not sure that I understand you,” said the correspondent of the _Interviewer_; “but I expect I shall before I leave.” “He’s what’s called a cosmopolite,” Isabel suggested."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"They talked of the Florentine, the Roman, the cosmopolite world, and might have been distinguished performers figuring for a charity."*

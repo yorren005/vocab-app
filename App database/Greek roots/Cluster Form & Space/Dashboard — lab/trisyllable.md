@@ -5,13 +5,6 @@ status: unread
 ---
 # trisyllable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word of three syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word of three syllables.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trisyllable designates a word of three syllables."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word of three syllables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word of three syllables.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trisyllable designates a word of three syllables."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # organically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As an important constituent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving carbon compounds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Conflicting standpoints 83:21 It is contrary to Christian Science to suppose that life is either material or organically spiritual."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As an important constituent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving carbon compounds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Conflicting standpoints 83:21 It is contrary to Christian Science to suppose that life is either material or organically spiritual."*

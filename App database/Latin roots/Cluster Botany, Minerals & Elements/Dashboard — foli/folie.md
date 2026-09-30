@@ -5,13 +5,6 @@ status: unread
 ---
 # folie
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychiatry) a psychological disorder of thought or emotion; a more neutral term than mental illness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychiatry) a psychological disorder of thought or emotion; a more neutral term than mental illness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"I wonder you men don’t take warning. _On a fait des folies pour moi_, and here I am, a poor rheumatic creature, with a false front and a bad temper."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychiatry) a psychological disorder of thought or emotion; a more neutral term than mental illness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychiatry) a psychological disorder of thought or emotion; a more neutral term than mental illness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"I wonder you men don’t take warning. _On a fait des folies pour moi_, and here I am, a poor rheumatic creature, with a false front and a bad temper."*

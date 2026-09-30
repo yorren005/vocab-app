@@ -5,15 +5,6 @@ status: unread
 ---
 # illiterate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person unable to read.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able to read or write.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, the illiterate, that know not how To cipher what is writ in learned books, Will quote my loathsome trespass in my looks."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I think you must have taught them that word in the ‘Pioneer.’” “Oh, that is Keck—an illiterate fellow, you know."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Surely not for an illiterate peasantry, half crazed by the fear of hell?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person unable to read.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able to read or write.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, the illiterate, that know not how To cipher what is writ in learned books, Will quote my loathsome trespass in my looks."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I think you must have taught them that word in the ‘Pioneer.’” “Oh, that is Keck—an illiterate fellow, you know."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Surely not for an illiterate peasantry, half crazed by the fear of hell?"*

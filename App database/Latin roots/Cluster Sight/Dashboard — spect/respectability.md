@@ -5,15 +5,6 @@ status: unread
 ---
 # respectability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Honorableness by virtue of being respectable and having a good reputation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Honorableness by virtue of being respectable and having a good reputation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, my dear Miss Summerson, if you want common sense, responsibility, and respectability, all united—if you want an exemplary man—Vholes is THE man.” We had not known, we said, that Richard was assisted by any gentleman of that name."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He never misses a chance in his practice, which is a mark of respectability."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He never takes any pleasure, which is another mark of respectability."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Honorableness by virtue of being respectable and having a good reputation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Honorableness by virtue of being respectable and having a good reputation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, my dear Miss Summerson, if you want common sense, responsibility, and respectability, all united—if you want an exemplary man—Vholes is THE man.” We had not known, we said, that Richard was assisted by any gentleman of that name."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He never misses a chance in his practice, which is a mark of respectability."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He never takes any pleasure, which is another mark of respectability."*

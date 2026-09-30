@@ -5,15 +5,6 @@ status: unread
 ---
 # astronomer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A physicist who studies astronomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physicist who studies astronomy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, learn’d indeed were that astronomer That knew the stars as I his characters; He’d lay the future open."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"That the vulgar should believe in extraordinary comets traversing space, and in the existence of antediluvian monsters in the heart of the globe, may well be; but neither astronomer nor geologist believes in such chimeras."*
-> - 📜 **John Milton (*Paradise Lost*):** *"There lands the Fiend, a spot like which perhaps Astronomer in the Sun’s lucent Orbe Through his glaz’d Optic Tube yet never saw."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physicist who studies astronomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physicist who studies astronomy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, learn’d indeed were that astronomer That knew the stars as I his characters; He’d lay the future open."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"That the vulgar should believe in extraordinary comets traversing space, and in the existence of antediluvian monsters in the heart of the globe, may well be; but neither astronomer nor geologist believes in such chimeras."*
+> - 📜 **John Milton (*Paradise Lost*):** *"There lands the Fiend, a spot like which perhaps Astronomer in the Sun’s lucent Orbe Through his glaz’d Optic Tube yet never saw."*

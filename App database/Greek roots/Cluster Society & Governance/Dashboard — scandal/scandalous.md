@@ -5,15 +5,6 @@ status: unread
 ---
 # scandalous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving offense to moral sensibilities and injurious to reputation; ; - thackeray.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giving offense to moral sensibilities and injurious to reputation; ; - thackeray.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall we thus permit A blasting and a scandalous breath to fall On him so near us?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll not call you tyrant; But this most cruel usage of your queen, Not able to produce more accusation Than your own weak-hing’d fancy, something savours Of tyranny, and will ignoble make you, Yea, scandalous to the world."*
-> - 📜 **Jane Austen (*Persuasion*):** *"If I would not go for the sake of your father, I should think it scandalous to go for the sake of his heir."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving offense to moral sensibilities and injurious to reputation; ; - thackeray.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giving offense to moral sensibilities and injurious to reputation; ; - thackeray.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall we thus permit A blasting and a scandalous breath to fall On him so near us?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll not call you tyrant; But this most cruel usage of your queen, Not able to produce more accusation Than your own weak-hing’d fancy, something savours Of tyranny, and will ignoble make you, Yea, scandalous to the world."*
+> - 📜 **Jane Austen (*Persuasion*):** *"If I would not go for the sake of your father, I should think it scandalous to go for the sake of his heir."*

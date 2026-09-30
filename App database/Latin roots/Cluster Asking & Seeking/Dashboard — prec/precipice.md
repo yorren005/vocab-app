@@ -5,15 +5,6 @@ status: unread
 ---
 # precipice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very steep cliff.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very steep cliff.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You take a precipice for no leap of danger, And woo your own destruction."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Climbing up a high mountain, he had fallen down a precipice and had been found dead."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak looked over the precipice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very steep cliff.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very steep cliff.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You take a precipice for no leap of danger, And woo your own destruction."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Climbing up a high mountain, he had fallen down a precipice and had been found dead."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak looked over the precipice."*

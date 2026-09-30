@@ -5,14 +5,6 @@ status: unread
 ---
 # arminian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adherent of arminianism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to arminianism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Nae poison’d soor Arminian stank He let them taste; Frae Calvin’s well, aye clear, drank,— O, sic a feast! [Footnote 1: Rev."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"We dwell on the points of distinction between Calvinism and Arminianism when the greater part of our people do not know the difference between an Arminian and an Armenian, and some good old sister thinks we are preaching on the cruelty of the Turks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adherent of arminianism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to arminianism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Nae poison’d soor Arminian stank He let them taste; Frae Calvin’s well, aye clear, drank,— O, sic a feast! [Footnote 1: Rev."*
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"We dwell on the points of distinction between Calvinism and Arminianism when the greater part of our people do not know the difference between an Arminian and an Armenian, and some good old sister thinks we are preaching on the cruelty of the Turks."*

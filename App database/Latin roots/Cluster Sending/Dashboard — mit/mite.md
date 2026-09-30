@@ -5,15 +5,6 @@ status: unread
 ---
 # mite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slight but appreciable amount.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous very small to minute arachnids often infesting animals or plants or stored foods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll show you those in troubles reign, Losing a mite, a mountain gain."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I put down my mite first; then my young family enrol their contributions, according to their ages and their little means; and then Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In a poor room with a sloping ceiling and containing very little furniture was a mite of a boy, some five or six years old, nursing and hushing a heavy child of eighteen months."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slight but appreciable amount.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous very small to minute arachnids often infesting animals or plants or stored foods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll show you those in troubles reign, Losing a mite, a mountain gain."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I put down my mite first; then my young family enrol their contributions, according to their ages and their little means; and then Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In a poor room with a sloping ceiling and containing very little furniture was a mite of a boy, some five or six years old, nursing and hushing a heavy child of eighteen months."*

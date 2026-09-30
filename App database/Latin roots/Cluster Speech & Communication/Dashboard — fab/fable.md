@@ -5,15 +5,6 @@ status: unread
 ---
 # fable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deliberately false or improbable account.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short moral story (often with animal characters).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sans fable, she herself revil’d you there."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let Aesop fable in a winter’s night; His currish riddle sorts not with this place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By the world, I recount no fable!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deliberately false or improbable account.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short moral story (often with animal characters).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sans fable, she herself revil’d you there."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let Aesop fable in a winter’s night; His currish riddle sorts not with this place."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By the world, I recount no fable!"*

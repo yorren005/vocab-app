@@ -5,15 +5,6 @@ status: unread
 ---
 # censer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A container for burning incense (especially one that is swung on a chain in a religious ritual).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A container for burning incense (especially one that is swung on a chain in a religious ritual).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll tell you what, you thin man in a censer, I will have you as soundly swinged for this, you bluebottle rogue, you filthy famished correctioner, if you be not swinged, I’ll forswear half-kirtles."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s snip and nip and cut and slish and slash, Like to a censer in a barber’s shop."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"That’s the appropriate country; there, man’s thought, Rarer, intenser, {10} Self-gathered for an outbreak, as it ought, Chafes in the censer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A container for burning incense (especially one that is swung on a chain in a religious ritual).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A container for burning incense (especially one that is swung on a chain in a religious ritual).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll tell you what, you thin man in a censer, I will have you as soundly swinged for this, you bluebottle rogue, you filthy famished correctioner, if you be not swinged, I’ll forswear half-kirtles."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s snip and nip and cut and slish and slash, Like to a censer in a barber’s shop."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"That’s the appropriate country; there, man’s thought, Rarer, intenser, {10} Self-gathered for an outbreak, as it ought, Chafes in the censer."*

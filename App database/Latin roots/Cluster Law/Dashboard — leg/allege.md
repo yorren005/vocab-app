@@ -5,15 +5,6 @@ status: unread
 ---
 # allege
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Report or maintain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Report or maintain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reasons you allege do more conduce To the hot passion of distemp’red blood Than to make up a free determination ’Twixt right and wrong; for pleasure and revenge Have ears more deaf than adders to the voice Of any true decision."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester in the shadowy orchard; but I could not find a reason to allege for leaving him."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Other people would say so, and would allege that he was currying favor with Bulstrode for the sake of making himself important and getting on in the world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Report or maintain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Report or maintain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reasons you allege do more conduce To the hot passion of distemp’red blood Than to make up a free determination ’Twixt right and wrong; for pleasure and revenge Have ears more deaf than adders to the voice Of any true decision."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester in the shadowy orchard; but I could not find a reason to allege for leaving him."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Other people would say so, and would allege that he was currying favor with Bulstrode for the sake of making himself important and getting on in the world."*

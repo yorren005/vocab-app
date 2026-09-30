@@ -5,15 +5,6 @@ status: unread
 ---
 # indecorous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking propriety and good taste in manners and conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in keeping with accepted standards of what is right or proper in polite society.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For, as without law there is no sin, without eyes there is no indecorum; and she appeared to feel that Gabriel’s espial had made her an indecorous woman without her own connivance."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"It was very wrong; very indecorous.” “And very ungrateful, I think.” “Ungrateful is a strong word."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"It was evident that Kory-Kory considered this an all-sufficient reason for so indecorous a custom; but I must say that it did not satisfy me as to its propriety."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking propriety and good taste in manners and conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in keeping with accepted standards of what is right or proper in polite society.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For, as without law there is no sin, without eyes there is no indecorum; and she appeared to feel that Gabriel’s espial had made her an indecorous woman without her own connivance."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"It was very wrong; very indecorous.” “And very ungrateful, I think.” “Ungrateful is a strong word."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"It was evident that Kory-Kory considered this an all-sufficient reason for so indecorous a custom; but I must say that it did not satisfy me as to its propriety."*

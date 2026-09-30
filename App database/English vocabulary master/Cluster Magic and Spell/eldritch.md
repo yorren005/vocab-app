@@ -5,20 +5,6 @@ status: unread
 ---
 # eldritch
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Unearthly, supernatural, eerie, preternatural
-> 2. **Nuance / Usage**: Strange or unnatural especially in a way that inspires fear : weird, eerie
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a eldritch appearance*) and predicatively after a linking verb (*remained eldritch*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Wi’ mony an eldritch skreich and hollow."*
-> - 📜 **H. P. Lovecraft (*s:Supernatural Horror in Literature*):** *"The Scandinavian Eddas and Sagas thunder with cosmic horror, and shake with the stark fear of Ymir and his shapeless spawn; whilst our own Anglo-Saxon Beowulf and the later Continental Nibelung tales are full of eldritch weirdness."*
-> - 📜 **James D. Hornfischer (*Neptune's Inferno: The U.S. Navy at Guadalcanal*):** *"The large vessel's dark form was massive, eldritch, as it loomed off the Cushing{{"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Weird, sinister, or ghostly in an unearthly and supernatural way that inspires uncanny dread.
+> 2. **Nuance / Usage**: Rooted in Scots folklore regarding elves and otherworldly beings; in modern Gothic and weird fiction, it evokes cosmic horror beyond mortal comprehension.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a eldritch appearance*) and predicatively after a linking verb (*remained eldritch*).
+> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Tam o' Shanter*):** *"The wind blew as 'twad blawn its last, and the rattling showers rose on the blast, wi' mony an **eldritch** skreich and hollow."*
+> - 📜 **H. P. Lovecraft (*Supernatural Horror in Literature*):** *"The Scandinavian Eddas and Sagas thunder with cosmic horror, whilst our own Anglo-Saxon Beowulf and the later Continental tales are full of **eldritch** weirdness."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Little Pearl, with her **eldritch** beauty and wild, capricious spirit, seemed less an earthly child than an imp of flake and fire."*

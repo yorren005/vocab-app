@@ -5,13 +5,6 @@ status: unread
 ---
 # technophilia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enthusiast of technology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enthusiast of technology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technophilia designates an enthusiast of technology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enthusiast of technology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enthusiast of technology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technophilia designates an enthusiast of technology."*

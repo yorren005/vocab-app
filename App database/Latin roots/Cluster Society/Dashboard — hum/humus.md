@@ -5,13 +5,6 @@ status: unread
 ---
 # humus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Partially decomposed organic matter; the organic component of soil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thick spread made from mashed chickpeas, tahini, lemon juice and garlic; used especially as a dip for pita; originated in the middle east.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This prevents the growing of cover crops, and the sensitive soil, naked, a mere surface dust-mulch, has its humus burned out of it by the sun."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partially decomposed organic matter; the organic component of soil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thick spread made from mashed chickpeas, tahini, lemon juice and garlic; used especially as a dip for pita; originated in the middle east.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This prevents the growing of cover crops, and the sensitive soil, naked, a mere surface dust-mulch, has its humus burned out of it by the sun."*

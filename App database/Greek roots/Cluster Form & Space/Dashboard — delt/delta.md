@@ -5,15 +5,6 @@ status: unread
 ---
 # delta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 4th letter of the Greek alphabet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something shaped like a capital Greek delta; especially, geology : the alluvial deposit at the mouth of a river.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Louis Plassard, "Les Guaraunos et le delta de l'Orénoque," _Bulletin de la Société de Géographie_ (Paris), v."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"All coordinates green for Scout Operation Xray Delta slash Four."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Oun: Greek particle Ou^’n, then, now then, etc. 131. the enclitic De: Greek De {Delta epsilon}; in regard to this, the following letter by Browning appeared in the London ‘Daily News’ of Nov. 21, 1874: “To the Editor of ‘The Daily News’."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The 4th letter of the Greek alphabet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something shaped like a capital Greek delta; especially, geology : the alluvial deposit at the mouth of a river.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Louis Plassard, "Les Guaraunos et le delta de l'Orénoque," _Bulletin de la Société de Géographie_ (Paris), v."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"All coordinates green for Scout Operation Xray Delta slash Four."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Oun: Greek particle Ou^’n, then, now then, etc. 131. the enclitic De: Greek De {Delta epsilon}; in regard to this, the following letter by Browning appeared in the London ‘Daily News’ of Nov. 21, 1874: “To the Editor of ‘The Daily News’."*

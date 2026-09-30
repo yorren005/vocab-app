@@ -5,13 +5,6 @@ status: unread
 ---
 # idiopathic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arising spontaneously or from an obscure or unknown cause : primary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Peculiar to the individual.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, idiopathic designates arising spontaneously or from an obscure or unknown cause : primary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arising spontaneously or from an obscure or unknown cause : primary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Peculiar to the individual.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, idiopathic designates arising spontaneously or from an obscure or unknown cause : primary."*

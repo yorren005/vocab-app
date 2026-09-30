@@ -5,15 +5,6 @@ status: unread
 ---
 # sincere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Open and genuine; not deceitful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by a firm and humorless belief in the validity of your opinions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, in good faith, in sincere verity, Under th’allowance of your great aspect, Whose influence, like the wreath of radiant fire On flickering Phoebus’ front,— CORNWALL."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His words are bonds, his oaths are oracles, His love sincere, his thoughts immaculate, His tears pure messengers sent from his heart, His heart as far from fraud as heaven from earth."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa spoke of her intention of taking the child to her house and her sincere hope that there would be no objection and the ladies could feel their visitor's great eagerness manifested in her words."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Open and genuine; not deceitful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by a firm and humorless belief in the validity of your opinions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, in good faith, in sincere verity, Under th’allowance of your great aspect, Whose influence, like the wreath of radiant fire On flickering Phoebus’ front,— CORNWALL."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His words are bonds, his oaths are oracles, His love sincere, his thoughts immaculate, His tears pure messengers sent from his heart, His heart as far from fraud as heaven from earth."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa spoke of her intention of taking the child to her house and her sincere hope that there would be no objection and the ladies could feel their visitor's great eagerness manifested in her words."*

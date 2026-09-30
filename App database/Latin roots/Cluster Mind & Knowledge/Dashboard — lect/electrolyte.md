@@ -5,15 +5,6 @@ status: unread
 ---
 # electrolyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solution that conducts electricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solution that conducts electricity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The process itself is electrolysis; the liquid is the electrolyte, while the strips are the electrodes."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is not surprising, then, to find that if we put a salt in the electrolyte instead of an acid we get a similar result."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The electrolyte consists of a suitable solution containing a salt of the metal to be deposited, and it is placed in an insulating vessel or vat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solution that conducts electricity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solution that conducts electricity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The process itself is electrolysis; the liquid is the electrolyte, while the strips are the electrodes."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is not surprising, then, to find that if we put a salt in the electrolyte instead of an acid we get a similar result."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The electrolyte consists of a suitable solution containing a salt of the metal to be deposited, and it is placed in an insulating vessel or vat."*

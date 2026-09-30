@@ -5,15 +5,6 @@ status: unread
 ---
 # animated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heighten or intensify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give lifelike qualities to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was animated and glowing, as if Ada’s tenderness had gratified him; but I could only hope, with a sigh, that the letter might have some stronger effect upon his mind on re-perusal than it assuredly had then."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was not too late to hear them, for it was not too late to be animated by them to be good, true, grateful, and contented."*
-> - 📜 **Jane Austen (*Persuasion*):** *"She should put it off as long as she could;” but was not easy till she had talked Charles into driving her over on an early day, and was in a very animated, comfortable state of imaginary agitation, when she came back."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heighten or intensify.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give lifelike qualities to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He was animated and glowing, as if Ada’s tenderness had gratified him; but I could only hope, with a sigh, that the letter might have some stronger effect upon his mind on re-perusal than it assuredly had then."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It was not too late to hear them, for it was not too late to be animated by them to be good, true, grateful, and contented."*
+> - 📜 **Jane Austen (*Persuasion*):** *"She should put it off as long as she could;” but was not easy till she had talked Charles into driving her over on an early day, and was in a very animated, comfortable state of imaginary agitation, when she came back."*

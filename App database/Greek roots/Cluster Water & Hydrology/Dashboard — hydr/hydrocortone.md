@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrocortone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adrenal-cortex hormone (trade names hydrocortone or cortef) that is active in carbohydrate and protein metabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adrenal-cortex hormone (trade names hydrocortone or cortef) that is active in carbohydrate and protein metabolism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocortone designates an adrenal-cortex hormone (trade names hydrocortone or cortef) that is active in carbohydrate and protein metabolism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adrenal-cortex hormone (trade names hydrocortone or cortef) that is active in carbohydrate and protein metabolism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adrenal-cortex hormone (trade names hydrocortone or cortef) that is active in carbohydrate and protein metabolism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocortone designates an adrenal-cortex hormone (trade names hydrocortone or cortef) that is active in carbohydrate and protein metabolism."*

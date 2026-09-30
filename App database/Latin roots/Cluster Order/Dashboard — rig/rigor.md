@@ -5,15 +5,6 @@ status: unread
 ---
 # rigor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something hard to endure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being valid and rigorous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"Be sure, with all the cruelty, with all the rigor, For thou hast rob'd me villain of a treasure. _Enter Guard_."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Having been roused to discern consequences which he had never been in the habit of tracing, he was preparing to act on this discernment with some of the rigor (by no means all) that he would have applied in pursuing experiment."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He was nerving himself to this rigor as he rode from Brassing, and meditated on the representations he must make to Rosamond."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something hard to endure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being valid and rigorous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"Be sure, with all the cruelty, with all the rigor, For thou hast rob'd me villain of a treasure. _Enter Guard_."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Having been roused to discern consequences which he had never been in the habit of tracing, he was preparing to act on this discernment with some of the rigor (by no means all) that he would have applied in pursuing experiment."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He was nerving himself to this rigor as he rode from Brassing, and meditated on the representations he must make to Rosamond."*

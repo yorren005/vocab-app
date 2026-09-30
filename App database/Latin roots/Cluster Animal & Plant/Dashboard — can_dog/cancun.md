@@ -5,13 +5,6 @@ status: unread
 ---
 # cancun
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A popular island resort off the northeastern tip of the yucatan peninsula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A popular island resort off the northeastern tip of the yucatan peninsula.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cancun designates a popular island resort off the northeastern tip of the yucatan peninsula."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A popular island resort off the northeastern tip of the yucatan peninsula.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A popular island resort off the northeastern tip of the yucatan peninsula.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cancun designates a popular island resort off the northeastern tip of the yucatan peninsula."*

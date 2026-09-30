@@ -5,15 +5,6 @@ status: unread
 ---
 # petunia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous tropical herbs having fluted funnel-shaped flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual or perennial herbs or shrubs of tropical south america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Make your 'beesence to Miss Evelina, Lucy Petunia," he commanded."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Yes, sir," answered the Petunia with radiant but modest hope shining from her comely yellow face."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I must say Petunia made a hit with the dear old soul, by the seasoning of her chicken gravy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous tropical herbs having fluted funnel-shaped flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual or perennial herbs or shrubs of tropical south america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Make your 'beesence to Miss Evelina, Lucy Petunia," he commanded."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Yes, sir," answered the Petunia with radiant but modest hope shining from her comely yellow face."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I must say Petunia made a hit with the dear old soul, by the seasoning of her chicken gravy."*

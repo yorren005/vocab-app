@@ -5,13 +5,6 @@ status: unread
 ---
 # chromogen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A precursor of a biochemical pigment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pigment-producing microorganism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromogen designates a precursor of a biochemical pigment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A precursor of a biochemical pigment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pigment-producing microorganism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromogen designates a precursor of a biochemical pigment."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # conversationally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With the use of colloquial expressions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With the use of colloquial expressions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket conversationally, “and much to blame you would be if you didn’t."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Conversationally, I am like a clockwork toy."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"You treat her as a child who must be fed on sweetmeats, and bribed with treats and diversions; conversationally you talk down to her level."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With the use of colloquial expressions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With the use of colloquial expressions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket conversationally, “and much to blame you would be if you didn’t."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Conversationally, I am like a clockwork toy."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"You treat her as a child who must be fed on sweetmeats, and bribed with treats and diversions; conversationally you talk down to her level."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # incivility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deliberate discourtesy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberate discourtesy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His incivility confirms no less."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I like you the better for that incivility, miss,” he said."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"She could almost be angry herself at such angry incivility; but she checked the resentful sensation; she remembered her own ignorance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deliberate discourtesy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberate discourtesy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His incivility confirms no less."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I like you the better for that incivility, miss,” he said."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"She could almost be angry herself at such angry incivility; but she checked the resentful sensation; she remembered her own ignorance."*

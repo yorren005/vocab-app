@@ -5,14 +5,6 @@ status: unread
 ---
 # parameter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arbitrary constant whose value characterizes a member of a system (such as a family of curves); also : a quantity (such as a mean or variance) that describes a statistical population.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An independent variable used to express the coordinates of a variable point and functions of them.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Computer: be ready to give a presentation on each option and its variations within the parameters I specified and which surface through your analyses."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Once satisfied that a gun emplacement was not booby-trapped, Kumiko inserted random realignment parameters into laser blocks, twirled tracking sequencers into disarray, and switched about chips and connectors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arbitrary constant whose value characterizes a member of a system (such as a family of curves); also : a quantity (such as a mean or variance) that describes a statistical population.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An independent variable used to express the coordinates of a variable point and functions of them.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Computer: be ready to give a presentation on each option and its variations within the parameters I specified and which surface through your analyses."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Once satisfied that a gun emplacement was not booby-trapped, Kumiko inserted random realignment parameters into laser blocks, twirled tracking sequencers into disarray, and switched about chips and connectors."*

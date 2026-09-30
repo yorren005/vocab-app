@@ -5,13 +5,6 @@ status: unread
 ---
 # gnathion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The most inferior point of the mandible in the midline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The most inferior point of the mandible in the midline.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gnathion designates the most inferior point of the mandible in the midline."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The most inferior point of the mandible in the midline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The most inferior point of the mandible in the midline.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gnathion designates the most inferior point of the mandible in the midline."*

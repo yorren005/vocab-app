@@ -5,14 +5,6 @@ status: unread
 ---
 # nihilist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who rejects all theories of morality or religious belief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of anarchism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I have always had my opinion of women who spill their souls out of an ink-bottle, but I ought to pardon a nihilist, that in the dead of night, cold with terror, confides some awful appointment he has had made him, to his nearest friend."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I am the worst nihilist that ever existed, and the bomb I am throwing may explode and destroy the human race."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who rejects all theories of morality or religious belief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of anarchism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I have always had my opinion of women who spill their souls out of an ink-bottle, but I ought to pardon a nihilist, that in the dead of night, cold with terror, confides some awful appointment he has had made him, to his nearest friend."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I am the worst nihilist that ever existed, and the bomb I am throwing may explode and destroy the human race."*

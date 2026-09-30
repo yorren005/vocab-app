@@ -5,13 +5,6 @@ status: unread
 ---
 # interception
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of intercepting; preventing something from proceeding or arriving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (american football) the act of catching a football by a player on the opposing team.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King hath note of all that they intend, By interception which they dream not of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of intercepting; preventing something from proceeding or arriving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (american football) the act of catching a football by a player on the opposing team.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King hath note of all that they intend, By interception which they dream not of."*

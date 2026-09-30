@@ -5,13 +5,6 @@ status: unread
 ---
 # assignee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) the party to whom something is assigned (e.g., someone to whom a right or property is legally transferred).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the party to whom something is assigned (e.g., someone to whom a right or property is legally transferred).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Hammerdown will sell by the orders of Diogenes' assignees, or will be instructed by the executors, to offer to public competition, the library, furniture, plate, wardrobe, and choice cellar of wines of Epicurus deceased."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) the party to whom something is assigned (e.g., someone to whom a right or property is legally transferred).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the party to whom something is assigned (e.g., someone to whom a right or property is legally transferred).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Hammerdown will sell by the orders of Diogenes' assignees, or will be instructed by the executors, to offer to public competition, the library, furniture, plate, wardrobe, and choice cellar of wines of Epicurus deceased."*

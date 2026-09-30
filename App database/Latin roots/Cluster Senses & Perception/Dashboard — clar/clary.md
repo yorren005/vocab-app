@@ -5,13 +5,6 @@ status: unread
 ---
 # clary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aromatic herb of southern europe; cultivated in great britain as a potherb and widely as an ornamental.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aromatic herb of southern europe; cultivated in great britain as a potherb and widely as an ornamental.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clary designates aromatic herb of southern europe; cultivated in great britain as a potherb and widely as an ornamental."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aromatic herb of southern europe; cultivated in great britain as a potherb and widely as an ornamental.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aromatic herb of southern europe; cultivated in great britain as a potherb and widely as an ornamental.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clary designates aromatic herb of southern europe; cultivated in great britain as a potherb and widely as an ornamental."*

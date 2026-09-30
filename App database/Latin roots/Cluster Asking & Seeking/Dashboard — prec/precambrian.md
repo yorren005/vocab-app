@@ -5,13 +5,6 @@ status: unread
 ---
 # precambrian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The eon following the hadean time and preceding the phanerozoic eon; from about 3,800 million years ago until 544 million years ago.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The eon following the hadean time and preceding the phanerozoic eon; from about 3,800 million years ago until 544 million years ago.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precambrian designates the eon following the hadean time and preceding the phanerozoic eon; from about 3,800 million years ago until 544 million years ago."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The eon following the hadean time and preceding the phanerozoic eon; from about 3,800 million years ago until 544 million years ago.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The eon following the hadean time and preceding the phanerozoic eon; from about 3,800 million years ago until 544 million years ago.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precambrian designates the eon following the hadean time and preceding the phanerozoic eon; from about 3,800 million years ago until 544 million years ago."*

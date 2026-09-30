@@ -5,14 +5,6 @@ status: unread
 ---
 # navajo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an athapaskan people that migrated to arizona and new mexico and utah.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The athapaskan language spoken by the navaho.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Once a Navajo tried to buy it for a ladle; loaded with indignant reproaches, he was turned out of the house."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus the Navajoes tell of a certain mythical being called "the Maiden that becomes a Bear," who learned the art of turning herself into a bear from the prairie wolf."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an athapaskan people that migrated to arizona and new mexico and utah.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The athapaskan language spoken by the navaho.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Once a Navajo tried to buy it for a ladle; loaded with indignant reproaches, he was turned out of the house."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus the Navajoes tell of a certain mythical being called "the Maiden that becomes a Bear," who learned the art of turning herself into a bear from the prairie wolf."*

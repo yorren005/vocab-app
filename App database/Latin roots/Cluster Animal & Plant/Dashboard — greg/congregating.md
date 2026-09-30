@@ -5,15 +5,6 @@ status: unread
 ---
 # congregating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of congregating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come together, usually for a purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"Legation street is crowded with villainous-looking ruffians congregating to loot if opportunity offers."*
-> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"Shortly after dark a band of horsemen began congregating here, riding silently into the road, dismounting and tethering their animals in a small glade that occupied the center of the _motte_."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"The silence that is in the starry sky, The sleep that is among the lonely hills, is to them merely a drawback, to be overcome by moving about in large masses, and by congregating in chosen resorts with vehement hilarity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of congregating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come together, usually for a purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"Legation street is crowded with villainous-looking ruffians congregating to loot if opportunity offers."*
+> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"Shortly after dark a band of horsemen began congregating here, riding silently into the road, dismounting and tethering their animals in a small glade that occupied the center of the _motte_."*
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"The silence that is in the starry sky, The sleep that is among the lonely hills, is to them merely a drawback, to be overcome by moving about in large masses, and by congregating in chosen resorts with vehement hilarity."*

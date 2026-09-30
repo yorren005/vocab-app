@@ -5,13 +5,6 @@ status: unread
 ---
 # ferromagnetism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Phenomenon exhibited by materials like iron (nickel or cobalt) that become magnetized in a magnetic field and retain their magnetism when the field is removed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Phenomenon exhibited by materials like iron (nickel or cobalt) that become magnetized in a magnetic field and retain their magnetism when the field is removed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferromagnetism designates phenomenon exhibited by materials like iron (nickel or cobalt) that become magnetized in a magnetic field and retain their magnetism when the field is removed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Phenomenon exhibited by materials like iron (nickel or cobalt) that become magnetized in a magnetic field and retain their magnetism when the field is removed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Phenomenon exhibited by materials like iron (nickel or cobalt) that become magnetized in a magnetic field and retain their magnetism when the field is removed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferromagnetism designates phenomenon exhibited by materials like iron (nickel or cobalt) that become magnetized in a magnetic field and retain their magnetism when the field is removed."*

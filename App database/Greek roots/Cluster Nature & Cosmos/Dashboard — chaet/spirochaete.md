@@ -5,13 +5,6 @@ status: unread
 ---
 # spirochaete
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Spirochaetales) of slender spirally undulating bacteria including those causing syphilis and Lyme disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Spirochaetales) of slender spirally undulating bacteria including those causing syphilis and Lyme disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirochaete designates any of an order (spirochaetales) of slender spirally undulating bacteria including those causing syphilis and lyme disease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Spirochaetales) of slender spirally undulating bacteria including those causing syphilis and Lyme disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Spirochaetales) of slender spirally undulating bacteria including those causing syphilis and Lyme disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirochaete designates any of an order (spirochaetales) of slender spirally undulating bacteria including those causing syphilis and lyme disease."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # pedestal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A support or foundation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A position of great esteem (and supposed superiority).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hermione comes down from the pedestal."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To put with one hand a pedestal under the feet of the two faithful ones, and with the other to exalt the unfaithful by the same artificial means, he deemed to be alike inconsistent with his convictions, his position, and his hopes."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I can’t see three seas off; tip us up an oar there, and let me on to that.” Upon this, Daggoo, with either hand upon the gunwale to steady his way, swiftly slid aft, and then erecting himself volunteered his lofty shoulders for a pedestal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A support or foundation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A position of great esteem (and supposed superiority).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hermione comes down from the pedestal."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To put with one hand a pedestal under the feet of the two faithful ones, and with the other to exalt the unfaithful by the same artificial means, he deemed to be alike inconsistent with his convictions, his position, and his hopes."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I can’t see three seas off; tip us up an oar there, and let me on to that.” Upon this, Daggoo, with either hand upon the gunwale to steady his way, swiftly slid aft, and then erecting himself volunteered his lofty shoulders for a pedestal."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # fray
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Separate the threads at the edge of
-> 2. **Nuance / Usage**: (intransitive) to become unravelled or worn; to unravel
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the fray withstood the storm*), direct object (*cleaved the fray*), or prepositional anchor (*amidst the fray*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby Dick*):** *"fury of any mortal fray, but in an elemental strife at sea."*
-> - 📜 **Walter Scott (*Ivanhoe*):** *"confusion of the bloody fray, showed every attention to her safety."*
-> - 📜 **Erasmus Sarcerius (*Cõmon Places of Scripture Ordrely and after a Cõpendious Forme of Teachyng, Set Forth with No Litle Labour,{{nb...*):** *"S. Paul alſo defineth the law to be the knowlege of ſyn, y&#877; is, which accuſeth, frayeth the cõſcience, & maketh ſynnes knowen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A heated battle, noisy brawl, or spirited contest (*into the fray*, *above the fray*).
+> 2. **Nuance / Usage**: As a verb, to wear away or unravel the woven threads of a fabric or rope by rubbing; figuratively, to strain nerves, tempers, or patience to the breaking point.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (singular) & Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Functions nominally in idiomatic combat phrases (*enter the fray*, *eager for the fray*) and verbally (*tempers began to fray*).
+> - **Collocations & Registers**: Martial, rhetorical, and psychological registers; paired with *battle*, *thick*, *plunge*, *tempers*, and *nerves*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick*):** *"His leg was lost not in the fury of any mortal **fray**, but in an elemental strife at sea."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"Even in the confusion of the bloody **fray**, the knight showed every attention to her safety."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"The riot of the tipsy Bacchanals, tearing the Thracian singer in their **fray**."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # spiciness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being seasoned with spice and so highly flavored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Behavior or language bordering on indelicacy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spiciness designates the property of being seasoned with spice and so highly flavored."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being seasoned with spice and so highly flavored.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Behavior or language bordering on indelicacy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spiciness designates the property of being seasoned with spice and so highly flavored."*

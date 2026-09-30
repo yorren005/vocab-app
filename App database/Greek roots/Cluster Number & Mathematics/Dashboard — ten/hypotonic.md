@@ -5,13 +5,6 @@ status: unread
 ---
 # hypotonic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having deficient tone or tension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a lower osmotic pressure than a surrounding medium or a fluid under comparison.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypotonic designates having deficient tone or tension."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having deficient tone or tension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a lower osmotic pressure than a surrounding medium or a fluid under comparison.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypotonic designates having deficient tone or tension."*

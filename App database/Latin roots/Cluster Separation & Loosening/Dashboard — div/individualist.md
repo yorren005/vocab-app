@@ -5,15 +5,6 @@ status: unread
 ---
 # individualist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who pursues independent thought or action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by or expressing individuality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The opponent of it usually champions the individualist view; its partizans uphold, in varying degrees, the social view."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Rural communities are proverbially conservative; the American farmer is proverbially an individualist."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The mystic is never quite at leisure for other people's feelings and sufferings; he is essentially an individualist; he must have his own intercourse with God, and other people's affairs are apt to be an interruption, an impertinence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who pursues independent thought or action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by or expressing individuality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The opponent of it usually champions the individualist view; its partizans uphold, in varying degrees, the social view."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Rural communities are proverbially conservative; the American farmer is proverbially an individualist."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The mystic is never quite at leisure for other people's feelings and sufferings; he is essentially an individualist; he must have his own intercourse with God, and other people's affairs are apt to be an interruption, an impertinence."*

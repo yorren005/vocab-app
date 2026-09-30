@@ -5,15 +5,6 @@ status: unread
 ---
 # incorrect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not correct; not in conformity with fact or truth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in accord with established usage or procedure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"XIX, p. 306) that this MS. is preserved in the Dyce Library but the statement is incorrect."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"All these are not only incorrect, but the picture of the Mysticetus or Greenland whale (that is to say, the Right whale), even Scoresby, a long experienced man as touching that species, declares not to have its counterpart in nature."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Here, then, are three sources of vague and incorrect definitions: indistinctness of the object, imperfection of the organ of conception, inadequateness of the vehicle of ideas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not correct; not in conformity with fact or truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in accord with established usage or procedure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"XIX, p. 306) that this MS. is preserved in the Dyce Library but the statement is incorrect."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"All these are not only incorrect, but the picture of the Mysticetus or Greenland whale (that is to say, the Right whale), even Scoresby, a long experienced man as touching that species, declares not to have its counterpart in nature."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Here, then, are three sources of vague and incorrect definitions: indistinctness of the object, imperfection of the organ of conception, inadequateness of the vehicle of ideas."*

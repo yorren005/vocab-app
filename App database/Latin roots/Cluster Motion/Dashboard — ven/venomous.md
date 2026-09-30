@@ -5,15 +5,6 @@ status: unread
 ---
 # venomous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely poisonous or injurious; producing venom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by deep ill will; deliberately harmful.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Poor venomous fool, Be angry and dispatch."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll do well yet.—Thou old and true Menenius, Thy tears are salter than a younger man’s And venomous to thine eyes.—My sometime general, I have seen thee stern, and thou hast oft beheld Heart-hard’ning spectacles."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some devil whisper curses in my ear, And prompt me that my tongue may utter forth The venomous malice of my swelling heart!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely poisonous or injurious; producing venom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by deep ill will; deliberately harmful.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Poor venomous fool, Be angry and dispatch."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll do well yet.—Thou old and true Menenius, Thy tears are salter than a younger man’s And venomous to thine eyes.—My sometime general, I have seen thee stern, and thou hast oft beheld Heart-hard’ning spectacles."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some devil whisper curses in my ear, And prompt me that my tongue may utter forth The venomous malice of my swelling heart!"*

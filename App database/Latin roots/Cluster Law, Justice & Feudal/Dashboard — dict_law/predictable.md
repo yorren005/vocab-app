@@ -5,14 +5,6 @@ status: unread
 ---
 # predictable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being foretold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being foretold.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Net yields from nonrenewable reserves, residues and substitutes had dwindled until exhaustion was certain and a timeline predictable."*
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"One jarring note, one violation of the predictable pattern: the more he considered it, the more it disturbed him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being foretold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being foretold.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Net yields from nonrenewable reserves, residues and substitutes had dwindled until exhaustion was certain and a timeline predictable."*
+> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"One jarring note, one violation of the predictable pattern: the more he considered it, the more it disturbed him."*

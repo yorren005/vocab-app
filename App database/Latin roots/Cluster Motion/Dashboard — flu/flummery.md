@@ -5,15 +5,6 @@ status: unread
 ---
 # flummery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bland custard or pudding especially of oatmeal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meaningless ceremonies and flattery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But her father, who is quite as opposed to such flummery as I, says that can be cured."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Sitting here, all smiles and flummery to my face, and then going away to abuse me behind my back!" "That's not true!" I cried hotly."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"As for `smiles and flummery,' as you express it, there has been no chance of anything so friendly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bland custard or pudding especially of oatmeal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meaningless ceremonies and flattery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But her father, who is quite as opposed to such flummery as I, says that can be cured."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Sitting here, all smiles and flummery to my face, and then going away to abuse me behind my back!" "That's not true!" I cried hotly."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"As for `smiles and flummery,' as you express it, there has been no chance of anything so friendly."*

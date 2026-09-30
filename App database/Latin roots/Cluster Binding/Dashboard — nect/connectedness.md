@@ -5,13 +5,6 @@ status: unread
 ---
 # connectedness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being connected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relation between things or events (as in the case of one causing the other or sharing features with it).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, connectedness designates the state of being connected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being connected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relation between things or events (as in the case of one causing the other or sharing features with it).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, connectedness designates the state of being connected."*

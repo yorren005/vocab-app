@@ -5,15 +5,6 @@ status: unread
 ---
 # recess
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of abeyance or suspended business.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small concavity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Fairfax precede me into the dining-room, and kept in her shade as we crossed that apartment; and, passing the arch, whose curtain was now dropped, entered the elegant recess beyond."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"After the Easter recess, Sir George Lynn, who was lately elected member for Millcote, will have to go up to town and take his seat; I daresay Mr."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I step aside into the ivy recess; he will not stay long: he will soon return whence he came, and if I sit still he will never see me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of abeyance or suspended business.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small concavity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Fairfax precede me into the dining-room, and kept in her shade as we crossed that apartment; and, passing the arch, whose curtain was now dropped, entered the elegant recess beyond."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"After the Easter recess, Sir George Lynn, who was lately elected member for Millcote, will have to go up to town and take his seat; I daresay Mr."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I step aside into the ivy recess; he will not stay long: he will soon return whence he came, and if I sit still he will never see me."*

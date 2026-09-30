@@ -5,13 +5,6 @@ status: unread
 ---
 # haemosiderin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A granular brown substance composed of ferric oxide; left from the breakdown of hemoglobin; can be a sign of disturbed iron metabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A granular brown substance composed of ferric oxide; left from the breakdown of hemoglobin; can be a sign of disturbed iron metabolism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemosiderin designates a granular brown substance composed of ferric oxide; left from the breakdown of hemoglobin; can be a sign of disturbed iron metabolism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A granular brown substance composed of ferric oxide; left from the breakdown of hemoglobin; can be a sign of disturbed iron metabolism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A granular brown substance composed of ferric oxide; left from the breakdown of hemoglobin; can be a sign of disturbed iron metabolism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemosiderin designates a granular brown substance composed of ferric oxide; left from the breakdown of hemoglobin; can be a sign of disturbed iron metabolism."*

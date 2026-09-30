@@ -5,15 +5,6 @@ status: unread
 ---
 # sculpture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-dimensional work of plastic art.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creating figures or designs in three dimensions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He was like a figure I have seen somewhere in sculpture."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Not one poor stone to tell thy name, Or make thy virtues known: But what avails to me—to thee, The sculpture of a stone?"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"We’ll sculpture the marble, we’ll measure the lay; Here Vanity strums on her idiot lyre; There keen Indignation shall dart on his prey, Which spurning Contempt shall redeem from his ire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-dimensional work of plastic art.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creating figures or designs in three dimensions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He was like a figure I have seen somewhere in sculpture."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Not one poor stone to tell thy name, Or make thy virtues known: But what avails to me—to thee, The sculpture of a stone?"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"We’ll sculpture the marble, we’ll measure the lay; Here Vanity strums on her idiot lyre; There keen Indignation shall dart on his prey, Which spurning Contempt shall redeem from his ire."*

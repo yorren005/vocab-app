@@ -5,13 +5,6 @@ status: unread
 ---
 # isometry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The growth rates in different parts of a growing organism are the same.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A one-to-one mapping of one metric space into another metric space that preserves the distances between each pair of points.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isometry designates the growth rates in different parts of a growing organism are the same."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The growth rates in different parts of a growing organism are the same.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A one-to-one mapping of one metric space into another metric space that preserves the distances between each pair of points.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isometry designates the growth rates in different parts of a growing organism are the same."*

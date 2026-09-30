@@ -5,13 +5,6 @@ status: unread
 ---
 # hoplite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavily armed infantry soldier of ancient Greece.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavily armed infantry soldier of ancient Greece.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Long years of faction and war, as he himself says, had depopulated Greece, and the whole land could hardly furnish now the three thousand hoplites that four centuries before Megara alone had sent to Plataea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavily armed infantry soldier of ancient Greece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavily armed infantry soldier of ancient Greece.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Long years of faction and war, as he himself says, had depopulated Greece, and the whole land could hardly furnish now the three thousand hoplites that four centuries before Megara alone had sent to Plataea."*

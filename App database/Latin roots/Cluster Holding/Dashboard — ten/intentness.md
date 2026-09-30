@@ -5,15 +5,6 @@ status: unread
 ---
 # intentness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being intent and concentrated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being intent and concentrated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The trees stood in an attitude of intentness, as if they waited longingly for a wind to come and rock them."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The luminary was a golden-haired, beaming, mild-eyed, God-like creature, gazing down in the vigour and intentness of youth upon an earth that was brimming with interest for him."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Though near nightfall, the rank-smelling weed-flowers glowed as if they would not close for intentness, and the waves of colour mixed with the waves of sound."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being intent and concentrated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being intent and concentrated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The trees stood in an attitude of intentness, as if they waited longingly for a wind to come and rock them."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The luminary was a golden-haired, beaming, mild-eyed, God-like creature, gazing down in the vigour and intentness of youth upon an earth that was brimming with interest for him."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Though near nightfall, the rank-smelling weed-flowers glowed as if they would not close for intentness, and the waves of colour mixed with the waves of sound."*

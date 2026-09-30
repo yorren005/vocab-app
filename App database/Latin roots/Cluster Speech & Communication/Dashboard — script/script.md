@@ -5,15 +5,6 @@ status: unread
 ---
 # script
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A written version of a play or other dramatic composition; used in preparing for a performance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something written by hand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"You may have heard of the Babylonian cuneiform script ..." and the old gentleman was off full gallop on his hobby ..."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And gone were the Druids, their cursing stones, their Ogham script...."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"It is one of several indications which enabled me to fix the date.” I looked over his shoulder at the yellow paper and the faded script."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written version of a play or other dramatic composition; used in preparing for a performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something written by hand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"You may have heard of the Babylonian cuneiform script ..." and the old gentleman was off full gallop on his hobby ..."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And gone were the Druids, their cursing stones, their Ogham script...."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"It is one of several indications which enabled me to fix the date.” I looked over his shoulder at the yellow paper and the faded script."*

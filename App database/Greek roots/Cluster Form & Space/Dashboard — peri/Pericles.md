@@ -5,15 +5,6 @@ status: unread
 ---
 # pericles
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Athenian statesman whose leadership contributed to athens' political and cultural supremacy in greece; he ordered the construction of the parthenon (died in 429 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Athenian statesman whose leadership contributed to athens' political and cultural supremacy in greece; he ordered the construction of the parthenon (died in 429 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On board Pericles’ ship, off Mytilene Scene II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MARINA, daughter to Pericles and Thaisa."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Antiochus, Prince Pericles and followers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Athenian statesman whose leadership contributed to athens' political and cultural supremacy in greece; he ordered the construction of the parthenon (died in 429 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Athenian statesman whose leadership contributed to athens' political and cultural supremacy in greece; he ordered the construction of the parthenon (died in 429 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On board Pericles’ ship, off Mytilene Scene II."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MARINA, daughter to Pericles and Thaisa."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Antiochus, Prince Pericles and followers."*

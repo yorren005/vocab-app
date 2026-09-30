@@ -5,15 +5,6 @@ status: unread
 ---
 # traitor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who betrays his country by committing treason.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who says one thing and does another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A traitor you do look like, but such traitors His majesty seldom fears; I am Cressid’s uncle, That dare leave two together."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet your mistrust cannot make me a traitor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If she be a traitor, Why, so am I."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who betrays his country by committing treason.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who says one thing and does another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A traitor you do look like, but such traitors His majesty seldom fears; I am Cressid’s uncle, That dare leave two together."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet your mistrust cannot make me a traitor."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If she be a traitor, Why, so am I."*

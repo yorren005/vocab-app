@@ -5,15 +5,6 @@ status: unread
 ---
 # boneless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being without a bone or bones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being without a bone or bones.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have given suck, and know How tender ’tis to love the babe that milks me: I would, while it was smiling in my face, Have pluck’d my nipple from his boneless gums And dash’d the brains out, had I so sworn as you Have done to this."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So that this whole enormous boneless mass is as one wad."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Just so with the head; but with this difference: about the head this envelope, though not so thick, is of a boneless toughness, inestimable by any man who has not handled it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being without a bone or bones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being without a bone or bones.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have given suck, and know How tender ’tis to love the babe that milks me: I would, while it was smiling in my face, Have pluck’d my nipple from his boneless gums And dash’d the brains out, had I so sworn as you Have done to this."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So that this whole enormous boneless mass is as one wad."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Just so with the head; but with this difference: about the head this envelope, though not so thick, is of a boneless toughness, inestimable by any man who has not handled it."*

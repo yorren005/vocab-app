@@ -5,15 +5,6 @@ status: unread
 ---
 # impressive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Making a strong or vivid impression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing a strong effect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"His manner is the gravely impressive manner of a man who has not committed himself in life otherwise than as he has become the victim of a tender sorrow of the heart."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was so impressive in its love for me, and in the unselfish caution it gave me, and the consideration it showed for me in every word, that my eyes were too often blinded to read much at a time."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket, keeping his forefinger in an impressive state of action, “bear in mind what I’ve said to you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making a strong or vivid impression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing a strong effect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"His manner is the gravely impressive manner of a man who has not committed himself in life otherwise than as he has become the victim of a tender sorrow of the heart."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It was so impressive in its love for me, and in the unselfish caution it gave me, and the consideration it showed for me in every word, that my eyes were too often blinded to read much at a time."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket, keeping his forefinger in an impressive state of action, “bear in mind what I’ve said to you."*

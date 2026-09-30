@@ -5,15 +5,6 @@ status: unread
 ---
 # composing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The spatial property resulting from the arrangement of parts in relation to each other and to the whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Musical creation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was no perceptible motion in the air, not a visible drop of water fell upon a leaf of the beeches, birches, and firs composing the wood on either side."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The books composing the library were neither very numerous, very select, nor in very good condition."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Two main factors in this may be distinguished: the objective and the subjective, or the material environment and the population composing the nation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The spatial property resulting from the arrangement of parts in relation to each other and to the whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Musical creation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was no perceptible motion in the air, not a visible drop of water fell upon a leaf of the beeches, birches, and firs composing the wood on either side."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"The books composing the library were neither very numerous, very select, nor in very good condition."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Two main factors in this may be distinguished: the objective and the subjective, or the material environment and the population composing the nation."*

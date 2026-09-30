@@ -5,15 +5,6 @@ status: unread
 ---
 # frontlet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adornment worn on the forehead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adornment worn on the forehead.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Osric: Though I may not take up thy gauntlet, Should we meet where the steel strikes fire, 'Twixt thy casque and thy charger's frontlet The choice will perplex thy squire."*
-> - 📜 **James Joyce (*Ulysses*):** *"White horses with white frontlet plumes came round the Rotunda corner, galloping."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Every new State as it takes its place in the great family binds this declaration as a frontlet upon its forehead."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adornment worn on the forehead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adornment worn on the forehead.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Osric: Though I may not take up thy gauntlet, Should we meet where the steel strikes fire, 'Twixt thy casque and thy charger's frontlet The choice will perplex thy squire."*
+> - 📜 **James Joyce (*Ulysses*):** *"White horses with white frontlet plumes came round the Rotunda corner, galloping."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Every new State as it takes its place in the great family binds this declaration as a frontlet upon its forehead."*

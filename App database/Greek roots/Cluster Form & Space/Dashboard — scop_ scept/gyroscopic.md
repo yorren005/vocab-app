@@ -5,13 +5,6 @@ status: unread
 ---
 # gyroscopic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the characteristics of a gyroscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the characteristics of a gyroscope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Thus the gyroscopic action is very free indeed to exercise its function of keeping the contrivance pointing always in the one way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the characteristics of a gyroscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the characteristics of a gyroscope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Thus the gyroscopic action is very free indeed to exercise its function of keeping the contrivance pointing always in the one way."*

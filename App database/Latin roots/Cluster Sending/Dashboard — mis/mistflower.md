@@ -5,13 +5,6 @@ status: unread
 ---
 # mistflower
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rhizomatous plant of central and southeastern united states and west indies having large showy heads of clear blue flowers; sometimes placed in genus eupatorium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rhizomatous plant of central and southeastern united states and west indies having large showy heads of clear blue flowers; sometimes placed in genus eupatorium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mistflower designates rhizomatous plant of central and southeastern united states and west indies having large showy heads of clear blue flowers; sometimes placed in genus eupatorium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rhizomatous plant of central and southeastern united states and west indies having large showy heads of clear blue flowers; sometimes placed in genus eupatorium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rhizomatous plant of central and southeastern united states and west indies having large showy heads of clear blue flowers; sometimes placed in genus eupatorium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mistflower designates rhizomatous plant of central and southeastern united states and west indies having large showy heads of clear blue flowers; sometimes placed in genus eupatorium."*

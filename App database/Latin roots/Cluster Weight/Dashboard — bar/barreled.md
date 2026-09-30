@@ -5,15 +5,6 @@ status: unread
 ---
 # barreled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put in barrels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put in or stored in a barrel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"At the window, with a double-barreled gun in his hands, stood a short, square, red-headed man."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"His great brown shoulders, his barreled chest, his upper arms like a man's leg, his packed forearms, his neck like a bull's, his shaven head."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Mama was there by the buggy, and they were looking at a big, double-barreled shotgun Miss Dink wanted Papa to fix."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put in barrels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put in or stored in a barrel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"At the window, with a double-barreled gun in his hands, stood a short, square, red-headed man."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"His great brown shoulders, his barreled chest, his upper arms like a man's leg, his packed forearms, his neck like a bull's, his shaven head."*
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Mama was there by the buggy, and they were looking at a big, double-barreled shotgun Miss Dink wanted Papa to fix."*

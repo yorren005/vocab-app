@@ -5,20 +5,6 @@ status: unread
 ---
 # rank
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: High social position
-> 2. **Nuance / Usage**: Relative standing or position
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"It is the right butter-women’s rank to market."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Within the fore-rank of our articles."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"That were embattailed and rank’d in Kent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: High social position
+> 2. **Nuance / Usage**: Relative standing or position
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"It is the right butter-women’s rank to market."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Within the fore-rank of our articles."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"That were embattailed and rank’d in Kent."*

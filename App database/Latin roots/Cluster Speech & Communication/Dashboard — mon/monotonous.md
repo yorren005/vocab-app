@@ -5,15 +5,6 @@ status: unread
 ---
 # monotonous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tediously repetitious or lacking in variety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sounded or spoken in a tone unvarying in pitch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell that the rain makes such a monotonous pattering on the terrace that he can’t read the paper even by the fireside in his own snug dressing-room."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Chairs and table, he said, were wearisome objects; they were monotonous ideas, they had no variety of expression, they looked you out of countenance, and you looked them out of countenance."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"For the rest, Lincolnshire life to Volumnia is a vast blank of overgrown house looking out upon trees, sighing, wringing their hands, bowing their heads, and casting their tears upon the window-panes in monotonous depressions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tediously repetitious or lacking in variety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sounded or spoken in a tone unvarying in pitch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell that the rain makes such a monotonous pattering on the terrace that he can’t read the paper even by the fireside in his own snug dressing-room."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Chairs and table, he said, were wearisome objects; they were monotonous ideas, they had no variety of expression, they looked you out of countenance, and you looked them out of countenance."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"For the rest, Lincolnshire life to Volumnia is a vast blank of overgrown house looking out upon trees, sighing, wringing their hands, bowing their heads, and casting their tears upon the window-panes in monotonous depressions."*

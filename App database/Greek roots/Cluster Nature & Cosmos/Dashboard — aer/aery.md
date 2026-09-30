@@ -5,15 +5,6 @@ status: unread
 ---
 # aery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an aerial quality : ethereal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The nest of a bird on a cliff or a mountaintop.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know the gallant monarch is in arms And like an eagle o’er his aery towers To souse annoyance that comes near his nest.— And you degenerate, you ingrate revolts, You bloody Neroes, ripping up the womb Of your dear mother England, blush for shame!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our aery buildeth in the cedar’s top, And dallies with the wind, and scorns the sun."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your aery buildeth in our aery’s nest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an aerial quality : ethereal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The nest of a bird on a cliff or a mountaintop.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know the gallant monarch is in arms And like an eagle o’er his aery towers To souse annoyance that comes near his nest.— And you degenerate, you ingrate revolts, You bloody Neroes, ripping up the womb Of your dear mother England, blush for shame!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our aery buildeth in the cedar’s top, And dallies with the wind, and scorns the sun."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your aery buildeth in our aery’s nest."*

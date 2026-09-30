@@ -5,13 +5,6 @@ status: unread
 ---
 # abdominoplasty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cosmetic surgery of the abdomen to remove wrinkles and tighten the skin over the stomach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cosmetic surgery of the abdomen to remove wrinkles and tighten the skin over the stomach.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abdominoplasty designates cosmetic surgery of the abdomen to remove wrinkles and tighten the skin over the stomach."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cosmetic surgery of the abdomen to remove wrinkles and tighten the skin over the stomach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cosmetic surgery of the abdomen to remove wrinkles and tighten the skin over the stomach.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abdominoplasty designates cosmetic surgery of the abdomen to remove wrinkles and tighten the skin over the stomach."*

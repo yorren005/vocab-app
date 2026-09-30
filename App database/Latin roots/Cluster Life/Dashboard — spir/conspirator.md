@@ -5,15 +5,6 @@ status: unread
 ---
 # conspirator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a conspiracy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a conspiracy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, hark! [_Drums and trumpets sound, with great shouts of the people._] FIRST CONSPIRATOR."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stand back, thou manifest conspirator, Thou that contrived’st to murder our dead lord; Thou that giv’st whores indulgences to sin: I’ll canvass thee in thy broad cardinal’s hat, If thou proceed in this thy insolence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MARCUS BRUTUS, Conspirator against Caesar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a conspiracy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a conspiracy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, hark! [_Drums and trumpets sound, with great shouts of the people._] FIRST CONSPIRATOR."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stand back, thou manifest conspirator, Thou that contrived’st to murder our dead lord; Thou that giv’st whores indulgences to sin: I’ll canvass thee in thy broad cardinal’s hat, If thou proceed in this thy insolence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MARCUS BRUTUS, Conspirator against Caesar."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # heterodyne
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the production of an electrical beat between two radio frequencies of which one usually is that of a received signal-carrying current and the other that of an uninterrupted current introduced into the apparatus; also : of or relating to the production of a beat between two optical frequencies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To combine (something, such as a radio frequency) with a different frequency so that a beat is produced.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterodyne designates of or relating to the production of an electrical beat between two radio frequencies of which one usually is that of a received signal-carrying current and the other that of an uninterrupted current introduced into the apparatus; also : of or relating to the production of a beat between two optical frequencies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the production of an electrical beat between two radio frequencies of which one usually is that of a received signal-carrying current and the other that of an uninterrupted current introduced into the apparatus; also : of or relating to the production of a beat between two optical frequencies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To combine (something, such as a radio frequency) with a different frequency so that a beat is produced.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterodyne designates of or relating to the production of an electrical beat between two radio frequencies of which one usually is that of a received signal-carrying current and the other that of an uninterrupted current introduced into the apparatus; also : of or relating to the production of a beat between two optical frequencies."*

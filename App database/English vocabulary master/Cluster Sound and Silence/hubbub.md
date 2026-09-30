@@ -5,20 +5,6 @@ status: unread
 ---
 # hubbub
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Noise, uproar
-> 2. **Nuance / Usage**: Confusion, turmoil
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the hubbub withstood the storm*), direct object (*cleaved the hubbub*), or prepositional anchor (*amidst the hubbub*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch Book*):** *"All was now bustle and hubbub in the late quiet school-room."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"and groans mingled in a general hubbub, then the firing died down."*
-> - 📜 **James Joyce (*Ulysses*):** *"god Bringforth or, what Calmer said, a hubbub of Phenomenon?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Noise, uproar
+> 2. **Nuance / Usage**: Confusion, turmoil
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the hubbub withstood the storm*), direct object (*cleaved the hubbub*), or prepositional anchor (*amidst the hubbub*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch Book*):** *"All was now bustle and hubbub in the late quiet school-room."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"and groans mingled in a general hubbub, then the firing died down."*
+> - 📜 **James Joyce (*Ulysses*):** *"god Bringforth or, what Calmer said, a hubbub of Phenomenon?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # spirometry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring the air entering and leaving the lungs (as in determining lung function in the diagnosis of pulmonary disease).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for measuring the air entering and leaving the lungs (as in determining lung function in the diagnosis of pulmonary disease).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirometry designates an instrument for measuring the air entering and leaving the lungs (as in determining lung function in the diagnosis of pulmonary disease)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring the air entering and leaving the lungs (as in determining lung function in the diagnosis of pulmonary disease).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for measuring the air entering and leaving the lungs (as in determining lung function in the diagnosis of pulmonary disease).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirometry designates an instrument for measuring the air entering and leaving the lungs (as in determining lung function in the diagnosis of pulmonary disease)."*

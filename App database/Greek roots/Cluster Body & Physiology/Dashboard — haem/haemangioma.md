@@ -5,13 +5,6 @@ status: unread
 ---
 # haemangioma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Benign angioma consisting of a mass of blood vessels; some appear as birthmarks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Benign angioma consisting of a mass of blood vessels; some appear as birthmarks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemangioma designates benign angioma consisting of a mass of blood vessels; some appear as birthmarks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Benign angioma consisting of a mass of blood vessels; some appear as birthmarks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Benign angioma consisting of a mass of blood vessels; some appear as birthmarks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemangioma designates benign angioma consisting of a mass of blood vessels; some appear as birthmarks."*

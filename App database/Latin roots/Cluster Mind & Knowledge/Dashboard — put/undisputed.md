@@ -5,15 +5,6 @@ status: unread
 ---
 # undisputed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Generally agreed upon; not subject to dispute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Generally agreed upon; not subject to dispute.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her resolute effort threw back the lid, and gave to her astonished eyes the view of a white cotton counterpane, properly folded, reposing at one end of the chest in undisputed possession!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"This passed for certain, undisputed; It ne’er cam i’ their heads to doubt it, Till chiels gat up an’ wad confute it, An’ ca’d it wrang; An’ muckle din there was about it, Baith loud an’ lang."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Raymond--was the undisputed owner of it all,--of wealth beyond his wildest dreams."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Generally agreed upon; not subject to dispute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Generally agreed upon; not subject to dispute.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her resolute effort threw back the lid, and gave to her astonished eyes the view of a white cotton counterpane, properly folded, reposing at one end of the chest in undisputed possession!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"This passed for certain, undisputed; It ne’er cam i’ their heads to doubt it, Till chiels gat up an’ wad confute it, An’ ca’d it wrang; An’ muckle din there was about it, Baith loud an’ lang."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Raymond--was the undisputed owner of it all,--of wealth beyond his wildest dreams."*

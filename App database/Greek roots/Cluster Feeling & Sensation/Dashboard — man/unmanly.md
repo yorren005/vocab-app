@@ -5,15 +5,6 @@ status: unread
 ---
 # unmanly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not possessing qualities befitting a man.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in courage and manly strength and resolution; contemptibly fearful.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be thou a prey unto the house of York, And die in bands for this unmanly deed!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"New customs, Though they be never so ridiculous— Nay, let ’em be unmanly—yet are followed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is in thee a nature but infected, A poor unmanly melancholy sprung From change of fortune."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not possessing qualities befitting a man.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in courage and manly strength and resolution; contemptibly fearful.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be thou a prey unto the house of York, And die in bands for this unmanly deed!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"New customs, Though they be never so ridiculous— Nay, let ’em be unmanly—yet are followed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is in thee a nature but infected, A poor unmanly melancholy sprung From change of fortune."*

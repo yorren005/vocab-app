@@ -5,15 +5,6 @@ status: unread
 ---
 # contest
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An occasion on which a winner is selected from among two or more contestants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A struggle between rivals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here I clip The anvil of my sword and do contest As hotly and as nobly with thy love As ever in ambitious strength I did Contend against thy valour."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And woe to Boythorn or other daring wight who shall presumptuously contest an inch with him!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"How has that contest gone?” “Oh, hollow from the beginning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An occasion on which a winner is selected from among two or more contestants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A struggle between rivals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here I clip The anvil of my sword and do contest As hotly and as nobly with thy love As ever in ambitious strength I did Contend against thy valour."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And woe to Boythorn or other daring wight who shall presumptuously contest an inch with him!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"How has that contest gone?” “Oh, hollow from the beginning."*

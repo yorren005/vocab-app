@@ -5,13 +5,6 @@ status: unread
 ---
 # bombina
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fire-bellied toads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fire-bellied toads.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombina designates fire-bellied toads."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fire-bellied toads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fire-bellied toads.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombina designates fire-bellied toads."*

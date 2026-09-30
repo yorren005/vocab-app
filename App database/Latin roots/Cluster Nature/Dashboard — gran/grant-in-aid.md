@@ -5,13 +5,6 @@ status: unread
 ---
 # grant-in-aid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grant from a central government to a local government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A grant to a person or school for some educational project.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, grant-in-aid designates a grant from a central government to a local government."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A grant from a central government to a local government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A grant to a person or school for some educational project.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, grant-in-aid designates a grant from a central government to a local government."*

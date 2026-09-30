@@ -5,15 +5,6 @@ status: unread
 ---
 # uniformly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a uniform manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a uniform manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Seen by the dim light of the dips, their number to me appeared countless, though not in reality exceeding eighty; they were uniformly dressed in brown stuff frocks of quaint fashion, and long holland pinafores."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I used to look at my master’s face to see if it were sad or fierce; but I could not remember the time when it had been so uniformly clear of clouds or evil feelings."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"How much is involved in the name "Father," which Jesus so uniformly gives to God?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a uniform manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a uniform manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Seen by the dim light of the dips, their number to me appeared countless, though not in reality exceeding eighty; they were uniformly dressed in brown stuff frocks of quaint fashion, and long holland pinafores."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I used to look at my master’s face to see if it were sad or fierce; but I could not remember the time when it had been so uniformly clear of clouds or evil feelings."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"How much is involved in the name "Father," which Jesus so uniformly gives to God?"*

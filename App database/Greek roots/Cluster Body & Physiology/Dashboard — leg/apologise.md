@@ -5,15 +5,6 @@ status: unread
 ---
 # apologise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defend, explain, clear away, or make excuses for by reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acknowledge faults or shortcomings or failing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester; “and in the interim, I shall myself look out for employment and an asylum for you.” “Thank you, sir; I am sorry to give—” “Oh, no need to apologise!"*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"And now I must fly to my dear boy to apologise to him for the wrong which I have done him."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Don't apologise, man, for I'm glad it is so, There's a joy in the grief that I wouldn't forego."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Defend, explain, clear away, or make excuses for by reasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acknowledge faults or shortcomings or failing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester; “and in the interim, I shall myself look out for employment and an asylum for you.” “Thank you, sir; I am sorry to give—” “Oh, no need to apologise!"*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"And now I must fly to my dear boy to apologise to him for the wrong which I have done him."*
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Don't apologise, man, for I'm glad it is so, There's a joy in the grief that I wouldn't forego."*

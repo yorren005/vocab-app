@@ -5,15 +5,6 @@ status: unread
 ---
 # indignity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An affront to one's dignity or self-esteem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An affront to one's dignity or self-esteem.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, you give me most egregious indignity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Complain unto the duke of this indignity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Immediately they will again be here In their own shapes, for it can never be They will digest this harsh indignity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An affront to one's dignity or self-esteem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An affront to one's dignity or self-esteem.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, you give me most egregious indignity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Complain unto the duke of this indignity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Immediately they will again be here In their own shapes, for it can never be They will digest this harsh indignity."*

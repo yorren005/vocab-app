@@ -5,13 +5,6 @@ status: unread
 ---
 # hermetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the mystical and alchemical writings or teachings arising in the first three centuries a.d. and attributed to Hermes Trismegistus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characterized by subjects that are mysterious and difficult to understand : relating to or characterized by occultism or abstruseness : recondite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What do you think really of that hermetic crowd, the opal hush poets: A."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the mystical and alchemical writings or teachings arising in the first three centuries a.d. and attributed to Hermes Trismegistus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characterized by subjects that are mysterious and difficult to understand : relating to or characterized by occultism or abstruseness : recondite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"What do you think really of that hermetic crowd, the opal hush poets: A."*

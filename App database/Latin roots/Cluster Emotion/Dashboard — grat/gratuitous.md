@@ -5,15 +5,6 @@ status: unread
 ---
 # gratuitous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Costing nothing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Dear father,” he said sadly, “I wish you would not expose yourself to such gratuitous pain from scoundrels!” “Pain?” said his father, his rugged face shining in the ardour of self-abnegation."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The coinage is said to be _gratuitous_ when no charge is made for coinage."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Thus, coinage may be both free and gratuitous, when citizens are allowed to bring bullion whenever they please and have it converted into coins without charge or deduction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Costing nothing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Dear father,” he said sadly, “I wish you would not expose yourself to such gratuitous pain from scoundrels!” “Pain?” said his father, his rugged face shining in the ardour of self-abnegation."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The coinage is said to be _gratuitous_ when no charge is made for coinage."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Thus, coinage may be both free and gratuitous, when citizens are allowed to bring bullion whenever they please and have it converted into coins without charge or deduction."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # barrister
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A british or canadian lawyer who speaks in the higher courts of law on behalf of either the defense or prosecution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A british or canadian lawyer who speaks in the higher courts of law on behalf of either the defense or prosecution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I intend to go to town and eat my dinners as a barrister, since, they say, that is the preparation for all public business."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"In happier days and fairer fortunes, he had won the affections of a beautiful and interesting girl, the daughter of a late celebrated Irish barrister."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The barrister who has his case at his fingers’ ends and is able to argue with an expert upon his own subject finds that a week or two of the courts will drive it all out of his head once more."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A british or canadian lawyer who speaks in the higher courts of law on behalf of either the defense or prosecution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A british or canadian lawyer who speaks in the higher courts of law on behalf of either the defense or prosecution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"I intend to go to town and eat my dinners as a barrister, since, they say, that is the preparation for all public business."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"In happier days and fairer fortunes, he had won the affections of a beautiful and interesting girl, the daughter of a late celebrated Irish barrister."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The barrister who has his case at his fingers’ ends and is able to argue with an expert upon his own subject finds that a week or two of the courts will drive it all out of his head once more."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # minacious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Threatening or foreshadowing evil or tragic developments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Threatening or foreshadowing evil or tragic developments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minacious designates threatening or foreshadowing evil or tragic developments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Threatening or foreshadowing evil or tragic developments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Threatening or foreshadowing evil or tragic developments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minacious designates threatening or foreshadowing evil or tragic developments."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sinewy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of meat) full of sinews; especially impossible to chew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of tendons or resembling a tendon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Worthy fellows, and like to prove most sinewy sword-men. [_Exeunt Bertram and Parolles._] Enter Lafew."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"His sinewy and powerful hands, as sunburnt as his face, have evidently been used to a pretty rough life."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"They are very sinewy and strong, are Rouncewell’s hands—a little sooty too."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of meat) full of sinews; especially impossible to chew.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of tendons or resembling a tendon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Worthy fellows, and like to prove most sinewy sword-men. [_Exeunt Bertram and Parolles._] Enter Lafew."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"His sinewy and powerful hands, as sunburnt as his face, have evidently been used to a pretty rough life."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"They are very sinewy and strong, are Rouncewell’s hands—a little sooty too."*

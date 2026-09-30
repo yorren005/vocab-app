@@ -5,15 +5,6 @@ status: unread
 ---
 # enraptured
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold spellbound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling great rapture or delight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This amazed and enraptured Tess, whose slight experiences had been so infelicitous till now; and in her reaction from indignation against the male sex she swerved to excess of honour for Clare."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But Oppenheimer, enraptured with my tales, remained a sceptic to the end."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"While I was meditating on it with enraptured gaze, Dame Honeyball, who was highly gratified by the interest it excited, put in my hands a drinking-cup or goblet which also belonged to the vestry, and was descended from the old Boar’s Head."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold spellbound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling great rapture or delight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This amazed and enraptured Tess, whose slight experiences had been so infelicitous till now; and in her reaction from indignation against the male sex she swerved to excess of honour for Clare."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But Oppenheimer, enraptured with my tales, remained a sceptic to the end."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"While I was meditating on it with enraptured gaze, Dame Honeyball, who was highly gratified by the interest it excited, put in my hands a drinking-cup or goblet which also belonged to the vestry, and was descended from the old Boar’s Head."*

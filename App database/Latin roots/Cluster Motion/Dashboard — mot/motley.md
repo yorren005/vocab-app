@@ -5,15 +5,6 @@ status: unread
 ---
 # motley
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection containing a variety of sorts of things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A garment made of motley (especially a court jester's costume).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I met a fool i’ th’ forest, A motley fool."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As I do live by food, I met a fool, Who laid him down and basked him in the sun, And railed on Lady Fortune in good terms, In good set terms, and yet a motley fool."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am ambitious for a motley coat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection containing a variety of sorts of things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A garment made of motley (especially a court jester's costume).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I met a fool i’ th’ forest, A motley fool."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As I do live by food, I met a fool, Who laid him down and basked him in the sun, And railed on Lady Fortune in good terms, In good set terms, and yet a motley fool."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am ambitious for a motley coat."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # illegitimate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The illegitimate offspring of unmarried parents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contrary to or forbidden by law.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am a bastard begot, bastard instructed, bastard in mind, bastard in valour, in everything illegitimate."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"When the insured sets fire to his own buildings, he makes an illegitimate use of insurance."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The meaning of the term, as defined in the codes of the several States, would be as impracticable as the former would be a dishonorable and illegitimate guide."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The illegitimate offspring of unmarried parents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contrary to or forbidden by law.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am a bastard begot, bastard instructed, bastard in mind, bastard in valour, in everything illegitimate."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"When the insured sets fire to his own buildings, he makes an illegitimate use of insurance."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The meaning of the term, as defined in the codes of the several States, would be as impracticable as the former would be a dishonorable and illegitimate guide."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # trustful
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to believe or confide readily; full of trust; - nordhoff & hall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined to believe or confide readily; full of trust; - nordhoff & hall.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"They brought a chair on either side of me, and put me between them, and really seemed to have fallen in love with me instead of one another, they were so confiding, and so trustful, and so fond of me."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A trustful Christian, whose heart had been deeply touched with thoughts of religion, was one day thinking and pondering and wishing that he might be more truly convinced of the actual existence of the Holy Spirit."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Aunt Sally,' says the _American Messenger_, was a devout, working, trustful Christian."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to believe or confide readily; full of trust; - nordhoff & hall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined to believe or confide readily; full of trust; - nordhoff & hall.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"They brought a chair on either side of me, and put me between them, and really seemed to have fallen in love with me instead of one another, they were so confiding, and so trustful, and so fond of me."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A trustful Christian, whose heart had been deeply touched with thoughts of religion, was one day thinking and pondering and wishing that he might be more truly convinced of the actual existence of the Holy Spirit."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Aunt Sally,' says the _American Messenger_, was a devout, working, trustful Christian."*

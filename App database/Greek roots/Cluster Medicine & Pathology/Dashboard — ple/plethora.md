@@ -5,13 +5,6 @@ status: unread
 ---
 # plethora
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ample amount or number : abundance, profusion —usually used with of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bodily condition characterized by an excess of blood and marked by swelling and redness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The foreign influx has created a scarcity of money as well as a plethora of goods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ample amount or number : abundance, profusion —usually used with of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bodily condition characterized by an excess of blood and marked by swelling and redness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The foreign influx has created a scarcity of money as well as a plethora of goods."*

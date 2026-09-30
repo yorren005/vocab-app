@@ -5,13 +5,6 @@ status: unread
 ---
 # hysteroscopy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Visual examination of the cervix and interior of the uterus with an endoscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Visual examination of the cervix and interior of the uterus with an endoscope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hysteroscopy designates visual examination of the cervix and interior of the uterus with an endoscope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Visual examination of the cervix and interior of the uterus with an endoscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Visual examination of the cervix and interior of the uterus with an endoscope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hysteroscopy designates visual examination of the cervix and interior of the uterus with an endoscope."*

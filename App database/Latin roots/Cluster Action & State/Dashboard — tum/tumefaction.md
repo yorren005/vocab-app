@@ -5,13 +5,6 @@ status: unread
 ---
 # tumefaction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of tumefying; the organic process whereby tissue becomes swollen by the accumulation of fluid within it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of tumefying; the organic process whereby tissue becomes swollen by the accumulation of fluid within it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tumefaction designates the process of tumefying; the organic process whereby tissue becomes swollen by the accumulation of fluid within it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of tumefying; the organic process whereby tissue becomes swollen by the accumulation of fluid within it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of tumefying; the organic process whereby tissue becomes swollen by the accumulation of fluid within it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tumefaction designates the process of tumefying; the organic process whereby tissue becomes swollen by the accumulation of fluid within it."*

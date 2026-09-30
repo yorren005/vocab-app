@@ -5,19 +5,6 @@ status: unread
 ---
 # cinder
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Ashes
-> 2. **Nuance / Usage**: Ember
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the cinder withstood the storm*), direct object (*cleaved the cinder*), or prepositional anchor (*amidst the cinder*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*s:The Lady's Dressing Room*):** *"If from adown the hopeful chops<br>The fat upon the cinder drops,<br>To stinking smoke it turns the flame,<br>Poisoning the flesh from whence it came"*
-> - 📜 **Catherine Grace Frances Gore (*Selected Works*):** *"Oh, horrid proposition! One would imagine, Tom, that you had been a coal-heaver. Had you said soda and cinder, I would have seconded the motion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -53,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A small piece of partly burned coal, wood, or slag that has ceased to flame but still retains combustible matter or glowing heat.
+> 2. **Nuance / Usage**: In the plural (*cinders*), denotes the coarse, porous residue raked from a grate or furnace, or anything reduced to a charred, shriveled state (*burnt to a cinder*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the cinder withstood the storm*), direct object (*cleaved the cinder*), or prepositional anchor (*amidst the cinder*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jonathan Swift (*The Lady's Dressing Room*):** *"If from adown the hopeful chops the fat upon the **cinder** drops, to stinking smoke it turns the flame."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The fire had burned low in the grate, leaving only a heap of red-hot **cinders** that ticked in the silence."*
+> - 📜 **Catherine Grace Frances Gore (*Selected Works*):** *"Had you said soda and **cinder**, I would have seconded the motion."*

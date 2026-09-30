@@ -5,13 +5,6 @@ status: unread
 ---
 # obstruent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A consonant that is produced with a partial or complete blockage of the airflow from the lungs through the nose or mouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A consonant that is produced with a partial or complete blockage of the airflow from the lungs through the nose or mouth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obstruent designates a consonant that is produced with a partial or complete blockage of the airflow from the lungs through the nose or mouth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A consonant that is produced with a partial or complete blockage of the airflow from the lungs through the nose or mouth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A consonant that is produced with a partial or complete blockage of the airflow from the lungs through the nose or mouth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obstruent designates a consonant that is produced with a partial or complete blockage of the airflow from the lungs through the nose or mouth."*

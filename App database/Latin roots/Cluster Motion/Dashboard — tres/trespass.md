@@ -5,15 +5,6 @@ status: unread
 ---
 # trespass
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wrongful interference with the possession of property (personal property as well as realty), or the action instituted to recover damages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Entry to another's property without right or permission.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mother, for love of grace, Lay not that flattering unction to your soul That not your trespass, but my madness speaks."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My nephew’s trespass may be well forgot, It hath the excuse of youth and heat of blood, And an adopted name of privilege— A hare-brain’d Hotspur, govern’d by a spleen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His trespass yet lives guilty in thy blood; And, till thou be restored, thou art a yeoman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wrongful interference with the possession of property (personal property as well as realty), or the action instituted to recover damages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Entry to another's property without right or permission.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mother, for love of grace, Lay not that flattering unction to your soul That not your trespass, but my madness speaks."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My nephew’s trespass may be well forgot, It hath the excuse of youth and heat of blood, And an adopted name of privilege— A hare-brain’d Hotspur, govern’d by a spleen."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His trespass yet lives guilty in thy blood; And, till thou be restored, thou art a yeoman."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # macrozamia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any treelike cycad of the genus macrozamia having erect trunks and pinnate leaves and large cones with sometimes edible nuts; australia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any treelike cycad of the genus macrozamia having erect trunks and pinnate leaves and large cones with sometimes edible nuts; australia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrozamia designates any treelike cycad of the genus macrozamia having erect trunks and pinnate leaves and large cones with sometimes edible nuts; australia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any treelike cycad of the genus macrozamia having erect trunks and pinnate leaves and large cones with sometimes edible nuts; australia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any treelike cycad of the genus macrozamia having erect trunks and pinnate leaves and large cones with sometimes edible nuts; australia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrozamia designates any treelike cycad of the genus macrozamia having erect trunks and pinnate leaves and large cones with sometimes edible nuts; australia."*

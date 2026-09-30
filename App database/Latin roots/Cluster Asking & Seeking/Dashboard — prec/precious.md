@@ -5,15 +5,6 @@ status: unread
 ---
 # precious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by feeling or showing fond affection for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of high worth or cost.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have no precious time at all to spend; Nor services to do till you require."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My precious queen, forbear, And give true evidence to his love, which stands An honourable trial."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, thy words are too precious to be cast away upon curs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by feeling or showing fond affection for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of high worth or cost.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have no precious time at all to spend; Nor services to do till you require."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My precious queen, forbear, And give true evidence to his love, which stands An honourable trial."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, thy words are too precious to be cast away upon curs."*

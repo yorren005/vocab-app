@@ -5,15 +5,6 @@ status: unread
 ---
 # familiarize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make familiar or conversant with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make familiar or conversant with.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"In his shrinking from the humiliation of a dependent attitude towards Bulstrode, he began to familiarize his imagination with another step even more unlike his remembered self."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Coming on to modern theological writers, I recommend you to familiarize yourselves with the works of the acute, the philosophical, the profound, and pious Jonathan Edwards, and those of Andrew Fuller."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"In the space of a minute she opened her eyes, looked fixedly on the pile as if to familiarize her mind with the object, and then slowly and naturally turned away her head."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make familiar or conversant with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make familiar or conversant with.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"In his shrinking from the humiliation of a dependent attitude towards Bulstrode, he began to familiarize his imagination with another step even more unlike his remembered self."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Coming on to modern theological writers, I recommend you to familiarize yourselves with the works of the acute, the philosophical, the profound, and pious Jonathan Edwards, and those of Andrew Fuller."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"In the space of a minute she opened her eyes, looked fixedly on the pile as if to familiarize her mind with the object, and then slowly and naturally turned away her head."*

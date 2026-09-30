@@ -5,13 +5,6 @@ status: unread
 ---
 # habenaria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly terrestrial orchids with tubers or fleshy roots often having long slender spurs and petals and lip lobes; includes species formerly placed in genus gymnadeniopsis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly terrestrial orchids with tubers or fleshy roots often having long slender spurs and petals and lip lobes; includes species formerly placed in genus gymnadeniopsis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, habenaria designates chiefly terrestrial orchids with tubers or fleshy roots often having long slender spurs and petals and lip lobes; includes species formerly placed in genus gymnadeniopsis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly terrestrial orchids with tubers or fleshy roots often having long slender spurs and petals and lip lobes; includes species formerly placed in genus gymnadeniopsis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly terrestrial orchids with tubers or fleshy roots often having long slender spurs and petals and lip lobes; includes species formerly placed in genus gymnadeniopsis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, habenaria designates chiefly terrestrial orchids with tubers or fleshy roots often having long slender spurs and petals and lip lobes; includes species formerly placed in genus gymnadeniopsis."*

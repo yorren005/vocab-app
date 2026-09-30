@@ -5,15 +5,6 @@ status: unread
 ---
 # litany
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prayer consisting of a series of invocations and supplications by the leader with alternate responses by the congregation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A resonant or repetitive chant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"It cost her a litany of pictured sorrows and of silent cries that she might be the mercy for those sorrows—but the resolved submission did come; and when the house was still, and she knew that it was near the time when Mr."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Is there any decent man in this fair that considers himself the equal of young Packy McGee?" And he walked through the fair, chanting his litany and gently swinging the woman's woolen stocking with the large round stone in the foot of it ..."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"When he had finished the Litany the deacon crossed the stole over his breast and said, “Let us commit ourselves and our whole lives to Christ the Lord!” “Commit ourselves to God,” Natásha inwardly repeated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prayer consisting of a series of invocations and supplications by the leader with alternate responses by the congregation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A resonant or repetitive chant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"It cost her a litany of pictured sorrows and of silent cries that she might be the mercy for those sorrows—but the resolved submission did come; and when the house was still, and she knew that it was near the time when Mr."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Is there any decent man in this fair that considers himself the equal of young Packy McGee?" And he walked through the fair, chanting his litany and gently swinging the woman's woolen stocking with the large round stone in the foot of it ..."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"When he had finished the Litany the deacon crossed the stole over his breast and said, “Let us commit ourselves and our whole lives to Christ the Lord!” “Commit ourselves to God,” Natásha inwardly repeated."*

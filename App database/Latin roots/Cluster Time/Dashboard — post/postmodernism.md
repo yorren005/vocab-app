@@ -5,13 +5,6 @@ status: unread
 ---
 # postmodernism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genre of art and literature and especially architecture in reaction against principles and practices of established modernism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genre of art and literature and especially architecture in reaction against principles and practices of established modernism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postmodernism designates genre of art and literature and especially architecture in reaction against principles and practices of established modernism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genre of art and literature and especially architecture in reaction against principles and practices of established modernism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genre of art and literature and especially architecture in reaction against principles and practices of established modernism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postmodernism designates genre of art and literature and especially architecture in reaction against principles and practices of established modernism."*

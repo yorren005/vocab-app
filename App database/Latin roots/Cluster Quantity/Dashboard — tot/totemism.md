@@ -5,15 +5,6 @@ status: unread
 ---
 # totemism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief in the kinship of a group of people with a common totem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belief in the kinship of a group of people with a common totem.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Roscoe, _The Baganda_ (London, 1911), pp. 393 _sq._, compare pp. 396, 398. [78] See _Totemism and Exogamy_, iv. 224 _sqq._ [79] Sir Harry H."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Bush negroes of Surinam, who practise totemism, believe that if they ate the _capiaï_ (an animal like a pig) it would give them leprosy; perhaps the _capiaï_ is one of their totems."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The aborigines of Australia have totemism in the most primitive form known to us; but there is no clear evidence that they attempt, like the North American Indians, to conciliate the animals which they kill and eat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief in the kinship of a group of people with a common totem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belief in the kinship of a group of people with a common totem.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Roscoe, _The Baganda_ (London, 1911), pp. 393 _sq._, compare pp. 396, 398. [78] See _Totemism and Exogamy_, iv. 224 _sqq._ [79] Sir Harry H."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Bush negroes of Surinam, who practise totemism, believe that if they ate the _capiaï_ (an animal like a pig) it would give them leprosy; perhaps the _capiaï_ is one of their totems."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The aborigines of Australia have totemism in the most primitive form known to us; but there is no clear evidence that they attempt, like the North American Indians, to conciliate the animals which they kill and eat."*

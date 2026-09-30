@@ -5,15 +5,6 @@ status: unread
 ---
 # volume
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount of 3-dimensional space occupied by an object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of something that is great in magnitude.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, as an ostler, that for th’ poorest piece Will bear the knave by th’ volume.—Th’ honoured gods Keep Rome in safety and the chairs of justice Supplied with worthy men!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ th’ world’s volume Our Britain seems as of it, but not in’t; In a great pool a swan’s nest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, this man’s brow, like to a title-leaf, Foretells the nature of a tragic volume."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount of 3-dimensional space occupied by an object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of something that is great in magnitude.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, as an ostler, that for th’ poorest piece Will bear the knave by th’ volume.—Th’ honoured gods Keep Rome in safety and the chairs of justice Supplied with worthy men!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ th’ world’s volume Our Britain seems as of it, but not in’t; In a great pool a swan’s nest."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, this man’s brow, like to a title-leaf, Foretells the nature of a tragic volume."*

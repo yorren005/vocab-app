@@ -5,13 +5,6 @@ status: unread
 ---
 # trimness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of arrangement or appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of arrangement or appearance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trimness designates a state of arrangement or appearance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of arrangement or appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of arrangement or appearance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trimness designates a state of arrangement or appearance."*

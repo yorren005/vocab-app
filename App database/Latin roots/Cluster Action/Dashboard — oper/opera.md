@@ -5,15 +5,6 @@ status: unread
 ---
 # opera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drama set to music; consists of singing with orchestral accompaniment and an orchestral overture and interludes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commercial browser.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole could play on the piano and the violoncello, and he was a composer—had composed half an opera once, but got tired of it—and played what he composed with taste."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Concert, assembly, opera, theatre, drive, nothing is new to my Lady under the worn-out heavens."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There are no caricatures, now, of effeminate exquisites so arrayed, swooning in opera boxes with excess of delight and being revived by other dainty creatures poking long-necked scent-bottles at their noses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drama set to music; consists of singing with orchestral accompaniment and an orchestral overture and interludes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A commercial browser.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole could play on the piano and the violoncello, and he was a composer—had composed half an opera once, but got tired of it—and played what he composed with taste."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Concert, assembly, opera, theatre, drive, nothing is new to my Lady under the worn-out heavens."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There are no caricatures, now, of effeminate exquisites so arrayed, swooning in opera boxes with excess of delight and being revived by other dainty creatures poking long-necked scent-bottles at their noses."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # expressage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rapid transport of goods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rapid transport of goods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expressage designates rapid transport of goods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rapid transport of goods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rapid transport of goods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expressage designates rapid transport of goods."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # pyromania
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An irresistible impulse to start fires.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An irresistible impulse to start fires.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyromania designates an irresistible impulse to start fires."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irresistible impulse to start fires.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An irresistible impulse to start fires.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyromania designates an irresistible impulse to start fires."*

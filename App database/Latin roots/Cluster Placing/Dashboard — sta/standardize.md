@@ -5,14 +5,6 @@ status: unread
 ---
 # standardize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to conform to standard or norm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evaluate by comparing with a standard.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"For not all prices can be included, but only those of articles of somewhat standardized grades and those that are pretty regularly sold in markets where prices are publicly quoted."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The method of casting type had not been standardized and each printer had his own individual ideas both as to the kind of characters and the method used in casting them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to conform to standard or norm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evaluate by comparing with a standard.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"For not all prices can be included, but only those of articles of somewhat standardized grades and those that are pretty regularly sold in markets where prices are publicly quoted."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The method of casting type had not been standardized and each printer had his own individual ideas both as to the kind of characters and the method used in casting them."*

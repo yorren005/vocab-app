@@ -5,14 +5,6 @@ status: unread
 ---
 # discipleship
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of disciple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of disciple.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"His tests of discipleship illumine his ideal of character--Theocentric thinking--negation of self--the thought-out life."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Just why he wished to keep her away from America is unclear, possibly because he dared not put so idealistic a friendship and discipleship to the test of personal acquaintance with a prematurely broken old man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of disciple.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of disciple.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"His tests of discipleship illumine his ideal of character--Theocentric thinking--negation of self--the thought-out life."*
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Just why he wished to keep her away from America is unclear, possibly because he dared not put so idealistic a friendship and discipleship to the test of personal acquaintance with a prematurely broken old man."*

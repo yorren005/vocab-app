@@ -5,15 +5,6 @@ status: unread
 ---
 # conventual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of communal life sequestered from the world under religious vows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of communal life sequestered from the world under religious vows.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whether the barn had ever formed one of a group of conventual buildings nobody seemed to be aware; no trace of such surroundings remained."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It was founded upwards of two centuries since on an old monastic establishment, and retained somewhat of the conventual air and character."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whether the barn had ever formed one of a group of conventual buildings nobody seemed to be aware; no trace of such surroundings remained."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of communal life sequestered from the world under religious vows.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of communal life sequestered from the world under religious vows.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whether the barn had ever formed one of a group of conventual buildings nobody seemed to be aware; no trace of such surroundings remained."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It was founded upwards of two centuries since on an old monastic establishment, and retained somewhat of the conventual air and character."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whether the barn had ever formed one of a group of conventual buildings nobody seemed to be aware; no trace of such surroundings remained."*

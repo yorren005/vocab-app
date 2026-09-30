@@ -5,15 +5,6 @@ status: unread
 ---
 # disestablishment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act terminating an established state of affairs; especially ending a connection with the church of england.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act terminating an established state of affairs; especially ending a connection with the church of england.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The other question in which he took a special interest was that of Disestablishment."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"These views he had never abandoned, and in a lecture on Disestablishment delivered in Edinburgh in 1872 he re-stated them."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns looked forward to a wider Union than one merely between the Free and United Presbyterian Churches, and he was convinced that only on the basis of Disestablishment could such a Union take place."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act terminating an established state of affairs; especially ending a connection with the church of england.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act terminating an established state of affairs; especially ending a connection with the church of england.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"The other question in which he took a special interest was that of Disestablishment."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"These views he had never abandoned, and in a lecture on Disestablishment delivered in Edinburgh in 1872 he re-stated them."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns looked forward to a wider Union than one merely between the Free and United Presbyterian Churches, and he was convinced that only on the basis of Disestablishment could such a Union take place."*

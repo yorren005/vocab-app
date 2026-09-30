@@ -5,15 +5,6 @@ status: unread
 ---
 # inscription
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Letters inscribed (especially words engraved or carved) on something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short message (as in a book or musical work or on a photograph) dedicating it to someone or something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now please you wit The epitaph is for Marina writ By wicked Dionyza. [_Reads the inscription on Marina’s monument._] _The fairest, sweet’st, and best lies here, Who wither’d in her spring of year."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There was a confused little crowd of people, principally children, gathered about the house at which we stopped, which had a tarnished brass plate on the door with the inscription JELLYBY."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In another was the inscription BONES BOUGHT."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Letters inscribed (especially words engraved or carved) on something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short message (as in a book or musical work or on a photograph) dedicating it to someone or something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now please you wit The epitaph is for Marina writ By wicked Dionyza. [_Reads the inscription on Marina’s monument._] _The fairest, sweet’st, and best lies here, Who wither’d in her spring of year."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There was a confused little crowd of people, principally children, gathered about the house at which we stopped, which had a tarnished brass plate on the door with the inscription JELLYBY."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In another was the inscription BONES BOUGHT."*

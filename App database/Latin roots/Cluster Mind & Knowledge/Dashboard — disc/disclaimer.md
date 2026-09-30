@@ -5,14 +5,6 @@ status: unread
 ---
 # disclaimer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a voluntary repudiation of a person's legal claim to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denial of any connection with or knowledge of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"I hope that after this explicit disclaimer I shall no longer be taxed with embracing a system of mythology which I look upon not merely as false but as preposterous and absurd."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"No, I am ’ily obleeged to you, Miss Twinkleton, nor yet a beggar.” This last disclaimer had reference to Miss Twinkleton’s distractedly pressing two-and-sixpence on her, instead of the cabman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a voluntary repudiation of a person's legal claim to something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denial of any connection with or knowledge of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"I hope that after this explicit disclaimer I shall no longer be taxed with embracing a system of mythology which I look upon not merely as false but as preposterous and absurd."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"No, I am ’ily obleeged to you, Miss Twinkleton, nor yet a beggar.” This last disclaimer had reference to Miss Twinkleton’s distractedly pressing two-and-sixpence on her, instead of the cabman."*

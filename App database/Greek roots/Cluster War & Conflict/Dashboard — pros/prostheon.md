@@ -5,13 +5,6 @@ status: unread
 ---
 # prostheon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Craniometric point that is the most anterior point in the midline on the alveolar process of the maxilla.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Craniometric point that is the most anterior point in the midline on the alveolar process of the maxilla.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prostheon designates craniometric point that is the most anterior point in the midline on the alveolar process of the maxilla."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Craniometric point that is the most anterior point in the midline on the alveolar process of the maxilla.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Craniometric point that is the most anterior point in the midline on the alveolar process of the maxilla.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prostheon designates craniometric point that is the most anterior point in the midline on the alveolar process of the maxilla."*

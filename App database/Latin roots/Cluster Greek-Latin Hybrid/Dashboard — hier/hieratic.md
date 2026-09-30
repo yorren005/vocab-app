@@ -5,13 +5,6 @@ status: unread
 ---
 # hieratic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cursive form of egyptian hieroglyphics; used especially by the priests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Associated with the priesthood or priests.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"It reflects a priestly culture in its hieratic forms and symbolical ornament."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cursive form of egyptian hieroglyphics; used especially by the priests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Associated with the priesthood or priests.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"It reflects a priestly culture in its hieratic forms and symbolical ornament."*

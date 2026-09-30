@@ -5,13 +5,6 @@ status: unread
 ---
 # ectotherm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cold-blooded animal : poikilotherm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cold-blooded animal : poikilotherm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectotherm designates a cold-blooded animal : poikilotherm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cold-blooded animal : poikilotherm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cold-blooded animal : poikilotherm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectotherm designates a cold-blooded animal : poikilotherm."*

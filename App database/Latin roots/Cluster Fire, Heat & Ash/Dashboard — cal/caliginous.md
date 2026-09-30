@@ -5,13 +5,6 @@ status: unread
 ---
 # caliginous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dark and misty and gloomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dark and misty and gloomy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caliginous designates dark and misty and gloomy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dark and misty and gloomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dark and misty and gloomy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caliginous designates dark and misty and gloomy."*

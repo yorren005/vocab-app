@@ -5,15 +5,6 @@ status: unread
 ---
 # exodus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mainly narrative second book of canonical Jewish and Christian Scripture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mass departure : emigration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Nearly all the labourers on Flintcomb-Ash farm intended flight, and early in the morning there was a general exodus in the direction of the town, which lay at a distance of from ten to a dozen miles over hilly country."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I leave this explanation of my failure [Footnote: The reader will remember that the ringing of the Cathedral bells happened in fact very soon after the exodus of the citizens; so that the self-reproaches of M."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many farmers and more farmers' sons are moving from agriculture into occupations of manufacturing, trade, transportation, and the professions, and are becoming more narrow specialists. § 8. #The rural exodus#."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mainly narrative second book of canonical Jewish and Christian Scripture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mass departure : emigration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Nearly all the labourers on Flintcomb-Ash farm intended flight, and early in the morning there was a general exodus in the direction of the town, which lay at a distance of from ten to a dozen miles over hilly country."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I leave this explanation of my failure [Footnote: The reader will remember that the ringing of the Cathedral bells happened in fact very soon after the exodus of the citizens; so that the self-reproaches of M."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many farmers and more farmers' sons are moving from agriculture into occupations of manufacturing, trade, transportation, and the professions, and are becoming more narrow specialists. § 8. #The rural exodus#."*

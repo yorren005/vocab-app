@@ -5,13 +5,6 @@ status: unread
 ---
 # dissatisfactory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not up to expectations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not up to expectations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To have reduced the different qualifications in the different States to one uniform rule, would probably have been as dissatisfactory to some of the States as it would have been difficult to the convention."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not up to expectations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not up to expectations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To have reduced the different qualifications in the different States to one uniform rule, would probably have been as dissatisfactory to some of the States as it would have been difficult to the convention."*

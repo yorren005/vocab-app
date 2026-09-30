@@ -5,13 +5,6 @@ status: unread
 ---
 # intestacy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The situation of being or dying without a legally valid will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The situation of being or dying without a legally valid will.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intestacy designates the situation of being or dying without a legally valid will."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The situation of being or dying without a legally valid will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The situation of being or dying without a legally valid will.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intestacy designates the situation of being or dying without a legally valid will."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # irrespective
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In spite of everything; without regard to drawbacks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spite of everything; without regard to drawbacks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"My denying myself the pleasure of the present agreeable conversation may not be wholly irrespective of your own interests, Mr."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"A pause succeeded, during which the honest and irrepressible baby made a series of leaps and crows at little Jane, who appeared to me to be the only member of the family (irrespective of servants) with whom it had any decided acquaintance."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"It is not wholly irrespective of our personal feelings that we record HIM as the Mentor of our young Telemachus, for it is good to know that our town produced the founder of the latter’s fortunes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In spite of everything; without regard to drawbacks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spite of everything; without regard to drawbacks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"My denying myself the pleasure of the present agreeable conversation may not be wholly irrespective of your own interests, Mr."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"A pause succeeded, during which the honest and irrepressible baby made a series of leaps and crows at little Jane, who appeared to me to be the only member of the family (irrespective of servants) with whom it had any decided acquaintance."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"It is not wholly irrespective of our personal feelings that we record HIM as the Mentor of our young Telemachus, for it is good to know that our town produced the founder of the latter’s fortunes."*

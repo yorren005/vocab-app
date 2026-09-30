@@ -5,14 +5,6 @@ status: unread
 ---
 # primate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A senior clergyman and dignitary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any placental mammal of the order primates; has good eyesight and flexible hands and feet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Monks of the screw. _(His Eminence Simon Stephen Cardinal Dedalus, Primate of all Ireland, appears in the doorway, dressed in red soutane, sandals and socks."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"The bigoted and haughty primate, Laud, Archbishop of Canterbury, controlled the religious affairs of the realm, and was consequently invested with powers which might have wrought the utter ruin of the two Puritan colonies, Plymouth and Massachusetts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A senior clergyman and dignitary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any placental mammal of the order primates; has good eyesight and flexible hands and feet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Monks of the screw. _(His Eminence Simon Stephen Cardinal Dedalus, Primate of all Ireland, appears in the doorway, dressed in red soutane, sandals and socks."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"The bigoted and haughty primate, Laud, Archbishop of Canterbury, controlled the religious affairs of the realm, and was consequently invested with powers which might have wrought the utter ruin of the two Puritan colonies, Plymouth and Massachusetts."*

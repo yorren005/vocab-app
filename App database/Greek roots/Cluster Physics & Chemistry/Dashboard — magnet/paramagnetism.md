@@ -5,13 +5,6 @@ status: unread
 ---
 # paramagnetism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or relating to a magnetizable substance (such as aluminum) that has small but positive susceptibility which varies little with magnetizing force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or relating to a magnetizable substance (such as aluminum) that has small but positive susceptibility which varies little with magnetizing force.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paramagnetism designates being or relating to a magnetizable substance (such as aluminum) that has small but positive susceptibility which varies little with magnetizing force."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or relating to a magnetizable substance (such as aluminum) that has small but positive susceptibility which varies little with magnetizing force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or relating to a magnetizable substance (such as aluminum) that has small but positive susceptibility which varies little with magnetizing force.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paramagnetism designates being or relating to a magnetizable substance (such as aluminum) that has small but positive susceptibility which varies little with magnetizing force."*

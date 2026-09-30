@@ -5,15 +5,6 @@ status: unread
 ---
 # tempo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) the speed at which a composition is to be played.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rate of some repeating event.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Air Force leadership is concerned about the ability of its members to cope with increasing levels of stress in the face of significant increases in operations tempo and force downsizing."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Coster's type were cast in one tempo, that is, the character itself and the shank cast at the same time in one piece."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It may be affirmed that they 483:3 do not heal, but only relieve suffering tempo- rarily, exchanging one disease for another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) the speed at which a composition is to be played.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rate of some repeating event.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Air Force leadership is concerned about the ability of its members to cope with increasing levels of stress in the face of significant increases in operations tempo and force downsizing."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Coster's type were cast in one tempo, that is, the character itself and the shank cast at the same time in one piece."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It may be affirmed that they 483:3 do not heal, but only relieve suffering tempo- rarily, exchanging one disease for another."*

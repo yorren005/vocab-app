@@ -5,15 +5,6 @@ status: unread
 ---
 # encampment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A site where people on holiday can pitch a tent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Temporary living quarters specially built by the army for soldiers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Distinct upon the stagnant air came the sounds of a trotting horse passing up Longpuddle Lane—just beyond the gipsies’ encampment in Weatherbury Bottom."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He repeated his assurance, and thus it continued until the storm-cloud was almost over the encampment."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It divided north and south, and passed about a quarter of a mile on either side of them, reunited again and passed on, and not one solitary drop of rain fell on that encampment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A site where people on holiday can pitch a tent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Temporary living quarters specially built by the army for soldiers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Distinct upon the stagnant air came the sounds of a trotting horse passing up Longpuddle Lane—just beyond the gipsies’ encampment in Weatherbury Bottom."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"He repeated his assurance, and thus it continued until the storm-cloud was almost over the encampment."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"It divided north and south, and passed about a quarter of a mile on either side of them, reunited again and passed on, and not one solitary drop of rain fell on that encampment."*

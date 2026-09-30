@@ -5,15 +5,6 @@ status: unread
 ---
 # disconsolate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sad beyond comforting; incapable of being consoled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing dejection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All disconsolate, With Pindarus his bondman, on this hill."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have come down,” repeats Grandfather Smallweed, hooking the air towards him with all his ten fingers at once, “to look after the property.” “I think, Small,” says the disconsolate Mr."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"O," thought I, "how I would like to send something." "When I returned home my poor children were still sleeping soundly, and my disconsolate husband waiting my return, for he had been out of employment some time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sad beyond comforting; incapable of being consoled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing dejection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All disconsolate, With Pindarus his bondman, on this hill."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I have come down,” repeats Grandfather Smallweed, hooking the air towards him with all his ten fingers at once, “to look after the property.” “I think, Small,” says the disconsolate Mr."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"O," thought I, "how I would like to send something." "When I returned home my poor children were still sleeping soundly, and my disconsolate husband waiting my return, for he had been out of employment some time."*

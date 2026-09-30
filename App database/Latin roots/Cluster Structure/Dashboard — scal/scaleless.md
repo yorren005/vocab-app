@@ -5,13 +5,6 @@ status: unread
 ---
 # scaleless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destitute of scales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destitute of scales.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scaleless designates destitute of scales."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destitute of scales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destitute of scales.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scaleless designates destitute of scales."*

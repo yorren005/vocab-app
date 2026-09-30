@@ -5,13 +5,6 @@ status: unread
 ---
 # lipopolysaccharide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large molecule consisting of lipids and sugars joined by chemical bonds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large molecule consisting of lipids and sugars joined by chemical bonds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lipopolysaccharide designates a large molecule consisting of lipids and sugars joined by chemical bonds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large molecule consisting of lipids and sugars joined by chemical bonds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large molecule consisting of lipids and sugars joined by chemical bonds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lipopolysaccharide designates a large molecule consisting of lipids and sugars joined by chemical bonds."*

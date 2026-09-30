@@ -5,15 +5,6 @@ status: unread
 ---
 # consequent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Following or accompanying as a consequence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Following or accompanying as a consequence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby politely invites him to step upstairs and drink a cup of tea, if he will excuse the disarranged state of the tea-table, consequent on their previous exertions."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Some consequent action was necessary; yet what?"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"To do so he arose from his bed, retired to a quiet part of his home and bowed in prayer, seeking to occupy the entire night if need be in prayer for the bestowal of the Holy Spirit, and the consequent revival influences of other days."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Following or accompanying as a consequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Following or accompanying as a consequence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby politely invites him to step upstairs and drink a cup of tea, if he will excuse the disarranged state of the tea-table, consequent on their previous exertions."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Some consequent action was necessary; yet what?"*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"To do so he arose from his bed, retired to a quiet part of his home and bowed in prayer, seeking to occupy the entire night if need be in prayer for the bestowal of the Holy Spirit, and the consequent revival influences of other days."*

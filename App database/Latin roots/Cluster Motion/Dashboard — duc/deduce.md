@@ -5,15 +5,6 @@ status: unread
 ---
 # deduce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason by deduction; establish by deduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conclude by reasoning; in logic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Lastly, though this is not absolutely necessary, it should be possible to deduce from the definition all the properties of the thing defined."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A few rows of figures are enough to deduce misery from, and a few more will show the rate at which the political determination of the people is growing.” “Good: draw that out a little more at length, Ladislaw."*
-> - 📜 **George Eliot (*Middlemarch*):** *"That is an idea, now: write it out in the ‘Pioneer.’ Put the figures and deduce the misery, you know; and put the other figures and deduce—and so on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason by deduction; establish by deduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conclude by reasoning; in logic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Lastly, though this is not absolutely necessary, it should be possible to deduce from the definition all the properties of the thing defined."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A few rows of figures are enough to deduce misery from, and a few more will show the rate at which the political determination of the people is growing.” “Good: draw that out a little more at length, Ladislaw."*
+> - 📜 **George Eliot (*Middlemarch*):** *"That is an idea, now: write it out in the ‘Pioneer.’ Put the figures and deduce the misery, you know; and put the other figures and deduce—and so on."*

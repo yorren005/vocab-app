@@ -5,13 +5,6 @@ status: unread
 ---
 # anamorphic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing, relating to, or marked by intentional distortion (as by unequal magnification along perpendicular axes) of an image.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing, relating to, or marked by intentional distortion (as by unequal magnification along perpendicular axes) of an image.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anamorphic designates producing, relating to, or marked by intentional distortion (as by unequal magnification along perpendicular axes) of an image."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing, relating to, or marked by intentional distortion (as by unequal magnification along perpendicular axes) of an image.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing, relating to, or marked by intentional distortion (as by unequal magnification along perpendicular axes) of an image.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anamorphic designates producing, relating to, or marked by intentional distortion (as by unequal magnification along perpendicular axes) of an image."*

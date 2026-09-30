@@ -5,14 +5,6 @@ status: unread
 ---
 # submissiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being willing to yield to the will of another person or a superior force etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being willing to yield to the will of another person or a superior force etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate relied much on the psychological difference between what for the sake of variety I will call goose and gander: especially on the innate submissiveness of the goose as beautifully corresponding to the strength of the gander."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The man of intellectual pursuits will not have a starved spiritual nature; and the man of predominant spiritual functions will not have an intellect weakened into a submissiveness to formulated, stereotyped, and, consequently, lifeless dogmas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being willing to yield to the will of another person or a superior force etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being willing to yield to the will of another person or a superior force etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate relied much on the psychological difference between what for the sake of variety I will call goose and gander: especially on the innate submissiveness of the goose as beautifully corresponding to the strength of the gander."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The man of intellectual pursuits will not have a starved spiritual nature; and the man of predominant spiritual functions will not have an intellect weakened into a submissiveness to formulated, stereotyped, and, consequently, lifeless dogmas."*

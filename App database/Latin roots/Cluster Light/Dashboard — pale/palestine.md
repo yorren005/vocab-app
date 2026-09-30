@@ -5,15 +5,6 @@ status: unread
 ---
 # palestine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A former british mandate on the east coast of the mediterranean; divided between jordan and israel in 1948.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient country in southwestern asia on the east coast of the mediterranean sea; a place of pilgrimage for christianity and islam and judaism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Arthur, that great forerunner of thy blood, Richard, that robb’d the lion of his heart And fought the holy wars in Palestine, By this brave duke came early to his grave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know a lady in Venice would have walked barefoot to Palestine for a touch of his nether lip."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Candelier, _Rio-Hacha et les Indiens Goajires_ (Paris, 1893), p. 85. [320] Henry Maundrell, "A Journey from Aleppo to Jerusalem at Easter, A.D. 1697," in Bohn's _Early Travellers in Palestine_ (London, 1848), pp. 462-465; Mgr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former british mandate on the east coast of the mediterranean; divided between jordan and israel in 1948.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient country in southwestern asia on the east coast of the mediterranean sea; a place of pilgrimage for christianity and islam and judaism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Arthur, that great forerunner of thy blood, Richard, that robb’d the lion of his heart And fought the holy wars in Palestine, By this brave duke came early to his grave."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know a lady in Venice would have walked barefoot to Palestine for a touch of his nether lip."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Candelier, _Rio-Hacha et les Indiens Goajires_ (Paris, 1893), p. 85. [320] Henry Maundrell, "A Journey from Aleppo to Jerusalem at Easter, A.D. 1697," in Bohn's _Early Travellers in Palestine_ (London, 1848), pp. 462-465; Mgr."*

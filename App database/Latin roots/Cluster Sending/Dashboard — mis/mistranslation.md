@@ -5,13 +5,6 @@ status: unread
 ---
 # mistranslation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An incorrect translation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An incorrect translation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Strange to say, a similar mistranslation occurs in Dr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An incorrect translation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An incorrect translation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Strange to say, a similar mistranslation occurs in Dr."*

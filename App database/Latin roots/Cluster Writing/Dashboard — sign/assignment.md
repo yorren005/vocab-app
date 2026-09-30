@@ -5,15 +5,6 @@ status: unread
 ---
 # assignment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A duty that you are assigned to perform (especially in the armed forces).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The instrument by which a claim or right or interest or property is transferred from one person to another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It shades into force, status, and charity in manifold ways, but it is essentially the assignment of a common, or social, income to individuals by some person or persons chosen, or accepted, by the society to perform this function."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Holding the office directly from the crown, I believe, all the royal emoluments incident to the Cinque Port territories become by assignment his."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I'm here on counter-intelligence work, and I don't like your sending this guy," thumbing toward Brad, "and one of his sidekicks over to a UIPS ship on a highly sensitive assignment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A duty that you are assigned to perform (especially in the armed forces).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The instrument by which a claim or right or interest or property is transferred from one person to another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It shades into force, status, and charity in manifold ways, but it is essentially the assignment of a common, or social, income to individuals by some person or persons chosen, or accepted, by the society to perform this function."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Holding the office directly from the crown, I believe, all the royal emoluments incident to the Cinque Port territories become by assignment his."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I'm here on counter-intelligence work, and I don't like your sending this guy," thumbing toward Brad, "and one of his sidekicks over to a UIPS ship on a highly sensitive assignment."*

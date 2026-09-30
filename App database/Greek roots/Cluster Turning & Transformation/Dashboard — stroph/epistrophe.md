@@ -5,13 +5,6 @@ status: unread
 ---
 # epistrophe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetition of a word or expression at the end of successive phrases, clauses, sentences, or verses especially for rhetorical or poetic effect (such as Lincoln's "of the people, by the people, for the people").
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repetition of a word or expression at the end of successive phrases, clauses, sentences, or verses especially for rhetorical or poetic effect (such as Lincoln's "of the people, by the people, for the people").
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epistrophe designates repetition of a word or expression at the end of successive phrases, clauses, sentences, or verses especially for rhetorical or poetic effect (such as lincoln's "of the people, by the people, for the people")."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetition of a word or expression at the end of successive phrases, clauses, sentences, or verses especially for rhetorical or poetic effect (such as Lincoln's "of the people, by the people, for the people").
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repetition of a word or expression at the end of successive phrases, clauses, sentences, or verses especially for rhetorical or poetic effect (such as Lincoln's "of the people, by the people, for the people").
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epistrophe designates repetition of a word or expression at the end of successive phrases, clauses, sentences, or verses especially for rhetorical or poetic effect (such as lincoln's "of the people, by the people, for the people")."*

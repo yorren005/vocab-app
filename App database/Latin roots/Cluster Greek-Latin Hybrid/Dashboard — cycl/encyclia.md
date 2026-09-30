@@ -5,13 +5,6 @@ status: unread
 ---
 # encyclia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of epiphytic and lithophytic orchids of tropical and subtropical americas and west indies; formerly included in genus epidendrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of epiphytic and lithophytic orchids of tropical and subtropical americas and west indies; formerly included in genus epidendrum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encyclia designates large genus of epiphytic and lithophytic orchids of tropical and subtropical americas and west indies; formerly included in genus epidendrum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of epiphytic and lithophytic orchids of tropical and subtropical americas and west indies; formerly included in genus epidendrum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of epiphytic and lithophytic orchids of tropical and subtropical americas and west indies; formerly included in genus epidendrum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encyclia designates large genus of epiphytic and lithophytic orchids of tropical and subtropical americas and west indies; formerly included in genus epidendrum."*

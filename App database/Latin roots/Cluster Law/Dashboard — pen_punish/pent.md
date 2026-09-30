@@ -5,15 +5,6 @@ status: unread
 ---
 # pent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Produce a literary work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Closely confined.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, Gloucester, hide thee from their hateful looks, And, in thy closet pent up, rue my shame, And ban thine enemies, both mine and thine!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So looks the pent-up lion o’er the wretch That trembles under his devouring paws; And so he walks, insulting o’er his prey, And so he comes to rend his limbs asunder."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caitiff, to pieces shake That under covert and convenient seeming Hast practis’d on man’s life: close pent-up guilts, Rive your concealing continents, and cry These dreadful summoners grace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Produce a literary work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Closely confined.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, Gloucester, hide thee from their hateful looks, And, in thy closet pent up, rue my shame, And ban thine enemies, both mine and thine!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So looks the pent-up lion o’er the wretch That trembles under his devouring paws; And so he walks, insulting o’er his prey, And so he comes to rend his limbs asunder."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caitiff, to pieces shake That under covert and convenient seeming Hast practis’d on man’s life: close pent-up guilts, Rive your concealing continents, and cry These dreadful summoners grace."*

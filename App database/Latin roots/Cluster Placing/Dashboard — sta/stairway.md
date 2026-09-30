@@ -5,15 +5,6 @@ status: unread
 ---
 # stairway
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A way of access (upward and downward) consisting of a set of steps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A way of access (upward and downward) consisting of a set of steps.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At the same moment he came down his steps from above in his shirt-sleeves and put his arm across the stairway."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Three years after (in January, 1862), she fell at the top of a stairway, striking just as before, and sliding all the way down to the foot."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Seeing a dim light in the upper story where she resided, and following its lead, he crept softly along on the stairway, until he reached the room from which a low sound issued."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A way of access (upward and downward) consisting of a set of steps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A way of access (upward and downward) consisting of a set of steps.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At the same moment he came down his steps from above in his shirt-sleeves and put his arm across the stairway."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Three years after (in January, 1862), she fell at the top of a stairway, striking just as before, and sliding all the way down to the foot."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Seeing a dim light in the upper story where she resided, and following its lead, he crept softly along on the stairway, until he reached the room from which a low sound issued."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # undiscriminating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not discriminating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not discriminating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The common law contained likewise a closely related body of doctrine by which the railroads, as common carriers, ought to have given equitable and undiscriminating rates to all shippers."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Another time, in another of your undiscriminating platform rushes, you would punish the sober for the drunken."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not discriminating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not discriminating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The common law contained likewise a closely related body of doctrine by which the railroads, as common carriers, ought to have given equitable and undiscriminating rates to all shippers."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Another time, in another of your undiscriminating platform rushes, you would punish the sober for the drunken."*

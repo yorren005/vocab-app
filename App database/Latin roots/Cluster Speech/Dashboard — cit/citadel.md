@@ -5,15 +5,6 @@ status: unread
 ---
 # citadel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stronghold into which people could go for shelter during a battle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stronghold into which people could go for shelter during a battle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I swore I leap’d from the window of the citadel,— FIRST LORD. [_Aside._] How deep?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sometime we see a cloud that’s dragonish, A vapour sometime like a bear or lion, A towered citadel, a pendant rock, A forked mountain, or blue promontory With trees upon’t, that nod unto the world And mock our eyes with air."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They give their greeting to the citadel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stronghold into which people could go for shelter during a battle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stronghold into which people could go for shelter during a battle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I swore I leap’d from the window of the citadel,— FIRST LORD. [_Aside._] How deep?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sometime we see a cloud that’s dragonish, A vapour sometime like a bear or lion, A towered citadel, a pendant rock, A forked mountain, or blue promontory With trees upon’t, that nod unto the world And mock our eyes with air."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They give their greeting to the citadel."*

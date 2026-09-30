@@ -5,13 +5,6 @@ status: unread
 ---
 # vivification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Quality of being active or spirited or alive and vigorous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of giving vitality and vigour to something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Magical transformations, the vengeance of witches, the vivification of waterskins--one tale comes crowding after another, real and vivid, with the most alarming and the most amusing details."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Quality of being active or spirited or alive and vigorous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of giving vitality and vigour to something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Magical transformations, the vengeance of witches, the vivification of waterskins--one tale comes crowding after another, real and vivid, with the most alarming and the most amusing details."*

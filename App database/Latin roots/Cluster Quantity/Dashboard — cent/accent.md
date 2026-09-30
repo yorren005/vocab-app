@@ -5,15 +5,6 @@ status: unread
 ---
 # accent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinctive manner of oral expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Special importance or significance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your accent is something finer than you could purchase in so removed a dwelling."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"POLONIUS. ’Fore God, my lord, well spoken, with good accent and good discretion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath a trick of Cœur-de-lion’s face; The accent of his tongue affecteth him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinctive manner of oral expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Special importance or significance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your accent is something finer than you could purchase in so removed a dwelling."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"POLONIUS. ’Fore God, my lord, well spoken, with good accent and good discretion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath a trick of Cœur-de-lion’s face; The accent of his tongue affecteth him."*

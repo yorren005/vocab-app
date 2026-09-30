@@ -5,15 +5,6 @@ status: unread
 ---
 # dealer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who purchases and maintains an inventory of goods to be sold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A firm engaged in trading.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The plainer dealer, the sooner lost."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had well hoped thou wouldst have denied Beatrice, that I might have cudgelled thee out of thy single life, to make thee a double-dealer; which, out of question, thou wilt be, if my cousin do not look exceeding narrowly to thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, I will be so much a sinner to be a double-dealer: there’s another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who purchases and maintains an inventory of goods to be sold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A firm engaged in trading.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The plainer dealer, the sooner lost."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had well hoped thou wouldst have denied Beatrice, that I might have cudgelled thee out of thy single life, to make thee a double-dealer; which, out of question, thou wilt be, if my cousin do not look exceeding narrowly to thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, I will be so much a sinner to be a double-dealer: there’s another."*

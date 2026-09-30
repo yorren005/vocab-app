@@ -5,15 +5,6 @@ status: unread
 ---
 # dynasty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A succession of rulers of the same line of descent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A powerful group or family that maintains its position for a considerable time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The little finger of the sham d’Urberville can do more for you than the whole dynasty of the real underneath...."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Heads of officials fell everywhere, being replaced by Chong Mong-ju’s appointees; but there were no risings against the dynasty."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"This annual renewal of fire was a ceremony of very great antiquity in China, since it is known to have been observed in the time of the first dynasty, about two thousand years before Christ."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A succession of rulers of the same line of descent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A powerful group or family that maintains its position for a considerable time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The little finger of the sham d’Urberville can do more for you than the whole dynasty of the real underneath...."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Heads of officials fell everywhere, being replaced by Chong Mong-ju’s appointees; but there were no risings against the dynasty."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"This annual renewal of fire was a ceremony of very great antiquity in China, since it is known to have been observed in the time of the first dynasty, about two thousand years before Christ."*

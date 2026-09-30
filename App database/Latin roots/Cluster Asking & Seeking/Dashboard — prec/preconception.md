@@ -5,15 +5,6 @@ status: unread
 ---
 # preconception
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An opinion formed beforehand without adequate evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A partiality that prevents objective consideration of an issue or situation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"There are the Gospels, and, like other historical records, they must be studied in earnest on scientific lines without preconception."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In each case the preconception had grown up, as about the myths of Isis, for example, that such books were in some way sacred and inspired."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"The motions of these men were slow and solemn, as if there impended over their souls some preconception of horror and of cruelty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An opinion formed beforehand without adequate evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A partiality that prevents objective consideration of an issue or situation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"There are the Gospels, and, like other historical records, they must be studied in earnest on scientific lines without preconception."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In each case the preconception had grown up, as about the myths of Isis, for example, that such books were in some way sacred and inspired."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"The motions of these men were slow and solemn, as if there impended over their souls some preconception of horror and of cruelty."*

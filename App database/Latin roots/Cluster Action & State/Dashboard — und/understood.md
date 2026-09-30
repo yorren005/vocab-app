@@ -5,15 +5,6 @@ status: unread
 ---
 # understood
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Know and comprehend the nature or meaning of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perceive (an idea or situation) mentally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A most harsh one, and not to be understood without bloody succeeding."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When a man’s verses cannot be understood, nor a man’s good wit seconded with the forward child, understanding, it strikes a man more dead than a great reckoning in a little room."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are well understood to be a perfecter giber for the table than a necessary bencher in the Capitol."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Know and comprehend the nature or meaning of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perceive (an idea or situation) mentally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A most harsh one, and not to be understood without bloody succeeding."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When a man’s verses cannot be understood, nor a man’s good wit seconded with the forward child, understanding, it strikes a man more dead than a great reckoning in a little room."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are well understood to be a perfecter giber for the table than a necessary bencher in the Capitol."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # dictate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative rule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A guiding principle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, Esther, I don’t mean to amend that very objectionable course: I will not hold John Jarndyce’s favour on those unfair terms of compromise, which he has no right to dictate."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I will write anything, here and now, that you will dictate."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Since the idea had been started in the very quarter which ought to dictate, he had no scruple,” he said, “in confessing his judgement to be entirely on that side."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative rule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A guiding principle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, Esther, I don’t mean to amend that very objectionable course: I will not hold John Jarndyce’s favour on those unfair terms of compromise, which he has no right to dictate."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I will write anything, here and now, that you will dictate."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Since the idea had been started in the very quarter which ought to dictate, he had no scruple,” he said, “in confessing his judgement to be entirely on that side."*

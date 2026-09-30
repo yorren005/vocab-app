@@ -5,13 +5,6 @@ status: unread
 ---
 # intersex
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One having both male and female sexual characteristics and organs; at birth an unambiguous assignment of male or female cannot be made.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One having both male and female sexual characteristics and organs; at birth an unambiguous assignment of male or female cannot be made.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intersex designates one having both male and female sexual characteristics and organs; at birth an unambiguous assignment of male or female cannot be made."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One having both male and female sexual characteristics and organs; at birth an unambiguous assignment of male or female cannot be made.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One having both male and female sexual characteristics and organs; at birth an unambiguous assignment of male or female cannot be made.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intersex designates one having both male and female sexual characteristics and organs; at birth an unambiguous assignment of male or female cannot be made."*

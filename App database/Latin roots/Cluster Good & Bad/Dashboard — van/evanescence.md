@@ -5,15 +5,6 @@ status: unread
 ---
 # evanescence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The event of fading and gradually vanishing from sight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The event of fading and gradually vanishing from sight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So that to this hunter’s wondrous skill, the proverbial evanescence of a thing writ in water, a wake, is to all desired purposes well nigh as reliable as the steadfast land."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"And it is not my own extremity I remember best—a vision of greyness without form filled with physical pain, and a careless contempt for the evanescence of all things—even of this pain itself."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"So that to this hunter’s wondrous skill, the proverbial evanescence of a thing writ in water, a wake, is to all desired purposes well nigh as reliable as the steadfast land."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The event of fading and gradually vanishing from sight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The event of fading and gradually vanishing from sight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So that to this hunter’s wondrous skill, the proverbial evanescence of a thing writ in water, a wake, is to all desired purposes well nigh as reliable as the steadfast land."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"And it is not my own extremity I remember best—a vision of greyness without form filled with physical pain, and a careless contempt for the evanescence of all things—even of this pain itself."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"So that to this hunter’s wondrous skill, the proverbial evanescence of a thing writ in water, a wake, is to all desired purposes well nigh as reliable as the steadfast land."*

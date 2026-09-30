@@ -5,13 +5,6 @@ status: unread
 ---
 # restitute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give or bring back.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restore to a previous or better condition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, restitute designates give or bring back."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give or bring back.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restore to a previous or better condition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, restitute designates give or bring back."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # haplology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Contraction of a word by omission of one or more similar sounds or syllables (as in mineralogy for hypothetical mineralology or \ˈprä-blē\ for probably).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contraction of a word by omission of one or more similar sounds or syllables (as in mineralogy for hypothetical mineralology or \ˈprä-blē\ for probably).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplology designates contraction of a word by omission of one or more similar sounds or syllables (as in mineralogy for hypothetical mineralology or \ˈprä-blē\ for probably)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contraction of a word by omission of one or more similar sounds or syllables (as in mineralogy for hypothetical mineralology or \ˈprä-blē\ for probably).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contraction of a word by omission of one or more similar sounds or syllables (as in mineralogy for hypothetical mineralology or \ˈprä-blē\ for probably).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplology designates contraction of a word by omission of one or more similar sounds or syllables (as in mineralogy for hypothetical mineralology or \ˈprä-blē\ for probably)."*

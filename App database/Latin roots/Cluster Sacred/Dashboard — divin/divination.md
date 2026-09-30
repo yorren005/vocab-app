@@ -5,15 +5,6 @@ status: unread
 ---
 # divination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Successful conjecture by unusual insight or good luck.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prediction uttered under divine inspiration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet speak, Morton; Tell thou an earl his divination lies, And I will take it as a sweet disgrace And make thee rich for doing me such wrong."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, youthful Troilus, do not these high strains Of divination in our sister work Some touches of remorse?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Some believe in it; some don’t; I do.” “Very well, let’s try it,” said Bathsheba, bounding from her seat with that total disregard of consistency which can be indulged in towards a dependent, and entering into the spirit of divination at once."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Successful conjecture by unusual insight or good luck.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prediction uttered under divine inspiration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet speak, Morton; Tell thou an earl his divination lies, And I will take it as a sweet disgrace And make thee rich for doing me such wrong."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, youthful Troilus, do not these high strains Of divination in our sister work Some touches of remorse?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Some believe in it; some don’t; I do.” “Very well, let’s try it,” said Bathsheba, bounding from her seat with that total disregard of consistency which can be indulged in towards a dependent, and entering into the spirit of divination at once."*

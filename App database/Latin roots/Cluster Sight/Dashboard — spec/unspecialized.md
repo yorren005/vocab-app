@@ -5,13 +5,6 @@ status: unread
 ---
 # unspecialized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not specialized or modified for a particular purpose or function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not specialized or modified for a particular purpose or function.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unspecialized designates not specialized or modified for a particular purpose or function."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not specialized or modified for a particular purpose or function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not specialized or modified for a particular purpose or function.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unspecialized designates not specialized or modified for a particular purpose or function."*

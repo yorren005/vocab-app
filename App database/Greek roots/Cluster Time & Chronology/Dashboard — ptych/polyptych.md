@@ -5,13 +5,6 @@ status: unread
 ---
 # polyptych
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of four or more panels (as of a painting) usually hinged and folding together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arrangement of four or more panels (as of a painting) usually hinged and folding together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyptych designates an arrangement of four or more panels (as of a painting) usually hinged and folding together."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of four or more panels (as of a painting) usually hinged and folding together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arrangement of four or more panels (as of a painting) usually hinged and folding together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyptych designates an arrangement of four or more panels (as of a painting) usually hinged and folding together."*

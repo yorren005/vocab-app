@@ -5,15 +5,6 @@ status: unread
 ---
 # botany
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biology dealing with plant life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant life.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She entered into a discourse on botany with the gentle Mrs."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Nor yet I don’t intend to advertise myself in the newspapers by the name of A.M. come back from Botany Bay; and years have rolled away, and who’s to gain by it?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"If everybody got their deserts, Bulstrode might have had to say his prayers at Botany Bay.” “What do you mean?” said Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biology dealing with plant life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant life.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She entered into a discourse on botany with the gentle Mrs."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Nor yet I don’t intend to advertise myself in the newspapers by the name of A.M. come back from Botany Bay; and years have rolled away, and who’s to gain by it?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"If everybody got their deserts, Bulstrode might have had to say his prayers at Botany Bay.” “What do you mean?” said Mr."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sultana
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pale yellow seedless grape used for raisins and wine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dried seedless grape.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ye monarchs, take the East and West Frae Indus to Savannah; Gie me, within my straining grasp, The melting form of Anna: There I’ll despise Imperial charms, An Empress or Sultana, While dying raptures in her arms I give and take wi’ Anna!"*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Hosmer ministers to them-- The loss of the Sultana--Return and further labors at the Soldiers' Rest--Removal to New York. 719-724 MISS HATTIE WISWALL."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"See, Strop falls back, though his reins are slack, Sultana begins to tire, And the top-weight tells on the Sydney crack, And the pace on "the Gippsland flyer"."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pale yellow seedless grape used for raisins and wine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dried seedless grape.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ye monarchs, take the East and West Frae Indus to Savannah; Gie me, within my straining grasp, The melting form of Anna: There I’ll despise Imperial charms, An Empress or Sultana, While dying raptures in her arms I give and take wi’ Anna!"*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Hosmer ministers to them-- The loss of the Sultana--Return and further labors at the Soldiers' Rest--Removal to New York. 719-724 MISS HATTIE WISWALL."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"See, Strop falls back, though his reins are slack, Sultana begins to tire, And the top-weight tells on the Sydney crack, And the pace on "the Gippsland flyer"."*

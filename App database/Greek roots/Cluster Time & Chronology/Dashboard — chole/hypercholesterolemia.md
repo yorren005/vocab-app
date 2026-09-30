@@ -5,13 +5,6 @@ status: unread
 ---
 # hypercholesterolemia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of an abnormal amount of cholesterol in the cells and plasma of the blood; associated with the risk of atherosclerosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of an abnormal amount of cholesterol in the cells and plasma of the blood; associated with the risk of atherosclerosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercholesterolemia designates the presence of an abnormal amount of cholesterol in the cells and plasma of the blood; associated with the risk of atherosclerosis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of an abnormal amount of cholesterol in the cells and plasma of the blood; associated with the risk of atherosclerosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of an abnormal amount of cholesterol in the cells and plasma of the blood; associated with the risk of atherosclerosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercholesterolemia designates the presence of an abnormal amount of cholesterol in the cells and plasma of the blood; associated with the risk of atherosclerosis."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # science
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular branch of scientific knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ability to produce solutions in some problem domain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plutus himself, That knows the tinct and multiplying medicine, Hath not in nature’s mystery more science Than I have in this ring. ’Twas mine, ’twas Helen’s, Whoever gave it you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of government the properties to unfold Would seem in me t’ affect speech and discourse, Since I am put to know that your own science Exceeds, in that, the lists of all advice My strength can give you."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But custom, combined with science—particularly science—inured me to it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular branch of scientific knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ability to produce solutions in some problem domain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plutus himself, That knows the tinct and multiplying medicine, Hath not in nature’s mystery more science Than I have in this ring. ’Twas mine, ’twas Helen’s, Whoever gave it you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of government the properties to unfold Would seem in me t’ affect speech and discourse, Since I am put to know that your own science Exceeds, in that, the lists of all advice My strength can give you."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But custom, combined with science—particularly science—inured me to it."*

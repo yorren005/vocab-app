@@ -5,13 +5,6 @@ status: unread
 ---
 # verboten
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excluded from use or mention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excluded from use or mention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verboten designates excluded from use or mention."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excluded from use or mention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excluded from use or mention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verboten designates excluded from use or mention."*

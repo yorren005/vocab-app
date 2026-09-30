@@ -5,15 +5,6 @@ status: unread
 ---
 # parthia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient kingdom in asia to the southeast of the caspian sea; it dominated southwestern asia from about 250 bc to ad 226.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient kingdom in asia to the southeast of the caspian sea; it dominated southwestern asia from about 250 bc to ad 226.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If we compose well here, to Parthia."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say to Ventidius I would speak with him. [_Exit Soothsayer._] He shall to Parthia."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, come, Ventidius, You must to Parthia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient kingdom in asia to the southeast of the caspian sea; it dominated southwestern asia from about 250 bc to ad 226.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient kingdom in asia to the southeast of the caspian sea; it dominated southwestern asia from about 250 bc to ad 226.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If we compose well here, to Parthia."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say to Ventidius I would speak with him. [_Exit Soothsayer._] He shall to Parthia."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, come, Ventidius, You must to Parthia."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # calisaya
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Peruvian shrub or small tree having large glossy leaves and cymes of fragrant yellow to green or red flowers; cultivated for its medicinal bark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Peruvian shrub or small tree having large glossy leaves and cymes of fragrant yellow to green or red flowers; cultivated for its medicinal bark.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calisaya designates peruvian shrub or small tree having large glossy leaves and cymes of fragrant yellow to green or red flowers; cultivated for its medicinal bark."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Peruvian shrub or small tree having large glossy leaves and cymes of fragrant yellow to green or red flowers; cultivated for its medicinal bark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Peruvian shrub or small tree having large glossy leaves and cymes of fragrant yellow to green or red flowers; cultivated for its medicinal bark.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calisaya designates peruvian shrub or small tree having large glossy leaves and cymes of fragrant yellow to green or red flowers; cultivated for its medicinal bark."*

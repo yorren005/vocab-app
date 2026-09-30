@@ -5,15 +5,6 @@ status: unread
 ---
 # accurate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming exactly or almost exactly to fact or to a standard or performing with total accuracy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of ideas, images, representations, expressions) characterized by perfect conformity to fact or truth ; strictly correct.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The schoolmaster at this time was John M'Gregor, a man of ripe and accurate scholarship and quite separate individuality."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He seemed to have always a perfectly definite conception of what the tune ought to be, but he was seldom able to give this idea an accurate, much less a melodious, expression."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"To those who are aware of this, it will give the most accurate impression of our feeling towards Dr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming exactly or almost exactly to fact or to a standard or performing with total accuracy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of ideas, images, representations, expressions) characterized by perfect conformity to fact or truth ; strictly correct.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"The schoolmaster at this time was John M'Gregor, a man of ripe and accurate scholarship and quite separate individuality."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"He seemed to have always a perfectly definite conception of what the tune ought to be, but he was seldom able to give this idea an accurate, much less a melodious, expression."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"To those who are aware of this, it will give the most accurate impression of our feeling towards Dr."*

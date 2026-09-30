@@ -5,15 +5,6 @@ status: unread
 ---
 # finer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (comparative of `fine') greater in quality or excellence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being satisfactory or in satisfactory condition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your accent is something finer than you could purchase in so removed a dwelling."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He draweth out the thread of his verbosity finer than the staple of his argument."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Because I will not do them the wrong to mistrust any, I will do myself the right to trust none; and the fine is,—for the which I may go the finer,—I will live a bachelor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (comparative of `fine') greater in quality or excellence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being satisfactory or in satisfactory condition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your accent is something finer than you could purchase in so removed a dwelling."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He draweth out the thread of his verbosity finer than the staple of his argument."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Because I will not do them the wrong to mistrust any, I will do myself the right to trust none; and the fine is,—for the which I may go the finer,—I will live a bachelor."*

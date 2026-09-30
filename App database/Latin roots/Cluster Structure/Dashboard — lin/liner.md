@@ -5,15 +5,6 @@ status: unread
 ---
 # liner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (baseball) a hit that flies straight out from the batter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protective covering that protects an inside surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Furthermore, the Depot can be taken with minimum damage to its structures and to its Slingshot stores." "What's the point?" Brad looked at the questioner, a big man in a black and gray uniform and a soft helmet liner perched on the back of his head."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Looking up, they see a gigantic, pancake-shaped, interplanetary space liner moving in above the parking block."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Stobey, Slutter and Chug watch as the huge space liner slows and stops in space just above the Super-Rock Playground."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (baseball) a hit that flies straight out from the batter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protective covering that protects an inside surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Furthermore, the Depot can be taken with minimum damage to its structures and to its Slingshot stores." "What's the point?" Brad looked at the questioner, a big man in a black and gray uniform and a soft helmet liner perched on the back of his head."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Looking up, they see a gigantic, pancake-shaped, interplanetary space liner moving in above the parking block."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Stobey, Slutter and Chug watch as the huge space liner slows and stops in space just above the Super-Rock Playground."*

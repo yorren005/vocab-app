@@ -5,13 +5,6 @@ status: unread
 ---
 # generically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without a trademark or brand name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As sharing a common genus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Generically man is one, and specifically man means all men."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without a trademark or brand name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As sharing a common genus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Generically man is one, and specifically man means all men."*

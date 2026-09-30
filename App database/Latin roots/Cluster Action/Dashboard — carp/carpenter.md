@@ -5,15 +5,6 @@ status: unread
 ---
 # carpenter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woodworker who makes or repairs wooden objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work as a carpenter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What is he that builds stronger than either the mason, the shipwright, or the carpenter?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who builds stronger than a mason, a shipwright, or a carpenter?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But speak you this with a sad brow, or do you play the flouting Jack, to tell us Cupid is a good hare-finder, and Vulcan a rare carpenter?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woodworker who makes or repairs wooden objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work as a carpenter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What is he that builds stronger than either the mason, the shipwright, or the carpenter?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who builds stronger than a mason, a shipwright, or a carpenter?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But speak you this with a sad brow, or do you play the flouting Jack, to tell us Cupid is a good hare-finder, and Vulcan a rare carpenter?"*

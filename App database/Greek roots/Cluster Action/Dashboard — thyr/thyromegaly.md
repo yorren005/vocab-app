@@ -5,13 +5,6 @@ status: unread
 ---
 # thyromegaly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally enlarged thyroid gland; can result from underproduction or overproduction of hormone or from a deficiency of iodine in the diet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally enlarged thyroid gland; can result from underproduction or overproduction of hormone or from a deficiency of iodine in the diet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyromegaly designates abnormally enlarged thyroid gland; can result from underproduction or overproduction of hormone or from a deficiency of iodine in the diet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally enlarged thyroid gland; can result from underproduction or overproduction of hormone or from a deficiency of iodine in the diet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally enlarged thyroid gland; can result from underproduction or overproduction of hormone or from a deficiency of iodine in the diet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyromegaly designates abnormally enlarged thyroid gland; can result from underproduction or overproduction of hormone or from a deficiency of iodine in the diet."*

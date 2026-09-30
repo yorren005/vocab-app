@@ -5,15 +5,6 @@ status: unread
 ---
 # exult
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feel extreme happiness or elation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To express great joy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who might be your mother, That you insult, exult, and all at once, Over the wretched?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Because it is the truth Ere I had finished this reply, my soul began to expand, to exult, with the strangest sense of freedom, of triumph, I ever felt."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Let Bourbon exult in his gay gilded lilies, And England triumphant display her proud rose: A fairer than either adorns the green valleys, Where Devon, sweet Devon, meandering flows."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feel extreme happiness or elation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To express great joy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who might be your mother, That you insult, exult, and all at once, Over the wretched?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Because it is the truth Ere I had finished this reply, my soul began to expand, to exult, with the strangest sense of freedom, of triumph, I ever felt."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Let Bourbon exult in his gay gilded lilies, And England triumphant display her proud rose: A fairer than either adorns the green valleys, Where Devon, sweet Devon, meandering flows."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # tumultuously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tumultuous and riotous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tumultuous and riotous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He held a child with each hand, and three were between his feet, all welcoming him tumultuously, so that for the moment it was impossible for him to move forward."*
-> - 📜 **George Eliot (*Middlemarch*):** *"His mind also was tumultuously busy while he watched her, and he was feeling rather wildly that something must happen to hinder their parting—some miracle, clearly nothing in their own deliberate speech."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Giving a sudden gasp, he tumultuously sounded."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tumultuous and riotous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tumultuous and riotous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He held a child with each hand, and three were between his feet, all welcoming him tumultuously, so that for the moment it was impossible for him to move forward."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His mind also was tumultuously busy while he watched her, and he was feeling rather wildly that something must happen to hinder their parting—some miracle, clearly nothing in their own deliberate speech."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Giving a sudden gasp, he tumultuously sounded."*

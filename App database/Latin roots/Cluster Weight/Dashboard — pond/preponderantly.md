@@ -5,13 +5,6 @@ status: unread
 ---
 # preponderantly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Much greater in number or influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Much greater in number or influence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preponderantly designates much greater in number or influence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Much greater in number or influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Much greater in number or influence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preponderantly designates much greater in number or influence."*

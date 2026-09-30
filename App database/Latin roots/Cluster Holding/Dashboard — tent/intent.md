@@ -5,15 +5,6 @@ status: unread
 ---
 # intent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anticipated outcome that is intended or that guides your planned actions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The intended meaning of a communication.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had you not lately an intent,—speak truly,— To go to Paris?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You may be pleased to catch at mine intent By what did here befall me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most noble sir, If you do hold the same intent wherein You wished us parties, we’ll deliver you Of your great danger."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anticipated outcome that is intended or that guides your planned actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The intended meaning of a communication.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had you not lately an intent,—speak truly,— To go to Paris?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You may be pleased to catch at mine intent By what did here befall me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most noble sir, If you do hold the same intent wherein You wished us parties, we’ll deliver you Of your great danger."*

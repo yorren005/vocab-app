@@ -5,13 +5,6 @@ status: unread
 ---
 # thalassemia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of inherited disorders of hemoglobin synthesis (such as Cooley's anemia) that are marked by mild to severe hypochromic and microcytic anemia, result from the partial or complete failure in production of one or more globin chains, and tend to occur especially in individuals of Mediterranean, African, or southeastern Asian ancestry —sometimes used with a prefix (such as alpha-, beta-, or delta-) to indicate the hemoglobin chain affected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cooley's anemia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thalassemia designates any of a group of inherited disorders of hemoglobin synthesis (such as cooley's anemia) that are marked by mild to severe hypochromic and microcytic anemia, result from the partial or complete failure in production of one or more globin chains, and tend to occur especially in individuals of mediterranean, african, or southeastern asian ancestry —sometimes used with a prefix (such as alpha-, beta-, or delta-) to indicate the hemoglobin chain affected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of inherited disorders of hemoglobin synthesis (such as Cooley's anemia) that are marked by mild to severe hypochromic and microcytic anemia, result from the partial or complete failure in production of one or more globin chains, and tend to occur especially in individuals of Mediterranean, African, or southeastern Asian ancestry —sometimes used with a prefix (such as alpha-, beta-, or delta-) to indicate the hemoglobin chain affected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cooley's anemia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thalassemia designates any of a group of inherited disorders of hemoglobin synthesis (such as cooley's anemia) that are marked by mild to severe hypochromic and microcytic anemia, result from the partial or complete failure in production of one or more globin chains, and tend to occur especially in individuals of mediterranean, african, or southeastern asian ancestry —sometimes used with a prefix (such as alpha-, beta-, or delta-) to indicate the hemoglobin chain affected."*

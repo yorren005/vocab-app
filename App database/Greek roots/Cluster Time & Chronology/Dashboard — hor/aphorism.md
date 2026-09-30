@@ -5,15 +5,6 @@ status: unread
 ---
 # aphorism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A concise statement of a principle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A terse formulation of a truth or sentiment : adage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The middle row, the first to be inscribed, deals with the Epicurean theory of atoms--not by apophthegm or aphorism, but with something of the fulness and technicality of a treatise."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"With the majority such an opinion is shelved with all those trite aphorisms which require some catastrophe to bring their tremendous meanings thoroughly home."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"That is one of your aphorisms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A concise statement of a principle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A terse formulation of a truth or sentiment : adage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The middle row, the first to be inscribed, deals with the Epicurean theory of atoms--not by apophthegm or aphorism, but with something of the fulness and technicality of a treatise."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"With the majority such an opinion is shelved with all those trite aphorisms which require some catastrophe to bring their tremendous meanings thoroughly home."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"That is one of your aphorisms."*

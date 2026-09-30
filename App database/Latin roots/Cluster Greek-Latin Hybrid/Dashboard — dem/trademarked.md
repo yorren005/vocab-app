@@ -5,13 +5,6 @@ status: unread
 ---
 # trademarked
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark with a brand or trademark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Register the trademark of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trademarked designates mark with a brand or trademark."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark with a brand or trademark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Register the trademark of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trademarked designates mark with a brand or trademark."*

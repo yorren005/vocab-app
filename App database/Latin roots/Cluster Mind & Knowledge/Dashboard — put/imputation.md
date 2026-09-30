@@ -5,15 +5,6 @@ status: unread
 ---
 # imputation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement attributing something dishonest (especially a criminal offense).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attribution to a source or cause.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I mean, sir, for his weapon; but in the imputation laid on him, by them in his meed he’s unfellowed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I had a suit to Master Shallow, I would humour his men with the imputation of being near their master: if to his men, I would curry with Master Shallow that no man could better command his servants."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Else imputation, For that he knew you, might reproach your life, And choke your good to come."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement attributing something dishonest (especially a criminal offense).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attribution to a source or cause.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I mean, sir, for his weapon; but in the imputation laid on him, by them in his meed he’s unfellowed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I had a suit to Master Shallow, I would humour his men with the imputation of being near their master: if to his men, I would curry with Master Shallow that no man could better command his servants."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Else imputation, For that he knew you, might reproach your life, And choke your good to come."*

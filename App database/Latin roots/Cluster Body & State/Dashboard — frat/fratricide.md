@@ -5,14 +5,6 @@ status: unread
 ---
 # fratricide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who murders their brother or sister.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fire that injures or kills an ally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"It was in that case of fratricide, the Childs murder case."*
-> - 📜 **James Joyce (*Ulysses*):** *"You remember the Childs fratricide case."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who murders their brother or sister.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fire that injures or kills an ally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"It was in that case of fratricide, the Childs murder case."*
+> - 📜 **James Joyce (*Ulysses*):** *"You remember the Childs fratricide case."*

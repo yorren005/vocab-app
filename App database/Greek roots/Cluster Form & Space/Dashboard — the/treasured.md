@@ -5,15 +5,6 @@ status: unread
 ---
 # treasured
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold dear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be fond of; be attached to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The recollection of them, he said, would go with him wherever he went and would be always treasured."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"At last I came to the conclusion that I might keep them if I treasured them only as a remembrance of what was irrevocably past and gone, never to be looked back on any more, in any other light."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The thorny wilds of logic were pleasant as an enchanted ground; its driest technicalities treasured up as unspeakably rare and precious."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold dear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be fond of; be attached to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The recollection of them, he said, would go with him wherever he went and would be always treasured."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"At last I came to the conclusion that I might keep them if I treasured them only as a remembrance of what was irrevocably past and gone, never to be looked back on any more, in any other light."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"The thorny wilds of logic were pleasant as an enchanted ground; its driest technicalities treasured up as unspeakably rare and precious."*

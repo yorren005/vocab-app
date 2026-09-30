@@ -5,15 +5,6 @@ status: unread
 ---
 # fall
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The season when the leaves fall from the trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden drop from an upright position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who lets so fair a house fall to decay, Which husbandry in honour might uphold, Against the stormy gusts of winter’s day And barren rage of death’s eternal cold?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What heaven more will, That thee may furnish and my prayers pluck down, Fall on thy head!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To each of you one fair and virtuous mistress Fall, when love please!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The season when the leaves fall from the trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden drop from an upright position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who lets so fair a house fall to decay, Which husbandry in honour might uphold, Against the stormy gusts of winter’s day And barren rage of death’s eternal cold?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What heaven more will, That thee may furnish and my prayers pluck down, Fall on thy head!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To each of you one fair and virtuous mistress Fall, when love please!"*

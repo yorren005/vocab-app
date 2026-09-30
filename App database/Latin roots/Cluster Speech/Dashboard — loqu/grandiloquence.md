@@ -5,13 +5,6 @@ status: unread
 ---
 # grandiloquence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: High-flown style; excessive use of verbal ornamentation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High-flown style; excessive use of verbal ornamentation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"But for my deep-seated impressions that treasure was here somewhere actually buried, we might have had all our labor in vain.” “But your grandiloquence, and your conduct in swinging the beetle— how excessively odd!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: High-flown style; excessive use of verbal ornamentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High-flown style; excessive use of verbal ornamentation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"But for my deep-seated impressions that treasure was here somewhere actually buried, we might have had all our labor in vain.” “But your grandiloquence, and your conduct in swinging the beetle— how excessively odd!"*

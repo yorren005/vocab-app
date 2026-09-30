@@ -5,13 +5,6 @@ status: unread
 ---
 # meiotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presentation of a thing with underemphasis especially in order to achieve a greater effect : understatement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cellular process that results in the number of chromosomes in gamete-producing cells being reduced to one half and that involves a reduction division in which one of each pair of homologous chromosomes passes to each daughter cell and a mitotic division.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meiotic designates the presentation of a thing with underemphasis especially in order to achieve a greater effect : understatement."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presentation of a thing with underemphasis especially in order to achieve a greater effect : understatement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cellular process that results in the number of chromosomes in gamete-producing cells being reduced to one half and that involves a reduction division in which one of each pair of homologous chromosomes passes to each daughter cell and a mitotic division.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meiotic designates the presentation of a thing with underemphasis especially in order to achieve a greater effect : understatement."*

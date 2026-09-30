@@ -5,13 +5,6 @@ status: unread
 ---
 # underbred
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of persons) lacking in refinement or grace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of inferior or mixed breed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The men appeared to her all coarse, the women all pert, everybody underbred; and she gave as little contentment as she received from introductions either to old or new acquaintance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of persons) lacking in refinement or grace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of inferior or mixed breed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The men appeared to her all coarse, the women all pert, everybody underbred; and she gave as little contentment as she received from introductions either to old or new acquaintance."*

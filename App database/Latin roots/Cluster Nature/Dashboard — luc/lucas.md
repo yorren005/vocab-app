@@ -5,15 +5,6 @@ status: unread
 ---
 # lucas
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states screenwriter and filmmaker (born in 1944).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states screenwriter and filmmaker (born in 1944).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Sir William and Lady Lucas are determined to go, merely on that account; for in general, you know, they visit no new comers."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"They attacked him in various ways, with barefaced questions, ingenious suppositions, and distant surmises; but he eluded the skill of them all; and they were at last obliged to accept the second-hand intelligence of their neighbour, Lady Lucas."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"First of all, he asked Miss Lucas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states screenwriter and filmmaker (born in 1944).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states screenwriter and filmmaker (born in 1944).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Sir William and Lady Lucas are determined to go, merely on that account; for in general, you know, they visit no new comers."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"They attacked him in various ways, with barefaced questions, ingenious suppositions, and distant surmises; but he eluded the skill of them all; and they were at last obliged to accept the second-hand intelligence of their neighbour, Lady Lucas."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"First of all, he asked Miss Lucas."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # judaica
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Historical and literary materials relating to judaism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historical and literary materials relating to judaism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, judaica designates historical and literary materials relating to judaism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Historical and literary materials relating to judaism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historical and literary materials relating to judaism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, judaica designates historical and literary materials relating to judaism."*

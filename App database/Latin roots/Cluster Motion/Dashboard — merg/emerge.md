@@ -5,15 +5,6 @@ status: unread
 ---
 # emerge
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come out into view, as from concealment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come out of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"By the noisome ways through which they descended into that pit, they gradually emerge from it, the crowd flitting, and whistling, and skulking about them until they come to the verge, where restoration of the bull’s-eyes is made to Darby."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"As the young lady was not fully dressed, Mrs Brooks knew that she would not emerge again for some time."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"If by hypnotism the conscious mind were put to sleep, and the subconscious mind awakened, then was the thing accomplished, then would all the dungeon doors of the brain be thrown wide, then would the prisoners emerge into the sunshine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Come out into view, as from concealment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come out of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"By the noisome ways through which they descended into that pit, they gradually emerge from it, the crowd flitting, and whistling, and skulking about them until they come to the verge, where restoration of the bull’s-eyes is made to Darby."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"As the young lady was not fully dressed, Mrs Brooks knew that she would not emerge again for some time."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"If by hypnotism the conscious mind were put to sleep, and the subconscious mind awakened, then was the thing accomplished, then would all the dungeon doors of the brain be thrown wide, then would the prisoners emerge into the sunshine."*

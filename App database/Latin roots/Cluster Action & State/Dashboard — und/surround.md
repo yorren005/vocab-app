@@ -5,15 +5,6 @@ status: unread
 ---
 # surround
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The area in which something exists or lives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extend on all sides of simultaneously; encircle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You must let Leonore surround you with her delightful and soothing personality, which is sure to make you happy."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It is a vale whose acquaintance is best made by viewing it from the summits of the hills that surround it—except perhaps during the droughts of summer."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The width of this canvas is never the full girth of the human body it is to surround."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The area in which something exists or lives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extend on all sides of simultaneously; encircle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You must let Leonore surround you with her delightful and soothing personality, which is sure to make you happy."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It is a vale whose acquaintance is best made by viewing it from the summits of the hills that surround it—except perhaps during the droughts of summer."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The width of this canvas is never the full girth of the human body it is to surround."*

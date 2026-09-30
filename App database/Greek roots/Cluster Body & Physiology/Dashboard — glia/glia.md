@@ -5,13 +5,6 @@ status: unread
 ---
 # glia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supporting tissue intermingled with the essential elements of nervous tissue especially in the brain, spinal cord, and ganglia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or constituting glia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glia designates supporting tissue intermingled with the essential elements of nervous tissue especially in the brain, spinal cord, and ganglia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Supporting tissue intermingled with the essential elements of nervous tissue especially in the brain, spinal cord, and ganglia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or constituting glia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glia designates supporting tissue intermingled with the essential elements of nervous tissue especially in the brain, spinal cord, and ganglia."*

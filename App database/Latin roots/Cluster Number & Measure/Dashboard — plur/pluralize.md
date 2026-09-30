@@ -5,13 +5,6 @@ status: unread
 ---
 # pluralize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark with a grammatical morpheme that indicates plural.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark with a grammatical morpheme that indicates plural.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"Wherever there are mothers, grandmothers, and nurses there are Mother Gooses,--or; shall we say, Mother Geese--for I am at a loss as to how to pluralize this old dame."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark with a grammatical morpheme that indicates plural.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark with a grammatical morpheme that indicates plural.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"Wherever there are mothers, grandmothers, and nurses there are Mother Gooses,--or; shall we say, Mother Geese--for I am at a loss as to how to pluralize this old dame."*

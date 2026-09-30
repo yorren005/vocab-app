@@ -5,13 +5,6 @@ status: unread
 ---
 # digester
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Autoclave consisting of a vessel in which plant or animal materials are digested.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Autoclave consisting of a vessel in which plant or animal materials are digested.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digester designates autoclave consisting of a vessel in which plant or animal materials are digested."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Autoclave consisting of a vessel in which plant or animal materials are digested.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Autoclave consisting of a vessel in which plant or animal materials are digested.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digester designates autoclave consisting of a vessel in which plant or animal materials are digested."*

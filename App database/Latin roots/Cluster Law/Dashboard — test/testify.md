@@ -5,15 +5,6 @@ status: unread
 ---
 # testify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give testimony in a court of law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide evidence for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, but some natural notes about her body Above ten thousand meaner movables Would testify, t’ enrich mine inventory."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her mother liveth yet, can testify She was the first fruit of my bachelorship."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, he made a chimney in my father’s house, and the bricks are alive at this day to testify it; therefore deny it not."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give testimony in a court of law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide evidence for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, but some natural notes about her body Above ten thousand meaner movables Would testify, t’ enrich mine inventory."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her mother liveth yet, can testify She was the first fruit of my bachelorship."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, he made a chimney in my father’s house, and the bricks are alive at this day to testify it; therefore deny it not."*

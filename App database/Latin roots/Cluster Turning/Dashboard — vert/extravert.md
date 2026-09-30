@@ -5,13 +5,6 @@ status: unread
 ---
 # extravert
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychology) a person concerned more with practical realities than with inner thoughts and feelings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being concerned with the social and physical environment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extravert designates (psychology) a person concerned more with practical realities than with inner thoughts and feelings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychology) a person concerned more with practical realities than with inner thoughts and feelings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being concerned with the social and physical environment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extravert designates (psychology) a person concerned more with practical realities than with inner thoughts and feelings."*

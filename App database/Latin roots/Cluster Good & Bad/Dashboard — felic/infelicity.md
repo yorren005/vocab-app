@@ -5,15 +5,6 @@ status: unread
 ---
 # infelicity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inappropriate and unpleasing manner or style (especially manner or style of expression).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inappropriate and unpleasing manner or style (especially manner or style of expression).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon’s words seemed to leave unsaid: what believer sees a disturbing omission or infelicity?"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Amidst conjugal infelicity, it is well to hope, pray, and wait patiently on divine wisdom to point out the path."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"The old philosopher feared that family pride might cause domestic infelicity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inappropriate and unpleasing manner or style (especially manner or style of expression).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inappropriate and unpleasing manner or style (especially manner or style of expression).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon’s words seemed to leave unsaid: what believer sees a disturbing omission or infelicity?"*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Amidst conjugal infelicity, it is well to hope, pray, and wait patiently on divine wisdom to point out the path."*
+> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"The old philosopher feared that family pride might cause domestic infelicity."*

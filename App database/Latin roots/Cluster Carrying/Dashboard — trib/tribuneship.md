@@ -5,13 +5,6 @@ status: unread
 ---
 # tribuneship
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of tribune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of tribune.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Proofs of this position might be adduced from the examples of the Roman Tribuneship, the Polish Diet, and the States-General of the Netherlands, did not an example at home render foreign precedents unnecessary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of tribune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of tribune.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Proofs of this position might be adduced from the examples of the Roman Tribuneship, the Polish Diet, and the States-General of the Netherlands, did not an example at home render foreign precedents unnecessary."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # arrogance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Overbearing pride evidenced by a superior manner toward inferiors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overbearing pride evidenced by a superior manner toward inferiors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lords, Can ye endure to hear this arrogance?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet, Derby, notwithstanding she’s your wife, And loves not me, be you, good lord, assured I hate not you for her proud arrogance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall the proud lord That bastes his arrogance with his own seam And never suffers matter of the world Enter his thoughts, save such as doth revolve And ruminate himself—shall he be worshipp’d Of that we hold an idol more than he?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Overbearing pride evidenced by a superior manner toward inferiors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overbearing pride evidenced by a superior manner toward inferiors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lords, Can ye endure to hear this arrogance?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet, Derby, notwithstanding she’s your wife, And loves not me, be you, good lord, assured I hate not you for her proud arrogance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall the proud lord That bastes his arrogance with his own seam And never suffers matter of the world Enter his thoughts, save such as doth revolve And ruminate himself—shall he be worshipp’d Of that we hold an idol more than he?"*

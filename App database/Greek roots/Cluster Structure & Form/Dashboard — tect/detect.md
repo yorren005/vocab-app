@@ -5,15 +5,6 @@ status: unread
 ---
 # detect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover or determine the existence, presence, or fact of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discover or determine the existence, presence, or fact of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then there is no true lover in the forest, else sighing every minute and groaning every hour would detect the lazy foot of time as well as a clock."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Iron of Naples, hid with English gilt, Whose father bears the title of a king, As if a channel should be called the sea, Sham’st thou not, knowing whence thou art extraught, To let thy tongue detect thy base-born heart?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will prevent this, detect my wife, be revenged on Falstaff, and laugh at Page."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover or determine the existence, presence, or fact of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discover or determine the existence, presence, or fact of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then there is no true lover in the forest, else sighing every minute and groaning every hour would detect the lazy foot of time as well as a clock."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Iron of Naples, hid with English gilt, Whose father bears the title of a king, As if a channel should be called the sea, Sham’st thou not, knowing whence thou art extraught, To let thy tongue detect thy base-born heart?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will prevent this, detect my wife, be revenged on Falstaff, and laugh at Page."*

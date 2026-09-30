@@ -5,15 +5,6 @@ status: unread
 ---
 # deep
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The central and most intense or profound part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long steep-sided depression in the ocean floor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your shallowest help will hold me up afloat, Whilst he upon your soundless deep doth ride, Or (being wrecked) I am a worthless boat, He of tall building, and of goodly pride."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I have sworn deep oaths of thy deep kindness: Oaths of thy love, thy truth, thy constancy, And to enlighten thee gave eyes to blindness, Or made them swear against the thing they see."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I swore I leap’d from the window of the citadel,— FIRST LORD. [_Aside._] How deep?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The central and most intense or profound part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long steep-sided depression in the ocean floor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your shallowest help will hold me up afloat, Whilst he upon your soundless deep doth ride, Or (being wrecked) I am a worthless boat, He of tall building, and of goodly pride."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I have sworn deep oaths of thy deep kindness: Oaths of thy love, thy truth, thy constancy, And to enlighten thee gave eyes to blindness, Or made them swear against the thing they see."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I swore I leap’d from the window of the citadel,— FIRST LORD. [_Aside._] How deep?"*

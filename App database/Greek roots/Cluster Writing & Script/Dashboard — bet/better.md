@@ -5,15 +5,6 @@ status: unread
 ---
 # better
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something superior in quality or condition or effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who bets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If my slight Muse do please these curious days, The pain be mine, but thine shall be the praise. 39 O how thy worth with manners may I sing, When thou art all the better part of me?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That I might see what the old world could say, To this composed wonder of your frame, Whether we are mended, or whether better they, Or whether revolution be the same."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thyself thou gav’st, thy own worth then not knowing, Or me to whom thou gav’st it, else mistaking, So thy great gift upon misprision growing, Comes home again, on better judgement making."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something superior in quality or condition or effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who bets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If my slight Muse do please these curious days, The pain be mine, but thine shall be the praise. 39 O how thy worth with manners may I sing, When thou art all the better part of me?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That I might see what the old world could say, To this composed wonder of your frame, Whether we are mended, or whether better they, Or whether revolution be the same."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thyself thou gav’st, thy own worth then not knowing, Or me to whom thou gav’st it, else mistaking, So thy great gift upon misprision growing, Comes home again, on better judgement making."*

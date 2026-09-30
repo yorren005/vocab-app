@@ -5,13 +5,6 @@ status: unread
 ---
 # heterosomata
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flatfishes: halibut; sole; flounder; plaice; turbot; tonguefishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flatfishes: halibut; sole; flounder; plaice; turbot; tonguefishes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterosomata designates flatfishes: halibut; sole; flounder; plaice; turbot; tonguefishes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flatfishes: halibut; sole; flounder; plaice; turbot; tonguefishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flatfishes: halibut; sole; flounder; plaice; turbot; tonguefishes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterosomata designates flatfishes: halibut; sole; flounder; plaice; turbot; tonguefishes."*

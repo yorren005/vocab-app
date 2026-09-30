@@ -5,15 +5,6 @@ status: unread
 ---
 # rascally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Playful in an appealingly bold way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking principles or scruples; ;  - w.m. thackaray.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, sir, use the carp as you may, for he looks like a poor, decayed, ingenious, foolish, rascally knave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, that same wicked bastard of Venus, that was begot of thought, conceived of spleen, and born of madness, that blind rascally boy that abuses everyone’s eyes because his own are out, let him be judge how deep I am in love."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A rascally yea-forsooth knave, to bear a gentleman in hand, and then stand upon security!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Playful in an appealingly bold way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking principles or scruples; ;  - w.m. thackaray.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, sir, use the carp as you may, for he looks like a poor, decayed, ingenious, foolish, rascally knave."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, that same wicked bastard of Venus, that was begot of thought, conceived of spleen, and born of madness, that blind rascally boy that abuses everyone’s eyes because his own are out, let him be judge how deep I am in love."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A rascally yea-forsooth knave, to bear a gentleman in hand, and then stand upon security!"*

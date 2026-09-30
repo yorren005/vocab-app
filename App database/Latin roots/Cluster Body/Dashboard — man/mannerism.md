@@ -5,14 +5,6 @@ status: unread
 ---
 # mannerism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A behavioral attribute that is distinctive and peculiar to an individual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberate pretense or exaggerated display.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"An ethical sympathy in an artist is an unpardonable mannerism of style."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They were dressed fashionably, but simply--with strict neatness and propriety, but without any mannerism or foppishness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A behavioral attribute that is distinctive and peculiar to an individual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberate pretense or exaggerated display.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"An ethical sympathy in an artist is an unpardonable mannerism of style."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They were dressed fashionably, but simply--with strict neatness and propriety, but without any mannerism or foppishness."*

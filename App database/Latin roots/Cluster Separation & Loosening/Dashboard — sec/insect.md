@@ -5,15 +5,6 @@ status: unread
 ---
 # insect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small air-breathing arthropod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who has a nasty or unethical character undeserving of respect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak had not once wished her free that he might marry her himself—had not once said, “I could wait for you as well as he.” That was the insect sting."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"All were in perfectly good condition, and none of the many signs which point to the arrival of the insect were apparent."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"The summer with us is as a perpetual _fête_--at least, before the insect appeared it was so, though now anxiety about the condition of our vines may cloud our enjoyment of the glorious sunshine which ripens them hourly before our eyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small air-breathing arthropod.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who has a nasty or unethical character undeserving of respect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak had not once wished her free that he might marry her himself—had not once said, “I could wait for you as well as he.” That was the insect sting."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"All were in perfectly good condition, and none of the many signs which point to the arrival of the insect were apparent."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"The summer with us is as a perpetual _fête_--at least, before the insect appeared it was so, though now anxiety about the condition of our vines may cloud our enjoyment of the glorious sunshine which ripens them hourly before our eyes."*

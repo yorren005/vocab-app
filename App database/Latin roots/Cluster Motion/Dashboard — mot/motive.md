@@ -5,15 +5,6 @@ status: unread
 ---
 # motive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The psychological feature that arouses an organism to action toward a desired goal; the reason for the action; that which gives purpose and direction to behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theme that is repeated or elaborated in a piece of music.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This was your motive For Paris, was it?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Doubt not but heaven Hath brought me up to be your daughter’s dower, As it hath fated her to be my motive And helper to a husband."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Truth is that Fulvia, To have me out of Egypt, made wars here, For which myself, the ignorant motive, do So far ask pardon as befits mine honour To stoop in such a case."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The psychological feature that arouses an organism to action toward a desired goal; the reason for the action; that which gives purpose and direction to behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theme that is repeated or elaborated in a piece of music.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This was your motive For Paris, was it?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Doubt not but heaven Hath brought me up to be your daughter’s dower, As it hath fated her to be my motive And helper to a husband."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Truth is that Fulvia, To have me out of Egypt, made wars here, For which myself, the ignorant motive, do So far ask pardon as befits mine honour To stoop in such a case."*

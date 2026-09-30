@@ -5,15 +5,6 @@ status: unread
 ---
 # grade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of students who are taught together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relative position or degree of value in a graded group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In many parts of the world were enormous deposits of low-grade ores, before useless, that could be worked economically by the new methods."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The smoky industrialism fostered by protection often puts a premium on a low grade of immigrants, crowds then into city slums and into forlorn mill towns, and keeps them aliens to the American spirit."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"If the Saviour of sinners be not God--if he be a created being, of whatever grade,--where is the _mystery of Godliness?_--Where those unfathomable depths of divine love, _into which the angels desire to look_?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A body of students who are taught together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relative position or degree of value in a graded group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In many parts of the world were enormous deposits of low-grade ores, before useless, that could be worked economically by the new methods."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The smoky industrialism fostered by protection often puts a premium on a low grade of immigrants, crowds then into city slums and into forlorn mill towns, and keeps them aliens to the American spirit."*
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"If the Saviour of sinners be not God--if he be a created being, of whatever grade,--where is the _mystery of Godliness?_--Where those unfathomable depths of divine love, _into which the angels desire to look_?"*

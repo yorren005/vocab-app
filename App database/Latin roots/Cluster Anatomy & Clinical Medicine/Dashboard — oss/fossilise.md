@@ -5,13 +5,6 @@ status: unread
 ---
 # fossilise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert to a fossil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become mentally inflexible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"It reminded me of a sepia painting I had once seen done from the ink of a fossil Belemnite that must have perished and become fossilised millions of years ago."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert to a fossil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become mentally inflexible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"It reminded me of a sepia painting I had once seen done from the ink of a fossil Belemnite that must have perished and become fossilised millions of years ago."*

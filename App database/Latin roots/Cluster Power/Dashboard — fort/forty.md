@@ -5,15 +5,6 @@ status: unread
 ---
 # forty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the product of ten and four.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being ten more than thirty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I saw her once Hop forty paces through the public street And, having lost her breath, she spoke and panted, That she did make defect perfection, And, breathless, pour breath forth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A ring he hath of mine worth forty ducats, And for the same he promis’d me a chain; Both one and other he denies me now."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This course I fittest choose, For forty ducats is too much to lose. [_Exit._] SCENE IV."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the product of ten and four.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being ten more than thirty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I saw her once Hop forty paces through the public street And, having lost her breath, she spoke and panted, That she did make defect perfection, And, breathless, pour breath forth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A ring he hath of mine worth forty ducats, And for the same he promis’d me a chain; Both one and other he denies me now."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This course I fittest choose, For forty ducats is too much to lose. [_Exit._] SCENE IV."*

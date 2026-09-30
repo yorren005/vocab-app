@@ -5,13 +5,6 @@ status: unread
 ---
 # seriocomical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mixing the serious with the comic with comic predominating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mixing the serious with the comic with comic predominating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seriocomical designates mixing the serious with the comic with comic predominating."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mixing the serious with the comic with comic predominating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mixing the serious with the comic with comic predominating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seriocomical designates mixing the serious with the comic with comic predominating."*

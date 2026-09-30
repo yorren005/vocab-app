@@ -5,15 +5,6 @@ status: unread
 ---
 # somnolent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to or marked by drowsiness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined to or marked by drowsiness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When they had passed the little town of Stourcastle, dumbly somnolent under its thick brown thatch, they reached higher ground."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Elsie was therefore able to follow the somnolent progress of the adventures of the late Nicholas, M.D., a gentleman whose travels had led him to the Island of Trinidad."*
-> - 📜 **James Joyce (*Ulysses*):** *"Onward to the dead sea they tramp to drink, unslaked and with horrible gulpings, the salt somnolent inexhaustible flood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to or marked by drowsiness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined to or marked by drowsiness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When they had passed the little town of Stourcastle, dumbly somnolent under its thick brown thatch, they reached higher ground."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Elsie was therefore able to follow the somnolent progress of the adventures of the late Nicholas, M.D., a gentleman whose travels had led him to the Island of Trinidad."*
+> - 📜 **James Joyce (*Ulysses*):** *"Onward to the dead sea they tramp to drink, unslaked and with horrible gulpings, the salt somnolent inexhaustible flood."*

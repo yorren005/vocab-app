@@ -5,13 +5,6 @@ status: unread
 ---
 # placeman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disparaging term for an appointee.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disparaging term for an appointee.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"For me, I am a placeman, you know; a very humble one indeed, Heaven knows, but still so much as to gag me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disparaging term for an appointee.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disparaging term for an appointee.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"For me, I am a placeman, you know; a very humble one indeed, Heaven knows, but still so much as to gag me."*

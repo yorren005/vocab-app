@@ -5,13 +5,6 @@ status: unread
 ---
 # ultimateness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or degree of being ultimate; the final or most extreme in degree or size or time or distance,.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or degree of being ultimate; the final or most extreme in degree or size or time or distance,.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultimateness designates the state or degree of being ultimate; the final or most extreme in degree or size or time or distance,."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or degree of being ultimate; the final or most extreme in degree or size or time or distance,.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or degree of being ultimate; the final or most extreme in degree or size or time or distance,.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultimateness designates the state or degree of being ultimate; the final or most extreme in degree or size or time or distance,."*

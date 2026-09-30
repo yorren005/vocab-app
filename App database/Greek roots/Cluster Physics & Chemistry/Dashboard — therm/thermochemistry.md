@@ -5,13 +5,6 @@ status: unread
 ---
 # thermochemistry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of chemistry that studies the relation between chemical action and the amount of heat absorbed or generated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of chemistry that studies the relation between chemical action and the amount of heat absorbed or generated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermochemistry designates the branch of chemistry that studies the relation between chemical action and the amount of heat absorbed or generated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of chemistry that studies the relation between chemical action and the amount of heat absorbed or generated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of chemistry that studies the relation between chemical action and the amount of heat absorbed or generated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermochemistry designates the branch of chemistry that studies the relation between chemical action and the amount of heat absorbed or generated."*

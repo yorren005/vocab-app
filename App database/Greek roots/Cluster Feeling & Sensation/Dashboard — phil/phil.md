@@ -5,15 +5,6 @@ status: unread
 ---
 # phil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Philippians.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loving : having an affinity for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Phil!” says the trooper in a quiet voice."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"All right!” cries Phil, scrambling to his feet."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Anything been doing?” “Flat as ever so much swipes,” says Phil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Philippians.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loving : having an affinity for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Phil!” says the trooper in a quiet voice."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"All right!” cries Phil, scrambling to his feet."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Anything been doing?” “Flat as ever so much swipes,” says Phil."*

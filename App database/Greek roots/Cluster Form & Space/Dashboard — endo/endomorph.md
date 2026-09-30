@@ -5,13 +5,6 @@ status: unread
 ---
 # endomorph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An endomorphic individual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An endomorphic individual.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endomorph designates an endomorphic individual."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An endomorphic individual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An endomorphic individual.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endomorph designates an endomorphic individual."*

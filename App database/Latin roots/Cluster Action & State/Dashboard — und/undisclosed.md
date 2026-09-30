@@ -5,13 +5,6 @@ status: unread
 ---
 # undisclosed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not made known.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not made known.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"But there stood one in the midst of you, at whose brand of sin and infamy ye have not shuddered!” It seemed, at this point, as if the minister must leave the remainder of his secret undisclosed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not made known.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not made known.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"But there stood one in the midst of you, at whose brand of sin and infamy ye have not shuddered!” It seemed, at this point, as if the minister must leave the remainder of his secret undisclosed."*

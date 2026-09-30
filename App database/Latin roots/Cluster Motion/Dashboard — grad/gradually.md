@@ -5,15 +5,6 @@ status: unread
 ---
 # gradually
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a gradual manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a gradual manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Gradually the whole knot moved into the house and towards the uncle's armchair."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Take a little bit at first and gradually more and more."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As the prospect gradually revealed itself and disclosed the scene over which the wind had wandered in the dark, like my memory over my life, I had a pleasure in discovering the unknown objects that had been around me in my sleep."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a gradual manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a gradual manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Gradually the whole knot moved into the house and towards the uncle's armchair."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Take a little bit at first and gradually more and more."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"As the prospect gradually revealed itself and disclosed the scene over which the wind had wandered in the dark, like my memory over my life, I had a pleasure in discovering the unknown objects that had been around me in my sleep."*

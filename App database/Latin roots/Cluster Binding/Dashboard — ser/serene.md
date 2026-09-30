@@ -5,15 +5,6 @@ status: unread
 ---
 # serene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not agitated; without losing self-possession.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely clear and fine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby merely added, with the serene composure with which she said everything, “Go along, you naughty Peepy!” and fixed her fine eyes on Africa again."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But so from rough outsides (I hope I have learnt), serene and gentle influences often proceed."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Is it lovely, and gentle, and beautiful, and pleasant, and serene, and joyful?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not agitated; without losing self-possession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely clear and fine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby merely added, with the serene composure with which she said everything, “Go along, you naughty Peepy!” and fixed her fine eyes on Africa again."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But so from rough outsides (I hope I have learnt), serene and gentle influences often proceed."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Is it lovely, and gentle, and beautiful, and pleasant, and serene, and joyful?"*

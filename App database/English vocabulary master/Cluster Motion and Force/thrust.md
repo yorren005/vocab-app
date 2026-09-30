@@ -5,20 +5,6 @@ status: unread
 ---
 # thrust
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Extend, spread
-> 2. **Nuance / Usage**: Push or drive with force : shove
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to thrust the target*) and intransitive clauses (*thrusting against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"These four came all afront, and mainly thrust at me."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"dangerous action can peep out his head but I am thrust upon it."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"For God’s sake, thrust him downstairs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Extend, spread
+> 2. **Nuance / Usage**: Push or drive with force : shove
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to thrust the target*) and intransitive clauses (*thrusting against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"These four came all afront, and mainly thrust at me."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"dangerous action can peep out his head but I am thrust upon it."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"For God’s sake, thrust him downstairs."*

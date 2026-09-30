@@ -5,15 +5,6 @@ status: unread
 ---
 # quadruple
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of four similar things considered as a unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantity that is four times as great as another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Leading a quadruple existence!"*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"A drunken coachman was the cause of the first, and incomparably the lightest evil; misfortune, bodily constitution, hell, and myself have formed a "quadruple alliance" to guarantee the other."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Seventeenth, the quadrupling of the number of local spiritual assemblies and the trebling of the number of localities in the aforementioned countries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of four similar things considered as a unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantity that is four times as great as another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Leading a quadruple existence!"*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"A drunken coachman was the cause of the first, and incomparably the lightest evil; misfortune, bodily constitution, hell, and myself have formed a "quadruple alliance" to guarantee the other."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Seventeenth, the quadrupling of the number of local spiritual assemblies and the trebling of the number of localities in the aforementioned countries."*

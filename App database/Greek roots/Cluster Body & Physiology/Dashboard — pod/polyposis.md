@@ -5,13 +5,6 @@ status: unread
 ---
 # polyposis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inherited disease of the large intestine marked by the formation especially in the colon and rectum of numerous glandular polyps which typically become malignant if left untreated —called also familial polyposis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inherited disease of the large intestine marked by the formation especially in the colon and rectum of numerous glandular polyps which typically become malignant if left untreated —called also familial polyposis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyposis designates an inherited disease of the large intestine marked by the formation especially in the colon and rectum of numerous glandular polyps which typically become malignant if left untreated —called also familial polyposis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inherited disease of the large intestine marked by the formation especially in the colon and rectum of numerous glandular polyps which typically become malignant if left untreated —called also familial polyposis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inherited disease of the large intestine marked by the formation especially in the colon and rectum of numerous glandular polyps which typically become malignant if left untreated —called also familial polyposis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyposis designates an inherited disease of the large intestine marked by the formation especially in the colon and rectum of numerous glandular polyps which typically become malignant if left untreated —called also familial polyposis."*

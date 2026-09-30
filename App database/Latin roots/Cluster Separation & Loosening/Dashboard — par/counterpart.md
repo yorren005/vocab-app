@@ -5,15 +5,6 @@ status: unread
 ---
 # counterpart
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing having the same function or characteristics as another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A duplicate copy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him but copy what in you is writ, Not making worse what nature made so clear, And such a counterpart shall fame his wit, Making his style admired every where."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Each was a counterpart of the other and contained these words in a solid, plain hand."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It has its counterpart in the legend which the Kirghiz of Siberia tell of their ancestry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing having the same function or characteristics as another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A duplicate copy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him but copy what in you is writ, Not making worse what nature made so clear, And such a counterpart shall fame his wit, Making his style admired every where."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Each was a counterpart of the other and contained these words in a solid, plain hand."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It has its counterpart in the legend which the Kirghiz of Siberia tell of their ancestry."*

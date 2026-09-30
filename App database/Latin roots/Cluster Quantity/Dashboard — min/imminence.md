@@ -5,14 +5,6 @@ status: unread
 ---
 # imminence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being imminent and liable to happen soon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being imminent and liable to happen soon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not speak of flight, of fear of death, But dare all imminence that gods and men Address their dangers in."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"But the very imminence of the emergency paralyzed his invention."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being imminent and liable to happen soon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being imminent and liable to happen soon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not speak of flight, of fear of death, But dare all imminence that gods and men Address their dangers in."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"But the very imminence of the emergency paralyzed his invention."*

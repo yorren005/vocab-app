@@ -5,15 +5,6 @@ status: unread
 ---
 # timed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measure the time or duration of an event or action or the person who performs an action in a certain period of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign a time for an activity or event.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His sword, Death’s stamp, Where it did mark, it took; from face to foot He was a thing of blood, whose every motion Was timed with dying cries."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If you have really meant to give me a proof of your good opinion, though ill-timed and misplaced, I feel that I ought to thank you."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, little housewife,” said my guardian, looking at his watch, “I was strictly timed before I came upstairs, for you must not be tired too soon; and my time has waned away to the last minute."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Measure the time or duration of an event or action or the person who performs an action in a certain period of time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign a time for an activity or event.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His sword, Death’s stamp, Where it did mark, it took; from face to foot He was a thing of blood, whose every motion Was timed with dying cries."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"If you have really meant to give me a proof of your good opinion, though ill-timed and misplaced, I feel that I ought to thank you."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, little housewife,” said my guardian, looking at his watch, “I was strictly timed before I came upstairs, for you must not be tired too soon; and my time has waned away to the last minute."*

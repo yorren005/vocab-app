@@ -5,13 +5,6 @@ status: unread
 ---
 # semitrailer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trailer having wheels only in the rear; the front is supported by the towing vehicle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trailer having wheels only in the rear; the front is supported by the towing vehicle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semitrailer designates a trailer having wheels only in the rear; the front is supported by the towing vehicle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A trailer having wheels only in the rear; the front is supported by the towing vehicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trailer having wheels only in the rear; the front is supported by the towing vehicle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semitrailer designates a trailer having wheels only in the rear; the front is supported by the towing vehicle."*

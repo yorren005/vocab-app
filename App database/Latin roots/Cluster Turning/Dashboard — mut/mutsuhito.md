@@ -5,13 +5,6 @@ status: unread
 ---
 # mutsuhito
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Emperor of japan who encouraged the modernization of japan (1852-1912).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emperor of japan who encouraged the modernization of japan (1852-1912).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutsuhito designates emperor of japan who encouraged the modernization of japan (1852-1912)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Emperor of japan who encouraged the modernization of japan (1852-1912).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emperor of japan who encouraged the modernization of japan (1852-1912).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutsuhito designates emperor of japan who encouraged the modernization of japan (1852-1912)."*

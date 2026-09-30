@@ -5,15 +5,6 @@ status: unread
 ---
 # starry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abounding with or resembling stars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abounding with or resembling stars.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hie therefore, Robin, overcast the night; The starry welkin cover thou anon With drooping fog, as black as Acheron, And lead these testy rivals so astray As one come not within another’s way."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Dare I hint at that worse time when, strung together somewhere in great black space, there was a flaming necklace, or ring, or starry circle of some kind, of which I was one of the beads!"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Long I pursued my starry quest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abounding with or resembling stars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abounding with or resembling stars.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hie therefore, Robin, overcast the night; The starry welkin cover thou anon With drooping fog, as black as Acheron, And lead these testy rivals so astray As one come not within another’s way."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Dare I hint at that worse time when, strung together somewhere in great black space, there was a flaming necklace, or ring, or starry circle of some kind, of which I was one of the beads!"*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Long I pursued my starry quest."*

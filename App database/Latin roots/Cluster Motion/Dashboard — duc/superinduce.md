@@ -5,15 +5,6 @@ status: unread
 ---
 # superinduce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin duc within the domain of Motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of duc in systematic terminology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Submission to error superinduces loss of power."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So omnipotent is art; which in many a district of New Bedford has superinduced bright terraces of flowers upon the barren refuse rocks thrown aside at creation’s final day."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It has enervated their strength, multiplied their diseases, and superinduced upon their original barbarity the low vices of artificial life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin duc within the domain of Motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of duc in systematic terminology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Submission to error superinduces loss of power."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So omnipotent is art; which in many a district of New Bedford has superinduced bright terraces of flowers upon the barren refuse rocks thrown aside at creation’s final day."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It has enervated their strength, multiplied their diseases, and superinduced upon their original barbarity the low vices of artificial life."*

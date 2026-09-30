@@ -5,14 +5,6 @@ status: unread
 ---
 # reliquary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A container where religious relics are stored or displayed (especially relics of saints).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A container where religious relics are stored or displayed (especially relics of saints).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"A reliquary, or shrine, of cupola-shape to contain remains after cremation, especially of the Buddha. _Subhūti_."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"A golden chain, to which was attached a small reliquary of the same metal, hung round her neck."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A container where religious relics are stored or displayed (especially relics of saints).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A container where religious relics are stored or displayed (especially relics of saints).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"A reliquary, or shrine, of cupola-shape to contain remains after cremation, especially of the Buddha. _Subhūti_."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"A golden chain, to which was attached a small reliquary of the same metal, hung round her neck."*

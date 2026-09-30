@@ -5,13 +5,6 @@ status: unread
 ---
 # decussation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An intersection or crossing of two tracts in the form of the letter x.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intersection or crossing of two tracts in the form of the letter x.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decussation designates an intersection or crossing of two tracts in the form of the letter x."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intersection or crossing of two tracts in the form of the letter x.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intersection or crossing of two tracts in the form of the letter x.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decussation designates an intersection or crossing of two tracts in the form of the letter x."*

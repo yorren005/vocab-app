@@ -5,15 +5,6 @@ status: unread
 ---
 # municipal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating or belonging to or characteristic of a municipality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the government of a municipality; - j.l.kuntz.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Thus municipal, and what are called communal, savings banks are operated by many European cities; but the most effective and widely used agencies for the purpose are the national post-offices."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They have been favored by exempting the shares of members and the mortgages held by the associations from all state and municipal taxation."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They are invested in many ways, in real estate, in loans secured by mortgages on real estate, in bonds--municipal, railroad, and industrial."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating or belonging to or characteristic of a municipality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the government of a municipality; - j.l.kuntz.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Thus municipal, and what are called communal, savings banks are operated by many European cities; but the most effective and widely used agencies for the purpose are the national post-offices."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They have been favored by exempting the shares of members and the mortgages held by the associations from all state and municipal taxation."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They are invested in many ways, in real estate, in loans secured by mortgages on real estate, in bonds--municipal, railroad, and industrial."*

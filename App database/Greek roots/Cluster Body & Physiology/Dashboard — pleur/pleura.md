@@ -5,13 +5,6 @@ status: unread
 ---
 # pleura
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The delicate serous membrane that lines each half of the thorax of mammals and is folded back over the surface of the lung of the same side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The delicate serous membrane that lines each half of the thorax of mammals and is folded back over the surface of the lung of the same side.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleura designates the delicate serous membrane that lines each half of the thorax of mammals and is folded back over the surface of the lung of the same side."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The delicate serous membrane that lines each half of the thorax of mammals and is folded back over the surface of the lung of the same side.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The delicate serous membrane that lines each half of the thorax of mammals and is folded back over the surface of the lung of the same side.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleura designates the delicate serous membrane that lines each half of the thorax of mammals and is folded back over the surface of the lung of the same side."*

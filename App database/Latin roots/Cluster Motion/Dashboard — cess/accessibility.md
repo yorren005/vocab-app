@@ -5,14 +5,6 @@ status: unread
 ---
 # accessibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being at hand when needed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attribute of being easy to meet or deal with.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Such a change works the same results as would a magical increase in the fertility of the soil, an improvement in the richness and accessibility of natural mineral stores, or in the quantity and quality of artificial appliances."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Young, as she promised me at Dalswinton that she would do me the honour to introduce me at Tinwald; and it was impossible, not from your Ladyship's accessibility, but from my own feelings, that I could go alone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being at hand when needed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attribute of being easy to meet or deal with.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Such a change works the same results as would a magical increase in the fertility of the soil, an improvement in the richness and accessibility of natural mineral stores, or in the quantity and quality of artificial appliances."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Young, as she promised me at Dalswinton that she would do me the honour to introduce me at Tinwald; and it was impossible, not from your Ladyship's accessibility, but from my own feelings, that I could go alone."*

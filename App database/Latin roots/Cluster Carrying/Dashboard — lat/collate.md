@@ -5,15 +5,6 @@ status: unread
 ---
 # collate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compare critically; of texts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To assemble in proper sequence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But by the time youth slips a stage or two While reading prose in that tough book he wrote, {30} (Collating and emendating the same And settling on the sense most to our mind) We shut the clasps and find life’s summer past."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Harker has gone back, and is again collating his material."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"I have not had an opportunity of examining it, but an American correspondent, who kindly collated my proof-sheets with the copy in the Boston Public Library, has sent me his notes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compare critically; of texts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To assemble in proper sequence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But by the time youth slips a stage or two While reading prose in that tough book he wrote, {30} (Collating and emendating the same And settling on the sense most to our mind) We shut the clasps and find life’s summer past."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Harker has gone back, and is again collating his material."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"I have not had an opportunity of examining it, but an American correspondent, who kindly collated my proof-sheets with the copy in the Boston Public Library, has sent me his notes."*

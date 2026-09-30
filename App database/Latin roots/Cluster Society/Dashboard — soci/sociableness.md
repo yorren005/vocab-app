@@ -5,13 +5,6 @@ status: unread
 ---
 # sociableness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relative tendency or disposition to be sociable or associate with one's fellows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relative tendency or disposition to be sociable or associate with one's fellows.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sociableness designates the relative tendency or disposition to be sociable or associate with one's fellows."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The relative tendency or disposition to be sociable or associate with one's fellows.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relative tendency or disposition to be sociable or associate with one's fellows.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sociableness designates the relative tendency or disposition to be sociable or associate with one's fellows."*

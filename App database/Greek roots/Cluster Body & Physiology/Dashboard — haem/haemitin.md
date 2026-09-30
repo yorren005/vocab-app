@@ -5,13 +5,6 @@ status: unread
 ---
 # haemitin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex red organic pigment containing iron and other atoms to which oxygen binds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex red organic pigment containing iron and other atoms to which oxygen binds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemitin designates a complex red organic pigment containing iron and other atoms to which oxygen binds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex red organic pigment containing iron and other atoms to which oxygen binds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex red organic pigment containing iron and other atoms to which oxygen binds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemitin designates a complex red organic pigment containing iron and other atoms to which oxygen binds."*

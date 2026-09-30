@@ -5,15 +5,6 @@ status: unread
 ---
 # seriously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a serious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a severe or serious degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, by my faith and honour, If seriously I may convey my thoughts In this my light deliverance, I have spoke With one that in her sex, her years, profession, Wisdom, and constancy, hath amaz’d me more Than I dare blame my weakness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, do you think he will make no deed at all of this, that so seriously he does address himself unto?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This to hear Would Desdemona seriously incline."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a serious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a severe or serious degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, by my faith and honour, If seriously I may convey my thoughts In this my light deliverance, I have spoke With one that in her sex, her years, profession, Wisdom, and constancy, hath amaz’d me more Than I dare blame my weakness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, do you think he will make no deed at all of this, that so seriously he does address himself unto?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This to hear Would Desdemona seriously incline."*

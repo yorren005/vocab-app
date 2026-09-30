@@ -5,15 +5,6 @@ status: unread
 ---
 # integral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The result of a mathematical integration; f(x) is the integral of f(x) if df/dx = f(x).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing as an essential constituent or characteristic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her flexuous and stealthy figure became an integral part of the scene."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"He was a stript abstract; an unfractioned integral; uncompromised as a new-born babe; living without premeditated reference to this world or the next."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Scientific exactness of thinking had not become an integral part of education."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The result of a mathematical integration; f(x) is the integral of f(x) if df/dx = f(x).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing as an essential constituent or characteristic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her flexuous and stealthy figure became an integral part of the scene."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"He was a stript abstract; an unfractioned integral; uncompromised as a new-born babe; living without premeditated reference to this world or the next."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Scientific exactness of thinking had not become an integral part of education."*

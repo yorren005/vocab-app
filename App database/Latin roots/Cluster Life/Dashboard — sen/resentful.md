@@ -5,15 +5,6 @@ status: unread
 ---
 # resentful
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of or marked by resentment or indignant ill will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of or marked by resentment or indignant ill will.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A close observer might perhaps detect both in her eye and her brother’s, when their venerable grandsire anticipates his being gone, some little impatience to know when he may be going, and some resentful opinion that it is time he went."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Unjust I may have been, weak and resentful I have been, but never inconstant."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"She could almost be angry herself at such angry incivility; but she checked the resentful sensation; she remembered her own ignorance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of or marked by resentment or indignant ill will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of or marked by resentment or indignant ill will.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"A close observer might perhaps detect both in her eye and her brother’s, when their venerable grandsire anticipates his being gone, some little impatience to know when he may be going, and some resentful opinion that it is time he went."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Unjust I may have been, weak and resentful I have been, but never inconstant."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"She could almost be angry herself at such angry incivility; but she checked the resentful sensation; she remembered her own ignorance."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # marten
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Agile slender-bodied arboreal mustelids somewhat larger than weasels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agile slender-bodied arboreal mustelids somewhat larger than weasels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"And I knew, quite near, of a cavern, which was known only to me, for it had a very small entrance, and I had only discovered it because I had followed a stone marten which had slipped into it."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"This naturally causes the fall-stick of his trap to drop down on the neck of the marten."*
-> - 📜 **Classic Author (*The Song of Roland*):** *"Tierri, the King takes in his arms to kiss; And wipes his face with his great marten-skins; He lays them down, and others then they bring; The chevaliers most sweetly disarm him; An Arab mule they've brought, whereon he sits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Agile slender-bodied arboreal mustelids somewhat larger than weasels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agile slender-bodied arboreal mustelids somewhat larger than weasels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"And I knew, quite near, of a cavern, which was known only to me, for it had a very small entrance, and I had only discovered it because I had followed a stone marten which had slipped into it."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"This naturally causes the fall-stick of his trap to drop down on the neck of the marten."*
+> - 📜 **Classic Author (*The Song of Roland*):** *"Tierri, the King takes in his arms to kiss; And wipes his face with his great marten-skins; He lays them down, and others then they bring; The chevaliers most sweetly disarm him; An Arab mule they've brought, whereon he sits."*

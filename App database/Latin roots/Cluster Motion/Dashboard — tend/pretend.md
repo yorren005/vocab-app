@@ -5,15 +5,6 @@ status: unread
 ---
 # pretend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The enactment of a pretense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make believe with the intent to deceive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For The contract you pretend with that base wretch, One bred of alms and foster’d with cold dishes, With scraps o’ th’ court, it is no contract, none."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or doth this churlish superscription Pretend some alteration in good will?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why shall we fight if you pretend no title?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The enactment of a pretense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make believe with the intent to deceive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For The contract you pretend with that base wretch, One bred of alms and foster’d with cold dishes, With scraps o’ th’ court, it is no contract, none."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or doth this churlish superscription Pretend some alteration in good will?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why shall we fight if you pretend no title?"*

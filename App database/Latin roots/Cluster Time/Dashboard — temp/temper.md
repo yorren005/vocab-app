@@ -5,15 +5,6 @@ status: unread
 ---
 # temper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden outburst of anger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A characteristic (habitual or relatively temporary) state of feeling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His captain’s heart, Which in the scuffles of great fights hath burst The buckles on his breast, reneges all temper And is become the bellows and the fan To cool a gipsy’s lust."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You keep a constant temper. [_They exit._] [_The Guard and Menenius remain._] FIRST WATCH."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But not every man patient after the noble temper of your lordship."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden outburst of anger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A characteristic (habitual or relatively temporary) state of feeling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His captain’s heart, Which in the scuffles of great fights hath burst The buckles on his breast, reneges all temper And is become the bellows and the fan To cool a gipsy’s lust."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You keep a constant temper. [_They exit._] [_The Guard and Menenius remain._] FIRST WATCH."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But not every man patient after the noble temper of your lordship."*

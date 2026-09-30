@@ -5,15 +5,6 @@ status: unread
 ---
 # purl
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gold or silver wire thread.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A basic knitting stitch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the trees came the sound of steady dripping upon the drifted leaves under them, and from the direction of the church she could hear another noise—peculiar, and not intermittent like the rest, the purl of water falling into a pool."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the trees came the sound of steady dripping upon the drifted leaves under them, and from the direction of the church she could hear another noise—peculiar, and not intermittent like the rest, the purl of water falling into a pool."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Just below they could hear the purl of a brook, and the trees about them were bare with the dark bareness of spring, a few fugitive buds being the only announcement that the season of growing was at hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gold or silver wire thread.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A basic knitting stitch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the trees came the sound of steady dripping upon the drifted leaves under them, and from the direction of the church she could hear another noise—peculiar, and not intermittent like the rest, the purl of water falling into a pool."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the trees came the sound of steady dripping upon the drifted leaves under them, and from the direction of the church she could hear another noise—peculiar, and not intermittent like the rest, the purl of water falling into a pool."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Just below they could hear the purl of a brook, and the trees about them were bare with the dark bareness of spring, a few fugitive buds being the only announcement that the season of growing was at hand."*

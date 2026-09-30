@@ -5,15 +5,6 @@ status: unread
 ---
 # refine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Improve or perfect by pruning or polishing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more complex, intricate, or richer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 43, on the decline of barter.] [Footnote 4: "I will ... refine them as silver is refined, and will try them as gold is tried." Zech. xiii, 9."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The senses could refine, and the intellect could degrade."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We need to refine our tactics, based on our experience with the log depot and that armed transport, and in anticipation of an early organized response by the UIPS." Brad appeared uncertain whether to remain or move on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Improve or perfect by pruning or polishing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more complex, intricate, or richer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 43, on the decline of barter.] [Footnote 4: "I will ... refine them as silver is refined, and will try them as gold is tried." Zech. xiii, 9."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The senses could refine, and the intellect could degrade."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We need to refine our tactics, based on our experience with the log depot and that armed transport, and in anticipation of an early organized response by the UIPS." Brad appeared uncertain whether to remain or move on."*

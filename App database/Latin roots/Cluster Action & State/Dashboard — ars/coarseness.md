@@ -5,15 +5,6 @@ status: unread
 ---
 # coarseness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Language or humor that is down-to-earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being composed of relatively large particles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Her manners were open, easy, and decided, like one who had no distrust of herself, and no doubts of what to do; without any approach to coarseness, however, or any want of good humour."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was weakly dismayed at the ignorance, the poverty, the coarseness of all I heard and saw round me."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode, the banker, seemed to be addressed, but that gentleman disliked coarseness and profanity, and merely bowed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Language or humor that is down-to-earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being composed of relatively large particles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Her manners were open, easy, and decided, like one who had no distrust of herself, and no doubts of what to do; without any approach to coarseness, however, or any want of good humour."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was weakly dismayed at the ignorance, the poverty, the coarseness of all I heard and saw round me."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode, the banker, seemed to be addressed, but that gentleman disliked coarseness and profanity, and merely bowed."*

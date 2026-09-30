@@ -5,13 +5,6 @@ status: unread
 ---
 # mollymawk
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large web-footed birds of the southern hemisphere having long narrow wings; noted for powerful gliding flight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large web-footed birds of the southern hemisphere having long narrow wings; noted for powerful gliding flight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mollymawk designates large web-footed birds of the southern hemisphere having long narrow wings; noted for powerful gliding flight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large web-footed birds of the southern hemisphere having long narrow wings; noted for powerful gliding flight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large web-footed birds of the southern hemisphere having long narrow wings; noted for powerful gliding flight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mollymawk designates large web-footed birds of the southern hemisphere having long narrow wings; noted for powerful gliding flight."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # crucible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vessel made of material that does not melt easily; used for high temperature chemical reactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vessel made of material that does not melt easily; used for high temperature chemical reactions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I’ll get a crucible, and into it, and dissolve myself down to one small, compendious vertebra."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The sea was as a crucible of molten gold, that bubblingly leaps with light and heat."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It was a bitter blow, doctor, but nil desperandum was my motto, so I went to work at my crucible again, with redoubled energy, and made an ingot nearly every second day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vessel made of material that does not melt easily; used for high temperature chemical reactions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vessel made of material that does not melt easily; used for high temperature chemical reactions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I’ll get a crucible, and into it, and dissolve myself down to one small, compendious vertebra."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The sea was as a crucible of molten gold, that bubblingly leaps with light and heat."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It was a bitter blow, doctor, but nil desperandum was my motto, so I went to work at my crucible again, with redoubled energy, and made an ingot nearly every second day."*

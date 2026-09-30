@@ -5,13 +5,6 @@ status: unread
 ---
 # benet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states poet; brother of william rose benet (1898-1943).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states writer; brother of stephen vincent benet (1886-1950).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, benet designates united states poet; brother of william rose benet (1898-1943)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states poet; brother of william rose benet (1898-1943).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states writer; brother of stephen vincent benet (1886-1950).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, benet designates united states poet; brother of william rose benet (1898-1943)."*

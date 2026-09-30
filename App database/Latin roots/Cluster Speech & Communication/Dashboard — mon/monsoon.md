@@ -5,15 +5,6 @@ status: unread
 ---
 # monsoon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A seasonal wind in southern asia; blows from the southwest (bringing rain) in summer and from the northeast in winter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rainy season in southern asia when the southwestern monsoon blows, bringing heavy rains.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"They were obliged to remain prisoners here until the change of the monsoon to the north-west, as without a favourable wind in their then disabled state, it would have been impossible for them to have reached a port."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The prevailing wind, which blows from the south-east, lasts for eight months, from April to November inclusive, when the north-west monsoon sets in."*
-> - 📜 **James Joyce (*Ulysses*):** *"He had doubled the cape a few odd times and weathered a monsoon, a kind of wind, in the China seas and through all those perils of the deep there was one thing, he declared, stood to him or words to that effect, a pious medal he had that saved him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A seasonal wind in southern asia; blows from the southwest (bringing rain) in summer and from the northeast in winter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rainy season in southern asia when the southwestern monsoon blows, bringing heavy rains.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"They were obliged to remain prisoners here until the change of the monsoon to the north-west, as without a favourable wind in their then disabled state, it would have been impossible for them to have reached a port."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The prevailing wind, which blows from the south-east, lasts for eight months, from April to November inclusive, when the north-west monsoon sets in."*
+> - 📜 **James Joyce (*Ulysses*):** *"He had doubled the cape a few odd times and weathered a monsoon, a kind of wind, in the China seas and through all those perils of the deep there was one thing, he declared, stood to him or words to that effect, a pious medal he had that saved him."*

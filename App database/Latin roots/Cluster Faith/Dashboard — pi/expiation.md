@@ -5,15 +5,6 @@ status: unread
 ---
 # expiation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compensation for a wrong.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of atoning for sin or wrongdoing (especially appeasing a deity).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"It is on the supreme Deity of Christ--on the expiation made for sin by the Maker and Sovereign of worlds--that the whole fabric of evangelical truth rests."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"They see nothing so very terrible in sin, as to require such an expiation."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"She will be our expiation!” shouted one man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compensation for a wrong.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of atoning for sin or wrongdoing (especially appeasing a deity).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"It is on the supreme Deity of Christ--on the expiation made for sin by the Maker and Sovereign of worlds--that the whole fabric of evangelical truth rests."*
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"They see nothing so very terrible in sin, as to require such an expiation."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"She will be our expiation!” shouted one man."*

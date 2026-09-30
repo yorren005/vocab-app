@@ -5,15 +5,6 @@ status: unread
 ---
 # pone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cornbread often made without milk or eggs and baked or fried (southern).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cornbread often made without milk or eggs and baked or fried (southern).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Landis stirring up a blackberry pone, the three youngest Landis children watching the progress of it."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"They built a fire against the side of a great log twenty or thirty steps within the sombre depths of the forest, and then cooked some bacon in the frying-pan for supper, and used up half of the corn “pone” stock they had brought."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"When the last crisp slice of bacon was gone, and the last allowance of corn pone devoured, the boys stretched themselves out on the grass, filled with contentment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cornbread often made without milk or eggs and baked or fried (southern).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cornbread often made without milk or eggs and baked or fried (southern).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Landis stirring up a blackberry pone, the three youngest Landis children watching the progress of it."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"They built a fire against the side of a great log twenty or thirty steps within the sombre depths of the forest, and then cooked some bacon in the frying-pan for supper, and used up half of the corn “pone” stock they had brought."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"When the last crisp slice of bacon was gone, and the last allowance of corn pone devoured, the boys stretched themselves out on the grass, filled with contentment."*

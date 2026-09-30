@@ -5,13 +5,6 @@ status: unread
 ---
 # ceratopsidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American ceratopsian dinosaurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American ceratopsian dinosaurs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratopsidae designates american ceratopsian dinosaurs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: American ceratopsian dinosaurs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American ceratopsian dinosaurs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratopsidae designates american ceratopsian dinosaurs."*

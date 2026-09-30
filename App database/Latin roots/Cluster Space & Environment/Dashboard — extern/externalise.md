@@ -5,13 +5,6 @@ status: unread
 ---
 # externalise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regard as objective.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make external or objective, or give reality to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, externalise designates regard as objective."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regard as objective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make external or objective, or give reality to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, externalise designates regard as objective."*

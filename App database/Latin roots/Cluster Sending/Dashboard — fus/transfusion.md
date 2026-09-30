@@ -5,15 +5,6 @@ status: unread
 ---
 # transfusion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The introduction of blood or blood plasma into a vein or artery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of pouring a liquid from one vessel to another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"There must be transfusion of blood at once."*
-> - 📜 **Bram Stoker (*Dracula*):** *"My friend John and I have consulted; and we are about to perform what we call transfusion of blood--to transfer from full veins of one to the empty veins which pine for him."*
-> - 📜 **Bram Stoker (*Dracula*):** *"As the transfusion went on something like life seemed to come back to poor Lucy’s cheeks, and through Arthur’s growing pallor the joy of his face seemed absolutely to shine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The introduction of blood or blood plasma into a vein or artery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of pouring a liquid from one vessel to another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"There must be transfusion of blood at once."*
+> - 📜 **Bram Stoker (*Dracula*):** *"My friend John and I have consulted; and we are about to perform what we call transfusion of blood--to transfer from full veins of one to the empty veins which pine for him."*
+> - 📜 **Bram Stoker (*Dracula*):** *"As the transfusion went on something like life seemed to come back to poor Lucy’s cheeks, and through Arthur’s growing pallor the joy of his face seemed absolutely to shine."*

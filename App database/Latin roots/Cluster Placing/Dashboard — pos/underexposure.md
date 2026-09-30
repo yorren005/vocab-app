@@ -5,13 +5,6 @@ status: unread
 ---
 # underexposure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of exposing film to too little light or for too short a time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inadequate publicity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underexposure designates the act of exposing film to too little light or for too short a time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of exposing film to too little light or for too short a time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inadequate publicity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underexposure designates the act of exposing film to too little light or for too short a time."*

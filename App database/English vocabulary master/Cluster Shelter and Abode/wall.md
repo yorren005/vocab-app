@@ -5,20 +5,6 @@ status: unread
 ---
 # wall
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Masonry fence around a garden, park, or estate
-> 2. **Nuance / Usage**: Structure built for defense surrounding a city, castle etc
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Should patch a wall t’expel the winter’s flaw."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Enter Pyramus and Thisbe, Wall, Moonshine and Lion as in dumb show."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Pyramus draws near the wall; silence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A continuous vertical structure of stone, brick, wood, or plaster that encloses, divides, or supports a building, room, or estate.
+> 2. **Nuance / Usage**: A massive defensive rampart surrounding a city or fortress, or figuratively an impenetrable psychological or institutional barrier (*a wall of silence*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Hamlet*):** *"Imperious Caesar, dead and turn’d to clay, might stop a hole to keep the wind away: O, that that earth which kept the world in awe should patch a **wall** t’expel the winter’s flaw!"*
+> - 📜 **Robert Frost (*Mending Wall*):** *"Something there is that doesn't love a **wall**, that sends the frozen-ground-swell under it."*
+> - 📜 **Herman Melville (*Bartleby, the Scrivener*):** *"He stood looking out, at his pale mechanical window, upon the dead brick **wall**."*

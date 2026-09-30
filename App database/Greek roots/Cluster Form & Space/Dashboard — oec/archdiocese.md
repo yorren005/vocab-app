@@ -5,13 +5,6 @@ status: unread
 ---
 # archdiocese
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The diocese of an archbishop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The diocese of an archbishop.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"We’re in the archdiocese here. —And settle down on their striped petticoats, peering up at the statue of the onehandled adulterer. —Onehandled adulterer! the professor cried."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The diocese of an archbishop.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The diocese of an archbishop.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"We’re in the archdiocese here. —And settle down on their striped petticoats, peering up at the statue of the onehandled adulterer. —Onehandled adulterer! the professor cried."*

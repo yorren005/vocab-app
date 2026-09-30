@@ -5,13 +5,6 @@ status: unread
 ---
 # proximal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated nearest to point of attachment or origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated nearest to point of attachment or origin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proximal designates situated nearest to point of attachment or origin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated nearest to point of attachment or origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated nearest to point of attachment or origin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proximal designates situated nearest to point of attachment or origin."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # colonial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A resident of a colony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of or inhabiting a colony.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But something had to be done; he had wasted many valuable years; and having an acquaintance who was starting on a thriving life as a Colonial farmer, it occurred to Angel that this might be a lead in the right direction."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"If I have a very large farm, either English or colonial, you will be invaluable as a wife to me; better than a woman out of the largest mansion in the country."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The year of the American Declaration of Independence gave the most striking object lesson on the evils of a selfish colonial policy that interfered on a grand scale with economic freedom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A resident of a colony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of or inhabiting a colony.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But something had to be done; he had wasted many valuable years; and having an acquaintance who was starting on a thriving life as a Colonial farmer, it occurred to Angel that this might be a lead in the right direction."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"If I have a very large farm, either English or colonial, you will be invaluable as a wife to me; better than a woman out of the largest mansion in the country."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The year of the American Declaration of Independence gave the most striking object lesson on the evils of a selfish colonial policy that interfered on a grand scale with economic freedom."*

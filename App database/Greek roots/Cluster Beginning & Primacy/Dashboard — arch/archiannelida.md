@@ -5,13 +5,6 @@ status: unread
 ---
 # archiannelida
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of annelida.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A class of annelida.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archiannelida designates a class of annelida."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of annelida.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A class of annelida.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archiannelida designates a class of annelida."*

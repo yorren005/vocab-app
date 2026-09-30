@@ -5,20 +5,6 @@ status: unread
 ---
 # eavesdrop
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Listen secretly to what is said in private
-> 2. **Nuance / Usage**: (zoology) to listen for another organism's calls, so as to exploit them
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to eavesdrop the target*) and intransitive clauses (*eavesdroping against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Under our tents I’ll play the eavesdropper, to see if any mean to shrink from me."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"I was not aware there were eavesdroppers, muttered the detected villain."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"Here Tink, who was in her bedroom, eavesdropping, squeaked out something impudent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Listen secretly to what is said in private
+> 2. **Nuance / Usage**: (zoology) to listen for another organism's calls, so as to exploit them
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to eavesdrop the target*) and intransitive clauses (*eavesdroping against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Under our tents I’ll play the eavesdropper, to see if any mean to shrink from me."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"I was not aware there were eavesdroppers, muttered the detected villain."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"Here Tink, who was in her bedroom, eavesdropping, squeaked out something impudent."*

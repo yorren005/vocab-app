@@ -5,15 +5,6 @@ status: unread
 ---
 # transversely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a transverse manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a transverse manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke wound up, rubbing his thumb transversely along the edges of the leaves as he held the book forward."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Exploring, I found another short gallery running transversely to the first."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The two cells are separated by a partition or dissepiment, which divides the original cell transversely into an upper and lower cell, with an external constriction in the plane of the dissepiment (Plate IV. fig. 59)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a transverse manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a transverse manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke wound up, rubbing his thumb transversely along the edges of the leaves as he held the book forward."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Exploring, I found another short gallery running transversely to the first."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The two cells are separated by a partition or dissepiment, which divides the original cell transversely into an upper and lower cell, with an external constriction in the plane of the dissepiment (Plate IV. fig. 59)."*

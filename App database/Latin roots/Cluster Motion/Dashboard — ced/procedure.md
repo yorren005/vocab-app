@@ -5,15 +5,6 @@ status: unread
 ---
 # procedure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular course of action intended to achieve a result.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process or series of acts especially of a practical or mechanical nature involved in a particular form of work.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In which (I would say) every difficulty, every contingency, every masterly fiction, every form of procedure known in that court, is represented over and over again?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt,” becoming dignified almost to severity, “that on the numerous difficulties, contingencies, masterly fictions, and forms of procedure in this great cause, there has been expended study, ability, eloquence, knowledge, intellect, Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It is safer to accept any chance that offers itself, and extemporize a procedure to fit it, than to get a good plan matured, and wait for a chance of using it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular course of action intended to achieve a result.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process or series of acts especially of a practical or mechanical nature involved in a particular form of work.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"In which (I would say) every difficulty, every contingency, every masterly fiction, every form of procedure known in that court, is represented over and over again?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt,” becoming dignified almost to severity, “that on the numerous difficulties, contingencies, masterly fictions, and forms of procedure in this great cause, there has been expended study, ability, eloquence, knowledge, intellect, Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It is safer to accept any chance that offers itself, and extemporize a procedure to fit it, than to get a good plan matured, and wait for a chance of using it."*

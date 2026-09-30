@@ -5,15 +5,6 @@ status: unread
 ---
 # condolence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of sympathy with another's grief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expression of sympathy with another's grief.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"No letter of condolence had been sent to Ireland."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She wished me to look after the house, to see callers, and answer notes of condolence."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Assistance is impossible; condolence, insufferable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of sympathy with another's grief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expression of sympathy with another's grief.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"No letter of condolence had been sent to Ireland."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She wished me to look after the house, to see callers, and answer notes of condolence."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Assistance is impossible; condolence, insufferable."*

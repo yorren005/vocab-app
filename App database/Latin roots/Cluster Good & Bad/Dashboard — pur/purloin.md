@@ -5,15 +5,6 @@ status: unread
 ---
 # purloin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make off with belongings of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make off with belongings of others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The sage contrived to purloin the talisman while the khan and his guards slept; but not content with this he gave a further proof of his dexterity by bonneting the slumbering potentate with a bladder."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"He began, therefore, to purloin the wares of the company and dispose of them at various pawn shops."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"An alderman coming from a turtle feast will not step out of his carriage to steal a leg of mutton; but put him to starve, and see if he will not purloin a loaf."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make off with belongings of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make off with belongings of others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The sage contrived to purloin the talisman while the khan and his guards slept; but not content with this he gave a further proof of his dexterity by bonneting the slumbering potentate with a bladder."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"He began, therefore, to purloin the wares of the company and dispose of them at various pawn shops."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"An alderman coming from a turtle feast will not step out of his carriage to steal a leg of mutton; but put him to starve, and see if he will not purloin a loaf."*

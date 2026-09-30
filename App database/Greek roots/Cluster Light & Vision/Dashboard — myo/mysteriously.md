@@ -5,15 +5,6 @@ status: unread
 ---
 # mysteriously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a cryptic manner;  he said cryptically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a cryptic manner;  he said cryptically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Three of the girls, after mysteriously whispering together, were gone, too, and with them several more stole away, for there was a strange rustling in the bushes."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have discovered,” whispering mysteriously, “that her natural cruelty is sharpened by a jealous fear of their regaining their liberty."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And where’s the tinker?” “Drink put him in the hospital, guv’ner, and the hospital put him—in a glass-case, I HAVE heerd,” Phil replies mysteriously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a cryptic manner;  he said cryptically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a cryptic manner;  he said cryptically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Three of the girls, after mysteriously whispering together, were gone, too, and with them several more stole away, for there was a strange rustling in the bushes."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I have discovered,” whispering mysteriously, “that her natural cruelty is sharpened by a jealous fear of their regaining their liberty."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And where’s the tinker?” “Drink put him in the hospital, guv’ner, and the hospital put him—in a glass-case, I HAVE heerd,” Phil replies mysteriously."*

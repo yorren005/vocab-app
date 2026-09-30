@@ -5,15 +5,6 @@ status: unread
 ---
 # pommel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A handgrip that a gymnast uses when performing exercises on a pommel horse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Handgrip formed by the raised front part of a saddle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The pommel of Caesar’s falchion."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I will not say as schoolboys do to bullies,—Take some one of your own size; don’t pommel _me!_ No, ye’ve knocked me down, and I am up again; but _ye_ have run and hidden."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Some had the hands devoutly crossed upon the breast; others grasped the pommel of the sword, menacing hostility even in the tomb, while the crossed legs of several indicated soldiers of the Faith who had been on crusades to the Holy Land."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A handgrip that a gymnast uses when performing exercises on a pommel horse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Handgrip formed by the raised front part of a saddle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The pommel of Caesar’s falchion."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I will not say as schoolboys do to bullies,—Take some one of your own size; don’t pommel _me!_ No, ye’ve knocked me down, and I am up again; but _ye_ have run and hidden."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Some had the hands devoutly crossed upon the breast; others grasped the pommel of the sword, menacing hostility even in the tomb, while the crossed legs of several indicated soldiers of the Faith who had been on crusades to the Holy Land."*

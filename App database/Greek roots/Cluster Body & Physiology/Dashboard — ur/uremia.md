@@ -5,13 +5,6 @@ status: unread
 ---
 # uremia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accumulation in the blood of nitrogenous waste products (urea) that are usually excreted in the urine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accumulation in the blood of nitrogenous waste products (urea) that are usually excreted in the urine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uremia designates accumulation in the blood of nitrogenous waste products (urea) that are usually excreted in the urine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accumulation in the blood of nitrogenous waste products (urea) that are usually excreted in the urine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accumulation in the blood of nitrogenous waste products (urea) that are usually excreted in the urine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uremia designates accumulation in the blood of nitrogenous waste products (urea) that are usually excreted in the urine."*

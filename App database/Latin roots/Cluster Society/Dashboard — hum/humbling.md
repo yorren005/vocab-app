@@ -5,15 +5,6 @@ status: unread
 ---
 # humbling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be unpretentious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to feel shame; hurt the pride of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The gods themselves, Humbling their deities to love, have taken The shapes of beasts upon them."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Did you think nothing of Miss Ingram’s feelings, sir?” “Her feelings are concentrated in one—pride; and that needs humbling."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Thus were they plagu’d And worn with Famin, long and ceasless hiss, Till thir lost shape, permitted, they resum’d, Yearly enjoynd, some say, to undergo This annual humbling certain number’d days, To dash thir pride, and joy for Man seduc’t."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be unpretentious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to feel shame; hurt the pride of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The gods themselves, Humbling their deities to love, have taken The shapes of beasts upon them."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Did you think nothing of Miss Ingram’s feelings, sir?” “Her feelings are concentrated in one—pride; and that needs humbling."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Thus were they plagu’d And worn with Famin, long and ceasless hiss, Till thir lost shape, permitted, they resum’d, Yearly enjoynd, some say, to undergo This annual humbling certain number’d days, To dash thir pride, and joy for Man seduc’t."*

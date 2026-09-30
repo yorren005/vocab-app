@@ -5,15 +5,6 @@ status: unread
 ---
 # elegy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mournful poem; a lament for the dead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mournful poem; a lament for the dead.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Lapraik Epistle To William Simson One Night As I Did Wander Tho’ Cruel Fate Should Bid Us Part Song—Rantin’, Rovin’ Robin Elegy On The Death Of Robert Ruisseaux Epistle To John Goldie, In Kilmarnock The Holy Fair Third Epistle To J."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sutherland Lines To A Gentleman, Elegy On Willie Nicol’s Mare Song—The Gowden Locks Of Anna Song—I Murder Hate Song—Gudewife, Count The Lawin Election Ballad At the close of the contest for representing the Dumfries Burghs, 1790."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Poor Mailie’s Elegy Lament in rhyme, lament in prose, Wi’ saut tears trickling down your nose; Our bardie’s fate is at a close, Past a’ remead!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mournful poem; a lament for the dead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mournful poem; a lament for the dead.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Lapraik Epistle To William Simson One Night As I Did Wander Tho’ Cruel Fate Should Bid Us Part Song—Rantin’, Rovin’ Robin Elegy On The Death Of Robert Ruisseaux Epistle To John Goldie, In Kilmarnock The Holy Fair Third Epistle To J."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sutherland Lines To A Gentleman, Elegy On Willie Nicol’s Mare Song—The Gowden Locks Of Anna Song—I Murder Hate Song—Gudewife, Count The Lawin Election Ballad At the close of the contest for representing the Dumfries Burghs, 1790."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Poor Mailie’s Elegy Lament in rhyme, lament in prose, Wi’ saut tears trickling down your nose; Our bardie’s fate is at a close, Past a’ remead!"*

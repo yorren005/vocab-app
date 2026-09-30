@@ -5,13 +5,6 @@ status: unread
 ---
 # kilowatt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of work or energy equal to that expended by one kilowatt in one hour or to 3.6 million joules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of work or energy equal to that expended by one kilowatt in one hour or to 3.6 million joules.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Finally, to crown the whole story, a kilowatt for one hour is a Board of Trade unit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of work or energy equal to that expended by one kilowatt in one hour or to 3.6 million joules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of work or energy equal to that expended by one kilowatt in one hour or to 3.6 million joules.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Finally, to crown the whole story, a kilowatt for one hour is a Board of Trade unit."*

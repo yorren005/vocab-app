@@ -5,15 +5,6 @@ status: unread
 ---
 # mechanical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Using (or as if using) mechanisms or tools or devices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or concerned with machinery or tools.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy Doll, and Helen of thy noble thoughts, Is in base durance and contagious prison, Haled thither By most mechanical and dirty hand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Base dunghill villain and mechanical, I’ll have thy head for this thy traitor’s speech!— I do beseech your royal majesty, Let him have all the rigour of the law."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, know you not, Being mechanical, you ought not walk Upon a labouring day without the sign Of your profession?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Using (or as if using) mechanisms or tools or devices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or concerned with machinery or tools.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy Doll, and Helen of thy noble thoughts, Is in base durance and contagious prison, Haled thither By most mechanical and dirty hand."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Base dunghill villain and mechanical, I’ll have thy head for this thy traitor’s speech!— I do beseech your royal majesty, Let him have all the rigour of the law."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, know you not, Being mechanical, you ought not walk Upon a labouring day without the sign Of your profession?"*

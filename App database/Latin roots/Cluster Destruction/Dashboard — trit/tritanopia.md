@@ -5,13 +5,6 @@ status: unread
 ---
 # tritanopia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rare form of dichromacy characterized by a lowered sensitivity to blue light resulting in an inability to distinguish blue and yellow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rare form of dichromacy characterized by a lowered sensitivity to blue light resulting in an inability to distinguish blue and yellow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tritanopia designates rare form of dichromacy characterized by a lowered sensitivity to blue light resulting in an inability to distinguish blue and yellow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rare form of dichromacy characterized by a lowered sensitivity to blue light resulting in an inability to distinguish blue and yellow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rare form of dichromacy characterized by a lowered sensitivity to blue light resulting in an inability to distinguish blue and yellow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tritanopia designates rare form of dichromacy characterized by a lowered sensitivity to blue light resulting in an inability to distinguish blue and yellow."*

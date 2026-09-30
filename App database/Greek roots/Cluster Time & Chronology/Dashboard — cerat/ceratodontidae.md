@@ -5,13 +5,6 @@ status: unread
 ---
 # ceratodontidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lungfishes having hornlike ridges on the teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lungfishes having hornlike ridges on the teeth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratodontidae designates lungfishes having hornlike ridges on the teeth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lungfishes having hornlike ridges on the teeth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lungfishes having hornlike ridges on the teeth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratodontidae designates lungfishes having hornlike ridges on the teeth."*

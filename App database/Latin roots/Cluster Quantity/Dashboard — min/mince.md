@@ -5,15 +5,6 @@ status: unread
 ---
 # mince
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Food chopped into small bits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less severe or harsh.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Speak to me home; mince not the general tongue."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know no ways to mince it in love, but directly to say, “I love you”; then if you urge me farther than to say, “Do you in faith?” I wear out my suit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hold up your head, and mince. [_Exit Mistress Quickly._] Enter Ford."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Food chopped into small bits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less severe or harsh.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Speak to me home; mince not the general tongue."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know no ways to mince it in love, but directly to say, “I love you”; then if you urge me farther than to say, “Do you in faith?” I wear out my suit."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hold up your head, and mince. [_Exit Mistress Quickly._] Enter Ford."*

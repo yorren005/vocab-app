@@ -5,13 +5,6 @@ status: unread
 ---
 # mobilization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of assembling and putting into readiness for war or other emergency:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of marshaling and organizing and making ready for use or action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mobilization designates act of assembling and putting into readiness for war or other emergency:."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of assembling and putting into readiness for war or other emergency:.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of marshaling and organizing and making ready for use or action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mobilization designates act of assembling and putting into readiness for war or other emergency:."*

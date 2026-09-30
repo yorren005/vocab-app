@@ -5,13 +5,6 @@ status: unread
 ---
 # endolymph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The bodily fluid that fills the membranous labyrinth of the inner ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bodily fluid that fills the membranous labyrinth of the inner ear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endolymph designates the bodily fluid that fills the membranous labyrinth of the inner ear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The bodily fluid that fills the membranous labyrinth of the inner ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bodily fluid that fills the membranous labyrinth of the inner ear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endolymph designates the bodily fluid that fills the membranous labyrinth of the inner ear."*

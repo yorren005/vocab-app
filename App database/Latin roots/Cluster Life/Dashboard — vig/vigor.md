@@ -5,15 +5,6 @@ status: unread
 ---
 # vigor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Forceful exertion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Active strength of body or mind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The calls of "Uncle Philip, Uncle Philip!" sounded with more vigor than usual, because the children had not expected him back so soon, and therefore had to celebrate his coming with double energy."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Strange to say of a woman in full bloom and vigor, she always allowed her interlocutors to finish their statements before rejoining with hers."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Since then my pains have never returned; I have more than my youthful vigor; I walk with more ease and rapidity than I ever did in my life, and I never felt so fresh and young as I now do, at the age of fifty-two."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forceful exertion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Active strength of body or mind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The calls of "Uncle Philip, Uncle Philip!" sounded with more vigor than usual, because the children had not expected him back so soon, and therefore had to celebrate his coming with double energy."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Strange to say of a woman in full bloom and vigor, she always allowed her interlocutors to finish their statements before rejoining with hers."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Since then my pains have never returned; I have more than my youthful vigor; I walk with more ease and rapidity than I ever did in my life, and I never felt so fresh and young as I now do, at the age of fifty-two."*

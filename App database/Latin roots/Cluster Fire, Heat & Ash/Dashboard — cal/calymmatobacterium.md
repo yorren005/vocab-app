@@ -5,13 +5,6 @@ status: unread
 ---
 # calymmatobacterium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bacterial rods containing only the one species that causes granuloma inguinale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of bacterial rods containing only the one species that causes granuloma inguinale.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calymmatobacterium designates a genus of bacterial rods containing only the one species that causes granuloma inguinale."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bacterial rods containing only the one species that causes granuloma inguinale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of bacterial rods containing only the one species that causes granuloma inguinale.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calymmatobacterium designates a genus of bacterial rods containing only the one species that causes granuloma inguinale."*

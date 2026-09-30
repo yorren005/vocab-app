@@ -5,13 +5,6 @@ status: unread
 ---
 # antitrades
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wind in the upper atmosphere blowing above but in the opposite direction from the trade winds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Winds blowing from west to east and lying above the trade winds in the tropics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitrades designates wind in the upper atmosphere blowing above but in the opposite direction from the trade winds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wind in the upper atmosphere blowing above but in the opposite direction from the trade winds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Winds blowing from west to east and lying above the trade winds in the tropics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitrades designates wind in the upper atmosphere blowing above but in the opposite direction from the trade winds."*

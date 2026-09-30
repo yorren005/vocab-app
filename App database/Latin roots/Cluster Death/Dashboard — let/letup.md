@@ -5,13 +5,6 @@ status: unread
 ---
 # letup
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pause during which things are calm or activities are diminished.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pause during which things are calm or activities are diminished.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, letup designates a pause during which things are calm or activities are diminished."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pause during which things are calm or activities are diminished.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pause during which things are calm or activities are diminished.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, letup designates a pause during which things are calm or activities are diminished."*

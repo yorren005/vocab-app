@@ -5,13 +5,6 @@ status: unread
 ---
 # fungible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A commodity that is freely interchangeable with another in satisfying an obligation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of goods or commodities; freely exchangeable for or replaceable by another of like nature or kind in the satisfaction of an obligation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fungible designates a commodity that is freely interchangeable with another in satisfying an obligation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commodity that is freely interchangeable with another in satisfying an obligation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of goods or commodities; freely exchangeable for or replaceable by another of like nature or kind in the satisfaction of an obligation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fungible designates a commodity that is freely interchangeable with another in satisfying an obligation."*

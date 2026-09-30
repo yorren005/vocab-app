@@ -5,13 +5,6 @@ status: unread
 ---
 # ineligibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being ineligible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or state of being ineligible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The doctrine that expulsion creates ineligibility was attacked and exposed by him with great force."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being ineligible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or state of being ineligible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The doctrine that expulsion creates ineligibility was attacked and exposed by him with great force."*

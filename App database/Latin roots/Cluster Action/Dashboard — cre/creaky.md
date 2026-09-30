@@ -5,14 +5,6 @@ status: unread
 ---
 # creaky
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worn and broken down by hard use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a rasping or grating sound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"The Professor took the key, opened the creaky door, and standing back, politely, but quite unconsciously, motioned me to precede him."*
-> - 📜 **James Joyce (*Ulysses*):** *"On quietly creaky boots he went up the staircase to the hall, paused by the bedroom door."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +41,10 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worn and broken down by hard use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a rasping or grating sound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"The Professor took the key, opened the creaky door, and standing back, politely, but quite unconsciously, motioned me to precede him."*
+> - 📜 **James Joyce (*Ulysses*):** *"On quietly creaky boots he went up the staircase to the hall, paused by the bedroom door."*

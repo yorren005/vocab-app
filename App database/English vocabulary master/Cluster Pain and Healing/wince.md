@@ -5,20 +5,6 @@ status: unread
 ---
 # wince
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Kick or flounce when unsteady or impatient
-> 2. **Nuance / Usage**: Sudden movement or gesture of shrinking away
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to wince the target*) and intransitive clauses (*wincing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Let the gall’d jade wince; our withers are unwrung."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Drive these men away, And I will sit as quiet as a lamb; I will not stir, nor wince, nor speak a word, Nor look upon the iron angerly."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Mr Clare winced as if he had been struck."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Kick or flounce when unsteady or impatient
+> 2. **Nuance / Usage**: Sudden movement or gesture of shrinking away
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to wince the target*) and intransitive clauses (*wincing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Let the gall’d jade wince; our withers are unwrung."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Drive these men away, And I will sit as quiet as a lamb; I will not stir, nor wince, nor speak a word, Nor look upon the iron angerly."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Mr Clare winced as if he had been struck."*

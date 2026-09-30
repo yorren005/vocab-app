@@ -5,15 +5,6 @@ status: unread
 ---
 # riverside
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The bank of a river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southern california.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is the vilest murder-trap on the whole riverside, and I fear that Neville St."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I went on to the riverside, and the other followed me."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I had been dimly aware for some time of a worrying noise, and when I lifted my eyes I saw the wood-pile was gone, and the manager, aided by all the pilgrims, was shouting at me from the riverside."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The bank of a river.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southern california.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is the vilest murder-trap on the whole riverside, and I fear that Neville St."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I went on to the riverside, and the other followed me."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I had been dimly aware for some time of a worrying noise, and when I lifted my eyes I saw the wood-pile was gone, and the manager, aided by all the pilgrims, was shouting at me from the riverside."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # unappreciative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not feeling or expressing gratitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not feeling or expressing gratitude.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I wished the woman-hating, unappreciative Ralph Maplestone, had been a kind, considerate, understanding, put-your-self-in-her-place sort of man, who would have offered his time, and his car, and his services as chauffeur."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Tope had so long offered to an unappreciative city."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not feeling or expressing gratitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not feeling or expressing gratitude.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I wished the woman-hating, unappreciative Ralph Maplestone, had been a kind, considerate, understanding, put-your-self-in-her-place sort of man, who would have offered his time, and his car, and his services as chauffeur."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Tope had so long offered to an unappreciative city."*

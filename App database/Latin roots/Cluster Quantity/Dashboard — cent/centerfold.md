@@ -5,13 +5,6 @@ status: unread
 ---
 # centerfold
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A magazine center spread; especially a foldout of a large photograph or map or other feature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A magazine center spread; especially a foldout of a large photograph or map or other feature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centerfold designates a magazine center spread; especially a foldout of a large photograph or map or other feature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A magazine center spread; especially a foldout of a large photograph or map or other feature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A magazine center spread; especially a foldout of a large photograph or map or other feature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centerfold designates a magazine center spread; especially a foldout of a large photograph or map or other feature."*

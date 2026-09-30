@@ -5,13 +5,6 @@ status: unread
 ---
 # arroba
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of weight used in some spanish speaking countries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A liquid measure (with different values) used in some spanish speaking countries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arroba designates a unit of weight used in some spanish speaking countries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of weight used in some spanish speaking countries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A liquid measure (with different values) used in some spanish speaking countries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arroba designates a unit of weight used in some spanish speaking countries."*

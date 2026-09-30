@@ -5,15 +5,6 @@ status: unread
 ---
 # salsify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Edible root of the salsify plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mediterranean biennial herb with long-stemmed heads of purple ray flowers and milky sap and long edible root; naturalized throughout united states.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Salsify Mumbles was a grocer in a small way, and his good wife took boarders,--young ladies and gentlemen from different parts of the country, who came to attend Cedar Hill Seminary, a school of high repute and extended celebrity."*
-> - 📜 **Effie Afton (*Eventide*):** *"Salsify now began to regard Dick with different eyes, as what prudent mother would not?"*
-> - 📜 **Effie Afton (*Eventide*):** *"Salsify bade her daughter be of good cheer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Edible root of the salsify plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mediterranean biennial herb with long-stemmed heads of purple ray flowers and milky sap and long edible root; naturalized throughout united states.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"Salsify Mumbles was a grocer in a small way, and his good wife took boarders,--young ladies and gentlemen from different parts of the country, who came to attend Cedar Hill Seminary, a school of high repute and extended celebrity."*
+> - 📜 **Effie Afton (*Eventide*):** *"Salsify now began to regard Dick with different eyes, as what prudent mother would not?"*
+> - 📜 **Effie Afton (*Eventide*):** *"Salsify bade her daughter be of good cheer."*

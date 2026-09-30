@@ -5,15 +5,6 @@ status: unread
 ---
 # notion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vague idea in which some confidence is placed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A general inclusive concept.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your judgments, my grave lords, Must give this cur the lie; and his own notion— Who wears my stripes impressed upon him, that Must bear my beating to his grave—shall join To thrust the lie unto him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Either his notion weakens, his discernings Are lethargied."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy has been lolling out of window all the morning after trying all the stools in succession and finding none of them easy, and after several times putting his head into the iron safe with a notion of cooling it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vague idea in which some confidence is placed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A general inclusive concept.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your judgments, my grave lords, Must give this cur the lie; and his own notion— Who wears my stripes impressed upon him, that Must bear my beating to his grave—shall join To thrust the lie unto him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Either his notion weakens, his discernings Are lethargied."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy has been lolling out of window all the morning after trying all the stools in succession and finding none of them easy, and after several times putting his head into the iron safe with a notion of cooling it."*

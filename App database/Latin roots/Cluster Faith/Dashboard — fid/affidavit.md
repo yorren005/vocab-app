@@ -5,15 +5,6 @@ status: unread
 ---
 # affidavit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Written declaration made under oath; a written statement sworn to be true before someone legally authorized to administer an oath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written declaration made under oath; a written statement sworn to be true before someone legally authorized to administer an oath.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Will you do me the favour to mention (as it may interest her) that I have something to tell her on her return in reference to the person who copied the affidavit in the Chancery suit, which so powerfully stimulated her curiosity."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And did you really take the trouble to find out the writer of that actual thing—what is it!—affidavit?” “Yes.” “How very odd!” They pass into a sombre breakfast-room on the ground floor, lighted in the day by two deep windows."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn; nor does he so much as glance at the affidavit in Jarndyce and Jarndyce, that has been given to him for his inspection (though he still holds it in his hand), but continues to look at the lawyer with an air of troubled meditation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Written declaration made under oath; a written statement sworn to be true before someone legally authorized to administer an oath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written declaration made under oath; a written statement sworn to be true before someone legally authorized to administer an oath.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Will you do me the favour to mention (as it may interest her) that I have something to tell her on her return in reference to the person who copied the affidavit in the Chancery suit, which so powerfully stimulated her curiosity."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And did you really take the trouble to find out the writer of that actual thing—what is it!—affidavit?” “Yes.” “How very odd!” They pass into a sombre breakfast-room on the ground floor, lighted in the day by two deep windows."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn; nor does he so much as glance at the affidavit in Jarndyce and Jarndyce, that has been given to him for his inspection (though he still holds it in his hand), but continues to look at the lawyer with an air of troubled meditation."*

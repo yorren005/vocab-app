@@ -5,15 +5,6 @@ status: unread
 ---
 # mediocre
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderate to inferior in quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking exceptional quality or ability.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"However, many mediocre women have proved their ability to attend to their own fortunes, and do good business for themselves; but your battle is to be fought on still higher grounds."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"This evening she is merely a commonplace mediocre actress.” “Don’t talk like that about any one you love, Dorian."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"In other words, I, a very mediocre scribbler, had effected seven times in a single month what the powers of the universe could not manage once, even on the smallest scale."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderate to inferior in quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking exceptional quality or ability.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"However, many mediocre women have proved their ability to attend to their own fortunes, and do good business for themselves; but your battle is to be fought on still higher grounds."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"This evening she is merely a commonplace mediocre actress.” “Don’t talk like that about any one you love, Dorian."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"In other words, I, a very mediocre scribbler, had effected seven times in a single month what the powers of the universe could not manage once, even on the smallest scale."*

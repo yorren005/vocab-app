@@ -5,15 +5,6 @@ status: unread
 ---
 # saleswoman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman salesperson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman salesperson.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Lessing, as a slim-waisted, trailing-black-gowned saleswoman approached."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"He observed with interest the wonderful figure of the saleswoman."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"He did not hear the order she gave, but the saleswoman was pleasantly smiling as she checked it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman salesperson.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman salesperson.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Lessing, as a slim-waisted, trailing-black-gowned saleswoman approached."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"He observed with interest the wonderful figure of the saleswoman."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"He did not hear the order she gave, but the saleswoman was pleasantly smiling as she checked it."*

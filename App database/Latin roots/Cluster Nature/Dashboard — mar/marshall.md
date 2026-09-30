@@ -5,15 +5,6 @@ status: unread
 ---
 # marshall
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states actor (1914-1998).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states general and statesman who as secretary of state organized the european recovery program (1880-1959).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou marshall’st me the way that I was going; And such an instrument I was to use."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Julian Marshall (2 vols., 1889), and '_The Letters of E."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Do you know anything of my cousin’s captain?” said Edmund; “Captain Marshall?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states actor (1914-1998).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states general and statesman who as secretary of state organized the european recovery program (1880-1959).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou marshall’st me the way that I was going; And such an instrument I was to use."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Julian Marshall (2 vols., 1889), and '_The Letters of E."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Do you know anything of my cousin’s captain?” said Edmund; “Captain Marshall?"*

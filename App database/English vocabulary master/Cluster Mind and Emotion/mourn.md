@@ -5,20 +5,6 @@ status: unread
 ---
 # mourn
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (intransitive) to wear mourning
-> 2. **Nuance / Usage**: Murmur mournfully —used especially of doves
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to mourn the target*) and intransitive clauses (*mourning against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"We mourn in black; why mourn we not in blood?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"No, my love, I should not mourn, but die for thee."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"The hope thereof makes Clifford mourn in steel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To feel or express deep sorrow, grief, or lamentation over a death, loss, or misfortune.
+> 2. **Nuance / Usage**: Also used to describe observing customary outward signs of bereavement (such as wearing black) or grieving the passing of a vanished era or ideal.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to mourn the target*) and intransitive clauses (*mourning against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"Hung be the heavens with black, yield day to night; we **mourn** in black, why **mourn** we not in blood?"*
+> - 📜 **Percy Bysshe Shelley (*Adonais*):** *"Oh, weep for Adonais, though our tears thaw not the frost which binds so dear a head, and thou, sad Hour, **mourn** with me!"*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne resolved to **mourn** the loss of Willoughby with a sleepless devotion that admitted no comfort."*

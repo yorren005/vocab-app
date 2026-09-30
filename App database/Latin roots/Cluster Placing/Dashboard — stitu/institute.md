@@ -5,15 +5,6 @@ status: unread
 ---
 # institute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An association organized to promote art or science or education.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set up or lay the groundwork for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"At the time of her husband's death, there were _two hundred dollars_ due an institute, for board and tuition of their two little boys."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I was a poor student in a Manual Labor Institute at the West."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Roscoe, "Further Notes on the Manners and Customs of the Baganda," _Journal of the Anthropological Institute_, xxxii. (1902) pp. 62, 67; _id., The Baganda_ (London, 1911), pp. 154 _sq._ Compare L."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An association organized to promote art or science or education.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set up or lay the groundwork for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"At the time of her husband's death, there were _two hundred dollars_ due an institute, for board and tuition of their two little boys."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"I was a poor student in a Manual Labor Institute at the West."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Roscoe, "Further Notes on the Manners and Customs of the Baganda," _Journal of the Anthropological Institute_, xxxii. (1902) pp. 62, 67; _id., The Baganda_ (London, 1911), pp. 154 _sq._ Compare L."*

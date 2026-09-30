@@ -5,13 +5,6 @@ status: unread
 ---
 # albers
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states painter born in germany; works characterized by simple geometrical patterns in various colors (1888-1976).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states painter born in germany; works characterized by simple geometrical patterns in various colors (1888-1976).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albers designates united states painter born in germany; works characterized by simple geometrical patterns in various colors (1888-1976)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states painter born in germany; works characterized by simple geometrical patterns in various colors (1888-1976).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states painter born in germany; works characterized by simple geometrical patterns in various colors (1888-1976).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albers designates united states painter born in germany; works characterized by simple geometrical patterns in various colors (1888-1976)."*

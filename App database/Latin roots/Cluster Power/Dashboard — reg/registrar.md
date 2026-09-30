@@ -5,15 +5,6 @@ status: unread
 ---
 # registrar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person employed to keep a record of the owners of stocks and bonds issued by the company.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The administrator responsible for student records.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is the registrar below the judge, in wig and gown; and there are two or three maces, or petty-bags, or privy purses, or whatever they may be, in legal court suits."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is a fine steaming night to turn the slaughter-houses, the unwholesome trades, the sewerage, bad water, and burial-grounds to account, and give the registrar of deaths some extra business."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Have you the registrar’s certificate?” “No,” said Gabriel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person employed to keep a record of the owners of stocks and bonds issued by the company.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The administrator responsible for student records.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"There is the registrar below the judge, in wig and gown; and there are two or three maces, or petty-bags, or privy purses, or whatever they may be, in legal court suits."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is a fine steaming night to turn the slaughter-houses, the unwholesome trades, the sewerage, bad water, and burial-grounds to account, and give the registrar of deaths some extra business."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Have you the registrar’s certificate?” “No,” said Gabriel."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # calculation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The procedure of calculating; determining something by mathematical or logical methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Problem solving that involves numbers or quantities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was just eight,” says Phil, “agreeable to the parish calculation, when I went with the tinker."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This small astronomical calculation was made without any positive effort, and whilst he was stealthily turning to discover, if possible, into whose hands he had fallen."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I had never any views of myself as a husband in my earlier days, nor have I made any calculation on the subject since I have been older."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The procedure of calculating; determining something by mathematical or logical methods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Problem solving that involves numbers or quantities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I was just eight,” says Phil, “agreeable to the parish calculation, when I went with the tinker."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This small astronomical calculation was made without any positive effort, and whilst he was stealthily turning to discover, if possible, into whose hands he had fallen."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I had never any views of myself as a husband in my earlier days, nor have I made any calculation on the subject since I have been older."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # psoriasis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic skin disease characterized by circumscribed red patches covered with white scales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronic skin disease characterized by circumscribed red patches covered with white scales.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psoriasis designates a chronic skin disease characterized by circumscribed red patches covered with white scales."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic skin disease characterized by circumscribed red patches covered with white scales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronic skin disease characterized by circumscribed red patches covered with white scales.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psoriasis designates a chronic skin disease characterized by circumscribed red patches covered with white scales."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # combative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined or showing an inclination to dispute or disagree, even to engage in law suits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Striving to overcome in argument.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He had a combative look and a chafing, irritable manner which, associated with his figure—still large and powerful, though evidently in its decline—rather alarmed me."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Then, she was supported by an unnatural tension of the nerves, and by all the combative energy of her character, which enabled her to convert the scene into a kind of lurid triumph."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Grewgious, quite beside himself, plunged about the room, to all appearance undecided whether he was in a fit of loyal enthusiasm, or combative denunciation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined or showing an inclination to dispute or disagree, even to engage in law suits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Striving to overcome in argument.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He had a combative look and a chafing, irritable manner which, associated with his figure—still large and powerful, though evidently in its decline—rather alarmed me."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Then, she was supported by an unnatural tension of the nerves, and by all the combative energy of her character, which enabled her to convert the scene into a kind of lurid triumph."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Grewgious, quite beside himself, plunged about the room, to all appearance undecided whether he was in a fit of loyal enthusiasm, or combative denunciation."*

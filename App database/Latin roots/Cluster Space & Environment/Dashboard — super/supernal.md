@@ -5,15 +5,6 @@ status: unread
 ---
 # supernal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or coming from on high.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of heaven or the spirit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From that supernal judge that stirs good thoughts In any breast of strong authority, To look into the blots and stains of right."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Come in thy lowest form of love, and I will kneel and kiss thee; but at thy highest, come as mere supernal power; and though thou launchest navies of full-freighted worlds, there’s that in here that still remains indifferent."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Him followed his next Mate, Both glorying to have scap’t the _Stygian_ flood As Gods, and by their own recover’d strength, Not by the sufferance of supernal Power."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or coming from on high.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of heaven or the spirit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From that supernal judge that stirs good thoughts In any breast of strong authority, To look into the blots and stains of right."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Come in thy lowest form of love, and I will kneel and kiss thee; but at thy highest, come as mere supernal power; and though thou launchest navies of full-freighted worlds, there’s that in here that still remains indifferent."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Him followed his next Mate, Both glorying to have scap’t the _Stygian_ flood As Gods, and by their own recover’d strength, Not by the sufferance of supernal Power."*

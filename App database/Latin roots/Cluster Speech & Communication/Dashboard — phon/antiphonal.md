@@ -5,14 +5,6 @@ status: unread
 ---
 # antiphonal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bound collection of antiphons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or using responses; alternating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"After dinner the chair-bearers gathered round and with the aid of the interpreter I took down as best I could some of their calls and responses, a sort of antiphonal chorus handed down from generation to generation of coolies."*
-> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"And bells ope throats in mellow round Of sweet antiphonal resound, And virtue glistens everywhere-- A Sunday-calm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bound collection of antiphons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or using responses; alternating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"After dinner the chair-bearers gathered round and with the aid of the interpreter I took down as best I could some of their calls and responses, a sort of antiphonal chorus handed down from generation to generation of coolies."*
+> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"And bells ope throats in mellow round Of sweet antiphonal resound, And virtue glistens everywhere-- A Sunday-calm."*

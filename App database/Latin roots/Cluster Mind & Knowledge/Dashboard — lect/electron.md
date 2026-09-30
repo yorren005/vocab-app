@@ -5,14 +5,6 @@ status: unread
 ---
 # electron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elementary particle with negative charge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An elementary particle with negative charge.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"And it's balanced by the negative charges, the electrons, that revolve around it."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"They will create an excess of negative electrons instead of an excess of positive protons in the object we hit, and cause atomic disintegration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elementary particle with negative charge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An elementary particle with negative charge.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"And it's balanced by the negative charges, the electrons, that revolve around it."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"They will create an excess of negative electrons instead of an excess of positive protons in the object we hit, and cause atomic disintegration."*

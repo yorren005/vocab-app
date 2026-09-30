@@ -5,14 +5,6 @@ status: unread
 ---
 # verticality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Position at right angles to the horizon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Position at right angles to the horizon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"We turn our attention to the left-hand characteristics; which were flatness in respect of the river, verticality in respect of the wall behind it, and darkness as to both."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They were flatness as regards the river, verticality as regards the wall behind it, and darkness as regards both."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Position at right angles to the horizon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Position at right angles to the horizon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"We turn our attention to the left-hand characteristics; which were flatness in respect of the river, verticality in respect of the wall behind it, and darkness as to both."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They were flatness as regards the river, verticality as regards the wall behind it, and darkness as regards both."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # projectile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A weapon that is forcibly thrown or projected at a targets but is not self-propelled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any vehicle self-propelled by a rocket engine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This precious weapon of American origin could throw with ease a conical projectile of nine pounds to a mean distance of ten miles."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I went down at the moment another projectile struck the _Nautilus_, and I heard the Captain exclaim: “Strike, mad vessel!"*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Pop, would go one of the six-inch guns; a small flame would dart and vanish, a little white smoke would disappear, a tiny projectile would give a feeble screech—and nothing happened."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A weapon that is forcibly thrown or projected at a targets but is not self-propelled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any vehicle self-propelled by a rocket engine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This precious weapon of American origin could throw with ease a conical projectile of nine pounds to a mean distance of ten miles."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I went down at the moment another projectile struck the _Nautilus_, and I heard the Captain exclaim: “Strike, mad vessel!"*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Pop, would go one of the six-inch guns; a small flame would dart and vanish, a little white smoke would disappear, a tiny projectile would give a feeble screech—and nothing happened."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # intrapulmonary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or occurring within a lung.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or occurring within a lung.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intrapulmonary designates being or occurring within a lung."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or occurring within a lung.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or occurring within a lung.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intrapulmonary designates being or occurring within a lung."*

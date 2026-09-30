@@ -5,15 +5,6 @@ status: unread
 ---
 # page
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the leaves of a publication or manuscript; also : a single side of one of these leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The material printed or written on a page.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Page, servant to the Countess of Rossillon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Monsieur Parolles, my lord calls for you. [_Exit Page._] PAROLLES."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll have no worse a name than Jove’s own page, And therefore look you call me Ganymede."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the leaves of a publication or manuscript; also : a single side of one of these leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The material printed or written on a page.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Page, servant to the Countess of Rossillon."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Monsieur Parolles, my lord calls for you. [_Exit Page._] PAROLLES."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll have no worse a name than Jove’s own page, And therefore look you call me Ganymede."*

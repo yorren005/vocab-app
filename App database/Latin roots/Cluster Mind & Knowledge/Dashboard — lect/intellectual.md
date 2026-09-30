@@ -5,15 +5,6 @@ status: unread
 ---
 # intellectual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who uses the mind creatively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or associated with or requiring the use of the mind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That they lack; for if their heads had any intellectual armour, they could never wear such heavy head-pieces."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Quale meant in intellectual beauty—and whether we were not struck by his massive configuration of brow."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There must have been great intellectual friction going on there under the auspices of such a man!” “And now,” pursued Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who uses the mind creatively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or associated with or requiring the use of the mind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That they lack; for if their heads had any intellectual armour, they could never wear such heavy head-pieces."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Quale meant in intellectual beauty—and whether we were not struck by his massive configuration of brow."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There must have been great intellectual friction going on there under the auspices of such a man!” “And now,” pursued Mrs."*

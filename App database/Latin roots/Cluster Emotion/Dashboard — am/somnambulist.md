@@ -5,15 +5,6 @@ status: unread
 ---
 # somnambulist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who walks about in their sleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who walks about in their sleep.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I did not expect this; but all I have is yours.” Boldwood, more like a somnambulist than a wakeful man, pulled out the large canvas bag he carried by way of a purse, and searched it."*
-> - 📜 **George Eliot (*Middlemarch*):** *"You will never hear of the marriage!” With those words uttered impetuously, Will rose, put out his hand to Rosamond, still with the air of a somnambulist, and went away."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The slim one got up and walked straight at me—still knitting with downcast eyes—and only just as I began to think of getting out of her way, as you would for a somnambulist, stood still, and looked up."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who walks about in their sleep.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who walks about in their sleep.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I did not expect this; but all I have is yours.” Boldwood, more like a somnambulist than a wakeful man, pulled out the large canvas bag he carried by way of a purse, and searched it."*
+> - 📜 **George Eliot (*Middlemarch*):** *"You will never hear of the marriage!” With those words uttered impetuously, Will rose, put out his hand to Rosamond, still with the air of a somnambulist, and went away."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The slim one got up and walked straight at me—still knitting with downcast eyes—and only just as I began to think of getting out of her way, as you would for a somnambulist, stood still, and looked up."*

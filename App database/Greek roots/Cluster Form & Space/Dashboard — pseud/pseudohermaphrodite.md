@@ -5,13 +5,6 @@ status: unread
 ---
 # pseudohermaphrodite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone having external genitalia of one sex and internal sex organs of the other sex; not a true hermaphrodite because there is no ambiguity in the sex of the external genitalia and hence no question about gender at birth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having internal reproductive organs of one sex and external sexual characteristics of the other sex.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudohermaphrodite designates someone having external genitalia of one sex and internal sex organs of the other sex; not a true hermaphrodite because there is no ambiguity in the sex of the external genitalia and hence no question about gender at birth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone having external genitalia of one sex and internal sex organs of the other sex; not a true hermaphrodite because there is no ambiguity in the sex of the external genitalia and hence no question about gender at birth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having internal reproductive organs of one sex and external sexual characteristics of the other sex.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudohermaphrodite designates someone having external genitalia of one sex and internal sex organs of the other sex; not a true hermaphrodite because there is no ambiguity in the sex of the external genitalia and hence no question about gender at birth."*

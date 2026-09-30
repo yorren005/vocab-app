@@ -5,15 +5,6 @@ status: unread
 ---
 # temperature
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The degree of hotness or coldness of a body or environment (corresponding to its molecular activity).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The somatic sensation of cold or heat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Closing the slide to windward, he turned to open the other; on second thoughts the farmer considered that he would first sit down leaving both closed for a minute or two, till the temperature of the hut was a little raised."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The air changed its temperature and stirred itself more vigorously."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Roads, garden-paths, the house-fronts, the barton-walls were warm as hearths, and reflected the noontime temperature into the noctambulist’s face."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The degree of hotness or coldness of a body or environment (corresponding to its molecular activity).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The somatic sensation of cold or heat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Closing the slide to windward, he turned to open the other; on second thoughts the farmer considered that he would first sit down leaving both closed for a minute or two, till the temperature of the hut was a little raised."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The air changed its temperature and stirred itself more vigorously."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Roads, garden-paths, the house-fronts, the barton-walls were warm as hearths, and reflected the noontime temperature into the noctambulist’s face."*

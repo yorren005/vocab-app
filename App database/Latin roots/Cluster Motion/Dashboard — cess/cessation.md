@@ -5,15 +5,6 @@ status: unread
 ---
 # cessation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stopping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stopping.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was not the loss for the moment that made slack milking so serious, but that with the decline of demand there came decline, and ultimately cessation, of supply."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"This utter cessation of trade was as unusual and out of the accustomed shop business, as the extra rush had been."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The joy of it, had I dared joy at such a moment, would have been the cessation of sensations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stopping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stopping.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was not the loss for the moment that made slack milking so serious, but that with the decline of demand there came decline, and ultimately cessation, of supply."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"This utter cessation of trade was as unusual and out of the accustomed shop business, as the extra rush had been."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The joy of it, had I dared joy at such a moment, would have been the cessation of sensations."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # incision
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A depression scratched or carved into a surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cutting of or into body tissues or organs (especially by a surgeon as part of an operation).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God make incision in thee, thou art raw."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mount them, and make incision in their hides, That their hot blood may spin in English eyes, And dout them with superfluous courage, ha!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, then incision Would let her out in saucers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A depression scratched or carved into a surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cutting of or into body tissues or organs (especially by a surgeon as part of an operation).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God make incision in thee, thou art raw."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mount them, and make incision in their hides, That their hot blood may spin in English eyes, And dout them with superfluous courage, ha!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, then incision Would let her out in saucers."*

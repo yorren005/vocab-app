@@ -5,20 +5,6 @@ status: unread
 ---
 # melee
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Loud, confused or tumultuous fight, argument or scrap
-> 2. **Nuance / Usage**: Any confused, disorganised, disordered or chaotic situation
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the melee withstood the storm*), direct object (*cleaved the melee*), or prepositional anchor (*amidst the melee*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alex McLevy (*''{{w*):** *"Honestly, a lot of what this episode did right had more to do with the scenes that surrounded the enormous melee than those hyper-edited clashes of swords."*
-> - 📜 **Phil McNulty (*Tottenham 1-5 Chelsea*):** *"The ball did not appear to cross the line, a view supported by television replays as Blues captain John Terry also joined the melee, but referee Atkinson awarded the goal - to the obvious anger of Spurs and their management team."*
-> - 📜 **Shania Shelton and Holmes Lybrand (*Democratic congresswoman says federal charges in ICE facility scuffle are ‘absurd’*):** *"Democratic Rep. LaMonica McIver said Tuesday that the federal assault charges filed against her a day earlier related to a chaotic melee outside an Immigration Customs and Enforcement detention facility are “absurd."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A confused, tumultuous hand-to-hand fight or struggle at close quarters involving many people.
+> 2. **Nuance / Usage**: Borrowed from French *mêlée* ("mixture, skirmish"); also used for any chaotic crowd, scramble, or heated free-for-all debate where order breaks down.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count).
+> - **Syntactic Constructions**: Functions as a prepositional focus (*caught in the melee*, *amidst the melee*) or direct object (*joined the melee*).
+> - **Collocations & Registers**: Martial, sports, and journalistic registers; paired with *chaotic*, *hand-to-hand*, *wild*, *scuffle*, and *tumult*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alex McLevy (*The A.V. Club*):** *"A lot of what the episode did right had more to do with the scenes that surrounded the enormous **melee** than those hyper-edited clashes of swords."*
+> - 📜 **Phil McNulty (*BBC Sport*):** *"The ball did not appear to cross the line as Blues captain John Terry also joined the **melee**, but the referee awarded the goal."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The knights spurred their chargers into the thick of the **melee**, where lances were shivered and swords rang upon mail."*

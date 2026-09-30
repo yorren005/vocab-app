@@ -5,14 +5,6 @@ status: unread
 ---
 # timbre
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality given to a sound by its overtones: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The resonance by which the ear recognizes and identifies a voiced speech sound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Aren't you dead tired of it?" "No." Her voice was a strong soprano timbre."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"On the contrary, the lack of timbre would be regarded by Chinese connoisseurs as indication of a spurious ware, the note of the old porcelains being one of the criteria of their excellence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality given to a sound by its overtones: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The resonance by which the ear recognizes and identifies a voiced speech sound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Aren't you dead tired of it?" "No." Her voice was a strong soprano timbre."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"On the contrary, the lack of timbre would be regarded by Chinese connoisseurs as indication of a spurious ware, the note of the old porcelains being one of the criteria of their excellence."*

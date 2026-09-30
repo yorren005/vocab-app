@@ -5,15 +5,6 @@ status: unread
 ---
 # enormity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being outrageous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vastness of size or extent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In what enormity is Martius poor in, that you two have not in abundance?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I wish my people to be impressed with the enormity of the crime, the determination to punish it, and the hopelessness of escape."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bennet, I am inclined to think that her own disposition must be naturally bad, or she could not be guilty of such an enormity, at so early an age."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being outrageous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vastness of size or extent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In what enormity is Martius poor in, that you two have not in abundance?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I wish my people to be impressed with the enormity of the crime, the determination to punish it, and the hopelessness of escape."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bennet, I am inclined to think that her own disposition must be naturally bad, or she could not be guilty of such an enormity, at so early an age."*

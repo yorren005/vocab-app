@@ -5,13 +5,6 @@ status: unread
 ---
 # dermaptera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Earwigs and a few related forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Earwigs and a few related forms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermaptera designates earwigs and a few related forms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Earwigs and a few related forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Earwigs and a few related forms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermaptera designates earwigs and a few related forms."*

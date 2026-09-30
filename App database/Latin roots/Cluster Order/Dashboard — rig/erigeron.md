@@ -5,13 +5,6 @@ status: unread
 ---
 # erigeron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cosmopolitan genus of usually perennial herbs with flowers that resemble asters; leaves occasionally (especially formerly) used medicinally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cosmopolitan genus of usually perennial herbs with flowers that resemble asters; leaves occasionally (especially formerly) used medicinally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erigeron designates cosmopolitan genus of usually perennial herbs with flowers that resemble asters; leaves occasionally (especially formerly) used medicinally."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cosmopolitan genus of usually perennial herbs with flowers that resemble asters; leaves occasionally (especially formerly) used medicinally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cosmopolitan genus of usually perennial herbs with flowers that resemble asters; leaves occasionally (especially formerly) used medicinally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erigeron designates cosmopolitan genus of usually perennial herbs with flowers that resemble asters; leaves occasionally (especially formerly) used medicinally."*

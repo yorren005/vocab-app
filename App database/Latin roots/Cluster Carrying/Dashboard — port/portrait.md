@@ -5,15 +5,6 @@ status: unread
 ---
 # portrait
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word picture of a person's appearance and character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any likeness of a person, in any medium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The portrait of a blinking idiot Presenting me a schedule!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But a portrait over the chimney-piece, painted by the fashionable artist of the day, acts upon him like a charm."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Who’s that?” “The picture over the fire-place,” says Rosa, “is the portrait of the present Lady Dedlock."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word picture of a person's appearance and character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any likeness of a person, in any medium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The portrait of a blinking idiot Presenting me a schedule!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But a portrait over the chimney-piece, painted by the fashionable artist of the day, acts upon him like a charm."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Who’s that?” “The picture over the fire-place,” says Rosa, “is the portrait of the present Lady Dedlock."*

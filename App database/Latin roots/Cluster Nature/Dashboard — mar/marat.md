@@ -5,13 +5,6 @@ status: unread
 ---
 # marat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French revolutionary leader (born in switzerland) who was a leader in overthrowing the girondists and was stabbed to death in his bath by charlotte corday (1743-1793).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French revolutionary leader (born in switzerland) who was a leader in overthrowing the girondists and was stabbed to death in his bath by charlotte corday (1743-1793).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I said so even at the time when everybody was in raptures about him, when he had just returned from abroad, and when, if you remember, he posed as a sort of Marat at one of my soirees."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French revolutionary leader (born in switzerland) who was a leader in overthrowing the girondists and was stabbed to death in his bath by charlotte corday (1743-1793).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French revolutionary leader (born in switzerland) who was a leader in overthrowing the girondists and was stabbed to death in his bath by charlotte corday (1743-1793).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I said so even at the time when everybody was in raptures about him, when he had just returned from abroad, and when, if you remember, he posed as a sort of Marat at one of my soirees."*

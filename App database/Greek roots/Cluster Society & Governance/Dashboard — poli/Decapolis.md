@@ -5,13 +5,6 @@ status: unread
 ---
 # Decapolis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confederation of 10 ancient cities in northern Palestine in the region chiefly southeast of the Sea of Galilee.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confederation of 10 ancient cities in northern Palestine in the region chiefly southeast of the Sea of Galilee.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Decapolis designates confederation of 10 ancient cities in northern palestine in the region chiefly southeast of the sea of galilee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Confederation of 10 ancient cities in northern Palestine in the region chiefly southeast of the Sea of Galilee.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confederation of 10 ancient cities in northern Palestine in the region chiefly southeast of the Sea of Galilee.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Decapolis designates confederation of 10 ancient cities in northern palestine in the region chiefly southeast of the sea of galilee."*

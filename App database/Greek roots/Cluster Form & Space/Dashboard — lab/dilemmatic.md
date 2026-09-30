@@ -5,13 +5,6 @@ status: unread
 ---
 # dilemmatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually undesirable or unpleasant choice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A situation involving such a choice; broadly : predicament.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dilemmatic designates a usually undesirable or unpleasant choice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually undesirable or unpleasant choice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A situation involving such a choice; broadly : predicament.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dilemmatic designates a usually undesirable or unpleasant choice."*

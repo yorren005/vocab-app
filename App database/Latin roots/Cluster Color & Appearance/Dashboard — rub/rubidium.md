@@ -5,13 +5,6 @@ status: unread
 ---
 # rubidium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft silvery metallic element of the alkali metal group; burns in air and reacts violently in water; occurs in carnallite and lepidolite and pollucite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft silvery metallic element of the alkali metal group; burns in air and reacts violently in water; occurs in carnallite and lepidolite and pollucite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubidium designates a soft silvery metallic element of the alkali metal group; burns in air and reacts violently in water; occurs in carnallite and lepidolite and pollucite."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft silvery metallic element of the alkali metal group; burns in air and reacts violently in water; occurs in carnallite and lepidolite and pollucite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft silvery metallic element of the alkali metal group; burns in air and reacts violently in water; occurs in carnallite and lepidolite and pollucite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubidium designates a soft silvery metallic element of the alkali metal group; burns in air and reacts violently in water; occurs in carnallite and lepidolite and pollucite."*

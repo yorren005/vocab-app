@@ -5,13 +5,6 @@ status: unread
 ---
 # periscope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tubular optical instrument containing lenses and mirrors by which an observer obtains an otherwise obstructed field of view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tubular optical instrument containing lenses and mirrors by which an observer obtains an otherwise obstructed field of view.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"This time there was no chance of damaging the motive power, but we could make the pilot wish he had a periscope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tubular optical instrument containing lenses and mirrors by which an observer obtains an otherwise obstructed field of view.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tubular optical instrument containing lenses and mirrors by which an observer obtains an otherwise obstructed field of view.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"This time there was no chance of damaging the motive power, but we could make the pilot wish he had a periscope."*

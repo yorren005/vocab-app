@@ -5,13 +5,6 @@ status: unread
 ---
 # sculpt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Create by shaping stone or wood or any other hard material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shape (a material like stone or wood) by whittling away at it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sculpt designates create by shaping stone or wood or any other hard material."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Create by shaping stone or wood or any other hard material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shape (a material like stone or wood) by whittling away at it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sculpt designates create by shaping stone or wood or any other hard material."*

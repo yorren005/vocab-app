@@ -5,15 +5,6 @@ status: unread
 ---
 # improvidence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of prudence and care by someone in the management of resources.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of prudence and care by someone in the management of resources.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"But when by improvidence I have cast myself into necessities of using more upon myself or upon things in themselves of less importance, I have prospered much less than when I did otherwise."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Yet there is occasion to deplore the improvidence that is fostered and that prevails, especially among those receiving their incomes in the form of wage or salary."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The security of all would thus be subjected to the parsimony, improvidence, or inability of a part."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of prudence and care by someone in the management of resources.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of prudence and care by someone in the management of resources.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"But when by improvidence I have cast myself into necessities of using more upon myself or upon things in themselves of less importance, I have prospered much less than when I did otherwise."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Yet there is occasion to deplore the improvidence that is fostered and that prevails, especially among those receiving their incomes in the form of wage or salary."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The security of all would thus be subjected to the parsimony, improvidence, or inability of a part."*

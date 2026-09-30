@@ -5,13 +5,6 @@ status: unread
 ---
 # erroneousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inadvertent incorrectness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inadvertent incorrectness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erroneousness designates inadvertent incorrectness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inadvertent incorrectness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inadvertent incorrectness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erroneousness designates inadvertent incorrectness."*

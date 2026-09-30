@@ -5,13 +5,6 @@ status: unread
 ---
 # microfossil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fossil that must be studied microscopically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fossil that must be studied microscopically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microfossil designates a fossil that must be studied microscopically."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fossil that must be studied microscopically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fossil that must be studied microscopically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microfossil designates a fossil that must be studied microscopically."*

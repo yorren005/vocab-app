@@ -5,13 +5,6 @@ status: unread
 ---
 # dystopian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or resembling a dystopia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As bad as can be; characterized by human misery; - susan sontag.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dystopian designates of or pertaining to or resembling a dystopia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or resembling a dystopia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As bad as can be; characterized by human misery; - susan sontag.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dystopian designates of or pertaining to or resembling a dystopia."*

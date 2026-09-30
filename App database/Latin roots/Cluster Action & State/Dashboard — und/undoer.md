@@ -5,13 +5,6 @@ status: unread
 ---
 # undoer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A seducer who ruins a woman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who unfastens or unwraps or opens.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undoer designates a seducer who ruins a woman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A seducer who ruins a woman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who unfastens or unwraps or opens.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undoer designates a seducer who ruins a woman."*

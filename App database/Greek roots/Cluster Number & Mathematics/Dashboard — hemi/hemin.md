@@ -5,13 +5,6 @@ status: unread
 ---
 # hemin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reddish-brown chloride of heme; produced from hemoglobin in laboratory tests for the presence of blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reddish-brown chloride of heme; produced from hemoglobin in laboratory tests for the presence of blood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Plato, _Laws_, 906 A, _symmachoi de hemin theoi te ama kai daimones, hemeis d' au ktema theon kai daimonon_. [101] _de repugn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reddish-brown chloride of heme; produced from hemoglobin in laboratory tests for the presence of blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reddish-brown chloride of heme; produced from hemoglobin in laboratory tests for the presence of blood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Plato, _Laws_, 906 A, _symmachoi de hemin theoi te ama kai daimones, hemeis d' au ktema theon kai daimonon_. [101] _de repugn."*

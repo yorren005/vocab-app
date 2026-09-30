@@ -5,13 +5,6 @@ status: unread
 ---
 # melatonin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vertebrate hormone that is derived from serotonin, is secreted by the pineal gland especially in response to darkness, and has been linked to the regulation of circadian rhythms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vertebrate hormone that is derived from serotonin, is secreted by the pineal gland especially in response to darkness, and has been linked to the regulation of circadian rhythms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melatonin designates a vertebrate hormone that is derived from serotonin, is secreted by the pineal gland especially in response to darkness, and has been linked to the regulation of circadian rhythms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vertebrate hormone that is derived from serotonin, is secreted by the pineal gland especially in response to darkness, and has been linked to the regulation of circadian rhythms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vertebrate hormone that is derived from serotonin, is secreted by the pineal gland especially in response to darkness, and has been linked to the regulation of circadian rhythms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melatonin designates a vertebrate hormone that is derived from serotonin, is secreted by the pineal gland especially in response to darkness, and has been linked to the regulation of circadian rhythms."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # picture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A visual representation (of an object or scene or person or abstraction) produced on a surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Graphic art consisting of an artistic composition made by applying paints to a surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So either by thy picture or my love, Thyself away, art present still with me, For thou not farther than my thoughts canst move, And I am still with them, and they with thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, have you got the picture of old Adam new apparelled?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or who was he That, otherwise than noble nature did, Hath alter’d that good picture?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A visual representation (of an object or scene or person or abstraction) produced on a surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Graphic art consisting of an artistic composition made by applying paints to a surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So either by thy picture or my love, Thyself away, art present still with me, For thou not farther than my thoughts canst move, And I am still with them, and they with thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, have you got the picture of old Adam new apparelled?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or who was he That, otherwise than noble nature did, Hath alter’d that good picture?"*

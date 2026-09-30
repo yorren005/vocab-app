@@ -5,15 +5,6 @@ status: unread
 ---
 # ratiocination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The proposition arrived at by logical reasoning (such as the proposition that must follow from the major and minor premises of a syllogism).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Logical and methodical reasoning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The monologue is a signal example of ‘emotional ratiocination’."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Arthur Symons, in his ‘Introduction to the Study of Browning’, remarks: . . ."it is as a piece of ratiocination--suffused, indeed, with imagination-- that the poem seems to have its raison d’etre."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Wise Aristotle and Smiglesius, By ratiocinations specious, Have strove to prove with great precision, With definition and division, _Homo est ratione praeditum_; But, for my soul, I cannot credit 'em."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The proposition arrived at by logical reasoning (such as the proposition that must follow from the major and minor premises of a syllogism).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Logical and methodical reasoning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The monologue is a signal example of ‘emotional ratiocination’."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Arthur Symons, in his ‘Introduction to the Study of Browning’, remarks: . . ."it is as a piece of ratiocination--suffused, indeed, with imagination-- that the poem seems to have its raison d’etre."*
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Wise Aristotle and Smiglesius, By ratiocinations specious, Have strove to prove with great precision, With definition and division, _Homo est ratione praeditum_; But, for my soul, I cannot credit 'em."*

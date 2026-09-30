@@ -5,13 +5,6 @@ status: unread
 ---
 # scombroidea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mackerels; tunas; albacores; bonitos; swordfishes; sailfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mackerels; tunas; albacores; bonitos; swordfishes; sailfishes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scombroidea designates mackerels; tunas; albacores; bonitos; swordfishes; sailfishes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mackerels; tunas; albacores; bonitos; swordfishes; sailfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mackerels; tunas; albacores; bonitos; swordfishes; sailfishes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scombroidea designates mackerels; tunas; albacores; bonitos; swordfishes; sailfishes."*

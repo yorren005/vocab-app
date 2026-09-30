@@ -5,15 +5,6 @@ status: unread
 ---
 # belle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young woman who is the most charming and beautiful of several rivals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young woman who is the most charming and beautiful of several rivals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How answer you, _la plus belle Katherine du monde, mon très cher et divin déesse?_ KATHARINE."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Belle went with your brother, and John drove Maria.” Catherine spoke the pleasure she really felt on hearing this part of the arrangement."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"He made no answer; but after a minute’s silence burst out with, “A famous good thing this marrying scheme, upon my soul! a clever fancy of Morland’s and Belle’s."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A young woman who is the most charming and beautiful of several rivals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young woman who is the most charming and beautiful of several rivals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How answer you, _la plus belle Katherine du monde, mon très cher et divin déesse?_ KATHARINE."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Belle went with your brother, and John drove Maria.” Catherine spoke the pleasure she really felt on hearing this part of the arrangement."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"He made no answer; but after a minute’s silence burst out with, “A famous good thing this marrying scheme, upon my soul! a clever fancy of Morland’s and Belle’s."*

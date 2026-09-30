@@ -5,15 +5,6 @@ status: unread
 ---
 # vitrify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change into glass or a glass-like substance by applying heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo vitrification; become glassy or glass-like.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Evidence of volcanic action appeared along the canyon in the form of vitrified fragments and occasional masses of lava resembling rock."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Shamus, when he afterward became acquainted with the specimens, called them "a rattlin' shower of witches' pebbles." We also passed large surfaces of white rock, which were sprinkled all over with dark, hollow balls, of a vitrified substance."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"South of the town are several large, erratic masses of pink and bloody quartz, whose surfaces are so polished as to appear as though vitrified."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Change into glass or a glass-like substance by applying heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo vitrification; become glassy or glass-like.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Evidence of volcanic action appeared along the canyon in the form of vitrified fragments and occasional masses of lava resembling rock."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Shamus, when he afterward became acquainted with the specimens, called them "a rattlin' shower of witches' pebbles." We also passed large surfaces of white rock, which were sprinkled all over with dark, hollow balls, of a vitrified substance."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"South of the town are several large, erratic masses of pink and bloody quartz, whose surfaces are so polished as to appear as though vitrified."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # pataca
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of money in macao.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic unit of money in macao.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pataca designates the basic unit of money in macao."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of money in macao.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic unit of money in macao.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pataca designates the basic unit of money in macao."*

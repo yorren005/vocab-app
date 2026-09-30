@@ -5,15 +5,6 @@ status: unread
 ---
 # proportionable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Proportionate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proportionate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For us to levy power Proportionable to the enemy Is all unpossible."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"I stored the boat with the carcases of a hundred oxen, and three hundred sheep, with bread and drink proportionable, and as much meat ready dressed as four hundred cooks could provide."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"I was amazed to see such actions and behaviour in brute beasts; and concluded with myself, that if the inhabitants of this country were endued with a proportionable degree of reason, they must needs be the wisest people upon earth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Proportionate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proportionate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For us to levy power Proportionable to the enemy Is all unpossible."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"I stored the boat with the carcases of a hundred oxen, and three hundred sheep, with bread and drink proportionable, and as much meat ready dressed as four hundred cooks could provide."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"I was amazed to see such actions and behaviour in brute beasts; and concluded with myself, that if the inhabitants of this country were endued with a proportionable degree of reason, they must needs be the wisest people upon earth."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sanitarium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hospital for recuperation or for the treatment of chronic diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hospital for recuperation or for the treatment of chronic diseases.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I went to a sanitarium, but yet the stomach trouble prevailed."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Bloodworth was removed to the city of R---- to a private sanitarium in order, he said, that he might receive the best medical attention."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"With their collusion he was able to escape from the sanitarium each night, returning just before daybreak in the morning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hospital for recuperation or for the treatment of chronic diseases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hospital for recuperation or for the treatment of chronic diseases.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I went to a sanitarium, but yet the stomach trouble prevailed."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Bloodworth was removed to the city of R---- to a private sanitarium in order, he said, that he might receive the best medical attention."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"With their collusion he was able to escape from the sanitarium each night, returning just before daybreak in the morning."*

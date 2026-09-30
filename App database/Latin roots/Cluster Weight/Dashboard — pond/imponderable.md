@@ -5,14 +5,6 @@ status: unread
 ---
 # imponderable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A factor whose effects cannot be accurately assessed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Difficult or impossible to evaluate with precision.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"What things real are there, but imponderable thoughts?"*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"What things real are there, but imponderable thoughts?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A factor whose effects cannot be accurately assessed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Difficult or impossible to evaluate with precision.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"What things real are there, but imponderable thoughts?"*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"What things real are there, but imponderable thoughts?"*

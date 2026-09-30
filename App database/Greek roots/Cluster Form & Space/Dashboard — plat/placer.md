@@ -5,14 +5,6 @@ status: unread
 ---
 # placer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alluvial deposit that contains particles of some valuable mineral.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alluvial deposit that contains particles of some valuable mineral.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The gold-miner, working with simple tools in the days of placer-mining, earned wages exactly expressed by the gold he washed out."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was a dyer’s helper in Pyonhan, a gold-miner in the placers of Kang-wun, a rope-maker and twine-twister in Chiksan."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alluvial deposit that contains particles of some valuable mineral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alluvial deposit that contains particles of some valuable mineral.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The gold-miner, working with simple tools in the days of placer-mining, earned wages exactly expressed by the gold he washed out."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was a dyer’s helper in Pyonhan, a gold-miner in the placers of Kang-wun, a rope-maker and twine-twister in Chiksan."*

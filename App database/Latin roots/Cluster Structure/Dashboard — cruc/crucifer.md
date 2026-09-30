@@ -5,15 +5,6 @@ status: unread
 ---
 # crucifer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the family cruciferae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the family cruciferae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"In the crucifer rust the conidia are all equal in the pustules and globose."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"CRUCIFER WHITE RUST; conidia equal, globose; membrane equal, ochraceous; oospores subglobose, epispore yellowish-brown, with irregular obtuse warts; warts solid.—On Shepherd’s-purse, Cabbages, and other Cruciferæ."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Oogonium of Crucifer white rust (_Cystopus candidus_) × 400 (_De Bary_). 〃 207."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the family cruciferae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the family cruciferae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"In the crucifer rust the conidia are all equal in the pustules and globose."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"CRUCIFER WHITE RUST; conidia equal, globose; membrane equal, ochraceous; oospores subglobose, epispore yellowish-brown, with irregular obtuse warts; warts solid.—On Shepherd’s-purse, Cabbages, and other Cruciferæ."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Oogonium of Crucifer white rust (_Cystopus candidus_) × 400 (_De Bary_). 〃 207."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # rendition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A performance of a musical composition or a dramatic role etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An explanation of something that is not immediately obvious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Masterly rendition. _At the siege of Ross did my father fall._ A cavalcade in easy trot along Pembroke quay passed, outriders leaping, leaping in their, in their saddles."*
-> - 📜 **James Joyce (*Ulysses*):** *"Most trenchant rendition of that ballad, upon my soul and honour it is. —Lablache, said Father Cowley."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"A third difficulty in making a collection of Chinese nursery lore is greater than either the first or the second,--I refer to the difficulty of a metrical rendition of the rhymes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A performance of a musical composition or a dramatic role etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An explanation of something that is not immediately obvious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Masterly rendition. _At the siege of Ross did my father fall._ A cavalcade in easy trot along Pembroke quay passed, outriders leaping, leaping in their, in their saddles."*
+> - 📜 **James Joyce (*Ulysses*):** *"Most trenchant rendition of that ballad, upon my soul and honour it is. —Lablache, said Father Cowley."*
+> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"A third difficulty in making a collection of Chinese nursery lore is greater than either the first or the second,--I refer to the difficulty of a metrical rendition of the rhymes."*

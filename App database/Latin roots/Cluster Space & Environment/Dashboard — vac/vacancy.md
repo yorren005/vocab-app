@@ -5,15 +5,6 @@ status: unread
 ---
 # vacancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being unoccupied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An empty area or space.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he filled His vacancy with his voluptuousness, Full surfeits and the dryness of his bones Call on him for’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The city cast Her people out upon her, and Antony, Enthroned i’ th’ market-place, did sit alone, Whistling to th’ air, which, but for vacancy, Had gone to gaze on Cleopatra too, And made a gap in nature."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, how is’t with you, That you do bend your eye on vacancy, And with the incorporal air do hold discourse?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being unoccupied.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An empty area or space.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he filled His vacancy with his voluptuousness, Full surfeits and the dryness of his bones Call on him for’t."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The city cast Her people out upon her, and Antony, Enthroned i’ th’ market-place, did sit alone, Whistling to th’ air, which, but for vacancy, Had gone to gaze on Cleopatra too, And made a gap in nature."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, how is’t with you, That you do bend your eye on vacancy, And with the incorporal air do hold discourse?"*

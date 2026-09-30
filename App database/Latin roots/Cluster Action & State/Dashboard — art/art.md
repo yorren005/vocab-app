@@ -5,15 +5,6 @@ status: unread
 ---
 # art
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The products of human creativity; works of art collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The creation of beautiful or significant things.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art thy mother’s glass and she in thee Calls back the lovely April of her prime, So thou through windows of thine age shalt see, Despite of wrinkles this thy golden time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For all that beauty that doth cover thee, Is but the seemly raiment of my heart, Which in thy breast doth live, as thine in me, How can I then be elder than thou art?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I tell the day to please him thou art bright, And dost him grace when clouds do blot the heaven: So flatter I the swart-complexioned night, When sparkling stars twire not thou gild’st the even."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The products of human creativity; works of art collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The creation of beautiful or significant things.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art thy mother’s glass and she in thee Calls back the lovely April of her prime, So thou through windows of thine age shalt see, Despite of wrinkles this thy golden time."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For all that beauty that doth cover thee, Is but the seemly raiment of my heart, Which in thy breast doth live, as thine in me, How can I then be elder than thou art?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I tell the day to please him thou art bright, And dost him grace when clouds do blot the heaven: So flatter I the swart-complexioned night, When sparkling stars twire not thou gild’st the even."*

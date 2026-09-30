@@ -5,15 +5,6 @@ status: unread
 ---
 # abash
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be embarrassed; cause to feel self-conscious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be embarrassed; cause to feel self-conscious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Why shrinks my soul half blushing, half afraid, Backward, abash’d to ask thy friendly aid?"*
-> - 📜 **John Milton (*Paradise Lost*):** *"To whom thus half abash’t _Adam_ repli’d."*
-> - 📜 **John Keats (*Lamia*):** *"What mortal hath a prize, that other men May be confounded and abash'd withal, But lets it sometimes pace abroad majestical, And triumph, as in thee I should rejoice Amid the hoarse alarm of Corinth's voice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be embarrassed; cause to feel self-conscious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be embarrassed; cause to feel self-conscious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Why shrinks my soul half blushing, half afraid, Backward, abash’d to ask thy friendly aid?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"To whom thus half abash’t _Adam_ repli’d."*
+> - 📜 **John Keats (*Lamia*):** *"What mortal hath a prize, that other men May be confounded and abash'd withal, But lets it sometimes pace abroad majestical, And triumph, as in thee I should rejoice Amid the hoarse alarm of Corinth's voice."*

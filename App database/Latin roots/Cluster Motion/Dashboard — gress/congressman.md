@@ -5,15 +5,6 @@ status: unread
 ---
 # congressman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the united states house of representatives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the united states house of representatives.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"I am doing well, I hope, Congressman Bloodworth."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Congressman Bloodworth dropped into a chair, crossed his short legs and began stroking his red mustache."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Congressman Bloodworth was a white man, with an abnormally large head and a frame somewhat corpulent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the united states house of representatives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the united states house of representatives.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"I am doing well, I hope, Congressman Bloodworth."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Congressman Bloodworth dropped into a chair, crossed his short legs and began stroking his red mustache."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Congressman Bloodworth was a white man, with an abnormally large head and a frame somewhat corpulent."*

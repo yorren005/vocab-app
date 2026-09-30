@@ -5,14 +5,6 @@ status: unread
 ---
 # pleb
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the common people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the common people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"The valiant pleb full-armed awakes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, I am going with my pigeons to the tribunal plebs, to take up a matter of brawl betwixt my uncle and one of the emperal’s men."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the common people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the common people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"The valiant pleb full-armed awakes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, I am going with my pigeons to the tribunal plebs, to take up a matter of brawl betwixt my uncle and one of the emperal’s men."*

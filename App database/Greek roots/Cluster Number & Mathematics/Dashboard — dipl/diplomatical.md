@@ -5,13 +5,6 @@ status: unread
 ---
 # diplomatical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Using or marked by tact in dealing with sensitive matters or people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using or marked by tact in dealing with sensitive matters or people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplomatical designates using or marked by tact in dealing with sensitive matters or people."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Using or marked by tact in dealing with sensitive matters or people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using or marked by tact in dealing with sensitive matters or people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplomatical designates using or marked by tact in dealing with sensitive matters or people."*

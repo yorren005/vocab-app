@@ -5,14 +5,6 @@ status: unread
 ---
 # unclad
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strip.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take the covers off.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"I flung the warm shawl over her, and drew the edges tight round her neck, for I dreaded lest she should get some deadly chill from the night air, unclad as she was."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Lucy always wakes prettily, and even at such a time, when her body must have been chilled with cold, and her mind somewhat appalled at waking unclad in a churchyard at night, she did not lose her grace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strip.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take the covers off.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"I flung the warm shawl over her, and drew the edges tight round her neck, for I dreaded lest she should get some deadly chill from the night air, unclad as she was."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Lucy always wakes prettily, and even at such a time, when her body must have been chilled with cold, and her mind somewhat appalled at waking unclad in a churchyard at night, she did not lose her grace."*

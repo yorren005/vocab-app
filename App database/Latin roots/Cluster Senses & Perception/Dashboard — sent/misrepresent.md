@@ -5,15 +5,6 @@ status: unread
 ---
 # misrepresent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent falsely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tamper, with the purpose of deception.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"They watch you, misrepresent you, write letters about you (anonymous sometimes), and you are the torment and the occupation of their lives."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"I had no right to misrepresent the goods to that lady."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The testimony of the serpent is significant of the illusion of error, of the false claims that misrepresent God, good."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent falsely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tamper, with the purpose of deception.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"They watch you, misrepresent you, write letters about you (anonymous sometimes), and you are the torment and the occupation of their lives."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"I had no right to misrepresent the goods to that lady."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The testimony of the serpent is significant of the illusion of error, of the false claims that misrepresent God, good."*

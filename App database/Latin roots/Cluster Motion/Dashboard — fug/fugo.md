@@ -5,13 +5,6 @@ status: unread
 ---
 # fugo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bomb carried by a balloon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bomb carried by a balloon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fugo designates a bomb carried by a balloon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bomb carried by a balloon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bomb carried by a balloon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fugo designates a bomb carried by a balloon."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # precipitating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring about abruptly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separate as a fine suspension of solid particles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hadst thou been aught but gossamer, feathers, air, So many fathom down precipitating, Thou’dst shiver’d like an egg: but thou dost breathe; Hast heavy substance; bleed’st not; speak’st; art sound."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The precipitating manner in which Captain Ahab had quitted the Samuel Enderby of London, had not been unattended with some small violence to his own person."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The precipitating manner in which Captain Ahab had quitted the Samuel Enderby of London, had not been unattended with some small violence to his own person."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring about abruptly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separate as a fine suspension of solid particles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hadst thou been aught but gossamer, feathers, air, So many fathom down precipitating, Thou’dst shiver’d like an egg: but thou dost breathe; Hast heavy substance; bleed’st not; speak’st; art sound."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The precipitating manner in which Captain Ahab had quitted the Samuel Enderby of London, had not been unattended with some small violence to his own person."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The precipitating manner in which Captain Ahab had quitted the Samuel Enderby of London, had not been unattended with some small violence to his own person."*

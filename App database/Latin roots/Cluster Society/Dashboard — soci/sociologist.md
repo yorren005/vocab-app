@@ -5,14 +5,6 @@ status: unread
 ---
 # sociologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social scientist who studies the institutions and development of human society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A social scientist who studies the institutions and development of human society.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"The occasion will be a special one, as Herr Abendgasse, a remarkable German socialist and art critic, is to deliver a lecture on ‘The True in Art.’ Be careful, in speaking of him in society, to refer to him as a sociologist, and not as a socialist."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Among the migrants were artisans and technicians, minimally to highly-skilled administrators, sociologists, teachers, scientists and engineers and, scattered among them, contemporary philosophers who preached the metaphysical."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A social scientist who studies the institutions and development of human society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A social scientist who studies the institutions and development of human society.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"The occasion will be a special one, as Herr Abendgasse, a remarkable German socialist and art critic, is to deliver a lecture on ‘The True in Art.’ Be careful, in speaking of him in society, to refer to him as a sociologist, and not as a socialist."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Among the migrants were artisans and technicians, minimally to highly-skilled administrators, sociologists, teachers, scientists and engineers and, scattered among them, contemporary philosophers who preached the metaphysical."*

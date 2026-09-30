@@ -5,15 +5,6 @@ status: unread
 ---
 # calyx
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) the whorl of sepals of a flower collectively forming the outer floral envelope or layer of the perianth enclosing and supporting the developing bud; usually green.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (botany) the whorl of sepals of a flower collectively forming the outer floral envelope or layer of the perianth enclosing and supporting the developing bud; usually green.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Her little hands were clasped, and enclosed by Sir James’s as a bud is enfolded by a liberal calyx."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"The little calyx holds the petals in such a way that the moment it turns back they are let loose."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Thickened spots at first appear on the leaves; the petioles, or flower stem, or even the calyx, become swollen and distorted; and at length the cluster-cup breaks through."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) the whorl of sepals of a flower collectively forming the outer floral envelope or layer of the perianth enclosing and supporting the developing bud; usually green.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (botany) the whorl of sepals of a flower collectively forming the outer floral envelope or layer of the perianth enclosing and supporting the developing bud; usually green.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Her little hands were clasped, and enclosed by Sir James’s as a bud is enfolded by a liberal calyx."*
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"The little calyx holds the petals in such a way that the moment it turns back they are let loose."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Thickened spots at first appear on the leaves; the petioles, or flower stem, or even the calyx, become swollen and distorted; and at length the cluster-cup breaks through."*

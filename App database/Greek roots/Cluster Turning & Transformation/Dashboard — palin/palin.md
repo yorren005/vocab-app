@@ -5,13 +5,6 @@ status: unread
 ---
 # palin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sarah (Louise) 1964— née Heath American politician.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sarah (Louise) 1964— née Heath American politician.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"By HENRY PALIN GURNEY, M.A., Clare College, Cambridge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sarah (Louise) 1964— née Heath American politician.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sarah (Louise) 1964— née Heath American politician.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"By HENRY PALIN GURNEY, M.A., Clare College, Cambridge."*

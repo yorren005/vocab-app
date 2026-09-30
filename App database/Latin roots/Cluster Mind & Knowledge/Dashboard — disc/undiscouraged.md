@@ -5,14 +5,6 @@ status: unread
 ---
 # undiscouraged
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deterred; - osbert sitwell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deterred; - osbert sitwell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Rattle, rattle, went the small sound, undiscouraged."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"It has never ceased to rejoice in the labors of the determined, undiscouraged man who amidst manifold labors and difficulties, worked, waited and prayed seven years, like Jacob of old."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deterred; - osbert sitwell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deterred; - osbert sitwell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Rattle, rattle, went the small sound, undiscouraged."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"It has never ceased to rejoice in the labors of the determined, undiscouraged man who amidst manifold labors and difficulties, worked, waited and prayed seven years, like Jacob of old."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # vincible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Susceptible to being defeated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptible to being defeated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vincible designates susceptible to being defeated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Susceptible to being defeated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptible to being defeated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vincible designates susceptible to being defeated."*

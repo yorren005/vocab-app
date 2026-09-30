@@ -5,15 +5,6 @@ status: unread
 ---
 # mortified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Practice self-denial of one's body and appetites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hold within limits and control.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou, like an exorcist, hast conjur’d up My mortified spirit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My loving lord, Dumaine is mortified."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Revenges burn in them; for their dear causes Would to the bleeding and the grim alarm Excite the mortified man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Practice self-denial of one's body and appetites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hold within limits and control.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou, like an exorcist, hast conjur’d up My mortified spirit."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My loving lord, Dumaine is mortified."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Revenges burn in them; for their dear causes Would to the bleeding and the grim alarm Excite the mortified man."*

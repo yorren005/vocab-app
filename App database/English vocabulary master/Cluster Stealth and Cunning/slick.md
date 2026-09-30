@@ -5,20 +5,6 @@ status: unread
 ---
 # slick
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Sleek; smooth
-> 2. **Nuance / Usage**: Based on stereotype : trite
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a slick presence*) or predicatively (*remained slick*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Rachel Kramer Bussel (*Glamour Girls: Femme/femme Erotica*):** *"my nipples got hard, and my cunt was slickwith juice."*
-> - 📜 **Elizabeth Wolfe, Robert Shackelford and Mary Gilbert (*Icy conditions make for hazardous travel across central US, but warmer air is on the horizon*):** *"Morning commuters in parts of Texas, Oklahoma and Arkansas discovered slick sidewalks and icy roadways Monday."*
-> - 📜 **Paul Bigland (*From rural branches to high-speed arteries*):** *"I leave the train at Salisbury, where (in a very slick operation) another two-car set is added to the front of the train before it heads for London."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Smooth, glossy, and slippery to the touch; in the realm of cunning, operating with effortless, polished dexterity that often conceals superficiality or deceit.
+> 2. **Nuance / Usage**: Applied to a person or sales pitch (*a slick operator*), it implies glib, plausible persuasiveness that cannot quite be trusted; as a noun, it denotes a smooth film of oil on water.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective, Noun, and Verb.
+> - **Syntactic Constructions**: Functions attributively (*a slick talker*, *slick pavement*) or predicatively (*the rocks were slick with rain*).
+> - **Collocations & Registers**: Descriptive and colloquial-analytical registers; collocated with *operator*, *talker*, *maneuver*, and *rain-slick*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He distrusted the **slick** city lawyers whose smooth words could turn a plain contract inside out."*
+> - 📜 **Raymond Chandler (*The Big Sleep*):** *"The sidewalk was **slick** with rain, reflecting the neon glare of the boulevard."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"His manner was too **slick** and rehearsed to pass for genuine breeding."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # antheridium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The male sex organ of spore-producing plants; produces antherozoids; equivalent to the anther in flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The male sex organ of spore-producing plants; produces antherozoids; equivalent to the anther in flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This gonosphere having been formed, a straight tube shoots out from the antheridium which perforates the wall of the oogonium, passes through the fluid which surrounds the gonosphere, elongating itself until it touches that body."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"It may be observed that the extremity of the tube which proceeds from the antheridium does not open, and the fecundation, if such it be, is produced solely by contact."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The male sex organ of spore-producing plants; produces antherozoids; equivalent to the anther in flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The male sex organ of spore-producing plants; produces antherozoids; equivalent to the anther in flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This gonosphere having been formed, a straight tube shoots out from the antheridium which perforates the wall of the oogonium, passes through the fluid which surrounds the gonosphere, elongating itself until it touches that body."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"It may be observed that the extremity of the tube which proceeds from the antheridium does not open, and the fecundation, if such it be, is produced solely by contact."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # lactosuria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Presence of lactose in the urine; can occur during pregnancy or lactation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presence of lactose in the urine; can occur during pregnancy or lactation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactosuria designates presence of lactose in the urine; can occur during pregnancy or lactation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Presence of lactose in the urine; can occur during pregnancy or lactation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presence of lactose in the urine; can occur during pregnancy or lactation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactosuria designates presence of lactose in the urine; can occur during pregnancy or lactation."*

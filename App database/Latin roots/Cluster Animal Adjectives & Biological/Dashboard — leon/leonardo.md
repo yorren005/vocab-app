@@ -5,15 +5,6 @@ status: unread
 ---
 # leonardo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian painter and sculptor and engineer and scientist and architect; the most versatile genius of the italian renaissance (1452-1519).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian painter and sculptor and engineer and scientist and architect; the most versatile genius of the italian renaissance (1452-1519).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Bassanio with Leonardo and a follower or two."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray thee, good Leonardo, think on this."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Leonardo da Vinci (b. at Vinci, in the Val d’Arno, below Florence, 1452); “in him the two lines of artistic descent, tracing from classic Rome and Christian Byzantium, meet.”--Heaton’s ‘History of Painting’."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian painter and sculptor and engineer and scientist and architect; the most versatile genius of the italian renaissance (1452-1519).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian painter and sculptor and engineer and scientist and architect; the most versatile genius of the italian renaissance (1452-1519).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Bassanio with Leonardo and a follower or two."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray thee, good Leonardo, think on this."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Leonardo da Vinci (b. at Vinci, in the Val d’Arno, below Florence, 1452); “in him the two lines of artistic descent, tracing from classic Rome and Christian Byzantium, meet.”--Heaton’s ‘History of Painting’."*

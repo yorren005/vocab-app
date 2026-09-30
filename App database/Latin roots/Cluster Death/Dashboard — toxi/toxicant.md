@@ -5,13 +5,6 @@ status: unread
 ---
 # toxicant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that causes injury or illness or death of a living organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the qualities or effects of a poison.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxicant designates any substance that causes injury or illness or death of a living organism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that causes injury or illness or death of a living organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the qualities or effects of a poison.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxicant designates any substance that causes injury or illness or death of a living organism."*

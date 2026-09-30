@@ -5,15 +5,6 @@ status: unread
 ---
 # month
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the twelve divisions of the calendar year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A time unit of approximately 30 days.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, she would hang on him As if increase of appetite had grown By what it fed on; and yet, within a month— Let me not think on’t—Frailty, thy name is woman!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A little month, or ere those shoes were old With which she followed my poor father’s body Like Niobe, all tears.—Why she, even she— O God!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Within a month, Ere yet the salt of most unrighteous tears Had left the flushing in her galled eyes, She married."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the twelve divisions of the calendar year.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A time unit of approximately 30 days.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, she would hang on him As if increase of appetite had grown By what it fed on; and yet, within a month— Let me not think on’t—Frailty, thy name is woman!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A little month, or ere those shoes were old With which she followed my poor father’s body Like Niobe, all tears.—Why she, even she— O God!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Within a month, Ere yet the salt of most unrighteous tears Had left the flushing in her galled eyes, She married."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # unguiculata
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In former classifications a major division of mammalia comprising mammals with nails or claws; distinguished from hoofed mammals and cetaceans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In former classifications a major division of mammalia comprising mammals with nails or claws; distinguished from hoofed mammals and cetaceans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unguiculata designates in former classifications a major division of mammalia comprising mammals with nails or claws; distinguished from hoofed mammals and cetaceans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In former classifications a major division of mammalia comprising mammals with nails or claws; distinguished from hoofed mammals and cetaceans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In former classifications a major division of mammalia comprising mammals with nails or claws; distinguished from hoofed mammals and cetaceans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unguiculata designates in former classifications a major division of mammalia comprising mammals with nails or claws; distinguished from hoofed mammals and cetaceans."*

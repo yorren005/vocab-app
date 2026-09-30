@@ -5,13 +5,6 @@ status: unread
 ---
 # bastardization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declaring or rendering bastard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act that debases or corrupts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bastardization designates declaring or rendering bastard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Declaring or rendering bastard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act that debases or corrupts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bastardization designates declaring or rendering bastard."*

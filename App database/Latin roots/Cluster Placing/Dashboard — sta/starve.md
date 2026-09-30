@@ -5,15 +5,6 @@ status: unread
 ---
 # starve
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be hungry; go without food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Die of food deprivation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His company must do his minions grace, Whilst I at home starve for a merry look."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Better it is to die, better to starve, Than crave the hire which first we do deserve."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I sup upon myself And so shall starve with feeding."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be hungry; go without food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Die of food deprivation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His company must do his minions grace, Whilst I at home starve for a merry look."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Better it is to die, better to starve, Than crave the hire which first we do deserve."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I sup upon myself And so shall starve with feeding."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # archaeozoic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The time from 3,800 million years to 2,500 million years ago; earth's crust formed; unicellular organisms are earliest forms of life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or belonging to earlier of two divisions of the precambrian era.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaeozoic designates the time from 3,800 million years to 2,500 million years ago; earth's crust formed; unicellular organisms are earliest forms of life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The time from 3,800 million years to 2,500 million years ago; earth's crust formed; unicellular organisms are earliest forms of life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or belonging to earlier of two divisions of the precambrian era.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaeozoic designates the time from 3,800 million years to 2,500 million years ago; earth's crust formed; unicellular organisms are earliest forms of life."*

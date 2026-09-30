@@ -5,14 +5,6 @@ status: unread
 ---
 # prescript
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prescribed guide for conduct or action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prescribed guide for conduct or action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not exceed The prescript of this scroll."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Me well; which is the prescript praise and perfection of a good and particular mistress."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prescribed guide for conduct or action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prescribed guide for conduct or action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not exceed The prescript of this scroll."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Me well; which is the prescript praise and perfection of a good and particular mistress."*

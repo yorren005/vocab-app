@@ -5,15 +5,6 @@ status: unread
 ---
 # irrigation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supplying dry land with water by means of ditches etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) cleaning a wound or body organ by flushing or washing out with water or a medicated solution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Men were at work here and there—for it was the season for “taking up” the meadows, or digging the little waterways clear for the winter irrigation, and mending their banks where trodden down by the cows."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Theirs was the first irrigation we had seen, although we had little time to mark their ditches and channels by which all the hill waters flowed to the fields they had builded."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Irrigation enterprises [a] [a] 360 3."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Supplying dry land with water by means of ditches etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) cleaning a wound or body organ by flushing or washing out with water or a medicated solution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Men were at work here and there—for it was the season for “taking up” the meadows, or digging the little waterways clear for the winter irrigation, and mending their banks where trodden down by the cows."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Theirs was the first irrigation we had seen, although we had little time to mark their ditches and channels by which all the hill waters flowed to the fields they had builded."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Irrigation enterprises [a] [a] 360 3."*

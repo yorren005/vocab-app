@@ -5,15 +5,6 @@ status: unread
 ---
 # trademark
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive characteristic or attribute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formally registered symbol identifying the manufacturer or distributor of a product.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Wants to stamp his trademark on everything."*
-> - 📜 **H. B. Fyfe (*Calling World-4 of Kithgol*):** *"Raising his hands to his mouth, he emitted a wailing cry that was the trademark of the only prowling killer on The World large enough to hunt a man."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It looks like a trademark, but that is only an accident and not intentional."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive characteristic or attribute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formally registered symbol identifying the manufacturer or distributor of a product.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Wants to stamp his trademark on everything."*
+> - 📜 **H. B. Fyfe (*Calling World-4 of Kithgol*):** *"Raising his hands to his mouth, he emitted a wailing cry that was the trademark of the only prowling killer on The World large enough to hunt a man."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It looks like a trademark, but that is only an accident and not intentional."*

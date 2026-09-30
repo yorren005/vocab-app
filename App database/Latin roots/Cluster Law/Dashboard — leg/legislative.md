@@ -5,15 +5,6 @@ status: unread
 ---
 # legislative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a legislature or composed of members of a legislature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or created by legislation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Not all this variety is essential to an efficient monetary system and several of the kinds survive as the result of historical accidents (political and legislative)."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A first simple legislative act fixing the rate of tolls for boats was sufficient."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The change was not brought about without long and strenuous agitation and effort, educational and legislative, as is in part described below. § 14. #Consolidation of railroads#."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a legislature or composed of members of a legislature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or created by legislation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Not all this variety is essential to an efficient monetary system and several of the kinds survive as the result of historical accidents (political and legislative)."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A first simple legislative act fixing the rate of tolls for boats was sufficient."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The change was not brought about without long and strenuous agitation and effort, educational and legislative, as is in part described below. § 14. #Consolidation of railroads#."*

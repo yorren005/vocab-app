@@ -5,15 +5,6 @@ status: unread
 ---
 # joining
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of bringing two things into contact (especially for communication).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become part of; become a member of a group or organization.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Both parties will only gain in respect by joining." "I do not believe that people in the city will be interested in what the three boys are doing," said Mrs."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She lost no time in telling her hostess that she counted on Baron Salo's son joining the other three lads in town and that her husband had agreed to look up another room for him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Krook good morning and joining my friends outside, where we parted with the little old lady, who gave us her blessing with great ceremony and renewed her assurance of yesterday in reference to her intention of settling estates on Ada and me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of bringing two things into contact (especially for communication).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become part of; become a member of a group or organization.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Both parties will only gain in respect by joining." "I do not believe that people in the city will be interested in what the three boys are doing," said Mrs."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She lost no time in telling her hostess that she counted on Baron Salo's son joining the other three lads in town and that her husband had agreed to look up another room for him."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Krook good morning and joining my friends outside, where we parted with the little old lady, who gave us her blessing with great ceremony and renewed her assurance of yesterday in reference to her intention of settling estates on Ada and me."*

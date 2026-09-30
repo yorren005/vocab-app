@@ -5,15 +5,6 @@ status: unread
 ---
 # dispensation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exemption from some rule or obligation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A share that has been dispensed or distributed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet a dispensation may be had."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, thus much I have learned: He rather means to lodge you in the field, Like one that comes here to besiege his court, Than seek a dispensation for his oath, To let you enter his unpeopled house."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell adds—only “almost” because it borders on impiety to suppose that anything could be better than it is, in such an express dispensation as the Dedlock affairs—“that my Lady has no family."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exemption from some rule or obligation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A share that has been dispensed or distributed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet a dispensation may be had."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, thus much I have learned: He rather means to lodge you in the field, Like one that comes here to besiege his court, Than seek a dispensation for his oath, To let you enter his unpeopled house."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell adds—only “almost” because it borders on impiety to suppose that anything could be better than it is, in such an express dispensation as the Dedlock affairs—“that my Lady has no family."*

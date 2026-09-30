@@ -5,15 +5,6 @@ status: unread
 ---
 # lenient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tolerant or lenient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not strict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Nothing more, Rick; nothing more.” “And you, being a good man, can pass it as such, and forgive and pity the dreamer, and be lenient and encouraging when he wakes?” “Indeed I can."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"His examination of individual students was lenient in the extreme."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"But in other points, as well as this, I was growing very lenient to my master: I was forgetting all his faults, for which I had once kept a sharp look-out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tolerant or lenient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not strict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Nothing more, Rick; nothing more.” “And you, being a good man, can pass it as such, and forgive and pity the dreamer, and be lenient and encouraging when he wakes?” “Indeed I can."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"His examination of individual students was lenient in the extreme."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"But in other points, as well as this, I was growing very lenient to my master: I was forgetting all his faults, for which I had once kept a sharp look-out."*

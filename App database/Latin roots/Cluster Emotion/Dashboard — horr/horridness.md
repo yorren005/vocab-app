@@ -5,13 +5,6 @@ status: unread
 ---
 # horridness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quality of extreme unpleasantness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality of extreme unpleasantness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, horridness designates a quality of extreme unpleasantness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quality of extreme unpleasantness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality of extreme unpleasantness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, horridness designates a quality of extreme unpleasantness."*

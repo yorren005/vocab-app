@@ -5,15 +5,6 @@ status: unread
 ---
 # hermitage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The abode of a hermit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The abode of a hermit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Lines Written In Friars’-Carse Hermitage Glenriddel Hermitage, June 28th, 1788."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Written In Friar’s-Carse Hermitage On Nithside Thou whom chance may hither lead, Be thou clad in russet weed, Be thou deckt in silken stole, Grave these counsels on thy soul."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Inscription At Friars’ Carse Hermitage To the Memory of Robert Riddell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The abode of a hermit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The abode of a hermit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Lines Written In Friars’-Carse Hermitage Glenriddel Hermitage, June 28th, 1788."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Written In Friar’s-Carse Hermitage On Nithside Thou whom chance may hither lead, Be thou clad in russet weed, Be thou deckt in silken stole, Grave these counsels on thy soul."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Inscription At Friars’ Carse Hermitage To the Memory of Robert Riddell."*

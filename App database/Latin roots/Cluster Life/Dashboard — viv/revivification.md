@@ -5,14 +5,6 @@ status: unread
 ---
 # revivification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bringing again into activity and prominence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bringing again into activity and prominence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But the transference of the shirt worn by the effigy of Death to the tree clearly indicates that the tree is a kind of revivification, in a new form, of the destroyed effigy."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But we have seen that the Summer-tree is in some cases a revivification of the effigy of Death."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bringing again into activity and prominence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bringing again into activity and prominence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But the transference of the shirt worn by the effigy of Death to the tree clearly indicates that the tree is a kind of revivification, in a new form, of the destroyed effigy."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But we have seen that the Summer-tree is in some cases a revivification of the effigy of Death."*

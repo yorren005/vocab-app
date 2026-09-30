@@ -5,15 +5,6 @@ status: unread
 ---
 # eventide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The latter part of the day (the period of decreasing daylight from late afternoon until nightfall).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The latter part of the day (the period of decreasing daylight from late afternoon until nightfall).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Though the overshadowing trees and the approach of eventide enveloped them in gloom, Bathsheba could see plainly enough to discern the extreme poverty of the woman’s garb, and the sadness of her face."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I cannot tell what sentiment haunted the quite solitary churchyard, with its inscribed headstone; its gate, its two trees, its low horizon, girdled by a broken wall, and its newly-risen crescent, attesting the hour of eventide."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Having brought my eventide musings to this point, I rose, went to my door, and looked at the sunset of the harvest-day, and at the quiet fields before my cottage, which, with the school, was distant half a mile from the village."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The latter part of the day (the period of decreasing daylight from late afternoon until nightfall).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The latter part of the day (the period of decreasing daylight from late afternoon until nightfall).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Though the overshadowing trees and the approach of eventide enveloped them in gloom, Bathsheba could see plainly enough to discern the extreme poverty of the woman’s garb, and the sadness of her face."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I cannot tell what sentiment haunted the quite solitary churchyard, with its inscribed headstone; its gate, its two trees, its low horizon, girdled by a broken wall, and its newly-risen crescent, attesting the hour of eventide."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Having brought my eventide musings to this point, I rose, went to my door, and looked at the sunset of the harvest-day, and at the quiet fields before my cottage, which, with the school, was distant half a mile from the village."*

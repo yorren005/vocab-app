@@ -5,15 +5,6 @@ status: unread
 ---
 # maladjustment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being unable to adapt properly to your environment with resulting emotional instability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being unable to adapt properly to your environment with resulting emotional instability.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Maladjustment of wages causing unemployment. § 16."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Individual maladjustment in finding jobs, § 17."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is pretty generally agreed that unemployment is essentially a problem of maladjustment of the labor supply, and not that of an absolutely and permanently redundant supply."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being unable to adapt properly to your environment with resulting emotional instability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being unable to adapt properly to your environment with resulting emotional instability.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Maladjustment of wages causing unemployment. § 16."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Individual maladjustment in finding jobs, § 17."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is pretty generally agreed that unemployment is essentially a problem of maladjustment of the labor supply, and not that of an absolutely and permanently redundant supply."*

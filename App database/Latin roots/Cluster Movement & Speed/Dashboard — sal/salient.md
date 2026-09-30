@@ -5,15 +5,6 @@ status: unread
 ---
 # salient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (military) the part of the line of battle that projects closest to the enemy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a quality that thrusts itself into attention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Cobwebs revealed their presence on sheds and walls where none had ever been observed till brought out into visibility by the crystallizing atmosphere, hanging like loops of white worsted from salient points of the out-houses, posts, and gates."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A large volume of discussion on this subject has developed, mostly of an _a priori_ nature, of which we may here touch only a few of the salient points."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There are people who seem to have no notion of sketching a character, or observing and describing salient points, either in persons or things: the good lady evidently belonged to this class; my queries puzzled, but did not draw her out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (military) the part of the line of battle that projects closest to the enemy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a quality that thrusts itself into attention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Cobwebs revealed their presence on sheds and walls where none had ever been observed till brought out into visibility by the crystallizing atmosphere, hanging like loops of white worsted from salient points of the out-houses, posts, and gates."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A large volume of discussion on this subject has developed, mostly of an _a priori_ nature, of which we may here touch only a few of the salient points."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There are people who seem to have no notion of sketching a character, or observing and describing salient points, either in persons or things: the good lady evidently belonged to this class; my queries puzzled, but did not draw her out."*

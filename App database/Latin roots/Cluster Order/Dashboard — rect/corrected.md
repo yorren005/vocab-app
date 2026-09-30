@@ -5,15 +5,6 @@ status: unread
 ---
 # corrected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make right or correct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make reparations or amends for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To your corrected son? [_He raises her up._] Then let the pebbles on the hungry beach Fillip the stars!"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I wish she would stay sick for a while--of course not awfully sick," he corrected himself rapidly, "I mean just sick enough so that your mother would not let her go."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I did not say that he was bad, Mäzli, I only said that he can give orders," Apollonie corrected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make right or correct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make reparations or amends for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To your corrected son? [_He raises her up._] Then let the pebbles on the hungry beach Fillip the stars!"*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I wish she would stay sick for a while--of course not awfully sick," he corrected himself rapidly, "I mean just sick enough so that your mother would not let her go."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I did not say that he was bad, Mäzli, I only said that he can give orders," Apollonie corrected."*

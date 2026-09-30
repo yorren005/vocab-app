@@ -5,15 +5,6 @@ status: unread
 ---
 # resplendent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having great beauty and splendor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having great beauty and splendor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There is no escaping her, that eternal, splendid, ever-resplendent figure of woman."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And though the stars drift, and the heavens lie, ever remains woman, resplendent, eternal, the one woman, as I, under all my masquerades and misadventures, am the one man, her mate."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The flashing cascade of his mane, the curving comet of his tail, invested him with housings more resplendent than gold and silver-beaters could have furnished him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having great beauty and splendor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having great beauty and splendor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There is no escaping her, that eternal, splendid, ever-resplendent figure of woman."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And though the stars drift, and the heavens lie, ever remains woman, resplendent, eternal, the one woman, as I, under all my masquerades and misadventures, am the one man, her mate."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The flashing cascade of his mane, the curving comet of his tail, invested him with housings more resplendent than gold and silver-beaters could have furnished him."*

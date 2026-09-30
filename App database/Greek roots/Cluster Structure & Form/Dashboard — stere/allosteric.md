@@ -5,13 +5,6 @@ status: unread
 ---
 # allosteric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, undergoing, or being a change in the shape and activity of a protein (such as an enzyme) that results from combination with another substance at a point other than the chemically active site.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, undergoing, or being a change in the shape and activity of a protein (such as an enzyme) that results from combination with another substance at a point other than the chemically active site.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allosteric designates of, relating to, undergoing, or being a change in the shape and activity of a protein (such as an enzyme) that results from combination with another substance at a point other than the chemically active site."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, undergoing, or being a change in the shape and activity of a protein (such as an enzyme) that results from combination with another substance at a point other than the chemically active site.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, undergoing, or being a change in the shape and activity of a protein (such as an enzyme) that results from combination with another substance at a point other than the chemically active site.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allosteric designates of, relating to, undergoing, or being a change in the shape and activity of a protein (such as an enzyme) that results from combination with another substance at a point other than the chemically active site."*

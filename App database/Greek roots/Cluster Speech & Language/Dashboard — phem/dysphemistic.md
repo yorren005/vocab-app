@@ -5,13 +5,6 @@ status: unread
 ---
 # dysphemistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Substitute a harsher or distasteful term for a mild one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Substitute a harsher or distasteful term for a mild one.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysphemistic designates substitute a harsher or distasteful term for a mild one."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Substitute a harsher or distasteful term for a mild one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Substitute a harsher or distasteful term for a mild one.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysphemistic designates substitute a harsher or distasteful term for a mild one."*

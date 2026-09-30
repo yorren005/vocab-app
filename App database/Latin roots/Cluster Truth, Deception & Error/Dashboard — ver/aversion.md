@@ -5,15 +5,6 @@ status: unread
 ---
 # aversion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of intense dislike.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of turning yourself (or your gaze) away.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But why should such a fair and dutiful girl have such an aversion to her father’s sex?” “Go on your way, please.” “What, Beauty, and drag you after me?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That is a noble though perhaps an unpromising love which not even the fear of breeding aversion in the bosom of the one beloved can deter from combating his or her errors."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was a simple physical fear—the weak of the strong; there was no emotional aversion or inner repugnance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of intense dislike.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of turning yourself (or your gaze) away.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But why should such a fair and dutiful girl have such an aversion to her father’s sex?” “Go on your way, please.” “What, Beauty, and drag you after me?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That is a noble though perhaps an unpromising love which not even the fear of breeding aversion in the bosom of the one beloved can deter from combating his or her errors."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was a simple physical fear—the weak of the strong; there was no emotional aversion or inner repugnance."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # legionella
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The motile aerobic rod-shaped gram-negative bacterium that thrives in central heating and air conditioning systems and can cause legionnaires' disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The motile aerobic rod-shaped gram-negative bacterium that thrives in central heating and air conditioning systems and can cause legionnaires' disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, legionella designates the motile aerobic rod-shaped gram-negative bacterium that thrives in central heating and air conditioning systems and can cause legionnaires' disease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The motile aerobic rod-shaped gram-negative bacterium that thrives in central heating and air conditioning systems and can cause legionnaires' disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The motile aerobic rod-shaped gram-negative bacterium that thrives in central heating and air conditioning systems and can cause legionnaires' disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, legionella designates the motile aerobic rod-shaped gram-negative bacterium that thrives in central heating and air conditioning systems and can cause legionnaires' disease."*

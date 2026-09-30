@@ -5,15 +5,6 @@ status: unread
 ---
 # nonpareil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Model of excellence or perfection of a kind; one having no equal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colored beads of sugar used as a topping on e.g. candies and cookies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So doth my wife The nonpareil of this."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art the best o’ th’ cut-throats; Yet he’s good that did the like for Fleance: If thou didst it, thou art the nonpareil."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And that most deeply to consider is The beauty of his daughter; he himself Calls her a nonpareil: I never saw a woman But only Sycorax my dam and she; But she as far surpasseth Sycorax As great’st does least."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Model of excellence or perfection of a kind; one having no equal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colored beads of sugar used as a topping on e.g. candies and cookies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So doth my wife The nonpareil of this."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art the best o’ th’ cut-throats; Yet he’s good that did the like for Fleance: If thou didst it, thou art the nonpareil."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And that most deeply to consider is The beauty of his daughter; he himself Calls her a nonpareil: I never saw a woman But only Sycorax my dam and she; But she as far surpasseth Sycorax As great’st does least."*

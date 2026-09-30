@@ -5,13 +5,6 @@ status: unread
 ---
 # hals
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dutch portrait and genre painter who endowed his portraits with vitality and humor (1580?-1666).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dutch portrait and genre painter who endowed his portraits with vitality and humor (1580?-1666).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hals designates dutch portrait and genre painter who endowed his portraits with vitality and humor (1580?-1666)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dutch portrait and genre painter who endowed his portraits with vitality and humor (1580?-1666).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dutch portrait and genre painter who endowed his portraits with vitality and humor (1580?-1666).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hals designates dutch portrait and genre painter who endowed his portraits with vitality and humor (1580?-1666)."*

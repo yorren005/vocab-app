@@ -5,13 +5,6 @@ status: unread
 ---
 # communise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make communist or bring in accord with communist principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make into property owned by the state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, communise designates make communist or bring in accord with communist principles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make communist or bring in accord with communist principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make into property owned by the state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, communise designates make communist or bring in accord with communist principles."*

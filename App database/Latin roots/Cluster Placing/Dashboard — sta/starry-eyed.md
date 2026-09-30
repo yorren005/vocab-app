@@ -5,13 +5,6 @@ status: unread
 ---
 # starry-eyed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unrealistically or naively optimistic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrealistically or naively optimistic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, starry-eyed designates unrealistically or naively optimistic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unrealistically or naively optimistic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrealistically or naively optimistic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, starry-eyed designates unrealistically or naively optimistic."*

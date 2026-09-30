@@ -5,13 +5,6 @@ status: unread
 ---
 # encaustic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A paint made from pigment mixed with melted beeswax and resin and after application fixed by heat; also : the method involving the use of encaustic or a work produced by this method.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A paint made from pigment mixed with melted beeswax and resin and after application fixed by heat; also : the method involving the use of encaustic or a work produced by this method.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"After completion of laconic epistolary compositions she abandoned the implement of calligraphy in the encaustic pigment, exposed to the corrosive action of copperas, green vitriol and nutgall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A paint made from pigment mixed with melted beeswax and resin and after application fixed by heat; also : the method involving the use of encaustic or a work produced by this method.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A paint made from pigment mixed with melted beeswax and resin and after application fixed by heat; also : the method involving the use of encaustic or a work produced by this method.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"After completion of laconic epistolary compositions she abandoned the implement of calligraphy in the encaustic pigment, exposed to the corrosive action of copperas, green vitriol and nutgall."*

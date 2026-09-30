@@ -5,15 +5,6 @@ status: unread
 ---
 # converse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A proposition obtained by conversion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carry on a conversation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did you converse, sir, with this gentlewoman?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Walk with me; speak freely. [_Cymbeline and Imogen converse apart._] BELARIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, let them practice and converse with spirits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proposition obtained by conversion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carry on a conversation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did you converse, sir, with this gentlewoman?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Walk with me; speak freely. [_Cymbeline and Imogen converse apart._] BELARIUS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, let them practice and converse with spirits."*

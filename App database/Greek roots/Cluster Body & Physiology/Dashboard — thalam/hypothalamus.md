@@ -5,13 +5,6 @@ status: unread
 ---
 # hypothalamus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A basal part of the diencephalon that lies beneath the thalamus on each side, forms the floor of the third ventricle, and includes vital autonomic regulatory centers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A basal part of the diencephalon that lies beneath the thalamus on each side, forms the floor of the third ventricle, and includes vital autonomic regulatory centers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypothalamus designates a basal part of the diencephalon that lies beneath the thalamus on each side, forms the floor of the third ventricle, and includes vital autonomic regulatory centers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A basal part of the diencephalon that lies beneath the thalamus on each side, forms the floor of the third ventricle, and includes vital autonomic regulatory centers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A basal part of the diencephalon that lies beneath the thalamus on each side, forms the floor of the third ventricle, and includes vital autonomic regulatory centers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypothalamus designates a basal part of the diencephalon that lies beneath the thalamus on each side, forms the floor of the third ventricle, and includes vital autonomic regulatory centers."*

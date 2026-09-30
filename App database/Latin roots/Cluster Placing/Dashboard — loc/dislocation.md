@@ -5,15 +5,6 @@ status: unread
 ---
 # dislocation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that results in a displacement or discontinuity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of disrupting an established order so it fails to continue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It was brought on by a fall, and a consequent dislocation, when she was eight years of age."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Many of the ivory inlayings of her bulwarks and cabins were started from their places, by the unnatural dislocation."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But when they had marched for about an hour in the dense fog, the greater part of the men had to halt and an unpleasant consciousness of some dislocation and blunder spread through the ranks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that results in a displacement or discontinuity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of disrupting an established order so it fails to continue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"It was brought on by a fall, and a consequent dislocation, when she was eight years of age."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Many of the ivory inlayings of her bulwarks and cabins were started from their places, by the unnatural dislocation."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But when they had marched for about an hour in the dense fog, the greater part of the men had to halt and an unpleasant consciousness of some dislocation and blunder spread through the ranks."*

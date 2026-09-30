@@ -5,15 +5,6 @@ status: unread
 ---
 # rejoinder
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quick reply to a question or remark (especially a witty or critical one).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a pleading made by a defendant in response to the plaintiff's replication.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I have come with that sole purpose in view—nothing more.” There was the smallest vein of scorn in her words of rejoinder: “Have you saved yourself?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Madam, I should like some tea,” was the sole rejoinder she got."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I've been lectured enough for one day," was her ungracious rejoinder; and he closed the door, and went away."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quick reply to a question or remark (especially a witty or critical one).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a pleading made by a defendant in response to the plaintiff's replication.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I have come with that sole purpose in view—nothing more.” There was the smallest vein of scorn in her words of rejoinder: “Have you saved yourself?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Madam, I should like some tea,” was the sole rejoinder she got."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I've been lectured enough for one day," was her ungracious rejoinder; and he closed the door, and went away."*

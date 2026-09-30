@@ -5,15 +5,6 @@ status: unread
 ---
 # deceptive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing one to believe what is not true or fail to believe what is true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to deceive or mislead either deliberately or inadvertently.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Nor was I unmindful of that deceptive moonlight."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At any rate—though indeed such a test at such a time might be deceptive—spoutings might be discovered from our low boat that seemed playing up almost from the rim of the horizon."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But appearances all the world over are deceptive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing one to believe what is not true or fail to believe what is true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to deceive or mislead either deliberately or inadvertently.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Nor was I unmindful of that deceptive moonlight."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At any rate—though indeed such a test at such a time might be deceptive—spoutings might be discovered from our low boat that seemed playing up almost from the rim of the horizon."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But appearances all the world over are deceptive."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # ethician
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosopher who specializes in ethics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A philosopher who specializes in ethics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethician designates a philosopher who specializes in ethics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosopher who specializes in ethics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A philosopher who specializes in ethics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ethician designates a philosopher who specializes in ethics."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # coping
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brick that is laid sideways at the top of a wall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come to terms with.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here’s a marble headstone beautifully crocketed, with medallions beneath of typical subjects; here’s the footstone after the same pattern, and here’s the coping to enclose the grave."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The snowdrops were arranged in a line on the outside of the coping, the remainder within the enclosure of the grave."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Looking that way she beheld a form springing from the coping to the plot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brick that is laid sideways at the top of a wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come to terms with.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here’s a marble headstone beautifully crocketed, with medallions beneath of typical subjects; here’s the footstone after the same pattern, and here’s the coping to enclose the grave."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The snowdrops were arranged in a line on the outside of the coping, the remainder within the enclosure of the grave."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Looking that way she beheld a form springing from the coping to the plot."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # primacy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being first in importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being first in importance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"And in the sect--fairly large and yet unusually choice--of Austenians or Janites, there would probably be found partisans of the claim to primacy of almost every one of the novels."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Above and beyond them all, unsleeping, ever-solicitous, unerring, is the Pilot of their bark, the Charterer of their course, the Founder of their spiritual fellowship, the Bestower of that primacy which is the hallmark of their destiny."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"It was to the members of this community that He subsequently addressed His Tablets of the Divine Plan, investing it with a spiritual primacy, and singling it out for a glorious mission among its sister communities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being first in importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being first in importance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"And in the sect--fairly large and yet unusually choice--of Austenians or Janites, there would probably be found partisans of the claim to primacy of almost every one of the novels."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Above and beyond them all, unsleeping, ever-solicitous, unerring, is the Pilot of their bark, the Charterer of their course, the Founder of their spiritual fellowship, the Bestower of that primacy which is the hallmark of their destiny."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"It was to the members of this community that He subsequently addressed His Tablets of the Divine Plan, investing it with a spiritual primacy, and singling it out for a glorious mission among its sister communities."*

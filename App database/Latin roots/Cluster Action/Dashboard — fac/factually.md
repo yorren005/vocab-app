@@ -5,13 +5,6 @@ status: unread
 ---
 # factually
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As a fact or based on fact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a fact or based on fact.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, factually designates as a fact or based on fact."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As a fact or based on fact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a fact or based on fact.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, factually designates as a fact or based on fact."*

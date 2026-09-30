@@ -5,13 +5,6 @@ status: unread
 ---
 # undecomposable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing the furthest possible extent of analysis or division into parts; - g.s.brett; -m.r.cohen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing the furthest possible extent of analysis or division into parts; - g.s.brett; -m.r.cohen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"But mind, whether it be diamond, or black-lead, or this porous charcoal, each and all have the same chemical composition; they are what we call the elementary undecomposable substance carbon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing the furthest possible extent of analysis or division into parts; - g.s.brett; -m.r.cohen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing the furthest possible extent of analysis or division into parts; - g.s.brett; -m.r.cohen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"But mind, whether it be diamond, or black-lead, or this porous charcoal, each and all have the same chemical composition; they are what we call the elementary undecomposable substance carbon."*

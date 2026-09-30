@@ -5,13 +5,6 @@ status: unread
 ---
 # scapula
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two flat triangular bones one on each side of the shoulder in human beings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two flat triangular bones one on each side of the shoulder in human beings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In his address to Scapula[63] he says that the first governor to draw the sword on the Christians of Africa was Vigellius Saturninus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two flat triangular bones one on each side of the shoulder in human beings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two flat triangular bones one on each side of the shoulder in human beings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In his address to Scapula[63] he says that the first governor to draw the sword on the Christians of Africa was Vigellius Saturninus."*

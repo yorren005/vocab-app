@@ -5,13 +5,6 @@ status: unread
 ---
 # dicamptodon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Salamanders found near cold streams throughout the year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Salamanders found near cold streams throughout the year.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicamptodon designates salamanders found near cold streams throughout the year."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Salamanders found near cold streams throughout the year.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Salamanders found near cold streams throughout the year.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicamptodon designates salamanders found near cold streams throughout the year."*

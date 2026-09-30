@@ -5,13 +5,6 @@ status: unread
 ---
 # glaucium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbs of europe and north africa and asia: horned poppy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbs of europe and north africa and asia: horned poppy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glaucium designates herbs of europe and north africa and asia: horned poppy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbs of europe and north africa and asia: horned poppy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbs of europe and north africa and asia: horned poppy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glaucium designates herbs of europe and north africa and asia: horned poppy."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # ideogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A picture or symbol used in a system of writing to represent a thing or an idea but not a particular word or phrase for it; especially : one that represents not the object pictured but some thing or idea that the object pictured is supposed to suggest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A picture or symbol used in a system of writing to represent a thing or an idea but not a particular word or phrase for it; especially : one that represents not the object pictured but some thing or idea that the object pictured is supposed to suggest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ideogram designates a picture or symbol used in a system of writing to represent a thing or an idea but not a particular word or phrase for it; especially : one that represents not the object pictured but some thing or idea that the object pictured is supposed to suggest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A picture or symbol used in a system of writing to represent a thing or an idea but not a particular word or phrase for it; especially : one that represents not the object pictured but some thing or idea that the object pictured is supposed to suggest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A picture or symbol used in a system of writing to represent a thing or an idea but not a particular word or phrase for it; especially : one that represents not the object pictured but some thing or idea that the object pictured is supposed to suggest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ideogram designates a picture or symbol used in a system of writing to represent a thing or an idea but not a particular word or phrase for it; especially : one that represents not the object pictured but some thing or idea that the object pictured is supposed to suggest."*

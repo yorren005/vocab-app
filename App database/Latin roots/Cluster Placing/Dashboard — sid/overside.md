@@ -5,14 +5,6 @@ status: unread
 ---
 # overside
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Over the side of a boat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Over the side of a boat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Poul Anderson (*The Valor of Cappen Varra*):** *"Who will go?" They peered overside, and the uneasy movement that ran among them came from more than the roll and pitch of the deck underfoot."*
-> - 📜 **Poul Anderson (*The Valor of Cappen Varra*):** *"Weariness fell from him, and he leaped overside, not feeling the chill of the shallows."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Over the side of a boat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Over the side of a boat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Poul Anderson (*The Valor of Cappen Varra*):** *"Who will go?" They peered overside, and the uneasy movement that ran among them came from more than the roll and pitch of the deck underfoot."*
+> - 📜 **Poul Anderson (*The Valor of Cappen Varra*):** *"Weariness fell from him, and he leaped overside, not feeling the chill of the shallows."*

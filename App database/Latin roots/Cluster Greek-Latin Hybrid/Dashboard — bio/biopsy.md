@@ -5,13 +5,6 @@ status: unread
 ---
 # biopsy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Examination of tissues or liquids from the living body to determine the existence or cause of a disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examination of tissues or liquids from the living body to determine the existence or cause of a disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biopsy designates examination of tissues or liquids from the living body to determine the existence or cause of a disease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Examination of tissues or liquids from the living body to determine the existence or cause of a disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examination of tissues or liquids from the living body to determine the existence or cause of a disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biopsy designates examination of tissues or liquids from the living body to determine the existence or cause of a disease."*

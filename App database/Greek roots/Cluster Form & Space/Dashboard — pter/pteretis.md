@@ -5,13 +5,6 @@ status: unread
 ---
 # pteretis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus sometimes included in genus onoclea; in some classifications both genera are placed in polypodiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus sometimes included in genus onoclea; in some classifications both genera are placed in polypodiaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteretis designates small genus sometimes included in genus onoclea; in some classifications both genera are placed in polypodiaceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus sometimes included in genus onoclea; in some classifications both genera are placed in polypodiaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus sometimes included in genus onoclea; in some classifications both genera are placed in polypodiaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteretis designates small genus sometimes included in genus onoclea; in some classifications both genera are placed in polypodiaceae."*

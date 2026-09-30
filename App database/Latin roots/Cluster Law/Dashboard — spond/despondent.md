@@ -5,15 +5,6 @@ status: unread
 ---
 # despondent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without or almost without hope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without or almost without hope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is all over here.” I mildly entreated him not to be despondent."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Doubting, despondent souls were always glad to visit her, to listen to her simple words of wisdom and gather strength from her invincible trust."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Your habitual expression in those days, Jane, was a thoughtful look; not despondent, for you were not sickly; but not buoyant, for you had little hope, and no actual pleasure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without or almost without hope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without or almost without hope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is all over here.” I mildly entreated him not to be despondent."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Doubting, despondent souls were always glad to visit her, to listen to her simple words of wisdom and gather strength from her invincible trust."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Your habitual expression in those days, Jane, was a thoughtful look; not despondent, for you were not sickly; but not buoyant, for you had little hope, and no actual pleasure."*

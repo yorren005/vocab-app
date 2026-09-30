@@ -5,13 +5,6 @@ status: unread
 ---
 # hypocalcemia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally low level of calcium in the blood; associated with hypoparathyroidism or kidney malfunction or vitamin d deficiency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally low level of calcium in the blood; associated with hypoparathyroidism or kidney malfunction or vitamin d deficiency.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypocalcemia designates abnormally low level of calcium in the blood; associated with hypoparathyroidism or kidney malfunction or vitamin d deficiency."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally low level of calcium in the blood; associated with hypoparathyroidism or kidney malfunction or vitamin d deficiency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally low level of calcium in the blood; associated with hypoparathyroidism or kidney malfunction or vitamin d deficiency.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypocalcemia designates abnormally low level of calcium in the blood; associated with hypoparathyroidism or kidney malfunction or vitamin d deficiency."*

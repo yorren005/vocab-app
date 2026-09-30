@@ -5,13 +5,6 @@ status: unread
 ---
 # minelayer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ship equipped for laying marine mines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ship equipped for laying marine mines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Just say that the fighters are going after the Terminals' minelayers and destroyers that just popped out through the force field's gate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ship equipped for laying marine mines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ship equipped for laying marine mines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Just say that the fighters are going after the Terminals' minelayers and destroyers that just popped out through the force field's gate."*

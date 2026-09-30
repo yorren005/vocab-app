@@ -5,15 +5,6 @@ status: unread
 ---
 # commendation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official award (as for bravery or service) usually given as formal public statement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message expressing a favorable opinion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not much commendation to them?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Albeit you have deserved High commendation, true applause, and love, Yet such is now the Duke’s condition That he misconsters all that you have done."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I come off, and leave her in such honour as you have trust in, she your jewel, this your jewel, and my gold are yours: provided I have your commendation for my more free entertainment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official award (as for bravery or service) usually given as formal public statement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message expressing a favorable opinion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not much commendation to them?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Albeit you have deserved High commendation, true applause, and love, Yet such is now the Duke’s condition That he misconsters all that you have done."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I come off, and leave her in such honour as you have trust in, she your jewel, this your jewel, and my gold are yours: provided I have your commendation for my more free entertainment."*

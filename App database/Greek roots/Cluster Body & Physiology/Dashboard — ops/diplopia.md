@@ -5,13 +5,6 @@ status: unread
 ---
 # diplopia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disorder of vision in which two images of a single object are seen (as from unequal action of the eye muscles) —called also double vision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disorder of vision in which two images of a single object are seen (as from unequal action of the eye muscles) —called also double vision.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplopia designates a disorder of vision in which two images of a single object are seen (as from unequal action of the eye muscles) —called also double vision."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disorder of vision in which two images of a single object are seen (as from unequal action of the eye muscles) —called also double vision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disorder of vision in which two images of a single object are seen (as from unequal action of the eye muscles) —called also double vision.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplopia designates a disorder of vision in which two images of a single object are seen (as from unequal action of the eye muscles) —called also double vision."*

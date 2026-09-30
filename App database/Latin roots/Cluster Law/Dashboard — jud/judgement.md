@@ -5,15 +5,6 @@ status: unread
 ---
 # judgement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The legal document stating the reasons for a judicial decision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An opinion formed by judging something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thyself thou gav’st, thy own worth then not knowing, Or me to whom thou gav’st it, else mistaking, So thy great gift upon misprision growing, Comes home again, on better judgement making."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And to be sure that is not false I swear, A thousand groans but thinking on thy face, One on another’s neck do witness bear Thy black is fairest in my judgement’s place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If eyes corrupt by over-partial looks, Be anchored in the bay where all men ride, Why of eyes’ falsehood hast thou forged hooks, Whereto the judgement of my heart is tied?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The legal document stating the reasons for a judicial decision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An opinion formed by judging something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thyself thou gav’st, thy own worth then not knowing, Or me to whom thou gav’st it, else mistaking, So thy great gift upon misprision growing, Comes home again, on better judgement making."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And to be sure that is not false I swear, A thousand groans but thinking on thy face, One on another’s neck do witness bear Thy black is fairest in my judgement’s place."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If eyes corrupt by over-partial looks, Be anchored in the bay where all men ride, Why of eyes’ falsehood hast thou forged hooks, Whereto the judgement of my heart is tied?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # Paleogene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being the earlier part of the Tertiary including the Paleocene, Eocene, and Oligocene or the corresponding series of rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being the earlier part of the Tertiary including the Paleocene, Eocene, and Oligocene or the corresponding series of rocks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Paleogene designates of, relating to, or being the earlier part of the tertiary including the paleocene, eocene, and oligocene or the corresponding series of rocks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being the earlier part of the Tertiary including the Paleocene, Eocene, and Oligocene or the corresponding series of rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being the earlier part of the Tertiary including the Paleocene, Eocene, and Oligocene or the corresponding series of rocks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Paleogene designates of, relating to, or being the earlier part of the tertiary including the paleocene, eocene, and oligocene or the corresponding series of rocks."*

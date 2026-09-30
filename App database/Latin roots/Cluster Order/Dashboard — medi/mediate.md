@@ -5,15 +5,6 @@ status: unread
 ---
 # mediate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act between parties with a view to reconciling differences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occupy an intermediate or middle position or form a connecting link or stage between two others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I wished to mediate once more."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Upon the plan of separate provisions, New York would have to sustain the whole weight of the establishments requisite to her immediate safety, and to the mediate or ultimate protection of her neighbors."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"This process of accommodation was carried out in after ages by followers who, made of less ethereal stuff than their masters, were for that reason the better fitted to mediate between them and the common herd."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Act between parties with a view to reconciling differences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occupy an intermediate or middle position or form a connecting link or stage between two others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I wished to mediate once more."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Upon the plan of separate provisions, New York would have to sustain the whole weight of the establishments requisite to her immediate safety, and to the mediate or ultimate protection of her neighbors."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"This process of accommodation was carried out in after ages by followers who, made of less ethereal stuff than their masters, were for that reason the better fitted to mediate between them and the common herd."*

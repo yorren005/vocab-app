@@ -5,13 +5,6 @@ status: unread
 ---
 # methemoglobin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soluble brown crystalline basic blood pigment that differs from hemoglobin in containing ferric iron and in being unable to combine reversibly with molecular oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soluble brown crystalline basic blood pigment that differs from hemoglobin in containing ferric iron and in being unable to combine reversibly with molecular oxygen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, methemoglobin designates a soluble brown crystalline basic blood pigment that differs from hemoglobin in containing ferric iron and in being unable to combine reversibly with molecular oxygen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soluble brown crystalline basic blood pigment that differs from hemoglobin in containing ferric iron and in being unable to combine reversibly with molecular oxygen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soluble brown crystalline basic blood pigment that differs from hemoglobin in containing ferric iron and in being unable to combine reversibly with molecular oxygen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, methemoglobin designates a soluble brown crystalline basic blood pigment that differs from hemoglobin in containing ferric iron and in being unable to combine reversibly with molecular oxygen."*

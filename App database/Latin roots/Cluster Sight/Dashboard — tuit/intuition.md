@@ -5,15 +5,6 @@ status: unread
 ---
 # intuition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Instinctive knowing (without the use of rational processes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An impression that something might be the case.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When women are in a freakish mood, their usual intuition, either from carelessness or inherent defect, seemingly fails to teach them this, and hence it was that Bathsheba was fated to be astonished to-day."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Their words show that they, like the others, have only too largely repaired my defects of narration by their own imaginative intuition."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"But the strength of his position lies in the good news for the poor (Matt. 11:5), for those who labour and are heavy--laden (Matt. 11:28)--news of rest and refreshment--as if the intuition of God, with the peace it brings, were its own proof."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Instinctive knowing (without the use of rational processes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An impression that something might be the case.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When women are in a freakish mood, their usual intuition, either from carelessness or inherent defect, seemingly fails to teach them this, and hence it was that Bathsheba was fated to be astonished to-day."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Their words show that they, like the others, have only too largely repaired my defects of narration by their own imaginative intuition."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"But the strength of his position lies in the good news for the poor (Matt. 11:5), for those who labour and are heavy--laden (Matt. 11:28)--news of rest and refreshment--as if the intuition of God, with the peace it brings, were its own proof."*

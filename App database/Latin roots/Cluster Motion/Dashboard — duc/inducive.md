@@ -5,13 +5,6 @@ status: unread
 ---
 # inducive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inducing or influencing; leading on; - john milton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inducing or influencing; leading on; - john milton.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Grewgious, breaking the blank silence which of course ensued: though why these pauses _should_ come upon us when we have performed any small social rite, not directly inducive of self-examination or mental despondency, who can tell?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inducing or influencing; leading on; - john milton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inducing or influencing; leading on; - john milton.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Grewgious, breaking the blank silence which of course ensued: though why these pauses _should_ come upon us when we have performed any small social rite, not directly inducive of self-examination or mental despondency, who can tell?"*

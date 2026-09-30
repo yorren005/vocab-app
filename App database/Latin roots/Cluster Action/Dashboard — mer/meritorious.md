@@ -5,15 +5,6 @@ status: unread
 ---
 # meritorious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving reward or praise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving reward or praise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not resolute, except so much were done, For things are often spoke and seldom meant; But that my heart accordeth with my tongue, Seeing the deed is meritorious, And to preserve my sovereign from his foe, Say but the word, and I will be his priest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It hath done meritorious service."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But he was, in his way, just as bad—I mean as good; and in short it was the old story, and nobody would leave me any possibility of doing anything meritorious."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving reward or praise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving reward or praise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not resolute, except so much were done, For things are often spoke and seldom meant; But that my heart accordeth with my tongue, Seeing the deed is meritorious, And to preserve my sovereign from his foe, Say but the word, and I will be his priest."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It hath done meritorious service."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But he was, in his way, just as bad—I mean as good; and in short it was the old story, and nobody would leave me any possibility of doing anything meritorious."*

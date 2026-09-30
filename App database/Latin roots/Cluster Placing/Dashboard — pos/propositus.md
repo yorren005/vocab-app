@@ -5,13 +5,6 @@ status: unread
 ---
 # propositus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person immediately affected by or concerned with an action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person immediately affected by or concerned with an action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, propositus designates the person immediately affected by or concerned with an action."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The person immediately affected by or concerned with an action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person immediately affected by or concerned with an action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, propositus designates the person immediately affected by or concerned with an action."*

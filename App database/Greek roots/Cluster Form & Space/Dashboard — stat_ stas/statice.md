@@ -5,15 +5,6 @@ status: unread
 ---
 # statice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus limonium of temperate salt marshes having spikes of white or mauve flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus limonium of temperate salt marshes having spikes of white or mauve flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"A species with brown spores occurs on sea-lavender (_Statice_)."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SEA-LAVENDER UREDO; sori few and scattered, orbicular or oval; spores sessile, globose, brown.—On various species of _Statice_. =Uredo Circææ=, A. & S."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SEA-LAVENDER RUST; epiphyllous, sori bullate, scattered or disposed in rings; spores ovate.—On _Statice limonia_. =Uromyces Ficariæ=, Lév."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus limonium of temperate salt marshes having spikes of white or mauve flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus limonium of temperate salt marshes having spikes of white or mauve flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"A species with brown spores occurs on sea-lavender (_Statice_)."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SEA-LAVENDER UREDO; sori few and scattered, orbicular or oval; spores sessile, globose, brown.—On various species of _Statice_. =Uredo Circææ=, A. & S."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SEA-LAVENDER RUST; epiphyllous, sori bullate, scattered or disposed in rings; spores ovate.—On _Statice limonia_. =Uromyces Ficariæ=, Lév."*

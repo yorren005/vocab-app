@@ -5,14 +5,6 @@ status: unread
 ---
 # lavishness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality possessed by something that is excessively expensive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive spending.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"My reputation for lavishness stood me here in great stead, for henceforth there was no difficulty on this score."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"She pinched herself to the verge of want in order to send large sums of money to the missionaries, but she saved the captain's money for him against the time when his willful lavishness and improvidence might find him a poor man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality possessed by something that is excessively expensive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive spending.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"My reputation for lavishness stood me here in great stead, for henceforth there was no difficulty on this score."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"She pinched herself to the verge of want in order to send large sums of money to the missionaries, but she saved the captain's money for him against the time when his willful lavishness and improvidence might find him a poor man."*

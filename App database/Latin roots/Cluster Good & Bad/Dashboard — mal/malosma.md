@@ -5,13 +5,6 @@ status: unread
 ---
 # malosma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species; often included in the genus rhus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species; often included in the genus rhus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malosma designates one species; often included in the genus rhus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One species; often included in the genus rhus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species; often included in the genus rhus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malosma designates one species; often included in the genus rhus."*

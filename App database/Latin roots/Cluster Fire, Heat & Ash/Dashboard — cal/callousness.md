@@ -5,15 +5,6 @@ status: unread
 ---
 # callousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of passion or feeling; hardheartedness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of passion or feeling; hardheartedness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He remembered with what callousness he had watched her."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Ye clothe your land in insurrection's dress, And nurse disloyalty, by callousness."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"A little wisdom, a little callousness would have avoided all this...."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of passion or feeling; hardheartedness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of passion or feeling; hardheartedness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He remembered with what callousness he had watched her."*
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Ye clothe your land in insurrection's dress, And nurse disloyalty, by callousness."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"A little wisdom, a little callousness would have avoided all this...."*

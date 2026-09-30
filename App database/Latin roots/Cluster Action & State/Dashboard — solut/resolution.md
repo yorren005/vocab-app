@@ -5,15 +5,6 @@ status: unread
 ---
 # resolution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal expression by a meeting; agreed to by a vote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability of a microscope or telescope to measure the angular separation of images that are close together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My resolution and my hands I’ll trust; None about Caesar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, we have no friend But resolution and the briefest end. [_Exeunt, bearing off Antony’s body._] ACT V SCENE I."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My resolution’s placed, and I have nothing Of woman in me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal expression by a meeting; agreed to by a vote.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability of a microscope or telescope to measure the angular separation of images that are close together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My resolution and my hands I’ll trust; None about Caesar."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, we have no friend But resolution and the briefest end. [_Exeunt, bearing off Antony’s body._] ACT V SCENE I."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My resolution’s placed, and I have nothing Of woman in me."*

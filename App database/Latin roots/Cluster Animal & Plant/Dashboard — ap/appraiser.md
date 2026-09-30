@@ -5,13 +5,6 @@ status: unread
 ---
 # appraiser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who estimates officially the worth or value or quality of things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who determines authenticity (as of works of art) or who guarantees validity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appraiser designates one who estimates officially the worth or value or quality of things."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who estimates officially the worth or value or quality of things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who determines authenticity (as of works of art) or who guarantees validity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appraiser designates one who estimates officially the worth or value or quality of things."*

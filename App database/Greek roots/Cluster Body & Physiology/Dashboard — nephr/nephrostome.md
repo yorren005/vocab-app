@@ -5,13 +5,6 @@ status: unread
 ---
 # nephrostome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ciliated funnel-shaped coelomic opening of a typical nephridium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ciliated funnel-shaped coelomic opening of a typical nephridium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrostome designates the ciliated funnel-shaped coelomic opening of a typical nephridium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ciliated funnel-shaped coelomic opening of a typical nephridium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ciliated funnel-shaped coelomic opening of a typical nephridium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephrostome designates the ciliated funnel-shaped coelomic opening of a typical nephridium."*

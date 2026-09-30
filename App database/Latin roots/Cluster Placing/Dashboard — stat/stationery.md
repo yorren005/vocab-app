@@ -5,15 +5,6 @@ status: unread
 ---
 # stationery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paper cut to an appropriate size for writing letters; usually with matching envelopes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paper cut to an appropriate size for writing letters; usually with matching envelopes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn; and the complete equipage whirls though the law-stationery business at wild speed all round the clock."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"For there was something very comfortable in having plenty of stationery."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Soothed by my exertions, my method, and Herbert’s compliments, I would sit with his symmetrical bundle and my own on the table before me among the stationery, and feel like a Bank of some sort, rather than a private individual."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paper cut to an appropriate size for writing letters; usually with matching envelopes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paper cut to an appropriate size for writing letters; usually with matching envelopes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn; and the complete equipage whirls though the law-stationery business at wild speed all round the clock."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"For there was something very comfortable in having plenty of stationery."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Soothed by my exertions, my method, and Herbert’s compliments, I would sit with his symmetrical bundle and my own on the table before me among the stationery, and feel like a Bank of some sort, rather than a private individual."*

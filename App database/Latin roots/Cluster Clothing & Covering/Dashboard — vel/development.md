@@ -5,15 +5,6 @@ status: unread
 ---
 # development
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of improving by expanding or enlarging or refining.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process in which something passes by degrees to a different stage (especially a more advanced or mature stage).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The development of a proper policy in this matter is one of our economic problems."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Inquiries into the origin and development of any social institution are interesting and helpful in forming an estimate of its present significance, but the problems of the past are not those of to-day."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A monetary system of this kind aids greatly the development of the sense and habit of exact estimation of price. § 3. #Industrial changes and the forms of money#."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of improving by expanding or enlarging or refining.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process in which something passes by degrees to a different stage (especially a more advanced or mature stage).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The development of a proper policy in this matter is one of our economic problems."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Inquiries into the origin and development of any social institution are interesting and helpful in forming an estimate of its present significance, but the problems of the past are not those of to-day."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A monetary system of this kind aids greatly the development of the sense and habit of exact estimation of price. § 3. #Industrial changes and the forms of money#."*

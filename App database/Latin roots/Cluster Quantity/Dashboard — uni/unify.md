@@ -5,15 +5,6 @@ status: unread
 ---
 # unify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To bring or combine together or with something else.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The hope has long been entertained by economists that a conception of the whole problem of value would be attained that would coördinate and unify the various "laws,"--those of rent, wages, interest, etc."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Great financial alliances and "community of interests" still further unify the policy of the leading roads. [Sidenote: Economic results of consolidation] Toward this result strong economic forces are working."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The word "trust" originally applied, and still in legal usage applies, to a particular form of organization, that of a board of trustees holding the stock, and thus unifying the control, of two or more formerly separate enterprises."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To bring or combine together or with something else.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The hope has long been entertained by economists that a conception of the whole problem of value would be attained that would coördinate and unify the various "laws,"--those of rent, wages, interest, etc."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Great financial alliances and "community of interests" still further unify the policy of the leading roads. [Sidenote: Economic results of consolidation] Toward this result strong economic forces are working."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The word "trust" originally applied, and still in legal usage applies, to a particular form of organization, that of a board of trustees holding the stock, and thus unifying the control, of two or more formerly separate enterprises."*

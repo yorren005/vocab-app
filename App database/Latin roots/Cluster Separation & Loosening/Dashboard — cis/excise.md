@@ -5,15 +5,6 @@ status: unread
 ---
 # excise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tax that is measured by the amount of business done (not on property or income from real estate).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove by erasing or crossing out or as if by drawing a line.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Continued ill-success, however, led him, in 1791, to abandon Ellisland, and he moved to Dumfries, where he had obtained a position in the Excise."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thae curst horse-leeches o’ the’ Excise, Wha mak the whisky stells their prize!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Extemporaneous Effusion On being appointed to an Excise division."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tax that is measured by the amount of business done (not on property or income from real estate).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove by erasing or crossing out or as if by drawing a line.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Continued ill-success, however, led him, in 1791, to abandon Ellisland, and he moved to Dumfries, where he had obtained a position in the Excise."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thae curst horse-leeches o’ the’ Excise, Wha mak the whisky stells their prize!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Extemporaneous Effusion On being appointed to an Excise division."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # populous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Densely populated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Densely populated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, the dust Should have ascended to the roof of heaven, Raised by your populous troops."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A wilderness is populous enough, So Suffolk had thy heavenly company; For where thou art, there is the world itself, With every several pleasure in the world; And where thou art not, desolation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do, with like timorous accent and dire yell As when, by night and negligence, the fire Is spied in populous cities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Densely populated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Densely populated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, the dust Should have ascended to the roof of heaven, Raised by your populous troops."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A wilderness is populous enough, So Suffolk had thy heavenly company; For where thou art, there is the world itself, With every several pleasure in the world; And where thou art not, desolation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do, with like timorous accent and dire yell As when, by night and negligence, the fire Is spied in populous cities."*

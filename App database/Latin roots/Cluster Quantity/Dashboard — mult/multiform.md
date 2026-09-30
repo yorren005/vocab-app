@@ -5,15 +5,6 @@ status: unread
 ---
 # multiform
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in or having many forms or shapes or appearances; - john dewey.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring in or having many forms or shapes or appearances; - john dewey.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"O, multi-colored, multiform, Beloved beauty over me, That I shall never, never see Again!"*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"To him, man was a being with myriad lives and myriad sensations, a complex multiform creature that bore within itself strange legacies of thought and passion, and whose very flesh was tainted with the monstrous maladies of the dead."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Aire, and ye Elements the eldest birth Of Natures Womb, that in quaternion run Perpetual Circle, multiform; and mix And nourish all things, let your ceasless change Varie to our great Maker still new praise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in or having many forms or shapes or appearances; - john dewey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring in or having many forms or shapes or appearances; - john dewey.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"O, multi-colored, multiform, Beloved beauty over me, That I shall never, never see Again!"*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"To him, man was a being with myriad lives and myriad sensations, a complex multiform creature that bore within itself strange legacies of thought and passion, and whose very flesh was tainted with the monstrous maladies of the dead."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Aire, and ye Elements the eldest birth Of Natures Womb, that in quaternion run Perpetual Circle, multiform; and mix And nourish all things, let your ceasless change Varie to our great Maker still new praise."*

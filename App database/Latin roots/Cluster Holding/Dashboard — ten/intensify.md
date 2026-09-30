@@ -5,15 +5,6 @@ status: unread
 ---
 # intensify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase in extent or intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more intense, stronger, or more marked; ,.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At times her whimsical fancy would intensify natural processes around her till they seemed a part of her own story."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Another trait of his character which served to intensify his subsequent disappointments, was the strong ambition which early filled his soul."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I am especially interested in your ability to intensify earliest possible infiltration and disruption throughout Narval's domain." The door slid shut as he passed through."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase in extent or intensity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more intense, stronger, or more marked; ,.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At times her whimsical fancy would intensify natural processes around her till they seemed a part of her own story."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Another trait of his character which served to intensify his subsequent disappointments, was the strong ambition which early filled his soul."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I am especially interested in your ability to intensify earliest possible infiltration and disruption throughout Narval's domain." The door slid shut as he passed through."*

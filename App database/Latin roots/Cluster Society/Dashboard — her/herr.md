@@ -5,15 +5,6 @@ status: unread
 ---
 # herr
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A german man; used before the name as a title equivalent to mr in english.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A german courtesy title or form of address for a man.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte B. Herr (*The Wise Mamma Goose*):** *"HERR Designs FRANCES BEEM 1913 THIS LITTLE STORY IS TOLD AND THE LITTLE PICTURES WERE DRAWN FOR A GOOD LITTLE CHILD NAMED: _______________ THE WISE MAMMA GOOSE Mamma Goose was trying to think."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Can Herr Alexander perform a feat like that?"*
-> - 📜 **Charlotte B. Herr (*How Freckle Frog Made Herself Pretty*):** *"HERR _Designs_ FRANCES BEEM Published in the Shop of P."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A german man; used before the name as a title equivalent to mr in english.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A german courtesy title or form of address for a man.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte B. Herr (*The Wise Mamma Goose*):** *"HERR Designs FRANCES BEEM 1913 THIS LITTLE STORY IS TOLD AND THE LITTLE PICTURES WERE DRAWN FOR A GOOD LITTLE CHILD NAMED: _______________ THE WISE MAMMA GOOSE Mamma Goose was trying to think."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Can Herr Alexander perform a feat like that?"*
+> - 📜 **Charlotte B. Herr (*How Freckle Frog Made Herself Pretty*):** *"HERR _Designs_ FRANCES BEEM Published in the Shop of P."*

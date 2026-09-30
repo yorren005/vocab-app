@@ -5,13 +5,6 @@ status: unread
 ---
 # theatric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the theater or the presentation of plays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or occurring in a movie theater.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Her manner was a little stagey, but graceful to the extreme, and you could see peeping out of this theatric manner a kind, good heart, oh, so kind, I feel as if I would do anything for her, her manners were so winning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the theater or the presentation of plays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or occurring in a movie theater.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Her manner was a little stagey, but graceful to the extreme, and you could see peeping out of this theatric manner a kind, good heart, oh, so kind, I feel as if I would do anything for her, her manners were so winning."*

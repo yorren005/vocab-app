@@ -5,15 +5,6 @@ status: unread
 ---
 # textile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to fabrics or fabric making.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is also employed very widely in the larger factories in textile and mechanical industries."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It appeared in textile, iron, mercantile, and other industries."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The sago pith is now put into the trough, into which is fixed a strainer made of that delicate textile that envelopes the unexpanded fronds of the coco-nut palm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to fabrics or fabric making.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is also employed very widely in the larger factories in textile and mechanical industries."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It appeared in textile, iron, mercantile, and other industries."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The sago pith is now put into the trough, into which is fixed a strainer made of that delicate textile that envelopes the unexpanded fronds of the coco-nut palm."*

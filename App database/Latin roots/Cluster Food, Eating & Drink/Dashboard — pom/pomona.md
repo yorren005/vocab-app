@@ -5,14 +5,6 @@ status: unread
 ---
 # pomona
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin pom within the domain of Food, Eating & Drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of pom in systematic terminology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Hugo: The morn is fair, the weary miles Will shorten 'neath the summer's wiles; Pomona in the orchard smiles, And in the meadow, Flora!"*
-> - 📜 **John Milton (*Paradise Lost*):** *"To Pales, or Pomona, thus adorned, Likest she seemed, Pomona when she fled Vertumnus, or to Ceres in her prime, Yet virgin of Proserpina from Jove."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin pom within the domain of Food, Eating & Drink.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of pom in systematic terminology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Hugo: The morn is fair, the weary miles Will shorten 'neath the summer's wiles; Pomona in the orchard smiles, And in the meadow, Flora!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"To Pales, or Pomona, thus adorned, Likest she seemed, Pomona when she fled Vertumnus, or to Ceres in her prime, Yet virgin of Proserpina from Jove."*

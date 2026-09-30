@@ -5,13 +5,6 @@ status: unread
 ---
 # catasetum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of tropical american orchids having showy male and female flowers usually on separate inflorescences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of tropical american orchids having showy male and female flowers usually on separate inflorescences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catasetum designates genus of tropical american orchids having showy male and female flowers usually on separate inflorescences."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of tropical american orchids having showy male and female flowers usually on separate inflorescences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of tropical american orchids having showy male and female flowers usually on separate inflorescences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catasetum designates genus of tropical american orchids having showy male and female flowers usually on separate inflorescences."*

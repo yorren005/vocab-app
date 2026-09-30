@@ -5,13 +5,6 @@ status: unread
 ---
 # flavoring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something added to food primarily for the savor it imparts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lend flavor to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flavoring designates something added to food primarily for the savor it imparts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something added to food primarily for the savor it imparts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lend flavor to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flavoring designates something added to food primarily for the savor it imparts."*

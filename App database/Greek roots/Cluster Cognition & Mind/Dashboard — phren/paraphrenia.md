@@ -5,13 +5,6 @@ status: unread
 ---
 # paraphrenia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of schizophrenia characterized by delusions (of persecution or grandeur or jealousy); symptoms may include anger and anxiety and aloofness and doubts about gender identity; unlike other types of schizophrenia the patients are usually presentable and (if delusions are not acted on) may function in an apparently normal manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of schizophrenia characterized by delusions (of persecution or grandeur or jealousy); symptoms may include anger and anxiety and aloofness and doubts about gender identity; unlike other types of schizophrenia the patients are usually presentable and (if delusions are not acted on) may function in an apparently normal manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraphrenia designates a form of schizophrenia characterized by delusions (of persecution or grandeur or jealousy); symptoms may include anger and anxiety and aloofness and doubts about gender identity; unlike other types of schizophrenia the patients are usually presentable and (if delusions are not acted on) may function in an apparently normal manner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of schizophrenia characterized by delusions (of persecution or grandeur or jealousy); symptoms may include anger and anxiety and aloofness and doubts about gender identity; unlike other types of schizophrenia the patients are usually presentable and (if delusions are not acted on) may function in an apparently normal manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of schizophrenia characterized by delusions (of persecution or grandeur or jealousy); symptoms may include anger and anxiety and aloofness and doubts about gender identity; unlike other types of schizophrenia the patients are usually presentable and (if delusions are not acted on) may function in an apparently normal manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraphrenia designates a form of schizophrenia characterized by delusions (of persecution or grandeur or jealousy); symptoms may include anger and anxiety and aloofness and doubts about gender identity; unlike other types of schizophrenia the patients are usually presentable and (if delusions are not acted on) may function in an apparently normal manner."*

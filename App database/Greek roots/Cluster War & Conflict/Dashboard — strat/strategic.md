@@ -5,15 +5,6 @@ status: unread
 ---
 # strategic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or marked by strategy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Necessary to or important in the initiation, conduct, or completion of a strategic plan.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I’ll swear you did!” Her strategic silence confirmed his suspicion."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Stroking a key embedded nearby in the table the President brought the Strategic Concepts Computer on line."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Our position is unchanged: the fees that they demand are without justification, an extortion to which we cannot submit." Throughout the discussions, the Strategic Concepts Computer flashed a continuing display."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or marked by strategy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Necessary to or important in the initiation, conduct, or completion of a strategic plan.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I’ll swear you did!” Her strategic silence confirmed his suspicion."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Stroking a key embedded nearby in the table the President brought the Strategic Concepts Computer on line."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Our position is unchanged: the fees that they demand are without justification, an extortion to which we cannot submit." Throughout the discussions, the Strategic Concepts Computer flashed a continuing display."*

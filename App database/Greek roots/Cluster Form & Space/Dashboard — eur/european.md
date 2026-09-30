@@ -5,15 +5,6 @@ status: unread
 ---
 # european
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of europe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of europe or the people of europe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The name of Professor Dingo, my immediate predecessor, is one of European reputation.” Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"On the twelfth anniversary of my wedding-day, I became the wife of Professor Dingo.” “Of European reputation,” added Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Again, with Professor Dingo.” “A man of European reputation,” murmured Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of europe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of europe or the people of europe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The name of Professor Dingo, my immediate predecessor, is one of European reputation.” Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"On the twelfth anniversary of my wedding-day, I became the wife of Professor Dingo.” “Of European reputation,” added Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Again, with Professor Dingo.” “A man of European reputation,” murmured Mr."*

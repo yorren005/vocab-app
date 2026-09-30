@@ -5,15 +5,6 @@ status: unread
 ---
 # compensate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjust for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make amends for; pay compensation for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"What was to ensue when we found her and what could compensate us for this loss of time were questions also that I could not possibly dismiss; my mind was quite tortured by long dwelling on such reflections when we stopped."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is often sufficient, or more than sufficient, to compensate for the shorter time."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I don’t think she can ever have been pretty; but, for aught I know, she may possess originality and strength of character to compensate for the want of personal advantages."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjust for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make amends for; pay compensation for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"What was to ensue when we found her and what could compensate us for this loss of time were questions also that I could not possibly dismiss; my mind was quite tortured by long dwelling on such reflections when we stopped."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is often sufficient, or more than sufficient, to compensate for the shorter time."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I don’t think she can ever have been pretty; but, for aught I know, she may possess originality and strength of character to compensate for the want of personal advantages."*

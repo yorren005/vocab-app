@@ -5,13 +5,6 @@ status: unread
 ---
 # paraboloid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surface all of whose intersections by planes are either parabolas and ellipses or parabolas and hyperbolas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A saddle-shaped quadric surface whose sections by planes parallel to one coordinate plane are hyperbolas while those sections by planes parallel to the other two are parabolas if proper orientation of the coordinate axes is assumed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraboloid designates a surface all of whose intersections by planes are either parabolas and ellipses or parabolas and hyperbolas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surface all of whose intersections by planes are either parabolas and ellipses or parabolas and hyperbolas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A saddle-shaped quadric surface whose sections by planes parallel to one coordinate plane are hyperbolas while those sections by planes parallel to the other two are parabolas if proper orientation of the coordinate axes is assumed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraboloid designates a surface all of whose intersections by planes are either parabolas and ellipses or parabolas and hyperbolas."*

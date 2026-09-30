@@ -5,15 +5,6 @@ status: unread
 ---
 # expectoration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of coughing up and spitting out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of spitting (forcefully expelling saliva).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It was attended with purulent expectoration, and became so troublesome as to entitle it to be regarded as the leading feature of the case."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"The silences widened; the expectoration marvellously increased."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Hand him the glass works and let him sample the cold tea." Between Farley and Walker the effluvia from bodies long immune to water, the disregard of sanitary requirements, the expectorations and the foul air of the crowded car became unbearable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of coughing up and spitting out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of spitting (forcefully expelling saliva).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It was attended with purulent expectoration, and became so troublesome as to entitle it to be regarded as the leading feature of the case."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"The silences widened; the expectoration marvellously increased."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Hand him the glass works and let him sample the cold tea." Between Farley and Walker the effluvia from bodies long immune to water, the disregard of sanitary requirements, the expectorations and the foul air of the crowded car became unbearable."*

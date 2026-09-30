@@ -5,15 +5,6 @@ status: unread
 ---
 # pencil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin cylindrical pointed writing implement; a rod of marking substance encased in wood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Graphite (or a similar substance) used in such a way as to be a medium of communication.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And he told us, with great humour, that when he was wanted to bleed the prince or physic any of his people, he was generally found lying on his back in bed, reading the newspapers or making fancy-sketches in pencil, and couldn’t come."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was very fond of reading the papers, very fond of making fancy-sketches with a pencil, very fond of nature, very fond of art."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce all the afternoon after hearing of their interview in the morning, I wrote a hasty note in pencil to my guardian to say where we were gone and why."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin cylindrical pointed writing implement; a rod of marking substance encased in wood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Graphite (or a similar substance) used in such a way as to be a medium of communication.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"And he told us, with great humour, that when he was wanted to bleed the prince or physic any of his people, he was generally found lying on his back in bed, reading the newspapers or making fancy-sketches in pencil, and couldn’t come."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He was very fond of reading the papers, very fond of making fancy-sketches with a pencil, very fond of nature, very fond of art."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce all the afternoon after hearing of their interview in the morning, I wrote a hasty note in pencil to my guardian to say where we were gone and why."*

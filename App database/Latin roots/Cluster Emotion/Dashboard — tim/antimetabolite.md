@@ -5,13 +5,6 @@ status: unread
 ---
 # antimetabolite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antineoplastic drug that inhibits the utilization of a metabolite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antineoplastic drug that inhibits the utilization of a metabolite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimetabolite designates an antineoplastic drug that inhibits the utilization of a metabolite."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antineoplastic drug that inhibits the utilization of a metabolite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antineoplastic drug that inhibits the utilization of a metabolite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimetabolite designates an antineoplastic drug that inhibits the utilization of a metabolite."*

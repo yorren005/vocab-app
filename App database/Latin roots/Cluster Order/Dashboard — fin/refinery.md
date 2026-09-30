@@ -5,15 +5,6 @@ status: unread
 ---
 # refinery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An industrial plant for purifying a crude substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An industrial plant for purifying a crude substance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I knowed the boy’s grandfather—a truly nervous and modest man, even to genteel refinery. ’Twas blush, blush with him, almost as much as ’tis with me—not but that ’tis a fault in me!” “Not at all, Master Poorgrass,” said Coggan."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"It was in that year that the firm of Arbuckle Brothers and Claus Doscher each opened a great refinery, and in the next year the differential fell to fifty hundredths cents."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"As ordinarily produced at the electrolytic refinery, it is in the form of cathode plates, often about 3 feet × 2 feet 6 inches by ¾ inch thick, weighing 150 to 170 lbs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An industrial plant for purifying a crude substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An industrial plant for purifying a crude substance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I knowed the boy’s grandfather—a truly nervous and modest man, even to genteel refinery. ’Twas blush, blush with him, almost as much as ’tis with me—not but that ’tis a fault in me!” “Not at all, Master Poorgrass,” said Coggan."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"It was in that year that the firm of Arbuckle Brothers and Claus Doscher each opened a great refinery, and in the next year the differential fell to fifty hundredths cents."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"As ordinarily produced at the electrolytic refinery, it is in the form of cathode plates, often about 3 feet × 2 feet 6 inches by ¾ inch thick, weighing 150 to 170 lbs."*

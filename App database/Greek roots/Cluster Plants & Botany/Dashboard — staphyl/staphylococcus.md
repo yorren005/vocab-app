@@ -5,13 +5,6 @@ status: unread
 ---
 # staphylococcus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Staphylococcus) of nonmotile gram-positive spherical bacteria that occur singly, in pairs or tetrads, or in irregular clusters and include causative agents of various diseases (such as skin infections, food poisoning, and endocarditis).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Staphylococcus) of nonmotile gram-positive spherical bacteria that occur singly, in pairs or tetrads, or in irregular clusters and include causative agents of various diseases (such as skin infections, food poisoning, and endocarditis).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, staphylococcus designates any of a genus (staphylococcus) of nonmotile gram-positive spherical bacteria that occur singly, in pairs or tetrads, or in irregular clusters and include causative agents of various diseases (such as skin infections, food poisoning, and endocarditis)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Staphylococcus) of nonmotile gram-positive spherical bacteria that occur singly, in pairs or tetrads, or in irregular clusters and include causative agents of various diseases (such as skin infections, food poisoning, and endocarditis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Staphylococcus) of nonmotile gram-positive spherical bacteria that occur singly, in pairs or tetrads, or in irregular clusters and include causative agents of various diseases (such as skin infections, food poisoning, and endocarditis).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, staphylococcus designates any of a genus (staphylococcus) of nonmotile gram-positive spherical bacteria that occur singly, in pairs or tetrads, or in irregular clusters and include causative agents of various diseases (such as skin infections, food poisoning, and endocarditis)."*

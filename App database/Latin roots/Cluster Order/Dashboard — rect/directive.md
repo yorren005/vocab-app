@@ -5,15 +5,6 @@ status: unread
 ---
 # directive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pronouncement encouraging or banning some activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing the way by conducting or leading; imposing direction on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Which entertain’d, limbs are his instruments, In no less working than are swords and bows Directive by the limbs."*
-> - 📜 **Algis Budrys (*Citadel*):** *"At fifteen-fifteen, the light on his interphone blinked twice, and Marlowe hastily initialed a directive with his right hand while touching the switch with his left."*
-> - 📜 **Algis Budrys (*Citadel*):** *"Mead, sir." "O.K." He switched off, pushed the directive into his OUT box, and pulled the GenSurv and the folder on Martin Holliday out of the HOLD tray."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pronouncement encouraging or banning some activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing the way by conducting or leading; imposing direction on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Which entertain’d, limbs are his instruments, In no less working than are swords and bows Directive by the limbs."*
+> - 📜 **Algis Budrys (*Citadel*):** *"At fifteen-fifteen, the light on his interphone blinked twice, and Marlowe hastily initialed a directive with his right hand while touching the switch with his left."*
+> - 📜 **Algis Budrys (*Citadel*):** *"Mead, sir." "O.K." He switched off, pushed the directive into his OUT box, and pulled the GenSurv and the folder on Martin Holliday out of the HOLD tray."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # tropism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An involuntary orienting response; positive or negative reaction to a stimulus source.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An involuntary orienting response; positive or negative reaction to a stimulus source.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tropism designates an involuntary orienting response; positive or negative reaction to a stimulus source."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An involuntary orienting response; positive or negative reaction to a stimulus source.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An involuntary orienting response; positive or negative reaction to a stimulus source.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tropism designates an involuntary orienting response; positive or negative reaction to a stimulus source."*

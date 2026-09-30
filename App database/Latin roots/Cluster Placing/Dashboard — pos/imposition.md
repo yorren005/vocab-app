@@ -5,15 +5,6 @@ status: unread
 ---
 # imposition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of imposing something (as a tax or an embargo).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An uncalled-for burden.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray she may, as well for the encouragement of the like, which else would stand under grievous imposition, as for the enjoying of thy life, who I would be sorry should be thus foolishly lost at a game of tick-tack."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They have acquainted me with their determinations, which is indeed to return to their home, and to trouble you with no more suit, unless you may be won by some other sort than your father’s imposition, depending on the caskets."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do desire you Not to deny this imposition, The which my love and some necessity Now lays upon you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of imposing something (as a tax or an embargo).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An uncalled-for burden.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray she may, as well for the encouragement of the like, which else would stand under grievous imposition, as for the enjoying of thy life, who I would be sorry should be thus foolishly lost at a game of tick-tack."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They have acquainted me with their determinations, which is indeed to return to their home, and to trouble you with no more suit, unless you may be won by some other sort than your father’s imposition, depending on the caskets."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do desire you Not to deny this imposition, The which my love and some necessity Now lays upon you."*

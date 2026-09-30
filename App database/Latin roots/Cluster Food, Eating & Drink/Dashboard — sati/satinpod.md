@@ -5,13 +5,6 @@ status: unread
 ---
 # satinpod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Southeastern european plant cultivated for its fragrant purplish flowers and round flat papery silver-white seedpods that are used for indoor decoration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Southeastern european plant cultivated for its fragrant purplish flowers and round flat papery silver-white seedpods that are used for indoor decoration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, satinpod designates southeastern european plant cultivated for its fragrant purplish flowers and round flat papery silver-white seedpods that are used for indoor decoration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Southeastern european plant cultivated for its fragrant purplish flowers and round flat papery silver-white seedpods that are used for indoor decoration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Southeastern european plant cultivated for its fragrant purplish flowers and round flat papery silver-white seedpods that are used for indoor decoration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, satinpod designates southeastern european plant cultivated for its fragrant purplish flowers and round flat papery silver-white seedpods that are used for indoor decoration."*

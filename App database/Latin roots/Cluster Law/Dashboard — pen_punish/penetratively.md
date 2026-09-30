@@ -5,13 +5,6 @@ status: unread
 ---
 # penetratively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With ability to see into deeply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With ability to see into deeply.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penetratively designates with ability to see into deeply."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With ability to see into deeply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With ability to see into deeply.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penetratively designates with ability to see into deeply."*

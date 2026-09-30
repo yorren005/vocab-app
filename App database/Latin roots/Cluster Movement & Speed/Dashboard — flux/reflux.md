@@ -5,15 +5,6 @@ status: unread
 ---
 # reflux
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal backward flow of body fluids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outward flow of the tide.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She became more or less red in the cheek, the blood wavering in uncertain flux and reflux over the sensitive space between ebb and flood."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"So do flux and reflux—the rhythm of change—alternate and persist in everything under the sky."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It stood near a point of land called Corlear’s Hook,[1] which stretches out into the Sound, and against which the tide, at its flux and reflux, sets with extraordinary rapidity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal backward flow of body fluids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outward flow of the tide.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She became more or less red in the cheek, the blood wavering in uncertain flux and reflux over the sensitive space between ebb and flood."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"So do flux and reflux—the rhythm of change—alternate and persist in everything under the sky."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It stood near a point of land called Corlear’s Hook,[1] which stretches out into the Sound, and against which the tide, at its flux and reflux, sets with extraordinary rapidity."*

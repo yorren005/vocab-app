@@ -5,20 +5,6 @@ status: unread
 ---
 # tundra
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Flat and treeless arctic biome
-> 2. **Nuance / Usage**: Long stretch of something, such as time
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the tundra withstood the storm*), direct object (*cleaved the tundra*), or prepositional anchor (*amidst the tundra*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Dar Williams (*Calamity John*):** *"When you stood at the gulf of unknowing, / When you saw the great tundra of time, / And you cried for the winds to come blowing, / And you called a monsoon from the tides of the moon, / 'Cause the roads were all dusty and dry."*
-> - 📜 **Sara Pascoe (*The Guardian*):** *"We parcel up time into years and months and days because without compartmentalisation the tundra of time is impossible to navigate."*
-> - 📜 **Claudi Casals (*kas ir tundra*):** *"Varbūt jūs kādreiz esat dzirdējuši par to, ko sauc par "tundru", gan filmā, gan seriālā, gan dokumentālajā filmā. Bet kas ir tundra?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Flat and treeless arctic biome
+> 2. **Nuance / Usage**: Long stretch of something, such as time
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the tundra withstood the storm*), direct object (*cleaved the tundra*), or prepositional anchor (*amidst the tundra*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Dar Williams (*Calamity John*):** *"When you stood at the gulf of unknowing, / When you saw the great tundra of time, / And you cried for the winds to come blowing, / And you called a monsoon from the tides of the moon, / 'Cause the roads were all dusty and dry."*
+> - 📜 **Sara Pascoe (*The Guardian*):** *"We parcel up time into years and months and days because without compartmentalisation the tundra of time is impossible to navigate."*
+> - 📜 **Claudi Casals (*kas ir tundra*):** *"Varbūt jūs kādreiz esat dzirdējuši par to, ko sauc par "tundru", gan filmā, gan seriālā, gan dokumentālajā filmā. Bet kas ir tundra?"*

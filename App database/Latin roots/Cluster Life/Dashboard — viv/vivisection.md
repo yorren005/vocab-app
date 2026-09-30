@@ -5,14 +5,6 @@ status: unread
 ---
 # vivisection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of operating on living animals (especially in scientific research).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of operating on living animals (especially in scientific research).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Men sneered at vivisection, and yet look at its results to-day!"*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Had I been born where laws are less strict and tastes less dainty, I should treat myself to a slow vivisection of those two, as an evening’s amusement.” He drew in his breath, struck the table, and swore to himself, “By hell!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of operating on living animals (especially in scientific research).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of operating on living animals (especially in scientific research).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"Men sneered at vivisection, and yet look at its results to-day!"*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Had I been born where laws are less strict and tastes less dainty, I should treat myself to a slow vivisection of those two, as an evening’s amusement.” He drew in his breath, struck the table, and swore to himself, “By hell!"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # lobotomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical severance of nerve fibers connecting the frontal lobes to the thalamus that has been performed especially formerly chiefly to treat mental illness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical severance of nerve fibers connecting the frontal lobes to the thalamus that has been performed especially formerly chiefly to treat mental illness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lobotomy designates surgical severance of nerve fibers connecting the frontal lobes to the thalamus that has been performed especially formerly chiefly to treat mental illness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical severance of nerve fibers connecting the frontal lobes to the thalamus that has been performed especially formerly chiefly to treat mental illness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical severance of nerve fibers connecting the frontal lobes to the thalamus that has been performed especially formerly chiefly to treat mental illness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lobotomy designates surgical severance of nerve fibers connecting the frontal lobes to the thalamus that has been performed especially formerly chiefly to treat mental illness."*

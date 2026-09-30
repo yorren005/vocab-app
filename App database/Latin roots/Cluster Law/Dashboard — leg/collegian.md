@@ -5,15 +5,6 @@ status: unread
 ---
 # collegian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A student (or former student) at a college or university.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A student (or former student) at a college or university.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A crew that enters the race with the odds against it is unnerved and undone, thinks the patriotic collegian. [Sidenote: Knowledge and skill affecting the result] In nearly all wagers, judgment in some degree influences the choice of sides."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He saw him in his mind's eye, a collegian, a Parliament man, a Baronet, perhaps."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like a mob of young collegians, they are full of fight, fun, and wickedness, tumbling round the world at such a reckless, rollicking rate, that no prudent underwriter would insure them any more than he would a riotous lad at Yale or Harvard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A student (or former student) at a college or university.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A student (or former student) at a college or university.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A crew that enters the race with the odds against it is unnerved and undone, thinks the patriotic collegian. [Sidenote: Knowledge and skill affecting the result] In nearly all wagers, judgment in some degree influences the choice of sides."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He saw him in his mind's eye, a collegian, a Parliament man, a Baronet, perhaps."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like a mob of young collegians, they are full of fight, fun, and wickedness, tumbling round the world at such a reckless, rollicking rate, that no prudent underwriter would insure them any more than he would a riotous lad at Yale or Harvard."*

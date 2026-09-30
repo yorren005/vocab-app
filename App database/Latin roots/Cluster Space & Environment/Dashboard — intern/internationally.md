@@ -5,15 +5,6 @@ status: unread
 ---
 # internationally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Throughout the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Throughout the world.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That is internationally and universally applicable."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Such repairs shall be to internationally accepted standards that will permit the craft to continue its flight to a location designated by the Government having legal ownership, or authority to repair or dispose of the spacecraft. h."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"That is internationally and universally applicable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Throughout the world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Throughout the world.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That is internationally and universally applicable."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Such repairs shall be to internationally accepted standards that will permit the craft to continue its flight to a location designated by the Government having legal ownership, or authority to repair or dispose of the spacecraft. h."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"That is internationally and universally applicable."*

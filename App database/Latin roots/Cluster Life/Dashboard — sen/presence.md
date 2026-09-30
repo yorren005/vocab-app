@@ -5,15 +5,6 @@ status: unread
 ---
 # presence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being present; current existence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The immediate proximity of someone or something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We will not meddle with him till he come; for his presence must be the whip of the other."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That it will please you To give this poor petition to the king, And aid me with that store of power you have To come into his presence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You wrong this presence; therefore speak no more."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being present; current existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The immediate proximity of someone or something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We will not meddle with him till he come; for his presence must be the whip of the other."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That it will please you To give this poor petition to the king, And aid me with that store of power you have To come into his presence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You wrong this presence; therefore speak no more."*

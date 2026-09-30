@@ -5,13 +5,6 @@ status: unread
 ---
 # somnolence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very sleepy state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very sleepy state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"As a physiologist he believed in the artificial placation of malignant agencies chiefly operative during somnolence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very sleepy state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very sleepy state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"As a physiologist he believed in the artificial placation of malignant agencies chiefly operative during somnolence."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # invitation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A request (spoken or written) to participate or be present or take part in something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tempting allurement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She discourses, she carves, she gives the leer of invitation."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Knippel had sent her an invitation in order to cement the bonds of friendship, and she had done the same with Bruno, who was to become her sons' close comrade."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Why, Quebec, my poppet,” says George, following, on invitation, into that department."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A request (spoken or written) to participate or be present or take part in something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tempting allurement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She discourses, she carves, she gives the leer of invitation."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Knippel had sent her an invitation in order to cement the bonds of friendship, and she had done the same with Bruno, who was to become her sons' close comrade."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Why, Quebec, my poppet,” says George, following, on invitation, into that department."*

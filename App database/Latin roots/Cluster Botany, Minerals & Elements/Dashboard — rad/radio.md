@@ -5,15 +5,6 @@ status: unread
 ---
 # radio
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medium for communication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electronic receiver that detects and demodulates and amplifies transmitted signals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The Bahá'í message has been broadcast by radio as far south as Magallanes."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"A notable impetus has been lent this world-redeeming Message through the concerted measures devised by the American National Assembly designed to proclaim the Faith to the masses through public conferences, press and radio."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"An organized attempt should be made to broadcast the Message to the masses and their leaders through the medium of the press and radio."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Medium for communication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electronic receiver that detects and demodulates and amplifies transmitted signals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The Bahá'í message has been broadcast by radio as far south as Magallanes."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"A notable impetus has been lent this world-redeeming Message through the concerted measures devised by the American National Assembly designed to proclaim the Faith to the masses through public conferences, press and radio."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"An organized attempt should be made to broadcast the Message to the masses and their leaders through the medium of the press and radio."*

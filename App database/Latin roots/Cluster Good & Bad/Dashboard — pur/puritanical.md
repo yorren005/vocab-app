@@ -5,15 +5,6 @@ status: unread
 ---
 # puritanical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to puritans or puritanism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggeratedly proper.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess, ever since you told me of that child of ours, it is just as if my feelings, which have been flowing in a strong puritanical stream, had suddenly found a way open in the direction of you, and had all at once gushed through."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The hue of her dress was black too; but its fashion was so different from her sister’s—so much more flowing and becoming—it looked as stylish as the other’s looked puritanical."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"And among many English Catholics the spirit of poetry is still often received with a restricted Puritanical greeting, rather than with the traditionally Catholic joyous openness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to puritans or puritanism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggeratedly proper.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess, ever since you told me of that child of ours, it is just as if my feelings, which have been flowing in a strong puritanical stream, had suddenly found a way open in the direction of you, and had all at once gushed through."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The hue of her dress was black too; but its fashion was so different from her sister’s—so much more flowing and becoming—it looked as stylish as the other’s looked puritanical."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"And among many English Catholics the spirit of poetry is still often received with a restricted Puritanical greeting, rather than with the traditionally Catholic joyous openness."*

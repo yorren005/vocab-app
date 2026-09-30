@@ -5,15 +5,6 @@ status: unread
 ---
 # invalidate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare invalid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make invalid for use.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"If you invalidate this thought (_dogma_), probably the Emperor will punish you."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It does not invalidate the fact nor the efficiency of Protection that foreign competition with American workmanship is not entirely shut out."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This conclusion cannot be invalidated by alleging that the State in which the experiment was made was at that crisis, and had been for a long time before, violently heated and distracted by the rage of party."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare invalid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make invalid for use.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"If you invalidate this thought (_dogma_), probably the Emperor will punish you."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It does not invalidate the fact nor the efficiency of Protection that foreign competition with American workmanship is not entirely shut out."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This conclusion cannot be invalidated by alleging that the State in which the experiment was made was at that crisis, and had been for a long time before, violently heated and distracted by the rage of party."*

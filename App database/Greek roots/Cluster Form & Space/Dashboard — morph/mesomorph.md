@@ -5,13 +5,6 @@ status: unread
 ---
 # mesomorph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mesomorphic body or person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mesomorphic body or person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesomorph designates a mesomorphic body or person."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mesomorphic body or person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mesomorphic body or person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesomorph designates a mesomorphic body or person."*

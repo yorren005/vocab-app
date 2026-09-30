@@ -5,15 +5,6 @@ status: unread
 ---
 # donne
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English clergyman and metaphysical poet celebrated as a preacher (1572-1631).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English clergyman and metaphysical poet celebrated as a preacher (1572-1631).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"John Donne, the English poet, went farther, and said: "All divinity is love or wonder." When a man then begins to wonder about Jesus Christ in earnest, Jesus comes to be for him a new figure."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Dryden, to a greater extent than is (we imagine) generally perceived, was Cowley systematised; and Cowley, who sank into the arms of Dryden, rose from the lap of Donne."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"This is because to most people the Metaphysical School means Donne, whereas it ought to mean Crashaw."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English clergyman and metaphysical poet celebrated as a preacher (1572-1631).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English clergyman and metaphysical poet celebrated as a preacher (1572-1631).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"John Donne, the English poet, went farther, and said: "All divinity is love or wonder." When a man then begins to wonder about Jesus Christ in earnest, Jesus comes to be for him a new figure."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Dryden, to a greater extent than is (we imagine) generally perceived, was Cowley systematised; and Cowley, who sank into the arms of Dryden, rose from the lap of Donne."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"This is because to most people the Metaphysical School means Donne, whereas it ought to mean Crashaw."*

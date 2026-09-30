@@ -5,13 +5,6 @@ status: unread
 ---
 # cotoneaster
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any shrub of the genus cotoneaster: erect or creeping shrubs having richly colored autumn foliage and many small white to pinkish flowers followed by tiny red or black fruits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any shrub of the genus cotoneaster: erect or creeping shrubs having richly colored autumn foliage and many small white to pinkish flowers followed by tiny red or black fruits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cotoneaster designates any shrub of the genus cotoneaster: erect or creeping shrubs having richly colored autumn foliage and many small white to pinkish flowers followed by tiny red or black fruits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any shrub of the genus cotoneaster: erect or creeping shrubs having richly colored autumn foliage and many small white to pinkish flowers followed by tiny red or black fruits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any shrub of the genus cotoneaster: erect or creeping shrubs having richly colored autumn foliage and many small white to pinkish flowers followed by tiny red or black fruits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cotoneaster designates any shrub of the genus cotoneaster: erect or creeping shrubs having richly colored autumn foliage and many small white to pinkish flowers followed by tiny red or black fruits."*

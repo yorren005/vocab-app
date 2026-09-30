@@ -5,15 +5,6 @@ status: unread
 ---
 # exacting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Claim as due or just.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take as an undesirable consequence of some event or state of affairs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So disguise shall, by th’ disguised, Pay with falsehood false exacting, And perform an old contracting. [_Exit._] ACT IV SCENE I."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I come down here, for instance, and I find a mighty potentate exacting homage."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I know that had I been a sanguine, brilliant, careless, exacting, handsome, romping child—though equally dependent and friendless—Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Claim as due or just.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take as an undesirable consequence of some event or state of affairs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So disguise shall, by th’ disguised, Pay with falsehood false exacting, And perform an old contracting. [_Exit._] ACT IV SCENE I."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I come down here, for instance, and I find a mighty potentate exacting homage."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I know that had I been a sanguine, brilliant, careless, exacting, handsome, romping child—though equally dependent and friendless—Mrs."*

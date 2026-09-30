@@ -5,13 +5,6 @@ status: unread
 ---
 # polarise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to vibrate in a definite pattern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to concentrate about two conflicting or contrasting positions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"A piece of iron left in the same position for a length of time becomes polarised, which is to say that it acquires the properties of a magnet; and two magnets always exert an influence upon each other."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to vibrate in a definite pattern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to concentrate about two conflicting or contrasting positions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"A piece of iron left in the same position for a length of time becomes polarised, which is to say that it acquires the properties of a magnet; and two magnets always exert an influence upon each other."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # preposterous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incongruous;inviting ridicule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incongruous;inviting ridicule.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, my good lord—my lord, I should say rather. ’Tis sin to flatter; “good” was little better: “Good Gloucester” and “good devil” were alike, And both preposterous; therefore, not “good lord”."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where, I mean, I did encounter that obscene and most preposterous event that draweth from my snow-white pen the ebon-coloured ink, which here thou viewest, beholdest, surveyest, or seest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the balance of our lives had not one scale of reason to poise another of sensuality, the blood and baseness of our natures would conduct us to most preposterous conclusions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incongruous;inviting ridicule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incongruous;inviting ridicule.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, my good lord—my lord, I should say rather. ’Tis sin to flatter; “good” was little better: “Good Gloucester” and “good devil” were alike, And both preposterous; therefore, not “good lord”."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where, I mean, I did encounter that obscene and most preposterous event that draweth from my snow-white pen the ebon-coloured ink, which here thou viewest, beholdest, surveyest, or seest."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the balance of our lives had not one scale of reason to poise another of sensuality, the blood and baseness of our natures would conduct us to most preposterous conclusions."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # perplex
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a mystery or bewildering to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more complicated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One but painted thus Would be interpreted a thing perplex’d Beyond self-explication."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Neither know I What is betid to Cloten, but remain Perplex’d in all."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am perplex’d, and know not what to say."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a mystery or bewildering to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more complicated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One but painted thus Would be interpreted a thing perplex’d Beyond self-explication."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Neither know I What is betid to Cloten, but remain Perplex’d in all."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am perplex’d, and know not what to say."*

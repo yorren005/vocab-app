@@ -5,13 +5,6 @@ status: unread
 ---
 # vibratory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving very rapidly to and fro or up and down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving very rapidly to and fro or up and down.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vibratory designates moving very rapidly to and fro or up and down."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving very rapidly to and fro or up and down.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving very rapidly to and fro or up and down.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vibratory designates moving very rapidly to and fro or up and down."*

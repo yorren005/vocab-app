@@ -5,15 +5,6 @@ status: unread
 ---
 # retard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of subnormal intelligence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to move more slowly or operate at a slower rate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"This present hour, however critical, fraught with uncertainty, cannot and must not retard the unfoldment of the manifold tasks so brilliantly inaugurated, so diligently prosecuted, so dazzling in their prospects."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Source of all life and action Mind is the source of all movement, and there is no inertia to retard or check its perpetual and harmonious 283:6 action."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus when a lad has been circumcised and the wound is not yet healed, his mother may not eat opossum, or a certain kind of lizard, or carpet snake, or any kind of fat, for otherwise she would retard the healing of the boy's wound."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of subnormal intelligence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to move more slowly or operate at a slower rate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"This present hour, however critical, fraught with uncertainty, cannot and must not retard the unfoldment of the manifold tasks so brilliantly inaugurated, so diligently prosecuted, so dazzling in their prospects."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Source of all life and action Mind is the source of all movement, and there is no inertia to retard or check its perpetual and harmonious 283:6 action."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus when a lad has been circumcised and the wound is not yet healed, his mother may not eat opossum, or a certain kind of lizard, or carpet snake, or any kind of fat, for otherwise she would retard the healing of the boy's wound."*

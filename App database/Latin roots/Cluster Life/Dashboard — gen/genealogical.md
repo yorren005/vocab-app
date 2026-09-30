@@ -5,14 +5,6 @@ status: unread
 ---
 # genealogical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to genealogy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to genealogy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Prince Andrew, looking again at that genealogical tree, shook his head, laughing as a man laughs who looks at a portrait so characteristic of the original as to be amusing."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"From the genealogical history of that house we collect the following particulars:--The Sir Charles here named was a natural son of Henry, third Duke of Beaumont, famous in his day for his desperate assault of the Castle of <g>St."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to genealogy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to genealogy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Prince Andrew, looking again at that genealogical tree, shook his head, laughing as a man laughs who looks at a portrait so characteristic of the original as to be amusing."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"From the genealogical history of that house we collect the following particulars:--The Sir Charles here named was a natural son of Henry, third Duke of Beaumont, famous in his day for his desperate assault of the Castle of <g>St."*

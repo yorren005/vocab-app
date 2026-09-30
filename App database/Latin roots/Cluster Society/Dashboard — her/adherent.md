@@ -5,15 +5,6 @@ status: unread
 ---
 # adherent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who believes and helps to spread the doctrine of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sticking fast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But it is full of indignation to-night after undergoing the ordeal of consigning to the tomb the remains of a faithful, a zealous, a devoted adherent.” Sir Leicester’s voice trembles and his grey hair stirs upon his head."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Next, after breaking the bones and decapitating the then governor of the five provinces, himself an adherent of Chong Mong-ju, I was made governor of the seven home provinces of ancient Koryu."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The wands in question are sticks whittled near the top into a mass of adherent shavings; they go by the name of _kedzurikake_ ("part-shaved"), and resemble the sacred _inao_ of the Aino."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who believes and helps to spread the doctrine of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sticking fast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But it is full of indignation to-night after undergoing the ordeal of consigning to the tomb the remains of a faithful, a zealous, a devoted adherent.” Sir Leicester’s voice trembles and his grey hair stirs upon his head."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Next, after breaking the bones and decapitating the then governor of the five provinces, himself an adherent of Chong Mong-ju, I was made governor of the seven home provinces of ancient Koryu."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The wands in question are sticks whittled near the top into a mass of adherent shavings; they go by the name of _kedzurikake_ ("part-shaved"), and resemble the sacred _inao_ of the Aino."*

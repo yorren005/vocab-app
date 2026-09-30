@@ -5,14 +5,6 @@ status: unread
 ---
 # parliamentarian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elected member of the british parliament: a member of the house of commons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert in parliamentary rules and procedures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"A great parliamentarian, he was gifted with rare eloquence, and with a kind which won friends without offending enemies—something too rare to last."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Blaine, for several years previous its leading parliamentarian and orator, was Speaker of the House."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elected member of the british parliament: a member of the house of commons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert in parliamentary rules and procedures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"A great parliamentarian, he was gifted with rare eloquence, and with a kind which won friends without offending enemies—something too rare to last."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Blaine, for several years previous its leading parliamentarian and orator, was Speaker of the House."*

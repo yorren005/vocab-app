@@ -5,13 +5,6 @@ status: unread
 ---
 # schizoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having, showing, or involving mutually contradictory or antagonistic parts : changing frequently between opposite states —not used technically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mentally unsound : schizo.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizoid designates having, showing, or involving mutually contradictory or antagonistic parts : changing frequently between opposite states —not used technically."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having, showing, or involving mutually contradictory or antagonistic parts : changing frequently between opposite states —not used technically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mentally unsound : schizo.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizoid designates having, showing, or involving mutually contradictory or antagonistic parts : changing frequently between opposite states —not used technically."*

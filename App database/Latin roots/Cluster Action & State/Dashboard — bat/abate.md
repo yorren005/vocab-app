@@ -5,15 +5,6 @@ status: unread
 ---
 # abate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less active or intense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become less in amount or intensity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Being so far provok’d as I was in France, I would abate her nothing, though I profess myself her adorer, not her friend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There lives within the very flame of love A kind of wick or snuff that will abate it; And nothing is at a like goodness still, For goodness, growing to a pleurisy, Dies in his own too much."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An oath of mickle might; and fury shall abate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less active or intense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become less in amount or intensity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Being so far provok’d as I was in France, I would abate her nothing, though I profess myself her adorer, not her friend."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There lives within the very flame of love A kind of wick or snuff that will abate it; And nothing is at a like goodness still, For goodness, growing to a pleurisy, Dies in his own too much."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An oath of mickle might; and fury shall abate."*

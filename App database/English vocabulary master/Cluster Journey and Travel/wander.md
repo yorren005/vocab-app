@@ -5,20 +5,6 @@ status: unread
 ---
 # wander
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Go idly about : ramble
-> 2. **Nuance / Usage**: Follow a winding course : meander
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to wander the target*) and intransitive clauses (*wandering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Safe mayst thou wander, safe return again!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Thou mayst not wander in that labyrinth."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Sits Sin, to seize the souls that wander by him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Go idly about : ramble
+> 2. **Nuance / Usage**: Follow a winding course : meander
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to wander the target*) and intransitive clauses (*wandering against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Safe mayst thou wander, safe return again!"*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Thou mayst not wander in that labyrinth."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Sits Sin, to seize the souls that wander by him."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # genial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diffusing warmth and friendliness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the chin or median part of the lower jaw.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And what with his fine hilarious manner and his engaging candour and his genial way of lightly tossing his own weaknesses about, as if he had said, “I am a child, you know!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He observed us with a genial interest, but there seemed, if I may venture on such a contradiction, nothing selfish in it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, his genial face irradiated by the comicality of this idea, “what am I to do?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Diffusing warmth and friendliness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the chin or median part of the lower jaw.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"And what with his fine hilarious manner and his engaging candour and his genial way of lightly tossing his own weaknesses about, as if he had said, “I am a child, you know!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He observed us with a genial interest, but there seemed, if I may venture on such a contradiction, nothing selfish in it."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, his genial face irradiated by the comicality of this idea, “what am I to do?"*

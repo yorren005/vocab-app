@@ -5,13 +5,6 @@ status: unread
 ---
 # autarch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Absolute sovereignty : autocracy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absolute sovereignty : autocracy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autarch designates absolute sovereignty : autocracy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Absolute sovereignty : autocracy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absolute sovereignty : autocracy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autarch designates absolute sovereignty : autocracy."*

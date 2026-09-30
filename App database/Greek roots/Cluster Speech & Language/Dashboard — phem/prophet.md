@@ -5,15 +5,6 @@ status: unread
 ---
 # prophet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who utters divinely inspired revelations: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The writer of one of the prophetic books of the Bible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A prophet I, madam; and I speak the truth the next way: _For I the ballad will repeat, Which men full true shall find; Your marriage comes by destiny, Your cuckoo sings by kind._ COUNTESS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No prophet will I trust if she prove false. [_Exeunt._] SCENE III."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now shine it like a comet of revenge, A prophet to the fall of all our foes!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who utters divinely inspired revelations: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The writer of one of the prophetic books of the Bible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A prophet I, madam; and I speak the truth the next way: _For I the ballad will repeat, Which men full true shall find; Your marriage comes by destiny, Your cuckoo sings by kind._ COUNTESS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No prophet will I trust if she prove false. [_Exeunt._] SCENE III."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now shine it like a comet of revenge, A prophet to the fall of all our foes!"*

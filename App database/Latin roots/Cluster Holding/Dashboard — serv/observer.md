@@ -5,15 +5,6 @@ status: unread
 ---
 # observer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who becomes aware (of things or events) through the senses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert who observes and comments on something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He reads much, He is a great observer, and he looks Quite through the deeds of men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Angelo, There is a kind of character in thy life That to th’ observer doth thy history Fully unfold."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A close observer might perhaps detect both in her eye and her brother’s, when their venerable grandsire anticipates his being gone, some little impatience to know when he may be going, and some resentful opinion that it is time he went."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who becomes aware (of things or events) through the senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert who observes and comments on something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He reads much, He is a great observer, and he looks Quite through the deeds of men."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Angelo, There is a kind of character in thy life That to th’ observer doth thy history Fully unfold."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A close observer might perhaps detect both in her eye and her brother’s, when their venerable grandsire anticipates his being gone, some little impatience to know when he may be going, and some resentful opinion that it is time he went."*

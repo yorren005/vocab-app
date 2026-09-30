@@ -5,13 +5,6 @@ status: unread
 ---
 # blenny
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small usually scaleless fishes with comb-like teeth living about rocky shores; are territorial and live in holes between rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small usually scaleless fishes with comb-like teeth living about rocky shores; are territorial and live in holes between rocks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blenny designates small usually scaleless fishes with comb-like teeth living about rocky shores; are territorial and live in holes between rocks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small usually scaleless fishes with comb-like teeth living about rocky shores; are territorial and live in holes between rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small usually scaleless fishes with comb-like teeth living about rocky shores; are territorial and live in holes between rocks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blenny designates small usually scaleless fishes with comb-like teeth living about rocky shores; are territorial and live in holes between rocks."*

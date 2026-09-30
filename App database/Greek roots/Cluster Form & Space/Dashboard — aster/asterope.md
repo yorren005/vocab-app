@@ -5,13 +5,6 @@ status: unread
 ---
 # asterope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) one of the 7 pleiades.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the stars in the star cluster pleiades.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asterope designates (greek mythology) one of the 7 pleiades."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) one of the 7 pleiades.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the stars in the star cluster pleiades.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asterope designates (greek mythology) one of the 7 pleiades."*

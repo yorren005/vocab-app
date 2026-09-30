@@ -5,15 +5,6 @@ status: unread
 ---
 # exponent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who pleads for a cause or propounds an idea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who expounds and interprets or explains.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A clergyman, himself an exponent of God's bountiful dealings with men, was called upon in test of his own principles of giving to the Lord."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Plutarch, who lived from about 50 A.D. to 117 or so, is our great exponent of this old religion."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Show how each option, which has statistical probability for success up to exponent three can adversely affect those treaties or negotiations." Camari drew a deep breath."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who pleads for a cause or propounds an idea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who expounds and interprets or explains.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A clergyman, himself an exponent of God's bountiful dealings with men, was called upon in test of his own principles of giving to the Lord."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Plutarch, who lived from about 50 A.D. to 117 or so, is our great exponent of this old religion."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Show how each option, which has statistical probability for success up to exponent three can adversely affect those treaties or negotiations." Camari drew a deep breath."*

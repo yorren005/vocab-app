@@ -5,15 +5,6 @@ status: unread
 ---
 # surmise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message expressing an opinion based on incomplete evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infer from incomplete evidence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My thought, whose murder yet is but fantastical, Shakes so my single state of man That function is smother’d in surmise, And nothing is but what is not."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Aaron is gone, and my compassionate heart Will not permit mine eyes once to behold The thing whereat it trembles by surmise."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore that praise which Collatine doth owe Enchanted Tarquin answers with surmise, In silent wonder of still-gazing eyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A message expressing an opinion based on incomplete evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infer from incomplete evidence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My thought, whose murder yet is but fantastical, Shakes so my single state of man That function is smother’d in surmise, And nothing is but what is not."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Aaron is gone, and my compassionate heart Will not permit mine eyes once to behold The thing whereat it trembles by surmise."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore that praise which Collatine doth owe Enchanted Tarquin answers with surmise, In silent wonder of still-gazing eyes."*

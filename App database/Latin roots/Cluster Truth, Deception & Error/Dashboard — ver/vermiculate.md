@@ -5,13 +5,6 @@ status: unread
 ---
 # vermiculate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decorate with wavy or winding lines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infested with or damaged (as if eaten) by worms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"These filed in about nine o’clock, their vermiculated horns lopping gracefully on each side of their cheeks in geometrically perfect spirals, a small pink and white ear nestling under each horn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decorate with wavy or winding lines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infested with or damaged (as if eaten) by worms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"These filed in about nine o’clock, their vermiculated horns lopping gracefully on each side of their cheeks in geometrically perfect spirals, a small pink and white ear nestling under each horn."*

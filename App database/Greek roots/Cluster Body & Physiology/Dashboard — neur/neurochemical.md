@@ -5,13 +5,6 @@ status: unread
 ---
 # neurochemical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any organic substance that occurs in neural activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any organic substance that occurs in neural activity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurochemical designates any organic substance that occurs in neural activity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any organic substance that occurs in neural activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any organic substance that occurs in neural activity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurochemical designates any organic substance that occurs in neural activity."*

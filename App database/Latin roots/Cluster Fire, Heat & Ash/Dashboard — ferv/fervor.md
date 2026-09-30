@@ -5,15 +5,6 @@ status: unread
 ---
 # fervor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feelings of great warmth and intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being emotionally aroused and worked up.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The force of the invective, the keenness of the wit, and the fervor of the imagination which they displayed, rendered them an important force in the theological liberation of Scotland."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I still held on to the leg of the table, but clutched it now with the fervor of gratitude."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I fear I shall never have the opportunity.” Will spoke with fervor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feelings of great warmth and intensity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being emotionally aroused and worked up.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The force of the invective, the keenness of the wit, and the fervor of the imagination which they displayed, rendered them an important force in the theological liberation of Scotland."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I still held on to the leg of the table, but clutched it now with the fervor of gratitude."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I fear I shall never have the opportunity.” Will spoke with fervor."*

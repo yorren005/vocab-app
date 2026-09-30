@@ -5,15 +5,6 @@ status: unread
 ---
 # infinitely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without bounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continuing forever without end.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"IMOGEN. [_Reads._] _He is one of the noblest note, to whose kindnesses I am most infinitely tied."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when I am a-horseback I will swear I love thee infinitely."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bate me some, and I will pay you some, and, as most debtors do, promise you infinitely."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without bounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continuing forever without end.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"IMOGEN. [_Reads._] _He is one of the noblest note, to whose kindnesses I am most infinitely tied."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when I am a-horseback I will swear I love thee infinitely."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bate me some, and I will pay you some, and, as most debtors do, promise you infinitely."*

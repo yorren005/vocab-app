@@ -5,20 +5,6 @@ status: unread
 ---
 # glimpse
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Glimmer
-> 2. **Nuance / Usage**: Look briefly
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to glimpse the target*) and intransitive clauses (*glimpsing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"which we saw it that it was like a glimpse of the better land."*
-> - 📜 **Henry James (*The Portrait of a Lady*):** *"I must get a glimpse of the nobility."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"catching a glimpse of the escaped convict."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A momentary, partial, or fleeting view of someone or something; to catch sight of briefly.
+> 2. **Nuance / Usage**: Figuratively, a brief, illuminating flash of insight, foretaste, or revelation into a hidden state (*a glimpse into the future*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to glimpse the target*) and intransitive clauses (*glimpsing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"So bright was the morning when we saw it that it seemed like a **glimpse** of the better land."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Before I leave England, I must at least get a **glimpse** of the nobility."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"We crouched behind the granite boulder, catching a **glimpse** of the escaped convict against the skyline."*

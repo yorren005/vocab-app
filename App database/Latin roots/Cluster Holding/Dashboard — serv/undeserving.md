@@ -5,15 +5,6 @@ status: unread
 ---
 # undeserving
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deserving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deserving.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lady, to the manner of the days, In courtesy gives undeserving praise."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My gracious lord, that which I would discover The law of friendship bids me to conceal, But when I call to mind your gracious favours Done to me, undeserving as I am, My duty pricks me on to utter that Which else no worldly good should draw from me."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Well, he is a very undeserving young man--and I do not suppose there is the least chance in the world of her ever getting him now."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deserving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deserving.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lady, to the manner of the days, In courtesy gives undeserving praise."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My gracious lord, that which I would discover The law of friendship bids me to conceal, But when I call to mind your gracious favours Done to me, undeserving as I am, My duty pricks me on to utter that Which else no worldly good should draw from me."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Well, he is a very undeserving young man--and I do not suppose there is the least chance in the world of her ever getting him now."*

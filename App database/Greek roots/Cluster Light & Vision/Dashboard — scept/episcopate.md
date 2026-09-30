@@ -5,13 +5,6 @@ status: unread
 ---
 # episcopate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The term of office of a bishop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The territorial jurisdiction of a bishop.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, episcopate designates the term of office of a bishop."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The term of office of a bishop.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The territorial jurisdiction of a bishop.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, episcopate designates the term of office of a bishop."*

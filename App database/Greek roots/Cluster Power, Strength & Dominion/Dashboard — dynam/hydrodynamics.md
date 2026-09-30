@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrodynamics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of physics that deals with the motion of fluids and the forces acting on solid bodies immersed in fluids and in motion relative to them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of physics that deals with the motion of fluids and the forces acting on solid bodies immersed in fluids and in motion relative to them.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrodynamics designates a branch of physics that deals with the motion of fluids and the forces acting on solid bodies immersed in fluids and in motion relative to them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of physics that deals with the motion of fluids and the forces acting on solid bodies immersed in fluids and in motion relative to them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of physics that deals with the motion of fluids and the forces acting on solid bodies immersed in fluids and in motion relative to them.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrodynamics designates a branch of physics that deals with the motion of fluids and the forces acting on solid bodies immersed in fluids and in motion relative to them."*

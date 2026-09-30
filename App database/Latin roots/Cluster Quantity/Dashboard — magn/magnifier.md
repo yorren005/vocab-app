@@ -5,13 +5,6 @@ status: unread
 ---
 # magnifier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientific instrument that magnifies an image.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientific instrument that magnifies an image.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnifier designates a scientific instrument that magnifies an image."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientific instrument that magnifies an image.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientific instrument that magnifies an image.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnifier designates a scientific instrument that magnifies an image."*

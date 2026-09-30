@@ -5,13 +5,6 @@ status: unread
 ---
 # baraka
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states writer of poems and plays about racial conflict (born in 1934).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states writer of poems and plays about racial conflict (born in 1934).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"On the morning of that day (_Ashur_) all water or, according to some people, only spring water is endowed with a magical virtue (_baraka_), especially before sunrise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states writer of poems and plays about racial conflict (born in 1934).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states writer of poems and plays about racial conflict (born in 1934).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"On the morning of that day (_Ashur_) all water or, according to some people, only spring water is endowed with a magical virtue (_baraka_), especially before sunrise."*

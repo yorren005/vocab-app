@@ -5,13 +5,6 @@ status: unread
 ---
 # thereinafter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the following part of a given matter, as in a document or speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the following part of a given matter, as in a document or speech.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thereinafter designates in the following part of a given matter, as in a document or speech."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the following part of a given matter, as in a document or speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the following part of a given matter, as in a document or speech.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thereinafter designates in the following part of a given matter, as in a document or speech."*

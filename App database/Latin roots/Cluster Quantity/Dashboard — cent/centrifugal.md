@@ -5,15 +5,6 @@ status: unread
 ---
 # centrifugal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to move away from a center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending away from centralization, as of authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"How is this force, with its numberless checks and counter-checks, its centripetal and centrifugal tendencies, best determined in its necessarily oblique way?"*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"At that distance they accordingly stood, fixed there by the centrifugal force of the repugnance which the mystic symbol inspired."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The subsequent rapid spread of the art, in the hands of students and craftsmen, may be said to have been the centrifugal force of the Renaissance and the Revival of Learning, which age, if it can be chronologically delimited, began A."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to move away from a center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending away from centralization, as of authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"How is this force, with its numberless checks and counter-checks, its centripetal and centrifugal tendencies, best determined in its necessarily oblique way?"*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"At that distance they accordingly stood, fixed there by the centrifugal force of the repugnance which the mystic symbol inspired."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The subsequent rapid spread of the art, in the hands of students and craftsmen, may be said to have been the centrifugal force of the Renaissance and the Revival of Learning, which age, if it can be chronologically delimited, began A."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # remise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expensive or high-class hackney.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small building for housing coaches and carriages and other vehicles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, remise designates an expensive or high-class hackney."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expensive or high-class hackney.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small building for housing coaches and carriages and other vehicles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, remise designates an expensive or high-class hackney."*

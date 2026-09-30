@@ -5,15 +5,6 @@ status: unread
 ---
 # accept
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider or hold as true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receive willingly something given or offered.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their latest refuge Was to send him, for whose old love I have— Though I showed sourly to him—once more offered The first conditions, which they did refuse And cannot now accept, to grace him only That thought he could do more."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, the gods bless you for your tidings; next, accept my thankfulness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would you would accept of grace and love."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider or hold as true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receive willingly something given or offered.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their latest refuge Was to send him, for whose old love I have— Though I showed sourly to him—once more offered The first conditions, which they did refuse And cannot now accept, to grace him only That thought he could do more."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, the gods bless you for your tidings; next, accept my thankfulness."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would you would accept of grace and love."*

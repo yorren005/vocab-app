@@ -5,15 +5,6 @@ status: unread
 ---
 # lin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states sculptor and architect whose public works include the memorial to veterans of the vietnam war in washington (born in 1959).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states sculptor and architect whose public works include the memorial to veterans of the vietnam war in washington (born in 1959).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Others there are Who, trimm’d in forms, and visages of duty, Keep yet their hearts attending on themselves, And throwing but shows of service on their lords, Do well thrive by them, and when they have lin’d their coats, Do themselves homage."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ye burnies, wimplin’ down your glens, Wi’ toddlin din, Or foaming, strang, wi’ hasty stens, Frae lin to lin."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Our first day from Li-chou was a short stage, and we had a long, leisurely tiffin at Sung-lin, where there was an exceptionally good inn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states sculptor and architect whose public works include the memorial to veterans of the vietnam war in washington (born in 1959).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states sculptor and architect whose public works include the memorial to veterans of the vietnam war in washington (born in 1959).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Others there are Who, trimm’d in forms, and visages of duty, Keep yet their hearts attending on themselves, And throwing but shows of service on their lords, Do well thrive by them, and when they have lin’d their coats, Do themselves homage."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ye burnies, wimplin’ down your glens, Wi’ toddlin din, Or foaming, strang, wi’ hasty stens, Frae lin to lin."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Our first day from Li-chou was a short stage, and we had a long, leisurely tiffin at Sung-lin, where there was an exceptionally good inn."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # paraplegia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paralysis of the lower half of the body (most often as a result of trauma).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paralysis of the lower half of the body (most often as a result of trauma).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraplegia designates paralysis of the lower half of the body (most often as a result of trauma)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paralysis of the lower half of the body (most often as a result of trauma).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paralysis of the lower half of the body (most often as a result of trauma).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraplegia designates paralysis of the lower half of the body (most often as a result of trauma)."*

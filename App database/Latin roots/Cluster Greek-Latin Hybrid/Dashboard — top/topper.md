@@ -5,15 +5,6 @@ status: unread
 ---
 # topper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker who makes or adds the top to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A worker who cuts tops off (of trees or vegetables etc.).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"In the black topper the light was completely hidden, and they flew on in silence."*
-> - 📜 **James Joyce (*Ulysses*):** *"I should have said when he clapped on his topper."*
-> - 📜 **James Joyce (*Ulysses*):** *"As the glossy horses pranced by Merrion square Master Patrick Aloysius Dignam, waiting, saw salutes being given to the gent with the topper and raised also his new black cap with fingers greased by porksteak paper."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker who makes or adds the top to something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A worker who cuts tops off (of trees or vegetables etc.).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"In the black topper the light was completely hidden, and they flew on in silence."*
+> - 📜 **James Joyce (*Ulysses*):** *"I should have said when he clapped on his topper."*
+> - 📜 **James Joyce (*Ulysses*):** *"As the glossy horses pranced by Merrion square Master Patrick Aloysius Dignam, waiting, saw salutes being given to the gent with the topper and raised also his new black cap with fingers greased by porksteak paper."*

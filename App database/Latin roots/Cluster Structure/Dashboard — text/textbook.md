@@ -5,15 +5,6 @@ status: unread
 ---
 # textbook
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A book prepared for use in schools or colleges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According to or characteristic of a casebook or textbook; typical.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What we have, so far, is a textbook tactical disposition of forces around a theoretical objective."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Scriptural foundations In following these leadings of scientific revelation, the Bible was my only textbook."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"This volume indispensable A Christian Scientist requires my work SCIENCE AND HEALTH for his textbook, and so do all his students and 456:27 patients."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A book prepared for use in schools or colleges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According to or characteristic of a casebook or textbook; typical.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What we have, so far, is a textbook tactical disposition of forces around a theoretical objective."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Scriptural foundations In following these leadings of scientific revelation, the Bible was my only textbook."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"This volume indispensable A Christian Scientist requires my work SCIENCE AND HEALTH for his textbook, and so do all his students and 456:27 patients."*

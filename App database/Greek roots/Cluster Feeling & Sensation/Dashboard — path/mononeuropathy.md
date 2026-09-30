@@ -5,13 +5,6 @@ status: unread
 ---
 # mononeuropathy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any neuropathy of a single nerve trunk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any neuropathy of a single nerve trunk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mononeuropathy designates any neuropathy of a single nerve trunk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any neuropathy of a single nerve trunk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any neuropathy of a single nerve trunk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mononeuropathy designates any neuropathy of a single nerve trunk."*

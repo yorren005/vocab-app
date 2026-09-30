@@ -5,15 +5,6 @@ status: unread
 ---
 # mars
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small reddish planet that is the 4th from the sun and is periodically visible to the naked eye; minerals rich in iron cover its surface and are responsible for its characteristic color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) roman god of war and agriculture; father of romulus and remus; counterpart of greek ares.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I especially think, under Mars."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The wars hath so kept you under, that you must needs be born under Mars."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mars dote on you for his novices! [_Exeunt Lords._] What will ye do?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small reddish planet that is the 4th from the sun and is periodically visible to the naked eye; minerals rich in iron cover its surface and are responsible for its characteristic color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) roman god of war and agriculture; father of romulus and remus; counterpart of greek ares.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I especially think, under Mars."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The wars hath so kept you under, that you must needs be born under Mars."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mars dote on you for his novices! [_Exeunt Lords._] What will ye do?"*

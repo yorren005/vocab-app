@@ -5,13 +5,6 @@ status: unread
 ---
 # semiempirical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relying to some extent on observation or experiment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relying to some extent on observation or experiment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiempirical designates relying to some extent on observation or experiment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relying to some extent on observation or experiment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relying to some extent on observation or experiment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiempirical designates relying to some extent on observation or experiment."*

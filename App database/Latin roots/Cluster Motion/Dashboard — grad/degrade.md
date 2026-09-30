@@ -5,15 +5,6 @@ status: unread
 ---
 # degrade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce the level of land, as by erosion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce in worth or character, usually verbally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As for me, without shame I tell you the only reason I do not spit upon you is that I cannot demean myself nor so degrade my spittle.” “I’ve reached the limit of my patience!” he bellowed."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Even during his lifetime the Gospels reveal much about Jesus that in contemporary opinion would degrade him--sighs and tears and fatigue, liability to emotion and to pain, friendship with women."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Hence we find him ever ready to degrade his muse by making it the vehicle for immoral thoughts and abominable calumnies.[271] The question of Heine's patriotism has always been a much-debated one, and must doubtless remain so."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce the level of land, as by erosion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce in worth or character, usually verbally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As for me, without shame I tell you the only reason I do not spit upon you is that I cannot demean myself nor so degrade my spittle.” “I’ve reached the limit of my patience!” he bellowed."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Even during his lifetime the Gospels reveal much about Jesus that in contemporary opinion would degrade him--sighs and tears and fatigue, liability to emotion and to pain, friendship with women."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Hence we find him ever ready to degrade his muse by making it the vehicle for immoral thoughts and abominable calumnies.[271] The question of Heine's patriotism has always been a much-debated one, and must doubtless remain so."*

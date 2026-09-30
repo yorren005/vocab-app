@@ -5,13 +5,6 @@ status: unread
 ---
 # hypermarket
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A huge supermarket (usually built on the outskirts of a town).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A huge supermarket (usually built on the outskirts of a town).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypermarket designates a huge supermarket (usually built on the outskirts of a town)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A huge supermarket (usually built on the outskirts of a town).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A huge supermarket (usually built on the outskirts of a town).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypermarket designates a huge supermarket (usually built on the outskirts of a town)."*

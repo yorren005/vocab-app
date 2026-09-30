@@ -5,13 +5,6 @@ status: unread
 ---
 # glossily
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a glossy manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a glossy manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Lady Lynn was a large and stout personage of about forty, very erect, very haughty-looking, richly dressed in a satin robe of changeful sheen: her dark hair shone glossily under the shade of an azure plume, and within the circlet of a band of gems."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a glossy manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a glossy manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Lady Lynn was a large and stout personage of about forty, very erect, very haughty-looking, richly dressed in a satin robe of changeful sheen: her dark hair shone glossily under the shade of an azure plume, and within the circlet of a band of gems."*

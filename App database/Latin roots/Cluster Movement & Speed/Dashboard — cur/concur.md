@@ -5,15 +5,6 @@ status: unread
 ---
 # concur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be in accord; be in agreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happen simultaneously.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, all you peers of Greece, go to my tent; There in the full convive we; afterwards, As Hector’s leisure and your bounties shall Concur together, severally entreat him."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"I am still the same In my opinion, and forbear to frame Qualification, or excuse: If you Concur with me, and hold my judgement true, Shew it with any sign, and from this place, Or send me off exploded, or with grace._ THE CUSTOM OF THE COUNTRY."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Or should he consult Sir James Chettam, and get him to concur in remonstrance against a step which touched the whole family?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be in accord; be in agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happen simultaneously.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, all you peers of Greece, go to my tent; There in the full convive we; afterwards, As Hector’s leisure and your bounties shall Concur together, severally entreat him."*
+> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"I am still the same In my opinion, and forbear to frame Qualification, or excuse: If you Concur with me, and hold my judgement true, Shew it with any sign, and from this place, Or send me off exploded, or with grace._ THE CUSTOM OF THE COUNTRY."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Or should he consult Sir James Chettam, and get him to concur in remonstrance against a step which touched the whole family?"*

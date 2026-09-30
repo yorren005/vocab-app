@@ -5,15 +5,6 @@ status: unread
 ---
 # unlettered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having little acquaintance with writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uneducated in general; lacking knowledge or sophistication.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think good thoughts, whilst other write good words, And like unlettered clerk still cry Amen, To every hymn that able spirit affords, In polished form of well refined pen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KING. [_Reads_.] _That unlettered small-knowing soul—_ COSTARD."*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"I think good thoughts, whilst others write good words, And like unlettered clerk still cry ‘Amen’ To every hymn that able spirit affords, In polish’d form of well-refined pen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having little acquaintance with writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uneducated in general; lacking knowledge or sophistication.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think good thoughts, whilst other write good words, And like unlettered clerk still cry Amen, To every hymn that able spirit affords, In polished form of well refined pen."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KING. [_Reads_.] _That unlettered small-knowing soul—_ COSTARD."*
+> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"I think good thoughts, whilst others write good words, And like unlettered clerk still cry ‘Amen’ To every hymn that able spirit affords, In polish’d form of well-refined pen."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # unsolved
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not solved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not solved.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Several parties were arrested on suspicion, but nothing could be proved, and the mystery remained unsolved."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Can man fathom life's links, Past or future, unsolved by Egyptian Or Theban, unspoken by Sphinx?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He seemed to see and hear nothing of what was going on around him and to be absorbed by some depressing and unsolved problem."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not solved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not solved.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Several parties were arrested on suspicion, but nothing could be proved, and the mystery remained unsolved."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Can man fathom life's links, Past or future, unsolved by Egyptian Or Theban, unspoken by Sphinx?"*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He seemed to see and hear nothing of what was going on around him and to be absorbed by some depressing and unsolved problem."*

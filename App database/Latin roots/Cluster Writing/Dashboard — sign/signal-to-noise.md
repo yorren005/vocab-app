@@ -5,13 +5,6 @@ status: unread
 ---
 # signal-to-noise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ratio of signal intensity to noise intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ratio of signal intensity to noise intensity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, signal-to-noise designates the ratio of signal intensity to noise intensity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ratio of signal intensity to noise intensity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ratio of signal intensity to noise intensity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, signal-to-noise designates the ratio of signal intensity to noise intensity."*

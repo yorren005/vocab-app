@@ -5,13 +5,6 @@ status: unread
 ---
 # leviticus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The third book of the old testament; contains levitical law and ritual precedents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The third book of the old testament; contains levitical law and ritual precedents.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leviticus designates the third book of the old testament; contains levitical law and ritual precedents."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The third book of the old testament; contains levitical law and ritual precedents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The third book of the old testament; contains levitical law and ritual precedents.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leviticus designates the third book of the old testament; contains levitical law and ritual precedents."*

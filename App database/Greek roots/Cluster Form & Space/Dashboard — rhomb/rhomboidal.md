@@ -5,13 +5,6 @@ status: unread
 ---
 # rhomboidal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a rhombus or rhomboid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a rhombus or rhomboid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SOUTHERNWOOD BRAND; spots obliterated; sori subrotund, minute, surrounded by the ruptured epidermis; sporidia brown, oblong or ovoid, somewhat rhomboidal, with both cells attenuated, and triangular; peduncles elongated.—On _Artemisia maritima_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a rhombus or rhomboid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a rhombus or rhomboid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SOUTHERNWOOD BRAND; spots obliterated; sori subrotund, minute, surrounded by the ruptured epidermis; sporidia brown, oblong or ovoid, somewhat rhomboidal, with both cells attenuated, and triangular; peduncles elongated.—On _Artemisia maritima_."*

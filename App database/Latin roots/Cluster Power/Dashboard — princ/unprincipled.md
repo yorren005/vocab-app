@@ -5,15 +5,6 @@ status: unread
 ---
 # unprincipled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking principles or moral scruples; - a.e.stevenson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having little or no integrity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A warmth overspread his face: surely she was not so unprincipled as to flirt in a fair!"*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"She must be an unprincipled one, or she could not have used your brother so."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Giacinta was unprincipled and violent: I tired of her in three months."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking principles or moral scruples; - a.e.stevenson.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having little or no integrity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A warmth overspread his face: surely she was not so unprincipled as to flirt in a fair!"*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"She must be an unprincipled one, or she could not have used your brother so."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Giacinta was unprincipled and violent: I tired of her in three months."*

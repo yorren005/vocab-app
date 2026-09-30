@@ -5,15 +5,6 @@ status: unread
 ---
 # seven
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of six and one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of four playing cards in a deck with seven pips on the face.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the world’s a stage, And all the men and women merely players; They have their exits and their entrances, And one man in his time plays many parts, His acts being seven ages."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was seven of the nine days out of the wonder before you came; for look here what I found on a palm-tree."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the interim be but a se’nnight, time’s pace is so hard that it seems the length of seven year."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of six and one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of four playing cards in a deck with seven pips on the face.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the world’s a stage, And all the men and women merely players; They have their exits and their entrances, And one man in his time plays many parts, His acts being seven ages."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was seven of the nine days out of the wonder before you came; for look here what I found on a palm-tree."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the interim be but a se’nnight, time’s pace is so hard that it seems the length of seven year."*

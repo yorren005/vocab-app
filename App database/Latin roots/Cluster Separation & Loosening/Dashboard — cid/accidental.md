@@ -5,15 +5,6 @@ status: unread
 ---
 # accidental
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical notation that makes a note sharp or flat or natural although that is not part of the key signature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happening by chance or unexpectedly or unintentionally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So shall you hear Of carnal, bloody and unnatural acts, Of accidental judgements, casual slaughters, Of deaths put on by cunning and forc’d cause, And, in this upshot, purposes mistook Fall’n on the inventors’ heads."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of your philosophy you make no use, If you give place to accidental evils."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy sin’s not accidental, but a trade."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical notation that makes a note sharp or flat or natural although that is not part of the key signature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happening by chance or unexpectedly or unintentionally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So shall you hear Of carnal, bloody and unnatural acts, Of accidental judgements, casual slaughters, Of deaths put on by cunning and forc’d cause, And, in this upshot, purposes mistook Fall’n on the inventors’ heads."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of your philosophy you make no use, If you give place to accidental evils."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy sin’s not accidental, but a trade."*

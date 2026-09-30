@@ -5,13 +5,6 @@ status: unread
 ---
 # defalcate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appropriate (as property entrusted to one's care) fraudulently to one's own use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appropriate (as property entrusted to one's care) fraudulently to one's own use.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defalcate designates appropriate (as property entrusted to one's care) fraudulently to one's own use."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Appropriate (as property entrusted to one's care) fraudulently to one's own use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appropriate (as property entrusted to one's care) fraudulently to one's own use.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defalcate designates appropriate (as property entrusted to one's care) fraudulently to one's own use."*

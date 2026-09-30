@@ -5,13 +5,6 @@ status: unread
 ---
 # putrajaya
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Malaysia's sparkling new capital.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Malaysia's sparkling new capital.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putrajaya designates malaysia's sparkling new capital."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Malaysia's sparkling new capital.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Malaysia's sparkling new capital.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putrajaya designates malaysia's sparkling new capital."*

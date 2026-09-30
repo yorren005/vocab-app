@@ -5,15 +5,6 @@ status: unread
 ---
 # elocution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert manner of speaking involving control of voice and gesture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert manner of speaking involving control of voice and gesture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Rushworth; but as a well-judging, steady young man, with better notions than his elocution would do justice to, he intended to value him very highly."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"A form and attitude and garb were instantly created worthy to accompany such elocution; but this person was, in all visible respects, the reverse of this phantom."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"His elocution was less sweet than sonorous, and, therefore, better adapted than the mellifluences of his friend to the outrageous vehemence of this drama."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert manner of speaking involving control of voice and gesture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert manner of speaking involving control of voice and gesture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Rushworth; but as a well-judging, steady young man, with better notions than his elocution would do justice to, he intended to value him very highly."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"A form and attitude and garb were instantly created worthy to accompany such elocution; but this person was, in all visible respects, the reverse of this phantom."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"His elocution was less sweet than sonorous, and, therefore, better adapted than the mellifluences of his friend to the outrageous vehemence of this drama."*

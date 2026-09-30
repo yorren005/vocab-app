@@ -5,13 +5,6 @@ status: unread
 ---
 # trypsinogen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inactive precursor of trypsin; a substance secreted by the pancreas and converted to active trypsin by enterokinase in the small intestine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inactive precursor of trypsin; a substance secreted by the pancreas and converted to active trypsin by enterokinase in the small intestine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trypsinogen designates inactive precursor of trypsin; a substance secreted by the pancreas and converted to active trypsin by enterokinase in the small intestine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inactive precursor of trypsin; a substance secreted by the pancreas and converted to active trypsin by enterokinase in the small intestine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inactive precursor of trypsin; a substance secreted by the pancreas and converted to active trypsin by enterokinase in the small intestine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trypsinogen designates inactive precursor of trypsin; a substance secreted by the pancreas and converted to active trypsin by enterokinase in the small intestine."*

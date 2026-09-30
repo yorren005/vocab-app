@@ -5,13 +5,6 @@ status: unread
 ---
 # Arctic Ocean
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ocean north of the Arctic Circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ocean north of the Arctic Circle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Arctic Ocean designates ocean north of the arctic circle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ocean north of the Arctic Circle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ocean north of the Arctic Circle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Arctic Ocean designates ocean north of the arctic circle."*

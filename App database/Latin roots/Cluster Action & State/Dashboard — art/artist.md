@@ -5,15 +5,6 @@ status: unread
 ---
 # artist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose creative work shows sensitivity and imagination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person whose creative work shows sensitivity and imagination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In framing an artist, art hath thus decreed, To make some good, but others to exceed; And you are her labour’d scholar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For then the bold and coward, The wise and fool, the artist and unread, The hard and soft, seem all affin’d and kin."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is an artist too, an amateur, but might have been a professional."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose creative work shows sensitivity and imagination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person whose creative work shows sensitivity and imagination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In framing an artist, art hath thus decreed, To make some good, but others to exceed; And you are her labour’d scholar."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For then the bold and coward, The wise and fool, the artist and unread, The hard and soft, seem all affin’d and kin."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is an artist too, an amateur, but might have been a professional."*

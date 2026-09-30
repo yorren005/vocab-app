@@ -5,13 +5,6 @@ status: unread
 ---
 # falsification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any evidence that helps to establish the falsity of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A willful perversion of facts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But this word “cynical” is one of the most misused in the English language, especially when, by a glaring and gratuitous falsification of its original sense, it is applied, not to rough and snarling invective, but to gentle and oblique satire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any evidence that helps to establish the falsity of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A willful perversion of facts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But this word “cynical” is one of the most misused in the English language, especially when, by a glaring and gratuitous falsification of its original sense, it is applied, not to rough and snarling invective, but to gentle and oblique satire."*

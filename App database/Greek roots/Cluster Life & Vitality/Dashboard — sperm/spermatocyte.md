@@ -5,13 +5,6 @@ status: unread
 ---
 # spermatocyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell giving rise to sperm cells; especially : a cell that is derived by mitosis from a spermatogonium and ultimately gives rise by meiosis to four haploid spermatids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cell giving rise to sperm cells; especially : a cell that is derived by mitosis from a spermatogonium and ultimately gives rise by meiosis to four haploid spermatids.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermatocyte designates a cell giving rise to sperm cells; especially : a cell that is derived by mitosis from a spermatogonium and ultimately gives rise by meiosis to four haploid spermatids."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell giving rise to sperm cells; especially : a cell that is derived by mitosis from a spermatogonium and ultimately gives rise by meiosis to four haploid spermatids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cell giving rise to sperm cells; especially : a cell that is derived by mitosis from a spermatogonium and ultimately gives rise by meiosis to four haploid spermatids.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermatocyte designates a cell giving rise to sperm cells; especially : a cell that is derived by mitosis from a spermatogonium and ultimately gives rise by meiosis to four haploid spermatids."*

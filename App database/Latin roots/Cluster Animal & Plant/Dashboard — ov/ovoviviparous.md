@@ -5,13 +5,6 @@ status: unread
 ---
 # ovoviviparous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing living young from eggs that hatch within the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing living young from eggs that hatch within the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ovoviviparous designates producing living young from eggs that hatch within the body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing living young from eggs that hatch within the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing living young from eggs that hatch within the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ovoviviparous designates producing living young from eggs that hatch within the body."*

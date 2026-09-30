@@ -5,15 +5,6 @@ status: unread
 ---
 # finn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of finland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of finland.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"They were made so that the Finn MacCool, the champion of the giants, could take a running jump over to Scotland and he going deer-hunting in the forests of Argyll."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He must have had the arms of Finn McCool, Alan Donn, and the hands of a woman."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"She didn't cry often, that's a fact; but when she did--well, Brom Water rose, and they put it in the _Border Advertiser_ along with the extraordinary duck's egg and Major Finn's big gooseberry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of finland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of finland.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"They were made so that the Finn MacCool, the champion of the giants, could take a running jump over to Scotland and he going deer-hunting in the forests of Argyll."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He must have had the arms of Finn McCool, Alan Donn, and the hands of a woman."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"She didn't cry often, that's a fact; but when she did--well, Brom Water rose, and they put it in the _Border Advertiser_ along with the extraordinary duck's egg and Major Finn's big gooseberry."*

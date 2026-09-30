@@ -5,13 +5,6 @@ status: unread
 ---
 # elint
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intelligence derived from electromagnetic radiations from foreign sources (other than radioactive sources).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intelligence derived from electromagnetic radiations from foreign sources (other than radioactive sources).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elint designates intelligence derived from electromagnetic radiations from foreign sources (other than radioactive sources)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intelligence derived from electromagnetic radiations from foreign sources (other than radioactive sources).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intelligence derived from electromagnetic radiations from foreign sources (other than radioactive sources).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elint designates intelligence derived from electromagnetic radiations from foreign sources (other than radioactive sources)."*

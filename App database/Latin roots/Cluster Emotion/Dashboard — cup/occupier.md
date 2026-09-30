@@ -5,15 +5,6 @@ status: unread
 ---
 # occupier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who lives at a particular place for a prolonged period or who was born there.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a military force who is residing in a conquered foreign country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A curved settle of unplaned oak stretched along one side, and in a remote corner was a small bed and bedstead, the owner and frequent occupier of which was the maltster."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A curved settle of unplaned oak stretched along one side, and in a remote corner was a small bed and bedstead, the owner and frequent occupier of which was the maltster."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The broken Sedley would have acted well as the boarding-house landlady's husband; the Munoz of private life; the titular lord and master: the carver, house-steward, and humble husband of the occupier of the dingy throne."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who lives at a particular place for a prolonged period or who was born there.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a military force who is residing in a conquered foreign country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A curved settle of unplaned oak stretched along one side, and in a remote corner was a small bed and bedstead, the owner and frequent occupier of which was the maltster."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A curved settle of unplaned oak stretched along one side, and in a remote corner was a small bed and bedstead, the owner and frequent occupier of which was the maltster."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The broken Sedley would have acted well as the boarding-house landlady's husband; the Munoz of private life; the titular lord and master: the carver, house-steward, and humble husband of the occupier of the dingy throne."*

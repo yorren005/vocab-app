@@ -5,13 +5,6 @@ status: unread
 ---
 # spicule
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small pointed structure serving as a skeletal element in various marine and freshwater invertebrates e.g. sponges and corals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small pointed structure serving as a skeletal element in various marine and freshwater invertebrates e.g. sponges and corals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The most prominent distinction may be found in the apices of the spores, which, in this instance, are not attenuated, but crowned with a series of little spicules, or teeth, whence the specific name of _coronata_ has been derived (Plate IV. fig. 62)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small pointed structure serving as a skeletal element in various marine and freshwater invertebrates e.g. sponges and corals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small pointed structure serving as a skeletal element in various marine and freshwater invertebrates e.g. sponges and corals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The most prominent distinction may be found in the apices of the spores, which, in this instance, are not attenuated, but crowned with a series of little spicules, or teeth, whence the specific name of _coronata_ has been derived (Plate IV. fig. 62)."*

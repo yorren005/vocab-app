@@ -5,15 +5,6 @@ status: unread
 ---
 # voraciously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an eagerly voracious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an eagerly voracious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He walked up to the sideboard, and tearing a piece from the loaf he devoured it voraciously, washing it down with a long draught of water."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Let me alone, now." This colloquy had taken place at the dinner table where Bloodworth was voraciously devouring food, in an effort, it would appear, to be strong abdominally if not intellectually."*
-> - 📜 **James Joyce (*Ulysses*):** *"Occasionally he drank voraciously the juice of gooseberry fool from an inclined plate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an eagerly voracious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an eagerly voracious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He walked up to the sideboard, and tearing a piece from the loaf he devoured it voraciously, washing it down with a long draught of water."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Let me alone, now." This colloquy had taken place at the dinner table where Bloodworth was voraciously devouring food, in an effort, it would appear, to be strong abdominally if not intellectually."*
+> - 📜 **James Joyce (*Ulysses*):** *"Occasionally he drank voraciously the juice of gooseberry fool from an inclined plate."*

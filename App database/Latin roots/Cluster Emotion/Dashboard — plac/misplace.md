@@ -5,15 +5,6 @@ status: unread
 ---
 # misplace
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place (something) where one cannot find it again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place or position wrongly; put in the wrong position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ESCALUS. [_To Angelo_.] Do you hear how he misplaces?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would we could do so, for her benefits are mightily misplaced, and the bountiful blind woman doth most mistake in her gifts to women."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll have this crown of mine cut from my shoulders Before I’ll see the crown so foul misplaced."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Place (something) where one cannot find it again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place or position wrongly; put in the wrong position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ESCALUS. [_To Angelo_.] Do you hear how he misplaces?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would we could do so, for her benefits are mightily misplaced, and the bountiful blind woman doth most mistake in her gifts to women."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll have this crown of mine cut from my shoulders Before I’ll see the crown so foul misplaced."*

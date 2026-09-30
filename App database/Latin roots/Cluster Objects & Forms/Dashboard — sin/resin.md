@@ -5,15 +5,6 @@ status: unread
 ---
 # resin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class of solid or semisolid viscous substances obtained either as exudations from certain plants or prepared by polymerization of simple molecules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class of solid or semisolid viscous substances obtained either as exudations from certain plants or prepared by polymerization of simple molecules.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Sometimes an old cartwheel is smeared with resin, ignited, and sent rolling down the hill."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The penalty for being a were-wolf is death; but the sentence is never passed until the accused has had a fair trial and his guilt has been clearly demonstrated by an ordeal, which consists in dipping the middle finger into boiling resin."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Picture to yourself those first navigators venturing in ships made of planks sewn with the cords of the palmtree, saturated with the grease of the seadog, and covered with powdered resin!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class of solid or semisolid viscous substances obtained either as exudations from certain plants or prepared by polymerization of simple molecules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class of solid or semisolid viscous substances obtained either as exudations from certain plants or prepared by polymerization of simple molecules.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Sometimes an old cartwheel is smeared with resin, ignited, and sent rolling down the hill."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The penalty for being a were-wolf is death; but the sentence is never passed until the accused has had a fair trial and his guilt has been clearly demonstrated by an ordeal, which consists in dipping the middle finger into boiling resin."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Picture to yourself those first navigators venturing in ships made of planks sewn with the cords of the palmtree, saturated with the grease of the seadog, and covered with powdered resin!"*

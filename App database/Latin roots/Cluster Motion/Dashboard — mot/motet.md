@@ -5,13 +5,6 @@ status: unread
 ---
 # motet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unaccompanied choral composition with sacred lyrics; intended to be sung as part of a church service; originated in the 13th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unaccompanied choral composition with sacred lyrics; intended to be sung as part of a church service; originated in the 13th century.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motet designates an unaccompanied choral composition with sacred lyrics; intended to be sung as part of a church service; originated in the 13th century."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unaccompanied choral composition with sacred lyrics; intended to be sung as part of a church service; originated in the 13th century.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unaccompanied choral composition with sacred lyrics; intended to be sung as part of a church service; originated in the 13th century.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motet designates an unaccompanied choral composition with sacred lyrics; intended to be sung as part of a church service; originated in the 13th century."*

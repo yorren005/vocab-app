@@ -5,15 +5,6 @@ status: unread
 ---
 # russia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A former communist country in eastern europe and northern asia; established in 1922; included russia and 14 other soviet socialist republics (ukraine and byelorussia and others); officially dissolved 31 december 1991.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formerly the largest soviet socialist republic in the ussr occupying eastern europe and northern asia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This will last out a night in Russia When nights are longest there."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some say he is with the Emperor of Russia; other some, he is in Rome."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Emperor of Russia was my father."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former communist country in eastern europe and northern asia; established in 1922; included russia and 14 other soviet socialist republics (ukraine and byelorussia and others); officially dissolved 31 december 1991.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formerly the largest soviet socialist republic in the ussr occupying eastern europe and northern asia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This will last out a night in Russia When nights are longest there."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some say he is with the Emperor of Russia; other some, he is in Rome."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Emperor of Russia was my father."*

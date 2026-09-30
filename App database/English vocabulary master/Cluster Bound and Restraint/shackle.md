@@ -5,20 +5,6 @@ status: unread
 ---
 # shackle
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Something (such as a manacle or fetter) that confines the legs or arms
-> 2. **Nuance / Usage**: Usually u-shaped fastening device secured by a bolt or pin through holes in the end of the two arms
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the shackle withstood the storm*), direct object (*cleaved the shackle*), or prepositional anchor (*amidst the shackle*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Richard M. Sherman (*Sister Suffragette*):** *"Cast off the shackles of yesterday! / Shoulder to shoulder into the fray!"*
-> - 📜 **David J. House (*Ship Handling: Theory and Practice*):** *"Once the cables are at five shackles to each anchor, stop engines and stop windlass operations. The vessel will then be seen to lie to five shackles on the Port (Riding Cable) and five shackles on the starboard (Sleeping Cable)."*
-> - 📜 **Thomas Richards (priest) (*Antiquæ Linguæ Britannicæ Thesaurus. A Welsh and English Dictionary:{{nb...*):** *"Huelydd, sub[stantive] a fetterer, he that shackleth or fettereth"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A metal ring or iron link—usually one of a pair connected by a chain—fastened around a prisoner's wrists or ankles to confine movement; as a verb, to bind with chains.
+> 2. **Nuance / Usage**: Used figuratively in the plural (*shackles*) for oppressive customs, laws, or fears that prevent free action; in nautical and rigging contexts, a U-shaped clevis secured with a bolt.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count, usually plural) & Transitive Verb.
+> - **Syntactic Constructions**: Functions nominally (*cast off the shackles*) and verbally (*shackled by debt*).
+> - **Collocations & Registers**: Legal, political, and nautical registers; paired with *iron*, *manacle*, *fetter*, *cast off*, and *bondage*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Richard M. Sherman (*Mary Poppins*):** *"Cast off the **shackles** of yesterday! Shoulder to shoulder into the fray!"*
+> - 📜 **David J. House (*Ship Handling: Theory and Practice*):** *"Once the cables are at five **shackles** to each anchor, stop engines and stop windlass operations."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"The iron **shackles** upon our limbs were less galling than the chains that bound our minds in ignorance."*

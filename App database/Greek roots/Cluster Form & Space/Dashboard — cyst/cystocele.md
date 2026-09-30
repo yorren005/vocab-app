@@ -5,13 +5,6 @@ status: unread
 ---
 # cystocele
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hernia in which the urinary bladder protrudes through the wall of the vagina; sometimes occurs after childbirth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hernia in which the urinary bladder protrudes through the wall of the vagina; sometimes occurs after childbirth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cystocele designates hernia in which the urinary bladder protrudes through the wall of the vagina; sometimes occurs after childbirth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hernia in which the urinary bladder protrudes through the wall of the vagina; sometimes occurs after childbirth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hernia in which the urinary bladder protrudes through the wall of the vagina; sometimes occurs after childbirth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cystocele designates hernia in which the urinary bladder protrudes through the wall of the vagina; sometimes occurs after childbirth."*

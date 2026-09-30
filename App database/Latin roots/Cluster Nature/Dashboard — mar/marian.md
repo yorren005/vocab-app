@@ -5,15 +5,6 @@ status: unread
 ---
 # marian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or venerating the virgin mary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or venerating the virgin mary.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Maud, Bridget, Marian, Cicely, Gillian, Ginn!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s no more faith in thee than in a stewed prune, nor no more truth in thee than in a drawn fox; and, for woman-hood, Maid Marian may be the deputy’s wife of the ward to thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ask Marian Hacket, the fat ale-wife of Wincot, if she know me not: if she say I am not fourteen pence on the score for sheer ale, score me up for the lyingest knave in Christendom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or venerating the virgin mary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or venerating the virgin mary.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Maud, Bridget, Marian, Cicely, Gillian, Ginn!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s no more faith in thee than in a stewed prune, nor no more truth in thee than in a drawn fox; and, for woman-hood, Maid Marian may be the deputy’s wife of the ward to thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ask Marian Hacket, the fat ale-wife of Wincot, if she know me not: if she say I am not fourteen pence on the score for sheer ale, score me up for the lyingest knave in Christendom."*

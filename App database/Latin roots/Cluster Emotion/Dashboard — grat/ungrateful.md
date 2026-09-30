@@ -5,15 +5,6 @@ status: unread
 ---
 # ungrateful
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not feeling or showing gratitude; ; - shakespeare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disagreeable; - abraham lincoln.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Worthy Martius, Had we no other quarrel else to Rome but that Thou art thence banished, we would muster all From twelve to seventy and, pouring war Into the bowels of ungrateful Rome, Like a bold flood o’erbear ’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Injurious Hermia, most ungrateful maid!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In common worldly things ’tis called ungrateful With dull unwillingness to repay a debt Which with a bounteous hand was kindly lent; Much more to be thus opposite with heaven, For it requires the royal debt it lent you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not feeling or showing gratitude; ; - shakespeare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disagreeable; - abraham lincoln.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Worthy Martius, Had we no other quarrel else to Rome but that Thou art thence banished, we would muster all From twelve to seventy and, pouring war Into the bowels of ungrateful Rome, Like a bold flood o’erbear ’t."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Injurious Hermia, most ungrateful maid!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In common worldly things ’tis called ungrateful With dull unwillingness to repay a debt Which with a bounteous hand was kindly lent; Much more to be thus opposite with heaven, For it requires the royal debt it lent you."*

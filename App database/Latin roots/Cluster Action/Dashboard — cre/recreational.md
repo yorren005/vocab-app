@@ -5,14 +5,6 @@ status: unread
 ---
 # recreational
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to recreation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engaged in as a pastime.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They, as well as the general population, would be cared for and supported by a host of administrative, health care, educational, recreational, life support and community services."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"When enclosed areas were shirtsleeve ready for occupancy, the Cadre would erect essential life support, residential and recreational facilities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +41,10 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to recreation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engaged in as a pastime.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They, as well as the general population, would be cared for and supported by a host of administrative, health care, educational, recreational, life support and community services."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"When enclosed areas were shirtsleeve ready for occupancy, the Cadre would erect essential life support, residential and recreational facilities."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fractional monetary unit of japan and indonesia and cambodia; equal to one hundredth of a yen or rupiah or riel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fractional monetary unit of japan and indonesia and cambodia; equal to one hundredth of a yen or rupiah or riel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"From the little we had seen of the land and the people we were not impressed by Cho-Sen."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Such was our introduction to the officialdom of Cho-Sen."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All I can say, and the best I can say, is that he was the whitest man I ever encountered in Cho-Sen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fractional monetary unit of japan and indonesia and cambodia; equal to one hundredth of a yen or rupiah or riel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fractional monetary unit of japan and indonesia and cambodia; equal to one hundredth of a yen or rupiah or riel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"From the little we had seen of the land and the people we were not impressed by Cho-Sen."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Such was our introduction to the officialdom of Cho-Sen."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All I can say, and the best I can say, is that he was the whitest man I ever encountered in Cho-Sen."*

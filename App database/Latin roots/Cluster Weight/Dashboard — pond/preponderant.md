@@ -5,13 +5,6 @@ status: unread
 ---
 # preponderant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having superior power and influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having superior power and influence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"He had been a very small boy when his father, Daniel Tracy Touchett, a native of Rutland, in the State of Vermont, came to England as subordinate partner in a banking-house where some ten years later he gained preponderant control."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having superior power and influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having superior power and influence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"He had been a very small boy when his father, Daniel Tracy Touchett, a native of Rutland, in the State of Vermont, came to England as subordinate partner in a banking-house where some ten years later he gained preponderant control."*

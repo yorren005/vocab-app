@@ -5,20 +5,6 @@ status: unread
 ---
 # hark
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (scots) a whisper
-> 2. **Nuance / Usage**: Pay close attention : listen
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to hark the target*) and intransitive clauses (*harking against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Come hither, little kinsman; hark, a word."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Cannot attain it, why then—hark you hither."*
-> - 📜 **Charles Wesley; George Whitefield (*Hymns and Sacred Poems*):** *"Hark! the herald angels sing / Glory to the new born King"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To listen attentively; used chiefly in the imperative (*Hark!*) to call sudden attention to a sound.
+> 2. **Nuance / Usage**: In the phrasal verb *hark back*, to return, recall, or evoke an earlier era, origin, or subject in speech or memory.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to hark the target*) and intransitive clauses (*harking against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Cymbeline*):** *"**Hark**, **hark**! the lark at heaven's gate sings, and Phoebus 'gins arise."*
+> - 📜 **Charles Wesley (*Hymns and Sacred Poems*):** *"**Hark**! the herald angels sing, 'Glory to the newborn King!'"*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"Yet still the sails made on a pleasant noise till noon—**hark**, how they sigh in the breeze!"*

@@ -5,20 +5,6 @@ status: unread
 ---
 # haggle
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Bargain, wrangle
-> 2. **Nuance / Usage**: Cut roughly or clumsily : hack
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to haggle the target*) and intransitive clauses (*haggling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Suffolk first died; and York, all haggled over, Comes to him, where in gore he lay insteeped, And takes him by the beard; kisses the gashes That bloodily did yawn upon his face."*
-> - 📜 **James Joyce (*Ulysses*):** *"In the shadow a shebeenkeeper haggles with the navvy and the two redcoats."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"They had not then learned, as I am told, to haggle for bargains with the pertinacity which now distinguishes them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Bargain, wrangle
+> 2. **Nuance / Usage**: Cut roughly or clumsily : hack
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to haggle the target*) and intransitive clauses (*haggling against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Suffolk first died; and York, all haggled over, Comes to him, where in gore he lay insteeped, And takes him by the beard; kisses the gashes That bloodily did yawn upon his face."*
+> - 📜 **James Joyce (*Ulysses*):** *"In the shadow a shebeenkeeper haggles with the navvy and the two redcoats."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"They had not then learned, as I am told, to haggle for bargains with the pertinacity which now distinguishes them."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sideways
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of movement) at an angle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With one side forward or to the front.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was short, cadaverous, and withered, with his head sunk sideways between his shoulders and the breath issuing in visible smoke from his mouth as if he were on fire within."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"That feline personage, with her lips tightly shut and her eyes looking out at him sideways, softly closes the door before replying."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn’s case at present, though Mademoiselle Hortense, with her eyes almost shut up (but still looking out sideways), is only smiling contemptuously and shaking her head."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of movement) at an angle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With one side forward or to the front.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He was short, cadaverous, and withered, with his head sunk sideways between his shoulders and the breath issuing in visible smoke from his mouth as if he were on fire within."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"That feline personage, with her lips tightly shut and her eyes looking out at him sideways, softly closes the door before replying."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn’s case at present, though Mademoiselle Hortense, with her eyes almost shut up (but still looking out sideways), is only smiling contemptuously and shaking her head."*

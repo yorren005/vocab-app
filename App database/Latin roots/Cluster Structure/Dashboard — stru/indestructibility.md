@@ -5,13 +5,6 @@ status: unread
 ---
 # indestructibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The strength to resist destruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The strength to resist destruction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"INDESTRUCTIBILITY: Amidst ceaseless change and seeming decay all the elements, all the forces (if indeed they be not one and the same) which operate and substantiate those changes, imperishable; neither matter nor force capable of annihilation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The strength to resist destruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The strength to resist destruction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"INDESTRUCTIBILITY: Amidst ceaseless change and seeming decay all the elements, all the forces (if indeed they be not one and the same) which operate and substantiate those changes, imperishable; neither matter nor force capable of annihilation."*

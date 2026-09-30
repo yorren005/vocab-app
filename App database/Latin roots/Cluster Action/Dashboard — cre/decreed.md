@@ -5,15 +5,6 @@ status: unread
 ---
 # decreed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Issue a decree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decide with authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore it is decreed He dies tonight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am trusted with a muzzle and enfranchised with a clog; therefore I have decreed not to sing in my cage."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Scorning advice, read the conclusion, then: Which read and not expounded, ’tis decreed, As these before thee thou thyself shalt bleed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Issue a decree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decide with authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore it is decreed He dies tonight."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am trusted with a muzzle and enfranchised with a clog; therefore I have decreed not to sing in my cage."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Scorning advice, read the conclusion, then: Which read and not expounded, ’tis decreed, As these before thee thou thyself shalt bleed."*

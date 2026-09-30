@@ -5,15 +5,6 @@ status: unread
 ---
 # induction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal entry into an organization or position or office.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical phenomenon whereby an electromotive force (emf) is generated in a closed circuit by a change in the flow of current.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These promises are fair, the parties sure, And our induction full of prosperous hope."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A dire induction am I witness to, And will to France, hoping the consequence Will prove as bitter, black, and tragical."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"So little are instinctive guesses the fruit of a legitimate induction that, at this moment, as he stood with the door in his hand, Troy never once thought of Fanny in connection with what he saw."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal entry into an organization or position or office.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical phenomenon whereby an electromotive force (emf) is generated in a closed circuit by a change in the flow of current.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These promises are fair, the parties sure, And our induction full of prosperous hope."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A dire induction am I witness to, And will to France, hoping the consequence Will prove as bitter, black, and tragical."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"So little are instinctive guesses the fruit of a legitimate induction that, at this moment, as he stood with the door in his hand, Troy never once thought of Fanny in connection with what he saw."*

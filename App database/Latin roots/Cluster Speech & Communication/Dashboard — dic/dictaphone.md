@@ -5,14 +5,6 @@ status: unread
 ---
 # dictaphone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tape recorder that records and reproduces dictation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tape recorder that records and reproduces dictation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"They haven't put me next to you for the fun of it, and they may have a dictaphone stuck around somewhere." Obediently Sherman approached the bars of the cage."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"But something's stirring." If the Lassans had set a dictaphone or some similar device to spy on them there was no sign of it in the conversation which Sherman's interrogator held with him during the next period."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tape recorder that records and reproduces dictation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tape recorder that records and reproduces dictation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"They haven't put me next to you for the fun of it, and they may have a dictaphone stuck around somewhere." Obediently Sherman approached the bars of the cage."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"But something's stirring." If the Lassans had set a dictaphone or some similar device to spy on them there was no sign of it in the conversation which Sherman's interrogator held with him during the next period."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hymenoptera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of insects including: bees; wasps; ants; ichneumons; sawflies; gall wasps; etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insects having two pairs of membranous wings and an ovipositor specialized for stinging or piercing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Hymenoptera designates an order of insects including: bees; wasps; ants; ichneumons; sawflies; gall wasps; etc."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of insects including: bees; wasps; ants; ichneumons; sawflies; gall wasps; etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insects having two pairs of membranous wings and an ovipositor specialized for stinging or piercing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Hymenoptera designates an order of insects including: bees; wasps; ants; ichneumons; sawflies; gall wasps; etc."*

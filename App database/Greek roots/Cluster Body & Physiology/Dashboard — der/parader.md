@@ -5,13 +5,6 @@ status: unread
 ---
 # parader
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Walks with regular or stately step.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walks with regular or stately step.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parader designates walks with regular or stately step."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Walks with regular or stately step.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walks with regular or stately step.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parader designates walks with regular or stately step."*

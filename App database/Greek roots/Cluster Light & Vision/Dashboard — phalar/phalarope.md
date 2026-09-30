@@ -5,13 +5,6 @@ status: unread
 ---
 # phalarope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Phalaropus) of small shorebirds related to sandpipers but distinguished by their lobed toes and preference for swimming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Phalaropus) of small shorebirds related to sandpipers but distinguished by their lobed toes and preference for swimming.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phalarope designates any of a genus (phalaropus) of small shorebirds related to sandpipers but distinguished by their lobed toes and preference for swimming."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Phalaropus) of small shorebirds related to sandpipers but distinguished by their lobed toes and preference for swimming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Phalaropus) of small shorebirds related to sandpipers but distinguished by their lobed toes and preference for swimming.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phalarope designates any of a genus (phalaropus) of small shorebirds related to sandpipers but distinguished by their lobed toes and preference for swimming."*

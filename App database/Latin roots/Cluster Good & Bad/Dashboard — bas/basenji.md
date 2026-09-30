@@ -5,13 +5,6 @@ status: unread
 ---
 # basenji
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small smooth-haired breed of african origin having a tightly curled tail and the inability to bark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small smooth-haired breed of african origin having a tightly curled tail and the inability to bark.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basenji designates small smooth-haired breed of african origin having a tightly curled tail and the inability to bark."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small smooth-haired breed of african origin having a tightly curled tail and the inability to bark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small smooth-haired breed of african origin having a tightly curled tail and the inability to bark.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basenji designates small smooth-haired breed of african origin having a tightly curled tail and the inability to bark."*

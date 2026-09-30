@@ -5,15 +5,6 @@ status: unread
 ---
 # conductive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the quality or power of conducting heat or electricity or sound; exhibiting conductivity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the quality or power of conducting heat or electricity or sound; exhibiting conductivity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Murray was the first to use plumbago, or black-lead, to give the surface of non-metallic bodies electro-conductive properties."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Black-leading._ Making the face of the molded case electrically conductive by applying graphite. _9."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Lying loosely together the filings would not conduct the current of a small battery from one plug to the other, but when a spark occurred not far away they suddenly became conductive and allowed it to pass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the quality or power of conducting heat or electricity or sound; exhibiting conductivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the quality or power of conducting heat or electricity or sound; exhibiting conductivity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Murray was the first to use plumbago, or black-lead, to give the surface of non-metallic bodies electro-conductive properties."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Black-leading._ Making the face of the molded case electrically conductive by applying graphite. _9."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Lying loosely together the filings would not conduct the current of a small battery from one plug to the other, but when a spark occurred not far away they suddenly became conductive and allowed it to pass."*

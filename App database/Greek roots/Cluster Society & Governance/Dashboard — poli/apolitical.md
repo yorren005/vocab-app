@@ -5,13 +5,6 @@ status: unread
 ---
 # apolitical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Politically neutral.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Politically neutral.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apolitical designates politically neutral."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Politically neutral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Politically neutral.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apolitical designates politically neutral."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # ultraviolet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Radiation lying in the ultraviolet range; wave lengths shorter than light but longer than x rays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or employing wavelengths shorter than light but longer than x-rays; lying outside the visible spectrum at its violet end.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultraviolet designates radiation lying in the ultraviolet range; wave lengths shorter than light but longer than x rays."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Radiation lying in the ultraviolet range; wave lengths shorter than light but longer than x rays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or employing wavelengths shorter than light but longer than x-rays; lying outside the visible spectrum at its violet end.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultraviolet designates radiation lying in the ultraviolet range; wave lengths shorter than light but longer than x rays."*

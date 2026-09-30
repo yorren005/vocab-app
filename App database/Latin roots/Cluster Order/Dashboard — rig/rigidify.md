@@ -5,13 +5,6 @@ status: unread
 ---
 # rigidify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become rigid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make rigid and set into a conventional pattern.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rigidify designates become rigid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become rigid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make rigid and set into a conventional pattern.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rigidify designates become rigid."*

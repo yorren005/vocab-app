@@ -5,15 +5,6 @@ status: unread
 ---
 # permeate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spread or diffuse through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pass through.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"A companion whim was that since matter could permeate matter, then the walls of my cell might well permeate the prison walls, pass through the prison walls, and thus put my cell outside the prison and put me at liberty."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Again, Shelley desired a religion of humanity, and that meant, to him, a religion for humanity, a religion which, unlike the spectral Christianity about him, should permeate and regulate the whole organisation of men."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"They are earth's lumi- naries, which serve to cleanse and rarefy the atmosphere of 37:12 material sense and to permeate humanity with purer ideals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spread or diffuse through.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pass through.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"A companion whim was that since matter could permeate matter, then the walls of my cell might well permeate the prison walls, pass through the prison walls, and thus put my cell outside the prison and put me at liberty."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Again, Shelley desired a religion of humanity, and that meant, to him, a religion for humanity, a religion which, unlike the spectral Christianity about him, should permeate and regulate the whole organisation of men."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"They are earth's lumi- naries, which serve to cleanse and rarefy the atmosphere of 37:12 material sense and to permeate humanity with purer ideals."*

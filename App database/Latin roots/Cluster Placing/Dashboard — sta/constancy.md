@@ -5,15 +5,6 @@ status: unread
 ---
 # constancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being enduring and free from change or variation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychology) the tendency for perceived objects to give rise to very similar perceptual experiences in spite of wide variations in the conditions of observation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Kind is my love to-day, to-morrow kind, Still constant in a wondrous excellence, Therefore my verse to constancy confined, One thing expressing, leaves out difference."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I have sworn deep oaths of thy deep kindness: Oaths of thy love, thy truth, thy constancy, And to enlighten thee gave eyes to blindness, Or made them swear against the thing they see."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, by my faith and honour, If seriously I may convey my thoughts In this my light deliverance, I have spoke With one that in her sex, her years, profession, Wisdom, and constancy, hath amaz’d me more Than I dare blame my weakness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being enduring and free from change or variation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychology) the tendency for perceived objects to give rise to very similar perceptual experiences in spite of wide variations in the conditions of observation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Kind is my love to-day, to-morrow kind, Still constant in a wondrous excellence, Therefore my verse to constancy confined, One thing expressing, leaves out difference."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I have sworn deep oaths of thy deep kindness: Oaths of thy love, thy truth, thy constancy, And to enlighten thee gave eyes to blindness, Or made them swear against the thing they see."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, by my faith and honour, If seriously I may convey my thoughts In this my light deliverance, I have spoke With one that in her sex, her years, profession, Wisdom, and constancy, hath amaz’d me more Than I dare blame my weakness."*

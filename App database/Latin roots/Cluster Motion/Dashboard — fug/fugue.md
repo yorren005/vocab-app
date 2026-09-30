@@ -5,13 +5,6 @@ status: unread
 ---
 # fugue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dissociative disorder in which a person forgets who they are and leaves home to creates a new life; during the fugue there is no memory of the former life; after recovering there is no memory for events during the dissociative state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dreamlike state of altered consciousness that may last for hours or days.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And what was played was a fugue—though Pétya had not the least conception of what a fugue is."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dissociative disorder in which a person forgets who they are and leaves home to creates a new life; during the fugue there is no memory of the former life; after recovering there is no memory for events during the dissociative state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dreamlike state of altered consciousness that may last for hours or days.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And what was played was a fugue—though Pétya had not the least conception of what a fugue is."*

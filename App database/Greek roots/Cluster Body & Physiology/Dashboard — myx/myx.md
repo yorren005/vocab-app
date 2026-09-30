@@ -5,13 +5,6 @@ status: unread
 ---
 # myx
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mucus : slime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mucus : slime.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myx designates mucus : slime."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mucus : slime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mucus : slime.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myx designates mucus : slime."*

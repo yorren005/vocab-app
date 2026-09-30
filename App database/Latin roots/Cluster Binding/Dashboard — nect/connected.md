@@ -5,15 +5,6 @@ status: unread
 ---
 # connected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Connect, fasten, or put together two or more pieces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a logical or causal connection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Apollonie was intimately connected with the earliest impressions of her childhood, as well as with the experiences of her youth, with all the people whom she had loved most and who had stood nearest to her."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I know that bitter memories are connected with the name, but I also want you to know that you will deprive yourself of a great blessing if you banish the boy who bears that name." "Please let him come here, if only for a little while," Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Richard, anxious to atone for his thoughtlessness of yesterday, good-naturedly explained that Miss Jellyby was not connected with the suit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Connect, fasten, or put together two or more pieces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a logical or causal connection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Apollonie was intimately connected with the earliest impressions of her childhood, as well as with the experiences of her youth, with all the people whom she had loved most and who had stood nearest to her."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I know that bitter memories are connected with the name, but I also want you to know that you will deprive yourself of a great blessing if you banish the boy who bears that name." "Please let him come here, if only for a little while," Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Richard, anxious to atone for his thoughtlessness of yesterday, good-naturedly explained that Miss Jellyby was not connected with the suit."*

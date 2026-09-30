@@ -5,15 +5,6 @@ status: unread
 ---
 # levis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A popular brand of jeans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (new testament) disciple of jesus; traditionally considered to be the author of the first gospel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Tell her, Levis, that she need not shrink from us as if we were not sinners, as well as herself."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"O Levis!" turning to her husband, "it is a lovely old place!"*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Raymond, how can you be so disrespectful to your elder brother?--your senior by some two years." "Ah! but your united ages are much less than Levis's and mine; and husband and wife make but one, don't they?" she returned gayly, as she tripped away."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A popular brand of jeans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (new testament) disciple of jesus; traditionally considered to be the author of the first gospel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Tell her, Levis, that she need not shrink from us as if we were not sinners, as well as herself."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"O Levis!" turning to her husband, "it is a lovely old place!"*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Raymond, how can you be so disrespectful to your elder brother?--your senior by some two years." "Ah! but your united ages are much less than Levis's and mine; and husband and wife make but one, don't they?" she returned gayly, as she tripped away."*

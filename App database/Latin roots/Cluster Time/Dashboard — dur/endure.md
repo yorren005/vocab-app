@@ -5,15 +5,6 @@ status: unread
 ---
 # endure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put up with something or somebody unpleasant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Face and withstand with courage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could endure anything before but a cat, and now he’s a cat to me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The business she hath broached in the state Cannot endure my absence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mine eyes did sicken at the sight and could not Endure a further view."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put up with something or somebody unpleasant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Face and withstand with courage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could endure anything before but a cat, and now he’s a cat to me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The business she hath broached in the state Cannot endure my absence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mine eyes did sicken at the sight and could not Endure a further view."*

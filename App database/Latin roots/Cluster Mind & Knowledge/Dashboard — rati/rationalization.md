@@ -5,13 +5,6 @@ status: unread
 ---
 # rationalization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cognitive process of making something seem consistent with or based on reason.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychiatry) a defense mechanism by which your true motivation is concealed by explaining your actions and feelings in a way that is not threatening.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rationalization designates the cognitive process of making something seem consistent with or based on reason."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cognitive process of making something seem consistent with or based on reason.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychiatry) a defense mechanism by which your true motivation is concealed by explaining your actions and feelings in a way that is not threatening.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rationalization designates the cognitive process of making something seem consistent with or based on reason."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # artesian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of water) rising to the surface under internal hydrostatic pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of water) rising to the surface under internal hydrostatic pressure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A people who made paved roads, and sunk artesian wells, and used Roman beads and pins."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Her eyes looked larger, and darker, and deeper; so deep, at some silent moments, that they seemed like Artesian wells, down, down, into the infinite."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of water) rising to the surface under internal hydrostatic pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of water) rising to the surface under internal hydrostatic pressure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A people who made paved roads, and sunk artesian wells, and used Roman beads and pins."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Her eyes looked larger, and darker, and deeper; so deep, at some silent moments, that they seemed like Artesian wells, down, down, into the infinite."*

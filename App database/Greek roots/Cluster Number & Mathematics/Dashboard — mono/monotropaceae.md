@@ -5,13 +5,6 @@ status: unread
 ---
 # monotropaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some classification for saprophytic herbs sometimes included in the family pyrolaceae: genera monotropa and sarcodes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some classification for saprophytic herbs sometimes included in the family pyrolaceae: genera monotropa and sarcodes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monotropaceae designates used in some classification for saprophytic herbs sometimes included in the family pyrolaceae: genera monotropa and sarcodes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some classification for saprophytic herbs sometimes included in the family pyrolaceae: genera monotropa and sarcodes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some classification for saprophytic herbs sometimes included in the family pyrolaceae: genera monotropa and sarcodes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monotropaceae designates used in some classification for saprophytic herbs sometimes included in the family pyrolaceae: genera monotropa and sarcodes."*

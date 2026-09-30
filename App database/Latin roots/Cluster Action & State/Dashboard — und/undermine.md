@@ -5,15 +5,6 @@ status: unread
 ---
 # undermine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy property or hinder normal operations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hollow out as if making a cave or opening.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Man setting down before you will undermine you and blow you up."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For, to be plain, They, knowing Dame Eleanor’s aspiring humour, Have hired me to undermine the Duchess And buzz these conjurations in her brain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Troy be not taken till these two undermine it, the walls will stand till they fall of themselves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy property or hinder normal operations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hollow out as if making a cave or opening.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Man setting down before you will undermine you and blow you up."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For, to be plain, They, knowing Dame Eleanor’s aspiring humour, Have hired me to undermine the Duchess And buzz these conjurations in her brain."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Troy be not taken till these two undermine it, the walls will stand till they fall of themselves."*

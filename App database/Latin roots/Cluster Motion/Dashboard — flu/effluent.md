@@ -5,14 +5,6 @@ status: unread
 ---
 # effluent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Water mixed with waste matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That is flowing outward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Hence this effluent, if placed upon the soil, is of great value."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"No sludge is left, everything being turned into the harmless effluent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Water mixed with waste matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That is flowing outward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Hence this effluent, if placed upon the soil, is of great value."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"No sludge is left, everything being turned into the harmless effluent."*

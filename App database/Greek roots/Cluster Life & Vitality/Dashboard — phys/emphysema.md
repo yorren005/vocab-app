@@ -5,13 +5,6 @@ status: unread
 ---
 # emphysema
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal condition of the lungs marked by decreased respiratory function; associated with smoking or chronic bronchitis or old age.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal condition of the lungs marked by decreased respiratory function; associated with smoking or chronic bronchitis or old age.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Alex. _Paedag._ i, 7, _to philtron endon estin en to anthropo touth' oper emphysema legetai theou_. [20] _c."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal condition of the lungs marked by decreased respiratory function; associated with smoking or chronic bronchitis or old age.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal condition of the lungs marked by decreased respiratory function; associated with smoking or chronic bronchitis or old age.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Alex. _Paedag._ i, 7, _to philtron endon estin en to anthropo touth' oper emphysema legetai theou_. [20] _c."*

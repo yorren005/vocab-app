@@ -5,13 +5,6 @@ status: unread
 ---
 # emotionality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Emotional nature or quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emotional nature or quality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emotionality designates emotional nature or quality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Emotional nature or quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emotional nature or quality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emotionality designates emotional nature or quality."*

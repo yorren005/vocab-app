@@ -5,15 +5,6 @@ status: unread
 ---
 # terrain
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of ground having specific characteristics or military potential.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of ground having specific characteristics or military potential.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Stretching away from the twenty-kilometer-wide city, the mottled terrain spread in all directions, slashed by ravines and man-made, soil-fused excavations, roads and bridges."*
-> - 📜 **Unknown (*The Second Story of Meno*):** *"However, these were the easier part, and we are now most of the way up the mountain, so we must rest and prepare to try even harder to conquer the rest, where the altitude is highest, and the terrain is rockiest."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Parachutes also have a wide range of uses in peacetime, as examples, sports parachuting, 'fire jumpers' fighting forest fires, and rescue operations in terrain or other circumstances that preclude less hazardous access."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of ground having specific characteristics or military potential.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of ground having specific characteristics or military potential.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Stretching away from the twenty-kilometer-wide city, the mottled terrain spread in all directions, slashed by ravines and man-made, soil-fused excavations, roads and bridges."*
+> - 📜 **Unknown (*The Second Story of Meno*):** *"However, these were the easier part, and we are now most of the way up the mountain, so we must rest and prepare to try even harder to conquer the rest, where the altitude is highest, and the terrain is rockiest."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Parachutes also have a wide range of uses in peacetime, as examples, sports parachuting, 'fire jumpers' fighting forest fires, and rescue operations in terrain or other circumstances that preclude less hazardous access."*

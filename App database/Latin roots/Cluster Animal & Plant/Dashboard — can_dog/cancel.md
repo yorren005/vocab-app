@@ -5,15 +5,6 @@ status: unread
 ---
 # cancel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A notation cancelling a previous sharp or flat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Postpone indefinitely or annul something that was scheduled.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so, great pow’rs, If you will take this audit, take this life, And cancel these cold bonds."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So can I: So every bondman in his own hand bears The power to cancel his captivity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, seeling night, Scarf up the tender eye of pitiful day, And with thy bloody and invisible hand Cancel and tear to pieces that great bond Which keeps me pale!—Light thickens; and the crow Makes wing to th’ rooky wood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A notation cancelling a previous sharp or flat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Postpone indefinitely or annul something that was scheduled.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so, great pow’rs, If you will take this audit, take this life, And cancel these cold bonds."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So can I: So every bondman in his own hand bears The power to cancel his captivity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, seeling night, Scarf up the tender eye of pitiful day, And with thy bloody and invisible hand Cancel and tear to pieces that great bond Which keeps me pale!—Light thickens; and the crow Makes wing to th’ rooky wood."*

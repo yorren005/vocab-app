@@ -5,13 +5,6 @@ status: unread
 ---
 # ponytail
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hair style that draws the hair back so that it hangs down in back of the head like a pony's tail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hair style that draws the hair back so that it hangs down in back of the head like a pony's tail.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"His long white hair is tied in a ponytail, and his wrinkled face is tanned to nut brown."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hair style that draws the hair back so that it hangs down in back of the head like a pony's tail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hair style that draws the hair back so that it hangs down in back of the head like a pony's tail.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"His long white hair is tied in a ponytail, and his wrinkled face is tanned to nut brown."*

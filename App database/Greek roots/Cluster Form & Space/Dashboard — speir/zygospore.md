@@ -5,13 +5,6 @@ status: unread
 ---
 # zygospore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick-walled spore of some algae and fungi that is formed by union of two similar sexual cells, usually serves as a resting spore, and produces the sporophytic phase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thick-walled spore of some algae and fungi that is formed by union of two similar sexual cells, usually serves as a resting spore, and produces the sporophytic phase.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zygospore designates a thick-walled spore of some algae and fungi that is formed by union of two similar sexual cells, usually serves as a resting spore, and produces the sporophytic phase."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick-walled spore of some algae and fungi that is formed by union of two similar sexual cells, usually serves as a resting spore, and produces the sporophytic phase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thick-walled spore of some algae and fungi that is formed by union of two similar sexual cells, usually serves as a resting spore, and produces the sporophytic phase.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zygospore designates a thick-walled spore of some algae and fungi that is formed by union of two similar sexual cells, usually serves as a resting spore, and produces the sporophytic phase."*

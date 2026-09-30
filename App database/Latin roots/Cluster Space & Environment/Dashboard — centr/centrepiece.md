@@ -5,15 +5,6 @@ status: unread
 ---
 # centrepiece
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The central or most important feature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something placed at the center of something else (as on a table).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Even the cabin table itself had been knocked into kindling-wood; and the cabin mess dined off the broad head of an oil-butt, lashed down to the floor for a centrepiece."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Even the cabin table itself had been knocked into kindling-wood; and the cabin mess dined off the broad head of an oil-butt, lashed down to the floor for a centrepiece."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"But the pink and crimson asters furnished a centrepiece decidedly more in keeping, somehow, with a men's dinner than roses would have been, and the decorators were content with them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The central or most important feature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something placed at the center of something else (as on a table).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Even the cabin table itself had been knocked into kindling-wood; and the cabin mess dined off the broad head of an oil-butt, lashed down to the floor for a centrepiece."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Even the cabin table itself had been knocked into kindling-wood; and the cabin mess dined off the broad head of an oil-butt, lashed down to the floor for a centrepiece."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"But the pink and crimson asters furnished a centrepiece decidedly more in keeping, somehow, with a men's dinner than roses would have been, and the decorators were content with them."*

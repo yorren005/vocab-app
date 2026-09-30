@@ -5,13 +5,6 @@ status: unread
 ---
 # rediffusion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system for distributing radio or tv programs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system for distributing radio or tv programs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rediffusion designates a system for distributing radio or tv programs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system for distributing radio or tv programs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system for distributing radio or tv programs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rediffusion designates a system for distributing radio or tv programs."*

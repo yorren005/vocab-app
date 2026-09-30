@@ -5,14 +5,6 @@ status: unread
 ---
 # catechist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One that catechizes: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A teacher of catechumens.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The ceremony has been described by a catechist, who witnessed it at Car Nicobar in July 1897."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"I mock you.” “My brave wife,” returned Defarge, standing before her with his head a little bent, and his hands clasped at his back, like a docile and attentive pupil before his catechist, “I do not question all this."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One that catechizes: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A teacher of catechumens.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The ceremony has been described by a catechist, who witnessed it at Car Nicobar in July 1897."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"I mock you.” “My brave wife,” returned Defarge, standing before her with his head a little bent, and his hands clasped at his back, like a docile and attentive pupil before his catechist, “I do not question all this."*

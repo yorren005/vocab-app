@@ -5,15 +5,6 @@ status: unread
 ---
 # interlude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An intervening period or episode.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brief show (music or dance etc) inserted between the sections of a longer performance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is the scroll of every man’s name, which is thought fit through all Athens, to play in our interlude before the Duke and Duchess, on his wedding-day at night."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In this same interlude it doth befall That I, one Snout by name, present a wall: And such a wall as I would have you think That had in it a crannied hole or chink, Through which the lovers, Pyramus and Thisbe, Did whisper often very secretly."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"A frequent interlude of these performances was the enactment of the part of Eutychus by some half-dozen of little girls, who, overpowered with sleep, would fall down, if not out of the third loft, yet off the fourth form, and be taken up half dead."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intervening period or episode.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brief show (music or dance etc) inserted between the sections of a longer performance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is the scroll of every man’s name, which is thought fit through all Athens, to play in our interlude before the Duke and Duchess, on his wedding-day at night."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In this same interlude it doth befall That I, one Snout by name, present a wall: And such a wall as I would have you think That had in it a crannied hole or chink, Through which the lovers, Pyramus and Thisbe, Did whisper often very secretly."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"A frequent interlude of these performances was the enactment of the part of Eutychus by some half-dozen of little girls, who, overpowered with sleep, would fall down, if not out of the third loft, yet off the fourth form, and be taken up half dead."*

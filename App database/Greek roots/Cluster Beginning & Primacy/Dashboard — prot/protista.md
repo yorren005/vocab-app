@@ -5,13 +5,6 @@ status: unread
 ---
 # protista
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eukaryotic one-celled living organisms distinct from multicellular plants and animals: protozoa, slime molds, and eukaryotic algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eukaryotic one-celled living organisms distinct from multicellular plants and animals: protozoa, slime molds, and eukaryotic algae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protista designates eukaryotic one-celled living organisms distinct from multicellular plants and animals: protozoa, slime molds, and eukaryotic algae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eukaryotic one-celled living organisms distinct from multicellular plants and animals: protozoa, slime molds, and eukaryotic algae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eukaryotic one-celled living organisms distinct from multicellular plants and animals: protozoa, slime molds, and eukaryotic algae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protista designates eukaryotic one-celled living organisms distinct from multicellular plants and animals: protozoa, slime molds, and eukaryotic algae."*

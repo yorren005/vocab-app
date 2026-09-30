@@ -5,13 +5,6 @@ status: unread
 ---
 # nativist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosopher who subscribes to nativism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advocating the perpetuation of native societies; ; - c.k.kluckhohn.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nativist designates a philosopher who subscribes to nativism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosopher who subscribes to nativism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advocating the perpetuation of native societies; ; - c.k.kluckhohn.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nativist designates a philosopher who subscribes to nativism."*

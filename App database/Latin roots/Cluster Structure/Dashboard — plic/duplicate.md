@@ -5,15 +5,6 @@ status: unread
 ---
 # duplicate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something additional of the same kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A copy that corresponds to an original exactly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"I have been making a duplicate of the catalogue of my father’s books and pictures."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And now, sir, to reward you for the accurate guess, I will promise to paint you a careful and faithful duplicate of this very picture, provided you admit that the gift would be acceptable to you."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hence, the spare boats, spare spars, and spare lines and harpoons, and spare everythings, almost, but a spare Captain and duplicate ship."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something additional of the same kind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A copy that corresponds to an original exactly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"I have been making a duplicate of the catalogue of my father’s books and pictures."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And now, sir, to reward you for the accurate guess, I will promise to paint you a careful and faithful duplicate of this very picture, provided you admit that the gift would be acceptable to you."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hence, the spare boats, spare spars, and spare lines and harpoons, and spare everythings, almost, but a spare Captain and duplicate ship."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # retention
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of retaining something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The power of retaining and recalling past experience.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, I thought it fit To send the old and miserable King To some retention and appointed guard; Whose age has charms in it, whose title more, To pluck the common bosom on his side, And turn our impress’d lances in our eyes Which do command them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is no woman’s sides Can bide the beating of so strong a passion As love doth give my heart: no woman’s heart So big, to hold so much; they lack retention."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His life I gave him, and did thereto add My love, without retention or restraint, All his in dedication."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of retaining something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The power of retaining and recalling past experience.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, I thought it fit To send the old and miserable King To some retention and appointed guard; Whose age has charms in it, whose title more, To pluck the common bosom on his side, And turn our impress’d lances in our eyes Which do command them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is no woman’s sides Can bide the beating of so strong a passion As love doth give my heart: no woman’s heart So big, to hold so much; they lack retention."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His life I gave him, and did thereto add My love, without retention or restraint, All his in dedication."*

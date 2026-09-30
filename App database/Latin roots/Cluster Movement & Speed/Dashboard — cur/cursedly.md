@@ -5,14 +5,6 @@ status: unread
 ---
 # cursedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a damnable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a damnable manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"I married; But never honest man’s intent Sane cursedly miscarried."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I am presently so cursedly taken in with an affair of gallantry that I am very glad Peggy[7] is off my hand, as I am at present embarrassed enough[7a] without her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a damnable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a damnable manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"I married; But never honest man’s intent Sane cursedly miscarried."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I am presently so cursedly taken in with an affair of gallantry that I am very glad Peggy[7] is off my hand, as I am at present embarrassed enough[7a] without her."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # amnioscope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of endoscope used to examine the amniotic cavity and its foetus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of endoscope used to examine the amniotic cavity and its foetus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amnioscope designates a form of endoscope used to examine the amniotic cavity and its foetus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of endoscope used to examine the amniotic cavity and its foetus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of endoscope used to examine the amniotic cavity and its foetus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amnioscope designates a form of endoscope used to examine the amniotic cavity and its foetus."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # pentahedroid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to pleasant, sweet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to pleasant, sweet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentahedroid designates adjective & noun*) resembling, having the physical form of, or akin to pleasant, sweet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to pleasant, sweet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to pleasant, sweet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentahedroid designates adjective & noun*) resembling, having the physical form of, or akin to pleasant, sweet."*

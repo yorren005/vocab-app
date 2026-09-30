@@ -5,15 +5,6 @@ status: unread
 ---
 # refusal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of refusing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message refusing to accept something that is offered.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If, as his nature is, he fall in rage With their refusal, both observe and answer The vantage of his anger."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I suppose you received a letter from our Rector telling you of the refusal to teach the boys any further." This was said with a less severe intonation."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Say, Bathsheba, that you only wrote that refusal to me in fun—come, say it to me!” “It would be untrue, and painful to both of us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of refusing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message refusing to accept something that is offered.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If, as his nature is, he fall in rage With their refusal, both observe and answer The vantage of his anger."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I suppose you received a letter from our Rector telling you of the refusal to teach the boys any further." This was said with a less severe intonation."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Say, Bathsheba, that you only wrote that refusal to me in fun—come, say it to me!” “It would be untrue, and painful to both of us."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # finger-roll
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A basketball shot that rolls off the tips of the fingers into the basket.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A basketball shot that rolls off the tips of the fingers into the basket.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finger-roll designates a basketball shot that rolls off the tips of the fingers into the basket."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A basketball shot that rolls off the tips of the fingers into the basket.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A basketball shot that rolls off the tips of the fingers into the basket.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finger-roll designates a basketball shot that rolls off the tips of the fingers into the basket."*

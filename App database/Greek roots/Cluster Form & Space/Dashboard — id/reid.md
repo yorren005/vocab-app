@@ -5,15 +5,6 @@ status: unread
 ---
 # reid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scottish philosopher of common sense who opposed the ideas of david hume (1710-1796).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scottish philosopher of common sense who opposed the ideas of david hume (1710-1796).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"I’ve sent you here, by Johnie Simson, Twa sage philosophers to glimpse on; Smith, wi’ his sympathetic feeling, An’ Reid, to common sense appealing."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"Reid's 2d N.H. on the extreme left, next to him Lieut."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"Reid's regiment in greatly superior numbers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Scottish philosopher of common sense who opposed the ideas of david hume (1710-1796).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scottish philosopher of common sense who opposed the ideas of david hume (1710-1796).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"I’ve sent you here, by Johnie Simson, Twa sage philosophers to glimpse on; Smith, wi’ his sympathetic feeling, An’ Reid, to common sense appealing."*
+> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"Reid's 2d N.H. on the extreme left, next to him Lieut."*
+> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"Reid's regiment in greatly superior numbers."*

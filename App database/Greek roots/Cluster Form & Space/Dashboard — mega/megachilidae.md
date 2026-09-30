@@ -5,13 +5,6 @@ status: unread
 ---
 # megachilidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leaf-cutting and mason bees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leaf-cutting and mason bees.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megachilidae designates leaf-cutting and mason bees."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Leaf-cutting and mason bees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leaf-cutting and mason bees.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megachilidae designates leaf-cutting and mason bees."*

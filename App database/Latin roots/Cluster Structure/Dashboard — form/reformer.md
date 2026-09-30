@@ -5,15 +5,6 @@ status: unread
 ---
 # reformer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disputant who advocates reform.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus that reforms the molecular structure of hydrocarbons to produce richer fuel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Yes, but what that religion needed was a great reformer, who should have cut the religion clear adrift from idols of every kind, from the old mythology, from obscenity."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It may very well be that such a reformer was unthinkable; even if he had appeared, he would have been foredoomed to fail, as the compromise of the Stoics shows."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The practical side of him was so strong that he might have been a great statesman or reformer, had not his imagination, stimulated by a torrential fluency of language, overborne his will."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disputant who advocates reform.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus that reforms the molecular structure of hydrocarbons to produce richer fuel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Yes, but what that religion needed was a great reformer, who should have cut the religion clear adrift from idols of every kind, from the old mythology, from obscenity."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"It may very well be that such a reformer was unthinkable; even if he had appeared, he would have been foredoomed to fail, as the compromise of the Stoics shows."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"The practical side of him was so strong that he might have been a great statesman or reformer, had not his imagination, stimulated by a torrential fluency of language, overborne his will."*

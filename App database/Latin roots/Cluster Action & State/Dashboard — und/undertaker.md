@@ -5,15 +5,6 @@ status: unread
 ---
 # undertaker
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One whose business is the management of funerals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One whose business is the management of funerals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for Cassio, let me be his undertaker."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SIR TOBY. [_Draws._] Nay, if you be an undertaker, I am for you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I hope some god, Some god hath put his mercy in your manhood, Whereto he’ll infuse power, and press you forth Our undertaker."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One whose business is the management of funerals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One whose business is the management of funerals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for Cassio, let me be his undertaker."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SIR TOBY. [_Draws._] Nay, if you be an undertaker, I am for you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I hope some god, Some god hath put his mercy in your manhood, Whereto he’ll infuse power, and press you forth Our undertaker."*

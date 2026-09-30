@@ -5,15 +5,6 @@ status: unread
 ---
 # secede
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Withdraw from an organization or communion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Withdraw from an organization or communion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"What did we secede for if it wasn't to prove the doctrine of State Rights?"*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Well said, Loyola!" alternately; he promised Mole a bishopric if he would come over, and vowed he would use all his influence to get Trail a cardinal's hat if he would secede."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Resolutions declaring it the right and duty of Georgia to secede, adopted—yeas 165, nays 130. 19th."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Withdraw from an organization or communion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Withdraw from an organization or communion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"What did we secede for if it wasn't to prove the doctrine of State Rights?"*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Well said, Loyola!" alternately; he promised Mole a bishopric if he would come over, and vowed he would use all his influence to get Trail a cardinal's hat if he would secede."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Resolutions declaring it the right and duty of Georgia to secede, adopted—yeas 165, nays 130. 19th."*

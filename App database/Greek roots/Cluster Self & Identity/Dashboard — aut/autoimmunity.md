@@ -5,13 +5,6 @@ status: unread
 ---
 # autoimmunity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Production of antibodies against the tissues of your own body; produces autoimmune disease or hypersensitivity reactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Production of antibodies against the tissues of your own body; produces autoimmune disease or hypersensitivity reactions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autoimmunity designates production of antibodies against the tissues of your own body; produces autoimmune disease or hypersensitivity reactions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Production of antibodies against the tissues of your own body; produces autoimmune disease or hypersensitivity reactions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Production of antibodies against the tissues of your own body; produces autoimmune disease or hypersensitivity reactions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autoimmunity designates production of antibodies against the tissues of your own body; produces autoimmune disease or hypersensitivity reactions."*

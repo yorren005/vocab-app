@@ -5,15 +5,6 @@ status: unread
 ---
 # miscall
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign in incorrect name to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign in incorrect name to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My heart will sigh when I miscall it so, Which finds it an enforced pilgrimage."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"With them monarchy is a refuge from the license they miscall liberty, and despotism is peace."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She was early taught that primeval benediction, miscalled a curse, which requires mankind to earn their bread."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign in incorrect name to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign in incorrect name to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My heart will sigh when I miscall it so, Which finds it an enforced pilgrimage."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"With them monarchy is a refuge from the license they miscall liberty, and despotism is peace."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She was early taught that primeval benediction, miscalled a curse, which requires mankind to earn their bread."*

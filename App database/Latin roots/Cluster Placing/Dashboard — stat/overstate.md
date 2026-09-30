@@ -5,15 +5,6 @@ status: unread
 ---
 # overstate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To enlarge beyond bounds or the truth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To enlarge beyond bounds or the truth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"It is impossible to overstate the vividness of these images, and yet I was so intent, all the time, upon him himself,—who would not be intent on the tiger crouching to spring!—that I knew of the slightest action of his fingers."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Yes, anything you like: you can't overstate it."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"When I say she exaggerates I don’t mean it in the vulgar sense--that she boasts, overstates, gives too fine an account of herself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To enlarge beyond bounds or the truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To enlarge beyond bounds or the truth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"It is impossible to overstate the vividness of these images, and yet I was so intent, all the time, upon him himself,—who would not be intent on the tiger crouching to spring!—that I knew of the slightest action of his fingers."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Yes, anything you like: you can't overstate it."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"When I say she exaggerates I don’t mean it in the vulgar sense--that she boasts, overstates, gives too fine an account of herself."*

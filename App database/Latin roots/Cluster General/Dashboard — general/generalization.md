@@ -5,15 +5,6 @@ status: unread
 ---
 # generalization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reasoning from detailed facts to general principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An idea or conclusion having general application.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Being thus assignable to no breed, he was the ideal embodiment of canine greatness—a generalization from what was common to all."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"It seemed to be conceded that men had more invention, comprehensiveness and power of generalization, and that their business habits, the fruits of ages of experience, were at least worth studying and copying by women."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Being thus assignable to no breed he was the ideal embodiment of canine greatness—a generalization from what was common to all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reasoning from detailed facts to general principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An idea or conclusion having general application.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Being thus assignable to no breed, he was the ideal embodiment of canine greatness—a generalization from what was common to all."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"It seemed to be conceded that men had more invention, comprehensiveness and power of generalization, and that their business habits, the fruits of ages of experience, were at least worth studying and copying by women."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Being thus assignable to no breed he was the ideal embodiment of canine greatness—a generalization from what was common to all."*

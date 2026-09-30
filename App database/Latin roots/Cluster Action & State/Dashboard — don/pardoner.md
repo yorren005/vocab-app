@@ -5,14 +5,6 @@ status: unread
 ---
 # pardoner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who pardons or forgives or excuses a fault or offense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medieval cleric who raised money for the church by selling papal indulgences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I shall obey him. [_Exit Messenger._] DUKE. [_Aside_.] This is his pardon, purchased by such sin For which the pardoner himself is in."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"As saffron tingeth: Chaucer uses “saffron” metaphorically as a verb:-- “And in Latyn I speke a wordes fewe, To saffron with my predicacioun, And for to stire men to devocioun.”--‘The Pardoner’s Prologue’. 113."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who pardons or forgives or excuses a fault or offense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medieval cleric who raised money for the church by selling papal indulgences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I shall obey him. [_Exit Messenger._] DUKE. [_Aside_.] This is his pardon, purchased by such sin For which the pardoner himself is in."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"As saffron tingeth: Chaucer uses “saffron” metaphorically as a verb:-- “And in Latyn I speke a wordes fewe, To saffron with my predicacioun, And for to stire men to devocioun.”--‘The Pardoner’s Prologue’. 113."*

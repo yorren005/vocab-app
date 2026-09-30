@@ -5,15 +5,6 @@ status: unread
 ---
 # biological
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to biology or to life and living things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of parents and children; related by blood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"We have to "think like God," he says (Mark 8:33); and perhaps God is in his thoughts neither so legal nor so biological as we are; perhaps he does not think first of edicts or of biological and psychological laws."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I hope you have been noting these different emotional situations and reactions among your friends carefully in your record, Evelina," she continued in an interested and biological tone of voice and expression of eye."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"By its very nature, the alliance is biological and cultural, and molded by trial-and-error through the hazards of millennia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to biology or to life and living things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of parents and children; related by blood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"We have to "think like God," he says (Mark 8:33); and perhaps God is in his thoughts neither so legal nor so biological as we are; perhaps he does not think first of edicts or of biological and psychological laws."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I hope you have been noting these different emotional situations and reactions among your friends carefully in your record, Evelina," she continued in an interested and biological tone of voice and expression of eye."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"By its very nature, the alliance is biological and cultural, and molded by trial-and-error through the hazards of millennia."*

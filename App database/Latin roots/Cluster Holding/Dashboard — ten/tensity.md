@@ -5,13 +5,6 @@ status: unread
 ---
 # tensity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical condition of being stretched or strained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical condition of being stretched or strained.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tensity designates the physical condition of being stretched or strained."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical condition of being stretched or strained.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical condition of being stretched or strained.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tensity designates the physical condition of being stretched or strained."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # torpediniformes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rays with bodies shaped like torpedoes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rays with bodies shaped like torpedoes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, torpediniformes designates rays with bodies shaped like torpedoes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rays with bodies shaped like torpedoes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rays with bodies shaped like torpedoes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, torpediniformes designates rays with bodies shaped like torpedoes."*

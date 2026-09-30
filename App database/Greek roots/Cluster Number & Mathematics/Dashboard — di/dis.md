@@ -5,15 +5,6 @@ status: unread
 ---
 # dis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To treat with disrespect or contempt : insult.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To find fault with : criticize.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KATHARINE. _Ainsi dis-je_, d’elbow, de nick, _et_ de sin. _Comment appelez-vous le pied et la robe?_ ALICE."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You jack’nape, give-a dis letter to Sir Hugh."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The truth being known, We’ll all present ourselves, dis-horn the spirit, And mock him home to Windsor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To treat with disrespect or contempt : insult.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To find fault with : criticize.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KATHARINE. _Ainsi dis-je_, d’elbow, de nick, _et_ de sin. _Comment appelez-vous le pied et la robe?_ ALICE."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You jack’nape, give-a dis letter to Sir Hugh."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The truth being known, We’ll all present ourselves, dis-horn the spirit, And mock him home to Windsor."*

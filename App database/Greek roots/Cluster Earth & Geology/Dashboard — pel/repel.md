@@ -5,15 +5,6 @@ status: unread
 ---
 # repel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to move back by force or influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be repellent to; cause aversion in.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, my good lord; but as you did command, I did repel his letters and denied His access to me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When he did frown, O had she then gave over, Such nectar from his lips she had not suck’d. 572 Foul words and frowns must not repel a lover; What though the rose have prickles, yet ’tis pluck’d."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “dear me—something bronchial, I think—hem!—to remark that you was so good on that occasion as to repel and repudiate that declaration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to move back by force or influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be repellent to; cause aversion in.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, my good lord; but as you did command, I did repel his letters and denied His access to me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When he did frown, O had she then gave over, Such nectar from his lips she had not suck’d. 572 Foul words and frowns must not repel a lover; What though the rose have prickles, yet ’tis pluck’d."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “dear me—something bronchial, I think—hem!—to remark that you was so good on that occasion as to repel and repudiate that declaration."*

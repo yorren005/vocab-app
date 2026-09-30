@@ -5,15 +5,6 @@ status: unread
 ---
 # celluloid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Highly flammable substance made from cellulose nitrate and camphor; used in e.g. motion-picture and x-ray film; its use has decreased with the development of nonflammable thermoplastics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medium that disseminates moving pictures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Mama had the wrinkles pressed out of the suit by the time Miss Lida Belle got back with Mister Wes's white shirt and a celluloid collar that went with it."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Instead of a case of glass or celluloid, as is usual with the older cells, his cells are enclosed in strong boxes of nickel steel."*
-> - 📜 **James Joyce (*Ulysses*):** *"Or the inkbottle I suggested with a false stain of black celluloid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Highly flammable substance made from cellulose nitrate and camphor; used in e.g. motion-picture and x-ray film; its use has decreased with the development of nonflammable thermoplastics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medium that disseminates moving pictures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Mama had the wrinkles pressed out of the suit by the time Miss Lida Belle got back with Mister Wes's white shirt and a celluloid collar that went with it."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Instead of a case of glass or celluloid, as is usual with the older cells, his cells are enclosed in strong boxes of nickel steel."*
+> - 📜 **James Joyce (*Ulysses*):** *"Or the inkbottle I suggested with a false stain of black celluloid."*

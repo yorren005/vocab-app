@@ -5,13 +5,6 @@ status: unread
 ---
 # eulogist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An orator who delivers eulogies or panegyrics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An orator who delivers eulogies or panegyrics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"When the time does come, it will suffice if a kind eulogist will say for me, as one said for Grant, "Let his faults … be writ in water." Lige, my condition came about slowly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An orator who delivers eulogies or panegyrics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An orator who delivers eulogies or panegyrics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"When the time does come, it will suffice if a kind eulogist will say for me, as one said for Grant, "Let his faults … be writ in water." Lige, my condition came about slowly."*

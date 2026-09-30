@@ -5,13 +5,6 @@ status: unread
 ---
 # saltbush
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various shrubby plants of the genus atriplex that thrive in dry alkaline soil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various shrubby plants of the genus atriplex that thrive in dry alkaline soil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltbush designates any of various shrubby plants of the genus atriplex that thrive in dry alkaline soil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various shrubby plants of the genus atriplex that thrive in dry alkaline soil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various shrubby plants of the genus atriplex that thrive in dry alkaline soil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saltbush designates any of various shrubby plants of the genus atriplex that thrive in dry alkaline soil."*

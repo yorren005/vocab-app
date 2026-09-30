@@ -5,13 +5,6 @@ status: unread
 ---
 # nationalistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fanatically patriotic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devotion to the interests or culture of a particular nation including promoting the interests of one country over those of others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nationalistic designates fanatically patriotic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fanatically patriotic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devotion to the interests or culture of a particular nation including promoting the interests of one country over those of others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nationalistic designates fanatically patriotic."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # defining
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any process serving to define the shape of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine the essential quality of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"For the sake of certainty and uniformity, therefore, the power of defining felonies in this case was in every respect necessary and proper."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Each was eager for a message from the Planet Pluto Special Zone that would present a new reality and the defining course for the conference."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Traitors!” he thought, without clearly defining who the villains and traitors were, but feeling it necessary to hate those traitors whoever they might be who were to blame for the false and ridiculous position in which he found himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any process serving to define the shape of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine the essential quality of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"For the sake of certainty and uniformity, therefore, the power of defining felonies in this case was in every respect necessary and proper."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Each was eager for a message from the Planet Pluto Special Zone that would present a new reality and the defining course for the conference."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Traitors!” he thought, without clearly defining who the villains and traitors were, but feeling it necessary to hate those traitors whoever they might be who were to blame for the false and ridiculous position in which he found himself."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # element
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abstract part of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artifact that is one of the individual parts of which a composite entity is made up; especially a part that can be separated from or attached to a system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His delights Were dolphin-like; they showed his back above The element they lived in."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her clothes spread wide, And mermaid-like, awhile they bore her up, Which time she chaunted snatches of old tunes, As one incapable of her own distress, Or like a creature native and indued Unto that element."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The violet smells to him as it doth to me; the element shows to him as it doth to me; all his senses have but human conditions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abstract part of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artifact that is one of the individual parts of which a composite entity is made up; especially a part that can be separated from or attached to a system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His delights Were dolphin-like; they showed his back above The element they lived in."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her clothes spread wide, And mermaid-like, awhile they bore her up, Which time she chaunted snatches of old tunes, As one incapable of her own distress, Or like a creature native and indued Unto that element."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The violet smells to him as it doth to me; the element shows to him as it doth to me; all his senses have but human conditions."*

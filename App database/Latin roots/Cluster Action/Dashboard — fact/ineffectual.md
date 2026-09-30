@@ -5,15 +5,6 @@ status: unread
 ---
 # ineffectual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not producing an intended effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing no result or effect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But as this was an ineffectual protest, I then said, more particularly, that I was not sure of my qualifications."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Muttering, after an ineffectual call to his lodger, that he will go downstairs and bring a lighted candle from the shop, the old man departs."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The effort was made to remove it, but proved ineffectual, and it was thought that the child would have to be taken to one of the large cities to have an operation performed by a skillful surgeon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not producing an intended effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing no result or effect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But as this was an ineffectual protest, I then said, more particularly, that I was not sure of my qualifications."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Muttering, after an ineffectual call to his lodger, that he will go downstairs and bring a lighted candle from the shop, the old man departs."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The effort was made to remove it, but proved ineffectual, and it was thought that the child would have to be taken to one of the large cities to have an operation performed by a skillful surgeon."*

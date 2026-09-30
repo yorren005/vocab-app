@@ -5,13 +5,6 @@ status: unread
 ---
 # crass
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of persons) so unrefined as to be lacking in discrimination and sensibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of persons) so unrefined as to be lacking in discrimination and sensibility.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"There were many crass minds in Middlemarch whose reflective scales could only weigh things in the lump; and they had a strong suspicion that since Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of persons) so unrefined as to be lacking in discrimination and sensibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of persons) so unrefined as to be lacking in discrimination and sensibility.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"There were many crass minds in Middlemarch whose reflective scales could only weigh things in the lump; and they had a strong suspicion that since Mr."*

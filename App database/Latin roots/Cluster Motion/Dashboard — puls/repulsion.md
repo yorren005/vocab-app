@@ -5,15 +5,6 @@ status: unread
 ---
 # repulsion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The force by which bodies repel one another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intense aversion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A stagnant, sickening oil with some natural repulsion in it that makes them both shudder."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The present—the passing second of time—was all I had in which to control and restrain him: a movement of repulsion, flight, fear would have sealed my doom,—and his."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Her repulsion was getting stronger."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The force by which bodies repel one another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intense aversion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"A stagnant, sickening oil with some natural repulsion in it that makes them both shudder."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The present—the passing second of time—was all I had in which to control and restrain him: a movement of repulsion, flight, fear would have sealed my doom,—and his."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her repulsion was getting stronger."*

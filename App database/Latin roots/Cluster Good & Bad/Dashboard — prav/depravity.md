@@ -5,15 +5,6 @@ status: unread
 ---
 # depravity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moral perversion; impairment of virtue and moral principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A corrupt or depraved or degenerate act or practice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"We did not dream such depths of depravity."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Surely it is only in him that we realize man--only in him that we grasp what human depravity really is, the real meaning and implications of human sin."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Another important part of _the preaching of the cross_ consists in a full disclosure of _the entire depravity and helplessness of our fallen nature_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moral perversion; impairment of virtue and moral principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A corrupt or depraved or degenerate act or practice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"We did not dream such depths of depravity."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Surely it is only in him that we realize man--only in him that we grasp what human depravity really is, the real meaning and implications of human sin."*
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Another important part of _the preaching of the cross_ consists in a full disclosure of _the entire depravity and helplessness of our fallen nature_."*

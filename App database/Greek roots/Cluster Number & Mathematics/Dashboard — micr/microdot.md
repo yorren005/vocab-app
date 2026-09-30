@@ -5,13 +5,6 @@ status: unread
 ---
 # microdot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Photograph reduced to the size of a dot (usually for purposes of security).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Photograph reduced to the size of a dot (usually for purposes of security).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microdot designates photograph reduced to the size of a dot (usually for purposes of security)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Photograph reduced to the size of a dot (usually for purposes of security).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Photograph reduced to the size of a dot (usually for purposes of security).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microdot designates photograph reduced to the size of a dot (usually for purposes of security)."*

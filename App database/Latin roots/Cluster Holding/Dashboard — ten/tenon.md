@@ -5,13 +5,6 @@ status: unread
 ---
 # tenon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A projection at the end of a piece of wood that is shaped to fit into a mortise and form a mortise joint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A projection at the end of a piece of wood that is shaped to fit into a mortise and form a mortise joint.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"If you allow me. _(He indicates vaguely Lynch and Bloom.)_ We are all in the same sweepstake, Kinch and Lynch. _Dans ce bordel où tenons nostre état_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A projection at the end of a piece of wood that is shaped to fit into a mortise and form a mortise joint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A projection at the end of a piece of wood that is shaped to fit into a mortise and form a mortise joint.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"If you allow me. _(He indicates vaguely Lynch and Bloom.)_ We are all in the same sweepstake, Kinch and Lynch. _Dans ce bordel où tenons nostre état_."*

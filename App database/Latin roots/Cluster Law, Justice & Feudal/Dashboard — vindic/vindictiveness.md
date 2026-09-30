@@ -5,15 +5,6 @@ status: unread
 ---
 # vindictiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A malevolent desire for revenge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A malevolent desire for revenge.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed, who finds it so difficult to resume his object, whatever it may be, that he becomes exasperated and secretly claws the air with an impotent vindictiveness expressive of an intense desire to tear and rend the visage of Mr."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John harboured a spirit of unchristian vindictiveness—not that he would have injured a hair of my head, if it had been fully in his power to do so."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon, we know, had a sense of rectitude and an honorable pride in satisfying the requirements of honor, which compelled him to find other reasons for his conduct than those of jealousy and vindictiveness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A malevolent desire for revenge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A malevolent desire for revenge.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed, who finds it so difficult to resume his object, whatever it may be, that he becomes exasperated and secretly claws the air with an impotent vindictiveness expressive of an intense desire to tear and rend the visage of Mr."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John harboured a spirit of unchristian vindictiveness—not that he would have injured a hair of my head, if it had been fully in his power to do so."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon, we know, had a sense of rectitude and an honorable pride in satisfying the requirements of honor, which compelled him to find other reasons for his conduct than those of jealousy and vindictiveness."*

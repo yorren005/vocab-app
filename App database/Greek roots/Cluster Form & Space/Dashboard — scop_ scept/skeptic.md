@@ -5,15 +5,6 @@ status: unread
 ---
 # skeptic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who habitually doubts accepted beliefs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who habitually doubts accepted beliefs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The skeptic would have said, "All foolish to plead before an unseen God, and ask for such a sum."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The skeptic can never accuse little children of the same theories, philosophies, imaginations and beliefs which are characteristic of older heads."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"To HIM alone be the thanks for this step she has taken." A SKEPTIC OVERPOWERED."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who habitually doubts accepted beliefs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who habitually doubts accepted beliefs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The skeptic would have said, "All foolish to plead before an unseen God, and ask for such a sum."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The skeptic can never accuse little children of the same theories, philosophies, imaginations and beliefs which are characteristic of older heads."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"To HIM alone be the thanks for this step she has taken." A SKEPTIC OVERPOWERED."*

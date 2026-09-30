@@ -5,13 +5,6 @@ status: unread
 ---
 # thymol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless crystalline solid used in perfume or preserving biological specimens or in embalming or medically as a fungicide or antiseptic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless crystalline solid used in perfume or preserving biological specimens or in embalming or medically as a fungicide or antiseptic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thymol designates a colorless crystalline solid used in perfume or preserving biological specimens or in embalming or medically as a fungicide or antiseptic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless crystalline solid used in perfume or preserving biological specimens or in embalming or medically as a fungicide or antiseptic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless crystalline solid used in perfume or preserving biological specimens or in embalming or medically as a fungicide or antiseptic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thymol designates a colorless crystalline solid used in perfume or preserving biological specimens or in embalming or medically as a fungicide or antiseptic."*

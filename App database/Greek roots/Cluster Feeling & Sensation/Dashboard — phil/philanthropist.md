@@ -5,15 +5,6 @@ status: unread
 ---
 # philanthropist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes charitable donations intended to increase human well-being.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes charitable donations intended to increase human well-being.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Quale, with large shining knobs for temples and his hair all brushed to the back of his head, who came in the evening, and told Ada he was a philanthropist, also informed her that he called the matrimonial alliance of Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A pretty thing, indeed, to marry a philanthropist."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You would, perhaps, think me rude if I inquired in return whether you are a philanthropist?” “There again!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes charitable donations intended to increase human well-being.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes charitable donations intended to increase human well-being.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Quale, with large shining knobs for temples and his hair all brushed to the back of his head, who came in the evening, and told Ada he was a philanthropist, also informed her that he called the matrimonial alliance of Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A pretty thing, indeed, to marry a philanthropist."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You would, perhaps, think me rude if I inquired in return whether you are a philanthropist?” “There again!"*

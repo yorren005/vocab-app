@@ -5,13 +5,6 @@ status: unread
 ---
 # fictional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to or involving literary fiction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed or conceived by the imagination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fictional designates related to or involving literary fiction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to or involving literary fiction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed or conceived by the imagination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fictional designates related to or involving literary fiction."*

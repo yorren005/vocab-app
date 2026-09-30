@@ -5,15 +5,6 @@ status: unread
 ---
 # virulent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely poisonous or injurious; producing venom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infectious; having the ability to cause disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"But _bu-ku-rú_ is much more virulent."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was a precocious actress in her eyes; she sincerely looked on me as a compound of virulent passions, mean spirit, and dangerous duplicity."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Hawley— “I protest before you, sir, as a Christian minister, against the sanction of proceedings towards me which are dictated by virulent hatred."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely poisonous or injurious; producing venom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infectious; having the ability to cause disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"But _bu-ku-rú_ is much more virulent."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was a precocious actress in her eyes; she sincerely looked on me as a compound of virulent passions, mean spirit, and dangerous duplicity."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Hawley— “I protest before you, sir, as a Christian minister, against the sanction of proceedings towards me which are dictated by virulent hatred."*

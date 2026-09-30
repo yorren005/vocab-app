@@ -5,15 +5,6 @@ status: unread
 ---
 # raphael
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian painter whose many paintings exemplify the ideals of the high renaissance (1483-1520).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archangel of the hebrew tradition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby are in her eyes as achievements of Raphael or Titian."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The only other noteworthy objects in the study were two splendid engravings of Raphael's "Transfiguration" and "Spasimo" (the former bearing the signature of Raphael Morghen), which had been a gift to him from Mrs."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"As regards art, he cheapened Michael Angelo, and the only things about which he was enthusiastic in Italy, except the fragments of antiquity which he loved for their associations, were the paintings of Raphael and Guido Reni."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian painter whose many paintings exemplify the ideals of the high renaissance (1483-1520).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archangel of the hebrew tradition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby are in her eyes as achievements of Raphael or Titian."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"The only other noteworthy objects in the study were two splendid engravings of Raphael's "Transfiguration" and "Spasimo" (the former bearing the signature of Raphael Morghen), which had been a gift to him from Mrs."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"As regards art, he cheapened Michael Angelo, and the only things about which he was enthusiastic in Italy, except the fragments of antiquity which he loved for their associations, were the paintings of Raphael and Guido Reni."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # xylitol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline alcohol C5H12O5 that is a derivative of xylose, is obtained especially from birch bark, and is used as a sweetener.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline alcohol C5H12O5 that is a derivative of xylose, is obtained especially from birch bark, and is used as a sweetener.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylitol designates a crystalline alcohol c5h12o5 that is a derivative of xylose, is obtained especially from birch bark, and is used as a sweetener."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline alcohol C5H12O5 that is a derivative of xylose, is obtained especially from birch bark, and is used as a sweetener.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline alcohol C5H12O5 that is a derivative of xylose, is obtained especially from birch bark, and is used as a sweetener.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylitol designates a crystalline alcohol c5h12o5 that is a derivative of xylose, is obtained especially from birch bark, and is used as a sweetener."*

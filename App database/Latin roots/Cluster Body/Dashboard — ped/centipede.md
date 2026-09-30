@@ -5,15 +5,6 @@ status: unread
 ---
 # centipede
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly nocturnal predacious arthropod having a flattened body of 15 to 173 segments each with a pair of legs, the foremost pair being modified as prehensors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly nocturnal predacious arthropod having a flattened body of 15 to 173 segments each with a pair of legs, the foremost pair being modified as prehensors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Ye see an old man cut down to the stump; leaning on a shivered lance; propped up on a lonely foot. ’Tis Ahab—his body’s part; but Ahab’s soul’s a centipede, that moves upon a hundred legs."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Ye see an old man cut down to the stump; leaning on a shivered lance; propped up on a lonely foot. ’Tis Ahab—his body’s part; but Ahab’s soul’s a centipede, that moves upon a hundred legs."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"There are serpents coiled in balls, and vipers spitting poison, and centipedes, and fat blinking toads, and vampires, and lizards, and tarantulas, that we never suspect of being in the soul."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly nocturnal predacious arthropod having a flattened body of 15 to 173 segments each with a pair of legs, the foremost pair being modified as prehensors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly nocturnal predacious arthropod having a flattened body of 15 to 173 segments each with a pair of legs, the foremost pair being modified as prehensors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Ye see an old man cut down to the stump; leaning on a shivered lance; propped up on a lonely foot. ’Tis Ahab—his body’s part; but Ahab’s soul’s a centipede, that moves upon a hundred legs."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Ye see an old man cut down to the stump; leaning on a shivered lance; propped up on a lonely foot. ’Tis Ahab—his body’s part; but Ahab’s soul’s a centipede, that moves upon a hundred legs."*
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"There are serpents coiled in balls, and vipers spitting poison, and centipedes, and fat blinking toads, and vampires, and lizards, and tarantulas, that we never suspect of being in the soul."*

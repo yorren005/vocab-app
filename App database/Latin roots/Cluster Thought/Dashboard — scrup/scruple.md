@@ -5,15 +5,6 @@ status: unread
 ---
 # scruple
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of apothecary weight equal to 20 grains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uneasiness about the fitness of an action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, good faith, every dram of it; and I will not bate thee a scruple."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your lordship may minister the potion of imprisonment to me in respect of poverty; but how I should be your patient to follow your prescriptions, the wise may make some dram of a scruple, or indeed a scruple itself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But there remains a scruple in that too; For though her father be the King of Naples, Duke of Anjou and Maine, yet is he poor, And our nobility will scorn the match."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of apothecary weight equal to 20 grains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uneasiness about the fitness of an action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, good faith, every dram of it; and I will not bate thee a scruple."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your lordship may minister the potion of imprisonment to me in respect of poverty; but how I should be your patient to follow your prescriptions, the wise may make some dram of a scruple, or indeed a scruple itself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But there remains a scruple in that too; For though her father be the King of Naples, Duke of Anjou and Maine, yet is he poor, And our nobility will scorn the match."*

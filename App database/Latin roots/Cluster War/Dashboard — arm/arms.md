@@ -5,15 +5,6 @@ status: unread
 ---
 # arms
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weapons considered collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official symbols of a family, state, etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why dost thou garter up thy arms o’ this fashion?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He wears his honour in a box unseen That hugs his kicky-wicky here at home, Spending his manly marrow in her arms, Which should sustain the bound and high curvet Of Mars’s fiery steed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To lend me arms and aid when I required them, The which you both denied."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Weapons considered collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official symbols of a family, state, etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why dost thou garter up thy arms o’ this fashion?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He wears his honour in a box unseen That hugs his kicky-wicky here at home, Spending his manly marrow in her arms, Which should sustain the bound and high curvet Of Mars’s fiery steed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To lend me arms and aid when I required them, The which you both denied."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # myelinated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of neurons) covered with a layer of myelin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of neurons) covered with a layer of myelin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelinated designates (of neurons) covered with a layer of myelin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of neurons) covered with a layer of myelin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of neurons) covered with a layer of myelin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelinated designates (of neurons) covered with a layer of myelin."*

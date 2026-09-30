@@ -5,13 +5,6 @@ status: unread
 ---
 # sequestrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep away from others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set apart from others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"It will give a better idea of the uncertain condition of those two, sequestrated underground, than any mere description."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep away from others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set apart from others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"It will give a better idea of the uncertain condition of those two, sequestrated underground, than any mere description."*

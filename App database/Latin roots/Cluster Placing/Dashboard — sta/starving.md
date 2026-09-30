@@ -5,15 +5,6 @@ status: unread
 ---
 # starving
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of depriving of food or subjecting to famine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be hungry; go without food.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And never yet did insurrection want Such water-colours to impaint his cause, Nor moody beggars starving for a time Of pellmell havoc and confusion."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I would even come with the greatest joy if you never gave me anything to eat." "No, no, we don't have institutions for starving people," Uncle Philip replied."*
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"A man was starving in Capri; He moved his eyes and looked at me; I felt his gaze, I heard his moan, And knew his hunger as my own."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of depriving of food or subjecting to famine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be hungry; go without food.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And never yet did insurrection want Such water-colours to impaint his cause, Nor moody beggars starving for a time Of pellmell havoc and confusion."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I would even come with the greatest joy if you never gave me anything to eat." "No, no, we don't have institutions for starving people," Uncle Philip replied."*
+> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"A man was starving in Capri; He moved his eyes and looked at me; I felt his gaze, I heard his moan, And knew his hunger as my own."*

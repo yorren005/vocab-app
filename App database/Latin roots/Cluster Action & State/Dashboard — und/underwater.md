@@ -5,13 +5,6 @@ status: unread
 ---
 # underwater
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beneath the surface of the water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growing or remaining under water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"It seemed like he was underwater half an hour, but it couldn’t have been more than a few seconds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beneath the surface of the water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growing or remaining under water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"It seemed like he was underwater half an hour, but it couldn’t have been more than a few seconds."*

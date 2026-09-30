@@ -5,15 +5,6 @@ status: unread
 ---
 # provide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give something useful or necessary to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give what is desired or needed, especially support, food or sustenance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, go, provide. [_Exeunt._] SCENE II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Provide your going; Choose your own company, and command what cost Your heart has mind to. [_Exeunt._] SCENE V."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My wife, more careful for the latter-born, Had fast’ned him unto a small spare mast, Such as sea-faring men provide for storms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give something useful or necessary to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give what is desired or needed, especially support, food or sustenance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, go, provide. [_Exeunt._] SCENE II."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Provide your going; Choose your own company, and command what cost Your heart has mind to. [_Exeunt._] SCENE V."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My wife, more careful for the latter-born, Had fast’ned him unto a small spare mast, Such as sea-faring men provide for storms."*

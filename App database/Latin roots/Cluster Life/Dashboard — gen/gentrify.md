@@ -5,13 +5,6 @@ status: unread
 ---
 # gentrify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Renovate so as to make it conform to middle-class aspirations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Renovate so as to make it conform to middle-class aspirations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gentrify designates renovate so as to make it conform to middle-class aspirations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Renovate so as to make it conform to middle-class aspirations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Renovate so as to make it conform to middle-class aspirations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gentrify designates renovate so as to make it conform to middle-class aspirations."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # conscientious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by extreme care and great effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Guided by or in accordance with conscience or sense of right and wrong.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I know this, th-th-that he is a thoroughly conscientious man—blunt sometimes even to rudeness—but always speaking his mind about you plain to your face!” “Oh.” “He is as good as anybody in this parish!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Neither a religious sense of a certain moral validity in the previous union nor a conscientious wish for candour could hold out against it much longer."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Of these lectures, and of others which he wrote in later years, it must be said that, while all of them were the fruit of conscientious and strenuous toil, they were of unequal merit, or at least of unequal effectiveness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by extreme care and great effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Guided by or in accordance with conscience or sense of right and wrong.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I know this, th-th-that he is a thoroughly conscientious man—blunt sometimes even to rudeness—but always speaking his mind about you plain to your face!” “Oh.” “He is as good as anybody in this parish!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Neither a religious sense of a certain moral validity in the previous union nor a conscientious wish for candour could hold out against it much longer."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Of these lectures, and of others which he wrote in later years, it must be said that, while all of them were the fruit of conscientious and strenuous toil, they were of unequal merit, or at least of unequal effectiveness."*

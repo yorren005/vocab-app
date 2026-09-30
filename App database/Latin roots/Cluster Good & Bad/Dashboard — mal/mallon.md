@@ -5,13 +5,6 @@ status: unread
 ---
 # mallon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states cook who was an immune carrier of typhoid fever and who infected dozens of people (1870-1938).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states cook who was an immune carrier of typhoid fever and who infected dozens of people (1870-1938).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Alleg._ ii, Sec. 1, 67 M. _tattetai oun ho theos kata to en kai ten monada, mallon de kai he monas kata ton hena theon_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states cook who was an immune carrier of typhoid fever and who infected dozens of people (1870-1938).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states cook who was an immune carrier of typhoid fever and who infected dozens of people (1870-1938).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Alleg._ ii, Sec. 1, 67 M. _tattetai oun ho theos kata to en kai ten monada, mallon de kai he monas kata ton hena theon_."*

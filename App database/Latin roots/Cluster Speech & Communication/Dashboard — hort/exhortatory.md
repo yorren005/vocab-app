@@ -5,13 +5,6 @@ status: unread
 ---
 # exhortatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving strong encouragement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giving strong encouragement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Bennet relates the following incidents in the life of John Easter, one of the pioneer ministers who labored there nearly one hundred years ago: He is represented as being the most powerful exhortatory preacher of his day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving strong encouragement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giving strong encouragement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Bennet relates the following incidents in the life of John Easter, one of the pioneer ministers who labored there nearly one hundred years ago: He is represented as being the most powerful exhortatory preacher of his day."*

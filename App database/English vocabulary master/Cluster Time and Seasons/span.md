@@ -5,20 +5,6 @@ status: unread
 ---
 # span
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (by extension) a small space or a brief portion of time
-> 2. **Nuance / Usage**: Extent, stretch, reach, or spread between two limits: such as
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"I know now the span of my life."*
-> - 📜 **George Farquhar (*The Constant Couple*):** *"Life's but a span; I'll every inch enjoy."*
-> - 📜 **John Zerzan (*Silence*):** *"The unsilent present is a time of evaporating attention spans,"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: The full extent or duration of time between two limits, such as the length of a human life (*life span*) or the duration of sustained focus (*attention span*).
+> 2. **Nuance / Usage**: Originally a physical measure equal to the distance from the tip of the thumb to the tip of the little finger on an outstretched hand (~9 inches), and by extension the reach of an arch or bridge across a river.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count) and Verb (transitive).
+> - **Syntactic Constructions**: Functions as a temporal or spatial noun (*within the span of a year*, *life's brief span*) or transitive verb (*spanned three decades*).
+> - **Collocations & Registers**: Temporal, architectural, and poetic registers; collocated with *life*, *attention*, *brief*, *arch*, and *centuries*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"I know now the brief **span** of my life, and how much remains to be done before the end."*
+> - 📜 **George Farquhar (*The Constant Couple*):** *"Life's but a **span**; I'll every inch enjoy."*
+> - 📜 **John Zerzan (*Running on Emptiness*):** *"The unsilent present is a time of rapidly evaporating attention **spans**."*

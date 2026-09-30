@@ -5,13 +5,6 @@ status: unread
 ---
 # homozygous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the two genes at corresponding loci on homologous chromosomes identical for one or more loci.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the two genes at corresponding loci on homologous chromosomes identical for one or more loci.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homozygous designates having the two genes at corresponding loci on homologous chromosomes identical for one or more loci."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the two genes at corresponding loci on homologous chromosomes identical for one or more loci.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the two genes at corresponding loci on homologous chromosomes identical for one or more loci.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homozygous designates having the two genes at corresponding loci on homologous chromosomes identical for one or more loci."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # parched
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Very thirsty
-> 2. **Nuance / Usage**: Shrivel with heat
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a parched appearance*) and predicatively after a linking verb (*remained parched*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"withered up into such parched rubbish as that?"*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Ryder passed his tongue over his parched lips."*
-> - 📜 **Washington Irving (*The Sketch Book*):** *"ink, and a few pens parched by long disuse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Dried out, shriveled, or cracked by exposure to intense sun, heat, or prolonged drought.
+> 2. **Nuance / Usage**: Applied to the throat, lips, or a person as a whole, it denotes extreme, burning thirst resulting from heat and dehydration.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a parched appearance*) and predicatively after a linking verb (*remained parched*).
+> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Must all his scholarship be withered up into such **parched** rubbish as that?"*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Ryder passed his tongue over his **parched** lips."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"There stood an inkstand with dried ink, and a few pens **parched** by long disuse."*

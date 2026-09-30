@@ -5,15 +5,6 @@ status: unread
 ---
 # attract
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Direct toward itself or oneself by means of some psychological power or physical attributes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be attractive to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was as graceful as she was beautiful, perfectly self-possessed, and had the air, I thought, of being able to attract and interest any one if she had thought it worth her while."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby was looking far away into Africa straight through my bonnet and head, I thought it a good opportunity to come to the subject of my visit and to attract Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"This would attract similar lights from various dark quarters, like so many insects, and a fresh consultation would be held."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Direct toward itself or oneself by means of some psychological power or physical attributes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be attractive to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"She was as graceful as she was beautiful, perfectly self-possessed, and had the air, I thought, of being able to attract and interest any one if she had thought it worth her while."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby was looking far away into Africa straight through my bonnet and head, I thought it a good opportunity to come to the subject of my visit and to attract Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"This would attract similar lights from various dark quarters, like so many insects, and a fresh consultation would be held."*

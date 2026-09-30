@@ -5,13 +5,6 @@ status: unread
 ---
 # mortgager
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person who gives a mortgage in return for money to be repaid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person who gives a mortgage in return for money to be repaid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"At this moment her savings’ banks are engaged in compelling mortgagers to accept eight per cent. as the present rate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The person who gives a mortgage in return for money to be repaid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person who gives a mortgage in return for money to be repaid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"At this moment her savings’ banks are engaged in compelling mortgagers to accept eight per cent. as the present rate."*

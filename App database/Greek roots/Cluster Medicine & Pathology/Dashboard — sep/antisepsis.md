@@ -5,13 +5,6 @@ status: unread
 ---
 # antisepsis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inhibiting of the growth and multiplication of microorganisms by antiseptic means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inhibiting of the growth and multiplication of microorganisms by antiseptic means.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antisepsis designates the inhibiting of the growth and multiplication of microorganisms by antiseptic means."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inhibiting of the growth and multiplication of microorganisms by antiseptic means.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inhibiting of the growth and multiplication of microorganisms by antiseptic means.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antisepsis designates the inhibiting of the growth and multiplication of microorganisms by antiseptic means."*

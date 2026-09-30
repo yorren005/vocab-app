@@ -5,13 +5,6 @@ status: unread
 ---
 # culpableness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of guilt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of guilt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, culpableness designates a state of guilt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of guilt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of guilt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, culpableness designates a state of guilt."*

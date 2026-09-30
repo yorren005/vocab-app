@@ -5,13 +5,6 @@ status: unread
 ---
 # thermogravimetry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of changes in weight as a function of changes in temperature used as a technique of chemically analyzing substances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The measurement of changes in weight as a function of changes in temperature used as a technique of chemically analyzing substances.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermogravimetry designates the measurement of changes in weight as a function of changes in temperature used as a technique of chemically analyzing substances."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of changes in weight as a function of changes in temperature used as a technique of chemically analyzing substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The measurement of changes in weight as a function of changes in temperature used as a technique of chemically analyzing substances.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermogravimetry designates the measurement of changes in weight as a function of changes in temperature used as a technique of chemically analyzing substances."*

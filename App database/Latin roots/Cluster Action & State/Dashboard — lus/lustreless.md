@@ -5,15 +5,6 @@ status: unread
 ---
 # lustreless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking brilliance or vitality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking luster or shine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The quick-silvery glaze on the rivers and pools vanished; from broad mirrors of light they changed to lustreless sheets of lead, with a surface like a rasp."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The twisted limbs, the gaping mouths, the staring lustreless eyes, fascinated him."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"He is meagre; his low and narrow forehead is deeply wrinkled; his eyes, small and lustreless, sometimes wander apprehensively about him, but oftener seem to look inward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking brilliance or vitality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking luster or shine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The quick-silvery glaze on the rivers and pools vanished; from broad mirrors of light they changed to lustreless sheets of lead, with a surface like a rasp."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The twisted limbs, the gaping mouths, the staring lustreless eyes, fascinated him."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"He is meagre; his low and narrow forehead is deeply wrinkled; his eyes, small and lustreless, sometimes wander apprehensively about him, but oftener seem to look inward."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # corpulency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: More than average fatness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: More than average fatness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corpulency designates more than average fatness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: More than average fatness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: More than average fatness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corpulency designates more than average fatness."*

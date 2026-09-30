@@ -5,15 +5,6 @@ status: unread
 ---
 # deform
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make formless.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Twist and press out of shape.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In nature there’s no blemish but the mind; None can be call’d deform’d but the unkind."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Sight so deform what heart of rock could long Dry-eyed behold?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is deformed, crooked, old, and sere, Ill-fac’d, worse bodied, shapeless everywhere; Vicious, ungentle, foolish, blunt, unkind, Stigmatical in making, worse in mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make formless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Twist and press out of shape.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In nature there’s no blemish but the mind; None can be call’d deform’d but the unkind."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Sight so deform what heart of rock could long Dry-eyed behold?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is deformed, crooked, old, and sere, Ill-fac’d, worse bodied, shapeless everywhere; Vicious, ungentle, foolish, blunt, unkind, Stigmatical in making, worse in mind."*

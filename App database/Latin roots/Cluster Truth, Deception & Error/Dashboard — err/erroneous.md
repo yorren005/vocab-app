@@ -5,15 +5,6 @@ status: unread
 ---
 # erroneous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or characterized by error.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or characterized by error.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What stratagems, how fell, how butcherly, Erroneous, mutinous, and unnatural, This deadly quarrel daily doth beget!"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There is more than the germ of truth in things erroneous in the child’s definition of memory as the thing one forgets with."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Certain erroneous explanations of the advantages of foreign trade may be dismissed with brief mention."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or characterized by error.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or characterized by error.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What stratagems, how fell, how butcherly, Erroneous, mutinous, and unnatural, This deadly quarrel daily doth beget!"*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There is more than the germ of truth in things erroneous in the child’s definition of memory as the thing one forgets with."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Certain erroneous explanations of the advantages of foreign trade may be dismissed with brief mention."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # seventy-three
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being three more than seventy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being three more than seventy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seventy-three designates being three more than seventy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being three more than seventy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being three more than seventy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seventy-three designates being three more than seventy."*

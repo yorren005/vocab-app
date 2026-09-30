@@ -5,15 +5,6 @@ status: unread
 ---
 # egypt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Country of northeastern Africa bordering on the Mediterranean and Red seas and site of an early and long enduring civilization of the ancient world; capital Cairo area 386,662 square miles (1,001,450 square kilometers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Country of northeastern Africa bordering on the Mediterranean and Red seas and site of an early and long enduring civilization of the ancient world; capital Cairo area 386,662 square miles (1,001,450 square kilometers).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As I am Egypt’s queen, Thou blushest, Antony, and that blood of thine Is Caesar’s homager; else so thy cheek pays shame When shrill-tongued Fulvia scolds."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I had thy inches, thou shouldst know There were a heart in Egypt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I prithee, turn aside and weep for her, Then bid adieu to me, and say the tears Belong to Egypt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Country of northeastern Africa bordering on the Mediterranean and Red seas and site of an early and long enduring civilization of the ancient world; capital Cairo area 386,662 square miles (1,001,450 square kilometers).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Country of northeastern Africa bordering on the Mediterranean and Red seas and site of an early and long enduring civilization of the ancient world; capital Cairo area 386,662 square miles (1,001,450 square kilometers).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As I am Egypt’s queen, Thou blushest, Antony, and that blood of thine Is Caesar’s homager; else so thy cheek pays shame When shrill-tongued Fulvia scolds."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I had thy inches, thou shouldst know There were a heart in Egypt."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I prithee, turn aside and weep for her, Then bid adieu to me, and say the tears Belong to Egypt."*

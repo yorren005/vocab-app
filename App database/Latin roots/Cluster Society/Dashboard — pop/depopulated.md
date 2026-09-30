@@ -5,15 +5,6 @@ status: unread
 ---
 # depopulated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce in population.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having lost inhabitants as by war or disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They have already depopulated the whole of Baffin’s Bay, and are annihilating a class of useful animals."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The depopulated land is then recruited from the rapacious, hordes of enlightened individuals who settle themselves within its borders, and clamorously announce the progress of the Truth."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Long years of faction and war, as he himself says, had depopulated Greece, and the whole land could hardly furnish now the three thousand hoplites that four centuries before Megara alone had sent to Plataea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce in population.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having lost inhabitants as by war or disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They have already depopulated the whole of Baffin’s Bay, and are annihilating a class of useful animals."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The depopulated land is then recruited from the rapacious, hordes of enlightened individuals who settle themselves within its borders, and clamorously announce the progress of the Truth."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Long years of faction and war, as he himself says, had depopulated Greece, and the whole land could hardly furnish now the three thousand hoplites that four centuries before Megara alone had sent to Plataea."*

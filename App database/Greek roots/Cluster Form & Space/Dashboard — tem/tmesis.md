@@ -5,13 +5,6 @@ status: unread
 ---
 # tmesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Separation of parts of a compound word by the intervention of one or more words (such as what place soever for whatsoever place).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separation of parts of a compound word by the intervention of one or more words (such as what place soever for whatsoever place).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tmesis designates separation of parts of a compound word by the intervention of one or more words (such as what place soever for whatsoever place)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Separation of parts of a compound word by the intervention of one or more words (such as what place soever for whatsoever place).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separation of parts of a compound word by the intervention of one or more words (such as what place soever for whatsoever place).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tmesis designates separation of parts of a compound word by the intervention of one or more words (such as what place soever for whatsoever place)."*

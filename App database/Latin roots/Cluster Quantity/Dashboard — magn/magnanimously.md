@@ -5,15 +5,6 @@ status: unread
 ---
 # magnanimously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a magnanimous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a magnanimous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Drink, Henry Fray—drink,” magnanimously said Jan Coggan, a person who held Saint-Simonian notions of share and share alike where liquor was concerned, as the vessel showed signs of approaching him in its gradual revolution among them."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They are better women than I,” she replied, magnanimously sticking to her resolve."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Could I help her, do you think?” “I think it would be well for you just to go and see her before Lydgate comes,” said Sir James, magnanimously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a magnanimous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a magnanimous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Drink, Henry Fray—drink,” magnanimously said Jan Coggan, a person who held Saint-Simonian notions of share and share alike where liquor was concerned, as the vessel showed signs of approaching him in its gradual revolution among them."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They are better women than I,” she replied, magnanimously sticking to her resolve."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Could I help her, do you think?” “I think it would be well for you just to go and see her before Lydgate comes,” said Sir James, magnanimously."*

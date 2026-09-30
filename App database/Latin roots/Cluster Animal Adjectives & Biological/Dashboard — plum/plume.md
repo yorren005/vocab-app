@@ -5,15 +5,6 @@ status: unread
 ---
 # plume
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anything that resembles a feather in shape or lightness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feather or cluster of feathers worn as an ornament.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He; That with the plume; ’tis a most gallant fellow."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What plume of feathers is he that indited this letter?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The state whereon I studied Is, like a good thing being often read, Grown sere and tedious; yea, my gravity, Wherein—let no man hear me—I take pride, Could I with boot change for an idle plume Which the air beats for vain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anything that resembles a feather in shape or lightness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feather or cluster of feathers worn as an ornament.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He; That with the plume; ’tis a most gallant fellow."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What plume of feathers is he that indited this letter?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The state whereon I studied Is, like a good thing being often read, Grown sere and tedious; yea, my gravity, Wherein—let no man hear me—I take pride, Could I with boot change for an idle plume Which the air beats for vain."*

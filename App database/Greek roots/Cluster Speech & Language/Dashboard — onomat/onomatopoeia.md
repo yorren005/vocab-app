@@ -5,13 +5,6 @@ status: unread
 ---
 # onomatopoeia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The naming of a thing or action by a vocal imitation of the sound associated with it : the creation of words that imitate natural sounds (such as buzz, hiss); also : a word formed by onomatopoeia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of words whose sound suggests the sense.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onomatopoeia designates the naming of a thing or action by a vocal imitation of the sound associated with it : the creation of words that imitate natural sounds (such as buzz, hiss); also : a word formed by onomatopoeia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The naming of a thing or action by a vocal imitation of the sound associated with it : the creation of words that imitate natural sounds (such as buzz, hiss); also : a word formed by onomatopoeia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of words whose sound suggests the sense.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, onomatopoeia designates the naming of a thing or action by a vocal imitation of the sound associated with it : the creation of words that imitate natural sounds (such as buzz, hiss); also : a word formed by onomatopoeia."*

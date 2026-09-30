@@ -5,13 +5,6 @@ status: unread
 ---
 # miniate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paint with red lead or vermilion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decorate (manuscripts) with letters painted red.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miniate designates paint with red lead or vermilion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paint with red lead or vermilion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decorate (manuscripts) with letters painted red.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miniate designates paint with red lead or vermilion."*

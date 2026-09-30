@@ -5,13 +5,6 @@ status: unread
 ---
 # astigmia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (ophthalmology) impaired eyesight resulting usually from irregular conformation of the cornea; common in nearsighted people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (optics) defect in an optical system in which light rays from a single point fail to converge in a single focal point.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astigmia designates (ophthalmology) impaired eyesight resulting usually from irregular conformation of the cornea; common in nearsighted people."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (ophthalmology) impaired eyesight resulting usually from irregular conformation of the cornea; common in nearsighted people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (optics) defect in an optical system in which light rays from a single point fail to converge in a single focal point.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astigmia designates (ophthalmology) impaired eyesight resulting usually from irregular conformation of the cornea; common in nearsighted people."*

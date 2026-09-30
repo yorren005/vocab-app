@@ -5,13 +5,6 @@ status: unread
 ---
 # reposition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Depositing in a warehouse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change place or direction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reposition designates depositing in a warehouse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Depositing in a warehouse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change place or direction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reposition designates depositing in a warehouse."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # indirectness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the characteristic of lacking a true course toward a goal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the characteristic of lacking a true course toward a goal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"You want to know something about him,” she added, not choosing to indulge Rosamond’s indirectness."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Not if it had been like Casaubon,” said Sir James, conscious of some indirectness in his answer, and of holding a strictly private opinion as to the perfections of his first-born."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The value of all goods is to be explained, but the explanation will be more or less complex according to the directness or indirectness of their relation with wants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the characteristic of lacking a true course toward a goal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the characteristic of lacking a true course toward a goal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"You want to know something about him,” she added, not choosing to indulge Rosamond’s indirectness."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Not if it had been like Casaubon,” said Sir James, conscious of some indirectness in his answer, and of holding a strictly private opinion as to the perfections of his first-born."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The value of all goods is to be explained, but the explanation will be more or less complex according to the directness or indirectness of their relation with wants."*

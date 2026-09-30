@@ -5,15 +5,6 @@ status: unread
 ---
 # monastery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The residence of a religious community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The residence of a religious community.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a thing that Angelo knows not; for he this very day receives letters of strange tenour, perchance of the Duke’s death, perchance entering into some monastery; but, by chance, nothing of what is writ."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is a monastery two miles off, And there we will abide."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Renowned Lucius, from our troops I strayed To gaze upon a ruinous monastery; And as I earnestly did fix mine eye Upon the wasted building, suddenly I heard a child cry underneath a wall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The residence of a religious community.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The residence of a religious community.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a thing that Angelo knows not; for he this very day receives letters of strange tenour, perchance of the Duke’s death, perchance entering into some monastery; but, by chance, nothing of what is writ."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is a monastery two miles off, And there we will abide."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Renowned Lucius, from our troops I strayed To gaze upon a ruinous monastery; And as I earnestly did fix mine eye Upon the wasted building, suddenly I heard a child cry underneath a wall."*

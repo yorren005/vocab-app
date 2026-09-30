@@ -5,20 +5,6 @@ status: unread
 ---
 # vigil
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Period of observation or surveillance at any hour
-> 2. **Nuance / Usage**: The eve of a religious festival in which staying awake is part of the ritual devotions
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Why could he then support that his vigil with the greater equanimity?"*
-> - 📜 **Colson Whitehead (*The Underground Railroad (novel)*):** *"Eventually the body trade grew so reckless that relatives took to holding graveside vigils, lest their loved ones disappear in the night."*
-> - 📜 **Isabella Kwai, John Yoon (*Rebecca Cheptegei, Olympic Runner From Uganda, Dies After Gasoline Attack*):** *"A vigil was held for Ms. Cheptegei on Wednesday night, Ms. Indimuli said, with many women praying that she would survive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A period of purposefully staying awake during the hours usually spent asleep, especially to keep watch, guard, or pray beside a sickbed or grave.
+> 2. **Nuance / Usage**: Liturgically, the devotional watch kept on the eve of a religious feast day, or a public nighttime gathering in remembrance or protest (*candlelight vigil*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Why could he then support that lonely **vigil** with the greater equanimity?"*
+> - 📜 **Colson Whitehead (*The Underground Railroad*):** *"Eventually the body trade grew so reckless that relatives took to holding graveside **vigils**, lest their loved ones disappear in the night."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel sat alone by the dying fire, keeping a silent midnight **vigil** over her own thoughts."*

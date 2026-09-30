@@ -5,15 +5,6 @@ status: unread
 ---
 # radicalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The political orientation of those who favor revolutionary change in government and society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political orientation of those who favor revolutionary change in government and society.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Shelley's Radicalism was not of this drab hue."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"What is known as Philosophical Radicalism will long bear the impression of Mr."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Contrary to general supposition, there is no nation in the world so little disposed to look favorably on Radicalism and a restless desire for change, as the Americans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The political orientation of those who favor revolutionary change in government and society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political orientation of those who favor revolutionary change in government and society.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Shelley's Radicalism was not of this drab hue."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"What is known as Philosophical Radicalism will long bear the impression of Mr."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Contrary to general supposition, there is no nation in the world so little disposed to look favorably on Radicalism and a restless desire for change, as the Americans."*

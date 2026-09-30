@@ -5,20 +5,6 @@ status: unread
 ---
 # homestead
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: House
-> 2. **Nuance / Usage**: Ancestral home
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"particulars of the homestead into which she had just entered."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"Boguchárovo, a homestead had been looted by French marauders."*
-> - 📜 **John Dryden (*Fables, Ancient and Modern*):** *"A Yard she had with Pales enclos’d about, / Some high, some low, and a dry Ditch without. / Within this Homestead, liv’d without a Peer, / For crowing loud, the noble Chanticleer:"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A house, especially a farmhouse, together with its surrounding land, barns, and outbuildings.
+> 2. **Nuance / Usage**: In North American history and law, a tract of public land granted to a settler for farming and residence, or a family's primary legal residence protected from certain creditors.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She paused to take in the rustic particulars of the **homestead** into which she had just entered."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"At Boguchárovo, the old **homestead** had been looted by marauders before the army arrived."*
+> - 📜 **Willa Cather (*My Ántonia*):** *"The Shimerdas were the first Bohemian family to settle on a **homestead** in that part of the county."*

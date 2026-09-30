@@ -5,13 +5,6 @@ status: unread
 ---
 # insulant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A material that reduces or prevents the transmission of heat or sound or electricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A material that reduces or prevents the transmission of heat or sound or electricity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insulant designates a material that reduces or prevents the transmission of heat or sound or electricity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A material that reduces or prevents the transmission of heat or sound or electricity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A material that reduces or prevents the transmission of heat or sound or electricity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insulant designates a material that reduces or prevents the transmission of heat or sound or electricity."*

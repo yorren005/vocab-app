@@ -5,15 +5,6 @@ status: unread
 ---
 # serenely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a peacefully serene manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a peacefully serene manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"To see that composed court yesterday jogging on so serenely and to think of the wretchedness of the pieces on the board gave me the headache and the heartache both together."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby serenely, “what a happiness it is to be so much occupied as I am and to have this necessity for self-concentration that I have."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I thought it very curious to see her looking on serenely from her writing-table while Caddy and I discussed it, occasionally shaking her head at us with a half-reproachful smile like a superior spirit who could just bear with our trifling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a peacefully serene manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a peacefully serene manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"To see that composed court yesterday jogging on so serenely and to think of the wretchedness of the pieces on the board gave me the headache and the heartache both together."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby serenely, “what a happiness it is to be so much occupied as I am and to have this necessity for self-concentration that I have."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I thought it very curious to see her looking on serenely from her writing-table while Caddy and I discussed it, occasionally shaking her head at us with a half-reproachful smile like a superior spirit who could just bear with our trifling."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # chirr
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a vibrant noise, of grasshoppers or cicadas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a vibrant noise, of grasshoppers or cicadas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chirr designates make a vibrant noise, of grasshoppers or cicadas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a vibrant noise, of grasshoppers or cicadas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a vibrant noise, of grasshoppers or cicadas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chirr designates make a vibrant noise, of grasshoppers or cicadas."*

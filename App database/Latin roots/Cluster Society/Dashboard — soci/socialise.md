@@ -5,13 +5,6 @@ status: unread
 ---
 # socialise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take part in social activities; interact with others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Train for a social environment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, socialise designates take part in social activities; interact with others."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take part in social activities; interact with others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Train for a social environment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, socialise designates take part in social activities; interact with others."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # indestructible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easily destroyed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very long lasting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"In your indestructible admiration ..." Uncle Philip got no further, as all the children now came running toward them."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Norcombe Hill—not far from lonely Toller-Down—was one of the spots which suggest to a passer-by that he is in the presence of a shape approaching the indestructible as nearly as any to be found on earth."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was merely becoming as I took form in the mould of my body, and all the mighty, indestructible past wrought in the mixture of me to determine what the form of that becoming would be."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easily destroyed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very long lasting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"In your indestructible admiration ..." Uncle Philip got no further, as all the children now came running toward them."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Norcombe Hill—not far from lonely Toller-Down—was one of the spots which suggest to a passer-by that he is in the presence of a shape approaching the indestructible as nearly as any to be found on earth."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was merely becoming as I took form in the mould of my body, and all the mighty, indestructible past wrought in the mixture of me to determine what the form of that becoming would be."*

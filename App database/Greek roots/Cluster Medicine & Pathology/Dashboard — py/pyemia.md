@@ -5,13 +5,6 @@ status: unread
 ---
 # pyemia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Septicemia caused by pus-forming bacteria and accompanied by multiple abscesses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Septicemia caused by pus-forming bacteria and accompanied by multiple abscesses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Kane (accidental drowning, Dublin Bay), Philip Moisel (pyemia, Heytesbury street), Michael Hart (phthisis, Mater Misericordiae hospital), Patrick Dignam (apoplexy, Sandymount)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Septicemia caused by pus-forming bacteria and accompanied by multiple abscesses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Septicemia caused by pus-forming bacteria and accompanied by multiple abscesses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Kane (accidental drowning, Dublin Bay), Philip Moisel (pyemia, Heytesbury street), Michael Hart (phthisis, Mater Misericordiae hospital), Patrick Dignam (apoplexy, Sandymount)."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # belabor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To work at or to absurd length.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attack verbally with harsh criticism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Ah, when one looks at our young people, Prince, one would like to take Peter the Great’s old cudgel out of the museum and belabor them in the Russian way till all the nonsense jumps out of them.” All were silent."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"He inwardly belabored himself for having allowed his mind to be so taken up with the image of a married woman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To work at or to absurd length.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attack verbally with harsh criticism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Ah, when one looks at our young people, Prince, one would like to take Peter the Great’s old cudgel out of the museum and belabor them in the Russian way till all the nonsense jumps out of them.” All were silent."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"He inwardly belabored himself for having allowed his mind to be so taken up with the image of a married woman."*

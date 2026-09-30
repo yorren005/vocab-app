@@ -5,15 +5,6 @@ status: unread
 ---
 # disproportionately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Out of proportion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a disproportionate degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"On the other hand, she was disproportionately indulgent towards the failings of men, and was often heard to say that these were natural."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He is small for his age, with a head which is quite disproportionately large."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Near the mountains it is filled with coarse rock particles, and under the action of the elements these become disproportionately prominent on the surface."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Out of proportion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a disproportionate degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"On the other hand, she was disproportionately indulgent towards the failings of men, and was often heard to say that these were natural."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He is small for his age, with a head which is quite disproportionately large."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Near the mountains it is filled with coarse rock particles, and under the action of the elements these become disproportionately prominent on the surface."*

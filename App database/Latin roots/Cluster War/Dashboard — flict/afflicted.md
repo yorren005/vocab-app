@@ -5,15 +5,6 @@ status: unread
 ---
 # afflicted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause great unhappiness for; distress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause physical pain or suffering in.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He said he was gentle, but unfortunate; Dishonestly afflicted, but yet honest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A grave unto a soul; Holding th’ eternal spirit, against her will, In the vile prison of afflicted breath."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bound by my charity and my blessed order, I come to visit the afflicted spirits Here in the prison."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause great unhappiness for; distress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause physical pain or suffering in.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He said he was gentle, but unfortunate; Dishonestly afflicted, but yet honest."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A grave unto a soul; Holding th’ eternal spirit, against her will, In the vile prison of afflicted breath."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bound by my charity and my blessed order, I come to visit the afflicted spirits Here in the prison."*

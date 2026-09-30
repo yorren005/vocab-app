@@ -5,13 +5,6 @@ status: unread
 ---
 # amphibolips
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cynipid gall wasps, especially causing oak-apple galls.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cynipid gall wasps, especially causing oak-apple galls.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphibolips designates cynipid gall wasps, especially causing oak-apple galls."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cynipid gall wasps, especially causing oak-apple galls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cynipid gall wasps, especially causing oak-apple galls.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphibolips designates cynipid gall wasps, especially causing oak-apple galls."*

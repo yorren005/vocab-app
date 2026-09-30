@@ -5,15 +5,6 @@ status: unread
 ---
 # secret
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that should remain hidden from others (especially information that is not to be passed on).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Information known only to a special group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That this huge stage presenteth nought but shows Whereon the stars in secret influence comment."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then is it sin To rush into the secret house of death Ere death dare come to us?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll tell thee, Charles, it is the stubbornest young fellow of France, full of ambition, an envious emulator of every man’s good parts, a secret and villainous contriver against me his natural brother."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that should remain hidden from others (especially information that is not to be passed on).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Information known only to a special group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That this huge stage presenteth nought but shows Whereon the stars in secret influence comment."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then is it sin To rush into the secret house of death Ere death dare come to us?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll tell thee, Charles, it is the stubbornest young fellow of France, full of ambition, an envious emulator of every man’s good parts, a secret and villainous contriver against me his natural brother."*

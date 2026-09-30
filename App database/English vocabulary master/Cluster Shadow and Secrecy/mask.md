@@ -5,20 +5,6 @@ status: unread
 ---
 # mask
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (poetic) appearance, likeness
-> 2. **Nuance / Usage**: Person wearing a mask : masker
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"To fetch her fan, her gloves, her mask, nor nothing?"*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"You will excuse this mask,” continued our strange visitor."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"looked upon the mask of his shame."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: (poetic) appearance, likeness
+> 2. **Nuance / Usage**: Person wearing a mask : masker
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"To fetch her fan, her gloves, her mask, nor nothing?"*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"You will excuse this mask,” continued our strange visitor."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"looked upon the mask of his shame."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # salivate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Produce saliva.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be envious, desirous, eager for, or extremely happy about something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The salivary glands are used to salivate the body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Produce saliva.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be envious, desirous, eager for, or extremely happy about something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The salivary glands are used to salivate the body."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # autophagy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process that involves the enzymatic breakdown of a cell's cytoplasm or cytoplasmic components (such as damaged or unneeded organelles or proteins) within the lysosomes of the same cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biological process that involves the enzymatic breakdown of a cell's cytoplasm or cytoplasmic components (such as damaged or unneeded organelles or proteins) within the lysosomes of the same cell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autophagy designates the biological process that involves the enzymatic breakdown of a cell's cytoplasm or cytoplasmic components (such as damaged or unneeded organelles or proteins) within the lysosomes of the same cell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process that involves the enzymatic breakdown of a cell's cytoplasm or cytoplasmic components (such as damaged or unneeded organelles or proteins) within the lysosomes of the same cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biological process that involves the enzymatic breakdown of a cell's cytoplasm or cytoplasmic components (such as damaged or unneeded organelles or proteins) within the lysosomes of the same cell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autophagy designates the biological process that involves the enzymatic breakdown of a cell's cytoplasm or cytoplasmic components (such as damaged or unneeded organelles or proteins) within the lysosomes of the same cell."*

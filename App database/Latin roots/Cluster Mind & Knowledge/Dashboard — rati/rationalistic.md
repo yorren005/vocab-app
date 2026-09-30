@@ -5,15 +5,6 @@ status: unread
 ---
 # rationalistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the philosophical doctrine of rationalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the philosophical doctrine of rationalism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In this last case it is obvious that a rationalistic explanation of the taboo is impossible."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The rationalistic theory of them therefore breaks down entirely; the hypothesis of superstition is clearly the only one open to us."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A faint rationalistic colour was given to the legend by saying that his mother was a woman named Myrrh, who had been turned into a myrrh-tree soon after she had conceived the child."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the philosophical doctrine of rationalism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the philosophical doctrine of rationalism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In this last case it is obvious that a rationalistic explanation of the taboo is impossible."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The rationalistic theory of them therefore breaks down entirely; the hypothesis of superstition is clearly the only one open to us."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A faint rationalistic colour was given to the legend by saying that his mother was a woman named Myrrh, who had been turned into a myrrh-tree soon after she had conceived the child."*

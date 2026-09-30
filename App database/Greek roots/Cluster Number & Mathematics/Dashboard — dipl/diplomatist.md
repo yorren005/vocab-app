@@ -5,15 +5,6 @@ status: unread
 ---
 # diplomatist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official engaged in international negotiations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official engaged in international negotiations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"She was the diplomatist of Tipton and Freshitt, and for anything to happen in spite of her was an offensive irregularity."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Solomon’s was perhaps less thorough than he imagined, his cunning bearing about the same relation to the course of railways as the cunning of a diplomatist bears to the general chill or catarrh of the solar system."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Buol: Karl Ferdinand von Buol-Schauenstein, Austrian diplomatist, and minister of foreign affairs from 1852 to 1859. 2."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official engaged in international negotiations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official engaged in international negotiations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"She was the diplomatist of Tipton and Freshitt, and for anything to happen in spite of her was an offensive irregularity."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Solomon’s was perhaps less thorough than he imagined, his cunning bearing about the same relation to the course of railways as the cunning of a diplomatist bears to the general chill or catarrh of the solar system."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Buol: Karl Ferdinand von Buol-Schauenstein, Austrian diplomatist, and minister of foreign affairs from 1852 to 1859. 2."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # enarthrosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A freely moving joint in which a sphere on the head of one bone fits into a rounded cavity in the other bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A freely moving joint in which a sphere on the head of one bone fits into a rounded cavity in the other bone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enarthrosis designates a freely moving joint in which a sphere on the head of one bone fits into a rounded cavity in the other bone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A freely moving joint in which a sphere on the head of one bone fits into a rounded cavity in the other bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A freely moving joint in which a sphere on the head of one bone fits into a rounded cavity in the other bone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enarthrosis designates a freely moving joint in which a sphere on the head of one bone fits into a rounded cavity in the other bone."*

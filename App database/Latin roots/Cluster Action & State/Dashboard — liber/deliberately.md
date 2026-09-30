@@ -5,15 +5,6 @@ status: unread
 ---
 # deliberately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With intention; in an intentional manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a deliberate unhurried manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"With two ladies in the coach, this scoundrel has deliberately delayed his arrival six and twenty minutes."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I should wish it to be so deliberately said, and so deliberately considered."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket stops and deliberately repeats, “Ought to have been her husband, not a doubt about it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With intention; in an intentional manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a deliberate unhurried manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"With two ladies in the coach, this scoundrel has deliberately delayed his arrival six and twenty minutes."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I should wish it to be so deliberately said, and so deliberately considered."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket stops and deliberately repeats, “Ought to have been her husband, not a doubt about it."*

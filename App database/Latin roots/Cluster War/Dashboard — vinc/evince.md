@@ -5,15 +5,6 @@ status: unread
 ---
 # evince
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give expression to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give expression to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He spent years and years in desultory studies, undertakings, and meditations; he began to evince considerable indifference to social forms and observances."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Some of them are unmannered, rough, intractable, as well as ignorant; but others are docile, have a wish to learn, and evince a disposition that pleases me."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What sudden eagerness is this you evince?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give expression to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give expression to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He spent years and years in desultory studies, undertakings, and meditations; he began to evince considerable indifference to social forms and observances."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Some of them are unmannered, rough, intractable, as well as ignorant; but others are docile, have a wish to learn, and evince a disposition that pleases me."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What sudden eagerness is this you evince?"*

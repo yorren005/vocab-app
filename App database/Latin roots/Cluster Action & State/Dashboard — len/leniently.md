@@ -5,15 +5,6 @@ status: unread
 ---
 # leniently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a permissively lenient manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a permissively lenient manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A lady so graceful and accomplished,” he said, kissing his right glove and afterwards extending it towards the pupils, “will look leniently on the deficiencies here."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"That he would be leniently treated, I could not hope."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It makes one pity the poor Archbishop, and wish that he, too, could have been let off as leniently."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a permissively lenient manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a permissively lenient manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"A lady so graceful and accomplished,” he said, kissing his right glove and afterwards extending it towards the pupils, “will look leniently on the deficiencies here."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"That he would be leniently treated, I could not hope."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It makes one pity the poor Archbishop, and wish that he, too, could have been let off as leniently."*

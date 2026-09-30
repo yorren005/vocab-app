@@ -5,13 +5,6 @@ status: unread
 ---
 # muramidase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme found in saliva and sweat and tears that destroys the cell walls of certain bacteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme found in saliva and sweat and tears that destroys the cell walls of certain bacteria.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muramidase designates an enzyme found in saliva and sweat and tears that destroys the cell walls of certain bacteria."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme found in saliva and sweat and tears that destroys the cell walls of certain bacteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme found in saliva and sweat and tears that destroys the cell walls of certain bacteria.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muramidase designates an enzyme found in saliva and sweat and tears that destroys the cell walls of certain bacteria."*

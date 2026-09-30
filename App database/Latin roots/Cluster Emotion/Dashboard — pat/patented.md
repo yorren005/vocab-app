@@ -5,15 +5,6 @@ status: unread
 ---
 # patented
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtain a patent for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant rights to; grant a patent for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe, how are you, Joe?” “Pip, how AIR you, Pip?” With his good honest face all glowing and shining, and his hat put down on the floor between us, he caught both my hands and worked them straight up and down, as if I had been the last-patented Pump."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Tucker, of New York, developed and patented in 1866 the type of dry-brush black-leading machine which is in common use today."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Adams patented a process for covering the surface of the mold after it had been black-leaded with powdered tin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtain a patent for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant rights to; grant a patent for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe, how are you, Joe?” “Pip, how AIR you, Pip?” With his good honest face all glowing and shining, and his hat put down on the floor between us, he caught both my hands and worked them straight up and down, as if I had been the last-patented Pump."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Tucker, of New York, developed and patented in 1866 the type of dry-brush black-leading machine which is in common use today."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Adams patented a process for covering the surface of the mold after it had been black-leaded with powdered tin."*

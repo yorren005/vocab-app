@@ -5,15 +5,6 @@ status: unread
 ---
 # peninsular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or forming or resembling a peninsula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or forming or resembling a peninsula.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Then the war fever laid hold of him, and he enlisted in the regular army, serving in the Rifle Brigade all through the Peninsular War, from Vimiera to Toulouse, and earning a medal with twelve clasps."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But talking of books, there is Southey’s ‘Peninsular War.’ I am reading that of a morning."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Colonel Barlow made the Peninsular Campaign in the spring and summer of 1862 under McClellan."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or forming or resembling a peninsula.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or forming or resembling a peninsula.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Then the war fever laid hold of him, and he enlisted in the regular army, serving in the Rifle Brigade all through the Peninsular War, from Vimiera to Toulouse, and earning a medal with twelve clasps."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But talking of books, there is Southey’s ‘Peninsular War.’ I am reading that of a morning."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Colonel Barlow made the Peninsular Campaign in the spring and summer of 1862 under McClellan."*

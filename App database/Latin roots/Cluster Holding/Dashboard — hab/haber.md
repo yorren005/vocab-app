@@ -5,13 +5,6 @@ status: unread
 ---
 # haber
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German chemist noted for the synthetic production of ammonia from the nitrogen in air (1868-1934).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German chemist noted for the synthetic production of ammonia from the nitrogen in air (1868-1934).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Pues no podemos haber aquello que queremos, queramos aquello que podremos."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: German chemist noted for the synthetic production of ammonia from the nitrogen in air (1868-1934).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German chemist noted for the synthetic production of ammonia from the nitrogen in air (1868-1934).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Pues no podemos haber aquello que queremos, queramos aquello que podremos."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # elucidate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make clear and (more) comprehensible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make free from confusion or ambiguity; make clear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns," and was included in his appeal to "any gentleman in the bench" to elucidate a difficult passage in the lesson of the day."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Of course, they will never know the source of the data, and I will help you elucidate and arrange the book, after it is all accomplished." If Jane hadn't had two million dollars all this trouble would not be."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I will elucidate that idea and shoot it into Jane."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make clear and (more) comprehensible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make free from confusion or ambiguity; make clear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns," and was included in his appeal to "any gentleman in the bench" to elucidate a difficult passage in the lesson of the day."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Of course, they will never know the source of the data, and I will help you elucidate and arrange the book, after it is all accomplished." If Jane hadn't had two million dollars all this trouble would not be."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I will elucidate that idea and shoot it into Jane."*

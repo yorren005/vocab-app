@@ -5,13 +5,6 @@ status: unread
 ---
 # myelomeningocele
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital defect of the central nervous system in which a sac containing part of the spinal cord and its meninges protrude through a gap in the vertebral column; frequently accompanied by hydrocephalus and mental retardation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A congenital defect of the central nervous system in which a sac containing part of the spinal cord and its meninges protrude through a gap in the vertebral column; frequently accompanied by hydrocephalus and mental retardation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelomeningocele designates a congenital defect of the central nervous system in which a sac containing part of the spinal cord and its meninges protrude through a gap in the vertebral column; frequently accompanied by hydrocephalus and mental retardation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital defect of the central nervous system in which a sac containing part of the spinal cord and its meninges protrude through a gap in the vertebral column; frequently accompanied by hydrocephalus and mental retardation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A congenital defect of the central nervous system in which a sac containing part of the spinal cord and its meninges protrude through a gap in the vertebral column; frequently accompanied by hydrocephalus and mental retardation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myelomeningocele designates a congenital defect of the central nervous system in which a sac containing part of the spinal cord and its meninges protrude through a gap in the vertebral column; frequently accompanied by hydrocephalus and mental retardation."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # torpor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of motor and mental inactivity with a partial suspension of sensibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inactivity resulting from lethargy and lack of vigor or energy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I know all your sisters have done for me since—for I have not been insensible during my seeming torpor—and I owe to their spontaneous, genuine, genial compassion as large a debt as to your evangelical charity.” “Don’t make her talk any more now, St."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The feeling was not like an electric shock, but it was quite as sharp, as strange, as startling: it acted on my senses as if their utmost activity hitherto had been but torpor, from which they were now summoned and forced to wake."*
-> - 📜 **George Eliot (*Middlemarch*):** *"When there she threw herself on the bed with her clothes on, and lay in apparent torpor, as she had done once before on a memorable day of grief."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of motor and mental inactivity with a partial suspension of sensibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inactivity resulting from lethargy and lack of vigor or energy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I know all your sisters have done for me since—for I have not been insensible during my seeming torpor—and I owe to their spontaneous, genuine, genial compassion as large a debt as to your evangelical charity.” “Don’t make her talk any more now, St."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The feeling was not like an electric shock, but it was quite as sharp, as strange, as startling: it acted on my senses as if their utmost activity hitherto had been but torpor, from which they were now summoned and forced to wake."*
+> - 📜 **George Eliot (*Middlemarch*):** *"When there she threw herself on the bed with her clothes on, and lay in apparent torpor, as she had done once before on a memorable day of grief."*

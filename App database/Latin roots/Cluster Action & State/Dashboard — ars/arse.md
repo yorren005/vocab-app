@@ -5,15 +5,6 @@ status: unread
 ---
 # arse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fleshy part of the human body that you sit on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vulgar slang for anus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Romeo, that she were, O that she were An open-arse and thou a poperin pear!"*
-> - 📜 **James Joyce (*Ulysses*):** *"Mr Dedalus, staring from the empty fireplace at Ned Lambert’s quizzing face, asked of it sourly: —Agonising Christ, wouldn’t it give you a heartburn on your arse?"*
-> - 📜 **James Joyce (*Ulysses*):** *"K.M.A. —Will you tell him he can kiss my arse?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fleshy part of the human body that you sit on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vulgar slang for anus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Romeo, that she were, O that she were An open-arse and thou a poperin pear!"*
+> - 📜 **James Joyce (*Ulysses*):** *"Mr Dedalus, staring from the empty fireplace at Ned Lambert’s quizzing face, asked of it sourly: —Agonising Christ, wouldn’t it give you a heartburn on your arse?"*
+> - 📜 **James Joyce (*Ulysses*):** *"K.M.A. —Will you tell him he can kiss my arse?"*

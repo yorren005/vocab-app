@@ -5,13 +5,6 @@ status: unread
 ---
 # cannulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The insertion of a cannula or tube into a hollow body organ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The insertion of a cannula or tube into a hollow body organ.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannulation designates the insertion of a cannula or tube into a hollow body organ."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The insertion of a cannula or tube into a hollow body organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The insertion of a cannula or tube into a hollow body organ.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cannulation designates the insertion of a cannula or tube into a hollow body organ."*

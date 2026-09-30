@@ -5,15 +5,6 @@ status: unread
 ---
 # collected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get or gather together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Call for and obtain payment of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have you collected them by tribes?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I bought an unction of a mountebank So mortal that, but dip a knife in it, Where it draws blood no cataplasm so rare, Collected from all simples that have virtue Under the moon, can save the thing from death This is but scratch’d withal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our navy is address’d, our power collected, Our substitutes in absence well invested, And everything lies level to our wish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Get or gather together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Call for and obtain payment of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have you collected them by tribes?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I bought an unction of a mountebank So mortal that, but dip a knife in it, Where it draws blood no cataplasm so rare, Collected from all simples that have virtue Under the moon, can save the thing from death This is but scratch’d withal."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our navy is address’d, our power collected, Our substitutes in absence well invested, And everything lies level to our wish."*

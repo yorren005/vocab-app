@@ -5,13 +5,6 @@ status: unread
 ---
 # minimus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fifth digit; the little finger or little toe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fifth digit; the little finger or little toe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get you gone, you dwarf; You minimus, of hind’ring knot-grass made; You bead, you acorn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fifth digit; the little finger or little toe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fifth digit; the little finger or little toe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get you gone, you dwarf; You minimus, of hind’ring knot-grass made; You bead, you acorn."*

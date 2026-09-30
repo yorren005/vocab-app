@@ -5,13 +5,6 @@ status: unread
 ---
 # proprioceptor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Special nerve endings in the muscles and tendons and other organs that respond to stimuli regarding the position and movement of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Special nerve endings in the muscles and tendons and other organs that respond to stimuli regarding the position and movement of the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proprioceptor designates special nerve endings in the muscles and tendons and other organs that respond to stimuli regarding the position and movement of the body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Special nerve endings in the muscles and tendons and other organs that respond to stimuli regarding the position and movement of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Special nerve endings in the muscles and tendons and other organs that respond to stimuli regarding the position and movement of the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proprioceptor designates special nerve endings in the muscles and tendons and other organs that respond to stimuli regarding the position and movement of the body."*

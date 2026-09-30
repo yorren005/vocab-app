@@ -5,15 +5,6 @@ status: unread
 ---
 # fixing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of putting something in working order again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restraint that attaches to something or holds something in place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The children thus dispos’d, my wife and I, Fixing our eyes on whom our care was fix’d, Fast’ned ourselves at either end the mast, And, floating straight, obedient to the stream, Was carried towards Corinth, as we thought."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Study me how to please the eye indeed By fixing it upon a fairer eye, Who dazzling so, that eye shall be his heed, And give him light that it was blinded by."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Is it Gridley that’s wanted?” he said, fixing his eyes on me with an angry stare."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of putting something in working order again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restraint that attaches to something or holds something in place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The children thus dispos’d, my wife and I, Fixing our eyes on whom our care was fix’d, Fast’ned ourselves at either end the mast, And, floating straight, obedient to the stream, Was carried towards Corinth, as we thought."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Study me how to please the eye indeed By fixing it upon a fairer eye, Who dazzling so, that eye shall be his heed, And give him light that it was blinded by."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Is it Gridley that’s wanted?” he said, fixing his eyes on me with an angry stare."*

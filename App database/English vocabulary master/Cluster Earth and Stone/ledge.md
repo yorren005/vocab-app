@@ -5,20 +5,6 @@ status: unread
 ---
 # ledge
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Shelf on which articles may be laid
-> 2. **Nuance / Usage**: (geology) a shelf, ridge, or reef, of rocks
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"have lately got on to a worse ledge of it than ever."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"medicine standing on a ledge within easy reach."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"elbows on the window ledge and his eyes rested on that sky."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Shelf on which articles may be laid
+> 2. **Nuance / Usage**: (geology) a shelf, ridge, or reef, of rocks
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"have lately got on to a worse ledge of it than ever."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"medicine standing on a ledge within easy reach."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"elbows on the window ledge and his eyes rested on that sky."*

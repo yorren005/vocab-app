@@ -5,13 +5,6 @@ status: unread
 ---
 # parasitism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The behavior of a parasite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intimate association between organisms of two or more kinds; especially : one in which a parasite obtains benefits from a host which it usually injures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"More precise examination proves that it sometimes occurs where no white rust is present, and therefore its parasitism is imaginary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The behavior of a parasite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intimate association between organisms of two or more kinds; especially : one in which a parasite obtains benefits from a host which it usually injures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"More precise examination proves that it sometimes occurs where no white rust is present, and therefore its parasitism is imaginary."*

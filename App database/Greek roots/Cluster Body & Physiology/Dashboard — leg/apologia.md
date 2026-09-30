@@ -5,13 +5,6 @@ status: unread
 ---
 # apologia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A defense especially of one's opinions, position, or actions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defense of one's life : a written justification for one's beliefs or course of conduct.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apologia designates a defense especially of one's opinions, position, or actions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A defense especially of one's opinions, position, or actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defense of one's life : a written justification for one's beliefs or course of conduct.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apologia designates a defense especially of one's opinions, position, or actions."*

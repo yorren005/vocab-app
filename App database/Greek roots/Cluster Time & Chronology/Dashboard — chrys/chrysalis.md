@@ -5,15 +5,6 @@ status: unread
 ---
 # chrysalis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pupa of a butterfly; broadly : an insect pupa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hardened outer protective layer of a pupa.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In fact, as the great Hunter says, the mere skeleton of the whale bears the same relation to the fully invested and padded animal as the insect does to the chrysalis that so roundingly envelopes it."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"In fact, as the great Hunter says, the mere skeleton of the whale bears the same relation to the fully invested and padded animal as the insect does to the chrysalis that so roundingly envelopes it."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It is 297:21 a chrysalis state of human thought, in which spiritual evidence, contradicting the testimony of mate- rial sense, begins to appear, and Truth, the 297:24 ever-present, is becoming understood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pupa of a butterfly; broadly : an insect pupa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hardened outer protective layer of a pupa.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In fact, as the great Hunter says, the mere skeleton of the whale bears the same relation to the fully invested and padded animal as the insect does to the chrysalis that so roundingly envelopes it."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"In fact, as the great Hunter says, the mere skeleton of the whale bears the same relation to the fully invested and padded animal as the insect does to the chrysalis that so roundingly envelopes it."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It is 297:21 a chrysalis state of human thought, in which spiritual evidence, contradicting the testimony of mate- rial sense, begins to appear, and Truth, the 297:24 ever-present, is becoming understood."*

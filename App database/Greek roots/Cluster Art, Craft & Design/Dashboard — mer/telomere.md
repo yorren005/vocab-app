@@ -5,13 +5,6 @@ status: unread
 ---
 # telomere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The natural end of a eukaryotic chromosome composed of a usually repetitive DNA sequence and serving to stabilize the chromosome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The natural end of a eukaryotic chromosome composed of a usually repetitive DNA sequence and serving to stabilize the chromosome.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telomere designates the natural end of a eukaryotic chromosome composed of a usually repetitive dna sequence and serving to stabilize the chromosome."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The natural end of a eukaryotic chromosome composed of a usually repetitive DNA sequence and serving to stabilize the chromosome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The natural end of a eukaryotic chromosome composed of a usually repetitive DNA sequence and serving to stabilize the chromosome.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telomere designates the natural end of a eukaryotic chromosome composed of a usually repetitive dna sequence and serving to stabilize the chromosome."*

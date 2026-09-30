@@ -5,15 +5,6 @@ status: unread
 ---
 # utilitarianism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Doctrine that the useful is the good; especially as elaborated by jeremy bentham and james mill; the aim was said to be the greatest happiness for the greatest number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Doctrine that the useful is the good; especially as elaborated by jeremy bentham and james mill; the aim was said to be the greatest happiness for the greatest number.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"This is the reason why so many persons have been unable to understand him as the prophet of utilitarianism."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Utilitarianism is the proper creed of hard unemotional natures, who do not respond to the more subtle moral influences."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Such is the view natural to those who cannot dissociate the word "utilitarianism" from the narrow meaning of utility, as contrasted with the pleasures of art."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Doctrine that the useful is the good; especially as elaborated by jeremy bentham and james mill; the aim was said to be the greatest happiness for the greatest number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Doctrine that the useful is the good; especially as elaborated by jeremy bentham and james mill; the aim was said to be the greatest happiness for the greatest number.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"This is the reason why so many persons have been unable to understand him as the prophet of utilitarianism."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Utilitarianism is the proper creed of hard unemotional natures, who do not respond to the more subtle moral influences."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Such is the view natural to those who cannot dissociate the word "utilitarianism" from the narrow meaning of utility, as contrasted with the pleasures of art."*

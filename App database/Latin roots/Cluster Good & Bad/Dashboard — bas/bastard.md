@@ -5,15 +5,6 @@ status: unread
 ---
 # bastard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insulting terms of address for people who are stupid or irritating or ridiculous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The illegitimate offspring of unmarried parents.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, that same wicked bastard of Venus, that was begot of thought, conceived of spleen, and born of madness, that blind rascally boy that abuses everyone’s eyes because his own are out, let him be judge how deep I am in love."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shame hath a bastard fame, well managed; Ill deeds is doubled with an evil word."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace is a very apoplexy, lethargy; mulled, deaf, sleepy, insensible; a getter of more bastard children than war’s a destroyer of men."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insulting terms of address for people who are stupid or irritating or ridiculous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The illegitimate offspring of unmarried parents.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, that same wicked bastard of Venus, that was begot of thought, conceived of spleen, and born of madness, that blind rascally boy that abuses everyone’s eyes because his own are out, let him be judge how deep I am in love."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shame hath a bastard fame, well managed; Ill deeds is doubled with an evil word."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace is a very apoplexy, lethargy; mulled, deaf, sleepy, insensible; a getter of more bastard children than war’s a destroyer of men."*

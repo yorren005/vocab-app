@@ -5,13 +5,6 @@ status: unread
 ---
 # icteridae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American orioles; american blackbirds; bobolinks; meadowlarks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American orioles; american blackbirds; bobolinks; meadowlarks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, icteridae designates american orioles; american blackbirds; bobolinks; meadowlarks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: American orioles; american blackbirds; bobolinks; meadowlarks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American orioles; american blackbirds; bobolinks; meadowlarks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, icteridae designates american orioles; american blackbirds; bobolinks; meadowlarks."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # intersperse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place at intervals in or among.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduce one's writing or speech with certain expressions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"In which is interspersed the Amours of several Persons of Quality and Distinction."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Consisting chiefly of Originals; and interspersed with Translations from the best _Greek_ and _Latin_ Poets."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Interspersed with several new and witty Songs. _My Book a _Salesman_'s Shop you'll find,_ Where civilly I'll treat ye, _To a _Fool_'s Coat of any Kind,_ _You'r welcome if it fit ye._ The Second Edition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Place at intervals in or among.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduce one's writing or speech with certain expressions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"In which is interspersed the Amours of several Persons of Quality and Distinction."*
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Consisting chiefly of Originals; and interspersed with Translations from the best _Greek_ and _Latin_ Poets."*
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Interspersed with several new and witty Songs. _My Book a _Salesman_'s Shop you'll find,_ Where civilly I'll treat ye, _To a _Fool_'s Coat of any Kind,_ _You'r welcome if it fit ye._ The Second Edition."*

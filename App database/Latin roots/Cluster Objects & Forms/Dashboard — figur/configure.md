@@ -5,15 +5,6 @@ status: unread
 ---
 # configure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Set up for a particular purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set up for a particular purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Neutronic penetray analysis shows that in addition to thermonuclear power plants the aggregate includes machined parts configured to Catalog 11 long range lasers, explosive decompressors, particle beamers and gun mounts."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It could be straight or as convoluted as a randomly configured corkscrew."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Generally familiar with the schematics of the Slingshot stations, he was overwhelmed by the two enormous cones and their peripherals, which configured the Terminals' hoppers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Set up for a particular purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set up for a particular purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Neutronic penetray analysis shows that in addition to thermonuclear power plants the aggregate includes machined parts configured to Catalog 11 long range lasers, explosive decompressors, particle beamers and gun mounts."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It could be straight or as convoluted as a randomly configured corkscrew."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Generally familiar with the schematics of the Slingshot stations, he was overwhelmed by the two enormous cones and their peripherals, which configured the Terminals' hoppers."*

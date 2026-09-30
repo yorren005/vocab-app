@@ -5,15 +5,6 @@ status: unread
 ---
 # prominent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a quality that thrusts itself into attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conspicuous in position or importance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was a formidable style of lady with spectacles, a prominent nose, and a loud voice, who had the effect of wanting a great deal of room."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle, “the prominent point in my character."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am aware that it is so prominent as to be discoverable immediately."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a quality that thrusts itself into attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conspicuous in position or importance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"She was a formidable style of lady with spectacles, a prominent nose, and a loud voice, who had the effect of wanting a great deal of room."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle, “the prominent point in my character."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I am aware that it is so prominent as to be discoverable immediately."*

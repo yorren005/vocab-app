@@ -5,15 +5,6 @@ status: unread
 ---
 # lava
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rock that in its molten form (as magma) issues from volcanos; lava is what magma is called when it reaches the surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rock that in its molten form (as magma) issues from volcanos; lava is what magma is called when it reaches the surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Whenever she felt herself injured, words of indignation poured out from her like fiery lava from a crater."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And still this hair is growing now; this moment growing, and heat must breed it; but no, it’s like that sort of common grass that will grow anywhere, between the earthy clefts of Greenland ice or in Vesuvius lava."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was composed of black and vitreous lava, mixed with fragments of felspar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rock that in its molten form (as magma) issues from volcanos; lava is what magma is called when it reaches the surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rock that in its molten form (as magma) issues from volcanos; lava is what magma is called when it reaches the surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Whenever she felt herself injured, words of indignation poured out from her like fiery lava from a crater."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And still this hair is growing now; this moment growing, and heat must breed it; but no, it’s like that sort of common grass that will grow anywhere, between the earthy clefts of Greenland ice or in Vesuvius lava."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was composed of black and vitreous lava, mixed with fragments of felspar."*

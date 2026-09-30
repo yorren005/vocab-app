@@ -5,13 +5,6 @@ status: unread
 ---
 # constructivism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abstractionist artistic movement in russia after world war i; industrial materials were used to construct nonrepresentational objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abstractionist artistic movement in russia after world war i; industrial materials were used to construct nonrepresentational objects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, constructivism designates an abstractionist artistic movement in russia after world war i; industrial materials were used to construct nonrepresentational objects."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abstractionist artistic movement in russia after world war i; industrial materials were used to construct nonrepresentational objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abstractionist artistic movement in russia after world war i; industrial materials were used to construct nonrepresentational objects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, constructivism designates an abstractionist artistic movement in russia after world war i; industrial materials were used to construct nonrepresentational objects."*

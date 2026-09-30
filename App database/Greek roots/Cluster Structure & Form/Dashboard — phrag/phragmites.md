@@ -5,13 +5,6 @@ status: unread
 ---
 # phragmites
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reeds of marshes and riversides in tropical or temperate regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reeds of marshes and riversides in tropical or temperate regions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phragmites designates reeds of marshes and riversides in tropical or temperate regions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reeds of marshes and riversides in tropical or temperate regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reeds of marshes and riversides in tropical or temperate regions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phragmites designates reeds of marshes and riversides in tropical or temperate regions."*

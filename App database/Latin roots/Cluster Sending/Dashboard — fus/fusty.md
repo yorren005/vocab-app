@@ -5,15 +5,6 @@ status: unread
 ---
 # fusty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stale and unclean smelling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old-fashioned and out of date.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At this fusty stuff The large Achilles, on his press’d bed lolling, From his deep chest laughs out a loud applause; Cries ‘Excellent! ’Tis Agamemnon right!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hector shall have a great catch and knock out either of your brains: a’ were as good crack a fusty nut with no kernel."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Mustard popping in and out giving her instructions, and smiling like a fusty old hawk that has caught a goldfinch which he fears some one will take away from him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stale and unclean smelling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old-fashioned and out of date.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At this fusty stuff The large Achilles, on his press’d bed lolling, From his deep chest laughs out a loud applause; Cries ‘Excellent! ’Tis Agamemnon right!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hector shall have a great catch and knock out either of your brains: a’ were as good crack a fusty nut with no kernel."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Mustard popping in and out giving her instructions, and smiling like a fusty old hawk that has caught a goldfinch which he fears some one will take away from him."*

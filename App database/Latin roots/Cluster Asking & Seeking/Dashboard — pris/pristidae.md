@@ -5,13 +5,6 @@ status: unread
 ---
 # pristidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large primitive rays with elongated snouts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large primitive rays with elongated snouts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pristidae designates large primitive rays with elongated snouts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large primitive rays with elongated snouts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large primitive rays with elongated snouts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pristidae designates large primitive rays with elongated snouts."*

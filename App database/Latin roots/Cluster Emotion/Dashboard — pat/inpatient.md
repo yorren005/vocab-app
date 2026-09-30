@@ -5,13 +5,6 @@ status: unread
 ---
 # inpatient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A patient who is residing in the hospital where he is being treated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A patient who is residing in the hospital where he is being treated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inpatient designates a patient who is residing in the hospital where he is being treated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A patient who is residing in the hospital where he is being treated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A patient who is residing in the hospital where he is being treated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inpatient designates a patient who is residing in the hospital where he is being treated."*

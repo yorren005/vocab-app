@@ -5,15 +5,6 @@ status: unread
 ---
 # orth
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Straight : upright : vertical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perpendicular.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did think so too, and would account I had a great penn’orth on’t, to give half my state, that both she and I at this present stood unfeignedly on the same terms."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"What college,” pursues Bagnet, “could you set up in life—with two penn’orth of white lime—a penn’orth of fuller’s earth—a ha’porth of sand—and the rest of the change out of sixpence in money?"*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"I put that enlightened object before him, and now he can turn his honest halfpenny by the three penn’orth a week.” “I wonder he has no competitors.” “He has plenty, Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Straight : upright : vertical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perpendicular.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did think so too, and would account I had a great penn’orth on’t, to give half my state, that both she and I at this present stood unfeignedly on the same terms."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"What college,” pursues Bagnet, “could you set up in life—with two penn’orth of white lime—a penn’orth of fuller’s earth—a ha’porth of sand—and the rest of the change out of sixpence in money?"*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"I put that enlightened object before him, and now he can turn his honest halfpenny by the three penn’orth a week.” “I wonder he has no competitors.” “He has plenty, Mr."*

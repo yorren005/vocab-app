@@ -5,15 +5,6 @@ status: unread
 ---
 # reecho
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Echo repeatedly, echo again and again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repeat or return an echo again or repeatedly; send (an echo) back.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Did the heavenly host descend in rapture, and cause the mountains of Judea to reecho with their acclamations, because a _dependent creature_ had _consented_ to do his Maker's will?"*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"The noise reechoed through the house, but there were no answering footsteps."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Yet it was a call for help!—his conscience never doubted it;—and, little more than a whisper to his ear, it was a dismal shriek, and long reechoed so, in the region round his heart!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Echo repeatedly, echo again and again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repeat or return an echo again or repeatedly; send (an echo) back.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Did the heavenly host descend in rapture, and cause the mountains of Judea to reecho with their acclamations, because a _dependent creature_ had _consented_ to do his Maker's will?"*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"The noise reechoed through the house, but there were no answering footsteps."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Yet it was a call for help!—his conscience never doubted it;—and, little more than a whisper to his ear, it was a dismal shriek, and long reechoed so, in the region round his heart!"*

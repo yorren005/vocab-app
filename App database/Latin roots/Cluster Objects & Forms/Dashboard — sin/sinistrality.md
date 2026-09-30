@@ -5,13 +5,6 @@ status: unread
 ---
 # sinistrality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preference for using the left hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preference for using the left hand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinistrality designates preference for using the left hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preference for using the left hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preference for using the left hand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinistrality designates preference for using the left hand."*

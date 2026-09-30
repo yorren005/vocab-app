@@ -5,13 +5,6 @@ status: unread
 ---
 # nativeness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of belonging to or being connected with a certain place or region by virtue of birth or origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of belonging to or being connected with a certain place or region by virtue of birth or origin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nativeness designates the quality of belonging to or being connected with a certain place or region by virtue of birth or origin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of belonging to or being connected with a certain place or region by virtue of birth or origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of belonging to or being connected with a certain place or region by virtue of birth or origin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nativeness designates the quality of belonging to or being connected with a certain place or region by virtue of birth or origin."*

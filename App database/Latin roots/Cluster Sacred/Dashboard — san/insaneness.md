@@ -5,13 +5,6 @@ status: unread
 ---
 # insaneness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obsolete terms for legal insanity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obsolete terms for legal insanity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insaneness designates obsolete terms for legal insanity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obsolete terms for legal insanity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obsolete terms for legal insanity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insaneness designates obsolete terms for legal insanity."*

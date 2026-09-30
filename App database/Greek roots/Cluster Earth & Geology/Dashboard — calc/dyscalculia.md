@@ -5,13 +5,6 @@ status: unread
 ---
 # dyscalculia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impaired ability to learn grade-appropriate mathematics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impaired ability to learn grade-appropriate mathematics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dyscalculia designates impaired ability to learn grade-appropriate mathematics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impaired ability to learn grade-appropriate mathematics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impaired ability to learn grade-appropriate mathematics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dyscalculia designates impaired ability to learn grade-appropriate mathematics."*

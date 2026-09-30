@@ -5,13 +5,6 @@ status: unread
 ---
 # parturiency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concluding state of pregnancy; from the onset of contractions to the birth of a child.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concluding state of pregnancy; from the onset of contractions to the birth of a child.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parturiency designates concluding state of pregnancy; from the onset of contractions to the birth of a child."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concluding state of pregnancy; from the onset of contractions to the birth of a child.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concluding state of pregnancy; from the onset of contractions to the birth of a child.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parturiency designates concluding state of pregnancy; from the onset of contractions to the birth of a child."*

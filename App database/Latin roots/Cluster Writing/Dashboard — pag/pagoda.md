@@ -5,15 +5,6 @@ status: unread
 ---
 # pagoda
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An asian temple; usually a pyramidal tower with an upward curving roof.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An asian temple; usually a pyramidal tower with an upward curving roof.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The mere gateway was of the size of a palace in itself, rising pagoda-like, in many retreating stories, each story fringed with tile-roofing."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"She goes nowhere, not even to the pagoda."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Rattle thy teeth, then, and pound away; make a pagoda of thyself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An asian temple; usually a pyramidal tower with an upward curving roof.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An asian temple; usually a pyramidal tower with an upward curving roof.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The mere gateway was of the size of a palace in itself, rising pagoda-like, in many retreating stories, each story fringed with tile-roofing."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"She goes nowhere, not even to the pagoda."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Rattle thy teeth, then, and pound away; make a pagoda of thyself."*

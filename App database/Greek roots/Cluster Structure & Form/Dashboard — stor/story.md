@@ -5,15 +5,6 @@ status: unread
 ---
 # story
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of fiction that narrates a chain of related events.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lean penury within that pen doth dwell, That to his subject lends not some small glory, But he that writes of you, if he can tell, That you are you, so dignifies his story."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That tongue that tells the story of thy days, (Making lascivious comments on thy sport) Cannot dispraise, but in a kind of praise, Naming thy name, blesses an ill report."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The stronger part of it by her own letters, which makes her story true, even to the point of her death."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of fiction that narrates a chain of related events.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lean penury within that pen doth dwell, That to his subject lends not some small glory, But he that writes of you, if he can tell, That you are you, so dignifies his story."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That tongue that tells the story of thy days, (Making lascivious comments on thy sport) Cannot dispraise, but in a kind of praise, Naming thy name, blesses an ill report."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The stronger part of it by her own letters, which makes her story true, even to the point of her death."*

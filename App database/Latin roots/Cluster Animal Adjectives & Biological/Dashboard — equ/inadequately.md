@@ -5,15 +5,6 @@ status: unread
 ---
 # inadequately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inadequate manner or to an inadequate degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inadequate manner or to an inadequate degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But all this might remain inadequately estimated, were not something said here of the peculiar usages of whaling-vessels when meeting each other in foreign seas, and especially on a common cruising-ground."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The speaker is a man who has to give up the woman he loves; but his love is probably reciprocated, however inadequately, for his appeal for ‘a last ride together’ is granted."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But all this might remain inadequately estimated, were not something said here of the peculiar usages of whaling-vessels when meeting each other in foreign seas, and especially on a common cruising-ground."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inadequate manner or to an inadequate degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inadequate manner or to an inadequate degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But all this might remain inadequately estimated, were not something said here of the peculiar usages of whaling-vessels when meeting each other in foreign seas, and especially on a common cruising-ground."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The speaker is a man who has to give up the woman he loves; but his love is probably reciprocated, however inadequately, for his appeal for ‘a last ride together’ is granted."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But all this might remain inadequately estimated, were not something said here of the peculiar usages of whaling-vessels when meeting each other in foreign seas, and especially on a common cruising-ground."*

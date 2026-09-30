@@ -5,13 +5,6 @@ status: unread
 ---
 # laxative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mild cathartic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stimulating evacuation of feces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, laxative designates a mild cathartic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mild cathartic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stimulating evacuation of feces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, laxative designates a mild cathartic."*

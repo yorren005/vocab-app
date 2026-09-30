@@ -5,13 +5,6 @@ status: unread
 ---
 # vermis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The narrow central part of the cerebellum between the two hemispheres.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The narrow central part of the cerebellum between the two hemispheres.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vermis designates the narrow central part of the cerebellum between the two hemispheres."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The narrow central part of the cerebellum between the two hemispheres.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The narrow central part of the cerebellum between the two hemispheres.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vermis designates the narrow central part of the cerebellum between the two hemispheres."*

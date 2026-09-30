@@ -5,13 +5,6 @@ status: unread
 ---
 # cinematize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a film of or adopt so as to make into a film.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a film of or adopt so as to make into a film.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cinematize designates make a film of or adopt so as to make into a film."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a film of or adopt so as to make into a film.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a film of or adopt so as to make into a film.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cinematize designates make a film of or adopt so as to make into a film."*

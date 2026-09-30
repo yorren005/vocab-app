@@ -5,13 +5,6 @@ status: unread
 ---
 # impulse-buy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Buy on impulse without proper reflection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Buy on impulse without proper reflection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impulse-buy designates buy on impulse without proper reflection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Buy on impulse without proper reflection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Buy on impulse without proper reflection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impulse-buy designates buy on impulse without proper reflection."*

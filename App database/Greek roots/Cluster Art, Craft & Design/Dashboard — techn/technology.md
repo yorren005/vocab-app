@@ -5,15 +5,6 @@ status: unread
 ---
 # technology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The practical application of scientific knowledge especially in a particular area : engineering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A machine, piece of equipment, method, etc. that is created by the practical application of scientific knowledge.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"His special friend--at last the dearest friend he had in this world--was the younger son, George, afterwards the well-known chemist and Professor of Technology in the University of Edinburgh."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Slingshot technology, facilities, and materiel give to us, more than to any other member of INOR, the means to attain our aspirations."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hyperspace technology solved the problem."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practical application of scientific knowledge especially in a particular area : engineering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A machine, piece of equipment, method, etc. that is created by the practical application of scientific knowledge.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"His special friend--at last the dearest friend he had in this world--was the younger son, George, afterwards the well-known chemist and Professor of Technology in the University of Edinburgh."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Slingshot technology, facilities, and materiel give to us, more than to any other member of INOR, the means to attain our aspirations."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hyperspace technology solved the problem."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # cordaitales
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct plants having tall arborescent trunks comparable to or more advanced than cycads; known from the pennsylvanian period; probably extinct since the mesozoic era.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct plants having tall arborescent trunks comparable to or more advanced than cycads; known from the pennsylvanian period; probably extinct since the mesozoic era.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordaitales designates extinct plants having tall arborescent trunks comparable to or more advanced than cycads; known from the pennsylvanian period; probably extinct since the mesozoic era."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct plants having tall arborescent trunks comparable to or more advanced than cycads; known from the pennsylvanian period; probably extinct since the mesozoic era.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct plants having tall arborescent trunks comparable to or more advanced than cycads; known from the pennsylvanian period; probably extinct since the mesozoic era.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordaitales designates extinct plants having tall arborescent trunks comparable to or more advanced than cycads; known from the pennsylvanian period; probably extinct since the mesozoic era."*

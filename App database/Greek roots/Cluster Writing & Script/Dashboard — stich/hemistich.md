@@ -5,13 +5,6 @@ status: unread
 ---
 # hemistich
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Half a poetic line of verse usually divided by a caesura.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Half a poetic line of verse usually divided by a caesura.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemistich designates half a poetic line of verse usually divided by a caesura."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Half a poetic line of verse usually divided by a caesura.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Half a poetic line of verse usually divided by a caesura.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemistich designates half a poetic line of verse usually divided by a caesura."*

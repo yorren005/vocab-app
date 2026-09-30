@@ -5,14 +5,6 @@ status: unread
 ---
 # kinetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the motion of material bodies and the forces and energy associated therewith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Active, lively.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What acrostic upon the abbreviation of his first name had he (kinetic poet) sent to Miss Marion (Molly) Tweedy on the 14 February 1888?"*
-> - 📜 **James Joyce (*Ulysses*):** *"He preferred himself to see another’s face and listen to another’s words by which potential narration was realised and kinetic temperament relieved."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the motion of material bodies and the forces and energy associated therewith.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Active, lively.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"What acrostic upon the abbreviation of his first name had he (kinetic poet) sent to Miss Marion (Molly) Tweedy on the 14 February 1888?"*
+> - 📜 **James Joyce (*Ulysses*):** *"He preferred himself to see another’s face and listen to another’s words by which potential narration was realised and kinetic temperament relieved."*

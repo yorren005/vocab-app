@@ -5,15 +5,6 @@ status: unread
 ---
 # activity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any specific behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being active.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Doing is activity; and he will still be doing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plague all, That your activity may defeat and quell The source of all erection."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Words pay no debts, give her deeds; but she’ll bereave you o’ th’ deeds too, if she call your activity in question."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any specific behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being active.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Doing is activity; and he will still be doing."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plague all, That your activity may defeat and quell The source of all erection."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Words pay no debts, give her deeds; but she’ll bereave you o’ th’ deeds too, if she call your activity in question."*

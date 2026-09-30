@@ -5,15 +5,6 @@ status: unread
 ---
 # leprosy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic infectious disease caused by a mycobacterium (Mycobacterium leprae) affecting especially the skin and peripheral nerves and characterized by the formation of nodules or macules that enlarge and spread accompanied by loss of sensation with eventual paralysis, wasting of muscle, and production of deformities —called also Hansen's disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A morally or spiritually harmful influence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yon ribaudred nag of Egypt, Whom leprosy o’ertake, i’ th’ midst o’ th’ fight, When vantage like a pair of twins appeared, Both as the same—or, rather, ours the elder— The breeze upon her, like a cow in June, Hoists sails and flies."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Itches, blains, Sow all th’ Athenian bosoms, and their crop Be general leprosy!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This yellow slave Will knit and break religions, bless th’ accursed, Make the hoar leprosy adored, place thieves And give them title, knee, and approbation With senators on the bench."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic infectious disease caused by a mycobacterium (Mycobacterium leprae) affecting especially the skin and peripheral nerves and characterized by the formation of nodules or macules that enlarge and spread accompanied by loss of sensation with eventual paralysis, wasting of muscle, and production of deformities —called also Hansen's disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A morally or spiritually harmful influence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yon ribaudred nag of Egypt, Whom leprosy o’ertake, i’ th’ midst o’ th’ fight, When vantage like a pair of twins appeared, Both as the same—or, rather, ours the elder— The breeze upon her, like a cow in June, Hoists sails and flies."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Itches, blains, Sow all th’ Athenian bosoms, and their crop Be general leprosy!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This yellow slave Will knit and break religions, bless th’ accursed, Make the hoar leprosy adored, place thieves And give them title, knee, and approbation With senators on the bench."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # urbanity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Polished courtesy; elegance of manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or character of life in a city or town.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not with the greatest urbanity, I must say."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Which there’s not a man alive more ready to do, for you’re a man of urbanity and suavity, you know, and you’ve got the sort of heart that can feel for another."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge with excessive urbanity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Polished courtesy; elegance of manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or character of life in a city or town.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Not with the greatest urbanity, I must say."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Which there’s not a man alive more ready to do, for you’re a man of urbanity and suavity, you know, and you’ve got the sort of heart that can feel for another."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge with excessive urbanity."*

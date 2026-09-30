@@ -5,15 +5,6 @@ status: unread
 ---
 # dominic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) spanish priest who founded an order whose members became known as dominicans or black friars (circa 1170-1221).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) spanish priest who founded an order whose members became known as dominicans or black friars (circa 1170-1221).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The palm and the laurel, Dominic and Dante, sanctity and song, grew together in her soil: she has retained the palm, but forgone the laurel."*
-> - 📜 **James Joyce (*Ulysses*):** *"He looked almost a saint and his confessionbox was so quiet and clean and dark and his hands were just like white wax and if ever she became a Dominican nun in their white habit perhaps he might come to the convent for the novena of Saint Dominic."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Dominic! come, Torquemada; fathers of the Inquisition! merciless monsters, seek your equal here."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) spanish priest who founded an order whose members became known as dominicans or black friars (circa 1170-1221).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) spanish priest who founded an order whose members became known as dominicans or black friars (circa 1170-1221).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The palm and the laurel, Dominic and Dante, sanctity and song, grew together in her soil: she has retained the palm, but forgone the laurel."*
+> - 📜 **James Joyce (*Ulysses*):** *"He looked almost a saint and his confessionbox was so quiet and clean and dark and his hands were just like white wax and if ever she became a Dominican nun in their white habit perhaps he might come to the convent for the novena of Saint Dominic."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Dominic! come, Torquemada; fathers of the Inquisition! merciless monsters, seek your equal here."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # morphia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alkaloid narcotic drug extracted from opium; a powerful, habit-forming narcotic used to relieve pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alkaloid narcotic drug extracted from opium; a powerful, habit-forming narcotic used to relieve pain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"I shall give hypodermic injection of morphia.” He proceeded then, swiftly and deftly, to carry out his intent."*
-> - 📜 **Bram Stoker (*Dracula*):** *"However, the action of both heart and lungs improved, and Van Helsing made a subcutaneous injection of morphia, as before, and with good effect."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"I am sorry that I can report but poorly of his health, so painfully excruciating was his neuralgia about his arms at times that a Dr. was sent for & morphia injected in his wrist, but I am glad to say he reported himself a little better."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alkaloid narcotic drug extracted from opium; a powerful, habit-forming narcotic used to relieve pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alkaloid narcotic drug extracted from opium; a powerful, habit-forming narcotic used to relieve pain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"I shall give hypodermic injection of morphia.” He proceeded then, swiftly and deftly, to carry out his intent."*
+> - 📜 **Bram Stoker (*Dracula*):** *"However, the action of both heart and lungs improved, and Van Helsing made a subcutaneous injection of morphia, as before, and with good effect."*
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"I am sorry that I can report but poorly of his health, so painfully excruciating was his neuralgia about his arms at times that a Dr. was sent for & morphia injected in his wrist, but I am glad to say he reported himself a little better."*

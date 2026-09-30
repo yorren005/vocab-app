@@ -5,13 +5,6 @@ status: unread
 ---
 # ludo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple board game in which players move counters according to the throw of dice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A simple board game in which players move counters according to the throw of dice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ludo designates a simple board game in which players move counters according to the throw of dice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple board game in which players move counters according to the throw of dice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A simple board game in which players move counters according to the throw of dice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ludo designates a simple board game in which players move counters according to the throw of dice."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # success
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that accomplishes its intended purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An attainment that is successful.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When your lordship sees the bottom of his success in’t, and to what metal this counterfeit lump of ore will be melted, if you give him not John Drum’s entertainment, your inclining cannot be removed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, we cannot greatly condemn our success: some dishonour we had in the loss of that drum, but it is not to be recovered."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know not what the success will be, my lord, but the attempt I vow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that accomplishes its intended purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An attainment that is successful.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When your lordship sees the bottom of his success in’t, and to what metal this counterfeit lump of ore will be melted, if you give him not John Drum’s entertainment, your inclining cannot be removed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, we cannot greatly condemn our success: some dishonour we had in the loss of that drum, but it is not to be recovered."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know not what the success will be, my lord, but the attempt I vow."*

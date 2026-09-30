@@ -5,15 +5,6 @@ status: unread
 ---
 # laboured
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work hard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strive and make an effort to reach a goal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had myself notice of my brother’s purpose herein, and have by underhand means laboured to dissuade him from it; but he is resolute."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lay A fault on us, your tribunes, that we laboured, No impediment between, but that you must Cast your election on him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How ill it follows, after you have laboured so hard, you should talk so idly!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Work hard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strive and make an effort to reach a goal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had myself notice of my brother’s purpose herein, and have by underhand means laboured to dissuade him from it; but he is resolute."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lay A fault on us, your tribunes, that we laboured, No impediment between, but that you must Cast your election on him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How ill it follows, after you have laboured so hard, you should talk so idly!"*

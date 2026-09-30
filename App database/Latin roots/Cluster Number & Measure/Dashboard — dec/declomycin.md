@@ -5,13 +5,6 @@ status: unread
 ---
 # declomycin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tetracycline antibacterial (trade name declomycin) effective in the treatment of some bacterial and rickettsial and other infections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tetracycline antibacterial (trade name declomycin) effective in the treatment of some bacterial and rickettsial and other infections.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declomycin designates tetracycline antibacterial (trade name declomycin) effective in the treatment of some bacterial and rickettsial and other infections."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tetracycline antibacterial (trade name declomycin) effective in the treatment of some bacterial and rickettsial and other infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tetracycline antibacterial (trade name declomycin) effective in the treatment of some bacterial and rickettsial and other infections.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declomycin designates tetracycline antibacterial (trade name declomycin) effective in the treatment of some bacterial and rickettsial and other infections."*

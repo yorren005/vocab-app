@@ -5,15 +5,6 @@ status: unread
 ---
 # sacristy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A room in a church where sacred vessels and vestments are kept or meetings are held.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room in a church where sacred vessels and vestments are kept or meetings are held.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"They must have seized the sacristy; but that makes no difference."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Viva Spain and Fernando VII!" We reached the church; but the French, who had preceded us by the sacristy, already occupied the high altar."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"The enemy was reinforced from the sacristy, and our rear-guard also came out of the choir."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room in a church where sacred vessels and vestments are kept or meetings are held.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room in a church where sacred vessels and vestments are kept or meetings are held.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"They must have seized the sacristy; but that makes no difference."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Viva Spain and Fernando VII!" We reached the church; but the French, who had preceded us by the sacristy, already occupied the high altar."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"The enemy was reinforced from the sacristy, and our rear-guard also came out of the choir."*

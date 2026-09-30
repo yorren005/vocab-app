@@ -5,13 +5,6 @@ status: unread
 ---
 # stigmatist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose body is marked by religious stigmata (such as marks resembling the wounds of the crucified christ).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person whose body is marked by religious stigmata (such as marks resembling the wounds of the crucified christ).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stigmatist designates a person whose body is marked by religious stigmata (such as marks resembling the wounds of the crucified christ)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose body is marked by religious stigmata (such as marks resembling the wounds of the crucified christ).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person whose body is marked by religious stigmata (such as marks resembling the wounds of the crucified christ).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stigmatist designates a person whose body is marked by religious stigmata (such as marks resembling the wounds of the crucified christ)."*

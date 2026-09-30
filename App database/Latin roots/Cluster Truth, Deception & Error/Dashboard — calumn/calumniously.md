@@ -5,13 +5,6 @@ status: unread
 ---
 # calumniously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a false and slanderous and defamatory manner; with slander or calumny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a false and slanderous and defamatory manner; with slander or calumny.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calumniously designates in a false and slanderous and defamatory manner; with slander or calumny."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a false and slanderous and defamatory manner; with slander or calumny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a false and slanderous and defamatory manner; with slander or calumny.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calumniously designates in a false and slanderous and defamatory manner; with slander or calumny."*

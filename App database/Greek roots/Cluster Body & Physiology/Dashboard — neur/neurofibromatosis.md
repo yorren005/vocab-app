@@ -5,13 +5,6 @@ status: unread
 ---
 # neurofibromatosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disorder inherited as an autosomal dominant and characterized especially by brown spots on the skin, neurofibromas of peripheral nerves, and deformities of subcutaneous tissue and bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disorder inherited as an autosomal dominant and characterized especially by brown spots on the skin, neurofibromas of peripheral nerves, and deformities of subcutaneous tissue and bone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurofibromatosis designates a disorder inherited as an autosomal dominant and characterized especially by brown spots on the skin, neurofibromas of peripheral nerves, and deformities of subcutaneous tissue and bone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disorder inherited as an autosomal dominant and characterized especially by brown spots on the skin, neurofibromas of peripheral nerves, and deformities of subcutaneous tissue and bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disorder inherited as an autosomal dominant and characterized especially by brown spots on the skin, neurofibromas of peripheral nerves, and deformities of subcutaneous tissue and bone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurofibromatosis designates a disorder inherited as an autosomal dominant and characterized especially by brown spots on the skin, neurofibromas of peripheral nerves, and deformities of subcutaneous tissue and bone."*

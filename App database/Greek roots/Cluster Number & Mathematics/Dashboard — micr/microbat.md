@@ -5,13 +5,6 @@ status: unread
 ---
 # microbat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Typically having large ears and feeding primarily on insects; worldwide in distribution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Typically having large ears and feeding primarily on insects; worldwide in distribution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microbat designates typically having large ears and feeding primarily on insects; worldwide in distribution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Typically having large ears and feeding primarily on insects; worldwide in distribution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Typically having large ears and feeding primarily on insects; worldwide in distribution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microbat designates typically having large ears and feeding primarily on insects; worldwide in distribution."*

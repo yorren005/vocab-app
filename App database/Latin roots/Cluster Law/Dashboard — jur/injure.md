@@ -5,15 +5,6 @@ status: unread
 ---
 # injure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause injuries or bodily harm to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hurt the feelings of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would not be thy executioner; I fly thee, for I would not injure thee."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Carrying her large green bundle very carefully in order not to injure the tender little branches, she hurried through the garden towards the castle height."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Thoroughly convinced of the impossibility of his own suit, a high resolve constrained him not to injure that of another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause injuries or bodily harm to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hurt the feelings of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would not be thy executioner; I fly thee, for I would not injure thee."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Carrying her large green bundle very carefully in order not to injure the tender little branches, she hurried through the garden towards the castle height."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Thoroughly convinced of the impossibility of his own suit, a high resolve constrained him not to injure that of another."*

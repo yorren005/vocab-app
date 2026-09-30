@@ -5,15 +5,6 @@ status: unread
 ---
 # census
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A periodic count of the population.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conduct a census.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But, almost immediately, roaring like a bull in order to be heard, Skysail Jack, a giant sailor of a lifer, ordered silence while a census could be taken."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The Roman taking of the census was an abomination."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Let us examine the figures for the (so-called) "wealth of the people of the United States",[1] as it has been calculated by the census officials."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A periodic count of the population.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conduct a census.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But, almost immediately, roaring like a bull in order to be heard, Skysail Jack, a giant sailor of a lifer, ordered silence while a census could be taken."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The Roman taking of the census was an abomination."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Let us examine the figures for the (so-called) "wealth of the people of the United States",[1] as it has been calculated by the census officials."*

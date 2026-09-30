@@ -5,15 +5,6 @@ status: unread
 ---
 # reverting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A failure to maintain a higher state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Go back to a previous state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It entered into all his calculations about money in a singular manner which I don’t think I can better explain than by reverting for a moment to our loan to Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Yes, yes,” says the good old gentleman, reverting to his lesson of wisdom."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And mind you tell us the truth here, whatever you do, Jo.” “Wishermaydie if I don’t, sir,” says Jo, reverting to his favourite declaration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A failure to maintain a higher state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Go back to a previous state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It entered into all his calculations about money in a singular manner which I don’t think I can better explain than by reverting for a moment to our loan to Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Yes, yes,” says the good old gentleman, reverting to his lesson of wisdom."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And mind you tell us the truth here, whatever you do, Jo.” “Wishermaydie if I don’t, sir,” says Jo, reverting to his favourite declaration."*

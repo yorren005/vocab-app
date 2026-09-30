@@ -5,15 +5,6 @@ status: unread
 ---
 # transmitter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who transmits a message.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any agent (person or animal or microorganism) that carries and transmits a disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Request permission to come aboard and have unattended access to the spunnel transmitter for about five minutes."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Approaching the squat spunnel transmitter he noted that Hanno had activated the system for immediate use and disengaged all logs and file-for-record links."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Inserting the capsule he keyed the transmitter to the channels assigned to Sentinel and set off his burst."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who transmits a message.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any agent (person or animal or microorganism) that carries and transmits a disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Request permission to come aboard and have unattended access to the spunnel transmitter for about five minutes."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Approaching the squat spunnel transmitter he noted that Hanno had activated the system for immediate use and disengaged all logs and file-for-record links."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Inserting the capsule he keyed the transmitter to the channels assigned to Sentinel and set off his burst."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # colonization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of colonizing; the establishment of colonies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of colonizing; the establishment of colonies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Mexican War was the result of the colonization of Texan territory by American settlers and the desire of powerful interests to extend the area of land open to slavery."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Toward the end of the Middle Ages groups of traders obtained charters to act as corporations permanently for business purposes, such as foreign trade, colonization, and banking."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It has been the lot of the unfortunate aborigines of America in the early periods of colonization to be doubly wronged by the white men."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of colonizing; the establishment of colonies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of colonizing; the establishment of colonies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Mexican War was the result of the colonization of Texan territory by American settlers and the desire of powerful interests to extend the area of land open to slavery."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Toward the end of the Middle Ages groups of traders obtained charters to act as corporations permanently for business purposes, such as foreign trade, colonization, and banking."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It has been the lot of the unfortunate aborigines of America in the early periods of colonization to be doubly wronged by the white men."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # rescript
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reply by a pope to an inquiry concerning a point of law or morality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A legally binding command or decision entered on the court record (as if issued by a court or judge).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"This rescript began with the words: “Sergéy Kuzmích, From all sides reports reach me,” etc."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He began the rescript again and again, but as soon as he uttered ‘Sergéy’ he sobbed, ‘Kuz-mí-ch,’ tears, and ‘From all sides’ was smothered in sobs and he could get no farther."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Here Balashëv hesitated: he remembered the words the Emperor Alexander had not written in his letter, but had specially inserted in the rescript to Saltykóv and had told Balashëv to repeat to Napoleon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reply by a pope to an inquiry concerning a point of law or morality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A legally binding command or decision entered on the court record (as if issued by a court or judge).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"This rescript began with the words: “Sergéy Kuzmích, From all sides reports reach me,” etc."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He began the rescript again and again, but as soon as he uttered ‘Sergéy’ he sobbed, ‘Kuz-mí-ch,’ tears, and ‘From all sides’ was smothered in sobs and he could get no farther."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Here Balashëv hesitated: he remembered the words the Emperor Alexander had not written in his letter, but had specially inserted in the rescript to Saltykóv and had told Balashëv to repeat to Napoleon."*

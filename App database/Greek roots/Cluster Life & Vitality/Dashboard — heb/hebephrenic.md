@@ -5,13 +5,6 @@ status: unread
 ---
 # hebephrenic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from a form of schizophrenia characterized by foolish mannerisms and senseless laughter along with delusions and regressive behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from a form of schizophrenia characterized by foolish mannerisms and senseless laughter along with delusions and regressive behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hebephrenic designates suffering from a form of schizophrenia characterized by foolish mannerisms and senseless laughter along with delusions and regressive behavior."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from a form of schizophrenia characterized by foolish mannerisms and senseless laughter along with delusions and regressive behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from a form of schizophrenia characterized by foolish mannerisms and senseless laughter along with delusions and regressive behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hebephrenic designates suffering from a form of schizophrenia characterized by foolish mannerisms and senseless laughter along with delusions and regressive behavior."*

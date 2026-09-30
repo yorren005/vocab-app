@@ -5,13 +5,6 @@ status: unread
 ---
 # unnerving
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disturb the composure of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inspiring fear; ; - g.h.johnston.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. H. Costello (*Sure-dart*):** *"At the start it was a kind of bellow, then it toned down to a succession of hog-like grunts, and at last, with a startling and unnerving suddenness, it flattened to a sharp, explosive hiss."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disturb the composure of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inspiring fear; ; - g.h.johnston.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **F. H. Costello (*Sure-dart*):** *"At the start it was a kind of bellow, then it toned down to a succession of hog-like grunts, and at last, with a startling and unnerving suddenness, it flattened to a sharp, explosive hiss."*

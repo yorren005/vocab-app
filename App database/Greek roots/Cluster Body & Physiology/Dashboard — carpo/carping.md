@@ -5,15 +5,6 @@ status: unread
 ---
 # carping
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistent petty and unjustified criticism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise trivial objections.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sure, sure, such carping is not commendable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And to that end we wished your lordship here, T’ avoid the censures of the carping world."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"From carping friends I turn aside; At foes defiance frown; Yet time may tame my stubborn pride, And break my spirit down."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistent petty and unjustified criticism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise trivial objections.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sure, sure, such carping is not commendable."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And to that end we wished your lordship here, T’ avoid the censures of the carping world."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"From carping friends I turn aside; At foes defiance frown; Yet time may tame my stubborn pride, And break my spirit down."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # ignorantness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ignorance (especially of orthodox beliefs).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ignorance (especially of orthodox beliefs).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ignorantness designates ignorance (especially of orthodox beliefs)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ignorance (especially of orthodox beliefs).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ignorance (especially of orthodox beliefs).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ignorantness designates ignorance (especially of orthodox beliefs)."*

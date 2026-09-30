@@ -5,13 +5,6 @@ status: unread
 ---
 # tetramethyldiarsine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A poisonous oily liquid with a garlicky odor composed of 2 cacodyl groups; undergoes spontaneous combustion in dry air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poisonous oily liquid with a garlicky odor composed of 2 cacodyl groups; undergoes spontaneous combustion in dry air.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetramethyldiarsine designates a poisonous oily liquid with a garlicky odor composed of 2 cacodyl groups; undergoes spontaneous combustion in dry air."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poisonous oily liquid with a garlicky odor composed of 2 cacodyl groups; undergoes spontaneous combustion in dry air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poisonous oily liquid with a garlicky odor composed of 2 cacodyl groups; undergoes spontaneous combustion in dry air.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetramethyldiarsine designates a poisonous oily liquid with a garlicky odor composed of 2 cacodyl groups; undergoes spontaneous combustion in dry air."*

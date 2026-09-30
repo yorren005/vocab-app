@@ -5,13 +5,6 @@ status: unread
 ---
 # anabas
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of the family anabantidae; small fish that resemble perch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The type genus of the family anabantidae; small fish that resemble perch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anabas designates the type genus of the family anabantidae; small fish that resemble perch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of the family anabantidae; small fish that resemble perch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The type genus of the family anabantidae; small fish that resemble perch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anabas designates the type genus of the family anabantidae; small fish that resemble perch."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # textual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or based on a text.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or based on a text.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Quote the textual terms in which the prospectus claimed advantages for this thaumaturgic remedy."*
-> - 📜 **James Joyce (*Ulysses*):** *"Quote the textual terms of this notice."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Not so is it with Hinayana and Mahayana, for they appeal to two differing sets of textual authorities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or based on a text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or based on a text.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Quote the textual terms in which the prospectus claimed advantages for this thaumaturgic remedy."*
+> - 📜 **James Joyce (*Ulysses*):** *"Quote the textual terms of this notice."*
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Not so is it with Hinayana and Mahayana, for they appeal to two differing sets of textual authorities."*

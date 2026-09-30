@@ -5,15 +5,6 @@ status: unread
 ---
 # subservience
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being something that is useful in reaching an end or carrying out a plan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a subservient state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate was no Puritan, but he did not care for play, and winning money at it had always seemed a meanness to him; besides, he had an ideal of life which made this subservience of conduct to the gaining of small sums thoroughly hateful to him."*
-> - 📜 **George Eliot (*Middlemarch*):** *"There was hardly ever so much unanimity among them as in the opinion that Lydgate was an arrogant young fellow, and yet ready for the sake of ultimately predominating to show a crawling subservience to Bulstrode."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Here, as elsewhere, he was surrounded by an atmosphere of subservience to his wealth, and being in the habit of lording it over these people, he treated them with absent-minded contempt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being something that is useful in reaching an end or carrying out a plan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a subservient state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate was no Puritan, but he did not care for play, and winning money at it had always seemed a meanness to him; besides, he had an ideal of life which made this subservience of conduct to the gaining of small sums thoroughly hateful to him."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There was hardly ever so much unanimity among them as in the opinion that Lydgate was an arrogant young fellow, and yet ready for the sake of ultimately predominating to show a crawling subservience to Bulstrode."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Here, as elsewhere, he was surrounded by an atmosphere of subservience to his wealth, and being in the habit of lording it over these people, he treated them with absent-minded contempt."*

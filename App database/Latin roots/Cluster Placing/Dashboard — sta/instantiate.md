@@ -5,13 +5,6 @@ status: unread
 ---
 # instantiate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent by an instance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Find an instance of (a word or particular usage of a word).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, instantiate designates represent by an instance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent by an instance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Find an instance of (a word or particular usage of a word).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, instantiate designates represent by an instance."*

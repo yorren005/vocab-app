@@ -5,13 +5,6 @@ status: unread
 ---
 # percussive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving percussion or featuring percussive instruments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving percussion or featuring percussive instruments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, percussive designates involving percussion or featuring percussive instruments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving percussion or featuring percussive instruments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving percussion or featuring percussive instruments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, percussive designates involving percussion or featuring percussive instruments."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # planet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; mercury, venus, earth, mars, jupiter, saturn, uranus, neptune, and pluto in order of their proximity to the sun; viewed from the constellation hercules, all the planets rotate around the sun in a counterclockwise direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who follows or serves another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now the fleeting moon No planet is of mine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alone he entered The mortal gate o’ th’ city, which he painted With shunless destiny; aidless came off And with a sudden reinforcement struck Corioles like a planet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath this lovely face Ruled, like a wandering planet, over me, And could it not enforce them to relent That were unworthy to behold the same?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; mercury, venus, earth, mars, jupiter, saturn, uranus, neptune, and pluto in order of their proximity to the sun; viewed from the constellation hercules, all the planets rotate around the sun in a counterclockwise direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who follows or serves another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now the fleeting moon No planet is of mine."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alone he entered The mortal gate o’ th’ city, which he painted With shunless destiny; aidless came off And with a sudden reinforcement struck Corioles like a planet."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath this lovely face Ruled, like a wandering planet, over me, And could it not enforce them to relent That were unworthy to behold the same?"*

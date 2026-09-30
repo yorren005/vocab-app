@@ -5,15 +5,6 @@ status: unread
 ---
 # anneal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring to a desired consistency, texture, or hardness by a process of gradually heating and cooling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to a desired consistency, texture, or hardness by a process of gradually heating and cooling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"There was no luster of exquisitely annealed glass and highly polished metals, such as dazzles one in the laboratory of the prosperous analyst."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"It acts like a specially annealed compound of some kind."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"By annealing, diffusion is greatly assisted, and the material gradually becomes homogeneous, as is seen on microscopic examination."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring to a desired consistency, texture, or hardness by a process of gradually heating and cooling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to a desired consistency, texture, or hardness by a process of gradually heating and cooling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"There was no luster of exquisitely annealed glass and highly polished metals, such as dazzles one in the laboratory of the prosperous analyst."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"It acts like a specially annealed compound of some kind."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"By annealing, diffusion is greatly assisted, and the material gradually becomes homogeneous, as is seen on microscopic examination."*

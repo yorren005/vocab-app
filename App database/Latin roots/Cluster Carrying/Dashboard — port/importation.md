@@ -5,15 +5,6 @@ status: unread
 ---
 # importation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The commercial activity of buying and bringing in goods from a foreign country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commodities (goods or services) bought from a foreign country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The single fat thing on the soil was Marian herself; and she was an importation."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"This was increased and embittered by the importation of ecclesiastical and political feeling into the contest; Fraser being a Free Churchman, and Ferrier receiving the support of the Established Church and Tory party."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The very demand of our treasury and banks for gold caused the retention of our own gold product (which between 1864 and 1876 had been nearly all exported) and required an enormous net importation of gold between 1878 and 1888."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The commercial activity of buying and bringing in goods from a foreign country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commodities (goods or services) bought from a foreign country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The single fat thing on the soil was Marian herself; and she was an importation."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"This was increased and embittered by the importation of ecclesiastical and political feeling into the contest; Fraser being a Free Churchman, and Ferrier receiving the support of the Established Church and Tory party."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The very demand of our treasury and banks for gold caused the retention of our own gold product (which between 1864 and 1876 had been nearly all exported) and required an enormous net importation of gold between 1878 and 1888."*

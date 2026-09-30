@@ -5,15 +5,6 @@ status: unread
 ---
 # sacristan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer of the church who is in charge of sacred objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer of the church who is in charge of sacred objects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Get up early who will, Père Laserques the sacristan is always up still earlier."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Every New Year's Day the sacristan comes and puts a morsel of the holy bread in her mouth, and that is all she has to live on."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A sacristan commanded one party which captured several hundred prisoners in the course of a month; and there was Vasílisa, the wife of a village elder, who slew hundreds of the French."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer of the church who is in charge of sacred objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer of the church who is in charge of sacred objects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Get up early who will, Père Laserques the sacristan is always up still earlier."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Every New Year's Day the sacristan comes and puts a morsel of the holy bread in her mouth, and that is all she has to live on."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A sacristan commanded one party which captured several hundred prisoners in the course of a month; and there was Vasílisa, the wife of a village elder, who slew hundreds of the French."*

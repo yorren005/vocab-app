@@ -5,13 +5,6 @@ status: unread
 ---
 # plummy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very desirable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a voice) affectedly mellow and rich.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"That cake’s awful nice and plummy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very desirable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a voice) affectedly mellow and rich.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"That cake’s awful nice and plummy."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # synchrotron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cyclotron in which the electric field is maintained at a constant frequency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cyclotron in which the electric field is maintained at a constant frequency.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchrotron designates cyclotron in which the electric field is maintained at a constant frequency."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cyclotron in which the electric field is maintained at a constant frequency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cyclotron in which the electric field is maintained at a constant frequency.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchrotron designates cyclotron in which the electric field is maintained at a constant frequency."*

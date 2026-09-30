@@ -5,15 +5,6 @@ status: unread
 ---
 # conscience
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conformity to one's own sense of right conduct.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thy unworthiness raised love in me, More worthy I to be beloved of thee. 151 Love is too young to know what conscience is, Yet who knows not conscience is born of love?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To lose itself in a fog, where being three parts melted away with rotten dews, the fourth would return for conscience’ sake, to help to get thee a wife."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not I Inclin’d to this intelligence pronounce The beggary of his change; but ’tis your graces That from my mutest conscience to my tongue Charms this report out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conformity to one's own sense of right conduct.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thy unworthiness raised love in me, More worthy I to be beloved of thee. 151 Love is too young to know what conscience is, Yet who knows not conscience is born of love?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To lose itself in a fog, where being three parts melted away with rotten dews, the fourth would return for conscience’ sake, to help to get thee a wife."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not I Inclin’d to this intelligence pronounce The beggary of his change; but ’tis your graces That from my mutest conscience to my tongue Charms this report out."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # burrow
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Make a burrow
-> 2. **Nuance / Usage**: Progress by or as if by digging
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the burrow withstood the storm*), direct object (*cleaved the burrow*), or prepositional anchor (*amidst the burrow*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Somewhere there, on that desolate plain, was lurking this fiendish man, hiding in a burrow like a wild beast."*
-> - 📜 **Washington Irving (*The Sketch Book*):** *"Here may often be found the family of a petty tradesman, burrowing among the relics of antiquated finery in great rambling time-stained apartments."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"They will out of their burrows like coneys after rain, and revel all with him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A hole or tunnel dug in the ground by a small animal (such as a rabbit, fox, or badger) as a dwelling or refuge.
+> 2. **Nuance / Usage**: As a verb or figurative noun, to dig into or nestle snugly beneath a covering, or a cozy, secluded hiding place.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the burrow withstood the storm*), direct object (*cleaved the burrow*), or prepositional anchor (*amidst the burrow*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Somewhere there, on that desolate plain, was lurking this fiendish man, hiding in a **burrow** like a wild beast."*
+> - 📜 **Kenneth Grahame (*The Wind in the Willows*):** *"The Mole had been working very hard all the morning, spring-cleaning his little underground **burrow**."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"They will out of their **burrows** like coneys after rain."*

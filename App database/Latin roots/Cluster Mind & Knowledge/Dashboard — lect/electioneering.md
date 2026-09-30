@@ -5,15 +5,6 @@ status: unread
 ---
 # electioneering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Persuasion of voters in a political campaign.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The campaign of a candidate to be elected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Frank Hawley, who was afraid of nobody, and was a Tory suspicious of electioneering intentions."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke, per electioneering contest, and a seat outside Parliament as delivered, five thousand pounds, seven shillings, and fourpence.” Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"It’s rather coarse work—this electioneering, eh, Ladislaw? dare say you are tired of it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Persuasion of voters in a political campaign.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The campaign of a candidate to be elected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Frank Hawley, who was afraid of nobody, and was a Tory suspicious of electioneering intentions."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke, per electioneering contest, and a seat outside Parliament as delivered, five thousand pounds, seven shillings, and fourpence.” Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"It’s rather coarse work—this electioneering, eh, Ladislaw? dare say you are tired of it."*

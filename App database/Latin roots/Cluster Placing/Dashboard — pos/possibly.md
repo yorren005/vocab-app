@@ -5,15 +5,6 @@ status: unread
 ---
 # possibly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By chance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a degree possible of achievement or by possible means.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now do I long to hear how you were found: How possibly preserved; and who to thank, Besides the gods, for this great miracle."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is indeed, sir, the most skilful, bloody, and fatal opposite that you could possibly have found in any part of Illyria."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When possibly I can, I will return."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By chance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a degree possible of achievement or by possible means.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now do I long to hear how you were found: How possibly preserved; and who to thank, Besides the gods, for this great miracle."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is indeed, sir, the most skilful, bloody, and fatal opposite that you could possibly have found in any part of Illyria."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When possibly I can, I will return."*

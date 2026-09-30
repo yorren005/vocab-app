@@ -5,15 +5,6 @@ status: unread
 ---
 # taurus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Venezuelan master terrorist raised by a marxist-leninist father; trained and worked with many terrorist groups (born in 1949).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astrology) a person who is born while the sun is in taurus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Caesar with his army and Taurus marching."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Canidius marching with his land army one way over the stage, and Taurus, the Lieutenant of Caesar, with his Army, the other way."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That pure congealèd white, high Taurus’ snow, Fann’d with the eastern wind, turns to a crow When thou hold’st up thy hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Venezuelan master terrorist raised by a marxist-leninist father; trained and worked with many terrorist groups (born in 1949).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astrology) a person who is born while the sun is in taurus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Caesar with his army and Taurus marching."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Canidius marching with his land army one way over the stage, and Taurus, the Lieutenant of Caesar, with his Army, the other way."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That pure congealèd white, high Taurus’ snow, Fann’d with the eastern wind, turns to a crow When thou hold’st up thy hand."*

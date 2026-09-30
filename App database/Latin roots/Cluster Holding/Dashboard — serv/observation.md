@@ -5,15 +5,6 @@ status: unread
 ---
 # observation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making and recording a measurement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of observing; taking a patient look.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And in his brain, Which is as dry as the remainder biscuit After a voyage, he hath strange places crammed With observation, the which he vents In mangled forms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What observation mad’st thou in this case Of his heart’s meteors tilting in his face?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tut, that’s a foolish observation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making and recording a measurement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of observing; taking a patient look.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And in his brain, Which is as dry as the remainder biscuit After a voyage, he hath strange places crammed With observation, the which he vents In mangled forms."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What observation mad’st thou in this case Of his heart’s meteors tilting in his face?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tut, that’s a foolish observation."*

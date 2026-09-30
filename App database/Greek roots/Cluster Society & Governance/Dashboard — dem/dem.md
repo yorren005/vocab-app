@@ -5,15 +5,6 @@ status: unread
 ---
 # dem
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Demonstrative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Demonstrative.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Gonzenbach, _op. cit._ Nos. 26, 27; _Der Pentamerone, aus dem Neapolitanischen übertragen_ von Felix Liebrecht (Breslau, 1846), No. 23, vol. i. pp. 294 _sqq._)."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Keysser, "Aus dem Leben der Kaileute," in R."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Wiedemann, _Aus dem inneren und aüssern Leben der Ehsten_ (St."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Demonstrative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Demonstrative.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Gonzenbach, _op. cit._ Nos. 26, 27; _Der Pentamerone, aus dem Neapolitanischen übertragen_ von Felix Liebrecht (Breslau, 1846), No. 23, vol. i. pp. 294 _sqq._)."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Keysser, "Aus dem Leben der Kaileute," in R."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Wiedemann, _Aus dem inneren und aüssern Leben der Ehsten_ (St."*

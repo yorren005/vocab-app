@@ -5,15 +5,6 @@ status: unread
 ---
 # antagonist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One that contends with or opposes another : adversary, opponent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent of physiological antagonism: such as.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"As little does he think how near together he and his antagonist have suffered in the fortunes of two sisters, and his antagonist, who knows it now, is not the man to tell him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You are my antagonist, with this difference from real warfare, that I shall miss you every time by one hair’s breadth, or perhaps two."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He did not wash his hands or comb his head before he brought Balder's antagonist on to the pyre."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One that contends with or opposes another : adversary, opponent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent of physiological antagonism: such as.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"As little does he think how near together he and his antagonist have suffered in the fortunes of two sisters, and his antagonist, who knows it now, is not the man to tell him."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You are my antagonist, with this difference from real warfare, that I shall miss you every time by one hair’s breadth, or perhaps two."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He did not wash his hands or comb his head before he brought Balder's antagonist on to the pyre."*

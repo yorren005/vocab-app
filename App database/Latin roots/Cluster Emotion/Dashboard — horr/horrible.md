@@ -5,15 +5,6 @@ status: unread
 ---
 # horrible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provoking horror; ; ; ; - winston churchill.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provoking horror; ; ; ; - winston churchill.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What say you? [_Strikes him again._] Hence, horrible villain, or I’ll spurn thine eyes Like balls before me!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What if it tempt you toward the flood, my lord, Or to the dreadful summit of the cliff That beetles o’er his base into the sea, And there assume some other horrible form Which might deprive your sovereignty of reason, And draw you into madness?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But tell me, Hal, art not thou horrible afeard?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provoking horror; ; ; ; - winston churchill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provoking horror; ; ; ; - winston churchill.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What say you? [_Strikes him again._] Hence, horrible villain, or I’ll spurn thine eyes Like balls before me!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What if it tempt you toward the flood, my lord, Or to the dreadful summit of the cliff That beetles o’er his base into the sea, And there assume some other horrible form Which might deprive your sovereignty of reason, And draw you into madness?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But tell me, Hal, art not thou horrible afeard?"*

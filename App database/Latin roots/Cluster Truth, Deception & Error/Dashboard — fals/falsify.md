@@ -5,15 +5,6 @@ status: unread
 ---
 # falsify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make false by mutilation or addition; as of a message or story.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tamper, with the purpose of deception.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But he had considered this step anew since our late confidence and had decided on taking it, if it only served to show me through one poor instance that the whole world would readily unite to falsify the stern prediction of my childhood."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Strange that their very elevation was a misapplication, that to raise seemed to falsify."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I am all right now.” As if, however, to falsify this assertion, his legs seemed to give way, and he suddenly sat down to save himself from falling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make false by mutilation or addition; as of a message or story.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tamper, with the purpose of deception.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But he had considered this step anew since our late confidence and had decided on taking it, if it only served to show me through one poor instance that the whole world would readily unite to falsify the stern prediction of my childhood."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Strange that their very elevation was a misapplication, that to raise seemed to falsify."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I am all right now.” As if, however, to falsify this assertion, his legs seemed to give way, and he suddenly sat down to save himself from falling."*

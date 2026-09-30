@@ -5,15 +5,6 @@ status: unread
 ---
 # philippines
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic on the philippine islands; achieved independence from the united states in 1946.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archipelago in the southwestern pacific including some 7000 islands.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I, the last of the Standings, dying soon without issue, fought as a common soldier in the Philippines, in our latest war, and to do so I resigned, in the full early ripeness of career, my professorship in the University of Nebraska."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I fought in the Philippines because it was the tradition of the Standings to fight."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"All over the East,--in Burma, Indo-China, the Malay States, the Philippines, wherever he can force an entrance,--you find the Chinese merchant and the Chinese coolie, and it is no state-managed enterprise that takes them there."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic on the philippine islands; achieved independence from the united states in 1946.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archipelago in the southwestern pacific including some 7000 islands.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I, the last of the Standings, dying soon without issue, fought as a common soldier in the Philippines, in our latest war, and to do so I resigned, in the full early ripeness of career, my professorship in the University of Nebraska."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I fought in the Philippines because it was the tradition of the Standings to fight."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"All over the East,--in Burma, Indo-China, the Malay States, the Philippines, wherever he can force an entrance,--you find the Chinese merchant and the Chinese coolie, and it is no state-managed enterprise that takes them there."*

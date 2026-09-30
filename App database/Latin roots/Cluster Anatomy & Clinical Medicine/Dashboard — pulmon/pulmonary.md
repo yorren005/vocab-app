@@ -5,15 +5,6 @@ status: unread
 ---
 # pulmonary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affecting the lungs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affecting the lungs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In the year 1832 he was compelled by pulmonary symptoms, to leave his field of ministerial labor in one of the eastern cities, and travel south, hoping that a milder climate might be favorable."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"At fifteen years of age she became a teacher, and in 1856 came West for the benefit of her health, having a predisposition to pulmonary consumption, and fearing the effect of the east winds and the trying climate of the Eastern States."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Another is that people in an advanced stage of pulmonary disorder had better not marry at all.” The old man raised his weak hand and moved it to and fro before his face."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affecting the lungs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affecting the lungs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"In the year 1832 he was compelled by pulmonary symptoms, to leave his field of ministerial labor in one of the eastern cities, and travel south, hoping that a milder climate might be favorable."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"At fifteen years of age she became a teacher, and in 1856 came West for the benefit of her health, having a predisposition to pulmonary consumption, and fearing the effect of the east winds and the trying climate of the Eastern States."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Another is that people in an advanced stage of pulmonary disorder had better not marry at all.” The old man raised his weak hand and moved it to and fro before his face."*

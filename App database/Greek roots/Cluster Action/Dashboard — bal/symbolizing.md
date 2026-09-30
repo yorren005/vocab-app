@@ -5,13 +5,6 @@ status: unread
 ---
 # symbolizing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of representing something with a symbol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express indirectly by an image, form, or model; be a symbol.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The beauty and majesty of the finely carved panels surmounting the soaring arches spanning the rosy monolith columns, emblazoned with emerald green and scarlet mosaic symbolizing the Báb's lineage and martyrdom, are strikingly revealed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of representing something with a symbol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express indirectly by an image, form, or model; be a symbol.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The beauty and majesty of the finely carved panels surmounting the soaring arches spanning the rosy monolith columns, emblazoned with emerald green and scarlet mosaic symbolizing the Báb's lineage and martyrdom, are strikingly revealed."*

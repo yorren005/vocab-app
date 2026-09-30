@@ -5,15 +5,6 @@ status: unread
 ---
 # perfection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being without a flaw or defect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ideal instance; a perfect embodiment of a concept.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He lost a wife Whose beauty did astonish the survey Of richest eyes; whose words all ears took captive; Whose dear perfection hearts that scorn’d to serve Humbly call’d mistress."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I saw her once Hop forty paces through the public street And, having lost her breath, she spoke and panted, That she did make defect perfection, And, breathless, pour breath forth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He had no legs that practis’d not his gait; And speaking thick, which nature made his blemish, Became the accents of the valiant; For those who could speak low and tardily Would turn their own perfection to abuse, To seem like him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being without a flaw or defect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ideal instance; a perfect embodiment of a concept.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He lost a wife Whose beauty did astonish the survey Of richest eyes; whose words all ears took captive; Whose dear perfection hearts that scorn’d to serve Humbly call’d mistress."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I saw her once Hop forty paces through the public street And, having lost her breath, she spoke and panted, That she did make defect perfection, And, breathless, pour breath forth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He had no legs that practis’d not his gait; And speaking thick, which nature made his blemish, Became the accents of the valiant; For those who could speak low and tardily Would turn their own perfection to abuse, To seem like him."*

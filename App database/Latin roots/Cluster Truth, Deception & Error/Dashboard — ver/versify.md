@@ -5,15 +5,6 @@ status: unread
 ---
 # versify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compose verses or put into verse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compose verses or put into verse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Versified Reply To An Invitation Song—Will Ye Go To The Indies, My Mary?"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"First Six Verses Of The Ninetieth Psalm Versified, The O Thou, the first, the greatest friend Of all the human race!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Versified Reply To An Invitation Sir, Yours this moment I unseal, And faith I’m gay and hearty!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compose verses or put into verse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compose verses or put into verse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Versified Reply To An Invitation Song—Will Ye Go To The Indies, My Mary?"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"First Six Verses Of The Ninetieth Psalm Versified, The O Thou, the first, the greatest friend Of all the human race!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Versified Reply To An Invitation Sir, Yours this moment I unseal, And faith I’m gay and hearty!"*

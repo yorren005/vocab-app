@@ -5,13 +5,6 @@ status: unread
 ---
 # dihydrostreptomycin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Antibiotic consisting of a hydrogenated form of streptomycin; used against tuberculosis and tularemia and gram-negative organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antibiotic consisting of a hydrogenated form of streptomycin; used against tuberculosis and tularemia and gram-negative organisms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dihydrostreptomycin designates antibiotic consisting of a hydrogenated form of streptomycin; used against tuberculosis and tularemia and gram-negative organisms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Antibiotic consisting of a hydrogenated form of streptomycin; used against tuberculosis and tularemia and gram-negative organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antibiotic consisting of a hydrogenated form of streptomycin; used against tuberculosis and tularemia and gram-negative organisms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dihydrostreptomycin designates antibiotic consisting of a hydrogenated form of streptomycin; used against tuberculosis and tularemia and gram-negative organisms."*

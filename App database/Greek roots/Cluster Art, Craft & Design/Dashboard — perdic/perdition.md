@@ -5,15 +5,6 @@ status: unread
 ---
 # perdition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (christianity) the abode of satan and the forces of evil; where sinners suffer eternal punishment; - john milton; ; -dr. johnson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (christianity) the abode of satan and the forces of evil; where sinners suffer eternal punishment; - john milton; ; -dr. johnson.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, his definement suffers no perdition in you, though I know, to divide him inventorially would dizzy th’arithmetic of memory, and yet but yaw neither, in respect of his quick sail."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The perdition of the athversary hath been very great, reasonable great."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perdition catch my soul, But I do love thee!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (christianity) the abode of satan and the forces of evil; where sinners suffer eternal punishment; - john milton; ; -dr. johnson.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (christianity) the abode of satan and the forces of evil; where sinners suffer eternal punishment; - john milton; ; -dr. johnson.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, his definement suffers no perdition in you, though I know, to divide him inventorially would dizzy th’arithmetic of memory, and yet but yaw neither, in respect of his quick sail."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The perdition of the athversary hath been very great, reasonable great."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perdition catch my soul, But I do love thee!"*

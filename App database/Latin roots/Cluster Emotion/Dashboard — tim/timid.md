@@ -5,15 +5,6 @@ status: unread
 ---
 # timid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: People who are fearful and cautious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing fear and lack of confidence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"This made me, I dare say, more timid and retiring than I naturally was and cast me upon Dolly as the only friend with whom I felt at ease."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is a mild, bald, timid man with a shining head and a scrubby clump of black hair sticking out at the back."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, as a timid man, is accustomed to cough with a variety of expressions, and so to save words."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: People who are fearful and cautious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing fear and lack of confidence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"This made me, I dare say, more timid and retiring than I naturally was and cast me upon Dolly as the only friend with whom I felt at ease."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is a mild, bald, timid man with a shining head and a scrubby clump of black hair sticking out at the back."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, as a timid man, is accustomed to cough with a variety of expressions, and so to save words."*

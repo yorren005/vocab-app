@@ -5,13 +5,6 @@ status: unread
 ---
 # Chersonesus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several peninsulas: such as (1) Jutland (the Cimbrian Chersonese or Cimbric Chersonese); (2) the Malay Peninsula (the Golden Chersonese); (3) Crimea (the Tauric Chersonese); (4) Gallipoli (the Thracian Chersonese).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several peninsulas: such as (1) Jutland (the Cimbrian Chersonese or Cimbric Chersonese); (2) the Malay Peninsula (the Golden Chersonese); (3) Crimea (the Tauric Chersonese); (4) Gallipoli (the Thracian Chersonese).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Chersonesus designates any of several peninsulas: such as (1) jutland (the cimbrian chersonese or cimbric chersonese); (2) the malay peninsula (the golden chersonese); (3) crimea (the tauric chersonese); (4) gallipoli (the thracian chersonese)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several peninsulas: such as (1) Jutland (the Cimbrian Chersonese or Cimbric Chersonese); (2) the Malay Peninsula (the Golden Chersonese); (3) Crimea (the Tauric Chersonese); (4) Gallipoli (the Thracian Chersonese).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several peninsulas: such as (1) Jutland (the Cimbrian Chersonese or Cimbric Chersonese); (2) the Malay Peninsula (the Golden Chersonese); (3) Crimea (the Tauric Chersonese); (4) Gallipoli (the Thracian Chersonese).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Chersonesus designates any of several peninsulas: such as (1) jutland (the cimbrian chersonese or cimbric chersonese); (2) the malay peninsula (the golden chersonese); (3) crimea (the tauric chersonese); (4) gallipoli (the thracian chersonese)."*

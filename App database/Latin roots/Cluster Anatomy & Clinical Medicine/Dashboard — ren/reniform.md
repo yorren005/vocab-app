@@ -5,14 +5,6 @@ status: unread
 ---
 # reniform
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a leaf or bean shape) resembling the shape of kidney.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a leaf or bean shape) resembling the shape of kidney.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spore then emits a curved and obtuse tube, which soon ceasing to elongate itself, gives origin to three or four sporidia, of a reniform or kidney shape."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Most of these reniform sporidia disengage themselves from the filaments on which they are produced, and either elongate themselves into a simple and uniform filament, or swell at the extremity as if to reproduce a second spore."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a leaf or bean shape) resembling the shape of kidney.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a leaf or bean shape) resembling the shape of kidney.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spore then emits a curved and obtuse tube, which soon ceasing to elongate itself, gives origin to three or four sporidia, of a reniform or kidney shape."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Most of these reniform sporidia disengage themselves from the filaments on which they are produced, and either elongate themselves into a simple and uniform filament, or swell at the extremity as if to reproduce a second spore."*

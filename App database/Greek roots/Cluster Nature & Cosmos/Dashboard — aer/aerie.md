@@ -5,13 +5,6 @@ status: unread
 ---
 # aerie
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The nest of a bird on a cliff or a mountaintop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brood of birds of prey.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, their endeavour keeps in the wonted pace; but there is, sir, an aerie of children, little eyases, that cry out on the top of question, and are most tyrannically clapped for’t."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The nest of a bird on a cliff or a mountaintop.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brood of birds of prey.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, their endeavour keeps in the wonted pace; but there is, sir, an aerie of children, little eyases, that cry out on the top of question, and are most tyrannically clapped for’t."*

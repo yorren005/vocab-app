@@ -5,14 +5,6 @@ status: unread
 ---
 # portraying
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A representation by picture or portraiture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Portray in words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I am portraying this hardy companion as I really knew him."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Do you, for instance, like portraying maternal tenderness on the stage?” “Maternal tenderness,” said Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A representation by picture or portraiture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Portray in words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I am portraying this hardy companion as I really knew him."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Do you, for instance, like portraying maternal tenderness on the stage?” “Maternal tenderness,” said Mrs."*

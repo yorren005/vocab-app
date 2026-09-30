@@ -5,15 +5,6 @@ status: unread
 ---
 # pod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The vessel that contains the seeds of a plant (not the seeds themselves).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A several-seeded dehiscent fruit as e.g. of a leguminous plant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There were eight whales, an average pod."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Whether this whale belonged to the pod in advance, seemed questionable; for it is not customary for such venerable leviathans to be at all social."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He imagined only important possibilities: “If the enemy attacks the right flank,” he said to himself, “the Kiev grenadiers and the Podólsk chasseurs must hold their position till reserves from the center come up."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vessel that contains the seeds of a plant (not the seeds themselves).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A several-seeded dehiscent fruit as e.g. of a leguminous plant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There were eight whales, an average pod."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Whether this whale belonged to the pod in advance, seemed questionable; for it is not customary for such venerable leviathans to be at all social."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He imagined only important possibilities: “If the enemy attacks the right flank,” he said to himself, “the Kiev grenadiers and the Podólsk chasseurs must hold their position till reserves from the center come up."*

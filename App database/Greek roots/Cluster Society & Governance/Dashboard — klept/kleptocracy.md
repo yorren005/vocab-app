@@ -5,13 +5,6 @@ status: unread
 ---
 # kleptocracy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by those who seek chiefly status and personal gain at the expense of the governed; also : a particular government of this kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Government by those who seek chiefly status and personal gain at the expense of the governed; also : a particular government of this kind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kleptocracy designates government by those who seek chiefly status and personal gain at the expense of the governed; also : a particular government of this kind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by those who seek chiefly status and personal gain at the expense of the governed; also : a particular government of this kind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Government by those who seek chiefly status and personal gain at the expense of the governed; also : a particular government of this kind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kleptocracy designates government by those who seek chiefly status and personal gain at the expense of the governed; also : a particular government of this kind."*

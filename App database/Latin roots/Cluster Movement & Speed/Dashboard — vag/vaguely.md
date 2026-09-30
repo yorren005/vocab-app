@@ -5,15 +5,6 @@ status: unread
 ---
 # vaguely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vague way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a vague way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And not the least amazing circumstance connected with her being vaguely the town talk is that people hovering on the confines of Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her eyes vaguely rested upon the remotest trees in the lane while the kiss was given, as though she were nearly unconscious of what he did."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Such impressions as these moved her vaguely, and without strict definiteness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vague way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a vague way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"And not the least amazing circumstance connected with her being vaguely the town talk is that people hovering on the confines of Mr."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her eyes vaguely rested upon the remotest trees in the lane while the kiss was given, as though she were nearly unconscious of what he did."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Such impressions as these moved her vaguely, and without strict definiteness."*

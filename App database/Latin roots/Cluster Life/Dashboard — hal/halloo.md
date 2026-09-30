@@ -5,15 +5,6 @@ status: unread
 ---
 # halloo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shout to attract attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Urge on with shouts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Backing their oars and putting the boat about, they pulled towards him with a will, and in five or six minutes from the time of his first halloo, two of the sailors hauled him in over the stern."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The language of my heart was, 'Bless the Lord.' "As I turned and was going out of the woods, I heard a voice saying, 'Halloo.' As I had seen no one, and knew not that any human being was near, I was surprised at this greeting."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Halloo!' said the stranger,' I never heard such a prayer in my life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shout to attract attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Urge on with shouts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Backing their oars and putting the boat about, they pulled towards him with a will, and in five or six minutes from the time of his first halloo, two of the sailors hauled him in over the stern."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The language of my heart was, 'Bless the Lord.' "As I turned and was going out of the woods, I heard a voice saying, 'Halloo.' As I had seen no one, and knew not that any human being was near, I was surprised at this greeting."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Halloo!' said the stranger,' I never heard such a prayer in my life."*

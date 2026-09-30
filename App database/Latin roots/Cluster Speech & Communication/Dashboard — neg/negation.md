@@ -5,15 +5,6 @@ status: unread
 ---
 # negation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A negative statement; a statement that is a refusal or denial of some other statement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The speech act of negating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, my negation hath no taste of madness."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Nobody would know.” She shook her head, but with a weakened negation."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The soundlessness impressed her as a positive entity rather than as the mere negation of noise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A negative statement; a statement that is a refusal or denial of some other statement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The speech act of negating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, my negation hath no taste of madness."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Nobody would know.” She shook her head, but with a weakened negation."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The soundlessness impressed her as a positive entity rather than as the mere negation of noise."*

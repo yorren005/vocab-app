@@ -5,15 +5,6 @@ status: unread
 ---
 # desist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Choose not to consume.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Choose not to consume.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In case this should be so, or in case you should entertain much thought of me in what you are doing, I most earnestly entreat and beg you to desist."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"My friends could not realize the completeness of the cure, until I read a full hour, and that by lamp-light, and until asked to desist, the first opportunity after being healed."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Desist, for shame!—proceed no further; God won’t accept your thanks for Murther!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Choose not to consume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Choose not to consume.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"In case this should be so, or in case you should entertain much thought of me in what you are doing, I most earnestly entreat and beg you to desist."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"My friends could not realize the completeness of the cure, until I read a full hour, and that by lamp-light, and until asked to desist, the first opportunity after being healed."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Desist, for shame!—proceed no further; God won’t accept your thanks for Murther!"*

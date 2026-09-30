@@ -5,15 +5,6 @@ status: unread
 ---
 # appreciably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a noticeable degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a noticeable degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Bimetallism may be legally authorized, but not actually working, for, if the market-value long continues to vary appreciably from the legal ratio, only one of the metals may in fact be left in circulation."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A _protective tariff_ is a schedule of import duties so arranged as to give appreciably higher prices to some domestic enterprises than they could obtain with free trade."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But as applied to selected articles which it is desired to exclude in order to "protect" the domestic producer, this principle would simply prevent the rate being placed appreciably higher than was needed to exclude them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a noticeable degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a noticeable degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Bimetallism may be legally authorized, but not actually working, for, if the market-value long continues to vary appreciably from the legal ratio, only one of the metals may in fact be left in circulation."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A _protective tariff_ is a schedule of import duties so arranged as to give appreciably higher prices to some domestic enterprises than they could obtain with free trade."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But as applied to selected articles which it is desired to exclude in order to "protect" the domestic producer, this principle would simply prevent the rate being placed appreciably higher than was needed to exclude them."*

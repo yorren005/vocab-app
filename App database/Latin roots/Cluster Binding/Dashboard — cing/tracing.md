@@ -5,15 +5,6 @@ status: unread
 ---
 # tracing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of drawing a plan or diagram or outline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drawing created by superimposing a semitransparent sheet of paper on the original image and copying on it the lines of the original image.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The weather had for some time been too wet and the night itself had been too wet to admit of any tracing by footsteps."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If he be tracing out his destiny, that may be written in other characters nearer to his hand."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is whispering and wondering all day, strict search of every corner, careful tracing of steps, and careful noting of the disposition of every article of furniture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of drawing a plan or diagram or outline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drawing created by superimposing a semitransparent sheet of paper on the original image and copying on it the lines of the original image.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The weather had for some time been too wet and the night itself had been too wet to admit of any tracing by footsteps."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"If he be tracing out his destiny, that may be written in other characters nearer to his hand."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There is whispering and wondering all day, strict search of every corner, careful tracing of steps, and careful noting of the disposition of every article of furniture."*

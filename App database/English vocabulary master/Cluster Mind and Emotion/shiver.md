@@ -5,20 +5,6 @@ status: unread
 ---
 # shiver
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: The act of shivering
-> 2. **Nuance / Usage**: Undergo trembling : quiver
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the shiver withstood the storm*), direct object (*cleaved the shiver*), or prepositional anchor (*amidst the shiver*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"recurred to him, and a disagreeable shiver ran down his back."*
-> - 📜 **Bram Stoker (*Dracula*):** *"quicksand shake and shiver at the incoming of the tide."*
-> - 📜 **Walter Scott (*Ivanhoe*):** *"they are not worth the shiver of a broken lance?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To tremble or vibrate slightly and involuntarily from cold, fear, or sudden emotional excitement; as a noun, a momentary quivering sensation.
+> 2. **Nuance / Usage**: From a distinct Middle English root (*scifre*), to shatter or break violently into small splinters or fragments (as a lance or glass).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the shiver withstood the storm*), direct object (*cleaved the shiver*), or prepositional anchor (*amidst the shiver*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The thought of what awaited him recurred to his mind, and a disagreeable **shiver** ran down his back."*
+> - 📜 **Bram Stoker (*Dracula*):** *"I could see the quicksand shake and **shiver** at the incoming of the tide."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"Thinkest thou that such honours are not worth the **shiver** of a broken lance?"*

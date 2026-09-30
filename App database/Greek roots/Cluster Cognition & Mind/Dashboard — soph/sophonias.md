@@ -5,13 +5,6 @@ status: unread
 ---
 # sophonias
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hebrew minor prophet of the late 7th century bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old testament book telling the prophecies of zephaniah which are concerned mainly with the approaching judgment by god upon the sinners of judah.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sophonias designates a hebrew minor prophet of the late 7th century bc."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hebrew minor prophet of the late 7th century bc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old testament book telling the prophecies of zephaniah which are concerned mainly with the approaching judgment by god upon the sinners of judah.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sophonias designates a hebrew minor prophet of the late 7th century bc."*

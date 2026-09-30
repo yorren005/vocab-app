@@ -5,13 +5,6 @@ status: unread
 ---
 # unsentimental
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Facing facts or difficulties realistically and with determination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Facing facts or difficulties realistically and with determination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsentimental designates facing facts or difficulties realistically and with determination."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Facing facts or difficulties realistically and with determination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Facing facts or difficulties realistically and with determination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsentimental designates facing facts or difficulties realistically and with determination."*

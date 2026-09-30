@@ -5,13 +5,6 @@ status: unread
 ---
 # nasser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Egyptian statesman who nationalized the suez canal (1918-1970).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lake in egypt formed by dams built on the nile river at aswan.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nasser designates egyptian statesman who nationalized the suez canal (1918-1970)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Egyptian statesman who nationalized the suez canal (1918-1970).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lake in egypt formed by dams built on the nile river at aswan.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nasser designates egyptian statesman who nationalized the suez canal (1918-1970)."*

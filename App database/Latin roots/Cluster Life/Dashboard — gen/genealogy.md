@@ -5,15 +5,6 @@ status: unread
 ---
 # genealogy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Successive generations of kin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study or investigation of ancestry and family history.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"They appear now as brothers, now as parents, now as sisters of one another; the task of unravelling their genealogy would be as difficult as it is pointless."*
-> - 📜 **George Eliot (*Middlemarch*):** *"So our mercurial Ladislaw has a queer genealogy!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke’s attention to this ugly bit of Ladislaw’s genealogy, as a fresh candle for him to see his own folly by."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Successive generations of kin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study or investigation of ancestry and family history.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"They appear now as brothers, now as parents, now as sisters of one another; the task of unravelling their genealogy would be as difficult as it is pointless."*
+> - 📜 **George Eliot (*Middlemarch*):** *"So our mercurial Ladislaw has a queer genealogy!"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke’s attention to this ugly bit of Ladislaw’s genealogy, as a fresh candle for him to see his own folly by."*

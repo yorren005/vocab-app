@@ -5,13 +5,6 @@ status: unread
 ---
 # extemporaneous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With little or no preparation or forethought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With little or no preparation or forethought.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Extemporaneous Effusion On being appointed to an Excise division."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With little or no preparation or forethought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With little or no preparation or forethought.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Extemporaneous Effusion On being appointed to an Excise division."*

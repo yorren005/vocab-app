@@ -5,14 +5,6 @@ status: unread
 ---
 # glutted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Overeat or eat immodestly; make a pig of oneself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply with an excess of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They watch the markets and direct their agents by telegraph to divert cars _en route_ away from markets that are glutted with products and into markets where prices are higher."*
-> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"I could with pleasure have destroyed the cottage and its inhabitants and have glutted myself with their shrieks and misery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Overeat or eat immodestly; make a pig of oneself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply with an excess of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They watch the markets and direct their agents by telegraph to divert cars _en route_ away from markets that are glutted with products and into markets where prices are higher."*
+> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"I could with pleasure have destroyed the cottage and its inhabitants and have glutted myself with their shrieks and misery."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # cryptogam
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formerly recognized taxonomic group including all flowerless and seedless plants that reproduce by means of spores: ferns, mosses, algae, fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formerly recognized taxonomic group including all flowerless and seedless plants that reproduce by means of spores: ferns, mosses, algae, fungi.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"For many years he has toiled earnestly and vigorously at the lower cryptogams, as evidenced by his “Scottish Cryptogamic Flora,” published in 1823; and yet his continual additions to the records of science show him to be earnest and vigorous still."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formerly recognized taxonomic group including all flowerless and seedless plants that reproduce by means of spores: ferns, mosses, algae, fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formerly recognized taxonomic group including all flowerless and seedless plants that reproduce by means of spores: ferns, mosses, algae, fungi.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"For many years he has toiled earnestly and vigorously at the lower cryptogams, as evidenced by his “Scottish Cryptogamic Flora,” published in 1823; and yet his continual additions to the records of science show him to be earnest and vigorous still."*

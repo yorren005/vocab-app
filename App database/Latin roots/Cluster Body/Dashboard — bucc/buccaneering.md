@@ -5,13 +5,6 @@ status: unread
 ---
 # buccaneering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hijacking on the high seas or in similar contexts; taking a ship or plane away from the control of those who are legally entitled to it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Live like a buccaneer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"On this buccaneering expedition, Rear Admiral Du Petit Thouars, leaving the rest of his squadron at the Marquesas,--which had then been occupied by his forces about five months--set sail for the doomed island in the Reine Blanche frigate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hijacking on the high seas or in similar contexts; taking a ship or plane away from the control of those who are legally entitled to it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Live like a buccaneer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"On this buccaneering expedition, Rear Admiral Du Petit Thouars, leaving the rest of his squadron at the Marquesas,--which had then been occupied by his forces about five months--set sail for the doomed island in the Reine Blanche frigate."*

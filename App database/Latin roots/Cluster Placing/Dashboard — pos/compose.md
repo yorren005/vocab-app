@@ -5,15 +5,6 @@ status: unread
 ---
 # compose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form the substance of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Write music.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If we compose well here, to Parthia."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring forth men-children only; For thy undaunted mettle should compose Nothing but males."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He sees her consciousness return, sees a tremor pass across her frame like a ripple over water, sees her lips shake, sees her compose them by a great effort, sees her force herself back to the knowledge of his presence and of what he has said."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Form the substance of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Write music.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If we compose well here, to Parthia."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring forth men-children only; For thy undaunted mettle should compose Nothing but males."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He sees her consciousness return, sees a tremor pass across her frame like a ripple over water, sees her lips shake, sees her compose them by a great effort, sees her force herself back to the knowledge of his presence and of what he has said."*

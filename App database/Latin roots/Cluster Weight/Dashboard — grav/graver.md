@@ -5,15 +5,6 @@ status: unread
 ---
 # graver
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tool used by an engraver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dignified and somber in manner or character and committed to keeping promises.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our graver business Frowns at this levity.—Gentle lords, let’s part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They choose their magistrate, And such a one as he, who puts his “shall,” His popular “shall,” against a graver bench Than ever frowned in Greece."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is but a custom in your tongue; you bear a graver purpose, I hope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tool used by an engraver.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dignified and somber in manner or character and committed to keeping promises.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our graver business Frowns at this levity.—Gentle lords, let’s part."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They choose their magistrate, And such a one as he, who puts his “shall,” His popular “shall,” against a graver bench Than ever frowned in Greece."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is but a custom in your tongue; you bear a graver purpose, I hope."*

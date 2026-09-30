@@ -5,14 +5,6 @@ status: unread
 ---
 # anaesthetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of feeling, sensation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of feeling, sensation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"The arm was badly broken, too badly to be set without an anaesthetic."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Then they went back to the house, where presently Burns came out from under his anaesthetic and lay looking at his guests from under the bandage which swathed his head."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of feeling, sensation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of feeling, sensation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"The arm was badly broken, too badly to be set without an anaesthetic."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Then they went back to the house, where presently Burns came out from under his anaesthetic and lay looking at his guests from under the bandage which swathed his head."*

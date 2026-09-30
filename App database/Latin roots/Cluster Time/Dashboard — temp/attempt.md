@@ -5,15 +5,6 @@ status: unread
 ---
 # attempt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Earnest and conscientious activity intended to do or accomplish something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of attacking.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll stay at home, And pray God’s blessing into thy attempt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know not what the success will be, my lord, but the attempt I vow."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We pray you for your own sake to embrace your own safety and give over this attempt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Earnest and conscientious activity intended to do or accomplish something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of attacking.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll stay at home, And pray God’s blessing into thy attempt."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know not what the success will be, my lord, but the attempt I vow."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We pray you for your own sake to embrace your own safety and give over this attempt."*

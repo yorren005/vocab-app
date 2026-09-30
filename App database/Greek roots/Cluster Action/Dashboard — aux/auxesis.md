@@ -5,14 +5,6 @@ status: unread
 ---
 # auxesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical device whereby the subject matter is made greater, particularly
-  Overstatement, hyperbole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overstatement, hyperbole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auxesis designates a rhetorical device whereby the subject matter is made greater, particularly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical device whereby the subject matter is made greater, particularly
+  Overstatement, hyperbole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overstatement, hyperbole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auxesis designates a rhetorical device whereby the subject matter is made greater, particularly."*

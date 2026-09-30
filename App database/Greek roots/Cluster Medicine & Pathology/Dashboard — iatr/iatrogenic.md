@@ -5,13 +5,6 @@ status: unread
 ---
 # iatrogenic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Induced unintentionally by a physician or surgeon or by medical treatment or diagnostic procedures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Induced unintentionally by a physician or surgeon or by medical treatment or diagnostic procedures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, iatrogenic designates induced unintentionally by a physician or surgeon or by medical treatment or diagnostic procedures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Induced unintentionally by a physician or surgeon or by medical treatment or diagnostic procedures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Induced unintentionally by a physician or surgeon or by medical treatment or diagnostic procedures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, iatrogenic designates induced unintentionally by a physician or surgeon or by medical treatment or diagnostic procedures."*

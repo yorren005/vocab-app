@@ -5,13 +5,6 @@ status: unread
 ---
 # psychopath
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mentally unstable person; especially : a person having an egocentric and antisocial personality marked by a lack of remorse for one's actions, an absence of empathy for others, and often criminal tendencies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mentally unstable person; especially : a person having an egocentric and antisocial personality marked by a lack of remorse for one's actions, an absence of empathy for others, and often criminal tendencies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychopath designates a mentally unstable person; especially : a person having an egocentric and antisocial personality marked by a lack of remorse for one's actions, an absence of empathy for others, and often criminal tendencies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mentally unstable person; especially : a person having an egocentric and antisocial personality marked by a lack of remorse for one's actions, an absence of empathy for others, and often criminal tendencies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mentally unstable person; especially : a person having an egocentric and antisocial personality marked by a lack of remorse for one's actions, an absence of empathy for others, and often criminal tendencies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychopath designates a mentally unstable person; especially : a person having an egocentric and antisocial personality marked by a lack of remorse for one's actions, an absence of empathy for others, and often criminal tendencies."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # hospital
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A health facility where patients receive treatment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical institution where sick or injured people are given medical or surgical care.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, befall what will befall, I’ll jest a twelvemonth in an hospital."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The doctor's advice was to bring the young invalid to the hospital in Sils, where she would be well taken care of and he could see her every day."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Oh, Philip, how could you ever advise them to send her to the hospital?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A health facility where patients receive treatment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical institution where sick or injured people are given medical or surgical care.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, befall what will befall, I’ll jest a twelvemonth in an hospital."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The doctor's advice was to bring the young invalid to the hospital in Sils, where she would be well taken care of and he could see her every day."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Oh, Philip, how could you ever advise them to send her to the hospital?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # ferrimagnetism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phenomenon in ferrites where there can be incomplete cancellation of antiferromagnetic arranged spins giving a net magnetic moment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A phenomenon in ferrites where there can be incomplete cancellation of antiferromagnetic arranged spins giving a net magnetic moment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferrimagnetism designates a phenomenon in ferrites where there can be incomplete cancellation of antiferromagnetic arranged spins giving a net magnetic moment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phenomenon in ferrites where there can be incomplete cancellation of antiferromagnetic arranged spins giving a net magnetic moment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A phenomenon in ferrites where there can be incomplete cancellation of antiferromagnetic arranged spins giving a net magnetic moment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferrimagnetism designates a phenomenon in ferrites where there can be incomplete cancellation of antiferromagnetic arranged spins giving a net magnetic moment."*

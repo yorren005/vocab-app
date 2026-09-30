@@ -5,14 +5,6 @@ status: unread
 ---
 # themistocles
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Athenian statesman who persuaded athens to build a navy and then led it to victory over the persians (527-460 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Athenian statesman who persuaded athens to build a navy and then led it to victory over the persians (527-460 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Lives of Pericles and Themistocles, for instance, are little more than mere collectanea from sources widely discrepant, and often quite worthless."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Themistocles, orator, statesman and chieftain, was banished and died in exile."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Athenian statesman who persuaded athens to build a navy and then led it to victory over the persians (527-460 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Athenian statesman who persuaded athens to build a navy and then led it to victory over the persians (527-460 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Lives of Pericles and Themistocles, for instance, are little more than mere collectanea from sources widely discrepant, and often quite worthless."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Themistocles, orator, statesman and chieftain, was banished and died in exile."*

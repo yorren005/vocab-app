@@ -5,15 +5,6 @@ status: unread
 ---
 # confluence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A place where things merge or flow together (especially rivers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flowing together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You see this confluence, this great flood of visitors."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This singular accident, by a strange confluence of emotions in him, was felt as the sharpest sting of all."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Opposite the spot to which he had brought her was such a general confluence, and the river was proportionately voluminous and deep."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A place where things merge or flow together (especially rivers).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flowing together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You see this confluence, this great flood of visitors."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This singular accident, by a strange confluence of emotions in him, was felt as the sharpest sting of all."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Opposite the spot to which he had brought her was such a general confluence, and the river was proportionately voluminous and deep."*

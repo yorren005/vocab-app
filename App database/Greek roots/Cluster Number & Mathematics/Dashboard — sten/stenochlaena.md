@@ -5,13 +5,6 @@ status: unread
 ---
 # stenochlaena
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large tropical ferns; some epiphytic climbers and some terrestrial bog ferns; africa; asia; australasia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large tropical ferns; some epiphytic climbers and some terrestrial bog ferns; africa; asia; australasia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stenochlaena designates large tropical ferns; some epiphytic climbers and some terrestrial bog ferns; africa; asia; australasia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large tropical ferns; some epiphytic climbers and some terrestrial bog ferns; africa; asia; australasia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large tropical ferns; some epiphytic climbers and some terrestrial bog ferns; africa; asia; australasia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stenochlaena designates large tropical ferns; some epiphytic climbers and some terrestrial bog ferns; africa; asia; australasia."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # unequalized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not caused to be equal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not caused to be equal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The losses of wages meantime remain unequalized by insurance indemnities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not caused to be equal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not caused to be equal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The losses of wages meantime remain unequalized by insurance indemnities."*

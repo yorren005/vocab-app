@@ -5,15 +5,6 @@ status: unread
 ---
 # agriculturist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone concerned with the science or art or business of cultivating the soil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone concerned with the science or art or business of cultivating the soil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In contemplating Bathsheba as a woman, he had forgotten the accidents of her position as an agriculturist—that being as much of a farmer, and as extensive a farmer, as himself, her probable whereabouts was out-of-doors at this time of the year."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He did not milk cows because he was obliged to milk cows, but because he was learning to be a rich and prosperous dairyman, landowner, agriculturist, and breeder of cattle."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He said that fate or Providence had thrown in his way a woman who possessed every qualification to be the helpmate of an agriculturist, and was decidedly of a serious turn of mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone concerned with the science or art or business of cultivating the soil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone concerned with the science or art or business of cultivating the soil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In contemplating Bathsheba as a woman, he had forgotten the accidents of her position as an agriculturist—that being as much of a farmer, and as extensive a farmer, as himself, her probable whereabouts was out-of-doors at this time of the year."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He did not milk cows because he was obliged to milk cows, but because he was learning to be a rich and prosperous dairyman, landowner, agriculturist, and breeder of cattle."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He said that fate or Providence had thrown in his way a woman who possessed every qualification to be the helpmate of an agriculturist, and was decidedly of a serious turn of mind."*

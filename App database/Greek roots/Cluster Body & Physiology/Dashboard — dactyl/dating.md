@@ -5,15 +5,6 @@ status: unread
 ---
 # dating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Use of chemical analysis to estimate the age of geological specimens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Go on a date with.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The family at Millknowe, consisting at this time of three brothers and two sisters, all of whom had reached middle life, were relatives of his father, the connection dating from the time when his forebears were farmers in the same region."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He therefore wrote a receipt in full of all accounts against the man, and dating it in the woods, where he had prayed, signed it with his own name."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Within the old house with its corner dating from King John's time--so long ago!--was comfort."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Use of chemical analysis to estimate the age of geological specimens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Go on a date with.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"The family at Millknowe, consisting at this time of three brothers and two sisters, all of whom had reached middle life, were relatives of his father, the connection dating from the time when his forebears were farmers in the same region."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"He therefore wrote a receipt in full of all accounts against the man, and dating it in the woods, where he had prayed, signed it with his own name."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Within the old house with its corner dating from King John's time--so long ago!--was comfort."*

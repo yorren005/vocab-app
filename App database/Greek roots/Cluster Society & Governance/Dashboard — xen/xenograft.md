@@ -5,13 +5,6 @@ status: unread
 ---
 # xenograft
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graft of tissue taken from a donor of one species and grafted into a recipient of another species —called also heterograft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graft of tissue taken from a donor of one species and grafted into a recipient of another species —called also heterograft.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenograft designates a graft of tissue taken from a donor of one species and grafted into a recipient of another species —called also heterograft."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graft of tissue taken from a donor of one species and grafted into a recipient of another species —called also heterograft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graft of tissue taken from a donor of one species and grafted into a recipient of another species —called also heterograft.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenograft designates a graft of tissue taken from a donor of one species and grafted into a recipient of another species —called also heterograft."*

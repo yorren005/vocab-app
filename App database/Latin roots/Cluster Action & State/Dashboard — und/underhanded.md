@@ -5,15 +5,6 @@ status: unread
 ---
 # underhanded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by deception.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With hand brought forward and up from below shoulder level.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Esther,” Richard resumed, “you are not to suppose that I have come here to make underhanded charges against John Jarndyce."*
-> - 📜 **Effie Afton (*Eventide*):** *"But some folks always like to be so sly and underhanded." "Stop your clack!" said the master, turning toward her with an angry glance, "and get a bite of something to eat while she is putting her water on and building a fire."*
-> - 📜 **Effie Afton (*Eventide*):** *"I hate this sly, underhanded work."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by deception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With hand brought forward and up from below shoulder level.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Esther,” Richard resumed, “you are not to suppose that I have come here to make underhanded charges against John Jarndyce."*
+> - 📜 **Effie Afton (*Eventide*):** *"But some folks always like to be so sly and underhanded." "Stop your clack!" said the master, turning toward her with an angry glance, "and get a bite of something to eat while she is putting her water on and building a fire."*
+> - 📜 **Effie Afton (*Eventide*):** *"I hate this sly, underhanded work."*

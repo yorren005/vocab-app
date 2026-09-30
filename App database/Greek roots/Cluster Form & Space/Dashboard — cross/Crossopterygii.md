@@ -5,13 +5,6 @@ status: unread
 ---
 # crossopterygii
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fishes having paired fins resembling limbs and regarded as ancestral to amphibians.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fishes having paired fins resembling limbs and regarded as ancestral to amphibians.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Crossopterygii designates fishes having paired fins resembling limbs and regarded as ancestral to amphibians."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fishes having paired fins resembling limbs and regarded as ancestral to amphibians.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fishes having paired fins resembling limbs and regarded as ancestral to amphibians.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Crossopterygii designates fishes having paired fins resembling limbs and regarded as ancestral to amphibians."*

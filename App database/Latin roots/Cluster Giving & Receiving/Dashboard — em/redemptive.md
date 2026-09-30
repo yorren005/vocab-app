@@ -5,13 +5,6 @@ status: unread
 ---
 # redemptive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resulting in redemption; - e.k.brown.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bringing about salvation or redemption from sin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The excesses of a man of genius are generally touched by the {314} imagination, and therein lies at once their peculiar danger, and also something redemptive that promises another future."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resulting in redemption; - e.k.brown.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bringing about salvation or redemption from sin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The excesses of a man of genius are generally touched by the {314} imagination, and therein lies at once their peculiar danger, and also something redemptive that promises another future."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # streptomycin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic produced by the actinomycete streptomyces griseus and used to treat tuberculosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibiotic produced by the actinomycete streptomyces griseus and used to treat tuberculosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptomycin designates an antibiotic produced by the actinomycete streptomyces griseus and used to treat tuberculosis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic produced by the actinomycete streptomyces griseus and used to treat tuberculosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibiotic produced by the actinomycete streptomyces griseus and used to treat tuberculosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, streptomycin designates an antibiotic produced by the actinomycete streptomyces griseus and used to treat tuberculosis."*

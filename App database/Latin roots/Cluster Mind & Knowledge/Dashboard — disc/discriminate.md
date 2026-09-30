@@ -5,15 +5,6 @@ status: unread
 ---
 # discriminate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recognize or perceive the difference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat differently on the basis of sex or race.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Women do not discriminate the lawful from the unlawful: so long as they produce an effect, it does not matter to them.' This gave me a strange impression, for it seemed to me that M. le Curé was abandoning his own side."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If union and non-union men work side by side there are many ways in which the employer is able to discriminate so as gradually to break down the union."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I listened long: suddenly I discovered that my ear was wholly intent on analysing the mingled sounds, and trying to discriminate amidst the confusion of accents those of Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Recognize or perceive the difference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat differently on the basis of sex or race.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Women do not discriminate the lawful from the unlawful: so long as they produce an effect, it does not matter to them.' This gave me a strange impression, for it seemed to me that M. le Curé was abandoning his own side."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If union and non-union men work side by side there are many ways in which the employer is able to discriminate so as gradually to break down the union."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I listened long: suddenly I discovered that my ear was wholly intent on analysing the mingled sounds, and trying to discriminate amidst the confusion of accents those of Mr."*

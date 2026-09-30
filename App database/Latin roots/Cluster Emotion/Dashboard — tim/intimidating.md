@@ -5,15 +5,6 @@ status: unread
 ---
 # intimidating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make timid or fearful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To compel or deter by or as if by threats.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It can affect the supply either by lessening its own output or by intimidating and forcing out its competitors."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"These sights and sounds had no depressing or intimidating effect on him; on the contrary, they stimulated his energy and determination."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Crabshaw, according to Sir Launcelot's command, had alighted from his horse, and drawn his cutlass, in hope of intimidating the discomfited robber into a tame surrender, though he did not at all relish the nature of the service."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make timid or fearful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To compel or deter by or as if by threats.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It can affect the supply either by lessening its own output or by intimidating and forcing out its competitors."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"These sights and sounds had no depressing or intimidating effect on him; on the contrary, they stimulated his energy and determination."*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Crabshaw, according to Sir Launcelot's command, had alighted from his horse, and drawn his cutlass, in hope of intimidating the discomfited robber into a tame surrender, though he did not at all relish the nature of the service."*

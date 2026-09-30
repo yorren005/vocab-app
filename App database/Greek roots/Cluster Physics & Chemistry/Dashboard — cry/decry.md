@@ -5,15 +5,6 @@ status: unread
 ---
 # decry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express strong disapproval of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express strong disapproval of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"You will be married some day.” “Not to any one who is like Fred.” “Don’t decry your own brother, my dear."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When Correggio’s Holy Families were admired, they admired Correggio’s Holy Families; when he was decried in favour of Velasquez, they sedulously followed suit without any personal objection."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Although our productions have afforded more extensive and unaffected pleasure than those of any other literary corporation in the world, no species of composition has been so much decried."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Express strong disapproval of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express strong disapproval of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"You will be married some day.” “Not to any one who is like Fred.” “Don’t decry your own brother, my dear."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When Correggio’s Holy Families were admired, they admired Correggio’s Holy Families; when he was decried in favour of Velasquez, they sedulously followed suit without any personal objection."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Although our productions have afforded more extensive and unaffected pleasure than those of any other literary corporation in the world, no species of composition has been so much decried."*

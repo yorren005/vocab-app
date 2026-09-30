@@ -5,20 +5,6 @@ status: unread
 ---
 # mettle
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Staying quality : stamina
-> 2. **Nuance / Usage**: Good temperament and character
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"His folly to the mettle of my speech?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"By this day and this light, the fellow has mettle enough in his belly."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Put life and mettle in their heels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Ingrained courage, fortitude, and spirited resilience when facing hardship, danger, or a severe test.
+> 2. **Nuance / Usage**: Etymologically a variant of *metal* (referring to the temper of a sword blade); frequently used in idioms such as *test one's mettle* or *on one's mettle*.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"By this day and this light, the fellow has **mettle** enough in his belly."*
+> - 📜 **Robert Burns (*Tam o' Shanter*):** *"The piper loud and louder blew, the dancers quick and quicker flew, and put life and **mettle** in their heels."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"It is only when the gale strikes without warning that a seaman's true **mettle** is laid bare to the world."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # proboscis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The human nose (especially when it is large).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long flexible snout as of an elephant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Another very common mode of sacrifice in the same district was to fasten the victim to the proboscis of a wooden elephant, which revolved on a stout post, and, as it whirled round, the crowd cut the flesh from the victim while life remained."*
-> - 📜 **James Joyce (*Ulysses*):** *"SOPHIST WALLOPS HAUGHTY HELEN SQUARE ON PROBOSCIS."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The human nose (especially when it is large).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long flexible snout as of an elephant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Another very common mode of sacrifice in the same district was to fasten the victim to the proboscis of a wooden elephant, which revolved on a stout post, and, as it whirled round, the crowd cut the flesh from the victim while life remained."*
+> - 📜 **James Joyce (*Ulysses*):** *"SOPHIST WALLOPS HAUGHTY HELEN SQUARE ON PROBOSCIS."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # irradiate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give spiritual insight to; in religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cast rays of light upon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For, d’ye see, rainbows do not visit the clear air; they only irradiate vapor."*
-> - 📜 **John Milton (*Paradise Lost*):** *"So much the rather thou Celestial light Shine inward, and the mind through all her powers Irradiate, there plant eyes, all mist from thence Purge and disperse, that I may see and tell Of things invisible to mortal sight."*
-> - 📜 **John Milton (*Paradise Lost*):** *"So much the rather thou, celestial Light, Shine inward, and the mind through all her powers Irradiate; there plant eyes, all mist from thence Purge and disperse, that I may see and tell Of things invisible to mortal sight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give spiritual insight to; in religion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cast rays of light upon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For, d’ye see, rainbows do not visit the clear air; they only irradiate vapor."*
+> - 📜 **John Milton (*Paradise Lost*):** *"So much the rather thou Celestial light Shine inward, and the mind through all her powers Irradiate, there plant eyes, all mist from thence Purge and disperse, that I may see and tell Of things invisible to mortal sight."*
+> - 📜 **John Milton (*Paradise Lost*):** *"So much the rather thou, celestial Light, Shine inward, and the mind through all her powers Irradiate; there plant eyes, all mist from thence Purge and disperse, that I may see and tell Of things invisible to mortal sight."*

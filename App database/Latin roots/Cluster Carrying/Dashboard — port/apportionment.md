@@ -5,15 +5,6 @@ status: unread
 ---
 # apportionment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of distributing by allotting or apportioning; distribution according to a plan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of distributing by allotting or apportioning; distribution according to a plan.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The three of us were faithful Christians, and we made a practice of prayer each day before the apportionment of food."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Considered with reference to the possible maximum of welfare of the individuals themselves, the apportionment of their incomes in time is frequently woful."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Apportionment of Members Among the States FEDERALIST No."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of distributing by allotting or apportioning; distribution according to a plan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of distributing by allotting or apportioning; distribution according to a plan.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The three of us were faithful Christians, and we made a practice of prayer each day before the apportionment of food."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Considered with reference to the possible maximum of welfare of the individuals themselves, the apportionment of their incomes in time is frequently woful."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Apportionment of Members Among the States FEDERALIST No."*

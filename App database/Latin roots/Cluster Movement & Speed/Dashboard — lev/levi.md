@@ -5,15 +5,6 @@ status: unread
 ---
 # levi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (new testament) disciple of jesus; traditionally considered to be the author of the first gospel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (new testament) disciple of jesus; traditionally considered to be the author of the first gospel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Levi Everdene—that was the man’s name, sure. ‘Man,’ saith I in my hurry, but he were of a higher circle of life than that—’a was a gentleman-tailor really, worth scores of pounds."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Levi Everdene—that was the man’s name, sure enough. ‘Man,’ saith I in my hurry, but he were of a higher circle of life than that—’a was a gentleman-tailor really, worth scores of pounds."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Levi Boulter to pull down that dreadful old house on his upper farm wouldn’t that be an improvement?” “It certainly would,” admitted Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (new testament) disciple of jesus; traditionally considered to be the author of the first gospel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (new testament) disciple of jesus; traditionally considered to be the author of the first gospel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Levi Everdene—that was the man’s name, sure. ‘Man,’ saith I in my hurry, but he were of a higher circle of life than that—’a was a gentleman-tailor really, worth scores of pounds."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Levi Everdene—that was the man’s name, sure enough. ‘Man,’ saith I in my hurry, but he were of a higher circle of life than that—’a was a gentleman-tailor really, worth scores of pounds."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Levi Boulter to pull down that dreadful old house on his upper farm wouldn’t that be an improvement?” “It certainly would,” admitted Mrs."*

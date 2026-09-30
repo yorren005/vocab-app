@@ -5,15 +5,6 @@ status: unread
 ---
 # destitute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Poor enough to need help from others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely wanting or lacking.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, since your kindness We have stretch’d thus far, let us beseech you That for our gold we may provision have, Wherein we are not destitute for want, But weary for the staleness."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But take time!” What the destitute subject of such an offer tried to say, I need not repeat."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"How could you do otherwise, being totally destitute of the sympathies with which he overflows!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Poor enough to need help from others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely wanting or lacking.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, since your kindness We have stretch’d thus far, let us beseech you That for our gold we may provision have, Wherein we are not destitute for want, But weary for the staleness."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But take time!” What the destitute subject of such an offer tried to say, I need not repeat."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"How could you do otherwise, being totally destitute of the sympathies with which he overflows!"*

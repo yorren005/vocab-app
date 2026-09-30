@@ -5,13 +5,6 @@ status: unread
 ---
 # equiangular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having all angles equal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having all angles equal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equiangular designates having all angles equal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having all angles equal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having all angles equal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equiangular designates having all angles equal."*

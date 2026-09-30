@@ -5,15 +5,6 @@ status: unread
 ---
 # condescend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Behave in a patronizing and condescending manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Do something that one considers to be below one's dignity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where I was wont to feed you with my blood, I’ll lop a member off and give it you In earnest of a further benefit, So you do condescend to help me now. [_They hang their heads._] No hope to have redress?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll undertake to make thee Henry’s queen, To put a golden scepter in thy hand And set a precious crown upon thy head, If thou wilt condescend to be my— MARGARET."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, if your pretty granddaughter—excuse me, miss—will condescend to take care of this pipe for two months, we shall save the cost of one next time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Behave in a patronizing and condescending manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Do something that one considers to be below one's dignity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where I was wont to feed you with my blood, I’ll lop a member off and give it you In earnest of a further benefit, So you do condescend to help me now. [_They hang their heads._] No hope to have redress?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll undertake to make thee Henry’s queen, To put a golden scepter in thy hand And set a precious crown upon thy head, If thou wilt condescend to be my— MARGARET."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, if your pretty granddaughter—excuse me, miss—will condescend to take care of this pipe for two months, we shall save the cost of one next time."*

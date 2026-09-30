@@ -5,15 +5,6 @@ status: unread
 ---
 # missed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fail to perceive or to catch with the senses or the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feel or suffer from the lack of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your Coriolanus is not much missed But with his friends."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I missed the meteor once and hit that woman, who cried out “Clubs!” when I might see from far some forty truncheoners draw to her succour, which were the hope o’ th’ Strand, where she was quartered."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The moon being clouded presently is missed, But little stars may hide them when they list."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fail to perceive or to catch with the senses or the mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feel or suffer from the lack of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your Coriolanus is not much missed But with his friends."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I missed the meteor once and hit that woman, who cried out “Clubs!” when I might see from far some forty truncheoners draw to her succour, which were the hope o’ th’ Strand, where she was quartered."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The moon being clouded presently is missed, But little stars may hide them when they list."*

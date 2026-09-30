@@ -5,15 +5,6 @@ status: unread
 ---
 # artery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A blood vessel that carries blood from the heart to the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major thoroughfare that bears important traffic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My fate cries out, And makes each petty artery in this body As hardy as the Nemean lion’s nerve. [_Ghost beckons._] Still am I call’d."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He had frequently felt the same quick, hard beat in the femoral artery of his lambs when overdriven."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I could use a lancet with some skill, and could distinguish between vein and artery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A blood vessel that carries blood from the heart to the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major thoroughfare that bears important traffic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My fate cries out, And makes each petty artery in this body As hardy as the Nemean lion’s nerve. [_Ghost beckons._] Still am I call’d."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He had frequently felt the same quick, hard beat in the femoral artery of his lambs when overdriven."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I could use a lancet with some skill, and could distinguish between vein and artery."*

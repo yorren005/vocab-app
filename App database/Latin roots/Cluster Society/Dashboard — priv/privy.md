@@ -5,15 +5,6 @@ status: unread
 ---
 # privy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A room or building equipped with one or more toilets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small outbuilding with a bench having holes through which a user can defecate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You think none but your sheets are privy to your wishes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou art privy to thy country’s fate, Which, happily, foreknowing may avoid, O speak!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fiend hath pricked down Bardolph irrecoverable, and his face is Lucifer’s privy-kitchen, where he doth nothing but roast malt-worms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room or building equipped with one or more toilets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small outbuilding with a bench having holes through which a user can defecate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You think none but your sheets are privy to your wishes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou art privy to thy country’s fate, Which, happily, foreknowing may avoid, O speak!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fiend hath pricked down Bardolph irrecoverable, and his face is Lucifer’s privy-kitchen, where he doth nothing but roast malt-worms."*

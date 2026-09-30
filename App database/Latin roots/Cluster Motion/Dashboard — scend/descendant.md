@@ -5,15 +5,6 @@ status: unread
 ---
 # descendant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person considered as descended from some ancestor or race.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Going or coming down.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She would be able to look at them, and think not only that d’Urberville, like Babylon, had fallen, but that the individual innocence of a humble descendant could lapse as silently."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Never mind.” “I—I—am not a Durbeyfield, but a d’Urberville—a descendant of the same family as those that owned the old house we passed."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The inscription ran thus: In memory of John Durbeyfield, rightly d’Urberville, of the once powerful family of that Name, and Direct Descendant through an illustrious Line from Sir Pagan d’Urberville, one of the Knights of the Conqueror."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person considered as descended from some ancestor or race.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Going or coming down.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She would be able to look at them, and think not only that d’Urberville, like Babylon, had fallen, but that the individual innocence of a humble descendant could lapse as silently."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Never mind.” “I—I—am not a Durbeyfield, but a d’Urberville—a descendant of the same family as those that owned the old house we passed."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The inscription ran thus: In memory of John Durbeyfield, rightly d’Urberville, of the once powerful family of that Name, and Direct Descendant through an illustrious Line from Sir Pagan d’Urberville, one of the Knights of the Conqueror."*

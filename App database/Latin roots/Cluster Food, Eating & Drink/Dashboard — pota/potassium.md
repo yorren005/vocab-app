@@ -5,15 +5,6 @@ status: unread
 ---
 # potassium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light soft silver-white metallic element of the alkali metal group; oxidizes rapidly in air and reacts violently with water; is abundant in nature in combined forms occurring in sea water and in carnallite and kainite and sylvite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light soft silver-white metallic element of the alkali metal group; oxidizes rapidly in air and reacts violently with water; is abundant in nature in combined forms occurring in sea water and in carnallite and kainite and sylvite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In a thousand grammes are found 96½ per cent. of water, and about 2-2/3 per cent. of chloride of sodium; then, in a smaller quantity, chlorides of magnesium and of potassium, bromide of magnesium, sulphate of magnesia, sulphate and carbonate of lime."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The electrolyte is a solution of potassium hydroxide."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Alternatively, if potassium be brought into combination with it, there results potassium cyanide, which, with the assistance of water and oxygen, can dissolve gold."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light soft silver-white metallic element of the alkali metal group; oxidizes rapidly in air and reacts violently with water; is abundant in nature in combined forms occurring in sea water and in carnallite and kainite and sylvite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light soft silver-white metallic element of the alkali metal group; oxidizes rapidly in air and reacts violently with water; is abundant in nature in combined forms occurring in sea water and in carnallite and kainite and sylvite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In a thousand grammes are found 96½ per cent. of water, and about 2-2/3 per cent. of chloride of sodium; then, in a smaller quantity, chlorides of magnesium and of potassium, bromide of magnesium, sulphate of magnesia, sulphate and carbonate of lime."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The electrolyte is a solution of potassium hydroxide."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Alternatively, if potassium be brought into combination with it, there results potassium cyanide, which, with the assistance of water and oxygen, can dissolve gold."*

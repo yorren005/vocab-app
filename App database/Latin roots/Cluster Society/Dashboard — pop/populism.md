@@ -5,13 +5,6 @@ status: unread
 ---
 # populism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The political doctrine that supports the rights and powers of the common people in their struggle with the privileged elite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political doctrine that supports the rights and powers of the common people in their struggle with the privileged elite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, populism designates the political doctrine that supports the rights and powers of the common people in their struggle with the privileged elite."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The political doctrine that supports the rights and powers of the common people in their struggle with the privileged elite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political doctrine that supports the rights and powers of the common people in their struggle with the privileged elite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, populism designates the political doctrine that supports the rights and powers of the common people in their struggle with the privileged elite."*

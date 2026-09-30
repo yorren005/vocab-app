@@ -5,13 +5,6 @@ status: unread
 ---
 # vinify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert a juice into wine by fermentation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert a juice into wine by fermentation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinify designates convert a juice into wine by fermentation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert a juice into wine by fermentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert a juice into wine by fermentation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinify designates convert a juice into wine by fermentation."*

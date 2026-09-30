@@ -5,20 +5,6 @@ status: unread
 ---
 # tale
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Intentionally untrue report : falsehood
-> 2. **Nuance / Usage**: Usually imaginative narrative of an event : story
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"He’s for a jig or a tale of bawdry, or he sleeps."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"), that melted at the sweet tale of the sun’s?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Mark now how a plain tale shall put you down."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Intentionally untrue report : falsehood
+> 2. **Nuance / Usage**: Usually imaginative narrative of an event : story
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"He’s for a jig or a tale of bawdry, or he sleeps."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"), that melted at the sweet tale of the sun’s?"*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Mark now how a plain tale shall put you down."*

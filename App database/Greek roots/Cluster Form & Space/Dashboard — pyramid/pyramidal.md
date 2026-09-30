@@ -5,15 +5,6 @@ status: unread
 ---
 # pyramidal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a pyramid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a pyramid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The foundation consisted of a pyramidal structure composed of stones, turf, and moss."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"All the pyramidal wonder of them, fore, main, and mizzen, were not like a good rider's hands to a horse; compelling, coaxing, curbing the wind, they were utilities."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"For the most part it was a country of soft undulating slopes and comfortable farmhouses, with here and there a little hamlet or a bustling town, framed the last part of the way by strange-looking pyramidal hills."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a pyramid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a pyramid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The foundation consisted of a pyramidal structure composed of stones, turf, and moss."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"All the pyramidal wonder of them, fore, main, and mizzen, were not like a good rider's hands to a horse; compelling, coaxing, curbing the wind, they were utilities."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"For the most part it was a country of soft undulating slopes and comfortable farmhouses, with here and there a little hamlet or a bustling town, framed the last part of the way by strange-looking pyramidal hills."*

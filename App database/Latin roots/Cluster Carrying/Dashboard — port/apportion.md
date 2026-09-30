@@ -5,15 +5,6 @@ status: unread
 ---
 # apportion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distribute according to a plan or set apart for a special purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give out as one's portion or share.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So bitter was it in the boat that our water and beer froze solid, and it was a difficult task justly to apportion the pieces I broke off with Northrup’s claspknife."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The fundamental use that money serves is to apportion one's income conveniently as it accrues and as it is spent."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Take one day; share it into sections; to each section apportion its task: leave no stray unemployed quarters of an hour, ten minutes, five minutes—include all; do each piece of business in its turn with method, with rigid regularity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distribute according to a plan or set apart for a special purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give out as one's portion or share.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So bitter was it in the boat that our water and beer froze solid, and it was a difficult task justly to apportion the pieces I broke off with Northrup’s claspknife."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The fundamental use that money serves is to apportion one's income conveniently as it accrues and as it is spent."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Take one day; share it into sections; to each section apportion its task: leave no stray unemployed quarters of an hour, ten minutes, five minutes—include all; do each piece of business in its turn with method, with rigid regularity."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # anonymous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of unknown authorship or origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not named or identified.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Upon which law-writer there was an inquest, and which law-writer was an anonymous character, his name being unknown."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood seized it and opened it, expecting another anonymous one—so greatly are people’s ideas of probability a mere sense that precedent will repeat itself."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The letter could of course be no other than anonymous, or the inquiry would not have been necessary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of unknown authorship or origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not named or identified.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Upon which law-writer there was an inquest, and which law-writer was an anonymous character, his name being unknown."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood seized it and opened it, expecting another anonymous one—so greatly are people’s ideas of probability a mere sense that precedent will repeat itself."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The letter could of course be no other than anonymous, or the inquiry would not have been necessary."*

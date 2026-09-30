@@ -5,15 +5,6 @@ status: unread
 ---
 # unimpeded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not slowed or prevented.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not slowed or prevented.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"It must be owned that neither Laura nor Lawrence obeyed her, and they were rewarded, while she felt about for the top rung, with an unimpeded view of two very pretty legs."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"The westering sun bestowed bright glances on it, and the south-west wind blew into it unimpeded."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"While now supine upon thy pave of dew I let thy loveliness my soul pervade, And pass with unimpeded influence through Its quiet depths, like moonlight through thy shade, To haunt with beauty still that shrine of hopes decayed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not slowed or prevented.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not slowed or prevented.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"It must be owned that neither Laura nor Lawrence obeyed her, and they were rewarded, while she felt about for the top rung, with an unimpeded view of two very pretty legs."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"The westering sun bestowed bright glances on it, and the south-west wind blew into it unimpeded."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"While now supine upon thy pave of dew I let thy loveliness my soul pervade, And pass with unimpeded influence through Its quiet depths, like moonlight through thy shade, To haunt with beauty still that shrine of hopes decayed."*

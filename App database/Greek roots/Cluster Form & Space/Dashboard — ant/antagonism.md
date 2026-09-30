@@ -5,15 +5,6 @@ status: unread
 ---
 # antagonism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of deep-seated ill-will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation between opposing principles or forces or factors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Feeling herself in antagonism, she was quite in accord."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But it strikes me that there is a want of harmony between your present mood of self-sacrifice and your past mood of self-preservation.” These were the first words of antagonism."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"She did not look me down, for there was neither challenge nor antagonism in her eyes—only fascination."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of deep-seated ill-will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation between opposing principles or forces or factors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Feeling herself in antagonism, she was quite in accord."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But it strikes me that there is a want of harmony between your present mood of self-sacrifice and your past mood of self-preservation.” These were the first words of antagonism."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"She did not look me down, for there was neither challenge nor antagonism in her eyes—only fascination."*

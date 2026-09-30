@@ -5,13 +5,6 @@ status: unread
 ---
 # chrysoprase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apple-green chalcedony valued as a gem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apple-green chalcedony valued as a gem.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysoprase designates an apple-green chalcedony valued as a gem."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apple-green chalcedony valued as a gem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apple-green chalcedony valued as a gem.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysoprase designates an apple-green chalcedony valued as a gem."*

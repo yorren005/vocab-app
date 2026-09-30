@@ -5,15 +5,6 @@ status: unread
 ---
 # passionate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or expressing strong emotions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or expressing strong emotions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Queen returns, finds the King dead, and makes passionate action."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nephew, what means this passionate discourse, This peroration with such circumstance?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is sad and passionate at your highness’ tent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or expressing strong emotions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or expressing strong emotions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Queen returns, finds the King dead, and makes passionate action."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nephew, what means this passionate discourse, This peroration with such circumstance?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is sad and passionate at your highness’ tent."*

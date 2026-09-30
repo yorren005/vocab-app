@@ -5,15 +5,6 @@ status: unread
 ---
 # contortion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of twisting or deforming the shape of something (e.g., yourself).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tortuous and twisted shape or position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"For an instant he felt that the struggle was causing a queer contortion of his mobile features, but with a good effort he resolved it into nothing more offensive than a merry smile."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The smile was no more than a contortion of the muscles of the face, which made a long mirthless crease on either cheek, and left the eyes untouched by the least light of sympathy."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The result of that frightened contortion of the features was nothing less than ghastly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of twisting or deforming the shape of something (e.g., yourself).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tortuous and twisted shape or position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"For an instant he felt that the struggle was causing a queer contortion of his mobile features, but with a good effort he resolved it into nothing more offensive than a merry smile."*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The smile was no more than a contortion of the muscles of the face, which made a long mirthless crease on either cheek, and left the eyes untouched by the least light of sympathy."*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The result of that frightened contortion of the features was nothing less than ghastly."*

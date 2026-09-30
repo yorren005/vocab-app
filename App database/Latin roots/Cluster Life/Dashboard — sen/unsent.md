@@ -5,13 +5,6 @@ status: unread
 ---
 # unsent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not dispatched or transmitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not dispatched or transmitted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsent designates not dispatched or transmitted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not dispatched or transmitted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not dispatched or transmitted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsent designates not dispatched or transmitted."*

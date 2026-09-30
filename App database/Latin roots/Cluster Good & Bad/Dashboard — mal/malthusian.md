@@ -5,14 +5,6 @@ status: unread
 ---
 # malthusian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A believer in malthusian theory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to thomas malthus or to malthusianism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"As Tess grew older, and began to see how matters stood, she felt quite a Malthusian towards her mother for thoughtlessly giving her so many little sisters and brothers, when it was such a trouble to nurse and provide for them."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"NOTE.--The subject of population generally is discussed under the name of "The Malthusian Doctrine" and much space is given to it in the texts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A believer in malthusian theory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to thomas malthus or to malthusianism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"As Tess grew older, and began to see how matters stood, she felt quite a Malthusian towards her mother for thoughtlessly giving her so many little sisters and brothers, when it was such a trouble to nurse and provide for them."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"NOTE.--The subject of population generally is discussed under the name of "The Malthusian Doctrine" and much space is given to it in the texts."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # magnetosphere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The magnetic field of a planet; the volume around the planet in which charged particles are subject more to the planet's magnetic field than to the solar magnetic field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The magnetic field of a planet; the volume around the planet in which charged particles are subject more to the planet's magnetic field than to the solar magnetic field.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetosphere designates the magnetic field of a planet; the volume around the planet in which charged particles are subject more to the planet's magnetic field than to the solar magnetic field."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The magnetic field of a planet; the volume around the planet in which charged particles are subject more to the planet's magnetic field than to the solar magnetic field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The magnetic field of a planet; the volume around the planet in which charged particles are subject more to the planet's magnetic field than to the solar magnetic field.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, magnetosphere designates the magnetic field of a planet; the volume around the planet in which charged particles are subject more to the planet's magnetic field than to the solar magnetic field."*

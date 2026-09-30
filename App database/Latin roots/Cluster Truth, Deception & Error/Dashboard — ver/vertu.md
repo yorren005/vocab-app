@@ -5,15 +5,6 @@ status: unread
 ---
 # vertu
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Love of or taste for fine objects of art.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Artistic quality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Vive la vertu!” Samuel Walcott, still sunburned from his cruise, stood before the chancel with the only daughter of the blue blooded St."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Now, when with royal Tranquo I visited this wondrous whale, and saw the skull an altar, and the artificial smoke ascending from where the real jet had issued, I marvelled that the king should regard a chapel as an object of vertu."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Les vertus se perdent dans l'interet comme les fleuves se perdent dans la mer." ------------------------------------------------------------------------ Mademoiselle Veuillot and M."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Love of or taste for fine objects of art.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Artistic quality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Vive la vertu!” Samuel Walcott, still sunburned from his cruise, stood before the chancel with the only daughter of the blue blooded St."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Now, when with royal Tranquo I visited this wondrous whale, and saw the skull an altar, and the artificial smoke ascending from where the real jet had issued, I marvelled that the king should regard a chapel as an object of vertu."*
+> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Les vertus se perdent dans l'interet comme les fleuves se perdent dans la mer." ------------------------------------------------------------------------ Mademoiselle Veuillot and M."*

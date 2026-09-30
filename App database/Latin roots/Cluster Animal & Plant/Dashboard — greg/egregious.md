@@ -5,15 +5,6 @@ status: unread
 ---
 # egregious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conspicuously and outrageously bad or reprehensible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conspicuously and outrageously bad or reprehensible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, you give me most egregious indignity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay me, most credulous fool, Egregious murderer, thief, anything That’s due to all the villains past, in being, To come!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PISTOL. _Solus_, egregious dog!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conspicuously and outrageously bad or reprehensible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conspicuously and outrageously bad or reprehensible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, you give me most egregious indignity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay me, most credulous fool, Egregious murderer, thief, anything That’s due to all the villains past, in being, To come!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PISTOL. _Solus_, egregious dog!"*

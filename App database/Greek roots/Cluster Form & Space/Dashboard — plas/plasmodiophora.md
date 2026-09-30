@@ -5,13 +5,6 @@ status: unread
 ---
 # plasmodiophora
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of plasmodiophoraceae comprising minute plant parasitic fungi similar to and sometimes included among the slime molds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of plasmodiophoraceae comprising minute plant parasitic fungi similar to and sometimes included among the slime molds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmodiophora designates type genus of plasmodiophoraceae comprising minute plant parasitic fungi similar to and sometimes included among the slime molds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of plasmodiophoraceae comprising minute plant parasitic fungi similar to and sometimes included among the slime molds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of plasmodiophoraceae comprising minute plant parasitic fungi similar to and sometimes included among the slime molds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmodiophora designates type genus of plasmodiophoraceae comprising minute plant parasitic fungi similar to and sometimes included among the slime molds."*

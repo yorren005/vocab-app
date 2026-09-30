@@ -5,15 +5,6 @@ status: unread
 ---
 # renegade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who rebels and becomes an outlaw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disloyal person who betrays or deserts his cause or religion or political party or friend etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"This is 'Peter Bell the Third' (1819), an attack on Wordsworth, partly literary for the dulness of his writing since he had been sunk in clerical respectability, partly political for his renegade flunkyism."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But his body was too young, too strong, too tenacious of earth to be betrayed by the renegade mind."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Mark him as a newly arrived renegade, a killer and genetic flake dangerous to Coldfield's safety."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who rebels and becomes an outlaw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disloyal person who betrays or deserts his cause or religion or political party or friend etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"This is 'Peter Bell the Third' (1819), an attack on Wordsworth, partly literary for the dulness of his writing since he had been sunk in clerical respectability, partly political for his renegade flunkyism."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"But his body was too young, too strong, too tenacious of earth to be betrayed by the renegade mind."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Mark him as a newly arrived renegade, a killer and genetic flake dangerous to Coldfield's safety."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # subterraneous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or operating under the surface of the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lying beyond what is openly revealed or avowed (especially being kept in the background or deliberately concealed); ; - bertrand russell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A low rumbling sound was heard; a subterraneous hum; and then all held their breaths; as bedraggled with trailing ropes, and harpoons, and lances, a vast form shot lengthwise, but obliquely from the sea."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"All these detached masses, covered with enamel, polished by the action of the subterraneous fires, shone resplendent by the light of our electric lantern."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"A low rumbling sound was heard; a subterraneous hum; and then all held their breaths; as bedraggled with trailing ropes, and harpoons, and lances, a vast form shot lengthwise, but obliquely from the sea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or operating under the surface of the earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lying beyond what is openly revealed or avowed (especially being kept in the background or deliberately concealed); ; - bertrand russell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A low rumbling sound was heard; a subterraneous hum; and then all held their breaths; as bedraggled with trailing ropes, and harpoons, and lances, a vast form shot lengthwise, but obliquely from the sea."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"All these detached masses, covered with enamel, polished by the action of the subterraneous fires, shone resplendent by the light of our electric lantern."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"A low rumbling sound was heard; a subterraneous hum; and then all held their breaths; as bedraggled with trailing ropes, and harpoons, and lances, a vast form shot lengthwise, but obliquely from the sea."*

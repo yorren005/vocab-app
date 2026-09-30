@@ -5,15 +5,6 @@ status: unread
 ---
 # hypodermic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adapted for use in or administered by injection beneath the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the parts beneath the skin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"I shall give hypodermic injection of morphia.” He proceeded then, swiftly and deftly, to carry out his intent."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Sedatives valueless 416:6 A hypodermic injection of morphine is administered to a patient, and in twenty minutes the sufferer is qui- etly asleep."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"At one time I was in bed eleven weeks, suffering intensely all the time except when relieved by hypodermic injections."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adapted for use in or administered by injection beneath the skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the parts beneath the skin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"I shall give hypodermic injection of morphia.” He proceeded then, swiftly and deftly, to carry out his intent."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Sedatives valueless 416:6 A hypodermic injection of morphine is administered to a patient, and in twenty minutes the sufferer is qui- etly asleep."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"At one time I was in bed eleven weeks, suffering intensely all the time except when relieved by hypodermic injections."*

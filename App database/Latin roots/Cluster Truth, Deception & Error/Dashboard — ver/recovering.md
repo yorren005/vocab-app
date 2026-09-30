@@ -5,15 +5,6 @@ status: unread
 ---
 # recovering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get or find back; recover the use of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get over an illness or shock.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Have I the pleasure of addressing another of the youthful parties in Jarndyce?” said the old lady, recovering herself, with her head on one side, from a very low curtsy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Blinder sat down to give herself a more favourable opportunity of recovering her breath, exhausted anew by so much talking before it was fully restored."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have been deep in them for months,” he continued, recovering his cheerfulness in a moment, “and you may rely upon it that we shall come out triumphant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Get or find back; recover the use of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get over an illness or shock.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Have I the pleasure of addressing another of the youthful parties in Jarndyce?” said the old lady, recovering herself, with her head on one side, from a very low curtsy."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Blinder sat down to give herself a more favourable opportunity of recovering her breath, exhausted anew by so much talking before it was fully restored."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I have been deep in them for months,” he continued, recovering his cheerfulness in a moment, “and you may rely upon it that we shall come out triumphant."*

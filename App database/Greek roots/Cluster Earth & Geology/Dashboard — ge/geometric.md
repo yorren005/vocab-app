@@ -5,15 +5,6 @@ status: unread
 ---
 # geometric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by simple geometric forms in design and decoration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or determined by geometry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I squared and cubed long series of numbers, and by concentration and will carried on most astonishing geometric progressions."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The scene was geometric, multidimensional, and seemingly chaotic."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Spiritual vision is not subordinate to geometric alti- 215:12 tudes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by simple geometric forms in design and decoration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or determined by geometry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I squared and cubed long series of numbers, and by concentration and will carried on most astonishing geometric progressions."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The scene was geometric, multidimensional, and seemingly chaotic."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Spiritual vision is not subordinate to geometric alti- 215:12 tudes."*

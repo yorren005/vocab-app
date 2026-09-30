@@ -5,14 +5,6 @@ status: unread
 ---
 # cootie
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasitic louse that infests the body of human beings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parasitic louse that infests the body of human beings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"O Thou! whatever title suit thee— Auld Hornie, Satan, Nick, or Clootie, Wha in yon cavern grim an’ sootie, Clos’d under hatches, Spairges about the brunstane cootie, To scaud poor wretches!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Rejoice, ye birring paitricks a’; Ye cootie muircocks, crousely craw; Ye maukins, cock your fud fu’ braw Withouten dread; Your mortal fae is now awa; Tam Samson’s dead!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasitic louse that infests the body of human beings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parasitic louse that infests the body of human beings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"O Thou! whatever title suit thee— Auld Hornie, Satan, Nick, or Clootie, Wha in yon cavern grim an’ sootie, Clos’d under hatches, Spairges about the brunstane cootie, To scaud poor wretches!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Rejoice, ye birring paitricks a’; Ye cootie muircocks, crousely craw; Ye maukins, cock your fud fu’ braw Withouten dread; Your mortal fae is now awa; Tam Samson’s dead!"*

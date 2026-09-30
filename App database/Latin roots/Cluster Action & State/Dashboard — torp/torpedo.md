@@ -5,15 +5,6 @@ status: unread
 ---
 # torpedo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A professional killer who uses a gun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large sandwich made of a long crusty roll split lengthwise and filled with meats and cheese (and tomato and onion and lettuce and condiments); different names are used in different sections of the united states.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The very resolution to which he had wrought himself by dint of logic and honorable pride was beginning to relax under her torpedo contact."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"You don't seem to realize," he said, "that I have just come from a cruise on a torpedo boat."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"These two are the submarine mine and the torpedo."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A professional killer who uses a gun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large sandwich made of a long crusty roll split lengthwise and filled with meats and cheese (and tomato and onion and lettuce and condiments); different names are used in different sections of the united states.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"The very resolution to which he had wrought himself by dint of logic and honorable pride was beginning to relax under her torpedo contact."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"You don't seem to realize," he said, "that I have just come from a cruise on a torpedo boat."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"These two are the submarine mine and the torpedo."*

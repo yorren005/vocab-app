@@ -5,15 +5,6 @@ status: unread
 ---
 # mired
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Entrap.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to get stuck as if in a mire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"The terrified horses tried again and again to break away; but the chain harnesses were too strong; nor did the mired wheel budge."*
-> - 📜 **James Joyce (*Ulysses*):** *"When night hides her body’s flaws calling under her brown shawl from an archway where dogs have mired."*
-> - 📜 **James Joyce (*Ulysses*):** *"Slowly three times, one after another, from a full crupper he mired."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Entrap.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to get stuck as if in a mire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"The terrified horses tried again and again to break away; but the chain harnesses were too strong; nor did the mired wheel budge."*
+> - 📜 **James Joyce (*Ulysses*):** *"When night hides her body’s flaws calling under her brown shawl from an archway where dogs have mired."*
+> - 📜 **James Joyce (*Ulysses*):** *"Slowly three times, one after another, from a full crupper he mired."*

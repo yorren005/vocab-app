@@ -5,13 +5,6 @@ status: unread
 ---
 # animatronics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The construction of robots to look like animals (developed for disneyland).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The construction of robots to look like animals (developed for disneyland).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, animatronics designates the construction of robots to look like animals (developed for disneyland)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The construction of robots to look like animals (developed for disneyland).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The construction of robots to look like animals (developed for disneyland).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, animatronics designates the construction of robots to look like animals (developed for disneyland)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # volary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A building where birds are kept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A building where birds are kept.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volary designates a building where birds are kept."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A building where birds are kept.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A building where birds are kept.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volary designates a building where birds are kept."*

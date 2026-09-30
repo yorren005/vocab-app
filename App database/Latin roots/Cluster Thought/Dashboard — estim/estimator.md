@@ -5,13 +5,6 @@ status: unread
 ---
 # estimator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert at calculation (or at operating calculating machines).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert at calculation (or at operating calculating machines).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Michells, a former cruiser and estimator."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert at calculation (or at operating calculating machines).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert at calculation (or at operating calculating machines).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Michells, a former cruiser and estimator."*

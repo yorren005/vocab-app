@@ -5,15 +5,6 @@ status: unread
 ---
 # demigod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with great powers and abilities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is part mortal and part god.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Like a demigod here sit I in the sky, And wretched fools’ secrets heedfully o’er-eye."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Now Balder was a demigod and common steel could not wound his sacred body."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Scene of the Demigod Kamapuaa's Escape from Olopana."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with great powers and abilities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is part mortal and part god.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Like a demigod here sit I in the sky, And wretched fools’ secrets heedfully o’er-eye."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Now Balder was a demigod and common steel could not wound his sacred body."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Scene of the Demigod Kamapuaa's Escape from Olopana."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # justification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (such as a fact or circumstance) that shows an action to be reasonable or necessary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement in explanation of some action or belief.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hope, for my brother’s justification, he wrote this but as an essay, or taste of my virtue."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And he has always said, ‘Mother, I will be; but you know me better than anybody else does, and you know I mean no harm—in short, mean nothing.’ All of which is very true, my dear, but is no justification."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes and that Richard’s justification to himself would be sincerely this."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (such as a fact or circumstance) that shows an action to be reasonable or necessary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement in explanation of some action or belief.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hope, for my brother’s justification, he wrote this but as an essay, or taste of my virtue."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And he has always said, ‘Mother, I will be; but you know me better than anybody else does, and you know I mean no harm—in short, mean nothing.’ All of which is very true, my dear, but is no justification."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes and that Richard’s justification to himself would be sincerely this."*

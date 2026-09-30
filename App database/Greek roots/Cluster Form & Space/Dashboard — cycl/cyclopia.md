@@ -5,13 +5,6 @@ status: unread
 ---
 # cyclopia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A developmental abnormality in which there is only one eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A developmental abnormality in which there is only one eye.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclopia designates a developmental abnormality in which there is only one eye."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A developmental abnormality in which there is only one eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A developmental abnormality in which there is only one eye.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclopia designates a developmental abnormality in which there is only one eye."*

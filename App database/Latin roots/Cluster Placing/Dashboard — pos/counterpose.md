@@ -5,13 +5,6 @@ status: unread
 ---
 # counterpose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constitute a counterweight or counterbalance to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constitute a counterweight or counterbalance to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is to be hoped that it will not often happen that improper views will govern so large a proportion as two thirds of both branches of the legislature at the same time; and this, too, in spite of the counterposing weight of the Executive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constitute a counterweight or counterbalance to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constitute a counterweight or counterbalance to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is to be hoped that it will not often happen that improper views will govern so large a proportion as two thirds of both branches of the legislature at the same time; and this, too, in spite of the counterposing weight of the Executive."*

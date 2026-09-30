@@ -5,13 +5,6 @@ status: unread
 ---
 # endospore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An asexual spore developed within the cell especially in bacteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An asexual spore developed within the cell especially in bacteria.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spores of this species (_Uromyces appendiculatus_) are oboval cells, terminated by a rounded point, provided with a deep brown, smooth, _epispore_, or outer coating, and a distinct, but colourless _endospore_, or inner coating."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An asexual spore developed within the cell especially in bacteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An asexual spore developed within the cell especially in bacteria.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spores of this species (_Uromyces appendiculatus_) are oboval cells, terminated by a rounded point, provided with a deep brown, smooth, _epispore_, or outer coating, and a distinct, but colourless _endospore_, or inner coating."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # destalinise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Counteract the effects and policies of stalinism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Counteract the effects and policies of stalinism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, destalinise designates counteract the effects and policies of stalinism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Counteract the effects and policies of stalinism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Counteract the effects and policies of stalinism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, destalinise designates counteract the effects and policies of stalinism."*

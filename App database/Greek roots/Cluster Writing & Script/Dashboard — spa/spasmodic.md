@@ -5,15 +5,6 @@ status: unread
 ---
 # spasmodic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affected or characterized by spasm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a spasm especially in sudden violence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba’s steps became faintly spasmodic."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They were too volcanic, spasmodic, eruptive."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester, on hearing the name, set his teeth; he experienced, too, a sort of strong convulsive quiver; near to him as I was, I felt the spasmodic movement of fury or despair run through his frame."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affected or characterized by spasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a spasm especially in sudden violence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba’s steps became faintly spasmodic."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They were too volcanic, spasmodic, eruptive."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester, on hearing the name, set his teeth; he experienced, too, a sort of strong convulsive quiver; near to him as I was, I felt the spasmodic movement of fury or despair run through his frame."*

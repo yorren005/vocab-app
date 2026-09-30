@@ -5,15 +5,6 @@ status: unread
 ---
 # monopoly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exclusive ownership through legal privilege, command of supply, or concerted action; specifically : exclusive control of a particular market that is marked by the power to control prices and exclude competition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exclusive possession or control.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, faith; lords and great men will not let me; if I had a monopoly out, they would have part on’t and ladies too, they will not let me have all the fool to myself; they’ll be snatching."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce said that he condoled with him with all his heart and that he set up no monopoly himself in being unjustly treated by this monstrous system."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The problem of industrial monopoly 29."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exclusive ownership through legal privilege, command of supply, or concerted action; specifically : exclusive control of a particular market that is marked by the power to control prices and exclude competition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exclusive possession or control.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, faith; lords and great men will not let me; if I had a monopoly out, they would have part on’t and ladies too, they will not let me have all the fool to myself; they’ll be snatching."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce said that he condoled with him with all his heart and that he set up no monopoly himself in being unjustly treated by this monstrous system."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The problem of industrial monopoly 29."*

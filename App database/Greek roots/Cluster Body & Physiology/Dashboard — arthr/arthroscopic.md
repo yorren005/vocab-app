@@ -5,13 +5,6 @@ status: unread
 ---
 # arthroscopic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An endoscope that is inserted through an incision near a joint (such as the knee) and is used for the visual examination, diagnosis, and treatment of the interior of a joint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An endoscope that is inserted through an incision near a joint (such as the knee) and is used for the visual examination, diagnosis, and treatment of the interior of a joint.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthroscopic designates an endoscope that is inserted through an incision near a joint (such as the knee) and is used for the visual examination, diagnosis, and treatment of the interior of a joint."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An endoscope that is inserted through an incision near a joint (such as the knee) and is used for the visual examination, diagnosis, and treatment of the interior of a joint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An endoscope that is inserted through an incision near a joint (such as the knee) and is used for the visual examination, diagnosis, and treatment of the interior of a joint.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthroscopic designates an endoscope that is inserted through an incision near a joint (such as the knee) and is used for the visual examination, diagnosis, and treatment of the interior of a joint."*

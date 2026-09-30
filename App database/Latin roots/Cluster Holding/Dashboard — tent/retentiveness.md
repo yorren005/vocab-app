@@ -5,13 +5,6 @@ status: unread
 ---
 # retentiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power of retaining and recalling past experience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of retaining possessions that have been acquired.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"As regarded novelties (among which cabs and omnibuses were to be reckoned), his mind appeared to have lost its proper gripe and retentiveness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The power of retaining and recalling past experience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of retaining possessions that have been acquired.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"As regarded novelties (among which cabs and omnibuses were to be reckoned), his mind appeared to have lost its proper gripe and retentiveness."*

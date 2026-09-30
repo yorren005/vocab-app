@@ -5,13 +5,6 @@ status: unread
 ---
 # homeopathy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of alternative medicine that treats a disease especially by the administration of minute doses of a remedy that would in larger amounts produce symptoms in healthy persons similar to those of the disease : homeopathic medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of alternative medicine that treats a disease especially by the administration of minute doses of a remedy that would in larger amounts produce symptoms in healthy persons similar to those of the disease : homeopathic medicine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homeopathy designates a system of alternative medicine that treats a disease especially by the administration of minute doses of a remedy that would in larger amounts produce symptoms in healthy persons similar to those of the disease : homeopathic medicine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of alternative medicine that treats a disease especially by the administration of minute doses of a remedy that would in larger amounts produce symptoms in healthy persons similar to those of the disease : homeopathic medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of alternative medicine that treats a disease especially by the administration of minute doses of a remedy that would in larger amounts produce symptoms in healthy persons similar to those of the disease : homeopathic medicine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homeopathy designates a system of alternative medicine that treats a disease especially by the administration of minute doses of a remedy that would in larger amounts produce symptoms in healthy persons similar to those of the disease : homeopathic medicine."*

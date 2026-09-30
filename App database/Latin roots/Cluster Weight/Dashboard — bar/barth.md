@@ -5,13 +5,6 @@ status: unread
 ---
 # barth
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swiss protestant theologian (1886-1968).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states novelist (born in 1930).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Now by the fact of Lauriston and Barthélemi having been sent, and by the reports of the guerrillas, Kutúzov was almost sure that the wound was mortal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Swiss protestant theologian (1886-1968).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states novelist (born in 1930).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Now by the fact of Lauriston and Barthélemi having been sent, and by the reports of the guerrillas, Kutúzov was almost sure that the wound was mortal."*

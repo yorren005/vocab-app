@@ -5,13 +5,6 @@ status: unread
 ---
 # azotemia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An excess of urea or other nitrogenous wastes in the blood as a result of kidney insufficiency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An excess of urea or other nitrogenous wastes in the blood as a result of kidney insufficiency.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, azotemia designates an excess of urea or other nitrogenous wastes in the blood as a result of kidney insufficiency."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excess of urea or other nitrogenous wastes in the blood as a result of kidney insufficiency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An excess of urea or other nitrogenous wastes in the blood as a result of kidney insufficiency.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, azotemia designates an excess of urea or other nitrogenous wastes in the blood as a result of kidney insufficiency."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # ferrying
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transport by boat or aircraft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transport from one place to another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"But such as it is, this is the one connecting link between China and Tibet, for ferrying across the upper reaches of the Ta Tu is impracticable most of the year."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transport by boat or aircraft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transport from one place to another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"But such as it is, this is the one connecting link between China and Tibet, for ferrying across the upper reaches of the Ta Tu is impracticable most of the year."*

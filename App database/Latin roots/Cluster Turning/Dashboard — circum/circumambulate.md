@@ -5,15 +5,6 @@ status: unread
 ---
 # circumambulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Walk around something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walk around something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"For example, among the Beni-Snous the women light a fire in an oven, throw perfumes into it, and circumambulate a tank, which they also incense after a fashion."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Circumambulate the city of a dreamy Sabbath afternoon."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Circumambulate the city of a dreamy Sabbath afternoon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Walk around something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walk around something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"For example, among the Beni-Snous the women light a fire in an oven, throw perfumes into it, and circumambulate a tank, which they also incense after a fashion."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Circumambulate the city of a dreamy Sabbath afternoon."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Circumambulate the city of a dreamy Sabbath afternoon."*

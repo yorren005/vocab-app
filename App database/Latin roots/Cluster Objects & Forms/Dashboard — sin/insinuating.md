@@ -5,15 +5,6 @@ status: unread
 ---
 # insinuating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Introduce or insert (oneself) in a subtle manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give to understand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And since the wisdom of their choice is rather to have my hat than my heart, I will practise the insinuating nod and be off to them most counterfeitly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I love no colours, and without all colour Of base insinuating flattery I pluck this white rose with Plantagenet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will be hang’d, if some eternal villain, Some busy and insinuating rogue, Some cogging, cozening slave, to get some office, Have not devis’d this slander."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Introduce or insert (oneself) in a subtle manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give to understand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And since the wisdom of their choice is rather to have my hat than my heart, I will practise the insinuating nod and be off to them most counterfeitly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I love no colours, and without all colour Of base insinuating flattery I pluck this white rose with Plantagenet."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will be hang’d, if some eternal villain, Some busy and insinuating rogue, Some cogging, cozening slave, to get some office, Have not devis’d this slander."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # reanimate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give new life or energy to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give new life or energy to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He came in with cheery look and manly spirit, and tried to reanimate the expiring heart of the poor money digger, but it was all in vain."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Death stared him in the face unless his soul could be induced to speed at once across the sea and reanimate its deserted tenement."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Hence they take care to throw the bones and offal into the sea, in order that the soul may reanimate them at the resurrection of the salmon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give new life or energy to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give new life or energy to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He came in with cheery look and manly spirit, and tried to reanimate the expiring heart of the poor money digger, but it was all in vain."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Death stared him in the face unless his soul could be induced to speed at once across the sea and reanimate its deserted tenement."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Hence they take care to throw the bones and offal into the sea, in order that the soul may reanimate them at the resurrection of the salmon."*

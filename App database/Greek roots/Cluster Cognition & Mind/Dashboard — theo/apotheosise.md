@@ -5,13 +5,6 @@ status: unread
 ---
 # apotheosise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deify or glorify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deify or glorify.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"So etherealised by spirit as he was, and so apotheosised by worshipping admirers, did his footsteps, in the procession, really tread upon the dust of earth?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deify or glorify.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deify or glorify.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"So etherealised by spirit as he was, and so apotheosised by worshipping admirers, did his footsteps, in the procession, really tread upon the dust of earth?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # amygdalotomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Psychosurgery in which amygdaloid fibers that mediate limbic system activity are severed (in cases of extreme uncontrollable violence).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Psychosurgery in which amygdaloid fibers that mediate limbic system activity are severed (in cases of extreme uncontrollable violence).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amygdalotomy designates psychosurgery in which amygdaloid fibers that mediate limbic system activity are severed (in cases of extreme uncontrollable violence)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Psychosurgery in which amygdaloid fibers that mediate limbic system activity are severed (in cases of extreme uncontrollable violence).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Psychosurgery in which amygdaloid fibers that mediate limbic system activity are severed (in cases of extreme uncontrollable violence).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amygdalotomy designates psychosurgery in which amygdaloid fibers that mediate limbic system activity are severed (in cases of extreme uncontrollable violence)."*

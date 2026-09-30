@@ -5,13 +5,6 @@ status: unread
 ---
 # electrocardiograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medical instrument that records electric currents associated with contractions of the heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medical instrument that records electric currents associated with contractions of the heart.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrocardiograph designates medical instrument that records electric currents associated with contractions of the heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Medical instrument that records electric currents associated with contractions of the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medical instrument that records electric currents associated with contractions of the heart.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrocardiograph designates medical instrument that records electric currents associated with contractions of the heart."*

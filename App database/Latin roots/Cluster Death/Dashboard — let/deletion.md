@@ -5,13 +5,6 @@ status: unread
 ---
 # deletion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any process whereby sounds or words are left out of spoken words or phrases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) the loss or absence of one or more nucleotides from a chromosome.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deletion designates any process whereby sounds or words are left out of spoken words or phrases."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any process whereby sounds or words are left out of spoken words or phrases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) the loss or absence of one or more nucleotides from a chromosome.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deletion designates any process whereby sounds or words are left out of spoken words or phrases."*

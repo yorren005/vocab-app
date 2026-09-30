@@ -5,13 +5,6 @@ status: unread
 ---
 # curie
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of radioactivity equal to the amount of a radioactive isotope that decays at the rate of 37,000,000,000 disintegrations per second.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French physicist; husband of marie curie (1859-1906).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Some years ago, when radium was being much talked about and the names of M. and Madame Curie were in everyone's mouth, little toys were sold, the invention, I believe, of Sir William Crookes, called spinthariscopes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of radioactivity equal to the amount of a radioactive isotope that decays at the rate of 37,000,000,000 disintegrations per second.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French physicist; husband of marie curie (1859-1906).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Some years ago, when radium was being much talked about and the names of M. and Madame Curie were in everyone's mouth, little toys were sold, the invention, I believe, of Sir William Crookes, called spinthariscopes."*

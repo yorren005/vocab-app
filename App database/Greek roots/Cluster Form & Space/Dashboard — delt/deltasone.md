@@ -5,13 +5,6 @@ status: unread
 ---
 # deltasone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dehydrogenated analogue of cortisol (trade names orasone or deltasone or liquid pred or meticorten); used as an anti-inflammatory drug in the treatment of arthritis and as an immunosuppressant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dehydrogenated analogue of cortisol (trade names orasone or deltasone or liquid pred or meticorten); used as an anti-inflammatory drug in the treatment of arthritis and as an immunosuppressant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deltasone designates a dehydrogenated analogue of cortisol (trade names orasone or deltasone or liquid pred or meticorten); used as an anti-inflammatory drug in the treatment of arthritis and as an immunosuppressant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dehydrogenated analogue of cortisol (trade names orasone or deltasone or liquid pred or meticorten); used as an anti-inflammatory drug in the treatment of arthritis and as an immunosuppressant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dehydrogenated analogue of cortisol (trade names orasone or deltasone or liquid pred or meticorten); used as an anti-inflammatory drug in the treatment of arthritis and as an immunosuppressant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deltasone designates a dehydrogenated analogue of cortisol (trade names orasone or deltasone or liquid pred or meticorten); used as an anti-inflammatory drug in the treatment of arthritis and as an immunosuppressant."*

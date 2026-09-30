@@ -5,14 +5,6 @@ status: unread
 ---
 # pharmacopoeia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A book describing drugs, chemicals, and medicinal preparations; especially : one issued by an officially recognized authority and serving as a standard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collection or stock of drugs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"The Professor’s actions were certainly odd and not to be found in any pharmacopoeia that I ever heard of."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She should have change, fresh air, gaiety; the most delightful remedies in the pharmacopoeia," Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A book describing drugs, chemicals, and medicinal preparations; especially : one issued by an officially recognized authority and serving as a standard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collection or stock of drugs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"The Professor’s actions were certainly odd and not to be found in any pharmacopoeia that I ever heard of."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She should have change, fresh air, gaiety; the most delightful remedies in the pharmacopoeia," Mr."*

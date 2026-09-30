@@ -5,15 +5,6 @@ status: unread
 ---
 # signify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Denote or connote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convey or express a meaning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll humbly signify what in his name, That magical word of war, we have effected; How, with his banners, and his well-paid ranks, The ne’er-yet-beaten horse of Parthia We have jaded out o’ th’ field."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your wisdom should show itself more richer to signify this to the doctor, for me to put him to his purgation would perhaps plunge him into far more choler."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, my lord, his Majesty bade me signify to you that he has laid a great wager on your head."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Denote or connote.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convey or express a meaning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll humbly signify what in his name, That magical word of war, we have effected; How, with his banners, and his well-paid ranks, The ne’er-yet-beaten horse of Parthia We have jaded out o’ th’ field."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your wisdom should show itself more richer to signify this to the doctor, for me to put him to his purgation would perhaps plunge him into far more choler."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, my lord, his Majesty bade me signify to you that he has laid a great wager on your head."*

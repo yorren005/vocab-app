@@ -5,15 +5,6 @@ status: unread
 ---
 # duplication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A copy that corresponds to an original exactly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of copying or making a duplicate (or duplicates) of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The duplication of words, as ‘lumee lumee’, ‘poee poee’, ‘muee muee’, is one of their peculiar features."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"In short, they are duplicating a stereotype from a stereotype and each duplication means a loss in sharpness and depth; therefore they should be supplied with a sharp electrotype from which to make their final page mat."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"This duplication of deities, the result of the final fusion of kindred tribes who had long lived apart, would account for the appearance of Janus beside Jupiter, and of Diana or Jana beside Juno in the Roman religion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A copy that corresponds to an original exactly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of copying or making a duplicate (or duplicates) of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The duplication of words, as ‘lumee lumee’, ‘poee poee’, ‘muee muee’, is one of their peculiar features."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"In short, they are duplicating a stereotype from a stereotype and each duplication means a loss in sharpness and depth; therefore they should be supplied with a sharp electrotype from which to make their final page mat."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"This duplication of deities, the result of the final fusion of kindred tribes who had long lived apart, would account for the appearance of Janus beside Jupiter, and of Diana or Jana beside Juno in the Roman religion."*

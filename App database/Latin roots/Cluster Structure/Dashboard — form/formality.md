@@ -5,15 +5,6 @@ status: unread
 ---
 # formality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A requirement of etiquette or custom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manner that strictly observes all forms and ceremonies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt, the second boy, is the most enterprising and humorous of the family; whereas, Lippo, another boy, is the soul of obedience and formality."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The formality, the under-breeding, the meanness, are there; but the portrait is only half alive, and is felt to be even a little unnatural."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lydia laughed, and said,-- “Ay, that is just like your formality and discretion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A requirement of etiquette or custom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manner that strictly observes all forms and ceremonies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt, the second boy, is the most enterprising and humorous of the family; whereas, Lippo, another boy, is the soul of obedience and formality."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The formality, the under-breeding, the meanness, are there; but the portrait is only half alive, and is felt to be even a little unnatural."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lydia laughed, and said,-- “Ay, that is just like your formality and discretion."*

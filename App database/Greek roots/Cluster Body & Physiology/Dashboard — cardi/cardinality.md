@@ -5,13 +5,6 @@ status: unread
 ---
 # cardinality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) the number of elements in a set or group (considered as a property of that grouping).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (mathematics) the number of elements in a set or group (considered as a property of that grouping).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardinality designates (mathematics) the number of elements in a set or group (considered as a property of that grouping)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) the number of elements in a set or group (considered as a property of that grouping).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (mathematics) the number of elements in a set or group (considered as a property of that grouping).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardinality designates (mathematics) the number of elements in a set or group (considered as a property of that grouping)."*

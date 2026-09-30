@@ -5,15 +5,6 @@ status: unread
 ---
 # granny
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mother of your father or mother.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old woman.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Granny White was found dead in the Foxwell wagon."*
-> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Granny Fox Gives Reddy a Scare Reddy Fox lived with Granny Fox."*
-> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"You see, Reddy was one of a large family, so large that Mother Fox had hard work to feed so many hungry little mouths and so she had let Reddy go to live with old Granny Fox."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mother of your father or mother.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old woman.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Granny White was found dead in the Foxwell wagon."*
+> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Granny Fox Gives Reddy a Scare Reddy Fox lived with Granny Fox."*
+> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"You see, Reddy was one of a large family, so large that Mother Fox had hard work to feed so many hungry little mouths and so she had let Reddy go to live with old Granny Fox."*

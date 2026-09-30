@@ -5,15 +5,6 @@ status: unread
 ---
 # statuesque
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of size and dignity suggestive of a statue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggestive of a statue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So statuesque were we for that second that I swear those about us were not immediately aware of what had happened."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Entirely consistent with this idealism is the nature of his love, ardent, but etherial, "uebersinnlich." This is reflected also in his lyrics, which are statuesque and beautiful, but lacking in passion and sensuous charm."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Touched that this statuesque princess could so change, Pierre took her hand and begged her forgiveness, without knowing what for."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of size and dignity suggestive of a statue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggestive of a statue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So statuesque were we for that second that I swear those about us were not immediately aware of what had happened."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Entirely consistent with this idealism is the nature of his love, ardent, but etherial, "uebersinnlich." This is reflected also in his lyrics, which are statuesque and beautiful, but lacking in passion and sensuous charm."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Touched that this statuesque princess could so change, Pierre took her hand and begged her forgiveness, without knowing what for."*

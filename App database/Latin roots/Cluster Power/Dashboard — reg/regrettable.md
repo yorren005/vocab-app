@@ -5,15 +5,6 @@ status: unread
 ---
 # regrettable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving regret.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving regret.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"It was Ukridge who was to blame for the professor's regrettable explosion and departure, and he ought by all laws of justice to have suffered for it."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Your view of life is a regrettable delusion.” “Just as I may suppose you to be deluded,” said Pierre, with a faint smile."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"They did not talk seriously to him; when reporting to him or asking for his sanction they appeared to be fulfilling a regrettable formality, but they winked behind his back and tried to mislead him at every turn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving regret.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving regret.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"It was Ukridge who was to blame for the professor's regrettable explosion and departure, and he ought by all laws of justice to have suffered for it."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Your view of life is a regrettable delusion.” “Just as I may suppose you to be deluded,” said Pierre, with a faint smile."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"They did not talk seriously to him; when reporting to him or asking for his sanction they appeared to be fulfilling a regrettable formality, but they winked behind his back and tried to mislead him at every turn."*

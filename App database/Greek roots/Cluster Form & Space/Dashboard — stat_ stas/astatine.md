@@ -5,13 +5,6 @@ status: unread
 ---
 # astatine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly unstable radioactive element (the heaviest of the halogen series); a decay product of uranium and thorium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly unstable radioactive element (the heaviest of the halogen series); a decay product of uranium and thorium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astatine designates a highly unstable radioactive element (the heaviest of the halogen series); a decay product of uranium and thorium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly unstable radioactive element (the heaviest of the halogen series); a decay product of uranium and thorium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly unstable radioactive element (the heaviest of the halogen series); a decay product of uranium and thorium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astatine designates a highly unstable radioactive element (the heaviest of the halogen series); a decay product of uranium and thorium."*

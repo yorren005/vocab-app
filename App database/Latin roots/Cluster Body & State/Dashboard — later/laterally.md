@@ -5,15 +5,6 @@ status: unread
 ---
 # laterally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To or by or from the side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a lateral direction or location.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But to think she can carr’ on alone!” He allowed his head to swing laterally three or four times in silence."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Passing under, Hodak cut loose with his laser-quads, raking laterally across the destroyer's underside."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But to think she can manage alone!” He allowed his head to swing laterally three or four times in silence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To or by or from the side.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a lateral direction or location.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But to think she can carr’ on alone!” He allowed his head to swing laterally three or four times in silence."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Passing under, Hodak cut loose with his laser-quads, raking laterally across the destroyer's underside."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But to think she can manage alone!” He allowed his head to swing laterally three or four times in silence."*

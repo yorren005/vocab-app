@@ -5,14 +5,6 @@ status: unread
 ---
 # ungrammatical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not grammatical; not conforming to the rules of grammar or accepted usage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not grammatical; not conforming to the rules of grammar or accepted usage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Out with it!” he shouted, and in one ungrammatical sentence, as long as the ribbons that conjurers pull from their mouths, she told of the capture of Wendy and the boys."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"In the best French which he could muster, and which was in sooth of a very ungrammatical sort, Jos besought the hussar to tell his tale."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not grammatical; not conforming to the rules of grammar or accepted usage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not grammatical; not conforming to the rules of grammar or accepted usage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"Out with it!” he shouted, and in one ungrammatical sentence, as long as the ribbons that conjurers pull from their mouths, she told of the capture of Wendy and the boys."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"In the best French which he could muster, and which was in sooth of a very ungrammatical sort, Jos besought the hussar to tell his tale."*

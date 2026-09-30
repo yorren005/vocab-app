@@ -5,13 +5,6 @@ status: unread
 ---
 # regimented
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to rigid discipline, order, and systematization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form (military personnel) into a regiment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regimented designates subject to rigid discipline, order, and systematization."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to rigid discipline, order, and systematization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form (military personnel) into a regiment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regimented designates subject to rigid discipline, order, and systematization."*

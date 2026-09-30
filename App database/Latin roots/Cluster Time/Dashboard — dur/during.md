@@ -5,15 +5,6 @@ status: unread
 ---
 # during
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin dur within the domain of Time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of dur in systematic terminology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I tell thee, Syracusian, twenty years Have I been patron to Antipholus, During which time he ne’er saw Syracusa."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then our office may, During his power, go sleep."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This way the Romans Must or for Britons slay us, or receive us For barbarous and unnatural revolts During their use, and slay us after."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin dur within the domain of Time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of dur in systematic terminology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I tell thee, Syracusian, twenty years Have I been patron to Antipholus, During which time he ne’er saw Syracusa."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then our office may, During his power, go sleep."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This way the Romans Must or for Britons slay us, or receive us For barbarous and unnatural revolts During their use, and slay us after."*

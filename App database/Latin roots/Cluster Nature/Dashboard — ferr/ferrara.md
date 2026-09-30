@@ -5,15 +5,6 @@ status: unread
 ---
 # ferrara
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in northern italy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in northern italy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Item, you sent a large commission To Gregory de Cassado, to conclude, Without the King’s will or the state’s allowance, A league between his Highness and Ferrara."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Ferrara’ is a good example of the constitution of this art-form."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"In giving the monologues new titles, ‘My Last Duchess’ and ‘Count Gismond’, he added to the one, ‘Ferrara’, and to the other, ‘Aix in Provence’, thus locally restricting the order of character which they severally represent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in northern italy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in northern italy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Item, you sent a large commission To Gregory de Cassado, to conclude, Without the King’s will or the state’s allowance, A league between his Highness and Ferrara."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Ferrara’ is a good example of the constitution of this art-form."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"In giving the monologues new titles, ‘My Last Duchess’ and ‘Count Gismond’, he added to the one, ‘Ferrara’, and to the other, ‘Aix in Provence’, thus locally restricting the order of character which they severally represent."*

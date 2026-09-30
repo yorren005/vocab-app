@@ -5,13 +5,6 @@ status: unread
 ---
 # lunchtime
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The customary or habitual hour for eating lunch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The customary or habitual hour for eating lunch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Blue bloom is on the rye. —He was in at lunchtime, miss Douce said."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The customary or habitual hour for eating lunch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The customary or habitual hour for eating lunch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Blue bloom is on the rye. —He was in at lunchtime, miss Douce said."*

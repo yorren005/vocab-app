@@ -5,15 +5,6 @@ status: unread
 ---
 # excitation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being emotionally aroused and worked up.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The neural or electrical arousal of an organ or muscle or gland.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The influence that had passed into Clare like an excitation from the sky did not die down."*
-> - 📜 **James Joyce (*Ulysses*):** *"Somnolent invocation, less somnolent recognition, incipient excitation, catechetical interrogation."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"Asceticism, quietism, enthusiasm, ecstasy--all systems which imply an unnatural repression or an unnatural excitation of our faculties--are ill-suited for the mass of mankind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being emotionally aroused and worked up.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The neural or electrical arousal of an organ or muscle or gland.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The influence that had passed into Clare like an excitation from the sky did not die down."*
+> - 📜 **James Joyce (*Ulysses*):** *"Somnolent invocation, less somnolent recognition, incipient excitation, catechetical interrogation."*
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"Asceticism, quietism, enthusiasm, ecstasy--all systems which imply an unnatural repression or an unnatural excitation of our faculties--are ill-suited for the mass of mankind."*

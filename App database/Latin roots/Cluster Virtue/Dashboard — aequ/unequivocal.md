@@ -5,15 +5,6 @@ status: unread
 ---
 # unequivocal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clearly defined or formulated; - r.b.taney.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Such are the open, unequivocal expressions of contempt and disgust, with which many treat the doctrines of the cross."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON To the People of the State of New York: After an unequivocal experience of the inefficacy of the subsisting federal government, you are called upon to deliberate on a new Constitution for the United States of America."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Experience is the oracle of truth; and where its responses are unequivocal, they ought to be conclusive and sacred."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clearly defined or formulated; - r.b.taney.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Such are the open, unequivocal expressions of contempt and disgust, with which many treat the doctrines of the cross."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON To the People of the State of New York: After an unequivocal experience of the inefficacy of the subsisting federal government, you are called upon to deliberate on a new Constitution for the United States of America."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Experience is the oracle of truth; and where its responses are unequivocal, they ought to be conclusive and sacred."*

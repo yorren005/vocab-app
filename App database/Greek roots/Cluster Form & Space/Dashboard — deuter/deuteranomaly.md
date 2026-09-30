@@ -5,13 +5,6 @@ status: unread
 ---
 # deuteranomaly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting partial loss of green color vision so that an increased intensity of green is required in a mixture of red and green to match a given yellow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting partial loss of green color vision so that an increased intensity of green is required in a mixture of red and green to match a given yellow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deuteranomaly designates exhibiting partial loss of green color vision so that an increased intensity of green is required in a mixture of red and green to match a given yellow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting partial loss of green color vision so that an increased intensity of green is required in a mixture of red and green to match a given yellow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting partial loss of green color vision so that an increased intensity of green is required in a mixture of red and green to match a given yellow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deuteranomaly designates exhibiting partial loss of green color vision so that an increased intensity of green is required in a mixture of red and green to match a given yellow."*

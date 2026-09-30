@@ -5,15 +5,6 @@ status: unread
 ---
 # tum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enlarged and muscular saclike organ of the alimentary canal; the principal organ of digestion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enlarged and muscular saclike organ of the alimentary canal; the principal organ of digestion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Then, from the road, “With my ra-ta-ta, and my rum-tum-tum!” It was a ploughboy."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Then, from the road, “With my ra-ta-ta, and my rum-tum-tum!” It was a ploughboy."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Drug-systems are quitting their hold on matter and so letting in matter's higher stra- 158:27 tum, mortal mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enlarged and muscular saclike organ of the alimentary canal; the principal organ of digestion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enlarged and muscular saclike organ of the alimentary canal; the principal organ of digestion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Then, from the road, “With my ra-ta-ta, and my rum-tum-tum!” It was a ploughboy."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Then, from the road, “With my ra-ta-ta, and my rum-tum-tum!” It was a ploughboy."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Drug-systems are quitting their hold on matter and so letting in matter's higher stra- 158:27 tum, mortal mind."*

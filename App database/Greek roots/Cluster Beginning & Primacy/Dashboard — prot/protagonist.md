@@ -5,14 +5,6 @@ status: unread
 ---
 # protagonist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal character in a literary work (such as a drama or story).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The leading actor or principal character in a television show, movie, book, etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I am all of my past, as every protagonist of the Mendelian law must agree."*
-> - 📜 **James Joyce (*Ulysses*):** *"Lockhart’s _Life of Napoleon_ (cover wanting, marginal annotations, minimising victories, aggrandising defeats of the protagonist). _Soll und Haben_ by Gustav Freytag (black boards, Gothic characters, cigarette coupon bookmark at p. 24)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal character in a literary work (such as a drama or story).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The leading actor or principal character in a television show, movie, book, etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I am all of my past, as every protagonist of the Mendelian law must agree."*
+> - 📜 **James Joyce (*Ulysses*):** *"Lockhart’s _Life of Napoleon_ (cover wanting, marginal annotations, minimising victories, aggrandising defeats of the protagonist). _Soll und Haben_ by Gustav Freytag (black boards, Gothic characters, cigarette coupon bookmark at p. 24)."*

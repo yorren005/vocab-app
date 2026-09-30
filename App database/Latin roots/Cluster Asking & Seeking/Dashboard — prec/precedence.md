@@ -5,15 +5,6 @@ status: unread
 ---
 # precedence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Status established in order of importance or urgency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preceding in time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not like “But yet”, it does allay The good precedence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, page; it is an epilogue or discourse to make plain Some obscure precedence that hath tofore been sain."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"On the plate which, in size and situation, took precedence of all the rest, I read, MR."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Status established in order of importance or urgency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preceding in time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not like “But yet”, it does allay The good precedence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, page; it is an epilogue or discourse to make plain Some obscure precedence that hath tofore been sain."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"On the plate which, in size and situation, took precedence of all the rest, I read, MR."*

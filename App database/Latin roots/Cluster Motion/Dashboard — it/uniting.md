@@ -5,15 +5,6 @@ status: unread
 ---
 # uniting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The combination of two or more commercial companies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making or becoming a single unit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Instead of pushing his fortune in the line marked out for the heir of the house of Elliot, he had purchased independence by uniting himself to a rich woman of inferior birth."*
-> - 📜 **Jane Austen (*Persuasion*):** *"He considered his disposition as of the sort which must suffer heavily, uniting very strong feelings with quiet, serious, and retiring manners, and a decided taste for reading, and sedentary pursuits."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here now stood the tomb as the men had stated, snow-white and shapely in the gloom, consisting of head and foot-stone, and enclosing border of marble-work uniting them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The combination of two or more commercial companies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making or becoming a single unit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Instead of pushing his fortune in the line marked out for the heir of the house of Elliot, he had purchased independence by uniting himself to a rich woman of inferior birth."*
+> - 📜 **Jane Austen (*Persuasion*):** *"He considered his disposition as of the sort which must suffer heavily, uniting very strong feelings with quiet, serious, and retiring manners, and a decided taste for reading, and sedentary pursuits."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here now stood the tomb as the men had stated, snow-white and shapely in the gloom, consisting of head and foot-stone, and enclosing border of marble-work uniting them."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # value
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A numerical quantity measured or assigned or computed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality (positive or negative) that renders something desirable or valuable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was too young that time to value her, But now I know her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rome must know The value of her own. ’Twere a concealment Worse than a theft, no less than a traducement, To hide your doings and to silence that Which, to the spire and top of praises vouched, Would seem but modest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Which the rather We shall be blest to do if he remember A kinder value of the people than He hath hereto prized them at."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A numerical quantity measured or assigned or computed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality (positive or negative) that renders something desirable or valuable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was too young that time to value her, But now I know her."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rome must know The value of her own. ’Twere a concealment Worse than a theft, no less than a traducement, To hide your doings and to silence that Which, to the spire and top of praises vouched, Would seem but modest."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Which the rather We shall be blest to do if he remember A kinder value of the people than He hath hereto prized them at."*

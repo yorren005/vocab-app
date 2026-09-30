@@ -5,15 +5,6 @@ status: unread
 ---
 # accessible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being reached.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being read with comprehension.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Accessible is none but Milford way. [_Exeunt._] SCENE III."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Green’s appears, on inquiry, to be at the present time aboard a vessel bound for China, three months out, but considered accessible by telegraph on application to the Lords of the Admiralty."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"But your mind is warped by an innate principle of general integrity, and therefore not accessible to the cool reasonings of family partiality, or a desire of revenge.” Catherine was complimented out of further bitterness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being reached.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being read with comprehension.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Accessible is none but Milford way. [_Exeunt._] SCENE III."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Green’s appears, on inquiry, to be at the present time aboard a vessel bound for China, three months out, but considered accessible by telegraph on application to the Lords of the Admiralty."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"But your mind is warped by an innate principle of general integrity, and therefore not accessible to the cool reasonings of family partiality, or a desire of revenge.” Catherine was complimented out of further bitterness."*

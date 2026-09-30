@@ -5,13 +5,6 @@ status: unread
 ---
 # volt-ampere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of electrical power in an ac circuit equal to the power dissipated when 1 volt produces a current of 1 ampere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of electrical power in an ac circuit equal to the power dissipated when 1 volt produces a current of 1 ampere.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volt-ampere designates a unit of electrical power in an ac circuit equal to the power dissipated when 1 volt produces a current of 1 ampere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of electrical power in an ac circuit equal to the power dissipated when 1 volt produces a current of 1 ampere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of electrical power in an ac circuit equal to the power dissipated when 1 volt produces a current of 1 ampere.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volt-ampere designates a unit of electrical power in an ac circuit equal to the power dissipated when 1 volt produces a current of 1 ampere."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # liquidation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Termination of a business operation by using its assets to discharge its liabilities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of exterminating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Sometimes this process of liquidation goes on quietly and in other cases it becomes a wild scramble, each one trying to save himself, in which case it is a financial _panic_."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I have an impression that they were to be contributed eventually towards the liquidation of the National Debt, but I know I had no hope of any personal participation in the treasure."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The immediate pressure of this inequality was not in this case, as in that of the contributions of money, alleviated by the hope of a final liquidation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Termination of a business operation by using its assets to discharge its liabilities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of exterminating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Sometimes this process of liquidation goes on quietly and in other cases it becomes a wild scramble, each one trying to save himself, in which case it is a financial _panic_."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I have an impression that they were to be contributed eventually towards the liquidation of the National Debt, but I know I had no hope of any personal participation in the treasure."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The immediate pressure of this inequality was not in this case, as in that of the contributions of money, alleviated by the hope of a final liquidation."*

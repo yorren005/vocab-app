@@ -5,15 +5,6 @@ status: unread
 ---
 # curing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of becoming hard or solid by cooling or drying or crystallization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide a cure for, make healthy again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet I profess curing it by counsel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Before the curing of a strong disease, Even in the instant of repair and health, The fit is strongest; evils that take leave On their departure most of all show evil."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The tardy curing and the endless scraping of the sealskins, so as to make them soft and pliable for garments, occupied my spare moments for months and months."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of becoming hard or solid by cooling or drying or crystallization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide a cure for, make healthy again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet I profess curing it by counsel."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Before the curing of a strong disease, Even in the instant of repair and health, The fit is strongest; evils that take leave On their departure most of all show evil."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The tardy curing and the endless scraping of the sealskins, so as to make them soft and pliable for garments, occupied my spare moments for months and months."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # incorporate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make into a whole or make part of a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Include or contain; have as a component.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thyself I call it, being strange to me, That, undividable, incorporate, Am better than thy dear self’s better part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, it is Casca, one incorporate To our attempts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We, Hermia, like two artificial gods, Have with our needles created both one flower, Both on one sampler, sitting on one cushion, Both warbling of one song, both in one key, As if our hands, our sides, voices, and minds, Had been incorporate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make into a whole or make part of a whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Include or contain; have as a component.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thyself I call it, being strange to me, That, undividable, incorporate, Am better than thy dear self’s better part."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, it is Casca, one incorporate To our attempts."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We, Hermia, like two artificial gods, Have with our needles created both one flower, Both on one sampler, sitting on one cushion, Both warbling of one song, both in one key, As if our hands, our sides, voices, and minds, Had been incorporate."*

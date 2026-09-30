@@ -5,13 +5,6 @@ status: unread
 ---
 # levorotatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rotating to the left.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rotating to the left.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levorotatory designates rotating to the left."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rotating to the left.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rotating to the left.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levorotatory designates rotating to the left."*

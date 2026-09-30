@@ -5,15 +5,6 @@ status: unread
 ---
 # ejaculate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The thick white fluid containing spermatozoa that is ejaculated by the male genital tract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter impulsively.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed, seized with a fit of coughing in the midst of his triumph, breaks off to ejaculate, “Oh, dear me!"*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Clarke wiped his bloody nose, declaring he had a good mind to put the aggressor in the Crown-office; and Captain Crowe continued to ejaculate unconnected oaths; which, however, seemed to imply that he was almost sick of his new profession."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket tells him, after a pause, “It was a woman.” Sir Leicester leans back in his chair, and breathlessly ejaculates, “Good heaven!” “Now, Sir Leicester Dedlock, Baronet,” Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The thick white fluid containing spermatozoa that is ejaculated by the male genital tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter impulsively.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed, seized with a fit of coughing in the midst of his triumph, breaks off to ejaculate, “Oh, dear me!"*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Clarke wiped his bloody nose, declaring he had a good mind to put the aggressor in the Crown-office; and Captain Crowe continued to ejaculate unconnected oaths; which, however, seemed to imply that he was almost sick of his new profession."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket tells him, after a pause, “It was a woman.” Sir Leicester leans back in his chair, and breathlessly ejaculates, “Good heaven!” “Now, Sir Leicester Dedlock, Baronet,” Mr."*

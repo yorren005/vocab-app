@@ -5,14 +5,6 @@ status: unread
 ---
 # initiator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who initiates a course of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who initiates a course of action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"NAPOLEON MOSCOW, OCTOBER 30, 1812 Kutúzov replied: “I should be cursed by posterity were I looked on as the initiator of a settlement of any sort."*
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"Can it go on in the absence of its initiators?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who initiates a course of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who initiates a course of action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"NAPOLEON MOSCOW, OCTOBER 30, 1812 Kutúzov replied: “I should be cursed by posterity were I looked on as the initiator of a settlement of any sort."*
+> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"Can it go on in the absence of its initiators?"*

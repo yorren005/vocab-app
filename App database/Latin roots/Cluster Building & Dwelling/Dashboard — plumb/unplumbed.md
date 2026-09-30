@@ -5,13 +5,6 @@ status: unread
 ---
 # unplumbed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated at or extending to great depth; too deep to have been sounded or plumbed; ; -thomas gray.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated at or extending to great depth; too deep to have been sounded or plumbed; ; -thomas gray.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unplumbed designates situated at or extending to great depth; too deep to have been sounded or plumbed; ; -thomas gray."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated at or extending to great depth; too deep to have been sounded or plumbed; ; -thomas gray.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated at or extending to great depth; too deep to have been sounded or plumbed; ; -thomas gray.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unplumbed designates situated at or extending to great depth; too deep to have been sounded or plumbed; ; -thomas gray."*

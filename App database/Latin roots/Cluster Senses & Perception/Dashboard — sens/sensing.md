@@ -5,14 +5,6 @@ status: unread
 ---
 # sensing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The perception that something has occurred or some state exists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Becoming aware of something via the senses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hodak, sensing Drummer's scrutiny, glanced sideways at him, winked straight-faced, and returned to observe the crowd."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Sensing movement behind him, he slipped sideways and hit the deck."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The perception that something has occurred or some state exists.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Becoming aware of something via the senses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hodak, sensing Drummer's scrutiny, glanced sideways at him, winked straight-faced, and returned to observe the crowd."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Sensing movement behind him, he slipped sideways and hit the deck."*

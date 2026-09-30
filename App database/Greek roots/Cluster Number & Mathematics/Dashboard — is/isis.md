@@ -5,15 +5,6 @@ status: unread
 ---
 # isis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Egyptian goddess of fertility; daughter of geb; sister and wife of osiris.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pakistan intelligence agency; a powerful and almost autonomous political and military force; has procured nuclear technology and delivery capabilities; has had strong ties with the taliban and other militant islamic groups.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, let him marry a woman that cannot go, sweet Isis, I beseech thee, and let her die too, and give him a worse, and let worse follow worse, till the worst of all follow him laughing to his grave, fiftyfold a cuckold!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Isis, hear me this prayer, though thou deny me a matter of more weight; good Isis, I beseech thee!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, dear Isis, keep decorum and fortune him accordingly!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Egyptian goddess of fertility; daughter of geb; sister and wife of osiris.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pakistan intelligence agency; a powerful and almost autonomous political and military force; has procured nuclear technology and delivery capabilities; has had strong ties with the taliban and other militant islamic groups.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, let him marry a woman that cannot go, sweet Isis, I beseech thee, and let her die too, and give him a worse, and let worse follow worse, till the worst of all follow him laughing to his grave, fiftyfold a cuckold!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Isis, hear me this prayer, though thou deny me a matter of more weight; good Isis, I beseech thee!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, dear Isis, keep decorum and fortune him accordingly!"*

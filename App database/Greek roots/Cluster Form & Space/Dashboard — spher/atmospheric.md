@@ -5,15 +5,6 @@ status: unread
 ---
 # atmospheric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or located in the atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or located in the atmosphere.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That protection could only consist in his own predominating brain and heart and hand, backed by a heedful, closely calculating attention to every minute atmospheric influence which it was possible for his crew to be subjected to."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Beneath this atmospheric waving and curling, and partially beneath a thin layer of water, also, the whales were swimming."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"We all know what an astonishing atmospheric weight we ourselves stand up under; even here, above-ground, in the air; how vast, then, the burden of a whale, bearing on his back a column of two hundred fathoms of ocean!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or located in the atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or located in the atmosphere.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That protection could only consist in his own predominating brain and heart and hand, backed by a heedful, closely calculating attention to every minute atmospheric influence which it was possible for his crew to be subjected to."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Beneath this atmospheric waving and curling, and partially beneath a thin layer of water, also, the whales were swimming."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"We all know what an astonishing atmospheric weight we ourselves stand up under; even here, above-ground, in the air; how vast, then, the burden of a whale, bearing on his back a column of two hundred fathoms of ocean!"*

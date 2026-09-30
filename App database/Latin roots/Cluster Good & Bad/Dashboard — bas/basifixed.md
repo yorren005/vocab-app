@@ -5,13 +5,6 @@ status: unread
 ---
 # basifixed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attached by its base (as certain anthers to their filaments or stalks).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attached by its base (as certain anthers to their filaments or stalks).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basifixed designates attached by its base (as certain anthers to their filaments or stalks)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attached by its base (as certain anthers to their filaments or stalks).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attached by its base (as certain anthers to their filaments or stalks).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basifixed designates attached by its base (as certain anthers to their filaments or stalks)."*

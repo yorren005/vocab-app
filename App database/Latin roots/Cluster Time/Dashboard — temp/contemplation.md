@@ -5,15 +5,6 @@ status: unread
 ---
 # contemplation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long and thoughtful observation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A calm, lengthy, intent consideration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And did you leave him in this contemplation?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In lieu whereof, I pray you, bear me hence From forth the noise and rumour of the field, Where I may think the remnant of my thoughts In peace, and part this body and my soul With contemplation and devout desires."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How now, brother Edmund, what serious contemplation are you in?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long and thoughtful observation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A calm, lengthy, intent consideration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And did you leave him in this contemplation?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In lieu whereof, I pray you, bear me hence From forth the noise and rumour of the field, Where I may think the remnant of my thoughts In peace, and part this body and my soul With contemplation and devout desires."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How now, brother Edmund, what serious contemplation are you in?"*

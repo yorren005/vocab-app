@@ -5,20 +5,6 @@ status: unread
 ---
 # gush
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Emit a sudden copious flow
-> 2. **Nuance / Usage**: Issue copiously or violently
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to gush the target*) and intransitive clauses (*gushing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"crowd began to gush forth from the doors of the church."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Simeon--our love and pity gush out for Benjamin, the little one."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"but all at once a gush of child’s sensations flowed into my heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Emit a sudden copious flow
+> 2. **Nuance / Usage**: Issue copiously or violently
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to gush the target*) and intransitive clauses (*gushing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"crowd began to gush forth from the doors of the church."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Simeon--our love and pity gush out for Benjamin, the little one."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"but all at once a gush of child’s sensations flowed into my heart."*

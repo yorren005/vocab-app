@@ -5,13 +5,6 @@ status: unread
 ---
 # suspenseful
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a situation) characterized by or causing suspense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a situation) characterized by or causing suspense.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suspenseful designates (of a situation) characterized by or causing suspense."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a situation) characterized by or causing suspense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a situation) characterized by or causing suspense.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suspenseful designates (of a situation) characterized by or causing suspense."*

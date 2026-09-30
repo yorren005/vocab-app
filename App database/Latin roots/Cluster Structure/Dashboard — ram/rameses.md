@@ -5,13 +5,6 @@ status: unread
 ---
 # rameses
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of 12 kings of ancient egypt between 1315 and 1090 bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of 12 kings of ancient egypt between 1315 and 1090 bc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rameses designates any of 12 kings of ancient egypt between 1315 and 1090 bc."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of 12 kings of ancient egypt between 1315 and 1090 bc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of 12 kings of ancient egypt between 1315 and 1090 bc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rameses designates any of 12 kings of ancient egypt between 1315 and 1090 bc."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # scots
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dialect of english used in scotland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of scotland.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those same noble Scots That are your prisoners— HOTSPUR."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not yet of Percy’s mind, the Hotspur of the north, he that kills me some six or seven dozen of Scots at a breakfast, washes his hands, and says to his wife, “Fie upon this quiet life!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Owen, Owen, the same; and his son-in-law Mortimer, and old Northumberland, and that sprightly Scot of Scots, Douglas, that runs a-horseback up a hill perpendicular— PRINCE."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dialect of english used in scotland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of scotland.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those same noble Scots That are your prisoners— HOTSPUR."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not yet of Percy’s mind, the Hotspur of the north, he that kills me some six or seven dozen of Scots at a breakfast, washes his hands, and says to his wife, “Fie upon this quiet life!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Owen, Owen, the same; and his son-in-law Mortimer, and old Northumberland, and that sprightly Scot of Scots, Douglas, that runs a-horseback up a hill perpendicular— PRINCE."*

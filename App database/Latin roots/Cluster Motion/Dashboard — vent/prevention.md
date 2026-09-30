@@ -5,15 +5,6 @@ status: unread
 ---
 # prevention
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of preventing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of preventing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But God be thanked for prevention, Which I in sufferance heartily will rejoice, Beseeching God and you to pardon me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But fear not thou until thy foot be snared, Nor never seek prevention of thy foes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Seek none, conspiracy; Hide it in smiles and affability: For if thou path, thy native semblance on, Not Erebus itself were dim enough To hide thee from prevention."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of preventing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of preventing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But God be thanked for prevention, Which I in sufferance heartily will rejoice, Beseeching God and you to pardon me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But fear not thou until thy foot be snared, Nor never seek prevention of thy foes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Seek none, conspiracy; Hide it in smiles and affability: For if thou path, thy native semblance on, Not Erebus itself were dim enough To hide thee from prevention."*

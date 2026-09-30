@@ -5,15 +5,6 @@ status: unread
 ---
 # repulsive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offensive to the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing the ability to repel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Mary was not so repulsive and unsisterly as Elizabeth, nor so inaccessible to all influence of hers; neither was there anything among the other component parts of the cottage inimical to comfort."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"This violence is all most repulsive:” and so, no doubt, she felt it."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"His theory was repulsive, but comprehensible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Offensive to the mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing the ability to repel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Mary was not so repulsive and unsisterly as Elizabeth, nor so inaccessible to all influence of hers; neither was there anything among the other component parts of the cottage inimical to comfort."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"This violence is all most repulsive:” and so, no doubt, she felt it."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"His theory was repulsive, but comprehensible."*

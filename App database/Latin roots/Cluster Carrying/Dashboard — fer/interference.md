@@ -5,15 +5,6 @@ status: unread
 ---
 # interference
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A policy of intervening in the affairs of other countries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of hindering or obstructing or impeding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"It must not be, if by any fair interference of friendship, any representations from one who had almost a mother’s love, and mother’s rights, it would be prevented."*
-> - 📜 **Jane Austen (*Persuasion*):** *"What! would I be turned back from doing a thing that I had determined to do, and that I knew to be right, by the airs and interference of such a person, or of any person I may say?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now, Boldwood, yours is the ridiculous fate which always attends interference between a man and his wife."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A policy of intervening in the affairs of other countries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of hindering or obstructing or impeding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"It must not be, if by any fair interference of friendship, any representations from one who had almost a mother’s love, and mother’s rights, it would be prevented."*
+> - 📜 **Jane Austen (*Persuasion*):** *"What! would I be turned back from doing a thing that I had determined to do, and that I knew to be right, by the airs and interference of such a person, or of any person I may say?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now, Boldwood, yours is the ridiculous fate which always attends interference between a man and his wife."*

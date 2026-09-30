@@ -5,13 +5,6 @@ status: unread
 ---
 # polycyclic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having more than one cyclic component; especially : having two or more rings in the molecule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class of hydrocarbon molecules that have multiple carbon rings, and that include carcinogenic substances and environmental pollutants —abbreviation PAH.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polycyclic designates having more than one cyclic component; especially : having two or more rings in the molecule."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having more than one cyclic component; especially : having two or more rings in the molecule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class of hydrocarbon molecules that have multiple carbon rings, and that include carcinogenic substances and environmental pollutants —abbreviation PAH.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polycyclic designates having more than one cyclic component; especially : having two or more rings in the molecule."*

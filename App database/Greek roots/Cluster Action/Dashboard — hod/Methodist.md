@@ -5,15 +5,6 @@ status: unread
 ---
 # methodist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A follower of wesleyanism as practiced by the methodist church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or characteristic of the branch of protestantism adhering to the views of wesley.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And what mid Methodist pa’sons have to do with she?” “Who is the fellow?” asked d’Urberville, turning to Tess."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Every step was accomplished by the simple way of prayer; and, when I slept, late that night, in a cosy room at the Methodist parsonage in N.B., I could look back over the last few weeks, and thank God for the _power of prayer_."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Starting out, one night, to look for a place of worship, she turned her feet to a Methodist meeting from whence the sound of singing had reached her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A follower of wesleyanism as practiced by the methodist church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or characteristic of the branch of protestantism adhering to the views of wesley.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And what mid Methodist pa’sons have to do with she?” “Who is the fellow?” asked d’Urberville, turning to Tess."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Every step was accomplished by the simple way of prayer; and, when I slept, late that night, in a cosy room at the Methodist parsonage in N.B., I could look back over the last few weeks, and thank God for the _power of prayer_."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Starting out, one night, to look for a place of worship, she turned her feet to a Methodist meeting from whence the sound of singing had reached her."*

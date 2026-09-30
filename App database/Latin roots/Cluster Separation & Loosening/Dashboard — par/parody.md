@@ -5,15 +5,6 @@ status: unread
 ---
 # parody
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A composition that imitates or misrepresents somebody's style, usually in a humorous way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Humorous or satirical mimicry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"A doggerel parody on _John Gilpin_, entitled "The Diverting History of John Cairns," in which a highly coloured account is given of the supposed genesis of the pamphlet, was written and found wide circulation."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"As the flames rose, the _Te Deum_ was sung, and a villager thundered out a parody in the Norman dialect of the hymn _ut queant laxis_."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Author’s Earnest Cry And Prayer To the Right Honourable and Honourable Scotch Representatives in the House of Commons.^1 Dearest of distillation! last and best— —How art thou lost!— Parody on Milton."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A composition that imitates or misrepresents somebody's style, usually in a humorous way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Humorous or satirical mimicry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"A doggerel parody on _John Gilpin_, entitled "The Diverting History of John Cairns," in which a highly coloured account is given of the supposed genesis of the pamphlet, was written and found wide circulation."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"As the flames rose, the _Te Deum_ was sung, and a villager thundered out a parody in the Norman dialect of the hymn _ut queant laxis_."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Author’s Earnest Cry And Prayer To the Right Honourable and Honourable Scotch Representatives in the House of Commons.^1 Dearest of distillation! last and best— —How art thou lost!— Parody on Milton."*

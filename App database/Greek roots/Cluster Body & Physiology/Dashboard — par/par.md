@@ -5,15 +5,6 @@ status: unread
 ---
 # par
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The established value of the monetary unit of one country expressed in terms of the monetary unit of another country using the same metal as the standard of value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The face amount of an instrument of value (such as a check or note): such as.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A drum now of the enemy’s! [_Alarum within._] FIRST LORD. _Throca movousus, cargo, cargo, cargo._ ALL. _Cargo, cargo, cargo, villianda par corbo, cargo._ [_They seize and blindfold him._] PAROLLES."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He and Jo listen to the music, probably with much the same amount of animal satisfaction; likewise as to awakened association, aspiration, or regret, melancholy or joyful reference to things beyond the senses, they are probably upon a par."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The _par of exchange_ between standard coins of different countries is the expression of the ratio of fine metal in them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The established value of the monetary unit of one country expressed in terms of the monetary unit of another country using the same metal as the standard of value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The face amount of an instrument of value (such as a check or note): such as.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A drum now of the enemy’s! [_Alarum within._] FIRST LORD. _Throca movousus, cargo, cargo, cargo._ ALL. _Cargo, cargo, cargo, villianda par corbo, cargo._ [_They seize and blindfold him._] PAROLLES."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He and Jo listen to the music, probably with much the same amount of animal satisfaction; likewise as to awakened association, aspiration, or regret, melancholy or joyful reference to things beyond the senses, they are probably upon a par."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The _par of exchange_ between standard coins of different countries is the expression of the ratio of fine metal in them."*

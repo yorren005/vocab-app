@@ -5,13 +5,6 @@ status: unread
 ---
 # monochromacy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete color blindness; colors can be differentiated only on the basis of brightness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Complete color blindness; colors can be differentiated only on the basis of brightness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monochromacy designates complete color blindness; colors can be differentiated only on the basis of brightness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete color blindness; colors can be differentiated only on the basis of brightness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Complete color blindness; colors can be differentiated only on the basis of brightness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monochromacy designates complete color blindness; colors can be differentiated only on the basis of brightness."*

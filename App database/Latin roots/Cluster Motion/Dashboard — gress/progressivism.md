@@ -5,13 +5,6 @@ status: unread
 ---
 # progressivism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The political orientation of those who favor progress toward better conditions in government and society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political orientation of those who favor progress toward better conditions in government and society.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, progressivism designates the political orientation of those who favor progress toward better conditions in government and society."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The political orientation of those who favor progress toward better conditions in government and society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political orientation of those who favor progress toward better conditions in government and society.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, progressivism designates the political orientation of those who favor progress toward better conditions in government and society."*

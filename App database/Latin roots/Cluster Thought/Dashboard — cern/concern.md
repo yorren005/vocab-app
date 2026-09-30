@@ -5,15 +5,6 @@ status: unread
 ---
 # concern
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that interests you because it is important or affects you.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anxious feeling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I learn you take things ill which are not so, Or being, concern you not."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s hear him, for the things he speaks may concern Caesar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say on, my Lord of Westmoreland, in peace, What doth concern your coming."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that interests you because it is important or affects you.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anxious feeling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I learn you take things ill which are not so, Or being, concern you not."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s hear him, for the things he speaks may concern Caesar."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say on, my Lord of Westmoreland, in peace, What doth concern your coming."*

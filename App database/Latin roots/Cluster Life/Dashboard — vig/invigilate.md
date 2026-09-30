@@ -5,13 +5,6 @@ status: unread
 ---
 # invigilate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Watch over (students taking an exam, to prevent cheating).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Watch over (students taking an exam, to prevent cheating).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invigilate designates watch over (students taking an exam, to prevent cheating)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Watch over (students taking an exam, to prevent cheating).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Watch over (students taking an exam, to prevent cheating).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invigilate designates watch over (students taking an exam, to prevent cheating)."*

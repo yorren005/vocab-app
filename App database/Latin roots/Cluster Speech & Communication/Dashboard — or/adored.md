@@ -5,15 +5,6 @@ status: unread
 ---
 # adored
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Love intensely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regarded with deep or rapturous love (especially as if for a god).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This yellow slave Will knit and break religions, bless th’ accursed, Make the hoar leprosy adored, place thieves And give them title, knee, and approbation With senators on the bench."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O thou senseless form, Thou shalt be worshipped, kissed, loved, and adored; And were there sense in his idolatry, My substance should be statue in thy stead."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This earthly saint, adored by this devil, Little suspecteth the false worshipper; For unstained thoughts do seldom dream on evil; Birds never limed no secret bushes fear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Love intensely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regarded with deep or rapturous love (especially as if for a god).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This yellow slave Will knit and break religions, bless th’ accursed, Make the hoar leprosy adored, place thieves And give them title, knee, and approbation With senators on the bench."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O thou senseless form, Thou shalt be worshipped, kissed, loved, and adored; And were there sense in his idolatry, My substance should be statue in thy stead."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This earthly saint, adored by this devil, Little suspecteth the false worshipper; For unstained thoughts do seldom dream on evil; Birds never limed no secret bushes fear."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # habitation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The native habitat or home of an animal or plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Housing that someone is living in.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O what a mansion have those vices got, Which for their habitation chose out thee, Where beauty’s veil doth cover every blot, And all things turns to fair, that eyes can see!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An habitation giddy and unsure Hath he that buildeth on the vulgar heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A breath thou art, Servile to all the skyey influences That dost this habitation where thou keep’st Hourly afflict."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The native habitat or home of an animal or plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Housing that someone is living in.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O what a mansion have those vices got, Which for their habitation chose out thee, Where beauty’s veil doth cover every blot, And all things turns to fair, that eyes can see!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An habitation giddy and unsure Hath he that buildeth on the vulgar heart."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A breath thou art, Servile to all the skyey influences That dost this habitation where thou keep’st Hourly afflict."*

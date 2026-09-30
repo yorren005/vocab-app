@@ -5,13 +5,6 @@ status: unread
 ---
 # topicalization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (linguistics) emphasis placed on the topic or focus of a sentence by preposing it to the beginning of the sentence; placing the topic at the beginning of the sentence is typical for english.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (linguistics) emphasis placed on the topic or focus of a sentence by preposing it to the beginning of the sentence; placing the topic at the beginning of the sentence is typical for english.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topicalization designates (linguistics) emphasis placed on the topic or focus of a sentence by preposing it to the beginning of the sentence; placing the topic at the beginning of the sentence is typical for english."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (linguistics) emphasis placed on the topic or focus of a sentence by preposing it to the beginning of the sentence; placing the topic at the beginning of the sentence is typical for english.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (linguistics) emphasis placed on the topic or focus of a sentence by preposing it to the beginning of the sentence; placing the topic at the beginning of the sentence is typical for english.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topicalization designates (linguistics) emphasis placed on the topic or focus of a sentence by preposing it to the beginning of the sentence; placing the topic at the beginning of the sentence is typical for english."*

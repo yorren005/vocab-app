@@ -5,13 +5,6 @@ status: unread
 ---
 # pennines
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of hills in britain that extend from the scottish border in the north to the trent river in the south; forms the watershed for english rivers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of hills in britain that extend from the scottish border in the north to the trent river in the south; forms the watershed for english rivers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pennines designates a system of hills in britain that extend from the scottish border in the north to the trent river in the south; forms the watershed for english rivers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of hills in britain that extend from the scottish border in the north to the trent river in the south; forms the watershed for english rivers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of hills in britain that extend from the scottish border in the north to the trent river in the south; forms the watershed for english rivers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pennines designates a system of hills in britain that extend from the scottish border in the north to the trent river in the south; forms the watershed for english rivers."*

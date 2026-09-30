@@ -5,13 +5,6 @@ status: unread
 ---
 # bassinet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A basket (usually hooded) used as a baby's bed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A perambulator that resembles a bassinet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bassinet designates a basket (usually hooded) used as a baby's bed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A basket (usually hooded) used as a baby's bed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A perambulator that resembles a bassinet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bassinet designates a basket (usually hooded) used as a baby's bed."*

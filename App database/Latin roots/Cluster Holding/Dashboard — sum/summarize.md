@@ -5,15 +5,6 @@ status: unread
 ---
 # summarize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give a summary (of).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be a summary of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Attempts to summarize the nation's wealth. § 5."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Summarize the facts adverse to our cause and our options for dealing with each."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"As his description of the rite contains some interesting particulars not mentioned in the foregoing account, it may be worth while to summarize it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give a summary (of).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be a summary of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Attempts to summarize the nation's wealth. § 5."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Summarize the facts adverse to our cause and our options for dealing with each."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"As his description of the rite contains some interesting particulars not mentioned in the foregoing account, it may be worth while to summarize it."*

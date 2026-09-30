@@ -5,15 +5,6 @@ status: unread
 ---
 # orthodox
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming to established doctrine especially in religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conventional.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"That day, after evening prayers, I took L---- by the arm, for a walk to "Orthodox point," a tree about a mile distant from the Seminary."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Do you know where the wicked go after death?” “They go to hell,” was my ready and orthodox answer."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"O a’ ye pious godly flocks, Weel fed on pastures orthodox, Wha now will keep you frae the fox, Or worrying tykes?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming to established doctrine especially in religion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conventional.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"That day, after evening prayers, I took L---- by the arm, for a walk to "Orthodox point," a tree about a mile distant from the Seminary."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Do you know where the wicked go after death?” “They go to hell,” was my ready and orthodox answer."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"O a’ ye pious godly flocks, Weel fed on pastures orthodox, Wha now will keep you frae the fox, Or worrying tykes?"*

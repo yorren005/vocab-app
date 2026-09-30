@@ -5,13 +5,6 @@ status: unread
 ---
 # perihelion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The point nearest to the sun in the path of an orbiting celestial body (such as a planet).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The point nearest to the sun in the path of an orbiting celestial body (such as a planet).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perihelion designates the point nearest to the sun in the path of an orbiting celestial body (such as a planet)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The point nearest to the sun in the path of an orbiting celestial body (such as a planet).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The point nearest to the sun in the path of an orbiting celestial body (such as a planet).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perihelion designates the point nearest to the sun in the path of an orbiting celestial body (such as a planet)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # affixation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The result of adding an affix to a root word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formation of a word by means of an affix.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, affixation designates the result of adding an affix to a root word."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The result of adding an affix to a root word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formation of a word by means of an affix.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, affixation designates the result of adding an affix to a root word."*

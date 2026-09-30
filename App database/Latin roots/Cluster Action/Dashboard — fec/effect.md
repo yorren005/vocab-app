@@ -5,15 +5,6 @@ status: unread
 ---
 # effect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phenomenon that follows and is caused by some previous phenomenon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An outward appearance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In our two loves there is but one respect, Though in our lives a separable spite, Which though it alter not love’s sole effect, Yet doth it steal sweet hours from love’s delight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A showing of a heavenly effect in an earthly actor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s take the instant by the forward top; For we are old, and on our quick’st decrees Th’inaudible and noiseless foot of time Steals ere we can effect them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phenomenon that follows and is caused by some previous phenomenon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An outward appearance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In our two loves there is but one respect, Though in our lives a separable spite, Which though it alter not love’s sole effect, Yet doth it steal sweet hours from love’s delight."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A showing of a heavenly effect in an earthly actor."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s take the instant by the forward top; For we are old, and on our quick’st decrees Th’inaudible and noiseless foot of time Steals ere we can effect them."*

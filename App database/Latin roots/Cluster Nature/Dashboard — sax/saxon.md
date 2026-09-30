@@ -5,15 +5,6 @@ status: unread
 ---
 # saxon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a germanic people who conquered england and merged with the angles and jutes to become anglo-saxons; dominant in england until the norman conquest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of the early saxons or anglo-saxons and their descendents (especially the english or lowland scots) and their language.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Correspondingly, "owner" is the Anglo-Saxon equivalent of "proprietor." Property thus, fundamentally, means not an object held, or possessed, but the right in or belonging to a person to control something that he owns."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Monopoly, as we have noted, never has ceased to rest under the ban of Anglo-Saxon law, and therefore to exemplify compulsory, as opposed to competitive distribution."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In the Isle of Man, one of the fortresses in which the Celtic language and lore longest held out against the siege of the Saxon invaders, the first of November, Old Style, has been regarded as New Year's day down to recent times."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a germanic people who conquered england and merged with the angles and jutes to become anglo-saxons; dominant in england until the norman conquest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of the early saxons or anglo-saxons and their descendents (especially the english or lowland scots) and their language.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Correspondingly, "owner" is the Anglo-Saxon equivalent of "proprietor." Property thus, fundamentally, means not an object held, or possessed, but the right in or belonging to a person to control something that he owns."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Monopoly, as we have noted, never has ceased to rest under the ban of Anglo-Saxon law, and therefore to exemplify compulsory, as opposed to competitive distribution."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In the Isle of Man, one of the fortresses in which the Celtic language and lore longest held out against the siege of the Saxon invaders, the first of November, Old Style, has been regarded as New Year's day down to recent times."*

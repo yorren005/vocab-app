@@ -5,15 +5,6 @@ status: unread
 ---
 # immutable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subject or susceptible to change or variation in form or quality or nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not subject or susceptible to change or variation in form or quality or nature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In comparison with cities, Weatherbury was immutable."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My friend would then turn to me, quiet and pale, and would say, ‘No, sir; that is impossible: I cannot do it, because it is wrong;’ and would become immutable as a fixed star."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It is the fixed and immutable law of this State, laid down in the leading case of Ruloff v."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subject or susceptible to change or variation in form or quality or nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not subject or susceptible to change or variation in form or quality or nature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In comparison with cities, Weatherbury was immutable."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My friend would then turn to me, quiet and pale, and would say, ‘No, sir; that is impossible: I cannot do it, because it is wrong;’ and would become immutable as a fixed star."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It is the fixed and immutable law of this State, laid down in the leading case of Ruloff v."*

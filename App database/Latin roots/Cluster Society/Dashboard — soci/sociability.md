@@ -5,15 +5,6 @@ status: unread
 ---
 # sociability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relative tendency or disposition to be sociable or associate with one's fellows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relative tendency or disposition to be sociable or associate with one's fellows.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"This sociability seemed a necessary part of professional prudence, and the entertainment must be suitable."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He made no offer of molestation or sociability, but kept aloof on one side of the road, jogging along on the blind side of old Gunpowder, who had now got over his fright and waywardness."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"Well, what are _you_ up to?” he asked with a grace of sociability in which it occurred to me that Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The relative tendency or disposition to be sociable or associate with one's fellows.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relative tendency or disposition to be sociable or associate with one's fellows.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"This sociability seemed a necessary part of professional prudence, and the entertainment must be suitable."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He made no offer of molestation or sociability, but kept aloof on one side of the road, jogging along on the blind side of old Gunpowder, who had now got over his fright and waywardness."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"Well, what are _you_ up to?” he asked with a grace of sociability in which it occurred to me that Mrs."*

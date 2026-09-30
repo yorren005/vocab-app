@@ -5,20 +5,6 @@ status: unread
 ---
 # hap
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Happen
-> 2. **Nuance / Usage**: Happening
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the hap withstood the storm*), direct object (*cleaved the hap*), or prepositional anchor (*amidst the hap*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And by me, had not our hap been bad."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"His help to crave and my dear hap to tell."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"That golden hap which their superiors want."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Happen
+> 2. **Nuance / Usage**: Happening
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the hap withstood the storm*), direct object (*cleaved the hap*), or prepositional anchor (*amidst the hap*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And by me, had not our hap been bad."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"His help to crave and my dear hap to tell."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"That golden hap which their superiors want."*

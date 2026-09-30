@@ -5,13 +5,6 @@ status: unread
 ---
 # decumbent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying down; in a position of comfort or rest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lying down; in a position of comfort or rest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decumbent designates lying down; in a position of comfort or rest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying down; in a position of comfort or rest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lying down; in a position of comfort or rest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decumbent designates lying down; in a position of comfort or rest."*

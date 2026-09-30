@@ -5,13 +5,6 @@ status: unread
 ---
 # officialese
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The style of writing characteristic of some government officials: formal and obscure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The style of writing characteristic of some government officials: formal and obscure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, officialese designates the style of writing characteristic of some government officials: formal and obscure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The style of writing characteristic of some government officials: formal and obscure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The style of writing characteristic of some government officials: formal and obscure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, officialese designates the style of writing characteristic of some government officials: formal and obscure."*

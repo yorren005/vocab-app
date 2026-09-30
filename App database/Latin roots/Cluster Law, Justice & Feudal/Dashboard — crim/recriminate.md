@@ -5,13 +5,6 @@ status: unread
 ---
 # recriminate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Return an accusation against someone or engage in mutual accusations; charge in return.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Return an accusation against someone or engage in mutual accusations; charge in return.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Besides, he might come and begin a string of abuse or complainings; I’m certain I should recriminate, and God knows where we should end!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Return an accusation against someone or engage in mutual accusations; charge in return.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Return an accusation against someone or engage in mutual accusations; charge in return.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Besides, he might come and begin a string of abuse or complainings; I’m certain I should recriminate, and God knows where we should end!"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # supernaturally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a supernatural manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a supernatural manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was now about nine o’clock, and the room seeming almost supernaturally quiet after these orgies, I began to congratulate myself upon a little plan that had occurred to me just previous to the entrance of the seamen."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The exquisite atmosphere of an almost supernaturally ideal life surrounds his pictures, irradiates the rosy features of his youthful faces, or greets us, like the peace of God, in the dignified figures of his devout old men."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Even the enemy was the same as at Austerlitz and Friedland—yet the terrible stroke of his arm had supernaturally become impotent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a supernatural manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a supernatural manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was now about nine o’clock, and the room seeming almost supernaturally quiet after these orgies, I began to congratulate myself upon a little plan that had occurred to me just previous to the entrance of the seamen."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The exquisite atmosphere of an almost supernaturally ideal life surrounds his pictures, irradiates the rosy features of his youthful faces, or greets us, like the peace of God, in the dignified figures of his devout old men."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Even the enemy was the same as at Austerlitz and Friedland—yet the terrible stroke of his arm had supernaturally become impotent."*

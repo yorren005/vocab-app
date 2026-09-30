@@ -5,15 +5,6 @@ status: unread
 ---
 # conserve
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fruit preserved by cooking with sugar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Keep constant through physical or chemical reactions or evolutionary change.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art too noble to conserve a life In base appliances."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Le cœur se sature d’amour comme d’un sel divin qui le conserve; de là l’incorruptible adhérence de ceux qui se sont aimés dès l’aube de la vie, et la fraîcheur des vielles amours prolongées."*
-> - 📜 **James Joyce (*Ulysses*):** *"May Allah the Excellent One your soul this night ever tremendously conserve."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fruit preserved by cooking with sugar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Keep constant through physical or chemical reactions or evolutionary change.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art too noble to conserve a life In base appliances."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Le cœur se sature d’amour comme d’un sel divin qui le conserve; de là l’incorruptible adhérence de ceux qui se sont aimés dès l’aube de la vie, et la fraîcheur des vielles amours prolongées."*
+> - 📜 **James Joyce (*Ulysses*):** *"May Allah the Excellent One your soul this night ever tremendously conserve."*

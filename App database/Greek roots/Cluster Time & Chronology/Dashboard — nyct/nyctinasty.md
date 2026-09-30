@@ -5,13 +5,6 @@ status: unread
 ---
 # nyctinasty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant movement (such as the closing of a flower's petals or the reorientation of a leaf's position) that occurs in response to changes in light intensity (such as the onset of darkness) and that typically involves changes in cellular turgor : the nastic movement of the parts of some plants that occurs in the absence of a directional stimulus and that is associated with the plant's circadian cycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant movement (such as the closing of a flower's petals or the reorientation of a leaf's position) that occurs in response to changes in light intensity (such as the onset of darkness) and that typically involves changes in cellular turgor : the nastic movement of the parts of some plants that occurs in the absence of a directional stimulus and that is associated with the plant's circadian cycle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nyctinasty designates plant movement (such as the closing of a flower's petals or the reorientation of a leaf's position) that occurs in response to changes in light intensity (such as the onset of darkness) and that typically involves changes in cellular turgor : the nastic movement of the parts of some plants that occurs in the absence of a directional stimulus and that is associated with the plant's circadian cycle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant movement (such as the closing of a flower's petals or the reorientation of a leaf's position) that occurs in response to changes in light intensity (such as the onset of darkness) and that typically involves changes in cellular turgor : the nastic movement of the parts of some plants that occurs in the absence of a directional stimulus and that is associated with the plant's circadian cycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant movement (such as the closing of a flower's petals or the reorientation of a leaf's position) that occurs in response to changes in light intensity (such as the onset of darkness) and that typically involves changes in cellular turgor : the nastic movement of the parts of some plants that occurs in the absence of a directional stimulus and that is associated with the plant's circadian cycle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nyctinasty designates plant movement (such as the closing of a flower's petals or the reorientation of a leaf's position) that occurs in response to changes in light intensity (such as the onset of darkness) and that typically involves changes in cellular turgor : the nastic movement of the parts of some plants that occurs in the absence of a directional stimulus and that is associated with the plant's circadian cycle."*

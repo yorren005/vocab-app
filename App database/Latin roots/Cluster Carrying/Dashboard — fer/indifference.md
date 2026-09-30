@@ -5,15 +5,6 @@ status: unread
 ---
 # indifference
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unbiased impartial unconcern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apathy demonstrated by an absence of emotional reactions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Lippo, seriously looking at him, said quite reproachfully, "Now you don't even see that we have apple-dumpling." Such an indifference seemed wrong to the little boy."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He always imagines that his low birth is in his way, for he cannot understand our utter indifference to all the money he has heaped up."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, and no one in whom he is interested can be an object of indifference to me.” We expressed our acknowledgments and sat down behind the door, where there was a lame invalid of a sofa."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unbiased impartial unconcern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apathy demonstrated by an absence of emotional reactions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Lippo, seriously looking at him, said quite reproachfully, "Now you don't even see that we have apple-dumpling." Such an indifference seemed wrong to the little boy."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He always imagines that his low birth is in his way, for he cannot understand our utter indifference to all the money he has heaped up."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, and no one in whom he is interested can be an object of indifference to me.” We expressed our acknowledgments and sat down behind the door, where there was a lame invalid of a sofa."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # dysphoric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Generalized feeling of distress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Generalized feeling of distress.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysphoric designates generalized feeling of distress."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Generalized feeling of distress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Generalized feeling of distress.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysphoric designates generalized feeling of distress."*

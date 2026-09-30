@@ -5,13 +5,6 @@ status: unread
 ---
 # cooperatively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In close cooperation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In close cooperation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cooperatively designates in close cooperation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In close cooperation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In close cooperation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cooperatively designates in close cooperation."*

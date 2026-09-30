@@ -5,13 +5,6 @@ status: unread
 ---
 # lateen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A triangular fore-and-aft sail used especially in the mediterranean.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rigged with a triangular (lateen) sail.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The village was on an in-lying island, and its headmen must have sent word across to the mainland; for one morning three big two-masted junks with lateens of rice-matting dropped anchor off the beach."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A triangular fore-and-aft sail used especially in the mediterranean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rigged with a triangular (lateen) sail.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The village was on an in-lying island, and its headmen must have sent word across to the mainland; for one morning three big two-masted junks with lateens of rice-matting dropped anchor off the beach."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # helleborine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several small temperate and tropical orchids having mottled or striped leaves and spikes of small yellowish-white flowers in a twisted raceme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various orchids of the genus epipactis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helleborine designates any of several small temperate and tropical orchids having mottled or striped leaves and spikes of small yellowish-white flowers in a twisted raceme."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several small temperate and tropical orchids having mottled or striped leaves and spikes of small yellowish-white flowers in a twisted raceme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various orchids of the genus epipactis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helleborine designates any of several small temperate and tropical orchids having mottled or striped leaves and spikes of small yellowish-white flowers in a twisted raceme."*

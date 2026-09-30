@@ -5,15 +5,6 @@ status: unread
 ---
 # patronising
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Do one's shopping at; do business with; be a customer or client of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assume sponsorship of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"There’s your true Ashantee, gentlemen; there howl your pagans; where you ever find them, next door to you; under the long-flung shadow, and the snug patronising lee of churches."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"There was something very enchanting in the eager attention with which her information was awaited, and she looked round upon them all with a patronising benignity, which was, to say the least, irritating."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"He had not her patronising, superior ways; he was not always watching and spying."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Do one's shopping at; do business with; be a customer or client of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assume sponsorship of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"There’s your true Ashantee, gentlemen; there howl your pagans; where you ever find them, next door to you; under the long-flung shadow, and the snug patronising lee of churches."*
+> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"There was something very enchanting in the eager attention with which her information was awaited, and she looked round upon them all with a patronising benignity, which was, to say the least, irritating."*
+> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"He had not her patronising, superior ways; he was not always watching and spying."*

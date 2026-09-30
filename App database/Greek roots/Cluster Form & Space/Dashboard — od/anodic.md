@@ -5,13 +5,6 @@ status: unread
 ---
 # anodic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or at or relating to an anode.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or at or relating to an anode.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anodic designates of or at or relating to an anode."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or at or relating to an anode.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or at or relating to an anode.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anodic designates of or at or relating to an anode."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # unbaptised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having undergone the christian ritual of baptism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having undergone the christian ritual of baptism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unbaptised designates not having undergone the christian ritual of baptism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having undergone the christian ritual of baptism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having undergone the christian ritual of baptism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unbaptised designates not having undergone the christian ritual of baptism."*

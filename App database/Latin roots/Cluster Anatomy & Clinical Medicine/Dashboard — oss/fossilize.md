@@ -5,13 +5,6 @@ status: unread
 ---
 # fossilize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert to a fossil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become mentally inflexible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"In it we are presented with a number of pictures of the utterly fossilized condition of the clergy of the day in the Established Church (see especially book II., vv. 326-832, in which he satirizes the clergy and the universities)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert to a fossil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become mentally inflexible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"In it we are presented with a number of pictures of the utterly fossilized condition of the clergy of the day in the Established Church (see especially book II., vv. 326-832, in which he satirizes the clergy and the universities)."*

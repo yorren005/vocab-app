@@ -5,13 +5,6 @@ status: unread
 ---
 # cameroun
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic on the western coast of central africa; was under french and british control until 1960.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic on the western coast of central africa; was under french and british control until 1960.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cameroun designates a republic on the western coast of central africa; was under french and british control until 1960."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic on the western coast of central africa; was under french and british control until 1960.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic on the western coast of central africa; was under french and british control until 1960.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cameroun designates a republic on the western coast of central africa; was under french and british control until 1960."*

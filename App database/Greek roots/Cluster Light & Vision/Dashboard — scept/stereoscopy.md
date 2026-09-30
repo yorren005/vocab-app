@@ -5,13 +5,6 @@ status: unread
 ---
 # stereoscopy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with stereoscopic effects and methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The seeing of objects in three dimensions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereoscopy designates a science that deals with stereoscopic effects and methods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with stereoscopic effects and methods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The seeing of objects in three dimensions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereoscopy designates a science that deals with stereoscopic effects and methods."*

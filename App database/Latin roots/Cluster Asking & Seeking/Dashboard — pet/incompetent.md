@@ -5,15 +5,6 @@ status: unread
 ---
 # incompetent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is not competent to take effective action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Legally not qualified or sufficient.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This consideration, however, has less weight as the corporate form of organization becomes well nigh universal in "big business." Every profligate son, every incompetent heir, is an argument against the inheritance of property."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Of modern standers-of-mast-heads we have but a lifeless set; mere stone, iron, and bronze men; who, though well capable of facing out a stiff gale, are still entirely incompetent to the business of singing out upon discovering any strange sight."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It may well be conceived, what an unsavory odor such a mass must exhale; worse than an Assyrian city in the plague, when the living are incompetent to bury the departed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is not competent to take effective action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Legally not qualified or sufficient.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This consideration, however, has less weight as the corporate form of organization becomes well nigh universal in "big business." Every profligate son, every incompetent heir, is an argument against the inheritance of property."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Of modern standers-of-mast-heads we have but a lifeless set; mere stone, iron, and bronze men; who, though well capable of facing out a stiff gale, are still entirely incompetent to the business of singing out upon discovering any strange sight."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It may well be conceived, what an unsavory odor such a mass must exhale; worse than an Assyrian city in the plague, when the living are incompetent to bury the departed."*

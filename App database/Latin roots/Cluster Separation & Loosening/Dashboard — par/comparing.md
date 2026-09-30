@@ -5,15 +5,6 @@ status: unread
 ---
 # comparing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of examining resemblances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examine and note the similarities or differences of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She tears the senseless Sinon with her nails, Comparing him to that unhappy guest Whose deed hath made herself herself detest."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A few hours afterwards, he and the Roman will be alone together comparing forefingers."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 73.] [Footnote 7: This will appear in comparing the competitive method of distribution with other methods in ch. 31.] [Footnote 8: See Vol."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of examining resemblances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examine and note the similarities or differences of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She tears the senseless Sinon with her nails, Comparing him to that unhappy guest Whose deed hath made herself herself detest."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A few hours afterwards, he and the Roman will be alone together comparing forefingers."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 73.] [Footnote 7: This will appear in comparing the competitive method of distribution with other methods in ch. 31.] [Footnote 8: See Vol."*

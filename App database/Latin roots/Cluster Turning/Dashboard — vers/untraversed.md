@@ -5,13 +5,6 @@ status: unread
 ---
 # untraversed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not traveled over or through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not traveled over or through.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, untraversed designates not traveled over or through."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not traveled over or through.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not traveled over or through.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, untraversed designates not traveled over or through."*

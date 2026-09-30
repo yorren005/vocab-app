@@ -5,13 +5,6 @@ status: unread
 ---
 # descender
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who descends.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lowercase letter that has a part extending below other lowercase letters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Further, spots which had been struck by lightning were regularly fenced in by the Greeks and consecrated to Zeus the Descender, that is, to the god who came down in the flash from heaven."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who descends.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lowercase letter that has a part extending below other lowercase letters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Further, spots which had been struck by lightning were regularly fenced in by the Greeks and consecrated to Zeus the Descender, that is, to the god who came down in the flash from heaven."*

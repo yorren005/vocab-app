@@ -5,13 +5,6 @@ status: unread
 ---
 # speciation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The evolution of a biological species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The evolution of a biological species.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, speciation designates the evolution of a biological species."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The evolution of a biological species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The evolution of a biological species.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, speciation designates the evolution of a biological species."*

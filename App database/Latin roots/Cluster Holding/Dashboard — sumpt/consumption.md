@@ -5,15 +5,6 @@ status: unread
 ---
 # consumption
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of taking food into the body through the mouth (as by eating).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving the lungs with progressive wasting of the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I can get no remedy against this consumption of the purse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But to the girdle do the gods inherit, beneath is all the fiend’s; there’s hell, there’s darkness, there is the sulphurous pit; burning, scalding, stench, consumption."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would not deny you; but, by this good day, I yield upon great persuasion, and partly to save your life, for I was told you were in a consumption."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of taking food into the body through the mouth (as by eating).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving the lungs with progressive wasting of the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I can get no remedy against this consumption of the purse."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But to the girdle do the gods inherit, beneath is all the fiend’s; there’s hell, there’s darkness, there is the sulphurous pit; burning, scalding, stench, consumption."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would not deny you; but, by this good day, I yield upon great persuasion, and partly to save your life, for I was told you were in a consumption."*

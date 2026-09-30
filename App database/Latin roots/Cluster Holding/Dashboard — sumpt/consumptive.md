@@ -5,15 +5,6 @@ status: unread
 ---
 # consumptive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with pulmonary tuberculosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to consume or use often wastefully.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Another consumptive in the neighborhood, was thoroughly an infidel."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"We continued in prayer, and then one application was made for an apprentice, and from the time we first began, we have been able to find places for eighteen boys." THE CONSUMPTIVE'S HOME."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In the United States there is a Parallel Record to George Mailer's Life of Faith and Trust, found in the history of the Consumptive's Home of Boston, Mass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with pulmonary tuberculosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to consume or use often wastefully.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Another consumptive in the neighborhood, was thoroughly an infidel."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"We continued in prayer, and then one application was made for an apprentice, and from the time we first began, we have been able to find places for eighteen boys." THE CONSUMPTIVE'S HOME."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"In the United States there is a Parallel Record to George Mailer's Life of Faith and Trust, found in the history of the Consumptive's Home of Boston, Mass."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # ocotillo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Desert shrub of southwestern united states and mexico having slender naked spiny branches that after the rainy season put forth foliage and clusters of red flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Desert shrub of southwestern united states and mexico having slender naked spiny branches that after the rainy season put forth foliage and clusters of red flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ocotillo designates desert shrub of southwestern united states and mexico having slender naked spiny branches that after the rainy season put forth foliage and clusters of red flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Desert shrub of southwestern united states and mexico having slender naked spiny branches that after the rainy season put forth foliage and clusters of red flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Desert shrub of southwestern united states and mexico having slender naked spiny branches that after the rainy season put forth foliage and clusters of red flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ocotillo designates desert shrub of southwestern united states and mexico having slender naked spiny branches that after the rainy season put forth foliage and clusters of red flowers."*

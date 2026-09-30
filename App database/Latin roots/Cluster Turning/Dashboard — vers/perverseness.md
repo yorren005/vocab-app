@@ -5,15 +5,6 @@ status: unread
 ---
 # perverseness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deliberate and stubborn unruliness and resistance to guidance or discipline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberately deviating from what is good.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"With a similar perverseness, the potatoes crumble off forks in the process of peeling, upheaving from their centres in every direction, as if they were subject to earthquakes."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"But when a young lady is to be a heroine, the perverseness of forty surrounding families cannot prevent her."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins’s wife by this time, had not it been for her own perverseness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deliberate and stubborn unruliness and resistance to guidance or discipline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberately deviating from what is good.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"With a similar perverseness, the potatoes crumble off forks in the process of peeling, upheaving from their centres in every direction, as if they were subject to earthquakes."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"But when a young lady is to be a heroine, the perverseness of forty surrounding families cannot prevent her."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins’s wife by this time, had not it been for her own perverseness."*

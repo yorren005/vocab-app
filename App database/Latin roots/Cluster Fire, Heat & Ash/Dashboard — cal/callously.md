@@ -5,13 +5,6 @@ status: unread
 ---
 # callously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a callous way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a callous way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Must they drive down these infinities of creatures, and slaughter them openly and callously, until the air was salt with blood, until the carrion crows hovered over the city in battalions?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a callous way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a callous way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Must they drive down these infinities of creatures, and slaughter them openly and callously, until the air was salt with blood, until the carrion crows hovered over the city in battalions?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # administrivia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The tiresome but essential details that must be taken care of and tasks that must be performed in running an organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tiresome but essential details that must be taken care of and tasks that must be performed in running an organization.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, administrivia designates the tiresome but essential details that must be taken care of and tasks that must be performed in running an organization."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tiresome but essential details that must be taken care of and tasks that must be performed in running an organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tiresome but essential details that must be taken care of and tasks that must be performed in running an organization.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, administrivia designates the tiresome but essential details that must be taken care of and tasks that must be performed in running an organization."*

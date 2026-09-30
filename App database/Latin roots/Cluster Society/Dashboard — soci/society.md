@@ -5,15 +5,6 @@ status: unread
 ---
 # society
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extended social group having a distinctive cultural and economic organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal association of people with similar interests.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so had I, but yet, for fashion sake, I thank you too for your society."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am ill, but your being by me Cannot amend me; society is no comfort To one not sociable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, here is newly come to court Laertes; believe me, an absolute gentleman, full of most excellent differences, of very soft society and great showing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extended social group having a distinctive cultural and economic organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal association of people with similar interests.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so had I, but yet, for fashion sake, I thank you too for your society."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am ill, but your being by me Cannot amend me; society is no comfort To one not sociable."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, here is newly come to court Laertes; believe me, an absolute gentleman, full of most excellent differences, of very soft society and great showing."*

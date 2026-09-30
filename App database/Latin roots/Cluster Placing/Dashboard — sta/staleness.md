@@ -5,14 +5,6 @@ status: unread
 ---
 # staleness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unoriginality as a result of being dull and hackneyed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having lost purity and freshness as a consequence of aging.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, since your kindness We have stretch’d thus far, let us beseech you That for our gold we may provision have, Wherein we are not destitute for want, But weary for the staleness."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"In the Ming period the Sung patterns already exhibit an inevitable staleness and conventionality with a tendency to overcrowding of detail."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unoriginality as a result of being dull and hackneyed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having lost purity and freshness as a consequence of aging.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, since your kindness We have stretch’d thus far, let us beseech you That for our gold we may provision have, Wherein we are not destitute for want, But weary for the staleness."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"In the Ming period the Sung patterns already exhibit an inevitable staleness and conventionality with a tendency to overcrowding of detail."*

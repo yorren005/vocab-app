@@ -5,13 +5,6 @@ status: unread
 ---
 # saxe-coburg-gotha
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The name of the royal family that ruled great britain from 1901-1917; the name was changed to windsor in 1917 in response to anti-german feelings in world war i.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The name of the royal family that ruled great britain from 1901-1917; the name was changed to windsor in 1917 in response to anti-german feelings in world war i.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saxe-coburg-gotha designates the name of the royal family that ruled great britain from 1901-1917; the name was changed to windsor in 1917 in response to anti-german feelings in world war i."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The name of the royal family that ruled great britain from 1901-1917; the name was changed to windsor in 1917 in response to anti-german feelings in world war i.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The name of the royal family that ruled great britain from 1901-1917; the name was changed to windsor in 1917 in response to anti-german feelings in world war i.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saxe-coburg-gotha designates the name of the royal family that ruled great britain from 1901-1917; the name was changed to windsor in 1917 in response to anti-german feelings in world war i."*

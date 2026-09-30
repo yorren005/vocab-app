@@ -5,13 +5,6 @@ status: unread
 ---
 # circularly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a circular manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a circular manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But Joe was readier with his definition than I had expected, and completely stopped me by arguing circularly, and answering with a fixed look, “Her.” “And I ain’t a master-mind,” Joe resumed, when he had unfixed his look, and got back to his whisker."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a circular manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a circular manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"But Joe was readier with his definition than I had expected, and completely stopped me by arguing circularly, and answering with a fixed look, “Her.” “And I ain’t a master-mind,” Joe resumed, when he had unfixed his look, and got back to his whisker."*

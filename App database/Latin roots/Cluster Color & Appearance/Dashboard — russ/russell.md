@@ -5,15 +5,6 @@ status: unread
 ---
 # russell
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states religious leader who founded the sect that is now called jehovah's witnesses (1852-1916).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English film director (born in 1927).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"To Lady Russell, indeed, she was a most dear and highly valued god-daughter, favourite, and friend."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Lady Russell loved them all; but it was only in Anne that she could fancy the mother to revive again."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Anne haggard, Mary coarse, every face in the neighbourhood worsting, and the rapid increase of the crow’s foot about Lady Russell’s temples had long been a distress to him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states religious leader who founded the sect that is now called jehovah's witnesses (1852-1916).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English film director (born in 1927).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"To Lady Russell, indeed, she was a most dear and highly valued god-daughter, favourite, and friend."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Lady Russell loved them all; but it was only in Anne that she could fancy the mother to revive again."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne haggard, Mary coarse, every face in the neighbourhood worsting, and the rapid increase of the crow’s foot about Lady Russell’s temples had long been a distress to him."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # regardant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Looking backward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Looking backward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He turned his face over a shoulder, rere regardant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Looking backward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Looking backward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"He turned his face over a shoulder, rere regardant."*

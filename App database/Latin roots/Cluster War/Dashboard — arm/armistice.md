@@ -5,15 +5,6 @@ status: unread
 ---
 # armistice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of peace agreed to between opponents so they can discuss peace terms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of peace agreed to between opponents so they can discuss peace terms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Five months later on the eve of the Armistice he was flung out of the service, a broken man, paralysed below the waist, cursing every one who came near him and chiefly the surgeons for not letting him die."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"On the 23rd of July the Great Eastern was not more than 500 miles from Newfoundland, when they telegraphed from Ireland the news of the armistice concluded between Prussia and Austria after Sadowa."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"They signed the Armistice!'' "Glory be!" Grandma cried, raising her arms up high and letting her hands fall back down on the bed covers and counterpane."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of peace agreed to between opponents so they can discuss peace terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of peace agreed to between opponents so they can discuss peace terms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Five months later on the eve of the Armistice he was flung out of the service, a broken man, paralysed below the waist, cursing every one who came near him and chiefly the surgeons for not letting him die."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"On the 23rd of July the Great Eastern was not more than 500 miles from Newfoundland, when they telegraphed from Ireland the news of the armistice concluded between Prussia and Austria after Sadowa."*
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"They signed the Armistice!'' "Glory be!" Grandma cried, raising her arms up high and letting her hands fall back down on the bed covers and counterpane."*

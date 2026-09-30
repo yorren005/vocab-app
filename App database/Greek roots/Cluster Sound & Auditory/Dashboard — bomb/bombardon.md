@@ -5,13 +5,6 @@ status: unread
 ---
 # bombardon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tuba that coils over the shoulder of the musician.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large shawm; the bass member of the shawm family.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombardon designates a tuba that coils over the shoulder of the musician."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tuba that coils over the shoulder of the musician.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large shawm; the bass member of the shawm family.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombardon designates a tuba that coils over the shoulder of the musician."*

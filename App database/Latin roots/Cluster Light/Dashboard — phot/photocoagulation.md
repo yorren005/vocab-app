@@ -5,13 +5,6 @@ status: unread
 ---
 # photocoagulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical procedure that uses an intense laser beam to destroy diseased retinal tissue or to make a scar that will hold the retina in cases of detached retina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical procedure that uses an intense laser beam to destroy diseased retinal tissue or to make a scar that will hold the retina in cases of detached retina.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photocoagulation designates surgical procedure that uses an intense laser beam to destroy diseased retinal tissue or to make a scar that will hold the retina in cases of detached retina."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical procedure that uses an intense laser beam to destroy diseased retinal tissue or to make a scar that will hold the retina in cases of detached retina.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical procedure that uses an intense laser beam to destroy diseased retinal tissue or to make a scar that will hold the retina in cases of detached retina.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photocoagulation designates surgical procedure that uses an intense laser beam to destroy diseased retinal tissue or to make a scar that will hold the retina in cases of detached retina."*

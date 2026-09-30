@@ -5,15 +5,6 @@ status: unread
 ---
 # distasteful
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not pleasing in odor or taste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Highly offensive; arousing aversion or disgust.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so, intending other serious matters, After distasteful looks and these hard fractions, With certain half-caps and cold-moving nods They froze me into silence."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Mere yellow skeleton that he was now, he felt the contrast between them, and thought his appearance distasteful to her."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"In what is my Lord _Charles_ defective, Sir? unless deep Learning be a blemish in him, or well proportion'd limbs be mulcts in nature, or, what you only aim'd at, large Revenues, are, on the sudden, grown distasteful to you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not pleasing in odor or taste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Highly offensive; arousing aversion or disgust.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so, intending other serious matters, After distasteful looks and these hard fractions, With certain half-caps and cold-moving nods They froze me into silence."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Mere yellow skeleton that he was now, he felt the contrast between them, and thought his appearance distasteful to her."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"In what is my Lord _Charles_ defective, Sir? unless deep Learning be a blemish in him, or well proportion'd limbs be mulcts in nature, or, what you only aim'd at, large Revenues, are, on the sudden, grown distasteful to you."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # separation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of lacking unity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming apart.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our separation so abides and flies That thou, residing here, goes yet with me, And I, hence fleeting, here remain with thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did you not of late days hear A buzzing of a separation Between the King and Katherine?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, gentle friend, for love and courtesy Lie further off, in human modesty, Such separation as may well be said Becomes a virtuous bachelor and a maid, So far be distant; and good night, sweet friend: Thy love ne’er alter till thy sweet life end!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of lacking unity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming apart.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our separation so abides and flies That thou, residing here, goes yet with me, And I, hence fleeting, here remain with thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did you not of late days hear A buzzing of a separation Between the King and Katherine?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, gentle friend, for love and courtesy Lie further off, in human modesty, Such separation as may well be said Becomes a virtuous bachelor and a maid, So far be distant; and good night, sweet friend: Thy love ne’er alter till thy sweet life end!"*

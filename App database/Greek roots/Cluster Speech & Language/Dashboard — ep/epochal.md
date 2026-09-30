@@ -5,13 +5,6 @@ status: unread
 ---
 # epochal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Highly significant or important especially bringing about or marking the beginning of a new development or era.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Highly significant or important especially bringing about or marking the beginning of a new development or era.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epochal designates highly significant or important especially bringing about or marking the beginning of a new development or era."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Highly significant or important especially bringing about or marking the beginning of a new development or era.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Highly significant or important especially bringing about or marking the beginning of a new development or era.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epochal designates highly significant or important especially bringing about or marking the beginning of a new development or era."*

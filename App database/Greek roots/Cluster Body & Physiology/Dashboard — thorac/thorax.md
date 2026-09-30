@@ -5,13 +5,6 @@ status: unread
 ---
 # thorax
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the vertebrate body between the neck and the abdomen; also : thoracic cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The middle of the three chief divisions of the body of an insect; also : the corresponding part of a crustacean or an arachnid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"There was one moth in particular, with spread wings, on the upper side of the thorax of which was traced in white the semblance of a human skull."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the vertebrate body between the neck and the abdomen; also : thoracic cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The middle of the three chief divisions of the body of an insect; also : the corresponding part of a crustacean or an arachnid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"There was one moth in particular, with spread wings, on the upper side of the thorax of which was traced in white the semblance of a human skull."*

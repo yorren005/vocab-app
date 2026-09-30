@@ -5,15 +5,6 @@ status: unread
 ---
 # prosperously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the manner of prosperous people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the manner of prosperous people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are to know That prosperously I have attempted, and With bloody passage led your wars even to The gates of Rome."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A happiness that often madness hits on, which reason and sanity could not so prosperously be delivered of."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My duty prosperously ended, all between us is ended.” Vholes finally adds, by way of rider to this declaration of his principles, that as Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the manner of prosperous people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the manner of prosperous people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are to know That prosperously I have attempted, and With bloody passage led your wars even to The gates of Rome."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A happiness that often madness hits on, which reason and sanity could not so prosperously be delivered of."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"My duty prosperously ended, all between us is ended.” Vholes finally adds, by way of rider to this declaration of his principles, that as Mr."*

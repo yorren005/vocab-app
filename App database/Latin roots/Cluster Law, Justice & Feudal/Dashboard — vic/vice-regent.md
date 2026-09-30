@@ -5,13 +5,6 @@ status: unread
 ---
 # vice-regent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A regent's deputy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A regent's deputy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vice-regent designates a regent's deputy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A regent's deputy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A regent's deputy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vice-regent designates a regent's deputy."*

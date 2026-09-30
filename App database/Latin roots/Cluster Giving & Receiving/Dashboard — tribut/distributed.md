@@ -5,15 +5,6 @@ status: unread
 ---
 # distributed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer or bestow, as in small portions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distribute or disperse widely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he evade us there, Enforce him with his envy to the people, And that the spoil got on the Antiates Was ne’er distributed."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"And tradition has it that the questioning and answering, which had at first been evenly distributed among the pupils, usually in the end came to resolve themselves pretty much into a dialogue between Mr."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I planted it,” he lied—for he was compelled to lie because, being merely tobacco in small packages, it was long since distributed among the convicts along the customary channels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer or bestow, as in small portions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distribute or disperse widely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he evade us there, Enforce him with his envy to the people, And that the spoil got on the Antiates Was ne’er distributed."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"And tradition has it that the questioning and answering, which had at first been evenly distributed among the pupils, usually in the end came to resolve themselves pretty much into a dialogue between Mr."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I planted it,” he lied—for he was compelled to lie because, being merely tobacco in small packages, it was long since distributed among the convicts along the customary channels."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # concrete
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong hard building material composed of sand and gravel and cement and water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover with cement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was Wisdom in the abstract facing Folly in the concrete."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Folly in the concrete blushed, persisted in her intention, and placed the key on the book."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To the student beginning economics and to the general reader the study of principles is likely to appear more difficult than does that of concrete questions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong hard building material composed of sand and gravel and cement and water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover with cement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was Wisdom in the abstract facing Folly in the concrete."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Folly in the concrete blushed, persisted in her intention, and placed the key on the book."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To the student beginning economics and to the general reader the study of principles is likely to appear more difficult than does that of concrete questions."*

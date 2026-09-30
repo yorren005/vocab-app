@@ -5,15 +5,6 @@ status: unread
 ---
 # cataleptic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trancelike state marked by loss of voluntary motion in which the limbs remain in whatever position they are placed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trancelike state marked by loss of voluntary motion in which the limbs remain in whatever position they are placed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Finally, becoming cataleptic, she has to be carried up the narrow staircase like a grand piano."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"That visit not succeeding either, you will go again perhaps?” “And again,” repeats mademoiselle, cataleptic with determination."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"A cataleptic trance is a cataleptic trance, no matter how induced."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A trancelike state marked by loss of voluntary motion in which the limbs remain in whatever position they are placed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trancelike state marked by loss of voluntary motion in which the limbs remain in whatever position they are placed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Finally, becoming cataleptic, she has to be carried up the narrow staircase like a grand piano."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"That visit not succeeding either, you will go again perhaps?” “And again,” repeats mademoiselle, cataleptic with determination."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"A cataleptic trance is a cataleptic trance, no matter how induced."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # zone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region or area set off as distinct from surrounding or adjoining parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the sections of an area or territory created for a particular purpose or activity : such as.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And if thou prate of mountains, let them throw Millions of acres on us, till our ground, Singeing his pate against the burning zone, Make Ossa like a wart."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I lie in a shady place like this and think of adventurous spirits going to the North Pole or penetrating to the heart of the Torrid Zone with admiration."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The carriages in the streets are few, and other late sounds in that neighbourhood there are none, unless a man so very nomadically drunk as to stray into the frigid zone goes brawling and bellowing along the pavement."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A region or area set off as distinct from surrounding or adjoining parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the sections of an area or territory created for a particular purpose or activity : such as.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And if thou prate of mountains, let them throw Millions of acres on us, till our ground, Singeing his pate against the burning zone, Make Ossa like a wart."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I lie in a shady place like this and think of adventurous spirits going to the North Pole or penetrating to the heart of the Torrid Zone with admiration."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The carriages in the streets are few, and other late sounds in that neighbourhood there are none, unless a man so very nomadically drunk as to stray into the frigid zone goes brawling and bellowing along the pavement."*

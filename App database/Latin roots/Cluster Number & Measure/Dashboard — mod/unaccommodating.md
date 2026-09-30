@@ -5,13 +5,6 @@ status: unread
 ---
 # unaccommodating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not accommodating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offering no assistance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He had a chirping, buoyant disposition, always enjoying the present moment; and his frequent change of scene and company prevented his acquiring those rusty, unaccommodating habits with which old bachelors are so uncharitably charged."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not accommodating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offering no assistance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He had a chirping, buoyant disposition, always enjoying the present moment; and his frequent change of scene and company prevented his acquiring those rusty, unaccommodating habits with which old bachelors are so uncharitably charged."*

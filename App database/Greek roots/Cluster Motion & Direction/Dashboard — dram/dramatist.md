@@ -5,15 +5,6 @@ status: unread
 ---
 # dramatist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who writes plays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who writes plays.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The Latin dramatist Terence pictures the young man looking at one of these paintings and saying to himself, "If Jupiter did it, why should not I?" Centuries later we find Augustine quoting that sentence."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor, will the tragic dramatist who would depict mortal indomitableness in its fullest sweep and direct swing, ever forget a hint, incidentally so important in his art, as the one now alluded to."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor, will the tragic dramatist who would depict mortal indomitableness in its fullest sweep and direct swing, ever forget a hint, incidentally so important in his art, as the one now alluded to."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who writes plays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who writes plays.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The Latin dramatist Terence pictures the young man looking at one of these paintings and saying to himself, "If Jupiter did it, why should not I?" Centuries later we find Augustine quoting that sentence."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor, will the tragic dramatist who would depict mortal indomitableness in its fullest sweep and direct swing, ever forget a hint, incidentally so important in his art, as the one now alluded to."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor, will the tragic dramatist who would depict mortal indomitableness in its fullest sweep and direct swing, ever forget a hint, incidentally so important in his art, as the one now alluded to."*

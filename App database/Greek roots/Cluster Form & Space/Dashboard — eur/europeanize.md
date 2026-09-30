@@ -5,14 +5,6 @@ status: unread
 ---
 # europeanize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make (continental) european in customs, character, or ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denationalize and subject (a territory) to the supervision of an agency of a european community of nations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"But really to see the East one must shun the half-Europeanized town and the treaty port, must leave behind the comforts of hotel and railway, and be ready to accept the rough and the smooth of unbeaten trails."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"With this primitive mountain world his act was in weird harmony, but there was an incongruity almost stunning in the sight of a Hindu carrying out a similar vow in one of the crowded business streets of Europeanized Calcutta."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make (continental) european in customs, character, or ideas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denationalize and subject (a territory) to the supervision of an agency of a european community of nations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"But really to see the East one must shun the half-Europeanized town and the treaty port, must leave behind the comforts of hotel and railway, and be ready to accept the rough and the smooth of unbeaten trails."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"With this primitive mountain world his act was in weird harmony, but there was an incongruity almost stunning in the sight of a Hindu carrying out a similar vow in one of the crowded business streets of Europeanized Calcutta."*

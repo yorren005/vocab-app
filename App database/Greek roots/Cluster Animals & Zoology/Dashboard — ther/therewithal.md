@@ -5,15 +5,6 @@ status: unread
 ---
 # therewithal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Together with all that; besides; - shakespeare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Together with all that; besides; - shakespeare.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even now a tailor call’d me in his shop, And show’d me silks that he had bought for me, And therewithal took measure of my body."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And therewithal the best; or let her beauty Look through a casement to allure false hearts, And be false with them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best and soundest of his time hath been but rash; then must we look from his age to receive not alone the imperfections of long-engrafted condition, but therewithal the unruly waywardness that infirm and choleric years bring with them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Together with all that; besides; - shakespeare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Together with all that; besides; - shakespeare.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even now a tailor call’d me in his shop, And show’d me silks that he had bought for me, And therewithal took measure of my body."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And therewithal the best; or let her beauty Look through a casement to allure false hearts, And be false with them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best and soundest of his time hath been but rash; then must we look from his age to receive not alone the imperfections of long-engrafted condition, but therewithal the unruly waywardness that infirm and choleric years bring with them."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # plantlet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young plant or a small plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young plant or a small plant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plantlet designates a young plant or a small plant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A young plant or a small plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young plant or a small plant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plantlet designates a young plant or a small plant."*

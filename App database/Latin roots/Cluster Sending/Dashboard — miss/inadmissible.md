@@ -5,15 +5,6 @@ status: unread
 ---
 # inadmissible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deserving to be admitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deserving to be admitted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Without this, there would be no responsibility whatever in the executive department an idea inadmissible in a free government."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Without this, there would be no responsibility whatever in the executive department an idea inadmissible in a free government."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It will readily be understood that the fluctuations in the value of money and in the state of society rendered a fixed rate of compensation in the Constitution inadmissible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deserving to be admitted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deserving to be admitted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Without this, there would be no responsibility whatever in the executive department an idea inadmissible in a free government."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Without this, there would be no responsibility whatever in the executive department an idea inadmissible in a free government."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It will readily be understood that the fluctuations in the value of money and in the state of society rendered a fixed rate of compensation in the Constitution inadmissible."*

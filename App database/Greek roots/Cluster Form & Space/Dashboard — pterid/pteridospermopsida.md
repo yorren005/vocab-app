@@ -5,13 +5,6 @@ status: unread
 ---
 # pteridospermopsida
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct gymnosperms most of carboniferous to jurassic: seed ferns and allies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct gymnosperms most of carboniferous to jurassic: seed ferns and allies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteridospermopsida designates extinct gymnosperms most of carboniferous to jurassic: seed ferns and allies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct gymnosperms most of carboniferous to jurassic: seed ferns and allies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct gymnosperms most of carboniferous to jurassic: seed ferns and allies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteridospermopsida designates extinct gymnosperms most of carboniferous to jurassic: seed ferns and allies."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # pleurisy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the pleura that is typically characterized by sudden onset, painful and difficult respiration, and exudation of fluid or fibrinous material into the pleural cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the pleura that is typically characterized by sudden onset, painful and difficult respiration, and exudation of fluid or fibrinous material into the pleural cavity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There lives within the very flame of love A kind of wick or snuff that will abate it; And nothing is at a like goodness still, For goodness, growing to a pleurisy, Dies in his own too much."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was a sharp, definite pain, similar to that of pleurisy, except that it stabbed hotly through the heart itself."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Wrench saved me in the pleurisy, but he’d better have let me die—if—if—” “I will meet Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the pleura that is typically characterized by sudden onset, painful and difficult respiration, and exudation of fluid or fibrinous material into the pleural cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the pleura that is typically characterized by sudden onset, painful and difficult respiration, and exudation of fluid or fibrinous material into the pleural cavity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There lives within the very flame of love A kind of wick or snuff that will abate it; And nothing is at a like goodness still, For goodness, growing to a pleurisy, Dies in his own too much."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was a sharp, definite pain, similar to that of pleurisy, except that it stabbed hotly through the heart itself."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Wrench saved me in the pleurisy, but he’d better have let me die—if—if—” “I will meet Mr."*

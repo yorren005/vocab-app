@@ -5,15 +5,6 @@ status: unread
 ---
 # polite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing regard for others in manners, speech, behavior, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by refinement in taste and manners.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The children had never known anybody who was so polite towards everyone, including Kathy, who only spoke affectionate, tender words, and always seemed so grateful when others were kind to her."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is ceremonious, stately, most polite on every occasion to my Lady, and holds her personal attractions in the highest estimation."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Poor Miss Flite deemed it necessary to be so courtly and polite, as a mark of her respect for the army, and to curtsy so very often that it was no easy matter to get her out of the court."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing regard for others in manners, speech, behavior, etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by refinement in taste and manners.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The children had never known anybody who was so polite towards everyone, including Kathy, who only spoke affectionate, tender words, and always seemed so grateful when others were kind to her."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is ceremonious, stately, most polite on every occasion to my Lady, and holds her personal attractions in the highest estimation."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Poor Miss Flite deemed it necessary to be so courtly and polite, as a mark of her respect for the army, and to curtsy so very often that it was no easy matter to get her out of the court."*

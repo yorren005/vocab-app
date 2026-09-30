@@ -5,13 +5,6 @@ status: unread
 ---
 # side-wheeler
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A paddle steamer having a paddle wheel on each side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A paddle steamer having a paddle wheel on each side.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, side-wheeler designates a paddle steamer having a paddle wheel on each side."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A paddle steamer having a paddle wheel on each side.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A paddle steamer having a paddle wheel on each side.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, side-wheeler designates a paddle steamer having a paddle wheel on each side."*

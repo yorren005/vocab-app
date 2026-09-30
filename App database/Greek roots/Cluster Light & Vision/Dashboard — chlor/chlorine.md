@@ -5,15 +5,6 @@ status: unread
 ---
 # chlorine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A halogen element that is isolated as a heavy greenish-yellow diatomic gas of pungent odor and is used especially as a bleach, oxidizing agent, and disinfectant in water purification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy reddish-yellow gas ClO2 used especially as a bleach and disinfectant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Here I have a metal called antimony, which is easily acted upon by chlorine."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"I will place this lump of antimony in a jar of chlorine, and so far as you can see very little action takes place between the metal and the chlorine."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Now I will introduce into the chlorine some of the same metal which I have finely powdered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A halogen element that is isolated as a heavy greenish-yellow diatomic gas of pungent odor and is used especially as a bleach, oxidizing agent, and disinfectant in water purification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy reddish-yellow gas ClO2 used especially as a bleach and disinfectant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Here I have a metal called antimony, which is easily acted upon by chlorine."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"I will place this lump of antimony in a jar of chlorine, and so far as you can see very little action takes place between the metal and the chlorine."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Now I will introduce into the chlorine some of the same metal which I have finely powdered."*

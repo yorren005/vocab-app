@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrochlorofluorocarbon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fluorocarbon that is replacing chlorofluorocarbon as a refrigerant and propellant in aerosol cans; considered to be somewhat less destructive to the atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fluorocarbon that is replacing chlorofluorocarbon as a refrigerant and propellant in aerosol cans; considered to be somewhat less destructive to the atmosphere.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrochlorofluorocarbon designates a fluorocarbon that is replacing chlorofluorocarbon as a refrigerant and propellant in aerosol cans; considered to be somewhat less destructive to the atmosphere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fluorocarbon that is replacing chlorofluorocarbon as a refrigerant and propellant in aerosol cans; considered to be somewhat less destructive to the atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fluorocarbon that is replacing chlorofluorocarbon as a refrigerant and propellant in aerosol cans; considered to be somewhat less destructive to the atmosphere.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrochlorofluorocarbon designates a fluorocarbon that is replacing chlorofluorocarbon as a refrigerant and propellant in aerosol cans; considered to be somewhat less destructive to the atmosphere."*

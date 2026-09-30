@@ -5,15 +5,6 @@ status: unread
 ---
 # develop
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make something new, such as a product or a mental or artistic creation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work out.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"His mother had already told him how well his voice sounded and that she wanted him to develop it later on."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have a scheme to develop, little woman."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To encounter her daily in the accustomed manner would be to develop what had begun."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make something new, such as a product or a mental or artistic creation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work out.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"His mother had already told him how well his voice sounded and that she wanted him to develop it later on."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I have a scheme to develop, little woman."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To encounter her daily in the accustomed manner would be to develop what had begun."*

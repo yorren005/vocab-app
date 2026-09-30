@@ -5,13 +5,6 @@ status: unread
 ---
 # unredeemed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In danger of the eternal punishment of hell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In danger of the eternal punishment of hell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It was the exhilarating effect—upon a prisoner just escaped from the dungeon of his own heart—of breathing the wild, free atmosphere of an unredeemed, unchristianised, lawless region."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In danger of the eternal punishment of hell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In danger of the eternal punishment of hell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It was the exhilarating effect—upon a prisoner just escaped from the dungeon of his own heart—of breathing the wild, free atmosphere of an unredeemed, unchristianised, lawless region."*

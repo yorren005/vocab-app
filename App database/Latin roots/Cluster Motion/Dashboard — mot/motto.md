@@ -5,15 +5,6 @@ status: unread
 ---
 # motto
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A favorite saying of a sect or political group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A favorite saying of a sect or political group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fifth, an hand environed with clouds, Holding out gold that’s by the touchstone tried; The motto thus, _Sic spectanda fides._ The sixth Knight, Pericles, passes in rusty armour with bases, and unaccompanied."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He seems to be a stranger; but his present is A wither’d branch, that’s only green at top; The motto, _In hac spe vivo._ SIMONIDES."*
-> - 📜 **Jane Austen (*Persuasion*):** *"I have often heard him declare, that if baronetcies were saleable, anybody should have his for fifty pounds, arms and motto, name and livery included; but I will not pretend to repeat half that I used to hear him say on that subject."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A favorite saying of a sect or political group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A favorite saying of a sect or political group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fifth, an hand environed with clouds, Holding out gold that’s by the touchstone tried; The motto thus, _Sic spectanda fides._ The sixth Knight, Pericles, passes in rusty armour with bases, and unaccompanied."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He seems to be a stranger; but his present is A wither’d branch, that’s only green at top; The motto, _In hac spe vivo._ SIMONIDES."*
+> - 📜 **Jane Austen (*Persuasion*):** *"I have often heard him declare, that if baronetcies were saleable, anybody should have his for fifty pounds, arms and motto, name and livery included; but I will not pretend to repeat half that I used to hear him say on that subject."*

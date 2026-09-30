@@ -5,15 +5,6 @@ status: unread
 ---
 # diversity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Noticeable heterogeneity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition or result of being changeable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"They are of the utmost diversity of subjects, literally including the "all things" of the Bible, and temporal as well as spiritual interests."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Among the various states a wide diversity is found."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To be self-sufficing a farming family must carry on general farming, that is, must produce a diversity of products."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Noticeable heterogeneity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition or result of being changeable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"They are of the utmost diversity of subjects, literally including the "all things" of the Bible, and temporal as well as spiritual interests."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Among the various states a wide diversity is found."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To be self-sufficing a farming family must carry on general farming, that is, must produce a diversity of products."*

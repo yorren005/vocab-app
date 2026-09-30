@@ -5,15 +5,6 @@ status: unread
 ---
 # bat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (baseball) a turn trying to get a hit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ere the bat hath flown His cloister’d flight, ere to black Hecate’s summons The shard-born beetle, with his drowsy hums, Hath rung night’s yawning peal, there shall be done A deed of dreadful note."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We would so, and then go a-bat-fowling."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On the bat’s back I do fly After summer merrily."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (baseball) a turn trying to get a hit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ere the bat hath flown His cloister’d flight, ere to black Hecate’s summons The shard-born beetle, with his drowsy hums, Hath rung night’s yawning peal, there shall be done A deed of dreadful note."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We would so, and then go a-bat-fowling."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On the bat’s back I do fly After summer merrily."*

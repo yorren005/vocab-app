@@ -5,15 +5,6 @@ status: unread
 ---
 # elaborate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produce from basic elements or sources; change into a more developed product.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To fling elaborate sarcasms at Tess, however, was much like flinging them at a dog or cat."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"An elaborate statement was drawn up exhibiting first the points on which the two Churches were agreed with regard to this question, and then the points on which they differed."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The law applies a progressive rate to all incomes (with exemption of $700 from wages and salaries) and contains elaborate provisions for corporate taxation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produce from basic elements or sources; change into a more developed product.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To fling elaborate sarcasms at Tess, however, was much like flinging them at a dog or cat."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"An elaborate statement was drawn up exhibiting first the points on which the two Churches were agreed with regard to this question, and then the points on which they differed."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The law applies a progressive rate to all incomes (with exemption of $700 from wages and salaries) and contains elaborate provisions for corporate taxation."*

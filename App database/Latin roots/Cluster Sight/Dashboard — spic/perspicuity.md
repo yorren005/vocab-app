@@ -5,13 +5,6 @@ status: unread
 ---
 # perspicuity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clarity as a consequence of being perspicuous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clarity as a consequence of being perspicuous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Perspicuity, therefore, requires not only that the ideas should be distinctly formed, but that they should be expressed by words distinctly and exclusively appropriate to them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clarity as a consequence of being perspicuous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clarity as a consequence of being perspicuous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Perspicuity, therefore, requires not only that the ideas should be distinctly formed, but that they should be expressed by words distinctly and exclusively appropriate to them."*

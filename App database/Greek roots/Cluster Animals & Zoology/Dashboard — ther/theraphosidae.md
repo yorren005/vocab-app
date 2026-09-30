@@ -5,13 +5,6 @@ status: unread
 ---
 # theraphosidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large tropical spiders; tarantulas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large tropical spiders; tarantulas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theraphosidae designates large tropical spiders; tarantulas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large tropical spiders; tarantulas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large tropical spiders; tarantulas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theraphosidae designates large tropical spiders; tarantulas."*

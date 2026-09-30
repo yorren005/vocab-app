@@ -5,14 +5,6 @@ status: unread
 ---
 # conservator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The custodian of a collection (as a museum or library).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone appointed by a court to assume responsibility for the interests of a minor or incompetent person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The Union of these states is the great conservator of that liberty so dear to the American heart."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We have had the tempest of aggression, and the profound calm that was the conservator of peace throughout the world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The custodian of a collection (as a museum or library).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone appointed by a court to assume responsibility for the interests of a minor or incompetent person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The Union of these states is the great conservator of that liberty so dear to the American heart."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We have had the tempest of aggression, and the profound calm that was the conservator of peace throughout the world."*

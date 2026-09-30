@@ -5,15 +5,6 @@ status: unread
 ---
 # discouraged
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Try to prevent; show opposition to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of courage or hope; take away hope from; cause to feel discouraged.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Day after day passed, and I felt almost discouraged."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A colporteur in the Wabash valley became quite discouraged and was almost ready to give up his work, on account of the smallness of his sales."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"At length, the younger of them began to be discouraged."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Try to prevent; show opposition to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of courage or hope; take away hope from; cause to feel discouraged.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Day after day passed, and I felt almost discouraged."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A colporteur in the Wabash valley became quite discouraged and was almost ready to give up his work, on account of the smallness of his sales."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"At length, the younger of them began to be discouraged."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # inotropic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increasing or decreasing the force of muscular contractions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increasing or decreasing the force of muscular contractions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inotropic designates increasing or decreasing the force of muscular contractions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Increasing or decreasing the force of muscular contractions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increasing or decreasing the force of muscular contractions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inotropic designates increasing or decreasing the force of muscular contractions."*

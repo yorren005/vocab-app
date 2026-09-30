@@ -5,15 +5,6 @@ status: unread
 ---
 # memorial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A recognition of meritorious service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A written statement of facts submitted in conjunction with a petition to an authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy master now lies thinking on his bed Of thee and me, and sighs, and takes my glove, And gives memorial dainty kisses to it, As I kiss thee."*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"LXXIV But be contented: when that fell arrest Without all bail shall carry me away, My life hath in this line some interest, Which for memorial still with thee shall stay."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"A memorial, signed by one hundred and sixty-seven United Presbyterian elders in the city, told him that, in the interests of their Church, it was of the utmost importance that he should do so."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A recognition of meritorious service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A written statement of facts submitted in conjunction with a petition to an authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy master now lies thinking on his bed Of thee and me, and sighs, and takes my glove, And gives memorial dainty kisses to it, As I kiss thee."*
+> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"LXXIV But be contented: when that fell arrest Without all bail shall carry me away, My life hath in this line some interest, Which for memorial still with thee shall stay."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"A memorial, signed by one hundred and sixty-seven United Presbyterian elders in the city, told him that, in the interests of their Church, it was of the utmost importance that he should do so."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # affect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The conscious subjective aspect of feeling or emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have an effect upon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No more of this, Helena; go to, no more, lest it be rather thought you affect a sorrow than to have."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do affect a sorrow indeed, but I have it too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, to seem to affect the malice and displeasure of the people is as bad as that which he dislikes, to flatter them for their love."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The conscious subjective aspect of feeling or emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have an effect upon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No more of this, Helena; go to, no more, lest it be rather thought you affect a sorrow than to have."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do affect a sorrow indeed, but I have it too."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, to seem to affect the malice and displeasure of the people is as bad as that which he dislikes, to flatter them for their love."*

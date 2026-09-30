@@ -5,15 +5,6 @@ status: unread
 ---
 # defending
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Argue or speak in defense of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be on the defensive; act against an attack.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BASSANIO. [_Aside._] Why, I were best to cut my left hand off, And swear I lost the ring defending it."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Thereupon, finding Tess unfairly browbeaten, the husbands and lovers tried to make peace by defending her; but the result of that attempt was directly to increase the war."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"After Shelley's death he went to Greece with Byron, joined the rebel chief Odysseus, married his sister Tersitza, and was nearly killed in defending a cave on Mount Parnassus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Argue or speak in defense of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be on the defensive; act against an attack.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BASSANIO. [_Aside._] Why, I were best to cut my left hand off, And swear I lost the ring defending it."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Thereupon, finding Tess unfairly browbeaten, the husbands and lovers tried to make peace by defending her; but the result of that attempt was directly to increase the war."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"After Shelley's death he went to Greece with Byron, joined the rebel chief Odysseus, married his sister Tersitza, and was nearly killed in defending a cave on Mount Parnassus."*

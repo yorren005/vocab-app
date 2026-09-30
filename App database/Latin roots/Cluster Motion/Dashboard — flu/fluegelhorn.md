@@ -5,13 +5,6 @@ status: unread
 ---
 # fluegelhorn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brass instrument resembling a cornet but with a wider bore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brass instrument resembling a cornet but with a wider bore.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluegelhorn designates a brass instrument resembling a cornet but with a wider bore."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brass instrument resembling a cornet but with a wider bore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brass instrument resembling a cornet but with a wider bore.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluegelhorn designates a brass instrument resembling a cornet but with a wider bore."*

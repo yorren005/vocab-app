@@ -5,15 +5,6 @@ status: unread
 ---
 # gnome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A legendary creature resembling a tiny old man; lives in the depths of the earth and guards buried treasure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short pithy saying expressing a general truth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And, Miss Eyre, so much was I flattered by this preference of the Gallic sylph for her British gnome, that I installed her in an hotel; gave her a complete establishment of servants, a carriage, cashmeres, diamonds, dentelles, &c."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"We were still gazing at the ruins, when the owner, clad in the brief garment of night-wear, came spluttering through the roof, like a very dirty gnome discharged by a mud-volcano."*
-> - 📜 **James Joyce (*Ulysses*):** *"On a step a gnome totting among a rubbishtip crouches to shoulder a sack of rags and bones."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A legendary creature resembling a tiny old man; lives in the depths of the earth and guards buried treasure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short pithy saying expressing a general truth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And, Miss Eyre, so much was I flattered by this preference of the Gallic sylph for her British gnome, that I installed her in an hotel; gave her a complete establishment of servants, a carriage, cashmeres, diamonds, dentelles, &c."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"We were still gazing at the ruins, when the owner, clad in the brief garment of night-wear, came spluttering through the roof, like a very dirty gnome discharged by a mud-volcano."*
+> - 📜 **James Joyce (*Ulysses*):** *"On a step a gnome totting among a rubbishtip crouches to shoulder a sack of rags and bones."*

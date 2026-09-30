@@ -5,15 +5,6 @@ status: unread
 ---
 # offering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something offered (as a proposal or bid).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Money contributed to a religious organization.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plucking the entrails of an offering forth, They could not find a heart within the beast."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only I yield to die: There is so much that thou wilt kill me straight; [_Offering money_] Kill Brutus, and be honour’d in his death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PROVOST. [_Offering to retire_.] Save your honour!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something offered (as a proposal or bid).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Money contributed to a religious organization.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plucking the entrails of an offering forth, They could not find a heart within the beast."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only I yield to die: There is so much that thou wilt kill me straight; [_Offering money_] Kill Brutus, and be honour’d in his death."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PROVOST. [_Offering to retire_.] Save your honour!"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # arbitrament
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of deciding as an arbiter; giving authoritative judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of deciding as an arbiter; giving authoritative judgment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo, where our sister is in expectation, Yet quaking and unsettled.—Fairest Emily, The gods by their divine arbitrament Have given you this knight; he is a good one As ever struck at head."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"With nothing left to my arbitrament To choose or change: I wrote, and men believed."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The appeal from the ballot to the sword has been made, and its arbitrament has been irrevocably ratified by the supreme power of the nation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of deciding as an arbiter; giving authoritative judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of deciding as an arbiter; giving authoritative judgment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo, where our sister is in expectation, Yet quaking and unsettled.—Fairest Emily, The gods by their divine arbitrament Have given you this knight; he is a good one As ever struck at head."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"With nothing left to my arbitrament To choose or change: I wrote, and men believed."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The appeal from the ballot to the sword has been made, and its arbitrament has been irrevocably ratified by the supreme power of the nation."*

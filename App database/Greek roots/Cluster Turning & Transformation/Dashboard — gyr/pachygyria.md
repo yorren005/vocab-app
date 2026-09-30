@@ -5,13 +5,6 @@ status: unread
 ---
 # pachygyria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mild to moderate lissencephaly marked by a cerebral cortex with only a few broad, flat convolutions : incomplete lissencephaly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mild to moderate lissencephaly marked by a cerebral cortex with only a few broad, flat convolutions : incomplete lissencephaly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachygyria designates mild to moderate lissencephaly marked by a cerebral cortex with only a few broad, flat convolutions : incomplete lissencephaly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mild to moderate lissencephaly marked by a cerebral cortex with only a few broad, flat convolutions : incomplete lissencephaly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mild to moderate lissencephaly marked by a cerebral cortex with only a few broad, flat convolutions : incomplete lissencephaly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachygyria designates mild to moderate lissencephaly marked by a cerebral cortex with only a few broad, flat convolutions : incomplete lissencephaly."*

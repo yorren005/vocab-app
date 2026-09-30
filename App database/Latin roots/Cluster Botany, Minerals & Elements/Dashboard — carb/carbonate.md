@@ -5,15 +5,6 @@ status: unread
 ---
 # carbonate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of carbonic acid (containing the anion co3).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn into a carbonate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In a thousand grammes are found 96½ per cent. of water, and about 2-2/3 per cent. of chloride of sodium; then, in a smaller quantity, chlorides of magnesium and of potassium, bromide of magnesium, sulphate of magnesia, sulphate and carbonate of lime."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The metal is unchanged in dry air at ordinary temperatures; in the presence of moisture and of carbon dioxide a green coating of basic carbonate is produced."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"In addition, the presence of other earthy bases in the charge dilutes its fuel value; they may even consume valuable heat by requiring decomposition, as in the case of carbonates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of carbonic acid (containing the anion co3).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn into a carbonate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In a thousand grammes are found 96½ per cent. of water, and about 2-2/3 per cent. of chloride of sodium; then, in a smaller quantity, chlorides of magnesium and of potassium, bromide of magnesium, sulphate of magnesia, sulphate and carbonate of lime."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The metal is unchanged in dry air at ordinary temperatures; in the presence of moisture and of carbon dioxide a green coating of basic carbonate is produced."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"In addition, the presence of other earthy bases in the charge dilutes its fuel value; they may even consume valuable heat by requiring decomposition, as in the case of carbonates."*

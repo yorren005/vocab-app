@@ -5,13 +5,6 @@ status: unread
 ---
 # overcapitalisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (business) too much capitalization (the sale of more stock than the business warrants).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (business) too much capitalization (the sale of more stock than the business warrants).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overcapitalisation designates (business) too much capitalization (the sale of more stock than the business warrants)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (business) too much capitalization (the sale of more stock than the business warrants).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (business) too much capitalization (the sale of more stock than the business warrants).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overcapitalisation designates (business) too much capitalization (the sale of more stock than the business warrants)."*

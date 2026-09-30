@@ -5,13 +5,6 @@ status: unread
 ---
 # ventrally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a ventral location or direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a ventral location or direction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventrally designates in a ventral location or direction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a ventral location or direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a ventral location or direction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventrally designates in a ventral location or direction."*

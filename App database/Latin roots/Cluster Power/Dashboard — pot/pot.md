@@ -5,15 +5,6 @@ status: unread
 ---
 # pot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Metal or earthenware cooking vessel that is usually round and deep; often has a handle and lid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plumbing fixture for defecation and urination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace, good pint-pot; peace, good tickle-brain.—Harry, I do not only marvel where thou spendest thy time, but also how thou art accompanied."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is ’t such a matter to get a pottle-pot’s maidenhead?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would give all my fame for a pot of ale and safety."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Metal or earthenware cooking vessel that is usually round and deep; often has a handle and lid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plumbing fixture for defecation and urination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace, good pint-pot; peace, good tickle-brain.—Harry, I do not only marvel where thou spendest thy time, but also how thou art accompanied."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is ’t such a matter to get a pottle-pot’s maidenhead?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would give all my fame for a pot of ale and safety."*

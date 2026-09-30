@@ -5,15 +5,6 @@ status: unread
 ---
 # deleterious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Harmful to living things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harmful to living things.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"When I returned on board, I was nearly suffocated by the carbonic acid with which the air was filled—ah! if we had only the chemical means to drive away this deleterious gas."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Or might it suffice him that every wholesome growth should be converted into something deleterious and malignant at his touch?"*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The deleterious effects of bismuth are, as already explained, to some extent masked by the presence of arsenic and by oxygen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Harmful to living things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harmful to living things.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"When I returned on board, I was nearly suffocated by the carbonic acid with which the air was filled—ah! if we had only the chemical means to drive away this deleterious gas."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Or might it suffice him that every wholesome growth should be converted into something deleterious and malignant at his touch?"*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The deleterious effects of bismuth are, as already explained, to some extent masked by the presence of arsenic and by oxygen."*

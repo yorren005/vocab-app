@@ -5,13 +5,6 @@ status: unread
 ---
 # licensee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone to whom a license is granted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone to whom a license is granted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, licensee designates someone to whom a license is granted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone to whom a license is granted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone to whom a license is granted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, licensee designates someone to whom a license is granted."*

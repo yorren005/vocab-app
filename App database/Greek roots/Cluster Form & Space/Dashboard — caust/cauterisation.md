@@ -5,13 +5,6 @@ status: unread
 ---
 # cauterisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of coagulating blood and destroying tissue with a hot iron or caustic agent or by freezing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of coagulating blood and destroying tissue with a hot iron or caustic agent or by freezing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cauterisation designates the act of coagulating blood and destroying tissue with a hot iron or caustic agent or by freezing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of coagulating blood and destroying tissue with a hot iron or caustic agent or by freezing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of coagulating blood and destroying tissue with a hot iron or caustic agent or by freezing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cauterisation designates the act of coagulating blood and destroying tissue with a hot iron or caustic agent or by freezing."*

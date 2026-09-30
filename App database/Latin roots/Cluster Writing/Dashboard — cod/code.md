@@ -5,15 +5,6 @@ status: unread
 ---
 # code
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of rules or principles or laws (especially written ones).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coding system used for transmitting messages requiring brevity or secrecy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"X Every village has its idiosyncrasy, its constitution, often its own code of morality."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"That the code they used was simple I had not the slightest doubt, yet I devoted many hours to a vain effort to work it out."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Not only each day did they change the point in the alphabet where the code initialled, but they changed it every conversation, and, often, in the midst of a conversation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of rules or principles or laws (especially written ones).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coding system used for transmitting messages requiring brevity or secrecy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"X Every village has its idiosyncrasy, its constitution, often its own code of morality."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"That the code they used was simple I had not the slightest doubt, yet I devoted many hours to a vain effort to work it out."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Not only each day did they change the point in the alphabet where the code initialled, but they changed it every conversation, and, often, in the midst of a conversation."*

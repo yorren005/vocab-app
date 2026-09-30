@@ -5,15 +5,6 @@ status: unread
 ---
 # alberta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the three prairie provinces in western canada; rich in oil and natural gas and minerals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the three prairie provinces in western canada; rich in oil and natural gas and minerals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A man I know on the turf named Charles Alberta Marsh (I was in bed with him just now and another gentleman out of the Hanaper and Petty Bag office) is on the lookout for a maid of all work at a short knock."*
-> - 📜 **James Joyce (*Ulysses*):** *"CHARLES ALBERTA MARSH: Must be virgin."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"I promised to help Alberta cut out her new dress."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the three prairie provinces in western canada; rich in oil and natural gas and minerals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the three prairie provinces in western canada; rich in oil and natural gas and minerals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"A man I know on the turf named Charles Alberta Marsh (I was in bed with him just now and another gentleman out of the Hanaper and Petty Bag office) is on the lookout for a maid of all work at a short knock."*
+> - 📜 **James Joyce (*Ulysses*):** *"CHARLES ALBERTA MARSH: Must be virgin."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"I promised to help Alberta cut out her new dress."*

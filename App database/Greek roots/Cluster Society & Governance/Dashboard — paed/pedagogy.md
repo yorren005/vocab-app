@@ -5,14 +5,6 @@ status: unread
 ---
 # pedagogy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, science, or profession of teaching; especially : the field of study that deals mainly with methods of teaching and learning in schools : education.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art, science, or profession of teaching; especially : the field of study that deals mainly with methods of teaching and learning in schools : education.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"I have been treating him almost as if he were an authority on pedagogy."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Fortunately, he never discussed pedagogy, never used the terms I have been using."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, science, or profession of teaching; especially : the field of study that deals mainly with methods of teaching and learning in schools : education.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art, science, or profession of teaching; especially : the field of study that deals mainly with methods of teaching and learning in schools : education.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"I have been treating him almost as if he were an authority on pedagogy."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Fortunately, he never discussed pedagogy, never used the terms I have been using."*

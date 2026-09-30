@@ -5,15 +5,6 @@ status: unread
 ---
 # condole
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express one's sympathetic grief, on the occasion of someone's death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express one's sympathetic grief, on the occasion of someone's death.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us condole the knight; for, lambkins, we will live. [_Exeunt._] SCENE II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will move storms; I will condole in some measure."*
-> - 📜 **Effie Afton (*Eventide*):** *"Orville, and condole with her on her daughter's disgrace; but those benevolently-disposed ladies deemed it expedient to call first at sundry places in the village and repeat the lamentable tale, probably to increase the stock of sympathy; so Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Express one's sympathetic grief, on the occasion of someone's death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express one's sympathetic grief, on the occasion of someone's death.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us condole the knight; for, lambkins, we will live. [_Exeunt._] SCENE II."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will move storms; I will condole in some measure."*
+> - 📜 **Effie Afton (*Eventide*):** *"Orville, and condole with her on her daughter's disgrace; but those benevolently-disposed ladies deemed it expedient to call first at sundry places in the village and repeat the lamentable tale, probably to increase the stock of sympathy; so Mrs."*

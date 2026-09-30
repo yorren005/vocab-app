@@ -5,15 +5,6 @@ status: unread
 ---
 # vaccinate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform vaccinations or produce immunity in by inoculation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform vaccinations or produce immunity in by inoculation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"No one inspects the Chinese garbage pail except the pig, or sniffs about for defective drains, or insists upon a man's keeping the roadway in front of his house in order, or compels him to have his children vaccinated."*
-> - 📜 **James Joyce (*Ulysses*):** *"Suppose she wouldn’t let herself be vaccinated again."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It should be the central idea of American politics, and every child, so to speak, should be vaccinated with this idea, so that he may be protected against this political distemper that has brought such calamity upon our country."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform vaccinations or produce immunity in by inoculation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform vaccinations or produce immunity in by inoculation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"No one inspects the Chinese garbage pail except the pig, or sniffs about for defective drains, or insists upon a man's keeping the roadway in front of his house in order, or compels him to have his children vaccinated."*
+> - 📜 **James Joyce (*Ulysses*):** *"Suppose she wouldn’t let herself be vaccinated again."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It should be the central idea of American politics, and every child, so to speak, should be vaccinated with this idea, so that he may be protected against this political distemper that has brought such calamity upon our country."*

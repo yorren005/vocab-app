@@ -5,14 +5,6 @@ status: unread
 ---
 # abacus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for performing calculations by sliding counters along rods or in grooves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slab that forms the uppermost member or division of the capital of a column.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In his large study, the walls of which were hung to the ceiling with Persian rugs, bearskins, and weapons, sat Dólokhov in a traveling cloak and high boots, at an open desk on which lay an abacus and some bundles of paper money."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"In his hand he bore that singular “abacus”, or staff of office, with which Templars are usually represented, having at the upper end a round plate, on which was engraved the cross of the Order, inscribed within a circle or orle, as heralds term it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for performing calculations by sliding counters along rods or in grooves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slab that forms the uppermost member or division of the capital of a column.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In his large study, the walls of which were hung to the ceiling with Persian rugs, bearskins, and weapons, sat Dólokhov in a traveling cloak and high boots, at an open desk on which lay an abacus and some bundles of paper money."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"In his hand he bore that singular “abacus”, or staff of office, with which Templars are usually represented, having at the upper end a round plate, on which was engraved the cross of the Order, inscribed within a circle or orle, as heralds term it."*

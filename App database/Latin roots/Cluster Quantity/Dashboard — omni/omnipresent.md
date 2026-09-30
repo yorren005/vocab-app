@@ -5,15 +5,6 @@ status: unread
 ---
 # omnipresent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being present everywhere at once.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being present everywhere at once.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"The existence of an Omnipresent Holiness was alike the beginning and the burden of his theology, and in the light of that truth all the earth became holy to him."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Even if he had written it as a burlesque of such a play as Marlow’s ‘Jew of Malta’, he could not have avoided some revelation of that sense of moral proportion which is omnipresent in his Plays."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"With oversight by reasonable and conscientious leaders, managers, and supporters, suicide prevention would become ingrained, omnipresent, and a way of life in which everyone would play a vital role."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being present everywhere at once.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being present everywhere at once.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **C. A. Frazer (*Atmâ*):** *"The existence of an Omnipresent Holiness was alike the beginning and the burden of his theology, and in the light of that truth all the earth became holy to him."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Even if he had written it as a burlesque of such a play as Marlow’s ‘Jew of Malta’, he could not have avoided some revelation of that sense of moral proportion which is omnipresent in his Plays."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"With oversight by reasonable and conscientious leaders, managers, and supporters, suicide prevention would become ingrained, omnipresent, and a way of life in which everyone would play a vital role."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # theorise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To believe especially on uncertain or tentative grounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To believe especially on uncertain or tentative grounds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is a capital mistake to theorise before one has data."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I was very tired and sleepy, and soon my theorising passed into dozing."*
-> - 📜 **James Joyce (*Ulysses*):** *"Was he here? —The bard’s fellowcountrymen, John Eglinton answered, are rather tired perhaps of our brilliancies of theorising."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To believe especially on uncertain or tentative grounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To believe especially on uncertain or tentative grounds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is a capital mistake to theorise before one has data."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I was very tired and sleepy, and soon my theorising passed into dozing."*
+> - 📜 **James Joyce (*Ulysses*):** *"Was he here? —The bard’s fellowcountrymen, John Eglinton answered, are rather tired perhaps of our brilliancies of theorising."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # sansevieria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grown as a houseplant for its mottled fleshy sword-shaped leaves or as a source of fiber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grown as a houseplant for its mottled fleshy sword-shaped leaves or as a source of fiber.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sansevieria designates grown as a houseplant for its mottled fleshy sword-shaped leaves or as a source of fiber."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Grown as a houseplant for its mottled fleshy sword-shaped leaves or as a source of fiber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grown as a houseplant for its mottled fleshy sword-shaped leaves or as a source of fiber.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sansevieria designates grown as a houseplant for its mottled fleshy sword-shaped leaves or as a source of fiber."*

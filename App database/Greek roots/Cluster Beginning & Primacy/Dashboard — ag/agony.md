@@ -5,15 +5,6 @@ status: unread
 ---
 # agony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense pain of mind or body : anguish, torture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The struggle that precedes death.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take that to end thy agony. [_Stabs him._] GEORGE."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When he was brought again to th’ bar to hear His knell rung out, his judgement, he was stirred With such an agony, he sweat extremely And something spoke in choler, ill and hasty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mirth cannot move a soul in agony."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense pain of mind or body : anguish, torture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The struggle that precedes death.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take that to end thy agony. [_Stabs him._] GEORGE."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When he was brought again to th’ bar to hear His knell rung out, his judgement, he was stirred With such an agony, he sweat extremely And something spoke in choler, ill and hasty."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mirth cannot move a soul in agony."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # podocarp
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any evergreen in the southern hemisphere of the genus podocarpus having a pulpy fruit with one hard seed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any evergreen in the southern hemisphere of the genus podocarpus having a pulpy fruit with one hard seed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podocarp designates any evergreen in the southern hemisphere of the genus podocarpus having a pulpy fruit with one hard seed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any evergreen in the southern hemisphere of the genus podocarpus having a pulpy fruit with one hard seed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any evergreen in the southern hemisphere of the genus podocarpus having a pulpy fruit with one hard seed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podocarp designates any evergreen in the southern hemisphere of the genus podocarpus having a pulpy fruit with one hard seed."*

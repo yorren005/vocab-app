@@ -5,13 +5,6 @@ status: unread
 ---
 # sortition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Making a chance decision by using lots (straws or pebbles etc.) that are thrown or drawn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making a chance decision by using lots (straws or pebbles etc.) that are thrown or drawn.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sortition designates making a chance decision by using lots (straws or pebbles etc.) that are thrown or drawn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making a chance decision by using lots (straws or pebbles etc.) that are thrown or drawn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making a chance decision by using lots (straws or pebbles etc.) that are thrown or drawn.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sortition designates making a chance decision by using lots (straws or pebbles etc.) that are thrown or drawn."*

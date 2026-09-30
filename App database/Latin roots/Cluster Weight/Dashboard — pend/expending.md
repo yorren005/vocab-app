@@ -5,15 +5,6 @@ status: unread
 ---
 # expending
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of spending money for goods or services.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use up, consume fully.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"One night I was sitting in the chimney corner with my slate, expending great efforts on the production of a letter to Joe."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And the whale soon ceasing to sound, for some time they remained in that attitude, fearful of expending more line, though the position was a little ticklish."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"So, for want of better, I talked to myself; I declaimed in the copper box which covered my head, thereby expending more air in vain words than was perhaps expedient."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of spending money for goods or services.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use up, consume fully.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"One night I was sitting in the chimney corner with my slate, expending great efforts on the production of a letter to Joe."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And the whale soon ceasing to sound, for some time they remained in that attitude, fearful of expending more line, though the position was a little ticklish."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"So, for want of better, I talked to myself; I declaimed in the copper box which covered my head, thereby expending more air in vain words than was perhaps expedient."*

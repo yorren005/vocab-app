@@ -5,15 +5,6 @@ status: unread
 ---
 # succinct
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Briefly giving the gist of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Briefly giving the gist of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She sat down and wrote on the four pages of a note-sheet a succinct narrative of those events of three or four years ago, put it into an envelope, and directed it to Clare."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The house was just such as I had pictured it from Sherlock Holmes’ succinct description, but the locality appeared to be less private than I expected."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"It behooved me to be succinct."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Briefly giving the gist of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Briefly giving the gist of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She sat down and wrote on the four pages of a note-sheet a succinct narrative of those events of three or four years ago, put it into an envelope, and directed it to Clare."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The house was just such as I had pictured it from Sherlock Holmes’ succinct description, but the locality appeared to be less private than I expected."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"It behooved me to be succinct."*

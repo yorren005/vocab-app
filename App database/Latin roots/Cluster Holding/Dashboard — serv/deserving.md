@@ -5,15 +5,6 @@ status: unread
 ---
 # deserving
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be worthy or deserving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of being treated in a particular way; ;  (often used ironically).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For how do I hold thee but by thy granting, And for that riches where is my deserving?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I believe with him, In argument of praise, or to the worth Of the great count himself, she is too mean To have her name repeated; all her deserving Is a reserved honesty, and that I have not heard examin’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Vanish, or I shall give thee thy deserving And blemish Caesar’s triumph."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be worthy or deserving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of being treated in a particular way; ;  (often used ironically).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For how do I hold thee but by thy granting, And for that riches where is my deserving?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I believe with him, In argument of praise, or to the worth Of the great count himself, she is too mean To have her name repeated; all her deserving Is a reserved honesty, and that I have not heard examin’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Vanish, or I shall give thee thy deserving And blemish Caesar’s triumph."*

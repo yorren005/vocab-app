@@ -5,15 +5,6 @@ status: unread
 ---
 # detraction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A petty disparagement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of discrediting or detracting from someone's reputation (especially by slander).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Detraction will not suffer it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and you had any eye behind you, you might see more detraction at your heels than fortunes before you."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Detraction’s eye no aim can gain, Her winning pow’rs to lessen; And fretful Envy grins in vain The poison’d tooth to fasten."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A petty disparagement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of discrediting or detracting from someone's reputation (especially by slander).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Detraction will not suffer it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and you had any eye behind you, you might see more detraction at your heels than fortunes before you."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Detraction’s eye no aim can gain, Her winning pow’rs to lessen; And fretful Envy grins in vain The poison’d tooth to fasten."*

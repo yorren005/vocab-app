@@ -5,13 +5,6 @@ status: unread
 ---
 # monohybrid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hybrid produced by crossing parents that are homozygous except for a single gene locus that has two alleles (as in mendel's experiments with garden peas).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hybrid produced by crossing parents that are homozygous except for a single gene locus that has two alleles (as in mendel's experiments with garden peas).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monohybrid designates a hybrid produced by crossing parents that are homozygous except for a single gene locus that has two alleles (as in mendel's experiments with garden peas)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hybrid produced by crossing parents that are homozygous except for a single gene locus that has two alleles (as in mendel's experiments with garden peas).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hybrid produced by crossing parents that are homozygous except for a single gene locus that has two alleles (as in mendel's experiments with garden peas).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monohybrid designates a hybrid produced by crossing parents that are homozygous except for a single gene locus that has two alleles (as in mendel's experiments with garden peas)."*

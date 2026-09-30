@@ -5,15 +5,6 @@ status: unread
 ---
 # estimation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A document appraising the value of something (as for insurance or taxation).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The respect with which a person is held.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We lost a jewel of her, and our esteem Was made much poorer by it; but your son, As mad in folly, lack’d the sense to know Her estimation home."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet you must be saying Martius is proud, who, in a cheap estimation, is worth all your predecessors since Deucalion, though peradventure some of the best of ’em were hereditary hangmen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will, sir, flatter my sworn brother, the people, to earn a dearer estimation of them; ’tis a condition they account gentle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A document appraising the value of something (as for insurance or taxation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The respect with which a person is held.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We lost a jewel of her, and our esteem Was made much poorer by it; but your son, As mad in folly, lack’d the sense to know Her estimation home."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet you must be saying Martius is proud, who, in a cheap estimation, is worth all your predecessors since Deucalion, though peradventure some of the best of ’em were hereditary hangmen."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will, sir, flatter my sworn brother, the people, to earn a dearer estimation of them; ’tis a condition they account gentle."*

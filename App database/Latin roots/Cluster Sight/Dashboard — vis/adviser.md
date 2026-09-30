@@ -5,15 +5,6 @@ status: unread
 ---
 # adviser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert who gives advice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert who gives advice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"My father instructed the two sons and acted as helper and adviser to the Baroness in many things."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"With many hearty handshakes and good wishes the two Remke ladies at last let their friend and adviser go."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Bruno saw himself as her protector and adviser, and as her brother's close friend he meant to keep an active watch over her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert who gives advice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert who gives advice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"My father instructed the two sons and acted as helper and adviser to the Baroness in many things."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"With many hearty handshakes and good wishes the two Remke ladies at last let their friend and adviser go."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Bruno saw himself as her protector and adviser, and as her brother's close friend he meant to keep an active watch over her."*

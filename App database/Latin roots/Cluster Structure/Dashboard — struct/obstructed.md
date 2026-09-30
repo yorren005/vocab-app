@@ -5,15 +5,6 @@ status: unread
 ---
 # obstructed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hinder or prevent the progress or accomplishment of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Block passage through.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The intercepting city, ancient Melchester, they were obliged to pass through in order to take advantage of the town bridge for crossing a large river that obstructed them."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Have you ever laced your shoe too tightly, and, after half an hour, experienced that excruciating pain across the instep of the obstructed circulation?"*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"He fought now like a human flail, and every sweep of that terrible sword would have severed in twain any man or boy who obstructed it; but Peter fluttered round him as if the very wind it made blew him out of the danger zone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hinder or prevent the progress or accomplishment of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Block passage through.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The intercepting city, ancient Melchester, they were obliged to pass through in order to take advantage of the town bridge for crossing a large river that obstructed them."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Have you ever laced your shoe too tightly, and, after half an hour, experienced that excruciating pain across the instep of the obstructed circulation?"*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"He fought now like a human flail, and every sweep of that terrible sword would have severed in twain any man or boy who obstructed it; but Peter fluttered round him as if the very wind it made blew him out of the danger zone."*

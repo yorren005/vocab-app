@@ -5,13 +5,6 @@ status: unread
 ---
 # insincerely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without sincerity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without sincerity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I'll be as good to her as I can, without feeling that I am acting insincerely." "And that is all I ask, love."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without sincerity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without sincerity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I'll be as good to her as I can, without feeling that I am acting insincerely." "And that is all I ask, love."*

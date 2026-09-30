@@ -5,15 +5,6 @@ status: unread
 ---
 # compassionately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a compassionate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a compassionate manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"What a great age, Charley!” I cannot describe the tenderness with which he spoke to her, half playfully yet all the more compassionately and mournfully."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He could not travel in this state even if he had a purpose and knew where he was going!” “I know no more, ma’am, than the dead,” she replied, glancing compassionately at him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I wouldn’t cry about it, miss,” said William Smallbury, compassionately."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a compassionate manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a compassionate manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"What a great age, Charley!” I cannot describe the tenderness with which he spoke to her, half playfully yet all the more compassionately and mournfully."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He could not travel in this state even if he had a purpose and knew where he was going!” “I know no more, ma’am, than the dead,” she replied, glancing compassionately at him."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I wouldn’t cry about it, miss,” said William Smallbury, compassionately."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # deactivation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Breaking up a military unit (by transfers or discharges).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of deactivating or making ineffective (as a bomb).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deactivation designates breaking up a military unit (by transfers or discharges)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Breaking up a military unit (by transfers or discharges).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of deactivating or making ineffective (as a bomb).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deactivation designates breaking up a military unit (by transfers or discharges)."*

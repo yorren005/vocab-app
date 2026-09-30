@@ -5,13 +5,6 @@ status: unread
 ---
 # transliteration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A transcription from one alphabet to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transcription from one alphabet to another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Though the pages are less peppered with Sanskrit transliterations and Buddhist terms than other Buddhist classics, the work still presents serious difficulty to the Chinese reader and not less so to the Western student."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A transcription from one alphabet to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transcription from one alphabet to another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Though the pages are less peppered with Sanskrit transliterations and Buddhist terms than other Buddhist classics, the work still presents serious difficulty to the Chinese reader and not less so to the Western student."*

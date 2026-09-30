@@ -5,14 +5,6 @@ status: unread
 ---
 # analogical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or based on analogy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing or implying analogy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Though the certainty of this criterion is far from demonstrable, yet it has the savor of analogical probability."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Though the certainty of this criterion is far from demonstrable, yet it has the savor of analogical probability."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or based on analogy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing or implying analogy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Though the certainty of this criterion is far from demonstrable, yet it has the savor of analogical probability."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Though the certainty of this criterion is far from demonstrable, yet it has the savor of analogical probability."*

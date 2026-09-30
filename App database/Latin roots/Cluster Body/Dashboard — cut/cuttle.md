@@ -5,15 +5,6 @@ status: unread
 ---
 # cuttle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ten-armed oval-bodied cephalopod with narrow fins as long as the body and a large calcareous internal shell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ten-armed oval-bodied cephalopod with narrow fins as long as the body and a large calcareous internal shell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By this wine, I’ll thrust my knife in your mouldy chaps an you play the saucy cuttle with me."*
-> - 📜 **George Eliot (*Middlemarch*):** *"As to his blood, I suppose the family quarterings are three cuttle-fish sable, and a commentator rampant."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The Casaubon cuttle-fish fluid to begin with, and then a rebellious Polish fiddler or dancing-master, was it?—and then an old clo—” “Nonsense, Elinor,” said the Rector, rising."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ten-armed oval-bodied cephalopod with narrow fins as long as the body and a large calcareous internal shell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ten-armed oval-bodied cephalopod with narrow fins as long as the body and a large calcareous internal shell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By this wine, I’ll thrust my knife in your mouldy chaps an you play the saucy cuttle with me."*
+> - 📜 **George Eliot (*Middlemarch*):** *"As to his blood, I suppose the family quarterings are three cuttle-fish sable, and a commentator rampant."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The Casaubon cuttle-fish fluid to begin with, and then a rebellious Polish fiddler or dancing-master, was it?—and then an old clo—” “Nonsense, Elinor,” said the Rector, rising."*

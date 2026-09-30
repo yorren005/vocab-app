@@ -5,13 +5,6 @@ status: unread
 ---
 # disinformation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Misinformation that is deliberately disseminated in order to influence or confuse rivals (foreign enemies or business competitors etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Misinformation that is deliberately disseminated in order to influence or confuse rivals (foreign enemies or business competitors etc.).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disinformation designates misinformation that is deliberately disseminated in order to influence or confuse rivals (foreign enemies or business competitors etc.)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Misinformation that is deliberately disseminated in order to influence or confuse rivals (foreign enemies or business competitors etc.).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Misinformation that is deliberately disseminated in order to influence or confuse rivals (foreign enemies or business competitors etc.).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disinformation designates misinformation that is deliberately disseminated in order to influence or confuse rivals (foreign enemies or business competitors etc.)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # contributory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to bring about; being partly responsible for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to bring about; being partly responsible for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Insurance may be _contributory_ or _noncontributory_."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is on the contributory plan when the insured workers contribute something toward the premiums that provide the funds for eventual payment."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"By the doctrine of contributory negligence, the workman's claim could be defeated by showing that he had by his carelessness contributed to the accident even when the employer had been negligent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to bring about; being partly responsible for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to bring about; being partly responsible for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Insurance may be _contributory_ or _noncontributory_."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is on the contributory plan when the insured workers contribute something toward the premiums that provide the funds for eventual payment."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"By the doctrine of contributory negligence, the workman's claim could be defeated by showing that he had by his carelessness contributed to the accident even when the employer had been negligent."*

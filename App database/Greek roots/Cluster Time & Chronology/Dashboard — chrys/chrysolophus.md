@@ -5,13 +5,6 @@ status: unread
 ---
 # chrysolophus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Golden pheasants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Golden pheasants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysolophus designates golden pheasants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Golden pheasants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Golden pheasants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysolophus designates golden pheasants."*

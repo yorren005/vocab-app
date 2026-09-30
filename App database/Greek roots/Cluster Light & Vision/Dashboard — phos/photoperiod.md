@@ -5,13 +5,6 @@ status: unread
 ---
 # photoperiod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A recurring cycle of light and dark periods of constant length; also : the period of light during such a cycle : photophase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recurring cycle of light and dark periods of constant length; also : the period of light during such a cycle : photophase.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoperiod designates a recurring cycle of light and dark periods of constant length; also : the period of light during such a cycle : photophase."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A recurring cycle of light and dark periods of constant length; also : the period of light during such a cycle : photophase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recurring cycle of light and dark periods of constant length; also : the period of light during such a cycle : photophase.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoperiod designates a recurring cycle of light and dark periods of constant length; also : the period of light during such a cycle : photophase."*

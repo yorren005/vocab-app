@@ -5,13 +5,6 @@ status: unread
 ---
 # tendergreen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Asiatic plant cultivated for its swollen root crown and edible foliage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Asiatic plant cultivated for its swollen root crown and edible foliage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tendergreen designates asiatic plant cultivated for its swollen root crown and edible foliage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Asiatic plant cultivated for its swollen root crown and edible foliage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Asiatic plant cultivated for its swollen root crown and edible foliage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tendergreen designates asiatic plant cultivated for its swollen root crown and edible foliage."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # antimagnetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impervious to the effects of a magnetic field; resistant to magnetization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impervious to the effects of a magnetic field; resistant to magnetization.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimagnetic designates impervious to the effects of a magnetic field; resistant to magnetization."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impervious to the effects of a magnetic field; resistant to magnetization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impervious to the effects of a magnetic field; resistant to magnetization.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimagnetic designates impervious to the effects of a magnetic field; resistant to magnetization."*

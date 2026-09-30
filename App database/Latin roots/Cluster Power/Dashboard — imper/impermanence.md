@@ -5,13 +5,6 @@ status: unread
 ---
 # impermanence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of not existing for indefinitely long durations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of not existing for indefinitely long durations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"So strong is the sense of his own misery, the premonition of his own death, that we scarcely know, nor does it matter, whether it is in the person of Keats or of himself that he is lamenting the impermanence of earthly good."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of not existing for indefinitely long durations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of not existing for indefinitely long durations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"So strong is the sense of his own misery, the premonition of his own death, that we scarcely know, nor does it matter, whether it is in the person of Keats or of himself that he is lamenting the impermanence of earthly good."*

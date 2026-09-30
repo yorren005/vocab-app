@@ -5,15 +5,6 @@ status: unread
 ---
 # friction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of conflict between persons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The resistance encountered when one body is moved in contact with another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There must have been great intellectual friction going on there under the auspices of such a man!” “And now,” pursued Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A busy little man he always is, in the polishing at harness-house doors, of stirrup-irons, bits, curb-chains, harness bosses, anything in the way of a stable-yard that will take a polish, leading a life of friction."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"I hope that the friction will elicit heat, since this neither cold nor hot spirit is not to edification." The other letters of this period range over a wide variety of subjects."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of conflict between persons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The resistance encountered when one body is moved in contact with another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"There must have been great intellectual friction going on there under the auspices of such a man!” “And now,” pursued Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A busy little man he always is, in the polishing at harness-house doors, of stirrup-irons, bits, curb-chains, harness bosses, anything in the way of a stable-yard that will take a polish, leading a life of friction."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"I hope that the friction will elicit heat, since this neither cold nor hot spirit is not to edification." The other letters of this period range over a wide variety of subjects."*

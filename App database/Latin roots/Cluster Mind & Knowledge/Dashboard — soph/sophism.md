@@ -5,15 +5,6 @@ status: unread
 ---
 # sophism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deliberately invalid argument displaying ingenuity in reasoning in the hope of deceiving someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberately invalid argument displaying ingenuity in reasoning in the hope of deceiving someone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There is a well-known, so-called sophism of the ancients consisting in this, that Achilles could never catch up with a tortoise he was following, in spite of the fact that he traveled ten times as fast as the tortoise."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It’s to make you independent that I want to marry you.” “That’s a beautiful sophism,” said the girl with a smile more beautiful still."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Happily for mankind, stupendous fabrics reared on the basis of liberty, which have flourished for ages, have, in a few glorious instances, refuted their gloomy sophisms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deliberately invalid argument displaying ingenuity in reasoning in the hope of deceiving someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberately invalid argument displaying ingenuity in reasoning in the hope of deceiving someone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There is a well-known, so-called sophism of the ancients consisting in this, that Achilles could never catch up with a tortoise he was following, in spite of the fact that he traveled ten times as fast as the tortoise."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It’s to make you independent that I want to marry you.” “That’s a beautiful sophism,” said the girl with a smile more beautiful still."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Happily for mankind, stupendous fabrics reared on the basis of liberty, which have flourished for ages, have, in a few glorious instances, refuted their gloomy sophisms."*

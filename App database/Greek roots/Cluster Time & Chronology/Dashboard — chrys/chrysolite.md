@@ -5,14 +5,6 @@ status: unread
 ---
 # chrysolite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: olivine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: olivine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, had she been true, If heaven would make me such another world Of one entire and perfect chrysolite, I’d not have sold her for it."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The water slips o’er stock and stone; The West is tender, hardly bright: How gray at once is the evening grown-- One star, its chrysolite! 38."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: olivine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: olivine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, had she been true, If heaven would make me such another world Of one entire and perfect chrysolite, I’d not have sold her for it."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The water slips o’er stock and stone; The West is tender, hardly bright: How gray at once is the evening grown-- One star, its chrysolite! 38."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # herb
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant lacking a permanent woody stem; many are flowering garden plants or potherbs; some having medicinal properties; some are pests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aromatic potherb used in cookery for its savory qualities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We may pick a thousand salads ere we light on such another herb."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, sir, she was the sweet marjoram of the salad, or, rather, the herb of grace."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We may call it herb of grace o’ Sundays."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant lacking a permanent woody stem; many are flowering garden plants or potherbs; some having medicinal properties; some are pests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aromatic potherb used in cookery for its savory qualities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We may pick a thousand salads ere we light on such another herb."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, sir, she was the sweet marjoram of the salad, or, rather, the herb of grace."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We may call it herb of grace o’ Sundays."*

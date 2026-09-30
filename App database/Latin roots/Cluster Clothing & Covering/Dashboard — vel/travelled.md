@@ -5,15 +5,6 @@ status: unread
 ---
 # travelled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change location; move, travel, or proceed, also metaphorically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undertake a journey or trip.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reformation of our travelled gallants That fill the court with quarrels, talk, and tailors."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have delivered to Lord Angelo, A man of stricture and firm abstinence, My absolute power and place here in Vienna, And he supposes me travelled to Poland; For so I have strewed it in the common ear, And so it is received."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"They summoned him again yesterday in order to consult him as to whether there might be danger if the child travelled."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Change location; move, travel, or proceed, also metaphorically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undertake a journey or trip.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reformation of our travelled gallants That fill the court with quarrels, talk, and tailors."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have delivered to Lord Angelo, A man of stricture and firm abstinence, My absolute power and place here in Vienna, And he supposes me travelled to Poland; For so I have strewed it in the common ear, And so it is received."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"They summoned him again yesterday in order to consult him as to whether there might be danger if the child travelled."*

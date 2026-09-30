@@ -5,15 +5,6 @@ status: unread
 ---
 # residue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Matter that remains after something has been removed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something left after other parts have been taken away.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The residue of your fortune Go to my cave and tell me.—Good old man, Thou art right welcome as thy master is."*
-> - 📜 **George Eliot (*Middlemarch*):** *"There was still a residue of personal property as well as the land, but the whole was left to one person, and that person was—O possibilities!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"As for the residue of the Pequod’s company, be it said, that at the present day not one in two of the many thousand men before the mast employed in the American whale fishery, are Americans born, though pretty nearly all the officers are."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Matter that remains after something has been removed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something left after other parts have been taken away.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The residue of your fortune Go to my cave and tell me.—Good old man, Thou art right welcome as thy master is."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There was still a residue of personal property as well as the land, but the whole was left to one person, and that person was—O possibilities!"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"As for the residue of the Pequod’s company, be it said, that at the present day not one in two of the many thousand men before the mast employed in the American whale fishery, are Americans born, though pretty nearly all the officers are."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # photometry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measurement of the properties of light (especially luminous intensity).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measurement of the properties of light (especially luminous intensity).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photometry designates measurement of the properties of light (especially luminous intensity)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Measurement of the properties of light (especially luminous intensity).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measurement of the properties of light (especially luminous intensity).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photometry designates measurement of the properties of light (especially luminous intensity)."*

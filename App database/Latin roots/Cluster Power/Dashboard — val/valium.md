@@ -5,13 +5,6 @@ status: unread
 ---
 # valium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tranquilizer (trade name valium) used to relieve anxiety and relax muscles; acts by enhancing the inhibitory actions of the neurotransmitter gaba; can also be used as an anticonvulsant drug in cases of nerve agent poisoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tranquilizer (trade name valium) used to relieve anxiety and relax muscles; acts by enhancing the inhibitory actions of the neurotransmitter gaba; can also be used as an anticonvulsant drug in cases of nerve agent poisoning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valium designates a tranquilizer (trade name valium) used to relieve anxiety and relax muscles; acts by enhancing the inhibitory actions of the neurotransmitter gaba; can also be used as an anticonvulsant drug in cases of nerve agent poisoning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tranquilizer (trade name valium) used to relieve anxiety and relax muscles; acts by enhancing the inhibitory actions of the neurotransmitter gaba; can also be used as an anticonvulsant drug in cases of nerve agent poisoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tranquilizer (trade name valium) used to relieve anxiety and relax muscles; acts by enhancing the inhibitory actions of the neurotransmitter gaba; can also be used as an anticonvulsant drug in cases of nerve agent poisoning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valium designates a tranquilizer (trade name valium) used to relieve anxiety and relax muscles; acts by enhancing the inhibitory actions of the neurotransmitter gaba; can also be used as an anticonvulsant drug in cases of nerve agent poisoning."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # disparaging
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express a negative opinion of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressive of low opinion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"That without any affectation of disparaging such professional distinction as I may have attained (which our friend Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I only wish,” says the trooper, giving himself a disparaging blow in the chest, “that I knew of any one who’d buy such a second-hand piece of old stores.” “Old girl,” murmurs Mr."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Don’t tell me so—lest I should say something disparaging to your judgment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Express a negative opinion of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressive of low opinion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"That without any affectation of disparaging such professional distinction as I may have attained (which our friend Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I only wish,” says the trooper, giving himself a disparaging blow in the chest, “that I knew of any one who’d buy such a second-hand piece of old stores.” “Old girl,” murmurs Mr."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Don’t tell me so—lest I should say something disparaging to your judgment."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # crucifixion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of executing by a method widespread in the ancient world; the victim's hands and feet are bound or nailed to a cross.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The death of jesus by crucifixion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The cry for blood rang through the court, and all were clamouring for crucifixion."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Pilate gave orders for the crucifixion."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Evidence of the character of an age is given by the treatment of criminals; and that age was characterized by crucifixion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of executing by a method widespread in the ancient world; the victim's hands and feet are bound or nailed to a cross.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The death of jesus by crucifixion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The cry for blood rang through the court, and all were clamouring for crucifixion."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Pilate gave orders for the crucifixion."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Evidence of the character of an age is given by the treatment of criminals; and that age was characterized by crucifixion."*

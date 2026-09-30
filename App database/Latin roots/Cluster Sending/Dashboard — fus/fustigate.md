@@ -5,13 +5,6 @@ status: unread
 ---
 # fustigate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strike with a cudgel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strike with a cudgel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fustigate designates strike with a cudgel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strike with a cudgel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strike with a cudgel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fustigate designates strike with a cudgel."*

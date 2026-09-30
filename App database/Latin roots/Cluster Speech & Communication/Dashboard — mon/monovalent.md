@@ -5,13 +5,6 @@ status: unread
 ---
 # monovalent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing only one kind of antibody.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a valence of 1.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monovalent designates containing only one kind of antibody."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing only one kind of antibody.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a valence of 1.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monovalent designates containing only one kind of antibody."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # tenterhook
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a series of hooks used to hold cloth on a tenter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a series of hooks used to hold cloth on a tenter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Still just then, being on tenterhooks, he desired the female’s room more than her company so it came as a genuine relief when the keeper made her a rude sign to take herself off."*
-> - 📜 **Grant Allen (*Michael's Crag*):** *"Oh, take care!" Walter Tyrrel cried, looking up at him, on tenterhooks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a series of hooks used to hold cloth on a tenter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a series of hooks used to hold cloth on a tenter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Still just then, being on tenterhooks, he desired the female’s room more than her company so it came as a genuine relief when the keeper made her a rude sign to take herself off."*
+> - 📜 **Grant Allen (*Michael's Crag*):** *"Oh, take care!" Walter Tyrrel cried, looking up at him, on tenterhooks."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # complication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of complicating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A situation or condition that is complex or confused.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t say that he is not an honourable man, out of all this complication and uncertainty; I am sure he is."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, who had once been a beauty but was now a delicate high-nosed invalid suffering under a complication of disorders."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The complication of her shame, her dread, remorse, and misery, overwhelms her at its height; and even her strength of self-reliance is overturned and whirled away like a leaf before a mighty wind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of complicating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A situation or condition that is complex or confused.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t say that he is not an honourable man, out of all this complication and uncertainty; I am sure he is."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, who had once been a beauty but was now a delicate high-nosed invalid suffering under a complication of disorders."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The complication of her shame, her dread, remorse, and misery, overwhelms her at its height; and even her strength of self-reliance is overturned and whirled away like a leaf before a mighty wind."*

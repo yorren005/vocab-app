@@ -5,15 +5,6 @@ status: unread
 ---
 # contrary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A relation of direct opposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exact opposition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ev’n as soon as thou canst, for thou hast to pull at a smack o’ th’ contrary."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is reported that he has taken their great’st commander, and that with his own hand he slew the duke’s brother. [_A tucket afar off._] We have lost our labour; they are gone a contrary way."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But orderly to end where I begun, Our wills and fates do so contrary run That our devices still are overthrown."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A relation of direct opposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exact opposition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ev’n as soon as thou canst, for thou hast to pull at a smack o’ th’ contrary."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is reported that he has taken their great’st commander, and that with his own hand he slew the duke’s brother. [_A tucket afar off._] We have lost our labour; they are gone a contrary way."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But orderly to end where I begun, Our wills and fates do so contrary run That our devices still are overthrown."*

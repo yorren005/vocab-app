@@ -5,15 +5,6 @@ status: unread
 ---
 # servitor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who performs the duties of an attendant for someone else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who performs the duties of an attendant for someone else.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My noble Queen, let former grudges pass, And henceforth I am thy true servitor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Signior Montano, Your trusty and most valiant servitor, With his free duty recommends you thus, And prays you to believe him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, I have learned that fearful commenting Is leaden servitor to dull delay; Delay leads impotent and snail-paced beggary; Then fiery expedition be my wing, Jove’s Mercury, and herald for a king!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who performs the duties of an attendant for someone else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who performs the duties of an attendant for someone else.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My noble Queen, let former grudges pass, And henceforth I am thy true servitor."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Signior Montano, Your trusty and most valiant servitor, With his free duty recommends you thus, And prays you to believe him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, I have learned that fearful commenting Is leaden servitor to dull delay; Delay leads impotent and snail-paced beggary; Then fiery expedition be my wing, Jove’s Mercury, and herald for a king!"*

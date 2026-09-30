@@ -5,13 +5,6 @@ status: unread
 ---
 # contents
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A list of divisions (chapters or articles) and the pages on which they start.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Everything that is included in a collection and that is held or included in something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contents designates a list of divisions (chapters or articles) and the pages on which they start."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A list of divisions (chapters or articles) and the pages on which they start.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Everything that is included in a collection and that is held or included in something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contents designates a list of divisions (chapters or articles) and the pages on which they start."*

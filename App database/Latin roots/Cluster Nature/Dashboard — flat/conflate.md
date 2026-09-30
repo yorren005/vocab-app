@@ -5,13 +5,6 @@ status: unread
 ---
 # conflate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mix together different elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mix together different elements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The beads are perforated, and in the Highlands of Scotland the hole is explained by saying that when the bead has just been conflated by the serpents jointly, one of the reptiles sticks his tail through the still viscous glass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mix together different elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mix together different elements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The beads are perforated, and in the Highlands of Scotland the hole is explained by saying that when the bead has just been conflated by the serpents jointly, one of the reptiles sticks his tail through the still viscous glass."*

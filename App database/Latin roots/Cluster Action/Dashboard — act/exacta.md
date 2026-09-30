@@ -5,13 +5,6 @@ status: unread
 ---
 # exacta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bet that you can pick the first and second finishers in the right order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bet that you can pick the first and second finishers in the right order.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exacta designates a bet that you can pick the first and second finishers in the right order."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bet that you can pick the first and second finishers in the right order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bet that you can pick the first and second finishers in the right order.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exacta designates a bet that you can pick the first and second finishers in the right order."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # placentation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of the placenta in the uterus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrangement of the ovules in the placenta and of the placentas in the ovary.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Nurse Callan taken aback in the hallway cannot stay them nor smiling surgeon coming downstairs with news of placentation ended, a full pound if a milligramme."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of the placenta in the uterus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrangement of the ovules in the placenta and of the placentas in the ovary.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Nurse Callan taken aback in the hallway cannot stay them nor smiling surgeon coming downstairs with news of placentation ended, a full pound if a milligramme."*

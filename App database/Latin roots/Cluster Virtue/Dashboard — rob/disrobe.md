@@ -5,15 +5,6 @@ status: unread
 ---
 # disrobe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get undressed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get undressed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll disrobe me Of these Italian weeds, and suit myself As does a Britain peasant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, well did he become that lion’s robe That did disrobe the lion of that robe!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Disrobe the images, If you do find them deck’d with ceremonies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Get undressed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get undressed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll disrobe me Of these Italian weeds, and suit myself As does a Britain peasant."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, well did he become that lion’s robe That did disrobe the lion of that robe!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Disrobe the images, If you do find them deck’d with ceremonies."*

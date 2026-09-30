@@ -5,15 +5,6 @@ status: unread
 ---
 # scruples
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of apothecary weight equal to 20 grains.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fears and scruples shake us: In the great hand of God I stand; and thence Against the undivulg’d pretence I fight Of treasonous malice."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Macduff, this noble passion, Child of integrity, hath from my soul Wiped the black scruples, reconcil’d my thoughts To thy good truth and honour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet he has not thanked me For what I have done; no, not so much as kissed me, And that, methinks, is not so well; nor scarcely Could I persuade him to become a free man, He made such scruples of the wrong he did To me and to my father."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of apothecary weight equal to 20 grains.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fears and scruples shake us: In the great hand of God I stand; and thence Against the undivulg’d pretence I fight Of treasonous malice."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Macduff, this noble passion, Child of integrity, hath from my soul Wiped the black scruples, reconcil’d my thoughts To thy good truth and honour."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet he has not thanked me For what I have done; no, not so much as kissed me, And that, methinks, is not so well; nor scarcely Could I persuade him to become a free man, He made such scruples of the wrong he did To me and to my father."*

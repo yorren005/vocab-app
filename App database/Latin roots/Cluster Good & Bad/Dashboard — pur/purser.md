@@ -5,15 +5,6 @@ status: unread
 ---
 # purser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer aboard a ship who keeps accounts and attends to the passengers' welfare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer aboard a ship who keeps accounts and attends to the passengers' welfare.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Captain Swosser used to say of me that I was always better than land a-head and a breeze a-starn to the midshipmen’s mess when the purser’s junk had become as tough as the fore-topsel weather earrings."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I think he was a species of purser.” “What is he now?” said I."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Which Pa, having been in the Purser line of life, lies a-bed in a bow-window where he can see the ships sail up and down the river."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer aboard a ship who keeps accounts and attends to the passengers' welfare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer aboard a ship who keeps accounts and attends to the passengers' welfare.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Captain Swosser used to say of me that I was always better than land a-head and a breeze a-starn to the midshipmen’s mess when the purser’s junk had become as tough as the fore-topsel weather earrings."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I think he was a species of purser.” “What is he now?” said I."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Which Pa, having been in the Purser line of life, lies a-bed in a bow-window where he can see the ships sail up and down the river."*

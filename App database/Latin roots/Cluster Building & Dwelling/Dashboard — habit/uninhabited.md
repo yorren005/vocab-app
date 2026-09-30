@@ -5,15 +5,6 @@ status: unread
 ---
 # uninhabited
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having inhabitants; not lived in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having inhabitants; not lived in.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"His course brought him in sight of the Island of Ascension, at that time uninhabited, and _never visited by any ship_, except for the purpose of collecting turtles, which abound on the coast."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Ferndean then remained uninhabited and unfurnished, with the exception of some two or three rooms fitted up for the accommodation of the squire when he went there in the season to shoot."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But when Pratt showed Will Ladislaw into it the window was open; and a winged visitor, buzzing in and out now and then without minding the furniture, made the room look less formal and uninhabited."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having inhabitants; not lived in.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having inhabitants; not lived in.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"His course brought him in sight of the Island of Ascension, at that time uninhabited, and _never visited by any ship_, except for the purpose of collecting turtles, which abound on the coast."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Ferndean then remained uninhabited and unfurnished, with the exception of some two or three rooms fitted up for the accommodation of the squire when he went there in the season to shoot."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But when Pratt showed Will Ladislaw into it the window was open; and a winged visitor, buzzing in and out now and then without minding the furniture, made the room look less formal and uninhabited."*

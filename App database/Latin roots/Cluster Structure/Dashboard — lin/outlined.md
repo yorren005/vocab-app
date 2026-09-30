@@ -5,15 +5,6 @@ status: unread
 ---
 # outlined
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Describe roughly or briefly or give the main points or summary of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Draw up an outline or sketch for something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He was a gentlemanly man, with full and distinctly outlined Roman features, the prominences of which glowed in the sun with a bronze-like richness of tone."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The theory of paper money here outlined makes the value of paper money a special case of monopoly value."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They are a part of the larger movement here outlined as the business cycle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Describe roughly or briefly or give the main points or summary of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Draw up an outline or sketch for something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He was a gentlemanly man, with full and distinctly outlined Roman features, the prominences of which glowed in the sun with a bronze-like richness of tone."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The theory of paper money here outlined makes the value of paper money a special case of monopoly value."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They are a part of the larger movement here outlined as the business cycle."*

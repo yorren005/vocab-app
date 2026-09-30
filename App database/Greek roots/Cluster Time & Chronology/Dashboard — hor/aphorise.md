@@ -5,13 +5,6 @@ status: unread
 ---
 # aphorise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak or write in aphorisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak or write in aphorisms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphorise designates speak or write in aphorisms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak or write in aphorisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak or write in aphorisms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphorise designates speak or write in aphorisms."*

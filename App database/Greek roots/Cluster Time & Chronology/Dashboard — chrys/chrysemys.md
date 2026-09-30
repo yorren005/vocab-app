@@ -5,13 +5,6 @@ status: unread
 ---
 # chrysemys
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Painted turtles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Painted turtles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysemys designates painted turtles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Painted turtles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Painted turtles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysemys designates painted turtles."*

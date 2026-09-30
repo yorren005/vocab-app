@@ -5,13 +5,6 @@ status: unread
 ---
 # genuflexion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of bending the knees in worship or reverence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of bending the knees in worship or reverence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"There was much that recalled the ritual of the Roman Catholic Church,--processions, genuflexions, chanting, burning of incense, lighting of candles, tinkling of bells,--all centring round a great figure of Sakyamuni."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of bending the knees in worship or reverence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of bending the knees in worship or reverence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"There was much that recalled the ritual of the Roman Catholic Church,--processions, genuflexions, chanting, burning of incense, lighting of candles, tinkling of bells,--all centring round a great figure of Sakyamuni."*

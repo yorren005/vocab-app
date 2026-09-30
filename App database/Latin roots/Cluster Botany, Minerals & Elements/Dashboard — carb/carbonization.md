@@ -5,13 +5,6 @@ status: unread
 ---
 # carbonization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The destructive distillation of coal (as in coke ovens).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The destructive distillation of coal (as in coke ovens).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbonization designates the destructive distillation of coal (as in coke ovens)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The destructive distillation of coal (as in coke ovens).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The destructive distillation of coal (as in coke ovens).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbonization designates the destructive distillation of coal (as in coke ovens)."*

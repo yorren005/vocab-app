@@ -5,18 +5,6 @@ status: unread
 ---
 # sprout
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Send out new growth
-> 2. **Nuance / Usage**: Germinated seed, an incipient young plant
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to sprout the target*) and intransitive clauses (*sprouting against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **David E Norris (*Joseph Locke: a railway injustice...*):** *"In those early years of the 1830s and 1840s, railways were sprouting up all over the country in a haphazard way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -52,3 +40,15 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Send out new growth
+> 2. **Nuance / Usage**: Germinated seed, an incipient young plant
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to sprout the target*) and intransitive clauses (*sprouting against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **David E Norris (*Joseph Locke: a railway injustice...*):** *"In those early years of the 1830s and 1840s, railways were sprouting up all over the country in a haphazard way."*

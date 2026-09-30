@@ -5,13 +5,6 @@ status: unread
 ---
 # mesopelagic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to oceanic depths from about 600 feet to 3000 feet (200 to 1000 meters).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to oceanic depths from about 600 feet to 3000 feet (200 to 1000 meters).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesopelagic designates of or relating to oceanic depths from about 600 feet to 3000 feet (200 to 1000 meters)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to oceanic depths from about 600 feet to 3000 feet (200 to 1000 meters).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to oceanic depths from about 600 feet to 3000 feet (200 to 1000 meters).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesopelagic designates of or relating to oceanic depths from about 600 feet to 3000 feet (200 to 1000 meters)."*

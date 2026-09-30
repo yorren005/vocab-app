@@ -5,13 +5,6 @@ status: unread
 ---
 # interoperability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer science) the ability to exchange and use information (usually in a large heterogeneous network made up of several local area networks).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) the ability to exchange and use information (usually in a large heterogeneous network made up of several local area networks).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interoperability designates (computer science) the ability to exchange and use information (usually in a large heterogeneous network made up of several local area networks)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer science) the ability to exchange and use information (usually in a large heterogeneous network made up of several local area networks).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) the ability to exchange and use information (usually in a large heterogeneous network made up of several local area networks).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interoperability designates (computer science) the ability to exchange and use information (usually in a large heterogeneous network made up of several local area networks)."*

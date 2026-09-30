@@ -5,13 +5,6 @@ status: unread
 ---
 # abstractive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of an abstracting nature or having the power of abstracting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of an abstracting nature or having the power of abstracting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abstractive designates of an abstracting nature or having the power of abstracting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of an abstracting nature or having the power of abstracting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of an abstracting nature or having the power of abstracting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abstractive designates of an abstracting nature or having the power of abstracting."*

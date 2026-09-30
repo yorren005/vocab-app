@@ -5,14 +5,6 @@ status: unread
 ---
 # fiscally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In financial matters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial matters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Of these states Wisconsin has the most recent law, and one the widest in its application and the most important fiscally."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The "additional" tax is already important fiscally, yielding over one-half of the total paid by individuals and one-fourth of the total from corporations and individuals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In financial matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial matters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Of these states Wisconsin has the most recent law, and one the widest in its application and the most important fiscally."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The "additional" tax is already important fiscally, yielding over one-half of the total paid by individuals and one-fourth of the total from corporations and individuals."*

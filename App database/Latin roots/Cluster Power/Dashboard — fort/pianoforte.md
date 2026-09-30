@@ -5,15 +5,6 @@ status: unread
 ---
 # pianoforte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A keyboard instrument that is played by depressing keys that cause hammers to strike tuned strings and produce sounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A keyboard instrument that is played by depressing keys that cause hammers to strike tuned strings and produce sounds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tangle’s learned friends, each armed with a little summary of eighteen hundred sheets, bob up like eighteen hammers in a pianoforte, make eighteen bows, and drop into their eighteen places of obscurity."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her performance on the pianoforte is exquisite.” “It is amazing to me,” said Bingley, “how young ladies can have patience to be so very accomplished as they all are.” “All young ladies accomplished!"*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Miss Bingley moved with alacrity to the pianoforte, and after a polite request that Elizabeth would lead the way, which the other as politely and more earnestly negatived, she seated herself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A keyboard instrument that is played by depressing keys that cause hammers to strike tuned strings and produce sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A keyboard instrument that is played by depressing keys that cause hammers to strike tuned strings and produce sounds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tangle’s learned friends, each armed with a little summary of eighteen hundred sheets, bob up like eighteen hammers in a pianoforte, make eighteen bows, and drop into their eighteen places of obscurity."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her performance on the pianoforte is exquisite.” “It is amazing to me,” said Bingley, “how young ladies can have patience to be so very accomplished as they all are.” “All young ladies accomplished!"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Miss Bingley moved with alacrity to the pianoforte, and after a polite request that Elizabeth would lead the way, which the other as politely and more earnestly negatived, she seated herself."*

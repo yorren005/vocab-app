@@ -5,13 +5,6 @@ status: unread
 ---
 # unconfused
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not perplexed by conflicting situations or statements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not perplexed by conflicting situations or statements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unconfused designates not perplexed by conflicting situations or statements."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not perplexed by conflicting situations or statements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not perplexed by conflicting situations or statements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unconfused designates not perplexed by conflicting situations or statements."*

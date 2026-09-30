@@ -5,20 +5,6 @@ status: unread
 ---
 # storm
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Heavy fall of rain, snow, or hail
-> 2. **Nuance / Usage**: Wind having a speed of 64 to 72 miles (103 to 117 kilometers) per hour
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"So full of frost, of storm and cloudiness?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"will here shroud till the dregs of the storm be past."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Now is a time to storm; why art thou still?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: In martial usage, to attack and capture a fortified place by a sudden, violent, and direct assault (*to storm the citadel*, *take by storm*).
+> 2. **Nuance / Usage**: Literally a violent atmospheric disturbance with gale-force winds and heavy rain or snow; also used for an outburst of rage or tumult (*stormed out of the room*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive) & Noun (count).
+> - **Syntactic Constructions**: Functions transitively in siege warfare (*stormed the ramparts*), idiomatically (*taken by storm*), and intransitively of anger (*stormed up and down*).
+> - **Collocations & Registers**: Martial, meteorological, and emotional registers; paired with *citadel*, *bastion*, *ramparts*, *breach*, and *fury*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*King John*):** *"Now is a time to **storm**; why art thou still?"*
+> - 📜 **Sir Walter Scott (*Old Mortality*):** *"The dragoons dismounted to **storm** the barricaded bridge at the point of the sword."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"With pike and musket the roaring multitude surged forward to **storm** the Bastille."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # aspirant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ambitious and aspiring young person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Desiring or striving for recognition or advancement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"To the Press, for the fair field its honest suffrage has opened to an obscure aspirant."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Besides, he could not bind all that he had in his nature—the rover, the aspirant, the poet, the priest—in the limits of a single passion."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill reviewed them in "The Westminster Review" for July, 1835, and, with his usual earnestness and generosity, applied all his powers to making a just estimate of the new aspirant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ambitious and aspiring young person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Desiring or striving for recognition or advancement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"To the Press, for the fair field its honest suffrage has opened to an obscure aspirant."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Besides, he could not bind all that he had in his nature—the rover, the aspirant, the poet, the priest—in the limits of a single passion."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill reviewed them in "The Westminster Review" for July, 1835, and, with his usual earnestness and generosity, applied all his powers to making a just estimate of the new aspirant."*

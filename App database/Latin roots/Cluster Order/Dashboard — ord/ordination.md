@@ -5,15 +5,6 @@ status: unread
 ---
 # ordination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The status of being ordained to a sacred office.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Logical or comprehensible arrangement of separate elements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The University as a step to anything but ordination seemed, to this man of fixed ideas, a preface without a volume."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"It was with this background of change and shadow that the ordination of John Cairns took place at Berwick on August 6, 1845."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Ordination For sense they little owe to frugal Heav’n— To please the mob, they hide the little giv’n."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The status of being ordained to a sacred office.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Logical or comprehensible arrangement of separate elements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The University as a step to anything but ordination seemed, to this man of fixed ideas, a preface without a volume."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"It was with this background of change and shadow that the ordination of John Cairns took place at Berwick on August 6, 1845."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Ordination For sense they little owe to frugal Heav’n— To please the mob, they hide the little giv’n."*

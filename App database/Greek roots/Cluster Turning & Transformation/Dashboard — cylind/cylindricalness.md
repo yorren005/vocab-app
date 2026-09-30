@@ -5,13 +5,6 @@ status: unread
 ---
 # cylindricalness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The roundness of a 3-dimensional cylinder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The roundness of a 3-dimensional cylinder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cylindricalness designates the roundness of a 3-dimensional cylinder."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The roundness of a 3-dimensional cylinder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The roundness of a 3-dimensional cylinder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cylindricalness designates the roundness of a 3-dimensional cylinder."*

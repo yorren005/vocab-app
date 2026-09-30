@@ -5,13 +5,6 @@ status: unread
 ---
 # verrucose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of skin) covered with warts or projections that resemble warts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of skin) covered with warts or projections that resemble warts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"ALEXANDER’S BRAND; spots obliterated; sori hypogenous, large, solitary, scattered, brown; spores ovoid, obtuse, verrucose, slightly constricted, minutely pedicellate.—On _Smyrnium olusatrum_. (Plate III. figs. 55, 56.) =Puccinia Anemones=, Pers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of skin) covered with warts or projections that resemble warts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of skin) covered with warts or projections that resemble warts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"ALEXANDER’S BRAND; spots obliterated; sori hypogenous, large, solitary, scattered, brown; spores ovoid, obtuse, verrucose, slightly constricted, minutely pedicellate.—On _Smyrnium olusatrum_. (Plate III. figs. 55, 56.) =Puccinia Anemones=, Pers."*

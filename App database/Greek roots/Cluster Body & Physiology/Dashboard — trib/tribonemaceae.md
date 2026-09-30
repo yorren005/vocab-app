@@ -5,13 +5,6 @@ status: unread
 ---
 # tribonemaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Simple filamentous freshwater yellow-green algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Simple filamentous freshwater yellow-green algae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribonemaceae designates simple filamentous freshwater yellow-green algae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Simple filamentous freshwater yellow-green algae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Simple filamentous freshwater yellow-green algae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribonemaceae designates simple filamentous freshwater yellow-green algae."*

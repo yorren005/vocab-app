@@ -5,14 +5,6 @@ status: unread
 ---
 # amnesia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of memory due usually to brain injury, shock, fatigue, repression, or illness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gap in one's memory.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Firstly, in order to exercise mnemotechnic: secondly, because after an interval of amnesia, when, seated at the central table, about to consult the work in question, he remembered by mnemotechnic the name of the military engagement, Plevna."*
-> - 📜 **James Joyce (*Ulysses*):** *"What idiosyncracies of the narrator were concomitant products of amnesia?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of memory due usually to brain injury, shock, fatigue, repression, or illness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gap in one's memory.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Firstly, in order to exercise mnemotechnic: secondly, because after an interval of amnesia, when, seated at the central table, about to consult the work in question, he remembered by mnemotechnic the name of the military engagement, Plevna."*
+> - 📜 **James Joyce (*Ulysses*):** *"What idiosyncracies of the narrator were concomitant products of amnesia?"*

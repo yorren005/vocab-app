@@ -5,13 +5,6 @@ status: unread
 ---
 # memoriser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who learns by rote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who learns by rote.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, memoriser designates a person who learns by rote."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who learns by rote.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who learns by rote.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, memoriser designates a person who learns by rote."*

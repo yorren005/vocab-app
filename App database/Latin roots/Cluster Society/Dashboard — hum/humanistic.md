@@ -5,13 +5,6 @@ status: unread
 ---
 # humanistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to a philosophy asserting human dignity and man's capacity for fulfillment through reason and scientific method and often rejecting religion; - wendell thomas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to renaissance humanism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, humanistic designates of or pertaining to a philosophy asserting human dignity and man's capacity for fulfillment through reason and scientific method and often rejecting religion; - wendell thomas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to a philosophy asserting human dignity and man's capacity for fulfillment through reason and scientific method and often rejecting religion; - wendell thomas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to renaissance humanism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, humanistic designates of or pertaining to a philosophy asserting human dignity and man's capacity for fulfillment through reason and scientific method and often rejecting religion; - wendell thomas."*

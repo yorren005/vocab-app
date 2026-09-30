@@ -5,15 +5,6 @@ status: unread
 ---
 # disputant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who disputes; who is good at or enjoys controversy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who disputes; who is good at or enjoys controversy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But I will say, as you shall see, that he matched their subtlety with equal subtlety; and from what I saw of him I have little doubt but what he would have confounded many a disputant in the synagogues."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"She did! she did!” sang Linton, sinking into the recess of his chair, and leaning back his head to enjoy the agitation of the other disputant, who stood behind."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak looked from one to the other of the disputants, and fell into a reverie."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who disputes; who is good at or enjoys controversy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who disputes; who is good at or enjoys controversy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But I will say, as you shall see, that he matched their subtlety with equal subtlety; and from what I saw of him I have little doubt but what he would have confounded many a disputant in the synagogues."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"She did! she did!” sang Linton, sinking into the recess of his chair, and leaning back his head to enjoy the agitation of the other disputant, who stood behind."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak looked from one to the other of the disputants, and fell into a reverie."*

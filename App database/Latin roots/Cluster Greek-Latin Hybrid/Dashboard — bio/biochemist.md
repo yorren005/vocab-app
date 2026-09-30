@@ -5,13 +5,6 @@ status: unread
 ---
 # biochemist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone with special training in biochemistry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone with special training in biochemistry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biochemist designates someone with special training in biochemistry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone with special training in biochemistry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone with special training in biochemistry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biochemist designates someone with special training in biochemistry."*

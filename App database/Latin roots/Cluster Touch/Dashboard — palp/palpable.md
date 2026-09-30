@@ -5,15 +5,6 @@ status: unread
 ---
 # palpable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being perceived; especially capable of being handled or touched or felt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Can be felt by palpation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These lies are like the father that begets them, gross as a mountain, open, palpable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see thee yet, in form as palpable As this which now I draw."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This palpable-gross play hath well beguil’d The heavy gait of night."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being perceived; especially capable of being handled or touched or felt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Can be felt by palpation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These lies are like the father that begets them, gross as a mountain, open, palpable."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see thee yet, in form as palpable As this which now I draw."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This palpable-gross play hath well beguil’d The heavy gait of night."*

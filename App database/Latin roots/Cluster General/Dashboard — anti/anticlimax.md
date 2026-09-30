@@ -5,14 +5,6 @@ status: unread
 ---
 # anticlimax
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disappointing decline after a previous rise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A change from a serious subject to a disappointing one.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood’s deep attachment was a matter of great interest among all around him; but, after having been pointed out for so many years as the perfect exemplar of thriving bachelorship, his lapse was an anticlimax somewhat resembling that of St."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood’s deep attachment was a matter of great interest among all around him; but, after having been pointed out for so many years as the perfect exemplar of thriving bachelorship, his lapse was an anticlimax somewhat resembling that of St."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disappointing decline after a previous rise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A change from a serious subject to a disappointing one.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood’s deep attachment was a matter of great interest among all around him; but, after having been pointed out for so many years as the perfect exemplar of thriving bachelorship, his lapse was an anticlimax somewhat resembling that of St."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood’s deep attachment was a matter of great interest among all around him; but, after having been pointed out for so many years as the perfect exemplar of thriving bachelorship, his lapse was an anticlimax somewhat resembling that of St."*

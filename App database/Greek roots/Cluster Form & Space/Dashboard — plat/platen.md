@@ -5,13 +5,6 @@ status: unread
 ---
 # platen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work table of a machine tool.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The flat plate of a printing press that presses the paper against the type.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platen designates work table of a machine tool."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Work table of a machine tool.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The flat plate of a printing press that presses the paper against the type.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platen designates work table of a machine tool."*

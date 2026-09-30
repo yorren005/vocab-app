@@ -5,15 +5,6 @@ status: unread
 ---
 # scion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A descendent or heir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A descendent or heir.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But we have reason to cool our raging motions, our carnal stings, our unbitted lusts; whereof I take this, that you call love, to be a sect, or scion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You see, sweet maid, we marry A gentler scion to the wildest stock, And make conceive a bark of baser kind By bud of nobler race."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Forman._ A scion of an eminent family--At Benton Barracks Hospital--At Memphis-- Return to St."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A descendent or heir.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A descendent or heir.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But we have reason to cool our raging motions, our carnal stings, our unbitted lusts; whereof I take this, that you call love, to be a sect, or scion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You see, sweet maid, we marry A gentler scion to the wildest stock, And make conceive a bark of baser kind By bud of nobler race."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Forman._ A scion of an eminent family--At Benton Barracks Hospital--At Memphis-- Return to St."*

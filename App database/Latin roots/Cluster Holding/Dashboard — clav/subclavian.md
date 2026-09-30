@@ -5,13 +5,6 @@ status: unread
 ---
 # subclavian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated beneath the clavicle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated beneath the clavicle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subclavian designates situated beneath the clavicle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated beneath the clavicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated beneath the clavicle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subclavian designates situated beneath the clavicle."*

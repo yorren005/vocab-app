@@ -5,14 +5,6 @@ status: unread
 ---
 # necessitous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Poor enough to need help from others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Poor enough to need help from others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"How is it possible that a government half supplied and always necessitous, can fulfill the purposes of its institution, can provide for the security, advance the prosperity, or support the reputation of the commonwealth?"*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Diachylon in the one case and ammonia in the other were all that my patients required; and I had a faint suspicion that the present summons was perhaps occasioned by no case more necessitous than those I have quoted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Poor enough to need help from others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Poor enough to need help from others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"How is it possible that a government half supplied and always necessitous, can fulfill the purposes of its institution, can provide for the security, advance the prosperity, or support the reputation of the commonwealth?"*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Diachylon in the one case and ammonia in the other were all that my patients required; and I had a faint suspicion that the present summons was perhaps occasioned by no case more necessitous than those I have quoted."*

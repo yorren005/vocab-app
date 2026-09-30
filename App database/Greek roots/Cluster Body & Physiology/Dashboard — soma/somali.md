@@ -5,13 +5,6 @@ status: unread
 ---
 # somali
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a tall dark (mostly muslim) people inhabiting somalia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cushitic language spoken by the somali.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somali designates a member of a tall dark (mostly muslim) people inhabiting somalia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a tall dark (mostly muslim) people inhabiting somalia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cushitic language spoken by the somali.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somali designates a member of a tall dark (mostly muslim) people inhabiting somalia."*

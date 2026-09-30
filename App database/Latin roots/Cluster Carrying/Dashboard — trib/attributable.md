@@ -5,15 +5,6 @@ status: unread
 ---
 # attributable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being attributed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being attributed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"On the other hand, the Right Honourable William Buffy, M.P., contends across the table with some one else that the shipwreck of the country—about which there is no doubt; it is only the manner of it that is in question—is attributable to Cuffy."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"This is due to the fact that his turning to Greece was in its final analysis attributable rather to selfish than to altruistic motives."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"But the fact that Heine never created a monumental literary work of enduring worth is not attributable solely to a fickleness of artistic purpose or lack of will-energy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being attributed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being attributed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"On the other hand, the Right Honourable William Buffy, M.P., contends across the table with some one else that the shipwreck of the country—about which there is no doubt; it is only the manner of it that is in question—is attributable to Cuffy."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"This is due to the fact that his turning to Greece was in its final analysis attributable rather to selfish than to altruistic motives."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"But the fact that Heine never created a monumental literary work of enduring worth is not attributable solely to a fickleness of artistic purpose or lack of will-energy."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # abrasion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abraded area where the skin is torn or worn off.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Erosion by friction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"His remaining works are much injured by scaling or the abrasion of the colors. 28."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"I ain't useter bein' addressed that way.” Nan laughed; but she quickly washed the scraped patch on the old man's arm with clean water and then bound her own handkerchief over the abrasion under the rather doubtful rag that Toby himself supplied."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"If the war continues long, as it must, if the object be not sooner attained, the institution in your States will be extinguished by mere friction and abrasion—by the mere incidents of the war."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abraded area where the skin is torn or worn off.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Erosion by friction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"His remaining works are much injured by scaling or the abrasion of the colors. 28."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"I ain't useter bein' addressed that way.” Nan laughed; but she quickly washed the scraped patch on the old man's arm with clean water and then bound her own handkerchief over the abrasion under the rather doubtful rag that Toby himself supplied."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"If the war continues long, as it must, if the object be not sooner attained, the institution in your States will be extinguished by mere friction and abrasion—by the mere incidents of the war."*

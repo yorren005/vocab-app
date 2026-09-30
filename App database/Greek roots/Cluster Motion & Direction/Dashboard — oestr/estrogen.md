@@ -5,13 +5,6 @@ status: unread
 ---
 # estrogen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various natural steroids (such as estradiol) that are formed from androgen precursors, that are secreted chiefly by the ovaries, placenta, adipose tissue, and testes, and that stimulate the development of female secondary sex characteristics and promote the growth and maintenance of the female reproductive system; also : any of various synthetic or semisynthetic steroids (such as ethinyl estradiol) that mimic the physiological effect of natural estrogens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hormone replacement therapy involving the administration of estrogen without progestin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, estrogen designates any of various natural steroids (such as estradiol) that are formed from androgen precursors, that are secreted chiefly by the ovaries, placenta, adipose tissue, and testes, and that stimulate the development of female secondary sex characteristics and promote the growth and maintenance of the female reproductive system; also : any of various synthetic or semisynthetic steroids (such as ethinyl estradiol) that mimic the physiological effect of natural estrogens."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various natural steroids (such as estradiol) that are formed from androgen precursors, that are secreted chiefly by the ovaries, placenta, adipose tissue, and testes, and that stimulate the development of female secondary sex characteristics and promote the growth and maintenance of the female reproductive system; also : any of various synthetic or semisynthetic steroids (such as ethinyl estradiol) that mimic the physiological effect of natural estrogens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hormone replacement therapy involving the administration of estrogen without progestin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, estrogen designates any of various natural steroids (such as estradiol) that are formed from androgen precursors, that are secreted chiefly by the ovaries, placenta, adipose tissue, and testes, and that stimulate the development of female secondary sex characteristics and promote the growth and maintenance of the female reproductive system; also : any of various synthetic or semisynthetic steroids (such as ethinyl estradiol) that mimic the physiological effect of natural estrogens."*

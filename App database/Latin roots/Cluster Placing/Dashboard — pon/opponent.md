@@ -5,15 +5,6 @@ status: unread
 ---
 # opponent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A contestant that you are matched against.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who offers opposition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"His calling is the acquisition of secrets and the holding possession of such power as they give him, with no sharer or opponent in it.” “Could you trust in him?” “I shall never try."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But his opponent began to think better of the matter."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Loest turned away; hard as the random taunt and remark of his opponent was, yet it recalled him to a sense of his duty, and his forgetfulness of the fact that he had not hitherto asked of God for special help in this circumstance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A contestant that you are matched against.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who offers opposition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"His calling is the acquisition of secrets and the holding possession of such power as they give him, with no sharer or opponent in it.” “Could you trust in him?” “I shall never try."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But his opponent began to think better of the matter."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Loest turned away; hard as the random taunt and remark of his opponent was, yet it recalled him to a sense of his duty, and his forgetfulness of the fact that he had not hitherto asked of God for special help in this circumstance."*

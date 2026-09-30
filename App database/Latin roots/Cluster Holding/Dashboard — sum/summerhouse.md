@@ -5,14 +5,6 @@ status: unread
 ---
 # summerhouse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small roofed building affording shade and rest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small roofed building affording shade and rest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He had kissed her two or three times, as occasion served and she seemed to desire it, but he had never lain awake afterwards, nor had his heart beaten any faster, no, not even in the summerhouse at Bingley when she was fairly in his arms."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She went into the summerhouse and said, “I am come, Edward; I am ready.” He took no notice, and she thought that he must be fast asleep."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small roofed building affording shade and rest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small roofed building affording shade and rest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"He had kissed her two or three times, as occasion served and she seemed to desire it, but he had never lain awake afterwards, nor had his heart beaten any faster, no, not even in the summerhouse at Bingley when she was fairly in his arms."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She went into the summerhouse and said, “I am come, Edward; I am ready.” He took no notice, and she thought that he must be fast asleep."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # rigid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of or resistant to bending.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of compromise or flexibility.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Rigid with consternation, she stopped under the doorway."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In like manner she gets together, in the iron bread-basket, as many outside fragments and worn-down heels of loaves as the rigid economy of the house has left in existence."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, and in a rigid manner acknowledges their presence, still fixing Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of or resistant to bending.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of compromise or flexibility.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Rigid with consternation, she stopped under the doorway."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In like manner she gets together, in the iron bread-basket, as many outside fragments and worn-down heels of loaves as the rigid economy of the house has left in existence."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, and in a rigid manner acknowledges their presence, still fixing Mr."*

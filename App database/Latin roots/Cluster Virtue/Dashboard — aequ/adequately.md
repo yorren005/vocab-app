@@ -5,15 +5,6 @@ status: unread
 ---
 # adequately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an adequate manner or to an adequate degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an adequate manner or to an adequate degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It is for sale, but its value has not been adequately appreciated, and I would not part with it.' 'What is its price?' 'I have done affixing any nominal sum."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The rivers, lakes, and ocean waters near our coasts are other great sources of food, but no statistics are available to show adequately their yield."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The worker's need and the social need are thus not adequately met."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an adequate manner or to an adequate degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an adequate manner or to an adequate degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"It is for sale, but its value has not been adequately appreciated, and I would not part with it.' 'What is its price?' 'I have done affixing any nominal sum."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The rivers, lakes, and ocean waters near our coasts are other great sources of food, but no statistics are available to show adequately their yield."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The worker's need and the social need are thus not adequately met."*

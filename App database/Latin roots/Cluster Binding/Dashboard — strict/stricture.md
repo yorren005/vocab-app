@@ -5,15 +5,6 @@ status: unread
 ---
 # stricture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal narrowing of a bodily canal or passageway.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severe criticism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have delivered to Lord Angelo, A man of stricture and firm abstinence, My absolute power and place here in Vienna, And he supposes me travelled to Poland; For so I have strewed it in the common ear, And so it is received."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Perhaps in no minor point does woman astonish her helpmate more than in the strange power she possesses of believing cajoleries that she knows to be false—except, indeed, in that of being utterly sceptical on strictures that she knows to be true."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"What would I give to hear your strictures on them!” “Your conjecture is totally wrong, I assure you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal narrowing of a bodily canal or passageway.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severe criticism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have delivered to Lord Angelo, A man of stricture and firm abstinence, My absolute power and place here in Vienna, And he supposes me travelled to Poland; For so I have strewed it in the common ear, And so it is received."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Perhaps in no minor point does woman astonish her helpmate more than in the strange power she possesses of believing cajoleries that she knows to be false—except, indeed, in that of being utterly sceptical on strictures that she knows to be true."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"What would I give to hear your strictures on them!” “Your conjecture is totally wrong, I assure you."*

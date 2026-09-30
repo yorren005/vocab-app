@@ -5,13 +5,6 @@ status: unread
 ---
 # demille
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states film maker remembered for his extravagant and spectacular epic productions (1881-1959).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states film maker remembered for his extravagant and spectacular epic productions (1881-1959).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demille designates united states film maker remembered for his extravagant and spectacular epic productions (1881-1959)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states film maker remembered for his extravagant and spectacular epic productions (1881-1959).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states film maker remembered for his extravagant and spectacular epic productions (1881-1959).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demille designates united states film maker remembered for his extravagant and spectacular epic productions (1881-1959)."*

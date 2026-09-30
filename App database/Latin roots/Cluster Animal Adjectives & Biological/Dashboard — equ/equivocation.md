@@ -5,15 +5,6 @@ status: unread
 ---
 # equivocation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that is not literally false but that cleverly avoids an unpleasant truth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intentionally vague or ambiguous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We must speak by the card, or equivocation will undo us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou speak’st false, Upon the next tree shalt thou hang alive, Till famine cling thee: if thy speech be sooth, I care not if thou dost for me as much.— I pull in resolution; and begin To doubt th’ equivocation of the fiend, That lies like truth."*
-> - 📜 **James Joyce (*Ulysses*):** *"Warwickshire jesuits are tried and we have a porter’s theory of equivocation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that is not literally false but that cleverly avoids an unpleasant truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intentionally vague or ambiguous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We must speak by the card, or equivocation will undo us."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou speak’st false, Upon the next tree shalt thou hang alive, Till famine cling thee: if thy speech be sooth, I care not if thou dost for me as much.— I pull in resolution; and begin To doubt th’ equivocation of the fiend, That lies like truth."*
+> - 📜 **James Joyce (*Ulysses*):** *"Warwickshire jesuits are tried and we have a porter’s theory of equivocation."*

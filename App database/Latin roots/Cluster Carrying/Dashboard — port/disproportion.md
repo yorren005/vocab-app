@@ -5,15 +5,6 @@ status: unread
 ---
 # disproportion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of proportion; imbalance among the parts of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of proportion; imbalance among the parts of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, they are disproportion’d; My letters say a hundred and seven galleys."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One may smell in such a will most rank, Foul disproportion, thoughts unnatural."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Yet how vast the disproportion between the crime and the punishment!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of proportion; imbalance among the parts of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of proportion; imbalance among the parts of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, they are disproportion’d; My letters say a hundred and seven galleys."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One may smell in such a will most rank, Foul disproportion, thoughts unnatural."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Yet how vast the disproportion between the crime and the punishment!"*

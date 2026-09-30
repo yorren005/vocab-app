@@ -5,15 +5,6 @@ status: unread
 ---
 # redeeming
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Save from sins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restore the honor or worth of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll so offend, to make offence a skill, Redeeming time, when men think least I will. [_Exit._] SCENE III."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Better it were a brother died at once Than that a sister, by redeeming him, Should die for ever."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is done by issuing it only in exchange for other money of the larger denominations, and by redeeming it in other money on demand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Save from sins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restore the honor or worth of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll so offend, to make offence a skill, Redeeming time, when men think least I will. [_Exit._] SCENE III."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Better it were a brother died at once Than that a sister, by redeeming him, Should die for ever."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is done by issuing it only in exchange for other money of the larger denominations, and by redeeming it in other money on demand."*

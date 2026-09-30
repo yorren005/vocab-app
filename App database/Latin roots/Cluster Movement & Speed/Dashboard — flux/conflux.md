@@ -5,13 +5,6 @@ status: unread
 ---
 # conflux
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flowing together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flowing together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"There was a conflux of emotions and thoughts in him that would not let him either give thorough way to his anger or persevere with simple rigidity of resolve."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flowing together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flowing together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"There was a conflux of emotions and thoughts in him that would not let him either give thorough way to his anger or persevere with simple rigidity of resolve."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # gymnocalycium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of low-growing globular south american cacti with spiny ribs covered with many tubercles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of low-growing globular south american cacti with spiny ribs covered with many tubercles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnocalycium designates large genus of low-growing globular south american cacti with spiny ribs covered with many tubercles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of low-growing globular south american cacti with spiny ribs covered with many tubercles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of low-growing globular south american cacti with spiny ribs covered with many tubercles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnocalycium designates large genus of low-growing globular south american cacti with spiny ribs covered with many tubercles."*

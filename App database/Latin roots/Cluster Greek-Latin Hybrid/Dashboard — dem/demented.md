@@ -5,15 +5,6 @@ status: unread
 ---
 # demented
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected with madness or insanity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affected with madness or insanity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I dug eagerly, and now and then caught myself actually looking, with something that very much resembled expectation, for the fancied treasure, the vision of which had demented my unfortunate companion."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I declare to my soul!" Mama hurried back up the hall, muttering something that sounded like "Demented fool, climbing in windows—worse—his poor wife home in labor." Mierd wasn't listening."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Colon seemed equally demented, following close upon Paleozoic's heels with a bug-net."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected with madness or insanity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affected with madness or insanity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I dug eagerly, and now and then caught myself actually looking, with something that very much resembled expectation, for the fancied treasure, the vision of which had demented my unfortunate companion."*
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I declare to my soul!" Mama hurried back up the hall, muttering something that sounded like "Demented fool, climbing in windows—worse—his poor wife home in labor." Mierd wasn't listening."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Colon seemed equally demented, following close upon Paleozoic's heels with a bug-net."*

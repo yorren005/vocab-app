@@ -5,15 +5,6 @@ status: unread
 ---
 # bible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sacred writings of the christian religions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A book regarded as authoritative in its field.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I had come down at nine o’clock as I always did to read the Bible to her, and was reading from St."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"On the table lay an old quarto Bible, bound in leather."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Liddy looking at it said,— “Did you ever find out, miss, who you are going to marry by means of the Bible and key?” “Don’t be so foolish, Liddy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sacred writings of the christian religions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A book regarded as authoritative in its field.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I had come down at nine o’clock as I always did to read the Bible to her, and was reading from St."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"On the table lay an old quarto Bible, bound in leather."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Liddy looking at it said,— “Did you ever find out, miss, who you are going to marry by means of the Bible and key?” “Don’t be so foolish, Liddy."*

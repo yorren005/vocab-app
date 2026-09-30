@@ -5,14 +5,6 @@ status: unread
 ---
 # dignifying
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confer dignity or honor upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise the status of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In the long run, they brought Philosophy to its knees, abasing it to be the apologist of everything they taught and did, and dignifying themselves by giving a philosophic colouring to their mysticism."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"The dignified and dignifying consciousness of an honest man, and the well-grounded trust in approving Heaven, are two most substantial foundations of happiness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Confer dignity or honor upon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise the status of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In the long run, they brought Philosophy to its knees, abasing it to be the apologist of everything they taught and did, and dignifying themselves by giving a philosophic colouring to their mysticism."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"The dignified and dignifying consciousness of an honest man, and the well-grounded trust in approving Heaven, are two most substantial foundations of happiness."*

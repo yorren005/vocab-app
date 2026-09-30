@@ -5,13 +5,6 @@ status: unread
 ---
 # convergency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The approach of an infinite series to a finite limit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of converging (coming closer).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, convergency designates the approach of an infinite series to a finite limit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The approach of an infinite series to a finite limit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of converging (coming closer).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, convergency designates the approach of an infinite series to a finite limit."*

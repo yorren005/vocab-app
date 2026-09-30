@@ -5,13 +5,6 @@ status: unread
 ---
 # protanopia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Color blindness or color vision deficiency (CVD) is the decreased ability to see color, differences in color, or distinguish shades of color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The severity of color blindness ranges from mostly unnoticeable to full absence of color perception..
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protanopia designates color blindness or color vision deficiency (cvd) is the decreased ability to see color, differences in color, or distinguish shades of color."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Color blindness or color vision deficiency (CVD) is the decreased ability to see color, differences in color, or distinguish shades of color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The severity of color blindness ranges from mostly unnoticeable to full absence of color perception..
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protanopia designates color blindness or color vision deficiency (cvd) is the decreased ability to see color, differences in color, or distinguish shades of color."*

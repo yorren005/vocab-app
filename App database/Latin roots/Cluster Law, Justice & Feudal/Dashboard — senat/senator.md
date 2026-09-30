@@ -5,15 +5,6 @@ status: unread
 ---
 # senator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a senate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a senate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST SENATOR. [_To the Citizens_.] Hence to your homes, begone."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Consider of it._ FIRST SENATOR."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SECOND SENATOR And mine two hundred: But though they jump not on a just account, (As in these cases, where the aim reports, ’Tis oft with difference,) yet do they all confirm A Turkish fleet, and bearing up to Cyprus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a senate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a senate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST SENATOR. [_To the Citizens_.] Hence to your homes, begone."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Consider of it._ FIRST SENATOR."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SECOND SENATOR And mine two hundred: But though they jump not on a just account, (As in these cases, where the aim reports, ’Tis oft with difference,) yet do they all confirm A Turkish fleet, and bearing up to Cyprus."*

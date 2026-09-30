@@ -5,20 +5,6 @@ status: unread
 ---
 # hawk
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (politics) an advocate of aggressive political positions and actions
-> 2. **Nuance / Usage**: Diurnal predatory bird of the family accipitridae, smaller than an eagle
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Was by a mousing owl hawk’d at and kill’d."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"together; I have a fine hawk for the bush."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"[Footnote 3: The Gos-hawk, or Falcon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: (politics) an advocate of aggressive political positions and actions
+> 2. **Nuance / Usage**: Diurnal predatory bird of the family accipitridae, smaller than an eagle
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Was by a mousing owl hawk’d at and kill’d."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"together; I have a fine hawk for the bush."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"[Footnote 3: The Gos-hawk, or Falcon."*

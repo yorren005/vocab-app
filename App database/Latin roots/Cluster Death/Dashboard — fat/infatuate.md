@@ -5,15 +5,6 @@ status: unread
 ---
 # infatuate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arouse unreasoning love or passion in and cause to behave in an irrational way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arouse unreasoning love or passion in and cause to behave in an irrational way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To a young man with the least fire in him that little upward lift in the middle of her red top lip was distracting, infatuating, maddening."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"No, Jane,” he returned: “what necessity is there to dwell on the Past, when the Present is so much surer—the Future so much brighter?” I shuddered to hear the infatuated assertion."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Seeing, however, that his forbearance had not the slightest effect, by an awful and unspeakable intimation with his twisted hand he warned off the foolish and infatuated man; but it was to no purpose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arouse unreasoning love or passion in and cause to behave in an irrational way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arouse unreasoning love or passion in and cause to behave in an irrational way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To a young man with the least fire in him that little upward lift in the middle of her red top lip was distracting, infatuating, maddening."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"No, Jane,” he returned: “what necessity is there to dwell on the Past, when the Present is so much surer—the Future so much brighter?” I shuddered to hear the infatuated assertion."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Seeing, however, that his forbearance had not the slightest effect, by an awful and unspeakable intimation with his twisted hand he warned off the foolish and infatuated man; but it was to no purpose."*

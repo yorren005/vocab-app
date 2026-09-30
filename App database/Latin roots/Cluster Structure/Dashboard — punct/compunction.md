@@ -5,15 +5,6 @@ status: unread
 ---
 # compunction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of deep regret (usually for some misdeed).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of deep regret (usually for some misdeed).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It may be that he pursues her doggedly and steadily, with no touch of compunction, remorse, or pity."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I may keep him at a standstill, but I can never shake him off.” “Has he so little pity or compunction?” “He has none, and no anger."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Those whom he has been the chief cause of leading into ruin, he can neglect and desert without the smallest compunction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of deep regret (usually for some misdeed).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of deep regret (usually for some misdeed).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It may be that he pursues her doggedly and steadily, with no touch of compunction, remorse, or pity."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I may keep him at a standstill, but I can never shake him off.” “Has he so little pity or compunction?” “He has none, and no anger."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Those whom he has been the chief cause of leading into ruin, he can neglect and desert without the smallest compunction."*

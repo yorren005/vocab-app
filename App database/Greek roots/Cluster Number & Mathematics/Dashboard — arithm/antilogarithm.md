@@ -5,13 +5,6 @@ status: unread
 ---
 # antilogarithm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The number corresponding to a given logarithm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The number corresponding to a given logarithm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antilogarithm designates the number corresponding to a given logarithm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The number corresponding to a given logarithm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The number corresponding to a given logarithm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antilogarithm designates the number corresponding to a given logarithm."*

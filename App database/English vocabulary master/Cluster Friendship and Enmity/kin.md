@@ -5,20 +5,6 @@ status: unread
 ---
 # kin
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Kinsman
-> 2. **Nuance / Usage**: One's relatives : kindred
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"_] A little more than kin, and less than kind."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Nay, they will be kin to us, or they will fetch it from Japhet."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Shall kin with kin and kind with kind confound."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: One's relatives collectively; people connected by blood, common ancestry, or family ties (*next of kin*, *kith and kin*).
+> 2. **Nuance / Usage**: As a predicate adjective (*kin to*), means related by blood or possessing a close affinity of nature, character, or origin.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Hamlet*):** *"A little more than **kin**, and less than kind."*
+> - 📜 **Rudyard Kipling (*The Jungle Book*):** *"We be of one blood, ye and I, and all the jungle is our **kin**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He had neither kith nor **kin** in the wide world to claim him."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # cryptobiosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cryptobiosis or anabiosis is a metabolic state in extremophilic organisms in response to adverse environmental conditions such as desiccation, freezing, and oxygen deficiency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the cryptobiotic state, all measurable metabolic processes stop, preventing reproduction, development, and repair.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptobiosis designates cryptobiosis or anabiosis is a metabolic state in extremophilic organisms in response to adverse environmental conditions such as desiccation, freezing, and oxygen deficiency."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cryptobiosis or anabiosis is a metabolic state in extremophilic organisms in response to adverse environmental conditions such as desiccation, freezing, and oxygen deficiency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the cryptobiotic state, all measurable metabolic processes stop, preventing reproduction, development, and repair.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptobiosis designates cryptobiosis or anabiosis is a metabolic state in extremophilic organisms in response to adverse environmental conditions such as desiccation, freezing, and oxygen deficiency."*

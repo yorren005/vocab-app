@@ -5,15 +5,6 @@ status: unread
 ---
 # jocund
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of or showing high-spirited merriment; ; - wordsworth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of or showing high-spirited merriment; ; - wordsworth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As gentle and as jocund as to jest Go I to fight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The lords at Pomfret, when they rode from London, Were jocund and supposed their states were sure, And they indeed had no cause to mistrust; But yet you see how soon the day o’ercast."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I promise you, my heart is very jocund In the remembrance of so fair a dream."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of or showing high-spirited merriment; ; - wordsworth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of or showing high-spirited merriment; ; - wordsworth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As gentle and as jocund as to jest Go I to fight."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The lords at Pomfret, when they rode from London, Were jocund and supposed their states were sure, And they indeed had no cause to mistrust; But yet you see how soon the day o’ercast."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I promise you, my heart is very jocund In the remembrance of so fair a dream."*

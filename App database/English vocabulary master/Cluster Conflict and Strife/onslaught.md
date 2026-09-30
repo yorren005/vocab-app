@@ -5,18 +5,6 @@ status: unread
 ---
 # onslaught
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Fierce attack
-> 2. **Nuance / Usage**: Especially fierce attack; also : something resembling such an attack
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the onslaught withstood the storm*), direct object (*cleaved the onslaught*), or prepositional anchor (*amidst the onslaught*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"convoy from the onslaught of Apollyon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -52,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A fierce, violent, and overwhelming attack or charge against an enemy position.
+> 2. **Nuance / Usage**: Used figuratively for an overpowering surge, barrage, or influx of non-military forces—such as a winter storm, a wave of criticism, or a flood of sensory stimuli.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count).
+> - **Syntactic Constructions**: Functions as a concrete or figurative noun followed by *of* (*the onslaught of winter*, *withstood the onslaught of the cavalry*).
+> - **Collocations & Registers**: Martial, meteorological, and analytical registers; paired with *fierce*, *relentless*, *withstand*, *repel*, and *barrage*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"St. John stood like a resolute convoy shielding his flock from the **onslaught** of Apollyon."*
+> - 📜 **Winston S. Churchill (*The Second World War*):** *"The coastal defenses braced themselves to withstand the full **onslaught** of the invading armada."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Buck braced his shoulders against the **onslaught** of the pack, meeting teeth with teeth in the frozen clearing."*

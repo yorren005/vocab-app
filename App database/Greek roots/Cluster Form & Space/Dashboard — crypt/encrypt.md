@@ -5,13 +5,6 @@ status: unread
 ---
 # encrypt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert ordinary language into code.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert ordinary language into code.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encrypt designates convert ordinary language into code."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert ordinary language into code.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert ordinary language into code.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encrypt designates convert ordinary language into code."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # valedictorian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The student with the best grades who usually delivers the valedictory address at commencement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The student with the best grades who usually delivers the valedictory address at commencement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valedictorian designates the student with the best grades who usually delivers the valedictory address at commencement."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The student with the best grades who usually delivers the valedictory address at commencement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The student with the best grades who usually delivers the valedictory address at commencement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, valedictorian designates the student with the best grades who usually delivers the valedictory address at commencement."*

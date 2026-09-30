@@ -5,15 +5,6 @@ status: unread
 ---
 # presumptuously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a presumptuous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a presumptuous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And woe to Boythorn or other daring wight who shall presumptuously contest an inch with him!"*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I have not so learned the moral government of the universe: nor do I presumptuously and impiously aspire to the attributes of Godhead; and seek to bear upon my poor body the iniquities of the world."*
-> - 📜 **John Keats (*Poems 1817*):** *"Will not some say that I presumptuously Have spoken? that from hastening disgrace 'Twere better far to hide my foolish face?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a presumptuous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a presumptuous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"And woe to Boythorn or other daring wight who shall presumptuously contest an inch with him!"*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I have not so learned the moral government of the universe: nor do I presumptuously and impiously aspire to the attributes of Godhead; and seek to bear upon my poor body the iniquities of the world."*
+> - 📜 **John Keats (*Poems 1817*):** *"Will not some say that I presumptuously Have spoken? that from hastening disgrace 'Twere better far to hide my foolish face?"*

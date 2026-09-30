@@ -5,14 +5,6 @@ status: unread
 ---
 # barcarolle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A boating song sung by venetian gondoliers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A boating song sung by venetian gondoliers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Sónya was sitting at the clavichord, playing the prelude to Denísov’s favorite barcarolle."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But no sooner had Natásha finished her barcarolle than reality again presented itself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A boating song sung by venetian gondoliers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A boating song sung by venetian gondoliers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Sónya was sitting at the clavichord, playing the prelude to Denísov’s favorite barcarolle."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But no sooner had Natásha finished her barcarolle than reality again presented itself."*

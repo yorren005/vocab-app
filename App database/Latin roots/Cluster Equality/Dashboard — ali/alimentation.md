@@ -5,13 +5,6 @@ status: unread
 ---
 # alimentation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A source of materials to nourish the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of supplying food and nourishment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alimentation designates a source of materials to nourish the body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A source of materials to nourish the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of supplying food and nourishment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alimentation designates a source of materials to nourish the body."*

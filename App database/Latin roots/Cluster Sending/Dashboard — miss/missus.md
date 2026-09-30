@@ -5,15 +5,6 @@ status: unread
 ---
 # missus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal term of address for someone's wife.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal term of address for someone's wife.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"I warn you if you bark again I shall go straight for master and missus and bring them home from the party, and then, oh, won’t master whip you, just.” She tied the unhappy dog up again, but do you think Nana ceased to bark?"*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Bring master and missus home from the party!"*
-> - 📜 **Effie Afton (*Eventide*):** *"Thisbe, my nerve-reviver this moment!" "There ain't a bit on't left, Missus; 'twas all in the trunk dat tumbled out o' the cart when we swum through dat ar river," said the poor servant, in a tone of anxious dismay."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal term of address for someone's wife.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal term of address for someone's wife.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"I warn you if you bark again I shall go straight for master and missus and bring them home from the party, and then, oh, won’t master whip you, just.” She tied the unhappy dog up again, but do you think Nana ceased to bark?"*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"Bring master and missus home from the party!"*
+> - 📜 **Effie Afton (*Eventide*):** *"Thisbe, my nerve-reviver this moment!" "There ain't a bit on't left, Missus; 'twas all in the trunk dat tumbled out o' the cart when we swum through dat ar river," said the poor servant, in a tone of anxious dismay."*

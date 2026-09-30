@@ -5,13 +5,6 @@ status: unread
 ---
 # muritaniya
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A country in northwestern africa with a provisional military government; achieved independence from france in 1960; largely western sahara desert.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A country in northwestern africa with a provisional military government; achieved independence from france in 1960; largely western sahara desert.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muritaniya designates a country in northwestern africa with a provisional military government; achieved independence from france in 1960; largely western sahara desert."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A country in northwestern africa with a provisional military government; achieved independence from france in 1960; largely western sahara desert.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A country in northwestern africa with a provisional military government; achieved independence from france in 1960; largely western sahara desert.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, muritaniya designates a country in northwestern africa with a provisional military government; achieved independence from france in 1960; largely western sahara desert."*

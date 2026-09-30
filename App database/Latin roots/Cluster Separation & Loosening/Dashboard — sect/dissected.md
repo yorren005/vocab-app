@@ -5,15 +5,6 @@ status: unread
 ---
 # dissected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut open or cut apart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a mathematical, chemical, or grammatical analysis of; break down into components or essential features.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Go on: it charms me to be dissected to my face, and by such an able hand." "No: it's absurd and I never meant to begin it."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It is zoological, says Apuleius; I have written books on fish, both in Greek and Latin,--and dissected them."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"If slender, short and dissected with obverse little lines, and deformed either by a pale or black color, it presages weakness of the body, sickness and a short life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut open or cut apart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a mathematical, chemical, or grammatical analysis of; break down into components or essential features.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Go on: it charms me to be dissected to my face, and by such an able hand." "No: it's absurd and I never meant to begin it."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It is zoological, says Apuleius; I have written books on fish, both in Greek and Latin,--and dissected them."*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"If slender, short and dissected with obverse little lines, and deformed either by a pale or black color, it presages weakness of the body, sickness and a short life."*

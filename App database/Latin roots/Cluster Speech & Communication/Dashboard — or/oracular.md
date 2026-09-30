@@ -5,15 +5,6 @@ status: unread
 ---
 # oracular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an oracle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obscurely prophetic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They lost some of their fantastic illusions, they tempered some of their exaggerated claims of oracular inspiration."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Featherstone pulled at both sides of his wig as if he wanted to deafen himself, and his sister went away ruminating on this oracular speech of his."*
-> - 📜 **George Eliot (*Middlemarch*):** *"With this oracular sentence Ben was well satisfied, not minding the naughtiness; but Letty took it ill, her feeling of superiority being stronger than her muscles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an oracle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obscurely prophetic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They lost some of their fantastic illusions, they tempered some of their exaggerated claims of oracular inspiration."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Featherstone pulled at both sides of his wig as if he wanted to deafen himself, and his sister went away ruminating on this oracular speech of his."*
+> - 📜 **George Eliot (*Middlemarch*):** *"With this oracular sentence Ben was well satisfied, not minding the naughtiness; but Letty took it ill, her feeling of superiority being stronger than her muscles."*

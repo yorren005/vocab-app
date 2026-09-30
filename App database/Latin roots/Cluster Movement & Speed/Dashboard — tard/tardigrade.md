@@ -5,13 +5,6 @@ status: unread
 ---
 # tardigrade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arthropod of the division tardigrada.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arthropod of the division tardigrada.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tardigrade designates an arthropod of the division tardigrada."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arthropod of the division tardigrada.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arthropod of the division tardigrada.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tardigrade designates an arthropod of the division tardigrada."*

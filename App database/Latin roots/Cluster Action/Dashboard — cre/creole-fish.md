@@ -5,13 +5,6 @@ status: unread
 ---
 # creole-fish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep-sea fish of tropical atlantic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep-sea fish of tropical atlantic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creole-fish designates deep-sea fish of tropical atlantic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep-sea fish of tropical atlantic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep-sea fish of tropical atlantic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creole-fish designates deep-sea fish of tropical atlantic."*

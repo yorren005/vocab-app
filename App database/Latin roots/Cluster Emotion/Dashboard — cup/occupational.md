@@ -5,14 +5,6 @@ status: unread
 ---
 # occupational
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the activity or business for which you are trained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the activity or business for which you are trained.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Despite the facts just stated, every campaign orator admits that there is no other occupational class of the nation of greater importance to the nation than the farmers, or more deserving of prosperity."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The PHA is a four-stage process that includes a prevention-oriented clinical screening, occupational examination, screening of military-unique medical requirements and counseling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the activity or business for which you are trained.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the activity or business for which you are trained.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Despite the facts just stated, every campaign orator admits that there is no other occupational class of the nation of greater importance to the nation than the farmers, or more deserving of prosperity."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The PHA is a four-stage process that includes a prevention-oriented clinical screening, occupational examination, screening of military-unique medical requirements and counseling."*

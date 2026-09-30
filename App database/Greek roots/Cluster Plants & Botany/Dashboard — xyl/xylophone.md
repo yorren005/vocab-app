@@ -5,13 +5,6 @@ status: unread
 ---
 # xylophone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A percussion instrument consisting of a series of wooden bars graduated in length to produce the musical scale, supported on belts of straw or felt, and sounded by striking with two small wooden hammers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A percussion instrument consisting of a series of wooden bars graduated in length to produce the musical scale, supported on belts of straw or felt, and sounded by striking with two small wooden hammers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylophone designates a percussion instrument consisting of a series of wooden bars graduated in length to produce the musical scale, supported on belts of straw or felt, and sounded by striking with two small wooden hammers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A percussion instrument consisting of a series of wooden bars graduated in length to produce the musical scale, supported on belts of straw or felt, and sounded by striking with two small wooden hammers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A percussion instrument consisting of a series of wooden bars graduated in length to produce the musical scale, supported on belts of straw or felt, and sounded by striking with two small wooden hammers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylophone designates a percussion instrument consisting of a series of wooden bars graduated in length to produce the musical scale, supported on belts of straw or felt, and sounded by striking with two small wooden hammers."*

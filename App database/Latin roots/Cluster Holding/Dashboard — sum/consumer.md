@@ -5,15 +5,6 @@ status: unread
 ---
 # consumer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who uses goods or services.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who uses goods or services.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The use of money may be necessary several times before a commodity completes its journey from producer to consumer."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The freight argument attempts to prove too much for it condemns every trade within the country, of goods produced a stone's throw away from the consumer."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Something like this happens in the case of many protected industries; every consumer of the article pays a few cents more, a small group of wage-earners temporarily gains, and a few enterprises wax wealthy. § 9. #Tariffs and unemployment#."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who uses goods or services.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who uses goods or services.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The use of money may be necessary several times before a commodity completes its journey from producer to consumer."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The freight argument attempts to prove too much for it condemns every trade within the country, of goods produced a stone's throw away from the consumer."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Something like this happens in the case of many protected industries; every consumer of the article pays a few cents more, a small group of wage-earners temporarily gains, and a few enterprises wax wealthy. § 9. #Tariffs and unemployment#."*

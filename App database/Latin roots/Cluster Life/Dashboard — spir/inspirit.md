@@ -5,15 +5,6 @@ status: unread
 ---
 # inspirit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infuse with spirit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infuse with spirit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Knowing its narcotic nature, he refused; but Jimmy said he would have something mixed with it, which would convert it into an innocent beverage that would inspirit them for the rest of their journey."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And on learning that tomorrow they were to attack the enemy, and hearing from the highest quarters a confirmation of what they wanted to believe, the exhausted, wavering men felt comforted and inspirited."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"No; he is invigorated and inspirited by his leader in order that he may exert himself, for he cannot proceed in quiescence, he cannot be carried like a dead weight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infuse with spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infuse with spirit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Knowing its narcotic nature, he refused; but Jimmy said he would have something mixed with it, which would convert it into an innocent beverage that would inspirit them for the rest of their journey."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And on learning that tomorrow they were to attack the enemy, and hearing from the highest quarters a confirmation of what they wanted to believe, the exhausted, wavering men felt comforted and inspirited."*
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"No; he is invigorated and inspirited by his leader in order that he may exert himself, for he cannot proceed in quiescence, he cannot be carried like a dead weight."*

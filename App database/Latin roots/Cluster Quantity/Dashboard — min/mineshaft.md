@@ -5,13 +5,6 @@ status: unread
 ---
 # mineshaft
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excavation consisting of a vertical or sloping passageway for finding or mining ore or for ventilating a mine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excavation consisting of a vertical or sloping passageway for finding or mining ore or for ventilating a mine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mineshaft designates excavation consisting of a vertical or sloping passageway for finding or mining ore or for ventilating a mine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excavation consisting of a vertical or sloping passageway for finding or mining ore or for ventilating a mine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excavation consisting of a vertical or sloping passageway for finding or mining ore or for ventilating a mine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mineshaft designates excavation consisting of a vertical or sloping passageway for finding or mining ore or for ventilating a mine."*

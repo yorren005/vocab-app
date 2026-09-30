@@ -5,15 +5,6 @@ status: unread
 ---
 # expected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regard something as probable or likely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider obligatory; request and expect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is most certain that I shall deliver: Mark Antony is every hour in Rome Expected."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar himself has work, and our oppression Exceeds what we expected. [_Exeunt._] Alarums."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I minded him how royal ’twas to pardon When it was less expected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regard something as probable or likely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider obligatory; request and expect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is most certain that I shall deliver: Mark Antony is every hour in Rome Expected."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar himself has work, and our oppression Exceeds what we expected. [_Exeunt._] Alarums."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I minded him how royal ’twas to pardon When it was less expected."*

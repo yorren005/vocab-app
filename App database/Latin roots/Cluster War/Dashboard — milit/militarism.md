@@ -5,15 +5,6 @@ status: unread
 ---
 # militarism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A political orientation of a people or a government to maintain a strong military force and to be prepared to use it aggressively to defend or promote national interests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political orientation of a people or a government to maintain a strong military force and to be prepared to use it aggressively to defend or promote national interests.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Population and militarism. § 16."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In such a view, a eugenic opportunity is presented in the selection and admission of immigrants that are distinctly above (not merely equal to) the average of our general population. § 15. #Population and militarism#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In this view, militarism is seen to consist not in having drilled soldiers and stores of munitions, but in the national state of mind that would use these for aggression, not merely for defense."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political orientation of a people or a government to maintain a strong military force and to be prepared to use it aggressively to defend or promote national interests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political orientation of a people or a government to maintain a strong military force and to be prepared to use it aggressively to defend or promote national interests.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Population and militarism. § 16."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In such a view, a eugenic opportunity is presented in the selection and admission of immigrants that are distinctly above (not merely equal to) the average of our general population. § 15. #Population and militarism#."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In this view, militarism is seen to consist not in having drilled soldiers and stores of munitions, but in the national state of mind that would use these for aggression, not merely for defense."*

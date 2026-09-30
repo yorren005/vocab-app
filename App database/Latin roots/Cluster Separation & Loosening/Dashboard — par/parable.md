@@ -5,15 +5,6 @@ status: unread
 ---
 # parable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short moral story (often with animal characters).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (new testament) any of the stories told by jesus to convey his religious message.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt never get such a secret from me but by a parable."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I have myself—I tell it you without parable—been a worldly, dissipated, restless man; and I believe I have found the instrument for my cure in—” He paused: the birds went on carolling, the leaves lightly rustling."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Ezekiel "puts forth a riddle and speaks a parable" about an eagle--a frankly heraldic eagle, that plants a tree-top in a city of merchants (Ezek. 17:2-5)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short moral story (often with animal characters).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (new testament) any of the stories told by jesus to convey his religious message.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt never get such a secret from me but by a parable."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I have myself—I tell it you without parable—been a worldly, dissipated, restless man; and I believe I have found the instrument for my cure in—” He paused: the birds went on carolling, the leaves lightly rustling."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Ezekiel "puts forth a riddle and speaks a parable" about an eagle--a frankly heraldic eagle, that plants a tree-top in a city of merchants (Ezek. 17:2-5)."*

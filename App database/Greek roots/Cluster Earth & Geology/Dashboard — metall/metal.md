@@ -5,15 +5,6 @@ status: unread
 ---
 # metal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several chemical elements that are usually shiny solids that conduct heat or electricity and can be formed into sheets etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mixture containing two or more metallic elements or metallic and nonmetallic elements usually fused together or dissolving into each other when molten.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That you were made of is metal to make virgins."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When your lordship sees the bottom of his success in’t, and to what metal this counterfeit lump of ore will be melted, if you give him not John Drum’s entertainment, your inclining cannot be removed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, sirrah, you shall buy this sport as dear As all the metal in your shop will answer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several chemical elements that are usually shiny solids that conduct heat or electricity and can be formed into sheets etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mixture containing two or more metallic elements or metallic and nonmetallic elements usually fused together or dissolving into each other when molten.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That you were made of is metal to make virgins."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When your lordship sees the bottom of his success in’t, and to what metal this counterfeit lump of ore will be melted, if you give him not John Drum’s entertainment, your inclining cannot be removed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, sirrah, you shall buy this sport as dear As all the metal in your shop will answer."*

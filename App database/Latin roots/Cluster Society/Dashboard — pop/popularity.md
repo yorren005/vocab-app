@@ -5,15 +5,6 @@ status: unread
 ---
 # popularity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being widely admired or accepted or sought after.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being widely admired or accepted or sought after.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The beadle, though generally understood in the neighbourhood to be a ridiculous institution, is not without a certain popularity for the moment, if it were only as a man who is going to see the body."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, with every eye in the court’s head upon them, knock at the closed door of the late lamented’s house, in a high state of popularity."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"They were with him in popularity and in unpopularity; they were with him in danger, when Herod tried to kill him and he went out of Herod's territory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being widely admired or accepted or sought after.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being widely admired or accepted or sought after.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The beadle, though generally understood in the neighbourhood to be a ridiculous institution, is not without a certain popularity for the moment, if it were only as a man who is going to see the body."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, with every eye in the court’s head upon them, knock at the closed door of the late lamented’s house, in a high state of popularity."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"They were with him in popularity and in unpopularity; they were with him in danger, when Herod tried to kill him and he went out of Herod's territory."*

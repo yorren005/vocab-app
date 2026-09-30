@@ -5,13 +5,6 @@ status: unread
 ---
 # sclerodermatales
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of fungi having a peridium surrounding a gleba (sometimes placed in subclass homobasidiomycetes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of fungi having a peridium surrounding a gleba (sometimes placed in subclass homobasidiomycetes).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerodermatales designates an order of fungi having a peridium surrounding a gleba (sometimes placed in subclass homobasidiomycetes)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of fungi having a peridium surrounding a gleba (sometimes placed in subclass homobasidiomycetes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of fungi having a peridium surrounding a gleba (sometimes placed in subclass homobasidiomycetes).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerodermatales designates an order of fungi having a peridium surrounding a gleba (sometimes placed in subclass homobasidiomycetes)."*

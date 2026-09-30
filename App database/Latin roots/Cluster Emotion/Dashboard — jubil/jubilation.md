@@ -5,15 +5,6 @@ status: unread
 ---
 # jubilation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of extreme joy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A joyful occasion for special festivities to mark some happy event.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Great was the jubilation while the effigy of the traitor was being consumed in the flames."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Great was the jubilation while he was burning."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"The boy gave a loud, high shriek, which, lost in the rest of the shock of sound, might have seemed, indistinctly, though I was so close to him, a note either of jubilation or of terror."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of extreme joy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A joyful occasion for special festivities to mark some happy event.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Great was the jubilation while the effigy of the traitor was being consumed in the flames."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Great was the jubilation while he was burning."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"The boy gave a loud, high shriek, which, lost in the rest of the shock of sound, might have seemed, indistinctly, though I was so close to him, a note either of jubilation or of terror."*

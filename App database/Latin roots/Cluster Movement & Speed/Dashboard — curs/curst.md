@@ -5,15 +5,6 @@ status: unread
 ---
 # curst
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Utter obscenities or profanities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heap obscenities upon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why hast thou lost the fresh blood in thy cheeks, And given my treasures and my rights of thee To thick-eyed musing and curst melancholy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not curst wives hold that self-sovereignty Only for praise’ sake, when they strive to be Lords o’er their lords?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was never curst; I have no gift at all in shrewishness; I am a right maid for my cowardice; Let her not strike me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Utter obscenities or profanities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heap obscenities upon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why hast thou lost the fresh blood in thy cheeks, And given my treasures and my rights of thee To thick-eyed musing and curst melancholy?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not curst wives hold that self-sovereignty Only for praise’ sake, when they strive to be Lords o’er their lords?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was never curst; I have no gift at all in shrewishness; I am a right maid for my cowardice; Let her not strike me."*

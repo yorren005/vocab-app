@@ -5,13 +5,6 @@ status: unread
 ---
 # antiemetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used or tending to prevent or relieve nausea and vomiting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used or tending to prevent or relieve nausea and vomiting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiemetic designates used or tending to prevent or relieve nausea and vomiting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used or tending to prevent or relieve nausea and vomiting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used or tending to prevent or relieve nausea and vomiting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiemetic designates used or tending to prevent or relieve nausea and vomiting."*

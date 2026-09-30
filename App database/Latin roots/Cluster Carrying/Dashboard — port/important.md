@@ -5,15 +5,6 @@ status: unread
 ---
 # important
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of great significance or value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Important in effect or meaning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now his important blood will naught deny That she’ll demand; a ring the county wears, That downward hath succeeded in his house From son to son, some four or five descents Since the first father wore it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you not come your tardy son to chide, That, laps’d in time and passion, lets go by The important acting of your dread command?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O dear father, It is thy business that I go about; Therefore great France My mourning and important tears hath pitied."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of great significance or value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Important in effect or meaning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now his important blood will naught deny That she’ll demand; a ring the county wears, That downward hath succeeded in his house From son to son, some four or five descents Since the first father wore it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you not come your tardy son to chide, That, laps’d in time and passion, lets go by The important acting of your dread command?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O dear father, It is thy business that I go about; Therefore great France My mourning and important tears hath pitied."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # valois
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French royal house from 1328 to 1589.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French royal house from 1328 to 1589.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"On a tiny satinwood table stood a statuette by Clodion, and beside it lay a copy of Les Cent Nouvelles, bound for Margaret of Valois by Clovis Eve and powdered with the gilt daisies that Queen had selected for her device."*
-> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"This was strange, because neither the little American girl nor her governess nor her governess's lover had ever heard of the Valois family, nor had the Valois family heard of them."*
-> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"But it was rather a long walk to get there, and Suze senior-- who told Angel that she was "Madame Valois"--shyly refused the little girl's insistent plea to "come in and meet mother." "I must take the children back to their supper," she explained."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French royal house from 1328 to 1589.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French royal house from 1328 to 1589.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"On a tiny satinwood table stood a statuette by Clodion, and beside it lay a copy of Les Cent Nouvelles, bound for Margaret of Valois by Clovis Eve and powdered with the gilt daisies that Queen had selected for her device."*
+> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"This was strange, because neither the little American girl nor her governess nor her governess's lover had ever heard of the Valois family, nor had the Valois family heard of them."*
+> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"But it was rather a long walk to get there, and Suze senior-- who told Angel that she was "Madame Valois"--shyly refused the little girl's insistent plea to "come in and meet mother." "I must take the children back to their supper," she explained."*

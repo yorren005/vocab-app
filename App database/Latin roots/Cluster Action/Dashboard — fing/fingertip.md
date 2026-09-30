@@ -5,15 +5,6 @@ status: unread
 ---
 # fingertip
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The end (tip) of a finger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The end (tip) of a finger.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Katey, sitting opposite Boody, said quietly, as her fingertip lifted to her mouth random crumbs: —A good job we have that much."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"It was a disturbing thought, but it brought a sparkle to his eyes and an electric force to his fingertips: he raised his head and looked out into the September night as if there was stirring in him the restless sap of spring."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Was the door locked?" "Yes." "And he refused to open it?" "No, he did open it." "He did open it, do you say?" "Yes, because--oh, my head." "You aren't hurt anywhere, are you?" asked Lawrence, feeling cold to his fingertips."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The end (tip) of a finger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The end (tip) of a finger.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Katey, sitting opposite Boody, said quietly, as her fingertip lifted to her mouth random crumbs: —A good job we have that much."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"It was a disturbing thought, but it brought a sparkle to his eyes and an electric force to his fingertips: he raised his head and looked out into the September night as if there was stirring in him the restless sap of spring."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Was the door locked?" "Yes." "And he refused to open it?" "No, he did open it." "He did open it, do you say?" "Yes, because--oh, my head." "You aren't hurt anywhere, are you?" asked Lawrence, feeling cold to his fingertips."*

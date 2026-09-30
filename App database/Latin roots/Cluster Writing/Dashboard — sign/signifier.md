@@ -5,13 +5,6 @@ status: unread
 ---
 # signifier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The phonological or orthographic sound or appearance of a word that can be used to describe or identify something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The phonological or orthographic sound or appearance of a word that can be used to describe or identify something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Et cela doit signifier,” said she, “qu’il y aura là dedans un cadeau pour moi, et peut-être pour vous aussi, mademoiselle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phonological or orthographic sound or appearance of a word that can be used to describe or identify something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The phonological or orthographic sound or appearance of a word that can be used to describe or identify something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Et cela doit signifier,” said she, “qu’il y aura là dedans un cadeau pour moi, et peut-être pour vous aussi, mademoiselle."*

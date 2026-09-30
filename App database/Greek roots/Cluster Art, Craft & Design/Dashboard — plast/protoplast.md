@@ -5,13 +5,6 @@ status: unread
 ---
 # protoplast
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A biological unit consisting of a nucleus and the body of cytoplasm with which it interacts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biological unit consisting of a nucleus and the body of cytoplasm with which it interacts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Those forms, unalterable first as last, proved him her copier, not the protoplast of nature: what could come of being free by action to exhibit tree for tree, bird, beast, for beast and bird, or prove earth bore one veritable man or woman more?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biological unit consisting of a nucleus and the body of cytoplasm with which it interacts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biological unit consisting of a nucleus and the body of cytoplasm with which it interacts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Those forms, unalterable first as last, proved him her copier, not the protoplast of nature: what could come of being free by action to exhibit tree for tree, bird, beast, for beast and bird, or prove earth bore one veritable man or woman more?"*

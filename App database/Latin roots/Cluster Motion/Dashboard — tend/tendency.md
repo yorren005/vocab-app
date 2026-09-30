@@ -5,15 +5,6 @@ status: unread
 ---
 # tendency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An attitude of mind especially one that favors one alternative over others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclination to do something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby with a strong tendency in his clump of hair to stand on end."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the neighbouring court, where the Lord Chancellor of the rag and bottle shop dwells, there is a general tendency towards beer and supper."*
-> - 📜 **Jane Austen (*Persuasion*):** *"They were of sobering tendency; they allayed agitation; they composed, and consequently must make her happier."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An attitude of mind especially one that favors one alternative over others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclination to do something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby with a strong tendency in his clump of hair to stand on end."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In the neighbouring court, where the Lord Chancellor of the rag and bottle shop dwells, there is a general tendency towards beer and supper."*
+> - 📜 **Jane Austen (*Persuasion*):** *"They were of sobering tendency; they allayed agitation; they composed, and consequently must make her happier."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # transgression
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of transgressing; the violation of a law or a duty or moral principle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spreading of the sea over land as evidenced by the deposition of marine strata over terrestrial strata.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Heaven lay not my transgression to my charge!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Teach us, sweet madam, for our rude transgression Some fair excuse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The flat transgression of a school-boy, who, being overjoy’d with finding a bird’s nest, shows it his companion, and he steals it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of transgressing; the violation of a law or a duty or moral principle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spreading of the sea over land as evidenced by the deposition of marine strata over terrestrial strata.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Heaven lay not my transgression to my charge!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Teach us, sweet madam, for our rude transgression Some fair excuse."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The flat transgression of a school-boy, who, being overjoy’d with finding a bird’s nest, shows it his companion, and he steals it."*

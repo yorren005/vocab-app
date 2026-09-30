@@ -5,21 +5,6 @@ status: unread
 ---
 # whimper
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Low intermittent sob
-> 2. **Nuance / Usage**: Whimpering cry or sound
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to whimper the target*) and intransitive clauses (*whimpering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"It would wail in its cradle all night long—not screaming heartily like any other child, but whimpering and moaning."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I was out on the open country road when the day came creeping on, halting and whimpering and shivering, and wrapped in patches of cloud and rags of mist, like a beggar."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"retired to her own room to whimper in private."*
-> - 📜 **T. S. Eliot (*The Hollow Men*):** *"This is the way the world ends / Not with a bang but a whimper."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -55,3 +40,18 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Low intermittent sob
+> 2. **Nuance / Usage**: Whimpering cry or sound
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to whimper the target*) and intransitive clauses (*whimpering against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"It would wail in its cradle all night long—not screaming heartily like any other child, but whimpering and moaning."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I was out on the open country road when the day came creeping on, halting and whimpering and shivering, and wrapped in patches of cloud and rags of mist, like a beggar."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"retired to her own room to whimper in private."*
+> - 📜 **T. S. Eliot (*The Hollow Men*):** *"This is the way the world ends / Not with a bang but a whimper."*

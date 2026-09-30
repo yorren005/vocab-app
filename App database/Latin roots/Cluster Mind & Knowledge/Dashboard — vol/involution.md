@@ -5,14 +5,6 @@ status: unread
 ---
 # involution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduction in size of an organ or part (as in the return of the uterus to normal size after childbirth).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long and intricate and complicated grammatical construction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Let there be no involution of thought and mind about it."*
-> - 📜 **James Joyce (*Ulysses*):** *"Were there obverse meditations of involution increasingly less vast?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduction in size of an organ or part (as in the return of the uterus to normal size after childbirth).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long and intricate and complicated grammatical construction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Let there be no involution of thought and mind about it."*
+> - 📜 **James Joyce (*Ulysses*):** *"Were there obverse meditations of involution increasingly less vast?"*

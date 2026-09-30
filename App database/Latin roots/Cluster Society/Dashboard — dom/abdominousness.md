@@ -5,13 +5,6 @@ status: unread
 ---
 # abdominousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The bodily property of a protruding belly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bodily property of a protruding belly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abdominousness designates the bodily property of a protruding belly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The bodily property of a protruding belly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bodily property of a protruding belly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abdominousness designates the bodily property of a protruding belly."*

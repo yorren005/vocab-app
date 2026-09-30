@@ -5,15 +5,6 @@ status: unread
 ---
 # demur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a formal objection to an opponent's pleadings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take exception to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Clowes' parlour." Barry had executed too many equally singular orders to raise any demur."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I offered to pay her well for her trouble, and, after some demur, she consented to accompany me to the spot."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Don't demur, for no guests will arrive, I am sure; If they do, why there's room on the bed or the floor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a formal objection to an opponent's pleadings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take exception to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Clowes' parlour." Barry had executed too many equally singular orders to raise any demur."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I offered to pay her well for her trouble, and, after some demur, she consented to accompany me to the spot."*
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Don't demur, for no guests will arrive, I am sure; If they do, why there's room on the bed or the floor."*

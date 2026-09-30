@@ -5,13 +5,6 @@ status: unread
 ---
 # photoflash
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lamp for providing momentary light to take a photograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lamp for providing momentary light to take a photograph.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoflash designates a lamp for providing momentary light to take a photograph."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lamp for providing momentary light to take a photograph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lamp for providing momentary light to take a photograph.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoflash designates a lamp for providing momentary light to take a photograph."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # chirography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beautiful handwriting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beautiful handwriting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Unconsciously my chirography expands into placard capitals."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Unconsciously my chirography expands into placard capitals."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"This envelope had the air of an official record of some period long past, when clerks engrossed their stiff and formal chirography on more substantial materials than at present."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beautiful handwriting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beautiful handwriting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Unconsciously my chirography expands into placard capitals."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Unconsciously my chirography expands into placard capitals."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"This envelope had the air of an official record of some period long past, when clerks engrossed their stiff and formal chirography on more substantial materials than at present."*

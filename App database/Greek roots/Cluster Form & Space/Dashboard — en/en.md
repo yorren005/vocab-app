@@ -5,15 +5,6 @@ status: unread
 ---
 # en
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The width of a piece of type half the width of an em.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The letter n.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Be these your 'ens, zur?" was the formula."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The woodbine I will pu’, when the e’ening star is near, And the diamond draps o’ dew shall be her een sae clear; The violet’s for modesty, which weel she fa’s to wear, And a’ to be a Posie to my ain dear May."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But did na Jeanie’s heart loup light, And didna joy blink in her e’e, As Robie tauld a tale o’ love Ae e’ening on the lily lea?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The width of a piece of type half the width of an em.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The letter n.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Be these your 'ens, zur?" was the formula."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The woodbine I will pu’, when the e’ening star is near, And the diamond draps o’ dew shall be her een sae clear; The violet’s for modesty, which weel she fa’s to wear, And a’ to be a Posie to my ain dear May."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But did na Jeanie’s heart loup light, And didna joy blink in her e’e, As Robie tauld a tale o’ love Ae e’ening on the lily lea?"*

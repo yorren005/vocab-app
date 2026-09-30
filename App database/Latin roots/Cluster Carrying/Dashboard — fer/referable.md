@@ -5,15 +5,6 @@ status: unread
 ---
 # referable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being assigned or credited to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being assigned or credited to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The old girl’s umbrella is of a flabby habit of waist and seems to be in need of stays—an appearance that is possibly referable to its having served through a series of years at home as a cupboard and on journeys as a carpet bag."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A smell as of unwholesome sheep blending with the smell of must and dust is referable to the nightly (and often daily) consumption of mutton fat in candles and to the fretting of parchment forms and skins in greasy drawers."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And I am sorry to say I have known them cruel to their wives too.” The woman hastily lifts up her eyes as if she would deny that her injury is referable to such a cause."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being assigned or credited to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being assigned or credited to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old girl’s umbrella is of a flabby habit of waist and seems to be in need of stays—an appearance that is possibly referable to its having served through a series of years at home as a cupboard and on journeys as a carpet bag."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A smell as of unwholesome sheep blending with the smell of must and dust is referable to the nightly (and often daily) consumption of mutton fat in candles and to the fretting of parchment forms and skins in greasy drawers."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And I am sorry to say I have known them cruel to their wives too.” The woman hastily lifts up her eyes as if she would deny that her injury is referable to such a cause."*

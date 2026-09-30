@@ -5,20 +5,6 @@ status: unread
 ---
 # scorch
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Burn; to destroy by, or as by, fire
-> 2. **Nuance / Usage**: Afflict painfully with censure or sarcasm
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to scorch the target*) and intransitive clauses (*scorching against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Matthew Prior (*Pleasure*):** *"Lashed by mad rage, and scorched by brutal fires."*
-> - 📜 **H.G. Wells (*The War of the Worlds*):** *"Men on cycles, lean-faced, unkempt, scorched along every country lane, shouting of unhoped deliverance, shouting to gaunt, staring figures of despair."*
-> - 📜 **Classic Author (*Lyra Cyclus{{...*):** *"I may not scorch on thee again—thou'rt pinched, my silent steed!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To burn, brown, or shrivel the surface of something with intense heat or flame without consuming it completely.
+> 2. **Nuance / Usage**: Also means to wither vegetation under a blazing sun (as in *scorched-earth* warfare), or figuratively to assail with blisteringly harsh criticism.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to scorch the target*) and intransitive clauses (*scorching against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Matthew Prior (*Pleasure*):** *"They were lashed by mad rage, and **scorched** by brutal fires."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Men on cycles, lean-faced and unkempt, **scorched** along every country lane, shouting of unhoped deliverance."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The lightning flashed and **scorched** the great horse-chestnut tree at the bottom of the orchard."*

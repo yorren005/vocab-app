@@ -5,15 +5,6 @@ status: unread
 ---
 # applicant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who requests or seeks something such as assistance or employment or admission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who requests or seeks something such as assistance or employment or admission.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"But missionaries' pockets are more often depleted, than those of benevolent organizations, and the one in question was fain to take the applicant to a friend, whom we shall call Q."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"An examination of the qualifications of each applicant was made."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"It then becomes the duty of the Committee in charge to visit the applicant, and to afford such aid as may be needed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who requests or seeks something such as assistance or employment or admission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who requests or seeks something such as assistance or employment or admission.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"But missionaries' pockets are more often depleted, than those of benevolent organizations, and the one in question was fain to take the applicant to a friend, whom we shall call Q."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"An examination of the qualifications of each applicant was made."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"It then becomes the duty of the Committee in charge to visit the applicant, and to afford such aid as may be needed."*

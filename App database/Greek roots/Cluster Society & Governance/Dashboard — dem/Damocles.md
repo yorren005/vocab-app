@@ -5,13 +5,6 @@ status: unread
 ---
 # Damocles
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A courtier of ancient Syracuse held to have been seated at a banquet beneath a sword hung by a single hair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An impending disaster.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Like Damocles at his celebrated banquet, Rebecca perpetually beheld, amid that gorgeous display, the sword which was suspended over the heads of her people by a single hair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A courtier of ancient Syracuse held to have been seated at a banquet beneath a sword hung by a single hair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An impending disaster.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Like Damocles at his celebrated banquet, Rebecca perpetually beheld, amid that gorgeous display, the sword which was suspended over the heads of her people by a single hair."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # cornet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brass musical instrument with a brilliant tone; has a narrow tube and a flared bell and is played by means of valves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brass musical instrument with a brilliant tone; has a narrow tube and a flared bell and is played by means of valves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The matter was mentioned to the Emperor, an exception made, and Borís transferred into the regiment of Semënov Guards with the rank of cornet."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The hussar cornet of Kutúzov’s suite who had mimicked the regimental commander, fell back from the carriage and rode up to Dólokhov."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Hussar cornet Zherkóv had at one time, in Petersburg, belonged to the wild set led by Dólokhov."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brass musical instrument with a brilliant tone; has a narrow tube and a flared bell and is played by means of valves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brass musical instrument with a brilliant tone; has a narrow tube and a flared bell and is played by means of valves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The matter was mentioned to the Emperor, an exception made, and Borís transferred into the regiment of Semënov Guards with the rank of cornet."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The hussar cornet of Kutúzov’s suite who had mimicked the regimental commander, fell back from the carriage and rode up to Dólokhov."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Hussar cornet Zherkóv had at one time, in Petersburg, belonged to the wild set led by Dólokhov."*

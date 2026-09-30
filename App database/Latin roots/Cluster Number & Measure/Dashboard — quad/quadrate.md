@@ -5,14 +5,6 @@ status: unread
 ---
 # quadrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cubelike object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A square-shaped object.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It would be extremely difficult, if not impossible, to suggest any general regulation that would be acceptable to all the States in the Union, or that would perfectly quadrate with the several State institutions."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"As this differs much in the different species, they are readily distinguished by the column or "quadrate" bone when found."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cubelike object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A square-shaped object.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It would be extremely difficult, if not impossible, to suggest any general regulation that would be acceptable to all the States in the Union, or that would perfectly quadrate with the several State institutions."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"As this differs much in the different species, they are readily distinguished by the column or "quadrate" bone when found."*

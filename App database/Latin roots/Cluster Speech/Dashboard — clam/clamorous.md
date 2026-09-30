@@ -5,15 +5,6 @@ status: unread
 ---
 # clamorous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conspicuously and offensively loud; given to vehement outcry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conspicuously and offensively loud; given to vehement outcry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will be more jealous of thee than a Barbary cock-pigeon over his hen, more clamorous than a parrot against rain, more new-fangled than an ape, more giddy in my desires than a monkey."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me leave To tell you once again that at my birth The front of heaven was full of fiery shapes, The goats ran from the mountains, and the herds Were strangely clamorous to the frighted fields."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Presumptuous vassals, are you not ashamed With this immodest clamorous outrage To trouble and disturb the King and us?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conspicuously and offensively loud; given to vehement outcry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conspicuously and offensively loud; given to vehement outcry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will be more jealous of thee than a Barbary cock-pigeon over his hen, more clamorous than a parrot against rain, more new-fangled than an ape, more giddy in my desires than a monkey."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me leave To tell you once again that at my birth The front of heaven was full of fiery shapes, The goats ran from the mountains, and the herds Were strangely clamorous to the frighted fields."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Presumptuous vassals, are you not ashamed With this immodest clamorous outrage To trouble and disturb the King and us?"*

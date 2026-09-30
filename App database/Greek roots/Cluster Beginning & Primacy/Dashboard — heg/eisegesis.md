@@ -5,13 +5,6 @@ status: unread
 ---
 # eisegesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The interpretation of a text (as of the Bible) by reading into it one's own ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The interpretation of a text (as of the Bible) by reading into it one's own ideas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eisegesis designates the interpretation of a text (as of the bible) by reading into it one's own ideas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The interpretation of a text (as of the Bible) by reading into it one's own ideas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The interpretation of a text (as of the Bible) by reading into it one's own ideas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eisegesis designates the interpretation of a text (as of the bible) by reading into it one's own ideas."*

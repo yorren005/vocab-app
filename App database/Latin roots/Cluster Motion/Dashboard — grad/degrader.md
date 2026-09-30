@@ -5,13 +5,6 @@ status: unread
 ---
 # degrader
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who lowers the quality or character or value (as by adding cheaper metal to coins).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who lowers the quality or character or value (as by adding cheaper metal to coins).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, degrader designates a person who lowers the quality or character or value (as by adding cheaper metal to coins)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who lowers the quality or character or value (as by adding cheaper metal to coins).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who lowers the quality or character or value (as by adding cheaper metal to coins).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, degrader designates a person who lowers the quality or character or value (as by adding cheaper metal to coins)."*

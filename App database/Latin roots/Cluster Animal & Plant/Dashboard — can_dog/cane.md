@@ -5,15 +5,6 @@ status: unread
 ---
 # cane
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stick that people can lean on to help them walk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong slender often flexible stem as of bamboos, reeds, rattans, or sugar cane.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He had a cane, he had an eye-glass, he had a snuff-box, he had rings, he had wristbands, he had everything but any touch of nature; he was not like youth, he was not like age, he was not like anything in the world but a model of deportment."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"As soon as she had entered the field Troy saw her, and sticking his pitchfork into the ground and picking up his crop or cane, he came forward."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"How blooming you are to-day!” Troy flung down his cane and put his foot on the ladder to ascend."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stick that people can lean on to help them walk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong slender often flexible stem as of bamboos, reeds, rattans, or sugar cane.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He had a cane, he had an eye-glass, he had a snuff-box, he had rings, he had wristbands, he had everything but any touch of nature; he was not like youth, he was not like age, he was not like anything in the world but a model of deportment."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"As soon as she had entered the field Troy saw her, and sticking his pitchfork into the ground and picking up his crop or cane, he came forward."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"How blooming you are to-day!” Troy flung down his cane and put his foot on the ladder to ascend."*

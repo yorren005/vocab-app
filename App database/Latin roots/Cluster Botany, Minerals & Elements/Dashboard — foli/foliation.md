@@ -5,13 +5,6 @@ status: unread
 ---
 # foliation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) the process of forming leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (geology) the arrangement of leaflike layers in a rock.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, foliation designates (botany) the process of forming leaves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) the process of forming leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (geology) the arrangement of leaflike layers in a rock.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, foliation designates (botany) the process of forming leaves."*

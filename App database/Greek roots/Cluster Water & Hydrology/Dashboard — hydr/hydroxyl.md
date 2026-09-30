@@ -5,13 +5,6 @@ status: unread
 ---
 # hydroxyl
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The monovalent group -oh in such compounds as bases and some acids and alcohols.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The monovalent group -oh in such compounds as bases and some acids and alcohols.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxyl designates the monovalent group -oh in such compounds as bases and some acids and alcohols."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The monovalent group -oh in such compounds as bases and some acids and alcohols.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The monovalent group -oh in such compounds as bases and some acids and alcohols.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxyl designates the monovalent group -oh in such compounds as bases and some acids and alcohols."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # declension
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inflection of nouns and pronouns and adjectives in indo-european languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Process of changing to an inferior state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Ours is at the lowest point of declension."*
-> - 📜 **Charles Dickens (*A Christmas Carol in Prose; Being a Ghost Story of Christmas*):** *"Not coming!" said Bob, with a sudden declension in his high spirits; for he had been Tim's blood horse all the way from church, and had come home rampant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Show me now, William, some declensions of your pronouns."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inflection of nouns and pronouns and adjectives in indo-european languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Process of changing to an inferior state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Ours is at the lowest point of declension."*
+> - 📜 **Charles Dickens (*A Christmas Carol in Prose; Being a Ghost Story of Christmas*):** *"Not coming!" said Bob, with a sudden declension in his high spirits; for he had been Tim's blood horse all the way from church, and had come home rampant."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Show me now, William, some declensions of your pronouns."*

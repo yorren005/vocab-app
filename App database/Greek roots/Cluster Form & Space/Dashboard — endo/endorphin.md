@@ -5,13 +5,6 @@ status: unread
 ---
 # endorphin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurochemical occurring naturally in the brain and having analgesic properties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neurochemical occurring naturally in the brain and having analgesic properties.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endorphin designates a neurochemical occurring naturally in the brain and having analgesic properties."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurochemical occurring naturally in the brain and having analgesic properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neurochemical occurring naturally in the brain and having analgesic properties.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endorphin designates a neurochemical occurring naturally in the brain and having analgesic properties."*

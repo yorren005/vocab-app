@@ -5,13 +5,6 @@ status: unread
 ---
 # paradisaeidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Birds of paradise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Birds of paradise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paradisaeidae designates birds of paradise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Birds of paradise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Birds of paradise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paradisaeidae designates birds of paradise."*

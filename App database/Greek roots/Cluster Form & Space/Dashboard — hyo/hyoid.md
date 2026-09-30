@@ -5,13 +5,6 @@ status: unread
 ---
 # hyoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the hyoid bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A U-shaped bone or complex of bones that is situated between the base of the tongue and the larynx and that supports the tongue, the larynx, and their muscles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyoid designates of or relating to the hyoid bone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the hyoid bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A U-shaped bone or complex of bones that is situated between the base of the tongue and the larynx and that supports the tongue, the larynx, and their muscles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyoid designates of or relating to the hyoid bone."*

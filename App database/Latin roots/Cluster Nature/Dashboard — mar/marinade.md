@@ -5,13 +5,6 @@ status: unread
 ---
 # marinade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mixtures of vinegar or wine and oil with various spices and seasonings; used for soaking foods before cooking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soak in marinade.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marinade designates mixtures of vinegar or wine and oil with various spices and seasonings; used for soaking foods before cooking."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mixtures of vinegar or wine and oil with various spices and seasonings; used for soaking foods before cooking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soak in marinade.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marinade designates mixtures of vinegar or wine and oil with various spices and seasonings; used for soaking foods before cooking."*

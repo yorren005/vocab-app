@@ -5,13 +5,6 @@ status: unread
 ---
 # dolobid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nonsteroidal anti-inflammatory (trade name dolobid) used to treat arthritis and other inflammatory conditions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nonsteroidal anti-inflammatory (trade name dolobid) used to treat arthritis and other inflammatory conditions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dolobid designates nonsteroidal anti-inflammatory (trade name dolobid) used to treat arthritis and other inflammatory conditions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nonsteroidal anti-inflammatory (trade name dolobid) used to treat arthritis and other inflammatory conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nonsteroidal anti-inflammatory (trade name dolobid) used to treat arthritis and other inflammatory conditions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dolobid designates nonsteroidal anti-inflammatory (trade name dolobid) used to treat arthritis and other inflammatory conditions."*

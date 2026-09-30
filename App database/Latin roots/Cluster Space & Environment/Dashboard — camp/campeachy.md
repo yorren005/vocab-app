@@ -5,13 +5,6 @@ status: unread
 ---
 # campeachy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spiny shrub or small tree of central america and west indies having bipinnate leaves and racemes of small bright yellow flowers and yielding a hard brown or brownish-red heartwood used in preparing a black dye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spiny shrub or small tree of central america and west indies having bipinnate leaves and racemes of small bright yellow flowers and yielding a hard brown or brownish-red heartwood used in preparing a black dye.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, campeachy designates spiny shrub or small tree of central america and west indies having bipinnate leaves and racemes of small bright yellow flowers and yielding a hard brown or brownish-red heartwood used in preparing a black dye."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spiny shrub or small tree of central america and west indies having bipinnate leaves and racemes of small bright yellow flowers and yielding a hard brown or brownish-red heartwood used in preparing a black dye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spiny shrub or small tree of central america and west indies having bipinnate leaves and racemes of small bright yellow flowers and yielding a hard brown or brownish-red heartwood used in preparing a black dye.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, campeachy designates spiny shrub or small tree of central america and west indies having bipinnate leaves and racemes of small bright yellow flowers and yielding a hard brown or brownish-red heartwood used in preparing a black dye."*

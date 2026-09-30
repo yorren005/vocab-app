@@ -5,15 +5,6 @@ status: unread
 ---
 # impostor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes deceitful pretenses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes deceitful pretenses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not an impostor, that proclaim Myself against the level of mine aim, But know I think, and think I know most sure, My art is not past power nor you past cure."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It may be, You think me an impostor: no, good faith; I am the daughter to King Pericles, If good King Pericles be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An advocate for an impostor? hush!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes deceitful pretenses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes deceitful pretenses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not an impostor, that proclaim Myself against the level of mine aim, But know I think, and think I know most sure, My art is not past power nor you past cure."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It may be, You think me an impostor: no, good faith; I am the daughter to King Pericles, If good King Pericles be."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An advocate for an impostor? hush!"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # unsupervised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not supervised or under constant observation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not supervised or under constant observation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsupervised designates not supervised or under constant observation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not supervised or under constant observation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not supervised or under constant observation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsupervised designates not supervised or under constant observation."*

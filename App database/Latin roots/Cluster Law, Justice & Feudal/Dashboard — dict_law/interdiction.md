@@ -5,15 +5,6 @@ status: unread
 ---
 # interdiction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Authoritative prohibition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A court order prohibiting a party from doing a certain activity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, not to live.—O nation miserable, With an untitled tyrant bloody-scepter’d, When shalt thou see thy wholesome days again, Since that the truest issue of thy throne By his own interdiction stands accus’d, And does blaspheme his breed?"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Here is a simple view of the subject, that shows us at once the impropriety of a constitutional interdiction of such establishments, and the necessity of leaving the matter to the discretion and prudence of the legislature."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Pennsylvania and North Carolina are the two which contain the interdiction in these words: “As standing armies in time of peace are dangerous to liberty, THEY OUGHT NOT to be kept up.” This is, in truth, rather a CAUTION than a PROHIBITION."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Authoritative prohibition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A court order prohibiting a party from doing a certain activity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, not to live.—O nation miserable, With an untitled tyrant bloody-scepter’d, When shalt thou see thy wholesome days again, Since that the truest issue of thy throne By his own interdiction stands accus’d, And does blaspheme his breed?"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Here is a simple view of the subject, that shows us at once the impropriety of a constitutional interdiction of such establishments, and the necessity of leaving the matter to the discretion and prudence of the legislature."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Pennsylvania and North Carolina are the two which contain the interdiction in these words: “As standing armies in time of peace are dangerous to liberty, THEY OUGHT NOT to be kept up.” This is, in truth, rather a CAUTION than a PROHIBITION."*

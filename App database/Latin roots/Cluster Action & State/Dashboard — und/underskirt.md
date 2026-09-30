@@ -5,15 +5,6 @@ status: unread
 ---
 # underskirt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergarment worn under a skirt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergarment worn under a skirt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I grabbed the gourd and swiped it out as best I could with the tail of my underskirt."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I just wiped it off good with the tail of my underskirt."*
-> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"Jennings says that every one wears bows now, and that the underskirt should be frilled."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergarment worn under a skirt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergarment worn under a skirt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I grabbed the gourd and swiped it out as best I could with the tail of my underskirt."*
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I just wiped it off good with the tail of my underskirt."*
+> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"Jennings says that every one wears bows now, and that the underskirt should be frilled."*

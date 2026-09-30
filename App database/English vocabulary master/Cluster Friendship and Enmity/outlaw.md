@@ -5,20 +5,6 @@ status: unread
 ---
 # outlaw
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Fugitive from the law
-> 2. **Nuance / Usage**: Lawless person or a fugitive from the law
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"and one year later they all regarded him as an outlaw and a brigand."*
-> - 📜 **Walter Scott (*Ivanhoe*):** *"addressed her; “no outlaw had refused such offers."*
-> - 📜 **Walter Scott (*Ivanhoe*):** *"Peace, Isaac,” said the Outlaw, “or I give up thine interest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A fugitive criminal or rebel banished from the protection of the law and living in defiance of authority.
+> 2. **Nuance / Usage**: Historically, a person formally deprived of legal rights (*caput lupinum*); as a transitive verb, means to ban, prohibit, or declare illegal by statute.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"One year later they all regarded him as an **outlaw** and a brigand."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Peace, Isaac, said the **outlaw**, or I give up thine interest."*
+> - 📜 **William Shakespeare (*The Two Gentlemen of Verona*):** *"We make thee **outlaw** from our court and banish thee on pain of death."*

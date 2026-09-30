@@ -5,13 +5,6 @@ status: unread
 ---
 # angiopteris
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Highly variable species of very large primitive ferns of the pacific tropical areas with high rainfall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Highly variable species of very large primitive ferns of the pacific tropical areas with high rainfall.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiopteris designates highly variable species of very large primitive ferns of the pacific tropical areas with high rainfall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Highly variable species of very large primitive ferns of the pacific tropical areas with high rainfall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Highly variable species of very large primitive ferns of the pacific tropical areas with high rainfall.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiopteris designates highly variable species of very large primitive ferns of the pacific tropical areas with high rainfall."*

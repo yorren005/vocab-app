@@ -5,13 +5,6 @@ status: unread
 ---
 # hoder
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (norse mythology) a blind god; misled by loki, he kills his brother balder by throwing a shaft of mistletoe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (norse mythology) a blind god; misled by loki, he kills his brother balder by throwing a shaft of mistletoe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I remember me, when I was of the Assir, and of the Vanir, that Odin sat in judgment over men in the court of the twelve gods, and that their names were Thor, Baldur, Niord, Frey, Tyr, Bregi, Heimdal, Hoder, Vidar, Ull, Forseti, and Loki."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (norse mythology) a blind god; misled by loki, he kills his brother balder by throwing a shaft of mistletoe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (norse mythology) a blind god; misled by loki, he kills his brother balder by throwing a shaft of mistletoe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I remember me, when I was of the Assir, and of the Vanir, that Odin sat in judgment over men in the court of the twelve gods, and that their names were Thor, Baldur, Niord, Frey, Tyr, Bregi, Heimdal, Hoder, Vidar, Ull, Forseti, and Loki."*

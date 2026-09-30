@@ -5,15 +5,6 @@ status: unread
 ---
 # underwrite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Guarantee financial support of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protect by insurance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"No, father; I cannot underwrite Article Four (leave alone the rest), taking it ‘in the literal and grammatical sense’ as required by the Declaration; and, therefore, I can’t be a parson in the present state of affairs,” said Angel."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"He gets some banking house to underwrite the combination, that is, to agree to dispose of a number of shares to the investing public."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A certain number of shares go to the owners, a certain number to the banking house for its services in underwriting, and a substantial number, it may be ten or twenty per cent, of the enormous capitalization, to the promoter himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Guarantee financial support of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protect by insurance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"No, father; I cannot underwrite Article Four (leave alone the rest), taking it ‘in the literal and grammatical sense’ as required by the Declaration; and, therefore, I can’t be a parson in the present state of affairs,” said Angel."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"He gets some banking house to underwrite the combination, that is, to agree to dispose of a number of shares to the investing public."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A certain number of shares go to the owners, a certain number to the banking house for its services in underwriting, and a substantial number, it may be ten or twenty per cent, of the enormous capitalization, to the promoter himself."*

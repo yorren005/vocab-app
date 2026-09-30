@@ -5,15 +5,6 @@ status: unread
 ---
 # propulsion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A propelling force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of propelling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"To the whale, his tail is the sole means of propulsion."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Nozzles of cone-shaped propulsion units on gimbals hung in neutral."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In time the integrated drives of the most advanced propulsion thrusters took on the full load, and the dream of humankind was on its way to the Alpha Centauri star system, on schedule."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A propelling force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of propelling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"To the whale, his tail is the sole means of propulsion."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Nozzles of cone-shaped propulsion units on gimbals hung in neutral."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In time the integrated drives of the most advanced propulsion thrusters took on the full load, and the dream of humankind was on its way to the Alpha Centauri star system, on schedule."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # creature
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A living organism characterized by voluntary movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A human being; `wight' is an archaic term.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been, madam, a wicked creature, as you and all flesh and blood are; and indeed I do marry that I may repent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou canst like this creature as a maid, I can create the rest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, right; good creature, wheresoe’er she is, Her heart weighs sadly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A living organism characterized by voluntary movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A human being; `wight' is an archaic term.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been, madam, a wicked creature, as you and all flesh and blood are; and indeed I do marry that I may repent."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou canst like this creature as a maid, I can create the rest."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, right; good creature, wheresoe’er she is, Her heart weighs sadly."*

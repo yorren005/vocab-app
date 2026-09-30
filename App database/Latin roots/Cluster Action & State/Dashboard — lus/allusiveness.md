@@ -5,13 +5,6 @@ status: unread
 ---
 # allusiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quality characterized by indirect reference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality characterized by indirect reference.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Clement is the only man who writes in this way, with an allusiveness beyond Plutarch's, and a fancy as comprehensive as his charity and his experience of literature and religion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quality characterized by indirect reference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality characterized by indirect reference.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Clement is the only man who writes in this way, with an allusiveness beyond Plutarch's, and a fancy as comprehensive as his charity and his experience of literature and religion."*

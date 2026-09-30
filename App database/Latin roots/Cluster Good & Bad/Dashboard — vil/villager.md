@@ -5,15 +5,6 @@ status: unread
 ---
 # villager
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who has lived in a village most of their life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who has lived in a village most of their life.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Till then, my noble friend, chew upon this: Brutus had rather be a villager Than to repute himself a son of Rome Under these hard conditions as this time Is like to lay upon us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We are a few of those collected here That ruder tongues distinguish “villager.” And to say verity, and not to fable, We are a merry rout, or else a _rabble_, Or company, or by a figure, _chorus_, That ’fore thy dignity will dance a morris."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"As the flames rose, the _Te Deum_ was sung, and a villager thundered out a parody in the Norman dialect of the hymn _ut queant laxis_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who has lived in a village most of their life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who has lived in a village most of their life.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Till then, my noble friend, chew upon this: Brutus had rather be a villager Than to repute himself a son of Rome Under these hard conditions as this time Is like to lay upon us."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We are a few of those collected here That ruder tongues distinguish “villager.” And to say verity, and not to fable, We are a merry rout, or else a _rabble_, Or company, or by a figure, _chorus_, That ’fore thy dignity will dance a morris."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"As the flames rose, the _Te Deum_ was sung, and a villager thundered out a parody in the Norman dialect of the hymn _ut queant laxis_."*

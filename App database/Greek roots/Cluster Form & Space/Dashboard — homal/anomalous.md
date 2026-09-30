@@ -5,15 +5,6 @@ status: unread
 ---
 # anomalous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inconsistent with or deviating from what is usual, normal, or expected : irregular, unusual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of uncertain nature or classification.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He was young, but not so young as Isabel, and there were moments when he felt his own footing at the Castle to be vaguely anomalous."*
-> - 📜 **George Eliot (*Middlemarch*):** *"On leaving Rugby he declined to go to an English university, where I would gladly have placed him, and chose what I must consider the anomalous course of studying at Heidelberg."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Physiognomically regarded, the Sperm Whale is an anomalous creature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inconsistent with or deviating from what is usual, normal, or expected : irregular, unusual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of uncertain nature or classification.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"He was young, but not so young as Isabel, and there were moments when he felt his own footing at the Castle to be vaguely anomalous."*
+> - 📜 **George Eliot (*Middlemarch*):** *"On leaving Rugby he declined to go to an English university, where I would gladly have placed him, and chose what I must consider the anomalous course of studying at Heidelberg."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Physiognomically regarded, the Sperm Whale is an anomalous creature."*

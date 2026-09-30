@@ -5,15 +5,6 @@ status: unread
 ---
 # composed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form the substance of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Write music.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That I might see what the old world could say, To this composed wonder of your frame, Whether we are mended, or whether better they, Or whether revolution be the same."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must lay lime to tangle her desires By wailful sonnets, whose composed rhymes Should be full-fraught with serviceable vows."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There were no woman Worth so composed a man!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Form the substance of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Write music.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That I might see what the old world could say, To this composed wonder of your frame, Whether we are mended, or whether better they, Or whether revolution be the same."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must lay lime to tangle her desires By wailful sonnets, whose composed rhymes Should be full-fraught with serviceable vows."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There were no woman Worth so composed a man!"*

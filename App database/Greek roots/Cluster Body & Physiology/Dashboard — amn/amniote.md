@@ -5,13 +5,6 @@ status: unread
 ---
 # amniote
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group (Amniota) of vertebrates that undergo embryonic or fetal development within an amnion and include the birds, reptiles, and mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group (Amniota) of vertebrates that undergo embryonic or fetal development within an amnion and include the birds, reptiles, and mammals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amniote designates any of a group (amniota) of vertebrates that undergo embryonic or fetal development within an amnion and include the birds, reptiles, and mammals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group (Amniota) of vertebrates that undergo embryonic or fetal development within an amnion and include the birds, reptiles, and mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group (Amniota) of vertebrates that undergo embryonic or fetal development within an amnion and include the birds, reptiles, and mammals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amniote designates any of a group (amniota) of vertebrates that undergo embryonic or fetal development within an amnion and include the birds, reptiles, and mammals."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # mei
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: —2003 wife of Chiang Kai-shek.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 1897—2003 wife of Chiang Kai-shek.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Miserere, mei Deus", Rang faint from the convent choir."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Concedo quod predicti <g>Prior</g> et Canonici omnes libertates prædictas et liberas consuetudines habeant adeo liberè et quietè, pacificè et integrè sicut ego et antecessores mei, ipsius libertatis unquam melius, plenius, et liberiùs habuimus."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Once more adieu; “vale tandem, non immemor mei”."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: —2003 wife of Chiang Kai-shek.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 1897—2003 wife of Chiang Kai-shek.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Miserere, mei Deus", Rang faint from the convent choir."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Concedo quod predicti <g>Prior</g> et Canonici omnes libertates prædictas et liberas consuetudines habeant adeo liberè et quietè, pacificè et integrè sicut ego et antecessores mei, ipsius libertatis unquam melius, plenius, et liberiùs habuimus."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Once more adieu; “vale tandem, non immemor mei”."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # autopilot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device for automatically steering ships, aircraft, and spacecraft; also : the automatic control provided by such a device.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Automatic pilot.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autopilot designates a device for automatically steering ships, aircraft, and spacecraft; also : the automatic control provided by such a device."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device for automatically steering ships, aircraft, and spacecraft; also : the automatic control provided by such a device.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Automatic pilot.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autopilot designates a device for automatically steering ships, aircraft, and spacecraft; also : the automatic control provided by such a device."*

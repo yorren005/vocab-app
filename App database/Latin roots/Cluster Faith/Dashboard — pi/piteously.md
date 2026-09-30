@@ -5,15 +5,6 @@ status: unread
 ---
 # piteously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a piteous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a piteous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say that the last I spoke was “Antony”, And word it, prithee, piteously."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, assure thee, Lucius, ’Twill vex thy soul to hear what I shall speak; For I must talk of murders, rapes, and massacres, Acts of black night, abominable deeds, Complots of mischief, treason, villainies, Ruthful to hear, yet piteously performed."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I cannot consent to hear another word, sir,” I returned, “Unless you get up from the carpet directly and go and sit down at the table as you ought to do if you have any sense at all.” He looked piteously, but slowly rose and did so."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a piteous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a piteous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say that the last I spoke was “Antony”, And word it, prithee, piteously."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, assure thee, Lucius, ’Twill vex thy soul to hear what I shall speak; For I must talk of murders, rapes, and massacres, Acts of black night, abominable deeds, Complots of mischief, treason, villainies, Ruthful to hear, yet piteously performed."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I cannot consent to hear another word, sir,” I returned, “Unless you get up from the carpet directly and go and sit down at the table as you ought to do if you have any sense at all.” He looked piteously, but slowly rose and did so."*

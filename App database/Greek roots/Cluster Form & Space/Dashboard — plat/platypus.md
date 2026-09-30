@@ -5,13 +5,6 @@ status: unread
 ---
 # platypus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small carnivorous aquatic monotreme mammal (Ornithorhynchus anatinus) of eastern Australia and Tasmania that has a fleshy bill resembling that of a duck, dense fur, webbed feet, and a broad flattened tail —called also duck-billed platypus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small carnivorous aquatic monotreme mammal (Ornithorhynchus anatinus) of eastern Australia and Tasmania that has a fleshy bill resembling that of a duck, dense fur, webbed feet, and a broad flattened tail —called also duck-billed platypus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platypus designates a small carnivorous aquatic monotreme mammal (ornithorhynchus anatinus) of eastern australia and tasmania that has a fleshy bill resembling that of a duck, dense fur, webbed feet, and a broad flattened tail —called also duck-billed platypus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small carnivorous aquatic monotreme mammal (Ornithorhynchus anatinus) of eastern Australia and Tasmania that has a fleshy bill resembling that of a duck, dense fur, webbed feet, and a broad flattened tail —called also duck-billed platypus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small carnivorous aquatic monotreme mammal (Ornithorhynchus anatinus) of eastern Australia and Tasmania that has a fleshy bill resembling that of a duck, dense fur, webbed feet, and a broad flattened tail —called also duck-billed platypus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platypus designates a small carnivorous aquatic monotreme mammal (ornithorhynchus anatinus) of eastern australia and tasmania that has a fleshy bill resembling that of a duck, dense fur, webbed feet, and a broad flattened tail —called also duck-billed platypus."*

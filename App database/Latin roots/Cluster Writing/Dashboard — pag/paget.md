@@ -5,13 +5,6 @@ status: unread
 ---
 # paget
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English pathologist who discovered the cause of trichinosis (1814-1899).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English pathologist who discovered the cause of trichinosis (1814-1899).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"In the following carriage were the honourable Mrs Paget, Miss de Courcy and the honourable Gerald Ward A."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English pathologist who discovered the cause of trichinosis (1814-1899).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English pathologist who discovered the cause of trichinosis (1814-1899).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"In the following carriage were the honourable Mrs Paget, Miss de Courcy and the honourable Gerald Ward A."*

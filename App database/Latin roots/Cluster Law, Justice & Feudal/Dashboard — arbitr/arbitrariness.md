@@ -5,13 +5,6 @@ status: unread
 ---
 # arbitrariness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of acting unpredictably and more from whim or caprice than from reason or judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of acting unpredictably and more from whim or caprice than from reason or judgment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Nicholas, though he had never seen Ilágin, with his usual absence of moderation in judgment, hated him cordially from reports of his arbitrariness and violence, and regarded him as his bitterest foe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of acting unpredictably and more from whim or caprice than from reason or judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of acting unpredictably and more from whim or caprice than from reason or judgment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Nicholas, though he had never seen Ilágin, with his usual absence of moderation in judgment, hated him cordially from reports of his arbitrariness and violence, and regarded him as his bitterest foe."*

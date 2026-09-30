@@ -5,15 +5,6 @@ status: unread
 ---
 # grad
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One-hundredth of a right angle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who has received a degree from a school (high school or college or university).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"BY WILLIAM BEATTIE, M.D., GRAD."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It had the same long regularly graded retreating slope from above the brows, which were likewise very projecting, like two long promontories thickly wooded on top."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It had the same long regularly graded retreating slope from above the brows, which were likewise very projecting, like two long promontories thickly wooded on top."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One-hundredth of a right angle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who has received a degree from a school (high school or college or university).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"BY WILLIAM BEATTIE, M.D., GRAD."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It had the same long regularly graded retreating slope from above the brows, which were likewise very projecting, like two long promontories thickly wooded on top."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It had the same long regularly graded retreating slope from above the brows, which were likewise very projecting, like two long promontories thickly wooded on top."*

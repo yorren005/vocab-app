@@ -5,14 +5,6 @@ status: unread
 ---
 # theogony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An account of the origin and descent of the gods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An account of the origin and descent of the gods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Truth is not the basis of 170:3 theogony."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Plate 5 shows a fine example of a horse in coloured glazes, a fierce figure in warrior's guise, who is, no doubt, one of the Lokapalas or Guardians of the Four Quarters in the Buddhist theogony, and a figure of an actor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An account of the origin and descent of the gods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An account of the origin and descent of the gods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Truth is not the basis of 170:3 theogony."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Plate 5 shows a fine example of a horse in coloured glazes, a fierce figure in warrior's guise, who is, no doubt, one of the Lokapalas or Guardians of the Four Quarters in the Buddhist theogony, and a figure of an actor."*

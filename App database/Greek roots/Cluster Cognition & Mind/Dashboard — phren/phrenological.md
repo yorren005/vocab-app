@@ -5,15 +5,6 @@ status: unread
 ---
 # phrenological
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to phrenology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to phrenology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In respect of ideality, reverence, wonder, and other such phrenological attributes, it is no worse off than it used to be."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor have Gall and his disciple Spurzheim failed to throw out some hints touching the phrenological characteristics of other beings than man."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor have Gall and his disciple Spurzheim failed to throw out some hints touching the phrenological characteristics of other beings than man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to phrenology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to phrenology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"In respect of ideality, reverence, wonder, and other such phrenological attributes, it is no worse off than it used to be."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor have Gall and his disciple Spurzheim failed to throw out some hints touching the phrenological characteristics of other beings than man."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor have Gall and his disciple Spurzheim failed to throw out some hints touching the phrenological characteristics of other beings than man."*

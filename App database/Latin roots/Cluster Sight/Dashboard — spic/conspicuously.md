@@ -5,15 +5,6 @@ status: unread
 ---
 # conspicuously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner tending to attract attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a prominent way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Next: how shall we define the whale, by his obvious externals, so as conspicuously to label him for all time to come?"*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Braun thought, and I readily concurred in the opinion, that he would do best not to essay an exhaustive history, but to select certain conspicuously interesting types and proceed by the method of close analysis, characterization and comparison."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"One of these was a “wing,” conspicuously irrelevant in point of architecture, and no less rebellious in the matter of purpose; for it was a combination of laboratory, menagerie, and museum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner tending to attract attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a prominent way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Next: how shall we define the whale, by his obvious externals, so as conspicuously to label him for all time to come?"*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Braun thought, and I readily concurred in the opinion, that he would do best not to essay an exhaustive history, but to select certain conspicuously interesting types and proceed by the method of close analysis, characterization and comparison."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"One of these was a “wing,” conspicuously irrelevant in point of architecture, and no less rebellious in the matter of purpose; for it was a combination of laboratory, menagerie, and museum."*

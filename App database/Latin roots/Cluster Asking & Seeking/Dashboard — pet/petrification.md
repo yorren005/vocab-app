@@ -5,13 +5,6 @@ status: unread
 ---
 # petrification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of turning some plant material into stone by infiltration with water carrying mineral particles without changing the original shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of turning some plant material into stone by infiltration with water carrying mineral particles without changing the original shape.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrification designates the process of turning some plant material into stone by infiltration with water carrying mineral particles without changing the original shape."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of turning some plant material into stone by infiltration with water carrying mineral particles without changing the original shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of turning some plant material into stone by infiltration with water carrying mineral particles without changing the original shape.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrification designates the process of turning some plant material into stone by infiltration with water carrying mineral particles without changing the original shape."*

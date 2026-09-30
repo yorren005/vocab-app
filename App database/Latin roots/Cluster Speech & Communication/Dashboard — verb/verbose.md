@@ -5,15 +5,6 @@ status: unread
 ---
 # verbose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Using or containing too many words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using or containing too many words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Chadband’s piling verbose flights of stairs, one upon another, after this fashion."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He was verbose and reminiscent."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Still more distinct, and among Smollett's personages a more novel figure, is the Captain's nephew, the dapper, verbose, tender-hearted lawyer, Tom Clarke."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Using or containing too many words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using or containing too many words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Chadband’s piling verbose flights of stairs, one upon another, after this fashion."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He was verbose and reminiscent."*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Still more distinct, and among Smollett's personages a more novel figure, is the Captain's nephew, the dapper, verbose, tender-hearted lawyer, Tom Clarke."*

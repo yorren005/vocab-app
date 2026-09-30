@@ -5,15 +5,6 @@ status: unread
 ---
 # commandment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that is commanded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A doctrine that is taught.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I thought that all things had been savage here And therefore put I on the countenance Of stern commandment."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say you chose him More after our commandment than as guided By your own true affections, and that your minds, Preoccupied with what you rather must do Than what you should, made you against the grain To voice him consul."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it shall please you to make me a wholesome answer, I will do your mother’s commandment; if not, your pardon and my return shall be the end of my business."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that is commanded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A doctrine that is taught.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I thought that all things had been savage here And therefore put I on the countenance Of stern commandment."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say you chose him More after our commandment than as guided By your own true affections, and that your minds, Preoccupied with what you rather must do Than what you should, made you against the grain To voice him consul."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it shall please you to make me a wholesome answer, I will do your mother’s commandment; if not, your pardon and my return shall be the end of my business."*

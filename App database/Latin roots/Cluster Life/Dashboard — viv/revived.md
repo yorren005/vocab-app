@@ -5,15 +5,6 @@ status: unread
 ---
 # revived
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to regain consciousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give new life or energy to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What thing, in honour, had my father lost, That need to be revived and breathed in me?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O young John Talbot, I did send for thee To tutor thee in stratagems of war, That Talbot’s name might be in thee revived When sapless age and weak unable limbs Should bring thy father to his drooping chair."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"At that time, too, apparently, all the reports which had long ago faded were revived as to a ghost who was supposed to wander about the castle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to regain consciousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give new life or energy to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What thing, in honour, had my father lost, That need to be revived and breathed in me?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O young John Talbot, I did send for thee To tutor thee in stratagems of war, That Talbot’s name might be in thee revived When sapless age and weak unable limbs Should bring thy father to his drooping chair."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"At that time, too, apparently, all the reports which had long ago faded were revived as to a ghost who was supposed to wander about the castle."*

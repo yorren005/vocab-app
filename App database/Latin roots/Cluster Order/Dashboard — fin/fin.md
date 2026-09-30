@@ -5,15 +5,6 @@ status: unread
 ---
 # fin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of four and one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a pair of decorations projecting above the rear fenders of an automobile.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, when fowls have no feathers and fish have no fin."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For a fish without a fin, there’s a fowl without a feather."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know’st thou not That I have fin’d these bones of mine for ransom?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of four and one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a pair of decorations projecting above the rear fenders of an automobile.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, when fowls have no feathers and fish have no fin."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For a fish without a fin, there’s a fowl without a feather."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know’st thou not That I have fin’d these bones of mine for ransom?"*

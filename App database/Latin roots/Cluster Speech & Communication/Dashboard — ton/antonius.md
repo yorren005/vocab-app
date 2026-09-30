@@ -5,15 +5,6 @@ status: unread
 ---
 # antonius
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman general under julius caesar in the gallic wars; repudiated his wife for the egyptian queen cleopatra; they were defeated by octavian at actium (83-30 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman general under julius caesar in the gallic wars; repudiated his wife for the egyptian queen cleopatra; they were defeated by octavian at actium (83-30 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is Caesar with Antonius prized so slight?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By Jupiter, Were I the wearer of Antonius’ beard, I would not shave’t today."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But she is now the wife of Marcus Antonius."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman general under julius caesar in the gallic wars; repudiated his wife for the egyptian queen cleopatra; they were defeated by octavian at actium (83-30 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman general under julius caesar in the gallic wars; repudiated his wife for the egyptian queen cleopatra; they were defeated by octavian at actium (83-30 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is Caesar with Antonius prized so slight?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By Jupiter, Were I the wearer of Antonius’ beard, I would not shave’t today."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But she is now the wife of Marcus Antonius."*

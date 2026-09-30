@@ -5,13 +5,6 @@ status: unread
 ---
 # argentinosaur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Huge herbivorous dinosaur of cretaceous found in argentina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Huge herbivorous dinosaur of cretaceous found in argentina.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, argentinosaur designates huge herbivorous dinosaur of cretaceous found in argentina."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Huge herbivorous dinosaur of cretaceous found in argentina.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Huge herbivorous dinosaur of cretaceous found in argentina.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, argentinosaur designates huge herbivorous dinosaur of cretaceous found in argentina."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # thermoelectricity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electricity produced by heat (as in a thermocouple).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electricity produced by heat (as in a thermocouple).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoelectricity designates electricity produced by heat (as in a thermocouple)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Electricity produced by heat (as in a thermocouple).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electricity produced by heat (as in a thermocouple).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoelectricity designates electricity produced by heat (as in a thermocouple)."*

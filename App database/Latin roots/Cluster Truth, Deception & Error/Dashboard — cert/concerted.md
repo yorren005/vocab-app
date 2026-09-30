@@ -5,15 +5,6 @@ status: unread
 ---
 # concerted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Contrive (a plan) by mutual agreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Settle by agreement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If, however, there is a concerted movement to spend the surplus money, there results a general bidding down of the value of money, a general bidding up of the prices of goods."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Plans of resistance would be concerted."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But the precautions which have been so happily concerted in the system under consideration, promise an effectual security against this mischief."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contrive (a plan) by mutual agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Settle by agreement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If, however, there is a concerted movement to spend the surplus money, there results a general bidding down of the value of money, a general bidding up of the prices of goods."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Plans of resistance would be concerted."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But the precautions which have been so happily concerted in the system under consideration, promise an effectual security against this mischief."*

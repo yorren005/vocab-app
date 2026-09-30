@@ -5,15 +5,6 @@ status: unread
 ---
 # hepatica
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several plants of the genus hepatica having three-lobed leaves and white or pinkish flowers in early spring; of moist and mossy subalpine woodland areas of north temperate regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common liverwort.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"A line descending from the vital, beneath the congress of it and the hepatica, to the tuberculum of Saturn, shows an envious man, who rejoices at another’s calamity, the sight of others concurring."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"II.--OF THE HEPATICA, OR NATURAL MEAN."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"If to the hepatica, it argues honest behavior, and prolongs life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several plants of the genus hepatica having three-lobed leaves and white or pinkish flowers in early spring; of moist and mossy subalpine woodland areas of north temperate regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common liverwort.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"A line descending from the vital, beneath the congress of it and the hepatica, to the tuberculum of Saturn, shows an envious man, who rejoices at another’s calamity, the sight of others concurring."*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"II.--OF THE HEPATICA, OR NATURAL MEAN."*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"If to the hepatica, it argues honest behavior, and prolongs life."*

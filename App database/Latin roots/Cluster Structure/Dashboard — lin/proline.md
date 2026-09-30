@@ -5,13 +5,6 @@ status: unread
 ---
 # proline
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amino acid that is found in many proteins (especially collagen).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amino acid that is found in many proteins (especially collagen).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proline designates an amino acid that is found in many proteins (especially collagen)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An amino acid that is found in many proteins (especially collagen).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amino acid that is found in many proteins (especially collagen).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proline designates an amino acid that is found in many proteins (especially collagen)."*

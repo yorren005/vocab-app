@@ -5,13 +5,6 @@ status: unread
 ---
 # radio-phonograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electronic equipment consisting of a combination of a radio receiver and a record player.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electronic equipment consisting of a combination of a radio receiver and a record player.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radio-phonograph designates electronic equipment consisting of a combination of a radio receiver and a record player."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Electronic equipment consisting of a combination of a radio receiver and a record player.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electronic equipment consisting of a combination of a radio receiver and a record player.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radio-phonograph designates electronic equipment consisting of a combination of a radio receiver and a record player."*

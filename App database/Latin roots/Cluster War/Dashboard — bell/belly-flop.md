@@ -5,13 +5,6 @@ status: unread
 ---
 # belly-flop
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dive so that one hits the water with one's belly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dive so that one hits the water with one's belly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, belly-flop designates dive so that one hits the water with one's belly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dive so that one hits the water with one's belly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dive so that one hits the water with one's belly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, belly-flop designates dive so that one hits the water with one's belly."*

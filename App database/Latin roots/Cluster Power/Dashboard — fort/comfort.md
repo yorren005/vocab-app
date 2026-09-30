@@ -5,15 +5,6 @@ status: unread
 ---
 # comfort
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being relaxed and feeling no pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of freedom from worry or disappointment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou, to whom my jewels trifles are, Most worthy comfort, now my greatest grief, Thou best of dearest, and mine only care, Art left the prey of every vulgar thief."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, there is some comfort in the news, some comfort; your son will not be kill’d so soon as I thought he would."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do pity his distress in my similes of comfort, and leave him to your lordship. [_Exit._] PAROLLES."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being relaxed and feeling no pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of freedom from worry or disappointment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou, to whom my jewels trifles are, Most worthy comfort, now my greatest grief, Thou best of dearest, and mine only care, Art left the prey of every vulgar thief."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, there is some comfort in the news, some comfort; your son will not be kill’d so soon as I thought he would."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do pity his distress in my similes of comfort, and leave him to your lordship. [_Exit._] PAROLLES."*

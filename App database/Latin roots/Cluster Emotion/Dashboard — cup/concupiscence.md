@@ -5,13 +5,6 @@ status: unread
 ---
 # concupiscence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A desire for sexual intimacy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A desire for sexual intimacy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Part 1*):** *"C._ 1710. _Underwritten._ Thou Fool, 'twas done for want of Sense, I tickl'd her Concupiscence: And that is enough to save her Credit. _S."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A desire for sexual intimacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A desire for sexual intimacy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Part 1*):** *"C._ 1710. _Underwritten._ Thou Fool, 'twas done for want of Sense, I tickl'd her Concupiscence: And that is enough to save her Credit. _S."*

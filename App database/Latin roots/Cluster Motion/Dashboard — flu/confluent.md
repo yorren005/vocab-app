@@ -5,15 +5,6 @@ status: unread
 ---
 # confluent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch that flows into the main stream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flowing together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A confluent small-pox had in all directions flowed over his face, and left it like the complicated ribbed bed of a torrent, when the rushing waters have been dried up."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"A confluent small-pox had in all directions flowed over his face, and left it like the complicated ribbed bed of a torrent, when the rushing waters have been dried up."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"And this, whatever it is, is the outcome of many confluent elements--of temperament, environment and experience, perhaps, in chief."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch that flows into the main stream.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flowing together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A confluent small-pox had in all directions flowed over his face, and left it like the complicated ribbed bed of a torrent, when the rushing waters have been dried up."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"A confluent small-pox had in all directions flowed over his face, and left it like the complicated ribbed bed of a torrent, when the rushing waters have been dried up."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"And this, whatever it is, is the outcome of many confluent elements--of temperament, environment and experience, perhaps, in chief."*

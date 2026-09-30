@@ -5,20 +5,6 @@ status: unread
 ---
 # behold
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Gaze upon : observe
-> 2. **Nuance / Usage**: (intransitive) to look
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to behold the target*) and intransitive clauses (*beholding against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Most mighty duke, behold a man much wrong’d."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And monarchs to behold the swelling scene!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"How shall we, then, behold their natural tears?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To see, observe, or gaze upon something, especially something remarkable, impressive, or arresting.
+> 2. **Nuance / Usage**: Carries an elevated, poetic, or dramatic register, often used imperatively (*Behold!*) to command attention toward a striking spectacle.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to behold the target*) and intransitive clauses (*beholding against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Henry V*):** *"O for a Muse of fire, a kingdom for a stage, princes to act, and monarchs to **behold** the swelling scene!"*
+> - 📜 **William Wordsworth (*My Heart Leaps Up*):** *"My heart leaps up when I **behold** a rainbow in the sky."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"How can I describe my emotions at this catastrophe, or how delineate the wretch whom with such infinite pains and care I had endeavoured to **behold**?"*

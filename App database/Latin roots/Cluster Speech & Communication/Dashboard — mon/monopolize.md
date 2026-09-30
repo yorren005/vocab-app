@@ -5,15 +5,6 @@ status: unread
 ---
 # monopolize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have and control fully and exclusively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have or exploit a monopoly of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Nor did she monopolize the conversation."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"They were not allowed to monopolize this issue by the Democrats, and their arrogance, if such it may be called, was punished by a more complete assertion of Democratic power in the South than was ever known before."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"But might not the foreign article be imported in vast quantities, to glut our markets, break down our establishments, and ultimately to enable the foreigner to monopolize the supply of our consumption?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have and control fully and exclusively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have or exploit a monopoly of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Nor did she monopolize the conversation."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"They were not allowed to monopolize this issue by the Democrats, and their arrogance, if such it may be called, was punished by a more complete assertion of Democratic power in the South than was ever known before."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"But might not the foreign article be imported in vast quantities, to glut our markets, break down our establishments, and ultimately to enable the foreigner to monopolize the supply of our consumption?"*

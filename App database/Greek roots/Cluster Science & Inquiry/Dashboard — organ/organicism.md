@@ -5,13 +5,6 @@ status: unread
 ---
 # organicism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Theory that the total organization of an organism rather than the functioning of individual organs is the determinant of life processes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Theory that the total organization of an organism rather than the functioning of individual organs is the determinant of life processes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, organicism designates theory that the total organization of an organism rather than the functioning of individual organs is the determinant of life processes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Theory that the total organization of an organism rather than the functioning of individual organs is the determinant of life processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Theory that the total organization of an organism rather than the functioning of individual organs is the determinant of life processes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, organicism designates theory that the total organization of an organism rather than the functioning of individual organs is the determinant of life processes."*

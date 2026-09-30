@@ -5,15 +5,6 @@ status: unread
 ---
 # sensitive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who serves as an intermediary between the living and the dead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Responsive to physical stimuli.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Beside him is a spare cushion with which he is always provided in order that he may have something to throw at the venerable partner of his respected age whenever she makes an allusion to money—a subject on which he is particularly sensitive."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop’s deportment is very beautiful, you know, Esther,” said Caddy, “and his feelings are extremely sensitive.” “Are they, my dear?” “Oh, extremely sensitive."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"So sensitive the two friends happen to be that the air is full of these phantoms, and the two look over their shoulders by one consent to see that the door is shut."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who serves as an intermediary between the living and the dead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Responsive to physical stimuli.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Beside him is a spare cushion with which he is always provided in order that he may have something to throw at the venerable partner of his respected age whenever she makes an allusion to money—a subject on which he is particularly sensitive."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop’s deportment is very beautiful, you know, Esther,” said Caddy, “and his feelings are extremely sensitive.” “Are they, my dear?” “Oh, extremely sensitive."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"So sensitive the two friends happen to be that the air is full of these phantoms, and the two look over their shoulders by one consent to see that the door is shut."*

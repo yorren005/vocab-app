@@ -5,14 +5,6 @@ status: unread
 ---
 # programming
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Setting an order and time for planned events.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creating a sequence of instructions to enable the computer to do something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Expendable is bad enough; you're programming us into suicide." "Not quite, Brad."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Urgent to curtail if necessary expenditure on Public Relations, National Programming and Radio during the next two years."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Setting an order and time for planned events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creating a sequence of instructions to enable the computer to do something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Expendable is bad enough; you're programming us into suicide." "Not quite, Brad."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Urgent to curtail if necessary expenditure on Public Relations, National Programming and Radio during the next two years."*

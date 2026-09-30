@@ -5,15 +5,6 @@ status: unread
 ---
 # librarian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A professional person trained in library science and engaged in library services.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A professional person trained in library science and engaged in library services.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sladdery the librarian, and indeed the great farmer of gorgeous sheep, admits this very day, “Why yes, sir, there certainly ARE reports concerning Lady Dedlock, very current indeed among my high connexion, sir."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The librarian now stepped up to me, and demanded whether I had a card of admission."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And I'll be remembered only when some old librarian dusts a forgotten book."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A professional person trained in library science and engaged in library services.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A professional person trained in library science and engaged in library services.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Sladdery the librarian, and indeed the great farmer of gorgeous sheep, admits this very day, “Why yes, sir, there certainly ARE reports concerning Lady Dedlock, very current indeed among my high connexion, sir."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The librarian now stepped up to me, and demanded whether I had a card of admission."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And I'll be remembered only when some old librarian dusts a forgotten book."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # infant's-breath
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eurasian herb with ample panicles of small white flowers; naturalized in north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eurasian herb with ample panicles of small white flowers; naturalized in north america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, infant's-breath designates eurasian herb with ample panicles of small white flowers; naturalized in north america."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eurasian herb with ample panicles of small white flowers; naturalized in north america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eurasian herb with ample panicles of small white flowers; naturalized in north america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, infant's-breath designates eurasian herb with ample panicles of small white flowers; naturalized in north america."*

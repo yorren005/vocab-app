@@ -5,13 +5,6 @@ status: unread
 ---
 # levelheaded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exercising or showing good judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exercising or showing good judgment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Being a levelheaded individual who could give points to not a few in point of shrewd observation he also remarked on his very dilapidated hat and slouchy wearing apparel generally testifying to a chronic impecuniosity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exercising or showing good judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exercising or showing good judgment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Being a levelheaded individual who could give points to not a few in point of shrewd observation he also remarked on his very dilapidated hat and slouchy wearing apparel generally testifying to a chronic impecuniosity."*

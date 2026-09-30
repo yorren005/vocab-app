@@ -5,13 +5,6 @@ status: unread
 ---
 # ossification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The developmental process of bone formation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The calcification of soft tissue into a bonelike material.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Formation from thought 423:27 Ossification or any abnormal condition or derange- ment of the body is as directly the action of mortal mind as is dementia or insanity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The developmental process of bone formation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The calcification of soft tissue into a bonelike material.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Formation from thought 423:27 Ossification or any abnormal condition or derange- ment of the body is as directly the action of mortal mind as is dementia or insanity."*

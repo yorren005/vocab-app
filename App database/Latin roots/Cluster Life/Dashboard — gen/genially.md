@@ -5,15 +5,6 @@ status: unread
 ---
 # genially
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an affable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an affable manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then kindness requires that I shouldn’t go near them—and I won’t.” He finished by genially kissing my hand and thanking me."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rest confidently here.” Soothingly, like the gentle rustling of the leaves; and genially, like the ripening weather; and radiantly and beneficently, like the sunshine, he went on."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester (so at least I thought) such a wealth of the power of communicating happiness, that to taste but of the crumbs he scattered to stray and stranger birds like me, was to feast genially."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an affable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an affable manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Then kindness requires that I shouldn’t go near them—and I won’t.” He finished by genially kissing my hand and thanking me."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Rest confidently here.” Soothingly, like the gentle rustling of the leaves; and genially, like the ripening weather; and radiantly and beneficently, like the sunshine, he went on."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester (so at least I thought) such a wealth of the power of communicating happiness, that to taste but of the crumbs he scattered to stray and stranger birds like me, was to feast genially."*

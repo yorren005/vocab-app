@@ -5,15 +5,6 @@ status: unread
 ---
 # dissonance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conflict of people's opinions or actions or characters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The auditory experience of sound that lacks musical quality; sound that is a disagreeable auditory experience.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"In the name of all dissonance, what can it be?” It was very remarkable into what prominent relief—even as if a dim picture should leap suddenly from its canvas—Clifford’s character was thrown by this apparently trifling annoyance."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The baker’s cart, with the harsh music of its bells, had a pleasant effect on Clifford, because, as few things else did, it jingled the very dissonance of yore."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The final echoes of Alice Pyncheon’s performance (or Clifford’s, if his we must consider it) were driven away by no less vulgar a dissonance than the ringing of the shop-bell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conflict of people's opinions or actions or characters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The auditory experience of sound that lacks musical quality; sound that is a disagreeable auditory experience.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"In the name of all dissonance, what can it be?” It was very remarkable into what prominent relief—even as if a dim picture should leap suddenly from its canvas—Clifford’s character was thrown by this apparently trifling annoyance."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The baker’s cart, with the harsh music of its bells, had a pleasant effect on Clifford, because, as few things else did, it jingled the very dissonance of yore."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The final echoes of Alice Pyncheon’s performance (or Clifford’s, if his we must consider it) were driven away by no less vulgar a dissonance than the ringing of the shop-bell."*

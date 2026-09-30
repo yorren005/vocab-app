@@ -5,15 +5,6 @@ status: unread
 ---
 # candor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ability to make judgments free from discrimination or dishonesty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being honest and straightforward in attitude and speech.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon would take your place, there would be gain, instead of loss.” But there was still a weight on his mind which arrested this cheerful candor."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The national government, in such cases, will not be affected by this pride, but will proceed with moderation and candor to consider and decide on the means most proper to extricate them from the difficulties which threaten them."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"That this remaining task may be executed under impressions conducive to a just and fair result, some reflections must in this place be indulged, which candor previously suggests."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ability to make judgments free from discrimination or dishonesty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being honest and straightforward in attitude and speech.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon would take your place, there would be gain, instead of loss.” But there was still a weight on his mind which arrested this cheerful candor."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The national government, in such cases, will not be affected by this pride, but will proceed with moderation and candor to consider and decide on the means most proper to extricate them from the difficulties which threaten them."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"That this remaining task may be executed under impressions conducive to a just and fair result, some reflections must in this place be indulged, which candor previously suggests."*

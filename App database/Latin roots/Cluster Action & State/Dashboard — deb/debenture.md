@@ -5,13 +5,6 @@ status: unread
 ---
 # debenture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability of a customer to obtain goods or services before payment, based on the trust that payment will be made in the future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A certificate or voucher acknowledging a debt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debenture designates the ability of a customer to obtain goods or services before payment, based on the trust that payment will be made in the future."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability of a customer to obtain goods or services before payment, based on the trust that payment will be made in the future.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A certificate or voucher acknowledging a debt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debenture designates the ability of a customer to obtain goods or services before payment, based on the trust that payment will be made in the future."*

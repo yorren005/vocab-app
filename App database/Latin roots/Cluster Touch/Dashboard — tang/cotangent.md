@@ -5,13 +5,6 @@ status: unread
 ---
 # cotangent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ratio of the adjacent to the opposite side of a right-angled triangle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ratio of the adjacent to the opposite side of a right-angled triangle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cotangent designates ratio of the adjacent to the opposite side of a right-angled triangle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ratio of the adjacent to the opposite side of a right-angled triangle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ratio of the adjacent to the opposite side of a right-angled triangle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cotangent designates ratio of the adjacent to the opposite side of a right-angled triangle."*

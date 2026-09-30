@@ -5,15 +5,6 @@ status: unread
 ---
 # retrospective
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exhibition of a representative selection of an artist's life work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with or related to the past.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Plymdale’s maternal view was, that Rosamond might possibly now have retrospective glimpses of her own folly; and feeling the advantages to be at present all on the side of her son, was too kind a woman not to behave graciously."*
-> - 📜 **James Joyce (*Ulysses*):** *"And the retrospective arrangement. —Did you read Dan Dawson’s speech?"*
-> - 📜 **James Joyce (*Ulysses*):** *"When you look back on it all now in a kind of retrospective arrangement."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exhibition of a representative selection of an artist's life work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with or related to the past.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Plymdale’s maternal view was, that Rosamond might possibly now have retrospective glimpses of her own folly; and feeling the advantages to be at present all on the side of her son, was too kind a woman not to behave graciously."*
+> - 📜 **James Joyce (*Ulysses*):** *"And the retrospective arrangement. —Did you read Dan Dawson’s speech?"*
+> - 📜 **James Joyce (*Ulysses*):** *"When you look back on it all now in a kind of retrospective arrangement."*

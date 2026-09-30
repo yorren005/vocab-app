@@ -5,14 +5,6 @@ status: unread
 ---
 # conic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a cone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a cone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"She set the ray-spread to conic and ran the beam from one end of the pad to the other, into the corners and along the walls."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Or he may find a conic mound, on whose apex glisten in the sun the bleached bones of one whose last office has been to preserve from destruction the friendly soil on which he reposed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a cone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a cone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"She set the ray-spread to conic and ran the beam from one end of the pad to the other, into the corners and along the walls."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Or he may find a conic mound, on whose apex glisten in the sun the bleached bones of one whose last office has been to preserve from destruction the friendly soil on which he reposed."*

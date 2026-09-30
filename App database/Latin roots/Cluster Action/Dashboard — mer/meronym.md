@@ -5,13 +5,6 @@ status: unread
 ---
 # meronym
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word that names a part of a larger whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word that names a part of a larger whole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meronym designates a word that names a part of a larger whole."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word that names a part of a larger whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word that names a part of a larger whole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meronym designates a word that names a part of a larger whole."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # iso
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: International Organization for Standardization; International Standards Organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equal : homogeneous : uniform.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, iso designates international organization for standardization; international standards organization."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: International Organization for Standardization; International Standards Organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equal : homogeneous : uniform.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, iso designates international organization for standardization; international standards organization."*

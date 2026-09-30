@@ -5,15 +5,6 @@ status: unread
 ---
 # plumage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The light horny waterproof structure forming the external covering of birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The light horny waterproof structure forming the external covering of birds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I could not eat the tart; and the plumage of the bird, the tints of the flowers, seemed strangely faded: I put both plate and tart away."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Brocklehurst’s nose, that he was within a yard of me, and that a spread of shot orange and purple silk pelisses and a cloud of silvery plumage extended and waved below me."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sweet—brushing the dew from the brown heather bells Her colours betray’d her on yon mossy fells; Her plumage outlustr’d the pride o’ the spring And O! as she wanton’d sae gay on the wing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The light horny waterproof structure forming the external covering of birds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The light horny waterproof structure forming the external covering of birds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I could not eat the tart; and the plumage of the bird, the tints of the flowers, seemed strangely faded: I put both plate and tart away."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Brocklehurst’s nose, that he was within a yard of me, and that a spread of shot orange and purple silk pelisses and a cloud of silvery plumage extended and waved below me."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sweet—brushing the dew from the brown heather bells Her colours betray’d her on yon mossy fells; Her plumage outlustr’d the pride o’ the spring And O! as she wanton’d sae gay on the wing."*

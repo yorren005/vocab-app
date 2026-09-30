@@ -5,15 +5,6 @@ status: unread
 ---
 # successive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In regular succession without gaps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regular succession without gaps.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Noble patricians, patrons of my right, Defend the justice of my cause with arms; And, countrymen, my loving followers, Plead my successive title with your swords."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In each successive chamber that they enter, Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I take it as a compliment.” If he had not looked at me before, he looked at me now in three or four quick successive glances."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In regular succession without gaps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regular succession without gaps.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Noble patricians, patrons of my right, Defend the justice of my cause with arms; And, countrymen, my loving followers, Plead my successive title with your swords."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In each successive chamber that they enter, Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I take it as a compliment.” If he had not looked at me before, he looked at me now in three or four quick successive glances."*

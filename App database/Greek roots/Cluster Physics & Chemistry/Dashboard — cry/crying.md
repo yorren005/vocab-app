@@ -5,15 +5,6 @@ status: unread
 ---
 # crying
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of shedding tears (usually accompanied by sobs or other inarticulate sounds).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loud utterance; often in protest or opposition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well excus’d: That thou didst love her, strikes some scores away From the great compt: but love that comes too late, Like a remorseful pardon slowly carried, To the great sender turns a sour offence, Crying, That’s good that’s gone."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The good gods will mock me presently When I shall pray “O, bless my lord and husband!” Undo that prayer by crying out as loud “O, bless my brother!” Husband win, win brother, Prays and destroys the prayer; no midway ’Twixt these extremes at all."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a happier and more comely time Than when these fellows ran about the streets Crying confusion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of shedding tears (usually accompanied by sobs or other inarticulate sounds).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loud utterance; often in protest or opposition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well excus’d: That thou didst love her, strikes some scores away From the great compt: but love that comes too late, Like a remorseful pardon slowly carried, To the great sender turns a sour offence, Crying, That’s good that’s gone."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The good gods will mock me presently When I shall pray “O, bless my lord and husband!” Undo that prayer by crying out as loud “O, bless my brother!” Husband win, win brother, Prays and destroys the prayer; no midway ’Twixt these extremes at all."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a happier and more comely time Than when these fellows ran about the streets Crying confusion."*

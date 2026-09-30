@@ -5,15 +5,6 @@ status: unread
 ---
 # philosophize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To reason in the manner of a philosopher.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To expound a moralizing and often superficial philosophy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"If we are to use abstract terms and philosophize his thought a little, we may agree that the four facts Jesus notes in Nature are its mystery, its regularity, its impartiality, and its peacefulness[11]."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"My dear friend, I entreat you, don’t philosophize, don’t doubt, marry, marry, marry...."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Why could they not philosophize and say nothing? he asked."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reason in the manner of a philosopher.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To expound a moralizing and often superficial philosophy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"If we are to use abstract terms and philosophize his thought a little, we may agree that the four facts Jesus notes in Nature are its mystery, its regularity, its impartiality, and its peacefulness[11]."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"My dear friend, I entreat you, don’t philosophize, don’t doubt, marry, marry, marry...."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Why could they not philosophize and say nothing? he asked."*

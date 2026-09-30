@@ -5,15 +5,6 @@ status: unread
 ---
 # disinterestedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without bias; without selfish motives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without bias; without selfish motives.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And you at least love me disinterestedly.” “Yes—I will go,” said Izz, after a pause."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"She could just find selfishness enough to wonder whether Edmund _had_ written to Miss Crawford before this summons came, but no sentiment dwelt long with her that was not purely affectionate and disinterestedly anxious."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"He had wronged her in intent, but not in deed, for no man could love more deeply, more disinterestedly than he then loved her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without bias; without selfish motives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without bias; without selfish motives.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And you at least love me disinterestedly.” “Yes—I will go,” said Izz, after a pause."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"She could just find selfishness enough to wonder whether Edmund _had_ written to Miss Crawford before this summons came, but no sentiment dwelt long with her that was not purely affectionate and disinterestedly anxious."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"He had wronged her in intent, but not in deed, for no man could love more deeply, more disinterestedly than he then loved her."*

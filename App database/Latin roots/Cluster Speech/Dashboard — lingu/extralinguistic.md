@@ -5,13 +5,6 @@ status: unread
 ---
 # extralinguistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not included within the realm of language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not included within the realm of language.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extralinguistic designates not included within the realm of language."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not included within the realm of language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not included within the realm of language.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extralinguistic designates not included within the realm of language."*

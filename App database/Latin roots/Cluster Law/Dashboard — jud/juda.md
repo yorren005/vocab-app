@@ -5,15 +5,6 @@ status: unread
 ---
 # juda
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient kingdom of southern palestine with jerusalem as its center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient kingdom of southern palestine with jerusalem as its center.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Qualities of thought Moral courage is "the lion of the tribe of Juda," the king of the mental realm."*
-> - 📜 **James Joyce (*Ulysses*):** *"Quietude of custody, rather, befitting their station in that house, the vigilant watch of shepherds and of angels about a crib in Bethlehem of Juda long ago."*
-> - 📜 **James Joyce (*Ulysses*):** *"Once in 1892 and once in 1893 with Julius (Juda) Mastiansky, on both occasions in the parlour of his (Bloom’s) house in Lombard street, west."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient kingdom of southern palestine with jerusalem as its center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient kingdom of southern palestine with jerusalem as its center.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Qualities of thought Moral courage is "the lion of the tribe of Juda," the king of the mental realm."*
+> - 📜 **James Joyce (*Ulysses*):** *"Quietude of custody, rather, befitting their station in that house, the vigilant watch of shepherds and of angels about a crib in Bethlehem of Juda long ago."*
+> - 📜 **James Joyce (*Ulysses*):** *"Once in 1892 and once in 1893 with Julius (Juda) Mastiansky, on both occasions in the parlour of his (Bloom’s) house in Lombard street, west."*

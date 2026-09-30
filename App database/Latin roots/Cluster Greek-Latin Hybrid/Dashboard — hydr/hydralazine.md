@@ -5,13 +5,6 @@ status: unread
 ---
 # hydralazine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antihypertensive drug (trade name apresoline) that dilates blood vessels; used (often with a diuretic) to treat hypertension and congestive heart failure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antihypertensive drug (trade name apresoline) that dilates blood vessels; used (often with a diuretic) to treat hypertension and congestive heart failure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydralazine designates an antihypertensive drug (trade name apresoline) that dilates blood vessels; used (often with a diuretic) to treat hypertension and congestive heart failure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antihypertensive drug (trade name apresoline) that dilates blood vessels; used (often with a diuretic) to treat hypertension and congestive heart failure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antihypertensive drug (trade name apresoline) that dilates blood vessels; used (often with a diuretic) to treat hypertension and congestive heart failure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydralazine designates an antihypertensive drug (trade name apresoline) that dilates blood vessels; used (often with a diuretic) to treat hypertension and congestive heart failure."*

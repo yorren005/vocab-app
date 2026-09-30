@@ -5,14 +5,6 @@ status: unread
 ---
 # communicable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of disease) capable of being transmitted by infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Readily communicated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The joy of intercourse becomes the jest of sin, when evil and suffering are communicable. 72:30 Not personal intercommunion but divine law is the com- municator of truth, health, and harmony to earth and humanity."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The attributes of perfection, ascribed to the king, are, neither by the constitution, nor in fact, communicable to his ministers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of disease) capable of being transmitted by infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Readily communicated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The joy of intercourse becomes the jest of sin, when evil and suffering are communicable. 72:30 Not personal intercommunion but divine law is the com- municator of truth, health, and harmony to earth and humanity."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The attributes of perfection, ascribed to the king, are, neither by the constitution, nor in fact, communicable to his ministers."*

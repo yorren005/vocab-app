@@ -5,15 +5,6 @@ status: unread
 ---
 # mississippi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A major north american river and the chief river of the united states; rises in northern minnesota and flows southward into the gulf of mexico.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in the deep south on the gulf of mexico; one of the confederate states during the american civil war.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the Mississippi Valley since 1880 natural gas, abundant coal, ore, and timber have made possible a great growth of industries without protection against the Eastern states."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There are (in 1913) but seven states with anything resembling a personal income tax.[7] These are Virginia, North Carolina, South Carolina, Mississippi, Oklahoma, Massachusetts, and Wisconsin."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Specialization in wheat production in the states just west of the Mississippi is possible only so long as wheat will grow on the virgin soil without costly fertilizers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major north american river and the chief river of the united states; rises in northern minnesota and flows southward into the gulf of mexico.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in the deep south on the gulf of mexico; one of the confederate states during the american civil war.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the Mississippi Valley since 1880 natural gas, abundant coal, ore, and timber have made possible a great growth of industries without protection against the Eastern states."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There are (in 1913) but seven states with anything resembling a personal income tax.[7] These are Virginia, North Carolina, South Carolina, Mississippi, Oklahoma, Massachusetts, and Wisconsin."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Specialization in wheat production in the states just west of the Mississippi is possible only so long as wheat will grow on the virgin soil without costly fertilizers."*

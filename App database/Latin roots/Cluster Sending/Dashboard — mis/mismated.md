@@ -5,13 +5,6 @@ status: unread
 ---
 # mismated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with an unsuitable mate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not easy to combine harmoniously.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mismated designates provide with an unsuitable mate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with an unsuitable mate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not easy to combine harmoniously.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mismated designates provide with an unsuitable mate."*

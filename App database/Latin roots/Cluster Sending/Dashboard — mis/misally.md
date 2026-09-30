@@ -5,13 +5,6 @@ status: unread
 ---
 # misally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a bad alliance; ally inappropriately.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a bad alliance; ally inappropriately.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misally designates make a bad alliance; ally inappropriately."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a bad alliance; ally inappropriately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a bad alliance; ally inappropriately.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misally designates make a bad alliance; ally inappropriately."*

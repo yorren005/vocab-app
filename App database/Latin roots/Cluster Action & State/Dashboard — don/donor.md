@@ -5,15 +5,6 @@ status: unread
 ---
 # donor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Person who makes a gift of property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) someone who gives blood or tissue or an organ to be used in another person (the host).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"An unknown donor sends in 20 tons of coal."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A liberal donor, in enclosing $100 to a sister institution, but strictly withholding his name, says, 'When I began business, it was with the intention and hope to become rich."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"And at the rate of that handsome sum of money per annum, and at no higher rate, you are to live until the donor of the whole appears."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Person who makes a gift of property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) someone who gives blood or tissue or an organ to be used in another person (the host).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"An unknown donor sends in 20 tons of coal."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A liberal donor, in enclosing $100 to a sister institution, but strictly withholding his name, says, 'When I began business, it was with the intention and hope to become rich."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"And at the rate of that handsome sum of money per annum, and at no higher rate, you are to live until the donor of the whole appears."*

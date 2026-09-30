@@ -5,15 +5,6 @@ status: unread
 ---
 # elemental
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or being an element.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to severe atmospheric conditions; - j.k.howard.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Next day the weather was bad, but she trudged on, the honesty, directness, and impartiality of elemental enmity disconcerting her but little."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The invisible nozzle hurled a concentration of elemental substance across hyperspace to its sister station four and a half light-years distant."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There are two sides to the life of every man, his individual life, which is the more free the more abstract its interests, and his elemental hive life in which he inevitably obeys laws laid down for him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or being an element.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to severe atmospheric conditions; - j.k.howard.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Next day the weather was bad, but she trudged on, the honesty, directness, and impartiality of elemental enmity disconcerting her but little."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The invisible nozzle hurled a concentration of elemental substance across hyperspace to its sister station four and a half light-years distant."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There are two sides to the life of every man, his individual life, which is the more free the more abstract its interests, and his elemental hive life in which he inevitably obeys laws laid down for him."*

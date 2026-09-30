@@ -5,14 +5,6 @@ status: unread
 ---
 # regularize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into conformity with rules or principles or usage; impose regulations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make regular or more regular.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It must therefore be a benefit to the community, if this element of unavoidable chance cannot be reduced as a whole, at least to regularize it and make it exactly calculable for any individual."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Wilson, stood for the policy of competition-maintained-and-regulated, and the problem was to find means to strengthen and regularize the forces of competition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into conformity with rules or principles or usage; impose regulations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make regular or more regular.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It must therefore be a benefit to the community, if this element of unavoidable chance cannot be reduced as a whole, at least to regularize it and make it exactly calculable for any individual."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Wilson, stood for the policy of competition-maintained-and-regulated, and the problem was to find means to strengthen and regularize the forces of competition."*

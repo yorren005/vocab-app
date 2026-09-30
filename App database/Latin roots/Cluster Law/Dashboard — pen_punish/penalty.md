@@ -5,15 +5,6 @@ status: unread
 ---
 # penalty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of punishing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A payment required for not fulfilling a contract.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here feel we not the penalty of Adam, The seasons’ difference, as the icy fang And churlish chiding of the winter’s wind, Which when it bites and blows upon my body Even till I shrink with cold, I smile and say: “This is no flattery."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s see the penalty. [_Reads_.] _On pain of losing her tongue._ Who devised this penalty?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To fright them hence with that dread penalty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of punishing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A payment required for not fulfilling a contract.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here feel we not the penalty of Adam, The seasons’ difference, as the icy fang And churlish chiding of the winter’s wind, Which when it bites and blows upon my body Even till I shrink with cold, I smile and say: “This is no flattery."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s see the penalty. [_Reads_.] _On pain of losing her tongue._ Who devised this penalty?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To fright them hence with that dread penalty."*

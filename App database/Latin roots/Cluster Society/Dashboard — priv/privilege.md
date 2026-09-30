@@ -5,15 +5,6 @@ status: unread
 ---
 # privilege
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A special advantage or immunity or benefit not enjoyed by all.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A right reserved exclusively by a particular person or group (especially a hereditary or official right).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hadst thou not the privilege of antiquity upon thee— LAFEW."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You need but plead your honourable privilege."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He took this place for sanctuary, And it shall privilege him from your hands Till I have brought him to his wits again, Or lose my labour in assaying it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A special advantage or immunity or benefit not enjoyed by all.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A right reserved exclusively by a particular person or group (especially a hereditary or official right).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hadst thou not the privilege of antiquity upon thee— LAFEW."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You need but plead your honourable privilege."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He took this place for sanctuary, And it shall privilege him from your hands Till I have brought him to his wits again, Or lose my labour in assaying it."*

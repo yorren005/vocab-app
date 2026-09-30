@@ -5,15 +5,6 @@ status: unread
 ---
 # administration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of tending to or managing the affairs of a some group of people (especially the group's business affairs).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The persons (or committees or departments etc.) who make up a body for the purpose of administering something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Unless he has left a will (which is not at all likely) I shall take out letters of administration."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jo and his conductor presently return, and Jo is assisted to his mattress by the careful Phil, to whom, after due administration of medicine by his own hands, Allan confides all needful means and instructions."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Jean by the administration, of which unfortunately my son is at the head."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of tending to or managing the affairs of a some group of people (especially the group's business affairs).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The persons (or committees or departments etc.) who make up a body for the purpose of administering something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Unless he has left a will (which is not at all likely) I shall take out letters of administration."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jo and his conductor presently return, and Jo is assisted to his mattress by the careful Phil, to whom, after due administration of medicine by his own hands, Allan confides all needful means and instructions."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Jean by the administration, of which unfortunately my son is at the head."*

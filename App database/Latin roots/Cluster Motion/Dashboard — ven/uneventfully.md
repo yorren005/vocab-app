@@ -5,15 +5,6 @@ status: unread
 ---
 # uneventfully
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an uneventful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an uneventful manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"It had begun so uneventfully, so precisely like a hundred other evenings, with Nana putting on the water for Michael’s bath and carrying him to it on her back."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"THE STORM BREAKS XXII Rather to my surprise, the next morning passed off uneventfully."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"The first two hymns and the Scripture reading passed off uneventfully."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an uneventful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an uneventful manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"It had begun so uneventfully, so precisely like a hundred other evenings, with Nana putting on the water for Michael’s bath and carrying him to it on her back."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"THE STORM BREAKS XXII Rather to my surprise, the next morning passed off uneventfully."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"The first two hymns and the Scripture reading passed off uneventfully."*

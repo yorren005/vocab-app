@@ -5,15 +5,6 @@ status: unread
 ---
 # tableau
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of people attractively arranged (as if in a painting).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any dramatic scene.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Colonel Dent, their spokesman, demanded “the tableau of the whole;” whereupon the curtain again descended."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The tableau all waned at last with the pallidness aloft; and once more the Pequod and every soul on her decks were wrapped in a pall."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"She felt sure that the _tableau_ was interesting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of people attractively arranged (as if in a painting).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any dramatic scene.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Colonel Dent, their spokesman, demanded “the tableau of the whole;” whereupon the curtain again descended."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The tableau all waned at last with the pallidness aloft; and once more the Pequod and every soul on her decks were wrapped in a pall."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"She felt sure that the _tableau_ was interesting."*

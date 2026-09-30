@@ -5,15 +5,6 @@ status: unread
 ---
 # insert
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A folded section placed between the leaves of another publication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artifact that is inserted or is to be inserted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You could for a need study a speech of some dozen or sixteen lines, which I would set down and insert in’t, could you not?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In the centre was a small oval enclosure; this was left blank, that the sender might insert tender words more appropriate to the special occasion than any generalities by a printer could possibly be."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He ought to have been dead long ago.” Warden Atherton, after a hard struggle, managed to insert his forefinger between the lacing and my back."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A folded section placed between the leaves of another publication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artifact that is inserted or is to be inserted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You could for a need study a speech of some dozen or sixteen lines, which I would set down and insert in’t, could you not?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In the centre was a small oval enclosure; this was left blank, that the sender might insert tender words more appropriate to the special occasion than any generalities by a printer could possibly be."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He ought to have been dead long ago.” Warden Atherton, after a hard struggle, managed to insert his forefinger between the lacing and my back."*

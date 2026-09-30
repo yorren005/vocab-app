@@ -5,13 +5,6 @@ status: unread
 ---
 # chlorinity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measure of the quantity of chlorine or other halides in water (especially seawater).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measure of the quantity of chlorine or other halides in water (especially seawater).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorinity designates a measure of the quantity of chlorine or other halides in water (especially seawater)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A measure of the quantity of chlorine or other halides in water (especially seawater).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measure of the quantity of chlorine or other halides in water (especially seawater).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorinity designates a measure of the quantity of chlorine or other halides in water (especially seawater)."*

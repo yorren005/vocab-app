@@ -5,15 +5,6 @@ status: unread
 ---
 # opposing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be against; express opposition to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fight against or resist strongly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What you have seen him do and heard him speak, Beating your officers, cursing yourselves, Opposing laws with strokes, and here defying Those whose great power must try him—even this, So criminal and in such capital kind, Deserves th’ extremest death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To be, or not to be, that is the question: Whether ’tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By many a dern and painful perch Of Pericles the careful search, By the four opposing coigns Which the world together joins, Is made with all due diligence That horse and sail and high expense Can stead the quest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be against; express opposition to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fight against or resist strongly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What you have seen him do and heard him speak, Beating your officers, cursing yourselves, Opposing laws with strokes, and here defying Those whose great power must try him—even this, So criminal and in such capital kind, Deserves th’ extremest death."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To be, or not to be, that is the question: Whether ’tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take arms against a sea of troubles, And by opposing end them?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By many a dern and painful perch Of Pericles the careful search, By the four opposing coigns Which the world together joins, Is made with all due diligence That horse and sail and high expense Can stead the quest."*

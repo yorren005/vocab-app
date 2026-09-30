@@ -5,13 +5,6 @@ status: unread
 ---
 # reiter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German bacteriologist who described a disease now known as reiter's syndrome and who identified the spirochete that causes syphilis in humans (1881-1969).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German bacteriologist who described a disease now known as reiter's syndrome and who identified the spirochete that causes syphilis in humans (1881-1969).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reiter designates german bacteriologist who described a disease now known as reiter's syndrome and who identified the spirochete that causes syphilis in humans (1881-1969)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: German bacteriologist who described a disease now known as reiter's syndrome and who identified the spirochete that causes syphilis in humans (1881-1969).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German bacteriologist who described a disease now known as reiter's syndrome and who identified the spirochete that causes syphilis in humans (1881-1969).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reiter designates german bacteriologist who described a disease now known as reiter's syndrome and who identified the spirochete that causes syphilis in humans (1881-1969)."*

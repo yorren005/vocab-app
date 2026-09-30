@@ -5,15 +5,6 @@ status: unread
 ---
 # agenda
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporally organized plan for matters to be attended to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A list of matters to be taken up (as at a meeting).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Agenda: to instruct the Correspondent to requisition a new scrubbing brush for the Infants' School."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The suggested agenda it carries, however, puts us on the defensive with barely room for reasoning with his government."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I will transmit a coded message to you from my ship when I have the agenda for the conference."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporally organized plan for matters to be attended to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A list of matters to be taken up (as at a meeting).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Agenda: to instruct the Correspondent to requisition a new scrubbing brush for the Infants' School."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The suggested agenda it carries, however, puts us on the defensive with barely room for reasoning with his government."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I will transmit a coded message to you from my ship when I have the agenda for the conference."*

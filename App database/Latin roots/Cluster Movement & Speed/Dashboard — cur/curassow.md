@@ -5,13 +5,6 @@ status: unread
 ---
 # curassow
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large crested arboreal game bird of warm parts of the americas having long legs and tails; highly esteemed as game and food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large crested arboreal game bird of warm parts of the americas having long legs and tails; highly esteemed as game and food.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curassow designates large crested arboreal game bird of warm parts of the americas having long legs and tails; highly esteemed as game and food."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large crested arboreal game bird of warm parts of the americas having long legs and tails; highly esteemed as game and food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large crested arboreal game bird of warm parts of the americas having long legs and tails; highly esteemed as game and food.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curassow designates large crested arboreal game bird of warm parts of the americas having long legs and tails; highly esteemed as game and food."*

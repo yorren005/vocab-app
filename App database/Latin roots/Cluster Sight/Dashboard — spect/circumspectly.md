@@ -5,15 +5,6 @@ status: unread
 ---
 # circumspectly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a cagey manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a cagey manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The dairyman himself had been lending a hand; but Mr Crick, as well as his wife, seemed latterly to have acquired a suspicion of mutual interest between these two; though they walked so circumspectly that suspicion was but of the faintest."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A third person rode up circumspectly through the wood (it was plain that he had had a lesson) and stopped behind the count."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"He walked very slowly and circumspectly, and there was something indescribably guilty and furtive in his whole appearance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a cagey manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a cagey manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The dairyman himself had been lending a hand; but Mr Crick, as well as his wife, seemed latterly to have acquired a suspicion of mutual interest between these two; though they walked so circumspectly that suspicion was but of the faintest."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A third person rode up circumspectly through the wood (it was plain that he had had a lesson) and stopped behind the count."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"He walked very slowly and circumspectly, and there was something indescribably guilty and furtive in his whole appearance."*

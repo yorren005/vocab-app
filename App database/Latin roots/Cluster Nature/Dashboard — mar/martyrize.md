@@ -5,13 +5,6 @@ status: unread
 ---
 # martyrize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Torture and torment like a martyr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Torture and torment like a martyr.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, martyrize designates torture and torment like a martyr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Torture and torment like a martyr.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Torture and torment like a martyr.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, martyrize designates torture and torment like a martyr."*

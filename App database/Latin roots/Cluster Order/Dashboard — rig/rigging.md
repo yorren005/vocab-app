@@ -5,15 +5,6 @@ status: unread
 ---
 # rigging
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gear consisting of ropes etc. supporting a ship's masts and sails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formation of masts, spars, sails, etc., on a vessel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Fog creeping into the cabooses of collier-brigs; fog lying out on the yards and hovering in the rigging of great ships; fog drooping on the gunwales of barges and small boats."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"They cut away the masts, and cleared away the rigging, and brought all the force they could to right the vessel."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"During an excursion of a few miles into the country, he observed a sort of rigging attached to the chimney of a farmhouse well known to him, and asked what it meant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gear consisting of ropes etc. supporting a ship's masts and sails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formation of masts, spars, sails, etc., on a vessel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Fog creeping into the cabooses of collier-brigs; fog lying out on the yards and hovering in the rigging of great ships; fog drooping on the gunwales of barges and small boats."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"They cut away the masts, and cleared away the rigging, and brought all the force they could to right the vessel."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"During an excursion of a few miles into the country, he observed a sort of rigging attached to the chimney of a farmhouse well known to him, and asked what it meant."*

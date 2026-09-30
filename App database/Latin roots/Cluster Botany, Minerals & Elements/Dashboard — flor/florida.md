@@ -5,15 +5,6 @@ status: unread
 ---
 # florida
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in southeastern united states between the atlantic and the gulf of mexico; one of the confederate states during the american civil war.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in southeastern united states between the atlantic and the gulf of mexico; one of the confederate states during the american civil war.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"After leaving the Gulf of Florida, we went in the direction of Spitzbergen."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Enormous vegetations are multiplied under the torrid seas, and the evil is irresistibly developed from the mouth of the Rio de la Plata to Florida."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"My uncle Elias emigrated to America when he was a young man and became a planter in Florida, where he was reported to have done very well."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in southeastern united states between the atlantic and the gulf of mexico; one of the confederate states during the american civil war.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in southeastern united states between the atlantic and the gulf of mexico; one of the confederate states during the american civil war.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"After leaving the Gulf of Florida, we went in the direction of Spitzbergen."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Enormous vegetations are multiplied under the torrid seas, and the evil is irresistibly developed from the mouth of the Rio de la Plata to Florida."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"My uncle Elias emigrated to America when he was a young man and became a planter in Florida, where he was reported to have done very well."*

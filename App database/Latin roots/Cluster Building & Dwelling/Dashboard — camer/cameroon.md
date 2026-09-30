@@ -5,15 +5,6 @@ status: unread
 ---
 # cameroon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inactive volcano in western cameroon; highest peak on the west african coast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic on the western coast of central africa; was under french and british control until 1960.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the Cameroons, also, the life of a person is believed to be sympathetically bound up with that of a tree."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Hence in case of sickness they would send to see if the _tamaniu_ was safe and well." The theory of an external soul deposited in an animal appears to be very prevalent in West Africa, particularly in Nigeria, the Cameroons, and the Gaboon."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Similar beliefs are held by the natives of the Cross River valley within the provinces of the Cameroons."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inactive volcano in western cameroon; highest peak on the west african coast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic on the western coast of central africa; was under french and british control until 1960.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the Cameroons, also, the life of a person is believed to be sympathetically bound up with that of a tree."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Hence in case of sickness they would send to see if the _tamaniu_ was safe and well." The theory of an external soul deposited in an animal appears to be very prevalent in West Africa, particularly in Nigeria, the Cameroons, and the Gaboon."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Similar beliefs are held by the natives of the Cross River valley within the provinces of the Cameroons."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # coeloglossum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Terrestrial orchids of cooler parts of north america and europe: satyr orchid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terrestrial orchids of cooler parts of north america and europe: satyr orchid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coeloglossum designates terrestrial orchids of cooler parts of north america and europe: satyr orchid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Terrestrial orchids of cooler parts of north america and europe: satyr orchid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terrestrial orchids of cooler parts of north america and europe: satyr orchid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coeloglossum designates terrestrial orchids of cooler parts of north america and europe: satyr orchid."*

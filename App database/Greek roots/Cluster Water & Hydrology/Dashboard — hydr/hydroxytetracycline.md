@@ -5,13 +5,6 @@ status: unread
 ---
 # hydroxytetracycline
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow crystalline antibiotic (trademark terramycin) obtained from a soil actinomycete; used to treat various bacterial and rickettsial infections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellow crystalline antibiotic (trademark terramycin) obtained from a soil actinomycete; used to treat various bacterial and rickettsial infections.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxytetracycline designates a yellow crystalline antibiotic (trademark terramycin) obtained from a soil actinomycete; used to treat various bacterial and rickettsial infections."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow crystalline antibiotic (trademark terramycin) obtained from a soil actinomycete; used to treat various bacterial and rickettsial infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellow crystalline antibiotic (trademark terramycin) obtained from a soil actinomycete; used to treat various bacterial and rickettsial infections.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydroxytetracycline designates a yellow crystalline antibiotic (trademark terramycin) obtained from a soil actinomycete; used to treat various bacterial and rickettsial infections."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # discontinuation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of discontinuing or breaking off; an interruption (temporary or permanent).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of discontinuing or breaking off; an interruption (temporary or permanent).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discontinuation designates the act of discontinuing or breaking off; an interruption (temporary or permanent)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of discontinuing or breaking off; an interruption (temporary or permanent).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of discontinuing or breaking off; an interruption (temporary or permanent).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discontinuation designates the act of discontinuing or breaking off; an interruption (temporary or permanent)."*

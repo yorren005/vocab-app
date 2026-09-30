@@ -5,14 +5,6 @@ status: unread
 ---
 # munro
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: British writer of short stories (1870-1916).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: British writer of short stories (1870-1916).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He had three times heard her sing the old Ulster ballad of General Munro: Up came Munro's sister, she was well dressed in green, And his sword by her side that was once bright and keen."*
-> - 📜 **James Joyce (*Ulysses*):** *"Ellis’s _Three Trips to Madagascar_ (brown cloth, title obliterated). _The Stark-Munro Letters_ by A."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: British writer of short stories (1870-1916).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: British writer of short stories (1870-1916).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He had three times heard her sing the old Ulster ballad of General Munro: Up came Munro's sister, she was well dressed in green, And his sword by her side that was once bright and keen."*
+> - 📜 **James Joyce (*Ulysses*):** *"Ellis’s _Three Trips to Madagascar_ (brown cloth, title obliterated). _The Stark-Munro Letters_ by A."*

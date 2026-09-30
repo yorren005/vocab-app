@@ -5,15 +5,6 @@ status: unread
 ---
 # servicing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of mating by male animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be used by; as of a utility.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Raven, on a lengthy umbilical-catwalk, had been tethered to the Guardian Station, ostensibly for maintenance after a servicing round of nearby communications boosters."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As the last of the six cleared in through the Raven's air lock, Hodak had hit "Emergency," on appropriate switches and the ship-to-station servicing lines went through quick-disconnect."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Serious manufacturing and servicing mistakes were also found in other types of equipment used by the Army Air Corps."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of mating by male animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be used by; as of a utility.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Raven, on a lengthy umbilical-catwalk, had been tethered to the Guardian Station, ostensibly for maintenance after a servicing round of nearby communications boosters."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As the last of the six cleared in through the Raven's air lock, Hodak had hit "Emergency," on appropriate switches and the ship-to-station servicing lines went through quick-disconnect."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Serious manufacturing and servicing mistakes were also found in other types of equipment used by the Army Air Corps."*

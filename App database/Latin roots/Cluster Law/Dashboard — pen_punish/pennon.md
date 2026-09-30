@@ -5,15 +5,6 @@ status: unread
 ---
 # pennon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long flag; often tapering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wing of a bird.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The procession was led off by two venerable-looking savages, each provided with a spear, from the end of which streamed a pennon of milk-white tappa."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"It was the first thing he mentioned." They ceased speaking as the thin pennon of smoke, followed by two tall masts, became visible over the horizon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bar Harry England, that sweeps through our land With pennons painted in the blood of Harfleur."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long flag; often tapering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wing of a bird.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The procession was led off by two venerable-looking savages, each provided with a spear, from the end of which streamed a pennon of milk-white tappa."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"It was the first thing he mentioned." They ceased speaking as the thin pennon of smoke, followed by two tall masts, became visible over the horizon."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bar Harry England, that sweeps through our land With pennons painted in the blood of Harfleur."*

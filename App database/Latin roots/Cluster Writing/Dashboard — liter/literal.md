@@ -5,15 +5,6 @@ status: unread
 ---
 # literal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mistake in printed matter resulting from mechanical failures of some kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or reflecting the essential or genuine character of something; ; - g.k.chesterton.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"No, father; I cannot underwrite Article Four (leave alone the rest), taking it ‘in the literal and grammatical sense’ as required by the Declaration; and, therefore, I can’t be a parson in the present state of affairs,” said Angel."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The standard of equality cannot be applied in any literal sense to strong and weak, to rich and poor."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Chadwick has kindly furnished me with the following literal translation of the passage: "I saw (or 'have seen') held in safe keeping the life of Balder, the bloody god, Othin's son."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mistake in printed matter resulting from mechanical failures of some kind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or reflecting the essential or genuine character of something; ; - g.k.chesterton.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"No, father; I cannot underwrite Article Four (leave alone the rest), taking it ‘in the literal and grammatical sense’ as required by the Declaration; and, therefore, I can’t be a parson in the present state of affairs,” said Angel."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The standard of equality cannot be applied in any literal sense to strong and weak, to rich and poor."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Chadwick has kindly furnished me with the following literal translation of the passage: "I saw (or 'have seen') held in safe keeping the life of Balder, the bloody god, Othin's son."*

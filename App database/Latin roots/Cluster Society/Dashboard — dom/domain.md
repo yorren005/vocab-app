@@ -5,15 +5,6 @@ status: unread
 ---
 # domain
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular environment or walk of life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Territory over which rule or control is exercised.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She gave me a gracious welcome to her domain and indicated, with much gratification and pride, its principal attractions."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Was it not proved nineteen hundred years ago—if I may trespass upon your domain a little?"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Though widow of the late Sir John d’Urberville, poor nobleman, if I cared for my rights; and returning to the domain of his forefathers.” “Oh?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular environment or walk of life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Territory over which rule or control is exercised.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"She gave me a gracious welcome to her domain and indicated, with much gratification and pride, its principal attractions."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Was it not proved nineteen hundred years ago—if I may trespass upon your domain a little?"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Though widow of the late Sir John d’Urberville, poor nobleman, if I cared for my rights; and returning to the domain of his forefathers.” “Oh?"*

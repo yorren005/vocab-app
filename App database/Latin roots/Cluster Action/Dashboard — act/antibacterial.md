@@ -5,13 +5,6 @@ status: unread
 ---
 # antibacterial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any drug that destroys bacteria or inhibits their growth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroying bacteria or inhibiting their growth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antibacterial designates any drug that destroys bacteria or inhibits their growth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any drug that destroys bacteria or inhibits their growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroying bacteria or inhibiting their growth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antibacterial designates any drug that destroys bacteria or inhibits their growth."*

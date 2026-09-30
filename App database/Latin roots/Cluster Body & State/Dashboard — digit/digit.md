@@ -5,14 +5,6 @@ status: unread
 ---
 # digit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the elements that collectively form a system of numeration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The length of breadth of a finger used as a linear measure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"DIMINISHED DIGITS PROVE TOO TITILLATING FOR FRISKY FRUMPS."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"He then arose, took a small portion of my coat sleeve between his thumb and finger, began rubbing them together, and by and by, one of the balls appeared between his digits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the elements that collectively form a system of numeration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The length of breadth of a finger used as a linear measure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"DIMINISHED DIGITS PROVE TOO TITILLATING FOR FRISKY FRUMPS."*
+> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"He then arose, took a small portion of my coat sleeve between his thumb and finger, began rubbing them together, and by and by, one of the balls appeared between his digits."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrolytic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical process of decomposition involving the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion of water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical process of decomposition involving the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion of water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrolytic designates a chemical process of decomposition involving the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion of water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical process of decomposition involving the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion of water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical process of decomposition involving the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion of water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrolytic designates a chemical process of decomposition involving the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion of water."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # liquidate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get rid of (someone who may be a threat) by killing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eliminate by paying off (debts).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In such a case, it is the province of the courts to liquidate and fix their meaning and operation."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Never for a moment had he faltered in his determination to liquidate it at whatever sacrifice to himself."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"C. has incurred and the means he has of liquidating or meeting the same."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Get rid of (someone who may be a threat) by killing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eliminate by paying off (debts).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In such a case, it is the province of the courts to liquidate and fix their meaning and operation."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Never for a moment had he faltered in his determination to liquidate it at whatever sacrifice to himself."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"C. has incurred and the means he has of liquidating or meeting the same."*

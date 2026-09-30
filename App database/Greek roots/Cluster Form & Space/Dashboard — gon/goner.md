@@ -5,15 +5,6 @@ status: unread
 ---
 # goner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person in desperate straits; someone doomed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person in desperate straits; someone doomed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"One whiff of that and you’re a goner."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"THAT won’t do!—to the left!—to the right!—to the LEFT—right! left—ri—Stay where you ARE, or you’re a goner!” And just then I caught the off horse in the starboard and went down in a pile."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"She’s a goner, just as dead sure as Muff Potter’s a goner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person in desperate straits; someone doomed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person in desperate straits; someone doomed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"One whiff of that and you’re a goner."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"THAT won’t do!—to the left!—to the right!—to the LEFT—right! left—ri—Stay where you ARE, or you’re a goner!” And just then I caught the off horse in the starboard and went down in a pile."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"She’s a goner, just as dead sure as Muff Potter’s a goner."*

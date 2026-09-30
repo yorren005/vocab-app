@@ -5,15 +5,6 @@ status: unread
 ---
 # unmannerly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Socially incorrect in behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Socially incorrect in behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O my lord, if my duty be too bold, my love is too unmannerly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And as the soldiers bore dead bodies by, He call’d them untaught knaves, unmannerly, To bring a slovenly unhandsome corse Betwixt the wind and his nobility."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweetheart, I were unmannerly to take you out And not to kiss you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Socially incorrect in behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Socially incorrect in behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O my lord, if my duty be too bold, my love is too unmannerly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And as the soldiers bore dead bodies by, He call’d them untaught knaves, unmannerly, To bring a slovenly unhandsome corse Betwixt the wind and his nobility."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweetheart, I were unmannerly to take you out And not to kiss you."*

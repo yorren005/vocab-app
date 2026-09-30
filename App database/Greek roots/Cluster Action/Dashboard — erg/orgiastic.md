@@ -5,14 +5,6 @@ status: unread
 ---
 # orgiastic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or marked by orgies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by unrestrained emotion : frenzied.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A further step was taken by the Emperor Claudius when he incorporated the Phrygian worship of the sacred tree, and with it probably the orgiastic rites of Attis, in the established religion of Rome."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Moreover, a wine was brewed from these seeds, and this may partly account for the orgiastic nature of the rites of Cybele, which the ancients compared to those of Dionysus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or marked by orgies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by unrestrained emotion : frenzied.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A further step was taken by the Emperor Claudius when he incorporated the Phrygian worship of the sacred tree, and with it probably the orgiastic rites of Attis, in the established religion of Rome."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Moreover, a wine was brewed from these seeds, and this may partly account for the orgiastic nature of the rites of Cybele, which the ancients compared to those of Dionysus."*

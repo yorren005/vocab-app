@@ -5,13 +5,6 @@ status: unread
 ---
 # gradational
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking place by degrees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking place by degrees.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gradational designates taking place by degrees."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking place by degrees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking place by degrees.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gradational designates taking place by degrees."*

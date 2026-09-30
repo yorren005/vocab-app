@@ -5,13 +5,6 @@ status: unread
 ---
 # Georgics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A poem dealing with agriculture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poem dealing with agriculture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I do not know whether the critics will agree with me, but the Georgics are to me by far the best of Virgil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poem dealing with agriculture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poem dealing with agriculture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I do not know whether the critics will agree with me, but the Georgics are to me by far the best of Virgil."*

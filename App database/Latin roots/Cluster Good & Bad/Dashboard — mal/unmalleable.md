@@ -5,14 +5,6 @@ status: unread
 ---
 # unmalleable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficult or impossible to shape or work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Difficult or impossible to shape or work.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The mistress of the house, meanwhile, as is usual with persons of her stiff and unmalleable cast, stood mostly aside; willing to lend her aid, yet conscious that her natural inaptitude would be likely to impede the business in hand."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The quality of Hepzibah’s mind was too unmalleable to take new impressions so readily as Clifford’s."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficult or impossible to shape or work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Difficult or impossible to shape or work.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The mistress of the house, meanwhile, as is usual with persons of her stiff and unmalleable cast, stood mostly aside; willing to lend her aid, yet conscious that her natural inaptitude would be likely to impede the business in hand."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The quality of Hepzibah’s mind was too unmalleable to take new impressions so readily as Clifford’s."*

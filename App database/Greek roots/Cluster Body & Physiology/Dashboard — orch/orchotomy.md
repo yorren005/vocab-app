@@ -5,13 +5,6 @@ status: unread
 ---
 # orchotomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical incision into the testis to obtain material for analysis (as in cases of abnormally low sperm count).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical incision into the testis to obtain material for analysis (as in cases of abnormally low sperm count).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orchotomy designates surgical incision into the testis to obtain material for analysis (as in cases of abnormally low sperm count)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical incision into the testis to obtain material for analysis (as in cases of abnormally low sperm count).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical incision into the testis to obtain material for analysis (as in cases of abnormally low sperm count).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orchotomy designates surgical incision into the testis to obtain material for analysis (as in cases of abnormally low sperm count)."*

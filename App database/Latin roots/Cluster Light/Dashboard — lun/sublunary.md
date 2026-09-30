@@ -5,15 +5,6 @@ status: unread
 ---
 # sublunary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated between the earth and the moon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of this earth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"A _snell_ remark of his brother William suggesting some new and comic association with a philosophic term dropped in the course of the discussion, would bring him back with a roar of laughter to the actual world and to more sublunary themes."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The succeeding week seemed long: it came to an end at last, however, like all sublunary things, and once more, towards the close of a pleasant autumn day, I found myself afoot on the road to Lowton."*
-> - 📜 **James Joyce (*Ulysses*):** *"How mingled and imperfect are all our sublunary joys."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated between the earth and the moon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of this earth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"A _snell_ remark of his brother William suggesting some new and comic association with a philosophic term dropped in the course of the discussion, would bring him back with a roar of laughter to the actual world and to more sublunary themes."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The succeeding week seemed long: it came to an end at last, however, like all sublunary things, and once more, towards the close of a pleasant autumn day, I found myself afoot on the road to Lowton."*
+> - 📜 **James Joyce (*Ulysses*):** *"How mingled and imperfect are all our sublunary joys."*

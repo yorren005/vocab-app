@@ -5,15 +5,6 @@ status: unread
 ---
 # unseemly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in keeping with accepted standards of what is right or proper in polite society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in keeping with accepted standards of what is right or proper in polite society.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unseemly woman in a seeming man, And ill-beseeming beast in seeming both!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He would think it unseemly o’ us to be loitering here.” Boldwood came on, and passed by the men without seeing them, they being under the bushes on the grass."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The firmness of her devotion to him was indeed almost pitiful; quick-tempered as she naturally was, nothing that he could say made her unseemly; she sought not her own; was not provoked; thought no evil of his treatment of her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in keeping with accepted standards of what is right or proper in polite society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in keeping with accepted standards of what is right or proper in polite society.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unseemly woman in a seeming man, And ill-beseeming beast in seeming both!"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He would think it unseemly o’ us to be loitering here.” Boldwood came on, and passed by the men without seeing them, they being under the bushes on the grass."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The firmness of her devotion to him was indeed almost pitiful; quick-tempered as she naturally was, nothing that he could say made her unseemly; she sought not her own; was not provoked; thought no evil of his treatment of her."*

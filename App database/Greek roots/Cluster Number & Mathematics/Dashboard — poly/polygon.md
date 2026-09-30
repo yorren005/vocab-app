@@ -5,14 +5,6 @@ status: unread
 ---
 # polygon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A closed plane figure bounded by straight lines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A closed figure on a sphere bounded by arcs of great circles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He lived in a place called the Polygon, in Somers Town, where there were at that time a number of poor Spanish refugees walking about in cloaks, smoking little paper cigars."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"You’re the most charming of polygons!” her companion broke out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A closed plane figure bounded by straight lines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A closed figure on a sphere bounded by arcs of great circles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He lived in a place called the Polygon, in Somers Town, where there were at that time a number of poor Spanish refugees walking about in cloaks, smoking little paper cigars."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"You’re the most charming of polygons!” her companion broke out."*

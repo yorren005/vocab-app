@@ -5,15 +5,6 @@ status: unread
 ---
 # ordered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give instructions to or direct somebody to do something with authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a request for something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All this was ordered by the good discretion Of the right reverend Cardinal of York."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let Pericles believe his daughter’s dead, And bear his courses to be ordered By Lady Fortune; while our scene must play His daughter’s woe and heavy well-a-day In her unholy service."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will lead forth my soldiers to the plain, And thus my battle shall be ordered: My foreward shall be drawn out all in length, Consisting equally of horse and foot; Our archers shall be placed in the midst."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give instructions to or direct somebody to do something with authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a request for something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All this was ordered by the good discretion Of the right reverend Cardinal of York."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let Pericles believe his daughter’s dead, And bear his courses to be ordered By Lady Fortune; while our scene must play His daughter’s woe and heavy well-a-day In her unholy service."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will lead forth my soldiers to the plain, And thus my battle shall be ordered: My foreward shall be drawn out all in length, Consisting equally of horse and foot; Our archers shall be placed in the midst."*

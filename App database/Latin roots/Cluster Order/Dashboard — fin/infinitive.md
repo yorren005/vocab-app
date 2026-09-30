@@ -5,15 +5,6 @@ status: unread
 ---
 # infinitive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The uninflected form of the verb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The uninflected form of the verb.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am undone by his going, I warrant you, he’s an infinitive thing upon my score."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The use of the infinitive without the prepositive “to”, is frequently extended beyond present usage, especially in ‘Sordello’ and ‘The Ring and the Book’."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Here the subject relative of “refuses” is omitted, and the verb followed by an infinitive without the prepositive: “many a flower {that} refuses obstinately {to} blow in print.” 3."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The uninflected form of the verb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The uninflected form of the verb.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am undone by his going, I warrant you, he’s an infinitive thing upon my score."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The use of the infinitive without the prepositive “to”, is frequently extended beyond present usage, especially in ‘Sordello’ and ‘The Ring and the Book’."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Here the subject relative of “refuses” is omitted, and the verb followed by an infinitive without the prepositive: “many a flower {that} refuses obstinately {to} blow in print.” 3."*

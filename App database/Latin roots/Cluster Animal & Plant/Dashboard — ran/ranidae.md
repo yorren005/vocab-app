@@ -5,13 +5,6 @@ status: unread
 ---
 # ranidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family nearly cosmopolitan in distribution: true frogs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family nearly cosmopolitan in distribution: true frogs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ranidae designates a family nearly cosmopolitan in distribution: true frogs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family nearly cosmopolitan in distribution: true frogs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family nearly cosmopolitan in distribution: true frogs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ranidae designates a family nearly cosmopolitan in distribution: true frogs."*

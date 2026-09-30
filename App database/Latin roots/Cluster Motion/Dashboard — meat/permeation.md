@@ -5,13 +5,6 @@ status: unread
 ---
 # permeation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of permeating or infusing something with a substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mutual penetration; diffusion of each through the other.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"To-day the phrase is returning into religious speech to signify the permeation of society by the mind of Christ, which cannot be far from what it meant to the earliest disciples."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of permeating or infusing something with a substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mutual penetration; diffusion of each through the other.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"To-day the phrase is returning into religious speech to signify the permeation of society by the mind of Christ, which cannot be far from what it meant to the earliest disciples."*

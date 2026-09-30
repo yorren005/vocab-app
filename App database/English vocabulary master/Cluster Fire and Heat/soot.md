@@ -5,18 +5,6 @@ status: unread
 ---
 # soot
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Coat or cover with soot
-> 2. **Nuance / Usage**: (transitive) to cover or dress with soot
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the soot withstood the storm*), direct object (*cleaved the soot*), or prepositional anchor (*amidst the soot*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Here’s more of this hateful soot hanging about,” says he."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -52,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A fine, flaky black substance consisting chiefly of amorphous carbon, produced by the incomplete combustion of wood, coal, or oil and deposited on chimneys and flues.
+> 2. **Nuance / Usage**: As a verb, means to coat or blacken with carbon grime; in literature, often evokes industrial grime, urban bleakness, or neglected hearths.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the soot withstood the storm*), direct object (*cleaved the soot*), or prepositional anchor (*amidst the soot*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Here’s more of this hateful **soot** hanging about, says he."*
+> - 📜 **William Blake (*Songs of Innocence*):** *"So your chimneys I sweep, and in **soot** I sleep."*
+> - 📜 **Clement Clarke Moore (*A Visit from St. Nicholas*):** *"His clothes were all tarnished with ashes and **soot**."*

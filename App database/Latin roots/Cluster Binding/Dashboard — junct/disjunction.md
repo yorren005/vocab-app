@@ -5,13 +5,6 @@ status: unread
 ---
 # disjunction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State of being disconnected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of breaking a connection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On mine honour, I’ll point you where you shall have such receiving As shall become your highness; where you may Enjoy your mistress; from the whom, I see, There’s no disjunction to be made, but by, As heavens forfend, your ruin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: State of being disconnected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of breaking a connection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On mine honour, I’ll point you where you shall have such receiving As shall become your highness; where you may Enjoy your mistress; from the whom, I see, There’s no disjunction to be made, but by, As heavens forfend, your ruin."*

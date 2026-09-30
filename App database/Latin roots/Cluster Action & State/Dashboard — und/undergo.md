@@ -5,15 +5,6 @@ status: unread
 ---
 # undergo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pass through.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am the master of my speeches, and would undergo what’s spoken, I swear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I will not undergo this sneap without reply."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Much danger do I undergo for thee. [_Exeunt._] SCENE II."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass through.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pass through.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am the master of my speeches, and would undergo what’s spoken, I swear."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I will not undergo this sneap without reply."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Much danger do I undergo for thee. [_Exeunt._] SCENE II."*

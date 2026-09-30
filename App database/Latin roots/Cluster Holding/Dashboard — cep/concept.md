@@ -5,15 +5,6 @@ status: unread
 ---
 # concept
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abstract or general idea inferred or derived from specific instances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abstract or general idea inferred or derived from specific instances.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Moreover, capital is an acquisitive concept."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Even special students differ as to the border-line of the concept, but as to the general nature of money there is essential agreement. 8.# Metal money without or with coinage#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Concept of the individual monetary demand. § 6."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abstract or general idea inferred or derived from specific instances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abstract or general idea inferred or derived from specific instances.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Moreover, capital is an acquisitive concept."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Even special students differ as to the border-line of the concept, but as to the general nature of money there is essential agreement. 8.# Metal money without or with coinage#."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Concept of the individual monetary demand. § 6."*

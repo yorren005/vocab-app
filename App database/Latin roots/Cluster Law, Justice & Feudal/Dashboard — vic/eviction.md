@@ -5,13 +5,6 @@ status: unread
 ---
 # eviction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Action by a landlord that compels a tenant to leave the premises (as by rendering the premises unfit for occupancy); no physical expulsion or legal process is involved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The expulsion of someone (such as a tenant) from the possession of land by process of law.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Two months after these evictions, two friends of mine and I had occasion to go on a vessel to the adjoining island of Sariba, in order to get our water casks filled."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Action by a landlord that compels a tenant to leave the premises (as by rendering the premises unfit for occupancy); no physical expulsion or legal process is involved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The expulsion of someone (such as a tenant) from the possession of land by process of law.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Two months after these evictions, two friends of mine and I had occasion to go on a vessel to the adjoining island of Sariba, in order to get our water casks filled."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # flamethrower
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A weapon that squirts ignited fuel for several yards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A weapon that squirts ignited fuel for several yards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flamethrower designates a weapon that squirts ignited fuel for several yards."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A weapon that squirts ignited fuel for several yards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A weapon that squirts ignited fuel for several yards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flamethrower designates a weapon that squirts ignited fuel for several yards."*

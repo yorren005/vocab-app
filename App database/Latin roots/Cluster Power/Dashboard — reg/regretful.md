@@ -5,15 +5,6 @@ status: unread
 ---
 # regretful
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressing regret or sorrow or a sense of loss over something done or undone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or expressing regret or sorrow or a sense of loss over something done or undone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He followed me when I called him: but cast a regretful look at the postern by which we had gone out, through which I had dragged him back in a panic (I confess it) unworthy of me."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I continued also the wish to be with you, and experienced a strange, regretful consciousness of some barrier dividing us."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"There isn't a woman in the world I would exchange her for." "But I often do and say things you don't approve," she murmured, with a regretful sigh."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressing regret or sorrow or a sense of loss over something done or undone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or expressing regret or sorrow or a sense of loss over something done or undone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He followed me when I called him: but cast a regretful look at the postern by which we had gone out, through which I had dragged him back in a panic (I confess it) unworthy of me."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I continued also the wish to be with you, and experienced a strange, regretful consciousness of some barrier dividing us."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"There isn't a woman in the world I would exchange her for." "But I often do and say things you don't approve," she murmured, with a regretful sigh."*

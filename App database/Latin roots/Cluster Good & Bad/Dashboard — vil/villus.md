@@ -5,13 +5,6 @@ status: unread
 ---
 # villus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute hairlike projection on mucous membrane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A minute hairlike projection on mucous membrane.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, villus designates a minute hairlike projection on mucous membrane."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute hairlike projection on mucous membrane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A minute hairlike projection on mucous membrane.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, villus designates a minute hairlike projection on mucous membrane."*

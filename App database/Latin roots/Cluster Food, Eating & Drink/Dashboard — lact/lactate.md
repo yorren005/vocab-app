@@ -5,13 +5,6 @@ status: unread
 ---
 # lactate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of lactic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give suck to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactate designates a salt or ester of lactic acid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of lactic acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give suck to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactate designates a salt or ester of lactic acid."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # procreative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing new life or offspring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing new life or offspring.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, procreative designates producing new life or offspring."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing new life or offspring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing new life or offspring.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, procreative designates producing new life or offspring."*

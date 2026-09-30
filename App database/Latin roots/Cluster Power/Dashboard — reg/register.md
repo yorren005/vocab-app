@@ -5,15 +5,6 @@ status: unread
 ---
 # register
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official written record of names or events or transactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) the timbre that is characteristic of a certain range and manner of production of the human voice or of different pipe organ stops or of different musical instruments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Antony, Nobler than my revolt is infamous, Forgive me in thine own particular, But let the world rank me in register A master-leaver and a fugitive."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Kind gentlemen, your pains Are register’d where every day I turn The leaf to read them.—Let us toward the King.— Think upon what hath chanc’d; and at more time, The interim having weigh’d it, let us speak Our free hearts each to other."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, good Sir John, as you have one eye upon my follies, as you hear them unfolded, turn another into the register of your own, that I may pass with a reproof the easier, sith you yourself know how easy it is to be such an offender."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official written record of names or events or transactions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) the timbre that is characteristic of a certain range and manner of production of the human voice or of different pipe organ stops or of different musical instruments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Antony, Nobler than my revolt is infamous, Forgive me in thine own particular, But let the world rank me in register A master-leaver and a fugitive."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Kind gentlemen, your pains Are register’d where every day I turn The leaf to read them.—Let us toward the King.— Think upon what hath chanc’d; and at more time, The interim having weigh’d it, let us speak Our free hearts each to other."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, good Sir John, as you have one eye upon my follies, as you hear them unfolded, turn another into the register of your own, that I may pass with a reproof the easier, sith you yourself know how easy it is to be such an offender."*

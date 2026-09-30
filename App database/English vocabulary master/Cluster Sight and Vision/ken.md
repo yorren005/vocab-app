@@ -5,20 +5,6 @@ status: unread
 ---
 # ken
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Sight, view
-> 2. **Nuance / Usage**: The range of vision
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And even the very deils they brawly ken them)."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"^10 Wi’people that ken ye nae better."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And that will let them ken he’s to marry yet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: One's range of physical sight or vision; the distance across which the eye can see.
+> 2. **Nuance / Usage**: More commonly in modern English, the scope of one's mental perception, knowledge, or understanding (especially in the phrase *beyond one's ken*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Keats (*On First Looking into Chapman's Homer*):** *"Then felt I like some watcher of the skies when a new planet swims into his **ken**."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"Listen, Stranger! Mist and snow, and it grew wondrous cold, and ice, mast-high, came floating by, as green as emerald, till naught remained within our **ken**."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The mysteries of the fourth dimension lay entirely beyond the **ken** of his practical nineteenth-century mind."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # surpass
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinguish oneself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be or do something to a greater degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"This system gave considerable opportunity for management on the part of a thrifty housewife, and for such management there were few to surpass the housewife in the shepherd's cottage at Dunglass."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is noteworthy that the very year 1896, which marked the height of the political agitation to abandon the gold standard for silver, saw the gold production for the first time in all history surpass the two hundred million dollar mark."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The gold output had caught up with, and began to surpass, the normal monetary demands of the world, meaning by that phrase, the amount of gold needed to maintain a stationary level of prices. § 12. #Rising prices after 1896#."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinguish oneself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be or do something to a greater degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"This system gave considerable opportunity for management on the part of a thrifty housewife, and for such management there were few to surpass the housewife in the shepherd's cottage at Dunglass."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is noteworthy that the very year 1896, which marked the height of the political agitation to abandon the gold standard for silver, saw the gold production for the first time in all history surpass the two hundred million dollar mark."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The gold output had caught up with, and began to surpass, the normal monetary demands of the world, meaning by that phrase, the amount of gold needed to maintain a stationary level of prices. § 12. #Rising prices after 1896#."*

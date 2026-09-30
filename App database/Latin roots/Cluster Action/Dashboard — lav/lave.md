@@ -5,15 +5,6 @@ status: unread
 ---
 # lave
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wash or flow against.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cleanse (one's body) with soap and water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let your remembrance apply to Banquo; Present him eminence, both with eye and tongue: Unsafe the while, that we Must lave our honours in these flattering streams, And make our faces vizards to our hearts, Disguising what they are."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Coal-black is better than another hue In that it scorns to bear another hue; For all the water in the ocean Can never turn the swan’s black legs to white, Although she lave them hourly in the flood."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"A daimen icker in a thrave ’S a sma’ request; I’ll get a blessin wi’ the lave, An’ never miss’t!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wash or flow against.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cleanse (one's body) with soap and water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let your remembrance apply to Banquo; Present him eminence, both with eye and tongue: Unsafe the while, that we Must lave our honours in these flattering streams, And make our faces vizards to our hearts, Disguising what they are."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Coal-black is better than another hue In that it scorns to bear another hue; For all the water in the ocean Can never turn the swan’s black legs to white, Although she lave them hourly in the flood."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"A daimen icker in a thrave ’S a sma’ request; I’ll get a blessin wi’ the lave, An’ never miss’t!"*

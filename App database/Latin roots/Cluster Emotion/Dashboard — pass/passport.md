@@ -5,15 +5,6 @@ status: unread
 ---
 # passport
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any authorization to pass or go somewhere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A document issued by a country to a citizen allowing that person to travel abroad and re-enter the home country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His passport shall be made, And crowns for convoy put into his purse."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Provided with plenty of money and the passport of an old name, I could choose my own society: no circles were closed against me."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In this world, shipmates, sin that pays its way can travel freely, and without a passport; whereas Virtue, if a pauper, is stopped at all frontiers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any authorization to pass or go somewhere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A document issued by a country to a citizen allowing that person to travel abroad and re-enter the home country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His passport shall be made, And crowns for convoy put into his purse."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Provided with plenty of money and the passport of an old name, I could choose my own society: no circles were closed against me."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In this world, shipmates, sin that pays its way can travel freely, and without a passport; whereas Virtue, if a pauper, is stopped at all frontiers."*

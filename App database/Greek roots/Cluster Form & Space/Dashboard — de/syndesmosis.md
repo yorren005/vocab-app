@@ -5,13 +5,6 @@ status: unread
 ---
 # syndesmosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An articulation in which the contiguous surfaces of the bones are rough and are bound together by a ligament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An articulation in which the contiguous surfaces of the bones are rough and are bound together by a ligament.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syndesmosis designates an articulation in which the contiguous surfaces of the bones are rough and are bound together by a ligament."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An articulation in which the contiguous surfaces of the bones are rough and are bound together by a ligament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An articulation in which the contiguous surfaces of the bones are rough and are bound together by a ligament.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syndesmosis designates an articulation in which the contiguous surfaces of the bones are rough and are bound together by a ligament."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # minneapolis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Largest city in minnesota; located in southeastern minnesota on the mississippi river; noted for flour mills; one of the twin cities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Largest city in minnesota; located in southeastern minnesota on the mississippi river; noted for flour mills; one of the twin cities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The most notable examples of profit-sharing in the United States are the Pillsbury Mills in Minneapolis, Procter and Gamble's soap-factories, in Ivorydale, Ohio, the Nelson Mfg."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The most notable example of successful coöperation in America was in the cooper-shops in Minneapolis."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I was treated by the best of physicians in New York, Minneapolis, and Duluth, and was finally given up as incurable, when I heard of Christian Science."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Largest city in minnesota; located in southeastern minnesota on the mississippi river; noted for flour mills; one of the twin cities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Largest city in minnesota; located in southeastern minnesota on the mississippi river; noted for flour mills; one of the twin cities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The most notable examples of profit-sharing in the United States are the Pillsbury Mills in Minneapolis, Procter and Gamble's soap-factories, in Ivorydale, Ohio, the Nelson Mfg."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The most notable example of successful coöperation in America was in the cooper-shops in Minneapolis."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I was treated by the best of physicians in New York, Minneapolis, and Duluth, and was finally given up as incurable, when I heard of Christian Science."*

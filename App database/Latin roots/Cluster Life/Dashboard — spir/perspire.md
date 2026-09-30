@@ -5,15 +5,6 @@ status: unread
 ---
 # perspire
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excrete perspiration through the pores in the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excrete perspiration through the pores in the skin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"They say that they perspire profusely."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"The strain of his work made him perspire as though it were midsummer."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"They say that they perspire profusely."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excrete perspiration through the pores in the skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excrete perspiration through the pores in the skin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"They say that they perspire profusely."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"The strain of his work made him perspire as though it were midsummer."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"They say that they perspire profusely."*

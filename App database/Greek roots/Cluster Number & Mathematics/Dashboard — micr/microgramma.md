@@ -5,13 +5,6 @@ status: unread
 ---
 # microgramma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Epiphytic ferns of tropical america and africa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Epiphytic ferns of tropical america and africa.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microgramma designates epiphytic ferns of tropical america and africa."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Epiphytic ferns of tropical america and africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Epiphytic ferns of tropical america and africa.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microgramma designates epiphytic ferns of tropical america and africa."*

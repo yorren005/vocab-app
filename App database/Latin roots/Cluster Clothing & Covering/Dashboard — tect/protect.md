@@ -5,15 +5,6 @@ status: unread
 ---
 # protect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shield from danger, injury, destruction, or damage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use tariffs to favor domestic industry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The gods protect you, And bless the good remainders of the court!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST WARDER. [_Within_.] The Lord protect him, so we answer him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should he, then, protect our sovereign, He being of age to govern of himself?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shield from danger, injury, destruction, or damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use tariffs to favor domestic industry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The gods protect you, And bless the good remainders of the court!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST WARDER. [_Within_.] The Lord protect him, so we answer him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should he, then, protect our sovereign, He being of age to govern of himself?"*

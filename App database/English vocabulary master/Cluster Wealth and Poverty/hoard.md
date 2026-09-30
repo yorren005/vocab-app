@@ -5,20 +5,6 @@ status: unread
 ---
 # hoard
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Hidden supply or fund
-> 2. **Nuance / Usage**: Supply or fund stored up and often hidden away
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the hoard withstood the storm*), direct object (*cleaved the hoard*), or prepositional anchor (*amidst the hoard*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"The squirrel’s hoard, and fetch thee new nuts."*
-> - 📜 **Thomas Oswald Cockayne (*Spoon and sparrow*):** *"Be ye not willing to hoard to you gold hoards on earth, where rust and moth fortake it, and where thieves delve it and forsteal, {{..."*
-> - 📜 **Classic Author (*Classic Work*):** *"Occasionally Scots and Irish coins are also found. The gold hoards consist entirely of crown gold unites, half unites and quarter unites from the reigns of James I and Charles I."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Hidden supply or fund
+> 2. **Nuance / Usage**: Supply or fund stored up and often hidden away
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the hoard withstood the storm*), direct object (*cleaved the hoard*), or prepositional anchor (*amidst the hoard*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"The squirrel’s hoard, and fetch thee new nuts."*
+> - 📜 **Thomas Oswald Cockayne (*Spoon and sparrow*):** *"Be ye not willing to hoard to you gold hoards on earth, where rust and moth fortake it, and where thieves delve it and forsteal, {{..."*
+> - 📜 **Classic Author (*Classic Work*):** *"Occasionally Scots and Irish coins are also found. The gold hoards consist entirely of crown gold unites, half unites and quarter unites from the reigns of James I and Charles I."*

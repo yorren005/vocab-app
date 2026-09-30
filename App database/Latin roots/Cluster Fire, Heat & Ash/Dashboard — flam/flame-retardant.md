@@ -5,13 +5,6 @@ status: unread
 ---
 # flame-retardant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resistant to catching fire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resistant to catching fire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flame-retardant designates resistant to catching fire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resistant to catching fire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resistant to catching fire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flame-retardant designates resistant to catching fire."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # supervene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take place as an additional or unexpected development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take place as an additional or unexpected development.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grant Allen (*Michael's Crag*):** *"And it was a month or two, I have no doubt, before you noticed any serious symptoms supervening?" "Exactly so," Mrs."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"No crisis, apparently, had supervened; and there was nothing left for her to do but to continue upon that starve-acre farm till she could again summon courage to face the Vicarage."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"At that moment a little accident supervened, which seemed decreed by fate purposely to prove the truth of the adage, that “misfortunes never come singly,” and to add to their distresses the vexing one of the slip between the cup and the lip."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take place as an additional or unexpected development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take place as an additional or unexpected development.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grant Allen (*Michael's Crag*):** *"And it was a month or two, I have no doubt, before you noticed any serious symptoms supervening?" "Exactly so," Mrs."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"No crisis, apparently, had supervened; and there was nothing left for her to do but to continue upon that starve-acre farm till she could again summon courage to face the Vicarage."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"At that moment a little accident supervened, which seemed decreed by fate purposely to prove the truth of the adage, that “misfortunes never come singly,” and to add to their distresses the vexing one of the slip between the cup and the lip."*

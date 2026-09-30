@@ -5,13 +5,6 @@ status: unread
 ---
 # rhythmicity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rhythmic property imparted by the accents and relative durations of notes in a piece of music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rhythmic property imparted by the accents and relative durations of notes in a piece of music.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhythmicity designates the rhythmic property imparted by the accents and relative durations of notes in a piece of music."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rhythmic property imparted by the accents and relative durations of notes in a piece of music.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rhythmic property imparted by the accents and relative durations of notes in a piece of music.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhythmicity designates the rhythmic property imparted by the accents and relative durations of notes in a piece of music."*

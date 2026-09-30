@@ -5,15 +5,6 @@ status: unread
 ---
 # cooper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states industrialist who built the first american locomotive; founded cooper union in new york city to offer free courses in the arts and sciences (1791-1883).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states film actor noted for his portrayals of strong silent heroes (1901-1961).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Gros-Jean, our peasant, toils for money, and hoards; Jacques, who is a cooper and maker of wine casks, gains and drinks; Jean Pierre snatches at every sous that comes in his way, and spends it in yet worse dissipations."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The most notable example of successful coöperation in America was in the cooper-shops in Minneapolis."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Heron’s Election—Ballad Third Inscription For An Altar Of Independence Song—The Cardin O’t, The Spinnin O’t Song—The Cooper O’ Cuddy Song—The Lass That Made The Bed To Me Song—Had I The Wyte?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states industrialist who built the first american locomotive; founded cooper union in new york city to offer free courses in the arts and sciences (1791-1883).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states film actor noted for his portrayals of strong silent heroes (1901-1961).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Gros-Jean, our peasant, toils for money, and hoards; Jacques, who is a cooper and maker of wine casks, gains and drinks; Jean Pierre snatches at every sous that comes in his way, and spends it in yet worse dissipations."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The most notable example of successful coöperation in America was in the cooper-shops in Minneapolis."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Heron’s Election—Ballad Third Inscription For An Altar Of Independence Song—The Cardin O’t, The Spinnin O’t Song—The Cooper O’ Cuddy Song—The Lass That Made The Bed To Me Song—Had I The Wyte?"*

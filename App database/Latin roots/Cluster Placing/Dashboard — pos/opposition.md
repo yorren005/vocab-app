@@ -5,15 +5,6 @@ status: unread
 ---
 # opposition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of opposing something that you disapprove or disagree with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation between opposed entities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perchance he spoke not, but, Like a full-acorn’d boar, a German one, Cried “O!” and mounted; found no opposition But what he look’d for should oppose and she Should from encounter guard."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I mean, my lord, the opposition of your person in trial."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The purpose you undertake is dangerous, the friends you have named uncertain, the time itself unsorted, and your whole plot too light for the counterpoise of so great an opposition.” Say you so, say you so?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of opposing something that you disapprove or disagree with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation between opposed entities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perchance he spoke not, but, Like a full-acorn’d boar, a German one, Cried “O!” and mounted; found no opposition But what he look’d for should oppose and she Should from encounter guard."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I mean, my lord, the opposition of your person in trial."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The purpose you undertake is dangerous, the friends you have named uncertain, the time itself unsorted, and your whole plot too light for the counterpoise of so great an opposition.” Say you so, say you so?"*

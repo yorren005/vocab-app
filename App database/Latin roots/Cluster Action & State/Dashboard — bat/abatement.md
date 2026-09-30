@@ -5,15 +5,6 @@ status: unread
 ---
 # abatement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An interruption in the intensity or amount of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of abating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know you are more clement than vile men, Who of their broken debtors take a third, A sixth, a tenth, letting them thrive again On their abatement; that’s not my desire."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O spirit of love, how quick and fresh art thou, That notwithstanding thy capacity Receiveth as the sea, nought enters there, Of what validity and pitch soever, But falls into abatement and low price Even in a minute!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We shall be returning Ere you can end this feast, of which I pray you Make no abatement."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An interruption in the intensity or amount of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of abating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know you are more clement than vile men, Who of their broken debtors take a third, A sixth, a tenth, letting them thrive again On their abatement; that’s not my desire."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O spirit of love, how quick and fresh art thou, That notwithstanding thy capacity Receiveth as the sea, nought enters there, Of what validity and pitch soever, But falls into abatement and low price Even in a minute!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We shall be returning Ere you can end this feast, of which I pray you Make no abatement."*

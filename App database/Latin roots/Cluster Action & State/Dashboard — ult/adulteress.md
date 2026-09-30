@@ -5,14 +5,6 @@ status: unread
 ---
 # adulteress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman adulterer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman adulterer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then they called me foul adulteress, Lascivious Goth, and all the bitterest terms That ever ear did hear to such effect."*
-> - 📜 **James Joyce (*Ulysses*):** *"The adulteress and her paramour brought the Saxon robbers here. —Decree _nisi,_ says J."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman adulterer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman adulterer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then they called me foul adulteress, Lascivious Goth, and all the bitterest terms That ever ear did hear to such effect."*
+> - 📜 **James Joyce (*Ulysses*):** *"The adulteress and her paramour brought the Saxon robbers here. —Decree _nisi,_ says J."*

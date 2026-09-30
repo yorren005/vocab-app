@@ -5,15 +5,6 @@ status: unread
 ---
 # mercurial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to sudden unpredictable change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or under the (astrological) influence of the planet mercury.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know the shape of’s leg; this is his hand, His foot Mercurial, his Martial thigh, The brawns of Hercules; but his Jovial face— Murder in heaven!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"My sooth! right bauld ye set your nose out, As plump an’ grey as ony groset: O for some rank, mercurial rozet, Or fell, red smeddum, I’d gie you sic a hearty dose o’t, Wad dress your droddum."*
-> - 📜 **George Eliot (*Middlemarch*):** *"So our mercurial Ladislaw has a queer genealogy!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to sudden unpredictable change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or under the (astrological) influence of the planet mercury.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know the shape of’s leg; this is his hand, His foot Mercurial, his Martial thigh, The brawns of Hercules; but his Jovial face— Murder in heaven!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"My sooth! right bauld ye set your nose out, As plump an’ grey as ony groset: O for some rank, mercurial rozet, Or fell, red smeddum, I’d gie you sic a hearty dose o’t, Wad dress your droddum."*
+> - 📜 **George Eliot (*Middlemarch*):** *"So our mercurial Ladislaw has a queer genealogy!"*

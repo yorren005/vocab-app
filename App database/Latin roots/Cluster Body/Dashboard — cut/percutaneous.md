@@ -5,13 +5,6 @@ status: unread
 ---
 # percutaneous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Through the unbroken skin; refers to medications applied directly to the skin (creams or ointments) or in time-release forms (skin patches).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Through the unbroken skin; refers to medications applied directly to the skin (creams or ointments) or in time-release forms (skin patches).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, percutaneous designates through the unbroken skin; refers to medications applied directly to the skin (creams or ointments) or in time-release forms (skin patches)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Through the unbroken skin; refers to medications applied directly to the skin (creams or ointments) or in time-release forms (skin patches).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Through the unbroken skin; refers to medications applied directly to the skin (creams or ointments) or in time-release forms (skin patches).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, percutaneous designates through the unbroken skin; refers to medications applied directly to the skin (creams or ointments) or in time-release forms (skin patches)."*

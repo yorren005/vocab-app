@@ -5,20 +5,6 @@ status: unread
 ---
 # crag
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Neck, throat
-> 2. **Nuance / Usage**: Steep rugged rock or cliff
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the crag withstood the storm*), direct object (*cleaved the crag*), or prepositional anchor (*amidst the crag*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Heugh, a hollow or pit; a crag, a steep bank."*
-> - 📜 **Allen, Grant (*Michael's Crag*):** *"That's Michael's Crag," he said, laconically."*
-> - 📜 **Allen, Grant (*Michael's Crag*):** *"the airy summit of some tall jagged crag or rock-bound precipice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Neck, throat
+> 2. **Nuance / Usage**: Steep rugged rock or cliff
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the crag withstood the storm*), direct object (*cleaved the crag*), or prepositional anchor (*amidst the crag*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Heugh, a hollow or pit; a crag, a steep bank."*
+> - 📜 **Allen, Grant (*Michael's Crag*):** *"That's Michael's Crag," he said, laconically."*
+> - 📜 **Allen, Grant (*Michael's Crag*):** *"the airy summit of some tall jagged crag or rock-bound precipice."*

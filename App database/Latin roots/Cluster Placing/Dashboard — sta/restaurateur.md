@@ -5,15 +5,6 @@ status: unread
 ---
 # restaurateur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The proprietor of a restaurant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The proprietor of a restaurant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He called upon the ladies the next day; he rode by their side in the Park; he asked their party to a great dinner at a restaurateur's, and was quite wild with exultation when they agreed to come."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Had a dinner at the Restaurateur's--rather a nice thing."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"For instance, through the interest of my Lord Bareacres, and as a set-off for the dinner at the restaurateur's, George got a card for Captain and Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The proprietor of a restaurant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The proprietor of a restaurant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He called upon the ladies the next day; he rode by their side in the Park; he asked their party to a great dinner at a restaurateur's, and was quite wild with exultation when they agreed to come."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Had a dinner at the Restaurateur's--rather a nice thing."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"For instance, through the interest of my Lord Bareacres, and as a set-off for the dinner at the restaurateur's, George got a card for Captain and Mrs."*

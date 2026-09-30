@@ -5,13 +5,6 @@ status: unread
 ---
 # vestiture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic term for clothing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archaic term for clothing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vestiture designates an archaic term for clothing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic term for clothing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archaic term for clothing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vestiture designates an archaic term for clothing."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # senescence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The organic process of growing older and showing the effects of increasing age.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property characteristic of old age.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What two phenomena of senescence were more frequent?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The organic process of growing older and showing the effects of increasing age.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property characteristic of old age.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"What two phenomena of senescence were more frequent?"*

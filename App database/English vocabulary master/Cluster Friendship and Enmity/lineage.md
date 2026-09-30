@@ -5,20 +5,6 @@ status: unread
 ---
 # lineage
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Derivation
-> 2. **Nuance / Usage**: Fee or rate paid per line of text
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"They say, child, thou art of the lineage of the Prince of Air!"*
-> - 📜 **Walter Scott (*Ivanhoe*):** *"House of Anjou confer not their wards on men of such lineage as thine."*
-> - 📜 **Ella Davies (*Stick insects survive one million years without sex*):** *"They traced the ancient lineages of two species to reveal the insects' lengthy history of asexual reproduction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Direct lineal descent from an ancestor; ancestry, pedigree, or family extraction.
+> 2. **Nuance / Usage**: In evolutionary biology and intellectual history, denotes a continuous line of species, cells, or traditions evolving from a common progenitor.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"They say, child, thou art of the **lineage** of the Prince of Air!"*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The House of Anjou confer not their wards on men of such **lineage** as thine."*
+> - 📜 **Ella Davies (*BBC Earth*):** *"They traced the ancient **lineages** of two species to reveal the insects' lengthy history of asexual reproduction."*

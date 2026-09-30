@@ -5,15 +5,6 @@ status: unread
 ---
 # anthropological
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerned with the science of anthropology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with the science of anthropology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Roscoe, "Further Notes on the Manners and Customs of the Baganda," _Journal of the Anthropological Institute_, xxxii. (1902) pp. 62, 67; _id., The Baganda_ (London, 1911), pp. 154 _sq._ Compare L."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Macdonald, "Manners, Customs, Superstitions, and Religions of South African Tribes," _Journal of the Anthropological Institute_, xx. (1891) p. 118. [66] Dudley Kidd, _The Essential Kafir_ (London, 1904), p. 209."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Cole, "Notes on the Wagogo of German East Africa," _Journal of the Anthropological Institute_, xxxii. (1902) pp. 309 _sq._ [75] R."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerned with the science of anthropology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with the science of anthropology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Roscoe, "Further Notes on the Manners and Customs of the Baganda," _Journal of the Anthropological Institute_, xxxii. (1902) pp. 62, 67; _id., The Baganda_ (London, 1911), pp. 154 _sq._ Compare L."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Macdonald, "Manners, Customs, Superstitions, and Religions of South African Tribes," _Journal of the Anthropological Institute_, xx. (1891) p. 118. [66] Dudley Kidd, _The Essential Kafir_ (London, 1904), p. 209."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Cole, "Notes on the Wagogo of German East Africa," _Journal of the Anthropological Institute_, xxxii. (1902) pp. 309 _sq._ [75] R."*

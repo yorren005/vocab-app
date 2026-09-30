@@ -5,15 +5,6 @@ status: unread
 ---
 # condescending
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Behave in a patronizing and condescending manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Do something that one considers to be below one's dignity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"My landlord, Krook,” said the little old lady, condescending to him from her lofty station as she presented him to us."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A policeman has already walked up to the room, and walked down again to the door, where he stands like a tower, only condescending to see the boys at his base occasionally; but whenever he does see them, they quail and fall back."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And he is so condescending to the son he so egregiously deludes that you might suppose him the most virtuous of parents."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Behave in a patronizing and condescending manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Do something that one considers to be below one's dignity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"My landlord, Krook,” said the little old lady, condescending to him from her lofty station as she presented him to us."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A policeman has already walked up to the room, and walked down again to the door, where he stands like a tower, only condescending to see the boys at his base occasionally; but whenever he does see them, they quail and fall back."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And he is so condescending to the son he so egregiously deludes that you might suppose him the most virtuous of parents."*

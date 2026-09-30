@@ -5,15 +5,6 @@ status: unread
 ---
 # react
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show a response or a reaction to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act against or in opposition to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"It should react upon his metrical vocabulary to its beneficial expansion, by taking him outside his aristocratic circle of language, and keeping him in touch with the great commonalty, the proletariat of speech."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Featherstone, holding his stick between his knees and settling his wig, while he gave her a momentary sharp glance, which seemed to react on him like a draught of cold air and set him coughing."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon would have trained me for, where the doing would be all laid down by a precedent too rigid for me to react upon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Show a response or a reaction to something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act against or in opposition to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"It should react upon his metrical vocabulary to its beneficial expansion, by taking him outside his aristocratic circle of language, and keeping him in touch with the great commonalty, the proletariat of speech."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Featherstone, holding his stick between his knees and settling his wig, while he gave her a momentary sharp glance, which seemed to react on him like a draught of cold air and set him coughing."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon would have trained me for, where the doing would be all laid down by a precedent too rigid for me to react upon."*

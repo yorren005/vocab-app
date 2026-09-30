@@ -5,13 +5,6 @@ status: unread
 ---
 # dacryocyst
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the two dilated ends of the lacrimal ducts at the nasal ends of the eyes that fill with tears secreted by the lacrimal glands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the two dilated ends of the lacrimal ducts at the nasal ends of the eyes that fill with tears secreted by the lacrimal glands.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dacryocyst designates either of the two dilated ends of the lacrimal ducts at the nasal ends of the eyes that fill with tears secreted by the lacrimal glands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the two dilated ends of the lacrimal ducts at the nasal ends of the eyes that fill with tears secreted by the lacrimal glands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the two dilated ends of the lacrimal ducts at the nasal ends of the eyes that fill with tears secreted by the lacrimal glands.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dacryocyst designates either of the two dilated ends of the lacrimal ducts at the nasal ends of the eyes that fill with tears secreted by the lacrimal glands."*

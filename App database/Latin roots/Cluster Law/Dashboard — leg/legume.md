@@ -5,13 +5,6 @@ status: unread
 ---
 # legume
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An erect or climbing bean or pea plant of the family leguminosae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fruit or seed of any of various bean or pea plants consisting of a case that splits along both sides when ripe and having the seeds attach to one side of the case.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"If the legumes are also examined, a few pustules will sometimes be found on them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An erect or climbing bean or pea plant of the family leguminosae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fruit or seed of any of various bean or pea plants consisting of a case that splits along both sides when ripe and having the seeds attach to one side of the case.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"If the legumes are also examined, a few pustules will sometimes be found on them."*

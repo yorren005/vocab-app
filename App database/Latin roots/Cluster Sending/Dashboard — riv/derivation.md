@@ -5,15 +5,6 @@ status: unread
 ---
 # derivation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The source or origin from which something derives (i.e. comes or issues).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (historical linguistics) an explanation of the historical origins of a word or phrase.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The etymology of the word Beltane is uncertain; the popular derivation of the first part from the Phoenician Baal is absurd."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The festival of this divinity was commemorated in Scotland until the latest date." Modern scholars are not agreed as to the derivation of the name Beltane."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The dissection and definition of words, aside from their metaphysical derivation, is not scien- 338:27 tific."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The source or origin from which something derives (i.e. comes or issues).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (historical linguistics) an explanation of the historical origins of a word or phrase.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The etymology of the word Beltane is uncertain; the popular derivation of the first part from the Phoenician Baal is absurd."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The festival of this divinity was commemorated in Scotland until the latest date." Modern scholars are not agreed as to the derivation of the name Beltane."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The dissection and definition of words, aside from their metaphysical derivation, is not scien- 338:27 tific."*

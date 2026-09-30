@@ -5,14 +5,6 @@ status: unread
 ---
 # animalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that human beings are purely animal in nature and lacking a spiritual nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preoccupation with satisfaction of physical drives and appetites.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Some might risk the odd paradox that with more animalism he would have been the nobler man."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"There was animalism in the soul, and the body had its moments of spirituality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that human beings are purely animal in nature and lacking a spiritual nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preoccupation with satisfaction of physical drives and appetites.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Some might risk the odd paradox that with more animalism he would have been the nobler man."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"There was animalism in the soul, and the body had its moments of spirituality."*

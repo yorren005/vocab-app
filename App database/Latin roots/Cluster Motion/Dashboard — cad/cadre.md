@@ -5,15 +5,6 @@ status: unread
 ---
 # cadre
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small unit serving as part of or as the nucleus of a larger political movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nucleus of military personnel capable of expansion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Agreements were quickly concluded and the diplomatic cadre took over to prepare an agenda for the meeting's substance."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Cadre's primary mission was to establish a base of operations on Pluto."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Cadre's mission was in phases."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small unit serving as part of or as the nucleus of a larger political movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nucleus of military personnel capable of expansion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Agreements were quickly concluded and the diplomatic cadre took over to prepare an agenda for the meeting's substance."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Cadre's primary mission was to establish a base of operations on Pluto."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Cadre's mission was in phases."*

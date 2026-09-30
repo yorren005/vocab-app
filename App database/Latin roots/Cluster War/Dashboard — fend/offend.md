@@ -5,15 +5,6 @@ status: unread
 ---
 # offend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to feel resentment or indignation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act in disregard of laws, rules, contracts, or promises.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thence it came That she whom all men prais’d, and whom myself, Since I have lost, have lov’d, was in mine eye The dust that did offend it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take no offence that I would not offend you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could do more to do Antonius good, But ’twould offend him, and in his offence Should my performance perish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to feel resentment or indignation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act in disregard of laws, rules, contracts, or promises.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thence it came That she whom all men prais’d, and whom myself, Since I have lost, have lov’d, was in mine eye The dust that did offend it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take no offence that I would not offend you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could do more to do Antonius good, But ’twould offend him, and in his offence Should my performance perish."*

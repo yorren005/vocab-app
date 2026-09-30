@@ -5,20 +5,6 @@ status: unread
 ---
 # steading
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Small farm
-> 2. **Nuance / Usage**: Be of avail to : help
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the steading withstood the storm*), direct object (*cleaved the steading*), or prepositional anchor (*amidst the steading*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The red and white herd nearest at hand now trooped towards the steading in the background, their great bags of milk swinging under them as they walked."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"All over the countryside, away to the rolling hills around Aldershot, the little red and grey roofs of the farm-steadings peeped out from amid the light green of the new foliage."*
-> - 📜 **John Buchan (*The Outgoing of the Tide*):** *"There was routh of fowls and doos about the small steading, forbye a wheen sheep and milk-kye in the fields."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A farmstead, specifically the farmhouse together with its cluster of barns, stables, and outbuildings (chiefly Scottish and Northern English).
+> 2. **Nuance / Usage**: Often refers specifically to the working farmyard and outbuildings as distinct from the farmer's dwelling house itself.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the steading withstood the storm*), direct object (*cleaved the steading*), or prepositional anchor (*amidst the steading*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The red and white herd nearest at hand now trooped towards the **steading** in the background."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"All over the countryside, the little red and grey roofs of the farm-**steadings** peeped out from amid the light green of the new foliage."*
+> - 📜 **John Buchan (*The Outgoing of the Tide*):** *"There was routh of fowls and doos about the small **steading**, forbye a wheen sheep and milk-kye in the fields."*

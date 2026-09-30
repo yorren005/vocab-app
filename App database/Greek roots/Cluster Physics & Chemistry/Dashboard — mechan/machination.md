@@ -5,15 +5,6 @@ status: unread
 ---
 # machination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crafty and involved plot to achieve your (usually sinister) ends.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crafty and involved plot to achieve your (usually sinister) ends.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you miscarry, Your business of the world hath so an end, And machination ceases."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"He execrated his own folly, without which all the machination of Duval would have been without effect."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Machinations, hollowness, treachery, and all ruinous disorders follow us disquietly to our graves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A crafty and involved plot to achieve your (usually sinister) ends.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crafty and involved plot to achieve your (usually sinister) ends.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you miscarry, Your business of the world hath so an end, And machination ceases."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"He execrated his own folly, without which all the machination of Duval would have been without effect."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Machinations, hollowness, treachery, and all ruinous disorders follow us disquietly to our graves."*

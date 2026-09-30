@@ -5,13 +5,6 @@ status: unread
 ---
 # neurotoxin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A poisonous substance (such as tetrodotoxin or saxitoxin) that acts on the nervous system and disrupts the normal function of nerve cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poisonous substance (such as tetrodotoxin or saxitoxin) that acts on the nervous system and disrupts the normal function of nerve cells.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurotoxin designates a poisonous substance (such as tetrodotoxin or saxitoxin) that acts on the nervous system and disrupts the normal function of nerve cells."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poisonous substance (such as tetrodotoxin or saxitoxin) that acts on the nervous system and disrupts the normal function of nerve cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poisonous substance (such as tetrodotoxin or saxitoxin) that acts on the nervous system and disrupts the normal function of nerve cells.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurotoxin designates a poisonous substance (such as tetrodotoxin or saxitoxin) that acts on the nervous system and disrupts the normal function of nerve cells."*

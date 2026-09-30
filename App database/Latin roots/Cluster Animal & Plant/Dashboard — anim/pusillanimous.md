@@ -5,15 +5,6 @@ status: unread
 ---
 # pusillanimous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in courage and manly strength and resolution; contemptibly fearful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in courage and manly strength and resolution; contemptibly fearful.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Surely, on no other occasion should I have been thus pusillanimous."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They become drunken, indolent, feeble, thievish, and pusillanimous."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"A mole on the right side, over any part of the ribs, denotes the person to be pusillanimous, and slow in understanding anything that may be attended with difficulty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in courage and manly strength and resolution; contemptibly fearful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in courage and manly strength and resolution; contemptibly fearful.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Surely, on no other occasion should I have been thus pusillanimous."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They become drunken, indolent, feeble, thievish, and pusillanimous."*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"A mole on the right side, over any part of the ribs, denotes the person to be pusillanimous, and slow in understanding anything that may be attended with difficulty."*

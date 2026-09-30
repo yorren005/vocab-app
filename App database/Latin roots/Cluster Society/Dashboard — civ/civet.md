@@ -5,15 +5,6 @@ status: unread
 ---
 # civet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cat-like mammal typically secreting musk used in perfumes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cat-like mammal typically secreting musk used in perfumes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The courtier’s hands are perfumed with civet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Civet is of a baser birth than tar, the very uncleanly flux of a cat."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me an ounce of civet, good apothecary, to sweeten my imagination."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cat-like mammal typically secreting musk used in perfumes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cat-like mammal typically secreting musk used in perfumes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The courtier’s hands are perfumed with civet."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Civet is of a baser birth than tar, the very uncleanly flux of a cat."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me an ounce of civet, good apothecary, to sweeten my imagination."*

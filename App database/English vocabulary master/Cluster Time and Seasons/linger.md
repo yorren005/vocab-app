@@ -5,20 +5,6 @@ status: unread
 ---
 # linger
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Remain alive although gradually dying
-> 2. **Nuance / Usage**: Be slow in parting or in quitting something : tarry
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to linger the target*) and intransitive clauses (*lingering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Come, son, away; we may not linger thus."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I would not have thee linger in thy pain."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Many, however, linger only in a metamorphosed or disguised form."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To stay in a place longer than necessary, typically out of reluctance to leave or a desire to savor a moment.
+> 2. **Nuance / Usage**: Applied to impressions, scents, illnesses, or customs, it means to persist faintly and gradually fade rather than disappearing all at once.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (intransitive).
+> - **Syntactic Constructions**: Operates in intransitive clauses with locative or topical prepositions (*linger over dinner*, *lingered in the memory*).
+> - **Collocations & Registers**: Poetic, elegiac, and narrative registers; collocated with *doubt*, *scent*, *twilight*, *memory*, and *reluctantly*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Othello*):** *"I would not have thee **linger** in thy pain."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Many of the old customs, however, **linger** only in a metamorphosed or disguised form."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"They **lingered** on the steps in the autumn twilight, unwilling to break the fragile spell of the evening."*

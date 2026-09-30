@@ -5,13 +5,6 @@ status: unread
 ---
 # introject
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychoanalysis) parental figures (and their values) that you introjected as a child; the voice of conscience is usually a parent's voice internalized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incorporate (attitudes or ideas) into one's personality unconsciously.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, introject designates (psychoanalysis) parental figures (and their values) that you introjected as a child; the voice of conscience is usually a parent's voice internalized."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychoanalysis) parental figures (and their values) that you introjected as a child; the voice of conscience is usually a parent's voice internalized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incorporate (attitudes or ideas) into one's personality unconsciously.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, introject designates (psychoanalysis) parental figures (and their values) that you introjected as a child; the voice of conscience is usually a parent's voice internalized."*

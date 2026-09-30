@@ -5,13 +5,6 @@ status: unread
 ---
 # delocalize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove from the proper or usual locality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove from the proper or usual locality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, delocalize designates remove from the proper or usual locality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove from the proper or usual locality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove from the proper or usual locality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, delocalize designates remove from the proper or usual locality."*

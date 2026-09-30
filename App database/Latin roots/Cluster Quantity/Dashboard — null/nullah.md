@@ -5,13 +5,6 @@ status: unread
 ---
 # nullah
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ravine or gully in southern asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ravine or gully in southern asia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nullah designates a ravine or gully in southern asia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ravine or gully in southern asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ravine or gully in southern asia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nullah designates a ravine or gully in southern asia."*

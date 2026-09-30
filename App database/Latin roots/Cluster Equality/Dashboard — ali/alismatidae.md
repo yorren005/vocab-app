@@ -5,13 +5,6 @@ status: unread
 ---
 # alismatidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of four subclasses or superorders of monocotyledones; comprises about 500 species in 14 families of aquatic and semiaquatic herbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of four subclasses or superorders of monocotyledones; comprises about 500 species in 14 families of aquatic and semiaquatic herbs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alismatidae designates one of four subclasses or superorders of monocotyledones; comprises about 500 species in 14 families of aquatic and semiaquatic herbs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of four subclasses or superorders of monocotyledones; comprises about 500 species in 14 families of aquatic and semiaquatic herbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of four subclasses or superorders of monocotyledones; comprises about 500 species in 14 families of aquatic and semiaquatic herbs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alismatidae designates one of four subclasses or superorders of monocotyledones; comprises about 500 species in 14 families of aquatic and semiaquatic herbs."*

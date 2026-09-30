@@ -5,15 +5,6 @@ status: unread
 ---
 # defend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Argue or speak in defense of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be on the defensive; act against an attack.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Isis else defend, And serving you so long!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Five tribunes to defend their vulgar wisdoms, Of their own choice."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been i’ th’ marketplace; and, sir, ’tis fit You make strong party or defend yourself By calmness or by absence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Argue or speak in defense of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be on the defensive; act against an attack.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Isis else defend, And serving you so long!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Five tribunes to defend their vulgar wisdoms, Of their own choice."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been i’ th’ marketplace; and, sir, ’tis fit You make strong party or defend yourself By calmness or by absence."*

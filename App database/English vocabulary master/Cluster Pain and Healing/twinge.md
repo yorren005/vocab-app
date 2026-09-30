@@ -5,20 +5,6 @@ status: unread
 ---
 # twinge
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Pluck, tweak
-> 2. **Nuance / Usage**: Moral or emotional pang
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"And not a twinge of bodily pain about me!"*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She remembered the humble friend of her youth, not perhaps without a twinge of conscience."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Yes, I think so,” said Fred, with an unpleasant twinge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Pluck, tweak
+> 2. **Nuance / Usage**: Moral or emotional pang
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"And not a twinge of bodily pain about me!"*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She remembered the humble friend of her youth, not perhaps without a twinge of conscience."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Yes, I think so,” said Fred, with an unpleasant twinge."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # dissemination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The opening of a subject to widespread discussion and debate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being diffused or dispersed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"And its fruits are, above all, its dissemination."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The process of the dissemination of Bahá'í literature, of Bahá'í publication and translation, must continue unabated, however much the sacrifice involved."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The careful dissemination of printed matter tended to sustain the interest of country societies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The opening of a subject to widespread discussion and debate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being diffused or dispersed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"And its fruits are, above all, its dissemination."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The process of the dissemination of Bahá'í literature, of Bahá'í publication and translation, must continue unabated, however much the sacrifice involved."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The careful dissemination of printed matter tended to sustain the interest of country societies."*

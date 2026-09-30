@@ -5,13 +5,6 @@ status: unread
 ---
 # inotrope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that increases or decreases the force of muscular contractions : an inotropic drug or agent (such as epinephrine or a beta-blocker).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance that increases or decreases the force of muscular contractions : an inotropic drug or agent (such as epinephrine or a beta-blocker).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inotrope designates a substance that increases or decreases the force of muscular contractions : an inotropic drug or agent (such as epinephrine or a beta-blocker)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that increases or decreases the force of muscular contractions : an inotropic drug or agent (such as epinephrine or a beta-blocker).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance that increases or decreases the force of muscular contractions : an inotropic drug or agent (such as epinephrine or a beta-blocker).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inotrope designates a substance that increases or decreases the force of muscular contractions : an inotropic drug or agent (such as epinephrine or a beta-blocker)."*

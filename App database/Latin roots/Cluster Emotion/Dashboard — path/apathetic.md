@@ -5,15 +5,6 @@ status: unread
 ---
 # apathetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing little or no emotion or animation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by a lack of interest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"While they uncovered the sheaves he stood apathetic beside his portable repository of force, round whose hot blackness the morning air quivered."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"She had not told him of my visit; he was so listless and apathetic that it worried him to talk, or to have people talk to him."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He is by no means apathetic, but loves both old and young, affects the very brutes and birds and flowers of the field."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing little or no emotion or animation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by a lack of interest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"While they uncovered the sheaves he stood apathetic beside his portable repository of force, round whose hot blackness the morning air quivered."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"She had not told him of my visit; he was so listless and apathetic that it worried him to talk, or to have people talk to him."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He is by no means apathetic, but loves both old and young, affects the very brutes and birds and flowers of the field."*

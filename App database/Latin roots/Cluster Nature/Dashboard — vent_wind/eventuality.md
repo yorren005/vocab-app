@@ -5,15 +5,6 @@ status: unread
 ---
 # eventuality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A possible event or occurrence or result.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A possible event or occurrence or result.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"What exactitude, what minuteness, what knowledge of the locality, what foresight for every eventuality, every possibility even to the smallest detail!"*
-> - 📜 **James Joyce (*Ulysses*):** *"Why might these several provisional contingencies between a guest and a hostess not necessarily preclude or be precluded by a permanent eventuality of reconciliatory union between a schoolfellow and a jew’s daughter?"*
-> - 📜 **James Joyce (*Ulysses*):** *"What eventuality would render him independent of such wealth?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A possible event or occurrence or result.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A possible event or occurrence or result.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"What exactitude, what minuteness, what knowledge of the locality, what foresight for every eventuality, every possibility even to the smallest detail!"*
+> - 📜 **James Joyce (*Ulysses*):** *"Why might these several provisional contingencies between a guest and a hostess not necessarily preclude or be precluded by a permanent eventuality of reconciliatory union between a schoolfellow and a jew’s daughter?"*
+> - 📜 **James Joyce (*Ulysses*):** *"What eventuality would render him independent of such wealth?"*

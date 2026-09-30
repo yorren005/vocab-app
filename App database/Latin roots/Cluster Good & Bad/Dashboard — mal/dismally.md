@@ -5,15 +5,6 @@ status: unread
 ---
 # dismally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a cheerless manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dreadful manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Whatever he put on, became him less (it dismally seemed to me) than what he had worn before."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I lay there dismally calculating that sixteen entire hours must elapse before I could hope for a resurrection."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But the hours of darkness passed in peace; the men who still remained at their duty toiling hard at the pumps, whose clinking and clanking at intervals through the dreary night dismally resounded through the ship."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a cheerless manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dreadful manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Whatever he put on, became him less (it dismally seemed to me) than what he had worn before."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I lay there dismally calculating that sixteen entire hours must elapse before I could hope for a resurrection."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But the hours of darkness passed in peace; the men who still remained at their duty toiling hard at the pumps, whose clinking and clanking at intervals through the dreary night dismally resounded through the ship."*

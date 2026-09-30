@@ -5,13 +5,6 @@ status: unread
 ---
 # codlins-and-cream
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant of europe and asia having purplish-red flowers and hairy stems and leaves; introduced into north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant of europe and asia having purplish-red flowers and hairy stems and leaves; introduced into north america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, codlins-and-cream designates plant of europe and asia having purplish-red flowers and hairy stems and leaves; introduced into north america."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant of europe and asia having purplish-red flowers and hairy stems and leaves; introduced into north america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant of europe and asia having purplish-red flowers and hairy stems and leaves; introduced into north america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, codlins-and-cream designates plant of europe and asia having purplish-red flowers and hairy stems and leaves; introduced into north america."*

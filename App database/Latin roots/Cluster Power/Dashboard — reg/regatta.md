@@ -5,15 +5,6 @@ status: unread
 ---
 # regatta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A meeting for boat races.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meeting for boat races.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Count Bennigsen, being a landowner in the Vílna province, offered his country house for the fete, and the thirteenth of June was fixed for a ball, dinner, regatta, and fireworks at Zakret, Count Bennigsen’s country seat."*
-> - 📜 **James Joyce (*Ulysses*):** *"Bob Cowley lent him his for the Wicklow regatta concert last year and never heard tidings of it from that good day to this."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"She was ashamed, too, of the very recollection of his habit of getting drunk at races, regattas, and other national festivals, by an accident at one of which he had met his death."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A meeting for boat races.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meeting for boat races.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Count Bennigsen, being a landowner in the Vílna province, offered his country house for the fete, and the thirteenth of June was fixed for a ball, dinner, regatta, and fireworks at Zakret, Count Bennigsen’s country seat."*
+> - 📜 **James Joyce (*Ulysses*):** *"Bob Cowley lent him his for the Wicklow regatta concert last year and never heard tidings of it from that good day to this."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"She was ashamed, too, of the very recollection of his habit of getting drunk at races, regattas, and other national festivals, by an accident at one of which he had met his death."*

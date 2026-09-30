@@ -5,15 +5,6 @@ status: unread
 ---
 # semitic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A major branch of the afro-asiatic language family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the group of semitic languages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As well had Pilate and I been known to each other before ever he journeyed out to be procurator over the Semitic volcano of Jerusalem."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The nose is generally of the Semitic type."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The resemblance which the Cretan traditions bear to the Carthaginian practice suggests that the worship associated with the names of Minos and the Minotaur may have been powerfully influenced by that of a Semitic Baal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major branch of the afro-asiatic language family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the group of semitic languages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As well had Pilate and I been known to each other before ever he journeyed out to be procurator over the Semitic volcano of Jerusalem."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The nose is generally of the Semitic type."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The resemblance which the Cretan traditions bear to the Carthaginian practice suggests that the worship associated with the names of Minos and the Minotaur may have been powerfully influenced by that of a Semitic Baal."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sympathetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the sympathetic nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing or feeling or resulting from sympathy or compassion or friendly fellow feelings; disposed toward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I am so curious," said Loneli, taking leave, and Mea promised to give the sympathetic Loneli a full report of everything."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, law-stationer of Cook’s Court, Cursitor Street, is sensible of the influence not only in his mind as a sympathetic and contemplative man, but also in his business as a law-stationer aforesaid."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sympathetic man still looked the other way, and wondered when she would recover coolness sufficient to justify him in facing her again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the sympathetic nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing or feeling or resulting from sympathy or compassion or friendly fellow feelings; disposed toward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I am so curious," said Loneli, taking leave, and Mea promised to give the sympathetic Loneli a full report of everything."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, law-stationer of Cook’s Court, Cursitor Street, is sensible of the influence not only in his mind as a sympathetic and contemplative man, but also in his business as a law-stationer aforesaid."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sympathetic man still looked the other way, and wondered when she would recover coolness sufficient to justify him in facing her again."*

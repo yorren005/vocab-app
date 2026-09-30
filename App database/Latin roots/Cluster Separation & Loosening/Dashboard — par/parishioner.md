@@ -5,15 +5,6 @@ status: unread
 ---
 # parishioner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a parish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a parish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The clergyman stayed to exchange a few sentences, either of admonition or reproof, with his haughty parishioner; this duty done, he too departed."*
-> - 📜 **George Eliot (*Middlemarch*):** *"There’s a parishioner of mine—a fine fellow, but who would hardly have pulled through as he has done without his wife."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He entered with an almost noiseless step, bent his head mildly to the pews on each side, and bowed as he passed his oldest parishioner, a white-haired great grandsire, who occupied an arm-chair in the centre of the aisle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a parish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a parish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The clergyman stayed to exchange a few sentences, either of admonition or reproof, with his haughty parishioner; this duty done, he too departed."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There’s a parishioner of mine—a fine fellow, but who would hardly have pulled through as he has done without his wife."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He entered with an almost noiseless step, bent his head mildly to the pews on each side, and bowed as he passed his oldest parishioner, a white-haired great grandsire, who occupied an arm-chair in the centre of the aisle."*

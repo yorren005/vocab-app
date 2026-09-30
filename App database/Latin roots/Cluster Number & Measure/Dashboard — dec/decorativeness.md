@@ -5,13 +5,6 @@ status: unread
 ---
 # decorativeness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An appearance that serves to decorate and make something more attractive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An appearance that serves to decorate and make something more attractive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decorativeness designates an appearance that serves to decorate and make something more attractive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An appearance that serves to decorate and make something more attractive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An appearance that serves to decorate and make something more attractive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decorativeness designates an appearance that serves to decorate and make something more attractive."*

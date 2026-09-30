@@ -5,13 +5,6 @@ status: unread
 ---
 # vaccinium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen or deciduous berry-bearing shrubs of northern hemisphere: cranberries; blueberries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen or deciduous berry-bearing shrubs of northern hemisphere: cranberries; blueberries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"BILBERRY UREDO; spots yellow-brown; sori subrotund, minute, aggregate, and scattered, on the under surface of the leaves; epidermis seldom ruptured; spores ovoid, yellowish.—On _Vaccinium Myrtillus_ and _V. vitis-idæa_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen or deciduous berry-bearing shrubs of northern hemisphere: cranberries; blueberries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen or deciduous berry-bearing shrubs of northern hemisphere: cranberries; blueberries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"BILBERRY UREDO; spots yellow-brown; sori subrotund, minute, aggregate, and scattered, on the under surface of the leaves; epidermis seldom ruptured; spores ovoid, yellowish.—On _Vaccinium Myrtillus_ and _V. vitis-idæa_."*

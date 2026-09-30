@@ -5,15 +5,6 @@ status: unread
 ---
 # gratuitously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an uncalled-for manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an uncalled-for manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Though his services were rendered quite gratuitously."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They were only women; they were not regular labourers; they were not particularly required anywhere; hence they had to hire a waggon at their own expense, and got nothing sent gratuitously."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The half-barrel is fastened to the pole by means of a long nail, which is made for the purpose and furnished gratuitously by the village blacksmith."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an uncalled-for manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an uncalled-for manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Though his services were rendered quite gratuitously."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They were only women; they were not regular labourers; they were not particularly required anywhere; hence they had to hire a waggon at their own expense, and got nothing sent gratuitously."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The half-barrel is fastened to the pole by means of a long nail, which is made for the purpose and furnished gratuitously by the village blacksmith."*

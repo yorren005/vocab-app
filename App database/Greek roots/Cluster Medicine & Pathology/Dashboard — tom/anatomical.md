@@ -5,15 +5,6 @@ status: unread
 ---
 # anatomical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression that relates to anatomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the structure of the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Well, as to going up into their horns,” replied Dairyman Crick dubiously, as though even witchcraft might be limited by anatomical possibilities, “I couldn’t say; I certainly could not."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He was ambitious of a wider effect: he was fired with the possibility that he might work out the proof of an anatomical conception and make a link in the chain of discovery."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He intended to begin in his own case some particular reforms which were quite certainly within his reach, and much less of a problem than the demonstrating of an anatomical conception."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression that relates to anatomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the structure of the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Well, as to going up into their horns,” replied Dairyman Crick dubiously, as though even witchcraft might be limited by anatomical possibilities, “I couldn’t say; I certainly could not."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He was ambitious of a wider effect: he was fired with the possibility that he might work out the proof of an anatomical conception and make a link in the chain of discovery."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He intended to begin in his own case some particular reforms which were quite certainly within his reach, and much less of a problem than the demonstrating of an anatomical conception."*

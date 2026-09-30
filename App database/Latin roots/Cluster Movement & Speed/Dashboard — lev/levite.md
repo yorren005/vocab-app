@@ -5,15 +5,6 @@ status: unread
 ---
 # levite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the hebrew tribe of levi (especially the branch that provided male assistants to the temple priests).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the hebrew tribe of levi (especially the branch that provided male assistants to the temple priests).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Thrown thick o'er half a Continent, His blood-stained victims lie; The priest, in horror, lifts his hands, The Levite passes by."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Glad I am, at least, that Helen still refuses to discard Her, through tales false gossips tell in spite or heedlessness.--'Tis hard!-- Lee, the Levite!--some few years back Herbert horsewhipp'd him--the cur Show'd his teeth and laid his ears back."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The priest and the Levite in the parable were conscious of their purity, but Jesus gives no hint that they saw God."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the hebrew tribe of levi (especially the branch that provided male assistants to the temple priests).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the hebrew tribe of levi (especially the branch that provided male assistants to the temple priests).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Thrown thick o'er half a Continent, His blood-stained victims lie; The priest, in horror, lifts his hands, The Levite passes by."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Glad I am, at least, that Helen still refuses to discard Her, through tales false gossips tell in spite or heedlessness.--'Tis hard!-- Lee, the Levite!--some few years back Herbert horsewhipp'd him--the cur Show'd his teeth and laid his ears back."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The priest and the Levite in the parable were conscious of their purity, but Jesus gives no hint that they saw God."*

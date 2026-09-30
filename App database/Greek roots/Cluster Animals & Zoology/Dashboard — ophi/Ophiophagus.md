@@ -5,14 +5,6 @@ status: unread
 ---
 # ophiophagus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: King cobra.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King cobra.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I have just obtained, by exchange with another collector,” he said, “a splendid specimen of the Ophiophagus.” “And what may that be?” the lady inquired with a somewhat languid interest."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The Ophiophagus is a snake which eats other snakes.” “I hope it will eat all yours,” she said, absently shifting the lamp."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: King cobra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King cobra.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I have just obtained, by exchange with another collector,” he said, “a splendid specimen of the Ophiophagus.” “And what may that be?” the lady inquired with a somewhat languid interest."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The Ophiophagus is a snake which eats other snakes.” “I hope it will eat all yours,” she said, absently shifting the lamp."*

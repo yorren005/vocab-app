@@ -5,15 +5,6 @@ status: unread
 ---
 # advocate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who pleads for a cause or propounds an idea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lawyer who pleads cases in court.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hapless Egeon, whom the fates have mark’d To bear the extremity of dire mishap; Now, trust me, were it not against our laws, Against my crown, my oath, my dignity, Which princes, would they, may not disannul, My soul should sue as advocate for thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For you, Posthumus, So soon as I can win th’ offended King, I will be known your advocate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By Him that raised me to this careful height From that contented hap which I enjoyed, I never did incense his Majesty Against the Duke of Clarence, but have been An earnest advocate to plead for him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who pleads for a cause or propounds an idea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lawyer who pleads cases in court.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hapless Egeon, whom the fates have mark’d To bear the extremity of dire mishap; Now, trust me, were it not against our laws, Against my crown, my oath, my dignity, Which princes, would they, may not disannul, My soul should sue as advocate for thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For you, Posthumus, So soon as I can win th’ offended King, I will be known your advocate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By Him that raised me to this careful height From that contented hap which I enjoyed, I never did incense his Majesty Against the Duke of Clarence, but have been An earnest advocate to plead for him."*

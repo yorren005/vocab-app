@@ -5,13 +5,6 @@ status: unread
 ---
 # rastafarianism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A religious cult based on a belief that ras tafari (haile selassie) is the messiah and that africa (especially ethiopia) is the promised land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A religious cult based on a belief that ras tafari (haile selassie) is the messiah and that africa (especially ethiopia) is the promised land.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rastafarianism designates a religious cult based on a belief that ras tafari (haile selassie) is the messiah and that africa (especially ethiopia) is the promised land."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A religious cult based on a belief that ras tafari (haile selassie) is the messiah and that africa (especially ethiopia) is the promised land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A religious cult based on a belief that ras tafari (haile selassie) is the messiah and that africa (especially ethiopia) is the promised land.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rastafarianism designates a religious cult based on a belief that ras tafari (haile selassie) is the messiah and that africa (especially ethiopia) is the promised land."*

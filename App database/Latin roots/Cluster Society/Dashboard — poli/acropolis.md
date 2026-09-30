@@ -5,15 +5,6 @@ status: unread
 ---
 # acropolis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The citadel in ancient greek towns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The citadel in ancient greek towns.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"At an Athenian festival called Scira the priestess of Athena, the priest of Poseidon, and the priest of the Sun walked from the Acropolis under the shade of a huge white umbrella which was borne over their heads by the Eteobutads."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"We learn from Aristotle that the ceremony took place in the old official residence of the King, known as the Cattle-stall, which stood near the Prytaneum or Town-hall on the north-eastern slope of the Acropolis."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On the Acropolis at Athens there was an image of Earth praying to Zeus for rain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The citadel in ancient greek towns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The citadel in ancient greek towns.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"At an Athenian festival called Scira the priestess of Athena, the priest of Poseidon, and the priest of the Sun walked from the Acropolis under the shade of a huge white umbrella which was borne over their heads by the Eteobutads."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"We learn from Aristotle that the ceremony took place in the old official residence of the King, known as the Cattle-stall, which stood near the Prytaneum or Town-hall on the north-eastern slope of the Acropolis."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On the Acropolis at Athens there was an image of Earth praying to Zeus for rain."*

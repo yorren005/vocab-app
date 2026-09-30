@@ -5,13 +5,6 @@ status: unread
 ---
 # bombastically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a turgid manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a grandiose manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Each begs support for only selfish ends; Unfired with love for Britain's Queen they cry, And seek to make the Catholics their friends For party purposes; their loyalty Bombastically swearing, each bows down To those inimical to Britain's Crown."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a turgid manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a grandiose manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Each begs support for only selfish ends; Unfired with love for Britain's Queen they cry, And seek to make the Catholics their friends For party purposes; their loyalty Bombastically swearing, each bows down To those inimical to Britain's Crown."*

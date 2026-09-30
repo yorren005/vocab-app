@@ -5,15 +5,6 @@ status: unread
 ---
 # operating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Direct or control; projects, businesses, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform as expected when applied.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He mounted the third pile of wealth and began operating, adopting the plan of sloping the upper sheaves one over the other; and, in addition, filling the interstices with the material of some untied sheaves."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The milkers formed quite a little battalion of men and maids, the men operating on the hard-teated animals, the maids on the kindlier natures."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But in several respects it long ago became evident that our banks were operating less satisfactorily than those of several other countries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Direct or control; projects, businesses, etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform as expected when applied.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He mounted the third pile of wealth and began operating, adopting the plan of sloping the upper sheaves one over the other; and, in addition, filling the interstices with the material of some untied sheaves."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The milkers formed quite a little battalion of men and maids, the men operating on the hard-teated animals, the maids on the kindlier natures."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But in several respects it long ago became evident that our banks were operating less satisfactorily than those of several other countries."*

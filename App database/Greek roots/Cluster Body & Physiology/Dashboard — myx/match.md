@@ -5,15 +5,6 @@ status: unread
 ---
 # match
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing equal or similar to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One able to cope with another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou proceed As high as word, my deed shall match thy deed. [_Flourish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Half won is match well made; match, and well make it; He ne’er pays after-debts, take it before."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gracious madam, I that do bring the news made not the match."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing equal or similar to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One able to cope with another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou proceed As high as word, my deed shall match thy deed. [_Flourish."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Half won is match well made; match, and well make it; He ne’er pays after-debts, take it before."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gracious madam, I that do bring the news made not the match."*

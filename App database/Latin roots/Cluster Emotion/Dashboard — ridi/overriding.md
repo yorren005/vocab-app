@@ -5,13 +5,6 @@ status: unread
 ---
 # overriding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rule against.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prevail over.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But don’t go overriding the hounds,” said “Uncle” sternly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rule against.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prevail over.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But don’t go overriding the hounds,” said “Uncle” sternly."*

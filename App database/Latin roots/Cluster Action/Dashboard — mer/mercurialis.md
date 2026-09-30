@@ -5,14 +5,6 @@ status: unread
 ---
 # mercurialis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of slender herbs belonging to the family euphorbiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of slender herbs belonging to the family euphorbiaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"MERCURY UREDO; on the under surface, depressed, yellow, oblong, concentric, at length confluent; spores nearly oval.—On _Mercurialis perennis_ and _M. annua_."*
-> - 📜 **James Joyce (*Ulysses*):** *"Do it in the shake of a lamb’s tail. _(A dark mercurialised face appears, leading a veiled figure.)_ THE DARK MERCURY: The Castle is looking for him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of slender herbs belonging to the family euphorbiaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of slender herbs belonging to the family euphorbiaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"MERCURY UREDO; on the under surface, depressed, yellow, oblong, concentric, at length confluent; spores nearly oval.—On _Mercurialis perennis_ and _M. annua_."*
+> - 📜 **James Joyce (*Ulysses*):** *"Do it in the shake of a lamb’s tail. _(A dark mercurialised face appears, leading a veiled figure.)_ THE DARK MERCURY: The Castle is looking for him."*

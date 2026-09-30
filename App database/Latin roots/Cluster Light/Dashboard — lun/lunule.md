@@ -5,13 +5,6 @@ status: unread
 ---
 # lunule
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The crescent-shaped area at the base of the human fingernail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The crescent-shaped area at the base of the human fingernail.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lunule designates the crescent-shaped area at the base of the human fingernail."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The crescent-shaped area at the base of the human fingernail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The crescent-shaped area at the base of the human fingernail.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lunule designates the crescent-shaped area at the base of the human fingernail."*

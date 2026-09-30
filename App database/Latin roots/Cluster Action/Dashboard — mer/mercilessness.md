@@ -5,13 +5,6 @@ status: unread
 ---
 # mercilessness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feelings of extreme heartlessness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inhumaneness evidenced by an unwillingness to be kind or forgiving.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mercilessness designates feelings of extreme heartlessness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feelings of extreme heartlessness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inhumaneness evidenced by an unwillingness to be kind or forgiving.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mercilessness designates feelings of extreme heartlessness."*

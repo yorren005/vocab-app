@@ -5,15 +5,6 @@ status: unread
 ---
 # circumstantially
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: According to circumstances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insofar as the circumstances are concerned.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Not absolutely proved, perhaps, but it was proved circumstantially."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He could remain silent for hours without being at all put out of countenance himself or making others uncomfortable, but as soon as the conversation concerned himself he would begin to talk circumstantially and with evident satisfaction."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Not absolutely proved, perhaps, but it was proved circumstantially."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: According to circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insofar as the circumstances are concerned.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Not absolutely proved, perhaps, but it was proved circumstantially."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He could remain silent for hours without being at all put out of countenance himself or making others uncomfortable, but as soon as the conversation concerned himself he would begin to talk circumstantially and with evident satisfaction."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Not absolutely proved, perhaps, but it was proved circumstantially."*

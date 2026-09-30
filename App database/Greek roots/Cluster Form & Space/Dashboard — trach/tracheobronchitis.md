@@ -5,13 +5,6 @@ status: unread
 ---
 # tracheobronchitis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Common respiratory infection characterized by inflammation of the trachea and the bronchi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Common respiratory infection characterized by inflammation of the trachea and the bronchi.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tracheobronchitis designates common respiratory infection characterized by inflammation of the trachea and the bronchi."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Common respiratory infection characterized by inflammation of the trachea and the bronchi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Common respiratory infection characterized by inflammation of the trachea and the bronchi.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tracheobronchitis designates common respiratory infection characterized by inflammation of the trachea and the bronchi."*

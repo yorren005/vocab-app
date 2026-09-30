@@ -5,15 +5,6 @@ status: unread
 ---
 # stabilizer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical that is added to a solution or mixture or suspension to maintain it in a stable or unchanging state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Airfoil consisting of a device for stabilizing an aircraft.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"I've been too busy on that new airship stabilizer dad gave me an idea for."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"I have been so busy on my stabilizer patent that I haven't kept up with current literature."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"I'm working on an invention of a new aeroplane stabilizer, and if I go now it will be just at a time when I am within striking distance of success."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical that is added to a solution or mixture or suspension to maintain it in a stable or unchanging state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Airfoil consisting of a device for stabilizing an aircraft.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"I've been too busy on that new airship stabilizer dad gave me an idea for."*
+> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"I have been so busy on my stabilizer patent that I haven't kept up with current literature."*
+> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"I'm working on an invention of a new aeroplane stabilizer, and if I go now it will be just at a time when I am within striking distance of success."*

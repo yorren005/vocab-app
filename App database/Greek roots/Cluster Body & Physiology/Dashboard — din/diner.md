@@ -5,15 +5,6 @@ status: unread
 ---
 # diner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person eating a meal (especially in a restaurant).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A passenger car where food is served in transit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"My valet was all impatience to follow them; and was as fidgety about my dilatory movements as a diner out waiting hat in hand at the bottom of the stairs for some lagging companion."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"One rose and one spray of maidenhair, in a tall thin glass, before each separate diner."*
-> - 📜 **James Joyce (*Ulysses*):** *"A diner, knife and fork upright, elbows on table, ready for a second helping stared towards the foodlift across his stained square of newspaper."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person eating a meal (especially in a restaurant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A passenger car where food is served in transit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"My valet was all impatience to follow them; and was as fidgety about my dilatory movements as a diner out waiting hat in hand at the bottom of the stairs for some lagging companion."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"One rose and one spray of maidenhair, in a tall thin glass, before each separate diner."*
+> - 📜 **James Joyce (*Ulysses*):** *"A diner, knife and fork upright, elbows on table, ready for a second helping stared towards the foodlift across his stained square of newspaper."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # caper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous plants of the genus capparis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pickled flower buds used as a pungent relish in various dishes and sauces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The truth is, I am only old in judgement and understanding; and he that will caper with me for a thousand marks, let him lend me the money, and have at him!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then is there here one Master Caper, at the suit of Master Three-pile the mercer, for some four suits of peach-coloured satin, which now peaches him a beggar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, he: he offered to cut a caper at the proclamation; but he made a groan at it, and swore he would see her tomorrow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous plants of the genus capparis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pickled flower buds used as a pungent relish in various dishes and sauces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The truth is, I am only old in judgement and understanding; and he that will caper with me for a thousand marks, let him lend me the money, and have at him!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then is there here one Master Caper, at the suit of Master Three-pile the mercer, for some four suits of peach-coloured satin, which now peaches him a beggar."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, he: he offered to cut a caper at the proclamation; but he made a groan at it, and swore he would see her tomorrow."*

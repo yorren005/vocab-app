@@ -5,15 +5,6 @@ status: unread
 ---
 # ministrant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who serves as a minister.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giving practical help to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, by chance or by devilry, the ministrant was antecedently made interesting by being a handsome stranger who had evidently seen better days."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Here is to your health, ministrant spirit!” he said."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Thus saying, from his radiant Seat he rose Of high collateral glorie: him Thrones and Powers, Princedoms, and Dominations ministrant Accompanied to Heaven Gate, from whence _Eden_ and all the Coast in prospect lay."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who serves as a minister.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giving practical help to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, by chance or by devilry, the ministrant was antecedently made interesting by being a handsome stranger who had evidently seen better days."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Here is to your health, ministrant spirit!” he said."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Thus saying, from his radiant Seat he rose Of high collateral glorie: him Thrones and Powers, Princedoms, and Dominations ministrant Accompanied to Heaven Gate, from whence _Eden_ and all the Coast in prospect lay."*

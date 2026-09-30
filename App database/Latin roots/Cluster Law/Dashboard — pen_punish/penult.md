@@ -5,13 +5,6 @@ status: unread
 ---
 # penult
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The next to last syllable in a word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The next to last syllable in a word.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penult designates the next to last syllable in a word."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The next to last syllable in a word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The next to last syllable in a word.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penult designates the next to last syllable in a word."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # stigmatise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To accuse or condemn or openly or formally or brand as disgraceful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark with a stigma or stigmata.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Pardon a muse sae mean as mine, Who in her rough imperfect line Thus daurs to name thee; To stigmatise false friends of thine Can ne’er defame thee."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But to stigmatise these premises as ridiculous because we can easily detect their falseness, would be ungrateful as well as unphilosophical."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"She assumed a freedom of speculation, then common enough on the other side of the Atlantic, but which our forefathers, had they known it, would have held to be a deadlier crime than that stigmatised by the scarlet letter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To accuse or condemn or openly or formally or brand as disgraceful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark with a stigma or stigmata.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Pardon a muse sae mean as mine, Who in her rough imperfect line Thus daurs to name thee; To stigmatise false friends of thine Can ne’er defame thee."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But to stigmatise these premises as ridiculous because we can easily detect their falseness, would be ungrateful as well as unphilosophical."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"She assumed a freedom of speculation, then common enough on the other side of the Atlantic, but which our forefathers, had they known it, would have held to be a deadlier crime than that stigmatised by the scarlet letter."*

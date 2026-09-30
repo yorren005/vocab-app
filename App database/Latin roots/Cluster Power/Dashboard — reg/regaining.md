@@ -5,15 +5,6 @@ status: unread
 ---
 # regaining
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Getting something back again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get or find back; recover the use of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have discovered,” whispering mysteriously, “that her natural cruelty is sharpened by a jealous fear of their regaining their liberty."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"My health was very poor, and the prospect of regaining the lost pocket-book was quite uncertain; it was so dark that I thought it would be impossible for me to find it."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I tottered, and on regaining my equilibrium retired back a step or two from his chair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Getting something back again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get or find back; recover the use of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I have discovered,” whispering mysteriously, “that her natural cruelty is sharpened by a jealous fear of their regaining their liberty."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"My health was very poor, and the prospect of regaining the lost pocket-book was quite uncertain; it was so dark that I thought it would be impossible for me to find it."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I tottered, and on regaining my equilibrium retired back a step or two from his chair."*

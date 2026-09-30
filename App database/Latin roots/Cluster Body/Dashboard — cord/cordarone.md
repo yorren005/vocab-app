@@ -5,13 +5,6 @@ status: unread
 ---
 # cordarone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antiarrhythmic drug (trade name cordarone) that has potentially fatal side effects and is used to control serious heart rhythm problems only when safer agents have been ineffective.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antiarrhythmic drug (trade name cordarone) that has potentially fatal side effects and is used to control serious heart rhythm problems only when safer agents have been ineffective.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordarone designates an antiarrhythmic drug (trade name cordarone) that has potentially fatal side effects and is used to control serious heart rhythm problems only when safer agents have been ineffective."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antiarrhythmic drug (trade name cordarone) that has potentially fatal side effects and is used to control serious heart rhythm problems only when safer agents have been ineffective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antiarrhythmic drug (trade name cordarone) that has potentially fatal side effects and is used to control serious heart rhythm problems only when safer agents have been ineffective.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cordarone designates an antiarrhythmic drug (trade name cordarone) that has potentially fatal side effects and is used to control serious heart rhythm problems only when safer agents have been ineffective."*

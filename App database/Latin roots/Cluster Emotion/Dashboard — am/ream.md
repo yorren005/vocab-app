@@ -5,15 +5,6 @@ status: unread
 ---
 # ream
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large quantity of written matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantity of paper; 480 or 500 sheets; one ream equals 20 quires.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Whether thro’ wimplin worms thou jink, Or, richly brown, ream owre the brink, In glorious faem, Inspire me, till I lisp an’ wink, To sing thy name!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The swats sae ream’d in Tammie’s noddle, Fair play, he car’d na deils a boddle, But Maggie stood, right sair astonish’d, Till, by the heel and hand admonish’d, She ventur’d forward on the light; And, wow!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"That merry night we get the corn in, O sweetly, then, thou reams the horn in!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large quantity of written matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantity of paper; 480 or 500 sheets; one ream equals 20 quires.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Whether thro’ wimplin worms thou jink, Or, richly brown, ream owre the brink, In glorious faem, Inspire me, till I lisp an’ wink, To sing thy name!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The swats sae ream’d in Tammie’s noddle, Fair play, he car’d na deils a boddle, But Maggie stood, right sair astonish’d, Till, by the heel and hand admonish’d, She ventur’d forward on the light; And, wow!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"That merry night we get the corn in, O sweetly, then, thou reams the horn in!"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # salt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound formed by replacing hydrogen in an acid by a metal (or a radical that acts like a metal).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: White crystalline form of especially sodium chloride used to season and preserve food.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My fear hath catch’d your fondness; now I see The mystery of your loneliness, and find Your salt tears’ head."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But all the charms of love, Salt Cleopatra, soften thy waned lip!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You’re caught.” CHARMIAN. ’Twas merry when You wagered on your angling; when your diver Did hang a salt fish on his hook, which he With fervency drew up."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound formed by replacing hydrogen in an acid by a metal (or a radical that acts like a metal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: White crystalline form of especially sodium chloride used to season and preserve food.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My fear hath catch’d your fondness; now I see The mystery of your loneliness, and find Your salt tears’ head."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But all the charms of love, Salt Cleopatra, soften thy waned lip!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You’re caught.” CHARMIAN. ’Twas merry when You wagered on your angling; when your diver Did hang a salt fish on his hook, which he With fervency drew up."*

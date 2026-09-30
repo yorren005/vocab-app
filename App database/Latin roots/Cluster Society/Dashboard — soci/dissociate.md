@@ -5,15 +5,6 @@ status: unread
 ---
 # dissociate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Part; cease or break association with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regard as unconnected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle had greatly alarmed me more than once, by his blowing and hard breathing; but I knew the sounds by this time, and could dissociate them from the object of pursuit."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Such is the view natural to those who cannot dissociate the word "utilitarianism" from the narrow meaning of utility, as contrasted with the pleasures of art."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"It was another feature of the case that there was no jealousy between women and men in the work, and no disposition to discourage, underrate, or dissociate from each other."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Part; cease or break association with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regard as unconnected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle had greatly alarmed me more than once, by his blowing and hard breathing; but I knew the sounds by this time, and could dissociate them from the object of pursuit."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Such is the view natural to those who cannot dissociate the word "utilitarianism" from the narrow meaning of utility, as contrasted with the pleasures of art."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"It was another feature of the case that there was no jealousy between women and men in the work, and no disposition to discourage, underrate, or dissociate from each other."*

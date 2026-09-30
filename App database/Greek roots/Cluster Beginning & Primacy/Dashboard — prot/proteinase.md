@@ -5,13 +5,6 @@ status: unread
 ---
 # proteinase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any enzyme that catalyzes the splitting of proteins into smaller peptide fractions and amino acids by a process known as proteolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any enzyme that catalyzes the splitting of proteins into smaller peptide fractions and amino acids by a process known as proteolysis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proteinase designates any enzyme that catalyzes the splitting of proteins into smaller peptide fractions and amino acids by a process known as proteolysis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any enzyme that catalyzes the splitting of proteins into smaller peptide fractions and amino acids by a process known as proteolysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any enzyme that catalyzes the splitting of proteins into smaller peptide fractions and amino acids by a process known as proteolysis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proteinase designates any enzyme that catalyzes the splitting of proteins into smaller peptide fractions and amino acids by a process known as proteolysis."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # ascocarp
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mature fruiting body of an ascomycetous fungus; broadly : such a body with its enclosed asci, spores, and paraphyses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mature fruiting body of an ascomycetous fungus; broadly : such a body with its enclosed asci, spores, and paraphyses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascocarp designates the mature fruiting body of an ascomycetous fungus; broadly : such a body with its enclosed asci, spores, and paraphyses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mature fruiting body of an ascomycetous fungus; broadly : such a body with its enclosed asci, spores, and paraphyses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mature fruiting body of an ascomycetous fungus; broadly : such a body with its enclosed asci, spores, and paraphyses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascocarp designates the mature fruiting body of an ascomycetous fungus; broadly : such a body with its enclosed asci, spores, and paraphyses."*

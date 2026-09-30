@@ -5,13 +5,6 @@ status: unread
 ---
 # declutch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disengage the clutch of a car.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disengage the clutch of a car.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declutch designates disengage the clutch of a car."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disengage the clutch of a car.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disengage the clutch of a car.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declutch designates disengage the clutch of a car."*

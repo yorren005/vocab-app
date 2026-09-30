@@ -5,15 +5,6 @@ status: unread
 ---
 # venial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Warranting only temporal punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily excused or forgiven.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So they do nothing, ’tis a venial slip."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This is a lover’s most stoical virtue, as the lack of it is a lover’s most venial sin."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The predetermined adversary, on the other hand, can have been governed by no venial motive whatever."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Warranting only temporal punishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily excused or forgiven.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So they do nothing, ’tis a venial slip."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This is a lover’s most stoical virtue, as the lack of it is a lover’s most venial sin."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The predetermined adversary, on the other hand, can have been governed by no venial motive whatever."*

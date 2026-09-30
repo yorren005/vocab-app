@@ -5,15 +5,6 @@ status: unread
 ---
 # appreciated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recognize with gratitude; be grateful for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be fully aware of; realize fully.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kathy was the only one who appreciated Lippo's worth."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns highly appreciated the compliment that was thus paid him, regarding it as a happy augury of the Union which he was sure was coming."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He took it with the happy, pleased expression of a child who has just received a kindness deeply appreciated, and reverently removing his hat and folding his hands over it, he thanked his Heavenly Father for sending the chair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Recognize with gratitude; be grateful for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be fully aware of; realize fully.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kathy was the only one who appreciated Lippo's worth."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns highly appreciated the compliment that was thus paid him, regarding it as a happy augury of the Union which he was sure was coming."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"He took it with the happy, pleased expression of a child who has just received a kindness deeply appreciated, and reverently removing his hat and folding his hands over it, he thanked his Heavenly Father for sending the chair."*

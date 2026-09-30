@@ -5,13 +5,6 @@ status: unread
 ---
 # duralumin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An aluminum-based alloy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aluminum-based alloy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, duralumin designates an aluminum-based alloy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aluminum-based alloy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aluminum-based alloy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, duralumin designates an aluminum-based alloy."*

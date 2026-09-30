@@ -5,15 +5,6 @@ status: unread
 ---
 # enunciate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak, pronounce, or utter in a certain way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express or state clearly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"With features strained hard to enunciate the syllables they continued to regard the centre of the flickering fire, the notes of the youngest straying over into the pauses of the rest."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"How goes it with the Professor?” Then, dim and far, I could hear Morrell’s taps enunciating that they had put me in the jacket an hour before, and that, as usual, I was already deaf to all knuckle talk."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The crier came home, took up the several notices and commenced his round, enunciating in sonorous tones, Lost a black and tan coloured terrier, and answers to the name of Carlo; has two black legs and four eyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak, pronounce, or utter in a certain way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express or state clearly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"With features strained hard to enunciate the syllables they continued to regard the centre of the flickering fire, the notes of the youngest straying over into the pauses of the rest."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"How goes it with the Professor?” Then, dim and far, I could hear Morrell’s taps enunciating that they had put me in the jacket an hour before, and that, as usual, I was already deaf to all knuckle talk."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"The crier came home, took up the several notices and commenced his round, enunciating in sonorous tones, Lost a black and tan coloured terrier, and answers to the name of Carlo; has two black legs and four eyes."*

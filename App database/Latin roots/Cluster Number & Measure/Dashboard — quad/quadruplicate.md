@@ -5,13 +5,6 @@ status: unread
 ---
 # quadruplicate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any four copies; any of four things that correspond to one another exactly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reproduce fourfold.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadruplicate designates any four copies; any of four things that correspond to one another exactly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any four copies; any of four things that correspond to one another exactly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reproduce fourfold.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quadruplicate designates any four copies; any of four things that correspond to one another exactly."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # statute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act passed by a legislative body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enacted by a legislative body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The statute of thy beauty thou wilt take, Thou usurer that put’st forth all to use, And sue a friend, came debtor for my sake, So him I lose through my unkind abuse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This very day a Syracusian merchant Is apprehended for arrival here, And, not being able to buy out his life, According to the statute of the town Dies ere the weary sun set in the west."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, better wits have worn plain statute-caps."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act passed by a legislative body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enacted by a legislative body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The statute of thy beauty thou wilt take, Thou usurer that put’st forth all to use, And sue a friend, came debtor for my sake, So him I lose through my unkind abuse."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This very day a Syracusian merchant Is apprehended for arrival here, And, not being able to buy out his life, According to the statute of the town Dies ere the weary sun set in the west."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, better wits have worn plain statute-caps."*

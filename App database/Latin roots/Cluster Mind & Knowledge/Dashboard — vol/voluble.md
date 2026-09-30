@@ -5,15 +5,6 @@ status: unread
 ---
 # voluble
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by a ready flow of speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by a ready flow of speech.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If voluble and sharp discourse be marr’d, Unkindness blunts it more than marble hard."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A most acute juvenal, voluble and free of grace!"*
-> - 📜 **Effie Afton (*Eventide*):** *"Pimble paused for breath as she delivered herself of the above voluble speech, and the lady visitor replied: "You speak heroicly, sister Justitia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by a ready flow of speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by a ready flow of speech.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If voluble and sharp discourse be marr’d, Unkindness blunts it more than marble hard."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A most acute juvenal, voluble and free of grace!"*
+> - 📜 **Effie Afton (*Eventide*):** *"Pimble paused for breath as she delivered herself of the above voluble speech, and the lady visitor replied: "You speak heroicly, sister Justitia."*

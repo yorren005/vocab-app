@@ -5,13 +5,6 @@ status: unread
 ---
 # dior
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French couturier whose first collection in 1947 created a style that became known as the new look (1905-1957).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French couturier whose first collection in 1947 created a style that became known as the new look (1905-1957).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dior designates french couturier whose first collection in 1947 created a style that became known as the new look (1905-1957)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French couturier whose first collection in 1947 created a style that became known as the new look (1905-1957).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French couturier whose first collection in 1947 created a style that became known as the new look (1905-1957).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dior designates french couturier whose first collection in 1947 created a style that became known as the new look (1905-1957)."*

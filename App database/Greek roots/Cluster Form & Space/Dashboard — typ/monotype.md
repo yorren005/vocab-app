@@ -5,13 +5,6 @@ status: unread
 ---
 # monotype
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) a taxonomic group with a single member (a single species or genus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A typesetting machine operated from a keyboard that sets separate characters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The linotype and monotype machines, uncanny in their operations, have also come into common practice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) a taxonomic group with a single member (a single species or genus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A typesetting machine operated from a keyboard that sets separate characters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The linotype and monotype machines, uncanny in their operations, have also come into common practice."*

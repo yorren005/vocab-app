@@ -5,13 +5,6 @@ status: unread
 ---
 # mutagen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any agent (physical or environmental) that can induce a genetic mutation or can increase the rate of mutation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any agent (physical or environmental) that can induce a genetic mutation or can increase the rate of mutation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutagen designates any agent (physical or environmental) that can induce a genetic mutation or can increase the rate of mutation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any agent (physical or environmental) that can induce a genetic mutation or can increase the rate of mutation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any agent (physical or environmental) that can induce a genetic mutation or can increase the rate of mutation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutagen designates any agent (physical or environmental) that can induce a genetic mutation or can increase the rate of mutation."*

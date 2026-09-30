@@ -5,13 +5,6 @@ status: unread
 ---
 # adenosine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biochemistry) a nucleoside that is a structural component of nucleic acids; it is present in all living cells in a combined form as a constituent of dna and rna and adp and atp and amp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biochemistry) a nucleoside that is a structural component of nucleic acids; it is present in all living cells in a combined form as a constituent of dna and rna and adp and atp and amp.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenosine designates (biochemistry) a nucleoside that is a structural component of nucleic acids; it is present in all living cells in a combined form as a constituent of dna and rna and adp and atp and amp."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (biochemistry) a nucleoside that is a structural component of nucleic acids; it is present in all living cells in a combined form as a constituent of dna and rna and adp and atp and amp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biochemistry) a nucleoside that is a structural component of nucleic acids; it is present in all living cells in a combined form as a constituent of dna and rna and adp and atp and amp.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenosine designates (biochemistry) a nucleoside that is a structural component of nucleic acids; it is present in all living cells in a combined form as a constituent of dna and rna and adp and atp and amp."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # petiole
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The slender stem that supports the blade of a leaf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The slender stem that supports the blade of a leaf.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The _Æcidiacei_ are always developed on living plants, sometimes on the flowers, fruit, petioles, or stems, but most commonly on the leaves: occasionally on the upper surface, but generally on the inferior."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"It appears in patches on the under surface of the leaves or on their petioles, in the latter case swelling and distorting them."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Thickened spots at first appear on the leaves; the petioles, or flower stem, or even the calyx, become swollen and distorted; and at length the cluster-cup breaks through."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The slender stem that supports the blade of a leaf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The slender stem that supports the blade of a leaf.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The _Æcidiacei_ are always developed on living plants, sometimes on the flowers, fruit, petioles, or stems, but most commonly on the leaves: occasionally on the upper surface, but generally on the inferior."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"It appears in patches on the under surface of the leaves or on their petioles, in the latter case swelling and distorting them."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Thickened spots at first appear on the leaves; the petioles, or flower stem, or even the calyx, become swollen and distorted; and at length the cluster-cup breaks through."*

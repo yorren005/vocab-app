@@ -5,13 +5,6 @@ status: unread
 ---
 # proparoxytone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Word having stress or acute accent on the antepenult.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Word having stress or acute accent on the antepenult.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proparoxytone designates word having stress or acute accent on the antepenult."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Word having stress or acute accent on the antepenult.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Word having stress or acute accent on the antepenult.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proparoxytone designates word having stress or acute accent on the antepenult."*

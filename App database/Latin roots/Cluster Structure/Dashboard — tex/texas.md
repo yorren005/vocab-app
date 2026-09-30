@@ -5,15 +5,6 @@ status: unread
 ---
 # texas
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The second largest state; located in southwestern united states on the gulf of mexico.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The second largest state; located in southwestern united states on the gulf of mexico.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In a few months he was ignominiously discharged from the service, and, at the close of the war, he came to Texas, and sought and obtained employment as teamster in the train then organizing for El Paso."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"We knew that General Cortinas, with his troops, was somewhere between us and Texas, as the State we were in was one of those in rebellion."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The blood-thirsty character of General Cortinas is well known on the frontier, there being no less than seventeen indictments against him for murder in the State of Texas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The second largest state; located in southwestern united states on the gulf of mexico.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The second largest state; located in southwestern united states on the gulf of mexico.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"In a few months he was ignominiously discharged from the service, and, at the close of the war, he came to Texas, and sought and obtained employment as teamster in the train then organizing for El Paso."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"We knew that General Cortinas, with his troops, was somewhere between us and Texas, as the State we were in was one of those in rebellion."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The blood-thirsty character of General Cortinas is well known on the frontier, there being no less than seventeen indictments against him for murder in the State of Texas."*

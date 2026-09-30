@@ -5,15 +5,6 @@ status: unread
 ---
 # amputation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition of disability resulting from the loss of one or more limbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surgical removal of all or part of a limb.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Grief is a matter of relativity; the sorrow should be estimated by its proportion to the sorrower; a gash is as painful to one as an amputation to another."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But, though for ever mounted on that stump, never a stump-speech does the poor whaleman make; but, with downcast eyes, stands ruefully contemplating his own amputation."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Precious sons of northern mothers, beloved husbands of northern wives were already here to undergo amputation, to have wounds probed and dressed, or broken limbs set and bandaged."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition of disability resulting from the loss of one or more limbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surgical removal of all or part of a limb.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Grief is a matter of relativity; the sorrow should be estimated by its proportion to the sorrower; a gash is as painful to one as an amputation to another."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But, though for ever mounted on that stump, never a stump-speech does the poor whaleman make; but, with downcast eyes, stands ruefully contemplating his own amputation."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Precious sons of northern mothers, beloved husbands of northern wives were already here to undergo amputation, to have wounds probed and dressed, or broken limbs set and bandaged."*

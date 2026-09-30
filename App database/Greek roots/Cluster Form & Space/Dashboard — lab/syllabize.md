@@ -5,13 +5,6 @@ status: unread
 ---
 # syllabize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divide into syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter with distinct articulation of each syllable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syllabize designates divide into syllables."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divide into syllables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter with distinct articulation of each syllable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syllabize designates divide into syllables."*

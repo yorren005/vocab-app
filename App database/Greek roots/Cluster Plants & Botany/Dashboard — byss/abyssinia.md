@@ -5,15 +5,6 @@ status: unread
 ---
 # abyssinia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ethiopia is a republic in northeastern africa on the red sea; formerly called abyssinia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ethiopia is a republic in northeastern africa on the red sea; formerly called abyssinia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The people of Egghiou, a district of Abyssinia, used to engage in sanguinary conflicts with each other, village against village, for a week together every January for the purpose of procuring rain."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among tribes on the outskirts of Abyssinia a similar office exists and has been thus described by an observer: "The priesthood of the Alfai, as he is called by the Barea and Kunama, is a remarkable one; he is believed to be able to make rain."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Some one once asked Bruce what musical instruments were used in Abyssinia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ethiopia is a republic in northeastern africa on the red sea; formerly called abyssinia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ethiopia is a republic in northeastern africa on the red sea; formerly called abyssinia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The people of Egghiou, a district of Abyssinia, used to engage in sanguinary conflicts with each other, village against village, for a week together every January for the purpose of procuring rain."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among tribes on the outskirts of Abyssinia a similar office exists and has been thus described by an observer: "The priesthood of the Alfai, as he is called by the Barea and Kunama, is a remarkable one; he is believed to be able to make rain."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Some one once asked Bruce what musical instruments were used in Abyssinia."*

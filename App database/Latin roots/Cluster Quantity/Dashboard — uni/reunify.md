@@ -5,13 +5,6 @@ status: unread
 ---
 # reunify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unify again, as of a country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unify again, as of a country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reunify designates unify again, as of a country."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unify again, as of a country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unify again, as of a country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reunify designates unify again, as of a country."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # flunky
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A male servant (especially a footman).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person of unquestioning obedience.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If anyone asks, we're using Scarf's troops on the Dragon as flunkies during the victory party."*
-> - 📜 **H. B. Fyfe (*Calling World-4 of Kithgol*):** *"She would still rule, for he would be just a slave, with less rights than even the kitchen flunkies." "So?" murmured Yorgh."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A male servant (especially a footman).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person of unquestioning obedience.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If anyone asks, we're using Scarf's troops on the Dragon as flunkies during the victory party."*
+> - 📜 **H. B. Fyfe (*Calling World-4 of Kithgol*):** *"She would still rule, for he would be just a slave, with less rights than even the kitchen flunkies." "So?" murmured Yorgh."*

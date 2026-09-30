@@ -5,13 +5,6 @@ status: unread
 ---
 # marlstone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Metamorphic rock with approximately the same composition as marl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Metamorphic rock with approximately the same composition as marl.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marlstone designates metamorphic rock with approximately the same composition as marl."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Metamorphic rock with approximately the same composition as marl.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Metamorphic rock with approximately the same composition as marl.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marlstone designates metamorphic rock with approximately the same composition as marl."*

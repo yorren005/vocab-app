@@ -5,13 +5,6 @@ status: unread
 ---
 # gene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (genetics) a segment of dna that is involved in producing a polypeptide chain; it can include regions preceding and following the coding dna as well as introns between the exons; it is considered a unit of heredity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) a segment of dna that is involved in producing a polypeptide chain; it can include regions preceding and following the coding dna as well as introns between the exons; it is considered a unit of heredity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gene designates (genetics) a segment of dna that is involved in producing a polypeptide chain; it can include regions preceding and following the coding dna as well as introns between the exons; it is considered a unit of heredity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (genetics) a segment of dna that is involved in producing a polypeptide chain; it can include regions preceding and following the coding dna as well as introns between the exons; it is considered a unit of heredity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) a segment of dna that is involved in producing a polypeptide chain; it can include regions preceding and following the coding dna as well as introns between the exons; it is considered a unit of heredity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gene designates (genetics) a segment of dna that is involved in producing a polypeptide chain; it can include regions preceding and following the coding dna as well as introns between the exons; it is considered a unit of heredity."*

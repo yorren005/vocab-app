@@ -5,15 +5,6 @@ status: unread
 ---
 # disinherited
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prevent deliberately (as by making a will) from inheriting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprived of your rightful heritage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And seeing thou dost, I here divorce myself Both from thy table, Henry, and thy bed, Until that act of parliament be repealed Whereby my son is disinherited."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, as I can learn, He hearkens after prophecies and dreams, And from the cross-row plucks the letter G, And says a wizard told him that by “G” His issue disinherited should be."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"They would be the sole owners after their uncle's death." "They have long ago been disinherited," the brother exclaimed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prevent deliberately (as by making a will) from inheriting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprived of your rightful heritage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And seeing thou dost, I here divorce myself Both from thy table, Henry, and thy bed, Until that act of parliament be repealed Whereby my son is disinherited."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, as I can learn, He hearkens after prophecies and dreams, And from the cross-row plucks the letter G, And says a wizard told him that by “G” His issue disinherited should be."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"They would be the sole owners after their uncle's death." "They have long ago been disinherited," the brother exclaimed."*

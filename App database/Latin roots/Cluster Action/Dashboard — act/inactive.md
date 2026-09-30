@@ -5,15 +5,6 @@ status: unread
 ---
 # inactive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) not participating in a chemical reaction; chemically inert.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (pathology) not progressing or increasing; or progressing slowly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood lived secluded and inactive."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"All the way along to this point her heart had been heavy with an inactive sorrow; now there was a change in the quality of its trouble."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The air of a gentlewoman, a great deal of quiet, inactive good temper, and a trifling turn of mind were all that could account for her being the choice of a sensible, intelligent man like Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) not participating in a chemical reaction; chemically inert.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (pathology) not progressing or increasing; or progressing slowly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood lived secluded and inactive."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"All the way along to this point her heart had been heavy with an inactive sorrow; now there was a change in the quality of its trouble."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"The air of a gentlewoman, a great deal of quiet, inactive good temper, and a trifling turn of mind were all that could account for her being the choice of a sensible, intelligent man like Mr."*

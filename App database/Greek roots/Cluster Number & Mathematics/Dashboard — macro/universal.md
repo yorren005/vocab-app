@@ -5,15 +5,6 @@ status: unread
 ---
 # universal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (linguistics) a grammatical rule (or other linguistic feature) that is found in all languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (logic) a proposition that asserts something of all members of a class.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it would warm his spirits To hear from me you had left Antony, And put yourself under his shroud, The universal landlord."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The time of universal peace is near."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This wide and universal theatre Presents more woeful pageants than the scene Wherein we play in."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (linguistics) a grammatical rule (or other linguistic feature) that is found in all languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (logic) a proposition that asserts something of all members of a class.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it would warm his spirits To hear from me you had left Antony, And put yourself under his shroud, The universal landlord."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The time of universal peace is near."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This wide and universal theatre Presents more woeful pageants than the scene Wherein we play in."*

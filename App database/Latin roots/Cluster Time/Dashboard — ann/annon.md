@@ -5,13 +5,6 @@ status: unread
 ---
 # annon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sweet pulpy tropical fruit with thick scaly rind and shiny black seeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sweet pulpy tropical fruit with thick scaly rind and shiny black seeds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Tertullian, _de Baptismo_, 5. _Annon et alias sine ullo Sacramento immundi spiritus aquis incubant, adfectantes illam in primordio divini spiritus gestationem?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sweet pulpy tropical fruit with thick scaly rind and shiny black seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sweet pulpy tropical fruit with thick scaly rind and shiny black seeds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Tertullian, _de Baptismo_, 5. _Annon et alias sine ullo Sacramento immundi spiritus aquis incubant, adfectantes illam in primordio divini spiritus gestationem?"*

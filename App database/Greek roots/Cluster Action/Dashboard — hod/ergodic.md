@@ -5,13 +5,6 @@ status: unread
 ---
 # ergodic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a process in which every sequence or sizable sample is equally representative of the whole (as in regard to a statistical parameter).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or relating to the probability that any state will recur; especially : having zero probability that any state will never recur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ergodic designates of or relating to a process in which every sequence or sizable sample is equally representative of the whole (as in regard to a statistical parameter)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a process in which every sequence or sizable sample is equally representative of the whole (as in regard to a statistical parameter).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or relating to the probability that any state will recur; especially : having zero probability that any state will never recur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ergodic designates of or relating to a process in which every sequence or sizable sample is equally representative of the whole (as in regard to a statistical parameter)."*

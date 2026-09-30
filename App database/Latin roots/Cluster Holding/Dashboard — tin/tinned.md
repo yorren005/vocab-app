@@ -5,15 +5,6 @@ status: unread
 ---
 # tinned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plate with tin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preserve in a can or tin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Rice again, with perhaps stewed fowl or tinned beef, and a dessert of jam and biscuit, usually formed my luncheon, and dinner was like unto it, save that occasionally we succeeded in securing some onions or potatoes."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"It contained a loaf of bread, a tinned tongue, and two tins of preserved peaches."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"This copper deposit, or shell, was then tinned on the back, backed up with lead, mounted on wood, and trimmed type-high."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plate with tin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preserve in a can or tin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Rice again, with perhaps stewed fowl or tinned beef, and a dessert of jam and biscuit, usually formed my luncheon, and dinner was like unto it, save that occasionally we succeeded in securing some onions or potatoes."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"It contained a loaf of bread, a tinned tongue, and two tins of preserved peaches."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"This copper deposit, or shell, was then tinned on the back, backed up with lead, mounted on wood, and trimmed type-high."*

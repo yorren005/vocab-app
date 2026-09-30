@@ -5,15 +5,6 @@ status: unread
 ---
 # condense
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergo condensation; change from a gaseous to a liquid state and fall in drops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more concise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"His notes already made a formidable range of volumes, but the crowning task would be to condense these voluminous still-accumulating results and bring them, like the earlier vintage of Hippocratic books, to fit a little shelf."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Father Mapple rose, and in a mild voice of unassuming authority ordered the scattered people to condense."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In an instant’s compass, great hearts sometimes condense to one deep pang, the sum total of those shallow pains kindly diffused through feebler men’s whole lives."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergo condensation; change from a gaseous to a liquid state and fall in drops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more concise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"His notes already made a formidable range of volumes, but the crowning task would be to condense these voluminous still-accumulating results and bring them, like the earlier vintage of Hippocratic books, to fit a little shelf."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Father Mapple rose, and in a mild voice of unassuming authority ordered the scattered people to condense."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In an instant’s compass, great hearts sometimes condense to one deep pang, the sum total of those shallow pains kindly diffused through feebler men’s whole lives."*

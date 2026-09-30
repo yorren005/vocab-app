@@ -5,15 +5,6 @@ status: unread
 ---
 # oppressor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of authority who subjects others to undue pressures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person of authority who subjects others to undue pressures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This place Is our inheritance; no hard oppressor Dare take this from us; here with a little patience We shall live long and loving."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The patient dies while the physician sleeps; The orphan pines while the oppressor feeds; Justice is feasting while the widow weeps; Advice is sporting while infection breeds."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I am the oppressed, and there is the oppressor!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of authority who subjects others to undue pressures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person of authority who subjects others to undue pressures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This place Is our inheritance; no hard oppressor Dare take this from us; here with a little patience We shall live long and loving."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The patient dies while the physician sleeps; The orphan pines while the oppressor feeds; Justice is feasting while the widow weeps; Advice is sporting while infection breeds."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I am the oppressed, and there is the oppressor!"*

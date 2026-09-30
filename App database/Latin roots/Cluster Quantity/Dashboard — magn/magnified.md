@@ -5,15 +5,6 @@ status: unread
 ---
 # magnified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase in size, volume or significance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To enlarge beyond bounds or the truth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"When my guardian left me, I turned my face away upon my couch and prayed to be forgiven if I, surrounded by such blessings, had magnified to myself the little trial that I had to undergo."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She hardly observed that a tear descended slowly upon his cheek, a tear so large that it magnified the pores of the skin over which it rolled, like the object lens of a microscope."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Catherine, at any rate, heard enough to feel that in suspecting General Tilney of either murdering or shutting up his wife, she had scarcely sinned against his character, or magnified his cruelty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase in size, volume or significance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To enlarge beyond bounds or the truth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"When my guardian left me, I turned my face away upon my couch and prayed to be forgiven if I, surrounded by such blessings, had magnified to myself the little trial that I had to undergo."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She hardly observed that a tear descended slowly upon his cheek, a tear so large that it magnified the pores of the skin over which it rolled, like the object lens of a microscope."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Catherine, at any rate, heard enough to feel that in suspecting General Tilney of either murdering or shutting up his wife, she had scarcely sinned against his character, or magnified his cruelty."*

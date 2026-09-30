@@ -5,15 +5,6 @@ status: unread
 ---
 # initial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first letter of a word (especially a person's name).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark with one's initials.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Where the issue of an interview is as likely to be a vast change for the worse as for the better, any initial difference from expectation causes nipping sensations of failure."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This idea she proceeded to carry out, with what initial success we have already seen."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Such high contentment with such a slight initial performance as that of having started towards a means of independent living was a part of the Durbeyfield temperament."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The first letter of a word (especially a person's name).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark with one's initials.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Where the issue of an interview is as likely to be a vast change for the worse as for the better, any initial difference from expectation causes nipping sensations of failure."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This idea she proceeded to carry out, with what initial success we have already seen."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Such high contentment with such a slight initial performance as that of having started towards a means of independent living was a part of the Durbeyfield temperament."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hygroscopic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Absorbing moisture (as from the air).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absorbing moisture (as from the air).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hygroscopic designates absorbing moisture (as from the air)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Absorbing moisture (as from the air).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absorbing moisture (as from the air).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hygroscopic designates absorbing moisture (as from the air)."*

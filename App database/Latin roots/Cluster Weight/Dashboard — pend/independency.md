@@ -5,15 +5,6 @@ status: unread
 ---
 # independency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from control or influence of another or others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freedom from control or influence of another or others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It would, indeed, be a relief,” I thought, “if I had ever so small an independency; I never can bear being dressed like a doll by Mr."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In declaring our independency from the caucus domination we do not forget our allegiance to the party whose chosen representatives we are."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"The critics trip up each other with charming independency."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from control or influence of another or others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freedom from control or influence of another or others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It would, indeed, be a relief,” I thought, “if I had ever so small an independency; I never can bear being dressed like a doll by Mr."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In declaring our independency from the caucus domination we do not forget our allegiance to the party whose chosen representatives we are."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"The critics trip up each other with charming independency."*

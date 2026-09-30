@@ -5,15 +5,6 @@ status: unread
 ---
 # occur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come to pass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come to one's mind; suggest itself.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"We have a Ramification meeting, too, on Wednesday afternoon, and the inconvenience is very serious.” “It is not likely to occur again,” said I, smiling."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Elizabeth could not conceive how such an absurd suspicion should occur to her, and indignantly answered for each party’s perfectly knowing their situation."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Other opportunities of making her observations could not fail to occur."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Come to pass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come to one's mind; suggest itself.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"We have a Ramification meeting, too, on Wednesday afternoon, and the inconvenience is very serious.” “It is not likely to occur again,” said I, smiling."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Elizabeth could not conceive how such an absurd suspicion should occur to her, and indignantly answered for each party’s perfectly knowing their situation."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Other opportunities of making her observations could not fail to occur."*

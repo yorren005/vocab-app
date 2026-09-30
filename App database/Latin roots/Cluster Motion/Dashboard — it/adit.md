@@ -5,13 +5,6 @@ status: unread
 ---
 # adit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nearly horizontal passage from the surface into a mine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nearly horizontal passage from the surface into a mine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adit designates a nearly horizontal passage from the surface into a mine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nearly horizontal passage from the surface into a mine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nearly horizontal passage from the surface into a mine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adit designates a nearly horizontal passage from the surface into a mine."*

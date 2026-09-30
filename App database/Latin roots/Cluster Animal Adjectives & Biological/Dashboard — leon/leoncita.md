@@ -5,13 +5,6 @@ status: unread
 ---
 # leoncita
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small south american marmoset with silky fur and long nonprehensile tail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small south american marmoset with silky fur and long nonprehensile tail.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leoncita designates small south american marmoset with silky fur and long nonprehensile tail."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small south american marmoset with silky fur and long nonprehensile tail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small south american marmoset with silky fur and long nonprehensile tail.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leoncita designates small south american marmoset with silky fur and long nonprehensile tail."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # converso
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medieval spain and portugal) a jew or moor who professed to convert to christianity in order to avoid persecution or expulsion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medieval spain and portugal) a jew or moor who professed to convert to christianity in order to avoid persecution or expulsion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, converso designates (medieval spain and portugal) a jew or moor who professed to convert to christianity in order to avoid persecution or expulsion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (medieval spain and portugal) a jew or moor who professed to convert to christianity in order to avoid persecution or expulsion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medieval spain and portugal) a jew or moor who professed to convert to christianity in order to avoid persecution or expulsion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, converso designates (medieval spain and portugal) a jew or moor who professed to convert to christianity in order to avoid persecution or expulsion."*

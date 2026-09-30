@@ -5,15 +5,6 @@ status: unread
 ---
 # contemplate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Look at thoughtfully; observe deep in thought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider as a possibility.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"When he has nothing else to do, he can always contemplate his own greatness."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You can contemplate your beauty at another time.” “Pardon!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My dear son, you contemplate an absence of a week, I think?” “A week, dear father."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Look at thoughtfully; observe deep in thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider as a possibility.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"When he has nothing else to do, he can always contemplate his own greatness."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You can contemplate your beauty at another time.” “Pardon!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"My dear son, you contemplate an absence of a week, I think?” “A week, dear father."*

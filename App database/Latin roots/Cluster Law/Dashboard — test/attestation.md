@@ -5,15 +5,6 @@ status: unread
 ---
 # attestation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of bearing witness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The evidence by which something is attested.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Dear, dear, when I think o’ it, I sorrows like a man in travel!” “True, Henery, you do, I’ve heard ye,” said Joseph Poorgrass in a voice of thorough attestation, and with a wire-drawn smile of misery."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Goodwill supplying the place of experience, his character needed no attestation."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor must there be omitted another strange attestation of the antiquity of the whale, in his own osseous post-diluvian reality, as set down by the venerable John Leo, the old Barbary traveller."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of bearing witness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The evidence by which something is attested.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Dear, dear, when I think o’ it, I sorrows like a man in travel!” “True, Henery, you do, I’ve heard ye,” said Joseph Poorgrass in a voice of thorough attestation, and with a wire-drawn smile of misery."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Goodwill supplying the place of experience, his character needed no attestation."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor must there be omitted another strange attestation of the antiquity of the whale, in his own osseous post-diluvian reality, as set down by the venerable John Leo, the old Barbary traveller."*

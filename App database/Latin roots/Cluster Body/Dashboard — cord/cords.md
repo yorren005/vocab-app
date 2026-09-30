@@ -5,15 +5,6 @@ status: unread
 ---
 # cords
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cotton trousers made of corduroy cloth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line made of twisted fibers or threads.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Within this hour I was his bondman, sir, But he, I thank him, gnaw’d in two my cords."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Executioners with cords, irons, &c."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If there be cords or knives, Poison or fire, or suffocating streams, I’ll not endure ’t."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cotton trousers made of corduroy cloth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line made of twisted fibers or threads.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Within this hour I was his bondman, sir, But he, I thank him, gnaw’d in two my cords."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Executioners with cords, irons, &c."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If there be cords or knives, Poison or fire, or suffocating streams, I’ll not endure ’t."*

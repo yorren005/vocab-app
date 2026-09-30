@@ -5,15 +5,6 @@ status: unread
 ---
 # extremity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An external body part that projects from the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extreme condition or state (especially of adversity or disease).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O what excuse will my poor beast then find, When swift extremity can seem but slow?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those that are in extremity of either are abominable fellows, and betray themselves to every modern censure worse than drunkards."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, come, you are a fool, And turned into the extremity of love."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An external body part that projects from the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extreme condition or state (especially of adversity or disease).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O what excuse will my poor beast then find, When swift extremity can seem but slow?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those that are in extremity of either are abominable fellows, and betray themselves to every modern censure worse than drunkards."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, come, you are a fool, And turned into the extremity of love."*

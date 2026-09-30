@@ -5,15 +5,6 @@ status: unread
 ---
 # enervated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weaken mentally or morally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disturb the composure of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It has enervated their strength, multiplied their diseases, and superinduced upon their original barbarity the low vices of artificial life."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"One feels too enervated for any exertion, beyond imbibing cool drinks or smoking a cigar in a cane lounge."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Add to this, my late scenes of idleness and dissipation have enervated my mind to an alarming degree."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Weaken mentally or morally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disturb the composure of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It has enervated their strength, multiplied their diseases, and superinduced upon their original barbarity the low vices of artificial life."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"One feels too enervated for any exertion, beyond imbibing cool drinks or smoking a cigar in a cane lounge."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Add to this, my late scenes of idleness and dissipation have enervated my mind to an alarming degree."*

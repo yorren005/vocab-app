@@ -5,13 +5,6 @@ status: unread
 ---
 # destabilisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of destabilizing; making something less stable (especially of a government or country or economy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of destabilizing; making something less stable (especially of a government or country or economy).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, destabilisation designates the action of destabilizing; making something less stable (especially of a government or country or economy)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of destabilizing; making something less stable (especially of a government or country or economy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of destabilizing; making something less stable (especially of a government or country or economy).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, destabilisation designates the action of destabilizing; making something less stable (especially of a government or country or economy)."*

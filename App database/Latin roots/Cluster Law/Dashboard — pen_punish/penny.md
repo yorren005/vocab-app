@@ -5,15 +5,6 @@ status: unread
 ---
 # penny
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fractional monetary unit of ireland and the united kingdom; equal to one hundredth of a pound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coin worth one-hundredth of the value of the basic unit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when a man thanks me heartily, methinks I have given him a penny and he renders me the beggarly thanks."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do believe Statist though I am none, nor like to be, That this will prove a war; and you shall hear The legions now in Gallia sooner landed In our not-fearing Britain than have tidings Of any penny tribute paid."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, the charity of a penny cord!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fractional monetary unit of ireland and the united kingdom; equal to one hundredth of a pound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coin worth one-hundredth of the value of the basic unit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when a man thanks me heartily, methinks I have given him a penny and he renders me the beggarly thanks."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do believe Statist though I am none, nor like to be, That this will prove a war; and you shall hear The legions now in Gallia sooner landed In our not-fearing Britain than have tidings Of any penny tribute paid."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, the charity of a penny cord!"*

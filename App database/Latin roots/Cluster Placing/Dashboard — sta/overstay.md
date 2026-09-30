@@ -5,15 +5,6 @@ status: unread
 ---
 # overstay
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stay too long.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stay too long.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Crisparkle sat with his watch in his hand for about the same period, lest he should overstay his time."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"I go on duty soon, and can’t overstay my time."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Consequence is, you see boats rowing out to the ship, carrying men who have overstayed their leave; and, when they get near enough, the able-bodied gentleman in custody jumps to his feet, upsets the boat, and swims to the gangway."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stay too long.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stay too long.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Crisparkle sat with his watch in his hand for about the same period, lest he should overstay his time."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"I go on duty soon, and can’t overstay my time."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Consequence is, you see boats rowing out to the ship, carrying men who have overstayed their leave; and, when they get near enough, the able-bodied gentleman in custody jumps to his feet, upsets the boat, and swims to the gangway."*

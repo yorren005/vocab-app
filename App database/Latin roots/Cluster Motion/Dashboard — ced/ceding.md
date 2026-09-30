@@ -5,13 +5,6 @@ status: unread
 ---
 # ceding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of ceding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give over; surrender or relinquish to the physical control of another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceding designates the act of ceding."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of ceding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give over; surrender or relinquish to the physical control of another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceding designates the act of ceding."*

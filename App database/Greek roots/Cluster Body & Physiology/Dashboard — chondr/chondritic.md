@@ -5,13 +5,6 @@ status: unread
 ---
 # chondritic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a granular structure like that of chondrites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a granular structure like that of chondrites.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chondritic designates having a granular structure like that of chondrites."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a granular structure like that of chondrites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a granular structure like that of chondrites.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chondritic designates having a granular structure like that of chondrites."*

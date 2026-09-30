@@ -5,13 +5,6 @@ status: unread
 ---
 # durra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sorghums of dry regions of asia and north africa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sorghums of dry regions of asia and north africa.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"An allied species infests the Sorghum or durra, a grain but little cultivated in Europe, but found extensively in Africa and Asia, and also apparently found on the _Bajra_ of India."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sorghums of dry regions of asia and north africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sorghums of dry regions of asia and north africa.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"An allied species infests the Sorghum or durra, a grain but little cultivated in Europe, but found extensively in Africa and Asia, and also apparently found on the _Bajra_ of India."*

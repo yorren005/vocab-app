@@ -5,13 +5,6 @@ status: unread
 ---
 # porticoed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by columniation having free columns in porticoes either at both ends or at both sides of a structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by columniation having free columns in porticoes either at both ends or at both sides of a structure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porticoed designates marked by columniation having free columns in porticoes either at both ends or at both sides of a structure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by columniation having free columns in porticoes either at both ends or at both sides of a structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by columniation having free columns in porticoes either at both ends or at both sides of a structure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porticoed designates marked by columniation having free columns in porticoes either at both ends or at both sides of a structure."*

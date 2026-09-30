@@ -5,15 +5,6 @@ status: unread
 ---
 # subterfuge
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something intended to misrepresent the true nature of an activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something intended to misrepresent the true nature of an activity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I only want to love you.” “But why?” Driven to subterfuge, she stammered— “Your father is a parson, and your mother wouldn’ like you to marry such as me."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle full of subterfuge.) “Well?"*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Shall I double and take refuge in a labyrinth of subterfuge or turn and fight?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something intended to misrepresent the true nature of an activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something intended to misrepresent the true nature of an activity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I only want to love you.” “But why?” Driven to subterfuge, she stammered— “Your father is a parson, and your mother wouldn’ like you to marry such as me."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle full of subterfuge.) “Well?"*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Shall I double and take refuge in a labyrinth of subterfuge or turn and fight?"*

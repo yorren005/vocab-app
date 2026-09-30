@@ -5,15 +5,6 @@ status: unread
 ---
 # advertised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Call attention to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make publicity for; try to sell (a product).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have advertised him by secret means That if about this hour he make this way, Under the colour of his usual game, He shall here find his friends with horse and men To set him free from his captivity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We are advertised by our loving friends That they do hold their course toward Tewkesbury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My gracious sovereign, now in Devonshire, As I by friends am well advertised, Sir Edward Courtney, and the haughty prelate, Bishop of Exeter, his elder brother, With many more confederates, are in arms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Call attention to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make publicity for; try to sell (a product).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have advertised him by secret means That if about this hour he make this way, Under the colour of his usual game, He shall here find his friends with horse and men To set him free from his captivity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We are advertised by our loving friends That they do hold their course toward Tewkesbury."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My gracious sovereign, now in Devonshire, As I by friends am well advertised, Sir Edward Courtney, and the haughty prelate, Bishop of Exeter, his elder brother, With many more confederates, are in arms."*

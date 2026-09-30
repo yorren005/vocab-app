@@ -5,15 +5,6 @@ status: unread
 ---
 # storehouse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A depository for goods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A depository for goods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whoever gave that counsel to give forth The corn o’ th’ storehouse gratis, as ’twas used Sometime in Greece— MENENIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Carried to Colmekill, The sacred storehouse of his predecessors, And guardian of their bones."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guster disappears, glad to get out of the shop, which she regards with mingled dread and veneration as a storehouse of awful implements of the great torture of the law—a place not to be entered after the gas is turned off."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A depository for goods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A depository for goods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whoever gave that counsel to give forth The corn o’ th’ storehouse gratis, as ’twas used Sometime in Greece— MENENIUS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Carried to Colmekill, The sacred storehouse of his predecessors, And guardian of their bones."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guster disappears, glad to get out of the shop, which she regards with mingled dread and veneration as a storehouse of awful implements of the great torture of the law—a place not to be entered after the gas is turned off."*

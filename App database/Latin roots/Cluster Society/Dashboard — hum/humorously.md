@@ -5,15 +5,6 @@ status: unread
 ---
 # humorously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a humorous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a humorous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"So he replied, humorously— “Well, Lydgate is a good-looking young fellow, you know.” “Not one that _I_ would employ,” said Mrs."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was a humorously perilous business for both of us."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It was a humorously perilous business for both of us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a humorous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a humorous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"So he replied, humorously— “Well, Lydgate is a good-looking young fellow, you know.” “Not one that _I_ would employ,” said Mrs."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was a humorously perilous business for both of us."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It was a humorously perilous business for both of us."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # gentleman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man of refinement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manservant who acts as a personal attendant to his employer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST GENTLEMAN. ’Tis but the boldness of his hand haply, which his heart was not consenting to."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A servant only, and a gentleman which I have sometime known."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have told my neighbour how you have been solicited by a gentleman his companion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man of refinement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manservant who acts as a personal attendant to his employer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST GENTLEMAN. ’Tis but the boldness of his hand haply, which his heart was not consenting to."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A servant only, and a gentleman which I have sometime known."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have told my neighbour how you have been solicited by a gentleman his companion."*

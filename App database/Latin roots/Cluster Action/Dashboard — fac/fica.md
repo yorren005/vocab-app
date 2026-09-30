@@ -5,13 +5,6 @@ status: unread
 ---
 # fica
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tax on employees and employers that is used to fund the social security system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tax on employees and employers that is used to fund the social security system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fica designates a tax on employees and employers that is used to fund the social security system."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tax on employees and employers that is used to fund the social security system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tax on employees and employers that is used to fund the social security system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fica designates a tax on employees and employers that is used to fund the social security system."*

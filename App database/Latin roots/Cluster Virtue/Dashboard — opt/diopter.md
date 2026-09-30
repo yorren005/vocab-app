@@ -5,13 +5,6 @@ status: unread
 ---
 # diopter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of measurement of the refractive power of a lens which is equal to the reciprocal of the focal length measured in meters; used by oculists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of measurement of the refractive power of a lens which is equal to the reciprocal of the focal length measured in meters; used by oculists.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diopter designates a unit of measurement of the refractive power of a lens which is equal to the reciprocal of the focal length measured in meters; used by oculists."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of measurement of the refractive power of a lens which is equal to the reciprocal of the focal length measured in meters; used by oculists.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of measurement of the refractive power of a lens which is equal to the reciprocal of the focal length measured in meters; used by oculists.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diopter designates a unit of measurement of the refractive power of a lens which is equal to the reciprocal of the focal length measured in meters; used by oculists."*

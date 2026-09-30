@@ -5,15 +5,6 @@ status: unread
 ---
 # ram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The most common computer memory which can be used by programs to perform necessary tasks while the computer is on; an integrated circuit memory chip allows information to be stored or accessed in any order and all storage locations are equally accessible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astrology) a person who is born while the sun is in aries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ram thou thy fruitful tidings in mine ears, That long time have been barren."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most noble Antony, Let not the piece of virtue which is set Betwixt us, as the cement of our love To keep it builded, be the ram to batter The fortress of it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Zounds, sir, you’re robb’d, for shame put on your gown, Your heart is burst, you have lost half your soul; Even now, now, very now, an old black ram Is tupping your white ewe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The most common computer memory which can be used by programs to perform necessary tasks while the computer is on; an integrated circuit memory chip allows information to be stored or accessed in any order and all storage locations are equally accessible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astrology) a person who is born while the sun is in aries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ram thou thy fruitful tidings in mine ears, That long time have been barren."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most noble Antony, Let not the piece of virtue which is set Betwixt us, as the cement of our love To keep it builded, be the ram to batter The fortress of it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Zounds, sir, you’re robb’d, for shame put on your gown, Your heart is burst, you have lost half your soul; Even now, now, very now, an old black ram Is tupping your white ewe."*

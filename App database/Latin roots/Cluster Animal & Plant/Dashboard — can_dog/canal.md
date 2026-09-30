@@ -5,15 +5,6 @@ status: unread
 ---
 # canal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) an indistinct surface feature of mars once thought to be a system of channels; they are now believed to be an optical illusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bodily passage or tube lined with epithelial cells and conveying a secretion or other substance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A cent a ton-mile proved to be a paying rate on a small canal."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"For heavy, slow-moving freight, a railroad can even now barely rival a parallel canal at its best."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"At its best, therefore, the small land-locked canal is fitted only to be a supplementary agent in the system of transportation wherever another transportation agency of higher speed and greater regularity is possible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) an indistinct surface feature of mars once thought to be a system of channels; they are now believed to be an optical illusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bodily passage or tube lined with epithelial cells and conveying a secretion or other substance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A cent a ton-mile proved to be a paying rate on a small canal."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"For heavy, slow-moving freight, a railroad can even now barely rival a parallel canal at its best."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"At its best, therefore, the small land-locked canal is fitted only to be a supplementary agent in the system of transportation wherever another transportation agency of higher speed and greater regularity is possible."*

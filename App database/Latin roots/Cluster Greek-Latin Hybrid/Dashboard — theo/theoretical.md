@@ -5,15 +5,6 @@ status: unread
 ---
 # theoretical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned primarily with theories or hypotheses rather than practical considerations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with theories rather than their practical applications.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This properly belongs in a complete theoretical treatment of the subject.] [Footnote 8: See "Modern Currency Reforms" (1916), by E.W."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The modern world has been compelled to reëxamine the conception of the just price. § 3. #Evil economic effects of monopolistic price.# Theoretical analysis confirms this view."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"My theoretical and his practical knowledge together could not have failed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned primarily with theories or hypotheses rather than practical considerations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with theories rather than their practical applications.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This properly belongs in a complete theoretical treatment of the subject.] [Footnote 8: See "Modern Currency Reforms" (1916), by E.W."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The modern world has been compelled to reëxamine the conception of the just price. § 3. #Evil economic effects of monopolistic price.# Theoretical analysis confirms this view."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"My theoretical and his practical knowledge together could not have failed."*

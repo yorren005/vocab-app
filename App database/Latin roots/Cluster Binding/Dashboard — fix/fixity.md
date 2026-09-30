@@ -5,15 +5,6 @@ status: unread
 ---
 # fixity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being fixed in place as by some firm attachment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being incapable of mutation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An angularity of lineament, and a fixity of facial machinery in general, proclaimed that serious work was the order of the day."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The Queen of Spades forgot the stain on her bodice, and stood beside the Queen of Diamonds and the new-married, staggering young woman—all with a gaze of fixity in the direction in which the horse’s tramp was diminishing into silence on the road."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Then before the appealing fixity of her gaze, that seemed to watch for more words on my lips, I went on, ‘It was impossible not to—’ “‘Love him,’ she finished eagerly, silencing me into an appalled dumbness. ‘How true! how true!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being fixed in place as by some firm attachment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being incapable of mutation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An angularity of lineament, and a fixity of facial machinery in general, proclaimed that serious work was the order of the day."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The Queen of Spades forgot the stain on her bodice, and stood beside the Queen of Diamonds and the new-married, staggering young woman—all with a gaze of fixity in the direction in which the horse’s tramp was diminishing into silence on the road."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Then before the appealing fixity of her gaze, that seemed to watch for more words on my lips, I went on, ‘It was impossible not to—’ “‘Love him,’ she finished eagerly, silencing me into an appalled dumbness. ‘How true! how true!"*

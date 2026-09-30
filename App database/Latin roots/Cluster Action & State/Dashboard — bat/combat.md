@@ -5,15 +5,6 @@ status: unread
 ---
 # combat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An engagement fought between two military forces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of fighting; any contest or struggle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My messenger He hath whipped with rods; dares me to personal combat, Caesar to Antony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Henry the Fifth, thy ghost I invocate: Prosper this realm, keep it from civil broils, Combat with adverse planets in the heavens."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My courage try by combat, if thou dar’st, And thou shalt find that I exceed my sex."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An engagement fought between two military forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of fighting; any contest or struggle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My messenger He hath whipped with rods; dares me to personal combat, Caesar to Antony."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Henry the Fifth, thy ghost I invocate: Prosper this realm, keep it from civil broils, Combat with adverse planets in the heavens."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My courage try by combat, if thou dar’st, And thou shalt find that I exceed my sex."*

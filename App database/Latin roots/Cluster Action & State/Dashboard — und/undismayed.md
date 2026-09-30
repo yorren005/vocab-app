@@ -5,15 +5,6 @@ status: unread
 ---
 # undismayed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unshaken in purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unshaken in purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I laughed; I sang; the depression of the last weeks fell from me like a cloak, and I faced the future glad and undismayed."*
-> - 📜 **John Milton (*Paradise Lost*):** *"With reason hath deep silence and demur Seized us, though undismayed."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"After dinner I fell asleep and as I was drowsing off I clearly heard a voice saying in my left ear, “Thy day!” I dreamed that I was walking in the dark and was suddenly surrounded by dogs, but I went on undismayed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unshaken in purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unshaken in purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I laughed; I sang; the depression of the last weeks fell from me like a cloak, and I faced the future glad and undismayed."*
+> - 📜 **John Milton (*Paradise Lost*):** *"With reason hath deep silence and demur Seized us, though undismayed."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"After dinner I fell asleep and as I was drowsing off I clearly heard a voice saying in my left ear, “Thy day!” I dreamed that I was walking in the dark and was suddenly surrounded by dogs, but I went on undismayed."*

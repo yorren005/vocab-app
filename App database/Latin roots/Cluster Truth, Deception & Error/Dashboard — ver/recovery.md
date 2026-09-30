@@ -5,15 +5,6 @@ status: unread
 ---
 # recovery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Return to an original state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gradual healing (through rest) after sickness or injury.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What the devil should move me to undertake the recovery of this drum, being not ignorant of the impossibility, and knowing I had no such purpose?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"May he not do it by fine and recovery?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us come in, that we may bind him fast And bear him home for his recovery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Return to an original state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gradual healing (through rest) after sickness or injury.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What the devil should move me to undertake the recovery of this drum, being not ignorant of the impossibility, and knowing I had no such purpose?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"May he not do it by fine and recovery?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us come in, that we may bind him fast And bear him home for his recovery."*

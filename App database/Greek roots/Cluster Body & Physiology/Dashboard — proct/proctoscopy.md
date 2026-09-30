@@ -5,13 +5,6 @@ status: unread
 ---
 # proctoscopy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Visual examination of the rectum and the end of the colon by means of a proctoscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Visual examination of the rectum and the end of the colon by means of a proctoscope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proctoscopy designates visual examination of the rectum and the end of the colon by means of a proctoscope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Visual examination of the rectum and the end of the colon by means of a proctoscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Visual examination of the rectum and the end of the colon by means of a proctoscope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proctoscopy designates visual examination of the rectum and the end of the colon by means of a proctoscope."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # phonetics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The system of speech sounds of a language or group of languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study and systematic classification of the sounds made in spoken utterance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonetics designates the system of speech sounds of a language or group of languages."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The system of speech sounds of a language or group of languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study and systematic classification of the sounds made in spoken utterance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonetics designates the system of speech sounds of a language or group of languages."*

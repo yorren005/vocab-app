@@ -5,13 +5,6 @@ status: unread
 ---
 # impermanent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not permanent; not lasting; - james thurber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing or enduring for a limited time only.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The necessity to counteract by impermanent sojourn the permanence of arrest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not permanent; not lasting; - james thurber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing or enduring for a limited time only.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"The necessity to counteract by impermanent sojourn the permanence of arrest."*

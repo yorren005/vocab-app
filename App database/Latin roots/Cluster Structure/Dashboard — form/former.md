@@ -5,15 +5,6 @@ status: unread
 ---
 # former
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first of two or the first mentioned of two.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Referring to the first of two things or persons mentioned (or the earlier one or ones of several).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have seen and proved a fairer former fortune Than that which is to approach."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou must not take my former sharpness ill."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wisdom and fortune combating together, If that the former dare but what it can, No chance may shake it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The first of two or the first mentioned of two.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Referring to the first of two things or persons mentioned (or the earlier one or ones of several).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have seen and proved a fairer former fortune Than that which is to approach."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou must not take my former sharpness ill."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wisdom and fortune combating together, If that the former dare but what it can, No chance may shake it."*

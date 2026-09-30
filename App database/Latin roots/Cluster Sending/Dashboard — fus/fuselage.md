@@ -5,13 +5,6 @@ status: unread
 ---
 # fuselage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The central body of an airplane that is designed to accommodate the crew and passengers (or cargo).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The central body of an airplane that is designed to accommodate the crew and passengers (or cargo).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Closer, Myra." At arm's length, and the ship immobilized by its mags, Hodak braced his back against the fuselage and tried again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The central body of an airplane that is designed to accommodate the crew and passengers (or cargo).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The central body of an airplane that is designed to accommodate the crew and passengers (or cargo).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Closer, Myra." At arm's length, and the ship immobilized by its mags, Hodak braced his back against the fuselage and tried again."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # minatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Threatening or foreshadowing evil or tragic developments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Threatening or foreshadowing evil or tragic developments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Now, though we know not precisely the nature of the arguments that were used with the farmer, we may conclude they were of the minatory species, for the young fellow could not, for some time, look any person in the face."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Threatening or foreshadowing evil or tragic developments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Threatening or foreshadowing evil or tragic developments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Now, though we know not precisely the nature of the arguments that were used with the farmer, we may conclude they were of the minatory species, for the young fellow could not, for some time, look any person in the face."*

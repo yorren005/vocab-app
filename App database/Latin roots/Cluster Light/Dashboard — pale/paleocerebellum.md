@@ -5,13 +5,6 @@ status: unread
 ---
 # paleocerebellum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior lobe of the cerebellum which was one of the earliest parts of the hindbrain to develop in mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The anterior lobe of the cerebellum which was one of the earliest parts of the hindbrain to develop in mammals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleocerebellum designates the anterior lobe of the cerebellum which was one of the earliest parts of the hindbrain to develop in mammals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior lobe of the cerebellum which was one of the earliest parts of the hindbrain to develop in mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The anterior lobe of the cerebellum which was one of the earliest parts of the hindbrain to develop in mammals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleocerebellum designates the anterior lobe of the cerebellum which was one of the earliest parts of the hindbrain to develop in mammals."*

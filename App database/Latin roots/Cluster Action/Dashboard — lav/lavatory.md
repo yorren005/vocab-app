@@ -5,14 +5,6 @@ status: unread
 ---
 # lavatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A room or building equipped with one or more toilets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bathroom sink that is permanently installed and connected to a water supply and drainpipe; where you can wash your hands and face.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The communal lavatory and electronic bio-shower were down the hall."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Over against the door in the cloister was a conduit or lavatory, for the monks to wash their hands and faces, of a round form, covered with lead, and all marble, excepting the outer wall, without which they might walk about the Tower."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room or building equipped with one or more toilets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bathroom sink that is permanently installed and connected to a water supply and drainpipe; where you can wash your hands and face.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The communal lavatory and electronic bio-shower were down the hall."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Over against the door in the cloister was a conduit or lavatory, for the monks to wash their hands and faces, of a round form, covered with lead, and all marble, excepting the outer wall, without which they might walk about the Tower."*

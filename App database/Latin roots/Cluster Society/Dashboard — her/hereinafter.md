@@ -5,13 +5,6 @@ status: unread
 ---
 # hereinafter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a subsequent part of this document or statement or matter etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a subsequent part of this document or statement or matter etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Because he no pay me my moneys?_ For nonperishable goods bought of Moses Herzog, of 13 Saint Kevin’s parade in the city of Dublin, Wood quay ward, merchant, hereinafter called the vendor, and sold and delivered to Michael E."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a subsequent part of this document or statement or matter etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a subsequent part of this document or statement or matter etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Because he no pay me my moneys?_ For nonperishable goods bought of Moses Herzog, of 13 Saint Kevin’s parade in the city of Dublin, Wood quay ward, merchant, hereinafter called the vendor, and sold and delivered to Michael E."*

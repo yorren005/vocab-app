@@ -5,13 +5,6 @@ status: unread
 ---
 # decrepitate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergo decrepitation and crackle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To roast or calcine so as to cause to crackle or until crackling stops.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decrepitate designates undergo decrepitation and crackle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergo decrepitation and crackle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To roast or calcine so as to cause to crackle or until crackling stops.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decrepitate designates undergo decrepitation and crackle."*

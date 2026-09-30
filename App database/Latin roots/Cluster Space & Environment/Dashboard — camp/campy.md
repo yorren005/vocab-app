@@ -5,13 +5,6 @@ status: unread
 ---
 # campy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing sophisticated amusement by virtue of having artificially (and vulgarly) mannered or banal or sentimental qualities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing sophisticated amusement by virtue of having artificially (and vulgarly) mannered or banal or sentimental qualities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, campy designates providing sophisticated amusement by virtue of having artificially (and vulgarly) mannered or banal or sentimental qualities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing sophisticated amusement by virtue of having artificially (and vulgarly) mannered or banal or sentimental qualities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing sophisticated amusement by virtue of having artificially (and vulgarly) mannered or banal or sentimental qualities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, campy designates providing sophisticated amusement by virtue of having artificially (and vulgarly) mannered or banal or sentimental qualities."*

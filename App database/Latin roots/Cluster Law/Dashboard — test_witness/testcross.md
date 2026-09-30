@@ -5,13 +5,6 @@ status: unread
 ---
 # testcross
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cross between an organism whose genotype for a certain trait is unknown and an organism that is homozygous recessive for that trait so the unknown genotype can be determined from that of the offspring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cross between an organism whose genotype for a certain trait is unknown and an organism that is homozygous recessive for that trait so the unknown genotype can be determined from that of the offspring.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, testcross designates a cross between an organism whose genotype for a certain trait is unknown and an organism that is homozygous recessive for that trait so the unknown genotype can be determined from that of the offspring."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cross between an organism whose genotype for a certain trait is unknown and an organism that is homozygous recessive for that trait so the unknown genotype can be determined from that of the offspring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cross between an organism whose genotype for a certain trait is unknown and an organism that is homozygous recessive for that trait so the unknown genotype can be determined from that of the offspring.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, testcross designates a cross between an organism whose genotype for a certain trait is unknown and an organism that is homozygous recessive for that trait so the unknown genotype can be determined from that of the offspring."*

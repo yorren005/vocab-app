@@ -5,15 +5,6 @@ status: unread
 ---
 # misrepresented
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent falsely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tamper, with the purpose of deception.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Interested people have perhaps misrepresented each to the other."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"At such a distance as _that_, you know, things are strangely misrepresented.” “Certainly,” he replied, biting his lips."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I’m not at all keen about marrying--your son misrepresented me; but there’s no knowing what an interesting woman might do with me.” “I should like to see your idea of an interesting woman,” said his friend."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent falsely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tamper, with the purpose of deception.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Interested people have perhaps misrepresented each to the other."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"At such a distance as _that_, you know, things are strangely misrepresented.” “Certainly,” he replied, biting his lips."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I’m not at all keen about marrying--your son misrepresented me; but there’s no knowing what an interesting woman might do with me.” “I should like to see your idea of an interesting woman,” said his friend."*

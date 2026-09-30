@@ -5,13 +5,6 @@ status: unread
 ---
 # cosmetologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person licensed to provide cosmetic treatments to the hair, skin, and nails : one trained in cosmetology : beautician.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person licensed to provide cosmetic treatments to the hair, skin, and nails : one trained in cosmetology : beautician.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmetologist designates a person licensed to provide cosmetic treatments to the hair, skin, and nails : one trained in cosmetology : beautician."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person licensed to provide cosmetic treatments to the hair, skin, and nails : one trained in cosmetology : beautician.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person licensed to provide cosmetic treatments to the hair, skin, and nails : one trained in cosmetology : beautician.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmetologist designates a person licensed to provide cosmetic treatments to the hair, skin, and nails : one trained in cosmetology : beautician."*

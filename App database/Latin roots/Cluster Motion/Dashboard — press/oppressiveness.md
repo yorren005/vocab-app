@@ -5,14 +5,6 @@ status: unread
 ---
 # oppressiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of being oppressed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unwelcome burdensome difficulty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They writhed feverishly under the oppressiveness of an emotion thrust on them by cruel Nature’s law—an emotion which they had neither expected nor desired."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"There was a brooding oppressiveness in the air that seemed to bode something."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of being oppressed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unwelcome burdensome difficulty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They writhed feverishly under the oppressiveness of an emotion thrust on them by cruel Nature’s law—an emotion which they had neither expected nor desired."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"There was a brooding oppressiveness in the air that seemed to bode something."*

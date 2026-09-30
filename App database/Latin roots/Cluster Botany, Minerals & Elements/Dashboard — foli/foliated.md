@@ -5,14 +5,6 @@ status: unread
 ---
 # foliated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hammer into thin flat foils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decorate with leaves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Dozens of them seemed to be crawling here and there, in the sombre light, among the foliated sheets of intense green."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The inner arches are foliated, and the cusps richly fluted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hammer into thin flat foils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decorate with leaves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Dozens of them seemed to be crawling here and there, in the sombre light, among the foliated sheets of intense green."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The inner arches are foliated, and the cusps richly fluted."*

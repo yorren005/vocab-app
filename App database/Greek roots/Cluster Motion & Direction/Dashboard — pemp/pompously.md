@@ -5,15 +5,6 @@ status: unread
 ---
 # pompously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pompous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a pompous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Brocklehurst has weakly and pompously repeated at second-hand from Mrs."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"On my politely bidding him Good-morning, he said, pompously, “Seven times nine, boy?” And how should _I_ be able to answer, dodged in that way, in a strange place, on an empty stomach!"*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"When he went home on leave he rioted on a large scale—pompously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pompous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a pompous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Brocklehurst has weakly and pompously repeated at second-hand from Mrs."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"On my politely bidding him Good-morning, he said, pompously, “Seven times nine, boy?” And how should _I_ be able to answer, dodged in that way, in a strange place, on an empty stomach!"*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"When he went home on leave he rioted on a large scale—pompously."*

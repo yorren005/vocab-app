@@ -5,13 +5,6 @@ status: unread
 ---
 # geopolitics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A study of the influence of such factors as geography, economics, and demography on the politics and especially the foreign policy of a state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A governmental policy guided by geopolitics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geopolitics designates a study of the influence of such factors as geography, economics, and demography on the politics and especially the foreign policy of a state."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A study of the influence of such factors as geography, economics, and demography on the politics and especially the foreign policy of a state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A governmental policy guided by geopolitics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geopolitics designates a study of the influence of such factors as geography, economics, and demography on the politics and especially the foreign policy of a state."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # neurospora
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of fungi with black perithecia used extensively in genetic research; includes some forms with orange spore masses that cause severe damage in bakeries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of fungi with black perithecia used extensively in genetic research; includes some forms with orange spore masses that cause severe damage in bakeries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurospora designates genus of fungi with black perithecia used extensively in genetic research; includes some forms with orange spore masses that cause severe damage in bakeries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of fungi with black perithecia used extensively in genetic research; includes some forms with orange spore masses that cause severe damage in bakeries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of fungi with black perithecia used extensively in genetic research; includes some forms with orange spore masses that cause severe damage in bakeries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurospora designates genus of fungi with black perithecia used extensively in genetic research; includes some forms with orange spore masses that cause severe damage in bakeries."*

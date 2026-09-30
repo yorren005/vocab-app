@@ -5,15 +5,6 @@ status: unread
 ---
 # oration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instance of oratory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instance of oratory.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, sir, that is as fit as can be to serve for your oration; and let him deliver the pigeons to the emperor from you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me, can you deliver an oration to the emperor with a grace?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, Marcus, fold it in the oration; For thou hast made it like a humble suppliant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instance of oratory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instance of oratory.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, sir, that is as fit as can be to serve for your oration; and let him deliver the pigeons to the emperor from you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me, can you deliver an oration to the emperor with a grace?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, Marcus, fold it in the oration; For thou hast made it like a humble suppliant."*

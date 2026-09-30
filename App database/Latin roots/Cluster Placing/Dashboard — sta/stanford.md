@@ -5,15 +5,6 @@ status: unread
 ---
 # stanford
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states railroad executive and founder of stanford university (1824-1893).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A university in california.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He has a girl in high school, and his boy is a freshman at Stanford."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"But Villiers Stanford is, I think, the best composer England has produced since the days of Purcell & Blow, and your words will be sent home to hundreds & thousands who had not before seen them."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Total: Weaver, 995; Kyle, 265; Norton, 1; Page, 1; Stanford, 1."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states railroad executive and founder of stanford university (1824-1893).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A university in california.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He has a girl in high school, and his boy is a freshman at Stanford."*
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"But Villiers Stanford is, I think, the best composer England has produced since the days of Purcell & Blow, and your words will be sent home to hundreds & thousands who had not before seen them."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Total: Weaver, 995; Kyle, 265; Norton, 1; Page, 1; Stanford, 1."*

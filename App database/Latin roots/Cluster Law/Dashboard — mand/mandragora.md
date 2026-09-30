@@ -5,15 +5,6 @@ status: unread
 ---
 # mandragora
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of stemless herbs of the family solanaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of stemless herbs of the family solanaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not poppy, nor mandragora, Nor all the drowsy syrups of the world, Shall ever medicine thee to that sweet sleep Which thou ow’dst yesterday."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Like Elsie he will never reach the haven of Columbus-- "Not poppy nor mandragora, Nor all the drowsie syrrups of the world Shall ever medicine him to that sweete sleepe" like to the prose which Mr."*
-> - 📜 **Charles Lamb (*Tales from Shakespeare*):** *"Poppy, nor the juice of mandragora, nor all the sleeping potions in the world, could ever again restore to him that sweet rest, which he had enjoyed but yesterday."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of stemless herbs of the family solanaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of stemless herbs of the family solanaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not poppy, nor mandragora, Nor all the drowsy syrups of the world, Shall ever medicine thee to that sweet sleep Which thou ow’dst yesterday."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Like Elsie he will never reach the haven of Columbus-- "Not poppy nor mandragora, Nor all the drowsie syrrups of the world Shall ever medicine him to that sweete sleepe" like to the prose which Mr."*
+> - 📜 **Charles Lamb (*Tales from Shakespeare*):** *"Poppy, nor the juice of mandragora, nor all the sleeping potions in the world, could ever again restore to him that sweet rest, which he had enjoyed but yesterday."*

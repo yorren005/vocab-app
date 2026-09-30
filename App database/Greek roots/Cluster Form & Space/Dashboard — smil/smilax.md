@@ -5,13 +5,6 @@ status: unread
 ---
 # smilax
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sometimes placed in smilacaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fragile twining plant of south africa with bright green flattened stems and glossy foliage popular as a floral decoration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **O. Henry (*My tussle with the devil, and other stories*):** *"Bits of smilax, rose leaves and trodden violets can be seen about the steps, and as he opens the door, the air is charged with escaping perfume."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sometimes placed in smilacaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fragile twining plant of south africa with bright green flattened stems and glossy foliage popular as a floral decoration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **O. Henry (*My tussle with the devil, and other stories*):** *"Bits of smilax, rose leaves and trodden violets can be seen about the steps, and as he opens the door, the air is charged with escaping perfume."*

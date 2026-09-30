@@ -5,15 +5,6 @@ status: unread
 ---
 # elevation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The event of something being raised upward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The highest level or degree attainable; the highest stage of development.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, from her elevation, instantly cries out, “No he don’t!” “My lit-tle woman!” says Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak lowered the lambs from their unnatural elevation, wrapped them in hay, and placed them round the fire."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But by the time that he could reach an elevation sufficiently great to command a view of the sea beyond, dusk had set in, and nothing further was to be seen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The event of something being raised upward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The highest level or degree attainable; the highest stage of development.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, from her elevation, instantly cries out, “No he don’t!” “My lit-tle woman!” says Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak lowered the lambs from their unnatural elevation, wrapped them in hay, and placed them round the fire."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But by the time that he could reach an elevation sufficiently great to command a view of the sea beyond, dusk had set in, and nothing further was to be seen."*

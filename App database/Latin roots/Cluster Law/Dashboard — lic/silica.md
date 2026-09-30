@@ -5,15 +5,6 @@ status: unread
 ---
 # silica
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white or colorless vitreous insoluble solid (sio2); various forms occur widely in the earth's crust as quartz or cristobalite or tridymite or lechatelierite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white or colorless vitreous insoluble solid (sio2); various forms occur widely in the earth's crust as quartz or cristobalite or tridymite or lechatelierite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Aluminium and oxygen form alumina, of which are constituted the sapphire, the ruby and other precious stones, but alumina is most commonly found in combination with silica, or silicon and oxygen."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It is easily reduced to metallic copper by heating with carbon, the metal being also obtained if the oxide be heated in the presence of reducing gases; it combines readily with silica when heated, yielding fusible silicates."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Iron, 28·4 " Sulphur, 29·9 " Silica, 23·6 " Alumina, 3·7 " whilst the product (“calcines”) has an average composition of Copper, 6·3 per cent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white or colorless vitreous insoluble solid (sio2); various forms occur widely in the earth's crust as quartz or cristobalite or tridymite or lechatelierite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white or colorless vitreous insoluble solid (sio2); various forms occur widely in the earth's crust as quartz or cristobalite or tridymite or lechatelierite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Aluminium and oxygen form alumina, of which are constituted the sapphire, the ruby and other precious stones, but alumina is most commonly found in combination with silica, or silicon and oxygen."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It is easily reduced to metallic copper by heating with carbon, the metal being also obtained if the oxide be heated in the presence of reducing gases; it combines readily with silica when heated, yielding fusible silicates."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Iron, 28·4 " Sulphur, 29·9 " Silica, 23·6 " Alumina, 3·7 " whilst the product (“calcines”) has an average composition of Copper, 6·3 per cent."*

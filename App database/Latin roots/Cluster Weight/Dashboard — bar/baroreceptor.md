@@ -5,13 +5,6 @@ status: unread
 ---
 # baroreceptor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sensory receptor that responds to pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sensory receptor that responds to pressure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baroreceptor designates a sensory receptor that responds to pressure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sensory receptor that responds to pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sensory receptor that responds to pressure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baroreceptor designates a sensory receptor that responds to pressure."*

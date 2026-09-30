@@ -5,15 +5,6 @@ status: unread
 ---
 # calais
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in northern france on the strait of dover that serves as a ferry port to england; in 1347 it was captured by the english king edward iii after a long siege and remained in english hands until it was recaptured by the french king henry ii in 1558.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in northern france on the strait of dover that serves as a ferry port to england; in 1347 it was captured by the english king edward iii after a long siege and remained in english hands until it was recaptured by the french king henry ii in 1558.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nym and Bardolph are sworn brothers in filching, and in Calais they stole a fire-shovel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For us, dear uncle, The winter coming on, and sickness growing Upon our soldiers, we will retire to Calais."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let there be sung _Non nobis_ and _Te Deum_, The dead with charity enclos’d in clay, And then to Calais; and to England then, Where ne’er from France arriv’d more happy men. [_Exeunt._] ACT V Enter Chorus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in northern france on the strait of dover that serves as a ferry port to england; in 1347 it was captured by the english king edward iii after a long siege and remained in english hands until it was recaptured by the french king henry ii in 1558.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in northern france on the strait of dover that serves as a ferry port to england; in 1347 it was captured by the english king edward iii after a long siege and remained in english hands until it was recaptured by the french king henry ii in 1558.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nym and Bardolph are sworn brothers in filching, and in Calais they stole a fire-shovel."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For us, dear uncle, The winter coming on, and sickness growing Upon our soldiers, we will retire to Calais."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let there be sung _Non nobis_ and _Te Deum_, The dead with charity enclos’d in clay, And then to Calais; and to England then, Where ne’er from France arriv’d more happy men. [_Exeunt._] ACT V Enter Chorus."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # criticize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Find fault with; express criticism of; point out real or perceived flaws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act as a critic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He is theirs; they can cross-question him at leisure; they tell him that the Pharisees did not like what he said (Matt. 15:12), they doubt with Peter the wisdom of his open speech (Mark 8:32); they criticize him (Matt. 13:10)."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The Christian read the ancient literature with the same freedom of mind, and was not in bondage to it; he had a new outlook; he could criticize more freely."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Love that gives without stint asking for no recompense: love that understands yet will not criticize nor listen to criticism: love that dares to deny its lover for his own sake."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Find fault with; express criticism of; point out real or perceived flaws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act as a critic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"He is theirs; they can cross-question him at leisure; they tell him that the Pharisees did not like what he said (Matt. 15:12), they doubt with Peter the wisdom of his open speech (Mark 8:32); they criticize him (Matt. 13:10)."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The Christian read the ancient literature with the same freedom of mind, and was not in bondage to it; he had a new outlook; he could criticize more freely."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Love that gives without stint asking for no recompense: love that understands yet will not criticize nor listen to criticism: love that dares to deny its lover for his own sake."*

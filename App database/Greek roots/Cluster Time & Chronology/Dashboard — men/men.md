@@ -5,15 +5,6 @@ status: unread
 ---
 # men
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Menstruation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual human; especially : an adult male human.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I perceive that men as plants increase, Cheered and checked even by the self-same sky: Vaunt in their youthful sap, at height decrease, And wear their brave state out of memory."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So should my papers (yellowed with their age) Be scorned, like old men of less truth than tongue, And your true rights be termed a poet’s rage, And stretched metre of an antique song."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy love is better than high birth to me, Richer than wealth, prouder than garments’ costs, Of more delight than hawks and horses be: And having thee, of all men’s pride I boast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Menstruation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual human; especially : an adult male human.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I perceive that men as plants increase, Cheered and checked even by the self-same sky: Vaunt in their youthful sap, at height decrease, And wear their brave state out of memory."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So should my papers (yellowed with their age) Be scorned, like old men of less truth than tongue, And your true rights be termed a poet’s rage, And stretched metre of an antique song."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy love is better than high birth to me, Richer than wealth, prouder than garments’ costs, Of more delight than hawks and horses be: And having thee, of all men’s pride I boast."*

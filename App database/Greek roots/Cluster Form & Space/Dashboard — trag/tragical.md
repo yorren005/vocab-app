@@ -5,15 +5,6 @@ status: unread
 ---
 # tragical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very sad; especially involving grief or death or destruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very sad; especially involving grief or death or destruction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best actors in the world, either for tragedy, comedy, history, pastoral, pastoral-comical, historical-pastoral, tragical-historical, tragical-comical-historical-pastoral, scene individable, or poem unlimited."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why look you still so stern and tragical?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And tragical, my noble lord, it is."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very sad; especially involving grief or death or destruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very sad; especially involving grief or death or destruction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best actors in the world, either for tragedy, comedy, history, pastoral, pastoral-comical, historical-pastoral, tragical-historical, tragical-comical-historical-pastoral, scene individable, or poem unlimited."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why look you still so stern and tragical?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And tragical, my noble lord, it is."*

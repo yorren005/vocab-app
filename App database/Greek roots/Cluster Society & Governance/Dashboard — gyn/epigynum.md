@@ -5,13 +5,6 @@ status: unread
 ---
 # epigynum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An external genital structure of a female spider consisting of a variably-shaped, hardened plate on the underside of the abdomen with typically one or two openings through which sperm is transferred from a male palpus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An external genital structure of a female spider consisting of a variably-shaped, hardened plate on the underside of the abdomen with typically one or two openings through which sperm is transferred from a male palpus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epigynum designates an external genital structure of a female spider consisting of a variably-shaped, hardened plate on the underside of the abdomen with typically one or two openings through which sperm is transferred from a male palpus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An external genital structure of a female spider consisting of a variably-shaped, hardened plate on the underside of the abdomen with typically one or two openings through which sperm is transferred from a male palpus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An external genital structure of a female spider consisting of a variably-shaped, hardened plate on the underside of the abdomen with typically one or two openings through which sperm is transferred from a male palpus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epigynum designates an external genital structure of a female spider consisting of a variably-shaped, hardened plate on the underside of the abdomen with typically one or two openings through which sperm is transferred from a male palpus."*

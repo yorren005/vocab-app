@@ -5,15 +5,6 @@ status: unread
 ---
 # dented
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a depression into.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of metal e.g.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"How I snuffed that Tartar air!—how I spurned that turnpike earth!—that common highway all over dented with the marks of slavish heels and hoofs; and turned me to admire the magnanimity of the sea which will permit no records."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Soon his steady, ivory stride was heard, as to and fro he paced his old rounds, upon planks so familiar to his tread, that they were all over dented, like geological stones, with the peculiar mark of his walk."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Did you fixedly gaze, too, upon that ribbed and dented brow; there also, you would see still stranger foot-prints—the foot-prints of his one unsleeping, ever-pacing thought."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a depression into.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of metal e.g.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"How I snuffed that Tartar air!—how I spurned that turnpike earth!—that common highway all over dented with the marks of slavish heels and hoofs; and turned me to admire the magnanimity of the sea which will permit no records."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Soon his steady, ivory stride was heard, as to and fro he paced his old rounds, upon planks so familiar to his tread, that they were all over dented, like geological stones, with the peculiar mark of his walk."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Did you fixedly gaze, too, upon that ribbed and dented brow; there also, you would see still stranger foot-prints—the foot-prints of his one unsleeping, ever-pacing thought."*

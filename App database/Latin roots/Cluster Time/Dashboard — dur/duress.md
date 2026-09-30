@@ -5,14 +5,6 @@ status: unread
 ---
 # duress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compulsory force or threat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compulsory force or threat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It will cover infiltration, interrogation, psychological defenses against psychic probes and other means that might be used to acquire information from you, under duress or otherwise."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The plot and the purpose then, is by duress to compel the Executive to give up his convictions, his duty, and his oath, as the price to be paid a political party for allowing the Government to live!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compulsory force or threat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compulsory force or threat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It will cover infiltration, interrogation, psychological defenses against psychic probes and other means that might be used to acquire information from you, under duress or otherwise."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The plot and the purpose then, is by duress to compel the Executive to give up his convictions, his duty, and his oath, as the price to be paid a political party for allowing the Government to live!"*

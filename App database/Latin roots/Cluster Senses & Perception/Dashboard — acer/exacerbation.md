@@ -5,13 +5,6 @@ status: unread
 ---
 # exacerbation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Action that makes a problem or a disease (or its symptoms) worse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Violent and bitter exasperation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exacerbation designates action that makes a problem or a disease (or its symptoms) worse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Action that makes a problem or a disease (or its symptoms) worse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Violent and bitter exasperation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exacerbation designates action that makes a problem or a disease (or its symptoms) worse."*

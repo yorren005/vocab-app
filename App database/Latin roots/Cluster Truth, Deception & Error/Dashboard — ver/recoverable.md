@@ -5,15 +5,6 @@ status: unread
 ---
 # recoverable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being recovered or regained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being recovered or regained.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must consider that a prodigal course Is like the sun’s, but not like his recoverable."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The quantity needs to be multiplied threefold before the quantity of gold becomes even detectable, to say nothing of being recoverable."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It would need to be cheap, too, or easily recoverable, so that it could be used over and over again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being recovered or regained.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being recovered or regained.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must consider that a prodigal course Is like the sun’s, but not like his recoverable."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The quantity needs to be multiplied threefold before the quantity of gold becomes even detectable, to say nothing of being recoverable."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It would need to be cheap, too, or easily recoverable, so that it could be used over and over again."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # unaesthetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Violating aesthetic canons or requirements; deficient in tastefulness or beauty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Violating aesthetic canons or requirements; deficient in tastefulness or beauty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"No wonder the men who have known only the discomforts of the camps, with their hard, grinding labor and unaesthetic surroundings, are easily caught in the net that is spread at their feet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Violating aesthetic canons or requirements; deficient in tastefulness or beauty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Violating aesthetic canons or requirements; deficient in tastefulness or beauty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"No wonder the men who have known only the discomforts of the camps, with their hard, grinding labor and unaesthetic surroundings, are easily caught in the net that is spread at their feet."*

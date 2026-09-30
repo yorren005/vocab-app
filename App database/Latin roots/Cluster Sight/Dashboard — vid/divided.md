@@ -5,15 +5,6 @@ status: unread
 ---
 # divided
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Separate into parts or portions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform a division.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most noble Antony!” Then in the midst a tearing groan did break The name of Antony; it was divided Between her heart and lips."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Poor Ophelia Divided from herself and her fair judgement, Without the which we are pictures or mere beasts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is the unfirm king In three divided, and his coffers sound With hollow poverty and emptiness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Separate into parts or portions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform a division.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most noble Antony!” Then in the midst a tearing groan did break The name of Antony; it was divided Between her heart and lips."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Poor Ophelia Divided from herself and her fair judgement, Without the which we are pictures or mere beasts."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So is the unfirm king In three divided, and his coffers sound With hollow poverty and emptiness."*

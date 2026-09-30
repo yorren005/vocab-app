@@ -5,13 +5,6 @@ status: unread
 ---
 # asepsis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being aseptic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The methods of making or keeping aseptic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asepsis designates the condition of being aseptic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being aseptic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The methods of making or keeping aseptic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asepsis designates the condition of being aseptic."*

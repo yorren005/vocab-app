@@ -5,15 +5,6 @@ status: unread
 ---
 # invoke
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Summon into action or bring into existence, often as if by magic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cite as an authority; resort to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Hence they are tempted at times to usurp public authority over the field of private rights in industry.[13] In other cases, when they have come to the end of their unaided powers, they invoke the aid of the law to accomplish their objects."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And really, after a day or two of confusion worse confounded, it was delightful by degrees to invoke order from the chaos ourselves had made."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And as each jarring, monster-mass is past, Fond recollect what once thou wast: In manner due, beneath this sacred oak, Hear, Spirit, hear! thy presence I invoke!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Summon into action or bring into existence, often as if by magic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cite as an authority; resort to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Hence they are tempted at times to usurp public authority over the field of private rights in industry.[13] In other cases, when they have come to the end of their unaided powers, they invoke the aid of the law to accomplish their objects."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And really, after a day or two of confusion worse confounded, it was delightful by degrees to invoke order from the chaos ourselves had made."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And as each jarring, monster-mass is past, Fond recollect what once thou wast: In manner due, beneath this sacred oak, Hear, Spirit, hear! thy presence I invoke!"*

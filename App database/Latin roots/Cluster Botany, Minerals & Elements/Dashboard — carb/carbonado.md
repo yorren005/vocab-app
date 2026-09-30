@@ -5,15 +5,6 @@ status: unread
 ---
 # carbonado
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inferior dark diamond used in industry for drilling and polishing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of meat (or fish) that has been scored and broiled.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it is your carbonado’d face."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was too hard for him directly, to say the troth on’t, before Corioles; he scotched him and notched him like a carbonado."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he do come in my way, so; if he do not, if I come in his willingly, let him make a carbonado of me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inferior dark diamond used in industry for drilling and polishing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of meat (or fish) that has been scored and broiled.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it is your carbonado’d face."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was too hard for him directly, to say the troth on’t, before Corioles; he scotched him and notched him like a carbonado."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he do come in my way, so; if he do not, if I come in his willingly, let him make a carbonado of me."*

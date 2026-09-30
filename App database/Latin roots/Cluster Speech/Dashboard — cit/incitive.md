@@ -5,13 +5,6 @@ status: unread
 ---
 # incitive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arousing to action or rebellion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arousing to action or rebellion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incitive designates arousing to action or rebellion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arousing to action or rebellion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arousing to action or rebellion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incitive designates arousing to action or rebellion."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # unique
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Radically distinctive and without equal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (followed by `to') applying exclusively to a given category or condition or locality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"A call was accordingly addressed to him, and it was backed up by representations of an almost unique character and weight."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some events are unique in nature and seem unlikely ever to occur again; others are of a kind occurring so irregularly that no reasonable prediction can be made as to the time and frequency of their occurrences."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Even in respect to cheapness, the unique virtue of waterways in favored localities, the railroad made rapid gains."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Radically distinctive and without equal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (followed by `to') applying exclusively to a given category or condition or locality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"A call was accordingly addressed to him, and it was backed up by representations of an almost unique character and weight."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some events are unique in nature and seem unlikely ever to occur again; others are of a kind occurring so irregularly that no reasonable prediction can be made as to the time and frequency of their occurrences."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Even in respect to cheapness, the unique virtue of waterways in favored localities, the railroad made rapid gains."*

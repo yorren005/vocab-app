@@ -5,14 +5,6 @@ status: unread
 ---
 # depreciating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belittle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower the value of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Crawford, after properly depreciating his own abilities, was quite at his service in any way that could be useful."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The sense that Sir James was depreciating Will, and behaving rudely to him, roused her resolution and dignity: there was no touch of confusion in her manner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belittle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower the value of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Crawford, after properly depreciating his own abilities, was quite at his service in any way that could be useful."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The sense that Sir James was depreciating Will, and behaving rudely to him, roused her resolution and dignity: there was no touch of confusion in her manner."*

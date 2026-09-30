@@ -5,14 +5,6 @@ status: unread
 ---
 # pommy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disparaging term for a british person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disparaging term for a british person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ay, and there were the fellers round her wringing down the cheese and bustling about and saying, ‘Ware o’ the pommy, ma’am: ’twill spoil yer gown.’ ‘Never mind me,’ says she."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ay, and there were the fellers round her wringing down the cheese and bustling about and saying, ‘Ware o’ the pommy, ma’am: ’twill spoil yer gown.’ ‘Never mind me,’ says she."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disparaging term for a british person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disparaging term for a british person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ay, and there were the fellers round her wringing down the cheese and bustling about and saying, ‘Ware o’ the pommy, ma’am: ’twill spoil yer gown.’ ‘Never mind me,’ says she."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ay, and there were the fellers round her wringing down the cheese and bustling about and saying, ‘Ware o’ the pommy, ma’am: ’twill spoil yer gown.’ ‘Never mind me,’ says she."*

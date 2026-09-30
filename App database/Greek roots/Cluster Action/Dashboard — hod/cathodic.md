@@ -5,13 +5,6 @@ status: unread
 ---
 # cathodic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or at or pertaining to a cathode.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or at or pertaining to a cathode.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cathodic designates of or at or pertaining to a cathode."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or at or pertaining to a cathode.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or at or pertaining to a cathode.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cathodic designates of or at or pertaining to a cathode."*

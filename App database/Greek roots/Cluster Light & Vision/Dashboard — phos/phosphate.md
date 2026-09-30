@@ -5,15 +5,6 @@ status: unread
 ---
 # phosphate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt of phosphoric acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carbonated drink with fruit syrup and a little phosphoric acid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A variety of minor enterprises have been undertaken by states to supply salt, phosphate, banking facilities, even some manufactures."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A variety of minor enterprises have been undertaken by states to supply salt, phosphate, banking facilities, even some manufactures."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"It is far before phosphates, about which there has been so much talk these last years."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt of phosphoric acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carbonated drink with fruit syrup and a little phosphoric acid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A variety of minor enterprises have been undertaken by states to supply salt, phosphate, banking facilities, even some manufactures."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A variety of minor enterprises have been undertaken by states to supply salt, phosphate, banking facilities, even some manufactures."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"It is far before phosphates, about which there has been so much talk these last years."*

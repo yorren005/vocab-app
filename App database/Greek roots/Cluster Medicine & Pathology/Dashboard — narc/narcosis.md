@@ -5,13 +5,6 @@ status: unread
 ---
 # narcosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of stupor, unconsciousness, or arrested activity produced by the influence of narcotics or other chemical or physical agents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of euphoria and confusion similar to that of alcohol intoxication which occurs when nitrogen in normal air enters the bloodstream at increased pressure (as in deep-water diving) —called also rapture of the deep.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narcosis designates a state of stupor, unconsciousness, or arrested activity produced by the influence of narcotics or other chemical or physical agents."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of stupor, unconsciousness, or arrested activity produced by the influence of narcotics or other chemical or physical agents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of euphoria and confusion similar to that of alcohol intoxication which occurs when nitrogen in normal air enters the bloodstream at increased pressure (as in deep-water diving) —called also rapture of the deep.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narcosis designates a state of stupor, unconsciousness, or arrested activity produced by the influence of narcotics or other chemical or physical agents."*

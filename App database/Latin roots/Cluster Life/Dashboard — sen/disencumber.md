@@ -5,15 +5,6 @@ status: unread
 ---
 # disencumber
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Release from entanglement of difficulty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Release from entanglement of difficulty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Seizing that opportunity, Ahab first paid out more line: and then was rapidly hauling and jerking in upon it again—hoping that way to disencumber it of some snarls—when lo!—a sight more savage than the embattled teeth of sharks!"*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Seizing that opportunity, Ahab first paid out more line: and then was rapidly hauling and jerking in upon it again—hoping that way to disencumber it of some snarls—when lo!—a sight more savage than the embattled teeth of sharks!"*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"They resolved that, on rising from table, they would satisfy their eyes with the sight, as their ears had already been with the relation, and lend willing and helping hands to disencumber the figure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Release from entanglement of difficulty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Release from entanglement of difficulty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Seizing that opportunity, Ahab first paid out more line: and then was rapidly hauling and jerking in upon it again—hoping that way to disencumber it of some snarls—when lo!—a sight more savage than the embattled teeth of sharks!"*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Seizing that opportunity, Ahab first paid out more line: and then was rapidly hauling and jerking in upon it again—hoping that way to disencumber it of some snarls—when lo!—a sight more savage than the embattled teeth of sharks!"*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"They resolved that, on rising from table, they would satisfy their eyes with the sight, as their ears had already been with the relation, and lend willing and helping hands to disencumber the figure."*

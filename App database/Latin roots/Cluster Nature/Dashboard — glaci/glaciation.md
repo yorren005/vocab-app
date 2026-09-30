@@ -5,13 +5,6 @@ status: unread
 ---
 # glaciation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being covered with glaciers or masses of ice; the result of glacial action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of covering the earth with glaciers or masses of ice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glaciation designates the condition of being covered with glaciers or masses of ice; the result of glacial action."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being covered with glaciers or masses of ice; the result of glacial action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of covering the earth with glaciers or masses of ice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glaciation designates the condition of being covered with glaciers or masses of ice; the result of glacial action."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # censorship
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Counterintelligence achieved by banning or deleting any information of value to the enemy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deleting parts of publications or correspondence or theatrical performances.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"There is opposition, it is true, to the existing order, but that opposition is directed almost solely against that which annoyed and inconvenienced him personally, for example, against the stupid as well as rigorous Austrian censorship."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"How many college students' budgets could pass the censorship of Hetty Green, reputed to be the richest woman in America?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Counterintelligence achieved by banning or deleting any information of value to the enemy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deleting parts of publications or correspondence or theatrical performances.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"There is opposition, it is true, to the existing order, but that opposition is directed almost solely against that which annoyed and inconvenienced him personally, for example, against the stupid as well as rigorous Austrian censorship."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"How many college students' budgets could pass the censorship of Hetty Green, reputed to be the richest woman in America?"*

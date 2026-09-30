@@ -5,13 +5,6 @@ status: unread
 ---
 # phone-in
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A program in which the audience participates by telephone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A program in which the audience participates by telephone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phone-in designates a program in which the audience participates by telephone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A program in which the audience participates by telephone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A program in which the audience participates by telephone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phone-in designates a program in which the audience participates by telephone."*

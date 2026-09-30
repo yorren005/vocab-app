@@ -5,19 +5,6 @@ status: unread
 ---
 # sweltering
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Oppressively hot
-> 2. **Nuance / Usage**: Become exceedingly hot
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a sweltering appearance*) and predicatively after a linking verb (*remained sweltering*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Sustained snores came from the cart-house, where some of the men were lying down; the grunt and squeal of sweltering pigs arose from the still further distance."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Nothing less than two fat sweltering one-pound notes that seemed to have been on terms of the warmest intimacy with all the cattle-markets in the county."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -53,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Oppressively, suffocatingly hot and humid, causing exhaustion and heavy perspiration.
+> 2. **Nuance / Usage**: Used figuratively for any feverish, overheated state of intensity, oppression, or social injustice.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a sweltering appearance*) and predicatively after a linking verb (*remained sweltering*).
+> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Sustained snores came from the cart-house, and the grunt and squeal of **sweltering** pigs arose from the still further distance."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He produced nothing less than two fat **sweltering** one-pound notes that seemed to have been on terms of the warmest intimacy with all the cattle-markets in the county."*
+> - 📜 **Martin Luther King Jr. (*I Have a Dream*):** *"This **sweltering** summer of the Negro's legitimate discontent will not pass until there is an invigorating autumn of freedom and equality."*

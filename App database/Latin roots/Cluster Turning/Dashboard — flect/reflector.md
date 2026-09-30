@@ -5,15 +5,6 @@ status: unread
 ---
 # reflector
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Device that reflects radiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Optical telescope consisting of a large concave mirror that produces an image that is magnified by the eyepiece.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This dazzling carpet, really a reflector, repelled the rays of the sun with wonderful intensity, which accounted for the vibration which penetrated every atom of liquid."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The earliest attempt at this was to use a reflector of bright polished metal."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"At any distance the beam from the parabolic reflector will be more intense than that from the spherical one, since the rays will be closer together."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Device that reflects radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Optical telescope consisting of a large concave mirror that produces an image that is magnified by the eyepiece.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This dazzling carpet, really a reflector, repelled the rays of the sun with wonderful intensity, which accounted for the vibration which penetrated every atom of liquid."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The earliest attempt at this was to use a reflector of bright polished metal."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"At any distance the beam from the parabolic reflector will be more intense than that from the spherical one, since the rays will be closer together."*

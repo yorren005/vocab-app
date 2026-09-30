@@ -5,14 +5,6 @@ status: unread
 ---
 # connote
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express or state indirectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involve as a necessary condition of consequence; as in logic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Make sure that every term he uses has the full value he intends it to carry, connotes all he wishes it to cover, and has the full emotional power and suggestion that it has for himself."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"In a word, all that Jesus connotes by "the Kingdom of God" is "taken from them" (Matt. 21:43), and nothing left but "outer darkness" (Matt. 22:13)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Express or state indirectly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involve as a necessary condition of consequence; as in logic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Make sure that every term he uses has the full value he intends it to carry, connotes all he wishes it to cover, and has the full emotional power and suggestion that it has for himself."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"In a word, all that Jesus connotes by "the Kingdom of God" is "taken from them" (Matt. 21:43), and nothing left but "outer darkness" (Matt. 22:13)."*

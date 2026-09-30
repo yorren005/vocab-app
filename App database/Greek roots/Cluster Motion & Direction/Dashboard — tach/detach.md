@@ -5,15 +5,6 @@ status: unread
 ---
 # detach
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to become detached or separated; take off.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separate (a small unit) from a larger, especially for a special assignment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He seemed unable to detach himself from Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the stripe of shadow on the opposite side of the bridge a portion of shade seemed to detach itself and move into isolation upon the pale white of the road."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"When suddenly, in a moment, the trumpet ceased; there was an interval of dead and terrible silence; then, each with a leap of his heart as if it would burst from his bosom, we saw a single figure slowly detach itself out of the gloom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to become detached or separated; take off.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separate (a small unit) from a larger, especially for a special assignment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He seemed unable to detach himself from Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the stripe of shadow on the opposite side of the bridge a portion of shade seemed to detach itself and move into isolation upon the pale white of the road."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"When suddenly, in a moment, the trumpet ceased; there was an interval of dead and terrible silence; then, each with a leap of his heart as if it would burst from his bosom, we saw a single figure slowly detach itself out of the gloom."*

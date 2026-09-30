@@ -5,13 +5,6 @@ status: unread
 ---
 # anagrammatical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to anagrams or containing or making an anagram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to anagrams or containing or making an anagram.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anagrammatical designates related to anagrams or containing or making an anagram."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to anagrams or containing or making an anagram.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to anagrams or containing or making an anagram.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anagrammatical designates related to anagrams or containing or making an anagram."*

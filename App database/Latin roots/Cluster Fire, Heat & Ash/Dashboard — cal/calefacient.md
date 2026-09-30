@@ -5,13 +5,6 @@ status: unread
 ---
 # calefacient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing the sensation of heat when applied to the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing the sensation of heat when applied to the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calefacient designates producing the sensation of heat when applied to the body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing the sensation of heat when applied to the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing the sensation of heat when applied to the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calefacient designates producing the sensation of heat when applied to the body."*

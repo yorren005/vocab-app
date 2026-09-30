@@ -5,15 +5,6 @@ status: unread
 ---
 # reestablish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring back into original existence, use, function, or position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring back into original existence, use, function, or position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Listen to what he said 'I fear that he won't wish to have anything to do with me, and I shall be powerless in that case.'" "I won't refuse the hand of an old friend, though, Maxa," said the brother now, "if he offers it to me to reestablish peace."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Especially in the factory districts and on the farm the child sooner or later begins to reestablish the balance, becomes a worker, and contributes to the family income as much as the cost of his support, and finally more."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"It was terrible to have to reestablish myself in the good graces of the professor before I could so much as begin to dream of Phyllis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring back into original existence, use, function, or position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring back into original existence, use, function, or position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Listen to what he said 'I fear that he won't wish to have anything to do with me, and I shall be powerless in that case.'" "I won't refuse the hand of an old friend, though, Maxa," said the brother now, "if he offers it to me to reestablish peace."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Especially in the factory districts and on the farm the child sooner or later begins to reestablish the balance, becomes a worker, and contributes to the family income as much as the cost of his support, and finally more."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"It was terrible to have to reestablish myself in the good graces of the professor before I could so much as begin to dream of Phyllis."*

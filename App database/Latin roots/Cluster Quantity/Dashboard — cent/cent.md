@@ -5,15 +5,6 @@ status: unread
 ---
 # cent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fractional monetary unit of several countries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coin worth one-hundredth of the value of the basic unit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She was without a cent in the world."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"For pay that satisfied him and us, he staid in the family over a year, working out doors and in; could be trusted to do business with money, and return every cent correctly."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Supposing herself the possessor of a ten cent note, over and above the twelve shillings, she went with her somewhat feeble protege over Jersey city ferry, and saw her safely in the cars."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fractional monetary unit of several countries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coin worth one-hundredth of the value of the basic unit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"She was without a cent in the world."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"For pay that satisfied him and us, he staid in the family over a year, working out doors and in; could be trusted to do business with money, and return every cent correctly."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Supposing herself the possessor of a ten cent note, over and above the twelve shillings, she went with her somewhat feeble protege over Jersey city ferry, and saw her safely in the cars."*

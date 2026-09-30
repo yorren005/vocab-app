@@ -5,15 +5,6 @@ status: unread
 ---
 # moderation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Quality of being moderate and avoiding extremes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A change for the better.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why tell you me of moderation?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby whispers “Hush!” “My friends,” says Chadband, “we have partaken in moderation” (which was certainly not the case so far as he was concerned) “of the comforts which have been provided for us."*
-> - 📜 **Jane Austen (*Persuasion*):** *"While Lady Elliot lived, there had been method, moderation, and economy, which had just kept him within his income; but with her had died all such right-mindedness, and from that period he had been constantly exceeding it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Quality of being moderate and avoiding extremes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A change for the better.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why tell you me of moderation?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby whispers “Hush!” “My friends,” says Chadband, “we have partaken in moderation” (which was certainly not the case so far as he was concerned) “of the comforts which have been provided for us."*
+> - 📜 **Jane Austen (*Persuasion*):** *"While Lady Elliot lived, there had been method, moderation, and economy, which had just kept him within his income; but with her had died all such right-mindedness, and from that period he had been constantly exceeding it."*

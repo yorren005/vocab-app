@@ -5,13 +5,6 @@ status: unread
 ---
 # sclerenchyma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A protective or supporting tissue in higher plants composed of cells with walls thickened and often lignified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protective or supporting tissue in higher plants composed of cells with walls thickened and often lignified.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerenchyma designates a protective or supporting tissue in higher plants composed of cells with walls thickened and often lignified."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A protective or supporting tissue in higher plants composed of cells with walls thickened and often lignified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protective or supporting tissue in higher plants composed of cells with walls thickened and often lignified.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerenchyma designates a protective or supporting tissue in higher plants composed of cells with walls thickened and often lignified."*

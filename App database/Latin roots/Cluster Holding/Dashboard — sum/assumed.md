@@ -5,15 +5,6 @@ status: unread
 ---
 # assumed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take to be the case or to be true; accept without verification or proof.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take on titles, offices, duties, responsibilities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She should be an upper servant by her attire, yet in her air and step, though both are hurried and assumed—as far as she can assume in the muddy streets, which she treads with an unaccustomed foot—she is a lady."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The lady said, of her own accord and not of his seeking, that her name was an assumed one."*
-> - 📜 **Jane Austen (*Persuasion*):** *"As she joined him, Captain Harville’s countenance re-assumed the serious, thoughtful expression which seemed its natural character."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take to be the case or to be true; accept without verification or proof.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take on titles, offices, duties, responsibilities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"She should be an upper servant by her attire, yet in her air and step, though both are hurried and assumed—as far as she can assume in the muddy streets, which she treads with an unaccustomed foot—she is a lady."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lady said, of her own accord and not of his seeking, that her name was an assumed one."*
+> - 📜 **Jane Austen (*Persuasion*):** *"As she joined him, Captain Harville’s countenance re-assumed the serious, thoughtful expression which seemed its natural character."*

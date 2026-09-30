@@ -5,13 +5,6 @@ status: unread
 ---
 # epistolatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Written in the form of or carried on by letters or correspondence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written in the form of or carried on by letters or correspondence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epistolatory designates written in the form of or carried on by letters or correspondence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Written in the form of or carried on by letters or correspondence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written in the form of or carried on by letters or correspondence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epistolatory designates written in the form of or carried on by letters or correspondence."*

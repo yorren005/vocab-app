@@ -5,13 +5,6 @@ status: unread
 ---
 # intersexual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing or occurring between the sexes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having sexual characteristics intermediate between those of male and female.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intersexual designates existing or occurring between the sexes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing or occurring between the sexes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having sexual characteristics intermediate between those of male and female.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intersexual designates existing or occurring between the sexes."*

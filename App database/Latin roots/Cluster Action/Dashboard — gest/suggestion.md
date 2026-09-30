@@ -5,15 +5,6 @@ status: unread
 ---
 # suggestion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An idea that is suggested.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A proposal offered for acceptance or rejection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was a man Of an unbounded stomach, ever ranking Himself with princes; one that by suggestion Tied all the kingdom."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, I met Lord Bigot and Lord Salisbury, With eyes as red as new-enkindled fire, And others more, going to seek the grave Of Arthur, whom they say is kill’d tonight On your suggestion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am Thane of Cawdor: If good, why do I yield to that suggestion Whose horrid image doth unfix my hair, And make my seated heart knock at my ribs, Against the use of nature?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An idea that is suggested.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A proposal offered for acceptance or rejection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was a man Of an unbounded stomach, ever ranking Himself with princes; one that by suggestion Tied all the kingdom."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, I met Lord Bigot and Lord Salisbury, With eyes as red as new-enkindled fire, And others more, going to seek the grave Of Arthur, whom they say is kill’d tonight On your suggestion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am Thane of Cawdor: If good, why do I yield to that suggestion Whose horrid image doth unfix my hair, And make my seated heart knock at my ribs, Against the use of nature?"*

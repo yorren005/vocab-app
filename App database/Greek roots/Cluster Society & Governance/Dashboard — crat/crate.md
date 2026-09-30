@@ -5,15 +5,6 @@ status: unread
 ---
 # crate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rugged box (usually made of wood); used for shipping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantity contained in a crate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Merryweather perched himself upon a crate, with a very injured expression upon his face, while Holmes fell upon his knees upon the floor and, with the lantern and a magnifying lens, began to examine minutely the cracks between the stones."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The crate upon which I sit contains 2,000 napoleons packed between layers of lead foil."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I shall stand behind this crate, and do you conceal yourselves behind those."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rugged box (usually made of wood); used for shipping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantity contained in a crate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Merryweather perched himself upon a crate, with a very injured expression upon his face, while Holmes fell upon his knees upon the floor and, with the lantern and a magnifying lens, began to examine minutely the cracks between the stones."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The crate upon which I sit contains 2,000 napoleons packed between layers of lead foil."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I shall stand behind this crate, and do you conceal yourselves behind those."*

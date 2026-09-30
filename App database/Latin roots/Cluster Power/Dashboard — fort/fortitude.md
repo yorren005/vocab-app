@@ -5,15 +5,6 @@ status: unread
 ---
 # fortitude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strength of mind that enables one to endure adversity with courage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strength of mind that enables one to endure adversity with courage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Coward of France, how much he wrongs his fame, Despairing of his own arm’s fortitude, To join with witches and the help of hell!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am able now, methinks, Out of a fortitude of soul I feel, To endure more miseries and greater far Than my weak-hearted enemies dare offer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Othello, the fortitude of the place is best known to you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strength of mind that enables one to endure adversity with courage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strength of mind that enables one to endure adversity with courage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Coward of France, how much he wrongs his fame, Despairing of his own arm’s fortitude, To join with witches and the help of hell!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am able now, methinks, Out of a fortitude of soul I feel, To endure more miseries and greater far Than my weak-hearted enemies dare offer."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Othello, the fortitude of the place is best known to you."*

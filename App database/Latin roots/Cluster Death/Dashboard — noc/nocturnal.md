@@ -5,15 +5,6 @@ status: unread
 ---
 # nocturnal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or active during the night.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or occurring in the night.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby’s breast, prompting her to nocturnal examinations of Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"After such a nocturnal reconnoitre it is hard to get back to earth, and to believe that the consciousness of such majestic speeding is derived from a tiny human frame."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The denser nocturnal vapours, attacked by the warm beams, were dividing and shrinking into isolated fleeces within hollows and coverts, where they waited till they should be dried away to nothing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or active during the night.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or occurring in the night.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby’s breast, prompting her to nocturnal examinations of Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"After such a nocturnal reconnoitre it is hard to get back to earth, and to believe that the consciousness of such majestic speeding is derived from a tiny human frame."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The denser nocturnal vapours, attacked by the warm beams, were dividing and shrinking into isolated fleeces within hollows and coverts, where they waited till they should be dried away to nothing."*

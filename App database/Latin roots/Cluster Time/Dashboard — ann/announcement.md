@@ -5,15 +5,6 @@ status: unread
 ---
 # announcement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal public statement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public statement containing information about an event that has happened or is going to happen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The two older boys had approached, too, as they had an announcement to make."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He could hardly wait to make his sister the announcement to which he had already referred several times."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I verily believe that the announcement in the newspapers when his mother was confined was ‘On Tuesday last, at her residence in Botheration Buildings, Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal public statement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public statement containing information about an event that has happened or is going to happen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The two older boys had approached, too, as they had an announcement to make."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He could hardly wait to make his sister the announcement to which he had already referred several times."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I verily believe that the announcement in the newspapers when his mother was confined was ‘On Tuesday last, at her residence in Botheration Buildings, Mrs."*

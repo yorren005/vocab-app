@@ -5,13 +5,6 @@ status: unread
 ---
 # hypnoanalysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of hypnosis in conjunction with psychoanalysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of hypnosis in conjunction with psychoanalysis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypnoanalysis designates the use of hypnosis in conjunction with psychoanalysis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of hypnosis in conjunction with psychoanalysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of hypnosis in conjunction with psychoanalysis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypnoanalysis designates the use of hypnosis in conjunction with psychoanalysis."*

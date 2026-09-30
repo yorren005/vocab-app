@@ -5,15 +5,6 @@ status: unread
 ---
 # bombay
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in western india just off the coast of the arabian sea; india's 2nd largest city (after calcutta); has the only natural deep-water harbor in western india.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in western india just off the coast of the arabian sea; india's 2nd largest city (after calcutta); has the only natural deep-water harbor in western india.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Bombay and Calcutta: MACMILLAN AND CO., LTD. [_All Rights reserved._] NOTE: The text of the present volume was passed for press by Arnold Glover and some progress had been made in his lifetime in the collection of the material given in the Appendix."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Regent street is not unknown to Lascars and Malays; and at Bombay, in the Apollo Green, live Yankees have often scared the natives."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"There were too many English or French steamers of the line of Suez to Bombay, Calcutta to Melbourne, and from Bourbon to the Mauritius, furrowing this narrow passage, for the _Nautilus_ to venture to show itself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in western india just off the coast of the arabian sea; india's 2nd largest city (after calcutta); has the only natural deep-water harbor in western india.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in western india just off the coast of the arabian sea; india's 2nd largest city (after calcutta); has the only natural deep-water harbor in western india.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Bombay and Calcutta: MACMILLAN AND CO., LTD. [_All Rights reserved._] NOTE: The text of the present volume was passed for press by Arnold Glover and some progress had been made in his lifetime in the collection of the material given in the Appendix."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Regent street is not unknown to Lascars and Malays; and at Bombay, in the Apollo Green, live Yankees have often scared the natives."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"There were too many English or French steamers of the line of Suez to Bombay, Calcutta to Melbourne, and from Bourbon to the Mauritius, furrowing this narrow passage, for the _Nautilus_ to venture to show itself."*

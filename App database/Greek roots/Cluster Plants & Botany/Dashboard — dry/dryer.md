@@ -5,15 +5,6 @@ status: unread
 ---
 # dryer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An appliance that removes moisture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from liquid or moisture; lacking natural or normal moisture or depleted of water; or no longer wet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"On all the house there is a cold, blank smell like the smell of a little church, though something dryer, suggesting that the dead and buried Dedlocks walk there in the long nights and leave the flavour of their graves behind them."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the oven made by the hot pavements and hot buildings, he has baked himself dryer than usual; and he has in his thirsty mind his mellowed port-wine half a century old."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Dryer. 150 Madison St., Chicago."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An appliance that removes moisture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from liquid or moisture; lacking natural or normal moisture or depleted of water; or no longer wet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"On all the house there is a cold, blank smell like the smell of a little church, though something dryer, suggesting that the dead and buried Dedlocks walk there in the long nights and leave the flavour of their graves behind them."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In the oven made by the hot pavements and hot buildings, he has baked himself dryer than usual; and he has in his thirsty mind his mellowed port-wine half a century old."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Dryer. 150 Madison St., Chicago."*

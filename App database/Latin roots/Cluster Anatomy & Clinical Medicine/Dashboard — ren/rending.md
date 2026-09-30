@@ -5,15 +5,6 @@ status: unread
 ---
 # rending
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tear or be torn violently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a sound of violent tearing as of something ripped apart or lightning splitting a tree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Our voices rang like broken chords, like a tearing and rending of sound."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Pondering over these heart-rending tidings, Catherine walked slowly upstairs."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed, to you I owe some fearful pangs of mental suffering, but I ought to forgive you, for you knew not what you did: while rending my heart-strings, you thought you were only uprooting my bad propensities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tear or be torn violently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a sound of violent tearing as of something ripped apart or lightning splitting a tree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Our voices rang like broken chords, like a tearing and rending of sound."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Pondering over these heart-rending tidings, Catherine walked slowly upstairs."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed, to you I owe some fearful pangs of mental suffering, but I ought to forgive you, for you knew not what you did: while rending my heart-strings, you thought you were only uprooting my bad propensities."*

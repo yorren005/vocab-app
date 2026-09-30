@@ -5,13 +5,6 @@ status: unread
 ---
 # maranta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous herbs of the genus maranta having tuberous starchy roots and large sheathing leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous herbs of the genus maranta having tuberous starchy roots and large sheathing leaves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maranta designates any of numerous herbs of the genus maranta having tuberous starchy roots and large sheathing leaves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous herbs of the genus maranta having tuberous starchy roots and large sheathing leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous herbs of the genus maranta having tuberous starchy roots and large sheathing leaves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maranta designates any of numerous herbs of the genus maranta having tuberous starchy roots and large sheathing leaves."*

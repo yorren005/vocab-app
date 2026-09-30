@@ -5,15 +5,6 @@ status: unread
 ---
 # largely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In large part; mainly or chiefly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On a large scale.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our present musters grow upon the file To five and twenty thousand men of choice; And our supplies live largely in the hope Of great Northumberland, whose bosom burns With an incensed fire of injuries."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All this amazement can I qualify: When after that the holy rites are ended, I’ll tell you largely of fair Hero’s death: Meantime, let wonder seem familiar, And to the chapel let us presently."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, let those cities that of plenty’s cup And her prosperities so largely taste, With their superflous riots, hear these tears!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In large part; mainly or chiefly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On a large scale.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our present musters grow upon the file To five and twenty thousand men of choice; And our supplies live largely in the hope Of great Northumberland, whose bosom burns With an incensed fire of injuries."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All this amazement can I qualify: When after that the holy rites are ended, I’ll tell you largely of fair Hero’s death: Meantime, let wonder seem familiar, And to the chapel let us presently."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, let those cities that of plenty’s cup And her prosperities so largely taste, With their superflous riots, hear these tears!"*

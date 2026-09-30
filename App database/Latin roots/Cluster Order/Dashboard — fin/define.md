@@ -5,15 +5,6 @@ status: unread
 ---
 # define
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Determine the essential quality of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give a definition for the meaning of a word.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks no face so gracious is as mine, No shape so true, no truth of such account, And for my self mine own worth do define, As I all other in all worths surmount."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mad call I it; for to define true madness, What is’t but to be nothing else but mad?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A largess universal like the sun His liberal eye doth give to everyone, Thawing cold fear, that mean and gentle all Behold, as may unworthiness define, A little touch of Harry in the night."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Determine the essential quality of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give a definition for the meaning of a word.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks no face so gracious is as mine, No shape so true, no truth of such account, And for my self mine own worth do define, As I all other in all worths surmount."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mad call I it; for to define true madness, What is’t but to be nothing else but mad?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A largess universal like the sun His liberal eye doth give to everyone, Thawing cold fear, that mean and gentle all Behold, as may unworthiness define, A little touch of Harry in the night."*

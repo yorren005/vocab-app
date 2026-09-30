@@ -5,13 +5,6 @@ status: unread
 ---
 # anticlockwise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the direction opposite to the rotation of the hands of a clock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a direction opposite to the direction in which the hands of a clock move.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticlockwise designates in the direction opposite to the rotation of the hands of a clock."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the direction opposite to the rotation of the hands of a clock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a direction opposite to the direction in which the hands of a clock move.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticlockwise designates in the direction opposite to the rotation of the hands of a clock."*

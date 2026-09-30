@@ -5,13 +5,6 @@ status: unread
 ---
 # finno-ugric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of uralic languages indigenous to scandinavia and hungary and russia and western siberia (prior to the slavic expansion into those regions).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of uralic languages indigenous to scandinavia and hungary and russia and western siberia (prior to the slavic expansion into those regions).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finno-ugric designates a family of uralic languages indigenous to scandinavia and hungary and russia and western siberia (prior to the slavic expansion into those regions)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of uralic languages indigenous to scandinavia and hungary and russia and western siberia (prior to the slavic expansion into those regions).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of uralic languages indigenous to scandinavia and hungary and russia and western siberia (prior to the slavic expansion into those regions).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finno-ugric designates a family of uralic languages indigenous to scandinavia and hungary and russia and western siberia (prior to the slavic expansion into those regions)."*

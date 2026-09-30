@@ -5,13 +5,6 @@ status: unread
 ---
 # spinnability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being suitable for spinning or the capability of being spun (used of textile fibers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being suitable for spinning or the capability of being spun (used of textile fibers).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spinnability designates the quality of being suitable for spinning or the capability of being spun (used of textile fibers)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being suitable for spinning or the capability of being spun (used of textile fibers).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being suitable for spinning or the capability of being spun (used of textile fibers).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spinnability designates the quality of being suitable for spinning or the capability of being spun (used of textile fibers)."*

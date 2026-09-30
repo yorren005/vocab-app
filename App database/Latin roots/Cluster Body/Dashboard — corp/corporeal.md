@@ -5,15 +5,6 @@ status: unread
 ---
 # corporeal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having material or physical form or substance;  - benjamin jowett.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affecting or characteristic of the body as opposed to the mind or spirit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess’s passing corporeal blight had been her mental harvest."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It was mournful, indeed, to witness the subjugation of that vigorous spirit to a corporeal infirmity."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There was a corporeal humility in looking up at him; and a white man standing before him seemed a white flag come to beg truce of a fortress."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having material or physical form or substance;  - benjamin jowett.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affecting or characteristic of the body as opposed to the mind or spirit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess’s passing corporeal blight had been her mental harvest."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It was mournful, indeed, to witness the subjugation of that vigorous spirit to a corporeal infirmity."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There was a corporeal humility in looking up at him; and a white man standing before him seemed a white flag come to beg truce of a fortress."*

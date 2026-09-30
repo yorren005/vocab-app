@@ -5,15 +5,6 @@ status: unread
 ---
 # chronicler
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who writes chronicles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who writes chronicles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"After my death I wish no other herald, No other speaker of my living actions, To keep mine honour from corruption But such an honest chronicler as Griffith."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The whale has no famous author, and whaling no famous chronicler, you will say. _The whale no famous author, and whaling no famous chronicler?_ Who wrote the first account of our Leviathan?"*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"You’ll come with me, won’t you?” “If I can be of use.” “Oh, a trusty comrade is always of use; and a chronicler still more so."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who writes chronicles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who writes chronicles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"After my death I wish no other herald, No other speaker of my living actions, To keep mine honour from corruption But such an honest chronicler as Griffith."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The whale has no famous author, and whaling no famous chronicler, you will say. _The whale no famous author, and whaling no famous chronicler?_ Who wrote the first account of our Leviathan?"*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"You’ll come with me, won’t you?” “If I can be of use.” “Oh, a trusty comrade is always of use; and a chronicler still more so."*

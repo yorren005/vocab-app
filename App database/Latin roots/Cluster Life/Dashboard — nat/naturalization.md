@@ -5,15 +5,6 @@ status: unread
 ---
 # naturalization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being brought into conformity with nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The proceeding whereby a foreigner is granted citizenship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The dissimilarity in the rules of naturalization has long been remarked as a fault in our system, and as laying a foundation for intricate and delicate questions."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"They organized their power and sought to perpetuate it by the passage of the alien and sedition, and a naturalization law."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Citizenship at large in the sense of the Constitution can be conferred on a foreigner only by the naturalization laws of Congress."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being brought into conformity with nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The proceeding whereby a foreigner is granted citizenship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The dissimilarity in the rules of naturalization has long been remarked as a fault in our system, and as laying a foundation for intricate and delicate questions."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"They organized their power and sought to perpetuate it by the passage of the alien and sedition, and a naturalization law."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Citizenship at large in the sense of the Constitution can be conferred on a foreigner only by the naturalization laws of Congress."*

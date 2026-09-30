@@ -5,13 +5,6 @@ status: unread
 ---
 # permeative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spreading or spread throughout.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spreading or spread throughout.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, permeative designates spreading or spread throughout."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spreading or spread throughout.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spreading or spread throughout.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, permeative designates spreading or spread throughout."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # kinetoscope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device invented by edison that gave an impression of movement as an endless loop of film moved continuously over a light source with a rapid shutter; precursor of the modern motion picture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device invented by edison that gave an impression of movement as an endless loop of film moved continuously over a light source with a rapid shutter; precursor of the modern motion picture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinetoscope designates a device invented by edison that gave an impression of movement as an endless loop of film moved continuously over a light source with a rapid shutter; precursor of the modern motion picture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device invented by edison that gave an impression of movement as an endless loop of film moved continuously over a light source with a rapid shutter; precursor of the modern motion picture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device invented by edison that gave an impression of movement as an endless loop of film moved continuously over a light source with a rapid shutter; precursor of the modern motion picture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinetoscope designates a device invented by edison that gave an impression of movement as an endless loop of film moved continuously over a light source with a rapid shutter; precursor of the modern motion picture."*

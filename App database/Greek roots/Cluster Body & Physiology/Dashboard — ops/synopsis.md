@@ -5,15 +5,6 @@ status: unread
 ---
 # synopsis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condensed statement or outline (as of a narrative or treatise) : abstract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The abbreviated conjugation of a verb in one person only.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle’s great-aunt may be resolved into the following synopsis."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"They appear as disconnected scenes of a once grand drama that in olden times riveted the attention of mankind, and of which, strange to say, the clearest synopsis and the most coherent recollection are, so far, to be found in Polynesian traditions."*
-> - 📜 **James Joyce (*Ulysses*):** *"Over his untastable apology for a cup of coffee, listening to this synopsis of things in general, Stephen stared at nothing in particular."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condensed statement or outline (as of a narrative or treatise) : abstract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The abbreviated conjugation of a verb in one person only.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle’s great-aunt may be resolved into the following synopsis."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"They appear as disconnected scenes of a once grand drama that in olden times riveted the attention of mankind, and of which, strange to say, the clearest synopsis and the most coherent recollection are, so far, to be found in Polynesian traditions."*
+> - 📜 **James Joyce (*Ulysses*):** *"Over his untastable apology for a cup of coffee, listening to this synopsis of things in general, Stephen stared at nothing in particular."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # heritor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is entitled by law or by the terms of a will to inherit the estate of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is entitled by law or by the terms of a will to inherit the estate of another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Trotter resigned his office, and the heritors asked the assistant to take charge of the school until a new teacher should be appointed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is entitled by law or by the terms of a will to inherit the estate of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is entitled by law or by the terms of a will to inherit the estate of another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Trotter resigned his office, and the heritors asked the assistant to take charge of the school until a new teacher should be appointed."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # halophile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Archaebacteria requiring a salt-rich environment for growth and survival.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaebacteria requiring a salt-rich environment for growth and survival.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halophile designates archaebacteria requiring a salt-rich environment for growth and survival."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Archaebacteria requiring a salt-rich environment for growth and survival.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaebacteria requiring a salt-rich environment for growth and survival.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halophile designates archaebacteria requiring a salt-rich environment for growth and survival."*

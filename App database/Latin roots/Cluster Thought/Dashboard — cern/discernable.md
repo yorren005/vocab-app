@@ -5,13 +5,6 @@ status: unread
 ---
 # discernable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perceptible by the senses or intellect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perceptible by the senses or intellect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"I could give an individual description of each, for every atom in that room, large enough for discernable shape or colour, seems branded into my brain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perceptible by the senses or intellect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perceptible by the senses or intellect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"I could give an individual description of each, for every atom in that room, large enough for discernable shape or colour, seems branded into my brain."*

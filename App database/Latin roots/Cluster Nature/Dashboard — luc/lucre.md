@@ -5,15 +5,6 @@ status: unread
 ---
 # lucre
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal terms for money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pisanio? ’Tis he and Cloten; malice and lucre in them Have laid this woe here."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall I, for lucre of the rest unvanquish’d, Detract so much from that prerogative As to be call’d but viceroy of the whole?"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"So much for Norman blood unaided by Victorian lucre."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal terms for money.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pisanio? ’Tis he and Cloten; malice and lucre in them Have laid this woe here."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall I, for lucre of the rest unvanquish’d, Detract so much from that prerogative As to be call’d but viceroy of the whole?"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"So much for Norman blood unaided by Victorian lucre."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # immobility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remaining in place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not moving.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To one who knew the man and his story there was something more striking in this immobility than in a collapse."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And now, in the well-nigh congealed immobility of his frame could be discerned an incipient movement, as in the darkest night may be discerned light after a while."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What then, Die?” he replied, maintaining a marble immobility of feature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remaining in place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not moving.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To one who knew the man and his story there was something more striking in this immobility than in a collapse."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And now, in the well-nigh congealed immobility of his frame could be discerned an incipient movement, as in the darkest night may be discerned light after a while."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What then, Die?” he replied, maintaining a marble immobility of feature."*

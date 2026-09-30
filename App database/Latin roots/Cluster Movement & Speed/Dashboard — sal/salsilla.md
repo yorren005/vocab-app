@@ -5,13 +5,6 @@ status: unread
 ---
 # salsilla
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical vine having umbels of small purple flowers and edible roots sometimes boiled as a potato substitute; colombia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical vine having pink-and-yellow flowers spotted purple and edible roots sometimes boiled as a potato substitute; west indies to northern south america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salsilla designates tropical vine having umbels of small purple flowers and edible roots sometimes boiled as a potato substitute; colombia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical vine having umbels of small purple flowers and edible roots sometimes boiled as a potato substitute; colombia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical vine having pink-and-yellow flowers spotted purple and edible roots sometimes boiled as a potato substitute; west indies to northern south america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salsilla designates tropical vine having umbels of small purple flowers and edible roots sometimes boiled as a potato substitute; colombia."*

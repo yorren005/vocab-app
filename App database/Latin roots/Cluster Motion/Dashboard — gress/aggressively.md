@@ -5,15 +5,6 @@ status: unread
 ---
 # aggressively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an aggressive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an aggressive manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I will go to the professor--I was going anyhow--but now I shall go aggressively, and bustle him."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I hope for your own sake you will learn to keep your word." I walked on, nose in the air, aggressively complacent in appearance, but those words rankled!"*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"He straightened himself now a little aggressively."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an aggressive manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an aggressive manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I will go to the professor--I was going anyhow--but now I shall go aggressively, and bustle him."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I hope for your own sake you will learn to keep your word." I walked on, nose in the air, aggressively complacent in appearance, but those words rankled!"*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"He straightened himself now a little aggressively."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # consecration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solemn commitment of your life or your time to some cherished purpose (to a service or a goal).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (religion) sanctification of something by setting it apart (usually with religious rites) as dedicated to god.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"In the early years of his ministry he received no fewer than four offers of philosophical professorships, which his views of the ministry and of his consecration to it constrained him to set aside."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed had been dead nine years: it was in this chamber he breathed his last; here he lay in state; hence his coffin was borne by the undertaker’s men; and, since that day, a sense of dreary consecration had guarded it from frequent intrusion."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I felt the consecration of its loneliness: my eye feasted on the outline of swell and sweep—on the wild colouring communicated to ridge and dell by moss, by heath-bell, by flower-sprinkled turf, by brilliant bracken, and mellow granite crag."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solemn commitment of your life or your time to some cherished purpose (to a service or a goal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (religion) sanctification of something by setting it apart (usually with religious rites) as dedicated to god.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"In the early years of his ministry he received no fewer than four offers of philosophical professorships, which his views of the ministry and of his consecration to it constrained him to set aside."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed had been dead nine years: it was in this chamber he breathed his last; here he lay in state; hence his coffin was borne by the undertaker’s men; and, since that day, a sense of dreary consecration had guarded it from frequent intrusion."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I felt the consecration of its loneliness: my eye feasted on the outline of swell and sweep—on the wild colouring communicated to ridge and dell by moss, by heath-bell, by flower-sprinkled turf, by brilliant bracken, and mellow granite crag."*

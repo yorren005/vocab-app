@@ -5,13 +5,6 @@ status: unread
 ---
 # detumescence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diminution of swelling; the subsidence of anything swollen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diminution of swelling; the subsidence of anything swollen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detumescence designates diminution of swelling; the subsidence of anything swollen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Diminution of swelling; the subsidence of anything swollen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diminution of swelling; the subsidence of anything swollen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detumescence designates diminution of swelling; the subsidence of anything swollen."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hyperextension
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greater than normal extension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greater than normal extension.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperextension designates greater than normal extension."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Greater than normal extension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greater than normal extension.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperextension designates greater than normal extension."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # consanguineous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related by blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related by blood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lady’s a Cataian, we are politicians, Malvolio’s a Peg-a-Ramsey, and [_Sings._] _Three merry men be we._ Am not I consanguineous?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Related by blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related by blood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lady’s a Cataian, we are politicians, Malvolio’s a Peg-a-Ramsey, and [_Sings._] _Three merry men be we._ Am not I consanguineous?"*

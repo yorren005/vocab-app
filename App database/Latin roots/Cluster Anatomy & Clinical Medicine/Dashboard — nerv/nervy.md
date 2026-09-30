@@ -5,15 +5,6 @@ status: unread
 ---
 # nervy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being in a tense state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing or requiring courage and contempt of danger.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Val's one of your nervy men." "Not after he was ten years old," said Laura smiling."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"And now, each drawing near to each, with arms uplifted, and outspread palms with sinewy play, like nervy claws trying to clutch or grip, they seek a chance for a deadly clinch."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I look at those maroon curtains, and this hideous patterny carpet, and feel all nervy and on edge; then Jacky thinks I am tired, and brings me hot milk." She opened her speedwell blue eyes to their fullest width, and stared at me dolefully."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being in a tense state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing or requiring courage and contempt of danger.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Val's one of your nervy men." "Not after he was ten years old," said Laura smiling."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"And now, each drawing near to each, with arms uplifted, and outspread palms with sinewy play, like nervy claws trying to clutch or grip, they seek a chance for a deadly clinch."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I look at those maroon curtains, and this hideous patterny carpet, and feel all nervy and on edge; then Jacky thinks I am tired, and brings me hot milk." She opened her speedwell blue eyes to their fullest width, and stared at me dolefully."*

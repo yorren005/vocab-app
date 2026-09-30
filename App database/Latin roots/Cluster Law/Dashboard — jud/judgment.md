@@ -5,15 +5,6 @@ status: unread
 ---
 # judgment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An opinion formed by judging something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of judging or assessing a person or situation or event.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say we must not So stain our judgment, or corrupt our hope, To prostitute our past-cure malady To empirics, or to dissever so Our great self and our credit, to esteem A senseless help, when help past sense we deem."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So holy writ in babes hath judgment shown, When judges have been babes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But to confound such time That drums him from his sport, and speaks as loud As his own state and ours, ’tis to be chid As we rate boys who, being mature in knowledge, Pawn their experience to their present pleasure And so rebel to judgment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An opinion formed by judging something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of judging or assessing a person or situation or event.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say we must not So stain our judgment, or corrupt our hope, To prostitute our past-cure malady To empirics, or to dissever so Our great self and our credit, to esteem A senseless help, when help past sense we deem."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So holy writ in babes hath judgment shown, When judges have been babes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But to confound such time That drums him from his sport, and speaks as loud As his own state and ours, ’tis to be chid As we rate boys who, being mature in knowledge, Pawn their experience to their present pleasure And so rebel to judgment."*

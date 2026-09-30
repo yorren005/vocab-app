@@ -5,13 +5,6 @@ status: unread
 ---
 # metaphase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The stage of mitosis and meiosis in which the chromosomes become arranged in the equatorial plane of the spindle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A section in the equatorial plane of the metaphase spindle having the chromosomes oriented upon it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metaphase designates the stage of mitosis and meiosis in which the chromosomes become arranged in the equatorial plane of the spindle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The stage of mitosis and meiosis in which the chromosomes become arranged in the equatorial plane of the spindle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A section in the equatorial plane of the metaphase spindle having the chromosomes oriented upon it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metaphase designates the stage of mitosis and meiosis in which the chromosomes become arranged in the equatorial plane of the spindle."*

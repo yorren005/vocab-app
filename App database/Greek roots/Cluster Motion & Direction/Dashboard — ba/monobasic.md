@@ -5,13 +5,6 @@ status: unread
 ---
 # monobasic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having only one replaceable hydrogen atom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having only one replaceable hydrogen atom.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monobasic designates having only one replaceable hydrogen atom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having only one replaceable hydrogen atom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having only one replaceable hydrogen atom.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monobasic designates having only one replaceable hydrogen atom."*

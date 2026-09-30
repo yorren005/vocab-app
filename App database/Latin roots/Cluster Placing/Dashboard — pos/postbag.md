@@ -5,13 +5,6 @@ status: unread
 ---
 # postbag
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Letter carrier's shoulder bag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Letter carrier's shoulder bag.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"The postbag, that evening—it came late—contained a letter for me, which, however, in the hand of my employer, I found to be composed but of a few words enclosing another, addressed to himself, with a seal still unbroken."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Letter carrier's shoulder bag.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Letter carrier's shoulder bag.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Turn of the Screw*):** *"The postbag, that evening—it came late—contained a letter for me, which, however, in the hand of my employer, I found to be composed but of a few words enclosing another, addressed to himself, with a seal still unbroken."*

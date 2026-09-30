@@ -5,14 +5,6 @@ status: unread
 ---
 # algeria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in northwestern africa on the mediterranean sea with a population that is predominantly sunni muslim; colonized by france in the 19th century but gained autonomy in the early 1960s.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in northwestern africa on the mediterranean sea with a population that is predominantly sunni muslim; colonized by france in the 19th century but gained autonomy in the early 1960s.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Monsieur Fabien desired to see life--Monsieur Fabien could not have his own will--he was, doubtless, an emigrant in America--in the Mauritius--he was with the army in Algeria--he was amassing a fortune among the English--he was a missionary in China."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Disagreement of the United States with Algeria. =1796.=—Washington’s Farewell Address."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in northwestern africa on the mediterranean sea with a population that is predominantly sunni muslim; colonized by france in the 19th century but gained autonomy in the early 1960s.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in northwestern africa on the mediterranean sea with a population that is predominantly sunni muslim; colonized by france in the 19th century but gained autonomy in the early 1960s.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Monsieur Fabien desired to see life--Monsieur Fabien could not have his own will--he was, doubtless, an emigrant in America--in the Mauritius--he was with the army in Algeria--he was amassing a fortune among the English--he was a missionary in China."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Disagreement of the United States with Algeria. =1796.=—Washington’s Farewell Address."*

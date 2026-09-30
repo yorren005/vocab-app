@@ -5,13 +5,6 @@ status: unread
 ---
 # dramatics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Participation in theatrical productions as an extracurricular activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of writing and producing plays.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dramatics designates participation in theatrical productions as an extracurricular activity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Participation in theatrical productions as an extracurricular activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of writing and producing plays.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dramatics designates participation in theatrical productions as an extracurricular activity."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # contraction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physiology) a shortening or tensing of a part or organ (especially of a muscle or muscle fiber).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process or result of becoming smaller or pressed together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O such a deed As from the body of contraction plucks The very soul, and sweet religion makes A rhapsody of words."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Do not dismiss me so soon, mademoiselle!” she said with an involuntary contraction of her fine black eyebrows."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He uttered a long guttural sigh—there was a contraction—an extension—then his muscles relaxed, and he lay still."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (physiology) a shortening or tensing of a part or organ (especially of a muscle or muscle fiber).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process or result of becoming smaller or pressed together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O such a deed As from the body of contraction plucks The very soul, and sweet religion makes A rhapsody of words."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Do not dismiss me so soon, mademoiselle!” she said with an involuntary contraction of her fine black eyebrows."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He uttered a long guttural sigh—there was a contraction—an extension—then his muscles relaxed, and he lay still."*

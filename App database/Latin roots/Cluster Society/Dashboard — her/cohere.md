@@ -5,15 +5,6 @@ status: unread
 ---
 # cohere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come or be in close contact with; stick or hold together and resist separation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to form a united, orderly, and aesthetically consistent whole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Stroke is accumulated on stroke, each a triumph of imaginative beauty; but as they do not cohere to any discoverable end, the total impression is apt to be one of effort running to waste."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"The great pressure to which the powder is subjected brings these fine particles very close together, when they cohere, and form a substantial block."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"The black-lead powder is submitted to great pressure, and then all these fine particles cohere into one solid lump."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Come or be in close contact with; stick or hold together and resist separation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to form a united, orderly, and aesthetically consistent whole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Stroke is accumulated on stroke, each a triumph of imaginative beauty; but as they do not cohere to any discoverable end, the total impression is apt to be one of effort running to waste."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"The great pressure to which the powder is subjected brings these fine particles very close together, when they cohere, and form a substantial block."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"The black-lead powder is submitted to great pressure, and then all these fine particles cohere into one solid lump."*

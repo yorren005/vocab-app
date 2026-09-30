@@ -5,15 +5,6 @@ status: unread
 ---
 # commercial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A commercially sponsored ad on radio or television.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Connected with or engaged in or sponsored by or used in commerce or commercial enterprises.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood, who was apparently determined by personal rather than commercial reasons, suggested that Oak should be furnished with a horse for his sole use, when the plan would present no difficulty, the two farms lying side by side."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yes; it is a likely scheme enough in a commercial sense, no doubt,” he replied."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It seemed hopeless, and if it should happen that, the creditor came and went away unsatisfied, his commercial character would be injured, his credit shaken, and his reputation severely suffer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commercially sponsored ad on radio or television.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Connected with or engaged in or sponsored by or used in commerce or commercial enterprises.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood, who was apparently determined by personal rather than commercial reasons, suggested that Oak should be furnished with a horse for his sole use, when the plan would present no difficulty, the two farms lying side by side."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yes; it is a likely scheme enough in a commercial sense, no doubt,” he replied."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"It seemed hopeless, and if it should happen that, the creditor came and went away unsatisfied, his commercial character would be injured, his credit shaken, and his reputation severely suffer."*

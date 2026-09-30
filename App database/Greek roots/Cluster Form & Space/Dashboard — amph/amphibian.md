@@ -5,13 +5,6 @@ status: unread
 ---
 # amphibian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amphibious organism; especially : any of a class (Amphibia) of cold-blooded vertebrates (such as frogs, toads, or salamanders) intermediate in many characters between fish and reptiles and having gilled aquatic larvae and air-breathing adults.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amphibious vehicle; especially : an airplane designed to take off from and land on either land or water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"With this monologue should be read the mystical description, in ‘The Passing of Arthur’ (Tennyson’s Idylls of the King), of “the last, dim, weird battle of the west”, beginning,-- “A deathwhite mist slept over sand and sea.” Amphibian."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An amphibious organism; especially : any of a class (Amphibia) of cold-blooded vertebrates (such as frogs, toads, or salamanders) intermediate in many characters between fish and reptiles and having gilled aquatic larvae and air-breathing adults.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amphibious vehicle; especially : an airplane designed to take off from and land on either land or water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"With this monologue should be read the mystical description, in ‘The Passing of Arthur’ (Tennyson’s Idylls of the King), of “the last, dim, weird battle of the west”, beginning,-- “A deathwhite mist slept over sand and sea.” Amphibian."*

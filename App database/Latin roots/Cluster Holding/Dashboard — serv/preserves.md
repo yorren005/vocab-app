@@ -5,15 +5,6 @@ status: unread
 ---
 # preserves
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fruit preserved by cooking with sugar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A domain that seems to be specially reserved for someone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"By and by he takes his hands away, and so preserves his dignity and outward calmness, though there is no more colour in his face than in his white hair, that Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"In the centre of some of the best preserves in the kingdom, surrounded by three great proprietors, each more careful and jealous than the other; and to two of the three at least, Charles Hayter might get a special recommendation."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The assumption, however, that the use of the food in this country preserves the fertility of our own fields is in the main mistaken."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fruit preserved by cooking with sugar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A domain that seems to be specially reserved for someone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"By and by he takes his hands away, and so preserves his dignity and outward calmness, though there is no more colour in his face than in his white hair, that Mr."*
+> - 📜 **Jane Austen (*Persuasion*):** *"In the centre of some of the best preserves in the kingdom, surrounded by three great proprietors, each more careful and jealous than the other; and to two of the three at least, Charles Hayter might get a special recommendation."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The assumption, however, that the use of the food in this country preserves the fertility of our own fields is in the main mistaken."*

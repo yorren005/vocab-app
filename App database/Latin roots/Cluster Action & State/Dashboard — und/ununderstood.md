@@ -5,13 +5,6 @@ status: unread
 ---
 # ununderstood
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not understood; - psychiatry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not understood; - psychiatry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ununderstood designates not understood; - psychiatry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not understood; - psychiatry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not understood; - psychiatry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ununderstood designates not understood; - psychiatry."*

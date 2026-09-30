@@ -5,15 +5,6 @@ status: unread
 ---
 # discredited
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be distrusted or disbelieved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Damage the reputation of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, sir, you had then left unseen a wonderful piece of work, which not to have been blest withal would have discredited your travel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet had he framed to himself, by the instruction of his frailty, many deceiving promises of life, which I, by my good leisure, have discredited to him, and now he is resolved to die."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Having long discredited the old systems of mysticism, he now began to discredit the old appraisements of morality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be distrusted or disbelieved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Damage the reputation of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, sir, you had then left unseen a wonderful piece of work, which not to have been blest withal would have discredited your travel."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet had he framed to himself, by the instruction of his frailty, many deceiving promises of life, which I, by my good leisure, have discredited to him, and now he is resolved to die."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Having long discredited the old systems of mysticism, he now began to discredit the old appraisements of morality."*

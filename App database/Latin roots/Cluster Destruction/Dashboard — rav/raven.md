@@ -5,15 +5,6 @@ status: unread
 ---
 # raven
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large black bird with a straight bill and long wedge-shaped tail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtain or seize by violence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Swift, swift, you dragons of the night, that dawning May bare the raven’s eye!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, the croaking raven doth bellow for revenge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His feathers are but borrowed, For he’s disposed as the hateful raven."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large black bird with a straight bill and long wedge-shaped tail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtain or seize by violence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Swift, swift, you dragons of the night, that dawning May bare the raven’s eye!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, the croaking raven doth bellow for revenge."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His feathers are but borrowed, For he’s disposed as the hateful raven."*

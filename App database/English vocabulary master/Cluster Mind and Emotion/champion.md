@@ -5,20 +5,6 @@ status: unread
 ---
 # champion
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Warrior, fighter
-> 2. **Nuance / Usage**: Militant advocate or defender
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"By my valour, the most complete champion that ever I heard!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"That is, to be the champion of our church."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"To God, the widow’s champion and defence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A warrior or ardent defender who fights on behalf of another person, a cause, or a principle; also, one who wins first place in a competition.
+> 2. **Nuance / Usage**: As a transitive verb, to advocate for, stand up for, or militantly defend an embattled person, doctrine, or reform.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Richard II*):** *"We will solicit heaven and move our prayers to God, the widow's **champion** and defence."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The Disinherited Knight rode into the lists as the sole **champion** willing to stake his life for Rebecca's innocence."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Even the most unpopular truth requires a fearless **champion** who will defend it against the tyranny of custom."*

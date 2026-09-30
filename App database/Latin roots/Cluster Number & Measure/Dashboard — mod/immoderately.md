@@ -5,15 +5,6 @@ status: unread
 ---
 # immoderately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without moderation; in an immoderate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a degree that exceeds the bounds or reason or moderation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Immoderately she weeps for Tybalt’s death, And therefore have I little talk’d of love; For Venus smiles not in a house of tears."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"But you men are all so immoderately lazy! i have been scolding him to such a degree, my dear Catherine, you would be quite amazed."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Do you know, I get so immoderately sick of Bath; your brother and I were agreeing this morning that, though it is vastly well to be here for a few weeks, we would not live here for millions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without moderation; in an immoderate manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a degree that exceeds the bounds or reason or moderation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Immoderately she weeps for Tybalt’s death, And therefore have I little talk’d of love; For Venus smiles not in a house of tears."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"But you men are all so immoderately lazy! i have been scolding him to such a degree, my dear Catherine, you would be quite amazed."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Do you know, I get so immoderately sick of Bath; your brother and I were agreeing this morning that, though it is vastly well to be here for a few weeks, we would not live here for millions."*

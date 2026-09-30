@@ -5,15 +5,6 @@ status: unread
 ---
 # nubian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of nubia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of nubia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"BELLO: _(Savagely.)_ The nosering, the pliers, the bastinado, the hanging hook, the knout I’ll make you kiss while the flutes play like the Nubian slave of old."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He claps his hands and Mesrour the Nubian appears, with bare arms, bangles, yataghans, and every Eastern ornament--gaunt, tall, and hideous."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Their woolly hair, with a reddish tinge, showed off on their black shining bodies like those of the Nubians."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of nubia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of nubia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"BELLO: _(Savagely.)_ The nosering, the pliers, the bastinado, the hanging hook, the knout I’ll make you kiss while the flutes play like the Nubian slave of old."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He claps his hands and Mesrour the Nubian appears, with bare arms, bangles, yataghans, and every Eastern ornament--gaunt, tall, and hideous."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Their woolly hair, with a reddish tinge, showed off on their black shining bodies like those of the Nubians."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # timorousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fear of the unknown or unfamiliar or fear of making decisions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fearfulness in venturing into new and unknown places or activities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"But we must betray Hepzibah’s secret, and confess that the native timorousness of her character even now developed itself in a quick tremor, which, to her own perception, set each of her joints at variance with its fellows."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fear of the unknown or unfamiliar or fear of making decisions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fearfulness in venturing into new and unknown places or activities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"But we must betray Hepzibah’s secret, and confess that the native timorousness of her character even now developed itself in a quick tremor, which, to her own perception, set each of her joints at variance with its fellows."*

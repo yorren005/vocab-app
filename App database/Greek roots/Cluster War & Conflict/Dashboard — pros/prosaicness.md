@@ -5,13 +5,6 @@ status: unread
 ---
 # prosaicness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commonplaceness as a consequence of being humdrum and not exciting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commonplaceness as a consequence of being humdrum and not exciting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosaicness designates commonplaceness as a consequence of being humdrum and not exciting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Commonplaceness as a consequence of being humdrum and not exciting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commonplaceness as a consequence of being humdrum and not exciting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosaicness designates commonplaceness as a consequence of being humdrum and not exciting."*

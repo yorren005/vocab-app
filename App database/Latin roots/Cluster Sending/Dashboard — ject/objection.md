@@ -5,15 +5,6 @@ status: unread
 ---
 # objection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of expressing earnest opposition or protest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The speech act of objecting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa spoke of her intention of taking the child to her house and her sincere hope that there would be no objection and the ladies could feel their visitor's great eagerness manifested in her words."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I have your chair already at the door." After the great work Apollonie had done, his only objection was that she desired something which meant pleasure for him and labour for her."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"We can soon come back here." As he raised no objection, they set out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of expressing earnest opposition or protest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The speech act of objecting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa spoke of her intention of taking the child to her house and her sincere hope that there would be no objection and the ladies could feel their visitor's great eagerness manifested in her words."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I have your chair already at the door." After the great work Apollonie had done, his only objection was that she desired something which meant pleasure for him and labour for her."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"We can soon come back here." As he raised no objection, they set out."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # mammal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any warm-blooded vertebrate having the skin more or less covered with hair; young are born alive except for the small subclass of monotremes and nourished with milk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any warm-blooded vertebrate having the skin more or less covered with hair; young are born alive except for the small subclass of monotremes and nourished with milk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I admired this curious mammal, with its rounded head ornamented with short ears, its round eyes, and white whiskers like those of a cat, with webbed feet and nails, and tufted tail."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"The elephant and camel, The ostrich and emu, Weird things, both bird and mammal, And old man Kangaroo."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But their rule was now divided with large troops of sea-mammals, looking at us with their soft eyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any warm-blooded vertebrate having the skin more or less covered with hair; young are born alive except for the small subclass of monotremes and nourished with milk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any warm-blooded vertebrate having the skin more or less covered with hair; young are born alive except for the small subclass of monotremes and nourished with milk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I admired this curious mammal, with its rounded head ornamented with short ears, its round eyes, and white whiskers like those of a cat, with webbed feet and nails, and tufted tail."*
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"The elephant and camel, The ostrich and emu, Weird things, both bird and mammal, And old man Kangaroo."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But their rule was now divided with large troops of sea-mammals, looking at us with their soft eyes."*

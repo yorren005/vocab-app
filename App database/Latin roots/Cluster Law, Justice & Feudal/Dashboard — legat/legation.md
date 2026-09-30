@@ -5,15 +5,6 @@ status: unread
 ---
 # legation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The post or office of legate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A permanent diplomatic mission headed by a minister.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Shortly after this his older brother, Gansevoort Melville, sailed for England as secretary of legation to Ambassador McLane, and the manuscript was intrusted to Gansevoort for submission to John Murray."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"I did not fear trouble of any sort in spite of a last letter of warning received at Hong Kong from our Peking Legation, but there was just enough of a touch of adventure to the trip to make the roughnesses of the way endurable."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"He had since acted as Secretary to the Chinese Legation in Washington, and was quite at home in Western ways."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The post or office of legate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A permanent diplomatic mission headed by a minister.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Shortly after this his older brother, Gansevoort Melville, sailed for England as secretary of legation to Ambassador McLane, and the manuscript was intrusted to Gansevoort for submission to John Murray."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"I did not fear trouble of any sort in spite of a last letter of warning received at Hong Kong from our Peking Legation, but there was just enough of a touch of adventure to the trip to make the roughnesses of the way endurable."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"He had since acted as Secretary to the Chinese Legation in Washington, and was quite at home in Western ways."*

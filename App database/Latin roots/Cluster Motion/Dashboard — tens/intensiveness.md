@@ -5,13 +5,6 @@ status: unread
 ---
 # intensiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: High level or degree; the property of being intense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High level or degree; the property of being intense.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intensiveness designates high level or degree; the property of being intense."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: High level or degree; the property of being intense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High level or degree; the property of being intense.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intensiveness designates high level or degree; the property of being intense."*

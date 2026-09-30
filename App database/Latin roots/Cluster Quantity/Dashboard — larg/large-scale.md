@@ -5,13 +5,6 @@ status: unread
 ---
 # large-scale
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unusually large in scope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constructed or drawn to a big scale.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, large-scale designates unusually large in scope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unusually large in scope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constructed or drawn to a big scale.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, large-scale designates unusually large in scope."*

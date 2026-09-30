@@ -5,15 +5,6 @@ status: unread
 ---
 # distortion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A change for the worse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shape resulting from distortion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was, so to speak, that symmetry in their distortion which is less the characteristic of British than of Continental grotesques of the period."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And what a distortion in your judgment, what a perversity in your ideas, is proved by your conduct!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Dear Celia,” said Dorothea, with tender gravity, “if you don’t ever see me, it will not be my fault.” “Yes, it will,” said Celia, with the same touching distortion of her small features."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A change for the worse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shape resulting from distortion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was, so to speak, that symmetry in their distortion which is less the characteristic of British than of Continental grotesques of the period."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And what a distortion in your judgment, what a perversity in your ideas, is proved by your conduct!"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dear Celia,” said Dorothea, with tender gravity, “if you don’t ever see me, it will not be my fault.” “Yes, it will,” said Celia, with the same touching distortion of her small features."*

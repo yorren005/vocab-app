@@ -5,15 +5,6 @@ status: unread
 ---
 # octavo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The size of a book whose pages are made by folding a sheet of paper three times to form eight leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The size of a book whose pages are made by folding a sheet of paper three times to form eight leaves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Liddy, you may as well bring me my desk and I’ll direct it at once.” Bathsheba took from her desk a gorgeously illuminated and embossed design in post-octavo, which had been bought on the previous market-day at the chief stationer’s in Casterbridge."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The FOLIO WHALE; II. the OCTAVO WHALE; III. the DUODECIMO WHALE."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"As the type of the FOLIO I present the _Sperm Whale_; of the OCTAVO, the _Grampus;_ of the DUODECIMO, the _Porpoise_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The size of a book whose pages are made by folding a sheet of paper three times to form eight leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The size of a book whose pages are made by folding a sheet of paper three times to form eight leaves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Liddy, you may as well bring me my desk and I’ll direct it at once.” Bathsheba took from her desk a gorgeously illuminated and embossed design in post-octavo, which had been bought on the previous market-day at the chief stationer’s in Casterbridge."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The FOLIO WHALE; II. the OCTAVO WHALE; III. the DUODECIMO WHALE."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"As the type of the FOLIO I present the _Sperm Whale_; of the OCTAVO, the _Grampus;_ of the DUODECIMO, the _Porpoise_."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # blossom
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: The state of bearing flowers
-> 2. **Nuance / Usage**: Peak period or stage of development
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Yet fruits that blossom first will first be ripe."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Sweet blowse, you are a beauteous blossom sure."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"wither, but they blossom again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: The state of bearing flowers
+> 2. **Nuance / Usage**: Peak period or stage of development
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Yet fruits that blossom first will first be ripe."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Sweet blowse, you are a beauteous blossom sure."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"wither, but they blossom again."*

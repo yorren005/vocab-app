@@ -5,15 +5,6 @@ status: unread
 ---
 # monogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic symbol consisting of 2 or more letters combined (usually your initials); printed on stationery or embroidered on clothing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graphic symbol consisting of 2 or more letters combined (usually your initials); printed on stationery or embroidered on clothing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"It was of gold, and bore his monogram in diamonds."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"You're like Isabel, who can't forgive him for sporting a diamond monogram." "No, but I'm interested."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence talked too much and too loosely, and was over-given to damning what he disliked--a trick that went with his rings and his diamond monogram."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic symbol consisting of 2 or more letters combined (usually your initials); printed on stationery or embroidered on clothing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graphic symbol consisting of 2 or more letters combined (usually your initials); printed on stationery or embroidered on clothing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"It was of gold, and bore his monogram in diamonds."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"You're like Isabel, who can't forgive him for sporting a diamond monogram." "No, but I'm interested."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence talked too much and too loosely, and was over-given to damning what he disliked--a trick that went with his rings and his diamond monogram."*

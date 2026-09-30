@@ -5,15 +5,6 @@ status: unread
 ---
 # appendage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An external body part that projects from the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural prolongation or projection from a part of an organism either animal or plant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The latter faithful appendage is also invariably a part of the old girl’s presence out of doors."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Never did a caudal appendage beat the sea with such violence."*
-> - 📜 **Effie Afton (*Eventide*):** *"He was, in fact, very much the same sort of an appendage in his elegant mansion that Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An external body part that projects from the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural prolongation or projection from a part of an organism either animal or plant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The latter faithful appendage is also invariably a part of the old girl’s presence out of doors."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Never did a caudal appendage beat the sea with such violence."*
+> - 📜 **Effie Afton (*Eventide*):** *"He was, in fact, very much the same sort of an appendage in his elegant mansion that Mrs."*

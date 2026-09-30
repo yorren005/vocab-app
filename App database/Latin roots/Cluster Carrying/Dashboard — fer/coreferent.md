@@ -5,13 +5,6 @@ status: unread
 ---
 # coreferent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related by sharing a symbolic link to a concrete object or an abstraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related by sharing a symbolic link to a concrete object or an abstraction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coreferent designates related by sharing a symbolic link to a concrete object or an abstraction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Related by sharing a symbolic link to a concrete object or an abstraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related by sharing a symbolic link to a concrete object or an abstraction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coreferent designates related by sharing a symbolic link to a concrete object or an abstraction."*

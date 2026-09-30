@@ -5,13 +5,6 @@ status: unread
 ---
 # overstated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To enlarge beyond bounds or the truth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represented as greater than is true or reasonable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The question will rise, Have Christians overstated their experience, or even misunderstood it?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To enlarge beyond bounds or the truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represented as greater than is true or reasonable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The question will rise, Have Christians overstated their experience, or even misunderstood it?"*

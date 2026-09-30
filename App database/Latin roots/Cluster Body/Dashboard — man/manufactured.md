@@ -5,15 +5,6 @@ status: unread
 ---
 # manufactured
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put together out of artificial or natural components or parts; ; ; he manufactured a popular cereal".
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make up something artificial or untrue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The abstraction was a cheat and a lie manufactured in the priestly mind."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Not all the mothers of the whole evolution of men manufactured fear or fearlessness in men."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To put it concretely: America, having great natural resources for agriculture, might continue to trade food for manufactured goods even tho England reaped most of the benefits of the trade."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put together out of artificial or natural components or parts; ; ; he manufactured a popular cereal".
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make up something artificial or untrue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The abstraction was a cheat and a lie manufactured in the priestly mind."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Not all the mothers of the whole evolution of men manufactured fear or fearlessness in men."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To put it concretely: America, having great natural resources for agriculture, might continue to trade food for manufactured goods even tho England reaped most of the benefits of the trade."*

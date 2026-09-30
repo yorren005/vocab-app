@@ -5,15 +5,6 @@ status: unread
 ---
 # marines
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Members of a body of troops trained to serve on land or at sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the united states marine corps.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"But Miss Frances married, in the common phrase, to disoblige her family, and by fixing on a lieutenant of marines, without education, fortune, or connexions, did it very thoroughly."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For in their succorless empty-handedness, they, in the heathenish sharked waters, and by the beaches of unrecorded, javelin islands, battled with virgin wonders and terrors that Cooke with all his marines and muskets would not willingly have dared."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Julia went there at Christmas two years ago, and met there a half-pay major of marines, to whom she became engaged."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Members of a body of troops trained to serve on land or at sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the united states marine corps.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"But Miss Frances married, in the common phrase, to disoblige her family, and by fixing on a lieutenant of marines, without education, fortune, or connexions, did it very thoroughly."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For in their succorless empty-handedness, they, in the heathenish sharked waters, and by the beaches of unrecorded, javelin islands, battled with virgin wonders and terrors that Cooke with all his marines and muskets would not willingly have dared."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Julia went there at Christmas two years ago, and met there a half-pay major of marines, to whom she became engaged."*

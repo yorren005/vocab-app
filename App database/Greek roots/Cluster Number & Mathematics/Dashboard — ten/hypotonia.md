@@ -5,13 +5,6 @@ status: unread
 ---
 # hypotonia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of having hypotonic muscle tone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of having hypotonic muscle tone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypotonia designates the state of having hypotonic muscle tone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of having hypotonic muscle tone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of having hypotonic muscle tone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypotonia designates the state of having hypotonic muscle tone."*

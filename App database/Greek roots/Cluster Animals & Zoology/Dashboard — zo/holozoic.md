@@ -5,13 +5,6 @@ status: unread
 ---
 # holozoic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtaining nourishment as animals do by ingesting complex organic matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtaining nourishment as animals do by ingesting complex organic matter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holozoic designates obtaining nourishment as animals do by ingesting complex organic matter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtaining nourishment as animals do by ingesting complex organic matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtaining nourishment as animals do by ingesting complex organic matter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holozoic designates obtaining nourishment as animals do by ingesting complex organic matter."*

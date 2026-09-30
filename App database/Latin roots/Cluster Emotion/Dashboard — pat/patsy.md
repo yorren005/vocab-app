@@ -5,15 +5,6 @@ status: unread
 ---
 # patsy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is gullible and easy to take advantage of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is gullible and easy to take advantage of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The _Sea Venture_ comes home from Bermudas and the play Renan admired is written with Patsy Caliban, our American cousin."*
-> - 📜 **James Joyce (*Ulysses*):** *"Her mother’s birthday that was and Charley was home on his holidays and Tom and Mr Dignam and Mrs and Patsy and Freddy Dignam and they were to have had a group taken."*
-> - 📜 **James Joyce (*Ulysses*):** *"Martin Cunningham (in bed), Jack Power (in bed), Simon Dedalus (in bed), Ned Lambert (in bed), Tom Kernan (in bed), Joe Hynes (in bed), John Henry Menton (in bed), Bernard Corrigan (in bed), Patsy Dignam (in bed), Paddy Dignam (in the grave)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is gullible and easy to take advantage of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is gullible and easy to take advantage of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"The _Sea Venture_ comes home from Bermudas and the play Renan admired is written with Patsy Caliban, our American cousin."*
+> - 📜 **James Joyce (*Ulysses*):** *"Her mother’s birthday that was and Charley was home on his holidays and Tom and Mr Dignam and Mrs and Patsy and Freddy Dignam and they were to have had a group taken."*
+> - 📜 **James Joyce (*Ulysses*):** *"Martin Cunningham (in bed), Jack Power (in bed), Simon Dedalus (in bed), Ned Lambert (in bed), Tom Kernan (in bed), Joe Hynes (in bed), John Henry Menton (in bed), Bernard Corrigan (in bed), Patsy Dignam (in bed), Paddy Dignam (in the grave)."*

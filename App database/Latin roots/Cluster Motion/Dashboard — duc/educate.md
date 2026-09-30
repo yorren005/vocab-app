@@ -5,15 +5,6 @@ status: unread
 ---
 # educate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an education to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Create by training and teaching.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you not educate youth at the charge-house on the top of the mountain?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have lived on workman’s wages, years and years, and beyond a certain point have had to educate myself."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Though destitute of wealth, she much desired to educate her children, and five of her six boys were placed in school, while she struggled, and prayed, and toiled,--not only in the house, but out of doors,--to provide for their necessities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an education to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Create by training and teaching.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you not educate youth at the charge-house on the top of the mountain?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I have lived on workman’s wages, years and years, and beyond a certain point have had to educate myself."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Though destitute of wealth, she much desired to educate her children, and five of her six boys were placed in school, while she struggled, and prayed, and toiled,--not only in the house, but out of doors,--to provide for their necessities."*

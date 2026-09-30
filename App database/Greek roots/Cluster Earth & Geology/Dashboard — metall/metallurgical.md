@@ -5,15 +5,6 @@ status: unread
 ---
 # metallurgical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to metallurgy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to metallurgy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"No easy matter, copper being the most difficult, in a metallurgical point of view, of all the metals to deal with & the Company in whose employ he is having hitherto been unsuccessful in this branch."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is for metallurgical reasons."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It occurs in the native condition in various parts of the world, and the natural product thus required no metallurgical treatment prior to use."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to metallurgy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to metallurgy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"No easy matter, copper being the most difficult, in a metallurgical point of view, of all the metals to deal with & the Company in whose employ he is having hitherto been unsuccessful in this branch."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is for metallurgical reasons."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It occurs in the native condition in various parts of the world, and the natural product thus required no metallurgical treatment prior to use."*

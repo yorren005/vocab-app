@@ -5,15 +5,6 @@ status: unread
 ---
 # signal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any nonverbal action or gesture that encodes a message.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any incitement to action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He forbids it, Being free from vainness and self-glorious pride; Giving full trophy, signal, and ostent Quite from himself to God."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Meantime, in signal of my love to thee, Against proud Somerset and William Pole, Will I upon thy party wear this rose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord Cardinal, if thou think’st on heaven’s bliss, Hold up thy hand, make signal of thy hope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any nonverbal action or gesture that encodes a message.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any incitement to action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He forbids it, Being free from vainness and self-glorious pride; Giving full trophy, signal, and ostent Quite from himself to God."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Meantime, in signal of my love to thee, Against proud Somerset and William Pole, Will I upon thy party wear this rose."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord Cardinal, if thou think’st on heaven’s bliss, Hold up thy hand, make signal of thy hope."*

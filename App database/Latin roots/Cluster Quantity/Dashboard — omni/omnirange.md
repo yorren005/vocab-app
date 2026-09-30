@@ -5,13 +5,6 @@ status: unread
 ---
 # omnirange
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A navigational system consisting of a network of radio beacons that provide aircraft with information about exact position and bearing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A navigational system consisting of a network of radio beacons that provide aircraft with information about exact position and bearing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, omnirange designates a navigational system consisting of a network of radio beacons that provide aircraft with information about exact position and bearing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A navigational system consisting of a network of radio beacons that provide aircraft with information about exact position and bearing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A navigational system consisting of a network of radio beacons that provide aircraft with information about exact position and bearing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, omnirange designates a navigational system consisting of a network of radio beacons that provide aircraft with information about exact position and bearing."*

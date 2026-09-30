@@ -5,15 +5,6 @@ status: unread
 ---
 # activated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put in motion or move to act.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make active or more active.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Grasping Brad's elbow activated the secure to-suit circuit."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The signal activated the craft and it was in ready status when they reached it."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"That would change as soon as Zolan inserted his coordinates and activated the thrusters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put in motion or move to act.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make active or more active.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Grasping Brad's elbow activated the secure to-suit circuit."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The signal activated the craft and it was in ready status when they reached it."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"That would change as soon as Zolan inserted his coordinates and activated the thrusters."*

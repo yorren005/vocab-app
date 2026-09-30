@@ -5,15 +5,6 @@ status: unread
 ---
 # cosmopolitan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sophisticated person who has travelled in many countries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growing or occurring in many parts of the world.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I believe I am truly cosmopolitan."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole and the children, and in what point of view they presented themselves to his cosmopolitan mind."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Francis, the Great Cosmopolitan Equestrian and Roughrider, would enact the part of Turpin, and she was not yet too old and careworn to be without a little curiosity to see him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sophisticated person who has travelled in many countries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growing or occurring in many parts of the world.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I believe I am truly cosmopolitan."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole and the children, and in what point of view they presented themselves to his cosmopolitan mind."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Francis, the Great Cosmopolitan Equestrian and Roughrider, would enact the part of Turpin, and she was not yet too old and careworn to be without a little curiosity to see him."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # dilate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become wider.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for the sake of them thou sorrowest for, Do me the favour to dilate at full What have befall’n of them and thee till now."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"We shall not here dilate on those minor qualities of mind and heart that made Mr."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is equally unnecessary to dilate on the appointment of senators by the State legislatures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become wider.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for the sake of them thou sorrowest for, Do me the favour to dilate at full What have befall’n of them and thee till now."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"We shall not here dilate on those minor qualities of mind and heart that made Mr."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is equally unnecessary to dilate on the appointment of senators by the State legislatures."*

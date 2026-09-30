@@ -5,15 +5,6 @@ status: unread
 ---
 # discoloration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soiled or discolored appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of changing the natural color of something by making it duller or dingier or unnatural or faded.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"From the wonderful discoloration and turbidity of the water, Columbus sagaciously concluded that a very large river was near, and consequently--consequent-ly--a great continent!" But to this continent Elsie never attained."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"This Phoenician festival appears to have been a vernal one, for its date was determined by the discoloration of the river Adonis, and this has been observed by modern travellers to occur in spring."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Fig. 1 of Plate 44 has a thin ivory white glaze running in gummy drops and clouded with pinkish buff staining outside and with a reddish discoloration within."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soiled or discolored appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of changing the natural color of something by making it duller or dingier or unnatural or faded.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"From the wonderful discoloration and turbidity of the water, Columbus sagaciously concluded that a very large river was near, and consequently--consequent-ly--a great continent!" But to this continent Elsie never attained."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"This Phoenician festival appears to have been a vernal one, for its date was determined by the discoloration of the river Adonis, and this has been observed by modern travellers to occur in spring."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Fig. 1 of Plate 44 has a thin ivory white glaze running in gummy drops and clouded with pinkish buff staining outside and with a reddish discoloration within."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # venation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) the arrangement of veins in a leaf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (zoology) the system of venous blood vessels in an animal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venation designates (botany) the arrangement of veins in a leaf."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) the arrangement of veins in a leaf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (zoology) the system of venous blood vessels in an animal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venation designates (botany) the arrangement of veins in a leaf."*

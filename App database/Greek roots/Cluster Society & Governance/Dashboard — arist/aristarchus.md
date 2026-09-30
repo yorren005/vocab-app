@@ -5,13 +5,6 @@ status: unread
 ---
 # aristarchus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient greek grammarian remembered for his commentary on the iliad and odyssey (circa 217-145 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bright crater on the moon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aristarchus designates an ancient greek grammarian remembered for his commentary on the iliad and odyssey (circa 217-145 bc)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient greek grammarian remembered for his commentary on the iliad and odyssey (circa 217-145 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bright crater on the moon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aristarchus designates an ancient greek grammarian remembered for his commentary on the iliad and odyssey (circa 217-145 bc)."*

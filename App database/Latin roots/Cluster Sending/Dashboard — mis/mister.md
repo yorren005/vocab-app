@@ -5,15 +5,6 @@ status: unread
 ---
 # mister
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of address for a man.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of address for a man.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Grubble, Charley?” “Mister Grubble, miss,” returned Charley."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"One day Parson Thirdly met him and said, ‘Good-Morning, Mister Everdene; ’tis a fine day!’ ‘Amen’ said Everdene, quite absent-like, thinking only of religion when he seed a parson."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Cain Ball!” “Yes, Mister Oak; here I be!” Cainy now runs forward with the tar-pot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of address for a man.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of address for a man.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Grubble, Charley?” “Mister Grubble, miss,” returned Charley."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"One day Parson Thirdly met him and said, ‘Good-Morning, Mister Everdene; ’tis a fine day!’ ‘Amen’ said Everdene, quite absent-like, thinking only of religion when he seed a parson."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Cain Ball!” “Yes, Mister Oak; here I be!” Cainy now runs forward with the tar-pot."*

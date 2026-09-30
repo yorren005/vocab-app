@@ -5,15 +5,6 @@ status: unread
 ---
 # territorial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nonprofessional soldier member of a territorial military unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A territorial military unit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The series of novels I projected being mainly of the kind called local, they seemed to require a territorial definition of some sort to lend unity to their scene."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Unequal territorial distribution of banking facilities. § 9."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"As territorial division of labor began between neighboring tribes,[1] international trade was the earliest kind of regular interchange of goods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nonprofessional soldier member of a territorial military unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A territorial military unit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The series of novels I projected being mainly of the kind called local, they seemed to require a territorial definition of some sort to lend unity to their scene."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Unequal territorial distribution of banking facilities. § 9."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"As territorial division of labor began between neighboring tribes,[1] international trade was the earliest kind of regular interchange of goods."*

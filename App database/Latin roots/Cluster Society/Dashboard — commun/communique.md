@@ -5,13 +5,6 @@ status: unread
 ---
 # communique
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official report (usually sent in haste).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official report (usually sent in haste).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"At conclusion of meeting they issued a joint communique."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official report (usually sent in haste).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official report (usually sent in haste).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"At conclusion of meeting they issued a joint communique."*

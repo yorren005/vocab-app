@@ -5,13 +5,6 @@ status: unread
 ---
 # phanerogam
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant that reproduces by means of seeds not spores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant that reproduces by means of seeds not spores.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phanerogam designates plant that reproduces by means of seeds not spores."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant that reproduces by means of seeds not spores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant that reproduces by means of seeds not spores.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phanerogam designates plant that reproduces by means of seeds not spores."*

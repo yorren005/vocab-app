@@ -5,15 +5,6 @@ status: unread
 ---
 # annually
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without missing a year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By the year; every year (usually with reference to a sum of money paid or received).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Interest is not compounded, unless the depositor withdraws the interest and redeposits it, but simple interest continues to accrue annually on a certificate so long as it is outstanding, without limitation as to time."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This form of payment having been found objectionable, it was made illegal in New York and other states, and in most cases dividends are now paid annually."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Accruing interest must be offset annually by exports from the debtor country and the repayment of the principal requires that either money or goods be exported equal in value to the original obligations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without missing a year.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By the year; every year (usually with reference to a sum of money paid or received).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Interest is not compounded, unless the depositor withdraws the interest and redeposits it, but simple interest continues to accrue annually on a certificate so long as it is outstanding, without limitation as to time."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This form of payment having been found objectionable, it was made illegal in New York and other states, and in most cases dividends are now paid annually."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Accruing interest must be offset annually by exports from the debtor country and the repayment of the principal requires that either money or goods be exported equal in value to the original obligations."*

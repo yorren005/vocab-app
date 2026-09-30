@@ -5,15 +5,6 @@ status: unread
 ---
 # unofficial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having official authority or sanction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not officially established.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Of course, in your position of unofficial adviser and helper to everybody who is absolutely puzzled, throughout three continents, you are brought in contact with all that is strange and bizarre."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Two trained nurses have been in attendance, and a third unofficial one, in the person of old Miss Harding!"*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Crawford of Georgia, submitted to the Secretary of State a proposition for an unofficial interview."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having official authority or sanction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not officially established.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Of course, in your position of unofficial adviser and helper to everybody who is absolutely puzzled, throughout three continents, you are brought in contact with all that is strange and bizarre."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Two trained nurses have been in attendance, and a third unofficial one, in the person of old Miss Harding!"*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Crawford of Georgia, submitted to the Secretary of State a proposition for an unofficial interview."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # parr
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Queen of england as the 6th wife of henry viii (1512-1548).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young salmon up to 2 years old.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Another, Lucy Parr, the second waiting-maid, has only been in my service a few months."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Lucy Parr, who had brought in the coffee, had, I am sure, left the room; but I cannot swear that the door was closed."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"GOTHSEUNGQUEAN, also called _Shenanwaga_ and many other dialectical variations, an important town, was also destroyed Sept. 8, by a detachment of riflemen under Major Parr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Queen of england as the 6th wife of henry viii (1512-1548).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young salmon up to 2 years old.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Another, Lucy Parr, the second waiting-maid, has only been in my service a few months."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Lucy Parr, who had brought in the coffee, had, I am sure, left the room; but I cannot swear that the door was closed."*
+> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"GOTHSEUNGQUEAN, also called _Shenanwaga_ and many other dialectical variations, an important town, was also destroyed Sept. 8, by a detachment of riflemen under Major Parr."*

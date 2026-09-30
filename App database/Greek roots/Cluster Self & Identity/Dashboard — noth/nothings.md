@@ -5,15 +5,6 @@ status: unread
 ---
 # nothings
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inconsequential conversation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantity of no importance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A good traveller is something at the latter end of a dinner; but one that lies three-thirds and uses a known truth to pass a thousand nothings with, should be once heard and thrice beaten.— God save you, Captain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had rather have one scratch my head i’ th’ sun When the alarum were struck than idly sit To hear my nothings monstered. [_Exit._] MENENIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, then the world and all that’s in’t is nothing, The covering sky is nothing, Bohemia nothing, My wife is nothing, nor nothing have these nothings, If this be nothing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inconsequential conversation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantity of no importance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A good traveller is something at the latter end of a dinner; but one that lies three-thirds and uses a known truth to pass a thousand nothings with, should be once heard and thrice beaten.— God save you, Captain."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had rather have one scratch my head i’ th’ sun When the alarum were struck than idly sit To hear my nothings monstered. [_Exit._] MENENIUS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, then the world and all that’s in’t is nothing, The covering sky is nothing, Bohemia nothing, My wife is nothing, nor nothing have these nothings, If this be nothing."*

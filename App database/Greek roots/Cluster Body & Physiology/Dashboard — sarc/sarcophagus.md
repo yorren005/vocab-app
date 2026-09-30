@@ -5,15 +5,6 @@ status: unread
 ---
 # sarcophagus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stone coffin; broadly : coffin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stone coffin; broadly : coffin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"She singled out from their number an old salt, whose bare arms and feet, and exposed breast, were covered with as many inscriptions in India ink as the lid of an Egyptian sarcophagus."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Within this vault rests the alabaster sarcophagus in which is deposited that inestimable jewel, the Báb's holy dust."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The remains of Alexander the Great have been scattered to the wind, and his empty sarcophagus is now the mere curiosity of a museum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stone coffin; broadly : coffin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stone coffin; broadly : coffin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"She singled out from their number an old salt, whose bare arms and feet, and exposed breast, were covered with as many inscriptions in India ink as the lid of an Egyptian sarcophagus."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Within this vault rests the alabaster sarcophagus in which is deposited that inestimable jewel, the Báb's holy dust."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The remains of Alexander the Great have been scattered to the wind, and his empty sarcophagus is now the mere curiosity of a museum."*

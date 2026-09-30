@@ -5,15 +5,6 @@ status: unread
 ---
 # designer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who specializes in designing architectural interiors and their furnishings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who creates plans to be used in making something (such as buildings).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, as was shown by what followed, she was oddly exercising the faculty of invention upon the speciality of the clever Jacquet Droz, the designer of automatic substitutes for human limbs."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, as was shown by what followed, she was oddly exercising the faculty of invention upon the speciality of the clever Jacquet Droz, the designer of automatic substitutes for human limbs."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"In this world of thousands of languages and dialects, and physical and mental limitations beyond counting, even basic tools, like a safety pin, need to be understood all along the line from designer to user."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who specializes in designing architectural interiors and their furnishings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who creates plans to be used in making something (such as buildings).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, as was shown by what followed, she was oddly exercising the faculty of invention upon the speciality of the clever Jacquet Droz, the designer of automatic substitutes for human limbs."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, as was shown by what followed, she was oddly exercising the faculty of invention upon the speciality of the clever Jacquet Droz, the designer of automatic substitutes for human limbs."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"In this world of thousands of languages and dialects, and physical and mental limitations beyond counting, even basic tools, like a safety pin, need to be understood all along the line from designer to user."*

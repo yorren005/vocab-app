@@ -5,15 +5,6 @@ status: unread
 ---
 # spiritualism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (theology) any doctrine that asserts the separate existence of god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The belief that the spirits of dead people can communicate with people who are still alive (especially via a medium).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Does spiritualism find Jesus' death necessary 24:24 only for the presentation, after death, of the material Jesus, as a proof that spirits can return to earth?"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Found wanting 71:21 When the Science of Mind is understood, spiritualism will be found mainly erroneous, having no scientific basis nor origin, no proof nor power outside of 71:24 human testimony."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I never could believe in spiritualism. 71:27 The basis and structure of spiritualism are alike ma- terial and physical."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (theology) any doctrine that asserts the separate existence of god.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The belief that the spirits of dead people can communicate with people who are still alive (especially via a medium).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Does spiritualism find Jesus' death necessary 24:24 only for the presentation, after death, of the material Jesus, as a proof that spirits can return to earth?"*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Found wanting 71:21 When the Science of Mind is understood, spiritualism will be found mainly erroneous, having no scientific basis nor origin, no proof nor power outside of 71:24 human testimony."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I never could believe in spiritualism. 71:27 The basis and structure of spiritualism are alike ma- terial and physical."*

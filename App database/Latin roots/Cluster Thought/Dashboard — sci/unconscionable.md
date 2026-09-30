@@ -5,15 +5,6 @@ status: unread
 ---
 # unconscionable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a conscience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greatly exceeding bounds of reason or moderation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"There is an unconscionable old shark for you!” said Herbert."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Are you not an unconscionable fellow, said Spiller, to ask such a price, when one may have a new one for the same price in Clare Market? 435."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"It has been said, that a tooth-drawer was an unconscionable trade, because his business was nothing else but to take away those things whereby every man gets his living. 1126."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a conscience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greatly exceeding bounds of reason or moderation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"There is an unconscionable old shark for you!” said Herbert."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Are you not an unconscionable fellow, said Spiller, to ask such a price, when one may have a new one for the same price in Clare Market? 435."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"It has been said, that a tooth-drawer was an unconscionable trade, because his business was nothing else but to take away those things whereby every man gets his living. 1126."*

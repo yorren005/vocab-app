@@ -5,15 +5,6 @@ status: unread
 ---
 # deprecate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express strong disapproval of; deplore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belittle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He had an excellent memory, photographic and phonographic, a gift that wise men covet for themselves but deprecate in their friends."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Instead of his loud tormenting mood, he showed an intense, vague terror, and seemed to deprecate Bulstrode’s anger, because the money was all gone—he had been robbed—it had half of it been taken from him."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Such men must behold the actual situation of their country with painful solicitude, and deprecate the evils which ambition or revenge might, with too much facility, inflict upon it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Express strong disapproval of; deplore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belittle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"He had an excellent memory, photographic and phonographic, a gift that wise men covet for themselves but deprecate in their friends."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Instead of his loud tormenting mood, he showed an intense, vague terror, and seemed to deprecate Bulstrode’s anger, because the money was all gone—he had been robbed—it had half of it been taken from him."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Such men must behold the actual situation of their country with painful solicitude, and deprecate the evils which ambition or revenge might, with too much facility, inflict upon it."*

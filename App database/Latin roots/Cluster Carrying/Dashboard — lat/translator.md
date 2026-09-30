@@ -5,15 +5,6 @@ status: unread
 ---
 # translator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who translates written messages from one language to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who mediates between speakers of different languages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"The most that a translator can do is to express in another tongue the main thought embodied, and enshrine it in a new poem."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"In the spring of 1861, she went to East Cambridge, where she obtained the situation of translator for the New England Glass Company, translating commercial letters from English to Spanish, or from Spanish to English as occasion required."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Spirit names and blesses Here the human concept and divine idea seem con- fused by the translator, but they are not so in the scien- 506:27 tifically Christian meaning of the text."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who translates written messages from one language to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who mediates between speakers of different languages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **C. A. Frazer (*Atmâ*):** *"The most that a translator can do is to express in another tongue the main thought embodied, and enshrine it in a new poem."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"In the spring of 1861, she went to East Cambridge, where she obtained the situation of translator for the New England Glass Company, translating commercial letters from English to Spanish, or from Spanish to English as occasion required."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Spirit names and blesses Here the human concept and divine idea seem con- fused by the translator, but they are not so in the scien- 506:27 tifically Christian meaning of the text."*

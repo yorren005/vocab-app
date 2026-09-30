@@ -5,15 +5,6 @@ status: unread
 ---
 # precipitous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Done with very great haste and without due deliberation; - shakespeare; - arthur geddes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely steep.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Cattle were also driven through the smoke.[709] In Sundal, a narrow Norwegian valley, shut in on both sides by precipitous mountains, there lived down to the second half of the nineteenth century an old man who was very superstitious."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Still he went on, for his mind was as utterly narrowed into that precipitous crevice of play as if he had been the most ignorant lounger there."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"When the resources have been depleted, a precipitous collapse of the economic system will result, manifested in massive unemployment, decreased food production, and a decline in population as the death rate soars."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Done with very great haste and without due deliberation; - shakespeare; - arthur geddes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely steep.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Cattle were also driven through the smoke.[709] In Sundal, a narrow Norwegian valley, shut in on both sides by precipitous mountains, there lived down to the second half of the nineteenth century an old man who was very superstitious."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Still he went on, for his mind was as utterly narrowed into that precipitous crevice of play as if he had been the most ignorant lounger there."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"When the resources have been depleted, a precipitous collapse of the economic system will result, manifested in massive unemployment, decreased food production, and a decline in population as the death rate soars."*

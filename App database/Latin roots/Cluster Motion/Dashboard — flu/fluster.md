@@ -5,15 +5,6 @@ status: unread
 ---
 # fluster
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition that is confused or nervous and upset.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be flustered; behave in a confused manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"Why, they’d steal the very—why, goodness sakes, you can guess what kind of a fluster _I_ was in by the time midnight come last night."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How thoughtful they are!” Tess looked a little flustered as she took it."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Dron Zakhárych, you!” meek and flustered voices here and there were heard calling and caps began to come off their heads."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition that is confused or nervous and upset.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be flustered; behave in a confused manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"Why, they’d steal the very—why, goodness sakes, you can guess what kind of a fluster _I_ was in by the time midnight come last night."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How thoughtful they are!” Tess looked a little flustered as she took it."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Dron Zakhárych, you!” meek and flustered voices here and there were heard calling and caps began to come off their heads."*

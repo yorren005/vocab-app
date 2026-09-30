@@ -5,13 +5,6 @@ status: unread
 ---
 # terrietia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of timber trees of eastern asia, australasia and tropical africa that form large buttresses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of timber trees of eastern asia, australasia and tropical africa that form large buttresses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, terrietia designates small genus of timber trees of eastern asia, australasia and tropical africa that form large buttresses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of timber trees of eastern asia, australasia and tropical africa that form large buttresses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of timber trees of eastern asia, australasia and tropical africa that form large buttresses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, terrietia designates small genus of timber trees of eastern asia, australasia and tropical africa that form large buttresses."*

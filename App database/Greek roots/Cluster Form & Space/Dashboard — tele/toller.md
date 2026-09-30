@@ -5,15 +5,6 @@ status: unread
 ---
 # toller
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rings church bells (as for summoning the congregation).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone employed to collect tolls.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Norcombe Hill—not far from lonely Toller-Down—was one of the spots which suggest to a passer-by that he is in the presence of a shape approaching the indestructible as nearly as any to be found on earth."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Toller; were just now standing apart and having a friendly colloquy, in which they agreed that Lydgate was a jackanapes, just made to serve Bulstrode’s purpose."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Gambit—a practitioner just a little lower in status than Wrench or Toller, and especially esteemed as an accoucheur, of whose ability Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rings church bells (as for summoning the congregation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone employed to collect tolls.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Norcombe Hill—not far from lonely Toller-Down—was one of the spots which suggest to a passer-by that he is in the presence of a shape approaching the indestructible as nearly as any to be found on earth."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Toller; were just now standing apart and having a friendly colloquy, in which they agreed that Lydgate was a jackanapes, just made to serve Bulstrode’s purpose."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Gambit—a practitioner just a little lower in status than Wrench or Toller, and especially esteemed as an accoucheur, of whose ability Mr."*

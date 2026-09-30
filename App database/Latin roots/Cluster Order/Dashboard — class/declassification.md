@@ -5,13 +5,6 @@ status: unread
 ---
 # declassification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduction or removal by the government of restrictions on a classified document or weapon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduction or removal by the government of restrictions on a classified document or weapon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declassification designates reduction or removal by the government of restrictions on a classified document or weapon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduction or removal by the government of restrictions on a classified document or weapon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduction or removal by the government of restrictions on a classified document or weapon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, declassification designates reduction or removal by the government of restrictions on a classified document or weapon."*

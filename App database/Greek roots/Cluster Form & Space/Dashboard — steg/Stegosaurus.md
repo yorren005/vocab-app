@@ -5,15 +5,6 @@ status: unread
 ---
 # stegosaurus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbivorous ornithischian dinosaur with a row of bony plates along its back and a spiked tail probably used as a weapon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbivorous ornithischian dinosaur with a row of bony plates along its back and a spiked tail probably used as a weapon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The names appear in this story: there was Albert the Apatosaurus, Pete the Pentaceratops, Palmer the Parasaurolophus, Sally the Stegosaurus, and Alice the Ankylosaurus."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"This morning, when Albert awakens, he looks around to see if his friends, Pete, the Pentaceratops, Palmer, the Parasaurolophus, Sally, the Stegosaurus and Alice, the Ankylosaurus are also awake."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"THORN-TAIL Stegosaurus, or “backlered lizard.” One of the strangest-looking of the dinosaurs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbivorous ornithischian dinosaur with a row of bony plates along its back and a spiked tail probably used as a weapon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbivorous ornithischian dinosaur with a row of bony plates along its back and a spiked tail probably used as a weapon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The names appear in this story: there was Albert the Apatosaurus, Pete the Pentaceratops, Palmer the Parasaurolophus, Sally the Stegosaurus, and Alice the Ankylosaurus."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"This morning, when Albert awakens, he looks around to see if his friends, Pete, the Pentaceratops, Palmer, the Parasaurolophus, Sally, the Stegosaurus and Alice, the Ankylosaurus are also awake."*
+> - 📜 **F. H. Costello (*Sure-dart*):** *"THORN-TAIL Stegosaurus, or “backlered lizard.” One of the strangest-looking of the dinosaurs."*

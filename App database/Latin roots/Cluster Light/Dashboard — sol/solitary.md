@@ -5,15 +5,6 @@ status: unread
 ---
 # solitary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confinement of a prisoner in isolation from other prisoners.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who lives in solitude.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In respect that it is solitary, I like it very well; but in respect that it is private, it is a very vile life."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your message done, hie home unto my chamber, Where thou shalt find me sad and solitary. [_Exit._] JULIA."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius has led a solitary life and sees no one except Apollonie, and her only when he is in need of her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Confinement of a prisoner in isolation from other prisoners.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who lives in solitude.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In respect that it is solitary, I like it very well; but in respect that it is private, it is a very vile life."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your message done, hie home unto my chamber, Where thou shalt find me sad and solitary. [_Exit._] JULIA."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius has led a solitary life and sees no one except Apollonie, and her only when he is in need of her."*

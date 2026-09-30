@@ -5,15 +5,6 @@ status: unread
 ---
 # dicer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device used for dicing food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical device used for dicing food.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Quel ch’ella par quand’ un poco sorride, Non si può dicer, nè tener a mente, Si è nuovo miracolo gentile.” —DANTE: _La Vita Nuova_."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Makes marriage vows As false as dicers’ oaths."*
-> - 📜 **James Joyce (*Ulysses*):** *"Dicers and thimbleriggers we hurried by after the hoofs, the vying caps and jackets and past the meatfaced woman, a butcher’s dame, nuzzling thirstily her clove of orange."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device used for dicing food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical device used for dicing food.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Quel ch’ella par quand’ un poco sorride, Non si può dicer, nè tener a mente, Si è nuovo miracolo gentile.” —DANTE: _La Vita Nuova_."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Makes marriage vows As false as dicers’ oaths."*
+> - 📜 **James Joyce (*Ulysses*):** *"Dicers and thimbleriggers we hurried by after the hoofs, the vying caps and jackets and past the meatfaced woman, a butcher’s dame, nuzzling thirstily her clove of orange."*

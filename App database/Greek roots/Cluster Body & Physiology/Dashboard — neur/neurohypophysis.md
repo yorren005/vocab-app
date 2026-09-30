@@ -5,13 +5,6 @@ status: unread
 ---
 # neurohypophysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The posterior lobe of the pituitary body; primarily glandular in nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The posterior lobe of the pituitary body; primarily glandular in nature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurohypophysis designates the posterior lobe of the pituitary body; primarily glandular in nature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The posterior lobe of the pituitary body; primarily glandular in nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The posterior lobe of the pituitary body; primarily glandular in nature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurohypophysis designates the posterior lobe of the pituitary body; primarily glandular in nature."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # hypothetically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By hypothesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By hypothesis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"Grose looked straight out of the window, but I felt that, hypothetically, I had a right to know what young persons engaged for Bly were expected to do."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"There was also some latitude here for endorsement, as the direct question of territorial acquisition had not before been presented, but only hypothetically stated in the constitutional disputations then in great fashion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By hypothesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By hypothesis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Turn of the Screw*):** *"Grose looked straight out of the window, but I felt that, hypothetically, I had a right to know what young persons engaged for Bly were expected to do."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"There was also some latitude here for endorsement, as the direct question of territorial acquisition had not before been presented, but only hypothetically stated in the constitutional disputations then in great fashion."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # erythropoietin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A glycoprotein hormone formed especially in the kidney and stimulating red blood cell formation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A glycoprotein hormone formed especially in the kidney and stimulating red blood cell formation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythropoietin designates a glycoprotein hormone formed especially in the kidney and stimulating red blood cell formation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A glycoprotein hormone formed especially in the kidney and stimulating red blood cell formation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A glycoprotein hormone formed especially in the kidney and stimulating red blood cell formation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythropoietin designates a glycoprotein hormone formed especially in the kidney and stimulating red blood cell formation."*

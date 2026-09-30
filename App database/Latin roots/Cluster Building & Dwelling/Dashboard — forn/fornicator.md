@@ -5,14 +5,6 @@ status: unread
 ---
 # fornicator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who commits adultery or fornication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who commits adultery or fornication.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Tho’ now they ca’ me fornicator, An’ tease my name in kintry clatter, The mair they talk, I’m kent the better, E’en let them clash; An auld wife’s tongue’s a feckless matter To gie ane fash."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"A fornicator-loun he call’d me, An’ said my faut frae bliss expell’d me; I own’d the tale was true he tell’d me, “But, what the matter? (Quo’ I) I fear unless ye geld me, I’ll ne’er be better!” “Geld you! (quo’ he) an’ what for no?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who commits adultery or fornication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who commits adultery or fornication.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Tho’ now they ca’ me fornicator, An’ tease my name in kintry clatter, The mair they talk, I’m kent the better, E’en let them clash; An auld wife’s tongue’s a feckless matter To gie ane fash."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"A fornicator-loun he call’d me, An’ said my faut frae bliss expell’d me; I own’d the tale was true he tell’d me, “But, what the matter? (Quo’ I) I fear unless ye geld me, I’ll ne’er be better!” “Geld you! (quo’ he) an’ what for no?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # nonattendance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The failure to attend.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The failure to attend.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Congress, from the nonattendance of a few States, have been frequently in the situation of a Polish diet, where a single VOTE has been sufficient to put a stop to all their movements."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The failure to attend.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The failure to attend.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Congress, from the nonattendance of a few States, have been frequently in the situation of a Polish diet, where a single VOTE has been sufficient to put a stop to all their movements."*

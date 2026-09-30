@@ -5,15 +5,6 @@ status: unread
 ---
 # pace
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rate of moving (especially walking or running).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The distance covered by a step.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah yet doth beauty like a dial hand, Steal from his figure, and no pace perceived, So your sweet hue, which methinks still doth stand Hath motion, and mine eye may be deceived."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord that’s gone made himself much sport out of him; by his authority he remains here, which he thinks is a patent for his sauciness; and indeed he has no pace, but runs where he will."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The third o’ th’ world is yours, which with a snaffle You may pace easy, but not such a wife."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rate of moving (especially walking or running).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The distance covered by a step.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah yet doth beauty like a dial hand, Steal from his figure, and no pace perceived, So your sweet hue, which methinks still doth stand Hath motion, and mine eye may be deceived."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord that’s gone made himself much sport out of him; by his authority he remains here, which he thinks is a patent for his sauciness; and indeed he has no pace, but runs where he will."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The third o’ th’ world is yours, which with a snaffle You may pace easy, but not such a wife."*

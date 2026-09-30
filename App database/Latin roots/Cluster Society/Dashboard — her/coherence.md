@@ -5,15 +5,6 @@ status: unread
 ---
 # coherence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of cohering or sticking together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Logical and orderly and consistent relation of parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a wonderful thing to see the semblable coherence of his men’s spirits and his."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It wandered through all nightmarish madness, without coherence, without continuity of scene, event, or person."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"What made them remarkable was their coherence and continuity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of cohering or sticking together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Logical and orderly and consistent relation of parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a wonderful thing to see the semblable coherence of his men’s spirits and his."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It wandered through all nightmarish madness, without coherence, without continuity of scene, event, or person."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"What made them remarkable was their coherence and continuity."*

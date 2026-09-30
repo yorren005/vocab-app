@@ -5,13 +5,6 @@ status: unread
 ---
 # tractive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exerting traction and serving to pull.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exerting traction and serving to pull.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tractive designates exerting traction and serving to pull."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exerting traction and serving to pull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exerting traction and serving to pull.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tractive designates exerting traction and serving to pull."*

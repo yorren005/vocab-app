@@ -5,15 +5,6 @@ status: unread
 ---
 # haley
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states rock singer who was one of the first to popularize rock'n'roll music (1925-1981).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states writer and afro-american who wrote a fictionalized account of tracing his family roots back to africa (1921-1992).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Haley glared at Polk for an hour out here on my porch, when he interrupted us in one of our Epworth League talks, in such an unspiritual manner that Polk said he felt as if he had been introduced to the Apostle Paul while he was still Saul of Tarsus."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Haley; he is safe in performing his rituals."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Haley came down the front walk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states rock singer who was one of the first to popularize rock'n'roll music (1925-1981).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states writer and afro-american who wrote a fictionalized account of tracing his family roots back to africa (1921-1992).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Haley glared at Polk for an hour out here on my porch, when he interrupted us in one of our Epworth League talks, in such an unspiritual manner that Polk said he felt as if he had been introduced to the Apostle Paul while he was still Saul of Tarsus."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Haley; he is safe in performing his rituals."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Haley came down the front walk."*

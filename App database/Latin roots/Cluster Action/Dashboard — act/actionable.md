@@ -5,14 +5,6 @@ status: unread
 ---
 # actionable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affording grounds for legal action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording grounds for legal action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It—it’s not actionable,” he stammered."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"What's a guffin, Garny, old boy?" "It sounds indecent." "I believe it's actionable." "I shouldn't wonder." Ukridge rushed to the door."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +41,10 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affording grounds for legal action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording grounds for legal action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It—it’s not actionable,” he stammered."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"What's a guffin, Garny, old boy?" "It sounds indecent." "I believe it's actionable." "I shouldn't wonder." Ukridge rushed to the door."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # economics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social science concerned chiefly with description and analysis of the production, distribution, and consumption of goods and services.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Economic theory, principles, or practices.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In the latter aspect her d’Urberville descent was a fact of great dimensions; worthless to economics, it was a most useful ingredient to the dreamer, to the moralizer on declines and falls."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Economics--Volume II MODERN ECONOMIC PROBLEMS BY FRANK A."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Problems of agricultural economics 27."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A social science concerned chiefly with description and analysis of the production, distribution, and consumption of goods and services.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Economic theory, principles, or practices.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In the latter aspect her d’Urberville descent was a fact of great dimensions; worthless to economics, it was a most useful ingredient to the dreamer, to the moralizer on declines and falls."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Economics--Volume II MODERN ECONOMIC PROBLEMS BY FRANK A."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Problems of agricultural economics 27."*

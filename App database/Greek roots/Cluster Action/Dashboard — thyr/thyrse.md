@@ -5,13 +5,6 @@ status: unread
 ---
 # thyrse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense flower cluster (as of the lilac or horse chestnut) in which the main axis is racemose and the branches are cymose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dense flower cluster (as of the lilac or horse chestnut) in which the main axis is racemose and the branches are cymose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyrse designates a dense flower cluster (as of the lilac or horse chestnut) in which the main axis is racemose and the branches are cymose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense flower cluster (as of the lilac or horse chestnut) in which the main axis is racemose and the branches are cymose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dense flower cluster (as of the lilac or horse chestnut) in which the main axis is racemose and the branches are cymose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thyrse designates a dense flower cluster (as of the lilac or horse chestnut) in which the main axis is racemose and the branches are cymose."*

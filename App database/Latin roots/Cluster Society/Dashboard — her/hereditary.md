@@ -5,15 +5,6 @@ status: unread
 ---
 # hereditary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring among members of a family usually by heredity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inherited or inheritable by established rules (usually legal rules) of descent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His faults in him seem as the spots of heaven, More fiery by night’s blackness; hereditary Rather than purchased; what he cannot change Than what he chooses."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet you must be saying Martius is proud, who, in a cheap estimation, is worth all your predecessors since Deucalion, though peradventure some of the best of ’em were hereditary hangmen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do so: to ebb, Hereditary sloth instructs me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring among members of a family usually by heredity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inherited or inheritable by established rules (usually legal rules) of descent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His faults in him seem as the spots of heaven, More fiery by night’s blackness; hereditary Rather than purchased; what he cannot change Than what he chooses."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet you must be saying Martius is proud, who, in a cheap estimation, is worth all your predecessors since Deucalion, though peradventure some of the best of ’em were hereditary hangmen."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do so: to ebb, Hereditary sloth instructs me."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # dispel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Force to go away; used both with concrete and metaphoric meanings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause to separate and go in different directions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Employment, even melancholy, may dispel melancholy, and her occupations were hopeful."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The first vision of Rosamond would have been enough with most judges to dispel any prejudice excited by Mrs."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But the lovely aromas in that enchanted air did at last seem to dispel, for a moment, the cankerous thing in his soul."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Force to go away; used both with concrete and metaphoric meanings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause to separate and go in different directions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Employment, even melancholy, may dispel melancholy, and her occupations were hopeful."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The first vision of Rosamond would have been enough with most judges to dispel any prejudice excited by Mrs."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But the lovely aromas in that enchanted air did at last seem to dispel, for a moment, the cankerous thing in his soul."*

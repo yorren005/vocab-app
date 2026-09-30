@@ -5,13 +5,6 @@ status: unread
 ---
 # tautomerism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Isomerism in which the isomers change into one another with great ease so that they ordinarily exist together in equilibrium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Isomerism in which the isomers change into one another with great ease so that they ordinarily exist together in equilibrium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tautomerism designates isomerism in which the isomers change into one another with great ease so that they ordinarily exist together in equilibrium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Isomerism in which the isomers change into one another with great ease so that they ordinarily exist together in equilibrium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Isomerism in which the isomers change into one another with great ease so that they ordinarily exist together in equilibrium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tautomerism designates isomerism in which the isomers change into one another with great ease so that they ordinarily exist together in equilibrium."*

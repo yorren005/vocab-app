@@ -5,13 +5,6 @@ status: unread
 ---
 # extropy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The prediction that human intelligence and technology will enable life to expand in an orderly way throughout the entire universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The prediction that human intelligence and technology will enable life to expand in an orderly way throughout the entire universe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extropy designates the prediction that human intelligence and technology will enable life to expand in an orderly way throughout the entire universe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The prediction that human intelligence and technology will enable life to expand in an orderly way throughout the entire universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The prediction that human intelligence and technology will enable life to expand in an orderly way throughout the entire universe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extropy designates the prediction that human intelligence and technology will enable life to expand in an orderly way throughout the entire universe."*

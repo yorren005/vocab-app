@@ -5,15 +5,6 @@ status: unread
 ---
 # dissimulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hide (feelings) from other people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hide (feelings) from other people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"Why not dissimulate,—or even give a positive pledge, if by these means he could gain freedom?"*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"He never dissimulated, and had the great Christian virtues in a crude form and without polish, like a massive piece of the most beautiful marble where the chisel has traced no lines."*
-> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"Mestayer touched Campbell lightly upon the shoulder, then laughed aloud at the air of well dissimulated surprise worn by his face as the young man opened his eyes with a start."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hide (feelings) from other people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hide (feelings) from other people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"Why not dissimulate,—or even give a positive pledge, if by these means he could gain freedom?"*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"He never dissimulated, and had the great Christian virtues in a crude form and without polish, like a massive piece of the most beautiful marble where the chisel has traced no lines."*
+> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"Mestayer touched Campbell lightly upon the shoulder, then laughed aloud at the air of well dissimulated surprise worn by his face as the young man opened his eyes with a start."*

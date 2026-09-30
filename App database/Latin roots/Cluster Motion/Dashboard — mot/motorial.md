@@ -5,13 +5,6 @@ status: unread
 ---
 # motorial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of nerves and nerve impulses; conveying information away from the cns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of nerves and nerve impulses; conveying information away from the cns.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motorial designates of nerves and nerve impulses; conveying information away from the cns."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of nerves and nerve impulses; conveying information away from the cns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of nerves and nerve impulses; conveying information away from the cns.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motorial designates of nerves and nerve impulses; conveying information away from the cns."*

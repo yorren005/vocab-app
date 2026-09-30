@@ -5,13 +5,6 @@ status: unread
 ---
 # epigone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Follower, disciple; also : an inferior imitator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Follower, disciple; also : an inferior imitator.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epigone designates follower, disciple; also : an inferior imitator."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Follower, disciple; also : an inferior imitator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Follower, disciple; also : an inferior imitator.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epigone designates follower, disciple; also : an inferior imitator."*

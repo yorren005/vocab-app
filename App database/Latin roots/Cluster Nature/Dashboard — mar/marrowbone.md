@@ -5,13 +5,6 @@ status: unread
 ---
 # marrowbone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bone containing edible marrow; used especially in flavoring soup.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bone containing edible marrow; used especially in flavoring soup.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Then they would all to a man have gone down on their marrowbones to him to come back when he had recovered his senses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bone containing edible marrow; used especially in flavoring soup.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bone containing edible marrow; used especially in flavoring soup.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Then they would all to a man have gone down on their marrowbones to him to come back when he had recovered his senses."*

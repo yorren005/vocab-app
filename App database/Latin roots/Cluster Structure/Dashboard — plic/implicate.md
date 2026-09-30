@@ -5,15 +5,6 @@ status: unread
 ---
 # implicate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into intimate and incriminating connection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impose, involve, or imply as a necessary accompaniment or result.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Now, there was no reasonable evidence to implicate any person but this woman, and on the improbabilities of her having been able to do it Mr."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"You can understand that this register and diary may implicate some of the first men in the South, and that there may be many who will not sleep easy at night until it is recovered.” “Then the page we have seen—” “Is such as we might expect."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"This dress does implicate Miss Flora Millar.” “And how?” “In the dress is a pocket."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into intimate and incriminating connection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impose, involve, or imply as a necessary accompaniment or result.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Now, there was no reasonable evidence to implicate any person but this woman, and on the improbabilities of her having been able to do it Mr."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"You can understand that this register and diary may implicate some of the first men in the South, and that there may be many who will not sleep easy at night until it is recovered.” “Then the page we have seen—” “Is such as we might expect."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"This dress does implicate Miss Flora Millar.” “And how?” “In the dress is a pocket."*

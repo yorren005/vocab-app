@@ -5,13 +5,6 @@ status: unread
 ---
 # impetigo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very contagious infection of the skin; common in children; localized redness develops into small blisters that gradually crust and erode.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very contagious infection of the skin; common in children; localized redness develops into small blisters that gradually crust and erode.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impetigo designates a very contagious infection of the skin; common in children; localized redness develops into small blisters that gradually crust and erode."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very contagious infection of the skin; common in children; localized redness develops into small blisters that gradually crust and erode.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very contagious infection of the skin; common in children; localized redness develops into small blisters that gradually crust and erode.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impetigo designates a very contagious infection of the skin; common in children; localized redness develops into small blisters that gradually crust and erode."*

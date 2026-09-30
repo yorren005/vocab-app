@@ -5,13 +5,6 @@ status: unread
 ---
 # impermissibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inadmissibility as a consequence of not being permitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inadmissibility as a consequence of not being permitted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impermissibility designates inadmissibility as a consequence of not being permitted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inadmissibility as a consequence of not being permitted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inadmissibility as a consequence of not being permitted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impermissibility designates inadmissibility as a consequence of not being permitted."*

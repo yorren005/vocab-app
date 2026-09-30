@@ -5,13 +5,6 @@ status: unread
 ---
 # ultramicroscopic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Too small to be seen without an ultramicroscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too small to be seen without an ultramicroscope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultramicroscopic designates too small to be seen without an ultramicroscope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Too small to be seen without an ultramicroscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too small to be seen without an ultramicroscope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultramicroscopic designates too small to be seen without an ultramicroscope."*

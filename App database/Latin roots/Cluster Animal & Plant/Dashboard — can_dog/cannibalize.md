@@ -5,13 +5,6 @@ status: unread
 ---
 # cannibalize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eat human flesh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use parts of something to repair something else.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Repairs would be accomplished through use of anything from on-site fabricated bits-and-pieces to parts and assemblies cannibalized from wrecked aircraft."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eat human flesh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use parts of something to repair something else.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Repairs would be accomplished through use of anything from on-site fabricated bits-and-pieces to parts and assemblies cannibalized from wrecked aircraft."*

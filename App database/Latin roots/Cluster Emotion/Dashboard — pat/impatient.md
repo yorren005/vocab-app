@@ -5,15 +5,6 @@ status: unread
 ---
 # impatient
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restless or short-tempered under delay or opposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually followed by `to') full of eagerness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, what a wasp-stung and impatient fool Art thou to break into this woman’s mood, Tying thine ear to no tongue but thine own!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not a penny, not a penny; you are too impatient to bear crosses."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wherefore is Charles impatient with his friend?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Restless or short-tempered under delay or opposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually followed by `to') full of eagerness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, what a wasp-stung and impatient fool Art thou to break into this woman’s mood, Tying thine ear to no tongue but thine own!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not a penny, not a penny; you are too impatient to bear crosses."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wherefore is Charles impatient with his friend?"*

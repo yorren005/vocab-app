@@ -5,15 +5,6 @@ status: unread
 ---
 # unequalled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Radically distinctive and without equal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radically distinctive and without equal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The view it commands of Cook’s Court at one end (not to mention a squint into Cursitor Street) and of Coavinses’ the sheriff’s officer’s backyard at the other she regards as a prospect of unequalled beauty."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her mother might have made inquiries, and have discovered that this Mrs d’Urberville was a lady of unequalled virtues and charity."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"This son ascended the throne while still of tender years, and found that parental fondness had endowed him with unequalled power and dominion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Radically distinctive and without equal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radically distinctive and without equal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The view it commands of Cook’s Court at one end (not to mention a squint into Cursitor Street) and of Coavinses’ the sheriff’s officer’s backyard at the other she regards as a prospect of unequalled beauty."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her mother might have made inquiries, and have discovered that this Mrs d’Urberville was a lady of unequalled virtues and charity."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"This son ascended the throne while still of tender years, and found that parental fondness had endowed him with unequalled power and dominion."*

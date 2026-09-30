@@ -5,13 +5,6 @@ status: unread
 ---
 # unsaponified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not converted into soap.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not converted into soap.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsaponified designates not converted into soap."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not converted into soap.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not converted into soap.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsaponified designates not converted into soap."*

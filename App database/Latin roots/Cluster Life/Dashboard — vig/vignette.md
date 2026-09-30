@@ -5,15 +5,6 @@ status: unread
 ---
 # vignette
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brief literary description.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photograph whose edges shade off gradually.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"BARTON FRONTISPIECE. 2.--BARBARA FRIETCHIE VIGNETTE TITLE. 3.--MRS."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Embellished with a Vignette Title and Frontispiece, engraved by Bentley, from Drawings by Churchyard."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"With a splendid Portrait and Vignette, a Fac-simile of Bunyan’s Will, and an Engraving of his Cottage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brief literary description.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photograph whose edges shade off gradually.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"BARTON FRONTISPIECE. 2.--BARBARA FRIETCHIE VIGNETTE TITLE. 3.--MRS."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Embellished with a Vignette Title and Frontispiece, engraved by Bentley, from Drawings by Churchyard."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"With a splendid Portrait and Vignette, a Fac-simile of Bunyan’s Will, and an Engraving of his Cottage."*

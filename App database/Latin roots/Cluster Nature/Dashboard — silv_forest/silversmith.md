@@ -5,15 +5,6 @@ status: unread
 ---
 # silversmith
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes or repairs articles of silver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes or repairs articles of silver.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The security necessary was a bill of sale on the furniture of his house, which might make a creditor easy for a reasonable time about a debt amounting to less than four hundred pounds; and the silversmith, Mr."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Many coins of Queen Elizabeth have been found, but none deserving of preservation from the crucible of the silversmith, to whom they were speedily consigned by the finders."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Bernard believed that the first movable cast-metal type were molded in sand, since that method of casting was known to the silversmiths and trinket-makers of the fifteenth century."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes or repairs articles of silver.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes or repairs articles of silver.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"The security necessary was a bill of sale on the furniture of his house, which might make a creditor easy for a reasonable time about a debt amounting to less than four hundred pounds; and the silversmith, Mr."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Many coins of Queen Elizabeth have been found, but none deserving of preservation from the crucible of the silversmith, to whom they were speedily consigned by the finders."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Bernard believed that the first movable cast-metal type were molded in sand, since that method of casting was known to the silversmiths and trinket-makers of the fifteenth century."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # stratosphere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the earth's atmosphere which extends from the top of the troposphere to about 30 miles (50 kilometers) above the surface and in which temperature increases gradually to about 32°F (0°C) and clouds rarely form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very high or the highest region on or as if on a graded scale.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stratosphere designates the part of the earth's atmosphere which extends from the top of the troposphere to about 30 miles (50 kilometers) above the surface and in which temperature increases gradually to about 32°f (0°c) and clouds rarely form."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the earth's atmosphere which extends from the top of the troposphere to about 30 miles (50 kilometers) above the surface and in which temperature increases gradually to about 32°F (0°C) and clouds rarely form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very high or the highest region on or as if on a graded scale.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stratosphere designates the part of the earth's atmosphere which extends from the top of the troposphere to about 30 miles (50 kilometers) above the surface and in which temperature increases gradually to about 32°f (0°c) and clouds rarely form."*

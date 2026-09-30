@@ -5,15 +5,6 @@ status: unread
 ---
 # appurtenance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipment consisting of miscellaneous articles needed for a particular operation or sport etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supplementary component that improves capability.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The appurtenance of welcome is fashion and ceremony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sly is discovered in a rich nightgown, with Attendants: some with apparel, basin, ewer, and other appurtenances; and Lord, dressed like a servant."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed and a parting salutation to the scornful Judy, strides out of the parlour, clashing imaginary sabres and other metallic appurtenances as he goes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipment consisting of miscellaneous articles needed for a particular operation or sport etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supplementary component that improves capability.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The appurtenance of welcome is fashion and ceremony."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sly is discovered in a rich nightgown, with Attendants: some with apparel, basin, ewer, and other appurtenances; and Lord, dressed like a servant."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed and a parting salutation to the scornful Judy, strides out of the parlour, clashing imaginary sabres and other metallic appurtenances as he goes."*

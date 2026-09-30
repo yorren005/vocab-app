@@ -5,15 +5,6 @@ status: unread
 ---
 # inventor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is the first to think of or make something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is the first to think of or make something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But in these cases We still have judgement here; that we but teach Bloody instructions, which being taught, return To plague th’ inventor."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The inventor of a story must have the gift of the caricaturist and of the bestower of nicknames; he must have a shrewd eye for the real features of his victim."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"What a misfortune that the secret of such an invention should die with its inventor!” Captain Nemo did not reply."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is the first to think of or make something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is the first to think of or make something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But in these cases We still have judgement here; that we but teach Bloody instructions, which being taught, return To plague th’ inventor."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The inventor of a story must have the gift of the caricaturist and of the bestower of nicknames; he must have a shrewd eye for the real features of his victim."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"What a misfortune that the secret of such an invention should die with its inventor!” Captain Nemo did not reply."*

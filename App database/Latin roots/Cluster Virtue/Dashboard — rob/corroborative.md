@@ -5,14 +5,6 @@ status: unread
 ---
 # corroborative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to support or corroborate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to support or corroborate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"If you want any corroborative evidence on the subject, you can ask him.” Lord Henry shrugged his shoulders."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"He met with one piece of corroborative evidence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to support or corroborate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to support or corroborate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"If you want any corroborative evidence on the subject, you can ask him.” Lord Henry shrugged his shoulders."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"He met with one piece of corroborative evidence."*

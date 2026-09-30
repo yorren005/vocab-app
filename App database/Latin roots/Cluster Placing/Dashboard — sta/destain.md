@@ -5,13 +5,6 @@ status: unread
 ---
 # destain
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove stain from (a laboratory specimen) to enhance contrast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove stain from (a laboratory specimen) to enhance contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, destain designates remove stain from (a laboratory specimen) to enhance contrast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove stain from (a laboratory specimen) to enhance contrast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove stain from (a laboratory specimen) to enhance contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, destain designates remove stain from (a laboratory specimen) to enhance contrast."*

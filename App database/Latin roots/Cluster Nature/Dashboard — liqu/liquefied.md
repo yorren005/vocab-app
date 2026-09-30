@@ -5,15 +5,6 @@ status: unread
 ---
 # liquefied
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become liquid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (a solid substance) liquid, as by heating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"In fact, my loneliness has liquefied my gaseous affection into what almost looks like officiousness."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Wielding the fusers expertly they distributed its liquefied substance in a rough, irregular pattern, blending it in with the surrounding surfaces."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The molding medium of plaster composition in a semi-liquefied state is then poured on to the original in the molding frame."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become liquid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (a solid substance) liquid, as by heating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"In fact, my loneliness has liquefied my gaseous affection into what almost looks like officiousness."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Wielding the fusers expertly they distributed its liquefied substance in a rough, irregular pattern, blending it in with the surrounding surfaces."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The molding medium of plaster composition in a semi-liquefied state is then poured on to the original in the molding frame."*

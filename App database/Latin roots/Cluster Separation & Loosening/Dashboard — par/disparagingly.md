@@ -5,15 +5,6 @@ status: unread
 ---
 # disparagingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disparaging manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disparaging manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"You would think there was not a single tusk left either above or below the ground in the whole country. ‘Mostly fossil,’ the manager had remarked, disparagingly."*
-> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"Clinch to the young fellow of whom Conant had spoken so disparagingly to me."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"There’s condition for you!” “Ah!” said Skene, disparagingly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disparaging manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disparaging manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"You would think there was not a single tusk left either above or below the ground in the whole country. ‘Mostly fossil,’ the manager had remarked, disparagingly."*
+> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"Clinch to the young fellow of whom Conant had spoken so disparagingly to me."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"There’s condition for you!” “Ah!” said Skene, disparagingly."*

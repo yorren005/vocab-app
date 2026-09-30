@@ -5,13 +5,6 @@ status: unread
 ---
 # antheraea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large moths whose larvae produce silk of high quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large moths whose larvae produce silk of high quality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antheraea designates large moths whose larvae produce silk of high quality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large moths whose larvae produce silk of high quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large moths whose larvae produce silk of high quality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antheraea designates large moths whose larvae produce silk of high quality."*

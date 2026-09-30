@@ -5,13 +5,6 @@ status: unread
 ---
 # plumbable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of depth) capable of being sounded or measured for depth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of depth) capable of being sounded or measured for depth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumbable designates (of depth) capable of being sounded or measured for depth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of depth) capable of being sounded or measured for depth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of depth) capable of being sounded or measured for depth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumbable designates (of depth) capable of being sounded or measured for depth."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # equisetaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sole surviving family of the equisetales: fern allies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sole surviving family of the equisetales: fern allies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equisetaceae designates sole surviving family of the equisetales: fern allies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sole surviving family of the equisetales: fern allies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sole surviving family of the equisetales: fern allies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equisetaceae designates sole surviving family of the equisetales: fern allies."*

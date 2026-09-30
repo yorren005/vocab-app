@@ -5,13 +5,6 @@ status: unread
 ---
 # diplophonia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The production, by the voice, of sounds of two different pitches simultaneously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production, by the voice, of sounds of two different pitches simultaneously.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplophonia designates the production, by the voice, of sounds of two different pitches simultaneously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The production, by the voice, of sounds of two different pitches simultaneously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production, by the voice, of sounds of two different pitches simultaneously.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplophonia designates the production, by the voice, of sounds of two different pitches simultaneously."*

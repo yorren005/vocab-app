@@ -5,13 +5,6 @@ status: unread
 ---
 # ecumenicism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (christianity) the doctrine of the ecumenical movement that promotes cooperation and better understanding among different religious denominations: aimed at universal christian unity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (christianity) the doctrine of the ecumenical movement that promotes cooperation and better understanding among different religious denominations: aimed at universal christian unity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecumenicism designates (christianity) the doctrine of the ecumenical movement that promotes cooperation and better understanding among different religious denominations: aimed at universal christian unity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (christianity) the doctrine of the ecumenical movement that promotes cooperation and better understanding among different religious denominations: aimed at universal christian unity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (christianity) the doctrine of the ecumenical movement that promotes cooperation and better understanding among different religious denominations: aimed at universal christian unity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecumenicism designates (christianity) the doctrine of the ecumenical movement that promotes cooperation and better understanding among different religious denominations: aimed at universal christian unity."*

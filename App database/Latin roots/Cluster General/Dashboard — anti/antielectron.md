@@ -5,13 +5,6 @@ status: unread
 ---
 # antielectron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elementary particle with positive charge; interaction of a positron and an electron results in annihilation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An elementary particle with positive charge; interaction of a positron and an electron results in annihilation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antielectron designates an elementary particle with positive charge; interaction of a positron and an electron results in annihilation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elementary particle with positive charge; interaction of a positron and an electron results in annihilation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An elementary particle with positive charge; interaction of a positron and an electron results in annihilation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antielectron designates an elementary particle with positive charge; interaction of a positron and an electron results in annihilation."*

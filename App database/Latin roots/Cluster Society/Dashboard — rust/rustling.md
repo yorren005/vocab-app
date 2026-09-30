@@ -5,15 +5,6 @@ status: unread
 ---
 # rustling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The stealing of cattle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light noise, like the noise of silk clothing or leaves blowing in the wind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, this life Is nobler than attending for a check, Richer than doing nothing for a robe, Prouder than rustling in unpaid-for silk: Such gain the cap of him that makes him fine, Yet keeps his book uncross’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let not the creaking of shoes nor the rustling of silks betray thy poor heart to woman."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Three of the girls, after mysteriously whispering together, were gone, too, and with them several more stole away, for there was a strange rustling in the bushes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The stealing of cattle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light noise, like the noise of silk clothing or leaves blowing in the wind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, this life Is nobler than attending for a check, Richer than doing nothing for a robe, Prouder than rustling in unpaid-for silk: Such gain the cap of him that makes him fine, Yet keeps his book uncross’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let not the creaking of shoes nor the rustling of silks betray thy poor heart to woman."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Three of the girls, after mysteriously whispering together, were gone, too, and with them several more stole away, for there was a strange rustling in the bushes."*

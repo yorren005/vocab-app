@@ -5,13 +5,6 @@ status: unread
 ---
 # rastafari
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (jamaica) a black youth subculture and religious movement that arose in the ghettos of kingston, jamaica, in the 1950s; males grow hair in long dreadlocks and wear woolen caps; use marijuana and listen to reggae music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (jamaica) a black youth subculture and religious movement that arose in the ghettos of kingston, jamaica, in the 1950s; males grow hair in long dreadlocks and wear woolen caps; use marijuana and listen to reggae music.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rastafari designates (jamaica) a black youth subculture and religious movement that arose in the ghettos of kingston, jamaica, in the 1950s; males grow hair in long dreadlocks and wear woolen caps; use marijuana and listen to reggae music."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (jamaica) a black youth subculture and religious movement that arose in the ghettos of kingston, jamaica, in the 1950s; males grow hair in long dreadlocks and wear woolen caps; use marijuana and listen to reggae music.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (jamaica) a black youth subculture and religious movement that arose in the ghettos of kingston, jamaica, in the 1950s; males grow hair in long dreadlocks and wear woolen caps; use marijuana and listen to reggae music.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rastafari designates (jamaica) a black youth subculture and religious movement that arose in the ghettos of kingston, jamaica, in the 1950s; males grow hair in long dreadlocks and wear woolen caps; use marijuana and listen to reggae music."*

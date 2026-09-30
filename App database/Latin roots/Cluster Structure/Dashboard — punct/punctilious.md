@@ -5,15 +5,6 @@ status: unread
 ---
 # punctilious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by precise accordance with details.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by precise accordance with details.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Though not the most ardent of lovers, he was one of the most punctilious of men, and appeared earnestly solicitous that his mission should be speedily and courteously executed."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And tell me, please—I’ve been meaning to ask—how is he behaving himself, and in general...” “As far as the service goes he is quite punctilious, your excellency; but his character...” said Timókhin."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He is an honest and very punctilious German.” “And they say he’s a skillful commander,” rejoined Pierre."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by precise accordance with details.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by precise accordance with details.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Though not the most ardent of lovers, he was one of the most punctilious of men, and appeared earnestly solicitous that his mission should be speedily and courteously executed."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And tell me, please—I’ve been meaning to ask—how is he behaving himself, and in general...” “As far as the service goes he is quite punctilious, your excellency; but his character...” said Timókhin."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He is an honest and very punctilious German.” “And they say he’s a skillful commander,” rejoined Pierre."*

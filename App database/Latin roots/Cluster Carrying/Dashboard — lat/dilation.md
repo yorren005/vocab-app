@@ -5,13 +5,6 @@ status: unread
 ---
 # dilation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lengthy discussion (spoken or written) on a particular topic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of expanding an aperture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"The resisting power, those natural dilations of the youthful spirit, which circumstances cannot straiten--with us are long since passed away."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lengthy discussion (spoken or written) on a particular topic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of expanding an aperture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"The resisting power, those natural dilations of the youthful spirit, which circumstances cannot straiten--with us are long since passed away."*

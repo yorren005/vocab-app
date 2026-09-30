@@ -5,15 +5,6 @@ status: unread
 ---
 # generalize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw from specific cases for more general cases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak or write in generalities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"A man just can't generalize the creatures."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"It is only when they generalize too confidently that they are in danger of misleading us; for all expositions of the art and practice of poetry must necessarily be incomplete."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"We may almost venture to generalize our statement further, and to assert that no writer since Shakespeare has left us so true a picture of the British nation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw from specific cases for more general cases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak or write in generalities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"A man just can't generalize the creatures."*
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"It is only when they generalize too confidently that they are in danger of misleading us; for all expositions of the art and practice of poetry must necessarily be incomplete."*
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"We may almost venture to generalize our statement further, and to assert that no writer since Shakespeare has left us so true a picture of the British nation."*

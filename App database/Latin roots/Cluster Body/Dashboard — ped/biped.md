@@ -5,15 +5,6 @@ status: unread
 ---
 # biped
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal with two feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having two feet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I am that man, the sum of him, the all of him, the hairless biped who struggled upward from the slime and created love and law out of the anarchy of fecund life that screamed and squalled in the jungle."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"In one case that I now recall, the race was nip and tuck between man and bison for over an hour, and the biped was finally enabled to save his life only by leaving the saddle and swinging into a tree!"*
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"Henig sprang at the hairless biped who had the weapon, clawing the ugly, white face."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal with two feet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having two feet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I am that man, the sum of him, the all of him, the hairless biped who struggled upward from the slime and created love and law out of the anarchy of fecund life that screamed and squalled in the jungle."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"In one case that I now recall, the race was nip and tuck between man and bison for over an hour, and the biped was finally enabled to save his life only by leaving the saddle and swinging into a tree!"*
+> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"Henig sprang at the hairless biped who had the weapon, clawing the ugly, white face."*

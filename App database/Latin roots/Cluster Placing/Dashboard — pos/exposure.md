@@ -5,15 +5,6 @@ status: unread
 ---
 # exposure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vulnerability to the elements; to the action of heat or cold or wind or rain;  or.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of subjecting someone to an influencing experience.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look to the lady:— [_Lady Macbeth is carried out._] And when we have our naked frailties hid, That suffer in exposure, let us meet, And question this most bloody piece of work To know it further."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You have prepared me for my exposure, and I thank you for that too."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby’s full exposure and a matrimonial separation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vulnerability to the elements; to the action of heat or cold or wind or rain;  or.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of subjecting someone to an influencing experience.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look to the lady:— [_Lady Macbeth is carried out._] And when we have our naked frailties hid, That suffer in exposure, let us meet, And question this most bloody piece of work To know it further."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You have prepared me for my exposure, and I thank you for that too."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby’s full exposure and a matrimonial separation."*

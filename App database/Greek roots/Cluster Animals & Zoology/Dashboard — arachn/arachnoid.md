@@ -5,15 +5,6 @@ status: unread
 ---
 # arachnoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a thin membrane of the brain and spinal cord that lies between the dura mater and the pia mater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with or composed of soft loose hairs or fibers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SPHÆROTHECA, _Lév._ Mycelium arachnoid; perithecia globose, containing a single globose sporangium; appendages numerous, floccose.—_Berk."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Common. (Plate XI. figs. 225-228.) MICROSPHÆRIA, _Lév._ _Mycelium_ arachnoid; appendages straight, dichotomous; branchlets swelling at the tip, or filiform.—_Berk."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"ERYSIPHE, _Hedw._ Mycelium arachnoid; appendages floccose, simple or irregularly branched.—_Berk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a thin membrane of the brain and spinal cord that lies between the dura mater and the pia mater.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered with or composed of soft loose hairs or fibers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SPHÆROTHECA, _Lév._ Mycelium arachnoid; perithecia globose, containing a single globose sporangium; appendages numerous, floccose.—_Berk."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Common. (Plate XI. figs. 225-228.) MICROSPHÆRIA, _Lév._ _Mycelium_ arachnoid; appendages straight, dichotomous; branchlets swelling at the tip, or filiform.—_Berk."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"ERYSIPHE, _Hedw._ Mycelium arachnoid; appendages floccose, simple or irregularly branched.—_Berk."*

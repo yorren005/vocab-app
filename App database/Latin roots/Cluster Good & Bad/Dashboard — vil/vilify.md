@@ -5,15 +5,6 @@ status: unread
 ---
 # vilify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spread negative information about.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread negative information about.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The former found it easier to exterminate than to civilize; the latter to vilify than to discriminate."*
-> - 📜 **Effie Afton (*Eventide*):** *"I've never been able to conquer my aversion toward him, since he vilified Annie's character, and caused her flight," said she, wondering at her father's question."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Their Maker’s image, answered Michael, then Forsook them, when themselves they vilified To serve ungoverned Appetite; and took His image whom they served, a brutish vice, Inductive mainly to the sin of Eve."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spread negative information about.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread negative information about.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The former found it easier to exterminate than to civilize; the latter to vilify than to discriminate."*
+> - 📜 **Effie Afton (*Eventide*):** *"I've never been able to conquer my aversion toward him, since he vilified Annie's character, and caused her flight," said she, wondering at her father's question."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Their Maker’s image, answered Michael, then Forsook them, when themselves they vilified To serve ungoverned Appetite; and took His image whom they served, a brutish vice, Inductive mainly to the sin of Eve."*

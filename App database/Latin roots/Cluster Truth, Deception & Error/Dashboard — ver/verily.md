@@ -5,15 +5,6 @@ status: unread
 ---
 # verily
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In truth; certainly; ; - ps 37:3.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In truth; certainly; ; - ps 37:3.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I verily did think That her old gloves were on, but ’twas her hands."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Verily, I do not jest with you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, verily and in truth you shall take it; or I have another leek in my pocket, which you shall eat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In truth; certainly; ; - ps 37:3.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In truth; certainly; ; - ps 37:3.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I verily did think That her old gloves were on, but ’twas her hands."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Verily, I do not jest with you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, verily and in truth you shall take it; or I have another leek in my pocket, which you shall eat."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # putty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dough-like mixture of whiting and boiled linseed oil; used especially to patch woodwork or secure panes of glass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apply putty in order to fix or fill.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Marso Ed'ard allus tole me be keerful ob dem, and de roads am putty bad sence de big storm." Zoe glanced at her watch as they entered the village."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Ya'as, I'll dress yo' up fine, Miss Gracie, and make yo' look putty as a pink," she said, beginning her task."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"His lip had fallen, his eyes were protruding, his skin the colour of putty, and he glared at the envelope which he still held in his trembling hand, ‘K."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dough-like mixture of whiting and boiled linseed oil; used especially to patch woodwork or secure panes of glass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apply putty in order to fix or fill.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Marso Ed'ard allus tole me be keerful ob dem, and de roads am putty bad sence de big storm." Zoe glanced at her watch as they entered the village."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Ya'as, I'll dress yo' up fine, Miss Gracie, and make yo' look putty as a pink," she said, beginning her task."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"His lip had fallen, his eyes were protruding, his skin the colour of putty, and he glared at the envelope which he still held in his trembling hand, ‘K."*

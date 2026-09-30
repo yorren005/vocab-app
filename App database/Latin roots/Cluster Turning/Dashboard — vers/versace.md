@@ -5,13 +5,6 @@ status: unread
 ---
 # versace
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian fashion designer (1946-1997).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian fashion designer (1946-1997).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, versace designates italian fashion designer (1946-1997)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian fashion designer (1946-1997).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian fashion designer (1946-1997).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, versace designates italian fashion designer (1946-1997)."*

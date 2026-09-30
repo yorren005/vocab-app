@@ -5,15 +5,6 @@ status: unread
 ---
 # analyze
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider in detail and subject to an analysis in order to discover essential features or meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a mathematical, chemical, or grammatical analysis of; break down into components or essential features.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"They could not analyze wherein lay the charm which pervaded her whole personality."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was only stupidly awake for the first moments and did nothing except to try to analyze and identify the various noises that went to compose the blast that continued without let up."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Do you never analyze your own behaviour?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider in detail and subject to an analysis in order to discover essential features or meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a mathematical, chemical, or grammatical analysis of; break down into components or essential features.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"They could not analyze wherein lay the charm which pervaded her whole personality."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was only stupidly awake for the first moments and did nothing except to try to analyze and identify the various noises that went to compose the blast that continued without let up."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Do you never analyze your own behaviour?"*

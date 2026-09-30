@@ -5,15 +5,6 @@ status: unread
 ---
 # deceive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be false to; be dishonest with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause someone to believe an untruth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For having traffic with thyself alone, Thou of thyself thy sweet self dost deceive, Then how when nature calls thee to be gone, What acceptable audit canst thou leave?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The king’s disease,—my project may deceive me, But my intents are fix’d, and will not leave me. [_Exit._] SCENE II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see two husbands, or mine eyes deceive me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be false to; be dishonest with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause someone to believe an untruth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For having traffic with thyself alone, Thou of thyself thy sweet self dost deceive, Then how when nature calls thee to be gone, What acceptable audit canst thou leave?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The king’s disease,—my project may deceive me, But my intents are fix’d, and will not leave me. [_Exit._] SCENE II."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see two husbands, or mine eyes deceive me."*

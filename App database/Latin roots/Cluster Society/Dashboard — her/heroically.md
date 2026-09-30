@@ -5,15 +5,6 @@ status: unread
 ---
 # heroically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a heroic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a heroic manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I did not take you up—surely I did not!” she answered as heroically as she could."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She is colouring up,” continued Tess heroically."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Hour is ripe to recall unnumbered tribulations, sacrifices heroically endured by the dawn-breakers, culminating in Bahá'u'lláh's afflictive imprisonment in Síyáh _Ch_ál, Centennial of which is now approaching."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a heroic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a heroic manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I did not take you up—surely I did not!” she answered as heroically as she could."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She is colouring up,” continued Tess heroically."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Hour is ripe to recall unnumbered tribulations, sacrifices heroically endured by the dawn-breakers, culminating in Bahá'u'lláh's afflictive imprisonment in Síyáh _Ch_ál, Centennial of which is now approaching."*

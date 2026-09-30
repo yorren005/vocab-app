@@ -5,15 +5,6 @@ status: unread
 ---
 # reconstructed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reassemble mentally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Build again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Gradually the events of the preceding night crept with silent, blood-stained feet into his brain and reconstructed themselves there with terrible distinctness."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Brad mentally reconstructed their route before Cordy's challenge."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"With this object his staff was gradually reconstructed and its real strength removed and transferred to the Emperor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reassemble mentally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Build again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Gradually the events of the preceding night crept with silent, blood-stained feet into his brain and reconstructed themselves there with terrible distinctness."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Brad mentally reconstructed their route before Cordy's challenge."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"With this object his staff was gradually reconstructed and its real strength removed and transferred to the Emperor."*

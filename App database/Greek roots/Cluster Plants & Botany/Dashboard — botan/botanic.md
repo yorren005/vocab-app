@@ -5,15 +5,6 @@ status: unread
 ---
 # botanic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A garden often with greenhouses for the culture, study, and exhibition of special plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A garden often with greenhouses for the culture, study, and exhibition of special plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The Botanic Gardens are just over there."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"COOKE, AUTHOR OF “A PLAIN AND EASY ACCOUNT OF BRITISH FUNGI,” “INDEX FUNGORUM BRITANNICORUM,” “A MANUAL OF BOTANIC TERMS,” “A MANUAL OF STRUCTURAL BOTANY,” ETC."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Where the labour of man appears to decay, nature has put forth her vigour and beauty, and transformed those roofless walls into a wild botanic garden."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A garden often with greenhouses for the culture, study, and exhibition of special plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A garden often with greenhouses for the culture, study, and exhibition of special plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"The Botanic Gardens are just over there."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"COOKE, AUTHOR OF “A PLAIN AND EASY ACCOUNT OF BRITISH FUNGI,” “INDEX FUNGORUM BRITANNICORUM,” “A MANUAL OF BOTANIC TERMS,” “A MANUAL OF STRUCTURAL BOTANY,” ETC."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Where the labour of man appears to decay, nature has put forth her vigour and beauty, and transformed those roofless walls into a wild botanic garden."*

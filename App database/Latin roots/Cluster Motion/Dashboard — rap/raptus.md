@@ -5,13 +5,6 @@ status: unread
 ---
 # raptus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden occurrence (or recurrence) of a disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of being carried away by overwhelming emotion; - charles dickens.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raptus designates a sudden occurrence (or recurrence) of a disease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden occurrence (or recurrence) of a disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of being carried away by overwhelming emotion; - charles dickens.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raptus designates a sudden occurrence (or recurrence) of a disease."*

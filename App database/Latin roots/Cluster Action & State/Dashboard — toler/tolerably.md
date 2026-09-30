@@ -5,15 +5,6 @@ status: unread
 ---
 # tolerably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an acceptable (but not outstanding) manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an acceptable (but not outstanding) manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"They enable Allegory, though it has cheeks like peaches, and knees like bunches of blossoms, and rosy swellings for calves to its legs and muscles to its arms, to look tolerably cool to-night."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is not there, but his two old-fashioned candlesticks are, and the room is tolerably light."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Being in the law, I have learnt the habit of not committing myself in writing, and therefore I did not mention to your ladyship the name of the firm with which I am connected and in which my standing—and I may add income—is tolerably good."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an acceptable (but not outstanding) manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an acceptable (but not outstanding) manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"They enable Allegory, though it has cheeks like peaches, and knees like bunches of blossoms, and rosy swellings for calves to its legs and muscles to its arms, to look tolerably cool to-night."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is not there, but his two old-fashioned candlesticks are, and the room is tolerably light."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Being in the law, I have learnt the habit of not committing myself in writing, and therefore I did not mention to your ladyship the name of the firm with which I am connected and in which my standing—and I may add income—is tolerably good."*

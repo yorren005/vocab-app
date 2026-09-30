@@ -5,13 +5,6 @@ status: unread
 ---
 # pronate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn the forearm or the hand so that the palm is directed downwards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn the forearm or the hand so that the palm is directed downwards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pronate designates turn the forearm or the hand so that the palm is directed downwards."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn the forearm or the hand so that the palm is directed downwards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn the forearm or the hand so that the palm is directed downwards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pronate designates turn the forearm or the hand so that the palm is directed downwards."*

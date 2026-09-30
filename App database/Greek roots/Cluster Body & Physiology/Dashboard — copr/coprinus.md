@@ -5,13 +5,6 @@ status: unread
 ---
 # coprinus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of black-spotted agarics in which the cap breaks down at maturity into an inky fluid; sometimes placed in its own family coprinaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of black-spotted agarics in which the cap breaks down at maturity into an inky fluid; sometimes placed in its own family coprinaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coprinus designates genus of black-spotted agarics in which the cap breaks down at maturity into an inky fluid; sometimes placed in its own family coprinaceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of black-spotted agarics in which the cap breaks down at maturity into an inky fluid; sometimes placed in its own family coprinaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of black-spotted agarics in which the cap breaks down at maturity into an inky fluid; sometimes placed in its own family coprinaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coprinus designates genus of black-spotted agarics in which the cap breaks down at maturity into an inky fluid; sometimes placed in its own family coprinaceae."*

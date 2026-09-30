@@ -5,13 +5,6 @@ status: unread
 ---
 # underachievement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Poorer than expected performance (poorer than might have been predicted from intelligence tests).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Poorer than expected performance (poorer than might have been predicted from intelligence tests).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underachievement designates poorer than expected performance (poorer than might have been predicted from intelligence tests)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Poorer than expected performance (poorer than might have been predicted from intelligence tests).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Poorer than expected performance (poorer than might have been predicted from intelligence tests).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underachievement designates poorer than expected performance (poorer than might have been predicted from intelligence tests)."*

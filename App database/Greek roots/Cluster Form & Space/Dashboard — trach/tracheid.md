@@ -5,13 +5,6 @@ status: unread
 ---
 # tracheid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Long tubular cell peculiar to xylem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Long tubular cell peculiar to xylem.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tracheid designates long tubular cell peculiar to xylem."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Long tubular cell peculiar to xylem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Long tubular cell peculiar to xylem.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tracheid designates long tubular cell peculiar to xylem."*

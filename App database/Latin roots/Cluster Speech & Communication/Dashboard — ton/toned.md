@@ -5,15 +5,6 @@ status: unread
 ---
 # toned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Utter monotonously and repetitively and rhythmically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vary the pitch of one's speech.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But I rather liked him.” “Do you now?” “Of course not—what footsteps are those I hear?” Liddy looked from a back window into the courtyard behind, which was now getting low-toned and dim with the earliest films of night."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I’m sure your face don’t praise your mistress’s table, Joseph.” “I’ve had a very pale companion for the last four miles,” said Joseph, indulging in a shudder toned down by resignation."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My every mode of action, heat of passion, flicker of thought is shaded, toned, infinitesimally shaded and toned, by that vast array of other selves that preceded me and went into the making of me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Utter monotonously and repetitively and rhythmically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vary the pitch of one's speech.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But I rather liked him.” “Do you now?” “Of course not—what footsteps are those I hear?” Liddy looked from a back window into the courtyard behind, which was now getting low-toned and dim with the earliest films of night."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I’m sure your face don’t praise your mistress’s table, Joseph.” “I’ve had a very pale companion for the last four miles,” said Joseph, indulging in a shudder toned down by resignation."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My every mode of action, heat of passion, flicker of thought is shaded, toned, infinitesimally shaded and toned, by that vast array of other selves that preceded me and went into the making of me."*

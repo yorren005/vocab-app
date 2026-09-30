@@ -5,13 +5,6 @@ status: unread
 ---
 # autos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Automobile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ceremony for pronouncing judgment by the Inquisition which was followed by the execution of sentence by secular authorities; broadly : the burning of a heretic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"From miles around, the autos drive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Automobile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ceremony for pronouncing judgment by the Inquisition which was followed by the execution of sentence by secular authorities; broadly : the burning of a heretic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"From miles around, the autos drive."*

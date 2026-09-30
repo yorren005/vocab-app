@@ -5,15 +5,6 @@ status: unread
 ---
 # theocentric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin theo within the domain of Greek-Latin Hybrid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of theo in systematic terminology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"If it is impossible to serve God and mammon, truth and God go together in one allegiance; and a non-Theocentric element in a man's thought will be fatal sooner or later to any aptitude he has by nature for God and truth."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is Theocentric, positive, active rather than passive--not a state, but a relation and a force."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"A thing of price is man," wrote Synesius about 410 A.D., "because for him Christ died." The two things go together--Jesus' death and Jesus' Theocentric thought of man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin theo within the domain of Greek-Latin Hybrid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of theo in systematic terminology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"If it is impossible to serve God and mammon, truth and God go together in one allegiance; and a non-Theocentric element in a man's thought will be fatal sooner or later to any aptitude he has by nature for God and truth."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is Theocentric, positive, active rather than passive--not a state, but a relation and a force."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"A thing of price is man," wrote Synesius about 410 A.D., "because for him Christ died." The two things go together--Jesus' death and Jesus' Theocentric thought of man."*

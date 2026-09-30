@@ -5,14 +5,6 @@ status: unread
 ---
 # chromatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or giving all the tones of the chromatic scale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by frequent use of accidentals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The light from the water-bottle was merely engaged in a chromatic problem."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But suddenly a storm came on, chromatic scales and diminished sevenths were heard in the orchestra, everyone ran off, again dragging one of their number away, and the curtain dropped."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or giving all the tones of the chromatic scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by frequent use of accidentals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The light from the water-bottle was merely engaged in a chromatic problem."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But suddenly a storm came on, chromatic scales and diminished sevenths were heard in the orchestra, everyone ran off, again dragging one of their number away, and the curtain dropped."*

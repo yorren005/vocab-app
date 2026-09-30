@@ -5,15 +5,6 @@ status: unread
 ---
 # secure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get by special effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be firmly attached.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sons, We’ll higher to the mountains; there secure us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HORATIO. [_Within._] Heaven secure him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We may do it as secure as sleep."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Get by special effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be firmly attached.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sons, We’ll higher to the mountains; there secure us."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HORATIO. [_Within._] Heaven secure him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We may do it as secure as sleep."*

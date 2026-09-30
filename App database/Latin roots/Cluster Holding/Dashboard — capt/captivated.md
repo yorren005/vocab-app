@@ -5,15 +5,6 @@ status: unread
 ---
 # captivated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract; cause to be enamored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strongly attracted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wert immured, restrained, captivated, bound."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I love him.” The engaging frankness with which he made this declaration really had a disinterested appearance and captivated my guardian, if not, for the moment, Ada too."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Not that my fancy was much captivated by the idea of long chimneys and clouds of smoke—“but,” I argued, “Thornfield will, probably, be a good way from the town.” Here the socket of the candle dropped, and the wick went out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract; cause to be enamored.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strongly attracted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wert immured, restrained, captivated, bound."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I love him.” The engaging frankness with which he made this declaration really had a disinterested appearance and captivated my guardian, if not, for the moment, Ada too."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Not that my fancy was much captivated by the idea of long chimneys and clouds of smoke—“but,” I argued, “Thornfield will, probably, be a good way from the town.” Here the socket of the candle dropped, and the wick went out."*

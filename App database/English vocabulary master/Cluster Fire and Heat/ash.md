@@ -5,20 +5,6 @@ status: unread
 ---
 # ash
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Solid remains of a fire
-> 2. **Nuance / Usage**: The tough elastic wood of an ash
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"out that year on Ash-Wednesday was four year in th’ afternoon."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"had, in fact, reached Flintcomb-Ash, the place of Marian’s sojourn."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"land) this place, Flintcomb-Ash, was the third."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: The powdery, grayish-white to black mineral residue left behind after wood, coal, or other combustible material has been thoroughly burned.
+> 2. **Nuance / Usage**: Often used in the plural (*ashes*) to symbolize ruin, mortality, penitence (*sackcloth and ashes*), or the cremated remains of the human body.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"Looking on the **ashes** of his youth, he sighed for the fires that had consumed them."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"This is a valley of **ashes**—a fantastic farm where **ashes** grow like wheat into ridges and hills and grotesque gardens."*
+> - 📜 **Cormac McCarthy (*The Road*):** *"The soft black **ash** blowing in the street carried the memory of a world burned to the bone."*

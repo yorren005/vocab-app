@@ -5,15 +5,6 @@ status: unread
 ---
 # titular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a legal title to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or bearing a title signifying status or function.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"Follow my lead." He reviewed his information on Dovenilid titular systems while he touched the switch."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Many other Greek democracies had titular kings, whose duties, so far as they are known, seem to have been priestly, and to have centered round the Common Hearth of the state."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Some Greek states had several of these titular kings, who held office simultaneously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a legal title to something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or bearing a title signifying status or function.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Algis Budrys (*Citadel*):** *"Follow my lead." He reviewed his information on Dovenilid titular systems while he touched the switch."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Many other Greek democracies had titular kings, whose duties, so far as they are known, seem to have been priestly, and to have centered round the Common Hearth of the state."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Some Greek states had several of these titular kings, who held office simultaneously."*

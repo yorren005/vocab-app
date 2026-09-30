@@ -5,15 +5,6 @@ status: unread
 ---
 # missionary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who attempts to convert others to a particular doctrine or program.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone sent on a mission--especially a religious or charitable mission to a foreign country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Over their heads hung the picture of Angel’s sister, the eldest of the family, sixteen years his senior, who had married a missionary and gone out to Africa."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A knowledge of his career having come to the ears of Mr Clare, when he was in that part of the country preaching missionary sermons, he boldly took occasion to speak to the delinquent on his spiritual state."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He came to Trantridge two or three years ago to preach on behalf of some missionary society; and I, wretched fellow that I was, insulted him when, in his disinterestedness, he tried to reason with me and show me the way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who attempts to convert others to a particular doctrine or program.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone sent on a mission--especially a religious or charitable mission to a foreign country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Over their heads hung the picture of Angel’s sister, the eldest of the family, sixteen years his senior, who had married a missionary and gone out to Africa."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A knowledge of his career having come to the ears of Mr Clare, when he was in that part of the country preaching missionary sermons, he boldly took occasion to speak to the delinquent on his spiritual state."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He came to Trantridge two or three years ago to preach on behalf of some missionary society; and I, wretched fellow that I was, insulted him when, in his disinterestedness, he tried to reason with me and show me the way."*

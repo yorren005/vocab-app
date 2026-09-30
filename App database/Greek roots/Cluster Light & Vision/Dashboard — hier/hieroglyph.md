@@ -5,15 +5,6 @@ status: unread
 ---
 # hieroglyph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A character used in a system of hieroglyphic writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that resembles a hieroglyph.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"When the gnarl'd, knotted trunks Eucalyptian Seem carved, like weird columns Egyptian, With curious device--quaint inscription, And hieroglyph strange."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A hieroglyph,” said the Rhetor, “is an emblem of something not cognizable by the senses but which possesses qualities resembling those of the symbol.” Pierre knew very well what a hieroglyph was, but dared not speak."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Did not an immortal physicist and interpreter of hieroglyphs write detestable verses?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A character used in a system of hieroglyphic writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that resembles a hieroglyph.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"When the gnarl'd, knotted trunks Eucalyptian Seem carved, like weird columns Egyptian, With curious device--quaint inscription, And hieroglyph strange."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A hieroglyph,” said the Rhetor, “is an emblem of something not cognizable by the senses but which possesses qualities resembling those of the symbol.” Pierre knew very well what a hieroglyph was, but dared not speak."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Did not an immortal physicist and interpreter of hieroglyphs write detestable verses?"*

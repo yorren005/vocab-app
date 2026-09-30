@@ -5,15 +5,6 @@ status: unread
 ---
 # torrid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by intense emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emotionally charged and vigorously energetic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I lie in a shady place like this and think of adventurous spirits going to the North Pole or penetrating to the heart of the Torrid Zone with admiration."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet is an ex-artilleryman, tall and upright, with shaggy eyebrows and whiskers like the fibres of a coco-nut, not a hair upon his head, and a torrid complexion."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The ashes under the grate were lit by the fire vertically, like a torrid waste."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by intense emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emotionally charged and vigorously energetic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I lie in a shady place like this and think of adventurous spirits going to the North Pole or penetrating to the heart of the Torrid Zone with admiration."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet is an ex-artilleryman, tall and upright, with shaggy eyebrows and whiskers like the fibres of a coco-nut, not a hair upon his head, and a torrid complexion."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The ashes under the grate were lit by the fire vertically, like a torrid waste."*

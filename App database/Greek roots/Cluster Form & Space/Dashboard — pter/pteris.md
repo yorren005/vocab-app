@@ -5,13 +5,6 @@ status: unread
 ---
 # pteris
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of terrestrial ferns of tropics and subtropics; sometimes placed in family polypodiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of terrestrial ferns of tropics and subtropics; sometimes placed in family polypodiaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteris designates large genus of terrestrial ferns of tropics and subtropics; sometimes placed in family polypodiaceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of terrestrial ferns of tropics and subtropics; sometimes placed in family polypodiaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of terrestrial ferns of tropics and subtropics; sometimes placed in family polypodiaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteris designates large genus of terrestrial ferns of tropics and subtropics; sometimes placed in family polypodiaceae."*

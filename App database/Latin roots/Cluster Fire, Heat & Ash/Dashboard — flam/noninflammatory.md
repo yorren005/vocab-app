@@ -5,13 +5,6 @@ status: unread
 ---
 # noninflammatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not inflammatory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not inflammatory.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noninflammatory designates not inflammatory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not inflammatory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not inflammatory.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noninflammatory designates not inflammatory."*

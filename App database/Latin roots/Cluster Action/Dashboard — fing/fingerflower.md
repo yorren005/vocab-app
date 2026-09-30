@@ -5,13 +5,6 @@ status: unread
 ---
 # fingerflower
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall leafy european biennial or perennial having spectacular clusters of large tubular pink-purple flowers; leaves yield drug digitalis and are poisonous to livestock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall leafy european biennial or perennial having spectacular clusters of large tubular pink-purple flowers; leaves yield drug digitalis and are poisonous to livestock.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingerflower designates tall leafy european biennial or perennial having spectacular clusters of large tubular pink-purple flowers; leaves yield drug digitalis and are poisonous to livestock."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall leafy european biennial or perennial having spectacular clusters of large tubular pink-purple flowers; leaves yield drug digitalis and are poisonous to livestock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall leafy european biennial or perennial having spectacular clusters of large tubular pink-purple flowers; leaves yield drug digitalis and are poisonous to livestock.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingerflower designates tall leafy european biennial or perennial having spectacular clusters of large tubular pink-purple flowers; leaves yield drug digitalis and are poisonous to livestock."*

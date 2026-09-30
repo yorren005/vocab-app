@@ -5,13 +5,6 @@ status: unread
 ---
 # jury-rigged
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Done or made using whatever is available.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done or made using whatever is available.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jury-rigged designates done or made using whatever is available."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Done or made using whatever is available.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done or made using whatever is available.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jury-rigged designates done or made using whatever is available."*

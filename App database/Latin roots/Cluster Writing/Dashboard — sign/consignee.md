@@ -5,14 +5,6 @@ status: unread
 ---
 # consignee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person to whom merchandise is delivered over.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person to whom merchandise is delivered over.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Harker has got the letters between the consignee of the boxes at Whitby and the carriers in London who took charge of them."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"General Jackson drew upon the consignee of his cotton crop in New Orleans for six thousand dollars to enable him to leave the seat of government without leaving creditors behind him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The person to whom merchandise is delivered over.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person to whom merchandise is delivered over.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"Harker has got the letters between the consignee of the boxes at Whitby and the carriers in London who took charge of them."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"General Jackson drew upon the consignee of his cotton crop in New Orleans for six thousand dollars to enable him to leave the seat of government without leaving creditors behind him."*

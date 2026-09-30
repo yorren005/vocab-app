@@ -5,13 +5,6 @@ status: unread
 ---
 # nonspecific
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not caused by a specific agent; used also of staining in making microscope slides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not caused by a specific agent; used also of staining in making microscope slides.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonspecific designates not caused by a specific agent; used also of staining in making microscope slides."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not caused by a specific agent; used also of staining in making microscope slides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not caused by a specific agent; used also of staining in making microscope slides.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonspecific designates not caused by a specific agent; used also of staining in making microscope slides."*

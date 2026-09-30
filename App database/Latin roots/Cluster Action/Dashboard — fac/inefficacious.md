@@ -5,14 +5,6 @@ status: unread
 ---
 # inefficacious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking the power to produce a desired effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking the power to produce a desired effect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The sword is the braver way, although all ways are equally inefficacious."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It is my belief, however, that had I attempted a different order of composition, my faculties would not have been found so pointless and inefficacious."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking the power to produce a desired effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking the power to produce a desired effect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The sword is the braver way, although all ways are equally inefficacious."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It is my belief, however, that had I attempted a different order of composition, my faculties would not have been found so pointless and inefficacious."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # poesy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A poem or body of poems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poem or body of poems.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These offices, so oft as thou wilt look, Shall profit thee, and much enrich thy book. 78 So oft have I invoked thee for my muse, And found such fair assistance in my verse, As every alien pen hath got my use, And under thee their poesy disperse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me supervise the canzonet. [_He takes the letter_.] Here are only numbers ratified, but, for the elegancy, facility, and golden cadence of poesy, _caret_."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our poesy is as a gum which oozes From whence ’tis nourished."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poem or body of poems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poem or body of poems.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These offices, so oft as thou wilt look, Shall profit thee, and much enrich thy book. 78 So oft have I invoked thee for my muse, And found such fair assistance in my verse, As every alien pen hath got my use, And under thee their poesy disperse."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me supervise the canzonet. [_He takes the letter_.] Here are only numbers ratified, but, for the elegancy, facility, and golden cadence of poesy, _caret_."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our poesy is as a gum which oozes From whence ’tis nourished."*

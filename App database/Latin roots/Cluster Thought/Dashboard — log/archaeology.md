@@ -5,15 +5,6 @@ status: unread
 ---
 # archaeology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of anthropology that studies prehistoric people and their cultures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of anthropology that studies prehistoric people and their cultures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Dalyell, _Darker Superstitions of Scotland_ (Edinburgh, 1834), pp. 140 _sq._; Daniel Wilson, _The Archaeology and Prehistoric Annals of Scotland_ (Edinburgh, 1851), pp. 303 _sqq._; Lieut.-Col."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Kroeber, "The Religion of the Indians of California," _University of California Publications in American Archaeology and Ethnology_, vol. iv."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Kroeber, "The Religion of the Indians of California," _University of California Publication in American Archaeology and Ethnology_, vol. iv."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of anthropology that studies prehistoric people and their cultures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of anthropology that studies prehistoric people and their cultures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Dalyell, _Darker Superstitions of Scotland_ (Edinburgh, 1834), pp. 140 _sq._; Daniel Wilson, _The Archaeology and Prehistoric Annals of Scotland_ (Edinburgh, 1851), pp. 303 _sqq._; Lieut.-Col."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Kroeber, "The Religion of the Indians of California," _University of California Publications in American Archaeology and Ethnology_, vol. iv."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Kroeber, "The Religion of the Indians of California," _University of California Publication in American Archaeology and Ethnology_, vol. iv."*

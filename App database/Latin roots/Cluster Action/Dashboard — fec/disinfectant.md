@@ -5,15 +5,6 @@ status: unread
 ---
 # disinfectant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent (as heat or radiation or a chemical) that destroys microorganisms that might carry disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preventing infection by inhibiting the growth or action of microorganisms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"According to the one theory the fire is a stimulant, according to the other it is a disinfectant; on the one view its virtue is positive, on the other it is negative."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"MANUALS OF HEALTH. _Fcap. 8vo, 128 pp., Limp Cloth, price 1s. each._ * * * * * AIR, WATER, AND DISINFECTANTS."*
-> - 📜 **James Joyce (*Ulysses*):** *"Living all the day among herbs, ointments, disinfectants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent (as heat or radiation or a chemical) that destroys microorganisms that might carry disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preventing infection by inhibiting the growth or action of microorganisms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"According to the one theory the fire is a stimulant, according to the other it is a disinfectant; on the one view its virtue is positive, on the other it is negative."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"MANUALS OF HEALTH. _Fcap. 8vo, 128 pp., Limp Cloth, price 1s. each._ * * * * * AIR, WATER, AND DISINFECTANTS."*
+> - 📜 **James Joyce (*Ulysses*):** *"Living all the day among herbs, ointments, disinfectants."*

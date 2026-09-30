@@ -5,13 +5,6 @@ status: unread
 ---
 # pachuco
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mexican-american teenager who belongs to a neighborhood gang and who dresses in showy clothes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mexican-american teenager who belongs to a neighborhood gang and who dresses in showy clothes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachuco designates a mexican-american teenager who belongs to a neighborhood gang and who dresses in showy clothes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mexican-american teenager who belongs to a neighborhood gang and who dresses in showy clothes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mexican-american teenager who belongs to a neighborhood gang and who dresses in showy clothes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachuco designates a mexican-american teenager who belongs to a neighborhood gang and who dresses in showy clothes."*

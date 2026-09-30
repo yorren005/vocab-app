@@ -5,15 +5,6 @@ status: unread
 ---
 # impend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be imminent or about to happen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be imminent or about to happen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Honeythunder began to impend, must have been highly gratifying to the feelings of that distinguished man."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"From a point on its left bank, and about half a mile down the river, the ruins assume a new character; and seeming to occupy a gentle eminence, impend over the river without the intervention of a single cottage to intercept the view."*
-> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"I was bound by a solemn promise which I had not yet fulfilled and dared not break, or if I did, what manifold miseries might not impend over me and my devoted family!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be imminent or about to happen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be imminent or about to happen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Honeythunder began to impend, must have been highly gratifying to the feelings of that distinguished man."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"From a point on its left bank, and about half a mile down the river, the ruins assume a new character; and seeming to occupy a gentle eminence, impend over the river without the intervention of a single cottage to intercept the view."*
+> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"I was bound by a solemn promise which I had not yet fulfilled and dared not break, or if I did, what manifold miseries might not impend over me and my devoted family!"*

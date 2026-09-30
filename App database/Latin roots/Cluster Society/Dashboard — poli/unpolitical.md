@@ -5,13 +5,6 @@ status: unread
 ---
 # unpolitical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Politically neutral.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Politically neutral.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As was well known to me, Rome did not interfere with the religious notions of its conquered peoples; but the Jews were for ever confusing the issues and giving a political cast to purely unpolitical events."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Politically neutral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Politically neutral.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As was well known to me, Rome did not interfere with the religious notions of its conquered peoples; but the Jews were for ever confusing the issues and giving a political cast to purely unpolitical events."*

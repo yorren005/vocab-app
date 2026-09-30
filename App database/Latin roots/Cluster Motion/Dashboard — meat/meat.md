@@ -5,15 +5,6 @@ status: unread
 ---
 # meat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The flesh of animals (including fishes and birds and snails) used as food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inner and usually edible part of a seed or grain or nut or fruit stone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think, sir, you can eat none of this homely meat."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, I will eat no meat; I’ll not drink, sir; If idle talk will once be necessary, I’ll not sleep neither."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou worm’s meat in respect of a good piece of flesh indeed!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The flesh of animals (including fishes and birds and snails) used as food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inner and usually edible part of a seed or grain or nut or fruit stone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think, sir, you can eat none of this homely meat."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, I will eat no meat; I’ll not drink, sir; If idle talk will once be necessary, I’ll not sleep neither."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou worm’s meat in respect of a good piece of flesh indeed!"*

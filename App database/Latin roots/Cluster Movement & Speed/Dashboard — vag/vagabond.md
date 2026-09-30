@@ -5,15 +5,6 @@ status: unread
 ---
 # vagabond
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anything that resembles a vagabond in having no fixed place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wanderer who has no established residence or visible means of support.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go to, sir; you were beaten in Italy for picking a kernel out of a pomegranate; you are a vagabond, and no true traveller."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This common body, Like to a vagabond flag upon the stream, Goes to and back, lackeying the varying tide, To rot itself with motion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O then, my father, Will you permit that I shall stand condemned A wandering vagabond, my rights and royalties Plucked from my arms perforce and given away To upstart unthrifts?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anything that resembles a vagabond in having no fixed place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wanderer who has no established residence or visible means of support.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go to, sir; you were beaten in Italy for picking a kernel out of a pomegranate; you are a vagabond, and no true traveller."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This common body, Like to a vagabond flag upon the stream, Goes to and back, lackeying the varying tide, To rot itself with motion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O then, my father, Will you permit that I shall stand condemned A wandering vagabond, my rights and royalties Plucked from my arms perforce and given away To upstart unthrifts?"*

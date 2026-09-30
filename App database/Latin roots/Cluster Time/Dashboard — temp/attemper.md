@@ -5,13 +5,6 @@ status: unread
 ---
 # attemper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Modify the temperature of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Modify the temperature of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attemper designates modify the temperature of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Modify the temperature of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Modify the temperature of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attemper designates modify the temperature of."*

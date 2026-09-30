@@ -5,15 +5,6 @@ status: unread
 ---
 # obligation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The social force that binds you to the courses of action demanded by that force; ; - john d.rockefeller jr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being obligated to do or pay something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I cannot think my sister in the least Would fail her obligation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and Ratolorum too; and a gentleman born, Master Parson, who writes himself “Armigero” in any bill, warrant, quittance, or obligation—“Armigero.” SHALLOW."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The sharpening lasted so long that at last I felt a kind of obligation on me to raise my eyes in order that I might break the spell under which he seemed to labour, of not being able to leave off."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The social force that binds you to the courses of action demanded by that force; ; - john d.rockefeller jr.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being obligated to do or pay something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I cannot think my sister in the least Would fail her obligation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and Ratolorum too; and a gentleman born, Master Parson, who writes himself “Armigero” in any bill, warrant, quittance, or obligation—“Armigero.” SHALLOW."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The sharpening lasted so long that at last I felt a kind of obligation on me to raise my eyes in order that I might break the spell under which he seemed to labour, of not being able to leave off."*

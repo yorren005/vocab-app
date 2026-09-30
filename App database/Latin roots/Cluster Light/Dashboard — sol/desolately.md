@@ -5,15 +5,6 @@ status: unread
 ---
 # desolately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In grief-stricken loneliness; without comforting circumstances or prospects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grief-stricken loneliness; without comforting circumstances or prospects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Ablethorpe was telling me about--about the council of--council of--whatever--it--was!" Harriet had got hold of a handkerchief by this time, and was sobbing most desolately into it."*
-> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"Desolately she wandered up the secret trail to Wildenai's bower."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The Doctor looked desolately round the room, shook his head, and answered, in a low voice, “Not at all.” “Now, as to the future,” hinted Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In grief-stricken loneliness; without comforting circumstances or prospects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grief-stricken loneliness; without comforting circumstances or prospects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Ablethorpe was telling me about--about the council of--council of--whatever--it--was!" Harriet had got hold of a handkerchief by this time, and was sobbing most desolately into it."*
+> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"Desolately she wandered up the secret trail to Wildenai's bower."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The Doctor looked desolately round the room, shook his head, and answered, in a low voice, “Not at all.” “Now, as to the future,” hinted Mr."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # murillo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spanish painter (1617-1682).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spanish painter (1617-1682).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Also pictures by Murillo, Rubens, Teniers, Titian, Vandyck, and others."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"You must have a "sunset nature" to appreciate a sunset, and you must be sanctified wholly to see in Christ a beauty and loveliness which no Murillo and no Raphael and no Del Sarto have yet put on canvas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spanish painter (1617-1682).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spanish painter (1617-1682).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Also pictures by Murillo, Rubens, Teniers, Titian, Vandyck, and others."*
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"You must have a "sunset nature" to appreciate a sunset, and you must be sanctified wholly to see in Christ a beauty and loveliness which no Murillo and no Raphael and no Del Sarto have yet put on canvas."*

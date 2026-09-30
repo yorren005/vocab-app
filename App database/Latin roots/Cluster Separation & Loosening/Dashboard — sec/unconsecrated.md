@@ -5,15 +5,6 @@ status: unread
 ---
 # unconsecrated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not holy because unconsecrated or impure or defiled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not holy because unconsecrated or impure or defiled.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The interest you cherish is lawless and unconsecrated."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Bororo are firmly persuaded that were any man to touch unconsecrated maize or meat, before the ceremony had been completed, he and his whole tribe would perish."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"And there the young officer was laid by his friend, in the unconsecrated corner of the garden, separated by a little hedge from the temples and towers and plantations of flowers and shrubs, under which the Roman Catholic dead repose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not holy because unconsecrated or impure or defiled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not holy because unconsecrated or impure or defiled.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The interest you cherish is lawless and unconsecrated."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Bororo are firmly persuaded that were any man to touch unconsecrated maize or meat, before the ceremony had been completed, he and his whole tribe would perish."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"And there the young officer was laid by his friend, in the unconsecrated corner of the garden, separated by a little hedge from the temples and towers and plantations of flowers and shrubs, under which the Roman Catholic dead repose."*

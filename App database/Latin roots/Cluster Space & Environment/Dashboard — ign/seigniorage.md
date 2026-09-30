@@ -5,15 +5,6 @@ status: unread
 ---
 # seigniorage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Charged by a government for coining bullion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Charged by a government for coining bullion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Seigniorage defined. § 1. #Origin of money#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The embossed design is merely to make the coins easily recognizable and difficult to counterfeit; and milled or lettered edges are to prevent clipping and otherwise abstracting metal from the coins. 10. #Seigniorage defined#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The prince, king, or emperor stamped his own device or portrait upon the coin; hence the term seigniorage from _seignior_ (meaning lord or ruler)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Charged by a government for coining bullion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Charged by a government for coining bullion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Seigniorage defined. § 1. #Origin of money#."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The embossed design is merely to make the coins easily recognizable and difficult to counterfeit; and milled or lettered edges are to prevent clipping and otherwise abstracting metal from the coins. 10. #Seigniorage defined#."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The prince, king, or emperor stamped his own device or portrait upon the coin; hence the term seigniorage from _seignior_ (meaning lord or ruler)."*

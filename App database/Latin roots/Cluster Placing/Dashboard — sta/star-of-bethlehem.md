@@ -5,13 +5,6 @@ status: unread
 ---
 # star-of-bethlehem
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several perennial plants of the genus ornithogalum native to the mediterranean and having star-shaped flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several perennial plants of the genus ornithogalum native to the mediterranean and having star-shaped flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, star-of-bethlehem designates any of several perennial plants of the genus ornithogalum native to the mediterranean and having star-shaped flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several perennial plants of the genus ornithogalum native to the mediterranean and having star-shaped flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several perennial plants of the genus ornithogalum native to the mediterranean and having star-shaped flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, star-of-bethlehem designates any of several perennial plants of the genus ornithogalum native to the mediterranean and having star-shaped flowers."*

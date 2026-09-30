@@ -5,15 +5,6 @@ status: unread
 ---
 # monologue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speech you make to yourself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long utterance by one person (especially one that prevents others from participating in the conversation).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I didn't expect this to be a monologue, by far."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I introduced myself as a Hawaiian-American, and soon found myself in full tide of talk, or rather of monologue."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The young rascal’s tendency lay towards monologue, and since it was his cue to be open-hearted, and very unsuspicious of being suspected, he talked with much freedom of himself, his pursuits, and his affairs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speech you make to yourself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long utterance by one person (especially one that prevents others from participating in the conversation).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I didn't expect this to be a monologue, by far."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I introduced myself as a Hawaiian-American, and soon found myself in full tide of talk, or rather of monologue."*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The young rascal’s tendency lay towards monologue, and since it was his cue to be open-hearted, and very unsuspicious of being suspected, he talked with much freedom of himself, his pursuits, and his affairs."*

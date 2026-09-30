@@ -5,13 +5,6 @@ status: unread
 ---
 # histamine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound C5H9N3 especially of mammalian tissues that causes dilation of capillaries, contraction of smooth muscle, and stimulation of gastric acid secretion, that is released during allergic reactions, and that is formed by decarboxylation of histidine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound C5H9N3 especially of mammalian tissues that causes dilation of capillaries, contraction of smooth muscle, and stimulation of gastric acid secretion, that is released during allergic reactions, and that is formed by decarboxylation of histidine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histamine designates a compound c5h9n3 especially of mammalian tissues that causes dilation of capillaries, contraction of smooth muscle, and stimulation of gastric acid secretion, that is released during allergic reactions, and that is formed by decarboxylation of histidine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound C5H9N3 especially of mammalian tissues that causes dilation of capillaries, contraction of smooth muscle, and stimulation of gastric acid secretion, that is released during allergic reactions, and that is formed by decarboxylation of histidine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound C5H9N3 especially of mammalian tissues that causes dilation of capillaries, contraction of smooth muscle, and stimulation of gastric acid secretion, that is released during allergic reactions, and that is formed by decarboxylation of histidine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, histamine designates a compound c5h9n3 especially of mammalian tissues that causes dilation of capillaries, contraction of smooth muscle, and stimulation of gastric acid secretion, that is released during allergic reactions, and that is formed by decarboxylation of histidine."*

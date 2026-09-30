@@ -5,15 +5,6 @@ status: unread
 ---
 # lustily
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a healthy manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a healthy manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not desire he should answer for me; and yet I determine to fight lustily for him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And you have rung it lustily, my lords; Somewhat too early for new-married ladies."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, gentlemen, Let’s tune, and to it lustily awhile."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a healthy manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a healthy manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not desire he should answer for me; and yet I determine to fight lustily for him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And you have rung it lustily, my lords; Somewhat too early for new-married ladies."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, gentlemen, Let’s tune, and to it lustily awhile."*

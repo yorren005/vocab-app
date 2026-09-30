@@ -5,13 +5,6 @@ status: unread
 ---
 # provisionally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Temporarily and conditionally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Temporarily and conditionally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Only once had he to consult a Greek lexicon for the meaning of a word; and then it turned out that the meaning he had assigned to it provisionally was the right one."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Temporarily and conditionally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Temporarily and conditionally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Only once had he to consult a Greek lexicon for the meaning of a word; and then it turned out that the meaning he had assigned to it provisionally was the right one."*

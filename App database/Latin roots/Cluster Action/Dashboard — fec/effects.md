@@ -5,15 +5,6 @@ status: unread
 ---
 # effects
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Property of a personal character that is portable but not used in business.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A phenomenon that follows and is caused by some previous phenomenon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That wishing well had not a body in’t Which might be felt, that we, the poorer born, Whose baser stars do shut us up in wishes, Might with effects of them follow our friends, And show what we alone must think, which never Returns us thanks."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar, thy thoughts Touch their effects in this."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will try the forces Of these thy compounds on such creatures as We count not worth the hanging (but none human) To try the vigour of them, and apply Allayments to their act, and by them gather Their several virtues and effects."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Property of a personal character that is portable but not used in business.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A phenomenon that follows and is caused by some previous phenomenon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That wishing well had not a body in’t Which might be felt, that we, the poorer born, Whose baser stars do shut us up in wishes, Might with effects of them follow our friends, And show what we alone must think, which never Returns us thanks."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar, thy thoughts Touch their effects in this."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will try the forces Of these thy compounds on such creatures as We count not worth the hanging (but none human) To try the vigour of them, and apply Allayments to their act, and by them gather Their several virtues and effects."*

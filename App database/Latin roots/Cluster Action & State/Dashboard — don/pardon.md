@@ -5,15 +5,6 @@ status: unread
 ---
 # pardon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of excusing a mistake or offense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A warrant granting release from punishment for an offense.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be where you list, your charter is so strong, That you yourself may privilage your time To what you will, to you it doth belong, Yourself to pardon of self-doing crime."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pardon, madam; The Count Rossillon cannot be my brother."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pardon, my lord [_kneeling_], for me and for my tidings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of excusing a mistake or offense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A warrant granting release from punishment for an offense.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be where you list, your charter is so strong, That you yourself may privilage your time To what you will, to you it doth belong, Yourself to pardon of self-doing crime."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pardon, madam; The Count Rossillon cannot be my brother."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pardon, my lord [_kneeling_], for me and for my tidings."*

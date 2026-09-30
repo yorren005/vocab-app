@@ -5,15 +5,6 @@ status: unread
 ---
 # intolerance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impatience with annoyances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unwillingness to recognize and respect differences in opinions or beliefs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Meanwhile it had been revealed to him that "intolerance" was the cause of all evil, and, in the same flash, that it could be destroyed by clear and simple reasoning."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"The spirit of intolerance those Puritans brought over here with them is what is taking our boy from us now."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Tyranny, intolerance, and bloodshed, wherever found, 94:15 arise from the belief that the infinite is formed after the pattern of mortal personality, passion, and impulse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impatience with annoyances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unwillingness to recognize and respect differences in opinions or beliefs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Meanwhile it had been revealed to him that "intolerance" was the cause of all evil, and, in the same flash, that it could be destroyed by clear and simple reasoning."*
+> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"The spirit of intolerance those Puritans brought over here with them is what is taking our boy from us now."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Tyranny, intolerance, and bloodshed, wherever found, 94:15 arise from the belief that the infinite is formed after the pattern of mortal personality, passion, and impulse."*

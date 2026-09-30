@@ -5,15 +5,6 @@ status: unread
 ---
 # geometry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of mathematics that deals with the measurement, properties, and relationships of points, lines, angles, surfaces, and solids; broadly : the study of properties of given elements that remain invariant under specified transformations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular type or system of geometry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"And can Geometry vend it in the Market?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He himself undertook his daughter’s education, and to develop these two cardinal virtues in her gave her lessons in algebra and geometry till she was twenty, and arranged her life so that her whole time was occupied."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"All right then, sit down.” He took the exercise book containing lessons in geometry written by himself and drew up a chair with his foot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of mathematics that deals with the measurement, properties, and relationships of points, lines, angles, surfaces, and solids; broadly : the study of properties of given elements that remain invariant under specified transformations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular type or system of geometry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"And can Geometry vend it in the Market?"*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He himself undertook his daughter’s education, and to develop these two cardinal virtues in her gave her lessons in algebra and geometry till she was twenty, and arranged her life so that her whole time was occupied."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"All right then, sit down.” He took the exercise book containing lessons in geometry written by himself and drew up a chair with his foot."*

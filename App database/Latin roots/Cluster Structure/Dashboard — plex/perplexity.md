@@ -5,15 +5,6 @@ status: unread
 ---
 # perplexity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trouble or confusion resulting from complexity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trouble or confusion resulting from complexity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, Master Doctor, in perplexity and doubtful dilemma."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby wistfully, and coughing behind his hand his cough of great perplexity and doubt, “really, that does seem a question."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn to the painted ceiling again, often in his perplexity changing the leg on which he rests."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Trouble or confusion resulting from complexity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trouble or confusion resulting from complexity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, Master Doctor, in perplexity and doubtful dilemma."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby wistfully, and coughing behind his hand his cough of great perplexity and doubt, “really, that does seem a question."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn to the painted ceiling again, often in his perplexity changing the leg on which he rests."*

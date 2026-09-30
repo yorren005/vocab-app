@@ -5,13 +5,6 @@ status: unread
 ---
 # semiconscious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Partially conscious; not completely aware of sensations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partially conscious; not completely aware of sensations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Martin Landis was taken to his home and in his semiconscious condition he did not know that his head with its handkerchief binding leaned against the rascally breast of Lyman Mertzheimer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partially conscious; not completely aware of sensations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partially conscious; not completely aware of sensations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Martin Landis was taken to his home and in his semiconscious condition he did not know that his head with its handkerchief binding leaned against the rascally breast of Lyman Mertzheimer."*

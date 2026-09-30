@@ -5,15 +5,6 @@ status: unread
 ---
 # statuary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Statues collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or suitable for statues.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The piece of dusky statuary nodded in approval, and then murmured ‘Motarkee!’ ‘Motarkee,’ said I, without further hesitation ‘Typee motarkee.’ What a transition!"*
-> - 📜 **Effie Afton (*Eventide*):** *"Dim argand lamps bathed in soft light the rich furniture, carved cornices, and rare statuary which decorated the mantels."*
-> - 📜 **Effie Afton (*Eventide*):** *"Rare statuary decorated the mantel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Statues collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or suitable for statues.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The piece of dusky statuary nodded in approval, and then murmured ‘Motarkee!’ ‘Motarkee,’ said I, without further hesitation ‘Typee motarkee.’ What a transition!"*
+> - 📜 **Effie Afton (*Eventide*):** *"Dim argand lamps bathed in soft light the rich furniture, carved cornices, and rare statuary which decorated the mantels."*
+> - 📜 **Effie Afton (*Eventide*):** *"Rare statuary decorated the mantel."*

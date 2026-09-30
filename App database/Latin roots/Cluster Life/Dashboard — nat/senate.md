@@ -5,15 +5,6 @@ status: unread
 ---
 # senate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assembly possessing high legislative powers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The upper house of the united states congress.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our business is not unknown to th’ Senate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What’s the matter, That in these several places of the city You cry against the noble senate, who, Under the gods, keep you in awe, which else Would feed on one another?—What’s their seeking?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Senate House Enter Tullus Aufidius with Senators of Corioles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Assembly possessing high legislative powers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The upper house of the united states congress.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our business is not unknown to th’ Senate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What’s the matter, That in these several places of the city You cry against the noble senate, who, Under the gods, keep you in awe, which else Would feed on one another?—What’s their seeking?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Senate House Enter Tullus Aufidius with Senators of Corioles."*

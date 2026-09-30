@@ -5,13 +5,6 @@ status: unread
 ---
 # sympatric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in the same area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occupying the same geographical range without loss of identity from interbreeding; also : occurring between populations that are not geographically separated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sympatric designates occurring in the same area."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in the same area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occupying the same geographical range without loss of identity from interbreeding; also : occurring between populations that are not geographically separated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sympatric designates occurring in the same area."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # leucadendron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of evergreen trees and shrubs having silvery white leaves and solitary terminal flowers with conspicuous silvery bracts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of evergreen trees and shrubs having silvery white leaves and solitary terminal flowers with conspicuous silvery bracts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucadendron designates large genus of evergreen trees and shrubs having silvery white leaves and solitary terminal flowers with conspicuous silvery bracts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of evergreen trees and shrubs having silvery white leaves and solitary terminal flowers with conspicuous silvery bracts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of evergreen trees and shrubs having silvery white leaves and solitary terminal flowers with conspicuous silvery bracts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucadendron designates large genus of evergreen trees and shrubs having silvery white leaves and solitary terminal flowers with conspicuous silvery bracts."*

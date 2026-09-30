@@ -5,13 +5,6 @@ status: unread
 ---
 # prefigurative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indistinctly prophetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indistinctly prophetic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Like all the cottagers in Blackmoor Vale, Tess was steeped in fancies and prefigurative superstitions; she thought this an ill omen—the first she had noticed that day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indistinctly prophetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indistinctly prophetic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Like all the cottagers in Blackmoor Vale, Tess was steeped in fancies and prefigurative superstitions; she thought this an ill omen—the first she had noticed that day."*

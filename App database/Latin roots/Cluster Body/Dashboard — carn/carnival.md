@@ -5,15 +5,6 @@ status: unread
 ---
 # carnival
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A festival marked by merrymaking and processions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A frenetic disorganized (and often comic) disturbance suggestive of a large public entertainment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Here’s spring come, and the nights one makes up bands To roam the town and sing out carnival, And I’ve been three weeks shut within my mew, A-painting for the great man, saints and saints And saints again."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Ay, because the sea’s the street there; and ‘tis arched by. . . what you call . . .Shylock’s bridge with houses on it, where they kept the carnival: I was never out of England--it’s as if I saw it all. 4."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Standing there, both of us bent forward peering into the web, I wove a story that transformed the sparkling strands into a carnival and the spider into an acrobat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A festival marked by merrymaking and processions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A frenetic disorganized (and often comic) disturbance suggestive of a large public entertainment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Here’s spring come, and the nights one makes up bands To roam the town and sing out carnival, And I’ve been three weeks shut within my mew, A-painting for the great man, saints and saints And saints again."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Ay, because the sea’s the street there; and ‘tis arched by. . . what you call . . .Shylock’s bridge with houses on it, where they kept the carnival: I was never out of England--it’s as if I saw it all. 4."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Standing there, both of us bent forward peering into the web, I wove a story that transformed the sparkling strands into a carnival and the spider into an acrobat."*

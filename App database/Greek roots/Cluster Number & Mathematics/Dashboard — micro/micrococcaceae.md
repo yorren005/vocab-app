@@ -5,13 +5,6 @@ status: unread
 ---
 # micrococcaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spherical or elliptical usually aerobic eubacteria that produce yellow or orange or red pigment; includes toxin-producing forms as well as harmless commensals and saprophytes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spherical or elliptical usually aerobic eubacteria that produce yellow or orange or red pigment; includes toxin-producing forms as well as harmless commensals and saprophytes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micrococcaceae designates spherical or elliptical usually aerobic eubacteria that produce yellow or orange or red pigment; includes toxin-producing forms as well as harmless commensals and saprophytes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spherical or elliptical usually aerobic eubacteria that produce yellow or orange or red pigment; includes toxin-producing forms as well as harmless commensals and saprophytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spherical or elliptical usually aerobic eubacteria that produce yellow or orange or red pigment; includes toxin-producing forms as well as harmless commensals and saprophytes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micrococcaceae designates spherical or elliptical usually aerobic eubacteria that produce yellow or orange or red pigment; includes toxin-producing forms as well as harmless commensals and saprophytes."*

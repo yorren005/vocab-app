@@ -5,15 +5,6 @@ status: unread
 ---
 # postponement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Time during which some action is awaited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of putting off to a future time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"If so, there must be a week’s postponement, and that was unlucky."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers caused an application to be made for the postponement of his trial until the following Sessions."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"The others resented postponement, but it was just his scruples that charmed me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Time during which some action is awaited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of putting off to a future time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"If so, there must be a week’s postponement, and that was unlucky."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers caused an application to be made for the postponement of his trial until the following Sessions."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"The others resented postponement, but it was just his scruples that charmed me."*

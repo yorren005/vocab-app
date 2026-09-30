@@ -5,15 +5,6 @@ status: unread
 ---
 # novelty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Originality by virtue of being refreshingly novel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originality by virtue of being new and surprising.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I may truly say, it is a novelty to the world."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Novelty is only in request, and as it is as dangerous to be aged in any kind of course as it is virtuous to be constant in any undertaking."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How novelty may move, and parts with person, Alas, a kind of godly jealousy, Which, I beseech you, call a virtuous sin, Makes me afear’d."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Originality by virtue of being refreshingly novel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originality by virtue of being new and surprising.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I may truly say, it is a novelty to the world."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Novelty is only in request, and as it is as dangerous to be aged in any kind of course as it is virtuous to be constant in any undertaking."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How novelty may move, and parts with person, Alas, a kind of godly jealousy, Which, I beseech you, call a virtuous sin, Makes me afear’d."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # classifier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who creates classifications.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word or morpheme used in some languages in certain contexts (such as counting) to indicate the semantic class to which the counted item belongs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, classifier designates a person who creates classifications."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who creates classifications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word or morpheme used in some languages in certain contexts (such as counting) to indicate the semantic class to which the counted item belongs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, classifier designates a person who creates classifications."*

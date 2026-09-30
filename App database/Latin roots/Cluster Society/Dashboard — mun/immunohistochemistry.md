@@ -5,13 +5,6 @@ status: unread
 ---
 # immunohistochemistry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An assay that shows specific antigens in tissues by the use of markers that are either fluorescent dyes or enzymes (such as horseradish peroxidase).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assay that shows specific antigens in tissues by the use of markers that are either fluorescent dyes or enzymes (such as horseradish peroxidase).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunohistochemistry designates an assay that shows specific antigens in tissues by the use of markers that are either fluorescent dyes or enzymes (such as horseradish peroxidase)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An assay that shows specific antigens in tissues by the use of markers that are either fluorescent dyes or enzymes (such as horseradish peroxidase).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assay that shows specific antigens in tissues by the use of markers that are either fluorescent dyes or enzymes (such as horseradish peroxidase).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunohistochemistry designates an assay that shows specific antigens in tissues by the use of markers that are either fluorescent dyes or enzymes (such as horseradish peroxidase)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # pareidolia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency to perceive a specific, often meaningful image in a random or ambiguous visual pattern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tendency to perceive a specific, often meaningful image in a random or ambiguous visual pattern.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pareidolia designates the tendency to perceive a specific, often meaningful image in a random or ambiguous visual pattern."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency to perceive a specific, often meaningful image in a random or ambiguous visual pattern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tendency to perceive a specific, often meaningful image in a random or ambiguous visual pattern.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pareidolia designates the tendency to perceive a specific, often meaningful image in a random or ambiguous visual pattern."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # socially
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By or with respect to society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a social manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Of all the reminders that she had ever received that her people were socially extinct, there was none so forcible as this spoliation."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The essential thought in the various attacks on the institution of property is that, because it either causes or makes possible the inequality of incomes, it is not socially expedient."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The enterpriser dealing with real wealth, and fitted to take the risks both because of his resources and of his exceptional knowledge, needs the motive of gain in such cases, and in a sense can be said to earn socially what he gets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By or with respect to society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a social manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Of all the reminders that she had ever received that her people were socially extinct, there was none so forcible as this spoliation."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The essential thought in the various attacks on the institution of property is that, because it either causes or makes possible the inequality of incomes, it is not socially expedient."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The enterpriser dealing with real wealth, and fitted to take the risks both because of his resources and of his exceptional knowledge, needs the motive of gain in such cases, and in a sense can be said to earn socially what he gets."*

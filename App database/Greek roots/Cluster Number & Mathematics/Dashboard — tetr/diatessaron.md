@@ -5,13 +5,6 @@ status: unread
 ---
 # diatessaron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A harmony of the four Gospels edited and arranged into a single connected narrative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A harmony of the four Gospels edited and arranged into a single connected narrative.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diatessaron designates a harmony of the four gospels edited and arranged into a single connected narrative."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A harmony of the four Gospels edited and arranged into a single connected narrative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A harmony of the four Gospels edited and arranged into a single connected narrative.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diatessaron designates a harmony of the four gospels edited and arranged into a single connected narrative."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # altercation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Noisy quarrel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Noisy quarrel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius had been absorbed in their violent altercation and had stared at each other, she in wild excitement and he in stiff immovability, Mäzli had slipped from between the two as swiftly as a little mouse."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, hearing the altercation, have appeared upon the stairs."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"My mother was in the great _salle_ of the _rez-de-chausée,_ as I passed, in altercation with a peasant who had just brought us in some loads of wood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Noisy quarrel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Noisy quarrel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius had been absorbed in their violent altercation and had stared at each other, she in wild excitement and he in stiff immovability, Mäzli had slipped from between the two as swiftly as a little mouse."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, hearing the altercation, have appeared upon the stairs."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"My mother was in the great _salle_ of the _rez-de-chausée,_ as I passed, in altercation with a peasant who had just brought us in some loads of wood."*

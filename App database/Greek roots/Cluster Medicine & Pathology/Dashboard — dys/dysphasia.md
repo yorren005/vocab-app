@@ -5,13 +5,6 @@ status: unread
 ---
 # dysphasia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of or deficiency in the power to use or understand language as a result of injury to or disease of the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of or deficiency in the power to use or understand language as a result of injury to or disease of the brain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysphasia designates loss of or deficiency in the power to use or understand language as a result of injury to or disease of the brain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of or deficiency in the power to use or understand language as a result of injury to or disease of the brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of or deficiency in the power to use or understand language as a result of injury to or disease of the brain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysphasia designates loss of or deficiency in the power to use or understand language as a result of injury to or disease of the brain."*

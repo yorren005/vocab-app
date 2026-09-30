@@ -5,15 +5,6 @@ status: unread
 ---
 # inference
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The reasoning involved in drawing a conclusion or making a logical judgment on the basis of circumstantial evidence and prior conclusions rather than on the basis of direct observation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The reasoning involved in drawing a conclusion or making a logical judgment on the basis of circumstantial evidence and prior conclusions rather than on the basis of direct observation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A cynical inference was irresistible by Gabriel Oak as he regarded the scene, generous though he fain would have been."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is a simpler inference from such data as we have that the claims of a widowed mother with six or seven younger children, a poor woman with a carpenter's little brood to bring up, may have had something to do with his delay."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Again, when we read of his happy way in dealing with children, are we to draw no inference as to his face, and what it told the children?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The reasoning involved in drawing a conclusion or making a logical judgment on the basis of circumstantial evidence and prior conclusions rather than on the basis of direct observation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The reasoning involved in drawing a conclusion or making a logical judgment on the basis of circumstantial evidence and prior conclusions rather than on the basis of direct observation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A cynical inference was irresistible by Gabriel Oak as he regarded the scene, generous though he fain would have been."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is a simpler inference from such data as we have that the claims of a widowed mother with six or seven younger children, a poor woman with a carpenter's little brood to bring up, may have had something to do with his delay."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Again, when we read of his happy way in dealing with children, are we to draw no inference as to his face, and what it told the children?"*

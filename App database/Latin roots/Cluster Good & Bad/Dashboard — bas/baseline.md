@@ -5,13 +5,6 @@ status: unread
 ---
 # baseline
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An imaginary line or standard by which things are measured or compared.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The back line bounding each end of a tennis or handball court; when serving the server must not step over this line.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baseline designates an imaginary line or standard by which things are measured or compared."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An imaginary line or standard by which things are measured or compared.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The back line bounding each end of a tennis or handball court; when serving the server must not step over this line.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baseline designates an imaginary line or standard by which things are measured or compared."*

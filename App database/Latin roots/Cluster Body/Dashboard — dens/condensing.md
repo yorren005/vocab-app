@@ -5,13 +5,6 @@ status: unread
 ---
 # condensing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of increasing the density of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo condensation; change from a gaseous to a liquid state and fall in drops.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"We beg pardon for condensing into our sunrise reflections the material for a novel, such as has often run well through three hundred pages, and furnished with competencies half as many bill-posters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of increasing the density of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo condensation; change from a gaseous to a liquid state and fall in drops.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"We beg pardon for condensing into our sunrise reflections the material for a novel, such as has often run well through three hundred pages, and furnished with competencies half as many bill-posters."*

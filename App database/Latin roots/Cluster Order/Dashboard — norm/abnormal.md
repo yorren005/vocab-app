@@ -5,15 +5,6 @@ status: unread
 ---
 # abnormal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not normal; not typical or usual or regular or conforming to a norm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Departing from the normal in e.g. intelligence and development.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The performer seemed quite at home anywhere between a horse’s head and its tail, and the necessity for this abnormal attitude having ceased with the passage of the plantation, she began to adopt another, even more obviously convenient than the first."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Just before dawn he was assisted in waking by the abnormal reverberation of familiar music."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The young sergeant stood still with the abnormal rigidity of the old pillars around."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not normal; not typical or usual or regular or conforming to a norm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Departing from the normal in e.g. intelligence and development.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The performer seemed quite at home anywhere between a horse’s head and its tail, and the necessity for this abnormal attitude having ceased with the passage of the plantation, she began to adopt another, even more obviously convenient than the first."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Just before dawn he was assisted in waking by the abnormal reverberation of familiar music."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The young sergeant stood still with the abnormal rigidity of the old pillars around."*

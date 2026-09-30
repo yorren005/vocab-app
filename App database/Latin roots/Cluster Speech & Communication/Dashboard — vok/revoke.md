@@ -5,15 +5,6 @@ status: unread
 ---
 # revoke
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mistake of not following suit when able to do so.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fail to follow suit when able and required to do so.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let them assemble And, on a safer judgment, all revoke Your ignorant election."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Revoke thy gift, Or, whilst I can vent clamour from my throat, I’ll tell thee thou dost evil."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Let it be known to them, as I make it known to you, that being of sound mind, memory, and understanding, I revoke no disposition I have made in her favour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mistake of not following suit when able to do so.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fail to follow suit when able and required to do so.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let them assemble And, on a safer judgment, all revoke Your ignorant election."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Revoke thy gift, Or, whilst I can vent clamour from my throat, I’ll tell thee thou dost evil."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Let it be known to them, as I make it known to you, that being of sound mind, memory, and understanding, I revoke no disposition I have made in her favour."*

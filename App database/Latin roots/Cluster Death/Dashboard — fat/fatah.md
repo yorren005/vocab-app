@@ -5,13 +5,6 @@ status: unread
 ---
 # fatah
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A palestinian political and military organization founded by yasser arafat in 1958 to work toward the creation of a palestinian state; during the 1960s and 1970s trained terrorist and insurgent groups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A palestinian political and military organization founded by yasser arafat in 1958 to work toward the creation of a palestinian state; during the 1960s and 1970s trained terrorist and insurgent groups.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fatah designates a palestinian political and military organization founded by yasser arafat in 1958 to work toward the creation of a palestinian state; during the 1960s and 1970s trained terrorist and insurgent groups."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A palestinian political and military organization founded by yasser arafat in 1958 to work toward the creation of a palestinian state; during the 1960s and 1970s trained terrorist and insurgent groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A palestinian political and military organization founded by yasser arafat in 1958 to work toward the creation of a palestinian state; during the 1960s and 1970s trained terrorist and insurgent groups.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fatah designates a palestinian political and military organization founded by yasser arafat in 1958 to work toward the creation of a palestinian state; during the 1960s and 1970s trained terrorist and insurgent groups."*

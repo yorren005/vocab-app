@@ -5,14 +5,6 @@ status: unread
 ---
 # passel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (often followed by `of') a large number or amount or extent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often followed by `of') a large number or amount or extent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"T warn't so that I could be spared from home to learn the dressmaker's trade." "'T would a come handy later on, I declare," answered the sympathetic driver, "bein' 's you went an' had such a passel o' gals to clothe an' feed."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Then--"Near's I can make out it's a passel of elephants and they've got us here to work." "What?" Sherman shouted back, not sure he had heard aright."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (often followed by `of') a large number or amount or extent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often followed by `of') a large number or amount or extent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"T warn't so that I could be spared from home to learn the dressmaker's trade." "'T would a come handy later on, I declare," answered the sympathetic driver, "bein' 's you went an' had such a passel o' gals to clothe an' feed."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Then--"Near's I can make out it's a passel of elephants and they've got us here to work." "What?" Sherman shouted back, not sure he had heard aright."*

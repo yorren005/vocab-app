@@ -5,15 +5,6 @@ status: unread
 ---
 # disparagement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A communication that belittles somebody or something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of speaking contemptuously of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But though thou art adjudged to the death, And passed sentence may not be recall’d But to our honour’s great disparagement, Yet will I favour thee in what I can."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would not for the wealth of all the town Here in my house do him disparagement."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop’s praises that I would not have said a word in his disparagement for any consideration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A communication that belittles somebody or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of speaking contemptuously of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But though thou art adjudged to the death, And passed sentence may not be recall’d But to our honour’s great disparagement, Yet will I favour thee in what I can."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would not for the wealth of all the town Here in my house do him disparagement."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop’s praises that I would not have said a word in his disparagement for any consideration."*

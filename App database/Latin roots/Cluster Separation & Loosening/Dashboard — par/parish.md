@@ -5,15 +5,6 @@ status: unread
 ---
 # parish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A local church community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The local subdivision of a diocese committed to one pastor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The “why” is plain as way to parish church."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll willingly to him; to gain his colour I’d let a parish of such Cloten’s blood, And praise myself for charity. [_Exit._] BELARIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even such kin as the parish heifers are to the town bull."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A local church community.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The local subdivision of a diocese committed to one pastor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The “why” is plain as way to parish church."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll willingly to him; to gain his colour I’d let a parish of such Cloten’s blood, And praise myself for charity. [_Exit._] BELARIUS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even such kin as the parish heifers are to the town bull."*

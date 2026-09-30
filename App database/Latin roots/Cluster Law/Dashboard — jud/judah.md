@@ -5,15 +5,6 @@ status: unread
 ---
 # judah
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (old testament) the fourth son of jacob who was forebear of one of the tribes of israel; one of his descendants was to be the messiah.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient kingdom of southern palestine with jerusalem as its center.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Though David's sceptre still remains With Judah's royal line, On Leah's sons are bloody stains, And Ephriam's drunk with wine; Blind Sampson, by Delilah's shears, Is made grind Dagon's corn, But only in a thousand years Is there a Moses born."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"It may well be thus where DAVID sings, And Uriah joins in the chorus, But while earth to earthy matter clings, Neither you nor the bravest of Judah's kings As a pattern can stand before us."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"When Judah beholds Jerusalem, The stranger-seed shall be joined to them: To Jacob’s house shall the Gentiles cleave, So the Prophet saith and his sons believe. 14."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (old testament) the fourth son of jacob who was forebear of one of the tribes of israel; one of his descendants was to be the messiah.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient kingdom of southern palestine with jerusalem as its center.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Though David's sceptre still remains With Judah's royal line, On Leah's sons are bloody stains, And Ephriam's drunk with wine; Blind Sampson, by Delilah's shears, Is made grind Dagon's corn, But only in a thousand years Is there a Moses born."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"It may well be thus where DAVID sings, And Uriah joins in the chorus, But while earth to earthy matter clings, Neither you nor the bravest of Judah's kings As a pattern can stand before us."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"When Judah beholds Jerusalem, The stranger-seed shall be joined to them: To Jacob’s house shall the Gentiles cleave, So the Prophet saith and his sons believe. 14."*

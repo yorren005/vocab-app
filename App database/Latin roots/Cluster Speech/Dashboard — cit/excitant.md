@@ -5,13 +5,6 @@ status: unread
 ---
 # excitant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that temporarily quickens some vital process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of drugs e.g.) able to excite or stimulate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, excitant designates a drug that temporarily quickens some vital process."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that temporarily quickens some vital process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of drugs e.g.) able to excite or stimulate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, excitant designates a drug that temporarily quickens some vital process."*

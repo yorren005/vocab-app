@@ -5,13 +5,6 @@ status: unread
 ---
 # gelatinlike
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thick like gelatin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thick like gelatin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gelatinlike designates thick like gelatin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thick like gelatin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thick like gelatin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gelatinlike designates thick like gelatin."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # encircle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form a circle around.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bind with something round or circular.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then let them all encircle him about, And fairy-like, to pinch the unclean knight, And ask him why, that hour of fairy revel, In their so sacred paths he dares to tread In shape profane."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The territories of Britain, Spain, and of the Indian nations in our neighborhood do not border on particular States, but encircle the Union from Maine to Georgia."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"When his forefinger swept across my features, in laying out the borders of those parallel bands which were to encircle my countenance, the flesh fairly crawled upon my bones."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Form a circle around.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bind with something round or circular.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then let them all encircle him about, And fairy-like, to pinch the unclean knight, And ask him why, that hour of fairy revel, In their so sacred paths he dares to tread In shape profane."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The territories of Britain, Spain, and of the Indian nations in our neighborhood do not border on particular States, but encircle the Union from Maine to Georgia."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"When his forefinger swept across my features, in laying out the borders of those parallel bands which were to encircle my countenance, the flesh fairly crawled upon my bones."*

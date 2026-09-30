@@ -5,14 +5,6 @@ status: unread
 ---
 # baptists
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various evangelical protestant churches that believe in the baptism of voluntary believers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Follower of baptistic doctrines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"In K----the Baptists and Presbyterians unite because the thirteen members of one church and the seven of the other feel lonely in their great refrigerators and are inclined to make friends and preserve life."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Dean; and they call the Methodists’ or Baptists’ place, I can’t say which it is, at Gimmerton, a chapel.) “Joseph had gone,” she continued, “but I thought proper to bide at home."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various evangelical protestant churches that believe in the baptism of voluntary believers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Follower of baptistic doctrines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"In K----the Baptists and Presbyterians unite because the thirteen members of one church and the seven of the other feel lonely in their great refrigerators and are inclined to make friends and preserve life."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Dean; and they call the Methodists’ or Baptists’ place, I can’t say which it is, at Gimmerton, a chapel.) “Joseph had gone,” she continued, “but I thought proper to bide at home."*

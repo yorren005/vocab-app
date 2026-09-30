@@ -5,15 +5,6 @@ status: unread
 ---
 # satiny
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a smooth, gleaming surface reflecting light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a smooth, gleaming surface reflecting light.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The train was beating the post-chaise with its satiny horses, the train that went by coal one dug from the ground."*
-> - 📜 **James Joyce (*Ulysses*):** *"A jumping rose on satiny breast of satin, rose of Castile."*
-> - 📜 **James Joyce (*Ulysses*):** *"Miss Douce withdrew her satiny arm, reproachful, pleased. —Don’t make half so free, said she, till we are better acquainted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a smooth, gleaming surface reflecting light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a smooth, gleaming surface reflecting light.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The train was beating the post-chaise with its satiny horses, the train that went by coal one dug from the ground."*
+> - 📜 **James Joyce (*Ulysses*):** *"A jumping rose on satiny breast of satin, rose of Castile."*
+> - 📜 **James Joyce (*Ulysses*):** *"Miss Douce withdrew her satiny arm, reproachful, pleased. —Don’t make half so free, said she, till we are better acquainted."*

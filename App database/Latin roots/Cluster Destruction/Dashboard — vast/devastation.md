@@ -5,15 +5,6 @@ status: unread
 ---
 # devastation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being decayed or destroyed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The feeling of being confounded or overwhelmed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But before she had brought them forth to the light, the door opened and the mother was looking full of horror at the devastation."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"When the typhus fever had fulfilled its mission of devastation at Lowood, it gradually disappeared from thence; but not till its virulence and the number of its victims had drawn public attention on the school."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"PLUNDER and devastation ever march in the train of irregulars."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being decayed or destroyed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The feeling of being confounded or overwhelmed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But before she had brought them forth to the light, the door opened and the mother was looking full of horror at the devastation."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"When the typhus fever had fulfilled its mission of devastation at Lowood, it gradually disappeared from thence; but not till its virulence and the number of its victims had drawn public attention on the school."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"PLUNDER and devastation ever march in the train of irregulars."*

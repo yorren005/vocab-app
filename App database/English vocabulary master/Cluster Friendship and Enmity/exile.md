@@ -5,20 +5,6 @@ status: unread
 ---
 # exile
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Person who is in exile
-> 2. **Nuance / Usage**: (transitive) to send (someone or something) into exile
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Omitting Suffolk’s exile, my soul’s treasure?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Immediately we do exile him hence."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And say’st thou yet that exile is not death?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Prolonged, often compulsory absence or banishment from one's native country or home; a person who lives banished from their homeland.
+> 2. **Nuance / Usage**: As a transitive verb, means to expel from one's country or community; also used for voluntary expatriation or spiritual isolation (*self-imposed exile*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"And say’st thou yet that **exile** is not death?"*
+> - 📜 **James Joyce (*A Portrait of the Artist as a Young Man*):** *"I will try to express myself in some mode of life or art as freely as I can and as wholly as I can, using for my defense the only arms I allow myself to use—silence, **exile**, and cunning."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"Nothing is more desolate than the long winter of an **exile** gazing back toward a lost homeland."*

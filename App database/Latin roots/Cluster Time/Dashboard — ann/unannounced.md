@@ -5,15 +5,6 @@ status: unread
 ---
 # unannounced
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without warning or announcement; ; - m.a.d.howe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without warning or announcement; ; - m.a.d.howe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was passionate, and her present letter, showing that her estimate of him had changed under his delay—too justly changed, he sadly owned,—made him ask himself if it would be wise to confront her unannounced in the presence of her parents."*
-> - 📜 **Effie Afton (*Eventide*):** *"She was a little angry that he had entered unannounced, and her cheeks flushed, as she rather briefly bade him welcome."*
-> - 📜 **Effie Afton (*Eventide*):** *"He suddenly recollected he was there unannounced, but what could he do?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without warning or announcement; ; - m.a.d.howe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without warning or announcement; ; - m.a.d.howe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was passionate, and her present letter, showing that her estimate of him had changed under his delay—too justly changed, he sadly owned,—made him ask himself if it would be wise to confront her unannounced in the presence of her parents."*
+> - 📜 **Effie Afton (*Eventide*):** *"She was a little angry that he had entered unannounced, and her cheeks flushed, as she rather briefly bade him welcome."*
+> - 📜 **Effie Afton (*Eventide*):** *"He suddenly recollected he was there unannounced, but what could he do?"*

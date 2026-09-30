@@ -5,15 +5,6 @@ status: unread
 ---
 # severing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of severing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set or keep apart.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Much better She ne’er had known pomp; though’t be temporal, Yet if that quarrel, Fortune, do divorce It from the bearer, ’tis a sufferance panging As soul and body’s severing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look, love, what envious streaks Do lace the severing clouds in yonder east."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Nigh on the plain, in many cells prepared, That underneath had veins of liquid fire Sluiced from the lake, a second multitude With wondrous art founded the massy ore, Severing each kind, and scummed the bullion-dross."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of severing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set or keep apart.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Much better She ne’er had known pomp; though’t be temporal, Yet if that quarrel, Fortune, do divorce It from the bearer, ’tis a sufferance panging As soul and body’s severing."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look, love, what envious streaks Do lace the severing clouds in yonder east."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Nigh on the plain, in many cells prepared, That underneath had veins of liquid fire Sluiced from the lake, a second multitude With wondrous art founded the massy ore, Severing each kind, and scummed the bullion-dross."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # armiger
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A squire carrying the armor of a knight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nobleman entitled to bear heraldic arms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armiger designates a squire carrying the armor of a knight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A squire carrying the armor of a knight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nobleman entitled to bear heraldic arms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armiger designates a squire carrying the armor of a knight."*

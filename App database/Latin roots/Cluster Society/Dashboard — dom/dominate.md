@@ -5,15 +5,6 @@ status: unread
 ---
 # dominate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be larger in number, quantity, power, status or importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be in control.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Great interests are affected by foreign trade and certain of these interests are able to influence opinion and to dominate legislation."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The fact that tea and coffee were on the free list is marked evidence that considerations of revenue did not dominate."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Dollop looked round with the air of a landlady accustomed to dominate her company."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be larger in number, quantity, power, status or importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be in control.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Great interests are affected by foreign trade and certain of these interests are able to influence opinion and to dominate legislation."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The fact that tea and coffee were on the free list is marked evidence that considerations of revenue did not dominate."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dollop looked round with the air of a landlady accustomed to dominate her company."*

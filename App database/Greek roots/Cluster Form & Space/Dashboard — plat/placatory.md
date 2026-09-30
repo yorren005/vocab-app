@@ -5,13 +5,6 @@ status: unread
 ---
 # placatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended to pacify by acceding to demands or granting concessions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended to pacify by acceding to demands or granting concessions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placatory designates intended to pacify by acceding to demands or granting concessions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended to pacify by acceding to demands or granting concessions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended to pacify by acceding to demands or granting concessions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placatory designates intended to pacify by acceding to demands or granting concessions."*

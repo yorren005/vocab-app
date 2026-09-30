@@ -5,13 +5,6 @@ status: unread
 ---
 # barilla
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bushy plant of old world salt marshes and sea beaches having prickly leaves; burned to produce a crude soda ash.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Algerian plant formerly burned to obtain calcium carbonate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Copper barilla or copper sand, an impure native metal from Chili, was formerly of importance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bushy plant of old world salt marshes and sea beaches having prickly leaves; burned to produce a crude soda ash.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Algerian plant formerly burned to obtain calcium carbonate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Copper barilla or copper sand, an impure native metal from Chili, was formerly of importance."*

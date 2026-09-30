@@ -5,15 +5,6 @@ status: unread
 ---
 # anthropomorphism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The representation of objects (especially a god) as having human form or traits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The representation of objects (especially a god) as having human form or traits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The true 140:21 worshippers shall worship the Father in spirit and in truth." Anthropomorphism The Jewish tribal Jehovah was a man-projected God, 140:24 liable to wrath, repentance, and human changeableness."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Anthropomorphism History teaches that the popular and false notions 357:18 about the Divine Being and character have originated in the human mind."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The process of thought which leads to the change from the one mode of conception to the other is anthropomorphism, or the gradual investment of the immanent spirits with more and more of the attributes of humanity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The representation of objects (especially a god) as having human form or traits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The representation of objects (especially a god) as having human form or traits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The true 140:21 worshippers shall worship the Father in spirit and in truth." Anthropomorphism The Jewish tribal Jehovah was a man-projected God, 140:24 liable to wrath, repentance, and human changeableness."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Anthropomorphism History teaches that the popular and false notions 357:18 about the Divine Being and character have originated in the human mind."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The process of thought which leads to the change from the one mode of conception to the other is anthropomorphism, or the gradual investment of the immanent spirits with more and more of the attributes of humanity."*

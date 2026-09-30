@@ -5,14 +5,6 @@ status: unread
 ---
 # senselessly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a meaningless and purposeless manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unreasonably senseless manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"It now seemed clear to him that all his experience of life must be senselessly wasted unless he applied it to some kind of work and again played an active part in life."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I have come... simply... you know... come... it interests me,” said Pierre, who had so often that day senselessly repeated that word “interesting.” “I wish to see the battle.” “Oh yes, and what do the Masonic brothers say about war?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a meaningless and purposeless manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unreasonably senseless manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"It now seemed clear to him that all his experience of life must be senselessly wasted unless he applied it to some kind of work and again played an active part in life."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I have come... simply... you know... come... it interests me,” said Pierre, who had so often that day senselessly repeated that word “interesting.” “I wish to see the battle.” “Oh yes, and what do the Masonic brothers say about war?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # lustre
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surface coating for ceramics or porcelain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality that outshines the usual.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy lustre thickens When he shines by."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, sir,” quoth he, “Call me not fool till heaven hath sent me fortune.” And then he drew a dial from his poke, And, looking on it with lack-lustre eye, Says very wisely, “It is ten o’clock."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No; I rather added A lustre to it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surface coating for ceramics or porcelain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality that outshines the usual.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy lustre thickens When he shines by."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, sir,” quoth he, “Call me not fool till heaven hath sent me fortune.” And then he drew a dial from his poke, And, looking on it with lack-lustre eye, Says very wisely, “It is ten o’clock."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No; I rather added A lustre to it."*

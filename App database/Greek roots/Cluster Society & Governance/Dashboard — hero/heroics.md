@@ -5,15 +5,6 @@ status: unread
 ---
 # heroics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ostentatious or vainglorious or extravagant or melodramatic conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A verse form suited to the treatment of heroic or elevated themes; dactylic hexameter or iambic pentameter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"On the marvellous music of Shelley's verse we need not dwell, except to note that he avoids that metronomic beat of rhythm which Edgar Poe introduced into modern lyric measures, as Pope introduced it into the rhyming heroics of his day."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Johnson's apparent takeoff on the heroics of opera managed to include in its attack a commentary upon the absurdity of contemporary tragedy as well as some specific references to those works that aimed at the sublime."*
-> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"GAS-LIGHT HEROICS With this night's carousal We will close the portal On our poor espousal-- Sacrament and housel For a love too mortal!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ostentatious or vainglorious or extravagant or melodramatic conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A verse form suited to the treatment of heroic or elevated themes; dactylic hexameter or iambic pentameter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"On the marvellous music of Shelley's verse we need not dwell, except to note that he avoids that metronomic beat of rhythm which Edgar Poe introduced into modern lyric measures, as Pope introduced it into the rhyming heroics of his day."*
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Johnson's apparent takeoff on the heroics of opera managed to include in its attack a commentary upon the absurdity of contemporary tragedy as well as some specific references to those works that aimed at the sublime."*
+> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"GAS-LIGHT HEROICS With this night's carousal We will close the portal On our poor espousal-- Sacrament and housel For a love too mortal!"*

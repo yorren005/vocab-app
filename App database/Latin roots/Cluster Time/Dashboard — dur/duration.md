@@ -5,15 +5,6 @@ status: unread
 ---
 # duration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of time during which something continues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of enduring or continuing in time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"If I ever thought of the time I had been out, it presented itself as an indefinite period of great duration, and I seemed, in a strange way, never to have been free from the anxiety under which I then laboured."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Not guessing the cause, there was nothing to remind him that experience is as to intensity, and not as to duration."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was the last of the three lives for whose duration the house and premises were held under a lease; and it had long been coveted by the tenant-farmer for his regular labourers, who were stinted in cottage accommodation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of time during which something continues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of enduring or continuing in time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"If I ever thought of the time I had been out, it presented itself as an indefinite period of great duration, and I seemed, in a strange way, never to have been free from the anxiety under which I then laboured."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Not guessing the cause, there was nothing to remind him that experience is as to intensity, and not as to duration."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was the last of the three lives for whose duration the house and premises were held under a lease; and it had long been coveted by the tenant-farmer for his regular labourers, who were stinted in cottage accommodation."*

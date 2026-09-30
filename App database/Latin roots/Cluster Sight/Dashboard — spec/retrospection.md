@@ -5,15 +5,6 @@ status: unread
 ---
 # retrospection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reference to things past.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Memory for experiences that are past.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"He was roused from the reverie of retrospection and regret produced by it, by some inquiry from Edmund as to his plans for the next day’s hunting; and he found it was as well to be a man of fortune at once with horses and grooms at his command."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Here besides the law of retrospection, which regards all the past as a preparation for events that subsequently occur, the law of reciprocity comes in, confusing the whole matter."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A Retrospection It was the end of November, and Holmes and I sat, upon a raw and foggy night, on either side of a blazing fire in our sitting-room in Baker Street."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reference to things past.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Memory for experiences that are past.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"He was roused from the reverie of retrospection and regret produced by it, by some inquiry from Edmund as to his plans for the next day’s hunting; and he found it was as well to be a man of fortune at once with horses and grooms at his command."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Here besides the law of retrospection, which regards all the past as a preparation for events that subsequently occur, the law of reciprocity comes in, confusing the whole matter."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A Retrospection It was the end of November, and Holmes and I sat, upon a raw and foggy night, on either side of a blazing fire in our sitting-room in Baker Street."*

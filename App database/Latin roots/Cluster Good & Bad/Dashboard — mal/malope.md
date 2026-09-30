@@ -5,13 +5,6 @@ status: unread
 ---
 # malope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Western mediterranean annual having deep purple-red flowers subtended by 3 large cordate bracts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Western mediterranean annual having deep purple-red flowers subtended by 3 large cordate bracts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malope designates western mediterranean annual having deep purple-red flowers subtended by 3 large cordate bracts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Western mediterranean annual having deep purple-red flowers subtended by 3 large cordate bracts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Western mediterranean annual having deep purple-red flowers subtended by 3 large cordate bracts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malope designates western mediterranean annual having deep purple-red flowers subtended by 3 large cordate bracts."*

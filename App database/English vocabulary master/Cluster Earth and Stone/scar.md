@@ -5,20 +5,6 @@ status: unread
 ---
 # scar
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Any permanent mark resulting from damage
-> 2. **Nuance / Usage**: Mark remaining (as on the skin) after injured tissue has healed
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"ravine, almost no more than a scar in the hillside."*
-> - 📜 **Henry James (*The Portrait of a Lady*):** *"should cultivate a scar out of proportion to any wound."*
-> - 📜 **Bram Stoker (*Dracula*):** *"cannot leave a scar, as it is so tiny."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Any permanent mark resulting from damage
+> 2. **Nuance / Usage**: Mark remaining (as on the skin) after injured tissue has healed
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"ravine, almost no more than a scar in the hillside."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"should cultivate a scar out of proportion to any wound."*
+> - 📜 **Bram Stoker (*Dracula*):** *"cannot leave a scar, as it is so tiny."*

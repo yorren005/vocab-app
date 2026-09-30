@@ -5,15 +5,6 @@ status: unread
 ---
 # epistolary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Written in the form of or carried on by letters or correspondence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written in the form of or carried on by letters or correspondence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Grant’s morning calls, it was very hard upon her to be deprived of one of the last epistolary uses she could put them to."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I shall have matured my epistolary style.” She looked away while she spoke these words, knowing them of so much less earnest a cast than the countenance of her listener."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Isabel liked her friend’s private epistolary style better than her public; that is she felt her public letters would have been excellent if they had not been printed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Written in the form of or carried on by letters or correspondence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written in the form of or carried on by letters or correspondence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Grant’s morning calls, it was very hard upon her to be deprived of one of the last epistolary uses she could put them to."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I shall have matured my epistolary style.” She looked away while she spoke these words, knowing them of so much less earnest a cast than the countenance of her listener."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Isabel liked her friend’s private epistolary style better than her public; that is she felt her public letters would have been excellent if they had not been printed."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # calash
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman's large folded hooped hood; worn in the 18th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The folding hood of a horse-drawn carriage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Bute's eyes flashed out at her from under her black calash."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Crawley, you had better go upstairs and see that they are not murdering your unfortunate brother"--and the calash, escorted by Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman's large folded hooped hood; worn in the 18th century.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The folding hood of a horse-drawn carriage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Bute's eyes flashed out at her from under her black calash."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Crawley, you had better go upstairs and see that they are not murdering your unfortunate brother"--and the calash, escorted by Mrs."*

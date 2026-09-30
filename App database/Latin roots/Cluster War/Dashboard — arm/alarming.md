@@ -5,15 +5,6 @@ status: unread
 ---
 # alarming
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with apprehension or alarm; cause to be unpleasantly surprised.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warn or arouse to a sense of danger or call to a state of preparedness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Gridley, a disappointed suitor, has been here to-day and has been alarming."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now do they note down, in the watches of the night, how the neighbourhood of Chancery Lane was yesterday, at about midnight, thrown into a state of the most intense agitation and excitement by the following alarming and horrible discovery."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"That is a more alarming person than the clerk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with apprehension or alarm; cause to be unpleasantly surprised.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warn or arouse to a sense of danger or call to a state of preparedness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Gridley, a disappointed suitor, has been here to-day and has been alarming."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now do they note down, in the watches of the night, how the neighbourhood of Chancery Lane was yesterday, at about midnight, thrown into a state of the most intense agitation and excitement by the following alarming and horrible discovery."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"That is a more alarming person than the clerk."*

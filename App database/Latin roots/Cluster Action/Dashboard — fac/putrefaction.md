@@ -5,15 +5,6 @@ status: unread
 ---
 # putrefaction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of decay usually accompanied by an offensive odor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) the process of decay caused by bacterial or fungal action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Directly Rostóv entered the door he was enveloped by a smell of putrefaction and hospital air."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"And I shall have to tell you later that even the processes of putrefaction and decay had been profoundly affected by these changes."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"All over the plains, lying in disgusting masses of putrefaction along valley and hill, are strewn immense carcasses of wantonly slain buffalo."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of decay usually accompanied by an offensive odor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) the process of decay caused by bacterial or fungal action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Directly Rostóv entered the door he was enveloped by a smell of putrefaction and hospital air."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"And I shall have to tell you later that even the processes of putrefaction and decay had been profoundly affected by these changes."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"All over the plains, lying in disgusting masses of putrefaction along valley and hill, are strewn immense carcasses of wantonly slain buffalo."*

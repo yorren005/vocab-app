@@ -5,13 +5,6 @@ status: unread
 ---
 # undercoat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seal consisting of a coating of a tar or rubberlike material on the underside of a motor vehicle to retard corrosion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first or preliminary coat of paint or size applied to a surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undercoat designates seal consisting of a coating of a tar or rubberlike material on the underside of a motor vehicle to retard corrosion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Seal consisting of a coating of a tar or rubberlike material on the underside of a motor vehicle to retard corrosion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first or preliminary coat of paint or size applied to a surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undercoat designates seal consisting of a coating of a tar or rubberlike material on the underside of a motor vehicle to retard corrosion."*

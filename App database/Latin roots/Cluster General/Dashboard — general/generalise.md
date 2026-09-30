@@ -5,14 +5,6 @@ status: unread
 ---
 # generalise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak or write in generalities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Draw from specific cases for more general cases.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"As I am now generalising a period of my life with the object of clearing my way before me, I can scarcely do so better than by at once completing the description of our usual manners and customs at Barnard’s Inn."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"A jar of this type in the British Museum has a typical Yi-hsing glaze, and though this is not perhaps sufficient ground for generalising, I would suggest that this peculiar finish is an indication of Yi-hsing manufacture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak or write in generalities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Draw from specific cases for more general cases.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"As I am now generalising a period of my life with the object of clearing my way before me, I can scarcely do so better than by at once completing the description of our usual manners and customs at Barnard’s Inn."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"A jar of this type in the British Museum has a typical Yi-hsing glaze, and though this is not perhaps sufficient ground for generalising, I would suggest that this peculiar finish is an indication of Yi-hsing manufacture."*

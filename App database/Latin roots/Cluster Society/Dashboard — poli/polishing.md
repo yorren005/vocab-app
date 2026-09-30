@@ -5,15 +5,6 @@ status: unread
 ---
 # polishing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The work of making something smooth and shiny by rubbing or waxing it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (a surface) shine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She goes to Germany to-morrow with one of your nieces for a little polishing up in her education."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A busy little man he always is, in the polishing at harness-house doors, of stirrup-irons, bits, curb-chains, harness bosses, anything in the way of a stable-yard that will take a polish, leading a life of friction."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"We are shown the man polishing his cup, elaborately and carefully; for he lays great importance on the cleanness of his cup; but he forgets to clean the inside."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The work of making something smooth and shiny by rubbing or waxing it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (a surface) shine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"She goes to Germany to-morrow with one of your nieces for a little polishing up in her education."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A busy little man he always is, in the polishing at harness-house doors, of stirrup-irons, bits, curb-chains, harness bosses, anything in the way of a stable-yard that will take a polish, leading a life of friction."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"We are shown the man polishing his cup, elaborately and carefully; for he lays great importance on the cleanness of his cup; but he forgets to clean the inside."*

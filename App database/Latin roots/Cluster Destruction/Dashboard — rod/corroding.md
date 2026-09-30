@@ -5,15 +5,6 @@ status: unread
 ---
 # corroding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Erosion by chemical action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to deteriorate due to the action of water, air, or an acid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"While his heart is heavy with corroding care, suspense, distrust, and doubt, it may have room for some sorrowful wonder when he recalls how different his first visit there, how different he, how different all the colours of his mind."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Something of vengeance I had tasted for the first time; as aromatic wine it seemed, on swallowing, warm and racy: its after-flavour, metallic and corroding, gave me a sensation as if I had been poisoned."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"When heart-corroding care and grief Deprive my soul of rest, Her dear idea brings relief, And solace to my breast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Erosion by chemical action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to deteriorate due to the action of water, air, or an acid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"While his heart is heavy with corroding care, suspense, distrust, and doubt, it may have room for some sorrowful wonder when he recalls how different his first visit there, how different he, how different all the colours of his mind."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Something of vengeance I had tasted for the first time; as aromatic wine it seemed, on swallowing, warm and racy: its after-flavour, metallic and corroding, gave me a sensation as if I had been poisoned."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"When heart-corroding care and grief Deprive my soul of rest, Her dear idea brings relief, And solace to my breast."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # freshet
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Stream
-> 2. **Nuance / Usage**: Swelling quantity : influx
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **A._C._Benson (*Hugh, Memoirs of a Brother*):** *"His arrival upon any scene was never in the smallest degree uproarious, and still less was it in the least mild or serene; yet he came into a settled circle like a freshet of tumbling water into a still pool!"*
-> - 📜 **Henry Miller (*Black Spring (novel)*):** *"Between the curbs and the snow banks a freshet of clear blue water rises. Within me a freshet that chokes the narrow gorge of my veins."*
-> - 📜 **Joseph Mitchell (*The Rivermen*):** *"We may find a dozen big catfish lying in the belly of the net, or a couple of walleyed pike, or some other kind of fresh-water fish. A freshet brought them down, and they were making their way back up the river, and they hit the net."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Stream
+> 2. **Nuance / Usage**: Swelling quantity : influx
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **A._C._Benson (*Hugh, Memoirs of a Brother*):** *"His arrival upon any scene was never in the smallest degree uproarious, and still less was it in the least mild or serene; yet he came into a settled circle like a freshet of tumbling water into a still pool!"*
+> - 📜 **Henry Miller (*Black Spring (novel)*):** *"Between the curbs and the snow banks a freshet of clear blue water rises. Within me a freshet that chokes the narrow gorge of my veins."*
+> - 📜 **Joseph Mitchell (*The Rivermen*):** *"We may find a dozen big catfish lying in the belly of the net, or a couple of walleyed pike, or some other kind of fresh-water fish. A freshet brought them down, and they were making their way back up the river, and they hit the net."*

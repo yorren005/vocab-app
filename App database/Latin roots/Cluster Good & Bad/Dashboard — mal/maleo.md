@@ -5,13 +5,6 @@ status: unread
 ---
 # maleo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Celebes megapode that lays eggs in holes in sandy beaches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Celebes megapode that lays eggs in holes in sandy beaches.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maleo designates celebes megapode that lays eggs in holes in sandy beaches."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Celebes megapode that lays eggs in holes in sandy beaches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Celebes megapode that lays eggs in holes in sandy beaches.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maleo designates celebes megapode that lays eggs in holes in sandy beaches."*

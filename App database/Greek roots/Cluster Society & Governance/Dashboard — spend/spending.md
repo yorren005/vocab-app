@@ -5,15 +5,6 @@ status: unread
 ---
 # spending
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of spending or disbursing money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Money paid out; an amount spent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He wears his honour in a box unseen That hugs his kicky-wicky here at home, Spending his manly marrow in her arms, Which should sustain the bound and high curvet Of Mars’s fiery steed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am less proud to hear you tell my worth Than you much willing to be counted wise In spending your wit in the praise of mine."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"After spending the first winter in the south it became apparent that the Baroness's health was shattered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of spending or disbursing money.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Money paid out; an amount spent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He wears his honour in a box unseen That hugs his kicky-wicky here at home, Spending his manly marrow in her arms, Which should sustain the bound and high curvet Of Mars’s fiery steed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am less proud to hear you tell my worth Than you much willing to be counted wise In spending your wit in the praise of mine."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"After spending the first winter in the south it became apparent that the Baroness's health was shattered."*

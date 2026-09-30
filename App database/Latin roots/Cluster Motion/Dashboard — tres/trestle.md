@@ -5,15 +5,6 @@ status: unread
 ---
 # trestle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A supporting tower used to support a bridge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sawhorses used in pairs to support a horizontal tabletop.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"The evening train shrieked out of the gap and across the long trestle just beyond the landing, where it halted for a few seconds for passengers to embark or to leave the cars."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The locality which had been selected for this little diversion was a railroad trestle a short distance below the town."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"He came uninvited, and stood up on his hind legs and rested his fore paws upon the trestle, and took a last long look at the face that was so dear to him, then went his way as silently as he had come. _He knows._ At mid-afternoon it began to snow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A supporting tower used to support a bridge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sawhorses used in pairs to support a horizontal tabletop.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"The evening train shrieked out of the gap and across the long trestle just beyond the landing, where it halted for a few seconds for passengers to embark or to leave the cars."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The locality which had been selected for this little diversion was a railroad trestle a short distance below the town."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"He came uninvited, and stood up on his hind legs and rested his fore paws upon the trestle, and took a last long look at the face that was so dear to him, then went his way as silently as he had come. _He knows._ At mid-afternoon it began to snow."*

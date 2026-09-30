@@ -5,14 +5,6 @@ status: unread
 ---
 # atavism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reappearance of an earlier characteristic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reappearance of an earlier characteristic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Author of ‘Some Freaks of Atavism’ (_Lancet_ 1882). ‘Do We Progress?’ (_Journal of Psychology_, March, 1883)."*
-> - 📜 **James Joyce (*Ulysses*):** *"I would deal in especial with atavism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reappearance of an earlier characteristic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reappearance of an earlier characteristic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Author of ‘Some Freaks of Atavism’ (_Lancet_ 1882). ‘Do We Progress?’ (_Journal of Psychology_, March, 1883)."*
+> - 📜 **James Joyce (*Ulysses*):** *"I would deal in especial with atavism."*

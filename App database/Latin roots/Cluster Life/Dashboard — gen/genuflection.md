@@ -5,13 +5,6 @@ status: unread
 ---
 # genuflection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of bending the knees in worship or reverence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of bending the knees in worship or reverence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"The Pilgrim acknowledged her claim to it by a low genuflection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of bending the knees in worship or reverence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of bending the knees in worship or reverence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"The Pilgrim acknowledged her claim to it by a low genuflection."*

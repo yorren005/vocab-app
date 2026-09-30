@@ -5,13 +5,6 @@ status: unread
 ---
 # rubbery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an elastic texture resembling rubber in flexibility or toughness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Difficult to chew.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"It was a little more than ten feet square; in the center a seat with curving outlines rose from the floor, apparently made of the same rubbery material as the floor itself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an elastic texture resembling rubber in flexibility or toughness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Difficult to chew.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"It was a little more than ten feet square; in the center a seat with curving outlines rose from the floor, apparently made of the same rubbery material as the floor itself."*

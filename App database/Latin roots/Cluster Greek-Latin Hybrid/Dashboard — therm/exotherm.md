@@ -5,13 +5,6 @@ status: unread
 ---
 # exotherm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound that gives off heat during its formation and absorbs heat during its decomposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound that gives off heat during its formation and absorbs heat during its decomposition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exotherm designates a compound that gives off heat during its formation and absorbs heat during its decomposition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound that gives off heat during its formation and absorbs heat during its decomposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound that gives off heat during its formation and absorbs heat during its decomposition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exotherm designates a compound that gives off heat during its formation and absorbs heat during its decomposition."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # security
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being free from danger or injury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defense against financial failure; financial independence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He would not take his band and yours, he liked not the security."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A rascally yea-forsooth knave, to bear a gentleman in hand, and then stand upon security!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The whoreson smooth-pates do now wear nothing but high shoes and bunches of keys at their girdles; and if a man is through with them in honest taking up, then they must stand upon security."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being free from danger or injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defense against financial failure; financial independence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He would not take his band and yours, he liked not the security."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A rascally yea-forsooth knave, to bear a gentleman in hand, and then stand upon security!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The whoreson smooth-pates do now wear nothing but high shoes and bunches of keys at their girdles; and if a man is through with them in honest taking up, then they must stand upon security."*

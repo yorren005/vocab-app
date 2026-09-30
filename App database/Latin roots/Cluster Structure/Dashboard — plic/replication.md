@@ -5,15 +5,6 @@ status: unread
 ---
 # replication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making copies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) the process whereby dna makes a copy of itself before cell division.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, to be demanded of a sponge—what replication should be made by the son of a king?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when you saw his chariot but appear, Have you not made an universal shout, That Tiber trembled underneath her banks To hear the replication of your sounds Made in her concave shores?"*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The counsel for the President then asked for a delay of thirty days after the replication of the managers of the impeachment should have been rendered, before the trial should formally proceed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making copies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) the process whereby dna makes a copy of itself before cell division.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, to be demanded of a sponge—what replication should be made by the son of a king?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when you saw his chariot but appear, Have you not made an universal shout, That Tiber trembled underneath her banks To hear the replication of your sounds Made in her concave shores?"*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The counsel for the President then asked for a delay of thirty days after the replication of the managers of the impeachment should have been rendered, before the trial should formally proceed."*

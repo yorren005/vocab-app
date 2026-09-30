@@ -5,13 +5,6 @@ status: unread
 ---
 # petrogale
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rock wallabies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rock wallabies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrogale designates rock wallabies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rock wallabies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rock wallabies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrogale designates rock wallabies."*

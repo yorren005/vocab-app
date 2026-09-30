@@ -5,15 +5,6 @@ status: unread
 ---
 # estimable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving of respect or high regard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving of esteem and respect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A pound of man’s flesh, taken from a man, Is not so estimable, profitable neither, As flesh of muttons, beefs, or goats."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But though I could not with such estimable wonder overfar believe that, yet thus far I will boldly publish her, she bore a mind that envy could not but call fair."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I found estimable characters amongst them—characters desirous of information and disposed for improvement—with whom I passed many a pleasant evening hour in their own homes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving of respect or high regard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving of esteem and respect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A pound of man’s flesh, taken from a man, Is not so estimable, profitable neither, As flesh of muttons, beefs, or goats."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But though I could not with such estimable wonder overfar believe that, yet thus far I will boldly publish her, she bore a mind that envy could not but call fair."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I found estimable characters amongst them—characters desirous of information and disposed for improvement—with whom I passed many a pleasant evening hour in their own homes."*

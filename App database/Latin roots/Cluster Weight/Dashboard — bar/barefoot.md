@@ -5,15 +5,6 @@ status: unread
 ---
 # barefoot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without shoes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without shoes on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ambitious love hath so in me offended That barefoot plod I the cold ground upon, With sainted vow my faults to have amended."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST PLAYER. _Run barefoot up and down, threat’ning the flames With bisson rheum."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know a lady in Venice would have walked barefoot to Palestine for a touch of his nether lip."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without shoes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without shoes on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ambitious love hath so in me offended That barefoot plod I the cold ground upon, With sainted vow my faults to have amended."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST PLAYER. _Run barefoot up and down, threat’ning the flames With bisson rheum."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know a lady in Venice would have walked barefoot to Palestine for a touch of his nether lip."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # theophany
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A visible (but not necessarily material) manifestation of a deity to a human person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A visible (but not necessarily material) manifestation of a deity to a human person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theophany designates a visible (but not necessarily material) manifestation of a deity to a human person."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A visible (but not necessarily material) manifestation of a deity to a human person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A visible (but not necessarily material) manifestation of a deity to a human person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theophany designates a visible (but not necessarily material) manifestation of a deity to a human person."*

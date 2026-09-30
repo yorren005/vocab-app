@@ -5,15 +5,6 @@ status: unread
 ---
 # roguery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reckless or malicious behavior that causes discomfort or annoyance in others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reckless or malicious behavior that causes discomfort or annoyance in others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You rogue, here’s lime in this sack too: there is nothing but roguery to be found in villainous man, yet a coward is worse than a cup of sack with lime in it."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"And that until you are again reform'd and grown new men, you ne'ere presume to name the Court, or press into the Porter's Lodge but for a penance, to be disciplin'd for your roguery, and this done with true contrition. _Both_."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"He was very glad to meet his schoolmate and playfellow, Ben, who by his gayety, spiced though it was with roguery, had made himself a general favorite in school."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reckless or malicious behavior that causes discomfort or annoyance in others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reckless or malicious behavior that causes discomfort or annoyance in others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You rogue, here’s lime in this sack too: there is nothing but roguery to be found in villainous man, yet a coward is worse than a cup of sack with lime in it."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"And that until you are again reform'd and grown new men, you ne'ere presume to name the Court, or press into the Porter's Lodge but for a penance, to be disciplin'd for your roguery, and this done with true contrition. _Both_."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"He was very glad to meet his schoolmate and playfellow, Ben, who by his gayety, spiced though it was with roguery, had made himself a general favorite in school."*

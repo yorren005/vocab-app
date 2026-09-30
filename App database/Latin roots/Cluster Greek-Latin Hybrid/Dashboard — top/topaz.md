@@ -5,15 +5,6 @@ status: unread
 ---
 # topaz
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow quartz.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mineral (fluosilicate of aluminum) that occurs in crystals of various colors and is used as a gemstone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"It shone also on the countless globes of the oranges and lemons, making them glow like lighted lamps of pale topaz and transparent red-gold among the dark-green leaves."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"All the basins among the hills were brimmed with topaz and emerald light."*
-> - 📜 **O. Henry (*My tussle with the devil, and other stories*):** *"Majestic--serene--content to fill their allotted place--asking not the perfume of lilies, nor scent of roses--seeking not the sparkling splendor of jewels--content with the Emerald, Ruby and Topaz, which they hold within their own domain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow quartz.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mineral (fluosilicate of aluminum) that occurs in crystals of various colors and is used as a gemstone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"It shone also on the countless globes of the oranges and lemons, making them glow like lighted lamps of pale topaz and transparent red-gold among the dark-green leaves."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"All the basins among the hills were brimmed with topaz and emerald light."*
+> - 📜 **O. Henry (*My tussle with the devil, and other stories*):** *"Majestic--serene--content to fill their allotted place--asking not the perfume of lilies, nor scent of roses--seeking not the sparkling splendor of jewels--content with the Emerald, Ruby and Topaz, which they hold within their own domain."*

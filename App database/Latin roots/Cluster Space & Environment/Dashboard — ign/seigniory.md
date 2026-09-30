@@ -5,13 +5,6 @@ status: unread
 ---
 # seigniory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The estate of a seigneur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position and authority of a feudal lord.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"QUEEN MARGARET. [_Coming forward._] If ancient sorrow be most reverend, Give mine the benefit of seigniory, And let my griefs frown on the upper hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The estate of a seigneur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position and authority of a feudal lord.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"QUEEN MARGARET. [_Coming forward._] If ancient sorrow be most reverend, Give mine the benefit of seigniory, And let my griefs frown on the upper hand."*

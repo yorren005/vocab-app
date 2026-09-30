@@ -5,13 +5,6 @@ status: unread
 ---
 # rhinoscope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medical instrument consisting of a mirror mounted at an angle on a rod; used to examine the nasal passages (through the nasopharynx).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medical instrument consisting of a mirror mounted at an angle on a rod; used to examine the nasal passages (through the nasopharynx).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinoscope designates medical instrument consisting of a mirror mounted at an angle on a rod; used to examine the nasal passages (through the nasopharynx)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Medical instrument consisting of a mirror mounted at an angle on a rod; used to examine the nasal passages (through the nasopharynx).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medical instrument consisting of a mirror mounted at an angle on a rod; used to examine the nasal passages (through the nasopharynx).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinoscope designates medical instrument consisting of a mirror mounted at an angle on a rod; used to examine the nasal passages (through the nasopharynx)."*

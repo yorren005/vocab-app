@@ -5,15 +5,6 @@ status: unread
 ---
 # unscientific
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not consistent with the methods or principles of science.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not consistent with the methods or principles of science.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Capital punishment is so _silly_, so stupid, so horribly unscientific."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"As for the easy explanation of all religious life by "auto-suggestion," we may note that it involves a loose and unscientific use of a more or less scientific theory--never a very safe way to knowledge."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I did not know whether Conseil stopped to classify them; for my part, I noticed their silver bellies, and their huge mouths bristling with teeth, from a very unscientific point of view, and more as a possible victim than as a naturalist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not consistent with the methods or principles of science.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not consistent with the methods or principles of science.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Capital punishment is so _silly_, so stupid, so horribly unscientific."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"As for the easy explanation of all religious life by "auto-suggestion," we may note that it involves a loose and unscientific use of a more or less scientific theory--never a very safe way to knowledge."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I did not know whether Conseil stopped to classify them; for my part, I noticed their silver bellies, and their huge mouths bristling with teeth, from a very unscientific point of view, and more as a possible victim than as a naturalist."*

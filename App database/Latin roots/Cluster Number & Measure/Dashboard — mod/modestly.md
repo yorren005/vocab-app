@@ -5,15 +5,6 @@ status: unread
 ---
 # modestly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With modesty; in a modest manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With modesty; in a modest manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I never in my life Did hear a challenge urged more modestly, Unless a brother should a brother dare To gentle exercise and proof of arms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Words sweetly placed and modestly directed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, good Brutus, be prepared to hear; And since you know you cannot see yourself So well as by reflection, I, your glass, Will modestly discover to yourself That of yourself which you yet know not of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With modesty; in a modest manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With modesty; in a modest manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I never in my life Did hear a challenge urged more modestly, Unless a brother should a brother dare To gentle exercise and proof of arms."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Words sweetly placed and modestly directed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, good Brutus, be prepared to hear; And since you know you cannot see yourself So well as by reflection, I, your glass, Will modestly discover to yourself That of yourself which you yet know not of."*

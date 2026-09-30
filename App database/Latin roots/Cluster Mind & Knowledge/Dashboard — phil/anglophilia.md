@@ -5,13 +5,6 @@ status: unread
 ---
 # anglophilia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Admiration for britain and british customs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Admiration for britain and british customs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anglophilia designates admiration for britain and british customs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Admiration for britain and british customs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Admiration for britain and british customs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anglophilia designates admiration for britain and british customs."*

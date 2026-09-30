@@ -5,13 +5,6 @@ status: unread
 ---
 # auricula
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Yellow-flowered primrose native to alps; commonly cultivated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pouch projecting from the top front of each atrium of the heart.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Flowers peeped out amongst the leaves; snow-drops, crocuses, purple auriculas, and golden-eyed pansies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Yellow-flowered primrose native to alps; commonly cultivated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pouch projecting from the top front of each atrium of the heart.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Flowers peeped out amongst the leaves; snow-drops, crocuses, purple auriculas, and golden-eyed pansies."*

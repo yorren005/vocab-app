@@ -5,20 +5,6 @@ status: unread
 ---
 # bevel
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Oblique, beveled
-> 2. **Nuance / Usage**: (transitive) to give a canted edge to a surface; to chamfer
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a bevel appearance*) and predicatively after a linking verb (*remained bevel*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Collin Knoff (*Mid-Century Modern Table*):** *"I added a bevel all around the bottom to reduce the visual mass a bit. A lot of MCM furniture uses tricks like this to appear lighter."*
-> - 📜 **Edward Shaw (*Civil Architecture*):** *"finding the length with a bevel"*
-> - 📜 **Classic Author (*The New York Times Book Review*):** *"The different types of dice made for cheating (flat passers, bevels, cut edges, loaded dice, {{..."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Oblique, beveled
+> 2. **Nuance / Usage**: (transitive) to give a canted edge to a surface; to chamfer
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a bevel appearance*) and predicatively after a linking verb (*remained bevel*).
+> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Collin Knoff (*Mid-Century Modern Table*):** *"I added a bevel all around the bottom to reduce the visual mass a bit. A lot of MCM furniture uses tricks like this to appear lighter."*
+> - 📜 **Edward Shaw (*Civil Architecture*):** *"finding the length with a bevel"*
+> - 📜 **Classic Author (*The New York Times Book Review*):** *"The different types of dice made for cheating (flat passers, bevels, cut edges, loaded dice, {{..."*

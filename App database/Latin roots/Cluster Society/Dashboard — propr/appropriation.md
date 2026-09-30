@@ -5,15 +5,6 @@ status: unread
 ---
 # appropriation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Money set aside (as by a legislature) for a specific purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incorporation by joining or uniting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, that’s a colt indeed, for he doth nothing but talk of his horse, and he makes it a great appropriation to his own good parts that he can shoe him himself."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The islanders looked upon the people who made this cavalier appropriation of their shores with mingled feelings of fear and detestation."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Advise drastic reduction in appropriation for activities except budgets for Latin America and European campaign, if maximum sum for Temple is exceeded."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Money set aside (as by a legislature) for a specific purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incorporation by joining or uniting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, that’s a colt indeed, for he doth nothing but talk of his horse, and he makes it a great appropriation to his own good parts that he can shoe him himself."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The islanders looked upon the people who made this cavalier appropriation of their shores with mingled feelings of fear and detestation."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Advise drastic reduction in appropriation for activities except budgets for Latin America and European campaign, if maximum sum for Temple is exceeded."*

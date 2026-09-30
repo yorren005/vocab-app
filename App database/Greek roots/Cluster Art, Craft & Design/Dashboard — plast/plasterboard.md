@@ -5,13 +5,6 @@ status: unread
 ---
 # plasterboard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wallboard with a gypsum plaster core bonded to layers of paper or fiberboard; used instead of plaster or wallboard to make interior walls.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wallboard with a gypsum plaster core bonded to layers of paper or fiberboard; used instead of plaster or wallboard to make interior walls.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasterboard designates wallboard with a gypsum plaster core bonded to layers of paper or fiberboard; used instead of plaster or wallboard to make interior walls."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wallboard with a gypsum plaster core bonded to layers of paper or fiberboard; used instead of plaster or wallboard to make interior walls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wallboard with a gypsum plaster core bonded to layers of paper or fiberboard; used instead of plaster or wallboard to make interior walls.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasterboard designates wallboard with a gypsum plaster core bonded to layers of paper or fiberboard; used instead of plaster or wallboard to make interior walls."*

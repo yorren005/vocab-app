@@ -5,14 +5,6 @@ status: unread
 ---
 # uncured
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not seasoned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not seasoned.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Madam M----, the mother of twelve children, had been quite shattered in mind by the death of her husband, and had been actually sent away uncured from an asylum."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Yet, no—no—thy wounds are uncured—Meet not that proud man—why shouldst thou perish also?” But Ivanhoe was already at his post, and had closed his visor, and assumed his lance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not seasoned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not seasoned.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Madam M----, the mother of twelve children, had been quite shattered in mind by the death of her husband, and had been actually sent away uncured from an asylum."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Yet, no—no—thy wounds are uncured—Meet not that proud man—why shouldst thou perish also?” But Ivanhoe was already at his post, and had closed his visor, and assumed his lance."*

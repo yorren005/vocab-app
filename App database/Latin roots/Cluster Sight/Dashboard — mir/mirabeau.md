@@ -5,13 +5,6 @@ status: unread
 ---
 # mirabeau
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French revolutionary who was prominent in the early days of the french revolution (1749-1791).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French revolutionary who was prominent in the early days of the french revolution (1749-1791).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"Down with every army that fights against the soap-box, The Pericles, Socrates, Diogenes soap-box, The old Elijah, Jeremiah, John-the-Baptist soap-box, The Rousseau, Mirabeau, Danton soap-box, The Karl Marx, Henry George, Woodrow Wilson soap-box."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French revolutionary who was prominent in the early days of the french revolution (1749-1791).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French revolutionary who was prominent in the early days of the french revolution (1749-1791).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"Down with every army that fights against the soap-box, The Pericles, Socrates, Diogenes soap-box, The old Elijah, Jeremiah, John-the-Baptist soap-box, The Rousseau, Mirabeau, Danton soap-box, The Karl Marx, Henry George, Woodrow Wilson soap-box."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # conformation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A symmetrical arrangement of the parts of a thing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any spatial attributes (especially as defined by outline).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"Yet I did not heed the bleakness of the weather; I was better fitted by my conformation for the endurance of cold than heat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A symmetrical arrangement of the parts of a thing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any spatial attributes (especially as defined by outline).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"Yet I did not heed the bleakness of the weather; I was better fitted by my conformation for the endurance of cold than heat."*

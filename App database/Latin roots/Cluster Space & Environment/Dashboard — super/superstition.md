@@ -5,15 +5,6 @@ status: unread
 ---
 # superstition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational belief arising from ignorance or fear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An irrational belief arising from ignorance or fear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And give me leave, And do not say ’tis superstition, that I kneel, and then implore her blessing."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Then they'll see that it is only a superstition and that there is no wandering ghost in Wildenstein."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The sentinel could only have been pleased by his endeavor to get rid of such an old superstition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational belief arising from ignorance or fear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An irrational belief arising from ignorance or fear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And give me leave, And do not say ’tis superstition, that I kneel, and then implore her blessing."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Then they'll see that it is only a superstition and that there is no wandering ghost in Wildenstein."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The sentinel could only have been pleased by his endeavor to get rid of such an old superstition."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # protamine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple protein found in fish sperm; rich in arginine; simpler in composition than globulin or albumin; counteracts the anticoagulant effect of heparin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A simple protein found in fish sperm; rich in arginine; simpler in composition than globulin or albumin; counteracts the anticoagulant effect of heparin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protamine designates a simple protein found in fish sperm; rich in arginine; simpler in composition than globulin or albumin; counteracts the anticoagulant effect of heparin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple protein found in fish sperm; rich in arginine; simpler in composition than globulin or albumin; counteracts the anticoagulant effect of heparin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A simple protein found in fish sperm; rich in arginine; simpler in composition than globulin or albumin; counteracts the anticoagulant effect of heparin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protamine designates a simple protein found in fish sperm; rich in arginine; simpler in composition than globulin or albumin; counteracts the anticoagulant effect of heparin."*

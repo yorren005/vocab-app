@@ -5,13 +5,6 @@ status: unread
 ---
 # pragmatism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A practical approach to problems and affairs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An American movement in philosophy founded by C. S. Peirce and William James and marked by the doctrines that the meaning of conceptions is to be sought in their practical bearings, that the function of thought is to guide action, and that truth is preeminently to be tested by the practical consequences of belief.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Dollop, the spirited landlady of the Tankard in Slaughter Lane, who had often to resist the shallow pragmatism of customers disposed to think that their reports from the outer world were of equal force with what had “come up” in her mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A practical approach to problems and affairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An American movement in philosophy founded by C. S. Peirce and William James and marked by the doctrines that the meaning of conceptions is to be sought in their practical bearings, that the function of thought is to guide action, and that truth is preeminently to be tested by the practical consequences of belief.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Dollop, the spirited landlady of the Tankard in Slaughter Lane, who had often to resist the shallow pragmatism of customers disposed to think that their reports from the outer world were of equal force with what had “come up” in her mind."*

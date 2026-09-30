@@ -5,20 +5,6 @@ status: unread
 ---
 # truck
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (intransitive) to drive a truck
-> 2. **Nuance / Usage**: Wheeled vehicle for moving heavy articles: such as
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"take several to put it on truck for the ship."*
-> - 📜 **James Beach (*Peterbilt: Long-Haul Legend*):** *"That's why driving truck became more than a job for many in the industry. Driving truck was a lifestyle."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Nothing! Look at your hands. And look at your mouth. What is that truck?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: (intransitive) to drive a truck
+> 2. **Nuance / Usage**: Wheeled vehicle for moving heavy articles: such as
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"take several to put it on truck for the ship."*
+> - 📜 **James Beach (*Peterbilt: Long-Haul Legend*):** *"That's why driving truck became more than a job for many in the industry. Driving truck was a lifestyle."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Nothing! Look at your hands. And look at your mouth. What is that truck?"*

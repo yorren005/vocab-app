@@ -5,13 +5,6 @@ status: unread
 ---
 # dative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The category of nouns serving as the indirect object of a verb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The category of nouns serving as the indirect object of a verb.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The use of the dative, or indirect object, without “to” or “for”."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The category of nouns serving as the indirect object of a verb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The category of nouns serving as the indirect object of a verb.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The use of the dative, or indirect object, without “to” or “for”."*

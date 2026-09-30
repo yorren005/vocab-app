@@ -5,15 +5,6 @@ status: unread
 ---
 # subordination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being subordinate to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The semantic relation of being subordinate or belonging to a lower rank or class.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He created the earth that it might be inhabited by man, and He governs the earth in subordination to the interests, the eternal and spiritual welfare of the race of immortal beings that are here being prepared for glory and immortality."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon might not hold the true principle of subordination."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"These armies being, in the first case, rarely, if at all, called into activity for interior defense, the people are in no danger of being broken to military subordination."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being subordinate to something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The semantic relation of being subordinate or belonging to a lower rank or class.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"He created the earth that it might be inhabited by man, and He governs the earth in subordination to the interests, the eternal and spiritual welfare of the race of immortal beings that are here being prepared for glory and immortality."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon might not hold the true principle of subordination."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"These armies being, in the first case, rarely, if at all, called into activity for interior defense, the people are in no danger of being broken to military subordination."*

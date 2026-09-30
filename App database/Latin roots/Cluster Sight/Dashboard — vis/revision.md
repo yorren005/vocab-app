@@ -5,15 +5,6 @@ status: unread
 ---
 # revision
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of revising or altering (involving reconsideration and modification).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of rewriting something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The present volume was planned some years ago as a revision of a part of the author's earlier text, "The Principles of Economics" (1904)."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Every tariff revision, whether the rates go upward or downward, shifts somewhat the relative opportunities and profitableness of different industries."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the revision of 1816, rates in a number of cases were fixed higher than those before the war."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of revising or altering (involving reconsideration and modification).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of rewriting something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The present volume was planned some years ago as a revision of a part of the author's earlier text, "The Principles of Economics" (1904)."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Every tariff revision, whether the rates go upward or downward, shifts somewhat the relative opportunities and profitableness of different industries."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the revision of 1816, rates in a number of cases were fixed higher than those before the war."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # facing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lining applied to the edge of a garment for ornamentation or strengthening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornamental coating to a building.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn sits, facing round, on a stool at the desk."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"By facing round as she has moved, he stands a little behind her."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sympathetic man still looked the other way, and wondered when she would recover coolness sufficient to justify him in facing her again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lining applied to the edge of a garment for ornamentation or strengthening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornamental coating to a building.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn sits, facing round, on a stool at the desk."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"By facing round as she has moved, he stands a little behind her."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sympathetic man still looked the other way, and wondered when she would recover coolness sufficient to justify him in facing her again."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # ignobly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a currish manner; meanspiritedly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a currish manner; meanspiritedly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, noble uncle, thus ignobly used, Your nephew, late despised Richard, comes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor should thy prowess want praise and esteem, But that ’tis shown ignobly and in treason."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By the kind gods, ’tis most ignobly done To pluck me by the beard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a currish manner; meanspiritedly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a currish manner; meanspiritedly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, noble uncle, thus ignobly used, Your nephew, late despised Richard, comes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nor should thy prowess want praise and esteem, But that ’tis shown ignobly and in treason."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By the kind gods, ’tis most ignobly done To pluck me by the beard."*

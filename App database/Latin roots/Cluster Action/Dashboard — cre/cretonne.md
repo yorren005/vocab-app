@@ -5,15 +5,6 @@ status: unread
 ---
 # cretonne
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unglazed heavy fabric; brightly printed; used for slipcovers and draperies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unglazed heavy fabric; brightly printed; used for slipcovers and draperies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A commode, one leg fractured, totally covered by square cretonne cutting, apple design, on which rested a lady’s black straw hat."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"She pictured to herself with a shudder the effect of a sixpenny Chinese umbrella in that fireplace, a cretonne valance to that bed, or chintz curtains to those windows."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"She was accustomed to survey with pride her mother’s drawing-room, which she had garnished with cheap cretonnes, Japanese paper fans, and knick-knacks in ornamental pottery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unglazed heavy fabric; brightly printed; used for slipcovers and draperies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unglazed heavy fabric; brightly printed; used for slipcovers and draperies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"A commode, one leg fractured, totally covered by square cretonne cutting, apple design, on which rested a lady’s black straw hat."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"She pictured to herself with a shudder the effect of a sixpenny Chinese umbrella in that fireplace, a cretonne valance to that bed, or chintz curtains to those windows."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"She was accustomed to survey with pride her mother’s drawing-room, which she had garnished with cheap cretonnes, Japanese paper fans, and knick-knacks in ornamental pottery."*

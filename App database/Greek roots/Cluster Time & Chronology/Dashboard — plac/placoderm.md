@@ -5,13 +5,6 @@ status: unread
 ---
 # placoderm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fish-like vertebrate with bony plates on head and upper body; dominant in seas and rivers during the devonian; considered the earliest vertebrate with jaws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fish-like vertebrate with bony plates on head and upper body; dominant in seas and rivers during the devonian; considered the earliest vertebrate with jaws.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placoderm designates fish-like vertebrate with bony plates on head and upper body; dominant in seas and rivers during the devonian; considered the earliest vertebrate with jaws."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fish-like vertebrate with bony plates on head and upper body; dominant in seas and rivers during the devonian; considered the earliest vertebrate with jaws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fish-like vertebrate with bony plates on head and upper body; dominant in seas and rivers during the devonian; considered the earliest vertebrate with jaws.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placoderm designates fish-like vertebrate with bony plates on head and upper body; dominant in seas and rivers during the devonian; considered the earliest vertebrate with jaws."*

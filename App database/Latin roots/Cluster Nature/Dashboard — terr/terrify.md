@@ -5,15 +5,6 @@ status: unread
 ---
 # terrify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with terror; frighten greatly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill with terror; frighten greatly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"They tended their flocks severely in buckram and powder and put their sticking-plaster patches on to terrify commoners as the chiefs of some other tribes put on their war-paint."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Alec d’Urberville had evidently thought better of his freak to terrify her by an ambush of that kind."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"With a whip?" "No." "What a pity!" "No, the other method is more effective." "You terrify me," her eyes were sparkling now like a diamond."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with terror; frighten greatly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill with terror; frighten greatly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"They tended their flocks severely in buckram and powder and put their sticking-plaster patches on to terrify commoners as the chiefs of some other tribes put on their war-paint."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Alec d’Urberville had evidently thought better of his freak to terrify her by an ambush of that kind."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"With a whip?" "No." "What a pity!" "No, the other method is more effective." "You terrify me," her eyes were sparkling now like a diamond."*

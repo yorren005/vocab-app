@@ -5,13 +5,6 @@ status: unread
 ---
 # graticule
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A network of fine lines, dots, cross hairs, or wires in the focal plane of the eyepiece of an optical instrument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A network of fine lines, dots, cross hairs, or wires in the focal plane of the eyepiece of an optical instrument.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, graticule designates a network of fine lines, dots, cross hairs, or wires in the focal plane of the eyepiece of an optical instrument."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A network of fine lines, dots, cross hairs, or wires in the focal plane of the eyepiece of an optical instrument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A network of fine lines, dots, cross hairs, or wires in the focal plane of the eyepiece of an optical instrument.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, graticule designates a network of fine lines, dots, cross hairs, or wires in the focal plane of the eyepiece of an optical instrument."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # propaganda
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Information that is spread for the purpose of promoting some cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Information that is spread for the purpose of promoting some cause.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In 1916, the centenary of the beginning of savings banks in this country, a nation-wide propaganda was undertaken by the American Bankers' Association for the encouragement of savings. § 4. #Investment banking#."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He was committed to a great propaganda, to the preaching of Jesus, and he had to preach with penetration and appeal."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"So far as I know the club is a new departure in mission work, and most worthy of support as a rational and hopeful method of presenting the best of Christian civilization to a class often repelled by missionary propaganda."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Information that is spread for the purpose of promoting some cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Information that is spread for the purpose of promoting some cause.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In 1916, the centenary of the beginning of savings banks in this country, a nation-wide propaganda was undertaken by the American Bankers' Association for the encouragement of savings. § 4. #Investment banking#."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"He was committed to a great propaganda, to the preaching of Jesus, and he had to preach with penetration and appeal."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"So far as I know the club is a new departure in mission work, and most worthy of support as a rational and hopeful method of presenting the best of Christian civilization to a class often repelled by missionary propaganda."*

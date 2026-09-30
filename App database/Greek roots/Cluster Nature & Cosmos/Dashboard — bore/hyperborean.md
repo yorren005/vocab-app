@@ -5,13 +5,6 @@ status: unread
 ---
 # hyperborean
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) one of a people that the ancient greeks believed lived in a warm and sunny land north of the source of the north wind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) one of a people that the ancient greeks believed lived in a warm and sunny land north of the source of the north wind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"I’m hyperborean as much as you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) one of a people that the ancient greeks believed lived in a warm and sunny land north of the source of the north wind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) one of a people that the ancient greeks believed lived in a warm and sunny land north of the source of the north wind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"I’m hyperborean as much as you."*

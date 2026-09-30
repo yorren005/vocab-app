@@ -5,14 +5,6 @@ status: unread
 ---
 # recalcitrant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obstinately defiant of authority or restraint : stubbornly uncooperative or disobedient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Difficult to manage or operate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Gloria looked around at those who remained recalcitrant and concentrated her gaze on Stevens."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"He found the recalcitrants soon enough."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obstinately defiant of authority or restraint : stubbornly uncooperative or disobedient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Difficult to manage or operate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Gloria looked around at those who remained recalcitrant and concentrated her gaze on Stevens."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"He found the recalcitrants soon enough."*

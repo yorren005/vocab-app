@@ -5,15 +5,6 @@ status: unread
 ---
 # miscellaneous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of a haphazard assortment of different kinds; ; ; ; ; ; - i.a.richards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having many aspects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The scene your son Kurt enacted to-day in front of Apollonie's cottage with his crowd of miscellaneous friends can only be called a vulgar noise." But Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"At last, having been (always attended by the cat) all over the house and having seen the whole stock of miscellaneous lumber, which was certainly curious, we came into the back part of the shop."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Some of the Fancy Ball School in which art occasionally condescends to become a master, which would be best catalogued like the miscellaneous articles in a sale."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of a haphazard assortment of different kinds; ; ; ; ; ; - i.a.richards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having many aspects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The scene your son Kurt enacted to-day in front of Apollonie's cottage with his crowd of miscellaneous friends can only be called a vulgar noise." But Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"At last, having been (always attended by the cat) all over the house and having seen the whole stock of miscellaneous lumber, which was certainly curious, we came into the back part of the shop."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Some of the Fancy Ball School in which art occasionally condescends to become a master, which would be best catalogued like the miscellaneous articles in a sale."*

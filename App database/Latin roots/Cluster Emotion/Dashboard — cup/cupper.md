@@ -5,13 +5,6 @@ status: unread
 ---
 # cupper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cup of tea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cup of tea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Miss Osborne was apprised; the doctors were sent for; Georgy stopped away from school; the bleeders and cuppers came."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cup of tea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cup of tea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Miss Osborne was apprised; the doctors were sent for; Georgy stopped away from school; the bleeders and cuppers came."*

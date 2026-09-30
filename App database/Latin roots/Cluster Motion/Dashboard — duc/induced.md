@@ -5,15 +5,6 @@ status: unread
 ---
 # induced
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to arise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to do; cause to act in a specified manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have done As you have done—that’s what I can; Induced as you have been—that’s for my country."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do believe, Induced by potent circumstances, that You are mine enemy, and make my challenge You shall not be my judge; for it is you Have blown this coal betwixt my lord and me, Which God’s dew quench!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, induced by my charity, and hearing how hastily you are to depart, I am come to advise you, comfort you, and pray with you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to arise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to do; cause to act in a specified manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have done As you have done—that’s what I can; Induced as you have been—that’s for my country."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do believe, Induced by potent circumstances, that You are mine enemy, and make my challenge You shall not be my judge; for it is you Have blown this coal betwixt my lord and me, Which God’s dew quench!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, induced by my charity, and hearing how hastily you are to depart, I am come to advise you, comfort you, and pray with you."*

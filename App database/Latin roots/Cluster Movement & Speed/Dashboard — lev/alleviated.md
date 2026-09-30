@@ -5,15 +5,6 @@ status: unread
 ---
 # alleviated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide physical relief, as from pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make easier.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"While we were talking, and when I was glad to believe that I had alleviated (if I may use such a term) the shock he had had in seeing me, Richard came in."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I never lie down at night but I know that in the course of that day he has alleviated pain and soothed some fellow-creature in the time of need."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"My depression was not alleviated by the announcement, for, I had supposed that establishment to be an hotel kept by Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide physical relief, as from pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make easier.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"While we were talking, and when I was glad to believe that I had alleviated (if I may use such a term) the shock he had had in seeing me, Richard came in."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I never lie down at night but I know that in the course of that day he has alleviated pain and soothed some fellow-creature in the time of need."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"My depression was not alleviated by the announcement, for, I had supposed that establishment to be an hotel kept by Mr."*

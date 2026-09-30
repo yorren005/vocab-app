@@ -5,15 +5,6 @@ status: unread
 ---
 # deify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider as a god or godlike.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exalt to the position of a god.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is a man haunts the forest that abuses our young plants with carving “Rosalind” on their barks; hangs odes upon hawthorns and elegies on brambles; all, forsooth, deifying the name of Rosalind."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"A phrase like that of Clement of Alexandria, "deifying into apathy we become monadic," is seas away from anything we find in the speech of Jesus."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Christians were the only people (apart from the Jews) who openly denounced the folly of worshipping and deifying Emperors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider as a god or godlike.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exalt to the position of a god.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is a man haunts the forest that abuses our young plants with carving “Rosalind” on their barks; hangs odes upon hawthorns and elegies on brambles; all, forsooth, deifying the name of Rosalind."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"A phrase like that of Clement of Alexandria, "deifying into apathy we become monadic," is seas away from anything we find in the speech of Jesus."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Christians were the only people (apart from the Jews) who openly denounced the folly of worshipping and deifying Emperors."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # irreverence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An irreverent mental attitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disrespectful act.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"And the feeling is one with which a Catholic must sympathise, in an age when--if we may say so without irreverence--the Almighty has been made a constitutional Deity, with certain state-grants of worship, but no influence over political affairs."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"How far ye got, Bildad?” As if long habituated to such profane talk from his old shipmate, Bildad, without noticing his present irreverence, quietly looked up, and seeing me, glanced again inquiringly towards Peleg."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"How far ye got, Bildad?” As if long habituated to such profane talk from his old shipmate, Bildad, without noticing his present irreverence, quietly looked up, and seeing me, glanced again inquiringly towards Peleg."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irreverent mental attitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disrespectful act.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"And the feeling is one with which a Catholic must sympathise, in an age when--if we may say so without irreverence--the Almighty has been made a constitutional Deity, with certain state-grants of worship, but no influence over political affairs."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"How far ye got, Bildad?” As if long habituated to such profane talk from his old shipmate, Bildad, without noticing his present irreverence, quietly looked up, and seeing me, glanced again inquiringly towards Peleg."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"How far ye got, Bildad?” As if long habituated to such profane talk from his old shipmate, Bildad, without noticing his present irreverence, quietly looked up, and seeing me, glanced again inquiringly towards Peleg."*

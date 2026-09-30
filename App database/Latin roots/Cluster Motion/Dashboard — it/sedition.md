@@ -5,15 +5,6 @@ status: unread
 ---
 # sedition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An illegal action inciting resistance to lawful authority and tending to cause the disruption or overthrow of the government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An illegal action inciting resistance to lawful authority and tending to cause the disruption or overthrow of the government.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus, while the vulture of sedition Feeds in the bosom of such great commanders, Sleeping neglection doth betray to loss The conquest of our scarce-cold conqueror, That ever-living man of memory, Henry the Fifth."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Coponius, procurator fourth before Pilate, had a pretty time crushing the Gaulonite sedition which arose in this fashion and spread down from Gamala."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If now and then intervals of felicity open to view, we behold them with a mixture of regret, arising from the reflection that the pleasing scenes before us are soon to be overwhelmed by the tempestuous waves of sedition and party rage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An illegal action inciting resistance to lawful authority and tending to cause the disruption or overthrow of the government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An illegal action inciting resistance to lawful authority and tending to cause the disruption or overthrow of the government.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus, while the vulture of sedition Feeds in the bosom of such great commanders, Sleeping neglection doth betray to loss The conquest of our scarce-cold conqueror, That ever-living man of memory, Henry the Fifth."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Coponius, procurator fourth before Pilate, had a pretty time crushing the Gaulonite sedition which arose in this fashion and spread down from Gamala."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If now and then intervals of felicity open to view, we behold them with a mixture of regret, arising from the reflection that the pleasing scenes before us are soon to be overwhelmed by the tempestuous waves of sedition and party rage."*

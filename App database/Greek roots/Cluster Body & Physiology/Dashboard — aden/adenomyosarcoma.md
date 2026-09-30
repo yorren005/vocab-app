@@ -5,13 +5,6 @@ status: unread
 ---
 # adenomyosarcoma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Malignant renal tumor of young children characterized by hypertension and blood in the urine and the presence of a palpable mass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Malignant renal tumor of young children characterized by hypertension and blood in the urine and the presence of a palpable mass.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenomyosarcoma designates malignant renal tumor of young children characterized by hypertension and blood in the urine and the presence of a palpable mass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Malignant renal tumor of young children characterized by hypertension and blood in the urine and the presence of a palpable mass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Malignant renal tumor of young children characterized by hypertension and blood in the urine and the presence of a palpable mass.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adenomyosarcoma designates malignant renal tumor of young children characterized by hypertension and blood in the urine and the presence of a palpable mass."*

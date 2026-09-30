@@ -5,13 +5,6 @@ status: unread
 ---
 # ceratin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fibrous scleroprotein that occurs in the outer layer of the skin and in horny tissues such as hair, feathers, nails, and hooves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fibrous scleroprotein that occurs in the outer layer of the skin and in horny tissues such as hair, feathers, nails, and hooves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratin designates a fibrous scleroprotein that occurs in the outer layer of the skin and in horny tissues such as hair, feathers, nails, and hooves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fibrous scleroprotein that occurs in the outer layer of the skin and in horny tissues such as hair, feathers, nails, and hooves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fibrous scleroprotein that occurs in the outer layer of the skin and in horny tissues such as hair, feathers, nails, and hooves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratin designates a fibrous scleroprotein that occurs in the outer layer of the skin and in horny tissues such as hair, feathers, nails, and hooves."*

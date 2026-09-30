@@ -5,13 +5,6 @@ status: unread
 ---
 # aortic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The great arterial trunk that carries blood from the heart to be distributed by branch arteries through the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the arterial branches in vertebrate embryos that exist in a series of pairs with one on each side of the embryo, connect the ventral arterial system lying anterior to the heart to the dorsal arterial system above the digestive tract, and persist in adult fishes but are reduced or much modified in the adult of higher forms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aortic designates the great arterial trunk that carries blood from the heart to be distributed by branch arteries through the body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The great arterial trunk that carries blood from the heart to be distributed by branch arteries through the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the arterial branches in vertebrate embryos that exist in a series of pairs with one on each side of the embryo, connect the ventral arterial system lying anterior to the heart to the dorsal arterial system above the digestive tract, and persist in adult fishes but are reduced or much modified in the adult of higher forms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aortic designates the great arterial trunk that carries blood from the heart to be distributed by branch arteries through the body."*

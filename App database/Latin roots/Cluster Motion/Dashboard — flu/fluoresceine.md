@@ -5,13 +5,6 @@ status: unread
 ---
 # fluoresceine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow dye that is visible even when highly diluted; used as an absorption indicator when silver nitrate solution is added to sodium chloride in order to precipitate silver chloride (turns pink when no chloride ions are left in solution and negative fluorescein ions are then absorbed).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellow dye that is visible even when highly diluted; used as an absorption indicator when silver nitrate solution is added to sodium chloride in order to precipitate silver chloride (turns pink when no chloride ions are left in solution and negative fluorescein ions are then absorbed).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluoresceine designates a yellow dye that is visible even when highly diluted; used as an absorption indicator when silver nitrate solution is added to sodium chloride in order to precipitate silver chloride (turns pink when no chloride ions are left in solution and negative fluorescein ions are then absorbed)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow dye that is visible even when highly diluted; used as an absorption indicator when silver nitrate solution is added to sodium chloride in order to precipitate silver chloride (turns pink when no chloride ions are left in solution and negative fluorescein ions are then absorbed).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellow dye that is visible even when highly diluted; used as an absorption indicator when silver nitrate solution is added to sodium chloride in order to precipitate silver chloride (turns pink when no chloride ions are left in solution and negative fluorescein ions are then absorbed).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluoresceine designates a yellow dye that is visible even when highly diluted; used as an absorption indicator when silver nitrate solution is added to sodium chloride in order to precipitate silver chloride (turns pink when no chloride ions are left in solution and negative fluorescein ions are then absorbed)."*

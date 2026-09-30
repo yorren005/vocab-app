@@ -5,13 +5,6 @@ status: unread
 ---
 # osteopathist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A therapist who manipulates the skeleton and muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A therapist who manipulates the skeleton and muscles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteopathist designates a therapist who manipulates the skeleton and muscles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A therapist who manipulates the skeleton and muscles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A therapist who manipulates the skeleton and muscles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteopathist designates a therapist who manipulates the skeleton and muscles."*

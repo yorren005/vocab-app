@@ -5,15 +5,6 @@ status: unread
 ---
 # positively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to be positive; in a positive manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath there been such a time, I’d fain know that, That I have positively said ‘’Tis so,’ When it prov’d otherwise?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me some little breath, some pause, dear lord, Before I positively speak in this."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He was positively sure that you would be glad if he decided and ordered everything to suit himself and you." "But, Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to be positive; in a positive manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath there been such a time, I’d fain know that, That I have positively said ‘’Tis so,’ When it prov’d otherwise?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me some little breath, some pause, dear lord, Before I positively speak in this."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He was positively sure that you would be glad if he decided and ordered everything to suit himself and you." "But, Mrs."*

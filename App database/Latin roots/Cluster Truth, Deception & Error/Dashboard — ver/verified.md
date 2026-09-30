@@ -5,15 +5,6 @@ status: unread
 ---
 # verified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confirm the truth of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Check or regulate (a scientific experiment) by conducting a parallel experiment or comparing with another standard.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been The book of his good acts, whence men have read His fame unparalleled happily amplified; For I have ever verified my friends— Of whom he’s chief—with all the size that verity Would without lapsing suffer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More truly now may this be verified; For none but Samsons and Goliases It sendeth forth to skirmish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then I perceive that will be verified Henry the Fifth did sometime prophesy: “If once he come to be a cardinal, He’ll make his cap co-equal with the crown.” KING HENRY."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Confirm the truth of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Check or regulate (a scientific experiment) by conducting a parallel experiment or comparing with another standard.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been The book of his good acts, whence men have read His fame unparalleled happily amplified; For I have ever verified my friends— Of whom he’s chief—with all the size that verity Would without lapsing suffer."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More truly now may this be verified; For none but Samsons and Goliases It sendeth forth to skirmish."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then I perceive that will be verified Henry the Fifth did sometime prophesy: “If once he come to be a cardinal, He’ll make his cap co-equal with the crown.” KING HENRY."*

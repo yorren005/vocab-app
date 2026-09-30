@@ -5,15 +5,6 @@ status: unread
 ---
 # mutilate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy or injure severely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alter so as to make unrecognizable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Why mutilate her poor body without need?"*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"In examining the two handsome bodies lying there, I noticed one fact to which I should have liked to draw the attention of the whole learned fraternity of blacksmiths, who mutilate horses, the world over."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Armour prevailed with him to mutilate that unlucky paper[12c] yesterday."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy or injure severely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alter so as to make unrecognizable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"Why mutilate her poor body without need?"*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"In examining the two handsome bodies lying there, I noticed one fact to which I should have liked to draw the attention of the whole learned fraternity of blacksmiths, who mutilate horses, the world over."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Armour prevailed with him to mutilate that unlucky paper[12c] yesterday."*

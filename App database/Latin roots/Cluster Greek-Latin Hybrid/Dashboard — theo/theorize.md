@@ -5,15 +5,6 @@ status: unread
 ---
 # theorize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To believe especially on uncertain or tentative grounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Construct a theory about.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill set himself, among other things, to study and theorize upon poetry and the arts generally."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It is scarcely necessary to theorize as to what would have been the attitude and conduct of a sensitive Hoelderlin or a proud-spirited Lenau in a similar position."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Warthell, I have not come here to theorize on the comparative value of life and death."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To believe especially on uncertain or tentative grounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Construct a theory about.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill set himself, among other things, to study and theorize upon poetry and the arts generally."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"It is scarcely necessary to theorize as to what would have been the attitude and conduct of a sensitive Hoelderlin or a proud-spirited Lenau in a similar position."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Warthell, I have not come here to theorize on the comparative value of life and death."*

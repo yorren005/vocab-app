@@ -5,13 +5,6 @@ status: unread
 ---
 # coelophysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the oldest known dinosaurs; late triassic; cannibalistic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the oldest known dinosaurs; late triassic; cannibalistic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coelophysis designates one of the oldest known dinosaurs; late triassic; cannibalistic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the oldest known dinosaurs; late triassic; cannibalistic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the oldest known dinosaurs; late triassic; cannibalistic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coelophysis designates one of the oldest known dinosaurs; late triassic; cannibalistic."*

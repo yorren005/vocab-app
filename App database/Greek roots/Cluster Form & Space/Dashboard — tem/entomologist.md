@@ -5,14 +5,6 @@ status: unread
 ---
 # entomologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoologist who studies insects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A zoologist who studies insects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"One of the pocket-cases of our entomologist had opened, and the inmates, imprisoned but that morning, were now swarming over our fat friend's fingers, and up his arm, which he was shaking vigorously."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"It was hard to tell which was most incensed, the Briton or the entomologist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoologist who studies insects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A zoologist who studies insects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"One of the pocket-cases of our entomologist had opened, and the inmates, imprisoned but that morning, were now swarming over our fat friend's fingers, and up his arm, which he was shaking vigorously."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"It was hard to tell which was most incensed, the Briton or the entomologist."*

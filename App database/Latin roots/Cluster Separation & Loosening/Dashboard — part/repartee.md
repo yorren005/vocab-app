@@ -5,15 +5,6 @@ status: unread
 ---
 # repartee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adroitness and cleverness in reply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adroitness and cleverness in reply.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester, allow me to disown my first answer: I intended no pointed repartee: it was only a blunder.” “Just so: I think so: and you shall be answerable for it."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"I am a very matter-of-fact, plain-spoken being, and may blunder on the borders of a repartee for half an hour together without striking it out.” A general silence succeeded."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Aunty became instantly a thing of dash and electricity, collected parcels, shook Albert, replied to his thrusts with repartee, and finally headed a stampede out of the door."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adroitness and cleverness in reply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adroitness and cleverness in reply.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester, allow me to disown my first answer: I intended no pointed repartee: it was only a blunder.” “Just so: I think so: and you shall be answerable for it."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"I am a very matter-of-fact, plain-spoken being, and may blunder on the borders of a repartee for half an hour together without striking it out.” A general silence succeeded."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Aunty became instantly a thing of dash and electricity, collected parcels, shook Albert, replied to his thrusts with repartee, and finally headed a stampede out of the door."*

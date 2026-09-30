@@ -5,13 +5,6 @@ status: unread
 ---
 # sociobiology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology that conducts comparative studies of the social organization of animals (including human beings) with regard to its evolutionary history.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of biology that conducts comparative studies of the social organization of animals (including human beings) with regard to its evolutionary history.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sociobiology designates the branch of biology that conducts comparative studies of the social organization of animals (including human beings) with regard to its evolutionary history."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology that conducts comparative studies of the social organization of animals (including human beings) with regard to its evolutionary history.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of biology that conducts comparative studies of the social organization of animals (including human beings) with regard to its evolutionary history.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sociobiology designates the branch of biology that conducts comparative studies of the social organization of animals (including human beings) with regard to its evolutionary history."*

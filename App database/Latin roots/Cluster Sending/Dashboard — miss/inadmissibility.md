@@ -5,13 +5,6 @@ status: unread
 ---
 # inadmissibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unacceptability as a consequence of not being admissible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unacceptability as a consequence of not being admissible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inadmissibility designates unacceptability as a consequence of not being admissible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unacceptability as a consequence of not being admissible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unacceptability as a consequence of not being admissible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inadmissibility designates unacceptability as a consequence of not being admissible."*

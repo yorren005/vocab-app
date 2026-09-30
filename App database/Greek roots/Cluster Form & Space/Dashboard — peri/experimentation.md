@@ -5,15 +5,6 @@ status: unread
 ---
 # experimentation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The testing of an idea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of conducting a controlled test or investigation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There are unused materials and opportunities, but the initial expense of experimentation, the initial difficulties of gathering and training a working force, are discouraging to individual enterprise, prices being as they are."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The working out of the many minor problems of classification, assessment, and administration, of unemployment insurance, will require many more years of experimentation. § 13. #Need of ideals in social insurance#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The world has had nearly forty years of experimentation of a remarkably varied kind, in the field of social insurance, since the German system was inaugurated in the eighties of the nineteenth century."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The testing of an idea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of conducting a controlled test or investigation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There are unused materials and opportunities, but the initial expense of experimentation, the initial difficulties of gathering and training a working force, are discouraging to individual enterprise, prices being as they are."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The working out of the many minor problems of classification, assessment, and administration, of unemployment insurance, will require many more years of experimentation. § 13. #Need of ideals in social insurance#."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The world has had nearly forty years of experimentation of a remarkably varied kind, in the field of social insurance, since the German system was inaugurated in the eighties of the nineteenth century."*

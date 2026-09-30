@@ -5,15 +5,6 @@ status: unread
 ---
 # martial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman poet noted for epigrams (first century bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of persons) befitting a warrior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A gallant curtal-axe upon my thigh, A boar-spear in my hand, and in my heart Lie there what hidden woman’s fear there will, We’ll have a swashing and a martial outside, As many other mannish cowards have That do outface it with their semblances."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know the shape of’s leg; this is his hand, His foot Mercurial, his Martial thigh, The brawns of Hercules; but his Jovial face— Murder in heaven!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus twice before, and jump at this dead hour, With martial stalk hath he gone by our watch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman poet noted for epigrams (first century bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of persons) befitting a warrior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A gallant curtal-axe upon my thigh, A boar-spear in my hand, and in my heart Lie there what hidden woman’s fear there will, We’ll have a swashing and a martial outside, As many other mannish cowards have That do outface it with their semblances."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know the shape of’s leg; this is his hand, His foot Mercurial, his Martial thigh, The brawns of Hercules; but his Jovial face— Murder in heaven!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus twice before, and jump at this dead hour, With martial stalk hath he gone by our watch."*

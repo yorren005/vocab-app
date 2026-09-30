@@ -5,13 +5,6 @@ status: unread
 ---
 # aerolite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stony meteorite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stony meteorite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Stones do not fall from the sky,” remarked Conseil, “or they would merit the name aerolites.” A second stone, carefully aimed, that made a savoury pigeon’s leg fall from Conseil’s hand, gave still more weight to his observation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stony meteorite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stony meteorite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Stones do not fall from the sky,” remarked Conseil, “or they would merit the name aerolites.” A second stone, carefully aimed, that made a savoury pigeon’s leg fall from Conseil’s hand, gave still more weight to his observation."*

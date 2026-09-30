@@ -5,13 +5,6 @@ status: unread
 ---
 # plumbing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Utility consisting of the pipes and fixtures for the distribution of water or gas in a building and for the disposal of sewage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The occupation of a plumber (installing and repairing pipes and fixtures for water or gas or sewage in a building).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumbing designates utility consisting of the pipes and fixtures for the distribution of water or gas in a building and for the disposal of sewage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Utility consisting of the pipes and fixtures for the distribution of water or gas in a building and for the disposal of sewage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The occupation of a plumber (installing and repairing pipes and fixtures for water or gas or sewage in a building).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumbing designates utility consisting of the pipes and fixtures for the distribution of water or gas in a building and for the disposal of sewage."*

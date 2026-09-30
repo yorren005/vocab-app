@@ -5,13 +5,6 @@ status: unread
 ---
 # basidium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small club-shaped structure typically bearing four basidiospores at the ends of minute projections; unique to basidiomycetes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small club-shaped structure typically bearing four basidiospores at the ends of minute projections; unique to basidiomycetes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidium designates a small club-shaped structure typically bearing four basidiospores at the ends of minute projections; unique to basidiomycetes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small club-shaped structure typically bearing four basidiospores at the ends of minute projections; unique to basidiomycetes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small club-shaped structure typically bearing four basidiospores at the ends of minute projections; unique to basidiomycetes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidium designates a small club-shaped structure typically bearing four basidiospores at the ends of minute projections; unique to basidiomycetes."*

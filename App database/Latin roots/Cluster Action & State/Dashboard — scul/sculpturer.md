@@ -5,13 +5,6 @@ status: unread
 ---
 # sculpturer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist who creates sculptures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artist who creates sculptures.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sculpturer designates an artist who creates sculptures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist who creates sculptures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artist who creates sculptures.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sculpturer designates an artist who creates sculptures."*

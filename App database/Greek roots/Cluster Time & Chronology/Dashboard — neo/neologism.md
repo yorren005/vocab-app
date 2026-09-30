@@ -5,13 +5,6 @@ status: unread
 ---
 # neologism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A new word, usage, or expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A new word that is coined especially by a person affected with schizophrenia and is meaningless except to the coiner, and is typically a combination of two existing words or a shortening or distortion of an existing word.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neologism designates a new word, usage, or expression."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A new word, usage, or expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A new word that is coined especially by a person affected with schizophrenia and is meaningless except to the coiner, and is typically a combination of two existing words or a shortening or distortion of an existing word.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neologism designates a new word, usage, or expression."*

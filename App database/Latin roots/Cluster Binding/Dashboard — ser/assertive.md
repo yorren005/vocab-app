@@ -5,13 +5,6 @@ status: unread
 ---
 # assertive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aggressively self-assured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aggressively self-assured.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Don't Just Ride Off into the Sunset Recalling that far more assertive and influential time in their lives, the elderly insist on their right to age gracefully, usefully, and so far as they possibly can, their way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aggressively self-assured.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aggressively self-assured.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Don't Just Ride Off into the Sunset Recalling that far more assertive and influential time in their lives, the elderly insist on their right to age gracefully, usefully, and so far as they possibly can, their way."*

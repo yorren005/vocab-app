@@ -5,15 +5,6 @@ status: unread
 ---
 # serenity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition free from stress or emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The absence of mental stress or anxiety.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba, a small yawn upon her mouth, took the pen, and with off-hand serenity directed the missive to Boldwood."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The conviction bred serenity, her pulse slowed, and she was able to look about her."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I remember remarking at the time my serenity of mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition free from stress or emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The absence of mental stress or anxiety.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba, a small yawn upon her mouth, took the pen, and with off-hand serenity directed the missive to Boldwood."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The conviction bred serenity, her pulse slowed, and she was able to look about her."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I remember remarking at the time my serenity of mind."*

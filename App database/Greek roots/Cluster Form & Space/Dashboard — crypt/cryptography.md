@@ -5,13 +5,6 @@ status: unread
 ---
 # cryptography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Secret writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The enciphering and deciphering of messages in secret code or cipher; also : the computerized encoding and decoding of information.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptography designates secret writing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Secret writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The enciphering and deciphering of messages in secret code or cipher; also : the computerized encoding and decoding of information.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptography designates secret writing."*

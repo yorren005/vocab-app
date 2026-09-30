@@ -5,15 +5,6 @@ status: unread
 ---
 # impenitent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not penitent or remorseful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impervious to moral persuasion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"The Gospel has appeared transcendently beautiful and glorious to all who have been savingly enlightened by the Holy Spirit--while, to the impenitent and skeptical, it seems obscure, irrational, and incomprehensible."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"The other, comprising all the impenitent, will be as publicly condemned, and driven from his presence."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He was impenitent—but were not public criminals impenitent?—yet the law decided on their fate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not penitent or remorseful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impervious to moral persuasion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"The Gospel has appeared transcendently beautiful and glorious to all who have been savingly enlightened by the Holy Spirit--while, to the impenitent and skeptical, it seems obscure, irrational, and incomprehensible."*
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"The other, comprising all the impenitent, will be as publicly condemned, and driven from his presence."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He was impenitent—but were not public criminals impenitent?—yet the law decided on their fate."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # stater
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the various silver or gold coins of ancient greece.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A resident of a particular state or group of states.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stater designates any of the various silver or gold coins of ancient greece."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the various silver or gold coins of ancient greece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A resident of a particular state or group of states.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stater designates any of the various silver or gold coins of ancient greece."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # genuflect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bend the knees and bow in church or before a religious superior or image.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bend the knees and bow in a servile manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The peers do homage, one by one, approaching and genuflecting.)_ THE PEERS: I do become your liege man of life and limb to earthly worship. _(Bloom holds up his right hand on which sparkles the Koh-i-Noor diamond."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bend the knees and bow in church or before a religious superior or image.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bend the knees and bow in a servile manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"The peers do homage, one by one, approaching and genuflecting.)_ THE PEERS: I do become your liege man of life and limb to earthly worship. _(Bloom holds up his right hand on which sparkles the Koh-i-Noor diamond."*

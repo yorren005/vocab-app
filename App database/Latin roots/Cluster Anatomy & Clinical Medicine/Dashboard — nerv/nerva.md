@@ -5,13 +5,6 @@ status: unread
 ---
 # nerva
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Emperor of rome who introduced a degree of freedom after the repressive reign of domitian; adopted trajan as his successor (30-98).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emperor of rome who introduced a degree of freedom after the repressive reign of domitian; adopted trajan as his successor (30-98).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nerva designates emperor of rome who introduced a degree of freedom after the repressive reign of domitian; adopted trajan as his successor (30-98)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Emperor of rome who introduced a degree of freedom after the repressive reign of domitian; adopted trajan as his successor (30-98).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emperor of rome who introduced a degree of freedom after the repressive reign of domitian; adopted trajan as his successor (30-98).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nerva designates emperor of rome who introduced a degree of freedom after the repressive reign of domitian; adopted trajan as his successor (30-98)."*

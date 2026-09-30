@@ -5,13 +5,6 @@ status: unread
 ---
 # remediate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Set straight or right.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set straight or right.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be aidant and remediate In the good man’s distress!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Set straight or right.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set straight or right.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be aidant and remediate In the good man’s distress!"*

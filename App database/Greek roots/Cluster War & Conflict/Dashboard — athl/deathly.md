@@ -5,15 +5,6 @@ status: unread
 ---
 # deathly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the physical appearance of death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing or capable of causing death.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Like this—three, four.” “How murderous and bloodthirsty!” “They are rather deathly."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode’s usual paleness had in fact taken an almost deathly hue."*
-> - 📜 **George Eliot (*Middlemarch*):** *"In that short drive her dread gathered so much force from the sense of darkness, that when she entered the private counting-house where her brother sat at his desk, her knees trembled and her usually florid face was deathly pale."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the physical appearance of death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing or capable of causing death.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Like this—three, four.” “How murderous and bloodthirsty!” “They are rather deathly."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode’s usual paleness had in fact taken an almost deathly hue."*
+> - 📜 **George Eliot (*Middlemarch*):** *"In that short drive her dread gathered so much force from the sense of darkness, that when she entered the private counting-house where her brother sat at his desk, her knees trembled and her usually florid face was deathly pale."*

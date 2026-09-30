@@ -5,13 +5,6 @@ status: unread
 ---
 # phloem
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex tissue in the vascular system of higher plants that consists mainly of sieve tubes and elongated parenchyma cells usually with fibers and that functions in translocation and in support and storage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pathological state in a plant characterized by brown discoloration and disintegration of the phloem; especially : elm yellows.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phloem designates a complex tissue in the vascular system of higher plants that consists mainly of sieve tubes and elongated parenchyma cells usually with fibers and that functions in translocation and in support and storage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex tissue in the vascular system of higher plants that consists mainly of sieve tubes and elongated parenchyma cells usually with fibers and that functions in translocation and in support and storage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pathological state in a plant characterized by brown discoloration and disintegration of the phloem; especially : elm yellows.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phloem designates a complex tissue in the vascular system of higher plants that consists mainly of sieve tubes and elongated parenchyma cells usually with fibers and that functions in translocation and in support and storage."*

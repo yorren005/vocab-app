@@ -5,15 +5,6 @@ status: unread
 ---
 # inspired
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heighten or intensify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply the inspiration for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Inspired merit so by breath is barr’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Was Mahomet inspired with a dove?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou with an eagle art inspired then."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heighten or intensify.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supply the inspiration for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Inspired merit so by breath is barr’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Was Mahomet inspired with a dove?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou with an eagle art inspired then."*

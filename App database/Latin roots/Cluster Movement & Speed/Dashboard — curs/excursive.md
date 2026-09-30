@@ -5,13 +5,6 @@ status: unread
 ---
 # excursive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of e.g. speech and writing) tending to depart from the main point or cover a wide range of subjects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of e.g. speech and writing) tending to depart from the main point or cover a wide range of subjects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"There, grasping all the eye beheld, Thought into mingling anguish swell’d, And checked the wild excursive wing, O’er dust or bones of priest or king; Or rais’d some <g>Strongbow</g> warrior’s ghost, To shout before his banner’d host."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of e.g. speech and writing) tending to depart from the main point or cover a wide range of subjects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of e.g. speech and writing) tending to depart from the main point or cover a wide range of subjects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"There, grasping all the eye beheld, Thought into mingling anguish swell’d, And checked the wild excursive wing, O’er dust or bones of priest or king; Or rais’d some <g>Strongbow</g> warrior’s ghost, To shout before his banner’d host."*

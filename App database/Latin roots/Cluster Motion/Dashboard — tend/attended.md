@@ -5,15 +5,6 @@ status: unread
 ---
 # attended
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be present at (meetings, church services, university), etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take charge of or deal with.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the Duke of Florence attended; two French Lords, and Soldiers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring him through the bands. [_Exit Ambassador, attended._] [_To Thidias_.] To try thy eloquence now ’tis time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the Duke, attended; Egeon, bareheaded; with the Headsman and other Officers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be present at (meetings, church services, university), etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take charge of or deal with.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the Duke of Florence attended; two French Lords, and Soldiers."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring him through the bands. [_Exit Ambassador, attended._] [_To Thidias_.] To try thy eloquence now ’tis time."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the Duke, attended; Egeon, bareheaded; with the Headsman and other Officers."*

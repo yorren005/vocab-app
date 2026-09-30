@@ -5,13 +5,6 @@ status: unread
 ---
 # felspar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of hard crystalline minerals that consist of aluminum silicates of potassium or sodium or calcium or barium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of hard crystalline minerals that consist of aluminum silicates of potassium or sodium or calcium or barium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was composed of black and vitreous lava, mixed with fragments of felspar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of hard crystalline minerals that consist of aluminum silicates of potassium or sodium or calcium or barium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of hard crystalline minerals that consist of aluminum silicates of potassium or sodium or calcium or barium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was composed of black and vitreous lava, mixed with fragments of felspar."*

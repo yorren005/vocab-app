@@ -5,15 +5,6 @@ status: unread
 ---
 # voting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A choice that is made by counting the number of people in favor of each alternative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express one's preference for a candidate or for a measure or resolution; cast a vote.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Classes A and B are elected by the member banks by a system of group and preferential voting designed to prevent the large banks from outvoting the smaller ones."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And now, when the question of voting had come, this repulsive fact told more strongly against Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Moreover, Lydgate did not like the consciousness that in voting for Tyke he should be voting on the side obviously convenient for himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A choice that is made by counting the number of people in favor of each alternative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express one's preference for a candidate or for a measure or resolution; cast a vote.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Classes A and B are elected by the member banks by a system of group and preferential voting designed to prevent the large banks from outvoting the smaller ones."*
+> - 📜 **George Eliot (*Middlemarch*):** *"And now, when the question of voting had come, this repulsive fact told more strongly against Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Moreover, Lydgate did not like the consciousness that in voting for Tyke he should be voting on the side obviously convenient for himself."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # emancipation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freeing someone from the control of another; especially a parent's relinquishing authority and control over a minor child.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freeing someone from the control of another; especially a parent's relinquishing authority and control over a minor child.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"However, it soon grew clear that the hour of emancipation for that little prisoner of the flesh was to arrive earlier than her worst misgiving had conjectured."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"With all the novelty of my emancipation on me, I went to church with Joe, and thought perhaps the clergyman wouldn’t have read that about the rich man and the kingdom of Heaven, if he had known all."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But he has the same sort of enthusiasm for liberty, freedom, emancipation—a fine thing under guidance—under guidance, you know."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freeing someone from the control of another; especially a parent's relinquishing authority and control over a minor child.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freeing someone from the control of another; especially a parent's relinquishing authority and control over a minor child.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"However, it soon grew clear that the hour of emancipation for that little prisoner of the flesh was to arrive earlier than her worst misgiving had conjectured."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"With all the novelty of my emancipation on me, I went to church with Joe, and thought perhaps the clergyman wouldn’t have read that about the rich man and the kingdom of Heaven, if he had known all."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But he has the same sort of enthusiasm for liberty, freedom, emancipation—a fine thing under guidance—under guidance, you know."*

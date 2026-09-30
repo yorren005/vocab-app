@@ -5,13 +5,6 @@ status: unread
 ---
 # xenophobia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fear and hatred of strangers or foreigners or of anything that is strange or foreign.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fear and hatred of strangers or foreigners or of anything that is strange or foreign.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenophobia designates fear and hatred of strangers or foreigners or of anything that is strange or foreign."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fear and hatred of strangers or foreigners or of anything that is strange or foreign.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fear and hatred of strangers or foreigners or of anything that is strange or foreign.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenophobia designates fear and hatred of strangers or foreigners or of anything that is strange or foreign."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # eohippus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Hyracotherium synonym Eohippus) of very small primitive horses from the Lower Eocene having 4-toed forefeet and 3-toed hind feet —called also dawn horse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Hyracotherium synonym Eohippus) of very small primitive horses from the Lower Eocene having 4-toed forefeet and 3-toed hind feet —called also dawn horse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eohippus designates any of a genus (hyracotherium synonym eohippus) of very small primitive horses from the lower eocene having 4-toed forefeet and 3-toed hind feet —called also dawn horse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Hyracotherium synonym Eohippus) of very small primitive horses from the Lower Eocene having 4-toed forefeet and 3-toed hind feet —called also dawn horse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Hyracotherium synonym Eohippus) of very small primitive horses from the Lower Eocene having 4-toed forefeet and 3-toed hind feet —called also dawn horse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eohippus designates any of a genus (hyracotherium synonym eohippus) of very small primitive horses from the lower eocene having 4-toed forefeet and 3-toed hind feet —called also dawn horse."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # ventriculus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thick-walled muscular pouch below the crop in many birds and reptiles for grinding food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thick-walled muscular pouch below the crop in many birds and reptiles for grinding food.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventriculus designates thick-walled muscular pouch below the crop in many birds and reptiles for grinding food."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thick-walled muscular pouch below the crop in many birds and reptiles for grinding food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thick-walled muscular pouch below the crop in many birds and reptiles for grinding food.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventriculus designates thick-walled muscular pouch below the crop in many birds and reptiles for grinding food."*

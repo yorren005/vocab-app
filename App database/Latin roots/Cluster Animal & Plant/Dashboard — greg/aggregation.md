@@ -5,15 +5,6 @@ status: unread
 ---
 # aggregation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Several things grouped together or considered as a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of gathering something together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Is it so certain that a dense population congested in cities and crowded in factories and mines is a more ideal social aggregation than is a community of prosperous farmers?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A large aggregation can control credit better and escape losses from bad debts."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Boys, dey won't fight fair." The Negroes _en masse_ now gathered up their few belongings and removed to the city of R---- with all of its aggregation of vice, of temptation, of hardships, of alluring promises, of elusive hopes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Several things grouped together or considered as a whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of gathering something together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Is it so certain that a dense population congested in cities and crowded in factories and mines is a more ideal social aggregation than is a community of prosperous farmers?"*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A large aggregation can control credit better and escape losses from bad debts."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Boys, dey won't fight fair." The Negroes _en masse_ now gathered up their few belongings and removed to the city of R---- with all of its aggregation of vice, of temptation, of hardships, of alluring promises, of elusive hopes."*

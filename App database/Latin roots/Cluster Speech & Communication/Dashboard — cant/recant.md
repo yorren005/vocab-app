@@ -5,15 +5,6 @@ status: unread
 ---
 # recant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formally reject or disavow a formerly held belief, usually under pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formally reject or disavow a formerly held belief, usually under pressure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He shall do this, or else I do recant The pardon that I late pronounced here."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Recant what you have said, ye Mungrils, and lick up the vomit ye have cast upon the Court, where you unworthily have had warmth and breeding, and swear that you, like Spiders, have made poison of that which was a saving Antidote. _Egre_."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In fact, I revert to the traditional view of Jupiter, recant my heresy, and am gathered like a lost sheep into the fold of mythological orthodoxy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formally reject or disavow a formerly held belief, usually under pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formally reject or disavow a formerly held belief, usually under pressure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He shall do this, or else I do recant The pardon that I late pronounced here."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Recant what you have said, ye Mungrils, and lick up the vomit ye have cast upon the Court, where you unworthily have had warmth and breeding, and swear that you, like Spiders, have made poison of that which was a saving Antidote. _Egre_."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In fact, I revert to the traditional view of Jupiter, recant my heresy, and am gathered like a lost sheep into the fold of mythological orthodoxy."*

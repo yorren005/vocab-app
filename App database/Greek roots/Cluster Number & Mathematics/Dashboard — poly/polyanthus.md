@@ -5,13 +5,6 @@ status: unread
 ---
 # polyanthus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various hybrid primroses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A narcissus (Narcissus tazetta) having small white or yellow flowers arranged in umbels and having a spreading perianth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyanthus designates any of various hybrid primroses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various hybrid primroses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A narcissus (Narcissus tazetta) having small white or yellow flowers arranged in umbels and having a spreading perianth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyanthus designates any of various hybrid primroses."*

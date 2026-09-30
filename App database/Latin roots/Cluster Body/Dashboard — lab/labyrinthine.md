@@ -5,14 +5,6 @@ status: unread
 ---
 # labyrinthine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affecting or originating in the inner ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a labyrinth in form or complexity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The winter was spent in poverty, dodging creditors through the labyrinthine gloom of the town."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Far away, somewhere in the labyrinthine pile, I heard a faint cry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affecting or originating in the inner ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a labyrinth in form or complexity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"The winter was spent in poverty, dodging creditors through the labyrinthine gloom of the town."*
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Far away, somewhere in the labyrinthine pile, I heard a faint cry."*

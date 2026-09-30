@@ -5,15 +5,6 @@ status: unread
 ---
 # seed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small hard fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mature fertilized plant ovule consisting of an embryo and its food source and having a protective coat or testa.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Oh fie! ’tis an unweeded garden That grows to seed; things rank and gross in nature Possess it merely."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We steal as in a castle, cock-sure; we have the receipt of fern-seed, we walk invisible."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, by my faith, I think you are more beholding to the night than to fern-seed for your walking invisible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small hard fruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mature fertilized plant ovule consisting of an embryo and its food source and having a protective coat or testa.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Oh fie! ’tis an unweeded garden That grows to seed; things rank and gross in nature Possess it merely."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We steal as in a castle, cock-sure; we have the receipt of fern-seed, we walk invisible."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, by my faith, I think you are more beholding to the night than to fern-seed for your walking invisible."*

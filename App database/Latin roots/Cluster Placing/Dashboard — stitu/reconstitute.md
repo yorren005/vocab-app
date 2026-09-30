@@ -5,15 +5,6 @@ status: unread
 ---
 # reconstitute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Construct or form anew or provide with a new structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Construct or form anew or provide with a new structure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Unfortunately, Drummer has sabotaged our rendezvous, and we must reconstitute the assault formation."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The United Planetary System was dissolved and reconstituted as the United Inner Planetary System (UIPS)."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The rites lasted eighteen days, from the twelfth to the thirtieth of the month Khoiak, and set forth the nature of Osiris in his triple aspect as dead, dismembered, and finally reconstituted by the union of his scattered limbs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Construct or form anew or provide with a new structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Construct or form anew or provide with a new structure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Unfortunately, Drummer has sabotaged our rendezvous, and we must reconstitute the assault formation."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The United Planetary System was dissolved and reconstituted as the United Inner Planetary System (UIPS)."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The rites lasted eighteen days, from the twelfth to the thirtieth of the month Khoiak, and set forth the nature of Osiris in his triple aspect as dead, dismembered, and finally reconstituted by the union of his scattered limbs."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # archidiaconate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Office or position of an archdeacon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Office or position of an archdeacon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archidiaconate designates office or position of an archdeacon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Office or position of an archdeacon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Office or position of an archdeacon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archidiaconate designates office or position of an archdeacon."*

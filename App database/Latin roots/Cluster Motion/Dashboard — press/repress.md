@@ -5,15 +5,6 @@ status: unread
 ---
 # repress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put down by force or intimidation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conceal or hide.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But she determined to repress all evidences of feeling."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her mother could not repress her consciousness of the nuptial vision conjured up by the girl’s consent."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Unable of course to repress your curiosity in so favourable a moment for indulging it, you will instantly arise, and throwing your dressing-gown around you, proceed to examine this mystery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put down by force or intimidation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conceal or hide.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But she determined to repress all evidences of feeling."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her mother could not repress her consciousness of the nuptial vision conjured up by the girl’s consent."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Unable of course to repress your curiosity in so favourable a moment for indulging it, you will instantly arise, and throwing your dressing-gown around you, proceed to examine this mystery."*

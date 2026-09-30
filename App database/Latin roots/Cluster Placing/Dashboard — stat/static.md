@@ -5,15 +5,6 @@ status: unread
 ---
 # static
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crackling or hissing noise caused by electrical interference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Angry criticism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, therefore, is a static theory in respect to the standard of deferred payments, and requires adjustment to apply to a condition of a changing price-level.] [Footnote 12: See above, sec. 3.] [Footnote 13: Mention was made in Vol."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In long-time static conditions the general level of prices and the prevailing rate of interest are dependent on entirely different sets of forces."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"That is, there is, under static conditions, work for all to do at various rates of wages that would bring about a value equilibrium of services.[9] The maladjustments are either of an individual or of a general character."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A crackling or hissing noise caused by electrical interference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Angry criticism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, therefore, is a static theory in respect to the standard of deferred payments, and requires adjustment to apply to a condition of a changing price-level.] [Footnote 12: See above, sec. 3.] [Footnote 13: Mention was made in Vol."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In long-time static conditions the general level of prices and the prevailing rate of interest are dependent on entirely different sets of forces."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"That is, there is, under static conditions, work for all to do at various rates of wages that would bring about a value equilibrium of services.[9] The maladjustments are either of an individual or of a general character."*

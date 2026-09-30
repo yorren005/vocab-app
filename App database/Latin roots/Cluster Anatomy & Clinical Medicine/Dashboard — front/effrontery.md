@@ -5,15 +5,6 @@ status: unread
 ---
 # effrontery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Audacious (even arrogant) behavior that you have no right to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Audacious (even arrogant) behavior that you have no right to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It is the ridiculous effrontery of men-maggots who think they can kill me."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Is not thy effrontery impenetrable and thy heart thoroughly cankered?"*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The ace was taken to supply its place with a perfect smiling effrontery."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Audacious (even arrogant) behavior that you have no right to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Audacious (even arrogant) behavior that you have no right to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It is the ridiculous effrontery of men-maggots who think they can kill me."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Is not thy effrontery impenetrable and thy heart thoroughly cankered?"*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The ace was taken to supply its place with a perfect smiling effrontery."*

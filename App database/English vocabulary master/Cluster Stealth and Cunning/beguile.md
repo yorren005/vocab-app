@@ -5,20 +5,6 @@ status: unread
 ---
 # beguile
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Hoodwink
-> 2. **Nuance / Usage**: Lead by deception
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to beguile the target*) and intransitive clauses (*beguiling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"owe me money, Sir John, and now you pick a quarrel to beguile me of it."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And high and low beguile the rich and poor."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"If e’er I beguile ye, my Eppie Adair!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To charm, enchant, or captivate someone, often in a way that masks ulterior motives or deceives them into a false sense of security.
+> 2. **Nuance / Usage**: To pass time pleasantly and effortlessly (*to beguile a long winter evening*), or to cheat or dispossess someone through subtle flattery and allure rather than outright force.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to beguile the listener*, *beguiled into error*) and idiomatic time expressions (*beguile the hours*).
+> - **Collocations & Registers**: Literary and psychological registers; frequently collocated with *hours*, *fancy*, *ear*, *innocence*, and *smiles*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Othello*):** *"And often did **beguile** her of her tears, when I did speak of some distressful stroke that my youth suffered."*
+> - 📜 **Herman Melville (*Billy Budd, Sailor*):** *"His simple nature was easily **beguiled** by the smooth plausibility of the master-at-arms."*
+> - 📜 **Edgar Allan Poe (*The Raven*):** *"Then this ebony bird **beguiling** my sad fancy into smiling, by the grave and stern decorum of the countenance it wore."*

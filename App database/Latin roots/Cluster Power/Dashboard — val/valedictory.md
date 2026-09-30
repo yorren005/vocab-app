@@ -5,15 +5,6 @@ status: unread
 ---
 # valedictory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A farewell oration (especially one delivered during graduation exercises by an outstanding member of a graduating class).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an occasion or expression of farewell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Without evincing any inclination to come in again, he there delivered his valedictory remarks."*
-> - 📜 **James Joyce (*Ulysses*):** *"Standing perpendicular at the same door and on different sides of its base, the lines of their valedictory arms, meeting at any point and forming any angle less than the sum of two right angles."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"SHADOW ON THE SUN-DIAL Again Miss Twinkleton has delivered her valedictory address, with the accompaniments of white-wine and pound-cake, and again the young ladies have departed to their several homes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A farewell oration (especially one delivered during graduation exercises by an outstanding member of a graduating class).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an occasion or expression of farewell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Without evincing any inclination to come in again, he there delivered his valedictory remarks."*
+> - 📜 **James Joyce (*Ulysses*):** *"Standing perpendicular at the same door and on different sides of its base, the lines of their valedictory arms, meeting at any point and forming any angle less than the sum of two right angles."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"SHADOW ON THE SUN-DIAL Again Miss Twinkleton has delivered her valedictory address, with the accompaniments of white-wine and pound-cake, and again the young ladies have departed to their several homes."*

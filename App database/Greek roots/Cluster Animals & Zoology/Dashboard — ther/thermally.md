@@ -5,13 +5,6 @@ status: unread
 ---
 # thermally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of heat or with respect to thermal properties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of heat or with respect to thermal properties.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermally designates by means of heat or with respect to thermal properties."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of heat or with respect to thermal properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of heat or with respect to thermal properties.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermally designates by means of heat or with respect to thermal properties."*

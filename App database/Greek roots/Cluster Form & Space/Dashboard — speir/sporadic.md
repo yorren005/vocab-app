@@ -5,13 +5,6 @@ status: unread
 ---
 # sporadic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring occasionally, singly, or in irregular or random instances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A layer of ionization occurring irregularly within the E region of the ionosphere.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sporadic designates occurring occasionally, singly, or in irregular or random instances."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring occasionally, singly, or in irregular or random instances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A layer of ionization occurring irregularly within the E region of the ionosphere.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sporadic designates occurring occasionally, singly, or in irregular or random instances."*

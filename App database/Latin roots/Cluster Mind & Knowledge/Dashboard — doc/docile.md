@@ -5,15 +5,6 @@ status: unread
 ---
 # docile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Willing to be taught or led or supervised or directed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ready and willing to be taught.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And here at the end of my days, reviewing all that I have known of life, I am compelled to the conclusion that strong minds are never docile."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I found my pupil sufficiently docile, though disinclined to apply: she had not been used to regular occupation of any kind."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mary would sit and watch me by the hour together: then she would take lessons; and a docile, intelligent, assiduous pupil she made."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Willing to be taught or led or supervised or directed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ready and willing to be taught.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And here at the end of my days, reviewing all that I have known of life, I am compelled to the conclusion that strong minds are never docile."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I found my pupil sufficiently docile, though disinclined to apply: she had not been used to regular occupation of any kind."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mary would sit and watch me by the hour together: then she would take lessons; and a docile, intelligent, assiduous pupil she made."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # redundancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetition of messages to reduce the probability of errors in transmission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attribute of being superfluous and unneeded.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I looked at my pupil, who did not at first appear to notice me: she was quite a child, perhaps seven or eight years old, slightly built, with a pale, small-featured face, and a redundancy of hair falling in curls to her waist."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Oh!--'I need not tell you, my friends, the story we all know so well'--Jim, that's what my tutor calls 'Redundancy and repetition.' You know quite well you're going to tell us every word of it."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The declaration itself, though it may be chargeable with tautology or redundancy, is at least perfectly harmless."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetition of messages to reduce the probability of errors in transmission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attribute of being superfluous and unneeded.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I looked at my pupil, who did not at first appear to notice me: she was quite a child, perhaps seven or eight years old, slightly built, with a pale, small-featured face, and a redundancy of hair falling in curls to her waist."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Oh!--'I need not tell you, my friends, the story we all know so well'--Jim, that's what my tutor calls 'Redundancy and repetition.' You know quite well you're going to tell us every word of it."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The declaration itself, though it may be chargeable with tautology or redundancy, is at least perfectly harmless."*

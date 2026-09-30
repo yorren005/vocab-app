@@ -5,13 +5,6 @@ status: unread
 ---
 # electroplate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any artifact that has been plated with a thin coat of metal by electrolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coat with metal by electrolysis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"This observation was the first step in the process of electroplating, which is electrotyping when applied to the art of typography."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any artifact that has been plated with a thin coat of metal by electrolysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coat with metal by electrolysis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"This observation was the first step in the process of electroplating, which is electrotyping when applied to the art of typography."*

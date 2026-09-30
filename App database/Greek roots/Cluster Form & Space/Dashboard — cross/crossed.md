@@ -5,15 +5,6 @@ status: unread
 ---
 # crossed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Travel across or pass over.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meet at a point.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sure, one of you does not serve heaven well, that you are so crossed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is no crossing him in ’s humour; Else I should tell him well, i’ faith, I should, When all’s spent, he’d be crossed then, an he could. ’Tis pity bounty had not eyes behind, That man might ne’er be wretched for his mind. [_Exit._] FIRST LORD."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The devil knew not what he did when he made man politic; he crossed himself by’t, and I cannot think but, in the end the villainies of man will set him clear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Travel across or pass over.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meet at a point.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sure, one of you does not serve heaven well, that you are so crossed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is no crossing him in ’s humour; Else I should tell him well, i’ faith, I should, When all’s spent, he’d be crossed then, an he could. ’Tis pity bounty had not eyes behind, That man might ne’er be wretched for his mind. [_Exit._] FIRST LORD."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The devil knew not what he did when he made man politic; he crossed himself by’t, and I cannot think but, in the end the villainies of man will set him clear."*

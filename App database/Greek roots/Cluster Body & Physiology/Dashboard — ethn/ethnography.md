@@ -5,14 +5,6 @@ status: unread
 ---
 # ethnography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study and systematic recording of human cultures; also : a descriptive work produced from such research.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study and systematic recording of human cultures; also : a descriptive work produced from such research.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Roth, _North Queensland Ethnography, Bulletin No. 5, Superstition, Magic, and Medicine_ (Brisbane, 1903), pp. 24 _sq._ [104] Walter E."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Assistant in the Department of British and Mediæval Antiquities and Ethnography, British Museum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study and systematic recording of human cultures; also : a descriptive work produced from such research.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study and systematic recording of human cultures; also : a descriptive work produced from such research.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Roth, _North Queensland Ethnography, Bulletin No. 5, Superstition, Magic, and Medicine_ (Brisbane, 1903), pp. 24 _sq._ [104] Walter E."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Assistant in the Department of British and Mediæval Antiquities and Ethnography, British Museum."*

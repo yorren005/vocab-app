@@ -5,13 +5,6 @@ status: unread
 ---
 # oligospermia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insufficient spermatozoa in the semen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insufficient spermatozoa in the semen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligospermia designates insufficient spermatozoa in the semen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insufficient spermatozoa in the semen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insufficient spermatozoa in the semen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligospermia designates insufficient spermatozoa in the semen."*

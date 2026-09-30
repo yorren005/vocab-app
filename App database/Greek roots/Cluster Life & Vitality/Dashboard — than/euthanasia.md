@@ -5,15 +5,6 @@ status: unread
 ---
 # euthanasia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or practice of killing or permitting the death of hopelessly sick or injured individuals (such as persons or domestic animals) in a relatively painless way for reasons of mercy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or practice of killing or permitting the death of hopelessly sick or injured individuals (such as persons or domestic animals) in a relatively painless way for reasons of mercy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"For myself I could hold it in my account with God to find such an euthanasia for you, even at this moment if it were best."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Euthanasia” is an excellent and a comforting word!"*
-> - 📜 **James Joyce (*Ulysses*):** *"In a Greek watercloset he breathed his last: _euthanasia_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or practice of killing or permitting the death of hopelessly sick or injured individuals (such as persons or domestic animals) in a relatively painless way for reasons of mercy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or practice of killing or permitting the death of hopelessly sick or injured individuals (such as persons or domestic animals) in a relatively painless way for reasons of mercy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"For myself I could hold it in my account with God to find such an euthanasia for you, even at this moment if it were best."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Euthanasia” is an excellent and a comforting word!"*
+> - 📜 **James Joyce (*Ulysses*):** *"In a Greek watercloset he breathed his last: _euthanasia_."*

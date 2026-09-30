@@ -5,13 +5,6 @@ status: unread
 ---
 # cosmonaut
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An astronaut of the Soviet or Russian space program.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An astronaut of the Soviet or Russian space program.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmonaut designates an astronaut of the soviet or russian space program."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An astronaut of the Soviet or Russian space program.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An astronaut of the Soviet or Russian space program.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmonaut designates an astronaut of the soviet or russian space program."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # pyrrhus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: King of epirus; defeated the romans in two battles in spite of staggering losses (319-272 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King of epirus; defeated the romans in two battles in spite of staggering losses (319-272 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Roasted in wrath and fire, And thus o’ersized with coagulate gore, With eyes like carbuncles, the hellish Pyrrhus Old grandsire Priam seeks._ So, proceed you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unequal match’d, Pyrrhus at Priam drives, in rage strikes wide; But with the whiff and wind of his fell sword Th’unnerved father falls."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then senseless Ilium, Seeming to feel this blow, with flaming top Stoops to his base, and with a hideous crash Takes prisoner Pyrrhus’ ear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: King of epirus; defeated the romans in two battles in spite of staggering losses (319-272 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King of epirus; defeated the romans in two battles in spite of staggering losses (319-272 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Roasted in wrath and fire, And thus o’ersized with coagulate gore, With eyes like carbuncles, the hellish Pyrrhus Old grandsire Priam seeks._ So, proceed you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unequal match’d, Pyrrhus at Priam drives, in rage strikes wide; But with the whiff and wind of his fell sword Th’unnerved father falls."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then senseless Ilium, Seeming to feel this blow, with flaming top Stoops to his base, and with a hideous crash Takes prisoner Pyrrhus’ ear."*

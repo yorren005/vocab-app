@@ -5,15 +5,6 @@ status: unread
 ---
 # bal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of throw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of throw.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It has been described as follows by the parish minister of the time: "Upon the first day of May, which is called _Beltan_, or _Bal-tein_ day, all the boys in a township or hamlet, meet in the moors."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"MacCulloch, _The Religion of the Ancient Celts_ (Edinburgh, 1911), p. 264. [371] "_Bal-tein_ signifies the _fire of Baal."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"De Bal-machève!” said the King (overcoming by his assurance the difficulty that had presented itself to the colonel)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of throw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of throw.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It has been described as follows by the parish minister of the time: "Upon the first day of May, which is called _Beltan_, or _Bal-tein_ day, all the boys in a township or hamlet, meet in the moors."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"MacCulloch, _The Religion of the Ancient Celts_ (Edinburgh, 1911), p. 264. [371] "_Bal-tein_ signifies the _fire of Baal."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"De Bal-machève!” said the King (overcoming by his assurance the difficulty that had presented itself to the colonel)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # aerostatics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of statics that deals with the equilibrium of gaseous fluids and of solid bodies immersed in them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of statics that deals with the equilibrium of gaseous fluids and of solid bodies immersed in them.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerostatics designates a branch of statics that deals with the equilibrium of gaseous fluids and of solid bodies immersed in them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of statics that deals with the equilibrium of gaseous fluids and of solid bodies immersed in them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of statics that deals with the equilibrium of gaseous fluids and of solid bodies immersed in them.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerostatics designates a branch of statics that deals with the equilibrium of gaseous fluids and of solid bodies immersed in them."*

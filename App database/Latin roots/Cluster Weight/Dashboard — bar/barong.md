@@ -5,13 +5,6 @@ status: unread
 ---
 # barong
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A knife resembling a cleaver; used in the philippines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A knife resembling a cleaver; used in the philippines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barong designates a knife resembling a cleaver; used in the philippines."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A knife resembling a cleaver; used in the philippines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A knife resembling a cleaver; used in the philippines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barong designates a knife resembling a cleaver; used in the philippines."*

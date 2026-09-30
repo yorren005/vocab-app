@@ -5,15 +5,6 @@ status: unread
 ---
 # capitalization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Writing in capital letters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An estimation of the value of a business.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Capitalization theory of crises. § 11."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Statistics show that while a general price level is slowly changing like a tidal movement, the effect of the rhythmic business cycle appears now in hastening, now in retarding, the changes in the price level. § 10. #Capitalization theory of crises#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The essential characteristic of a crisis is the forcible and sudden movement of readjustment in the mistaken capitalization of productive agents."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Writing in capital letters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An estimation of the value of a business.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Capitalization theory of crises. § 11."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Statistics show that while a general price level is slowly changing like a tidal movement, the effect of the rhythmic business cycle appears now in hastening, now in retarding, the changes in the price level. § 10. #Capitalization theory of crises#."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The essential characteristic of a crisis is the forcible and sudden movement of readjustment in the mistaken capitalization of productive agents."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # peroration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flowery and highly rhetorical oration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (rhetoric) the concluding section of an oration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nephew, what means this passionate discourse, This peroration with such circumstance?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And I wish you better, and these family affairs smoothed over—as, Lord, many other family affairs equally has been, and equally will be, to the end of time.” With this peroration, Mr."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The peroration was magnificent, though difficult to remember, you know."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flowery and highly rhetorical oration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (rhetoric) the concluding section of an oration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nephew, what means this passionate discourse, This peroration with such circumstance?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And I wish you better, and these family affairs smoothed over—as, Lord, many other family affairs equally has been, and equally will be, to the end of time.” With this peroration, Mr."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The peroration was magnificent, though difficult to remember, you know."*

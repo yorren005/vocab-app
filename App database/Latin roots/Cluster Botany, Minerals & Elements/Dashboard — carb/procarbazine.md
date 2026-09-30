@@ -5,13 +5,6 @@ status: unread
 ---
 # procarbazine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antineoplastic drug used to treat hodgkin's disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antineoplastic drug used to treat hodgkin's disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, procarbazine designates an antineoplastic drug used to treat hodgkin's disease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antineoplastic drug used to treat hodgkin's disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antineoplastic drug used to treat hodgkin's disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, procarbazine designates an antineoplastic drug used to treat hodgkin's disease."*

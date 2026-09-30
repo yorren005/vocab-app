@@ -5,15 +5,6 @@ status: unread
 ---
 # priesthood
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The body of ordained religious practitioners.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of ordained religious practitioners.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, cardinal, is your priesthood grown peremptory? _Tantaene animis coelestibus irae?_ Churchmen so hot?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy priesthood saves thy life."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Chong Mong-ju disaffected half the provincial priesthood, until they pilgrimaged in processions a mile long to the palace gates and frightened the Emperor into a panic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The body of ordained religious practitioners.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of ordained religious practitioners.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, cardinal, is your priesthood grown peremptory? _Tantaene animis coelestibus irae?_ Churchmen so hot?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy priesthood saves thy life."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Chong Mong-ju disaffected half the provincial priesthood, until they pilgrimaged in processions a mile long to the palace gates and frightened the Emperor into a panic."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # consumerism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The theory that an increasing consumption of goods is economically beneficial.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement advocating greater protection of the interests of consumers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, consumerism designates the theory that an increasing consumption of goods is economically beneficial."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theory that an increasing consumption of goods is economically beneficial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement advocating greater protection of the interests of consumers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, consumerism designates the theory that an increasing consumption of goods is economically beneficial."*

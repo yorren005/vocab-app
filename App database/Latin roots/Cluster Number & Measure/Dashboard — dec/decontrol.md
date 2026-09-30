@@ -5,13 +5,6 @@ status: unread
 ---
 # decontrol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relax or remove controls of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relax or remove controls of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decontrol designates relax or remove controls of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relax or remove controls of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relax or remove controls of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decontrol designates relax or remove controls of."*

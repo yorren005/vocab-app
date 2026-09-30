@@ -5,14 +5,6 @@ status: unread
 ---
 # unrecognisable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defying recognition as e.g. because of damage or alteration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond recognition; in an unrecognizable manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Hour after hour we have fought together for the little darling's life, while he lay unconscious against the piled cushions, a waxen image, unrecognisable as the bonnie curly-headed Billie we had loved."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"The print from it prefixed to Fitzgerald's _Lamb_ is almost unrecognisable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Defying recognition as e.g. because of damage or alteration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond recognition; in an unrecognizable manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Hour after hour we have fought together for the little darling's life, while he lay unconscious against the piled cushions, a waxen image, unrecognisable as the bonnie curly-headed Billie we had loved."*
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"The print from it prefixed to Fitzgerald's _Lamb_ is almost unrecognisable."*

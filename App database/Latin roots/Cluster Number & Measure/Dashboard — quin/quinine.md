@@ -5,14 +5,6 @@ status: unread
 ---
 # quinine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bitter alkaloid extracted from chinchona bark; used in malaria therapy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bitter alkaloid extracted from chinchona bark; used in malaria therapy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"We made mustard poultices with white of egg instead of water, to save needless irritation of the skin; we used the French expedient of putting quinine pads under the armpits to reduce the terrible temperature."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Quinine is the best remedy, but it should be taken advisedly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bitter alkaloid extracted from chinchona bark; used in malaria therapy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bitter alkaloid extracted from chinchona bark; used in malaria therapy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"We made mustard poultices with white of egg instead of water, to save needless irritation of the skin; we used the French expedient of putting quinine pads under the armpits to reduce the terrible temperature."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Quinine is the best remedy, but it should be taken advisedly."*

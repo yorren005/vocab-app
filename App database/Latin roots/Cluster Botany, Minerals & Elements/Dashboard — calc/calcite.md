@@ -5,13 +5,6 @@ status: unread
 ---
 # calcite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A common mineral consisting of crystallized calcium carbonate; a major constituent of limestone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common mineral consisting of crystallized calcium carbonate; a major constituent of limestone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcite designates a common mineral consisting of crystallized calcium carbonate; a major constituent of limestone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A common mineral consisting of crystallized calcium carbonate; a major constituent of limestone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common mineral consisting of crystallized calcium carbonate; a major constituent of limestone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcite designates a common mineral consisting of crystallized calcium carbonate; a major constituent of limestone."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # misspend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spend time badly or unwisely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spend (money or other resources) unwisely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misspend designates spend time badly or unwisely."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spend time badly or unwisely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spend (money or other resources) unwisely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misspend designates spend time badly or unwisely."*

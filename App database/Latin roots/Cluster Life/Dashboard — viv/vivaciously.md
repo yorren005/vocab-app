@@ -5,15 +5,6 @@ status: unread
 ---
 # vivaciously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With vivacity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With vivacity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Uncle Pumblechook, sensible of having deserved well of his fellow-creatures, said,—quite vivaciously, all things considered,—“Well, Mrs."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There—still high elevated above the rest of the company, to whom he vivaciously cries—he seems some Turkish Muezzin calling the good people to prayers from the top of a tower."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"About this time—yes, it is his noon nap now—the boy vivaciously wakes; sits up in bed; and his mother tells him of me, of cannibal old me; how I am abroad upon the deep, but will yet come back to dance him again.” “’Tis my Mary, my Mary herself!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With vivacity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With vivacity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Uncle Pumblechook, sensible of having deserved well of his fellow-creatures, said,—quite vivaciously, all things considered,—“Well, Mrs."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There—still high elevated above the rest of the company, to whom he vivaciously cries—he seems some Turkish Muezzin calling the good people to prayers from the top of a tower."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"About this time—yes, it is his noon nap now—the boy vivaciously wakes; sits up in bed; and his mother tells him of me, of cannibal old me; how I am abroad upon the deep, but will yet come back to dance him again.” “’Tis my Mary, my Mary herself!"*

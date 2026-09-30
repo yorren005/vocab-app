@@ -5,15 +5,6 @@ status: unread
 ---
 # marbled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paint or stain like marble.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Patterned with veins or streaks or color resembling marble.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go great with tigers, dragons, wolves, and bears; Teem with new monsters, whom thy upward face Hath to the marbled mansion all above Never presented."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The west, too, was warm: no watery gleam chilled it—it seemed as if there was a fire lit, an altar burning behind its screen of marbled vapour, and out of apertures shone a golden redness."*
-> - 📜 **John Keats (*Lamia*):** *"Between the tree-stems, marbled plain at first, Came jasper pannels; then, anon, there burst Forth creeping imagery of slighter trees, And with the larger wove in small intricacies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paint or stain like marble.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Patterned with veins or streaks or color resembling marble.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go great with tigers, dragons, wolves, and bears; Teem with new monsters, whom thy upward face Hath to the marbled mansion all above Never presented."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The west, too, was warm: no watery gleam chilled it—it seemed as if there was a fire lit, an altar burning behind its screen of marbled vapour, and out of apertures shone a golden redness."*
+> - 📜 **John Keats (*Lamia*):** *"Between the tree-stems, marbled plain at first, Came jasper pannels; then, anon, there burst Forth creeping imagery of slighter trees, And with the larger wove in small intricacies."*

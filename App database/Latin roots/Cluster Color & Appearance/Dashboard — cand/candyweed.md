@@ -5,13 +5,6 @@ status: unread
 ---
 # candyweed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bog plant of pine barrens of southeastern united states having spikes of irregular yellow-orange flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bog plant of pine barrens of southeastern united states having spikes of irregular yellow-orange flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candyweed designates bog plant of pine barrens of southeastern united states having spikes of irregular yellow-orange flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bog plant of pine barrens of southeastern united states having spikes of irregular yellow-orange flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bog plant of pine barrens of southeastern united states having spikes of irregular yellow-orange flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candyweed designates bog plant of pine barrens of southeastern united states having spikes of irregular yellow-orange flowers."*

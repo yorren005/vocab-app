@@ -5,15 +5,6 @@ status: unread
 ---
 # investing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of investing; laying out money or capital in an enterprise with the expectation of profit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make an investment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"From 1864 to 1870, fortunes were made from this source, but thereafter banks could make little more from note issues than they could by investing the same amount in other ways."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The promoters of a combination often expect to make from sales to the investing public far more than from sales to the consumer of the product."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"That is to say, it was not a mindless triviality, but the genuine child's power of investing little things with imaginative interest; the same power, though differently devoted, which produced much of his poetry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of investing; laying out money or capital in an enterprise with the expectation of profit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make an investment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"From 1864 to 1870, fortunes were made from this source, but thereafter banks could make little more from note issues than they could by investing the same amount in other ways."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The promoters of a combination often expect to make from sales to the investing public far more than from sales to the consumer of the product."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"That is to say, it was not a mindless triviality, but the genuine child's power of investing little things with imaginative interest; the same power, though differently devoted, which produced much of his poetry."*

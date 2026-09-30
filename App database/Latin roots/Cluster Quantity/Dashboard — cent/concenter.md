@@ -5,13 +5,6 @@ status: unread
 ---
 # concenter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into focus or alignment; to converge or cause to converge; of ideas or emotions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring into focus or alignment; to converge or cause to converge; of ideas or emotions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concenter designates bring into focus or alignment; to converge or cause to converge; of ideas or emotions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into focus or alignment; to converge or cause to converge; of ideas or emotions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring into focus or alignment; to converge or cause to converge; of ideas or emotions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concenter designates bring into focus or alignment; to converge or cause to converge; of ideas or emotions."*

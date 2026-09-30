@@ -5,15 +5,6 @@ status: unread
 ---
 # victim
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unfortunate person who suffers from some adverse circumstance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is tricked or swindled.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"His manner is the gravely impressive manner of a man who has not committed himself in life otherwise than as he has become the victim of a tender sorrow of the heart."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He died some five years afterwards and left a diary behind him, with letters and other materials towards his life, which was published and which showed him to have been the victim of a combination on the part of mankind against an amiable child."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A place where few people care to go about alone, where a maid screams if an ash drops from the fire, takes to crying at all times and seasons, becomes the victim of a low disorder of the spirits, and gives warning and departs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unfortunate person who suffers from some adverse circumstance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is tricked or swindled.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"His manner is the gravely impressive manner of a man who has not committed himself in life otherwise than as he has become the victim of a tender sorrow of the heart."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He died some five years afterwards and left a diary behind him, with letters and other materials towards his life, which was published and which showed him to have been the victim of a combination on the part of mankind against an amiable child."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A place where few people care to go about alone, where a maid screams if an ash drops from the fire, takes to crying at all times and seasons, becomes the victim of a low disorder of the spirits, and gives warning and departs."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # derelict
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person without a home, job, or property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ship abandoned on the high seas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Close-hauled, the closest she could come was to six points of the wind; and then she bobbed up and down, without way, like a derelict turnip."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"He lives in an ancient, rambling house across the road from my home, and he is making a souvenir collection of derelict women."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"As a rule I adore scrap suppers after everyone has gone, and the servants have gone to bed, and the guests make sorties into the pantry, and bring out plates of patties and fruit, and derelict meringues, and wobbling halves of jellies and creams."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person without a home, job, or property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ship abandoned on the high seas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Close-hauled, the closest she could come was to six points of the wind; and then she bobbed up and down, without way, like a derelict turnip."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"He lives in an ancient, rambling house across the road from my home, and he is making a souvenir collection of derelict women."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"As a rule I adore scrap suppers after everyone has gone, and the servants have gone to bed, and the guests make sorties into the pantry, and bring out plates of patties and fruit, and derelict meringues, and wobbling halves of jellies and creams."*

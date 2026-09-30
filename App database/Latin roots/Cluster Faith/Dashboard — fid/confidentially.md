@@ -5,15 +5,6 @@ status: unread
 ---
 # confidentially
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a confidential manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a confidential manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Do you know that, Kurt," he said confidentially, "I only wonder how she could get hold of such a basket full, you know, without being--you know--" With this he made the unmistakable motion of Mr."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Even the reserved Bruno, whom nobody had ever been able to approach, linked Salo's arm confidentially in his in order to conduct the guest into the house."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As soon as she saw that it was a human being and not a lion, she came nearer and asked quite confidentially, "Do you happen to know where the beautiful old mignonette is, that mama saw in the garden here?" "No," the man answered curtly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a confidential manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a confidential manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Do you know that, Kurt," he said confidentially, "I only wonder how she could get hold of such a basket full, you know, without being--you know--" With this he made the unmistakable motion of Mr."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Even the reserved Bruno, whom nobody had ever been able to approach, linked Salo's arm confidentially in his in order to conduct the guest into the house."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As soon as she saw that it was a human being and not a lion, she came nearer and asked quite confidentially, "Do you happen to know where the beautiful old mignonette is, that mama saw in the garden here?" "No," the man answered curtly."*

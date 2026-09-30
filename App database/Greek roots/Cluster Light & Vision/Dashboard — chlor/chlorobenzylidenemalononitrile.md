@@ -5,13 +5,6 @@ status: unread
 ---
 # chlorobenzylidenemalononitrile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tear gas that is stronger than cn gas but wears off faster; can be deployed by grenades or cluster bombs; can cause skin burns and fatal pulmonary edema.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tear gas that is stronger than cn gas but wears off faster; can be deployed by grenades or cluster bombs; can cause skin burns and fatal pulmonary edema.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorobenzylidenemalononitrile designates a tear gas that is stronger than cn gas but wears off faster; can be deployed by grenades or cluster bombs; can cause skin burns and fatal pulmonary edema."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tear gas that is stronger than cn gas but wears off faster; can be deployed by grenades or cluster bombs; can cause skin burns and fatal pulmonary edema.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tear gas that is stronger than cn gas but wears off faster; can be deployed by grenades or cluster bombs; can cause skin burns and fatal pulmonary edema.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorobenzylidenemalononitrile designates a tear gas that is stronger than cn gas but wears off faster; can be deployed by grenades or cluster bombs; can cause skin burns and fatal pulmonary edema."*

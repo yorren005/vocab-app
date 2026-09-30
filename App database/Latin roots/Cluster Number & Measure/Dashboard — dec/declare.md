@@ -5,15 +5,6 @@ status: unread
 ---
 # declare
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State emphatically and authoritatively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Announce publicly or officially.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Read, and declare the meaning."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then go we in, to know his embassy, Which I could with a ready guess declare Before the Frenchman speak a word of it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now declare, sweet stem from York’s great stock, Why didst thou say of late thou wert despised?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: State emphatically and authoritatively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Announce publicly or officially.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Read, and declare the meaning."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then go we in, to know his embassy, Which I could with a ready guess declare Before the Frenchman speak a word of it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now declare, sweet stem from York’s great stock, Why didst thou say of late thou wert despised?"*

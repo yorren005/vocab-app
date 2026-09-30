@@ -5,14 +5,6 @@ status: unread
 ---
 # coquettishly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a flirtatious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a flirtatious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"The fair girl shook her head coquettishly, and the other two urged her on."*
-> - 📜 **James Joyce (*Ulysses*):** *"And showed off coquettishly in your domino at the mirror behind closedrawn blinds your unskirted thighs and hegoat’s udders in various poses of surrender, eh?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a flirtatious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a flirtatious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"The fair girl shook her head coquettishly, and the other two urged her on."*
+> - 📜 **James Joyce (*Ulysses*):** *"And showed off coquettishly in your domino at the mirror behind closedrawn blinds your unskirted thighs and hegoat’s udders in various poses of surrender, eh?"*

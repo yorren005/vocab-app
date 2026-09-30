@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrophilic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a strong affinity for water; tending to dissolve in, mix with, or be wetted by water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a strong affinity for water; tending to dissolve in, mix with, or be wetted by water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrophilic designates having a strong affinity for water; tending to dissolve in, mix with, or be wetted by water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a strong affinity for water; tending to dissolve in, mix with, or be wetted by water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a strong affinity for water; tending to dissolve in, mix with, or be wetted by water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrophilic designates having a strong affinity for water; tending to dissolve in, mix with, or be wetted by water."*

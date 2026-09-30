@@ -5,13 +5,6 @@ status: unread
 ---
 # modernist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist who makes a deliberate break with previous styles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artist who makes a deliberate break with previous styles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modernist designates an artist who makes a deliberate break with previous styles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist who makes a deliberate break with previous styles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artist who makes a deliberate break with previous styles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, modernist designates an artist who makes a deliberate break with previous styles."*

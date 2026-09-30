@@ -5,15 +5,6 @@ status: unread
 ---
 # brevity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of brief expressions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attribute of being brief or fleeting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, since brevity is the soul of wit, And tediousness the limbs and outward flourishes, I will be brief."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will imitate the honourable Romans in brevity.” POINS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He sure means brevity in breath, short-winded."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of brief expressions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attribute of being brief or fleeting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, since brevity is the soul of wit, And tediousness the limbs and outward flourishes, I will be brief."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will imitate the honourable Romans in brevity.” POINS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He sure means brevity in breath, short-winded."*

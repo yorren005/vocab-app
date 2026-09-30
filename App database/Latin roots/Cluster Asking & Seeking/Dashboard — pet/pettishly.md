@@ -5,15 +5,6 @@ status: unread
 ---
 # pettishly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a petulant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a petulant manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe,” I interrupted, pettishly, “how can you call me, sir?” Joe looked at me for a single instant with something faintly like reproach."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Featherstone?” “That’s all very fine,” said Fred, pettishly."*
-> - 📜 **George Eliot (*Middlemarch*):** *"You often see her, I suppose.” “No,” said Will, almost pettishly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a petulant manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a petulant manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe,” I interrupted, pettishly, “how can you call me, sir?” Joe looked at me for a single instant with something faintly like reproach."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Featherstone?” “That’s all very fine,” said Fred, pettishly."*
+> - 📜 **George Eliot (*Middlemarch*):** *"You often see her, I suppose.” “No,” said Will, almost pettishly."*

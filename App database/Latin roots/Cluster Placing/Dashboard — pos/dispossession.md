@@ -5,13 +5,6 @@ status: unread
 ---
 # dispossession
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The expulsion of someone (such as a tenant) from the possession of land by process of law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freeing from evil spirits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"If only Momsey's great fortune came true, Nan was sure that Gedney Raffer would be paid off and Toby would no longer have the threat of dispossession held over him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The expulsion of someone (such as a tenant) from the possession of land by process of law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freeing from evil spirits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"If only Momsey's great fortune came true, Nan was sure that Gedney Raffer would be paid off and Toby would no longer have the threat of dispossession held over him."*

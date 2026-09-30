@@ -5,20 +5,6 @@ status: unread
 ---
 # vassal
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: One in a subservient or subordinate position
-> 2. **Nuance / Usage**: (historical) any direct subordinate bound by such vows to a superior
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the vassal withstood the storm*), direct object (*cleaved the vassal*), or prepositional anchor (*amidst the vassal*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"By such a lowly vassal as thyself."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And yet the duteous vassal scarce is gone."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The crouching vassal to a tyrant wife!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: One in a subservient or subordinate position
+> 2. **Nuance / Usage**: (historical) any direct subordinate bound by such vows to a superior
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the vassal withstood the storm*), direct object (*cleaved the vassal*), or prepositional anchor (*amidst the vassal*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"By such a lowly vassal as thyself."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And yet the duteous vassal scarce is gone."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The crouching vassal to a tyrant wife!"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # occurrence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that happens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instance of something occurring.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the occurrence of my fortune since Hath been between this lady and this lord."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The case of Gridley is in no essential altered from one of actual occurrence, made public by a disinterested person who was professionally acquainted with the whole of the monstrous wrong from beginning to end."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was alarmed by an occurrence in the house which might have alarmed a stronger person, and was made ill by the distress and agitation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that happens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instance of something occurring.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the occurrence of my fortune since Hath been between this lady and this lord."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The case of Gridley is in no essential altered from one of actual occurrence, made public by a disinterested person who was professionally acquainted with the whole of the monstrous wrong from beginning to end."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"She was alarmed by an occurrence in the house which might have alarmed a stronger person, and was made ill by the distress and agitation."*

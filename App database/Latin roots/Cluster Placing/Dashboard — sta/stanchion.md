@@ -5,15 +5,6 @@ status: unread
 ---
 # stanchion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any vertical post or rod used as a support.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any vertical post or rod used as a support.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"I had been lying upon the edge of the deck, with my leg around a stanchion, my head hanging over the water; and I think my position, in addition to the fumes of the liquor I had drank, made me dizzy."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Grasping stanchions and cables for support, Brad staggered along the catwalk."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Over the whole there was a light roof, supported on stanchions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any vertical post or rod used as a support.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any vertical post or rod used as a support.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"I had been lying upon the edge of the deck, with my leg around a stanchion, my head hanging over the water; and I think my position, in addition to the fumes of the liquor I had drank, made me dizzy."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Grasping stanchions and cables for support, Brad staggered along the catwalk."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Over the whole there was a light roof, supported on stanchions."*

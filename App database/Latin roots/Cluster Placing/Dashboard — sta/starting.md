@@ -5,15 +5,6 @@ status: unread
 ---
 # starting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A turn to be a starter (in a game at the beginning).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take the first step or steps in carrying out an action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Blest pray you be, That, after this strange starting from your orbs, You may reign in them now!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What trick, what device, what starting-hole canst thou now find out to hide thee from this open and apparent shame?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With that he gave his able horse the head, And bending forward struck his armed heels Against the panting sides of his poor jade Up to the rowel-head, and starting so He seem’d in running to devour the way, Staying no longer question."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A turn to be a starter (in a game at the beginning).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take the first step or steps in carrying out an action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Blest pray you be, That, after this strange starting from your orbs, You may reign in them now!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What trick, what device, what starting-hole canst thou now find out to hide thee from this open and apparent shame?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With that he gave his able horse the head, And bending forward struck his armed heels Against the panting sides of his poor jade Up to the rowel-head, and starting so He seem’d in running to devour the way, Staying no longer question."*

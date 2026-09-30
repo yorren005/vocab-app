@@ -5,15 +5,6 @@ status: unread
 ---
 # tumultuous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by unrest or disorder or insubordination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by unrest or disorder or insubordination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nought rests for me in this tumultuous strife But to make open proclamation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, what tumultuous clamour have we here?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now here a period of tumultuous broils."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by unrest or disorder or insubordination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by unrest or disorder or insubordination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nought rests for me in this tumultuous strife But to make open proclamation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, what tumultuous clamour have we here?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now here a period of tumultuous broils."*

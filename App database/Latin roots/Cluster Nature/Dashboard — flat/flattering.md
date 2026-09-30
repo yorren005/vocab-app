@@ -5,15 +5,6 @@ status: unread
 ---
 # flattering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Praise somewhat dishonestly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing or representing to advantage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That flattering tongue of yours won me. ’Tis but one cast away, and so, come death!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Pisanio. [_Aside._] Here comes a flattering rascal; upon him Will I first work."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mother, for love of grace, Lay not that flattering unction to your soul That not your trespass, but my madness speaks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Praise somewhat dishonestly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing or representing to advantage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That flattering tongue of yours won me. ’Tis but one cast away, and so, come death!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Pisanio. [_Aside._] Here comes a flattering rascal; upon him Will I first work."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mother, for love of grace, Lay not that flattering unction to your soul That not your trespass, but my madness speaks."*

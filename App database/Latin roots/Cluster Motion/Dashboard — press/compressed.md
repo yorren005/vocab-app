@@ -5,15 +5,6 @@ status: unread
 ---
 # compressed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more compact by or as if by pressing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Squeeze or press together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is a stern expression on her face and a part of her lower lip is compressed under her teeth."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He saw how closely compressed was his mouth, and that his eyes were wide-spread and vacant."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At last he did turn, and stalked resolutely down the nave, braving them all, with a compressed lip."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more compact by or as if by pressing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Squeeze or press together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"There is a stern expression on her face and a part of her lower lip is compressed under her teeth."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He saw how closely compressed was his mouth, and that his eyes were wide-spread and vacant."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At last he did turn, and stalked resolutely down the nave, braving them all, with a compressed lip."*

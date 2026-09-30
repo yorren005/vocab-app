@@ -5,14 +5,6 @@ status: unread
 ---
 # defalcation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sum of money that is misappropriated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fraudulent appropriation of funds or property entrusted to your care but actually owned by someone else.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The motives on the part of the State governments, to augment their prerogatives by defalcations from the federal government, will be overruled by no reciprocal predispositions in the members."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Frequent change of officers is necessary to the discovery and punishment of frauds, peculations, defalcations and embezzlements of the public money."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sum of money that is misappropriated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fraudulent appropriation of funds or property entrusted to your care but actually owned by someone else.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The motives on the part of the State governments, to augment their prerogatives by defalcations from the federal government, will be overruled by no reciprocal predispositions in the members."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Frequent change of officers is necessary to the discovery and punishment of frauds, peculations, defalcations and embezzlements of the public money."*

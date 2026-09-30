@@ -5,14 +5,6 @@ status: unread
 ---
 # humanise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more humane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more humane.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"She wanted—what some people want throughout life—a grief that should deeply touch her, and thus humanise and make her capable of sympathy."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"The first I have endeavoured to humanise into integrity and honour; the last makes me a devotee to the warmest degree of enthusiasm, in love, religion, or friendship--either of them, or all together, as I happen to be inspired."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more humane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more humane.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"She wanted—what some people want throughout life—a grief that should deeply touch her, and thus humanise and make her capable of sympathy."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"The first I have endeavoured to humanise into integrity and honour; the last makes me a devotee to the warmest degree of enthusiasm, in love, religion, or friendship--either of them, or all together, as I happen to be inspired."*

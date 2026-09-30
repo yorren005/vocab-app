@@ -5,13 +5,6 @@ status: unread
 ---
 # phylloquinone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of vitamin k.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of vitamin k.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylloquinone designates a form of vitamin k."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of vitamin k.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of vitamin k.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylloquinone designates a form of vitamin k."*

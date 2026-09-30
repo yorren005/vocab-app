@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrocephalus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal increase in the amount of cerebrospinal fluid within the cranial cavity (as from obstructed flow, excess production, or defective absorption) that is accompanied by expansion of the cerebral ventricles and often increased intracranial pressure, skull enlargement, and cognitive decline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal increase in the amount of cerebrospinal fluid within the cranial cavity (as from obstructed flow, excess production, or defective absorption) that is accompanied by expansion of the cerebral ventricles and often increased intracranial pressure, skull enlargement, and cognitive decline.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocephalus designates an abnormal increase in the amount of cerebrospinal fluid within the cranial cavity (as from obstructed flow, excess production, or defective absorption) that is accompanied by expansion of the cerebral ventricles and often increased intracranial pressure, skull enlargement, and cognitive decline."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal increase in the amount of cerebrospinal fluid within the cranial cavity (as from obstructed flow, excess production, or defective absorption) that is accompanied by expansion of the cerebral ventricles and often increased intracranial pressure, skull enlargement, and cognitive decline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal increase in the amount of cerebrospinal fluid within the cranial cavity (as from obstructed flow, excess production, or defective absorption) that is accompanied by expansion of the cerebral ventricles and often increased intracranial pressure, skull enlargement, and cognitive decline.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrocephalus designates an abnormal increase in the amount of cerebrospinal fluid within the cranial cavity (as from obstructed flow, excess production, or defective absorption) that is accompanied by expansion of the cerebral ventricles and often increased intracranial pressure, skull enlargement, and cognitive decline."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # polyatomic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing more than one and especially more than two atoms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing more than one and especially more than two atoms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyatomic designates containing more than one and especially more than two atoms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing more than one and especially more than two atoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing more than one and especially more than two atoms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyatomic designates containing more than one and especially more than two atoms."*

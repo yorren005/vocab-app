@@ -5,14 +5,6 @@ status: unread
 ---
 # adulteration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being mixed with extraneous material; the product of adulterating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of adulterating (especially the illicit substitution of one substance for another).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Think of our child labour, of our police graft and our political corruption, of our food adulteration and of our slavery of the daughters of the poor."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Adulteration of Truth The medicine of Science is divine Mind; and dishonesty, sensuality, falsehood, revenge, malice, are animal pro- 104:21 pensities and by no means the mental quali- ties which heal the sick."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being mixed with extraneous material; the product of adulterating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of adulterating (especially the illicit substitution of one substance for another).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Think of our child labour, of our police graft and our political corruption, of our food adulteration and of our slavery of the daughters of the poor."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Adulteration of Truth The medicine of Science is divine Mind; and dishonesty, sensuality, falsehood, revenge, malice, are animal pro- 104:21 pensities and by no means the mental quali- ties which heal the sick."*

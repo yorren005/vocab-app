@@ -5,13 +5,6 @@ status: unread
 ---
 # robeson
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states bass singer and an outspoken critic of racism and proponent of socialism (1898-1976).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states bass singer and an outspoken critic of racism and proponent of socialism (1898-1976).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Robeson, New Jersey, June 25th, 1869. _Secretary of Interior_, Jacob D."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states bass singer and an outspoken critic of racism and proponent of socialism (1898-1976).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states bass singer and an outspoken critic of racism and proponent of socialism (1898-1976).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Robeson, New Jersey, June 25th, 1869. _Secretary of Interior_, Jacob D."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # amylose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A component of starch characterized by its straight chains of glucose units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A component of starch characterized by its straight chains of glucose units.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amylose designates a component of starch characterized by its straight chains of glucose units."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A component of starch characterized by its straight chains of glucose units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A component of starch characterized by its straight chains of glucose units.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amylose designates a component of starch characterized by its straight chains of glucose units."*

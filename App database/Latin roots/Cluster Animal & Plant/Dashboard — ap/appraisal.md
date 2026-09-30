@@ -5,13 +5,6 @@ status: unread
 ---
 # appraisal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The classification of someone or something with respect to its worth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A document appraising the value of something (as for insurance or taxation).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appraisal designates the classification of someone or something with respect to its worth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The classification of someone or something with respect to its worth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A document appraising the value of something (as for insurance or taxation).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appraisal designates the classification of someone or something with respect to its worth."*

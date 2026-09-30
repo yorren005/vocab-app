@@ -5,13 +5,6 @@ status: unread
 ---
 # gastrin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various polypeptide hormones that are secreted by the gastric mucosa and induce secretion of gastric juice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various polypeptide hormones that are secreted by the gastric mucosa and induce secretion of gastric juice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastrin designates any of various polypeptide hormones that are secreted by the gastric mucosa and induce secretion of gastric juice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various polypeptide hormones that are secreted by the gastric mucosa and induce secretion of gastric juice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various polypeptide hormones that are secreted by the gastric mucosa and induce secretion of gastric juice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastrin designates any of various polypeptide hormones that are secreted by the gastric mucosa and induce secretion of gastric juice."*

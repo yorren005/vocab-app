@@ -5,15 +5,6 @@ status: unread
 ---
 # provence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A former province of southeastern france; now administered with cote d'azur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former province of southeastern france; now administered with cote d'azur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the Maiden’s Blush, through all varieties of the Provence down to the Crimson Tuscany, the countenance of Oak’s acquaintance quickly graduated; whereupon he, in considerateness, turned away his head."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Another diversion of the evening was to pour cans of water from the houses on the heads of people in the streets.[488] In Provence the midsummer fires are still popular."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Cortet, _Essai sur les Fêtes Religieuses_, pp. 217 _sq._ [471] Bérenger-Féraud, _Réminiscences populaires de la Provence_ (Paris, 1885), p. 142. [472] Charles Beauquier, _Les Mois en Franche-Comté_ (Paris, 1900), p. 89."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former province of southeastern france; now administered with cote d'azur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former province of southeastern france; now administered with cote d'azur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the Maiden’s Blush, through all varieties of the Provence down to the Crimson Tuscany, the countenance of Oak’s acquaintance quickly graduated; whereupon he, in considerateness, turned away his head."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Another diversion of the evening was to pour cans of water from the houses on the heads of people in the streets.[488] In Provence the midsummer fires are still popular."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Cortet, _Essai sur les Fêtes Religieuses_, pp. 217 _sq._ [471] Bérenger-Féraud, _Réminiscences populaires de la Provence_ (Paris, 1885), p. 142. [472] Charles Beauquier, _Les Mois en Franche-Comté_ (Paris, 1900), p. 89."*

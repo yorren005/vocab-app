@@ -5,15 +5,6 @@ status: unread
 ---
 # privileged
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bestow a privilege upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blessed with privileges.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Draw, men, for all this privileged place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am a king, and privileged to speak."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By all the laws of war you’re privileged."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bestow a privilege upon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blessed with privileges.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Draw, men, for all this privileged place."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am a king, and privileged to speak."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By all the laws of war you’re privileged."*

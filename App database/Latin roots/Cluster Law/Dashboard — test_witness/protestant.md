@@ -5,15 +5,6 @@ status: unread
 ---
 # protestant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent of protestantism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The protestant churches and denominations collectively.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"But our schools being decidedly Protestant, and I preaching regularly, the opposition from Romanists was very strong; this, together with the extreme poverty of the people, made our income very small."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"One day, a young painter who was working there, and proved to be one of the Christians whose light shines for all in the house, spoke to her, and invited her to a prayer-meeting in a Protestant chapel."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"By Trelawny's care the ashes were buried in the Protestant cemetery at Rome."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent of protestantism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The protestant churches and denominations collectively.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"But our schools being decidedly Protestant, and I preaching regularly, the opposition from Romanists was very strong; this, together with the extreme poverty of the people, made our income very small."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"One day, a young painter who was working there, and proved to be one of the Christians whose light shines for all in the house, spoke to her, and invited her to a prayer-meeting in a Protestant chapel."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"By Trelawny's care the ashes were buried in the Protestant cemetery at Rome."*

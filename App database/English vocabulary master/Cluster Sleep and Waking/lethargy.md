@@ -5,20 +5,6 @@ status: unread
 ---
 # lethargy
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Abnormal drowsiness
-> 2. **Nuance / Usage**: The quality or state of being lazy, sluggish, or indifferent
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"call either the lethargy of custom or their lack of imagination."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I did not like that lethargy of Madam Mina’s."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"by-and-bye she sank into a lethargy, and lay like the dead."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A pathological or profound state of drowsiness, physical exhaustion, and sluggishness.
+> 2. **Nuance / Usage**: Figuratively, a state of mental apathy, listless indifference, or lack of vitality and enthusiasm.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Most people are held back by what we may call either the **lethargy** of custom or their lack of imagination."*
+> - 📜 **Bram Stoker (*Dracula*):** *"I did not like that unnatural **lethargy** of Madam Mina’s as the evening drew on."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"By-and-bye she sank into a deep **lethargy**, and lay like the dead."*

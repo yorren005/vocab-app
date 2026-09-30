@@ -5,13 +5,6 @@ status: unread
 ---
 # xanthine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feebly basic compound C5H4N4O2 that occurs especially in animal or plant tissue, is derived from guanine and hypoxanthine, and yields uric acid on oxidation; also : any of various derivatives of xanthine (such as methylxanthine).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feebly basic compound C5H4N4O2 that occurs especially in animal or plant tissue, is derived from guanine and hypoxanthine, and yields uric acid on oxidation; also : any of various derivatives of xanthine (such as methylxanthine).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthine designates a feebly basic compound c5h4n4o2 that occurs especially in animal or plant tissue, is derived from guanine and hypoxanthine, and yields uric acid on oxidation; also : any of various derivatives of xanthine (such as methylxanthine)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feebly basic compound C5H4N4O2 that occurs especially in animal or plant tissue, is derived from guanine and hypoxanthine, and yields uric acid on oxidation; also : any of various derivatives of xanthine (such as methylxanthine).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feebly basic compound C5H4N4O2 that occurs especially in animal or plant tissue, is derived from guanine and hypoxanthine, and yields uric acid on oxidation; also : any of various derivatives of xanthine (such as methylxanthine).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthine designates a feebly basic compound c5h4n4o2 that occurs especially in animal or plant tissue, is derived from guanine and hypoxanthine, and yields uric acid on oxidation; also : any of various derivatives of xanthine (such as methylxanthine)."*

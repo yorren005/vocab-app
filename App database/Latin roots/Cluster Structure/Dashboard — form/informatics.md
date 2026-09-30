@@ -5,13 +5,6 @@ status: unread
 ---
 # informatics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sciences concerned with gathering, manipulating, storing, retrieving, and classifying recorded information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sciences concerned with gathering, manipulating, storing, retrieving, and classifying recorded information.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, informatics designates the sciences concerned with gathering, manipulating, storing, retrieving, and classifying recorded information."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sciences concerned with gathering, manipulating, storing, retrieving, and classifying recorded information.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sciences concerned with gathering, manipulating, storing, retrieving, and classifying recorded information.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, informatics designates the sciences concerned with gathering, manipulating, storing, retrieving, and classifying recorded information."*

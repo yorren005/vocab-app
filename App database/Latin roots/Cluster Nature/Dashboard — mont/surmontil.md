@@ -5,13 +5,6 @@ status: unread
 ---
 # surmontil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tricyclic antidepressant drug (trade name surmontil) used to treat depression and anxiety and (sometimes) insomnia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tricyclic antidepressant drug (trade name surmontil) used to treat depression and anxiety and (sometimes) insomnia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surmontil designates tricyclic antidepressant drug (trade name surmontil) used to treat depression and anxiety and (sometimes) insomnia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tricyclic antidepressant drug (trade name surmontil) used to treat depression and anxiety and (sometimes) insomnia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tricyclic antidepressant drug (trade name surmontil) used to treat depression and anxiety and (sometimes) insomnia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surmontil designates tricyclic antidepressant drug (trade name surmontil) used to treat depression and anxiety and (sometimes) insomnia."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # standstill
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A situation in which no progress can be made or no advancement is possible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An interruption of normal activity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I may keep him at a standstill, but I can never shake him off.” “Has he so little pity or compunction?” “He has none, and no anger."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet, with anguish, beholds one of them at a standstill before the fire and beginning to burn."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"They sometimes slipped and floundered for a mile together, and we were obliged to come to a standstill to rest them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A situation in which no progress can be made or no advancement is possible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An interruption of normal activity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I may keep him at a standstill, but I can never shake him off.” “Has he so little pity or compunction?” “He has none, and no anger."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet, with anguish, beholds one of them at a standstill before the fire and beginning to burn."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"They sometimes slipped and floundered for a mile together, and we were obliged to come to a standstill to rest them."*

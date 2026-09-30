@@ -5,15 +5,6 @@ status: unread
 ---
 # coalesced
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mix together different elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fuse or cause to grow together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Now and again several nodules coalesced and formed tiny rivulets."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"From a turret above the cruiser's upper structures a molecular disrupter flashed a cascade of energy that coalesced into twisting, jagged bolts."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The example shows how easily among our rude forefathers the ideas of divinity and royalty coalesced."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mix together different elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fuse or cause to grow together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Now and again several nodules coalesced and formed tiny rivulets."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"From a turret above the cruiser's upper structures a molecular disrupter flashed a cascade of energy that coalesced into twisting, jagged bolts."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The example shows how easily among our rude forefathers the ideas of divinity and royalty coalesced."*

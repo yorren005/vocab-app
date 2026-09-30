@@ -5,15 +5,6 @@ status: unread
 ---
 # petulantly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a petulant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a petulant manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Poet’s Reply To The Threat Of A Censorious Critic My imprudent lines were answered, very petulantly, by somebody, I believe, a Rev."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"It liked my arm so much, Smee, that it has followed me ever since, from sea to sea and from land to land, licking its lips for the rest of me.” “In a way,” said Smee, “it’s sort of a compliment.” “I want no such compliments,” Hook barked petulantly."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"But you don’t think of living up there, sir, and you so comfortable here?” “No, no,” he cried petulantly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a petulant manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a petulant manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Poet’s Reply To The Threat Of A Censorious Critic My imprudent lines were answered, very petulantly, by somebody, I believe, a Rev."*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"It liked my arm so much, Smee, that it has followed me ever since, from sea to sea and from land to land, licking its lips for the rest of me.” “In a way,” said Smee, “it’s sort of a compliment.” “I want no such compliments,” Hook barked petulantly."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"But you don’t think of living up there, sir, and you so comfortable here?” “No, no,” he cried petulantly."*

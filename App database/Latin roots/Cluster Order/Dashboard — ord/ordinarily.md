@@ -5,15 +5,6 @@ status: unread
 ---
 # ordinarily
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Under normal conditions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under normal conditions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But Bathsheba, though she could feel, was not much given to futile dreaming, and her musings under this head were short and entirely confined to the times when Troy’s neglect was more than ordinarily evident."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But in the selling of it I was apprehended, the root confiscated, and I was better beaten and longer planked than ordinarily."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To carry a bag of wheat on one's back a few miles requires as great an effort ordinarily as does the raising of the wheat, and the cost of carriage for fifty miles even by wagon will often equal the whole value of the wheat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Under normal conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under normal conditions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But Bathsheba, though she could feel, was not much given to futile dreaming, and her musings under this head were short and entirely confined to the times when Troy’s neglect was more than ordinarily evident."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But in the selling of it I was apprehended, the root confiscated, and I was better beaten and longer planked than ordinarily."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To carry a bag of wheat on one's back a few miles requires as great an effort ordinarily as does the raising of the wheat, and the cost of carriage for fifty miles even by wagon will often equal the whole value of the wheat."*

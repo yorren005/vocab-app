@@ -5,20 +5,6 @@ status: unread
 ---
 # folk
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: People generally
-> 2. **Nuance / Usage**: (collective plural) people, persons
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Walk aside the true folk, and let the traitors stay."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"But there’s no such genuine folk about nowadays!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"When ither folk are busy sawin!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: People in general, or a specific group of people sharing a common culture, way of life, or regional identity (*country folk*, *townsfolk*).
+> 2. **Nuance / Usage**: In the plural (*one's folks*), informally denotes one's parents and close family relatives; as an modifier, refers to traditional cultural expressions passed down orally (*folk music*, *folklore*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"Walk aside the true **folk**, and let the traitors stay."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"But there’s no such genuine **folk** about nowadays!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"When ither **folk** are busy sawin, he wanders by the river!"*

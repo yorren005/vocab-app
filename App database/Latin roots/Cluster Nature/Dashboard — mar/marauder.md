@@ -5,15 +5,6 @@ status: unread
 ---
 # marauder
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who attacks in search of booty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who attacks in search of booty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Sebastian Cabot, too, the grim marauder, seeking to plunder the slender Indians, he had been here."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Why had he fought the marauder?"*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"I would not be turned from my desire to see the old place by any fear of a ghostly marauder, whom I should be only too glad to encounter, if there were the smallest chance of coming off with the victory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who attacks in search of booty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who attacks in search of booty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Sebastian Cabot, too, the grim marauder, seeking to plunder the slender Indians, he had been here."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Why had he fought the marauder?"*
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"I would not be turned from my desire to see the old place by any fear of a ghostly marauder, whom I should be only too glad to encounter, if there were the smallest chance of coming off with the victory."*

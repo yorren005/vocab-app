@@ -5,13 +5,6 @@ status: unread
 ---
 # arboretum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A facility where trees and shrubs are cultivated for exhibition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A facility where trees and shrubs are cultivated for exhibition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"It was with much gratification that I learned at a later time of the remarkable work done in connection with the Arnold Arboretum near Boston in seeking out and bringing to America specimens of many of China's beautiful trees and plants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A facility where trees and shrubs are cultivated for exhibition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A facility where trees and shrubs are cultivated for exhibition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"It was with much gratification that I learned at a later time of the remarkable work done in connection with the Arnold Arboretum near Boston in seeking out and bringing to America specimens of many of China's beautiful trees and plants."*

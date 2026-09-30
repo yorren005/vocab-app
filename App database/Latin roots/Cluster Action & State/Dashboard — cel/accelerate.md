@@ -5,15 +5,6 @@ status: unread
 ---
 # accelerate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move faster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to move faster.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Moreover, the ship’s forge was ordered to be hoisted out of its temporary idleness in the hold; and, to accelerate the affair, the blacksmith was commanded to proceed at once to the forging of whatever iron contrivances might be needed."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Meanwhile, and especially in the light of the forthcoming convocation, I want you, Brad, to accelerate preparing our military fleet to take possession of the depot and that gaggle of transport and other vessels that constantly hover about."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"All INOR ships accelerate transition into battle formations and stations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move faster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to move faster.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Moreover, the ship’s forge was ordered to be hoisted out of its temporary idleness in the hold; and, to accelerate the affair, the blacksmith was commanded to proceed at once to the forging of whatever iron contrivances might be needed."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Meanwhile, and especially in the light of the forthcoming convocation, I want you, Brad, to accelerate preparing our military fleet to take possession of the depot and that gaggle of transport and other vessels that constantly hover about."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"All INOR ships accelerate transition into battle formations and stations."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # malachite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A green or blue mineral used as an ore of copper and for making ornamental objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A green or blue mineral used as an ore of copper and for making ornamental objects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I slipped on the uneven floor, and fell over one of the malachite tables, almost breaking my shin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A green or blue mineral used as an ore of copper and for making ornamental objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A green or blue mineral used as an ore of copper and for making ornamental objects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I slipped on the uneven floor, and fell over one of the malachite tables, almost breaking my shin."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # zoology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All the animal life in a particular region or period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of biology that studies animals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No branch of Zoology is so much involved as that which is entitled Cetology,” says Captain Scoresby, A."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"This performance was sure to be hailed with loud plaudits, and the ‘puarkee nuee’ (big hog) was unanimously pronounced by the islanders to be the most extraordinary specimen of zoology that had ever come under their observation."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"His scientific sympathies were distinctly reptilian; he loved nature’s vulgarians and described himself as the Zola of zoology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: All the animal life in a particular region or period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of biology that studies animals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No branch of Zoology is so much involved as that which is entitled Cetology,” says Captain Scoresby, A."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"This performance was sure to be hailed with loud plaudits, and the ‘puarkee nuee’ (big hog) was unanimously pronounced by the islanders to be the most extraordinary specimen of zoology that had ever come under their observation."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"His scientific sympathies were distinctly reptilian; he loved nature’s vulgarians and described himself as the Zola of zoology."*

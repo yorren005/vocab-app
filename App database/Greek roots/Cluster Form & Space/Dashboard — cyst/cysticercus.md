@@ -5,13 +5,6 @@ status: unread
 ---
 # cysticercus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tapeworm larva that consists of a fluid-filled sac containing an invaginated scolex and is situated in the tissues of an intermediate host.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tapeworm larva that consists of a fluid-filled sac containing an invaginated scolex and is situated in the tissues of an intermediate host.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cysticercus designates a tapeworm larva that consists of a fluid-filled sac containing an invaginated scolex and is situated in the tissues of an intermediate host."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tapeworm larva that consists of a fluid-filled sac containing an invaginated scolex and is situated in the tissues of an intermediate host.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tapeworm larva that consists of a fluid-filled sac containing an invaginated scolex and is situated in the tissues of an intermediate host.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cysticercus designates a tapeworm larva that consists of a fluid-filled sac containing an invaginated scolex and is situated in the tissues of an intermediate host."*

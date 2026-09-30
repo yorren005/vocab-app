@@ -5,15 +5,6 @@ status: unread
 ---
 # novice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has entered a religious order but has not taken final vows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone new to a field or activity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Triple-turned whore! ’Tis thou Hast sold me to this novice, and my heart Makes only wars on thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can you so stead me As bring me to the sight of Isabella, A novice of this place, and the fair sister To her unhappy brother Claudio?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who made thee then a bloody minister When gallant-springing, brave Plantagenet, That princely novice, was struck dead by thee?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has entered a religious order but has not taken final vows.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone new to a field or activity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Triple-turned whore! ’Tis thou Hast sold me to this novice, and my heart Makes only wars on thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can you so stead me As bring me to the sight of Isabella, A novice of this place, and the fair sister To her unhappy brother Claudio?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who made thee then a bloody minister When gallant-springing, brave Plantagenet, That princely novice, was struck dead by thee?"*

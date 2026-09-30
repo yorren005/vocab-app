@@ -5,15 +5,6 @@ status: unread
 ---
 # pasturage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Succulent herbaceous vegetation of pasture land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bulky food like grass or hay for browsing or grazing horses or cattle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"These hills would make excellent pasturage for cattle, and after a time for sheep also, the grass at present being a little too rank."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Good pasturage is found, and cultivation commences."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"In the vicinity of the Big Sandy, we found numerous lakes of clear water, surrounded by rich pasturage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Succulent herbaceous vegetation of pasture land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bulky food like grass or hay for browsing or grazing horses or cattle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"These hills would make excellent pasturage for cattle, and after a time for sheep also, the grass at present being a little too rank."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Good pasturage is found, and cultivation commences."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"In the vicinity of the Big Sandy, we found numerous lakes of clear water, surrounded by rich pasturage."*

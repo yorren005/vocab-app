@@ -5,15 +5,6 @@ status: unread
 ---
 # sacramento
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in north central california 75 miles to the northeast of san francisco on the sacramento river; capital of california.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in north central california 75 miles to the northeast of san francisco on the sacramento river; capital of california.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As a result, union labour possessing an important political significance at the time, the time-serving politicians at Sacramento appointed a senatorial committee of investigation of the state prisons."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During the Viet Nam War, he was the senior civilian in the Inspector General's Office at McClellan Air Force Base, a major logistics installation near Sacramento, California."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Not long afterward, I transferred back to the States where I got a job at McClellan AFB near Sacramento."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in north central california 75 miles to the northeast of san francisco on the sacramento river; capital of california.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in north central california 75 miles to the northeast of san francisco on the sacramento river; capital of california.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As a result, union labour possessing an important political significance at the time, the time-serving politicians at Sacramento appointed a senatorial committee of investigation of the state prisons."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During the Viet Nam War, he was the senior civilian in the Inspector General's Office at McClellan Air Force Base, a major logistics installation near Sacramento, California."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Not long afterward, I transferred back to the States where I got a job at McClellan AFB near Sacramento."*

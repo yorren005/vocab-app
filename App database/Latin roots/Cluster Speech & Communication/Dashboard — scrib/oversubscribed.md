@@ -5,13 +5,6 @@ status: unread
 ---
 # oversubscribed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sold in excess of available supply especially season tickets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sold in excess of available supply especially season tickets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oversubscribed designates sold in excess of available supply especially season tickets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sold in excess of available supply especially season tickets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sold in excess of available supply especially season tickets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oversubscribed designates sold in excess of available supply especially season tickets."*

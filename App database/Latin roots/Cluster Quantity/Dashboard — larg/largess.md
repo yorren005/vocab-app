@@ -5,15 +5,6 @@ status: unread
 ---
 # largess
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gift or money given (as for service or out of benevolence); usually given ostentatiously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liberality in bestowing gifts; extremely liberal and generous of spirit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nature’s bequest gives nothing but doth lend, And being frank she lends to those are free: Then beauteous niggard why dost thou abuse, The bounteous largess given thee to give?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A largess universal like the sun His liberal eye doth give to everyone, Thawing cold fear, that mean and gentle all Behold, as may unworthiness define, A little touch of Harry in the night."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King’s abed: He hath been in unusual pleasure and Sent forth great largess to your offices."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gift or money given (as for service or out of benevolence); usually given ostentatiously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liberality in bestowing gifts; extremely liberal and generous of spirit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nature’s bequest gives nothing but doth lend, And being frank she lends to those are free: Then beauteous niggard why dost thou abuse, The bounteous largess given thee to give?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A largess universal like the sun His liberal eye doth give to everyone, Thawing cold fear, that mean and gentle all Behold, as may unworthiness define, A little touch of Harry in the night."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King’s abed: He hath been in unusual pleasure and Sent forth great largess to your offices."*

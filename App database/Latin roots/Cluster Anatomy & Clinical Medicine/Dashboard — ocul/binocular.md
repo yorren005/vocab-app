@@ -5,15 +5,6 @@ status: unread
 ---
 # binocular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to both eyes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to both eyes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"If the examiner on this occasion should not possess a binocular microscope we are sorry for him, because in that case he will not see all that is to be seen under the greatest advantages."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I had taken up my binoculars while we talked, and was looking at the shore, sweeping the limit of the forest at each side and at the back of the house."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"You're right,' Dad says, raising his binoculars to examine the motor boat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to both eyes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to both eyes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"If the examiner on this occasion should not possess a binocular microscope we are sorry for him, because in that case he will not see all that is to be seen under the greatest advantages."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I had taken up my binoculars while we talked, and was looking at the shore, sweeping the limit of the forest at each side and at the back of the house."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"You're right,' Dad says, raising his binoculars to examine the motor boat."*

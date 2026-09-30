@@ -5,15 +5,6 @@ status: unread
 ---
 # prague
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of the czech republic in the western part of the country; a cultural and commercial center since the 14th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital and largest city of the czech republic in the western part of the country; a cultural and commercial center since the 14th century.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"At Prague, that wonderful city where the barbaric East begins, he finds his deepest interest stirred by the Jewish burying-ground and the hoary old synagogue."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Lloyd, _Peasant Life in Sweden_ (London, 1870), pp. 233 _sq._ [392] Reinsberg-Düringsfeld, _Fest-Kalender aus Böhmen_ (Prague, N.D.), pp. 211 _sq._; Br."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Jelínek, "Materialien zur Vorgeschichte und Volkskunde Böhmens," _Mittheilungen der anthropologischen Gesellschaft in Wien_, xxi. (1891) p. 13; Alois John, _Sitte, Branch, und Volksglaube im deutschen Westböhmen_ (Prague, 1905), p. 71. [393] J.A.E."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of the czech republic in the western part of the country; a cultural and commercial center since the 14th century.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital and largest city of the czech republic in the western part of the country; a cultural and commercial center since the 14th century.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"At Prague, that wonderful city where the barbaric East begins, he finds his deepest interest stirred by the Jewish burying-ground and the hoary old synagogue."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Lloyd, _Peasant Life in Sweden_ (London, 1870), pp. 233 _sq._ [392] Reinsberg-Düringsfeld, _Fest-Kalender aus Böhmen_ (Prague, N.D.), pp. 211 _sq._; Br."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Jelínek, "Materialien zur Vorgeschichte und Volkskunde Böhmens," _Mittheilungen der anthropologischen Gesellschaft in Wien_, xxi. (1891) p. 13; Alois John, _Sitte, Branch, und Volksglaube im deutschen Westböhmen_ (Prague, 1905), p. 71. [393] J.A.E."*

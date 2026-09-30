@@ -5,13 +5,6 @@ status: unread
 ---
 # thermotropism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An orienting response to warmth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An orienting response to warmth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermotropism designates an orienting response to warmth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An orienting response to warmth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An orienting response to warmth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermotropism designates an orienting response to warmth."*

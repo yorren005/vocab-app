@@ -5,15 +5,6 @@ status: unread
 ---
 # immodesty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being vain and conceited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The perverse act of exposing and attracting attention to your own genitals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O night, thou furnace of foul reeking smoke, Let not the jealous day behold that face Which underneath thy black all-hiding cloak Immodesty lies martyred with disgrace!"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In fact, and I who am about to die have the right to say it without incurring the charge of immodesty, the three best minds in San Quentin from the Warden down were the three that rotted there together in solitary."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Touchett such a declaration would savour of immodesty, even of arrogance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being vain and conceited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The perverse act of exposing and attracting attention to your own genitals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O night, thou furnace of foul reeking smoke, Let not the jealous day behold that face Which underneath thy black all-hiding cloak Immodesty lies martyred with disgrace!"*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In fact, and I who am about to die have the right to say it without incurring the charge of immodesty, the three best minds in San Quentin from the Warden down were the three that rotted there together in solitary."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Touchett such a declaration would savour of immodesty, even of arrogance."*

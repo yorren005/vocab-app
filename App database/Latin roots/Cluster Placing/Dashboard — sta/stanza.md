@@ -5,15 +5,6 @@ status: unread
 ---
 # stanza
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fixed number of lines of verse forming a unit of a poem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fixed number of lines of verse forming a unit of a poem.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sometimes he kept a stanza or two; sometimes only a line or chorus; sometimes merely the name of the air; the rest was his own."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"A Stanza Added In A Mason Lodge Then fill up a bumper and make it o’erflow, And honours masonic prepare for to throw; May ev’ry true Brother of the Compass and Square Have a big-belly’d bottle when harass’d with care."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Vide “The Ordination.” stanza ii.—R."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fixed number of lines of verse forming a unit of a poem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fixed number of lines of verse forming a unit of a poem.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sometimes he kept a stanza or two; sometimes only a line or chorus; sometimes merely the name of the air; the rest was his own."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"A Stanza Added In A Mason Lodge Then fill up a bumper and make it o’erflow, And honours masonic prepare for to throw; May ev’ry true Brother of the Compass and Square Have a big-belly’d bottle when harass’d with care."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Vide “The Ordination.” stanza ii.—R."*

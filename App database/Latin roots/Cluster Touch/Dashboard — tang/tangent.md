@@ -5,15 +5,6 @@ status: unread
 ---
 # tangent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A straight line or plane that touches a curve or curved surface at a point but does not intersect it at that point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ratio of the opposite to the adjacent side of a right-angled triangle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If you take off on a tangent, so be it."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Suddenly he broke out at a fresh tangent."*
-> - 📜 **James Joyce (*Ulysses*):** *"Though that halfbaked Lyons ran off at a tangent in his impetuosity to get left."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A straight line or plane that touches a curve or curved surface at a point but does not intersect it at that point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ratio of the opposite to the adjacent side of a right-angled triangle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If you take off on a tangent, so be it."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Suddenly he broke out at a fresh tangent."*
+> - 📜 **James Joyce (*Ulysses*):** *"Though that halfbaked Lyons ran off at a tangent in his impetuosity to get left."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # basuto
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dialect of sotho spoken by the basotho; an official language of lesotho.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dialect of sotho spoken by the basotho; an official language of lesotho.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"Soon the horses, most of which were small and of the Basuto breed, were ready to start."*
-> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"But as ill-luck would have it, one night when they were camped near the kraal of a small Basuto tribe, his companions becoming hungry, stole a goat and killed it."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Casalis, _The Basutos_ (London, 1861), p. 268. [90] J."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dialect of sotho spoken by the basotho; an official language of lesotho.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dialect of sotho spoken by the basotho; an official language of lesotho.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"Soon the horses, most of which were small and of the Basuto breed, were ready to start."*
+> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"But as ill-luck would have it, one night when they were camped near the kraal of a small Basuto tribe, his companions becoming hungry, stole a goat and killed it."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Casalis, _The Basutos_ (London, 1861), p. 268. [90] J."*

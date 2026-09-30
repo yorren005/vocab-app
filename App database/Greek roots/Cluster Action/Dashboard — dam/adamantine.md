@@ -5,15 +5,6 @@ status: unread
 ---
 # adamantine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Made of or having the quality of adamant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rigidly firm : unyielding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Anyhow, with whitewash from the wall on my forehead, my obstinacy was adamantine."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Him the Almighty Power Hurld headlong flaming from th’ Ethereal Skie With hideous ruine and combustion down To bottomless perdition, there to dwell In Adamantine Chains and penal Fire, Who durst defie th’ Omnipotent to Arms."*
-> - 📜 **John Milton (*Paradise Lost*):** *"So seem’d Farr off the flying Fiend: at last appeer Hell bounds high reaching to the horrid Roof, And thrice threefold the Gates; three folds were Brass Three Iron, three of Adamantine Rock, Impenitrable, impal’d with circling fire, Yet unconsum’d."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made of or having the quality of adamant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rigidly firm : unyielding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Anyhow, with whitewash from the wall on my forehead, my obstinacy was adamantine."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Him the Almighty Power Hurld headlong flaming from th’ Ethereal Skie With hideous ruine and combustion down To bottomless perdition, there to dwell In Adamantine Chains and penal Fire, Who durst defie th’ Omnipotent to Arms."*
+> - 📜 **John Milton (*Paradise Lost*):** *"So seem’d Farr off the flying Fiend: at last appeer Hell bounds high reaching to the horrid Roof, And thrice threefold the Gates; three folds were Brass Three Iron, three of Adamantine Rock, Impenitrable, impal’d with circling fire, Yet unconsum’d."*

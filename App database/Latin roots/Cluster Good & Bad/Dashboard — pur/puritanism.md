@@ -5,15 +5,6 @@ status: unread
 ---
 # puritanism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The beliefs and practices characteristic of puritans (most of whom were calvinists who wished to purify the church of england of its catholic aspects).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strictness and austerity in conduct and religion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Yes: there was to be, as Lord Henry had prophesied, a new Hedonism that was to recreate life and to save it from that harsh uncomely puritanism that is having, in our own day, its curious revival."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"It was his conversion to Evangelicism which gave him his inspiration and his themes. ‘The Task’ has been as justly called the poem of Methodism as the ‘Paradise Lost’ has been called the epic of Puritanism."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Their immediate posterity, the generation next to the early emigrants, wore the blackest shade of Puritanism, and so darkened the national visage with it, that all the subsequent years have not sufficed to clear it up."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The beliefs and practices characteristic of puritans (most of whom were calvinists who wished to purify the church of england of its catholic aspects).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strictness and austerity in conduct and religion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Yes: there was to be, as Lord Henry had prophesied, a new Hedonism that was to recreate life and to save it from that harsh uncomely puritanism that is having, in our own day, its curious revival."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"It was his conversion to Evangelicism which gave him his inspiration and his themes. ‘The Task’ has been as justly called the poem of Methodism as the ‘Paradise Lost’ has been called the epic of Puritanism."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Their immediate posterity, the generation next to the early emigrants, wore the blackest shade of Puritanism, and so darkened the national visage with it, that all the subsequent years have not sufficed to clear it up."*

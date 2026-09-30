@@ -5,15 +5,6 @@ status: unread
 ---
 # obliquely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To, toward or at one side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At an oblique angle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But she had obliquely noticed that he was young and slim, and that he wore three chevrons upon his sleeve."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The rain stretched obliquely through the dull atmosphere in liquid spines, unbroken in continuity between their beginnings in the clouds and their points in him."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Wick a bore, hit a curling-stone obliquely and send it through an opening."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To, toward or at one side.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At an oblique angle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But she had obliquely noticed that he was young and slim, and that he wore three chevrons upon his sleeve."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The rain stretched obliquely through the dull atmosphere in liquid spines, unbroken in continuity between their beginnings in the clouds and their points in him."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Wick a bore, hit a curling-stone obliquely and send it through an opening."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # victory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A successful ending of a struggle or contest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A successful ending of a struggle or contest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon your sword Sit laurel victory, and smooth success Be strewed before your feet!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They are beaten, sir, and our advantage serves For a fair victory."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s present him to the Duke, like a Roman conqueror, and it would do well to set the deer’s horns upon his head for a branch of victory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A successful ending of a struggle or contest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A successful ending of a struggle or contest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon your sword Sit laurel victory, and smooth success Be strewed before your feet!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They are beaten, sir, and our advantage serves For a fair victory."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s present him to the Duke, like a Roman conqueror, and it would do well to set the deer’s horns upon his head for a branch of victory."*

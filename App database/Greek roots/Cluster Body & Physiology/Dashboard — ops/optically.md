@@ -5,14 +5,6 @@ status: unread
 ---
 # optically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an optical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an optical manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But it seemed that, when on the wharf, Queequeg had not at all noticed what I now alluded to; hence I would have thought myself to have been optically deceived in that matter, were it not for Elijah’s otherwise inexplicable question."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But it seemed that, when on the wharf, Queequeg had not at all noticed what I now alluded to; hence I would have thought myself to have been optically deceived in that matter, were it not for Elijah’s otherwise inexplicable question."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an optical manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an optical manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But it seemed that, when on the wharf, Queequeg had not at all noticed what I now alluded to; hence I would have thought myself to have been optically deceived in that matter, were it not for Elijah’s otherwise inexplicable question."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But it seemed that, when on the wharf, Queequeg had not at all noticed what I now alluded to; hence I would have thought myself to have been optically deceived in that matter, were it not for Elijah’s otherwise inexplicable question."*

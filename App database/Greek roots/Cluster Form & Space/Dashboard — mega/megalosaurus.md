@@ -5,13 +5,6 @@ status: unread
 ---
 # megalosaurus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gigantic carnivorous bipedal dinosaur of the jurassic or early cretaceous in europe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gigantic carnivorous bipedal dinosaur of the jurassic or early cretaceous in europe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"As much mud in the streets as if the waters had but newly retired from the face of the earth, and it would not be wonderful to meet a Megalosaurus, forty feet long or so, waddling like an elephantine lizard up Holborn Hill."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gigantic carnivorous bipedal dinosaur of the jurassic or early cretaceous in europe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gigantic carnivorous bipedal dinosaur of the jurassic or early cretaceous in europe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"As much mud in the streets as if the waters had but newly retired from the face of the earth, and it would not be wonderful to meet a Megalosaurus, forty feet long or so, waddling like an elephantine lizard up Holborn Hill."*

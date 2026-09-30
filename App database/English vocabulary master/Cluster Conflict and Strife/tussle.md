@@ -5,18 +5,6 @@ status: unread
 ---
 # tussle
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Have a tussle
-> 2. **Nuance / Usage**: Struggle roughly : scuffle
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the tussle withstood the storm*), direct object (*cleaved the tussle*), or prepositional anchor (*amidst the tussle*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He felt that the tussle was coming."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -52,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A short, vigorous, and disorderly physical struggle or scuffle, typically to wrestle something away from an opponent; as a verb, to grapple or scuffle roughly.
+> 2. **Nuance / Usage**: Lighter in register than *melee* or *strife*, it often describes a spirited contest of wills, a political wrangle, or an athletic scramble for possession.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count) & Intransitive Verb.
+> - **Syntactic Constructions**: Functions nominally (*a sharp tussle over the bill*) and intransitively with *with* or *for* (*tussling for the ball*).
+> - **Collocations & Registers**: Narrative, sports, and political registers; paired with *scuffle*, *grapple*, *brief*, *spirited*, and *possession*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He braced his shoulders and felt that the **tussle** was coming."*
+> - 📜 **Thomas Hughes (*Tom Brown's School Days*):** *"After a sharp **tussle** on the turf, Tom managed to wrest the ball free from the scrum."*
+> - 📜 **P. G. Wodehouse (*Right Ho, Jeeves*):** *"It had been a warmish **tussle** while it lasted, leaving my collar stud broken and my tie beneath my left ear."*

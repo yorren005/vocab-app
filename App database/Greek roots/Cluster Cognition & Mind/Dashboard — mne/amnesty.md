@@ -5,15 +5,6 @@ status: unread
 ---
 # amnesty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of an authority (such as a government) by which pardon is granted to a large group of individuals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To grant amnesty to : to pardon (someone) officially often before a trial or conviction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"General amnesty, weekly carnival with masked licence, bonuses for all, esperanto the universal language with universal brotherhood."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"On this they were almost solidly united in Congress, but Horace Greeley trained an independent sentiment which favored complete amnesty to the South."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The Amnesty Bill, however was passed May 22d, 1872, after an agreement to exclude from its provisions all who held the higher military and civic positions under the Confederacy—in all about 350 persons."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of an authority (such as a government) by which pardon is granted to a large group of individuals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To grant amnesty to : to pardon (someone) officially often before a trial or conviction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"General amnesty, weekly carnival with masked licence, bonuses for all, esperanto the universal language with universal brotherhood."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"On this they were almost solidly united in Congress, but Horace Greeley trained an independent sentiment which favored complete amnesty to the South."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The Amnesty Bill, however was passed May 22d, 1872, after an agreement to exclude from its provisions all who held the higher military and civic positions under the Confederacy—in all about 350 persons."*

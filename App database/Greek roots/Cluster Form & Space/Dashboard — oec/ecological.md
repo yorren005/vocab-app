@@ -5,13 +5,6 @@ status: unread
 ---
 # ecological
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by the interdependence of living organisms in an environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the science of ecology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In support of the Charon agricultural mission, Planet Pluto, the Slingshot Logistics Depot, the Terminals' construction site, and ships moored or in transit within the Special Zone constitute an integrated ecological entity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by the interdependence of living organisms in an environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the science of ecology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In support of the Charon agricultural mission, Planet Pluto, the Slingshot Logistics Depot, the Terminals' construction site, and ships moored or in transit within the Special Zone constitute an integrated ecological entity."*

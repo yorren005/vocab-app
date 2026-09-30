@@ -5,14 +5,6 @@ status: unread
 ---
 # incognito
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With your identity concealed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without revealing one's identity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I have come _incognito_ from Prague for the purpose of consulting you.” “Then, pray consult,” said Holmes, shutting his eyes once more."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A Frenchman or a Russian prince incognito,” said the officer, looking at Pierre’s fine though dirty linen and at the ring on his finger."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With your identity concealed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without revealing one's identity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I have come _incognito_ from Prague for the purpose of consulting you.” “Then, pray consult,” said Holmes, shutting his eyes once more."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A Frenchman or a Russian prince incognito,” said the officer, looking at Pierre’s fine though dirty linen and at the ring on his finger."*

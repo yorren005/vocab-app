@@ -5,15 +5,6 @@ status: unread
 ---
 # asteroid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the small rocky celestial bodies found especially between the orbits of Mars and Jupiter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the small rocky celestial bodies found especially between the orbits of Mars and Jupiter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You are inmates in the Social Rehabilitation Center of Guardian Station 15, about five million kay outbound from the Asteroid Belt's rim, or what was the Belt before the space-miners got through with it."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The scene faded, replaced by a ring of tiny multicolored lights: the Asteroid Belt."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Scouring the Asteroid Belt, sifting the Kuiper-Oort regions, and intense competitions for substitutes provided inadequate and merely temporary relief."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the small rocky celestial bodies found especially between the orbits of Mars and Jupiter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the small rocky celestial bodies found especially between the orbits of Mars and Jupiter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You are inmates in the Social Rehabilitation Center of Guardian Station 15, about five million kay outbound from the Asteroid Belt's rim, or what was the Belt before the space-miners got through with it."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The scene faded, replaced by a ring of tiny multicolored lights: the Asteroid Belt."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Scouring the Asteroid Belt, sifting the Kuiper-Oort regions, and intense competitions for substitutes provided inadequate and merely temporary relief."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # inactivity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being inactive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to remain inactive or inert.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"They may hunt the whole country-side, while the raindrops are pattering round their inactivity."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Nay, had she been without his arm, she would soon have known that she needed it, for she wanted strength for a two hours’ saunter of this kind, coming, as it generally did, upon a week’s previous inactivity."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Our species isn't built to accept inactivity or slipping backward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being inactive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to remain inactive or inert.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"They may hunt the whole country-side, while the raindrops are pattering round their inactivity."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Nay, had she been without his arm, she would soon have known that she needed it, for she wanted strength for a two hours’ saunter of this kind, coming, as it generally did, upon a week’s previous inactivity."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Our species isn't built to accept inactivity or slipping backward."*

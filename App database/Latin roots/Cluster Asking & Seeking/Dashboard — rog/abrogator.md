@@ -5,13 +5,6 @@ status: unread
 ---
 # abrogator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An authority or official empowered to abolish or annul or repeal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An authority or official empowered to abolish or annul or repeal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abrogator designates an authority or official empowered to abolish or annul or repeal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An authority or official empowered to abolish or annul or repeal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An authority or official empowered to abolish or annul or repeal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abrogator designates an authority or official empowered to abolish or annul or repeal."*

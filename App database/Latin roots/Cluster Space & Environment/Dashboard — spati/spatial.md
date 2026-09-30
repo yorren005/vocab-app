@@ -5,14 +5,6 @@ status: unread
 ---
 # spatial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or involving or having the nature of space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or involving or having the nature of space.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"ARTICLE FIVE We recognize that precise delineation's of spatial jurisdictions are essential for the orderly processes of government."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We agree that jurisdictions to be defined and delineated include: a. the outer limits of any one nation's spatial control and administration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or involving or having the nature of space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or involving or having the nature of space.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"ARTICLE FIVE We recognize that precise delineation's of spatial jurisdictions are essential for the orderly processes of government."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We agree that jurisdictions to be defined and delineated include: a. the outer limits of any one nation's spatial control and administration."*

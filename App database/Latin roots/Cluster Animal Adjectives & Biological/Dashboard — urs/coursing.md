@@ -5,15 +5,6 @@ status: unread
 ---
 # coursing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hunting with dogs (usually greyhounds) that are trained to chase game (such as hares) by sight instead of by scent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move swiftly through or over.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King, he is hunting the deer; I am coursing myself."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The latter looked immovably at the little girl, while tears were coursing down her cheeks."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"All the gentlemen say so.” This, with the tears coursing down her fair old face."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hunting with dogs (usually greyhounds) that are trained to chase game (such as hares) by sight instead of by scent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move swiftly through or over.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King, he is hunting the deer; I am coursing myself."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The latter looked immovably at the little girl, while tears were coursing down her cheeks."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"All the gentlemen say so.” This, with the tears coursing down her fair old face."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # commander
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer in command of a military unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone in an official position of authority who can command or control others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is reported that he has taken their great’st commander, and that with his own hand he slew the duke’s brother. [_A tucket afar off._] We have lost our labour; they are gone a contrary way."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A good old commander and a most kind gentleman."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rejoice, you men of Angiers, ring your bells: King John, your king and England’s, doth approach, Commander of this hot malicious day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer in command of a military unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone in an official position of authority who can command or control others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is reported that he has taken their great’st commander, and that with his own hand he slew the duke’s brother. [_A tucket afar off._] We have lost our labour; they are gone a contrary way."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A good old commander and a most kind gentleman."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rejoice, you men of Angiers, ring your bells: King John, your king and England’s, doth approach, Commander of this hot malicious day."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # socialistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Advocating or following the socialist principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advocating or following the socialist principles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Every man of conscience and of ideals has moods that are socialistic (in this sense) and dreams of a world without toil, competition, or poverty."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Socialism in action is of course always the expression of a more or less socialistic philosophy shared by a majority of the people."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But the socialist party vote is made up of men of many shades of opinion, a large number of whom hold only the mildest sort of socialistic philosophy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Advocating or following the socialist principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advocating or following the socialist principles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Every man of conscience and of ideals has moods that are socialistic (in this sense) and dreams of a world without toil, competition, or poverty."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Socialism in action is of course always the expression of a more or less socialistic philosophy shared by a majority of the people."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But the socialist party vote is made up of men of many shades of opinion, a large number of whom hold only the mildest sort of socialistic philosophy."*

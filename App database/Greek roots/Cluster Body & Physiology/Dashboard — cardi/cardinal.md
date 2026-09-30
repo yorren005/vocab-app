@@ -5,15 +5,6 @@ status: unread
 ---
 # cardinal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) one of a group of more than 100 prominent bishops in the sacred college who advise the pope and elect new popes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The number of elements in a mathematical set; denotes a quantity but not the order.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have patience, noble Duke; I may not open; The Cardinal of Winchester forbids."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stand back, thou manifest conspirator, Thou that contrived’st to murder our dead lord; Thou that giv’st whores indulgences to sin: I’ll canvass thee in thy broad cardinal’s hat, If thou proceed in this thy insolence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Under my feet I’ll stamp thy cardinal’s hat; In spite of Pope or dignities of church, Here by the cheeks I’ll drag thee up and down."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) one of a group of more than 100 prominent bishops in the sacred college who advise the pope and elect new popes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The number of elements in a mathematical set; denotes a quantity but not the order.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have patience, noble Duke; I may not open; The Cardinal of Winchester forbids."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stand back, thou manifest conspirator, Thou that contrived’st to murder our dead lord; Thou that giv’st whores indulgences to sin: I’ll canvass thee in thy broad cardinal’s hat, If thou proceed in this thy insolence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Under my feet I’ll stamp thy cardinal’s hat; In spite of Pope or dignities of church, Here by the cheeks I’ll drag thee up and down."*

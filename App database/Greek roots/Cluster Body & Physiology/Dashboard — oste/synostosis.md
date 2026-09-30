@@ -5,13 +5,6 @@ status: unread
 ---
 # synostosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Union of two or more separate bones to form a single bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Union of two or more separate bones to form a single bone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synostosis designates union of two or more separate bones to form a single bone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Union of two or more separate bones to form a single bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Union of two or more separate bones to form a single bone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synostosis designates union of two or more separate bones to form a single bone."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # postexilic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the period in jewish history after 539 bc (after the babylonian captivity).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the period in jewish history after 539 bc (after the babylonian captivity).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Accepting the analogy implied in his guest’s parable which examples of postexilic eminence did he adduce?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the period in jewish history after 539 bc (after the babylonian captivity).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the period in jewish history after 539 bc (after the babylonian captivity).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Accepting the analogy implied in his guest’s parable which examples of postexilic eminence did he adduce?"*

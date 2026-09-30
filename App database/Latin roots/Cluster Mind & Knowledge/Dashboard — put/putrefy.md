@@ -5,15 +5,6 @@ status: unread
 ---
 # putrefy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become putrid; decay with an offensive smell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become putrid; decay with an offensive smell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"She may not touch any food which is to be preserved by salting, whether it be fish, flesh, or vegetables; for were she to touch it the food would putrefy."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Brunswick people think that if a menstruous woman assists at the killing of a pig, the pork will putrefy."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The stem now rapidly putrefies, the cuticle and its subjacent tissue become pulpy, and separate when touched from the woody parts beneath."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become putrid; decay with an offensive smell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become putrid; decay with an offensive smell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"She may not touch any food which is to be preserved by salting, whether it be fish, flesh, or vegetables; for were she to touch it the food would putrefy."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Brunswick people think that if a menstruous woman assists at the killing of a pig, the pork will putrefy."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The stem now rapidly putrefies, the cuticle and its subjacent tissue become pulpy, and separate when touched from the woody parts beneath."*

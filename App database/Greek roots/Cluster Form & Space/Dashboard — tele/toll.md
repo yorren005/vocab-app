@@ -5,15 +5,6 @@ status: unread
 ---
 # toll
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tax or fee paid for some liberty or privilege (as of passing over a highway or bridge).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compensation for services rendered: such as.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will buy me a son-in-law in a fair, and toll for this."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The country cocks do crow, the clocks do toll, And the third hour of drowsy morning name."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I heard of her first at the archway toll, over at Highgate, but couldn’t make quite sure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tax or fee paid for some liberty or privilege (as of passing over a highway or bridge).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compensation for services rendered: such as.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will buy me a son-in-law in a fair, and toll for this."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The country cocks do crow, the clocks do toll, And the third hour of drowsy morning name."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I heard of her first at the archway toll, over at Highgate, but couldn’t make quite sure."*

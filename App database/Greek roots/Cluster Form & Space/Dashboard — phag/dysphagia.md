@@ -5,13 +5,6 @@ status: unread
 ---
 # dysphagia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficulty in swallowing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Difficulty in swallowing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysphagia designates difficulty in swallowing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficulty in swallowing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Difficulty in swallowing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysphagia designates difficulty in swallowing."*

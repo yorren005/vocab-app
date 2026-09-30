@@ -5,15 +5,6 @@ status: unread
 ---
 # philosopher
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in philosophy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wise person who is calm and rational; someone who lives a life of reason with equanimity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such a one is a natural philosopher."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, I’ll be acquainted with him if I return, and ’t shall go hard but I’ll make him a philosopher’s two stones to me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First let me talk with this philosopher."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in philosophy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wise person who is calm and rational; someone who lives a life of reason with equanimity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such a one is a natural philosopher."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, I’ll be acquainted with him if I return, and ’t shall go hard but I’ll make him a philosopher’s two stones to me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First let me talk with this philosopher."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # rascality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of indulging in disreputable pranks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being a slippery rascal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Only genius could have made Charlotte what she is, yet not disagreeable; Wickham what he is, without investing him either with a cheap Don Juanish attractiveness or a disgusting rascality."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"He had no particular belief in his honesty, and he believed him, not altogether unreasonably as the sequel proved, to be initiated into most of the mysteries of modern rascality."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"He came to the belief which he cherishes until now, that he had to screw up his courage pretty tightly before he could face the idea of confronting the partners in rascality together."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of indulging in disreputable pranks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being a slippery rascal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Only genius could have made Charlotte what she is, yet not disagreeable; Wickham what he is, without investing him either with a cheap Don Juanish attractiveness or a disgusting rascality."*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"He had no particular belief in his honesty, and he believed him, not altogether unreasonably as the sequel proved, to be initiated into most of the mysteries of modern rascality."*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"He came to the belief which he cherishes until now, that he had to screw up his courage pretty tightly before he could face the idea of confronting the partners in rascality together."*

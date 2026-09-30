@@ -5,13 +5,6 @@ status: unread
 ---
 # biochemistry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The organic chemistry of compounds and processes occurring in organisms; the effort to understand biology within the context of chemistry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organic chemistry of compounds and processes occurring in organisms; the effort to understand biology within the context of chemistry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biochemistry designates the organic chemistry of compounds and processes occurring in organisms; the effort to understand biology within the context of chemistry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The organic chemistry of compounds and processes occurring in organisms; the effort to understand biology within the context of chemistry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organic chemistry of compounds and processes occurring in organisms; the effort to understand biology within the context of chemistry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biochemistry designates the organic chemistry of compounds and processes occurring in organisms; the effort to understand biology within the context of chemistry."*

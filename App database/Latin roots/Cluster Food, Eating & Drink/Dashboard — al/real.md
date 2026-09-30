@@ -5,15 +5,6 @@ status: unread
 ---
 # real
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any rational or irrational number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic unit of money in brazil; equal to 100 centavos.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"A real ghost could rush towards us, mad with rage, if we challenged him that way."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"There is no real foundation for the talk," the mother replied, "and no one of all those who talk has ever seen the apparition with his own eyes."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Real Sunday peace is resting on everything here."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any rational or irrational number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic unit of money in brazil; equal to 100 centavos.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"A real ghost could rush towards us, mad with rage, if we challenged him that way."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"There is no real foundation for the talk," the mother replied, "and no one of all those who talk has ever seen the apparition with his own eyes."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Real Sunday peace is resting on everything here."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # discarded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Throw or cast away.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thrown away.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And shall it in more shame be further spoken, That you are fool’d, discarded, and shook off By him for whom these shames ye underwent?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fly, noble English, you are bought and sold; Unthread the rude eye of rebellion And welcome home again discarded faith."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is it the fashion that discarded fathers Should have thus little mercy on their flesh?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Throw or cast away.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thrown away.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And shall it in more shame be further spoken, That you are fool’d, discarded, and shook off By him for whom these shames ye underwent?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fly, noble English, you are bought and sold; Unthread the rude eye of rebellion And welcome home again discarded faith."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is it the fashion that discarded fathers Should have thus little mercy on their flesh?"*

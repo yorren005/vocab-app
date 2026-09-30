@@ -5,14 +5,6 @@ status: unread
 ---
 # anatomise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dissect in order to analyze.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dissect in order to analyze.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"He might dissect, anatomise, and give names; but, not to speak of a final cause, causes in their secondary and tertiary grades were utterly unknown to him."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"I doubt you must have been a solitary prisoner to understand these perplexed distinctions.” His collected and calm manner could not prevent her blood from running cold, as he thus tried to anatomise his old condition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dissect in order to analyze.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dissect in order to analyze.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"He might dissect, anatomise, and give names; but, not to speak of a final cause, causes in their secondary and tertiary grades were utterly unknown to him."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"I doubt you must have been a solitary prisoner to understand these perplexed distinctions.” His collected and calm manner could not prevent her blood from running cold, as he thus tried to anatomise his old condition."*

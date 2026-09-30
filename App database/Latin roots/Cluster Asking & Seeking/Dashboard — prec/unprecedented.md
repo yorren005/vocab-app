@@ -5,15 +5,6 @@ status: unread
 ---
 # unprecedented
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no precedent; novel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no precedent; novel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"But, as the danger was of an entirely unprecedented character, it is not to be wondered at that I should be completely at a loss to divine what its meaning was."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Above all things, it was my duty to prevent a tumult in these unprecedented circumstances."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"An unprecedented series of calls from tradesmen wishing their bills paid sooner than customary, drained his means, and he was satisfied from the situation that his means would not be sufficient to pay them all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no precedent; novel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no precedent; novel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"But, as the danger was of an entirely unprecedented character, it is not to be wondered at that I should be completely at a loss to divine what its meaning was."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Above all things, it was my duty to prevent a tumult in these unprecedented circumstances."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"An unprecedented series of calls from tradesmen wishing their bills paid sooner than customary, drained his means, and he was satisfied from the situation that his means would not be sufficient to pay them all."*

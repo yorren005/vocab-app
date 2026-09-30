@@ -5,15 +5,6 @@ status: unread
 ---
 # discolor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose color or turn colorless.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to lose or change color.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"When by chance these precious parts in a nursing whale are cut by the hunter’s lance, the mother’s pouring milk and blood rivallingly discolor the sea for rods."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The following observations will show that, like most other objections against the Constitution, it can only proceed from a partial view of the subject, or from a jealousy which discolors and disfigures every object which is beheld. 1."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Lyart, gray in general; discolored by decay or old age."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose color or turn colorless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to lose or change color.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"When by chance these precious parts in a nursing whale are cut by the hunter’s lance, the mother’s pouring milk and blood rivallingly discolor the sea for rods."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The following observations will show that, like most other objections against the Constitution, it can only proceed from a partial view of the subject, or from a jealousy which discolors and disfigures every object which is beheld. 1."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Lyart, gray in general; discolored by decay or old age."*

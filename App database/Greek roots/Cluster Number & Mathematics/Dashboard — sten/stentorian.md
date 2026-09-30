@@ -5,15 +5,6 @@ status: unread
 ---
 # stentorian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of the voice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of the voice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here the only sounds disturbing the stillness were steady munchings of many mouths, and stentorian breathings from all but invisible noses, ending in snores and puffs like the blowing of bellows slowly."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Tall, I’ve come for the key of the granary, to get at the rick-cloths,” said Oak, in a stentorian voice."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But before he had finished reading, a stentorian major-domo announced that dinner was ready!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of the voice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of the voice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here the only sounds disturbing the stillness were steady munchings of many mouths, and stentorian breathings from all but invisible noses, ending in snores and puffs like the blowing of bellows slowly."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Tall, I’ve come for the key of the granary, to get at the rick-cloths,” said Oak, in a stentorian voice."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But before he had finished reading, a stentorian major-domo announced that dinner was ready!"*

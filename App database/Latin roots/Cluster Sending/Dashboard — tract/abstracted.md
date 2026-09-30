@@ -5,15 +5,6 @@ status: unread
 ---
 # abstracted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider a concept without thinking of a specific example; consider abstractly or theoretically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make off with belongings of others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby with an abstracted air as she looked over the dispatch last opened; “what a goose you are!” “I am engaged, Ma,” sobbed Caddy, “to young Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The abstracted manner in which Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I found Richard thin and languid, slovenly in his dress, abstracted in his manner, forcing his spirits now and then, and at other intervals relapsing into a dull thoughtfulness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider a concept without thinking of a specific example; consider abstractly or theoretically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make off with belongings of others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby with an abstracted air as she looked over the dispatch last opened; “what a goose you are!” “I am engaged, Ma,” sobbed Caddy, “to young Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The abstracted manner in which Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I found Richard thin and languid, slovenly in his dress, abstracted in his manner, forcing his spirits now and then, and at other intervals relapsing into a dull thoughtfulness."*

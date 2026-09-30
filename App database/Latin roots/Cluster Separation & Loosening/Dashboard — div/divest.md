@@ -5,15 +5,6 @@ status: unread
 ---
 # divest
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take away possessions from someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of status or authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me, my daughters,— Since now we will divest us both of rule, Interest of territory, cares of state,— Which of you shall we say doth love us most?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"His sole occupation was to sit with his head against the wall, looking hard at the thoughtful baby; and I could not quite divest my mind of a fancy that they understood one another."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It had come on there, I dare say, a hundred times before, but I could not divest myself of an idea that it MIGHT lead to some result now."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take away possessions from someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of status or authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me, my daughters,— Since now we will divest us both of rule, Interest of territory, cares of state,— Which of you shall we say doth love us most?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"His sole occupation was to sit with his head against the wall, looking hard at the thoughtful baby; and I could not quite divest my mind of a fancy that they understood one another."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It had come on there, I dare say, a hundred times before, but I could not divest myself of an idea that it MIGHT lead to some result now."*

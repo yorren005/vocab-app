@@ -5,15 +5,6 @@ status: unread
 ---
 # fundamentals
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Principles from which other truths can be derived.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any factor that could be considered important to the understanding of a particular business.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Their familiarity with deep space is often limited, so station lectures start with fundamentals."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Part 1*):** *"Revised and corrected by a Gentleman well skilled in the Fundamentals of Literature, near Privy-Garden and the generally anti-intellectual thrust of its preface were reminiscent of the _Merry-Thought_ pamphlets."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"We should in fact have reached those two fundamentals of which man’s whole outlook on the universe is constructed—the incomprehensible essence of life, and the laws defining that essence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Principles from which other truths can be derived.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any factor that could be considered important to the understanding of a particular business.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Their familiarity with deep space is often limited, so station lectures start with fundamentals."*
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Part 1*):** *"Revised and corrected by a Gentleman well skilled in the Fundamentals of Literature, near Privy-Garden and the generally anti-intellectual thrust of its preface were reminiscent of the _Merry-Thought_ pamphlets."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"We should in fact have reached those two fundamentals of which man’s whole outlook on the universe is constructed—the incomprehensible essence of life, and the laws defining that essence."*

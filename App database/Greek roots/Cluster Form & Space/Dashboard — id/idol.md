@@ -5,15 +5,6 @@ status: unread
 ---
 # idol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An object of extreme devotion; also : ideal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A representation or symbol of an object of worship; broadly : a false god.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For fear of which, hear this thou age unbred, Ere you were born was beauty’s summer dead. 105 Let not my love be called idolatry, Nor my beloved as an idol show, Since all alike my songs and praises be To one, of one, still such, and ever so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And what art thou, thou idol Ceremony?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall the proud lord That bastes his arrogance with his own seam And never suffers matter of the world Enter his thoughts, save such as doth revolve And ruminate himself—shall he be worshipp’d Of that we hold an idol more than he?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An object of extreme devotion; also : ideal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A representation or symbol of an object of worship; broadly : a false god.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For fear of which, hear this thou age unbred, Ere you were born was beauty’s summer dead. 105 Let not my love be called idolatry, Nor my beloved as an idol show, Since all alike my songs and praises be To one, of one, still such, and ever so."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And what art thou, thou idol Ceremony?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall the proud lord That bastes his arrogance with his own seam And never suffers matter of the world Enter his thoughts, save such as doth revolve And ruminate himself—shall he be worshipp’d Of that we hold an idol more than he?"*

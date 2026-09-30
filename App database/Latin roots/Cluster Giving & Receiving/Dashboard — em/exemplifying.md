@@ -5,13 +5,6 @@ status: unread
 ---
 # exemplifying
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be characteristic of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clarify by giving an example of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"So these two were each exemplifying the Vanity of this life, and each longing for what he or she could not get."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be characteristic of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clarify by giving an example of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"So these two were each exemplifying the Vanity of this life, and each longing for what he or she could not get."*

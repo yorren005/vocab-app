@@ -5,13 +5,6 @@ status: unread
 ---
 # standardiser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who sets a standard for things to conform to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who sets a standard for things to conform to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, standardiser designates a person who sets a standard for things to conform to."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who sets a standard for things to conform to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who sets a standard for things to conform to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, standardiser designates a person who sets a standard for things to conform to."*

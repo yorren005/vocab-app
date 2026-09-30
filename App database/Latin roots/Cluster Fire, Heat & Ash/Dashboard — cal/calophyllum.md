@@ -5,13 +5,6 @@ status: unread
 ---
 # calophyllum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of tropical evergreen trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of tropical evergreen trees.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Behold, here is a great giant towering above us." And Kapeepeekauila, seeing this, hastened to prune the branches of the kamani tree (_Calophyllum inophyllum_), so that the bluff should grow upward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of tropical evergreen trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of tropical evergreen trees.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Behold, here is a great giant towering above us." And Kapeepeekauila, seeing this, hastened to prune the branches of the kamani tree (_Calophyllum inophyllum_), so that the bluff should grow upward."*

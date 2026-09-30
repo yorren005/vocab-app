@@ -5,15 +5,6 @@ status: unread
 ---
 # preserve
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A domain that seems to be specially reserved for someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reservation where animals are protected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not politic in the commonwealth of nature to preserve virginity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gentle Octavia, Let your best love draw to that point which seeks Best to preserve it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So the gods preserve thee! [_Exit._] CAESAR."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A domain that seems to be specially reserved for someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reservation where animals are protected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not politic in the commonwealth of nature to preserve virginity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gentle Octavia, Let your best love draw to that point which seeks Best to preserve it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So the gods preserve thee! [_Exit._] CAESAR."*

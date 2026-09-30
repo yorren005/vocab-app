@@ -5,15 +5,6 @@ status: unread
 ---
 # promote
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Contribute to the progress or growth of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give a promotion to or assign to a higher position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"‘To promote the conversation,’ as a joker might say."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The Musgroves are behaving like themselves, most honourably and kindly, only anxious with true parental hearts to promote their daughter’s comfort."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"But I confess, as soon as I read his letter, I thought it a very foolish, imprudent business, and not likely to promote the good of either; for what were you to live upon, supposing you came together?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contribute to the progress or growth of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give a promotion to or assign to a higher position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"‘To promote the conversation,’ as a joker might say."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The Musgroves are behaving like themselves, most honourably and kindly, only anxious with true parental hearts to promote their daughter’s comfort."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"But I confess, as soon as I read his letter, I thought it a very foolish, imprudent business, and not likely to promote the good of either; for what were you to live upon, supposing you came together?"*

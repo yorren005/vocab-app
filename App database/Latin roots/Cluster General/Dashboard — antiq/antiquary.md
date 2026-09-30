@@ -5,15 +5,6 @@ status: unread
 ---
 # antiquary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert or collector of antiquities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert or collector of antiquities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s Nestor, Instructed by the antiquary times— He must, he is, he cannot but be wise; But pardon, father Nestor, were your days As green as Ajax’ and your brain so temper’d, You should not have the eminence of him, But be as Ajax."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I am Parson Tringham, the antiquary, of Stagfoot Lane."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Perera, "Glimpses of Singhalese Social Life," _Indian Antiquary_ xxxi, (1902) p. 380. [164] J."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert or collector of antiquities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert or collector of antiquities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s Nestor, Instructed by the antiquary times— He must, he is, he cannot but be wise; But pardon, father Nestor, were your days As green as Ajax’ and your brain so temper’d, You should not have the eminence of him, But be as Ajax."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I am Parson Tringham, the antiquary, of Stagfoot Lane."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Perera, "Glimpses of Singhalese Social Life," _Indian Antiquary_ xxxi, (1902) p. 380. [164] J."*

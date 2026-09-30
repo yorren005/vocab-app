@@ -5,20 +5,6 @@ status: unread
 ---
 # bolt
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Lightning stroke; also : thunderbolt
-> 2. **Nuance / Usage**: Wood or metal bar or rod used to fasten a door
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the bolt withstood the storm*), direct object (*cleaved the bolt*), or prepositional anchor (*amidst the bolt*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"According to the fool’s bolt, sir, and such dulcet diseases."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I’ll make a shaft or a bolt on ’t."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"between us, and then again at me—“such a most oncommon Bolt as that!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Lightning stroke; also : thunderbolt
+> 2. **Nuance / Usage**: Wood or metal bar or rod used to fasten a door
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the bolt withstood the storm*), direct object (*cleaved the bolt*), or prepositional anchor (*amidst the bolt*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"According to the fool’s bolt, sir, and such dulcet diseases."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I’ll make a shaft or a bolt on ’t."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"between us, and then again at me—“such a most oncommon Bolt as that!"*

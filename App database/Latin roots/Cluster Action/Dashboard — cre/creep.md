@@ -5,15 +5,6 @@ status: unread
 ---
 # creep
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone unpleasantly strange or eccentric.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slow longitudinal movement or deformation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When the sun shines let foolish gnats make sport, But creep in crannies when he hides his beams."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, in despite of sense and secrecy, Unpeg the basket on the house’s top, Let the birds fly, and like the famous ape, To try conclusions, in the basket creep And break your own neck down."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To entail him and his heirs unto the crown, What is it but to make thy sepulchre And creep into it far before thy time?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone unpleasantly strange or eccentric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slow longitudinal movement or deformation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When the sun shines let foolish gnats make sport, But creep in crannies when he hides his beams."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, in despite of sense and secrecy, Unpeg the basket on the house’s top, Let the birds fly, and like the famous ape, To try conclusions, in the basket creep And break your own neck down."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To entail him and his heirs unto the crown, What is it but to make thy sepulchre And creep into it far before thy time?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # plate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sheet of metal or wood or glass or plastic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the brief of money, plate, and jewels I am possessed of. ’Tis exactly valued, Not petty things admitted."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By this heavenly ground I tread on, I must be fain to pawn both my plate and the tapestry of my dining-chambers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ faith, I am loath to pawn my plate, so God save me, la!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sheet of metal or wood or glass or plastic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the brief of money, plate, and jewels I am possessed of. ’Tis exactly valued, Not petty things admitted."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By this heavenly ground I tread on, I must be fain to pawn both my plate and the tapestry of my dining-chambers."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ faith, I am loath to pawn my plate, so God save me, la!"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # aired
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expose to fresh air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be broadcast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I have for the most part been aired abroad, I desire to lay my bones there."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Even now we venture into that familiar nursery only because its lawful occupants are on their way home; we are merely hurrying on in advance of them to see that their beds are properly aired and that Mr. and Mrs."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Why on earth should their beds be properly aired, seeing that they left them in such a thankless hurry?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expose to fresh air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be broadcast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I have for the most part been aired abroad, I desire to lay my bones there."*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"Even now we venture into that familiar nursery only because its lawful occupants are on their way home; we are merely hurrying on in advance of them to see that their beds are properly aired and that Mr. and Mrs."*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"Why on earth should their beds be properly aired, seeing that they left them in such a thankless hurry?"*

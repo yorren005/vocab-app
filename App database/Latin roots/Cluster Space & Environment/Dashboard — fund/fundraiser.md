@@ -5,13 +5,6 @@ status: unread
 ---
 # fundraiser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who solicits financial contributions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A social function that is held for the purpose of raising money.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fundraiser designates someone who solicits financial contributions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who solicits financial contributions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A social function that is held for the purpose of raising money.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fundraiser designates someone who solicits financial contributions."*

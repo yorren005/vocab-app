@@ -5,13 +5,6 @@ status: unread
 ---
 # lithiasis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of stones (calculi) in an internal organ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formation of stones (calculi) in an internal organ.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithiasis designates the formation of stones (calculi) in an internal organ."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of stones (calculi) in an internal organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formation of stones (calculi) in an internal organ.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithiasis designates the formation of stones (calculi) in an internal organ."*

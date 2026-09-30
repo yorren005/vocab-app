@@ -5,13 +5,6 @@ status: unread
 ---
 # connector
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrumentality that connects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrumentality that connects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Once satisfied that a gun emplacement was not booby-trapped, Kumiko inserted random realignment parameters into laser blocks, twirled tracking sequencers into disarray, and switched about chips and connectors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrumentality that connects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrumentality that connects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Once satisfied that a gun emplacement was not booby-trapped, Kumiko inserted random realignment parameters into laser blocks, twirled tracking sequencers into disarray, and switched about chips and connectors."*

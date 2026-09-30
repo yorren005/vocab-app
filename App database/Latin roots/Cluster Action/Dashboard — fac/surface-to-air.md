@@ -5,13 +5,6 @@ status: unread
 ---
 # surface-to-air
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Operating from or designed to be launched from the ground against an airborne target.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operating from or designed to be launched from the ground against an airborne target.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surface-to-air designates operating from or designed to be launched from the ground against an airborne target."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operating from or designed to be launched from the ground against an airborne target.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operating from or designed to be launched from the ground against an airborne target.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surface-to-air designates operating from or designed to be launched from the ground against an airborne target."*

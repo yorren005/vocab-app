@@ -5,13 +5,6 @@ status: unread
 ---
 # notostraca
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small freshwater crustaceans with a shield-shaped carapace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small freshwater crustaceans with a shield-shaped carapace.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notostraca designates small freshwater crustaceans with a shield-shaped carapace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small freshwater crustaceans with a shield-shaped carapace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small freshwater crustaceans with a shield-shaped carapace.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notostraca designates small freshwater crustaceans with a shield-shaped carapace."*

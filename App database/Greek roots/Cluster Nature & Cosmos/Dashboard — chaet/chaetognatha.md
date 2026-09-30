@@ -5,13 +5,6 @@ status: unread
 ---
 # chaetognatha
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrowworms: a group of small active transparent marine worms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrowworms: a group of small active transparent marine worms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chaetognatha designates arrowworms: a group of small active transparent marine worms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrowworms: a group of small active transparent marine worms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrowworms: a group of small active transparent marine worms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chaetognatha designates arrowworms: a group of small active transparent marine worms."*

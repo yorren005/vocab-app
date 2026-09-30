@@ -5,14 +5,6 @@ status: unread
 ---
 # protoplasm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The organized colloidal complex of organic and inorganic substances (such as proteins and water) that constitutes the living nucleus, cytoplasm, plastids, and mitochondria of the cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organized colloidal complex of organic and inorganic substances (such as proteins and water) that constitutes the living nucleus, cytoplasm, plastids, and mitochondria of the cell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The oogonia are large spherical or ovoid cells, with a thickish membrane containing a granular protoplasm, or formative fluid."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The antheridia are somewhat blunt-shaped or obovate cellules, considerably smaller than the oogonia, with slightly thickened walls, and containing a finely granular protoplasm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The organized colloidal complex of organic and inorganic substances (such as proteins and water) that constitutes the living nucleus, cytoplasm, plastids, and mitochondria of the cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organized colloidal complex of organic and inorganic substances (such as proteins and water) that constitutes the living nucleus, cytoplasm, plastids, and mitochondria of the cell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The oogonia are large spherical or ovoid cells, with a thickish membrane containing a granular protoplasm, or formative fluid."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The antheridia are somewhat blunt-shaped or obovate cellules, considerably smaller than the oogonia, with slightly thickened walls, and containing a finely granular protoplasm."*

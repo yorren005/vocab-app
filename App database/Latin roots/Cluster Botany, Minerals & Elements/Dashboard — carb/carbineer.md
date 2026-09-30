@@ -5,13 +5,6 @@ status: unread
 ---
 # carbineer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soldier (historically a mounted soldier) who is armed with a carbine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soldier (historically a mounted soldier) who is armed with a carbine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbineer designates a soldier (historically a mounted soldier) who is armed with a carbine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soldier (historically a mounted soldier) who is armed with a carbine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soldier (historically a mounted soldier) who is armed with a carbine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbineer designates a soldier (historically a mounted soldier) who is armed with a carbine."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # judgeship
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of judge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of judge.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Now I lay down the judgeship he lent me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of judge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of judge.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Now I lay down the judgeship he lent me."*

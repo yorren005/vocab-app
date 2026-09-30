@@ -5,15 +5,6 @@ status: unread
 ---
 # gamely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a plucky manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a plucky manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"She had waited by the side of the line, while the elderly gentleman struggled gamely for the tickets, and he had plenty of opportunity of observing her appearance."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"If we must die, let's die gamely; Luck may take a turn at last. [End of Miscellaneous Poems.] ASHTAROTH: A Dramatic Lyric Dramatis Personae HUGO, a Norman Baron and a Scholar."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"In spite of . . . or perhaps, human nature being what it is, because of . . . this, the Society went gamely to work at the only improvement they could hope to bring about that fall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a plucky manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a plucky manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"She had waited by the side of the line, while the elderly gentleman struggled gamely for the tickets, and he had plenty of opportunity of observing her appearance."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"If we must die, let's die gamely; Luck may take a turn at last. [End of Miscellaneous Poems.] ASHTAROTH: A Dramatic Lyric Dramatis Personae HUGO, a Norman Baron and a Scholar."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"In spite of . . . or perhaps, human nature being what it is, because of . . . this, the Society went gamely to work at the only improvement they could hope to bring about that fall."*

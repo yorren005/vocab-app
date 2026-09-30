@@ -5,13 +5,6 @@ status: unread
 ---
 # hemiptera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant bugs; bedbugs; some true bugs; also includes suborders heteroptera (true bugs) and homoptera (e.g., aphids, plant lice and cicadas).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant bugs; bedbugs; some true bugs; also includes suborders heteroptera (true bugs) and homoptera (e.g., aphids, plant lice and cicadas).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemiptera designates plant bugs; bedbugs; some true bugs; also includes suborders heteroptera (true bugs) and homoptera (e.g., aphids, plant lice and cicadas)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant bugs; bedbugs; some true bugs; also includes suborders heteroptera (true bugs) and homoptera (e.g., aphids, plant lice and cicadas).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant bugs; bedbugs; some true bugs; also includes suborders heteroptera (true bugs) and homoptera (e.g., aphids, plant lice and cicadas).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemiptera designates plant bugs; bedbugs; some true bugs; also includes suborders heteroptera (true bugs) and homoptera (e.g., aphids, plant lice and cicadas)."*

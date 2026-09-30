@@ -5,13 +5,6 @@ status: unread
 ---
 # rhinolaryngology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical specialty that deals with diseases of the ear, nose and throat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The medical specialty that deals with diseases of the ear, nose and throat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinolaryngology designates the medical specialty that deals with diseases of the ear, nose and throat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical specialty that deals with diseases of the ear, nose and throat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The medical specialty that deals with diseases of the ear, nose and throat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinolaryngology designates the medical specialty that deals with diseases of the ear, nose and throat."*

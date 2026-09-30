@@ -5,14 +5,6 @@ status: unread
 ---
 # vitalizing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give life to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more lively or vigorous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Spiritual subdivision 510:27 Light is a symbol of Mind, of Life, Truth, and Love, and not a vitalizing property of matter."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"I am persuaded that one great source of this kindling, vitalizing power--I suppose _the_ great source--is the grasp laid upon the present, the fearless and comprehensive dealing with reality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give life to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more lively or vigorous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Spiritual subdivision 510:27 Light is a symbol of Mind, of Life, Truth, and Love, and not a vitalizing property of matter."*
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"I am persuaded that one great source of this kindling, vitalizing power--I suppose _the_ great source--is the grasp laid upon the present, the fearless and comprehensive dealing with reality."*

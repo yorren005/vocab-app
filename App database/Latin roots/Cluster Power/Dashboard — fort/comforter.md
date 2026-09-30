@@ -5,15 +5,6 @@ status: unread
 ---
 # comforter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commiserates with someone who has had misfortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who reduces the intensity (e.g., of fears) and calms and pacifies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The heavens have blessed you with a goodly son To be your comforter when he is gone."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Please you, sir, Do not omit the heavy offer of it: It seldom visits sorrow; when it doth, It is a comforter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A solemn air, and the best comforter To an unsettled fancy, cure thy brains, Now useless, boil’d within thy skull!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Commiserates with someone who has had misfortune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who reduces the intensity (e.g., of fears) and calms and pacifies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The heavens have blessed you with a goodly son To be your comforter when he is gone."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Please you, sir, Do not omit the heavy offer of it: It seldom visits sorrow; when it doth, It is a comforter."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A solemn air, and the best comforter To an unsettled fancy, cure thy brains, Now useless, boil’d within thy skull!"*

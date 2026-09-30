@@ -5,14 +5,6 @@ status: unread
 ---
 # cyanogen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A monovalent group —CN present in cyanides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless flammable poisonous gas (CN)2.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The combination of one atom of carbon and one atom of nitrogen is called cyanogen."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"If cyanogen be given the chance it will take unto itself an atom of hydrogen, producing the deadly hydrocyanic or prussic acid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monovalent group —CN present in cyanides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless flammable poisonous gas (CN)2.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The combination of one atom of carbon and one atom of nitrogen is called cyanogen."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"If cyanogen be given the chance it will take unto itself an atom of hydrogen, producing the deadly hydrocyanic or prussic acid."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # semi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the two competitions in the next to the last round of an elimination tournament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A truck consisting of a tractor and trailer together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wouldst make an absolute courtier, and the firm fixture of thy foot would give an excellent motion to thy gait in a semi-circled farthingale."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Banks of smoke went off horizontally at the back like passing clouds, and behind these burned hidden pyres, illuminating the semi-transparent sheet of smoke to a lustrous yellow uniformity."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A morning mist hung over it now—a fulsome yet magnificent silvery veil, full of light from the sun, yet semi-opaque—the hedge behind it being in some measure hidden by its hazy luminousness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the two competitions in the next to the last round of an elimination tournament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A truck consisting of a tractor and trailer together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wouldst make an absolute courtier, and the firm fixture of thy foot would give an excellent motion to thy gait in a semi-circled farthingale."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Banks of smoke went off horizontally at the back like passing clouds, and behind these burned hidden pyres, illuminating the semi-transparent sheet of smoke to a lustrous yellow uniformity."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A morning mist hung over it now—a fulsome yet magnificent silvery veil, full of light from the sun, yet semi-opaque—the hedge behind it being in some measure hidden by its hazy luminousness."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # psalmist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A composer of sacred songs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A composer of sacred songs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Death, as the Psalmist saith, is certain to all, all shall die."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"As he sat out in the wild under the open sky, did the stars never speak to him, as to Hebrew psalmist and Roman Virgil?"*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Tho' the Philistine's mail could not avail, Nor the spear like a weaver's beam, There are episodes yet in the Psalmist's tale, To obliterate which his poems fail, Which his exploits fail to redeem."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A composer of sacred songs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A composer of sacred songs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Death, as the Psalmist saith, is certain to all, all shall die."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"As he sat out in the wild under the open sky, did the stars never speak to him, as to Hebrew psalmist and Roman Virgil?"*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Tho' the Philistine's mail could not avail, Nor the spear like a weaver's beam, There are episodes yet in the Psalmist's tale, To obliterate which his poems fail, Which his exploits fail to redeem."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # cohabitation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of living together and having a sexual relationship (especially without being married).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of living together and having a sexual relationship (especially without being married).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Sometimes it was protracted as long as ten days at a time, especially during the first years of cohabitation."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He must give up cohabitation with his wife; he may not sleep on a bed, nor shave himself, nor cut his nails, nor anoint himself with oil, nor eat food cooked with butter, nor tell lies, nor do anything else that he deems wrong."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But the leader of the party must still abstain from cohabitation with his wife for two days more."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of living together and having a sexual relationship (especially without being married).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of living together and having a sexual relationship (especially without being married).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Sometimes it was protracted as long as ten days at a time, especially during the first years of cohabitation."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He must give up cohabitation with his wife; he may not sleep on a bed, nor shave himself, nor cut his nails, nor anoint himself with oil, nor eat food cooked with butter, nor tell lies, nor do anything else that he deems wrong."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But the leader of the party must still abstain from cohabitation with his wife for two days more."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # pugnacity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural disposition to be hostile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural disposition to be hostile.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Heine it often appears simply as pugnacity; and where wit, satire, self-irony or even base calumny succeeds in covering up all traces of the poet's pathos we are no longer justified on sentimental or sympathetic grounds in taking it for granted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural disposition to be hostile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural disposition to be hostile.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Heine it often appears simply as pugnacity; and where wit, satire, self-irony or even base calumny succeeds in covering up all traces of the poet's pathos we are no longer justified on sentimental or sympathetic grounds in taking it for granted."*

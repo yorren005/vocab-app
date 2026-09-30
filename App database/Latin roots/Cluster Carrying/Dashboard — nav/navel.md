@@ -5,15 +5,6 @@ status: unread
 ---
 # navel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scar where the umbilical cord was attached.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The center point or middle of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Being pressed to th’ war, Even when the navel of the state was touched, They would not thread the gates."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They shall stand in fire up to the navel and in ice up to the heart, and there th’ offending part burns and the deceiving part freezes."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So, so, I leave him muttering.” “Here’s the ship’s navel, this doubloon here, and they are all on fire to unscrew it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scar where the umbilical cord was attached.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The center point or middle of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Being pressed to th’ war, Even when the navel of the state was touched, They would not thread the gates."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They shall stand in fire up to the navel and in ice up to the heart, and there th’ offending part burns and the deceiving part freezes."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So, so, I leave him muttering.” “Here’s the ship’s navel, this doubloon here, and they are all on fire to unscrew it."*

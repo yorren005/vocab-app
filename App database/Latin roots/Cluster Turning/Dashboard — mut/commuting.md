@@ -5,14 +5,6 @@ status: unread
 ---
 # commuting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The travel of a commuter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exchange positions without a change in value.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I suppose that I am commuting a felony, but it is just possible that I am saving a soul."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Those were wonderful hours in which the two hunted a nest that would be near enough to the city for Martin's daily commuting and yet have so much of the country about it as to boast of green grass and space for flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The travel of a commuter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exchange positions without a change in value.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I suppose that I am commuting a felony, but it is just possible that I am saving a soul."*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Those were wonderful hours in which the two hunted a nest that would be near enough to the city for Martin's daily commuting and yet have so much of the country about it as to boast of green grass and space for flowers."*

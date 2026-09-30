@@ -5,15 +5,6 @@ status: unread
 ---
 # disgusted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with distaste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause aversion in; offend the moral sense of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He told us, however, that as he had always been a mere child in point of weights and measures and had never known anything about them (except that they disgusted him), he had never been able to prescribe with the requisite accuracy of detail."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The sagacious Smallweed supplies him with the newspaper and occasionally drops his eye upon him from the landing as a precaution against his becoming disgusted with waiting and making an untimely departure."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The priests were content, the mob was satisfied, and Pilate and I were well disgusted and weary with the whole affair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with distaste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause aversion in; offend the moral sense of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He told us, however, that as he had always been a mere child in point of weights and measures and had never known anything about them (except that they disgusted him), he had never been able to prescribe with the requisite accuracy of detail."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The sagacious Smallweed supplies him with the newspaper and occasionally drops his eye upon him from the landing as a precaution against his becoming disgusted with waiting and making an untimely departure."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The priests were content, the mob was satisfied, and Pilate and I were well disgusted and weary with the whole affair."*

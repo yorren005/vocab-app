@@ -5,15 +5,6 @@ status: unread
 ---
 # misrule
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Government that is inefficient or dishonest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Government that is inefficient or dishonest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Master Simon, who was the leader of their revels, and seemed on all occasions to fulfill the office of that ancient potentate, the Lord of Misrule,* was blinded in the midst of the hall."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The whole was under the control of the Oxonian in the appropriate character of Misrule; and I observed that he exercised rather a mischievous sway with his wand over the smaller personages of the pageant."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"There used to be a swarm of these small apparitions in holiday time, and we called them children of the Lord of Misrule."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government that is inefficient or dishonest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Government that is inefficient or dishonest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Master Simon, who was the leader of their revels, and seemed on all occasions to fulfill the office of that ancient potentate, the Lord of Misrule,* was blinded in the midst of the hall."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The whole was under the control of the Oxonian in the appropriate character of Misrule; and I observed that he exercised rather a mischievous sway with his wand over the smaller personages of the pageant."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"There used to be a swarm of these small apparitions in holiday time, and we called them children of the Lord of Misrule."*

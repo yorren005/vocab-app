@@ -5,14 +5,6 @@ status: unread
 ---
 # catalepsy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trancelike state marked by loss of voluntary motion in which the limbs remain in whatever position they are placed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trancelike state marked by loss of voluntary motion in which the limbs remain in whatever position they are placed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Must not be lost." When not in a catalepsy of literary composition, I am essentially the man of action."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"He had lain unconscious throughout the operations of Teufelsbürst, but now the catalepsy had passed away, possibly under the influence of the electric condition of the atmosphere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A trancelike state marked by loss of voluntary motion in which the limbs remain in whatever position they are placed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trancelike state marked by loss of voluntary motion in which the limbs remain in whatever position they are placed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Must not be lost." When not in a catalepsy of literary composition, I am essentially the man of action."*
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"He had lain unconscious throughout the operations of Teufelsbürst, but now the catalepsy had passed away, possibly under the influence of the electric condition of the atmosphere."*

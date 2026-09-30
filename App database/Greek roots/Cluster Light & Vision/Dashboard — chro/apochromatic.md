@@ -5,13 +5,6 @@ status: unread
 ---
 # apochromatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrected for both chromatic and spherical aberration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Corrected for both chromatic and spherical aberration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apochromatic designates corrected for both chromatic and spherical aberration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrected for both chromatic and spherical aberration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Corrected for both chromatic and spherical aberration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apochromatic designates corrected for both chromatic and spherical aberration."*

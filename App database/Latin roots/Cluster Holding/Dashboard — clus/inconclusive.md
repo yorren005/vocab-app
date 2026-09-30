@@ -5,15 +5,6 @@ status: unread
 ---
 # inconclusive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conclusive; not putting an end to doubt or question.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conclusive; not putting an end to doubt or question.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And when the bard, or hoary sage, Charm or instruct the future age, They bind the wild poetric rage In energy, Or point the inconclusive page Full on the eye."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is by endless subdivisions based upon the most inconclusive differences, that some departments of natural history become so repellingly intricate."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It is by endless subdivisions based upon the most inconclusive differences, that some departments of natural history become so repellingly intricate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conclusive; not putting an end to doubt or question.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conclusive; not putting an end to doubt or question.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And when the bard, or hoary sage, Charm or instruct the future age, They bind the wild poetric rage In energy, Or point the inconclusive page Full on the eye."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is by endless subdivisions based upon the most inconclusive differences, that some departments of natural history become so repellingly intricate."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It is by endless subdivisions based upon the most inconclusive differences, that some departments of natural history become so repellingly intricate."*

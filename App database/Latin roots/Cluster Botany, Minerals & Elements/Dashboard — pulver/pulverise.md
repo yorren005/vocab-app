@@ -5,15 +5,6 @@ status: unread
 ---
 # pulverise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy completely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become powder or dust.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"An average stamp will weigh 600 to 700 lb., and the repeated blows of such a hammer are enough to pulverise the hardest rock."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The explosive used for such a purpose has a sudden shattering power, whereby it pulverises the ground in its vicinity rather than making a great upheaval at the surface."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The device of using pulverised coal as a fuel has attracted attention at several smelters where the local coal as mined was proved to be unsuitable for use."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy completely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become powder or dust.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"An average stamp will weigh 600 to 700 lb., and the repeated blows of such a hammer are enough to pulverise the hardest rock."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The explosive used for such a purpose has a sudden shattering power, whereby it pulverises the ground in its vicinity rather than making a great upheaval at the surface."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The device of using pulverised coal as a fuel has attracted attention at several smelters where the local coal as mined was proved to be unsuitable for use."*

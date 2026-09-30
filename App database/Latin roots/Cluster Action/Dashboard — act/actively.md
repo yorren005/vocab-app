@@ -5,15 +5,6 @@ status: unread
 ---
 # actively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an active manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an active manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Proclaim no shame When the compulsive ardour gives the charge, Since frost itself as actively doth burn, And reason panders will."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The doctors know that he is best with her, and when not actively engaged about him, stand aloof."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She had given herself to God, and was distressed only because she could not labor for Him actively among the lost."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an active manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an active manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Proclaim no shame When the compulsive ardour gives the charge, Since frost itself as actively doth burn, And reason panders will."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The doctors know that he is best with her, and when not actively engaged about him, stand aloof."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"She had given herself to God, and was distressed only because she could not labor for Him actively among the lost."*

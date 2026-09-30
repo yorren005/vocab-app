@@ -5,13 +5,6 @@ status: unread
 ---
 # complacence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling you have when you are satisfied with yourself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The feeling you have when you are satisfied with yourself.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"Admiration seized All Heaven, what this might mean, and whither tend, Wondering; but soon th’ Almighty thus replied: O thou in Heaven and Earth the only peace Found out for mankind under wrath, O thou My sole complacence!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling you have when you are satisfied with yourself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The feeling you have when you are satisfied with yourself.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"Admiration seized All Heaven, what this might mean, and whither tend, Wondering; but soon th’ Almighty thus replied: O thou in Heaven and Earth the only peace Found out for mankind under wrath, O thou My sole complacence!"*

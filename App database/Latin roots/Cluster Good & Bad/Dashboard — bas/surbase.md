@@ -5,13 +5,6 @@ status: unread
 ---
 # surbase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The molding or border above the base of a structure (a pedestal or podium or wall).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The molding or border above the base of a structure (a pedestal or podium or wall).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surbase designates the molding or border above the base of a structure (a pedestal or podium or wall)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The molding or border above the base of a structure (a pedestal or podium or wall).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The molding or border above the base of a structure (a pedestal or podium or wall).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surbase designates the molding or border above the base of a structure (a pedestal or podium or wall)."*

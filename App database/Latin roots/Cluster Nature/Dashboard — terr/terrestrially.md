@@ -5,14 +5,6 @@ status: unread
 ---
 # terrestrially
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a worldly manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a land environment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Even its position terrestrially is one of the elements of a new interest, and for no particular reason save that the incident of the night had occurred there Oak went again into the plantation."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Even its position terrestrially is one of the elements of a new interest, and for no particular reason save that the incident of the night had occurred there, Oak went again into the plantation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a worldly manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a land environment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Even its position terrestrially is one of the elements of a new interest, and for no particular reason save that the incident of the night had occurred there Oak went again into the plantation."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Even its position terrestrially is one of the elements of a new interest, and for no particular reason save that the incident of the night had occurred there, Oak went again into the plantation."*

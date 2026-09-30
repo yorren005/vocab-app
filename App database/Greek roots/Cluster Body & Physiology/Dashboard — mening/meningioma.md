@@ -5,13 +5,6 @@ status: unread
 ---
 # meningioma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slow-growing encapsulated typically benign tumor arising from the meninges and often causing damage by pressing upon the brain and adjacent parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slow-growing encapsulated typically benign tumor arising from the meninges and often causing damage by pressing upon the brain and adjacent parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meningioma designates a slow-growing encapsulated typically benign tumor arising from the meninges and often causing damage by pressing upon the brain and adjacent parts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slow-growing encapsulated typically benign tumor arising from the meninges and often causing damage by pressing upon the brain and adjacent parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slow-growing encapsulated typically benign tumor arising from the meninges and often causing damage by pressing upon the brain and adjacent parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meningioma designates a slow-growing encapsulated typically benign tumor arising from the meninges and often causing damage by pressing upon the brain and adjacent parts."*

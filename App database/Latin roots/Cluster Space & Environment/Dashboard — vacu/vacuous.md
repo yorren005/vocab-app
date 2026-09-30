@@ -5,15 +5,6 @@ status: unread
 ---
 # vacuous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of intelligence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of significance or point.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Again a startled look came over the somewhat vacuous face of Miss Mary Sutherland."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He shall find me ready when he comes back.” For all the preposterous hat and the vacuous face, there was something noble in the simple faith of our visitor which compelled our respect."*
-> - 📜 **John Milton (*Paradise Lost*):** *"My overshadowing Spirit and Might with thee I send along; ride forth, and bid the Deep Within appointed bounds be Heaven and Earth; Boundless the Deep, because I Am who fill Infinitude, nor vacuous the space."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of intelligence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of significance or point.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Again a startled look came over the somewhat vacuous face of Miss Mary Sutherland."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He shall find me ready when he comes back.” For all the preposterous hat and the vacuous face, there was something noble in the simple faith of our visitor which compelled our respect."*
+> - 📜 **John Milton (*Paradise Lost*):** *"My overshadowing Spirit and Might with thee I send along; ride forth, and bid the Deep Within appointed bounds be Heaven and Earth; Boundless the Deep, because I Am who fill Infinitude, nor vacuous the space."*

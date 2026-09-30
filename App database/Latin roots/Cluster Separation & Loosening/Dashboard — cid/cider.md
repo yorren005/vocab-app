@@ -5,15 +5,6 @@ status: unread
 ---
 # cider
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A beverage made from juice pressed from apples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A beverage made from juice pressed from apples.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"On a triangular shelf across the corner stood bread, bacon, cheese, and a cup for ale or cider, which was supplied from a flagon beneath."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Eating his last slices of bread and ham, and drinking from the bottle of cider he had taken the precaution to bring with him, he got into the lonely waggon."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The cider will go down better with a bit of victuals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A beverage made from juice pressed from apples.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A beverage made from juice pressed from apples.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"On a triangular shelf across the corner stood bread, bacon, cheese, and a cup for ale or cider, which was supplied from a flagon beneath."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Eating his last slices of bread and ham, and drinking from the bottle of cider he had taken the precaution to bring with him, he got into the lonely waggon."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The cider will go down better with a bit of victuals."*

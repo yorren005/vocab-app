@@ -5,13 +5,6 @@ status: unread
 ---
 # sarcoscyphaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of fungi belonging to the order pezizales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of fungi belonging to the order pezizales.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcoscyphaceae designates family of fungi belonging to the order pezizales."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of fungi belonging to the order pezizales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of fungi belonging to the order pezizales.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcoscyphaceae designates family of fungi belonging to the order pezizales."*

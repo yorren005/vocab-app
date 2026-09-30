@@ -5,15 +5,6 @@ status: unread
 ---
 # hieroglyphical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling hieroglyphic writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written in or belonging to a writing system using pictorial symbols.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"These are hieroglyphical; that is, if you call those mysterious cyphers on the walls of pyramids hieroglyphics, then that is the proper word to use in the present connexion."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I at once looked upon the figure of the animal as a kind of punning or hieroglyphical signature."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"These are hieroglyphical; that is, if you call those mysterious cyphers on the walls of pyramids hieroglyphics, then that is the proper word to use in the present connexion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling hieroglyphic writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written in or belonging to a writing system using pictorial symbols.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"These are hieroglyphical; that is, if you call those mysterious cyphers on the walls of pyramids hieroglyphics, then that is the proper word to use in the present connexion."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I at once looked upon the figure of the animal as a kind of punning or hieroglyphical signature."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"These are hieroglyphical; that is, if you call those mysterious cyphers on the walls of pyramids hieroglyphics, then that is the proper word to use in the present connexion."*

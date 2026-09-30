@@ -5,14 +5,6 @@ status: unread
 ---
 # interrelated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be in a relationship with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place into a mutual relationship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Both the prices of all the particular objects of international trade and the general levels of prices in any two trading countries come to be pretty definitely interrelated."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Every other part of the industrial organization of a nation is interrelated with its agriculture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be in a relationship with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place into a mutual relationship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Both the prices of all the particular objects of international trade and the general levels of prices in any two trading countries come to be pretty definitely interrelated."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Every other part of the industrial organization of a nation is interrelated with its agriculture."*

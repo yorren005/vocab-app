@@ -5,13 +5,6 @@ status: unread
 ---
 # unvented
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not provided with vents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not provided with vents.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unvented designates not provided with vents."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not provided with vents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not provided with vents.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unvented designates not provided with vents."*

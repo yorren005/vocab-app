@@ -5,13 +5,6 @@ status: unread
 ---
 # autacoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A physiologically active substance (such as serotonin, bradykinin, or angiotensin) that is produced by the body and typically has a localized effect of brief duration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physiologically active substance (such as serotonin, bradykinin, or angiotensin) that is produced by the body and typically has a localized effect of brief duration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autacoid designates a physiologically active substance (such as serotonin, bradykinin, or angiotensin) that is produced by the body and typically has a localized effect of brief duration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physiologically active substance (such as serotonin, bradykinin, or angiotensin) that is produced by the body and typically has a localized effect of brief duration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physiologically active substance (such as serotonin, bradykinin, or angiotensin) that is produced by the body and typically has a localized effect of brief duration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autacoid designates a physiologically active substance (such as serotonin, bradykinin, or angiotensin) that is produced by the body and typically has a localized effect of brief duration."*

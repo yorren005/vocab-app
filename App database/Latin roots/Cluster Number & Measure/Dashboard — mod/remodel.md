@@ -5,13 +5,6 @@ status: unread
 ---
 # remodel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Do over, as of (part of) a house.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cast or model anew.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, remodel designates do over, as of (part of) a house."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Do over, as of (part of) a house.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cast or model anew.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, remodel designates do over, as of (part of) a house."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # malik
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The leader of a town or community in some parts of asia minor and the indian subcontinent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The leader of a town or community in some parts of asia minor and the indian subcontinent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malik designates the leader of a town or community in some parts of asia minor and the indian subcontinent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The leader of a town or community in some parts of asia minor and the indian subcontinent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The leader of a town or community in some parts of asia minor and the indian subcontinent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malik designates the leader of a town or community in some parts of asia minor and the indian subcontinent."*

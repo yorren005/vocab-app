@@ -5,13 +5,6 @@ status: unread
 ---
 # pyrrhuloxia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Crested grey-and-red bird of southwest united states and mexico.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crested grey-and-red bird of southwest united states and mexico.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyrrhuloxia designates crested grey-and-red bird of southwest united states and mexico."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Crested grey-and-red bird of southwest united states and mexico.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crested grey-and-red bird of southwest united states and mexico.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyrrhuloxia designates crested grey-and-red bird of southwest united states and mexico."*

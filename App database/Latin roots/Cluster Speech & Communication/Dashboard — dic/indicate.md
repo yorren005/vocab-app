@@ -5,15 +5,6 @@ status: unread
 ---
 # indicate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a signal for or a symptom of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indicate a place, direction, person, or thing; either spatially or figuratively.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Hedge and ditch, and wall, and rick and stack, were examined by our men for a long distance round, lest the boy should be lying in such a place insensible or dead; but nothing was seen to indicate that he had ever been near."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"But something must be said at this point to indicate the general lines which the negotiations followed and to make Cairns's relation to them clear."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"This may be the Lord's little one in need_." But there was nothing in the letter to indicate she was a Christian."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a signal for or a symptom of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indicate a place, direction, person, or thing; either spatially or figuratively.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Hedge and ditch, and wall, and rick and stack, were examined by our men for a long distance round, lest the boy should be lying in such a place insensible or dead; but nothing was seen to indicate that he had ever been near."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"But something must be said at this point to indicate the general lines which the negotiations followed and to make Cairns's relation to them clear."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"This may be the Lord's little one in need_." But there was nothing in the letter to indicate she was a Christian."*

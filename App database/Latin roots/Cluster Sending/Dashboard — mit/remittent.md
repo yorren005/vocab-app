@@ -5,13 +5,6 @@ status: unread
 ---
 # remittent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a disease) characterized by periods of diminished severity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a disease) characterized by periods of diminished severity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I bethought myself to go upstairs and see how the dying woman sped, who lay there almost unheeded: the very servants paid her but a remittent attention: the hired nurse, being little looked after, would slip out of the room whenever she could."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a disease) characterized by periods of diminished severity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a disease) characterized by periods of diminished severity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I bethought myself to go upstairs and see how the dying woman sped, who lay there almost unheeded: the very servants paid her but a remittent attention: the hired nurse, being little looked after, would slip out of the room whenever she could."*

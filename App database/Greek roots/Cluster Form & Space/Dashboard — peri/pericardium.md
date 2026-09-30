@@ -5,13 +5,6 @@ status: unread
 ---
 # pericardium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The conical sac of serous membrane that encloses the heart and the roots of the great blood vessels of vertebrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cavity or space that contains the heart of an invertebrate and in arthropods is a part of the hemocoel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pericardium designates the conical sac of serous membrane that encloses the heart and the roots of the great blood vessels of vertebrates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The conical sac of serous membrane that encloses the heart and the roots of the great blood vessels of vertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cavity or space that contains the heart of an invertebrate and in arthropods is a part of the hemocoel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pericardium designates the conical sac of serous membrane that encloses the heart and the roots of the great blood vessels of vertebrates."*

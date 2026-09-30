@@ -5,13 +5,6 @@ status: unread
 ---
 # lymphoma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually malignant tumor of lymphoid tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A non-Hodgkin's lymphoma of B cell origin that occurs especially in children of central Africa and is associated with Epstein-Barr virus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lymphoma designates a usually malignant tumor of lymphoid tissue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually malignant tumor of lymphoid tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A non-Hodgkin's lymphoma of B cell origin that occurs especially in children of central Africa and is associated with Epstein-Barr virus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lymphoma designates a usually malignant tumor of lymphoid tissue."*

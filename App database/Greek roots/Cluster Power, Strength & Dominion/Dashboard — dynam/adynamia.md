@@ -5,13 +5,6 @@ status: unread
 ---
 # adynamia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of strength or vigor (especially from illness).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of strength or vigor (especially from illness).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adynamia designates lack of strength or vigor (especially from illness)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of strength or vigor (especially from illness).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of strength or vigor (especially from illness).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adynamia designates lack of strength or vigor (especially from illness)."*

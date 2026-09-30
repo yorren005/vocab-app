@@ -5,13 +5,6 @@ status: unread
 ---
 # biomedicine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medical science that applies biological and physiological principles to clinical practice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medical science that studies the ability of organisms to withstand environmental stress (as in space travel).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The project's participants represented a broad array of disciplines and interests, including engineering, biomedicine, law, economics, psychology, bioethics, and philosophy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medical science that applies biological and physiological principles to clinical practice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medical science that studies the ability of organisms to withstand environmental stress (as in space travel).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The project's participants represented a broad array of disciplines and interests, including engineering, biomedicine, law, economics, psychology, bioethics, and philosophy."*

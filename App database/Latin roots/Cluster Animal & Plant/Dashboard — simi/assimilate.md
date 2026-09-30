@@ -5,15 +5,6 @@ status: unread
 ---
 # assimilate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take up mentally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become similar to one's environment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"If we do not definitely set our minds to assimilate the ideas of Jesus, we shall make too little of the heart of God."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"If we can wrestle with that central thought and assimilate it, or, as the old divines said, "appropriate" it, make it our own, the rest of the Gospel is easy."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It can harmonize, assimilate, and protect the several parts and members, and extend the benefit of its foresight and precautions to each."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take up mentally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become similar to one's environment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"If we do not definitely set our minds to assimilate the ideas of Jesus, we shall make too little of the heart of God."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"If we can wrestle with that central thought and assimilate it, or, as the old divines said, "appropriate" it, make it our own, the rest of the Gospel is easy."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It can harmonize, assimilate, and protect the several parts and members, and extend the benefit of its foresight and precautions to each."*

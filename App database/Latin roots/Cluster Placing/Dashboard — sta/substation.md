@@ -5,13 +5,6 @@ status: unread
 ---
 # substation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A subsidiary station where electricity is transformed for distribution by a low-voltage network.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A subsidiary station where electricity is transformed for distribution by a low-voltage network.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, substation designates a subsidiary station where electricity is transformed for distribution by a low-voltage network."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subsidiary station where electricity is transformed for distribution by a low-voltage network.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A subsidiary station where electricity is transformed for distribution by a low-voltage network.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, substation designates a subsidiary station where electricity is transformed for distribution by a low-voltage network."*

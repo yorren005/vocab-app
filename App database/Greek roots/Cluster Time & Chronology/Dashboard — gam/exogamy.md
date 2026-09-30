@@ -5,13 +5,6 @@ status: unread
 ---
 # exogamy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marriage outside of a specific group especially as required by custom or law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marriage outside of a specific group especially as required by custom or law.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Roscoe, _The Baganda_ (London, 1911), pp. 393 _sq._, compare pp. 396, 398. [78] See _Totemism and Exogamy_, iv. 224 _sqq._ [79] Sir Harry H."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marriage outside of a specific group especially as required by custom or law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marriage outside of a specific group especially as required by custom or law.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Roscoe, _The Baganda_ (London, 1911), pp. 393 _sq._, compare pp. 396, 398. [78] See _Totemism and Exogamy_, iv. 224 _sqq._ [79] Sir Harry H."*

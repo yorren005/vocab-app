@@ -5,15 +5,6 @@ status: unread
 ---
 # humanity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being humane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being human.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A rarer spirit never Did steer humanity, but you gods will give us Some faults to make us men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How look I That I should seem to lack humanity So much as this fact comes to? [_Reads._] ‘Do’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are deceived, my substance is not here; For what you see is but the smallest part And least proportion of humanity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being humane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being human.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A rarer spirit never Did steer humanity, but you gods will give us Some faults to make us men."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How look I That I should seem to lack humanity So much as this fact comes to? [_Reads._] ‘Do’t."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are deceived, my substance is not here; For what you see is but the smallest part And least proportion of humanity."*

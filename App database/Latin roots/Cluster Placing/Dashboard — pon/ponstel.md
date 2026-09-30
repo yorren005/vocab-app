@@ -5,13 +5,6 @@ status: unread
 ---
 # ponstel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonsteroidal anti-inflammatory and analgesic drug (trade name ponstel) used to treat mild pain (especially menstrual cramps).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonsteroidal anti-inflammatory and analgesic drug (trade name ponstel) used to treat mild pain (especially menstrual cramps).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ponstel designates a nonsteroidal anti-inflammatory and analgesic drug (trade name ponstel) used to treat mild pain (especially menstrual cramps)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonsteroidal anti-inflammatory and analgesic drug (trade name ponstel) used to treat mild pain (especially menstrual cramps).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonsteroidal anti-inflammatory and analgesic drug (trade name ponstel) used to treat mild pain (especially menstrual cramps).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ponstel designates a nonsteroidal anti-inflammatory and analgesic drug (trade name ponstel) used to treat mild pain (especially menstrual cramps)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # punctureless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being without punctures or incapable of being punctured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being without punctures or incapable of being punctured.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, punctureless designates being without punctures or incapable of being punctured."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being without punctures or incapable of being punctured.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being without punctures or incapable of being punctured.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, punctureless designates being without punctures or incapable of being punctured."*

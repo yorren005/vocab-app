@@ -5,15 +5,6 @@ status: unread
 ---
 # specialize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become more focus on an area of activity or field of study.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be specific about.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"While in the villages and smaller cities the commercial banks perform a number of functions, in the larger cities they usually specialize in a far greater degree."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"While in the villages and smaller cities they perform a number of functions, in the larger cities they usually specialize in a far greater degree."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Farmers have been specializing more and more in the kinds of products to which their farms are adapted in respect to soil, relation to market, and otherwise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become more focus on an area of activity or field of study.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be specific about.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"While in the villages and smaller cities the commercial banks perform a number of functions, in the larger cities they usually specialize in a far greater degree."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"While in the villages and smaller cities they perform a number of functions, in the larger cities they usually specialize in a far greater degree."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Farmers have been specializing more and more in the kinds of products to which their farms are adapted in respect to soil, relation to market, and otherwise."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # halibut
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lean flesh of very large flatfish of atlantic or pacific.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine food fish of the northern atlantic or northern pacific; the largest flatfish and one of the largest teleost fishes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Let me see, halibut, I guess, with egg sauce."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"By the time Billy had searched five minutes and found no chicken, no oysters, and no halibut, it occurred to her that her larder was not, after all, an open market, and that one's provisions must be especially ordered to fit one's needs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lean flesh of very large flatfish of atlantic or pacific.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine food fish of the northern atlantic or northern pacific; the largest flatfish and one of the largest teleost fishes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Let me see, halibut, I guess, with egg sauce."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"By the time Billy had searched five minutes and found no chicken, no oysters, and no halibut, it occurred to her that her larder was not, after all, an open market, and that one's provisions must be especially ordered to fit one's needs."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # psithyrus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large bee that resembles the bumblebee but lacks pollen-collecting apparatus and a worker caste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large bee that resembles the bumblebee but lacks pollen-collecting apparatus and a worker caste.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psithyrus designates a large bee that resembles the bumblebee but lacks pollen-collecting apparatus and a worker caste."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large bee that resembles the bumblebee but lacks pollen-collecting apparatus and a worker caste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large bee that resembles the bumblebee but lacks pollen-collecting apparatus and a worker caste.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psithyrus designates a large bee that resembles the bumblebee but lacks pollen-collecting apparatus and a worker caste."*

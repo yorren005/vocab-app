@@ -5,15 +5,6 @@ status: unread
 ---
 # sufferer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person suffering from an illness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who suffers for the sake of principle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have forgiven her”—but her face did not relent—“the wrong she did to me, and I say no more of it, though it was greater than you will ever know—than any one will ever know but I, the sufferer."*
-> - 📜 **Jane Austen (*Persuasion*):** *"He had imagined himself indifferent, when he had only been angry; and he had been unjust to her merits, because he had been a sufferer from them."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sufferer was got to bed, and Oak, finding from the bulletins that nothing really dreadful was to be apprehended on her score, left the house."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person suffering from an illness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who suffers for the sake of principle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I have forgiven her”—but her face did not relent—“the wrong she did to me, and I say no more of it, though it was greater than you will ever know—than any one will ever know but I, the sufferer."*
+> - 📜 **Jane Austen (*Persuasion*):** *"He had imagined himself indifferent, when he had only been angry; and he had been unjust to her merits, because he had been a sufferer from them."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sufferer was got to bed, and Oak, finding from the bulletins that nothing really dreadful was to be apprehended on her score, left the house."*

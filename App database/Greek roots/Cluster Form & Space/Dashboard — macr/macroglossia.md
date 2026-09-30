@@ -5,13 +5,6 @@ status: unread
 ---
 # macroglossia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital disorder characterized by an abnormally large tongue; often seen in cases of down's syndrome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A congenital disorder characterized by an abnormally large tongue; often seen in cases of down's syndrome.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroglossia designates a congenital disorder characterized by an abnormally large tongue; often seen in cases of down's syndrome."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital disorder characterized by an abnormally large tongue; often seen in cases of down's syndrome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A congenital disorder characterized by an abnormally large tongue; often seen in cases of down's syndrome.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroglossia designates a congenital disorder characterized by an abnormally large tongue; often seen in cases of down's syndrome."*

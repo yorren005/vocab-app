@@ -5,15 +5,6 @@ status: unread
 ---
 # creditable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of often limited commendation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of often limited commendation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell; he says she is a most respectable, creditable woman."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now that’s very creditable, you know."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Highly creditable to you.” “Sir Leicester Dedlock, Baronet,” returns Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of often limited commendation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of often limited commendation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell; he says she is a most respectable, creditable woman."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now that’s very creditable, you know."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Highly creditable to you.” “Sir Leicester Dedlock, Baronet,” returns Mr."*

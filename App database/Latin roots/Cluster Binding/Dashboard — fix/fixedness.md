@@ -5,15 +5,6 @@ status: unread
 ---
 # fixedness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remaining in place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being fixed in place as by some firm attachment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I derived benefit from the task: it had kept my head and hands employed, and had given force and fixedness to the new impressions I wished to stamp indelibly on my heart."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"I confess," said Atma, "that the fixedness of fate engages my thought frequently, though hitherto unprofitably."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"But, under the softness and gentleness of her external demeanor, one soon detects a firmness of determination, and a fixedness of will."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remaining in place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being fixed in place as by some firm attachment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I derived benefit from the task: it had kept my head and hands employed, and had given force and fixedness to the new impressions I wished to stamp indelibly on my heart."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"I confess," said Atma, "that the fixedness of fate engages my thought frequently, though hitherto unprofitably."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"But, under the softness and gentleness of her external demeanor, one soon detects a firmness of determination, and a fixedness of will."*

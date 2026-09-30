@@ -5,15 +5,6 @@ status: unread
 ---
 # ardent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by intense emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by strong enthusiasm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Takes virtuous copies to be wicked, like those that under hot ardent zeal would set whole realms on fire."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"For the fifth and sixth reasons, because only Leonore could have such a child, for there could not be two people like her in the whole world." Uncle Philip had grown very warm during these ardent proofs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was ardent and brave, and in the midst of all his wild restlessness, was so gentle that I knew him like a brother in a few weeks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by intense emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by strong enthusiasm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Takes virtuous copies to be wicked, like those that under hot ardent zeal would set whole realms on fire."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"For the fifth and sixth reasons, because only Leonore could have such a child, for there could not be two people like her in the whole world." Uncle Philip had grown very warm during these ardent proofs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He was ardent and brave, and in the midst of all his wild restlessness, was so gentle that I knew him like a brother in a few weeks."*

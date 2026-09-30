@@ -5,13 +5,6 @@ status: unread
 ---
 # complexify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have or develop complicating consequences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make complex.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, complexify designates have or develop complicating consequences."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have or develop complicating consequences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make complex.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, complexify designates have or develop complicating consequences."*

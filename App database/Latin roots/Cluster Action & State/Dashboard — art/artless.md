@@ -5,15 +5,6 @@ status: unread
 ---
 # artless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by an inability to mask your feelings; not devious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Simple and natural; without cunning or deceit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So full of artless jealousy is guilt, It spills itself in fearing to be spilt."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole’s avowal of his weaknesses and display of guileless candour; but I could not satisfy myself that it was as artless as it seemed or that it did not serve Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is no great scribe, rather handling his pen like the pocket-staff he carries about with him always convenient to his grasp, and discourages correspondence with himself in others as being too artless and direct a way of doing delicate business."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by an inability to mask your feelings; not devious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Simple and natural; without cunning or deceit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So full of artless jealousy is guilt, It spills itself in fearing to be spilt."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole’s avowal of his weaknesses and display of guileless candour; but I could not satisfy myself that it was as artless as it seemed or that it did not serve Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is no great scribe, rather handling his pen like the pocket-staff he carries about with him always convenient to his grasp, and discourages correspondence with himself in others as being too artless and direct a way of doing delicate business."*

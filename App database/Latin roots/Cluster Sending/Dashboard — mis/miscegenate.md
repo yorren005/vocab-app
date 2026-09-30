@@ -5,13 +5,6 @@ status: unread
 ---
 # miscegenate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marry or cohabit with a person of another race.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marry or cohabit with a person of another race.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miscegenate designates marry or cohabit with a person of another race."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marry or cohabit with a person of another race.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marry or cohabit with a person of another race.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miscegenate designates marry or cohabit with a person of another race."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # difficulty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An effort that is inconvenient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A factor causing trouble in achieving a positive result or tending to produce a negative result.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the business be of any difficulty and this morning your departure hence, it requires haste of your lordship."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It were a tedious difficulty, I think, To bring them to that prospect."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nothing, but our undertakings when we vow to weep seas, live in fire, eat rocks, tame tigers; thinking it harder for our mistress to devise imposition enough than for us to undergo any difficulty imposed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An effort that is inconvenient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A factor causing trouble in achieving a positive result or tending to produce a negative result.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the business be of any difficulty and this morning your departure hence, it requires haste of your lordship."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It were a tedious difficulty, I think, To bring them to that prospect."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nothing, but our undertakings when we vow to weep seas, live in fire, eat rocks, tame tigers; thinking it harder for our mistress to devise imposition enough than for us to undergo any difficulty imposed."*

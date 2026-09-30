@@ -5,13 +5,6 @@ status: unread
 ---
 # impiousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unrighteousness by virtue of lacking respect for a god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrighteousness by virtue of lacking respect for a god.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impiousness designates unrighteousness by virtue of lacking respect for a god."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unrighteousness by virtue of lacking respect for a god.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrighteousness by virtue of lacking respect for a god.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impiousness designates unrighteousness by virtue of lacking respect for a god."*

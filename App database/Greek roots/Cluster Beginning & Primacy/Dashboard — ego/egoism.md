@@ -5,15 +5,6 @@ status: unread
 ---
 # egoism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A doctrine that individual self-interest is the actual motive of all conscious action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A doctrine that individual self-interest is the valid end of all actions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"This was the trained and tempered Lawrence Hyde, a personage of great good humour and numitigable egoism."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"It was a wild thing to do and not at all agreeable for me." "But, my dear Lawrence, that is one way of looking at it!" Laura protested, amused by his cool egoism, though she took it with the necessary grain of salt."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"In his set, frank egoism was the only motive for which one need not apologize."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A doctrine that individual self-interest is the actual motive of all conscious action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A doctrine that individual self-interest is the valid end of all actions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"This was the trained and tempered Lawrence Hyde, a personage of great good humour and numitigable egoism."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"It was a wild thing to do and not at all agreeable for me." "But, my dear Lawrence, that is one way of looking at it!" Laura protested, amused by his cool egoism, though she took it with the necessary grain of salt."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"In his set, frank egoism was the only motive for which one need not apologize."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # robin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small old world songbird with a reddish breast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large american thrush having a rust-red breast and abdomen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say he is already in the Forest of Arden, and a many merry men with him; and there they live like the old Robin Hood of England."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say he made a good end. [_Sings._] For bonny sweet Robin is all my joy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This house is turned upside down since Robin ostler died."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small old world songbird with a reddish breast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large american thrush having a rust-red breast and abdomen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say he is already in the Forest of Arden, and a many merry men with him; and there they live like the old Robin Hood of England."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say he made a good end. [_Sings._] For bonny sweet Robin is all my joy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This house is turned upside down since Robin ostler died."*

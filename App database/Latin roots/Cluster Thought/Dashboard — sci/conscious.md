@@ -5,15 +5,6 @@ status: unread
 ---
 # conscious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intentionally conceived.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Knowing and perceiving; having awareness of surroundings and sensations and thoughts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am always conscious of an uncomfortable sensation now and then when the wind is blowing in the east.” “Rheumatism, sir?” said Richard."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby’s eye becomes conscious of the head of Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was conscious of poor little Peepy being but a failure after all her trouble, and she showed it as she came in by the way in which she glanced first at him and then at us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intentionally conceived.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Knowing and perceiving; having awareness of surroundings and sensations and thoughts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I am always conscious of an uncomfortable sensation now and then when the wind is blowing in the east.” “Rheumatism, sir?” said Richard."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby’s eye becomes conscious of the head of Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"She was conscious of poor little Peepy being but a failure after all her trouble, and she showed it as she came in by the way in which she glanced first at him and then at us."*

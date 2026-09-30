@@ -5,15 +5,6 @@ status: unread
 ---
 # paraphrase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rewording for the purpose of clarification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express the same message in different words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ah, Woe Is Me, My Mother Dear Paraphrase of Jeremiah, 15th Chap., 10th verse."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Paraphrase Of The First Psalm The man, in life wherever plac’d, Hath happiness in store, Who walks not in the wicked’s way, Nor learns their guilty lore!"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The theory of the transference of the will of the people to historic persons is merely a paraphrase—a restatement of the question in other words."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rewording for the purpose of clarification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express the same message in different words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ah, Woe Is Me, My Mother Dear Paraphrase of Jeremiah, 15th Chap., 10th verse."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Paraphrase Of The First Psalm The man, in life wherever plac’d, Hath happiness in store, Who walks not in the wicked’s way, Nor learns their guilty lore!"*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The theory of the transference of the will of the people to historic persons is merely a paraphrase—a restatement of the question in other words."*

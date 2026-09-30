@@ -5,15 +5,6 @@ status: unread
 ---
 # corpse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dead body of a human being.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dead body of a human being.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter priests, &c, in procession; the corpse of Ophelia, Laertes and Mourners following; King, Queen, their Trains, &c."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter his chamber, view his breathless corpse, And comment then upon his sudden death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do grace to Caesar’s corpse, and grace his speech Tending to Caesar’s glories, which Mark Antony, By our permission, is allow’d to make."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dead body of a human being.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dead body of a human being.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter priests, &c, in procession; the corpse of Ophelia, Laertes and Mourners following; King, Queen, their Trains, &c."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter his chamber, view his breathless corpse, And comment then upon his sudden death."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do grace to Caesar’s corpse, and grace his speech Tending to Caesar’s glories, which Mark Antony, By our permission, is allow’d to make."*

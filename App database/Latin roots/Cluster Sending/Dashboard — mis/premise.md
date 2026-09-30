@@ -5,15 +5,6 @@ status: unread
 ---
 # premise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that is assumed to be true and from which a conclusion can be drawn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set forth beforehand, often as an explanation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"While he is so occupied, I will tell you, reader, what they are: and first, I must premise that they are nothing wonderful."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The ultimate major premise in every argument being assumed, it could of course be fashioned according to the particular conclusion it was called in to prove."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"This was the new premise brought by Mill to the elucidation of the wages question; and it sufficed to change the entire aspect of human life regarded from the point of view of political economy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that is assumed to be true and from which a conclusion can be drawn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set forth beforehand, often as an explanation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"While he is so occupied, I will tell you, reader, what they are: and first, I must premise that they are nothing wonderful."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The ultimate major premise in every argument being assumed, it could of course be fashioned according to the particular conclusion it was called in to prove."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"This was the new premise brought by Mill to the elucidation of the wages question; and it sufficed to change the entire aspect of human life regarded from the point of view of political economy."*

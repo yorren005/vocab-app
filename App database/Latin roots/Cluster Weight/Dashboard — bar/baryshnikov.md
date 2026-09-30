@@ -5,13 +5,6 @@ status: unread
 ---
 # baryshnikov
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Russian dancer and choreographer who migrated to the united states (born in 1948).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Russian dancer and choreographer who migrated to the united states (born in 1948).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baryshnikov designates russian dancer and choreographer who migrated to the united states (born in 1948)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Russian dancer and choreographer who migrated to the united states (born in 1948).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Russian dancer and choreographer who migrated to the united states (born in 1948).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, baryshnikov designates russian dancer and choreographer who migrated to the united states (born in 1948)."*

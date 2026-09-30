@@ -5,14 +5,6 @@ status: unread
 ---
 # kaleidoscope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument containing loose bits of colored material (such as glass or plastic) between two flat plates and two plane mirrors so placed that changes of position of the bits of material are reflected in an endless variety of patterns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something resembling a kaleidoscope: such as.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"In consequence of this, poetic diction has become latterly a kaleidoscope, and one's chief curiosity is as to the precise combinations into which the pieces will be shifted."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was marvellous, a feast for the eyes, this complication of coloured tints, a perfect kaleidoscope of green, yellow, orange, violet, indigo, and blue; in one word, the whole palette of an enthusiastic colourist!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument containing loose bits of colored material (such as glass or plastic) between two flat plates and two plane mirrors so placed that changes of position of the bits of material are reflected in an endless variety of patterns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something resembling a kaleidoscope: such as.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"In consequence of this, poetic diction has become latterly a kaleidoscope, and one's chief curiosity is as to the precise combinations into which the pieces will be shifted."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was marvellous, a feast for the eyes, this complication of coloured tints, a perfect kaleidoscope of green, yellow, orange, violet, indigo, and blue; in one word, the whole palette of an enthusiastic colourist!"*

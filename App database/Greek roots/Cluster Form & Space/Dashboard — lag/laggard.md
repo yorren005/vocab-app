@@ -5,15 +5,6 @@ status: unread
 ---
 # laggard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who takes more time than necessary; someone who lags behind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wasting time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is a close night, though the damp cold is searching too, and there is a laggard mist a little way up in the air."*
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Indifference I said,--for Love was laggard, O, Love was slow to come,-- "I'll hear his step and know his step when I am warm in bed; But I'll never leave my pillow, though there be some As would let him in--and take him in with tears!" I said."*
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"I lay,--for Love was laggard, O, he came not until dawn,-- I lay and listened for his step and could not get to sleep; And he found me at my window with my big cloak on, All sorry with the tears some folks might weep!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who takes more time than necessary; someone who lags behind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wasting time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is a close night, though the damp cold is searching too, and there is a laggard mist a little way up in the air."*
+> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Indifference I said,--for Love was laggard, O, Love was slow to come,-- "I'll hear his step and know his step when I am warm in bed; But I'll never leave my pillow, though there be some As would let him in--and take him in with tears!" I said."*
+> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"I lay,--for Love was laggard, O, he came not until dawn,-- I lay and listened for his step and could not get to sleep; And he found me at my window with my big cloak on, All sorry with the tears some folks might weep!"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # cortex
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The layer of unmyelinated neurons (the grey matter) forming the cortex of the cerebrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tissue forming the outer layer of an organ or structure in plant or animal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"Tentatively Henig used the telecommunicator to explore the animal mind; he found no indication of a cerebral cortex."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The layer of unmyelinated neurons (the grey matter) forming the cortex of the cerebrum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tissue forming the outer layer of an organ or structure in plant or animal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"Tentatively Henig used the telecommunicator to explore the animal mind; he found no indication of a cerebral cortex."*

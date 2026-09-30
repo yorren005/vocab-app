@@ -5,13 +5,6 @@ status: unread
 ---
 # phoronidea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small phylum of wormlike marine animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small phylum of wormlike marine animals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phoronidea designates small phylum of wormlike marine animals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small phylum of wormlike marine animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small phylum of wormlike marine animals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phoronidea designates small phylum of wormlike marine animals."*

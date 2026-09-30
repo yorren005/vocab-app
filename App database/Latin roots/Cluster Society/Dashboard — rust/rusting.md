@@ -5,15 +5,6 @@ status: unread
 ---
 # rusting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of reddish-brown ferric oxides on iron by low-temperature oxidation in the presence of water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become destroyed by water, air, or a corrosive such as an acid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Yet few poets were so mated before, and no poet was so mated afterwards, until Browning stooped and picked up a fair-coined soul that lay rusting in a pool of tears."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I remember a long gallery of rusting stands of arms, and how I hesitated between my crowbar and a hatchet or a sword."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"We've got a lot of stairs to go down ... we're too noisy; need a good bath in non-rusting oil." They reached the street level after an æon of stairs, Ben leading the way to the corner drug store."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of reddish-brown ferric oxides on iron by low-temperature oxidation in the presence of water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become destroyed by water, air, or a corrosive such as an acid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Yet few poets were so mated before, and no poet was so mated afterwards, until Browning stooped and picked up a fair-coined soul that lay rusting in a pool of tears."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I remember a long gallery of rusting stands of arms, and how I hesitated between my crowbar and a hatchet or a sword."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"We've got a lot of stairs to go down ... we're too noisy; need a good bath in non-rusting oil." They reached the street level after an æon of stairs, Ben leading the way to the corner drug store."*

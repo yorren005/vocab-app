@@ -5,13 +5,6 @@ status: unread
 ---
 # leucine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white crystalline amino acid occurring in proteins that is essential for nutrition; obtained by the hydrolysis of most dietary proteins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white crystalline amino acid occurring in proteins that is essential for nutrition; obtained by the hydrolysis of most dietary proteins.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucine designates a white crystalline amino acid occurring in proteins that is essential for nutrition; obtained by the hydrolysis of most dietary proteins."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white crystalline amino acid occurring in proteins that is essential for nutrition; obtained by the hydrolysis of most dietary proteins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white crystalline amino acid occurring in proteins that is essential for nutrition; obtained by the hydrolysis of most dietary proteins.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucine designates a white crystalline amino acid occurring in proteins that is essential for nutrition; obtained by the hydrolysis of most dietary proteins."*

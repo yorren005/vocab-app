@@ -5,15 +5,6 @@ status: unread
 ---
 # sanguinary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accompanied by bloodshed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by eagerness to resort to violence and bloodshed; ; ; -g.w.johnson.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For some of these same Quakers are the most sanguinary of all sailors and whale-hunters."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"It was a sanguinary affair, and especially interesting as showing one of Peter’s peculiarities, which was that in the middle of a fight he would suddenly change sides."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The criminal code of every country partakes so much of necessary severity, that without an easy access to exceptions in favor of unfortunate guilt, justice would wear a countenance too sanguinary and cruel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accompanied by bloodshed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by eagerness to resort to violence and bloodshed; ; ; -g.w.johnson.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For some of these same Quakers are the most sanguinary of all sailors and whale-hunters."*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"It was a sanguinary affair, and especially interesting as showing one of Peter’s peculiarities, which was that in the middle of a fight he would suddenly change sides."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The criminal code of every country partakes so much of necessary severity, that without an easy access to exceptions in favor of unfortunate guilt, justice would wear a countenance too sanguinary and cruel."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # erythrocyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Red blood cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the hemoglobin-containing cells that carry oxygen to the tissues and in mammals are typically biconcave disks which lack a nucleus and cellular organelles and are formed from nucleated cells of the red bone marrow —called also erythrocyte.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythrocyte designates red blood cell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Red blood cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the hemoglobin-containing cells that carry oxygen to the tissues and in mammals are typically biconcave disks which lack a nucleus and cellular organelles and are formed from nucleated cells of the red bone marrow —called also erythrocyte.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erythrocyte designates red blood cell."*

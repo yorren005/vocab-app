@@ -5,13 +5,6 @@ status: unread
 ---
 # realign
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Align anew or better.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Align anew or better.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Got it?" Myra grunted, raised her middle finger, then quickly realigned it with the rest of her hand and snapped off a mechanical salute."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Align anew or better.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Align anew or better.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Got it?" Myra grunted, raised her middle finger, then quickly realigned it with the rest of her hand and snapped off a mechanical salute."*

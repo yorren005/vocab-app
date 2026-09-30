@@ -5,15 +5,6 @@ status: unread
 ---
 # constant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantity that does not vary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A number representing a quantity assumed to have a fixed value in a specified mathematical context.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In all external grace you have some part, But you like none, none you for constant heart. 54 O how much more doth beauty beauteous seem, By that sweet ornament which truth doth give!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Kind is my love to-day, to-morrow kind, Still constant in a wondrous excellence, Therefore my verse to constancy confined, One thing expressing, leaves out difference."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now from head to foot I am marble-constant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantity that does not vary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A number representing a quantity assumed to have a fixed value in a specified mathematical context.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In all external grace you have some part, But you like none, none you for constant heart. 54 O how much more doth beauty beauteous seem, By that sweet ornament which truth doth give!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Kind is my love to-day, to-morrow kind, Still constant in a wondrous excellence, Therefore my verse to constancy confined, One thing expressing, leaves out difference."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now from head to foot I am marble-constant."*

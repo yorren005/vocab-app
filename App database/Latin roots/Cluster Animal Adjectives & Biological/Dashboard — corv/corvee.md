@@ -5,13 +5,6 @@ status: unread
 ---
 # corvee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unpaid labor (as for the maintenance of roads) required by a lord of his vassals in lieu of taxes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unpaid labor (as for the maintenance of roads) required by a lord of his vassals in lieu of taxes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corvee designates unpaid labor (as for the maintenance of roads) required by a lord of his vassals in lieu of taxes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unpaid labor (as for the maintenance of roads) required by a lord of his vassals in lieu of taxes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unpaid labor (as for the maintenance of roads) required by a lord of his vassals in lieu of taxes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corvee designates unpaid labor (as for the maintenance of roads) required by a lord of his vassals in lieu of taxes."*

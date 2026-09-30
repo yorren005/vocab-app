@@ -5,15 +5,6 @@ status: unread
 ---
 # experimentally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an experimental fashion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an experimental fashion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A number of different measures are being experimentally tested and applied."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Polk is--is strenuous for a whole day's companionship," I answered, experimentally, for I saw the time had come to exercise some of the biceps in Nell's femininity in preparation for just what I knew she was to get from Polk."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Evelina," said Polk, experimentally, after he had seen them safely across the street, and he moved along the steps until he sat against my skirts, "are your family subject to colic?" "No, they have strong brains instead," I answered icily."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an experimental fashion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an experimental fashion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A number of different measures are being experimentally tested and applied."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Polk is--is strenuous for a whole day's companionship," I answered, experimentally, for I saw the time had come to exercise some of the biceps in Nell's femininity in preparation for just what I knew she was to get from Polk."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Evelina," said Polk, experimentally, after he had seen them safely across the street, and he moved along the steps until he sat against my skirts, "are your family subject to colic?" "No, they have strong brains instead," I answered icily."*

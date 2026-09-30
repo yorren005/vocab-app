@@ -5,13 +5,6 @@ status: unread
 ---
 # lecithin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several waxy hygroscopic phospholipids that are widely distributed in animals and plants, form colloidal solutions in water, and have emulsifying, wetting, and antioxidant properties; also : a mixture of or substance rich in lecithins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several waxy hygroscopic phospholipids that are widely distributed in animals and plants, form colloidal solutions in water, and have emulsifying, wetting, and antioxidant properties; also : a mixture of or substance rich in lecithins.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lecithin designates any of several waxy hygroscopic phospholipids that are widely distributed in animals and plants, form colloidal solutions in water, and have emulsifying, wetting, and antioxidant properties; also : a mixture of or substance rich in lecithins."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several waxy hygroscopic phospholipids that are widely distributed in animals and plants, form colloidal solutions in water, and have emulsifying, wetting, and antioxidant properties; also : a mixture of or substance rich in lecithins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several waxy hygroscopic phospholipids that are widely distributed in animals and plants, form colloidal solutions in water, and have emulsifying, wetting, and antioxidant properties; also : a mixture of or substance rich in lecithins.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lecithin designates any of several waxy hygroscopic phospholipids that are widely distributed in animals and plants, form colloidal solutions in water, and have emulsifying, wetting, and antioxidant properties; also : a mixture of or substance rich in lecithins."*

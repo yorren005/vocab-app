@@ -5,13 +5,6 @@ status: unread
 ---
 # epinephrin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A catecholamine secreted by the adrenal medulla in response to stress (trade name adrenalin); stimulates autonomic nerve action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A catecholamine secreted by the adrenal medulla in response to stress (trade name adrenalin); stimulates autonomic nerve action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epinephrin designates a catecholamine secreted by the adrenal medulla in response to stress (trade name adrenalin); stimulates autonomic nerve action."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A catecholamine secreted by the adrenal medulla in response to stress (trade name adrenalin); stimulates autonomic nerve action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A catecholamine secreted by the adrenal medulla in response to stress (trade name adrenalin); stimulates autonomic nerve action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epinephrin designates a catecholamine secreted by the adrenal medulla in response to stress (trade name adrenalin); stimulates autonomic nerve action."*

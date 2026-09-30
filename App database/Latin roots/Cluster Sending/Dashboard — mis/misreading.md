@@ -5,13 +5,6 @@ status: unread
 ---
 # misreading
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Misinterpretation caused by inaccurate reading.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Read or interpret wrongly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misreading designates misinterpretation caused by inaccurate reading."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Misinterpretation caused by inaccurate reading.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Read or interpret wrongly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misreading designates misinterpretation caused by inaccurate reading."*

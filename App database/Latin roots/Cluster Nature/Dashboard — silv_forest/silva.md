@@ -5,13 +5,6 @@ status: unread
 ---
 # silva
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The forest trees growing in a country or region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The forest trees growing in a country or region.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"Sergeant Fanning, Corporal King, and Privates Kennedy, Tutcher, and Fisher have been killed in the barricades, and Privates Silva, Shroder, Mueller, and Hall were wounded early in the siege."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The forest trees growing in a country or region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The forest trees growing in a country or region.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"Sergeant Fanning, Corporal King, and Privates Kennedy, Tutcher, and Fisher have been killed in the barricades, and Privates Silva, Shroder, Mueller, and Hall were wounded early in the siege."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # miscalculation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mistake in calculating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mistake in calculating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Through miscalculation there may be, at a given moment, too many consumption goods of a particular kind, but the durable applications can find no limit until the inconceivable day when the material world is no longer capable of improvement."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"In this I fancy that in any case he made a miscalculation, and that, if we had not been there, his doom would none the less have been sealed."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The interest may be greater or less than the time-discount in the goods, owing to miscalculation on the part of the borrower or to an unforeseen change in the conditions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mistake in calculating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mistake in calculating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Through miscalculation there may be, at a given moment, too many consumption goods of a particular kind, but the durable applications can find no limit until the inconceivable day when the material world is no longer capable of improvement."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"In this I fancy that in any case he made a miscalculation, and that, if we had not been there, his doom would none the less have been sealed."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The interest may be greater or less than the time-discount in the goods, owing to miscalculation on the part of the borrower or to an unforeseen change in the conditions."*

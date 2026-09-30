@@ -5,15 +5,6 @@ status: unread
 ---
 # penni
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 100 pennia formerly equaled 1 markka in finland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 100 pennia formerly equaled 1 markka in finland.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 2*):** *"The one-pennied Boy has his penny to spare."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Hey, ca’ thro’, ca’ thro’, For we hae muckle ado; We hae tales to tell, An’ we hae sangs to sing; We hae pennies tae spend, An’ we hae pints to bring."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"I can win my five pennies in a day, An’ spen’t at night fu’ brawlie: And make my bed in the collier’s neuk, And lie down wi’ my Collier laddie.” “And make my bed, &c."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: 100 pennia formerly equaled 1 markka in finland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 100 pennia formerly equaled 1 markka in finland.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 2*):** *"The one-pennied Boy has his penny to spare."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Hey, ca’ thro’, ca’ thro’, For we hae muckle ado; We hae tales to tell, An’ we hae sangs to sing; We hae pennies tae spend, An’ we hae pints to bring."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"I can win my five pennies in a day, An’ spen’t at night fu’ brawlie: And make my bed in the collier’s neuk, And lie down wi’ my Collier laddie.” “And make my bed, &c."*

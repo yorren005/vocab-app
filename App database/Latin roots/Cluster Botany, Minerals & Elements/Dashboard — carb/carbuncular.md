@@ -5,13 +5,6 @@ status: unread
 ---
 # carbuncular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Afflicted with or resembling a carbuncle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Afflicted with or resembling a carbuncle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbuncular designates afflicted with or resembling a carbuncle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Afflicted with or resembling a carbuncle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Afflicted with or resembling a carbuncle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carbuncular designates afflicted with or resembling a carbuncle."*

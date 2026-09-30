@@ -5,15 +5,6 @@ status: unread
 ---
 # misdeed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Improper or wicked or immoral behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Improper or wicked or immoral behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"King Lewis, I here protest in sight of heaven, And by the hope I have of heavenly bliss, That I am clear from this misdeed of Edward’s— No more my king, for he dishonours me, But most himself, if he could see his shame."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But I was in a manner stupefied by this turning up of my old misdeed and old acquaintance, and could think of nothing else."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"There was one stroke to be made which might save him, in part at least, from the consequences of his own misdeed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Improper or wicked or immoral behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Improper or wicked or immoral behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"King Lewis, I here protest in sight of heaven, And by the hope I have of heavenly bliss, That I am clear from this misdeed of Edward’s— No more my king, for he dishonours me, But most himself, if he could see his shame."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"But I was in a manner stupefied by this turning up of my old misdeed and old acquaintance, and could think of nothing else."*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"There was one stroke to be made which might save him, in part at least, from the consequences of his own misdeed."*

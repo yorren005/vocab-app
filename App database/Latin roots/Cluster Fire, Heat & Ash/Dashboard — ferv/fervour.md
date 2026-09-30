@@ -5,15 +5,6 @@ status: unread
 ---
 # fervour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being emotionally aroused and worked up.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feelings of great warmth and intensity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bless him at home in peace, whilst I from far His name with zealous fervour sanctify."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Haply despair hath seiz’d her; Or, wing’d with fervour of her love, she’s flown To her desir’d Posthumus."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The city strived God Neptune’s annual feast to keep: from whence Lysimachus our Tyrian ship espies, His banners sable, trimm’d with rich expense; And to him in his barge with fervour hies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being emotionally aroused and worked up.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feelings of great warmth and intensity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bless him at home in peace, whilst I from far His name with zealous fervour sanctify."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Haply despair hath seiz’d her; Or, wing’d with fervour of her love, she’s flown To her desir’d Posthumus."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The city strived God Neptune’s annual feast to keep: from whence Lysimachus our Tyrian ship espies, His banners sable, trimm’d with rich expense; And to him in his barge with fervour hies."*

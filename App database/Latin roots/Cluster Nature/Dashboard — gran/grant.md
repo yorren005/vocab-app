@@ -5,15 +5,6 @@ status: unread
 ---
 # grant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any monetary aid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of providing a subsidy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I love to hear her speak, yet well I know, That music hath a far more pleasing sound: I grant I never saw a goddess go; My mistress when she walks treads on the ground."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My wish receive, Which great Love grant; and so I take my leave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He cannot thrive, Unless her prayers, whom heaven delights to hear And loves to grant, reprieve him from the wrath Of greatest justice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any monetary aid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of providing a subsidy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I love to hear her speak, yet well I know, That music hath a far more pleasing sound: I grant I never saw a goddess go; My mistress when she walks treads on the ground."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My wish receive, Which great Love grant; and so I take my leave."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He cannot thrive, Unless her prayers, whom heaven delights to hear And loves to grant, reprieve him from the wrath Of greatest justice."*

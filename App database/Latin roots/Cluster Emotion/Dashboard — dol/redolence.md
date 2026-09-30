@@ -5,13 +5,6 @@ status: unread
 ---
 # redolence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pleasingly sweet olfactory property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pleasingly sweet olfactory property.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redolence designates a pleasingly sweet olfactory property."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pleasingly sweet olfactory property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pleasingly sweet olfactory property.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redolence designates a pleasingly sweet olfactory property."*

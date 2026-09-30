@@ -5,13 +5,6 @@ status: unread
 ---
 # utopianism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The political orientation of a utopian who believes in impossibly idealistic schemes of social perfection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political orientation of a utopian who believes in impossibly idealistic schemes of social perfection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, utopianism designates the political orientation of a utopian who believes in impossibly idealistic schemes of social perfection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The political orientation of a utopian who believes in impossibly idealistic schemes of social perfection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political orientation of a utopian who believes in impossibly idealistic schemes of social perfection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, utopianism designates the political orientation of a utopian who believes in impossibly idealistic schemes of social perfection."*

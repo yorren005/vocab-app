@@ -5,15 +5,6 @@ status: unread
 ---
 # exorbitant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greatly exceeding bounds of reason or moderation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greatly exceeding bounds of reason or moderation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Their remoteness and unpunctuality, or their exorbitant charges and frauds, will be drawing forth bitter lamentations.” “I mean to be too rich to lament or to feel anything of the sort."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"She gave him a bright, glad look, that quite settled the matter so far as he was concerned; he would, if necessary, give even an exorbitant price for the place, to please her."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Part 1*):** *"Ever-blest he lives content; In exorbitant Exiles, Never can his Fate repent; All his Wishes and Desires, To destroy Love's burning Fires. _R."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Greatly exceeding bounds of reason or moderation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greatly exceeding bounds of reason or moderation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Their remoteness and unpunctuality, or their exorbitant charges and frauds, will be drawing forth bitter lamentations.” “I mean to be too rich to lament or to feel anything of the sort."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"She gave him a bright, glad look, that quite settled the matter so far as he was concerned; he would, if necessary, give even an exorbitant price for the place, to please her."*
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Part 1*):** *"Ever-blest he lives content; In exorbitant Exiles, Never can his Fate repent; All his Wishes and Desires, To destroy Love's burning Fires. _R."*

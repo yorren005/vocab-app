@@ -5,13 +5,6 @@ status: unread
 ---
 # paramyxovirus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of viruses including those causing mumps and measles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of viruses including those causing mumps and measles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paramyxovirus designates a group of viruses including those causing mumps and measles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of viruses including those causing mumps and measles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of viruses including those causing mumps and measles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paramyxovirus designates a group of viruses including those causing mumps and measles."*

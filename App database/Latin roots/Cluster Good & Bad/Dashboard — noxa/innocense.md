@@ -5,13 +5,6 @@ status: unread
 ---
 # innocense
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: White and lavender to pale-blue flowers grow in perfect rings of widely spaced bands around the stems forming a kind of pagoda; california.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: White and lavender to pale-blue flowers grow in perfect rings of widely spaced bands around the stems forming a kind of pagoda; california.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, innocense designates white and lavender to pale-blue flowers grow in perfect rings of widely spaced bands around the stems forming a kind of pagoda; california."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: White and lavender to pale-blue flowers grow in perfect rings of widely spaced bands around the stems forming a kind of pagoda; california.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: White and lavender to pale-blue flowers grow in perfect rings of widely spaced bands around the stems forming a kind of pagoda; california.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, innocense designates white and lavender to pale-blue flowers grow in perfect rings of widely spaced bands around the stems forming a kind of pagoda; california."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hemostasis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrest of bleeding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrest of bleeding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemostasis designates arrest of bleeding."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrest of bleeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrest of bleeding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemostasis designates arrest of bleeding."*

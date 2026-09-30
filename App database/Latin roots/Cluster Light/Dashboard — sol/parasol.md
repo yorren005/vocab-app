@@ -5,15 +5,6 @@ status: unread
 ---
 # parasol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A handheld collapsible source of shade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A handheld collapsible source of shade.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That’s enough—that’s enough!—oh, you fools!” she cried, throwing the parasol and Prayer-book into the passage, and running out of doors in the direction signified."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her clothes were of recent fashion; even the ivory-handled parasol that she carried was of a shape unknown in the retired spot to which they had now wandered; and the cut of such articles would have attracted attention in the settle of a tavern."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Just then, a girl passing, jostled against her and knocked down her parasol."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A handheld collapsible source of shade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A handheld collapsible source of shade.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That’s enough—that’s enough!—oh, you fools!” she cried, throwing the parasol and Prayer-book into the passage, and running out of doors in the direction signified."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her clothes were of recent fashion; even the ivory-handled parasol that she carried was of a shape unknown in the retired spot to which they had now wandered; and the cut of such articles would have attracted attention in the settle of a tavern."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Just then, a girl passing, jostled against her and knocked down her parasol."*

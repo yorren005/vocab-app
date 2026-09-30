@@ -5,13 +5,6 @@ status: unread
 ---
 # dendrochronology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of dating events and variations in environment in former periods by comparative study of growth rings in trees and aged wood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science of dating events and variations in environment in former periods by comparative study of growth rings in trees and aged wood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendrochronology designates the science of dating events and variations in environment in former periods by comparative study of growth rings in trees and aged wood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of dating events and variations in environment in former periods by comparative study of growth rings in trees and aged wood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science of dating events and variations in environment in former periods by comparative study of growth rings in trees and aged wood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dendrochronology designates the science of dating events and variations in environment in former periods by comparative study of growth rings in trees and aged wood."*

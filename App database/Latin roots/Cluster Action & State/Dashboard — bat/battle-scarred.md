@@ -5,13 +5,6 @@ status: unread
 ---
 # battle-scarred
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scarred by battle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scarred by battle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, battle-scarred designates scarred by battle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Scarred by battle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scarred by battle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, battle-scarred designates scarred by battle."*

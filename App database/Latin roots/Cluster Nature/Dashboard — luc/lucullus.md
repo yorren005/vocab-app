@@ -5,15 +5,6 @@ status: unread
 ---
 # lucullus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman general famous for self-indulgence and giving lavish banquets (circa 110-57 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman general famous for self-indulgence and giving lavish banquets (circa 110-57 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A room in Lucullus’ house Scene II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Please you, my lord, that honourable gentleman, Lord Lucullus, entreats your company tomorrow to hunt with him and has sent your honour two brace of greyhounds."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will dispatch you severally. [_To Servilius_.] You to Lord Lucius; [_To Flaminius_.] to Lord Lucullus you, I hunted with his honour today; [_To the third Servant_.] you to Sempronius."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman general famous for self-indulgence and giving lavish banquets (circa 110-57 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman general famous for self-indulgence and giving lavish banquets (circa 110-57 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A room in Lucullus’ house Scene II."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Please you, my lord, that honourable gentleman, Lord Lucullus, entreats your company tomorrow to hunt with him and has sent your honour two brace of greyhounds."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will dispatch you severally. [_To Servilius_.] You to Lord Lucius; [_To Flaminius_.] to Lord Lucullus you, I hunted with his honour today; [_To the third Servant_.] you to Sempronius."*

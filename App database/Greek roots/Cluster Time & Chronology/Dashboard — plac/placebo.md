@@ -5,13 +5,6 @@ status: unread
 ---
 # placebo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An innocuous or inert medication; given as a pacifier or to the control group in experiments on the efficacy of a drug.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) vespers of the office for the dead.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placebo designates an innocuous or inert medication; given as a pacifier or to the control group in experiments on the efficacy of a drug."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An innocuous or inert medication; given as a pacifier or to the control group in experiments on the efficacy of a drug.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) vespers of the office for the dead.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placebo designates an innocuous or inert medication; given as a pacifier or to the control group in experiments on the efficacy of a drug."*

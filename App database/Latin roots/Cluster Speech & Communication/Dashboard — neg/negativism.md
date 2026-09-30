@@ -5,13 +5,6 @@ status: unread
 ---
 # negativism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by habitual skepticism and a disagreeable tendency to deny or oppose or resist suggestions or commands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by habitual skepticism and a disagreeable tendency to deny or oppose or resist suggestions or commands.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, negativism designates characterized by habitual skepticism and a disagreeable tendency to deny or oppose or resist suggestions or commands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by habitual skepticism and a disagreeable tendency to deny or oppose or resist suggestions or commands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by habitual skepticism and a disagreeable tendency to deny or oppose or resist suggestions or commands.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, negativism designates characterized by habitual skepticism and a disagreeable tendency to deny or oppose or resist suggestions or commands."*

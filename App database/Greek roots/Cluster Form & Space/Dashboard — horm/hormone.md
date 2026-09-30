@@ -5,13 +5,6 @@ status: unread
 ---
 # hormone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A product of living cells that circulates in body fluids (such as blood) or sap and produces a specific often stimulatory effect on the activity of cells usually remote from its point of origin; also : a synthetic substance that acts like a hormone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sex hormone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hormone designates a product of living cells that circulates in body fluids (such as blood) or sap and produces a specific often stimulatory effect on the activity of cells usually remote from its point of origin; also : a synthetic substance that acts like a hormone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A product of living cells that circulates in body fluids (such as blood) or sap and produces a specific often stimulatory effect on the activity of cells usually remote from its point of origin; also : a synthetic substance that acts like a hormone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sex hormone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hormone designates a product of living cells that circulates in body fluids (such as blood) or sap and produces a specific often stimulatory effect on the activity of cells usually remote from its point of origin; also : a synthetic substance that acts like a hormone."*

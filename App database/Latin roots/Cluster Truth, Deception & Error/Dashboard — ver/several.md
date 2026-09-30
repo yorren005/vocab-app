@@ -5,15 +5,6 @@ status: unread
 ---
 # several
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used with count nouns) of an indefinite number more than 2 or 3 but not many.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Considered individually.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should my heart think that a several plot, Which my heart knows the wide world’s common place?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Several young French Lords, that serve with Bertram in the Florentine War."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he were living, I would try him yet;— Lend me an arm;—the rest have worn me out With several applications; nature and sickness Debate it at their leisure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (used with count nouns) of an indefinite number more than 2 or 3 but not many.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Considered individually.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should my heart think that a several plot, Which my heart knows the wide world’s common place?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Several young French Lords, that serve with Bertram in the Florentine War."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he were living, I would try him yet;— Lend me an arm;—the rest have worn me out With several applications; nature and sickness Debate it at their leisure."*

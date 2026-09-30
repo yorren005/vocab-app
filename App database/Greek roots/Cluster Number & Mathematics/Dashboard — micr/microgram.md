@@ -5,13 +5,6 @@ status: unread
 ---
 # microgram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One millionth (1/1,000,000) gram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One millionth (1/1,000,000) gram.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microgram designates one millionth (1/1,000,000) gram."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One millionth (1/1,000,000) gram.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One millionth (1/1,000,000) gram.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microgram designates one millionth (1/1,000,000) gram."*

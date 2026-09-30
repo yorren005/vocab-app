@@ -5,13 +5,6 @@ status: unread
 ---
 # levitation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon of a person or thing rising into the air by apparently supernatural means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Movement upward in virtue of lightness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levitation designates the phenomenon of a person or thing rising into the air by apparently supernatural means."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon of a person or thing rising into the air by apparently supernatural means.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Movement upward in virtue of lightness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, levitation designates the phenomenon of a person or thing rising into the air by apparently supernatural means."*

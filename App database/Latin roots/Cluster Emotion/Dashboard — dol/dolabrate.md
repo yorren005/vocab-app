@@ -5,13 +5,6 @@ status: unread
 ---
 # dolabrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape of the head of an ax or cleaver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the shape of the head of an ax or cleaver.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dolabrate designates having the shape of the head of an ax or cleaver."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape of the head of an ax or cleaver.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the shape of the head of an ax or cleaver.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dolabrate designates having the shape of the head of an ax or cleaver."*

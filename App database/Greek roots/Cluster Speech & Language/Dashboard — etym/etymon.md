@@ -5,13 +5,6 @@ status: unread
 ---
 # etymon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An earlier form of a word in the same language or an ancestral language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word in a foreign language that is the source of a particular loanword.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, etymon designates an earlier form of a word in the same language or an ancestral language."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An earlier form of a word in the same language or an ancestral language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word in a foreign language that is the source of a particular loanword.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, etymon designates an earlier form of a word in the same language or an ancestral language."*

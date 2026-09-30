@@ -5,15 +5,6 @@ status: unread
 ---
 # rational
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An integer or a fraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consistent with or based on or using reason.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Loss of virginity is rational increase, and there was never virgin got till virginity was first lost."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Boy, I do love that country girl that I took in the park with the rational hind Costard."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The appearances, beyond all rational doubt, observed in that case are the appearances observed in Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An integer or a fraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consistent with or based on or using reason.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Loss of virginity is rational increase, and there was never virgin got till virginity was first lost."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Boy, I do love that country girl that I took in the park with the rational hind Costard."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The appearances, beyond all rational doubt, observed in that case are the appearances observed in Mr."*

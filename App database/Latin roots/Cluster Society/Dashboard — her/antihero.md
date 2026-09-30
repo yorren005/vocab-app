@@ -5,13 +5,6 @@ status: unread
 ---
 # antihero
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A protagonist who lacks the characteristics that would make him a hero (or her a heroine).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protagonist who lacks the characteristics that would make him a hero (or her a heroine).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antihero designates a protagonist who lacks the characteristics that would make him a hero (or her a heroine)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A protagonist who lacks the characteristics that would make him a hero (or her a heroine).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protagonist who lacks the characteristics that would make him a hero (or her a heroine).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antihero designates a protagonist who lacks the characteristics that would make him a hero (or her a heroine)."*

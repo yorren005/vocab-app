@@ -5,13 +5,6 @@ status: unread
 ---
 # calycle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of bracts simulating a calyx as in a carnation or hibiscus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small cup-shaped structure (as a taste bud or optic cup or cavity of a coral containing a polyp).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calycle designates a group of bracts simulating a calyx as in a carnation or hibiscus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of bracts simulating a calyx as in a carnation or hibiscus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small cup-shaped structure (as a taste bud or optic cup or cavity of a coral containing a polyp).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calycle designates a group of bracts simulating a calyx as in a carnation or hibiscus."*

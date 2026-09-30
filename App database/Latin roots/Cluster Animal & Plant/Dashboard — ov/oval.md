@@ -5,15 +5,6 @@ status: unread
 ---
 # oval
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A closed plane curve resulting from the intersection of a circular cone and a plane cutting completely through it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rounded like an egg.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In my room there were oval engravings of the months—ladies haymaking in short waists and large hats tied under the chin, for June; smooth-legged noblemen pointing with cocked-hats to village steeples, for October."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"By the outer margin of the Pit was an oval pond, and over it hung the attenuated skeleton of a chrome-yellow moon which had only a few days to last—the morning star dogging her on the left hand."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In the centre was a small oval enclosure; this was left blank, that the sender might insert tender words more appropriate to the special occasion than any generalities by a printer could possibly be."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A closed plane curve resulting from the intersection of a circular cone and a plane cutting completely through it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rounded like an egg.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"In my room there were oval engravings of the months—ladies haymaking in short waists and large hats tied under the chin, for June; smooth-legged noblemen pointing with cocked-hats to village steeples, for October."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"By the outer margin of the Pit was an oval pond, and over it hung the attenuated skeleton of a chrome-yellow moon which had only a few days to last—the morning star dogging her on the left hand."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In the centre was a small oval enclosure; this was left blank, that the sender might insert tender words more appropriate to the special occasion than any generalities by a printer could possibly be."*

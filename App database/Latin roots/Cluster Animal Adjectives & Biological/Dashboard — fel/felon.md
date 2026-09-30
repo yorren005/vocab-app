@@ -5,15 +5,6 @@ status: unread
 ---
 # felon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has committed a crime or has been legally convicted of a crime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A purulent infection at the end of a finger or toe in the area surrounding the nail.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Murder indeed, that bloody sin, I tortured Above the felon or what trespass else."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do defy thy conjuration, And apprehend thee for a felon here."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, then, women are more valiant That stay at home, if bearing carry it, And the ass more captain than the lion, the felon Loaden with irons wiser than the judge, If wisdom be in suffering."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has committed a crime or has been legally convicted of a crime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A purulent infection at the end of a finger or toe in the area surrounding the nail.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Murder indeed, that bloody sin, I tortured Above the felon or what trespass else."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do defy thy conjuration, And apprehend thee for a felon here."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, then, women are more valiant That stay at home, if bearing carry it, And the ass more captain than the lion, the felon Loaden with irons wiser than the judge, If wisdom be in suffering."*

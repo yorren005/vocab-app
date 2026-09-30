@@ -5,15 +5,6 @@ status: unread
 ---
 # unintended
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deliberate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deliberate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A result usually unintended is the derangement of business and of the existing distribution of incomes."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The unintended, and to some degree inevitable, result of the taxation of goods in commerce, whether imports or exports, is to prevent and discourage trade and to raise the prices of the goods imported."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She answered, wanting to check unintended consequences— “I spoke from inference only."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deliberate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deliberate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A result usually unintended is the derangement of business and of the existing distribution of incomes."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The unintended, and to some degree inevitable, result of the taxation of goods in commerce, whether imports or exports, is to prevent and discourage trade and to raise the prices of the goods imported."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She answered, wanting to check unintended consequences— “I spoke from inference only."*

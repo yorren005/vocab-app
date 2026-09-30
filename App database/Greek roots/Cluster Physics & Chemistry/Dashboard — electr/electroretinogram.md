@@ -5,13 +5,6 @@ status: unread
 ---
 # electroretinogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphical recording of the electrical activity of the retina that results when light is flashed into the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graphical recording of the electrical activity of the retina that results when light is flashed into the eye.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electroretinogram designates a graphical recording of the electrical activity of the retina that results when light is flashed into the eye."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphical recording of the electrical activity of the retina that results when light is flashed into the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graphical recording of the electrical activity of the retina that results when light is flashed into the eye.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electroretinogram designates a graphical recording of the electrical activity of the retina that results when light is flashed into the eye."*

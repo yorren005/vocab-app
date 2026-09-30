@@ -5,15 +5,6 @@ status: unread
 ---
 # actuate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put in motion or move to act.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an incentive for action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"A new soul appeared to actuate his frame, and his eyes to beam with preternatural luster."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Excessive partiality for one foreign nation, and excessive dislike for another, cause those whom they actuate to see danger only on one side, and serve to veil, and even second, the arts of influence on the other."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Yet so different are the conditions of our nature, so different the sentiments which actuate us, that I will not be guilty of such presumption, as to tell any man what particular course he should take."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put in motion or move to act.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an incentive for action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"A new soul appeared to actuate his frame, and his eyes to beam with preternatural luster."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Excessive partiality for one foreign nation, and excessive dislike for another, cause those whom they actuate to see danger only on one side, and serve to veil, and even second, the arts of influence on the other."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Yet so different are the conditions of our nature, so different the sentiments which actuate us, that I will not be guilty of such presumption, as to tell any man what particular course he should take."*

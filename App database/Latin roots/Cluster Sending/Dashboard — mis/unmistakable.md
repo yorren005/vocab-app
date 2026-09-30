@@ -5,15 +5,6 @@ status: unread
 ---
 # unmistakable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clearly evident to the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clearly revealed to the mind or the senses or judgment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Do you know that, Kurt," he said confidentially, "I only wonder how she could get hold of such a basket full, you know, without being--you know--" With this he made the unmistakable motion of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I should like to walk a little,” says my Lady with unmistakable distinctness."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Would to God you had never taken me up, since it was only to throw me down!” Bathsheba, in spite of her mettle, began to feel unmistakable signs that she was inherently the weaker vessel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clearly evident to the mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clearly revealed to the mind or the senses or judgment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Do you know that, Kurt," he said confidentially, "I only wonder how she could get hold of such a basket full, you know, without being--you know--" With this he made the unmistakable motion of Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I should like to walk a little,” says my Lady with unmistakable distinctness."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Would to God you had never taken me up, since it was only to throw me down!” Bathsheba, in spite of her mettle, began to feel unmistakable signs that she was inherently the weaker vessel."*

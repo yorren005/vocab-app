@@ -5,13 +5,6 @@ status: unread
 ---
 # zoonosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An infection or disease that is transmissible from animals to humans under natural conditions; also : an infection or disease that is transmissible between animals and humans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An infection or disease that is transmissible from humans to animals under natural conditions; also : the process of transmitting infection or disease from humans to animals —called also anthroponosis, zooanthroponosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zoonosis designates an infection or disease that is transmissible from animals to humans under natural conditions; also : an infection or disease that is transmissible between animals and humans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infection or disease that is transmissible from animals to humans under natural conditions; also : an infection or disease that is transmissible between animals and humans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An infection or disease that is transmissible from humans to animals under natural conditions; also : the process of transmitting infection or disease from humans to animals —called also anthroponosis, zooanthroponosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zoonosis designates an infection or disease that is transmissible from animals to humans under natural conditions; also : an infection or disease that is transmissible between animals and humans."*

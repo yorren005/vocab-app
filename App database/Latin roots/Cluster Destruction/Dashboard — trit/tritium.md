@@ -5,13 +5,6 @@ status: unread
 ---
 # tritium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive isotope of hydrogen; atoms of tritium have three times the mass of ordinary hydrogen atoms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radioactive isotope of hydrogen; atoms of tritium have three times the mass of ordinary hydrogen atoms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tritium designates a radioactive isotope of hydrogen; atoms of tritium have three times the mass of ordinary hydrogen atoms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive isotope of hydrogen; atoms of tritium have three times the mass of ordinary hydrogen atoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radioactive isotope of hydrogen; atoms of tritium have three times the mass of ordinary hydrogen atoms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tritium designates a radioactive isotope of hydrogen; atoms of tritium have three times the mass of ordinary hydrogen atoms."*

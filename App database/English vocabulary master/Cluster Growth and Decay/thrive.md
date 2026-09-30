@@ -5,20 +5,6 @@ status: unread
 ---
 # thrive
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Grow vigorously : flourish
-> 2. **Nuance / Usage**: Gain in wealth or possessions : prosper
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to thrive the target*) and intransitive clauses (*thriving against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Farewell, good brother; we shall thrive, I trust."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Here do I choose, and thrive I as I may."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Ill mayst thou thrive if thou grant any grace!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Grow vigorously : flourish
+> 2. **Nuance / Usage**: Gain in wealth or possessions : prosper
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to thrive the target*) and intransitive clauses (*thriving against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Farewell, good brother; we shall thrive, I trust."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Here do I choose, and thrive I as I may."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Ill mayst thou thrive if thou grant any grace!"*

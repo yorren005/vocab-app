@@ -5,15 +5,6 @@ status: unread
 ---
 # perjury
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Criminal offense of making false statements under oath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Criminal offense of making false statements under oath.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And there’s for twitting me with perjury. [_Stabs him._] QUEEN MARGARET."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, rather turn this day out of the week, This day of shame, oppression, perjury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This same shall go. [_He reads the sonnet._] _Did not the heavenly rhetoric of thine eye, ’Gainst whom the world cannot hold argument, Persuade my heart to this false perjury?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Criminal offense of making false statements under oath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Criminal offense of making false statements under oath.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And there’s for twitting me with perjury. [_Stabs him._] QUEEN MARGARET."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, rather turn this day out of the week, This day of shame, oppression, perjury."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This same shall go. [_He reads the sonnet._] _Did not the heavenly rhetoric of thine eye, ’Gainst whom the world cannot hold argument, Persuade my heart to this false perjury?"*

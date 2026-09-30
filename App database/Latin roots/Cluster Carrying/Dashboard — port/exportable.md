@@ -5,13 +5,6 @@ status: unread
 ---
 # exportable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitable for export.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitable for export.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"The exportable commodity of man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitable for export.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitable for export.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"The exportable commodity of man."*

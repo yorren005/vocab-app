@@ -5,13 +5,6 @@ status: unread
 ---
 # stamper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A workman whose job is to form or cut out by applying a mold or die (either by hand or by operating a stamping machine).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who walks with a heavy noisy gait or who stamps on the ground.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stamper designates a workman whose job is to form or cut out by applying a mold or die (either by hand or by operating a stamping machine)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A workman whose job is to form or cut out by applying a mold or die (either by hand or by operating a stamping machine).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who walks with a heavy noisy gait or who stamps on the ground.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stamper designates a workman whose job is to form or cut out by applying a mold or die (either by hand or by operating a stamping machine)."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # fussily
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fussy manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a fussy manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"How is it,” she began, as usual in French, settling down briskly and fussily in the easy chair, “how is it Annette never got married?"*
-> - 📜 **James Joyce (*Ulysses*):** *"And as he stepped fussily back across the field his old man’s voice cried sternly: —What is the matter?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fussy manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a fussy manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"How is it,” she began, as usual in French, settling down briskly and fussily in the easy chair, “how is it Annette never got married?"*
+> - 📜 **James Joyce (*Ulysses*):** *"And as he stepped fussily back across the field his old man’s voice cried sternly: —What is the matter?"*

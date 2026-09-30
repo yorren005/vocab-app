@@ -5,13 +5,6 @@ status: unread
 ---
 # multiculturalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that several different cultures (rather than one national culture) can coexist peacefully and equitably in a single country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine that several different cultures (rather than one national culture) can coexist peacefully and equitably in a single country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiculturalism designates the doctrine that several different cultures (rather than one national culture) can coexist peacefully and equitably in a single country."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that several different cultures (rather than one national culture) can coexist peacefully and equitably in a single country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine that several different cultures (rather than one national culture) can coexist peacefully and equitably in a single country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiculturalism designates the doctrine that several different cultures (rather than one national culture) can coexist peacefully and equitably in a single country."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # libertarianism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ideological belief in freedom of thought and speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ideological belief in freedom of thought and speech.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, libertarianism designates an ideological belief in freedom of thought and speech."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ideological belief in freedom of thought and speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ideological belief in freedom of thought and speech.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, libertarianism designates an ideological belief in freedom of thought and speech."*

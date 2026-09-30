@@ -5,13 +5,6 @@ status: unread
 ---
 # delt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large muscle of the shoulder : deltoid —usually plural.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large muscle of the shoulder : deltoid —usually plural.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, delt designates a large muscle of the shoulder : deltoid —usually plural."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large muscle of the shoulder : deltoid —usually plural.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large muscle of the shoulder : deltoid —usually plural.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, delt designates a large muscle of the shoulder : deltoid —usually plural."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # blaze
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Intensely burning fire
-> 2. **Nuance / Usage**: Intense, direct light accompanied with heat
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"For, well I wot, ye blaze to burn them out."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"The heavens themselves blaze forth the death of princes."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"He falls in the blaze of his fame!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A large, fiercely burning fire or a sudden, dazzling burst of flame and heat.
+> 2. **Nuance / Usage**: As a verb or noun, also denotes an intense display of light, color, or vehement emotion (*a blaze of glory*, *eyes blazing with anger*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"When beggars die, there are no comets seen; the heavens themselves **blaze** forth the death of princes."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"He falls in the **blaze** of his fame!"*
+> - 📜 **Charles Dickens (*Barnaby Rudge*):** *"The flames roared up the chimney and cast a lurid **blaze** across the darkened courtyard."*

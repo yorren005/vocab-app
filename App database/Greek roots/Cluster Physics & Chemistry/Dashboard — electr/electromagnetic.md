@@ -5,13 +5,6 @@ status: unread
 ---
 # electromagnetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by electromagnetism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pulse of high-intensity electromagnetic radiation generated especially by a nuclear blast high above the earth's surface and held to disrupt electronic and electrical systems —abbreviation EMP.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromagnetic designates of, relating to, or produced by electromagnetism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by electromagnetism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pulse of high-intensity electromagnetic radiation generated especially by a nuclear blast high above the earth's surface and held to disrupt electronic and electrical systems —abbreviation EMP.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromagnetic designates of, relating to, or produced by electromagnetism."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # reunion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A party of former associates who have come together again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of coming together again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The theory of Sacrifice implies the need of reunion with God."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In other places, like those at Reunion and at Maurice, they raise fringed reefs, high, straight walls, near which the depth of the ocean is considerable."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The barometer, as in 1860 at Reunion during a cyclone, fell seven-tenths at the close of day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A party of former associates who have come together again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of coming together again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The theory of Sacrifice implies the need of reunion with God."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In other places, like those at Reunion and at Maurice, they raise fringed reefs, high, straight walls, near which the depth of the ocean is considerable."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The barometer, as in 1860 at Reunion during a cyclone, fell seven-tenths at the close of day."*

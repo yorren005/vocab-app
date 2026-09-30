@@ -5,13 +5,6 @@ status: unread
 ---
 # neuromelanin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark melanin pigment found especially in some dopaminergic neurons of the human substantia nigra.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dark melanin pigment found especially in some dopaminergic neurons of the human substantia nigra.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuromelanin designates a dark melanin pigment found especially in some dopaminergic neurons of the human substantia nigra."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark melanin pigment found especially in some dopaminergic neurons of the human substantia nigra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dark melanin pigment found especially in some dopaminergic neurons of the human substantia nigra.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuromelanin designates a dark melanin pigment found especially in some dopaminergic neurons of the human substantia nigra."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # physostigmine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in treatment of alzheimer's disease and glaucoma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in treatment of alzheimer's disease and glaucoma.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physostigmine designates used in treatment of alzheimer's disease and glaucoma."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in treatment of alzheimer's disease and glaucoma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in treatment of alzheimer's disease and glaucoma.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physostigmine designates used in treatment of alzheimer's disease and glaucoma."*

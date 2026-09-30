@@ -5,13 +5,6 @@ status: unread
 ---
 # prescriptivism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (ethics) a doctrine holding that moral statements prescribe appropriate attitudes and behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (linguistics) a doctrine supporting or promoting prescriptive linguistics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prescriptivism designates (ethics) a doctrine holding that moral statements prescribe appropriate attitudes and behavior."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (ethics) a doctrine holding that moral statements prescribe appropriate attitudes and behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (linguistics) a doctrine supporting or promoting prescriptive linguistics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prescriptivism designates (ethics) a doctrine holding that moral statements prescribe appropriate attitudes and behavior."*

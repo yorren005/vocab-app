@@ -5,15 +5,6 @@ status: unread
 ---
 # arts
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Studies intended to provide general knowledge and intellectual skills (rather than occupational or professional skills).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The products of human creativity; works of art collectively.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet be most proud of that which I compile, Whose influence is thine, and born of thee, In others’ works thou dost but mend the style, And arts with thy sweet graces graced be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These gentle princes (For such and so they are) these twenty years Have I train’d up; those arts they have as I Could put into them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, in some taste, is Lepidus but so: He must be taught, and train’d, and bid go forth: A barren-spirited fellow; one that feeds On objects, arts, and imitations, Which, out of use and stal’d by other men, Begin his fashion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Studies intended to provide general knowledge and intellectual skills (rather than occupational or professional skills).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The products of human creativity; works of art collectively.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet be most proud of that which I compile, Whose influence is thine, and born of thee, In others’ works thou dost but mend the style, And arts with thy sweet graces graced be."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These gentle princes (For such and so they are) these twenty years Have I train’d up; those arts they have as I Could put into them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, in some taste, is Lepidus but so: He must be taught, and train’d, and bid go forth: A barren-spirited fellow; one that feeds On objects, arts, and imitations, Which, out of use and stal’d by other men, Begin his fashion."*

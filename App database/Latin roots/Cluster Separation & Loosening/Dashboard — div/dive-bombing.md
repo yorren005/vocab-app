@@ -5,13 +5,6 @@ status: unread
 ---
 # dive-bombing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bombing run in which the bomber releases the bomb while flying straight toward the target.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bomb from a diving airplane.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dive-bombing designates a bombing run in which the bomber releases the bomb while flying straight toward the target."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bombing run in which the bomber releases the bomb while flying straight toward the target.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bomb from a diving airplane.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dive-bombing designates a bombing run in which the bomber releases the bomb while flying straight toward the target."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # transpose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A matrix formed by interchanging the rows and columns of a given matrix.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change the order or arrangement of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That which you are, my thoughts cannot transpose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Things base and vile, holding no quantity, Love can transpose to form and dignity."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"A well known line you may transpose-- “A thorn is always near a rose.” 22."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A matrix formed by interchanging the rows and columns of a given matrix.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change the order or arrangement of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That which you are, my thoughts cannot transpose."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Things base and vile, holding no quantity, Love can transpose to form and dignity."*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"A well known line you may transpose-- “A thorn is always near a rose.” 22."*

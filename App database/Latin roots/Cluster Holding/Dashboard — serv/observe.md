@@ -5,15 +5,6 @@ status: unread
 ---
 # observe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover or determine the existence, presence, or fact of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make mention of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her eye is sick on’t; I observe her now."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say to him I live; and observe his reports for me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Observe how Antony becomes his flaw, And what thou think’st his very action speaks In every power that moves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover or determine the existence, presence, or fact of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make mention of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her eye is sick on’t; I observe her now."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say to him I live; and observe his reports for me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Observe how Antony becomes his flaw, And what thou think’st his very action speaks In every power that moves."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # extract
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solution obtained by steeping or soaking a substance (usually in water).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A passage selected from a larger work.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"O let us be joyful!” With which remark, which appears from its sound to be an extract in verse, Mr."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"It must suffice here to give an extract from one of them on a tour in the West of Ireland in 1864, illustrating as it does a curious phase of Irish social life at that time."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"EXTRACT FROM THE NARRATIVE OF MADAME DUPIN DE LA CLAIRIÈRE (_née_ DE CHAMPFLEURIE)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solution obtained by steeping or soaking a substance (usually in water).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A passage selected from a larger work.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"O let us be joyful!” With which remark, which appears from its sound to be an extract in verse, Mr."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"It must suffice here to give an extract from one of them on a tour in the West of Ireland in 1864, illustrating as it does a curious phase of Irish social life at that time."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"EXTRACT FROM THE NARRATIVE OF MADAME DUPIN DE LA CLAIRIÈRE (_née_ DE CHAMPFLEURIE)."*

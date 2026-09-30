@@ -5,15 +5,6 @@ status: unread
 ---
 # stanch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stop the flow of a liquid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stop the flow of a liquid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"You know I have been always a stanch friend to you.” “Don’t touch me."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Not so! stem and branch Shall decay, nor be known in their place, while the palm-wine shall stanch Every wound of man’s spirit in winter."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"An old woman who was present said to me in a high voice, and a very unpleasant tone, 'My child, instead of indulging in these emotions, why do you not carry to the hospital an old sheet to stanch blood?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stop the flow of a liquid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stop the flow of a liquid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"You know I have been always a stanch friend to you.” “Don’t touch me."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Not so! stem and branch Shall decay, nor be known in their place, while the palm-wine shall stanch Every wound of man’s spirit in winter."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"An old woman who was present said to me in a high voice, and a very unpleasant tone, 'My child, instead of indulging in these emotions, why do you not carry to the hospital an old sheet to stanch blood?"*

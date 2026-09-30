@@ -5,13 +5,6 @@ status: unread
 ---
 # antipodal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation of opposition along a diameter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the antipodes or situated at opposite sides of the earth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"The two, three or twenty cash doll does for the Chinese girl what the two, three or twenty dollar one does for her antipodal sister,--develops the instinct of motherhood, besides standing a greater amount of rough handling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation of opposition along a diameter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the antipodes or situated at opposite sides of the earth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"The two, three or twenty cash doll does for the Chinese girl what the two, three or twenty dollar one does for her antipodal sister,--develops the instinct of motherhood, besides standing a greater amount of rough handling."*

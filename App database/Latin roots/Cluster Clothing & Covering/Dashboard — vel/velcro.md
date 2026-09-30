@@ -5,13 +5,6 @@ status: unread
 ---
 # velcro
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nylon fabric used as a fastening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fasten with velcro.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, velcro designates nylon fabric used as a fastening."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nylon fabric used as a fastening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fasten with velcro.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, velcro designates nylon fabric used as a fastening."*

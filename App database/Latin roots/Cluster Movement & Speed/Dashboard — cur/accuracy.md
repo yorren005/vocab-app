@@ -5,15 +5,6 @@ status: unread
 ---
 # accuracy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being near to the true value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (mathematics) the number of significant figures given in a number.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He told us, however, that as he had always been a mere child in point of weights and measures and had never known anything about them (except that they disgusted him), he had never been able to prescribe with the requisite accuracy of detail."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt in a grave kind of voice, as if he were appealing to her while speaking to us, and laying his hand gently on her arm, “Miss Flite describes her illness with her usual accuracy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is a splendid clock upon the staircase, famous, as splendid clocks not often are, for its accuracy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being near to the true value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (mathematics) the number of significant figures given in a number.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He told us, however, that as he had always been a mere child in point of weights and measures and had never known anything about them (except that they disgusted him), he had never been able to prescribe with the requisite accuracy of detail."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt in a grave kind of voice, as if he were appealing to her while speaking to us, and laying his hand gently on her arm, “Miss Flite describes her illness with her usual accuracy."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There is a splendid clock upon the staircase, famous, as splendid clocks not often are, for its accuracy."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # unction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive but superficial compliments given with affected charm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smug self-serving earnestness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mother, for love of grace, Lay not that flattering unction to your soul That not your trespass, but my madness speaks."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I bought an unction of a mountebank So mortal that, but dip a knife in it, Where it draws blood no cataplasm so rare, Collected from all simples that have virtue Under the moon, can save the thing from death This is but scratch’d withal."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Took the over-dose?” “Yes!” Krook almost smacks his lips with the unction of a horrible interest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive but superficial compliments given with affected charm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smug self-serving earnestness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mother, for love of grace, Lay not that flattering unction to your soul That not your trespass, but my madness speaks."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I bought an unction of a mountebank So mortal that, but dip a knife in it, Where it draws blood no cataplasm so rare, Collected from all simples that have virtue Under the moon, can save the thing from death This is but scratch’d withal."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Took the over-dose?” “Yes!” Krook almost smacks his lips with the unction of a horrible interest."*

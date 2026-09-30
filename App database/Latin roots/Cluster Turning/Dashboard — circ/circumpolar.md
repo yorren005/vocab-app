@@ -5,15 +5,6 @@ status: unread
 ---
 # circumpolar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a celestial body) continually visible above the horizon during the entire 360 degrees of daily travel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located or found throughout a polar region.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"He is mostly found in the circumpolar seas."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Two months earlier we should have had perpetual daylight in these latitudes; but already we had had three or four hours of night, and by and by there would be six months of darkness in these circumpolar regions."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"He is mostly found in the circumpolar seas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a celestial body) continually visible above the horizon during the entire 360 degrees of daily travel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located or found throughout a polar region.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"He is mostly found in the circumpolar seas."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Two months earlier we should have had perpetual daylight in these latitudes; but already we had had three or four hours of night, and by and by there would be six months of darkness in these circumpolar regions."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"He is mostly found in the circumpolar seas."*

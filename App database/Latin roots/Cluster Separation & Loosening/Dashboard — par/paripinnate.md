@@ -5,13 +5,6 @@ status: unread
 ---
 # paripinnate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a leaf shape) pinnate with a pair of leaflets at the apex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a leaf shape) pinnate with a pair of leaflets at the apex.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paripinnate designates (of a leaf shape) pinnate with a pair of leaflets at the apex."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a leaf shape) pinnate with a pair of leaflets at the apex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a leaf shape) pinnate with a pair of leaflets at the apex.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paripinnate designates (of a leaf shape) pinnate with a pair of leaflets at the apex."*

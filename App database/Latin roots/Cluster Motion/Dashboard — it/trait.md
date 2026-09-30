@@ -5,15 +5,6 @@ status: unread
 ---
 # trait
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinguishing feature of your personal nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinguishing feature of your personal nature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She knew how high his standard of honor was, but how would he end if his unfortunate trait gained more ascendancy over him?"*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Thiers, _Traité des Superstitions_*[5] (Paris, 1741), i. 302 _sq._; Eugène Cortet, _Essai sur les Fêtes Religieuses_ (Paris, 1867), pp. _266 sq._ [643] J.B."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester, but found none: no trait, no turn of expression announced relationship."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinguishing feature of your personal nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinguishing feature of your personal nature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She knew how high his standard of honor was, but how would he end if his unfortunate trait gained more ascendancy over him?"*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Thiers, _Traité des Superstitions_*[5] (Paris, 1741), i. 302 _sq._; Eugène Cortet, _Essai sur les Fêtes Religieuses_ (Paris, 1867), pp. _266 sq._ [643] J.B."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester, but found none: no trait, no turn of expression announced relationship."*

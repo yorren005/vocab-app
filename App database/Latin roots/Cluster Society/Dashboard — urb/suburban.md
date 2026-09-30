@@ -5,15 +5,6 @@ status: unread
 ---
 # suburban
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of or situated in suburbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of or situated in suburbs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"There is Mortimer’s, the tobacconist, the little newspaper shop, the Coburg branch of the City and Suburban Bank, the Vegetarian Restaurant, and McFarlane’s carriage-building depot."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I walked round the corner, saw the City and Suburban Bank abutted on our friend’s premises, and felt that I had solved my problem."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"We had driven several miles, and were beginning to get to the fringe of the belt of suburban villas, when he shook himself, shrugged his shoulders, and lit up his pipe with the air of a man who has satisfied himself that he is acting for the best."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of or situated in suburbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of or situated in suburbs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"There is Mortimer’s, the tobacconist, the little newspaper shop, the Coburg branch of the City and Suburban Bank, the Vegetarian Restaurant, and McFarlane’s carriage-building depot."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I walked round the corner, saw the City and Suburban Bank abutted on our friend’s premises, and felt that I had solved my problem."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"We had driven several miles, and were beginning to get to the fringe of the belt of suburban villas, when he shook himself, shrugged his shoulders, and lit up his pipe with the air of a man who has satisfied himself that he is acting for the best."*

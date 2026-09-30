@@ -5,13 +5,6 @@ status: unread
 ---
 # anapest
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot consisting of two short syllables followed by one long syllable or of two unstressed syllables followed by one stressed syllable (such as unaware).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metrical foot consisting of two short syllables followed by one long syllable or of two unstressed syllables followed by one stressed syllable (such as unaware).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anapest designates a metrical foot consisting of two short syllables followed by one long syllable or of two unstressed syllables followed by one stressed syllable (such as unaware)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot consisting of two short syllables followed by one long syllable or of two unstressed syllables followed by one stressed syllable (such as unaware).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metrical foot consisting of two short syllables followed by one long syllable or of two unstressed syllables followed by one stressed syllable (such as unaware).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anapest designates a metrical foot consisting of two short syllables followed by one long syllable or of two unstressed syllables followed by one stressed syllable (such as unaware)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # tyrannise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rule a country as a tyrant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rule or exercise power over (somebody) in a cruel and autocratic manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"And says Joe, sticking his thumb in his pocket: —It’s the Russians wish to tyrannise. —Arrah, give over your bloody codding, Joe, says I."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rule a country as a tyrant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rule or exercise power over (somebody) in a cruel and autocratic manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"And says Joe, sticking his thumb in his pocket: —It’s the Russians wish to tyrannise. —Arrah, give over your bloody codding, Joe, says I."*

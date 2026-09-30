@@ -5,13 +5,6 @@ status: unread
 ---
 # bellyache
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ache localized in the stomach or abdominal region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Complain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bellyache designates an ache localized in the stomach or abdominal region."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ache localized in the stomach or abdominal region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Complain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bellyache designates an ache localized in the stomach or abdominal region."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # exactly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indicating exactness or preciseness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Just as it should be.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the brief of money, plate, and jewels I am possessed of. ’Tis exactly valued, Not petty things admitted."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A piece of work So bravely done, so rich, that it did strive In workmanship and value; which I wonder’d Could be so rarely and exactly wrought, Since the true life on’t was— POSTHUMUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ariel, thy charge Exactly is perform’d; but there’s more work."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indicating exactness or preciseness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Just as it should be.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the brief of money, plate, and jewels I am possessed of. ’Tis exactly valued, Not petty things admitted."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A piece of work So bravely done, so rich, that it did strive In workmanship and value; which I wonder’d Could be so rarely and exactly wrought, Since the true life on’t was— POSTHUMUS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ariel, thy charge Exactly is perform’d; but there’s more work."*

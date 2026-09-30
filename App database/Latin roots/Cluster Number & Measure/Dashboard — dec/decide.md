@@ -5,15 +5,6 @@ status: unread
 ---
 # decide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reach, make, or come to a decision about something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to an end; settle conclusively.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or to the place of difference call the swords Which must decide it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The quarrel toucheth none but us alone; Betwixt ourselves let us decide it then."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As she was anxious to have the matter settled then and there, she remarked rather sarcastically that a mother should be able to decide such matters alone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reach, make, or come to a decision about something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to an end; settle conclusively.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or to the place of difference call the swords Which must decide it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The quarrel toucheth none but us alone; Betwixt ourselves let us decide it then."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As she was anxious to have the matter settled then and there, she remarked rather sarcastically that a mother should be able to decide such matters alone."*

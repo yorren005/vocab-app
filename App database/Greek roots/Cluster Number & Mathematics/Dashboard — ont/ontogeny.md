@@ -5,13 +5,6 @@ status: unread
 ---
 # ontogeny
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The development or course of development especially of an individual organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The development or course of development especially of an individual organism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ontogeny designates the development or course of development especially of an individual organism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The development or course of development especially of an individual organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The development or course of development especially of an individual organism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ontogeny designates the development or course of development especially of an individual organism."*

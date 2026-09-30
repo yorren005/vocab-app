@@ -5,13 +5,6 @@ status: unread
 ---
 # psephite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sediment or sedimentary rock composed of fragments that are coarser than sand and which are enclosed in a matrix that varies in kind and amount.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sediment or sedimentary rock composed of fragments that are coarser than sand and which are enclosed in a matrix that varies in kind and amount.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psephite designates a sediment or sedimentary rock composed of fragments that are coarser than sand and which are enclosed in a matrix that varies in kind and amount."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sediment or sedimentary rock composed of fragments that are coarser than sand and which are enclosed in a matrix that varies in kind and amount.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sediment or sedimentary rock composed of fragments that are coarser than sand and which are enclosed in a matrix that varies in kind and amount.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psephite designates a sediment or sedimentary rock composed of fragments that are coarser than sand and which are enclosed in a matrix that varies in kind and amount."*

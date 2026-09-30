@@ -5,13 +5,6 @@ status: unread
 ---
 # domiciliate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make one's home in a particular place or community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide housing for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, domiciliate designates make one's home in a particular place or community."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make one's home in a particular place or community.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide housing for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, domiciliate designates make one's home in a particular place or community."*

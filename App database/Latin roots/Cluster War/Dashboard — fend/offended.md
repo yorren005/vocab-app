@@ -5,15 +5,6 @@ status: unread
 ---
 # offended
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to feel resentment or indignation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act in disregard of laws, rules, contracts, or promises.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be not offended; for it hurts not him That he is lov’d of me; I follow him not By any token of presumptuous suit, Nor would I have him till I do deserve him; Yet never know how that desert should be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ambitious love hath so in me offended That barefoot plod I the cold ground upon, With sainted vow my faults to have amended."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I must be laughed at If, or for nothing or a little, I Should say myself offended, and with you Chiefly i’ th’ world; more laughed at that I should Once name you derogately when to sound your name It not concerned me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to feel resentment or indignation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act in disregard of laws, rules, contracts, or promises.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be not offended; for it hurts not him That he is lov’d of me; I follow him not By any token of presumptuous suit, Nor would I have him till I do deserve him; Yet never know how that desert should be."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ambitious love hath so in me offended That barefoot plod I the cold ground upon, With sainted vow my faults to have amended."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I must be laughed at If, or for nothing or a little, I Should say myself offended, and with you Chiefly i’ th’ world; more laughed at that I should Once name you derogately when to sound your name It not concerned me."*

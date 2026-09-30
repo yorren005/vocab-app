@@ -5,15 +5,6 @@ status: unread
 ---
 # organize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To form into a coherent unity or functioning whole : integrate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To set up an administrative structure for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The effort of wage workers to organize themselves appears everywhere to result from the separation of the economic and personal interests of employers and workmen."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"How far he even organized his church, or left it to organize itself if it so wished, students may discuss."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What I now say to you, Brad, puts my life in your hands, but say it I must." He paused, as if to gather strength and conviction, and to organize his thoughts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To form into a coherent unity or functioning whole : integrate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To set up an administrative structure for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The effort of wage workers to organize themselves appears everywhere to result from the separation of the economic and personal interests of employers and workmen."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"How far he even organized his church, or left it to organize itself if it so wished, students may discuss."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What I now say to you, Brad, puts my life in your hands, but say it I must." He paused, as if to gather strength and conviction, and to organize his thoughts."*

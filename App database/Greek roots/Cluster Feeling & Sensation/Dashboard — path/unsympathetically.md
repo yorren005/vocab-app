@@ -5,14 +5,6 @@ status: unread
 ---
 # unsympathetically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without sympathy; in an unsympathetic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without sympathy; in an unsympathetic manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Dentist down the street,” said a blurred voice unsympathetically."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"I like anything better than being moddley-coddleyed.” With the check upon him of being unsympathetically restrained in a genial outburst of enthusiasm, Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without sympathy; in an unsympathetic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without sympathy; in an unsympathetic manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Dentist down the street,” said a blurred voice unsympathetically."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"I like anything better than being moddley-coddleyed.” With the check upon him of being unsympathetically restrained in a genial outburst of enthusiasm, Mr."*

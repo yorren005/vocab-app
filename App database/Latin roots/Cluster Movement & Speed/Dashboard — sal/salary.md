@@ -5,15 +5,6 @@ status: unread
 ---
 # salary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that remunerates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that remunerates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, this is hire and salary, not revenge."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My present salary, Miss Summerson, at Kenge and Carboy’s, is two pound a week."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In consequence of failure to obtain my salary when due, I have been so oppressed with care and want, as to make it painfully difficult to perform my duties as a minister."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that remunerates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that remunerates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, this is hire and salary, not revenge."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"My present salary, Miss Summerson, at Kenge and Carboy’s, is two pound a week."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"In consequence of failure to obtain my salary when due, I have been so oppressed with care and want, as to make it painfully difficult to perform my duties as a minister."*

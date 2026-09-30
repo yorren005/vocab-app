@@ -5,13 +5,6 @@ status: unread
 ---
 # clinocephaly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital defect in which the top of the head is depressed (concave instead of convex).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A congenital defect in which the top of the head is depressed (concave instead of convex).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clinocephaly designates a congenital defect in which the top of the head is depressed (concave instead of convex)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital defect in which the top of the head is depressed (concave instead of convex).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A congenital defect in which the top of the head is depressed (concave instead of convex).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clinocephaly designates a congenital defect in which the top of the head is depressed (concave instead of convex)."*

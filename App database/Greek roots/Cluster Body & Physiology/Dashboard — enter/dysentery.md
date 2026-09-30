@@ -5,15 +5,6 @@ status: unread
 ---
 # dysentery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease characterized by severe diarrhea with passage of mucus and blood and usually caused by infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease characterized by severe diarrhea with passage of mucus and blood and usually caused by infection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"They were willing to be wounded, shot, to die, if need be, but after months of inaction they find themselves conquered by dysentery or fever."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"It was evidently not so much his sufferings that caused him to moan (he had dysentery) as his fear and grief at being left alone."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"On the 20th Cardinal Portocarero will die of a dysentery, with great suspicion of poison, but the report of his intention to revolt to King Charles will prove false. _July_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease characterized by severe diarrhea with passage of mucus and blood and usually caused by infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease characterized by severe diarrhea with passage of mucus and blood and usually caused by infection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"They were willing to be wounded, shot, to die, if need be, but after months of inaction they find themselves conquered by dysentery or fever."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"It was evidently not so much his sufferings that caused him to moan (he had dysentery) as his fear and grief at being left alone."*
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"On the 20th Cardinal Portocarero will die of a dysentery, with great suspicion of poison, but the report of his intention to revolt to King Charles will prove false. _July_."*

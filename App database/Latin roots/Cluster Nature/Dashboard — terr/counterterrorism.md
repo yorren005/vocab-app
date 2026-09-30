@@ -5,13 +5,6 @@ status: unread
 ---
 # counterterrorism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strategy intended to prevent or counter terrorism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strategy intended to prevent or counter terrorism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterterrorism designates a strategy intended to prevent or counter terrorism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strategy intended to prevent or counter terrorism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strategy intended to prevent or counter terrorism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterterrorism designates a strategy intended to prevent or counter terrorism."*

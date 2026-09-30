@@ -5,15 +5,6 @@ status: unread
 ---
 # sagaciously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a shrewd manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a shrewd manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"A little redness or a little matter of Bone, here or there, what does it signify to Me?” I sagaciously observed, if it didn’t signify to him, to whom did it signify?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But, peradventure, it may be sagaciously urged, how is this?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But if these suspicions were really his, he sagaciously refrained from verbally expressing them, however his actions might seem to hint them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a shrewd manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a shrewd manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"A little redness or a little matter of Bone, here or there, what does it signify to Me?” I sagaciously observed, if it didn’t signify to him, to whom did it signify?"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But, peradventure, it may be sagaciously urged, how is this?"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But if these suspicions were really his, he sagaciously refrained from verbally expressing them, however his actions might seem to hint them."*

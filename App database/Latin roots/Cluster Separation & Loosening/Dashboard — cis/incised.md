@@ -5,15 +5,6 @@ status: unread
 ---
 # incised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make an incision into by carving or cutting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sharply and deeply indented.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"I like introducing lint into wounds (such simple ones as an incised abscess of the breast) with the probe, because if I take trouble enough I can do it without hurting the patient, much to the patient's surprise."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Also a long shed, a pump, a door defaced by innumerable incised inscriptions, the back of the house in much worse repair than the front, and about fifty boys in tailless jackets and broad, turned-down collars."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Incised scrolls on the body, applied reliefs of dragons, figures, etc., on neck and shoulder. (?) T´ang. _Benson Collection._ 15."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make an incision into by carving or cutting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sharply and deeply indented.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"I like introducing lint into wounds (such simple ones as an incised abscess of the breast) with the probe, because if I take trouble enough I can do it without hurting the patient, much to the patient's surprise."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Also a long shed, a pump, a door defaced by innumerable incised inscriptions, the back of the house in much worse repair than the front, and about fifty boys in tailless jackets and broad, turned-down collars."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Incised scrolls on the body, applied reliefs of dragons, figures, etc., on neck and shoulder. (?) T´ang. _Benson Collection._ 15."*

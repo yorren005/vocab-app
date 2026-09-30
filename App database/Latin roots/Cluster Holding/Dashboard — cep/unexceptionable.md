@@ -5,15 +5,6 @@ status: unread
 ---
 # unexceptionable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely acceptable; not open to exception or reproach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely acceptable; not open to exception or reproach.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood as a means to marriage was unexceptionable: she esteemed and liked him, yet she did not want him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This was considered an unexceptionable place for obtaining the necessary food and rest: Host Trencher (as he was jauntily called by the local newspaper) being a substantial man of high repute for catering through all the country round."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"After all our debatings and difficulties, we find there is nothing that will suit us altogether so well, nothing so unexceptionable, as Lovers’ Vows."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely acceptable; not open to exception or reproach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Completely acceptable; not open to exception or reproach.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood as a means to marriage was unexceptionable: she esteemed and liked him, yet she did not want him."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This was considered an unexceptionable place for obtaining the necessary food and rest: Host Trencher (as he was jauntily called by the local newspaper) being a substantial man of high repute for catering through all the country round."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"After all our debatings and difficulties, we find there is nothing that will suit us altogether so well, nothing so unexceptionable, as Lovers’ Vows."*

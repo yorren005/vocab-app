@@ -5,15 +5,6 @@ status: unread
 ---
 # privately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kept private or confined to those intimately concerned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By a private person or interest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, sir, I think, if you handled her privately, she would sooner confess; perchance, publicly, she’ll be ashamed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell gentle Jessica I will not fail her, speak it privately."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be it as you shall privately determine, Either for her stay or going."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Kept private or confined to those intimately concerned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By a private person or interest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, sir, I think, if you handled her privately, she would sooner confess; perchance, publicly, she’ll be ashamed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell gentle Jessica I will not fail her, speak it privately."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be it as you shall privately determine, Either for her stay or going."*

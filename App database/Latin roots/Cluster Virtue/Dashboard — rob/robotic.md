@@ -5,15 +5,6 @@ status: unread
 ---
 # robotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to mechanical robots.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling the unthinking functioning of a machine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Men, women and children in all shapes and sizes: tall, short, stocky, slender, organic, bionic, robotic, and combinations thereof."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hundreds of logistics robots crammed the station's cavernous bays, self-sustaining and programmed to activate sub-systems on schedule, deploy robotic specialists and service the machine during its voyage, and in perpetuity thereafter."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The problem is that although much of the gear is self-repairing through built-in robotics, when the robies themselves need fixing, no one knows how."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to mechanical robots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling the unthinking functioning of a machine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Men, women and children in all shapes and sizes: tall, short, stocky, slender, organic, bionic, robotic, and combinations thereof."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hundreds of logistics robots crammed the station's cavernous bays, self-sustaining and programmed to activate sub-systems on schedule, deploy robotic specialists and service the machine during its voyage, and in perpetuity thereafter."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The problem is that although much of the gear is self-repairing through built-in robotics, when the robies themselves need fixing, no one knows how."*

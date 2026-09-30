@@ -5,13 +5,6 @@ status: unread
 ---
 # computerization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The control of processes by computer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The control of processes by computer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, computerization designates the control of processes by computer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The control of processes by computer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The control of processes by computer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, computerization designates the control of processes by computer."*

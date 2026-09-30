@@ -5,13 +5,6 @@ status: unread
 ---
 # depone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a deposition; declare under oath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a deposition; declare under oath.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, depone designates make a deposition; declare under oath."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a deposition; declare under oath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a deposition; declare under oath.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, depone designates make a deposition; declare under oath."*

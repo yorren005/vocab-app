@@ -5,13 +5,6 @@ status: unread
 ---
 # analemma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plot or graph in the shape of a figure eight that shows the position of the sun in the sky at a given time of day (such as noon) at one specific locale measured throughout the year; also : a scale (as on a globe or sundial) based on such a plot that shows the sun's position for each day of the year or that allows local mean time to be determined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plot or graph in the shape of a figure eight that shows the position of the sun in the sky at a given time of day (such as noon) at one specific locale measured throughout the year; also : a scale (as on a globe or sundial) based on such a plot that shows the sun's position for each day of the year or that allows local mean time to be determined.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analemma designates a plot or graph in the shape of a figure eight that shows the position of the sun in the sky at a given time of day (such as noon) at one specific locale measured throughout the year; also : a scale (as on a globe or sundial) based on such a plot that shows the sun's position for each day of the year or that allows local mean time to be determined."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plot or graph in the shape of a figure eight that shows the position of the sun in the sky at a given time of day (such as noon) at one specific locale measured throughout the year; also : a scale (as on a globe or sundial) based on such a plot that shows the sun's position for each day of the year or that allows local mean time to be determined.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plot or graph in the shape of a figure eight that shows the position of the sun in the sky at a given time of day (such as noon) at one specific locale measured throughout the year; also : a scale (as on a globe or sundial) based on such a plot that shows the sun's position for each day of the year or that allows local mean time to be determined.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analemma designates a plot or graph in the shape of a figure eight that shows the position of the sun in the sky at a given time of day (such as noon) at one specific locale measured throughout the year; also : a scale (as on a globe or sundial) based on such a plot that shows the sun's position for each day of the year or that allows local mean time to be determined."*

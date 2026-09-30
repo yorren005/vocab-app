@@ -5,13 +5,6 @@ status: unread
 ---
 # instauration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of starting something for the first time; introducing something new.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of starting something for the first time; introducing something new.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, instauration designates the act of starting something for the first time; introducing something new."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of starting something for the first time; introducing something new.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of starting something for the first time; introducing something new.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, instauration designates the act of starting something for the first time; introducing something new."*

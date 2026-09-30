@@ -5,15 +5,6 @@ status: unread
 ---
 # sacred
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with religion or religious purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of respect or dedication.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where be the sacred vials thou shouldst fill With sorrowful water?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The honour is sacred which he talks on now, Supposing that I lacked it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"True is it that we have seen better days, And have with holy bell been knolled to church, And sat at good men’s feasts, and wiped our eyes Of drops that sacred pity hath engendered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with religion or religious purposes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of respect or dedication.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where be the sacred vials thou shouldst fill With sorrowful water?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The honour is sacred which he talks on now, Supposing that I lacked it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"True is it that we have seen better days, And have with holy bell been knolled to church, And sat at good men’s feasts, and wiped our eyes Of drops that sacred pity hath engendered."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # lucidity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from obscurity and easy to understand; the comprehensibility of clear expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lucid state of mind; not confused.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"That has been done with admirable lucidity and skill by such writers as Dr."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"These lectures, while not rising to the level of greatness, impress one with his mastery of the immense literature of the subject, and are characterised throughout by lucidity of arrangement and by sobriety and fairness of judgment."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And in the strange place somewhere within would come a strange lucidity, blue and cold and absolute as the stars, and into that place would walk, as players stalk upon the stage, each of three ghosts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from obscurity and easy to understand; the comprehensibility of clear expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lucid state of mind; not confused.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"That has been done with admirable lucidity and skill by such writers as Dr."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"These lectures, while not rising to the level of greatness, impress one with his mastery of the immense literature of the subject, and are characterised throughout by lucidity of arrangement and by sobriety and fairness of judgment."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And in the strange place somewhere within would come a strange lucidity, blue and cold and absolute as the stars, and into that place would walk, as players stalk upon the stage, each of three ghosts."*

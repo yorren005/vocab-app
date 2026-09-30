@@ -5,15 +5,6 @@ status: unread
 ---
 # gaming
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of playing for stakes in the hope of winning (including the payment of a price for a chance to win a prize).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place a bet on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"And in the wretched state of his own finances, there was a very powerful motive for secrecy, in addition to his fear of discovery by Lydia’s relations; for it had just transpired that he had left gaming debts behind him to a very considerable amount."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Then, the two nurses left the room, and had a lively scuffle on the staircase with a dissipated page who had waited at dinner, and who had clearly lost half his buttons at the gaming-table."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I would arise, and be a man and slay him--take him grossly, full of bread, with all his crimes, broad-blown, as flush as May; at gaming, swearing, or about some act that had no relish of salvation in it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of playing for stakes in the hope of winning (including the payment of a price for a chance to win a prize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place a bet on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"And in the wretched state of his own finances, there was a very powerful motive for secrecy, in addition to his fear of discovery by Lydia’s relations; for it had just transpired that he had left gaming debts behind him to a very considerable amount."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Then, the two nurses left the room, and had a lively scuffle on the staircase with a dissipated page who had waited at dinner, and who had clearly lost half his buttons at the gaming-table."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I would arise, and be a man and slay him--take him grossly, full of bread, with all his crimes, broad-blown, as flush as May; at gaming, swearing, or about some act that had no relish of salvation in it."*

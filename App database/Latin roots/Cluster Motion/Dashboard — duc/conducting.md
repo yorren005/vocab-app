@@ -5,15 +5,6 @@ status: unread
 ---
 # conducting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The way of administering a business.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The direction of an orchestra or choir.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are they not now upon the western shore, Safe-conducting the rebels from their ships?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"How have I been conducting of myself?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Thus night pursues its leaden course, finding the court still out of bed through the unwonted hours, still treating and being treated, still conducting itself similarly to a court that has had a little money left it unexpectedly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The way of administering a business.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The direction of an orchestra or choir.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are they not now upon the western shore, Safe-conducting the rebels from their ships?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"How have I been conducting of myself?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Thus night pursues its leaden course, finding the court still out of bed through the unwonted hours, still treating and being treated, still conducting itself similarly to a court that has had a little money left it unexpectedly."*

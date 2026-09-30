@@ -5,13 +5,6 @@ status: unread
 ---
 # eczematous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inflammatory condition of the skin characterized by redness, itching, and oozing vesicular lesions which become scaly, crusted, or hardened.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inflammatory condition of the skin characterized by redness, itching, and oozing vesicular lesions which become scaly, crusted, or hardened.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eczematous designates an inflammatory condition of the skin characterized by redness, itching, and oozing vesicular lesions which become scaly, crusted, or hardened."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inflammatory condition of the skin characterized by redness, itching, and oozing vesicular lesions which become scaly, crusted, or hardened.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inflammatory condition of the skin characterized by redness, itching, and oozing vesicular lesions which become scaly, crusted, or hardened.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eczematous designates an inflammatory condition of the skin characterized by redness, itching, and oozing vesicular lesions which become scaly, crusted, or hardened."*

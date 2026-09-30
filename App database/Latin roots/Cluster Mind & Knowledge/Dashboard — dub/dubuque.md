@@ -5,13 +5,6 @@ status: unread
 ---
 # dubuque
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in eastern iowa on the mississippi river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in eastern iowa on the mississippi river.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She resided in Cascade, Dubuque County, Iowa, and just previous to the commencement of the war had buried her only child, a sweet little girl of four years."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in eastern iowa on the mississippi river.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in eastern iowa on the mississippi river.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She resided in Cascade, Dubuque County, Iowa, and just previous to the commencement of the war had buried her only child, a sweet little girl of four years."*

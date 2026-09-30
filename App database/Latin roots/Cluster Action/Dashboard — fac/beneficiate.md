@@ -5,13 +5,6 @@ status: unread
 ---
 # beneficiate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Process (ores or other raw materials), as by reduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Process (ores or other raw materials), as by reduction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, beneficiate designates process (ores or other raw materials), as by reduction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Process (ores or other raw materials), as by reduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Process (ores or other raw materials), as by reduction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, beneficiate designates process (ores or other raw materials), as by reduction."*

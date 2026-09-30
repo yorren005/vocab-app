@@ -5,15 +5,6 @@ status: unread
 ---
 # exclusiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tendency to associate with only a select group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tendency to associate with only a select group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"When I think of this life I have led; the desolation of solitude it has been; the masoned, walled-town of a Captain’s exclusiveness, which admits but small entrance to any sympathy from the green country without—oh, weariness! heaviness!"*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"When I think of this life I have led; the desolation of solitude it has been; the masoned, walled-town of a Captain’s exclusiveness, which admits but small entrance to any sympathy from the green country without—oh, weariness! heaviness!"*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"In the South, Democracy's chief tenets are white man's supremacy and exclusiveness in governmental affairs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tendency to associate with only a select group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tendency to associate with only a select group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"When I think of this life I have led; the desolation of solitude it has been; the masoned, walled-town of a Captain’s exclusiveness, which admits but small entrance to any sympathy from the green country without—oh, weariness! heaviness!"*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"When I think of this life I have led; the desolation of solitude it has been; the masoned, walled-town of a Captain’s exclusiveness, which admits but small entrance to any sympathy from the green country without—oh, weariness! heaviness!"*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"In the South, Democracy's chief tenets are white man's supremacy and exclusiveness in governmental affairs."*

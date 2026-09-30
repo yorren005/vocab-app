@@ -5,15 +5,6 @@ status: unread
 ---
 # affection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A positive feeling of liking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A positive feeling of liking.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, come, disclose The state of your affection, for your passions Have to the full appeach’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antony will use his affection where it is."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You did know How much you were my conqueror, and that My sword, made weak by my affection, would Obey it on all cause."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A positive feeling of liking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A positive feeling of liking.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, come, disclose The state of your affection, for your passions Have to the full appeach’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antony will use his affection where it is."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You did know How much you were my conqueror, and that My sword, made weak by my affection, would Obey it on all cause."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # diplodocus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A huge quadrupedal herbivore with long neck and tail; of late jurassic in western north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A huge quadrupedal herbivore with long neck and tail; of late jurassic in western north america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"VIRAG: _(Arches his eyebrows.)_ Contact with a goldring, they say. _Argumentum ad feminam_, as we said in old Rome and ancient Greece in the consulship of Diplodocus and Ichthyosauros."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A huge quadrupedal herbivore with long neck and tail; of late jurassic in western north america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A huge quadrupedal herbivore with long neck and tail; of late jurassic in western north america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"VIRAG: _(Arches his eyebrows.)_ Contact with a goldring, they say. _Argumentum ad feminam_, as we said in old Rome and ancient Greece in the consulship of Diplodocus and Ichthyosauros."*

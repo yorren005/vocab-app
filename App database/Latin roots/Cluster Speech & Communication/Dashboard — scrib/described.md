@@ -5,15 +5,6 @@ status: unread
 ---
 # described
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give a description of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To give an account or representation of in words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I can't stand it, and you now know yourself what they are like." Bruno had described his two comrades to his new friend, their mean attitude and their frequent and contemptible tricks."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore now told the children that Apollonie had very vividly described to her the lovely home of her parents and the wonderful life in the castle."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She unexpectedly entered Apollonie's garden while the latter was working there, and immediately described to her the terrible state of things at the castle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give a description of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To give an account or representation of in words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I can't stand it, and you now know yourself what they are like." Bruno had described his two comrades to his new friend, their mean attitude and their frequent and contemptible tricks."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore now told the children that Apollonie had very vividly described to her the lovely home of her parents and the wonderful life in the castle."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She unexpectedly entered Apollonie's garden while the latter was working there, and immediately described to her the terrible state of things at the castle."*

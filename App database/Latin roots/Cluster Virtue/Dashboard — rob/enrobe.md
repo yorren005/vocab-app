@@ -5,13 +5,6 @@ status: unread
 ---
 # enrobe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with a coating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adorn with a robe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"It is a garment wherein they will enrobe forty bodies." We began upon the work, digging earth from the ditch which was being opened in the court of the church."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with a coating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adorn with a robe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"It is a garment wherein they will enrobe forty bodies." We began upon the work, digging earth from the ditch which was being opened in the court of the church."*

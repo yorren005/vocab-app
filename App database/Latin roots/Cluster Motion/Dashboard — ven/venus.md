@@ -5,15 +5,6 @@ status: unread
 ---
 # venus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The second nearest planet to the sun; it is peculiar in that its rotation is slow and retrograde (in the opposite sense of the earth and all other planets except uranus); it is visible from earth as an early `morning star' or an `evening star'.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Goddess of love; counterpart of greek aphrodite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet have I fierce affections, and think What Venus did with Mars."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For her own person, It beggared all description: she did lie In her pavilion, cloth-of-gold of tissue, O’erpicturing that Venus where we see The fancy outwork nature."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, that same wicked bastard of Venus, that was begot of thought, conceived of spleen, and born of madness, that blind rascally boy that abuses everyone’s eyes because his own are out, let him be judge how deep I am in love."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The second nearest planet to the sun; it is peculiar in that its rotation is slow and retrograde (in the opposite sense of the earth and all other planets except uranus); it is visible from earth as an early `morning star' or an `evening star'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Goddess of love; counterpart of greek aphrodite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet have I fierce affections, and think What Venus did with Mars."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For her own person, It beggared all description: she did lie In her pavilion, cloth-of-gold of tissue, O’erpicturing that Venus where we see The fancy outwork nature."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, that same wicked bastard of Venus, that was begot of thought, conceived of spleen, and born of madness, that blind rascally boy that abuses everyone’s eyes because his own are out, let him be judge how deep I am in love."*

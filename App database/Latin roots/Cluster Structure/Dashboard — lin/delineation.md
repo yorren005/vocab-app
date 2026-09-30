@@ -5,15 +5,6 @@ status: unread
 ---
 # delineation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic or vivid verbal description.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drawing of the outlines of forms or objects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Of the Alps and Pyrenees, with their pine forests and their vices, they might give a faithful delineation; and Italy, Switzerland, and the south of France might be as fruitful in horrors as they were there represented."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"This is a gentle delineation, is it not, reader?"*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"He holds that poetry is the delineation of the deeper and more secret workings of human emotion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic or vivid verbal description.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drawing of the outlines of forms or objects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Of the Alps and Pyrenees, with their pine forests and their vices, they might give a faithful delineation; and Italy, Switzerland, and the south of France might be as fruitful in horrors as they were there represented."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"This is a gentle delineation, is it not, reader?"*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"He holds that poetry is the delineation of the deeper and more secret workings of human emotion."*

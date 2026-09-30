@@ -5,15 +5,6 @@ status: unread
 ---
 # effusion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unrestrained expression of emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flow under pressure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For our losses, his exchequer is too poor; for the effusion of our blood, the muster of his kingdom too faint a number; and for our disgrace, his own person, kneeling at our feet, but a weak and worthless satisfaction."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, my good lord, and as the only means To stop effusion of our Christian blood And stablish quietness on every side."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Friend hast thou none; For thine own bowels which do call thee sire, The mere effusion of thy proper loins, Do curse the gout, serpigo, and the rheum For ending thee no sooner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unrestrained expression of emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flow under pressure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For our losses, his exchequer is too poor; for the effusion of our blood, the muster of his kingdom too faint a number; and for our disgrace, his own person, kneeling at our feet, but a weak and worthless satisfaction."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, my good lord, and as the only means To stop effusion of our Christian blood And stablish quietness on every side."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Friend hast thou none; For thine own bowels which do call thee sire, The mere effusion of thy proper loins, Do curse the gout, serpigo, and the rheum For ending thee no sooner."*

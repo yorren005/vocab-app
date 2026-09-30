@@ -5,15 +5,6 @@ status: unread
 ---
 # languidly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a languid and lethargic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a languid and lethargic manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And, what is very strange, I found him—” “Not to be any out-of-the-way person, I am afraid!” Lady Dedlock languidly anticipates."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Chadband, pausing with the resignation of a man accustomed to be persecuted and languidly folding up his chin into his fat smile, says, “Let us hear the maiden!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Indeed,” remarks my Lady languidly, “if there is any uncommon eye in the case, it is Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a languid and lethargic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a languid and lethargic manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"And, what is very strange, I found him—” “Not to be any out-of-the-way person, I am afraid!” Lady Dedlock languidly anticipates."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Chadband, pausing with the resignation of a man accustomed to be persecuted and languidly folding up his chin into his fat smile, says, “Let us hear the maiden!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Indeed,” remarks my Lady languidly, “if there is any uncommon eye in the case, it is Mrs."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # lineal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a straight unbroken line of descent from parent to child.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arranged in a line.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo, where it sits, Which God shall guard; and put the world’s whole strength Into one giant arm, it shall not force This lineal honour from me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Richard will be true, not that alone But all the whole inheritance I give That doth belong unto the house of York, From whence you spring by lineal descent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace be to France, if France in peace permit Our just and lineal entrance to our own; If not, bleed France, and peace ascend to heaven, Whiles we, God’s wrathful agent, do correct Their proud contempt that beats his peace to heaven."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a straight unbroken line of descent from parent to child.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arranged in a line.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo, where it sits, Which God shall guard; and put the world’s whole strength Into one giant arm, it shall not force This lineal honour from me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Richard will be true, not that alone But all the whole inheritance I give That doth belong unto the house of York, From whence you spring by lineal descent."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace be to France, if France in peace permit Our just and lineal entrance to our own; If not, bleed France, and peace ascend to heaven, Whiles we, God’s wrathful agent, do correct Their proud contempt that beats his peace to heaven."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # location
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A point or extent in space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting something in a certain place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The passing on of the burden is called the _shifting_ of the tax; the final location of the burden is called the _incidence_ of the tax."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I have not had time to look about in search of house or land; but I hope to be able to buy or build a house somewhere in this region, as near Ion as a pleasant location can be found." "I hope you'll find a house ready built, papa," she said."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Position the Extractor in orbit above Alpha Centauri at a location commensurate with data provided previously by drone scouts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A point or extent in space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting something in a certain place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The passing on of the burden is called the _shifting_ of the tax; the final location of the burden is called the _incidence_ of the tax."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I have not had time to look about in search of house or land; but I hope to be able to buy or build a house somewhere in this region, as near Ion as a pleasant location can be found." "I hope you'll find a house ready built, papa," she said."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Position the Extractor in orbit above Alpha Centauri at a location commensurate with data provided previously by drone scouts."*

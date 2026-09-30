@@ -5,15 +5,6 @@ status: unread
 ---
 # civilise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Teach or refine to be discriminative in taste or judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise from a barbaric to a civilized state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"The work of ameliorating the conditions of life—the true civilising process that makes life more and more secure—had gone steadily on to a climax."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"All arts of civilising others render thee rude and untractable; courts have taught thee ill manners, and polite conversation has finished thee a pedant."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It is as natural as that I should love those who show me affection, or submit to punishment when I feel it is deserved.” “Heathens and savage tribes hold that doctrine, but Christians and civilised nations disown it.” “How?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Teach or refine to be discriminative in taste or judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise from a barbaric to a civilized state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The work of ameliorating the conditions of life—the true civilising process that makes life more and more secure—had gone steadily on to a climax."*
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"All arts of civilising others render thee rude and untractable; courts have taught thee ill manners, and polite conversation has finished thee a pedant."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It is as natural as that I should love those who show me affection, or submit to punishment when I feel it is deserved.” “Heathens and savage tribes hold that doctrine, but Christians and civilised nations disown it.” “How?"*

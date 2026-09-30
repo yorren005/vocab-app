@@ -5,15 +5,6 @@ status: unread
 ---
 # exposed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expose or make accessible to some action or influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make known to the public information that was previously known only to a few people or that was meant to be kept a secret.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Call the creatures Whose naked natures live in all the spite Of wreakful heaven, whose bare unhoused trunks, To the conflicting elements exposed, Answer mere nature, bid them flatter thee."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I feel it rather!” Richard observed that the situation was exposed on a sharp night."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bleak House has an exposed sound."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expose or make accessible to some action or influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make known to the public information that was previously known only to a few people or that was meant to be kept a secret.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Call the creatures Whose naked natures live in all the spite Of wreakful heaven, whose bare unhoused trunks, To the conflicting elements exposed, Answer mere nature, bid them flatter thee."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I feel it rather!” Richard observed that the situation was exposed on a sharp night."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bleak House has an exposed sound."*

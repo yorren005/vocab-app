@@ -5,15 +5,6 @@ status: unread
 ---
 # protective
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended or adapted to afford protection of some kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing care.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had not known that men could be so disinterested, chivalrous, protective, in their love for women as he."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The policy of a protective tariff 15."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Other protective labor and social legislation 23."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended or adapted to afford protection of some kind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing care.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had not known that men could be so disinterested, chivalrous, protective, in their love for women as he."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The policy of a protective tariff 15."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Other protective labor and social legislation 23."*

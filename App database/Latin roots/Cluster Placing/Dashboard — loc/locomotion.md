@@ -5,15 +5,6 @@ status: unread
 ---
 # locomotion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power or ability to move.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Self-propelled movement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"After an hour employed in this unpleasant kind of locomotion, we started to our feet again and pursued our way boldly along the crest of the ridge."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"He had no consciousness of any means of locomotion."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"It furnished an easy means of locomotion, the task of stabling was not difficult and the cost of food nothing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The power or ability to move.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Self-propelled movement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"After an hour employed in this unpleasant kind of locomotion, we started to our feet again and pursued our way boldly along the crest of the ridge."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"He had no consciousness of any means of locomotion."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"It furnished an easy means of locomotion, the task of stabling was not difficult and the cost of food nothing."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # fertilizer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance such as manure or a mixture of nitrates used to make soil more fertile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any substance such as manure or a mixture of nitrates used to make soil more fertile.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Organic waste and cadaver parts unsuitable for constructive purposes (fertilizer) on Charon will be fully sterilized and reduced as close as practicable to zero residue."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Each plant is brought up by hand, as it were, and there is no waste of fertilizer; by spoonfuls the precious stuff is applied to each root instead of being scattered over the ground."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"If a certain value in labor, fertilizer, or material, be applied to an acre of land, it may be more than recovered in the value of the product."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance such as manure or a mixture of nitrates used to make soil more fertile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any substance such as manure or a mixture of nitrates used to make soil more fertile.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Organic waste and cadaver parts unsuitable for constructive purposes (fertilizer) on Charon will be fully sterilized and reduced as close as practicable to zero residue."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Each plant is brought up by hand, as it were, and there is no waste of fertilizer; by spoonfuls the precious stuff is applied to each root instead of being scattered over the ground."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"If a certain value in labor, fertilizer, or material, be applied to an acre of land, it may be more than recovered in the value of the product."*

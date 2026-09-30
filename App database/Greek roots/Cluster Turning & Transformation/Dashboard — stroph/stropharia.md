@@ -5,13 +5,6 @@ status: unread
 ---
 # stropharia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of gill fungi with brown spores that is closely related to agaricus; here placed in its own family strophariaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of gill fungi with brown spores that is closely related to agaricus; here placed in its own family strophariaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stropharia designates genus of gill fungi with brown spores that is closely related to agaricus; here placed in its own family strophariaceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of gill fungi with brown spores that is closely related to agaricus; here placed in its own family strophariaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of gill fungi with brown spores that is closely related to agaricus; here placed in its own family strophariaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stropharia designates genus of gill fungi with brown spores that is closely related to agaricus; here placed in its own family strophariaceae."*

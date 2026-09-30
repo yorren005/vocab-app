@@ -5,13 +5,6 @@ status: unread
 ---
 # salol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white powder with a pleasant taste and odor; used to absorb light in sun tan lotions or as a preservative or an antiseptic or a coating for pills in which the medicine is intended for enteric release.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white powder with a pleasant taste and odor; used to absorb light in sun tan lotions or as a preservative or an antiseptic or a coating for pills in which the medicine is intended for enteric release.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salol designates a white powder with a pleasant taste and odor; used to absorb light in sun tan lotions or as a preservative or an antiseptic or a coating for pills in which the medicine is intended for enteric release."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white powder with a pleasant taste and odor; used to absorb light in sun tan lotions or as a preservative or an antiseptic or a coating for pills in which the medicine is intended for enteric release.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white powder with a pleasant taste and odor; used to absorb light in sun tan lotions or as a preservative or an antiseptic or a coating for pills in which the medicine is intended for enteric release.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salol designates a white powder with a pleasant taste and odor; used to absorb light in sun tan lotions or as a preservative or an antiseptic or a coating for pills in which the medicine is intended for enteric release."*

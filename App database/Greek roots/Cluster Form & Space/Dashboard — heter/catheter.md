@@ -5,13 +5,6 @@ status: unread
 ---
 # catheter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin flexible tube inserted into the body to permit introduction or withdrawal of fluids or to keep the passageway open.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin flexible tube inserted into the body to permit introduction or withdrawal of fluids or to keep the passageway open.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"First he tickled her Then he patted her Then he passed the female catheter For he was a medical Jolly old medi... —I feel you would need one more for _Hamlet._ Seven is dear to the mystic mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin flexible tube inserted into the body to permit introduction or withdrawal of fluids or to keep the passageway open.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin flexible tube inserted into the body to permit introduction or withdrawal of fluids or to keep the passageway open.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"First he tickled her Then he patted her Then he passed the female catheter For he was a medical Jolly old medi... —I feel you would need one more for _Hamlet._ Seven is dear to the mystic mind."*

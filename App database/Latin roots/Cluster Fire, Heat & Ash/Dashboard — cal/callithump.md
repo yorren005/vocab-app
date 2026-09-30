@@ -5,13 +5,6 @@ status: unread
 ---
 # callithump
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A noisy boisterous parade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A noisy mock serenade (made by banging pans and kettles) to a newly married couple.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callithump designates a noisy boisterous parade."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A noisy boisterous parade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A noisy mock serenade (made by banging pans and kettles) to a newly married couple.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callithump designates a noisy boisterous parade."*

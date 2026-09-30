@@ -5,15 +5,6 @@ status: unread
 ---
 # unseal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Break the seal of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Break the seal of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore your oaths Are words and poor conditions; but unseal’d,— At least in my opinion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Presently He did unseal them, and the first he viewed, He did it with a serious mind; a heed Was in his countenance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antonio, you are welcome, And I have better news in store for you Than you expect: unseal this letter soon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Break the seal of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Break the seal of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore your oaths Are words and poor conditions; but unseal’d,— At least in my opinion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Presently He did unseal them, and the first he viewed, He did it with a serious mind; a heed Was in his countenance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antonio, you are welcome, And I have better news in store for you Than you expect: unseal this letter soon."*

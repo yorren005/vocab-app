@@ -5,15 +5,6 @@ status: unread
 ---
 # humanitarian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone devoted to the promotion of human welfare and to social reforms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of the principles of humanism; someone concerned with the interests and welfare of humans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had truly never thought so far as that, and his lucid picture of possible offspring who would scorn her was one that brought deadly convictions to an honest heart which was humanitarian to its centre."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Its aspirations and sympathies lie otherwheres, and it must seek in some sphere of humanitarian activity or Christian usefulness, for work that will gratify its longings."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"While I admit the possible weight of these various contentions, my interest in expansion is broadly humanitarian."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone devoted to the promotion of human welfare and to social reforms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of the principles of humanism; someone concerned with the interests and welfare of humans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had truly never thought so far as that, and his lucid picture of possible offspring who would scorn her was one that brought deadly convictions to an honest heart which was humanitarian to its centre."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Its aspirations and sympathies lie otherwheres, and it must seek in some sphere of humanitarian activity or Christian usefulness, for work that will gratify its longings."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"While I admit the possible weight of these various contentions, my interest in expansion is broadly humanitarian."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # flurry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rapid active commotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light brief snowfall and gust of wind (or something resembling that).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba flung down the brush, crook, and empty hive, pulled the skirt of her dress tightly round her ankles in a tremendous flurry, and as well as she could slid down the ladder."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"If so be ’tis not true, ’twill flurry her, and do her much harm to repeat it; and if so be ’tis true, ’twill do no good to forestall her time o’ trouble."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I had so hoped and prayed that he might be converted in this revival! and now he has rode away, and says that _he will not come back till this religious flurry is over_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rapid active commotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light brief snowfall and gust of wind (or something resembling that).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba flung down the brush, crook, and empty hive, pulled the skirt of her dress tightly round her ankles in a tremendous flurry, and as well as she could slid down the ladder."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"If so be ’tis not true, ’twill flurry her, and do her much harm to repeat it; and if so be ’tis true, ’twill do no good to forestall her time o’ trouble."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"I had so hoped and prayed that he might be converted in this revival! and now he has rode away, and says that _he will not come back till this religious flurry is over_."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # unseamed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no seams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smooth, especially of skin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"One gallant steed is stretched a mangled corse; Another, hideous sight! unseamed appears, His gory chest unveils life's panting source; Though death-struck, still his feeble frame he rears; Staggering, but stemming all, his lord unharmed he bears."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no seams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smooth, especially of skin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"One gallant steed is stretched a mangled corse; Another, hideous sight! unseamed appears, His gory chest unveils life's panting source; Though death-struck, still his feeble frame he rears; Staggering, but stemming all, his lord unharmed he bears."*

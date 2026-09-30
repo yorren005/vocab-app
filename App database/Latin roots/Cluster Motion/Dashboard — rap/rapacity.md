@@ -5,15 +5,6 @@ status: unread
 ---
 # rapacity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme gluttony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reprehensible acquisitiveness; insatiable desire for wealth (personified as one of the deadly sins).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In a small loan market they to some extent protect the weak borrower at the moment of distress from the rapacity of the would-be usurer."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There has been great need to check the rapacity of the "loan-shark" in the cities."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"A taint of imbecile rapacity blew through it all, like a whiff from some corpse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme gluttony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reprehensible acquisitiveness; insatiable desire for wealth (personified as one of the deadly sins).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In a small loan market they to some extent protect the weak borrower at the moment of distress from the rapacity of the would-be usurer."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There has been great need to check the rapacity of the "loan-shark" in the cities."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"A taint of imbecile rapacity blew through it all, like a whiff from some corpse."*

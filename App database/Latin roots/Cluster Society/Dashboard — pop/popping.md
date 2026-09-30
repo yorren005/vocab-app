@@ -5,15 +5,6 @@ status: unread
 ---
 # popping
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sharp explosive sound as from a gunshot or drawing a cork.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bulge outward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hence for several hours in the early morning of Christmas Day such a popping and banging of firearms goes on that a stranger might think a stubborn skirmish was in progress."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"You know that big box of corn Uncle Sam sent us for popping?"*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Very soon the children were busy popping the corn, while their mother went out to buy the paper bags."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sharp explosive sound as from a gunshot or drawing a cork.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bulge outward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hence for several hours in the early morning of Christmas Day such a popping and banging of firearms goes on that a stranger might think a stubborn skirmish was in progress."*
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"You know that big box of corn Uncle Sam sent us for popping?"*
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Very soon the children were busy popping the corn, while their mother went out to buy the paper bags."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # rodentia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small gnawing animals: porcupines; rats; mice; squirrels; marmots; beavers; gophers; voles; hamsters; guinea pigs; agoutis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small gnawing animals: porcupines; rats; mice; squirrels; marmots; beavers; gophers; voles; hamsters; guinea pigs; agoutis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rodentia designates small gnawing animals: porcupines; rats; mice; squirrels; marmots; beavers; gophers; voles; hamsters; guinea pigs; agoutis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small gnawing animals: porcupines; rats; mice; squirrels; marmots; beavers; gophers; voles; hamsters; guinea pigs; agoutis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small gnawing animals: porcupines; rats; mice; squirrels; marmots; beavers; gophers; voles; hamsters; guinea pigs; agoutis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rodentia designates small gnawing animals: porcupines; rats; mice; squirrels; marmots; beavers; gophers; voles; hamsters; guinea pigs; agoutis."*

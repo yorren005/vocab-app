@@ -5,15 +5,6 @@ status: unread
 ---
 # marry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take in marriage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform a marriage ceremony.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virginity being blown down, man will quicklier be blown up; marry, in blowing him down again, with the breach yourselves made, you lose your city."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, ill, to like him that ne’er it likes. ’Tis a commodity will lose the gloss with lying; the longer kept, the less worth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And your virginity, your old virginity, is like one of our French wither’d pears; it looks ill, it eats drily; marry, ’tis a wither’d pear; it was formerly better; marry, yet ’tis a wither’d pear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take in marriage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform a marriage ceremony.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virginity being blown down, man will quicklier be blown up; marry, in blowing him down again, with the breach yourselves made, you lose your city."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, ill, to like him that ne’er it likes. ’Tis a commodity will lose the gloss with lying; the longer kept, the less worth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And your virginity, your old virginity, is like one of our French wither’d pears; it looks ill, it eats drily; marry, ’tis a wither’d pear; it was formerly better; marry, yet ’tis a wither’d pear."*

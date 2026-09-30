@@ -5,15 +5,6 @@ status: unread
 ---
 # recuperative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Promoting recuperation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Promoting recuperation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The recuperative power which pervaded organic nature was surely not denied to maidenhood alone."*
-> - 📜 **Bram Stoker (*Dracula*):** *"It is wonderful, however, what intellectual recuperative power lunatics have, for within a few minutes he stood up quite calmly and looked around him."*
-> - 📜 **Bram Stoker (*Dracula*):** *"God’s will be done!” With his usual recuperative energy, he went on: “Come."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Promoting recuperation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Promoting recuperation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The recuperative power which pervaded organic nature was surely not denied to maidenhood alone."*
+> - 📜 **Bram Stoker (*Dracula*):** *"It is wonderful, however, what intellectual recuperative power lunatics have, for within a few minutes he stood up quite calmly and looked around him."*
+> - 📜 **Bram Stoker (*Dracula*):** *"God’s will be done!” With his usual recuperative energy, he went on: “Come."*

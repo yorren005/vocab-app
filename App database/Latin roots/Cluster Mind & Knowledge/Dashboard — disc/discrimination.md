@@ -5,15 +5,6 @@ status: unread
 ---
 # discrimination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unfair treatment of a person or group on the basis of prejudice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cognitive process whereby two or more stimuli are distinguished.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The young man, thus invited, glanced them over, and attempted some discrimination; but, as the group were all so new to him, he could not very well exercise it."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Discrimination as to goods. § 10."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Personal discrimination. § 12."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unfair treatment of a person or group on the basis of prejudice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cognitive process whereby two or more stimuli are distinguished.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The young man, thus invited, glanced them over, and attempted some discrimination; but, as the group were all so new to him, he could not very well exercise it."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Discrimination as to goods. § 10."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Personal discrimination. § 12."*

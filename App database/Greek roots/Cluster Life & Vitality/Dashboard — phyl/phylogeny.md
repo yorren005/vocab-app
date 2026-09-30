@@ -5,13 +5,6 @@ status: unread
 ---
 # phylogeny
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) the sequence of events involved in the evolutionary development of a species or taxonomic group of organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) the sequence of events involved in the evolutionary development of a species or taxonomic group of organisms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylogeny designates (biology) the sequence of events involved in the evolutionary development of a species or taxonomic group of organisms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) the sequence of events involved in the evolutionary development of a species or taxonomic group of organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) the sequence of events involved in the evolutionary development of a species or taxonomic group of organisms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylogeny designates (biology) the sequence of events involved in the evolutionary development of a species or taxonomic group of organisms."*

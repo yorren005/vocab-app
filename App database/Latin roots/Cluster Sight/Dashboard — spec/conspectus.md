@@ -5,13 +5,6 @@ status: unread
 ---
 # conspectus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An overall summary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overall summary.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conspectus designates an overall summary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An overall summary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overall summary.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conspectus designates an overall summary."*

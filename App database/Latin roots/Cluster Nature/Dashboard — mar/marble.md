@@ -5,15 +5,6 @@ status: unread
 ---
 # marble
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard crystalline metamorphic rock that takes a high polish; used for sculpture and as building material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small ball of glass that is used in various games.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now from head to foot I am marble-constant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If voluble and sharp discourse be marr’d, Unkindness blunts it more than marble hard."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peep through thy marble mansion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard crystalline metamorphic rock that takes a high polish; used for sculpture and as building material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small ball of glass that is used in various games.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now from head to foot I am marble-constant."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If voluble and sharp discourse be marr’d, Unkindness blunts it more than marble hard."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peep through thy marble mansion."*

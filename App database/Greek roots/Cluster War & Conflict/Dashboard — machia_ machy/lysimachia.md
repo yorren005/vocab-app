@@ -5,13 +5,6 @@ status: unread
 ---
 # lysimachia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loosestrife: a cosmopolitan genus found in damp or swampy terrain having usually yellow flowers; inclined to be invasive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loosestrife: a cosmopolitan genus found in damp or swampy terrain having usually yellow flowers; inclined to be invasive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lysimachia designates loosestrife: a cosmopolitan genus found in damp or swampy terrain having usually yellow flowers; inclined to be invasive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Loosestrife: a cosmopolitan genus found in damp or swampy terrain having usually yellow flowers; inclined to be invasive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loosestrife: a cosmopolitan genus found in damp or swampy terrain having usually yellow flowers; inclined to be invasive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lysimachia designates loosestrife: a cosmopolitan genus found in damp or swampy terrain having usually yellow flowers; inclined to be invasive."*

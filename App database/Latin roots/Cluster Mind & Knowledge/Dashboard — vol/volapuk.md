@@ -5,13 +5,6 @@ status: unread
 ---
 # volapuk
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the first artificial language constructed for use as an auxiliary international language; based largely on english but with some german and french and latin roots.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the first artificial language constructed for use as an auxiliary international language; based largely on english but with some german and french and latin roots.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volapuk designates one of the first artificial language constructed for use as an auxiliary international language; based largely on english but with some german and french and latin roots."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the first artificial language constructed for use as an auxiliary international language; based largely on english but with some german and french and latin roots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the first artificial language constructed for use as an auxiliary international language; based largely on english but with some german and french and latin roots.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volapuk designates one of the first artificial language constructed for use as an auxiliary international language; based largely on english but with some german and french and latin roots."*

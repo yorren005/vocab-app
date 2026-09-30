@@ -5,15 +5,6 @@ status: unread
 ---
 # cell
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any small compartment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But unto us it is A cell of ignorance, travelling abed, A prison for a debtor that not dares To stride a limit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O proud death, What feast is toward in thine eternal cell, That thou so many princes at a shot So bloodily hast struck?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hence will I to my ghostly Sire’s cell, His help to crave and my dear hap to tell. [_Exit._] SCENE III."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any small compartment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But unto us it is A cell of ignorance, travelling abed, A prison for a debtor that not dares To stride a limit."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O proud death, What feast is toward in thine eternal cell, That thou so many princes at a shot So bloodily hast struck?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hence will I to my ghostly Sire’s cell, His help to crave and my dear hap to tell. [_Exit._] SCENE III."*

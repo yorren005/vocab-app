@@ -5,15 +5,6 @@ status: unread
 ---
 # abdomen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The region of the body of a vertebrate between the thorax and the pelvis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cavity containing the major viscera; in mammals it is separated from the thorax by the diaphragm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And my abdomen—why, man, I am growing so stout that my case will be a scandal of prison overfeeding."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I found that I could suspend animation by the exercise of my will, aided mechanically by constricting my chest and abdomen with the blanket."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Now, as to Brad Curtin." Narval leaned back and entwined his fingers across his abdomen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The region of the body of a vertebrate between the thorax and the pelvis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cavity containing the major viscera; in mammals it is separated from the thorax by the diaphragm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And my abdomen—why, man, I am growing so stout that my case will be a scandal of prison overfeeding."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I found that I could suspend animation by the exercise of my will, aided mechanically by constricting my chest and abdomen with the blanket."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Now, as to Brad Curtin." Narval leaned back and entwined his fingers across his abdomen."*

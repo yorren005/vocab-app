@@ -5,15 +5,6 @@ status: unread
 ---
 # grotesque
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having the characteristics of the grotesque: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fanciful, bizarre.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is something grotesque in it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"None of these sports or exercises being pursued in George’s Shooting Gallery to-night, which is so devoid of company that a little grotesque man with a large head has it all to himself and lies asleep upon the floor."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Between the tower and the church was a close screen, the door of which was kept shut during services, hiding this grotesque clockwork from sight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having the characteristics of the grotesque: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fanciful, bizarre.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"There is something grotesque in it."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"None of these sports or exercises being pursued in George’s Shooting Gallery to-night, which is so devoid of company that a little grotesque man with a large head has it all to himself and lies asleep upon the floor."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Between the tower and the church was a close screen, the door of which was kept shut during services, hiding this grotesque clockwork from sight."*

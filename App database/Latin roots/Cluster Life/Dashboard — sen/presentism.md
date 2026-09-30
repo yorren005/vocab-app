@@ -5,13 +5,6 @@ status: unread
 ---
 # presentism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that the scripture prophecies of the apocalypse (as in the book of revelations) are presently in the course of being fulfilled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine that the scripture prophecies of the apocalypse (as in the book of revelations) are presently in the course of being fulfilled.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, presentism designates the doctrine that the scripture prophecies of the apocalypse (as in the book of revelations) are presently in the course of being fulfilled."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that the scripture prophecies of the apocalypse (as in the book of revelations) are presently in the course of being fulfilled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine that the scripture prophecies of the apocalypse (as in the book of revelations) are presently in the course of being fulfilled.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, presentism designates the doctrine that the scripture prophecies of the apocalypse (as in the book of revelations) are presently in the course of being fulfilled."*

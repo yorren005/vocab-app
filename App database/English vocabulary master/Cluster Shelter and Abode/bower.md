@@ -5,20 +5,6 @@ status: unread
 ---
 # bower
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Attractive dwelling or retreat
-> 2. **Nuance / Usage**: Shady, leafy shelter or recess in a garden or woods
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"To bear him to my bower in fairyland."*
-> - 📜 **George Gascoigne (*A Lady being both wronged by false suspect, and also wounded by the durance of hir husband, doth thus bewray hir grief.*):** *"Give me my lute in bed now as I lie, / And lock the doors of mine unlucky bower."*
-> - 📜 **{{w (*Soldiers' Women*):** *"Rosa refused to return to the lair of the raper, but was induced to give Tudy what his mother described as ‘his last bit of happiness’ in a bower hastily got ready at Montrose, the La Plante mansion on Greenock Heights."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A pleasant, shady retreat or shelter under trees or climbing plants in a garden or woodland; an arbor.
+> 2. **Nuance / Usage**: Historically and poetically, a lady's private apartment or inner chamber in a medieval castle or hall.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"I know a bank where the wild thyme blows, quite over-canopied with luscious woodbine, where Titania sometime sleeps in her **bower**."*
+> - 📜 **John Keats (*Endymion*):** *"A thing of beauty is a joy for ever: its loveliness increases; it will never pass into nothingness, but still will keep a **bower** quiet for us."*
+> - 📜 **Alfred, Lord Tennyson (*The Lady of Shalott*):** *"Four gray walls, and four gray towers, overlook a space of flowers, and the silent isle imbowers the Lady of Shalott in her **bower**."*

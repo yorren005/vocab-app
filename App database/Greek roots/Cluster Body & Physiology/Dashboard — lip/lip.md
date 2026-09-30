@@ -5,15 +5,6 @@ status: unread
 ---
 # lip
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two fleshy folds that surround the mouth in humans and many other vertebrates and are organs of human speech essential to certain articulations; also : the red or pinkish margin of the human lip.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two fleshy folds that surround the mouth in humans and many other vertebrates and are organs of human speech essential to certain articulations; also : the red or pinkish margin of the human lip.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But all the charms of love, Salt Cleopatra, soften thy waned lip!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now no more The juice of Egypt’s grape shall moist this lip."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There was a pretty redness in his lip, A little riper and more lusty red Than that mixed in his cheek. ’Twas just the difference Betwixt the constant red and mingled damask."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two fleshy folds that surround the mouth in humans and many other vertebrates and are organs of human speech essential to certain articulations; also : the red or pinkish margin of the human lip.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two fleshy folds that surround the mouth in humans and many other vertebrates and are organs of human speech essential to certain articulations; also : the red or pinkish margin of the human lip.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But all the charms of love, Salt Cleopatra, soften thy waned lip!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now no more The juice of Egypt’s grape shall moist this lip."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There was a pretty redness in his lip, A little riper and more lusty red Than that mixed in his cheek. ’Twas just the difference Betwixt the constant red and mingled damask."*

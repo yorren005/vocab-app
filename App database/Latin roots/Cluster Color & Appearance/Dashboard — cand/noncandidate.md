@@ -5,13 +5,6 @@ status: unread
 ---
 # noncandidate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has announced they are not a candidate; especially a politician who has announced that he or she is not a candidate for some political office.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who has announced they are not a candidate; especially a politician who has announced that he or she is not a candidate for some political office.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noncandidate designates someone who has announced they are not a candidate; especially a politician who has announced that he or she is not a candidate for some political office."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has announced they are not a candidate; especially a politician who has announced that he or she is not a candidate for some political office.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who has announced they are not a candidate; especially a politician who has announced that he or she is not a candidate for some political office.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noncandidate designates someone who has announced they are not a candidate; especially a politician who has announced that he or she is not a candidate for some political office."*

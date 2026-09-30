@@ -5,15 +5,6 @@ status: unread
 ---
 # unconsciously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without awareness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without awareness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Isn't it possible that the child should have unconsciously said an impertinence?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Blinder, unconsciously fixing Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If she were to try one, she would find her teeth in her way, modelling that action of her face, as she has unconsciously modelled all its other expressions, on her pattern of sordid age."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without awareness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without awareness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Isn't it possible that the child should have unconsciously said an impertinence?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Blinder, unconsciously fixing Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"If she were to try one, she would find her teeth in her way, modelling that action of her face, as she has unconsciously modelled all its other expressions, on her pattern of sordid age."*

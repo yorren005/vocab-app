@@ -5,15 +5,6 @@ status: unread
 ---
 # diplomacy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art and practice of conducting negotiations between nations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skill in handling affairs without arousing hostility : tact.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He should be dealt with according to the rules of his own game, and not those of normal interplanetary or interregional diplomacy." "Explain." "Agents that conduct a mission such as his are expendable, Mr."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"There is a _naïf_ side, I suppose, in all diplomacy; but if my pupils practiced upon me, it was surely with the minimum of grossness."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"A hospital was to be created, and this required all the tact, finesse and diplomacy of which a woman is capable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art and practice of conducting negotiations between nations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skill in handling affairs without arousing hostility : tact.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He should be dealt with according to the rules of his own game, and not those of normal interplanetary or interregional diplomacy." "Explain." "Agents that conduct a mission such as his are expendable, Mr."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"There is a _naïf_ side, I suppose, in all diplomacy; but if my pupils practiced upon me, it was surely with the minimum of grossness."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"A hospital was to be created, and this required all the tact, finesse and diplomacy of which a woman is capable."*

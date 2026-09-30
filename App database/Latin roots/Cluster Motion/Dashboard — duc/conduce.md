@@ -5,15 +5,6 @@ status: unread
 ---
 # conduce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be conducive to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be conducive to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reasons you allege do more conduce To the hot passion of distemp’red blood Than to make up a free determination ’Twixt right and wrong; for pleasure and revenge Have ears more deaf than adders to the voice Of any true decision."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"At this very moment he is wild to see you, and occupied only in contriving the means for doing so, and for making his pleasure conduce to yours."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But it is not in this aspect of the subject alone that Union will be seen to conduce to the purpose of revenue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be conducive to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be conducive to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reasons you allege do more conduce To the hot passion of distemp’red blood Than to make up a free determination ’Twixt right and wrong; for pleasure and revenge Have ears more deaf than adders to the voice Of any true decision."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"At this very moment he is wild to see you, and occupied only in contriving the means for doing so, and for making his pleasure conduce to yours."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But it is not in this aspect of the subject alone that Union will be seen to conduce to the purpose of revenue."*

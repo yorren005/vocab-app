@@ -5,13 +5,6 @@ status: unread
 ---
 # halon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound in which the hydrogen atoms of a hydrocarbon have been replaced by bromine and other halogen atoms; very stable; used in fire extinguishers although it is thought to release bromine that depletes the ozone layer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound in which the hydrogen atoms of a hydrocarbon have been replaced by bromine and other halogen atoms; very stable; used in fire extinguishers although it is thought to release bromine that depletes the ozone layer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halon designates a compound in which the hydrogen atoms of a hydrocarbon have been replaced by bromine and other halogen atoms; very stable; used in fire extinguishers although it is thought to release bromine that depletes the ozone layer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound in which the hydrogen atoms of a hydrocarbon have been replaced by bromine and other halogen atoms; very stable; used in fire extinguishers although it is thought to release bromine that depletes the ozone layer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compound in which the hydrogen atoms of a hydrocarbon have been replaced by bromine and other halogen atoms; very stable; used in fire extinguishers although it is thought to release bromine that depletes the ozone layer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halon designates a compound in which the hydrogen atoms of a hydrocarbon have been replaced by bromine and other halogen atoms; very stable; used in fire extinguishers although it is thought to release bromine that depletes the ozone layer."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # bombycid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderate-sized asiatic moth whose larvae feed on mulberry leaves and produce silk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moderate-sized asiatic moth whose larvae feed on mulberry leaves and produce silk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombycid designates moderate-sized asiatic moth whose larvae feed on mulberry leaves and produce silk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderate-sized asiatic moth whose larvae feed on mulberry leaves and produce silk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moderate-sized asiatic moth whose larvae feed on mulberry leaves and produce silk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombycid designates moderate-sized asiatic moth whose larvae feed on mulberry leaves and produce silk."*

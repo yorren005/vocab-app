@@ -5,15 +5,6 @@ status: unread
 ---
 # canaries
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of mountainous islands in the atlantic off the northwest coast of africa forming spanish provinces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone acting as an informer or decoy for the police.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, i’ faith, you have drunk too much canaries, and that’s a marvellous searching wine, and it perfumes the blood ere one can say “What’s this?” How do you now?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, this is the short and the long of it: you have brought her into such a canaries as ’tis wonderful."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It must be a continent, or at least an island—one of the Canaries, or of the Cape Verde Islands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of mountainous islands in the atlantic off the northwest coast of africa forming spanish provinces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone acting as an informer or decoy for the police.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, i’ faith, you have drunk too much canaries, and that’s a marvellous searching wine, and it perfumes the blood ere one can say “What’s this?” How do you now?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, this is the short and the long of it: you have brought her into such a canaries as ’tis wonderful."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It must be a continent, or at least an island—one of the Canaries, or of the Cape Verde Islands."*

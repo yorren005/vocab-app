@@ -5,15 +5,6 @@ status: unread
 ---
 # precipitately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At breakneck speed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At breakneck speed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Krook’s back second floor, from which a few of the jurymen retire pale and precipitately."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"We have proved ourselves cowards; but if you will pardon me, M. le Maire, you, too, re-entered precipitately--you too!"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A clergyman in the State of New York, through the influence of a disaffected member, was unfairly and precipitately deprived of his pulpit, which involved a large family in necessity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At breakneck speed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At breakneck speed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Krook’s back second floor, from which a few of the jurymen retire pale and precipitately."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"We have proved ourselves cowards; but if you will pardon me, M. le Maire, you, too, re-entered precipitately--you too!"*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A clergyman in the State of New York, through the influence of a disaffected member, was unfairly and precipitately deprived of his pulpit, which involved a large family in necessity."*

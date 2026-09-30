@@ -5,15 +5,6 @@ status: unread
 ---
 # compassionate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Share the suffering of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing or having compassion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It boots thee not to be compassionate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Aaron is gone, and my compassionate heart Will not permit mine eyes once to behold The thing whereat it trembles by surmise."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, if no harder than a stone thou art, Melt at my tears and be compassionate!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Share the suffering of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing or having compassion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It boots thee not to be compassionate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Aaron is gone, and my compassionate heart Will not permit mine eyes once to behold The thing whereat it trembles by surmise."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, if no harder than a stone thou art, Melt at my tears and be compassionate!"*

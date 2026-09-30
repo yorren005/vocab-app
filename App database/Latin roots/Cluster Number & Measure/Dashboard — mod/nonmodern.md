@@ -5,13 +5,6 @@ status: unread
 ---
 # nonmodern
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not modern; of or characteristic of an earlier time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not modern; of or characteristic of an earlier time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonmodern designates not modern; of or characteristic of an earlier time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not modern; of or characteristic of an earlier time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not modern; of or characteristic of an earlier time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonmodern designates not modern; of or characteristic of an earlier time."*

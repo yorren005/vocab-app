@@ -5,13 +5,6 @@ status: unread
 ---
 # mobilisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of marshaling and organizing and making ready for use or action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of assembling and putting into readiness for war or other emergency:.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mobilisation designates act of marshaling and organizing and making ready for use or action."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of marshaling and organizing and making ready for use or action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of assembling and putting into readiness for war or other emergency:.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mobilisation designates act of marshaling and organizing and making ready for use or action."*

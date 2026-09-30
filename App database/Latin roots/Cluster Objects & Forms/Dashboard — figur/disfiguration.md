@@ -5,13 +5,6 @@ status: unread
 ---
 # disfiguration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An appearance that has been spoiled or is misshapen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of damaging the appearance or surface of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It's the like of a disfiguration that all can see."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An appearance that has been spoiled or is misshapen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of damaging the appearance or surface of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It's the like of a disfiguration that all can see."*

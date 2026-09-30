@@ -5,14 +5,6 @@ status: unread
 ---
 # insider
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer of a corporation or others who have access to private information about the corporation's operations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer of a corporation or others who have access to private information about the corporation's operations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A triangular opening faced towards the bows of the ship, so that the insider commanded a complete view forward."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"A triangular opening faced towards the bows of the ship, so that the insider commanded a complete view forward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer of a corporation or others who have access to private information about the corporation's operations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer of a corporation or others who have access to private information about the corporation's operations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A triangular opening faced towards the bows of the ship, so that the insider commanded a complete view forward."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"A triangular opening faced towards the bows of the ship, so that the insider commanded a complete view forward."*

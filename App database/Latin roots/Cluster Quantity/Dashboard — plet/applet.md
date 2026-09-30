@@ -5,13 +5,6 @@ status: unread
 ---
 # applet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A java application; an application program that uses the client's web browser to provide a user interface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A java application; an application program that uses the client's web browser to provide a user interface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, applet designates a java application; an application program that uses the client's web browser to provide a user interface."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A java application; an application program that uses the client's web browser to provide a user interface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A java application; an application program that uses the client's web browser to provide a user interface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, applet designates a java application; an application program that uses the client's web browser to provide a user interface."*

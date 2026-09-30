@@ -5,13 +5,6 @@ status: unread
 ---
 # anthropocentricity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination to evaluate reality exclusively in terms of human values.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclination to evaluate reality exclusively in terms of human values.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropocentricity designates an inclination to evaluate reality exclusively in terms of human values."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination to evaluate reality exclusively in terms of human values.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclination to evaluate reality exclusively in terms of human values.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropocentricity designates an inclination to evaluate reality exclusively in terms of human values."*

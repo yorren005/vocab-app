@@ -5,15 +5,6 @@ status: unread
 ---
 # transparency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Permitting the free passage of electromagnetic radiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being clear and transparent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket, who has seen through the transparency of Mrs."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She had seized on it with her unerring tact: this was right for Isabel, this dim transparency of rosepoint modelling itself over the immature slenderness of nineteen: and she and her maid Catherine and Mrs."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And your painter’s flesh is good—solidity, transparency, everything of that sort."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Permitting the free passage of electromagnetic radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being clear and transparent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket, who has seen through the transparency of Mrs."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"She had seized on it with her unerring tact: this was right for Isabel, this dim transparency of rosepoint modelling itself over the immature slenderness of nineteen: and she and her maid Catherine and Mrs."*
+> - 📜 **George Eliot (*Middlemarch*):** *"And your painter’s flesh is good—solidity, transparency, everything of that sort."*

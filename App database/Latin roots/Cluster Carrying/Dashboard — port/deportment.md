@@ -5,15 +5,6 @@ status: unread
 ---
 # deportment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (behavioral attributes) the way a person behaves toward other people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (behavioral attributes) the way a person behaves toward other people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Us London lawyers don’t often get an out, and when we do, we like to make the most of it, you know.” The old housekeeper, with a gracious severity of deportment, waves her hand towards the great staircase."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle with her commanding deportment."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn, without any other alteration in their customary deportment, have looked very steadily at one another—as was natural, perhaps, in the discussion of so unusual a subject."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (behavioral attributes) the way a person behaves toward other people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (behavioral attributes) the way a person behaves toward other people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Us London lawyers don’t often get an out, and when we do, we like to make the most of it, you know.” The old housekeeper, with a gracious severity of deportment, waves her hand towards the great staircase."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle with her commanding deportment."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn, without any other alteration in their customary deportment, have looked very steadily at one another—as was natural, perhaps, in the discussion of so unusual a subject."*

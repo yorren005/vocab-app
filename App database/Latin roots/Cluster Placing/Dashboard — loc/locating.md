@@ -5,15 +5,6 @@ status: unread
 ---
 # locating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of putting something in a certain place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A determination of the place where something is.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Number 67!' I made a big deal out of hauling the list from my back pocket, carefully unfolding it, locating the number and reading the title aloud."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Dorlan reached the ground in safety and received the congratulations of the spectators, who, guided by the light attached to the balloon, had succeeded in locating the possible point of descent."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Locating the weak points, we must proceed to induce in the Negro such mental and moral characteristics, and must so regulate his environments as to insure efficient co-operation for all the future."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of putting something in a certain place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A determination of the place where something is.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Number 67!' I made a big deal out of hauling the list from my back pocket, carefully unfolding it, locating the number and reading the title aloud."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Dorlan reached the ground in safety and received the congratulations of the spectators, who, guided by the light attached to the balloon, had succeeded in locating the possible point of descent."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Locating the weak points, we must proceed to induce in the Negro such mental and moral characteristics, and must so regulate his environments as to insure efficient co-operation for all the future."*

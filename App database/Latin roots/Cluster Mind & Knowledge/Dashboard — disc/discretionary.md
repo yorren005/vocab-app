@@ -5,15 +5,6 @@ status: unread
 ---
 # discretionary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or using the ability to act or decide according to your own discretion or judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (especially of funds) not earmarked; available for use as needed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The legislature, with a discretionary power over the salary and emoluments of the Chief Magistrate, could render him as obsequious to their will as they might think proper to make him."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"In the correction of children and pupils, a discretionary power was allowed."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"On the contrary they all assert that the power in its very nature is a discretionary one, to be exercised of course with grave circumspection at all times, and only for good cause."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or using the ability to act or decide according to your own discretion or judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (especially of funds) not earmarked; available for use as needed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The legislature, with a discretionary power over the salary and emoluments of the Chief Magistrate, could render him as obsequious to their will as they might think proper to make him."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"In the correction of children and pupils, a discretionary power was allowed."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"On the contrary they all assert that the power in its very nature is a discretionary one, to be exercised of course with grave circumspection at all times, and only for good cause."*

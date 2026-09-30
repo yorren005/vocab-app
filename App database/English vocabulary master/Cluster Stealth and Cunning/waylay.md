@@ -5,20 +5,6 @@ status: unread
 ---
 # waylay
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Lie in wait for or attack (someone) from ambush
-> 2. **Nuance / Usage**: (transitive) to accost or intercept unexpectedly
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to waylay the target*) and intransitive clauses (*waylaying against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"She knows that the King is capable of having her waylaid and searched."*
-> - 📜 **James Joyce (*Ulysses*):** *"Outside la Maison Claire Blazes Boylan waylaid Jack Mooney’s brother-in-law, humpy, tight, making for the liberties."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"My beloved reader has no doubt in the course of his experience been waylaid by many such a luckless companion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To lie in wait for and attack or rob someone from ambush along a road or passage.
+> 2. **Nuance / Usage**: In modern usage, often softened to mean intercepting, stopping, or detaining someone unexpectedly as they pass by in order to speak with them or ask a favor.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive; past tense *waylaid*).
+> - **Syntactic Constructions**: Operates in transitive and passive clauses (*waylaid the courier*, *was waylaid in the corridor*).
+> - **Collocations & Registers**: Historical adventure and conversational registers; collocated with *highwaymen*, *travelers*, *corridor*, and *reporters*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"She knows that the King is capable of having her **waylaid** and searched."*
+> - 📜 **James Joyce (*Ulysses*):** *"Outside la Maison Claire, Blazes Boylan **waylaid** Jack Mooney’s brother-in-law, making for the liberties."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"My beloved reader has no doubt in the course of his experience been **waylaid** by many such a luckless companion."*

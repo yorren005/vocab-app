@@ -5,13 +5,6 @@ status: unread
 ---
 # imperfectibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability of becoming imperfect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capability of becoming imperfect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imperfectibility designates the capability of becoming imperfect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability of becoming imperfect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capability of becoming imperfect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imperfectibility designates the capability of becoming imperfect."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # fancier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person having a strong liking for something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not plain; decorative or ornamented.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"By the by; you were quite a pigeon-fancier.” The man looked up at the sky."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I am somewhat of a fowl fancier, and I have seldom seen a better grown goose.” “Certainly, sir,” said Baker, who had risen and tucked his newly gained property under his arm."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The landowner to whom Nicholas went was a bachelor, an old cavalryman, a horse fancier, a sportsman, the possessor of some century-old brandy and some old Hungarian wine, who had a snuggery where he smoked, and who owned some splendid horses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person having a strong liking for something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not plain; decorative or ornamented.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"By the by; you were quite a pigeon-fancier.” The man looked up at the sky."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I am somewhat of a fowl fancier, and I have seldom seen a better grown goose.” “Certainly, sir,” said Baker, who had risen and tucked his newly gained property under his arm."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The landowner to whom Nicholas went was a bachelor, an old cavalryman, a horse fancier, a sportsman, the possessor of some century-old brandy and some old Hungarian wine, who had a snuggery where he smoked, and who owned some splendid horses."*

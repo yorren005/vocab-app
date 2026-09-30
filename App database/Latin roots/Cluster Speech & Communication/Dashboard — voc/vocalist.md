@@ -5,15 +5,6 @@ status: unread
 ---
 # vocalist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who sings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who sings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Policeman at last finds it necessary to support the law and seize a vocalist, who is released upon the flight of the rest on condition of his getting out of this then, come, and cutting it—a condition he immediately observes."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Put the boy aside.” Boy put aside, to the great edification of the audience, especially of Little Swills, the comic vocalist."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Swills, a comic vocalist professionally engaged by Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who sings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who sings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Policeman at last finds it necessary to support the law and seize a vocalist, who is released upon the flight of the rest on condition of his getting out of this then, come, and cutting it—a condition he immediately observes."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Put the boy aside.” Boy put aside, to the great edification of the audience, especially of Little Swills, the comic vocalist."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Swills, a comic vocalist professionally engaged by Mr."*

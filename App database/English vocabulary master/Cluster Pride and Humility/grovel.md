@@ -5,20 +5,6 @@ status: unread
 ---
 # grovel
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Abase oneself
-> 2. **Nuance / Usage**: (intransitive) to be prone on the ground
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to grovel the target*) and intransitive clauses (*groveling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"If so, gaze on, and grovel on thy face, until thy head be circled with the same."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is very much embarrassed about the arms, as if they were inconvenient to him and he wanted to grovel."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I had marked neither modesty, nor benevolence, nor candour, nor refinement in her mind or manners—and, I married her:—gross, grovelling, mole-eyed blockhead that I was!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Abase oneself
+> 2. **Nuance / Usage**: (intransitive) to be prone on the ground
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to grovel the target*) and intransitive clauses (*groveling against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"If so, gaze on, and grovel on thy face, until thy head be circled with the same."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is very much embarrassed about the arms, as if they were inconvenient to him and he wanted to grovel."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I had marked neither modesty, nor benevolence, nor candour, nor refinement in her mind or manners—and, I married her:—gross, grovelling, mole-eyed blockhead that I was!"*

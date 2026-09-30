@@ -5,15 +5,6 @@ status: unread
 ---
 # assimilation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being assimilated; people of different backgrounds come to see themselves as part of a larger national family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The social process of absorbing one cultural group into harmony with another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"One is struck with the amount of that unconscious assimilation of experience which we find in his words, and which is in itself an index to his nature."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill's immense power of assimilation."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And the increased intercourse among those of different States will contribute not a little to diffuse a mutual knowledge of their affairs, as this again will contribute to a general assimilation of their manners and laws."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being assimilated; people of different backgrounds come to see themselves as part of a larger national family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The social process of absorbing one cultural group into harmony with another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"One is struck with the amount of that unconscious assimilation of experience which we find in his words, and which is in itself an index to his nature."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill's immense power of assimilation."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And the increased intercourse among those of different States will contribute not a little to diffuse a mutual knowledge of their affairs, as this again will contribute to a general assimilation of their manners and laws."*

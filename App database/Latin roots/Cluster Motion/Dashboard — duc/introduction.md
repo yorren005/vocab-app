@@ -5,15 +5,6 @@ status: unread
 ---
 # introduction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of beginning something new.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first section of a communication.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pray excuse the introduction of such mean topics.” She partly drew aside the curtain of the long, low garret window and called our attention to a number of bird-cages hanging there, some containing several birds."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Several young lady pupils, ranging from thirteen or fourteen years of age to two or three and twenty, were assembled; and I was looking among them for their instructor when Caddy, pinching my arm, repeated the ceremony of introduction."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle wrote a letter of introduction to my guardian in behalf of her eloquent friend Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of beginning something new.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first section of a communication.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Pray excuse the introduction of such mean topics.” She partly drew aside the curtain of the long, low garret window and called our attention to a number of bird-cages hanging there, some containing several birds."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Several young lady pupils, ranging from thirteen or fourteen years of age to two or three and twenty, were assembled; and I was looking among them for their instructor when Caddy, pinching my arm, repeated the ceremony of introduction."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle wrote a letter of introduction to my guardian in behalf of her eloquent friend Mr."*

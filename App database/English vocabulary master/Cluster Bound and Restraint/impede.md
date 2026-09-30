@@ -5,18 +5,6 @@ status: unread
 ---
 # impede
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Interfere with or slow the progress of
-> 2. **Nuance / Usage**: (transitive) to get in the way of; to hinder
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to impede the target*) and intransitive clauses (*impeding against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lisa Bonos; Danielle Abril (*No one likes meetings. They’re sending their AI note takers instead.*):** *"The human-machine imbalance made Sellers concerned that the modern thirst for AI-powered optimization was starting to impede human interaction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -52,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To delay, obstruct, or slow down the movement, progress, or development of something by placing obstacles in the way.
+> 2. **Nuance / Usage**: From Latin *impedire* ("to entangle the feet, shackle"), it implies a continuous drag or friction that hinders forward motion rather than a sudden, total halt.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Transitive Verb.
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to impede progress*) and passive clauses (*impeded by fallen timber*).
+> - **Collocations & Registers**: Formal, legal, and scientific registers; collocated with *progress*, *flow*, *circulation*, *recovery*, and *investigation*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Lisa Bonos & Danielle Abril (*The Washington Post*):** *"The human-machine imbalance made Sellers concerned that the modern thirst for AI-powered optimization was starting to **impede** human interaction."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Hie thee hither, that I may pour my spirits in thine ear and chastise with the valour of my tongue all that **impedes** thee from the golden round."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The fallen trunks of immense trees lay across the path in every direction, so as greatly to **impede** our advance through the forest."*

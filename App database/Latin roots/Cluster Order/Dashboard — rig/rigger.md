@@ -5,15 +5,6 @@ status: unread
 ---
 # rigger
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who rigs ships.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long slender pointed sable brush used by artists.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Seeing a light, we went down, and found only an old rigger there, wrapped in a tattered pea-jacket."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Starbuck’s astir,” said the rigger."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Seeing a light, we went down, and found only an old rigger there, wrapped in a tattered pea-jacket."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who rigs ships.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long slender pointed sable brush used by artists.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Seeing a light, we went down, and found only an old rigger there, wrapped in a tattered pea-jacket."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Starbuck’s astir,” said the rigger."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Seeing a light, we went down, and found only an old rigger there, wrapped in a tattered pea-jacket."*

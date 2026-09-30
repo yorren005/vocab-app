@@ -5,14 +5,6 @@ status: unread
 ---
 # presenter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who presents a message of some sort (as a petition or an address or a check or a memorial etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate who presents a person (as for an award or a degree or an introduction etc.).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"EPILOGUE Dramatis Personæ RUMOUR, the Presenter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One thing more rests, that thyself execute, To make one among these wooers: if thou ask me why, Sufficeth my reasons are both good and weighty. [_Exeunt._] [_The Presenters above speak._] FIRST SERVANT."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who presents a message of some sort (as a petition or an address or a check or a memorial etc.).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate who presents a person (as for an award or a degree or an introduction etc.).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"EPILOGUE Dramatis Personæ RUMOUR, the Presenter."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One thing more rests, that thyself execute, To make one among these wooers: if thou ask me why, Sufficeth my reasons are both good and weighty. [_Exeunt._] [_The Presenters above speak._] FIRST SERVANT."*

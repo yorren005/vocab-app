@@ -5,13 +5,6 @@ status: unread
 ---
 # chromoblastomycosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fungal infection characterized by itchy warty nodules on the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fungal infection characterized by itchy warty nodules on the skin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromoblastomycosis designates a fungal infection characterized by itchy warty nodules on the skin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fungal infection characterized by itchy warty nodules on the skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fungal infection characterized by itchy warty nodules on the skin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromoblastomycosis designates a fungal infection characterized by itchy warty nodules on the skin."*

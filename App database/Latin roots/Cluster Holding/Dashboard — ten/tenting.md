@@ -5,13 +5,6 @@ status: unread
 ---
 # tenting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of encamping and living in tents in a camp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Live in or as if in a tent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenting designates the act of encamping and living in tents in a camp."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of encamping and living in tents in a camp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Live in or as if in a tent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenting designates the act of encamping and living in tents in a camp."*

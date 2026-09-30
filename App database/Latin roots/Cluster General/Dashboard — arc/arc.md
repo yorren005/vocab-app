@@ -5,15 +5,6 @@ status: unread
 ---
 # arc
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electrical conduction through a gas in an applied electric field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A continuous portion of a circle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Joan of Arc hath been A virgin from her tender infancy, Chaste and immaculate in very thought; Whose maiden blood, thus rigorously effused, Will cry for vengeance at the gates of heaven."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Wait: I’ll do it for you.” An arc of silver shone on her right side: the sword had descended."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Song—My Highland Lassie, O Tune—“The deuks dang o’er my daddy.” Nae gentle dames, tho’ e’er sae fair, Shall ever be my muse’s care: Their titles a’ arc empty show; Gie me my Highland lassie, O."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Electrical conduction through a gas in an applied electric field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A continuous portion of a circle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Joan of Arc hath been A virgin from her tender infancy, Chaste and immaculate in very thought; Whose maiden blood, thus rigorously effused, Will cry for vengeance at the gates of heaven."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Wait: I’ll do it for you.” An arc of silver shone on her right side: the sword had descended."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Song—My Highland Lassie, O Tune—“The deuks dang o’er my daddy.” Nae gentle dames, tho’ e’er sae fair, Shall ever be my muse’s care: Their titles a’ arc empty show; Gie me my Highland lassie, O."*

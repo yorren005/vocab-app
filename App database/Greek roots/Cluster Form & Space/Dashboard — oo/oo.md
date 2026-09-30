@@ -5,13 +5,6 @@ status: unread
 ---
 # oo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Egg; specifically : ovum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oh, the times! oh, the customs! —used as an exclamation of despair at prevailing social or political norms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Say you’ll be quiet without the constable.” “Aw, we wooant meddle—they may do as they loike for oos”—were the forms in which Caleb got his pledges; and then he hastened back to Fred, who had followed him, and watched him in the gateway."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Egg; specifically : ovum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oh, the times! oh, the customs! —used as an exclamation of despair at prevailing social or political norms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Say you’ll be quiet without the constable.” “Aw, we wooant meddle—they may do as they loike for oos”—were the forms in which Caleb got his pledges; and then he hastened back to Fred, who had followed him, and watched him in the gateway."*

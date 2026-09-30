@@ -5,15 +5,6 @@ status: unread
 ---
 # vulgarly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a smutty manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a smutty manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, for this woman, To justify this worthy nobleman, So vulgarly and personally accused, Her shall you hear disproved to her eyes, Till she herself confess it."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They were vulgarly shaped, like men formed for the common purposes of life, and had that air of supercilious assumption which is never seen in the true gentleman."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"I don’t like you!” Then, after this deliverance, which might have been that of a vulgarly pert little girl in the street, she hugged Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a smutty manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a smutty manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, for this woman, To justify this worthy nobleman, So vulgarly and personally accused, Her shall you hear disproved to her eyes, Till she herself confess it."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They were vulgarly shaped, like men formed for the common purposes of life, and had that air of supercilious assumption which is never seen in the true gentleman."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"I don’t like you!” Then, after this deliverance, which might have been that of a vulgarly pert little girl in the street, she hugged Mrs."*

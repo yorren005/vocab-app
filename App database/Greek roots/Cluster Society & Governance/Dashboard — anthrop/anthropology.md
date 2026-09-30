@@ -5,14 +5,6 @@ status: unread
 ---
 # anthropology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of human beings; especially : the study of human beings and their ancestors through time and space and in relation to physical character, environmental and social relations, and culture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Theology dealing with the origin, nature, and destiny of human beings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"FELLOW OF TRINITY COLLEGE, CAMBRIDGE PROFESSOR OF SOCIAL ANTHROPOLOGY IN THE UNIVERSITY OF LIVERPOOL."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The awe and dread with which the untutored savage contemplates his mother-in-law are amongst the most familiar facts of anthropology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of human beings; especially : the study of human beings and their ancestors through time and space and in relation to physical character, environmental and social relations, and culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Theology dealing with the origin, nature, and destiny of human beings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"FELLOW OF TRINITY COLLEGE, CAMBRIDGE PROFESSOR OF SOCIAL ANTHROPOLOGY IN THE UNIVERSITY OF LIVERPOOL."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The awe and dread with which the untutored savage contemplates his mother-in-law are amongst the most familiar facts of anthropology."*

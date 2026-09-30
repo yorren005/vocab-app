@@ -5,13 +5,6 @@ status: unread
 ---
 # parathelypteris
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Terrestrial ferns of warm and tropical asia and north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terrestrial ferns of warm and tropical asia and north america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parathelypteris designates terrestrial ferns of warm and tropical asia and north america."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Terrestrial ferns of warm and tropical asia and north america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terrestrial ferns of warm and tropical asia and north america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parathelypteris designates terrestrial ferns of warm and tropical asia and north america."*

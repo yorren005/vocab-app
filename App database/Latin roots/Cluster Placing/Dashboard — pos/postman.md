@@ -5,15 +5,6 @@ status: unread
 ---
 # postman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who delivers the mail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who delivers the mail.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She watched till the postman passed by, ran out to him with her epistle, and then again took her listless place inside the window-panes."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At the door he met an intelligent postman coming out with letters for the morning delivery."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Then, remembering that she would have been likely to continue the use of her maiden name, Clare said— “Of a Miss Durbeyfield?” “Durbeyfield?” This also was strange to the postman addressed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who delivers the mail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who delivers the mail.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She watched till the postman passed by, ran out to him with her epistle, and then again took her listless place inside the window-panes."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At the door he met an intelligent postman coming out with letters for the morning delivery."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Then, remembering that she would have been likely to continue the use of her maiden name, Clare said— “Of a Miss Durbeyfield?” “Durbeyfield?” This also was strange to the postman addressed."*

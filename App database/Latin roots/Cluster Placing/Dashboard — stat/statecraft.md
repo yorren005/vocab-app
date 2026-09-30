@@ -5,14 +5,6 @@ status: unread
 ---
 # statecraft
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wisdom in the management of public affairs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wisdom in the management of public affairs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"What Machiavelli beheld round him in Italy was a civic disorder in which there was oppression without statecraft, and revolt without patriotism."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Seward was a master in diplomacy and Statecraft, and to his skill the Unionists were indebted for all avoidance of serious foreign complications while the war was going on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wisdom in the management of public affairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wisdom in the management of public affairs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"What Machiavelli beheld round him in Italy was a civic disorder in which there was oppression without statecraft, and revolt without patriotism."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Seward was a master in diplomacy and Statecraft, and to his skill the Unionists were indebted for all avoidance of serious foreign complications while the war was going on."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # portugal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in southwestern europe on the iberian peninsula; portuguese explorers and colonists in the 15th and 16th centuries created a vast overseas empire (including brazil).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in southwestern europe on the iberian peninsula; portuguese explorers and colonists in the 15th and 16th centuries created a vast overseas empire (including brazil).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it cannot be sounded; my affection hath an unknown bottom, like the Bay of Portugal."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"Alonzo, _a young_ Portugal _Gentleman, enemy to_ Duarte."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"You have lost a wife indeed, a fair and chast one, Two blessings, not found often in one woman; But she may be recovered, questionless The ship that took us was of _Portugal_, And here in _Lisbon_, by some means or other We may hear of her. _Arn_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in southwestern europe on the iberian peninsula; portuguese explorers and colonists in the 15th and 16th centuries created a vast overseas empire (including brazil).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in southwestern europe on the iberian peninsula; portuguese explorers and colonists in the 15th and 16th centuries created a vast overseas empire (including brazil).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it cannot be sounded; my affection hath an unknown bottom, like the Bay of Portugal."*
+> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"Alonzo, _a young_ Portugal _Gentleman, enemy to_ Duarte."*
+> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"You have lost a wife indeed, a fair and chast one, Two blessings, not found often in one woman; But she may be recovered, questionless The ship that took us was of _Portugal_, And here in _Lisbon_, by some means or other We may hear of her. _Arn_."*

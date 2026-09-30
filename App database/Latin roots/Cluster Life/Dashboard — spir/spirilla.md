@@ -5,13 +5,6 @@ status: unread
 ---
 # spirilla
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any flagellated aerobic bacteria having a spirally twisted rodlike form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spirally twisted elongate rodlike bacteria usually living in stagnant water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirilla designates any flagellated aerobic bacteria having a spirally twisted rodlike form."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any flagellated aerobic bacteria having a spirally twisted rodlike form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spirally twisted elongate rodlike bacteria usually living in stagnant water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirilla designates any flagellated aerobic bacteria having a spirally twisted rodlike form."*

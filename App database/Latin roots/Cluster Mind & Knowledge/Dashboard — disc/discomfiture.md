@@ -5,15 +5,6 @@ status: unread
 ---
 # discomfiture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anxious embarrassment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anxious embarrassment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sad tidings bring I to you out of France, Of loss, of slaughter, and discomfiture: Guienne, Champaigne, Rheims, Rouen, Orleans, Paris, Guysors, Poictiers, are all quite lost."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"This tends to the discomfiture of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester is whipped in to the rescue of the Doodle Party and the discomfiture of the Coodle Faction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anxious embarrassment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anxious embarrassment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sad tidings bring I to you out of France, Of loss, of slaughter, and discomfiture: Guienne, Champaigne, Rheims, Rouen, Orleans, Paris, Guysors, Poictiers, are all quite lost."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"This tends to the discomfiture of Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester is whipped in to the rescue of the Doodle Party and the discomfiture of the Coodle Faction."*

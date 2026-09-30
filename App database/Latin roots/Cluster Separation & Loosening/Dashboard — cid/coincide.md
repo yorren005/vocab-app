@@ -5,15 +5,6 @@ status: unread
 ---
 # coincide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Go with, fall together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happen simultaneously.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But as long as our plans seem to coincide so well, I shall ask you if it would be inconvenient to you if we put off the date of our return a week longer."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No, I won’t!” The most vigorous expression of a resolution does not always coincide with the greatest vigour of the resolution itself."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Evidently the times of maximum monetary demand of the different individuals do not coincide; rather they alternate with each other, and the community's total monetary demand at a given time is a composite of the many individual variations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Go with, fall together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happen simultaneously.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But as long as our plans seem to coincide so well, I shall ask you if it would be inconvenient to you if we put off the date of our return a week longer."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No, I won’t!” The most vigorous expression of a resolution does not always coincide with the greatest vigour of the resolution itself."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Evidently the times of maximum monetary demand of the different individuals do not coincide; rather they alternate with each other, and the community's total monetary demand at a given time is a composite of the many individual variations."*

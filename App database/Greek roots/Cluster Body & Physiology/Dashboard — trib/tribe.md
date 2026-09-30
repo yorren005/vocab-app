@@ -5,15 +5,6 @@ status: unread
 ---
 # tribe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social division of (usually preliterate) people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A federation (as of american indians).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would my son Were in Arabia and thy tribe before him, His good sword in his hand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that I had him, With six Aufidiuses, or more, his tribe, To use my lawful sword."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who, in the lusty stealth of nature, take More composition and fierce quality Than doth within a dull stale tired bed Go to the creating a whole tribe of fops Got ’tween asleep and wake?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A social division of (usually preliterate) people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A federation (as of american indians).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would my son Were in Arabia and thy tribe before him, His good sword in his hand."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that I had him, With six Aufidiuses, or more, his tribe, To use my lawful sword."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who, in the lusty stealth of nature, take More composition and fierce quality Than doth within a dull stale tired bed Go to the creating a whole tribe of fops Got ’tween asleep and wake?"*

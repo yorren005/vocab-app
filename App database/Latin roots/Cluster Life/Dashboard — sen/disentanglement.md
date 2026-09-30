@@ -5,13 +5,6 @@ status: unread
 ---
 # disentanglement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of releasing from a snarled or tangled condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of releasing from a snarled or tangled condition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disentanglement designates the act of releasing from a snarled or tangled condition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of releasing from a snarled or tangled condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of releasing from a snarled or tangled condition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disentanglement designates the act of releasing from a snarled or tangled condition."*

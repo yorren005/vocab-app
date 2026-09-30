@@ -5,13 +5,6 @@ status: unread
 ---
 # phlebotomus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mild viral disease transmitted by the bite of the sand fly phlebotomus papatasii.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small bloodsucking sand flies that resemble moths.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phlebotomus designates a mild viral disease transmitted by the bite of the sand fly phlebotomus papatasii."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mild viral disease transmitted by the bite of the sand fly phlebotomus papatasii.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small bloodsucking sand flies that resemble moths.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phlebotomus designates a mild viral disease transmitted by the bite of the sand fly phlebotomus papatasii."*

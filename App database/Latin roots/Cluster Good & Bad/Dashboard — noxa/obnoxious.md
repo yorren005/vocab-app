@@ -5,15 +5,6 @@ status: unread
 ---
 # obnoxious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing disapproval or protest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing disapproval or protest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Still unconverted, but, to satisfy his mother, he consented to remain in the room during a visit of the missionary of that district; a man with sufficient tact not to make his efforts obnoxious."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Turning from Bessie (though her presence was far less obnoxious to me than that of Abbot, for instance, would have been), I scrutinised the face of the gentleman: I knew him; it was Mr."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"We swept on, and I felt that I was highly obnoxious to Camilla."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing disapproval or protest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing disapproval or protest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Still unconverted, but, to satisfy his mother, he consented to remain in the room during a visit of the missionary of that district; a man with sufficient tact not to make his efforts obnoxious."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Turning from Bessie (though her presence was far less obnoxious to me than that of Abbot, for instance, would have been), I scrutinised the face of the gentleman: I knew him; it was Mr."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"We swept on, and I felt that I was highly obnoxious to Camilla."*

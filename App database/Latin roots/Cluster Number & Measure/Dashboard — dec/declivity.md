@@ -5,15 +5,6 @@ status: unread
 ---
 # declivity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A downward slope or bend.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A downward slope or bend.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Recovering her reserve, she sat without replying, and thus they reached the summit of another declivity."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Five years in narrow walls had unfitted me for the enormous declivity of the stairway, for the vastitude of the prison yard."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The ground was still on the incline, its declivity seemed to be getting greater, and to be leading us to greater depths."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A downward slope or bend.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A downward slope or bend.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Recovering her reserve, she sat without replying, and thus they reached the summit of another declivity."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Five years in narrow walls had unfitted me for the enormous declivity of the stairway, for the vastitude of the prison yard."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The ground was still on the incline, its declivity seemed to be getting greater, and to be leading us to greater depths."*

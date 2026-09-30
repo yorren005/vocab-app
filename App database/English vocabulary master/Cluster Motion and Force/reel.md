@@ -5,20 +5,6 @@ status: unread
 ---
 # reel
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Spool or bobbin for sewing thread
-> 2. **Nuance / Usage**: (dance) a lively dance originating in scotland
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the reel withstood the storm*), direct object (*cleaved the reel*), or prepositional anchor (*amidst the reel*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I will make my very house reel tonight."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Tune—“Invercauld’s Reel, or Strathspey."*
-> - 📜 **Herman Melville (*Moby Dick*):** *"At the same foam-fountain, Queequeg seemed to drink and reel with me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Spool or bobbin for sewing thread
+> 2. **Nuance / Usage**: (dance) a lively dance originating in scotland
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the reel withstood the storm*), direct object (*cleaved the reel*), or prepositional anchor (*amidst the reel*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I will make my very house reel tonight."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Tune—“Invercauld’s Reel, or Strathspey."*
+> - 📜 **Herman Melville (*Moby Dick*):** *"At the same foam-fountain, Queequeg seemed to drink and reel with me."*

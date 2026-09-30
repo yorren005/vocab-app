@@ -5,15 +5,6 @@ status: unread
 ---
 # unobtrusively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unobtrusive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unobtrusive manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"So frankly, and yet so unobtrusively, they lay bare his soul, as far as they saw it."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Only then will our order have the power unobtrusively to bind the hands of the protectors of disorder and to control them without their being aware of it."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"John Douglas, resident magistrate of Thursday Island, was appointed his successor, and ruled quietly and unobtrusively for over three years."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unobtrusive manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unobtrusive manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"So frankly, and yet so unobtrusively, they lay bare his soul, as far as they saw it."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Only then will our order have the power unobtrusively to bind the hands of the protectors of disorder and to control them without their being aware of it."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"John Douglas, resident magistrate of Thursday Island, was appointed his successor, and ruled quietly and unobtrusively for over three years."*

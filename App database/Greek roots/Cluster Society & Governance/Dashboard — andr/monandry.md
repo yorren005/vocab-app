@@ -5,13 +5,6 @@ status: unread
 ---
 # monandry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A marriage form or custom in which a woman has only one husband at a time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A marriage form or custom in which a woman has only one husband at a time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monandry designates a marriage form or custom in which a woman has only one husband at a time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A marriage form or custom in which a woman has only one husband at a time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A marriage form or custom in which a woman has only one husband at a time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monandry designates a marriage form or custom in which a woman has only one husband at a time."*

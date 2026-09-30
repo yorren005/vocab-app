@@ -5,13 +5,6 @@ status: unread
 ---
 # ophiuchus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large constellation in the equatorial region between hercules and scorpius.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large constellation in the equatorial region between hercules and scorpius.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"On th’ other side, Incensed with indignation, Satan stood Unterrified, and like a comet burned, That fires the length of Ophiuchus huge In th’ arctic sky, and from his horrid hair Shakes pestilence and war."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large constellation in the equatorial region between hercules and scorpius.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large constellation in the equatorial region between hercules and scorpius.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"On th’ other side, Incensed with indignation, Satan stood Unterrified, and like a comet burned, That fires the length of Ophiuchus huge In th’ arctic sky, and from his horrid hair Shakes pestilence and war."*

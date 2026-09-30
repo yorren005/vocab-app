@@ -5,13 +5,6 @@ status: unread
 ---
 # transpirate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass through the tissue or substance or its pores or interstices, as of gas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pass through the tissue or substance or its pores or interstices, as of gas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transpirate designates pass through the tissue or substance or its pores or interstices, as of gas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass through the tissue or substance or its pores or interstices, as of gas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pass through the tissue or substance or its pores or interstices, as of gas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transpirate designates pass through the tissue or substance or its pores or interstices, as of gas."*

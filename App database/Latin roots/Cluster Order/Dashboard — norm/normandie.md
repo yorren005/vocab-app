@@ -5,13 +5,6 @@ status: unread
 ---
 # normandie
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A former province of northwestern france on the english channel; divided into haute-normandie and basse-normandie.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former province of northwestern france on the english channel; divided into haute-normandie and basse-normandie.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Chapiseau, _op. cit._ i. 218-220; Amélie Bosquet, _La Normandie Romanesque et Merveilleuse_ (Paris and Rouen, 1845), p. 233."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former province of northwestern france on the english channel; divided into haute-normandie and basse-normandie.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former province of northwestern france on the english channel; divided into haute-normandie and basse-normandie.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Chapiseau, _op. cit._ i. 218-220; Amélie Bosquet, _La Normandie Romanesque et Merveilleuse_ (Paris and Rouen, 1845), p. 233."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # modernity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being current or of the present.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being current or of the present.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"She has recreated us, breathed the breath of modernity into us, and started the machine up the grade of civilization at a pace that makes me hold my breath for fear of something jolting us."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Fashion, by which what is really fantastic becomes for a moment universal, and dandyism, which, in its own way, is an attempt to assert the absolute modernity of beauty, had, of course, their fascination for him."*
-> - 📜 **Bram Stoker (*Dracula*):** *"And yet, unless my senses deceive me, the old centuries had, and have, powers of their own which mere “modernity” cannot kill. * * * * * _Later: the Morning of 16 May._--God preserve my sanity, for to this I am reduced."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being current or of the present.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being current or of the present.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"She has recreated us, breathed the breath of modernity into us, and started the machine up the grade of civilization at a pace that makes me hold my breath for fear of something jolting us."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Fashion, by which what is really fantastic becomes for a moment universal, and dandyism, which, in its own way, is an attempt to assert the absolute modernity of beauty, had, of course, their fascination for him."*
+> - 📜 **Bram Stoker (*Dracula*):** *"And yet, unless my senses deceive me, the old centuries had, and have, powers of their own which mere “modernity” cannot kill. * * * * * _Later: the Morning of 16 May._--God preserve my sanity, for to this I am reduced."*

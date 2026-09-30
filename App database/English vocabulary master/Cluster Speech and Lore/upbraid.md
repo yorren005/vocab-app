@@ -5,20 +5,6 @@ status: unread
 ---
 # upbraid
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (transitive) to criticize severely
-> 2. **Nuance / Usage**: Criticize severely : find fault with
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to upbraid the target*) and intransitive clauses (*upbraiding against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe*):** *"most reason to upbraid the other?"*
-> - 📜 **Classic Author (*AA Book of British Villages*):** *"Indeed, on several occasions, the Bishop of Lincoln was forced to upbraid both abbess and nuns for unseemliness in dress and behaviour."*
-> - 📜 **{{w (*Mastering the Machine*):** *"Dalio had no qualms about upbraiding a junior employee in front of me and dozens of his colleagues."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: (transitive) to criticize severely
+> 2. **Nuance / Usage**: Criticize severely : find fault with
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to upbraid the target*) and intransitive clauses (*upbraiding against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Walter Scott (*Ivanhoe*):** *"most reason to upbraid the other?"*
+> - 📜 **Classic Author (*AA Book of British Villages*):** *"Indeed, on several occasions, the Bishop of Lincoln was forced to upbraid both abbess and nuns for unseemliness in dress and behaviour."*
+> - 📜 **{{w (*Mastering the Machine*):** *"Dalio had no qualms about upbraiding a junior employee in front of me and dozens of his colleagues."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # coelenterata
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hydras; polyps; jellyfishes; sea anemones; corals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hydras; polyps; jellyfishes; sea anemones; corals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coelenterata designates hydras; polyps; jellyfishes; sea anemones; corals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hydras; polyps; jellyfishes; sea anemones; corals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hydras; polyps; jellyfishes; sea anemones; corals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coelenterata designates hydras; polyps; jellyfishes; sea anemones; corals."*

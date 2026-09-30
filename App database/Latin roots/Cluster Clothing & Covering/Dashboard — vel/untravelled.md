@@ -5,15 +5,6 @@ status: unread
 ---
 # untravelled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not traveled over or through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not traveled over or through.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"How vain and foolish, then, thought I, for timid untravelled man to try to comprehend aright this wondrous whale, by merely poring over his dead attenuated skeleton, stretched in this peaceful wood."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"How vain and foolish, then, thought I, for timid untravelled man to try to comprehend aright this wondrous whale, by merely poring over his dead attenuated skeleton, stretched in this peaceful wood."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"And even of what he knew, how much could he make his untravelled friend either apprehend or believe?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not traveled over or through.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not traveled over or through.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"How vain and foolish, then, thought I, for timid untravelled man to try to comprehend aright this wondrous whale, by merely poring over his dead attenuated skeleton, stretched in this peaceful wood."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"How vain and foolish, then, thought I, for timid untravelled man to try to comprehend aright this wondrous whale, by merely poring over his dead attenuated skeleton, stretched in this peaceful wood."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"And even of what he knew, how much could he make his untravelled friend either apprehend or believe?"*

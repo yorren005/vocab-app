@@ -5,15 +5,6 @@ status: unread
 ---
 # amphitheatre
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek thea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He lifted his hand and opened his eyelids; gazed blank, and with a straining effort, on the sky, and toward the amphitheatre of trees: one saw that all to him was void darkness."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"On entering the amphitheatre, new objects of wonder presented themselves."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"At length he reached to where the ravine had opened through the cliffs to the amphitheatre; but no traces of such opening remained."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek thea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He lifted his hand and opened his eyelids; gazed blank, and with a straining effort, on the sky, and toward the amphitheatre of trees: one saw that all to him was void darkness."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"On entering the amphitheatre, new objects of wonder presented themselves."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"At length he reached to where the ravine had opened through the cliffs to the amphitheatre; but no traces of such opening remained."*

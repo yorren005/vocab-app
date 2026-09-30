@@ -5,13 +5,6 @@ status: unread
 ---
 # peristalsis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Successive waves of involuntary contraction passing along the walls of a hollow muscular structure (such as the esophagus or intestine) and forcing the contents onward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Successive waves of involuntary contraction passing along the walls of a hollow muscular structure (such as the esophagus or intestine) and forcing the contents onward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peristalsis designates successive waves of involuntary contraction passing along the walls of a hollow muscular structure (such as the esophagus or intestine) and forcing the contents onward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Successive waves of involuntary contraction passing along the walls of a hollow muscular structure (such as the esophagus or intestine) and forcing the contents onward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Successive waves of involuntary contraction passing along the walls of a hollow muscular structure (such as the esophagus or intestine) and forcing the contents onward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peristalsis designates successive waves of involuntary contraction passing along the walls of a hollow muscular structure (such as the esophagus or intestine) and forcing the contents onward."*

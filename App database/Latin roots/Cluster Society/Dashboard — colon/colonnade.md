@@ -5,15 +5,6 @@ status: unread
 ---
 # colonnade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Structure consisting of a row of evenly spaced columns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure composed of a series of arches supported by columns.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge gave me his arm and we went round the corner, under a colonnade, and in at a side door."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"When we got under the colonnade, Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I shall take my little meal, I think, at the French house, in the Opera Colonnade.” “That’s right."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Structure consisting of a row of evenly spaced columns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure composed of a series of arches supported by columns.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge gave me his arm and we went round the corner, under a colonnade, and in at a side door."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"When we got under the colonnade, Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I shall take my little meal, I think, at the French house, in the Opera Colonnade.” “That’s right."*

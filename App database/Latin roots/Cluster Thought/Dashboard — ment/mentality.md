@@ -5,15 +5,6 @@ status: unread
 ---
 # mentality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A habitual or characteristic mental attitude that determines how you will interpret and respond to situations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mental ability.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They were likewise sharply differentiated in the minutest shades of mentality and temperament."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In general the trait of Speránski’s mentality which struck Prince Andrew most was his absolute and unshakable belief in the power and authority of reason."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"This shows what mortal mentality and knowledge are."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A habitual or characteristic mental attitude that determines how you will interpret and respond to situations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mental ability.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They were likewise sharply differentiated in the minutest shades of mentality and temperament."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In general the trait of Speránski’s mentality which struck Prince Andrew most was his absolute and unshakable belief in the power and authority of reason."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"This shows what mortal mentality and knowledge are."*

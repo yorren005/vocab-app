@@ -5,13 +5,6 @@ status: unread
 ---
 # monish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Warn strongly; put on guard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Admonish or counsel in terms of someone's behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monish designates warn strongly; put on guard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Warn strongly; put on guard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Admonish or counsel in terms of someone's behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monish designates warn strongly; put on guard."*

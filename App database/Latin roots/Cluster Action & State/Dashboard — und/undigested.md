@@ -5,15 +5,6 @@ status: unread
 ---
 # undigested
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not thought over and arranged systematically in the mind; not absorbed or assimilated mentally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not digested.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many of the latter type are persons overburdened either with unearned inherited wealth or with an undigested education."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In one word, Queequeg, said I, rather digressively; hell is an idea first born on an undigested apple-dumpling; and since then perpetuated through the hereditary dyspepsias nurtured by Ramadans."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"In one word, Queequeg, said I, rather digressively; hell is an idea first born on an undigested apple-dumpling; and since then perpetuated through the hereditary dyspepsias nurtured by Ramadans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not thought over and arranged systematically in the mind; not absorbed or assimilated mentally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not digested.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many of the latter type are persons overburdened either with unearned inherited wealth or with an undigested education."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In one word, Queequeg, said I, rather digressively; hell is an idea first born on an undigested apple-dumpling; and since then perpetuated through the hereditary dyspepsias nurtured by Ramadans."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"In one word, Queequeg, said I, rather digressively; hell is an idea first born on an undigested apple-dumpling; and since then perpetuated through the hereditary dyspepsias nurtured by Ramadans."*

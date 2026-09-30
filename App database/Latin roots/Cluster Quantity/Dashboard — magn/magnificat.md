@@ -5,13 +5,6 @@ status: unread
 ---
 # magnificat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (luke) the canticle of the virgin mary (from luke 1:46 beginning `magnificat anima mea dominum').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (luke) the canticle of the virgin mary (from luke 1:46 beginning `magnificat anima mea dominum').
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Well, this curate was only nineteen." And then, coming out into the fading light, she locked the north door behind her and went off whistling like a blackbird, if a blackbird could whistle the alto of Calkin's Magnificat in B flat. . . ."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (luke) the canticle of the virgin mary (from luke 1:46 beginning `magnificat anima mea dominum').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (luke) the canticle of the virgin mary (from luke 1:46 beginning `magnificat anima mea dominum').
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Well, this curate was only nineteen." And then, coming out into the fading light, she locked the north door behind her and went off whistling like a blackbird, if a blackbird could whistle the alto of Calkin's Magnificat in B flat. . . ."*

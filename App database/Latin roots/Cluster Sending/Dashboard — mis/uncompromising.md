@@ -5,15 +5,6 @@ status: unread
 ---
 # uncompromising
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not making concessions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not making concessions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Stand forth, Jo, in uncompromising colours!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess drew her breath fearfully, and Angel, perplexed, said— “What can it be?” Feeling sideways they encountered another tower-like pillar, square and uncompromising as the first; beyond it another and another."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Tell us about it," said Nell, with sparkling eyes and sitting up in her low rocker as straight as Aunt Augusta did in her uncompromising seat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not making concessions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not making concessions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Stand forth, Jo, in uncompromising colours!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess drew her breath fearfully, and Angel, perplexed, said— “What can it be?” Feeling sideways they encountered another tower-like pillar, square and uncompromising as the first; beyond it another and another."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Tell us about it," said Nell, with sparkling eyes and sitting up in her low rocker as straight as Aunt Augusta did in her uncompromising seat."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # vanilla-scented
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Smelling of vanilla.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smelling of vanilla.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vanilla-scented designates smelling of vanilla."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Smelling of vanilla.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smelling of vanilla.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vanilla-scented designates smelling of vanilla."*

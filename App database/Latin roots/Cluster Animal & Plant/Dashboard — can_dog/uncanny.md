@@ -5,15 +5,6 @@ status: unread
 ---
 # uncanny
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggesting the operation of supernatural influences; ; ; - john galsworthy; ; - henry kingsley.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surpassing the ordinary or normal;  - george will.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is always other people who tell, and those have been told again by others, that something uncanny has been seen at the castle."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What does that inexplicable, that uncanny turn of countenance mean?” “I was thinking, sir (you will excuse the idea; it was involuntary), I was thinking of Hercules and Samson with their charmers—” “You were, you little elfish—” “Hush, sir!"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"How long it had been searching me through and through, and over and over, I cannot tell: so keen was it, and yet so cold, I felt for the moment superstitious—as if I were sitting in the room with something uncanny."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggesting the operation of supernatural influences; ; ; - john galsworthy; ; - henry kingsley.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surpassing the ordinary or normal;  - george will.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is always other people who tell, and those have been told again by others, that something uncanny has been seen at the castle."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What does that inexplicable, that uncanny turn of countenance mean?” “I was thinking, sir (you will excuse the idea; it was involuntary), I was thinking of Hercules and Samson with their charmers—” “You were, you little elfish—” “Hush, sir!"*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"How long it had been searching me through and through, and over and over, I cannot tell: so keen was it, and yet so cold, I felt for the moment superstitious—as if I were sitting in the room with something uncanny."*

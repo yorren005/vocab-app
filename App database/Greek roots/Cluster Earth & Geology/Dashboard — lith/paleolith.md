@@ -5,13 +5,6 @@ status: unread
 ---
 # paleolith
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stone tool from the paleolithic age.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stone tool from the paleolithic age.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleolith designates a stone tool from the paleolithic age."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stone tool from the paleolithic age.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stone tool from the paleolithic age.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleolith designates a stone tool from the paleolithic age."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # dimetrodon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carnivorous dinosaur of the permian in north america having a crest or dorsal sail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carnivorous dinosaur of the permian in north america having a crest or dorsal sail.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dimetrodon designates carnivorous dinosaur of the permian in north america having a crest or dorsal sail."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carnivorous dinosaur of the permian in north america having a crest or dorsal sail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carnivorous dinosaur of the permian in north america having a crest or dorsal sail.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dimetrodon designates carnivorous dinosaur of the permian in north america having a crest or dorsal sail."*

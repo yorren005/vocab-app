@@ -5,15 +5,6 @@ status: unread
 ---
 # dice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small cube with 1 to 6 spots on the six faces; used in gambling to generate random numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut into cubes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The very dice obey him, And in our sports my better cunning faints Under his chance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Proud of their numbers and secure in soul, The confident and over-lusty French Do the low-rated English play at dice; And chide the cripple tardy-gaited Night Who, like a foul and ugly witch, doth limp So tediously away."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s stab ourselves, Be these the wretches that we play’d at dice for?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small cube with 1 to 6 spots on the six faces; used in gambling to generate random numbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut into cubes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The very dice obey him, And in our sports my better cunning faints Under his chance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Proud of their numbers and secure in soul, The confident and over-lusty French Do the low-rated English play at dice; And chide the cripple tardy-gaited Night Who, like a foul and ugly witch, doth limp So tediously away."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s stab ourselves, Be these the wretches that we play’d at dice for?"*

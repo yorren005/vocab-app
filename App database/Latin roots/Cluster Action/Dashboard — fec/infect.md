@@ -5,15 +5,6 @@ status: unread
 ---
 # infect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicate a disease to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contaminate with a disease or microorganism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why do you infect yourself with them?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You herd of—Boils and plagues Plaster you o’er, that you may be abhorred Farther than seen, and one infect another Against the wind a mile!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More of your conversation would infect my brain, being the herdsmen of the beastly plebeians."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicate a disease to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contaminate with a disease or microorganism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why do you infect yourself with them?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You herd of—Boils and plagues Plaster you o’er, that you may be abhorred Farther than seen, and one infect another Against the wind a mile!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More of your conversation would infect my brain, being the herdsmen of the beastly plebeians."*

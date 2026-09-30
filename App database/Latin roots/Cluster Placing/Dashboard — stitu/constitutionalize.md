@@ -5,13 +5,6 @@ status: unread
 ---
 # constitutionalize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with a constitution, as of a country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take a walk for one's health or to aid digestion, as after a meal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, constitutionalize designates provide with a constitution, as of a country."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with a constitution, as of a country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take a walk for one's health or to aid digestion, as after a meal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, constitutionalize designates provide with a constitution, as of a country."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # erotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An erotic person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giving sexual pleasure; sexually arousing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The cabala of this erotic philosophy seemed to consist of the subtlest meanings expressed in misleading ways."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"We have already alluded to the poet's premature erotic instinct, an impulse which he doubtless inherited from his sensual parents."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The cabala of this erotic philosophy seemed to consist of the subtlest meanings expressed in misleading ways."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An erotic person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giving sexual pleasure; sexually arousing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The cabala of this erotic philosophy seemed to consist of the subtlest meanings expressed in misleading ways."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"We have already alluded to the poet's premature erotic instinct, an impulse which he doubtless inherited from his sensual parents."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The cabala of this erotic philosophy seemed to consist of the subtlest meanings expressed in misleading ways."*

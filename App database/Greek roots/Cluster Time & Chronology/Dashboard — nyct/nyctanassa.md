@@ -5,13 +5,6 @@ status: unread
 ---
 # nyctanassa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American night herons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American night herons.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nyctanassa designates american night herons."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: American night herons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American night herons.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nyctanassa designates american night herons."*

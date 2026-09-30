@@ -5,15 +5,6 @@ status: unread
 ---
 # formal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lavish dance requiring formal attire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gown for evening wear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If not well, Thou shouldst come like a Fury crowned with snakes, Not like a formal man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then the justice, In fair round belly with good capon lined, With eyes severe and beard of formal cut, Full of wise saws and modern instances; And so he plays his part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be patient, for I will not let him stir Till I have used the approved means I have, With wholesome syrups, drugs, and holy prayers, To make of him a formal man again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lavish dance requiring formal attire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gown for evening wear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If not well, Thou shouldst come like a Fury crowned with snakes, Not like a formal man."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then the justice, In fair round belly with good capon lined, With eyes severe and beard of formal cut, Full of wise saws and modern instances; And so he plays his part."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be patient, for I will not let him stir Till I have used the approved means I have, With wholesome syrups, drugs, and holy prayers, To make of him a formal man again."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # bigamy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two spouses at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The offense of marrying someone while you have a living spouse from whom no valid divorce has occurred.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester continued, hardily and recklessly: “Bigamy is an ugly word!—I meant, however, to be a bigamist; but fate has out-manoeuvred me, or Providence has checked me,—perhaps the last."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two spouses at the same time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The offense of marrying someone while you have a living spouse from whom no valid divorce has occurred.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester continued, hardily and recklessly: “Bigamy is an ugly word!—I meant, however, to be a bigamist; but fate has out-manoeuvred me, or Providence has checked me,—perhaps the last."*

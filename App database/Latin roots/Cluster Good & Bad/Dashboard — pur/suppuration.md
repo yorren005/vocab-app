@@ -5,13 +5,6 @@ status: unread
 ---
 # suppuration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) the formation of morbific matter in an abscess or a vesicle and the discharge of pus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fluid product of inflammation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This was described as “inflammation of the right parotid gland.” On August 24th it was decided to make an incision below and forward of the right ear, in order to prevent suppuration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) the formation of morbific matter in an abscess or a vesicle and the discharge of pus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fluid product of inflammation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"This was described as “inflammation of the right parotid gland.” On August 24th it was decided to make an incision below and forward of the right ear, in order to prevent suppuration."*

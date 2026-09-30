@@ -5,15 +5,6 @@ status: unread
 ---
 # coalition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organization of people (or countries) involved in a pact or treaty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being combined into one body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Could he some commutation broach, I’ll pledge my aith in guid braid Scotch, He needna fear their foul reproach Nor erudition, Yon mixtie-maxtie, queer hotch-potch, The Coalition."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Spain must resist this coalition; but she was almost entirely unprovided with either soldiers or sailors."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And about the end of 1702 they expected a rich convoy which France was escorting with a fleet of twenty-three vessels, commanded by Admiral Chateau-Renaud, for the ships of the coalition were already beating the Atlantic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organization of people (or countries) involved in a pact or treaty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being combined into one body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Could he some commutation broach, I’ll pledge my aith in guid braid Scotch, He needna fear their foul reproach Nor erudition, Yon mixtie-maxtie, queer hotch-potch, The Coalition."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Spain must resist this coalition; but she was almost entirely unprovided with either soldiers or sailors."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And about the end of 1702 they expected a rich convoy which France was escorting with a fleet of twenty-three vessels, commanded by Admiral Chateau-Renaud, for the ships of the coalition were already beating the Atlantic."*

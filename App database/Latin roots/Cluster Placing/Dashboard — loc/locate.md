@@ -5,15 +5,6 @@ status: unread
 ---
 # locate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover the location of; determine the place of; find by searching or examining.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine or indicate the place, site, or limits of, as if by an instrument or by a survey.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And with Standing and the forty tight in the dungeons, we’ll have all the time in the world to locate the dynamite.” “If we have to tear the prison down stone by stone,” Captain Jamie added valiantly."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Recon-patroller Red Fox was destroyed while on assigned mission to scout Special Zone to locate launch and support sites for spacecraft that present a clear and present danger to Slingshot."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"He was the first to measure the depth of the sea to locate these fishing ko'as for the deep sea fishermen who go out in their canoes, and the names of many of these ko'as located around the different islands are well known."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover the location of; determine the place of; find by searching or examining.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine or indicate the place, site, or limits of, as if by an instrument or by a survey.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And with Standing and the forty tight in the dungeons, we’ll have all the time in the world to locate the dynamite.” “If we have to tear the prison down stone by stone,” Captain Jamie added valiantly."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Recon-patroller Red Fox was destroyed while on assigned mission to scout Special Zone to locate launch and support sites for spacecraft that present a clear and present danger to Slingshot."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"He was the first to measure the depth of the sea to locate these fishing ko'as for the deep sea fishermen who go out in their canoes, and the names of many of these ko'as located around the different islands are well known."*

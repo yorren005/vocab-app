@@ -5,15 +5,6 @@ status: unread
 ---
 # searchingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a searching manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a searching manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But just now two merry eyes were searchingly raised to the castle from the meadow below, as if they might discover something extraordinary behind the fast-closed shutters."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt had climbed a tree and from the highest branch he could reach was searchingly studying the castle, as if something special was to be discovered there."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Look, one can see the open windows quite plainly now." "Can we see the bad baron, too?" asked Mäzli peeping up searchingly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a searching manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a searching manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But just now two merry eyes were searchingly raised to the castle from the meadow below, as if they might discover something extraordinary behind the fast-closed shutters."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt had climbed a tree and from the highest branch he could reach was searchingly studying the castle, as if something special was to be discovered there."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Look, one can see the open windows quite plainly now." "Can we see the bad baron, too?" asked Mäzli peeping up searchingly."*

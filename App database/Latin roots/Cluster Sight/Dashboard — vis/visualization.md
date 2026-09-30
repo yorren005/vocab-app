@@ -5,14 +5,6 @@ status: unread
 ---
 # visualization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental image that is similar to a visual perception.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mental image that is similar to a visual perception.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"By sheer visualization under my eyelids I constructed chess-boards and played both sides of long games through to checkmate."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The beginning of every advertisement or series of advertisements is represented in terms of a first visualization."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental image that is similar to a visual perception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mental image that is similar to a visual perception.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"By sheer visualization under my eyelids I constructed chess-boards and played both sides of long games through to checkmate."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The beginning of every advertisement or series of advertisements is represented in terms of a first visualization."*

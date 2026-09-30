@@ -5,15 +5,6 @@ status: unread
 ---
 # ignorance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lack of knowledge or education.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lack of knowledge or education.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thine eyes, that taught the dumb on high to sing, And heavy ignorance aloft to fly, Have added feathers to the learned’s wing, And given grace a double majesty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou art all my art, and dost advance As high as learning, my rude ignorance. 79 Whilst I alone did call upon thy aid, My verse alone had all thy gentle grace, But now my gracious numbers are decayed, And my sick muse doth give an other place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The greater cantle of the world is lost With very ignorance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lack of knowledge or education.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lack of knowledge or education.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thine eyes, that taught the dumb on high to sing, And heavy ignorance aloft to fly, Have added feathers to the learned’s wing, And given grace a double majesty."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou art all my art, and dost advance As high as learning, my rude ignorance. 79 Whilst I alone did call upon thy aid, My verse alone had all thy gentle grace, But now my gracious numbers are decayed, And my sick muse doth give an other place."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The greater cantle of the world is lost With very ignorance."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # exemplify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be characteristic of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clarify by giving an example of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"They exemplify what I have said."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Here is a nut,” said he, catching one down from an upper bough, “to exemplify: a beautiful glossy nut, which, blessed with original strength, has outlived all the storms of autumn."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many inflations and contractions of the circulating medium have occurred, now in a single country, again in the whole world; and the local or general results have helped to exemplify richly the working of the quantity principle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be characteristic of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clarify by giving an example of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"They exemplify what I have said."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Here is a nut,” said he, catching one down from an upper bough, “to exemplify: a beautiful glossy nut, which, blessed with original strength, has outlived all the storms of autumn."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many inflations and contractions of the circulating medium have occurred, now in a single country, again in the whole world; and the local or general results have helped to exemplify richly the working of the quantity principle."*

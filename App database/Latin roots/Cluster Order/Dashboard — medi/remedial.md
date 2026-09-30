@@ -5,14 +5,6 @@ status: unread
 ---
 # remedial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending or intended to rectify or improve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to cure or restore to health.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In the next place, the abuses would often have completed their mischievous effects before the remedial provision would be applied."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In fact, the whole machinery of the Federal government necessary for the distribution of remedial justice among the people has been demolished, and it would be difficult, if not impossible, to replace it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending or intended to rectify or improve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to cure or restore to health.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In the next place, the abuses would often have completed their mischievous effects before the remedial provision would be applied."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In fact, the whole machinery of the Federal government necessary for the distribution of remedial justice among the people has been demolished, and it would be difficult, if not impossible, to replace it."*

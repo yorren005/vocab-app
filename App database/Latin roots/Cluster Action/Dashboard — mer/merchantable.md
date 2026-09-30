@@ -5,13 +5,6 @@ status: unread
 ---
 # merchantable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fit to be offered for sale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fit to be offered for sale.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Neither was the little old shop any longer empty of merchantable goods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fit to be offered for sale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fit to be offered for sale.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Neither was the little old shop any longer empty of merchantable goods."*

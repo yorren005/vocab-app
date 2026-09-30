@@ -5,15 +5,6 @@ status: unread
 ---
 # collect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short prayer generally preceding the lesson in the church of rome or the church of england.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get or gather together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good old knight, Collect them all together at my tent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reverent care I bear unto my lord Made me collect these dangers in the Duke."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Affrighted much, I did in time collect myself and thought This was so, and no slumber."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short prayer generally preceding the lesson in the church of rome or the church of england.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get or gather together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good old knight, Collect them all together at my tent."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reverent care I bear unto my lord Made me collect these dangers in the Duke."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Affrighted much, I did in time collect myself and thought This was so, and no slumber."*

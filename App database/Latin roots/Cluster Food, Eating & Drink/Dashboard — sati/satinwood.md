@@ -5,14 +5,6 @@ status: unread
 ---
 # satinwood
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: West indian tree with smooth lustrous and slightly oily wood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hard yellowish wood of a satinwood tree having a satiny luster; used for fine cabinetwork and tools.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"On a tiny satinwood table stood a statuette by Clodion, and beside it lay a copy of Les Cent Nouvelles, bound for Margaret of Valois by Clovis Eve and powdered with the gilt daisies that Queen had selected for her device."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"There the satinwood book-case filled with his dog-eared schoolbooks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: West indian tree with smooth lustrous and slightly oily wood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hard yellowish wood of a satinwood tree having a satiny luster; used for fine cabinetwork and tools.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"On a tiny satinwood table stood a statuette by Clodion, and beside it lay a copy of Les Cent Nouvelles, bound for Margaret of Valois by Clovis Eve and powdered with the gilt daisies that Queen had selected for her device."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"There the satinwood book-case filled with his dog-eared schoolbooks."*

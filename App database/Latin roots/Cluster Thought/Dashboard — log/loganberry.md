@@ -5,13 +5,6 @@ status: unread
 ---
 # loganberry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Red-fruited bramble native from oregon to baja california.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large red variety of the dewberry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, loganberry designates red-fruited bramble native from oregon to baja california."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Red-fruited bramble native from oregon to baja california.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large red variety of the dewberry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, loganberry designates red-fruited bramble native from oregon to baja california."*

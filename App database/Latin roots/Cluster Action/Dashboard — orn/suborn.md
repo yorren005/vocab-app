@@ -5,15 +5,6 @@ status: unread
 ---
 # suborn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incite to commit a crime or an evil deed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Procure (false testimony or perjury).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast suborn’d the goldsmith to arrest me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What peer hath been suborn’d to grate on you, That you should seal this lawless bloody book Of forged rebellion with a seal divine And consecrate commotion’s bitter edge?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have suborn’d this man Of purpose to obscure my noble birth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incite to commit a crime or an evil deed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Procure (false testimony or perjury).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast suborn’d the goldsmith to arrest me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What peer hath been suborn’d to grate on you, That you should seal this lawless bloody book Of forged rebellion with a seal divine And consecrate commotion’s bitter edge?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have suborn’d this man Of purpose to obscure my noble birth."*

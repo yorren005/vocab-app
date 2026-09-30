@@ -5,14 +5,6 @@ status: unread
 ---
 # petalled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of flowers) having petals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of flowers) having petals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Perhaps you will hardly believe it.” Lord Henry smiled, and leaning down, plucked a pink-petalled daisy from the grass and examined it."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He possessed a gorgeous cope of crimson silk and gold-thread damask, figured with a repeating pattern of golden pomegranates set in six-petalled formal blossoms, beyond which on either side was the pine-apple device wrought in seed-pearls."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of flowers) having petals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of flowers) having petals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Perhaps you will hardly believe it.” Lord Henry smiled, and leaning down, plucked a pink-petalled daisy from the grass and examined it."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He possessed a gorgeous cope of crimson silk and gold-thread damask, figured with a repeating pattern of golden pomegranates set in six-petalled formal blossoms, beyond which on either side was the pine-apple device wrought in seed-pearls."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # videlicet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As follows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As follows.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The poor world is almost six thousand years old, and in all this time there was not any man died in his own person, _videlicet_, in a love-cause."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thus she means, _videlicet_— THISBE."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whate’er her father says, if you perceive Her mood inclining that way that I spoke of, _Videlicet_, the way of flesh—you have me?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As follows.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As follows.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The poor world is almost six thousand years old, and in all this time there was not any man died in his own person, _videlicet_, in a love-cause."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thus she means, _videlicet_— THISBE."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whate’er her father says, if you perceive Her mood inclining that way that I spoke of, _Videlicet_, the way of flesh—you have me?"*

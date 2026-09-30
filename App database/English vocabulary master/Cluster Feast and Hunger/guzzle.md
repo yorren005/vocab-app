@@ -5,20 +5,6 @@ status: unread
 ---
 # guzzle
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Consume, use up
-> 2. **Nuance / Usage**: Drink greedily or habitually
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to guzzle the target*) and intransitive clauses (*guzzling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Norman Lindsay (*The Magic Pudding*):** *"They had a delightful meal, eating as much as possible, for whenever they stopped eating the Puddin" sang out--<br>"Eat away, chew away, munch and bolt and guzzle,<br>Never leave the table till you're full up to the muzzle."*
-> - 📜 **Leslie Bricusse; Anthony Newley (*Willy Wonka & the Chocolate Factory*):** *"What do you get when you guzzle down sweets, / Eating as much as an elephant eats?"*
-> - 📜 **John Milton (*Eikonoklastes*):** *"A comparison more properly bestowed on those that came to guzzle in his wine cellar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To drink or eat greedily, rapidly, and in excessive quantities.
+> 2. **Nuance / Usage**: Extended figuratively to machines or vehicles that consume fuel or resources at a wasteful, extravagant rate (*a gas-guzzling engine*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to guzzle the target*) and intransitive clauses (*guzzling against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Eikonoklastes*):** *"A comparison more properly bestowed on those that came to **guzzle** in his wine cellar."*
+> - 📜 **Norman Lindsay (*The Magic Pudding*):** *"Eat away, chew away, munch and bolt and **guzzle**, never leave the table till you're full up to the muzzle."*
+> - 📜 **Roald Dahl (*Charlie and the Chocolate Factory*):** *"What do you get when you **guzzle** down sweets, eating as much as an elephant eats?"*

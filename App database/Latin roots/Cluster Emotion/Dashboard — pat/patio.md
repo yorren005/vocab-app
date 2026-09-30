@@ -5,15 +5,6 @@ status: unread
 ---
 # patio
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Usually paved outdoor area adjoining a residence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Usually paved outdoor area adjoining a residence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"From where he stood on Drummer's enclosed patio, Brad looked through the transparent shields at ice-gray Charon low over scarred ridges to the west."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The tingling gone, she ran to the patio screen door in the dining room and peered into the back yard."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Dashing to the back yard doorway, Leah jumped the short step to the patio."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Usually paved outdoor area adjoining a residence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Usually paved outdoor area adjoining a residence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"From where he stood on Drummer's enclosed patio, Brad looked through the transparent shields at ice-gray Charon low over scarred ridges to the west."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The tingling gone, she ran to the patio screen door in the dining room and peered into the back yard."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Dashing to the back yard doorway, Leah jumped the short step to the patio."*

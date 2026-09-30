@@ -5,13 +5,6 @@ status: unread
 ---
 # fecundate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make fertile or productive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduce semen into (a female).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"One of these warts, larger than the rest, forms a kind of thick sheath around the fecundating tube."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make fertile or productive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduce semen into (a female).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"One of these warts, larger than the rest, forms a kind of thick sheath around the fecundating tube."*

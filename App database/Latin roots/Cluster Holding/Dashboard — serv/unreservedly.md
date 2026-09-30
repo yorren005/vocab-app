@@ -5,15 +5,6 @@ status: unread
 ---
 # unreservedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without reservation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without reservation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Her imagination was always as active as her heart, which she gave unreservedly on such occasions."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Jane, you are docile, diligent, disinterested, faithful, constant, and courageous; very gentle, and very heroic: cease to mistrust yourself—I can trust you unreservedly."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Diana and Mary approved the step unreservedly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without reservation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without reservation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Her imagination was always as active as her heart, which she gave unreservedly on such occasions."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Jane, you are docile, diligent, disinterested, faithful, constant, and courageous; very gentle, and very heroic: cease to mistrust yourself—I can trust you unreservedly."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Diana and Mary approved the step unreservedly."*

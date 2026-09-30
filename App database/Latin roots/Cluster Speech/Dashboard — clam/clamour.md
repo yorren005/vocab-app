@@ -5,15 +5,6 @@ status: unread
 ---
 # clamour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loud and persistent outcry from many people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter or proclaim insistently and noisily.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And from this time, For what he did before Corioles, call him, With all th’ applause and clamour of the host, Caius Martius Coriolanus!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, what tumultuous clamour have we here?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do but start And echo with the clamour of thy drum, And even at hand a drum is ready brac’d That shall reverberate all as loud as thine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Loud and persistent outcry from many people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter or proclaim insistently and noisily.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And from this time, For what he did before Corioles, call him, With all th’ applause and clamour of the host, Caius Martius Coriolanus!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, what tumultuous clamour have we here?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do but start And echo with the clamour of thy drum, And even at hand a drum is ready brac’d That shall reverberate all as loud as thine."*

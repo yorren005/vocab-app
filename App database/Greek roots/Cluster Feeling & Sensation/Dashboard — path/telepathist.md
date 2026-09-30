@@ -5,13 +5,6 @@ status: unread
 ---
 # telepathist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone with the power of communicating thoughts directly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A magician who seems to discern the thoughts of another person (usually by clever signals from an accomplice).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telepathist designates someone with the power of communicating thoughts directly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone with the power of communicating thoughts directly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A magician who seems to discern the thoughts of another person (usually by clever signals from an accomplice).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telepathist designates someone with the power of communicating thoughts directly."*

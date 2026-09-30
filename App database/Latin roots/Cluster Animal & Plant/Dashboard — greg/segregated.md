@@ -5,13 +5,6 @@ status: unread
 ---
 # segregated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Separate by race or religion; practice a policy of racial segregation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide from the main body or mass and collect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, segregated designates separate by race or religion; practice a policy of racial segregation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Separate by race or religion; practice a policy of racial segregation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide from the main body or mass and collect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, segregated designates separate by race or religion; practice a policy of racial segregation."*

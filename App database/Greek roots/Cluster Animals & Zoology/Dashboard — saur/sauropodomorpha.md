@@ -5,13 +5,6 @@ status: unread
 ---
 # sauropodomorpha
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gigantic herbivorous dinosaurs having huge bodies with long necks and small heads: prosauropoda and sauropoda (apatosaurus, diplodocus and titanosaurs).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gigantic herbivorous dinosaurs having huge bodies with long necks and small heads: prosauropoda and sauropoda (apatosaurus, diplodocus and titanosaurs).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sauropodomorpha designates gigantic herbivorous dinosaurs having huge bodies with long necks and small heads: prosauropoda and sauropoda (apatosaurus, diplodocus and titanosaurs)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gigantic herbivorous dinosaurs having huge bodies with long necks and small heads: prosauropoda and sauropoda (apatosaurus, diplodocus and titanosaurs).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gigantic herbivorous dinosaurs having huge bodies with long necks and small heads: prosauropoda and sauropoda (apatosaurus, diplodocus and titanosaurs).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sauropodomorpha designates gigantic herbivorous dinosaurs having huge bodies with long necks and small heads: prosauropoda and sauropoda (apatosaurus, diplodocus and titanosaurs)."*

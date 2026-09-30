@@ -5,15 +5,6 @@ status: unread
 ---
 # proposition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (logic) a statement that affirms or denies something and is either true or false.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A proposal offered for acceptance or rejection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It has been observed more than once that the causes of love are chiefly subjective, and Boldwood was a living testimony to the truth of the proposition."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It has been sometimes argued that there is no truer criterion of the vitality of any given art-period than the power of the master-spirits of that time in grotesque; and certainly in the instance of Gothic art there is no disputing the proposition."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There was a difference between the proposition and the covenant, which she had felt only too quickly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (logic) a statement that affirms or denies something and is either true or false.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A proposal offered for acceptance or rejection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It has been observed more than once that the causes of love are chiefly subjective, and Boldwood was a living testimony to the truth of the proposition."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It has been sometimes argued that there is no truer criterion of the vitality of any given art-period than the power of the master-spirits of that time in grotesque; and certainly in the instance of Gothic art there is no disputing the proposition."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There was a difference between the proposition and the covenant, which she had felt only too quickly."*

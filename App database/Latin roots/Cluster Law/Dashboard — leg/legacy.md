@@ -5,15 +5,6 @@ status: unread
 ---
 # legacy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a gift of personal property by will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a gift of personal property by will.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if thou live remembered not to be, Die single and thine image dies with thee. 4 Unthrifty loveliness why dost thou spend, Upon thyself thy beauty’s legacy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, Diana, take heed of this French earl; the honour of a maid is her name; and no legacy is so rich as honesty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Out with that too; it was Eve’s legacy and cannot be ta’en from her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a gift of personal property by will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a gift of personal property by will.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if thou live remembered not to be, Die single and thine image dies with thee. 4 Unthrifty loveliness why dost thou spend, Upon thyself thy beauty’s legacy?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, Diana, take heed of this French earl; the honour of a maid is her name; and no legacy is so rich as honesty."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Out with that too; it was Eve’s legacy and cannot be ta’en from her."*

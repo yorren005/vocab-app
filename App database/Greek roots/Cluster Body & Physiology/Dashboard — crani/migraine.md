@@ -5,13 +5,6 @@ status: unread
 ---
 # migraine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition marked by recurring moderate to severe headache with throbbing pain that usually lasts from four hours to three days, typically begins on one side of the head but may spread to both sides, is often accompanied by nausea, vomiting, and sensitivity to light or sound, and is sometimes preceded by an aura and is often followed by fatigue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition that is a variant form of the typical migraine but in which headache is absent or not a prominent symptom:.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, migraine designates a condition marked by recurring moderate to severe headache with throbbing pain that usually lasts from four hours to three days, typically begins on one side of the head but may spread to both sides, is often accompanied by nausea, vomiting, and sensitivity to light or sound, and is sometimes preceded by an aura and is often followed by fatigue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition marked by recurring moderate to severe headache with throbbing pain that usually lasts from four hours to three days, typically begins on one side of the head but may spread to both sides, is often accompanied by nausea, vomiting, and sensitivity to light or sound, and is sometimes preceded by an aura and is often followed by fatigue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition that is a variant form of the typical migraine but in which headache is absent or not a prominent symptom:.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, migraine designates a condition marked by recurring moderate to severe headache with throbbing pain that usually lasts from four hours to three days, typically begins on one side of the head but may spread to both sides, is often accompanied by nausea, vomiting, and sensitivity to light or sound, and is sometimes preceded by an aura and is often followed by fatigue."*

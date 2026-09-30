@@ -5,15 +5,6 @@ status: unread
 ---
 # contrive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Devise, plan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To form or create in an artistic or ingenious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Was’t you that did so oft contrive to kill him?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But howsoever thou pursu’st this act, Taint not thy mind, nor let thy soul contrive Against thy mother aught; leave her to heaven, And to those thorns that in her bosom lodge, To prick and sting her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will leave him and suddenly contrive the means of meeting between him and my daughter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devise, plan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To form or create in an artistic or ingenious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Was’t you that did so oft contrive to kill him?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But howsoever thou pursu’st this act, Taint not thy mind, nor let thy soul contrive Against thy mother aught; leave her to heaven, And to those thorns that in her bosom lodge, To prick and sting her."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will leave him and suddenly contrive the means of meeting between him and my daughter."*

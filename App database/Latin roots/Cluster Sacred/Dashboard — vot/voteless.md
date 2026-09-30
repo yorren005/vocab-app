@@ -5,13 +5,6 @@ status: unread
 ---
 # voteless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprived of the rights of citizenship especially the right to vote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprived of the rights of citizenship especially the right to vote.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, voteless designates deprived of the rights of citizenship especially the right to vote."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprived of the rights of citizenship especially the right to vote.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprived of the rights of citizenship especially the right to vote.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, voteless designates deprived of the rights of citizenship especially the right to vote."*

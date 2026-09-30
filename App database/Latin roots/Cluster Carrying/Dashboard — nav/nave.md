@@ -5,15 +5,6 @@ status: unread
 ---
 # nave
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The central area of a church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The central area of a church.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All you gods, In general synod, take away her power; Break all the spokes and fellies from her wheel, And bowl the round nave down the hill of heaven, As low as to the fiends._ POLONIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Would not this nave of a wheel have his ears cut off?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At last he did turn, and stalked resolutely down the nave, braving them all, with a compressed lip."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The central area of a church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The central area of a church.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All you gods, In general synod, take away her power; Break all the spokes and fellies from her wheel, And bowl the round nave down the hill of heaven, As low as to the fiends._ POLONIUS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Would not this nave of a wheel have his ears cut off?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At last he did turn, and stalked resolutely down the nave, braving them all, with a compressed lip."*

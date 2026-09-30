@@ -5,13 +5,6 @@ status: unread
 ---
 # anarchic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without law or control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without law or control.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Shelley's anarchic principles were as a rule held by him with some misdirected view to truth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without law or control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without law or control.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Shelley's anarchic principles were as a rule held by him with some misdirected view to truth."*

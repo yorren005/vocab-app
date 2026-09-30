@@ -5,20 +5,6 @@ status: unread
 ---
 # enshroud
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Cover or enclose with or as if with a shroud
-> 2. **Nuance / Usage**: (transitive) to cover with (or as if with) a shroud
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to enshroud the target*) and intransitive clauses (*enshrouding against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was interesting when I dressed before daylight to peep out of window, where my candles were reflected in the black panes like two beacons, and finding all beyond still enshrouded in the indistinctness of last night, to watch how it turned out when the day came on."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Four fierce figures trudged away, East, West, North, and South, along the night-enshrouded roads, guided by the beacon they had lighted, towards their next destination."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Nobody came near them, and their movements showed a mechanical regularity; their forms standing enshrouded in Hessian “wroppers”—sleeved brown pinafores, tied behind to the bottom, to keep their gowns from blowing about."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Cover or enclose with or as if with a shroud
+> 2. **Nuance / Usage**: (transitive) to cover with (or as if with) a shroud
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to enshroud the target*) and intransitive clauses (*enshrouding against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It was interesting when I dressed before daylight to peep out of window, where my candles were reflected in the black panes like two beacons, and finding all beyond still enshrouded in the indistinctness of last night, to watch how it turned out when the day came on."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Four fierce figures trudged away, East, West, North, and South, along the night-enshrouded roads, guided by the beacon they had lighted, towards their next destination."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Nobody came near them, and their movements showed a mechanical regularity; their forms standing enshrouded in Hessian “wroppers”—sleeved brown pinafores, tied behind to the bottom, to keep their gowns from blowing about."*

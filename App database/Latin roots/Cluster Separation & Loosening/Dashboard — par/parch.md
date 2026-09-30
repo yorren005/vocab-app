@@ -5,15 +5,6 @@ status: unread
 ---
 # parch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to wither or parch from exposure to heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to wither or parch from exposure to heat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What glory our Achilles shares from Hector, Were he not proud, we all should share with him; But he already is too insolent; And it were better parch in Afric sun Than in the pride and salt scorn of his eyes, Should he scape Hector fair."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But, Delia, on thy balmy lips Let me, no vagrant insect, rove; O let me steal one liquid kiss, For Oh! my soul is parch’d with love."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Do the large, dark eyes, and the small, red mouth, Consume thine heart with a fiery drouth, Like the fierce sirocco that sweeps from the south, When the deserts are parch'd and dry?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to wither or parch from exposure to heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to wither or parch from exposure to heat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What glory our Achilles shares from Hector, Were he not proud, we all should share with him; But he already is too insolent; And it were better parch in Afric sun Than in the pride and salt scorn of his eyes, Should he scape Hector fair."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But, Delia, on thy balmy lips Let me, no vagrant insect, rove; O let me steal one liquid kiss, For Oh! my soul is parch’d with love."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Do the large, dark eyes, and the small, red mouth, Consume thine heart with a fiery drouth, Like the fierce sirocco that sweeps from the south, When the deserts are parch'd and dry?"*

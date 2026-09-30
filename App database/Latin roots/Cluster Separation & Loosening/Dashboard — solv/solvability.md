@@ -5,13 +5,6 @@ status: unread
 ---
 # solvability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property (of a problem or difficulty) that makes it possible to solve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property (of a problem or difficulty) that makes it possible to solve.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solvability designates the property (of a problem or difficulty) that makes it possible to solve."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property (of a problem or difficulty) that makes it possible to solve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property (of a problem or difficulty) that makes it possible to solve.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solvability designates the property (of a problem or difficulty) that makes it possible to solve."*

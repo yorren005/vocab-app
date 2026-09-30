@@ -5,13 +5,6 @@ status: unread
 ---
 # homological
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Similar in evolutionary origin but not in function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Similar in evolutionary origin but not in function.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homological designates similar in evolutionary origin but not in function."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Similar in evolutionary origin but not in function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Similar in evolutionary origin but not in function.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homological designates similar in evolutionary origin but not in function."*

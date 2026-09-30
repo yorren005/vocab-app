@@ -5,20 +5,6 @@ status: unread
 ---
 # taiga
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Lake in alaska
-> 2. **Nuance / Usage**: Alternative spelling of tayga
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the taiga withstood the storm*), direct object (*cleaved the taiga*), or prepositional anchor (*amidst the taiga*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Richard Fortey (*The Earth*):** *"The mountains run from the Arctic Island of Novaya Zemlya southwards, dividing the endless wastes of the Siberian taiga and the steppes from the Russian platform in the west."*
-> - 📜 **Thomas Pynchon (*Against the Day*):** *"Like the taiga, he was everywhere, and mysterious—a heroic being with unearthly gifts."*
-> - 📜 **Cristina Rivera Garza (*The Taiga Syndrome*):** *"You don't come to the Taiga; the Taiga enters you through a light shining through a windowpane that you are compelled to look through for reasons unknown."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Lake in alaska
+> 2. **Nuance / Usage**: Alternative spelling of tayga
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the taiga withstood the storm*), direct object (*cleaved the taiga*), or prepositional anchor (*amidst the taiga*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Richard Fortey (*The Earth*):** *"The mountains run from the Arctic Island of Novaya Zemlya southwards, dividing the endless wastes of the Siberian taiga and the steppes from the Russian platform in the west."*
+> - 📜 **Thomas Pynchon (*Against the Day*):** *"Like the taiga, he was everywhere, and mysterious—a heroic being with unearthly gifts."*
+> - 📜 **Cristina Rivera Garza (*The Taiga Syndrome*):** *"You don't come to the Taiga; the Taiga enters you through a light shining through a windowpane that you are compelled to look through for reasons unknown."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # holotype
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The single specimen designated by an author as the type of a species or lesser taxon at the time of establishing the group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The type of a species or lesser taxon designated at a date later than that of establishing a group or by a person other than the author of the taxon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holotype designates the single specimen designated by an author as the type of a species or lesser taxon at the time of establishing the group."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The single specimen designated by an author as the type of a species or lesser taxon at the time of establishing the group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The type of a species or lesser taxon designated at a date later than that of establishing a group or by a person other than the author of the taxon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holotype designates the single specimen designated by an author as the type of a species or lesser taxon at the time of establishing the group."*

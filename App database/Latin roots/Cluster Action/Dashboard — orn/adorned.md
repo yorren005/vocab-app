@@ -5,15 +5,6 @@ status: unread
 ---
 # adorned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more attractive by adding ornament, colour, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be beautiful to look at.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A canopy, borne by four of the Cinque Ports; under it, the Queen in her robe, in her hair, richly adorned with pearl, crowned."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Part us, Northumberland: I towards the north, Where shivering cold and sickness pines the clime; My wife to France, from whence set forth in pomp, She came adorned hither like sweet May, Sent back like Hallowmas or short’st of day."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Beautiful portraits of his ancestors adorned these walls, and he recalled how Salo had loved them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more attractive by adding ornament, colour, etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be beautiful to look at.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A canopy, borne by four of the Cinque Ports; under it, the Queen in her robe, in her hair, richly adorned with pearl, crowned."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Part us, Northumberland: I towards the north, Where shivering cold and sickness pines the clime; My wife to France, from whence set forth in pomp, She came adorned hither like sweet May, Sent back like Hallowmas or short’st of day."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Beautiful portraits of his ancestors adorned these walls, and he recalled how Salo had loved them."*

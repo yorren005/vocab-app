@@ -5,13 +5,6 @@ status: unread
 ---
 # elapidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cobras; kraits; mambas; coral snakes; australian taipan and tiger snakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cobras; kraits; mambas; coral snakes; australian taipan and tiger snakes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elapidae designates cobras; kraits; mambas; coral snakes; australian taipan and tiger snakes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cobras; kraits; mambas; coral snakes; australian taipan and tiger snakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cobras; kraits; mambas; coral snakes; australian taipan and tiger snakes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elapidae designates cobras; kraits; mambas; coral snakes; australian taipan and tiger snakes."*

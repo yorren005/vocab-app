@@ -5,13 +5,6 @@ status: unread
 ---
 # spicily
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With strong spices; in a spicy manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With strong spices; in a spicy manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The chimney of the new house, in short, belching forth its kitchen smoke, impregnated the whole air with the scent of meats, fowls, and fishes, spicily concocted with odoriferous herbs, and onions in abundance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With strong spices; in a spicy manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With strong spices; in a spicy manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The chimney of the new house, in short, belching forth its kitchen smoke, impregnated the whole air with the scent of meats, fowls, and fishes, spicily concocted with odoriferous herbs, and onions in abundance."*

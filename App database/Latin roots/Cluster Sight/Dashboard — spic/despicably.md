@@ -5,14 +5,6 @@ status: unread
 ---
 # despicably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a despicable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a despicable manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"True, generous feeling is made small account of by some, but here were two natures rendered, the one intolerably acrid, the other despicably savourless for the want of it."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"How despicably have I acted!” she cried."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a despicable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a despicable manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"True, generous feeling is made small account of by some, but here were two natures rendered, the one intolerably acrid, the other despicably savourless for the want of it."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"How despicably have I acted!” she cried."*

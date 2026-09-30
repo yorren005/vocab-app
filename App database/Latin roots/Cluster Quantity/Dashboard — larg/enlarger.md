@@ -5,13 +5,6 @@ status: unread
 ---
 # enlarger
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Photographic equipment consisting of an optical projector used to enlarge a photograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Photographic equipment consisting of an optical projector used to enlarge a photograph.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enlarger designates photographic equipment consisting of an optical projector used to enlarge a photograph."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Photographic equipment consisting of an optical projector used to enlarge a photograph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Photographic equipment consisting of an optical projector used to enlarge a photograph.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enlarger designates photographic equipment consisting of an optical projector used to enlarge a photograph."*

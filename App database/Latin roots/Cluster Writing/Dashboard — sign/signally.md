@@ -5,15 +5,6 @@ status: unread
 ---
 # signally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As a signal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a signal manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole and how extremely likely it was that he would signally defeat me."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"His letters are full of his saintly wife, and her signally blessed efforts in winning people to put their trust where it need fear no betrayal."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It must be admitted, that God has most signally blessed the faith of the inmates of the Consumptive's Home, answered their prayer for others."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As a signal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a signal manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole and how extremely likely it was that he would signally defeat me."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"His letters are full of his saintly wife, and her signally blessed efforts in winning people to put their trust where it need fear no betrayal."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"It must be admitted, that God has most signally blessed the faith of the inmates of the Consumptive's Home, answered their prayer for others."*

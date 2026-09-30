@@ -5,13 +5,6 @@ status: unread
 ---
 # minicomputer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A digital computer of medium size.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A digital computer of medium size.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minicomputer designates a digital computer of medium size."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A digital computer of medium size.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A digital computer of medium size.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, minicomputer designates a digital computer of medium size."*

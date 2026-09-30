@@ -5,14 +5,6 @@ status: unread
 ---
 # pyrrhotite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brownish iron sulfide mineral (fes) having weak magnetic properties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brownish iron sulfide mineral (fes) having weak magnetic properties.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Fe_{2}S_{3} (Cu 34·4, Fe 30·5, and S 35·1 per cent.), but usually the ore is not in this condition, being mechanically mixed with large quantities of iron pyrites, and very often with pyrrhotite."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"When heated in an atmosphere free from oxygen, this pyrites loses some of its sulphur and approaches pyrrhotite in composition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brownish iron sulfide mineral (fes) having weak magnetic properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brownish iron sulfide mineral (fes) having weak magnetic properties.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Fe_{2}S_{3} (Cu 34·4, Fe 30·5, and S 35·1 per cent.), but usually the ore is not in this condition, being mechanically mixed with large quantities of iron pyrites, and very often with pyrrhotite."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"When heated in an atmosphere free from oxygen, this pyrites loses some of its sulphur and approaches pyrrhotite in composition."*

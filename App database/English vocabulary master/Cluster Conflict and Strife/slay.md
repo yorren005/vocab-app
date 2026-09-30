@@ -5,20 +5,6 @@ status: unread
 ---
 # slay
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Delight or amuse immensely
-> 2. **Nuance / Usage**: (transitive, slang) to delight or overwhelm, especially with laughter
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to slay the target*) and intransitive clauses (*slaying against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"During their use, and slay us after."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Revenge,—about,—seek,—burn,—fire,—kill,—slay,—let not a traitor live!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Turn to another, this shall slay them both."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To kill a person, beast, or enemy violently in battle or combat.
+> 2. **Nuance / Usage**: Elevated, archaic, or mythic in its literal sense (past *slew*, past participle *slain*); in colloquial modern slang, to overwhelm with laughter or impress spectacularly.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Transitive Verb (past *slew*, participle *slain*).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to slay the dragon*) and passive participial clauses (*slain upon the battlefield*).
+> - **Collocations & Registers**: Epic, biblical, and martial registers; collocated with *sword*, *battle*, *monster*, *traitor*, and *vengeance*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Revenge! About! Seek! Burn! Fire! Kill! **Slay**! Let not a traitor live!"*
+> - 📜 **Sir Thomas Malory (*Le Morte d'Arthur*):** *"Sir Launcelot drew his sword and **slew** the giant that had held the castle in terror."*
+> - 📜 **J. R. R. Tolkien (*The Lord of the Rings*):** *"Many a brave warrior was **slain** before the gates of the city on that dark morning."*

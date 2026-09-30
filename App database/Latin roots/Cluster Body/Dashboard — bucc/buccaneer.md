@@ -5,15 +5,6 @@ status: unread
 ---
 # buccaneer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Live like a buccaneer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Edward John Trelawny, a cadet of a Cornish family, "with his knight-errant aspect, dark, handsome, and moustachioed," was the true buccaneer of romance, but of honest English grain, and without a trace of pose."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The half-pay officer took the lead, and in his narrations fathered upon Kidd all the plunderings and exploits of Morgan,[1] Blackbeard,[2] and the whole list of bloody buccaneers. [1] Sir Henry Morgan (1637–90), a noted Welsh buccaneer."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Wolfert, who from a dark corner of the room had listened with intense eagerness to all this talk about buried treasure, looked with mingled awe and reverence at this bold buccaneer, for such he really suspected him to be."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Live like a buccaneer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Edward John Trelawny, a cadet of a Cornish family, "with his knight-errant aspect, dark, handsome, and moustachioed," was the true buccaneer of romance, but of honest English grain, and without a trace of pose."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The half-pay officer took the lead, and in his narrations fathered upon Kidd all the plunderings and exploits of Morgan,[1] Blackbeard,[2] and the whole list of bloody buccaneers. [1] Sir Henry Morgan (1637–90), a noted Welsh buccaneer."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Wolfert, who from a dark corner of the room had listened with intense eagerness to all this talk about buried treasure, looked with mingled awe and reverence at this bold buccaneer, for such he really suspected him to be."*

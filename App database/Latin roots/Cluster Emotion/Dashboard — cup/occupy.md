@@ -5,15 +5,6 @@ status: unread
 ---
 # occupy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep busy with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Live (in a certain place).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God’s light, these villains will make the word as odious as the word “occupy,” which was an excellent good word before it was ill sorted."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, thou art deceived; I would have made it short, for I was come to the whole depth of my tale, and meant indeed to occupy the argument no longer."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt was glad to find his mother busy with work which did not occupy her thoughts, as he often longed for such an opportunity without success."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep busy with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Live (in a certain place).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God’s light, these villains will make the word as odious as the word “occupy,” which was an excellent good word before it was ill sorted."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, thou art deceived; I would have made it short, for I was come to the whole depth of my tale, and meant indeed to occupy the argument no longer."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt was glad to find his mother busy with work which did not occupy her thoughts, as he often longed for such an opportunity without success."*

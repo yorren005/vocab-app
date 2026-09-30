@@ -5,13 +5,6 @@ status: unread
 ---
 # aram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The biblical name for ancient syria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biblical name for ancient syria.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"These stairs were such as whereon Jacob saw Angels ascending and descending, bands Of guardians bright, when he from Esau fled To Padan-Aram, in the field of Luz Dreaming by night under the open sky And waking cried, This is the gate of Heaven."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biblical name for ancient syria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biblical name for ancient syria.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"These stairs were such as whereon Jacob saw Angels ascending and descending, bands Of guardians bright, when he from Esau fled To Padan-Aram, in the field of Luz Dreaming by night under the open sky And waking cried, This is the gate of Heaven."*

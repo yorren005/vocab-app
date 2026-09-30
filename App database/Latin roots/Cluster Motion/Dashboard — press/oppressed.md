@@ -5,15 +5,6 @@ status: unread
 ---
 # oppressed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come down on or keep down by unjust use of one's authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to suffer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When day’s oppression is not eased by night, But day by night and night by day oppressed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For when these quicker elements are gone In tender embassy of love to thee, My life being made of four, with two alone, Sinks down to death, oppressed with melancholy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s a young maid with travel much oppressed, And faints for succour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Come down on or keep down by unjust use of one's authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to suffer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When day’s oppression is not eased by night, But day by night and night by day oppressed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For when these quicker elements are gone In tender embassy of love to thee, My life being made of four, with two alone, Sinks down to death, oppressed with melancholy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s a young maid with travel much oppressed, And faints for succour."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # relapsing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A failure to maintain a higher state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deteriorate in health.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was by that time perseveringly dictating to Caddy, and Caddy was fast relapsing into the inky condition in which we had found her."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I dustn’t,” says Jo, relapsing into the profile state."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester, evidently with a great determination to say, in his own manner, something that is on his mind before relapsing into silence, tries to raise himself among his pillows a little more."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A failure to maintain a higher state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deteriorate in health.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"She was by that time perseveringly dictating to Caddy, and Caddy was fast relapsing into the inky condition in which we had found her."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I dustn’t,” says Jo, relapsing into the profile state."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester, evidently with a great determination to say, in his own manner, something that is on his mind before relapsing into silence, tries to raise himself among his pillows a little more."*

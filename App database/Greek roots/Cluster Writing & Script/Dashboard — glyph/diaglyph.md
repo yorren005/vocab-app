@@ -5,13 +5,6 @@ status: unread
 ---
 # diaglyph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Glyptic art consisting of a sunken or depressed engraving or carving on a stone or gem (as opposed to cameo).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Glyptic art consisting of a sunken or depressed engraving or carving on a stone or gem (as opposed to cameo).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diaglyph designates glyptic art consisting of a sunken or depressed engraving or carving on a stone or gem (as opposed to cameo)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Glyptic art consisting of a sunken or depressed engraving or carving on a stone or gem (as opposed to cameo).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Glyptic art consisting of a sunken or depressed engraving or carving on a stone or gem (as opposed to cameo).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diaglyph designates glyptic art consisting of a sunken or depressed engraving or carving on a stone or gem (as opposed to cameo)."*

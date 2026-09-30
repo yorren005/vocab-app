@@ -5,15 +5,6 @@ status: unread
 ---
 # dismal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing dejection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing dejection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am wrapp’d in dismal thinkings."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The sight is dismal; And our affairs from England come too late."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My gracious lords, to add to your laments, Wherewith you now bedew King Henry’s hearse, I must inform you of a dismal fight Betwixt the stout Lord Talbot and the French."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing dejection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing dejection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am wrapp’d in dismal thinkings."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The sight is dismal; And our affairs from England come too late."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My gracious lords, to add to your laments, Wherewith you now bedew King Henry’s hearse, I must inform you of a dismal fight Betwixt the stout Lord Talbot and the French."*

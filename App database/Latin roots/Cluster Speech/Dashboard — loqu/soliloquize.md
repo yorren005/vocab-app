@@ -5,15 +5,6 @@ status: unread
 ---
 # soliloquize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Talk to oneself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk to oneself.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He’d set upon a post at a street corner eight or ten hours at a stretch if he undertook to do it.” “He might have done worse,” I heard my guardian soliloquize."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"How now,” he soliloquized at last, withdrawing the tube, “this smoking no longer soothes."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This at least is duty; duty and profit hand in hand!” “Aye, aye, I thought as much,” soliloquized Stubb, when the boats diverged, “as soon as I clapt eye on ’em, I thought so."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Talk to oneself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk to oneself.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He’d set upon a post at a street corner eight or ten hours at a stretch if he undertook to do it.” “He might have done worse,” I heard my guardian soliloquize."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"How now,” he soliloquized at last, withdrawing the tube, “this smoking no longer soothes."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This at least is duty; duty and profit hand in hand!” “Aye, aye, I thought as much,” soliloquized Stubb, when the boats diverged, “as soon as I clapt eye on ’em, I thought so."*

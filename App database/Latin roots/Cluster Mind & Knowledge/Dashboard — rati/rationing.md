@@ -5,13 +5,6 @@ status: unread
 ---
 # rationing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rationing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restrict the consumption of a relatively scarce commodity, as during war.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rationing designates the act of rationing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rationing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restrict the consumption of a relatively scarce commodity, as during war.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rationing designates the act of rationing."*

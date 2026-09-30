@@ -5,14 +5,6 @@ status: unread
 ---
 # adjudicate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put on trial or hear a case and sit as the judge at the trial of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to an end; settle conclusively.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Later, we took in a third—another of Adversity’s brood, who, like Garrick between Tragedy and Comedy, had a chronic inability to adjudicate the rival claims (to himself) of Frost and Famine."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Interstate commerce commissioners determine whether rates are reasonable, boards of arbitration settle disputes, the strike commission adjudicates difficulties in the coal regions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put on trial or hear a case and sit as the judge at the trial of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to an end; settle conclusively.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Later, we took in a third—another of Adversity’s brood, who, like Garrick between Tragedy and Comedy, had a chronic inability to adjudicate the rival claims (to himself) of Frost and Famine."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Interstate commerce commissioners determine whether rates are reasonable, boards of arbitration settle disputes, the strike commission adjudicates difficulties in the coal regions."*

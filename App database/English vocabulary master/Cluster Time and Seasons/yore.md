@@ -5,20 +5,6 @@ status: unread
 ---
 # yore
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Of the past
-> 2. **Nuance / Usage**: (poetic) a time long past
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the yore withstood the storm*), direct object (*cleaved the yore*), or prepositional anchor (*amidst the yore*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"that his face is more worn than of yore, but has a softer expression."*
-> - 📜 **Washington Irving (*The Sketch Book*):** *"have the heroes of yore done for me or men like me?"*
-> - 📜 **Henry David Thoreau (*The Last Days of John Brown*):** *"It appeared strange to me that the “little dipper” should be still diving quietly in the river, as of yore; and it suggested that this bird might continue to dive here when Concord should be no more."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Time long past; distant antiquity—used almost exclusively in the poetic and nostalgic phrase *of yore* (*days of yore*).
+> 2. **Nuance / Usage**: Descending from Old English *geāra* ("of years"), it evokes a mythic, chivalric, or ancestral past viewed through the lens of memory and legend.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun / Adverb (restricted to *of yore*).
+> - **Syntactic Constructions**: Functions in postnominal and adverbial prepositional phrases (*in days of yore*, *as of yore*).
+> - **Collocations & Registers**: Poetic, archaic, and elegiac registers; collocated with *days of*, *times of*, *heroes of*, and *as of*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"His face is more worn than of **yore**, yet it bears a calmer and softer expression."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"What have the heroes of **yore** done for me or for ordinary men like me?"*
+> - 📜 **Henry David Thoreau (*The Last Days of John Brown*):** *"It appeared strange to me that the little dipper should still be diving quietly in the river, as of **yore**."*

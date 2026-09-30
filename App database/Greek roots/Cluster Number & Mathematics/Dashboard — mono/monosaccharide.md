@@ -5,13 +5,6 @@ status: unread
 ---
 # monosaccharide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sugar that is not decomposable into simpler sugars by hydrolysis, is classed as either an aldose or ketose, and contains one or more hydroxyl groups per molecule —called also simple sugar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sugar that is not decomposable into simpler sugars by hydrolysis, is classed as either an aldose or ketose, and contains one or more hydroxyl groups per molecule —called also simple sugar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monosaccharide designates a sugar that is not decomposable into simpler sugars by hydrolysis, is classed as either an aldose or ketose, and contains one or more hydroxyl groups per molecule —called also simple sugar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sugar that is not decomposable into simpler sugars by hydrolysis, is classed as either an aldose or ketose, and contains one or more hydroxyl groups per molecule —called also simple sugar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sugar that is not decomposable into simpler sugars by hydrolysis, is classed as either an aldose or ketose, and contains one or more hydroxyl groups per molecule —called also simple sugar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monosaccharide designates a sugar that is not decomposable into simpler sugars by hydrolysis, is classed as either an aldose or ketose, and contains one or more hydroxyl groups per molecule —called also simple sugar."*

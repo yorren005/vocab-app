@@ -5,15 +5,6 @@ status: unread
 ---
 # detonation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A violent release of energy caused by a chemical or nuclear reaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of detonating an explosive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The fireball had a two thousand-kay radius, and the piggybacked neutronic dispenser, once the cloud was released by the detonation, would inflict radiation death throughout tens of thousands of kay in all directions."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The thermonuclear warhead launched at the enemy fleet had been faulty or sabotaged into premature detonation."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"A heavy and dull detonation shook the ground, a puff of smoke came out of the cliff, and that was all."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A violent release of energy caused by a chemical or nuclear reaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of detonating an explosive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The fireball had a two thousand-kay radius, and the piggybacked neutronic dispenser, once the cloud was released by the detonation, would inflict radiation death throughout tens of thousands of kay in all directions."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The thermonuclear warhead launched at the enemy fleet had been faulty or sabotaged into premature detonation."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"A heavy and dull detonation shook the ground, a puff of smoke came out of the cliff, and that was all."*

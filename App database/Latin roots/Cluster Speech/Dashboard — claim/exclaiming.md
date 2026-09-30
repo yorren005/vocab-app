@@ -5,15 +5,6 @@ status: unread
 ---
 # exclaiming
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrupt excited utterance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter aloud; often with surprise, horror, or joy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He faintly flies, sweating with guilty fear; She stays, exclaiming on the direful night; He runs, and chides his vanished, loathed delight."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The Admiral wound it up summarily by exclaiming— “Ay, a very bad business indeed."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She flung her arms round Troy’s neck, exclaiming wildly from the deepest deep of her heart— “Don’t—don’t kiss them!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrupt excited utterance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter aloud; often with surprise, horror, or joy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He faintly flies, sweating with guilty fear; She stays, exclaiming on the direful night; He runs, and chides his vanished, loathed delight."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The Admiral wound it up summarily by exclaiming— “Ay, a very bad business indeed."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She flung her arms round Troy’s neck, exclaiming wildly from the deepest deep of her heart— “Don’t—don’t kiss them!"*

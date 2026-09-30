@@ -5,15 +5,6 @@ status: unread
 ---
 # imperfectly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an imperfect or faulty way; ; - jane austen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an imperfect or faulty way; ; - jane austen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Through all the good taste of her dress and little adornments, these objections so express themselves that she seems to go about like a very neat she-wolf imperfectly tamed."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy saw us to the door with the air of one who was either imperfectly awake or walking in his sleep; and we left him there, staring."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You are perfectly pleasant; I am imperfectly pleasant; then, if I never allude to an unpleasant matter, how much less should you!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an imperfect or faulty way; ; - jane austen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an imperfect or faulty way; ; - jane austen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Through all the good taste of her dress and little adornments, these objections so express themselves that she seems to go about like a very neat she-wolf imperfectly tamed."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy saw us to the door with the air of one who was either imperfectly awake or walking in his sleep; and we left him there, staring."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You are perfectly pleasant; I am imperfectly pleasant; then, if I never allude to an unpleasant matter, how much less should you!"*

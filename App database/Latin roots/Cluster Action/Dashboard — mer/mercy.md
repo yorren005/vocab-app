@@ -5,15 +5,6 @@ status: unread
 ---
 # mercy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leniency and compassion shown toward offenders by a person or agency charged with administering justice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to be kind and forgiving.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God’s mercy, maiden! does it curd thy blood To say I am thy mother?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would you had kneel’d, my lord, to ask me mercy, And that at my bidding you could so stand up."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I had; so I had broke thy pate, And ask’d thee mercy for’t."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Leniency and compassion shown toward offenders by a person or agency charged with administering justice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to be kind and forgiving.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God’s mercy, maiden! does it curd thy blood To say I am thy mother?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would you had kneel’d, my lord, to ask me mercy, And that at my bidding you could so stand up."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I had; so I had broke thy pate, And ask’d thee mercy for’t."*

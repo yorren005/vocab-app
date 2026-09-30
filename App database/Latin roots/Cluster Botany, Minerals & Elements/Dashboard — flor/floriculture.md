@@ -5,13 +5,6 @@ status: unread
 ---
 # floriculture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cultivation of flowering plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cultivation of flowering plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Agriculture" is here used in a broad sense, including floriculture, animal husbandry (poultry, bee culture, stock raising), regular fishing and oystering, forestry and lumbering."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cultivation of flowering plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cultivation of flowering plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Agriculture" is here used in a broad sense, including floriculture, animal husbandry (poultry, bee culture, stock raising), regular fishing and oystering, forestry and lumbering."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # center
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An area that is approximately central within some larger region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The piece of ground in the outfield directly ahead of the catcher.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that will all the treasure know o’ th’ earth Must know the center too; he that will fish For my least minnow, let him lead his line To catch one at my heart."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Right in the center of the tornado stood a small cabin."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"I'le sink to th' Center first."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An area that is approximately central within some larger region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The piece of ground in the outfield directly ahead of the catcher.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that will all the treasure know o’ th’ earth Must know the center too; he that will fish For my least minnow, let him lead his line To catch one at my heart."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Right in the center of the tornado stood a small cabin."*
+> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"I'le sink to th' Center first."*

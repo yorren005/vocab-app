@@ -5,13 +5,6 @@ status: unread
 ---
 # aldol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oily colorless liquid obtained by the condensation of two molecules of acetaldehyde; contains an alcohol group (-oh) and an aldehyde group (-cho).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oily colorless liquid obtained by the condensation of two molecules of acetaldehyde; contains an alcohol group (-oh) and an aldehyde group (-cho).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aldol designates an oily colorless liquid obtained by the condensation of two molecules of acetaldehyde; contains an alcohol group (-oh) and an aldehyde group (-cho)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oily colorless liquid obtained by the condensation of two molecules of acetaldehyde; contains an alcohol group (-oh) and an aldehyde group (-cho).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oily colorless liquid obtained by the condensation of two molecules of acetaldehyde; contains an alcohol group (-oh) and an aldehyde group (-cho).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aldol designates an oily colorless liquid obtained by the condensation of two molecules of acetaldehyde; contains an alcohol group (-oh) and an aldehyde group (-cho)."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # mire
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Heavy often deep mud or slush
-> 2. **Nuance / Usage**: Deep mud; moist, spongy earth
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Great pails of puddled mire to quench the hair."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Paint till a horse may mire upon your face."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"the hoofs of the horses into mire and water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Heavy often deep mud or slush
+> 2. **Nuance / Usage**: Deep mud; moist, spongy earth
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Great pails of puddled mire to quench the hair."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Paint till a horse may mire upon your face."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"the hoofs of the horses into mire and water."*

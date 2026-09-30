@@ -5,13 +5,6 @@ status: unread
 ---
 # starlet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young (film) actress who is publicized as a future star.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small star.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, starlet designates a young (film) actress who is publicized as a future star."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A young (film) actress who is publicized as a future star.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small star.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, starlet designates a young (film) actress who is publicized as a future star."*

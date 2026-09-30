@@ -5,13 +5,6 @@ status: unread
 ---
 # duologue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conversation between two persons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part of the script in which the speaking roles are limited to two actors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, duologue designates a conversation between two persons."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conversation between two persons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part of the script in which the speaking roles are limited to two actors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, duologue designates a conversation between two persons."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # receptor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cellular structure that is postulated to exist in order to mediate between a chemical agent that acts on nervous tissue and the physiological response.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organ having nerve endings (in the skin or viscera or eye or ear or nose or mouth) that respond to stimulation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, receptor designates a cellular structure that is postulated to exist in order to mediate between a chemical agent that acts on nervous tissue and the physiological response."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cellular structure that is postulated to exist in order to mediate between a chemical agent that acts on nervous tissue and the physiological response.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organ having nerve endings (in the skin or viscera or eye or ear or nose or mouth) that respond to stimulation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, receptor designates a cellular structure that is postulated to exist in order to mediate between a chemical agent that acts on nervous tissue and the physiological response."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # corn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall annual cereal grass bearing kernels on large ears: widely cultivated in america in many varieties; the principal cereal in mexico and central and south america since pre-columbian times.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dried grains or kernels or corn used as animal feed or ground for meal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us kill him, and we’ll have corn at our own price."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For corn at their own rates, whereof they say The city is well stored."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They said they were an-hungry, sighed forth proverbs That hunger broke stone walls, that dogs must eat, That meat was made for mouths, that the gods sent not Corn for the rich men only."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall annual cereal grass bearing kernels on large ears: widely cultivated in america in many varieties; the principal cereal in mexico and central and south america since pre-columbian times.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dried grains or kernels or corn used as animal feed or ground for meal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us kill him, and we’ll have corn at our own price."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For corn at their own rates, whereof they say The city is well stored."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They said they were an-hungry, sighed forth proverbs That hunger broke stone walls, that dogs must eat, That meat was made for mouths, that the gods sent not Corn for the rich men only."*

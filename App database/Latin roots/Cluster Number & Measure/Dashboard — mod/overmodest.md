@@ -5,13 +5,6 @@ status: unread
 ---
 # overmodest
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affectedly modest or shy especially in a playful or provocative way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affectedly modest or shy especially in a playful or provocative way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overmodest designates affectedly modest or shy especially in a playful or provocative way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affectedly modest or shy especially in a playful or provocative way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affectedly modest or shy especially in a playful or provocative way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overmodest designates affectedly modest or shy especially in a playful or provocative way."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # pluviose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fifth month of the revolutionary calendar (january and february); the rainy month.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fifth month of the revolutionary calendar (january and february); the rainy month.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pluviose designates fifth month of the revolutionary calendar (january and february); the rainy month."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fifth month of the revolutionary calendar (january and february); the rainy month.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fifth month of the revolutionary calendar (january and february); the rainy month.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pluviose designates fifth month of the revolutionary calendar (january and february); the rainy month."*

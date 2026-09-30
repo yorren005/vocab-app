@@ -5,13 +5,6 @@ status: unread
 ---
 # semi-tuberous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Partly tuberous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partly tuberous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-tuberous designates partly tuberous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partly tuberous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Partly tuberous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-tuberous designates partly tuberous."*

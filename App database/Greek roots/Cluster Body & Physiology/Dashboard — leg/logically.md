@@ -5,15 +5,6 @@ status: unread
 ---
 # logically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: According to logical reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a logical manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But money and private property are not essentially and logically bound up together, for a certain measure of private property always has been found where money was little or not at all used."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"See ch. 14, sec. 3.] [Footnote 12: Such changes are logically related to the subject of financial crises rather than to that of the tariff."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It seems to be admitted by the friends of minimum wage legislation that this result is logically to be expected and that to some degree it appears."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: According to logical reasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a logical manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But money and private property are not essentially and logically bound up together, for a certain measure of private property always has been found where money was little or not at all used."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"See ch. 14, sec. 3.] [Footnote 12: Such changes are logically related to the subject of financial crises rather than to that of the tariff."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It seems to be admitted by the friends of minimum wage legislation that this result is logically to be expected and that to some degree it appears."*

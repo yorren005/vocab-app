@@ -5,14 +5,6 @@ status: unread
 ---
 # subornation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Underhandedly or improperly inducing someone to do something improper or unlawful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perjured testimony that someone was persuaded to give.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virtue is choked with foul ambition, And charity chased hence by rancour’s hand; Foul subornation is predominant, And equity exiled your highness’ land."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"Perjury, oppression, subornation, fraud, pandarism, and the like infirmities, were among the most excusable arts they had to mention; and for these I gave, as it was reasonable, great allowance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Underhandedly or improperly inducing someone to do something improper or unlawful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perjured testimony that someone was persuaded to give.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virtue is choked with foul ambition, And charity chased hence by rancour’s hand; Foul subornation is predominant, And equity exiled your highness’ land."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"Perjury, oppression, subornation, fraud, pandarism, and the like infirmities, were among the most excusable arts they had to mention; and for these I gave, as it was reasonable, great allowance."*

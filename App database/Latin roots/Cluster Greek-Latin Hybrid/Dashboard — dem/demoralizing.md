@@ -5,15 +5,6 @@ status: unread
 ---
 # demoralizing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower someone's spirits; make downhearted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To be just, the men were not greatly to blame for this painful and demoralizing termination to the evening’s entertainment."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Good-bye, Lord Henry, you are quite delightful and dreadfully demoralizing."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The demoralizing influence of a dissolute foreign population, and the frequent visits of all descriptions of vessels, have tended not a little to increase the evils alluded to."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower someone's spirits; make downhearted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To be just, the men were not greatly to blame for this painful and demoralizing termination to the evening’s entertainment."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Good-bye, Lord Henry, you are quite delightful and dreadfully demoralizing."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The demoralizing influence of a dissolute foreign population, and the frequent visits of all descriptions of vessels, have tended not a little to increase the evils alluded to."*

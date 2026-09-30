@@ -5,13 +5,6 @@ status: unread
 ---
 # forte-piano
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A keyboard instrument that is played by depressing keys that cause hammers to strike tuned strings and produce sounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A keyboard instrument that is played by depressing keys that cause hammers to strike tuned strings and produce sounds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, forte-piano designates a keyboard instrument that is played by depressing keys that cause hammers to strike tuned strings and produce sounds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A keyboard instrument that is played by depressing keys that cause hammers to strike tuned strings and produce sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A keyboard instrument that is played by depressing keys that cause hammers to strike tuned strings and produce sounds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, forte-piano designates a keyboard instrument that is played by depressing keys that cause hammers to strike tuned strings and produce sounds."*

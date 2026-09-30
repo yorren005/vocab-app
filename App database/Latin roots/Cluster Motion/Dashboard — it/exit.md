@@ -5,15 +5,6 @@ status: unread
 ---
 # exit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An opening that permits escape or release.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Euphemistic expressions for death.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, Bertram. [_Exit Countess._] BERTRAM."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Monsieur Parolles, my lord calls for you. [_Exit Page._] PAROLLES."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, farewell. [_Exit._] HELENA."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An opening that permits escape or release.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Euphemistic expressions for death.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, Bertram. [_Exit Countess._] BERTRAM."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Monsieur Parolles, my lord calls for you. [_Exit Page._] PAROLLES."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, farewell. [_Exit._] HELENA."*

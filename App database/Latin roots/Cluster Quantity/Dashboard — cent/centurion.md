@@ -5,15 +5,6 @@ status: unread
 ---
 # centurion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (ancient rome) the leader of 100 soldiers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (ancient rome) the leader of 100 soldiers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Only a centurion and a handful of soldiers are with Him."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And that centurion--what was his name?--his daughter!..."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Jerome tells us that Tertullian was the son of a centurion.[5] He tells us himself, incidentally and by implication, that he was the child of heathen parents."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (ancient rome) the leader of 100 soldiers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (ancient rome) the leader of 100 soldiers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Only a centurion and a handful of soldiers are with Him."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And that centurion--what was his name?--his daughter!..."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Jerome tells us that Tertullian was the son of a centurion.[5] He tells us himself, incidentally and by implication, that he was the child of heathen parents."*

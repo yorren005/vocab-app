@@ -5,15 +5,6 @@ status: unread
 ---
 # sociable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A party of people assembled to promote sociability and communal activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined to or conducive to companionship with others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am ill, but your being by me Cannot amend me; society is no comfort To one not sociable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good den, Sir Richard!” “God-a-mercy, fellow!” And if his name be George, I’ll call him Peter; For new-made honour doth forget men’s names: ’Tis too respective and too sociable For your conversion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where but by a chance a silver drop hath fall’n, Even to that drop ten thousand wiry friends Do glue themselves in sociable grief, Like true, inseparable, faithful loves, Sticking together in calamity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A party of people assembled to promote sociability and communal activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined to or conducive to companionship with others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am ill, but your being by me Cannot amend me; society is no comfort To one not sociable."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good den, Sir Richard!” “God-a-mercy, fellow!” And if his name be George, I’ll call him Peter; For new-made honour doth forget men’s names: ’Tis too respective and too sociable For your conversion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where but by a chance a silver drop hath fall’n, Even to that drop ten thousand wiry friends Do glue themselves in sociable grief, Like true, inseparable, faithful loves, Sticking together in calamity."*

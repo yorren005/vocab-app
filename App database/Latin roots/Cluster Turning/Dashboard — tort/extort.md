@@ -5,15 +5,6 @@ status: unread
 ---
 # extort
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtain through intimidation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtain by coercion or intimidation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must know, Till the injurious Romans did extort This tribute from us, we were free."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Newness Of Cloten’s death (we being not known, not muster’d Among the bands) may drive us to a render Where we have liv’d, and so extort from’s that Which we have done, whose answer would be death, Drawn on with torture."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"None of noble sort Would so offend a virgin, and extort A poor soul’s patience, all to make you sport."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtain through intimidation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtain by coercion or intimidation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must know, Till the injurious Romans did extort This tribute from us, we were free."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Newness Of Cloten’s death (we being not known, not muster’d Among the bands) may drive us to a render Where we have liv’d, and so extort from’s that Which we have done, whose answer would be death, Drawn on with torture."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"None of noble sort Would so offend a virgin, and extort A poor soul’s patience, all to make you sport."*

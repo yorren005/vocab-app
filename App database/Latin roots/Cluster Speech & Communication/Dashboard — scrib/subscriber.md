@@ -5,15 +5,6 @@ status: unread
 ---
 # subscriber
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who expresses strong approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who contracts to receive and pay for a service or a certain number of issues of a publication.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Price, One Dollar annually, _in advance, or on becoming a Subscriber_, or One Dollar and Fifty cents, if payment is delayed after the receipt of six Numbers."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"She became a subscriber; amazed at being anything _in propria persona_, amazed at her own doings in every way, to be a renter, a chuser of books!"*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"She was a subscriber for all the “Health” periodicals and phrenological frauds; and the solemn ignorance they were inflated with was breath to her nostrils."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who expresses strong approval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who contracts to receive and pay for a service or a certain number of issues of a publication.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Price, One Dollar annually, _in advance, or on becoming a Subscriber_, or One Dollar and Fifty cents, if payment is delayed after the receipt of six Numbers."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"She became a subscriber; amazed at being anything _in propria persona_, amazed at her own doings in every way, to be a renter, a chuser of books!"*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"She was a subscriber for all the “Health” periodicals and phrenological frauds; and the solemn ignorance they were inflated with was breath to her nostrils."*

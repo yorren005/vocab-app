@@ -5,13 +5,6 @@ status: unread
 ---
 # leucanthemum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprises plants often included in the genus chrysanthemum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprises plants often included in the genus chrysanthemum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucanthemum designates comprises plants often included in the genus chrysanthemum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprises plants often included in the genus chrysanthemum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprises plants often included in the genus chrysanthemum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leucanthemum designates comprises plants often included in the genus chrysanthemum."*

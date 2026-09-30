@@ -5,15 +5,6 @@ status: unread
 ---
 # censorious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Harshly critical or expressing censure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harshly critical or expressing censure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And he never does anything else,” said the old lady of the censorious countenance."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Has he not been waiting two hours as it is?” “Why didn’t you call me?” He regarded me with a thoughtful, censorious eye."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Poet’s Reply To The Threat Of A Censorious Critic My imprudent lines were answered, very petulantly, by somebody, I believe, a Rev."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Harshly critical or expressing censure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harshly critical or expressing censure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"And he never does anything else,” said the old lady of the censorious countenance."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Has he not been waiting two hours as it is?” “Why didn’t you call me?” He regarded me with a thoughtful, censorious eye."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Poet’s Reply To The Threat Of A Censorious Critic My imprudent lines were answered, very petulantly, by somebody, I believe, a Rev."*

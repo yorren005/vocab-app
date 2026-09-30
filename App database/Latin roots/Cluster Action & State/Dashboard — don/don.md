@@ -5,15 +5,6 @@ status: unread
 ---
 # don
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spanish gentleman or nobleman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Teacher at a university or college (especially at cambridge or oxford).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thine, in all compliments of devoted and heartburning heat of duty, Don Adriano de Armado._ BEROWNE."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And Don Armado shall be your keeper."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thine in the dearest design of industry, Don Adriano de Armado."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spanish gentleman or nobleman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Teacher at a university or college (especially at cambridge or oxford).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thine, in all compliments of devoted and heartburning heat of duty, Don Adriano de Armado._ BEROWNE."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And Don Armado shall be your keeper."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thine in the dearest design of industry, Don Adriano de Armado."*

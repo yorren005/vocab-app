@@ -5,15 +5,6 @@ status: unread
 ---
 # consign
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commit forever; commit irrevocably.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give over to another for care or safekeeping.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It were, my lord, a hard condition for a maid to consign to."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As many farewells as be stars in heaven, With distinct breath and consign’d kisses to them, He fumbles up into a loose adieu, And scants us with a single famish’d kiss, Distasted with the salt of broken tears."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We consign the whole thing to oblivion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Commit forever; commit irrevocably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give over to another for care or safekeeping.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It were, my lord, a hard condition for a maid to consign to."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As many farewells as be stars in heaven, With distinct breath and consign’d kisses to them, He fumbles up into a loose adieu, And scants us with a single famish’d kiss, Distasted with the salt of broken tears."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"We consign the whole thing to oblivion."*

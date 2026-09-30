@@ -5,15 +5,6 @@ status: unread
 ---
 # expectancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expectation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something expected (as on the basis of a norm).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The courtier’s, soldier’s, scholar’s, eye, tongue, sword, Th’expectancy and rose of the fair state, The glass of fashion and the mould of form, Th’observ’d of all observers, quite, quite down!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, let’s do so; For every minute is expectancy Of more arrivance."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They heard the sound of wheels yet once more, and were re-animated to expectancy: it was only Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expectation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something expected (as on the basis of a norm).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The courtier’s, soldier’s, scholar’s, eye, tongue, sword, Th’expectancy and rose of the fair state, The glass of fashion and the mould of form, Th’observ’d of all observers, quite, quite down!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, let’s do so; For every minute is expectancy Of more arrivance."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They heard the sound of wheels yet once more, and were re-animated to expectancy: it was only Mr."*

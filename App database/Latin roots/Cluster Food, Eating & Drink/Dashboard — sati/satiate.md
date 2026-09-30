@@ -5,15 +5,6 @@ status: unread
 ---
 # satiate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill to satisfaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overeat or eat immodestly; make a pig of oneself.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cloyed will— That satiate yet unsatisfied desire, that tub Both fill’d and running—ravening first the lamb, Longs after for the garbage."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Let us not slip th’ occasion, whether scorn, Or satiate fury yield it from our Foe."*
-> - 📜 **John Milton (*Paradise Lost*):** *"These paths and Bowers doubt not but our joynt Will keep from Wilderness with ease, as wide As we need walk, till younger hands ere long Assist us: But if much converse perhaps Thee satiate, to short absence I could yeild."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill to satisfaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overeat or eat immodestly; make a pig of oneself.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cloyed will— That satiate yet unsatisfied desire, that tub Both fill’d and running—ravening first the lamb, Longs after for the garbage."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Let us not slip th’ occasion, whether scorn, Or satiate fury yield it from our Foe."*
+> - 📜 **John Milton (*Paradise Lost*):** *"These paths and Bowers doubt not but our joynt Will keep from Wilderness with ease, as wide As we need walk, till younger hands ere long Assist us: But if much converse perhaps Thee satiate, to short absence I could yeild."*

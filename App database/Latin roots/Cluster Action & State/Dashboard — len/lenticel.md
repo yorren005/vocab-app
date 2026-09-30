@@ -5,13 +5,6 @@ status: unread
 ---
 # lenticel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of many raised pores on the stems of woody plants that allow the interchange of gas between the atmosphere and the interior tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of many raised pores on the stems of woody plants that allow the interchange of gas between the atmosphere and the interior tissue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lenticel designates one of many raised pores on the stems of woody plants that allow the interchange of gas between the atmosphere and the interior tissue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of many raised pores on the stems of woody plants that allow the interchange of gas between the atmosphere and the interior tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of many raised pores on the stems of woody plants that allow the interchange of gas between the atmosphere and the interior tissue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lenticel designates one of many raised pores on the stems of woody plants that allow the interchange of gas between the atmosphere and the interior tissue."*

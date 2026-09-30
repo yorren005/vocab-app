@@ -5,13 +5,6 @@ status: unread
 ---
 # heterozygous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the two alleles at corresponding loci on homologous chromosomes different for one or more loci.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the two alleles at corresponding loci on homologous chromosomes different for one or more loci.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterozygous designates having the two alleles at corresponding loci on homologous chromosomes different for one or more loci."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the two alleles at corresponding loci on homologous chromosomes different for one or more loci.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the two alleles at corresponding loci on homologous chromosomes different for one or more loci.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterozygous designates having the two alleles at corresponding loci on homologous chromosomes different for one or more loci."*

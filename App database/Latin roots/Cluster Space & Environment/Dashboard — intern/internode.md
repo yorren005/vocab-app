@@ -5,13 +5,6 @@ status: unread
 ---
 # internode
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A segment of a stem between two nodes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A segment of a stem between two nodes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"REED SMUT; prodded on the stems of reeds, forming thick bullate patches several inches long, occupying whole internodes, covered by their sheath; spores globose, rather large.—On stems of _Arundo phragmitis_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A segment of a stem between two nodes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A segment of a stem between two nodes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"REED SMUT; prodded on the stems of reeds, forming thick bullate patches several inches long, occupying whole internodes, covered by their sheath; spores globose, rather large.—On stems of _Arundo phragmitis_."*

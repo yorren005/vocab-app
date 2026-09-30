@@ -5,15 +5,6 @@ status: unread
 ---
 # undiminished
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not lessened or diminished.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not lessened or diminished.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"That I have ever had the strongest affection for her, and that I retain it undiminished."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The keen instincts of Bathsheba had perceived that the farmer’s staunch devotion to herself was still undiminished, and she sympathized deeply."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bennet rejoiced to see Jane in undiminished beauty; and more than once during dinner did Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not lessened or diminished.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not lessened or diminished.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"That I have ever had the strongest affection for her, and that I retain it undiminished."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The keen instincts of Bathsheba had perceived that the farmer’s staunch devotion to herself was still undiminished, and she sympathized deeply."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bennet rejoiced to see Jane in undiminished beauty; and more than once during dinner did Mr."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # regret
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sadness associated with some wrong done or some disappointment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feel remorse for; feel sorry for; be contrite about.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"All its eyes were closed and were to remain so." "Oh, oh, did they never come back?" cried out Kurt with regret."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not that I would have had them less sorry—I am afraid not; but the pleasure of it, and the pain of it, and the pride and joy of it, and the humble regret of it were so blended that my heart seemed almost breaking while it was full of rapture."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t regret that I have not a strong will and an immense power of business detail to throw myself into objects with surprising ardour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sadness associated with some wrong done or some disappointment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feel remorse for; feel sorry for; be contrite about.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"All its eyes were closed and were to remain so." "Oh, oh, did they never come back?" cried out Kurt with regret."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Not that I would have had them less sorry—I am afraid not; but the pleasure of it, and the pain of it, and the pride and joy of it, and the humble regret of it were so blended that my heart seemed almost breaking while it was full of rapture."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t regret that I have not a strong will and an immense power of business detail to throw myself into objects with surprising ardour."*

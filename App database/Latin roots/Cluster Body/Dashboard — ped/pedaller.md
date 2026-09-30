@@ -5,13 +5,6 @@ status: unread
 ---
 # pedaller
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides a pedal-driven vehicle (as a bicycle).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who rides a pedal-driven vehicle (as a bicycle).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pedaller designates a person who rides a pedal-driven vehicle (as a bicycle)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides a pedal-driven vehicle (as a bicycle).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who rides a pedal-driven vehicle (as a bicycle).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pedaller designates a person who rides a pedal-driven vehicle (as a bicycle)."*

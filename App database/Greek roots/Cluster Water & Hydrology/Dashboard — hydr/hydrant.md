@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A discharge pipe with a valve and spout at which water may be drawn from a water main (as for fighting fires) —called also fireplug.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A discharge pipe with a valve and spout at which water may be drawn from a water main (as for fighting fires) —called also fireplug.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrant designates a discharge pipe with a valve and spout at which water may be drawn from a water main (as for fighting fires) —called also fireplug."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A discharge pipe with a valve and spout at which water may be drawn from a water main (as for fighting fires) —called also fireplug.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A discharge pipe with a valve and spout at which water may be drawn from a water main (as for fighting fires) —called also fireplug.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrant designates a discharge pipe with a valve and spout at which water may be drawn from a water main (as for fighting fires) —called also fireplug."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # academician
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone elected to honorary membership in an academy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scholar who is skilled in academic disputation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Dawe, who comes to tell me he was yesterday elected an Academician."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Well, after I had been in the room about ten minutes, talking to huge overdressed dowagers and tedious academicians, I suddenly became conscious that some one was looking at me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone elected to honorary membership in an academy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scholar who is skilled in academic disputation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Dawe, who comes to tell me he was yesterday elected an Academician."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Well, after I had been in the room about ten minutes, talking to huge overdressed dowagers and tedious academicians, I suddenly became conscious that some one was looking at me."*

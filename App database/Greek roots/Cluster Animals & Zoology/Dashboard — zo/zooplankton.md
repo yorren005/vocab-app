@@ -5,13 +5,6 @@ status: unread
 ---
 # zooplankton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freely floating or weakly swimming typically minute aquatic protozoans and animals (such as copepods, rotifers, and krill) or the eggs or larvae of aquatic animals (such as anemones, mollusks, and fish) : plankton composed of animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freely floating or weakly swimming typically minute aquatic protozoans and animals (such as copepods, rotifers, and krill) or the eggs or larvae of aquatic animals (such as anemones, mollusks, and fish) : plankton composed of animals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zooplankton designates freely floating or weakly swimming typically minute aquatic protozoans and animals (such as copepods, rotifers, and krill) or the eggs or larvae of aquatic animals (such as anemones, mollusks, and fish) : plankton composed of animals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freely floating or weakly swimming typically minute aquatic protozoans and animals (such as copepods, rotifers, and krill) or the eggs or larvae of aquatic animals (such as anemones, mollusks, and fish) : plankton composed of animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freely floating or weakly swimming typically minute aquatic protozoans and animals (such as copepods, rotifers, and krill) or the eggs or larvae of aquatic animals (such as anemones, mollusks, and fish) : plankton composed of animals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zooplankton designates freely floating or weakly swimming typically minute aquatic protozoans and animals (such as copepods, rotifers, and krill) or the eggs or larvae of aquatic animals (such as anemones, mollusks, and fish) : plankton composed of animals."*

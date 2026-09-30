@@ -5,14 +5,6 @@ status: unread
 ---
 # jocoseness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of merry joking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of merry joking.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Anything like the jocoseness of Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Mawmsey’s friendly jocoseness in questioning him which had set the tone of Lydgate’s reply."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of merry joking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of merry joking.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Anything like the jocoseness of Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mawmsey’s friendly jocoseness in questioning him which had set the tone of Lydgate’s reply."*

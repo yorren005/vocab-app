@@ -5,13 +5,6 @@ status: unread
 ---
 # subvention
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grant of financial aid as from a government to an educational institution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or process of providing aid or help of any sort.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But further, the general public interests may be recognized through the payments in aid of the funds (subsidies, subventions)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Grant of financial aid as from a government to an educational institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or process of providing aid or help of any sort.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But further, the general public interests may be recognized through the payments in aid of the funds (subsidies, subventions)."*

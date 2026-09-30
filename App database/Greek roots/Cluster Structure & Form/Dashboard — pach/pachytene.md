@@ -5,13 +5,6 @@ status: unread
 ---
 # pachytene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The stage of meiotic prophase that immediately follows the zygotene and that is characterized by paired chromosomes thickened and visibly divided into chromatids and by the occurrence of crossing-over.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The stage of meiotic prophase that immediately follows the zygotene and that is characterized by paired chromosomes thickened and visibly divided into chromatids and by the occurrence of crossing-over.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachytene designates the stage of meiotic prophase that immediately follows the zygotene and that is characterized by paired chromosomes thickened and visibly divided into chromatids and by the occurrence of crossing-over."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The stage of meiotic prophase that immediately follows the zygotene and that is characterized by paired chromosomes thickened and visibly divided into chromatids and by the occurrence of crossing-over.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The stage of meiotic prophase that immediately follows the zygotene and that is characterized by paired chromosomes thickened and visibly divided into chromatids and by the occurrence of crossing-over.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachytene designates the stage of meiotic prophase that immediately follows the zygotene and that is characterized by paired chromosomes thickened and visibly divided into chromatids and by the occurrence of crossing-over."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # presume
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take to be the case or to be true; accept without verification or proof.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take upon oneself; act presumptuously, without permission.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do presume, sir, that you are not fallen From the report that goes upon your goodness; And therefore, goaded with most sharp occasions, Which lay nice manners by, I put you to The use of your own virtues, for the which I shall continue thankful."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do beseech you, sir, Since you are like to see the king before me, Commend the paper to his gracious hand, Which I presume shall render you no blame, But rather make you thank your pains for it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Presume not that I am the thing I was; For God doth know, so shall the world perceive, That I have turn’d away my former self; So will I those that kept me company."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take to be the case or to be true; accept without verification or proof.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take upon oneself; act presumptuously, without permission.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do presume, sir, that you are not fallen From the report that goes upon your goodness; And therefore, goaded with most sharp occasions, Which lay nice manners by, I put you to The use of your own virtues, for the which I shall continue thankful."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do beseech you, sir, Since you are like to see the king before me, Commend the paper to his gracious hand, Which I presume shall render you no blame, But rather make you thank your pains for it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Presume not that I am the thing I was; For God doth know, so shall the world perceive, That I have turn’d away my former self; So will I those that kept me company."*

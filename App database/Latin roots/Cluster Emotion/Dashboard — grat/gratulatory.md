@@ -5,13 +5,6 @@ status: unread
 ---
 # gratulatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressive of sympathetic pleasure or joy on account of someone's success or good fortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressive of sympathetic pleasure or joy on account of someone's success or good fortune.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"On his way to the railroad station to which he drove slowly, in conscious enjoyment of the beautiful morning, with an unwonted sense of leisure, and a keen anticipation of pleasure, his talk was all in the grateful and gratulatory vein."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressive of sympathetic pleasure or joy on account of someone's success or good fortune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressive of sympathetic pleasure or joy on account of someone's success or good fortune.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"On his way to the railroad station to which he drove slowly, in conscious enjoyment of the beautiful morning, with an unwonted sense of leisure, and a keen anticipation of pleasure, his talk was all in the grateful and gratulatory vein."*

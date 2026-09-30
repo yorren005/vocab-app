@@ -5,14 +5,6 @@ status: unread
 ---
 # doltish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heavy and dull and stupid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heavy and dull and stupid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Take off thine eye! more intolerable than fiends’ glarings is a doltish stare!"*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Take off thine eye! more intolerable than fiends’ glarings is a doltish stare!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heavy and dull and stupid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heavy and dull and stupid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Take off thine eye! more intolerable than fiends’ glarings is a doltish stare!"*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Take off thine eye! more intolerable than fiends’ glarings is a doltish stare!"*

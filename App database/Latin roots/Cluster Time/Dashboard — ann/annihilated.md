@@ -5,15 +5,6 @@ status: unread
 ---
 # annihilated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill in large numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroyed completely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I am thinking of the sort of figure I cut the first time I saw you, when you annihilated my poor sketch with your criticism.” “My criticism?” said Dorothea, wondering still more."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Sometimes, nothing is injured but the man who is thus annihilated; oftener the boat’s bow is knocked off, or the thigh-board, in which the headsman stands, is torn from its place and accompanies the body."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And do you know,” I added, “what has been the result since men have almost entirely annihilated this useful race?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill in large numbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroyed completely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"I am thinking of the sort of figure I cut the first time I saw you, when you annihilated my poor sketch with your criticism.” “My criticism?” said Dorothea, wondering still more."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Sometimes, nothing is injured but the man who is thus annihilated; oftener the boat’s bow is knocked off, or the thigh-board, in which the headsman stands, is torn from its place and accompanies the body."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And do you know,” I added, “what has been the result since men have almost entirely annihilated this useful race?"*

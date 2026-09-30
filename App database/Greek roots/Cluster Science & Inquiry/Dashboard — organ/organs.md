@@ -5,15 +5,6 @@ status: unread
 ---
 # organs
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Edible viscera of a butchered animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fully differentiated structural and functional unit in an animal that is specialized for some particular function.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is just so high as it is, and moves with it own organs."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dry up in her the organs of increase; And from her derogate body never spring A babe to honour her!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For you must know we have with special soul Elected him our absence to supply; Lent him our terror, drest him with our love, And given his deputation all the organs Of our own power."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Edible viscera of a butchered animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fully differentiated structural and functional unit in an animal that is specialized for some particular function.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is just so high as it is, and moves with it own organs."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dry up in her the organs of increase; And from her derogate body never spring A babe to honour her!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For you must know we have with special soul Elected him our absence to supply; Lent him our terror, drest him with our love, And given his deputation all the organs Of our own power."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # misrepresentation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A misleading falsehood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A willful perversion of facts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There may be an element of error, even of misrepresentation, in such estimates."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Cadwallader, and I believe this is false too,” said Dorothea, with indignant energy; “at least, I feel sure it is a misrepresentation."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"I have unfolded to you a complication of dangers to which you would be exposed, should you permit that sacred knot which binds the people of America together be severed or dissolved by ambition or by avarice, by jealousy or by misrepresentation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A misleading falsehood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A willful perversion of facts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There may be an element of error, even of misrepresentation, in such estimates."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Cadwallader, and I believe this is false too,” said Dorothea, with indignant energy; “at least, I feel sure it is a misrepresentation."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"I have unfolded to you a complication of dangers to which you would be exposed, should you permit that sacred knot which binds the people of America together be severed or dissolved by ambition or by avarice, by jealousy or by misrepresentation."*

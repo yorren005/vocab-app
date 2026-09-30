@@ -5,13 +5,6 @@ status: unread
 ---
 # macrotyloma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual or perennial vines of africa and india and australia; plants often placed in genus dolichos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual or perennial vines of africa and india and australia; plants often placed in genus dolichos.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrotyloma designates annual or perennial vines of africa and india and australia; plants often placed in genus dolichos."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual or perennial vines of africa and india and australia; plants often placed in genus dolichos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual or perennial vines of africa and india and australia; plants often placed in genus dolichos.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrotyloma designates annual or perennial vines of africa and india and australia; plants often placed in genus dolichos."*

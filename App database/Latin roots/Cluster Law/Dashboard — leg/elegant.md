@@ -5,15 +5,6 @@ status: unread
 ---
 # elegant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refined and tasteful in appearance or behavior or style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggesting taste, ease, and wealth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Her figure is elegant and has the effect of being tall."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He sees her rooms, which are the last shown, as being very elegant, and he looks out of the windows from which she looked out, not long ago, upon the weather that bored her to death."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She believes the little drawing-room upstairs, always kept, as one may say, with its hair in papers and its pinafore on, to be the most elegant apartment in Christendom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Refined and tasteful in appearance or behavior or style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggesting taste, ease, and wealth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Her figure is elegant and has the effect of being tall."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He sees her rooms, which are the last shown, as being very elegant, and he looks out of the windows from which she looked out, not long ago, upon the weather that bored her to death."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"She believes the little drawing-room upstairs, always kept, as one may say, with its hair in papers and its pinafore on, to be the most elegant apartment in Christendom."*

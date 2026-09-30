@@ -5,13 +5,6 @@ status: unread
 ---
 # laver
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Australian tennis player who in 1962 was the second man to win the australian and french and english and united states singles titles in the same year; in 1969 he repeated this feat (born in 1938).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (old testament) large basin used by a priest in an ancient jewish temple to perform ritual ablutions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, laver designates australian tennis player who in 1962 was the second man to win the australian and french and english and united states singles titles in the same year; in 1969 he repeated this feat (born in 1938)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Australian tennis player who in 1962 was the second man to win the australian and french and english and united states singles titles in the same year; in 1969 he repeated this feat (born in 1938).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (old testament) large basin used by a priest in an ancient jewish temple to perform ritual ablutions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, laver designates australian tennis player who in 1962 was the second man to win the australian and french and english and united states singles titles in the same year; in 1969 he repeated this feat (born in 1938)."*

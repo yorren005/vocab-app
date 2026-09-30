@@ -5,15 +5,6 @@ status: unread
 ---
 # extended
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extend in scope or range or area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tax of impudence, A strumpet’s boldness, a divulged shame, Traduc’d by odious ballads; my maiden’s name Sear’d otherwise; nay worse of worst extended With vilest torture, let my life be ended."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Labienus— This is stiff news—hath with his Parthian force Extended Asia from Euphrates His conquering banner shook from Syria To Lydia and to Ionia, Whilst— ANTONY."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When vice makes mercy, mercy’s so extended That for the fault’s love is th’ offender friended."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extend in scope or range or area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tax of impudence, A strumpet’s boldness, a divulged shame, Traduc’d by odious ballads; my maiden’s name Sear’d otherwise; nay worse of worst extended With vilest torture, let my life be ended."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Labienus— This is stiff news—hath with his Parthian force Extended Asia from Euphrates His conquering banner shook from Syria To Lydia and to Ionia, Whilst— ANTONY."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When vice makes mercy, mercy’s so extended That for the fault’s love is th’ offender friended."*

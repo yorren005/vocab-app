@@ -5,15 +5,6 @@ status: unread
 ---
 # confuse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mistake one thing for another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be confusing or perplexing to; cause to be unable to think clearly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt seemed to come back and confuse me."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Confused or otherwise, to disturb them was his last desire: Leave thou thy sister, when she prays, Her early Heaven, her happy views; Nor thou with shadow’d hint confuse A life that leads melodious days."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"A set o’ dull, conceited hashes Confuse their brains in college classes!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mistake one thing for another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be confusing or perplexing to; cause to be unable to think clearly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt seemed to come back and confuse me."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Confused or otherwise, to disturb them was his last desire: Leave thou thy sister, when she prays, Her early Heaven, her happy views; Nor thou with shadow’d hint confuse A life that leads melodious days."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"A set o’ dull, conceited hashes Confuse their brains in college classes!"*

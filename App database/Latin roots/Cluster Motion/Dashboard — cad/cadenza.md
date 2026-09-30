@@ -5,13 +5,6 @@ status: unread
 ---
 # cadenza
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brilliant solo passage occurring near the end of a piece of music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brilliant solo passage occurring near the end of a piece of music.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cadenza designates a brilliant solo passage occurring near the end of a piece of music."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brilliant solo passage occurring near the end of a piece of music.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brilliant solo passage occurring near the end of a piece of music.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cadenza designates a brilliant solo passage occurring near the end of a piece of music."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # schizophrenia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental illness that is characterized by disturbances in thought (such as delusions), perception (such as hallucinations), and behavior (such as disorganized speech or catatonic behavior), by a loss of emotional responsiveness and extreme apathy, and by noticeable deterioration in the level of functioning in everyday life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contradictory or antagonistic qualities or attitudes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizophrenia designates a mental illness that is characterized by disturbances in thought (such as delusions), perception (such as hallucinations), and behavior (such as disorganized speech or catatonic behavior), by a loss of emotional responsiveness and extreme apathy, and by noticeable deterioration in the level of functioning in everyday life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental illness that is characterized by disturbances in thought (such as delusions), perception (such as hallucinations), and behavior (such as disorganized speech or catatonic behavior), by a loss of emotional responsiveness and extreme apathy, and by noticeable deterioration in the level of functioning in everyday life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contradictory or antagonistic qualities or attitudes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizophrenia designates a mental illness that is characterized by disturbances in thought (such as delusions), perception (such as hallucinations), and behavior (such as disorganized speech or catatonic behavior), by a loss of emotional responsiveness and extreme apathy, and by noticeable deterioration in the level of functioning in everyday life."*

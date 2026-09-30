@@ -5,13 +5,6 @@ status: unread
 ---
 # multiple-choice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offering several alternative answers from which the correct one is to be chosen; or consisting of such questions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offering several alternative answers from which the correct one is to be chosen; or consisting of such questions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiple-choice designates offering several alternative answers from which the correct one is to be chosen; or consisting of such questions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Offering several alternative answers from which the correct one is to be chosen; or consisting of such questions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offering several alternative answers from which the correct one is to be chosen; or consisting of such questions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiple-choice designates offering several alternative answers from which the correct one is to be chosen; or consisting of such questions."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # pronunciation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The manner in which someone utters a word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The way a word or a language is customarily spoken.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That’s it!” cried Clare, pleased to think that she had reverted to the real pronunciation."*
-> - 📜 **George Eliot (*Middlemarch*):** *"That is wi-ide.” Naumann’s pronunciation of the vowel seemed to stretch the word satirically."*
-> - 📜 **George Eliot (*Middlemarch*):** *"How could a ship off the sea come there?” “These things belong only to pronunciation, which is the least part of grammar,” said Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The manner in which someone utters a word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The way a word or a language is customarily spoken.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That’s it!” cried Clare, pleased to think that she had reverted to the real pronunciation."*
+> - 📜 **George Eliot (*Middlemarch*):** *"That is wi-ide.” Naumann’s pronunciation of the vowel seemed to stretch the word satirically."*
+> - 📜 **George Eliot (*Middlemarch*):** *"How could a ship off the sea come there?” “These things belong only to pronunciation, which is the least part of grammar,” said Mrs."*

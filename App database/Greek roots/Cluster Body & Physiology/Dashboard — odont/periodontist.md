@@ -5,13 +5,6 @@ status: unread
 ---
 # periodontist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dentist specializing in diseases of the gums and other structure surrounding the teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dentist specializing in diseases of the gums and other structure surrounding the teeth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periodontist designates a dentist specializing in diseases of the gums and other structure surrounding the teeth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dentist specializing in diseases of the gums and other structure surrounding the teeth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dentist specializing in diseases of the gums and other structure surrounding the teeth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periodontist designates a dentist specializing in diseases of the gums and other structure surrounding the teeth."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # abrogation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of abrogating; an official or legal cancellation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of abrogating; an official or legal cancellation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Thus was virtually accomplished the abrogation of the Missouri compromise line; and the extension or non-extension of slavery was then made to form a foundation for future political parties."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of abrogating; an official or legal cancellation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of abrogating; an official or legal cancellation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Thus was virtually accomplished the abrogation of the Missouri compromise line; and the extension or non-extension of slavery was then made to form a foundation for future political parties."*

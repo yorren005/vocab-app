@@ -5,13 +5,6 @@ status: unread
 ---
 # saccharum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall perennial reedlike grass originally of southeastern asia: sugarcane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall perennial reedlike grass originally of southeastern asia: sugarcane.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saccharum designates tall perennial reedlike grass originally of southeastern asia: sugarcane."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall perennial reedlike grass originally of southeastern asia: sugarcane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall perennial reedlike grass originally of southeastern asia: sugarcane.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saccharum designates tall perennial reedlike grass originally of southeastern asia: sugarcane."*

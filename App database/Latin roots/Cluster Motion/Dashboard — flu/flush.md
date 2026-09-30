@@ -5,15 +5,6 @@ status: unread
 ---
 # flush
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of greatest prosperity or productivity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rosy color (especially in the cheeks) taken as a sign of good health.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Many hot inroads They make in Italy—the borders maritime Lack blood to think on’t—and flush youth revolt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He took my father grossly, full of bread, With all his crimes broad blown, as flush as May; And how his audit stands, who knows save heaven?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now the time is flush, When crouching marrow, in the bearer strong Cries of itself, “No more!” Now breathless wrong Shall sit and pant in your great chairs of ease, And pursy insolence shall break his wind With fear and horrid flight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of greatest prosperity or productivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rosy color (especially in the cheeks) taken as a sign of good health.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Many hot inroads They make in Italy—the borders maritime Lack blood to think on’t—and flush youth revolt."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He took my father grossly, full of bread, With all his crimes broad blown, as flush as May; And how his audit stands, who knows save heaven?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now the time is flush, When crouching marrow, in the bearer strong Cries of itself, “No more!” Now breathless wrong Shall sit and pant in your great chairs of ease, And pursy insolence shall break his wind With fear and horrid flight."*

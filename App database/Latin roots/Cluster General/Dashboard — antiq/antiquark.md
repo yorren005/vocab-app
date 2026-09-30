@@ -5,13 +5,6 @@ status: unread
 ---
 # antiquark
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The antiparticle of a quark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The antiparticle of a quark.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiquark designates the antiparticle of a quark."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The antiparticle of a quark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The antiparticle of a quark.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiquark designates the antiparticle of a quark."*

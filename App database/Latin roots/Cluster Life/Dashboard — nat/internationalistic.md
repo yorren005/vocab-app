@@ -5,13 +5,6 @@ status: unread
 ---
 # internationalistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Influenced by or advocating internationalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Influenced by or advocating internationalism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internationalistic designates influenced by or advocating internationalism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Influenced by or advocating internationalism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Influenced by or advocating internationalism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, internationalistic designates influenced by or advocating internationalism."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # cursed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Utter obscenities or profanities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heap obscenities upon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some villain, Ay, and singular in his art, hath done you both This cursed injury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O cursed spite, That ever I was born to set it right."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What if this cursed hand Were thicker than itself with brother’s blood, Is there not rain enough in the sweet heavens To wash it white as snow?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Utter obscenities or profanities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heap obscenities upon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some villain, Ay, and singular in his art, hath done you both This cursed injury."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O cursed spite, That ever I was born to set it right."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What if this cursed hand Were thicker than itself with brother’s blood, Is there not rain enough in the sweet heavens To wash it white as snow?"*

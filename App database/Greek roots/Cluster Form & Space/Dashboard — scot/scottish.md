@@ -5,15 +5,6 @@ status: unread
 ---
 # scottish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dialect of english used in scotland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of scotland or its people or culture or its english dialect or gaelic language.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What think you of the Scottish lord, his neighbour?"*
-> - 📜 **John Cairns (*Principal Cairns*):** *"In place of a Bible, however, his mother had given him a copy of the Scottish Metre Version of the Psalms, with a "Preface" to each Psalm and notes by John Brown of Haddington."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The Christian religion has acted both directly and indirectly on the Scottish peasantry, and it has done so the more powerfully because of the democratic character of the Presbyterian form which that religion took in Scotland."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dialect of english used in scotland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of scotland or its people or culture or its english dialect or gaelic language.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What think you of the Scottish lord, his neighbour?"*
+> - 📜 **John Cairns (*Principal Cairns*):** *"In place of a Bible, however, his mother had given him a copy of the Scottish Metre Version of the Psalms, with a "Preface" to each Psalm and notes by John Brown of Haddington."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"The Christian religion has acted both directly and indirectly on the Scottish peasantry, and it has done so the more powerfully because of the democratic character of the Presbyterian form which that religion took in Scotland."*

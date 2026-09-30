@@ -5,15 +5,6 @@ status: unread
 ---
 # matric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Admission to a group (especially a college or university).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Admission to a group (especially a college or university).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They were canopied, altar-shaped, and plain; their carvings being defaced and broken; their brasses torn from the matrices, the rivet-holes remaining like martin-holes in a sandcliff."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Enschede concludes that the Costerian type were produced from leaden matrices and the latter from brass patrices."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"With such patrices only lead matrices could be made, but the latter could be produced in two ways."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Admission to a group (especially a college or university).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Admission to a group (especially a college or university).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They were canopied, altar-shaped, and plain; their carvings being defaced and broken; their brasses torn from the matrices, the rivet-holes remaining like martin-holes in a sandcliff."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Enschede concludes that the Costerian type were produced from leaden matrices and the latter from brass patrices."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"With such patrices only lead matrices could be made, but the latter could be produced in two ways."*

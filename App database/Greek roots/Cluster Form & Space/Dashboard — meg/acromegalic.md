@@ -5,13 +5,6 @@ status: unread
 ---
 # acromegalic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked or affected by enlargement or hypertrophy of the extremities or the face.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked or affected by enlargement or hypertrophy of the extremities or the face.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acromegalic designates marked or affected by enlargement or hypertrophy of the extremities or the face."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked or affected by enlargement or hypertrophy of the extremities or the face.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked or affected by enlargement or hypertrophy of the extremities or the face.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acromegalic designates marked or affected by enlargement or hypertrophy of the extremities or the face."*

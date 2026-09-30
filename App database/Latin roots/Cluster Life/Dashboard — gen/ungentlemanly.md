@@ -5,15 +5,6 @@ status: unread
 ---
 # ungentlemanly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not befitting a gentleman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not befitting a gentleman.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"It's so--so ungentlemanly." "So it is."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He reflected, with much probability on his side, that Lydgate would by-and-by be caught tripping too, and that his ungentlemanly attempts to discredit the sale of drugs by his professional brethren, would by-and-by recoil on himself."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I say, the most ungentlemanly trick a man can be guilty of is to come among the members of his profession with innovations which are a libel on their time-honored procedure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not befitting a gentleman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not befitting a gentleman.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"It's so--so ungentlemanly." "So it is."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He reflected, with much probability on his side, that Lydgate would by-and-by be caught tripping too, and that his ungentlemanly attempts to discredit the sale of drugs by his professional brethren, would by-and-by recoil on himself."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I say, the most ungentlemanly trick a man can be guilty of is to come among the members of his profession with innovations which are a libel on their time-honored procedure."*

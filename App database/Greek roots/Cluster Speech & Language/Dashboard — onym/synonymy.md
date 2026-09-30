@@ -5,13 +5,6 @@ status: unread
 ---
 # synonymy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A list or collection of synonyms often defined and discriminated from each other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study or discrimination of synonyms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synonymy designates a list or collection of synonyms often defined and discriminated from each other."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A list or collection of synonyms often defined and discriminated from each other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study or discrimination of synonyms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synonymy designates a list or collection of synonyms often defined and discriminated from each other."*

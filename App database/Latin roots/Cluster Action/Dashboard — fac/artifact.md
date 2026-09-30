@@ -5,15 +5,6 @@ status: unread
 ---
 # artifact
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man-made object taken as a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man-made object taken as a whole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"OK, so this or that artifact doesn't have museum value; it could still be of enduring interest to your family and to the progeny of your progeny's progeny, even unto the xth generation."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Whether a show-and-tell visitor to a class presents a story, a memoir, an artifact, a skill, or an art form, almost all have something worth sharing with children."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"Anything made by artificial means is called an artifact." "And potsherds are things with those Chinese laundry ticket scratches on them," added Tom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man-made object taken as a whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man-made object taken as a whole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"OK, so this or that artifact doesn't have museum value; it could still be of enduring interest to your family and to the progeny of your progeny's progeny, even unto the xth generation."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Whether a show-and-tell visitor to a class presents a story, a memoir, an artifact, a skill, or an art form, almost all have something worth sharing with children."*
+> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"Anything made by artificial means is called an artifact." "And potsherds are things with those Chinese laundry ticket scratches on them," added Tom."*

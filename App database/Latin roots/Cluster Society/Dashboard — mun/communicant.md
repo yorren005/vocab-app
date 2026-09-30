@@ -5,13 +5,6 @@ status: unread
 ---
 # communicant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person entitled to receive communion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person entitled to receive communion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The fast which accompanied the mourning for the dead god may perhaps have been designed to prepare the body of the communicant for the reception of the blessed sacrament by purging it of all that could defile by contact the sacred elements."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person entitled to receive communion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person entitled to receive communion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The fast which accompanied the mourning for the dead god may perhaps have been designed to prepare the body of the communicant for the reception of the blessed sacrament by purging it of all that could defile by contact the sacred elements."*

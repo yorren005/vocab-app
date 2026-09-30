@@ -5,14 +5,6 @@ status: unread
 ---
 # zed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The letter z.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The letter z.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou whoreson zed! thou unnecessary letter!"*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Why I should, said the boy, but you zed I shou’dn’t come home vore it rained downright; and it has not rained downright yet, for it was aslaunt all day long. 1007."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The letter z.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The letter z.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou whoreson zed! thou unnecessary letter!"*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Why I should, said the boy, but you zed I shou’dn’t come home vore it rained downright; and it has not rained downright yet, for it was aslaunt all day long. 1007."*

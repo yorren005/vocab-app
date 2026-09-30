@@ -5,15 +5,6 @@ status: unread
 ---
 # unconcerned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in interest or care or feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easy in mind; not worried.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He made no complaint, however, and was strangely unconcerned about himself, if I may say so strange a thing."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Sir Walter made no objection, and Elizabeth did nothing worse than look cold and unconcerned."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The tall lank pony seemed used to such doings, and ambled along unconcerned."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in interest or care or feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easy in mind; not worried.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He made no complaint, however, and was strangely unconcerned about himself, if I may say so strange a thing."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Sir Walter made no objection, and Elizabeth did nothing worse than look cold and unconcerned."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The tall lank pony seemed used to such doings, and ambled along unconcerned."*

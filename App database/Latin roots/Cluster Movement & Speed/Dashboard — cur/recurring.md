@@ -5,15 +5,6 @@ status: unread
 ---
 # recurring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happen or occur again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Return in thought or speech to something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Especially at the recurring periods of financial stress, such as occurred in 1893, 1903, and 1907, our banking machinery showed itself to be wofully unequal to the strain put upon it."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"When married, the same sequestration was practised relatively to husband and fellow-villagers--without the particular head-dress and rings spoken of--on the occasion of every recurring menstruation."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"In the plays of the Athenian comic poets of the third and fourth centuries B.C. we find, to wearisomeness, one recurring plot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Happen or occur again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Return in thought or speech to something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Especially at the recurring periods of financial stress, such as occurred in 1893, 1903, and 1907, our banking machinery showed itself to be wofully unequal to the strain put upon it."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"When married, the same sequestration was practised relatively to husband and fellow-villagers--without the particular head-dress and rings spoken of--on the occasion of every recurring menstruation."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"In the plays of the Athenian comic poets of the third and fourth centuries B.C. we find, to wearisomeness, one recurring plot."*

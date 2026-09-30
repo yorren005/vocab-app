@@ -5,13 +5,6 @@ status: unread
 ---
 # extrasensory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seemingly outside normal sensory channels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seemingly outside normal sensory channels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extrasensory designates seemingly outside normal sensory channels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Seemingly outside normal sensory channels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seemingly outside normal sensory channels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extrasensory designates seemingly outside normal sensory channels."*

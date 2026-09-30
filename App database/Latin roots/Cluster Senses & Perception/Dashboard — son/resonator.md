@@ -5,13 +5,6 @@ status: unread
 ---
 # resonator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hollow chamber whose dimensions allow the resonant oscillation of electromagnetic or acoustic waves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical circuit that combines capacitance and inductance in such a way that a periodic electric oscillation will reach maximum amplitude.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resonator designates a hollow chamber whose dimensions allow the resonant oscillation of electromagnetic or acoustic waves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hollow chamber whose dimensions allow the resonant oscillation of electromagnetic or acoustic waves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical circuit that combines capacitance and inductance in such a way that a periodic electric oscillation will reach maximum amplitude.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resonator designates a hollow chamber whose dimensions allow the resonant oscillation of electromagnetic or acoustic waves."*

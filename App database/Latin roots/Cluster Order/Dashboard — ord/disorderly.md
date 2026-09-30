@@ -5,15 +5,6 @@ status: unread
 ---
 # disorderly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undisciplined and unruly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In utter disorder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I know how or which way to order these affairs Thus disorderly thrust into my hands, Never believe me."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"They were excessively bare and disorderly, and the curtain to my window was fastened up with a fork."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The house, though a little disorderly in comparison with the garden, was a real old house with settles in the chimney of the brick-floored kitchen and great beams across the ceilings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undisciplined and unruly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In utter disorder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I know how or which way to order these affairs Thus disorderly thrust into my hands, Never believe me."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"They were excessively bare and disorderly, and the curtain to my window was fastened up with a fork."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The house, though a little disorderly in comparison with the garden, was a real old house with settles in the chimney of the brick-floored kitchen and great beams across the ceilings."*

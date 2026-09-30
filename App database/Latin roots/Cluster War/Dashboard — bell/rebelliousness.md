@@ -5,14 +5,6 @@ status: unread
 ---
 # rebelliousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intentionally contemptuous behavior or attitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insubordinate act.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She chafed to and fro in rebelliousness, like a caged leopard; her whole soul was in arms, and the blood fired her face."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She chafed to and fro in rebelliousness, like a caged leopard; her whole soul was in arms, and the blood fired her face."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intentionally contemptuous behavior or attitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insubordinate act.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She chafed to and fro in rebelliousness, like a caged leopard; her whole soul was in arms, and the blood fired her face."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She chafed to and fro in rebelliousness, like a caged leopard; her whole soul was in arms, and the blood fired her face."*

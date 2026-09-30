@@ -5,15 +5,6 @@ status: unread
 ---
 # sally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Witty remark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A military action in which besieged troops burst forth from their position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When you sally upon him, speak what terrible language you will; though you understand it not yourselves, no matter; for we must not seem to understand him, unless someone among us, whom we must produce for an interpreter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All our general force Might with a sally of the very town Be buckled with."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No notes of sally, for the heavens, sweet brother!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Witty remark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A military action in which besieged troops burst forth from their position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When you sally upon him, speak what terrible language you will; though you understand it not yourselves, no matter; for we must not seem to understand him, unless someone among us, whom we must produce for an interpreter."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All our general force Might with a sally of the very town Be buckled with."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No notes of sally, for the heavens, sweet brother!"*

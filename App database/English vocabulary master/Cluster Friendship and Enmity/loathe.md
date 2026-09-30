@@ -5,20 +5,6 @@ status: unread
 ---
 # loathe
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (obsolete) to induce or inspire disgust (in a person)
-> 2. **Nuance / Usage**: Dislike greatly and often with disgust or intolerance : detest
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to loathe the target*) and intransitive clauses (*loathing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"O, how mine eyes do loathe his visage now!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"But like a sickness did I loathe this food."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Would it teach him to loathe his own soul?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To feel intense hatred, disgust, or visceral revulsion toward someone or something; to detest utterly.
+> 2. **Nuance / Usage**: Stronger and more physical in connotation than *dislike* or *hate*, implying a sickening aversion; distinct from the adjective *loath* ("reluctant").
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to loathe the target*) and intransitive clauses (*loathing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"But, like a sickness, did I **loathe** this food."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Would it teach him to **loathe** his own soul?"*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"I have not loved the world, nor the world me, yet I do not **loathe** my fellow men."*

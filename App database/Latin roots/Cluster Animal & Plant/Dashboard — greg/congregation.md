@@ -5,15 +5,6 @@ status: unread
 ---
 # congregation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of people who adhere to a common faith and habitually attend a given church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assemblage of people or animals or things collected together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I see anything tonight why I should not marry her tomorrow, in the congregation, where I should wed, there will I shame her."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"When I go into our little church on a Sunday, a considerable part of the inconsiderable congregation expect to see me drop, scorched and withered, on the pavement under the Dedlock displeasure."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The congregation was extremely small and quite a rustic one with the exception of a large muster of servants from the house, some of whom were already in their seats, while others were yet dropping in."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of people who adhere to a common faith and habitually attend a given church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assemblage of people or animals or things collected together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I see anything tonight why I should not marry her tomorrow, in the congregation, where I should wed, there will I shame her."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"When I go into our little church on a Sunday, a considerable part of the inconsiderable congregation expect to see me drop, scorched and withered, on the pavement under the Dedlock displeasure."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The congregation was extremely small and quite a rustic one with the exception of a large muster of servants from the house, some of whom were already in their seats, while others were yet dropping in."*

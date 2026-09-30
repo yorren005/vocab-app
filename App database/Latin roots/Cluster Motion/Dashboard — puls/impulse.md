@@ -5,15 +5,6 @@ status: unread
 ---
 # impulse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instinctive motive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden desire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When she found them empty, she opened the door of the old fencing-hall by some strange impulse."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa's first impulse was to withdraw with an excuse, but the ladies had jumped up already and most cordially greeted their kind friend, Mr Falcon, whom they called their helper and saviour in all difficulties."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce advised him to try and decide within himself whether his old preference for the sea was an ordinary boyish inclination or a strong impulse, Richard answered, Well he really HAD tried very often, and he couldn’t make out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instinctive motive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden desire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When she found them empty, she opened the door of the old fencing-hall by some strange impulse."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa's first impulse was to withdraw with an excuse, but the ladies had jumped up already and most cordially greeted their kind friend, Mr Falcon, whom they called their helper and saviour in all difficulties."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce advised him to try and decide within himself whether his old preference for the sea was an ordinary boyish inclination or a strong impulse, Richard answered, Well he really HAD tried very often, and he couldn’t make out."*

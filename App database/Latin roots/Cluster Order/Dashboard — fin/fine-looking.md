@@ -5,13 +5,6 @@ status: unread
 ---
 # fine-looking
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing in appearance especially by reason of conformity to ideals of form and proportion; ; ; ; - thackeray; - lillian hellman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pleasing in appearance especially by reason of conformity to ideals of form and proportion; ; ; ; - thackeray; - lillian hellman.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fine-looking designates pleasing in appearance especially by reason of conformity to ideals of form and proportion; ; ; ; - thackeray; - lillian hellman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing in appearance especially by reason of conformity to ideals of form and proportion; ; ; ; - thackeray; - lillian hellman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pleasing in appearance especially by reason of conformity to ideals of form and proportion; ; ; ; - thackeray; - lillian hellman.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fine-looking designates pleasing in appearance especially by reason of conformity to ideals of form and proportion; ; ; ; - thackeray; - lillian hellman."*

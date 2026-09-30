@@ -5,13 +5,6 @@ status: unread
 ---
 # mortarboard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A square board with a handle underneath; used by masons to hold or carry mortar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An academic cap with a flat square with a tassel on top.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"And the Trinity jibs in their mortarboards."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A square board with a handle underneath; used by masons to hold or carry mortar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An academic cap with a flat square with a tassel on top.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"And the Trinity jibs in their mortarboards."*

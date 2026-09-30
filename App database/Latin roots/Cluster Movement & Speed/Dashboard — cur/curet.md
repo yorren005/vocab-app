@@ -5,13 +5,6 @@ status: unread
 ---
 # curet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical instrument shaped like a scoop to remove tissue from a bodily cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surgical instrument shaped like a scoop to remove tissue from a bodily cavity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The guards referred to are the mythical Curetes who danced a war-dance round the infant Dionysus, as they are said to have done round the infant Zeus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical instrument shaped like a scoop to remove tissue from a bodily cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surgical instrument shaped like a scoop to remove tissue from a bodily cavity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The guards referred to are the mythical Curetes who danced a war-dance round the infant Dionysus, as they are said to have done round the infant Zeus."*

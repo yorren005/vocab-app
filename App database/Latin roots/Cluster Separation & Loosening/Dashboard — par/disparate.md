@@ -5,14 +5,6 @@ status: unread
 ---
 # disparate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fundamentally different or distinct in quality or kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Including markedly dissimilar elements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Their disparate ancestries blended through a natural vitality that accelerated human evolution so as to survive in a radically new environment."*
-> - 📜 **James Joyce (*Ulysses*):** *"Approaching, disparate, at relaxed walking pace they crossed both the circus before George’s church diametrically, the chord in any circle being less than the arc which it subtends."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fundamentally different or distinct in quality or kind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Including markedly dissimilar elements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Their disparate ancestries blended through a natural vitality that accelerated human evolution so as to survive in a radically new environment."*
+> - 📜 **James Joyce (*Ulysses*):** *"Approaching, disparate, at relaxed walking pace they crossed both the circus before George’s church diametrically, the chord in any circle being less than the arc which it subtends."*

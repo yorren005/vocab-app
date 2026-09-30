@@ -5,15 +5,6 @@ status: unread
 ---
 # lettuce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal terms for money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus lactuca.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Val, if there is a slug in that lettuce I wish you would say so."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"This in hand, a man fished out with his chopsticks tidbits from various dishes set out on the table,--beans, cabbage, lettuce, peppers, etc., all cooked."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"I can have a salad, easy--just lettuce and stuff."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal terms for money.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus lactuca.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Val, if there is a slug in that lettuce I wish you would say so."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"This in hand, a man fished out with his chopsticks tidbits from various dishes set out on the table,--beans, cabbage, lettuce, peppers, etc., all cooked."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"I can have a salad, easy--just lettuce and stuff."*

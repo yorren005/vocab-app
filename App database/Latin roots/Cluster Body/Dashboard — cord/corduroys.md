@@ -5,15 +5,6 @@ status: unread
 ---
 # corduroys
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cotton trousers made of corduroy cloth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cut pile fabric with vertical ribs; usually made of cotton.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"In the same early morning, I discovered a singular affinity between seeds and corduroys."*
-> - 📜 **Effie Afton (*Eventide*):** *"The whole ascent of Clinton was through a dense forest, over a rough, uneven path, constructed of small, round timbers, called "corduroys." They were in a rotted, dilapidated condition, and unpleasant as well as dangerous to ride over."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"He said thim was old clothes he was wearin' on the sea," apologized Mike for his friend, looking down somewhat consciously at his own comfortable corduroys."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cotton trousers made of corduroy cloth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cut pile fabric with vertical ribs; usually made of cotton.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"In the same early morning, I discovered a singular affinity between seeds and corduroys."*
+> - 📜 **Effie Afton (*Eventide*):** *"The whole ascent of Clinton was through a dense forest, over a rough, uneven path, constructed of small, round timbers, called "corduroys." They were in a rotted, dilapidated condition, and unpleasant as well as dangerous to ride over."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"He said thim was old clothes he was wearin' on the sea," apologized Mike for his friend, looking down somewhat consciously at his own comfortable corduroys."*

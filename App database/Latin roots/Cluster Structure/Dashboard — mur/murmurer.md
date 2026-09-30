@@ -5,15 +5,6 @@ status: unread
 ---
 # murmurer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who speaks softly and indistinctly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who speaks softly and indistinctly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Keats (*Poems 1817*):** *"Low murmurer of tender lullabies!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For living murmurers There’s places of rebuke."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"By times it seemed to me that I could bear it no longer, that it was but justice to turn those murmurers _(pleureuses)_ away, and let them try what better they could do for themselves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who speaks softly and indistinctly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who speaks softly and indistinctly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Keats (*Poems 1817*):** *"Low murmurer of tender lullabies!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For living murmurers There’s places of rebuke."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"By times it seemed to me that I could bear it no longer, that it was but justice to turn those murmurers _(pleureuses)_ away, and let them try what better they could do for themselves."*

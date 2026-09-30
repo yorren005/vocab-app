@@ -5,13 +5,6 @@ status: unread
 ---
 # misophonia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which one or more common sounds (such as the ticking of a clock, the hum of a fluorescent light, or the chewing or breathing of another person) cause an atypical emotional response (such as disgust, distress, panic, or anger) in the affected person hearing the sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition in which one or more common sounds (such as the ticking of a clock, the hum of a fluorescent light, or the chewing or breathing of another person) cause an atypical emotional response (such as disgust, distress, panic, or anger) in the affected person hearing the sound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misophonia designates a condition in which one or more common sounds (such as the ticking of a clock, the hum of a fluorescent light, or the chewing or breathing of another person) cause an atypical emotional response (such as disgust, distress, panic, or anger) in the affected person hearing the sound."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which one or more common sounds (such as the ticking of a clock, the hum of a fluorescent light, or the chewing or breathing of another person) cause an atypical emotional response (such as disgust, distress, panic, or anger) in the affected person hearing the sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition in which one or more common sounds (such as the ticking of a clock, the hum of a fluorescent light, or the chewing or breathing of another person) cause an atypical emotional response (such as disgust, distress, panic, or anger) in the affected person hearing the sound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misophonia designates a condition in which one or more common sounds (such as the ticking of a clock, the hum of a fluorescent light, or the chewing or breathing of another person) cause an atypical emotional response (such as disgust, distress, panic, or anger) in the affected person hearing the sound."*

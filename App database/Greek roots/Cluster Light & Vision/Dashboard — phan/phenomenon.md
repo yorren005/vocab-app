@@ -5,15 +5,6 @@ status: unread
 ---
 # phenomenon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An observable fact or event : an item of experience or reality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone or something that is very popular or impressive especially because of an unusual quality or ability.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is, in sense and attachment, a phenomenon."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The same phenomenon is visible on some parts of his coat, and particularly at the seams."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We shall have YOU taking fire next or blowing up with a bang.” This supposititious phenomenon is so very disagreeable to Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An observable fact or event : an item of experience or reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone or something that is very popular or impressive especially because of an unusual quality or ability.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is, in sense and attachment, a phenomenon."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The same phenomenon is visible on some parts of his coat, and particularly at the seams."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"We shall have YOU taking fire next or blowing up with a bang.” This supposititious phenomenon is so very disagreeable to Mr."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # placenta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That part of the ovary of a flowering plant where the ovules form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The vascular structure in the uterus of most mammals providing oxygen and nutrients for and transferring wastes from the developing fetus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Other parts which are commonly believed to remain in a sympathetic union with the body, after the physical connexion has been severed, are the navel-string and the afterbirth, including the placenta."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among the Bataks of Sumatra, as among many other peoples of the Indian Archipelago, the placenta passes for the child's younger brother or sister, the sex being determined by the sex of the child, and it is buried under the house."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Karo Bataks even affirm that of a man's two souls it is the true soul that lives with the placenta under the house; that is the soul, they say, which begets children."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: That part of the ovary of a flowering plant where the ovules form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The vascular structure in the uterus of most mammals providing oxygen and nutrients for and transferring wastes from the developing fetus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Other parts which are commonly believed to remain in a sympathetic union with the body, after the physical connexion has been severed, are the navel-string and the afterbirth, including the placenta."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among the Bataks of Sumatra, as among many other peoples of the Indian Archipelago, the placenta passes for the child's younger brother or sister, the sex being determined by the sex of the child, and it is buried under the house."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Karo Bataks even affirm that of a man's two souls it is the true soul that lives with the placenta under the house; that is the soul, they say, which begets children."*

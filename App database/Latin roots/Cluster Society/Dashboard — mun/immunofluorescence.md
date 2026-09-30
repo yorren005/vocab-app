@@ -5,13 +5,6 @@ status: unread
 ---
 # immunofluorescence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (immunology) a technique that uses antibodies linked to a fluorescent dye in order to study antigens in a sample of tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (immunology) a technique that uses antibodies linked to a fluorescent dye in order to study antigens in a sample of tissue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunofluorescence designates (immunology) a technique that uses antibodies linked to a fluorescent dye in order to study antigens in a sample of tissue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (immunology) a technique that uses antibodies linked to a fluorescent dye in order to study antigens in a sample of tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (immunology) a technique that uses antibodies linked to a fluorescent dye in order to study antigens in a sample of tissue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immunofluorescence designates (immunology) a technique that uses antibodies linked to a fluorescent dye in order to study antigens in a sample of tissue."*

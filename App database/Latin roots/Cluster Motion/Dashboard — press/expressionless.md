@@ -5,15 +5,6 @@ status: unread
 ---
 # expressionless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deliberately impassive in manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberately impassive in manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He wears his usual expressionless mask—if it be a mask—and carries family secrets in every limb of his body and every crease of his dress."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"That's the short list." The prisoner's faces remained expressionless."*
-> - 📜 **Effie Afton (*Eventide*):** *"Now and then he yawned, stretched himself, approached the window, gazed forth for a moment with some anxiety depicted on his expressionless face, and then sunk down in his cushioned chair again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deliberately impassive in manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberately impassive in manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He wears his usual expressionless mask—if it be a mask—and carries family secrets in every limb of his body and every crease of his dress."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"That's the short list." The prisoner's faces remained expressionless."*
+> - 📜 **Effie Afton (*Eventide*):** *"Now and then he yawned, stretched himself, approached the window, gazed forth for a moment with some anxiety depicted on his expressionless face, and then sunk down in his cushioned chair again."*

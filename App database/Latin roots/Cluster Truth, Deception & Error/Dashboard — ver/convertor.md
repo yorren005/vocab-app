@@ -5,13 +5,6 @@ status: unread
 ---
 # convertor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device for changing one substance or form or state into another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device for changing one substance or form or state into another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, convertor designates a device for changing one substance or form or state into another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device for changing one substance or form or state into another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device for changing one substance or form or state into another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, convertor designates a device for changing one substance or form or state into another."*

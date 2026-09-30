@@ -5,15 +5,6 @@ status: unread
 ---
 # provincialism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of sophistication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A partiality for some particular place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Besides, the English whalers sometimes affect a kind of metropolitan superiority over the American whalers; regarding the long, lean Nantucketer, with his nondescript provincialisms, as a sort of sea-peasant."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Besides, the English whalers sometimes affect a kind of metropolitan superiority over the American whalers; regarding the long, lean Nantucketer, with his nondescript provincialisms, as a sort of sea-peasant."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Excepting a few provincialisms of slight consequence, you have no marks of the manners which I am habituated to consider as peculiar to your class."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of sophistication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A partiality for some particular place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Besides, the English whalers sometimes affect a kind of metropolitan superiority over the American whalers; regarding the long, lean Nantucketer, with his nondescript provincialisms, as a sort of sea-peasant."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Besides, the English whalers sometimes affect a kind of metropolitan superiority over the American whalers; regarding the long, lean Nantucketer, with his nondescript provincialisms, as a sort of sea-peasant."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Excepting a few provincialisms of slight consequence, you have no marks of the manners which I am habituated to consider as peculiar to your class."*

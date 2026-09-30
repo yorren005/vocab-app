@@ -5,15 +5,6 @@ status: unread
 ---
 # animatedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an animated manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an animated manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Passing through, they spoke and gestured animatedly to each other."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The look of his eyes was resolute, calm, and animatedly alert, as never before."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Billy, after a moment's silence, began to talk animatedly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an animated manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an animated manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Passing through, they spoke and gestured animatedly to each other."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The look of his eyes was resolute, calm, and animatedly alert, as never before."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Billy, after a moment's silence, began to talk animatedly."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # fence
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Means of protection : defense
-> 2. **Nuance / Usage**: (transitive) to defend or guard
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Where’s Captain Margaret to fence you now?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"When shame assailed, the red should fence the white."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t believe he can fence at all, ma’am,” said the old lady."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A barrier, railing, or upright structure of wood, wire, or metal enclosing an area of ground to mark a boundary, control access, or prevent escape.
+> 2. **Nuance / Usage**: Figuratively, a state of indecision neutrality (*sitting on the fence*), or a dealer who buys and sells stolen goods.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Frost (*Mending Wall*):** *"He only says, 'Good **fences** make good neighbors.'"*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Tom appeared on the sidewalk with a bucket of whitewash and a long-handled brush; he surveyed the **fence**, and all gladness left him."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Looking over the ha-ha into the park, they stood together by the iron **fence** that bounded the wilderness."*

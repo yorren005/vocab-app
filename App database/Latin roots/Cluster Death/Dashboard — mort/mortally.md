@@ -5,15 +5,6 @@ status: unread
 ---
 # mortally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In such a manner that death ensues (also in reference to hatred, jealousy, fear, etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In such a manner that death ensues (also in reference to hatred, jealousy, fear, etc.).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your shafts of fortune, though they hurt you mortally, Yet glance full wanderingly on us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, nor of any shores: Yet I was mortally brought forth, and am No other than I appear."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He was always hit mortally, or he was missed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In such a manner that death ensues (also in reference to hatred, jealousy, fear, etc.).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In such a manner that death ensues (also in reference to hatred, jealousy, fear, etc.).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your shafts of fortune, though they hurt you mortally, Yet glance full wanderingly on us."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, nor of any shores: Yet I was mortally brought forth, and am No other than I appear."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He was always hit mortally, or he was missed."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # angiohemophilia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of hemophilia discovered by erik von willebrand; a genetic disorder that is inherited as an autosomal recessive trait; characterized by a deficiency of the coagulation factor and by mucosal bleeding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of hemophilia discovered by erik von willebrand; a genetic disorder that is inherited as an autosomal recessive trait; characterized by a deficiency of the coagulation factor and by mucosal bleeding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiohemophilia designates a form of hemophilia discovered by erik von willebrand; a genetic disorder that is inherited as an autosomal recessive trait; characterized by a deficiency of the coagulation factor and by mucosal bleeding."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of hemophilia discovered by erik von willebrand; a genetic disorder that is inherited as an autosomal recessive trait; characterized by a deficiency of the coagulation factor and by mucosal bleeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of hemophilia discovered by erik von willebrand; a genetic disorder that is inherited as an autosomal recessive trait; characterized by a deficiency of the coagulation factor and by mucosal bleeding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiohemophilia designates a form of hemophilia discovered by erik von willebrand; a genetic disorder that is inherited as an autosomal recessive trait; characterized by a deficiency of the coagulation factor and by mucosal bleeding."*

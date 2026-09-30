@@ -5,15 +5,6 @@ status: unread
 ---
 # informed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impart knowledge of some fact, state or affairs, or event to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give character or essence to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have you informed them sithence?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Since, lords of England, it is thus agreed That peaceful truce shall be proclaim’d in France, We come to be informed by yourselves What the conditions of that league must be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am informed that he comes towards London To set the crown once more on Henry’s head."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impart knowledge of some fact, state or affairs, or event to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give character or essence to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have you informed them sithence?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Since, lords of England, it is thus agreed That peaceful truce shall be proclaim’d in France, We come to be informed by yourselves What the conditions of that league must be."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am informed that he comes towards London To set the crown once more on Henry’s head."*

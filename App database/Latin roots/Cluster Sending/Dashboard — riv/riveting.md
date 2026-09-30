@@ -5,13 +5,6 @@ status: unread
 ---
 # riveting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Direct one's attention on something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fasten with a rivet or rivets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"When those invasions were renewed; when the efficacy and malignancy of them were attempted to be redoubled by the stamp act; when chains were formed for us; and preparations were made for riveting them on our limbs, what measures did we pursue?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Direct one's attention on something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fasten with a rivet or rivets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"When those invasions were renewed; when the efficacy and malignancy of them were attempted to be redoubled by the stamp act; when chains were formed for us; and preparations were made for riveting them on our limbs, what measures did we pursue?"*

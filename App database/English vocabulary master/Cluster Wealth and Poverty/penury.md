@@ -5,20 +5,6 @@ status: unread
 ---
 # penury
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Extreme and often stingy frugality
-> 2. **Nuance / Usage**: Cramping and oppressive lack of resources (such as money); especially : severe poverty
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the penury withstood the storm*), direct object (*cleaved the penury*), or prepositional anchor (*amidst the penury*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"The weariest and most loathed worldly life That age, ache, penury, and imprisonment Can lay on nature is a paradise To what we fear of death."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Distress, if not penury, loomed in the distance."*
-> - 📜 **Mary Shelley (*Frankenstein*):** *"During one of their walks a poor cot in the foldings of a vale attracted their notice as being singularly disconsolate, while the number of half-clothed children gathered about it spoke of penury in its worst shape."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Extreme and often stingy frugality
+> 2. **Nuance / Usage**: Cramping and oppressive lack of resources (such as money); especially : severe poverty
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the penury withstood the storm*), direct object (*cleaved the penury*), or prepositional anchor (*amidst the penury*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"The weariest and most loathed worldly life That age, ache, penury, and imprisonment Can lay on nature is a paradise To what we fear of death."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Distress, if not penury, loomed in the distance."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"During one of their walks a poor cot in the foldings of a vale attracted their notice as being singularly disconsolate, while the number of half-clothed children gathered about it spoke of penury in its worst shape."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # delegacy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of serving as an official and authorized delegate or agent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of representatives or delegates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, delegacy designates the state of serving as an official and authorized delegate or agent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of serving as an official and authorized delegate or agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of representatives or delegates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, delegacy designates the state of serving as an official and authorized delegate or agent."*

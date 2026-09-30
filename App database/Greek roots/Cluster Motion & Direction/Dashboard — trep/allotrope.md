@@ -5,13 +5,6 @@ status: unread
 ---
 # allotrope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form showing allotropy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form showing allotropy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Black-lead--or, as we term it, graphite--of which I have several specimens here--is simply carbon--an allotrope of carbon--the same elementary substance, notwithstanding, as the diamond."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form showing allotropy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form showing allotropy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Black-lead--or, as we term it, graphite--of which I have several specimens here--is simply carbon--an allotrope of carbon--the same elementary substance, notwithstanding, as the diamond."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sequence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serial arrangement in which things follow in logical order or a recurrent pattern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A following of one thing after another in time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This toil of ours should be a work of thine; But thou from loving England art so far That thou hast underwrought his lawful king, Cut off the sequence of posterity, Outfaced infant state, and done a rape Upon the maiden virtue of the crown."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take Hereford’s rights away, and take from Time His charters and his customary rights; Let not tomorrow then ensue today; Be not thyself; for how art thou a king But by fair sequence and succession?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell my friends, Tell Athens, in the sequence of degree From high to low throughout, that whoso please To stop affliction, let him take his haste, Come hither ere my tree hath felt the axe And hang himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serial arrangement in which things follow in logical order or a recurrent pattern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A following of one thing after another in time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This toil of ours should be a work of thine; But thou from loving England art so far That thou hast underwrought his lawful king, Cut off the sequence of posterity, Outfaced infant state, and done a rape Upon the maiden virtue of the crown."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take Hereford’s rights away, and take from Time His charters and his customary rights; Let not tomorrow then ensue today; Be not thyself; for how art thou a king But by fair sequence and succession?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell my friends, Tell Athens, in the sequence of degree From high to low throughout, that whoso please To stop affliction, let him take his haste, Come hither ere my tree hath felt the axe And hang himself."*

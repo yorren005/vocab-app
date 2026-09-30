@@ -5,15 +5,6 @@ status: unread
 ---
 # maritime
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving ships or shipping or navigation or seamen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bordering on or living or characteristic of those near the sea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Many hot inroads They make in Italy—the borders maritime Lack blood to think on’t—and flush youth revolt."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No one having previously heard his history, could for the first time behold Father Mapple without the utmost interest, because there were certain engrafted clerical peculiarities about him, imputable to that adventurous maritime life he had led."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And as the sea surpasses the land in this matter, so the whale fishery surpasses every other sort of maritime life, in the wonderfulness and fearfulness of the rumors which sometimes circulate there."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving ships or shipping or navigation or seamen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bordering on or living or characteristic of those near the sea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Many hot inroads They make in Italy—the borders maritime Lack blood to think on’t—and flush youth revolt."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No one having previously heard his history, could for the first time behold Father Mapple without the utmost interest, because there were certain engrafted clerical peculiarities about him, imputable to that adventurous maritime life he had led."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And as the sea surpasses the land in this matter, so the whale fishery surpasses every other sort of maritime life, in the wonderfulness and fearfulness of the rumors which sometimes circulate there."*

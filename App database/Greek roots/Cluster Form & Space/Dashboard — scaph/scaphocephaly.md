@@ -5,13 +5,6 @@ status: unread
 ---
 # scaphocephaly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital malformation of the skull which is long and narrow; frequently accompanied by mental retardation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congenital malformation of the skull which is long and narrow; frequently accompanied by mental retardation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scaphocephaly designates congenital malformation of the skull which is long and narrow; frequently accompanied by mental retardation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital malformation of the skull which is long and narrow; frequently accompanied by mental retardation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congenital malformation of the skull which is long and narrow; frequently accompanied by mental retardation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scaphocephaly designates congenital malformation of the skull which is long and narrow; frequently accompanied by mental retardation."*

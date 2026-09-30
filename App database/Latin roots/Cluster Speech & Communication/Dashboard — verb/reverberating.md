@@ -5,15 +5,6 @@ status: unread
 ---
 # reverberating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ring or echo with sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a long or continuing effect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"At the end of the passage, while the bell was still reverberating, I found Sarah Pocket, who appeared to have now become constitutionally green and yellow by reason of me."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Whilst I was yet looking down upon the gravestones I was roused by the sound of the abbey clock, reverberating from buttress to buttress and echoing among the cloisters."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The word ivory would ring in the air for a while—and on we went again into the silence, along empty reaches, round the still bends, between the high walls of our winding way, reverberating in hollow claps the ponderous beat of the stern-wheel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ring or echo with sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a long or continuing effect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"At the end of the passage, while the bell was still reverberating, I found Sarah Pocket, who appeared to have now become constitutionally green and yellow by reason of me."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Whilst I was yet looking down upon the gravestones I was roused by the sound of the abbey clock, reverberating from buttress to buttress and echoing among the cloisters."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The word ivory would ring in the air for a while—and on we went again into the silence, along empty reaches, round the still bends, between the high walls of our winding way, reverberating in hollow claps the ponderous beat of the stern-wheel."*

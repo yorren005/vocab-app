@@ -5,13 +5,6 @@ status: unread
 ---
 # plica
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A folded part (as in skin or muscle).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A folded part (as in skin or muscle).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plica designates a folded part (as in skin or muscle)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A folded part (as in skin or muscle).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A folded part (as in skin or muscle).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plica designates a folded part (as in skin or muscle)."*

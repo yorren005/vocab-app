@@ -5,13 +5,6 @@ status: unread
 ---
 # virilisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The abnormal development of male sexual characteristics in a female (usually as the result of hormone therapies or adrenal malfunction).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The abnormal development of male sexual characteristics in a female (usually as the result of hormone therapies or adrenal malfunction).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virilisation designates the abnormal development of male sexual characteristics in a female (usually as the result of hormone therapies or adrenal malfunction)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The abnormal development of male sexual characteristics in a female (usually as the result of hormone therapies or adrenal malfunction).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The abnormal development of male sexual characteristics in a female (usually as the result of hormone therapies or adrenal malfunction).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, virilisation designates the abnormal development of male sexual characteristics in a female (usually as the result of hormone therapies or adrenal malfunction)."*

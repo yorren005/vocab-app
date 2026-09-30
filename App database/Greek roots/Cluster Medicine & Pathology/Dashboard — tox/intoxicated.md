@@ -5,15 +5,6 @@ status: unread
 ---
 # intoxicated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with high spirits; fill with optimism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make drunk (with alcoholic drinks).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Reason drops headlong from his sacred throne, Your dear idea reigns, and reigns alone; Each thought intoxicated homage yields, And riots wanton in forbidden fields."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"They were horrid places, where men got intoxicated, and shot each other in bar-rooms, and used bad language."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He is seized by violence or intoxicated and taken to the fields, where he is killed amongst the wheat to serve as "seed" (so they phrase it)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with high spirits; fill with optimism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make drunk (with alcoholic drinks).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Reason drops headlong from his sacred throne, Your dear idea reigns, and reigns alone; Each thought intoxicated homage yields, And riots wanton in forbidden fields."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"They were horrid places, where men got intoxicated, and shot each other in bar-rooms, and used bad language."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He is seized by violence or intoxicated and taken to the fields, where he is killed amongst the wheat to serve as "seed" (so they phrase it)."*

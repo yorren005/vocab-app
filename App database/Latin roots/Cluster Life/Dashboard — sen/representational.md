@@ -5,13 +5,6 @@ status: unread
 ---
 # representational
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used especially of art) depicting objects, figures,or scenes as seen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used especially of art) depicting objects, figures,or scenes as seen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, representational designates (used especially of art) depicting objects, figures,or scenes as seen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (used especially of art) depicting objects, figures,or scenes as seen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used especially of art) depicting objects, figures,or scenes as seen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, representational designates (used especially of art) depicting objects, figures,or scenes as seen."*

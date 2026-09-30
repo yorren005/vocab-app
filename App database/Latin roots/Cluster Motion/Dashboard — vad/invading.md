@@ -5,15 +5,6 @@ status: unread
 ---
 # invading
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: March aggressively into another's territory by military force for the purposes of conquest and occupation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To intrude upon, infringe, encroach on, violate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Some of Rouncewell’s hands have just knocked off for dinner-time and seem to be invading the whole town."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"These were surrounded by ornamental shrubbery, and it was to keep the sheep from invading this and the adjacent flower-borders that the services of the herd-boy were required."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Isabel's cheeks flew their scarlet flag before the invading enemy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: March aggressively into another's territory by military force for the purposes of conquest and occupation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To intrude upon, infringe, encroach on, violate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Some of Rouncewell’s hands have just knocked off for dinner-time and seem to be invading the whole town."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"These were surrounded by ornamental shrubbery, and it was to keep the sheep from invading this and the adjacent flower-borders that the services of the herd-boy were required."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Isabel's cheeks flew their scarlet flag before the invading enemy."*

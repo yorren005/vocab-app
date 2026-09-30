@@ -5,14 +5,6 @@ status: unread
 ---
 # refiner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One whose work is to refine a specific thing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One whose work is to refine a specific thing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Lee, a gold refiner, and a man of great moral worth."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"And have not her sugar refiners lived upon the difference of the rates imposed upon raw and refined sugars?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One whose work is to refine a specific thing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One whose work is to refine a specific thing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Lee, a gold refiner, and a man of great moral worth."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"And have not her sugar refiners lived upon the difference of the rates imposed upon raw and refined sugars?"*

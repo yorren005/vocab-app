@@ -5,15 +5,6 @@ status: unread
 ---
 # traveling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of going from one place to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change location; move, travel, or proceed, also metaphorically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Through trade-papers, correspondence, traveling members, and in meetings, information is exchanged regarding conditions of employment in various parts of the country."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But very soon began to appear some serious evils in the policy of railroads toward the shipping and traveling public in matters of rates and of service."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"She hasn't seen Elizabeth since her mother died and she was so much interested in the easy way of traveling these days, as Miss Mathers described it, that she asked her to write for a time-table and what a ticket costs, just this morning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of going from one place to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change location; move, travel, or proceed, also metaphorically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Through trade-papers, correspondence, traveling members, and in meetings, information is exchanged regarding conditions of employment in various parts of the country."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But very soon began to appear some serious evils in the policy of railroads toward the shipping and traveling public in matters of rates and of service."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"She hasn't seen Elizabeth since her mother died and she was so much interested in the easy way of traveling these days, as Miss Mathers described it, that she asked her to write for a time-table and what a ticket costs, just this morning."*

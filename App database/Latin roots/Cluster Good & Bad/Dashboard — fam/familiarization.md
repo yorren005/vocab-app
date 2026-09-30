@@ -5,13 +5,6 @@ status: unread
 ---
 # familiarization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The experience of becoming familiar with something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The experience of becoming familiar with something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, familiarization designates the experience of becoming familiar with something."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The experience of becoming familiar with something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The experience of becoming familiar with something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, familiarization designates the experience of becoming familiar with something."*

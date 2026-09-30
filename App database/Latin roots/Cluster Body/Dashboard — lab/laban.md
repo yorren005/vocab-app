@@ -5,15 +5,6 @@ status: unread
 ---
 # laban
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hungarian choreographer who developed labanotation (1879-1958).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hungarian choreographer who developed labanotation (1879-1958).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When Jacob graz’d his uncle Laban’s sheep,— This Jacob from our holy Abram was As his wise mother wrought in his behalf, The third possessor; ay, he was the third."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"If I thought after I’d left that music was still playing, and I not there, I should be quite melancholy-like.” “What’s yer hurry then, Laban?” inquired Coggan."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Have ye heard the news that’s all over parish?” “About Baily Pennyways?” “But besides that?” “No—not a morsel of it!” they replied, looking into the very midst of Laban Tall as if to meet his words half-way down his throat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hungarian choreographer who developed labanotation (1879-1958).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hungarian choreographer who developed labanotation (1879-1958).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When Jacob graz’d his uncle Laban’s sheep,— This Jacob from our holy Abram was As his wise mother wrought in his behalf, The third possessor; ay, he was the third."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"If I thought after I’d left that music was still playing, and I not there, I should be quite melancholy-like.” “What’s yer hurry then, Laban?” inquired Coggan."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Have ye heard the news that’s all over parish?” “About Baily Pennyways?” “But besides that?” “No—not a morsel of it!” they replied, looking into the very midst of Laban Tall as if to meet his words half-way down his throat."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # habitant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who inhabits a particular place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who inhabits a particular place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"Yet not to Earth are those bright Luminaries Officious, but to thee Earths habitant."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Yet not to Earth are those bright luminaries Officious; but to thee, Earth’s habitant."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"She knew her subject and succeeded in waking in the hearts of her hearers a desire to go out in the green fields and quiet woods and find the lovely habitants of the flower world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who inhabits a particular place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who inhabits a particular place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"Yet not to Earth are those bright Luminaries Officious, but to thee Earths habitant."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Yet not to Earth are those bright luminaries Officious; but to thee, Earth’s habitant."*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"She knew her subject and succeeded in waking in the hearts of her hearers a desire to go out in the green fields and quiet woods and find the lovely habitants of the flower world."*

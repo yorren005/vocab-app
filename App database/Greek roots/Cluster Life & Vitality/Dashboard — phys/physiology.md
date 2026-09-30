@@ -5,15 +5,6 @@ status: unread
 ---
 # physiology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biology that deals with the functions and activities of life or of living matter (such as organs, tissues, or cells) and of the physical and chemical phenomena involved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organic processes and phenomena of an organism or any of its parts or of a particular bodily process.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Some years ago I happened to be conversing at Cambridge with three men who were respectively of great eminence in mathematics, classics, and physiology."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Why, even in love it is purely a question for physiology."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Fitzjames O’Brien The Golden Ingot I had just retired to rest, with my eyes almost blind with the study of a new work on physiology by M."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biology that deals with the functions and activities of life or of living matter (such as organs, tissues, or cells) and of the physical and chemical phenomena involved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organic processes and phenomena of an organism or any of its parts or of a particular bodily process.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Some years ago I happened to be conversing at Cambridge with three men who were respectively of great eminence in mathematics, classics, and physiology."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Why, even in love it is purely a question for physiology."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Fitzjames O’Brien The Golden Ingot I had just retired to rest, with my eyes almost blind with the study of a new work on physiology by M."*

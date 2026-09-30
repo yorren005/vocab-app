@@ -5,15 +5,6 @@ status: unread
 ---
 # unobjectionable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of behavior or especially language) free from objectionable elements; fit for all observers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not causing disapproval.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Once past this difficulty, however, he exhorts his dear friend in the tenderest manner not to be rash, but to do what so eminent a gentleman requires, and to do it with a good grace, confident that it must be unobjectionable as well as profitable."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Sir Walter was not very wise; but still he had experience enough of the world to feel, that a more unobjectionable tenant, in all essentials, than Admiral Croft bid fair to be, could hardly offer."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She is a person we have to sew and assist Leah in her housemaid’s work,” continued the widow; “not altogether unobjectionable in some points, but she does well enough."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of behavior or especially language) free from objectionable elements; fit for all observers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not causing disapproval.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Once past this difficulty, however, he exhorts his dear friend in the tenderest manner not to be rash, but to do what so eminent a gentleman requires, and to do it with a good grace, confident that it must be unobjectionable as well as profitable."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Sir Walter was not very wise; but still he had experience enough of the world to feel, that a more unobjectionable tenant, in all essentials, than Admiral Croft bid fair to be, could hardly offer."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She is a person we have to sew and assist Leah in her housemaid’s work,” continued the widow; “not altogether unobjectionable in some points, but she does well enough."*

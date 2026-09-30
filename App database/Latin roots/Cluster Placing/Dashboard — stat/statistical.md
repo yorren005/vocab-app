@@ -5,15 +5,6 @@ status: unread
 ---
 # statistical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to statistics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to statistics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The prices (and estimated values) of farm lands are the expression of the individual capitals, which formed each year an increasing statistical total of so-called wealth."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Several large statistical and financial expert agencies[5] in return for an annual subscription, offer advice to investors regarding general market conditions and special securities."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 484.] [Footnote 4: See above, ch. 9, sec. 7.] [Footnote 5: E.g., Babson Statistical Organization, Brookmire Economic Service, Moody Manual Co., Moody Corporation Service.] [Footnote 6: See Vol."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to statistics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to statistics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The prices (and estimated values) of farm lands are the expression of the individual capitals, which formed each year an increasing statistical total of so-called wealth."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Several large statistical and financial expert agencies[5] in return for an annual subscription, offer advice to investors regarding general market conditions and special securities."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 484.] [Footnote 4: See above, ch. 9, sec. 7.] [Footnote 5: E.g., Babson Statistical Organization, Brookmire Economic Service, Moody Manual Co., Moody Corporation Service.] [Footnote 6: See Vol."*

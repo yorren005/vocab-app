@@ -5,15 +5,6 @@ status: unread
 ---
 # suppression
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The failure to develop some part or organ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of withholding or withdrawing some book or writing from publication or circulation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Is it suppression?” A shiver in the negative from Mrs."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Honestly, Tess, do you love any other man?” “How can you ask?” she said, with continued self-suppression."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Teachers and pupils may look coldly on you for a day or two, but friendly feelings are concealed in their hearts; and if you persevere in doing well, these feelings will ere long appear so much the more evidently for their temporary suppression."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The failure to develop some part or organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of withholding or withdrawing some book or writing from publication or circulation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Is it suppression?” A shiver in the negative from Mrs."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Honestly, Tess, do you love any other man?” “How can you ask?” she said, with continued self-suppression."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Teachers and pupils may look coldly on you for a day or two, but friendly feelings are concealed in their hearts; and if you persevere in doing well, these feelings will ere long appear so much the more evidently for their temporary suppression."*

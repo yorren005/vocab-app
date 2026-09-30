@@ -5,13 +5,6 @@ status: unread
 ---
 # eccrine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Merocrine —used especially of sweat glands; also : produced by an eccrine gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the rather small sweat glands that discharge an odorless watery fluid onto the surface of the skin, play an important role in thermoregulation, and are widely distributed across the body with the most dense concentrations on the palms, soles, and forehead.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eccrine designates merocrine —used especially of sweat glands; also : produced by an eccrine gland."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Merocrine —used especially of sweat glands; also : produced by an eccrine gland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the rather small sweat glands that discharge an odorless watery fluid onto the surface of the skin, play an important role in thermoregulation, and are widely distributed across the body with the most dense concentrations on the palms, soles, and forehead.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eccrine designates merocrine —used especially of sweat glands; also : produced by an eccrine gland."*

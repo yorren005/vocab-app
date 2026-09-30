@@ -5,13 +5,6 @@ status: unread
 ---
 # febrifuge
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any medicine that lowers body temperature to prevent or alleviate fever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any medicine that lowers body temperature to prevent or alleviate fever.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, febrifuge designates any medicine that lowers body temperature to prevent or alleviate fever."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any medicine that lowers body temperature to prevent or alleviate fever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any medicine that lowers body temperature to prevent or alleviate fever.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, febrifuge designates any medicine that lowers body temperature to prevent or alleviate fever."*

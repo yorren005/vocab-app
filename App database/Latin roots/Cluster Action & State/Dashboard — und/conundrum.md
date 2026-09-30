@@ -5,15 +5,6 @@ status: unread
 ---
 # conundrum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A difficult problem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A difficult problem.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It would not be fair, in other words, to propose a conundrum on a basis of ostensible materialism, and then, when no other key would fit, to palm off a disembodied spirit on us."*
-> - 📜 **James Joyce (*Ulysses*):** *"Martin Cunningham forgot to give us his spellingbee conundrum this morning."*
-> - 📜 **James Joyce (*Ulysses*):** *"But Edy wanted to know because they were told to be in early. —Wait, said Cissy, I’ll run ask my uncle Peter over there what’s the time by his conundrum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A difficult problem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A difficult problem.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It would not be fair, in other words, to propose a conundrum on a basis of ostensible materialism, and then, when no other key would fit, to palm off a disembodied spirit on us."*
+> - 📜 **James Joyce (*Ulysses*):** *"Martin Cunningham forgot to give us his spellingbee conundrum this morning."*
+> - 📜 **James Joyce (*Ulysses*):** *"But Edy wanted to know because they were told to be in early. —Wait, said Cissy, I’ll run ask my uncle Peter over there what’s the time by his conundrum."*

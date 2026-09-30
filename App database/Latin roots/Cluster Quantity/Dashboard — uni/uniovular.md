@@ -5,13 +5,6 @@ status: unread
 ---
 # uniovular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a single ovule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a single ovule.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uniovular designates having a single ovule."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a single ovule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a single ovule.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uniovular designates having a single ovule."*

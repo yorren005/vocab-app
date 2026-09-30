@@ -5,15 +5,6 @@ status: unread
 ---
 # liberty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Immunity from arbitrary exercise of authority: political independence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freedom of choice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O let me suffer (being at your beck) Th’ imprisoned absence of your liberty, And patience tame to sufferance bide each check, Without accusing you of injury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now go we in content To liberty, and not to banishment. [_Exeunt._] ACT II SCENE I."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I must have liberty Withal, as large a charter as the wind, To blow on whom I please, for so fools have."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Immunity from arbitrary exercise of authority: political independence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freedom of choice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O let me suffer (being at your beck) Th’ imprisoned absence of your liberty, And patience tame to sufferance bide each check, Without accusing you of injury."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now go we in content To liberty, and not to banishment. [_Exeunt._] ACT II SCENE I."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I must have liberty Withal, as large a charter as the wind, To blow on whom I please, for so fools have."*

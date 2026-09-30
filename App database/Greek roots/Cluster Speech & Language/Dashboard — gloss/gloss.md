@@ -5,15 +5,6 @@ status: unread
 ---
 # gloss
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surface luster or brightness : shine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deceptively attractive appearance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, ill, to like him that ne’er it likes. ’Tis a commodity will lose the gloss with lying; the longer kept, the less worth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The over-daring Talbot Hath sullied all his gloss of former honour By this unheedful, desperate, wild adventure."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your painted gloss discovers, To men that understand you, words and weakness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surface luster or brightness : shine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deceptively attractive appearance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, ill, to like him that ne’er it likes. ’Tis a commodity will lose the gloss with lying; the longer kept, the less worth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The over-daring Talbot Hath sullied all his gloss of former honour By this unheedful, desperate, wild adventure."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your painted gloss discovers, To men that understand you, words and weakness."*

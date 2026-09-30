@@ -5,15 +5,6 @@ status: unread
 ---
 # aqua
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shade of blue tinged with green.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shade of blue tinged with green.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our fraughtage, sir, I have convey’d aboard, and I have bought The oil, the balsamum, and aqua-vitae."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will rather trust a Fleming with my butter, Parson Hugh the Welshman with my cheese, an Irishman with my aqua-vitae bottle, or a thief to walk my ambling gelding, than my wife with herself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Like aqua-vitae with a midwife."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shade of blue tinged with green.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shade of blue tinged with green.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our fraughtage, sir, I have convey’d aboard, and I have bought The oil, the balsamum, and aqua-vitae."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will rather trust a Fleming with my butter, Parson Hugh the Welshman with my cheese, an Irishman with my aqua-vitae bottle, or a thief to walk my ambling gelding, than my wife with herself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Like aqua-vitae with a midwife."*

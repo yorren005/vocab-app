@@ -5,15 +5,6 @@ status: unread
 ---
 # diagnosing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Identifying the nature or cause of some phenomenon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine or distinguish the nature of a problem or an illness through a diagnostic analysis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The one unquestioned service of the minimum wage law is that of diagnosing the evil of low wages rather than in remedying it."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Again and again he runs through the gamut of his own painful emotions and experiences, diagnosing and dissecting each one, and always with the same gloomy result."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Different opinions were given by them, as to the nature of the trouble, some diagnosing it as an abnormal growth, etc."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Identifying the nature or cause of some phenomenon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determine or distinguish the nature of a problem or an illness through a diagnostic analysis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The one unquestioned service of the minimum wage law is that of diagnosing the evil of low wages rather than in remedying it."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Again and again he runs through the gamut of his own painful emotions and experiences, diagnosing and dissecting each one, and always with the same gloomy result."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Different opinions were given by them, as to the nature of the trouble, some diagnosing it as an abnormal growth, etc."*

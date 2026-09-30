@@ -5,15 +5,6 @@ status: unread
 ---
 # disunion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The termination or destruction of union.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The termination or destruction of union.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON To the People of the State of New York: The three last numbers of this paper have been dedicated to an enumeration of the dangers to which we should be exposed, in a state of disunion, from the arms and arts of foreign nations."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But in a state of disunion, these combinations might exist and might operate with success."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Disunion will will add another victim to his triumphs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The termination or destruction of union.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The termination or destruction of union.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON To the People of the State of New York: The three last numbers of this paper have been dedicated to an enumeration of the dangers to which we should be exposed, in a state of disunion, from the arms and arts of foreign nations."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But in a state of disunion, these combinations might exist and might operate with success."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Disunion will will add another victim to his triumphs."*

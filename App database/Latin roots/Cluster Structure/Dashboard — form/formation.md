@@ -5,15 +5,6 @@ status: unread
 ---
 # formation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of people or things acting as a unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of fabricating something in a particular shape.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I could not find that it led to anything but the formation of delusive hopes in connexion with the suit already the pernicious cause of so much sorrow and ruin."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Partly the growth of this sentiment accompanied the agitation against trusts and the belief that protective duties in some cases were an aid to the formation of domestic monopolies."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Anything beyond that point but offers temptation and opportunity for the formation of a monopoly by domestic producers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of people or things acting as a unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of fabricating something in a particular shape.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I could not find that it led to anything but the formation of delusive hopes in connexion with the suit already the pernicious cause of so much sorrow and ruin."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Partly the growth of this sentiment accompanied the agitation against trusts and the belief that protective duties in some cases were an aid to the formation of domestic monopolies."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Anything beyond that point but offers temptation and opportunity for the formation of a monopoly by domestic producers."*

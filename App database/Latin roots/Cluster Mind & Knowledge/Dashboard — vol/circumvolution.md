@@ -5,13 +5,6 @@ status: unread
 ---
 # circumvolution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of turning or winding or folding around a central axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of turning or winding or folding around a central axis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Tell me, then, for you can, in what periphrasis of language, in what circumvolution of phrase, I shall envelope, yet not conceal, the plain story."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of turning or winding or folding around a central axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of turning or winding or folding around a central axis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Tell me, then, for you can, in what periphrasis of language, in what circumvolution of phrase, I shall envelope, yet not conceal, the plain story."*

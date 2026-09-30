@@ -5,15 +5,6 @@ status: unread
 ---
 # timepiece
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument or device for keeping time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument or device for keeping time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"When you think you have been out the specified number of minutes, you may come back; but I shall not find fault with you if you are not quite punctual, as you will not have a timepiece with you." "Thank you, sir," she said, obeying with alacrity."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Why, that's old Ma'am Stover's timepiece, ain't it?"*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I found the date was indeed today, and looking at the timepiece, saw the hour was almost eight o’clock."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument or device for keeping time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument or device for keeping time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"When you think you have been out the specified number of minutes, you may come back; but I shall not find fault with you if you are not quite punctual, as you will not have a timepiece with you." "Thank you, sir," she said, obeying with alacrity."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Why, that's old Ma'am Stover's timepiece, ain't it?"*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I found the date was indeed today, and looking at the timepiece, saw the hour was almost eight o’clock."*

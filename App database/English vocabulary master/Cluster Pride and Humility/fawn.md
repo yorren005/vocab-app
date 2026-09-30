@@ -5,20 +5,6 @@ status: unread
 ---
 # fawn
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Young deer
-> 2. **Nuance / Usage**: Of the fawn colour
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to fawn the target*) and intransitive clauses (*fawning against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And take foul scorn to fawn on him by sending."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"My love, forbear to fawn upon their frowns."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"The more you beat me, I will fawn on you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Young deer
+> 2. **Nuance / Usage**: Of the fawn colour
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to fawn the target*) and intransitive clauses (*fawning against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And take foul scorn to fawn on him by sending."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"My love, forbear to fawn upon their frowns."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"The more you beat me, I will fawn on you."*

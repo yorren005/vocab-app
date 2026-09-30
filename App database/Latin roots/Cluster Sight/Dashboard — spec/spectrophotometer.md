@@ -5,13 +5,6 @@ status: unread
 ---
 # spectrophotometer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A photometer for comparing two light radiations wavelength by wavelength.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photometer for comparing two light radiations wavelength by wavelength.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spectrophotometer designates a photometer for comparing two light radiations wavelength by wavelength."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A photometer for comparing two light radiations wavelength by wavelength.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photometer for comparing two light radiations wavelength by wavelength.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spectrophotometer designates a photometer for comparing two light radiations wavelength by wavelength."*

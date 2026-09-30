@@ -5,15 +5,6 @@ status: unread
 ---
 # dignified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confer dignity or honor upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise the status of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From lowest place when virtuous things proceed, The place is dignified by the doer’s deed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wert dignified enough, Even to the point of envy, if ’twere made Comparative for your virtues to be styl’d The under-hangman of his kingdom, and hated For being preferr’d so well."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virtue itself turns vice being misapplied, And vice sometime’s by action dignified."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Confer dignity or honor upon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise the status of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From lowest place when virtuous things proceed, The place is dignified by the doer’s deed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wert dignified enough, Even to the point of envy, if ’twere made Comparative for your virtues to be styl’d The under-hangman of his kingdom, and hated For being preferr’d so well."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virtue itself turns vice being misapplied, And vice sometime’s by action dignified."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # gyne
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Female reproductive organ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Female reproductive organ.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyne designates female reproductive organ."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Female reproductive organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Female reproductive organ.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyne designates female reproductive organ."*

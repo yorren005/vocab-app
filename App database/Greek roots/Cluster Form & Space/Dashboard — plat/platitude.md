@@ -5,15 +5,6 @@ status: unread
 ---
 # platitude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being dull or insipid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A banal, trite, or stale remark.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"My Koh-i-noor--or (if that’s a platitude) Jewel of Giamschid, the Persian Sofi’s eye; So, in anticipative gratitude, What if I take up my hope and prophesy? -- St. 31."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The familiar maxim that the mind can make itself happy and at home anywhere is rather like a platitude, but it loses something of that character when it comes from the lips of a man actually in exile."*
-> - 📜 **Grant Allen (*Michael's Crag*):** *"Trevennack winced, grew suddenly pale, and stammered out some conventional none-committing platitude."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being dull or insipid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A banal, trite, or stale remark.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"My Koh-i-noor--or (if that’s a platitude) Jewel of Giamschid, the Persian Sofi’s eye; So, in anticipative gratitude, What if I take up my hope and prophesy? -- St. 31."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The familiar maxim that the mind can make itself happy and at home anywhere is rather like a platitude, but it loses something of that character when it comes from the lips of a man actually in exile."*
+> - 📜 **Grant Allen (*Michael's Crag*):** *"Trevennack winced, grew suddenly pale, and stammered out some conventional none-committing platitude."*

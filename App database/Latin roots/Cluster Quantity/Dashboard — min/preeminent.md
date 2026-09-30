@@ -5,15 +5,6 @@ status: unread
 ---
 # preeminent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greatest in importance or degree or significance or achievement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greatest in importance or degree or significance or achievement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Vital significance of preeminent objective in European continent cannot be overemphasized."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Through faith and certitude, and the precedence achieved by one over another, however, the dweller conferreth honor upon the dwelling, some of the countries achieve distinction, and attain a preeminent position."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Urge deepening realization of sacredness, preeminent importance of twin purposes which individual resolves serve."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Greatest in importance or degree or significance or achievement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greatest in importance or degree or significance or achievement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Vital significance of preeminent objective in European continent cannot be overemphasized."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Through faith and certitude, and the precedence achieved by one over another, however, the dweller conferreth honor upon the dwelling, some of the countries achieve distinction, and attain a preeminent position."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Urge deepening realization of sacredness, preeminent importance of twin purposes which individual resolves serve."*

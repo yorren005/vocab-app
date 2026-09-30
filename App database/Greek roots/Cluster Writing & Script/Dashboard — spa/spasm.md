@@ -5,15 +5,6 @@ status: unread
 ---
 # spasm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An involuntary and abnormal muscular contraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden violent and temporary effort, emotion, or sensation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Suddenly a spasm shoots across her face and she turns deadly pale."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A spasm of anguish shot through her, and she returned him no answer."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Paul, lead on.' When I said the word 'devil' a spasm of alarm passed over Riou's face."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An involuntary and abnormal muscular contraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden violent and temporary effort, emotion, or sensation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Suddenly a spasm shoots across her face and she turns deadly pale."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A spasm of anguish shot through her, and she returned him no answer."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Paul, lead on.' When I said the word 'devil' a spasm of alarm passed over Riou's face."*

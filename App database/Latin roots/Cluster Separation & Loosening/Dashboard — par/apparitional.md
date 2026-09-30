@@ -5,15 +5,6 @@ status: unread
 ---
 # apparitional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or characteristic of a phantom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling or characteristic of a phantom.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"That is, matter manifests itself in form, and form is apparitional."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The form that was Jesse Fancher, the body that was his, being matter and apparitional, like an apparition passed and was not."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It continued to exist, and, in its next incarnation, became the residing spirit of that apparitional body known as Darrell Standing’s which soon is to be taken out and hanged and sent into the nothingness whither all apparitions go."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or characteristic of a phantom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling or characteristic of a phantom.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"That is, matter manifests itself in form, and form is apparitional."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The form that was Jesse Fancher, the body that was his, being matter and apparitional, like an apparition passed and was not."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It continued to exist, and, in its next incarnation, became the residing spirit of that apparitional body known as Darrell Standing’s which soon is to be taken out and hanged and sent into the nothingness whither all apparitions go."*

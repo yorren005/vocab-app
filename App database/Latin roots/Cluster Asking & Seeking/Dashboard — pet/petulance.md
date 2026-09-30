@@ -5,15 +5,6 @@ status: unread
 ---
 # petulance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An irritable petulant feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An irritable petulant feeling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It was gratitude;--gratitude, not merely for having once loved her, but for loving her still well enough to forgive all the petulance and acrimony of her manner in rejecting him, and all the unjust accusations accompanying her rejection."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"She could not refrain from another cry, and was very angry with herself for her petulance."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A man with only a portmanteau for his stowage must keep his memorials in his head.” Will spoke at random: he was merely venting his petulance; it was a little too exasperating to have his grandmother’s portrait offered him at that moment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irritable petulant feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An irritable petulant feeling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It was gratitude;--gratitude, not merely for having once loved her, but for loving her still well enough to forgive all the petulance and acrimony of her manner in rejecting him, and all the unjust accusations accompanying her rejection."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"She could not refrain from another cry, and was very angry with herself for her petulance."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A man with only a portmanteau for his stowage must keep his memorials in his head.” Will spoke at random: he was merely venting his petulance; it was a little too exasperating to have his grandmother’s portrait offered him at that moment."*

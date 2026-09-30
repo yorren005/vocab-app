@@ -5,15 +5,6 @@ status: unread
 ---
 # abstractly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In abstract terms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In abstract terms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They have been too abstractly doctrinaire, have argued too absolutely for the merits of free trade to be applied instantly regardless of the existing distribution of investments and of occupations."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Practically every man in a market acts on the knowledge of what the exchange of direct and indirect goods means; yet abstractly stated, the thought seems at first difficult."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The study of rent puts this abstractly, but in a clear light."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In abstract terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In abstract terms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They have been too abstractly doctrinaire, have argued too absolutely for the merits of free trade to be applied instantly regardless of the existing distribution of investments and of occupations."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Practically every man in a market acts on the knowledge of what the exchange of direct and indirect goods means; yet abstractly stated, the thought seems at first difficult."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The study of rent puts this abstractly, but in a clear light."*

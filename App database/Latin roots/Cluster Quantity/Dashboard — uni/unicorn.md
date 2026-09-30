@@ -5,15 +5,6 @@ status: unread
 ---
 # unicorn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An imaginary creature represented as a white horse with a long horn growing from its forehead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An imaginary creature represented as a white horse with a long horn growing from its forehead.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here’s a unicorn’s head—there’s nothing in that."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Narwhale I have heard called the Tusked whale, the Horned whale, and the Unicorn whale."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"From certain cloistered old authors I have gathered that this same sea-unicorn’s horn was in ancient days regarded as the great antidote against poison, and as such, preparations of it brought immense prices."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An imaginary creature represented as a white horse with a long horn growing from its forehead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An imaginary creature represented as a white horse with a long horn growing from its forehead.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here’s a unicorn’s head—there’s nothing in that."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Narwhale I have heard called the Tusked whale, the Horned whale, and the Unicorn whale."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"From certain cloistered old authors I have gathered that this same sea-unicorn’s horn was in ancient days regarded as the great antidote against poison, and as such, preparations of it brought immense prices."*

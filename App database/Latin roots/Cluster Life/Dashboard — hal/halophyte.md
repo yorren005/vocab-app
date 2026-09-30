@@ -5,13 +5,6 @@ status: unread
 ---
 # halophyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant growing naturally in very salty soil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant growing naturally in very salty soil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halophyte designates plant growing naturally in very salty soil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant growing naturally in very salty soil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant growing naturally in very salty soil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halophyte designates plant growing naturally in very salty soil."*

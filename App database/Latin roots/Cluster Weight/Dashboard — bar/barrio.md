@@ -5,13 +5,6 @@ status: unread
 ---
 # barrio
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spanish-speaking quarter in a town or city (especially in the united states).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An urban area in a spanish-speaking country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"From that line to the circumference ran several streets, some of them broken, like the Calles de la Diezma, Barrio Verde, de los Clavos, and de Pabostre."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spanish-speaking quarter in a town or city (especially in the united states).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An urban area in a spanish-speaking country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"From that line to the circumference ran several streets, some of them broken, like the Calles de la Diezma, Barrio Verde, de los Clavos, and de Pabostre."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # psalm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sacred song or poem used in worship; especially : one of the biblical hymns collected in the Book of Psalms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sacred song or poem used in worship; especially : one of the biblical hymns collected in the Book of Psalms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But they do no more adhere and keep place together than the Hundredth Psalm to the tune of “Greensleeves.” What tempest, I trow, threw this whale, with so many tuns of oil in his belly, ashore at Windsor?"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is very difficult to read my Sunday psalm in peace when I am given such a bitter soup of grief to swallow as I got yesterday."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Can play so clever that ’a can make a psalm tune sound as well as the merriest loose song a man can wish for.” “D’ye tell o’t!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sacred song or poem used in worship; especially : one of the biblical hymns collected in the Book of Psalms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sacred song or poem used in worship; especially : one of the biblical hymns collected in the Book of Psalms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But they do no more adhere and keep place together than the Hundredth Psalm to the tune of “Greensleeves.” What tempest, I trow, threw this whale, with so many tuns of oil in his belly, ashore at Windsor?"*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is very difficult to read my Sunday psalm in peace when I am given such a bitter soup of grief to swallow as I got yesterday."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Can play so clever that ’a can make a psalm tune sound as well as the merriest loose song a man can wish for.” “D’ye tell o’t!"*

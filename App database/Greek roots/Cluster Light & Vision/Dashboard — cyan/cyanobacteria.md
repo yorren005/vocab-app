@@ -5,13 +5,6 @@ status: unread
 ---
 # cyanobacteria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Predominantly photosynthetic prokaryotic organisms containing a blue pigment in addition to chlorophyll; occur singly or in colonies in diverse habitats; important as phytoplankton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Predominantly photosynthetic prokaryotic organisms containing a blue pigment in addition to chlorophyll; occur singly or in colonies in diverse habitats; important as phytoplankton.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanobacteria designates predominantly photosynthetic prokaryotic organisms containing a blue pigment in addition to chlorophyll; occur singly or in colonies in diverse habitats; important as phytoplankton."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Predominantly photosynthetic prokaryotic organisms containing a blue pigment in addition to chlorophyll; occur singly or in colonies in diverse habitats; important as phytoplankton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Predominantly photosynthetic prokaryotic organisms containing a blue pigment in addition to chlorophyll; occur singly or in colonies in diverse habitats; important as phytoplankton.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanobacteria designates predominantly photosynthetic prokaryotic organisms containing a blue pigment in addition to chlorophyll; occur singly or in colonies in diverse habitats; important as phytoplankton."*

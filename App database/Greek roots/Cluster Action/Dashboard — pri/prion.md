@@ -5,13 +5,6 @@ status: unread
 ---
 # prion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several small petrels (genus Pachyptila of the family Procellariidae) of the southern hemisphere that are bluish gray above and white below.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prion protein; especially : an abnormal form of prion protein that in mammals includes pathogenic forms which arise sporadically, as a result of genetic mutation, or by transmission (as by ingestion of infected tissue) and which upon accumulation in the brain cause a prion disease (such as bovine spongiform encephalopathy or Creutzfeldt-Jakob disease).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prion designates any of several small petrels (genus pachyptila of the family procellariidae) of the southern hemisphere that are bluish gray above and white below."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several small petrels (genus Pachyptila of the family Procellariidae) of the southern hemisphere that are bluish gray above and white below.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prion protein; especially : an abnormal form of prion protein that in mammals includes pathogenic forms which arise sporadically, as a result of genetic mutation, or by transmission (as by ingestion of infected tissue) and which upon accumulation in the brain cause a prion disease (such as bovine spongiform encephalopathy or Creutzfeldt-Jakob disease).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prion designates any of several small petrels (genus pachyptila of the family procellariidae) of the southern hemisphere that are bluish gray above and white below."*

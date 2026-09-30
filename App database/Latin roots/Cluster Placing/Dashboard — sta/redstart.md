@@ -5,13 +5,6 @@ status: unread
 ---
 # redstart
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flycatching warbler of eastern north america the male having bright orange on sides and wings and tail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: European songbird with a reddish breast and tail; related to old world robins.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redstart designates flycatching warbler of eastern north america the male having bright orange on sides and wings and tail."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flycatching warbler of eastern north america the male having bright orange on sides and wings and tail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: European songbird with a reddish breast and tail; related to old world robins.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redstart designates flycatching warbler of eastern north america the male having bright orange on sides and wings and tail."*

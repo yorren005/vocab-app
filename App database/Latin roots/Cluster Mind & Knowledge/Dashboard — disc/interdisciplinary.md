@@ -5,13 +5,6 @@ status: unread
 ---
 # interdisciplinary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Drawing from or characterized by participation of two or more fields of study.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drawing from or characterized by participation of two or more fields of study.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interdisciplinary designates drawing from or characterized by participation of two or more fields of study."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Drawing from or characterized by participation of two or more fields of study.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drawing from or characterized by participation of two or more fields of study.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interdisciplinary designates drawing from or characterized by participation of two or more fields of study."*

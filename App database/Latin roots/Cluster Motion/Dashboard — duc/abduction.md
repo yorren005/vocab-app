@@ -5,15 +5,6 @@ status: unread
 ---
 # abduction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The criminal act of capturing and carrying away by force a family member; if a man's wife is abducted it is a crime against the family relationship and against the wife.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physiology) moving of a body part away from the central axis of the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The plan for Natalie Rostóva’s abduction had been arranged and the preparations made by Dólokhov a few days before, and on the day that Sónya, after listening at Natásha’s door, resolved to safeguard her, it was to have been put into execution."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"One of Pierre’s acquaintances, while they were talking about the weather, asked if he had heard of Kurágin’s abduction of Rostóva which was talked of in the town, and was it true?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Pierre dined at the club that day and heard on all sides gossip about the attempted abduction of Rostóva."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The criminal act of capturing and carrying away by force a family member; if a man's wife is abducted it is a crime against the family relationship and against the wife.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physiology) moving of a body part away from the central axis of the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The plan for Natalie Rostóva’s abduction had been arranged and the preparations made by Dólokhov a few days before, and on the day that Sónya, after listening at Natásha’s door, resolved to safeguard her, it was to have been put into execution."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"One of Pierre’s acquaintances, while they were talking about the weather, asked if he had heard of Kurágin’s abduction of Rostóva which was talked of in the town, and was it true?"*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Pierre dined at the club that day and heard on all sides gossip about the attempted abduction of Rostóva."*

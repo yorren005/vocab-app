@@ -5,15 +5,6 @@ status: unread
 ---
 # aster
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various chiefly fall-blooming leafy-stemmed composite herbs (Aster and closely related genera) with often showy heads containing disk flowers or both disk and ray flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: China aster.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grant Allen (*Michael's Crag*):** *"She clambered up the steep side--a sheer wall of bare rock, lightly clad here and there with sparse drapery of green sapphire, or clumps of purple sea-aster, rooted firm in the crannies."*
-> - 📜 **Grant Allen (*Michael's Crag*):** *"He clung to the hard root of woody sea-aster in the clefts."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Another style of ornament, which may date from Sung times, and is certainly common on later wares, consists of a broad band of floral scrolls, with large lily or aster flowers, enclosed by smaller zones of floral pattern or formal designs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various chiefly fall-blooming leafy-stemmed composite herbs (Aster and closely related genera) with often showy heads containing disk flowers or both disk and ray flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: China aster.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grant Allen (*Michael's Crag*):** *"She clambered up the steep side--a sheer wall of bare rock, lightly clad here and there with sparse drapery of green sapphire, or clumps of purple sea-aster, rooted firm in the crannies."*
+> - 📜 **Grant Allen (*Michael's Crag*):** *"He clung to the hard root of woody sea-aster in the clefts."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Another style of ornament, which may date from Sung times, and is certainly common on later wares, consists of a broad band of floral scrolls, with large lily or aster flowers, enclosed by smaller zones of floral pattern or formal designs."*

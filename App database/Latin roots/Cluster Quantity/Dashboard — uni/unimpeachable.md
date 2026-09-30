@@ -5,15 +5,6 @@ status: unread
 ---
 # unimpeachable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond doubt or reproach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free of guilt; not subject to blame.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A low carriage, bowling along still more rapidly behind a horse of unimpeachable breed, overtook and passed them."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"After breakfast he walked with his two brothers, non-evangelical, well-educated, hall-marked young men, correct to their remotest fibre, such unimpeachable models as are turned out yearly by the lathe of a systematic tuition."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And she is an unimpeachable Christian, I am sure; perhaps of the very tribe, genus, and species you desire to propagate.” “O Angel, you are mocking!” “Mother, I beg pardon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond doubt or reproach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free of guilt; not subject to blame.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A low carriage, bowling along still more rapidly behind a horse of unimpeachable breed, overtook and passed them."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"After breakfast he walked with his two brothers, non-evangelical, well-educated, hall-marked young men, correct to their remotest fibre, such unimpeachable models as are turned out yearly by the lathe of a systematic tuition."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And she is an unimpeachable Christian, I am sure; perhaps of the very tribe, genus, and species you desire to propagate.” “O Angel, you are mocking!” “Mother, I beg pardon."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # calculated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a mathematical calculation or computation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judge to be probable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She is eminently calculated for a mother-in-law."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Is it because we are calculated to walk?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You, Tony, possess in yourself all that is calculated to charm the eye and allure the taste."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a mathematical calculation or computation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judge to be probable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"She is eminently calculated for a mother-in-law."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Is it because we are calculated to walk?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You, Tony, possess in yourself all that is calculated to charm the eye and allure the taste."*

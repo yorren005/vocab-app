@@ -5,15 +5,6 @@ status: unread
 ---
 # conviction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unshakable belief in something without need for proof or evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (criminal law) a final judgment of guilty in a criminal case and the punishment that is imposed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Oh, mama, I have to go and see Apollonie," she would repeatedly say with firm conviction to her mother."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You are at home here now, even if you have no home anywhere else." This was uttered in a spirit of utter conviction, as the little boy had heard it from her own lips and was sure that this would be the best for them all."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli's answers had clearly given her the conviction that the child could not possibly understand the difficult situation she was in."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unshakable belief in something without need for proof or evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (criminal law) a final judgment of guilty in a criminal case and the punishment that is imposed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Oh, mama, I have to go and see Apollonie," she would repeatedly say with firm conviction to her mother."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You are at home here now, even if you have no home anywhere else." This was uttered in a spirit of utter conviction, as the little boy had heard it from her own lips and was sure that this would be the best for them all."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli's answers had clearly given her the conviction that the child could not possibly understand the difficult situation she was in."*

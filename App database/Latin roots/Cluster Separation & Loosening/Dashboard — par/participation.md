@@ -5,15 +5,6 @@ status: unread
 ---
 # participation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sharing in the activities of a group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of sharing in common with others (as fellows or partners etc.).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And in that very line, Harry, standest thou, For thou hast lost thy princely privilege With vile participation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their spirits are so married in conjunction with the participation of society that they flock together in consent, like so many wild-geese."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It has been observed that her young family are excluded from participation in the objects to which she is devoted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sharing in the activities of a group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of sharing in common with others (as fellows or partners etc.).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And in that very line, Harry, standest thou, For thou hast lost thy princely privilege With vile participation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their spirits are so married in conjunction with the participation of society that they flock together in consent, like so many wild-geese."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It has been observed that her young family are excluded from participation in the objects to which she is devoted."*

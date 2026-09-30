@@ -5,13 +5,6 @@ status: unread
 ---
 # falsifying
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of determining that something is false.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make false by mutilation or addition; as of a message or story.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"To do this, he worked in perfect accordance with artistic law, falsifying no line of the original forms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of determining that something is false.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make false by mutilation or addition; as of a message or story.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"To do this, he worked in perfect accordance with artistic law, falsifying no line of the original forms."*

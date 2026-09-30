@@ -5,13 +5,6 @@ status: unread
 ---
 # diode
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic device that has two electrodes or terminals and is used especially as a rectifier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electronic device that has two electrodes or terminals and is used especially as a rectifier.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diode designates an electronic device that has two electrodes or terminals and is used especially as a rectifier."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic device that has two electrodes or terminals and is used especially as a rectifier.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electronic device that has two electrodes or terminals and is used especially as a rectifier.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diode designates an electronic device that has two electrodes or terminals and is used especially as a rectifier."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # unjustly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unjust manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unjust manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only, in this disguise, I think’t no sin To cozen him that would unjustly win. [_Exit._] SCENE III."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Cymbeline, heaven and my conscience knows Thou didst unjustly banish me!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when I mount, alive may I not light If I be traitor or unjustly fight!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unjust manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unjust manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only, in this disguise, I think’t no sin To cozen him that would unjustly win. [_Exit._] SCENE III."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Cymbeline, heaven and my conscience knows Thou didst unjustly banish me!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when I mount, alive may I not light If I be traitor or unjustly fight!"*

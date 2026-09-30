@@ -5,13 +5,6 @@ status: unread
 ---
 # logroll
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work toward the passage of some legislation by exchanging political favors such as trading votes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work toward the passage of some legislation by exchanging political favors such as trading votes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"The little grove in which the tents were pitched was thronged with visitors, the Rangers were out in full force and there was a good deal of "logrolling" going on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Work toward the passage of some legislation by exchanging political favors such as trading votes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work toward the passage of some legislation by exchanging political favors such as trading votes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"The little grove in which the tents were pitched was thronged with visitors, the Rangers were out in full force and there was a good deal of "logrolling" going on."*

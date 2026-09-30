@@ -5,15 +5,6 @@ status: unread
 ---
 # tardiness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or habit of not adhering to a correct or usual or expected time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or habit of not adhering to a correct or usual or expected time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is it but this?—a tardiness in nature Which often leaves the history unspoke That it intends to do?"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Under such a government,” says the Abbe Mably, “the Union could never have subsisted, if the provinces had not a spring within themselves, capable of quickening their tardiness, and compelling them to the same way of thinking."*
-> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"I explained the reason of my tardiness, which was quite satisfactory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or habit of not adhering to a correct or usual or expected time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or habit of not adhering to a correct or usual or expected time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is it but this?—a tardiness in nature Which often leaves the history unspoke That it intends to do?"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Under such a government,” says the Abbe Mably, “the Union could never have subsisted, if the provinces had not a spring within themselves, capable of quickening their tardiness, and compelling them to the same way of thinking."*
+> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"I explained the reason of my tardiness, which was quite satisfactory."*

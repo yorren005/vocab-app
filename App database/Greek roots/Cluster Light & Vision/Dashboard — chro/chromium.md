@@ -5,14 +5,6 @@ status: unread
 ---
 # chromium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A blue-white metallic element found naturally only in combination and used especially in alloys and in electroplating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologically active chromium salt C18H12CrN3O6 used as a dietary supplement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Steel is ordinarily an alloy of iron and carbon, but this metal also contains traces of nickel and chromium, which make it specially suitable for its special purpose."*
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"It had once been an imposing structure, but its chromium trim had begun to peel, and the aluminum siding was whitely pitted with oxide."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A blue-white metallic element found naturally only in combination and used especially in alloys and in electroplating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologically active chromium salt C18H12CrN3O6 used as a dietary supplement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Steel is ordinarily an alloy of iron and carbon, but this metal also contains traces of nickel and chromium, which make it specially suitable for its special purpose."*
+> - 📜 **Randall Garrett (*Deadly decoy*):** *"It had once been an imposing structure, but its chromium trim had begun to peel, and the aluminum siding was whitely pitted with oxide."*

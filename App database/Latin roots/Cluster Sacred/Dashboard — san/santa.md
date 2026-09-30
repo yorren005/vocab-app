@@ -5,15 +5,6 @@ status: unread
 ---
 # santa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The legendary patron saint of children; an imaginary being who is thought to bring presents to children at christmas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The legendary patron saint of children; an imaginary being who is thought to bring presents to children at christmas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Awake, I remembered that I, Darrell Standing, in the flesh, during the year preceding my incarceration in San Quentin, had flown with Haas further over the Pacific at Santa Monica."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It began at eight in the evening with an illumination of the façade of Santa Maria Piedigrotta and with the whole population walking about blowing penny trumpets."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Papa!" cried Gracie, "you haven't left one single thing for Santa Claus to bring us on Christmas!" "Haven't I?" he returned, laughing, and pinching her round, rosy cheek."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The legendary patron saint of children; an imaginary being who is thought to bring presents to children at christmas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The legendary patron saint of children; an imaginary being who is thought to bring presents to children at christmas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Awake, I remembered that I, Darrell Standing, in the flesh, during the year preceding my incarceration in San Quentin, had flown with Haas further over the Pacific at Santa Monica."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It began at eight in the evening with an illumination of the façade of Santa Maria Piedigrotta and with the whole population walking about blowing penny trumpets."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Papa!" cried Gracie, "you haven't left one single thing for Santa Claus to bring us on Christmas!" "Haven't I?" he returned, laughing, and pinching her round, rosy cheek."*

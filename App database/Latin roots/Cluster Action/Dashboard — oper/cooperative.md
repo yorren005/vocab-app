@@ -5,14 +5,6 @@ status: unread
 ---
 # cooperative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A jointly owned commercial enterprise (usually organized by farmers or consumers) that produces and distributes goods and services and is run for the benefit of its owners.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An association formed and operated for the benefit of those using it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A tall figure in bearded homespun rose from shadow and unveiled its cooperative watch. —I am afraid I am due at the _Homestead._ Whither away?"*
-> - 📜 **James Joyce (*Ulysses*):** *"On its cooperative dial glow the twelve signs of the zodiac."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A jointly owned commercial enterprise (usually organized by farmers or consumers) that produces and distributes goods and services and is run for the benefit of its owners.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An association formed and operated for the benefit of those using it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"A tall figure in bearded homespun rose from shadow and unveiled its cooperative watch. —I am afraid I am due at the _Homestead._ Whither away?"*
+> - 📜 **James Joyce (*Ulysses*):** *"On its cooperative dial glow the twelve signs of the zodiac."*

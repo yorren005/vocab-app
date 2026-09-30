@@ -5,13 +5,6 @@ status: unread
 ---
 # aporia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of real or pretended doubt or uncertainty especially for rhetorical effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A logical impasse or contradiction; especially : a radical contradiction in the import of a text or theory that is seen in deconstruction as inevitable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aporia designates an expression of real or pretended doubt or uncertainty especially for rhetorical effect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of real or pretended doubt or uncertainty especially for rhetorical effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A logical impasse or contradiction; especially : a radical contradiction in the import of a text or theory that is seen in deconstruction as inevitable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aporia designates an expression of real or pretended doubt or uncertainty especially for rhetorical effect."*

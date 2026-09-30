@@ -5,15 +5,6 @@ status: unread
 ---
 # fortification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defensive structure consisting of walls or mounds built around a stronghold to strengthen it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or science of strengthening defenses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This fortification, gentlemen, shall we see’t?"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The art of fortification has contributed to the same ends."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"General Campan will move through the wood to seize the first fortification."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Defensive structure consisting of walls or mounds built around a stronghold to strengthen it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or science of strengthening defenses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This fortification, gentlemen, shall we see’t?"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The art of fortification has contributed to the same ends."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"General Campan will move through the wood to seize the first fortification."*

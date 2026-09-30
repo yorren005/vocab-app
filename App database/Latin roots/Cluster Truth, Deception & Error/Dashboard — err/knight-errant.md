@@ -5,13 +5,6 @@ status: unread
 ---
 # knight-errant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wandering knight travelling in search of adventure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wandering knight travelling in search of adventure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, knight-errant designates a wandering knight travelling in search of adventure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wandering knight travelling in search of adventure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wandering knight travelling in search of adventure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, knight-errant designates a wandering knight travelling in search of adventure."*

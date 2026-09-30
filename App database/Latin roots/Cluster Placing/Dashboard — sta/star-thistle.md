@@ -5,13 +5,6 @@ status: unread
 ---
 # star-thistle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mediterranean annual or biennial herb having pinkish to purple flowers surrounded by spine-tipped scales; naturalized in america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mediterranean annual or biennial herb having pinkish to purple flowers surrounded by spine-tipped scales; naturalized in america.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, star-thistle designates mediterranean annual or biennial herb having pinkish to purple flowers surrounded by spine-tipped scales; naturalized in america."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mediterranean annual or biennial herb having pinkish to purple flowers surrounded by spine-tipped scales; naturalized in america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mediterranean annual or biennial herb having pinkish to purple flowers surrounded by spine-tipped scales; naturalized in america.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, star-thistle designates mediterranean annual or biennial herb having pinkish to purple flowers surrounded by spine-tipped scales; naturalized in america."*

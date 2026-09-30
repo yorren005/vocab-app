@@ -5,14 +5,6 @@ status: unread
 ---
 # stigmatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person marked with stigmata : a person with bodily marks or pains resembling the wounds of the crucified Jesus —called also stigmatist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or conveying a social stigma.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Foul stigmatic, that’s more than thou canst tell."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou art neither like thy sire nor dam, But like a foul misshapen stigmatic, Marked by the Destinies to be avoided, As venom toads or lizards’ dreadful stings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person marked with stigmata : a person with bodily marks or pains resembling the wounds of the crucified Jesus —called also stigmatist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or conveying a social stigma.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Foul stigmatic, that’s more than thou canst tell."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou art neither like thy sire nor dam, But like a foul misshapen stigmatic, Marked by the Destinies to be avoided, As venom toads or lizards’ dreadful stings."*

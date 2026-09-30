@@ -5,15 +5,6 @@ status: unread
 ---
 # elude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Escape, either physically or mentally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be incomprehensible to; escape understanding by.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The other object, to elude pursuit and to be lost."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She had tried to elude agitation by fixing her mind on the trees, sky, any trivial object before her eyes, whilst his reproaches fell, but ingenuity could not save her now."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Brocklehurst and Miss Temple, I had not, at the same time, neglected precautions to secure my personal safety; which I thought would be effected, if I could only elude observation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Escape, either physically or mentally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be incomprehensible to; escape understanding by.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The other object, to elude pursuit and to be lost."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She had tried to elude agitation by fixing her mind on the trees, sky, any trivial object before her eyes, whilst his reproaches fell, but ingenuity could not save her now."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Brocklehurst and Miss Temple, I had not, at the same time, neglected precautions to secure my personal safety; which I thought would be effected, if I could only elude observation."*

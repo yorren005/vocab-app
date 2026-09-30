@@ -5,15 +5,6 @@ status: unread
 ---
 # porte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ottoman court in constantinople.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ottoman court in constantinople.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Only come with me to the Porte St."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"After we had walked with him to his door, we proceeded to the Porte St."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Again I seemed to see under my closed eyelids the faint line of the high road which led from the Porte St."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ottoman court in constantinople.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ottoman court in constantinople.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Only come with me to the Porte St."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"After we had walked with him to his door, we proceeded to the Porte St."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Again I seemed to see under my closed eyelids the faint line of the high road which led from the Porte St."*

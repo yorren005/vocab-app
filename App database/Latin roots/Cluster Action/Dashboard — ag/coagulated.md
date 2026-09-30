@@ -5,13 +5,6 @@ status: unread
 ---
 # coagulated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change from a liquid to a thickened or solid state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to change from a liquid to a solid or thickened state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"After his blood has coagulated in the sun, it is burned along with the frontal bone, the flesh attached to it, and the brain; the ashes are then scattered over the ground to fertilise it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Change from a liquid to a thickened or solid state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to change from a liquid to a solid or thickened state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"After his blood has coagulated in the sun, it is burned along with the frontal bone, the flesh attached to it, and the brain; the ashes are then scattered over the ground to fertilise it."*

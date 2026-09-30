@@ -5,15 +5,6 @@ status: unread
 ---
 # ammunition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Projectiles to be fired from a gun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any nuclear or chemical or biological material that can be used as a weapon of mass destruction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"On his next time off he’ll bring in the ammunition."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Father was continually cautioning our men not to waste shots because we were running short of ammunition."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Coupled with this was the known fact that our ammunition was almost exhausted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Projectiles to be fired from a gun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any nuclear or chemical or biological material that can be used as a weapon of mass destruction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"On his next time off he’ll bring in the ammunition."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Father was continually cautioning our men not to waste shots because we were running short of ammunition."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Coupled with this was the known fact that our ammunition was almost exhausted."*

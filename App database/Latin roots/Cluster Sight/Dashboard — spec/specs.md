@@ -5,15 +5,6 @@ status: unread
 ---
 # specs
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Optical instrument consisting of a frame that holds a pair of lenses for correcting defective vision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A detailed description of design criteria for a piece of work.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"A receding forehead, little specs of eyes, a turned-up nose, and great blubber lips, adown whose corners flowed eternally two miniature cataracts."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"I got a pair of specs from a peddling man of Ballymena," said she, "but they don't seem to do me much good."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"But it's neither the grey hairs nor the specs that spoils the looks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Optical instrument consisting of a frame that holds a pair of lenses for correcting defective vision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A detailed description of design criteria for a piece of work.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"A receding forehead, little specs of eyes, a turned-up nose, and great blubber lips, adown whose corners flowed eternally two miniature cataracts."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"I got a pair of specs from a peddling man of Ballymena," said she, "but they don't seem to do me much good."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"But it's neither the grey hairs nor the specs that spoils the looks."*

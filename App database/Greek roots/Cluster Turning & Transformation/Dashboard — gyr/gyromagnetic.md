@@ -5,13 +5,6 @@ status: unread
 ---
 # gyromagnetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the magnetic properties of a rotating electrical particle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ratio of the magnetic moment of a spinning charged particle to its angular momentum —called also g-factor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyromagnetic designates of or relating to the magnetic properties of a rotating electrical particle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the magnetic properties of a rotating electrical particle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ratio of the magnetic moment of a spinning charged particle to its angular momentum —called also g-factor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyromagnetic designates of or relating to the magnetic properties of a rotating electrical particle."*

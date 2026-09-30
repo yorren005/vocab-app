@@ -5,15 +5,6 @@ status: unread
 ---
 # heraldic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indicative of or announcing something to come.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to heraldry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was called the d’Urberville Window, and in the upper part could be discerned heraldic emblems like those on Durbeyfield’s old seal and spoon."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Ezekiel "puts forth a riddle and speaks a parable" about an eagle--a frankly heraldic eagle, that plants a tree-top in a city of merchants (Ezek. 17:2-5)."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"At what period heraldic devices were introduced cannot be ascertained with precision; but it is probable that, when they were first carved or painted upon escutcheons, or stained in glass, the floors received them likewise as a new ornament."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indicative of or announcing something to come.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to heraldry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was called the d’Urberville Window, and in the upper part could be discerned heraldic emblems like those on Durbeyfield’s old seal and spoon."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Ezekiel "puts forth a riddle and speaks a parable" about an eagle--a frankly heraldic eagle, that plants a tree-top in a city of merchants (Ezek. 17:2-5)."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"At what period heraldic devices were introduced cannot be ascertained with precision; but it is probable that, when they were first carved or painted upon escutcheons, or stained in glass, the floors received them likewise as a new ornament."*

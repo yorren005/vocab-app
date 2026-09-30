@@ -5,15 +5,6 @@ status: unread
 ---
 # aided
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give help or assistance; be of service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Improve the condition of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wrecked the same instant of their master’s death, and in the view of the shepherd: so that all the instruments which aided to expose the child were even then lost when it was found."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It had only been, as I thought, of less assistance than the horses in getting us on, and it had often aided them."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In point of fact Mrs Crick did remember thinking that Tess was graceful and good-looking as she approached; but the superiority might have been a growth of the imagination aided by subsequent knowledge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give help or assistance; be of service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Improve the condition of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wrecked the same instant of their master’s death, and in the view of the shepherd: so that all the instruments which aided to expose the child were even then lost when it was found."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It had only been, as I thought, of less assistance than the horses in getting us on, and it had often aided them."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In point of fact Mrs Crick did remember thinking that Tess was graceful and good-looking as she approached; but the superiority might have been a growth of the imagination aided by subsequent knowledge."*

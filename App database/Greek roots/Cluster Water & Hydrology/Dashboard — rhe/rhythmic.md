@@ -5,15 +5,6 @@ status: unread
 ---
 # rhythmic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by or moving in pronounced rhythm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or involving rhythm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"While yet many score yards off, other rhythmic sounds than those she had quitted became audible to her; sounds that she knew well—so well."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Nothing in the picture moved but Old Pretty’s tail and Tess’s pink hands, the latter so gently as to be a rhythmic pulsation only, as if they were obeying a reflex stimulus, like a beating heart."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Rhythmic changes in weather and in crops. § 16."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by or moving in pronounced rhythm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or involving rhythm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"While yet many score yards off, other rhythmic sounds than those she had quitted became audible to her; sounds that she knew well—so well."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Nothing in the picture moved but Old Pretty’s tail and Tess’s pink hands, the latter so gently as to be a rhythmic pulsation only, as if they were obeying a reflex stimulus, like a beating heart."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Rhythmic changes in weather and in crops. § 16."*

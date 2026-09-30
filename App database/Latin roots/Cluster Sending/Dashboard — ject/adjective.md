@@ -5,15 +5,6 @@ status: unread
 ---
 # adjective
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word that expresses an attribute of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The word class that qualifies nouns.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"George, laying a great and not altogether complimentary stress on his last adjective."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed’s favourite adjective of disparagement is so close to his tongue that he begins the words “my dear friend” with the monosyllable “brim,” thus converting the possessive pronoun into brimmy and appearing to have an impediment in his speech."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In their loaning function the "commercial" banks (as the adjective indicates) serve mainly the special needs of the _commercial_ elements of the community--business men borrowing for short terms to carry out particular transactions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word that expresses an attribute of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The word class that qualifies nouns.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"George, laying a great and not altogether complimentary stress on his last adjective."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed’s favourite adjective of disparagement is so close to his tongue that he begins the words “my dear friend” with the monosyllable “brim,” thus converting the possessive pronoun into brimmy and appearing to have an impediment in his speech."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In their loaning function the "commercial" banks (as the adjective indicates) serve mainly the special needs of the _commercial_ elements of the community--business men borrowing for short terms to carry out particular transactions."*

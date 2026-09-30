@@ -5,15 +5,6 @@ status: unread
 ---
 # convict
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person serving a sentence in a jail or prison.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who has been convicted of a criminal offense.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Before I be convict by course of law, To threaten me with death is most unlawful."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Whether they are going to convict, or whatever it is, that dreadful soldier?"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I should not like to make a mistake in the matter; it would be a sad affair to convict an innocent man of perjury." Again there was silence among them, as if each were weighing the case in his own mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person serving a sentence in a jail or prison.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who has been convicted of a criminal offense.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Before I be convict by course of law, To threaten me with death is most unlawful."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Whether they are going to convict, or whatever it is, that dreadful soldier?"*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"I should not like to make a mistake in the matter; it would be a sad affair to convict an innocent man of perjury." Again there was silence among them, as if each were weighing the case in his own mind."*

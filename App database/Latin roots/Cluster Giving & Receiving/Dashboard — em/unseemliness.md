@@ -5,13 +5,6 @@ status: unread
 ---
 # unseemliness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of consideration for others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of consideration for others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Could she have understood this fact, it would have brought her some little comfort; for, to all her other troubles,—strange to say!—there was added the womanish and old-maiden-like misery arising from a sense of unseemliness in her attire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of consideration for others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of consideration for others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Could she have understood this fact, it would have brought her some little comfort; for, to all her other troubles,—strange to say!—there was added the womanish and old-maiden-like misery arising from a sense of unseemliness in her attire."*

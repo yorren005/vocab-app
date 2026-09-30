@@ -5,13 +5,6 @@ status: unread
 ---
 # gamma-interferon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of interferon that is produced by t cells and macrophages; involved in the activation of phagocytes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of interferon that is produced by t cells and macrophages; involved in the activation of phagocytes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gamma-interferon designates a form of interferon that is produced by t cells and macrophages; involved in the activation of phagocytes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of interferon that is produced by t cells and macrophages; involved in the activation of phagocytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of interferon that is produced by t cells and macrophages; involved in the activation of phagocytes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gamma-interferon designates a form of interferon that is produced by t cells and macrophages; involved in the activation of phagocytes."*

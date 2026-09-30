@@ -5,14 +5,6 @@ status: unread
 ---
 # demolishing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete destruction of a building.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy completely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Both his "System of Logic" and his "Examination of Sir William Hamilton's Philosophy" are for the most part devoted to fortifying this position, and demolishing beliefs inconsistent with it."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"There was no flame, no smoke, no sound--just that sinister monster moving slowly along, demolishing the city of Newark almost as though it were by an effort of thought."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete destruction of a building.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy completely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Both his "System of Logic" and his "Examination of Sir William Hamilton's Philosophy" are for the most part devoted to fortifying this position, and demolishing beliefs inconsistent with it."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"There was no flame, no smoke, no sound--just that sinister monster moving slowly along, demolishing the city of Newark almost as though it were by an effort of thought."*

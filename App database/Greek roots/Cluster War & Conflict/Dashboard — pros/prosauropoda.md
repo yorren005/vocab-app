@@ -5,13 +5,6 @@ status: unread
 ---
 # prosauropoda
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The earliest known dinosaurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The earliest known dinosaurs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosauropoda designates the earliest known dinosaurs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The earliest known dinosaurs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The earliest known dinosaurs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosauropoda designates the earliest known dinosaurs."*

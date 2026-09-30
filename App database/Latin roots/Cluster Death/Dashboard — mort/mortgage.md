@@ -5,15 +5,6 @@ status: unread
 ---
 # mortgage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conditional conveyance of property as security for the repayment of a loan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put up as security or collateral.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He had condescended to mortgage as far as he had the power, but he would never condescend to sell."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The interest on the mortgage of his property was due in a few days."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"With sinking heart he went to the holder of the mortgage to announce his utter inability to meet his demand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conditional conveyance of property as security for the repayment of a loan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put up as security or collateral.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"He had condescended to mortgage as far as he had the power, but he would never condescend to sell."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The interest on the mortgage of his property was due in a few days."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"With sinking heart he went to the holder of the mortgage to announce his utter inability to meet his demand."*

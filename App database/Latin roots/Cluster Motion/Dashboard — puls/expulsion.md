@@ -5,15 +5,6 @@ status: unread
 ---
 # expulsion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of forcing out someone or something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Squeezing out by applying pressure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A merrier day did never yet greet Rome, No, not th’ expulsion of the Tarquins."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I say nothing of the chief features of all--the occupation of our homes by others--the forcible expulsion of which we had been the objects."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"We had not been twelve hours in our houses ere we had forgotten, or practically forgotten, our expulsion from them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of forcing out someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Squeezing out by applying pressure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A merrier day did never yet greet Rome, No, not th’ expulsion of the Tarquins."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I say nothing of the chief features of all--the occupation of our homes by others--the forcible expulsion of which we had been the objects."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"We had not been twelve hours in our houses ere we had forgotten, or practically forgotten, our expulsion from them."*

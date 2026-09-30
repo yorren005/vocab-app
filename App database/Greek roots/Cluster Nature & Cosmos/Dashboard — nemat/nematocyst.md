@@ -5,13 +5,6 @@ status: unread
 ---
 # nematocyst
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the stinging capsular organelles of the tentacle of a cnidarian (such as a box jellyfish or sea anemone) that contains a coiled, hollow, usually barbed, venomous thread which is discharged especially for catching prey and defending against enemies —called also cnidocyst.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the stinging capsular organelles of the tentacle of a cnidarian (such as a box jellyfish or sea anemone) that contains a coiled, hollow, usually barbed, venomous thread which is discharged especially for catching prey and defending against enemies —called also cnidocyst.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nematocyst designates one of the stinging capsular organelles of the tentacle of a cnidarian (such as a box jellyfish or sea anemone) that contains a coiled, hollow, usually barbed, venomous thread which is discharged especially for catching prey and defending against enemies —called also cnidocyst."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the stinging capsular organelles of the tentacle of a cnidarian (such as a box jellyfish or sea anemone) that contains a coiled, hollow, usually barbed, venomous thread which is discharged especially for catching prey and defending against enemies —called also cnidocyst.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the stinging capsular organelles of the tentacle of a cnidarian (such as a box jellyfish or sea anemone) that contains a coiled, hollow, usually barbed, venomous thread which is discharged especially for catching prey and defending against enemies —called also cnidocyst.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nematocyst designates one of the stinging capsular organelles of the tentacle of a cnidarian (such as a box jellyfish or sea anemone) that contains a coiled, hollow, usually barbed, venomous thread which is discharged especially for catching prey and defending against enemies —called also cnidocyst."*

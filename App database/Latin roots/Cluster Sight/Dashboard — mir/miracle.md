@@ -5,15 +5,6 @@ status: unread
 ---
 # miracle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any amazing or wonderful occurrence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A marvellous event manifesting a supernatural act of a divine agent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’m not their father; yet who this should be Doth miracle itself, lov’d before me.— ’Tis the ninth hour o’ th’ morn."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O miracle of men!—him did you leave, Second to none, unseconded by you, To look upon the hideous god of war In disadvantage, to abide a field Where nothing but the sound of Hotspur’s name Did seem defensible: so you left him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be not offended, nature’s miracle, Thou art allotted to be ta’en by me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any amazing or wonderful occurrence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A marvellous event manifesting a supernatural act of a divine agent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’m not their father; yet who this should be Doth miracle itself, lov’d before me.— ’Tis the ninth hour o’ th’ morn."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O miracle of men!—him did you leave, Second to none, unseconded by you, To look upon the hideous god of war In disadvantage, to abide a field Where nothing but the sound of Hotspur’s name Did seem defensible: so you left him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be not offended, nature’s miracle, Thou art allotted to be ta’en by me."*

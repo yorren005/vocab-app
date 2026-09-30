@@ -5,15 +5,6 @@ status: unread
 ---
 # fatal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bringing death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having momentous consequences; of decisive importance; - saturday rev.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou art she, tell me where is that son That floated with thee on the fatal raft?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am the Douglas, fatal to all those That wear those colours on them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It fits us then to be as provident As fears may teach us out of late examples Left by the fatal and neglected English Upon our fields."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bringing death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having momentous consequences; of decisive importance; - saturday rev.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou art she, tell me where is that son That floated with thee on the fatal raft?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am the Douglas, fatal to all those That wear those colours on them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It fits us then to be as provident As fears may teach us out of late examples Left by the fatal and neglected English Upon our fields."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # turnery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Workshop where objects are made on a lathe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Products made on a lathe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, turnery designates workshop where objects are made on a lathe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Workshop where objects are made on a lathe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Products made on a lathe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, turnery designates workshop where objects are made on a lathe."*

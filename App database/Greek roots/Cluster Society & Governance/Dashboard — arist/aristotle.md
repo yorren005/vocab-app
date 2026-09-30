@@ -5,15 +5,6 @@ status: unread
 ---
 # aristotle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the greatest of the ancient athenian philosophers; pupil of plato; teacher of alexander the great (384-322 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the greatest of the ancient athenian philosophers; pupil of plato; teacher of alexander the great (384-322 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only, good master, while we do admire This virtue and this moral discipline, Let’s be no stoics nor no stocks, I pray; Or so devote to Aristotle’s checks As Ovid be an outcast quite abjur’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Paris and Troilus, you have both said well; And on the cause and question now in hand Have gloz’d, but superficially; not much Unlike young men, whom Aristotle thought Unfit to hear moral philosophy."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"When Aristotle discusses happiness, he adds a curious limitation--"as the man of sense would define." He postulates a certain intelligence of the matter in hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the greatest of the ancient athenian philosophers; pupil of plato; teacher of alexander the great (384-322 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the greatest of the ancient athenian philosophers; pupil of plato; teacher of alexander the great (384-322 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only, good master, while we do admire This virtue and this moral discipline, Let’s be no stoics nor no stocks, I pray; Or so devote to Aristotle’s checks As Ovid be an outcast quite abjur’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Paris and Troilus, you have both said well; And on the cause and question now in hand Have gloz’d, but superficially; not much Unlike young men, whom Aristotle thought Unfit to hear moral philosophy."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"When Aristotle discusses happiness, he adds a curious limitation--"as the man of sense would define." He postulates a certain intelligence of the matter in hand."*

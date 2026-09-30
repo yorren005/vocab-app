@@ -5,13 +5,6 @@ status: unread
 ---
 # vitriolic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Harsh or corrosive in tone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a substance, especially a strong acid; capable of destroying or eating away by chemical action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"If you are not good, none is good”—those little words may give a terrific meaning to responsibility, may hold a vitriolic intensity for remorse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Harsh or corrosive in tone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a substance, especially a strong acid; capable of destroying or eating away by chemical action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"If you are not good, none is good”—those little words may give a terrific meaning to responsibility, may hold a vitriolic intensity for remorse."*

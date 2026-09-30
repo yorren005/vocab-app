@@ -5,15 +5,6 @@ status: unread
 ---
 # elevate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give a promotion to or assign to a higher position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise from a lower to a higher position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She felt that he had every thing to elevate him which general attention and deference, and especially the attention of all the young women, could do."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Some men must marry to elevate themselves a little, but when I am in need of that, I hope some one will tell me so—I hope some individual will apprise me of the fact."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Alleged Tendency of the New Plan to Elevate the Few at the Expense of the Many Considered in Connection with Representation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give a promotion to or assign to a higher position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise from a lower to a higher position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"She felt that he had every thing to elevate him which general attention and deference, and especially the attention of all the young women, could do."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Some men must marry to elevate themselves a little, but when I am in need of that, I hope some one will tell me so—I hope some individual will apprise me of the fact."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Alleged Tendency of the New Plan to Elevate the Few at the Expense of the Many Considered in Connection with Representation."*

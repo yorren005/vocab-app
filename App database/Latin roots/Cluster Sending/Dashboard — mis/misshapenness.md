@@ -5,13 +5,6 @@ status: unread
 ---
 # misshapenness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An affliction in which some part of the body is misshapen or malformed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An affliction in which some part of the body is misshapen or malformed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misshapenness designates an affliction in which some part of the body is misshapen or malformed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An affliction in which some part of the body is misshapen or malformed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An affliction in which some part of the body is misshapen or malformed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misshapenness designates an affliction in which some part of the body is misshapen or malformed."*

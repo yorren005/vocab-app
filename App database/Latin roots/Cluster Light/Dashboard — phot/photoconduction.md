@@ -5,13 +5,6 @@ status: unread
 ---
 # photoconduction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change in the electrical conductivity of a substance as a result of absorbing electromagnetic radiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change in the electrical conductivity of a substance as a result of absorbing electromagnetic radiation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoconduction designates change in the electrical conductivity of a substance as a result of absorbing electromagnetic radiation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Change in the electrical conductivity of a substance as a result of absorbing electromagnetic radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change in the electrical conductivity of a substance as a result of absorbing electromagnetic radiation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoconduction designates change in the electrical conductivity of a substance as a result of absorbing electromagnetic radiation."*

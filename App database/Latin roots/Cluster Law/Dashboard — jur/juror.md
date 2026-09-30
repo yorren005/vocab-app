@@ -5,15 +5,6 @@ status: unread
 ---
 # juror
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who serves (or waits to be called to serve) on a jury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who serves (or waits to be called to serve) on a jury.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If your will pass, I shall both find your lordship judge and juror, You are so merciful."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Under cover of the night, the feeble-minded beadle comes flitting about Chancery Lane with his summonses, in which every juror’s name is wrongly spelt, and nothing rightly spelt but the beadle’s own name, which nobody can read or wants to know."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There was a little juror that convicted me in Oakland the time I got handed my fifty-years."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who serves (or waits to be called to serve) on a jury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who serves (or waits to be called to serve) on a jury.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If your will pass, I shall both find your lordship judge and juror, You are so merciful."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Under cover of the night, the feeble-minded beadle comes flitting about Chancery Lane with his summonses, in which every juror’s name is wrongly spelt, and nothing rightly spelt but the beadle’s own name, which nobody can read or wants to know."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There was a little juror that convicted me in Oakland the time I got handed my fifty-years."*

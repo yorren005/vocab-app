@@ -5,13 +5,6 @@ status: unread
 ---
 # lavoisier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French chemist known as the father of modern chemistry; discovered oxygen and disproved the theory of phlogiston (1743-1794).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French chemist known as the father of modern chemistry; discovered oxygen and disproved the theory of phlogiston (1743-1794).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Doubtless a vigorous error vigorously pursued has kept the embryos of truth a-breathing: the quest of gold being at the same time a questioning of substances, the body of chemistry is prepared for its soul, and Lavoisier is born."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French chemist known as the father of modern chemistry; discovered oxygen and disproved the theory of phlogiston (1743-1794).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French chemist known as the father of modern chemistry; discovered oxygen and disproved the theory of phlogiston (1743-1794).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Doubtless a vigorous error vigorously pursued has kept the embryos of truth a-breathing: the quest of gold being at the same time a questioning of substances, the body of chemistry is prepared for its soul, and Lavoisier is born."*

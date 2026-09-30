@@ -5,15 +5,6 @@ status: unread
 ---
 # automatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Largely or wholly involuntary; especially : reflex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting or done spontaneously or unconsciously.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, as was shown by what followed, she was oddly exercising the faculty of invention upon the speciality of the clever Jacquet Droz, the designer of automatic substitutes for human limbs."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The irresistible, universal, automatic tendency to find sweet pleasure somewhere, which pervades all life, from the meanest to the highest, had at length mastered Tess."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Winwood said that the forty men in the break, in whose confidence he was, had already such power in the Prison that they were about to begin smuggling in automatic pistols by means of the guards they had bought up."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Largely or wholly involuntary; especially : reflex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting or done spontaneously or unconsciously.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, as was shown by what followed, she was oddly exercising the faculty of invention upon the speciality of the clever Jacquet Droz, the designer of automatic substitutes for human limbs."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The irresistible, universal, automatic tendency to find sweet pleasure somewhere, which pervades all life, from the meanest to the highest, had at length mastered Tess."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Winwood said that the forty men in the break, in whose confidence he was, had already such power in the Prison that they were about to begin smuggling in automatic pistols by means of the guards they had bought up."*

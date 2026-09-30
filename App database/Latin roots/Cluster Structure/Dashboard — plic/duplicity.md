@@ -5,15 +5,6 @@ status: unread
 ---
 # duplicity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fraudulent or duplicitous representation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting in bad faith; deception by pretending to entertain one set of intentions while acting under the influence of another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"The manœuvres of selfishness and duplicity must ever be revolting, but I have heard nothing which really surprises me."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her duplicity hurts me more than all; till the very last, if I reasoned with her, she declared herself as much attached to me as ever, and laughed at my fears."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was a precocious actress in her eyes; she sincerely looked on me as a compound of virulent passions, mean spirit, and dangerous duplicity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fraudulent or duplicitous representation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting in bad faith; deception by pretending to entertain one set of intentions while acting under the influence of another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"The manœuvres of selfishness and duplicity must ever be revolting, but I have heard nothing which really surprises me."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her duplicity hurts me more than all; till the very last, if I reasoned with her, she declared herself as much attached to me as ever, and laughed at my fears."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was a precocious actress in her eyes; she sincerely looked on me as a compound of virulent passions, mean spirit, and dangerous duplicity."*

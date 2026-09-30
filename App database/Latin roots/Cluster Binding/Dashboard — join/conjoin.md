@@ -5,15 +5,6 @@ status: unread
 ---
 # conjoin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make contact or come together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take in marriage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look you how pale he glares, His form and cause conjoin’d, preaching to stones, Would make them capable.—Do not look upon me, Lest with this piteous action you convert My stern effects."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The English army, that divided was Into two parties, is now conjoin’d in one, And means to give you battle presently."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now I perceive they have conjoin’d all three To fashion this false sport in spite of me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make contact or come together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take in marriage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look you how pale he glares, His form and cause conjoin’d, preaching to stones, Would make them capable.—Do not look upon me, Lest with this piteous action you convert My stern effects."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The English army, that divided was Into two parties, is now conjoin’d in one, And means to give you battle presently."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now I perceive they have conjoin’d all three To fashion this false sport in spite of me."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # carpentry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The craft of a carpenter: making things out of wood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craft of a carpenter: making things out of wood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He must have learnt his carpentry exactly as every boy learns it, by hammering his fingers instead of the nail, sawing his own skin instead of the wood--and not doing it again."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"They play at farming, carpentry, house-keeping, storekeeping, or whatever employments their parents happen to be engaged in."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +41,10 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The craft of a carpenter: making things out of wood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craft of a carpenter: making things out of wood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"He must have learnt his carpentry exactly as every boy learns it, by hammering his fingers instead of the nail, sawing his own skin instead of the wood--and not doing it again."*
+> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"They play at farming, carpentry, house-keeping, storekeeping, or whatever employments their parents happen to be engaged in."*

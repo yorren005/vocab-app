@@ -5,13 +5,6 @@ status: unread
 ---
 # axon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually long and single nerve-cell process that usually conducts impulses away from the cell body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually long and single nerve-cell process that usually conducts impulses away from the cell body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axon designates a usually long and single nerve-cell process that usually conducts impulses away from the cell body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually long and single nerve-cell process that usually conducts impulses away from the cell body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually long and single nerve-cell process that usually conducts impulses away from the cell body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axon designates a usually long and single nerve-cell process that usually conducts impulses away from the cell body."*

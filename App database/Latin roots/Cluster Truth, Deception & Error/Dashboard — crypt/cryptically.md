@@ -5,13 +5,6 @@ status: unread
 ---
 # cryptically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a cryptic manner;  he said cryptically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a cryptic manner;  he said cryptically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Make Philly," cried Sherman cryptically, above the sound of the explosions that were driving their craft through the air at over six hundred miles an hour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a cryptic manner;  he said cryptically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a cryptic manner;  he said cryptically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Make Philly," cried Sherman cryptically, above the sound of the explosions that were driving their craft through the air at over six hundred miles an hour."*

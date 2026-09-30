@@ -5,15 +5,6 @@ status: unread
 ---
 # unsuspecting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suspicious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often followed by `of') not knowing or expecting; not thinking likely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"That can, with studied, sly, ensnaring art, Betray sweet Jenny’s unsuspecting youth?"*
-> - 📜 **Effie Afton (*Eventide*):** *"How long the fair girl remained thus innocent and unsuspecting, we are yet to know."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"I did then; 't was no harm," answered the unsuspecting Mike."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suspicious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often followed by `of') not knowing or expecting; not thinking likely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"That can, with studied, sly, ensnaring art, Betray sweet Jenny’s unsuspecting youth?"*
+> - 📜 **Effie Afton (*Eventide*):** *"How long the fair girl remained thus innocent and unsuspecting, we are yet to know."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"I did then; 't was no harm," answered the unsuspecting Mike."*

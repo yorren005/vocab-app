@@ -5,13 +5,6 @@ status: unread
 ---
 # sinciput
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The front part of the head or skull (including the forehead).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The front part of the head or skull (including the forehead).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinciput designates the front part of the head or skull (including the forehead)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The front part of the head or skull (including the forehead).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The front part of the head or skull (including the forehead).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sinciput designates the front part of the head or skull (including the forehead)."*

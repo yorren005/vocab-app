@@ -5,13 +5,6 @@ status: unread
 ---
 # actinomycete
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any bacteria (some of which are pathogenic for humans and animals) belonging to the order actinomycetales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any bacteria (some of which are pathogenic for humans and animals) belonging to the order actinomycetales.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinomycete designates any bacteria (some of which are pathogenic for humans and animals) belonging to the order actinomycetales."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any bacteria (some of which are pathogenic for humans and animals) belonging to the order actinomycetales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any bacteria (some of which are pathogenic for humans and animals) belonging to the order actinomycetales.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinomycete designates any bacteria (some of which are pathogenic for humans and animals) belonging to the order actinomycetales."*

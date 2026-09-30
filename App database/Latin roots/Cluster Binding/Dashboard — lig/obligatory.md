@@ -5,15 +5,6 @@ status: unread
 ---
 # obligatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Morally or legally constraining or binding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Required by obligation or compulsion or convention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Mère Julie was one of the market-women of Semur, the one I have mentioned who was devout, who never missed the _Salut_ in the afternoon, besides all masses which are obligatory."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If this spirit shall ever be so far debased as to tolerate a law not obligatory on the legislature, as well as on the people, the people will be prepared to tolerate any thing but liberty."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He did not know that where the steward had shown him in the accounts that the serfs’ payments had been diminished by a third, their obligatory manorial work had been increased by a half."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Morally or legally constraining or binding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Required by obligation or compulsion or convention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Mère Julie was one of the market-women of Semur, the one I have mentioned who was devout, who never missed the _Salut_ in the afternoon, besides all masses which are obligatory."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If this spirit shall ever be so far debased as to tolerate a law not obligatory on the legislature, as well as on the people, the people will be prepared to tolerate any thing but liberty."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He did not know that where the steward had shown him in the accounts that the serfs’ payments had been diminished by a third, their obligatory manorial work had been increased by a half."*

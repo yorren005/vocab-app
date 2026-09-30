@@ -5,15 +5,6 @@ status: unread
 ---
 # linguistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or related to language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the scientific study of language.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The scholar will linger over the "Son of Man"--a difficult phrase, with a literary and linguistic history that is very complicated."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Linguistic differences suggest that the drama was first composed in verse, and that the prose section was introduced later."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"On the contrary, as his interest in speculative thought gradually withered, his interest on the side of scholarship and linguistics became greater than ever, and his energy here was always seeking new outlets for itself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or related to language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the scientific study of language.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The scholar will linger over the "Son of Man"--a difficult phrase, with a literary and linguistic history that is very complicated."*
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Linguistic differences suggest that the drama was first composed in verse, and that the prose section was introduced later."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"On the contrary, as his interest in speculative thought gradually withered, his interest on the side of scholarship and linguistics became greater than ever, and his energy here was always seeking new outlets for itself."*

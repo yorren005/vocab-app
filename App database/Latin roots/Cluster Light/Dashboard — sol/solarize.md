@@ -5,13 +5,6 @@ status: unread
 ---
 # solarize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reverse some of the tones of (a negative or print) and introduce pronounced outlines of highlights, by exposing it briefly to light, then washing and redeveloping it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become overexposed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solarize designates reverse some of the tones of (a negative or print) and introduce pronounced outlines of highlights, by exposing it briefly to light, then washing and redeveloping it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reverse some of the tones of (a negative or print) and introduce pronounced outlines of highlights, by exposing it briefly to light, then washing and redeveloping it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become overexposed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solarize designates reverse some of the tones of (a negative or print) and introduce pronounced outlines of highlights, by exposing it briefly to light, then washing and redeveloping it."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # monodrama
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drama acted or designed to be acted by a single person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drama acted or designed to be acted by a single person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monodrama designates a drama acted or designed to be acted by a single person."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drama acted or designed to be acted by a single person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drama acted or designed to be acted by a single person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monodrama designates a drama acted or designed to be acted by a single person."*

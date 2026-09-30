@@ -5,15 +5,6 @@ status: unread
 ---
 # nausea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stomach distress with distaste for food and an urge to vomit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme disgust.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence, following, had to fight down a nausea of humiliation that was almost physical: he had never before done anything that so sickened him as this sneaking progress through the kitchen quarters in another man's house."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode felt a shuddering nausea, and did not speak, but was considering diligently whether he should not leave Raffles to do as he would, and simply defy him as a slanderer."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"_A nous, les Francais_.... _A nous, la Legion_!" A nausea, a great weakness, an utter contempt for himself came over him in the boat pulling him toward his ship ..."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stomach distress with distaste for food and an urge to vomit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme disgust.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence, following, had to fight down a nausea of humiliation that was almost physical: he had never before done anything that so sickened him as this sneaking progress through the kitchen quarters in another man's house."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode felt a shuddering nausea, and did not speak, but was considering diligently whether he should not leave Raffles to do as he would, and simply defy him as a slanderer."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"_A nous, les Francais_.... _A nous, la Legion_!" A nausea, a great weakness, an utter contempt for himself came over him in the boat pulling him toward his ship ..."*

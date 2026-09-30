@@ -5,13 +5,6 @@ status: unread
 ---
 # sauropod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a suborder (Sauropoda) of quadrupedal herbivorous saurischian dinosaurs (such as an apatosaurus) of the Jurassic and Cretaceous having a long neck and tail, small head, and 5-toed limbs on which they tended to walk in a digitigrade fashion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a suborder (Sauropoda) of quadrupedal herbivorous saurischian dinosaurs (such as an apatosaurus) of the Jurassic and Cretaceous having a long neck and tail, small head, and 5-toed limbs on which they tended to walk in a digitigrade fashion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sauropod designates any of a suborder (sauropoda) of quadrupedal herbivorous saurischian dinosaurs (such as an apatosaurus) of the jurassic and cretaceous having a long neck and tail, small head, and 5-toed limbs on which they tended to walk in a digitigrade fashion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a suborder (Sauropoda) of quadrupedal herbivorous saurischian dinosaurs (such as an apatosaurus) of the Jurassic and Cretaceous having a long neck and tail, small head, and 5-toed limbs on which they tended to walk in a digitigrade fashion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a suborder (Sauropoda) of quadrupedal herbivorous saurischian dinosaurs (such as an apatosaurus) of the Jurassic and Cretaceous having a long neck and tail, small head, and 5-toed limbs on which they tended to walk in a digitigrade fashion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sauropod designates any of a suborder (sauropoda) of quadrupedal herbivorous saurischian dinosaurs (such as an apatosaurus) of the jurassic and cretaceous having a long neck and tail, small head, and 5-toed limbs on which they tended to walk in a digitigrade fashion."*

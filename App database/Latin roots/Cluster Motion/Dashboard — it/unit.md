@@ -5,15 +5,6 @@ status: unread
 ---
 # unit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any division of quantity accepted as a standard of measurement or exchange.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual or group or structure or other entity regarded as a structural or functional constituent of a whole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"We mean by standard money that kind, no matter what its form, which serves in any country as the unit in which the value of other kinds of money is expressed."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"And, as money comes to be the unit in which prices are generally expressed, the question becomes: What determines the general level of monetary prices?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It may be summed up thus: other things being equal, the value of the monetary unit, expressed in terms of all other commodities, falls as the quantity of money increases, and _vice versa_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any division of quantity accepted as a standard of measurement or exchange.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual or group or structure or other entity regarded as a structural or functional constituent of a whole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"We mean by standard money that kind, no matter what its form, which serves in any country as the unit in which the value of other kinds of money is expressed."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"And, as money comes to be the unit in which prices are generally expressed, the question becomes: What determines the general level of monetary prices?"*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It may be summed up thus: other things being equal, the value of the monetary unit, expressed in terms of all other commodities, falls as the quantity of money increases, and _vice versa_."*

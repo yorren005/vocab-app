@@ -5,13 +5,6 @@ status: unread
 ---
 # speculatively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With speculation; in a speculative manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With speculation; in a speculative manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Before this time he had known it but speculatively; now he thought he knew it as a practical man; though perhaps he did not, even yet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With speculation; in a speculative manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With speculation; in a speculative manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Before this time he had known it but speculatively; now he thought he knew it as a practical man; though perhaps he did not, even yet."*

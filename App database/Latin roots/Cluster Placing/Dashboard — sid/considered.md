@@ -5,15 +5,6 @@ status: unread
 ---
 # considered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deem to be.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give careful consideration to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most meet That first we come to words, and therefore have we Our written purposes before us sent, Which if thou hast considered, let us know If ’twill tie up thy discontented sword And carry back to Sicily much tall youth That else must perish here."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For there be of them that will themselves laugh, to set on some quantity of barren spectators to laugh too, though in the meantime some necessary question of the play be then to be considered."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I have considered with myself The title of this most renowned duke, And in my conscience do repute his grace The rightful heir to England’s royal seat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deem to be.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give careful consideration to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most meet That first we come to words, and therefore have we Our written purposes before us sent, Which if thou hast considered, let us know If ’twill tie up thy discontented sword And carry back to Sicily much tall youth That else must perish here."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For there be of them that will themselves laugh, to set on some quantity of barren spectators to laugh too, though in the meantime some necessary question of the play be then to be considered."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I have considered with myself The title of this most renowned duke, And in my conscience do repute his grace The rightful heir to England’s royal seat."*

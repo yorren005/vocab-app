@@ -5,15 +5,6 @@ status: unread
 ---
 # sensuousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sensuous feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sensuous feeling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The former curves of sensuousness were now modulated to lines of devotional passion."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A victim of licentiousness and sensuousness, who often, amid his sinful pleasures, had the memory of Christian parents before him, felt his was indeed a life of shame."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Discerning Christ, Truth, anew on the shore of time, they were enabled to rise somewhat from mortal sensuousness, or the burial of mind in matter, into new- 35:9 ness of life as Spirit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sensuous feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sensuous feeling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The former curves of sensuousness were now modulated to lines of devotional passion."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A victim of licentiousness and sensuousness, who often, amid his sinful pleasures, had the memory of Christian parents before him, felt his was indeed a life of shame."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Discerning Christ, Truth, anew on the shore of time, they were enabled to rise somewhat from mortal sensuousness, or the burial of mind in matter, into new- 35:9 ness of life as Spirit."*

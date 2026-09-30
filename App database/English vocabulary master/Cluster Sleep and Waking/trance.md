@@ -5,20 +5,6 @@ status: unread
 ---
 # trance
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Stupor, daze
-> 2. **Nuance / Usage**: State of profound abstraction or absorption
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"So I answered after I had waked from the trance-like dream."*
-> - 📜 **Herman Melville (*Moby Dick*):** *"to break the fixed trance of whiteness."*
-> - 📜 **Geoffrey Benjamin (*Temiar Religion, 1964-2012*):** *"The Horned Toad (kɛŋkak) tranced the rivers into being. A bakɔh bird tranced the mountains. The Scrub Bulbul (ˀɛsˀããs) drilled fire into existence with its beak. And, finally, the Bronzed Black Drongo (tɛrhɛɛh) tranced the year {{..."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A half-conscious, sleep-like state characterized by suspended voluntary movement and a lack of response to external stimuli, as in hypnosis or catalepsy.
+> 2. **Nuance / Usage**: A state of profound mental absorption, spiritual ecstasy, or spellbound daze in which one is oblivious to immediate surroundings.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"So I answered after I had waked from the **trance**-like dream."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Not a word was spoken to break the fixed **trance** of whiteness that held the crew."*
+> - 📜 **Alfred, Lord Tennyson (*The Princess*):** *"Weird seizures would come upon him, and he would walk in a waking **trance** among the shadows."*

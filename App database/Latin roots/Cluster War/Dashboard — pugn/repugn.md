@@ -5,15 +5,6 @@ status: unread
 ---
 # repugn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To make the subject of dispute, contention, or litigation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make the subject of dispute, contention, or litigation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The worse one is, the less he notices it." [137] _D._ i, 5. [138] Plut. _de repugn."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In _D._ v, 7, he refers to "Galilaeans," so that it is quite possible he has Christians in view here. [153] _M._ 32; _D._ iii, 22. [154] Plut. _de repugn."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Plato, _Laws_, 906 A, _symmachoi de hemin theoi te ama kai daimones, hemeis d' au ktema theon kai daimonon_. [101] _de repugn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make the subject of dispute, contention, or litigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make the subject of dispute, contention, or litigation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The worse one is, the less he notices it." [137] _D._ i, 5. [138] Plut. _de repugn."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"In _D._ v, 7, he refers to "Galilaeans," so that it is quite possible he has Christians in view here. [153] _M._ 32; _D._ iii, 22. [154] Plut. _de repugn."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Plato, _Laws_, 906 A, _symmachoi de hemin theoi te ama kai daimones, hemeis d' au ktema theon kai daimonon_. [101] _de repugn."*

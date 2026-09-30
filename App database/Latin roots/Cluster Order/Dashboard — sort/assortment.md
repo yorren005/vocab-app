@@ -5,15 +5,6 @@ status: unread
 ---
 # assortment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection containing a variety of sorts of things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of distributing things into classes or categories of the same type.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"For example, a Ross Board is manufactured with an assortment of patterned surfaces."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"You know she isn't going to allow any toys but Teddy bears and woolly lambs, of which, I believe, she has already bought quite an assortment."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"These gentlemen have all come to this street since you were with us last." "Who lives in that beautiful cottage painted white, with that wonderful assortment of prettily arranged flowers in the front yard?" "Mr. and Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection containing a variety of sorts of things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of distributing things into classes or categories of the same type.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"For example, a Ross Board is manufactured with an assortment of patterned surfaces."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"You know she isn't going to allow any toys but Teddy bears and woolly lambs, of which, I believe, she has already bought quite an assortment."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"These gentlemen have all come to this street since you were with us last." "Who lives in that beautiful cottage painted white, with that wonderful assortment of prettily arranged flowers in the front yard?" "Mr. and Mrs."*

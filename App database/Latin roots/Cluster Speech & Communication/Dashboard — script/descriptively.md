@@ -5,15 +5,6 @@ status: unread
 ---
 # descriptively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By giving a description.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By giving a description.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hitherto, in descriptively treating of the Sperm Whale, I have chiefly dwelt upon the marvels of his outer aspect; or separately and in detail upon some few interior structural features."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Mine!--yours!--_ours_!" cried Charmion, waving her hands descriptively, first towards the two smaller rooms, and then to the other three in turn."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Hitherto, in descriptively treating of the Sperm Whale, I have chiefly dwelt upon the marvels of his outer aspect; or separately and in detail upon some few interior structural features."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By giving a description.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By giving a description.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hitherto, in descriptively treating of the Sperm Whale, I have chiefly dwelt upon the marvels of his outer aspect; or separately and in detail upon some few interior structural features."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Mine!--yours!--_ours_!" cried Charmion, waving her hands descriptively, first towards the two smaller rooms, and then to the other three in turn."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Hitherto, in descriptively treating of the Sperm Whale, I have chiefly dwelt upon the marvels of his outer aspect; or separately and in detail upon some few interior structural features."*

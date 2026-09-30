@@ -5,13 +5,6 @@ status: unread
 ---
 # bios
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A software element of a computer operating system that allows the CPU to communicate with connected input and output devices (such as a keyboard or a monitor).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biography or biographical sketch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bios designates a software element of a computer operating system that allows the cpu to communicate with connected input and output devices (such as a keyboard or a monitor)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A software element of a computer operating system that allows the CPU to communicate with connected input and output devices (such as a keyboard or a monitor).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biography or biographical sketch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bios designates a software element of a computer operating system that allows the cpu to communicate with connected input and output devices (such as a keyboard or a monitor)."*

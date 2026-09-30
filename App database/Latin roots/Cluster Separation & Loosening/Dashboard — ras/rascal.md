@@ -5,15 +5,6 @@ status: unread
 ---
 # rascal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deceitful and unreliable scoundrel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who is playfully mischievous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were I his lady I would poison that vile rascal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, no, the noblest deer hath them as huge as the rascal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou rascal, that art worst in blood to run, Lead’st first to win some vantage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deceitful and unreliable scoundrel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who is playfully mischievous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were I his lady I would poison that vile rascal."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, no, the noblest deer hath them as huge as the rascal."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou rascal, that art worst in blood to run, Lead’st first to win some vantage."*

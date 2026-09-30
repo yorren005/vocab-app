@@ -5,15 +5,6 @@ status: unread
 ---
 # hydra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A many-headed serpent or monster in Greek mythology that was slain by Hercules and each head of which when cut off was replaced by two others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A multifarious evil not to be overcome by a single effort.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Never was such a sudden scholar made, Never came reformation in a flood With such a heady currance scouring faults, Nor never Hydra-headed wilfulness So soon did lose his seat, and all at once, As in this king."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had I as many mouths as Hydra, such an answer would stop them all."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"I’ve been at drucken writers’ feasts, Nay, been bitch-fou ’mang godly priests— Wi’ rev’rence be it spoken!— I’ve even join’d the honour’d jorum, When mighty Squireships of the quorum, Their hydra drouth did sloken."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A many-headed serpent or monster in Greek mythology that was slain by Hercules and each head of which when cut off was replaced by two others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A multifarious evil not to be overcome by a single effort.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Never was such a sudden scholar made, Never came reformation in a flood With such a heady currance scouring faults, Nor never Hydra-headed wilfulness So soon did lose his seat, and all at once, As in this king."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had I as many mouths as Hydra, such an answer would stop them all."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"I’ve been at drucken writers’ feasts, Nay, been bitch-fou ’mang godly priests— Wi’ rev’rence be it spoken!— I’ve even join’d the honour’d jorum, When mighty Squireships of the quorum, Their hydra drouth did sloken."*

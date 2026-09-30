@@ -5,15 +5,6 @@ status: unread
 ---
 # mortuary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A building (or room) where dead bodies are kept before burial or cremation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of death.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"It is needless to say that the dead steersman has been reverently removed from the place where he held his honourable watch and ward till death--a steadfastness as noble as that of the young Casabianca--and placed in the mortuary to await inquest."*
-> - 📜 **Bram Stoker (*Dracula*):** *"The undertaker, true to his craft, had made the best display he could of his goods, and there was a mortuary air about the place that lowered our spirits at once."*
-> - 📜 **James Joyce (*Ulysses*):** *"They halted about the door of the mortuary chapel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A building (or room) where dead bodies are kept before burial or cremation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of death.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"It is needless to say that the dead steersman has been reverently removed from the place where he held his honourable watch and ward till death--a steadfastness as noble as that of the young Casabianca--and placed in the mortuary to await inquest."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The undertaker, true to his craft, had made the best display he could of his goods, and there was a mortuary air about the place that lowered our spirits at once."*
+> - 📜 **James Joyce (*Ulysses*):** *"They halted about the door of the mortuary chapel."*

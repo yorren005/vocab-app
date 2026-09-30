@@ -5,13 +5,6 @@ status: unread
 ---
 # lucubrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lucubrate designates add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lucubrate designates add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing."*

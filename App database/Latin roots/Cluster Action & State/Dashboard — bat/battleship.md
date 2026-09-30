@@ -5,15 +5,6 @@ status: unread
 ---
 # battleship
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large and heavily armoured warship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large and heavily armoured warship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"While we're about it, can't we get a warship--a battleship or something?"*
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"HOSPITAL SHIP "MAGIC II.," AFTERWARDS RENAMED "CLASSIC" 80 TRANSFERRING A "COT CASE" FROM A BATTLESHIP TO THE HOSPITAL SHIP DRIFTER 81 DENTIST AT WORK ON A BATTLESHIP (H.M.S."*
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"Ruthenia," previously a dummy battleship, became the storeship and headquarters of the Victualling and Naval Store Officers, and the Fleet Coaling Officer took up his quarters in R.F.A."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large and heavily armoured warship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large and heavily armoured warship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"While we're about it, can't we get a warship--a battleship or something?"*
+> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"HOSPITAL SHIP "MAGIC II.," AFTERWARDS RENAMED "CLASSIC" 80 TRANSFERRING A "COT CASE" FROM A BATTLESHIP TO THE HOSPITAL SHIP DRIFTER 81 DENTIST AT WORK ON A BATTLESHIP (H.M.S."*
+> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"Ruthenia," previously a dummy battleship, became the storeship and headquarters of the Victualling and Naval Store Officers, and the Fleet Coaling Officer took up his quarters in R.F.A."*

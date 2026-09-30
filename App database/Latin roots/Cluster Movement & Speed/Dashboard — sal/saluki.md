@@ -5,13 +5,6 @@ status: unread
 ---
 # saluki
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Old breed of tall swift keen-eyed hunting dogs resembling greyhounds; from egypt and southwestern asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old breed of tall swift keen-eyed hunting dogs resembling greyhounds; from egypt and southwestern asia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saluki designates old breed of tall swift keen-eyed hunting dogs resembling greyhounds; from egypt and southwestern asia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Old breed of tall swift keen-eyed hunting dogs resembling greyhounds; from egypt and southwestern asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old breed of tall swift keen-eyed hunting dogs resembling greyhounds; from egypt and southwestern asia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saluki designates old breed of tall swift keen-eyed hunting dogs resembling greyhounds; from egypt and southwestern asia."*

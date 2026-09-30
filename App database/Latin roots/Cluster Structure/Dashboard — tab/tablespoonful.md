@@ -5,15 +5,6 @@ status: unread
 ---
 # tablespoonful
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As much as a tablespoon will hold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As much as a tablespoon will hold.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The oddest thing was its earth-pouches--two open sacks, one on either side of its head, and capable of containing each a tablespoonful or more."*
-> - 📜 **James Joyce (*Ulysses*):** *"One tablespoonful of honey will attract friend Bruin more than half a dozen barrels of first choice malt vinegar."*
-> - 📜 **James Joyce (*Ulysses*):** *"One third of a pint of quassia to which add a tablespoonful of rocksalt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As much as a tablespoon will hold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As much as a tablespoon will hold.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The oddest thing was its earth-pouches--two open sacks, one on either side of its head, and capable of containing each a tablespoonful or more."*
+> - 📜 **James Joyce (*Ulysses*):** *"One tablespoonful of honey will attract friend Bruin more than half a dozen barrels of first choice malt vinegar."*
+> - 📜 **James Joyce (*Ulysses*):** *"One third of a pint of quassia to which add a tablespoonful of rocksalt."*

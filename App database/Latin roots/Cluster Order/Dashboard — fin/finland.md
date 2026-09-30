@@ -5,15 +5,6 @@ status: unread
 ---
 # finland
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Republic in northern europe; achieved independence from russia in 1917.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Republic in northern europe; achieved independence from russia in 1917.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Fourth, the establishment of ten national spiritual assemblies in the following European countries: Sweden, Norway, Denmark, Belgium, Holland, Luxembourg, Spain, Portugal, France and Finland."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And they sailed east, sou'east down the Gulf of Finland, until Dago Island was on their port quarter...."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Yes, I know you have made peace with the Turks without obtaining Moldavia and Wallachia; I would have given your sovereign those provinces as I gave him Finland."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Republic in northern europe; achieved independence from russia in 1917.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Republic in northern europe; achieved independence from russia in 1917.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Fourth, the establishment of ten national spiritual assemblies in the following European countries: Sweden, Norway, Denmark, Belgium, Holland, Luxembourg, Spain, Portugal, France and Finland."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And they sailed east, sou'east down the Gulf of Finland, until Dago Island was on their port quarter...."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Yes, I know you have made peace with the Turks without obtaining Moldavia and Wallachia; I would have given your sovereign those provinces as I gave him Finland."*

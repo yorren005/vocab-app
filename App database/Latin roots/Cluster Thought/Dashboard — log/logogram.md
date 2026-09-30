@@ -5,13 +5,6 @@ status: unread
 ---
 # logogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A single written symbol that represents an entire word or phrase without indicating its pronunciation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single written symbol that represents an entire word or phrase without indicating its pronunciation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logogram designates a single written symbol that represents an entire word or phrase without indicating its pronunciation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single written symbol that represents an entire word or phrase without indicating its pronunciation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single written symbol that represents an entire word or phrase without indicating its pronunciation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logogram designates a single written symbol that represents an entire word or phrase without indicating its pronunciation."*

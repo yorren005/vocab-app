@@ -5,15 +5,6 @@ status: unread
 ---
 # opportunity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A possibility due to a favorable combination of circumstances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A possibility due to a favorable combination of circumstances.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With five times so much conversation I should get ground of your fair mistress; make her go back even to the yielding, had I admittance and opportunity to friend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will lay you ten thousand ducats to your ring that, commend me to the court where your lady is, with no more advantage than the opportunity of a second conference, and I will bring from thence that honour of hers which you imagine so reserv’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That opportunity, Which then they had to take from’s, to resume We have again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A possibility due to a favorable combination of circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A possibility due to a favorable combination of circumstances.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With five times so much conversation I should get ground of your fair mistress; make her go back even to the yielding, had I admittance and opportunity to friend."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will lay you ten thousand ducats to your ring that, commend me to the court where your lady is, with no more advantage than the opportunity of a second conference, and I will bring from thence that honour of hers which you imagine so reserv’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That opportunity, Which then they had to take from’s, to resume We have again."*

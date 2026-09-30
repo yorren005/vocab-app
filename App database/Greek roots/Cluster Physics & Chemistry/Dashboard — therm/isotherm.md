@@ -5,13 +5,6 @@ status: unread
 ---
 # isotherm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A line on a map or chart of the earth's surface connecting points having the same temperature at a given time or the same mean temperature for a given period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line on a chart representing changes of volume or pressure under conditions of constant temperature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isotherm designates a line on a map or chart of the earth's surface connecting points having the same temperature at a given time or the same mean temperature for a given period."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line on a map or chart of the earth's surface connecting points having the same temperature at a given time or the same mean temperature for a given period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line on a chart representing changes of volume or pressure under conditions of constant temperature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isotherm designates a line on a map or chart of the earth's surface connecting points having the same temperature at a given time or the same mean temperature for a given period."*

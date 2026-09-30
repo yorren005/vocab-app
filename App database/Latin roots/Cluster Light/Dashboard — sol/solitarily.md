@@ -5,13 +5,6 @@ status: unread
 ---
 # solitarily
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In solitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solitude.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Often they scurry along solitarily, but occasionally in groups."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In solitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solitude.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Often they scurry along solitarily, but occasionally in groups."*

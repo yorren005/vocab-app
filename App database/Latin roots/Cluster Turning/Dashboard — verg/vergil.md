@@ -5,13 +5,6 @@ status: unread
 ---
 # vergil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A roman poet; author of the epic poem `aeneid' (70-19 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A roman poet; author of the epic poem `aeneid' (70-19 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"There came several bodies of heavy-armed foot, all mercenaries, under the ensigns of Guicciardini, Davila, Polydore Vergil, Buchanan, Mariana, Camden, and others."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A roman poet; author of the epic poem `aeneid' (70-19 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A roman poet; author of the epic poem `aeneid' (70-19 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"There came several bodies of heavy-armed foot, all mercenaries, under the ensigns of Guicciardini, Davila, Polydore Vergil, Buchanan, Mariana, Camden, and others."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # implantation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (embryology) the organic process whereby a fertilized egg becomes implanted in the lining of the uterus of placental mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of planting or setting in the ground.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, implantation designates (embryology) the organic process whereby a fertilized egg becomes implanted in the lining of the uterus of placental mammals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (embryology) the organic process whereby a fertilized egg becomes implanted in the lining of the uterus of placental mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of planting or setting in the ground.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, implantation designates (embryology) the organic process whereby a fertilized egg becomes implanted in the lining of the uterus of placental mammals."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # supposable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being inferred on slight grounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being inferred on slight grounds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"As to corruption, the case is not supposable."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"He was not fond of Ralph--Ralph had told her so--and it was not supposable that Mr."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"To understand then its real character, and what would be the action of the system in any supposable case, we must raise our view from the mere agents, to this high controlling power which finally impels every movement of the machine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being inferred on slight grounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being inferred on slight grounds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"As to corruption, the case is not supposable."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"He was not fond of Ralph--Ralph had told her so--and it was not supposable that Mr."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"To understand then its real character, and what would be the action of the system in any supposable case, we must raise our view from the mere agents, to this high controlling power which finally impels every movement of the machine."*

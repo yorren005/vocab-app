@@ -5,20 +5,6 @@ status: unread
 ---
 # fleet
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Swift in motion : nimble
-> 2. **Nuance / Usage**: Group of vessels or vehicles
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Have knit again, and fleet, threat’ning most sea-like."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I am sure he is in the fleet: I would he had boarded me!"*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"offices of the League, 7 Pope’s Court, Fleet Street."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Swift in motion : nimble
+> 2. **Nuance / Usage**: Group of vessels or vehicles
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Have knit again, and fleet, threat’ning most sea-like."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I am sure he is in the fleet: I would he had boarded me!"*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"offices of the League, 7 Pope’s Court, Fleet Street."*

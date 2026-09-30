@@ -5,15 +5,6 @@ status: unread
 ---
 # calomel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tasteless colorless powder used medicinally as a cathartic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tasteless colorless powder used medicinally as a cathartic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"For, my young friends,” suddenly addressing the ’prentices and Guster, to their consternation, “if I am told by the doctor that calomel or castor-oil is good for me, I may naturally ask what is calomel, and what is castor-oil."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Starbuck, had the face to offer that calomel and jalap to Queequeg, there, this instant off the whale."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Starbuck, had the face to offer that calomel and jalap to Queequeg, there, this instant off the whale."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tasteless colorless powder used medicinally as a cathartic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tasteless colorless powder used medicinally as a cathartic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"For, my young friends,” suddenly addressing the ’prentices and Guster, to their consternation, “if I am told by the doctor that calomel or castor-oil is good for me, I may naturally ask what is calomel, and what is castor-oil."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Starbuck, had the face to offer that calomel and jalap to Queequeg, there, this instant off the whale."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Starbuck, had the face to offer that calomel and jalap to Queequeg, there, this instant off the whale."*

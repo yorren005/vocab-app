@@ -5,15 +5,6 @@ status: unread
 ---
 # encamp
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Live in or as if in a tent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Live in or as if in a tent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beyond the river we’ll encamp ourselves, And on tomorrow bid them march away. [_Exeunt._] SCENE VII."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Two such opposed kings encamp them still In man as well as herbs,—grace and rude will; And where the worser is predominant, Full soon the canker death eats up that plant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bid him repair to me and bring with him Some of the chiefest princes of the Goths; Bid him encamp his soldiers where they are."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Live in or as if in a tent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Live in or as if in a tent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beyond the river we’ll encamp ourselves, And on tomorrow bid them march away. [_Exeunt._] SCENE VII."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Two such opposed kings encamp them still In man as well as herbs,—grace and rude will; And where the worser is predominant, Full soon the canker death eats up that plant."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bid him repair to me and bring with him Some of the chiefest princes of the Goths; Bid him encamp his soldiers where they are."*

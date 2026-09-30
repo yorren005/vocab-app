@@ -5,13 +5,6 @@ status: unread
 ---
 # sumo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A japanese form of wrestling; you lose if you are forced out of a small ring or if any part of your body (other than your feet) touches the ground.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A japanese form of wrestling; you lose if you are forced out of a small ring or if any part of your body (other than your feet) touches the ground.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sumo designates a japanese form of wrestling; you lose if you are forced out of a small ring or if any part of your body (other than your feet) touches the ground."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A japanese form of wrestling; you lose if you are forced out of a small ring or if any part of your body (other than your feet) touches the ground.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A japanese form of wrestling; you lose if you are forced out of a small ring or if any part of your body (other than your feet) touches the ground.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sumo designates a japanese form of wrestling; you lose if you are forced out of a small ring or if any part of your body (other than your feet) touches the ground."*

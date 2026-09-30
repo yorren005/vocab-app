@@ -5,15 +5,6 @@ status: unread
 ---
 # baptized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer baptism to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having undergone the christian ritual of baptism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her baby had not been baptized."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Ure, the kindly old minister who had married his parents and baptized himself."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Yet what I have told from the time when I was baptized in the mead-pot of Tostig Lodbrog I have been compelled to tell in order that you may understand what manner of man rode in through the Jaffa Gate and drew all eyes upon him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer baptism to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having undergone the christian ritual of baptism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her baby had not been baptized."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Ure, the kindly old minister who had married his parents and baptized himself."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Yet what I have told from the time when I was baptized in the mead-pot of Tostig Lodbrog I have been compelled to tell in order that you may understand what manner of man rode in through the Jaffa Gate and drew all eyes upon him."*

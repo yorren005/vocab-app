@@ -5,13 +5,6 @@ status: unread
 ---
 # canonisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic and eastern orthodox church) the act of admitting a deceased person into the canon of saints.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic and eastern orthodox church) the act of admitting a deceased person into the canon of saints.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"For them he is the "banner of freedom," which, "Torn but flying, Streams like a thunder-cloud against the wind." He has suffered that worst indignity of canonisation as a being saintly and superhuman, not subject to the morality of ordinary mortals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic and eastern orthodox church) the act of admitting a deceased person into the canon of saints.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic and eastern orthodox church) the act of admitting a deceased person into the canon of saints.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"For them he is the "banner of freedom," which, "Torn but flying, Streams like a thunder-cloud against the wind." He has suffered that worst indignity of canonisation as a being saintly and superhuman, not subject to the morality of ordinary mortals."*

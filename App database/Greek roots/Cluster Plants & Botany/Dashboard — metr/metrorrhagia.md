@@ -5,13 +5,6 @@ status: unread
 ---
 # metrorrhagia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bleeding from the uterus that is not due to menstruation; usually indicative of disease (as cervical cancer).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bleeding from the uterus that is not due to menstruation; usually indicative of disease (as cervical cancer).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metrorrhagia designates bleeding from the uterus that is not due to menstruation; usually indicative of disease (as cervical cancer)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bleeding from the uterus that is not due to menstruation; usually indicative of disease (as cervical cancer).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bleeding from the uterus that is not due to menstruation; usually indicative of disease (as cervical cancer).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metrorrhagia designates bleeding from the uterus that is not due to menstruation; usually indicative of disease (as cervical cancer)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # studious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by care and effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by diligent study and fondness for reading.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But yet be wary in thy studious care."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He did not speak to me any more until he got out of the coach a little way short of Reading, when he advised me to be a good girl and to be studious, and shook hands with me."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Otherwise mildly studious in his observation of human nature, on the whole a benignant philosopher not disposed to be severe upon the follies of mankind, Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by care and effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by diligent study and fondness for reading.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But yet be wary in thy studious care."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He did not speak to me any more until he got out of the coach a little way short of Reading, when he advised me to be a good girl and to be studious, and shook hands with me."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Otherwise mildly studious in his observation of human nature, on the whole a benignant philosopher not disposed to be severe upon the follies of mankind, Mr."*

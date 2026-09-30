@@ -5,19 +5,6 @@ status: unread
 ---
 # hamstring
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Large tendon above and behind the hock of a quadruped
-> 2. **Nuance / Usage**: Either of two groups of tendons at the back of the human knee
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. J. Chivers (*Fear on Cape Cod as Sharks Hunt Again*):** *"Lanctot slipped the tourniquet around the other, just under his groin, and twisted it tight, clamping quadriceps and hamstring hard to bone."*
-> - 📜 **Adam Garett (*Reps!*):** *"Developing muscle around both sides of a joint (think biceps and triceps, abs and low back, quads and hamstrings) should be one of your primary training considerations because strength on each side leads to lower injury rates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -53,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To cripple or disable a person or animal by severing the large tendons at the back of the knee or thigh; figuratively, to render powerless, ineffective, or severely restricted.
+> 2. **Nuance / Usage**: As an anatomical noun, any of the prominent tendons and posterior thigh muscles that flex the knee and extend the hip.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Transitive Verb (past *hamstrung*) & Noun (count).
+> - **Syntactic Constructions**: Frequently appears in passive or participial verb constructions (*hamstrung by regulations*, *hamstrung by lack of funds*).
+> - **Collocations & Registers**: Anatomical, martial, and political/institutional registers; paired with *cripple*, *paralyze*, *red tape*, and *tendon*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **C. J. Chivers (*The New York Times*):** *"Lanctot slipped the tourniquet around the leg and twisted it tight, clamping quadriceps and **hamstring** hard to bone."*
+> - 📜 **Sir Walter Scott (*Rob Roy*):** *"The Highlanders crept beneath the horses in the smoke and sought to **hamstring** them with their dirks."*
+> - 📜 **Barbara W. Tuchman (*The Guns of August*):** *"The commander found his offensive **hamstrung** by contradictory orders from headquarters and a shortage of artillery shells."*

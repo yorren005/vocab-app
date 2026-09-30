@@ -5,20 +5,6 @@ status: unread
 ---
 # kismet
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Hamlet in suffolk county, new york
-> 2. **Nuance / Usage**: Small city in seward county, kansas
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Rudyard Kipling (*s:en:Bitters Neat*):** *"But these things are kismet, and we only find out all about them just when any knowledge is too late."*
-> - 📜 **P. C. Wren (*The Young Stagers*):** *"Golly!" he cried. "I'm awfully sorry, Bo'sun, but you're It. You're luck's clean out to-day. What rotten Kismet you do have. The Lot fell on you all right, smack in the middle of your chest."*
-> - 📜 **Kitty Empire (*Madonna: Madame X review – a splendidly bizarre return to form*):** *"Sexualised Catholicism, at the dawn of MTV, was Madonna’s first stroke of kismet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Hamlet in suffolk county, new york
+> 2. **Nuance / Usage**: Small city in seward county, kansas
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Rudyard Kipling (*s:en:Bitters Neat*):** *"But these things are kismet, and we only find out all about them just when any knowledge is too late."*
+> - 📜 **P. C. Wren (*The Young Stagers*):** *"Golly!" he cried. "I'm awfully sorry, Bo'sun, but you're It. You're luck's clean out to-day. What rotten Kismet you do have. The Lot fell on you all right, smack in the middle of your chest."*
+> - 📜 **Kitty Empire (*Madonna: Madame X review – a splendidly bizarre return to form*):** *"Sexualised Catholicism, at the dawn of MTV, was Madonna’s first stroke of kismet."*

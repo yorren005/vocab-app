@@ -5,13 +5,6 @@ status: unread
 ---
 # rubinstein
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states pianist (born in poland) known for his interpretations of the music of chopin (1886-1982).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Russian composer and pianist (1829-1894).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"They had met at Lady Berkshire’s the night that Rubinstein played there, and after that used to be always seen together at the opera and wherever good music was going on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states pianist (born in poland) known for his interpretations of the music of chopin (1886-1982).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Russian composer and pianist (1829-1894).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"They had met at Lady Berkshire’s the night that Rubinstein played there, and after that used to be always seen together at the opera and wherever good music was going on."*

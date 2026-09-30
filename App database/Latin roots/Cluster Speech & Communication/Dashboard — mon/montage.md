@@ -5,13 +5,6 @@ status: unread
 ---
 # montage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A paste-up made by sticking together pieces of paper or photographs to form an artistic image.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A paste-up made by sticking together pieces of paper or photographs to form an artistic image.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, montage designates a paste-up made by sticking together pieces of paper or photographs to form an artistic image."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A paste-up made by sticking together pieces of paper or photographs to form an artistic image.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A paste-up made by sticking together pieces of paper or photographs to form an artistic image.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, montage designates a paste-up made by sticking together pieces of paper or photographs to form an artistic image."*

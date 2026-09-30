@@ -5,13 +5,6 @@ status: unread
 ---
 # isomerism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relationship of two or more chemical species that are isomers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation of two or more nuclides with the same mass numbers and atomic numbers but different energy states and rates of radioactive decay.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isomerism designates the relationship of two or more chemical species that are isomers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The relationship of two or more chemical species that are isomers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation of two or more nuclides with the same mass numbers and atomic numbers but different energy states and rates of radioactive decay.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isomerism designates the relationship of two or more chemical species that are isomers."*

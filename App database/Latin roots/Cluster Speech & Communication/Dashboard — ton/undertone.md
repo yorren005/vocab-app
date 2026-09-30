@@ -5,15 +5,6 @@ status: unread
 ---
 # undertone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quiet or hushed tone of voice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A subdued emotional quality underlying an utterance; implicit meaning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Call the next witness.” And he added in an undertone to the Queen, “Really, my dear, _you_ must cross-examine the next witness."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"_Un_important, of course, I meant,” the King hastily said, and went on to himself in an undertone, “important—unimportant—unimportant—important—” as if he were trying which word sounded best."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess is a fine figure o’ fun, as I said to myself to-day when I zeed her vamping round parish with the rest,” observed one of the elderly boozers in an undertone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quiet or hushed tone of voice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A subdued emotional quality underlying an utterance; implicit meaning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Call the next witness.” And he added in an undertone to the Queen, “Really, my dear, _you_ must cross-examine the next witness."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"_Un_important, of course, I meant,” the King hastily said, and went on to himself in an undertone, “important—unimportant—unimportant—important—” as if he were trying which word sounded best."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess is a fine figure o’ fun, as I said to myself to-day when I zeed her vamping round parish with the rest,” observed one of the elderly boozers in an undertone."*

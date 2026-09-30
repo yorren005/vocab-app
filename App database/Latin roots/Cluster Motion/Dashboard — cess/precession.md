@@ -5,13 +5,6 @@ status: unread
 ---
 # precession
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The motion of a spinning body (as a top) in which it wobbles so that the axis of rotation sweeps out a cone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of preceding in time or order or rank (as in a ceremony).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precession designates the motion of a spinning body (as a top) in which it wobbles so that the axis of rotation sweeps out a cone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The motion of a spinning body (as a top) in which it wobbles so that the axis of rotation sweeps out a cone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of preceding in time or order or rank (as in a ceremony).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precession designates the motion of a spinning body (as a top) in which it wobbles so that the axis of rotation sweeps out a cone."*

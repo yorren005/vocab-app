@@ -5,15 +5,6 @@ status: unread
 ---
 # irate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or showing extreme anger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or showing extreme anger.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Are you fond of presents?” and he searched my face with eyes that I saw were dark, irate, and piercing."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers suddenly became most irate."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I beg of you, I beg of you,” he repeated, “to occupy the position and prepare for an attack.” “I peg of you yourself not to mix in vot is not your business!” suddenly replied the irate colonel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or showing extreme anger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or showing extreme anger.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Are you fond of presents?” and he searched my face with eyes that I saw were dark, irate, and piercing."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers suddenly became most irate."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I beg of you, I beg of you,” he repeated, “to occupy the position and prepare for an attack.” “I peg of you yourself not to mix in vot is not your business!” suddenly replied the irate colonel."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # misdemeanour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crime less serious than a felony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crime less serious than a felony.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"From time to time d’Urberville exhibited a sort of fierce distress at the sight of the tramping he had driven her to undertake by his misdemeanour."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rivers, the high crime and misdemeanour of spoiling a sanded kitchen, tell me what I wish to know.” “Well, then,” he said, “I yield; if not to your earnestness, to your perseverance: as stone is worn by continual dropping."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"But for all that,” Henrietta added in a moment, “I’m not satisfied; I’m not at peace about Isabel.” “What is her last misdemeanour?” “Well, I’ve told you before, and I suppose there’s no harm in my going on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A crime less serious than a felony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crime less serious than a felony.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"From time to time d’Urberville exhibited a sort of fierce distress at the sight of the tramping he had driven her to undertake by his misdemeanour."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rivers, the high crime and misdemeanour of spoiling a sanded kitchen, tell me what I wish to know.” “Well, then,” he said, “I yield; if not to your earnestness, to your perseverance: as stone is worn by continual dropping."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"But for all that,” Henrietta added in a moment, “I’m not satisfied; I’m not at peace about Isabel.” “What is her last misdemeanour?” “Well, I’ve told you before, and I suppose there’s no harm in my going on."*

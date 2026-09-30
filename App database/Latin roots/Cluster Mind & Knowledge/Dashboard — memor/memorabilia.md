@@ -5,13 +5,6 @@ status: unread
 ---
 # memorabilia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A record of things worth remembering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A record of things worth remembering.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Touch him ne’er so lightly.” Memorabilia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A record of things worth remembering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A record of things worth remembering.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Touch him ne’er so lightly.” Memorabilia."*

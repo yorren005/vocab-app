@@ -5,13 +5,6 @@ status: unread
 ---
 # abor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Little known kamarupan languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Little known kamarupan languages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abor designates little known kamarupan languages."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Little known kamarupan languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Little known kamarupan languages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abor designates little known kamarupan languages."*

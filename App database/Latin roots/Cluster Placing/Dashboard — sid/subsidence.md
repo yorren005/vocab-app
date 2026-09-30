@@ -5,15 +5,6 @@ status: unread
 ---
 # subsidence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abatement in intensity or degree (as in the manifestations of a disease).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gradual sinking to a lower level.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Is that _your_ branch?” A question which provoked much candid hilarity on the part of the two ladies; on the subsidence of which their entertainer, glancing at his daughter, remarked that she had grown."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"To fire such a mass of material without subsidence or cracking would tax the capabilities of the best equipped modern pottery, while the skill displayed in the modelling is probably unequalled in any known example of ceramic sculpture."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"But now every sound ceased suddenly, with the subsidence of Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abatement in intensity or degree (as in the manifestations of a disease).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gradual sinking to a lower level.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Is that _your_ branch?” A question which provoked much candid hilarity on the part of the two ladies; on the subsidence of which their entertainer, glancing at his daughter, remarked that she had grown."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"To fire such a mass of material without subsidence or cracking would tax the capabilities of the best equipped modern pottery, while the skill displayed in the modelling is probably unequalled in any known example of ceramic sculpture."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"But now every sound ceased suddenly, with the subsidence of Mr."*

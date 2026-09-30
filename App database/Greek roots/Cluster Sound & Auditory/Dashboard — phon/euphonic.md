@@ -5,13 +5,6 @@ status: unread
 ---
 # euphonic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing or sweet sound; especially : the acoustic effect produced by words so formed or combined as to please the ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A harmonious succession of words having a pleasing sound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euphonic designates pleasing or sweet sound; especially : the acoustic effect produced by words so formed or combined as to please the ear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing or sweet sound; especially : the acoustic effect produced by words so formed or combined as to please the ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A harmonious succession of words having a pleasing sound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euphonic designates pleasing or sweet sound; especially : the acoustic effect produced by words so formed or combined as to please the ear."*

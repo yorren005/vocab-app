@@ -5,15 +5,6 @@ status: unread
 ---
 # distantly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From or at a distance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From or at a distance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The truth is, he wrote to me under a sort of protest while unable to write to you with any hope of an answer—wrote coldly, haughtily, distantly, resentfully."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole’s, however distantly associated with me, receiving kindnesses and obligations from her husband, was so painful that I felt I could no longer guide myself without his assistance."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Perhaps, if particularly questioned, she might just give an idea—just distantly hint at it—but not more."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From or at a distance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From or at a distance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The truth is, he wrote to me under a sort of protest while unable to write to you with any hope of an answer—wrote coldly, haughtily, distantly, resentfully."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole’s, however distantly associated with me, receiving kindnesses and obligations from her husband, was so painful that I felt I could no longer guide myself without his assistance."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Perhaps, if particularly questioned, she might just give an idea—just distantly hint at it—but not more."*

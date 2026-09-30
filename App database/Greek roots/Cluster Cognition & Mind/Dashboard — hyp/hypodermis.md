@@ -5,13 +5,6 @@ status: unread
 ---
 # hypodermis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Layer of cells that secretes the chitinous cuticle in e.g. arthropods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Layer of cells that secretes the chitinous cuticle in e.g. arthropods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypodermis designates layer of cells that secretes the chitinous cuticle in e.g. arthropods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Layer of cells that secretes the chitinous cuticle in e.g. arthropods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Layer of cells that secretes the chitinous cuticle in e.g. arthropods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypodermis designates layer of cells that secretes the chitinous cuticle in e.g. arthropods."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # decisive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Determining or having the power to determine an outcome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unmistakable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Yes, I fear so.” “Then, sir,” returns the trooper in a decisive manner, “it appears to me—being naturally in the vagabond way myself—that the sooner he comes out of the street, the better."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Would you, in short, have renewed the engagement then?” “Would I!” was all her answer; but the accent was decisive enough."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was a decisive proof that the door had not been opened at least since Troy came back to Weatherbury."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Determining or having the power to determine an outcome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unmistakable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Yes, I fear so.” “Then, sir,” returns the trooper in a decisive manner, “it appears to me—being naturally in the vagabond way myself—that the sooner he comes out of the street, the better."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Would you, in short, have renewed the engagement then?” “Would I!” was all her answer; but the accent was decisive enough."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was a decisive proof that the door had not been opened at least since Troy came back to Weatherbury."*

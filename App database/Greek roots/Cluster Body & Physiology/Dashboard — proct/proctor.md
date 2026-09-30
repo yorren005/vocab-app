@@ -5,15 +5,6 @@ status: unread
 ---
 # proctor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who supervises (an examination).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Watch over (students taking an exam, to prevent cheating).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I shouldn't care to fall foul of the King's Proctor." "Will you have another cup of tea before I ring" "No, thanks . . ."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"Proctor with the artillery kept up a brisk fire on their works."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"Proctor destroyed the first Indian town, named Newtychanning, containing about twenty houses, located on the west side of the Susquehanna, on the north side of Sugar Creek near North Towanda."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who supervises (an examination).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Watch over (students taking an exam, to prevent cheating).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"I shouldn't care to fall foul of the King's Proctor." "Will you have another cup of tea before I ring" "No, thanks . . ."*
+> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"Proctor with the artillery kept up a brisk fire on their works."*
+> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"Proctor destroyed the first Indian town, named Newtychanning, containing about twenty houses, located on the west side of the Susquehanna, on the north side of Sugar Creek near North Towanda."*

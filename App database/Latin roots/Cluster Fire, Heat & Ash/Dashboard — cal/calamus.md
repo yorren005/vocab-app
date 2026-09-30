@@ -5,13 +5,6 @@ status: unread
 ---
 # calamus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any tropical asian palm of the genus calamus; light tough stems are a source of rattan canes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The aromatic root of the sweet flag used medicinally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"See, again, in the pieces gathered together under the title "Calamus," and elsewhere, what it means for a man to love his fellow-man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any tropical asian palm of the genus calamus; light tough stems are a source of rattan canes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The aromatic root of the sweet flag used medicinally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"See, again, in the pieces gathered together under the title "Calamus," and elsewhere, what it means for a man to love his fellow-man."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # plagiaristic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Copied and passed off as your own.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Copied and passed off as your own.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plagiaristic designates copied and passed off as your own."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Copied and passed off as your own.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Copied and passed off as your own.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plagiaristic designates copied and passed off as your own."*

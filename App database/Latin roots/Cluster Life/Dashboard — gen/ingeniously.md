@@ -5,15 +5,6 @@ status: unread
 ---
 # ingeniously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ingenious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ingenious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It has been ingeniously argued that a tariff may keep some of the natural agricultural resources of a new country from becoming quickly exhausted."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Norris had now so ingeniously done away all Mrs."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon as ingeniously as he could; but he did not in the end prevent the time from seeming long to that gentleman, as was clear from his expressing a fear that Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ingenious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ingenious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It has been ingeniously argued that a tariff may keep some of the natural agricultural resources of a new country from becoming quickly exhausted."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Norris had now so ingeniously done away all Mrs."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon as ingeniously as he could; but he did not in the end prevent the time from seeming long to that gentleman, as was clear from his expressing a fear that Mrs."*

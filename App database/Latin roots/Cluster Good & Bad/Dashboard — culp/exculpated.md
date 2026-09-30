@@ -5,13 +5,6 @@ status: unread
 ---
 # exculpated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pronounce not guilty of criminal charges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freed from any question of guilt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exculpated designates pronounce not guilty of criminal charges."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pronounce not guilty of criminal charges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freed from any question of guilt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exculpated designates pronounce not guilty of criminal charges."*

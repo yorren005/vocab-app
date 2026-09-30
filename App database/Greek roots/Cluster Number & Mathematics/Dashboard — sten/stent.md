@@ -5,15 +5,6 @@ status: unread
 ---
 # stent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slender tube inserted inside a tubular body part (as a blood vessel) to provide support during and after surgical anastomosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slender tube inserted inside a tubular body part (as a blood vessel) to provide support during and after surgical anastomosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"T was harder for them than for most folks; they'd had a long stent with the ol' gentleman; very arbitrary, very arbitrary." "Yes," answered Mrs."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"He went ben there a while syne to work a stent at your wedding quilt, my bonnie lamb!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Stephen’s quorum; If sleekit Chatham Will was livin, Or glaikit Charlie got his nieve in; How daddie Burke the plea was cookin, If Warren Hasting’s neck was yeukin; How cesses, stents, and fees were rax’d."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slender tube inserted inside a tubular body part (as a blood vessel) to provide support during and after surgical anastomosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slender tube inserted inside a tubular body part (as a blood vessel) to provide support during and after surgical anastomosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"T was harder for them than for most folks; they'd had a long stent with the ol' gentleman; very arbitrary, very arbitrary." "Yes," answered Mrs."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"He went ben there a while syne to work a stent at your wedding quilt, my bonnie lamb!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Stephen’s quorum; If sleekit Chatham Will was livin, Or glaikit Charlie got his nieve in; How daddie Burke the plea was cookin, If Warren Hasting’s neck was yeukin; How cesses, stents, and fees were rax’d."*

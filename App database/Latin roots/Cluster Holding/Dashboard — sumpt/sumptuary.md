@@ -5,15 +5,6 @@ status: unread
 ---
 # sumptuary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regulating or controlling expenditure or personal behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regulating or controlling expenditure or personal behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The Middle Ages are full of futile sumptuary laws which sprang from the envy of the nobles for the wealthy merchants."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"There is need of better standards of taste and judgment in expenditure, but not of sumptuary laws."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The figures were grossly exaggerated, but nevertheless an alliance was formed with the Democratic party in the State by the substantial adoption of the anti-sumptuary plank in its platform."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regulating or controlling expenditure or personal behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regulating or controlling expenditure or personal behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The Middle Ages are full of futile sumptuary laws which sprang from the envy of the nobles for the wealthy merchants."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"There is need of better standards of taste and judgment in expenditure, but not of sumptuary laws."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The figures were grossly exaggerated, but nevertheless an alliance was formed with the Democratic party in the State by the substantial adoption of the anti-sumptuary plank in its platform."*

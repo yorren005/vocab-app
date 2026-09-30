@@ -5,13 +5,6 @@ status: unread
 ---
 # vibrion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved rodlike motile bacterium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curved rodlike motile bacterium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vibrion designates curved rodlike motile bacterium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved rodlike motile bacterium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curved rodlike motile bacterium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vibrion designates curved rodlike motile bacterium."*

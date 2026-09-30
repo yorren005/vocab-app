@@ -5,15 +5,6 @@ status: unread
 ---
 # cavell
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English nurse who remained in brussels after the german occupation in order to help allied prisoners escape; was caught and executed by the germans (1865-1915).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English nurse who remained in brussels after the german occupation in order to help allied prisoners escape; was caught and executed by the germans (1865-1915).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"For deeds by love inspired The Kaiser's vengeance fell On form so frail and tired, Heroic Nurse Cavell."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"What though the Prussian kultur Now threatened her with death; She met the screaming vulture In simple, quiet faith, "I am an English woman, I love my country well, But must not hate a foeman," Said kindly Nurse Cavell."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"She faced the guns with even, Calm, fearless, English eyes, And then, her foes forgiven, Made willing sacrifice; Thus, at the midnight hour, In Prussian prison cell, Crushed by a tyrant's power, Died Christlike Nurse Cavell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English nurse who remained in brussels after the german occupation in order to help allied prisoners escape; was caught and executed by the germans (1865-1915).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English nurse who remained in brussels after the german occupation in order to help allied prisoners escape; was caught and executed by the germans (1865-1915).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"For deeds by love inspired The Kaiser's vengeance fell On form so frail and tired, Heroic Nurse Cavell."*
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"What though the Prussian kultur Now threatened her with death; She met the screaming vulture In simple, quiet faith, "I am an English woman, I love my country well, But must not hate a foeman," Said kindly Nurse Cavell."*
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"She faced the guns with even, Calm, fearless, English eyes, And then, her foes forgiven, Made willing sacrifice; Thus, at the midnight hour, In Prussian prison cell, Crushed by a tyrant's power, Died Christlike Nurse Cavell."*

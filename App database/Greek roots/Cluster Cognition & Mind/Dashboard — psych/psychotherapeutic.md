@@ -5,13 +5,6 @@ status: unread
 ---
 # psychotherapeutic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or practicing psychotherapy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emotionally purging.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychotherapeutic designates of or relating to or practicing psychotherapy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or practicing psychotherapy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emotionally purging.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychotherapeutic designates of or relating to or practicing psychotherapy."*

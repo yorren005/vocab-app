@@ -5,13 +5,6 @@ status: unread
 ---
 # cryptozoology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of and search for animals and especially legendary animals (such as Sasquatch) usually in order to evaluate the possibility of their existence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of and search for animals and especially legendary animals (such as Sasquatch) usually in order to evaluate the possibility of their existence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptozoology designates the study of and search for animals and especially legendary animals (such as sasquatch) usually in order to evaluate the possibility of their existence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of and search for animals and especially legendary animals (such as Sasquatch) usually in order to evaluate the possibility of their existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of and search for animals and especially legendary animals (such as Sasquatch) usually in order to evaluate the possibility of their existence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptozoology designates the study of and search for animals and especially legendary animals (such as sasquatch) usually in order to evaluate the possibility of their existence."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # videotape
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A video recording made on magnetic tape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relatively wide magnetic tape for use in recording visual images and associated sound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, videotape designates a video recording made on magnetic tape."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A video recording made on magnetic tape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relatively wide magnetic tape for use in recording visual images and associated sound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, videotape designates a video recording made on magnetic tape."*

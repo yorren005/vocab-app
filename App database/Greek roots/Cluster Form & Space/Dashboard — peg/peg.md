@@ -5,15 +5,6 @@ status: unread
 ---
 # peg
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small usually cylindrical pointed or tapered piece (as of wood) used to pin down or fasten things or to fit into or close holes : pin, plug.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clothespin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou more murmur’st, I will rend an oak And peg thee in his knotty entrails till Thou hast howl’d away twelve winters."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lady’s a Cataian, we are politicians, Malvolio’s a Peg-a-Ramsey, and [_Sings._] _Three merry men be we._ Am not I consanguineous?"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I am going out for a walk," Uncle Philip said suddenly, taking down his hat from the peg, and Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small usually cylindrical pointed or tapered piece (as of wood) used to pin down or fasten things or to fit into or close holes : pin, plug.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clothespin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou more murmur’st, I will rend an oak And peg thee in his knotty entrails till Thou hast howl’d away twelve winters."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lady’s a Cataian, we are politicians, Malvolio’s a Peg-a-Ramsey, and [_Sings._] _Three merry men be we._ Am not I consanguineous?"*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I am going out for a walk," Uncle Philip said suddenly, taking down his hat from the peg, and Mrs."*

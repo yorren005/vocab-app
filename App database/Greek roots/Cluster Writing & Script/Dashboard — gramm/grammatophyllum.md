@@ -5,13 +5,6 @@ status: unread
 ---
 # grammatophyllum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of large epiphytic or terrestrial orchids of southeastern asia to polynesia; the giants of the orchidaceae having long narrow leaves and drooping flower clusters often 6 feet long.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of large epiphytic or terrestrial orchids of southeastern asia to polynesia; the giants of the orchidaceae having long narrow leaves and drooping flower clusters often 6 feet long.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, grammatophyllum designates small genus of large epiphytic or terrestrial orchids of southeastern asia to polynesia; the giants of the orchidaceae having long narrow leaves and drooping flower clusters often 6 feet long."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of large epiphytic or terrestrial orchids of southeastern asia to polynesia; the giants of the orchidaceae having long narrow leaves and drooping flower clusters often 6 feet long.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of large epiphytic or terrestrial orchids of southeastern asia to polynesia; the giants of the orchidaceae having long narrow leaves and drooping flower clusters often 6 feet long.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, grammatophyllum designates small genus of large epiphytic or terrestrial orchids of southeastern asia to polynesia; the giants of the orchidaceae having long narrow leaves and drooping flower clusters often 6 feet long."*

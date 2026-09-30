@@ -5,13 +5,6 @@ status: unread
 ---
 # scottie
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Old scottish breed of small long-haired usually black terrier with erect tail and ears.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old scottish breed of small long-haired usually black terrier with erect tail and ears.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scottie designates old scottish breed of small long-haired usually black terrier with erect tail and ears."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Old scottish breed of small long-haired usually black terrier with erect tail and ears.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old scottish breed of small long-haired usually black terrier with erect tail and ears.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scottie designates old scottish breed of small long-haired usually black terrier with erect tail and ears."*

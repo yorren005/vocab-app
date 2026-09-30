@@ -5,13 +5,6 @@ status: unread
 ---
 # semitrance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trancelike state in which the person can follow instructions but voluntary action is weak or absent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trancelike state in which the person can follow instructions but voluntary action is weak or absent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semitrance designates a trancelike state in which the person can follow instructions but voluntary action is weak or absent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A trancelike state in which the person can follow instructions but voluntary action is weak or absent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trancelike state in which the person can follow instructions but voluntary action is weak or absent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semitrance designates a trancelike state in which the person can follow instructions but voluntary action is weak or absent."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # ignored
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refuse to acknowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bar from attention or consideration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Yet the negro is here because men of the seventeenth century ignored the complexity of the labor problem and thought only of its economic aspect."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Jesus could not have ignored the problem of sin and forgiveness, even if he had wished to ignore it."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She's welcome to go six nights a week if she likes." "She couldn't very well go alone," Lawrence ignored the scowl of his host."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Refuse to acknowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bar from attention or consideration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Yet the negro is here because men of the seventeenth century ignored the complexity of the labor problem and thought only of its economic aspect."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Jesus could not have ignored the problem of sin and forgiveness, even if he had wished to ignore it."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"She's welcome to go six nights a week if she likes." "She couldn't very well go alone," Lawrence ignored the scowl of his host."*

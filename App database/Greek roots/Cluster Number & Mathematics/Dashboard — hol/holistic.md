@@ -5,13 +5,6 @@ status: unread
 ---
 # holistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or concerned with complete systems rather than with individual parts; especially : concerned with the whole person, animal, or organism as opposed to a specific part or aspect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to, or based on the theory of holism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holistic designates relating to or concerned with complete systems rather than with individual parts; especially : concerned with the whole person, animal, or organism as opposed to a specific part or aspect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or concerned with complete systems rather than with individual parts; especially : concerned with the whole person, animal, or organism as opposed to a specific part or aspect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to, or based on the theory of holism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holistic designates relating to or concerned with complete systems rather than with individual parts; especially : concerned with the whole person, animal, or organism as opposed to a specific part or aspect."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # pudendal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or near the pudendum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or near the pudendum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"VIRAG: _(Prompts in a pig’s whisper.)_ Insects of the day spend their brief existence in reiterated coition, lured by the smell of the inferiorly pulchritudinous female possessing extendified pudendal nerve in dorsal region."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or near the pudendum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or near the pudendum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"VIRAG: _(Prompts in a pig’s whisper.)_ Insects of the day spend their brief existence in reiterated coition, lured by the smell of the inferiorly pulchritudinous female possessing extendified pudendal nerve in dorsal region."*

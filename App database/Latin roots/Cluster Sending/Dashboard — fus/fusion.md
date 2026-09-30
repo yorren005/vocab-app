@@ -5,15 +5,6 @@ status: unread
 ---
 # fusion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An occurrence that involves the production of a union.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being combined into one body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak belonged to the even-tempered order of humanity, and felt the secret fusion of himself in Bathsheba to be burning with a finer flame now that she was gone—that was all."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oh, be kind to him, sir, for I love him true!” Boldwood’s ideas had reached that point of fusion at which outline and consistency entirely disappear."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Windstorm had launched a guided fusion warhead."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An occurrence that involves the production of a union.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being combined into one body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak belonged to the even-tempered order of humanity, and felt the secret fusion of himself in Bathsheba to be burning with a finer flame now that she was gone—that was all."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oh, be kind to him, sir, for I love him true!” Boldwood’s ideas had reached that point of fusion at which outline and consistency entirely disappear."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Windstorm had launched a guided fusion warhead."*

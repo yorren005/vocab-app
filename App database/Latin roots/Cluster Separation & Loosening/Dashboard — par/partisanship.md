@@ -5,15 +5,6 @@ status: unread
 ---
 # partisanship
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination to favor one group or view or opinion over alternatives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclination to favor one group or view or opinion over alternatives.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Featherstone, two of Peacock’s most important patients, had, from different causes, given an especially good reception to his successor, who had raised some partisanship as well as discussion."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The embers of discord may convulse a State until justice shall be enthroned over mad partisanship, but peace and justice are the inexorable purposes of the people, and they will be obeyed."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"That is non-partisanship in the administration of this Government!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination to favor one group or view or opinion over alternatives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclination to favor one group or view or opinion over alternatives.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Featherstone, two of Peacock’s most important patients, had, from different causes, given an especially good reception to his successor, who had raised some partisanship as well as discussion."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The embers of discord may convulse a State until justice shall be enthroned over mad partisanship, but peace and justice are the inexorable purposes of the people, and they will be obeyed."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"That is non-partisanship in the administration of this Government!"*

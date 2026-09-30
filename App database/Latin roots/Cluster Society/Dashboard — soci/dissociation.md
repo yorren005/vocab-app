@@ -5,15 +5,6 @@ status: unread
 ---
 # dissociation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of removing from association.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in which some integrated part of a person's life becomes separated from the rest of the personality and functions independently.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He leant back against the hives, and with upturned face made observations on the stars, whose cold pulses were beating amid the black hollows above, in serene dissociation from these two wisps of human life."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"It suffered its first setback through the dissociation of that republic from the newly born League of Nations which that president had labored to create."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"He objected to the dissociation of school and home life--to that relegation of domestic interests and duties to the background, which large and highly-organized schools, and teachers much above the home level, must necessarily involve."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of removing from association.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in which some integrated part of a person's life becomes separated from the rest of the personality and functions independently.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He leant back against the hives, and with upturned face made observations on the stars, whose cold pulses were beating amid the black hollows above, in serene dissociation from these two wisps of human life."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"It suffered its first setback through the dissociation of that republic from the newly born League of Nations which that president had labored to create."*
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"He objected to the dissociation of school and home life--to that relegation of domestic interests and duties to the background, which large and highly-organized schools, and teachers much above the home level, must necessarily involve."*

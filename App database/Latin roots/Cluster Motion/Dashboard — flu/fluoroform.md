@@ -5,13 +5,6 @@ status: unread
 ---
 # fluoroform
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Colorless gas haloform chf3 (similar to chloroform).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colorless gas haloform chf3 (similar to chloroform).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluoroform designates colorless gas haloform chf3 (similar to chloroform)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Colorless gas haloform chf3 (similar to chloroform).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colorless gas haloform chf3 (similar to chloroform).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluoroform designates colorless gas haloform chf3 (similar to chloroform)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # otoscope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medical instrument consisting of a magnifying lens and light; used for examining the external ear (the auditory meatus and especially the tympanic membrane).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medical instrument consisting of a magnifying lens and light; used for examining the external ear (the auditory meatus and especially the tympanic membrane).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otoscope designates medical instrument consisting of a magnifying lens and light; used for examining the external ear (the auditory meatus and especially the tympanic membrane)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Medical instrument consisting of a magnifying lens and light; used for examining the external ear (the auditory meatus and especially the tympanic membrane).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medical instrument consisting of a magnifying lens and light; used for examining the external ear (the auditory meatus and especially the tympanic membrane).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otoscope designates medical instrument consisting of a magnifying lens and light; used for examining the external ear (the auditory meatus and especially the tympanic membrane)."*

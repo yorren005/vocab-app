@@ -5,15 +5,6 @@ status: unread
 ---
 # respectably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a tolerably worthy extent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a decent and morally reputable manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Hughes, satisfied with having so respectably settled her young charge, returned to her party."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"However, when I had brushed my hair very smooth, and put on my black frock—which, Quakerlike as it was, at least had the merit of fitting to a nicety—and adjusted my clean white tucker, I thought I should do respectably enough to appear before Mrs."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Seeing a respectably-dressed person, a lady as she supposed, she came forward with civility."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a tolerably worthy extent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a decent and morally reputable manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Hughes, satisfied with having so respectably settled her young charge, returned to her party."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"However, when I had brushed my hair very smooth, and put on my black frock—which, Quakerlike as it was, at least had the merit of fitting to a nicety—and adjusted my clean white tucker, I thought I should do respectably enough to appear before Mrs."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Seeing a respectably-dressed person, a lady as she supposed, she came forward with civility."*

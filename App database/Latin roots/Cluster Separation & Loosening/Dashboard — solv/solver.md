@@ -5,13 +5,6 @@ status: unread
 ---
 # solver
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thinker who focuses on the problem as stated and tries to synthesize information and knowledge to achieve a solution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thinker who focuses on the problem as stated and tries to synthesize information and knowledge to achieve a solution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solver designates a thinker who focuses on the problem as stated and tries to synthesize information and knowledge to achieve a solution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thinker who focuses on the problem as stated and tries to synthesize information and knowledge to achieve a solution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thinker who focuses on the problem as stated and tries to synthesize information and knowledge to achieve a solution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solver designates a thinker who focuses on the problem as stated and tries to synthesize information and knowledge to achieve a solution."*

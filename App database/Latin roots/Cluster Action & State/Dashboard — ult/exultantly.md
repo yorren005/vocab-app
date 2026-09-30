@@ -5,15 +5,6 @@ status: unread
 ---
 # exultantly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an exultant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an exultant manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He took great pleasure in the little prayer-meetings, and in three months cheerfully and exultantly exchanged this world of suffering for the one where father, brother and sister awaited him."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"T ain't nine o'clock yet," she said, exultantly."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Pools of water lay on the leads, the sun just gleamed out from between dark clouds, and birds chirped exultantly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an exultant manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an exultant manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"He took great pleasure in the little prayer-meetings, and in three months cheerfully and exultantly exchanged this world of suffering for the one where father, brother and sister awaited him."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"T ain't nine o'clock yet," she said, exultantly."*
+> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Pools of water lay on the leads, the sun just gleamed out from between dark clouds, and birds chirped exultantly."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # alliterative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the same consonant at the beginning of each stressed syllable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the same consonant at the beginning of each stressed syllable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"An alliterative prefix served as an ornament of oratory."*
-> - 📜 **James Joyce (*Ulysses*):** *"The metrical system of the canine original, which recalls the intricate alliterative and isosyllabic rules of the Welsh englyn, is infinitely more complicated but we believe our readers will agree that the spirit has been well caught."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the same consonant at the beginning of each stressed syllable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the same consonant at the beginning of each stressed syllable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"An alliterative prefix served as an ornament of oratory."*
+> - 📜 **James Joyce (*Ulysses*):** *"The metrical system of the canine original, which recalls the intricate alliterative and isosyllabic rules of the Welsh englyn, is infinitely more complicated but we believe our readers will agree that the spirit has been well caught."*

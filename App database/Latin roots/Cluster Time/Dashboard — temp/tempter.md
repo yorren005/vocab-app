@@ -5,15 +5,6 @@ status: unread
 ---
 # tempter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who tempts others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who tempts others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The tempter or the tempted, who sins most, ha?"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Think of the lonesomeness; the time for the tempter to come and lead him to distrust in his Lord."*
-> - 📜 **John Milton (*Paradise Lost*):** *"So gloz’d the Tempter, and his Proem tun’d; Into the Heart of _Eve_ his words made way, Though at the voice much marveling; at length Not unamaz’d she thus in answer spake."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who tempts others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who tempts others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The tempter or the tempted, who sins most, ha?"*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Think of the lonesomeness; the time for the tempter to come and lead him to distrust in his Lord."*
+> - 📜 **John Milton (*Paradise Lost*):** *"So gloz’d the Tempter, and his Proem tun’d; Into the Heart of _Eve_ his words made way, Though at the voice much marveling; at length Not unamaz’d she thus in answer spake."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # proverb
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Byword
-> 2. **Nuance / Usage**: Speak of proverbially
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the proverb withstood the storm*), direct object (*cleaved the proverb*), or prepositional anchor (*amidst the proverb*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Have at you with a proverb:—Shall I set in my staff?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Ay, sir, but while the grass grows—the proverb is something musty."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I will cap that proverb with “There is flattery in friendship."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Byword
+> 2. **Nuance / Usage**: Speak of proverbially
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the proverb withstood the storm*), direct object (*cleaved the proverb*), or prepositional anchor (*amidst the proverb*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Have at you with a proverb:—Shall I set in my staff?"*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Ay, sir, but while the grass grows—the proverb is something musty."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I will cap that proverb with “There is flattery in friendship."*

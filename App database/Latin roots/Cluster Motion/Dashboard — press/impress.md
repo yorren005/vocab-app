@@ -5,15 +5,6 @@ status: unread
 ---
 # impress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of coercing someone into government service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have an emotional or cognitive impact upon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your ships are not well manned, Your mariners are muleteers, reapers, people Engrossed by swift impress."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, I thought it fit To send the old and miserable King To some retention and appointed guard; Whose age has charms in it, whose title more, To pluck the common bosom on his side, And turn our impress’d lances in our eyes Which do command them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That will never be: Who can impress the forest; bid the tree Unfix his earth-bound root?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of coercing someone into government service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have an emotional or cognitive impact upon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your ships are not well manned, Your mariners are muleteers, reapers, people Engrossed by swift impress."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, I thought it fit To send the old and miserable King To some retention and appointed guard; Whose age has charms in it, whose title more, To pluck the common bosom on his side, And turn our impress’d lances in our eyes Which do command them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That will never be: Who can impress the forest; bid the tree Unfix his earth-bound root?"*

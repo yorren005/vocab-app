@@ -5,15 +5,6 @@ status: unread
 ---
 # punctually
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At the proper time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At the proper time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Usually Apollonie was dreadfully anxious to hear how punctually she had fulfilled her duties, and she always chose lunch-time for that purpose because then no other affair interfered with talking."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I always do my duty punctually and I like to do it because you belong to the castle."*
-> - 📜 **Jane Austen (*Persuasion*):** *"She could not keep her appointment punctually, however; the weather was unfavourable, and she had grieved over the rain on her friends’ account, and felt it very much on her own, before she was able to attempt the walk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At the proper time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At the proper time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Usually Apollonie was dreadfully anxious to hear how punctually she had fulfilled her duties, and she always chose lunch-time for that purpose because then no other affair interfered with talking."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I always do my duty punctually and I like to do it because you belong to the castle."*
+> - 📜 **Jane Austen (*Persuasion*):** *"She could not keep her appointment punctually, however; the weather was unfavourable, and she had grieved over the rain on her friends’ account, and felt it very much on her own, before she was able to attempt the walk."*

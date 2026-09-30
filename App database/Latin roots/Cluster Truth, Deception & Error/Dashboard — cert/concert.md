@@ -5,15 +5,6 @@ status: unread
 ---
 # concert
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A performance of music by players or singers not involving theatrical staging.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contrive (a plan) by mutual agreement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"After tea we had quite a little concert, in which Richard—who was enthralled by Ada’s singing and told me that she seemed to know all the songs that ever were written—and Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Concert, assembly, opera, theatre, drive, nothing is new to my Lady under the worn-out heavens."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Miss Jellyby informed me that the academy had been lent, last night, for a concert."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A performance of music by players or singers not involving theatrical staging.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contrive (a plan) by mutual agreement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"After tea we had quite a little concert, in which Richard—who was enthralled by Ada’s singing and told me that she seemed to know all the songs that ever were written—and Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Concert, assembly, opera, theatre, drive, nothing is new to my Lady under the worn-out heavens."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Miss Jellyby informed me that the academy had been lent, last night, for a concert."*

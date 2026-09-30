@@ -5,13 +5,6 @@ status: unread
 ---
 # protoarcheology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of prehistoric human artifacts and human fossils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of prehistoric human artifacts and human fossils.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protoarcheology designates the study of prehistoric human artifacts and human fossils."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of prehistoric human artifacts and human fossils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of prehistoric human artifacts and human fossils.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protoarcheology designates the study of prehistoric human artifacts and human fossils."*

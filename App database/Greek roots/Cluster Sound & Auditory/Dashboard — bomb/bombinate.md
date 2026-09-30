@@ -5,13 +5,6 @@ status: unread
 ---
 # bombinate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a buzzing sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a buzzing sound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombinate designates make a buzzing sound."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a buzzing sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a buzzing sound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bombinate designates make a buzzing sound."*

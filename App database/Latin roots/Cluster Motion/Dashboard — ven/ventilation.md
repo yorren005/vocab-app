@@ -5,15 +5,6 @@ status: unread
 ---
 # ventilation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of supplying fresh air and getting rid of foul air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical system in a building that provides fresh air.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Along each side wall was a range of striding buttresses, throwing deep shadows on the spaces between them, which were perforated by lancet openings, combining in their proportions the precise requirements both of beauty and ventilation."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Up here also the shutters were tightly closed, the ventilation being perfunctorily done, for this day at least, by opening the hall-window in front and an upper window behind."*
-> - 📜 **George Eliot (*Middlemarch*):** *"However, I think he is likely to be first-rate—has studied in Paris, knew Broussais; has ideas, you know—wants to raise the profession.” “Lydgate has lots of ideas, quite new, about ventilation and diet, that sort of thing,” resumed Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of supplying fresh air and getting rid of foul air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical system in a building that provides fresh air.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Along each side wall was a range of striding buttresses, throwing deep shadows on the spaces between them, which were perforated by lancet openings, combining in their proportions the precise requirements both of beauty and ventilation."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Up here also the shutters were tightly closed, the ventilation being perfunctorily done, for this day at least, by opening the hall-window in front and an upper window behind."*
+> - 📜 **George Eliot (*Middlemarch*):** *"However, I think he is likely to be first-rate—has studied in Paris, knew Broussais; has ideas, you know—wants to raise the profession.” “Lydgate has lots of ideas, quite new, about ventilation and diet, that sort of thing,” resumed Mr."*

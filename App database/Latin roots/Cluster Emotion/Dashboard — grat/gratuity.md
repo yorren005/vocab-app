@@ -5,15 +5,6 @@ status: unread
 ---
 # gratuity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A relatively small amount of money given for services rendered (as by a waiter).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An award (as for meritorious service) given without claim or obligation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She heard Jonathan Kail’s heavy footsteps up and down the stairs till he had done placing the luggage, and heard him express his thanks for the ale her husband took out to him, and for the gratuity he received."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A third, in the absence of opponents, between two councils would simply solicit a special gratuity for his faithful services, well knowing that at that moment people would be too busy to refuse him."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"He may _enjoy_ this finer tribute--that is another affair, but on condition only of taking it as a gratuity “thrown in,” a mere miraculous windfall, the fruit of a tree he may not pretend to have shaken."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A relatively small amount of money given for services rendered (as by a waiter).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An award (as for meritorious service) given without claim or obligation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She heard Jonathan Kail’s heavy footsteps up and down the stairs till he had done placing the luggage, and heard him express his thanks for the ale her husband took out to him, and for the gratuity he received."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A third, in the absence of opponents, between two councils would simply solicit a special gratuity for his faithful services, well knowing that at that moment people would be too busy to refuse him."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"He may _enjoy_ this finer tribute--that is another affair, but on condition only of taking it as a gratuity “thrown in,” a mere miraculous windfall, the fruit of a tree he may not pretend to have shaken."*

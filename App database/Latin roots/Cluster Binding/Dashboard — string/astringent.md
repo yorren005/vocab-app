@@ -5,14 +5,6 @@ status: unread
 ---
 # astringent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that causes contraction of body tissues and canals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sour or bitter in taste.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Where the astringent memory of Lizzie came into play, Lawrence was dumb."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Whatever pleasant or unpleasant, sweet or not sweet, bitter or astringent thing meets his tongue will become of the finest flavour, like heavenly nectar; nothing will be unpleasant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that causes contraction of body tissues and canals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sour or bitter in taste.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Where the astringent memory of Lizzie came into play, Lawrence was dumb."*
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Whatever pleasant or unpleasant, sweet or not sweet, bitter or astringent thing meets his tongue will become of the finest flavour, like heavenly nectar; nothing will be unpleasant."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # instantaneously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without any delay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without any delay.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The lightning works instantaneously."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Though the doctor had often tried and thought, yet it was not till the last prayer and call on God, brought the remedy to his mind." PRAYER INSTANTANEOUSLY ANSWERED FOR CONVERSION."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her heart instantaneously at ease on this point, she resolved to lose no time in particular examination of anything, as she greatly dreaded disobliging the General by any delay."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without any delay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without any delay.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The lightning works instantaneously."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Though the doctor had often tried and thought, yet it was not till the last prayer and call on God, brought the remedy to his mind." PRAYER INSTANTANEOUSLY ANSWERED FOR CONVERSION."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her heart instantaneously at ease on this point, she resolved to lose no time in particular examination of anything, as she greatly dreaded disobliging the General by any delay."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # ungenerous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in magnanimity; - times litt. sup.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unwilling to spend.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She said in the same breath that it would be ungenerous not to marry Boldwood, and that she couldn’t do it to save her life."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She would admit the ungenerous sentiment no longer."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Isabella appeared to her ungenerous and selfish, regardless of everything but her own gratification."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in magnanimity; - times litt. sup.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unwilling to spend.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She said in the same breath that it would be ungenerous not to marry Boldwood, and that she couldn’t do it to save her life."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She would admit the ungenerous sentiment no longer."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Isabella appeared to her ungenerous and selfish, regardless of everything but her own gratification."*

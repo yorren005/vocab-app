@@ -5,14 +5,6 @@ status: unread
 ---
 # retrospectively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner contemplative of past events.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner contemplative of past events.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers nodded his head retrospectively two or three times, and actually drew a sigh."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"It-can’t-be,” muttered Sydney Carton, retrospectively, and idling his glass (which fortunately was a small one) again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner contemplative of past events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner contemplative of past events.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers nodded his head retrospectively two or three times, and actually drew a sigh."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"It-can’t-be,” muttered Sydney Carton, retrospectively, and idling his glass (which fortunately was a small one) again."*

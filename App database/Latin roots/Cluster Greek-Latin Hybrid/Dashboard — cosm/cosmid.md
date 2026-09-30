@@ -5,13 +5,6 @@ status: unread
 ---
 # cosmid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (genetics) a large vector that is made from a bacteriophage and used to clone genes or gene fragments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) a large vector that is made from a bacteriophage and used to clone genes or gene fragments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmid designates (genetics) a large vector that is made from a bacteriophage and used to clone genes or gene fragments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (genetics) a large vector that is made from a bacteriophage and used to clone genes or gene fragments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) a large vector that is made from a bacteriophage and used to clone genes or gene fragments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cosmid designates (genetics) a large vector that is made from a bacteriophage and used to clone genes or gene fragments."*

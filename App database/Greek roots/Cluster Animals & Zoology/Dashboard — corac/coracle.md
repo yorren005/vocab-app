@@ -5,15 +5,6 @@ status: unread
 ---
 # coracle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small rounded boat made of hides stretched over a wicker frame; still used in some parts of great britain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small rounded boat made of hides stretched over a wicker frame; still used in some parts of great britain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It was over Moyle that Columkill went in his little coracle to be a hermit in Iona, the gentlest saint that Ireland ever knew."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"There was the voyage of Maeldun, who had set out in his coracle, and visited strange islands."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"He was heading it toward a coracle, manned by one Rock-warrior, that was next in the general line."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small rounded boat made of hides stretched over a wicker frame; still used in some parts of great britain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small rounded boat made of hides stretched over a wicker frame; still used in some parts of great britain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It was over Moyle that Columkill went in his little coracle to be a hermit in Iona, the gentlest saint that Ireland ever knew."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"There was the voyage of Maeldun, who had set out in his coracle, and visited strange islands."*
+> - 📜 **F. H. Costello (*Sure-dart*):** *"He was heading it toward a coracle, manned by one Rock-warrior, that was next in the general line."*

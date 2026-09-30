@@ -5,13 +5,6 @@ status: unread
 ---
 # capriccio
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrumental composition that doesn't adhere to rules for any specific musical form and is played with improvisation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrumental composition that doesn't adhere to rules for any specific musical form and is played with improvisation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capriccio designates an instrumental composition that doesn't adhere to rules for any specific musical form and is played with improvisation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrumental composition that doesn't adhere to rules for any specific musical form and is played with improvisation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrumental composition that doesn't adhere to rules for any specific musical form and is played with improvisation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, capriccio designates an instrumental composition that doesn't adhere to rules for any specific musical form and is played with improvisation."*

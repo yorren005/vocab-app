@@ -5,13 +5,6 @@ status: unread
 ---
 # xylosma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrub or small tree grown as an ornamental in mild climates for its neat evergreen foliage and fragrant late flowers; native of china.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrub or small tree grown as an ornamental in mild climates for its neat evergreen foliage and fragrant late flowers; native of china.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylosma designates shrub or small tree grown as an ornamental in mild climates for its neat evergreen foliage and fragrant late flowers; native of china."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrub or small tree grown as an ornamental in mild climates for its neat evergreen foliage and fragrant late flowers; native of china.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrub or small tree grown as an ornamental in mild climates for its neat evergreen foliage and fragrant late flowers; native of china.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xylosma designates shrub or small tree grown as an ornamental in mild climates for its neat evergreen foliage and fragrant late flowers; native of china."*

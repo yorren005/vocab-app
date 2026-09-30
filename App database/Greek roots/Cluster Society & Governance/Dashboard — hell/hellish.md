@@ -5,15 +5,6 @@ status: unread
 ---
 # hellish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very unpleasant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely evil or cruel; expressive of cruelty or befitting hell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Roasted in wrath and fire, And thus o’ersized with coagulate gore, With eyes like carbuncles, the hellish Pyrrhus Old grandsire Priam seeks._ So, proceed you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pucelle, that witch, that damned sorceress, Hath wrought this hellish mischief unawares, That hardly we escaped the pride of France. [_Exit._] An alarum."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be so, How little is the cost I have bestowed In purchasing the semblance of my soul From out the state of hellish cruelty!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very unpleasant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely evil or cruel; expressive of cruelty or befitting hell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Roasted in wrath and fire, And thus o’ersized with coagulate gore, With eyes like carbuncles, the hellish Pyrrhus Old grandsire Priam seeks._ So, proceed you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pucelle, that witch, that damned sorceress, Hath wrought this hellish mischief unawares, That hardly we escaped the pride of France. [_Exit._] An alarum."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be so, How little is the cost I have bestowed In purchasing the semblance of my soul From out the state of hellish cruelty!"*

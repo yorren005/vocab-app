@@ -5,13 +5,6 @@ status: unread
 ---
 # monitrice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An assistant (often the father of the soon-to-be-born child) who provides support for a woman in labor by encouraging her to use techniques learned in childbirth-preparation classes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assistant (often the father of the soon-to-be-born child) who provides support for a woman in labor by encouraging her to use techniques learned in childbirth-preparation classes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monitrice designates an assistant (often the father of the soon-to-be-born child) who provides support for a woman in labor by encouraging her to use techniques learned in childbirth-preparation classes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An assistant (often the father of the soon-to-be-born child) who provides support for a woman in labor by encouraging her to use techniques learned in childbirth-preparation classes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assistant (often the father of the soon-to-be-born child) who provides support for a woman in labor by encouraging her to use techniques learned in childbirth-preparation classes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monitrice designates an assistant (often the father of the soon-to-be-born child) who provides support for a woman in labor by encouraging her to use techniques learned in childbirth-preparation classes."*

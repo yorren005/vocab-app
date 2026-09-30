@@ -5,13 +5,6 @@ status: unread
 ---
 # purim
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (judaism) a jewish holy day commemorating their deliverance from massacre by haman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (judaism) a jewish holy day commemorating their deliverance from massacre by haman.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purim designates (judaism) a jewish holy day commemorating their deliverance from massacre by haman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (judaism) a jewish holy day commemorating their deliverance from massacre by haman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (judaism) a jewish holy day commemorating their deliverance from massacre by haman.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purim designates (judaism) a jewish holy day commemorating their deliverance from massacre by haman."*

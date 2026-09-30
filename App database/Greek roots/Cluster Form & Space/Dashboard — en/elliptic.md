@@ -5,15 +5,6 @@ status: unread
 ---
 # elliptic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or shaped like an ellipse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or marked by ellipsis or an ellipsis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The specific name will suggest one point of difference between the two fungi, as in this instance the spores are white, and somewhat elliptic."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spores are elliptic and but slightly constricted; the apex is often pointed, though not always so much as in our figure (fig. 74)."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The fertile threads are produced in dense clusters, each many times branched, and bearing elliptic acrospores obtuse at their apices, and of a violaceous tint (fig. 266)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or shaped like an ellipse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or marked by ellipsis or an ellipsis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The specific name will suggest one point of difference between the two fungi, as in this instance the spores are white, and somewhat elliptic."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spores are elliptic and but slightly constricted; the apex is often pointed, though not always so much as in our figure (fig. 74)."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The fertile threads are produced in dense clusters, each many times branched, and bearing elliptic acrospores obtuse at their apices, and of a violaceous tint (fig. 266)."*

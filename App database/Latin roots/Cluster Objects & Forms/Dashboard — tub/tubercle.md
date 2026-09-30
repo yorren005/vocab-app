@@ -5,15 +5,6 @@ status: unread
 ---
 # tubercle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A swelling that is the characteristic lesion of tuberculosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small rounded wartlike protuberance on a plant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They belonged to the tubercle kind which are peculiar to the Indian seas."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"In one case the organ was originally wanting, but its place was supplied by a small tubercle, and the uvula was perfect."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In November, 1879, her physician had decided that tubercles had formed in the left lung, and that the right lung was much congested and hardened."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A swelling that is the characteristic lesion of tuberculosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small rounded wartlike protuberance on a plant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They belonged to the tubercle kind which are peculiar to the Indian seas."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"In one case the organ was originally wanting, but its place was supplied by a small tubercle, and the uvula was perfect."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"In November, 1879, her physician had decided that tubercles had formed in the left lung, and that the right lung was much congested and hardened."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # auriferous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing gold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing gold.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Douglas that he had discovered an auriferous reef on Johannet Island, situated in the above named group, showing him specimens therefrom."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"AURIFEROUS, pertaining to an orifice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing gold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing gold.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Douglas that he had discovered an auriferous reef on Johannet Island, situated in the above named group, showing him specimens therefrom."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"AURIFEROUS, pertaining to an orifice."*

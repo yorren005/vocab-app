@@ -5,15 +5,6 @@ status: unread
 ---
 # posed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Introduce.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assume a posture as for artistic purposes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It posed the lad, made him more perfect, as it were."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Allen?" Camari's raised brows posed his question."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Questions posed in one context were injected into others or phrased to highlight a wide range of diverse interests and nuances."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Introduce.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assume a posture as for artistic purposes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It posed the lad, made him more perfect, as it were."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Allen?" Camari's raised brows posed his question."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Questions posed in one context were injected into others or phrased to highlight a wide range of diverse interests and nuances."*

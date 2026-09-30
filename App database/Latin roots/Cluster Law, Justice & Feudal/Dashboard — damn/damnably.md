@@ -5,15 +5,6 @@ status: unread
 ---
 # damnably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a damnable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a damnable manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have misused the King’s press damnably."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"She was so clean, so cool, so damnably self-possessed."*
-> - 📜 **James Joyce (*Ulysses*):** *"BEAUFOY: _(Shouts.)_ It’s a damnably foul lie, showing the moral rottenness of the man! _(He extends his portfolio.)_ We have here damning evidence, the _corpus delicti_, my lord, a specimen of my maturer work disfigured by the hallmark of the beast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a damnable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a damnable manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have misused the King’s press damnably."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"She was so clean, so cool, so damnably self-possessed."*
+> - 📜 **James Joyce (*Ulysses*):** *"BEAUFOY: _(Shouts.)_ It’s a damnably foul lie, showing the moral rottenness of the man! _(He extends his portfolio.)_ We have here damning evidence, the _corpus delicti_, my lord, a specimen of my maturer work disfigured by the hallmark of the beast."*

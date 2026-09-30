@@ -5,15 +5,6 @@ status: unread
 ---
 # applicable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being applied; having relevance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being applied; having relevance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It appears to me that this maxim is applicable to the medical as well as to the nautical profession.” “To all professions,” observed Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And miste.” Governor and commander are interchangeable terms with Phil, expressive of the same respect and deference and applicable to nobody but Mr."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The quotations of Scripture made by our Lord to Satan, "Thou shalt not tempt the Lord, thy God," is surely applicable in all such cases."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being applied; having relevance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being applied; having relevance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It appears to me that this maxim is applicable to the medical as well as to the nautical profession.” “To all professions,” observed Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And miste.” Governor and commander are interchangeable terms with Phil, expressive of the same respect and deference and applicable to nobody but Mr."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The quotations of Scripture made by our Lord to Satan, "Thou shalt not tempt the Lord, thy God," is surely applicable in all such cases."*

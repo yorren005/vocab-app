@@ -5,15 +5,6 @@ status: unread
 ---
 # leviathan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest or most massive thing of its kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Monstrous sea creature symbolizing evil in the old testament.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We may as bootless spend our vain command Upon the enraged soldiers in their spoil As send precepts to the leviathan To come ashore."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fetch me this herb, and be thou here again Ere the leviathan can swim a league."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Where else but from Nantucket did those aboriginal whalemen, the Red-Men, first sally out in canoes to give chase to the Leviathan?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest or most massive thing of its kind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Monstrous sea creature symbolizing evil in the old testament.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We may as bootless spend our vain command Upon the enraged soldiers in their spoil As send precepts to the leviathan To come ashore."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fetch me this herb, and be thou here again Ere the leviathan can swim a league."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Where else but from Nantucket did those aboriginal whalemen, the Red-Men, first sally out in canoes to give chase to the Leviathan?"*

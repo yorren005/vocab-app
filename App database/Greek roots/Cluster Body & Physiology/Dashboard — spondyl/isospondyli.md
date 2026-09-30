@@ -5,13 +5,6 @@ status: unread
 ---
 # isospondyli
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Most primitive teleost fishes; all are soft-finned: salmon; trout; herring; shad; sardines; anchovies; whitefish; smelts; tarpon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most primitive teleost fishes; all are soft-finned: salmon; trout; herring; shad; sardines; anchovies; whitefish; smelts; tarpon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isospondyli designates most primitive teleost fishes; all are soft-finned: salmon; trout; herring; shad; sardines; anchovies; whitefish; smelts; tarpon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Most primitive teleost fishes; all are soft-finned: salmon; trout; herring; shad; sardines; anchovies; whitefish; smelts; tarpon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most primitive teleost fishes; all are soft-finned: salmon; trout; herring; shad; sardines; anchovies; whitefish; smelts; tarpon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isospondyli designates most primitive teleost fishes; all are soft-finned: salmon; trout; herring; shad; sardines; anchovies; whitefish; smelts; tarpon."*

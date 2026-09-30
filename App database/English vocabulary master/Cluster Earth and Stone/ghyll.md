@@ -5,19 +5,6 @@ status: unread
 ---
 # ghyll
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (scotland, northern england) a ravine
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the ghyll withstood the storm*), direct object (*cleaved the ghyll*), or prepositional anchor (*amidst the ghyll*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Wordsworth (*An Evening Walk*):** *"The roaring ghyll that foams between the steep and craggy rocks."*
-> - 📜 **Samuel Taylor Coleridge (*Letters and Notebooks*):** *"We climbed by the side of the loud ghyll, where the waters plunged into the stony basin."*
-> - 📜 **Beatrix Potter (*The Tale of Mrs. Tiggy-Winkle*):** *"She walked up the hill and along by the side of the ghyll where the ferns grew high."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -53,3 +40,16 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: (scotland, northern england) a ravine
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the ghyll withstood the storm*), direct object (*cleaved the ghyll*), or prepositional anchor (*amidst the ghyll*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Wordsworth (*An Evening Walk*):** *"The roaring ghyll that foams between the steep and craggy rocks."*
+> - 📜 **Samuel Taylor Coleridge (*Letters and Notebooks*):** *"We climbed by the side of the loud ghyll, where the waters plunged into the stony basin."*
+> - 📜 **Beatrix Potter (*The Tale of Mrs. Tiggy-Winkle*):** *"She walked up the hill and along by the side of the ghyll where the ferns grew high."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # rarified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having low density.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of high moral or intellectual value; elevated in nature or style; ; - oliver franks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"To Shelley's ethereal vision the most rarified mental or spiritual music traced its beautiful corresponding forms on the sand of outward things."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having low density.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of high moral or intellectual value; elevated in nature or style; ; - oliver franks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"To Shelley's ethereal vision the most rarified mental or spiritual music traced its beautiful corresponding forms on the sand of outward things."*

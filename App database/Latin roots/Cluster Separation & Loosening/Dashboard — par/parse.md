@@ -5,14 +5,6 @@ status: unread
 ---
 # parse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Analyze syntactically by assigning a constituent structure to (a sentence).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Analyze syntactically by assigning a constituent structure to (a sentence).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A little boy was at school, he was diligent, and determined to succeed, but found that parsing was rather hard."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"The grammar class were parsed and analyzed within an inch of their lives."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Analyze syntactically by assigning a constituent structure to (a sentence).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Analyze syntactically by assigning a constituent structure to (a sentence).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A little boy was at school, he was diligent, and determined to succeed, but found that parsing was rather hard."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"The grammar class were parsed and analyzed within an inch of their lives."*

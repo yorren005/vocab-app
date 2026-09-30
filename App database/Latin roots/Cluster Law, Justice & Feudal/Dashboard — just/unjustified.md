@@ -5,14 +5,6 @@ status: unread
 ---
 # unjustified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking justification or authorization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking justification or authorization.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Someone has spoken of his "apparently unjustified faith in Peter." What names he can give to his friends as a result of this faith in them!"*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Anne went to his room at twilight and talked to him seriously . . . a method in which she had great faith, not altogether unjustified by results."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking justification or authorization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking justification or authorization.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Someone has spoken of his "apparently unjustified faith in Peter." What names he can give to his friends as a result of this faith in them!"*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Anne went to his room at twilight and talked to him seriously . . . a method in which she had great faith, not altogether unjustified by results."*

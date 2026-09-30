@@ -5,15 +5,6 @@ status: unread
 ---
 # configuration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of parts or elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any spatial attributes (especially as defined by outline).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Quale meant in intellectual beauty—and whether we were not struck by his massive configuration of brow."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"No two ships have the same configuration, so each checklist will have to be tailored."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Who can foresee the wondrous changes in the configuration of the land that would be wrought by such a convulsion of nature?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of parts or elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any spatial attributes (especially as defined by outline).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Quale meant in intellectual beauty—and whether we were not struck by his massive configuration of brow."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"No two ships have the same configuration, so each checklist will have to be tailored."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Who can foresee the wondrous changes in the configuration of the land that would be wrought by such a convulsion of nature?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # tripartite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving three parties or elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving three parties or elements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tripartite designates involving three parties or elements."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving three parties or elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving three parties or elements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tripartite designates involving three parties or elements."*

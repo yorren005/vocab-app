@@ -5,13 +5,6 @@ status: unread
 ---
 # glycosidic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous sugar derivatives that contain a nonsugar group bonded to an oxygen or nitrogen atom and that on hydrolysis yield a sugar (such as glucose).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous sugar derivatives that contain a nonsugar group bonded to an oxygen or nitrogen atom and that on hydrolysis yield a sugar (such as glucose).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycosidic designates any of numerous sugar derivatives that contain a nonsugar group bonded to an oxygen or nitrogen atom and that on hydrolysis yield a sugar (such as glucose)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous sugar derivatives that contain a nonsugar group bonded to an oxygen or nitrogen atom and that on hydrolysis yield a sugar (such as glucose).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous sugar derivatives that contain a nonsugar group bonded to an oxygen or nitrogen atom and that on hydrolysis yield a sugar (such as glucose).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycosidic designates any of numerous sugar derivatives that contain a nonsugar group bonded to an oxygen or nitrogen atom and that on hydrolysis yield a sugar (such as glucose)."*

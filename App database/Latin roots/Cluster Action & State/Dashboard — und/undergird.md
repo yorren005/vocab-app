@@ -5,13 +5,6 @@ status: unread
 ---
 # undergird
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lend moral support to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make secure underneath.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undergird designates lend moral support to."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lend moral support to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make secure underneath.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undergird designates lend moral support to."*

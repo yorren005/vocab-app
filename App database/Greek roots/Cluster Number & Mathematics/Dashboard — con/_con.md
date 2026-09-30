@@ -5,13 +5,6 @@ status: unread
 ---
 # _con
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (such as a ruse) used deceptively to gain another's confidence; also : a confidence game : swindle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something (such as a ruse) used deceptively to gain another's confidence; also : a confidence game : swindle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, _con designates something (such as a ruse) used deceptively to gain another's confidence; also : a confidence game : swindle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (such as a ruse) used deceptively to gain another's confidence; also : a confidence game : swindle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something (such as a ruse) used deceptively to gain another's confidence; also : a confidence game : swindle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, _con designates something (such as a ruse) used deceptively to gain another's confidence; also : a confidence game : swindle."*

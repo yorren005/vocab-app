@@ -5,13 +5,6 @@ status: unread
 ---
 # illegitimacy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The status of being born to parents who were not married.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unlawfulness by virtue of not being authorized by or in accordance with law.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illegitimacy designates the status of being born to parents who were not married."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The status of being born to parents who were not married.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unlawfulness by virtue of not being authorized by or in accordance with law.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illegitimacy designates the status of being born to parents who were not married."*

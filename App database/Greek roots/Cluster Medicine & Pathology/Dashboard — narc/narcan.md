@@ -5,13 +5,6 @@ status: unread
 ---
 # narcan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A potent narcotic antagonist (trade name narcan) especially effective with morphine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A potent narcotic antagonist (trade name narcan) especially effective with morphine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narcan designates a potent narcotic antagonist (trade name narcan) especially effective with morphine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A potent narcotic antagonist (trade name narcan) especially effective with morphine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A potent narcotic antagonist (trade name narcan) especially effective with morphine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, narcan designates a potent narcotic antagonist (trade name narcan) especially effective with morphine."*

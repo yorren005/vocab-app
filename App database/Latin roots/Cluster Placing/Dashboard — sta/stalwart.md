@@ -5,15 +5,6 @@ status: unread
 ---
 # stalwart
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is loyal to their allegiance (especially in times of revolt).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having rugged physical strength; inured to fatigue or hardships.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce; “being some ten years older than I and a couple of inches taller, with his head thrown back like an old soldier, his stalwart chest squared, his hands like a clean blacksmith’s, and his lungs!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then may be seen Sir Leicester—invalided, bent, and almost blind, but of worthy presence yet—riding with a stalwart man beside him, constant to his bridle-rein."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In one of the lodges of the park—that lodge within sight of the house where, once upon a time, when the waters were out down in Lincolnshire, my Lady used to see the keeper’s child—the stalwart man, the trooper formerly, is housed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is loyal to their allegiance (especially in times of revolt).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having rugged physical strength; inured to fatigue or hardships.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce; “being some ten years older than I and a couple of inches taller, with his head thrown back like an old soldier, his stalwart chest squared, his hands like a clean blacksmith’s, and his lungs!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Then may be seen Sir Leicester—invalided, bent, and almost blind, but of worthy presence yet—riding with a stalwart man beside him, constant to his bridle-rein."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In one of the lodges of the park—that lodge within sight of the house where, once upon a time, when the waters were out down in Lincolnshire, my Lady used to see the keeper’s child—the stalwart man, the trooper formerly, is housed."*

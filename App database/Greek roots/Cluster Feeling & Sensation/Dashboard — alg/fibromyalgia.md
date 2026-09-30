@@ -5,13 +5,6 @@ status: unread
 ---
 # fibromyalgia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic disorder characterized by widespread pain, tenderness, and stiffness of muscles and associated connective tissue structures that is typically accompanied by fatigue, headache, and sleep disturbances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronic disorder characterized by widespread pain, tenderness, and stiffness of muscles and associated connective tissue structures that is typically accompanied by fatigue, headache, and sleep disturbances.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fibromyalgia designates a chronic disorder characterized by widespread pain, tenderness, and stiffness of muscles and associated connective tissue structures that is typically accompanied by fatigue, headache, and sleep disturbances."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic disorder characterized by widespread pain, tenderness, and stiffness of muscles and associated connective tissue structures that is typically accompanied by fatigue, headache, and sleep disturbances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronic disorder characterized by widespread pain, tenderness, and stiffness of muscles and associated connective tissue structures that is typically accompanied by fatigue, headache, and sleep disturbances.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fibromyalgia designates a chronic disorder characterized by widespread pain, tenderness, and stiffness of muscles and associated connective tissue structures that is typically accompanied by fatigue, headache, and sleep disturbances."*

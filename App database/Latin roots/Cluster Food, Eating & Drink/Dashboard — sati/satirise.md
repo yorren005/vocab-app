@@ -5,14 +5,6 @@ status: unread
 ---
 # satirise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ridicule with satire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ridicule with satire.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Satire is reckoned the easiest of all wit, but I take it to be otherwise in very bad times: for it is as hard to satirise well a man of distinguished vices, as to praise well a man of distinguished virtues."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"But Hogg says that he did not begin learning German until 1815.) (3 'Northanger Abbey', satirising Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ridicule with satire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ridicule with satire.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Satire is reckoned the easiest of all wit, but I take it to be otherwise in very bad times: for it is as hard to satirise well a man of distinguished vices, as to praise well a man of distinguished virtues."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"But Hogg says that he did not begin learning German until 1815.) (3 'Northanger Abbey', satirising Mrs."*

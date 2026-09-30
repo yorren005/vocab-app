@@ -5,15 +5,6 @@ status: unread
 ---
 # maltreat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat badly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat badly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Nobody will maltreat your father again."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"It is those who injure women who get the most kindness from them--they are born timid and tyrants and maltreat those who are humblest before them."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Never did the urgency arise of carting my maltreated and perishing carcass to the hospital."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat badly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat badly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"Nobody will maltreat your father again."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"It is those who injure women who get the most kindness from them--they are born timid and tyrants and maltreat those who are humblest before them."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Never did the urgency arise of carting my maltreated and perishing carcass to the hospital."*

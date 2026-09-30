@@ -5,15 +5,6 @@ status: unread
 ---
 # credulity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tendency to believe readily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tendency to believe readily.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I am satisfied, and need no more Than what I know, yet shall the oracle Give rest to the minds of others, such as he Whose ignorant credulity will not Come up to th’ truth."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Still, it is undeniable that he makes calls upon our credulity, which a man obeys with reluctance."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Chronic embarrassment was caused by Shelley's extravagant credulity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tendency to believe readily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tendency to believe readily.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I am satisfied, and need no more Than what I know, yet shall the oracle Give rest to the minds of others, such as he Whose ignorant credulity will not Come up to th’ truth."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Still, it is undeniable that he makes calls upon our credulity, which a man obeys with reluctance."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Chronic embarrassment was caused by Shelley's extravagant credulity."*

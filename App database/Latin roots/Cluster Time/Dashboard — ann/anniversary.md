@@ -5,15 +5,6 @@ status: unread
 ---
 # anniversary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The date on which an event occurred in some previous year (or the celebration of it).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The date on which an event occurred in some previous year (or the celebration of it).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"On the twelfth anniversary of my wedding-day, I became the wife of Professor Dingo.” “Of European reputation,” added Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Its singularity lay less in the retention of a custom of walking in procession and dancing on each anniversary than in the members being solely women."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"His services were in constant request for the opening of churches and on anniversary occasions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The date on which an event occurred in some previous year (or the celebration of it).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The date on which an event occurred in some previous year (or the celebration of it).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"On the twelfth anniversary of my wedding-day, I became the wife of Professor Dingo.” “Of European reputation,” added Mr."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Its singularity lay less in the retention of a custom of walking in procession and dancing on each anniversary than in the members being solely women."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"His services were in constant request for the opening of churches and on anniversary occasions."*

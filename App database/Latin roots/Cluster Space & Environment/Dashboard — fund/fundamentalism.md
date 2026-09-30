@@ -5,13 +5,6 @@ status: unread
 ---
 # fundamentalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The interpretation of every word in the sacred texts as literal truth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The interpretation of every word in the sacred texts as literal truth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fundamentalism designates the interpretation of every word in the sacred texts as literal truth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The interpretation of every word in the sacred texts as literal truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The interpretation of every word in the sacred texts as literal truth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fundamentalism designates the interpretation of every word in the sacred texts as literal truth."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # drier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that promotes drying (e.g., calcium oxide absorbs water and is used to remove moisture).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An appliance that removes moisture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make haste, make haste. [_Exit First Servant._] —Sirrah, fetch drier logs."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, go, begone, to save your ship from wrack, Which cannot perish having thee aboard, Being destined to a drier death on shore. [_Exit Speed._] I must go send some better messenger."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But having once decided to try the higher and drier levels, she pressed back eastward, marching afoot towards the village of Chalk-Newton, where she meant to pass the night."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that promotes drying (e.g., calcium oxide absorbs water and is used to remove moisture).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An appliance that removes moisture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make haste, make haste. [_Exit First Servant._] —Sirrah, fetch drier logs."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, go, begone, to save your ship from wrack, Which cannot perish having thee aboard, Being destined to a drier death on shore. [_Exit Speed._] I must go send some better messenger."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But having once decided to try the higher and drier levels, she pressed back eastward, marching afoot towards the village of Chalk-Newton, where she meant to pass the night."*

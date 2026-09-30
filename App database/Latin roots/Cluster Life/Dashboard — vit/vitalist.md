@@ -5,13 +5,6 @@ status: unread
 ---
 # vitalist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who believes in vitalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who believes in vitalism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vitalist designates one who believes in vitalism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who believes in vitalism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who believes in vitalism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vitalist designates one who believes in vitalism."*

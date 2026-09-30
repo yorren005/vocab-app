@@ -5,13 +5,6 @@ status: unread
 ---
 # cid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The united states army's principal law enforcement agency responsible for the conduct of criminal investigations for all levels of the army anywhere in the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The united states army's principal law enforcement agency responsible for the conduct of criminal investigations for all levels of the army anywhere in the world.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cid designates the united states army's principal law enforcement agency responsible for the conduct of criminal investigations for all levels of the army anywhere in the world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The united states army's principal law enforcement agency responsible for the conduct of criminal investigations for all levels of the army anywhere in the world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The united states army's principal law enforcement agency responsible for the conduct of criminal investigations for all levels of the army anywhere in the world.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cid designates the united states army's principal law enforcement agency responsible for the conduct of criminal investigations for all levels of the army anywhere in the world."*

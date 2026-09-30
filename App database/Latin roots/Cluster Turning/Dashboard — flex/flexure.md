@@ -5,14 +5,6 @@ status: unread
 ---
 # flexure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being flexed (as of a joint).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An angular or rounded shape made by folding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will it give place to flexure and low bending?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The elephant hath joints, but none for courtesy; his legs are legs for necessity, not for flexure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being flexed (as of a joint).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An angular or rounded shape made by folding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will it give place to flexure and low bending?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The elephant hath joints, but none for courtesy; his legs are legs for necessity, not for flexure."*

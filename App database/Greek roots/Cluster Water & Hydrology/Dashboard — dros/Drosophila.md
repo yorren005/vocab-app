@@ -5,13 +5,6 @@ status: unread
 ---
 # drosophila
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small fruit fly used by thomas hunt morgan in studying basic mechanisms of inheritance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small fruit fly used by thomas hunt morgan in studying basic mechanisms of inheritance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Drosophila designates small fruit fly used by thomas hunt morgan in studying basic mechanisms of inheritance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small fruit fly used by thomas hunt morgan in studying basic mechanisms of inheritance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small fruit fly used by thomas hunt morgan in studying basic mechanisms of inheritance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Drosophila designates small fruit fly used by thomas hunt morgan in studying basic mechanisms of inheritance."*

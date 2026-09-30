@@ -5,15 +5,6 @@ status: unread
 ---
 # disagreeable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not to your liking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unpleasant to interact with.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Then he flung them all away, as if he wanted with each to rid himself of a disagreeable thought."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Least of all she wished to meet a girl who had been so disagreeable to her beloved Mea."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was saved the disagreeable necessity of pursuing the subject by Richard and Ada coming up at a round pace, laughing and asking us if we meant to run a race."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not to your liking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unpleasant to interact with.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Then he flung them all away, as if he wanted with each to rid himself of a disagreeable thought."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Least of all she wished to meet a girl who had been so disagreeable to her beloved Mea."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I was saved the disagreeable necessity of pursuing the subject by Richard and Ada coming up at a round pace, laughing and asking us if we meant to run a race."*

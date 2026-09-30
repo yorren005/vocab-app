@@ -5,13 +5,6 @@ status: unread
 ---
 # salmo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the salmonidae: salmon and trout.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the salmonidae: salmon and trout.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Gaz._ [366] Or in the elegant lines of Ausonius:-- “Nec te puniceo rutilantem viscere salmo Transierim, latæ cujus vaga verbera caudæ Gurgite de medio summas reseruntur in undas.” [367] See vol i. of this work, art."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the salmonidae: salmon and trout.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the salmonidae: salmon and trout.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Gaz._ [366] Or in the elegant lines of Ausonius:-- “Nec te puniceo rutilantem viscere salmo Transierim, latæ cujus vaga verbera caudæ Gurgite de medio summas reseruntur in undas.” [367] See vol i. of this work, art."*

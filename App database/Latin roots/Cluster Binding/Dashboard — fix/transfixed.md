@@ -5,15 +5,6 @@ status: unread
 ---
 # transfixed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To render motionless, as with a fixed stare or by arousing terror or awe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pierce with a sharp stake or point.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She was first transfixed with surprise, and then electrified with delight."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Love, from Clarinda’s heavenly eyes, Transfixed his bosom thro’ and thro’; But still in Friendships’ guarded guise, For more the demon fear’d to do."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"It had dropped into a watchful and brooding expression,—most likely when all the things about her had become transfixed,—and it looked as if nothing could ever lift it up again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To render motionless, as with a fixed stare or by arousing terror or awe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pierce with a sharp stake or point.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She was first transfixed with surprise, and then electrified with delight."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Love, from Clarinda’s heavenly eyes, Transfixed his bosom thro’ and thro’; But still in Friendships’ guarded guise, For more the demon fear’d to do."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"It had dropped into a watchful and brooding expression,—most likely when all the things about her had become transfixed,—and it looked as if nothing could ever lift it up again."*

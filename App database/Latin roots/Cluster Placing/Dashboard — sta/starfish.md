@@ -5,13 +5,6 @@ status: unread
 ---
 # starfish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Echinoderms characterized by five arms extending from a central disk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Echinoderms characterized by five arms extending from a central disk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Then there were little kingfishers and starfish studding the soil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Echinoderms characterized by five arms extending from a central disk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Echinoderms characterized by five arms extending from a central disk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Then there were little kingfishers and starfish studding the soil."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # dilator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A muscle or nerve that dilates or widens a body part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug that causes dilation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dilator designates a muscle or nerve that dilates or widens a body part."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A muscle or nerve that dilates or widens a body part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug that causes dilation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dilator designates a muscle or nerve that dilates or widens a body part."*

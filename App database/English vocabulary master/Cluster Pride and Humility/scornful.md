@@ -5,20 +5,6 @@ status: unread
 ---
 # scornful
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Full of scorn : contemptuous
-> 2. **Nuance / Usage**: Showing scorn or disrespect; contemptuous; scathing; withering
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a scornful appearance*) and predicatively after a linking verb (*remained scornful*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"went on, with a somber and scornful smile."*
-> - 📜 **Herman Melville (*Moby Dick*):** *"don’t wonder he looked so scornful at me!"*
-> - 📜 **James Joyce (*Ulysses*):** *"Stephen listened in scornful silence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Full of scorn : contemptuous
+> 2. **Nuance / Usage**: Showing scorn or disrespect; contemptuous; scathing; withering
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a scornful appearance*) and predicatively after a linking verb (*remained scornful*).
+> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"went on, with a somber and scornful smile."*
+> - 📜 **Herman Melville (*Moby Dick*):** *"don’t wonder he looked so scornful at me!"*
+> - 📜 **James Joyce (*Ulysses*):** *"Stephen listened in scornful silence."*

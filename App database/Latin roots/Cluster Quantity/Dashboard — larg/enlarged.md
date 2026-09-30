@@ -5,15 +5,6 @@ status: unread
 ---
 # enlarged
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make larger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make large.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore heaven nature charged That one body should be filled With all graces wide-enlarged."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge, showing us through the outer office to the door, “still bent, even with your enlarged mind, on echoing a popular prejudice?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That minute’s interval had brought the blood beating into her face, set her stinging as if aflame to the very hollows of her feet, and enlarged emotion to a compass which quite swamped thought."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make larger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make large.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore heaven nature charged That one body should be filled With all graces wide-enlarged."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge, showing us through the outer office to the door, “still bent, even with your enlarged mind, on echoing a popular prejudice?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That minute’s interval had brought the blood beating into her face, set her stinging as if aflame to the very hollows of her feet, and enlarged emotion to a compass which quite swamped thought."*

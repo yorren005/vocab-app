@@ -5,13 +5,6 @@ status: unread
 ---
 # caliper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring the distance between two points (often used in the plural).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measure the diameter of something with calipers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Rather surprised, I said Yes, when he produced a thing like calipers and got the dimensions back and front and every way, taking notes carefully."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring the distance between two points (often used in the plural).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measure the diameter of something with calipers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Rather surprised, I said Yes, when he produced a thing like calipers and got the dimensions back and front and every way, taking notes carefully."*

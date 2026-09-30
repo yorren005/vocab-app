@@ -5,13 +5,6 @@ status: unread
 ---
 # bioterrorism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Terrorism using the weapons of biological warfare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terrorism using the weapons of biological warfare.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioterrorism designates terrorism using the weapons of biological warfare."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Terrorism using the weapons of biological warfare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terrorism using the weapons of biological warfare.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioterrorism designates terrorism using the weapons of biological warfare."*

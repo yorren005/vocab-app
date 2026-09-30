@@ -5,15 +5,6 @@ status: unread
 ---
 # inside
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The region that is inside of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inner or enclosed surface of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An I have not forgotten what the inside of a church is made of, I am a peppercorn, a brewer’s horse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Looked he o’ th’ inside of the paper?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He seems to be of great authority: close with him, give him gold; and though authority be a stubborn bear, yet he is oft led by the nose with gold: show the inside of your purse to the outside of his hand, and no more ado."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The region that is inside of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inner or enclosed surface of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An I have not forgotten what the inside of a church is made of, I am a peppercorn, a brewer’s horse."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Looked he o’ th’ inside of the paper?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He seems to be of great authority: close with him, give him gold; and though authority be a stubborn bear, yet he is oft led by the nose with gold: show the inside of your purse to the outside of his hand, and no more ado."*

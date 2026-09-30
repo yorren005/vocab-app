@@ -5,13 +5,6 @@ status: unread
 ---
 # carport
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Garage for one or two cars consisting of a flat roof supported on poles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Garage for one or two cars consisting of a flat roof supported on poles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carport designates garage for one or two cars consisting of a flat roof supported on poles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Garage for one or two cars consisting of a flat roof supported on poles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Garage for one or two cars consisting of a flat roof supported on poles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carport designates garage for one or two cars consisting of a flat roof supported on poles."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # spheroid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure resembling a sphere; also : an object of approximately spherical shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A figure resembling a sphere; also : an object of approximately spherical shape.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spheroid designates a figure resembling a sphere; also : an object of approximately spherical shape."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure resembling a sphere; also : an object of approximately spherical shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A figure resembling a sphere; also : an object of approximately spherical shape.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spheroid designates a figure resembling a sphere; also : an object of approximately spherical shape."*

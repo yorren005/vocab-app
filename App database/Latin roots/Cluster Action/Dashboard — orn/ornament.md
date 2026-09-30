@@ -5,15 +5,6 @@ status: unread
 ---
 # ornament
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something used to beautify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more attractive by adding ornament, colour, etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In all external grace you have some part, But you like none, none you for constant heart. 54 O how much more doth beauty beauteous seem, By that sweet ornament which truth doth give!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I can speak English, lord, as well as you, For I was train’d up in the English Court, Where being but young I framed to the harp Many an English ditty lovely well, And gave the tongue a helpful ornament— A virtue that was never seen in you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then judge, great lords, if I have done amiss, Or whether that such cowards ought to wear This ornament of knighthood, yea or no?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something used to beautify.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more attractive by adding ornament, colour, etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In all external grace you have some part, But you like none, none you for constant heart. 54 O how much more doth beauty beauteous seem, By that sweet ornament which truth doth give!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I can speak English, lord, as well as you, For I was train’d up in the English Court, Where being but young I framed to the harp Many an English ditty lovely well, And gave the tongue a helpful ornament— A virtue that was never seen in you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then judge, great lords, if I have done amiss, Or whether that such cowards ought to wear This ornament of knighthood, yea or no?"*

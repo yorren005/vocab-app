@@ -5,15 +5,6 @@ status: unread
 ---
 # tune
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pleasing succession of musical tones : melody.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dominant theme.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The poop was beaten gold; Purple the sails, and so perfumed that The winds were love-sick with them; the oars were silver, Which to the tune of flutes kept stroke, and made The water which they beat to follow faster, As amorous of their strokes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Saucy lictors Will catch at us like strumpets, and scald rhymers Ballad us out o’ tune."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sing it. ’Tis no matter how it be in tune, so it make noise enough."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pleasing succession of musical tones : melody.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dominant theme.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The poop was beaten gold; Purple the sails, and so perfumed that The winds were love-sick with them; the oars were silver, Which to the tune of flutes kept stroke, and made The water which they beat to follow faster, As amorous of their strokes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Saucy lictors Will catch at us like strumpets, and scald rhymers Ballad us out o’ tune."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sing it. ’Tis no matter how it be in tune, so it make noise enough."*

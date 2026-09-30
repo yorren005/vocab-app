@@ -5,15 +5,6 @@ status: unread
 ---
 # rancor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of deep and bitter anger and ill-will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of deep and bitter anger and ill-will.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"Thou never from that houre in Paradise Foundst either sweet repast, or found repose; Such ambush hid among sweet Flours and Shades Waited with hellish rancor imminent To intercept thy way, or send thee back Despoild of Innocence, of Faith, of Bliss."*
-> - 📜 **John Milton (*Paradise Lost*):** *"No more be mention’d then of violence Against our selves, and wilful barrenness, That cuts us off from hope, and savours onely Rancor and pride, impatience and despite, Reluctance against God and his just yoke Laid on our Necks."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I should have bade him begone if the silence had not been interrupted; but now I feared no more for myself; and the milkiness of my nature was curdled into hatred and rancor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of deep and bitter anger and ill-will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of deep and bitter anger and ill-will.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"Thou never from that houre in Paradise Foundst either sweet repast, or found repose; Such ambush hid among sweet Flours and Shades Waited with hellish rancor imminent To intercept thy way, or send thee back Despoild of Innocence, of Faith, of Bliss."*
+> - 📜 **John Milton (*Paradise Lost*):** *"No more be mention’d then of violence Against our selves, and wilful barrenness, That cuts us off from hope, and savours onely Rancor and pride, impatience and despite, Reluctance against God and his just yoke Laid on our Necks."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I should have bade him begone if the silence had not been interrupted; but now I feared no more for myself; and the milkiness of my nature was curdled into hatred and rancor."*

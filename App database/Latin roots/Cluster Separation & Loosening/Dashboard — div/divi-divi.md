@@ -5,13 +5,6 @@ status: unread
 ---
 # divi-divi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Twisted seed pods of the divi-divi tree; source of tannin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small thornless tree or shrub of tropical america whose seed pods are a source of tannin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, divi-divi designates twisted seed pods of the divi-divi tree; source of tannin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Twisted seed pods of the divi-divi tree; source of tannin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small thornless tree or shrub of tropical america whose seed pods are a source of tannin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, divi-divi designates twisted seed pods of the divi-divi tree; source of tannin."*

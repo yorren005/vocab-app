@@ -5,14 +5,6 @@ status: unread
 ---
 # logistical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to logistics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to logistics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A conical view tank, recessed in the wall to his left, glowed with symbols of ships and their military characteristics, along with tactical and logistical links."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We're working on the ops and logistical support checklists but they're still far from compatible with facilities and installed systems."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to logistics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to logistics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A conical view tank, recessed in the wall to his left, glowed with symbols of ships and their military characteristics, along with tactical and logistical links."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We're working on the ops and logistical support checklists but they're still far from compatible with facilities and installed systems."*

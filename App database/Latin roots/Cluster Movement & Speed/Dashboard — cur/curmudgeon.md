@@ -5,15 +5,6 @@ status: unread
 ---
 # curmudgeon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crusty irascible cantankerous old person full of stubborn ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crusty irascible cantankerous old person full of stubborn ideas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"No churlish old curmudgeon could have been the owner of that grove of bread-fruit trees, or of these gloriously yellow bunches of bananas."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"Get a copy of your muster-roll and give it to that old curmudgeon in the carriage."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"They make their request at each house in rhyming verses, threatening with evil consequences the curmudgeons who refuse them a dole."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A crusty irascible cantankerous old person full of stubborn ideas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crusty irascible cantankerous old person full of stubborn ideas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"No churlish old curmudgeon could have been the owner of that grove of bread-fruit trees, or of these gloriously yellow bunches of bananas."*
+> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"Get a copy of your muster-roll and give it to that old curmudgeon in the carriage."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"They make their request at each house in rhyming verses, threatening with evil consequences the curmudgeons who refuse them a dole."*

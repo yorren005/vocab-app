@@ -5,13 +5,6 @@ status: unread
 ---
 # sequoia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two huge coniferous california trees that reach a height of 300 feet; sometimes placed in the taxodiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two huge coniferous california trees that reach a height of 300 feet; sometimes placed in the taxodiaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sequoia designates either of two huge coniferous california trees that reach a height of 300 feet; sometimes placed in the taxodiaceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two huge coniferous california trees that reach a height of 300 feet; sometimes placed in the taxodiaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two huge coniferous california trees that reach a height of 300 feet; sometimes placed in the taxodiaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sequoia designates either of two huge coniferous california trees that reach a height of 300 feet; sometimes placed in the taxodiaceae."*

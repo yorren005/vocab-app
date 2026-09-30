@@ -5,13 +5,6 @@ status: unread
 ---
 # gastrocnemius
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The muscle in the back part of the leg that forms the greater part of the calf; responsible for the plantar flexion of the foot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The muscle in the back part of the leg that forms the greater part of the calf; responsible for the plantar flexion of the foot.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastrocnemius designates the muscle in the back part of the leg that forms the greater part of the calf; responsible for the plantar flexion of the foot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The muscle in the back part of the leg that forms the greater part of the calf; responsible for the plantar flexion of the foot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The muscle in the back part of the leg that forms the greater part of the calf; responsible for the plantar flexion of the foot.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastrocnemius designates the muscle in the back part of the leg that forms the greater part of the calf; responsible for the plantar flexion of the foot."*

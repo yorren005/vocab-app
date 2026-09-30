@@ -5,15 +5,6 @@ status: unread
 ---
 # marigold
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various tropical american plants of the genus tagetes widely cultivated for their showy yellow or orange flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various tropical american plants of the genus tagetes widely cultivated for their showy yellow or orange flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s flowers for you: Hot lavender, mints, savory, marjoram, The marigold, that goes to bed with th’ sun And with him rises weeping."*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"Great princes’ favourites their fair leaves spread But as the marigold at the sun’s eye, And in themselves their pride lies buried, For at a frown they in their glory die."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"She can live, like Perdita, in her garden of mint and marigold.” “And weep over a faithless Florizel,” said Lord Henry, laughing, as he leaned back in his chair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various tropical american plants of the genus tagetes widely cultivated for their showy yellow or orange flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various tropical american plants of the genus tagetes widely cultivated for their showy yellow or orange flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s flowers for you: Hot lavender, mints, savory, marjoram, The marigold, that goes to bed with th’ sun And with him rises weeping."*
+> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"Great princes’ favourites their fair leaves spread But as the marigold at the sun’s eye, And in themselves their pride lies buried, For at a frown they in their glory die."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"She can live, like Perdita, in her garden of mint and marigold.” “And weep over a faithless Florizel,” said Lord Henry, laughing, as he leaned back in his chair."*

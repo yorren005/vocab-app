@@ -5,15 +5,6 @@ status: unread
 ---
 # divan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long backless sofa (usually with pillows against a wall).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A muslim council of state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Half stretched upon a divan in the library, I was suffocating."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"With these he constructed a sort of Eastern divan, upon which he perched himself cross-legged, with an ounce of shag tobacco and a box of matches laid out in front of him."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I have put too much of myself into it.” Lord Henry stretched himself out on the divan and laughed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long backless sofa (usually with pillows against a wall).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A muslim council of state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Half stretched upon a divan in the library, I was suffocating."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"With these he constructed a sort of Eastern divan, upon which he perched himself cross-legged, with an ounce of shag tobacco and a box of matches laid out in front of him."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I have put too much of myself into it.” Lord Henry stretched himself out on the divan and laughed."*

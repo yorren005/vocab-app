@@ -5,13 +5,6 @@ status: unread
 ---
 # postdoc
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grant that funds postdoctoral study or research.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scholar or researcher who is involved in academic study beyond the level of a doctoral degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postdoc designates a grant that funds postdoctoral study or research."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A grant that funds postdoctoral study or research.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scholar or researcher who is involved in academic study beyond the level of a doctoral degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postdoc designates a grant that funds postdoctoral study or research."*

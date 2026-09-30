@@ -5,15 +5,6 @@ status: unread
 ---
 # indifferent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by a lack of interest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing no care or concern in attitude or action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As the indifferent children of the earth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am myself indifferent honest; but yet I could accuse me of such things that it were better my mother had not borne me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is indifferent cold, my lord, indeed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by a lack of interest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing no care or concern in attitude or action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As the indifferent children of the earth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am myself indifferent honest; but yet I could accuse me of such things that it were better my mother had not borne me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is indifferent cold, my lord, indeed."*

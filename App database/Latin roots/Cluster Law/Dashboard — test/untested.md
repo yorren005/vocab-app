@@ -5,13 +5,6 @@ status: unread
 ---
 # untested
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not tried or tested by experience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not yet proved or subjected to testing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, untested designates not tried or tested by experience."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not tried or tested by experience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not yet proved or subjected to testing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, untested designates not tried or tested by experience."*

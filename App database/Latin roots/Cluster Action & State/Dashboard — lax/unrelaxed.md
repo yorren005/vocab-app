@@ -5,13 +5,6 @@ status: unread
 ---
 # unrelaxed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nor relaxed; - u.b.phillips.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nor relaxed; - u.b.phillips.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"One secret which I alone possessed was the hope to which I had dedicated myself; and the moon gazed on my midnight labours, while, with unrelaxed and breathless eagerness, I pursued nature to her hiding-places."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nor relaxed; - u.b.phillips.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nor relaxed; - u.b.phillips.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"One secret which I alone possessed was the hope to which I had dedicated myself; and the moon gazed on my midnight labours, while, with unrelaxed and breathless eagerness, I pursued nature to her hiding-places."*

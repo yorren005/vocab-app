@@ -5,13 +5,6 @@ status: unread
 ---
 # traversal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking a zigzag path on skis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travel across.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, traversal designates taking a zigzag path on skis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking a zigzag path on skis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travel across.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, traversal designates taking a zigzag path on skis."*

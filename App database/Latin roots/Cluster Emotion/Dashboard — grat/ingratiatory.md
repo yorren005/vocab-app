@@ -5,13 +5,6 @@ status: unread
 ---
 # ingratiatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasingly persuasive or intended to persuade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calculated to please or gain favor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ingratiatory designates pleasingly persuasive or intended to persuade."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasingly persuasive or intended to persuade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calculated to please or gain favor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ingratiatory designates pleasingly persuasive or intended to persuade."*

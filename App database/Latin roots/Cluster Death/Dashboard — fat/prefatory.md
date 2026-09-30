@@ -5,15 +5,6 @@ status: unread
 ---
 # prefatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as an introduction or preface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as an introduction or preface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"In a prefatory note to ‘Mardi’ (1849), Melville declares that, as his former books have been received as romance instead of reality, he will now try his hand at pure fiction. ‘Mardi’ may be called a splendid failure."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The bracketed prefatory lines, explanatory of the parchment on which are recorded the last hours and last talk of St."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"When all concerned are ready (recorder checked and set up, the date, time, place, names, occasion, and whatever else considered prefatory has been recorded in advance) Grandchild opens with the first question."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as an introduction or preface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as an introduction or preface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"In a prefatory note to ‘Mardi’ (1849), Melville declares that, as his former books have been received as romance instead of reality, he will now try his hand at pure fiction. ‘Mardi’ may be called a splendid failure."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The bracketed prefatory lines, explanatory of the parchment on which are recorded the last hours and last talk of St."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"When all concerned are ready (recorder checked and set up, the date, time, place, names, occasion, and whatever else considered prefatory has been recorded in advance) Grandchild opens with the first question."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # rhinovirus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of three enteroviruses (Enterovirus alpharhino, E. betarhino, and E. cerhino) having numerous serotypes causing respiratory infections (such as the common cold) in humans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of three enteroviruses (Enterovirus alpharhino, E. betarhino, and E. cerhino) having numerous serotypes causing respiratory infections (such as the common cold) in humans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinovirus designates any of three enteroviruses (enterovirus alpharhino, e. betarhino, and e. cerhino) having numerous serotypes causing respiratory infections (such as the common cold) in humans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of three enteroviruses (Enterovirus alpharhino, E. betarhino, and E. cerhino) having numerous serotypes causing respiratory infections (such as the common cold) in humans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of three enteroviruses (Enterovirus alpharhino, E. betarhino, and E. cerhino) having numerous serotypes causing respiratory infections (such as the common cold) in humans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinovirus designates any of three enteroviruses (enterovirus alpharhino, e. betarhino, and e. cerhino) having numerous serotypes causing respiratory infections (such as the common cold) in humans."*

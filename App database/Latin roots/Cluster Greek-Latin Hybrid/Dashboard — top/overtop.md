@@ -5,15 +5,6 @@ status: unread
 ---
 # overtop
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Look down on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Look down on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I saw clearly the cultivated ranges, and the several mountain-chains that run parallel with the side, and the volcanoes that overtop Mouna-Rea, which rise 5,000 yards above the level of the sea."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"This cavern yawns at the base of the overhanging bluff that overtops the rock of Puupehe."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The old Inn elbows it disdainfully on one side, and on the other a great modern stuccoed pile overtops it with a parvenu insolence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Look down on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Look down on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I saw clearly the cultivated ranges, and the several mountain-chains that run parallel with the side, and the volcanoes that overtop Mouna-Rea, which rise 5,000 yards above the level of the sea."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"This cavern yawns at the base of the overhanging bluff that overtops the rock of Puupehe."*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The old Inn elbows it disdainfully on one side, and on the other a great modern stuccoed pile overtops it with a parvenu insolence."*

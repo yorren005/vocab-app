@@ -5,13 +5,6 @@ status: unread
 ---
 # dicotyledones
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising seed plants that produce an embryo with paired cotyledons and net-veined leaves; divided into six (not always well distinguished) subclasses (or superorders): magnoliidae and hamamelidae (considered primitive); caryophyllidae (an early and distinctive offshoot); and three more or less advanced groups: dilleniidae; rosidae; asteridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising seed plants that produce an embryo with paired cotyledons and net-veined leaves; divided into six (not always well distinguished) subclasses (or superorders): magnoliidae and hamamelidae (considered primitive); caryophyllidae (an early and distinctive offshoot); and three more or less advanced groups: dilleniidae; rosidae; asteridae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicotyledones designates comprising seed plants that produce an embryo with paired cotyledons and net-veined leaves; divided into six (not always well distinguished) subclasses (or superorders): magnoliidae and hamamelidae (considered primitive); caryophyllidae (an early and distinctive offshoot); and three more or less advanced groups: dilleniidae; rosidae; asteridae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising seed plants that produce an embryo with paired cotyledons and net-veined leaves; divided into six (not always well distinguished) subclasses (or superorders): magnoliidae and hamamelidae (considered primitive); caryophyllidae (an early and distinctive offshoot); and three more or less advanced groups: dilleniidae; rosidae; asteridae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising seed plants that produce an embryo with paired cotyledons and net-veined leaves; divided into six (not always well distinguished) subclasses (or superorders): magnoliidae and hamamelidae (considered primitive); caryophyllidae (an early and distinctive offshoot); and three more or less advanced groups: dilleniidae; rosidae; asteridae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicotyledones designates comprising seed plants that produce an embryo with paired cotyledons and net-veined leaves; divided into six (not always well distinguished) subclasses (or superorders): magnoliidae and hamamelidae (considered primitive); caryophyllidae (an early and distinctive offshoot); and three more or less advanced groups: dilleniidae; rosidae; asteridae."*

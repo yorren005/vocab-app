@@ -5,15 +5,6 @@ status: unread
 ---
 # unconscious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That part of the mind wherein psychic activity takes place of which the person is unaware.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conscious; lacking awareness and the capacity for sensory perception as if asleep or dead.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was quite unconscious that she only praised herself and that it was in the goodness of her own heart that she made so much of me!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"First, I was not quite unconscious of the contrast in respect of meaning and intention between the silent look directed that way and the flow of words that had preceded it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"On the contrary, I was so demure and used to seem so unconscious that sometimes I considered within myself while I was sitting at work whether I was not growing quite deceitful."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: That part of the mind wherein psychic activity takes place of which the person is unaware.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conscious; lacking awareness and the capacity for sensory perception as if asleep or dead.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"She was quite unconscious that she only praised herself and that it was in the goodness of her own heart that she made so much of me!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"First, I was not quite unconscious of the contrast in respect of meaning and intention between the silent look directed that way and the flow of words that had preceded it."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"On the contrary, I was so demure and used to seem so unconscious that sometimes I considered within myself while I was sitting at work whether I was not growing quite deceitful."*

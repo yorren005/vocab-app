@@ -5,15 +5,6 @@ status: unread
 ---
 # deviltry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wicked and cruel behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reckless or malicious behavior that causes discomfort or annoyance in others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Also when a woman is created, the winds have wooed star-dust, rose-dew, peach-down, and a few flint-shavings into a whirlwind of deviltry, and the world at large looks on in wonder and sore amazement, as well as breathless interest."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Some women are so feminine that they are sticky, unless well spiced with deviltry."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Dashing young cock sparrows would show off before their particular hen sparrows, and earn a cheap reputation for dare-deviltry by going within so many yards of Edwin's lair and then darting away."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wicked and cruel behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reckless or malicious behavior that causes discomfort or annoyance in others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Also when a woman is created, the winds have wooed star-dust, rose-dew, peach-down, and a few flint-shavings into a whirlwind of deviltry, and the world at large looks on in wonder and sore amazement, as well as breathless interest."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Some women are so feminine that they are sticky, unless well spiced with deviltry."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Dashing young cock sparrows would show off before their particular hen sparrows, and earn a cheap reputation for dare-deviltry by going within so many yards of Edwin's lair and then darting away."*

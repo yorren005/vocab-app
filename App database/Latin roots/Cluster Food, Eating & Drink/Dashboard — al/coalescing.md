@@ -5,14 +5,6 @@ status: unread
 ---
 # coalescing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mix together different elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fuse or cause to grow together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I hold it to be the wondrously thin, ruptured membranes of the case, coalescing."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"I hold it to be the wondrously thin, ruptured membranes of the case, coalescing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mix together different elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fuse or cause to grow together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I hold it to be the wondrously thin, ruptured membranes of the case, coalescing."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"I hold it to be the wondrously thin, ruptured membranes of the case, coalescing."*

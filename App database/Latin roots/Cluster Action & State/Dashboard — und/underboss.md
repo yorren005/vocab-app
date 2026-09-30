@@ -5,13 +5,6 @@ status: unread
 ---
 # underboss
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An assistant or second-in-command to a chief (especially in a crime syndicate).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assistant or second-in-command to a chief (especially in a crime syndicate).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underboss designates an assistant or second-in-command to a chief (especially in a crime syndicate)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An assistant or second-in-command to a chief (especially in a crime syndicate).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assistant or second-in-command to a chief (especially in a crime syndicate).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underboss designates an assistant or second-in-command to a chief (especially in a crime syndicate)."*

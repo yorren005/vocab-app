@@ -5,13 +5,6 @@ status: unread
 ---
 # aglet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Metal or plastic sheath over the end of a shoelace or ribbon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ornamental tagged cord or braid on the shoulder of a uniform.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am very cold, and all the stars are out too, The little stars and all, that look like aglets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Metal or plastic sheath over the end of a shoelace or ribbon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ornamental tagged cord or braid on the shoulder of a uniform.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am very cold, and all the stars are out too, The little stars and all, that look like aglets."*

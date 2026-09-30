@@ -5,13 +5,6 @@ status: unread
 ---
 # synapomorphy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A character or trait that is shared by two or more taxonomic groups and is derived through evolution from a common ancestral form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A character or trait that is shared by two or more taxonomic groups and is derived through evolution from a common ancestral form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synapomorphy designates a character or trait that is shared by two or more taxonomic groups and is derived through evolution from a common ancestral form."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A character or trait that is shared by two or more taxonomic groups and is derived through evolution from a common ancestral form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A character or trait that is shared by two or more taxonomic groups and is derived through evolution from a common ancestral form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synapomorphy designates a character or trait that is shared by two or more taxonomic groups and is derived through evolution from a common ancestral form."*

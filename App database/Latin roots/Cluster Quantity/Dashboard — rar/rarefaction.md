@@ -5,13 +5,6 @@ status: unread
 ---
 # rarefaction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decrease in the density of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decrease in the density of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Rarefaction of thought Spirit creates no other than heavenly or celestial bodies, but the stellar universe is no more celestial than our earth. 509:15 This text gives the idea of the rarefaction of thought as it ascends higher."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decrease in the density of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decrease in the density of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Rarefaction of thought Spirit creates no other than heavenly or celestial bodies, but the stellar universe is no more celestial than our earth. 509:15 This text gives the idea of the rarefaction of thought as it ascends higher."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # mes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mid : in the middle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intermediate (as in size or type).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"We will drink success to M. le Maire,' he said, '_mes bons amis_!"*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Mère Julie,' I said, 'and mes bonnes femmes, my friends, know you that it is the middle of the night, the hour at which we must rest if we are to be able to do the work that is needful, which the _bon Dieu_ has laid upon us?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Est-ce que ma robe va bien?” cried she, bounding forwards; “et mes souliers? et mes bas?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mid : in the middle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intermediate (as in size or type).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"We will drink success to M. le Maire,' he said, '_mes bons amis_!"*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Mère Julie,' I said, 'and mes bonnes femmes, my friends, know you that it is the middle of the night, the hour at which we must rest if we are to be able to do the work that is needful, which the _bon Dieu_ has laid upon us?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Est-ce que ma robe va bien?” cried she, bounding forwards; “et mes souliers? et mes bas?"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # locality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surrounding or nearby region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surrounding or nearby region.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have therefore taken a ’ouse in that locality, which, in the opinion of my friends, is a hollow bargain (taxes ridiculous, and use of fixtures included in the rent), and intend setting up professionally for myself there forthwith.” Here Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The cottage to which Gabriel had retired before taking his final departure from the locality was visible as a white spot on the opposite hill, backed by blue firs."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Can you?” said Tess, awake to the new value of this locality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surrounding or nearby region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surrounding or nearby region.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I have therefore taken a ’ouse in that locality, which, in the opinion of my friends, is a hollow bargain (taxes ridiculous, and use of fixtures included in the rent), and intend setting up professionally for myself there forthwith.” Here Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The cottage to which Gabriel had retired before taking his final departure from the locality was visible as a white spot on the opposite hill, backed by blue firs."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Can you?” said Tess, awake to the new value of this locality."*

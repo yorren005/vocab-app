@@ -5,15 +5,6 @@ status: unread
 ---
 # colored
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A united states term for blacks that is now considered offensive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add color to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"O, multi-colored, multiform, Beloved beauty over me, That I shall never, never see Again!"*
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"And her voice is a string of colored beads, Or steps leading into the sea."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A City home missionary has told us of the case of a poor colored family, the husband nearly one hundred years old, totally incapacitated for work, and confined to his room by sickness nearly twelve years."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A united states term for blacks that is now considered offensive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add color to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"O, multi-colored, multiform, Beloved beauty over me, That I shall never, never see Again!"*
+> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"And her voice is a string of colored beads, Or steps leading into the sea."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A City home missionary has told us of the case of a poor colored family, the husband nearly one hundred years old, totally incapacitated for work, and confined to his room by sickness nearly twelve years."*

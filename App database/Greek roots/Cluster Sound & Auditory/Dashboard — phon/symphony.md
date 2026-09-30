@@ -5,15 +5,6 @@ status: unread
 ---
 # symphony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consonance of sounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ritornello.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon, or rather from the symphony of hopeful dreams, admiring trust, and passionate self devotion which that learned gentleman had set playing in her soul."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Suppose that suddenly a real woman's entire nature should be revealed to the world, might not the universe be enveloped in a rose glory and a love symphony?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Ahab and Pip CXXXI.—The Hat CXXXII.—The Pequod meets the Delight CXXXIII.—The Symphony CXXXIV.—The Chase."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consonance of sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ritornello.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon, or rather from the symphony of hopeful dreams, admiring trust, and passionate self devotion which that learned gentleman had set playing in her soul."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Suppose that suddenly a real woman's entire nature should be revealed to the world, might not the universe be enveloped in a rose glory and a love symphony?"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Ahab and Pip CXXXI.—The Hat CXXXII.—The Pequod meets the Delight CXXXIII.—The Symphony CXXXIV.—The Chase."*

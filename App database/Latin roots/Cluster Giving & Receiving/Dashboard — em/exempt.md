@@ -5,15 +5,6 @@ status: unread
 ---
 # exempt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grant relief or an exemption from a rule or requirement to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant exemption or release to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How ill agrees it with your gravity To counterfeit thus grossly with your slave, Abetting him to thwart me in my mood; Be it my wrong, you are from me exempt, But wrong not that wrong with a more contempt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, by his treason, stand’st not thou attainted, Corrupted, and exempt from ancient gentry?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beside, I fear me, if thy thoughts are sifted, The King, thy sovereign, is not quite exempt From envious malice of thy swelling heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Grant relief or an exemption from a rule or requirement to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant exemption or release to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How ill agrees it with your gravity To counterfeit thus grossly with your slave, Abetting him to thwart me in my mood; Be it my wrong, you are from me exempt, But wrong not that wrong with a more contempt."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, by his treason, stand’st not thou attainted, Corrupted, and exempt from ancient gentry?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beside, I fear me, if thy thoughts are sifted, The King, thy sovereign, is not quite exempt From envious malice of thy swelling heart."*

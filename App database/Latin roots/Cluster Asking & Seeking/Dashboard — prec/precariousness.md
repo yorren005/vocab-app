@@ -5,13 +5,6 @@ status: unread
 ---
 # precariousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme dangerousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being unsettled or in doubt or dependent on chance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"If I needed anything to perfect the precariousness of my steering, it was just that."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme dangerousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being unsettled or in doubt or dependent on chance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"If I needed anything to perfect the precariousness of my steering, it was just that."*

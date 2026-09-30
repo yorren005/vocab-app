@@ -5,13 +5,6 @@ status: unread
 ---
 # hematocrit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ratio of the volume of red blood cells to the total volume of blood as determined by separation of red blood cells from the plasma usually by centrifugation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ratio of the volume of red blood cells to the total volume of blood as determined by separation of red blood cells from the plasma usually by centrifugation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hematocrit designates the ratio of the volume of red blood cells to the total volume of blood as determined by separation of red blood cells from the plasma usually by centrifugation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ratio of the volume of red blood cells to the total volume of blood as determined by separation of red blood cells from the plasma usually by centrifugation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ratio of the volume of red blood cells to the total volume of blood as determined by separation of red blood cells from the plasma usually by centrifugation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hematocrit designates the ratio of the volume of red blood cells to the total volume of blood as determined by separation of red blood cells from the plasma usually by centrifugation."*

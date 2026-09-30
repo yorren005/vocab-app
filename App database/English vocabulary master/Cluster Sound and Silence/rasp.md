@@ -5,20 +5,6 @@ status: unread
 ---
 # rasp
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Grate upon : irritate
-> 2. **Nuance / Usage**: Utter in a raspy tone
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to rasp the target*) and intransitive clauses (*rasping against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Rory MacLean, Nick Danziger (*Back in the USSR*):** *"A rasp of guinea fowl honked as 'Emma' the ostrich pecked."*
-> - 📜 **Classic Author (*Classic Work*):** *"There was a flock - no, a rasp of guinea-fowl feeding in a garden not twenty yards away."*
-> - 📜 **Classic Author (*New cohabitants for the elephants: guinea fowl*):** *"The rasp of guinea fowl came from a Swiss breeder."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Grate upon : irritate
+> 2. **Nuance / Usage**: Utter in a raspy tone
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to rasp the target*) and intransitive clauses (*rasping against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Rory MacLean, Nick Danziger (*Back in the USSR*):** *"A rasp of guinea fowl honked as 'Emma' the ostrich pecked."*
+> - 📜 **Classic Author (*Classic Work*):** *"There was a flock - no, a rasp of guinea-fowl feeding in a garden not twenty yards away."*
+> - 📜 **Classic Author (*New cohabitants for the elephants: guinea fowl*):** *"The rasp of guinea fowl came from a Swiss breeder."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # stringer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a squad on a team.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A worker who strings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We've got to get off before he personally takes charge of the search." Brad again scrutinized the ship's stringers and cable insulation colors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a squad on a team.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A worker who strings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We've got to get off before he personally takes charge of the search." Brad again scrutinized the ship's stringers and cable insulation colors."*

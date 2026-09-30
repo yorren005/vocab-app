@@ -5,15 +5,6 @@ status: unread
 ---
 # pestiferous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Contaminated with infecting organisms; ; - jane austen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Likely to spread and cause an epidemic disease; - jonathan swift.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The general says you that have so traitorously discovered the secrets of your army, and made such pestiferous reports of men very nobly held, can serve the world for no honest use; therefore you must die."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, prelate; such is thy audacious wickedness, Thy lewd, pestiferous, and dissentious pranks, As very infants prattle of thy pride."*
-> - 📜 **Effie Afton (*Eventide*):** *"Simcoe's assenting voice was faintly heard amid the fiendish shrieks of those pestiferous younglings, Simcoe's children."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contaminated with infecting organisms; ; - jane austen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Likely to spread and cause an epidemic disease; - jonathan swift.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The general says you that have so traitorously discovered the secrets of your army, and made such pestiferous reports of men very nobly held, can serve the world for no honest use; therefore you must die."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, prelate; such is thy audacious wickedness, Thy lewd, pestiferous, and dissentious pranks, As very infants prattle of thy pride."*
+> - 📜 **Effie Afton (*Eventide*):** *"Simcoe's assenting voice was faintly heard amid the fiendish shrieks of those pestiferous younglings, Simcoe's children."*

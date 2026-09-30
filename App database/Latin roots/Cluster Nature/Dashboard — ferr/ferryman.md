@@ -5,15 +5,6 @@ status: unread
 ---
 # ferryman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who operates a ferry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who operates a ferry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I passed, methought, the melancholy flood, With that sour ferryman which poets write of, Unto the kingdom of perpetual night."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Old Peter sat facing her in the boat; the ferryman pulled lustily at his oars, and they moved quickly along in the ebbing tide."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"The ferryman longed to get his freight safely across; he was in a fret of discomfort whenever he looked at the clear-cut, eager face before him in the stern."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who operates a ferry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who operates a ferry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I passed, methought, the melancholy flood, With that sour ferryman which poets write of, Unto the kingdom of perpetual night."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Old Peter sat facing her in the boat; the ferryman pulled lustily at his oars, and they moved quickly along in the ebbing tide."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"The ferryman longed to get his freight safely across; he was in a fret of discomfort whenever he looked at the clear-cut, eager face before him in the stern."*

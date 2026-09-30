@@ -5,15 +5,6 @@ status: unread
 ---
 # hysterically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hysterical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a hysterical manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"If Tess had been artful, had she made a scene, fainted, wept hysterically, in that lonely lane, notwithstanding the fury of fastidiousness with which he was possessed, he would probably not have withstood her."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"With this hysterically over-simplified view of life, fostered by lack of self-knowledge, was connected a corresponding mistake as to the means by which his ends could be reached."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"I feel that I have a message to you from your real mothers, and it is this: ‘We hope our sons will die like English gentlemen.’” Even the pirates were awed, and Tootles cried out hysterically, “I am going to do what my mother hopes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hysterical manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a hysterical manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"If Tess had been artful, had she made a scene, fainted, wept hysterically, in that lonely lane, notwithstanding the fury of fastidiousness with which he was possessed, he would probably not have withstood her."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"With this hysterically over-simplified view of life, fostered by lack of self-knowledge, was connected a corresponding mistake as to the means by which his ends could be reached."*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"I feel that I have a message to you from your real mothers, and it is this: ‘We hope our sons will die like English gentlemen.’” Even the pirates were awed, and Tootles cried out hysterically, “I am going to do what my mother hopes."*

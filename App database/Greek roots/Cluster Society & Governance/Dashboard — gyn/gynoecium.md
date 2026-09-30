@@ -5,13 +5,6 @@ status: unread
 ---
 # gynoecium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The female reproductive part of a flowering plant that is made up of the aggregate of carpels in a flower and that is surrounded by the stamens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The female reproductive part of a flowering plant that is made up of the aggregate of carpels in a flower and that is surrounded by the stamens.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gynoecium designates the female reproductive part of a flowering plant that is made up of the aggregate of carpels in a flower and that is surrounded by the stamens."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The female reproductive part of a flowering plant that is made up of the aggregate of carpels in a flower and that is surrounded by the stamens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The female reproductive part of a flowering plant that is made up of the aggregate of carpels in a flower and that is surrounded by the stamens.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gynoecium designates the female reproductive part of a flowering plant that is made up of the aggregate of carpels in a flower and that is surrounded by the stamens."*

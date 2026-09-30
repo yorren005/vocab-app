@@ -5,15 +5,6 @@ status: unread
 ---
 # proscription
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decree that prohibits something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rejection by means of an act of banishing or proscribing someone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So you thought him, And took his voice who should be prick’d to die In our black sentence and proscription."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That by proscription and bills of outlawry Octavius, Antony, and Lepidus Have put to death an hundred Senators."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cicero is dead, And by that order of proscription."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decree that prohibits something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rejection by means of an act of banishing or proscribing someone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So you thought him, And took his voice who should be prick’d to die In our black sentence and proscription."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That by proscription and bills of outlawry Octavius, Antony, and Lepidus Have put to death an hundred Senators."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cicero is dead, And by that order of proscription."*

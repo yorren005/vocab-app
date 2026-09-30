@@ -5,13 +5,6 @@ status: unread
 ---
 # insomnia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inability to sleep; chronic sleeplessness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inability to sleep; chronic sleeplessness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I had suffered for years with insomnia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inability to sleep; chronic sleeplessness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inability to sleep; chronic sleeplessness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I had suffered for years with insomnia."*

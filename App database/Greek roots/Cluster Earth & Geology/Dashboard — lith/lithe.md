@@ -5,15 +5,6 @@ status: unread
 ---
 # lithe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving and bending with ease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving and bending with ease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Krook therefore drives her out before him, and she goes furtively downstairs, winding her lithe tail and licking her lips."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I listened to the lithe, light step of the little intriguing priest go down the creaking stairs."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Rather tall, of a lithe nimble figure, extremely pale, with large faded eyes, and a quantity of streaming hair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving and bending with ease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving and bending with ease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Krook therefore drives her out before him, and she goes furtively downstairs, winding her lithe tail and licking her lips."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I listened to the lithe, light step of the little intriguing priest go down the creaking stairs."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Rather tall, of a lithe nimble figure, extremely pale, with large faded eyes, and a quantity of streaming hair."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # mutation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) an organism that has characteristics resulting from chromosomal alteration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) any event that changes genetic structure; any alteration in the inherited nucleic acid sequence of the genotype of an organism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though his humour Was nothing but mutation, ay, and that From one bad thing to worse, not frenzy, not Absolute madness could so far have rav’d, To bring him here alone."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that thy strange mutations make us hate thee, Life would not yield to age."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"However, all the mutations so increasingly discernible in village life did not originate entirely in the agricultural unrest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) an organism that has characteristics resulting from chromosomal alteration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) any event that changes genetic structure; any alteration in the inherited nucleic acid sequence of the genotype of an organism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though his humour Was nothing but mutation, ay, and that From one bad thing to worse, not frenzy, not Absolute madness could so far have rav’d, To bring him here alone."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that thy strange mutations make us hate thee, Life would not yield to age."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"However, all the mutations so increasingly discernible in village life did not originate entirely in the agricultural unrest."*

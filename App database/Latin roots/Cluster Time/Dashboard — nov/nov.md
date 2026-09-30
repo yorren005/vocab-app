@@ -5,15 +5,6 @@ status: unread
 ---
 # nov
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The month following october and preceding december.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The month following october and preceding december.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Deutsche Rundschau, Nov. and Dec., 1895."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Oun: Greek particle Ou^’n, then, now then, etc. 131. the enclitic De: Greek De {Delta epsilon}; in regard to this, the following letter by Browning appeared in the London ‘Daily News’ of Nov. 21, 1874: “To the Editor of ‘The Daily News’."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Monthly Repository, Nov., pp. 716-727: Review of ‘Paracelsus’, by W."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The month following october and preceding december.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The month following october and preceding december.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Deutsche Rundschau, Nov. and Dec., 1895."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Oun: Greek particle Ou^’n, then, now then, etc. 131. the enclitic De: Greek De {Delta epsilon}; in regard to this, the following letter by Browning appeared in the London ‘Daily News’ of Nov. 21, 1874: “To the Editor of ‘The Daily News’."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Monthly Repository, Nov., pp. 716-727: Review of ‘Paracelsus’, by W."*

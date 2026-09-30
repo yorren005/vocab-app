@@ -5,15 +5,6 @@ status: unread
 ---
 # consubstantial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regarded as the same in substance or essence (as of the three persons of the trinity).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regarded as the same in substance or essence (as of the three persons of the trinity).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Is that then the divine substance wherein Father and Son are consubstantial?"*
-> - 📜 **James Joyce (*Ulysses*):** *"My consubstantial father’s voice."*
-> - 📜 **James Joyce (*Ulysses*):** *"He is a ghost, a shadow now, the wind by Elsinore’s rocks or what you will, the sea’s voice, a voice heard only in the heart of him who is the substance of his shadow, the son consubstantial with the father. —Amen! was responded from the doorway."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regarded as the same in substance or essence (as of the three persons of the trinity).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regarded as the same in substance or essence (as of the three persons of the trinity).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Is that then the divine substance wherein Father and Son are consubstantial?"*
+> - 📜 **James Joyce (*Ulysses*):** *"My consubstantial father’s voice."*
+> - 📜 **James Joyce (*Ulysses*):** *"He is a ghost, a shadow now, the wind by Elsinore’s rocks or what you will, the sea’s voice, a voice heard only in the heart of him who is the substance of his shadow, the son consubstantial with the father. —Amen! was responded from the doorway."*

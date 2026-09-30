@@ -5,15 +5,6 @@ status: unread
 ---
 # pacify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be more favorably inclined; gain the good will of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fight violence and try to establish peace in (a location).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray ye pacify yourself, Sir John."*
-> - 📜 **Jane Austen (*Persuasion*):** *"You seem to have forgot all about Lyme.” To pacify Mary, and perhaps screen her own embarrassment, Anne did move quietly to the window."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester had given was merely an invention framed to pacify his guests."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be more favorably inclined; gain the good will of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fight violence and try to establish peace in (a location).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray ye pacify yourself, Sir John."*
+> - 📜 **Jane Austen (*Persuasion*):** *"You seem to have forgot all about Lyme.” To pacify Mary, and perhaps screen her own embarrassment, Anne did move quietly to the window."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester had given was merely an invention framed to pacify his guests."*

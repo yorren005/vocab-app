@@ -5,13 +5,6 @@ status: unread
 ---
 # ambivalent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Uncertain or unable to decide about what course to follow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncertain or unable to decide about what course to follow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ambivalent designates uncertain or unable to decide about what course to follow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Uncertain or unable to decide about what course to follow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncertain or unable to decide about what course to follow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ambivalent designates uncertain or unable to decide about what course to follow."*

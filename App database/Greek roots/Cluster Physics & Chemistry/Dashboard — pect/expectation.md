@@ -5,15 +5,6 @@ status: unread
 ---
 # expectation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief about (or mental picture of) the future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anticipating with confidence of fulfillment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Oft expectation fails, and most oft there Where most it promises; and oft it hits Where hope is coldest, and despair most fits."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The trees by th’ way Should have borne men, and expectation fainted, Longing for what it had not."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our expectation that it would be thus Hath made us forward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief about (or mental picture of) the future.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anticipating with confidence of fulfillment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Oft expectation fails, and most oft there Where most it promises; and oft it hits Where hope is coldest, and despair most fits."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The trees by th’ way Should have borne men, and expectation fainted, Longing for what it had not."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our expectation that it would be thus Hath made us forward."*

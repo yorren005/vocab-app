@@ -5,15 +5,6 @@ status: unread
 ---
 # irregular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an irregular armed force that fights a stronger force by sabotage and harassment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Merchandise that has imperfections; usually sold at a reduced price without the brand name.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The furniture, old-fashioned rather than old, like the house, was as pleasantly irregular."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Going up, the floors above were found to have a very irregular surface, rising to ridges, sinking into valleys; and being just then uncarpeted, the face of the boards was seen to be eaten into innumerable vermiculations."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Even now, traces of its earlier condition are to be found in the old oak copses and irregular belts of timber that yet survive upon its slopes, and the hollow-trunked trees that shade so many of its pastures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an irregular armed force that fights a stronger force by sabotage and harassment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Merchandise that has imperfections; usually sold at a reduced price without the brand name.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The furniture, old-fashioned rather than old, like the house, was as pleasantly irregular."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Going up, the floors above were found to have a very irregular surface, rising to ridges, sinking into valleys; and being just then uncarpeted, the face of the boards was seen to be eaten into innumerable vermiculations."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Even now, traces of its earlier condition are to be found in the old oak copses and irregular belts of timber that yet survive upon its slopes, and the hollow-trunked trees that shade so many of its pastures."*

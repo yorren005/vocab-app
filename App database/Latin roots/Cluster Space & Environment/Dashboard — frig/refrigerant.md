@@ -5,13 +5,6 @@ status: unread
 ---
 # refrigerant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance used to provide cooling (as in a refrigerator).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing cooling or freezing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, refrigerant designates any substance used to provide cooling (as in a refrigerator)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance used to provide cooling (as in a refrigerator).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing cooling or freezing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, refrigerant designates any substance used to provide cooling (as in a refrigerator)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # palpitation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rapid and irregular heart beat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shaky motion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Recollection of the strange antics she had indulged in when passing through the trees was succeeded in the girl by a nettled palpitation, and that by a hot face."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Sometimes it was a palpitation, sometimes a flutter; sometimes it was a sort of gasp or gurgle."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon, who had risen early complaining of palpitation, was in the library giving audience to his curate Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rapid and irregular heart beat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shaky motion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Recollection of the strange antics she had indulged in when passing through the trees was succeeded in the girl by a nettled palpitation, and that by a hot face."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Sometimes it was a palpitation, sometimes a flutter; sometimes it was a sort of gasp or gurgle."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon, who had risen early complaining of palpitation, was in the library giving audience to his curate Mr."*

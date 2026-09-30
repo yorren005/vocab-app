@@ -5,15 +5,6 @@ status: unread
 ---
 # gratifying
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make happy or satisfied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yield (to); give satisfaction to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am so accustomed and inured to hard work that I don’t know what fatigue is.” We murmured that it was very astonishing and very gratifying, or something to that effect."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We had talked it over very often now, and there was some talk of gratifying the inclination of his childhood for the sea."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Hence the gratifying fact that it has had no child born to it and that the complete little men and women whom it has produced have been observed to bear a likeness to old monkeys with something depressing on their minds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make happy or satisfied.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yield (to); give satisfaction to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I am so accustomed and inured to hard work that I don’t know what fatigue is.” We murmured that it was very astonishing and very gratifying, or something to that effect."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"We had talked it over very often now, and there was some talk of gratifying the inclination of his childhood for the sea."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Hence the gratifying fact that it has had no child born to it and that the complete little men and women whom it has produced have been observed to bear a likeness to old monkeys with something depressing on their minds."*

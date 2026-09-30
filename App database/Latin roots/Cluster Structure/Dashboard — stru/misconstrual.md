@@ -5,13 +5,6 @@ status: unread
 ---
 # misconstrual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of misinterpretation resulting from putting a wrong construction on words or actions (often deliberately).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of misinterpretation resulting from putting a wrong construction on words or actions (often deliberately).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misconstrual designates a kind of misinterpretation resulting from putting a wrong construction on words or actions (often deliberately)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of misinterpretation resulting from putting a wrong construction on words or actions (often deliberately).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of misinterpretation resulting from putting a wrong construction on words or actions (often deliberately).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misconstrual designates a kind of misinterpretation resulting from putting a wrong construction on words or actions (often deliberately)."*

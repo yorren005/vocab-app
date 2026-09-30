@@ -5,13 +5,6 @@ status: unread
 ---
 # laboriousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of requiring extended effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of requiring extended effort.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I was very sorry.” Will only thought of giving a good pinch that would annihilate that vaunted laboriousness, and was unable to imagine the mode in which Dorothea would be wounded."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of requiring extended effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of requiring extended effort.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"I was very sorry.” Will only thought of giving a good pinch that would annihilate that vaunted laboriousness, and was unable to imagine the mode in which Dorothea would be wounded."*

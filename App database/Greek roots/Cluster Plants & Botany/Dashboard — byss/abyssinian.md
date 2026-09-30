@@ -5,14 +5,6 @@ status: unread
 ---
 # abyssinian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small slender short-haired breed of african origin having brownish fur with a reddish undercoat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small slender short-haired breed of african origin having brownish fur with a reddish undercoat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Of course she was thinking of nothing at all, barring possibly a new sherbet to be made, or whether, if they sold Fatima, the Abyssinian cook, who was becoming garrulous, would Fatima have a good home."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"A damsel with a dulcimer In a vision once I saw: It was an Abyssinian maid, And on her dulcimer she played, Singing of Mount Abora."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small slender short-haired breed of african origin having brownish fur with a reddish undercoat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small slender short-haired breed of african origin having brownish fur with a reddish undercoat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Of course she was thinking of nothing at all, barring possibly a new sherbet to be made, or whether, if they sold Fatima, the Abyssinian cook, who was becoming garrulous, would Fatima have a good home."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"A damsel with a dulcimer In a vision once I saw: It was an Abyssinian maid, And on her dulcimer she played, Singing of Mount Abora."*

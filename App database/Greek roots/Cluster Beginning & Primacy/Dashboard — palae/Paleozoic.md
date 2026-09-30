@@ -5,14 +5,6 @@ status: unread
 ---
 # Paleozoic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, originating in, or being an era of geologic history that extends from the beginning of the Cambrian to the close of the Permian and is marked by the culmination of nearly all classes of invertebrates except the insects and in the later epochs by the appearance of terrestrial plants, amphibians, and reptiles; also : relating to the corresponding system of rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, originating in, or being an era of geologic history that extends from the beginning of the Cambrian to the close of the Permian and is marked by the culmination of nearly all classes of invertebrates except the insects and in the later epochs by the appearance of terrestrial plants, amphibians, and reptiles; also : relating to the corresponding system of rocks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Our leader, Professor Paleozoic, ordinarily existed in a sort of transition state between the primary and tertiary formations."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Colon seemed equally demented, following close upon Paleozoic's heels with a bug-net."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, originating in, or being an era of geologic history that extends from the beginning of the Cambrian to the close of the Permian and is marked by the culmination of nearly all classes of invertebrates except the insects and in the later epochs by the appearance of terrestrial plants, amphibians, and reptiles; also : relating to the corresponding system of rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, originating in, or being an era of geologic history that extends from the beginning of the Cambrian to the close of the Permian and is marked by the culmination of nearly all classes of invertebrates except the insects and in the later epochs by the appearance of terrestrial plants, amphibians, and reptiles; also : relating to the corresponding system of rocks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Our leader, Professor Paleozoic, ordinarily existed in a sort of transition state between the primary and tertiary formations."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Colon seemed equally demented, following close upon Paleozoic's heels with a bug-net."*

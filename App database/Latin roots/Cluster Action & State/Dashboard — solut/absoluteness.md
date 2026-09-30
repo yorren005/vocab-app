@@ -5,15 +5,6 @@ status: unread
 ---
 # absoluteness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being complete or utter or extreme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being absolute.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The absoluteness of possession pleased them, and they realized it as the first moment of their experience under their own exclusive roof-tree."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Now, my body was so near to being entirely dead that I knew in all absoluteness that by a quick concentration of will on the yet-alive patch of my torso it, too, would cease to be."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I knew, in all absoluteness, that did I but miss one star I should be precipitated into some unplummeted abyss of unthinkable and eternal punishment and guilt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being complete or utter or extreme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being absolute.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The absoluteness of possession pleased them, and they realized it as the first moment of their experience under their own exclusive roof-tree."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Now, my body was so near to being entirely dead that I knew in all absoluteness that by a quick concentration of will on the yet-alive patch of my torso it, too, would cease to be."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I knew, in all absoluteness, that did I but miss one star I should be precipitated into some unplummeted abyss of unthinkable and eternal punishment and guilt."*

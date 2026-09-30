@@ -5,13 +5,6 @@ status: unread
 ---
 # decapod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Decapoda) of crustaceans (such as shrimp, lobsters, and crabs) with five pairs of thoracic appendages one or more of which are modified into pincers, with stalked eyes, and with the head and thorax fused into a cephalothorax and covered by a carapace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the cephalopod mollusks (orders Sepioidea and Teuthoidea) with 10 arms including cuttlefishes, squids, and related forms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decapod designates any of an order (decapoda) of crustaceans (such as shrimp, lobsters, and crabs) with five pairs of thoracic appendages one or more of which are modified into pincers, with stalked eyes, and with the head and thorax fused into a cephalothorax and covered by a carapace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Decapoda) of crustaceans (such as shrimp, lobsters, and crabs) with five pairs of thoracic appendages one or more of which are modified into pincers, with stalked eyes, and with the head and thorax fused into a cephalothorax and covered by a carapace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the cephalopod mollusks (orders Sepioidea and Teuthoidea) with 10 arms including cuttlefishes, squids, and related forms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decapod designates any of an order (decapoda) of crustaceans (such as shrimp, lobsters, and crabs) with five pairs of thoracic appendages one or more of which are modified into pincers, with stalked eyes, and with the head and thorax fused into a cephalothorax and covered by a carapace."*

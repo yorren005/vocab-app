@@ -5,13 +5,6 @@ status: unread
 ---
 # arcella
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amoeba-like protozoan with a chitinous shell resembling an umbrella.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amoeba-like protozoan with a chitinous shell resembling an umbrella.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arcella designates an amoeba-like protozoan with a chitinous shell resembling an umbrella."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An amoeba-like protozoan with a chitinous shell resembling an umbrella.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amoeba-like protozoan with a chitinous shell resembling an umbrella.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arcella designates an amoeba-like protozoan with a chitinous shell resembling an umbrella."*

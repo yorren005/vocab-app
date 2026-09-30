@@ -5,14 +5,6 @@ status: unread
 ---
 # unparliamentary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So rude and abusive as to be unsuitable for parliament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So rude and abusive as to be unsuitable for parliament.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"So the Commons resolved that it is unparliamentary to strike out, at a conference, anything in a bill which hath been agreed and passed by both Houses. _6 Grey_, 274; _1 Chand._, 312."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"So when an unparliamentary message has been sent, instead of answering it, they ask a conference. _3 Grey_, 155."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: So rude and abusive as to be unsuitable for parliament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So rude and abusive as to be unsuitable for parliament.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"So the Commons resolved that it is unparliamentary to strike out, at a conference, anything in a bill which hath been agreed and passed by both Houses. _6 Grey_, 274; _1 Chand._, 312."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"So when an unparliamentary message has been sent, instead of answering it, they ask a conference. _3 Grey_, 155."*

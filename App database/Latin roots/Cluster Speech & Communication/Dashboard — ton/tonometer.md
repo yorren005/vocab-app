@@ -5,13 +5,6 @@ status: unread
 ---
 # tonometer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring instrument for measuring tension or pressure (especially for measuring intraocular pressure in testing for glaucoma).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring instrument for measuring tension or pressure (especially for measuring intraocular pressure in testing for glaucoma).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tonometer designates measuring instrument for measuring tension or pressure (especially for measuring intraocular pressure in testing for glaucoma)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring instrument for measuring tension or pressure (especially for measuring intraocular pressure in testing for glaucoma).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring instrument for measuring tension or pressure (especially for measuring intraocular pressure in testing for glaucoma).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tonometer designates measuring instrument for measuring tension or pressure (especially for measuring intraocular pressure in testing for glaucoma)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # stalking-horse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A candidate put forward to divide the opposition or to mask the true candidate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something serving to conceal plans; a fictitious reason that is concocted in order to conceal the real reason.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stalking-horse designates a candidate put forward to divide the opposition or to mask the true candidate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A candidate put forward to divide the opposition or to mask the true candidate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something serving to conceal plans; a fictitious reason that is concocted in order to conceal the real reason.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stalking-horse designates a candidate put forward to divide the opposition or to mask the true candidate."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # prosperity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An economic state of growth with rising profits and full employment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of prospering; having good fortune.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bold gentleman, Prosperity be thy page!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, You have, I know, petitioned all the gods For my prosperity. [_Kneels._] VOLUMNIA."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, come; for thou shalt thrust thy hand as deep Into the purse of rich prosperity As Louis himself.—So, nobles, shall you all, That knit your sinews to the strength of mine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An economic state of growth with rising profits and full employment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of prospering; having good fortune.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bold gentleman, Prosperity be thy page!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, You have, I know, petitioned all the gods For my prosperity. [_Kneels._] VOLUMNIA."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, come; for thou shalt thrust thy hand as deep Into the purse of rich prosperity As Louis himself.—So, nobles, shall you all, That knit your sinews to the strength of mine."*

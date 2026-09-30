@@ -5,15 +5,6 @@ status: unread
 ---
 # recently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the recent past.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the recent past.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now it was Ada, now one of my old Reading friends from whom I could not believe I had so recently parted."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby has but recently taken a passage upward by the vessel, Chadband; and her attention was attracted to that Bark A 1, when she was something flushed by the hot weather."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Suppose I really had discharged into his body any one of those pistols recently fired off that Bucket has found at my place, and dear me, might have found there any day since it has been my place."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the recent past.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the recent past.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now it was Ada, now one of my old Reading friends from whom I could not believe I had so recently parted."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby has but recently taken a passage upward by the vessel, Chadband; and her attention was attracted to that Bark A 1, when she was something flushed by the hot weather."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Suppose I really had discharged into his body any one of those pistols recently fired off that Bucket has found at my place, and dear me, might have found there any day since it has been my place."*

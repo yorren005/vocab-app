@@ -5,14 +5,6 @@ status: unread
 ---
 # basaltic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or containing basalt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or containing basalt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The geological formation is sometimes basaltic, at others slate, porphyry, etc."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"One was Egeria, the nymph of the clear water which, bubbling from the basaltic rocks, used to fall in graceful cascades into the lake at the place called Le Mole, because here were established the mills of the modern village of Nemi."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or containing basalt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or containing basalt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The geological formation is sometimes basaltic, at others slate, porphyry, etc."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"One was Egeria, the nymph of the clear water which, bubbling from the basaltic rocks, used to fall in graceful cascades into the lake at the place called Le Mole, because here were established the mills of the modern village of Nemi."*

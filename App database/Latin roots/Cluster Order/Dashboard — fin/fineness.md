@@ -5,15 +5,6 @@ status: unread
 ---
 # fineness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being very good indeed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being very narrow or thin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Saving your merry humour, here’s the note How much your chain weighs to the utmost carat, The fineness of the gold, and chargeful fashion, Which doth amount to three odd ducats more Than I stand debted to this gentleman."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The metal is simply a valuable good, the receiver of which values it according to its weight and fineness."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Very early it became the practice of governments to shape and stamp pieces of metal to be used as money, so as to indicate their weight and fineness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being very good indeed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being very narrow or thin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Saving your merry humour, here’s the note How much your chain weighs to the utmost carat, The fineness of the gold, and chargeful fashion, Which doth amount to three odd ducats more Than I stand debted to this gentleman."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The metal is simply a valuable good, the receiver of which values it according to its weight and fineness."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Very early it became the practice of governments to shape and stamp pieces of metal to be used as money, so as to indicate their weight and fineness."*

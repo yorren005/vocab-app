@@ -5,13 +5,6 @@ status: unread
 ---
 # teleconferencing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conference of people who are in different locations that is made possible by the use of such telecommunications equipment as closed-circuit television.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conference of people who are in different locations that is made possible by the use of such telecommunications equipment as closed-circuit television.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleconferencing designates a conference of people who are in different locations that is made possible by the use of such telecommunications equipment as closed-circuit television."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conference of people who are in different locations that is made possible by the use of such telecommunications equipment as closed-circuit television.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conference of people who are in different locations that is made possible by the use of such telecommunications equipment as closed-circuit television.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleconferencing designates a conference of people who are in different locations that is made possible by the use of such telecommunications equipment as closed-circuit television."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # attractive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing to the eye or mind especially through beauty or charm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having power to arouse interest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, good mother, here’s metal more attractive."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Happy is Hermia, wheresoe’er she lies, For she hath blessèd and attractive eyes."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He will look for a suitable, attractive home in town that the three boys can move into next fall." "You do not mean to tell me, Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing to the eye or mind especially through beauty or charm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having power to arouse interest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, good mother, here’s metal more attractive."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Happy is Hermia, wheresoe’er she lies, For she hath blessèd and attractive eyes."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He will look for a suitable, attractive home in town that the three boys can move into next fall." "You do not mean to tell me, Mrs."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # calendula
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous chiefly annual herbs of the genus calendula widely cultivated for their yellow or orange flowers; often used for medicinal and culinary purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous chiefly annual herbs of the genus calendula widely cultivated for their yellow or orange flowers; often used for medicinal and culinary purposes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calendula designates any of numerous chiefly annual herbs of the genus calendula widely cultivated for their yellow or orange flowers; often used for medicinal and culinary purposes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous chiefly annual herbs of the genus calendula widely cultivated for their yellow or orange flowers; often used for medicinal and culinary purposes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous chiefly annual herbs of the genus calendula widely cultivated for their yellow or orange flowers; often used for medicinal and culinary purposes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calendula designates any of numerous chiefly annual herbs of the genus calendula widely cultivated for their yellow or orange flowers; often used for medicinal and culinary purposes."*

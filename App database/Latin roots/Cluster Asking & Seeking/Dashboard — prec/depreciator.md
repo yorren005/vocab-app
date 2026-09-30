@@ -5,13 +5,6 @@ status: unread
 ---
 # depreciator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who disparages or belittles the worth of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who disparages or belittles the worth of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, depreciator designates one who disparages or belittles the worth of something."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who disparages or belittles the worth of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who disparages or belittles the worth of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, depreciator designates one who disparages or belittles the worth of something."*

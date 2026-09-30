@@ -5,15 +5,6 @@ status: unread
 ---
 # verse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Literature in metrical form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of poetry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To give away yourself, keeps yourself still, And you must live drawn by your own sweet skill. 17 Who will believe my verse in time to come If it were filled with your most high deserts?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet to times in hope, my verse shall stand Praising thy worth, despite his cruel hand. 61 Is it thy will, thy image should keep open My heavy eyelids to the weary night?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O if, I say, you look upon this verse, When I (perhaps) compounded am with clay, Do not so much as my poor name rehearse; But let your love even with my life decay."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Literature in metrical form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of poetry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To give away yourself, keeps yourself still, And you must live drawn by your own sweet skill. 17 Who will believe my verse in time to come If it were filled with your most high deserts?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet to times in hope, my verse shall stand Praising thy worth, despite his cruel hand. 61 Is it thy will, thy image should keep open My heavy eyelids to the weary night?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O if, I say, you look upon this verse, When I (perhaps) compounded am with clay, Do not so much as my poor name rehearse; But let your love even with my life decay."*

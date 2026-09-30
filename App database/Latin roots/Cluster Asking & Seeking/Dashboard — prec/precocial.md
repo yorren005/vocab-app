@@ -5,13 +5,6 @@ status: unread
 ---
 # precocial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of hatchlings) covered with down and having eyes open; capable of leaving the nest within a few days.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of hatchlings) covered with down and having eyes open; capable of leaving the nest within a few days.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precocial designates (of hatchlings) covered with down and having eyes open; capable of leaving the nest within a few days."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of hatchlings) covered with down and having eyes open; capable of leaving the nest within a few days.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of hatchlings) covered with down and having eyes open; capable of leaving the nest within a few days.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precocial designates (of hatchlings) covered with down and having eyes open; capable of leaving the nest within a few days."*

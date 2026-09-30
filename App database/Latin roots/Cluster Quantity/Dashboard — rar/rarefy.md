@@ -5,15 +5,6 @@ status: unread
 ---
 # rarefy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lessen the density or solidity of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more subtle or refined.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"They are earth's lumi- naries, which serve to cleanse and rarefy the atmosphere of 37:12 material sense and to permeate humanity with purer ideals."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The country gentry of old time lived in a rarefied social air: dotted apart on their stations up the mountain they looked down with imperfect discrimination on the belts of thicker life below."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Only let us breathe slowly as we ascend to still greater elevations with their consequent rarefied air," he added, with the most heavenly thoughtfulness in his fine face."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lessen the density or solidity of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more subtle or refined.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"They are earth's lumi- naries, which serve to cleanse and rarefy the atmosphere of 37:12 material sense and to permeate humanity with purer ideals."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The country gentry of old time lived in a rarefied social air: dotted apart on their stations up the mountain they looked down with imperfect discrimination on the belts of thicker life below."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Only let us breathe slowly as we ascend to still greater elevations with their consequent rarefied air," he added, with the most heavenly thoughtfulness in his fine face."*

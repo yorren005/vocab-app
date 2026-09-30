@@ -5,15 +5,6 @@ status: unread
 ---
 # tender
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that can be used as an official medium of payment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who waits on or tends to or attends to the needs of another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O therefore love be of thyself so wary, As I not for my self, but for thee will, Bearing thy heart which I will keep so chary As tender nurse her babe from faring ill."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For when these quicker elements are gone In tender embassy of love to thee, My life being made of four, with two alone, Sinks down to death, oppressed with melancholy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But think you, Helen, If you should tender your supposed aid, He would receive it?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that can be used as an official medium of payment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who waits on or tends to or attends to the needs of another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O therefore love be of thyself so wary, As I not for my self, but for thee will, Bearing thy heart which I will keep so chary As tender nurse her babe from faring ill."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For when these quicker elements are gone In tender embassy of love to thee, My life being made of four, with two alone, Sinks down to death, oppressed with melancholy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But think you, Helen, If you should tender your supposed aid, He would receive it?"*

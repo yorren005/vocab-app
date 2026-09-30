@@ -5,14 +5,6 @@ status: unread
 ---
 # congenital
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Present at birth but not necessarily hereditary; acquired during fetal development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Present at birth but not necessarily hereditary; acquired during fetal development.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"And it may not, therefore, be amiss to consider whether it was conditioned by anything beyond his congenital nature."*
-> - 📜 **James Joyce (*Ulysses*):** *"A truce to threnes and trentals and jeremies and all such congenital defunctive music!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Present at birth but not necessarily hereditary; acquired during fetal development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Present at birth but not necessarily hereditary; acquired during fetal development.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"And it may not, therefore, be amiss to consider whether it was conditioned by anything beyond his congenital nature."*
+> - 📜 **James Joyce (*Ulysses*):** *"A truce to threnes and trentals and jeremies and all such congenital defunctive music!"*

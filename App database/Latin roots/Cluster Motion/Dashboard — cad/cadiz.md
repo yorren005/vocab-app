@@ -5,15 +5,6 @@ status: unread
 ---
 # cadiz
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient port city in southwestern spain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient port city in southwestern spain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"By all accounts Tarshish could have been no other city than the modern Cadiz."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And where is Cadiz, shipmates?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Cadiz is in Spain; as far by water, from Joppa, as Jonah could possibly have sailed in those ancient days, when the Atlantic was an almost unknown sea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient port city in southwestern spain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient port city in southwestern spain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"By all accounts Tarshish could have been no other city than the modern Cadiz."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And where is Cadiz, shipmates?"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Cadiz is in Spain; as far by water, from Joppa, as Jonah could possibly have sailed in those ancient days, when the Atlantic was an almost unknown sea."*

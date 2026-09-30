@@ -5,15 +5,6 @@ status: unread
 ---
 # fortnight
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of fourteen consecutive days.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A period of fourteen consecutive days.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They have had inkling this fortnight what we intend to do, which now we’ll show ’em in deeds."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For what offence have I this fortnight been A banish’d woman from my Harry’s bed?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your majesty hath been this fortnight ill, And these unseason’d hours perforce must add Unto your sickness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of fourteen consecutive days.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A period of fourteen consecutive days.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They have had inkling this fortnight what we intend to do, which now we’ll show ’em in deeds."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For what offence have I this fortnight been A banish’d woman from my Harry’s bed?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your majesty hath been this fortnight ill, And these unseason’d hours perforce must add Unto your sickness."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # kinetochore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Centromere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialized structure on the centromere to which the microtubular spindle fibers attach during mitosis and meiosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinetochore designates centromere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Centromere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialized structure on the centromere to which the microtubular spindle fibers attach during mitosis and meiosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinetochore designates centromere."*

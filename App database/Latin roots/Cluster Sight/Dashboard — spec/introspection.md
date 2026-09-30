@@ -5,15 +5,6 @@ status: unread
 ---
 # introspection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The contemplation of your own thoughts and desires and conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The contemplation of your own thoughts and desires and conduct.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The fact that this introspection is an inevitable symptom in many mental derangements, hypochondria, melancholia and others, indicates a not very remote relation of Weltschmerz to insanity."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Consequently his Weltschmerz loses in breadth what through the depth of the poet's introspection it gains in intensity."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"He thus typified the constant introspection wherewith he tortured, but could not purify himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The contemplation of your own thoughts and desires and conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The contemplation of your own thoughts and desires and conduct.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The fact that this introspection is an inevitable symptom in many mental derangements, hypochondria, melancholia and others, indicates a not very remote relation of Weltschmerz to insanity."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Consequently his Weltschmerz loses in breadth what through the depth of the poet's introspection it gains in intensity."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"He thus typified the constant introspection wherewith he tortured, but could not purify himself."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # college
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The body of faculty and students of a college.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An institution of higher education created to educate and grant degrees; often a part of a university.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We thank you, maiden, But may not be so credulous of cure, When our most learned doctors leave us, and The congregated college have concluded That labouring art can never ransom nature From her inaidable estate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would the college of the cardinals Would choose him pope and carry him to Rome And set the triple crown upon his head!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll tell thee what, Prince; a college of witcrackers cannot flout me out of my humour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The body of faculty and students of a college.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An institution of higher education created to educate and grant degrees; often a part of a university.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We thank you, maiden, But may not be so credulous of cure, When our most learned doctors leave us, and The congregated college have concluded That labouring art can never ransom nature From her inaidable estate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would the college of the cardinals Would choose him pope and carry him to Rome And set the triple crown upon his head!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll tell thee what, Prince; a college of witcrackers cannot flout me out of my humour."*

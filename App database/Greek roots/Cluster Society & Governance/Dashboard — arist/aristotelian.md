@@ -5,14 +5,6 @@ status: unread
 ---
 # aristotelian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A follower of aristotle or an adherent of aristotelianism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to aristotle or his philosophy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"All the virtues in the Aristotelian canon are self-contained states of the virtuous man himself ...."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The revival of Roman law, of the Aristotelian philosophy, of ancient art and literature at the close of the Middle Ages, marked the return of Europe to native ideals of life and conduct, to saner, manlier views of the world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A follower of aristotle or an adherent of aristotelianism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to aristotle or his philosophy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"All the virtues in the Aristotelian canon are self-contained states of the virtuous man himself ...."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The revival of Roman law, of the Aristotelian philosophy, of ancient art and literature at the close of the Middle Ages, marked the return of Europe to native ideals of life and conduct, to saner, manlier views of the world."*

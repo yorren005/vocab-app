@@ -5,13 +5,6 @@ status: unread
 ---
 # exculpate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pronounce not guilty of criminal charges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pronounce not guilty of criminal charges.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"This I do, not in the least to exculpate myself, because what I have done, I have done calmly and with intention aforethought."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pronounce not guilty of criminal charges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pronounce not guilty of criminal charges.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"This I do, not in the least to exculpate myself, because what I have done, I have done calmly and with intention aforethought."*

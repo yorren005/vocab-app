@@ -5,13 +5,6 @@ status: unread
 ---
 # undistributed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of investments) not distributed among a variety of securities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of investments) not distributed among a variety of securities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undistributed designates (of investments) not distributed among a variety of securities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of investments) not distributed among a variety of securities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of investments) not distributed among a variety of securities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undistributed designates (of investments) not distributed among a variety of securities."*

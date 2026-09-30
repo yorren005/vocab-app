@@ -5,20 +5,6 @@ status: unread
 ---
 # disdain
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (uncountable) a feeling of contempt or scorn
-> 2. **Nuance / Usage**: Look on (someone or something) with scorn or contempt
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the disdain withstood the storm*), direct object (*cleaved the disdain*), or prepositional anchor (*amidst the disdain*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"It shall be so, disdain they ne’er so much."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"By rule of knighthood, I disdain and spurn."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And I did scorn it and disdain to fly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: (uncountable) a feeling of contempt or scorn
+> 2. **Nuance / Usage**: Look on (someone or something) with scorn or contempt
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the disdain withstood the storm*), direct object (*cleaved the disdain*), or prepositional anchor (*amidst the disdain*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"It shall be so, disdain they ne’er so much."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"By rule of knighthood, I disdain and spurn."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And I did scorn it and disdain to fly."*

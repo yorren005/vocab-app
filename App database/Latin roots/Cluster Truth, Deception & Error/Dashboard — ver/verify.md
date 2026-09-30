@@ -5,15 +5,6 @@ status: unread
 ---
 # verify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confirm the truth of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Check or regulate (a scientific experiment) by conducting a parallel experiment or comparing with another standard.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will verify as much in his beard."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To verify our title with their lives."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Thus, without opening my eyes to verify, I knew that the walls of my narrow cell had receded until it was like a vast audience-chamber."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Confirm the truth of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Check or regulate (a scientific experiment) by conducting a parallel experiment or comparing with another standard.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will verify as much in his beard."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To verify our title with their lives."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Thus, without opening my eyes to verify, I knew that the walls of my narrow cell had receded until it was like a vast audience-chamber."*

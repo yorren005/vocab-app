@@ -5,15 +5,6 @@ status: unread
 ---
 # fix
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal terms for a difficult situation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something craved, especially an intravenous injection of a narcotic drug.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The king’s disease,—my project may deceive me, But my intents are fix’d, and will not leave me. [_Exit._] SCENE II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The children thus dispos’d, my wife and I, Fixing our eyes on whom our care was fix’d, Fast’ned ourselves at either end the mast, And, floating straight, obedient to the stream, Was carried towards Corinth, as we thought."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or that the Everlasting had not fix’d His canon ’gainst self-slaughter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal terms for a difficult situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something craved, especially an intravenous injection of a narcotic drug.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The king’s disease,—my project may deceive me, But my intents are fix’d, and will not leave me. [_Exit._] SCENE II."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The children thus dispos’d, my wife and I, Fixing our eyes on whom our care was fix’d, Fast’ned ourselves at either end the mast, And, floating straight, obedient to the stream, Was carried towards Corinth, as we thought."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or that the Everlasting had not fix’d His canon ’gainst self-slaughter."*

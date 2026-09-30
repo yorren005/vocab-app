@@ -5,13 +5,6 @@ status: unread
 ---
 # undershirt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collarless men's undergarment for the upper part of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collarless men's undergarment for the upper part of the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Her boy Harold was the nearest in size to Bob of any of the children of his neighbours, and the parcel held everything needed from undershirt to scarlet Windsor scarf to tie under the rolling collar of the blue blouse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collarless men's undergarment for the upper part of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collarless men's undergarment for the upper part of the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Her boy Harold was the nearest in size to Bob of any of the children of his neighbours, and the parcel held everything needed from undershirt to scarlet Windsor scarf to tie under the rolling collar of the blue blouse."*

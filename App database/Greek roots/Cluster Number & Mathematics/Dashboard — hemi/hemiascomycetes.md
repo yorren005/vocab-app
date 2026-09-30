@@ -5,13 +5,6 @@ status: unread
 ---
 # hemiascomycetes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Class of fungi in which no ascocarps are formed: yeasts and some plant parasites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Class of fungi in which no ascocarps are formed: yeasts and some plant parasites.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemiascomycetes designates class of fungi in which no ascocarps are formed: yeasts and some plant parasites."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Class of fungi in which no ascocarps are formed: yeasts and some plant parasites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Class of fungi in which no ascocarps are formed: yeasts and some plant parasites.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemiascomycetes designates class of fungi in which no ascocarps are formed: yeasts and some plant parasites."*

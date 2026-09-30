@@ -5,13 +5,6 @@ status: unread
 ---
 # penultimate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The next to last syllable in a word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Next to the last.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"How serene does she now arise, a queen among the Pleiades, in the penultimate antelucan hour, shod in sandals of bright gold, coifed with a veil of what do you call it gossamer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The next to last syllable in a word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Next to the last.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"How serene does she now arise, a queen among the Pleiades, in the penultimate antelucan hour, shod in sandals of bright gold, coifed with a veil of what do you call it gossamer."*

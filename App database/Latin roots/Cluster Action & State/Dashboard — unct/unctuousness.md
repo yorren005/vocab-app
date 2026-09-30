@@ -5,15 +5,6 @@ status: unread
 ---
 # unctuousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Smug self-serving earnestness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smug self-serving earnestness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Granting other whales to be in sight, the fishermen will seldom give chase to one of these Grand Turks; for these Grand Turks are too lavish of their strength, and hence their unctuousness is small."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Plum-pudding is the term bestowed upon certain fragmentary parts of the whale’s flesh, here and there adhering to the blanket of blubber, and often participating to a considerable degree in its unctuousness."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Granting other whales to be in sight, the fishermen will seldom give chase to one of these Grand Turks; for these Grand Turks are too lavish of their strength, and hence their unctuousness is small."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Smug self-serving earnestness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smug self-serving earnestness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Granting other whales to be in sight, the fishermen will seldom give chase to one of these Grand Turks; for these Grand Turks are too lavish of their strength, and hence their unctuousness is small."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Plum-pudding is the term bestowed upon certain fragmentary parts of the whale’s flesh, here and there adhering to the blanket of blubber, and often participating to a considerable degree in its unctuousness."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Granting other whales to be in sight, the fishermen will seldom give chase to one of these Grand Turks; for these Grand Turks are too lavish of their strength, and hence their unctuousness is small."*

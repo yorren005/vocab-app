@@ -5,13 +5,6 @@ status: unread
 ---
 # gnomic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by aphorism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to the composition of gnomic writing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"If before going to the d’Urbervilles’ she had vigorously moved under the guidance of sundry gnomic texts and phrases known to her and to the world in general, no doubt she would never have been imposed on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by aphorism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to the composition of gnomic writing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"If before going to the d’Urbervilles’ she had vigorously moved under the guidance of sundry gnomic texts and phrases known to her and to the world in general, no doubt she would never have been imposed on."*

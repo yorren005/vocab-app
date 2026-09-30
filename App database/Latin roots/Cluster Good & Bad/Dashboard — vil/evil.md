@@ -5,15 +5,6 @@ status: unread
 ---
 # evil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Morally objectionable behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That which causes harm or destruction or misfortune; - shakespeare.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O benefit of ill, now I find true That better is, by evil still made better."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To win me soon to hell my female evil Tempteth my better angel from my side, And would corrupt my saint to be a devil, Wooing his purity with her foul pride."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, monsieur; I have spoken better of you than you have or will to deserve at my hand; but we must do good against evil. [_Exit._] PAROLLES."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Morally objectionable behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That which causes harm or destruction or misfortune; - shakespeare.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O benefit of ill, now I find true That better is, by evil still made better."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To win me soon to hell my female evil Tempteth my better angel from my side, And would corrupt my saint to be a devil, Wooing his purity with her foul pride."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, monsieur; I have spoken better of you than you have or will to deserve at my hand; but we must do good against evil. [_Exit._] PAROLLES."*

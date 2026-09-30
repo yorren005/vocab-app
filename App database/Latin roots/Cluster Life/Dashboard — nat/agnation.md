@@ -5,13 +5,6 @@ status: unread
 ---
 # agnation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Line of descent traced through the paternal side of the family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Line of descent traced through the paternal side of the family.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agnation designates line of descent traced through the paternal side of the family."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Line of descent traced through the paternal side of the family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Line of descent traced through the paternal side of the family.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agnation designates line of descent traced through the paternal side of the family."*

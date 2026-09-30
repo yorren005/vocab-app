@@ -5,15 +5,6 @@ status: unread
 ---
 # contention
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A point asserted as part of an argument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contentious speech act; a dispute where there is strong disagreement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Safely, I think. ’Twas a contention in public, which may, without contradiction, suffer the report."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The times are wild; contention, like a horse Full of high feeding, madly hath broke loose And bears down all before him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was in a place where I could not breed no contention with him; but I will be so bold as to wear it in my cap till I see him once again, and then I will tell him a little piece of my desires."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A point asserted as part of an argument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contentious speech act; a dispute where there is strong disagreement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Safely, I think. ’Twas a contention in public, which may, without contradiction, suffer the report."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The times are wild; contention, like a horse Full of high feeding, madly hath broke loose And bears down all before him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was in a place where I could not breed no contention with him; but I will be so bold as to wear it in my cap till I see him once again, and then I will tell him a little piece of my desires."*

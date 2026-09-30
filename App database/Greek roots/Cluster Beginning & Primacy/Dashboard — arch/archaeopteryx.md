@@ -5,13 +5,6 @@ status: unread
 ---
 # archaeopteryx
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A primitive crow-sized bird (genus Archaeopteryx) of the Upper Jurassic period of Europe having reptilian characteristics (such as teeth and a long bony tail).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A primitive crow-sized bird (genus Archaeopteryx) of the Upper Jurassic period of Europe having reptilian characteristics (such as teeth and a long bony tail).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaeopteryx designates a primitive crow-sized bird (genus archaeopteryx) of the upper jurassic period of europe having reptilian characteristics (such as teeth and a long bony tail)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A primitive crow-sized bird (genus Archaeopteryx) of the Upper Jurassic period of Europe having reptilian characteristics (such as teeth and a long bony tail).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A primitive crow-sized bird (genus Archaeopteryx) of the Upper Jurassic period of Europe having reptilian characteristics (such as teeth and a long bony tail).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaeopteryx designates a primitive crow-sized bird (genus archaeopteryx) of the upper jurassic period of europe having reptilian characteristics (such as teeth and a long bony tail)."*

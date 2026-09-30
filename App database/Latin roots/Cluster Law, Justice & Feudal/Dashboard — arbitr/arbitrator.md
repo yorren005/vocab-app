@@ -5,15 +5,6 @@ status: unread
 ---
 # arbitrator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone chosen to judge and decide a disputed issue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone chosen to judge and decide a disputed issue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now the arbitrator of despairs, Just Death, kind umpire of men’s miseries, With sweet enlargement doth dismiss me hence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The end crowns all; And that old common arbitrator, Time, Will one day end it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let th’ event, That never-erring arbitrator, tell us When we know all ourselves; and let us follow The becking of our chance. [_Exeunt._] SCENE III."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone chosen to judge and decide a disputed issue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone chosen to judge and decide a disputed issue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now the arbitrator of despairs, Just Death, kind umpire of men’s miseries, With sweet enlargement doth dismiss me hence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The end crowns all; And that old common arbitrator, Time, Will one day end it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let th’ event, That never-erring arbitrator, tell us When we know all ourselves; and let us follow The becking of our chance. [_Exeunt._] SCENE III."*

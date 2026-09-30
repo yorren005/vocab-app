@@ -5,15 +5,6 @@ status: unread
 ---
 # contumelious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrogantly insolent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrogantly insolent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With scoffs and scorns and contumelious taunts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He dares not calm his contumelious spirit, Nor cease to be an arrogant controller, Though Suffolk dare him twenty thousand times."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"You know how you feel at the iron gripe of ruthless oppression: you know how you bear the galling sneer of contumelious greatness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrogantly insolent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrogantly insolent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With scoffs and scorns and contumelious taunts."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He dares not calm his contumelious spirit, Nor cease to be an arrogant controller, Though Suffolk dare him twenty thousand times."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"You know how you feel at the iron gripe of ruthless oppression: you know how you bear the galling sneer of contumelious greatness."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # devotional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short religious service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to worship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The former curves of sensuousness were now modulated to lines of devotional passion."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The servant handed him a book which Pierre took to be a devotional work, and the traveler became absorbed in it."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was aghast at his hesitation and, trying to arouse his former devotional feeling, prostrated himself before the Gates of the Temple."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short religious service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to worship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The former curves of sensuousness were now modulated to lines of devotional passion."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The servant handed him a book which Pierre took to be a devotional work, and the traveler became absorbed in it."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was aghast at his hesitation and, trying to arouse his former devotional feeling, prostrated himself before the Gates of the Temple."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # menthol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline alcohol C10H20O that occurs especially in mint oils and has the odor and cooling properties of peppermint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mentholated cigarettes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, menthol designates a crystalline alcohol c10h20o that occurs especially in mint oils and has the odor and cooling properties of peppermint."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline alcohol C10H20O that occurs especially in mint oils and has the odor and cooling properties of peppermint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mentholated cigarettes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, menthol designates a crystalline alcohol c10h20o that occurs especially in mint oils and has the odor and cooling properties of peppermint."*

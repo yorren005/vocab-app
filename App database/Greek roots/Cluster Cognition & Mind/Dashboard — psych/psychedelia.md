@@ -5,13 +5,6 @@ status: unread
 ---
 # psychedelia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The world of people, phenomena, or items associated with psychedelic drugs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Psychedelic music.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychedelia designates the world of people, phenomena, or items associated with psychedelic drugs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The world of people, phenomena, or items associated with psychedelic drugs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Psychedelic music.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychedelia designates the world of people, phenomena, or items associated with psychedelic drugs."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # caviller
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disputant who quibbles; someone who raises annoying petty objections.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disputant who quibbles; someone who raises annoying petty objections.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Jane, I don’t like cavillers or questioners; besides, there is something truly forbidding in a child taking up her elders in that manner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disputant who quibbles; someone who raises annoying petty objections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disputant who quibbles; someone who raises annoying petty objections.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Jane, I don’t like cavillers or questioners; besides, there is something truly forbidding in a child taking up her elders in that manner."*

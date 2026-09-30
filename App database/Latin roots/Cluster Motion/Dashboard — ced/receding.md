@@ -5,15 +5,6 @@ status: unread
 ---
 # receding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slow or gradual disappearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of becoming more distant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A mounted figure passed between her and the sky, and drew on towards the field of sheep, the rider turning his face in receding."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They might be receding, or they might be approaching, one or the other, a little every day."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"In the pause which succeeded, a sound like receding footsteps and the closing of a distant door struck on her affrighted ear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slow or gradual disappearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of becoming more distant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A mounted figure passed between her and the sky, and drew on towards the field of sheep, the rider turning his face in receding."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They might be receding, or they might be approaching, one or the other, a little every day."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"In the pause which succeeded, a sound like receding footsteps and the closing of a distant door struck on her affrighted ear."*

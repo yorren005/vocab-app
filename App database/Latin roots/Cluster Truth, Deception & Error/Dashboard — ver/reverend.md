@@ -5,15 +5,6 @@ status: unread
 ---
 # reverend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the clergy and a spiritual leader of the christian church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A title of respect for a clergyman.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of very reverend reputation, sir, Of credit infinite, highly belov’d, Second to none that lives here in the city."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To see a reverend Syracusian merchant, Who put unluckily into this bay Against the laws and statutes of this town, Beheaded publicly for his offence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is a virtuous and a reverend lady, It cannot be that she hath done thee wrong."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the clergy and a spiritual leader of the christian church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A title of respect for a clergyman.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of very reverend reputation, sir, Of credit infinite, highly belov’d, Second to none that lives here in the city."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To see a reverend Syracusian merchant, Who put unluckily into this bay Against the laws and statutes of this town, Beheaded publicly for his offence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is a virtuous and a reverend lady, It cannot be that she hath done thee wrong."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # instance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An occurrence of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An item of information that is typical of a class or group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wherefore, what’s the instance?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A more sounder instance, come."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reason that I gather he is mad, Besides this present instance of his rage, Is a mad tale he told today at dinner Of his own doors being shut against his entrance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An occurrence of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An item of information that is typical of a class or group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wherefore, what’s the instance?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A more sounder instance, come."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reason that I gather he is mad, Besides this present instance of his rage, Is a mad tale he told today at dinner Of his own doors being shut against his entrance."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # resolve
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being resolute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal expression by a meeting; agreed to by a vote.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is as easy to count atomies as to resolve the propositions of a lover."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that this too too solid flesh would melt, Thaw, and resolve itself into a dew!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Resolve on this; thou shalt be fortunate If thou receive me for thy warlike mate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being resolute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal expression by a meeting; agreed to by a vote.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is as easy to count atomies as to resolve the propositions of a lover."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that this too too solid flesh would melt, Thaw, and resolve itself into a dew!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Resolve on this; thou shalt be fortunate If thou receive me for thy warlike mate."*

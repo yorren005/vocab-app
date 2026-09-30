@@ -5,13 +5,6 @@ status: unread
 ---
 # unclassified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subject to a security classification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not arranged in any specific grouping.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unclassified designates not subject to a security classification."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subject to a security classification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not arranged in any specific grouping.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unclassified designates not subject to a security classification."*

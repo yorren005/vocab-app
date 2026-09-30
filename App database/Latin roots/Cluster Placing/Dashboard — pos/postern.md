@@ -5,15 +5,6 @@ status: unread
 ---
 # postern
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small gate in the rear of a fort or castle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small gate in the rear of a fort or castle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That spirit’s possessed with haste That wounds th’ unsisting postern with these strokes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go on, good Eglamour, Out at the postern by the abbey wall."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"No one made any reply; but Lecamus said, 'Have the goodness to open the little postern for foot-passengers: M. le Maire wishes to make an inspection outside.' Upon these words, Riou, who knew me well, caught me by the arm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small gate in the rear of a fort or castle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small gate in the rear of a fort or castle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That spirit’s possessed with haste That wounds th’ unsisting postern with these strokes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go on, good Eglamour, Out at the postern by the abbey wall."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"No one made any reply; but Lecamus said, 'Have the goodness to open the little postern for foot-passengers: M. le Maire wishes to make an inspection outside.' Upon these words, Riou, who knew me well, caught me by the arm."*

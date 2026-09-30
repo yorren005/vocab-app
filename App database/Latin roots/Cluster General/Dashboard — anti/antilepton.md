@@ -5,13 +5,6 @@ status: unread
 ---
 # antilepton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The antiparticle of a lepton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The antiparticle of a lepton.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antilepton designates the antiparticle of a lepton."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The antiparticle of a lepton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The antiparticle of a lepton.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antilepton designates the antiparticle of a lepton."*

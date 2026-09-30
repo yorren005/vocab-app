@@ -5,15 +5,6 @@ status: unread
 ---
 # barnacle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine crustaceans with feathery food-catching appendages; free-swimming as larvae; as adults form a hard shell and live attached to submerged surfaces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: European goose smaller than the brant; breeds in the far north.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"From that hour I clove to Queequeg like a barnacle; yea, till poor Queequeg took his last long dive."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"From that hour I clove to Queequeg like a barnacle; yea, till poor Queequeg took his last long dive."*
-> - 📜 **James Joyce (*Ulysses*):** *"God becomes man becomes fish becomes barnacle goose becomes featherbed mountain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine crustaceans with feathery food-catching appendages; free-swimming as larvae; as adults form a hard shell and live attached to submerged surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: European goose smaller than the brant; breeds in the far north.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"From that hour I clove to Queequeg like a barnacle; yea, till poor Queequeg took his last long dive."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"From that hour I clove to Queequeg like a barnacle; yea, till poor Queequeg took his last long dive."*
+> - 📜 **James Joyce (*Ulysses*):** *"God becomes man becomes fish becomes barnacle goose becomes featherbed mountain."*

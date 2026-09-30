@@ -5,13 +5,6 @@ status: unread
 ---
 # xerophthalmia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dry thickened lusterless condition of the eyeball resulting especially from a severe systemic deficiency of vitamin A.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dry thickened lusterless condition of the eyeball resulting especially from a severe systemic deficiency of vitamin A.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xerophthalmia designates a dry thickened lusterless condition of the eyeball resulting especially from a severe systemic deficiency of vitamin a."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dry thickened lusterless condition of the eyeball resulting especially from a severe systemic deficiency of vitamin A.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dry thickened lusterless condition of the eyeball resulting especially from a severe systemic deficiency of vitamin A.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xerophthalmia designates a dry thickened lusterless condition of the eyeball resulting especially from a severe systemic deficiency of vitamin a."*

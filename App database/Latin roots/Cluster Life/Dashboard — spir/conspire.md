@@ -5,15 +5,6 @@ status: unread
 ---
 # conspire
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Engage in plotting or enter into a conspiracy, swear together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act in unison or agreement and in secret towards a deceitful or illegal purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What was’t That moved pale Cassius to conspire?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What mutter you, or what conspire you, lords?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"John lays you plots; the times conspire with you; For he that steeps his safety in true blood Shall find but bloody safety and untrue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engage in plotting or enter into a conspiracy, swear together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act in unison or agreement and in secret towards a deceitful or illegal purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What was’t That moved pale Cassius to conspire?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What mutter you, or what conspire you, lords?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"John lays you plots; the times conspire with you; For he that steeps his safety in true blood Shall find but bloody safety and untrue."*

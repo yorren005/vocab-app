@@ -5,13 +5,6 @@ status: unread
 ---
 # etymologize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give the etymology or derivation or suggest an etymology (for a word).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Construct the history of words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, etymologize designates give the etymology or derivation or suggest an etymology (for a word)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give the etymology or derivation or suggest an etymology (for a word).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Construct the history of words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, etymologize designates give the etymology or derivation or suggest an etymology (for a word)."*

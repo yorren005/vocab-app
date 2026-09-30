@@ -5,13 +5,6 @@ status: unread
 ---
 # principen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Semisynthetic penicillin (trade names principen and polycillin and sk-ampicillin).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Semisynthetic penicillin (trade names principen and polycillin and sk-ampicillin).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, principen designates semisynthetic penicillin (trade names principen and polycillin and sk-ampicillin)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Semisynthetic penicillin (trade names principen and polycillin and sk-ampicillin).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Semisynthetic penicillin (trade names principen and polycillin and sk-ampicillin).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, principen designates semisynthetic penicillin (trade names principen and polycillin and sk-ampicillin)."*

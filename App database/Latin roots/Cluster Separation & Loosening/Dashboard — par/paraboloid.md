@@ -5,13 +5,6 @@ status: unread
 ---
 # paraboloid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surface having parabolic sections parallel to a single coordinate axis and elliptic sections perpendicular to that axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surface having parabolic sections parallel to a single coordinate axis and elliptic sections perpendicular to that axis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraboloid designates a surface having parabolic sections parallel to a single coordinate axis and elliptic sections perpendicular to that axis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surface having parabolic sections parallel to a single coordinate axis and elliptic sections perpendicular to that axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surface having parabolic sections parallel to a single coordinate axis and elliptic sections perpendicular to that axis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraboloid designates a surface having parabolic sections parallel to a single coordinate axis and elliptic sections perpendicular to that axis."*

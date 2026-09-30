@@ -5,13 +5,6 @@ status: unread
 ---
 # crenated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a margin with rounded scallops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a margin with rounded scallops.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crenated designates having a margin with rounded scallops."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a margin with rounded scallops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a margin with rounded scallops.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crenated designates having a margin with rounded scallops."*

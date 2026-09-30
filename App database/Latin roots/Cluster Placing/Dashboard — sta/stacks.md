@@ -5,15 +5,6 @@ status: unread
 ---
 # stacks
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large number or amount.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Storage space in a library consisting of an extensive arrangement of bookshelves where most of the books are stored.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The high chimney-stacks telegraph family secrets to him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There were five wheat-ricks in this yard, and three stacks of barley."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Three wheat-stacks remained open, and there were no more cloths."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large number or amount.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Storage space in a library consisting of an extensive arrangement of bookshelves where most of the books are stored.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The high chimney-stacks telegraph family secrets to him."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There were five wheat-ricks in this yard, and three stacks of barley."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Three wheat-stacks remained open, and there were no more cloths."*

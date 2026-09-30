@@ -5,13 +5,6 @@ status: unread
 ---
 # aspirate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A consonant pronounced with aspiration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove as if by suction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"This second cousin was a Middlemarch mercer of polite manners and superfluous aspirates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A consonant pronounced with aspiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove as if by suction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"This second cousin was a Middlemarch mercer of polite manners and superfluous aspirates."*

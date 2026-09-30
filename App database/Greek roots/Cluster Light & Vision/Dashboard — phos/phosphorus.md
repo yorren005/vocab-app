@@ -5,15 +5,6 @@ status: unread
 ---
 # phosphorus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phosphorescent substance or body; especially : one that shines or glows in the dark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonmetallic element of the nitrogen family with atomic number 15 that occurs widely in combination especially as phosphates, that is essential for life in all known organisms, and that is used especially in fertilizers and organophosphorus compounds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"With such a mind, active as phosphorus, biting everything that came near into the form that suited it, how could Mrs."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"These different aliments appeared to me to be rich in phosphorus, and I thought they must have a marine origin."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Beside the road the glow worms did their feeble best to light the way; and now and then an old stump in the swamp displayed a ghostly gleam of phosphorus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phosphorescent substance or body; especially : one that shines or glows in the dark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonmetallic element of the nitrogen family with atomic number 15 that occurs widely in combination especially as phosphates, that is essential for life in all known organisms, and that is used especially in fertilizers and organophosphorus compounds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"With such a mind, active as phosphorus, biting everything that came near into the form that suited it, how could Mrs."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"These different aliments appeared to me to be rich in phosphorus, and I thought they must have a marine origin."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Beside the road the glow worms did their feeble best to light the way; and now and then an old stump in the swamp displayed a ghostly gleam of phosphorus."*

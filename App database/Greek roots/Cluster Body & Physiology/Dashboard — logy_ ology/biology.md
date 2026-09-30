@@ -5,15 +5,6 @@ status: unread
 ---
 # biology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science that studies living organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic life processes and phenomena of living organisms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Every day he seemed to become more interested in biology, and his name appeared once or twice in some of the scientific reviews in connection with certain curious experiments."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The study of biology of late has made patent the unending differences that prevail throughout the animate world."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"Famishing congregations are proffered the bugs of biology, the rocks of geology, and the stars of astronomy until their souls revolt, and they demand bread and meat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science that studies living organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic life processes and phenomena of living organisms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Every day he seemed to become more interested in biology, and his name appeared once or twice in some of the scientific reviews in connection with certain curious experiments."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The study of biology of late has made patent the unending differences that prevail throughout the animate world."*
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"Famishing congregations are proffered the bugs of biology, the rocks of geology, and the stars of astronomy until their souls revolt, and they demand bread and meat."*

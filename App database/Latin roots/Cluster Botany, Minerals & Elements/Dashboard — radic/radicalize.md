@@ -5,13 +5,6 @@ status: unread
 ---
 # radicalize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more radical in social or political outlook.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more radical in social or political outlook.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radicalize designates make more radical in social or political outlook."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more radical in social or political outlook.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more radical in social or political outlook.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radicalize designates make more radical in social or political outlook."*

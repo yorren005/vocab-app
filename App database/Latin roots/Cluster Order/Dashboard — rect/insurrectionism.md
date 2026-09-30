@@ -5,13 +5,6 @@ status: unread
 ---
 # insurrectionism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The principle of revolt against constituted authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principle of revolt against constituted authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insurrectionism designates the principle of revolt against constituted authority."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principle of revolt against constituted authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principle of revolt against constituted authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insurrectionism designates the principle of revolt against constituted authority."*

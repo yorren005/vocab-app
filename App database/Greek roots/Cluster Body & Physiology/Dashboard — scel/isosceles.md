@@ -5,15 +5,6 @@ status: unread
 ---
 # isosceles
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two equal sides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the two nonparallel sides equal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They could scarcely believe it possible; at two yards and a half below water-mark was a regular rent, in the form of an isosceles triangle."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was an adult, as was known by its six rows of teeth placed in an isosceles triangle in the upper jaw."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"A piece of the wall cracked and fell in enormous fragments, and a square window took the shape of an isosceles triangle; through a corner of the roof I could see the sky."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two equal sides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the two nonparallel sides equal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They could scarcely believe it possible; at two yards and a half below water-mark was a regular rent, in the form of an isosceles triangle."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was an adult, as was known by its six rows of teeth placed in an isosceles triangle in the upper jaw."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"A piece of the wall cracked and fell in enormous fragments, and a square window took the shape of an isosceles triangle; through a corner of the roof I could see the sky."*

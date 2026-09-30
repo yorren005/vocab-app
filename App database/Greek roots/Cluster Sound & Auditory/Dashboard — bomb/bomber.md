@@ -5,15 +5,6 @@ status: unread
 ---
 # bomber
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A military aircraft that drops bombs during flight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who plants bombs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A Jovian fighter-bomber plunged through a gap in the UIPS shield and came at the bridge of the UIPS cruiser Implacable."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The fighter-bomber dissolved as its guns fired a short burst."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We've..." "Fighter-bomber locked on to enemy cruiser Encounter." The communicator's voice cut in over the loudspeaker."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A military aircraft that drops bombs during flight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who plants bombs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A Jovian fighter-bomber plunged through a gap in the UIPS shield and came at the bridge of the UIPS cruiser Implacable."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The fighter-bomber dissolved as its guns fired a short burst."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We've..." "Fighter-bomber locked on to enemy cruiser Encounter." The communicator's voice cut in over the loudspeaker."*

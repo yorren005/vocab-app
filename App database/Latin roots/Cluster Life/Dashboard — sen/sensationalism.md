@@ -5,13 +5,6 @@ status: unread
 ---
 # sensationalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject matter that is calculated to excite and please vulgar tastes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The journalistic use of subject matter that appeals to vulgar tastes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"If he only amuses them and deals in paltry three-cent sensationalism, away with more of the same sort of stuff which we already have in so many pastors!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject matter that is calculated to excite and please vulgar tastes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The journalistic use of subject matter that appeals to vulgar tastes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"If he only amuses them and deals in paltry three-cent sensationalism, away with more of the same sort of stuff which we already have in so many pastors!"*

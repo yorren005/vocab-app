@@ -5,13 +5,6 @@ status: unread
 ---
 # tenderhearted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily moved to love.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily moved by another's distress; - w.m.thackeray.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Even their mother missed them; and how much more their tenderhearted cousin, who wandered about the house, and thought of them, and felt for them, with a degree of affectionate regret which they had never done much to deserve!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily moved to love.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily moved by another's distress; - w.m.thackeray.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Even their mother missed them; and how much more their tenderhearted cousin, who wandered about the house, and thought of them, and felt for them, with a degree of affectionate regret which they had never done much to deserve!"*

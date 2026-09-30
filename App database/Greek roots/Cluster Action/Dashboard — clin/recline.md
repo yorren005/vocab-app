@@ -5,15 +5,6 @@ status: unread
 ---
 # recline
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move the upper body backwards and down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to recline.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Here would they slumber through the hours of the night, and recline luxuriously during the greater part of the day."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The old men, of whom there were many in the vale, seldom stirred from their mats, where they would recline for hours and hours, smoking and talking to one another with all the garrulity of age."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Impassionedly.)_ These flying Dutchmen or lying Dutchmen as they recline in their upholstered poop, casting dice, what reck they?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move the upper body backwards and down.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to recline.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Here would they slumber through the hours of the night, and recline luxuriously during the greater part of the day."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The old men, of whom there were many in the vale, seldom stirred from their mats, where they would recline for hours and hours, smoking and talking to one another with all the garrulity of age."*
+> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Impassionedly.)_ These flying Dutchmen or lying Dutchmen as they recline in their upholstered poop, casting dice, what reck they?"*

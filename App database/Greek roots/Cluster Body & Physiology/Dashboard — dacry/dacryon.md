@@ -5,13 +5,6 @@ status: unread
 ---
 # dacryon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The craniometric point at the junction of the anterior border of the lacrimal bone with the frontal bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craniometric point at the junction of the anterior border of the lacrimal bone with the frontal bone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dacryon designates the craniometric point at the junction of the anterior border of the lacrimal bone with the frontal bone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The craniometric point at the junction of the anterior border of the lacrimal bone with the frontal bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craniometric point at the junction of the anterior border of the lacrimal bone with the frontal bone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dacryon designates the craniometric point at the junction of the anterior border of the lacrimal bone with the frontal bone."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sapience
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ability to apply knowledge or experience or understanding or common sense and insight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ability to apply knowledge or experience or understanding or common sense and insight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"So sang the Hierarchies: Mean while the Son On his great Expedition now appeer’d, Girt with Omnipotence, with Radiance crown’d Of Majestie Divine, Sapience and Love Immense, and all his Father in him shon."*
-> - 📜 **John Milton (*Paradise Lost*):** *"So sang the Hierarchies: Mean while the Son On his great expedition now appeared, Girt with Omnipotence, with radiance crowned Of Majesty Divine; sapience and love Immense, and all his Father in him shone."*
-> - 📜 **John Milton (*Paradise Lost*):** *"O sovran, virtuous, precious of all trees In Paradise! of operation blest To sapience, hitherto obscured, infamed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ability to apply knowledge or experience or understanding or common sense and insight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ability to apply knowledge or experience or understanding or common sense and insight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"So sang the Hierarchies: Mean while the Son On his great Expedition now appeer’d, Girt with Omnipotence, with Radiance crown’d Of Majestie Divine, Sapience and Love Immense, and all his Father in him shon."*
+> - 📜 **John Milton (*Paradise Lost*):** *"So sang the Hierarchies: Mean while the Son On his great expedition now appeared, Girt with Omnipotence, with radiance crowned Of Majesty Divine; sapience and love Immense, and all his Father in him shone."*
+> - 📜 **John Milton (*Paradise Lost*):** *"O sovran, virtuous, precious of all trees In Paradise! of operation blest To sapience, hitherto obscured, infamed."*

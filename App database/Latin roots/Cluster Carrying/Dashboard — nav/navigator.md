@@ -5,15 +5,6 @@ status: unread
 ---
 # navigator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ship's officer in charge of navigation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The member of an aircrew who is responsible for the aircraft's course.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Hendrik Hamel might be one time part-owner of the old _Sparwehr_, with a navigator’s knowledge of the stars and deep versed in books, but with women, no, there I would not give him better."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That’s my small experience, so far as the Massachusetts calendar, and Bowditch’s navigator, and Daboll’s arithmetic go."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What's their input?" "Adari is your navigator."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ship's officer in charge of navigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The member of an aircrew who is responsible for the aircraft's course.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Hendrik Hamel might be one time part-owner of the old _Sparwehr_, with a navigator’s knowledge of the stars and deep versed in books, but with women, no, there I would not give him better."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That’s my small experience, so far as the Massachusetts calendar, and Bowditch’s navigator, and Daboll’s arithmetic go."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What's their input?" "Adari is your navigator."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # catalan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of catalonia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The romance language spoken in catalonia in eastern spain (related to spanish and occitan).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Over in _Anse des Catalans_ weren't there the remains of the village of the sea-Gipsies, who had come none knew whence?..."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of catalonia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The romance language spoken in catalonia in eastern spain (related to spanish and occitan).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Over in _Anse des Catalans_ weren't there the remains of the village of the sea-Gipsies, who had come none knew whence?..."*

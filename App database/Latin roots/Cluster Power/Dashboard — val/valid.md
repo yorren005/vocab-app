@@ -5,15 +5,6 @@ status: unread
 ---
 # valid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Well grounded in logic or truth or having legal force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Still legally acceptable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"No, it is not true!” “It is true.” “Every word?” “Every word.” He looked at her imploringly, as if he would willingly have taken a lie from her lips, knowing it to be one, and have made of it, by some sort of sophistry, a valid denial."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"That his anger could be carried to such a point of inconceivable resentment as to refuse his daughter a privilege, without which her marriage would scarcely seem valid, exceeded all that she could believe possible."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"The pretext was valid, for Val was always punctual, and yet it looked like a retreat--not to say a rout."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Well grounded in logic or truth or having legal force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Still legally acceptable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"No, it is not true!” “It is true.” “Every word?” “Every word.” He looked at her imploringly, as if he would willingly have taken a lie from her lips, knowing it to be one, and have made of it, by some sort of sophistry, a valid denial."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"That his anger could be carried to such a point of inconceivable resentment as to refuse his daughter a privilege, without which her marriage would scarcely seem valid, exceeded all that she could believe possible."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"The pretext was valid, for Val was always punctual, and yet it looked like a retreat--not to say a rout."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # virile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by energy and vigor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of a man.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She was a big woman, in stature almost equalling her husband, and corpulent besides: she showed virile force in the contest—more than once she almost throttled him, athletic as he was."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"What a contrast between him and poor Bernard! the one so impotent and devil-ridden, the other so virile, unscrupulous, and serene."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There was something naïvely festive in his air, which, in conjunction with his firm and virile features, gave him a rather comical expression."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by energy and vigor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of a man.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She was a big woman, in stature almost equalling her husband, and corpulent besides: she showed virile force in the contest—more than once she almost throttled him, athletic as he was."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"What a contrast between him and poor Bernard! the one so impotent and devil-ridden, the other so virile, unscrupulous, and serene."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There was something naïvely festive in his air, which, in conjunction with his firm and virile features, gave him a rather comical expression."*

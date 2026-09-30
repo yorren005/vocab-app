@@ -5,15 +5,6 @@ status: unread
 ---
 # curious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond or deviating from the usual or expected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eager to investigate and learn or learn more (sometimes about others' concerns).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If my slight Muse do please these curious days, The pain be mine, but thine shall be the praise. 39 O how thy worth with manners may I sing, When thou art all the better part of me?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Youth, thou bear’st thy father’s face; Frank nature, rather curious than in haste, Hath well compos’d thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall not find, Though you be therein curious, the least cause For what you seem to fear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond or deviating from the usual or expected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eager to investigate and learn or learn more (sometimes about others' concerns).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If my slight Muse do please these curious days, The pain be mine, but thine shall be the praise. 39 O how thy worth with manners may I sing, When thou art all the better part of me?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Youth, thou bear’st thy father’s face; Frank nature, rather curious than in haste, Hath well compos’d thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall not find, Though you be therein curious, the least cause For what you seem to fear."*

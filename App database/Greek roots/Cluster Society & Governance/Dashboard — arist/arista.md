@@ -5,13 +5,6 @@ status: unread
 ---
 # arista
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bristlelike process near the tip of the antenna of certain flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bristlelike process near the tip of the antenna of certain flies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arista designates bristlelike process near the tip of the antenna of certain flies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bristlelike process near the tip of the antenna of certain flies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bristlelike process near the tip of the antenna of certain flies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arista designates bristlelike process near the tip of the antenna of certain flies."*

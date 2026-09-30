@@ -5,13 +5,6 @@ status: unread
 ---
 # frontage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The extent of land abutting on a street or water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The direction in which something (such as a building) faces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Sheltered from draughts by the outstanding walls, yet with a glass roof and frontage to catch every ray of sun, the parlour would be an ideal refuge for spring and autumn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The extent of land abutting on a street or water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The direction in which something (such as a building) faces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Sheltered from draughts by the outstanding walls, yet with a glass roof and frontage to catch every ray of sun, the parlour would be an ideal refuge for spring and autumn."*

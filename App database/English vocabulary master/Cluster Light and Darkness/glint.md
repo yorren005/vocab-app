@@ -5,20 +5,6 @@ status: unread
 ---
 # glint
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Glance off an object
-> 2. **Nuance / Usage**: Be reflected at an angle from a surface
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Passages in the Life of Mrs. Margaret Maitland, of Sunnyside. {{nb...*):** *"My name is Elphinstone, ma'am," said the young man, and then he cleared his throat and gave a glint at Mary, and grew redder in the face than ever."*
-> - 📜 **Charles Selby (*The Bonnie Fish Wife: An Original Musical Interlude in One Act*):** *"Are ye the gentleman that’s speering for my hayreens—they’re fresh this morning—cast a glint at them, sir, and you’ll say you neever saw rubies, emeralds, and silver, and gold, sparkle sa boneely as the finny jewels that dazzle ye in this wee basket."*
-> - 📜 **Douglas Adams (*Life, the Universe and Everything*):** *"Thor glared at him [...] what little light there was in the place mustered its forces briefly to glint menacingly off the horns of his helmet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Glance off an object
+> 2. **Nuance / Usage**: Be reflected at an angle from a surface
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Passages in the Life of Mrs. Margaret Maitland, of Sunnyside. {{nb...*):** *"My name is Elphinstone, ma'am," said the young man, and then he cleared his throat and gave a glint at Mary, and grew redder in the face than ever."*
+> - 📜 **Charles Selby (*The Bonnie Fish Wife: An Original Musical Interlude in One Act*):** *"Are ye the gentleman that’s speering for my hayreens—they’re fresh this morning—cast a glint at them, sir, and you’ll say you neever saw rubies, emeralds, and silver, and gold, sparkle sa boneely as the finny jewels that dazzle ye in this wee basket."*
+> - 📜 **Douglas Adams (*Life, the Universe and Everything*):** *"Thor glared at him [...] what little light there was in the place mustered its forces briefly to glint menacingly off the horns of his helmet."*

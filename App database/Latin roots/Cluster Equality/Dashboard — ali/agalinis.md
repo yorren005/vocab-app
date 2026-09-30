@@ -5,13 +5,6 @@ status: unread
 ---
 # agalinis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Semiparasitic herb with purple or white or pink flowers; grows in the united states and west indies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Semiparasitic herb with purple or white or pink flowers; grows in the united states and west indies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agalinis designates semiparasitic herb with purple or white or pink flowers; grows in the united states and west indies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Semiparasitic herb with purple or white or pink flowers; grows in the united states and west indies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Semiparasitic herb with purple or white or pink flowers; grows in the united states and west indies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agalinis designates semiparasitic herb with purple or white or pink flowers; grows in the united states and west indies."*

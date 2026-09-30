@@ -5,14 +5,6 @@ status: unread
 ---
 # effacement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shortening of the uterine cervix and thinning of its walls as it is dilated during labor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Withdrawing into the background; making yourself inconspicuous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This self-effacement in both directions had been quite in consonance with her independent character of desiring nothing by way of favour or pity to which she was not entitled on a fair consideration of her deserts."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"This is the result of our policy of effacement for which must be substituted at all costs a policy of action which will permit us to hold our rank." It is true the forward policy did not originate with M."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shortening of the uterine cervix and thinning of its walls as it is dilated during labor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Withdrawing into the background; making yourself inconspicuous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This self-effacement in both directions had been quite in consonance with her independent character of desiring nothing by way of favour or pity to which she was not entitled on a fair consideration of her deserts."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"This is the result of our policy of effacement for which must be substituted at all costs a policy of action which will permit us to hold our rank." It is true the forward policy did not originate with M."*

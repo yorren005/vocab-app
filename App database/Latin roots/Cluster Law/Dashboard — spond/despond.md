@@ -5,15 +5,6 @@ status: unread
 ---
 # despond
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose confidence or hope; become dejected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lose confidence or hope; become dejected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The name of the slough was Despond.”—BUNYAN."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"They serve for a time, and they make life worth living, In spite of life's troubles--'tis vain to despond; Oh, man!"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I certainly should have been deep in the slough of despond, if not in the grave."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose confidence or hope; become dejected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lose confidence or hope; become dejected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"The name of the slough was Despond.”—BUNYAN."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"They serve for a time, and they make life worth living, In spite of life's troubles--'tis vain to despond; Oh, man!"*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I certainly should have been deep in the slough of despond, if not in the grave."*

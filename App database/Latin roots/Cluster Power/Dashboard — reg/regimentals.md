@@ -5,15 +5,6 @@ status: unread
 ---
 # regimentals
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The military uniform and insignia of a regiment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The military uniform and insignia of a regiment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bingley’s large fortune, the mention of which gave animation to their mother, was worthless in their eyes when opposed to the regimentals of an ensign."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"This was exactly as it should be; for the young man wanted only regimentals to make him completely charming."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The officers’ regimentals, resplendent with gold lace and embroidery as if purposely calculated to dazzle the islanders, looked as if just unpacked from their Parisian cases."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The military uniform and insignia of a regiment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The military uniform and insignia of a regiment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bingley’s large fortune, the mention of which gave animation to their mother, was worthless in their eyes when opposed to the regimentals of an ensign."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"This was exactly as it should be; for the young man wanted only regimentals to make him completely charming."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The officers’ regimentals, resplendent with gold lace and embroidery as if purposely calculated to dazzle the islanders, looked as if just unpacked from their Parisian cases."*

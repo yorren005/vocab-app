@@ -5,13 +5,6 @@ status: unread
 ---
 # motility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ability to move spontaneously and independently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A change of position that does not entail a change of location.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motility designates ability to move spontaneously and independently."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ability to move spontaneously and independently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A change of position that does not entail a change of location.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motility designates ability to move spontaneously and independently."*

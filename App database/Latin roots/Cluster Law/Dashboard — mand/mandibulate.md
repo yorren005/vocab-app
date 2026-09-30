@@ -5,13 +5,6 @@ status: unread
 ---
 # mandibulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having mandibles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having mandibles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandibulate designates having mandibles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having mandibles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having mandibles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandibulate designates having mandibles."*

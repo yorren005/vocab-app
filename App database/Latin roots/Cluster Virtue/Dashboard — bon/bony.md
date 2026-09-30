@@ -5,15 +5,6 @@ status: unread
 ---
 # bony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very thin especially from disease or hunger or cold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of or containing bone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The little procession then moved forward—the man in front bearing the light, the two bony women next, supporting between them the small and supple one."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"That he expressed the general feeling in our train was evidenced by the many women who leaned from the wagons, thrusting out gaunt forearms and shaking bony, labour-malformed fists at the last of Mormondom."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"She was tall and bony, and almost always wore a coarse apron, fastened over her figure behind with two loops, and having a square impregnable bib in front, that was stuck full of pins and needles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very thin especially from disease or hunger or cold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of or containing bone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The little procession then moved forward—the man in front bearing the light, the two bony women next, supporting between them the small and supple one."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"That he expressed the general feeling in our train was evidenced by the many women who leaned from the wagons, thrusting out gaunt forearms and shaking bony, labour-malformed fists at the last of Mormondom."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"She was tall and bony, and almost always wore a coarse apron, fastened over her figure behind with two loops, and having a square impregnable bib in front, that was stuck full of pins and needles."*

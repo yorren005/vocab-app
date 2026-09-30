@@ -5,15 +5,6 @@ status: unread
 ---
 # unpretentious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking pretension or affectation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not ostentatious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But there was neither defiance nor fear in Val: tranquil and unpretentious, in his force of character he reminded Lawrence of Laura Clowes."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The tinge of unpretentious, inoffensive vulgarity in Mrs."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"There adhered to him only a few unpretentious friends, whose religion was something more 54:24 than a name."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking pretension or affectation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not ostentatious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"But there was neither defiance nor fear in Val: tranquil and unpretentious, in his force of character he reminded Lawrence of Laura Clowes."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The tinge of unpretentious, inoffensive vulgarity in Mrs."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"There adhered to him only a few unpretentious friends, whose religion was something more 54:24 than a name."*

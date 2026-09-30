@@ -5,13 +5,6 @@ status: unread
 ---
 # polyp
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sessile form of cnidarian (such as a coral or sea anemone) typically having a hollow cylindrical body closed and attached at one end and opening at the other by a central mouth surrounded by tentacles armed with nematocysts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A growth projecting from a mucous membrane (as of the colon or vocal cords).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyp designates the sessile form of cnidarian (such as a coral or sea anemone) typically having a hollow cylindrical body closed and attached at one end and opening at the other by a central mouth surrounded by tentacles armed with nematocysts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sessile form of cnidarian (such as a coral or sea anemone) typically having a hollow cylindrical body closed and attached at one end and opening at the other by a central mouth surrounded by tentacles armed with nematocysts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A growth projecting from a mucous membrane (as of the colon or vocal cords).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyp designates the sessile form of cnidarian (such as a coral or sea anemone) typically having a hollow cylindrical body closed and attached at one end and opening at the other by a central mouth surrounded by tentacles armed with nematocysts."*

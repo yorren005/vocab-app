@@ -5,13 +5,6 @@ status: unread
 ---
 # negate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be in contradiction with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deny the truth of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Does he, in fact, deny--negate--himself (Mark 8:34)?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be in contradiction with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deny the truth of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Does he, in fact, deny--negate--himself (Mark 8:34)?"*

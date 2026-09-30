@@ -5,13 +5,6 @@ status: unread
 ---
 # fertiliser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance such as manure or a mixture of nitrates used to make soil more fertile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any substance such as manure or a mixture of nitrates used to make soil more fertile.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The management of both companies have been successful in obtaining particularly satisfactory contracts for the purchase of their acid by fertiliser corporations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance such as manure or a mixture of nitrates used to make soil more fertile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any substance such as manure or a mixture of nitrates used to make soil more fertile.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The management of both companies have been successful in obtaining particularly satisfactory contracts for the purchase of their acid by fertiliser corporations."*

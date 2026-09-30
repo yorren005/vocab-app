@@ -5,15 +5,6 @@ status: unread
 ---
 # congeniality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compatibility between persons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A congenial disposition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There was a reviving pleasure in this intercourse, of a kind now tasted by me for the first time—the pleasure arising from perfect congeniality of tastes, sentiments, and principles."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I had on more than one occasion got him out of scrapes into which this had led him; and I know not whether it was from this cause, or a certain congeniality of sentiment between us, that he had always shown a partiality for my society."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But this was sufficient, and served to conciliate the good will of the natives, with whom our congeniality of sentiment on this point did more towards inspiring a friendly feeling than anything else that could have happened."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compatibility between persons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A congenial disposition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There was a reviving pleasure in this intercourse, of a kind now tasted by me for the first time—the pleasure arising from perfect congeniality of tastes, sentiments, and principles."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I had on more than one occasion got him out of scrapes into which this had led him; and I know not whether it was from this cause, or a certain congeniality of sentiment between us, that he had always shown a partiality for my society."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But this was sufficient, and served to conciliate the good will of the natives, with whom our congeniality of sentiment on this point did more towards inspiring a friendly feeling than anything else that could have happened."*

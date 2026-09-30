@@ -5,13 +5,6 @@ status: unread
 ---
 # actinomycosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disease of cattle that can be transmitted to humans; results from infection with actinomycetes; characterized by hard swellings that exude pus through long sinuses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disease of cattle that can be transmitted to humans; results from infection with actinomycetes; characterized by hard swellings that exude pus through long sinuses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinomycosis designates disease of cattle that can be transmitted to humans; results from infection with actinomycetes; characterized by hard swellings that exude pus through long sinuses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disease of cattle that can be transmitted to humans; results from infection with actinomycetes; characterized by hard swellings that exude pus through long sinuses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disease of cattle that can be transmitted to humans; results from infection with actinomycetes; characterized by hard swellings that exude pus through long sinuses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, actinomycosis designates disease of cattle that can be transmitted to humans; results from infection with actinomycetes; characterized by hard swellings that exude pus through long sinuses."*

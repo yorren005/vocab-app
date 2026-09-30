@@ -5,13 +5,6 @@ status: unread
 ---
 # stalling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tactic used to mislead or delay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Postpone doing what one should be doing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For my part, he keeps me rustically at home, or, to speak more properly, stays me here at home unkept; for call you that keeping, for a gentleman of my birth, that differs not from the stalling of an ox?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tactic used to mislead or delay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Postpone doing what one should be doing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For my part, he keeps me rustically at home, or, to speak more properly, stays me here at home unkept; for call you that keeping, for a gentleman of my birth, that differs not from the stalling of an ox?"*

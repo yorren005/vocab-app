@@ -5,15 +5,6 @@ status: unread
 ---
 # undimmed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not made dim or less bright.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not made dim or less bright.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Eyes undimmed, faculties unimpaired, she _does what she can_."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Her gray silk dress, her spotless lace, old-fashioned jewels, and prim neatness of array, were well suited to the intelligence of her face, with its thin lips, and eyes of a piercing black, undimmed by age."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"Where on earth do you see anything?” I could only grasp her more quickly yet, for even while she spoke the hideous plain presence stood undimmed and undaunted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not made dim or less bright.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not made dim or less bright.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Eyes undimmed, faculties unimpaired, she _does what she can_."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Her gray silk dress, her spotless lace, old-fashioned jewels, and prim neatness of array, were well suited to the intelligence of her face, with its thin lips, and eyes of a piercing black, undimmed by age."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"Where on earth do you see anything?” I could only grasp her more quickly yet, for even while she spoke the hideous plain presence stood undimmed and undaunted."*

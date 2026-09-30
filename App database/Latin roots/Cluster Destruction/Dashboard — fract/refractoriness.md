@@ -5,13 +5,6 @@ status: unread
 ---
 # refractoriness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being unmanageable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being unmanageable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The main requirements are refractoriness of the building materials, particularly careful construction so as to avoid breakouts, and very strong bracing indeed on account of the deep and heavy bath of material which is carried on the furnace hearth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being unmanageable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being unmanageable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The main requirements are refractoriness of the building materials, particularly careful construction so as to avoid breakouts, and very strong bracing indeed on account of the deep and heavy bath of material which is carried on the furnace hearth."*

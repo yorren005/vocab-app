@@ -5,13 +5,6 @@ status: unread
 ---
 # battlewagon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large and heavily armoured warship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large and heavily armoured warship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, battlewagon designates large and heavily armoured warship."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large and heavily armoured warship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large and heavily armoured warship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, battlewagon designates large and heavily armoured warship."*

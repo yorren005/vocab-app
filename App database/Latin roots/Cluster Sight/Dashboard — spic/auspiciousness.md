@@ -5,13 +5,6 @@ status: unread
 ---
 # auspiciousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The favorable quality of strongly indicating a successful result.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The favorable quality of strongly indicating a successful result.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auspiciousness designates the favorable quality of strongly indicating a successful result."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The favorable quality of strongly indicating a successful result.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The favorable quality of strongly indicating a successful result.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auspiciousness designates the favorable quality of strongly indicating a successful result."*

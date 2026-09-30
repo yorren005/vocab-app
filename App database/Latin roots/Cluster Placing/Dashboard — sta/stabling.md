@@ -5,15 +5,6 @@ status: unread
 ---
 # stabling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accommodation for animals (especially for horses).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shelter in a stable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"An agent would describe it as a `desirable gentleman's residence, comprising four entertaining rooms and eight bedrooms, glass, stabling, and grounds of four acres, artistically laid out'."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The cavalry, on entering a merchant’s house that had been abandoned and finding there stabling more than sufficient for their horses, went on, all the same, to the next house which seemed to them better."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"It furnished an easy means of locomotion, the task of stabling was not difficult and the cost of food nothing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accommodation for animals (especially for horses).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shelter in a stable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"An agent would describe it as a `desirable gentleman's residence, comprising four entertaining rooms and eight bedrooms, glass, stabling, and grounds of four acres, artistically laid out'."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The cavalry, on entering a merchant’s house that had been abandoned and finding there stabling more than sufficient for their horses, went on, all the same, to the next house which seemed to them better."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"It furnished an easy means of locomotion, the task of stabling was not difficult and the cost of food nothing."*

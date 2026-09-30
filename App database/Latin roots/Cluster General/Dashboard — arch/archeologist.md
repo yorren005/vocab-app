@@ -5,13 +5,6 @@ status: unread
 ---
 # archeologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anthropologist who studies prehistoric people and their culture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anthropologist who studies prehistoric people and their culture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"One of the humble archeologists who hover about the place had put himself at the disposal of the two, and repeated his lesson with a fluency which the decline of the season had done nothing to impair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anthropologist who studies prehistoric people and their culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anthropologist who studies prehistoric people and their culture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"One of the humble archeologists who hover about the place had put himself at the disposal of the two, and repeated his lesson with a fluency which the decline of the season had done nothing to impair."*

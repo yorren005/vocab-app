@@ -5,13 +5,6 @@ status: unread
 ---
 # albinism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The congenital absence of pigmentation in the eyes and skin and hair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The congenital absence of pigmentation in the eyes and skin and hair.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albinism designates the congenital absence of pigmentation in the eyes and skin and hair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The congenital absence of pigmentation in the eyes and skin and hair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The congenital absence of pigmentation in the eyes and skin and hair.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albinism designates the congenital absence of pigmentation in the eyes and skin and hair."*

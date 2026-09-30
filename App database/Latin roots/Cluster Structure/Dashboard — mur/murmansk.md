@@ -5,13 +5,6 @@ status: unread
 ---
 # murmansk
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city in northwestern russia on the kola peninsula; the largest city to the north of the arctic circle; an important supply line to russia in world war i and world war ii.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city in northwestern russia on the kola peninsula; the largest city to the north of the arctic circle; an important supply line to russia in world war i and world war ii.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, murmansk designates a port city in northwestern russia on the kola peninsula; the largest city to the north of the arctic circle; an important supply line to russia in world war i and world war ii."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city in northwestern russia on the kola peninsula; the largest city to the north of the arctic circle; an important supply line to russia in world war i and world war ii.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city in northwestern russia on the kola peninsula; the largest city to the north of the arctic circle; an important supply line to russia in world war i and world war ii.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, murmansk designates a port city in northwestern russia on the kola peninsula; the largest city to the north of the arctic circle; an important supply line to russia in world war i and world war ii."*

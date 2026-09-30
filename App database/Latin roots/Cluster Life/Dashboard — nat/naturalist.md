@@ -5,15 +5,6 @@ status: unread
 ---
 # naturalist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of the doctrine that the world can be understood in scientific terms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologist knowledgeable about natural history (especially botany and zoology).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Maclagan had been originally an army surgeon, but had been long settled in general practice in Berwick in succession to his father-in-law, the eminent naturalist, Dr."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"So one feels it was with Jesus' intimate knowledge of Nature--it is not the knowledge of botanist or naturalist, but that of the inmate and the companion, who by long intimacy comes to know far more than he dreams."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And I understand he is a naturalist.” “Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of the doctrine that the world can be understood in scientific terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologist knowledgeable about natural history (especially botany and zoology).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Maclagan had been originally an army surgeon, but had been long settled in general practice in Berwick in succession to his father-in-law, the eminent naturalist, Dr."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"So one feels it was with Jesus' intimate knowledge of Nature--it is not the knowledge of botanist or naturalist, but that of the inmate and the companion, who by long intimacy comes to know far more than he dreams."*
+> - 📜 **George Eliot (*Middlemarch*):** *"And I understand he is a naturalist.” “Mr."*

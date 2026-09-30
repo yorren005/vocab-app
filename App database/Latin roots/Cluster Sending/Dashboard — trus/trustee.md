@@ -5,15 +5,6 @@ status: unread
 ---
 # trustee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person (or institution) to whom legal title to property is entrusted to use for another's benefit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Members of a governing board.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"I was his sole trustee, and I could have had nine thousand by a stroke of the pen at any minute.’ ‘Mr."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"I speak now not as a medical man but as a trustee and executor of Sir Charles’s will.” “There is no other claimant, I presume?” “None."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The old legal idea of a trust is the confidence imposed in a trustee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person (or institution) to whom legal title to property is entrusted to use for another's benefit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Members of a governing board.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"I was his sole trustee, and I could have had nine thousand by a stroke of the pen at any minute.’ ‘Mr."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"I speak now not as a medical man but as a trustee and executor of Sir Charles’s will.” “There is no other claimant, I presume?” “None."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The old legal idea of a trust is the confidence imposed in a trustee."*

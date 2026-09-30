@@ -5,13 +5,6 @@ status: unread
 ---
 # place-kicker
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (football) a kicker who makes a place kick for a goal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (football) a kicker who makes a place kick for a goal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, place-kicker designates (football) a kicker who makes a place kick for a goal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (football) a kicker who makes a place kick for a goal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (football) a kicker who makes a place kick for a goal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, place-kicker designates (football) a kicker who makes a place kick for a goal."*

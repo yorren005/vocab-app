@@ -5,15 +5,6 @@ status: unread
 ---
 # include
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have as a part, be made up out of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider as part of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, let us go; we will include all jars With triumphs, mirth, and rare solemnity."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Search strings are enclosed in square brackets; include brackets. 7."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"HTML versions of "On the Improvement of the Understanding" are published in the Books On-Line Web Pages; ttp://www.cs.cmu.edu/books.html and they include: http://www.physics.wisc.edu/~shalizi/Spinoza/TIE/ http://www.erols.com/jyselman/teielwes.htm"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have as a part, be made up out of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider as part of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, let us go; we will include all jars With triumphs, mirth, and rare solemnity."*
+> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Search strings are enclosed in square brackets; include brackets. 7."*
+> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"HTML versions of "On the Improvement of the Understanding" are published in the Books On-Line Web Pages; ttp://www.cs.cmu.edu/books.html and they include: http://www.physics.wisc.edu/~shalizi/Spinoza/TIE/ http://www.erols.com/jyselman/teielwes.htm"*

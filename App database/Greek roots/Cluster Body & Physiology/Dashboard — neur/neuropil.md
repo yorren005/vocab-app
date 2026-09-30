@@ -5,13 +5,6 @@ status: unread
 ---
 # neuropil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The complex network of unmyelinated axones, dendrites, and glial branches that form the bulk of the central nervous system's grey matter and in which nerve cell bodies are embedded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The complex network of unmyelinated axones, dendrites, and glial branches that form the bulk of the central nervous system's grey matter and in which nerve cell bodies are embedded.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuropil designates the complex network of unmyelinated axones, dendrites, and glial branches that form the bulk of the central nervous system's grey matter and in which nerve cell bodies are embedded."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The complex network of unmyelinated axones, dendrites, and glial branches that form the bulk of the central nervous system's grey matter and in which nerve cell bodies are embedded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The complex network of unmyelinated axones, dendrites, and glial branches that form the bulk of the central nervous system's grey matter and in which nerve cell bodies are embedded.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuropil designates the complex network of unmyelinated axones, dendrites, and glial branches that form the bulk of the central nervous system's grey matter and in which nerve cell bodies are embedded."*

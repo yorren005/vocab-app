@@ -5,15 +5,6 @@ status: unread
 ---
 # incarnation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A new personification of a familiar idea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (christianity) the christian doctrine of the union of god and man in the person of jesus christ.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Certainly the Jew is the very devil incarnation, and, in my conscience, my conscience is but a kind of hard conscience, to offer to counsel me to stay with the Jew."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was this: “Jarndyce, in common with most other men I have known, is the incarnation of selfishness.” And now I come to a part of my story touching myself very nearly indeed, and for which I was quite unprepared when the circumstance occurred."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet there was nothing ethereal about it; all was real vitality, real warmth, real incarnation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A new personification of a familiar idea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (christianity) the christian doctrine of the union of god and man in the person of jesus christ.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Certainly the Jew is the very devil incarnation, and, in my conscience, my conscience is but a kind of hard conscience, to offer to counsel me to stay with the Jew."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It was this: “Jarndyce, in common with most other men I have known, is the incarnation of selfishness.” And now I come to a part of my story touching myself very nearly indeed, and for which I was quite unprepared when the circumstance occurred."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet there was nothing ethereal about it; all was real vitality, real warmth, real incarnation."*

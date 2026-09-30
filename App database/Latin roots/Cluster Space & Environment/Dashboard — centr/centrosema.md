@@ -5,13 +5,6 @@ status: unread
 ---
 # centrosema
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of chiefly tropical american vines of the family leguminosae having trifoliate leaves and large flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of chiefly tropical american vines of the family leguminosae having trifoliate leaves and large flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrosema designates a genus of chiefly tropical american vines of the family leguminosae having trifoliate leaves and large flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of chiefly tropical american vines of the family leguminosae having trifoliate leaves and large flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of chiefly tropical american vines of the family leguminosae having trifoliate leaves and large flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrosema designates a genus of chiefly tropical american vines of the family leguminosae having trifoliate leaves and large flowers."*

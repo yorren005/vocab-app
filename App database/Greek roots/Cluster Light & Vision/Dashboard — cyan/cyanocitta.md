@@ -5,13 +5,6 @@ status: unread
 ---
 # cyanocitta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: New world jays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New world jays.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanocitta designates new world jays."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: New world jays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New world jays.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanocitta designates new world jays."*

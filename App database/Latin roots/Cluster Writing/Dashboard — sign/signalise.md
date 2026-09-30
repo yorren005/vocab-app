@@ -5,15 +5,6 @@ status: unread
 ---
 # signalise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with traffic signals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicate silently and non-verbally by signals or signs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"During the nineteen days mentioned above, no incident of any kind happened to signalise our voyage."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Normally, current flows through the strip, and so the melting is signalised by the cessation of the current, which event is recorded by the chronograph."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The troops of his nation signalised themselves in this war for anything but courage, and young Van Cutsum, Pauline's admirer, was too good a soldier to disobey his Colonel's orders to run away."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with traffic signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicate silently and non-verbally by signals or signs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"During the nineteen days mentioned above, no incident of any kind happened to signalise our voyage."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Normally, current flows through the strip, and so the melting is signalised by the cessation of the current, which event is recorded by the chronograph."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The troops of his nation signalised themselves in this war for anything but courage, and young Van Cutsum, Pauline's admirer, was too good a soldier to disobey his Colonel's orders to run away."*

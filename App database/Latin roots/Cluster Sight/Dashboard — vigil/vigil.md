@@ -5,15 +5,6 @@ status: unread
 ---
 # vigil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of sleeplessness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rite of staying awake for devotional purposes (especially on the eve of a religious festival).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"How shall I ever forget that dreadful vigil?"*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"Imperial Sorrow loves her sway, or I had sooner broken your vigil, my brother," said Bertram."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Kurtz’s adorers were keeping their uneasy vigil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of sleeplessness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rite of staying awake for devotional purposes (especially on the eve of a religious festival).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"How shall I ever forget that dreadful vigil?"*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"Imperial Sorrow loves her sway, or I had sooner broken your vigil, my brother," said Bertram."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Kurtz’s adorers were keeping their uneasy vigil."*

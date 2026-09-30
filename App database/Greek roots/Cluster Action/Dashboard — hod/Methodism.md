@@ -5,15 +5,6 @@ status: unread
 ---
 # methodism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The religious beliefs and practices of methodists characterized by concern with social welfare and public morals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The religious beliefs and practices of methodists characterized by concern with social welfare and public morals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In his "Memorials of Methodism in Virginia," Dr."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"It was his conversion to Evangelicism which gave him his inspiration and his themes. ‘The Task’ has been as justly called the poem of Methodism as the ‘Paradise Lost’ has been called the epic of Puritanism."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"The ministers of early Methodism and early Quakerism were not of the sort who congregate in groups and discuss the relative desirability of various appointments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The religious beliefs and practices of methodists characterized by concern with social welfare and public morals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The religious beliefs and practices of methodists characterized by concern with social welfare and public morals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"In his "Memorials of Methodism in Virginia," Dr."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"It was his conversion to Evangelicism which gave him his inspiration and his themes. ‘The Task’ has been as justly called the poem of Methodism as the ‘Paradise Lost’ has been called the epic of Puritanism."*
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"The ministers of early Methodism and early Quakerism were not of the sort who congregate in groups and discuss the relative desirability of various appointments."*

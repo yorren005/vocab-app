@@ -5,15 +5,6 @@ status: unread
 ---
 # ever
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At any time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At all times; all the time and on every occasion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O no, thy love though much, is not so great, It is my love that keeps mine eye awake, Mine own true love that doth my rest defeat, To play the watchman ever for thy sake."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why write I still all one, ever the same, And keep invention in a noted weed, That every word doth almost tell my name, Showing their birth, and where they did proceed?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But heaven in thy creation did decree, That in thy face sweet love should ever dwell, Whate’er thy thoughts, or thy heart’s workings be, Thy looks should nothing thence, but sweetness tell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At any time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At all times; all the time and on every occasion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O no, thy love though much, is not so great, It is my love that keeps mine eye awake, Mine own true love that doth my rest defeat, To play the watchman ever for thy sake."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why write I still all one, ever the same, And keep invention in a noted weed, That every word doth almost tell my name, Showing their birth, and where they did proceed?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But heaven in thy creation did decree, That in thy face sweet love should ever dwell, Whate’er thy thoughts, or thy heart’s workings be, Thy looks should nothing thence, but sweetness tell."*

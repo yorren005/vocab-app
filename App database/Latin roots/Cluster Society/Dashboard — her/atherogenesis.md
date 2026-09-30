@@ -5,13 +5,6 @@ status: unread
 ---
 # atherogenesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of atheromas on the walls of the arteries as in atherosclerosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formation of atheromas on the walls of the arteries as in atherosclerosis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atherogenesis designates the formation of atheromas on the walls of the arteries as in atherosclerosis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of atheromas on the walls of the arteries as in atherosclerosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formation of atheromas on the walls of the arteries as in atherosclerosis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atherogenesis designates the formation of atheromas on the walls of the arteries as in atherosclerosis."*

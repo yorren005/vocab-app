@@ -5,15 +5,6 @@ status: unread
 ---
 # platoon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A military unit that is a subdivision of a company; usually has a headquarters and two or more squads; usually commanded by a lieutenant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A team of policemen working under the military platoon system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Second platoon!” “Where are they off to now?” thought Rostóv."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He was now and then subjected to the eruptions of the border population that infest the streets of a metropolis, who would make midnight forays into his dominions, and carry off captive whole platoons of his noblest subjects."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Small boys would arrive in platoons, each bearing his quota of stragglers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A military unit that is a subdivision of a company; usually has a headquarters and two or more squads; usually commanded by a lieutenant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A team of policemen working under the military platoon system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Second platoon!” “Where are they off to now?” thought Rostóv."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He was now and then subjected to the eruptions of the border population that infest the streets of a metropolis, who would make midnight forays into his dominions, and carry off captive whole platoons of his noblest subjects."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Small boys would arrive in platoons, each bearing his quota of stragglers."*

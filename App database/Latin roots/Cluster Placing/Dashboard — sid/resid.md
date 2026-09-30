@@ -5,15 +5,6 @@ status: unread
 ---
 # resid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oil products that remain after petroleum has been distilled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oil products that remain after petroleum has been distilled.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The longer Clare resided here the less objection had he to his company, and the more did he like to share quarters with them in common."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Jordan has resided in Lake View, Chicago, since the spring of 1871."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In a forest, isolated from neighbors, the old man resided alone with an aged wife."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Oil products that remain after petroleum has been distilled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oil products that remain after petroleum has been distilled.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The longer Clare resided here the less objection had he to his company, and the more did he like to share quarters with them in common."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Jordan has resided in Lake View, Chicago, since the spring of 1871."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"In a forest, isolated from neighbors, the old man resided alone with an aged wife."*

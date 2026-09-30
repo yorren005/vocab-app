@@ -5,15 +5,6 @@ status: unread
 ---
 # canned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preserve in a can or tin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terminate the employment of; discharge from an office or position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Chicago canned milk never gave more comfort than on this occasion, I assure you."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Potatoes, received from Iowa, and dried fruit and canned, have been distributed among the men."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The great need we have in connection with these 'Diet Kitchens,' is the want of canned fruits, jellies, preserves, etc."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preserve in a can or tin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terminate the employment of; discharge from an office or position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Chicago canned milk never gave more comfort than on this occasion, I assure you."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Potatoes, received from Iowa, and dried fruit and canned, have been distributed among the men."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The great need we have in connection with these 'Diet Kitchens,' is the want of canned fruits, jellies, preserves, etc."*

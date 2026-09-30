@@ -5,15 +5,6 @@ status: unread
 ---
 # involvement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sharing in the activities of a group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A connection of inclusion or containment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer would not have knowingly accepted Scarf's involvement in the proceedings."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Rather than merely riding off into the sunset, older adults choose to brighten the horizons of their minds and lives through continued involvement in family, schools, work place, and community."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Most elderly reject the diminution of their abilities and interests, although as they age into the seventh and eighth decades they may be compelled to restrict their direct involvement somewhat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sharing in the activities of a group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A connection of inclusion or containment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer would not have knowingly accepted Scarf's involvement in the proceedings."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Rather than merely riding off into the sunset, older adults choose to brighten the horizons of their minds and lives through continued involvement in family, schools, work place, and community."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Most elderly reject the diminution of their abilities and interests, although as they age into the seventh and eighth decades they may be compelled to restrict their direct involvement somewhat."*

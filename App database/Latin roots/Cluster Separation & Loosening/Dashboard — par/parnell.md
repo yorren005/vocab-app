@@ -5,15 +5,6 @@ status: unread
 ---
 # parnell
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Irish nationalist leader (1846-1891).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Irish nationalist leader (1846-1891).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Delia Parnell, Parnell's mother, had attended the great Irish rally in the Academy of Music...."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Parnell, though, looked hopeful."*
-> - 📜 **James Joyce (*Ulysses*):** *"A woman too brought Parnell low."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Irish nationalist leader (1846-1891).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Irish nationalist leader (1846-1891).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Delia Parnell, Parnell's mother, had attended the great Irish rally in the Academy of Music...."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Parnell, though, looked hopeful."*
+> - 📜 **James Joyce (*Ulysses*):** *"A woman too brought Parnell low."*

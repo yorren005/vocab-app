@@ -5,13 +5,6 @@ status: unread
 ---
 # hyaluronidase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme (trade name hyazyme) that splits hyaluronic acid and so lowers its viscosity and increases the permeability of connective tissue and the absorption of fluids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme (trade name hyazyme) that splits hyaluronic acid and so lowers its viscosity and increases the permeability of connective tissue and the absorption of fluids.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyaluronidase designates an enzyme (trade name hyazyme) that splits hyaluronic acid and so lowers its viscosity and increases the permeability of connective tissue and the absorption of fluids."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme (trade name hyazyme) that splits hyaluronic acid and so lowers its viscosity and increases the permeability of connective tissue and the absorption of fluids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme (trade name hyazyme) that splits hyaluronic acid and so lowers its viscosity and increases the permeability of connective tissue and the absorption of fluids.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyaluronidase designates an enzyme (trade name hyazyme) that splits hyaluronic acid and so lowers its viscosity and increases the permeability of connective tissue and the absorption of fluids."*

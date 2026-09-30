@@ -5,15 +5,6 @@ status: unread
 ---
 # interfering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come between so as to be hindrance or obstacle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get involved, so as to alter or hinder an action, or through force or threat of force.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I own to being rather interfering."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"It fortunately happened that the work to which John had now to turn his hand allowed him an opportunity of carrying on his studies without interfering with its efficiency."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She endeavoured to secure Jane in her interest, but Jane, with all possible mildness, declined interfering; and Elizabeth, sometimes with real earnestness, and sometimes with playful gaiety, replied to her attacks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Come between so as to be hindrance or obstacle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get involved, so as to alter or hinder an action, or through force or threat of force.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I own to being rather interfering."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"It fortunately happened that the work to which John had now to turn his hand allowed him an opportunity of carrying on his studies without interfering with its efficiency."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She endeavoured to secure Jane in her interest, but Jane, with all possible mildness, declined interfering; and Elizabeth, sometimes with real earnestness, and sometimes with playful gaiety, replied to her attacks."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # directional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or indicating directions in space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to direction toward a (nonspatial) goal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The recon-patroller's omni-directional screen displayed the huge cylinder that floated in space behind him, its gravity-enhanced rotation barely perceptible to O'Hare's vision."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As Brad expected, the fire control center consisted of dozens of consoles, scopes, directional and power control devices, and clusters of computer terminals."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"At each gun emplacement, Rimov, his guards and Scarf watched Brad and Kumiko inspect sector guides, range and directional interlocks and power drives."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or indicating directions in space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to direction toward a (nonspatial) goal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The recon-patroller's omni-directional screen displayed the huge cylinder that floated in space behind him, its gravity-enhanced rotation barely perceptible to O'Hare's vision."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As Brad expected, the fire control center consisted of dozens of consoles, scopes, directional and power control devices, and clusters of computer terminals."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"At each gun emplacement, Rimov, his guards and Scarf watched Brad and Kumiko inspect sector guides, range and directional interlocks and power drives."*

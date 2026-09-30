@@ -5,15 +5,6 @@ status: unread
 ---
 # judiciary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Persons who administer justice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of law courts that administer justice and constitute the judicial branch of government.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Judiciary Department FEDERALIST No."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Judiciary Continued FEDERALIST No."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Powers of the Judiciary FEDERALIST No."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Persons who administer justice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of law courts that administer justice and constitute the judicial branch of government.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Judiciary Department FEDERALIST No."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Judiciary Continued FEDERALIST No."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Powers of the Judiciary FEDERALIST No."*

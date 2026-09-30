@@ -5,15 +5,6 @@ status: unread
 ---
 # almond
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The drupaceous fruit of a small tree (Prunus dulcis synonym P. amygdalus) of the rose family with flowers and young fruit resembling those of the peach; especially : its ellipsoidal edible kernel used as a nut.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several similar fruits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Patroclus will give me anything for the intelligence of this whore; the parrot will not do more for an almond than he for a commodious drab."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I no longer felt the weight of my clothing, or of my shoes, of my reservoir of air, or my thick helmet, in the midst of which my head rattled like an almond in its shell."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"She was sitting on some bundles a little behind the old woman, and looked from under her long lashes with motionless, large, almond-shaped eyes at the ground before her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The drupaceous fruit of a small tree (Prunus dulcis synonym P. amygdalus) of the rose family with flowers and young fruit resembling those of the peach; especially : its ellipsoidal edible kernel used as a nut.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several similar fruits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Patroclus will give me anything for the intelligence of this whore; the parrot will not do more for an almond than he for a commodious drab."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I no longer felt the weight of my clothing, or of my shoes, of my reservoir of air, or my thick helmet, in the midst of which my head rattled like an almond in its shell."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"She was sitting on some bundles a little behind the old woman, and looked from under her long lashes with motionless, large, almond-shaped eyes at the ground before her."*

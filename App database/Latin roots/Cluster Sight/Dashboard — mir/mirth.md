@@ -5,15 +5,6 @@ status: unread
 ---
 # mirth
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Great merriment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Great merriment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was disposed to mirth; but on the sudden A Roman thought hath struck him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you find him sad, Say I am dancing; if in mirth, report That I am sudden sick."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s grant it is not Amiss to tumble on the bed of Ptolemy, To give a kingdom for a mirth, to sit And keep the turn of tippling with a slave, To reel the streets at noon, and stand the buffet With knaves that smell of sweat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Great merriment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Great merriment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was disposed to mirth; but on the sudden A Roman thought hath struck him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you find him sad, Say I am dancing; if in mirth, report That I am sudden sick."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s grant it is not Amiss to tumble on the bed of Ptolemy, To give a kingdom for a mirth, to sit And keep the turn of tippling with a slave, To reel the streets at noon, and stand the buffet With knaves that smell of sweat."*

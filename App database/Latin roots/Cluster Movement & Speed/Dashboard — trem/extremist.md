@@ -5,14 +5,6 @@ status: unread
 ---
 # extremist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who holds extreme views.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of opinions and actions) far beyond the norm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He would have been a splendid leader of an extreme party.’ ‘What party?’ I asked. ‘Any party,’ answered the other. ‘He was an—an—extremist.’ Did I not think so?"*
-> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"We need not be extremists in our beliefs, and refuse to admit that there exist grades and classes in American society."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who holds extreme views.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of opinions and actions) far beyond the norm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He would have been a splendid leader of an extreme party.’ ‘What party?’ I asked. ‘Any party,’ answered the other. ‘He was an—an—extremist.’ Did I not think so?"*
+> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"We need not be extremists in our beliefs, and refuse to admit that there exist grades and classes in American society."*

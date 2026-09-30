@@ -5,15 +5,6 @@ status: unread
 ---
 # modelling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A preliminary sculpture in wax or clay from which a finished work can be copied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of representing something (usually on a smaller scale).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"If she were to try one, she would find her teeth in her way, modelling that action of her face, as she has unconsciously modelled all its other expressions, on her pattern of sordid age."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She had seized on it with her unerring tact: this was right for Isabel, this dim transparency of rosepoint modelling itself over the immature slenderness of nineteen: and she and her maid Catherine and Mrs."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Will was very open and careless about his personal affairs, but it was among the more exquisite touches in nature’s modelling of him that he had a delicate generosity which warned him into reticence here."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A preliminary sculpture in wax or clay from which a finished work can be copied.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of representing something (usually on a smaller scale).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"If she were to try one, she would find her teeth in her way, modelling that action of her face, as she has unconsciously modelled all its other expressions, on her pattern of sordid age."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"She had seized on it with her unerring tact: this was right for Isabel, this dim transparency of rosepoint modelling itself over the immature slenderness of nineteen: and she and her maid Catherine and Mrs."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Will was very open and careless about his personal affairs, but it was among the more exquisite touches in nature’s modelling of him that he had a delicate generosity which warned him into reticence here."*

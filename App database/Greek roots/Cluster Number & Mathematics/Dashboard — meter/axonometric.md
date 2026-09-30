@@ -5,13 +5,6 @@ status: unread
 ---
 # axonometric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or prepared by the projection of objects on the drawing surface so that they appear inclined with three sides showing and with horizontal and vertical distances drawn to scale but diagonal and curved lines distorted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or prepared by the projection of objects on the drawing surface so that they appear inclined with three sides showing and with horizontal and vertical distances drawn to scale but diagonal and curved lines distorted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axonometric designates being or prepared by the projection of objects on the drawing surface so that they appear inclined with three sides showing and with horizontal and vertical distances drawn to scale but diagonal and curved lines distorted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or prepared by the projection of objects on the drawing surface so that they appear inclined with three sides showing and with horizontal and vertical distances drawn to scale but diagonal and curved lines distorted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or prepared by the projection of objects on the drawing surface so that they appear inclined with three sides showing and with horizontal and vertical distances drawn to scale but diagonal and curved lines distorted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axonometric designates being or prepared by the projection of objects on the drawing surface so that they appear inclined with three sides showing and with horizontal and vertical distances drawn to scale but diagonal and curved lines distorted."*

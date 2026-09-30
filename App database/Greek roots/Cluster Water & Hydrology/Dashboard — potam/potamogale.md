@@ -5,13 +5,6 @@ status: unread
 ---
 # potamogale
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Amphibious african insectivorous mammal that resembles an otter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Amphibious african insectivorous mammal that resembles an otter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, potamogale designates amphibious african insectivorous mammal that resembles an otter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Amphibious african insectivorous mammal that resembles an otter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Amphibious african insectivorous mammal that resembles an otter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, potamogale designates amphibious african insectivorous mammal that resembles an otter."*

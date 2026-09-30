@@ -5,15 +5,6 @@ status: unread
 ---
 # priestly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Associated with the priesthood or priests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Befitting or characteristic of a priest or the priesthood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bid Nestor bring me spices, ink and paper, My casket and my jewels; and bid Nicander Bring me the satin coffer: lay the babe Upon the pillow: hie thee, whiles I say A priestly farewell to her: suddenly, woman. [_Exit Lychorida._] SECOND SAILOR."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was the priestly rulers and priestly politicians of Jerusalem."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The abstraction was a cheat and a lie manufactured in the priestly mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Associated with the priesthood or priests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Befitting or characteristic of a priest or the priesthood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bid Nestor bring me spices, ink and paper, My casket and my jewels; and bid Nicander Bring me the satin coffer: lay the babe Upon the pillow: hie thee, whiles I say A priestly farewell to her: suddenly, woman. [_Exit Lychorida._] SECOND SAILOR."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was the priestly rulers and priestly politicians of Jerusalem."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The abstraction was a cheat and a lie manufactured in the priestly mind."*

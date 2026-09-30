@@ -5,13 +5,6 @@ status: unread
 ---
 # moussaka
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Casserole of eggplant and ground lamb with onion and tomatoes bound with white sauce and beaten eggs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Casserole of eggplant and ground lamb with onion and tomatoes bound with white sauce and beaten eggs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moussaka designates casserole of eggplant and ground lamb with onion and tomatoes bound with white sauce and beaten eggs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Casserole of eggplant and ground lamb with onion and tomatoes bound with white sauce and beaten eggs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Casserole of eggplant and ground lamb with onion and tomatoes bound with white sauce and beaten eggs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moussaka designates casserole of eggplant and ground lamb with onion and tomatoes bound with white sauce and beaten eggs."*

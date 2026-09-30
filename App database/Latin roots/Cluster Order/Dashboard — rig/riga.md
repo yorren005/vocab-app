@@ -5,14 +5,6 @@ status: unread
 ---
 # riga
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city on the gulf of riga that is the capital and largest city of latvia; formerly a member of the hanseatic league.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city on the gulf of riga that is the capital and largest city of latvia; formerly a member of the hanseatic league.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In Riga the day is a festival of flowers."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A market of flowers is held in an open square and on the chief bridge over the river; here wreaths of immortelles, which grow wild in the meadows and woods, are sold in great profusion and deck the houses of Riga for long afterwards."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city on the gulf of riga that is the capital and largest city of latvia; formerly a member of the hanseatic league.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city on the gulf of riga that is the capital and largest city of latvia; formerly a member of the hanseatic league.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In Riga the day is a festival of flowers."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A market of flowers is held in an open square and on the chief bridge over the river; here wreaths of immortelles, which grow wild in the meadows and woods, are sold in great profusion and deck the houses of Riga for long afterwards."*

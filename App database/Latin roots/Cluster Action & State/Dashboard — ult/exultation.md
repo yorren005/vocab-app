@@ -5,15 +5,6 @@ status: unread
 ---
 # exultation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of extreme joy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The utterance of sounds expressing great joy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go together, You precious winners all; your exultation Partake to everyone."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was never tired of seeing Charley in the full enjoyment of that great dignity, standing before me with her youthful face and figure, and her steady manner, and her childish exultation breaking through it now and then in the pleasantest way."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was room for a little pity, also for a very little exultation: the former at his position, the latter at her own."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of extreme joy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The utterance of sounds expressing great joy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go together, You precious winners all; your exultation Partake to everyone."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I was never tired of seeing Charley in the full enjoyment of that great dignity, standing before me with her youthful face and figure, and her steady manner, and her childish exultation breaking through it now and then in the pleasantest way."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was room for a little pity, also for a very little exultation: the former at his position, the latter at her own."*

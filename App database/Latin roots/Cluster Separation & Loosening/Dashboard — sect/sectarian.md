@@ -5,15 +5,6 @@ status: unread
 ---
 # sectarian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a sect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of a sect or sects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The members of the society were connected with twenty different churches of several denominations, and while all had reference to the spiritual as well as physical welfare of the soldier, yet there was nothing sectarian or denominational in its work."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"She was a grim old person, very stern in matters of sectarian opinion, and the captain recognized in his heart of hearts that she alone was his superior officer."*
-> - 📜 **James Joyce (*Ulysses*):** *"That’s a matter for everyman’s opinion and, without dragging in the sectarian side of the business, I beg to differ with you _in toto_ there."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a sect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of a sect or sects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The members of the society were connected with twenty different churches of several denominations, and while all had reference to the spiritual as well as physical welfare of the soldier, yet there was nothing sectarian or denominational in its work."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"She was a grim old person, very stern in matters of sectarian opinion, and the captain recognized in his heart of hearts that she alone was his superior officer."*
+> - 📜 **James Joyce (*Ulysses*):** *"That’s a matter for everyman’s opinion and, without dragging in the sectarian side of the business, I beg to differ with you _in toto_ there."*

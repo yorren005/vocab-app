@@ -5,13 +5,6 @@ status: unread
 ---
 # macroglia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tissue consisting of large stellate neuroglial cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tissue consisting of large stellate neuroglial cells.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroglia designates tissue consisting of large stellate neuroglial cells."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tissue consisting of large stellate neuroglial cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tissue consisting of large stellate neuroglial cells.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroglia designates tissue consisting of large stellate neuroglial cells."*

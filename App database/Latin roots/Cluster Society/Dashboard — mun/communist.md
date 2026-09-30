@@ -5,15 +5,6 @@ status: unread
 ---
 # communist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the communist party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A socialist who advocates communism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"His own doctrine, first set forth connectedly[17] in the Communist Manifesto in 1848, he called Communism."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The Korean War, in which the Soviet Union and Communist China openly supported and militarily joined North Korea against the United Nations, was launched the following year."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The Korean 'police action,' another product of confrontations between USSR/Communist China and U S/NATO, was winding down."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the communist party.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A socialist who advocates communism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"His own doctrine, first set forth connectedly[17] in the Communist Manifesto in 1848, he called Communism."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The Korean War, in which the Soviet Union and Communist China openly supported and militarily joined North Korea against the United Nations, was launched the following year."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The Korean 'police action,' another product of confrontations between USSR/Communist China and U S/NATO, was winding down."*

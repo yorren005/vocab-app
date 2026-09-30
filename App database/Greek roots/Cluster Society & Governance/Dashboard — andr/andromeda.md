@@ -5,15 +5,6 @@ status: unread
 ---
 # andromeda
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Broad-leaved evergreen asiatic shrub with glossy leaves and drooping clusters of white flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several shrubs of the genus andromeda having leathery leaves and clusters of small flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is Guido’s picture of Perseus rescuing Andromeda from the sea-monster or whale."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Akin to the adventure of Perseus and Andromeda—indeed, by some supposed to be indirectly derived from it—is that famous story of St."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It is Guido’s picture of Perseus rescuing Andromeda from the sea-monster or whale."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Broad-leaved evergreen asiatic shrub with glossy leaves and drooping clusters of white flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several shrubs of the genus andromeda having leathery leaves and clusters of small flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is Guido’s picture of Perseus rescuing Andromeda from the sea-monster or whale."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Akin to the adventure of Perseus and Andromeda—indeed, by some supposed to be indirectly derived from it—is that famous story of St."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It is Guido’s picture of Perseus rescuing Andromeda from the sea-monster or whale."*

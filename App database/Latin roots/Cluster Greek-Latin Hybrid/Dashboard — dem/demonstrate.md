@@ -5,15 +5,6 @@ status: unread
 ---
 # demonstrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an exhibition of to an interested audience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establish the validity of something, as by an example, explanation or experiment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such a man Might be a copy to these younger times; Which, followed well, would demonstrate them now But goers backward."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Description cannot suit itself in words To demonstrate the life of such a battle, In life so lifeless as it shows itself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For when my outward action doth demonstrate The native act and figure of my heart In complement extern, ’tis not long after But I will wear my heart upon my sleeve For daws to peck at: I am not what I am."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an exhibition of to an interested audience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establish the validity of something, as by an example, explanation or experiment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such a man Might be a copy to these younger times; Which, followed well, would demonstrate them now But goers backward."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Description cannot suit itself in words To demonstrate the life of such a battle, In life so lifeless as it shows itself."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For when my outward action doth demonstrate The native act and figure of my heart In complement extern, ’tis not long after But I will wear my heart upon my sleeve For daws to peck at: I am not what I am."*

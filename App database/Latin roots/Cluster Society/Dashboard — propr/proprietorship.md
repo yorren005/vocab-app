@@ -5,15 +5,6 @@ status: unread
 ---
 # proprietorship
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unincorporated business owned by a single person who is responsible for its liabilities and entitled to its profits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unincorporated business owned by a single person who is responsible for its liabilities and entitled to its profits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, breaking off with a mistrust that he may have unpolitely asserted a kind of proprietorship in Mr."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"And now let me have a look at my gentleman agen.” Once more, he took me by both hands and surveyed me with an air of admiring proprietorship: smoking with great complacency all the while."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"She boldly gathered some of her valued spice-apples, with an assuring sense of proprietorship as she crossed the last narrow field."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unincorporated business owned by a single person who is responsible for its liabilities and entitled to its profits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unincorporated business owned by a single person who is responsible for its liabilities and entitled to its profits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, breaking off with a mistrust that he may have unpolitely asserted a kind of proprietorship in Mr."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"And now let me have a look at my gentleman agen.” Once more, he took me by both hands and surveyed me with an air of admiring proprietorship: smoking with great complacency all the while."*
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"She boldly gathered some of her valued spice-apples, with an assuring sense of proprietorship as she crossed the last narrow field."*

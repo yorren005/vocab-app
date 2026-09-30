@@ -5,15 +5,6 @@ status: unread
 ---
 # page
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One side of one leaf (of a book or magazine or newspaper or letter etc.) or the written or pictorial matter it contains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English industrialist who pioneered in the design and manufacture of aircraft (1885-1962).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Page, servant to the Countess of Rossillon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Monsieur Parolles, my lord calls for you. [_Exit Page._] PAROLLES."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll have no worse a name than Jove’s own page, And therefore look you call me Ganymede."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One side of one leaf (of a book or magazine or newspaper or letter etc.) or the written or pictorial matter it contains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English industrialist who pioneered in the design and manufacture of aircraft (1885-1962).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Page, servant to the Countess of Rossillon."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Monsieur Parolles, my lord calls for you. [_Exit Page._] PAROLLES."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll have no worse a name than Jove’s own page, And therefore look you call me Ganymede."*

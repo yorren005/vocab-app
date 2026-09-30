@@ -5,15 +5,6 @@ status: unread
 ---
 # notably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Especially; in particular.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Especially; in particular.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, if he that writ it had played Pyramus, and hanged himself in Thisbe’s garter, it would have been a fine tragedy; and so it is, truly; and very notably discharged."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There are, however, numerous countries, notably in South America and Central America, which have fiduciary paper-money standards.[2] § 6.# Varying extent of the use of money#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The rise in the price of gold-exchange in the silver-using countries (notably India) meant also an increase in their burden of taxation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Especially; in particular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Especially; in particular.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, if he that writ it had played Pyramus, and hanged himself in Thisbe’s garter, it would have been a fine tragedy; and so it is, truly; and very notably discharged."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There are, however, numerous countries, notably in South America and Central America, which have fiduciary paper-money standards.[2] § 6.# Varying extent of the use of money#."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The rise in the price of gold-exchange in the silver-using countries (notably India) meant also an increase in their burden of taxation."*

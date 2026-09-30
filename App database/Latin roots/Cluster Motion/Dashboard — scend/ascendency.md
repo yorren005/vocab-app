@@ -5,15 +5,6 @@ status: unread
 ---
 # ascendency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state that exists when one person or group has power over another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state that exists when one person or group has power over another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Propensities, tendencies, habits, were as dead leaves upon the tyrannous wind of his imaginative ascendency."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It was _my_ time to assume ascendency. _My_ powers were in play and in force."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"According to this account and what was subsequently learned, it seemed that the scaramouch in question had gained a wonderful ascendency over almost everybody in the Jeroboam."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state that exists when one person or group has power over another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state that exists when one person or group has power over another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Propensities, tendencies, habits, were as dead leaves upon the tyrannous wind of his imaginative ascendency."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It was _my_ time to assume ascendency. _My_ powers were in play and in force."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"According to this account and what was subsequently learned, it seemed that the scaramouch in question had gained a wonderful ascendency over almost everybody in the Jeroboam."*

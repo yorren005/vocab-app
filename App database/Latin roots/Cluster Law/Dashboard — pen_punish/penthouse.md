@@ -5,15 +5,6 @@ status: unread
 ---
 # penthouse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apartment located on the top floors of a building.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apartment located on the top floors of a building.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the penthouse under which Lorenzo Desired us to make stand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stand thee close then under this penthouse, for it drizzles rain, and I will, like a true drunkard, utter all to thee."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Above Pierre’s head some pigeons, disturbed by the movement he had made in sitting up, fluttered under the dark roof of the penthouse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apartment located on the top floors of a building.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apartment located on the top floors of a building.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the penthouse under which Lorenzo Desired us to make stand."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stand thee close then under this penthouse, for it drizzles rain, and I will, like a true drunkard, utter all to thee."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Above Pierre’s head some pigeons, disturbed by the movement he had made in sitting up, fluttered under the dark roof of the penthouse."*

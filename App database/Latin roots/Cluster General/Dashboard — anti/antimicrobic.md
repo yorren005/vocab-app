@@ -5,13 +5,6 @@ status: unread
 ---
 # antimicrobic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent (as heat or radiation or a chemical) that destroys microorganisms that might carry disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of destroying or inhibiting the growth of disease-causing microorganisms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimicrobic designates an agent (as heat or radiation or a chemical) that destroys microorganisms that might carry disease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent (as heat or radiation or a chemical) that destroys microorganisms that might carry disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of destroying or inhibiting the growth of disease-causing microorganisms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimicrobic designates an agent (as heat or radiation or a chemical) that destroys microorganisms that might carry disease."*

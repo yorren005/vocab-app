@@ -5,15 +5,6 @@ status: unread
 ---
 # mutilation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An injury that causes disfigurement or that deprives you of a limb or other important body part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An injury that causes disfigurement or that deprives you of a limb or other important body part.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Unlike and superior to either of those two typical remnants of mediævalism, the old barn embodied practices which had suffered no mutilation at the hands of time."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Less the opportunity of an insight into grinding and bolting than the casual fact that lodgings were to be obtained in that very farmhouse which, before its mutilation, had been the mansion of a branch of the d’Urberville family."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Blindness and mutilation are better, Jesus said, than the eye of lust (Matt. 5:28)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An injury that causes disfigurement or that deprives you of a limb or other important body part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An injury that causes disfigurement or that deprives you of a limb or other important body part.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Unlike and superior to either of those two typical remnants of mediævalism, the old barn embodied practices which had suffered no mutilation at the hands of time."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Less the opportunity of an insight into grinding and bolting than the casual fact that lodgings were to be obtained in that very farmhouse which, before its mutilation, had been the mansion of a branch of the d’Urberville family."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Blindness and mutilation are better, Jesus said, than the eye of lust (Matt. 5:28)."*

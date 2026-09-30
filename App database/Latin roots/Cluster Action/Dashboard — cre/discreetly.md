@@ -5,15 +5,6 @@ status: unread
 ---
 # discreetly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With discretion; prudently and with wise self-restraint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With discretion; prudently and with wise self-restraint.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, sirrah, not for my sake but your master’s, I advise You use your manners discreetly in all kind of companies: When I am alone, why, then I am Tranio; But in all places else your master, Lucentio."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So she was dressed discreetly, her face covered, so that she might pass as any Jewish woman of the lower orders."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The young man felt that he was unable to afford candour, and discreetly avoided the naming of his own action."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With discretion; prudently and with wise self-restraint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With discretion; prudently and with wise self-restraint.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, sirrah, not for my sake but your master’s, I advise You use your manners discreetly in all kind of companies: When I am alone, why, then I am Tranio; But in all places else your master, Lucentio."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So she was dressed discreetly, her face covered, so that she might pass as any Jewish woman of the lower orders."*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The young man felt that he was unable to afford candour, and discreetly avoided the naming of his own action."*

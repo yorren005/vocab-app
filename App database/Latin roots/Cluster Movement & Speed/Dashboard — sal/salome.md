@@ -5,13 +5,6 @@ status: unread
 ---
 # salome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Woman whose dancing beguiled herod into giving her the head of john the baptist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Woman whose dancing beguiled herod into giving her the head of john the baptist.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salome designates woman whose dancing beguiled herod into giving her the head of john the baptist."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Woman whose dancing beguiled herod into giving her the head of john the baptist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Woman whose dancing beguiled herod into giving her the head of john the baptist.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salome designates woman whose dancing beguiled herod into giving her the head of john the baptist."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # victimizer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who victimizes others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who victimizes others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"For though she worked up Miss Crawley to a proper dislike of her disobedient nephew, the invalid had a great hatred and secret terror of her victimizer, and panted to escape from her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who victimizes others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who victimizes others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"For though she worked up Miss Crawley to a proper dislike of her disobedient nephew, the invalid had a great hatred and secret terror of her victimizer, and panted to escape from her."*

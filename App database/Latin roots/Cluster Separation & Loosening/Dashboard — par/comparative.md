@@ -5,15 +5,6 @@ status: unread
 ---
 # comparative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The comparative form of an adjective or adverb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or based on or involving comparison.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wert dignified enough, Even to the point of envy, if ’twere made Comparative for your virtues to be styl’d The under-hangman of his kingdom, and hated For being preferr’d so well."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast the most unsavoury similes, and art indeed the most comparative, rascalliest, sweet young prince."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But she was more pliable under his hands than a mere companionship would have made her, owing to her unavoidable dependence upon his mother, and, through that lady’s comparative helplessness, upon him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The comparative form of an adjective or adverb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or based on or involving comparison.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wert dignified enough, Even to the point of envy, if ’twere made Comparative for your virtues to be styl’d The under-hangman of his kingdom, and hated For being preferr’d so well."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast the most unsavoury similes, and art indeed the most comparative, rascalliest, sweet young prince."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But she was more pliable under his hands than a mere companionship would have made her, owing to her unavoidable dependence upon his mother, and, through that lady’s comparative helplessness, upon him."*

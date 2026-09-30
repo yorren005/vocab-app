@@ -5,15 +5,6 @@ status: unread
 ---
 # passenger
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A traveler riding in a vehicle (a boat or bus or car or plane or train etc) who is not operating it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traveler riding in a vehicle (a boat or bus or car or plane or train etc) who is not operating it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These are my mates, that make their wills their law, Have some unhappy passenger in chase."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Straight, without turning to the right or left, through the city, from one gate to another, this passenger seemed going; and as he went there was the sound as of a proclamation, as if it were a herald denouncing war or ratifying peace."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Afterwards, as you shall learn, I identified this reminiscence and knew that the moaning and the groaning was of the sweep-slaves manacled to their benches, which I heard from above, on the poop, a soldier passenger on a galley of old Rome."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traveler riding in a vehicle (a boat or bus or car or plane or train etc) who is not operating it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traveler riding in a vehicle (a boat or bus or car or plane or train etc) who is not operating it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These are my mates, that make their wills their law, Have some unhappy passenger in chase."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Straight, without turning to the right or left, through the city, from one gate to another, this passenger seemed going; and as he went there was the sound as of a proclamation, as if it were a herald denouncing war or ratifying peace."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Afterwards, as you shall learn, I identified this reminiscence and knew that the moaning and the groaning was of the sweep-slaves manacled to their benches, which I heard from above, on the poop, a soldier passenger on a galley of old Rome."*

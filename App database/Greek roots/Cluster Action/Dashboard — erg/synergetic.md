@@ -5,13 +5,6 @@ status: unread
 ---
 # synergetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Working together; used especially of groups, as subsidiaries of a corporation, cooperating for an enhanced effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Working together; used especially of groups, as subsidiaries of a corporation, cooperating for an enhanced effect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synergetic designates working together; used especially of groups, as subsidiaries of a corporation, cooperating for an enhanced effect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Working together; used especially of groups, as subsidiaries of a corporation, cooperating for an enhanced effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Working together; used especially of groups, as subsidiaries of a corporation, cooperating for an enhanced effect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synergetic designates working together; used especially of groups, as subsidiaries of a corporation, cooperating for an enhanced effect."*

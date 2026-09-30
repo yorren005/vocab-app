@@ -5,15 +5,6 @@ status: unread
 ---
 # sidewalk
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Walk consisting of a paved area for pedestrians; usually beside a street or roadway.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walk consisting of a paved area for pedestrians; usually beside a street or roadway.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"I've got to step down-town on some business," and the captain fled with ponderous footsteps out through the dining-room to the little side entry where he hung his hat; then a moment later he went away, clicking his cane along the narrow sidewalk."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Disconsolately she sat staring straight ahead--until a quick step on the sidewalk outside stirred her into instant action."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"A sound like the thunder of a thousand tons of scrap iron on a sidewalk and the destroyer pitched wildly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Walk consisting of a paved area for pedestrians; usually beside a street or roadway.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walk consisting of a paved area for pedestrians; usually beside a street or roadway.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"I've got to step down-town on some business," and the captain fled with ponderous footsteps out through the dining-room to the little side entry where he hung his hat; then a moment later he went away, clicking his cane along the narrow sidewalk."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Disconsolately she sat staring straight ahead--until a quick step on the sidewalk outside stirred her into instant action."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"A sound like the thunder of a thousand tons of scrap iron on a sidewalk and the destroyer pitched wildly."*

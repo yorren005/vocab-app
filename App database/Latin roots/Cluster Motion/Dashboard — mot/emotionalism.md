@@ -5,14 +5,6 @@ status: unread
 ---
 # emotionalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Emotional nature or quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emotional nature or quality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Let there be none of this horrible emotionalism, this undignified welter of thought and feeling."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Lecky, in opposing the granting of the right of suffrage to the women of England, gave it as his opinion that the emotional element in politics was already sufficiently great without the addition of the strongly developed emotionalism of woman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Emotional nature or quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emotional nature or quality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Let there be none of this horrible emotionalism, this undignified welter of thought and feeling."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Lecky, in opposing the granting of the right of suffrage to the women of England, gave it as his opinion that the emotional element in politics was already sufficiently great without the addition of the strongly developed emotionalism of woman."*

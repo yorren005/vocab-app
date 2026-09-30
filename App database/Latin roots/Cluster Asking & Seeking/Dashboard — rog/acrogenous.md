@@ -5,13 +5,6 @@ status: unread
 ---
 # acrogenous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to flowerless plants (ferns or mosses) in which growth occurs only at the tip of the main stem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to flowerless plants (ferns or mosses) in which growth occurs only at the tip of the main stem.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrogenous designates pertaining to flowerless plants (ferns or mosses) in which growth occurs only at the tip of the main stem."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to flowerless plants (ferns or mosses) in which growth occurs only at the tip of the main stem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to flowerless plants (ferns or mosses) in which growth occurs only at the tip of the main stem.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrogenous designates pertaining to flowerless plants (ferns or mosses) in which growth occurs only at the tip of the main stem."*

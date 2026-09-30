@@ -5,15 +5,6 @@ status: unread
 ---
 # organ
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A differentiated structure (such as a heart, kidney, leaf, or stem) consisting of cells and tissues and performing some specific function in an organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bodily parts performing a function or cooperating in an activity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks in thee some blessed spirit doth speak His powerful sound within an organ weak; And what impossibility would slay In common sense, sense saves another way."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For murder, though it have no tongue, will speak With most miraculous organ."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I will be rul’d; The rather if you could devise it so That I might be the organ."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A differentiated structure (such as a heart, kidney, leaf, or stem) consisting of cells and tissues and performing some specific function in an organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bodily parts performing a function or cooperating in an activity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks in thee some blessed spirit doth speak His powerful sound within an organ weak; And what impossibility would slay In common sense, sense saves another way."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For murder, though it have no tongue, will speak With most miraculous organ."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I will be rul’d; The rather if you could devise it so That I might be the organ."*

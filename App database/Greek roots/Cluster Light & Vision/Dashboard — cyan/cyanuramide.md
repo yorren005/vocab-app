@@ -5,13 +5,6 @@ status: unread
 ---
 # cyanuramide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white crystalline organic base; used mainly in making melamine resins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white crystalline organic base; used mainly in making melamine resins.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanuramide designates a white crystalline organic base; used mainly in making melamine resins."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white crystalline organic base; used mainly in making melamine resins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white crystalline organic base; used mainly in making melamine resins.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanuramide designates a white crystalline organic base; used mainly in making melamine resins."*

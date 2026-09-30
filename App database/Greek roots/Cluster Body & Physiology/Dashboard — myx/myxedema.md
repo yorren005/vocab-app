@@ -5,13 +5,6 @@ status: unread
 ---
 # myxedema
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe hypothyroidism characterized by firm inelastic edema, dry skin and hair, and loss of mental and physical vigor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severe hypothyroidism characterized by firm inelastic edema, dry skin and hair, and loss of mental and physical vigor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myxedema designates severe hypothyroidism characterized by firm inelastic edema, dry skin and hair, and loss of mental and physical vigor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe hypothyroidism characterized by firm inelastic edema, dry skin and hair, and loss of mental and physical vigor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severe hypothyroidism characterized by firm inelastic edema, dry skin and hair, and loss of mental and physical vigor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myxedema designates severe hypothyroidism characterized by firm inelastic edema, dry skin and hair, and loss of mental and physical vigor."*

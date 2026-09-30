@@ -5,15 +5,6 @@ status: unread
 ---
 # affiliated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep company with; hang out with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Join in an affiliation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Affiliated to these were over twelve thousand local Soldiers' Aid Societies."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"The party with which we have hitherto affiliated, claims to be so busily engaged with our present duties on the Islands that they must postpone consideration as to the final status of the people thereof."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"The Negro politicians of the smaller calibre that affiliated with the machine viewed Dorlan's actions with contempt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep company with; hang out with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Join in an affiliation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Affiliated to these were over twelve thousand local Soldiers' Aid Societies."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"The party with which we have hitherto affiliated, claims to be so busily engaged with our present duties on the Islands that they must postpone consideration as to the final status of the people thereof."*
+> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"The Negro politicians of the smaller calibre that affiliated with the machine viewed Dorlan's actions with contempt."*

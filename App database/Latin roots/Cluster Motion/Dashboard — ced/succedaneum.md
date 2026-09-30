@@ -5,13 +5,6 @@ status: unread
 ---
 # succedaneum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) something that can be used as a substitute (especially any medicine that may be taken in place of another).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) something that can be used as a substitute (especially any medicine that may be taken in place of another).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, succedaneum designates (medicine) something that can be used as a substitute (especially any medicine that may be taken in place of another)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) something that can be used as a substitute (especially any medicine that may be taken in place of another).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) something that can be used as a substitute (especially any medicine that may be taken in place of another).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, succedaneum designates (medicine) something that can be used as a substitute (especially any medicine that may be taken in place of another)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # germ
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anything that provides inspiration for later work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small apparently simple structure (as a fertilized egg) from which new tissue can develop into a complete organism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There is more than the germ of truth in things erroneous in the child’s definition of memory as the thing one forgets with."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Won in youth to religion, she has cultivated my original qualities thus:—From the minute germ, natural affection, she has developed the overshadowing tree, philanthropy."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"A man in love cannot soberly analyse his own psychological state, and Lawrence did not know that he had fallen in love with Isabel at first sight or that the germ of matrimonial intentions had lain all along in his mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anything that provides inspiration for later work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small apparently simple structure (as a fertilized egg) from which new tissue can develop into a complete organism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There is more than the germ of truth in things erroneous in the child’s definition of memory as the thing one forgets with."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Won in youth to religion, she has cultivated my original qualities thus:—From the minute germ, natural affection, she has developed the overshadowing tree, philanthropy."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"A man in love cannot soberly analyse his own psychological state, and Lawrence did not know that he had fallen in love with Isabel at first sight or that the germ of matrimonial intentions had lain all along in his mind."*

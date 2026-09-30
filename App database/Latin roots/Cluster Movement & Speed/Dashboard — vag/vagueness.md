@@ -5,15 +5,6 @@ status: unread
 ---
 # vagueness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unclearness by virtue of being poorly expressed or not coherent in meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indistinctness of shape or character.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jobling with some vagueness of expression and perhaps of meaning too."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But there was an unpractical vagueness in their movements throughout the day; neither one of them seemed to consider any question of effectual escape, disguise, or long concealment."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the discussion of industrial monopoly, the problem now before us, there is a good deal of vagueness and misunderstanding because of lack of definiteness in the use of words which have rapidly shifted in meaning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unclearness by virtue of being poorly expressed or not coherent in meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indistinctness of shape or character.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jobling with some vagueness of expression and perhaps of meaning too."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But there was an unpractical vagueness in their movements throughout the day; neither one of them seemed to consider any question of effectual escape, disguise, or long concealment."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the discussion of industrial monopoly, the problem now before us, there is a good deal of vagueness and misunderstanding because of lack of definiteness in the use of words which have rapidly shifted in meaning."*

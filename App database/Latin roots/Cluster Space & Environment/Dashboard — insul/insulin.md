@@ -5,13 +5,6 @@ status: unread
 ---
 # insulin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hormone secreted by the isles of langerhans in the pancreas; regulates storage of glycogen in the liver and accelerates oxidation of sugar in cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hormone secreted by the isles of langerhans in the pancreas; regulates storage of glycogen in the liver and accelerates oxidation of sugar in cells.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insulin designates hormone secreted by the isles of langerhans in the pancreas; regulates storage of glycogen in the liver and accelerates oxidation of sugar in cells."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hormone secreted by the isles of langerhans in the pancreas; regulates storage of glycogen in the liver and accelerates oxidation of sugar in cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hormone secreted by the isles of langerhans in the pancreas; regulates storage of glycogen in the liver and accelerates oxidation of sugar in cells.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insulin designates hormone secreted by the isles of langerhans in the pancreas; regulates storage of glycogen in the liver and accelerates oxidation of sugar in cells."*

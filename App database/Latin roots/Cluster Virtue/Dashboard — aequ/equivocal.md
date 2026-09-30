@@ -5,15 +5,6 @@ status: unread
 ---
 # equivocal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to two or more interpretations; or of uncertain nature or significance; or (often) intended to mislead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open to question; ; -anna jameson.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What an equivocal companion is this!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These sentences to sugar or to gall, Being strong on both sides, are equivocal: But words are words; I never yet did hear That the bruis’d heart was pierced through the ear."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And you have derived pleasure from occasional tokens of preference—equivocal tokens shown by a gentleman of family and a man of the world to a dependent and a novice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to two or more interpretations; or of uncertain nature or significance; or (often) intended to mislead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open to question; ; -anna jameson.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What an equivocal companion is this!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These sentences to sugar or to gall, Being strong on both sides, are equivocal: But words are words; I never yet did hear That the bruis’d heart was pierced through the ear."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And you have derived pleasure from occasional tokens of preference—equivocal tokens shown by a gentleman of family and a man of the world to a dependent and a novice."*

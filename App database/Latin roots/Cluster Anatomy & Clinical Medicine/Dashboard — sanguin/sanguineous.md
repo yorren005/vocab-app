@@ -5,14 +5,6 @@ status: unread
 ---
 # sanguineous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accompanied by bloodshed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accompanied by bloodshed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Keats (*Lamia*):** *"His passion, cruel grown, took on a hue Fierce and sanguineous as 'twas possible In one whose brow had no dark veins to swell."*
-> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"Myers and Podmore on the subject of the Permanence of Sanguineous Stains when connected with Crime."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accompanied by bloodshed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accompanied by bloodshed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Keats (*Lamia*):** *"His passion, cruel grown, took on a hue Fierce and sanguineous as 'twas possible In one whose brow had no dark veins to swell."*
+> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"Myers and Podmore on the subject of the Permanence of Sanguineous Stains when connected with Crime."*

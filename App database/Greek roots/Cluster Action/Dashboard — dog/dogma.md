@@ -5,15 +5,6 @@ status: unread
 ---
 # dogma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something held as an established opinion; especially : a definite authoritative tenet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A code of such tenets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Yet even here the books that interested him most were mainly historical, such as the first volume of Ritschl's great work on Justification (almost the only German book he read in a translation), and the three volumes of Harnack's _History of Dogma_."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"When History gives us brothers, and Dogma says they must be cousins--in any other case the decision of the historian would be clear, and so it is here."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The result has been nineteen centuries of endless question and speculation as to Jesus Christ--the rise of dogma, creed, and formula, as slowly all the philosophy of mankind has been re-thought in the light of the central experience of Jesus Christ."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something held as an established opinion; especially : a definite authoritative tenet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A code of such tenets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Yet even here the books that interested him most were mainly historical, such as the first volume of Ritschl's great work on Justification (almost the only German book he read in a translation), and the three volumes of Harnack's _History of Dogma_."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"When History gives us brothers, and Dogma says they must be cousins--in any other case the decision of the historian would be clear, and so it is here."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The result has been nineteen centuries of endless question and speculation as to Jesus Christ--the rise of dogma, creed, and formula, as slowly all the philosophy of mankind has been re-thought in the light of the central experience of Jesus Christ."*

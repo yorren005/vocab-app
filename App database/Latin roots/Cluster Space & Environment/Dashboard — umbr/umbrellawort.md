@@ -5,13 +5,6 @@ status: unread
 ---
 # umbrellawort
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant of the genus mirabilis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant of the genus mirabilis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, umbrellawort designates a plant of the genus mirabilis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant of the genus mirabilis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant of the genus mirabilis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, umbrellawort designates a plant of the genus mirabilis."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # truncate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Replace a corner by a plane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Approximate by ignoring all terms beyond a chosen one.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"IRIS BRAND; spots obliterated; sori oblong, brown, surrounded by the scarious epidermis; spores obovate-oblong, even, attenuated below, upper cell abruptly truncate.—On _Iris fœtidissima_."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The truncated apex of the Extractor's teleport gate cone glowed red, then violet, and thirty meters of its length disappeared into its new hyperspace home."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"As I took hold of the handle of the door I heard an exclamation, oddly truncated at the end, and a click and a thud."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Replace a corner by a plane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Approximate by ignoring all terms beyond a chosen one.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"IRIS BRAND; spots obliterated; sori oblong, brown, surrounded by the scarious epidermis; spores obovate-oblong, even, attenuated below, upper cell abruptly truncate.—On _Iris fœtidissima_."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The truncated apex of the Extractor's teleport gate cone glowed red, then violet, and thirty meters of its length disappeared into its new hyperspace home."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"As I took hold of the handle of the door I heard an exclamation, oddly truncated at the end, and a click and a thud."*

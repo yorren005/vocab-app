@@ -5,13 +5,6 @@ status: unread
 ---
 # victimization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adversity resulting from being made a victim.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act that exploits or victimizes someone (treats them unfairly).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, victimization designates adversity resulting from being made a victim."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adversity resulting from being made a victim.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act that exploits or victimizes someone (treats them unfairly).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, victimization designates adversity resulting from being made a victim."*

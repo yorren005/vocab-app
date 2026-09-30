@@ -5,15 +5,6 @@ status: unread
 ---
 # perturb
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disturb in mind or make uneasy or cause to be worried or alarmed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disturb or interfere with the usual path of an electron or atom.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The perturb’d court, For my being absent? whereunto I never Purpose return."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He was a lesser cousin of the great Min family, himself no fool, and grasping so greedily for power as to perturb Yunsan, who strove to retain all power himself and keep the palace and Cho-Sen in ordered balance."*
-> - 📜 **George Eliot (*Middlemarch*):** *"They perturb and dull conceptions instead of raising them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disturb in mind or make uneasy or cause to be worried or alarmed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disturb or interfere with the usual path of an electron or atom.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The perturb’d court, For my being absent? whereunto I never Purpose return."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He was a lesser cousin of the great Min family, himself no fool, and grasping so greedily for power as to perturb Yunsan, who strove to retain all power himself and keep the palace and Cho-Sen in ordered balance."*
+> - 📜 **George Eliot (*Middlemarch*):** *"They perturb and dull conceptions instead of raising them."*

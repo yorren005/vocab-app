@@ -5,14 +5,6 @@ status: unread
 ---
 # hallowmass
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A christian feast day honoring all the saints; first observed in 835.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A christian feast day honoring all the saints; first observed in 835.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"As bleak-fac’d Hallowmass returns, They get the jovial, rantin kirns, When rural life, of ev’ry station, Unite in common recreation; Love blinks, Wit slaps, an’ social Mirth Forgets there’s Care upo’ the earth."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Hallowmass is come and gane, The nights are lang in winter, sir, And you an’ I in ae bed, In trowth, I dare na venture, sir."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A christian feast day honoring all the saints; first observed in 835.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A christian feast day honoring all the saints; first observed in 835.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"As bleak-fac’d Hallowmass returns, They get the jovial, rantin kirns, When rural life, of ev’ry station, Unite in common recreation; Love blinks, Wit slaps, an’ social Mirth Forgets there’s Care upo’ the earth."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Hallowmass is come and gane, The nights are lang in winter, sir, And you an’ I in ae bed, In trowth, I dare na venture, sir."*

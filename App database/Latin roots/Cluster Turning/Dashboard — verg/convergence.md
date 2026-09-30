@@ -5,15 +5,6 @@ status: unread
 ---
 # convergence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The occurrence of two or more things coming together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The approach of an infinite series to a finite limit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Work out the nav for our fleet to the rendezvous; design formations, convergence and other vectors that'll keep the ships out of each other's way."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Point for convergence is coordinate H010-V210."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The convergence of the two distinct lines of enquiry suggests that the legendary union of the Roman king with Egeria may have been a reflection or duplicate of the union of the King of the Wood with Egeria or her double Diana."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The occurrence of two or more things coming together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The approach of an infinite series to a finite limit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Work out the nav for our fleet to the rendezvous; design formations, convergence and other vectors that'll keep the ships out of each other's way."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Point for convergence is coordinate H010-V210."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The convergence of the two distinct lines of enquiry suggests that the legendary union of the Roman king with Egeria may have been a reflection or duplicate of the union of the King of the Wood with Egeria or her double Diana."*

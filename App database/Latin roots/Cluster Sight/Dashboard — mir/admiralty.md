@@ -5,15 +5,6 @@ status: unread
 ---
 # admiralty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The department in charge of the navy (as in great britain).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office of admiral.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Green’s appears, on inquiry, to be at the present time aboard a vessel bound for China, three months out, but considered accessible by telegraph on application to the Lords of the Admiralty."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The Admiralty,” he continued, “entertain themselves now and then, with sending a few hundred men to sea, in a ship not fit to be employed."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Your sister is given to government.” “Given to government, Joe?” I was startled, for I had some shadowy idea (and I am afraid I must add, hope) that Joe had divorced her in a favour of the Lords of the Admiralty, or Treasury."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The department in charge of the navy (as in great britain).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office of admiral.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Green’s appears, on inquiry, to be at the present time aboard a vessel bound for China, three months out, but considered accessible by telegraph on application to the Lords of the Admiralty."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The Admiralty,” he continued, “entertain themselves now and then, with sending a few hundred men to sea, in a ship not fit to be employed."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Your sister is given to government.” “Given to government, Joe?” I was startled, for I had some shadowy idea (and I am afraid I must add, hope) that Joe had divorced her in a favour of the Lords of the Admiralty, or Treasury."*

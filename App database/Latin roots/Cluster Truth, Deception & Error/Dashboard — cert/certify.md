@@ -5,15 +5,6 @@ status: unread
 ---
 # certify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Guarantee payment on; of checks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, for that she’s in a wrong belief, I go to certify her Talbot’s here."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"For he’s too old to be your boy, ma’am.” “I can certify at all events that he is not anybody else’s,” returns Mrs."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Ten minutes were enough to certify that."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Guarantee payment on; of checks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, for that she’s in a wrong belief, I go to certify her Talbot’s here."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"For he’s too old to be your boy, ma’am.” “I can certify at all events that he is not anybody else’s,” returns Mrs."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Ten minutes were enough to certify that."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # ascend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Travel up,.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Go back in order of genealogical succession.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O for a Muse of fire, that would ascend The brightest heaven of invention, A kingdom for a stage, princes to act, And monarchs to behold the swelling scene!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ascend, brave Talbot; we will follow thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace be to France, if France in peace permit Our just and lineal entrance to our own; If not, bleed France, and peace ascend to heaven, Whiles we, God’s wrathful agent, do correct Their proud contempt that beats his peace to heaven."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Travel up,.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Go back in order of genealogical succession.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O for a Muse of fire, that would ascend The brightest heaven of invention, A kingdom for a stage, princes to act, And monarchs to behold the swelling scene!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ascend, brave Talbot; we will follow thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace be to France, if France in peace permit Our just and lineal entrance to our own; If not, bleed France, and peace ascend to heaven, Whiles we, God’s wrathful agent, do correct Their proud contempt that beats his peace to heaven."*

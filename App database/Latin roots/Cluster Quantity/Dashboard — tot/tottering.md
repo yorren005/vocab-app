@@ -5,15 +5,6 @@ status: unread
 ---
 # tottering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move without being stable, as if threatening to fall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walk unsteadily.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have discharg’d this honestly; keep it to yourself; many likelihoods inform’d me of this before, which hung so tottering in the balance that I could neither believe nor misdoubt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us bid farewell; And with our patience anger tottering Fortune, Who at her certain’st reels."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was very odd to see what old letters Charley’s young hand had made, they so wrinkled, and shrivelled, and tottering, it so plump and round."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move without being stable, as if threatening to fall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walk unsteadily.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have discharg’d this honestly; keep it to yourself; many likelihoods inform’d me of this before, which hung so tottering in the balance that I could neither believe nor misdoubt."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us bid farewell; And with our patience anger tottering Fortune, Who at her certain’st reels."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It was very odd to see what old letters Charley’s young hand had made, they so wrinkled, and shrivelled, and tottering, it so plump and round."*

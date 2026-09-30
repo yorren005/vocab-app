@@ -5,13 +5,6 @@ status: unread
 ---
 # inspirationally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With inspiration; in an inspiring manner,.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With inspiration; in an inspiring manner,.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Too long has this literary masterpiece been buried in translations, unavoidably cumbrous and inspirationally innocuous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With inspiration; in an inspiring manner,.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With inspiration; in an inspiring manner,.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Too long has this literary masterpiece been buried in translations, unavoidably cumbrous and inspirationally innocuous."*

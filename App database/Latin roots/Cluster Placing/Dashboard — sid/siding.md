@@ -5,15 +5,6 @@ status: unread
 ---
 # siding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short stretch of railroad track used to store rolling stock or enable trains on the same line to pass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Material applied to the outside of a building to make it weatherproof.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The sacrifice is not much; and to oblige such a friend—I shall think you quite unkind, if you still refuse.” This was the first time of her brother’s openly siding against her, and anxious to avoid his displeasure, she proposed a compromise."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Still again both seemed yoked together, and an unseen tyrant driving them; the lean shade siding the solid rib."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Still again both seemed yoked together, and an unseen tyrant driving them; the lean shade siding the solid rib."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short stretch of railroad track used to store rolling stock or enable trains on the same line to pass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Material applied to the outside of a building to make it weatherproof.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"The sacrifice is not much; and to oblige such a friend—I shall think you quite unkind, if you still refuse.” This was the first time of her brother’s openly siding against her, and anxious to avoid his displeasure, she proposed a compromise."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Still again both seemed yoked together, and an unseen tyrant driving them; the lean shade siding the solid rib."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Still again both seemed yoked together, and an unseen tyrant driving them; the lean shade siding the solid rib."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # innumerable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Too numerous to be counted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too numerous to be counted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, that you have sent innumerable substance— By what means got, I leave to your own conscience— To furnish Rome and to prepare the ways You have for dignities, to the mere undoing Of all the kingdom."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Innumerable children have been born into the cause; innumerable young people have married into it; innumerable old people have died out of it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Is immediately referred to innumerable people who can tell nothing whatever."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Too numerous to be counted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too numerous to be counted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, that you have sent innumerable substance— By what means got, I leave to your own conscience— To furnish Rome and to prepare the ways You have for dignities, to the mere undoing Of all the kingdom."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Innumerable children have been born into the cause; innumerable young people have married into it; innumerable old people have died out of it."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Is immediately referred to innumerable people who can tell nothing whatever."*

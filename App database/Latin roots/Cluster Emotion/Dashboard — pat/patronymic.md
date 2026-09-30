@@ -5,13 +5,6 @@ status: unread
 ---
 # patronymic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family name derived from name of your father or a paternal ancestor (especially with an affix (such as -son in english or o'- in irish) added to the name of your father or a paternal ancestor).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or derived from a personal or family name.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"When I go there I shall be all alone, and my friend Harker Jonathan--nay, pardon me, I fall into my country’s habit of putting your patronymic first--my friend Jonathan Harker will not be by my side to correct and aid me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family name derived from name of your father or a paternal ancestor (especially with an affix (such as -son in english or o'- in irish) added to the name of your father or a paternal ancestor).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or derived from a personal or family name.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"When I go there I shall be all alone, and my friend Harker Jonathan--nay, pardon me, I fall into my country’s habit of putting your patronymic first--my friend Jonathan Harker will not be by my side to correct and aid me."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # nassau
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital of the bahamas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital of the bahamas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"But inquiring at the Bible House in Nassau street if any of the officers of that Society knew of a minister who could be recommended to fill their pulpit, now vacant for some months."*
-> - 📜 **James Joyce (*Ulysses*):** *"He crossed at Nassau street corner and stood before the window of Yeates and Son, pricing the fieldglasses."*
-> - 📜 **James Joyce (*Ulysses*):** *"Master Dignam walked along Nassau street, shifted the porksteaks to his other hand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital of the bahamas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital of the bahamas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"But inquiring at the Bible House in Nassau street if any of the officers of that Society knew of a minister who could be recommended to fill their pulpit, now vacant for some months."*
+> - 📜 **James Joyce (*Ulysses*):** *"He crossed at Nassau street corner and stood before the window of Yeates and Son, pricing the fieldglasses."*
+> - 📜 **James Joyce (*Ulysses*):** *"Master Dignam walked along Nassau street, shifted the porksteaks to his other hand."*

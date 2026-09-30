@@ -5,15 +5,6 @@ status: unread
 ---
 # merchant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A businessperson engaged in retail trade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A businessperson engaged in retail trade.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Still be’t yours; Bestow it at your pleasure, and believe Caesar’s no merchant to make prize with you Of things that merchants sold."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"EGEON, a Merchant of Syracuse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A MERCHANT, friend to Antipholus of Syracuse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A businessperson engaged in retail trade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A businessperson engaged in retail trade.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Still be’t yours; Bestow it at your pleasure, and believe Caesar’s no merchant to make prize with you Of things that merchants sold."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"EGEON, a Merchant of Syracuse."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A MERCHANT, friend to Antipholus of Syracuse."*

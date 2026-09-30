@@ -5,14 +5,6 @@ status: unread
 ---
 # placable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily calmed or pacified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily calmed or pacified.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Miss Rebecca was not, then, in the least kind or placable."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"I'm sure I want friends." The placable and soft-hearted Briggs speechlessly pushed out her hand at this appeal; but she felt the desertion most keenly for all that, and bitterly, bitterly moaned the fickleness of her Matilda."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily calmed or pacified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily calmed or pacified.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Miss Rebecca was not, then, in the least kind or placable."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"I'm sure I want friends." The placable and soft-hearted Briggs speechlessly pushed out her hand at this appeal; but she felt the desertion most keenly for all that, and bitterly, bitterly moaned the fickleness of her Matilda."*

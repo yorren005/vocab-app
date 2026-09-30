@@ -5,13 +5,6 @@ status: unread
 ---
 # candlepins
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bowling game using slender bowling pins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bowling pin that is thin by comparison with a tenpin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candlepins designates a bowling game using slender bowling pins."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bowling game using slender bowling pins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bowling pin that is thin by comparison with a tenpin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candlepins designates a bowling game using slender bowling pins."*

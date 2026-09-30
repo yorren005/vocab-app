@@ -5,13 +5,6 @@ status: unread
 ---
 # dialectician
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A logician skilled in dialectic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A logician skilled in dialectic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This fixed idea of the rhapsodist was delivered with animated enthusiasm, in a manner entirely declamatory, for he had plainly no skill as a dialectician."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A logician skilled in dialectic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A logician skilled in dialectic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This fixed idea of the rhapsodist was delivered with animated enthusiasm, in a manner entirely declamatory, for he had plainly no skill as a dialectician."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # excite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arouse or elicit a feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act as a stimulant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Revenges burn in them; for their dear causes Would to the bleeding and the grim alarm Excite the mortified man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What propugnation is in one man’s valour To stand the push and enmity of those This quarrel would excite?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You may tell me that I over-excite myself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arouse or elicit a feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act as a stimulant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Revenges burn in them; for their dear causes Would to the bleeding and the grim alarm Excite the mortified man."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What propugnation is in one man’s valour To stand the push and enmity of those This quarrel would excite?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You may tell me that I over-excite myself."*

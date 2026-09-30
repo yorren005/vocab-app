@@ -5,15 +5,6 @@ status: unread
 ---
 # pole
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long (usually round) rod of wood or metal or plastic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of poland.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, withered is the garland of the war, The soldier’s pole is fallen; young boys and girls Are level now with men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Last night of all, When yond same star that’s westward from the pole, Had made his course t’illume that part of heaven Where now it burns, Marcellus and myself, The bell then beating one— MARCELLUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To pay five ducats, five, I would not farm it; Nor will it yield to Norway or the Pole A ranker rate, should it be sold in fee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long (usually round) rod of wood or metal or plastic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of poland.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, withered is the garland of the war, The soldier’s pole is fallen; young boys and girls Are level now with men."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Last night of all, When yond same star that’s westward from the pole, Had made his course t’illume that part of heaven Where now it burns, Marcellus and myself, The bell then beating one— MARCELLUS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To pay five ducats, five, I would not farm it; Nor will it yield to Norway or the Pole A ranker rate, should it be sold in fee."*

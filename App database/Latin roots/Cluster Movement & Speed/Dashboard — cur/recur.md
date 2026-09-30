@@ -5,15 +5,6 @@ status: unread
 ---
 # recur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happen or occur again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Return in thought or speech to something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was not free to resume the interrupted chain of my reflections till bedtime: even then a teacher who occupied the same room with me kept me from the subject to which I longed to recur, by a prolonged effusion of small talk."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He did admire Rosamond exceedingly; but that madness which had once beset him about Laure was not, he thought, likely to recur in relation to any other woman."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate would not have chosen soon to recur to the plan of parting with the house; he was resolved to carry it out, and say as little more about it as possible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Happen or occur again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Return in thought or speech to something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was not free to resume the interrupted chain of my reflections till bedtime: even then a teacher who occupied the same room with me kept me from the subject to which I longed to recur, by a prolonged effusion of small talk."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He did admire Rosamond exceedingly; but that madness which had once beset him about Laure was not, he thought, likely to recur in relation to any other woman."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate would not have chosen soon to recur to the plan of parting with the house; he was resolved to carry it out, and say as little more about it as possible."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # mercury
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy silvery toxic univalent and bivalent metallic element; the only metal that is liquid at ordinary temperatures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) messenger of jupiter and god of commerce; counterpart of greek hermes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had I great Juno’s power, The strong-winged Mercury should fetch thee up And set thee by Jove’s side."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be Mercury, set feathers to thy heels, And fly like thought from them to me again."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The words of Mercury are harsh after the songs of Apollo."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy silvery toxic univalent and bivalent metallic element; the only metal that is liquid at ordinary temperatures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman mythology) messenger of jupiter and god of commerce; counterpart of greek hermes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had I great Juno’s power, The strong-winged Mercury should fetch thee up And set thee by Jove’s side."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be Mercury, set feathers to thy heels, And fly like thought from them to me again."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The words of Mercury are harsh after the songs of Apollo."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # factoring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) the resolution of an entity into factors such that when multiplied together they give the original entity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resolve into factors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, factoring designates (mathematics) the resolution of an entity into factors such that when multiplied together they give the original entity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) the resolution of an entity into factors such that when multiplied together they give the original entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resolve into factors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, factoring designates (mathematics) the resolution of an entity into factors such that when multiplied together they give the original entity."*

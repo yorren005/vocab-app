@@ -5,13 +5,6 @@ status: unread
 ---
 # renin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A proteolytic enzyme secreted by the kidneys; catalyzes the formation of angiotensin and thus affects blood pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A proteolytic enzyme secreted by the kidneys; catalyzes the formation of angiotensin and thus affects blood pressure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, renin designates a proteolytic enzyme secreted by the kidneys; catalyzes the formation of angiotensin and thus affects blood pressure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proteolytic enzyme secreted by the kidneys; catalyzes the formation of angiotensin and thus affects blood pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A proteolytic enzyme secreted by the kidneys; catalyzes the formation of angiotensin and thus affects blood pressure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, renin designates a proteolytic enzyme secreted by the kidneys; catalyzes the formation of angiotensin and thus affects blood pressure."*

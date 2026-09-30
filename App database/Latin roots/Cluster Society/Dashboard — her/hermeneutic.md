@@ -5,13 +5,6 @@ status: unread
 ---
 # hermeneutic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpretive or explanatory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpretive or explanatory.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hermeneutic designates interpretive or explanatory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpretive or explanatory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpretive or explanatory.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hermeneutic designates interpretive or explanatory."*

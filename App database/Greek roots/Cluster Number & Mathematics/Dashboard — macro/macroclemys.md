@@ -5,13 +5,6 @@ status: unread
 ---
 # macroclemys
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Includes the alligator snapping turtle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Includes the alligator snapping turtle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroclemys designates includes the alligator snapping turtle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Includes the alligator snapping turtle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Includes the alligator snapping turtle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroclemys designates includes the alligator snapping turtle."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # performing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The performance of a part or role in a drama.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carry out or perform an action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That will ask some tears in the true performing of it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spread thy close curtain, love-performing night, That runaway’s eyes may wink, and Romeo Leap to these arms, untalk’d of and unseen."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"One official sent her to another, and the other sent her back again to the first, and so backward and forward, until it appeared to me as if both must have been appointed for their skill in evading their duties instead of performing them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The performance of a part or role in a drama.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carry out or perform an action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That will ask some tears in the true performing of it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spread thy close curtain, love-performing night, That runaway’s eyes may wink, and Romeo Leap to these arms, untalk’d of and unseen."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"One official sent her to another, and the other sent her back again to the first, and so backward and forward, until it appeared to me as if both must have been appointed for their skill in evading their duties instead of performing them."*

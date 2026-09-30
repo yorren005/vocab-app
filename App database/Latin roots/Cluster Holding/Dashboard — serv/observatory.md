@@ -5,15 +5,6 @@ status: unread
 ---
 # observatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A building designed and equipped to observe astronomical phenomena.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure commanding a wide view of its surroundings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Nor did the counting-house where Herbert assisted, show in my eyes as at all a good Observatory; being a back second floor up a yard, of a grimy presence in all particulars, and with a look into another back second floor, rather than a look out."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Captain Nemo went towards the peak, which he doubtless meant to be his observatory."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The rebel chief undertook to use the building and its observatory as a signal station for his army, contrary to Miss Sheads' remonstrances, and drew the fire of the Union army upon it by so doing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A building designed and equipped to observe astronomical phenomena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure commanding a wide view of its surroundings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Nor did the counting-house where Herbert assisted, show in my eyes as at all a good Observatory; being a back second floor up a yard, of a grimy presence in all particulars, and with a look into another back second floor, rather than a look out."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Captain Nemo went towards the peak, which he doubtless meant to be his observatory."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The rebel chief undertook to use the building and its observatory as a signal station for his army, contrary to Miss Sheads' remonstrances, and drew the fire of the Union army upon it by so doing."*

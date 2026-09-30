@@ -5,14 +5,6 @@ status: unread
 ---
 # patois
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A characteristic language of a particular group (as among thieves).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A regional dialect of a language (especially french); usually considered substandard.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In this part of France the last sheaf is called the _coujoulage,_ which, in the patois, means a wether."*
-> - 📜 **James Joyce (*Ulysses*):** *"To hell with the bloody brutal Sassenachs and their _patois._ So J."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A characteristic language of a particular group (as among thieves).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A regional dialect of a language (especially french); usually considered substandard.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In this part of France the last sheaf is called the _coujoulage,_ which, in the patois, means a wether."*
+> - 📜 **James Joyce (*Ulysses*):** *"To hell with the bloody brutal Sassenachs and their _patois._ So J."*

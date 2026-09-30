@@ -5,15 +5,6 @@ status: unread
 ---
 # impossible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that cannot be done.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of occurring or being accomplished or dealt with.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Impossible be strange attempts to those That weigh their pains in sense, and do suppose What hath been cannot be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can he be there in person? ’Tis impossible; Strange that his power should be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know into what straits of fortune she is driven and it is not impossible to me, if it appear not inconvenient to you, to set her before your eyes tomorrow, human as she is, and without any danger."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that cannot be done.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of occurring or being accomplished or dealt with.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Impossible be strange attempts to those That weigh their pains in sense, and do suppose What hath been cannot be."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can he be there in person? ’Tis impossible; Strange that his power should be."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know into what straits of fortune she is driven and it is not impossible to me, if it appear not inconvenient to you, to set her before your eyes tomorrow, human as she is, and without any danger."*

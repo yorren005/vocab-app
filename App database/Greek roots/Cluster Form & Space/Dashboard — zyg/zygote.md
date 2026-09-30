@@ -5,13 +5,6 @@ status: unread
 ---
 # zygote
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell formed by the union of two gametes; broadly : the developing individual produced from such a cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of assisting reproduction in cases of infertility that is similar to gamete intrafallopian transfer but in which eggs are fertilized in vitro and some of the resulting fertilized eggs are inserted into a fallopian tube —abbreviation ZIFT.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zygote designates a cell formed by the union of two gametes; broadly : the developing individual produced from such a cell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell formed by the union of two gametes; broadly : the developing individual produced from such a cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of assisting reproduction in cases of infertility that is similar to gamete intrafallopian transfer but in which eggs are fertilized in vitro and some of the resulting fertilized eggs are inserted into a fallopian tube —abbreviation ZIFT.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zygote designates a cell formed by the union of two gametes; broadly : the developing individual produced from such a cell."*

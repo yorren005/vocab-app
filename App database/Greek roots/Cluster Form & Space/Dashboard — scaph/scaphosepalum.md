@@ -5,13 +5,6 @@ status: unread
 ---
 # scaphosepalum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprises some tropical american species usually placed in genus masdevallia: diminutive plants with small flowers carried on one scape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprises some tropical american species usually placed in genus masdevallia: diminutive plants with small flowers carried on one scape.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scaphosepalum designates comprises some tropical american species usually placed in genus masdevallia: diminutive plants with small flowers carried on one scape."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprises some tropical american species usually placed in genus masdevallia: diminutive plants with small flowers carried on one scape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprises some tropical american species usually placed in genus masdevallia: diminutive plants with small flowers carried on one scape.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scaphosepalum designates comprises some tropical american species usually placed in genus masdevallia: diminutive plants with small flowers carried on one scape."*

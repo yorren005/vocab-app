@@ -5,15 +5,6 @@ status: unread
 ---
 # scapegoat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is punished for the errors of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is punished for the errors of others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Walter Gregor, "Notes on Beltane Cakes," _Folk-lore_, vi. (1895) pp. 2 _sq._ The Beltane cakes with the nine knobs on them remind us of the cakes with twelve knobs which the Athenians offered to Cronus and other deities (see _The Scapegoat_, p. 351)."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Boemus, _Mores, leges et ritus omnium gentium_ (Lyons, 1541), p. 222; John Brand, _Popular Antiquities of Great Britain_ (London, 1882-1883), i. 22 _sq.; The Scapegoat_, pp. 313 _sqq._ [377] Shaw, in Pennant's "Tour in Scotland," printed in J."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Tylor, _Researches into the Early History of Mankind_, Third Edition (London, 1878), pp. 259 _sq._ [565] See _The Scapegoat_, pp. 166 _sq._ [566] E.K."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is punished for the errors of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is punished for the errors of others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Walter Gregor, "Notes on Beltane Cakes," _Folk-lore_, vi. (1895) pp. 2 _sq._ The Beltane cakes with the nine knobs on them remind us of the cakes with twelve knobs which the Athenians offered to Cronus and other deities (see _The Scapegoat_, p. 351)."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Boemus, _Mores, leges et ritus omnium gentium_ (Lyons, 1541), p. 222; John Brand, _Popular Antiquities of Great Britain_ (London, 1882-1883), i. 22 _sq.; The Scapegoat_, pp. 313 _sqq._ [377] Shaw, in Pennant's "Tour in Scotland," printed in J."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Tylor, _Researches into the Early History of Mankind_, Third Edition (London, 1878), pp. 259 _sq._ [565] See _The Scapegoat_, pp. 166 _sq._ [566] E.K."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # totem
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A clan or tribe identified by their kinship to a common totemic object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emblem consisting of an object such as an animal or plant; serves as the symbol of a family or clan (especially among american indians).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Good Lord, fifty thousand years ago, in our totem-families, our women were cleaner, our family and group relations more rigidly right."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A woman in such a condition has boughs of some tree of her totem tied round her loins, and is constantly watched and guarded, for it is thought that should any male be so unfortunate as to see a woman in such a condition, he would die."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Here the tribes are divided into a number of totem clans, each of which is charged with the duty of multiplying their totem for the good of the community by means of magical ceremonies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clan or tribe identified by their kinship to a common totemic object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emblem consisting of an object such as an animal or plant; serves as the symbol of a family or clan (especially among american indians).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Good Lord, fifty thousand years ago, in our totem-families, our women were cleaner, our family and group relations more rigidly right."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A woman in such a condition has boughs of some tree of her totem tied round her loins, and is constantly watched and guarded, for it is thought that should any male be so unfortunate as to see a woman in such a condition, he would die."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Here the tribes are divided into a number of totem clans, each of which is charged with the duty of multiplying their totem for the good of the community by means of magical ceremonies."*

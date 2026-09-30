@@ -5,15 +5,6 @@ status: unread
 ---
 # heroism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heroic conduct especially as exhibited in fulfilling a high purpose or attaining a noble end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The qualities of a hero.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"What instances must pass before them of ardent, disinterested, self-denying attachment, of heroism, fortitude, patience, resignation: of all the conflicts and all the sacrifices that ennoble us most."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"She had a thin awkward figure, a sallow skin without colour, dark lank hair, and strong features—so much for her person; and not less unpropitious for heroism seemed her mind."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"How many hearts glow in admiration of the benevolence or heroism of a fellow worm, while entirely unaffected alike by the sacrifice or the triumph of the Son of God!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heroic conduct especially as exhibited in fulfilling a high purpose or attaining a noble end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The qualities of a hero.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"What instances must pass before them of ardent, disinterested, self-denying attachment, of heroism, fortitude, patience, resignation: of all the conflicts and all the sacrifices that ennoble us most."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"She had a thin awkward figure, a sallow skin without colour, dark lank hair, and strong features—so much for her person; and not less unpropitious for heroism seemed her mind."*
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"How many hearts glow in admiration of the benevolence or heroism of a fellow worm, while entirely unaffected alike by the sacrifice or the triumph of the Son of God!"*

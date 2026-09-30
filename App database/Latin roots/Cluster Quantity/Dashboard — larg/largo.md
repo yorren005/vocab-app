@@ -5,15 +5,6 @@ status: unread
 ---
 # largo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) a composition or passage that is to be performed in a slow and dignified manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very slow in tempo and broad in manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"In the middle distance are the tower of Dunbar Church, the Bass Rock, and the Isle of May; and farther off is the coast of Fife, with Largo Law and the Lomonds in the background."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"May still your life from day to day, Nae “lente largo” in the play, But “allegretto forte” gay, Harmonious flow, A sweeping, kindling, bauld strathspey— Encore!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Boat song—Hey, Ca’ Thro’ Up wi’ the carls o’ Dysart, And the lads o’ Buckhaven, And the kimmers o’ Largo, And the lasses o’ Leven."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) a composition or passage that is to be performed in a slow and dignified manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very slow in tempo and broad in manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"In the middle distance are the tower of Dunbar Church, the Bass Rock, and the Isle of May; and farther off is the coast of Fife, with Largo Law and the Lomonds in the background."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"May still your life from day to day, Nae “lente largo” in the play, But “allegretto forte” gay, Harmonious flow, A sweeping, kindling, bauld strathspey— Encore!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Boat song—Hey, Ca’ Thro’ Up wi’ the carls o’ Dysart, And the lads o’ Buckhaven, And the kimmers o’ Largo, And the lasses o’ Leven."*

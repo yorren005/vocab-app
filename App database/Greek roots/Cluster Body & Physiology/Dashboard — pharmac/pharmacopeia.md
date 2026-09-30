@@ -5,13 +5,6 @@ status: unread
 ---
 # pharmacopeia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (pharmacology) a book containing a compilation of pharmaceutical products with their formulas and methods of preparation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (pharmacology) a book containing a compilation of pharmaceutical products with their formulas and methods of preparation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pharmacopeia designates (pharmacology) a book containing a compilation of pharmaceutical products with their formulas and methods of preparation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (pharmacology) a book containing a compilation of pharmaceutical products with their formulas and methods of preparation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (pharmacology) a book containing a compilation of pharmaceutical products with their formulas and methods of preparation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pharmacopeia designates (pharmacology) a book containing a compilation of pharmaceutical products with their formulas and methods of preparation."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # indecisive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by lack of decision and firmness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not definitely settling something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"It is the worst evil of too yielding and indecisive a character, that no influence over it can be depended on."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Amaranthine glosses came over them then, and the unresting world wheeled her round to a contrasting prospect eastward, in the shape of indecisive and palpitating stars."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by lack of decision and firmness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not definitely settling something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"It is the worst evil of too yielding and indecisive a character, that no influence over it can be depended on."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Amaranthine glosses came over them then, and the unresting world wheeled her round to a contrasting prospect eastward, in the shape of indecisive and palpitating stars."*

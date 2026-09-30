@@ -5,15 +5,6 @@ status: unread
 ---
 # comprise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be composed of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Include or contain; have as a component.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"After the waste of a few minutes in saying the proper nothings, she began to give the invitation which was to comprise all the remaining dues of the Musgroves."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor do heroes, saints, demigods, and prophets alone comprise the whole roll of our order."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"According to this distribution, each confederacy would comprise an extent of territory larger than that of the kingdom of Great Britain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be composed of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Include or contain; have as a component.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"After the waste of a few minutes in saying the proper nothings, she began to give the invitation which was to comprise all the remaining dues of the Musgroves."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor do heroes, saints, demigods, and prophets alone comprise the whole roll of our order."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"According to this distribution, each confederacy would comprise an extent of territory larger than that of the kingdom of Great Britain."*

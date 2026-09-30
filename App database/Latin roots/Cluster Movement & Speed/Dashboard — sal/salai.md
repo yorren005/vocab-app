@@ -5,13 +5,6 @@ status: unread
 ---
 # salai
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: East indian tree yielding a resin used medicinally and burned as incense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: East indian tree yielding a resin used medicinally and burned as incense.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salai designates east indian tree yielding a resin used medicinally and burned as incense."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: East indian tree yielding a resin used medicinally and burned as incense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: East indian tree yielding a resin used medicinally and burned as incense.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salai designates east indian tree yielding a resin used medicinally and burned as incense."*

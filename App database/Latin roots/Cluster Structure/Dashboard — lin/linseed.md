@@ -5,14 +5,6 @@ status: unread
 ---
 # linseed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The seed of flax used as a source of oil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The seed of flax used as a source of oil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Poor Dignam! [ 5 ] By lorries along sir John Rogerson’s quay Mr Bloom walked soberly, past Windmill lane, Leask’s the linseed crusher, the postal telegraph office."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The magnesite bricks are laid in dry magnesite powder, except near the tuyeres, where a mixture of magnesia and linseed oil is used."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The seed of flax used as a source of oil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The seed of flax used as a source of oil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Poor Dignam! [ 5 ] By lorries along sir John Rogerson’s quay Mr Bloom walked soberly, past Windmill lane, Leask’s the linseed crusher, the postal telegraph office."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The magnesite bricks are laid in dry magnesite powder, except near the tuyeres, where a mixture of magnesia and linseed oil is used."*

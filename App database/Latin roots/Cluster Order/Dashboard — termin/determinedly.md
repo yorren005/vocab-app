@@ -5,15 +5,6 @@ status: unread
 ---
 # determinedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With determination; in a determined manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With ambition; in an ambitious and energetic manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Strangers!” For a moment a flash of his old irony marked his face; but he determinedly chastened it down."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I had already gained the door; but, reader, I walked back—walked back as determinedly as I had retreated."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I'm going to escape before any of them come back," I said determinedly to the Crag, who stood there still, just looking at me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With determination; in a determined manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With ambition; in an ambitious and energetic manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Strangers!” For a moment a flash of his old irony marked his face; but he determinedly chastened it down."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I had already gained the door; but, reader, I walked back—walked back as determinedly as I had retreated."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I'm going to escape before any of them come back," I said determinedly to the Crag, who stood there still, just looking at me."*

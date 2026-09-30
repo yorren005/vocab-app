@@ -5,15 +5,6 @@ status: unread
 ---
 # incorrectness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of conformity to social expectations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not conforming to fact or truth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"He is forever finding fault with me, for some incorrectness of language, and now he is taking the same liberty with you."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Kirsch was not acquainted with a single one, and spoke all with indifferent volubility and incorrectness."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The wreaths, circles, and single compartments, retain marks of Gothic incorrectness, and of as gross deviation from the original as the Saxon mouldings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of conformity to social expectations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not conforming to fact or truth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"He is forever finding fault with me, for some incorrectness of language, and now he is taking the same liberty with you."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Kirsch was not acquainted with a single one, and spoke all with indifferent volubility and incorrectness."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The wreaths, circles, and single compartments, retain marks of Gothic incorrectness, and of as gross deviation from the original as the Saxon mouldings."*

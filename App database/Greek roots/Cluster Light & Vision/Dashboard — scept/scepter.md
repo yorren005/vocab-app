@@ -5,15 +5,6 @@ status: unread
 ---
 # scepter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The imperial authority symbolized by a scepter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ceremonial or emblematic staff.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll undertake to make thee Henry’s queen, To put a golden scepter in thy hand And set a precious crown upon thy head, If thou wilt condescend to be my— MARGARET."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, not to live.—O nation miserable, With an untitled tyrant bloody-scepter’d, When shalt thou see thy wholesome days again, Since that the truest issue of thy throne By his own interdiction stands accus’d, And does blaspheme his breed?"*
-> - 📜 **John Milton (*Paradise Lost*):** *"Then thou thy regal Scepter shalt lay by, For regal Scepter then no more shall need, God shall be All in All."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The imperial authority symbolized by a scepter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ceremonial or emblematic staff.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll undertake to make thee Henry’s queen, To put a golden scepter in thy hand And set a precious crown upon thy head, If thou wilt condescend to be my— MARGARET."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, not to live.—O nation miserable, With an untitled tyrant bloody-scepter’d, When shalt thou see thy wholesome days again, Since that the truest issue of thy throne By his own interdiction stands accus’d, And does blaspheme his breed?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Then thou thy regal Scepter shalt lay by, For regal Scepter then no more shall need, God shall be All in All."*

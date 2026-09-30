@@ -5,13 +5,6 @@ status: unread
 ---
 # culdoscopy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Endoscopic examination of a woman's pelvic organs by the insertion of a culdoscope through the vagina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Endoscopic examination of a woman's pelvic organs by the insertion of a culdoscope through the vagina.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, culdoscopy designates endoscopic examination of a woman's pelvic organs by the insertion of a culdoscope through the vagina."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Endoscopic examination of a woman's pelvic organs by the insertion of a culdoscope through the vagina.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Endoscopic examination of a woman's pelvic organs by the insertion of a culdoscope through the vagina.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, culdoscopy designates endoscopic examination of a woman's pelvic organs by the insertion of a culdoscope through the vagina."*

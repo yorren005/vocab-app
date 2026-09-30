@@ -5,13 +5,6 @@ status: unread
 ---
 # altoona
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in central pennsylvania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in central pennsylvania.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Adopted at a meeting of Governors of loyal States, held to take measures for the more active support of the Government, at Altoona, Pennsylvania, on the 22d day of September, 1862."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in central pennsylvania.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in central pennsylvania.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Adopted at a meeting of Governors of loyal States, held to take measures for the more active support of the Government, at Altoona, Pennsylvania, on the 22d day of September, 1862."*

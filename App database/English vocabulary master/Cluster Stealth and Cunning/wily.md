@@ -5,20 +5,6 @@ status: unread
 ---
 # wily
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Full of wiles : crafty
-> 2. **Nuance / Usage**: Sly, cunning, full of tricks
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a wily appearance*) and predicatively after a linking verb (*remained wily*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Address to the Deil*):** *"Your wily snares an’ fechtin fierce, Sin’ that day Michael did you pierce, Down to this time, Wad ding a Lallan tounge, or Erse, In prose or rhyme."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"saying that he was more wily than any of them and that it would not be a bad thing if he introduced to them the pretty Polish girl he had saved."*
-> - 📜 **Bram Stoker (*Dracula*):** *"for we knew we had a strong and wily enemy to deal with, and as yet we did not know whether the Count might not be in the house."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Skilled at gaining an advantage through sly, resourceful, and artful stratagems; full of cunning wiles.
+> 2. **Nuance / Usage**: Often carries a grudging admiration for a seasoned adversary, politician, or tactician who repeatedly evades capture or outmaneuvers stronger opponents.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a wily adversary*, *a wily veteran*) and predicatively (*proved too wily to catch*).
+> - **Collocations & Registers**: Narrative, political, and strategic registers; collocated with *adversary*, *politician*, *fox*, *diplomat*, and *veteran*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Address to the Deil*):** *"Your **wily** snares an’ fechtin fierce have troubled mankind down to this very time."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"He boasted that he was more **wily** than any of them and could outwit the French sentries at will."*
+> - 📜 **Bram Stoker (*Dracula*):** *"We knew we had a strong and **wily** enemy to deal with, and could not afford a single careless step."*

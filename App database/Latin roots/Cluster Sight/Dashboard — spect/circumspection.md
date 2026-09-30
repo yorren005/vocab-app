@@ -5,15 +5,6 @@ status: unread
 ---
 # circumspection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowing how to avoid embarrassment or distress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being circumspect and prudent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His outlook upon time was as a transient flash of the eye now and then: that projection of consciousness into days gone by and to come, which makes the past a synonym for the pathetic and the future a word for circumspection, was foreign to Troy."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Some rash acts of my past life have taught me that a watched woman must have very much circumspection to retain only a very little credit, and I do want and long to be discreet in this!"*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bennet, impossible, when I am not acquainted with him myself; how can you be so teasing?” “I honour your circumspection."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowing how to avoid embarrassment or distress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being circumspect and prudent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His outlook upon time was as a transient flash of the eye now and then: that projection of consciousness into days gone by and to come, which makes the past a synonym for the pathetic and the future a word for circumspection, was foreign to Troy."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Some rash acts of my past life have taught me that a watched woman must have very much circumspection to retain only a very little credit, and I do want and long to be discreet in this!"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bennet, impossible, when I am not acquainted with him myself; how can you be so teasing?” “I honour your circumspection."*

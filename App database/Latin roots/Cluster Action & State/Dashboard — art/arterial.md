@@ -5,14 +5,6 @@ status: unread
 ---
 # arterial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or involving or contained in the arteries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or involving or contained in the arteries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Some were marked with great splotches, red as arterial blood, others were saffron yellow, and others tall and attenuated, with stems like macaroni."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Some were marked with great splotches, red as arterial blood, others were saffron yellow, and others tall and attenuated, with stems like macaroni."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or involving or contained in the arteries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or involving or contained in the arteries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Some were marked with great splotches, red as arterial blood, others were saffron yellow, and others tall and attenuated, with stems like macaroni."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Some were marked with great splotches, red as arterial blood, others were saffron yellow, and others tall and attenuated, with stems like macaroni."*

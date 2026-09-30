@@ -5,13 +5,6 @@ status: unread
 ---
 # indiscrete
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not divided or divisible into parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not divided or divisible into parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"She is as small as a mouse, but once a year she stirs.[255] Notes: [64] Pechuel-Loesche, "Indiscretes aus Loango," _Zeitschrift für Ethnologie_, x. (1878) p. 23. [65] Rev."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not divided or divisible into parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not divided or divisible into parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"She is as small as a mouse, but once a year she stirs.[255] Notes: [64] Pechuel-Loesche, "Indiscretes aus Loango," _Zeitschrift für Ethnologie_, x. (1878) p. 23. [65] Rev."*

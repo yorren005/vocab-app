@@ -5,13 +5,6 @@ status: unread
 ---
 # tangency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being tangent; having contact at a single point or along a line without crossing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (electronics) a junction where things (as two electrical conductors) touch or are in physical contact.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tangency designates the state of being tangent; having contact at a single point or along a line without crossing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being tangent; having contact at a single point or along a line without crossing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (electronics) a junction where things (as two electrical conductors) touch or are in physical contact.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tangency designates the state of being tangent; having contact at a single point or along a line without crossing."*

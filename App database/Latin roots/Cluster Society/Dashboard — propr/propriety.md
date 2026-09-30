@@ -5,15 +5,6 @@ status: unread
 ---
 # propriety
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Correct or appropriate behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Correct or appropriate behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Silence that dreadful bell, it frights the isle From her propriety."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, it is the baseness of thy fear That makes thee strangle thy propriety."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"After the first six months or so I had taken Miss Donny’s advice in reference to the propriety of writing to Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Correct or appropriate behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Correct or appropriate behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Silence that dreadful bell, it frights the isle From her propriety."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, it is the baseness of thy fear That makes thee strangle thy propriety."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"After the first six months or so I had taken Miss Donny’s advice in reference to the propriety of writing to Mr."*

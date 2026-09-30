@@ -5,15 +5,6 @@ status: unread
 ---
 # panoply
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A magnificent or impressive array.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A display of all appropriate appurtenances.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The strong man armed may find a stronger man come upon him and take from him the panoply in which he trusted (Luke 11:21, 22)."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Fathers of the Church (we would say), pastors of the Church, pious laics of the Church: you are taking from its walls the panoply of Aquinas--take also from its walls the psaltery of Alighieri."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"From under this great panoply she peeped up in a nervous, hesitating fashion at our windows, while her body oscillated backward and forward, and her fingers fidgeted with her glove buttons."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A magnificent or impressive array.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A display of all appropriate appurtenances.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The strong man armed may find a stronger man come upon him and take from him the panoply in which he trusted (Luke 11:21, 22)."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Fathers of the Church (we would say), pastors of the Church, pious laics of the Church: you are taking from its walls the panoply of Aquinas--take also from its walls the psaltery of Alighieri."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"From under this great panoply she peeped up in a nervous, hesitating fashion at our windows, while her body oscillated backward and forward, and her fingers fidgeted with her glove buttons."*

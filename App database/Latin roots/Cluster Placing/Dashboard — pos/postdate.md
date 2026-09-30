@@ -5,13 +5,6 @@ status: unread
 ---
 # postdate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be later in time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establish something as being later relative to something else.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postdate designates be later in time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be later in time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establish something as being later relative to something else.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postdate designates be later in time."*

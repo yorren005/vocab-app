@@ -5,14 +5,6 @@ status: unread
 ---
 # callow
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Young and inexperienced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Young and inexperienced.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"By the time she got tumbled out into the world, all big men were unquestionable authority and all young men were callow whipper-snappers."*
-> - 📜 **James Joyce (*Ulysses*):** *"I was surrounded by the stale smut of clubmen, stories to disturb callow youth, ads for transparencies, truedup dice and bustpads, proprietary articles and why wear a truss with testimonial from ruptured gentleman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Young and inexperienced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Young and inexperienced.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Algis Budrys (*Citadel*):** *"By the time she got tumbled out into the world, all big men were unquestionable authority and all young men were callow whipper-snappers."*
+> - 📜 **James Joyce (*Ulysses*):** *"I was surrounded by the stale smut of clubmen, stories to disturb callow youth, ads for transparencies, truedup dice and bustpads, proprietary articles and why wear a truss with testimonial from ruptured gentleman."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # intensely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intense manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intense manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Was the mantle blue?" Loneli, who had been listening intensely, interrupted."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is an honourable, obstinate, truthful, high-spirited, intensely prejudiced, perfectly unreasonable man."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak was an intensely humane man: indeed, his humanity often tore in pieces any politic intentions of his which bordered on strategy, and carried him on as by gravitation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intense manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intense manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Was the mantle blue?" Loneli, who had been listening intensely, interrupted."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is an honourable, obstinate, truthful, high-spirited, intensely prejudiced, perfectly unreasonable man."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak was an intensely humane man: indeed, his humanity often tore in pieces any politic intentions of his which bordered on strategy, and carried him on as by gravitation."*

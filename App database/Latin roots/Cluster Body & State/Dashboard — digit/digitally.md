@@ -5,13 +5,6 @@ status: unread
 ---
 # digitally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of the fingers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In terms of integers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitally designates by means of the fingers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of the fingers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In terms of integers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digitally designates by means of the fingers."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # mentally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In your mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In your mind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"If the conversation anywhere, when I was present, took that direction, as it sometimes naturally did, I tried not to hear: I mentally counted, repeated something that I knew, or went out of the room."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Their value to Bathsheba, and indeed to anybody, Oak mentally estimated by the following simple calculation:— 5 × 30 = 150 quarters = 500 £. 3 × 40 = 120 quarters = 250 £. –––– Total . . 750 £."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Little Abraham was aroused from his deep sleep in a corner of the same apartment, and made to put on his clothes while still mentally in the other world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In your mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In your mind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"If the conversation anywhere, when I was present, took that direction, as it sometimes naturally did, I tried not to hear: I mentally counted, repeated something that I knew, or went out of the room."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Their value to Bathsheba, and indeed to anybody, Oak mentally estimated by the following simple calculation:— 5 × 30 = 150 quarters = 500 £. 3 × 40 = 120 quarters = 250 £. –––– Total . . 750 £."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Little Abraham was aroused from his deep sleep in a corner of the same apartment, and made to put on his clothes while still mentally in the other world."*

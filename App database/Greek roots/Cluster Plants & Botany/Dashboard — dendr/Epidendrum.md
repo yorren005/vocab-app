@@ -5,13 +5,6 @@ status: unread
 ---
 # epidendrum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large and variable genus of terrestrial or epiphytic or lithophytic orchids of tropical and subtropical americas; some native to united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large and variable genus of terrestrial or epiphytic or lithophytic orchids of tropical and subtropical americas; some native to united states.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Epidendrum designates large and variable genus of terrestrial or epiphytic or lithophytic orchids of tropical and subtropical americas; some native to united states."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large and variable genus of terrestrial or epiphytic or lithophytic orchids of tropical and subtropical americas; some native to united states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large and variable genus of terrestrial or epiphytic or lithophytic orchids of tropical and subtropical americas; some native to united states.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Epidendrum designates large and variable genus of terrestrial or epiphytic or lithophytic orchids of tropical and subtropical americas; some native to united states."*

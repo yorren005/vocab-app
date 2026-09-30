@@ -5,15 +5,6 @@ status: unread
 ---
 # reformist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disputant who advocates reform.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Favoring or promoting reform (often by government action).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Pimble, the ardent reformist, is at present detained from her labors by the illness of her eldest son, Garrison."*
-> - 📜 **Effie Afton (*Eventide*):** *"Edson resides here," said the lady-reformist, looking loftily upon the man, who was evidently very much struck with his visitor's personal equipments."*
-> - 📜 **Effie Afton (*Eventide*):** *"Portentia Lawson!" said the lady-reformist, laying her walking-stick on the piano, and unbuttoning her over-coat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disputant who advocates reform.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Favoring or promoting reform (often by government action).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"Pimble, the ardent reformist, is at present detained from her labors by the illness of her eldest son, Garrison."*
+> - 📜 **Effie Afton (*Eventide*):** *"Edson resides here," said the lady-reformist, looking loftily upon the man, who was evidently very much struck with his visitor's personal equipments."*
+> - 📜 **Effie Afton (*Eventide*):** *"Portentia Lawson!" said the lady-reformist, laying her walking-stick on the piano, and unbuttoning her over-coat."*

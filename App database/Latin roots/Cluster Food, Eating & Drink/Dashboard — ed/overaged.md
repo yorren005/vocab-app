@@ -5,13 +5,6 @@ status: unread
 ---
 # overaged
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Too old to be useful; - anthony trollope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too old to be useful; - anthony trollope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overaged designates too old to be useful; - anthony trollope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Too old to be useful; - anthony trollope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too old to be useful; - anthony trollope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overaged designates too old to be useful; - anthony trollope."*

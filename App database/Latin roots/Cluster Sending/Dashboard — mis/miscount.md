@@ -5,13 +5,6 @@ status: unread
 ---
 # miscount
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inaccurate count.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Count wrongly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miscount designates an inaccurate count."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inaccurate count.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Count wrongly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miscount designates an inaccurate count."*

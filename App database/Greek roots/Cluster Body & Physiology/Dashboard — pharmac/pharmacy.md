@@ -5,15 +5,6 @@ status: unread
 ---
 # pharmacy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, practice, or profession of preparing, preserving, compounding, and dispensing medical drugs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A place where medicines are compounded or dispensed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"If Christian Scientists were teaching or practising 342:30 pharmacy or obstetrics according to the common theo- ries, no denunciations would follow them, even if their treatment resulted in the death of a patient."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Its pharmacy is moral, 460:9 and its medicine is intellectual and spiritual, though used for physical healing."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"TRUTH MAKES FREE As the son of a physician, a graduate in pharmacy, and an ex-druggist, I had a perfect contempt for what I thought Christian Science to be."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, practice, or profession of preparing, preserving, compounding, and dispensing medical drugs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A place where medicines are compounded or dispensed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"If Christian Scientists were teaching or practising 342:30 pharmacy or obstetrics according to the common theo- ries, no denunciations would follow them, even if their treatment resulted in the death of a patient."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Its pharmacy is moral, 460:9 and its medicine is intellectual and spiritual, though used for physical healing."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"TRUTH MAKES FREE As the son of a physician, a graduate in pharmacy, and an ex-druggist, I had a perfect contempt for what I thought Christian Science to be."*

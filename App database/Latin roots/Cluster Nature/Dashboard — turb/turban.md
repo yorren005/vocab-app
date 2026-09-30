@@ -5,15 +5,6 @@ status: unread
 ---
 # turban
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional muslim headdress consisting of a long scarf wrapped around the head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small round woman's hat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And say besides, that in Aleppo once, Where a malignant and a turban’d Turk Beat a Venetian and traduc’d the state, I took by the throat the circumcised dog, And smote him, thus. [_Stabs himself._] LODOVICO."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Above the temples, amidst wreathed turban folds of black drapery, vague in its character and consistency as cloud, gleamed a ring of white flame, gemmed with sparkles of a more lurid tinge."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"A crimson velvet robe, and a shawl turban of some gold-wrought Indian fabric, invested her (I suppose she thought) with a truly imperial dignity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional muslim headdress consisting of a long scarf wrapped around the head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small round woman's hat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And say besides, that in Aleppo once, Where a malignant and a turban’d Turk Beat a Venetian and traduc’d the state, I took by the throat the circumcised dog, And smote him, thus. [_Stabs himself._] LODOVICO."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Above the temples, amidst wreathed turban folds of black drapery, vague in its character and consistency as cloud, gleamed a ring of white flame, gemmed with sparkles of a more lurid tinge."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"A crimson velvet robe, and a shawl turban of some gold-wrought Indian fabric, invested her (I suppose she thought) with a truly imperial dignity."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # accented
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To stress, single out as important.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put stress on; utter with an accent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The shadowy lines became accented by twin rows of flickering fire, the rear jets seen with a blurred halo of mist round each of them, the halo crawling feebly within itself, tormented by a feeble wind."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"They struck once for each accented syllable of the following rhyme, making it a very rhythmical game."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"Then one of their number repeated the following rhyme, tapping a foot with each accented syllable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To stress, single out as important.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put stress on; utter with an accent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The shadowy lines became accented by twin rows of flickering fire, the rear jets seen with a blurred halo of mist round each of them, the halo crawling feebly within itself, tormented by a feeble wind."*
+> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"They struck once for each accented syllable of the following rhyme, making it a very rhythmical game."*
+> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"Then one of their number repeated the following rhyme, tapping a foot with each accented syllable."*

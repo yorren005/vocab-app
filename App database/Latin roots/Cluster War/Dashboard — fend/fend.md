@@ -5,15 +5,6 @@ status: unread
 ---
 # fend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Try to manage without help.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Withstand the force of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oh, Gabriel,” he continued, “I am weak and foolish, and I don’t know what, and I can’t fend off my miserable grief!..."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Ladies know what to fend hands against, because they read novels that tell them of these tricks; but I never had the chance o’ learning in that way, and you did not help me!” Her mother was subdued."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But gie them guid cow-milk their fill, Till they be fit to fend themsel’; An’ tent them duly, e’en an’ morn, Wi’ taets o’ hay an’ ripps o’ corn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Try to manage without help.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Withstand the force of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oh, Gabriel,” he continued, “I am weak and foolish, and I don’t know what, and I can’t fend off my miserable grief!..."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Ladies know what to fend hands against, because they read novels that tell them of these tricks; but I never had the chance o’ learning in that way, and you did not help me!” Her mother was subdued."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But gie them guid cow-milk their fill, Till they be fit to fend themsel’; An’ tent them duly, e’en an’ morn, Wi’ taets o’ hay an’ ripps o’ corn."*

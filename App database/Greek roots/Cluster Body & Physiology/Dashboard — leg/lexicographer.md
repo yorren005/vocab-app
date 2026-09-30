@@ -5,15 +5,6 @@ status: unread
 ---
 # lexicographer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compiler or writer of a dictionary; a student of the lexical component of language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compiler or writer of a dictionary; a student of the lexical component of language.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"In the principles of religion and morality, Miss Sedley will be found worthy of an establishment which has been honoured by the presence of THE GREAT LEXICOGRAPHER, and the patronage of the admirable Mrs."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"How I wish I could present him and my beloved girls to the friend of my youth, and the ADMIRED of the great lexicographer of our country!"*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The friend of the Lexicographer had plenty of information to give."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compiler or writer of a dictionary; a student of the lexical component of language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compiler or writer of a dictionary; a student of the lexical component of language.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"In the principles of religion and morality, Miss Sedley will be found worthy of an establishment which has been honoured by the presence of THE GREAT LEXICOGRAPHER, and the patronage of the admirable Mrs."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"How I wish I could present him and my beloved girls to the friend of my youth, and the ADMIRED of the great lexicographer of our country!"*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The friend of the Lexicographer had plenty of information to give."*

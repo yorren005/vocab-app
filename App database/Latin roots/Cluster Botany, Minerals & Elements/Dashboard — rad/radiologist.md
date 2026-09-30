@@ -5,13 +5,6 @@ status: unread
 ---
 # radiologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical specialist who uses radioactive substances and x-rays in the treatment of disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical specialist who uses radioactive substances and x-rays in the treatment of disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiologist designates a medical specialist who uses radioactive substances and x-rays in the treatment of disease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical specialist who uses radioactive substances and x-rays in the treatment of disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical specialist who uses radioactive substances and x-rays in the treatment of disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiologist designates a medical specialist who uses radioactive substances and x-rays in the treatment of disease."*

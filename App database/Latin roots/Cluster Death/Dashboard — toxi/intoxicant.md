@@ -5,15 +5,6 @@ status: unread
 ---
 # intoxicant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A liquor or brew containing alcohol as the active agent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug that can produce a state of intoxication.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Meantime the mother, assisted by the women of the neighbourhood, has brewed a large quantity of the native intoxicant called _chicha_, and poured it into wooden troughs and palm leaves."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The men join in with hoarser cries and animate themselves for the business in hand by deep draughts of an intoxicant which has been provided for the occasion by the parents-in-law."*
-> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"The brightest young men I know, who are filling positions of power and promise, never touch a drop of beer, wines, or intoxicants of any sort."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A liquor or brew containing alcohol as the active agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug that can produce a state of intoxication.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Meantime the mother, assisted by the women of the neighbourhood, has brewed a large quantity of the native intoxicant called _chicha_, and poured it into wooden troughs and palm leaves."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The men join in with hoarser cries and animate themselves for the business in hand by deep draughts of an intoxicant which has been provided for the occasion by the parents-in-law."*
+> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"The brightest young men I know, who are filling positions of power and promise, never touch a drop of beer, wines, or intoxicants of any sort."*

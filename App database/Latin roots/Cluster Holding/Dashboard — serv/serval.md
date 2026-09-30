@@ -5,13 +5,6 @@ status: unread
 ---
 # serval
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slender long-legged african wildcat having large untufted ears and tawny black-spotted coat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slender long-legged african wildcat having large untufted ears and tawny black-spotted coat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serval designates slender long-legged african wildcat having large untufted ears and tawny black-spotted coat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Slender long-legged african wildcat having large untufted ears and tawny black-spotted coat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slender long-legged african wildcat having large untufted ears and tawny black-spotted coat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serval designates slender long-legged african wildcat having large untufted ears and tawny black-spotted coat."*

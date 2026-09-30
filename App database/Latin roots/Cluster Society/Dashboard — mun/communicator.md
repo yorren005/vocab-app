@@ -5,15 +5,6 @@ status: unread
 ---
 # communicator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who communicates with others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who communicates with others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"For example; you must know I'm a space communicator."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As he said, a communicator and, I might add, from way back."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Dragon's pilot and communicator, upper bodies insulated in instrumented cubicles, concentrated on their tasks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who communicates with others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who communicates with others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"For example; you must know I'm a space communicator."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As he said, a communicator and, I might add, from way back."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Dragon's pilot and communicator, upper bodies insulated in instrumented cubicles, concentrated on their tasks."*

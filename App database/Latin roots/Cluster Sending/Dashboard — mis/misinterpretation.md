@@ -5,15 +5,6 @@ status: unread
 ---
 # misinterpretation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Putting the wrong interpretation on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Putting the wrong interpretation on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"It would be quite unjust to him to suppose that he could have entered into any coarse misinterpretation of Dorothea: his own habits of mind and conduct, quite as much as the open elevation of her nature, saved him from any such mistake."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"It's always best to say those things right out: letters are liable to misinterpretation,” jeered Chester."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Hence the misappre- 319:24 hension of the spiritual meaning of the Bible, and the misinterpretation of the Word in some instances by uninspired writers, who only wrote 319:27 down what an inspired teacher had said."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Putting the wrong interpretation on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Putting the wrong interpretation on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"It would be quite unjust to him to suppose that he could have entered into any coarse misinterpretation of Dorothea: his own habits of mind and conduct, quite as much as the open elevation of her nature, saved him from any such mistake."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"It's always best to say those things right out: letters are liable to misinterpretation,” jeered Chester."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Hence the misappre- 319:24 hension of the spiritual meaning of the Bible, and the misinterpretation of the Word in some instances by uninspired writers, who only wrote 319:27 down what an inspired teacher had said."*

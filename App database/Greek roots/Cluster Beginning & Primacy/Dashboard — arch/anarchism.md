@@ -5,13 +5,6 @@ status: unread
 ---
 # anarchism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A political theory holding all forms of governmental authority to be unnecessary and undesirable and advocating a society based on voluntary cooperation and free association of individuals and groups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The advocacy or practice of anarchistic principles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anarchism designates a political theory holding all forms of governmental authority to be unnecessary and undesirable and advocating a society based on voluntary cooperation and free association of individuals and groups."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political theory holding all forms of governmental authority to be unnecessary and undesirable and advocating a society based on voluntary cooperation and free association of individuals and groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The advocacy or practice of anarchistic principles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anarchism designates a political theory holding all forms of governmental authority to be unnecessary and undesirable and advocating a society based on voluntary cooperation and free association of individuals and groups."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # epithalamium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ode honoring a bride and bridegroom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ode honoring a bride and bridegroom.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epithalamium designates an ode honoring a bride and bridegroom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ode honoring a bride and bridegroom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ode honoring a bride and bridegroom.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epithalamium designates an ode honoring a bride and bridegroom."*

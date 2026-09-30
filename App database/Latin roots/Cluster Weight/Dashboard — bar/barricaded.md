@@ -5,15 +5,6 @@ status: unread
 ---
 # barricaded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Render unsuitable for passage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prevent access to by barricading.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"This barricaded door corresponded clearly with the shuttered window outside, and yet I could see by the glimmer from beneath it that the room was not in darkness."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Upon fastening them in this manner the people went out of the house and barricaded the doorway with wood, which they then set on fire."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A French officer, returning from the advanced detachment, rode up to Murat and reported that the gates of the citadel had been barricaded and that there was probably an ambuscade there."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Render unsuitable for passage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prevent access to by barricading.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"This barricaded door corresponded clearly with the shuttered window outside, and yet I could see by the glimmer from beneath it that the room was not in darkness."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Upon fastening them in this manner the people went out of the house and barricaded the doorway with wood, which they then set on fire."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A French officer, returning from the advanced detachment, rode up to Murat and reported that the gates of the citadel had been barricaded and that there was probably an ambuscade there."*

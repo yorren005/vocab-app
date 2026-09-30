@@ -5,13 +5,6 @@ status: unread
 ---
 # aerosolise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become dispersed as an aerosol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disperse as an aerosol.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerosolise designates become dispersed as an aerosol."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become dispersed as an aerosol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disperse as an aerosol.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerosolise designates become dispersed as an aerosol."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # polygamy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marriage in which a spouse of either sex may have more than one mate at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being polygamous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"A regular system of polygamy exists among the islanders; but of a most extraordinary nature,--a plurality of husbands, instead of wives! and this solitary fact speaks volumes for the gentle disposition of the male population."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The laws against polygamy, he said, should be firmly and effectively executed."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Polygamy, justly denounced as “the true relic of barbarism” while slavery existed, has ever since the settlement of the Mormons in Utah, been one of the vexed questions in American politics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marriage in which a spouse of either sex may have more than one mate at the same time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being polygamous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"A regular system of polygamy exists among the islanders; but of a most extraordinary nature,--a plurality of husbands, instead of wives! and this solitary fact speaks volumes for the gentle disposition of the male population."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The laws against polygamy, he said, should be firmly and effectively executed."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Polygamy, justly denounced as “the true relic of barbarism” while slavery existed, has ever since the settlement of the Mormons in Utah, been one of the vexed questions in American politics."*

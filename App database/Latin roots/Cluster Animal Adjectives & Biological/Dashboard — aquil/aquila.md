@@ -5,13 +5,6 @@ status: unread
 ---
 # aquila
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A constellation in the milky way near cygnus; contains the star altair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The provincial capital of the abruzzi region in central italy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aquila designates a constellation in the milky way near cygnus; contains the star altair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A constellation in the milky way near cygnus; contains the star altair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The provincial capital of the abruzzi region in central italy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aquila designates a constellation in the milky way near cygnus; contains the star altair."*

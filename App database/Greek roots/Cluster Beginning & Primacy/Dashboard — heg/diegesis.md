@@ -5,13 +5,6 @@ status: unread
 ---
 # diegesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relaying of information in a fictional work (such as a film or novel) through a narrative; also : the fictional world in which the events of a narrative occur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relaying of information in a fictional work (such as a film or novel) through a narrative; also : the fictional world in which the events of a narrative occur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diegesis designates the relaying of information in a fictional work (such as a film or novel) through a narrative; also : the fictional world in which the events of a narrative occur."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The relaying of information in a fictional work (such as a film or novel) through a narrative; also : the fictional world in which the events of a narrative occur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relaying of information in a fictional work (such as a film or novel) through a narrative; also : the fictional world in which the events of a narrative occur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diegesis designates the relaying of information in a fictional work (such as a film or novel) through a narrative; also : the fictional world in which the events of a narrative occur."*

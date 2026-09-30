@@ -5,15 +5,6 @@ status: unread
 ---
 # creon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the brother of jocasta and uncle of antigone who became king of thebes after the fall of oedipus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the brother of jocasta and uncle of antigone who became king of thebes after the fall of oedipus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We are three queens whose sovereigns fell before The wrath of cruel Creon, who endure The beaks of ravens, talons of the kites, And pecks of crows, in the foul fields of Thebes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is true, and I will give you comfort To give your dead lords graves; The which to do must make some work with Creon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our services stand now for Thebes, not Creon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the brother of jocasta and uncle of antigone who became king of thebes after the fall of oedipus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the brother of jocasta and uncle of antigone who became king of thebes after the fall of oedipus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We are three queens whose sovereigns fell before The wrath of cruel Creon, who endure The beaks of ravens, talons of the kites, And pecks of crows, in the foul fields of Thebes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is true, and I will give you comfort To give your dead lords graves; The which to do must make some work with Creon."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our services stand now for Thebes, not Creon."*

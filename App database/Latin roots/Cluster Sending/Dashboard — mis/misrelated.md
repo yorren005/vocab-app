@@ -5,13 +5,6 @@ status: unread
 ---
 # misrelated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mistakenly related.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mistakenly related.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misrelated designates mistakenly related."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mistakenly related.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mistakenly related.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misrelated designates mistakenly related."*

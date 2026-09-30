@@ -5,15 +5,6 @@ status: unread
 ---
 # electrifying
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excite suddenly and intensely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Charge (a conductor) with electricity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke, “going into electrifying your land and that kind of thing, and making a parlor of your cow-house."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"The owners of thermometers took a proud delight in electrifying their neighbours by reports of sudden rises and falls in their favourite study."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Veal had an orrery, an electrifying machine, a turning lathe, a theatre (in the wash-house), a chemical apparatus, and what he called a select library of all the works of the best authors of ancient and modern times and languages."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excite suddenly and intensely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Charge (a conductor) with electricity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke, “going into electrifying your land and that kind of thing, and making a parlor of your cow-house."*
+> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"The owners of thermometers took a proud delight in electrifying their neighbours by reports of sudden rises and falls in their favourite study."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Veal had an orrery, an electrifying machine, a turning lathe, a theatre (in the wash-house), a chemical apparatus, and what he called a select library of all the works of the best authors of ancient and modern times and languages."*

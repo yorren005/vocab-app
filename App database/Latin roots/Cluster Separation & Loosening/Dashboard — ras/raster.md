@@ -5,13 +5,6 @@ status: unread
 ---
 # raster
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rectangular formation of parallel scanning lines that guide the electron beam on a television screen or a computer monitor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rectangular formation of parallel scanning lines that guide the electron beam on a television screen or a computer monitor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raster designates the rectangular formation of parallel scanning lines that guide the electron beam on a television screen or a computer monitor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rectangular formation of parallel scanning lines that guide the electron beam on a television screen or a computer monitor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rectangular formation of parallel scanning lines that guide the electron beam on a television screen or a computer monitor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raster designates the rectangular formation of parallel scanning lines that guide the electron beam on a television screen or a computer monitor."*

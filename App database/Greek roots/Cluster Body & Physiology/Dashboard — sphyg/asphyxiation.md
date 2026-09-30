@@ -5,14 +5,6 @@ status: unread
 ---
 # asphyxiation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being deprived of oxygen (as by having breathing stopped).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Killing by depriving of oxygen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I grew dizzy with semi-asphyxiation, and my heart thumped until it seemed surely it would burst the canvas that bound me."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"There is a certain dangerously volatile state of it; and occasionally people, especially of opposite sexes, try to administer it to each other in that form, with asphyxiation resulting to both hearts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being deprived of oxygen (as by having breathing stopped).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Killing by depriving of oxygen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I grew dizzy with semi-asphyxiation, and my heart thumped until it seemed surely it would burst the canvas that bound me."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"There is a certain dangerously volatile state of it; and occasionally people, especially of opposite sexes, try to administer it to each other in that form, with asphyxiation resulting to both hearts."*

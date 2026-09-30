@@ -5,15 +5,6 @@ status: unread
 ---
 # zoological
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or concerned with zoology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or affecting animals that are not humans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Related to parks are public baths, public libraries, art collections, museums, zoological gardens, etc."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Meanwhile, I was occupying myself in classifying my mineralogical, botanical, and zoological riches, when the accident happened to the _Scotia_."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"They were just the half-bleached colour of the worms and things one sees preserved in spirit in a zoological museum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or concerned with zoology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or affecting animals that are not humans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Related to parks are public baths, public libraries, art collections, museums, zoological gardens, etc."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Meanwhile, I was occupying myself in classifying my mineralogical, botanical, and zoological riches, when the accident happened to the _Scotia_."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"They were just the half-bleached colour of the worms and things one sees preserved in spirit in a zoological museum."*

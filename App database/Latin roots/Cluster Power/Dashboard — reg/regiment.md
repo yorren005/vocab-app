@@ -5,15 +5,6 @@ status: unread
 ---
 # regiment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Army unit smaller than a division.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to rigid discipline, order, and systematization.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall find in the regiment of the Spinii one Captain Spurio, with his cicatrice, an emblem of war, here on his sinister cheek; it was this very sword entrench’d it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know you are the Muskos’ regiment, And I shall lose my life for want of language."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only th’ adulterous Antony, most large In his abominations, turns you off And gives his potent regiment to a trull That noises it against us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Army unit smaller than a division.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to rigid discipline, order, and systematization.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall find in the regiment of the Spinii one Captain Spurio, with his cicatrice, an emblem of war, here on his sinister cheek; it was this very sword entrench’d it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know you are the Muskos’ regiment, And I shall lose my life for want of language."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only th’ adulterous Antony, most large In his abominations, turns you off And gives his potent regiment to a trull That noises it against us."*

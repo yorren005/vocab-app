@@ -5,15 +5,6 @@ status: unread
 ---
 # export
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commodities (goods or services) sold to a foreign country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sell or transfer abroad.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"This young man, besides having a great deal to say for himself about Africa and a project of his for teaching the coffee colonists to teach the natives to turn piano-forte legs and establish an export trade, delighted in drawing Mrs."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"When tobacco was the great staple of export from Virginia, everybody was willing to take it, and its market price was known by all."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Speaking generally, the duties may be on either imports or exports; but, as export duties are unconstitutional in the United States, our tariff discussions are concerned only with import duties."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Commodities (goods or services) sold to a foreign country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sell or transfer abroad.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"This young man, besides having a great deal to say for himself about Africa and a project of his for teaching the coffee colonists to teach the natives to turn piano-forte legs and establish an export trade, delighted in drawing Mrs."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"When tobacco was the great staple of export from Virginia, everybody was willing to take it, and its market price was known by all."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Speaking generally, the duties may be on either imports or exports; but, as export duties are unconstitutional in the United States, our tariff discussions are concerned only with import duties."*

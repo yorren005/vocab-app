@@ -5,13 +5,6 @@ status: unread
 ---
 # axone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Long nerve fiber that conducts away from the cell body of the neuron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Long nerve fiber that conducts away from the cell body of the neuron.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axone designates long nerve fiber that conducts away from the cell body of the neuron."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Long nerve fiber that conducts away from the cell body of the neuron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Long nerve fiber that conducts away from the cell body of the neuron.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axone designates long nerve fiber that conducts away from the cell body of the neuron."*

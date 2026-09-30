@@ -5,13 +5,6 @@ status: unread
 ---
 # geochronology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The chronology of the past as indicated by geologic data.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of geochronology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geochronology designates the chronology of the past as indicated by geologic data."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chronology of the past as indicated by geologic data.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of geochronology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geochronology designates the chronology of the past as indicated by geologic data."*

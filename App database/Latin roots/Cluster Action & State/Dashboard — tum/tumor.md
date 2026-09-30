@@ -5,15 +5,6 @@ status: unread
 ---
 # tumor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal new mass of tissue that serves no purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal new mass of tissue that serves no purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Miss X. of Brooklyn, had suffered long and severely from a distressing tumor."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"All this time her own prayers were unceasing, those of her friends added to her own; and many a remembrance in the Fulton Street meeting, cheered and encouraged her. _By November, the tumor had totally disappeared!_ That was two years ago."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Cullis, at the Consumptive's Home, a Christian lady with a tumor which confined her almost continuously to her bed in severe suffering."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal new mass of tissue that serves no purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal new mass of tissue that serves no purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Miss X. of Brooklyn, had suffered long and severely from a distressing tumor."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"All this time her own prayers were unceasing, those of her friends added to her own; and many a remembrance in the Fulton Street meeting, cheered and encouraged her. _By November, the tumor had totally disappeared!_ That was two years ago."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Cullis, at the Consumptive's Home, a Christian lady with a tumor which confined her almost continuously to her bed in severe suffering."*

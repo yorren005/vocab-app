@@ -5,14 +5,6 @@ status: unread
 ---
 # acceptably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an acceptable (but not outstanding) manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an acceptable (but not outstanding) manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"We have endeavored to exercise a wise and careful discrimination both in avoiding the introduction of any name unworthy of a place in such a record, and in giving the due meed of honor to those who have wrought most earnestly and acceptably."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The table dishes are of tin, but in a few camps enamelware has very acceptably been introduced."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an acceptable (but not outstanding) manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an acceptable (but not outstanding) manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"We have endeavored to exercise a wise and careful discrimination both in avoiding the introduction of any name unworthy of a place in such a record, and in giving the due meed of honor to those who have wrought most earnestly and acceptably."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The table dishes are of tin, but in a few camps enamelware has very acceptably been introduced."*

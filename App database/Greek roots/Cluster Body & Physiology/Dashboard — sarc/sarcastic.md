@@ -5,15 +5,6 @@ status: unread
 ---
 # sarcastic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the character of sarcasm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to the use of sarcasm : caustic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Even when he told his experiences at great length, she never became impatient, but encouraged him to go on when his brothers and sisters made sarcastic remarks about him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I really don’t know but what I WILL take summer cabbage.” Order given; with the sarcastic addition (from Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn rubs his head with the key while she entertains herself with a sarcastic laugh."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the character of sarcasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to the use of sarcasm : caustic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Even when he told his experiences at great length, she never became impatient, but encouraged him to go on when his brothers and sisters made sarcastic remarks about him."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I really don’t know but what I WILL take summer cabbage.” Order given; with the sarcastic addition (from Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn rubs his head with the key while she entertains herself with a sarcastic laugh."*

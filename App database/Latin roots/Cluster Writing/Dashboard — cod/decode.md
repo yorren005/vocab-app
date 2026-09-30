@@ -5,13 +5,6 @@ status: unread
 ---
 # decode
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert code into ordinary language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert code into ordinary language.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I'll get it." ## Drummer read again the message he had decoded and handed it to Brad who quickly scanned and silently returned it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert code into ordinary language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert code into ordinary language.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I'll get it." ## Drummer read again the message he had decoded and handed it to Brad who quickly scanned and silently returned it."*

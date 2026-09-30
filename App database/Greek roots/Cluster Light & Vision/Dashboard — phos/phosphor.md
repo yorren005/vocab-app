@@ -5,13 +5,6 @@ status: unread
 ---
 # phosphor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phosphorescent substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A luminescent substance that emits light when excited by radiation (such as electrons) and is used especially in fluorescent lamps and cathode-ray tubes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Phosphorus is sometimes employed for giving soundness to the castings, being added to the bath in small quantities in the form of phosphor-copper containing about 10 per cent. of the non-metal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phosphorescent substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A luminescent substance that emits light when excited by radiation (such as electrons) and is used especially in fluorescent lamps and cathode-ray tubes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Phosphorus is sometimes employed for giving soundness to the castings, being added to the bath in small quantities in the form of phosphor-copper containing about 10 per cent. of the non-metal."*

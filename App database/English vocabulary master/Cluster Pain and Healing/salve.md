@@ -5,20 +5,6 @@ status: unread
 ---
 # salve
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (transitive) to calm or assuage
-> 2. **Nuance / Usage**: Remedial or soothing influence or agency
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"No egma, no riddle, no _l’envoi_, no salve in the mail, sir."*
-> - 📜 **Classic Author (*Reuters*):** *"[Title:] Tame March PCE inflation no salve after downbeat Q1 US GDP report"*
-> - 📜 **Joan Morrison (*Share House Blues*):** *"She feels guilty for pampering him, and salves her conscience by bossily ordering him to go and fetch the clothes from the line[.]"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: (transitive) to calm or assuage
+> 2. **Nuance / Usage**: Remedial or soothing influence or agency
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"No egma, no riddle, no _l’envoi_, no salve in the mail, sir."*
+> - 📜 **Classic Author (*Reuters*):** *"[Title:] Tame March PCE inflation no salve after downbeat Q1 US GDP report"*
+> - 📜 **Joan Morrison (*Share House Blues*):** *"She feels guilty for pampering him, and salves her conscience by bossily ordering him to go and fetch the clothes from the line[.]"*

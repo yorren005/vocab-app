@@ -5,15 +5,6 @@ status: unread
 ---
 # philemon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a simple countryman who offered hospitality to zeus and hermes when they came to earth without revealing their identities in order to test people's piety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (new testament) a christian (probably living in colossae) whose slave escaped and went to see saint paul.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My visor is Philemon’s roof; within the house is Jove."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your master will be dead ere you return; There’s nothing can be minister’d to nature That can recover him. [_To Philemon._] Give this to the ’pothecary, And tell me how it works. [_Exeunt all but Cerimon._] Enter two Gentlemen."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He loved Paul of Tarsus, liked St John, hated St James as much as he dared, and regarded with mixed feelings Timothy, Titus, and Philemon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a simple countryman who offered hospitality to zeus and hermes when they came to earth without revealing their identities in order to test people's piety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (new testament) a christian (probably living in colossae) whose slave escaped and went to see saint paul.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My visor is Philemon’s roof; within the house is Jove."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your master will be dead ere you return; There’s nothing can be minister’d to nature That can recover him. [_To Philemon._] Give this to the ’pothecary, And tell me how it works. [_Exeunt all but Cerimon._] Enter two Gentlemen."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He loved Paul of Tarsus, liked St John, hated St James as much as he dared, and regarded with mixed feelings Timothy, Titus, and Philemon."*

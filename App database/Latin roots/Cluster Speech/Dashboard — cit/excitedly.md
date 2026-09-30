@@ -5,15 +5,6 @@ status: unread
 ---
 # excitedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With excitement; in an excited manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With excitement; in an excited manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mea, come quick," the young spy exclaimed excitedly, "look!"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Oh, mother," he called out excitedly over the prospect, "tonight we must have the story of the Wallerstätten family."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Do you know, mother," she cried out excitedly, "it is not the worst that she shows me her back, but that one can't ever agree with her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With excitement; in an excited manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With excitement; in an excited manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mea, come quick," the young spy exclaimed excitedly, "look!"*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Oh, mother," he called out excitedly over the prospect, "tonight we must have the story of the Wallerstätten family."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Do you know, mother," she cried out excitedly, "it is not the worst that she shows me her back, but that one can't ever agree with her."*

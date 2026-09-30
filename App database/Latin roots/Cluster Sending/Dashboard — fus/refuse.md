@@ -5,15 +5,6 @@ status: unread
 ---
 # refuse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Food that is discarded (as from a kitchen).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show unwillingness towards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whence hast thou this becoming of things ill, That in the very refuse of thy deeds, There is such strength and warrantise of skill, That in my mind thy worst all best exceeds?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if you do refuse to marry me, You’ll give yourself to this most faithful shepherd?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Keep your word, Silvius, that you’ll marry her If she refuse me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Food that is discarded (as from a kitchen).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show unwillingness towards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whence hast thou this becoming of things ill, That in the very refuse of thy deeds, There is such strength and warrantise of skill, That in my mind thy worst all best exceeds?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if you do refuse to marry me, You’ll give yourself to this most faithful shepherd?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Keep your word, Silvius, that you’ll marry her If she refuse me."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # contumacy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Willful refusal to appear before a court or comply with a court order; can result in a finding of contempt of court.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obstinate rebelliousness and insubordination; resistance to authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"If she objects, tell her it is my particular wish; and if she resists, say I shall come and fetch her in case of contumacy.’” “I will not give him that trouble,” I answered."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Sin, in John's thought, is contumacy or rebellion against the law of God; he does not look at it in relation to the love of God--a view of it which gives it another character altogether."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When once a god in a moment of weakness or forgetfulness had imparted to the wizard the wondrous lore, the deity had no choice but to submit humbly to the man or pay the penalty of his contumacy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Willful refusal to appear before a court or comply with a court order; can result in a finding of contempt of court.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obstinate rebelliousness and insubordination; resistance to authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"If she objects, tell her it is my particular wish; and if she resists, say I shall come and fetch her in case of contumacy.’” “I will not give him that trouble,” I answered."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Sin, in John's thought, is contumacy or rebellion against the law of God; he does not look at it in relation to the love of God--a view of it which gives it another character altogether."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When once a god in a moment of weakness or forgetfulness had imparted to the wizard the wondrous lore, the deity had no choice but to submit humbly to the man or pay the penalty of his contumacy."*

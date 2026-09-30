@@ -5,15 +5,6 @@ status: unread
 ---
 # disastrous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of events) having extremely unfortunate or dire consequences; bringing ruin; ; ; ; - charles darwin; - douglas macarthur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of events) having extremely unfortunate or dire consequences; bringing ruin; ; ; ; - charles darwin; - douglas macarthur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was the vane on the roof turning round, and this change in the wind was the signal for a disastrous rain."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was intrinsically different from the Vale of Little Dairies, Blackmoor Vale, which, save during her disastrous sojourn at Trantridge, she had exclusively known till now."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The red wrath always has undone me in all my lives; for the red wrath is my disastrous catastrophic heritage from the time of the slimy things ere the world was prime."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of events) having extremely unfortunate or dire consequences; bringing ruin; ; ; ; - charles darwin; - douglas macarthur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of events) having extremely unfortunate or dire consequences; bringing ruin; ; ; ; - charles darwin; - douglas macarthur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was the vane on the roof turning round, and this change in the wind was the signal for a disastrous rain."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was intrinsically different from the Vale of Little Dairies, Blackmoor Vale, which, save during her disastrous sojourn at Trantridge, she had exclusively known till now."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The red wrath always has undone me in all my lives; for the red wrath is my disastrous catastrophic heritage from the time of the slimy things ere the world was prime."*

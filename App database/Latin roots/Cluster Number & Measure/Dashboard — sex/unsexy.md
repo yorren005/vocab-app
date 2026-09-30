@@ -5,13 +5,6 @@ status: unread
 ---
 # unsexy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not sexually aroused or arousing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not sexually aroused or arousing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsexy designates not sexually aroused or arousing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not sexually aroused or arousing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not sexually aroused or arousing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsexy designates not sexually aroused or arousing."*

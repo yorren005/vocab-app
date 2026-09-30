@@ -5,15 +5,6 @@ status: unread
 ---
 # crest
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The top line of a hill, mountain, or wave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The top or extreme point of something (usually a mountain or hill).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was a crest ere thou wast born."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when they shall see, sir, his crest up again, and the man in blood, they will out of their burrows like coneys after rain, and revel all with him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is his uncle’s teaching, this is Worcester, Malevolent to you in all aspects, Which makes him prune himself, and bristle up The crest of youth against your dignity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The top line of a hill, mountain, or wave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The top or extreme point of something (usually a mountain or hill).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was a crest ere thou wast born."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when they shall see, sir, his crest up again, and the man in blood, they will out of their burrows like coneys after rain, and revel all with him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is his uncle’s teaching, this is Worcester, Malevolent to you in all aspects, Which makes him prune himself, and bristle up The crest of youth against your dignity."*

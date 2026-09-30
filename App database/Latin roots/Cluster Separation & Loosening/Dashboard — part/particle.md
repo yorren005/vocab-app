@@ -5,15 +5,6 @@ status: unread
 ---
 # particle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (nontechnical usage) a tiny piece of anything.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body having finite mass and internal structure but negligible dimensions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It shall be inventoried and every particle and utensil labelled to my will: as, item, two lips indifferent red; item, two grey eyes with lids to them; item, one neck, one chin, and so forth."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Not a footstep or wheel was audible anywhere around, and the dead silence was broken only by a heavy particle falling from a tree through the evergreens and alighting with a smart rap upon the coffin of poor Fanny."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"One evening when the storm was at its highest, this old couple found themselves without a particle of food in the house."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (nontechnical usage) a tiny piece of anything.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body having finite mass and internal structure but negligible dimensions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It shall be inventoried and every particle and utensil labelled to my will: as, item, two lips indifferent red; item, two grey eyes with lids to them; item, one neck, one chin, and so forth."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Not a footstep or wheel was audible anywhere around, and the dead silence was broken only by a heavy particle falling from a tree through the evergreens and alighting with a smart rap upon the coffin of poor Fanny."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"One evening when the storm was at its highest, this old couple found themselves without a particle of food in the house."*

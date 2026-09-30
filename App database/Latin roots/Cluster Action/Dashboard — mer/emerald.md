@@ -5,15 +5,6 @@ status: unread
 ---
 # emerald
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A green transparent form of beryl; highly valued as a gemstone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transparent piece of emerald that has been cut and polished and is valued as a precious gem.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was green as an emerald, and the reverberation was stunning."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"His wishes were fulfilled, for one of the damsels conceived and after nine months gave birth to an emerald."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She was opening some ring-boxes, which disclosed a fine emerald with diamonds, and just then the sun passing beyond a cloud sent a bright gleam over the table."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A green transparent form of beryl; highly valued as a gemstone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transparent piece of emerald that has been cut and polished and is valued as a precious gem.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was green as an emerald, and the reverberation was stunning."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"His wishes were fulfilled, for one of the damsels conceived and after nine months gave birth to an emerald."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She was opening some ring-boxes, which disclosed a fine emerald with diamonds, and just then the sun passing beyond a cloud sent a bright gleam over the table."*

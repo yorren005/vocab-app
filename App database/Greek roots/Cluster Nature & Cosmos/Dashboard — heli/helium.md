@@ -5,15 +5,6 @@ status: unread
 ---
 # helium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical element of the noble gas group with atomic number 2 that is found especially in natural gases and used chiefly for inflating airships and balloons, as a coolant for superconductors, and as a component of inert atmospheres (as in welding) —often used before another noun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical element of the noble gas group with atomic number 2 that is found especially in natural gases and used chiefly for inflating airships and balloons, as a coolant for superconductors, and as a component of inert atmospheres (as in welding) —often used before another noun.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Night and day, year in and year out, it is firing off these exceedingly minute projectiles, of which there are two kinds, one of which appears to be atoms of helium."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Those splashes were caused by a tiny speck of radium in the middle of the tube, the helium atoms from which, by bombarding the inner surface of the tube, produced the sparks."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Now if we can count those splashes we can tell how many atoms of helium are being given off per minute."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical element of the noble gas group with atomic number 2 that is found especially in natural gases and used chiefly for inflating airships and balloons, as a coolant for superconductors, and as a component of inert atmospheres (as in welding) —often used before another noun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical element of the noble gas group with atomic number 2 that is found especially in natural gases and used chiefly for inflating airships and balloons, as a coolant for superconductors, and as a component of inert atmospheres (as in welding) —often used before another noun.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Night and day, year in and year out, it is firing off these exceedingly minute projectiles, of which there are two kinds, one of which appears to be atoms of helium."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Those splashes were caused by a tiny speck of radium in the middle of the tube, the helium atoms from which, by bombarding the inner surface of the tube, produced the sparks."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Now if we can count those splashes we can tell how many atoms of helium are being given off per minute."*

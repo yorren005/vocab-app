@@ -5,15 +5,6 @@ status: unread
 ---
 # subside
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wear off or die down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sink to a lower level or form a depression.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There he again walks slowly up and down in the same attitude, subsiding, if a man so cool may have any need to subside, from the story he has related downstairs."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The wind began to subside, the sky grew calm, and in less than half an hour all was still, and a more pleasant time for wood-hauling than I had that day, I never saw nor desire to see."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"As the days went on, I noticed more and more that he would lie placidly looking at the white ceiling, with an absence of light in his face until some word of mine brightened it for an instant, and then it would subside again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wear off or die down.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sink to a lower level or form a depression.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"There he again walks slowly up and down in the same attitude, subsiding, if a man so cool may have any need to subside, from the story he has related downstairs."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The wind began to subside, the sky grew calm, and in less than half an hour all was still, and a more pleasant time for wood-hauling than I had that day, I never saw nor desire to see."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"As the days went on, I noticed more and more that he would lie placidly looking at the white ceiling, with an absence of light in his face until some word of mine brightened it for an instant, and then it would subside again."*

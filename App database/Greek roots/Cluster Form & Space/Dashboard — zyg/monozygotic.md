@@ -5,13 +5,6 @@ status: unread
 ---
 # monozygotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Derived from a single egg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from a single egg.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monozygotic designates derived from a single egg."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Derived from a single egg.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from a single egg.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monozygotic designates derived from a single egg."*

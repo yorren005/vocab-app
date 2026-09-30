@@ -5,15 +5,6 @@ status: unread
 ---
 # paradoxical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seemingly contradictory but nonetheless possibly true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seemingly contradictory but nonetheless possibly true.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Night and day is this death-watch on me, and its paradoxical function is to see that I do not die."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The figures reflect changes in the paradoxical section of the scale of values, and express scarcity rather than wealth."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Gresham's law has a paradoxical wording and is frequently misunderstood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Seemingly contradictory but nonetheless possibly true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seemingly contradictory but nonetheless possibly true.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Night and day is this death-watch on me, and its paradoxical function is to see that I do not die."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The figures reflect changes in the paradoxical section of the scale of values, and express scarcity rather than wealth."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Gresham's law has a paradoxical wording and is frequently misunderstood."*

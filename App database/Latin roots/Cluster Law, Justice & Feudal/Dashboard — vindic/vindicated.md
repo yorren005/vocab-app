@@ -5,15 +5,6 @@ status: unread
 ---
 # vindicated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show to be right by providing justification or proof.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maintain, uphold, or defend.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole left the room with a radiant face to fetch his daughters (his sons had run away at various times), leaving my guardian quite delighted by the manner in which he had vindicated his childish character."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Never indeed was the divine law so completely vindicated, or the claims of justice so awfully asserted, as when the Lawgiver offered himself as a ransom."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode was vindicated from any resemblance to her husband."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Show to be right by providing justification or proof.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maintain, uphold, or defend.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole left the room with a radiant face to fetch his daughters (his sons had run away at various times), leaving my guardian quite delighted by the manner in which he had vindicated his childish character."*
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Never indeed was the divine law so completely vindicated, or the claims of justice so awfully asserted, as when the Lawgiver offered himself as a ransom."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode was vindicated from any resemblance to her husband."*

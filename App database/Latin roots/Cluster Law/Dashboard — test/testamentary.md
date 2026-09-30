@@ -5,15 +5,6 @@ status: unread
 ---
 # testamentary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a will or testament or bequeathed by a will or testament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a will or testament or bequeathed by a will or testament.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Krook’s being “continually in liquor,” and the testamentary prospects of the young man are, as usual, the staple of their conversation."*
-> - 📜 **George Eliot (*Middlemarch*):** *"It is so, with testamentary dispositions.” Again he pursed up his lips and frowned a little."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A most singular testamentary disposition!” exclaimed Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a will or testament or bequeathed by a will or testament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a will or testament or bequeathed by a will or testament.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Krook’s being “continually in liquor,” and the testamentary prospects of the young man are, as usual, the staple of their conversation."*
+> - 📜 **George Eliot (*Middlemarch*):** *"It is so, with testamentary dispositions.” Again he pursed up his lips and frowned a little."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A most singular testamentary disposition!” exclaimed Mr."*

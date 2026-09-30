@@ -5,14 +5,6 @@ status: unread
 ---
 # precociously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a precocious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a precocious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He stands precociously possessed of centuries of owlish wisdom."*
-> - 📜 **James Joyce (*Ulysses*):** *"That young figure of then is seen, precociously manly, walking on a nipping morning from the old house in Clanbrassil street to the high school, his booksatchel on him bandolierwise, and in it a goodly hunk of wheaten loaf, a mother’s thought."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a precocious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a precocious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He stands precociously possessed of centuries of owlish wisdom."*
+> - 📜 **James Joyce (*Ulysses*):** *"That young figure of then is seen, precociously manly, walking on a nipping morning from the old house in Clanbrassil street to the high school, his booksatchel on him bandolierwise, and in it a goodly hunk of wheaten loaf, a mother’s thought."*

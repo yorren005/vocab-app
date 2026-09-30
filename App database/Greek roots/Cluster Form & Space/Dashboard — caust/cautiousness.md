@@ -5,15 +5,6 @@ status: unread
 ---
 # cautiousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being cautious; being attentive to possible danger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being cautious; being attentive to possible danger.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I only fear that the sort of cautiousness to which you, I imagine, have been alluding, is merely adopted on his visits to his aunt, of whose good opinion and judgment he stands much in awe."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"All silence of cautiousness was therefore no longer of use."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"All silence of cautiousness was therefore no longer of use."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being cautious; being attentive to possible danger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being cautious; being attentive to possible danger.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I only fear that the sort of cautiousness to which you, I imagine, have been alluding, is merely adopted on his visits to his aunt, of whose good opinion and judgment he stands much in awe."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"All silence of cautiousness was therefore no longer of use."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"All silence of cautiousness was therefore no longer of use."*

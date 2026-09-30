@@ -5,15 +5,6 @@ status: unread
 ---
 # pendant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adornment that hangs from a piece of jewelry (necklace or earring).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Branched lighting fixture; often ornate; hangs from the ceiling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sometime we see a cloud that’s dragonish, A vapour sometime like a bear or lion, A towered citadel, a pendant rock, A forked mountain, or blue promontory With trees upon’t, that nod unto the world And mock our eyes with air."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There on the pendant boughs her coronet weeds Clamb’ring to hang, an envious sliver broke, When down her weedy trophies and herself Fell in the weeping brook."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This guest of summer, The temple-haunting martlet, does approve, By his loved mansionry, that the heaven’s breath Smells wooingly here: no jutty, frieze, Buttress, nor coign of vantage, but this bird hath made his pendant bed and procreant cradle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adornment that hangs from a piece of jewelry (necklace or earring).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Branched lighting fixture; often ornate; hangs from the ceiling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sometime we see a cloud that’s dragonish, A vapour sometime like a bear or lion, A towered citadel, a pendant rock, A forked mountain, or blue promontory With trees upon’t, that nod unto the world And mock our eyes with air."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There on the pendant boughs her coronet weeds Clamb’ring to hang, an envious sliver broke, When down her weedy trophies and herself Fell in the weeping brook."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This guest of summer, The temple-haunting martlet, does approve, By his loved mansionry, that the heaven’s breath Smells wooingly here: no jutty, frieze, Buttress, nor coign of vantage, but this bird hath made his pendant bed and procreant cradle."*

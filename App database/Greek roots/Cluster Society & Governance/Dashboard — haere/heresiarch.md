@@ -5,14 +5,6 @@ status: unread
 ---
 # heresiarch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An originator or chief advocate of a heresy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An originator or chief advocate of a heresy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Shrunken uncertain hand. —Sabellius, the African, subtlest heresiarch of all the beasts of the field, held that the Father was Himself His Own Son."*
-> - 📜 **James Joyce (*Ulysses*):** *"Symbol of the apostles in the mass for pope Marcellus, the voices blended, singing alone loud in affirmation: and behind their chant the vigilant angel of the church militant disarmed and menaced her heresiarchs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An originator or chief advocate of a heresy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An originator or chief advocate of a heresy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Shrunken uncertain hand. —Sabellius, the African, subtlest heresiarch of all the beasts of the field, held that the Father was Himself His Own Son."*
+> - 📜 **James Joyce (*Ulysses*):** *"Symbol of the apostles in the mass for pope Marcellus, the voices blended, singing alone loud in affirmation: and behind their chant the vigilant angel of the church militant disarmed and menaced her heresiarchs."*

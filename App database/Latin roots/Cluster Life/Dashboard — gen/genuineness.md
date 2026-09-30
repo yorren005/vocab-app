@@ -5,15 +5,6 @@ status: unread
 ---
 # genuineness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being genuine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undisputed credibility.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"So astonished was he, that he even doubted the check, which was for _five thousand dollars,_ and sent it to the bank to test its genuineness before he would give a receipt for it!" ALL SAVED."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"If we are challenged as to the genuineness of Paul's epistles, let us tell our questioner to read them."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The stamp of genuineness is on them--of life, real life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being genuine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undisputed credibility.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"So astonished was he, that he even doubted the check, which was for _five thousand dollars,_ and sent it to the bank to test its genuineness before he would give a receipt for it!" ALL SAVED."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"If we are challenged as to the genuineness of Paul's epistles, let us tell our questioner to read them."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The stamp of genuineness is on them--of life, real life."*

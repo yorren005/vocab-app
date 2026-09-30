@@ -5,13 +5,6 @@ status: unread
 ---
 # undemocratic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in agreement with or according to democratic doctrine or practice or ideals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in agreement with or according to democratic doctrine or practice or ideals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I commend the virtuous democracy of this Chamber to read that bill, and then tell this Senate whether there ever was a more undemocratic measure than the bill propounded in Virginia by the party whose cause they espouse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in agreement with or according to democratic doctrine or practice or ideals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in agreement with or according to democratic doctrine or practice or ideals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I commend the virtuous democracy of this Chamber to read that bill, and then tell this Senate whether there ever was a more undemocratic measure than the bill propounded in Virginia by the party whose cause they espouse."*

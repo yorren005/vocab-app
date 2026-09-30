@@ -5,13 +5,6 @@ status: unread
 ---
 # anorexia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of appetite especially when prolonged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anorexia nervosa.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anorexia designates loss of appetite especially when prolonged."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of appetite especially when prolonged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anorexia nervosa.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anorexia designates loss of appetite especially when prolonged."*

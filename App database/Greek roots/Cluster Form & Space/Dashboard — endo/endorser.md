@@ -5,13 +5,6 @@ status: unread
 ---
 # endorser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who expresses strong approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who transfers his ownership interest in something by signing a check or negotiable security.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I found a responsible endorser before me, and it was my purpose to hold him liable, and to bring him to his just responsibility without delay."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who expresses strong approval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who transfers his ownership interest in something by signing a check or negotiable security.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I found a responsible endorser before me, and it was my purpose to hold him liable, and to bring him to his just responsibility without delay."*

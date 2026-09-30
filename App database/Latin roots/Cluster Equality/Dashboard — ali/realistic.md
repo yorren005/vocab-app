@@ -5,15 +5,6 @@ status: unread
 ---
 # realistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aware or expressing awareness of things as they really are.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing what is real; not abstract or ideal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"We have in our police reports realism pushed to its extreme limits, and yet the result is, it must be confessed, neither fascinating nor artistic.” “A certain selection and discretion must be used in producing a realistic effect,” remarked Holmes."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Here we leave, for the most part, the dreamy pictures of island life, and find ourselves sharing the extremely realistic discomforts of a Sydney whaler in the early forties."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The rebellious crew’s experiences in the Society Islands are quite as realistic as events on board ship and very entertaining, while the whimsical character, Dr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aware or expressing awareness of things as they really are.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing what is real; not abstract or ideal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"We have in our police reports realism pushed to its extreme limits, and yet the result is, it must be confessed, neither fascinating nor artistic.” “A certain selection and discretion must be used in producing a realistic effect,” remarked Holmes."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Here we leave, for the most part, the dreamy pictures of island life, and find ourselves sharing the extremely realistic discomforts of a Sydney whaler in the early forties."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The rebellious crew’s experiences in the Society Islands are quite as realistic as events on board ship and very entertaining, while the whimsical character, Dr."*

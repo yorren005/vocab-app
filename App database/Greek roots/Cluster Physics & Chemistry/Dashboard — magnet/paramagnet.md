@@ -5,13 +5,6 @@ status: unread
 ---
 # paramagnet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Magnet made of a substance whose magnetization is proportional to the strength of the magnetic field applied to it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Magnet made of a substance whose magnetization is proportional to the strength of the magnetic field applied to it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paramagnet designates magnet made of a substance whose magnetization is proportional to the strength of the magnetic field applied to it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Magnet made of a substance whose magnetization is proportional to the strength of the magnetic field applied to it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Magnet made of a substance whose magnetization is proportional to the strength of the magnetic field applied to it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paramagnet designates magnet made of a substance whose magnetization is proportional to the strength of the magnetic field applied to it."*

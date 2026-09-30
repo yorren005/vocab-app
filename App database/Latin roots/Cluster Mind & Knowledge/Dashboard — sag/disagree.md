@@ -5,15 +5,6 @@ status: unread
 ---
 # disagree
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be of different opinions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be different from one another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And you, my lords, remember where we are: In France, amongst a fickle wavering nation; If they perceive dissension in our looks, And that within ourselves we disagree, How will their grudging stomachs be provoked To willful disobedience, and rebel!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sic twa—O! do I live to see’t?— Sic famous twa should disagree’t, And names, like “villain,” “hypocrite,” Ilk ither gi’en, While New-Light herds, wi’ laughin spite, Say neither’s liein!"*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Norris, “you are everything that is generous and considerate, and I am sure we shall never disagree on this point."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be of different opinions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be different from one another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And you, my lords, remember where we are: In France, amongst a fickle wavering nation; If they perceive dissension in our looks, And that within ourselves we disagree, How will their grudging stomachs be provoked To willful disobedience, and rebel!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sic twa—O! do I live to see’t?— Sic famous twa should disagree’t, And names, like “villain,” “hypocrite,” Ilk ither gi’en, While New-Light herds, wi’ laughin spite, Say neither’s liein!"*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Norris, “you are everything that is generous and considerate, and I am sure we shall never disagree on this point."*

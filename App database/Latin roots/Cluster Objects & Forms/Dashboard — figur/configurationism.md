@@ -5,13 +5,6 @@ status: unread
 ---
 # configurationism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychology) a theory of psychology that emphasizes the importance of configurational properties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychology) a theory of psychology that emphasizes the importance of configurational properties.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, configurationism designates (psychology) a theory of psychology that emphasizes the importance of configurational properties."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychology) a theory of psychology that emphasizes the importance of configurational properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychology) a theory of psychology that emphasizes the importance of configurational properties.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, configurationism designates (psychology) a theory of psychology that emphasizes the importance of configurational properties."*

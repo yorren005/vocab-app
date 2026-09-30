@@ -5,13 +5,6 @@ status: unread
 ---
 # pachycephalosaur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bipedal herbivore having 10 inches of bone atop its head; largest boneheaded dinosaur ever found.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bipedal herbivore having 10 inches of bone atop its head; largest boneheaded dinosaur ever found.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachycephalosaur designates bipedal herbivore having 10 inches of bone atop its head; largest boneheaded dinosaur ever found."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bipedal herbivore having 10 inches of bone atop its head; largest boneheaded dinosaur ever found.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bipedal herbivore having 10 inches of bone atop its head; largest boneheaded dinosaur ever found.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachycephalosaur designates bipedal herbivore having 10 inches of bone atop its head; largest boneheaded dinosaur ever found."*

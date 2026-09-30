@@ -5,15 +5,6 @@ status: unread
 ---
 # domine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A clergyman; especially a settled minister or parson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clergyman; especially a settled minister or parson.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me hear a staff, a stanze, a verse, _Lege, domine_."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It insinuateth me of insanie. _Ne intelligis, domine?_ To make frantic, lunatic."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But will the dainty domine, the schoolmaster, Keep touch, do you think?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clergyman; especially a settled minister or parson.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clergyman; especially a settled minister or parson.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me hear a staff, a stanze, a verse, _Lege, domine_."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It insinuateth me of insanie. _Ne intelligis, domine?_ To make frantic, lunatic."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But will the dainty domine, the schoolmaster, Keep touch, do you think?"*

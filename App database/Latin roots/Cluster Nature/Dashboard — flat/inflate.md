@@ -5,15 +5,6 @@ status: unread
 ---
 # inflate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exaggerate or make bigger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill with gas or air.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"It is indeed the darling achievement of infernal skill, to inflate a poor worm with pride of talent, and fill his heart with hatred to the Gospel, and then persuade him that his hatred arises from its falsehood and absurdity."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"There were times, even on a relatively calm day, when a gust would pass across the field and re-inflate the canopy before we got to it."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The oil is stored in strong steel reservoirs into which air is pumped by means of a pump not unlike those used to inflate bicycle tyres."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exaggerate or make bigger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill with gas or air.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"It is indeed the darling achievement of infernal skill, to inflate a poor worm with pride of talent, and fill his heart with hatred to the Gospel, and then persuade him that his hatred arises from its falsehood and absurdity."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"There were times, even on a relatively calm day, when a gust would pass across the field and re-inflate the canopy before we got to it."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The oil is stored in strong steel reservoirs into which air is pumped by means of a pump not unlike those used to inflate bicycle tyres."*

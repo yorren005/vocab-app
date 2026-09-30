@@ -5,13 +5,6 @@ status: unread
 ---
 # nycticorax
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Old world night herons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old world night herons.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nycticorax designates old world night herons."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Old world night herons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old world night herons.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nycticorax designates old world night herons."*

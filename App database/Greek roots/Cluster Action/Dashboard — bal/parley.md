@@ -5,15 +5,6 @@ status: unread
 ---
 # parley
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To speak with another : confer; specifically : to discuss terms with an enemy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conference for discussion of points in dispute.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, Mars, I prithee, make us quick in work, That we with smoking swords may march from hence To help our fielded friends!—Come, blow thy blast. [_They sound a parley._] Enter two Senators with others on the walls of Corioles."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From this time Be something scanter of your maiden presence; Set your entreatments at a higher rate Than a command to parley."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For God’s sake, cousin, stay till all come in. [_The trumpet sounds a parley._] Enter Sir Walter Blunt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To speak with another : confer; specifically : to discuss terms with an enemy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conference for discussion of points in dispute.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, Mars, I prithee, make us quick in work, That we with smoking swords may march from hence To help our fielded friends!—Come, blow thy blast. [_They sound a parley._] Enter two Senators with others on the walls of Corioles."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From this time Be something scanter of your maiden presence; Set your entreatments at a higher rate Than a command to parley."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For God’s sake, cousin, stay till all come in. [_The trumpet sounds a parley._] Enter Sir Walter Blunt."*

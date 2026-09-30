@@ -5,13 +5,6 @@ status: unread
 ---
 # fluorocarbon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A halocarbon in which some hydrogen atoms have been replaced by fluorine; used in refrigerators and aerosols.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A halocarbon in which some hydrogen atoms have been replaced by fluorine; used in refrigerators and aerosols.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluorocarbon designates a halocarbon in which some hydrogen atoms have been replaced by fluorine; used in refrigerators and aerosols."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A halocarbon in which some hydrogen atoms have been replaced by fluorine; used in refrigerators and aerosols.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A halocarbon in which some hydrogen atoms have been replaced by fluorine; used in refrigerators and aerosols.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluorocarbon designates a halocarbon in which some hydrogen atoms have been replaced by fluorine; used in refrigerators and aerosols."*

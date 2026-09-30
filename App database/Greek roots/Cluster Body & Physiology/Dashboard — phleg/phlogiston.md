@@ -5,13 +5,6 @@ status: unread
 ---
 # phlogiston
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The hypothetical principle of fire regarded formerly as a material substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hypothetical principle of fire regarded formerly as a material substance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"It is not that there are any very staggering arguments against the immortality of man; but, like electricity, phlogiston, etc., the subject is so involved in darkness, that we want data to go upon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The hypothetical principle of fire regarded formerly as a material substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hypothetical principle of fire regarded formerly as a material substance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"It is not that there are any very staggering arguments against the immortality of man; but, like electricity, phlogiston, etc., the subject is so involved in darkness, that we want data to go upon."*

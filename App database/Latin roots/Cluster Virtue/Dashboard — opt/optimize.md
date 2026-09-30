@@ -5,13 +5,6 @@ status: unread
 ---
 # optimize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make optimal; get the most out of; use best.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Modify to achieve maximum efficiency in storage capacity or time or cost.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They intended to cut straight through our defenses to optimize their broadsides but instead they opened themselves to ours."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make optimal; get the most out of; use best.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Modify to achieve maximum efficiency in storage capacity or time or cost.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They intended to cut straight through our defenses to optimize their broadsides but instead they opened themselves to ours."*

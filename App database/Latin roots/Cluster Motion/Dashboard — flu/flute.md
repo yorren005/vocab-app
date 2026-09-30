@@ -5,15 +5,6 @@ status: unread
 ---
 # flute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-pitched woodwind instrument; a slender tube closed at one end with finger holes on one end and an opening near the closed end across which the breath is blown.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tall narrow wineglass.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Room in a Cottage Enter Quince, Snug, Bottom, Flute, Snout and Starveling."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Francis Flute, the bellows-mender."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Flute, you must take Thisbe on you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-pitched woodwind instrument; a slender tube closed at one end with finger holes on one end and an opening near the closed end across which the breath is blown.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tall narrow wineglass.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Room in a Cottage Enter Quince, Snug, Bottom, Flute, Snout and Starveling."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Francis Flute, the bellows-mender."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Flute, you must take Thisbe on you."*

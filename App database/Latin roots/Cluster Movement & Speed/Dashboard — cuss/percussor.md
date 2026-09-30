@@ -5,13 +5,6 @@ status: unread
 ---
 # percussor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) a small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) a small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, percussor designates (medicine) a small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) a small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) a small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, percussor designates (medicine) a small hammer with a rubber head used in percussive examinations of the chest and in testing reflexes."*

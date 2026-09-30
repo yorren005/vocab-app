@@ -5,13 +5,6 @@ status: unread
 ---
 # hydatid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The larval cyst of a tapeworm (genus Echinococcus) occurring as a fluid-filled sac containing daughter cysts in which scolices develop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The larval cyst of a tapeworm (genus Echinococcus) occurring as a fluid-filled sac containing daughter cysts in which scolices develop.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydatid designates the larval cyst of a tapeworm (genus echinococcus) occurring as a fluid-filled sac containing daughter cysts in which scolices develop."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The larval cyst of a tapeworm (genus Echinococcus) occurring as a fluid-filled sac containing daughter cysts in which scolices develop.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The larval cyst of a tapeworm (genus Echinococcus) occurring as a fluid-filled sac containing daughter cysts in which scolices develop.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydatid designates the larval cyst of a tapeworm (genus echinococcus) occurring as a fluid-filled sac containing daughter cysts in which scolices develop."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # depository
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A facility where things can be deposited for storage or safekeeping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A facility where things can be deposited for storage or safekeeping.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is surrounded by a mysterious halo of family confidences, of which he is known to be the silent depository."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket say, but sits with most attentive eyes until the sacked depository of noble secrets is brought down—Where are all those secrets now?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The central bank established branches in many parts of the country, issued bank notes which circulated everywhere without depreciation, acted as the governmental depository of funds and as governmental agency in various ways."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A facility where things can be deposited for storage or safekeeping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A facility where things can be deposited for storage or safekeeping.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is surrounded by a mysterious halo of family confidences, of which he is known to be the silent depository."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket say, but sits with most attentive eyes until the sacked depository of noble secrets is brought down—Where are all those secrets now?"*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The central bank established branches in many parts of the country, issued bank notes which circulated everywhere without depreciation, acted as the governmental depository of funds and as governmental agency in various ways."*

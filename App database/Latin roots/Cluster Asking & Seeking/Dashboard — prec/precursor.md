@@ -5,15 +5,6 @@ status: unread
 ---
 # precursor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance from which another substance is formed (especially by a metabolic reaction).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who goes before or announces the coming of another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"We are concerned less with John as precursor than as teacher and thinker."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He will find it as sure a precursor of his fate as Openshaw did before him.” “And who is this Captain Calhoun?” “The leader of the gang."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Oh, the beautiful green! the precursor of the golden-red hue that tells of the end attained!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance from which another substance is formed (especially by a metabolic reaction).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who goes before or announces the coming of another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"We are concerned less with John as precursor than as teacher and thinker."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He will find it as sure a precursor of his fate as Openshaw did before him.” “And who is this Captain Calhoun?” “The leader of the gang."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Oh, the beautiful green! the precursor of the golden-red hue that tells of the end attained!"*

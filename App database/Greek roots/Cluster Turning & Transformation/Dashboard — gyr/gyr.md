@@ -5,13 +5,6 @@ status: unread
 ---
 # gyr
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ring : circle : spiral.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ring : circle : spiral.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyr designates ring : circle : spiral."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ring : circle : spiral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ring : circle : spiral.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyr designates ring : circle : spiral."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # entanglement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An intricate trap that entangles or ensnares its victim.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intricate trap that entangles or ensnares its victim.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"An inner cloud of dust rose around the prostrate figures amid the general one of the room, in which a twitching entanglement of arms and legs was discernible."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I long to exert a fraction of Samson’s strength, and break the entanglement like tow!” He recommenced his walk, but soon again stopped, and this time just before me."*
-> - 📜 **George Eliot (*Middlemarch*):** *"His delicate feeling shrank from dwelling even in his thought on the fact that he had always urged Lydgate to avoid any personal entanglement with Bulstrode."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intricate trap that entangles or ensnares its victim.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intricate trap that entangles or ensnares its victim.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"An inner cloud of dust rose around the prostrate figures amid the general one of the room, in which a twitching entanglement of arms and legs was discernible."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I long to exert a fraction of Samson’s strength, and break the entanglement like tow!” He recommenced his walk, but soon again stopped, and this time just before me."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His delicate feeling shrank from dwelling even in his thought on the fact that he had always urged Lydgate to avoid any personal entanglement with Bulstrode."*

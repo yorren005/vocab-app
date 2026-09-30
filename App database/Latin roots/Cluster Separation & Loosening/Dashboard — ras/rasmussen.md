@@ -5,13 +5,6 @@ status: unread
 ---
 # rasmussen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Danish ethnologist and arctic explorer; led expeditions into the arctic to find support for his theory that eskimos and north american indians originally migrated from asia (1879-1933).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Danish ethnologist and arctic explorer; led expeditions into the arctic to find support for his theory that eskimos and north american indians originally migrated from asia (1879-1933).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rasmussen designates danish ethnologist and arctic explorer; led expeditions into the arctic to find support for his theory that eskimos and north american indians originally migrated from asia (1879-1933)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Danish ethnologist and arctic explorer; led expeditions into the arctic to find support for his theory that eskimos and north american indians originally migrated from asia (1879-1933).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Danish ethnologist and arctic explorer; led expeditions into the arctic to find support for his theory that eskimos and north american indians originally migrated from asia (1879-1933).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rasmussen designates danish ethnologist and arctic explorer; led expeditions into the arctic to find support for his theory that eskimos and north american indians originally migrated from asia (1879-1933)."*

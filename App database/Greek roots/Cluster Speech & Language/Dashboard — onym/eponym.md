@@ -5,13 +5,6 @@ status: unread
 ---
 # eponym
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One for whom or which something is or is believed to be named.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A name (as of a disease, invention, action, etc.) based on or derived from an eponym.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eponym designates one for whom or which something is or is believed to be named."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One for whom or which something is or is believed to be named.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A name (as of a disease, invention, action, etc.) based on or derived from an eponym.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eponym designates one for whom or which something is or is believed to be named."*

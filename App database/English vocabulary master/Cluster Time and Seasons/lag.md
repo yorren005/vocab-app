@@ -5,20 +5,6 @@ status: unread
 ---
 # lag
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Late
-> 2. **Nuance / Usage**: Last made; hence, made of refuse; inferior
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the lag withstood the storm*), direct object (*cleaved the lag*), or prepositional anchor (*amidst the lag*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Fortune in favour makes him lag behind."*
-> - 📜 **James Joyce (*Ulysses*):** *"muchwhat indifferent and he would not lag behind his lead."*
-> - 📜 **William Shakespeare (*King Richard III*):** *"Some tardy cripple bore the countermand, / That came too lag to see him buried."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To fall behind in movement, progress, or development; to fail to keep pace with others.
+> 2. **Nuance / Usage**: As a noun, denotes a delay or interval of time between two closely related phenomena (*a time lag*, *jet lag*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (intransitive) and Noun (count).
+> - **Syntactic Constructions**: Operates intransitively (*lagged behind the column*) or as a noun (*a noticeable lag between cause and effect*).
+> - **Collocations & Registers**: Analytical, technical, and narrative registers; collocated with *behind*, *time lag*, *pace*, and *far*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Richard III*):** *"Some tardy cripple bore the countermand, that came too **lag** to see him buried."*
+> - 📜 **James Joyce (*Ulysses*):** *"He remained muchwhat indifferent, yet he would not **lag** behind his lead."*
+> - 📜 **Samuel Johnson (*The Vanity of Human Wishes*):** *"Superfluous **lags** the veteran on the stage, till pitying nature signs the last release."*

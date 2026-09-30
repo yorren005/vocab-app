@@ -5,15 +5,6 @@ status: unread
 ---
 # preceptor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Teacher at a university or college (especially at cambridge or oxford).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Teacher at a university or college (especially at cambridge or oxford).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"We found him engaged with a not very hopeful pupil—a stubborn little girl with a sulky forehead, a deep voice, and an inanimate, dissatisfied mama—whose case was certainly not rendered more hopeful by the confusion into which we threw her preceptor."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"John Stuart Mill, then a boy of about twelve years old,"--he was really only eleven,--"was studying, with his father as sole preceptor, under the paternal roof."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It is so much pleasanter to please than to instruct--to play the companion rather than the preceptor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Teacher at a university or college (especially at cambridge or oxford).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Teacher at a university or college (especially at cambridge or oxford).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"We found him engaged with a not very hopeful pupil—a stubborn little girl with a sulky forehead, a deep voice, and an inanimate, dissatisfied mama—whose case was certainly not rendered more hopeful by the confusion into which we threw her preceptor."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"John Stuart Mill, then a boy of about twelve years old,"--he was really only eleven,--"was studying, with his father as sole preceptor, under the paternal roof."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It is so much pleasanter to please than to instruct--to play the companion rather than the preceptor."*

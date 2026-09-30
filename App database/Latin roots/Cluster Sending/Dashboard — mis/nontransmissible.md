@@ -5,13 +5,6 @@ status: unread
 ---
 # nontransmissible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not acquirable by inheritance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of disease) not capable of being passed on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nontransmissible designates not acquirable by inheritance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not acquirable by inheritance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of disease) not capable of being passed on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nontransmissible designates not acquirable by inheritance."*

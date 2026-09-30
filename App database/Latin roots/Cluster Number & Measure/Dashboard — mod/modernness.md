@@ -5,13 +5,6 @@ status: unread
 ---
 # modernness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being current or of the present.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being current or of the present.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"These houses opposite, compared with Gable Inn, are of a mushroom modernness, and yet are old enough (having begun with a debauched and sickly constitution) to have fallen into an almost complete decrepitude."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being current or of the present.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being current or of the present.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"These houses opposite, compared with Gable Inn, are of a mushroom modernness, and yet are old enough (having begun with a debauched and sickly constitution) to have fallen into an almost complete decrepitude."*

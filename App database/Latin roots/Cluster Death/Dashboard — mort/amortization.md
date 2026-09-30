@@ -5,13 +5,6 @@ status: unread
 ---
 # amortization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The reduction of the value of an asset by prorating its cost over a period of years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Payment of an obligation in a series of installments or transfers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The loan is repaid by the farmers under a regular plan of amortization."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The reduction of the value of an asset by prorating its cost over a period of years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Payment of an obligation in a series of installments or transfers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The loan is repaid by the farmers under a regular plan of amortization."*

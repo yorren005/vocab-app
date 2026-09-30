@@ -5,13 +5,6 @@ status: unread
 ---
 # planoconvex
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flat on one side and convex on the other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flat on one side and convex on the other.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The free zoospores are of the form of a planoconvex lens, obtuse at the edge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flat on one side and convex on the other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flat on one side and convex on the other.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The free zoospores are of the form of a planoconvex lens, obtuse at the edge."*

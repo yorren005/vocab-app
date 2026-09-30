@@ -5,13 +5,6 @@ status: unread
 ---
 # arachnid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class (Arachnida) of arthropods comprising chiefly terrestrial invertebrates, including the spiders, scorpions, mites, and ticks, and having a segmented body divided into two regions of which the anterior bears four pairs of legs but no antennae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class (Arachnida) of arthropods comprising chiefly terrestrial invertebrates, including the spiders, scorpions, mites, and ticks, and having a segmented body divided into two regions of which the anterior bears four pairs of legs but no antennae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arachnid designates any of a class (arachnida) of arthropods comprising chiefly terrestrial invertebrates, including the spiders, scorpions, mites, and ticks, and having a segmented body divided into two regions of which the anterior bears four pairs of legs but no antennae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class (Arachnida) of arthropods comprising chiefly terrestrial invertebrates, including the spiders, scorpions, mites, and ticks, and having a segmented body divided into two regions of which the anterior bears four pairs of legs but no antennae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class (Arachnida) of arthropods comprising chiefly terrestrial invertebrates, including the spiders, scorpions, mites, and ticks, and having a segmented body divided into two regions of which the anterior bears four pairs of legs but no antennae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arachnid designates any of a class (arachnida) of arthropods comprising chiefly terrestrial invertebrates, including the spiders, scorpions, mites, and ticks, and having a segmented body divided into two regions of which the anterior bears four pairs of legs but no antennae."*

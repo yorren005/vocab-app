@@ -5,13 +5,6 @@ status: unread
 ---
 # ergometer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for measuring the work performed (as by a person exercising); also : an exercise machine equipped with an ergometer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus for measuring the work performed (as by a person exercising); also : an exercise machine equipped with an ergometer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ergometer designates an apparatus for measuring the work performed (as by a person exercising); also : an exercise machine equipped with an ergometer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for measuring the work performed (as by a person exercising); also : an exercise machine equipped with an ergometer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus for measuring the work performed (as by a person exercising); also : an exercise machine equipped with an ergometer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ergometer designates an apparatus for measuring the work performed (as by a person exercising); also : an exercise machine equipped with an ergometer."*

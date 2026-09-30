@@ -5,15 +5,6 @@ status: unread
 ---
 # apposite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being of striking appropriateness and pertinence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being of striking appropriateness and pertinence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I want to make a confession to you, Love.” This, from him, so unexpectedly apposite, had the effect upon her of a Providential interposition."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"She had a great command of vigorous Scotch, and a large stock of homely proverbs, of which she made frequent and apposite use."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The constitution of Maryland furnishes the most apposite example."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being of striking appropriateness and pertinence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being of striking appropriateness and pertinence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I want to make a confession to you, Love.” This, from him, so unexpectedly apposite, had the effect upon her of a Providential interposition."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"She had a great command of vigorous Scotch, and a large stock of homely proverbs, of which she made frequent and apposite use."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The constitution of Maryland furnishes the most apposite example."*

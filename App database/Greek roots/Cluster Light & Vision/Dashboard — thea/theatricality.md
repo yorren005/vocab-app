@@ -5,14 +5,6 @@ status: unread
 ---
 # theatricality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial and mannered quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial and mannered quality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Aurelius, xi, 3, the criticism of the theatricality of the Christians."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"There are no theatricalities in his style--he is not a rhetorician even on paper.[41] He discards the tricks of the school, adoxography, epigram and, as a rule, paradox."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial and mannered quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial and mannered quality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Aurelius, xi, 3, the criticism of the theatricality of the Christians."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"There are no theatricalities in his style--he is not a rhetorician even on paper.[41] He discards the tricks of the school, adoxography, epigram and, as a rule, paradox."*

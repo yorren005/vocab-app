@@ -5,15 +5,6 @@ status: unread
 ---
 # regardful
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing deference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing deference.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel, to whom her face was as the uncertain glory of an April day, was ever regardful of its faintest changes, and instantly discerned thereon the mark of some influence from without, in the form of a keenly self-conscious reddening."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Not considering in how different a circle she had been just seeing him, nor how much might be owing to contrast, she was quite persuaded of his being astonishingly more gentle and regardful of others than formerly."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I must be regardful of insurmountable limits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing deference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing deference.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel, to whom her face was as the uncertain glory of an April day, was ever regardful of its faintest changes, and instantly discerned thereon the mark of some influence from without, in the form of a keenly self-conscious reddening."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Not considering in how different a circle she had been just seeing him, nor how much might be owing to contrast, she was quite persuaded of his being astonishingly more gentle and regardful of others than formerly."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I must be regardful of insurmountable limits."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # gender
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grammatical category in inflected languages governing the agreement between nouns and pronouns and adjectives; in some languages it is quite arbitrary but in indo-european languages it is usually based on sex or animateness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The properties that distinguish organisms on the basis of their reproductive roles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thou treble-dated crow, That thy sable gender mak’st With the breath thou giv’st and tak’st, ’Mongst our mourners shalt thou go."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Perhaps his exalted appreciation of the merits of the old girl causes him usually to make the noun-substantive “goodness” of the feminine gender."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Of Eve’s first fire he has a cinder; Auld Tubalcain’s fire-shool and fender; That which distinguished the gender O’ Balaam’s ass: A broomstick o’ the witch of Endor, Weel shod wi’ brass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A grammatical category in inflected languages governing the agreement between nouns and pronouns and adjectives; in some languages it is quite arbitrary but in indo-european languages it is usually based on sex or animateness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The properties that distinguish organisms on the basis of their reproductive roles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thou treble-dated crow, That thy sable gender mak’st With the breath thou giv’st and tak’st, ’Mongst our mourners shalt thou go."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Perhaps his exalted appreciation of the merits of the old girl causes him usually to make the noun-substantive “goodness” of the feminine gender."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Of Eve’s first fire he has a cinder; Auld Tubalcain’s fire-shool and fender; That which distinguished the gender O’ Balaam’s ass: A broomstick o’ the witch of Endor, Weel shod wi’ brass."*

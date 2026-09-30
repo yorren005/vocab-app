@@ -5,15 +5,6 @@ status: unread
 ---
 # robertson
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states basketball guard (born in 1938).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states basketball guard (born in 1938).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Robertson, Alexander MacEwen, Joseph Leckie, and William Graham."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Robertson of Irvine used to lay claim to having been the pioneer of these "landlouping students of divinity." John Ker and others followed him; and when Cairns set out in 1843, quite a large company of old friends were expected to meet at Berlin."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Robertson of Irvine; and, later, Dr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states basketball guard (born in 1938).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states basketball guard (born in 1938).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Robertson, Alexander MacEwen, Joseph Leckie, and William Graham."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Robertson of Irvine used to lay claim to having been the pioneer of these "landlouping students of divinity." John Ker and others followed him; and when Cairns set out in 1843, quite a large company of old friends were expected to meet at Berlin."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Robertson of Irvine; and, later, Dr."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # pennsylvanian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From 310 million to 280 million years ago; warm climate; swampy land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of pennsylvania.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Miss Mary Vance is a Pennsylvanian."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Billing and Miss Belle Robinson, the latter being also a Pennsylvanian, she commenced hospital work at Fredericksburg."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"A Pennsylvanian in any of the northern counties has, as we are told, but to cross the line to obtain the best security at seven per cent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From 310 million to 280 million years ago; warm climate; swampy land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of pennsylvania.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Miss Mary Vance is a Pennsylvanian."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Billing and Miss Belle Robinson, the latter being also a Pennsylvanian, she commenced hospital work at Fredericksburg."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"A Pennsylvanian in any of the northern counties has, as we are told, but to cross the line to obtain the best security at seven per cent."*

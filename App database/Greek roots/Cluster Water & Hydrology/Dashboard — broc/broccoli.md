@@ -5,13 +5,6 @@ status: unread
 ---
 # broccoli
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant with dense clusters of tight green flower buds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Branched green undeveloped flower heads.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, broccoli designates plant with dense clusters of tight green flower buds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant with dense clusters of tight green flower buds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Branched green undeveloped flower heads.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, broccoli designates plant with dense clusters of tight green flower buds."*

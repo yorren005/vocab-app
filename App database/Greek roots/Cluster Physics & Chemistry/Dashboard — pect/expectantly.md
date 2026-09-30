@@ -5,15 +5,6 @@ status: unread
 ---
 # expectantly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an expectant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an expectant manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli, please join the other children and stay there till I come," the mother interrupted herself, turning to the little girl, whose eyes had been expectantly glued on the visitor's face in the hope of hearing if the two boys were still locked up."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When the mother came back later on from the beds of the two younger children, the three elder ones sat expectantly around the table, for Kurt had told them of their mother's promise to tell them the story of the family of Wallerstätten that evening."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"What is her name," she asked expectantly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an expectant manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an expectant manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli, please join the other children and stay there till I come," the mother interrupted herself, turning to the little girl, whose eyes had been expectantly glued on the visitor's face in the hope of hearing if the two boys were still locked up."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When the mother came back later on from the beds of the two younger children, the three elder ones sat expectantly around the table, for Kurt had told them of their mother's promise to tell them the story of the family of Wallerstätten that evening."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"What is her name," she asked expectantly."*

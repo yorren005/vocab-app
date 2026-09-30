@@ -5,13 +5,6 @@ status: unread
 ---
 # plebiscite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vote by the electorate determining public opinion on a question of national importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vote by the electorate determining public opinion on a question of national importance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plebiscite designates a vote by the electorate determining public opinion on a question of national importance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vote by the electorate determining public opinion on a question of national importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vote by the electorate determining public opinion on a question of national importance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plebiscite designates a vote by the electorate determining public opinion on a question of national importance."*

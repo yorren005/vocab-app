@@ -5,15 +5,6 @@ status: unread
 ---
 # leonard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states writer of thrillers (born in 1925).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states writer of thrillers (born in 1925).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Produced by Kentuckiana Digital Library, David Garcia, Chuck Greif, Leonard Johnson and the Online Distributed Proofreading Team."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"In heaven, perhaps, new chances, one more chance-- {260} Four great walls in the New Jerusalem, Meted on each side by the angel’s reed, For Leonard, Rafael, Agnolo, and me To cover--the three first without a wife, While I have mine!"*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"John Leonard Hardenbergh, the author of the following Journal, was a native of Rosendale, Ulster County, in the Province of New York, born in the year 1748."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states writer of thrillers (born in 1925).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states writer of thrillers (born in 1925).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Produced by Kentuckiana Digital Library, David Garcia, Chuck Greif, Leonard Johnson and the Online Distributed Proofreading Team."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"In heaven, perhaps, new chances, one more chance-- {260} Four great walls in the New Jerusalem, Meted on each side by the angel’s reed, For Leonard, Rafael, Agnolo, and me To cover--the three first without a wife, While I have mine!"*
+> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"John Leonard Hardenbergh, the author of the following Journal, was a native of Rosendale, Ulster County, in the Province of New York, born in the year 1748."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # parousia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The time when Jesus Christ will return to judge humanity at the end of the world : second coming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The time when Jesus Christ will return to judge humanity at the end of the world : second coming.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parousia designates the time when jesus christ will return to judge humanity at the end of the world : second coming."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The time when Jesus Christ will return to judge humanity at the end of the world : second coming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The time when Jesus Christ will return to judge humanity at the end of the world : second coming.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parousia designates the time when jesus christ will return to judge humanity at the end of the world : second coming."*

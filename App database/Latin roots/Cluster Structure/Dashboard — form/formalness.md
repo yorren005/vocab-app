@@ -5,13 +5,6 @@ status: unread
 ---
 # formalness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A manner that strictly observes all forms and ceremonies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manner that strictly observes all forms and ceremonies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formalness designates a manner that strictly observes all forms and ceremonies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A manner that strictly observes all forms and ceremonies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manner that strictly observes all forms and ceremonies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formalness designates a manner that strictly observes all forms and ceremonies."*

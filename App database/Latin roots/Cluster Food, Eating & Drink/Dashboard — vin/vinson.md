@@ -5,13 +5,6 @@ status: unread
 ---
 # vinson
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states jurist who served as chief justice of the supreme court (1890-1953).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states jurist who served as chief justice of the supreme court (1890-1953).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinson designates united states jurist who served as chief justice of the supreme court (1890-1953)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states jurist who served as chief justice of the supreme court (1890-1953).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states jurist who served as chief justice of the supreme court (1890-1953).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vinson designates united states jurist who served as chief justice of the supreme court (1890-1953)."*

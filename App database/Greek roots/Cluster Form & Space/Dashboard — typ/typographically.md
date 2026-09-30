@@ -5,13 +5,6 @@ status: unread
 ---
 # typographically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a typographic way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a typographic way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The "Speculum Humanae Salvationes," attributed to Coster by Junius was partly a folio Latin block-book, and partly typographically printed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a typographic way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a typographic way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The "Speculum Humanae Salvationes," attributed to Coster by Junius was partly a folio Latin block-book, and partly typographically printed."*

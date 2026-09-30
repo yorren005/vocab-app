@@ -5,15 +5,6 @@ status: unread
 ---
 # departmental
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a department.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a department.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Commanders must use this plan and complement it with initiatives tailored to specific needs.' Over the following months the Army issued implementing Departmental, major command, and subordinate level Regulations, programs, and guides."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The character of the respective requirements of commercial job-plates and newspaper advertising plates make this departmental production advisable."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Instances of such departmental kings are not wanting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a department.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a department.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Commanders must use this plan and complement it with initiatives tailored to specific needs.' Over the following months the Army issued implementing Departmental, major command, and subordinate level Regulations, programs, and guides."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The character of the respective requirements of commercial job-plates and newspaper advertising plates make this departmental production advisable."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Instances of such departmental kings are not wanting."*

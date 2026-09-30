@@ -5,15 +5,6 @@ status: unread
 ---
 # impurity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthless or dangerous material that should be removed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being impure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But no perfection is so absolute That some impurity doth not pollute."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I admired spotlessness, even though I could lay no claim to it, and hated impurity, as I hope I do now."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It is on account of their reputation for impurity that the women generally live isolated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthless or dangerous material that should be removed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being impure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But no perfection is so absolute That some impurity doth not pollute."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I admired spotlessness, even though I could lay no claim to it, and hated impurity, as I hope I do now."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It is on account of their reputation for impurity that the women generally live isolated."*

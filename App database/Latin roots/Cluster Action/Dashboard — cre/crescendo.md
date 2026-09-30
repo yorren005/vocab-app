@@ -5,14 +5,6 @@ status: unread
 ---
 # crescendo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) a gradual increase in loudness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grow louder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"But a day of reckoning, he stated _crescendo_ with no uncertain voice, thoroughly monopolising all the conversation, was in store for mighty England, despite her power of pelf on account of her crimes."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Will you or will you not go to the devil?” rejoined Lottchen, with a comic crescendo; to which the other replied with a laugh."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +41,10 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) a gradual increase in loudness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grow louder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"But a day of reckoning, he stated _crescendo_ with no uncertain voice, thoroughly monopolising all the conversation, was in store for mighty England, despite her power of pelf on account of her crimes."*
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Will you or will you not go to the devil?” rejoined Lottchen, with a comic crescendo; to which the other replied with a laugh."*

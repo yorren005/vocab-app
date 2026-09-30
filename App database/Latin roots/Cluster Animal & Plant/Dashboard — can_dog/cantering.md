@@ -5,15 +5,6 @@ status: unread
 ---
 # cantering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ride at a canter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Go at a canter, of horses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"They had reached the front of the house, and were about to go in, when a boy on horseback came cantering up the avenue, and handed a telegram to Edward."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"They were cantering homeward as they talked."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I saw you on Saturday cantering over the hill on a nag not worthy of you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ride at a canter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Go at a canter, of horses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"They had reached the front of the house, and were about to go in, when a boy on horseback came cantering up the avenue, and handed a telegram to Edward."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"They were cantering homeward as they talked."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I saw you on Saturday cantering over the hill on a nag not worthy of you."*

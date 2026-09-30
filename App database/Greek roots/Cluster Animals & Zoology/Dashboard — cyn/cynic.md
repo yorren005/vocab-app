@@ -5,15 +5,6 @@ status: unread
 ---
 # cynic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A faultfinding captious critic; especially : one who believes that human conduct is motivated wholly by self-interest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adherent of an ancient Greek school of philosophers who held the view that virtue is the only good and that its essence lies in self-control and independence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How vilely doth this cynic rhyme!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Cynical things he had uttered to himself about her; but no man can be always a cynic and live; and he withdrew them."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"A pure cynic, he let into his mind, on an easy footing, primitive desires that the average man admits only behind a screen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A faultfinding captious critic; especially : one who believes that human conduct is motivated wholly by self-interest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adherent of an ancient Greek school of philosophers who held the view that virtue is the only good and that its essence lies in self-control and independence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How vilely doth this cynic rhyme!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Cynical things he had uttered to himself about her; but no man can be always a cynic and live; and he withdrew them."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"A pure cynic, he let into his mind, on an easy footing, primitive desires that the average man admits only behind a screen."*

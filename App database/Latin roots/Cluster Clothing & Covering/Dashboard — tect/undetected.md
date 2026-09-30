@@ -5,15 +5,6 @@ status: unread
 ---
 # undetected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not perceived or discerned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not perceived or discerned.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"What is yonder undetected villain’s marble mansion with a door-plate for a waif; what is that but a Fast-Fish?"*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"This is perhaps one of the hardest things an undetected criminal has to endure, that he lives in a world of suspicion of his own making, where every imagination is real and as dreadful as the fact."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"What is yonder undetected villain’s marble mansion with a door-plate for a waif; what is that but a Fast-Fish?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not perceived or discerned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not perceived or discerned.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"What is yonder undetected villain’s marble mansion with a door-plate for a waif; what is that but a Fast-Fish?"*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"This is perhaps one of the hardest things an undetected criminal has to endure, that he lives in a world of suspicion of his own making, where every imagination is real and as dreadful as the fact."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"What is yonder undetected villain’s marble mansion with a door-plate for a waif; what is that but a Fast-Fish?"*

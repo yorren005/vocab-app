@@ -5,13 +5,6 @@ status: unread
 ---
 # locoweed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several leguminous plants of western north america causing locoism in livestock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Street names for marijuana.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, locoweed designates any of several leguminous plants of western north america causing locoism in livestock."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several leguminous plants of western north america causing locoism in livestock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Street names for marijuana.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, locoweed designates any of several leguminous plants of western north america causing locoism in livestock."*

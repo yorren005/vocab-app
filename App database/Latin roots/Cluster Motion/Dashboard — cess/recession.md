@@ -5,13 +5,6 @@ status: unread
 ---
 # recession
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of the economy declines; a widespread decline in the gdp and employment and trade lasting from six months to a year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small concavity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recession designates the state of the economy declines; a widespread decline in the gdp and employment and trade lasting from six months to a year."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of the economy declines; a widespread decline in the gdp and employment and trade lasting from six months to a year.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small concavity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recession designates the state of the economy declines; a widespread decline in the gdp and employment and trade lasting from six months to a year."*

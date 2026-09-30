@@ -5,15 +5,6 @@ status: unread
 ---
 # extenuate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lessen or to try to lessen the seriousness or extent of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lessen or to try to lessen the seriousness or extent of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cleopatra, know We will extenuate rather than enforce."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You may not so extenuate his offence For I have had such faults; but rather tell me, When I that censure him do so offend, Let mine own judgement pattern out my death, And nothing come in partial."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have some private schooling for you both.— For you, fair Hermia, look you arm yourself To fit your fancies to your father’s will, Or else the law of Athens yields you up (Which by no means we may extenuate) To death, or to a vow of single life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lessen or to try to lessen the seriousness or extent of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lessen or to try to lessen the seriousness or extent of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cleopatra, know We will extenuate rather than enforce."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You may not so extenuate his offence For I have had such faults; but rather tell me, When I that censure him do so offend, Let mine own judgement pattern out my death, And nothing come in partial."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have some private schooling for you both.— For you, fair Hermia, look you arm yourself To fit your fancies to your father’s will, Or else the law of Athens yields you up (Which by no means we may extenuate) To death, or to a vow of single life."*

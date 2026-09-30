@@ -5,13 +5,6 @@ status: unread
 ---
 # norm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A standard or model or pattern regarded as typical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statistic describing the location of a distribution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But at the heart of the notion was the judgment that general uniform prices fixed in the open market are the proper norms for prices when one of the traders is caught at an exceptional disadvantage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A standard or model or pattern regarded as typical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statistic describing the location of a distribution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But at the heart of the notion was the judgment that general uniform prices fixed in the open market are the proper norms for prices when one of the traders is caught at an exceptional disadvantage."*

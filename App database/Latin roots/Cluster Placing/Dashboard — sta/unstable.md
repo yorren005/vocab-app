@@ -5,15 +5,6 @@ status: unread
 ---
 # unstable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking stability or fixity or firmness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Highly or violently reactive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Because of it, a few short weeks hence, I shall be led from this cell to a high place with unstable flooring, graced above by a well-stretched rope; and there they will hang me by the neck until I am dead."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It sees, tho not quite clearly, that such action makes an unstable equilibrium of wages which tempts to constant friction and discord with employers and with unorganized laborers."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In another point of view, great injury results from an unstable government."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking stability or fixity or firmness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Highly or violently reactive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Because of it, a few short weeks hence, I shall be led from this cell to a high place with unstable flooring, graced above by a well-stretched rope; and there they will hang me by the neck until I am dead."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It sees, tho not quite clearly, that such action makes an unstable equilibrium of wages which tempts to constant friction and discord with employers and with unorganized laborers."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In another point of view, great injury results from an unstable government."*

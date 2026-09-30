@@ -5,13 +5,6 @@ status: unread
 ---
 # pravastatin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oral drug (trade name pravachol) administered to reduce blood cholesterol levels; recommended after nonfatal heart attacks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oral drug (trade name pravachol) administered to reduce blood cholesterol levels; recommended after nonfatal heart attacks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pravastatin designates an oral drug (trade name pravachol) administered to reduce blood cholesterol levels; recommended after nonfatal heart attacks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oral drug (trade name pravachol) administered to reduce blood cholesterol levels; recommended after nonfatal heart attacks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oral drug (trade name pravachol) administered to reduce blood cholesterol levels; recommended after nonfatal heart attacks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pravastatin designates an oral drug (trade name pravachol) administered to reduce blood cholesterol levels; recommended after nonfatal heart attacks."*

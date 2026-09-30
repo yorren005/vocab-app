@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing combined water (especially water of crystallization as in a hydrate).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing combined water (especially water of crystallization as in a hydrate).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrous designates containing combined water (especially water of crystallization as in a hydrate)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing combined water (especially water of crystallization as in a hydrate).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing combined water (especially water of crystallization as in a hydrate).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrous designates containing combined water (especially water of crystallization as in a hydrate)."*

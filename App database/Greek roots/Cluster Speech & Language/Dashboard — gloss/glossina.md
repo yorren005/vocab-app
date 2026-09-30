@@ -5,13 +5,6 @@ status: unread
 ---
 # glossina
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bloodsucking african fly; transmits sleeping sickness etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bloodsucking african fly; transmits sleeping sickness etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossina designates bloodsucking african fly; transmits sleeping sickness etc."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bloodsucking african fly; transmits sleeping sickness etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bloodsucking african fly; transmits sleeping sickness etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossina designates bloodsucking african fly; transmits sleeping sickness etc."*

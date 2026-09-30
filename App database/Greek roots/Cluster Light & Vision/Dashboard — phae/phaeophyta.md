@@ -5,13 +5,6 @@ status: unread
 ---
 # phaeophyta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with class phaeophyceae; in some classifications subsumed in the division heterokontophyta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with class phaeophyceae; in some classifications subsumed in the division heterokontophyta.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phaeophyta designates coextensive with class phaeophyceae; in some classifications subsumed in the division heterokontophyta."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with class phaeophyceae; in some classifications subsumed in the division heterokontophyta.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with class phaeophyceae; in some classifications subsumed in the division heterokontophyta.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phaeophyta designates coextensive with class phaeophyceae; in some classifications subsumed in the division heterokontophyta."*

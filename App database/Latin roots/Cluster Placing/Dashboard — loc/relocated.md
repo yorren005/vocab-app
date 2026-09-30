@@ -5,13 +5,6 @@ status: unread
 ---
 # relocated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become established in a new location.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move or establish in a new location.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relocated designates become established in a new location."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become established in a new location.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move or establish in a new location.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relocated designates become established in a new location."*

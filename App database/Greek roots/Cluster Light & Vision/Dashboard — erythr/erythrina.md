@@ -5,13 +5,6 @@ status: unread
 ---
 # erythrina
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various shrubs or shrubby trees of the genus erythrina having trifoliate leaves and racemes of scarlet to coral red flowers and black seeds; cultivated as an ornamental.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various shrubs or shrubby trees of the genus erythrina having trifoliate leaves and racemes of scarlet to coral red flowers and black seeds; cultivated as an ornamental.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"He started for Manoa at dawn, and proceeded as far as Mahinauli, in mid-valley, where he rested under a hala (_Pandanus odoratissimus_) tree that grew in the grove of wiliwili (_Erythrina monosperma_)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various shrubs or shrubby trees of the genus erythrina having trifoliate leaves and racemes of scarlet to coral red flowers and black seeds; cultivated as an ornamental.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various shrubs or shrubby trees of the genus erythrina having trifoliate leaves and racemes of scarlet to coral red flowers and black seeds; cultivated as an ornamental.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"He started for Manoa at dawn, and proceeded as far as Mahinauli, in mid-valley, where he rested under a hala (_Pandanus odoratissimus_) tree that grew in the grove of wiliwili (_Erythrina monosperma_)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # neuroepithelioma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Malignant tumor of the neuroepithelium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Malignant tumor of the neuroepithelium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroepithelioma designates malignant tumor of the neuroepithelium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Malignant tumor of the neuroepithelium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Malignant tumor of the neuroepithelium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroepithelioma designates malignant tumor of the neuroepithelium."*

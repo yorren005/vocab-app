@@ -5,15 +5,6 @@ status: unread
 ---
 # affable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diffusing warmth and friendliness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diffusing warmth and friendliness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He nor that affable familiar ghost Which nightly gulls him with intelligence, As victors of my silence cannot boast, I was not sick of any fear from thence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In faith, he is a worthy gentleman, Exceedingly well read, and profited In strange concealments, valiant as a lion, And wondrous affable, and as bountiful As mines of India."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We know the time since he was mild and affable; And if we did but glance a far-off look, Immediately he was upon his knee, That all the court admired him for submission."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Diffusing warmth and friendliness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diffusing warmth and friendliness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He nor that affable familiar ghost Which nightly gulls him with intelligence, As victors of my silence cannot boast, I was not sick of any fear from thence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In faith, he is a worthy gentleman, Exceedingly well read, and profited In strange concealments, valiant as a lion, And wondrous affable, and as bountiful As mines of India."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We know the time since he was mild and affable; And if we did but glance a far-off look, Immediately he was upon his knee, That all the court admired him for submission."*

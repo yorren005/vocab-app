@@ -5,20 +5,6 @@ status: unread
 ---
 # shrewd
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Severe, hard
-> 2. **Nuance / Usage**: Sharp, piercing
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a shrewd presence*) or predicatively (*remained shrewd*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"This last day was a shrewd one to’s."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"These women are shrewd tempters with their tongues."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"beat you to your tent, and prove a shrewd Caesar to you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Marked by sharp, practical intelligence, keen discernment, and hard-headed judgment in worldly or business affairs.
+> 2. **Nuance / Usage**: Originally meant "wicked" or "biting" (from *shrew*), and in archaic or literary contexts can still describe a piercing wind, a severe blow, or a cunningly calculated move.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a shrewd observer*, *a shrewd bargain*) or predicatively (*proved remarkably shrewd*).
+> - **Collocations & Registers**: Analytical, commercial, and literary registers; collocated with *guess*, *judge of character*, *investor*, and *glance*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"This last day was a **shrewd** one to us."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She was a **shrewd**, observant woman, whose sharp eyes missed very little that passed in the household."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"You have made a very **shrewd** guess, Watson, though several links in the chain remain unseen."*

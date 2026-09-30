@@ -5,15 +5,6 @@ status: unread
 ---
 # heralded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Foreshadow or presage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Praise vociferously.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Once more the approach of the stranger was heralded, and the intelligence operated upon me like magic."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The dawns were heralded by the descent of a chill stillness; the wood-cutters slept, their fires burned low; the snapping of a twig would make you start."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"This time her approach was heralded by a snatch of song."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Foreshadow or presage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Praise vociferously.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Once more the approach of the stranger was heralded, and the intelligence operated upon me like magic."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The dawns were heralded by the descent of a chill stillness; the wood-cutters slept, their fires burned low; the snapping of a twig would make you start."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"This time her approach was heralded by a snatch of song."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # symbiosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The living together in more or less intimate association or close union of two dissimilar organisms (as in parasitism or commensalism); especially : mutualism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cooperative relationship (as between two persons or groups).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symbiosis designates the living together in more or less intimate association or close union of two dissimilar organisms (as in parasitism or commensalism); especially : mutualism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The living together in more or less intimate association or close union of two dissimilar organisms (as in parasitism or commensalism); especially : mutualism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cooperative relationship (as between two persons or groups).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symbiosis designates the living together in more or less intimate association or close union of two dissimilar organisms (as in parasitism or commensalism); especially : mutualism."*

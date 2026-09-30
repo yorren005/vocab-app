@@ -5,15 +5,6 @@ status: unread
 ---
 # detected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover or determine the existence, presence, or fact of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perceived or discerned.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I never heard the absent Duke much detected for women; he was not inclined that way."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A close criticism might have detected signs proving that she was intent on the latter alternative."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Soon his sharpened ear detected footsteps upon the stairs, at which his heart thumped so painfully that he could hardly stand firm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover or determine the existence, presence, or fact of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perceived or discerned.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I never heard the absent Duke much detected for women; he was not inclined that way."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A close criticism might have detected signs proving that she was intent on the latter alternative."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Soon his sharpened ear detected footsteps upon the stairs, at which his heart thumped so painfully that he could hardly stand firm."*

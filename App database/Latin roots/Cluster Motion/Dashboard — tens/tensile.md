@@ -5,15 +5,6 @@ status: unread
 ---
 # tensile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to tension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being shaped or bent or drawn out.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The average test on a number of plates gave— Tensile strength, 14·66 tons per square inch."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The worked metal is softened on annealing. _Tensile Strength and Elongation._—The strength of copper, being a property of such practical importance, has been the subject of much extended investigation."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The tensile strength of pure cast copper is 8 to 9 tons per square inch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to tension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being shaped or bent or drawn out.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The average test on a number of plates gave— Tensile strength, 14·66 tons per square inch."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The worked metal is softened on annealing. _Tensile Strength and Elongation._—The strength of copper, being a property of such practical importance, has been the subject of much extended investigation."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The tensile strength of pure cast copper is 8 to 9 tons per square inch."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # ebionite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a group of jews who (during the early history of the christian church) accepted jesus as the messiah; they accepted the gospel according to matthew but rejected the epistles of st. paul and continued to follow jewish law and celebrate jewish holidays; they were later declared heretic by the church of rome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the ebionites or their religion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"And see, especially, the able articles, “Cerinthus” and “Ebionism and Ebionites”, in the ‘Dictionary of Christian Biography’, etc., edited by Dr."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Luke were asserted to have spoken and written against Ebionites."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a group of jews who (during the early history of the christian church) accepted jesus as the messiah; they accepted the gospel according to matthew but rejected the epistles of st. paul and continued to follow jewish law and celebrate jewish holidays; they were later declared heretic by the church of rome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the ebionites or their religion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"And see, especially, the able articles, “Cerinthus” and “Ebionism and Ebionites”, in the ‘Dictionary of Christian Biography’, etc., edited by Dr."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Luke were asserted to have spoken and written against Ebionites."*

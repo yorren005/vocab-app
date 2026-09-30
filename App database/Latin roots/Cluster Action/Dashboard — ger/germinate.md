@@ -5,15 +5,6 @@ status: unread
 ---
 # germinate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Produce buds, branches, or germinate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work out.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Most poets, probably, like most saints, are prepared for their mission by an initial segregation, as the seed is buried to germinate: before they can utter the oracle of poetry, they must first be divided from the body of men."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"This is a seed of such {327} force and vitality, that it does not ask our leave to germinate." [Sidenote: On baptism] There were yet other possibilities in martyrdom."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"West imp. ] Footnote 1: Protospores they should be called, because, in fact, they germinate, and on the threads thus produced the true spores, or fruit, are borne."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Produce buds, branches, or germinate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work out.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Most poets, probably, like most saints, are prepared for their mission by an initial segregation, as the seed is buried to germinate: before they can utter the oracle of poetry, they must first be divided from the body of men."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"This is a seed of such {327} force and vitality, that it does not ask our leave to germinate." [Sidenote: On baptism] There were yet other possibilities in martyrdom."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"West imp. ] Footnote 1: Protospores they should be called, because, in fact, they germinate, and on the threads thus produced the true spores, or fruit, are borne."*

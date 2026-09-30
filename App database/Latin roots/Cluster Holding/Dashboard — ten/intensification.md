@@ -5,15 +5,6 @@ status: unread
 ---
 # intensification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Action that makes something stronger or more extreme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of increasing the contrast of (a photographic film).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Deepest love. [July 13, 1947] EVIDENCES OF NOTABLE EXPANSION Greatly welcome evidences of a notable expansion of activities and increased intensification of efforts for publicity."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"I am fervently praying that further intensification of effort, sustained, coordinated, consecrated and unanimously exerted, will sweep its members on crest of the wave to total victory."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Urge intensification of efforts, rededication and achievement of goals of Plan in order to discharge befittingly the sacred, manifold, inescapable, urgent responsibilities confronting the entire American Bahá'í Community."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Action that makes something stronger or more extreme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of increasing the contrast of (a photographic film).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Deepest love. [July 13, 1947] EVIDENCES OF NOTABLE EXPANSION Greatly welcome evidences of a notable expansion of activities and increased intensification of efforts for publicity."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"I am fervently praying that further intensification of effort, sustained, coordinated, consecrated and unanimously exerted, will sweep its members on crest of the wave to total victory."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Urge intensification of efforts, rededication and achievement of goals of Plan in order to discharge befittingly the sacred, manifold, inescapable, urgent responsibilities confronting the entire American Bahá'í Community."*

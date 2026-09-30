@@ -5,15 +5,6 @@ status: unread
 ---
 # flavour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The general atmosphere of a place or situation and the effect that it has on people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) the six kinds of quarks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"On Sunday the chill little church is almost warmed by so much gallant company, and the general flavour of the Dedlock dust is quenched in delicate perfumes."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"On all the house there is a cold, blank smell like the smell of a little church, though something dryer, suggesting that the dead and buried Dedlocks walk there in the long nights and leave the flavour of their graves behind them."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Weevle, that you’re—not to put too fine a point upon it—that you’re rather greasy here, sir?” “Why, I have noticed myself that there is a queer kind of flavour in the place to-night,” Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The general atmosphere of a place or situation and the effect that it has on people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) the six kinds of quarks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"On Sunday the chill little church is almost warmed by so much gallant company, and the general flavour of the Dedlock dust is quenched in delicate perfumes."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"On all the house there is a cold, blank smell like the smell of a little church, though something dryer, suggesting that the dead and buried Dedlocks walk there in the long nights and leave the flavour of their graves behind them."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Weevle, that you’re—not to put too fine a point upon it—that you’re rather greasy here, sir?” “Why, I have noticed myself that there is a queer kind of flavour in the place to-night,” Mr."*

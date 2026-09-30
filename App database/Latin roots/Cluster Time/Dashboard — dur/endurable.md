@@ -5,15 +5,6 @@ status: unread
 ---
 # endurable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being borne though unpleasant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being borne though unpleasant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Garth felt a severe twinge at this mention of her husband, the fear that Caleb might think her in the wrong not being easily endurable."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"A thousand times I thought how much more endurable would have been my lot had Toby still been with me."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"A sedan-chair is too luxurious to be long endurable, so I added a pony to our caravan, purchased, from a home-going Dane of the customs service, for forty-four dollars Mexican."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being borne though unpleasant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being borne though unpleasant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Garth felt a severe twinge at this mention of her husband, the fear that Caleb might think her in the wrong not being easily endurable."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"A thousand times I thought how much more endurable would have been my lot had Toby still been with me."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"A sedan-chair is too luxurious to be long endurable, so I added a pony to our caravan, purchased, from a home-going Dane of the customs service, for forty-four dollars Mexican."*

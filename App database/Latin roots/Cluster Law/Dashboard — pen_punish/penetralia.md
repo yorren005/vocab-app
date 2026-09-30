@@ -5,14 +5,6 @@ status: unread
 ---
 # penetralia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The innermost parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The innermost parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In these penetralia were chairs and a table, which, on candles being lighted, made quite a cozy and luxurious show, with an urn, plated tea and coffee pots, china teacups, and plum cakes."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In these penetralia were chairs and a table, which, on candles being lighted, made quite a cozy and luxurious show, with an urn, silver tea and coffee pots, china teacups, and plum cakes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The innermost parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The innermost parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In these penetralia were chairs and a table, which, on candles being lighted, made quite a cozy and luxurious show, with an urn, plated tea and coffee pots, china teacups, and plum cakes."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In these penetralia were chairs and a table, which, on candles being lighted, made quite a cozy and luxurious show, with an urn, silver tea and coffee pots, china teacups, and plum cakes."*

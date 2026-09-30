@@ -5,15 +5,6 @@ status: unread
 ---
 # indispensable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not to be dispensed with; essential.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absolutely necessary; vitally necessary.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In short,” says the trooper, folding his arms more resolutely yet, “I mean—TO—scratch me!” “My dear George,” returns his brother, “is it so indispensable that you should undergo that process?” “Quite!"*
-> - 📜 **Jane Austen (*Persuasion*):** *"She considered it as an act of indispensable duty to clear away the claims of creditors with all the expedition which the most comprehensive retrenchments could secure, and saw no dignity in anything short of it."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For these the indispensable conditions of existence are attachment to the soil of one particular spot by generation after generation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not to be dispensed with; essential.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absolutely necessary; vitally necessary.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"In short,” says the trooper, folding his arms more resolutely yet, “I mean—TO—scratch me!” “My dear George,” returns his brother, “is it so indispensable that you should undergo that process?” “Quite!"*
+> - 📜 **Jane Austen (*Persuasion*):** *"She considered it as an act of indispensable duty to clear away the claims of creditors with all the expedition which the most comprehensive retrenchments could secure, and saw no dignity in anything short of it."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For these the indispensable conditions of existence are attachment to the soil of one particular spot by generation after generation."*

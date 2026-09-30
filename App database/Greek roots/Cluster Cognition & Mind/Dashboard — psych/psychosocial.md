@@ -5,13 +5,6 @@ status: unread
 ---
 # psychosocial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving both psychological and social aspects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating social conditions to mental health.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You mentioned 'three men and three women'; your mission can not exclude gender compatibility consistent with the prevailing psychosocial construct -- this is what we are."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving both psychological and social aspects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating social conditions to mental health.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You mentioned 'three men and three women'; your mission can not exclude gender compatibility consistent with the prevailing psychosocial construct -- this is what we are."*

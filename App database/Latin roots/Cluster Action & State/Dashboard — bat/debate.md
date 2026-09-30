@@ -5,15 +5,6 @@ status: unread
 ---
 # debate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A discussion in which reasons are advanced for and against some proposition or proposal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal presentation of a stated proposition and the opposition to it (usually followed by a vote).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he were living, I would try him yet;— Lend me an arm;—the rest have worn me out With several applications; nature and sickness Debate it at their leisure."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When we debate Our trivial difference loud, we do commit Murder in healing wounds."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will debate this matter at more leisure, And teach your ears to list me with more heed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A discussion in which reasons are advanced for and against some proposition or proposal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal presentation of a stated proposition and the opposition to it (usually followed by a vote).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he were living, I would try him yet;— Lend me an arm;—the rest have worn me out With several applications; nature and sickness Debate it at their leisure."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When we debate Our trivial difference loud, we do commit Murder in healing wounds."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will debate this matter at more leisure, And teach your ears to list me with more heed."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # cornerstone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fundamental assumptions from which something is begun or developed or calculated or explained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stone in the exterior of a large and important building; usually carved with a date and laid with appropriate ceremonies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See you yond coign o’ the Capitol, yond cornerstone?"*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"It was in the vicinity of this community's earliest established center that He laid, with His own hands, the cornerstone of the first Ma_sh_riqu'l-A_dh_kár of the western world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fundamental assumptions from which something is begun or developed or calculated or explained.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stone in the exterior of a large and important building; usually carved with a date and laid with appropriate ceremonies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"See you yond coign o’ the Capitol, yond cornerstone?"*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"It was in the vicinity of this community's earliest established center that He laid, with His own hands, the cornerstone of the first Ma_sh_riqu'l-A_dh_kár of the western world."*

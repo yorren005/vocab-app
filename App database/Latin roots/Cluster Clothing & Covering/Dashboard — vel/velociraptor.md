@@ -5,13 +5,6 @@ status: unread
 ---
 # velociraptor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small active carnivore that probably fed on protoceratops; possibly related more closely to birds than to other dinosaurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small active carnivore that probably fed on protoceratops; possibly related more closely to birds than to other dinosaurs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, velociraptor designates small active carnivore that probably fed on protoceratops; possibly related more closely to birds than to other dinosaurs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small active carnivore that probably fed on protoceratops; possibly related more closely to birds than to other dinosaurs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small active carnivore that probably fed on protoceratops; possibly related more closely to birds than to other dinosaurs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, velociraptor designates small active carnivore that probably fed on protoceratops; possibly related more closely to birds than to other dinosaurs."*

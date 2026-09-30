@@ -5,13 +5,6 @@ status: unread
 ---
 # standee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who stands in a place where one might otherwise sit (as a spectator who uses standing room in a theater or a passenger on a crowded bus or train).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lifesize cardboard cutout (usually of a celebrity).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **O. Henry (*My tussle with the devil, and other stories*):** *"Where’d you find him, Pete?” inquired a sour-visaged standee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who stands in a place where one might otherwise sit (as a spectator who uses standing room in a theater or a passenger on a crowded bus or train).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lifesize cardboard cutout (usually of a celebrity).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **O. Henry (*My tussle with the devil, and other stories*):** *"Where’d you find him, Pete?” inquired a sour-visaged standee."*

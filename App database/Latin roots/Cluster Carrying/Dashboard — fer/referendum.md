@@ -5,14 +5,6 @@ status: unread
 ---
 # referendum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A legislative act is referred for final approval to a popular vote by the electorate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A legislative act is referred for final approval to a popular vote by the electorate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Let a national referendum, he says, be held on the question of reform, and let it be agreed that the result shall be binding on Parliament; he himself will contribute 100 pounds a year (one-tenth of his income) to the expenses of organisation."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Foreign ministers, says Sir William Temple, who was himself a foreign minister, elude matters taken ad referendum, by tampering with the provinces and cities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A legislative act is referred for final approval to a popular vote by the electorate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A legislative act is referred for final approval to a popular vote by the electorate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Let a national referendum, he says, be held on the question of reform, and let it be agreed that the result shall be binding on Parliament; he himself will contribute 100 pounds a year (one-tenth of his income) to the expenses of organisation."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Foreign ministers, says Sir William Temple, who was himself a foreign minister, elude matters taken ad referendum, by tampering with the provinces and cities."*

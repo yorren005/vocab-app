@@ -5,15 +5,6 @@ status: unread
 ---
 # elixir
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance held capable of changing base metals into gold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance held capable of prolonging life indefinitely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The air of the moors, the freedom of home, the dawn of prosperity, acted on Diana and Mary’s spirits like some life-giving elixir: they were gay from morning till noon, and from noon till night."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"At the best of times, so much of this elixir was administered to me as a choice restorative, that I was conscious of going about, smelling like a new fence."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Then I let my eyes uncover my heart full of the elixir I had prepared for him, and offered him as much as he could drink."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance held capable of changing base metals into gold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance held capable of prolonging life indefinitely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The air of the moors, the freedom of home, the dawn of prosperity, acted on Diana and Mary’s spirits like some life-giving elixir: they were gay from morning till noon, and from noon till night."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"At the best of times, so much of this elixir was administered to me as a choice restorative, that I was conscious of going about, smelling like a new fence."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Then I let my eyes uncover my heart full of the elixir I had prepared for him, and offered him as much as he could drink."*

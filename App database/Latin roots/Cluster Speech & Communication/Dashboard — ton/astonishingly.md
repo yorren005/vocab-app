@@ -5,15 +5,6 @@ status: unread
 ---
 # astonishingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an amazing manner; to everyone's surprise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an amazing manner; to everyone's surprise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"More than this—astonishingly more—his head was upon her lap, his face and neck were disagreeably wet, and her fingers were unbuttoning his collar."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"But the quality of his early work was astonishingly bad."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Not considering in how different a circle she had been just seeing him, nor how much might be owing to contrast, she was quite persuaded of his being astonishingly more gentle and regardful of others than formerly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an amazing manner; to everyone's surprise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an amazing manner; to everyone's surprise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"More than this—astonishingly more—his head was upon her lap, his face and neck were disagreeably wet, and her fingers were unbuttoning his collar."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"But the quality of his early work was astonishingly bad."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Not considering in how different a circle she had been just seeing him, nor how much might be owing to contrast, she was quite persuaded of his being astonishingly more gentle and regardful of others than formerly."*

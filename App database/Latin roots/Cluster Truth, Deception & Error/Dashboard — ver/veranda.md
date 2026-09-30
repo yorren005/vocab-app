@@ -5,15 +5,6 @@ status: unread
 ---
 # veranda
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A porch along the outside of a building (sometimes partly enclosed).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A porch along the outside of a building (sometimes partly enclosed).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Carry up her satchel, and see that she has every thing she wants." Having given the order, Zoe stepped out to the veranda where Edward still was, having staid behind to give directions in regard to the horses."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Wouldn't it be well for you to advise her never to set foot on that dangerous veranda again?" Arthur smiled."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Now let us make haste to get our breakfast, and then attend to the finishing touches needed by the house and our own persons." "Stay," said Edward, detaining her as she was starting up the steps into the veranda."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A porch along the outside of a building (sometimes partly enclosed).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A porch along the outside of a building (sometimes partly enclosed).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Carry up her satchel, and see that she has every thing she wants." Having given the order, Zoe stepped out to the veranda where Edward still was, having staid behind to give directions in regard to the horses."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Wouldn't it be well for you to advise her never to set foot on that dangerous veranda again?" Arthur smiled."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Now let us make haste to get our breakfast, and then attend to the finishing touches needed by the house and our own persons." "Stay," said Edward, detaining her as she was starting up the steps into the veranda."*

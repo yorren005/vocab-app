@@ -5,15 +5,6 @@ status: unread
 ---
 # belly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The region of the body of a vertebrate between the thorax and the pelvis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protruding abdomen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then the justice, In fair round belly with good capon lined, With eyes severe and beard of formal cut, Full of wise saws and modern instances; And so he plays his part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So you may put a man in your belly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The belly answered— FIRST CITIZEN."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The region of the body of a vertebrate between the thorax and the pelvis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protruding abdomen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then the justice, In fair round belly with good capon lined, With eyes severe and beard of formal cut, Full of wise saws and modern instances; And so he plays his part."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So you may put a man in your belly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The belly answered— FIRST CITIZEN."*

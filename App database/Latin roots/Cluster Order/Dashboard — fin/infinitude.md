@@ -5,15 +5,6 @@ status: unread
 ---
 # infinitude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An infinite quantity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being infinite; without bound or limit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"My overshadowing Spirit and Might with thee I send along; ride forth, and bid the Deep Within appointed bounds be Heaven and Earth; Boundless the Deep, because I Am who fill Infinitude, nor vacuous the space."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"So shall crown thee the topmost, ineffablest, uttermost crown-- And thy love fill infinitude wholly, nor leave up nor down One spot for the creature to stand in!"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mind manifests all that exists in the infinitude of Truth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infinite quantity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being infinite; without bound or limit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"My overshadowing Spirit and Might with thee I send along; ride forth, and bid the Deep Within appointed bounds be Heaven and Earth; Boundless the Deep, because I Am who fill Infinitude, nor vacuous the space."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"So shall crown thee the topmost, ineffablest, uttermost crown-- And thy love fill infinitude wholly, nor leave up nor down One spot for the creature to stand in!"*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mind manifests all that exists in the infinitude of Truth."*

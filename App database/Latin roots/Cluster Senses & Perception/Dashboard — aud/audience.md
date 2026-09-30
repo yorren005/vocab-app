@@ -5,15 +5,6 @@ status: unread
 ---
 # audience
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gathering of spectators or listeners at a (usually public) performance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the general public interested in a source of information or entertainment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From Alexandria This is the news: he fishes, drinks, and wastes The lamps of night in revel: is not more manlike Than Cleopatra, nor the queen of Ptolemy More womanly than he; hardly gave audience, or Vouchsafed to think he had partners."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I wrote to you When rioting in Alexandria; you Did pocket up my letters, and with taunts Did gibe my missive out of audience."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She In th’ habiliments of the goddess Isis That day appeared, and oft before gave audience, As ’tis reported, so."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gathering of spectators or listeners at a (usually public) performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the general public interested in a source of information or entertainment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From Alexandria This is the news: he fishes, drinks, and wastes The lamps of night in revel: is not more manlike Than Cleopatra, nor the queen of Ptolemy More womanly than he; hardly gave audience, or Vouchsafed to think he had partners."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I wrote to you When rioting in Alexandria; you Did pocket up my letters, and with taunts Did gibe my missive out of audience."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She In th’ habiliments of the goddess Isis That day appeared, and oft before gave audience, As ’tis reported, so."*

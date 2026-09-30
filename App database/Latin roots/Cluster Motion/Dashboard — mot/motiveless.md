@@ -5,14 +5,6 @@ status: unread
 ---
 # motiveless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring without motivation or provocation; ; - f.d.roosevelt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring without motivation or provocation; ; - f.d.roosevelt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"It seems so motiveless." "Because it amused me to get a man into my power." Isabel felt him shuddering."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Every leaf was at rest in the sunshine, the familiar scene was changeless, and seemed to represent the prospect of her life, full of motiveless ease—motiveless, if her own energy could not seek out reasons for ardent action."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring without motivation or provocation; ; - f.d.roosevelt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring without motivation or provocation; ; - f.d.roosevelt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"It seems so motiveless." "Because it amused me to get a man into my power." Isabel felt him shuddering."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Every leaf was at rest in the sunshine, the familiar scene was changeless, and seemed to represent the prospect of her life, full of motiveless ease—motiveless, if her own energy could not seek out reasons for ardent action."*

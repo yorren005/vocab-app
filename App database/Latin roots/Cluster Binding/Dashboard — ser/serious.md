@@ -5,15 +5,6 @@ status: unread
 ---
 # serious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with work or important matters rather than play or trivialities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of great consequence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, my lord will go away tonight; A very serious business calls on him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our rash faults Make trivial price of serious things we have, Not knowing them until we know their grave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In Sicyon: Her length of sickness, with what else more serious Importeth thee to know, this bears. [_Gives a letter._] ANTONY."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with work or important matters rather than play or trivialities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of great consequence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, my lord will go away tonight; A very serious business calls on him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our rash faults Make trivial price of serious things we have, Not knowing them until we know their grave."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In Sicyon: Her length of sickness, with what else more serious Importeth thee to know, this bears. [_Gives a letter._] ANTONY."*

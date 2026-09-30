@@ -5,13 +5,6 @@ status: unread
 ---
 # plumping
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Drop sharply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set (something or oneself) down with or as if with a noise.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"There was the cheval-glass, that miracle of art, in which he could just see his own wondering head and the reflection of Dolly (queerly distorted, and as if up in the ceiling), plumping and patting the pillows of the bed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Drop sharply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set (something or oneself) down with or as if with a noise.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"There was the cheval-glass, that miracle of art, in which he could just see his own wondering head and the reflection of Dolly (queerly distorted, and as if up in the ceiling), plumping and patting the pillows of the bed."*

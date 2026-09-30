@@ -5,14 +5,6 @@ status: unread
 ---
 # calumet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly decorated ceremonial pipe of amerindians; smoked on ceremonial occasions (especially as a token of peace).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly decorated ceremonial pipe of amerindians; smoked on ceremonial occasions (especially as a token of peace).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"THE CALUMET OF PEACE He offered a cigarette to the professor and took one himself."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Cu_{2}O. _b._ Calumet and Hecla “dry” copper before poling. 0·64 per cent. oxygen = 5·76 per cent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly decorated ceremonial pipe of amerindians; smoked on ceremonial occasions (especially as a token of peace).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly decorated ceremonial pipe of amerindians; smoked on ceremonial occasions (especially as a token of peace).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"THE CALUMET OF PEACE He offered a cigarette to the professor and took one himself."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Cu_{2}O. _b._ Calumet and Hecla “dry” copper before poling. 0·64 per cent. oxygen = 5·76 per cent."*

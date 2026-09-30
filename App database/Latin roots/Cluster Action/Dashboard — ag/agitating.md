@@ -5,15 +5,6 @@ status: unread
 ---
 # agitating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Try to stir up public opinion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be agitated, excited, or roused.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"In the middle of this agitating scene Mäzli arrived, perfectly happy and filled with her recent experiences."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At once she heard, not ten yards off, a voice that was beginning to have a strange power in agitating her."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"No.” I felt a burning glow mount to my face; for bitter and agitating recollections were awakened by the allusion to marriage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Try to stir up public opinion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be agitated, excited, or roused.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"In the middle of this agitating scene Mäzli arrived, perfectly happy and filled with her recent experiences."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At once she heard, not ten yards off, a voice that was beginning to have a strange power in agitating her."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"No.” I felt a burning glow mount to my face; for bitter and agitating recollections were awakened by the allusion to marriage."*

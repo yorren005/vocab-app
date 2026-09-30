@@ -5,14 +5,6 @@ status: unread
 ---
 # riviera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A coastal area between la spezia in italy and cannes in france.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coastal area between la spezia in italy and cannes in france.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"He’s on his way to the Riviera and I’ve not yet heard from him."*
-> - 📜 **James Joyce (*Ulysses*):** *"You fee mendancers on the Riviera, I read. _(The fleeing nymph raises a keen.)_ Eh?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A coastal area between la spezia in italy and cannes in france.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coastal area between la spezia in italy and cannes in france.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"He’s on his way to the Riviera and I’ve not yet heard from him."*
+> - 📜 **James Joyce (*Ulysses*):** *"You fee mendancers on the Riviera, I read. _(The fleeing nymph raises a keen.)_ Eh?"*

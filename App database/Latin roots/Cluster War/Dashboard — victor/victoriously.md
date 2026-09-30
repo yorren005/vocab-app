@@ -5,15 +5,6 @@ status: unread
 ---
 # victoriously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a victorious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a victorious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The fourth objective of the Plan, the transatlantic project, on which its members have embarked, has, four years ahead of schedule, been, to all intents and purposes, victoriously achieved."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Tennyson, are periods of protracted self-control, and those moments stand eminent in life in which the spirit has struggled victoriously in the cause of conscience against impulse and desire."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"We too will take part...” the reader went on, and then paused (“Do you see,” shouted the youth victoriously, “he’s going to clear up the whole affair for you....”), “in destroying them, and will send these visitors to the devil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a victorious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a victorious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The fourth objective of the Plan, the transatlantic project, on which its members have embarked, has, four years ahead of schedule, been, to all intents and purposes, victoriously achieved."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Tennyson, are periods of protracted self-control, and those moments stand eminent in life in which the spirit has struggled victoriously in the cause of conscience against impulse and desire."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"We too will take part...” the reader went on, and then paused (“Do you see,” shouted the youth victoriously, “he’s going to clear up the whole affair for you....”), “in destroying them, and will send these visitors to the devil."*

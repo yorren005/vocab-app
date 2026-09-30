@@ -5,15 +5,6 @@ status: unread
 ---
 # discredit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being held in low esteem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be distrusted or disbelieved.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did he not rather Discredit my authority with yours, And make the wars alike against my stomach, Having alike your cause?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie upon him, he will discredit our mystery."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It would discredit the blest gods, proud man, To answer such a question."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being held in low esteem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be distrusted or disbelieved.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did he not rather Discredit my authority with yours, And make the wars alike against my stomach, Having alike your cause?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie upon him, he will discredit our mystery."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It would discredit the blest gods, proud man, To answer such a question."*

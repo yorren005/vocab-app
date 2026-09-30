@@ -5,15 +5,6 @@ status: unread
 ---
 # sceptre
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The imperial authority symbolized by a scepter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ceremonial or emblematic staff.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, by my sceptre and my hopes of heaven."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It were for me To throw my sceptre at the injurious gods, To tell them that this world did equal theirs Till they had stolen our jewel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This chair shall be my state, this dagger my sceptre, and this cushion my crown."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The imperial authority symbolized by a scepter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ceremonial or emblematic staff.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, by my sceptre and my hopes of heaven."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It were for me To throw my sceptre at the injurious gods, To tell them that this world did equal theirs Till they had stolen our jewel."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This chair shall be my state, this dagger my sceptre, and this cushion my crown."*

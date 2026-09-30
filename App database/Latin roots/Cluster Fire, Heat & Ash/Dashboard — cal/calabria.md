@@ -5,14 +5,6 @@ status: unread
 ---
 # calabria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of southern italy (forming the toe of the italian `boot').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region of southern italy (forming the toe of the italian `boot').
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The practice is not confined to Sicily, for it is observed also at Cosenza in Calabria, and perhaps in other places."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus in some villages of Calabria the month of March is inaugurated with the expulsion of the witches."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of southern italy (forming the toe of the italian `boot').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region of southern italy (forming the toe of the italian `boot').
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The practice is not confined to Sicily, for it is observed also at Cosenza in Calabria, and perhaps in other places."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus in some villages of Calabria the month of March is inaugurated with the expulsion of the witches."*

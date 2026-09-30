@@ -5,13 +5,6 @@ status: unread
 ---
 # sclerometer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument that measures the hardness of materials by penetrating them with a stylus that has a diamond point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument that measures the hardness of materials by penetrating them with a stylus that has a diamond point.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerometer designates a measuring instrument that measures the hardness of materials by penetrating them with a stylus that has a diamond point."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument that measures the hardness of materials by penetrating them with a stylus that has a diamond point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument that measures the hardness of materials by penetrating them with a stylus that has a diamond point.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerometer designates a measuring instrument that measures the hardness of materials by penetrating them with a stylus that has a diamond point."*

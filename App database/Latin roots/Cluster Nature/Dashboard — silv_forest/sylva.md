@@ -5,15 +5,6 @@ status: unread
 ---
 # sylva
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The forest trees growing in a country or region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The forest trees growing in a country or region.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Presently the small side-door opened, and Sylva entered, bearing an astral lamp and a few light pieces of kindling wood."*
-> - 📜 **Effie Afton (*Eventide*):** *"Yes, Miss Edith, it is, indeed," answered Sylva, as she lighted a bright fire in the polished grate."*
-> - 📜 **Effie Afton (*Eventide*):** *"You know he was always so silent and reserved in our former home, Sylva."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The forest trees growing in a country or region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The forest trees growing in a country or region.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"Presently the small side-door opened, and Sylva entered, bearing an astral lamp and a few light pieces of kindling wood."*
+> - 📜 **Effie Afton (*Eventide*):** *"Yes, Miss Edith, it is, indeed," answered Sylva, as she lighted a bright fire in the polished grate."*
+> - 📜 **Effie Afton (*Eventide*):** *"You know he was always so silent and reserved in our former home, Sylva."*

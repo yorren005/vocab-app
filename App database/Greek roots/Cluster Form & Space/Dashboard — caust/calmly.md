@@ -5,15 +5,6 @@ status: unread
 ---
 # calmly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With self-possession (especially in times of stress).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sedate manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Teacher told us to be sure not to forget." "Quite right, little school fox," Kurt replied, while he calmly kept on drawing."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Come, Lippo, there is nothing to cry about," she said calmly."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"How could you calmly run away?" "It was just as necessary to hear Bruno's question," the sister said."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With self-possession (especially in times of stress).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sedate manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Teacher told us to be sure not to forget." "Quite right, little school fox," Kurt replied, while he calmly kept on drawing."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Come, Lippo, there is nothing to cry about," she said calmly."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"How could you calmly run away?" "It was just as necessary to hear Bruno's question," the sister said."*

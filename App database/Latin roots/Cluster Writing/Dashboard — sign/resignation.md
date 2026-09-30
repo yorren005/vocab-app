@@ -5,15 +5,6 @@ status: unread
 ---
 # resignation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acceptance of despair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of giving up (a claim or office or possession etc.).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To do that office of thine own good will Which tired majesty did make thee offer: The resignation of thy state and crown To Henry Bolingbroke."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Nothing can be done, we have to do it," Uncle Philip said with resignation, for he knew the obstinacy of his godson in regard to all customs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Chadband, pausing with the resignation of a man accustomed to be persecuted and languidly folding up his chin into his fat smile, says, “Let us hear the maiden!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acceptance of despair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of giving up (a claim or office or possession etc.).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To do that office of thine own good will Which tired majesty did make thee offer: The resignation of thy state and crown To Henry Bolingbroke."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Nothing can be done, we have to do it," Uncle Philip said with resignation, for he knew the obstinacy of his godson in regard to all customs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Chadband, pausing with the resignation of a man accustomed to be persecuted and languidly folding up his chin into his fat smile, says, “Let us hear the maiden!"*

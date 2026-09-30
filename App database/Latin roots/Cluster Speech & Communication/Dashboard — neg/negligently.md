@@ -5,15 +5,6 @@ status: unread
 ---
 # negligently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a negligent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a negligent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have no need to observe that I do not wilfully or negligently mislead my readers and that before I wrote that description I took pains to investigate the subject."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I beg your pardon!” “Stay!” She negligently calls him back."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I passed it as negligently as I did the pollard willow opposite to it: I had no presentiment of what it would be to me; no inward warning that the arbitress of my life—my genius for good or evil—waited there in humble guise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a negligent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a negligent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I have no need to observe that I do not wilfully or negligently mislead my readers and that before I wrote that description I took pains to investigate the subject."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I beg your pardon!” “Stay!” She negligently calls him back."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I passed it as negligently as I did the pollard willow opposite to it: I had no presentiment of what it would be to me; no inward warning that the arbitress of my life—my genius for good or evil—waited there in humble guise."*

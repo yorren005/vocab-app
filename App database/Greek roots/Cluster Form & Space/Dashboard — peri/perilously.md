@@ -5,15 +5,6 @@ status: unread
 ---
 # perilously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dangerous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dangerous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Once, however, as he used to tell, it brought him perilously near to disaster."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The central structure of the Báb's Sepulcher was built while the precious life of its builder was hanging perilously in the balance."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"On the eleventh night after my latest encounter with that gentleman—they were all numbered now—I had an alarm that perilously skirted it and that indeed, from the particular quality of its unexpectedness, proved quite my sharpest shock."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dangerous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dangerous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Once, however, as he used to tell, it brought him perilously near to disaster."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The central structure of the Báb's Sepulcher was built while the precious life of its builder was hanging perilously in the balance."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"On the eleventh night after my latest encounter with that gentleman—they were all numbered now—I had an alarm that perilously skirted it and that indeed, from the particular quality of its unexpectedness, proved quite my sharpest shock."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # maroon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is stranded (as on an island).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dark purplish-red to dark brownish-red color.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I look at those maroon curtains, and this hideous patterny carpet, and feel all nervy and on edge; then Jacky thinks I am tired, and brings me hot milk." She opened her speedwell blue eyes to their fullest width, and stared at me dolefully."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"You have a maroon dress, have it fetched."*
-> - 📜 **James Joyce (*Ulysses*):** *"P. (green cloth, slightly faded, envelope bookmark at p. 217). _Thoughts from Spinoza_ (maroon leather). _The Story of the Heavens_ by Sir Robert Ball (blue cloth)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is stranded (as on an island).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dark purplish-red to dark brownish-red color.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I look at those maroon curtains, and this hideous patterny carpet, and feel all nervy and on edge; then Jacky thinks I am tired, and brings me hot milk." She opened her speedwell blue eyes to their fullest width, and stared at me dolefully."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"You have a maroon dress, have it fetched."*
+> - 📜 **James Joyce (*Ulysses*):** *"P. (green cloth, slightly faded, envelope bookmark at p. 217). _Thoughts from Spinoza_ (maroon leather). _The Story of the Heavens_ by Sir Robert Ball (blue cloth)."*

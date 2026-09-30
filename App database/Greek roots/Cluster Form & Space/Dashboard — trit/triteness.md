@@ -5,13 +5,6 @@ status: unread
 ---
 # triteness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unoriginality as a result of being dull and hackneyed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unoriginality as a result of being dull and hackneyed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*Chippings with a Chisel (From "Twice Told Tales")*):** *"But, when we ridicule the triteness of monumental verses, we forget that Sorrow reads far deeper in them than we can, and finds a profound and individual purport in what seems so vague and inexpressive, unless interpreted by her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unoriginality as a result of being dull and hackneyed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unoriginality as a result of being dull and hackneyed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*Chippings with a Chisel (From "Twice Told Tales")*):** *"But, when we ridicule the triteness of monumental verses, we forget that Sorrow reads far deeper in them than we can, and finds a profound and individual purport in what seems so vague and inexpressive, unless interpreted by her."*

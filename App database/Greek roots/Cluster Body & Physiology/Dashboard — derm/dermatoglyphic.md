@@ -5,13 +5,6 @@ status: unread
 ---
 # dermatoglyphic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lines that form patterns on the skin (especially on the fingertips and the palms of the hands and the soles of the feet).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lines that form patterns on the skin (especially on the fingertips and the palms of the hands and the soles of the feet).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatoglyphic designates the lines that form patterns on the skin (especially on the fingertips and the palms of the hands and the soles of the feet)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lines that form patterns on the skin (especially on the fingertips and the palms of the hands and the soles of the feet).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lines that form patterns on the skin (especially on the fingertips and the palms of the hands and the soles of the feet).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatoglyphic designates the lines that form patterns on the skin (especially on the fingertips and the palms of the hands and the soles of the feet)."*

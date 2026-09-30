@@ -5,13 +5,6 @@ status: unread
 ---
 # hadrosaurus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous large bipedal ornithischian dinosaurs having a horny duck-like bill and webbed feet; may have been partly aquatic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous large bipedal ornithischian dinosaurs having a horny duck-like bill and webbed feet; may have been partly aquatic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hadrosaurus designates any of numerous large bipedal ornithischian dinosaurs having a horny duck-like bill and webbed feet; may have been partly aquatic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous large bipedal ornithischian dinosaurs having a horny duck-like bill and webbed feet; may have been partly aquatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous large bipedal ornithischian dinosaurs having a horny duck-like bill and webbed feet; may have been partly aquatic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hadrosaurus designates any of numerous large bipedal ornithischian dinosaurs having a horny duck-like bill and webbed feet; may have been partly aquatic."*

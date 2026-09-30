@@ -5,13 +5,6 @@ status: unread
 ---
 # tonsillectomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal of the tonsils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surgical removal of the tonsils.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tonsillectomy designates the surgical removal of the tonsils."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal of the tonsils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surgical removal of the tonsils.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tonsillectomy designates the surgical removal of the tonsils."*

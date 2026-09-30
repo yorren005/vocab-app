@@ -5,15 +5,6 @@ status: unread
 ---
 # adjuration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solemn and earnest appeal to someone to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solemn and earnest appeal to someone to do something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce had not been neglectful of the adjuration."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Pumblechook, in the way of a compassionate adjuration."*
-> - 📜 **Effie Afton (*Eventide*):** *"Florence turned at Edgar's adjuration, and he saw, by the moonlight, two great tear-drops dimming her starry eyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solemn and earnest appeal to someone to do something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solemn and earnest appeal to someone to do something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce had not been neglectful of the adjuration."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pumblechook, in the way of a compassionate adjuration."*
+> - 📜 **Effie Afton (*Eventide*):** *"Florence turned at Edgar's adjuration, and he saw, by the moonlight, two great tear-drops dimming her starry eyes."*

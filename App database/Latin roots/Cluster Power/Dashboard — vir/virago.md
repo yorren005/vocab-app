@@ -5,15 +5,6 @@ status: unread
 ---
 # virago
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A noisy or scolding or domineering woman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large strong and aggressive woman.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"They say she rules the whole house save Miss Florence." "Ay; the young lady must have a spirit, then, I should judge, if she defies such a virago as you describe this woman to be." "No more spirit than she should have," returned Miss Pinkerton."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"That virago of a matron told me this morning that if she'd been in her place, she'd have run away years ago."*
-> - 📜 **James Joyce (*Ulysses*):** *"A hoarse virago retorts.)_ THE VIRAGO: Signs on you, hairy arse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A noisy or scolding or domineering woman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large strong and aggressive woman.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"They say she rules the whole house save Miss Florence." "Ay; the young lady must have a spirit, then, I should judge, if she defies such a virago as you describe this woman to be." "No more spirit than she should have," returned Miss Pinkerton."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"That virago of a matron told me this morning that if she'd been in her place, she'd have run away years ago."*
+> - 📜 **James Joyce (*Ulysses*):** *"A hoarse virago retorts.)_ THE VIRAGO: Signs on you, hairy arse."*

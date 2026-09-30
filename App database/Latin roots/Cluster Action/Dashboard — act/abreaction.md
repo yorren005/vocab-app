@@ -5,13 +5,6 @@ status: unread
 ---
 # abreaction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychoanalysis) purging of emotional tensions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychoanalysis) purging of emotional tensions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abreaction designates (psychoanalysis) purging of emotional tensions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychoanalysis) purging of emotional tensions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychoanalysis) purging of emotional tensions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abreaction designates (psychoanalysis) purging of emotional tensions."*

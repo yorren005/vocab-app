@@ -5,15 +5,6 @@ status: unread
 ---
 # distressing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into difficulties or distress, especially financial hardship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause mental pain to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I heard them speaking, but my mind was so confused and my instinctive avoidance of this gentleman made his presence so distressing to me that I thought I understood nothing, through the rushing in my head and the beating of my heart."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But the commentary upon it now indelibly written in his handsome face made it far more distressing than it used to be."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn should have communicated to him nothing of this painful, this distressing, this unlooked-for, this overwhelming, this incredible intelligence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into difficulties or distress, especially financial hardship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause mental pain to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I heard them speaking, but my mind was so confused and my instinctive avoidance of this gentleman made his presence so distressing to me that I thought I understood nothing, through the rushing in my head and the beating of my heart."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But the commentary upon it now indelibly written in his handsome face made it far more distressing than it used to be."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn should have communicated to him nothing of this painful, this distressing, this unlooked-for, this overwhelming, this incredible intelligence."*

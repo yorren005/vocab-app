@@ -5,13 +5,6 @@ status: unread
 ---
 # cyclic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming to the carnot cycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming a whorl or having parts arranged in a whorl.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The speed or slowness of his recognition of such periodic or cyclic changes in nature will depend largely on the length of the particular cycle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming to the carnot cycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming a whorl or having parts arranged in a whorl.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The speed or slowness of his recognition of such periodic or cyclic changes in nature will depend largely on the length of the particular cycle."*

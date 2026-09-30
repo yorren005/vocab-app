@@ -5,15 +5,6 @@ status: unread
 ---
 # ecclesiastical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a church especially as an established institution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitable for use in a church.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The next year, 1843, was a memorable one in the ecclesiastical history of Scotland."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"This was increased and embittered by the importation of ecclesiastical and political feeling into the contest; Fraser being a Free Churchman, and Ferrier receiving the support of the Established Church and Tory party."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"That he should have taken a keen and sympathetic interest in any great movement for ecclesiastical union was quite what might have been expected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a church especially as an established institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitable for use in a church.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"The next year, 1843, was a memorable one in the ecclesiastical history of Scotland."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"This was increased and embittered by the importation of ecclesiastical and political feeling into the contest; Fraser being a Free Churchman, and Ferrier receiving the support of the Established Church and Tory party."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"That he should have taken a keen and sympathetic interest in any great movement for ecclesiastical union was quite what might have been expected."*

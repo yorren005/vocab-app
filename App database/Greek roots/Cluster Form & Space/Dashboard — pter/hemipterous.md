@@ -5,13 +5,6 @@ status: unread
 ---
 # hemipterous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large order (Hemiptera) of hemimetabolous insects (such as the true bugs) that have hemelytra and mouthparts adapted to piercing and sucking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a large order (Hemiptera) of hemimetabolous insects (such as the true bugs) that have hemelytra and mouthparts adapted to piercing and sucking.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemipterous designates any of a large order (hemiptera) of hemimetabolous insects (such as the true bugs) that have hemelytra and mouthparts adapted to piercing and sucking."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large order (Hemiptera) of hemimetabolous insects (such as the true bugs) that have hemelytra and mouthparts adapted to piercing and sucking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a large order (Hemiptera) of hemimetabolous insects (such as the true bugs) that have hemelytra and mouthparts adapted to piercing and sucking.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemipterous designates any of a large order (hemiptera) of hemimetabolous insects (such as the true bugs) that have hemelytra and mouthparts adapted to piercing and sucking."*

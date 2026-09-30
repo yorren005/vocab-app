@@ -5,13 +5,6 @@ status: unread
 ---
 # xiphosura
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Horseshoe crabs and extinct forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Horseshoe crabs and extinct forms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xiphosura designates horseshoe crabs and extinct forms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Horseshoe crabs and extinct forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Horseshoe crabs and extinct forms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xiphosura designates horseshoe crabs and extinct forms."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # logarithm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The exponent that indicates the power to which a base number is raised to produce a given number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A logarithm whose base is 10.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"But it is best not to be intimate with gentlemen of this profession and to take the calculations at second hand, as you do logarithms, for to work them yourself, depend upon it, will cost you something considerable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The exponent that indicates the power to which a base number is raised to produce a given number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A logarithm whose base is 10.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"But it is best not to be intimate with gentlemen of this profession and to take the calculations at second hand, as you do logarithms, for to work them yourself, depend upon it, will cost you something considerable."*

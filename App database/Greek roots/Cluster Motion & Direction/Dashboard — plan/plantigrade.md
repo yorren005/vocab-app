@@ -5,13 +5,6 @@ status: unread
 ---
 # plantigrade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal that walks with the entire sole of the foot touching the ground as e.g. bears and human beings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of mammals) walking on the whole sole of the foot (as rabbits, raccoons, bears, and humans do).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plantigrade designates an animal that walks with the entire sole of the foot touching the ground as e.g. bears and human beings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal that walks with the entire sole of the foot touching the ground as e.g. bears and human beings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of mammals) walking on the whole sole of the foot (as rabbits, raccoons, bears, and humans do).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plantigrade designates an animal that walks with the entire sole of the foot touching the ground as e.g. bears and human beings."*

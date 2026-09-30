@@ -5,13 +5,6 @@ status: unread
 ---
 # obviating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Do away with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prevent the occurrence of; prevent from happening.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"There was an open, glowing fire in their little sitting-room, a high fender of polished brass obviating all danger from it to the children's skirts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Do away with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prevent the occurrence of; prevent from happening.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"There was an open, glowing fire in their little sitting-room, a high fender of polished brass obviating all danger from it to the children's skirts."*

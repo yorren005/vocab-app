@@ -5,13 +5,6 @@ status: unread
 ---
 # interferometer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any measuring instrument that uses interference patterns to make accurate measurements of waves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any measuring instrument that uses interference patterns to make accurate measurements of waves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interferometer designates any measuring instrument that uses interference patterns to make accurate measurements of waves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any measuring instrument that uses interference patterns to make accurate measurements of waves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any measuring instrument that uses interference patterns to make accurate measurements of waves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interferometer designates any measuring instrument that uses interference patterns to make accurate measurements of waves."*

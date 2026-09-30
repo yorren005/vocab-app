@@ -5,14 +5,6 @@ status: unread
 ---
 # expurgation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The deletion of objectionable parts from a literary work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The deletion of objectionable parts from a literary work.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I like to take life as it comes without expurgation."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"He had collected about two hundred and fifty rhymes, had made a literal--not metrical--translation and had issued them in book form without expurgation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The deletion of objectionable parts from a literary work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The deletion of objectionable parts from a literary work.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"I like to take life as it comes without expurgation."*
+> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"He had collected about two hundred and fifty rhymes, had made a literal--not metrical--translation and had issued them in book form without expurgation."*

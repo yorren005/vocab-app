@@ -5,13 +5,6 @@ status: unread
 ---
 # photopic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or being vision in bright light with light-adapted eyes that is mediated by the cones of the retina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being vision in bright light with light-adapted eyes that is mediated by the cones of the retina.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photopic designates relating to or being vision in bright light with light-adapted eyes that is mediated by the cones of the retina."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or being vision in bright light with light-adapted eyes that is mediated by the cones of the retina.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being vision in bright light with light-adapted eyes that is mediated by the cones of the retina.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photopic designates relating to or being vision in bright light with light-adapted eyes that is mediated by the cones of the retina."*

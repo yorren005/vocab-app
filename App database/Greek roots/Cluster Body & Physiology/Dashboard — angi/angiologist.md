@@ -5,13 +5,6 @@ status: unread
 ---
 # angiologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician who specializes in angiology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physician who specializes in angiology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiologist designates a physician who specializes in angiology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician who specializes in angiology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physician who specializes in angiology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiologist designates a physician who specializes in angiology."*

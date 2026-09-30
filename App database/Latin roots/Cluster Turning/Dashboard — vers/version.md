@@ -5,15 +5,6 @@ status: unread
 ---
 # version
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An interpretation of a matter from a particular viewpoint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something a little different from others of the same type.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Such is one version of the tale..."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"In place of a Bible, however, his mother had given him a copy of the Scottish Metre Version of the Psalms, with a "Preface" to each Psalm and notes by John Brown of Haddington."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"There is a manuscript version of this play in the Egerton collection, British Museum (No. 1994)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An interpretation of a matter from a particular viewpoint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something a little different from others of the same type.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Such is one version of the tale..."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"In place of a Bible, however, his mother had given him a copy of the Scottish Metre Version of the Psalms, with a "Preface" to each Psalm and notes by John Brown of Haddington."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"There is a manuscript version of this play in the Egerton collection, British Museum (No. 1994)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # secrete
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Generate and separate from cells or bodily fluids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place out of sight; keep secret.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"As a preparation for this pilgrimage, "some secrete themselves for three days previously in a dark cellar, so as to be shut out altogether from the light of heaven."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"After a short interval the insects emerge from the scales and secrete a waxlike substance, covering the boughs and twigs with a white deposit about a quarter of an inch thick."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I therefore "knocked" a message through to Elsie to secrete a stout knife."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Generate and separate from cells or bodily fluids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place out of sight; keep secret.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"As a preparation for this pilgrimage, "some secrete themselves for three days previously in a dark cellar, so as to be shut out altogether from the light of heaven."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"After a short interval the insects emerge from the scales and secrete a waxlike substance, covering the boughs and twigs with a white deposit about a quarter of an inch thick."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I therefore "knocked" a message through to Elsie to secrete a stout knife."*

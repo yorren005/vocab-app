@@ -5,15 +5,6 @@ status: unread
 ---
 # sanctity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being holy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being holy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And his kissing is as full of sanctity as the touch of holy bread."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There are a crew of wretched souls That stay his cure: their malady convinces The great assay of art; but at his touch, Such sanctity hath heaven given his hand, They presently amend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he be none of mine, my sanctity Will to my sense bend no licentious ear, But curb it, spite of seeing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being holy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being holy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And his kissing is as full of sanctity as the touch of holy bread."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There are a crew of wretched souls That stay his cure: their malady convinces The great assay of art; but at his touch, Such sanctity hath heaven given his hand, They presently amend."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he be none of mine, my sanctity Will to my sense bend no licentious ear, But curb it, spite of seeing."*

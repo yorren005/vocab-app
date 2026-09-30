@@ -5,13 +5,6 @@ status: unread
 ---
 # fingermark
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A smudge made by a (dirty) finger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A smudge made by a (dirty) finger.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingermark designates a smudge made by a (dirty) finger."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A smudge made by a (dirty) finger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A smudge made by a (dirty) finger.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingermark designates a smudge made by a (dirty) finger."*

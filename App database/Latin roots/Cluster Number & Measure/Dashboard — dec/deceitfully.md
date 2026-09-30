@@ -5,15 +5,6 @@ status: unread
 ---
 # deceitfully
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a corrupt and deceitful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a corrupt and deceitful manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Don't you think he looks scraggy in that long-tailed coat, shocks of taggy hair and a collar big enough to fit Old Harpeth?" I asked deceitfully."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Though true cylinders without—within, the villanous green goggling glasses deceitfully tapered downwards to a cheating bottom."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Though true cylinders without—within, the villanous green goggling glasses deceitfully tapered downwards to a cheating bottom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a corrupt and deceitful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a corrupt and deceitful manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Don't you think he looks scraggy in that long-tailed coat, shocks of taggy hair and a collar big enough to fit Old Harpeth?" I asked deceitfully."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Though true cylinders without—within, the villanous green goggling glasses deceitfully tapered downwards to a cheating bottom."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Though true cylinders without—within, the villanous green goggling glasses deceitfully tapered downwards to a cheating bottom."*

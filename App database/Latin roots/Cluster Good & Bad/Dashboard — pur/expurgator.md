@@ -5,13 +5,6 @@ status: unread
 ---
 # expurgator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who edits a text by removing obscene or offensive words or passages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who edits a text by removing obscene or offensive words or passages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expurgator designates a person who edits a text by removing obscene or offensive words or passages."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who edits a text by removing obscene or offensive words or passages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who edits a text by removing obscene or offensive words or passages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expurgator designates a person who edits a text by removing obscene or offensive words or passages."*

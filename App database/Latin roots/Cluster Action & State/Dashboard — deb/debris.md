@@ -5,15 +5,6 @@ status: unread
 ---
 # debris
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The remains of something that has been destroyed or broken up.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The remains of something that has been destroyed or broken up.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Two months after, they learned from Bowen, commander of the Albemarle, that the debris of shipwrecked vessels had been seen on the coasts of New Georgia."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"He tried to get on to Vanikoro, where, according to the Lascar, he would find numerous debris of the wreck, but winds and tides prevented him."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They installed themselves in the island, and constructed a smaller boat with the debris of the two large ones."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The remains of something that has been destroyed or broken up.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The remains of something that has been destroyed or broken up.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Two months after, they learned from Bowen, commander of the Albemarle, that the debris of shipwrecked vessels had been seen on the coasts of New Georgia."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"He tried to get on to Vanikoro, where, according to the Lascar, he would find numerous debris of the wreck, but winds and tides prevented him."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They installed themselves in the island, and constructed a smaller boat with the debris of the two large ones."*

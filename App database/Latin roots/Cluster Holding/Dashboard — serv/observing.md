@@ -5,15 +5,6 @@ status: unread
 ---
 # observing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover or determine the existence, presence, or fact of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make mention of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Another part of the Forest Enter Touchstone and Audrey; Jaques at a distance observing them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They, by observing of him, do bear themselves like foolish justices: he, by conversing with them, is turned into a justice-like serving-man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, we have Stood here observing him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover or determine the existence, presence, or fact of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make mention of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Another part of the Forest Enter Touchstone and Audrey; Jaques at a distance observing them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They, by observing of him, do bear themselves like foolish justices: he, by conversing with them, is turned into a justice-like serving-man."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, we have Stood here observing him."*

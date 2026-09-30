@@ -5,20 +5,6 @@ status: unread
 ---
 # celerity
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Speed, swiftness
-> 2. **Nuance / Usage**: Rapidity of motion or action
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the celerity withstood the storm*), direct object (*cleaved the celerity*), or prepositional anchor (*amidst the celerity*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"her, she hath such a celerity in dying."*
-> - 📜 **Herman Melville (*Moby Dick*):** *"marvellous oblique, sliding celerity, Bildad for that time eluded him."*
-> - 📜 **Herman Melville (*Moby-Dick*):** *"The phantoms, for so they then seemed, were flitting on the other side of the deck, and, with a noiseless celerity, were casting loose the tackles and bands of the boat which swung there."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Speed, swiftness
+> 2. **Nuance / Usage**: Rapidity of motion or action
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the celerity withstood the storm*), direct object (*cleaved the celerity*), or prepositional anchor (*amidst the celerity*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"her, she hath such a celerity in dying."*
+> - 📜 **Herman Melville (*Moby Dick*):** *"marvellous oblique, sliding celerity, Bildad for that time eluded him."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The phantoms, for so they then seemed, were flitting on the other side of the deck, and, with a noiseless celerity, were casting loose the tackles and bands of the boat which swung there."*

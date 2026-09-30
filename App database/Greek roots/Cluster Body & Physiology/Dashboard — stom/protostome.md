@@ -5,13 +5,6 @@ status: unread
 ---
 # protostome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a major group (Protostomia) of bilateral metazoan animals (such as mollusks, annelids, and arthropods) characterized in typical forms by determinate and spiral cleavage, formation of a mouth and anus directly from the blastopore, and formation of the coelom by splitting of the embryonic mesoderm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a major group (Protostomia) of bilateral metazoan animals (such as mollusks, annelids, and arthropods) characterized in typical forms by determinate and spiral cleavage, formation of a mouth and anus directly from the blastopore, and formation of the coelom by splitting of the embryonic mesoderm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protostome designates any of a major group (protostomia) of bilateral metazoan animals (such as mollusks, annelids, and arthropods) characterized in typical forms by determinate and spiral cleavage, formation of a mouth and anus directly from the blastopore, and formation of the coelom by splitting of the embryonic mesoderm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a major group (Protostomia) of bilateral metazoan animals (such as mollusks, annelids, and arthropods) characterized in typical forms by determinate and spiral cleavage, formation of a mouth and anus directly from the blastopore, and formation of the coelom by splitting of the embryonic mesoderm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a major group (Protostomia) of bilateral metazoan animals (such as mollusks, annelids, and arthropods) characterized in typical forms by determinate and spiral cleavage, formation of a mouth and anus directly from the blastopore, and formation of the coelom by splitting of the embryonic mesoderm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protostome designates any of a major group (protostomia) of bilateral metazoan animals (such as mollusks, annelids, and arthropods) characterized in typical forms by determinate and spiral cleavage, formation of a mouth and anus directly from the blastopore, and formation of the coelom by splitting of the embryonic mesoderm."*

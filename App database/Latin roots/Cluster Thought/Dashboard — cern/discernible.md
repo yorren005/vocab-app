@@ -5,15 +5,6 @@ status: unread
 ---
 # discernible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perceptible by the senses or intellect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being perceived clearly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"At first they were faintly discernible in the mist, and above them the later stars still glimmered."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"An inner cloud of dust rose around the prostrate figures amid the general one of the room, in which a twitching entanglement of arms and legs was discernible."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But no explanation was discernible; he remained under the cow long enough to have milked three, uttering a private ejaculation now and then, as if he could not get on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perceptible by the senses or intellect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being perceived clearly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"At first they were faintly discernible in the mist, and above them the later stars still glimmered."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"An inner cloud of dust rose around the prostrate figures amid the general one of the room, in which a twitching entanglement of arms and legs was discernible."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But no explanation was discernible; he remained under the cow long enough to have milked three, uttering a private ejaculation now and then, as if he could not get on."*

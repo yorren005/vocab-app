@@ -5,13 +5,6 @@ status: unread
 ---
 # Stylites
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A Christian ascetic living atop a pillar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Saint circa 390—459 Syrian ascetic and pillar dweller.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Tis but madness, sad and solemn, that these fakir-Christians feel-- Saint Stylites on his column gratified a morbid zeal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Christian ascetic living atop a pillar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Saint circa 390—459 Syrian ascetic and pillar dweller.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Tis but madness, sad and solemn, that these fakir-Christians feel-- Saint Stylites on his column gratified a morbid zeal."*

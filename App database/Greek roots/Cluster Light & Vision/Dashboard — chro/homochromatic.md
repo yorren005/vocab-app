@@ -5,13 +5,6 @@ status: unread
 ---
 # homochromatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of light or other electromagnetic radiation) having only one wavelength.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of light or other electromagnetic radiation) having only one wavelength.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homochromatic designates (of light or other electromagnetic radiation) having only one wavelength."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of light or other electromagnetic radiation) having only one wavelength.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of light or other electromagnetic radiation) having only one wavelength.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homochromatic designates (of light or other electromagnetic radiation) having only one wavelength."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # petasites
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of rhizomatous herbs of north temperate regions: butterbur; sweet coltsfoot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of rhizomatous herbs of north temperate regions: butterbur; sweet coltsfoot.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The butter-bur rust (_Coleosporium petasites_, Lev.) and the Campanula rust (_Coleosporium Campanulæ_, Lev.) are found, the former on the leaves of the butter-bur, and the latter on those of the harebell and other _Campanulæ_, less frequently."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"BUTTERBUR RUST; on the under surface, minute, depressed, spreading, somewhat aggregate, subconfluent, irregular in form; spores oval, orange, or orange-red.—On _Tussilago Petasites_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of rhizomatous herbs of north temperate regions: butterbur; sweet coltsfoot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of rhizomatous herbs of north temperate regions: butterbur; sweet coltsfoot.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The butter-bur rust (_Coleosporium petasites_, Lev.) and the Campanula rust (_Coleosporium Campanulæ_, Lev.) are found, the former on the leaves of the butter-bur, and the latter on those of the harebell and other _Campanulæ_, less frequently."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"BUTTERBUR RUST; on the under surface, minute, depressed, spreading, somewhat aggregate, subconfluent, irregular in form; spores oval, orange, or orange-red.—On _Tussilago Petasites_."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # aberration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state or condition markedly different from the norm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disorder in one's mental state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"A very respectable solicitor.” “I never noticed any alienation of mind—any aberration of intellect in the late Mr."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"When I observed this last, plain evidence of my friend’s aberration of mind, I could scarcely refrain from tears."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"They were all advanced in years, except one young woman, who was prevented by mental aberration from supporting herself outside the walls of the Institution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state or condition markedly different from the norm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disorder in one's mental state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"A very respectable solicitor.” “I never noticed any alienation of mind—any aberration of intellect in the late Mr."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"When I observed this last, plain evidence of my friend’s aberration of mind, I could scarcely refrain from tears."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"They were all advanced in years, except one young woman, who was prevented by mental aberration from supporting herself outside the walls of the Institution."*

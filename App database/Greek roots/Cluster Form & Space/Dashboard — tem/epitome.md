@@ -5,15 +5,6 @@ status: unread
 ---
 # epitome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A typical or ideal example : an example that represents or expresses something very well : embodiment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A summary of a written work.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a poor epitome of yours, Which by th’ interpretation of full time May show like all yourself."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak appeared in the entry with a steaming face, hay-bands wound about his ankles to keep out the snow, a leather strap round his waist outside the smock-frock, and looking altogether an epitome of the world’s health and vigour."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That, now, is what old Bowditch in his Epitome calls the zodiac, and what my almanack below calls ditto."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A typical or ideal example : an example that represents or expresses something very well : embodiment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A summary of a written work.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a poor epitome of yours, Which by th’ interpretation of full time May show like all yourself."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak appeared in the entry with a steaming face, hay-bands wound about his ankles to keep out the snow, a leather strap round his waist outside the smock-frock, and looking altogether an epitome of the world’s health and vigour."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That, now, is what old Bowditch in his Epitome calls the zodiac, and what my almanack below calls ditto."*

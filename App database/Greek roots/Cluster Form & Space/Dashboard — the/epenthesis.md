@@ -5,13 +5,6 @@ status: unread
 ---
 # epenthesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The insertion or development of a sound or letter in the body of a word (such as \ə\ in \ˈa-thə-ˌlēt\ athlete).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The insertion or development of a sound or letter in the body of a word (such as \ə\ in \ˈa-thə-ˌlēt\ athlete).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epenthesis designates the insertion or development of a sound or letter in the body of a word (such as \ə\ in \ˈa-thə-ˌlēt\ athlete)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The insertion or development of a sound or letter in the body of a word (such as \ə\ in \ˈa-thə-ˌlēt\ athlete).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The insertion or development of a sound or letter in the body of a word (such as \ə\ in \ˈa-thə-ˌlēt\ athlete).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epenthesis designates the insertion or development of a sound or letter in the body of a word (such as \ə\ in \ˈa-thə-ˌlēt\ athlete)."*

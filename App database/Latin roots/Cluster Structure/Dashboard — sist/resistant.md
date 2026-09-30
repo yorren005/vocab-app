@@ -5,15 +5,6 @@ status: unread
 ---
 # resistant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or conferring immunity (to disease or infection).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to tolerate environmental conditions or physiological stress.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"After all superfluous flesh is gone what is left is stringy and resistant."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Each of them felt proudly resistant, and neither looked at the other, while they awaited Sir James’s entrance."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But her silence shrouded her resistant emotion into a more thorough glow; and this misfortune in Will’s lot which, it seemed, others were wishing to fling at his back as an opprobrium, only gave something more of enthusiasm to her clinging thought."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or conferring immunity (to disease or infection).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to tolerate environmental conditions or physiological stress.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"After all superfluous flesh is gone what is left is stringy and resistant."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Each of them felt proudly resistant, and neither looked at the other, while they awaited Sir James’s entrance."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But her silence shrouded her resistant emotion into a more thorough glow; and this misfortune in Will’s lot which, it seemed, others were wishing to fling at his back as an opprobrium, only gave something more of enthusiasm to her clinging thought."*

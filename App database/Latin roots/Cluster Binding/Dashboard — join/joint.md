@@ -5,15 +5,6 @@ status: unread
 ---
 # joint
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) the point of connection between two bones or elements of a skeleton (especially if it allows motion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disreputable place of entertainment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What might be toward, that this sweaty haste Doth make the night joint-labourer with the day: Who is’t that can inform me?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy state is taken for a joint-stool, thy golden sceptre for a leaden dagger, and thy precious rich crown for a pitiful bald crown."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What’s a joint of mutton or two in a whole Lent?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) the point of connection between two bones or elements of a skeleton (especially if it allows motion).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disreputable place of entertainment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What might be toward, that this sweaty haste Doth make the night joint-labourer with the day: Who is’t that can inform me?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy state is taken for a joint-stool, thy golden sceptre for a leaden dagger, and thy precious rich crown for a pitiful bald crown."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What’s a joint of mutton or two in a whole Lent?"*

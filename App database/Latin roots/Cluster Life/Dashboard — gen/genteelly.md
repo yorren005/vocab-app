@@ -5,15 +5,6 @@ status: unread
 ---
 # genteelly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a genteel manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a genteel manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I wished Joe had been rather more genteelly brought up, and then I should have been so too."*
-> - 📜 **George Eliot (*Middlemarch*):** *"What right have such men to represent Christianity—as if it were an institution for getting up idiots genteelly—as if—” Mary checked herself."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But _that_ was certainly very coolly done by him, and every one knows that in most people’s estimation, to do anything coolly is to do it genteelly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a genteel manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a genteel manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I wished Joe had been rather more genteelly brought up, and then I should have been so too."*
+> - 📜 **George Eliot (*Middlemarch*):** *"What right have such men to represent Christianity—as if it were an institution for getting up idiots genteelly—as if—” Mary checked herself."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But _that_ was certainly very coolly done by him, and every one knows that in most people’s estimation, to do anything coolly is to do it genteelly."*

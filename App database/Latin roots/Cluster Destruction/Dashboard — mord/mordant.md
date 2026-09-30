@@ -5,13 +5,6 @@ status: unread
 ---
 # mordant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance used to treat leather or other materials before dyeing; aids in dyeing process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harshly ironic or sinister.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mordant designates a substance used to treat leather or other materials before dyeing; aids in dyeing process."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance used to treat leather or other materials before dyeing; aids in dyeing process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harshly ironic or sinister.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mordant designates a substance used to treat leather or other materials before dyeing; aids in dyeing process."*

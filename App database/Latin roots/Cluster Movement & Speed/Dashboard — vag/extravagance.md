@@ -5,15 +5,6 @@ status: unread
 ---
 # extravagance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of exceeding the appropriate limits of decorum or probability or truth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of spending extravagantly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Henry’s address, short as it had been, had more thoroughly opened her eyes to the extravagance of her late fancies than all their several disappointments had done."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Missis refused: her means have long been much reduced by his extravagance; so he went back again, and the next news was that he was dead."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy chose to doubt it--or to treat it as a merely conditional recommendation, and to assert that I had forfeited all claim to it by extravagance, imprudence, in short, anything or nothing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of exceeding the appropriate limits of decorum or probability or truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of spending extravagantly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Henry’s address, short as it had been, had more thoroughly opened her eyes to the extravagance of her late fancies than all their several disappointments had done."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Missis refused: her means have long been much reduced by his extravagance; so he went back again, and the next news was that he was dead."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy chose to doubt it--or to treat it as a merely conditional recommendation, and to assert that I had forfeited all claim to it by extravagance, imprudence, in short, anything or nothing."*

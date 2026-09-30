@@ -5,15 +5,6 @@ status: unread
 ---
 # insufficiently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an insufficient degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an insufficient degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He thought the season insufficiently advanced."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Again and again we find the most fruitful avenues opened to us by questions that another age might have laughed out of a hearing; to-day they suggest investigation of facts insufficiently known, and of the difficult connexions between them."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The Son of Man," says Jesus, in a sentence that is famous but still insufficiently studied, "is come to seek and to save that which is lost" (Luke 19:10)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To an insufficient degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an insufficient degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He thought the season insufficiently advanced."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Again and again we find the most fruitful avenues opened to us by questions that another age might have laughed out of a hearing; to-day they suggest investigation of facts insufficiently known, and of the difficult connexions between them."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The Son of Man," says Jesus, in a sentence that is famous but still insufficiently studied, "is come to seek and to save that which is lost" (Luke 19:10)."*

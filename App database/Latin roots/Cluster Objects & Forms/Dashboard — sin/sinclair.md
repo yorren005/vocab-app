@@ -5,15 +5,6 @@ status: unread
 ---
 # sinclair
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states writer whose novels argued for social reform (1878-1968).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English electrical engineer who founded a company that introduced many innovative products (born in 1940).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"In the same year he took part in a Conference in Edinburgh which had been summoned by Sir George Sinclair of Ulbster to discuss the possibility of Church Union at home."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Robertson, in Sir John Sinclair's _Statistical Account of Scotland_, xi. 621 note)."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Thomas Bisset, in Sir John Sinclair's _Statistical Account of Scotland_, v. 84. [375] Rev."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states writer whose novels argued for social reform (1878-1968).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English electrical engineer who founded a company that introduced many innovative products (born in 1940).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"In the same year he took part in a Conference in Edinburgh which had been summoned by Sir George Sinclair of Ulbster to discuss the possibility of Church Union at home."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Robertson, in Sir John Sinclair's _Statistical Account of Scotland_, xi. 621 note)."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Thomas Bisset, in Sir John Sinclair's _Statistical Account of Scotland_, v. 84. [375] Rev."*

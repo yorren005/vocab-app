@@ -5,15 +5,6 @@ status: unread
 ---
 # mutilated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy or injure severely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alter so as to make unrecognizable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"When we came to the spot I inquired who the man was, for he was so mutilated I could not recognize him. _It was Mc."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Will He accept a mutilated sacrifice?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He stretched his right hand (the left arm, the mutilated one, he kept hidden in his bosom); he seemed to wish by touch to gain an idea of what lay around him: he met but vacancy still; for the trees were some yards off where he stood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy or injure severely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alter so as to make unrecognizable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"When we came to the spot I inquired who the man was, for he was so mutilated I could not recognize him. _It was Mc."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Will He accept a mutilated sacrifice?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He stretched his right hand (the left arm, the mutilated one, he kept hidden in his bosom); he seemed to wish by touch to gain an idea of what lay around him: he met but vacancy still; for the trees were some yards off where he stood."*

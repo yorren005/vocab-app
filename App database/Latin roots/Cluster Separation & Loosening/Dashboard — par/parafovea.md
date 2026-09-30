@@ -5,13 +5,6 @@ status: unread
 ---
 # parafovea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Area of the retina immediately surrounding the fovea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Area of the retina immediately surrounding the fovea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parafovea designates area of the retina immediately surrounding the fovea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Area of the retina immediately surrounding the fovea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Area of the retina immediately surrounding the fovea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parafovea designates area of the retina immediately surrounding the fovea."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # lactobacillaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lactic acid bacteria and important pathogens; bacteria that ferment carbohydrates chiefly into lactic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lactic acid bacteria and important pathogens; bacteria that ferment carbohydrates chiefly into lactic acid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactobacillaceae designates lactic acid bacteria and important pathogens; bacteria that ferment carbohydrates chiefly into lactic acid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lactic acid bacteria and important pathogens; bacteria that ferment carbohydrates chiefly into lactic acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lactic acid bacteria and important pathogens; bacteria that ferment carbohydrates chiefly into lactic acid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lactobacillaceae designates lactic acid bacteria and important pathogens; bacteria that ferment carbohydrates chiefly into lactic acid."*

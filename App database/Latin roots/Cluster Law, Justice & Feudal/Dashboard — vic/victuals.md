@@ -5,15 +5,6 @@ status: unread
 ---
 # victuals
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stock or supply of foods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A source of materials to nourish the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that it eats our victuals, I should think Here were a fairy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will desire you to live in the mean time, and eat your victuals."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, but hearken, sir, though the chameleon Love can feed on the air, I am one that am nourished by my victuals, and would fain have meat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stock or supply of foods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A source of materials to nourish the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that it eats our victuals, I should think Here were a fairy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will desire you to live in the mean time, and eat your victuals."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, but hearken, sir, though the chameleon Love can feed on the air, I am one that am nourished by my victuals, and would fain have meat."*

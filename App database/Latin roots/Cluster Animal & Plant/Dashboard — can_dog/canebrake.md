@@ -5,14 +5,6 @@ status: unread
 ---
 # canebrake
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense growth of cane (especially giant cane).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dense growth of cane (especially giant cane).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Young'un, if you go down in this damn river bottom, you'll get lost!" I scooted under a low-hanging limb and headed for a canebrake right ahead."*
-> - 📜 **James Joyce (*Ulysses*):** *"THE VOICE OF VIRAG: _(A birdchief, bluestreaked and feathered in war panoply with his assegai, striding through a crackling canebrake over beechmast and acorns.)_ Hot!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense growth of cane (especially giant cane).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dense growth of cane (especially giant cane).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Young'un, if you go down in this damn river bottom, you'll get lost!" I scooted under a low-hanging limb and headed for a canebrake right ahead."*
+> - 📜 **James Joyce (*Ulysses*):** *"THE VOICE OF VIRAG: _(A birdchief, bluestreaked and feathered in war panoply with his assegai, striding through a crackling canebrake over beechmast and acorns.)_ Hot!"*

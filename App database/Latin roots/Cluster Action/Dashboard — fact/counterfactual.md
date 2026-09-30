@@ -5,13 +5,6 @@ status: unread
 ---
 # counterfactual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Going counter to the facts (usually as a hypothesis).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Going counter to the facts (usually as a hypothesis).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterfactual designates going counter to the facts (usually as a hypothesis)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Going counter to the facts (usually as a hypothesis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Going counter to the facts (usually as a hypothesis).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterfactual designates going counter to the facts (usually as a hypothesis)."*

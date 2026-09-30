@@ -5,15 +5,6 @@ status: unread
 ---
 # digestion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of decomposing organic matter (as in sewage) by bacteria or by chemical action or heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organic process by which food is converted into substances that can be absorbed into the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A good digestion to you all; and once more I shower a welcome on ye."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet remembrancer!— Now, good digestion wait on appetite, And health on both!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Things sweet to taste prove in digestion sour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of decomposing organic matter (as in sewage) by bacteria or by chemical action or heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organic process by which food is converted into substances that can be absorbed into the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A good digestion to you all; and once more I shower a welcome on ye."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet remembrancer!— Now, good digestion wait on appetite, And health on both!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Things sweet to taste prove in digestion sour."*

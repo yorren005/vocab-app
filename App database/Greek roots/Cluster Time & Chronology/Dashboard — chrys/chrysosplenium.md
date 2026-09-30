@@ -5,13 +5,6 @@ status: unread
 ---
 # chrysosplenium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of widely distributed semiaquatic herbs with minute greenish-yellow apetalous flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of widely distributed semiaquatic herbs with minute greenish-yellow apetalous flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"GOLDEN-SAXIFRAGE BRAND; sori of various sizes, few together and confluent, pale brown; spores long, somewhat waved, much attenuated at either extremity; peduncle elongated.—On the under surface of the leaves of _Chrysosplenium oppositifolium_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of widely distributed semiaquatic herbs with minute greenish-yellow apetalous flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of widely distributed semiaquatic herbs with minute greenish-yellow apetalous flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"GOLDEN-SAXIFRAGE BRAND; sori of various sizes, few together and confluent, pale brown; spores long, somewhat waved, much attenuated at either extremity; peduncle elongated.—On the under surface of the leaves of _Chrysosplenium oppositifolium_."*

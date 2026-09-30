@@ -5,15 +5,6 @@ status: unread
 ---
 # anthony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman general under julius caesar in the gallic wars; repudiated his wife for the egyptian queen cleopatra; they were defeated by octavian at actium (83-30 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states suffragist (1820-1906).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Ambassador from Anthony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Charles, good night. [_Exit Suffolk._] Enter Sir Anthony Denny."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, brother Anthony,— ANTONIO."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman general under julius caesar in the gallic wars; repudiated his wife for the egyptian queen cleopatra; they were defeated by octavian at actium (83-30 bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states suffragist (1820-1906).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Ambassador from Anthony."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Charles, good night. [_Exit Suffolk._] Enter Sir Anthony Denny."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, brother Anthony,— ANTONIO."*

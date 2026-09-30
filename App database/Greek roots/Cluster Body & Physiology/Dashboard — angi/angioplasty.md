@@ -5,13 +5,6 @@ status: unread
 ---
 # angioplasty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical repair or recanalization of a blood vessel; especially : balloon angioplasty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dilation of an obstructed atherosclerotic artery by the passage of a balloon catheter through the vessel to the area of disease where inflation of the catheter's tip compresses the plaque against the vessel wall.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angioplasty designates surgical repair or recanalization of a blood vessel; especially : balloon angioplasty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical repair or recanalization of a blood vessel; especially : balloon angioplasty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dilation of an obstructed atherosclerotic artery by the passage of a balloon catheter through the vessel to the area of disease where inflation of the catheter's tip compresses the plaque against the vessel wall.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angioplasty designates surgical repair or recanalization of a blood vessel; especially : balloon angioplasty."*

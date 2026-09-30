@@ -5,15 +5,6 @@ status: unread
 ---
 # falsehood
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A false statement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of rendering something false as by fraudulent changes (of documents or measures etc.) or counterfeiting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If eyes corrupt by over-partial looks, Be anchored in the bay where all men ride, Why of eyes’ falsehood hast thou forged hooks, Whereto the judgement of my heart is tied?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see the jewel best enamelled Will lose his beauty; yet the gold bides still That others touch, yet often touching will Wear gold; and no man that hath a name By falsehood and corruption doth it shame."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To lapse in fulness Is sorer than to lie for need; and falsehood Is worse in kings than beggars."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A false statement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of rendering something false as by fraudulent changes (of documents or measures etc.) or counterfeiting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If eyes corrupt by over-partial looks, Be anchored in the bay where all men ride, Why of eyes’ falsehood hast thou forged hooks, Whereto the judgement of my heart is tied?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see the jewel best enamelled Will lose his beauty; yet the gold bides still That others touch, yet often touching will Wear gold; and no man that hath a name By falsehood and corruption doth it shame."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To lapse in fulness Is sorer than to lie for need; and falsehood Is worse in kings than beggars."*

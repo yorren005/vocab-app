@@ -5,13 +5,6 @@ status: unread
 ---
 # precook
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cook beforehand so that the actual preparation won't take long.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cook beforehand so that the actual preparation won't take long.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precook designates cook beforehand so that the actual preparation won't take long."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cook beforehand so that the actual preparation won't take long.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cook beforehand so that the actual preparation won't take long.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precook designates cook beforehand so that the actual preparation won't take long."*

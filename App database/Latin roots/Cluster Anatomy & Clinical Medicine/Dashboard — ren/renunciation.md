@@ -5,15 +5,6 @@ status: unread
 ---
 # renunciation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rejecting or disowning or disclaiming as invalid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of having rejected your religious beliefs or your political party or a cause (often in favor of opposing beliefs or causes).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But now that she was stung to a fever by Izz’s tale, there was a limit to her powers of renunciation."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"In every life this cannot but be so, for a man must limit himself; but, if it be for a high end, the renunciation will be blessed with some fruit of good."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And she had not reached that point of renunciation at which she would have been satisfied with having a wise husband: she wished, poor child, to be wise herself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rejecting or disowning or disclaiming as invalid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of having rejected your religious beliefs or your political party or a cause (often in favor of opposing beliefs or causes).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But now that she was stung to a fever by Izz’s tale, there was a limit to her powers of renunciation."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"In every life this cannot but be so, for a man must limit himself; but, if it be for a high end, the renunciation will be blessed with some fruit of good."*
+> - 📜 **George Eliot (*Middlemarch*):** *"And she had not reached that point of renunciation at which she would have been satisfied with having a wise husband: she wished, poor child, to be wise herself."*

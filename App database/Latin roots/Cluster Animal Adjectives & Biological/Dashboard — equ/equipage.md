@@ -5,15 +5,6 @@ status: unread
 ---
 # equipage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipment and supplies of a military force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vehicle with wheels drawn by one or more horses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn; and the complete equipage whirls though the law-stationery business at wild speed all round the clock."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet quite fresh and collected—as she would be if her next point, with no new equipage and outfit, were the Cape of Good Hope, the Island of Ascension, Hong Kong, or any other military station."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The man in uniform whom he had sent to fetch this equipage then handed him up a dark lantern at his request, and when he had given a few directions to the driver, we rattled away."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipment and supplies of a military force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vehicle with wheels drawn by one or more horses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn; and the complete equipage whirls though the law-stationery business at wild speed all round the clock."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet quite fresh and collected—as she would be if her next point, with no new equipage and outfit, were the Cape of Good Hope, the Island of Ascension, Hong Kong, or any other military station."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The man in uniform whom he had sent to fetch this equipage then handed him up a dark lantern at his request, and when he had given a few directions to the driver, we rattled away."*

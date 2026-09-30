@@ -5,15 +5,6 @@ status: unread
 ---
 # salty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Engagingly stimulating or provocative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or filled with salt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Don Peterson (*The White Feather Hex*):** *"The salty water poured out of the deep rings in his ruddy neck and ran down his dark brown back."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I saw her reach down into her churn and get a handful of the salty, bruised cabbage and eat it, so I tried some."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"At an early period these must have been connected with the sea, their waters then being quite salty, as is abundantly demonstrated by the remains of marine shells."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engagingly stimulating or provocative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or filled with salt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Don Peterson (*The White Feather Hex*):** *"The salty water poured out of the deep rings in his ruddy neck and ran down his dark brown back."*
+> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I saw her reach down into her churn and get a handful of the salty, bruised cabbage and eat it, so I tried some."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"At an early period these must have been connected with the sea, their waters then being quite salty, as is abundantly demonstrated by the remains of marine shells."*

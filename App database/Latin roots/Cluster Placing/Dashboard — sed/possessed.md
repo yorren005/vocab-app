@@ -5,15 +5,6 @@ status: unread
 ---
 # possessed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have as an attribute, knowledge, or skill.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have ownership or possession of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the brief of money, plate, and jewels I am possessed of. ’Tis exactly valued, Not petty things admitted."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now tell me how long you would have her after you have possessed her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is the Senate possessed of this?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have as an attribute, knowledge, or skill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have ownership or possession of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the brief of money, plate, and jewels I am possessed of. ’Tis exactly valued, Not petty things admitted."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now tell me how long you would have her after you have possessed her."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is the Senate possessed of this?"*

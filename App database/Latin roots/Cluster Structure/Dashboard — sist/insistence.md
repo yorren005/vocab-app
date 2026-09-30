@@ -5,15 +5,6 @@ status: unread
 ---
 # insistence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Continual and persistent demands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of demanding notice or attention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He insisted that jacketing, no matter how prolonged, could never kill me; and his insistence was a challenge to the Warden to continue the attempt."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The intellectual energy of the man is worth noting--his insistence on understanding, his instant resolution; such qualities, we saw, had won the admiration of Jesus."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The forms in which he gave it expression are predominantly melancholy, because this kind of idealism, with its insistence on the unreality of evil, is the recoil from life of an unsatisfied and disappointed soul."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Continual and persistent demands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of demanding notice or attention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He insisted that jacketing, no matter how prolonged, could never kill me; and his insistence was a challenge to the Warden to continue the attempt."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The intellectual energy of the man is worth noting--his insistence on understanding, his instant resolution; such qualities, we saw, had won the admiration of Jesus."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"The forms in which he gave it expression are predominantly melancholy, because this kind of idealism, with its insistence on the unreality of evil, is the recoil from life of an unsatisfied and disappointed soul."*

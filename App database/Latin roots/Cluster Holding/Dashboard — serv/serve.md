@@ -5,15 +5,6 @@ status: unread
 ---
 # serve
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (sports) a stroke that puts the ball in play.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serve a purpose, role, or function.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Several young French Lords, that serve with Bertram in the Florentine War."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It well may serve A nursery to our gentry, who are sick For breathing and exploit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Would God would serve the world so all the year!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (sports) a stroke that puts the ball in play.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serve a purpose, role, or function.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Several young French Lords, that serve with Bertram in the Florentine War."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It well may serve A nursery to our gentry, who are sick For breathing and exploit."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Would God would serve the world so all the year!"*

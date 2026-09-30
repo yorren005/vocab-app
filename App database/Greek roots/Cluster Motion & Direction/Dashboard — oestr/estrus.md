@@ -5,13 +5,6 @@ status: unread
 ---
 # estrus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A regularly recurrent state of sexual receptivity during which the female of most mammals will accept the male and is capable of conceiving : heat; also : a single occurrence of this state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The correlated phenomena of the endocrine and reproductive systems of a female mammal from the beginning of one period of estrus to the beginning of the next —called also estral cycle, estrus cycle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, estrus designates a regularly recurrent state of sexual receptivity during which the female of most mammals will accept the male and is capable of conceiving : heat; also : a single occurrence of this state."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A regularly recurrent state of sexual receptivity during which the female of most mammals will accept the male and is capable of conceiving : heat; also : a single occurrence of this state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The correlated phenomena of the endocrine and reproductive systems of a female mammal from the beginning of one period of estrus to the beginning of the next —called also estral cycle, estrus cycle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, estrus designates a regularly recurrent state of sexual receptivity during which the female of most mammals will accept the male and is capable of conceiving : heat; also : a single occurrence of this state."*

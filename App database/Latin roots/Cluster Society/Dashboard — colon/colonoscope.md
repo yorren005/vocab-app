@@ -5,13 +5,6 @@ status: unread
 ---
 # colonoscope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elongated fiberoptic endoscope for examining the entire colon from cecum to rectum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An elongated fiberoptic endoscope for examining the entire colon from cecum to rectum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colonoscope designates an elongated fiberoptic endoscope for examining the entire colon from cecum to rectum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elongated fiberoptic endoscope for examining the entire colon from cecum to rectum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An elongated fiberoptic endoscope for examining the entire colon from cecum to rectum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colonoscope designates an elongated fiberoptic endoscope for examining the entire colon from cecum to rectum."*

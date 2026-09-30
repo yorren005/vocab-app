@@ -5,15 +5,6 @@ status: unread
 ---
 # intensity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount of energy transmitted (as by acoustic or electromagnetic radiation).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High level or degree; the property of being intense.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It may be that if we knew more of such strange afflictions we might be the better able to alleviate their intensity."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet closes her eyes in the intensity of her relief."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It glowed on the windward side, rising and falling in intensity, like the coal of a cigar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount of energy transmitted (as by acoustic or electromagnetic radiation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High level or degree; the property of being intense.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It may be that if we knew more of such strange afflictions we might be the better able to alleviate their intensity."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet closes her eyes in the intensity of her relief."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It glowed on the windward side, rising and falling in intensity, like the coal of a cigar."*

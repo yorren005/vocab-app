@@ -5,15 +5,6 @@ status: unread
 ---
 # lagging
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used to wrap around pipes or boilers or laid in attics to prevent loss of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hang (back) or fall (behind) in movement, progress, development, etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Four lagging winters and four wanton springs End in a word: such is the breath of kings."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her letter now is sealed, and on it writ “At Ardea to my lord with more than haste.” The post attends, and she delivers it, Charging the sour-faced groom to hie as fast As lagging fowls before the northern blast."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I stood in the streets, lagging and feeble, scarcely able to wish, much less to think."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used to wrap around pipes or boilers or laid in attics to prevent loss of heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hang (back) or fall (behind) in movement, progress, development, etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Four lagging winters and four wanton springs End in a word: such is the breath of kings."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her letter now is sealed, and on it writ “At Ardea to my lord with more than haste.” The post attends, and she delivers it, Charging the sour-faced groom to hie as fast As lagging fowls before the northern blast."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I stood in the streets, lagging and feeble, scarcely able to wish, much less to think."*

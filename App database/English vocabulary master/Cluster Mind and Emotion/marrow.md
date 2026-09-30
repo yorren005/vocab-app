@@ -5,20 +5,6 @@ status: unread
 ---
 # marrow
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Bone marrow
-> 2. **Nuance / Usage**: The choicest of food
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"sevens, as genuine county bones and marrow as any recorded in history."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"blood, blends with her brains, and seasons the marrow of her bones."*
-> - 📜 **Classic Author (*Eaten*):** *"Chop me up, I like to be hurt / Drink my marrow and blood for dessert"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: The innermost, essential, or most vital part of something; the pith, core, or deep-seated seat of feeling and character.
+> 2. **Nuance / Usage**: Literally, the soft, blood-forming vascular tissue filling the cavities of bones, historically regarded as the seat of physical vigor and courage.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry David Thoreau (*Walden*):** *"I wanted to live deep and suck out all the **marrow** of life, to live so sturdily and Spartan-like as to put to rout all that was not life."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"There they lay at sixes and sevens, as genuine county bones and **marrow** as any recorded in history."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Madness runs in the blood, blends with her brains, and seasons the **marrow** of her bones."*

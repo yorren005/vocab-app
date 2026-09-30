@@ -5,15 +5,6 @@ status: unread
 ---
 # axi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek axi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Science & Inquiry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The lanceolate windows, the time-eaten archstones and chamfers, the orientation of the axis, the misty chestnut work of the rafters, referred to no exploded fortifying art or worn-out religious creed."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Down, down, they sped, the wheels humming like a top, the dog-cart rocking right and left, its axis acquiring a slightly oblique set in relation to the line of progress; the figure of the horse rising and falling in undulations before them."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"While Highlandmen hate tools an’ taxes; While moorlan’s herds like guid, fat braxies; While terra firma, on her axis, Diurnal turns; Count on a friend, in faith an’ practice, In Robert Burns."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek axi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Science & Inquiry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The lanceolate windows, the time-eaten archstones and chamfers, the orientation of the axis, the misty chestnut work of the rafters, referred to no exploded fortifying art or worn-out religious creed."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Down, down, they sped, the wheels humming like a top, the dog-cart rocking right and left, its axis acquiring a slightly oblique set in relation to the line of progress; the figure of the horse rising and falling in undulations before them."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"While Highlandmen hate tools an’ taxes; While moorlan’s herds like guid, fat braxies; While terra firma, on her axis, Diurnal turns; Count on a friend, in faith an’ practice, In Robert Burns."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # enamour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract; cause to be enamored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attract; cause to be enamored.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They that, when Richard lived, would have him die Are now become enamour’d on his grave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mine ear is much enamour’d of thy note."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methought I was enamour’d of an ass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract; cause to be enamored.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attract; cause to be enamored.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They that, when Richard lived, would have him die Are now become enamour’d on his grave."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mine ear is much enamour’d of thy note."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methought I was enamour’d of an ass."*

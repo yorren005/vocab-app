@@ -5,15 +5,6 @@ status: unread
 ---
 # deserve
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be worthy or deserving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be worthy or deserving.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be it lawful I love thee as thou lov’st those, Whom thine eyes woo as mine importune thee, Root pity in thy heart that when it grows, Thy pity may deserve to pitied be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be not offended; for it hurts not him That he is lov’d of me; I follow him not By any token of presumptuous suit, Nor would I have him till I do deserve him; Yet never know how that desert should be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, monsieur; I have spoken better of you than you have or will to deserve at my hand; but we must do good against evil. [_Exit._] PAROLLES."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be worthy or deserving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be worthy or deserving.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be it lawful I love thee as thou lov’st those, Whom thine eyes woo as mine importune thee, Root pity in thy heart that when it grows, Thy pity may deserve to pitied be."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be not offended; for it hurts not him That he is lov’d of me; I follow him not By any token of presumptuous suit, Nor would I have him till I do deserve him; Yet never know how that desert should be."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, monsieur; I have spoken better of you than you have or will to deserve at my hand; but we must do good against evil. [_Exit._] PAROLLES."*

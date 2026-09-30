@@ -5,15 +5,6 @@ status: unread
 ---
 # vicegerent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone appointed by a ruler as an administrative deputy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone appointed by a ruler as an administrative deputy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KING. [_Reads_.] _Great deputy, the welkin’s vicegerent and sole dominator of Navarre, my soul’s earth’s god and body’s fostering patron—_ COSTARD."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Justice, the high vicegerent of her God, Her doubtful balance eyed, and sway’d her rod: Hearing the tidings of the fatal blow, She sank, abandon’d to the wildest woe."*
-> - 📜 **John Milton (*Paradise Lost*):** *"But whom send I to judge them? whom but thee Vicegerent Son, to thee I have transferr’d All Judgement, whether in Heav’n, or Earth; or Hell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone appointed by a ruler as an administrative deputy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone appointed by a ruler as an administrative deputy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KING. [_Reads_.] _Great deputy, the welkin’s vicegerent and sole dominator of Navarre, my soul’s earth’s god and body’s fostering patron—_ COSTARD."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Justice, the high vicegerent of her God, Her doubtful balance eyed, and sway’d her rod: Hearing the tidings of the fatal blow, She sank, abandon’d to the wildest woe."*
+> - 📜 **John Milton (*Paradise Lost*):** *"But whom send I to judge them? whom but thee Vicegerent Son, to thee I have transferr’d All Judgement, whether in Heav’n, or Earth; or Hell."*

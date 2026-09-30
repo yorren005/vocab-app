@@ -5,15 +5,6 @@ status: unread
 ---
 # advert
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public promotion of some product or service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give heed (to).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"All this I enjoyed often and fully, free, unwatched, and almost alone: for this unwonted liberty and pleasure there was a cause, to which it now becomes my task to advert."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It may be worth while, therefore, previously to advert to those curious imaginary portraits of him which even down to the present day confidently challenge the faith of the landsman."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The plausibility of this objection will vanish the moment we advert to the essential difference between a mere NON-COMPLIANCE and a DIRECT and ACTIVE RESISTANCE."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A public promotion of some product or service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give heed (to).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"All this I enjoyed often and fully, free, unwatched, and almost alone: for this unwonted liberty and pleasure there was a cause, to which it now becomes my task to advert."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It may be worth while, therefore, previously to advert to those curious imaginary portraits of him which even down to the present day confidently challenge the faith of the landsman."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The plausibility of this objection will vanish the moment we advert to the essential difference between a mere NON-COMPLIANCE and a DIRECT and ACTIVE RESISTANCE."*

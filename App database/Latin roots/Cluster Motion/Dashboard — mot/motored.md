@@ -5,14 +5,6 @@ status: unread
 ---
 # motored
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Travel or be transported in a vehicle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equipped with a motor or motors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"This morning I motored into Amesbury to change the library books and to enquire after Canon Bodington."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"But only on Monday Mr Maplestone motored over from Wembly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Travel or be transported in a vehicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equipped with a motor or motors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"This morning I motored into Amesbury to change the library books and to enquire after Canon Bodington."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"But only on Monday Mr Maplestone motored over from Wembly."*

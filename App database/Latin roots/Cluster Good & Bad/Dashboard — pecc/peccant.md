@@ -5,15 +5,6 @@ status: unread
 ---
 # peccant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to sin; - sir walter scott.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liable to sin; - sir walter scott.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Tonight he said, "I can't think why you don't get a woman over to massage you," and then, reverting to the peccant master, "Brown's a nuisance."*
-> - 📜 **John Milton (*Paradise Lost*):** *"But let us call to Synod all the Blest Through Heav’ns wide bounds; from them I will not hide My judgments, how with Mankind I proceed, As how with peccant Angels late they saw; And in thir state, though firm, stood more confirmd."*
-> - 📜 **John Milton (*Paradise Lost*):** *"But let us call to synod all the Blest, Through Heaven’s wide bounds: from them I will not hide My judgements; how with mankind I proceed, As how with peccant Angels late they saw, And in their state, though firm, stood more confirmed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to sin; - sir walter scott.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liable to sin; - sir walter scott.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Tonight he said, "I can't think why you don't get a woman over to massage you," and then, reverting to the peccant master, "Brown's a nuisance."*
+> - 📜 **John Milton (*Paradise Lost*):** *"But let us call to Synod all the Blest Through Heav’ns wide bounds; from them I will not hide My judgments, how with Mankind I proceed, As how with peccant Angels late they saw; And in thir state, though firm, stood more confirmd."*
+> - 📜 **John Milton (*Paradise Lost*):** *"But let us call to synod all the Blest, Through Heaven’s wide bounds: from them I will not hide My judgements; how with mankind I proceed, As how with peccant Angels late they saw, And in their state, though firm, stood more confirmed."*

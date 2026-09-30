@@ -5,15 +5,6 @@ status: unread
 ---
 # incarnadine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make flesh-colored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make flesh-colored.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, this my hand will rather The multitudinous seas incarnadine, Making the green one red."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"What more natural than to imagine that the violets and the hyacinths, the roses and the anemones, sprang from their dust, were empurpled or incarnadined by their blood, and contained some portion of their spirit?"*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In such multitudes do they come that the streets and squares of the city are encumbered with their swarms, and incarnadined with their red cloaks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make flesh-colored.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make flesh-colored.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, this my hand will rather The multitudinous seas incarnadine, Making the green one red."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"What more natural than to imagine that the violets and the hyacinths, the roses and the anemones, sprang from their dust, were empurpled or incarnadined by their blood, and contained some portion of their spirit?"*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In such multitudes do they come that the streets and squares of the city are encumbered with their swarms, and incarnadined with their red cloaks."*

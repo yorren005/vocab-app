@@ -5,13 +5,6 @@ status: unread
 ---
 # plethysmograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for determining and registering variations in the size of an organ, limb, or part resulting from changes in the amount of blood present or passing through it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for determining and registering variations in the size of an organ, limb, or part resulting from changes in the amount of blood present or passing through it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plethysmograph designates an instrument for determining and registering variations in the size of an organ, limb, or part resulting from changes in the amount of blood present or passing through it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for determining and registering variations in the size of an organ, limb, or part resulting from changes in the amount of blood present or passing through it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for determining and registering variations in the size of an organ, limb, or part resulting from changes in the amount of blood present or passing through it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plethysmograph designates an instrument for determining and registering variations in the size of an organ, limb, or part resulting from changes in the amount of blood present or passing through it."*

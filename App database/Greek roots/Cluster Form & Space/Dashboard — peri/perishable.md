@@ -5,15 +5,6 @@ status: unread
 ---
 # perishable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Food that will decay rapidly if not refrigerated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liable to perish; subject to destruction or death or decay.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A woman’s good name is such a perishable article that—” Bathsheba laughed with a flushed cheek, and whispered in Liddy’s ear, although there was nobody present."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Few kinds of food answer very well to this last requirement, being organic and perishable."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She believed in him as an excellent man whose piety carried a peculiar eminence in belonging to a layman, whose influence had turned her own mind toward seriousness, and whose share of perishable good had been the means of raising her own position."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Food that will decay rapidly if not refrigerated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liable to perish; subject to destruction or death or decay.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A woman’s good name is such a perishable article that—” Bathsheba laughed with a flushed cheek, and whispered in Liddy’s ear, although there was nobody present."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Few kinds of food answer very well to this last requirement, being organic and perishable."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She believed in him as an excellent man whose piety carried a peculiar eminence in belonging to a layman, whose influence had turned her own mind toward seriousness, and whose share of perishable good had been the means of raising her own position."*

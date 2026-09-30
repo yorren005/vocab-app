@@ -5,13 +5,6 @@ status: unread
 ---
 # lineman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the players on the line of scrimmage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surveyor who marks positions with a range pole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lineman designates one of the players on the line of scrimmage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the players on the line of scrimmage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surveyor who marks positions with a range pole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lineman designates one of the players on the line of scrimmage."*

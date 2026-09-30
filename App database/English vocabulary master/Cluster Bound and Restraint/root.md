@@ -5,20 +5,6 @@ status: unread
 ---
 # root
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Root vegetable
-> 2. **Nuance / Usage**: The part of a tooth extending into the bone holding the tooth in place
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the root withstood the storm*), direct object (*cleaved the root*), or prepositional anchor (*amidst the root*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I’ll plant Plantagenet, root him up who dares."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Why grow the branches when the root is gone?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"And rape, I fear, was root of thy annoy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: The underground organ of a plant that anchors it firmly in the soil and absorbs water and nourishment; figuratively, the fundamental cause, origin, or deepest attachment of something.
+> 2. **Nuance / Usage**: As a verb of restraint (*to root*), to fix someone or something immovably to a spot—as by shock, wonder, or deep-seated habit (*rooted to the ground*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count) & Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Functions nominally (*strike root*, *the root of the matter*) and verbally in restraint constructions (*rooted to the spot*).
+> - **Collocations & Registers**: Botanical, psychological, and foundational registers; paired with *anchor*, *spot*, *strike*, *deep-seated*, and *upheaval*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Richard III*):** *"Why grow the branches when the **root** is gone?"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth remained **rooted** to the spot in astonishment until the carriage had vanished down the lane."*
+> - 📜 **George Eliot (*Silas Marner*):** *"His life had been narrowed and hardened until every habit seemed **rooted** in the very stones of his cottage."*

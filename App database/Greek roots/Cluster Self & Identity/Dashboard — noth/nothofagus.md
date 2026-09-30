@@ -5,13 +5,6 @@ status: unread
 ---
 # nothofagus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beeches of temperate southern hemisphere except africa: southern beech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beeches of temperate southern hemisphere except africa: southern beech.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nothofagus designates beeches of temperate southern hemisphere except africa: southern beech."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beeches of temperate southern hemisphere except africa: southern beech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beeches of temperate southern hemisphere except africa: southern beech.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nothofagus designates beeches of temperate southern hemisphere except africa: southern beech."*

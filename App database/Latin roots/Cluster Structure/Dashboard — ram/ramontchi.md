@@ -5,13 +5,6 @@ status: unread
 ---
 # ramontchi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small shrubby tree of madagascar cultivated in tropical regions as a hedge plant and for its deep red acid fruits resembling small plums.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small shrubby tree of madagascar cultivated in tropical regions as a hedge plant and for its deep red acid fruits resembling small plums.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramontchi designates small shrubby tree of madagascar cultivated in tropical regions as a hedge plant and for its deep red acid fruits resembling small plums."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small shrubby tree of madagascar cultivated in tropical regions as a hedge plant and for its deep red acid fruits resembling small plums.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small shrubby tree of madagascar cultivated in tropical regions as a hedge plant and for its deep red acid fruits resembling small plums.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ramontchi designates small shrubby tree of madagascar cultivated in tropical regions as a hedge plant and for its deep red acid fruits resembling small plums."*

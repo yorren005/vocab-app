@@ -5,15 +5,6 @@ status: unread
 ---
 # course
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Education imparted in a series of lessons or meetings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A connected series of events or actions or developments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must not marvel, Helen, at my course, Which holds not colour with the time, nor does The ministration and required office On my particular."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Write, write, that from the bloody course of war My dearest master, your dear son, may hie."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And as in the common course of all treasons, we still see them reveal themselves till they attain to their abhorr’d ends; so he that in this action contrives against his own nobility, in his proper stream, o’erflows himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Education imparted in a series of lessons or meetings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A connected series of events or actions or developments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must not marvel, Helen, at my course, Which holds not colour with the time, nor does The ministration and required office On my particular."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Write, write, that from the bloody course of war My dearest master, your dear son, may hie."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And as in the common course of all treasons, we still see them reveal themselves till they attain to their abhorr’d ends; so he that in this action contrives against his own nobility, in his proper stream, o’erflows himself."*

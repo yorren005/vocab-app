@@ -5,15 +5,6 @@ status: unread
 ---
 # dramatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to drama.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitable to or characteristic of drama (as in being very exciting or moving).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It is difficult to describe the intensely dramatic effect that announcement had upon Oak at such a moment."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The impressionable peasant leads a larger, fuller, more dramatic life than the pachydermatous king."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"The lives of the Forsythe family were less absorbing than her own life when this fiery dramatic glow was shed over it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to drama.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitable to or characteristic of drama (as in being very exciting or moving).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It is difficult to describe the intensely dramatic effect that announcement had upon Oak at such a moment."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The impressionable peasant leads a larger, fuller, more dramatic life than the pachydermatous king."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"The lives of the Forsythe family were less absorbing than her own life when this fiery dramatic glow was shed over it."*

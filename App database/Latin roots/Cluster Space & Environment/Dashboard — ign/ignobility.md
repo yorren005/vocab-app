@@ -5,13 +5,6 @@ status: unread
 ---
 # ignobility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being ignoble.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being ignoble.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I, as all the generations of philosophers before me, know woman for what she is—her weaknesses, and meannesses, and immodesties, and ignobilities, her earth-bound feet, and her eyes that have never seen the stars."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being ignoble.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being ignoble.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I, as all the generations of philosophers before me, know woman for what she is—her weaknesses, and meannesses, and immodesties, and ignobilities, her earth-bound feet, and her eyes that have never seen the stars."*

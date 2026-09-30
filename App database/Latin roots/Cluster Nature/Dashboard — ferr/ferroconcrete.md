@@ -5,13 +5,6 @@ status: unread
 ---
 # ferroconcrete
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concrete with metal and/or mesh added to provide extra support against stresses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concrete with metal and/or mesh added to provide extra support against stresses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferroconcrete designates concrete with metal and/or mesh added to provide extra support against stresses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concrete with metal and/or mesh added to provide extra support against stresses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concrete with metal and/or mesh added to provide extra support against stresses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferroconcrete designates concrete with metal and/or mesh added to provide extra support against stresses."*

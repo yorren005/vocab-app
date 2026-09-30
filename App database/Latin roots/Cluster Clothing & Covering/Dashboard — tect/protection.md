@@ -5,15 +5,6 @@ status: unread
 ---
 # protection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of protecting someone or something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A covering that is intend to protect from damage or injury.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"May it please you To take them in protection?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sleep hath seiz’d me wholly. [_Exit Lady._] To your protection I commend me, gods."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Myself and Beaufort had him in protection, And we, I hope, sir, are no murderers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of protecting someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A covering that is intend to protect from damage or injury.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"May it please you To take them in protection?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sleep hath seiz’d me wholly. [_Exit Lady._] To your protection I commend me, gods."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Myself and Beaufort had him in protection, And we, I hope, sir, are no murderers."*

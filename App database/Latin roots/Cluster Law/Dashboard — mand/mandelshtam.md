@@ -5,13 +5,6 @@ status: unread
 ---
 # mandelshtam
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Russian poet who died in a prison camp (1891-1938).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Russian poet who died in a prison camp (1891-1938).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandelshtam designates russian poet who died in a prison camp (1891-1938)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Russian poet who died in a prison camp (1891-1938).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Russian poet who died in a prison camp (1891-1938).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mandelshtam designates russian poet who died in a prison camp (1891-1938)."*

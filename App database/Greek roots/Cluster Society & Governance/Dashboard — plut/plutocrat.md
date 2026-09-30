@@ -5,13 +5,6 @@ status: unread
 ---
 # plutocrat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by the wealthy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A controlling class of the wealthy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plutocrat designates government by the wealthy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by the wealthy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A controlling class of the wealthy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plutocrat designates government by the wealthy."*

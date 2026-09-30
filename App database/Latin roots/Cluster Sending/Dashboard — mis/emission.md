@@ -5,13 +5,6 @@ status: unread
 ---
 # emission
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of emitting; causing to flow forth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance that is emitted or released.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The imposition of duties on imported articles, and the emission of paper money, are specimens of each kind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of emitting; causing to flow forth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance that is emitted or released.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The imposition of duties on imported articles, and the emission of paper money, are specimens of each kind."*

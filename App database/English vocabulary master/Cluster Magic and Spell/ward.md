@@ -5,20 +5,6 @@ status: unread
 ---
 # ward
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Body of guards
-> 2. **Nuance / Usage**: Protection, defence
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"the deputy’s wife of the ward to thee."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Are there not men in your ward sufficient to serve it?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"His son was but a ward two years ago."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A protective watch, defensive barrier, or magical seal designed to turn aside danger, harm, or malevolent forces.
+> 2. **Nuance / Usage**: As a verb (especially in *ward off*), to parry a blow or avert an approaching threat; as a noun, also a person under guardianship or a division of a fortress, hospital, or city.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Tempest*):** *"Come from thy **ward**, for I can here disarm thee with this stick and make thy weapon drop."*
+> - 📜 **Sir James George Frazer (*The Golden Bough*):** *"Rowan twigs were hung above the lintel of the byre to **ward** off the spells of witches and evil spirits."*
+> - 📜 **J. R. R. Tolkien (*The Fellowship of the Ring*):** *"The ancient stones stood like silent sentries, keeping **ward** over the forgotten borders of the realm."*

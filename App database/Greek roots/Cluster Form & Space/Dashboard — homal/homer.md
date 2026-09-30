@@ -5,15 +5,6 @@ status: unread
 ---
 # homer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A base hit on which the batter scores a run.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ancient greek epic poet who is believed to have written the iliad and the odyssey (circa 850 bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sun went down in an ochreous mist; but they sat, and talked on, and grew as merry as the gods in Homer’s heaven."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Her lord, a wight of Homer’s craft,^2 Tho’ limpin wi’ the spavie, He hirpl’d up, an’ lap like daft, An’ shor’d them Dainty Davie."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Air Tune—“For a’ that, an’ a’ that.” I am a Bard of no regard, Wi’ gentle folks an’ a’ that; But Homer-like, the glowrin byke, Frae town to town I draw that."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A base hit on which the batter scores a run.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ancient greek epic poet who is believed to have written the iliad and the odyssey (circa 850 bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sun went down in an ochreous mist; but they sat, and talked on, and grew as merry as the gods in Homer’s heaven."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Her lord, a wight of Homer’s craft,^2 Tho’ limpin wi’ the spavie, He hirpl’d up, an’ lap like daft, An’ shor’d them Dainty Davie."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Air Tune—“For a’ that, an’ a’ that.” I am a Bard of no regard, Wi’ gentle folks an’ a’ that; But Homer-like, the glowrin byke, Frae town to town I draw that."*

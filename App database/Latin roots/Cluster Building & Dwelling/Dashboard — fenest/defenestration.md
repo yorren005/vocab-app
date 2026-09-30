@@ -5,13 +5,6 @@ status: unread
 ---
 # defenestration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of throwing someone or something out of a window.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of throwing someone or something out of a window.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defenestration designates the act of throwing someone or something out of a window."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of throwing someone or something out of a window.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of throwing someone or something out of a window.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defenestration designates the act of throwing someone or something out of a window."*

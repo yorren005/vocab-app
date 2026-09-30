@@ -5,13 +5,6 @@ status: unread
 ---
 # privet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various old world shrubs having smooth entire leaves and terminal panicles of small white flowers followed by small black berries; many used for hedges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various old world shrubs having smooth entire leaves and terminal panicles of small white flowers followed by small black berries; many used for hedges.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"All over China, but especially in this part of Szechuan, there grows a tree of the large-leaved privet species."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various old world shrubs having smooth entire leaves and terminal panicles of small white flowers followed by small black berries; many used for hedges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various old world shrubs having smooth entire leaves and terminal panicles of small white flowers followed by small black berries; many used for hedges.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"All over China, but especially in this part of Szechuan, there grows a tree of the large-leaved privet species."*

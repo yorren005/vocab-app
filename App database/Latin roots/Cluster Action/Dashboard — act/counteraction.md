@@ -5,14 +5,6 @@ status: unread
 ---
 # counteraction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Action intended to nullify the effects of some previous action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Action intended to nullify the effects of some previous action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"As I cried, I kicked the wall, and took a hard twist at my hair; so bitter were my feelings, and so sharp was the smart without a name, that needed counteraction."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"A counteraction, gentle and continual, is the best safeguard of manners and conduct.” Full well could Fanny guess where his thoughts were now: Miss Crawford’s power was all returning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +41,10 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Action intended to nullify the effects of some previous action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Action intended to nullify the effects of some previous action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"As I cried, I kicked the wall, and took a hard twist at my hair; so bitter were my feelings, and so sharp was the smart without a name, that needed counteraction."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"A counteraction, gentle and continual, is the best safeguard of manners and conduct.” Full well could Fanny guess where his thoughts were now: Miss Crawford’s power was all returning."*

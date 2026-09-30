@@ -5,15 +5,6 @@ status: unread
 ---
 # presumptive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a reasonable basis for belief or acceptance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording reasonable grounds for belief or acceptance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"The heir presumptive, the very William Walter Elliot, Esq., whose rights had been so generously supported by her father, had disappointed her."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The first was a short paragraph in the local newspaper, which, beyond making by a methodizing pen formidable presumptive evidence of Troy’s death by drowning, contained the important testimony of a young Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The first was a short paragraph in the local newspaper, which, beyond making by a methodizing pen formidable presumptive evidence of Troy’s death by drowning, contained the important testimony of a young Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a reasonable basis for belief or acceptance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording reasonable grounds for belief or acceptance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"The heir presumptive, the very William Walter Elliot, Esq., whose rights had been so generously supported by her father, had disappointed her."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The first was a short paragraph in the local newspaper, which, beyond making by a methodizing pen formidable presumptive evidence of Troy’s death by drowning, contained the important testimony of a young Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The first was a short paragraph in the local newspaper, which, beyond making by a methodizing pen formidable presumptive evidence of Troy’s death by drowning, contained the important testimony of a young Mr."*

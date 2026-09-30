@@ -5,13 +5,6 @@ status: unread
 ---
 # decalescent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Absorbing heat without increase in temperature when heated beyond a certain point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absorbing heat without increase in temperature when heated beyond a certain point.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decalescent designates absorbing heat without increase in temperature when heated beyond a certain point."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Absorbing heat without increase in temperature when heated beyond a certain point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absorbing heat without increase in temperature when heated beyond a certain point.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decalescent designates absorbing heat without increase in temperature when heated beyond a certain point."*

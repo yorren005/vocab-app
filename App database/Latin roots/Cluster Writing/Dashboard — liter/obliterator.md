@@ -5,13 +5,6 @@ status: unread
 ---
 # obliterator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An eliminator that does away with all traces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An eliminator that does away with all traces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obliterator designates an eliminator that does away with all traces."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An eliminator that does away with all traces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An eliminator that does away with all traces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obliterator designates an eliminator that does away with all traces."*

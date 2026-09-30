@@ -5,15 +5,6 @@ status: unread
 ---
 # dolor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (poetry) painful grief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (poetry) painful grief.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"This agreeable expression faded into one of almost mechanical dolor, and the personable young man shook hands with Mr."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"At the scraping out of each line, say, “So as I destroy the letters of this talisman, _Abracadabra_, so, by virtue of this sacred name, may all grief and dolor depart from [here mention the name of the sick person]."*
-> - 📜 **James Joyce (*Ulysses*):** *"Mina Kennedy, 4 Lismore terrace, Drumcondra with Idolores, a queen, Dolores, silent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (poetry) painful grief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (poetry) painful grief.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"This agreeable expression faded into one of almost mechanical dolor, and the personable young man shook hands with Mr."*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"At the scraping out of each line, say, “So as I destroy the letters of this talisman, _Abracadabra_, so, by virtue of this sacred name, may all grief and dolor depart from [here mention the name of the sick person]."*
+> - 📜 **James Joyce (*Ulysses*):** *"Mina Kennedy, 4 Lismore terrace, Drumcondra with Idolores, a queen, Dolores, silent."*

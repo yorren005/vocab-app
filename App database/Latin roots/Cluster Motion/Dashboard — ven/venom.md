@@ -5,15 +5,6 @@ status: unread
 ---
 # venom
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Toxin secreted by animals; secreted by certain snakes and poisonous insects (e.g., spiders and scorpions).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling a need to see others suffer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The venom clamours of a jealous woman Poisons more deadly than a mad dog’s tooth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, venom, to thy work. [_Stabs the King._] OSRIC and LORDS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The venom of such looks, we fairly hope, Have lost their quality; and that this day Shall change all griefs and quarrels into love."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Toxin secreted by animals; secreted by certain snakes and poisonous insects (e.g., spiders and scorpions).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling a need to see others suffer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The venom clamours of a jealous woman Poisons more deadly than a mad dog’s tooth."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, venom, to thy work. [_Stabs the King._] OSRIC and LORDS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The venom of such looks, we fairly hope, Have lost their quality; and that this day Shall change all griefs and quarrels into love."*

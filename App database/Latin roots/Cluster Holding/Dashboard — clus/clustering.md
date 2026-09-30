@@ -5,15 +5,6 @@ status: unread
 ---
 # clustering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grouping of a number of similar things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come together as in a cluster or flock.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"As I watched them while they all stood clustering about the forge, enjoying themselves so much, I thought what terrible good sauce for a dinner my fugitive friend on the marshes was."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Next day, a large ship, the Rachel, was descried, bearing directly down upon the Pequod, all her spars thickly clustering with men."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The public-houses were just closing, and dim men and women were clustering in broken groups round their doors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A grouping of a number of similar things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come together as in a cluster or flock.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"As I watched them while they all stood clustering about the forge, enjoying themselves so much, I thought what terrible good sauce for a dinner my fugitive friend on the marshes was."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Next day, a large ship, the Rachel, was descried, bearing directly down upon the Pequod, all her spars thickly clustering with men."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The public-houses were just closing, and dim men and women were clustering in broken groups round their doors."*

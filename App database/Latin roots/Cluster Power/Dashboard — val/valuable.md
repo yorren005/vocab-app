@@ -5,15 +5,6 @@ status: unread
 ---
 # valuable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something of value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having great material or monetary value especially for use or exchange.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Where could all the valuable damask-covered furniture have gone to?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A very valuable person, and deservedly respected.” The debilitated cousin supposes he is “’normously rich fler.” “He has a stake in the country,” says Sir Leicester, “I have no doubt."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If it should prove to be valuable, you trusting yourself to him for your reward; that’s about where it is, ain’t it?” “That’s what was agreed,” Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something of value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having great material or monetary value especially for use or exchange.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Where could all the valuable damask-covered furniture have gone to?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A very valuable person, and deservedly respected.” The debilitated cousin supposes he is “’normously rich fler.” “He has a stake in the country,” says Sir Leicester, “I have no doubt."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"If it should prove to be valuable, you trusting yourself to him for your reward; that’s about where it is, ain’t it?” “That’s what was agreed,” Mr."*

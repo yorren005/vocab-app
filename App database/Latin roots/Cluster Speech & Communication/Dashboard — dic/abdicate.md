@@ -5,15 +5,6 @@ status: unread
 ---
 # abdicate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give up, such as power, as of monarchs and emperors, or duties and obligations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give up, such as power, as of monarchs and emperors, or duties and obligations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I refuse the title.” “Royalties may not abdicate,” fell as a warning from pretty lips."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Are you suggesting that we abdicate our sovereignty to a single authority?"*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I have been content to abdicate in her favour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give up, such as power, as of monarchs and emperors, or duties and obligations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give up, such as power, as of monarchs and emperors, or duties and obligations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"I refuse the title.” “Royalties may not abdicate,” fell as a warning from pretty lips."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Are you suggesting that we abdicate our sovereignty to a single authority?"*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I have been content to abdicate in her favour."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # vitrine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A glass container used to store and display items in a shop or museum or home.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A glass container used to store and display items in a shop or museum or home.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vitrine designates a glass container used to store and display items in a shop or museum or home."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A glass container used to store and display items in a shop or museum or home.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A glass container used to store and display items in a shop or museum or home.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vitrine designates a glass container used to store and display items in a shop or museum or home."*

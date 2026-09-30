@@ -5,15 +5,6 @@ status: unread
 ---
 # rigour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being valid and rigorous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something hard to endure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Base dunghill villain and mechanical, I’ll have thy head for this thy traitor’s speech!— I do beseech your royal majesty, Let him have all the rigour of the law."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, this I heard: the King is come to his daughter, With others whom the rigour of our state Forc’d to cry out."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He arrests him on it, And follows close the rigour of the statute To make him an example."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being valid and rigorous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something hard to endure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Base dunghill villain and mechanical, I’ll have thy head for this thy traitor’s speech!— I do beseech your royal majesty, Let him have all the rigour of the law."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, this I heard: the King is come to his daughter, With others whom the rigour of our state Forc’d to cry out."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He arrests him on it, And follows close the rigour of the statute To make him an example."*

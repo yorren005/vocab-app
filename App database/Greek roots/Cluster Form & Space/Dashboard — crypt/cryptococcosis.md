@@ -5,13 +5,6 @@ status: unread
 ---
 # cryptococcosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fungal infection characterized by nodular lesions--first in the lungs and spreading to the nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fungal infection characterized by nodular lesions--first in the lungs and spreading to the nervous system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptococcosis designates a fungal infection characterized by nodular lesions--first in the lungs and spreading to the nervous system."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fungal infection characterized by nodular lesions--first in the lungs and spreading to the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fungal infection characterized by nodular lesions--first in the lungs and spreading to the nervous system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptococcosis designates a fungal infection characterized by nodular lesions--first in the lungs and spreading to the nervous system."*

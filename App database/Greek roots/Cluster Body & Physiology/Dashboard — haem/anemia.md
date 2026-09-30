@@ -5,13 +5,6 @@ status: unread
 ---
 # anemia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which the blood is deficient in red blood cells, in hemoglobin, or in total volume.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition in which the blood is deficient in red blood cells, in hemoglobin, or in total volume.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"How kind of Captain Hyde!" she drawled, as Lawrence, irritated by her manner, went to help Val, while Isabel was called indoors by Fanny to listen to a tale of distress, unravel a grievance, and prescribe for anemia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which the blood is deficient in red blood cells, in hemoglobin, or in total volume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition in which the blood is deficient in red blood cells, in hemoglobin, or in total volume.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"How kind of Captain Hyde!" she drawled, as Lawrence, irritated by her manner, went to help Val, while Isabel was called indoors by Fanny to listen to a tale of distress, unravel a grievance, and prescribe for anemia."*

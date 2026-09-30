@@ -5,20 +5,6 @@ status: unread
 ---
 # flurry
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Gust of wind
-> 2. **Nuance / Usage**: Brief light snowfall
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was so sure of his meaning that I said, quite flurried, “You are very welcome, sir."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"All eyes met her with a glance of eager curiosity, and she met all eyes with one of rebuff and coldness; she looked neither flurried nor merry: she walked stiffly to her seat, and took it in silence."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Presently he emerged, looking even more flurried than before."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Gust of wind
+> 2. **Nuance / Usage**: Brief light snowfall
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I was so sure of his meaning that I said, quite flurried, “You are very welcome, sir."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"All eyes met her with a glance of eager curiosity, and she met all eyes with one of rebuff and coldness; she looked neither flurried nor merry: she walked stiffly to her seat, and took it in silence."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Presently he emerged, looking even more flurried than before."*

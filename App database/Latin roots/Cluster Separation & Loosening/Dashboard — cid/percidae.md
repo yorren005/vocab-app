@@ -5,13 +5,6 @@ status: unread
 ---
 # percidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Active freshwater fishes; true perches and pike perches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Active freshwater fishes; true perches and pike perches.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, percidae designates active freshwater fishes; true perches and pike perches."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Active freshwater fishes; true perches and pike perches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Active freshwater fishes; true perches and pike perches.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, percidae designates active freshwater fishes; true perches and pike perches."*

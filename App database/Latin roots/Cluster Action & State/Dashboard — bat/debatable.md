@@ -5,15 +5,6 @@ status: unread
 ---
 # debatable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to doubt or debate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open to argument or debate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Moreover she, and Clare also, stood as yet on the debatable land between predilection and love; where no profundities have been reached; no reflections have set in, awkwardly inquiring, “Whither does this new current tend to carry me?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some industries do well, others ill, under public management, and between these lie many debatable cases."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"There is an ominous look to these pretentious establishments holding strategic points in this or that debatable territory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to doubt or debate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open to argument or debate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Moreover she, and Clare also, stood as yet on the debatable land between predilection and love; where no profundities have been reached; no reflections have set in, awkwardly inquiring, “Whither does this new current tend to carry me?"*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some industries do well, others ill, under public management, and between these lie many debatable cases."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"There is an ominous look to these pretentious establishments holding strategic points in this or that debatable territory."*

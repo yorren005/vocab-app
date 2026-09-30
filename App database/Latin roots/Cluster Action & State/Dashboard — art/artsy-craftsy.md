@@ -5,13 +5,6 @@ status: unread
 ---
 # artsy-craftsy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pretentiously artistic; cloyingly charming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pretentiously artistic; cloyingly charming.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, artsy-craftsy designates pretentiously artistic; cloyingly charming."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pretentiously artistic; cloyingly charming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pretentiously artistic; cloyingly charming.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, artsy-craftsy designates pretentiously artistic; cloyingly charming."*

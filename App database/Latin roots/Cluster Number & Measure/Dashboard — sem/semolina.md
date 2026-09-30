@@ -5,13 +5,6 @@ status: unread
 ---
 # semolina
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Milled product of durum wheat (or other hard wheat) used in pasta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Milled product of durum wheat (or other hard wheat) used in pasta.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semolina designates milled product of durum wheat (or other hard wheat) used in pasta."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Milled product of durum wheat (or other hard wheat) used in pasta.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Milled product of durum wheat (or other hard wheat) used in pasta.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semolina designates milled product of durum wheat (or other hard wheat) used in pasta."*

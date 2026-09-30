@@ -5,13 +5,6 @@ status: unread
 ---
 # celsius
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swedish astronomer who devised the centigrade thermometer (1701-1744).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swedish astronomer who devised the centigrade thermometer (1701-1744).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celsius designates swedish astronomer who devised the centigrade thermometer (1701-1744)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Swedish astronomer who devised the centigrade thermometer (1701-1744).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swedish astronomer who devised the centigrade thermometer (1701-1744).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celsius designates swedish astronomer who devised the centigrade thermometer (1701-1744)."*

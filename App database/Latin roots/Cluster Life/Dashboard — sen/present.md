@@ -5,15 +5,6 @@ status: unread
 ---
 # present
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of time that is happening now; any continuous stretch of time including the moment of speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something presented as a gift.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So either by thy picture or my love, Thyself away, art present still with me, For thou not farther than my thoughts canst move, And I am still with them, and they with thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So thou be good, slander doth but approve, Thy worth the greater being wooed of time, For canker vice the sweetest buds doth love, And thou present’st a pure unstained prime."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who hateth thee that I do call my friend, On whom frown’st thou that I do fawn upon, Nay if thou lour’st on me do I not spend Revenge upon my self with present moan?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of time that is happening now; any continuous stretch of time including the moment of speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something presented as a gift.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So either by thy picture or my love, Thyself away, art present still with me, For thou not farther than my thoughts canst move, And I am still with them, and they with thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So thou be good, slander doth but approve, Thy worth the greater being wooed of time, For canker vice the sweetest buds doth love, And thou present’st a pure unstained prime."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who hateth thee that I do call my friend, On whom frown’st thou that I do fawn upon, Nay if thou lour’st on me do I not spend Revenge upon my self with present moan?"*

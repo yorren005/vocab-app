@@ -5,15 +5,6 @@ status: unread
 ---
 # actium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient town on a promontory in western greece.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The naval battle in which antony and cleopatra were defeated by octavian's fleet under agrippa in 31 bc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antony’s Camp near the Promontory of Actium."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antony’s Camp near the Promontory of Actium."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our overplus of shipping will we burn, And with the rest full-manned, from th’ head of Actium Beat th’ approaching Caesar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient town on a promontory in western greece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The naval battle in which antony and cleopatra were defeated by octavian's fleet under agrippa in 31 bc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antony’s Camp near the Promontory of Actium."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antony’s Camp near the Promontory of Actium."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our overplus of shipping will we burn, And with the rest full-manned, from th’ head of Actium Beat th’ approaching Caesar."*

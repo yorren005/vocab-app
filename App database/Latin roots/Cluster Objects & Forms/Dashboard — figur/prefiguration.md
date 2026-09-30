@@ -5,13 +5,6 @@ status: unread
 ---
 # prefiguration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An example that prefigures or foreshadows what is to come.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of providing vague advance indications; representing beforehand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prefiguration designates an example that prefigures or foreshadows what is to come."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An example that prefigures or foreshadows what is to come.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of providing vague advance indications; representing beforehand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prefiguration designates an example that prefigures or foreshadows what is to come."*

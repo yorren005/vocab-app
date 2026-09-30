@@ -5,14 +5,6 @@ status: unread
 ---
 # monopolization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Domination (of a market or commodity) to the exclusion of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Domination (of a market or commodity) to the exclusion of others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Coal mines, especially those of some peculiar and limited kind, such as anthracite, appear to become easily an object of monopolization."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Coal-mines, especially those of some peculiar and limited kind, such as anthracite, appear to become easily an object of monopolization."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Domination (of a market or commodity) to the exclusion of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Domination (of a market or commodity) to the exclusion of others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Coal mines, especially those of some peculiar and limited kind, such as anthracite, appear to become easily an object of monopolization."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Coal-mines, especially those of some peculiar and limited kind, such as anthracite, appear to become easily an object of monopolization."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # inflammatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized or caused by inflammation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arousing to action or rebellion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Drink, Richard: it will give you the heart you lack, for an hour or so.” “But will it hurt me?—is it inflammatory?” “Drink! drink! drink!” Mr."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I cannot conceive why everybody of his standing who visited at our house should always have put me through the same inflammatory process under similar circumstances."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"True, I had no Avenger in my service now, but I was looked after by an inflammatory old female, assisted by an animated rag-bag whom she called her niece, and to keep a room secret from them would be to invite curiosity and exaggeration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized or caused by inflammation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arousing to action or rebellion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Drink, Richard: it will give you the heart you lack, for an hour or so.” “But will it hurt me?—is it inflammatory?” “Drink! drink! drink!” Mr."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I cannot conceive why everybody of his standing who visited at our house should always have put me through the same inflammatory process under similar circumstances."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"True, I had no Avenger in my service now, but I was looked after by an inflammatory old female, assisted by an animated rag-bag whom she called her niece, and to keep a room secret from them would be to invite curiosity and exaggeration."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # aeration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of exposing to air (so as to purify).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of charging a liquid with a gas making it effervescent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeration designates the process of exposing to air (so as to purify)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of exposing to air (so as to purify).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of charging a liquid with a gas making it effervescent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeration designates the process of exposing to air (so as to purify)."*

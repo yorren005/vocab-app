@@ -5,13 +5,6 @@ status: unread
 ---
 # reit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An investment trust that owns and manages a pool of commercial properties and mortgages and other real estate assets; shares can be bought and sold in the stock market.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An investment trust that owns and manages a pool of commercial properties and mortgages and other real estate assets; shares can be bought and sold in the stock market.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reit designates an investment trust that owns and manages a pool of commercial properties and mortgages and other real estate assets; shares can be bought and sold in the stock market."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An investment trust that owns and manages a pool of commercial properties and mortgages and other real estate assets; shares can be bought and sold in the stock market.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An investment trust that owns and manages a pool of commercial properties and mortgages and other real estate assets; shares can be bought and sold in the stock market.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reit designates an investment trust that owns and manages a pool of commercial properties and mortgages and other real estate assets; shares can be bought and sold in the stock market."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # decisively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With firmness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With finality; conclusively.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I have no time to tell you now, Kurt," the mother declared decisively."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba decisively turned to him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ay, that ’a is,” said a second, decisively."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With firmness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With finality; conclusively.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I have no time to tell you now, Kurt," the mother declared decisively."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba decisively turned to him."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ay, that ’a is,” said a second, decisively."*

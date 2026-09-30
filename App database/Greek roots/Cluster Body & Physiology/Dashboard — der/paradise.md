@@ -5,15 +5,6 @@ status: unread
 ---
 # paradise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any place of complete bliss and delight and peace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (christianity) the abode of righteous souls after death.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, no, although The air of paradise did fan the house, And angels offic’d all."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not that Adam that kept the paradise, but that Adam that keeps the prison; he that goes in the calf’s skin that was killed for the Prodigal; he that came behind you, sir, like an evil angel, and bid you forsake your liberty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If broken then, it is no fault of mine; If by me broke, what fool is not so wise To lose an oath to win a paradise?_ BEROWNE."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any place of complete bliss and delight and peace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (christianity) the abode of righteous souls after death.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, no, although The air of paradise did fan the house, And angels offic’d all."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not that Adam that kept the paradise, but that Adam that keeps the prison; he that goes in the calf’s skin that was killed for the Prodigal; he that came behind you, sir, like an evil angel, and bid you forsake your liberty."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If broken then, it is no fault of mine; If by me broke, what fool is not so wise To lose an oath to win a paradise?_ BEROWNE."*

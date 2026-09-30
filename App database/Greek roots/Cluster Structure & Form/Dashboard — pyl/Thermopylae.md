@@ -5,15 +5,6 @@ status: unread
 ---
 # Thermopylae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Locality in eastern Greece between Mount Oeta and the Gulf of Maliakós; once a narrow pass along the coast, now a rocky plain 6 miles (9.6 kilometers) from the sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Locality in eastern Greece between Mount Oeta and the Gulf of Maliakós; once a narrow pass along the coast, now a rocky plain 6 miles (9.6 kilometers) from the sea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Zdrzhinski, the officer with the long mustache, spoke grandiloquently of the Saltánov dam being “a Russian Thermopylae,” and of how a deed worthy of antiquity had been performed by General Raévski."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And besides, the fate of the Fatherland did not depend on whether they took the Saltánov dam or not, as we are told was the case at Thermopylae."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When Xerxes was marching through Thessaly at the head of his mighty host to attack the Spartans at Thermopylae, he came to the town of Alus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Locality in eastern Greece between Mount Oeta and the Gulf of Maliakós; once a narrow pass along the coast, now a rocky plain 6 miles (9.6 kilometers) from the sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Locality in eastern Greece between Mount Oeta and the Gulf of Maliakós; once a narrow pass along the coast, now a rocky plain 6 miles (9.6 kilometers) from the sea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Zdrzhinski, the officer with the long mustache, spoke grandiloquently of the Saltánov dam being “a Russian Thermopylae,” and of how a deed worthy of antiquity had been performed by General Raévski."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And besides, the fate of the Fatherland did not depend on whether they took the Saltánov dam or not, as we are told was the case at Thermopylae."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When Xerxes was marching through Thessaly at the head of his mighty host to attack the Spartans at Thermopylae, he came to the town of Alus."*

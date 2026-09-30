@@ -5,15 +5,6 @@ status: unread
 ---
 # inconsistent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Displaying a lack of consistency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being made consistent or harmonious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But they are not all like the woman who now leaves him and his house behind, between whose plain dress and her refined manner there is something exceedingly inconsistent."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It gave me the most inconsistent opinions of her."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, besides my very much mistrusting the probability of his being there without making Richard poorer, I felt as if there were something in his careless gaiety too inconsistent with what I knew of the depths of Ada’s life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Displaying a lack of consistency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being made consistent or harmonious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But they are not all like the woman who now leaves him and his house behind, between whose plain dress and her refined manner there is something exceedingly inconsistent."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It gave me the most inconsistent opinions of her."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, besides my very much mistrusting the probability of his being there without making Richard poorer, I felt as if there were something in his careless gaiety too inconsistent with what I knew of the depths of Ada’s life."*

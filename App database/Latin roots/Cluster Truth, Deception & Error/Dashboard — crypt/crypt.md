@@ -5,15 +5,6 @@ status: unread
 ---
 # crypt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cellar or vault or underground burial chamber (especially beneath a church).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cellar or vault or underground burial chamber (especially beneath a church).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Why had our incomprehensible guide led us to the bottom of this submarine crypt?"*
-> - 📜 **James Joyce (*Ulysses*):** *"He looked down intently into a stone crypt."*
-> - 📜 **James Joyce (*Ulysses*):** *"An obese grey rat toddled along the side of the crypt, moving the pebbles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cellar or vault or underground burial chamber (especially beneath a church).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cellar or vault or underground burial chamber (especially beneath a church).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Why had our incomprehensible guide led us to the bottom of this submarine crypt?"*
+> - 📜 **James Joyce (*Ulysses*):** *"He looked down intently into a stone crypt."*
+> - 📜 **James Joyce (*Ulysses*):** *"An obese grey rat toddled along the side of the crypt, moving the pebbles."*

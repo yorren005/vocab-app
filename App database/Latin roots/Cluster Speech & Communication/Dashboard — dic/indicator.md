@@ -5,15 +5,6 @@ status: unread
 ---
 # indicator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A number or ratio (a value on a scale of measurement) derived from a series of observed facts; can reveal relative changes as a function of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A signal for attracting attention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"An aberrant indicator caught his eye and he mind-stroked a sensor control."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This expansion moves a little globule of mercury which lies in the tube, and which forms the pointer or indicator by which the instrument is read."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"At the same time an electric-light indicator is switched on in front of the particular bins from which material is to be withdrawn, thus assisting in spotting the cars and checking the weighing-out."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A number or ratio (a value on a scale of measurement) derived from a series of observed facts; can reveal relative changes as a function of time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A signal for attracting attention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"An aberrant indicator caught his eye and he mind-stroked a sensor control."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This expansion moves a little globule of mercury which lies in the tube, and which forms the pointer or indicator by which the instrument is read."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"At the same time an electric-light indicator is switched on in front of the particular bins from which material is to be withdrawn, thus assisting in spotting the cars and checking the weighing-out."*

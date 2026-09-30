@@ -5,13 +5,6 @@ status: unread
 ---
 # reconstructive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Helping to restore to good condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Helping to restore to good condition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reconstructive designates helping to restore to good condition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Helping to restore to good condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Helping to restore to good condition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reconstructive designates helping to restore to good condition."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # centenarian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is at least 100 years old.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being at least 100 years old.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Experts estimate that there are thirty to fifty thousand living centenarians, up from the 1980 estimate of fifteen thousand."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Also, centenarians are not as feeble as they once were; disability rates among older people have been falling since the early 1980s."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is at least 100 years old.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being at least 100 years old.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Experts estimate that there are thirty to fifty thousand living centenarians, up from the 1980 estimate of fifteen thousand."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Also, centenarians are not as feeble as they once were; disability rates among older people have been falling since the early 1980s."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # instruct
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impart skills or knowledge to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give instructions or directions for some task.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Instruct my daughter how she shall persever, That time and place with this deceit so lawful May prove coherent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He’ll then instruct us of this body."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Instruct us, boy; what dream, boy?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impart skills or knowledge to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give instructions or directions for some task.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Instruct my daughter how she shall persever, That time and place with this deceit so lawful May prove coherent."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He’ll then instruct us of this body."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Instruct us, boy; what dream, boy?"*

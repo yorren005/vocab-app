@@ -5,15 +5,6 @@ status: unread
 ---
 # teleport
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transport by dematerializing at one point and assembling at another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transport by dematerializing at one point and assembling at another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Quote: it is only reasonable and proper that the governments of the Outer Region not be excluded from an equitable share of the enormous financial and material resources being lavished on the Interstellar Matter Teleport System (Slingshot)."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The truncated apex of the Extractor's teleport gate cone glowed red, then violet, and thirty meters of its length disappeared into its new hyperspace home."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Another fleet of giant space tugs moved into position for the next gift of crude but treasured substance teleported across interstellar space from a distant star."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transport by dematerializing at one point and assembling at another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transport by dematerializing at one point and assembling at another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Quote: it is only reasonable and proper that the governments of the Outer Region not be excluded from an equitable share of the enormous financial and material resources being lavished on the Interstellar Matter Teleport System (Slingshot)."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The truncated apex of the Extractor's teleport gate cone glowed red, then violet, and thirty meters of its length disappeared into its new hyperspace home."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Another fleet of giant space tugs moved into position for the next gift of crude but treasured substance teleported across interstellar space from a distant star."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sumptuous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rich and superior in quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rich and superior in quality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus did I keep my person fresh and new, My presence, like a robe pontifical, Ne’er seen but wonder’d at, and so my state, Seldom but sumptuous, showed like a feast, And won by rareness such solemnity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beside, my lord, the sooner to effect And surer bind this knot of amity, The Earl of Armagnac, near knit to Charles, A man of great authority in France, Proffers his only daughter to your Grace In marriage, with a large and sumptuous dowry."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy sumptuous buildings and thy wife’s attire Have cost a mass of public treasury."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rich and superior in quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rich and superior in quality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus did I keep my person fresh and new, My presence, like a robe pontifical, Ne’er seen but wonder’d at, and so my state, Seldom but sumptuous, showed like a feast, And won by rareness such solemnity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beside, my lord, the sooner to effect And surer bind this knot of amity, The Earl of Armagnac, near knit to Charles, A man of great authority in France, Proffers his only daughter to your Grace In marriage, with a large and sumptuous dowry."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy sumptuous buildings and thy wife’s attire Have cost a mass of public treasury."*

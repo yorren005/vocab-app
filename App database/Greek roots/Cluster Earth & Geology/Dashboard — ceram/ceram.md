@@ -5,15 +5,6 @@ status: unread
 ---
 # ceram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Island of eastern Indonesia in the central Moluccas west of northwestern New Guinea area 6621 square miles (17,215 square kilometers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Island of eastern Indonesia in the central Moluccas west of northwestern New Guinea area 6621 square miles (17,215 square kilometers).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus, in the southern district of the island of Ceram, when a whole village suffers from sickness, a small ship is made and filled with rice, tobacco, eggs, and so forth, which have been contributed by all the people."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Ceram girls at puberty were formerly shut up by themselves in a hut which was kept dark."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the west of Ceram boys at puberty are admitted to the Kakian association."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Island of eastern Indonesia in the central Moluccas west of northwestern New Guinea area 6621 square miles (17,215 square kilometers).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Island of eastern Indonesia in the central Moluccas west of northwestern New Guinea area 6621 square miles (17,215 square kilometers).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus, in the southern district of the island of Ceram, when a whole village suffers from sickness, a small ship is made and filled with rice, tobacco, eggs, and so forth, which have been contributed by all the people."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Ceram girls at puberty were formerly shut up by themselves in a hut which was kept dark."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the west of Ceram boys at puberty are admitted to the Kakian association."*

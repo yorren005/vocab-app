@@ -5,13 +5,6 @@ status: unread
 ---
 # chlorophyceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Algae distinguished chiefly by having flagella and a clear green color, their chlorophyll being masked little if at all by other pigments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Algae distinguished chiefly by having flagella and a clear green color, their chlorophyll being masked little if at all by other pigments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorophyceae designates algae distinguished chiefly by having flagella and a clear green color, their chlorophyll being masked little if at all by other pigments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Algae distinguished chiefly by having flagella and a clear green color, their chlorophyll being masked little if at all by other pigments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Algae distinguished chiefly by having flagella and a clear green color, their chlorophyll being masked little if at all by other pigments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorophyceae designates algae distinguished chiefly by having flagella and a clear green color, their chlorophyll being masked little if at all by other pigments."*

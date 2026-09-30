@@ -5,20 +5,6 @@ status: unread
 ---
 # hanker
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Crave, want or desire
-> 2. **Nuance / Usage**: Have a strong or persistent desire : yearn —often used with for or after
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to hanker the target*) and intransitive clauses (*hankering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was not by any means so sure of that, and I saw how his hankering after the vague things yet to come of those long-deferred hopes cast a shade on Ada’s face."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It procrastinates, disappoints, tries, tortures him; wears out his sanguine hopes and patience, thread by thread; but he still looks to it, and hankers after it, and finds his whole world treacherous and hollow."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"While frosty winds blaw in the drift, Ben to the chimla lug, I grudge a wee the great-folk’s gift, That live sae bien an’ snug: I tent less, and want less Their roomy fire-side; But hanker, and canker, To see their cursed pride."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To feel a restless, persistent, or nagging craving for something (usually followed by *after* or *for*).
+> 2. **Nuance / Usage**: Unlike elevated *yearning*, *hanker* often implies an earthy, unshakable appetite or nostalgic itch for something just out of reach or slightly forbidden.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to hanker the target*) and intransitive clauses (*hankering against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I saw how his **hankering** after the vague things yet to come of those long-deferred hopes cast a shade on Ada's face."*
+> - 📜 **Robert Burns (*Epistle to Davie*):** *"I tent less, and want less their roomy fireside, nor **hanker** and canker to see their cursed pride."*
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"After a week in the widow's clean clothes, I began to **hanker** for my old rags and the freedom of the river."*

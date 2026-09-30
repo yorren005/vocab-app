@@ -5,13 +5,6 @@ status: unread
 ---
 # globally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Throughout the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Throughout the world.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, globally designates throughout the world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Throughout the world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Throughout the world.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, globally designates throughout the world."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # amplifier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electronic equipment that increases strength of signals passing through it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electronic equipment that increases strength of signals passing through it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Whatever we hit will act as an amplifier and spread the effect through the whole body." "Boy, you want to be careful you don't blow up the earth," said Murray Lee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Electronic equipment that increases strength of signals passing through it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electronic equipment that increases strength of signals passing through it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Whatever we hit will act as an amplifier and spread the effect through the whole body." "Boy, you want to be careful you don't blow up the earth," said Murray Lee."*

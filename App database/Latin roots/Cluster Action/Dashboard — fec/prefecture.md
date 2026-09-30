@@ -5,15 +5,6 @@ status: unread
 ---
 # prefecture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The district administered by a prefect (as in france or japan or the roman empire).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office of prefect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Fu" may be translated prefecture, "chou," department, and "hsien," a district."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When the multitude, after a short turn, has escorted the slow-moving car to the gate of the Sub-Prefecture, they halt, and the car, jolting over the uneven ground, rumbles into the courtyard."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Not at all." "Monsieur Pinot at the Eveche!" "We will get him an introduction to the Prefecture." "Monsieur should not jest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The district administered by a prefect (as in france or japan or the roman empire).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office of prefect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Fu" may be translated prefecture, "chou," department, and "hsien," a district."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When the multitude, after a short turn, has escorted the slow-moving car to the gate of the Sub-Prefecture, they halt, and the car, jolting over the uneven ground, rumbles into the courtyard."*
+> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Not at all." "Monsieur Pinot at the Eveche!" "We will get him an introduction to the Prefecture." "Monsieur should not jest."*

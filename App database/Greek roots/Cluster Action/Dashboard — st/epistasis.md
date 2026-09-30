@@ -5,13 +5,6 @@ status: unread
 ---
 # epistasis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suppression of the effect of a gene by a nonallelic gene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suppression of the effect of a gene by a nonallelic gene.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epistasis designates suppression of the effect of a gene by a nonallelic gene."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suppression of the effect of a gene by a nonallelic gene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suppression of the effect of a gene by a nonallelic gene.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epistasis designates suppression of the effect of a gene by a nonallelic gene."*

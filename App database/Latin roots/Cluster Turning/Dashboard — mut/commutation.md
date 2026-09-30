@@ -5,15 +5,6 @@ status: unread
 ---
 # commutation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The travel of a commuter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A warrant substituting a lesser punishment for a greater one.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Could he some commutation broach, I’ll pledge my aith in guid braid Scotch, He needna fear their foul reproach Nor erudition, Yon mixtie-maxtie, queer hotch-potch, The Coalition."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Husband's labors for the pardon or commutation of the sentence of soldiers condemned by court-martial--Her museum and its treasures. 287-298 THE HOSPITAL TRANSPORT SERVICE."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The commutation of his death sentence had been due to some doubts as to his complete sanity, so atrocious was his conduct."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The travel of a commuter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A warrant substituting a lesser punishment for a greater one.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Could he some commutation broach, I’ll pledge my aith in guid braid Scotch, He needna fear their foul reproach Nor erudition, Yon mixtie-maxtie, queer hotch-potch, The Coalition."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Husband's labors for the pardon or commutation of the sentence of soldiers condemned by court-martial--Her museum and its treasures. 287-298 THE HOSPITAL TRANSPORT SERVICE."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The commutation of his death sentence had been due to some doubts as to his complete sanity, so atrocious was his conduct."*

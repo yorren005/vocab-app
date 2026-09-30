@@ -5,13 +5,6 @@ status: unread
 ---
 # satinet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fabric with a finish resembling satin but made partly or wholly from cotton or synthetic fiber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fabric with a finish resembling satin but made partly or wholly from cotton or synthetic fiber.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Allen, looking up from the brown patch she was engaged in sewing on the elbow of the deacon's black satinet coat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fabric with a finish resembling satin but made partly or wholly from cotton or synthetic fiber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fabric with a finish resembling satin but made partly or wholly from cotton or synthetic fiber.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"Allen, looking up from the brown patch she was engaged in sewing on the elbow of the deacon's black satinet coat."*

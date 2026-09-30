@@ -5,13 +5,6 @@ status: unread
 ---
 # activator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) any agency bringing about activation; a molecule that increases the activity of an enzyme or a protein that increases the production of a gene product in dna transcription.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) any agency bringing about activation; a molecule that increases the activity of an enzyme or a protein that increases the production of a gene product in dna transcription.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Kumiko headed for the fighters to switch the catapults' activators to internal controls, arm and charge the guns, and insert into each ship's computer the capsules Adari had passed to her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) any agency bringing about activation; a molecule that increases the activity of an enzyme or a protein that increases the production of a gene product in dna transcription.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) any agency bringing about activation; a molecule that increases the activity of an enzyme or a protein that increases the production of a gene product in dna transcription.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Kumiko headed for the fighters to switch the catapults' activators to internal controls, arm and charge the guns, and insert into each ship's computer the capsules Adari had passed to her."*

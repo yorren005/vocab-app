@@ -5,15 +5,6 @@ status: unread
 ---
 # decade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of 10 years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cardinal number that is the sum of nine and one; the base of the decimal system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She came forth in the morning without a remnant of the pain which had filled a decade of years with agony_."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Once in a decade or a score of years Chinese ambassadors arrived, but they came overland, around the Yellow Sea, across the country of the Hong-du, and down the Mandarin Road to Keijo."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have told you what I have endured in the jacket and in solitary in the first decade of this twentieth century after Christ."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of 10 years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cardinal number that is the sum of nine and one; the base of the decimal system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"She came forth in the morning without a remnant of the pain which had filled a decade of years with agony_."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Once in a decade or a score of years Chinese ambassadors arrived, but they came overland, around the Yellow Sea, across the country of the Hong-du, and down the Mandarin Road to Keijo."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have told you what I have endured in the jacket and in solitary in the first decade of this twentieth century after Christ."*

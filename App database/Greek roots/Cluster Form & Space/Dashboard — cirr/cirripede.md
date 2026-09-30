@@ -5,13 +5,6 @@ status: unread
 ---
 # cirripede
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine crustaceans with feathery food-catching appendages; free-swimming as larvae; as adults form a hard shell and live attached to submerged surfaces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine crustaceans with feathery food-catching appendages; free-swimming as larvae; as adults form a hard shell and live attached to submerged surfaces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cirripede designates marine crustaceans with feathery food-catching appendages; free-swimming as larvae; as adults form a hard shell and live attached to submerged surfaces."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine crustaceans with feathery food-catching appendages; free-swimming as larvae; as adults form a hard shell and live attached to submerged surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine crustaceans with feathery food-catching appendages; free-swimming as larvae; as adults form a hard shell and live attached to submerged surfaces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cirripede designates marine crustaceans with feathery food-catching appendages; free-swimming as larvae; as adults form a hard shell and live attached to submerged surfaces."*

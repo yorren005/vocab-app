@@ -5,15 +5,6 @@ status: unread
 ---
 # precipitant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent that causes a precipitate to form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done with very great haste and without due deliberation; - shakespeare; - arthur geddes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Given such a precipitant, the process of recovering the gold would be simple and cheap."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"At every tide these would be filled, and when full the precipitant would be added."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Simple treatment would release the gold from its partner, which would then be returned to the tanks to act as the precipitant once more."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent that causes a precipitate to form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done with very great haste and without due deliberation; - shakespeare; - arthur geddes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Given such a precipitant, the process of recovering the gold would be simple and cheap."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"At every tide these would be filled, and when full the precipitant would be added."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Simple treatment would release the gold from its partner, which would then be returned to the tanks to act as the precipitant once more."*

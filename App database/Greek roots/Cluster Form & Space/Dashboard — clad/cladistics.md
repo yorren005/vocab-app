@@ -5,13 +5,6 @@ status: unread
 ---
 # cladistics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of biological taxonomy that defines taxa uniquely by shared characteristics not found in ancestral groups and uses inferred evolutionary relationships to arrange taxa in a branching hierarchy such that all members of a given taxon have the same ancestors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of biological taxonomy that defines taxa uniquely by shared characteristics not found in ancestral groups and uses inferred evolutionary relationships to arrange taxa in a branching hierarchy such that all members of a given taxon have the same ancestors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cladistics designates a system of biological taxonomy that defines taxa uniquely by shared characteristics not found in ancestral groups and uses inferred evolutionary relationships to arrange taxa in a branching hierarchy such that all members of a given taxon have the same ancestors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of biological taxonomy that defines taxa uniquely by shared characteristics not found in ancestral groups and uses inferred evolutionary relationships to arrange taxa in a branching hierarchy such that all members of a given taxon have the same ancestors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of biological taxonomy that defines taxa uniquely by shared characteristics not found in ancestral groups and uses inferred evolutionary relationships to arrange taxa in a branching hierarchy such that all members of a given taxon have the same ancestors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cladistics designates a system of biological taxonomy that defines taxa uniquely by shared characteristics not found in ancestral groups and uses inferred evolutionary relationships to arrange taxa in a branching hierarchy such that all members of a given taxon have the same ancestors."*

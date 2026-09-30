@@ -5,13 +5,6 @@ status: unread
 ---
 # microflora
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Microscopic plants; bacteria are often considered to be microflora.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Microscopic plants; bacteria are often considered to be microflora.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microflora designates microscopic plants; bacteria are often considered to be microflora."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Microscopic plants; bacteria are often considered to be microflora.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Microscopic plants; bacteria are often considered to be microflora.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microflora designates microscopic plants; bacteria are often considered to be microflora."*

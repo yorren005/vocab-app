@@ -5,13 +5,6 @@ status: unread
 ---
 # ptomaine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various organic bases which are formed by the action of putrefactive bacteria on nitrogenous matter and some of which are poisonous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Food poisoning caused by bacteria or bacterial products.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ptomaine designates any of various organic bases which are formed by the action of putrefactive bacteria on nitrogenous matter and some of which are poisonous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various organic bases which are formed by the action of putrefactive bacteria on nitrogenous matter and some of which are poisonous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Food poisoning caused by bacteria or bacterial products.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ptomaine designates any of various organic bases which are formed by the action of putrefactive bacteria on nitrogenous matter and some of which are poisonous."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # astonish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affect with wonder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affect with wonder.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He lost a wife Whose beauty did astonish the survey Of richest eyes; whose words all ears took captive; Whose dear perfection hearts that scorn’d to serve Humbly call’d mistress."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enough, captain; you have astonish’d him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast astonish’d me with thy high terms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affect with wonder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affect with wonder.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He lost a wife Whose beauty did astonish the survey Of richest eyes; whose words all ears took captive; Whose dear perfection hearts that scorn’d to serve Humbly call’d mistress."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enough, captain; you have astonish’d him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast astonish’d me with thy high terms."*

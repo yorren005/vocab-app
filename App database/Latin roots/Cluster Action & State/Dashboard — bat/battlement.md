@@ -5,15 +5,6 @@ status: unread
 ---
 # battlement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rampart built around the top of a castle with regular gaps for firing arrows or guns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rampart built around the top of a castle with regular gaps for firing arrows or guns.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It was rather difficult to quiet everybody down in bed that night and even when Kurt had gone to sleep he uttered strange triumphant exclamations, for in his dreams the boy had climbed to the top of the highest battlement."*
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"The while the coyote barked afar All shadowy was the battlement."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"It was repeated three times, with as much violence as if it had been blown before an enchanted castle by the destined knight, at whose summons halls and towers, barbican and battlement, were to roll off like a morning vapour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rampart built around the top of a castle with regular gaps for firing arrows or guns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rampart built around the top of a castle with regular gaps for firing arrows or guns.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It was rather difficult to quiet everybody down in bed that night and even when Kurt had gone to sleep he uttered strange triumphant exclamations, for in his dreams the boy had climbed to the top of the highest battlement."*
+> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"The while the coyote barked afar All shadowy was the battlement."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"It was repeated three times, with as much violence as if it had been blown before an enchanted castle by the destined knight, at whose summons halls and towers, barbican and battlement, were to roll off like a morning vapour."*

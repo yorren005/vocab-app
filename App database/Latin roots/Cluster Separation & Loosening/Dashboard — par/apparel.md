@@ -5,15 +5,6 @@ status: unread
 ---
 # apparel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clothing in general.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with clothes or put clothes on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will never trust a man again for keeping his sword clean, nor believe he can have everything in him by wearing his apparel neatly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could find in my heart to disgrace my man’s apparel, and to cry like a woman, but I must comfort the weaker vessel, as doublet and hose ought to show itself courageous to petticoat."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But doth he know that I am in this forest and in man’s apparel?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clothing in general.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with clothes or put clothes on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will never trust a man again for keeping his sword clean, nor believe he can have everything in him by wearing his apparel neatly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could find in my heart to disgrace my man’s apparel, and to cry like a woman, but I must comfort the weaker vessel, as doublet and hose ought to show itself courageous to petticoat."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But doth he know that I am in this forest and in man’s apparel?"*

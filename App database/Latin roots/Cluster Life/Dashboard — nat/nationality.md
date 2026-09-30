@@ -5,15 +5,6 @@ status: unread
 ---
 # nationality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: People having common origins or traditions and often comprising a nation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The status of belonging to a particular nation by birth or naturalization.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Moreover, in America, differences in nationality and in speech among immigrant workers often effectively prevent a common feeling of their interests and assertion of them."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But, thanks to the nationality of the victim of the shock, thanks to the reputation of the company to which the vessel belonged, the circumstance became extensively circulated."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"My nationality drew him to me, no doubt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: People having common origins or traditions and often comprising a nation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The status of belonging to a particular nation by birth or naturalization.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Moreover, in America, differences in nationality and in speech among immigrant workers often effectively prevent a common feeling of their interests and assertion of them."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But, thanks to the nationality of the victim of the shock, thanks to the reputation of the company to which the vessel belonged, the circumstance became extensively circulated."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"My nationality drew him to me, no doubt."*

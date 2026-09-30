@@ -5,13 +5,6 @@ status: unread
 ---
 # chlorobenzene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless volatile flammable liquid with an almond odor that is made from chlorine and benzene; used as a solvent and in the production of phenol and ddt and other organic compounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless volatile flammable liquid with an almond odor that is made from chlorine and benzene; used as a solvent and in the production of phenol and ddt and other organic compounds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorobenzene designates a colorless volatile flammable liquid with an almond odor that is made from chlorine and benzene; used as a solvent and in the production of phenol and ddt and other organic compounds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless volatile flammable liquid with an almond odor that is made from chlorine and benzene; used as a solvent and in the production of phenol and ddt and other organic compounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless volatile flammable liquid with an almond odor that is made from chlorine and benzene; used as a solvent and in the production of phenol and ddt and other organic compounds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlorobenzene designates a colorless volatile flammable liquid with an almond odor that is made from chlorine and benzene; used as a solvent and in the production of phenol and ddt and other organic compounds."*

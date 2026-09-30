@@ -5,13 +5,6 @@ status: unread
 ---
 # exenterate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the contents of (an organ).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the contents of (an organ).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exenterate designates remove the contents of (an organ)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the contents of (an organ).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the contents of (an organ).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exenterate designates remove the contents of (an organ)."*

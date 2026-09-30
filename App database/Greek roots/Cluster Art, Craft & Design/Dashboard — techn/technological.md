@@ -5,15 +5,6 @@ status: unread
 ---
 # technological
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based in scientific and industrial progress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a practical subject that is organized according to scientific principles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The advocates of this philosophy emphasized the Outer Region's right to their own physical, technological and cultural development."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The conclusions of humankind's most distinguished scientists and philosophers suggested that two independent orders in space would bring with them a heightened likelihood of social and technological dislocations and disruptions."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It was an era of international and interregional political tensions and harassment, and military, technological and industrial sabotage and espionage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based in scientific and industrial progress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a practical subject that is organized according to scientific principles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The advocates of this philosophy emphasized the Outer Region's right to their own physical, technological and cultural development."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The conclusions of humankind's most distinguished scientists and philosophers suggested that two independent orders in space would bring with them a heightened likelihood of social and technological dislocations and disruptions."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It was an era of international and interregional political tensions and harassment, and military, technological and industrial sabotage and espionage."*

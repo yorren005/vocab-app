@@ -5,15 +5,6 @@ status: unread
 ---
 # commonly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Under normal conditions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under normal conditions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This hand of yours requires A sequester from liberty, fasting and prayer, Much castigation, exercise devout; For here’s a young and sweating devil here That commonly rebels. ’Tis a good hand, A frank one."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good my lords, I am not prone to weeping, as our sex Commonly are; the want of which vain dew Perchance shall dry your pities."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn employed me to reckon up her ladyship—if you’ll excuse my making use of the term we commonly employ—and I reckoned her up, so far, completely."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Under normal conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under normal conditions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This hand of yours requires A sequester from liberty, fasting and prayer, Much castigation, exercise devout; For here’s a young and sweating devil here That commonly rebels. ’Tis a good hand, A frank one."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good my lords, I am not prone to weeping, as our sex Commonly are; the want of which vain dew Perchance shall dry your pities."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn employed me to reckon up her ladyship—if you’ll excuse my making use of the term we commonly employ—and I reckoned her up, so far, completely."*

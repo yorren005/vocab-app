@@ -5,13 +5,6 @@ status: unread
 ---
 # armageddon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (new testament) the scene of the final battle between the kings of the earth at the end of the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any catastrophically destructive battle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armageddon designates (new testament) the scene of the final battle between the kings of the earth at the end of the world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (new testament) the scene of the final battle between the kings of the earth at the end of the world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any catastrophically destructive battle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armageddon designates (new testament) the scene of the final battle between the kings of the earth at the end of the world."*

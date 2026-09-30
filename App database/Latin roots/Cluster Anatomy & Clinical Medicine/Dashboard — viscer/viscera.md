@@ -5,15 +5,6 @@ status: unread
 ---
 # viscera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Internal organs collectively (especially those in the abdominal cavity).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Internal organs collectively (especially those in the abdominal cavity).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Obedient muscles 160:9 The motion of the arm is no more dependent upon the direction of mortal mind, than are the organic action and secretion of the viscera."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The mus- cles, moving quickly or slowly and impelled or palsied by thought, represent the action of all the organs of the hu- 415:24 man system, including brain and viscera."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Reverend as you write yourself, be revengeful for once, and pray with me that he may be visited with such a fit of the stone, as if he had all the fragments of poor Robin in that region of his viscera where the disease holds its seat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Internal organs collectively (especially those in the abdominal cavity).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Internal organs collectively (especially those in the abdominal cavity).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Obedient muscles 160:9 The motion of the arm is no more dependent upon the direction of mortal mind, than are the organic action and secretion of the viscera."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The mus- cles, moving quickly or slowly and impelled or palsied by thought, represent the action of all the organs of the hu- 415:24 man system, including brain and viscera."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Reverend as you write yourself, be revengeful for once, and pray with me that he may be visited with such a fit of the stone, as if he had all the fragments of poor Robin in that region of his viscera where the disease holds its seat."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # consolation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The comfort you feel when consoled in times of disappointment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of consoling; giving relief in affliction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This grief is crowned with consolation; your old smock brings forth a new petticoat: and indeed the tears live in an onion that should water this sorrow."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"That is my greatest consolation," she said, "and I need it."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"That will give us good grounds to separate them." The prospect of a horrible fight was, however, no consolation to Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The comfort you feel when consoled in times of disappointment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of consoling; giving relief in affliction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This grief is crowned with consolation; your old smock brings forth a new petticoat: and indeed the tears live in an onion that should water this sorrow."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"That is my greatest consolation," she said, "and I need it."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"That will give us good grounds to separate them." The prospect of a horrible fight was, however, no consolation to Mrs."*

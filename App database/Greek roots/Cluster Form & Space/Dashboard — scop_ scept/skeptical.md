@@ -5,15 +5,6 @@ status: unread
 ---
 # skeptical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Denying or questioning the tenets of especially a religion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by or given to doubt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"One of them was skeptical when he left home."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"The Gospel has appeared transcendently beautiful and glorious to all who have been savingly enlightened by the Holy Spirit--while, to the impenitent and skeptical, it seems obscure, irrational, and incomprehensible."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"After some debate, during which Brad repeatedly justified his proposals to skeptical ship commanders, they were computer-tested, modified and accepted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Denying or questioning the tenets of especially a religion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by or given to doubt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"One of them was skeptical when he left home."*
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"The Gospel has appeared transcendently beautiful and glorious to all who have been savingly enlightened by the Holy Spirit--while, to the impenitent and skeptical, it seems obscure, irrational, and incomprehensible."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"After some debate, during which Brad repeatedly justified his proposals to skeptical ship commanders, they were computer-tested, modified and accepted."*

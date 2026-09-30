@@ -5,13 +5,6 @@ status: unread
 ---
 # poseur
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who habitually pretends to be something he is not.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who habitually pretends to be something he is not.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"He's a poseur and a toadier, no doubt of that, and I've always despised him for it, but he has real ability and he's worked like a fiend through this muss, and not all for his rich patients, either."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who habitually pretends to be something he is not.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who habitually pretends to be something he is not.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"He's a poseur and a toadier, no doubt of that, and I've always despised him for it, but he has real ability and he's worked like a fiend through this muss, and not all for his rich patients, either."*

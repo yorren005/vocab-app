@@ -5,13 +5,6 @@ status: unread
 ---
 # ravigote
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Veloute sauce seasoned with chopped chervil, chives, tarragon, shallots and capers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Veloute sauce seasoned with chopped chervil, chives, tarragon, shallots and capers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ravigote designates veloute sauce seasoned with chopped chervil, chives, tarragon, shallots and capers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Veloute sauce seasoned with chopped chervil, chives, tarragon, shallots and capers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Veloute sauce seasoned with chopped chervil, chives, tarragon, shallots and capers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ravigote designates veloute sauce seasoned with chopped chervil, chives, tarragon, shallots and capers."*

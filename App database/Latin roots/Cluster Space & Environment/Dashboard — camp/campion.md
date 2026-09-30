@@ -5,15 +5,6 @@ status: unread
 ---
 # campion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus silene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus silene.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The chief interest attaching to _Ustilago antherarum_ consists in its habitat, for it is developed in the anthers of the flowers of the bladder campion, and other plants of the same natural order."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"BLADDER-CAMPION CLUSTER-CUPS; spots yellow, brown on opposite side; peridia somewhat circinating, in subrotund heaps; spores brown.—On _Silene inflata_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Flowers of Bladder-campion with anther smut (_Ustilago antherarum_). 〃 103."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus silene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus silene.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The chief interest attaching to _Ustilago antherarum_ consists in its habitat, for it is developed in the anthers of the flowers of the bladder campion, and other plants of the same natural order."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"BLADDER-CAMPION CLUSTER-CUPS; spots yellow, brown on opposite side; peridia somewhat circinating, in subrotund heaps; spores brown.—On _Silene inflata_."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Flowers of Bladder-campion with anther smut (_Ustilago antherarum_). 〃 103."*

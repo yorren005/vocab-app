@@ -5,15 +5,6 @@ status: unread
 ---
 # linnet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small finch originally of the western united states and mexico.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small old world finch whose male has a red breast and forehead.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It seemed as if a linnet had hopped to my foot and proposed to bear me on its tiny wing."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Within the bush her covert nest A little linnet fondly prest; The dew sat chilly on her breast, Sae early in the morning."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The rose upon the breer, by the waters running clear, May have charms for the linnet or the bee; Their little loves are blest, and their little hearts at rest, But my true love is parted from me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small finch originally of the western united states and mexico.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small old world finch whose male has a red breast and forehead.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It seemed as if a linnet had hopped to my foot and proposed to bear me on its tiny wing."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Within the bush her covert nest A little linnet fondly prest; The dew sat chilly on her breast, Sae early in the morning."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The rose upon the breer, by the waters running clear, May have charms for the linnet or the bee; Their little loves are blest, and their little hearts at rest, But my true love is parted from me."*

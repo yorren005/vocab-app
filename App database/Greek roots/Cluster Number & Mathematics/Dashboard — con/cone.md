@@ -5,15 +5,6 @@ status: unread
 ---
 # cone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any cone-shaped artifact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shape whose base is a circle and whose sides taper up to a point.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Nozzles of cone-shaped propulsion units on gimbals hung in neutral."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The truncated apex of the Extractor's teleport gate cone glowed red, then violet, and thirty meters of its length disappeared into its new hyperspace home."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Every feature was wide of beauty, and the outline of his face reminded you of an inverted cone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any cone-shaped artifact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shape whose base is a circle and whose sides taper up to a point.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Nozzles of cone-shaped propulsion units on gimbals hung in neutral."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The truncated apex of the Extractor's teleport gate cone glowed red, then violet, and thirty meters of its length disappeared into its new hyperspace home."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Every feature was wide of beauty, and the outline of his face reminded you of an inverted cone."*

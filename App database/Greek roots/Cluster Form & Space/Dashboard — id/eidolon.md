@@ -5,13 +5,6 @@ status: unread
 ---
 # eidolon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unsubstantial image : phantom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unsubstantial image : phantom.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eidolon designates an unsubstantial image : phantom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unsubstantial image : phantom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unsubstantial image : phantom.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eidolon designates an unsubstantial image : phantom."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # soled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put a new sole on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a sole or soles especially as specified; used in combination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O single-soled jest, solely singular for the singleness!"*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"What is it?" she asked, standing in the doorway with a plaid about her shoulders, and her feet thrust into Nance Edgar's big, wooden-soled, winter clogs."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Again on the way, Muggs nestles in a corner of the coach and acts strictly on the defensive, indignantly withdrawing his square-toed, thick-soled English shoes, should neighboring feet attempt to hobnob with them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put a new sole on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a sole or soles especially as specified; used in combination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O single-soled jest, solely singular for the singleness!"*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"What is it?" she asked, standing in the doorway with a plaid about her shoulders, and her feet thrust into Nance Edgar's big, wooden-soled, winter clogs."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Again on the way, Muggs nestles in a corner of the coach and acts strictly on the defensive, indignantly withdrawing his square-toed, thick-soled English shoes, should neighboring feet attempt to hobnob with them."*

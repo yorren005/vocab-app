@@ -5,15 +5,6 @@ status: unread
 ---
 # incontinency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involuntary urination or defecation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involuntary urination or defecation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cognizance of her incontinency Is this: she hath bought the name of whore thus dearly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Iachimo, Thou didst accuse him of incontinency; Thou then look’dst like a villain; now, methinks, Thy favour’s good enough."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"But being unfortunate, she causes lasciviousness, incontinency and boasting, and if you find a cross also, near the first joint of the thumb, it denotes an adulterer, or such a person on whom a misfortune has happened in some luxurious matter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involuntary urination or defecation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involuntary urination or defecation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cognizance of her incontinency Is this: she hath bought the name of whore thus dearly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Iachimo, Thou didst accuse him of incontinency; Thou then look’dst like a villain; now, methinks, Thy favour’s good enough."*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"But being unfortunate, she causes lasciviousness, incontinency and boasting, and if you find a cross also, near the first joint of the thumb, it denotes an adulterer, or such a person on whom a misfortune has happened in some luxurious matter."*

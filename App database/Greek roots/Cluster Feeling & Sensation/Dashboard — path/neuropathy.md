@@ -5,13 +5,6 @@ status: unread
 ---
 # neuropathy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Damage, disease, or dysfunction of one or more nerves especially of the peripheral nervous system that is typically marked by burning or shooting pain, numbness, tingling, or muscle weakness or atrophy, is often degenerative, and is usually caused by injury, infection, disease, drugs, toxins, or vitamin deficiency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition (such as Guillain-Barré syndrome) marked by neuropathy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuropathy designates damage, disease, or dysfunction of one or more nerves especially of the peripheral nervous system that is typically marked by burning or shooting pain, numbness, tingling, or muscle weakness or atrophy, is often degenerative, and is usually caused by injury, infection, disease, drugs, toxins, or vitamin deficiency."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Damage, disease, or dysfunction of one or more nerves especially of the peripheral nervous system that is typically marked by burning or shooting pain, numbness, tingling, or muscle weakness or atrophy, is often degenerative, and is usually caused by injury, infection, disease, drugs, toxins, or vitamin deficiency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition (such as Guillain-Barré syndrome) marked by neuropathy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuropathy designates damage, disease, or dysfunction of one or more nerves especially of the peripheral nervous system that is typically marked by burning or shooting pain, numbness, tingling, or muscle weakness or atrophy, is often degenerative, and is usually caused by injury, infection, disease, drugs, toxins, or vitamin deficiency."*

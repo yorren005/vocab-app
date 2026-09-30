@@ -5,13 +5,6 @@ status: unread
 ---
 # adscripted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of persons) bound to a tract of land; hence their service is transferable from owner to owner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of persons) bound to a tract of land; hence their service is transferable from owner to owner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adscripted designates (used of persons) bound to a tract of land; hence their service is transferable from owner to owner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of persons) bound to a tract of land; hence their service is transferable from owner to owner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of persons) bound to a tract of land; hence their service is transferable from owner to owner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adscripted designates (used of persons) bound to a tract of land; hence their service is transferable from owner to owner."*

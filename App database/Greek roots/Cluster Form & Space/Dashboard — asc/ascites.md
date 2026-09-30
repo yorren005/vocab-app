@@ -5,13 +5,6 @@ status: unread
 ---
 # ascites
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal accumulation of serous fluid in the spaces between tissues and organs in the cavity of the abdomen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal accumulation of serous fluid in the spaces between tissues and organs in the cavity of the abdomen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascites designates abnormal accumulation of serous fluid in the spaces between tissues and organs in the cavity of the abdomen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal accumulation of serous fluid in the spaces between tissues and organs in the cavity of the abdomen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal accumulation of serous fluid in the spaces between tissues and organs in the cavity of the abdomen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascites designates abnormal accumulation of serous fluid in the spaces between tissues and organs in the cavity of the abdomen."*

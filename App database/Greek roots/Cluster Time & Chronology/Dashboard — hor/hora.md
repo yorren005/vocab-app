@@ -5,15 +5,6 @@ status: unread
 ---
 # hora
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A circle dance of Romania and Israel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A circle dance of Romania and Israel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Venit hora Absque mora Libros deponendi."*
-> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Lately he actually threatened me to have "some one" scourged, who ever again came too late for the Hora."*
-> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"For I had just begun to write about the battle on the Singing Swan, and could not tear myself away from it when the Hora bell called."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A circle dance of Romania and Israel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A circle dance of Romania and Israel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Venit hora Absque mora Libros deponendi."*
+> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Lately he actually threatened me to have "some one" scourged, who ever again came too late for the Hora."*
+> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"For I had just begun to write about the battle on the Singing Swan, and could not tear myself away from it when the Hora bell called."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # machiavelli
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statesman of florence who advocated a strong central government (1469-1527).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statesman of florence who advocated a strong central government (1469-1527).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"For their subsequent history, see ‘Le Istorie Fiorentine di Niccolo Machiavelli’. 122."*
-> - 📜 **Algis Budrys (*Citadel*):** *"What it is, we do not yet know, but further observation of the actions of their own representative on this planet has convinced us that they are a clever, ruthless people, living in a society which would have put Machiavelli to shame."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"One’s Machiavelli; the other’s Vittoria Colonna; the next is Metastasio.” “Ah, with me,” said Madame Merle, passing her arm into the Countess Gemini’s as if to guide her course to the garden, “Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A statesman of florence who advocated a strong central government (1469-1527).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statesman of florence who advocated a strong central government (1469-1527).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"For their subsequent history, see ‘Le Istorie Fiorentine di Niccolo Machiavelli’. 122."*
+> - 📜 **Algis Budrys (*Citadel*):** *"What it is, we do not yet know, but further observation of the actions of their own representative on this planet has convinced us that they are a clever, ruthless people, living in a society which would have put Machiavelli to shame."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"One’s Machiavelli; the other’s Vittoria Colonna; the next is Metastasio.” “Ah, with me,” said Madame Merle, passing her arm into the Countess Gemini’s as if to guide her course to the garden, “Mr."*

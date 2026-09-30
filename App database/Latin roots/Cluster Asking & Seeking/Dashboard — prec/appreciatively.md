@@ -5,15 +5,6 @@ status: unread
 ---
 # appreciatively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With appreciation; in a grateful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With appreciation; in a grateful manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He listens appreciatively and never interrupts."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I made him a cup of coffee, good coffee! over which he sighed appreciatively."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"I exclaimed with delight at the vision of beauty, and even the coolies grinned appreciatively."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With appreciation; in a grateful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With appreciation; in a grateful manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He listens appreciatively and never interrupts."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I made him a cup of coffee, good coffee! over which he sighed appreciatively."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"I exclaimed with delight at the vision of beauty, and even the coolies grinned appreciatively."*

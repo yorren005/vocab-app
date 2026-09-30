@@ -5,15 +5,6 @@ status: unread
 ---
 # uncommon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not common or ordinarily encountered; unusually great in amount or remarkable in character or kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by an uncommon quality; especially superlative or extreme of its kind; -j.r.lowell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He stares at it with uncommon interest; he seems to be fixed and fascinated by it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is not uncommon.” “No, no, my love,” said he."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I charge your dutiful affection with the supply of these requirements, and I charge myself with all the rest.” They were overpowered afresh by his uncommon generosity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not common or ordinarily encountered; unusually great in amount or remarkable in character or kind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by an uncommon quality; especially superlative or extreme of its kind; -j.r.lowell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He stares at it with uncommon interest; he seems to be fixed and fascinated by it."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is not uncommon.” “No, no, my love,” said he."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I charge your dutiful affection with the supply of these requirements, and I charge myself with all the rest.” They were overpowered afresh by his uncommon generosity."*

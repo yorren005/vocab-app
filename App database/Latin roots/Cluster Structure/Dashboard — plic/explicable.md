@@ -5,15 +5,6 @@ status: unread
 ---
 # explicable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being explicated or accounted for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being explicated or accounted for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Everything else in Christian or secular history, compared to it, seems easy and explicable; and it was achieved by the love of Jesus."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But, as I pointed out, there are certain features in the ceremony which are not explicable on this hypothesis alone."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Many of the differences are explicable without taking any account of the union."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being explicated or accounted for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being explicated or accounted for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Everything else in Christian or secular history, compared to it, seems easy and explicable; and it was achieved by the love of Jesus."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But, as I pointed out, there are certain features in the ceremony which are not explicable on this hypothesis alone."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Many of the differences are explicable without taking any account of the union."*

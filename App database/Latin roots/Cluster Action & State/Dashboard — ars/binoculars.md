@@ -5,14 +5,6 @@ status: unread
 ---
 # binoculars
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument designed for simultaneous use by both eyes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical instrument designed for simultaneous use by both eyes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I had taken up my binoculars while we talked, and was looking at the shore, sweeping the limit of the forest at each side and at the back of the house."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"You're right,' Dad says, raising his binoculars to examine the motor boat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument designed for simultaneous use by both eyes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical instrument designed for simultaneous use by both eyes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I had taken up my binoculars while we talked, and was looking at the shore, sweeping the limit of the forest at each side and at the back of the house."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"You're right,' Dad says, raising his binoculars to examine the motor boat."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # plagiarisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of plagiarizing; taking someone's words or ideas as if they were your own.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of plagiarizing; taking someone's words or ideas as if they were your own.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plagiarisation designates the act of plagiarizing; taking someone's words or ideas as if they were your own."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of plagiarizing; taking someone's words or ideas as if they were your own.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of plagiarizing; taking someone's words or ideas as if they were your own.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plagiarisation designates the act of plagiarizing; taking someone's words or ideas as if they were your own."*

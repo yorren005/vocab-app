@@ -5,13 +5,6 @@ status: unread
 ---
 # felucca
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fast narrow sailing ship of the mediterranean.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fast narrow sailing ship of the mediterranean.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"It is doubtful whether the unseaworthy craft was merely swamped, or whether, as there is some reason to suppose, an Italian felucca ran her down with intent to rob the Englishmen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fast narrow sailing ship of the mediterranean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fast narrow sailing ship of the mediterranean.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"It is doubtful whether the unseaworthy craft was merely swamped, or whether, as there is some reason to suppose, an Italian felucca ran her down with intent to rob the Englishmen."*

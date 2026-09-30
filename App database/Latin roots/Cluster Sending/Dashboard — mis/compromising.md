@@ -5,15 +5,6 @@ status: unread
 ---
 # compromising
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a compromise; arrive at a compromise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Settle by concession.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She felt herself ill-used and unfortunate, as did her father; and they were neither of them able to devise any means of lessening their expenses without compromising their dignity, or relinquishing their comforts in a way not to be borne."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"At the meetings of the Union Committee he took an eager interest and a leading share in the discussions; and, while never compromising the position of his Church, he did much to set it in a clear and attractive light."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I will tell you as much of the history of the wanderer you have harboured, as I can tell without compromising my own peace of mind—my own security, moral and physical, and that of others."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a compromise; arrive at a compromise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Settle by concession.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"She felt herself ill-used and unfortunate, as did her father; and they were neither of them able to devise any means of lessening their expenses without compromising their dignity, or relinquishing their comforts in a way not to be borne."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"At the meetings of the Union Committee he took an eager interest and a leading share in the discussions; and, while never compromising the position of his Church, he did much to set it in a clear and attractive light."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I will tell you as much of the history of the wanderer you have harboured, as I can tell without compromising my own peace of mind—my own security, moral and physical, and that of others."*

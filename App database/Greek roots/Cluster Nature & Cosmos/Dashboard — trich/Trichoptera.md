@@ -5,13 +5,6 @@ status: unread
 ---
 # trichoptera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of insects consisting of caddis flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of insects consisting of caddis flies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Trichoptera designates an order of insects consisting of caddis flies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of insects consisting of caddis flies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of insects consisting of caddis flies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Trichoptera designates an order of insects consisting of caddis flies."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # lamplight
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Light from a lamp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Light from a lamp.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"They had all breakfasted together by lamplight at the hotel, and Selincourt had seen his sister into the Chilmark train."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The lamplight struggled out through the fog, and Hallward looked at his watch."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Only Lamplight's dome and high-intensity flashers that pinpointed its landing pads, gateways and walkways broke the moonlet's solid gray-green landscape."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Light from a lamp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Light from a lamp.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"They had all breakfasted together by lamplight at the hotel, and Selincourt had seen his sister into the Chilmark train."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The lamplight struggled out through the fog, and Hallward looked at his watch."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Only Lamplight's dome and high-intensity flashers that pinpointed its landing pads, gateways and walkways broke the moonlet's solid gray-green landscape."*

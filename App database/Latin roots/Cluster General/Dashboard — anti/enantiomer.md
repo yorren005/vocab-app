@@ -5,13 +5,6 @@ status: unread
 ---
 # enantiomer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either one of a pair of compounds (crystals or molecules) that are mirror images on each other but are not identical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either one of a pair of compounds (crystals or molecules) that are mirror images on each other but are not identical.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enantiomer designates either one of a pair of compounds (crystals or molecules) that are mirror images on each other but are not identical."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either one of a pair of compounds (crystals or molecules) that are mirror images on each other but are not identical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either one of a pair of compounds (crystals or molecules) that are mirror images on each other but are not identical.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enantiomer designates either one of a pair of compounds (crystals or molecules) that are mirror images on each other but are not identical."*

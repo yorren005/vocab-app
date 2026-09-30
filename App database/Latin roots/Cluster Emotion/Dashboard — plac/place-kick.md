@@ -5,13 +5,6 @@ status: unread
 ---
 # place-kick
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kick (a ball) from a stationary position, in football.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Score (a goal) by making a place kick.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, place-kick designates kick (a ball) from a stationary position, in football."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Kick (a ball) from a stationary position, in football.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Score (a goal) by making a place kick.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, place-kick designates kick (a ball) from a stationary position, in football."*

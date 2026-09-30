@@ -5,15 +5,6 @@ status: unread
 ---
 # epithet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A characterizing word or phrase accompanying or occurring in place of the name of a person or thing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disparaging or abusive word or phrase.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A most singular and choice epithet. [_Draws out his table-book._] HOLOFERNES."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They will not answer to that epithet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BENEDICK. ‘Suffer love,’ a good epithet!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A characterizing word or phrase accompanying or occurring in place of the name of a person or thing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disparaging or abusive word or phrase.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A most singular and choice epithet. [_Draws out his table-book._] HOLOFERNES."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They will not answer to that epithet."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BENEDICK. ‘Suffer love,’ a good epithet!"*

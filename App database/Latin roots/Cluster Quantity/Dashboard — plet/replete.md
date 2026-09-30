@@ -5,15 +5,6 @@ status: unread
 ---
 # replete
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill to satisfaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filled to satisfaction with food or drink.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Incapable of more, replete with you, My most true mind thus maketh mine untrue. 114 Or whether doth my mind being crowned with you Drink up the monarch’s plague this flattery?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take her by the hand, And tell her she is thine; to whom I promise A counterpoise; if not to thy estate, A balance more replete."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All France will be replete with mirth and joy When they shall hear how we have play’d the men."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill to satisfaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filled to satisfaction with food or drink.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Incapable of more, replete with you, My most true mind thus maketh mine untrue. 114 Or whether doth my mind being crowned with you Drink up the monarch’s plague this flattery?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take her by the hand, And tell her she is thine; to whom I promise A counterpoise; if not to thy estate, A balance more replete."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All France will be replete with mirth and joy When they shall hear how we have play’d the men."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # baptistry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bowl for baptismal water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bowl for baptismal water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Song of Roland*):** *"That King fears God, and would do His service, On water then Bishops their blessing speak, And pagans bring into the baptistry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bowl for baptismal water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bowl for baptismal water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Song of Roland*):** *"That King fears God, and would do His service, On water then Bishops their blessing speak, And pagans bring into the baptistry."*

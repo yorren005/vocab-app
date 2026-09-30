@@ -5,13 +5,6 @@ status: unread
 ---
 # Didache
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dida.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Justin, _Apol._ i, 15. [64] _Didache_, 12. _ei de ouk echei technen, kata ten synesin humon pronoesate, pos me argos meth hymon zesetai christianos. ei de ou thelei outo poiein, christemporos estin prosechete apo ton toiouton_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dida.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Justin, _Apol._ i, 15. [64] _Didache_, 12. _ei de ouk echei technen, kata ten synesin humon pronoesate, pos me argos meth hymon zesetai christianos. ei de ou thelei outo poiein, christemporos estin prosechete apo ton toiouton_."*

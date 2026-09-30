@@ -5,13 +5,6 @@ status: unread
 ---
 # misalliance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unsuitable alliance (especially with regard to marriage).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unsuitable alliance (especially with regard to marriage).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Sir Giles Wapshot's family were insulted that one of the Wapshot girls had not the preference in the marriage, and the remaining baronets of the county were indignant at their comrade's misalliance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unsuitable alliance (especially with regard to marriage).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unsuitable alliance (especially with regard to marriage).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Sir Giles Wapshot's family were insulted that one of the Wapshot girls had not the preference in the marriage, and the remaining baronets of the county were indignant at their comrade's misalliance."*

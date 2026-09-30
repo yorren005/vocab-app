@@ -5,15 +5,6 @@ status: unread
 ---
 # efface
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove completely from recognition or memory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make inconspicuous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"If aught that giver from my mind efface, If I that giver’s bounty e’er disgrace, Then roll to me along your wand’rig spheres, Only to number out a villain’s years!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Eternity will not efface Those records dear of transports past, Thy image at our last embrace, Ah! little thought we ’twas our last!"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Only the very young can afford to be, seen asleep, when the face sinks back into its original repose, and lines and wrinkles reappear in the loss of all that smiling charm of expression which may efface them by day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove completely from recognition or memory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make inconspicuous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"If aught that giver from my mind efface, If I that giver’s bounty e’er disgrace, Then roll to me along your wand’rig spheres, Only to number out a villain’s years!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Eternity will not efface Those records dear of transports past, Thy image at our last embrace, Ah! little thought we ’twas our last!"*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Only the very young can afford to be, seen asleep, when the face sinks back into its original repose, and lines and wrinkles reappear in the loss of all that smiling charm of expression which may efface them by day."*

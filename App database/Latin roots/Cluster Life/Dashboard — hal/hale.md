@@ -5,15 +5,6 @@ status: unread
 ---
 # hale
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soldier of the american revolution who was hanged as a spy by the british; his last words were supposed to have been `i only regret that i have but one life to give for my country' (1755-1776).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states astronomer who discovered that sunspots are associated with strong magnetic fields (1868-1938).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The plebeians have got your fellow tribune And hale him up and down, all swearing if The Roman ladies bring not comfort home, They’ll give him death by inches."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll hale the Dauphin headlong from his throne; His crown shall be the ransom of my friend; Four of their lords I’ll change for one of ours."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Murder not then the fruit within my womb, Although ye hale me to a violent death."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soldier of the american revolution who was hanged as a spy by the british; his last words were supposed to have been `i only regret that i have but one life to give for my country' (1755-1776).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states astronomer who discovered that sunspots are associated with strong magnetic fields (1868-1938).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The plebeians have got your fellow tribune And hale him up and down, all swearing if The Roman ladies bring not comfort home, They’ll give him death by inches."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll hale the Dauphin headlong from his throne; His crown shall be the ransom of my friend; Four of their lords I’ll change for one of ours."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Murder not then the fruit within my womb, Although ye hale me to a violent death."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # uncomparable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Such that comparison is impossible; unsuitable for comparison or lacking features that can be compared.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Such that comparison is impossible; unsuitable for comparison or lacking features that can be compared.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncomparable designates such that comparison is impossible; unsuitable for comparison or lacking features that can be compared."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Such that comparison is impossible; unsuitable for comparison or lacking features that can be compared.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Such that comparison is impossible; unsuitable for comparison or lacking features that can be compared.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncomparable designates such that comparison is impossible; unsuitable for comparison or lacking features that can be compared."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # platform
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A raised horizontal surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A document stating the aims and principles of a political party.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A platform before the Castle Scene II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, upon the platform where we watch."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon the platform ’twixt eleven and twelve, I’ll visit you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A raised horizontal surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A document stating the aims and principles of a political party.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A platform before the Castle Scene II."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, upon the platform where we watch."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon the platform ’twixt eleven and twelve, I’ll visit you."*

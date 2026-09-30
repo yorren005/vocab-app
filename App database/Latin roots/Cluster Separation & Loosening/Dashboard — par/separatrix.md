@@ -5,13 +5,6 @@ status: unread
 ---
 # separatrix
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A punctuation mark (/) used to separate related items of information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A punctuation mark (/) used to separate related items of information.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, separatrix designates a punctuation mark (/) used to separate related items of information."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A punctuation mark (/) used to separate related items of information.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A punctuation mark (/) used to separate related items of information.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, separatrix designates a punctuation mark (/) used to separate related items of information."*

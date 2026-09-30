@@ -5,15 +5,6 @@ status: unread
 ---
 # protecting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shield from danger, injury, destruction, or damage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use tariffs to favor domestic industry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I saw his face, and heard his voice, and felt the influence of his kind protecting manner in every line."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"What a light, now, on the protecting manner I had thought about!"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Things happen constantly which show me constantly that some one who knows more than I is benefiting me--protecting me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shield from danger, injury, destruction, or damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use tariffs to favor domestic industry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I saw his face, and heard his voice, and felt the influence of his kind protecting manner in every line."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"What a light, now, on the protecting manner I had thought about!"*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Things happen constantly which show me constantly that some one who knows more than I is benefiting me--protecting me."*

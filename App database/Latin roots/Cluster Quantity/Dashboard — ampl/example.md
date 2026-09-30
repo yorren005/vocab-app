@@ -5,15 +5,6 @@ status: unread
 ---
 # example
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An item of information that is typical of a class or group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A representative form or pattern.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, he has given example for our flight Most grossly by his own!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He stopped the flyers And by his rare example made the coward Turn terror into sport."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him be punish’d, sovereign, lest example Breed, by his sufferance, more of such a kind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An item of information that is typical of a class or group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A representative form or pattern.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, he has given example for our flight Most grossly by his own!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He stopped the flyers And by his rare example made the coward Turn terror into sport."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him be punish’d, sovereign, lest example Breed, by his sufferance, more of such a kind."*

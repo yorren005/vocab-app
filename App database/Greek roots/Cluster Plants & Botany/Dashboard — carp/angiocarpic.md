@@ -5,13 +5,6 @@ status: unread
 ---
 # angiocarpic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or being fruit enclosed in a shell or husk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or being fruit enclosed in a shell or husk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiocarpic designates having or being fruit enclosed in a shell or husk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or being fruit enclosed in a shell or husk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or being fruit enclosed in a shell or husk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiocarpic designates having or being fruit enclosed in a shell or husk."*

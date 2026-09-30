@@ -5,13 +5,6 @@ status: unread
 ---
 # campylorhynchus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Alternative classifications for the cactus wrens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alternative classifications for the cactus wrens.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, campylorhynchus designates alternative classifications for the cactus wrens."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Alternative classifications for the cactus wrens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alternative classifications for the cactus wrens.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, campylorhynchus designates alternative classifications for the cactus wrens."*

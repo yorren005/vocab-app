@@ -5,15 +5,6 @@ status: unread
 ---
 # graduate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has received a degree from a school (high school or college or university).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument for measuring fluid volume; a glass container (cup or cylinder or flask) whose sides are marked with or divided into amounts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I learned to suffer passively, as, undoubtedly, all men have learned who have passed through the post-graduate courses of strait-jacketing."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Carpenter of Columbia University, and Camillo von Klenze and Starr Willard Cutting of the University of Chicago, under whose stimulating direction and never-failing assistance my graduate studies were carried on."*
-> - 📜 **Effie Afton (*Eventide*):** *"You will think it augurs badly for the erudition of the faculty of this institution, when I inform you that they have placed me among the senior class, which will graduate in the coming spring."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has received a degree from a school (high school or college or university).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument for measuring fluid volume; a glass container (cup or cylinder or flask) whose sides are marked with or divided into amounts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I learned to suffer passively, as, undoubtedly, all men have learned who have passed through the post-graduate courses of strait-jacketing."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Carpenter of Columbia University, and Camillo von Klenze and Starr Willard Cutting of the University of Chicago, under whose stimulating direction and never-failing assistance my graduate studies were carried on."*
+> - 📜 **Effie Afton (*Eventide*):** *"You will think it augurs badly for the erudition of the faculty of this institution, when I inform you that they have placed me among the senior class, which will graduate in the coming spring."*

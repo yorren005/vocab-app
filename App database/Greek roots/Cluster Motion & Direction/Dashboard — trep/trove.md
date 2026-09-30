@@ -5,15 +5,6 @@ status: unread
 ---
 # trove
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discovery, find.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A valuable collection : treasure; also : haul, collection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Luckiest of all was Israel Stickney in casting lots, so that in the end, when he passed, he was a veritable treasure trove of clothing."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Garth, smiling at the Vicar, “that we are going to have enough to bring up the boys well and to keep Mary at home.” “What is the treasure-trove?” said Mr."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"By Jove, Peterson!” said he, “this is treasure trove indeed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discovery, find.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A valuable collection : treasure; also : haul, collection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Luckiest of all was Israel Stickney in casting lots, so that in the end, when he passed, he was a veritable treasure trove of clothing."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Garth, smiling at the Vicar, “that we are going to have enough to bring up the boys well and to keep Mary at home.” “What is the treasure-trove?” said Mr."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"By Jove, Peterson!” said he, “this is treasure trove indeed."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # advancer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who advances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being ahead of time or need.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Soon after the death of a great officer, who was judged to have been no great advancer of the king’s affairs, the king said to his solicitor Bacon, who was kinsman to that lord: Now, Bacon, tell me truly, what say you of your cousin?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who advances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being ahead of time or need.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Soon after the death of a great officer, who was judged to have been no great advancer of the king’s affairs, the king said to his solicitor Bacon, who was kinsman to that lord: Now, Bacon, tell me truly, what say you of your cousin?"*

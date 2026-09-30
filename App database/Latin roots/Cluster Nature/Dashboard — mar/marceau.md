@@ -5,13 +5,6 @@ status: unread
 ---
 # marceau
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French mime famous for his sad-faced clown (born in 1923).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French mime famous for his sad-faced clown (born in 1923).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marceau designates french mime famous for his sad-faced clown (born in 1923)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French mime famous for his sad-faced clown (born in 1923).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French mime famous for his sad-faced clown (born in 1923).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marceau designates french mime famous for his sad-faced clown (born in 1923)."*

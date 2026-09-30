@@ -5,13 +5,6 @@ status: unread
 ---
 # ficus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of tropical trees or shrubs or climbers including fig trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of tropical trees or shrubs or climbers including fig trees.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Buddhism, whose awakening is placed under the shelter of the bo or bodhi-tree (_ficus religiosa_), the Buddhist tree of knowledge, bases its existence on gnosis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of tropical trees or shrubs or climbers including fig trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of tropical trees or shrubs or climbers including fig trees.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Buddhism, whose awakening is placed under the shelter of the bo or bodhi-tree (_ficus religiosa_), the Buddhist tree of knowledge, bases its existence on gnosis."*

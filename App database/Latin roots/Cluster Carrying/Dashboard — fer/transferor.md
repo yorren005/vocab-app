@@ -5,13 +5,6 @@ status: unread
 ---
 # transferor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) someone who conveys a title or property to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) someone who conveys a title or property to another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transferor designates (law) someone who conveys a title or property to another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) someone who conveys a title or property to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) someone who conveys a title or property to another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transferor designates (law) someone who conveys a title or property to another."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # parlance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A manner of speaking that is natural to native speakers of a language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manner of speaking that is natural to native speakers of a language.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She is not what in common parlance is called a lady,” said Angel, unflinchingly, “for she is a cottager’s daughter, as I am proud to say."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A technical sense has been affixed to the term “appellate,” which, in our law parlance, is commonly used in reference to appeals in the course of the civil law."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Its language, to be sure, was rather quaint and obsolete, and its pronunciation what, in the present day, would be deemed barbarous; but I shall endeavor, as far as I am able, to render it in modern parlance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A manner of speaking that is natural to native speakers of a language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manner of speaking that is natural to native speakers of a language.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She is not what in common parlance is called a lady,” said Angel, unflinchingly, “for she is a cottager’s daughter, as I am proud to say."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A technical sense has been affixed to the term “appellate,” which, in our law parlance, is commonly used in reference to appeals in the course of the civil law."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Its language, to be sure, was rather quaint and obsolete, and its pronunciation what, in the present day, would be deemed barbarous; but I shall endeavor, as far as I am able, to render it in modern parlance."*

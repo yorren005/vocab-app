@@ -5,15 +5,6 @@ status: unread
 ---
 # undersell
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sell cheaper than one's competition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sell cheaper than one's competition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They, of course, would hardly remain long indifferent to that decided mastery, of which experience has shown us to be possessed in this valuable branch of traffic, and by which we are able to undersell those nations in their own markets."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Is it good public policy to allow a trust to undersell its smaller competitor in one district while it keeps up its prices elsewhere?"*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It follows, then, that, in order to undersell any American competition, the British manufacturer need only put his cloths at his factory _five_ per cent. below the wholesale price of such cloths in Illinois, in order to command the American market."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sell cheaper than one's competition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sell cheaper than one's competition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They, of course, would hardly remain long indifferent to that decided mastery, of which experience has shown us to be possessed in this valuable branch of traffic, and by which we are able to undersell those nations in their own markets."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Is it good public policy to allow a trust to undersell its smaller competitor in one district while it keeps up its prices elsewhere?"*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It follows, then, that, in order to undersell any American competition, the British manufacturer need only put his cloths at his factory _five_ per cent. below the wholesale price of such cloths in Illinois, in order to command the American market."*

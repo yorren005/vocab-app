@@ -5,13 +5,6 @@ status: unread
 ---
 # canella-alba
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large evergreen shrub or small tree having white aromatic bark and leathery leaves and small purple to red flowers in terminal cymes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large evergreen shrub or small tree having white aromatic bark and leathery leaves and small purple to red flowers in terminal cymes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canella-alba designates large evergreen shrub or small tree having white aromatic bark and leathery leaves and small purple to red flowers in terminal cymes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large evergreen shrub or small tree having white aromatic bark and leathery leaves and small purple to red flowers in terminal cymes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large evergreen shrub or small tree having white aromatic bark and leathery leaves and small purple to red flowers in terminal cymes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canella-alba designates large evergreen shrub or small tree having white aromatic bark and leathery leaves and small purple to red flowers in terminal cymes."*

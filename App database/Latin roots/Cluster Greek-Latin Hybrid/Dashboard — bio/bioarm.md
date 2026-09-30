@@ -5,13 +5,6 @@ status: unread
 ---
 # bioarm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any weapon usable in biological warfare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any weapon usable in biological warfare.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioarm designates any weapon usable in biological warfare."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any weapon usable in biological warfare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any weapon usable in biological warfare.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioarm designates any weapon usable in biological warfare."*

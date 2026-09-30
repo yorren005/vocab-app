@@ -5,13 +5,6 @@ status: unread
 ---
 # palpebrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wink or blink, especially repeatedly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having eyelids.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palpebrate designates wink or blink, especially repeatedly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wink or blink, especially repeatedly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having eyelids.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palpebrate designates wink or blink, especially repeatedly."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # persecute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to suffer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to suffer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But this can only be received as a proof of their determination to persecute, since it must be within everybody’s experience that the Chadband style of oratory is widely received and much admired."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"In all the clam’rous cry of starving want, They dun Benevolence with shameless front; Oblige them, patronise their tinsel lays— They persecute you all your future days!"*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"So when Hawea began to persecute her stepchildren, the spirit of their own mother would assist and protect them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to suffer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to suffer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But this can only be received as a proof of their determination to persecute, since it must be within everybody’s experience that the Chadband style of oratory is widely received and much admired."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"In all the clam’rous cry of starving want, They dun Benevolence with shameless front; Oblige them, patronise their tinsel lays— They persecute you all your future days!"*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"So when Hawea began to persecute her stepchildren, the spirit of their own mother would assist and protect them."*

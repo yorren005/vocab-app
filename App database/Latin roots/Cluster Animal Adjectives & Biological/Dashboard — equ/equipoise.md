@@ -5,14 +5,6 @@ status: unread
 ---
 # equipoise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equality of distribution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equality of distribution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"They belong to divine Principle, and support the equipoise of that thought-force, which launched the earth in its orbit and said to the 124:24 proud wave, "Thus far and no farther." Spirit is the life, substance, and continuity of all things."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He is the point of support on which hangs the balance of the world, and the slightest irregularity on his part may overthrow the delicate equipoise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equality of distribution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equality of distribution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"They belong to divine Principle, and support the equipoise of that thought-force, which launched the earth in its orbit and said to the 124:24 proud wave, "Thus far and no farther." Spirit is the life, substance, and continuity of all things."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He is the point of support on which hangs the balance of the world, and the slightest irregularity on his part may overthrow the delicate equipoise."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # particularly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a distinctly greater extent or degree than is common.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specifically or especially distinguished from others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My name is Caius Martius, who hath done To thee particularly and to all the Volsces Great hurt and mischief; thereto witness may My surname Coriolanus."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My free drift Halts not particularly, but moves itself In a wide sea of wax."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Blowers”—a pleasantry that particularly tickled the maces, bags, and purses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a distinctly greater extent or degree than is common.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specifically or especially distinguished from others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My name is Caius Martius, who hath done To thee particularly and to all the Volsces Great hurt and mischief; thereto witness may My surname Coriolanus."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My free drift Halts not particularly, but moves itself In a wide sea of wax."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Blowers”—a pleasantry that particularly tickled the maces, bags, and purses."*

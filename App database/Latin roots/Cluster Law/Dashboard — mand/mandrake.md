@@ -5,15 +5,6 @@ status: unread
 ---
 # mandrake
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The root of the mandrake plant; used medicinally or as a narcotic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant of southern europe and north africa having purple flowers, yellow fruits and a forked root formerly thought to have magical powers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou whoreson mandrake, thou art fitter to be worn in my cap than to wait at my heels."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was the very genius of famine, yet lecherous as a monkey, and the whores called him mandrake."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Orion: There is nothing but what will do you good; And the drugs are simples; 'tis hellebore, Nepenthe, upas, and dragon's blood, Absinthe, and mandrake, and mandragore."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The root of the mandrake plant; used medicinally or as a narcotic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant of southern europe and north africa having purple flowers, yellow fruits and a forked root formerly thought to have magical powers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou whoreson mandrake, thou art fitter to be worn in my cap than to wait at my heels."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was the very genius of famine, yet lecherous as a monkey, and the whores called him mandrake."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Orion: There is nothing but what will do you good; And the drugs are simples; 'tis hellebore, Nepenthe, upas, and dragon's blood, Absinthe, and mandrake, and mandragore."*

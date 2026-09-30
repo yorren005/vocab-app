@@ -5,15 +5,6 @@ status: unread
 ---
 # capture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of forcibly dispossessing an owner of property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process whereby a star or planet holds an object in its gravitational field.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"If Paul was wrong, how did he capture the Christian Church for his ideas?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Jesus made them strong enough to defy the world and to capture the world."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"One loving heart sets another on fire." With all his wide outlook on mankind, his great purpose to capture all men, Jesus is remarkable for his omission to devise machinery or organization for the accomplishment of his ends."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of forcibly dispossessing an owner of property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process whereby a star or planet holds an object in its gravitational field.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"If Paul was wrong, how did he capture the Christian Church for his ideas?"*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Jesus made them strong enough to defy the world and to capture the world."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"One loving heart sets another on fire." With all his wide outlook on mankind, his great purpose to capture all men, Jesus is remarkable for his omission to devise machinery or organization for the accomplishment of his ends."*

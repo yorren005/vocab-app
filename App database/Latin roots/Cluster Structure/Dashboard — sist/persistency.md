@@ -5,15 +5,6 @@ status: unread
 ---
 # persistency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistent determination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persistent determination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By this hand, thou thinkest me as far in the devil’s book as thou and Falstaff for obduracy and persistency."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But she is a little dreaded elsewhere in consequence of an indiscreet profusion in the article of rouge and persistency in an obsolete pearl necklace like a rosary of little bird’s-eggs."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Isabel: it was on her that his thoughts ran with a tiring persistency against which his common sense rebelled."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistent determination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persistent determination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By this hand, thou thinkest me as far in the devil’s book as thou and Falstaff for obduracy and persistency."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But she is a little dreaded elsewhere in consequence of an indiscreet profusion in the article of rouge and persistency in an obsolete pearl necklace like a rosary of little bird’s-eggs."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Isabel: it was on her that his thoughts ran with a tiring persistency against which his common sense rebelled."*

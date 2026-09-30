@@ -5,15 +5,6 @@ status: unread
 ---
 # denunciation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public act of denouncing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public act of denouncing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You know the lady; she is fast my wife, Save that we do the denunciation lack Of outward order."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Boythorn was a long one, and a stormy one too, I should think, for although his room was at some distance I heard his loud voice rising every now and then like a high wind, and evidently blowing perfect broadsides of denunciation."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"In fine, _the preaching of the cross_ includes a faithful denunciation of _eternal misery_, as the inevitable doom of all who pass from this state of probation, unrenewed by the Spirit of grace, unwashed in the blood of the Lamb."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A public act of denouncing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public act of denouncing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You know the lady; she is fast my wife, Save that we do the denunciation lack Of outward order."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Boythorn was a long one, and a stormy one too, I should think, for although his room was at some distance I heard his loud voice rising every now and then like a high wind, and evidently blowing perfect broadsides of denunciation."*
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"In fine, _the preaching of the cross_ includes a faithful denunciation of _eternal misery_, as the inevitable doom of all who pass from this state of probation, unrenewed by the Spirit of grace, unwashed in the blood of the Lamb."*

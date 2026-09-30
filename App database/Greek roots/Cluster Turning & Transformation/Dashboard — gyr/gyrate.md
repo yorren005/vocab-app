@@ -5,15 +5,6 @@ status: unread
 ---
 # gyrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To wind or move in a spiral course.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Revolve quickly and repeatedly around one's own axis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"OK?' Granddaughter stared at the three palm trees and their gyrating tops."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The swift stream raced and gyrated under them, tossing, distorting, and splitting the moon’s reflected face."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The airplane gyrated; the water rushed upward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To wind or move in a spiral course.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Revolve quickly and repeatedly around one's own axis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"OK?' Granddaughter stared at the three palm trees and their gyrating tops."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The swift stream raced and gyrated under them, tossing, distorting, and splitting the moon’s reflected face."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The airplane gyrated; the water rushed upward."*

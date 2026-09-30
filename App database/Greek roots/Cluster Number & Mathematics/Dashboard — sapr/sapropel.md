@@ -5,13 +5,6 @@ status: unread
 ---
 # sapropel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sludge (rich in organic matter) that accumulates at the bottom of lakes or oceans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sludge (rich in organic matter) that accumulates at the bottom of lakes or oceans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapropel designates sludge (rich in organic matter) that accumulates at the bottom of lakes or oceans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sludge (rich in organic matter) that accumulates at the bottom of lakes or oceans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sludge (rich in organic matter) that accumulates at the bottom of lakes or oceans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sapropel designates sludge (rich in organic matter) that accumulates at the bottom of lakes or oceans."*

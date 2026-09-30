@@ -5,15 +5,6 @@ status: unread
 ---
 # antithesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The direct opposite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rhetorical contrast of ideas by means of parallel arrangements of words, clauses, or sentences (as in "action, not words" or "they promised freedom and provided slavery").
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"You feel he does not strain after effect--epigram, antithesis, or alliteration."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The Church denied that, just as the Church to-day rejects another hasty antithesis about pain, that comes from New England."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Do you find this sort of antithesis in the Gospels? 4."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The direct opposite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rhetorical contrast of ideas by means of parallel arrangements of words, clauses, or sentences (as in "action, not words" or "they promised freedom and provided slavery").
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"You feel he does not strain after effect--epigram, antithesis, or alliteration."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The Church denied that, just as the Church to-day rejects another hasty antithesis about pain, that comes from New England."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Do you find this sort of antithesis in the Gospels? 4."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # repast
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The food served and eaten at one time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The food served and eaten at one time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, if I prove a good repast to the spectators, the dish pays the shot."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To his good friends thus wide I’ll ope my arms; And, like the kind life-rendering pelican, Repast them with my blood."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I prithee go and get me some repast; I care not what, so it be wholesome food."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The food served and eaten at one time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The food served and eaten at one time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, if I prove a good repast to the spectators, the dish pays the shot."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To his good friends thus wide I’ll ope my arms; And, like the kind life-rendering pelican, Repast them with my blood."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I prithee go and get me some repast; I care not what, so it be wholesome food."*

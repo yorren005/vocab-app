@@ -5,13 +5,6 @@ status: unread
 ---
 # anabasis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A going or marching up : advance; especially : a military advance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A difficult and dangerous military retreat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anabasis designates a going or marching up : advance; especially : a military advance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A going or marching up : advance; especially : a military advance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A difficult and dangerous military retreat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anabasis designates a going or marching up : advance; especially : a military advance."*

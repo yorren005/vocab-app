@@ -5,20 +5,6 @@ status: unread
 ---
 # crony
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: (obsolete) an old woman; a crone
-> 2. **Nuance / Usage**: (informal, originally cambridge university) a close friend
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the crony withstood the storm*), direct object (*cleaved the crony*), or prepositional anchor (*amidst the crony*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"But I take it that it is more likely to be some crony of the landlady’s."*
-> - 📜 **Washington Irving (*The Sketch Book*):** *"Rip now resumed his old walks and habits; he soon found many of his former cronies, though all rather the worse for the wear and tear of time; and preferred making friends among the rising generation, with whom he soon grew into great favor."*
-> - 📜 **Washington Irving (*The Sketch Book*):** *"In one corner sat the old man’s granddaughter sewing, a pretty blue-eyed girl, and in the opposite corner was a superannuated crony whom he addressed by the name of John Ange, and who, I found, had been his companion from childhood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A long-standing, familiar friend or close companion with whom one spends time habitually.
+> 2. **Nuance / Usage**: In modern political and economic contexts, often carries a pejorative connotation of an insider associate favored through nepotism or patronage (*cronyism*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the crony withstood the storm*), direct object (*cleaved the crony*), or prepositional anchor (*amidst the crony*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"But I take it that it is more likely to be some **crony** of the landlady’s."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"Rip now resumed his old walks and habits, and soon found many of his former **cronies**, though all rather the worse for the wear and tear of time."*
+> - 📜 **Robert Burns (*Tam o' Shanter*):** *"Fast by an ingle, bleezing finely, wi' reaming swats, that drank divinely, Tam sat beside his ancient, trusty, drouthy **crony**."*

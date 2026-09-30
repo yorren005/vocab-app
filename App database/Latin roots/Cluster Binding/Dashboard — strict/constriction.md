@@ -5,15 +5,6 @@ status: unread
 ---
 # constriction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A narrowing that reduces the flow through a channel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tight or narrow compression.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For a few minutes I was aware merely of an uncomfortable constriction which I fondly believed would ease as I grew accustomed to it."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So severe was this constriction of my frail frame upon my vital organs that I felt, there and then, immediately, that death was upon me."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Perforce I was nearly unconscious from the fearful constriction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A narrowing that reduces the flow through a channel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tight or narrow compression.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For a few minutes I was aware merely of an uncomfortable constriction which I fondly believed would ease as I grew accustomed to it."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So severe was this constriction of my frail frame upon my vital organs that I felt, there and then, immediately, that death was upon me."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Perforce I was nearly unconscious from the fearful constriction."*

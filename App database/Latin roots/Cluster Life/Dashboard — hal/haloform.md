@@ -5,13 +5,6 @@ status: unread
 ---
 # haloform
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compounds with the formula chx3, where x is a halogen atom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compounds with the formula chx3, where x is a halogen atom.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haloform designates compounds with the formula chx3, where x is a halogen atom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compounds with the formula chx3, where x is a halogen atom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compounds with the formula chx3, where x is a halogen atom.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haloform designates compounds with the formula chx3, where x is a halogen atom."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # gymnastic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vigorously active.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or used in exercises intended to develop strength and agility.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"Their gymnastic exercises, from which they derive their name, were taught them, and they were promised that when they had attained perfection they would be given service under the Empress with good pay and rapid promotion."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"The Olympian gymnastic society, which has undertaken the direction of the part of the assault that is to show off the prowess of our civilians, expects what they call a flower-show audience.” “Will you come, Lucian?” “If I can be spared, yes."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"An ignorant person gets tired of listening to gymnastic intervals in the long run, no matter how pleasant they may be."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vigorously active.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or used in exercises intended to develop strength and agility.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"Their gymnastic exercises, from which they derive their name, were taught them, and they were promised that when they had attained perfection they would be given service under the Empress with good pay and rapid promotion."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"The Olympian gymnastic society, which has undertaken the direction of the part of the assault that is to show off the prowess of our civilians, expects what they call a flower-show audience.” “Will you come, Lucian?” “If I can be spared, yes."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"An ignorant person gets tired of listening to gymnastic intervals in the long run, no matter how pleasant they may be."*

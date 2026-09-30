@@ -5,13 +5,6 @@ status: unread
 ---
 # sublet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lease from one lessee to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lease or rent all or part of (a leased or rented property) to another person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sublet designates a lease from one lessee to another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lease from one lessee to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lease or rent all or part of (a leased or rented property) to another person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sublet designates a lease from one lessee to another."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # ultimate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The finest or most superior quality of its kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Furthest or highest in degree or order; utmost or extreme.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"When any two young people take it into their heads to marry, they are pretty sure by perseverance to carry their point, be they ever so poor, or ever so imprudent, or ever so little likely to be necessary to each other’s ultimate comfort."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Probably, as with persons playing whist for love, the consciousness of a certain immunity under any circumstances from that worst possible ultimate, the having to pay, makes them unduly speculative."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His ultimate intention, if he had any, she had not yet divined; and she found herself conjecturing on the matter as a third person might have done."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The finest or most superior quality of its kind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Furthest or highest in degree or order; utmost or extreme.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"When any two young people take it into their heads to marry, they are pretty sure by perseverance to carry their point, be they ever so poor, or ever so imprudent, or ever so little likely to be necessary to each other’s ultimate comfort."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Probably, as with persons playing whist for love, the consciousness of a certain immunity under any circumstances from that worst possible ultimate, the having to pay, makes them unduly speculative."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His ultimate intention, if he had any, she had not yet divined; and she found herself conjecturing on the matter as a third person might have done."*

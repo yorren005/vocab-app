@@ -5,13 +5,6 @@ status: unread
 ---
 # microsome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various minute cellular structures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particle in a particulate fraction that is obtained by heavy centrifugation of broken cells and consists of various amounts of ribosomes, fragmented endoplasmic reticulum, and mitochondrial cristae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microsome designates any of various minute cellular structures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various minute cellular structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particle in a particulate fraction that is obtained by heavy centrifugation of broken cells and consists of various amounts of ribosomes, fragmented endoplasmic reticulum, and mitochondrial cristae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microsome designates any of various minute cellular structures."*

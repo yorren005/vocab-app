@@ -5,13 +5,6 @@ status: unread
 ---
 # clarifying
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make clear and (more) comprehensible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make clear by removing impurities or solids, as by heating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Rigg, and had taken out his snuff-box and tapped it, but had put it again unopened as an indulgence which, however clarifying to the judgment, was unsuited to the occasion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make clear and (more) comprehensible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make clear by removing impurities or solids, as by heating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Rigg, and had taken out his snuff-box and tapped it, but had put it again unopened as an indulgence which, however clarifying to the judgment, was unsuited to the occasion."*

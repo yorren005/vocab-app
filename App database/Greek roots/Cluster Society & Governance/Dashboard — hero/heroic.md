@@ -5,15 +5,6 @@ status: unread
 ---
 # heroic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to courageous people or the mythological or legendary figures of antiquity : of, relating to, resembling, or suggesting heroes especially of antiquity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting or marked by courage and daring.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I won’t tell ’em anything about your keeping silence; go on with the piece and say nothing, doing what you can by a judicious wink now and then, and a few indomitable nods in the heroic places, you know."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It seemed to me that her life was to be one of suffering; that God was keeping her with us that we might have a heroic example of what His grace could enable one to bear and to become."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The descent of that stairway I consider the most heroic exploit I ever accomplished."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to courageous people or the mythological or legendary figures of antiquity : of, relating to, resembling, or suggesting heroes especially of antiquity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting or marked by courage and daring.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I won’t tell ’em anything about your keeping silence; go on with the piece and say nothing, doing what you can by a judicious wink now and then, and a few indomitable nods in the heroic places, you know."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"It seemed to me that her life was to be one of suffering; that God was keeping her with us that we might have a heroic example of what His grace could enable one to bear and to become."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The descent of that stairway I consider the most heroic exploit I ever accomplished."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # ease
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Freedom from care
-> 2. **Nuance / Usage**: The state of being comfortable: such as
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Nay, in good faith; for mine ease, in good faith."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"walk afoot awhile and ease our legs."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"It could not slake mine ire nor ease my heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Freedom from care
+> 2. **Nuance / Usage**: The state of being comfortable: such as
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Nay, in good faith; for mine ease, in good faith."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"walk afoot awhile and ease our legs."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"It could not slake mine ire nor ease my heart."*

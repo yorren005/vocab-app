@@ -5,15 +5,6 @@ status: unread
 ---
 # impression
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vague idea in which some confidence is placed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An outward appearance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sink, my knee, i’ th’ earth; [_Kneels._] Of thy deep duty more impression show Than that of common sons."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had my father’s signet in my purse, Which was the model of that Danish seal: Folded the writ up in the form of the other, Subscrib’d it: gave’t th’impression; plac’d it safely, The changeling never known."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That is, were I under the terms of death, Th’ impression of keen whips I’d wear as rubies, And strip myself to death as to a bed That longing have been sick for, ere I’d yield My body up to shame."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vague idea in which some confidence is placed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An outward appearance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sink, my knee, i’ th’ earth; [_Kneels._] Of thy deep duty more impression show Than that of common sons."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had my father’s signet in my purse, Which was the model of that Danish seal: Folded the writ up in the form of the other, Subscrib’d it: gave’t th’impression; plac’d it safely, The changeling never known."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That is, were I under the terms of death, Th’ impression of keen whips I’d wear as rubies, And strip myself to death as to a bed That longing have been sick for, ere I’d yield My body up to shame."*

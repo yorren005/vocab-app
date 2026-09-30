@@ -5,14 +5,6 @@ status: unread
 ---
 # miserableness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of ill-being due to affliction or misfortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of ill-being due to affliction or misfortune.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"This miserableness went on as much as six or seven minutes; but it seemed a sight longer than that."*
-> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"Every time he danced around and says, “Dah’s Cairo!” it went through me like a shot, and I thought if it _was_ Cairo I reckoned I would die of miserableness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of ill-being due to affliction or misfortune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of ill-being due to affliction or misfortune.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"This miserableness went on as much as six or seven minutes; but it seemed a sight longer than that."*
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"Every time he danced around and says, “Dah’s Cairo!” it went through me like a shot, and I thought if it _was_ Cairo I reckoned I would die of miserableness."*

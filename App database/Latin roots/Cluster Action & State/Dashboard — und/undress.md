@@ -5,15 +5,6 @@ status: unread
 ---
 # undress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Partial or complete nakedness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get undressed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, undress you, and come now to bed."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Here she sat down on the edge of the bed, looking blankly around, and presently began to undress."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was in the kitchen just after supper, as my mother was helping me undress for bed, and the missionary was showing photographs of the Holy Land."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partial or complete nakedness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get undressed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, undress you, and come now to bed."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Here she sat down on the edge of the bed, looking blankly around, and presently began to undress."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was in the kitchen just after supper, as my mother was helping me undress for bed, and the missionary was showing photographs of the Holy Land."*

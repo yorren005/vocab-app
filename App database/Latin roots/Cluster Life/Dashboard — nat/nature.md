@@ -5,15 +5,6 @@ status: unread
 ---
 # nature
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The essential qualities or characteristics by which something is recognized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A causal agent creating and controlling things in the universe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nature’s bequest gives nothing but doth lend, And being frank she lends to those are free: Then beauteous niggard why dost thou abuse, The bounteous largess given thee to give?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For having traffic with thyself alone, Thou of thyself thy sweet self dost deceive, Then how when nature calls thee to be gone, What acceptable audit canst thou leave?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for a woman wert thou first created, Till nature as she wrought thee fell a-doting, And by addition me of thee defeated, By adding one thing to my purpose nothing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The essential qualities or characteristics by which something is recognized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A causal agent creating and controlling things in the universe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nature’s bequest gives nothing but doth lend, And being frank she lends to those are free: Then beauteous niggard why dost thou abuse, The bounteous largess given thee to give?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For having traffic with thyself alone, Thou of thyself thy sweet self dost deceive, Then how when nature calls thee to be gone, What acceptable audit canst thou leave?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for a woman wert thou first created, Till nature as she wrought thee fell a-doting, And by addition me of thee defeated, By adding one thing to my purpose nothing."*

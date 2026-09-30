@@ -5,15 +5,6 @@ status: unread
 ---
 # insinuation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An indirect (and usually malicious) implication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of gaining acceptance or affection for yourself by persuasive and subtle blandishments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They are not near my conscience; their defeat Does by their own insinuation grow. ’Tis dangerous when the baser nature comes Between the pass and fell incensed points Of mighty opposites."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall we, upon the footing of our land, Send fair-play orders and make compromise, Insinuation, parley, and base truce To arms invasive?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He also advised me to be composed; I scorned the insinuation of helplessness and distraction, shook off his hand, and began to walk about again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An indirect (and usually malicious) implication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of gaining acceptance or affection for yourself by persuasive and subtle blandishments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They are not near my conscience; their defeat Does by their own insinuation grow. ’Tis dangerous when the baser nature comes Between the pass and fell incensed points Of mighty opposites."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall we, upon the footing of our land, Send fair-play orders and make compromise, Insinuation, parley, and base truce To arms invasive?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He also advised me to be composed; I scorned the insinuation of helplessness and distraction, shook off his hand, and began to walk about again."*

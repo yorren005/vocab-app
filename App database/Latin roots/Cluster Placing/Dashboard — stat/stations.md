@@ -5,15 +5,6 @@ status: unread
 ---
 # stations
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) a devotion consisting of fourteen prayers said before a series of fourteen pictures or carvings representing successive incidents during jesus' passage from pilate's house to his crucifixion at calvary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A facility equipped with special equipment and personnel for a particular purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These railroads include an enormous aggregate of works and structures in the form of tunnels, cuts, banks, bridges, stations, and shops."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They are mostly the first large fruits of the scientific study made possible by the land-grant colleges and agricultural experiment stations fostered by state and national, legislation."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The benefits of the work of experiment-stations for agriculture are felt immediately by the farmers, but are diffused to all citizens."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) a devotion consisting of fourteen prayers said before a series of fourteen pictures or carvings representing successive incidents during jesus' passage from pilate's house to his crucifixion at calvary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A facility equipped with special equipment and personnel for a particular purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These railroads include an enormous aggregate of works and structures in the form of tunnels, cuts, banks, bridges, stations, and shops."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They are mostly the first large fruits of the scientific study made possible by the land-grant colleges and agricultural experiment stations fostered by state and national, legislation."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The benefits of the work of experiment-stations for agriculture are felt immediately by the farmers, but are diffused to all citizens."*

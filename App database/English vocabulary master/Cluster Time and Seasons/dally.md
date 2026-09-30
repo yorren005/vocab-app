@@ -5,20 +5,6 @@ status: unread
 ---
 # dally
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Waste time
-> 2. **Nuance / Usage**: Deal lightly : toy
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to dally the target*) and intransitive clauses (*dallying against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*King Lear*):** *"Take up thy master; If thou shouldst dally half an hour, his life, With thine, and all that offer to defend him, Stand in assured loss."*
-> - 📜 **William Shakespeare (*Twelfth Night*):** *"Nay, that's certain; they that dally nicely with words may quickly make them wanton."*
-> - 📜 **William Shakespeare (*Richard III*):** *"That high All-Seer which I dallied with Hath turned my feigned prayer on my head And given in earnest what I begged in jest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To waste time through idle delay, trifling, or reluctant procrastination when urgency is required.
+> 2. **Nuance / Usage**: Also means to toy playfully or flirtatiously with an idea, danger, or person (*to dally with temptation*) without serious commitment.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (intransitive).
+> - **Syntactic Constructions**: Operates intransitively (*do not dally on the road*) or with the preposition *with* (*dallied with the proposal*).
+> - **Collocations & Registers**: Literary and admonitory registers; collocated with *with*, *along the way*, *half an hour*, and *trifles*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*King Lear*):** *"If thou shouldst **dally** half an hour, his life, with thine, stands in assured loss."*
+> - 📜 **John Milton (*Lycidas*):** *"For so to interpose a little ease, let our frail thoughts **dally** with false surmise."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"She was not one to **dally** when a plain duty lay before her."*

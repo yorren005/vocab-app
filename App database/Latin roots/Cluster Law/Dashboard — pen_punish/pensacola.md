@@ -5,13 +5,6 @@ status: unread
 ---
 # pensacola
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in extreme northwest florida.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in extreme northwest florida.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pensacola designates a town in extreme northwest florida."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in extreme northwest florida.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in extreme northwest florida.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pensacola designates a town in extreme northwest florida."*

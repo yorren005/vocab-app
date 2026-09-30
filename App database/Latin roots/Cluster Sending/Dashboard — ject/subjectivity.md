@@ -5,13 +5,6 @@ status: unread
 ---
 # subjectivity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Judgment based on individual personal impressions and feelings and opinions rather than external facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judgment based on individual personal impressions and feelings and opinions rather than external facts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subjectivity designates judgment based on individual personal impressions and feelings and opinions rather than external facts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Judgment based on individual personal impressions and feelings and opinions rather than external facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judgment based on individual personal impressions and feelings and opinions rather than external facts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subjectivity designates judgment based on individual personal impressions and feelings and opinions rather than external facts."*

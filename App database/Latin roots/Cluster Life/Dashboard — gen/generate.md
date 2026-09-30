@@ -5,15 +5,6 @@ status: unread
 ---
 # generate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into existence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give or supply.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Take the options into account and assume that Slingshot will succeed on schedule and will generate sufficient refined matter over time to meet the needs of both Regions."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hodak, acting as clumsily as he could, slammed and locked the passageway safety doors with the loudest noises he could generate, broadcasting the unusual activity to all within hearing range and for electronic sensor pickup."*
-> - 📜 **John Milton (*Paradise Lost*):** *"And God said, let the Waters generate Reptil with Spawn abundant, living Soule: And let Fowle flie above the Earth, with wings Displayd on the op’n Firmament of Heav’n."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give or supply.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Take the options into account and assume that Slingshot will succeed on schedule and will generate sufficient refined matter over time to meet the needs of both Regions."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hodak, acting as clumsily as he could, slammed and locked the passageway safety doors with the loudest noises he could generate, broadcasting the unusual activity to all within hearing range and for electronic sensor pickup."*
+> - 📜 **John Milton (*Paradise Lost*):** *"And God said, let the Waters generate Reptil with Spawn abundant, living Soule: And let Fowle flie above the Earth, with wings Displayd on the op’n Firmament of Heav’n."*

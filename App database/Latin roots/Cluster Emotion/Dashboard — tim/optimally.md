@@ -5,13 +5,6 @@ status: unread
 ---
 # optimally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an optimal and most desirable way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an optimal and most desirable way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I have no choice, but I have to act quickly." Selvin's battle computer counted down the enemy's distance and flashed estimates on when the enemy line would be optimally exposed to particle beam volleys."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an optimal and most desirable way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an optimal and most desirable way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I have no choice, but I have to act quickly." Selvin's battle computer counted down the enemy's distance and flashed estimates on when the enemy line would be optimally exposed to particle beam volleys."*

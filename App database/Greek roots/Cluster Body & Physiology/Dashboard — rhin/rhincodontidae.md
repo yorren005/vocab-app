@@ -5,13 +5,6 @@ status: unread
 ---
 # rhincodontidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small-toothed sharks comprising only one species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small-toothed sharks comprising only one species.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhincodontidae designates small-toothed sharks comprising only one species."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small-toothed sharks comprising only one species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small-toothed sharks comprising only one species.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhincodontidae designates small-toothed sharks comprising only one species."*

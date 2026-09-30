@@ -5,15 +5,6 @@ status: unread
 ---
 # beneath
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In or to a place that is lower.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In or to a place that is lower.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From below your duke to beneath your constable, it will fit any question."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The odds is gone, And there is nothing left remarkable Beneath the visiting moon. [_Faints._] CHARMIAN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It smites me Beneath the fall I have. [_To Seleucus_.] Prithee go hence, Or I shall show the cinders of my spirits Through th’ ashes of my chance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In or to a place that is lower.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In or to a place that is lower.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From below your duke to beneath your constable, it will fit any question."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The odds is gone, And there is nothing left remarkable Beneath the visiting moon. [_Faints._] CHARMIAN."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It smites me Beneath the fall I have. [_To Seleucus_.] Prithee go hence, Or I shall show the cinders of my spirits Through th’ ashes of my chance."*

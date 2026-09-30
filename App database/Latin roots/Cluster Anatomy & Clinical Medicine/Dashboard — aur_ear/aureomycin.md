@@ -5,13 +5,6 @@ status: unread
 ---
 # aureomycin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow crystalline antibiotic (trade name aureomycin) used to treat certain bacterial and rickettsial diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellow crystalline antibiotic (trade name aureomycin) used to treat certain bacterial and rickettsial diseases.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aureomycin designates a yellow crystalline antibiotic (trade name aureomycin) used to treat certain bacterial and rickettsial diseases."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow crystalline antibiotic (trade name aureomycin) used to treat certain bacterial and rickettsial diseases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellow crystalline antibiotic (trade name aureomycin) used to treat certain bacterial and rickettsial diseases.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aureomycin designates a yellow crystalline antibiotic (trade name aureomycin) used to treat certain bacterial and rickettsial diseases."*

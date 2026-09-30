@@ -5,14 +5,6 @@ status: unread
 ---
 # pugnacious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tough and callous by virtue of experience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ready and able to resort to force or violence; - herman melville.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The latter was a small, alert, dark-eyed man about thirty years of age, very sturdily built, with thick black eyebrows and a strong, pugnacious face."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"We learnt afterwards that our host was naturally of a most excitable nature and was of a pugnacious disposition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tough and callous by virtue of experience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ready and able to resort to force or violence; - herman melville.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The latter was a small, alert, dark-eyed man about thirty years of age, very sturdily built, with thick black eyebrows and a strong, pugnacious face."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"We learnt afterwards that our host was naturally of a most excitable nature and was of a pugnacious disposition."*

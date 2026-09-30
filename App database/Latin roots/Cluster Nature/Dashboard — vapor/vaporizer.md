@@ -5,13 +5,6 @@ status: unread
 ---
 # vaporizer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device that puts out a substance in the form of a vapor (especially for medicinal inhalation).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device that puts out a substance in the form of a vapor (especially for medicinal inhalation).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vaporizer designates a device that puts out a substance in the form of a vapor (especially for medicinal inhalation)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device that puts out a substance in the form of a vapor (especially for medicinal inhalation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device that puts out a substance in the form of a vapor (especially for medicinal inhalation).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vaporizer designates a device that puts out a substance in the form of a vapor (especially for medicinal inhalation)."*

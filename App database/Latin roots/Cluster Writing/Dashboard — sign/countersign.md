@@ -5,15 +5,6 @@ status: unread
 ---
 # countersign
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A secret word or phrase known only to a restricted group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A second confirming signature endorsing a document already signed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The freight they bore served as countersign and pass; she entered the Senate Chamber, and distributed her welcome store."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"To Beelzebub with the Brewer's knave!" "Carolus Rex and he of the Rhine!" Galloping past him, I got and gave In the gallop password and countersign, All soak'd with water and soil'd with mud, With the sleeve of my jerkin half drench'd in blood."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"You will then proceed to the centre of the room and address the (_President_) with the countersign, which is performed thus (_placing the right hand diagonally across the mouth_)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A secret word or phrase known only to a restricted group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A second confirming signature endorsing a document already signed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The freight they bore served as countersign and pass; she entered the Senate Chamber, and distributed her welcome store."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"To Beelzebub with the Brewer's knave!" "Carolus Rex and he of the Rhine!" Galloping past him, I got and gave In the gallop password and countersign, All soak'd with water and soil'd with mud, With the sleeve of my jerkin half drench'd in blood."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"You will then proceed to the centre of the room and address the (_President_) with the countersign, which is performed thus (_placing the right hand diagonally across the mouth_)."*

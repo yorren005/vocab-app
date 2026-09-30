@@ -5,15 +5,6 @@ status: unread
 ---
 # insupportable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being justified or explained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being justified or explained.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, you do me most insupportable vexation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O insupportable and touching loss!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I catch them in humane man traps, fire split peas at their legs, play upon them with the engine—resolve to free mankind from the insupportable burden of the existence of those lurking ruffians."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being justified or explained.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being justified or explained.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, you do me most insupportable vexation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O insupportable and touching loss!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I catch them in humane man traps, fire split peas at their legs, play upon them with the engine—resolve to free mankind from the insupportable burden of the existence of those lurking ruffians."*

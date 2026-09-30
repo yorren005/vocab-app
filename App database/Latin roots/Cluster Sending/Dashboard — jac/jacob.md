@@ -5,15 +5,6 @@ status: unread
 ---
 # jacob
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French biochemist who (with jacques monod) studied regulatory processes in cells (born in 1920).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (old testament) son of isaac; brother of esau; father of the twelve patriarchs of israel; jacob wrestled with god and forced god to bless him, so god gave jacob the new name of israel (meaning `one who has been strong against god').
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His child is a year and a quarter old come Philip and Jacob."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When Jacob graz’d his uncle Laban’s sheep,— This Jacob from our holy Abram was As his wise mother wrought in his behalf, The third possessor; ay, he was the third."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, not take interest, not, as you would say, Directly interest; mark what Jacob did."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: French biochemist who (with jacques monod) studied regulatory processes in cells (born in 1920).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (old testament) son of isaac; brother of esau; father of the twelve patriarchs of israel; jacob wrestled with god and forced god to bless him, so god gave jacob the new name of israel (meaning `one who has been strong against god').
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His child is a year and a quarter old come Philip and Jacob."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When Jacob graz’d his uncle Laban’s sheep,— This Jacob from our holy Abram was As his wise mother wrought in his behalf, The third possessor; ay, he was the third."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, not take interest, not, as you would say, Directly interest; mark what Jacob did."*

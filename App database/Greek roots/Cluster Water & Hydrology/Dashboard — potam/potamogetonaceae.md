@@ -5,13 +5,6 @@ status: unread
 ---
 # potamogetonaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plants that grow in ponds and slow streams; sometimes includes family zosteraceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plants that grow in ponds and slow streams; sometimes includes family zosteraceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, potamogetonaceae designates plants that grow in ponds and slow streams; sometimes includes family zosteraceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plants that grow in ponds and slow streams; sometimes includes family zosteraceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plants that grow in ponds and slow streams; sometimes includes family zosteraceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, potamogetonaceae designates plants that grow in ponds and slow streams; sometimes includes family zosteraceae."*

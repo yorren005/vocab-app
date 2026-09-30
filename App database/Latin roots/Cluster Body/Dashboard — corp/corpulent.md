@@ -5,15 +5,6 @@ status: unread
 ---
 # corpulent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively fat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively fat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A goodly portly man, i’faith, and a corpulent; of a cheerful look, a pleasing eye, and a most noble carriage; and, as I think, his age some fifty, or, by’r Lady, inclining to threescore; and now I remember me, his name is Falstaff."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She was a big woman, in stature almost equalling her husband, and corpulent besides: she showed virile force in the contest—more than once she almost throttled him, athletic as he was."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The corpulent frame of this mighty burgher now gave all the symptoms of a volcanic mountain on the point of an eruption."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively fat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively fat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A goodly portly man, i’faith, and a corpulent; of a cheerful look, a pleasing eye, and a most noble carriage; and, as I think, his age some fifty, or, by’r Lady, inclining to threescore; and now I remember me, his name is Falstaff."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She was a big woman, in stature almost equalling her husband, and corpulent besides: she showed virile force in the contest—more than once she almost throttled him, athletic as he was."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The corpulent frame of this mighty burgher now gave all the symptoms of a volcanic mountain on the point of an eruption."*

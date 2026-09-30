@@ -5,15 +5,6 @@ status: unread
 ---
 # exemplification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing by example.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A representational or typifying form or model.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Of this truth, the management of the opposition to the federal government is an unvaried exemplification."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"But from the beginning to the end of the war, she was an exemplification of how much may be done by one "strong of spirit," even with the most delicate physical frame."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Divine oneness 18:1 ATONEMENT is the exemplification of man's unity with God, whereby man reflects divine Truth, Life, 18:3 and Love."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing by example.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A representational or typifying form or model.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Of this truth, the management of the opposition to the federal government is an unvaried exemplification."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"But from the beginning to the end of the war, she was an exemplification of how much may be done by one "strong of spirit," even with the most delicate physical frame."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Divine oneness 18:1 ATONEMENT is the exemplification of man's unity with God, whereby man reflects divine Truth, Life, 18:3 and Love."*

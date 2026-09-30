@@ -5,15 +5,6 @@ status: unread
 ---
 # cannibalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of eating the flesh of your own kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of eating the flesh of your own kind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes and his relations being minor cannibal chiefs and it being proposed to abolish cannibalism, indignant champions were to put the case thus: Make man-eating unlawful, and you starve the Vholeses!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Consider, once more, the universal cannibalism of the sea; all whose creatures prey upon each other, carrying on eternal war since the world began."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The reader will ere long have reason to suspect that the Typees are not free from the guilt of cannibalism; and he will then, perhaps, charge me with admiring a people against whom so odious a crime is chargeable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of eating the flesh of your own kind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of eating the flesh of your own kind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes and his relations being minor cannibal chiefs and it being proposed to abolish cannibalism, indignant champions were to put the case thus: Make man-eating unlawful, and you starve the Vholeses!"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Consider, once more, the universal cannibalism of the sea; all whose creatures prey upon each other, carrying on eternal war since the world began."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The reader will ere long have reason to suspect that the Typees are not free from the guilt of cannibalism; and he will then, perhaps, charge me with admiring a people against whom so odious a crime is chargeable."*

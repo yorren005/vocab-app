@@ -5,15 +5,6 @@ status: unread
 ---
 # tenor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The adult male singing voice above baritone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pitch range of the highest male voice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be it your charge, my lord, To see perform’d the tenor of our word."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Myself have letters of the selfsame tenor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The tenor of them doth but signify My health and happy being at your court."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The adult male singing voice above baritone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pitch range of the highest male voice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be it your charge, my lord, To see perform’d the tenor of our word."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Myself have letters of the selfsame tenor."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The tenor of them doth but signify My health and happy being at your court."*

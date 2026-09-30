@@ -5,15 +5,6 @@ status: unread
 ---
 # transformation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A qualitative change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (mathematics) a function that changes the position or direction of the axes of a coordinate system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Something have you heard Of Hamlet’s transformation; so I call it, Since nor th’exterior nor the inward man Resembles that it was."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A low transformation that shall be mine, for in everything the purpose must weigh with the folly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it should come to the ear of the court how I have been transformed, and how my transformation hath been washed and cudgelled, they would melt me out of my fat drop by drop, and liquor fishermen’s boots with me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A qualitative change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (mathematics) a function that changes the position or direction of the axes of a coordinate system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Something have you heard Of Hamlet’s transformation; so I call it, Since nor th’exterior nor the inward man Resembles that it was."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A low transformation that shall be mine, for in everything the purpose must weigh with the folly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it should come to the ear of the court how I have been transformed, and how my transformation hath been washed and cudgelled, they would melt me out of my fat drop by drop, and liquor fishermen’s boots with me."*

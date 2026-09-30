@@ -5,13 +5,6 @@ status: unread
 ---
 # cardiospermum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tendril-climbing herbs or shrubs whose seeds have a white heart-shaped spot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tendril-climbing herbs or shrubs whose seeds have a white heart-shaped spot.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiospermum designates tendril-climbing herbs or shrubs whose seeds have a white heart-shaped spot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tendril-climbing herbs or shrubs whose seeds have a white heart-shaped spot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tendril-climbing herbs or shrubs whose seeds have a white heart-shaped spot.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiospermum designates tendril-climbing herbs or shrubs whose seeds have a white heart-shaped spot."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # partner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person's partner in marriage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An associate in an activity or endeavor or sphere of common interest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know you could not lack—I am certain on’t— Very necessity of this thought, that I, Your partner in the cause ’gainst which he fought, Could not with graceful eyes attend those wars Which fronted mine own peace."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My partner in this action, You must report to th’ Volscian lords how plainly I have borne this business."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here will I sit before the walls of Rouen, And will be partner of your weal or woe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person's partner in marriage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An associate in an activity or endeavor or sphere of common interest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know you could not lack—I am certain on’t— Very necessity of this thought, that I, Your partner in the cause ’gainst which he fought, Could not with graceful eyes attend those wars Which fronted mine own peace."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My partner in this action, You must report to th’ Volscian lords how plainly I have borne this business."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here will I sit before the walls of Rouen, And will be partner of your weal or woe."*

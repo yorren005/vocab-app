@@ -5,15 +5,6 @@ status: unread
 ---
 # commentator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert who observes and comments on something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writer who reports and analyzes events of the day.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The old commentator, Bengel, wrote at the beginning of his book that a man, who is setting out to interpret Scripture, has to ask "by what right" he does it."*
-> - 📜 **George Eliot (*Middlemarch*):** *"As to his blood, I suppose the family quarterings are three cuttle-fish sable, and a commentator rampant."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So fare thee well, poor devil of a Sub-Sub, whose commentator I am."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert who observes and comments on something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writer who reports and analyzes events of the day.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The old commentator, Bengel, wrote at the beginning of his book that a man, who is setting out to interpret Scripture, has to ask "by what right" he does it."*
+> - 📜 **George Eliot (*Middlemarch*):** *"As to his blood, I suppose the family quarterings are three cuttle-fish sable, and a commentator rampant."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So fare thee well, poor devil of a Sub-Sub, whose commentator I am."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hegemon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (such as a political state) having dominant influence or authority over others : one possessing hegemony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something (such as a political state) having dominant influence or authority over others : one possessing hegemony.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hegemon designates something (such as a political state) having dominant influence or authority over others : one possessing hegemony."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (such as a political state) having dominant influence or authority over others : one possessing hegemony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something (such as a political state) having dominant influence or authority over others : one possessing hegemony.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hegemon designates something (such as a political state) having dominant influence or authority over others : one possessing hegemony."*

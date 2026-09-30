@@ -5,13 +5,6 @@ status: unread
 ---
 # genseric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: King of the vandals who seized roman lands and invaded north africa and sacked rome (428-477).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King of the vandals who seized roman lands and invaded north africa and sacked rome (428-477).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genseric designates king of the vandals who seized roman lands and invaded north africa and sacked rome (428-477)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: King of the vandals who seized roman lands and invaded north africa and sacked rome (428-477).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King of the vandals who seized roman lands and invaded north africa and sacked rome (428-477).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genseric designates king of the vandals who seized roman lands and invaded north africa and sacked rome (428-477)."*

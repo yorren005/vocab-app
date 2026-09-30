@@ -5,15 +5,6 @@ status: unread
 ---
 # basting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A loose temporary sewing stitch to hold layers of fabric together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moistening a roast as it is cooking.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lest it make you choleric, and purchase me another dry basting."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"I'le watch you for that trick, baboon, I'le Smoke you: the rogue sweats, as if he had eaten Grains, he broyles, if I do come to the Basting of you. _Arno_."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I drew Jane away for I felt that it was no time to disturb him, when the basting of his baked meats was just about to begin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A loose temporary sewing stitch to hold layers of fabric together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moistening a roast as it is cooking.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lest it make you choleric, and purchase me another dry basting."*
+> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"I'le watch you for that trick, baboon, I'le Smoke you: the rogue sweats, as if he had eaten Grains, he broyles, if I do come to the Basting of you. _Arno_."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I drew Jane away for I felt that it was no time to disturb him, when the basting of his baked meats was just about to begin."*

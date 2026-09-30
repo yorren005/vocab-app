@@ -5,15 +5,6 @@ status: unread
 ---
 # optics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with the genesis and propagation of light, the changes that it undergoes and produces, and other phenomena closely associated with it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The aspects of an action, policy, or decision (as in politics or business) that relate to public perceptions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Still I'm not sure you'd like it exactly (Such tastes as a rule are acquired), And you'll find in a nutshell this fact lie, Bruised optics are not much admired."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Yet those same bleared optics had a strange, penetrating power, when it was their owner’s purpose to read the human soul."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Divine metaphysics reverses perverted 111:15 and physical hypotheses as to Deity, even as the ex- planation of optics rejects the incidental or inverted image and shows what this inverted image is meant to 111:18 represent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with the genesis and propagation of light, the changes that it undergoes and produces, and other phenomena closely associated with it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The aspects of an action, policy, or decision (as in politics or business) that relate to public perceptions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Still I'm not sure you'd like it exactly (Such tastes as a rule are acquired), And you'll find in a nutshell this fact lie, Bruised optics are not much admired."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Yet those same bleared optics had a strange, penetrating power, when it was their owner’s purpose to read the human soul."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Divine metaphysics reverses perverted 111:15 and physical hypotheses as to Deity, even as the ex- planation of optics rejects the incidental or inverted image and shows what this inverted image is meant to 111:18 represent."*

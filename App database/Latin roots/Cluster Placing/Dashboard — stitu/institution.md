@@ -5,15 +5,6 @@ status: unread
 ---
 # institution
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organization founded and united for a specific purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An establishment consisting of a building or complex of buildings where an organization for the promotion of some cause is situated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The beadle, though generally understood in the neighbourhood to be a ridiculous institution, is not without a certain popularity for the moment, if it were only as a man who is going to see the body."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bayham Badger, who had a good practice at Chelsea and attended a large public institution besides."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In that event, no doubt, he would establish the Jarndyce Institution and the Summerson Almshouses, and a little annual Corporation Pilgrimage to St."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organization founded and united for a specific purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An establishment consisting of a building or complex of buildings where an organization for the promotion of some cause is situated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The beadle, though generally understood in the neighbourhood to be a ridiculous institution, is not without a certain popularity for the moment, if it were only as a man who is going to see the body."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bayham Badger, who had a good practice at Chelsea and attended a large public institution besides."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In that event, no doubt, he would establish the Jarndyce Institution and the Summerson Almshouses, and a little annual Corporation Pilgrimage to St."*

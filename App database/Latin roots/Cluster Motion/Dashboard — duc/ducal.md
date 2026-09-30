@@ -5,15 +5,6 @@ status: unread
 ---
 # ducal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or belonging to or suitable for a duke.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or belonging to or suitable for a duke.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The ducal hat of Charles the Rash, the last Duke of Burgundy of his race, was hung with pear-shaped pearls and studded with sapphires."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The great red seal was emblazoned with the sham coat of arms which Osborne had assumed from the Peerage, with "Pax in bello" for a motto; that of the ducal house with which the vain old man tried to fancy himself connected."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"It was what they call a gast-rolle night at the Royal Grand Ducal Pumpernickelisch Hof--or Court theatre--and Madame Schroeder Devrient, then in the bloom of her beauty and genius, performed the part of the heroine in the wonderful opera of Fidelio."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or belonging to or suitable for a duke.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or belonging to or suitable for a duke.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The ducal hat of Charles the Rash, the last Duke of Burgundy of his race, was hung with pear-shaped pearls and studded with sapphires."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The great red seal was emblazoned with the sham coat of arms which Osborne had assumed from the Peerage, with "Pax in bello" for a motto; that of the ducal house with which the vain old man tried to fancy himself connected."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"It was what they call a gast-rolle night at the Royal Grand Ducal Pumpernickelisch Hof--or Court theatre--and Madame Schroeder Devrient, then in the bloom of her beauty and genius, performed the part of the heroine in the wonderful opera of Fidelio."*

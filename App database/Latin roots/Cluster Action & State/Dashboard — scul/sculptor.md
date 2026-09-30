@@ -5,15 +5,6 @@ status: unread
 ---
 # sculptor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist who creates sculptures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A faint constellation in the southern hemisphere near phoenix and cetus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket; “and a friend of mine that you’ll hear of one day as a Royal Academy sculptor would stand something handsome to make a drawing of your proportions for the marble."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But their physical excellence did not merely consist in an exemption from these evils; nearly every individual of their number might have been taken for a sculptor’s model."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The monuments are generally simple, for the lives of literary men afford no striking themes for the sculptor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist who creates sculptures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A faint constellation in the southern hemisphere near phoenix and cetus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket; “and a friend of mine that you’ll hear of one day as a Royal Academy sculptor would stand something handsome to make a drawing of your proportions for the marble."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But their physical excellence did not merely consist in an exemption from these evils; nearly every individual of their number might have been taken for a sculptor’s model."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The monuments are generally simple, for the lives of literary men afford no striking themes for the sculptor."*

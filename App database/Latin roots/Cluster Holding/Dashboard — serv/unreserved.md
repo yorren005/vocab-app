@@ -5,15 +5,6 @@ status: unread
 ---
 # unreserved
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not reserved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not cautious or reticent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, seeing them for the first time, should be so unreserved and should lay himself out to be so exquisitely agreeable."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"From that hour I felt quite easy with him, quite unreserved, quite content to know no more, quite happy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As the dear old infant would be with us directly, he begged that I would make an appointment for the morning, when he might set himself right through the means of an unreserved conversation with me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not reserved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not cautious or reticent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, seeing them for the first time, should be so unreserved and should lay himself out to be so exquisitely agreeable."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"From that hour I felt quite easy with him, quite unreserved, quite content to know no more, quite happy."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"As the dear old infant would be with us directly, he begged that I would make an appointment for the morning, when he might set himself right through the means of an unreserved conversation with me."*

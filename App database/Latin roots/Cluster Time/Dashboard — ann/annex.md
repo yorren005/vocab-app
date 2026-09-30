@@ -5,15 +5,6 @@ status: unread
 ---
 # annex
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An addition that extends a main building.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take (territory) as if by conquest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Nothing, therefore, can be wiser in that kingdom, than to annex to the king a constitutional council, who may be responsible to the nation for the advice they give."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Nothing, therefore, can be wiser in that kingdom, than to annex to the king a constitutional council, who may be responsible to the nation for the advice they give."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To insist upon this point, the authors of the objection must renounce the meaning they have labored to annex to the celebrated maxim, requiring a separation of the departments of power."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An addition that extends a main building.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take (territory) as if by conquest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Nothing, therefore, can be wiser in that kingdom, than to annex to the king a constitutional council, who may be responsible to the nation for the advice they give."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Nothing, therefore, can be wiser in that kingdom, than to annex to the king a constitutional council, who may be responsible to the nation for the advice they give."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To insist upon this point, the authors of the objection must renounce the meaning they have labored to annex to the celebrated maxim, requiring a separation of the departments of power."*

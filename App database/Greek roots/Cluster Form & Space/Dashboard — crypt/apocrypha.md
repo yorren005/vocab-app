@@ -5,14 +5,6 @@ status: unread
 ---
 # apocrypha
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Writings or statements of dubious authenticity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Books included in the Septuagint and Vulgate but excluded from the Jewish and Protestant canons of the Old Testament.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Head, redconecapped, buffeted, brineblinded. —A child, a girl, placed in his arms, Marina. —The leaning of sophists towards the bypaths of apocrypha is a constant quantity, John Eglinton detected."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"The expression in Apocrypha about Tobit and his dog following him I have often heard ridiculed, yet Homer has the same words of Telemachus more than once; and Virgil says something like it of Evander."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Writings or statements of dubious authenticity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Books included in the Septuagint and Vulgate but excluded from the Jewish and Protestant canons of the Old Testament.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Head, redconecapped, buffeted, brineblinded. —A child, a girl, placed in his arms, Marina. —The leaning of sophists towards the bypaths of apocrypha is a constant quantity, John Eglinton detected."*
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"The expression in Apocrypha about Tobit and his dog following him I have often heard ridiculed, yet Homer has the same words of Telemachus more than once; and Virgil says something like it of Evander."*

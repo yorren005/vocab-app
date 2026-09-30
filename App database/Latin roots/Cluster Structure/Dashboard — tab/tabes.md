@@ -5,13 +5,6 @@ status: unread
 ---
 # tabes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wasting of the body during a chronic disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wasting of the body during a chronic disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tabes designates wasting of the body during a chronic disease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wasting of the body during a chronic disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wasting of the body during a chronic disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tabes designates wasting of the body during a chronic disease."*

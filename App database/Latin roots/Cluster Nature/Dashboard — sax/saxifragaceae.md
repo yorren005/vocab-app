@@ -5,13 +5,6 @@ status: unread
 ---
 # saxifragaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and diverse family of evergreen or deciduous herbs; widely distributed in northern temperate and cold regions; sometimes includes genera of the family hydrangeaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large and diverse family of evergreen or deciduous herbs; widely distributed in northern temperate and cold regions; sometimes includes genera of the family hydrangeaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saxifragaceae designates a large and diverse family of evergreen or deciduous herbs; widely distributed in northern temperate and cold regions; sometimes includes genera of the family hydrangeaceae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and diverse family of evergreen or deciduous herbs; widely distributed in northern temperate and cold regions; sometimes includes genera of the family hydrangeaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large and diverse family of evergreen or deciduous herbs; widely distributed in northern temperate and cold regions; sometimes includes genera of the family hydrangeaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saxifragaceae designates a large and diverse family of evergreen or deciduous herbs; widely distributed in northern temperate and cold regions; sometimes includes genera of the family hydrangeaceae."*

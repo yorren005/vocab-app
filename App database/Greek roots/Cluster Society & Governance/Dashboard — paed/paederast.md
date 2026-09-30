@@ -5,13 +5,6 @@ status: unread
 ---
 # paederast
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who has sex (usually sodomy) with a boy as the passive partner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who has sex (usually sodomy) with a boy as the passive partner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paederast designates a man who has sex (usually sodomy) with a boy as the passive partner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who has sex (usually sodomy) with a boy as the passive partner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who has sex (usually sodomy) with a boy as the passive partner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paederast designates a man who has sex (usually sodomy) with a boy as the passive partner."*

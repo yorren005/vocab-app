@@ -5,13 +5,6 @@ status: unread
 ---
 # dynamitist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who uses dynamite in a revolutionary cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who uses dynamite in a revolutionary cause.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dynamitist designates a person who uses dynamite in a revolutionary cause."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who uses dynamite in a revolutionary cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who uses dynamite in a revolutionary cause.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dynamitist designates a person who uses dynamite in a revolutionary cause."*

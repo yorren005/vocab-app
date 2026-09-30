@@ -5,15 +5,6 @@ status: unread
 ---
 # flatten
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make flat or flatter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become flat or flatter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Again, the women carefully sweep out the ashes from under the fireplace and flatten them down neatly on the open hearth."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"They won’t let us pass, we are left behind and have lost our people...” “I’ll flatten you into a pancake!” shouted the angry officer to the soldier."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Go back or I’ll flatten you into a pancake,” repeated he."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make flat or flatter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become flat or flatter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Again, the women carefully sweep out the ashes from under the fireplace and flatten them down neatly on the open hearth."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"They won’t let us pass, we are left behind and have lost our people...” “I’ll flatten you into a pancake!” shouted the angry officer to the soldier."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Go back or I’ll flatten you into a pancake,” repeated he."*

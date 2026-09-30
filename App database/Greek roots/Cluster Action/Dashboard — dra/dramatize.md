@@ -5,13 +5,6 @@ status: unread
 ---
 # dramatize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into dramatic form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent something in a dramatic manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Farebrother had not been looking at her with evident admiration, while he dramatized an intense interest in the tale to please the children."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into dramatic form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent something in a dramatic manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Farebrother had not been looking at her with evident admiration, while he dramatized an intense interest in the tale to please the children."*

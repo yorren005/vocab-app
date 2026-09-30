@@ -5,13 +5,6 @@ status: unread
 ---
 # archeopteryx
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct primitive toothed bird of the jurassic period having a long feathered tail and hollow bones; usually considered the most primitive of all birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct primitive toothed bird of the jurassic period having a long feathered tail and hollow bones; usually considered the most primitive of all birds.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archeopteryx designates extinct primitive toothed bird of the jurassic period having a long feathered tail and hollow bones; usually considered the most primitive of all birds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct primitive toothed bird of the jurassic period having a long feathered tail and hollow bones; usually considered the most primitive of all birds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct primitive toothed bird of the jurassic period having a long feathered tail and hollow bones; usually considered the most primitive of all birds.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archeopteryx designates extinct primitive toothed bird of the jurassic period having a long feathered tail and hollow bones; usually considered the most primitive of all birds."*

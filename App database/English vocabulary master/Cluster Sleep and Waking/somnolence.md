@@ -5,20 +5,6 @@ status: unread
 ---
 # somnolence
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: State of drowsiness or sleepiness
-> 2. **Nuance / Usage**: The quality or state of being drowsy : sleepiness
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the somnolence withstood the storm*), direct object (*cleaved the somnolence*), or prepositional anchor (*amidst the somnolence*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Lord Jim*):** *"Moments of awakening when we see, hear, understand ever so much—in a flash—before we fall back again into our agreeable somnolence."*
-> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"She might almost personify Britannia, with her complete self-absorption and general air of comfortable somnolence."*
-> - 📜 **James Joyce (*Ulysses*):** *"As a physiologist he believed in the artificial placation of malignant agencies chiefly operative during somnolence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A state of strong drowsiness, heavy sleepiness, or inclination to fall asleep.
+> 2. **Nuance / Usage**: In clinical medicine, abnormal or prolonged drowsiness preceding stupor; in literary usage, a dreamy, soporific atmosphere that lulls the senses.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the somnolence withstood the storm*), direct object (*cleaved the somnolence*), or prepositional anchor (*amidst the somnolence*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"There are moments of awakening when we see, hear, and understand ever so much in a flash before we fall back again into our agreeable **somnolence**."*
+> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"She might almost personify Britannia, with her complete self-absorption and general air of comfortable **somnolence**."*
+> - 📜 **James Joyce (*Ulysses*):** *"As a physiologist he believed in the artificial placation of malignant agencies chiefly operative during **somnolence**."*

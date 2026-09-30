@@ -5,13 +5,6 @@ status: unread
 ---
 # demogorgon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a mysterious and terrifying deity of the underworld.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a mysterious and terrifying deity of the underworld.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"With Panthea, one of the ocean nymphs that watch over Prometheus, she makes her way to the cave of Demogorgon, "that terrific gloom," who seems meant to typify the Primal Power of the World."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a mysterious and terrifying deity of the underworld.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a mysterious and terrifying deity of the underworld.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"With Panthea, one of the ocean nymphs that watch over Prometheus, she makes her way to the cave of Demogorgon, "that terrific gloom," who seems meant to typify the Primal Power of the World."*

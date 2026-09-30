@@ -5,13 +5,6 @@ status: unread
 ---
 # diapheromera
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variety of stick insect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variety of stick insect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diapheromera designates a variety of stick insect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variety of stick insect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variety of stick insect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diapheromera designates a variety of stick insect."*

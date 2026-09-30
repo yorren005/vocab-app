@@ -5,15 +5,6 @@ status: unread
 ---
 # atomic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or concerned with atoms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or concerned with atoms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"He had arranged the elements in the form of a table _in the order of their atomic weights_."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The table consisted of twelve rows of names forming eight vertical columns, and the remarkable thing was that all those elements which fell into any particular column, although their atomic weights were very widely different, had similar properties."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Three elements _have been found_ since, and their atomic weights and properties are just such as to fill three of the blank spaces."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or concerned with atoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or concerned with atoms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"He had arranged the elements in the form of a table _in the order of their atomic weights_."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The table consisted of twelve rows of names forming eight vertical columns, and the remarkable thing was that all those elements which fell into any particular column, although their atomic weights were very widely different, had similar properties."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Three elements _have been found_ since, and their atomic weights and properties are just such as to fill three of the blank spaces."*

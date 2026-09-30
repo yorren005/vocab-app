@@ -5,15 +5,6 @@ status: unread
 ---
 # triton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a sea god; son of poseidon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest moon of neptune.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear you this Triton of the minnows?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"If we were not so poor I would invite Lord Triton."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Lord Triton is precisely the man: full of plans for making the people happy in a soft-headed sort of way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a sea god; son of poseidon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest moon of neptune.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear you this Triton of the minnows?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"If we were not so poor I would invite Lord Triton."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lord Triton is precisely the man: full of plans for making the people happy in a soft-headed sort of way."*

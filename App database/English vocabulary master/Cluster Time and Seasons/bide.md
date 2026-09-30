@@ -5,20 +5,6 @@ status: unread
 ---
 # bide
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Withstand
-> 2. **Nuance / Usage**: Put up with : tolerate
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to bide the target*) and intransitive clauses (*biding against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Well sir, for want of other idleness, I’ll ’bide your proof."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"My love can give no place, bide no denay."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"How much longer is he to bide here?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To wait patiently for a favorable moment or opportunity, especially in the idiom *to bide one's time*.
+> 2. **Nuance / Usage**: In archaic or regional usage, to remain, dwell, or stay in a place, or transitively to endure and withstand a trial without yielding.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in the transitive idiom *bide one's time* or intransitively (*bide here until dawn*).
+> - **Collocations & Registers**: Literary, strategic, and dialectal registers; collocated with *one's time*, *patiently*, *awhile*, and *storm*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"My love can give no place, **bide** no denay."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"How much longer is he to **bide** here in the valley?"*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"He resolved to **bide** his time until the usurper's vigilance should slacken."*

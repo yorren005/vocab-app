@@ -5,15 +5,6 @@ status: unread
 ---
 # unequal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Poorly balanced or matched in quantity or value or measure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking the requisite qualities or resources to meet a task.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To punish me for what you make me do Seems much unequal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unequal match’d, Pyrrhus at Priam drives, in rage strikes wide; But with the whiff and wind of his fell sword Th’unnerved father falls."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why not to him in part, and to us all That feel the bruises of the days before, And suffer the condition of these times To lay a heavy and unequal hand Upon our honours?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Poorly balanced or matched in quantity or value or measure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking the requisite qualities or resources to meet a task.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To punish me for what you make me do Seems much unequal."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unequal match’d, Pyrrhus at Priam drives, in rage strikes wide; But with the whiff and wind of his fell sword Th’unnerved father falls."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why not to him in part, and to us all That feel the bruises of the days before, And suffer the condition of these times To lay a heavy and unequal hand Upon our honours?"*

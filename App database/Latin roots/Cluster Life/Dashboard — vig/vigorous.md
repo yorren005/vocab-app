@@ -5,15 +5,6 @@ status: unread
 ---
 # vigorous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by forceful and energetic action or activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strong and active physically or mentally; - w.h.hudson.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Salo had not recovered as quickly as she had hoped, and Leonore, instead of getting more robust in our vigorous mountain-air, only became thinner and frailer."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Castle-Steward!'" Her cry was so vigorous that Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Such ASSES as he and Ma make of themselves!” “My dear!” I remonstrated, in allusion to the epithet and the vigorous emphasis Miss Jellyby set upon it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by forceful and energetic action or activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strong and active physically or mentally; - w.h.hudson.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Salo had not recovered as quickly as she had hoped, and Leonore, instead of getting more robust in our vigorous mountain-air, only became thinner and frailer."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Castle-Steward!'" Her cry was so vigorous that Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Such ASSES as he and Ma make of themselves!” “My dear!” I remonstrated, in allusion to the epithet and the vigorous emphasis Miss Jellyby set upon it."*

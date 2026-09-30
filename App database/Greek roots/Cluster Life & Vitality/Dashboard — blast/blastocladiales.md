@@ -5,13 +5,6 @@ status: unread
 ---
 # blastocladiales
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungi that carry out asexual reproduction by thick-walled resting spores that produce zoospores upon germination; sometimes placed in class oomycetes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungi that carry out asexual reproduction by thick-walled resting spores that produce zoospores upon germination; sometimes placed in class oomycetes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastocladiales designates fungi that carry out asexual reproduction by thick-walled resting spores that produce zoospores upon germination; sometimes placed in class oomycetes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungi that carry out asexual reproduction by thick-walled resting spores that produce zoospores upon germination; sometimes placed in class oomycetes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungi that carry out asexual reproduction by thick-walled resting spores that produce zoospores upon germination; sometimes placed in class oomycetes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastocladiales designates fungi that carry out asexual reproduction by thick-walled resting spores that produce zoospores upon germination; sometimes placed in class oomycetes."*

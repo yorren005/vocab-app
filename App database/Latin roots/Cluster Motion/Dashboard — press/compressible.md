@@ -5,15 +5,6 @@ status: unread
 ---
 # compressible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being compressed or made more compact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being easily compressed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"But once started, the runners slipped along easily enough, even through the deep snow, packing the compressible stuff in one passage as hard as ice."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"There is a certain compensation, however, in the fact that alcohol is very easily compressible."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"There are several systems, but the one which illustrates the principle most simply is that in which carbonic acid gas is the "working fluid." This is a very compressible gas, and so is well fitted for the purpose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being compressed or made more compact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being easily compressed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"But once started, the runners slipped along easily enough, even through the deep snow, packing the compressible stuff in one passage as hard as ice."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"There is a certain compensation, however, in the fact that alcohol is very easily compressible."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"There are several systems, but the one which illustrates the principle most simply is that in which carbonic acid gas is the "working fluid." This is a very compressible gas, and so is well fitted for the purpose."*

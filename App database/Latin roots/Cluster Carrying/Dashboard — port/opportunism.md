@@ -5,14 +5,6 @@ status: unread
 ---
 # opportunism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking advantage of opportunities without regard for the consequences for others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking advantage of opportunities without regard for the consequences for others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Revisionism and opportunism in the socialist party. § 21."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This has been a real service to the cause of moderate and constructive reform. § 20. #Revisionism and opportunism in the socialist party#."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking advantage of opportunities without regard for the consequences for others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking advantage of opportunities without regard for the consequences for others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Revisionism and opportunism in the socialist party. § 21."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This has been a real service to the cause of moderate and constructive reform. § 20. #Revisionism and opportunism in the socialist party#."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # septum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) a dividing partition between two tissues or cavities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A partition or wall especially in an ovary.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"In one instance these spores are united in pairs, or divided by a septum, so that they are two-celled: these are named _Puccinia_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"At first a septum, or partition, divides from the lower portion of the tube a conidium cell; this becomes constricted at the septum and assumes a spherical shape, at length only attached by a short narrow neck."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"VETCH BRAND; sori few and small, scattered, intermixed with pustules of _Trichobasis_; sporidia obovate, on rather long pedicels, of a tawny colour, and slightly constricted at the septum; epispore smooth.—On leaves of _Vicia sepium_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) a dividing partition between two tissues or cavities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A partition or wall especially in an ovary.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"In one instance these spores are united in pairs, or divided by a septum, so that they are two-celled: these are named _Puccinia_."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"At first a septum, or partition, divides from the lower portion of the tube a conidium cell; this becomes constricted at the septum and assumes a spherical shape, at length only attached by a short narrow neck."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"VETCH BRAND; sori few and small, scattered, intermixed with pustules of _Trichobasis_; sporidia obovate, on rather long pedicels, of a tawny colour, and slightly constricted at the septum; epispore smooth.—On leaves of _Vicia sepium_."*

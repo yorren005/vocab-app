@@ -5,15 +5,6 @@ status: unread
 ---
 # revery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abstracted state of absorption.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absentminded dreaming while awake.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So still and subdued and yet somehow preluding was all the scene, and such an incantation of revery lurked in the air, that each silent sailor seemed resolved into his own invisible self."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Then falling into a moment’s revery, he again looked up towards the sun and murmured to himself: “Thou sea-mark! thou high and mighty Pilot! thou tellest me truly where I _am_—but canst thou cast the least hint where I _shall_ be?"*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"She never objected to frequent the haunts of pleasure, but was as much alone there as in the depths of solitude; walking about in a sad revery, apparently unconscious of the world around her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abstracted state of absorption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absentminded dreaming while awake.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So still and subdued and yet somehow preluding was all the scene, and such an incantation of revery lurked in the air, that each silent sailor seemed resolved into his own invisible self."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Then falling into a moment’s revery, he again looked up towards the sun and murmured to himself: “Thou sea-mark! thou high and mighty Pilot! thou tellest me truly where I _am_—but canst thou cast the least hint where I _shall_ be?"*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"She never objected to frequent the haunts of pleasure, but was as much alone there as in the depths of solitude; walking about in a sad revery, apparently unconscious of the world around her."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # rove
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Move aimlessly : roam
-> 2. **Nuance / Usage**: Wander through or over
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to rove the target*) and intransitive clauses (*roving against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Andrew Ure (*The Philosophy of Manufacturers*):** *"Although both [flax and wool] must be roved and spun upon similar principles, each requires peculiar modifications in its machinery."*
-> - 📜 **Teemu Stubin (*Juha Miedon mämmiurakka lähti käsistä: Yli 48 000 kilokalorin pommi!*):** *"24 rovetta oli jätetty tuohon oven eteen, Mieto kertoo."*
-> - 📜 **London, Jack (*The Jacket (The Star-Rover)*):** *"and vaulted the prison walls to rove among the stars."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Move aimlessly : roam
+> 2. **Nuance / Usage**: Wander through or over
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to rove the target*) and intransitive clauses (*roving against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Andrew Ure (*The Philosophy of Manufacturers*):** *"Although both [flax and wool] must be roved and spun upon similar principles, each requires peculiar modifications in its machinery."*
+> - 📜 **Teemu Stubin (*Juha Miedon mämmiurakka lähti käsistä: Yli 48 000 kilokalorin pommi!*):** *"24 rovetta oli jätetty tuohon oven eteen, Mieto kertoo."*
+> - 📜 **London, Jack (*The Jacket (The Star-Rover)*):** *"and vaulted the prison walls to rove among the stars."*

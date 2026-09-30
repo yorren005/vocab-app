@@ -5,15 +5,6 @@ status: unread
 ---
 # stamina
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enduring strength and energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The male reproductive organ of a flower.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oh, and others followed Hodge and Polazzo; and others, whose physical stamina had been impaired, fell victims to prison-tuberculosis."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have seen men, strong men, men so strong that their physical stamina resisted all attacks of prison tuberculosis, after a prolonged bout with the jacket, their resistance broken down, fade away, and die of tuberculosis within six months."*
-> - 📜 **James Joyce (*Ulysses*):** *"He is a mule, a dead gasteropod, without vim or stamina, not worth a cracked kreutzer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enduring strength and energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The male reproductive organ of a flower.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oh, and others followed Hodge and Polazzo; and others, whose physical stamina had been impaired, fell victims to prison-tuberculosis."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have seen men, strong men, men so strong that their physical stamina resisted all attacks of prison tuberculosis, after a prolonged bout with the jacket, their resistance broken down, fade away, and die of tuberculosis within six months."*
+> - 📜 **James Joyce (*Ulysses*):** *"He is a mule, a dead gasteropod, without vim or stamina, not worth a cracked kreutzer."*

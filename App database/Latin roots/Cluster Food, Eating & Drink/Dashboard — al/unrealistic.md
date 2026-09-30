@@ -5,14 +5,6 @@ status: unread
 ---
 # unrealistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not realistic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not realistic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It's downright unrealistic to keep our self-defense forces in the Special Zone so far below what's needed to protect our vital interests." "What do you suggest, Jim," the President shrugged, "break our treaties with the Outer Region?"*
-> - 📜 **Algis Budrys (*Citadel*):** *"But you, Mead, are a young whipper-snapper." "But that's totally unrealistic!" Mead protested."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not realistic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not realistic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It's downright unrealistic to keep our self-defense forces in the Special Zone so far below what's needed to protect our vital interests." "What do you suggest, Jim," the President shrugged, "break our treaties with the Outer Region?"*
+> - 📜 **Algis Budrys (*Citadel*):** *"But you, Mead, are a young whipper-snapper." "But that's totally unrealistic!" Mead protested."*

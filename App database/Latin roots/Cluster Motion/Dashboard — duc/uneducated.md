@@ -5,15 +5,6 @@ status: unread
 ---
 # uneducated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having a good education.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having a good education.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She saw Lizzie as a chocolate-box beauty, but redeemed from hebetude by her robust youth: able to attract Hyde by his love of luxury and to hold him by main force: uneducated, coarse, and cruel, but not weak."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Even the common uneducated audience of the pit and gallery lost their interest in the play."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The gentlemen said little about her; but the ladies, in a little while, pronounced her “a good-hearted thing, rather indifferent looking, totally uneducated, and decidedly vulgar.” The great wonder was, how Wyatt had been entrapped into such a match."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having a good education.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having a good education.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"She saw Lizzie as a chocolate-box beauty, but redeemed from hebetude by her robust youth: able to attract Hyde by his love of luxury and to hold him by main force: uneducated, coarse, and cruel, but not weak."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Even the common uneducated audience of the pit and gallery lost their interest in the play."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The gentlemen said little about her; but the ladies, in a little while, pronounced her “a good-hearted thing, rather indifferent looking, totally uneducated, and decidedly vulgar.” The great wonder was, how Wyatt had been entrapped into such a match."*

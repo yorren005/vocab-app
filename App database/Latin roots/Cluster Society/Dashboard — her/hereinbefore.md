@@ -5,15 +5,6 @@ status: unread
 ---
 # hereinbefore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the preceding part of the current text.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the preceding part of the current text.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Brooks as his right by virtue of the 50 per cent. increase of the stock hereinbefore described."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In all cases under the provisions of this act, the rules of evidence shall be the same as in other civil actions, except as hereinbefore otherwise provided."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Therefore, to remedy existing evils and prevent the disastrous consequences otherwise resulting therefrom, we would build up the “American Party” upon the principles hereinbefore stated. 15."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the preceding part of the current text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the preceding part of the current text.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Brooks as his right by virtue of the 50 per cent. increase of the stock hereinbefore described."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In all cases under the provisions of this act, the rules of evidence shall be the same as in other civil actions, except as hereinbefore otherwise provided."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Therefore, to remedy existing evils and prevent the disastrous consequences otherwise resulting therefrom, we would build up the “American Party” upon the principles hereinbefore stated. 15."*

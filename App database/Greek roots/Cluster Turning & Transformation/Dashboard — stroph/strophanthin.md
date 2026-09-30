@@ -5,13 +5,6 @@ status: unread
 ---
 # strophanthin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bitter and very toxic glycoside derived from plants of the genus strophanthus; in moderate doses it is a cardiac stimulant but in larger doses it is a powerful poison; used in africa as an arrow poison.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bitter and very toxic glycoside derived from plants of the genus strophanthus; in moderate doses it is a cardiac stimulant but in larger doses it is a powerful poison; used in africa as an arrow poison.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, strophanthin designates a bitter and very toxic glycoside derived from plants of the genus strophanthus; in moderate doses it is a cardiac stimulant but in larger doses it is a powerful poison; used in africa as an arrow poison."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bitter and very toxic glycoside derived from plants of the genus strophanthus; in moderate doses it is a cardiac stimulant but in larger doses it is a powerful poison; used in africa as an arrow poison.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bitter and very toxic glycoside derived from plants of the genus strophanthus; in moderate doses it is a cardiac stimulant but in larger doses it is a powerful poison; used in africa as an arrow poison.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, strophanthin designates a bitter and very toxic glycoside derived from plants of the genus strophanthus; in moderate doses it is a cardiac stimulant but in larger doses it is a powerful poison; used in africa as an arrow poison."*

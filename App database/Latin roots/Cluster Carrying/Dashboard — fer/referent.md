@@ -5,13 +5,6 @@ status: unread
 ---
 # referent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something referred to; the object of a reference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first term in a proposition; the term to which other terms relate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, referent designates something referred to; the object of a reference."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something referred to; the object of a reference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first term in a proposition; the term to which other terms relate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, referent designates something referred to; the object of a reference."*

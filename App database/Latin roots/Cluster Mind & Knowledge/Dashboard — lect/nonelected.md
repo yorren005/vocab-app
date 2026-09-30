@@ -5,13 +5,6 @@ status: unread
 ---
 # nonelected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled by appointment rather than by election.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filled by appointment rather than by election.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonelected designates filled by appointment rather than by election."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled by appointment rather than by election.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filled by appointment rather than by election.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonelected designates filled by appointment rather than by election."*

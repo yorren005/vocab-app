@@ -5,15 +5,6 @@ status: unread
 ---
 # avocation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An auxiliary activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An auxiliary activity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Brahmins maintain that in the almost endless sculptures of that immemorial pagoda, all the trades and pursuits, every conceivable avocation of man, were prefigured ages before any of them actually came into being."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Most men, perhaps especially eminent men, have a "hobby",--some absorbing object, the pursuit of which forms the most natural avocation of their mind, and to which they turn with the certainty of at least satisfaction, if not of exquisite pleasure."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is impossible to keep the judges too distinct from every other avocation than that of expounding the laws."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An auxiliary activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An auxiliary activity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Brahmins maintain that in the almost endless sculptures of that immemorial pagoda, all the trades and pursuits, every conceivable avocation of man, were prefigured ages before any of them actually came into being."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Most men, perhaps especially eminent men, have a "hobby",--some absorbing object, the pursuit of which forms the most natural avocation of their mind, and to which they turn with the certainty of at least satisfaction, if not of exquisite pleasure."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is impossible to keep the judges too distinct from every other avocation than that of expounding the laws."*

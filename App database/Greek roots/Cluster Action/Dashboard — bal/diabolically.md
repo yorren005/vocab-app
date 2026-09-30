@@ -5,15 +5,6 @@ status: unread
 ---
 # diabolically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As a devil; in an evil manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a devil; in an evil manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"My boy,” said the landlord, “you’ll have the nightmare to a dead sartainty.” “Landlord,” I whispered, “that aint the harpooneer, is it?” “Oh, no,” said he, looking a sort of diabolically funny, “the harpooneer is a dark complexioned chap."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"My boy,” said the landlord, “you’ll have the nightmare to a dead sartainty.” “Landlord,” I whispered, “that aint the harpooneer is it?” “Oh, no,” said he, looking a sort of diabolically funny, “the harpooneer is a dark complexioned chap."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Come, my husband, come!” There was something diabolically sweet in her tones--something of the tingling of glass when struck--which rang through the brains even of us who heard the words addressed to another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As a devil; in an evil manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a devil; in an evil manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"My boy,” said the landlord, “you’ll have the nightmare to a dead sartainty.” “Landlord,” I whispered, “that aint the harpooneer, is it?” “Oh, no,” said he, looking a sort of diabolically funny, “the harpooneer is a dark complexioned chap."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"My boy,” said the landlord, “you’ll have the nightmare to a dead sartainty.” “Landlord,” I whispered, “that aint the harpooneer is it?” “Oh, no,” said he, looking a sort of diabolically funny, “the harpooneer is a dark complexioned chap."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Come, my husband, come!” There was something diabolically sweet in her tones--something of the tingling of glass when struck--which rang through the brains even of us who heard the words addressed to another."*

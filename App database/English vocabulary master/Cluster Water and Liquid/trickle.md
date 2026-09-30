@@ -5,20 +5,6 @@ status: unread
 ---
 # trickle
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Issue or fall in drops
-> 2. **Nuance / Usage**: Flow in a thin gentle stream
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to trickle the target*) and intransitive clauses (*trickling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Weep not, sweet Queen, for trickling tears are vain."*
-> - 📜 **Lewis Carroll (*Alice in Wonderland*):** *"The unfortunate little Bill had left off writing on his slate with one finger, as he found it made no mark; but he now hastily began again, using the ink, that was trickling down his face, as long as it lasted."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"It was only then that her still face showed the least emotion, a tear or two beginning to trickle down."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Issue or fall in drops
+> 2. **Nuance / Usage**: Flow in a thin gentle stream
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to trickle the target*) and intransitive clauses (*trickling against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Weep not, sweet Queen, for trickling tears are vain."*
+> - 📜 **Lewis Carroll (*Alice in Wonderland*):** *"The unfortunate little Bill had left off writing on his slate with one finger, as he found it made no mark; but he now hastily began again, using the ink, that was trickling down his face, as long as it lasted."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"It was only then that her still face showed the least emotion, a tear or two beginning to trickle down."*

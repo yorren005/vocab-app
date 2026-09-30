@@ -5,15 +5,6 @@ status: unread
 ---
 # automobile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A motor vehicle with four wheels; usually propelled by an internal combustion engine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travel in an automobile.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oppenheimer, for instance, had never seen an automobile or a motor-cycle."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Co., in Leclaire, Ill., and the Ford Automobile Works, in Detroit."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Here and there a patriarchal smith still serves a dwindling group of customers and speaks with mingled pride and pathos of his sons, now in the automobile business in the city."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A motor vehicle with four wheels; usually propelled by an internal combustion engine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travel in an automobile.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oppenheimer, for instance, had never seen an automobile or a motor-cycle."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Co., in Leclaire, Ill., and the Ford Automobile Works, in Detroit."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Here and there a patriarchal smith still serves a dwindling group of customers and speaks with mingled pride and pathos of his sons, now in the automobile business in the city."*

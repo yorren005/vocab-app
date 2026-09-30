@@ -5,15 +5,6 @@ status: unread
 ---
 # impartiality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination to weigh both views or opinions equally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclination to weigh both views or opinions equally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Next day the weather was bad, but she trudged on, the honesty, directness, and impartiality of elemental enmity disconcerting her but little."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"If we are to use abstract terms and philosophize his thought a little, we may agree that the four facts Jesus notes in Nature are its mystery, its regularity, its impartiality, and its peacefulness[11]."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She put down the letter, weighed every circumstance with what she meant to be impartiality--deliberated on the probability of each statement--but with little success."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination to weigh both views or opinions equally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclination to weigh both views or opinions equally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Next day the weather was bad, but she trudged on, the honesty, directness, and impartiality of elemental enmity disconcerting her but little."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"If we are to use abstract terms and philosophize his thought a little, we may agree that the four facts Jesus notes in Nature are its mystery, its regularity, its impartiality, and its peacefulness[11]."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She put down the letter, weighed every circumstance with what she meant to be impartiality--deliberated on the probability of each statement--but with little success."*

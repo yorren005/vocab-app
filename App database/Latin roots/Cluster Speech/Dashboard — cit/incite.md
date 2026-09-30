@@ -5,15 +5,6 @@ status: unread
 ---
 # incite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an incentive for action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provoke or stir up.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No blown ambition doth our arms incite, But love, dear love, and our ag’d father’s right: Soon may I hear and see him! [_Exeunt._] SCENE V."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Incite them to quick motion; for I must Bestow upon the eyes of this young couple Some vanity of mine art: it is my promise, And they expect it from me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Trumpets sound as to a charge._] Hark how yon spurs to spirit do incite The princes to their proof!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an incentive for action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provoke or stir up.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No blown ambition doth our arms incite, But love, dear love, and our ag’d father’s right: Soon may I hear and see him! [_Exeunt._] SCENE V."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Incite them to quick motion; for I must Bestow upon the eyes of this young couple Some vanity of mine art: it is my promise, And they expect it from me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Trumpets sound as to a charge._] Hark how yon spurs to spirit do incite The princes to their proof!"*

@@ -5,14 +5,6 @@ status: unread
 ---
 # unpictured
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not pictured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not pictured.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Some love might come across his life, and purify him, and shield him from those sins that seemed to be already stirring in spirit and in flesh—those curious unpictured sins whose very mystery lent them their subtlety and their charm."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"How can I essay To picture such unpictured might as thine?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not pictured.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not pictured.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Some love might come across his life, and purify him, and shield him from those sins that seemed to be already stirring in spirit and in flesh—those curious unpictured sins whose very mystery lent them their subtlety and their charm."*
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"How can I essay To picture such unpictured might as thine?"*

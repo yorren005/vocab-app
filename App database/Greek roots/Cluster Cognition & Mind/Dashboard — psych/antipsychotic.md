@@ -5,13 +5,6 @@ status: unread
 ---
 # antipsychotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the powerful tranquilizers (such as the phenothiazines and butyrophenones) used especially to treat psychosis and believed to act by blocking dopamine nervous receptors —called also neuroleptic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the powerful tranquilizers (such as the phenothiazines and butyrophenones) used especially to treat psychosis and believed to act by blocking dopamine nervous receptors —called also neuroleptic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antipsychotic designates any of the powerful tranquilizers (such as the phenothiazines and butyrophenones) used especially to treat psychosis and believed to act by blocking dopamine nervous receptors —called also neuroleptic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the powerful tranquilizers (such as the phenothiazines and butyrophenones) used especially to treat psychosis and believed to act by blocking dopamine nervous receptors —called also neuroleptic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the powerful tranquilizers (such as the phenothiazines and butyrophenones) used especially to treat psychosis and believed to act by blocking dopamine nervous receptors —called also neuroleptic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antipsychotic designates any of the powerful tranquilizers (such as the phenothiazines and butyrophenones) used especially to treat psychosis and believed to act by blocking dopamine nervous receptors —called also neuroleptic."*

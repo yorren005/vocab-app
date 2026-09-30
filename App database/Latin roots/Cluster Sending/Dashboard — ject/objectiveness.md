@@ -5,13 +5,6 @@ status: unread
 ---
 # objectiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Judgment based on observable phenomena and uninfluenced by emotions or personal prejudices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judgment based on observable phenomena and uninfluenced by emotions or personal prejudices.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, objectiveness designates judgment based on observable phenomena and uninfluenced by emotions or personal prejudices."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Judgment based on observable phenomena and uninfluenced by emotions or personal prejudices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judgment based on observable phenomena and uninfluenced by emotions or personal prejudices.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, objectiveness designates judgment based on observable phenomena and uninfluenced by emotions or personal prejudices."*

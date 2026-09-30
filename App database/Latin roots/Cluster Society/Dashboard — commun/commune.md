@@ -5,15 +5,6 @@ status: unread
 ---
 # commune
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The smallest administrative district of several european countries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body of people or families living together and sharing everything.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Laertes, I must commune with your grief, Or you deny me right."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make a swift return; For I would commune with you of such things That want no ear but yours."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Katherina, you may stay; For I have more to commune with Bianca. [_Exit._] KATHERINA."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The smallest administrative district of several european countries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body of people or families living together and sharing everything.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Laertes, I must commune with your grief, Or you deny me right."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make a swift return; For I would commune with you of such things That want no ear but yours."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Katherina, you may stay; For I have more to commune with Bianca. [_Exit._] KATHERINA."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # basalt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The commonest type of solidified lava; a dense dark grey fine-grained igneous rock that is composed chiefly of plagioclase feldspar and pyroxene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The commonest type of solidified lava; a dense dark grey fine-grained igneous rock that is composed chiefly of plagioclase feldspar and pyroxene.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I tried to speak, but Captain Nemo stopped me by a gesture, and, picking up a piece of chalk-stone, advanced to a rock of black basalt, and traced the one word: ATLANTIS What a light shot through my mind!"*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"About four o’clock, the soil, generally composed of a thick mud mixed with petrified wood, changed by degrees, and it became more stony, and seemed strewn with conglomerate and pieces of basalt, with a sprinkling of lava."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Between the blocks of basalt wound long streams of lava, long since grown cold, encrusted with bituminous rays; and in some places there were spread large carpets of sulphur."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The commonest type of solidified lava; a dense dark grey fine-grained igneous rock that is composed chiefly of plagioclase feldspar and pyroxene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The commonest type of solidified lava; a dense dark grey fine-grained igneous rock that is composed chiefly of plagioclase feldspar and pyroxene.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I tried to speak, but Captain Nemo stopped me by a gesture, and, picking up a piece of chalk-stone, advanced to a rock of black basalt, and traced the one word: ATLANTIS What a light shot through my mind!"*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"About four o’clock, the soil, generally composed of a thick mud mixed with petrified wood, changed by degrees, and it became more stony, and seemed strewn with conglomerate and pieces of basalt, with a sprinkling of lava."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Between the blocks of basalt wound long streams of lava, long since grown cold, encrusted with bituminous rays; and in some places there were spread large carpets of sulphur."*

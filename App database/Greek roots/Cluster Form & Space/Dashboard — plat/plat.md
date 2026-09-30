@@ -5,15 +5,6 @@ status: unread
 ---
 # plat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A map showing planned or actual features of an area (streets and building lots etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a plat of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There were no flowers, no garden-beds; only a broad gravel-walk girdling a grass-plat, and this set in the heavy frame of the forest."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He descended the one step, and advanced slowly and gropingly towards the grass-plat."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"All was peaceful and clear in every note of black and white and scarlet on the turf plat where they lay as if on a stage, in their green setting of dimpled hillside and beech grove and marsh."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A map showing planned or actual features of an area (streets and building lots etc.).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a plat of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There were no flowers, no garden-beds; only a broad gravel-walk girdling a grass-plat, and this set in the heavy frame of the forest."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He descended the one step, and advanced slowly and gropingly towards the grass-plat."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"All was peaceful and clear in every note of black and white and scarlet on the turf plat where they lay as if on a stage, in their green setting of dimpled hillside and beech grove and marsh."*

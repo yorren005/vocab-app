@@ -5,14 +5,6 @@ status: unread
 ---
 # confectionery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Candy and other sweets considered collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A confectioner's shop.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Men cannot thus collectively enjoy rare wines or good confectionery; they cannot partake without limit of a limited supply."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"The little girl's mud pies and other sham confectionery furnish her first lessons in the art of preparing food."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Candy and other sweets considered collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A confectioner's shop.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Men cannot thus collectively enjoy rare wines or good confectionery; they cannot partake without limit of a limited supply."*
+> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"The little girl's mud pies and other sham confectionery furnish her first lessons in the art of preparing food."*

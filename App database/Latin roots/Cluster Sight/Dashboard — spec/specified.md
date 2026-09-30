@@ -5,15 +5,6 @@ status: unread
 ---
 # specified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Specify as a condition or requirement in a contract or agreement; make an express demand or provision in an agreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decide upon or fix definitely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Both were made legalized forms of money (and standards of deferred payments) in units of specified weights and fineness, the weights bearing a certain ratio to each other."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Demand deposits are those payable on demand, the demand in practice being by means of personal checks requesting the bank to pay to (or on the order of) a specified person, or to pay to bearer."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In some cases the right has been granted as a monopoly to certain banks in return for specified payments and services."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Specify as a condition or requirement in a contract or agreement; make an express demand or provision in an agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decide upon or fix definitely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Both were made legalized forms of money (and standards of deferred payments) in units of specified weights and fineness, the weights bearing a certain ratio to each other."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Demand deposits are those payable on demand, the demand in practice being by means of personal checks requesting the bank to pay to (or on the order of) a specified person, or to pay to bearer."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In some cases the right has been granted as a monopoly to certain banks in return for specified payments and services."*

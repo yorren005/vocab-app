@@ -5,15 +5,6 @@ status: unread
 ---
 # obviate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Do away with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prevent the occurrence of; prevent from happening.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Upon this ground, which is evidently the true one, it will not be difficult to obviate the objections which have been made to an indefinite power of taxation in the United States."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But the most minute provisions become important when they tend to obviate the necessity or the pretext for gradual and unobserved usurpations of power."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It may be said, that the intervention of a jury, in the second instance, would obviate the danger."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Do away with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prevent the occurrence of; prevent from happening.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Upon this ground, which is evidently the true one, it will not be difficult to obviate the objections which have been made to an indefinite power of taxation in the United States."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But the most minute provisions become important when they tend to obviate the necessity or the pretext for gradual and unobserved usurpations of power."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It may be said, that the intervention of a jury, in the second instance, would obviate the danger."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # logion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A saying of jesus that is regarded as authentic although it is not recorded in the gospels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A saying of jesus that is regarded as authentic although it is not recorded in the gospels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logion designates a saying of jesus that is regarded as authentic although it is not recorded in the gospels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A saying of jesus that is regarded as authentic although it is not recorded in the gospels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A saying of jesus that is regarded as authentic although it is not recorded in the gospels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logion designates a saying of jesus that is regarded as authentic although it is not recorded in the gospels."*

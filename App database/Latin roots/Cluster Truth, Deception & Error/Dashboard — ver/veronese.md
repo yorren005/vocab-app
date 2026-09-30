@@ -5,14 +5,6 @@ status: unread
 ---
 # veronese
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian painter of the venetian school (1528-1588).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian painter of the venetian school (1528-1588).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MONTAGUE, head of a Veronese family at feud with the Capulets."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CAPULET, head of a Veronese family at feud with the Montagues."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian painter of the venetian school (1528-1588).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian painter of the venetian school (1528-1588).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MONTAGUE, head of a Veronese family at feud with the Capulets."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CAPULET, head of a Veronese family at feud with the Montagues."*

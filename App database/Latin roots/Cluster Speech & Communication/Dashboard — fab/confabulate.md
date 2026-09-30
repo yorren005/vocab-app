@@ -5,13 +5,6 @@ status: unread
 ---
 # confabulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unconsciously replace fact with fantasy in one's memory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk socially without exchanging too much information.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The two proud dowagers, Lady Lynn and Lady Ingram, confabulate together."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unconsciously replace fact with fantasy in one's memory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk socially without exchanging too much information.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The two proud dowagers, Lady Lynn and Lady Ingram, confabulate together."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # injuriously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an injurious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an injurious manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Why do you injuriously introduce the name of my mother by adoption?"*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"A strong proof of the vitality of the movement, of which he was the principal originator, is that his death cannot injuriously affect its activity or its prospects of ultimate success."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And yet, in such a system, it is even happy when such compromises can take place: for upon some occasions things will not admit of accommodation; and then the measures of government must be injuriously suspended, or fatally defeated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an injurious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an injurious manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Why do you injuriously introduce the name of my mother by adoption?"*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"A strong proof of the vitality of the movement, of which he was the principal originator, is that his death cannot injuriously affect its activity or its prospects of ultimate success."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And yet, in such a system, it is even happy when such compromises can take place: for upon some occasions things will not admit of accommodation; and then the measures of government must be injuriously suspended, or fatally defeated."*

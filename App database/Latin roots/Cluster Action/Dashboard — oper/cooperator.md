@@ -5,13 +5,6 @@ status: unread
 ---
 # cooperator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An associate in an activity or endeavor or sphere of common interest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An associate in an activity or endeavor or sphere of common interest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cooperator designates an associate in an activity or endeavor or sphere of common interest."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An associate in an activity or endeavor or sphere of common interest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An associate in an activity or endeavor or sphere of common interest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cooperator designates an associate in an activity or endeavor or sphere of common interest."*

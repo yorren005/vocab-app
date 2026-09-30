@@ -5,15 +5,6 @@ status: unread
 ---
 # altar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The table in christian churches where communion is given.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A raised structure on which gifts or sacrifices to a god are made.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, Dian, from thy altar do I fly, And to imperial Love, that god most high, Do my sighs stream. [_To first Lord._] Sir, will you hear my suit?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mailed Mars shall on his altar sit Up to the ears in blood."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cease, cease these jars, and rest your minds in peace; Let’s to the altar; heralds, wait on us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The table in christian churches where communion is given.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A raised structure on which gifts or sacrifices to a god are made.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, Dian, from thy altar do I fly, And to imperial Love, that god most high, Do my sighs stream. [_To first Lord._] Sir, will you hear my suit?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mailed Mars shall on his altar sit Up to the ears in blood."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cease, cease these jars, and rest your minds in peace; Let’s to the altar; heralds, wait on us."*

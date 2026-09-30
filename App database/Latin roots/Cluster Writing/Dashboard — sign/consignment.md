@@ -5,15 +5,6 @@ status: unread
 ---
 # consignment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Goods carried by a large vehicle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official act of consigning a person to confinement (as in a prison or mental hospital).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"I was down on the levee, to see to the consignment of my freight, and run afoul of her."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"At that simple but most solemn consignment of the body to the grave-“Earth to earth, ashes to ashes, dust to dust!”--the tears of the youthful companions of the deceased flowed unrestrained."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I got a letter from Whiteley's this morning asking when my first consignment was to arrive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Goods carried by a large vehicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official act of consigning a person to confinement (as in a prison or mental hospital).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"I was down on the levee, to see to the consignment of my freight, and run afoul of her."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"At that simple but most solemn consignment of the body to the grave-“Earth to earth, ashes to ashes, dust to dust!”--the tears of the youthful companions of the deceased flowed unrestrained."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I got a letter from Whiteley's this morning asking when my first consignment was to arrive."*

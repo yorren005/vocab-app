@@ -5,15 +5,6 @@ status: unread
 ---
 # contradict
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be in contradiction with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deny the truth of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stand in his face to contradict his claim."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Too cruel anywhere.— Dear Duff, I pr’ythee, contradict thyself, And say it is not so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A greater power than we can contradict Hath thwarted our intents."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be in contradiction with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deny the truth of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stand in his face to contradict his claim."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Too cruel anywhere.— Dear Duff, I pr’ythee, contradict thyself, And say it is not so."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A greater power than we can contradict Hath thwarted our intents."*

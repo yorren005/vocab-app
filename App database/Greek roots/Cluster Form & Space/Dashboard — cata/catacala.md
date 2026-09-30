@@ -5,13 +5,6 @@ status: unread
 ---
 # catacala
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moths whose larvae are cutworms: underwings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moths whose larvae are cutworms: underwings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catacala designates moths whose larvae are cutworms: underwings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moths whose larvae are cutworms: underwings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moths whose larvae are cutworms: underwings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catacala designates moths whose larvae are cutworms: underwings."*

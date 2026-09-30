@@ -5,15 +5,6 @@ status: unread
 ---
 # leg
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure in animals that is similar to a human leg and used for locomotion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I were invisible, to catch the strong fellow by the leg. [_Orlando and Charles wrestle._] ROSALIND."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is not very tall, yet for his years he’s tall; His leg is but so-so, and yet ’tis well."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The kingly crowned head, the vigilant eye, The counsellor heart, the arm our soldier, Our steed the leg, the tongue our trumpeter, With other muniments and petty helps Is this our fabric, if that they— MENENIUS."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure in animals that is similar to a human leg and used for locomotion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I were invisible, to catch the strong fellow by the leg. [_Orlando and Charles wrestle._] ROSALIND."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is not very tall, yet for his years he’s tall; His leg is but so-so, and yet ’tis well."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The kingly crowned head, the vigilant eye, The counsellor heart, the arm our soldier, Our steed the leg, the tongue our trumpeter, With other muniments and petty helps Is this our fabric, if that they— MENENIUS."*

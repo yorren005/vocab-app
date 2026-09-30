@@ -5,13 +5,6 @@ status: unread
 ---
 # candleberry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deciduous aromatic shrub of eastern north america with grey-green wax-coated berries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deciduous aromatic shrub of eastern north america with grey-green wax-coated berries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candleberry designates deciduous aromatic shrub of eastern north america with grey-green wax-coated berries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deciduous aromatic shrub of eastern north america with grey-green wax-coated berries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deciduous aromatic shrub of eastern north america with grey-green wax-coated berries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candleberry designates deciduous aromatic shrub of eastern north america with grey-green wax-coated berries."*

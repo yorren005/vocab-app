@@ -5,15 +5,6 @@ status: unread
 ---
 # fern
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous flowerless and seedless vascular plants having true roots from a rhizome and fronds that uncurl upward; reproduce by spores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous flowerless and seedless vascular plants having true roots from a rhizome and fronds that uncurl upward; reproduce by spores.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We steal as in a castle, cock-sure; we have the receipt of fern-seed, we walk invisible."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, by my faith, I think you are more beholding to the night than to fern-seed for your walking invisible."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There are noble mausoleums rooted for centuries in retired glades of parks among the growing timber and the fern, which perhaps hold fewer noble secrets than walk abroad among men, shut up in the breast of Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous flowerless and seedless vascular plants having true roots from a rhizome and fronds that uncurl upward; reproduce by spores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous flowerless and seedless vascular plants having true roots from a rhizome and fronds that uncurl upward; reproduce by spores.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We steal as in a castle, cock-sure; we have the receipt of fern-seed, we walk invisible."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, by my faith, I think you are more beholding to the night than to fern-seed for your walking invisible."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There are noble mausoleums rooted for centuries in retired glades of parks among the growing timber and the fern, which perhaps hold fewer noble secrets than walk abroad among men, shut up in the breast of Mr."*

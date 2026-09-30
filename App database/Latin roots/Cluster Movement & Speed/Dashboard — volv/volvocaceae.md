@@ -5,13 +5,6 @@ status: unread
 ---
 # volvocaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unicellular or colonial biflagellate free-swimming flagellates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unicellular or colonial biflagellate free-swimming flagellates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volvocaceae designates unicellular or colonial biflagellate free-swimming flagellates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unicellular or colonial biflagellate free-swimming flagellates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unicellular or colonial biflagellate free-swimming flagellates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volvocaceae designates unicellular or colonial biflagellate free-swimming flagellates."*

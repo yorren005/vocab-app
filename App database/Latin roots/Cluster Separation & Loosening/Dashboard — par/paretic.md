@@ -5,13 +5,6 @@ status: unread
 ---
 # paretic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person afflicted with paresis (partial paralysis).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person afflicted with paresis (partial paralysis).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Alan would never be an irritated, jealous, paretic old man, nor would he see "this woman" grow stern with repression and ache, and loneliness of heart and spirit...."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person afflicted with paresis (partial paralysis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person afflicted with paresis (partial paralysis).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Alan would never be an irritated, jealous, paretic old man, nor would he see "this woman" grow stern with repression and ache, and loneliness of heart and spirit...."*

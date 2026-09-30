@@ -5,13 +5,6 @@ status: unread
 ---
 # anticoagulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The administration of an anticoagulant drug to retard coagulation of the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The administration of an anticoagulant drug to retard coagulation of the blood.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticoagulation designates the administration of an anticoagulant drug to retard coagulation of the blood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The administration of an anticoagulant drug to retard coagulation of the blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The administration of an anticoagulant drug to retard coagulation of the blood.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticoagulation designates the administration of an anticoagulant drug to retard coagulation of the blood."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # vanished
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get lost, as without warning or explanation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become invisible or unnoticeable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The things that threaten’d me Ne’er look’d but on my back; when they shall see The face of Caesar, they are vanished."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I burned in desire to question them further, they made themselves air, into which they vanished."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The first that there did greet my stranger-soul Was my great father-in-law, renowned Warwick, Who spake aloud, “What scourge for perjury Can this dark monarchy afford false Clarence?” And so he vanished."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Get lost, as without warning or explanation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become invisible or unnoticeable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The things that threaten’d me Ne’er look’d but on my back; when they shall see The face of Caesar, they are vanished."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I burned in desire to question them further, they made themselves air, into which they vanished."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The first that there did greet my stranger-soul Was my great father-in-law, renowned Warwick, Who spake aloud, “What scourge for perjury Can this dark monarchy afford false Clarence?” And so he vanished."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # photoengraving
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An engraving used to reproduce an illustration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An engraving used to reproduce an illustration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoengraving designates an engraving used to reproduce an illustration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An engraving used to reproduce an illustration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An engraving used to reproduce an illustration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoengraving designates an engraving used to reproduce an illustration."*

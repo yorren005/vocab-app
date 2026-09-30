@@ -5,13 +5,6 @@ status: unread
 ---
 # emmer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hard red wheat grown especially in russia and germany; in united states as stock feed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hard red wheat grown especially in russia and germany; in united states as stock feed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emmer designates hard red wheat grown especially in russia and germany; in united states as stock feed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hard red wheat grown especially in russia and germany; in united states as stock feed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hard red wheat grown especially in russia and germany; in united states as stock feed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emmer designates hard red wheat grown especially in russia and germany; in united states as stock feed."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # entente
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal alliance between countries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A friendly understanding between political powers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"So let us sing--"Long live the king" And join the bonne entente, Jean."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"THE ENTENTE CORDIALE VII It has been well observed that there are moments and moments."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"We wandered about the grounds discussing the game, the _entente cordiale_ growing more firmly established every moment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal alliance between countries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A friendly understanding between political powers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"So let us sing--"Long live the king" And join the bonne entente, Jean."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"THE ENTENTE CORDIALE VII It has been well observed that there are moments and moments."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"We wandered about the grounds discussing the game, the _entente cordiale_ growing more firmly established every moment."*

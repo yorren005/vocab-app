@@ -5,14 +5,6 @@ status: unread
 ---
 # unequaled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Radically distinctive and without equal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radically distinctive and without equal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"With an artistic touch which has placed the sketches just published among 'the books which are books,' he has given an unequaled picture of a boyhood lived under tropical skies."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"His integrity, his common sense, his courage and his unequaled experience are the qualities offered to his country."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Radically distinctive and without equal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radically distinctive and without equal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"With an artistic touch which has placed the sketches just published among 'the books which are books,' he has given an unequaled picture of a boyhood lived under tropical skies."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"His integrity, his common sense, his courage and his unequaled experience are the qualities offered to his country."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # official
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker who holds or is invested with an office.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who administers the rules of a game or sport.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Remains That in th’ official marks invested, you Anon do meet the Senate."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It touched me that the home of such a beautiful young creature should be represented by that dry, official place."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There were some stately footmen, and there was a perfect picture of an old coachman, who looked as if he were the official representative of all the pomps and vanities that had ever been put into his coach."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker who holds or is invested with an office.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who administers the rules of a game or sport.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Remains That in th’ official marks invested, you Anon do meet the Senate."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It touched me that the home of such a beautiful young creature should be represented by that dry, official place."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"There were some stately footmen, and there was a perfect picture of an old coachman, who looked as if he were the official representative of all the pomps and vanities that had ever been put into his coach."*

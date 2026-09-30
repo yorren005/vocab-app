@@ -5,15 +5,6 @@ status: unread
 ---
 # dolour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (poetry) painful grief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (poetry) painful grief.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Each new morn New widows howl, new orphans cry; new sorrows Strike heaven on the face, that it resounds As if it felt with Scotland, and yell’d out Like syllable of dolour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have too few to take my leave of you, When the tongue’s office should be prodigal To breathe the abundant dolour of the heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your widow-dolour likewise be unwept!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (poetry) painful grief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (poetry) painful grief.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Each new morn New widows howl, new orphans cry; new sorrows Strike heaven on the face, that it resounds As if it felt with Scotland, and yell’d out Like syllable of dolour."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have too few to take my leave of you, When the tongue’s office should be prodigal To breathe the abundant dolour of the heart."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your widow-dolour likewise be unwept!"*

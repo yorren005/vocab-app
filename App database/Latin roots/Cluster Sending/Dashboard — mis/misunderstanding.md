@@ -5,15 +5,6 @@ status: unread
 ---
 # misunderstanding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Putting the wrong interpretation on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An understanding of something that is not correct.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have occupied your house for a considerable period, I believe to our mutual satisfaction until this unpleasant misunderstanding arose; let us be at once friendly and business-like."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Suspicion and misunderstanding were the fault of the suit?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was about to add,” he presently goes on, “I was about to add, respecting this attack, that it was unfortunately simultaneous with a slight misunderstanding between my Lady and myself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Putting the wrong interpretation on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An understanding of something that is not correct.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I have occupied your house for a considerable period, I believe to our mutual satisfaction until this unpleasant misunderstanding arose; let us be at once friendly and business-like."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Suspicion and misunderstanding were the fault of the suit?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I was about to add,” he presently goes on, “I was about to add, respecting this attack, that it was unfortunately simultaneous with a slight misunderstanding between my Lady and myself."*

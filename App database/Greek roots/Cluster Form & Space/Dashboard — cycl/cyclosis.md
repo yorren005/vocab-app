@@ -5,13 +5,6 @@ status: unread
 ---
 # cyclosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The streaming of protoplasm within a cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The streaming of protoplasm within a cell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclosis designates the streaming of protoplasm within a cell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The streaming of protoplasm within a cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The streaming of protoplasm within a cell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclosis designates the streaming of protoplasm within a cell."*

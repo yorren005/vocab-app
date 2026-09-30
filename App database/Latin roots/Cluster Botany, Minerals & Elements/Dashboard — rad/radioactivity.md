@@ -5,13 +5,6 @@ status: unread
 ---
 # radioactivity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The spontaneous emission of a stream of particles or electromagnetic rays in nuclear decay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spontaneous emission of a stream of particles or electromagnetic rays in nuclear decay.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radioactivity designates the spontaneous emission of a stream of particles or electromagnetic rays in nuclear decay."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The spontaneous emission of a stream of particles or electromagnetic rays in nuclear decay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spontaneous emission of a stream of particles or electromagnetic rays in nuclear decay.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radioactivity designates the spontaneous emission of a stream of particles or electromagnetic rays in nuclear decay."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # habitat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The type of environment in which an organism or group normally lives or occurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The type of environment in which an organism or group normally lives or occurs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The compartment was generous by space habitat standards."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Colonizing Pluto and constructing space kits that would be transformed into surface habitat and supply depots began centuries earlier when Planet Pluto was barely past aphelion but within economical range of deep space transports."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Government of the nearest surface or colony habitat will be notified immediately and institute actions for the objects' reduction to harmless residue or its temporary or permanent removal to a safe location."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type of environment in which an organism or group normally lives or occurs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The type of environment in which an organism or group normally lives or occurs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The compartment was generous by space habitat standards."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Colonizing Pluto and constructing space kits that would be transformed into surface habitat and supply depots began centuries earlier when Planet Pluto was barely past aphelion but within economical range of deep space transports."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Government of the nearest surface or colony habitat will be notified immediately and institute actions for the objects' reduction to harmless residue or its temporary or permanent removal to a safe location."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # thermionics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of electronics dealing with thermionic phenomena (especially thermionic vacuum tubes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of electronics dealing with thermionic phenomena (especially thermionic vacuum tubes).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermionics designates the branch of electronics dealing with thermionic phenomena (especially thermionic vacuum tubes)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of electronics dealing with thermionic phenomena (especially thermionic vacuum tubes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of electronics dealing with thermionic phenomena (especially thermionic vacuum tubes).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermionics designates the branch of electronics dealing with thermionic phenomena (especially thermionic vacuum tubes)."*

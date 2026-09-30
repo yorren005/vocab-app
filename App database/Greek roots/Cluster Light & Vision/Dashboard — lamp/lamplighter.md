@@ -5,15 +5,6 @@ status: unread
 ---
 # lamplighter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (when gas was used for streetlights) a person who lights and extinguishes streetlights.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (when gas was used for streetlights) a person who lights and extinguishes streetlights.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Twilight comes on; gas begins to start up in the shops; the lamplighter, with his ladder, runs along the margin of the pavement."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The lamplighter is skipping up and down his ladder on Mr."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Already the lamplighter had started on his accustomed round, and with ladder in hand was making his way from one lamp-post to another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (when gas was used for streetlights) a person who lights and extinguishes streetlights.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (when gas was used for streetlights) a person who lights and extinguishes streetlights.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Twilight comes on; gas begins to start up in the shops; the lamplighter, with his ladder, runs along the margin of the pavement."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lamplighter is skipping up and down his ladder on Mr."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Already the lamplighter had started on his accustomed round, and with ladder in hand was making his way from one lamp-post to another."*

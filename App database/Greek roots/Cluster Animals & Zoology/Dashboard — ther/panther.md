@@ -5,15 +5,6 @@ status: unread
 ---
 # panther
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large spotted feline of tropical america similar to the leopard; in some classifications considered a member of the genus felis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A leopard in the black color phase.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tomorrow, an it please your majesty To hunt the panther and the hart with me, With horn and hound we’ll give your grace _bonjour_."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have dogs, my lord, Will rouse the proudest panther in the chase, And climb the highest promontory top."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Straight will I bring you to the loathsome pit Where I espied the panther fast asleep."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large spotted feline of tropical america similar to the leopard; in some classifications considered a member of the genus felis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A leopard in the black color phase.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tomorrow, an it please your majesty To hunt the panther and the hart with me, With horn and hound we’ll give your grace _bonjour_."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have dogs, my lord, Will rouse the proudest panther in the chase, And climb the highest promontory top."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Straight will I bring you to the loathsome pit Where I espied the panther fast asleep."*

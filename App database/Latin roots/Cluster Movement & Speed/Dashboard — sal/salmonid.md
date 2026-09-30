@@ -5,13 +5,6 @@ status: unread
 ---
 # salmonid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soft-finned fishes of cold and temperate waters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soft-finned fishes of cold and temperate waters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salmonid designates soft-finned fishes of cold and temperate waters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Soft-finned fishes of cold and temperate waters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soft-finned fishes of cold and temperate waters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salmonid designates soft-finned fishes of cold and temperate waters."*

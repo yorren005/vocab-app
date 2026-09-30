@@ -5,15 +5,6 @@ status: unread
 ---
 # accession
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A process of increasing by addition (as to a collection or group).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (civil law) the right to all of that which your property produces whether by growth or improvement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The accession of fortune, the discovery of my relations, followed in due order."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny’s spirits lived on it half the morning, deriving some accession of pleasure from its writer being himself to go away."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"But with the death of the ninth gooroo, by Moslem violence, and the accession of his son Govind, the worldly fortunes of the Khalsa changed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A process of increasing by addition (as to a collection or group).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (civil law) the right to all of that which your property produces whether by growth or improvement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The accession of fortune, the discovery of my relations, followed in due order."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny’s spirits lived on it half the morning, deriving some accession of pleasure from its writer being himself to go away."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"But with the death of the ninth gooroo, by Moslem violence, and the accession of his son Govind, the worldly fortunes of the Khalsa changed."*

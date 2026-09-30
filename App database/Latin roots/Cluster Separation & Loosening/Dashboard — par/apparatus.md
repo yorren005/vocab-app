@@ -5,15 +5,6 @@ status: unread
 ---
 # apparatus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipment designed to serve a specific function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anatomy) a group of body parts that work together to perform a given function.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The heating apparatus of our Orphan Home unexpectedly gave out."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If expert knowledge or special apparatus are needed to test it in order to avoid counterfeits, few could be ready to take it and trading would be a costly process. 4."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"First, that occasioned directly in caring for the sick or injured person, the expense of medical attention, nursing, hospital care, drugs and special apparatus such as crutches and glasses, and burial expenses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipment designed to serve a specific function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anatomy) a group of body parts that work together to perform a given function.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The heating apparatus of our Orphan Home unexpectedly gave out."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If expert knowledge or special apparatus are needed to test it in order to avoid counterfeits, few could be ready to take it and trading would be a costly process. 4."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"First, that occasioned directly in caring for the sick or injured person, the expense of medical attention, nursing, hospital care, drugs and special apparatus such as crutches and glasses, and burial expenses."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # neonate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A newborn child; especially : a child less than a month old.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A newborn child; especially : a child less than a month old.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neonate designates a newborn child; especially : a child less than a month old."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A newborn child; especially : a child less than a month old.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A newborn child; especially : a child less than a month old.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neonate designates a newborn child; especially : a child less than a month old."*

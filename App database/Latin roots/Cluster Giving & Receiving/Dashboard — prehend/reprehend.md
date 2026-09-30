@@ -5,15 +5,6 @@ status: unread
 ---
 # reprehend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express strong disapproval of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express strong disapproval of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I myself reprehend his own person, for I am his Grace’s farborough."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And this weak and idle theme, No more yielding but a dream, Gentles, do not reprehend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do suspect I have done some offence That seems disgracious in the city’s eye, And that you come to reprehend my ignorance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Express strong disapproval of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express strong disapproval of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I myself reprehend his own person, for I am his Grace’s farborough."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And this weak and idle theme, No more yielding but a dream, Gentles, do not reprehend."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do suspect I have done some offence That seems disgracious in the city’s eye, And that you come to reprehend my ignorance."*

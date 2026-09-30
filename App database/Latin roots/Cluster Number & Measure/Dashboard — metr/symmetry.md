@@ -5,15 +5,6 @@ status: unread
 ---
 # symmetry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) an attribute of a shape or relation; exact reflection of form on opposite sides of a dividing line or plane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Balance among the parts of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Since the receipt of the missive in the morning, Boldwood had felt the symmetry of his existence to be slowly getting distorted in the direction of an ideal passion."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was, so to speak, that symmetry in their distortion which is less the characteristic of British than of Continental grotesques of the period."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Both are massive enough in all conscience; but there is a certain mathematical symmetry in the Sperm Whale’s which the Right Whale’s sadly lacks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) an attribute of a shape or relation; exact reflection of form on opposite sides of a dividing line or plane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Balance among the parts of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Since the receipt of the missive in the morning, Boldwood had felt the symmetry of his existence to be slowly getting distorted in the direction of an ideal passion."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was, so to speak, that symmetry in their distortion which is less the characteristic of British than of Continental grotesques of the period."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Both are massive enough in all conscience; but there is a certain mathematical symmetry in the Sperm Whale’s which the Right Whale’s sadly lacks."*

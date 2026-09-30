@@ -5,13 +5,6 @@ status: unread
 ---
 # rhinotermitidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large widely distributed family of termites of temperate to tropical regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large widely distributed family of termites of temperate to tropical regions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinotermitidae designates large widely distributed family of termites of temperate to tropical regions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large widely distributed family of termites of temperate to tropical regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large widely distributed family of termites of temperate to tropical regions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinotermitidae designates large widely distributed family of termites of temperate to tropical regions."*

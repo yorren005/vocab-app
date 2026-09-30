@@ -5,15 +5,6 @@ status: unread
 ---
 # terrier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several usually small short-bodied breeds originally trained to hunt animals living underground.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several usually small short-bodied breeds originally trained to hunt animals living underground.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby whether he means Carrots, or the Colonel, or Gallows, or Young Chisel, or Terrier Tip, or Lanky, or the Brick."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"A little bright-eyed terrier, you know, with oh, such long curly brown hair!"*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wemmick, as we came out, “for the Bailey.” In the room over that, a little flabby terrier of a clerk with dangling hair (his cropping seemed to have been forgotten when he was a puppy) was similarly engaged with a man with weak eyes, whom Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several usually small short-bodied breeds originally trained to hunt animals living underground.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several usually small short-bodied breeds originally trained to hunt animals living underground.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby whether he means Carrots, or the Colonel, or Gallows, or Young Chisel, or Terrier Tip, or Lanky, or the Brick."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"A little bright-eyed terrier, you know, with oh, such long curly brown hair!"*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Wemmick, as we came out, “for the Bailey.” In the room over that, a little flabby terrier of a clerk with dangling hair (his cropping seemed to have been forgotten when he was a puppy) was similarly engaged with a man with weak eyes, whom Mr."*

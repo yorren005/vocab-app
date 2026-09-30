@@ -5,15 +5,6 @@ status: unread
 ---
 # merciful
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or giving mercy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used conventionally of royalty and high nobility) gracious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be merciful, great Duke, to men of mould."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King is merciful, if you revolt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If your will pass, I shall both find your lordship judge and juror, You are so merciful."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or giving mercy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used conventionally of royalty and high nobility) gracious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be merciful, great Duke, to men of mould."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King is merciful, if you revolt."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If your will pass, I shall both find your lordship judge and juror, You are so merciful."*

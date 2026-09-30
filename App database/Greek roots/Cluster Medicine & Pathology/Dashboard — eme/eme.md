@@ -5,13 +5,6 @@ status: unread
 ---
 # eme
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Significantly distinctive unit of language structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Significantly distinctive unit of language structure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eme designates significantly distinctive unit of language structure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Significantly distinctive unit of language structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Significantly distinctive unit of language structure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eme designates significantly distinctive unit of language structure."*

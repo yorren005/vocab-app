@@ -5,13 +5,6 @@ status: unread
 ---
 # bonobo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small chimpanzee of swamp forests in zaire; a threatened species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small chimpanzee of swamp forests in zaire; a threatened species.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bonobo designates small chimpanzee of swamp forests in zaire; a threatened species."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small chimpanzee of swamp forests in zaire; a threatened species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small chimpanzee of swamp forests in zaire; a threatened species.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bonobo designates small chimpanzee of swamp forests in zaire; a threatened species."*

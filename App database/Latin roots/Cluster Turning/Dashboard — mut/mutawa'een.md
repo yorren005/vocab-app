@@ -5,13 +5,6 @@ status: unread
 ---
 # mutawa'een
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Religious police in saudi arabia whose duty is to ensure strict adherence to established codes of conduct; offenders may be detained indefinitely; foreigners are not excluded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Religious police in saudi arabia whose duty is to ensure strict adherence to established codes of conduct; offenders may be detained indefinitely; foreigners are not excluded.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutawa'een designates religious police in saudi arabia whose duty is to ensure strict adherence to established codes of conduct; offenders may be detained indefinitely; foreigners are not excluded."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Religious police in saudi arabia whose duty is to ensure strict adherence to established codes of conduct; offenders may be detained indefinitely; foreigners are not excluded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Religious police in saudi arabia whose duty is to ensure strict adherence to established codes of conduct; offenders may be detained indefinitely; foreigners are not excluded.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mutawa'een designates religious police in saudi arabia whose duty is to ensure strict adherence to established codes of conduct; offenders may be detained indefinitely; foreigners are not excluded."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # vinous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to wine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to wine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Trotter's flushed countenance and defective intonation, that he, too, had had recourse to vinous stimulus."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Thus, Saint Antoine in this vinous feature of his, until midday."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to wine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to wine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Trotter's flushed countenance and defective intonation, that he, too, had had recourse to vinous stimulus."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Thus, Saint Antoine in this vinous feature of his, until midday."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # ineradicable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be destroyed or rooted out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able to be destroyed or rooted out.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Had she known Boldwood’s moods, her blame would have been fearful, and the stain upon her heart ineradicable."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Had she known Boldwood’s moods, her blame would have been fearful, and the stain upon her heart ineradicable."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"You will have humors, just so long as you believe them to be safety-valves or to be ineradicable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be destroyed or rooted out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able to be destroyed or rooted out.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Had she known Boldwood’s moods, her blame would have been fearful, and the stain upon her heart ineradicable."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Had she known Boldwood’s moods, her blame would have been fearful, and the stain upon her heart ineradicable."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"You will have humors, just so long as you believe them to be safety-valves or to be ineradicable."*

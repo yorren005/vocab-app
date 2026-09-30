@@ -5,13 +5,6 @@ status: unread
 ---
 # jointer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long carpenter's plane used to shape the edges of boards so they will fit together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long carpenter's plane used to shape the edges of boards so they will fit together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jointer designates a long carpenter's plane used to shape the edges of boards so they will fit together."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long carpenter's plane used to shape the edges of boards so they will fit together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long carpenter's plane used to shape the edges of boards so they will fit together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jointer designates a long carpenter's plane used to shape the edges of boards so they will fit together."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # audition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to hear; the auditory faculty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A test of the suitability of a performer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Abraham talked on, rather for the pleasure of utterance than for audition, so that his sister’s abstraction was of no account."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to hear; the auditory faculty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A test of the suitability of a performer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Abraham talked on, rather for the pleasure of utterance than for audition, so that his sister’s abstraction was of no account."*

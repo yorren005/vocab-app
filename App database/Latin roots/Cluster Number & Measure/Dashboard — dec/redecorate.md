@@ -5,13 +5,6 @@ status: unread
 ---
 # redecorate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Redo the decoration of an apartment or house.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Redo the decoration of an apartment or house.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"And, before they parted, it was agreed that the house in London should be redecorated for the next season, and that the brothers' families should meet again in the country at Christmas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Redo the decoration of an apartment or house.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Redo the decoration of an apartment or house.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"And, before they parted, it was agreed that the house in London should be redecorated for the next season, and that the brothers' families should meet again in the country at Christmas."*

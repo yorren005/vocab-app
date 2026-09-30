@@ -5,13 +5,6 @@ status: unread
 ---
 # pontoon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (nautical) a floating structure (as a flat-bottomed boat) that serves as a dock or to support a bridge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A float supporting a seaplane.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"No quarter is to be given to the English, on account of their cruelty to our braves on board the infamous pontoons."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (nautical) a floating structure (as a flat-bottomed boat) that serves as a dock or to support a bridge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A float supporting a seaplane.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"No quarter is to be given to the English, on account of their cruelty to our braves on board the infamous pontoons."*

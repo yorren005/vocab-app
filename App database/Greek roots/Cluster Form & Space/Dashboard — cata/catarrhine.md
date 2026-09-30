@@ -5,13 +5,6 @@ status: unread
 ---
 # catarrhine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being any of a division (Catarrhina) of primates comprising the Old World monkeys, higher apes, and hominids that have the nostrils close together and directed downward, 32 teeth, and the tail when present never prehensile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being any of a division (Catarrhina) of primates comprising the Old World monkeys, higher apes, and hominids that have the nostrils close together and directed downward, 32 teeth, and the tail when present never prehensile.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catarrhine designates of, relating to, or being any of a division (catarrhina) of primates comprising the old world monkeys, higher apes, and hominids that have the nostrils close together and directed downward, 32 teeth, and the tail when present never prehensile."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being any of a division (Catarrhina) of primates comprising the Old World monkeys, higher apes, and hominids that have the nostrils close together and directed downward, 32 teeth, and the tail when present never prehensile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being any of a division (Catarrhina) of primates comprising the Old World monkeys, higher apes, and hominids that have the nostrils close together and directed downward, 32 teeth, and the tail when present never prehensile.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catarrhine designates of, relating to, or being any of a division (catarrhina) of primates comprising the old world monkeys, higher apes, and hominids that have the nostrils close together and directed downward, 32 teeth, and the tail when present never prehensile."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # reinvigorate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impart vigor, strength, or vitality to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impart vigor, strength, or vitality to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Your life has been, for the most part, spent in the toil of study, and I knew you needed an interval of relaxation and retirement to reinvigorate your mental and physical energies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impart vigor, strength, or vitality to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impart vigor, strength, or vitality to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"Your life has been, for the most part, spent in the toil of study, and I knew you needed an interval of relaxation and retirement to reinvigorate your mental and physical energies."*

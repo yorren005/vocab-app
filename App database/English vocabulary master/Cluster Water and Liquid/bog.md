@@ -5,20 +5,6 @@ status: unread
 ---
 # bog
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Become impeded or stuck —usually used with down
-> 2. **Nuance / Usage**: (australia and new zealand, slang) an act or instance of defecation
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the bog withstood the storm*), direct object (*cleaved the bog*), or prepositional anchor (*amidst the bog*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"coins, base treasure of a bog: and ever shall be."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"seek for her shoes in the bog to-morrow."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"he’s at t’ bothom of a bog-hoile."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Become impeded or stuck —usually used with down
+> 2. **Nuance / Usage**: (australia and new zealand, slang) an act or instance of defecation
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the bog withstood the storm*), direct object (*cleaved the bog*), or prepositional anchor (*amidst the bog*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"coins, base treasure of a bog: and ever shall be."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"seek for her shoes in the bog to-morrow."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"he’s at t’ bothom of a bog-hoile."*

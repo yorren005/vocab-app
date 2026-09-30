@@ -5,14 +5,6 @@ status: unread
 ---
 # overtone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually plural) an ulterior implicit meaning or quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A harmonic with a frequency that is a multiple of the fundamental frequency.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"There again: the overtone following through the air."*
-> - 📜 **James Joyce (*Ulysses*):** *"PADDY DIGNAM: _(With pricked up ears, winces.)_ Overtones. _(He wriggles forward and places an ear to the ground.)_ My master’s voice!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually plural) an ulterior implicit meaning or quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A harmonic with a frequency that is a multiple of the fundamental frequency.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"There again: the overtone following through the air."*
+> - 📜 **James Joyce (*Ulysses*):** *"PADDY DIGNAM: _(With pricked up ears, winces.)_ Overtones. _(He wriggles forward and places an ear to the ground.)_ My master’s voice!"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # trophoblast
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer layer of the mammalian blastocyst that supplies nutrition to the embryo and facilitates implantation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outer layer of the mammalian blastocyst that supplies nutrition to the embryo and facilitates implantation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trophoblast designates the outer layer of the mammalian blastocyst that supplies nutrition to the embryo and facilitates implantation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer layer of the mammalian blastocyst that supplies nutrition to the embryo and facilitates implantation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outer layer of the mammalian blastocyst that supplies nutrition to the embryo and facilitates implantation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trophoblast designates the outer layer of the mammalian blastocyst that supplies nutrition to the embryo and facilitates implantation."*

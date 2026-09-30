@@ -5,13 +5,6 @@ status: unread
 ---
 # encephalogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An X-ray picture of the brain made by encephalography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An X-ray picture of the brain made by encephalography.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephalogram designates an x-ray picture of the brain made by encephalography."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An X-ray picture of the brain made by encephalography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An X-ray picture of the brain made by encephalography.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephalogram designates an x-ray picture of the brain made by encephalography."*

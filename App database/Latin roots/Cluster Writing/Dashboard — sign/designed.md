@@ -5,15 +5,6 @@ status: unread
 ---
 # designed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make or work out a plan for; devise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plan something for a specific role or purpose or effect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Caddy said she didn’t know; perhaps they were designed for teachers, perhaps for the stage."*
-> - 📜 **Jane Austen (*Persuasion*):** *"It was the choicest gift of Heaven; and Anne viewed her friend as one of those instances in which, by a merciful appointment, it seems designed to counterbalance almost every other want."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Under a mistaken persuasion of her possessions and claims, he had courted her acquaintance in Bath, solicited her company at Northanger, and designed her for his daughter-in-law."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make or work out a plan for; devise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plan something for a specific role or purpose or effect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Caddy said she didn’t know; perhaps they were designed for teachers, perhaps for the stage."*
+> - 📜 **Jane Austen (*Persuasion*):** *"It was the choicest gift of Heaven; and Anne viewed her friend as one of those instances in which, by a merciful appointment, it seems designed to counterbalance almost every other want."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Under a mistaken persuasion of her possessions and claims, he had courted her acquaintance in Bath, solicited her company at Northanger, and designed her for his daughter-in-law."*

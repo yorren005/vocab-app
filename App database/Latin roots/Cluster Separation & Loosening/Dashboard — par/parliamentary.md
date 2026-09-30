@@ -5,15 +5,6 @@ status: unread
 ---
 # parliamentary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the nature of a parliament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the supreme legislative power resting with a body of cabinet ministers chosen from and responsible to the legislature or parliament.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is nothing to you or to any one else that the great lights of the parliamentary sky have failed for some few years in this business to set you the example of moving on."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes has even been cited with crushing effect before Parliamentary committees, as in the following blue minutes of a distinguished attorney’s evidence."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester, in the library, has fallen asleep for the good of the country over the report of a Parliamentary committee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the nature of a parliament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the supreme legislative power resting with a body of cabinet ministers chosen from and responsible to the legislature or parliament.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is nothing to you or to any one else that the great lights of the parliamentary sky have failed for some few years in this business to set you the example of moving on."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes has even been cited with crushing effect before Parliamentary committees, as in the following blue minutes of a distinguished attorney’s evidence."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester, in the library, has fallen asleep for the good of the country over the report of a Parliamentary committee."*

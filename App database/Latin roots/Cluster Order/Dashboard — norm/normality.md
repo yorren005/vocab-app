@@ -5,13 +5,6 @@ status: unread
 ---
 # normality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being within certain limits that define the range of normal functioning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a solution) concentration expressed in gram equivalents of solute per liter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, normality designates being within certain limits that define the range of normal functioning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being within certain limits that define the range of normal functioning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a solution) concentration expressed in gram equivalents of solute per liter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, normality designates being within certain limits that define the range of normal functioning."*

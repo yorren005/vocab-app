@@ -5,13 +5,6 @@ status: unread
 ---
 # copilot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A relief pilot on an airplane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relief pilot on an airplane.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, copilot designates a relief pilot on an airplane."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A relief pilot on an airplane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relief pilot on an airplane.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, copilot designates a relief pilot on an airplane."*

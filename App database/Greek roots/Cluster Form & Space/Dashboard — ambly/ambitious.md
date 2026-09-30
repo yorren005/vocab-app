@@ -5,15 +5,6 @@ status: unread
 ---
 # ambitious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a strong desire for success or achievement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring full use of your abilities or resources.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ambitious love hath so in me offended That barefoot plod I the cold ground upon, With sainted vow my faults to have amended."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am ambitious for a motley coat."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are ambitious for poor knaves’ caps and legs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a strong desire for success or achievement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring full use of your abilities or resources.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ambitious love hath so in me offended That barefoot plod I the cold ground upon, With sainted vow my faults to have amended."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am ambitious for a motley coat."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are ambitious for poor knaves’ caps and legs."*

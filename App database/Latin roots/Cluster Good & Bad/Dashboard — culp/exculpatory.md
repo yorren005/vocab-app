@@ -5,15 +5,6 @@ status: unread
 ---
 # exculpatory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clearing of guilt or blame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clearing of guilt or blame.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess’s voice throughout had hardly risen higher than its opening tone; there had been no exculpatory phrase of any kind, and she had not wept."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"No words were requisite to prove him guiltless of these enormities: at the time, however, I was nearly insensible to these exculpatory tokens."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"If they had been less plausible than they were, the good Minor Canon’s mind would have been in a state of preparation to receive them, as exculpatory of his unfortunate pupil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clearing of guilt or blame.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clearing of guilt or blame.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess’s voice throughout had hardly risen higher than its opening tone; there had been no exculpatory phrase of any kind, and she had not wept."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"No words were requisite to prove him guiltless of these enormities: at the time, however, I was nearly insensible to these exculpatory tokens."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"If they had been less plausible than they were, the good Minor Canon’s mind would have been in a state of preparation to receive them, as exculpatory of his unfortunate pupil."*

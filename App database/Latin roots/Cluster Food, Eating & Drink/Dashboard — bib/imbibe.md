@@ -5,15 +5,6 @@ status: unread
 ---
 # imbibe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take in, also metaphorically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take (gas, light or heat) into a solution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The highest wisdom and truth are like the purest liquid we may wish to imbibe,” he said."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Rudiments and growth /Question/. - How can I progress most rapidly in the understanding of Christian Science? 495:27 /Answer/. - Study thoroughly the letter and imbibe the spirit."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Therefore if they do not imbibe the vicious tastes of civilization there is no reason why they should not perpetuate their race for many centuries to come."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take in, also metaphorically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take (gas, light or heat) into a solution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The highest wisdom and truth are like the purest liquid we may wish to imbibe,” he said."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Rudiments and growth /Question/. - How can I progress most rapidly in the understanding of Christian Science? 495:27 /Answer/. - Study thoroughly the letter and imbibe the spirit."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Therefore if they do not imbibe the vicious tastes of civilization there is no reason why they should not perpetuate their race for many centuries to come."*

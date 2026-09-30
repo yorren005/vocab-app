@@ -5,15 +5,6 @@ status: unread
 ---
 # arbor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tree (as opposed to shrub).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various rotating shafts that serve as axes for larger rotating parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"He directed them to build a large _lanai_, or arbor, to be entirely covered with ferns, ginger, maile, and ieie--the sweet and odorous foliage greens of the islands."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"The “planting” was put in; the Improvers celebrated an Arbor Day."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"They went out to the honeysuckle arbor, where Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tree (as opposed to shrub).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various rotating shafts that serve as axes for larger rotating parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"He directed them to build a large _lanai_, or arbor, to be entirely covered with ferns, ginger, maile, and ieie--the sweet and odorous foliage greens of the islands."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"The “planting” was put in; the Improvers celebrated an Arbor Day."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"They went out to the honeysuckle arbor, where Mr."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # domineering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rule or exercise power over (somebody) in a cruel and autocratic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to domineer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I, that have been love’s whip, A very beadle to a humorous sigh, A critic, nay, a night-watch constable, A domineering pedant o’er the boy, Than whom no mortal so magnificent!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There is something very sad in the extinction of a family of renown, even if it was fierce, domineering, feudal renown.” “Yes,” said Tess."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The shores of the Straits of Sunda are unsupplied with those domineering fortresses which guard the entrances to the Mediterranean, the Baltic, and the Propontis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rule or exercise power over (somebody) in a cruel and autocratic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to domineer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I, that have been love’s whip, A very beadle to a humorous sigh, A critic, nay, a night-watch constable, A domineering pedant o’er the boy, Than whom no mortal so magnificent!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There is something very sad in the extinction of a family of renown, even if it was fierce, domineering, feudal renown.” “Yes,” said Tess."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The shores of the Straits of Sunda are unsupplied with those domineering fortresses which guard the entrances to the Mediterranean, the Baltic, and the Propontis."*

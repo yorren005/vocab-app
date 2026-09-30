@@ -5,15 +5,6 @@ status: unread
 ---
 # nes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not elsewhere specified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not elsewhere specified.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And while peace and plen-ty I find at my board, With a heart free from sick-ness and sor-row, With my friends will I share what to-day may af-ford, And let them spread the ta-ble to-mor-row."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Joseph Clason is still living, now seventy-five years of age, in Bazine, Ness county, Kansas."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Lines On The Fall Of Fyers Near Loch-Ness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not elsewhere specified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not elsewhere specified.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And while peace and plen-ty I find at my board, With a heart free from sick-ness and sor-row, With my friends will I share what to-day may af-ford, And let them spread the ta-ble to-mor-row."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Joseph Clason is still living, now seventy-five years of age, in Bazine, Ness county, Kansas."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Lines On The Fall Of Fyers Near Loch-Ness."*

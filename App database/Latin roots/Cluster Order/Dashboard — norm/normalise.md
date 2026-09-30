@@ -5,13 +5,6 @@ status: unread
 ---
 # normalise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become normal or return to its normal state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make normal or cause to conform to a norm or standard.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, normalise designates become normal or return to its normal state."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become normal or return to its normal state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make normal or cause to conform to a norm or standard.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, normalise designates become normal or return to its normal state."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # hyphenate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divide or connect with a hyphen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide or connect with a hyphen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyphenate designates divide or connect with a hyphen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divide or connect with a hyphen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide or connect with a hyphen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyphenate designates divide or connect with a hyphen."*

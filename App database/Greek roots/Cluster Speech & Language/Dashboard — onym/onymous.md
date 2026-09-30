@@ -5,13 +5,6 @@ status: unread
 ---
 # onymous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing a name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing a name.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Omnipotence set forth In the Bible the word /Spirit /is so commonly applied 345:1 to Deity, that Spirit and God are often regarded as syn- onymous terms; and it is thus they are uniformly used 345:3 and understood in Christian Science."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing a name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing a name.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Omnipotence set forth In the Bible the word /Spirit /is so commonly applied 345:1 to Deity, that Spirit and God are often regarded as syn- onymous terms; and it is thus they are uniformly used 345:3 and understood in Christian Science."*

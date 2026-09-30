@@ -5,15 +5,6 @@ status: unread
 ---
 # sensible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing reason or sound judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to feel or perceive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art sensible in nothing but blows, and so is an ass."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, I would your cambric were sensible as your finger, that you might leave pricking it for pity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Before my God, I might not this believe Without the sensible and true avouch Of mine own eyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing reason or sound judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to feel or perceive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art sensible in nothing but blows, and so is an ass."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, I would your cambric were sensible as your finger, that you might leave pricking it for pity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Before my God, I might not this believe Without the sensible and true avouch Of mine own eyes."*

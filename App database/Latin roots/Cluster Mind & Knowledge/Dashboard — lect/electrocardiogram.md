@@ -5,13 +5,6 @@ status: unread
 ---
 # electrocardiogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphical recording of the cardiac cycle produced by an electrocardiograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graphical recording of the cardiac cycle produced by an electrocardiograph.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrocardiogram designates a graphical recording of the cardiac cycle produced by an electrocardiograph."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphical recording of the cardiac cycle produced by an electrocardiograph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graphical recording of the cardiac cycle produced by an electrocardiograph.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrocardiogram designates a graphical recording of the cardiac cycle produced by an electrocardiograph."*

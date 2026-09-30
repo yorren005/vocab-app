@@ -5,15 +5,6 @@ status: unread
 ---
 # infectious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Caused by infection or capable of causing infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily spread; - bertrand russell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The most infectious pestilence upon thee! [_Strikes him down._] MESSENGER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet recreation barr’d, what doth ensue But moody and dull melancholy, Kinsman to grim and comfortless despair, And at her heels a huge infectious troop Of pale distemperatures and foes to life?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your Highness Shall from this practice but make hard your heart; Besides, the seeing these effects will be Both noisome and infectious."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Caused by infection or capable of causing infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily spread; - bertrand russell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The most infectious pestilence upon thee! [_Strikes him down._] MESSENGER."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet recreation barr’d, what doth ensue But moody and dull melancholy, Kinsman to grim and comfortless despair, And at her heels a huge infectious troop Of pale distemperatures and foes to life?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your Highness Shall from this practice but make hard your heart; Besides, the seeing these effects will be Both noisome and infectious."*

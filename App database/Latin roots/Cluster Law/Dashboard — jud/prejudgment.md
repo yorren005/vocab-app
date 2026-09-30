@@ -5,13 +5,6 @@ status: unread
 ---
 # prejudgment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A judgment reached before the evidence is available.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A judgment reached before the evidence is available.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"This social division between the commercial and agricultural classes doubtless helped to strengthen the prejudgment as to the nature of the two kinds of wealth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A judgment reached before the evidence is available.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A judgment reached before the evidence is available.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"This social division between the commercial and agricultural classes doubtless helped to strengthen the prejudgment as to the nature of the two kinds of wealth."*

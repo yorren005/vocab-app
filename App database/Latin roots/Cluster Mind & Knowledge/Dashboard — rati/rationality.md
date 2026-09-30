@@ -5,15 +5,6 @@ status: unread
 ---
 # rationality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of having good sense and sound judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being consistent with or based on logic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Which would turn out to have the more foresight in it—her rationality or Caleb’s ardent generosity?"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Spiritual rationality and free thought ac- company approaching Science, and cannot be put down."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Belief in a material basis, from which may be deduced all rationality, is slowly yielding to the idea of a metaphysical basis, looking away from 268:9 matter to Mind as the cause of every effect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of having good sense and sound judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being consistent with or based on logic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Which would turn out to have the more foresight in it—her rationality or Caleb’s ardent generosity?"*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Spiritual rationality and free thought ac- company approaching Science, and cannot be put down."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Belief in a material basis, from which may be deduced all rationality, is slowly yielding to the idea of a metaphysical basis, looking away from 268:9 matter to Mind as the cause of every effect."*

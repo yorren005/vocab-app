@@ -5,15 +5,6 @@ status: unread
 ---
 # confront
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oppose, as in hostility or a competition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deal with (something unpleasant) head on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whereto serves mercy But to confront the visage of offence?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall dunghill curs confront the Helicons?"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How he would have liked to confront those two great thinkers, and earnestly appeal to them as fellow-man to fellow-men, and ask them to tell him their method!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Oppose, as in hostility or a competition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deal with (something unpleasant) head on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whereto serves mercy But to confront the visage of offence?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall dunghill curs confront the Helicons?"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How he would have liked to confront those two great thinkers, and earnestly appeal to them as fellow-man to fellow-men, and ask them to tell him their method!"*

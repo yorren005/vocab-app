@@ -5,15 +5,6 @@ status: unread
 ---
 # oblige
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Force somebody to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bind by an obligation; cause to be indebted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I said, “Get up from that ridiculous position immediately, sir, or you will oblige me to break my implied promise and ring the bell!” “Hear me out, miss!” said Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby are very willing to oblige me and that Snagsby has, in busy times, a good deal of copying work to give out."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"On account of which, and at the same time to oblige a—do you call it, in your business, customer or client?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Force somebody to do something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bind by an obligation; cause to be indebted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I said, “Get up from that ridiculous position immediately, sir, or you will oblige me to break my implied promise and ring the bell!” “Hear me out, miss!” said Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby are very willing to oblige me and that Snagsby has, in busy times, a good deal of copying work to give out."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"On account of which, and at the same time to oblige a—do you call it, in your business, customer or client?"*

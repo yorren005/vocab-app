@@ -5,15 +5,6 @@ status: unread
 ---
 # nothing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantity of no importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In no respect; to no degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nature’s bequest gives nothing but doth lend, And being frank she lends to those are free: Then beauteous niggard why dost thou abuse, The bounteous largess given thee to give?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for a woman wert thou first created, Till nature as she wrought thee fell a-doting, And by addition me of thee defeated, By adding one thing to my purpose nothing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Time doth transfix the flourish set on youth, And delves the parallels in beauty’s brow, Feeds on the rarities of nature’s truth, And nothing stands but for his scythe to mow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantity of no importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In no respect; to no degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nature’s bequest gives nothing but doth lend, And being frank she lends to those are free: Then beauteous niggard why dost thou abuse, The bounteous largess given thee to give?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for a woman wert thou first created, Till nature as she wrought thee fell a-doting, And by addition me of thee defeated, By adding one thing to my purpose nothing."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Time doth transfix the flourish set on youth, And delves the parallels in beauty’s brow, Feeds on the rarities of nature’s truth, And nothing stands but for his scythe to mow."*

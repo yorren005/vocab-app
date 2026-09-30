@@ -5,15 +5,6 @@ status: unread
 ---
 # latchkey
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Key for raising or drawing back a latch or opening an outside door.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Key for raising or drawing back a latch or opening an outside door.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Walcott took out his latchkey, opened the door, and led the way into the library."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Bertram always let himself in with his latchkey; but, from the first of Billy's being there, he had given a peculiar ring at the bell which would bring his wife flying to welcome him if she were anywhere in the house."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Bertram gave his peculiar ring and let himself in with his latchkey; but Billy did not meet him in the hall, nor in the drawing-room."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Key for raising or drawing back a latch or opening an outside door.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Key for raising or drawing back a latch or opening an outside door.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Walcott took out his latchkey, opened the door, and led the way into the library."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Bertram always let himself in with his latchkey; but, from the first of Billy's being there, he had given a peculiar ring at the bell which would bring his wife flying to welcome him if she were anywhere in the house."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Bertram gave his peculiar ring and let himself in with his latchkey; but Billy did not meet him in the hall, nor in the drawing-room."*

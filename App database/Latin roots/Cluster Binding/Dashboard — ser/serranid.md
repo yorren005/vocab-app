@@ -5,13 +5,6 @@ status: unread
 ---
 # serranid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine food sport fishes mainly of warm coastal waters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine food sport fishes mainly of warm coastal waters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serranid designates marine food sport fishes mainly of warm coastal waters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine food sport fishes mainly of warm coastal waters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine food sport fishes mainly of warm coastal waters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, serranid designates marine food sport fishes mainly of warm coastal waters."*

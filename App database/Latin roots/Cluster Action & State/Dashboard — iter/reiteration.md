@@ -5,13 +5,6 @@ status: unread
 ---
 # reiteration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of repeating over and again (or an instance thereof).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of repeating over and again (or an instance thereof).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Lilith had altogether vanished, and in her place stood the dim vampire reiteration of the body that lay extended on the table, staring greedily at the assembled company."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of repeating over and again (or an instance thereof).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of repeating over and again (or an instance thereof).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Lilith had altogether vanished, and in her place stood the dim vampire reiteration of the body that lay extended on the table, staring greedily at the assembled company."*

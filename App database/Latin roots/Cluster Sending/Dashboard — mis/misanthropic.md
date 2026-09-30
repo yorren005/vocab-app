@@ -5,15 +5,6 @@ status: unread
 ---
 # misanthropic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hating mankind in general.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Such ruminations naturally produced a streak of misanthropic bitterness."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Buns, once fresh and tender, become hard and misanthropic in its refreshment rooms, and look as if they had seen the littleness of existence and were disillusioned."*
-> - 📜 **Charles Dickens (*A Christmas Carol in Prose; Being a Ghost Story of Christmas*):** *"The water-plug being left in solitude, its overflowings sullenly congealed, and turned to misanthropic ice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hating mankind in general.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Such ruminations naturally produced a streak of misanthropic bitterness."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Buns, once fresh and tender, become hard and misanthropic in its refreshment rooms, and look as if they had seen the littleness of existence and were disillusioned."*
+> - 📜 **Charles Dickens (*A Christmas Carol in Prose; Being a Ghost Story of Christmas*):** *"The water-plug being left in solitude, its overflowings sullenly congealed, and turned to misanthropic ice."*

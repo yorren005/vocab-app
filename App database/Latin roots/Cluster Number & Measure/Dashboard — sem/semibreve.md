@@ -5,13 +5,6 @@ status: unread
 ---
 # semibreve
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical note having the longest time value (equal to four beats in common time).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical note having the longest time value (equal to four beats in common time).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semibreve designates a musical note having the longest time value (equal to four beats in common time)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical note having the longest time value (equal to four beats in common time).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical note having the longest time value (equal to four beats in common time).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semibreve designates a musical note having the longest time value (equal to four beats in common time)."*

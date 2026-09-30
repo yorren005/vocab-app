@@ -5,15 +5,6 @@ status: unread
 ---
 # elevator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lifting device consisting of a platform or cage that is raised and lowered mechanically in a vertical shaft in order to move people from one floor to another in a building.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The airfoil on the tailplane of an aircraft that makes it ascend or descend.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"His houses on the avenue were the best possible property, and his elevator row in the importers’ quarter was indeed a literal gold mine."*
-> - 📜 **Algis Budrys (*Citadel*):** *"He kept them rigidly fixed on the door of his personal elevator which, during the day, was human-operated under the provisions of the Human Employment Act of 2302."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"You might come down with a thud!” “He's right enough there,” was what Burns murmured to himself as he caught the elevator in the great building in which Buller's office was a crowded corner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lifting device consisting of a platform or cage that is raised and lowered mechanically in a vertical shaft in order to move people from one floor to another in a building.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The airfoil on the tailplane of an aircraft that makes it ascend or descend.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"His houses on the avenue were the best possible property, and his elevator row in the importers’ quarter was indeed a literal gold mine."*
+> - 📜 **Algis Budrys (*Citadel*):** *"He kept them rigidly fixed on the door of his personal elevator which, during the day, was human-operated under the provisions of the Human Employment Act of 2302."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"You might come down with a thud!” “He's right enough there,” was what Burns murmured to himself as he caught the elevator in the great building in which Buller's office was a crowded corner."*

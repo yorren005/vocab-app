@@ -5,13 +5,6 @@ status: unread
 ---
 # surfer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who engages in surfboarding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who engages in surfboarding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"He convinced no one while he lived; even his disciples betrayed him--a thing even brigands would not have done by their chief--so far was he from improving them, and so little ground is there for saying that he foretold to them what he should surfer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who engages in surfboarding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who engages in surfboarding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"He convinced no one while he lived; even his disciples betrayed him--a thing even brigands would not have done by their chief--so far was he from improving them, and so little ground is there for saying that he foretold to them what he should surfer."*

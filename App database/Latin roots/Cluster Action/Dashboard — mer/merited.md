@@ -5,15 +5,6 @@ status: unread
 ---
 # merited
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be worthy or deserving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Properly deserved.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This man is better than the man he slew, As well descended as thyself, and hath More of thee merited than a band of Clotens Had ever scar for. [_To the guard._] Let his arms alone; They were not born for bondage."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, I praise God; and I have merited some love at his hands."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For us, we will resign, During the life of this old majesty, To him our absolute power; [_to Edgar and Kent_] you to your rights; With boot and such addition as your honours Have more than merited."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be worthy or deserving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Properly deserved.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This man is better than the man he slew, As well descended as thyself, and hath More of thee merited than a band of Clotens Had ever scar for. [_To the guard._] Let his arms alone; They were not born for bondage."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, I praise God; and I have merited some love at his hands."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For us, we will resign, During the life of this old majesty, To him our absolute power; [_to Edgar and Kent_] you to your rights; With boot and such addition as your honours Have more than merited."*

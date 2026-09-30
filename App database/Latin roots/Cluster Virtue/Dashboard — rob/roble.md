@@ -5,13 +5,6 @@ status: unread
 ---
 # roble
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large tree of trinidad and guyana having odd-pinnate leaves and violet-scented axillary racemes of yellow flowers and long smooth pods; grown as a specimen in parks and large gardens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall graceful deciduous california oak having leathery leaves and slender pointed acorns.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, roble designates large tree of trinidad and guyana having odd-pinnate leaves and violet-scented axillary racemes of yellow flowers and long smooth pods; grown as a specimen in parks and large gardens."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large tree of trinidad and guyana having odd-pinnate leaves and violet-scented axillary racemes of yellow flowers and long smooth pods; grown as a specimen in parks and large gardens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall graceful deciduous california oak having leathery leaves and slender pointed acorns.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, roble designates large tree of trinidad and guyana having odd-pinnate leaves and violet-scented axillary racemes of yellow flowers and long smooth pods; grown as a specimen in parks and large gardens."*

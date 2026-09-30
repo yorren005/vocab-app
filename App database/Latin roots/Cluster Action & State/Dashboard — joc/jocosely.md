@@ -5,15 +5,6 @@ status: unread
 ---
 # jocosely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With humor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With humor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The fact is,” Richard proceeded, half thoughtfully and half jocosely, “it is not quite in my way."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Standish, jocosely; “you see the middle-aged fellows carry the day.” Mr."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"But you know you love her.” “Do you know I love you?” the young man said, jocosely, to Isabel a little later, while he brushed his hat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With humor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With humor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The fact is,” Richard proceeded, half thoughtfully and half jocosely, “it is not quite in my way."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Standish, jocosely; “you see the middle-aged fellows carry the day.” Mr."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"But you know you love her.” “Do you know I love you?” the young man said, jocosely, to Isabel a little later, while he brushed his hat."*

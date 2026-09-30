@@ -5,15 +5,6 @@ status: unread
 ---
 # amplitude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physics) the maximum displacement of a periodic wave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of copious abundance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Some of them were very tall; many were dressed in white; and all had a sweeping amplitude of array that seemed to magnify their persons as a mist magnifies the moon."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Miss Ingram, who had now seated herself with proud grace at the piano, spreading out her snowy robes in queenly amplitude, commenced a brilliant prelude; talking meantime."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It was a face that told of an amplitude of nature and of quick and free motions and, though it had no regular beauty, was in the highest degree engaging and attaching."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (physics) the maximum displacement of a periodic wave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of copious abundance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Some of them were very tall; many were dressed in white; and all had a sweeping amplitude of array that seemed to magnify their persons as a mist magnifies the moon."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Miss Ingram, who had now seated herself with proud grace at the piano, spreading out her snowy robes in queenly amplitude, commenced a brilliant prelude; talking meantime."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It was a face that told of an amplitude of nature and of quick and free motions and, though it had no regular beauty, was in the highest degree engaging and attaching."*

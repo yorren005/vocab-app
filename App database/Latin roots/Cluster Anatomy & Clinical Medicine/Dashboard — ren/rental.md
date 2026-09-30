@@ -5,15 +5,6 @@ status: unread
 ---
 # rental
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Property that is leased or rented out or let.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of paying for the use of something (as an apartment or house or car).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A neighbouring earl once said that he would give up a year’s rental to have at his own door the view enjoyed by the inmates from theirs—and very probably the inmates would have given up the view for his year’s rental."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is in some respects more searching than a tax on actual rents, for it reaches the prospective, or speculative, rental. (d) Taxes may be on _expenditure_ (sometimes called taxes on consumption)."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If the new tax reduces the net income of any productive agent, it reduces likewise its value, which is but the capitalization of its net rental."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Property that is leased or rented out or let.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of paying for the use of something (as an apartment or house or car).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A neighbouring earl once said that he would give up a year’s rental to have at his own door the view enjoyed by the inmates from theirs—and very probably the inmates would have given up the view for his year’s rental."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is in some respects more searching than a tax on actual rents, for it reaches the prospective, or speculative, rental. (d) Taxes may be on _expenditure_ (sometimes called taxes on consumption)."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If the new tax reduces the net income of any productive agent, it reduces likewise its value, which is but the capitalization of its net rental."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # parceling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of distributing by allotting or apportioning; distribution according to a plan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide into parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parceling designates the act of distributing by allotting or apportioning; distribution according to a plan."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of distributing by allotting or apportioning; distribution according to a plan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide into parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parceling designates the act of distributing by allotting or apportioning; distribution according to a plan."*

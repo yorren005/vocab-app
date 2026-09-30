@@ -5,15 +5,6 @@ status: unread
 ---
 # gyration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A single complete turn (axial or orbital).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of rotating in a circle or spiral.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He finds that nothing agrees with him so well as to make little gyrations on one leg of his stool, and stab his desk, and gape."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I know, because I am one, and have just been waked up by the gyrations of the cyclone; and I'm deeply confounded."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I checked our status and proximity-to-mass in vicinity; then my ship's scope analyses of the buggy's thrust and gyrations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single complete turn (axial or orbital).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of rotating in a circle or spiral.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He finds that nothing agrees with him so well as to make little gyrations on one leg of his stool, and stab his desk, and gape."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I know, because I am one, and have just been waked up by the gyrations of the cyclone; and I'm deeply confounded."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I checked our status and proximity-to-mass in vicinity; then my ship's scope analyses of the buggy's thrust and gyrations."*

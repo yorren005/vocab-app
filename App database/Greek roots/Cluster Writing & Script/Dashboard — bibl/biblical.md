@@ -5,15 +5,6 @@ status: unread
 ---
 # biblical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or contained in or in accordance with the bible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In keeping with the nature of the bible or its times or people.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"This done, he wrote out in full the Greek texts--some five hundred in all--quoted in his lectures on Biblical Theology."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I'm a brute, Evelina," he answered, and a sudden discouragement lined every feature of his beautiful biblical face."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"To him the destructive criticism of biblical scholars and the discoveries of geology had given no disquietude; and he died with the happy conviction, that, without abandoning his religious teaching, he could remain faithful to reason."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or contained in or in accordance with the bible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In keeping with the nature of the bible or its times or people.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"This done, he wrote out in full the Greek texts--some five hundred in all--quoted in his lectures on Biblical Theology."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I'm a brute, Evelina," he answered, and a sudden discouragement lined every feature of his beautiful biblical face."*
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"To him the destructive criticism of biblical scholars and the discoveries of geology had given no disquietude; and he died with the happy conviction, that, without abandoning his religious teaching, he could remain faithful to reason."*

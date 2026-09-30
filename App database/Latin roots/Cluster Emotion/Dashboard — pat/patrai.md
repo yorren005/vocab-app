@@ -5,13 +5,6 @@ status: unread
 ---
 # patrai
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city in western greece in the northwestern peloponnese on an inlet of the ionian sea; was a major trade center from the 5th century bc to the 3rd century bc; commercial importance revived during the middle ages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city in western greece in the northwestern peloponnese on an inlet of the ionian sea; was a major trade center from the 5th century bc to the 3rd century bc; commercial importance revived during the middle ages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patrai designates a port city in western greece in the northwestern peloponnese on an inlet of the ionian sea; was a major trade center from the 5th century bc to the 3rd century bc; commercial importance revived during the middle ages."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city in western greece in the northwestern peloponnese on an inlet of the ionian sea; was a major trade center from the 5th century bc to the 3rd century bc; commercial importance revived during the middle ages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city in western greece in the northwestern peloponnese on an inlet of the ionian sea; was a major trade center from the 5th century bc to the 3rd century bc; commercial importance revived during the middle ages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patrai designates a port city in western greece in the northwestern peloponnese on an inlet of the ionian sea; was a major trade center from the 5th century bc to the 3rd century bc; commercial importance revived during the middle ages."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sanctify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Render holy by means of religious rites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make pure or free from sin or guilt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now he’s gone, and my idolatrous fancy Must sanctify his relics."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bless him at home in peace, whilst I from far His name with zealous fervour sanctify."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let all the tears that should bedew my hearse Be drops of balm to sanctify thy head, Only compound me with forgotten dust."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Render holy by means of religious rites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make pure or free from sin or guilt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now he’s gone, and my idolatrous fancy Must sanctify his relics."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bless him at home in peace, whilst I from far His name with zealous fervour sanctify."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let all the tears that should bedew my hearse Be drops of balm to sanctify thy head, Only compound me with forgotten dust."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # dissatisfied
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fail to satisfy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a state of sulky dissatisfaction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When the morning sun would shine in through the open windows and the green slope of the castle would send its greeting to her, she did not want little Leonore to feel dissatisfied with her new quarters."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We found him engaged with a not very hopeful pupil—a stubborn little girl with a sulky forehead, a deep voice, and an inanimate, dissatisfied mama—whose case was certainly not rendered more hopeful by the confusion into which we threw her preceptor."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Feeling uneasy and dissatisfied with himself for this nervous excitability, he returned to bed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fail to satisfy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a state of sulky dissatisfaction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When the morning sun would shine in through the open windows and the green slope of the castle would send its greeting to her, she did not want little Leonore to feel dissatisfied with her new quarters."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"We found him engaged with a not very hopeful pupil—a stubborn little girl with a sulky forehead, a deep voice, and an inanimate, dissatisfied mama—whose case was certainly not rendered more hopeful by the confusion into which we threw her preceptor."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Feeling uneasy and dissatisfied with himself for this nervous excitability, he returned to bed."*

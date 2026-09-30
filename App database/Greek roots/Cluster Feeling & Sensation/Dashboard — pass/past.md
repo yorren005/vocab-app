@@ -5,15 +5,6 @@ status: unread
 ---
 # past
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The time that has elapsed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A earlier period in someone's life (especially one that they have reason to keep secret).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art as fair in knowledge as in hue, Finding thy worth a limit past my praise, And therefore art enforced to seek anew, Some fresher stamp of the time-bettering days."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus vainly thinking that she thinks me young, Although she knows my days are past the best, Simply I credit her false-speaking tongue; On both sides thus is simple truth suppressed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Past cure I am, now reason is past care, And frantic-mad with evermore unrest, My thoughts and my discourse as mad men’s are, At random from the truth vainly expressed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The time that has elapsed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A earlier period in someone's life (especially one that they have reason to keep secret).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art as fair in knowledge as in hue, Finding thy worth a limit past my praise, And therefore art enforced to seek anew, Some fresher stamp of the time-bettering days."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus vainly thinking that she thinks me young, Although she knows my days are past the best, Simply I credit her false-speaking tongue; On both sides thus is simple truth suppressed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Past cure I am, now reason is past care, And frantic-mad with evermore unrest, My thoughts and my discourse as mad men’s are, At random from the truth vainly expressed."*

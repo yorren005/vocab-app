@@ -5,13 +5,6 @@ status: unread
 ---
 # loge
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Balcony consisting of the forward section of a theater mezzanine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Private area in a theater or grandstand where a small group can watch the performance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"At the end of the act, George was out of the box in a moment, and he was even going to pay his respects to Rebecca in her loge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Balcony consisting of the forward section of a theater mezzanine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Private area in a theater or grandstand where a small group can watch the performance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"At the end of the act, George was out of the box in a moment, and he was even going to pay his respects to Rebecca in her loge."*

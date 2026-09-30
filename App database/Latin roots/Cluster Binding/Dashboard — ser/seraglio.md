@@ -5,15 +5,6 @@ status: unread
 ---
 # seraglio
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Living quarters reserved for wives and concubines and female relatives in a muslim household.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living quarters reserved for wives and concubines and female relatives in a muslim household.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I would not exchange this one little English girl for the Grand Turk’s whole seraglio, gazelle-eyes, houri forms, and all!” The Eastern allusion bit me again."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I’ll not stand you an inch in the stead of a seraglio,” I said; “so don’t consider me an equivalent for one."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"We have been taught to tremble at the terrific visages of murdering janizaries, and to blush at the unveiled mysteries of a future seraglio."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living quarters reserved for wives and concubines and female relatives in a muslim household.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living quarters reserved for wives and concubines and female relatives in a muslim household.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I would not exchange this one little English girl for the Grand Turk’s whole seraglio, gazelle-eyes, houri forms, and all!” The Eastern allusion bit me again."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I’ll not stand you an inch in the stead of a seraglio,” I said; “so don’t consider me an equivalent for one."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"We have been taught to tremble at the terrific visages of murdering janizaries, and to blush at the unveiled mysteries of a future seraglio."*

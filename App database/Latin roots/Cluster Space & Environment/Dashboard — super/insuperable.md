@@ -5,15 +5,6 @@ status: unread
 ---
 # insuperable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to surmount.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being surmounted or excelled.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Am I severed from you by insuperable obstacles?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I am in a condition to prove my allegation: an insuperable impediment to this marriage exists.” Mr."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I have called it insuperable, and I speak advisedly.” The speaker came forward and leaned on the rails."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to surmount.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being surmounted or excelled.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Am I severed from you by insuperable obstacles?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I am in a condition to prove my allegation: an insuperable impediment to this marriage exists.” Mr."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I have called it insuperable, and I speak advisedly.” The speaker came forward and leaned on the rails."*

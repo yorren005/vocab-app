@@ -5,15 +5,6 @@ status: unread
 ---
 # desperate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is frightened and in need of help.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arising from or marked by despair or loss of hope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that hangs himself is a virgin: virginity murders itself, and should be buried in highways out of all sanctified limit, as a desperate offendress against nature."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Amongst the rest There is a remedy, approv’d, set down, To cure the desperate languishings whereof The king is render’d lost."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou this to hazard needs must intimate Skill infinite, or monstrous desperate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is frightened and in need of help.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arising from or marked by despair or loss of hope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that hangs himself is a virgin: virginity murders itself, and should be buried in highways out of all sanctified limit, as a desperate offendress against nature."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Amongst the rest There is a remedy, approv’d, set down, To cure the desperate languishings whereof The king is render’d lost."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou this to hazard needs must intimate Skill infinite, or monstrous desperate."*

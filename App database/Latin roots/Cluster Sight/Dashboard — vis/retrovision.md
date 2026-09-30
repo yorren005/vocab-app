@@ -5,13 +5,6 @@ status: unread
 ---
 # retrovision
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vision of events in the distant past.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vision of events in the distant past.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retrovision designates a vision of events in the distant past."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vision of events in the distant past.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vision of events in the distant past.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retrovision designates a vision of events in the distant past."*

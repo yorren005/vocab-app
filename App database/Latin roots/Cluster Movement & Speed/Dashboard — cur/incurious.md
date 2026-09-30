@@ -5,14 +5,6 @@ status: unread
 ---
 # incurious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing absence of intellectual inquisitiveness or natural curiosity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing absence of intellectual inquisitiveness or natural curiosity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The vision of all this as what ought to be done seemed to Dorothea like a sudden letting in of daylight, waking her from her previous stupidity and incurious self-absorbed ignorance about her husband’s relation to others."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"With such commodiousness of situation, these two learned persons sat themselves down, each in his own domain, yet familiarly passing from one apartment to the other, and bestowing a mutual and not incurious inspection into one another’s business."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing absence of intellectual inquisitiveness or natural curiosity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing absence of intellectual inquisitiveness or natural curiosity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"The vision of all this as what ought to be done seemed to Dorothea like a sudden letting in of daylight, waking her from her previous stupidity and incurious self-absorbed ignorance about her husband’s relation to others."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"With such commodiousness of situation, these two learned persons sat themselves down, each in his own domain, yet familiarly passing from one apartment to the other, and bestowing a mutual and not incurious inspection into one another’s business."*

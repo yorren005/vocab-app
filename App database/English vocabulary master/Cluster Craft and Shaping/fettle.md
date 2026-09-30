@@ -5,18 +5,6 @@ status: unread
 ---
 # fettle
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: One's mental state; spirits
-> 2. **Nuance / Usage**: State of physical condition; kilter or trim
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the fettle withstood the storm*), direct object (*cleaved the fettle*), or prepositional anchor (*amidst the fettle*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"But fettle your fine joints 'gainst Thursday next..."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -52,3 +40,15 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: One's mental state; spirits
+> 2. **Nuance / Usage**: State of physical condition; kilter or trim
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the fettle withstood the storm*), direct object (*cleaved the fettle*), or prepositional anchor (*amidst the fettle*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"But fettle your fine joints 'gainst Thursday next..."*

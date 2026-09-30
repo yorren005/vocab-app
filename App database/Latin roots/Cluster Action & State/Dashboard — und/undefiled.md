@@ -5,15 +5,6 @@ status: unread
 ---
 # undefiled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from stain or blemish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of language) not having its purity or excellence debased; ; - van wyck brooks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Pure religion and undefiled is to visit the fatherless and widows in their affliction.' My own heart has been singing for joy all the evening because of your work, and I do not mean to let you do it alone."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"He answered no, not yet; and added that he was fearful Christianity, or rather Christians, had unfitted him for ascending the pure and undefiled throne of thirty pagan Kings before him."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"The air, so pure and undefiled, brings near The view, which else far distant would appear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from stain or blemish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of language) not having its purity or excellence debased; ; - van wyck brooks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Pure religion and undefiled is to visit the fatherless and widows in their affliction.' My own heart has been singing for joy all the evening because of your work, and I do not mean to let you do it alone."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"He answered no, not yet; and added that he was fearful Christianity, or rather Christians, had unfitted him for ascending the pure and undefiled throne of thirty pagan Kings before him."*
+> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"The air, so pure and undefiled, brings near The view, which else far distant would appear."*

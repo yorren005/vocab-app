@@ -5,13 +5,6 @@ status: unread
 ---
 # plastination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A process involving fixation and dehydration and forced impregnation and hardening of biological tissues; water and lipids are replaced by curable polymers (silicone or epoxy or polyester) that are subsequently hardened.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process involving fixation and dehydration and forced impregnation and hardening of biological tissues; water and lipids are replaced by curable polymers (silicone or epoxy or polyester) that are subsequently hardened.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plastination designates a process involving fixation and dehydration and forced impregnation and hardening of biological tissues; water and lipids are replaced by curable polymers (silicone or epoxy or polyester) that are subsequently hardened."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A process involving fixation and dehydration and forced impregnation and hardening of biological tissues; water and lipids are replaced by curable polymers (silicone or epoxy or polyester) that are subsequently hardened.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process involving fixation and dehydration and forced impregnation and hardening of biological tissues; water and lipids are replaced by curable polymers (silicone or epoxy or polyester) that are subsequently hardened.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plastination designates a process involving fixation and dehydration and forced impregnation and hardening of biological tissues; water and lipids are replaced by curable polymers (silicone or epoxy or polyester) that are subsequently hardened."*

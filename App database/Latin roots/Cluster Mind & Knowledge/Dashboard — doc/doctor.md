@@ -5,15 +5,6 @@ status: unread
 ---
 # doctor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A licensed medical practitioner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) a title conferred on 33 saints who distinguished themselves through the orthodoxy of their theological teaching.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Doctor Pinch, you are a conjurer; Establish him in his true sense again, And I will please you what you will demand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good master doctor, see him safe convey’d Home to my house."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My master and his man are both broke loose, Beaten the maids a-row, and bound the doctor, Whose beard they have singed off with brands of fire, And ever as it blazed they threw on him Great pails of puddled mire to quench the hair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A licensed medical practitioner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) a title conferred on 33 saints who distinguished themselves through the orthodoxy of their theological teaching.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Doctor Pinch, you are a conjurer; Establish him in his true sense again, And I will please you what you will demand."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good master doctor, see him safe convey’d Home to my house."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My master and his man are both broke loose, Beaten the maids a-row, and bound the doctor, Whose beard they have singed off with brands of fire, And ever as it blazed they threw on him Great pails of puddled mire to quench the hair."*

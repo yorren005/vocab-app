@@ -5,15 +5,6 @@ status: unread
 ---
 # senor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spanish title or form of address for a man; similar to the english `mr' or `sir'.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spanish title or form of address for a man; similar to the english `mr' or `sir'.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"You must have heard of it.’ “‘Nay, Senor; hereabouts in this dull, warm, most lazy, and hereditary land, we know but little of your vigorous North.’ “‘Aye?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"‘Well for our northern friend, Dame Isabella’s Inquisition wanes in Lima,’ laughed Don Sebastian. ‘Proceed, Senor.’ “‘A moment!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If I do not, may lightnings strike me!’ “‘A pretty scholar,’ laughed the Lakeman. ‘Adios, Senor!’ and leaping into the sea, he swam back to his comrades."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spanish title or form of address for a man; similar to the english `mr' or `sir'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spanish title or form of address for a man; similar to the english `mr' or `sir'.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"You must have heard of it.’ “‘Nay, Senor; hereabouts in this dull, warm, most lazy, and hereditary land, we know but little of your vigorous North.’ “‘Aye?"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"‘Well for our northern friend, Dame Isabella’s Inquisition wanes in Lima,’ laughed Don Sebastian. ‘Proceed, Senor.’ “‘A moment!"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If I do not, may lightnings strike me!’ “‘A pretty scholar,’ laughed the Lakeman. ‘Adios, Senor!’ and leaping into the sea, he swam back to his comrades."*

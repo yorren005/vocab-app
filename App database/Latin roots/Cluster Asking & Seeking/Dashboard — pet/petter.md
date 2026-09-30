@@ -5,14 +5,6 @@ status: unread
 ---
 # petter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lover who gently fondles and caresses the loved one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lover who gently fondles and caresses the loved one.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is petter that friends is the sword, and end it; and there is also another device in my prain, which peradventure prings goot discretions with it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and her father is make her a petter penny."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lover who gently fondles and caresses the loved one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lover who gently fondles and caresses the loved one.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is petter that friends is the sword, and end it; and there is also another device in my prain, which peradventure prings goot discretions with it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and her father is make her a petter penny."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # dryly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dry laconic manner;  he said dryly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dry laconic manner;  he said dryly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"His mother is naturally more worried about this than about anything else.'" "Look at him," Kurt said dryly, glancing at Bruno, who was sitting beside his mother."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"There were many who asserted they had seen or heard him, and till to-day the ghost of Wildenstein is haunting people's heads." "Look at him," said Bruno dryly, pointing to the lower end of the table where Kurt was sitting."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"However, I come here some time since you left.” “I could have told you that, Orlick.” “Ah!” said he, dryly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dry laconic manner;  he said dryly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dry laconic manner;  he said dryly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"His mother is naturally more worried about this than about anything else.'" "Look at him," Kurt said dryly, glancing at Bruno, who was sitting beside his mother."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"There were many who asserted they had seen or heard him, and till to-day the ghost of Wildenstein is haunting people's heads." "Look at him," said Bruno dryly, pointing to the lower end of the table where Kurt was sitting."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"However, I come here some time since you left.” “I could have told you that, Orlick.” “Ah!” said he, dryly."*

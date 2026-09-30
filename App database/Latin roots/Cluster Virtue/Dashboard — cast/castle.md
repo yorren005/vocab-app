@@ -5,15 +5,6 @@ status: unread
 ---
 # castle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and stately mansion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large building formerly occupied by a ruler and fortified against attack.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A platform before the Castle Scene II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A room of state in the Castle Scene III."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A more remote part of the Castle ACT II Scene I."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and stately mansion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large building formerly occupied by a ruler and fortified against attack.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A platform before the Castle Scene II."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A room of state in the Castle Scene III."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A more remote part of the Castle ACT II Scene I."*

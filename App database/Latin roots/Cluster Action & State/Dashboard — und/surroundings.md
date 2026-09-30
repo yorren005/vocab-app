@@ -5,15 +5,6 @@ status: unread
 ---
 # surroundings
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The environmental condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The area in which something exists or lives.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Soon she would be obliged to send him away, and how could she hope for a loving influence in strange surroundings, which was the only thing to quiet him?"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As their guest was to remain such a short while, Uncle Philip suggested a walk in order to show him the surroundings, but when they looked around for Salo, they could not find either him or Bruno."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"These unusual surroundings made Leonore so happy that her face became quite rosy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The environmental condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The area in which something exists or lives.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Soon she would be obliged to send him away, and how could she hope for a loving influence in strange surroundings, which was the only thing to quiet him?"*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As their guest was to remain such a short while, Uncle Philip suggested a walk in order to show him the surroundings, but when they looked around for Salo, they could not find either him or Bruno."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"These unusual surroundings made Leonore so happy that her face became quite rosy."*

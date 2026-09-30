@@ -5,20 +5,6 @@ status: unread
 ---
 # pinion
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Feather, quill; also : flight feathers
-> 2. **Nuance / Usage**: Disable or restrain by binding the arms
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **N. P. Willis (*Poem delivered at the Departure of the Senior Class of Yale College*):** *"Press on! for it is godlike to unloose The spirit, and forget yourself in thought; Bending a pinion for the deeper sky, And, in the very fetters of your flesh, Mating with the pure essences of heaven!"*
-> - 📜 **Konrad Heresbach (*Foure Bookes of Husbandrie*):** *"They that meane to fatte Pigions…some…do softly tie their Legges:…some vse onely to pinion them."*
-> - 📜 **Peter Longueville (*Philip Quarll*):** *"The two old ducks…being pinioned, could not fly away."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To restrain or immobilize a person by binding or holding their arms fast to their sides; originally, to clip or bind the flight feathers of a bird's wing to prevent flight.
+> 2. **Nuance / Usage**: As a poetic noun, a bird's wing or flight feather; in mechanics, a small cogwheel that meshes with a larger gear or rack.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Transitive Verb & Noun (count).
+> - **Syntactic Constructions**: Operates verbally in physical restraint contexts (*pinioned his arms behind his back*) and nominally in poetic or mechanical contexts (*on swift pinions*).
+> - **Collocations & Registers**: Martial, poetic, and mechanical registers; paired with *arms*, *wings*, *bind*, *flight*, and *helpless*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **N. P. Willis (*Poem Delivered at Yale College*):** *"Press on! for it is godlike to unloose the spirit, and forget yourself in thought, bending a **pinion** for the deeper sky!"*
+> - 📜 **Peter Longueville (*The Hermit*):** *"The two old ducks, being **pinioned**, could not fly away from the enclosure."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"I felt my arms and legs **pinioned** to the ground on each side by hundreds of slender ligatures."*

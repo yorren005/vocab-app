@@ -5,15 +5,6 @@ status: unread
 ---
 # bats
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (baseball) a turn trying to get a hit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where go you With bats and clubs?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But make you ready your stiff bats and clubs."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the charms Of Sycorax, toads, beetles, bats, light on you!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (baseball) a turn trying to get a hit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where go you With bats and clubs?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But make you ready your stiff bats and clubs."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the charms Of Sycorax, toads, beetles, bats, light on you!"*

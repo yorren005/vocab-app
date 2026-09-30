@@ -5,15 +5,6 @@ status: unread
 ---
 # terror
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An overwhelming feeling of fear and anxiety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who inspires fear or dread.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He stopped the flyers And by his rare example made the coward Turn terror into sport."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, said they, is the terror of the French, The scarecrow that affrights our children so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It cannot be this weak and writhled shrimp Should strike such terror to his enemies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An overwhelming feeling of fear and anxiety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who inspires fear or dread.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He stopped the flyers And by his rare example made the coward Turn terror into sport."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, said they, is the terror of the French, The scarecrow that affrights our children so."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It cannot be this weak and writhled shrimp Should strike such terror to his enemies."*

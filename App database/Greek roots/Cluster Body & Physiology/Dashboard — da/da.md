@@ -5,15 +5,6 @@ status: unread
 ---
 # da
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: deka-.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: ducktail.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Grabowsky, "Der Distrikt Dusson Timor in Südost-Borneo und seine Bewohner," _Das Ausland_, 1884, No. 24, p. 470. [33] _Narrative of the Second Arctic Expedition made by Charles F."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hahl, "Das mittlere Neumecklenburg," _Globus_, xci. (1907) p. 313."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Titelbach, "Das heilige Feuer bei den Balkanslaven," _Inter-nationales Archiv für Ethnographie_, xiii. (1900) pp. 2 _sq._ We have seen (above, p. 220) that in Russia the need-fire is, or used to be, annually kindled on the eighteenth of August."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: deka-.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: ducktail.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Grabowsky, "Der Distrikt Dusson Timor in Südost-Borneo und seine Bewohner," _Das Ausland_, 1884, No. 24, p. 470. [33] _Narrative of the Second Arctic Expedition made by Charles F."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hahl, "Das mittlere Neumecklenburg," _Globus_, xci. (1907) p. 313."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Titelbach, "Das heilige Feuer bei den Balkanslaven," _Inter-nationales Archiv für Ethnographie_, xiii. (1900) pp. 2 _sq._ We have seen (above, p. 220) that in Russia the need-fire is, or used to be, annually kindled on the eighteenth of August."*

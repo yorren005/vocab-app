@@ -5,15 +5,6 @@ status: unread
 ---
 # retrieve
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To locate and bring in (killed or wounded game).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To call to mind again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have no doubt that his desire to retrieve what he had lost was rendered the more intense by his grief for his young wife, and became like the madness of a gamester."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"It shall upon my bosom live, Or clasp me in a close embrace; And at its fortune if you grieve, Retrieve its doom, and take its place."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Or, there’s Satan!--one might venture Pledge one’s soul to him, yet leave Such a flaw in the indenture As he’d miss till, past retrieve, Blasted lay that rose-acacia We’re so proud of!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To locate and bring in (killed or wounded game).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To call to mind again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I have no doubt that his desire to retrieve what he had lost was rendered the more intense by his grief for his young wife, and became like the madness of a gamester."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"It shall upon my bosom live, Or clasp me in a close embrace; And at its fortune if you grieve, Retrieve its doom, and take its place."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Or, there’s Satan!--one might venture Pledge one’s soul to him, yet leave Such a flaw in the indenture As he’d miss till, past retrieve, Blasted lay that rose-acacia We’re so proud of!"*

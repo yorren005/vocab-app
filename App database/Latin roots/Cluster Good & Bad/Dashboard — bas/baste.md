@@ -5,15 +5,6 @@ status: unread
 ---
 # baste
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A loose temporary sewing stitch to hold layers of fabric together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover with liquid before cooking.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall the proud lord That bastes his arrogance with his own seam And never suffers matter of the world Enter his thoughts, save such as doth revolve And ruminate himself—shall he be worshipp’d Of that we hold an idol more than he?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lest it make you choleric, and purchase me another dry basting."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"I'le watch you for that trick, baboon, I'le Smoke you: the rogue sweats, as if he had eaten Grains, he broyles, if I do come to the Basting of you. _Arno_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A loose temporary sewing stitch to hold layers of fabric together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover with liquid before cooking.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall the proud lord That bastes his arrogance with his own seam And never suffers matter of the world Enter his thoughts, save such as doth revolve And ruminate himself—shall he be worshipp’d Of that we hold an idol more than he?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lest it make you choleric, and purchase me another dry basting."*
+> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"I'le watch you for that trick, baboon, I'le Smoke you: the rogue sweats, as if he had eaten Grains, he broyles, if I do come to the Basting of you. _Arno_."*

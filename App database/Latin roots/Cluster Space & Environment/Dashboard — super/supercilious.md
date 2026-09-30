@@ -5,15 +5,6 @@ status: unread
 ---
 # supercilious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing arrogant superiority to and disdain of those one views as unworthy; ; ; ; ; ; ; - w.l.shirer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressive of contempt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A distant supercilious air makes a cold atmosphere about her, and there is nothing in her bearing, as there was before, to encourage openness."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Blanche Ingram, after having repelled, by supercilious taciturnity, some efforts of Mrs."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"For, though elated by his rank, it did not render him supercilious; on the contrary, he was all attention to everybody."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing arrogant superiority to and disdain of those one views as unworthy; ; ; ; ; ; ; - w.l.shirer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressive of contempt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"A distant supercilious air makes a cold atmosphere about her, and there is nothing in her bearing, as there was before, to encourage openness."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Blanche Ingram, after having repelled, by supercilious taciturnity, some efforts of Mrs."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"For, though elated by his rank, it did not render him supercilious; on the contrary, he was all attention to everybody."*

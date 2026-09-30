@@ -5,15 +5,6 @@ status: unread
 ---
 # incomparable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Such that comparison is impossible; unsuitable for comparison or lacking features that can be compared.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Such that comparison is impossible; unsuitable for comparison or lacking features that can be compared.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KING EDWARD. [_Aside_.] Her looks doth argue her replete with modesty; Her words doth show her wit incomparable; All her perfections challenge sovereignty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now this masque Was cried incomparable; and th’ ensuing night Made it a fool and beggar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know him not, but I have heard of him, A merchant of incomparable wealth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Such that comparison is impossible; unsuitable for comparison or lacking features that can be compared.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Such that comparison is impossible; unsuitable for comparison or lacking features that can be compared.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KING EDWARD. [_Aside_.] Her looks doth argue her replete with modesty; Her words doth show her wit incomparable; All her perfections challenge sovereignty."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now this masque Was cried incomparable; and th’ ensuing night Made it a fool and beggar."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know him not, but I have heard of him, A merchant of incomparable wealth."*

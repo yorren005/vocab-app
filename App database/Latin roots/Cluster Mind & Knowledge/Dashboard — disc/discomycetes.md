@@ -5,13 +5,6 @@ status: unread
 ---
 # discomycetes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and taxonomically difficult group of ascomycetes in which the fleshy fruiting body is disklike or cup-shaped.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any fungus that is a member of the subclass discomycetes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discomycetes designates a large and taxonomically difficult group of ascomycetes in which the fleshy fruiting body is disklike or cup-shaped."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and taxonomically difficult group of ascomycetes in which the fleshy fruiting body is disklike or cup-shaped.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any fungus that is a member of the subclass discomycetes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discomycetes designates a large and taxonomically difficult group of ascomycetes in which the fleshy fruiting body is disklike or cup-shaped."*

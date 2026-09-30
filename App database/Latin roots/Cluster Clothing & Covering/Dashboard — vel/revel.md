@@ -5,15 +5,6 @@ status: unread
 ---
 # revel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unrestrained merrymaking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take delight in.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From Alexandria This is the news: he fishes, drinks, and wastes The lamps of night in revel: is not more manlike Than Cleopatra, nor the queen of Ptolemy More womanly than he; hardly gave audience, or Vouchsafed to think he had partners."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did this companion with the saffron face Revel and feast it at my house today, Whilst upon me the guilty doors were shut, And I denied to enter in my house?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when they shall see, sir, his crest up again, and the man in blood, they will out of their burrows like coneys after rain, and revel all with him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unrestrained merrymaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take delight in.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From Alexandria This is the news: he fishes, drinks, and wastes The lamps of night in revel: is not more manlike Than Cleopatra, nor the queen of Ptolemy More womanly than he; hardly gave audience, or Vouchsafed to think he had partners."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did this companion with the saffron face Revel and feast it at my house today, Whilst upon me the guilty doors were shut, And I denied to enter in my house?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when they shall see, sir, his crest up again, and the man in blood, they will out of their burrows like coneys after rain, and revel all with him."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # saltwater
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Water containing salts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Water containing salts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"But then why is it that saltwater fish are not salty?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Water containing salts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Water containing salts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"But then why is it that saltwater fish are not salty?"*

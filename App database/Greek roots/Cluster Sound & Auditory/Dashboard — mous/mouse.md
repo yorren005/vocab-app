@@ -5,15 +5,6 @@ status: unread
 ---
 # mouse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous small rodents typically resembling diminutive rats having pointed snouts and small ears on elongated bodies with slender usually hairless tails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A swollen bruise caused by a blow to the eye.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tribunes for them!— The mouse ne’er shunned the cat as they did budge From rascals worse than they."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wilt be as valiant as the wrathful dove or most magnanimous mouse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What’s your dark meaning, mouse, of this light word?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous small rodents typically resembling diminutive rats having pointed snouts and small ears on elongated bodies with slender usually hairless tails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A swollen bruise caused by a blow to the eye.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tribunes for them!— The mouse ne’er shunned the cat as they did budge From rascals worse than they."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou wilt be as valiant as the wrathful dove or most magnanimous mouse."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What’s your dark meaning, mouse, of this light word?"*

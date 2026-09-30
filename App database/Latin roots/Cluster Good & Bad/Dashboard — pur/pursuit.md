@@ -5,15 +5,6 @@ status: unread
 ---
 # pursuit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of pursuing in an effort to overtake or capture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A search for an alternative that meets cognitive criteria.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mad in pursuit and in possession so, Had, having, and in quest, to have extreme, A bliss in proof, and proved, a very woe; Before a joy proposed behind a dream."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pardon me, madam; If I had given you this at over-night, She might have been o’erta’en; and yet she writes Pursuit would be but vain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s away, And get our jewels and our wealth together, Devise the fittest time and safest way To hide us from pursuit that will be made After my flight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of pursuing in an effort to overtake or capture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A search for an alternative that meets cognitive criteria.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mad in pursuit and in possession so, Had, having, and in quest, to have extreme, A bliss in proof, and proved, a very woe; Before a joy proposed behind a dream."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pardon me, madam; If I had given you this at over-night, She might have been o’erta’en; and yet she writes Pursuit would be but vain."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s away, And get our jewels and our wealth together, Devise the fittest time and safest way To hide us from pursuit that will be made After my flight."*

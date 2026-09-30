@@ -5,15 +5,6 @@ status: unread
 ---
 # civilize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Teach or refine to be discriminative in taste or judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise from a barbaric to a civilized state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Let the savages be civilized, but civilize them with benefits, and not with evils; and let heathenism be destroyed, but not by destroying the heathen."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The former found it easier to exterminate than to civilize; the latter to vilify than to discriminate."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"However, this confirmed my first opinion, that a people who could so far civilize brute animals, must needs excel in wisdom all the nations of the world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Teach or refine to be discriminative in taste or judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise from a barbaric to a civilized state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Let the savages be civilized, but civilize them with benefits, and not with evils; and let heathenism be destroyed, but not by destroying the heathen."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The former found it easier to exterminate than to civilize; the latter to vilify than to discriminate."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"However, this confirmed my first opinion, that a people who could so far civilize brute animals, must needs excel in wisdom all the nations of the world."*

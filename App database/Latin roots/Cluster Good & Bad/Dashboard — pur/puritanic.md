@@ -5,15 +5,6 @@ status: unread
 ---
 # puritanic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Morally rigorous and strict.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Morally rigorous and strict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"There was a strong assumption of superiority in this Puritanic toleration, hardly less trying to the blond flesh of an unenthusiastic sister than a Puritanic persecution."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"He was a soldier, legislator, judge; he was a ruler in the Church; he had all the Puritanic traits, both good and evil."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"This personage prefigured and represented in his aspect the whole dismal severity of the Puritanic code of law, which it was his business to administer in its final and closest application to the offender."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Morally rigorous and strict.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Morally rigorous and strict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"There was a strong assumption of superiority in this Puritanic toleration, hardly less trying to the blond flesh of an unenthusiastic sister than a Puritanic persecution."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"He was a soldier, legislator, judge; he was a ruler in the Church; he had all the Puritanic traits, both good and evil."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"This personage prefigured and represented in his aspect the whole dismal severity of the Puritanic code of law, which it was his business to administer in its final and closest application to the offender."*

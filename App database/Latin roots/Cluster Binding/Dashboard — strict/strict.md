@@ -5,15 +5,6 @@ status: unread
 ---
 # strict
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rigidly accurate; allowing no deviation from a standard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of rules) stringently enforced.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You that look pale and tremble at this chance, That are but mutes or audience to this act, Had I but time,—as this fell sergeant, death, Is strict in his arrest,—O, I could tell you,— But let it be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Percy is but my factor, good my lord, To engross up glorious deeds on my behalf, And I will call him to so strict account That he shall render every glory up, Yea, even the slightest worship of his time, Or I will tear the reckoning from his heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For well you know we of the off’ring side Must keep aloof from strict arbitrement, And stop all sight-holes, every loop from whence The eye of reason may pry in upon us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rigidly accurate; allowing no deviation from a standard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of rules) stringently enforced.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You that look pale and tremble at this chance, That are but mutes or audience to this act, Had I but time,—as this fell sergeant, death, Is strict in his arrest,—O, I could tell you,— But let it be."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Percy is but my factor, good my lord, To engross up glorious deeds on my behalf, And I will call him to so strict account That he shall render every glory up, Yea, even the slightest worship of his time, Or I will tear the reckoning from his heart."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For well you know we of the off’ring side Must keep aloof from strict arbitrement, And stop all sight-holes, every loop from whence The eye of reason may pry in upon us."*

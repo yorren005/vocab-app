@@ -5,15 +5,6 @@ status: unread
 ---
 # arched
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form an arch or curve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constructed with or in the form of an arch or arches.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast the right arched beauty of the brow that becomes the ship-tire, the tire-valiant, or any tire of Venetian admittance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What a brow, Of what a spacious majesty, he carries, Arched like the great-eyed Juno’s, but far sweeter, Smoother than Pelops’ shoulder!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn stumbling over her, she spits at his rusty legs, and swearing wrathfully, takes her arched back upstairs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Form an arch or curve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constructed with or in the form of an arch or arches.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast the right arched beauty of the brow that becomes the ship-tire, the tire-valiant, or any tire of Venetian admittance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What a brow, Of what a spacious majesty, he carries, Arched like the great-eyed Juno’s, but far sweeter, Smoother than Pelops’ shoulder!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn stumbling over her, she spits at his rusty legs, and swearing wrathfully, takes her arched back upstairs."*

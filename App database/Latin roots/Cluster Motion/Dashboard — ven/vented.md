@@ -5,15 +5,6 @@ status: unread
 ---
 # vented
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give expression or utterance to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expose to cool or cold air so as to cool or freshen.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"His marriage seemed an unmitigated calamity; and he was afraid of going to Rosamond before he had vented himself in this solitary rage, lest the mere sight of her should exasperate him and make him behave unwarrantably."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This is so clear a proposition, that moderation itself can scarcely listen to the railings which have been so copiously vented against this part of the plan, without emotions that disturb its equanimity."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But these paroxysms seldom occurred, and in them my big-hearted shipmate vented the bile which more calm-tempered individuals get rid of by a continual pettishness at trivial annoyances."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give expression or utterance to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expose to cool or cold air so as to cool or freshen.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"His marriage seemed an unmitigated calamity; and he was afraid of going to Rosamond before he had vented himself in this solitary rage, lest the mere sight of her should exasperate him and make him behave unwarrantably."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This is so clear a proposition, that moderation itself can scarcely listen to the railings which have been so copiously vented against this part of the plan, without emotions that disturb its equanimity."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But these paroxysms seldom occurred, and in them my big-hearted shipmate vented the bile which more calm-tempered individuals get rid of by a continual pettishness at trivial annoyances."*

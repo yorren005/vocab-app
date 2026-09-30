@@ -5,13 +5,6 @@ status: unread
 ---
 # heterological
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not corresponding in structure or evolutionary origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not corresponding in structure or evolutionary origin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterological designates not corresponding in structure or evolutionary origin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not corresponding in structure or evolutionary origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not corresponding in structure or evolutionary origin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterological designates not corresponding in structure or evolutionary origin."*

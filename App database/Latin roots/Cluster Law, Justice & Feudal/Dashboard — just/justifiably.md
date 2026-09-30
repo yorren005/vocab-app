@@ -5,14 +5,6 @@ status: unread
 ---
 # justifiably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With good reason.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With good reason.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"Warren's dog holding the gaff, a feat of which both Pal and his master were justifiably proud."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Believing that you of the border States hold more power for good than any other equal number of members, I feel it a duty which I cannot justifiably waive, to make this appeal to you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With good reason.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With good reason.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"Warren's dog holding the gaff, a feat of which both Pal and his master were justifiably proud."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Believing that you of the border States hold more power for good than any other equal number of members, I feel it a duty which I cannot justifiably waive, to make this appeal to you."*

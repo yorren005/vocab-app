@@ -5,15 +5,6 @@ status: unread
 ---
 # creek
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural stream of water smaller than a river (and often a tributary of a river).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any member of the creek confederacy (especially the muskogee) formerly living in georgia and alabama but now chiefly in oklahoma.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll throw’t into the creek Behind our rock, and let it to the sea And tell the fishes he’s the Queen’s son, Cloten."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Thus it was always an eight-hour drive behind mountain horses from the alfalfa meadows (where I kept many Jersey cows) to the straggly village beside the big dry creek, where I caught the little narrow-gauge train."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Arrived at the shore, she is stripped of her ornaments, and the bearers stagger with her into the creek, where they immerse her, and all the other women join in splashing water over both the girl and her bearers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural stream of water smaller than a river (and often a tributary of a river).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any member of the creek confederacy (especially the muskogee) formerly living in georgia and alabama but now chiefly in oklahoma.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll throw’t into the creek Behind our rock, and let it to the sea And tell the fishes he’s the Queen’s son, Cloten."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Thus it was always an eight-hour drive behind mountain horses from the alfalfa meadows (where I kept many Jersey cows) to the straggly village beside the big dry creek, where I caught the little narrow-gauge train."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Arrived at the shore, she is stripped of her ornaments, and the bearers stagger with her into the creek, where they immerse her, and all the other women join in splashing water over both the girl and her bearers."*

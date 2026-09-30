@@ -5,13 +5,6 @@ status: unread
 ---
 # disconfirming
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not indicating the presence of microorganisms or disease or a specific condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establishing as invalid or untrue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disconfirming designates not indicating the presence of microorganisms or disease or a specific condition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not indicating the presence of microorganisms or disease or a specific condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establishing as invalid or untrue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disconfirming designates not indicating the presence of microorganisms or disease or a specific condition."*

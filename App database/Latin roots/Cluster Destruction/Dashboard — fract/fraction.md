@@ -5,15 +5,6 @@ status: unread
 ---
 # fraction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A component of a mixture that has been separated by a fractional process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small part or item forming a piece of a whole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the better; their fraction is more our wish than their faction."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And yet, so far was I beyond my tables, that all I needed was a mere look at a man to know his predispositions, his co-ordinations, and the index fraction of his motion-wastage."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He brought his foot to bear upon me, with the weight of his body added to his foot, and pulled, but failed to get any fraction of an inch of slack."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A component of a mixture that has been separated by a fractional process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small part or item forming a piece of a whole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the better; their fraction is more our wish than their faction."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And yet, so far was I beyond my tables, that all I needed was a mere look at a man to know his predispositions, his co-ordinations, and the index fraction of his motion-wastage."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He brought his foot to bear upon me, with the weight of his body added to his foot, and pulled, but failed to get any fraction of an inch of slack."*

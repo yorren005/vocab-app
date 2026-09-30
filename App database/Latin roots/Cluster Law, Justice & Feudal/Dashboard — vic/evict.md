@@ -5,15 +5,6 @@ status: unread
 ---
 # evict
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expel or eject without recourse to legal process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expel from one's property or force to move out by a legal process.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"What do you do with gipsies? evict 'em, I suppose." He flung a second question at Val which made the son of a vicarage knit his brows."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"All acids are compounds of hydrogen and something else, and their biting action is due to the readiness with which the "something else" evicts the hydrogen and takes in a metal in its place."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"As it is, they engender bitterness and hatred in the breasts of the evicted natives, the very thing they should study to avoid."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expel or eject without recourse to legal process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expel from one's property or force to move out by a legal process.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"What do you do with gipsies? evict 'em, I suppose." He flung a second question at Val which made the son of a vicarage knit his brows."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"All acids are compounds of hydrogen and something else, and their biting action is due to the readiness with which the "something else" evicts the hydrogen and takes in a metal in its place."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"As it is, they engender bitterness and hatred in the breasts of the evicted natives, the very thing they should study to avoid."*

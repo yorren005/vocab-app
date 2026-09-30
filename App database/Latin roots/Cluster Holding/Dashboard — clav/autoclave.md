@@ -5,13 +5,6 @@ status: unread
 ---
 # autoclave
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device for heating substances above their boiling point; used to manufacture chemicals or to sterilize surgical instruments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to the action of an autoclave.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autoclave designates a device for heating substances above their boiling point; used to manufacture chemicals or to sterilize surgical instruments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device for heating substances above their boiling point; used to manufacture chemicals or to sterilize surgical instruments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to the action of an autoclave.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autoclave designates a device for heating substances above their boiling point; used to manufacture chemicals or to sterilize surgical instruments."*

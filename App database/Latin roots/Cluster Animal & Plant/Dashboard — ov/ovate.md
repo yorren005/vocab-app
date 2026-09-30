@@ -5,15 +5,6 @@ status: unread
 ---
 # ovate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a leaf shape; egg-shaped with the broader end at the base.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rounded like an egg.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"On umbelliferous plants three species are recorded; one with yellow spores (_Trichobasis Petroselini_, B.); another with a blistered habit, and brown, ovate, or oblong spores (_T."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Its extremity, at first thin and pointed, swells in the form of a globular vesicle, which soon takes the elliptical or ovate shape of the perfected acrospore, and at length separates itself from the branch that supports it."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The sporangium contains eight ovate spores."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a leaf shape; egg-shaped with the broader end at the base.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rounded like an egg.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"On umbelliferous plants three species are recorded; one with yellow spores (_Trichobasis Petroselini_, B.); another with a blistered habit, and brown, ovate, or oblong spores (_T."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Its extremity, at first thin and pointed, swells in the form of a globular vesicle, which soon takes the elliptical or ovate shape of the perfected acrospore, and at length separates itself from the branch that supports it."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The sporangium contains eight ovate spores."*

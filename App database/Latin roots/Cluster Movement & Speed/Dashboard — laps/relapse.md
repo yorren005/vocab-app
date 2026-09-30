@@ -5,15 +5,6 @@ status: unread
 ---
 # relapse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A failure to maintain a higher state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deteriorate in health.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mark then abounding valour in our English, That being dead, like to the bullet’s grazing, Break out into a second course of mischief, Killing in relapse of mortality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get linen: now this matter must be look’d to, For her relapse is mortal."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"After a short relapse into sleep or stupor, he makes, of a sudden, a strong effort to get out of bed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A failure to maintain a higher state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deteriorate in health.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mark then abounding valour in our English, That being dead, like to the bullet’s grazing, Break out into a second course of mischief, Killing in relapse of mortality."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get linen: now this matter must be look’d to, For her relapse is mortal."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"After a short relapse into sleep or stupor, he makes, of a sudden, a strong effort to get out of bed."*

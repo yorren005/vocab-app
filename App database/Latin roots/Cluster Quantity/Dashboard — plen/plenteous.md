@@ -5,15 +5,6 @@ status: unread
 ---
 # plenteous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affording an abundant supply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording an abundant supply.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So holy and so perfect is my love, And I in such a poverty of grace, That I shall think it a most plenteous crop To glean the broken ears after the man That the main harvest reaps."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why droops my lord, like over-ripened corn Hanging the head at Ceres’ plenteous load?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I advise you— And take it from a heart that wishes towards you Honour and plenteous safety—that you read The Cardinal’s malice and his potency Together; to consider further that What his high hatred would effect wants not A minister in his power."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affording an abundant supply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording an abundant supply.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So holy and so perfect is my love, And I in such a poverty of grace, That I shall think it a most plenteous crop To glean the broken ears after the man That the main harvest reaps."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why droops my lord, like over-ripened corn Hanging the head at Ceres’ plenteous load?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I advise you— And take it from a heart that wishes towards you Honour and plenteous safety—that you read The Cardinal’s malice and his potency Together; to consider further that What his high hatred would effect wants not A minister in his power."*

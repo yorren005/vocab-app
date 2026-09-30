@@ -5,15 +5,6 @@ status: unread
 ---
 # inexplicable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being explained or accounted for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being explained or accounted for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, it offends me to the soul to hear a robustious periwig-pated fellow tear a passion to tatters, to very rags, to split the ears of the groundlings, who, for the most part, are capable of nothing but inexplicable dumb shows and noise."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And when my only prayer was to be taken off from the rest and when it was such inexplicable agony and misery to be a part of the dreadful thing?"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All that day I lay in the dungeon cudgelling my brains for the reason of this new and inexplicable punishment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being explained or accounted for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being explained or accounted for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, it offends me to the soul to hear a robustious periwig-pated fellow tear a passion to tatters, to very rags, to split the ears of the groundlings, who, for the most part, are capable of nothing but inexplicable dumb shows and noise."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And when my only prayer was to be taken off from the rest and when it was such inexplicable agony and misery to be a part of the dreadful thing?"*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All that day I lay in the dungeon cudgelling my brains for the reason of this new and inexplicable punishment."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # bathsheba
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (old testament) the wife of uriah and later the wife of king david; solomon was her son by david (circa 10th century bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (old testament) the wife of uriah and later the wife of king david; solomon was her son by david (circa 10th century bc).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"By making inquiries he found that the girl’s name was Bathsheba Everdene, and that the cow would go dry in about seven days."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The cow had ceased to give milk for that year, and Bathsheba Everdene came up the hill no more."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He liked saying “Bathsheba” as a private enjoyment instead of whistling; turned over his taste to black hair, though he had sworn by brown ever since he was a boy, isolated himself till the space he filled in the public eye was contemptibly small."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (old testament) the wife of uriah and later the wife of king david; solomon was her son by david (circa 10th century bc).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (old testament) the wife of uriah and later the wife of king david; solomon was her son by david (circa 10th century bc).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"By making inquiries he found that the girl’s name was Bathsheba Everdene, and that the cow would go dry in about seven days."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The cow had ceased to give milk for that year, and Bathsheba Everdene came up the hill no more."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He liked saying “Bathsheba” as a private enjoyment instead of whistling; turned over his taste to black hair, though he had sworn by brown ever since he was a boy, isolated himself till the space he filled in the public eye was contemptibly small."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # isotropy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting properties (such as velocity of light transmission) with the same values when measured along axes in all directions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting properties (such as velocity of light transmission) with the same values when measured along axes in all directions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isotropy designates exhibiting properties (such as velocity of light transmission) with the same values when measured along axes in all directions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting properties (such as velocity of light transmission) with the same values when measured along axes in all directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting properties (such as velocity of light transmission) with the same values when measured along axes in all directions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isotropy designates exhibiting properties (such as velocity of light transmission) with the same values when measured along axes in all directions."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # currant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several tart red or black berries used primarily for jellies and jams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various deciduous shrubs of the genus ribes bearing currants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"We don't live in the rectory now, but where there is a garden with lots of paths, and where the big currant-bushes are in the corners, here and here and here." Mäzli traced the position of the bushes exactly on the lionskin."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"O, his manners! won’t his manners do then?” asked Biddy, plucking a black-currant leaf."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Their nook of turf was out of sight of the house, sheltered from it behind a great thicket of lilac and syringa, which walled off the lawn from the kitchen garden full of sweet-smelling currant bushes and apple-trees laden with green fruit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several tart red or black berries used primarily for jellies and jams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various deciduous shrubs of the genus ribes bearing currants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"We don't live in the rectory now, but where there is a garden with lots of paths, and where the big currant-bushes are in the corners, here and here and here." Mäzli traced the position of the bushes exactly on the lionskin."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"O, his manners! won’t his manners do then?” asked Biddy, plucking a black-currant leaf."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Their nook of turf was out of sight of the house, sheltered from it behind a great thicket of lilac and syringa, which walled off the lawn from the kitchen garden full of sweet-smelling currant bushes and apple-trees laden with green fruit."*

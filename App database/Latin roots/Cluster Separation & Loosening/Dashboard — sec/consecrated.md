@@ -5,15 +5,6 @@ status: unread
 ---
 # consecrated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appoint to a clerical posts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give entirely to a specific person, activity, or cause.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Him I’ll desire To meet me at the consecrated fount, A league below the city; and from thence, By cold gradation and well-balanced form."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Near to her close and consecrated bower, While she was in her dull and sleeping hour, A crew of patches, rude mechanicals, That work for bread upon Athenian stalls, Were met together to rehearse a play Intended for great Theseus’ nuptial day."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you mean well, Now go with me and with this holy man Into the chantry by: there, before him And underneath that consecrated roof, Plight me the full assurance of your faith, That my most jealous and too doubtful soul May live at peace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Appoint to a clerical posts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give entirely to a specific person, activity, or cause.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Him I’ll desire To meet me at the consecrated fount, A league below the city; and from thence, By cold gradation and well-balanced form."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Near to her close and consecrated bower, While she was in her dull and sleeping hour, A crew of patches, rude mechanicals, That work for bread upon Athenian stalls, Were met together to rehearse a play Intended for great Theseus’ nuptial day."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you mean well, Now go with me and with this holy man Into the chantry by: there, before him And underneath that consecrated roof, Plight me the full assurance of your faith, That my most jealous and too doubtful soul May live at peace."*

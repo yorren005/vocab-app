@@ -5,15 +5,6 @@ status: unread
 ---
 # bass
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest part of the musical range.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest part in polyphonic music.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methought the billows spoke, and told me of it; The winds did sing it to me; and the thunder, That deep and dreadful organ-pipe, pronounc’d The name of Prosper: it did bass my trespass."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mean is drowned with your unruly bass."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle, an obstinate-looking man with a large waistcoat and stubbly hair, who was always talking in a loud bass voice about his mite, or Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest part of the musical range.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest part in polyphonic music.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methought the billows spoke, and told me of it; The winds did sing it to me; and the thunder, That deep and dreadful organ-pipe, pronounc’d The name of Prosper: it did bass my trespass."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mean is drowned with your unruly bass."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle, an obstinate-looking man with a large waistcoat and stubbly hair, who was always talking in a loud bass voice about his mite, or Mrs."*

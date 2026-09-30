@@ -5,15 +5,6 @@ status: unread
 ---
 # abasement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low or downcast state; - h.l.menchken.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Depriving one of self-esteem.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And thus the abasement had been exaltation, and the loss gain."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But I entreat your patience with one who is already bowed down by inward trial.” Will reseated himself, feeling some pity which was half contempt for this voluntary self-abasement of an elderly man."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He had been prepared for a scene of self-abasement, but his intense pride and his habit of supremacy overpowered penitence, and even dread, when this young man, whom he had meant to benefit, turned on him with the air of a judge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low or downcast state; - h.l.menchken.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Depriving one of self-esteem.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And thus the abasement had been exaltation, and the loss gain."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But I entreat your patience with one who is already bowed down by inward trial.” Will reseated himself, feeling some pity which was half contempt for this voluntary self-abasement of an elderly man."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He had been prepared for a scene of self-abasement, but his intense pride and his habit of supremacy overpowered penitence, and even dread, when this young man, whom he had meant to benefit, turned on him with the air of a judge."*

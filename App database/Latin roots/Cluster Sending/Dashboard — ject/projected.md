@@ -5,15 +5,6 @@ status: unread
 ---
 # projected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicate vividly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extend out or project in space.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The series of novels I projected being mainly of the kind called local, they seemed to require a territorial definition of some sort to lend unity to their scene."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the interior face of the west wall of the tower projected a little canopy with a quarter-jack and small bell beneath it, the automaton being driven by the same clock machinery that struck the large bell in the tower."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Before they parted, however, it was agreed that the projected walk should be taken as soon as possible; and, setting aside the misery of his quitting their box, she was, upon the whole, left one of the happiest creatures in the world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicate vividly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extend out or project in space.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The series of novels I projected being mainly of the kind called local, they seemed to require a territorial definition of some sort to lend unity to their scene."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the interior face of the west wall of the tower projected a little canopy with a quarter-jack and small bell beneath it, the automaton being driven by the same clock machinery that struck the large bell in the tower."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Before they parted, however, it was agreed that the projected walk should be taken as soon as possible; and, setting aside the misery of his quitting their box, she was, upon the whole, left one of the happiest creatures in the world."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # amphioxus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small translucent lancet-shaped burrowing marine animal; primitive forerunner of the vertebrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small translucent lancet-shaped burrowing marine animal; primitive forerunner of the vertebrates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphioxus designates small translucent lancet-shaped burrowing marine animal; primitive forerunner of the vertebrates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small translucent lancet-shaped burrowing marine animal; primitive forerunner of the vertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small translucent lancet-shaped burrowing marine animal; primitive forerunner of the vertebrates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphioxus designates small translucent lancet-shaped burrowing marine animal; primitive forerunner of the vertebrates."*

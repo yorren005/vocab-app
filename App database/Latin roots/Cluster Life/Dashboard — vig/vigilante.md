@@ -5,14 +5,6 @@ status: unread
 ---
 # vigilante
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Member of a vigilance committee.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Member of a vigilance committee.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"A vigilante strutting like a colonel...."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Wherefore we pray you heartily to beware, and to be found watching, even as the Holy Text hath it, ‘Invenientur vigilantes’."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Member of a vigilance committee.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Member of a vigilance committee.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"A vigilante strutting like a colonel...."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Wherefore we pray you heartily to beware, and to be found watching, even as the Holy Text hath it, ‘Invenientur vigilantes’."*

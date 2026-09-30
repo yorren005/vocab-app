@@ -5,14 +5,6 @@ status: unread
 ---
 # sophistication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Uplifting enlightenment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberately invalid argument displaying ingenuity in reasoning in the hope of deceiving someone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Although modern sophistication easily points out flaws in Charles Brockden Brown’s story-structure, and reproves him for improbability, morbidness, and a style often too elevated, yet his work lives."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It was to be feared that she was indeed drifting toward those abysses of sophistication as to which Isabel, wishing for a good-humoured retort, had warned her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Uplifting enlightenment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberately invalid argument displaying ingenuity in reasoning in the hope of deceiving someone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Although modern sophistication easily points out flaws in Charles Brockden Brown’s story-structure, and reproves him for improbability, morbidness, and a style often too elevated, yet his work lives."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It was to be feared that she was indeed drifting toward those abysses of sophistication as to which Isabel, wishing for a good-humoured retort, had warned her."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # detective
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A police officer who investigates crimes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An investigator engaged or employed in obtaining information not easily available to the public.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket is a detective officer, Snagsby,” says the lawyer in explanation."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket, “you’ll excuse anything that may appear to be disagreeable in this, for my name’s Inspector Bucket of the Detective, and I have a duty to perform."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn’s chambers; his veneration for the mysteries presided over by that best and closest of his customers, whom all the Inns of Court, all Chancery Lane, and all the legal neighbourhood agree to hold in awe; his remembrance of Detective Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A police officer who investigates crimes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An investigator engaged or employed in obtaining information not easily available to the public.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket is a detective officer, Snagsby,” says the lawyer in explanation."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket, “you’ll excuse anything that may appear to be disagreeable in this, for my name’s Inspector Bucket of the Detective, and I have a duty to perform."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn’s chambers; his veneration for the mysteries presided over by that best and closest of his customers, whom all the Inns of Court, all Chancery Lane, and all the legal neighbourhood agree to hold in awe; his remembrance of Detective Mr."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # domesticate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adapt (a wild plant or unclaimed land) to the environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overcome the wildness of; make docile and tractable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"A few months previous to our trip, a contractor on the Kansas Pacific Railroad determined to domesticate a young bison bull, and accordingly took it to his home at Cincinnati."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All manner of horses, from ton Shires to dwarf Shetlands, have been bred up and down from those first wild ponies domesticated by primitive man."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I remember when with our domesticated wolves we herded our reindeer to pasture on the north shore of the Mediterranean where now are France and Italy and Spain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adapt (a wild plant or unclaimed land) to the environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overcome the wildness of; make docile and tractable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"A few months previous to our trip, a contractor on the Kansas Pacific Railroad determined to domesticate a young bison bull, and accordingly took it to his home at Cincinnati."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All manner of horses, from ton Shires to dwarf Shetlands, have been bred up and down from those first wild ponies domesticated by primitive man."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I remember when with our domesticated wolves we herded our reindeer to pasture on the north shore of the Mediterranean where now are France and Italy and Spain."*

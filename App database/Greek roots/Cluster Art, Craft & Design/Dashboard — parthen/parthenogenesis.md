@@ -5,13 +5,6 @@ status: unread
 ---
 # parthenogenesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reproduction by development of an unfertilized usually female gamete that occurs especially among lower plants and invertebrate animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reproduction by development of an unfertilized usually female gamete that occurs especially among lower plants and invertebrate animals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parthenogenesis designates reproduction by development of an unfertilized usually female gamete that occurs especially among lower plants and invertebrate animals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reproduction by development of an unfertilized usually female gamete that occurs especially among lower plants and invertebrate animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reproduction by development of an unfertilized usually female gamete that occurs especially among lower plants and invertebrate animals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parthenogenesis designates reproduction by development of an unfertilized usually female gamete that occurs especially among lower plants and invertebrate animals."*

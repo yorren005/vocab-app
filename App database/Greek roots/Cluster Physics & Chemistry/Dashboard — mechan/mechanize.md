@@ -5,15 +5,6 @@ status: unread
 ---
 # mechanize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To make mechanical; especially : to make automatic or routine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To equip with machinery especially to replace human or animal labor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"When he glanced again, he was sure it was a mechanized human like himself--and a girl!"*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"It is almost a pity you had to be mechanized."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Before the birds had attacked them, however, they had managed to get a telegraph wire in operation and learn that people were alive at Los Angeles--whether mechanized or not they were uncertain, but they thought not."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make mechanical; especially : to make automatic or routine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To equip with machinery especially to replace human or animal labor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"When he glanced again, he was sure it was a mechanized human like himself--and a girl!"*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"It is almost a pity you had to be mechanized."*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Before the birds had attacked them, however, they had managed to get a telegraph wire in operation and learn that people were alive at Los Angeles--whether mechanized or not they were uncertain, but they thought not."*

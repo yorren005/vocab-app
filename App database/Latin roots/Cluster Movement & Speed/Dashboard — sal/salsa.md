@@ -5,13 +5,6 @@ status: unread
 ---
 # salsa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spicy sauce of tomatoes and onions and chili peppers to accompany mexican foods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spicy sauce of tomatoes and onions and chili peppers to accompany mexican foods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salsa designates spicy sauce of tomatoes and onions and chili peppers to accompany mexican foods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spicy sauce of tomatoes and onions and chili peppers to accompany mexican foods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spicy sauce of tomatoes and onions and chili peppers to accompany mexican foods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salsa designates spicy sauce of tomatoes and onions and chili peppers to accompany mexican foods."*

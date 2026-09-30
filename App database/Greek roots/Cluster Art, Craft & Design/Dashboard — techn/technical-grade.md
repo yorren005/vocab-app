@@ -5,13 +5,6 @@ status: unread
 ---
 # technical-grade
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing small amounts of other chemicals, hence slightly impure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing small amounts of other chemicals, hence slightly impure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technical-grade designates containing small amounts of other chemicals, hence slightly impure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing small amounts of other chemicals, hence slightly impure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing small amounts of other chemicals, hence slightly impure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technical-grade designates containing small amounts of other chemicals, hence slightly impure."*

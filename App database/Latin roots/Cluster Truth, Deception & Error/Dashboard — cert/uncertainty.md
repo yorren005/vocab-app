@@ -5,15 +5,6 @@ status: unread
 ---
 # uncertainty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being unsettled or in doubt or dependent on chance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being unsure of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Until I know this sure uncertainty I’ll entertain the offer’d fallacy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And here remain with your uncertainty; Let every feeble rumour shake your hearts; Your enemies, with nodding of their plumes, Fan you into despair!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t say that he is not an honourable man, out of all this complication and uncertainty; I am sure he is."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being unsettled or in doubt or dependent on chance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being unsure of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Until I know this sure uncertainty I’ll entertain the offer’d fallacy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And here remain with your uncertainty; Let every feeble rumour shake your hearts; Your enemies, with nodding of their plumes, Fan you into despair!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t say that he is not an honourable man, out of all this complication and uncertainty; I am sure he is."*

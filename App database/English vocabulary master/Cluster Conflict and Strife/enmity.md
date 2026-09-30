@@ -5,20 +5,6 @@ status: unread
 ---
 # enmity
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Positive, active, and typically mutual hatred or ill will
-> 2. **Nuance / Usage**: State or feeling of opposition, hostility, hatred or animosity
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the enmity withstood the storm*), direct object (*cleaved the enmity*), or prepositional anchor (*amidst the enmity*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Harry,” he murmured—“or what enmity is, for that matter."*
-> - 📜 **John Milton (*Paradise Lost*):** *"And works of love or enmity fulfill."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"never bear malice or enmity toward thy brother."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A state or feeling of deep-seated, active, and typically mutual hatred, hostility, or ill will between adversaries.
+> 2. **Nuance / Usage**: Unlike a passing quarrel or sudden anger, *enmity* implies a settled, enduring antagonism between rival persons, families, nations, or principles.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (mass & count).
+> - **Syntactic Constructions**: Functions as an abstract noun in prepositional phrases (*at enmity with*, *bear enmity toward*) or as a direct object (*incurred the enmity of the crown*).
+> - **Collocations & Registers**: Literary, historical, and biblical registers; paired with *bitter*, *implacable*, *hereditary*, *mortal*, and *incur*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"You don't know what friendship is, Harry—or what **enmity** is, for that matter."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Strict laws imposed, to celebrate and sing, and works of love or **enmity** fulfill."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Forgive all men, and never bear malice or **enmity** toward thy brother."*

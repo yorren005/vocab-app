@@ -5,13 +5,6 @@ status: unread
 ---
 # vicereine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wife of a viceroy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Governor of a country or province who rules as the representative of his or her king or sovereign.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Our gracious and popular vicereine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wife of a viceroy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Governor of a country or province who rules as the representative of his or her king or sovereign.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Our gracious and popular vicereine."*

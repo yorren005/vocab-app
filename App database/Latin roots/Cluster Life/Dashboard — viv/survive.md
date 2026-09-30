@@ -5,15 +5,6 @@ status: unread
 ---
 # survive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Continue to live through hardship or adversity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continue in existence after (an adversity, etc.).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then if he thrive and I be cast away, The worst was this: my love was my decay. 81 Or I shall live your epitaph to make, Or you survive when I in earth am rotten, From hence your memory death cannot take, Although in me each part will be forgotten."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"France, thou shalt rue this treason with thy tears, If Talbot but survive thy treachery."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, for that dowry, I’ll assure her of Her widowhood, be it that she survive me, In all my lands and leases whatsoever."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Continue to live through hardship or adversity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continue in existence after (an adversity, etc.).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then if he thrive and I be cast away, The worst was this: my love was my decay. 81 Or I shall live your epitaph to make, Or you survive when I in earth am rotten, From hence your memory death cannot take, Although in me each part will be forgotten."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"France, thou shalt rue this treason with thy tears, If Talbot but survive thy treachery."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, for that dowry, I’ll assure her of Her widowhood, be it that she survive me, In all my lands and leases whatsoever."*

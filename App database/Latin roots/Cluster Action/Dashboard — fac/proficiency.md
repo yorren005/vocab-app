@@ -5,15 +5,6 @@ status: unread
 ---
 # proficiency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of having great facility and competence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skillfulness in the command of fundamentals deriving from practice and familiarity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Writing and accounts she was taught by her father; French by her mother: her proficiency in either was not remarkable, and she shirked her lessons in both whenever she could."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy spoke with affectionate praise of his sister’s proficiency."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"When Kalelealuaka was ten years old Kaopele began to train the lad in athletic sports and to teach him all the arts of war and combat practised throughout the islands, until he had attained great proficiency in them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of having great facility and competence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skillfulness in the command of fundamentals deriving from practice and familiarity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Writing and accounts she was taught by her father; French by her mother: her proficiency in either was not remarkable, and she shirked her lessons in both whenever she could."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy spoke with affectionate praise of his sister’s proficiency."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"When Kalelealuaka was ten years old Kaopele began to train the lad in athletic sports and to teach him all the arts of war and combat practised throughout the islands, until he had attained great proficiency in them."*

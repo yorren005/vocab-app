@@ -5,15 +5,6 @@ status: unread
 ---
 # circumstance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition that accompanies or influences some event or activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The set of facts or circumstances that surround a situation or event.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Signior Antipholus, I wonder much That you would put me to this shame and trouble, And not without some scandal to yourself, With circumstance and oaths so to deny This chain, which now you wear so openly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You speak like a green girl, Unsifted in such perilous circumstance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And can you by no drift of circumstance Get from him why he puts on this confusion, Grating so harshly all his days of quiet With turbulent and dangerous lunacy?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition that accompanies or influences some event or activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The set of facts or circumstances that surround a situation or event.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Signior Antipholus, I wonder much That you would put me to this shame and trouble, And not without some scandal to yourself, With circumstance and oaths so to deny This chain, which now you wear so openly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You speak like a green girl, Unsifted in such perilous circumstance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And can you by no drift of circumstance Get from him why he puts on this confusion, Grating so harshly all his days of quiet With turbulent and dangerous lunacy?"*

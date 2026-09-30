@@ -5,14 +5,6 @@ status: unread
 ---
 # classically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the manner of greek and roman culture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the manner of greek and roman culture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Now, as you are to have them anyway, I want to have the whole town entertain the whole Commission and Bolivar with what is classically called among us a barbecue-rally, the countryside to be invited."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Papa, we shall be late,” said Princess Hélène, turning her beautiful head and looking over her classically molded shoulder as she stood waiting by the door."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the manner of greek and roman culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the manner of greek and roman culture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Now, as you are to have them anyway, I want to have the whole town entertain the whole Commission and Bolivar with what is classically called among us a barbecue-rally, the countryside to be invited."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Papa, we shall be late,” said Princess Hélène, turning her beautiful head and looking over her classically molded shoulder as she stood waiting by the door."*

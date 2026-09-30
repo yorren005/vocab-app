@@ -5,15 +5,6 @@ status: unread
 ---
 # mend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sewing that repairs a worn or torn hole (especially in a garment).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting something in working order again.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet be most proud of that which I compile, Whose influence is thine, and born of thee, In others’ works thou dost but mend the style, And arts with thy sweet graces graced be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were it not sinful then striving to mend, To mar the subject that before was well?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And we might have a good woman born but or every blazing star, or at an earthquake, ’twould mend the lottery well; a man may draw his heart out ere he pluck one."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sewing that repairs a worn or torn hole (especially in a garment).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting something in working order again.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet be most proud of that which I compile, Whose influence is thine, and born of thee, In others’ works thou dost but mend the style, And arts with thy sweet graces graced be."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were it not sinful then striving to mend, To mar the subject that before was well?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And we might have a good woman born but or every blazing star, or at an earthquake, ’twould mend the lottery well; a man may draw his heart out ere he pluck one."*

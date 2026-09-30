@@ -5,15 +5,6 @@ status: unread
 ---
 # invisibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of not being perceivable by the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not being perceivable by the eye.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"She heard old Royce sing in the pantomime of Turko the Terrible and laughed with others when he sang: I am the boy That can enjoy Invisibility."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"As regards Judge Pyncheon’s invisibility, however, that matter will soon be remedied."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Such writing as this we have quoted renders visible the invisibilities of imaginative colour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of not being perceivable by the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not being perceivable by the eye.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"She heard old Royce sing in the pantomime of Turko the Terrible and laughed with others when he sang: I am the boy That can enjoy Invisibility."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"As regards Judge Pyncheon’s invisibility, however, that matter will soon be remedied."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Such writing as this we have quoted renders visible the invisibilities of imaginative colour."*

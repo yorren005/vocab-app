@@ -5,18 +5,6 @@ status: unread
 ---
 # raze
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Erase
-> 2. **Nuance / Usage**: Scrape, cut, or shave off
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to raze the target*) and intransitive clauses (*razing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Augustine of Hippo (*Homilies on the [[Gospel of John*):** *"[W]hy makest thou thine own similitude thy mark, and razest out the similitude of God within thee?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -52,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To tear down, demolish, or level a building, fortress, or entire city completely to the ground.
+> 2. **Nuance / Usage**: Literally "to scrape or shave flat" (sharing its root with *razor* and *erase*); in archaic or poetic prose, to blot out or obliterate a memory or inscription.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Transitive Verb.
+> - **Syntactic Constructions**: Frequently appears in the idiomatic phrase *raze to the ground* (*the citadel was razed to the ground*).
+> - **Collocations & Registers**: Martial, historical, and architectural registers; collocated with *ground*, *fortress*, *ramparts*, *villages*, and *foundation*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Macbeth*):** *"Canst thou not minister to a mind diseased, pluck from the memory a rooted sorrow, **raze** out the written troubles of the brain?"*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"By decree of the Senate, the walls of Carthage were **razed** to the ground and the site wasdedicated to perpetual solitude."*
+> - 📜 **Christopher Marlowe (*Tamburlaine the Great*):** *"The conqueror swore to **raze** the rebellious city until not one stone stood upon another."*

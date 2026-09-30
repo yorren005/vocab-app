@@ -5,15 +5,6 @@ status: unread
 ---
 # ignoble
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely lacking nobility in character or quality or purpose; ; - oliver wendell holmes, jr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not of the nobility.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SOMERSET. [_Aside_.] Perish, base prince, ignoble Duke of York!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Decrepit miser, base ignoble wretch!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, ’tis but a base ignoble mind That mounts no higher than a bird can soar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely lacking nobility in character or quality or purpose; ; - oliver wendell holmes, jr.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not of the nobility.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SOMERSET. [_Aside_.] Perish, base prince, ignoble Duke of York!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Decrepit miser, base ignoble wretch!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, ’tis but a base ignoble mind That mounts no higher than a bird can soar."*

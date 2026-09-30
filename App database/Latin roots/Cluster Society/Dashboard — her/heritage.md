@@ -5,15 +5,6 @@ status: unread
 ---
 # heritage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Practices that are handed down from the past by tradition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any attribute or immaterial possession that is inherited from ancestors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Service is no heritage, and I think I shall never have the blessing of God till I have issue of my body; for they say barnes are blessings."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"What interested him in Christian truth, and what he had, ever since he had been a student, set himself specially to expound and defend, were the great catholic doctrines which are the heritage of the one Church of Christ."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The red wrath always has undone me in all my lives; for the red wrath is my disastrous catastrophic heritage from the time of the slimy things ere the world was prime."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Practices that are handed down from the past by tradition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any attribute or immaterial possession that is inherited from ancestors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Service is no heritage, and I think I shall never have the blessing of God till I have issue of my body; for they say barnes are blessings."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"What interested him in Christian truth, and what he had, ever since he had been a student, set himself specially to expound and defend, were the great catholic doctrines which are the heritage of the one Church of Christ."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The red wrath always has undone me in all my lives; for the red wrath is my disastrous catastrophic heritage from the time of the slimy things ere the world was prime."*

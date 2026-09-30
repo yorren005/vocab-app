@@ -5,13 +5,6 @@ status: unread
 ---
 # underdevelop
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Process (a film or photographic plate) less than the required time or in an ineffective solution or at an insufficiently high temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Process (a film or photographic plate) less than the required time or in an ineffective solution or at an insufficiently high temperature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underdevelop designates process (a film or photographic plate) less than the required time or in an ineffective solution or at an insufficiently high temperature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Process (a film or photographic plate) less than the required time or in an ineffective solution or at an insufficiently high temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Process (a film or photographic plate) less than the required time or in an ineffective solution or at an insufficiently high temperature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underdevelop designates process (a film or photographic plate) less than the required time or in an ineffective solution or at an insufficiently high temperature."*

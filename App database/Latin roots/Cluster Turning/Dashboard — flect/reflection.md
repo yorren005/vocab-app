@@ -5,15 +5,6 @@ status: unread
 ---
 # reflection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A calm, lengthy, intent consideration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The phenomenon of a propagating wave (light or sound) being thrown back from a surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, as I told you always, her beauty and her brain go not together; she’s a good sign, but I have seen small reflection of her wit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SECOND LORD. [_Aside._] She shines not upon fools, lest the reflection should hurt her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, Cassius, for the eye sees not itself But by reflection, by some other thing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A calm, lengthy, intent consideration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The phenomenon of a propagating wave (light or sound) being thrown back from a surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, as I told you always, her beauty and her brain go not together; she’s a good sign, but I have seen small reflection of her wit."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SECOND LORD. [_Aside._] She shines not upon fools, lest the reflection should hurt her."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, Cassius, for the eye sees not itself But by reflection, by some other thing."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # calumniation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A false accusation of an offense or a malicious misrepresentation of someone's words or actions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A false accusation of an offense or a malicious misrepresentation of someone's words or actions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Faithful to the true principles of the Federal Union, unconscious of any designs to disturb the harmony of that Union, and anxious only to escape the fangs of despotism, the good people of this commonwealth are regardless of censure or calumniation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A false accusation of an offense or a malicious misrepresentation of someone's words or actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A false accusation of an offense or a malicious misrepresentation of someone's words or actions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Faithful to the true principles of the Federal Union, unconscious of any designs to disturb the harmony of that Union, and anxious only to escape the fangs of despotism, the good people of this commonwealth are regardless of censure or calumniation."*

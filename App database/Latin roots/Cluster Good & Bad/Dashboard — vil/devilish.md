@@ -5,15 +5,6 @@ status: unread
 ---
 # devilish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing the cunning or ingenuity or wickedness typical of a devil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Playful in an appealingly bold way.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Having thus far proceeded (Unless thou think’st me devilish) is’t not meet That I did amplify my judgement in Other conclusions?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The offer likes not; and the nimble gunner With linstock now the devilish cannon touches, [_Alarum, and chambers go off._] And down goes all before them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By devilish policy art thou grown great And, like ambitious Sylla, overgorged With gobbets of thy mother’s bleeding heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing the cunning or ingenuity or wickedness typical of a devil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Playful in an appealingly bold way.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Having thus far proceeded (Unless thou think’st me devilish) is’t not meet That I did amplify my judgement in Other conclusions?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The offer likes not; and the nimble gunner With linstock now the devilish cannon touches, [_Alarum, and chambers go off._] And down goes all before them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By devilish policy art thou grown great And, like ambitious Sylla, overgorged With gobbets of thy mother’s bleeding heart."*

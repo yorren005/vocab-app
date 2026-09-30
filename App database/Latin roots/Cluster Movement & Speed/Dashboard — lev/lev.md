@@ -5,15 +5,6 @@ status: unread
 ---
 # lev
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of money in bulgaria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic unit of money in bulgaria.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I; Rev. i. 10; Psalms cxviii. 24; Lev. xxiii. 7, 11; Mark xv. 8; Psalms lxxxiv. 10, in which Christmas is called Anti- christ’s masse, and those Masse-mongers and Papists who observe it, etc."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The rust possesses, when fresh, a peculiar odour, which is said to resemble that of orange-flowers; whence was derived its name of “sweet-smelling rust” (_Trichobasis suaveolens_, Lev.)."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"A similar circumstance may befall the student in examining the rust of labiate plants (_Trichobasis Labiatarum_, Lev.), which occurs on different species of mint, especially the water-mint, about the month of August."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of money in bulgaria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic unit of money in bulgaria.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I; Rev. i. 10; Psalms cxviii. 24; Lev. xxiii. 7, 11; Mark xv. 8; Psalms lxxxiv. 10, in which Christmas is called Anti- christ’s masse, and those Masse-mongers and Papists who observe it, etc."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The rust possesses, when fresh, a peculiar odour, which is said to resemble that of orange-flowers; whence was derived its name of “sweet-smelling rust” (_Trichobasis suaveolens_, Lev.)."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"A similar circumstance may befall the student in examining the rust of labiate plants (_Trichobasis Labiatarum_, Lev.), which occurs on different species of mint, especially the water-mint, about the month of August."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # princeling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A petty or insignificant prince who rules some unimportant principality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young prince.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, princeling designates a petty or insignificant prince who rules some unimportant principality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A petty or insignificant prince who rules some unimportant principality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young prince.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, princeling designates a petty or insignificant prince who rules some unimportant principality."*

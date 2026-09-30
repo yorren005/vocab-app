@@ -5,13 +5,6 @@ status: unread
 ---
 # biome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A major biotic community characterized by the dominant forms of plant life and the prevailing climate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major biotic community characterized by the dominant forms of plant life and the prevailing climate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biome designates a major biotic community characterized by the dominant forms of plant life and the prevailing climate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major biotic community characterized by the dominant forms of plant life and the prevailing climate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major biotic community characterized by the dominant forms of plant life and the prevailing climate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biome designates a major biotic community characterized by the dominant forms of plant life and the prevailing climate."*

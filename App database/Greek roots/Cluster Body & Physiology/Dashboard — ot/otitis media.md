@@ -5,13 +5,6 @@ status: unread
 ---
 # otitis media
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the middle ear marked especially by pain, fever, dizziness, and abnormalities in hearing; especially : acute otitis media.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infection of the middle ear that is of rapid onset and is marked by inflammation, earache, fever, decreased hearing, fluid in the middle ear, and sometimes rupture of the tympanic membrane —abbreviation AOM.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otitis media designates inflammation of the middle ear marked especially by pain, fever, dizziness, and abnormalities in hearing; especially : acute otitis media."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the middle ear marked especially by pain, fever, dizziness, and abnormalities in hearing; especially : acute otitis media.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infection of the middle ear that is of rapid onset and is marked by inflammation, earache, fever, decreased hearing, fluid in the middle ear, and sometimes rupture of the tympanic membrane —abbreviation AOM.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otitis media designates inflammation of the middle ear marked especially by pain, fever, dizziness, and abnormalities in hearing; especially : acute otitis media."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # caltrop
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical annual procumbent poisonous subshrub having fruit that splits into five spiny nutlets; serious pasture weed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant of the genus trapa bearing spiny four-pronged edible nutlike fruits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Simon, second son of the Duke of Balmoral.’ Hum! ‘Arms: Azure, three caltrops in chief over a fess sable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical annual procumbent poisonous subshrub having fruit that splits into five spiny nutlets; serious pasture weed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant of the genus trapa bearing spiny four-pronged edible nutlike fruits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Simon, second son of the Duke of Balmoral.’ Hum! ‘Arms: Azure, three caltrops in chief over a fess sable."*

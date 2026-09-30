@@ -5,15 +5,6 @@ status: unread
 ---
 # taciturnity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being uncommunicative; not volunteering anything more than necessary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being uncommunicative; not volunteering anything more than necessary.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good, good, my lord, the secrets of neighbour Pandar Have not more gift in taciturnity. [_Exeunt Troilus and Aeneas_.] PANDARUS."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The next day, which was Sunday, passed nearly in the same manner as regarded their taciturnity, Bathsheba going to church both morning and afternoon."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The band of silver paleness along the east horizon made even the distant parts of the Great Plain appear dark and near; and the whole enormous landscape bore that impress of reserve, taciturnity, and hesitation which is usual just before day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being uncommunicative; not volunteering anything more than necessary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being uncommunicative; not volunteering anything more than necessary.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good, good, my lord, the secrets of neighbour Pandar Have not more gift in taciturnity. [_Exeunt Troilus and Aeneas_.] PANDARUS."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The next day, which was Sunday, passed nearly in the same manner as regarded their taciturnity, Bathsheba going to church both morning and afternoon."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The band of silver paleness along the east horizon made even the distant parts of the Great Plain appear dark and near; and the whole enormous landscape bore that impress of reserve, taciturnity, and hesitation which is usual just before day."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # fertility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ratio of live births in an area to the population of that area; expressed per 1000 population per year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being fertile; capable of producing offspring.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, she hath from France too long been chas’d, And all her husbandry doth lie on heaps, Corrupting in it own fertility."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You thus employed, I will go root away The noisome weeds which without profit suck The soil’s fertility from wholesome flowers."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The assumption, however, that the use of the food in this country preserves the fertility of our own fields is in the main mistaken."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ratio of live births in an area to the population of that area; expressed per 1000 population per year.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being fertile; capable of producing offspring.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, she hath from France too long been chas’d, And all her husbandry doth lie on heaps, Corrupting in it own fertility."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You thus employed, I will go root away The noisome weeds which without profit suck The soil’s fertility from wholesome flowers."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The assumption, however, that the use of the food in this country preserves the fertility of our own fields is in the main mistaken."*

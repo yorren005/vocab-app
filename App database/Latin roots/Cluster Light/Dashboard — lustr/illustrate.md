@@ -5,15 +5,6 @@ status: unread
 ---
 # illustrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clarify by giving an example of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Depict with an illustration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But his body And fiery mind illustrate a brave father."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"They illustrate most beautifully the blessed way in which the Savior's everlasting arms are around, strengthening, and His presence comforting His weak and helpless ones, in all their little as well as great trials of life."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"May He who said, He that giveth a cup of cold water to a disciple, in the name of a disciple, shall not lose his reward, repay you a thousand-fold for this favor.' "Does not this little incident illustrate the power of prayer?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clarify by giving an example of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Depict with an illustration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But his body And fiery mind illustrate a brave father."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"They illustrate most beautifully the blessed way in which the Savior's everlasting arms are around, strengthening, and His presence comforting His weak and helpless ones, in all their little as well as great trials of life."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"May He who said, He that giveth a cup of cold water to a disciple, in the name of a disciple, shall not lose his reward, repay you a thousand-fold for this favor.' "Does not this little incident illustrate the power of prayer?"*

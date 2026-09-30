@@ -5,15 +5,6 @@ status: unread
 ---
 # evolve
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo development or evolution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The superadded circumstance which would evolve the genius had not yet come; the universe had not yet beckoned."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I had intended to do that anyway, for if I am to evolve the real American garden."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In short, our dispersed civilizations must have access to sources for minerals and other industrial substances, not only now but in perpetuity, in order to survive and evolve."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Work out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo development or evolution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"The superadded circumstance which would evolve the genius had not yet come; the universe had not yet beckoned."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I had intended to do that anyway, for if I am to evolve the real American garden."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In short, our dispersed civilizations must have access to sources for minerals and other industrial substances, not only now but in perpetuity, in order to survive and evolve."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # physiologic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or consistent with an organism's normal functioning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or consistent with an organism's normal functioning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physiologic designates of or consistent with an organism's normal functioning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or consistent with an organism's normal functioning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or consistent with an organism's normal functioning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physiologic designates of or consistent with an organism's normal functioning."*

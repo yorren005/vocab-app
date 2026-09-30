@@ -5,13 +5,6 @@ status: unread
 ---
 # gestate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have the idea for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be pregnant with.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gestate designates have the idea for."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have the idea for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be pregnant with.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gestate designates have the idea for."*

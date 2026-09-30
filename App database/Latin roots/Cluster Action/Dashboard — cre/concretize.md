@@ -5,13 +5,6 @@ status: unread
 ---
 # concretize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make something concrete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become specific.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concretize designates make something concrete."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make something concrete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become specific.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concretize designates make something concrete."*

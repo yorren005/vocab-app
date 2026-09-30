@@ -5,13 +5,6 @@ status: unread
 ---
 # advisement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Careful consideration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Careful consideration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Blythe Bessie in the milking shiel, Says—“I’ll be wed, come o’t what will”: Out spake a dame in wrinkled eild; “O’ gude advisement comes nae ill."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Careful consideration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Careful consideration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Blythe Bessie in the milking shiel, Says—“I’ll be wed, come o’t what will”: Out spake a dame in wrinkled eild; “O’ gude advisement comes nae ill."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # demoniacal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Frenzied as if possessed by a demon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frenzied as if possessed by a demon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Then Clare, thrown by sheer misery into one of the demoniacal moods in which a man does despite to his true principles, called her close to him, and fiendishly whispered in her ear the most heterodox ideas he could think of."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"In a hurricane the sea is never rough, but the surface is one seething mass of foam, with a blinding mist; and the wind shrieks with demoniacal laughter, as if mercilessly proud of its might."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"The demoniacal passion of this Neville Landless, his strength in his fury, and his savage rage for the destruction of its object, appal me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Frenzied as if possessed by a demon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frenzied as if possessed by a demon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Then Clare, thrown by sheer misery into one of the demoniacal moods in which a man does despite to his true principles, called her close to him, and fiendishly whispered in her ear the most heterodox ideas he could think of."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"In a hurricane the sea is never rough, but the surface is one seething mass of foam, with a blinding mist; and the wind shrieks with demoniacal laughter, as if mercilessly proud of its might."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"The demoniacal passion of this Neville Landless, his strength in his fury, and his savage rage for the destruction of its object, appal me."*

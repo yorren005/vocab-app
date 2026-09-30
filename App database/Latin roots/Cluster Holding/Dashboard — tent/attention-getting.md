@@ -5,13 +5,6 @@ status: unread
 ---
 # attention-getting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seizing the attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Likely to attract attention.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attention-getting designates seizing the attention."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Seizing the attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Likely to attract attention.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attention-getting designates seizing the attention."*

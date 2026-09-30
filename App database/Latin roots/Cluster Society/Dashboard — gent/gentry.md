@@ -5,15 +5,6 @@ status: unread
 ---
 # gentry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The most powerful members of a society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The most powerful members of a society.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It well may serve A nursery to our gentry, who are sick For breathing and exploit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, he would miss it rather Than carry it but by the suit of the gentry to him And the desire of the nobles."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Coriolanus, Menenius, all the Gentry, Cominius, Titus Lartius and other Senators."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The most powerful members of a society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The most powerful members of a society.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It well may serve A nursery to our gentry, who are sick For breathing and exploit."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, he would miss it rather Than carry it but by the suit of the gentry to him And the desire of the nobles."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Coriolanus, Menenius, all the Gentry, Cominius, Titus Lartius and other Senators."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # multiracial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Made up of or involving or acting on behalf of various races.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Made up of or involving or acting on behalf of various races.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiracial designates made up of or involving or acting on behalf of various races."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made up of or involving or acting on behalf of various races.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Made up of or involving or acting on behalf of various races.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, multiracial designates made up of or involving or acting on behalf of various races."*

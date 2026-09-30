@@ -5,15 +5,6 @@ status: unread
 ---
 # integrity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An undivided or unbroken completeness or totality with nothing wanting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moral soundness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love is holy; And my integrity ne’er knew the crafts That you do charge men with."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your dishonour Mangles true judgment and bereaves the state Of that integrity which should become’t, Not having the power to do the good it would For th’ ill which doth control’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your daughter, whom she bore in hand to love With such integrity, she did confess Was as a scorpion to her sight; whose life, But that her flight prevented it, she had Ta’en off by poison."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An undivided or unbroken completeness or totality with nothing wanting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moral soundness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love is holy; And my integrity ne’er knew the crafts That you do charge men with."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your dishonour Mangles true judgment and bereaves the state Of that integrity which should become’t, Not having the power to do the good it would For th’ ill which doth control’t."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your daughter, whom she bore in hand to love With such integrity, she did confess Was as a scorpion to her sight; whose life, But that her flight prevented it, she had Ta’en off by poison."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # compositional
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranging or grouping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arranging or grouping.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, compositional designates arranging or grouping."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranging or grouping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arranging or grouping.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, compositional designates arranging or grouping."*

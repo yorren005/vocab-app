@@ -5,15 +5,6 @@ status: unread
 ---
 # idyllic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing or picturesque in natural simplicity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being an idyll.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He had entertained no notion, when doomed as he had thought to an unintellectual bucolic life, that such charms as he beheld in this idyllic creature would be found behind the scenes."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Agnes, which is one of those idyllic villages that people write books about, and there I found an Odd-fellows' fete in full swing."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"The man was not wholly evil; he loved flowers (I have been told) and sweet music (he was himself no mean performer on the harpsichord); and, let it be frankly admitted, the idyllic nature of the scene stirred him profoundly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing or picturesque in natural simplicity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being an idyll.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He had entertained no notion, when doomed as he had thought to an unintellectual bucolic life, that such charms as he beheld in this idyllic creature would be found behind the scenes."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Agnes, which is one of those idyllic villages that people write books about, and there I found an Odd-fellows' fete in full swing."*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"The man was not wholly evil; he loved flowers (I have been told) and sweet music (he was himself no mean performer on the harpsichord); and, let it be frankly admitted, the idyllic nature of the scene stirred him profoundly."*

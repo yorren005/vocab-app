@@ -5,13 +5,6 @@ status: unread
 ---
 # deice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make or become free of frost or ice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make or become free of frost or ice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deice designates make or become free of frost or ice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make or become free of frost or ice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make or become free of frost or ice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deice designates make or become free of frost or ice."*

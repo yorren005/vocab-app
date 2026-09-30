@@ -5,15 +5,6 @@ status: unread
 ---
 # vitiated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make imperfect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Hers are faults of principle, Fanny; of blunted delicacy and a corrupted, vitiated mind."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There was excellent blood in his veins—royal stuff; though sadly vitiated, I fear, by the cannibal propensity he nourished in his untutored youth."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Besides, to work was to quit the _Nautilus_, and breathe directly the pure air drawn from the reservoirs, and supplied by our apparatus, and to quit the impoverished and vitiated atmosphere."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make imperfect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Hers are faults of principle, Fanny; of blunted delicacy and a corrupted, vitiated mind."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There was excellent blood in his veins—royal stuff; though sadly vitiated, I fear, by the cannibal propensity he nourished in his untutored youth."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Besides, to work was to quit the _Nautilus_, and breathe directly the pure air drawn from the reservoirs, and supplied by our apparatus, and to quit the impoverished and vitiated atmosphere."*

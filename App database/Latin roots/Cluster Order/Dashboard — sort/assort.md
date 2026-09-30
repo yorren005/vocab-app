@@ -5,15 +5,6 @@ status: unread
 ---
 # assort
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep company with; hang out with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange or order by classes or categories.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Never can there come fog too thick, never can there come mud and mire too deep, to assort with the groping and floundering condition which this High Court of Chancery, most pestilent of hoary sinners, holds this day in the sight of heaven and earth."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"No more need of our daily Committee and their pleasant aids, to unpack and assort supplies for our sick and wounded."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Falcon, steering straight for some chairs he had discovered, brought them for the ladies despite all the assorted objects on the floor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep company with; hang out with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange or order by classes or categories.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Never can there come fog too thick, never can there come mud and mire too deep, to assort with the groping and floundering condition which this High Court of Chancery, most pestilent of hoary sinners, holds this day in the sight of heaven and earth."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"No more need of our daily Committee and their pleasant aids, to unpack and assort supplies for our sick and wounded."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Falcon, steering straight for some chairs he had discovered, brought them for the ladies despite all the assorted objects on the floor."*

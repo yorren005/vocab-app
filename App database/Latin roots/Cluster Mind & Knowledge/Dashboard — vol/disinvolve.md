@@ -5,13 +5,6 @@ status: unread
 ---
 # disinvolve
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from involvement or entanglement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from involvement or entanglement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disinvolve designates free from involvement or entanglement."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from involvement or entanglement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from involvement or entanglement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disinvolve designates free from involvement or entanglement."*

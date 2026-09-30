@@ -5,15 +5,6 @@ status: unread
 ---
 # valorous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing valor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing valor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art as valorous as Hector of Troy, worth five of Agamemnon, and ten times better than the Nine Worthies."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He gives you upon his knees, a thousand thanks; and he esteems himself happy that he hath fallen into the hands of one, as he thinks, the most brave, valorous, and thrice-worthy _seigneur_ of England."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He had no wife, no child; had achieved no valorous unselfish deed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing valor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing valor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art as valorous as Hector of Troy, worth five of Agamemnon, and ten times better than the Nine Worthies."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He gives you upon his knees, a thousand thanks; and he esteems himself happy that he hath fallen into the hands of one, as he thinks, the most brave, valorous, and thrice-worthy _seigneur_ of England."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He had no wife, no child; had achieved no valorous unselfish deed."*

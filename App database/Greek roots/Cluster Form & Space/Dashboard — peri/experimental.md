@@ -5,15 +5,6 @@ status: unread
 ---
 # experimental
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or based on experiment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relying on observation or experiment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Call me a fool; Trust not my reading nor my observations, Which with experimental seal doth warrant The tenure of my book; trust not my age, My reverence, calling, nor divinity, If this sweet lady lie not guiltless here Under some biting error."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Badger and entered on an experimental course of Messrs."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"His departure gave Catherine the first experimental conviction that a loss may be sometimes a gain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or based on experiment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relying on observation or experiment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Call me a fool; Trust not my reading nor my observations, Which with experimental seal doth warrant The tenure of my book; trust not my age, My reverence, calling, nor divinity, If this sweet lady lie not guiltless here Under some biting error."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Badger and entered on an experimental course of Messrs."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"His departure gave Catherine the first experimental conviction that a loss may be sometimes a gain."*

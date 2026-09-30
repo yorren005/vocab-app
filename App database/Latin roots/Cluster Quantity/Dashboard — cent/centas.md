@@ -5,13 +5,6 @@ status: unread
 ---
 # centas
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 100 centas equal 1 litas in lithuania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 100 centas equal 1 litas in lithuania.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centas designates 100 centas equal 1 litas in lithuania."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: 100 centas equal 1 litas in lithuania.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 100 centas equal 1 litas in lithuania.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centas designates 100 centas equal 1 litas in lithuania."*

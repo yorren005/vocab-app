@@ -5,15 +5,6 @@ status: unread
 ---
 # influence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A power to affect persons or events especially power based on prestige etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing something without any direct or apparent effort.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That this huge stage presenteth nought but shows Whereon the stars in secret influence comment."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet be most proud of that which I compile, Whose influence is thine, and born of thee, In others’ works thou dost but mend the style, And arts with thy sweet graces graced be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be more expressive to them; for they wear themselves in the cap of the time; there do muster true gait; eat, speak, and move, under the influence of the most receiv’d star; and though the devil lead the measure, such are to be followed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A power to affect persons or events especially power based on prestige etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing something without any direct or apparent effort.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That this huge stage presenteth nought but shows Whereon the stars in secret influence comment."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet be most proud of that which I compile, Whose influence is thine, and born of thee, In others’ works thou dost but mend the style, And arts with thy sweet graces graced be."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be more expressive to them; for they wear themselves in the cap of the time; there do muster true gait; eat, speak, and move, under the influence of the most receiv’d star; and though the devil lead the measure, such are to be followed."*

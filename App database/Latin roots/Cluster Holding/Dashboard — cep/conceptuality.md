@@ -5,13 +5,6 @@ status: unread
 ---
 # conceptuality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elaborated concept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An elaborated concept.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conceptuality designates an elaborated concept."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elaborated concept.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An elaborated concept.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conceptuality designates an elaborated concept."*

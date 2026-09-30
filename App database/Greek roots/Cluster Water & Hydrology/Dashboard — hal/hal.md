@@ -5,15 +5,6 @@ status: unread
 ---
 # hal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of salt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of salt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, Hal, what time of day is it, lad?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, you come near me now, Hal, for we that take purses go by the moon and the seven stars, and not by Phœbus, he, that wand’ring knight so fair."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, Hal, well; and in some sort it jumps with my humour, as well as waiting in the court, I can tell you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of salt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of salt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, Hal, what time of day is it, lad?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, you come near me now, Hal, for we that take purses go by the moon and the seven stars, and not by Phœbus, he, that wand’ring knight so fair."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, Hal, well; and in some sort it jumps with my humour, as well as waiting in the court, I can tell you."*

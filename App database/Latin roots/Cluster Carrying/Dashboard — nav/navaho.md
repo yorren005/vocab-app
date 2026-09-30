@@ -5,13 +5,6 @@ status: unread
 ---
 # navaho
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an athapaskan people that migrated to arizona and new mexico and utah.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The athapaskan language spoken by the navaho.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, navaho designates a member of an athapaskan people that migrated to arizona and new mexico and utah."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an athapaskan people that migrated to arizona and new mexico and utah.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The athapaskan language spoken by the navaho.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, navaho designates a member of an athapaskan people that migrated to arizona and new mexico and utah."*

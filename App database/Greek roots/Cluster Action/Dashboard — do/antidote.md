@@ -5,15 +5,6 @@ status: unread
 ---
 # antidote
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A remedy to counteract the effects of poison.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that relieves, prevents, or counteracts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Recant what you have said, ye Mungrils, and lick up the vomit ye have cast upon the Court, where you unworthily have had warmth and breeding, and swear that you, like Spiders, have made poison of that which was a saving Antidote. _Egre_."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Antidote, or--. p. 51, l. 4. are reformd. l. 28."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A very gross superstition is observed by some people in Angus, as an antidote against this ill."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A remedy to counteract the effects of poison.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that relieves, prevents, or counteracts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Recant what you have said, ye Mungrils, and lick up the vomit ye have cast upon the Court, where you unworthily have had warmth and breeding, and swear that you, like Spiders, have made poison of that which was a saving Antidote. _Egre_."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Antidote, or--. p. 51, l. 4. are reformd. l. 28."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A very gross superstition is observed by some people in Angus, as an antidote against this ill."*

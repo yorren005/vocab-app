@@ -5,15 +5,6 @@ status: unread
 ---
 # forties
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The time of life between 40 and 50.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The decade from 1940 to 1949.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Indeed, until the early Forties of last century, such a thing was scarcely known."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Here we leave, for the most part, the dreamy pictures of island life, and find ourselves sharing the extremely realistic discomforts of a Sydney whaler in the early forties."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He was a man apparently in the middle forties; tall and reasonably broad across the shoulders; muscular without being either stout or lean."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The time of life between 40 and 50.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The decade from 1940 to 1949.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Indeed, until the early Forties of last century, such a thing was scarcely known."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Here we leave, for the most part, the dreamy pictures of island life, and find ourselves sharing the extremely realistic discomforts of a Sydney whaler in the early forties."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He was a man apparently in the middle forties; tall and reasonably broad across the shoulders; muscular without being either stout or lean."*

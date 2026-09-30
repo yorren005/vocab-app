@@ -5,15 +5,6 @@ status: unread
 ---
 # impossibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapability of existing or occurring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alternative that is not available.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks in thee some blessed spirit doth speak His powerful sound within an organ weak; And what impossibility would slay In common sense, sense saves another way."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What the devil should move me to undertake the recovery of this drum, being not ignorant of the impossibility, and knowing I had no such purpose?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then let the mutinous winds Strike the proud cedars ’gainst the fiery sun, Murdering impossibility to make What cannot be slight work."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapability of existing or occurring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alternative that is not available.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks in thee some blessed spirit doth speak His powerful sound within an organ weak; And what impossibility would slay In common sense, sense saves another way."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What the devil should move me to undertake the recovery of this drum, being not ignorant of the impossibility, and knowing I had no such purpose?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then let the mutinous winds Strike the proud cedars ’gainst the fiery sun, Murdering impossibility to make What cannot be slight work."*

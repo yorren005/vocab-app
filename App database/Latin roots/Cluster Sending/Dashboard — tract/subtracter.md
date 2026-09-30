@@ -5,13 +5,6 @@ status: unread
 ---
 # subtracter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who subtracts numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A machine that subtracts numbers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subtracter designates a person who subtracts numbers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who subtracts numbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A machine that subtracts numbers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subtracter designates a person who subtracts numbers."*

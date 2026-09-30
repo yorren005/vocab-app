@@ -5,13 +5,6 @@ status: unread
 ---
 # demonetization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ending something (e.g. gold or silver) as no longer the legal tender of a country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ending something (e.g. gold or silver) as no longer the legal tender of a country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Note carefully, and indicate the different meanings of bimetallism; of demonetization. 8."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ending something (e.g. gold or silver) as no longer the legal tender of a country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ending something (e.g. gold or silver) as no longer the legal tender of a country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Note carefully, and indicate the different meanings of bimetallism; of demonetization. 8."*

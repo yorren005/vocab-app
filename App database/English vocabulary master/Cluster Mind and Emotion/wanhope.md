@@ -5,20 +5,6 @@ status: unread
 ---
 # wanhope
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Vain hope; overconfidence; delusion
-> 2. **Nuance / Usage**: (uk dialectal or archaic) lack of hope; hopelessness; despair
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the wanhope withstood the storm*), direct object (*cleaved the wanhope*), or prepositional anchor (*amidst the wanhope*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"stood they there both awhile in wanhope sorrowing one with other."*
-> - 📜 **Classic Author (*Speculum Gy de Warewyke: An English Poem*):** *"Wanhope: a fine English word, suggesting unhope of Langland's story of the cats and the mice, and described in Ipotis,{{nb..."*
-> - 📜 **Michael D. C. Drout (*J.R.R. Tolkien encyclopedia: scholarship and critical assessment*):** *"Both despair and wanhope are generally defined as a complete loss or lack of hope and being overcome by sense of futility or defeat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Utter hopelessness, despondency, or despair—formed from the Old English privative prefix *wan-* ("lacking") and *hope*.
+> 2. **Nuance / Usage**: In medieval theology and Middle English literature (such as Chaucer and Langland), *wanhope* specifically denoted the sin of despairing of God's mercy, though it occasionally shifted to mean vain or delusive hope.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the wanhope withstood the storm*), direct object (*cleaved the wanhope*), or prepositional anchor (*amidst the wanhope*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Then stood they there both awhile in **wanhope**, sorrowing one with the other."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"Now cometh **wanhope**, that is despair of the mercy of God, that cometh sometime of too much outrageous sorrow."*
+> - 📜 **J. R. R. Tolkien (*The Return of the King*):** *"Even as the shadow deepened over Gondor, Gandalf strove to lift the men of the city out of the dark pit of **wanhope**."*

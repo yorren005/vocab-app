@@ -5,13 +5,6 @@ status: unread
 ---
 # globe-trot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Travel all over the world for pleasure and sightseeing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travel all over the world for pleasure and sightseeing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, globe-trot designates travel all over the world for pleasure and sightseeing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Travel all over the world for pleasure and sightseeing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travel all over the world for pleasure and sightseeing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, globe-trot designates travel all over the world for pleasure and sightseeing."*

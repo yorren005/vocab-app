@@ -5,15 +5,6 @@ status: unread
 ---
 # triviality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being unimportant and petty or frivolous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A detail that is considered insignificant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Helen Burns asked some slight question about her work of Miss Smith, was chidden for the triviality of the inquiry, returned to her place, and smiled at me as she again went by."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"That is to say, it was not a mindless triviality, but the genuine child's power of investing little things with imaginative interest; the same power, though differently devoted, which produced much of his poetry."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon would support such triviality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being unimportant and petty or frivolous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A detail that is considered insignificant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Helen Burns asked some slight question about her work of Miss Smith, was chidden for the triviality of the inquiry, returned to her place, and smiled at me as she again went by."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"That is to say, it was not a mindless triviality, but the genuine child's power of investing little things with imaginative interest; the same power, though differently devoted, which produced much of his poetry."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon would support such triviality."*

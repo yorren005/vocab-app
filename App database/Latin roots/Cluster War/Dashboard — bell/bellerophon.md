@@ -5,13 +5,6 @@ status: unread
 ---
 # bellerophon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a mythical hero of corinth who performed miracles on the winged horse pegasus (especially killing the monster chimera).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a mythical hero of corinth who performed miracles on the winged horse pegasus (especially killing the monster chimera).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"VINCENT," AND "BELLEROPHON" EXERCISING IN THE FLOW 66 H.M.S."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a mythical hero of corinth who performed miracles on the winged horse pegasus (especially killing the monster chimera).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a mythical hero of corinth who performed miracles on the winged horse pegasus (especially killing the monster chimera).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"VINCENT," AND "BELLEROPHON" EXERCISING IN THE FLOW 66 H.M.S."*

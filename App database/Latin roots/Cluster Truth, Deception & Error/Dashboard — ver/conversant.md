@@ -5,15 +5,6 @@ status: unread
 ---
 # conversant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually followed by `with') well informed about or knowing thoroughly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually followed by `with') well informed about or knowing thoroughly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I much marvel that your lordship, having Rich tire about you, should at these early hours Shake off the golden slumber of repose. ’Tis most strange, Nature should be so conversant with pain."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I want my daughters to become thorough housekeepers, conversant with all the details of every branch of the business."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But my life for it he was either practically conversant with his subject, or else marvellously tutored by some experienced whaleman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually followed by `with') well informed about or knowing thoroughly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually followed by `with') well informed about or knowing thoroughly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I much marvel that your lordship, having Rich tire about you, should at these early hours Shake off the golden slumber of repose. ’Tis most strange, Nature should be so conversant with pain."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I want my daughters to become thorough housekeepers, conversant with all the details of every branch of the business."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But my life for it he was either practically conversant with his subject, or else marvellously tutored by some experienced whaleman."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # replenishment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Filling again by supplying what has been used up.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filling again by supplying what has been used up.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Fully aware that vital minerals and other substances were beyond replenishment from within the Solar System, the solar community nevertheless squandered its rapidly diminishing resources."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Filling again by supplying what has been used up.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filling again by supplying what has been used up.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Fully aware that vital minerals and other substances were beyond replenishment from within the Solar System, the solar community nevertheless squandered its rapidly diminishing resources."*

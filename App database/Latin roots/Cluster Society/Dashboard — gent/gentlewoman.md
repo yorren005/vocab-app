@@ -5,15 +5,6 @@ status: unread
 ---
 # gentlewoman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman of refinement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman of refinement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HELENA, a Gentlewoman protected by the Countess."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This young gentlewoman had a father—O that “had!”, how sad a passage ’tis!—whose skill was almost as great as his honesty; had it stretch’d so far, would have made nature immortal, and death should have play for lack of work."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Was this gentlewoman the daughter of Gerard de Narbon?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman of refinement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman of refinement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HELENA, a Gentlewoman protected by the Countess."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This young gentlewoman had a father—O that “had!”, how sad a passage ’tis!—whose skill was almost as great as his honesty; had it stretch’d so far, would have made nature immortal, and death should have play for lack of work."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Was this gentlewoman the daughter of Gerard de Narbon?"*

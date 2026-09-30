@@ -5,15 +5,6 @@ status: unread
 ---
 # sonnet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A verse form consisting of 14 lines with a fixed rhyme scheme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Praise in a sonnet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Captain, will you give me a copy of the sonnet you writ to Diana in behalf of the Count Rossillon?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I once writ a sonnet in his praise and began thus: “Wonder of nature,”— ORLEANS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard a sonnet begin so to one’s mistress."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A verse form consisting of 14 lines with a fixed rhyme scheme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Praise in a sonnet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Captain, will you give me a copy of the sonnet you writ to Diana in behalf of the Count Rossillon?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I once writ a sonnet in his praise and began thus: “Wonder of nature,”— ORLEANS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard a sonnet begin so to one’s mistress."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # adduce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Advance evidence for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advance evidence for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"However, the case is not so clear as to justify us in dismissing the solar theory without discussion, and accordingly I propose to adduce the considerations which tell for it before proceeding to notice those which tell against it."*
-> - 📜 **Bram Stoker (*Dracula*):** *"There is no evidence to adduce; and whether or not the man himself committed the murders there is now none to say."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"With these explanations and cautions I will now adduce some examples of gods who have been believed by their worshippers to be incarnate in living human beings, whether men or women."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Advance evidence for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advance evidence for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"However, the case is not so clear as to justify us in dismissing the solar theory without discussion, and accordingly I propose to adduce the considerations which tell for it before proceeding to notice those which tell against it."*
+> - 📜 **Bram Stoker (*Dracula*):** *"There is no evidence to adduce; and whether or not the man himself committed the murders there is now none to say."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"With these explanations and cautions I will now adduce some examples of gods who have been believed by their worshippers to be incarnate in living human beings, whether men or women."*

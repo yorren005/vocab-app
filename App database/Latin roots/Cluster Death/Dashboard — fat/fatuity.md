@@ -5,15 +5,6 @@ status: unread
 ---
 # fatuity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ludicrous folly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ludicrous folly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"There are depths of fatuity in me, friend o’ my soul, which are simply bottomless!"*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"The girl moreover was not prone to take for granted that she herself lived in the mind of others--she had not the fatuity to believe she left indelible traces."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Jasper was sent for, the watch and shirt-pin were identified, Neville was detained, and the wildest frenzy and fatuity of evil report rose against him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ludicrous folly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ludicrous folly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"There are depths of fatuity in me, friend o’ my soul, which are simply bottomless!"*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"The girl moreover was not prone to take for granted that she herself lived in the mind of others--she had not the fatuity to believe she left indelible traces."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Jasper was sent for, the watch and shirt-pin were identified, Neville was detained, and the wildest frenzy and fatuity of evil report rose against him."*

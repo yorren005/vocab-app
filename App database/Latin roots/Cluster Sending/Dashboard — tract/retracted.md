@@ -5,15 +5,6 @@ status: unread
 ---
 # retracted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formally reject or disavow a formerly held belief, usually under pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pull away from a source of disgust or fear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Of what he had then written, nothing was to be retracted or qualified."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Setting her own inclination apart, to have failed a second time in her engagement to Miss Tilney, to have retracted a promise voluntarily made only five minutes before, and on a false pretence too, must have been wrong."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A click and the heavy door retracted into the adjacent bulkhead."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formally reject or disavow a formerly held belief, usually under pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pull away from a source of disgust or fear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Of what he had then written, nothing was to be retracted or qualified."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Setting her own inclination apart, to have failed a second time in her engagement to Miss Tilney, to have retracted a promise voluntarily made only five minutes before, and on a false pretence too, must have been wrong."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A click and the heavy door retracted into the adjacent bulkhead."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # zoning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dividing an area into zones or sections reserved for different purposes such as residence and business and manufacturing etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regulate housing in; of certain areas of towns.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zoning designates dividing an area into zones or sections reserved for different purposes such as residence and business and manufacturing etc."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dividing an area into zones or sections reserved for different purposes such as residence and business and manufacturing etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regulate housing in; of certain areas of towns.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zoning designates dividing an area into zones or sections reserved for different purposes such as residence and business and manufacturing etc."*

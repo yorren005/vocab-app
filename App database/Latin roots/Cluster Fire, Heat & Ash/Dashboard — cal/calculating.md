@@ -5,15 +5,6 @@ status: unread
 ---
 # calculating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a mathematical calculation or computation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judge to be probable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"George is so occupied with the almanac over the fire-place (calculating the coming months by it perhaps) that he does not look round until she has gone away and the door is closed upon her."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She had passed the last milestone by a good long distance, and began to look wistfully towards the bank as if calculating upon another milestone soon."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Nothing of course to speak of—twenty thousand pounds, I think they say—but what is that?” “Twenty thousand pounds?” Here was a new stunner—I had been calculating on four or five thousand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a mathematical calculation or computation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judge to be probable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"George is so occupied with the almanac over the fire-place (calculating the coming months by it perhaps) that he does not look round until she has gone away and the door is closed upon her."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She had passed the last milestone by a good long distance, and began to look wistfully towards the bank as if calculating upon another milestone soon."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Nothing of course to speak of—twenty thousand pounds, I think they say—but what is that?” “Twenty thousand pounds?” Here was a new stunner—I had been calculating on four or five thousand."*

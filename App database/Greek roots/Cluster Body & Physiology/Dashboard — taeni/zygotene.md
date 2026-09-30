@@ -5,13 +5,6 @@ status: unread
 ---
 # zygotene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The stage of meiotic prophase which immediately follows the leptotene and during which synapsis of homologous chromosomes occurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The stage of meiotic prophase which immediately follows the leptotene and during which synapsis of homologous chromosomes occurs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zygotene designates the stage of meiotic prophase which immediately follows the leptotene and during which synapsis of homologous chromosomes occurs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The stage of meiotic prophase which immediately follows the leptotene and during which synapsis of homologous chromosomes occurs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The stage of meiotic prophase which immediately follows the leptotene and during which synapsis of homologous chromosomes occurs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zygotene designates the stage of meiotic prophase which immediately follows the leptotene and during which synapsis of homologous chromosomes occurs."*

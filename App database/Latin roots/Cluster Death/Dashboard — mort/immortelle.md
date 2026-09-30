@@ -5,14 +5,6 @@ status: unread
 ---
 # immortelle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly widely cultivated species of everlasting flowers having usually purple flowers; southern europe to iran; naturalized elsewhere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly widely cultivated species of everlasting flowers having usually purple flowers; southern europe to iran; naturalized elsewhere.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Vain 'scutcheon, false trophies of Mars and Diana,-- Can the dead laurel sprout with the live immortelle?"*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A market of flowers is held in an open square and on the chief bridge over the river; here wreaths of immortelles, which grow wild in the meadows and woods, are sold in great profusion and deck the houses of Riga for long afterwards."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly widely cultivated species of everlasting flowers having usually purple flowers; southern europe to iran; naturalized elsewhere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly widely cultivated species of everlasting flowers having usually purple flowers; southern europe to iran; naturalized elsewhere.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Vain 'scutcheon, false trophies of Mars and Diana,-- Can the dead laurel sprout with the live immortelle?"*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A market of flowers is held in an open square and on the chief bridge over the river; here wreaths of immortelles, which grow wild in the meadows and woods, are sold in great profusion and deck the houses of Riga for long afterwards."*

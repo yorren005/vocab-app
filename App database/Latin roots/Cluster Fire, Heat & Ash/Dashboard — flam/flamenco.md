@@ -5,13 +5,6 @@ status: unread
 ---
 # flamenco
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Guitar music composed for dancing the flamenco.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A style of dancing characteristic of the andalusian gypsies; vigorous and rhythmic with clapping and stamping of feet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flamenco designates guitar music composed for dancing the flamenco."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Guitar music composed for dancing the flamenco.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A style of dancing characteristic of the andalusian gypsies; vigorous and rhythmic with clapping and stamping of feet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flamenco designates guitar music composed for dancing the flamenco."*

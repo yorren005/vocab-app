@@ -5,13 +5,6 @@ status: unread
 ---
 # phonology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the sound system of a given language and the analysis and classification of its phonemes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the sound system of a given language and the analysis and classification of its phonemes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonology designates the study of the sound system of a given language and the analysis and classification of its phonemes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the sound system of a given language and the analysis and classification of its phonemes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the sound system of a given language and the analysis and classification of its phonemes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phonology designates the study of the sound system of a given language and the analysis and classification of its phonemes."*

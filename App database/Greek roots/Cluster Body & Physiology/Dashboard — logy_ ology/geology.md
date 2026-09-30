@@ -5,15 +5,6 @@ status: unread
 ---
 # geology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with the history of the earth as recorded in rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science that deals with the history of the earth as recorded in rocks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The details as to our metal stores are too complex for fuller treatment here, and may be found in treatises on economic geology or on industrial geography."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Geology once unsettled people about Genesis; but closer study of the Bible and of science has given truer views of both, and thinking people are as little troubled about geology now as about Copernican astronomy."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Then, again, he was not content with abstract generalities: he was always trying to enforce his views by facts industriously collected from such books of medicine, anatomy, geology, astronomy, chemistry, and history as he could get hold of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with the history of the earth as recorded in rocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A science that deals with the history of the earth as recorded in rocks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The details as to our metal stores are too complex for fuller treatment here, and may be found in treatises on economic geology or on industrial geography."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Geology once unsettled people about Genesis; but closer study of the Bible and of science has given truer views of both, and thinking people are as little troubled about geology now as about Copernican astronomy."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Then, again, he was not content with abstract generalities: he was always trying to enforce his views by facts industriously collected from such books of medicine, anatomy, geology, astronomy, chemistry, and history as he could get hold of."*

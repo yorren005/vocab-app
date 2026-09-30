@@ -5,15 +5,6 @@ status: unread
 ---
 # erratic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to sudden unpredictable change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no fixed course.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Keep it—do, Miss Everdene—keep it!” said the erratic child of impulse."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Unfortunately the erratic crumb did not improve his narrative powers, and a supplementary hindrance was that of a sneeze, jerking from his pocket his rather large watch, which dangled in front of the young man pendulum-wise."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was too much like laughing at a man when sober for his erratic deeds during intoxication."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to sudden unpredictable change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no fixed course.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Keep it—do, Miss Everdene—keep it!” said the erratic child of impulse."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Unfortunately the erratic crumb did not improve his narrative powers, and a supplementary hindrance was that of a sneeze, jerking from his pocket his rather large watch, which dangled in front of the young man pendulum-wise."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was too much like laughing at a man when sober for his erratic deeds during intoxication."*

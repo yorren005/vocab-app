@@ -5,13 +5,6 @@ status: unread
 ---
 # stay-at-home
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who seldom goes anywhere; one not given to wandering or travel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not given to travel.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stay-at-home designates a person who seldom goes anywhere; one not given to wandering or travel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who seldom goes anywhere; one not given to wandering or travel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not given to travel.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stay-at-home designates a person who seldom goes anywhere; one not given to wandering or travel."*

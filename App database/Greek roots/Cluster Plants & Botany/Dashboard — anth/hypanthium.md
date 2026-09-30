@@ -5,13 +5,6 @@ status: unread
 ---
 # hypanthium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enlargement of the floral receptacle bearing on its rim the stamens, petals, and sepals and often enlarging and surrounding the fruits (as in the rose hip).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enlargement of the floral receptacle bearing on its rim the stamens, petals, and sepals and often enlarging and surrounding the fruits (as in the rose hip).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypanthium designates an enlargement of the floral receptacle bearing on its rim the stamens, petals, and sepals and often enlarging and surrounding the fruits (as in the rose hip)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enlargement of the floral receptacle bearing on its rim the stamens, petals, and sepals and often enlarging and surrounding the fruits (as in the rose hip).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enlargement of the floral receptacle bearing on its rim the stamens, petals, and sepals and often enlarging and surrounding the fruits (as in the rose hip).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypanthium designates an enlargement of the floral receptacle bearing on its rim the stamens, petals, and sepals and often enlarging and surrounding the fruits (as in the rose hip)."*

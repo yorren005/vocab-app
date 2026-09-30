@@ -5,20 +5,6 @@ status: unread
 ---
 # spurt
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Sudden gush : jet
-> 2. **Nuance / Usage**: Gush forth : spout
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to spurt the target*) and intransitive clauses (*spurting against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"He says that it stands to reason that old families have done their spurt of work in past days, and can't have anything left in 'em now."*
-> - 📜 **Bram Stoker (*Dracula*):** *"whilst the blood from the pierced heart welled and spurted up around it."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"With a sudden spurt of energy he sprang across the lawn toward the dark clump of trees."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Sudden gush : jet
+> 2. **Nuance / Usage**: Gush forth : spout
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to spurt the target*) and intransitive clauses (*spurting against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"He says that it stands to reason that old families have done their spurt of work in past days, and can't have anything left in 'em now."*
+> - 📜 **Bram Stoker (*Dracula*):** *"whilst the blood from the pierced heart welled and spurted up around it."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"With a sudden spurt of energy he sprang across the lawn toward the dark clump of trees."*

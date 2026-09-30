@@ -5,15 +5,6 @@ status: unread
 ---
 # stark
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of any qualifications or disguise or adornment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severely simple.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rather on Nilus’ mud Lay me stark-naked, and let the water-flies Blow me into abhorring!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I mean not cuckold-mad, But sure he’s stark mad."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think you are all mated, or stark mad. [_Exit one to the Abbess._] EGEON."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of any qualifications or disguise or adornment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severely simple.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rather on Nilus’ mud Lay me stark-naked, and let the water-flies Blow me into abhorring!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I mean not cuckold-mad, But sure he’s stark mad."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think you are all mated, or stark mad. [_Exit one to the Abbess._] EGEON."*

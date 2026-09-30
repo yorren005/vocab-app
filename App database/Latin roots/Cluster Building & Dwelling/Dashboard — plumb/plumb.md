@@ -5,15 +5,6 @@ status: unread
 ---
 # plumb
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The metal bob of a plumb line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measure the depth of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No, when I go to sea, I go as a simple sailor, right before the mast, plumb down into the forecastle, aloft there to the royal mast-head."*
-> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Ah'm plumb afraid of a boy with a gun, Ah am."*
-> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"He's big enough to take care of himself.” “Yo' cert'nly are plumb slow in your wits this morning, Jimmy Skunk, yo' cert'nly are plumb slow!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The metal bob of a plumb line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measure the depth of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No, when I go to sea, I go as a simple sailor, right before the mast, plumb down into the forecastle, aloft there to the royal mast-head."*
+> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Ah'm plumb afraid of a boy with a gun, Ah am."*
+> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"He's big enough to take care of himself.” “Yo' cert'nly are plumb slow in your wits this morning, Jimmy Skunk, yo' cert'nly are plumb slow!"*

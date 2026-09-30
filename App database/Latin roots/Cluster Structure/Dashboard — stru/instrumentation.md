@@ -5,13 +5,6 @@ status: unread
 ---
 # instrumentation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artifact (or system of artifacts) that is instrumental in accomplishing some end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of providing or using the instruments needed for some implementation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Alignment to major concentrations of potential sources, selection of a 'first phase' work site, calibration of instrumentation and activating its spunnel channels and monitors required still more."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artifact (or system of artifacts) that is instrumental in accomplishing some end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of providing or using the instruments needed for some implementation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Alignment to major concentrations of potential sources, selection of a 'first phase' work site, calibration of instrumentation and activating its spunnel channels and monitors required still more."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # parous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having given birth to one or more viable children.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having given birth to one or more viable children.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parous designates having given birth to one or more viable children."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having given birth to one or more viable children.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having given birth to one or more viable children.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parous designates having given birth to one or more viable children."*

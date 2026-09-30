@@ -5,15 +5,6 @@ status: unread
 ---
 # disciplinarian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who demands exact conformity to rules and forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who demands exact conformity to rules and forms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I fear he was a bad disciplinarian."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I'm afraid I am not much of a disciplinarian, Miss Harding."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Fie for shame, that you are so hard upon us poor maligned disciplinarians of our sex, for your sakes!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who demands exact conformity to rules and forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who demands exact conformity to rules and forms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"I fear he was a bad disciplinarian."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I'm afraid I am not much of a disciplinarian, Miss Harding."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Fie for shame, that you are so hard upon us poor maligned disciplinarians of our sex, for your sakes!"*

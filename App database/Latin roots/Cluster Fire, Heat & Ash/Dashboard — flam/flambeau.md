@@ -5,15 +5,6 @@ status: unread
 ---
 # flambeau
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flaming torch (such as are used in processions at night).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flaming torch (such as are used in processions at night).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"For she danced blithe and brawly, even unto the breakin' o' the day!" And he went on tiptoe to the door of the weaving room, unlocked it, and looked in, holding his flambeau high above his head."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"To sell files, shows you will have others to work for you, yielding profitably. =Flambeau.=--To dream of flambeaux, is a sign of trouble, excitement and distress."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Good-night, gentlemen." And Jos creaked up the stairs to bedward, followed by Kirsch with a flambeau."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flaming torch (such as are used in processions at night).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flaming torch (such as are used in processions at night).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"For she danced blithe and brawly, even unto the breakin' o' the day!" And he went on tiptoe to the door of the weaving room, unlocked it, and looked in, holding his flambeau high above his head."*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"To sell files, shows you will have others to work for you, yielding profitably. =Flambeau.=--To dream of flambeaux, is a sign of trouble, excitement and distress."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Good-night, gentlemen." And Jos creaked up the stairs to bedward, followed by Kirsch with a flambeau."*

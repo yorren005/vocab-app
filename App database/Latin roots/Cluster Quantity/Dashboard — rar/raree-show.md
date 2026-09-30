@@ -5,13 +5,6 @@ status: unread
 ---
 # raree-show
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exhibition of pictures or objects viewed through a small hole or magnifying glass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A street show.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raree-show designates an exhibition of pictures or objects viewed through a small hole or magnifying glass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exhibition of pictures or objects viewed through a small hole or magnifying glass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A street show.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raree-show designates an exhibition of pictures or objects viewed through a small hole or magnifying glass."*

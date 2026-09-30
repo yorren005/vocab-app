@@ -5,15 +5,6 @@ status: unread
 ---
 # under
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Located below or beneath something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower in rank, power, or authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These offices, so oft as thou wilt look, Shall profit thee, and much enrich thy book. 78 So oft have I invoked thee for my muse, And found such fair assistance in my verse, As every alien pen hath got my use, And under thee their poesy disperse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath abandon’d his physicians, madam; under whose practices he hath persecuted time with hope, and finds no other advantage in the process but only the losing of hope by time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be able for thine enemy Rather in power than use; and keep thy friend Under thy own life’s key."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Located below or beneath something else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower in rank, power, or authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These offices, so oft as thou wilt look, Shall profit thee, and much enrich thy book. 78 So oft have I invoked thee for my muse, And found such fair assistance in my verse, As every alien pen hath got my use, And under thee their poesy disperse."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath abandon’d his physicians, madam; under whose practices he hath persecuted time with hope, and finds no other advantage in the process but only the losing of hope by time."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be able for thine enemy Rather in power than use; and keep thy friend Under thy own life’s key."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # pisces
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The twelfth sign of the zodiac; the sun is in this sign from about february 19 to march 20.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astrology) a person who is born while the sun is in pisces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"The same may be made with Cancer ascending, the moon being received by Jupiter and Venus in Pisces, and being fortunately placed in the ninth house, and write upon it the spirit of the moon (which is Gabriel)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The twelfth sign of the zodiac; the sun is in this sign from about february 19 to march 20.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astrology) a person who is born while the sun is in pisces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"The same may be made with Cancer ascending, the moon being received by Jupiter and Venus in Pisces, and being fortunately placed in the ninth house, and write upon it the spirit of the moon (which is Gabriel)."*

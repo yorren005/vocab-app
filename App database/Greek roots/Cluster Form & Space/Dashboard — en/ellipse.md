@@ -5,14 +5,6 @@ status: unread
 ---
 # ellipse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A closed plane curve resulting from the intersection of a circular cone and a plane cutting completely through it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A closed plane curve resulting from the intersection of a circular cone and a plane cutting completely through it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Is the greatest possible ellipse."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"If they would, for example, praise the beauty of a woman, or any other animal, they describe it by rhombs, circles, parallelograms, ellipses, and other geometrical terms, or by words of art drawn from music, needless here to repeat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A closed plane curve resulting from the intersection of a circular cone and a plane cutting completely through it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A closed plane curve resulting from the intersection of a circular cone and a plane cutting completely through it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Is the greatest possible ellipse."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"If they would, for example, praise the beauty of a woman, or any other animal, they describe it by rhombs, circles, parallelograms, ellipses, and other geometrical terms, or by words of art drawn from music, needless here to repeat."*

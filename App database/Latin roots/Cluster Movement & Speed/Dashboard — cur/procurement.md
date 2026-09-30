@@ -5,15 +5,6 @@ status: unread
 ---
 # procurement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of getting possession of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of getting possession of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The man who understands those principles best will be least likely to resort to oppressive expedients, or sacrifice any particular class of citizens to the procurement of revenue."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Translating a requirement into acquisition called for justifying funds, ensuring that procurement and manufacturing specifications and tech data were current, and initiating and monitoring acquisition documents."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I initiated the Purchase Requests, got coordination on technical accuracy of procurement data from the parachute engineers and Maintenance technical services."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of getting possession of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of getting possession of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The man who understands those principles best will be least likely to resort to oppressive expedients, or sacrifice any particular class of citizens to the procurement of revenue."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Translating a requirement into acquisition called for justifying funds, ensuring that procurement and manufacturing specifications and tech data were current, and initiating and monitoring acquisition documents."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I initiated the Purchase Requests, got coordination on technical accuracy of procurement data from the parachute engineers and Maintenance technical services."*

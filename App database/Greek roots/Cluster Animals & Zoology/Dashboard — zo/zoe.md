@@ -5,15 +5,6 @@ status: unread
 ---
 # zoe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I must go now, love," he added, releasing her: "the men need some directions from me, in regard to their work." "And the women some from me," said Zoe."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Zoe summoned Aunt Dicey, the housekeeper, gave her orders for the day, and the needed supplies from pantry and storeroom, they went to the sewing-room, to give some directions to Christine and Alma."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"It was very kind and thoughtful in you," returned Zoe, leading the way into the parlor usually occupied by the family, where an open wood fire blazed cheerily on the hearth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I must go now, love," he added, releasing her: "the men need some directions from me, in regard to their work." "And the women some from me," said Zoe."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Zoe summoned Aunt Dicey, the housekeeper, gave her orders for the day, and the needed supplies from pantry and storeroom, they went to the sewing-room, to give some directions to Christine and Alma."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"It was very kind and thoughtful in you," returned Zoe, leading the way into the parlor usually occupied by the family, where an open wood fire blazed cheerily on the hearth."*

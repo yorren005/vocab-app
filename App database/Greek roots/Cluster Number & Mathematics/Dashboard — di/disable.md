@@ -5,15 +5,6 @@ status: unread
 ---
 # disable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make unable to perform a certain action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Injure permanently.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie, de la Pole, disable not thyself; Hast not a tongue?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"To strike at him on any of these occasions would be to fell and disable him, but the pursuer cannot resolve to do that, and so the grimly ridiculous pursuit continues."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"My terror, as I lay there, of falling ill, and being unfitted for to-morrow, was so besetting, that I wonder it did not disable me of itself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make unable to perform a certain action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Injure permanently.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie, de la Pole, disable not thyself; Hast not a tongue?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"To strike at him on any of these occasions would be to fell and disable him, but the pursuer cannot resolve to do that, and so the grimly ridiculous pursuit continues."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"My terror, as I lay there, of falling ill, and being unfitted for to-morrow, was so besetting, that I wonder it did not disable me of itself."*

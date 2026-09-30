@@ -5,13 +5,6 @@ status: unread
 ---
 # intramural
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carried on within the bounds of an institution or community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carried on within the bounds of an institution or community.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intramural designates carried on within the bounds of an institution or community."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carried on within the bounds of an institution or community.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carried on within the bounds of an institution or community.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intramural designates carried on within the bounds of an institution or community."*

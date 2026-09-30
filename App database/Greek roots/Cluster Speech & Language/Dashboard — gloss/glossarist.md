@@ -5,13 +5,6 @@ status: unread
 ---
 # glossarist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scholiast who writes glosses or glossaries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scholiast who writes glosses or glossaries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossarist designates a scholiast who writes glosses or glossaries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scholiast who writes glosses or glossaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scholiast who writes glosses or glossaries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossarist designates a scholiast who writes glosses or glossaries."*

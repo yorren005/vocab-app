@@ -5,15 +5,6 @@ status: unread
 ---
 # virtuous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Morally excellent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a state of sexual virginity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have those hopes of her good that her education promises her dispositions she inherits, which makes fair gifts fairer; for where an unclean mind carries virtuous qualities, there commendations go with pity, they are virtues and traitors too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To each of you one fair and virtuous mistress Fall, when love please!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If she be All that is virtuous, save what thou dislik’st, A poor physician’s daughter,—thou dislik’st— Of virtue for the name."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Morally excellent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a state of sexual virginity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have those hopes of her good that her education promises her dispositions she inherits, which makes fair gifts fairer; for where an unclean mind carries virtuous qualities, there commendations go with pity, they are virtues and traitors too."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To each of you one fair and virtuous mistress Fall, when love please!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If she be All that is virtuous, save what thou dislik’st, A poor physician’s daughter,—thou dislik’st— Of virtue for the name."*

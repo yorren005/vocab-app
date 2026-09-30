@@ -5,13 +5,6 @@ status: unread
 ---
 # aureolaria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of north american herbs often root-parasitic and bearing golden-yellow flowers; sometimes placed in genus gerardia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of north american herbs often root-parasitic and bearing golden-yellow flowers; sometimes placed in genus gerardia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aureolaria designates small genus of north american herbs often root-parasitic and bearing golden-yellow flowers; sometimes placed in genus gerardia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of north american herbs often root-parasitic and bearing golden-yellow flowers; sometimes placed in genus gerardia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of north american herbs often root-parasitic and bearing golden-yellow flowers; sometimes placed in genus gerardia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aureolaria designates small genus of north american herbs often root-parasitic and bearing golden-yellow flowers; sometimes placed in genus gerardia."*

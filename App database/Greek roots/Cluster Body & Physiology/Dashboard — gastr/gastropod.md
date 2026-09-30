@@ -5,13 +5,6 @@ status: unread
 ---
 # gastropod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large class (Gastropoda) of mollusks (such as snails and slugs) usually with a univalve shell or none and a distinct head bearing sensory organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a large class (Gastropoda) of mollusks (such as snails and slugs) usually with a univalve shell or none and a distinct head bearing sensory organs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastropod designates any of a large class (gastropoda) of mollusks (such as snails and slugs) usually with a univalve shell or none and a distinct head bearing sensory organs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large class (Gastropoda) of mollusks (such as snails and slugs) usually with a univalve shell or none and a distinct head bearing sensory organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a large class (Gastropoda) of mollusks (such as snails and slugs) usually with a univalve shell or none and a distinct head bearing sensory organs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastropod designates any of a large class (gastropoda) of mollusks (such as snails and slugs) usually with a univalve shell or none and a distinct head bearing sensory organs."*

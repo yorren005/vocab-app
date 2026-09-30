@@ -5,13 +5,6 @@ status: unread
 ---
 # alliterate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Use alliteration as a form of poetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use alliteration as a form of poetry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alliterate designates use alliteration as a form of poetry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Use alliteration as a form of poetry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use alliteration as a form of poetry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alliterate designates use alliteration as a form of poetry."*

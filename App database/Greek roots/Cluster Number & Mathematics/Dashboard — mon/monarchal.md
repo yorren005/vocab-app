@@ -5,13 +5,6 @@ status: unread
 ---
 # monarchal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the characteristics of or befitting or worthy of a monarch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ruled by or having the supreme power resting with a monarch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monarchal designates having the characteristics of or befitting or worthy of a monarch."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the characteristics of or befitting or worthy of a monarch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ruled by or having the supreme power resting with a monarch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monarchal designates having the characteristics of or befitting or worthy of a monarch."*

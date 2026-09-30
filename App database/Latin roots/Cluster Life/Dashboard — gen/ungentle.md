@@ -5,15 +5,6 @@ status: unread
 ---
 # ungentle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not of the nobility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not of the nobility.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For Caesar cannot lean To be ungentle."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I care not if I have; it is my study To seem despiteful and ungentle to you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is deformed, crooked, old, and sere, Ill-fac’d, worse bodied, shapeless everywhere; Vicious, ungentle, foolish, blunt, unkind, Stigmatical in making, worse in mind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not of the nobility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not of the nobility.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For Caesar cannot lean To be ungentle."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I care not if I have; it is my study To seem despiteful and ungentle to you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is deformed, crooked, old, and sere, Ill-fac’d, worse bodied, shapeless everywhere; Vicious, ungentle, foolish, blunt, unkind, Stigmatical in making, worse in mind."*

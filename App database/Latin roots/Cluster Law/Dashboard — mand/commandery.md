@@ -5,13 +5,6 @@ status: unread
 ---
 # commandery
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position or office of commander.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position or office of commander.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commandery designates the position or office of commander."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The position or office of commander.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position or office of commander.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commandery designates the position or office of commander."*

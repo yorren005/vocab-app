@@ -5,13 +5,6 @@ status: unread
 ---
 # apparatchik
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A humorous but derogatory term for an official of a large organization (especially a political organization).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A communist who was a member of the administrative system of a communist party.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apparatchik designates a humorous but derogatory term for an official of a large organization (especially a political organization)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A humorous but derogatory term for an official of a large organization (especially a political organization).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A communist who was a member of the administrative system of a communist party.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apparatchik designates a humorous but derogatory term for an official of a large organization (especially a political organization)."*

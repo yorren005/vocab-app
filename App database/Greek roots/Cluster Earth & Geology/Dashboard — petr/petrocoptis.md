@@ -5,13 +5,6 @@ status: unread
 ---
 # petrocoptis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial tussock-forming rock plants; of pyrenees and mountains of northern spain; similar to and sometimes placed in genus lychnis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial tussock-forming rock plants; of pyrenees and mountains of northern spain; similar to and sometimes placed in genus lychnis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrocoptis designates perennial tussock-forming rock plants; of pyrenees and mountains of northern spain; similar to and sometimes placed in genus lychnis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial tussock-forming rock plants; of pyrenees and mountains of northern spain; similar to and sometimes placed in genus lychnis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial tussock-forming rock plants; of pyrenees and mountains of northern spain; similar to and sometimes placed in genus lychnis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrocoptis designates perennial tussock-forming rock plants; of pyrenees and mountains of northern spain; similar to and sometimes placed in genus lychnis."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # regularization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having been made regular (or more regular).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of bringing to uniformity; making regular.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regularization designates the condition of having been made regular (or more regular)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having been made regular (or more regular).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of bringing to uniformity; making regular.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regularization designates the condition of having been made regular (or more regular)."*

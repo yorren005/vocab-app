@@ -5,13 +5,6 @@ status: unread
 ---
 # accreditation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of granting credit or recognition (especially with respect to educational institution that maintains suitable standards).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of granting credit or recognition (especially with respect to educational institution that maintains suitable standards).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accreditation designates the act of granting credit or recognition (especially with respect to educational institution that maintains suitable standards)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of granting credit or recognition (especially with respect to educational institution that maintains suitable standards).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of granting credit or recognition (especially with respect to educational institution that maintains suitable standards).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accreditation designates the act of granting credit or recognition (especially with respect to educational institution that maintains suitable standards)."*

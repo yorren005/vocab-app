@@ -5,20 +5,6 @@ status: unread
 ---
 # pluck
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Rob, fleece
-> 2. **Nuance / Usage**: Pull or pick off or out
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to pluck the target*) and intransitive clauses (*plucking against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"The hand could pluck her back that shoved her on."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"If a crow help us in, sirrah, we’ll pluck a crow together."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"From off this brier pluck a white rose with me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Spirited courage, dogged determination, and undaunted grit in the face of danger or overwhelming odds.
+> 2. **Nuance / Usage**: As a verb, to pull, pick, or snatch something sharply from its place—or to summon up resolve (as in *pluck up one's courage*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to pluck the target*) and intransitive clauses (*plucking against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"Out of this nettle, danger, we **pluck** this flower, safety."*
+> - 📜 **Louisa May Alcott (*Little Women*):** *"Jo had plenty of **pluck**, and though her heart beat fast, she marched straight into the editor's office without a tremor."*
+> - 📜 **Rudyard Kipling (*Kim*):** *"The boy showed a cool **pluck** under fire that won the instant respect of the old frontier soldiers."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # xanthophyl
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Yellow carotenoid pigments in plants and animal fats and egg yolks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yellow carotenoid pigments in plants and animal fats and egg yolks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthophyl designates yellow carotenoid pigments in plants and animal fats and egg yolks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Yellow carotenoid pigments in plants and animal fats and egg yolks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yellow carotenoid pigments in plants and animal fats and egg yolks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthophyl designates yellow carotenoid pigments in plants and animal fats and egg yolks."*

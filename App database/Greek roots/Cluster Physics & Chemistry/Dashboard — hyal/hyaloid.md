@@ -5,13 +5,6 @@ status: unread
 ---
 # hyaloid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Glassy, transparent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Glassy, transparent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyaloid designates glassy, transparent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Glassy, transparent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Glassy, transparent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyaloid designates glassy, transparent."*

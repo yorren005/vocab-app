@@ -5,15 +5,6 @@ status: unread
 ---
 # informing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To furnish incriminating evidence to an officer of the law (usually in return for favors).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speech act that conveys information.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Boythorn informing him that one of their clerks would wait upon him at noon."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy concludes by resigning the adventure to Tony Jobling and informing him that during the vacation and while things are slack, his purse, “as far as three or four or even five pound goes,” will be at his disposal."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed, hearing that this authority is an old soldier, so strongly inculcates the expediency of the trooper’s taking counsel with him, and particularly informing him of its being a question of five guineas or more, that Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To furnish incriminating evidence to an officer of the law (usually in return for favors).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speech act that conveys information.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Boythorn informing him that one of their clerks would wait upon him at noon."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy concludes by resigning the adventure to Tony Jobling and informing him that during the vacation and while things are slack, his purse, “as far as three or four or even five pound goes,” will be at his disposal."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed, hearing that this authority is an old soldier, so strongly inculcates the expediency of the trooper’s taking counsel with him, and particularly informing him of its being a question of five guineas or more, that Mr."*

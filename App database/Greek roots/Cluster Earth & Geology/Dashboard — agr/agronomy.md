@@ -5,15 +5,6 @@ status: unread
 ---
 # agronomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of agriculture dealing with field-crop production and soil management.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of agriculture dealing with field-crop production and soil management.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I am Darrell Standing, born and raised on a quarter section of land in Minnesota, erstwhile professor of agronomy, a prisoner incorrigible in San Quentin, and at present a death-sentenced man in Folsom."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And, also, am I not now, as I write these lines, Darrell Standing, under sentence of death in Folsom Prison and one time professor of agronomy in the College of Agriculture of the University of California?"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I remember me Dorothy, just the other day, when I still lectured on agronomy to farmer-boy students."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of agriculture dealing with field-crop production and soil management.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of agriculture dealing with field-crop production and soil management.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I am Darrell Standing, born and raised on a quarter section of land in Minnesota, erstwhile professor of agronomy, a prisoner incorrigible in San Quentin, and at present a death-sentenced man in Folsom."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And, also, am I not now, as I write these lines, Darrell Standing, under sentence of death in Folsom Prison and one time professor of agronomy in the College of Agriculture of the University of California?"*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I remember me Dorothy, just the other day, when I still lectured on agronomy to farmer-boy students."*

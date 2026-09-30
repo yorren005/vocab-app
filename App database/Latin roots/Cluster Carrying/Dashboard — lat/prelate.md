@@ -5,15 +5,6 @@ status: unread
 ---
 # prelate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A senior clergyman and dignitary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A senior clergyman and dignitary.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You, son John, and my cousin Westmoreland, Towards York shall bend you with your dearest speed To meet Northumberland and the prelate Scroop, Who, as we hear, are busily in arms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Arrogant Winchester, that haughty prelate Whom Henry, our late sovereign, ne’er could brook?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, prelate; such is thy audacious wickedness, Thy lewd, pestiferous, and dissentious pranks, As very infants prattle of thy pride."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A senior clergyman and dignitary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A senior clergyman and dignitary.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You, son John, and my cousin Westmoreland, Towards York shall bend you with your dearest speed To meet Northumberland and the prelate Scroop, Who, as we hear, are busily in arms."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Arrogant Winchester, that haughty prelate Whom Henry, our late sovereign, ne’er could brook?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, prelate; such is thy audacious wickedness, Thy lewd, pestiferous, and dissentious pranks, As very infants prattle of thy pride."*

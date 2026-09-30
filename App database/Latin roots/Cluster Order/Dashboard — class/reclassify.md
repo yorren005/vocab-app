@@ -5,13 +5,6 @@ status: unread
 ---
 # reclassify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Classify anew, change the previous classification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classify anew, change the previous classification.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reclassify designates classify anew, change the previous classification."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Classify anew, change the previous classification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classify anew, change the previous classification.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reclassify designates classify anew, change the previous classification."*

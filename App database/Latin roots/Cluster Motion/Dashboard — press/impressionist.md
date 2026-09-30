@@ -5,15 +5,6 @@ status: unread
 ---
 # impressionist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A painter who follows the theories of impressionism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of impressionism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"My aim, my dear Phyllis, is to show you in a series of impressionist pictures the sort of thing I have to go through when I'm not here."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"This instance serves to illustrate the salient differences between the Chou and Sung art, the two extremes; the Chou art is symbolical and geometrical, the Sung impressionist and naturalistic."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"On this glaze, and sometimes under it, the painters executed rapid, bold, and rather impressionist designs in shades of brown, varying from black to a soft sepia colour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A painter who follows the theories of impressionism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of impressionism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"My aim, my dear Phyllis, is to show you in a series of impressionist pictures the sort of thing I have to go through when I'm not here."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"This instance serves to illustrate the salient differences between the Chou and Sung art, the two extremes; the Chou art is symbolical and geometrical, the Sung impressionist and naturalistic."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"On this glaze, and sometimes under it, the painters executed rapid, bold, and rather impressionist designs in shades of brown, varying from black to a soft sepia colour."*

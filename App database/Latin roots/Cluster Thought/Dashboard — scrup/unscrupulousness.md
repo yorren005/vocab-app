@@ -5,14 +5,6 @@ status: unread
 ---
 # unscrupulousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of unscrupulous dishonesty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of unscrupulous dishonesty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grant Allen (*Michael's Crag*):** *"Without these, not even the invaluable quality of unscrupulousness itself is secure from failure."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"No lower estimate could have vindicated the indefatigable zeal with which she scratched, and her unscrupulousness in digging up the choicest flower or vegetable, for the sake of the fat earthworm at its root."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of unscrupulous dishonesty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of unscrupulous dishonesty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grant Allen (*Michael's Crag*):** *"Without these, not even the invaluable quality of unscrupulousness itself is secure from failure."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"No lower estimate could have vindicated the indefatigable zeal with which she scratched, and her unscrupulousness in digging up the choicest flower or vegetable, for the sake of the fat earthworm at its root."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # batrachoididae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Toadfishes; related to anglers and batfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Toadfishes; related to anglers and batfishes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batrachoididae designates toadfishes; related to anglers and batfishes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Toadfishes; related to anglers and batfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Toadfishes; related to anglers and batfishes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batrachoididae designates toadfishes; related to anglers and batfishes."*

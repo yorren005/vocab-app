@@ -5,13 +5,6 @@ status: unread
 ---
 # propagandize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to propaganda.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread by propaganda.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, propagandize designates subject to propaganda."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to propaganda.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread by propaganda.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, propagandize designates subject to propaganda."*

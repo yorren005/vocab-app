@@ -5,13 +5,6 @@ status: unread
 ---
 # auden
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states poet (born in england) (1907-1973).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states poet (born in england) (1907-1973).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Auden's "Academic Graffiti," in Collected Poems_, ed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states poet (born in england) (1907-1973).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states poet (born in england) (1907-1973).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Auden's "Academic Graffiti," in Collected Poems_, ed."*

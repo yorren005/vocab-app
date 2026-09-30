@@ -5,15 +5,6 @@ status: unread
 ---
 # episode
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually brief unit of action in a dramatic or literary work: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of an ancient Greek tragedy between two choric songs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Suppose we walk about in this wood?” Liddy, without exactly understanding everything, or anything, in this episode, assented, and they walked together further among the trees."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That haunting episode of bygone days was to her mother but a passing accident."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Whereupon, as a man will when his sore place is touched, Pilate launched upon the episode, which had been an episode, no more, at the beginning, but which had nearly destroyed him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually brief unit of action in a dramatic or literary work: such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of an ancient Greek tragedy between two choric songs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Suppose we walk about in this wood?” Liddy, without exactly understanding everything, or anything, in this episode, assented, and they walked together further among the trees."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That haunting episode of bygone days was to her mother but a passing accident."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Whereupon, as a man will when his sore place is touched, Pilate launched upon the episode, which had been an episode, no more, at the beginning, but which had nearly destroyed him."*

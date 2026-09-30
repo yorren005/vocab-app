@@ -5,15 +5,6 @@ status: unread
 ---
 # prejudice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A partiality that prevents objective consideration of an issue or situation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disadvantage by prejudice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now let us on, my lords, and join our powers, And seek how we may prejudice the foe. [_Exeunt._] SCENE IV."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His fears were that the interview betwixt England and France might through their amity Breed him some prejudice, for from this league Peeped harms that menaced him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their single share, Their nobleness peculiar to them, gives The prejudice of disparity, value’s shortness, To any lady breathing. [_Cornets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A partiality that prevents objective consideration of an issue or situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disadvantage by prejudice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now let us on, my lords, and join our powers, And seek how we may prejudice the foe. [_Exeunt._] SCENE IV."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His fears were that the interview betwixt England and France might through their amity Breed him some prejudice, for from this league Peeped harms that menaced him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their single share, Their nobleness peculiar to them, gives The prejudice of disparity, value’s shortness, To any lady breathing. [_Cornets."*

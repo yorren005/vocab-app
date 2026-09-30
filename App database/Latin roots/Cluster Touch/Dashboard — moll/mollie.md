@@ -5,15 +5,6 @@ status: unread
 ---
 # mollie
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Popular aquarium fish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Popular aquarium fish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"Take warning by what Griffin told you last night and take nobody into your confidence." That afternoon their host learned, through business channels, that the steamer _Mollie Able_ was in New Orleans loading for St."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"Good-by." A moment later Rodney Gray was standing alone on the boiler deck, waving his handkerchief to his father, and the _Mollie Able's_ bow was swinging rapidly away from the landing."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"When the _Mollie Able_ resumed her journey Rodney waited and watched for an opportunity to question the outspoken Confederate, for he believed he could trust him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Popular aquarium fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Popular aquarium fish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"Take warning by what Griffin told you last night and take nobody into your confidence." That afternoon their host learned, through business channels, that the steamer _Mollie Able_ was in New Orleans loading for St."*
+> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"Good-by." A moment later Rodney Gray was standing alone on the boiler deck, waving his handkerchief to his father, and the _Mollie Able's_ bow was swinging rapidly away from the landing."*
+> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"When the _Mollie Able_ resumed her journey Rodney waited and watched for an opportunity to question the outspoken Confederate, for he believed he could trust him."*

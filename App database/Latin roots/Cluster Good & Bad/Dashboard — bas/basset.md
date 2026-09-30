@@ -5,15 +5,6 @@ status: unread
 ---
 # basset
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Smooth-haired breed of hound with short legs and long ears.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appear at the surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the King, Gloucester, Bishop of Winchester, Exeter, York, Warwick and Vernon; Suffolk, Somerset, Basset and others."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Exeunt all but Vernon and Basset._] VERNON."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hark ye; not so: in witness, take ye that. [_Strikes him._] BASSET."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Smooth-haired breed of hound with short legs and long ears.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appear at the surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the King, Gloucester, Bishop of Winchester, Exeter, York, Warwick and Vernon; Suffolk, Somerset, Basset and others."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Exeunt all but Vernon and Basset._] VERNON."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hark ye; not so: in witness, take ye that. [_Strikes him._] BASSET."*

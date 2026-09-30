@@ -5,15 +5,6 @@ status: unread
 ---
 # portentous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of momentous or ominous significance; - herman melville.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ominously prophetic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think it be no other but e’en so: Well may it sort that this portentous figure Comes armed through our watch so like the King That was and is the question of these wars."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When these prodigies Do so conjointly meet, let not men say, “These are their reasons; they are natural”; For I believe, they are portentous things Unto the climate that they point upon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Black and portentous must this humour prove, Unless good counsel may the cause remove."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of momentous or ominous significance; - herman melville.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ominously prophetic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think it be no other but e’en so: Well may it sort that this portentous figure Comes armed through our watch so like the King That was and is the question of these wars."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When these prodigies Do so conjointly meet, let not men say, “These are their reasons; they are natural”; For I believe, they are portentous things Unto the climate that they point upon."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Black and portentous must this humour prove, Unless good counsel may the cause remove."*

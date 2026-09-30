@@ -5,13 +5,6 @@ status: unread
 ---
 # penobscot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the algonquian people belonging to the abnaki confederacy and living in the penobscot valley in northern maine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river in central maine flowing into penobscot bay.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"Per vol. 16mo 1 50 Little Bobtail; or, The Wreck of the Penobscot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the algonquian people belonging to the abnaki confederacy and living in the penobscot valley in northern maine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river in central maine flowing into penobscot bay.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"Per vol. 16mo 1 50 Little Bobtail; or, The Wreck of the Penobscot."*

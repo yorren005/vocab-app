@@ -5,13 +5,6 @@ status: unread
 ---
 # parthenogeny
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Human conception without fertilization by a man.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Process in which an unfertilized egg develops into a new individual; common among insects and some other arthropods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parthenogeny designates human conception without fertilization by a man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Human conception without fertilization by a man.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Process in which an unfertilized egg develops into a new individual; common among insects and some other arthropods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parthenogeny designates human conception without fertilization by a man."*

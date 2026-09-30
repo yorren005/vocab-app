@@ -5,13 +5,6 @@ status: unread
 ---
 # tereshkova
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soviet cosmonaut who was the first woman in space (born in 1937).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soviet cosmonaut who was the first woman in space (born in 1937).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tereshkova designates soviet cosmonaut who was the first woman in space (born in 1937)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Soviet cosmonaut who was the first woman in space (born in 1937).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soviet cosmonaut who was the first woman in space (born in 1937).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tereshkova designates soviet cosmonaut who was the first woman in space (born in 1937)."*

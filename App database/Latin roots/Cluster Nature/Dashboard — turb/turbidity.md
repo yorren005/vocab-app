@@ -5,13 +5,6 @@ status: unread
 ---
 # turbidity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Muddiness created by stirring up sediment or having foreign particles suspended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Muddiness created by stirring up sediment or having foreign particles suspended.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"From the wonderful discoloration and turbidity of the water, Columbus sagaciously concluded that a very large river was near, and consequently--consequent-ly--a great continent!" But to this continent Elsie never attained."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Muddiness created by stirring up sediment or having foreign particles suspended.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Muddiness created by stirring up sediment or having foreign particles suspended.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"From the wonderful discoloration and turbidity of the water, Columbus sagaciously concluded that a very large river was near, and consequently--consequent-ly--a great continent!" But to this continent Elsie never attained."*

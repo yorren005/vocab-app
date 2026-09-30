@@ -5,15 +5,6 @@ status: unread
 ---
 # quin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of five children born at the same time from the same pregnancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of five children born at the same time from the same pregnancy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"When Quin and Garrick performed at the same theatre, and in the same play, the night being very stormy, each ordered a chair."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"To the mortification of Quin, Mr."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A person applied to Quin, as manager, to be admitted on the stage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of five children born at the same time from the same pregnancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of five children born at the same time from the same pregnancy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"When Quin and Garrick performed at the same theatre, and in the same play, the night being very stormy, each ordered a chair."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"To the mortification of Quin, Mr."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"A person applied to Quin, as manager, to be admitted on the stage."*

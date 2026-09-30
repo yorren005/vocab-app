@@ -5,15 +5,6 @@ status: unread
 ---
 # mara
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hindu god of death; opposite of kama.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hare-like rodent of the pampas of argentina.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the Mara tribe of Northern Australia the rain-maker goes to a pool and sings over it his magic song."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"In brief, the Buddha, Universal-Surpassing-Wisdom, after routing the army of Mara, common to Buddha-realms, sat cross-legged, motionless in mind and body, for ten minor kalpas, but still did not attain to Perfect Enlightenment."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Moreover, a woman by her body still has five hindrances, viz., she cannot become, firstly, king of the Brahma-heaven: secondly, Sakra; thirdly, a Mara-king; fourthly, a Holy Wheel-rolling King; and fifthly, a Buddha."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hindu god of death; opposite of kama.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hare-like rodent of the pampas of argentina.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the Mara tribe of Northern Australia the rain-maker goes to a pool and sings over it his magic song."*
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"In brief, the Buddha, Universal-Surpassing-Wisdom, after routing the army of Mara, common to Buddha-realms, sat cross-legged, motionless in mind and body, for ten minor kalpas, but still did not attain to Perfect Enlightenment."*
+> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Moreover, a woman by her body still has five hindrances, viz., she cannot become, firstly, king of the Brahma-heaven: secondly, Sakra; thirdly, a Mara-king; fourthly, a Holy Wheel-rolling King; and fifthly, a Buddha."*

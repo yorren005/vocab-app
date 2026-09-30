@@ -5,15 +5,6 @@ status: unread
 ---
 # composer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who composes music as a profession.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who composes music as a profession.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole could play on the piano and the violoncello, and he was a composer—had composed half an opera once, but got tired of it—and played what he composed with taste."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"On the whole I incline to the latter view, since the matter was evidently important, and it is unlikely that the composer of such a letter would be careless."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Did the composer fear an interruption—and from whom?” “We are coming now rather into the region of guesswork,” said Dr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who composes music as a profession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who composes music as a profession.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole could play on the piano and the violoncello, and he was a composer—had composed half an opera once, but got tired of it—and played what he composed with taste."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"On the whole I incline to the latter view, since the matter was evidently important, and it is unlikely that the composer of such a letter would be careless."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Did the composer fear an interruption—and from whom?” “We are coming now rather into the region of guesswork,” said Dr."*

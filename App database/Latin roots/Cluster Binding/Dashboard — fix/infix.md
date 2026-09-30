@@ -5,15 +5,6 @@ status: unread
 ---
 # infix
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An affix that is inserted inside the word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put or introduce into something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do protest I never lov’d myself Till now infixed I beheld myself Drawn in the flattering table of her eye. [_Whispers with Blanche._] BASTARD. [_Aside_.] Drawn in the flattering table of her eye!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Gnawed within and scorched without, with the infixed, unrelenting fangs of some incurable idea; such an one, could he be found, would seem the very man to dart his iron and lift his lance against the most appalling of all brutes."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Gnawed within and scorched without, with the infixed, unrelenting fangs of some incurable idea; such an one, could he be found, would seem the very man to dart his iron and lift his lance against the most appalling of all brutes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An affix that is inserted inside the word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put or introduce into something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do protest I never lov’d myself Till now infixed I beheld myself Drawn in the flattering table of her eye. [_Whispers with Blanche._] BASTARD. [_Aside_.] Drawn in the flattering table of her eye!"*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Gnawed within and scorched without, with the infixed, unrelenting fangs of some incurable idea; such an one, could he be found, would seem the very man to dart his iron and lift his lance against the most appalling of all brutes."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Gnawed within and scorched without, with the infixed, unrelenting fangs of some incurable idea; such an one, could he be found, would seem the very man to dart his iron and lift his lance against the most appalling of all brutes."*

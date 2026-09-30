@@ -5,15 +5,6 @@ status: unread
 ---
 # process
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular course of action intended to achieve a result.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychology) the performance of some composite cognitive activity; an operation that affects mental contents.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath abandon’d his physicians, madam; under whose practices he hath persecuted time with hope, and finds no other advantage in the process but only the losing of hope by time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where’s Fulvia’s process?—Caesar’s I would say?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Proceed by process, Lest parties—as he is beloved—break out And sack great Rome with Romans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular course of action intended to achieve a result.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychology) the performance of some composite cognitive activity; an operation that affects mental contents.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath abandon’d his physicians, madam; under whose practices he hath persecuted time with hope, and finds no other advantage in the process but only the losing of hope by time."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where’s Fulvia’s process?—Caesar’s I would say?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Proceed by process, Lest parties—as he is beloved—break out And sack great Rome with Romans."*

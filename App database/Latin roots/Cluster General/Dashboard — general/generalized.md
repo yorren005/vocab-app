@@ -5,15 +5,6 @@ status: unread
 ---
 # generalized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw from specific cases for more general cases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak or write in generalities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"More often, however, he would uncover a society in which there was little of the generalized style that characterizes even the most personal formal poetry of the period."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"To express what is characteristic in Wordsworth we must recur to a more generalized conception of the relations between the natural and the spiritual worlds."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"Day's mutable distinctions" pass away; all in the landscape that suggests our own age or our own handiwork is gone; we look on the sight seen by our remote ancestors, and the visible present is generalized into an immeasureable past."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw from specific cases for more general cases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak or write in generalities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"More often, however, he would uncover a society in which there was little of the generalized style that characterizes even the most personal formal poetry of the period."*
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"To express what is characteristic in Wordsworth we must recur to a more generalized conception of the relations between the natural and the spiritual worlds."*
+> - 📜 **F. W. H. Myers (*Wordsworth*):** *"Day's mutable distinctions" pass away; all in the landscape that suggests our own age or our own handiwork is gone; we look on the sight seen by our remote ancestors, and the visible present is generalized into an immeasureable past."*

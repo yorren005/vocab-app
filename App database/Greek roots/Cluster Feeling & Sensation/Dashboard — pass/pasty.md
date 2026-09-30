@@ -5,15 +5,6 @@ status: unread
 ---
 # pasty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small meat pie or turnover.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually used in the plural) one of a pair of adhesive patches worn to cover the nipples of exotic dancers and striptease performers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If ye pinch me like a pasty I can say no more."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, we have a hot venison pasty to dinner."*
-> - 📜 **George Eliot (*Middlemarch*):** *"That apple-peel is to be eaten by the pigs, Ben; if you eat it, I must give them your piece of pasty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small meat pie or turnover.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually used in the plural) one of a pair of adhesive patches worn to cover the nipples of exotic dancers and striptease performers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If ye pinch me like a pasty I can say no more."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, we have a hot venison pasty to dinner."*
+> - 📜 **George Eliot (*Middlemarch*):** *"That apple-peel is to be eaten by the pigs, Ben; if you eat it, I must give them your piece of pasty."*

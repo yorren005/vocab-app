@@ -5,15 +5,6 @@ status: unread
 ---
 # corded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stack in cords.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bind or tie with a cord.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This night he meaneth with a corded ladder To climb celestial Silvia’s chamber window, Myself in counsel, his competitor."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There was a light in the porter’s lodge: when we reached it, we found the porter’s wife just kindling her fire: my trunk, which had been carried down the evening before, stood corded at the door."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The box was corded, the card nailed on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stack in cords.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bind or tie with a cord.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This night he meaneth with a corded ladder To climb celestial Silvia’s chamber window, Myself in counsel, his competitor."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There was a light in the porter’s lodge: when we reached it, we found the porter’s wife just kindling her fire: my trunk, which had been carried down the evening before, stood corded at the door."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The box was corded, the card nailed on."*

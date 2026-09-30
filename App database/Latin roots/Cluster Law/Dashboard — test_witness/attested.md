@@ -5,15 +5,6 @@ status: unread
 ---
 # attested
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Authenticate, affirm to be true, genuine, or correct, as in an official capacity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is duly executed and attested."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ye be a very old aged person, malter,” attested Jan Coggan, also soothingly."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"God’s a perfect gentleman in that respect.” “Good works good pay, so to speak it,” attested Joseph Poorgrass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Authenticate, affirm to be true, genuine, or correct, as in an official capacity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is duly executed and attested."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ye be a very old aged person, malter,” attested Jan Coggan, also soothingly."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"God’s a perfect gentleman in that respect.” “Good works good pay, so to speak it,” attested Joseph Poorgrass."*

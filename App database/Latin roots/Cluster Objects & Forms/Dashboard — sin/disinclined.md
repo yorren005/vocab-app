@@ -5,15 +5,6 @@ status: unread
 ---
 # disinclined
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make unwilling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unwilling because of mild dislike or disapproval.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I, Darrell Standing, was so strongly disinclined to die that I refused to let Warden Atherton and Captain Jamie kill me."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Whereas before he had been disinclined to execute because he would not be made a catspaw to Hanan, he was now disinclined to execute because of regard for the fisherman."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I found my pupil sufficiently docile, though disinclined to apply: she had not been used to regular occupation of any kind."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make unwilling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unwilling because of mild dislike or disapproval.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I, Darrell Standing, was so strongly disinclined to die that I refused to let Warden Atherton and Captain Jamie kill me."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Whereas before he had been disinclined to execute because he would not be made a catspaw to Hanan, he was now disinclined to execute because of regard for the fisherman."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I found my pupil sufficiently docile, though disinclined to apply: she had not been used to regular occupation of any kind."*

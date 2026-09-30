@@ -5,14 +5,6 @@ status: unread
 ---
 # concernedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner showing concern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner showing concern.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Why, what's the matter?” he broke off concernedly, as he caught a clearer view of the little old lady's drawn face and troubled eyes."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"If you wash your face and brush your hair, it will be all right: but you are so dirty!” She gazed concernedly at the dusky fingers she held in her own, and also at her dress; which she feared had gained no embellishment from its contact with his."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner showing concern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner showing concern.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Why, what's the matter?” he broke off concernedly, as he caught a clearer view of the little old lady's drawn face and troubled eyes."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"If you wash your face and brush your hair, it will be all right: but you are so dirty!” She gazed concernedly at the dusky fingers she held in her own, and also at her dress; which she feared had gained no embellishment from its contact with his."*

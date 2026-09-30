@@ -5,15 +5,6 @@ status: unread
 ---
 # regency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of time during which a regent governs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The period from 1811-1820 when the prince of wales was regent during george iii's periods of insanity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"In the last century, however, four successive heirs were of a dissolute and wasteful disposition, and the family ruin was eventually completed by a gambler in the days of the Regency."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A dim line of ancestors, in every variety of dress, from the Elizabethan knight to the buck of the Regency, stared down upon us and daunted us by their silent company."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"But before this, Lady Jane conducted Rebecca to the apartments prepared for her, which, with the rest of the house, had assumed a very much improved appearance of order and comfort during Pitt's regency, and here beholding that Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of time during which a regent governs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The period from 1811-1820 when the prince of wales was regent during george iii's periods of insanity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"In the last century, however, four successive heirs were of a dissolute and wasteful disposition, and the family ruin was eventually completed by a gambler in the days of the Regency."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A dim line of ancestors, in every variety of dress, from the Elizabethan knight to the buck of the Regency, stared down upon us and daunted us by their silent company."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"But before this, Lady Jane conducted Rebecca to the apartments prepared for her, which, with the rest of the house, had assumed a very much improved appearance of order and comfort during Pitt's regency, and here beholding that Mrs."*

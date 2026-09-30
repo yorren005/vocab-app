@@ -5,13 +5,6 @@ status: unread
 ---
 # cyanocobalamin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A b vitamin that is used to treat pernicious anemia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A b vitamin that is used to treat pernicious anemia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanocobalamin designates a b vitamin that is used to treat pernicious anemia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A b vitamin that is used to treat pernicious anemia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A b vitamin that is used to treat pernicious anemia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyanocobalamin designates a b vitamin that is used to treat pernicious anemia."*

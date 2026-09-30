@@ -5,13 +5,6 @@ status: unread
 ---
 # anaemic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to anemia or suffering from anemia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking vigor or energy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"She likewise informed us, quite incidentally and "by the way," that Mrs Ross had disliked my hat and Mrs Bruce had asked if Charmion were anaemic--such a colourless skin!--and Mrs Someone Else thought it so "queer" that we should live together!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to anemia or suffering from anemia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking vigor or energy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"She likewise informed us, quite incidentally and "by the way," that Mrs Ross had disliked my hat and Mrs Bruce had asked if Charmion were anaemic--such a colourless skin!--and Mrs Someone Else thought it so "queer" that we should live together!"*

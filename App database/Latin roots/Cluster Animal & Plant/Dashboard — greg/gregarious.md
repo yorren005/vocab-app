@@ -5,15 +5,6 @@ status: unread
 ---
 # gregarious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of animals) tending to form a group with others of the same species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Instinctively or temperamentally seeking and enjoying the company of others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I am disposed to be gregarious and communicative to-night,” he repeated, “and that is why I sent for you: the fire and the chandelier were not sufficient company for me; nor would Pilot have been, for none of these can talk."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Fin-Back is not gregarious."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Even now I am certain that those seas are not, and perhaps never can be, in the present constitution of things, a place for his habitual gregarious resort."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of animals) tending to form a group with others of the same species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Instinctively or temperamentally seeking and enjoying the company of others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I am disposed to be gregarious and communicative to-night,” he repeated, “and that is why I sent for you: the fire and the chandelier were not sufficient company for me; nor would Pilot have been, for none of these can talk."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Fin-Back is not gregarious."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Even now I am certain that those seas are not, and perhaps never can be, in the present constitution of things, a place for his habitual gregarious resort."*

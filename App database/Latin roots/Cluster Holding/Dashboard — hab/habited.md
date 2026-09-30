@@ -5,15 +5,6 @@ status: unread
 ---
 # habited
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put a habit on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dressed in a habit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter King and others as masquers, habited like shepherds, ushered by the Lord Chamberlain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter certain Reapers, properly habited: they join with the Nymphs in a graceful dance; towards the end whereof Prospero starts suddenly, and speaks; after which, to a strange, hollow, and confused noise, they heavily vanish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or is it Dian, habited like her, Who hath abandoned her holy groves To see the general hunting in this forest?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put a habit on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dressed in a habit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter King and others as masquers, habited like shepherds, ushered by the Lord Chamberlain."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter certain Reapers, properly habited: they join with the Nymphs in a graceful dance; towards the end whereof Prospero starts suddenly, and speaks; after which, to a strange, hollow, and confused noise, they heavily vanish."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or is it Dian, habited like her, Who hath abandoned her holy groves To see the general hunting in this forest?"*

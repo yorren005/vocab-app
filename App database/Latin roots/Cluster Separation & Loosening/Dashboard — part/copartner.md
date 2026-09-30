@@ -5,13 +5,6 @@ status: unread
 ---
 # copartner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A joint partner (as in a business enterprise).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A joint partner (as in a business enterprise).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, copartner designates a joint partner (as in a business enterprise)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A joint partner (as in a business enterprise).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A joint partner (as in a business enterprise).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, copartner designates a joint partner (as in a business enterprise)."*

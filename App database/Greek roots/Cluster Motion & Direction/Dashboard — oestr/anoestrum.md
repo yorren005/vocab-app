@@ -5,13 +5,6 @@ status: unread
 ---
 # anoestrum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Applies to nonhuman mammals: a state or interval of sexual inactivity between two periods of estrus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Applies to nonhuman mammals: a state or interval of sexual inactivity between two periods of estrus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anoestrum designates applies to nonhuman mammals: a state or interval of sexual inactivity between two periods of estrus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Applies to nonhuman mammals: a state or interval of sexual inactivity between two periods of estrus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Applies to nonhuman mammals: a state or interval of sexual inactivity between two periods of estrus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anoestrum designates applies to nonhuman mammals: a state or interval of sexual inactivity between two periods of estrus."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # credence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mental attitude that something is believable and should be accepted as true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of sideboard or buffet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His love and wisdom, Approv’d so to your majesty, may plead For amplest credence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The general of our horse thou art, and we, Great in our hope, lay our best love and credence Upon thy promising fortune."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sith yet there is a credence in my heart, An esperance so obstinately strong, That doth invert th’attest of eyes and ears; As if those organs had deceptious functions Created only to calumniate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mental attitude that something is believable and should be accepted as true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of sideboard or buffet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His love and wisdom, Approv’d so to your majesty, may plead For amplest credence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The general of our horse thou art, and we, Great in our hope, lay our best love and credence Upon thy promising fortune."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sith yet there is a credence in my heart, An esperance so obstinately strong, That doth invert th’attest of eyes and ears; As if those organs had deceptious functions Created only to calumniate."*

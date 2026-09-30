@@ -5,15 +5,6 @@ status: unread
 ---
 # bather
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who travels through the water by swimming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who takes a bath.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At that time he saw a bather carried along in the current outside the mouth of the cove, and guessed in an instant that there was but a poor chance for him unless he should be possessed of unusual muscular powers."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess still stood hesitating like a bather about to make his plunge, hardly knowing whether to retreat or to persevere, when a figure came forth from the dark triangular door of the tent."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"HE SAW A BATHER CARRIED ALONG IN THE CURRENT."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who travels through the water by swimming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who takes a bath.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At that time he saw a bather carried along in the current outside the mouth of the cove, and guessed in an instant that there was but a poor chance for him unless he should be possessed of unusual muscular powers."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess still stood hesitating like a bather about to make his plunge, hardly knowing whether to retreat or to persevere, when a figure came forth from the dark triangular door of the tent."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"HE SAW A BATHER CARRIED ALONG IN THE CURRENT."*

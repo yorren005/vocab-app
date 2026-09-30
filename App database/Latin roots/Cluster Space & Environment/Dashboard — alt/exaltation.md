@@ -5,15 +5,6 @@ status: unread
 ---
 # exaltation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being carried away by overwhelming emotion; - charles dickens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The location of a planet in the zodiac at which it is believed to exert its maximum influence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And thus the abasement had been exaltation, and the loss gain."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There was a dreaminess, a pre-occupation, an exaltation, in the maternal look which the girl could not understand."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This passivity was almost dream-like, and yet, in its way, it was positive almost to a pitch of exaltation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being carried away by overwhelming emotion; - charles dickens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The location of a planet in the zodiac at which it is believed to exert its maximum influence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And thus the abasement had been exaltation, and the loss gain."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There was a dreaminess, a pre-occupation, an exaltation, in the maternal look which the girl could not understand."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This passivity was almost dream-like, and yet, in its way, it was positive almost to a pitch of exaltation."*

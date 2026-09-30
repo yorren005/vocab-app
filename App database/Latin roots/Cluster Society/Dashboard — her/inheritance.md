@@ -5,15 +5,6 @@ status: unread
 ---
 # inheritance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hereditary succession to a title or an office or property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That which is inherited; a title or property or estate that passes by law to the heir on the death of the owner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, for a quart d’ecu he will sell the fee-simple of his salvation, the inheritance of it, and cut the entail from all remainders, and a perpetual succession for it perpetually."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am in this Your wife, your son, these senators, the nobles; And you will rather show our general louts How you can frown than spend a fawn upon ’em For the inheritance of their loves and safeguard Of what that want might ruin."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For in the Book of Numbers is it writ, “When the man dies, let the inheritance Descend unto the daughter.” Gracious lord, Stand for your own!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hereditary succession to a title or an office or property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That which is inherited; a title or property or estate that passes by law to the heir on the death of the owner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, for a quart d’ecu he will sell the fee-simple of his salvation, the inheritance of it, and cut the entail from all remainders, and a perpetual succession for it perpetually."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am in this Your wife, your son, these senators, the nobles; And you will rather show our general louts How you can frown than spend a fawn upon ’em For the inheritance of their loves and safeguard Of what that want might ruin."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For in the Book of Numbers is it writ, “When the man dies, let the inheritance Descend unto the daughter.” Gracious lord, Stand for your own!"*

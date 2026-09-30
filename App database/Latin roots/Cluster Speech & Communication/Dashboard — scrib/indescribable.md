@@ -5,15 +5,6 @@ status: unread
 ---
 # indescribable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defying expression or description.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defying expression or description.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An indescribable succession of dull blows, perplexing in their regularity, sent their sound with difficulty through the fluffy atmosphere."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A blue light appeared in the zenith, and in some indescribable manner flickered down near the top of the rod."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her tears fell fast beside the unconscious pair in the coffin: tears of a complicated origin, of a nature indescribable, almost indefinable except as other than those of simple sorrow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Defying expression or description.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defying expression or description.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An indescribable succession of dull blows, perplexing in their regularity, sent their sound with difficulty through the fluffy atmosphere."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A blue light appeared in the zenith, and in some indescribable manner flickered down near the top of the rod."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her tears fell fast beside the unconscious pair in the coffin: tears of a complicated origin, of a nature indescribable, almost indefinable except as other than those of simple sorrow."*

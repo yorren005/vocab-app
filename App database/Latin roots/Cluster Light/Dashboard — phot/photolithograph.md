@@ -5,13 +5,6 @@ status: unread
 ---
 # photolithograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lithograph produced by photographically produced plates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lithograph produced by photographically produced plates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photolithograph designates a lithograph produced by photographically produced plates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lithograph produced by photographically produced plates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lithograph produced by photographically produced plates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photolithograph designates a lithograph produced by photographically produced plates."*

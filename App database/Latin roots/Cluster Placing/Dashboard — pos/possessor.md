@@ -5,15 +5,6 @@ status: unread
 ---
 # possessor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who owns something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who owns something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When Jacob graz’d his uncle Laban’s sheep,— This Jacob from our holy Abram was As his wise mother wrought in his behalf, The third possessor; ay, he was the third."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The Kellynch property was good, but not equal to Sir Walter’s apprehension of the state required in its possessor."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Supposing herself the possessor of a ten cent note, over and above the twelve shillings, she went with her somewhat feeble protege over Jersey city ferry, and saw her safely in the cars."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who owns something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who owns something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When Jacob graz’d his uncle Laban’s sheep,— This Jacob from our holy Abram was As his wise mother wrought in his behalf, The third possessor; ay, he was the third."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The Kellynch property was good, but not equal to Sir Walter’s apprehension of the state required in its possessor."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Supposing herself the possessor of a ten cent note, over and above the twelve shillings, she went with her somewhat feeble protege over Jersey city ferry, and saw her safely in the cars."*

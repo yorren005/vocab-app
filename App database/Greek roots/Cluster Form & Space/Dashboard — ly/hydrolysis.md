@@ -5,13 +5,6 @@ status: unread
 ---
 # hydrolysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical process of decomposition involving the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion of water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chemical process of rapidly decomposing a dead body to mostly tiny bits of bone resembling ash by immersing the body in a pressurized chamber containing a heated alkaline solution (as of potassium hydroxide) followed by drainage of all liquid and pulverization of remaining bone; broadly : any hydrolysis process performed in an alkaline environment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Why, there was my theory of the hydrolysis of casein by trypsin, which Professor Walters had been carrying out in his laboratory."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical process of decomposition involving the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion of water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chemical process of rapidly decomposing a dead body to mostly tiny bits of bone resembling ash by immersing the body in a pressurized chamber containing a heated alkaline solution (as of potassium hydroxide) followed by drainage of all liquid and pulverization of remaining bone; broadly : any hydrolysis process performed in an alkaline environment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Why, there was my theory of the hydrolysis of casein by trypsin, which Professor Walters had been carrying out in his laboratory."*

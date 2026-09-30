@@ -5,13 +5,6 @@ status: unread
 ---
 # detente
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The easing of tensions or strained relations (especially between nations).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The easing of tensions or strained relations (especially between nations).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detente designates the easing of tensions or strained relations (especially between nations)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The easing of tensions or strained relations (especially between nations).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The easing of tensions or strained relations (especially between nations).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detente designates the easing of tensions or strained relations (especially between nations)."*

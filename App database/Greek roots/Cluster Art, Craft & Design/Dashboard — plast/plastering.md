@@ -5,14 +5,6 @@ status: unread
 ---
 # plastering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The application of plaster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apply a heavy coat to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The harlot’s cheek, beautied with plastering art, Is not more ugly to the thing that helps it Than is my deed to my most painted word."*
-> - 📜 **Classic Author (*Friends and Helpers*):** *"The phoebe uses a mixture of mud and moss in plastering his large nest on some beam or rafter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The application of plaster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apply a heavy coat to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The harlot’s cheek, beautied with plastering art, Is not more ugly to the thing that helps it Than is my deed to my most painted word."*
+> - 📜 **Classic Author (*Friends and Helpers*):** *"The phoebe uses a mixture of mud and moss in plastering his large nest on some beam or rafter."*

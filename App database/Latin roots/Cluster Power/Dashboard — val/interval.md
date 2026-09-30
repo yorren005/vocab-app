@@ -5,15 +5,6 @@ status: unread
 ---
 # interval
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A definite length of time marked off by two instants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set containing all points (or all real numbers) between two given endpoints.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Out of that you went straight, with a little interval of passage, to the plain room where Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"What wheels on such a day as this, for gracious sake?” After a short interval, a tap at the door."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"That pale interval over, the picture began to enlarge and fill up so fast that at every new peep I could have found enough to look at for an hour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A definite length of time marked off by two instants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set containing all points (or all real numbers) between two given endpoints.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Out of that you went straight, with a little interval of passage, to the plain room where Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"What wheels on such a day as this, for gracious sake?” After a short interval, a tap at the door."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"That pale interval over, the picture began to enlarge and fill up so fast that at every new peep I could have found enough to look at for an hour."*

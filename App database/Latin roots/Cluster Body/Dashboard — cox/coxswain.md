@@ -5,15 +5,6 @@ status: unread
 ---
 # coxswain
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The helmsman of a ship's boat or a racing crew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The helmsman of a ship's boat or a racing crew.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Six oarsmen took their seats, and the coxswain went to the tiller."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The sailors rowed on, and the coxswain made for the floating barrel."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The coxswain said some words in his outlandish tongue, doubtless warning the men to keep on their guard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The helmsman of a ship's boat or a racing crew.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The helmsman of a ship's boat or a racing crew.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Six oarsmen took their seats, and the coxswain went to the tiller."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The sailors rowed on, and the coxswain made for the floating barrel."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The coxswain said some words in his outlandish tongue, doubtless warning the men to keep on their guard."*

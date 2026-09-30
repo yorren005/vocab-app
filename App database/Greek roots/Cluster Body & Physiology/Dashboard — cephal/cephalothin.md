@@ -5,13 +5,6 @@ status: unread
 ---
 # cephalothin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A semisynthetic analogue of cephalosporin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A semisynthetic analogue of cephalosporin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalothin designates a semisynthetic analogue of cephalosporin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A semisynthetic analogue of cephalosporin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A semisynthetic analogue of cephalosporin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cephalothin designates a semisynthetic analogue of cephalosporin."*

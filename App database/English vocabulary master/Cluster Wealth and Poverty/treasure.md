@@ -5,20 +5,6 @@ status: unread
 ---
 # treasure
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Store of money in reserve
-> 2. **Nuance / Usage**: Wealth of any kind or in any form : riches
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Go, Eros, send his treasure after."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"O Jephthah, judge of Israel, what a treasure hadst thou!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"For swallowing the treasure of the realm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Store of money in reserve
+> 2. **Nuance / Usage**: Wealth of any kind or in any form : riches
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Go, Eros, send his treasure after."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"O Jephthah, judge of Israel, what a treasure hadst thou!"*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"For swallowing the treasure of the realm."*

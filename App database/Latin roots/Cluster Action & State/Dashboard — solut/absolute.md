@@ -5,15 +5,6 @@ status: unread
 ---
 # absolute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that is conceived or that exists independently and not in relation to other things; something that does not depend on anything else and is beyond human control; something that is not relative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perfect or complete or pure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord Alexas, sweet Alexas, most anything Alexas, almost most absolute Alexas, where’s the soothsayer that you praised so to th’ queen?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Great and increasing; but by sea He is an absolute master."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unto her He gave the stablishment of Egypt; made her Of lower Syria, Cyprus, Lydia, Absolute queen."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that is conceived or that exists independently and not in relation to other things; something that does not depend on anything else and is beyond human control; something that is not relative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perfect or complete or pure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord Alexas, sweet Alexas, most anything Alexas, almost most absolute Alexas, where’s the soothsayer that you praised so to th’ queen?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Great and increasing; but by sea He is an absolute master."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unto her He gave the stablishment of Egypt; made her Of lower Syria, Cyprus, Lydia, Absolute queen."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # tympanites
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distension of the abdomen that is caused by the accumulation of gas in the intestines or the peritoneal cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distension of the abdomen that is caused by the accumulation of gas in the intestines or the peritoneal cavity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tympanites designates distension of the abdomen that is caused by the accumulation of gas in the intestines or the peritoneal cavity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distension of the abdomen that is caused by the accumulation of gas in the intestines or the peritoneal cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distension of the abdomen that is caused by the accumulation of gas in the intestines or the peritoneal cavity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tympanites designates distension of the abdomen that is caused by the accumulation of gas in the intestines or the peritoneal cavity."*

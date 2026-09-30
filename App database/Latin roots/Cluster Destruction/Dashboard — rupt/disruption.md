@@ -5,15 +5,6 @@ status: unread
 ---
 # disruption
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of delaying or interrupting the continuity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disorderly outburst or tumult.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I am especially interested in your ability to intensify earliest possible infiltration and disruption throughout Narval's domain." The door slid shut as he passed through."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Beyond a certain limit no mechanical disruption of the body could hasten the process of decomposition."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Informally, however, the stations cover the entire system; to do otherwise would bring about enormous disruptions and disasters in space traffic and communications."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of delaying or interrupting the continuity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disorderly outburst or tumult.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I am especially interested in your ability to intensify earliest possible infiltration and disruption throughout Narval's domain." The door slid shut as he passed through."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Beyond a certain limit no mechanical disruption of the body could hasten the process of decomposition."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Informally, however, the stations cover the entire system; to do otherwise would bring about enormous disruptions and disasters in space traffic and communications."*

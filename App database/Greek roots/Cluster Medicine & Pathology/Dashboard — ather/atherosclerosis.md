@@ -5,13 +5,6 @@ status: unread
 ---
 # atherosclerosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arteriosclerosis characterized by atheromatous deposits in and fibrosis of the inner layer of the arteries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arteriosclerosis characterized by atheromatous deposits in and fibrosis of the inner layer of the arteries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atherosclerosis designates an arteriosclerosis characterized by atheromatous deposits in and fibrosis of the inner layer of the arteries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arteriosclerosis characterized by atheromatous deposits in and fibrosis of the inner layer of the arteries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arteriosclerosis characterized by atheromatous deposits in and fibrosis of the inner layer of the arteries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atherosclerosis designates an arteriosclerosis characterized by atheromatous deposits in and fibrosis of the inner layer of the arteries."*

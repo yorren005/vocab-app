@@ -5,15 +5,6 @@ status: unread
 ---
 # disregarding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refuse to acknowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bar from attention or consideration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt, disregarding my remonstrances, had hurriedly taken off his cloak and was putting it about me."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"After Napoleon's downfall the Congress of Vienna (1814-16) had parcelled Europe out on the principle of disregarding national aspirations and restoring the legitimate rulers."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Oh Lord!” This was so very aggravating—the more especially as I found myself making no way against his surly obtuseness—that I said, disregarding Herbert’s efforts to check me,— “Come, Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Refuse to acknowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bar from attention or consideration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt, disregarding my remonstrances, had hurriedly taken off his cloak and was putting it about me."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"After Napoleon's downfall the Congress of Vienna (1814-16) had parcelled Europe out on the principle of disregarding national aspirations and restoring the legitimate rulers."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Oh Lord!” This was so very aggravating—the more especially as I found myself making no way against his surly obtuseness—that I said, disregarding Herbert’s efforts to check me,— “Come, Mr."*

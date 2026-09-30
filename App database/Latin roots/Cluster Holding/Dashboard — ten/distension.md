@@ -5,13 +5,6 @@ status: unread
 ---
 # distension
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of expanding by pressure from within.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being stretched beyond normal dimensions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A silly girl!—silly girl!” The door was hurriedly burst open again, and in came running Cainy Ball out of breath, his mouth red and open, like the bell of a penny trumpet, from which he coughed with noisy vigour and great distension of face."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of expanding by pressure from within.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being stretched beyond normal dimensions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A silly girl!—silly girl!” The door was hurriedly burst open again, and in came running Cainy Ball out of breath, his mouth red and open, like the bell of a penny trumpet, from which he coughed with noisy vigour and great distension of face."*

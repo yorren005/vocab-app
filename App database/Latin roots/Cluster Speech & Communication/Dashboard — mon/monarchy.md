@@ -5,15 +5,6 @@ status: unread
 ---
 # monarchy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An autocracy governed by a monarch who usually inherits the authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An autocracy governed by a monarch who usually inherits the authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good my sovereign, Take up the English short, and let them know Of what a monarchy you are the head."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This small inheritance my father left me Contenteth me, and worth a monarchy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The jealous o’er-worn widow and herself, Since that our brother dubbed them gentlewomen, Are mighty gossips in our monarchy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An autocracy governed by a monarch who usually inherits the authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An autocracy governed by a monarch who usually inherits the authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good my sovereign, Take up the English short, and let them know Of what a monarchy you are the head."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This small inheritance my father left me Contenteth me, and worth a monarchy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The jealous o’er-worn widow and herself, Since that our brother dubbed them gentlewomen, Are mighty gossips in our monarchy."*

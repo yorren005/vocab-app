@@ -5,15 +5,6 @@ status: unread
 ---
 # posture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrangement of the body and its limbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic way of bearing one's body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The quick comedians Extemporally will stage us and present Our Alexandrian revels; Antony Shall be brought drunken forth, and I shall see Some squeaking Cleopatra boy my greatness I’ th’ posture of a whore."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such a pother, As if that whatsoever god who leads him Were slyly crept into his human powers And gave him graceful posture."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antony, The posture of your blows are yet unknown; But for your words, they rob the Hybla bees, And leave them honeyless."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrangement of the body and its limbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic way of bearing one's body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The quick comedians Extemporally will stage us and present Our Alexandrian revels; Antony Shall be brought drunken forth, and I shall see Some squeaking Cleopatra boy my greatness I’ th’ posture of a whore."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such a pother, As if that whatsoever god who leads him Were slyly crept into his human powers And gave him graceful posture."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antony, The posture of your blows are yet unknown; But for your words, they rob the Hybla bees, And leave them honeyless."*

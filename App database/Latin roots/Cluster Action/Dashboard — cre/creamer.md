@@ -5,15 +5,6 @@ status: unread
 ---
 # creamer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small pitcher for serving cream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small pitcher for serving cream.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Creamer, to state that my health is such that all strong emotions would be dangerous in my present delicate condition--and that I must decline any family discussions or interviews whatever."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"His death was delightful, however; and his change was only for the better; Creamer, my dear Pitt, must leave your aunt." Pitt expressed his perfect acquiescence."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Creamer, her medical man, would not hear of her returning to her old haunts and dissipation in London."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small pitcher for serving cream.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small pitcher for serving cream.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Creamer, to state that my health is such that all strong emotions would be dangerous in my present delicate condition--and that I must decline any family discussions or interviews whatever."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"His death was delightful, however; and his change was only for the better; Creamer, my dear Pitt, must leave your aunt." Pitt expressed his perfect acquiescence."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Creamer, her medical man, would not hear of her returning to her old haunts and dissipation in London."*

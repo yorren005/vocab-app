@@ -5,15 +5,6 @@ status: unread
 ---
 # concisely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a concise manner; in a few words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a concise manner; in a few words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The name of the place where, and of the person with whom I lived, is my secret,” I replied concisely."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"In terms of grateful acknowledgment for the kindness of his brother, though expressed most concisely, he then delivered on paper his perfect approbation of all that was done, and his willingness to fulfil the engagements that had been made for him."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"That lady, I suppose, is your mother?” Elizabeth replied very concisely that she was."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a concise manner; in a few words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a concise manner; in a few words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The name of the place where, and of the person with whom I lived, is my secret,” I replied concisely."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"In terms of grateful acknowledgment for the kindness of his brother, though expressed most concisely, he then delivered on paper his perfect approbation of all that was done, and his willingness to fulfil the engagements that had been made for him."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"That lady, I suppose, is your mother?” Elizabeth replied very concisely that she was."*

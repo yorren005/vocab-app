@@ -5,13 +5,6 @@ status: unread
 ---
 # angiogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radiograph made by angiography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Angiography.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiogram designates a radiograph made by angiography."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radiograph made by angiography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Angiography.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiogram designates a radiograph made by angiography."*

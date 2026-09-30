@@ -5,14 +5,6 @@ status: unread
 ---
 # intractably
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intractable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intractable manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He is not good enough for ’ee.” “Did any one tell you to speak to me like this?” “Nobody at all.” “Then it appears to me that Sergeant Troy does not concern us here,” she said, intractably."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He is not good enough for you.” “Did any one tell you to speak to me like this?” “Nobody at all.” “Then it appears to me that Sergeant Troy does not concern us here,” she said, intractably."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intractable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intractable manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He is not good enough for ’ee.” “Did any one tell you to speak to me like this?” “Nobody at all.” “Then it appears to me that Sergeant Troy does not concern us here,” she said, intractably."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He is not good enough for you.” “Did any one tell you to speak to me like this?” “Nobody at all.” “Then it appears to me that Sergeant Troy does not concern us here,” she said, intractably."*

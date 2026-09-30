@@ -5,15 +5,6 @@ status: unread
 ---
 # philip
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Englishman and husband of elizabeth ii (born 1921).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Englishman and husband of elizabeth ii (born 1921).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His father was called Philip of Macedon, as I take it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Helen, the mother of great Constantine, Nor yet Saint Philip’s daughters, were like thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The BASTARD, PHILIP FAULCONBRIDGE, his half-brother, bastard son to King Richard I."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Englishman and husband of elizabeth ii (born 1921).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Englishman and husband of elizabeth ii (born 1921).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His father was called Philip of Macedon, as I take it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Helen, the mother of great Constantine, Nor yet Saint Philip’s daughters, were like thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The BASTARD, PHILIP FAULCONBRIDGE, his half-brother, bastard son to King Richard I."*

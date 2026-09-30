@@ -5,15 +5,6 @@ status: unread
 ---
 # dispenser
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A container so designed that the contents can be used in prescribed amounts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who dispenses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"On these accounts, one man appears to be a more eligible dispenser of the mercy of government, than a body of men."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They sat, and Hodak pressed the glow-disk in the center of the table to summon the robo-dispenser."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer ordered a fresh drink from a passing robo-dispenser."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A container so designed that the contents can be used in prescribed amounts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who dispenses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"On these accounts, one man appears to be a more eligible dispenser of the mercy of government, than a body of men."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They sat, and Hodak pressed the glow-disk in the center of the table to summon the robo-dispenser."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer ordered a fresh drink from a passing robo-dispenser."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # abed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In bed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And this was it I gave him, being abed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The ladies, her attendants of her chamber, Saw her abed, and in the morning early They found the bed untreasured of their mistress."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But unto us it is A cell of ignorance, travelling abed, A prison for a debtor that not dares To stride a limit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In bed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And this was it I gave him, being abed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The ladies, her attendants of her chamber, Saw her abed, and in the morning early They found the bed untreasured of their mistress."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But unto us it is A cell of ignorance, travelling abed, A prison for a debtor that not dares To stride a limit."*

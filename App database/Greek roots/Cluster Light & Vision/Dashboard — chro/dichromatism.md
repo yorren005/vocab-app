@@ -5,13 +5,6 @@ status: unread
 ---
 # dichromatism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deficiency of color vision in which the person can match any given hue by mixing only two other wavelengths of light (as opposed to the three wavelengths needed by people with normal color vision).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deficiency of color vision in which the person can match any given hue by mixing only two other wavelengths of light (as opposed to the three wavelengths needed by people with normal color vision).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dichromatism designates a deficiency of color vision in which the person can match any given hue by mixing only two other wavelengths of light (as opposed to the three wavelengths needed by people with normal color vision)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deficiency of color vision in which the person can match any given hue by mixing only two other wavelengths of light (as opposed to the three wavelengths needed by people with normal color vision).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deficiency of color vision in which the person can match any given hue by mixing only two other wavelengths of light (as opposed to the three wavelengths needed by people with normal color vision).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dichromatism designates a deficiency of color vision in which the person can match any given hue by mixing only two other wavelengths of light (as opposed to the three wavelengths needed by people with normal color vision)."*

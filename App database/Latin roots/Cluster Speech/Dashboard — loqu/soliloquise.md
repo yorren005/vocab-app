@@ -5,15 +5,6 @@ status: unread
 ---
 # soliloquise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Talk to oneself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk to oneself.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There is something in that,” I soliloquised (mentally, be it understood; I did not talk aloud)."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Not liking to show him that I had heard the conflict, I continued my toilette rather noisily, looked at my watch, and soliloquised on the length of the night: “Not three o’clock yet!"*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"I’ve prayed often,” he half soliloquised, “for the approach of what is coming; and now I begin to shrink, and fear it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Talk to oneself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Talk to oneself.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There is something in that,” I soliloquised (mentally, be it understood; I did not talk aloud)."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Not liking to show him that I had heard the conflict, I continued my toilette rather noisily, looked at my watch, and soliloquised on the length of the night: “Not three o’clock yet!"*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"I’ve prayed often,” he half soliloquised, “for the approach of what is coming; and now I begin to shrink, and fear it."*

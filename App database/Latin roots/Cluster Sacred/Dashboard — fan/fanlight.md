@@ -5,15 +5,6 @@ status: unread
 ---
 # fanlight
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A window above a door that is usually hinged to a horizontal crosspiece over the door.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A window in a roof to admit daylight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"As I approached the house I saw a tall man in a Scotch bonnet with a coat which was buttoned up to his chin waiting outside in the bright semicircle which was thrown from the fanlight."*
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"One house, however, second from the corner, was still occupied entire; and at the door of this, which wore a great air of wealth and comfort, though it was now plunged in darkness except for the fanlight, Mr."*
-> - 📜 **James Joyce (*Ulysses*):** *"After a lapse of four minutes the glimmer of his candle was discernible through the semitransparent semicircular glass fanlight over the halldoor."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A window above a door that is usually hinged to a horizontal crosspiece over the door.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A window in a roof to admit daylight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"As I approached the house I saw a tall man in a Scotch bonnet with a coat which was buttoned up to his chin waiting outside in the bright semicircle which was thrown from the fanlight."*
+> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"One house, however, second from the corner, was still occupied entire; and at the door of this, which wore a great air of wealth and comfort, though it was now plunged in darkness except for the fanlight, Mr."*
+> - 📜 **James Joyce (*Ulysses*):** *"After a lapse of four minutes the glimmer of his candle was discernible through the semitransparent semicircular glass fanlight over the halldoor."*

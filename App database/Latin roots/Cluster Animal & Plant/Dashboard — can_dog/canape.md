@@ -5,13 +5,6 @@ status: unread
 ---
 # canape
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An appetizer consisting usually of a thin slice of bread or toast spread with caviar or cheese or other savory food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An appetizer consisting usually of a thin slice of bread or toast spread with caviar or cheese or other savory food.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canape designates an appetizer consisting usually of a thin slice of bread or toast spread with caviar or cheese or other savory food."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An appetizer consisting usually of a thin slice of bread or toast spread with caviar or cheese or other savory food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An appetizer consisting usually of a thin slice of bread or toast spread with caviar or cheese or other savory food.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, canape designates an appetizer consisting usually of a thin slice of bread or toast spread with caviar or cheese or other savory food."*

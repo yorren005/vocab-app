@@ -5,13 +5,6 @@ status: unread
 ---
 # fattiness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the property of containing fat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the property of containing fat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fattiness designates having the property of containing fat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the property of containing fat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the property of containing fat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fattiness designates having the property of containing fat."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # my
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to me or myself especially as possessor, agent, object of an action, or familiar person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: —used interjectionally to express surprise and sometimes reduplicated —used also interjectionally with names of various parts of the body to express doubt or disapproval.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, my designates of or relating to me or myself especially as possessor, agent, object of an action, or familiar person."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to me or myself especially as possessor, agent, object of an action, or familiar person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: —used interjectionally to express surprise and sometimes reduplicated —used also interjectionally with names of various parts of the body to express doubt or disapproval.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, my designates of or relating to me or myself especially as possessor, agent, object of an action, or familiar person."*

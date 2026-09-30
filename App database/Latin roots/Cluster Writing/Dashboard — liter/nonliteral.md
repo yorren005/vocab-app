@@ -5,13 +5,6 @@ status: unread
 ---
 # nonliteral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of the meanings of words or text) not literal; using figures of speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of the meanings of words or text) not literal; using figures of speech.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonliteral designates (used of the meanings of words or text) not literal; using figures of speech."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of the meanings of words or text) not literal; using figures of speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of the meanings of words or text) not literal; using figures of speech.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonliteral designates (used of the meanings of words or text) not literal; using figures of speech."*

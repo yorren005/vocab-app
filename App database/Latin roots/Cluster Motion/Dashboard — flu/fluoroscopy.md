@@ -5,13 +5,6 @@ status: unread
 ---
 # fluoroscopy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Examination of body structures using a fluoroscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examination of body structures using a fluoroscope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluoroscopy designates examination of body structures using a fluoroscope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Examination of body structures using a fluoroscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examination of body structures using a fluoroscope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluoroscopy designates examination of body structures using a fluoroscope."*

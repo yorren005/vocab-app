@@ -5,15 +5,6 @@ status: unread
 ---
 # emergency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden unforeseen crisis (usually involving danger) that requires immediate action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in which martial law applies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore really needed no more special care, and in case of an emergency Mea could easily run down to fetch her mother."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket, to whom it is, on an emergency, as natural to be groom of the ceremonies as it is to be anything else, shows her downstairs, not without gallantry."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But it was not mine, and I did not feel that I had a right to tell it, even to my guardian, unless some great emergency arose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden unforeseen crisis (usually involving danger) that requires immediate action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in which martial law applies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore really needed no more special care, and in case of an emergency Mea could easily run down to fetch her mother."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket, to whom it is, on an emergency, as natural to be groom of the ceremonies as it is to be anything else, shows her downstairs, not without gallantry."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But it was not mine, and I did not feel that I had a right to tell it, even to my guardian, unless some great emergency arose."*

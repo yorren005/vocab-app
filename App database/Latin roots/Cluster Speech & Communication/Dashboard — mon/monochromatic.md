@@ -5,14 +5,6 @@ status: unread
 ---
 # monochromatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to monochromatism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of light or other electromagnetic radiation) having only one wavelength.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The oat-harvest began, and all the men were a-field under a monochromatic Lammas sky, amid the trembling air and short shadows of noon."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The oat-harvest began, and all the men were afield under a monochromatic Lammas sky, amid the trembling air and short shadows of noon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to monochromatism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of light or other electromagnetic radiation) having only one wavelength.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The oat-harvest began, and all the men were a-field under a monochromatic Lammas sky, amid the trembling air and short shadows of noon."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The oat-harvest began, and all the men were afield under a monochromatic Lammas sky, amid the trembling air and short shadows of noon."*

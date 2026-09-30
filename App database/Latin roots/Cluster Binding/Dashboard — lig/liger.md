@@ -5,13 +5,6 @@ status: unread
 ---
 # liger
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offspring of a male lion and a female tiger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offspring of a male lion and a female tiger.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liger designates offspring of a male lion and a female tiger."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Offspring of a male lion and a female tiger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offspring of a male lion and a female tiger.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liger designates offspring of a male lion and a female tiger."*

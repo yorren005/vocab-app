@@ -5,13 +5,6 @@ status: unread
 ---
 # calcitonin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thyroid hormone that tends to lower the level of calcium in the blood plasma and inhibit resorption of bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thyroid hormone that tends to lower the level of calcium in the blood plasma and inhibit resorption of bone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcitonin designates thyroid hormone that tends to lower the level of calcium in the blood plasma and inhibit resorption of bone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thyroid hormone that tends to lower the level of calcium in the blood plasma and inhibit resorption of bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thyroid hormone that tends to lower the level of calcium in the blood plasma and inhibit resorption of bone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calcitonin designates thyroid hormone that tends to lower the level of calcium in the blood plasma and inhibit resorption of bone."*

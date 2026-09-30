@@ -5,15 +5,6 @@ status: unread
 ---
 # imperil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pose a threat to; present a danger to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pose a threat to; present a danger to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Lorry when business hours came round, was this:--that he had no right to imperil Tellson’s by sheltering the wife of an emigrant prisoner under the Bank roof."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet eating a most severe quantity of the delicacies before her; and as that good old girl would not cause him a moment’s disappointment on any day, least of all on such a day, for any consideration, she imperils her digestion fearfully."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"She could scarcely hear what the imperiled Tom shouted to her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pose a threat to; present a danger to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pose a threat to; present a danger to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Lorry when business hours came round, was this:--that he had no right to imperil Tellson’s by sheltering the wife of an emigrant prisoner under the Bank roof."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet eating a most severe quantity of the delicacies before her; and as that good old girl would not cause him a moment’s disappointment on any day, least of all on such a day, for any consideration, she imperils her digestion fearfully."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"She could scarcely hear what the imperiled Tom shouted to her."*

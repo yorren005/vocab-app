@@ -5,15 +5,6 @@ status: unread
 ---
 # recapitulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Summarize briefly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repeat stages of evolutionary development during the embryonic phase of life.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What past consecutive causes, before rising preapprehended, of accumulated fatigue did Bloom, before rising, silently recapitulate?"*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"To report their numerous conflicts, would be to recapitulate the days of the life of Waltheof--for it was literally a warfare."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Without following the discussion as it sways from point to point, we may take the passage in which he recapitulates this line of argument."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Summarize briefly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repeat stages of evolutionary development during the embryonic phase of life.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"What past consecutive causes, before rising preapprehended, of accumulated fatigue did Bloom, before rising, silently recapitulate?"*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"To report their numerous conflicts, would be to recapitulate the days of the life of Waltheof--for it was literally a warfare."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Without following the discussion as it sways from point to point, we may take the passage in which he recapitulates this line of argument."*

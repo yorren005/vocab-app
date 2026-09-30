@@ -5,15 +5,6 @@ status: unread
 ---
 # erection
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An erect penis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure that has been erected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She does so take on with her men; they mistook their erection."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plague all, That your activity may defeat and quell The source of all erection."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"One could say about this barn, what could hardly be said of either the church or the castle, akin to it in age and style, that the purpose which had dictated its original erection was the same with that to which it was still applied."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An erect penis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure that has been erected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She does so take on with her men; they mistook their erection."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plague all, That your activity may defeat and quell The source of all erection."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"One could say about this barn, what could hardly be said of either the church or the castle, akin to it in age and style, that the purpose which had dictated its original erection was the same with that to which it was still applied."*

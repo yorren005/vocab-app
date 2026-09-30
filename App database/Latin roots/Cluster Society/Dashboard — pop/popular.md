@@ -5,15 +5,6 @@ status: unread
 ---
 # popular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regarded with great favor, approval, or affection especially by the general public.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carried on by or for the people (or citizens) at large.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Seld-shown flamens Do press among the popular throngs and puff To win a vulgar station."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That is, sir, I will counterfeit the bewitchment of some popular man and give it bountiful to the desirers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They choose their magistrate, And such a one as he, who puts his “shall,” His popular “shall,” against a graver bench Than ever frowned in Greece."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regarded with great favor, approval, or affection especially by the general public.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carried on by or for the people (or citizens) at large.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Seld-shown flamens Do press among the popular throngs and puff To win a vulgar station."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That is, sir, I will counterfeit the bewitchment of some popular man and give it bountiful to the desirers."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They choose their magistrate, And such a one as he, who puts his “shall,” His popular “shall,” against a graver bench Than ever frowned in Greece."*

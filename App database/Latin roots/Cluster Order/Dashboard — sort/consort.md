@@ -5,15 +5,6 @@ status: unread
 ---
 # consort
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The husband or wife of a reigning monarch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of similar musical instrument playing together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Soon, at five o’clock, Please you, I’ll meet with you upon the mart, And afterward consort you till bedtime."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their music frightful as the serpent’s hiss, And boding screech-owls make the consort full!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, madam, he was of that consort."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The husband or wife of a reigning monarch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of similar musical instrument playing together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Soon, at five o’clock, Please you, I’ll meet with you upon the mart, And afterward consort you till bedtime."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their music frightful as the serpent’s hiss, And boding screech-owls make the consort full!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, madam, he was of that consort."*

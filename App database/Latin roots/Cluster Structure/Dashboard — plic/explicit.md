@@ -5,15 +5,6 @@ status: unread
 ---
 # explicit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Precisely and clearly expressed or readily observable; leaving nothing to implication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accordance with fact or the primary meaning of a term.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn gets up, adjusts his spectacles, puts on his hat, puts the manuscript in his pocket, goes out, tells the middle-aged man out at elbows, “I shall be back presently.” Very rarely tells him anything more explicit."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “I—I—beg your pardon, but in our profession—we—we—find it necessary to be explicit."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He patiently awaits an explicit answer; and Jo, more baffled by his patience than by anything else, at last desperately whispers a name in his ear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Precisely and clearly expressed or readily observable; leaving nothing to implication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accordance with fact or the primary meaning of a term.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn gets up, adjusts his spectacles, puts on his hat, puts the manuscript in his pocket, goes out, tells the middle-aged man out at elbows, “I shall be back presently.” Very rarely tells him anything more explicit."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “I—I—beg your pardon, but in our profession—we—we—find it necessary to be explicit."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He patiently awaits an explicit answer; and Jo, more baffled by his patience than by anything else, at last desperately whispers a name in his ear."*

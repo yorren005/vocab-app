@@ -5,13 +5,6 @@ status: unread
 ---
 # choreograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compose a sequence of dance steps, often to music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plan and oversee the development and details of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"More than three-score sleeps had passed since their choreographed escape; only the events flashed through his mind; why they happened did not."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compose a sequence of dance steps, often to music.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plan and oversee the development and details of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"More than three-score sleeps had passed since their choreographed escape; only the events flashed through his mind; why they happened did not."*

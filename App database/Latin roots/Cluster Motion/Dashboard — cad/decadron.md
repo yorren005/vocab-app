@@ -5,13 +5,6 @@ status: unread
 ---
 # decadron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A corticosteroid drug (trade names decadron or dexamethasone intensol or dexone or hexadrol or oradexon) used to treat allergies or inflammation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A corticosteroid drug (trade names decadron or dexamethasone intensol or dexone or hexadrol or oradexon) used to treat allergies or inflammation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decadron designates a corticosteroid drug (trade names decadron or dexamethasone intensol or dexone or hexadrol or oradexon) used to treat allergies or inflammation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A corticosteroid drug (trade names decadron or dexamethasone intensol or dexone or hexadrol or oradexon) used to treat allergies or inflammation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A corticosteroid drug (trade names decadron or dexamethasone intensol or dexone or hexadrol or oradexon) used to treat allergies or inflammation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decadron designates a corticosteroid drug (trade names decadron or dexamethasone intensol or dexone or hexadrol or oradexon) used to treat allergies or inflammation."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # rhabdomyolysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The destruction or degeneration of muscle tissue (as from traumatic injury, excessive exertion, or stroke) accompanied by the release of breakdown products into the bloodstream and sometimes leading to acute renal failure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The destruction or degeneration of muscle tissue (as from traumatic injury, excessive exertion, or stroke) accompanied by the release of breakdown products into the bloodstream and sometimes leading to acute renal failure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhabdomyolysis designates the destruction or degeneration of muscle tissue (as from traumatic injury, excessive exertion, or stroke) accompanied by the release of breakdown products into the bloodstream and sometimes leading to acute renal failure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The destruction or degeneration of muscle tissue (as from traumatic injury, excessive exertion, or stroke) accompanied by the release of breakdown products into the bloodstream and sometimes leading to acute renal failure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The destruction or degeneration of muscle tissue (as from traumatic injury, excessive exertion, or stroke) accompanied by the release of breakdown products into the bloodstream and sometimes leading to acute renal failure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhabdomyolysis designates the destruction or degeneration of muscle tissue (as from traumatic injury, excessive exertion, or stroke) accompanied by the release of breakdown products into the bloodstream and sometimes leading to acute renal failure."*

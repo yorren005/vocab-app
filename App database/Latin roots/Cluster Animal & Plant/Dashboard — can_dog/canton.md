@@ -5,15 +5,6 @@ status: unread
 ---
 # canton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city on the zhu jiang delta in southern china; the capital of guangdong province and a major deep-water port.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small administrative division of a country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The custom prevailed, for example, throughout the canton of Lucerne."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"This was called "burning the witch." In some parts of the canton also they used to wrap old wheels in straw and thorns, put a light to them, and send them rolling and blazing down hill."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In the Jura mountains of the canton of Bern, while the log is burning on the hearth the people sing a blessing over it as follows:-- "_May the log burn!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city on the zhu jiang delta in southern china; the capital of guangdong province and a major deep-water port.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small administrative division of a country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The custom prevailed, for example, throughout the canton of Lucerne."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"This was called "burning the witch." In some parts of the canton also they used to wrap old wheels in straw and thorns, put a light to them, and send them rolling and blazing down hill."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In the Jura mountains of the canton of Bern, while the log is burning on the hearth the people sing a blessing over it as follows:-- "_May the log burn!"*

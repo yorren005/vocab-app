@@ -5,15 +5,6 @@ status: unread
 ---
 # equip
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with (something) usually for a specific purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with abilities or understanding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The States-General have authority to enter into treaties and alliances; to make war and peace; to raise armies and equip fleets; to ascertain quotas and demand contributions."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The authorities essential to the common defense are these: to raise armies; to build and equip fleets; to prescribe rules for the government of both; to direct their operations; to provide for their support."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Resources and Schedule The Task requires six Earth centuries to design, construct, equip, test, deploy and activate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with (something) usually for a specific purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with abilities or understanding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The States-General have authority to enter into treaties and alliances; to make war and peace; to raise armies and equip fleets; to ascertain quotas and demand contributions."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The authorities essential to the common defense are these: to raise armies; to build and equip fleets; to prescribe rules for the government of both; to direct their operations; to provide for their support."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Resources and Schedule The Task requires six Earth centuries to design, construct, equip, test, deploy and activate."*

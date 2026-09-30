@@ -5,15 +5,6 @@ status: unread
 ---
 # sediment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Matter that has been deposited by some natural process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deposit as a sediment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"All I know about the matter is, that one day Marheyo in my presence poured out the last drop from his huge calabash, and I observed at the bottom of the vessel a small quantity of gravelly sediment very much resembling our common sand."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The ancient sea and lake deposits have neither been pressed into very hard rock beneath piles of later sediment, nor have they been roasted and crystallized by internal heat."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"When there are heavy snows in the mountains during the winter, there will be good crops the following summer, the supply of water being more abundant, and the quantity of sediment carried down greater, than when the snows are light."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Matter that has been deposited by some natural process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deposit as a sediment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"All I know about the matter is, that one day Marheyo in my presence poured out the last drop from his huge calabash, and I observed at the bottom of the vessel a small quantity of gravelly sediment very much resembling our common sand."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"The ancient sea and lake deposits have neither been pressed into very hard rock beneath piles of later sediment, nor have they been roasted and crystallized by internal heat."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"When there are heavy snows in the mountains during the winter, there will be good crops the following summer, the supply of water being more abundant, and the quantity of sediment carried down greater, than when the snows are light."*

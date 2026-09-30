@@ -5,15 +5,6 @@ status: unread
 ---
 # annotate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Add explanatory notes to or supply with critical comments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide interlinear explanations for words or phrases.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He worked his way through a goodly number of the Greek and Latin classics, in copies borrowed from the libraries of the two ministers; and he not only read, but analysed and elaborately annotated what he read."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Most of them were copiously annotated, and his annotations were, as a rule, characterised by a refreshing trenchancy,--in the case of some, as of Gibbon, tempered with respect; in the case of others, as of F.W."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They were the instructions of the naval minister to Commander La Perouse, annotated in the margin in Louis XVI’s handwriting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Add explanatory notes to or supply with critical comments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide interlinear explanations for words or phrases.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"He worked his way through a goodly number of the Greek and Latin classics, in copies borrowed from the libraries of the two ministers; and he not only read, but analysed and elaborately annotated what he read."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Most of them were copiously annotated, and his annotations were, as a rule, characterised by a refreshing trenchancy,--in the case of some, as of Gibbon, tempered with respect; in the case of others, as of F.W."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They were the instructions of the naval minister to Commander La Perouse, annotated in the margin in Louis XVI’s handwriting."*

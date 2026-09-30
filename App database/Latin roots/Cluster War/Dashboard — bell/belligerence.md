@@ -5,13 +5,6 @@ status: unread
 ---
 # belligerence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hostile or warlike attitude or nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural disposition to be hostile.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Is that clear?" "If they start anything, I'd just as soon take a few of them out for good." Scarf postured his belligerence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hostile or warlike attitude or nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural disposition to be hostile.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Is that clear?" "If they start anything, I'd just as soon take a few of them out for good." Scarf postured his belligerence."*

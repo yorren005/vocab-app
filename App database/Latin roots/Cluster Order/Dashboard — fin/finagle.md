@@ -5,13 +5,6 @@ status: unread
 ---
 # finagle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Achieve something by means of trickery or devious methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Achieve something by means of trickery or devious methods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finagle designates achieve something by means of trickery or devious methods."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Achieve something by means of trickery or devious methods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Achieve something by means of trickery or devious methods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, finagle designates achieve something by means of trickery or devious methods."*

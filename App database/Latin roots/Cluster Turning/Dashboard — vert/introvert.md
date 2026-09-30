@@ -5,13 +5,6 @@ status: unread
 ---
 # introvert
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychology) a person who tends to shrink from social contacts and to become preoccupied with their own thoughts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fold inwards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, introvert designates (psychology) a person who tends to shrink from social contacts and to become preoccupied with their own thoughts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychology) a person who tends to shrink from social contacts and to become preoccupied with their own thoughts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fold inwards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, introvert designates (psychology) a person who tends to shrink from social contacts and to become preoccupied with their own thoughts."*

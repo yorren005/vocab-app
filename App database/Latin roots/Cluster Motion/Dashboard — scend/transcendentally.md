@@ -5,13 +5,6 @@ status: unread
 ---
 # transcendentally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a transcendental way or to a transcendental extent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a transcendental way or to a transcendental extent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transcendentally designates in a transcendental way or to a transcendental extent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a transcendental way or to a transcendental extent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a transcendental way or to a transcendental extent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transcendentally designates in a transcendental way or to a transcendental extent."*

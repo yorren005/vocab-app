@@ -5,15 +5,6 @@ status: unread
 ---
 # furiously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of the elements) in a wild and stormy manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner marked by extreme or violent energy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is not addressed to you.” “Discharge, too,” cries mademoiselle furiously, “by her ladyship!"*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"A second _Charles_; pray look not, Sir, so furiously. _Eust_."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He fired and missed it, and the animal attacked him furiously, but he stood on his guard and with an adroit stroke of his hunting knife he cut off the right fore-paw of the brute, which thereupon fled away and he saw it no more."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of the elements) in a wild and stormy manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner marked by extreme or violent energy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It is not addressed to you.” “Discharge, too,” cries mademoiselle furiously, “by her ladyship!"*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"A second _Charles_; pray look not, Sir, so furiously. _Eust_."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He fired and missed it, and the animal attacked him furiously, but he stood on his guard and with an adroit stroke of his hunting knife he cut off the right fore-paw of the brute, which thereupon fled away and he saw it no more."*

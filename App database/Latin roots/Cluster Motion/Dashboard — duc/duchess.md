@@ -5,15 +5,6 @@ status: unread
 ---
 # duchess
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The wife of a duke or a woman holding ducal title in her own right.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The wife of a duke or a woman holding ducal title in her own right.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hume must make merry with the Duchess’ gold."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For, to be plain, They, knowing Dame Eleanor’s aspiring humour, Have hired me to undermine the Duchess And buzz these conjurations in her brain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, so its stands; and thus, I fear, at last Hume’s knavery will be the Duchess’ wrack, And her attainture will be Humphrey’s fall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The wife of a duke or a woman holding ducal title in her own right.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The wife of a duke or a woman holding ducal title in her own right.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hume must make merry with the Duchess’ gold."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For, to be plain, They, knowing Dame Eleanor’s aspiring humour, Have hired me to undermine the Duchess And buzz these conjurations in her brain."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, so its stands; and thus, I fear, at last Hume’s knavery will be the Duchess’ wrack, And her attainture will be Humphrey’s fall."*

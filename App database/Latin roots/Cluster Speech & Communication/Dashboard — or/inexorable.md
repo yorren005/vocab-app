@@ -5,15 +5,6 @@ status: unread
 ---
 # inexorable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not to be placated or appeased or moved by entreaty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impervious to pleas, persuasion, requests, reason; ; - w.churchill.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That face of his the hungry cannibals Would not have touched, would not have stained with blood; But you are more inhuman, more inexorable, O, ten times more than tigers of Hyrcania."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The time and my intents are savage-wild; More fierce and more inexorable far Than empty tigers or the roaring sea."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It happened to-day, as it did every day, that the clock pointed much too soon to the time which meant the inexorable end of playing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not to be placated or appeased or moved by entreaty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impervious to pleas, persuasion, requests, reason; ; - w.churchill.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That face of his the hungry cannibals Would not have touched, would not have stained with blood; But you are more inhuman, more inexorable, O, ten times more than tigers of Hyrcania."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The time and my intents are savage-wild; More fierce and more inexorable far Than empty tigers or the roaring sea."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It happened to-day, as it did every day, that the clock pointed much too soon to the time which meant the inexorable end of playing."*

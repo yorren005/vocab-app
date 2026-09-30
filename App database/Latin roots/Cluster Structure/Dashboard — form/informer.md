@@ -5,15 +5,6 @@ status: unread
 ---
 # informer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who reveals confidential information in return for money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who reveals confidential information in return for money.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt then suddenly understood that his impudent small sister had probably been the informer and he did not know what to answer."*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"Hence, thou suborned informer! a true soul When most impeach’d, stands least in thy control."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"There appeared to be reason for supposing that the drowned informer had hoped for a reward out of this forfeiture, and had obtained some accurate knowledge of Magwitch’s affairs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who reveals confidential information in return for money.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who reveals confidential information in return for money.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt then suddenly understood that his impudent small sister had probably been the informer and he did not know what to answer."*
+> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"Hence, thou suborned informer! a true soul When most impeach’d, stands least in thy control."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"There appeared to be reason for supposing that the drowned informer had hoped for a reward out of this forfeiture, and had obtained some accurate knowledge of Magwitch’s affairs."*

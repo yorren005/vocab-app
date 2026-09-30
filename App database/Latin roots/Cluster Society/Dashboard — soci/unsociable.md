@@ -5,15 +5,6 @@ status: unread
 ---
 # unsociable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not inclined to society or companionship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not inclined to society or companionship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Bernard was better behaved with Lawrence than with any one else, less surly, less unsociable, less violently coarse: since June there had been fewer quarrels with Val and Barry and the servants, and less open incivility to Laura."*
-> - 📜 **George Eliot (*Middlemarch*):** *"To put the matter quite fairly, they have other objections to him:—he is masterful and rather unsociable, and he is concerned with trade, which has complaints of its own that I know nothing about."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"They must have been an unsociable folk in life to build a house in the woods, and they were an unsociable folk in death not to go to the common graveyard, where the dead folk were together, warm and kindly lying gently as in their beds...."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not inclined to society or companionship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not inclined to society or companionship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Bernard was better behaved with Lawrence than with any one else, less surly, less unsociable, less violently coarse: since June there had been fewer quarrels with Val and Barry and the servants, and less open incivility to Laura."*
+> - 📜 **George Eliot (*Middlemarch*):** *"To put the matter quite fairly, they have other objections to him:—he is masterful and rather unsociable, and he is concerned with trade, which has complaints of its own that I know nothing about."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"They must have been an unsociable folk in life to build a house in the woods, and they were an unsociable folk in death not to go to the common graveyard, where the dead folk were together, warm and kindly lying gently as in their beds...."*

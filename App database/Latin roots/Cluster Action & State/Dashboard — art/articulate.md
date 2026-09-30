@@ -5,15 +5,6 @@ status: unread
 ---
 # articulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with a joint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into words or an expression.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Send us to Rome The best, with whom we may articulate For their own good and ours."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I tried to tell him what I thought of him, but I could not articulate a word."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I stood for some minutes without being able to articulate a word--which, indeed, seemed the case with most of those before me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with a joint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into words or an expression.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Send us to Rome The best, with whom we may articulate For their own good and ours."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I tried to tell him what I thought of him, but I could not articulate a word."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I stood for some minutes without being able to articulate a word--which, indeed, seemed the case with most of those before me."*

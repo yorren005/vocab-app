@@ -5,13 +5,6 @@ status: unread
 ---
 # arboriculture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cultivation of tree for the production of timber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cultivation of tree for the production of timber.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arboriculture designates the cultivation of tree for the production of timber."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cultivation of tree for the production of timber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cultivation of tree for the production of timber.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arboriculture designates the cultivation of tree for the production of timber."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # dermis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The vascular, thick layer of the skin lying below the epidermis and above the superficial fascia that contains fibroblasts, macrophages, mast cells, B cells, and sensory nerve endings and has an extracellular matrix composed of proteoglycans and glycoproteins embedded with collagen and elastin fibers —called also corium, cutis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Layer of skin or tissue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermis designates the vascular, thick layer of the skin lying below the epidermis and above the superficial fascia that contains fibroblasts, macrophages, mast cells, b cells, and sensory nerve endings and has an extracellular matrix composed of proteoglycans and glycoproteins embedded with collagen and elastin fibers —called also corium, cutis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vascular, thick layer of the skin lying below the epidermis and above the superficial fascia that contains fibroblasts, macrophages, mast cells, B cells, and sensory nerve endings and has an extracellular matrix composed of proteoglycans and glycoproteins embedded with collagen and elastin fibers —called also corium, cutis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Layer of skin or tissue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermis designates the vascular, thick layer of the skin lying below the epidermis and above the superficial fascia that contains fibroblasts, macrophages, mast cells, b cells, and sensory nerve endings and has an extracellular matrix composed of proteoglycans and glycoproteins embedded with collagen and elastin fibers —called also corium, cutis."*

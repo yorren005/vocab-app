@@ -5,13 +5,6 @@ status: unread
 ---
 # coelenterate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Radially symmetrical animals having saclike bodies with only one opening and tentacles with stinging structures; they occur in polyp and medusa forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radially symmetrical animals having saclike bodies with only one opening and tentacles with stinging structures; they occur in polyp and medusa forms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coelenterate designates radially symmetrical animals having saclike bodies with only one opening and tentacles with stinging structures; they occur in polyp and medusa forms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Radially symmetrical animals having saclike bodies with only one opening and tentacles with stinging structures; they occur in polyp and medusa forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radially symmetrical animals having saclike bodies with only one opening and tentacles with stinging structures; they occur in polyp and medusa forms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coelenterate designates radially symmetrical animals having saclike bodies with only one opening and tentacles with stinging structures; they occur in polyp and medusa forms."*

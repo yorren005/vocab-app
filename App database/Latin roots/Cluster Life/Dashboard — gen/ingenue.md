@@ -5,15 +5,6 @@ status: unread
 ---
 # ingenue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An actress who specializes in playing the role of an artless innocent young girl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artless innocent young girl (especially as portrayed on the stage).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"It is the simplicity of the French stage _ingenue_."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"One day he brought his small daughter with him, and she rejoiced to renew acquaintance with the child, who, as she presented her forehead to be kissed by every member of the circle, reminded her vividly of an ingenue in a French play."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"When attacked sometimes, Becky had a knack of adopting a demure ingenue air, under which she was most dangerous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An actress who specializes in playing the role of an artless innocent young girl.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artless innocent young girl (especially as portrayed on the stage).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"It is the simplicity of the French stage _ingenue_."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"One day he brought his small daughter with him, and she rejoiced to renew acquaintance with the child, who, as she presented her forehead to be kissed by every member of the circle, reminded her vividly of an ingenue in a French play."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"When attacked sometimes, Becky had a knack of adopting a demure ingenue air, under which she was most dangerous."*

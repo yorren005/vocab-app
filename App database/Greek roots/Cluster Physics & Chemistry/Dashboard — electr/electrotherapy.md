@@ -5,13 +5,6 @@ status: unread
 ---
 # electrotherapy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The therapeutic application of electricity to the body (as in the treatment of various forms of paralysis).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The therapeutic application of electricity to the body (as in the treatment of various forms of paralysis).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrotherapy designates the therapeutic application of electricity to the body (as in the treatment of various forms of paralysis)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The therapeutic application of electricity to the body (as in the treatment of various forms of paralysis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The therapeutic application of electricity to the body (as in the treatment of various forms of paralysis).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrotherapy designates the therapeutic application of electricity to the body (as in the treatment of various forms of paralysis)."*

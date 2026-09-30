@@ -5,15 +5,6 @@ status: unread
 ---
 # impassioned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by intense emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by intense emotion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"They threw themselves into committees in the most impassioned manner and collected subscriptions with a vehemence quite extraordinary."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is a very fervid, impassioned speaker—full of fire!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"All the impassioned scenes of her brief experience seemed to revive with added emotion at that moment, and those scenes which had been without emotion during enactment had emotion then."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by intense emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by intense emotion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"They threw themselves into committees in the most impassioned manner and collected subscriptions with a vehemence quite extraordinary."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is a very fervid, impassioned speaker—full of fire!"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"All the impassioned scenes of her brief experience seemed to revive with added emotion at that moment, and those scenes which had been without emotion during enactment had emotion then."*

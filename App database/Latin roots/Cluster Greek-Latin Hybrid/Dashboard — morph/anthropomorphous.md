@@ -5,13 +5,6 @@ status: unread
 ---
 # anthropomorphous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggesting human characteristics for animals or inanimate things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggesting human characteristics for animals or inanimate things.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropomorphous designates suggesting human characteristics for animals or inanimate things."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggesting human characteristics for animals or inanimate things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggesting human characteristics for animals or inanimate things.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropomorphous designates suggesting human characteristics for animals or inanimate things."*

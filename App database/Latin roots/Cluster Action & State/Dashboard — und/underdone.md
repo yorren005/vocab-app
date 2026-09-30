@@ -5,14 +5,6 @@ status: unread
 ---
 # underdone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insufficiently cooked.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insufficiently cooked.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Without prejudice to the cold beef if it's underdone."*
-> - 📜 **Charles Dickens (*A Christmas Carol in Prose; Being a Ghost Story of Christmas*):** *"You may be an undigested bit of beef, a blot of mustard, a crumb of cheese, a fragment of an underdone potato."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insufficiently cooked.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insufficiently cooked.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Without prejudice to the cold beef if it's underdone."*
+> - 📜 **Charles Dickens (*A Christmas Carol in Prose; Being a Ghost Story of Christmas*):** *"You may be an undigested bit of beef, a blot of mustard, a crumb of cheese, a fragment of an underdone potato."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # annulet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (heraldry) a charge in the shape of a circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Molding in the form of a ring; at top of a column.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annulet designates (heraldry) a charge in the shape of a circle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (heraldry) a charge in the shape of a circle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Molding in the form of a ring; at top of a column.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annulet designates (heraldry) a charge in the shape of a circle."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # indecorum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of decorum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of undue intimacy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For, as without law there is no sin, without eyes there is no indecorum; and she appeared to feel that Gabriel’s espial had made her an indecorous woman without her own connivance."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"How grievous then was the thought that, of a situation so desirable in every respect, so replete with advantage, so promising for happiness, Jane had been deprived, by the folly and indecorum of her own family!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For, as without law there is no sin, without eyes there is no indecorum; and she appeared to feel that Gabriel’s espial had made her an indecorous woman without her own connivance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of decorum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of undue intimacy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For, as without law there is no sin, without eyes there is no indecorum; and she appeared to feel that Gabriel’s espial had made her an indecorous woman without her own connivance."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"How grievous then was the thought that, of a situation so desirable in every respect, so replete with advantage, so promising for happiness, Jane had been deprived, by the folly and indecorum of her own family!"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For, as without law there is no sin, without eyes there is no indecorum; and she appeared to feel that Gabriel’s espial had made her an indecorous woman without her own connivance."*

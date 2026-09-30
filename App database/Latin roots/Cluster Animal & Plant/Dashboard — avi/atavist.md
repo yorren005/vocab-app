@@ -5,13 +5,6 @@ status: unread
 ---
 # atavist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that has the characteristics of a more primitive type of that organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism that has the characteristics of a more primitive type of that organism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atavist designates an organism that has the characteristics of a more primitive type of that organism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that has the characteristics of a more primitive type of that organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism that has the characteristics of a more primitive type of that organism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atavist designates an organism that has the characteristics of a more primitive type of that organism."*

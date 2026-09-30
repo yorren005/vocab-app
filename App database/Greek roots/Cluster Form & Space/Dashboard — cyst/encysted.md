@@ -5,13 +5,6 @@ status: unread
 ---
 # encysted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enclosed in (or as if in) a cyst.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enclosed in (or as if in) a cyst.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"He threw out a reserve, encysted in which he grew to maturity unaffected by the intercourses that modify the maturity of others into the thing we call a man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enclosed in (or as if in) a cyst.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enclosed in (or as if in) a cyst.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"He threw out a reserve, encysted in which he grew to maturity unaffected by the intercourses that modify the maturity of others into the thing we call a man."*

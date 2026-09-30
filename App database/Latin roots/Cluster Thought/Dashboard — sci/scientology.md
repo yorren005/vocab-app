@@ -5,13 +5,6 @@ status: unread
 ---
 # scientology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A new religion founded by l. ron hubbard in 1955 and characterized by a belief in the power of a person's spirit to clear itself of past painful experiences through self-knowledge and spiritual fulfillment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A new religion founded by l. ron hubbard in 1955 and characterized by a belief in the power of a person's spirit to clear itself of past painful experiences through self-knowledge and spiritual fulfillment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scientology designates a new religion founded by l. ron hubbard in 1955 and characterized by a belief in the power of a person's spirit to clear itself of past painful experiences through self-knowledge and spiritual fulfillment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A new religion founded by l. ron hubbard in 1955 and characterized by a belief in the power of a person's spirit to clear itself of past painful experiences through self-knowledge and spiritual fulfillment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A new religion founded by l. ron hubbard in 1955 and characterized by a belief in the power of a person's spirit to clear itself of past painful experiences through self-knowledge and spiritual fulfillment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scientology designates a new religion founded by l. ron hubbard in 1955 and characterized by a belief in the power of a person's spirit to clear itself of past painful experiences through self-knowledge and spiritual fulfillment."*

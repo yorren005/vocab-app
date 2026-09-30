@@ -5,15 +5,6 @@ status: unread
 ---
 # communion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of participating in the celebration of the eucharist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sharing thoughts and feelings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The offer, being gladly accepted, is followed by a pleasant ride, a pleasant dinner, and a pleasant breakfast, all in brotherly communion."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The officiating curate, who had not yet doffed his surplice, perceived the new-comer, and followed him to the communion-space."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"His action sermon, _i.e._ the sermon preached before the Communion, was always specially memorable and impressive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of participating in the celebration of the eucharist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sharing thoughts and feelings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The offer, being gladly accepted, is followed by a pleasant ride, a pleasant dinner, and a pleasant breakfast, all in brotherly communion."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The officiating curate, who had not yet doffed his surplice, perceived the new-comer, and followed him to the communion-space."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"His action sermon, _i.e._ the sermon preached before the Communion, was always specially memorable and impressive."*

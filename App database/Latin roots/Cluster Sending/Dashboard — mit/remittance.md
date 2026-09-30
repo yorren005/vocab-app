@@ -5,15 +5,6 @@ status: unread
 ---
 # remittance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A payment of money sent to a person in another place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A payment of money sent to a person in another place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"There are given all the various letters that arise in the course of business: Asking for money, requesting time, enclosing remittance, asking assistance, reasons for refusal, from tenants to landlords on different subjects, with landlords’ replies."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"If Pa’son Tringham, who discovered me, had lived, he’d ha’ done it, I’m sure.” Tess postponed her arguments on this high project till she had grappled with pressing matters in hand, which seemed little improved by her remittances."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He pursued no profession, but subsisted on remittances from England."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A payment of money sent to a person in another place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A payment of money sent to a person in another place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"There are given all the various letters that arise in the course of business: Asking for money, requesting time, enclosing remittance, asking assistance, reasons for refusal, from tenants to landlords on different subjects, with landlords’ replies."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"If Pa’son Tringham, who discovered me, had lived, he’d ha’ done it, I’m sure.” Tess postponed her arguments on this high project till she had grappled with pressing matters in hand, which seemed little improved by her remittances."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He pursued no profession, but subsisted on remittances from England."*

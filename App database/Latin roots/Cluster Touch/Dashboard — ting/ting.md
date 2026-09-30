@@ -5,15 +5,6 @@ status: unread
 ---
 # ting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light clear metallic sound as of a small bell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to make a ting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A faint “ting-ting” resounded from under Coggan’s waistcoat."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"THE KAISER CONSULTS FRITZ October, 1915 Ven der Kaiser vould shtart some beeg shtunt, All dose shwells den soon come to de front, Und de prince, und de king Seem to be de whole ting, Mit old Fritz at de heel of de hunt."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"So dis time, ven dose hand grenades trow, Den I tinks soon it's time for to go; If mine back's full mit lead, Not mine breast, nor mine head, Dat's von ting mine Katrina don't know."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light clear metallic sound as of a small bell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to make a ting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A faint “ting-ting” resounded from under Coggan’s waistcoat."*
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"THE KAISER CONSULTS FRITZ October, 1915 Ven der Kaiser vould shtart some beeg shtunt, All dose shwells den soon come to de front, Und de prince, und de king Seem to be de whole ting, Mit old Fritz at de heel of de hunt."*
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"So dis time, ven dose hand grenades trow, Den I tinks soon it's time for to go; If mine back's full mit lead, Not mine breast, nor mine head, Dat's von ting mine Katrina don't know."*

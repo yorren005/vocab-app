@@ -5,15 +5,6 @@ status: unread
 ---
 # decompose
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Separate (substances) into constituent elements or parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lose a stored charge, magnetic flux, or current.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"You cannot get anything out of iron but iron; you cannot decompose iron."*
-> - 📜 **James Joyce (*Ulysses*):** *"Then the insides decompose quickly."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This matte is not further affected by iron, so that it is not possible to completely decompose copper sulphide by this means."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Separate (substances) into constituent elements or parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lose a stored charge, magnetic flux, or current.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"You cannot get anything out of iron but iron; you cannot decompose iron."*
+> - 📜 **James Joyce (*Ulysses*):** *"Then the insides decompose quickly."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This matte is not further affected by iron, so that it is not possible to completely decompose copper sulphide by this means."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # mariposa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several plants of the genus calochortus having tulip-shaped flowers with 3 sepals and 3 petals; southwestern united states and mexico.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several plants of the genus calochortus having tulip-shaped flowers with 3 sepals and 3 petals; southwestern united states and mexico.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"Produced by David Schwan THEIR MARIPOSA LEGEND A Romance of Santa Catalina By Charlotte Herr To Little Bruce Parker Who Loved Stories Part I."*
-> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"Loveliest was she among all the maidens of the Mariposa and of royal blood besides; although of this the great chief Torquam, who even at that moment lay sleeping in his lodge of deerskin on the crescent beach below, knew more than he had ever told."*
-> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"Most gracious hast thou been, oh Torquam, all wise chief of the Mariposa,” he began in carefully chosen Spanish, “nor shall thy kingly gift remain unrequited."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several plants of the genus calochortus having tulip-shaped flowers with 3 sepals and 3 petals; southwestern united states and mexico.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several plants of the genus calochortus having tulip-shaped flowers with 3 sepals and 3 petals; southwestern united states and mexico.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"Produced by David Schwan THEIR MARIPOSA LEGEND A Romance of Santa Catalina By Charlotte Herr To Little Bruce Parker Who Loved Stories Part I."*
+> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"Loveliest was she among all the maidens of the Mariposa and of royal blood besides; although of this the great chief Torquam, who even at that moment lay sleeping in his lodge of deerskin on the crescent beach below, knew more than he had ever told."*
+> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"Most gracious hast thou been, oh Torquam, all wise chief of the Mariposa,” he began in carefully chosen Spanish, “nor shall thy kingly gift remain unrequited."*

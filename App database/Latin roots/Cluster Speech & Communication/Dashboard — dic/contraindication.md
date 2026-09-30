@@ -5,13 +5,6 @@ status: unread
 ---
 # contraindication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) a reason that makes it inadvisable to prescribe a particular drug or employ a particular procedure or treatment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) a reason that makes it inadvisable to prescribe a particular drug or employ a particular procedure or treatment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contraindication designates (medicine) a reason that makes it inadvisable to prescribe a particular drug or employ a particular procedure or treatment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) a reason that makes it inadvisable to prescribe a particular drug or employ a particular procedure or treatment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) a reason that makes it inadvisable to prescribe a particular drug or employ a particular procedure or treatment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contraindication designates (medicine) a reason that makes it inadvisable to prescribe a particular drug or employ a particular procedure or treatment."*

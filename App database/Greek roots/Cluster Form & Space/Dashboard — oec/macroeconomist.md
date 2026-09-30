@@ -5,13 +5,6 @@ status: unread
 ---
 # macroeconomist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An economist who specializes in macroeconomics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An economist who specializes in macroeconomics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroeconomist designates an economist who specializes in macroeconomics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An economist who specializes in macroeconomics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An economist who specializes in macroeconomics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroeconomist designates an economist who specializes in macroeconomics."*

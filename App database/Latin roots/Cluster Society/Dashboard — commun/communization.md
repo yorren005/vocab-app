@@ -5,13 +5,6 @@ status: unread
 ---
 # communization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A change from private property to public property owned by the community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organization of a nation of the basis of communism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, communization designates a change from private property to public property owned by the community."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A change from private property to public property owned by the community.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organization of a nation of the basis of communism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, communization designates a change from private property to public property owned by the community."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # dextrin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various polysaccharides obtained by hydrolysis of starch; a tasteless and odorless gummy substance that is used as a thickening agent and in adhesives and in dietary supplements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various polysaccharides obtained by hydrolysis of starch; a tasteless and odorless gummy substance that is used as a thickening agent and in adhesives and in dietary supplements.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dextrin designates any of various polysaccharides obtained by hydrolysis of starch; a tasteless and odorless gummy substance that is used as a thickening agent and in adhesives and in dietary supplements."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various polysaccharides obtained by hydrolysis of starch; a tasteless and odorless gummy substance that is used as a thickening agent and in adhesives and in dietary supplements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various polysaccharides obtained by hydrolysis of starch; a tasteless and odorless gummy substance that is used as a thickening agent and in adhesives and in dietary supplements.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dextrin designates any of various polysaccharides obtained by hydrolysis of starch; a tasteless and odorless gummy substance that is used as a thickening agent and in adhesives and in dietary supplements."*

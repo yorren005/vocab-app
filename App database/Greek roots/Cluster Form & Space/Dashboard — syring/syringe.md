@@ -5,15 +5,6 @@ status: unread
 ---
 # syringe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device used to inject fluids into or withdraw them from something (such as the body or its cavities): such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device that consists of a nozzle of varying length and a compressible rubber bulb and is used for injection or irrigation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Gardner gave you a hypo, I suppose?” “Yes.” “So you went and bought a syringe and taught yourself the trick."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"You see in this syringe stopped at one end, I have a certain quantity of air."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"My piston-rod (C) fits very closely into the syringe (B), so that the air cannot escape."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device used to inject fluids into or withdraw them from something (such as the body or its cavities): such as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device that consists of a nozzle of varying length and a compressible rubber bulb and is used for injection or irrigation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Gardner gave you a hypo, I suppose?” “Yes.” “So you went and bought a syringe and taught yourself the trick."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"You see in this syringe stopped at one end, I have a certain quantity of air."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"My piston-rod (C) fits very closely into the syringe (B), so that the air cannot escape."*

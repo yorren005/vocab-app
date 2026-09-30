@@ -5,13 +5,6 @@ status: unread
 ---
 # carpentaria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wide shallow inlet of the arafura sea in northern australia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wide shallow inlet of the arafura sea in northern australia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Our course was directed to the west, and on the 11th of January we doubled Cape Wessel, situation in 135° long. and 10° north lat., which forms the east point of the Gulf of Carpentaria."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wide shallow inlet of the arafura sea in northern australia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wide shallow inlet of the arafura sea in northern australia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Our course was directed to the west, and on the 11th of January we doubled Cape Wessel, situation in 135° long. and 10° north lat., which forms the east point of the Gulf of Carpentaria."*

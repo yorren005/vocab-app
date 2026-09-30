@@ -5,13 +5,6 @@ status: unread
 ---
 # prince's-feather
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual with broadly ovate leaves and slender drooping spikes of crimson flowers; southeastern asia and australia; naturalized in north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall showy tropical american annual having hairy stems and long spikes of usually red flowers above leaves deeply flushed with purple; seeds often used as cereal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prince's-feather designates annual with broadly ovate leaves and slender drooping spikes of crimson flowers; southeastern asia and australia; naturalized in north america."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual with broadly ovate leaves and slender drooping spikes of crimson flowers; southeastern asia and australia; naturalized in north america.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall showy tropical american annual having hairy stems and long spikes of usually red flowers above leaves deeply flushed with purple; seeds often used as cereal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prince's-feather designates annual with broadly ovate leaves and slender drooping spikes of crimson flowers; southeastern asia and australia; naturalized in north america."*

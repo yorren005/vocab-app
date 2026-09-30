@@ -5,15 +5,6 @@ status: unread
 ---
 # hummer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A singer who produces a tune without opening the lips or forming words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (baseball) a pitch thrown with maximum velocity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"If so, come to Wingham this summer, Forget the world's trouble and strife, Our program will sure be a hummer, We'll give you the time of your life."*
-> - 📜 **O. Henry (*My tussle with the devil, and other stories*):** *"Now it seems as if I never would be able to get rid of it all._ “_If you would publish a magazine it would be a ‘hummer.’ The trouble is, there is no periodical which has any one back of it who KNOWS."*
-> - 📜 **John Keats (*Poems 1817*):** *"What is more soothing than the pretty hummer That stays one moment in an open flower, And buzzes cheerily from bower to bower?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A singer who produces a tune without opening the lips or forming words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (baseball) a pitch thrown with maximum velocity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"If so, come to Wingham this summer, Forget the world's trouble and strife, Our program will sure be a hummer, We'll give you the time of your life."*
+> - 📜 **O. Henry (*My tussle with the devil, and other stories*):** *"Now it seems as if I never would be able to get rid of it all._ “_If you would publish a magazine it would be a ‘hummer.’ The trouble is, there is no periodical which has any one back of it who KNOWS."*
+> - 📜 **John Keats (*Poems 1817*):** *"What is more soothing than the pretty hummer That stays one moment in an open flower, And buzzes cheerily from bower to bower?"*

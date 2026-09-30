@@ -5,15 +5,6 @@ status: unread
 ---
 # memorize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commit to memory; learn by heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commit to memory; learn by heart.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The course of instruction was not particularly difficult to memorize."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"How many of my readers would have the industry and application to memorize two thousand verses, even for a Doré Bible?"*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Memorizing a definition is only the first step toward economic reasoning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Commit to memory; learn by heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commit to memory; learn by heart.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The course of instruction was not particularly difficult to memorize."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"How many of my readers would have the industry and application to memorize two thousand verses, even for a Doré Bible?"*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Memorizing a definition is only the first step toward economic reasoning."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # resignedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With resignation and acceptance; in a resigned manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a hopeless resigned manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But although Alpátych, frightened at his own temerity in avoiding the stroke, came up to the prince, bowing his bald head resignedly before him, or perhaps for that very reason, the prince, though he continued to shout: “Blackguards!..."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Osmond’s never so historical.” “Oh you,” the Countess answered as they moved away, “you yourself are Machiavelli--you yourself are Vittoria Colonna!” “We shall hear next that poor Madame Merle is Metastasio!” Gilbert Osmond resignedly sighed."*
-> - 📜 **Bram Stoker (*Dracula*):** *"He became quite quiet, and went and sat on the edge of his bed resignedly, and looked into space with lack-lustre eyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With resignation and acceptance; in a resigned manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a hopeless resigned manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But although Alpátych, frightened at his own temerity in avoiding the stroke, came up to the prince, bowing his bald head resignedly before him, or perhaps for that very reason, the prince, though he continued to shout: “Blackguards!..."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Osmond’s never so historical.” “Oh you,” the Countess answered as they moved away, “you yourself are Machiavelli--you yourself are Vittoria Colonna!” “We shall hear next that poor Madame Merle is Metastasio!” Gilbert Osmond resignedly sighed."*
+> - 📜 **Bram Stoker (*Dracula*):** *"He became quite quiet, and went and sat on the edge of his bed resignedly, and looked into space with lack-lustre eyes."*

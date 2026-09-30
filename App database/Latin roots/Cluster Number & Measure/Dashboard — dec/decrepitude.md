@@ -5,15 +5,6 @@ status: unread
 ---
 # decrepitude
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of deterioration due to old age or long use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of deterioration due to old age or long use.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He is thought to be gouty.” “Gout and decrepitude!” said Sir Walter."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When it was discovered that the knacker and tanner would give only a very few shillings for Prince’s carcase because of his decrepitude, Durbeyfield rose to the occasion."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"His slow, limping step and bowed shoulders gave the appearance of decrepitude, and yet his hard, deep-lined, craggy features, and his enormous limbs showed that he was possessed of unusual strength of body and of character."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of deterioration due to old age or long use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of deterioration due to old age or long use.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"He is thought to be gouty.” “Gout and decrepitude!” said Sir Walter."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When it was discovered that the knacker and tanner would give only a very few shillings for Prince’s carcase because of his decrepitude, Durbeyfield rose to the occasion."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"His slow, limping step and bowed shoulders gave the appearance of decrepitude, and yet his hard, deep-lined, craggy features, and his enormous limbs showed that he was possessed of unusual strength of body and of character."*

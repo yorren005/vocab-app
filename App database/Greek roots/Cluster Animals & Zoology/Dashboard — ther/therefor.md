@@ -5,15 +5,6 @@ status: unread
 ---
 # therefor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (in formal usage, especially legal usage) for that or for it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (in formal usage, especially legal usage) for that or for it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"An’ when we chasten’d him therefor, Thou kens how he bred sic a splore, An’ set the warld in a roar O’ laughing at us;— Curse Thou his basket and his store, Kail an’ potatoes."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The writer was one of those brought up to this belief, and only lately has eaten the kapu fish of his ancestors without fearing a penalty therefor."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Such discharge, with the reasons therefor, being endorsed upon the certificate, will be at once returned to Miss Dix."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (in formal usage, especially legal usage) for that or for it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (in formal usage, especially legal usage) for that or for it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"An’ when we chasten’d him therefor, Thou kens how he bred sic a splore, An’ set the warld in a roar O’ laughing at us;— Curse Thou his basket and his store, Kail an’ potatoes."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The writer was one of those brought up to this belief, and only lately has eaten the kapu fish of his ancestors without fearing a penalty therefor."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Such discharge, with the reasons therefor, being endorsed upon the certificate, will be at once returned to Miss Dix."*

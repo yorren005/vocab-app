@@ -5,15 +5,6 @@ status: unread
 ---
 # airing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The opening of a subject to widespread discussion and debate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short excursion (a walk or ride) in the open air.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed out for an airing, attended by his granddaughter Judy as body-guard."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby.” “Airing yourself, as I am doing, before you go to bed?” the stationer inquires."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Catherine’s complaisance was no longer what it had been in their former airing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The opening of a subject to widespread discussion and debate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short excursion (a walk or ride) in the open air.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed out for an airing, attended by his granddaughter Judy as body-guard."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby.” “Airing yourself, as I am doing, before you go to bed?” the stationer inquires."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Catherine’s complaisance was no longer what it had been in their former airing."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # monitor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who supervises (an examination).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who gives a warning so that a mistake can be avoided.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Brocklehurst, pointing to a very high one from which a monitor had just risen: it was brought."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You have lost your labour—you had better go no farther,” urged the monitor."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"After inquiries made in England, France, Russia, Prussia, Spain, Italy, and America, even in Turkey, the hypothesis of a submarine monitor was definitely rejected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who supervises (an examination).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who gives a warning so that a mistake can be avoided.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Brocklehurst, pointing to a very high one from which a monitor had just risen: it was brought."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You have lost your labour—you had better go no farther,” urged the monitor."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"After inquiries made in England, France, Russia, Prussia, Spain, Italy, and America, even in Turkey, the hypothesis of a submarine monitor was definitely rejected."*

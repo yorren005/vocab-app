@@ -5,13 +5,6 @@ status: unread
 ---
 # atropine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A poisonous crystalline alkaloid extracted from the nightshade family; used as an antispasmodic and to dilate the eye pupil; also administered in large amounts as an antidote for organophosphate nerve agents or organophosphate insecticides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poisonous crystalline alkaloid extracted from the nightshade family; used as an antispasmodic and to dilate the eye pupil; also administered in large amounts as an antidote for organophosphate nerve agents or organophosphate insecticides.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atropine designates a poisonous crystalline alkaloid extracted from the nightshade family; used as an antispasmodic and to dilate the eye pupil; also administered in large amounts as an antidote for organophosphate nerve agents or organophosphate insecticides."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poisonous crystalline alkaloid extracted from the nightshade family; used as an antispasmodic and to dilate the eye pupil; also administered in large amounts as an antidote for organophosphate nerve agents or organophosphate insecticides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poisonous crystalline alkaloid extracted from the nightshade family; used as an antispasmodic and to dilate the eye pupil; also administered in large amounts as an antidote for organophosphate nerve agents or organophosphate insecticides.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atropine designates a poisonous crystalline alkaloid extracted from the nightshade family; used as an antispasmodic and to dilate the eye pupil; also administered in large amounts as an antidote for organophosphate nerve agents or organophosphate insecticides."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # nutrify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give nourishment to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give nourishment to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nutrify designates give nourishment to."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give nourishment to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give nourishment to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nutrify designates give nourishment to."*

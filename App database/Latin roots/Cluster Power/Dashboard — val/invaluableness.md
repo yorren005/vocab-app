@@ -5,13 +5,6 @@ status: unread
 ---
 # invaluableness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The positive quality of being precious and beyond value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The positive quality of being precious and beyond value.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invaluableness designates the positive quality of being precious and beyond value."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The positive quality of being precious and beyond value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The positive quality of being precious and beyond value.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, invaluableness designates the positive quality of being precious and beyond value."*

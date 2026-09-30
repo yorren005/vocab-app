@@ -5,13 +5,6 @@ status: unread
 ---
 # formication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hallucinated sensation that insects or snakes are crawling over the skin; a common side-effect of extensive use of cocaine or amphetamines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hallucinated sensation that insects or snakes are crawling over the skin; a common side-effect of extensive use of cocaine or amphetamines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formication designates hallucinated sensation that insects or snakes are crawling over the skin; a common side-effect of extensive use of cocaine or amphetamines."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hallucinated sensation that insects or snakes are crawling over the skin; a common side-effect of extensive use of cocaine or amphetamines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hallucinated sensation that insects or snakes are crawling over the skin; a common side-effect of extensive use of cocaine or amphetamines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formication designates hallucinated sensation that insects or snakes are crawling over the skin; a common side-effect of extensive use of cocaine or amphetamines."*

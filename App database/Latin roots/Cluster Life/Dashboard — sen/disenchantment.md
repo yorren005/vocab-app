@@ -5,14 +5,6 @@ status: unread
 ---
 # disenchantment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freeing from false belief or illusions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freeing from false belief or illusions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Not if it would do you any good." Oh irony, oh disenchantment!"*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"He loves mankind, and would be beloved; he loves nature, and perceives no relentless purpose in her variable moods; and perhaps most of all he loves his own soul with a love whose disenchantment is to be the sorest agony that an eternity can afford."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freeing from false belief or illusions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freeing from false belief or illusions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Not if it would do you any good." Oh irony, oh disenchantment!"*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"He loves mankind, and would be beloved; he loves nature, and perceives no relentless purpose in her variable moods; and perhaps most of all he loves his own soul with a love whose disenchantment is to be the sorest agony that an eternity can afford."*

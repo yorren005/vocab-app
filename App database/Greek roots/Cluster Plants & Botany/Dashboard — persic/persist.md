@@ -5,15 +5,6 @@ status: unread
 ---
 # persist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Continue to exist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be persistent, refuse to stop.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus to persist In doing wrong extenuates not wrong, But makes it much more heavy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"For Tom-all-Alone’s and Lincoln’s Inn Fields persist in harnessing themselves, a pair of ungovernable coursers, to the chariot of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"More impracticable men and boys persist in walking into Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Continue to exist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be persistent, refuse to stop.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus to persist In doing wrong extenuates not wrong, But makes it much more heavy."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"For Tom-all-Alone’s and Lincoln’s Inn Fields persist in harnessing themselves, a pair of ungovernable coursers, to the chariot of Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"More impracticable men and boys persist in walking into Mr."*

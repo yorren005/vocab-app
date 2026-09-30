@@ -5,13 +5,6 @@ status: unread
 ---
 # subtend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be opposite to; of angles and sides, in geometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be opposite to; of angles and sides, in geometry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Approaching, disparate, at relaxed walking pace they crossed both the circus before George’s church diametrically, the chord in any circle being less than the arc which it subtends."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be opposite to; of angles and sides, in geometry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be opposite to; of angles and sides, in geometry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Approaching, disparate, at relaxed walking pace they crossed both the circus before George’s church diametrically, the chord in any circle being less than the arc which it subtends."*

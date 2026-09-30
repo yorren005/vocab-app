@@ -5,13 +5,6 @@ status: unread
 ---
 # intercalary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a day or month inserted to make the calendar year correspond to the solar year:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a day or month inserted to make the calendar year correspond to the solar year:.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intercalary designates having a day or month inserted to make the calendar year correspond to the solar year:."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a day or month inserted to make the calendar year correspond to the solar year:.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a day or month inserted to make the calendar year correspond to the solar year:.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intercalary designates having a day or month inserted to make the calendar year correspond to the solar year:."*

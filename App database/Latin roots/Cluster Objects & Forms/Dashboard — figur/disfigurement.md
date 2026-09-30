@@ -5,15 +5,6 @@ status: unread
 ---
 # disfigurement
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An appearance that has been spoiled or is misshapen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of damaging the appearance or surface of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"That his generosity rose above my disfigurement and my inheritance of shame."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"By this time there had arisen a shout of laughter at the extraordinary appearance of Car’s back, which irritated the dark queen into getting rid of the disfigurement by the first sudden means available, and independently of the help of the scoffers."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"By good fortune, too, she was naturally so peculiar in appearance as not to show disfigurement like any other woman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An appearance that has been spoiled or is misshapen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of damaging the appearance or surface of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"That his generosity rose above my disfigurement and my inheritance of shame."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"By this time there had arisen a shout of laughter at the extraordinary appearance of Car’s back, which irritated the dark queen into getting rid of the disfigurement by the first sudden means available, and independently of the help of the scoffers."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"By good fortune, too, she was naturally so peculiar in appearance as not to show disfigurement like any other woman."*

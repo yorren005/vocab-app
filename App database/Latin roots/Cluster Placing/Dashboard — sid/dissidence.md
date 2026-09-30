@@ -5,13 +5,6 @@ status: unread
 ---
 # dissidence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disagreement; especially disagreement with the government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disagreement; especially disagreement with the government.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dissidence designates disagreement; especially disagreement with the government."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disagreement; especially disagreement with the government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disagreement; especially disagreement with the government.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dissidence designates disagreement; especially disagreement with the government."*

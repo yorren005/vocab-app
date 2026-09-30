@@ -5,13 +5,6 @@ status: unread
 ---
 # adolescent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A juvenile between the onset of puberty and maturity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or peculiar to or suggestive of an adolescent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The Thompson Indians of British Columbia thought that the Dawn of Day could and would cure hernia if only an adolescent girl prayed to it to do so."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A juvenile between the onset of puberty and maturity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or peculiar to or suggestive of an adolescent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The Thompson Indians of British Columbia thought that the Dawn of Day could and would cure hernia if only an adolescent girl prayed to it to do so."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # neoencephalon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the brain having the most recent phylogenetic origin; the cerebral cortex and related parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the brain having the most recent phylogenetic origin; the cerebral cortex and related parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neoencephalon designates the part of the brain having the most recent phylogenetic origin; the cerebral cortex and related parts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the brain having the most recent phylogenetic origin; the cerebral cortex and related parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the brain having the most recent phylogenetic origin; the cerebral cortex and related parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neoencephalon designates the part of the brain having the most recent phylogenetic origin; the cerebral cortex and related parts."*

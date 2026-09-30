@@ -5,15 +5,6 @@ status: unread
 ---
 # adversely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an adverse manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an adverse manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Meeting two such wealsmen as you are—I cannot call you Lycurguses—if the drink you give me touch my palate adversely, I make a crooked face at it."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Show how each option, which has statistical probability for success up to exponent three can adversely affect those treaties or negotiations." Camari drew a deep breath."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"We commented adversely upon the imbecility of that telegraphic style."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an adverse manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an adverse manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Meeting two such wealsmen as you are—I cannot call you Lycurguses—if the drink you give me touch my palate adversely, I make a crooked face at it."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Show how each option, which has statistical probability for success up to exponent three can adversely affect those treaties or negotiations." Camari drew a deep breath."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"We commented adversely upon the imbecility of that telegraphic style."*

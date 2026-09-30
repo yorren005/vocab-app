@@ -5,13 +5,6 @@ status: unread
 ---
 # haplont
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism (such as some primitive algae) having a diploid zygote that undergoes meiosis to produce haploid cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism (such as some primitive algae) having a diploid zygote that undergoes meiosis to produce haploid cells.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplont designates an organism (such as some primitive algae) having a diploid zygote that undergoes meiosis to produce haploid cells."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism (such as some primitive algae) having a diploid zygote that undergoes meiosis to produce haploid cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism (such as some primitive algae) having a diploid zygote that undergoes meiosis to produce haploid cells.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haplont designates an organism (such as some primitive algae) having a diploid zygote that undergoes meiosis to produce haploid cells."*

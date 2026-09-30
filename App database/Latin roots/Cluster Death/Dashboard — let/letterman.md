@@ -5,15 +5,6 @@ status: unread
 ---
 # letterman
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An athlete who has earned a letter in a school sport.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An athlete who has earned a letter in a school sport.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She made her way at first to the hospital of the Third Corps, and labored there till that as well as the other field hospitals were broken up, when she devoted herself to the wounded in Camp Letterman."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She went next to Camp Letterman General Hospital, where she remained for some weeks, her stay at Gettysburg being in all about two months."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Letterman, the medical director, she took special charge of the diet of the amputation cases; and subsequently distributed the much needed supplies furnished by the Sanitary Commission to the soldiers in their lines."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An athlete who has earned a letter in a school sport.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An athlete who has earned a letter in a school sport.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She made her way at first to the hospital of the Third Corps, and labored there till that as well as the other field hospitals were broken up, when she devoted herself to the wounded in Camp Letterman."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She went next to Camp Letterman General Hospital, where she remained for some weeks, her stay at Gettysburg being in all about two months."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Letterman, the medical director, she took special charge of the diet of the amputation cases; and subsequently distributed the much needed supplies furnished by the Sanitary Commission to the soldiers in their lines."*

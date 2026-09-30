@@ -5,13 +5,6 @@ status: unread
 ---
 # popularizer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes attractive to the general public.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes attractive to the general public.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The cultivators in each age may, in a sense, be said to be the interpreters and popularizers of those who have preceded them; and it is in this sense, and in this sense only, that this part can be attributed to Mill."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes attractive to the general public.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes attractive to the general public.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The cultivators in each age may, in a sense, be said to be the interpreters and popularizers of those who have preceded them; and it is in this sense, and in this sense only, that this part can be attributed to Mill."*

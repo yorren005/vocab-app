@@ -5,15 +5,6 @@ status: unread
 ---
 # deliberate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Think about carefully; weigh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discuss the pros and cons of an issue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To bear all smooth and even, This sudden sending him away must seem Deliberate pause."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As it were, to ride day and night, and not to deliberate, not to remember, not to have patience to shift me— SHALLOW."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This outward-sainted deputy, Whose settled visage and deliberate word Nips youth i’ th’ head, and follies doth enew As falcon doth the fowl, is yet a devil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Think about carefully; weigh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discuss the pros and cons of an issue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To bear all smooth and even, This sudden sending him away must seem Deliberate pause."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As it were, to ride day and night, and not to deliberate, not to remember, not to have patience to shift me— SHALLOW."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This outward-sainted deputy, Whose settled visage and deliberate word Nips youth i’ th’ head, and follies doth enew As falcon doth the fowl, is yet a devil."*

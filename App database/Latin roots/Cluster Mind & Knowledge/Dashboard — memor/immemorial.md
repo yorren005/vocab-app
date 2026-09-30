@@ -5,15 +5,6 @@ status: unread
 ---
 # immemorial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Long past; beyond the limits of memory or tradition or recorded history.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Long past; beyond the limits of memory or tradition or recorded history.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The spot had been consecrated to this ancient diversion from time immemorial, the old stocks conveniently forming a base facing the boundary of the churchyard, in front of which the ground was trodden hard and bare as a pavement by the players."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I am devoted to you, Tessy, dearest, in all sincerity!” Old Pretty by this time had looked round, puzzled; and seeing two people crouching under her where, by immemorial custom, there should have been only one, lifted her hind leg crossly."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This was due to her immemorial policy of isolation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Long past; beyond the limits of memory or tradition or recorded history.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Long past; beyond the limits of memory or tradition or recorded history.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The spot had been consecrated to this ancient diversion from time immemorial, the old stocks conveniently forming a base facing the boundary of the churchyard, in front of which the ground was trodden hard and bare as a pavement by the players."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I am devoted to you, Tessy, dearest, in all sincerity!” Old Pretty by this time had looked round, puzzled; and seeing two people crouching under her where, by immemorial custom, there should have been only one, lifted her hind leg crossly."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This was due to her immemorial policy of isolation."*

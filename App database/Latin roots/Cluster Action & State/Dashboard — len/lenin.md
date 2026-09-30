@@ -5,13 +5,6 @@ status: unread
 ---
 # lenin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Russian founder of the bolsheviks and leader of the russian revolution and first head of the ussr (1870-1924).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Russian founder of the bolsheviks and leader of the russian revolution and first head of the ussr (1870-1924).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lenin designates russian founder of the bolsheviks and leader of the russian revolution and first head of the ussr (1870-1924)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Russian founder of the bolsheviks and leader of the russian revolution and first head of the ussr (1870-1924).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Russian founder of the bolsheviks and leader of the russian revolution and first head of the ussr (1870-1924).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lenin designates russian founder of the bolsheviks and leader of the russian revolution and first head of the ussr (1870-1924)."*

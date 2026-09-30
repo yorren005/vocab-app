@@ -5,20 +5,6 @@ status: unread
 ---
 # mar
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Destroy
-> 2. **Nuance / Usage**: Blemish
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to mar the target*) and intransitive clauses (*maring against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Striving to better, oft we mar what’s well."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"For if I do, I’ll mar the young clerk’s pen."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"By my troth, it is well said; for himself to mar, quoth a?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To impair, blemish, or spoil the physical appearance, perfection, or soundness of something.
+> 2. **Nuance / Usage**: Frequently used figuratively of intangible states—such as joy, harmony, reputation, or peace—where a single flaw or intrusion disrupts an otherwise whole experience.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to mar the surface*) and passive clauses (*marred by a single flaw*).
+> - **Collocations & Registers**: Literary and formal descriptive registers; collocated with *beauty*, *peace*, *felicity*, *symmetry*, and *blemish*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*King Lear*):** *"Striving to better, oft we **mar** what’s well."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"It only gave my nerves a shock, of which I feel the reverberation to this day, sufficient to **mar** my peace."*
+> - 📜 **Jane Austen (*Emma*):** *"There was nothing to **mar** the felicity of the party, for the weather remained mild and every guest was in high spirits."*

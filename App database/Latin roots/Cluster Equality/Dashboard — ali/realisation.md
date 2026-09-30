@@ -5,15 +5,6 @@ status: unread
 ---
 # realisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition that has been completed or enriched by someone other than the composer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming to understand something clearly and distinctly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Sometimes, for a fleeting moment, I thought I caught a glance, heard a tone, beheld a form, which announced the realisation of my dream: but I was presently undeceived."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"They shall come and look at me here.” With some vague misgiving that she might get upon the table then and there and die at once, the complete realisation of the ghastly waxwork at the Fair, I shrank under her touch."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"What alone was wanting to the realisation of a vast fortune, he considered to be More Capital."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition that has been completed or enriched by someone other than the composer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming to understand something clearly and distinctly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Sometimes, for a fleeting moment, I thought I caught a glance, heard a tone, beheld a form, which announced the realisation of my dream: but I was presently undeceived."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"They shall come and look at me here.” With some vague misgiving that she might get upon the table then and there and die at once, the complete realisation of the ghastly waxwork at the Fair, I shrank under her touch."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"What alone was wanting to the realisation of a vast fortune, he considered to be More Capital."*

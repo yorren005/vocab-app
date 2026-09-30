@@ -5,15 +5,6 @@ status: unread
 ---
 # crisis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The turning point for better or worse in an acute disease or fever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A paroxysmal attack of pain, distress, or disordered function.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby finds himself in a crisis of nightmare, with his little woman shaking him and saying “What’s the matter with the man!” The little woman herself is not the least item in his difficulty."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You have roused my curiosity, and now you must gratify it.” Miss Flite looked at Charley for advice in this important crisis, who said, “If you please, ma’am, you had better tell then,” and therein gratified Miss Flite beyond measure."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He thought the crisis of the storm had passed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The turning point for better or worse in an acute disease or fever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A paroxysmal attack of pain, distress, or disordered function.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby finds himself in a crisis of nightmare, with his little woman shaking him and saying “What’s the matter with the man!” The little woman herself is not the least item in his difficulty."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You have roused my curiosity, and now you must gratify it.” Miss Flite looked at Charley for advice in this important crisis, who said, “If you please, ma’am, you had better tell then,” and therein gratified Miss Flite beyond measure."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He thought the crisis of the storm had passed."*

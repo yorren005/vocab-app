@@ -5,13 +5,6 @@ status: unread
 ---
 # philtre
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drink credited with magical power; can make the one who takes it love the one who gave it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drink credited with magical power; can make the one who takes it love the one who gave it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Teufelsbürst, without philosophising about it, called his preparation simply a love-philtre, a concoction well known by name, but the composition of which was the secret of only a few."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drink credited with magical power; can make the one who takes it love the one who gave it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drink credited with magical power; can make the one who takes it love the one who gave it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Teufelsbürst, without philosophising about it, called his preparation simply a love-philtre, a concoction well known by name, but the composition of which was the secret of only a few."*

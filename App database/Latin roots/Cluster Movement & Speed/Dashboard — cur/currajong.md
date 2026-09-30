@@ -5,13 +5,6 @@ status: unread
 ---
 # currajong
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed tree of eastern australia yielding a tough durable fiber and soft light attractively grained wood; foliage is an important emergency food for cattle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed tree of eastern australia yielding a tough durable fiber and soft light attractively grained wood; foliage is an important emergency food for cattle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, currajong designates widely distributed tree of eastern australia yielding a tough durable fiber and soft light attractively grained wood; foliage is an important emergency food for cattle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed tree of eastern australia yielding a tough durable fiber and soft light attractively grained wood; foliage is an important emergency food for cattle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed tree of eastern australia yielding a tough durable fiber and soft light attractively grained wood; foliage is an important emergency food for cattle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, currajong designates widely distributed tree of eastern australia yielding a tough durable fiber and soft light attractively grained wood; foliage is an important emergency food for cattle."*

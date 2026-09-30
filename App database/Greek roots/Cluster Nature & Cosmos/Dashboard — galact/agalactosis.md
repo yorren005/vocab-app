@@ -5,13 +5,6 @@ status: unread
 ---
 # agalactosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which milk is not secreted in the mother's breasts after her child has been delivered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition in which milk is not secreted in the mother's breasts after her child has been delivered.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agalactosis designates a condition in which milk is not secreted in the mother's breasts after her child has been delivered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which milk is not secreted in the mother's breasts after her child has been delivered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition in which milk is not secreted in the mother's breasts after her child has been delivered.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agalactosis designates a condition in which milk is not secreted in the mother's breasts after her child has been delivered."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # ligate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Join letters in a ligature when writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bind chemically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ligate designates join letters in a ligature when writing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Join letters in a ligature when writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bind chemically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ligate designates join letters in a ligature when writing."*

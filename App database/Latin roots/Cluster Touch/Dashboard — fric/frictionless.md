@@ -5,13 +5,6 @@ status: unread
 ---
 # frictionless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking all friction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking all friction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. H. Costello (*Sure-dart*):** *"A dusky and scaled neck, still with a silent and frictionless motion, rose steadily after the head, till at last that head looked down upon the water from a height of more than a long spear-length!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking all friction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking all friction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **F. H. Costello (*Sure-dart*):** *"A dusky and scaled neck, still with a silent and frictionless motion, rose steadily after the head, till at last that head looked down upon the water from a height of more than a long spear-length!"*

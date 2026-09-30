@@ -5,13 +5,6 @@ status: unread
 ---
 # monoecious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having pistillate and staminate flowers on the same plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having male and female sex organs in the same individual : hermaphroditic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoecious designates having pistillate and staminate flowers on the same plant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having pistillate and staminate flowers on the same plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having male and female sex organs in the same individual : hermaphroditic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoecious designates having pistillate and staminate flowers on the same plant."*

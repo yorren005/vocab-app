@@ -5,14 +5,6 @@ status: unread
 ---
 # aquarium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tank or pool or bowl filled with water for keeping live fish and underwater animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tank or pool or bowl filled with water for keeping live fish and underwater animals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The obscurity of the saloon showed to advantage the brightness outside, and we looked out as if this pure crystal had been the glass of an immense aquarium."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I would not have changed places with the Prince of Wales going to open an Aquarium."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tank or pool or bowl filled with water for keeping live fish and underwater animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tank or pool or bowl filled with water for keeping live fish and underwater animals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The obscurity of the saloon showed to advantage the brightness outside, and we looked out as if this pure crystal had been the glass of an immense aquarium."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I would not have changed places with the Prince of Wales going to open an Aquarium."*

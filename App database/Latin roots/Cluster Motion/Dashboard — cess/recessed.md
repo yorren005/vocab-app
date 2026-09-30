@@ -5,15 +5,6 @@ status: unread
 ---
 # recessed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into a recess.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a recess in.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His house stood recessed from the road, and the stables, which are to a farm what a fireplace is to a room, were behind, their lower portions being lost amid bushes of laurel."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A conical view tank, recessed in the wall to his left, glowed with symbols of ships and their military characteristics, along with tactical and logistical links."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Peering from a recessed slot along the wall he saw Ram's abductors crowd around the entry to an open utility."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into a recess.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a recess in.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His house stood recessed from the road, and the stables, which are to a farm what a fireplace is to a room, were behind, their lower portions being lost amid bushes of laurel."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A conical view tank, recessed in the wall to his left, glowed with symbols of ships and their military characteristics, along with tactical and logistical links."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Peering from a recessed slot along the wall he saw Ram's abductors crowd around the entry to an open utility."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # togo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic on the western coast of africa on the gulf of guinea; formerly under french control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic on the western coast of africa on the gulf of guinea; formerly under french control.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"See above, p. 27. [205] Jakob Spieth, _Die Ewe-Stämme_ (Berlin, 1906), p. 192. [206] Anton Witte, "Menstruation und Pubertätsfeier der Mädchen in Kpandugebiet Togo," _Baessler-Archiv_, i. (1911) p. 279. [207] Th."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On the top of Mount Agu in Togo, a district of West Africa, resides a fetish called Bagba, who is supposed to control the wind and the rain."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On Mount Agu in Togo there lives a fetish or spirit called Bagba, who is of great importance for the whole of the surrounding country."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic on the western coast of africa on the gulf of guinea; formerly under french control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic on the western coast of africa on the gulf of guinea; formerly under french control.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"See above, p. 27. [205] Jakob Spieth, _Die Ewe-Stämme_ (Berlin, 1906), p. 192. [206] Anton Witte, "Menstruation und Pubertätsfeier der Mädchen in Kpandugebiet Togo," _Baessler-Archiv_, i. (1911) p. 279. [207] Th."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On the top of Mount Agu in Togo, a district of West Africa, resides a fetish called Bagba, who is supposed to control the wind and the rain."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On Mount Agu in Togo there lives a fetish or spirit called Bagba, who is of great importance for the whole of the surrounding country."*

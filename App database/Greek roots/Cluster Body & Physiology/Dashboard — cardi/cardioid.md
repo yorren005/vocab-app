@@ -5,13 +5,6 @@ status: unread
 ---
 # cardioid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heart-shaped curve that is traced by a point on the circumference of a circle rolling completely around an equal fixed circle and has an equation in one of the forms ρ = a(1 ± cos θ) or ρ = a(1 ± sin θ) in polar coordinates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heart-shaped curve that is traced by a point on the circumference of a circle rolling completely around an equal fixed circle and has an equation in one of the forms ρ = a(1 ± cos θ) or ρ = a(1 ± sin θ) in polar coordinates.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardioid designates a heart-shaped curve that is traced by a point on the circumference of a circle rolling completely around an equal fixed circle and has an equation in one of the forms ρ = a(1 ± cos θ) or ρ = a(1 ± sin θ) in polar coordinates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heart-shaped curve that is traced by a point on the circumference of a circle rolling completely around an equal fixed circle and has an equation in one of the forms ρ = a(1 ± cos θ) or ρ = a(1 ± sin θ) in polar coordinates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heart-shaped curve that is traced by a point on the circumference of a circle rolling completely around an equal fixed circle and has an equation in one of the forms ρ = a(1 ± cos θ) or ρ = a(1 ± sin θ) in polar coordinates.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardioid designates a heart-shaped curve that is traced by a point on the circumference of a circle rolling completely around an equal fixed circle and has an equation in one of the forms ρ = a(1 ± cos θ) or ρ = a(1 ± sin θ) in polar coordinates."*

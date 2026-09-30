@@ -5,15 +5,6 @@ status: unread
 ---
 # abstract
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A concept or idea not associated with any specific instance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sketchy summary of the main points of an argument or theory.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall find there A man who is the abstract of all faults That all men follow."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Which soon he granted, Being an abstract ’tween his lust and him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look here upon thy brother Geoffrey’s face; These eyes, these brows, were moulded out of his: This little abstract doth contain that large Which died in Geoffrey, and the hand of time Shall draw this brief into as huge a volume."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A concept or idea not associated with any specific instance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sketchy summary of the main points of an argument or theory.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall find there A man who is the abstract of all faults That all men follow."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Which soon he granted, Being an abstract ’tween his lust and him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look here upon thy brother Geoffrey’s face; These eyes, these brows, were moulded out of his: This little abstract doth contain that large Which died in Geoffrey, and the hand of time Shall draw this brief into as huge a volume."*

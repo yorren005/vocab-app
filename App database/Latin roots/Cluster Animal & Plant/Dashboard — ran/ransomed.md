@@ -5,15 +5,6 @@ status: unread
 ---
 # ransomed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exchange or buy back for money; under threat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Saved from the bondage of sin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then I would he were here alone; so should he be sure to be ransomed, and a many poor men’s lives saved."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Duke of Bedford had a prisoner Call’d the brave Lord Ponton de Santrailles; For him was I exchanged and ransomed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There was speech in their dumbness, language in their very gesture; they looked as they had heard of a world ransomed, or one destroyed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exchange or buy back for money; under threat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Saved from the bondage of sin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then I would he were here alone; so should he be sure to be ransomed, and a many poor men’s lives saved."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Duke of Bedford had a prisoner Call’d the brave Lord Ponton de Santrailles; For him was I exchanged and ransomed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There was speech in their dumbness, language in their very gesture; they looked as they had heard of a world ransomed, or one destroyed."*

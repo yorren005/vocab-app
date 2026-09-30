@@ -5,13 +5,6 @@ status: unread
 ---
 # bioremediation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biotechnology that uses biological process to overcome environmental problems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of treating waste or pollutants by the use of microorganisms (as bacteria) that can break down the undesirable substances.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioremediation designates the branch of biotechnology that uses biological process to overcome environmental problems."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biotechnology that uses biological process to overcome environmental problems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of treating waste or pollutants by the use of microorganisms (as bacteria) that can break down the undesirable substances.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioremediation designates the branch of biotechnology that uses biological process to overcome environmental problems."*

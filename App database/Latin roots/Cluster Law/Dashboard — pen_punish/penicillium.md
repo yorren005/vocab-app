@@ -5,13 +5,6 @@ status: unread
 ---
 # penicillium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of fungi commonly growing as green or blue molds on decaying food; used in making cheese and as a source of penicillin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of fungi commonly growing as green or blue molds on decaying food; used in making cheese and as a source of penicillin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penicillium designates genus of fungi commonly growing as green or blue molds on decaying food; used in making cheese and as a source of penicillin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of fungi commonly growing as green or blue molds on decaying food; used in making cheese and as a source of penicillin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of fungi commonly growing as green or blue molds on decaying food; used in making cheese and as a source of penicillin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penicillium designates genus of fungi commonly growing as green or blue molds on decaying food; used in making cheese and as a source of penicillin."*

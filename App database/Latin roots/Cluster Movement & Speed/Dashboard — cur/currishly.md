@@ -5,13 +5,6 @@ status: unread
 ---
 # currishly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a currish manner; meanspiritedly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a currish manner; meanspiritedly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, currishly designates in a currish manner; meanspiritedly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a currish manner; meanspiritedly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a currish manner; meanspiritedly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, currishly designates in a currish manner; meanspiritedly."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # heterogeneous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of elements that are not of the same kind or nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originating outside the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The populations of many rural neighborhoods thus became heterogeneous, with results calamitous to the social life."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Oh,” she began, “is that where you usually sit?” She looked about at the heterogeneous chairs and tables."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"In Italy, as in England, the lady had a multitude of friends, both among the natives of the country and its heterogeneous visitors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of elements that are not of the same kind or nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originating outside the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The populations of many rural neighborhoods thus became heterogeneous, with results calamitous to the social life."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Oh,” she began, “is that where you usually sit?” She looked about at the heterogeneous chairs and tables."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"In Italy, as in England, the lady had a multitude of friends, both among the natives of the country and its heterogeneous visitors."*

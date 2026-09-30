@@ -5,13 +5,6 @@ status: unread
 ---
 # terrorist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radical who employs terror as a political weapon; usually organizes with other terrorists in small cells; often uses religion as a cover for terrorist activities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radical who employs terror as a political weapon; usually organizes with other terrorists in small cells; often uses religion as a cover for terrorist activities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Our transports to the Slingshot depot and construction site are being raided and harassed by terrorists and pirates who are directed by and provided sanctuary by both official and non-official entities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radical who employs terror as a political weapon; usually organizes with other terrorists in small cells; often uses religion as a cover for terrorist activities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radical who employs terror as a political weapon; usually organizes with other terrorists in small cells; often uses religion as a cover for terrorist activities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Our transports to the Slingshot depot and construction site are being raided and harassed by terrorists and pirates who are directed by and provided sanctuary by both official and non-official entities."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # distributively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As individuals or as separate units (not collectively).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a distributive manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Now undoubtedly finite things, taken distributively, have contradictory attributes, but not as a class."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As individuals or as separate units (not collectively).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a distributive manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Now undoubtedly finite things, taken distributively, have contradictory attributes, but not as a class."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # decrease
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A change downward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process of becoming smaller or shorter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I perceive that men as plants increase, Cheered and checked even by the self-same sky: Vaunt in their youthful sap, at height decrease, And wear their brave state out of memory."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if there be no great love in the beginning, yet heaven may decrease it upon better acquaintance, when we are married and have more occasion to know one another."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But as the mileage lessened between her and the spot of her pilgrimage, so did Tess’s confidence decrease, and her enterprise loom out more formidably."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A change downward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process of becoming smaller or shorter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I perceive that men as plants increase, Cheered and checked even by the self-same sky: Vaunt in their youthful sap, at height decrease, And wear their brave state out of memory."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if there be no great love in the beginning, yet heaven may decrease it upon better acquaintance, when we are married and have more occasion to know one another."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But as the mileage lessened between her and the spot of her pilgrimage, so did Tess’s confidence decrease, and her enterprise loom out more formidably."*

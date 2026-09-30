@@ -5,13 +5,6 @@ status: unread
 ---
 # gastrula
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Double-walled stage of the embryo resulting from invagination of the blastula; the outer layer of cells is the ectoderm and the inner layer differentiates into the mesoderm and endoderm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Double-walled stage of the embryo resulting from invagination of the blastula; the outer layer of cells is the ectoderm and the inner layer differentiates into the mesoderm and endoderm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastrula designates double-walled stage of the embryo resulting from invagination of the blastula; the outer layer of cells is the ectoderm and the inner layer differentiates into the mesoderm and endoderm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Double-walled stage of the embryo resulting from invagination of the blastula; the outer layer of cells is the ectoderm and the inner layer differentiates into the mesoderm and endoderm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Double-walled stage of the embryo resulting from invagination of the blastula; the outer layer of cells is the ectoderm and the inner layer differentiates into the mesoderm and endoderm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastrula designates double-walled stage of the embryo resulting from invagination of the blastula; the outer layer of cells is the ectoderm and the inner layer differentiates into the mesoderm and endoderm."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # pathless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking pathways.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking pathways.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"But wide as pathless was the space That lay our lives between, And dangerous as the foamy race Of ocean-surges green."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The snellest blast, at mirkest hours, That round the pathless wand’rer pours Is nocht to what poor she endures, That’s trusted faithless man, jo."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The pathless, wild and wimpling burn, Wi’ Chloris in my arms, be mine; And I the warld nor wish nor scorn, Its joys and griefs alike resign."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking pathways.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking pathways.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"But wide as pathless was the space That lay our lives between, And dangerous as the foamy race Of ocean-surges green."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The snellest blast, at mirkest hours, That round the pathless wand’rer pours Is nocht to what poor she endures, That’s trusted faithless man, jo."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The pathless, wild and wimpling burn, Wi’ Chloris in my arms, be mine; And I the warld nor wish nor scorn, Its joys and griefs alike resign."*

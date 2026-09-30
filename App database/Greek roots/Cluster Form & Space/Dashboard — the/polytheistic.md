@@ -5,14 +5,6 @@ status: unread
 ---
 # polytheistic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by polytheism : believing in or worshiping multiple gods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or characterized by polytheism : believing in or worshiping multiple gods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"No polytheistic religion can exclude gods from its pantheon; all divinities that man can devise have a right there."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Its business now was to reconcile its own monotheistic dogma with popular polytheistic practice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by polytheism : believing in or worshiping multiple gods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or characterized by polytheism : believing in or worshiping multiple gods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"No polytheistic religion can exclude gods from its pantheon; all divinities that man can devise have a right there."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Its business now was to reconcile its own monotheistic dogma with popular polytheistic practice."*

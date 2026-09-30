@@ -5,15 +5,6 @@ status: unread
 ---
 # modernized
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make repairs, renovations, revisions or adjustments to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become technologically advanced.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The wedding dress of her grandmother, modernized for use, with sundry ornaments, handed down as heirlooms in the family."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"NOTE--The language of the quotations is generally modernized."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"For this and other reasons, the US expanded and modernized its existing facilities to conduct air operations over the USSR's Eastern and Southwestern regions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make repairs, renovations, revisions or adjustments to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become technologically advanced.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The wedding dress of her grandmother, modernized for use, with sundry ornaments, handed down as heirlooms in the family."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"NOTE--The language of the quotations is generally modernized."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"For this and other reasons, the US expanded and modernized its existing facilities to conduct air operations over the USSR's Eastern and Southwestern regions."*

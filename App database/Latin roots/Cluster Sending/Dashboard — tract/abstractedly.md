@@ -5,15 +5,6 @@ status: unread
 ---
 # abstractedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an absentminded or preoccupied manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an absentminded or preoccupied manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Almost frightened by coming upon him so unexpectedly, I stood still for a moment and should have retired without speaking had he not, in again passing his hand abstractedly through his hair, seen me and started."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The farmer had never turned his head once, but with eyes fixed on the most advanced point along the road, passed as unconsciously and abstractedly as if Bathsheba and her charms were thin air."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba, overcome by a hundred tumultuous feelings resulting from the scene, abstractedly sat down on a tuft of heather."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an absentminded or preoccupied manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an absentminded or preoccupied manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Almost frightened by coming upon him so unexpectedly, I stood still for a moment and should have retired without speaking had he not, in again passing his hand abstractedly through his hair, seen me and started."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The farmer had never turned his head once, but with eyes fixed on the most advanced point along the road, passed as unconsciously and abstractedly as if Bathsheba and her charms were thin air."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba, overcome by a hundred tumultuous feelings resulting from the scene, abstractedly sat down on a tuft of heather."*

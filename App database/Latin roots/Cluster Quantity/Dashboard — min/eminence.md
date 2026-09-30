@@ -5,15 +5,6 @@ status: unread
 ---
 # eminence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: High status importance owing to marked superiority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protuberance on a bone especially for attachment of a muscle or ligament.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do invest you jointly with my power, Pre-eminence, and all the large effects That troop with majesty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let your remembrance apply to Banquo; Present him eminence, both with eye and tongue: Unsafe the while, that we Must lave our honours in these flattering streams, And make our faces vizards to our hearts, Disguising what they are."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s Nestor, Instructed by the antiquary times— He must, he is, he cannot but be wise; But pardon, father Nestor, were your days As green as Ajax’ and your brain so temper’d, You should not have the eminence of him, But be as Ajax."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: High status importance owing to marked superiority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protuberance on a bone especially for attachment of a muscle or ligament.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do invest you jointly with my power, Pre-eminence, and all the large effects That troop with majesty."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let your remembrance apply to Banquo; Present him eminence, both with eye and tongue: Unsafe the while, that we Must lave our honours in these flattering streams, And make our faces vizards to our hearts, Disguising what they are."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s Nestor, Instructed by the antiquary times— He must, he is, he cannot but be wise; But pardon, father Nestor, were your days As green as Ajax’ and your brain so temper’d, You should not have the eminence of him, But be as Ajax."*

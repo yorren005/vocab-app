@@ -5,13 +5,6 @@ status: unread
 ---
 # aorta
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The great arterial trunk that carries blood from the heart to be distributed by branch arteries through the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The curved part of the aorta that connects the ascending aorta with the descending aorta and from which the brachiocephalic artery, left carotid artery, and left subclavian artery arise —called also aortic arch.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aorta designates the great arterial trunk that carries blood from the heart to be distributed by branch arteries through the body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The great arterial trunk that carries blood from the heart to be distributed by branch arteries through the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The curved part of the aorta that connects the ascending aorta with the descending aorta and from which the brachiocephalic artery, left carotid artery, and left subclavian artery arise —called also aortic arch.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aorta designates the great arterial trunk that carries blood from the heart to be distributed by branch arteries through the body."*

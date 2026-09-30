@@ -5,15 +5,6 @@ status: unread
 ---
 # according
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Go together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allow to have.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I press in here, sir, amongst the rest of the country copulatives, to swear and to forswear according as marriage binds and blood breaks."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"According to the fool’s bolt, sir, and such dulcet diseases."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This very day a Syracusian merchant Is apprehended for arrival here, And, not being able to buy out his life, According to the statute of the town Dies ere the weary sun set in the west."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Go together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allow to have.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I press in here, sir, amongst the rest of the country copulatives, to swear and to forswear according as marriage binds and blood breaks."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"According to the fool’s bolt, sir, and such dulcet diseases."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This very day a Syracusian merchant Is apprehended for arrival here, And, not being able to buy out his life, According to the statute of the town Dies ere the weary sun set in the west."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # predominant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Most frequent or common.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having superior power and influence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virtue is choked with foul ambition, And charity chased hence by rancour’s hand; Foul subornation is predominant, And equity exiled your highness’ land."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you find Your patience so predominant in your nature, That you can let this go?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Two such opposed kings encamp them still In man as well as herbs,—grace and rude will; And where the worser is predominant, Full soon the canker death eats up that plant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Most frequent or common.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having superior power and influence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virtue is choked with foul ambition, And charity chased hence by rancour’s hand; Foul subornation is predominant, And equity exiled your highness’ land."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you find Your patience so predominant in your nature, That you can let this go?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Two such opposed kings encamp them still In man as well as herbs,—grace and rude will; And where the worser is predominant, Full soon the canker death eats up that plant."*

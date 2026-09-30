@@ -5,13 +5,6 @@ status: unread
 ---
 # acantholysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A breakdown of a cell layer in the epidermis (as in pemphigus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A breakdown of a cell layer in the epidermis (as in pemphigus).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acantholysis designates a breakdown of a cell layer in the epidermis (as in pemphigus)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A breakdown of a cell layer in the epidermis (as in pemphigus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A breakdown of a cell layer in the epidermis (as in pemphigus).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acantholysis designates a breakdown of a cell layer in the epidermis (as in pemphigus)."*

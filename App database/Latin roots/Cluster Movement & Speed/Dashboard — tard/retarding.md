@@ -5,15 +5,6 @@ status: unread
 ---
 # retarding
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to move more slowly or operate at a slower rate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be delayed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Jealousy of Mr Elliot had been the retarding weight, the doubt, the torment."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Statistics show that while a general price level is slowly changing like a tidal movement, the effect of the rhythmic business cycle appears now in hastening, now in retarding, the changes in the price level. § 10. #Capitalization theory of crises#."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The prayer was heard, the mountain was climbed, the guardians of the cave vanquished, and the body recovered." A story of retarding the sun and making the day longer to accomplish his purpose is told of Maui-a-kalana, according to Dibble's history."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to move more slowly or operate at a slower rate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be delayed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Jealousy of Mr Elliot had been the retarding weight, the doubt, the torment."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Statistics show that while a general price level is slowly changing like a tidal movement, the effect of the rhythmic business cycle appears now in hastening, now in retarding, the changes in the price level. § 10. #Capitalization theory of crises#."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The prayer was heard, the mountain was climbed, the guardians of the cave vanquished, and the body recovered." A story of retarding the sun and making the day longer to accomplish his purpose is told of Maui-a-kalana, according to Dibble's history."*

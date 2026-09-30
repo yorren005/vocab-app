@@ -5,13 +5,6 @@ status: unread
 ---
 # pureness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being undiluted or unmixed with extraneous material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being unsullied by sin or moral wrong; lacking a knowledge of evil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Were you ten Lords, 'tis false; the pureness of her chaste thoughts entertains not such spotted instruments. _Ang_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being undiluted or unmixed with extraneous material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being unsullied by sin or moral wrong; lacking a knowledge of evil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Were you ten Lords, 'tis false; the pureness of her chaste thoughts entertains not such spotted instruments. _Ang_."*

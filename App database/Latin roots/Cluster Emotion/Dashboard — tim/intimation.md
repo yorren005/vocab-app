@@ -5,15 +5,6 @@ status: unread
 ---
 # intimation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An indirect suggestion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slight suggestion or vague understanding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Prayers were offered accordingly, but without intimation of any change."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Immediately there came to his mind, amid floods of tears, "_Inasmuch as ye have done it unto the least of these, my children, ye have done it unto me_." Instantly he understood it as a message from the Lord, and the intimation of the Holy Spirit."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Hannah entered with the intimation that “a poor lad was come, at that unlikely time, to fetch Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An indirect suggestion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slight suggestion or vague understanding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Prayers were offered accordingly, but without intimation of any change."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Immediately there came to his mind, amid floods of tears, "_Inasmuch as ye have done it unto the least of these, my children, ye have done it unto me_." Instantly he understood it as a message from the Lord, and the intimation of the Holy Spirit."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Hannah entered with the intimation that “a poor lad was come, at that unlikely time, to fetch Mr."*

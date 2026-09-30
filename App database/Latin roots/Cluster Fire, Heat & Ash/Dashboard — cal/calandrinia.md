@@ -5,13 +5,6 @@ status: unread
 ---
 # calandrinia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of low-growing herbs; widespread throughout tropical and warm temperate regions having usually basal leaves and panicles of purplish ephemeral flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of low-growing herbs; widespread throughout tropical and warm temperate regions having usually basal leaves and panicles of purplish ephemeral flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calandrinia designates large genus of low-growing herbs; widespread throughout tropical and warm temperate regions having usually basal leaves and panicles of purplish ephemeral flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of low-growing herbs; widespread throughout tropical and warm temperate regions having usually basal leaves and panicles of purplish ephemeral flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of low-growing herbs; widespread throughout tropical and warm temperate regions having usually basal leaves and panicles of purplish ephemeral flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calandrinia designates large genus of low-growing herbs; widespread throughout tropical and warm temperate regions having usually basal leaves and panicles of purplish ephemeral flowers."*

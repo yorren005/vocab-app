@@ -5,13 +5,6 @@ status: unread
 ---
 # residency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of dwelling in a place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of physician who is receiving special training in a hospital (usually after completing an internship).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Morocco had been a French protectorate since 1912, and thousands of French citizens and other Europeans had migrated to French and Spanish Morocco over the years and taken up residency."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of dwelling in a place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of physician who is receiving special training in a hospital (usually after completing an internship).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Morocco had been a French protectorate since 1912, and thousands of French citizens and other Europeans had migrated to French and Spanish Morocco over the years and taken up residency."*

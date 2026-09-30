@@ -5,15 +5,6 @@ status: unread
 ---
 # inarticulate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without or deprived of the use of speech or words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without or deprived of the use of speech or words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket soon detects an unusual slowness in his speech, with now and then a curious trouble in beginning, which occasions him to utter inarticulate sounds."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then he stops, and with more of those inarticulate sounds, lifts up his eyes and seems to stare at something."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"For herself, she could do nothing but pray; and even her prayer was but an inarticulate and unvoiced cry for help. _Suddenly the physician started from his seat."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without or deprived of the use of speech or words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without or deprived of the use of speech or words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket soon detects an unusual slowness in his speech, with now and then a curious trouble in beginning, which occasions him to utter inarticulate sounds."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Then he stops, and with more of those inarticulate sounds, lifts up his eyes and seems to stare at something."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"For herself, she could do nothing but pray; and even her prayer was but an inarticulate and unvoiced cry for help. _Suddenly the physician started from his seat."*

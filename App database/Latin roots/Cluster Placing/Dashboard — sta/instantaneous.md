@@ -5,15 +5,6 @@ status: unread
 ---
 # instantaneous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring with no delay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring with no delay.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I felt the blood rush into my face for the first time, but it was only an instantaneous emotion."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The instantaneous check nearly threw Bathsheba off her balance."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"This instantaneous restoration will be accounted for by different persons in different ways."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring with no delay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring with no delay.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I felt the blood rush into my face for the first time, but it was only an instantaneous emotion."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The instantaneous check nearly threw Bathsheba off her balance."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"This instantaneous restoration will be accounted for by different persons in different ways."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # undenominational
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not bound or devoted to the promotion of a particular denomination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not bound or devoted to the promotion of a particular denomination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undenominational designates not bound or devoted to the promotion of a particular denomination."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not bound or devoted to the promotion of a particular denomination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not bound or devoted to the promotion of a particular denomination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undenominational designates not bound or devoted to the promotion of a particular denomination."*

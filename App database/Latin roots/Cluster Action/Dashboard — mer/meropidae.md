@@ -5,13 +5,6 @@ status: unread
 ---
 # meropidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bee-eaters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bee-eaters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meropidae designates bee-eaters."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bee-eaters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bee-eaters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meropidae designates bee-eaters."*

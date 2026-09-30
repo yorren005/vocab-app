@@ -5,13 +5,6 @@ status: unread
 ---
 # intradepartmental
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Within a department.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Within a department.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intradepartmental designates within a department."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Within a department.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Within a department.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intradepartmental designates within a department."*

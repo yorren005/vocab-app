@@ -5,15 +5,6 @@ status: unread
 ---
 # marseille
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city in southeastern france on the mediterranean.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strong cotton fabric with a raised pattern; used for bedspreads.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I duly am inform’d His grace is at Marseilles; to which place We have convenient convoy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His highness comes post from Marseilles, of as able body as when he number’d thirty; he will be here tomorrow, or I am deceived by him that in such intelligence hath seldom fail’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My land amounts not to so much in all: That she shall have, besides an argosy That now is lying in Marseilles’ road."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city in southeastern france on the mediterranean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strong cotton fabric with a raised pattern; used for bedspreads.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I duly am inform’d His grace is at Marseilles; to which place We have convenient convoy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His highness comes post from Marseilles, of as able body as when he number’d thirty; he will be here tomorrow, or I am deceived by him that in such intelligence hath seldom fail’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My land amounts not to so much in all: That she shall have, besides an argosy That now is lying in Marseilles’ road."*

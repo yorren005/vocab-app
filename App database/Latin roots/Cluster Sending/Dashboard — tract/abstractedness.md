@@ -5,13 +5,6 @@ status: unread
 ---
 # abstractedness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preoccupation with something to the exclusion of all else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preoccupation with something to the exclusion of all else.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abstractedness designates preoccupation with something to the exclusion of all else."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preoccupation with something to the exclusion of all else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preoccupation with something to the exclusion of all else.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abstractedness designates preoccupation with something to the exclusion of all else."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # repent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn away from sin or do penitence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feel remorse for; feel sorry for; be contrite about.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been, madam, a wicked creature, as you and all flesh and blood are; and indeed I do marry that I may repent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have, then, sinned against his experience and transgressed against his valour; and my state that way is dangerous, since I cannot yet find in my heart to repent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not that I am afraid to die, but that, my offences being many, I would repent out the remainder of nature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn away from sin or do penitence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feel remorse for; feel sorry for; be contrite about.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been, madam, a wicked creature, as you and all flesh and blood are; and indeed I do marry that I may repent."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have, then, sinned against his experience and transgressed against his valour; and my state that way is dangerous, since I cannot yet find in my heart to repent."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not that I am afraid to die, but that, my offences being many, I would repent out the remainder of nature."*

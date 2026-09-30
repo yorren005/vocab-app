@@ -5,15 +5,6 @@ status: unread
 ---
 # commentary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A written explanation or criticism or illustration that is added to a book or other textual material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A written explanation or criticism or illustration that is added to a book or other textual material.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But the commentary upon it now indelibly written in his handsome face made it far more distressing than it used to be."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He also gained a knowledge of men and things German, and a living interest in them, which he retained through life. [Footnote 5: Afterwards author of a learned but fantastic Commentary on the Epistle to the Hebrews."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"XV., "_De igne fricato de ligno i.e._ nodfyr." A convenient edition of the _Indiculus_ has been published with a commentary by H.A."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written explanation or criticism or illustration that is added to a book or other textual material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A written explanation or criticism or illustration that is added to a book or other textual material.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But the commentary upon it now indelibly written in his handsome face made it far more distressing than it used to be."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"He also gained a knowledge of men and things German, and a living interest in them, which he retained through life. [Footnote 5: Afterwards author of a learned but fantastic Commentary on the Epistle to the Hebrews."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"XV., "_De igne fricato de ligno i.e._ nodfyr." A convenient edition of the _Indiculus_ has been published with a commentary by H.A."*

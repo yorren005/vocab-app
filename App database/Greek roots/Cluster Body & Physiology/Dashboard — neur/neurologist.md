@@ -5,13 +5,6 @@ status: unread
 ---
 # neurologist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One specializing in neurology; especially : a physician skilled in the diagnosis and treatment of disease of the nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One specializing in neurology; especially : a physician skilled in the diagnosis and treatment of disease of the nervous system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurologist designates one specializing in neurology; especially : a physician skilled in the diagnosis and treatment of disease of the nervous system."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One specializing in neurology; especially : a physician skilled in the diagnosis and treatment of disease of the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One specializing in neurology; especially : a physician skilled in the diagnosis and treatment of disease of the nervous system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neurologist designates one specializing in neurology; especially : a physician skilled in the diagnosis and treatment of disease of the nervous system."*

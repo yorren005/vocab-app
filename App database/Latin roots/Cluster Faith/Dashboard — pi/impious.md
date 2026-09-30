@@ -5,15 +5,6 @@ status: unread
 ---
 # impious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking piety or reverence for a god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking due respect or dutifulness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The gates of monarchs Are arch’d so high that giants may jet through And keep their impious turbans on without Good morrow to the sun."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What is it then to me, if impious War, Array’d in flames like to the prince of fiends, Do with his smirch’d complexion all fell feats Enlink’d to waste and desolation?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, marry, uncle, for I always thought It was both impious and unnatural That such immanity and bloody strife Should reign among professors of one faith."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking piety or reverence for a god.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking due respect or dutifulness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The gates of monarchs Are arch’d so high that giants may jet through And keep their impious turbans on without Good morrow to the sun."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What is it then to me, if impious War, Array’d in flames like to the prince of fiends, Do with his smirch’d complexion all fell feats Enlink’d to waste and desolation?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, marry, uncle, for I always thought It was both impious and unnatural That such immanity and bloody strife Should reign among professors of one faith."*

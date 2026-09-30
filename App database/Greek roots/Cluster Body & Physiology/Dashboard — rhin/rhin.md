@@ -5,13 +5,6 @@ status: unread
 ---
 # rhin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: nose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: river 820 miles (1320 kilometers) long in western Europe flowing from southeastern Switzerland to the North Sea in the Netherlands and forming the western boundary of Liechtenstein and Austria and the southwestern boundary of Germany.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog rhin as a recognized concept in linguistic and etymological taxonomy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: nose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: river 820 miles (1320 kilometers) long in western Europe flowing from southeastern Switzerland to the North Sea in the Netherlands and forming the western boundary of Liechtenstein and Austria and the southwestern boundary of Germany.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog rhin as a recognized concept in linguistic and etymological taxonomy."*

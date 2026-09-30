@@ -5,15 +5,6 @@ status: unread
 ---
 # dean
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An administrator in charge of a division of a university or college.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states film actor whose moody rebellious roles made him a cult figure (1931-1955).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, sir, Her mother, even strong against that match And firm for Doctor Caius, hath appointed That he shall likewise shuffle her away, While other sports are tasking of their minds, And at the dean’ry, where a priest attends, Straight marry her."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Aikieside is in the Pease Dean, a magnificent wooded glen, crossed a little lower down by a famous bridge which carries the old post road from Edinburgh to Berwick over the Pease Burn at a height of nearly one hundred and thirty feet."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Of these, the Pease Dean has already been mentioned."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An administrator in charge of a division of a university or college.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states film actor whose moody rebellious roles made him a cult figure (1931-1955).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, sir, Her mother, even strong against that match And firm for Doctor Caius, hath appointed That he shall likewise shuffle her away, While other sports are tasking of their minds, And at the dean’ry, where a priest attends, Straight marry her."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Aikieside is in the Pease Dean, a magnificent wooded glen, crossed a little lower down by a famous bridge which carries the old post road from Edinburgh to Berwick over the Pease Burn at a height of nearly one hundred and thirty feet."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Of these, the Pease Dean has already been mentioned."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # penury
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of extreme poverty or destitution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of extreme poverty or destitution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lean penury within that pen doth dwell, That to his subject lends not some small glory, But he that writes of you, if he can tell, That you are you, so dignifies his story."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What prodigal portion have I spent that I should come to such penury?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The weariest and most loathed worldly life That age, ache, penury, and imprisonment Can lay on nature is a paradise To what we fear of death."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of extreme poverty or destitution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of extreme poverty or destitution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lean penury within that pen doth dwell, That to his subject lends not some small glory, But he that writes of you, if he can tell, That you are you, so dignifies his story."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What prodigal portion have I spent that I should come to such penury?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The weariest and most loathed worldly life That age, ache, penury, and imprisonment Can lay on nature is a paradise To what we fear of death."*

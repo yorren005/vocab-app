@@ -5,15 +5,6 @@ status: unread
 ---
 # unobtrusive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not obtrusive or undesirably noticeable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not obtrusive or undesirably noticeable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Assuredly their wonted fires must have lived in Fanny’s ashes when events were so shaped as to chariot her hither in this natural, unobtrusive, yet effectual manner."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To make the call as unobtrusive as possible, they left the carriage by the wicket leading down from the high road to the dairy-house, and descended the track on foot, side by side."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like some poor devils ashore that happen to know an irascible great man, they make distant unobtrusive salutations to him in the street, lest if they pursued the acquaintance further, they might receive a summary thump for their presumption."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not obtrusive or undesirably noticeable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not obtrusive or undesirably noticeable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Assuredly their wonted fires must have lived in Fanny’s ashes when events were so shaped as to chariot her hither in this natural, unobtrusive, yet effectual manner."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To make the call as unobtrusive as possible, they left the carriage by the wicket leading down from the high road to the dairy-house, and descended the track on foot, side by side."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like some poor devils ashore that happen to know an irascible great man, they make distant unobtrusive salutations to him in the street, lest if they pursued the acquaintance further, they might receive a summary thump for their presumption."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # paternalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The attitude (of a person or a government) that subordinates should be controlled in a fatherly way for their own good.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attitude (of a person or a government) that subordinates should be controlled in a fatherly way for their own good.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paternalism designates the attitude (of a person or a government) that subordinates should be controlled in a fatherly way for their own good."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The attitude (of a person or a government) that subordinates should be controlled in a fatherly way for their own good.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attitude (of a person or a government) that subordinates should be controlled in a fatherly way for their own good.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paternalism designates the attitude (of a person or a government) that subordinates should be controlled in a fatherly way for their own good."*

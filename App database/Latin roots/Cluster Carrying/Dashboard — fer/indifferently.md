@@ -5,15 +5,6 @@ status: unread
 ---
 # indifferently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With indifference; in an indifferent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With indifference; in an indifferent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hope we have reform’d that indifferently with us, sir."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have an humour to knock you indifferently well."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be aught toward the general good, Set honour in one eye and death i’ the other, And I will look on both indifferently; For let the gods so speed me as I love The name of honour more than I fear death."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With indifference; in an indifferent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With indifference; in an indifferent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hope we have reform’d that indifferently with us, sir."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have an humour to knock you indifferently well."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be aught toward the general good, Set honour in one eye and death i’ the other, And I will look on both indifferently; For let the gods so speed me as I love The name of honour more than I fear death."*

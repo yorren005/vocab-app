@@ -5,13 +5,6 @@ status: unread
 ---
 # transgene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exogenous gene introduced into the genome of another organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An exogenous gene introduced into the genome of another organism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transgene designates an exogenous gene introduced into the genome of another organism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exogenous gene introduced into the genome of another organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An exogenous gene introduced into the genome of another organism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transgene designates an exogenous gene introduced into the genome of another organism."*

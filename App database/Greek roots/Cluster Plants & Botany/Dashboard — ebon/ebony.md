@@ -5,15 +5,6 @@ status: unread
 ---
 # ebony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard heavy blackish wood yielded by various tropical chiefly southeast Asian trees (genus Diospyros of the family Ebenaceae, the ebony family).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tree yielding ebony.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By heaven, thy love is black as ebony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, it hath bay windows transparent as barricadoes, and the clerestories toward the south-north are as lustrous as ebony; and yet complainest thou of obstruction?"*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"In repassing through the small vaulted room, however, your eyes will be attracted towards a large, old-fashioned cabinet of ebony and gold, which, though narrowly examining the furniture before, you had passed unnoticed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard heavy blackish wood yielded by various tropical chiefly southeast Asian trees (genus Diospyros of the family Ebenaceae, the ebony family).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tree yielding ebony.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By heaven, thy love is black as ebony."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, it hath bay windows transparent as barricadoes, and the clerestories toward the south-north are as lustrous as ebony; and yet complainest thou of obstruction?"*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"In repassing through the small vaulted room, however, your eyes will be attracted towards a large, old-fashioned cabinet of ebony and gold, which, though narrowly examining the furniture before, you had passed unnoticed."*

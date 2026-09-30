@@ -5,15 +5,6 @@ status: unread
 ---
 # scot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of scotland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of scotland.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll keep them all; By God, he shall not have a Scot of them, No, if a Scot would save his soul, he shall not."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Owen, Owen, the same; and his son-in-law Mortimer, and old Northumberland, and that sprightly Scot of Scots, Douglas, that runs a-horseback up a hill perpendicular— PRINCE."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do me no slander, Douglas; by my life, And I dare well maintain it with my life, If well-respected honour bid me on, I hold as little counsel with weak fear As you, my lord, or any Scot that this day lives."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of scotland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of scotland.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll keep them all; By God, he shall not have a Scot of them, No, if a Scot would save his soul, he shall not."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Owen, Owen, the same; and his son-in-law Mortimer, and old Northumberland, and that sprightly Scot of Scots, Douglas, that runs a-horseback up a hill perpendicular— PRINCE."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do me no slander, Douglas; by my life, And I dare well maintain it with my life, If well-respected honour bid me on, I hold as little counsel with weak fear As you, my lord, or any Scot that this day lives."*

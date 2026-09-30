@@ -5,15 +5,6 @@ status: unread
 ---
 # manufacture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The organized action of making of goods and services for sale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making something (a product) from raw materials.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Above all there was a case of jewellery, containing four heavy gold bracelets and several lockets and rings, all of fine quality and manufacture."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The manufacture was much improved since that time; he had seen some beautiful specimens when last in town, and had he not been perfectly without vanity of that kind, might have been tempted to order a new set."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The price of manufacturer's products rose in advance of the rise of costs of many raw materials and especially of the labor costs of manufacture."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The organized action of making of goods and services for sale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making something (a product) from raw materials.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Above all there was a case of jewellery, containing four heavy gold bracelets and several lockets and rings, all of fine quality and manufacture."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"The manufacture was much improved since that time; he had seen some beautiful specimens when last in town, and had he not been perfectly without vanity of that kind, might have been tempted to order a new set."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The price of manufacturer's products rose in advance of the rise of costs of many raw materials and especially of the labor costs of manufacture."*

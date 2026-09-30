@@ -5,20 +5,6 @@ status: unread
 ---
 # swap
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Exchange
-> 2. **Nuance / Usage**: Take turns in telling
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to swap the target*) and intransitive clauses (*swaping against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby Dick*):** *"Striking up a swap or a bargain, I suppose."*
-> - 📜 **Michael Wolf (*Religion in the workplace*):** *"In an effort to provide more permanent accommodations, employers may offer employees the opportunity either to swap jobs with a colleague or to transfer to a new position."*
-> - 📜 **Lloyd Zimpel (*A Season of Fire and Ice*):** *"Chief watched these goings-on without pleasure, and waved them off in disgust when the smarmiest of the two suggested he might wish to swap that elk's tooth for this jug of fine rye whiskey."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Exchange
+> 2. **Nuance / Usage**: Take turns in telling
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to swap the target*) and intransitive clauses (*swaping against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby Dick*):** *"Striking up a swap or a bargain, I suppose."*
+> - 📜 **Michael Wolf (*Religion in the workplace*):** *"In an effort to provide more permanent accommodations, employers may offer employees the opportunity either to swap jobs with a colleague or to transfer to a new position."*
+> - 📜 **Lloyd Zimpel (*A Season of Fire and Ice*):** *"Chief watched these goings-on without pleasure, and waved them off in disgust when the smarmiest of the two suggested he might wish to swap that elk's tooth for this jug of fine rye whiskey."*

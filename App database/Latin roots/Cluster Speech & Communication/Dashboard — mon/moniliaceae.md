@@ -5,13 +5,6 @@ status: unread
 ---
 # moniliaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of imperfect fungi having white or brightly colored hyphae and spores that are produced directly on the mycelium and not aggregated in fruiting bodies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of imperfect fungi having white or brightly colored hyphae and spores that are produced directly on the mycelium and not aggregated in fruiting bodies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moniliaceae designates family of imperfect fungi having white or brightly colored hyphae and spores that are produced directly on the mycelium and not aggregated in fruiting bodies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of imperfect fungi having white or brightly colored hyphae and spores that are produced directly on the mycelium and not aggregated in fruiting bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of imperfect fungi having white or brightly colored hyphae and spores that are produced directly on the mycelium and not aggregated in fruiting bodies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moniliaceae designates family of imperfect fungi having white or brightly colored hyphae and spores that are produced directly on the mycelium and not aggregated in fruiting bodies."*

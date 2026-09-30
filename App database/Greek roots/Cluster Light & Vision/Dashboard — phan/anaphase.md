@@ -5,13 +5,6 @@ status: unread
 ---
 # anaphase
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The stage of meiosis or mitosis when chromosomes move toward opposite ends of the nuclear spindle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The stage of meiosis or mitosis when chromosomes move toward opposite ends of the nuclear spindle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaphase designates the stage of meiosis or mitosis when chromosomes move toward opposite ends of the nuclear spindle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The stage of meiosis or mitosis when chromosomes move toward opposite ends of the nuclear spindle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The stage of meiosis or mitosis when chromosomes move toward opposite ends of the nuclear spindle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaphase designates the stage of meiosis or mitosis when chromosomes move toward opposite ends of the nuclear spindle."*

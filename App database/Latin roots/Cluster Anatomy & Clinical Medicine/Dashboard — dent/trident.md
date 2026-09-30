@@ -5,15 +5,6 @@ status: unread
 ---
 # trident
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spear with three prongs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spear with three prongs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He would not flatter Neptune for his trident Or Jove for’s power to thunder."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"The performer first put a plate on the top of a trident and set it whirling."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"In this whirling condition he put the trident on his forehead where he balanced it, the trident whirling with the plate as though boring into his skull."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spear with three prongs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spear with three prongs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He would not flatter Neptune for his trident Or Jove for’s power to thunder."*
+> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"The performer first put a plate on the top of a trident and set it whirling."*
+> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"In this whirling condition he put the trident on his forehead where he balanced it, the trident whirling with the plate as though boring into his skull."*

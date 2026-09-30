@@ -5,15 +5,6 @@ status: unread
 ---
 # repentance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remorse for your past conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remorse for your past conduct.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The one you may do with sterling money, and the other with current repentance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get you therefore hence, Poor miserable wretches, to your death, The taste whereof God of his mercy give You patience to endure, and true repentance Of all your dear offences!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, in mercy, The Constable desires thee thou wilt mind Thy followers of repentance; that their souls May make a peaceful and a sweet retire From off these fields, where, wretches, their poor bodies Must lie and fester."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remorse for your past conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remorse for your past conduct.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The one you may do with sterling money, and the other with current repentance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get you therefore hence, Poor miserable wretches, to your death, The taste whereof God of his mercy give You patience to endure, and true repentance Of all your dear offences!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Besides, in mercy, The Constable desires thee thou wilt mind Thy followers of repentance; that their souls May make a peaceful and a sweet retire From off these fields, where, wretches, their poor bodies Must lie and fester."*

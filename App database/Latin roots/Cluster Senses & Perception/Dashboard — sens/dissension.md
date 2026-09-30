@@ -5,15 +5,6 @@ status: unread
 ---
 # dissension
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disagreement among those expected to cooperate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conflict of people's opinions or actions or characters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for dissension, who preferreth peace More than I do, except I be provoked?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Believe me, lords, my tender years can tell Civil dissension is a viperous worm That gnaws the bowels of the commonwealth. [_A noise within, “Down with the tawny-coats!”._] What tumult’s this?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let this dissension first be tried by fight, And then your Highness shall command a peace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disagreement among those expected to cooperate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conflict of people's opinions or actions or characters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for dissension, who preferreth peace More than I do, except I be provoked?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Believe me, lords, my tender years can tell Civil dissension is a viperous worm That gnaws the bowels of the commonwealth. [_A noise within, “Down with the tawny-coats!”._] What tumult’s this?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let this dissension first be tried by fight, And then your Highness shall command a peace."*

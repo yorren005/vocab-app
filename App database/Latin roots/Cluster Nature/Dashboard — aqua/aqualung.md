@@ -5,13 +5,6 @@ status: unread
 ---
 # aqualung
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device (trade name aqua-lung) that lets divers breathe under water; scuba is an acronym for self-contained underwater breathing apparatus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device (trade name aqua-lung) that lets divers breathe under water; scuba is an acronym for self-contained underwater breathing apparatus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aqualung designates a device (trade name aqua-lung) that lets divers breathe under water; scuba is an acronym for self-contained underwater breathing apparatus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device (trade name aqua-lung) that lets divers breathe under water; scuba is an acronym for self-contained underwater breathing apparatus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device (trade name aqua-lung) that lets divers breathe under water; scuba is an acronym for self-contained underwater breathing apparatus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aqualung designates a device (trade name aqua-lung) that lets divers breathe under water; scuba is an acronym for self-contained underwater breathing apparatus."*

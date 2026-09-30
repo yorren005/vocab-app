@@ -5,13 +5,6 @@ status: unread
 ---
 # tribalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of living together in tribes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The beliefs of a tribal society.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribalism designates the state of living together in tribes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of living together in tribes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The beliefs of a tribal society.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribalism designates the state of living together in tribes."*

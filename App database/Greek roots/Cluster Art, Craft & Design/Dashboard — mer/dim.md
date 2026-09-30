@@ -5,15 +5,6 @@ status: unread
 ---
 # dim
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Switch (a car's headlights) from a higher to a lower beam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become dim or lusterless.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let not sloth dim your honours new-begot."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These eyes, like lamps whose wasting oil is spent, Wax dim, as drawing to their exigent; Weak shoulders, overborne with burdening grief, And pithless arms, like to a wither’d vine That droops his sapless branches to the ground."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why are thine eyes fixed to the sullen earth, Gazing on that which seems to dim thy sight?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Switch (a car's headlights) from a higher to a lower beam.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become dim or lusterless.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let not sloth dim your honours new-begot."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These eyes, like lamps whose wasting oil is spent, Wax dim, as drawing to their exigent; Weak shoulders, overborne with burdening grief, And pithless arms, like to a wither’d vine That droops his sapless branches to the ground."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why are thine eyes fixed to the sullen earth, Gazing on that which seems to dim thy sight?"*

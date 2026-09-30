@@ -5,14 +5,6 @@ status: unread
 ---
 # restart
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Start an engine again, for example.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take up or begin anew.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The furnace gradually ceases running, and it becomes necessary to stop its working, to take down the furnace jackets, bar out the debris, and restart operations."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But Dólokhov restarted the conversation which had dropped and began putting direct questions as to how many men there were in the battalion, how many battalions, and how many prisoners."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Start an engine again, for example.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take up or begin anew.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The furnace gradually ceases running, and it becomes necessary to stop its working, to take down the furnace jackets, bar out the debris, and restart operations."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But Dólokhov restarted the conversation which had dropped and began putting direct questions as to how many men there were in the battalion, how many battalions, and how many prisoners."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # mistletoe
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American plants closely resembling old world mistletoe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old world parasitic shrub having branching greenish stems with leathery leaves and waxy white glutinous berries; the traditional mistletoe of christmas.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These two have ticed me hither to this place, A barren detested vale you see it is; The trees, though summer, yet forlorn and lean, Overcome with moss and baleful mistletoe."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A large bough of mistletoe had been brought from the woods that day, and suspended in the hall of the bachelor’s home."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was Christmas Eve, with its loads a holly and mistletoe, and the town was very full of strangers who had come in from all parts of the country on account of the day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: American plants closely resembling old world mistletoe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old world parasitic shrub having branching greenish stems with leathery leaves and waxy white glutinous berries; the traditional mistletoe of christmas.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These two have ticed me hither to this place, A barren detested vale you see it is; The trees, though summer, yet forlorn and lean, Overcome with moss and baleful mistletoe."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A large bough of mistletoe had been brought from the woods that day, and suspended in the hall of the bachelor’s home."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was Christmas Eve, with its loads a holly and mistletoe, and the town was very full of strangers who had come in from all parts of the country on account of the day."*

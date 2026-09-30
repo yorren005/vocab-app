@@ -5,15 +5,6 @@ status: unread
 ---
 # revelation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The speech act of making something evident.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enlightening or astonishing disclosure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius doesn't do." "Come now, Mäzli," said Leonore, for she had the feeling that this peculiar revelation might be followed by others as unintelligible."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The contrast of this revelation with her anticipations of some sinister figure in sombre garb was so great that it had upon her the effect of a fairy transformation."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now after that revelation of how the land lies with Bathsheba, ’twould be a mistake to kill me, would it not?” “’Twould be a mistake to kill you,” repeated Boldwood, mechanically, with a bowed head."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The speech act of making something evident.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enlightening or astonishing disclosure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius doesn't do." "Come now, Mäzli," said Leonore, for she had the feeling that this peculiar revelation might be followed by others as unintelligible."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The contrast of this revelation with her anticipations of some sinister figure in sombre garb was so great that it had upon her the effect of a fairy transformation."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now after that revelation of how the land lies with Bathsheba, ’twould be a mistake to kill me, would it not?” “’Twould be a mistake to kill you,” repeated Boldwood, mechanically, with a bowed head."*

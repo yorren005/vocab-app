@@ -5,15 +5,6 @@ status: unread
 ---
 # pluto
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cartoon character created by walt disney.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the god of the underworld in ancient mythology; brother of zeus and husband of persephone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll see her damned first to Pluto’s damned lake, by this hand, to th’ infernal deep, with Erebus and tortures vile also."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, when you come to Pluto’s region, I pray you, deliver him this petition; Tell him it is for justice and for aid, And that it comes from old Andronicus, Shaken with sorrows in ungrateful Rome."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, my good lord; but Pluto sends you word, If you will have Revenge from hell, you shall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cartoon character created by walt disney.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the god of the underworld in ancient mythology; brother of zeus and husband of persephone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll see her damned first to Pluto’s damned lake, by this hand, to th’ infernal deep, with Erebus and tortures vile also."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, when you come to Pluto’s region, I pray you, deliver him this petition; Tell him it is for justice and for aid, And that it comes from old Andronicus, Shaken with sorrows in ungrateful Rome."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, my good lord; but Pluto sends you word, If you will have Revenge from hell, you shall."*

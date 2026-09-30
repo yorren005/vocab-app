@@ -5,15 +5,6 @@ status: unread
 ---
 # arch
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A typically curved structural member spanning an opening and serving as a support (as for the wall or other weight above the opening).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something resembling an arch in form or function; especially : either of two vaulted portions of the bony structure of the foot that impart elasticity to it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let Rome in Tiber melt, and the wide arch Of the ranged empire fall!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ne’er through an arch so hurried the blown tide As the recomforted through th’ gates."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The gates of monarchs Are arch’d so high that giants may jet through And keep their impious turbans on without Good morrow to the sun."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A typically curved structural member spanning an opening and serving as a support (as for the wall or other weight above the opening).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something resembling an arch in form or function; especially : either of two vaulted portions of the bony structure of the foot that impart elasticity to it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let Rome in Tiber melt, and the wide arch Of the ranged empire fall!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ne’er through an arch so hurried the blown tide As the recomforted through th’ gates."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The gates of monarchs Are arch’d so high that giants may jet through And keep their impious turbans on without Good morrow to the sun."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # cave
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A geological formation consisting of an underground enclosure with access from the surface of the ground or from the sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hollow out as if making a cave or opening.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The residue of your fortune Go to my cave and tell me.—Good old man, Thou art right welcome as thy master is."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What you would have I’ll stay to know at your abandoned cave. [_Exit._] DUKE SENIOR."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A mountainous country with a cave."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A geological formation consisting of an underground enclosure with access from the surface of the ground or from the sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hollow out as if making a cave or opening.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The residue of your fortune Go to my cave and tell me.—Good old man, Thou art right welcome as thy master is."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What you would have I’ll stay to know at your abandoned cave. [_Exit._] DUKE SENIOR."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A mountainous country with a cave."*

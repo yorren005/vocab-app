@@ -5,13 +5,6 @@ status: unread
 ---
 # captopril
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (trade name capoten) that blocks the formation of angiotensin in the kidneys resulting in vasodilation; used in the treatment of hypertension and congestive heart failure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (trade name capoten) that blocks the formation of angiotensin in the kidneys resulting in vasodilation; used in the treatment of hypertension and congestive heart failure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, captopril designates a drug (trade name capoten) that blocks the formation of angiotensin in the kidneys resulting in vasodilation; used in the treatment of hypertension and congestive heart failure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (trade name capoten) that blocks the formation of angiotensin in the kidneys resulting in vasodilation; used in the treatment of hypertension and congestive heart failure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (trade name capoten) that blocks the formation of angiotensin in the kidneys resulting in vasodilation; used in the treatment of hypertension and congestive heart failure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, captopril designates a drug (trade name capoten) that blocks the formation of angiotensin in the kidneys resulting in vasodilation; used in the treatment of hypertension and congestive heart failure."*

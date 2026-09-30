@@ -5,14 +5,6 @@ status: unread
 ---
 # largish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat large.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Somewhat large.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A largish piece of the biscuit the Emperor was holding in his hand broke off, fell on the balcony parapet, and then to the ground."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"There were disconcerting noises, and flittings of great wings, and once a largish but harmless snake found a hole in the thorny wall, and slipped in; but nothing in the way of a disaster happened."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat large.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Somewhat large.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A largish piece of the biscuit the Emperor was holding in his hand broke off, fell on the balcony parapet, and then to the ground."*
+> - 📜 **F. H. Costello (*Sure-dart*):** *"There were disconcerting noises, and flittings of great wings, and once a largish but harmless snake found a hole in the thorny wall, and slipped in; but nothing in the way of a disaster happened."*

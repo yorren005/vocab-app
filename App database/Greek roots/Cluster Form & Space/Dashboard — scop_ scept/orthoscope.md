@@ -5,13 +5,6 @@ status: unread
 ---
 # orthoscope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ophthalmoscope with a layer of water to neutralize the refraction of the cornea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ophthalmoscope with a layer of water to neutralize the refraction of the cornea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthoscope designates an ophthalmoscope with a layer of water to neutralize the refraction of the cornea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ophthalmoscope with a layer of water to neutralize the refraction of the cornea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ophthalmoscope with a layer of water to neutralize the refraction of the cornea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthoscope designates an ophthalmoscope with a layer of water to neutralize the refraction of the cornea."*

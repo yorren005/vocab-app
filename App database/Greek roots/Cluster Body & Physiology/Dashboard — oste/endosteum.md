@@ -5,13 +5,6 @@ status: unread
 ---
 # endosteum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The layer of vascular connective tissue lining the medullary cavities of bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The layer of vascular connective tissue lining the medullary cavities of bone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endosteum designates the layer of vascular connective tissue lining the medullary cavities of bone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The layer of vascular connective tissue lining the medullary cavities of bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The layer of vascular connective tissue lining the medullary cavities of bone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endosteum designates the layer of vascular connective tissue lining the medullary cavities of bone."*

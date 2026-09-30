@@ -5,14 +5,6 @@ status: unread
 ---
 # geomancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination by means of figures or lines or geographic features.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divination by means of figures or lines or geographic features.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I now called to mind what I had read of certain colleges in old times, where judicial astrology, geomancy, necromancy, and other forbidden and magical sciences were taught."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"However, the genius of the local professors of geomancy, rising to the occasion, triumphantly surmounted the difficulty and obviated the danger."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination by means of figures or lines or geographic features.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divination by means of figures or lines or geographic features.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I now called to mind what I had read of certain colleges in old times, where judicial astrology, geomancy, necromancy, and other forbidden and magical sciences were taught."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"However, the genius of the local professors of geomancy, rising to the occasion, triumphantly surmounted the difficulty and obviated the danger."*

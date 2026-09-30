@@ -5,15 +5,6 @@ status: unread
 ---
 # onerous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easily borne; wearing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not easily borne; wearing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She soon found that whistling to the bullfinches in Mrs d’Urberville’s room was no such onerous business when she had regained the art, for she had caught from her musical mother numerous airs that suited those songsters admirably."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"That all this might not be too onerous on the purses of his rustic patrons, who are apt to consider the costs of schooling a grievous burden and schoolmasters as mere drones, he had various ways of rendering himself both useful and agreeable."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Besides the appointment of nurses the position of Miss Dix imposed upon her numerous and onerous duties."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easily borne; wearing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not easily borne; wearing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She soon found that whistling to the bullfinches in Mrs d’Urberville’s room was no such onerous business when she had regained the art, for she had caught from her musical mother numerous airs that suited those songsters admirably."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"That all this might not be too onerous on the purses of his rustic patrons, who are apt to consider the costs of schooling a grievous burden and schoolmasters as mere drones, he had various ways of rendering himself both useful and agreeable."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Besides the appointment of nurses the position of Miss Dix imposed upon her numerous and onerous duties."*

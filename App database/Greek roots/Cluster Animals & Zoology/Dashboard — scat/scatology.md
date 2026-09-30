@@ -5,13 +5,6 @@ status: unread
 ---
 # scatology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interest in or treatment of obscene matters especially in literature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biologically oriented study of excrement (as for taxonomic purposes or for the determination of diet).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scatology designates interest in or treatment of obscene matters especially in literature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Interest in or treatment of obscene matters especially in literature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biologically oriented study of excrement (as for taxonomic purposes or for the determination of diet).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scatology designates interest in or treatment of obscene matters especially in literature."*

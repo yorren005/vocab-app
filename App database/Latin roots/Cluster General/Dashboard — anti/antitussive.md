@@ -5,13 +5,6 @@ status: unread
 ---
 # antitussive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any medicine used to suppress or relieve coughing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any medicine used to suppress or relieve coughing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitussive designates any medicine used to suppress or relieve coughing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any medicine used to suppress or relieve coughing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any medicine used to suppress or relieve coughing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitussive designates any medicine used to suppress or relieve coughing."*

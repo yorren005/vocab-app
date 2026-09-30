@@ -5,13 +5,6 @@ status: unread
 ---
 # sequoyah
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cherokee who created a notation for writing the cherokee language (1770-1843).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cherokee who created a notation for writing the cherokee language (1770-1843).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sequoyah designates cherokee who created a notation for writing the cherokee language (1770-1843)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cherokee who created a notation for writing the cherokee language (1770-1843).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cherokee who created a notation for writing the cherokee language (1770-1843).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sequoyah designates cherokee who created a notation for writing the cherokee language (1770-1843)."*

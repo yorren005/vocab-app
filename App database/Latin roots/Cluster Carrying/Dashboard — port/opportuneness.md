@@ -5,13 +5,6 @@ status: unread
 ---
 # opportuneness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Timely convenience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Timely convenience.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"He tasted her in sips, he let her stand, with an opportuneness she herself could not have surpassed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Timely convenience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Timely convenience.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"He tasted her in sips, he let her stand, with an opportuneness she herself could not have surpassed."*

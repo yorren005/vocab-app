@@ -5,15 +5,6 @@ status: unread
 ---
 # adjustable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being changed so as to match or fit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being regulated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Acting on a timely word of warning I bought in Hong Kong a most comfortable sedan-chair, a well-made bamboo affair fitted with a top and adjustable screens and curtains to keep out either rain or sun."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The spring is adjustable, and so it can be arranged that the feeble force of the gun cannot lift the piston, but the more powerful coal-dust explosion which follows can."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"In the latter process, the fuel value in the adjustable supply of coke at the tuyeres allows of the ready production of any extra heat which might be required."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being changed so as to match or fit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being regulated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Acting on a timely word of warning I bought in Hong Kong a most comfortable sedan-chair, a well-made bamboo affair fitted with a top and adjustable screens and curtains to keep out either rain or sun."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The spring is adjustable, and so it can be arranged that the feeble force of the gun cannot lift the piston, but the more powerful coal-dust explosion which follows can."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"In the latter process, the fuel value in the adjustable supply of coke at the tuyeres allows of the ready production of any extra heat which might be required."*

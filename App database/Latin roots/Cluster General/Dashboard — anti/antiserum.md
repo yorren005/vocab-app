@@ -5,13 +5,6 @@ status: unread
 ---
 # antiserum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blood serum containing antibodies against specific antigens; provides immunity to a disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blood serum containing antibodies against specific antigens; provides immunity to a disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiserum designates blood serum containing antibodies against specific antigens; provides immunity to a disease."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blood serum containing antibodies against specific antigens; provides immunity to a disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Blood serum containing antibodies against specific antigens; provides immunity to a disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiserum designates blood serum containing antibodies against specific antigens; provides immunity to a disease."*

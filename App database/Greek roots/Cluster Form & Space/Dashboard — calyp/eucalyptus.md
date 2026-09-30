@@ -5,15 +5,6 @@ status: unread
 ---
 # eucalyptus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Eucalyptus) of mostly Australian evergreen trees or rarely shrubs of the myrtle family that have rigid entire leaves and umbellate flowers and are widely cultivated for their gums, resins, oils, and woods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Eucalyptus) of mostly Australian evergreen trees or rarely shrubs of the myrtle family that have rigid entire leaves and umbellate flowers and are widely cultivated for their gums, resins, oils, and woods.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"The mighty eucalyptus tree But sheds its bark at winter's call Its leaves retain their greenery, And yield a curing oil for all."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Winds lashed the high crowns of the eucalyptus, and dipped to whine along the corridors and passageways that cut through the patchwork of modernistic academic structures."*
-> - 📜 **James Joyce (*Ulysses*):** *"To purchase waste sandy tracts from Turkish government and plant with eucalyptus trees."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Eucalyptus) of mostly Australian evergreen trees or rarely shrubs of the myrtle family that have rigid entire leaves and umbellate flowers and are widely cultivated for their gums, resins, oils, and woods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Eucalyptus) of mostly Australian evergreen trees or rarely shrubs of the myrtle family that have rigid entire leaves and umbellate flowers and are widely cultivated for their gums, resins, oils, and woods.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"The mighty eucalyptus tree But sheds its bark at winter's call Its leaves retain their greenery, And yield a curing oil for all."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Winds lashed the high crowns of the eucalyptus, and dipped to whine along the corridors and passageways that cut through the patchwork of modernistic academic structures."*
+> - 📜 **James Joyce (*Ulysses*):** *"To purchase waste sandy tracts from Turkish government and plant with eucalyptus trees."*

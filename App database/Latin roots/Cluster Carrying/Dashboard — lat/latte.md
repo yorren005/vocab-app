@@ -5,13 +5,6 @@ status: unread
 ---
 # latte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong espresso coffee with a topping of frothed steamed milk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strong espresso coffee with a topping of frothed steamed milk.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latte designates strong espresso coffee with a topping of frothed steamed milk."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong espresso coffee with a topping of frothed steamed milk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strong espresso coffee with a topping of frothed steamed milk.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latte designates strong espresso coffee with a topping of frothed steamed milk."*

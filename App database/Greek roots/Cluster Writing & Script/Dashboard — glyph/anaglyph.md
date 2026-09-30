@@ -5,13 +5,6 @@ status: unread
 ---
 # anaglyph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sculptured, chased, or embossed ornament worked in low relief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stereoscopic motion or still picture in which the right component of a composite image usually red in color is superposed on the left component in a contrasting color to produce a three-dimensional effect when viewed through correspondingly colored filters in the form of spectacles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaglyph designates a sculptured, chased, or embossed ornament worked in low relief."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sculptured, chased, or embossed ornament worked in low relief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stereoscopic motion or still picture in which the right component of a composite image usually red in color is superposed on the left component in a contrasting color to produce a three-dimensional effect when viewed through correspondingly colored filters in the form of spectacles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaglyph designates a sculptured, chased, or embossed ornament worked in low relief."*

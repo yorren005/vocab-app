@@ -5,13 +5,6 @@ status: unread
 ---
 # formalised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make formal or official.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare or make legally valid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Of the usual conical form, it has a plain outside, and the inside is decorated with an incised design of not very clear meaning, but apparently a close foliage ground with highly formalised figures of boys."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make formal or official.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare or make legally valid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Of the usual conical form, it has a plain outside, and the inside is decorated with an incised design of not very clear meaning, but apparently a close foliage ground with highly formalised figures of boys."*

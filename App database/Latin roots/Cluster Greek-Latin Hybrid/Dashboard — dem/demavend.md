@@ -5,13 +5,6 @@ status: unread
 ---
 # demavend
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An active volcano in northern iran.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An active volcano in northern iran.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demavend designates an active volcano in northern iran."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An active volcano in northern iran.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An active volcano in northern iran.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demavend designates an active volcano in northern iran."*

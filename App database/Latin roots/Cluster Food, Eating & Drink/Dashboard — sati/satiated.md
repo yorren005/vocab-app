@@ -5,15 +5,6 @@ status: unread
 ---
 # satiated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill to satisfaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overeat or eat immodestly; make a pig of oneself.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"This shadow looked satiated and calm, as though for the moment it had had its fill of all the emotions."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"But both the diabolic love and the unearthly hate of the mysteries it had penetrated fought for the possession of that soul satiated with primitive emotions, avid of lying fame, of sham distinction, of all the appearances of success and power."*
-> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"If you will comply with my conditions, I will leave them and you at peace; but if you refuse, I will glut the maw of death, until it be satiated with the blood of your remaining friends.” “Abhorred monster!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill to satisfaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overeat or eat immodestly; make a pig of oneself.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"This shadow looked satiated and calm, as though for the moment it had had its fill of all the emotions."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"But both the diabolic love and the unearthly hate of the mysteries it had penetrated fought for the possession of that soul satiated with primitive emotions, avid of lying fame, of sham distinction, of all the appearances of success and power."*
+> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"If you will comply with my conditions, I will leave them and you at peace; but if you refuse, I will glut the maw of death, until it be satiated with the blood of your remaining friends.” “Abhorred monster!"*

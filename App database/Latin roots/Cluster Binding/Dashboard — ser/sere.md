@@ -5,15 +5,6 @@ status: unread
 ---
 # sere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used especially of vegetation) having lost all moisture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used especially of vegetation) having lost all moisture.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is deformed, crooked, old, and sere, Ill-fac’d, worse bodied, shapeless everywhere; Vicious, ungentle, foolish, blunt, unkind, Stigmatical in making, worse in mind."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The state whereon I studied Is, like a good thing being often read, Grown sere and tedious; yea, my gravity, Wherein—let no man hear me—I take pride, Could I with boot change for an idle plume Which the air beats for vain."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"A Song of Autumn "Where shall we go for our garlands glad At the falling of the year, When the burnt-up banks are yellow and sad, When the boughs are yellow and sere?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (used especially of vegetation) having lost all moisture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used especially of vegetation) having lost all moisture.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is deformed, crooked, old, and sere, Ill-fac’d, worse bodied, shapeless everywhere; Vicious, ungentle, foolish, blunt, unkind, Stigmatical in making, worse in mind."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The state whereon I studied Is, like a good thing being often read, Grown sere and tedious; yea, my gravity, Wherein—let no man hear me—I take pride, Could I with boot change for an idle plume Which the air beats for vain."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"A Song of Autumn "Where shall we go for our garlands glad At the falling of the year, When the burnt-up banks are yellow and sad, When the boughs are yellow and sere?"*

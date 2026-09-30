@@ -5,13 +5,6 @@ status: unread
 ---
 # tetrodotoxin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A powerful neurotoxin found in the ovaries of pufferfish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A powerful neurotoxin found in the ovaries of pufferfish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrodotoxin designates a powerful neurotoxin found in the ovaries of pufferfish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A powerful neurotoxin found in the ovaries of pufferfish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A powerful neurotoxin found in the ovaries of pufferfish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrodotoxin designates a powerful neurotoxin found in the ovaries of pufferfish."*

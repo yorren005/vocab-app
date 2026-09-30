@@ -5,13 +5,6 @@ status: unread
 ---
 # scaler
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic pulse counter used to count pulses that occur too rapidly to be recorded individually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electronic pulse counter used to count pulses that occur too rapidly to be recorded individually.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"In the office where the clerk, the bosses, scalers and others of more pretentious occupation sleep, one corner is set apart for the wannigan, as the small camp store is called."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic pulse counter used to count pulses that occur too rapidly to be recorded individually.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electronic pulse counter used to count pulses that occur too rapidly to be recorded individually.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"In the office where the clerk, the bosses, scalers and others of more pretentious occupation sleep, one corner is set apart for the wannigan, as the small camp store is called."*

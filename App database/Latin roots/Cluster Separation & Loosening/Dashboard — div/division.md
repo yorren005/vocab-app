@@ -5,15 +5,6 @@ status: unread
 ---
 # division
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An army unit large enough to sustain combat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the portions into which something is regarded as divided and which together constitute a whole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A more unhappy lady, If this division chance, ne’er stood between, Praying for both parts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They are in a most warlike preparation and hope to come upon them in the heat of their division."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The quality and hair of our attempt Brooks no division."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An army unit large enough to sustain combat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the portions into which something is regarded as divided and which together constitute a whole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A more unhappy lady, If this division chance, ne’er stood between, Praying for both parts."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They are in a most warlike preparation and hope to come upon them in the heat of their division."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The quality and hair of our attempt Brooks no division."*

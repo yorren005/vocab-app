@@ -5,13 +5,6 @@ status: unread
 ---
 # pagad
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A terrorist organization in south africa formed in 1996 to fight drug lords; evolved into a vigilante group with anti-western views closely allied with qibla; is believed to have ties to islamic extremists in the middle east; is suspected of conducting bouts of urban terrorism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A terrorist organization in south africa formed in 1996 to fight drug lords; evolved into a vigilante group with anti-western views closely allied with qibla; is believed to have ties to islamic extremists in the middle east; is suspected of conducting bouts of urban terrorism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pagad designates a terrorist organization in south africa formed in 1996 to fight drug lords; evolved into a vigilante group with anti-western views closely allied with qibla; is believed to have ties to islamic extremists in the middle east; is suspected of conducting bouts of urban terrorism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A terrorist organization in south africa formed in 1996 to fight drug lords; evolved into a vigilante group with anti-western views closely allied with qibla; is believed to have ties to islamic extremists in the middle east; is suspected of conducting bouts of urban terrorism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A terrorist organization in south africa formed in 1996 to fight drug lords; evolved into a vigilante group with anti-western views closely allied with qibla; is believed to have ties to islamic extremists in the middle east; is suspected of conducting bouts of urban terrorism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pagad designates a terrorist organization in south africa formed in 1996 to fight drug lords; evolved into a vigilante group with anti-western views closely allied with qibla; is believed to have ties to islamic extremists in the middle east; is suspected of conducting bouts of urban terrorism."*

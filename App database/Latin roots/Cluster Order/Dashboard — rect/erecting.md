@@ -5,15 +5,6 @@ status: unread
 ---
 # erecting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of building or putting up.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Construct, build, or erect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I could not but be sensible that my existence was spared solely because of my diligence in erecting the pyramid and so doubling the stature of the island."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I can’t see three seas off; tip us up an oar there, and let me on to that.” Upon this, Daggoo, with either hand upon the gunwale to steady his way, swiftly slid aft, and then erecting himself volunteered his lofty shoulders for a pedestal."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Well, now, that’s cheering,” cried Ahab, suddenly erecting himself, while whole thunder-clouds swept aside from his brow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of building or putting up.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Construct, build, or erect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I could not but be sensible that my existence was spared solely because of my diligence in erecting the pyramid and so doubling the stature of the island."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I can’t see three seas off; tip us up an oar there, and let me on to that.” Upon this, Daggoo, with either hand upon the gunwale to steady his way, swiftly slid aft, and then erecting himself volunteered his lofty shoulders for a pedestal."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Well, now, that’s cheering,” cried Ahab, suddenly erecting himself, while whole thunder-clouds swept aside from his brow."*

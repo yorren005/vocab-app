@@ -5,15 +5,6 @@ status: unread
 ---
 # dexterous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Skillful in physical movements; especially of the hands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skillful in physical movements; especially of the hands.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The creature fell stunned, and the force of its fall brought it within the reach of the dexterous hunter’s grasp."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Sometimes an impending surge appeared ready to overwhelm her, and nothing but a dexterous movement of the helm preserved her from the shock."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He was famed for great knowledge and skill in horsemanship, being as dexterous on horseback as a Tartar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Skillful in physical movements; especially of the hands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skillful in physical movements; especially of the hands.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The creature fell stunned, and the force of its fall brought it within the reach of the dexterous hunter’s grasp."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Sometimes an impending surge appeared ready to overwhelm her, and nothing but a dexterous movement of the helm preserved her from the shock."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He was famed for great knowledge and skill in horsemanship, being as dexterous on horseback as a Tartar."*

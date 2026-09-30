@@ -5,15 +5,6 @@ status: unread
 ---
 # maraud
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden short attack.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raid and rove in search of booty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"There was not a sea fight, nor marauding nor freebooting adventure that had happened within the last twenty years, but he seemed perfectly versed in it."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The British and American line had run near it during the war; it had therefore been the scene of marauding and infested with refugees, cow-boys, and all kinds of border chivalry."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"It is very sound: one can’t permit the land to be pillaged and accustom the troops to marauding."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden short attack.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raid and rove in search of booty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"There was not a sea fight, nor marauding nor freebooting adventure that had happened within the last twenty years, but he seemed perfectly versed in it."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The British and American line had run near it during the war; it had therefore been the scene of marauding and infested with refugees, cow-boys, and all kinds of border chivalry."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"It is very sound: one can’t permit the land to be pillaged and accustom the troops to marauding."*

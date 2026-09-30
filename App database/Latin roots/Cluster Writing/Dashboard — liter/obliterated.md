@@ -5,15 +5,6 @@ status: unread
 ---
 # obliterated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark for deletion, rub off, or erase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make undecipherable or imperceptible by obscuring or concealing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At least she could not be comfortable there till long years should have obliterated her keen consciousness of it."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The conventional farm-folk of his imagination—personified in the newspaper-press by the pitiable dummy known as Hodge—were obliterated after a few days’ residence."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But she had been observed almost immediately on her return by some people of scrupulous character and great influence: they had seen her idling in the churchyard, restoring as well as she could with a little trowel a baby’s obliterated grave."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark for deletion, rub off, or erase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make undecipherable or imperceptible by obscuring or concealing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At least she could not be comfortable there till long years should have obliterated her keen consciousness of it."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The conventional farm-folk of his imagination—personified in the newspaper-press by the pitiable dummy known as Hodge—were obliterated after a few days’ residence."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But she had been observed almost immediately on her return by some people of scrupulous character and great influence: they had seen her idling in the churchyard, restoring as well as she could with a little trowel a baby’s obliterated grave."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # decius
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Emperor of rome who was proclaimed emperor against his will; his reign was notable for his severe persecution of christians (201-251).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emperor of rome who was proclaimed emperor against his will; his reign was notable for his severe persecution of christians (201-251).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CASSIUS, ” ” ” CASCA, ” ” ” TREBONIUS, ” ” ” LIGARIUS,” ” ” DECIUS BRUTUS, ” ” ” METELLUS CIMBER, ” ” ” CINNA, ” ” ” FLAVIUS, tribune MARULLUS, tribune ARTEMIDORUS, a Sophist of Cnidos."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter, in procession, with music, Caesar; Antony, for the course; Calphurnia, Portia, Decius, Cicero, Brutus, Cassius and Casca; a great crowd following, among them a Soothsayer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is Decius Brutus and Trebonius there?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Emperor of rome who was proclaimed emperor against his will; his reign was notable for his severe persecution of christians (201-251).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emperor of rome who was proclaimed emperor against his will; his reign was notable for his severe persecution of christians (201-251).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CASSIUS, ” ” ” CASCA, ” ” ” TREBONIUS, ” ” ” LIGARIUS,” ” ” DECIUS BRUTUS, ” ” ” METELLUS CIMBER, ” ” ” CINNA, ” ” ” FLAVIUS, tribune MARULLUS, tribune ARTEMIDORUS, a Sophist of Cnidos."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter, in procession, with music, Caesar; Antony, for the course; Calphurnia, Portia, Decius, Cicero, Brutus, Cassius and Casca; a great crowd following, among them a Soothsayer."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is Decius Brutus and Trebonius there?"*

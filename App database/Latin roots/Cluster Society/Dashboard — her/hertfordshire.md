@@ -5,15 +5,6 @@ status: unread
 ---
 # hertfordshire
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A county in southern england.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A county in southern england.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"And Bleak House,” said his lordship, “is in—” “Hertfordshire, my lord.” “Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We belong to Hertfordshire.” “Whereabouts in Hertfordshire?” “Saint Albans.” “Come up on the tramp?” “We walked up yesterday."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the business of preparation and equipment he soon lost himself, and even his grief at parting from Ada, who remained in Hertfordshire while he, Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A county in southern england.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A county in southern england.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"And Bleak House,” said his lordship, “is in—” “Hertfordshire, my lord.” “Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"We belong to Hertfordshire.” “Whereabouts in Hertfordshire?” “Saint Albans.” “Come up on the tramp?” “We walked up yesterday."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In the business of preparation and equipment he soon lost himself, and even his grief at parting from Ada, who remained in Hertfordshire while he, Mr."*

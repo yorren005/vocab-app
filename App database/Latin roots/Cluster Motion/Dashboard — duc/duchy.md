@@ -5,15 +5,6 @@ status: unread
 ---
 # duchy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The domain controlled by a duke or duchess.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The domain controlled by a duke or duchess.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suffolk, the new-made duke that rules the roast, Hath given the duchy of Anjou and Maine Unto the poor King Reignier, whose large style Agrees not with the leanness of his purse."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Other territories have been offered in exchange for the Duchy of Oldenburg,” said Prince Bolkónski."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"But the place was shut up by Barbara, Aurelius XV's widow, a severe and devout Princess of the House of Bolkum and Regent of the Duchy during her son's glorious minority, and after the death of her husband, cut off in the pride of his pleasures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The domain controlled by a duke or duchess.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The domain controlled by a duke or duchess.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suffolk, the new-made duke that rules the roast, Hath given the duchy of Anjou and Maine Unto the poor King Reignier, whose large style Agrees not with the leanness of his purse."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Other territories have been offered in exchange for the Duchy of Oldenburg,” said Prince Bolkónski."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"But the place was shut up by Barbara, Aurelius XV's widow, a severe and devout Princess of the House of Bolkum and Regent of the Duchy during her son's glorious minority, and after the death of her husband, cut off in the pride of his pleasures."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # teleworking
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Employment at home while communicating with the workplace by phone or fax or modem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Employment at home while communicating with the workplace by phone or fax or modem.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleworking designates employment at home while communicating with the workplace by phone or fax or modem."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Employment at home while communicating with the workplace by phone or fax or modem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Employment at home while communicating with the workplace by phone or fax or modem.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleworking designates employment at home while communicating with the workplace by phone or fax or modem."*

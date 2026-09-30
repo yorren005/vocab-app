@@ -5,15 +5,6 @@ status: unread
 ---
 # subsistence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Minimal (or marginal) resources for subsisting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A means of surviving.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was a poor subsistence that she had ensured, but it would afford a shelter for the winter at any rate."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Usually he asserts that this is because production grows faster than wages, wages being fixed, as he believes, by the minimum of subsistence--a theory akin to the iron law of wages."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The judiciary and the executive members were left dependent on the legislative for their subsistence in office, and some of them for their continuance in it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Minimal (or marginal) resources for subsisting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A means of surviving.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was a poor subsistence that she had ensured, but it would afford a shelter for the winter at any rate."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Usually he asserts that this is because production grows faster than wages, wages being fixed, as he believes, by the minimum of subsistence--a theory akin to the iron law of wages."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The judiciary and the executive members were left dependent on the legislative for their subsistence in office, and some of them for their continuance in it."*

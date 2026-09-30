@@ -5,15 +5,6 @@ status: unread
 ---
 # rant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A loud bombastic declamation expressed with strong emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pompous or pretentious talk or writing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, an thou’lt mouth, I’ll rant as well as thou."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Song—Lady Onlie, Honest Lucky Tune—“The Ruffian’s Rant.” A’ The lads o’ Thorniebank, When they gae to the shore o’ Bucky, They’ll step in an’ tak a pint Wi’ Lady Onlie, honest Lucky."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Theniel Menzies’ Bonie Mary Air—“The Ruffian’s Rant,” or “Roy’s Wife.” In comin by the brig o’ Dye, At Darlet we a blink did tarry; As day was dawnin in the sky, We drank a health to bonie Mary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A loud bombastic declamation expressed with strong emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pompous or pretentious talk or writing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, an thou’lt mouth, I’ll rant as well as thou."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Song—Lady Onlie, Honest Lucky Tune—“The Ruffian’s Rant.” A’ The lads o’ Thorniebank, When they gae to the shore o’ Bucky, They’ll step in an’ tak a pint Wi’ Lady Onlie, honest Lucky."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Theniel Menzies’ Bonie Mary Air—“The Ruffian’s Rant,” or “Roy’s Wife.” In comin by the brig o’ Dye, At Darlet we a blink did tarry; As day was dawnin in the sky, We drank a health to bonie Mary."*

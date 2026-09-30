@@ -5,15 +5,6 @@ status: unread
 ---
 # recrimination
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mutual accusations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mutual accusations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mutual recrimination passed between them: they parted in anger, and were never reconciled."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"What! as his guest?-- But let's drop recrimination; I had no right to resent what you said after forcing you to say it, nor, in any case, to taunt you . . ."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Short-sighted and injudicious, however, as the conduct or England may be in this system of aspersion, recrimination on our part would be equally ill-judged."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mutual accusations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mutual accusations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mutual recrimination passed between them: they parted in anger, and were never reconciled."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"What! as his guest?-- But let's drop recrimination; I had no right to resent what you said after forcing you to say it, nor, in any case, to taunt you . . ."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Short-sighted and injudicious, however, as the conduct or England may be in this system of aspersion, recrimination on our part would be equally ill-judged."*

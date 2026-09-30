@@ -5,15 +5,6 @@ status: unread
 ---
 # stacked
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Load or cover with stacks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange in stacks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hand and shoulder weapons were everywhere: lashed to thighs or slung across backs, flat on tables or stacked along the bar."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Some fifty miles below the Inner Station we came upon a hut of reeds, an inclined and melancholy pole, with the unrecognizable tatters of what had been a flag of some sort flying from it, and a neatly stacked wood-pile."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I had some wood stacked for you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Load or cover with stacks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange in stacks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hand and shoulder weapons were everywhere: lashed to thighs or slung across backs, flat on tables or stacked along the bar."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Some fifty miles below the Inner Station we came upon a hut of reeds, an inclined and melancholy pole, with the unrecognizable tatters of what had been a flag of some sort flying from it, and a neatly stacked wood-pile."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I had some wood stacked for you."*

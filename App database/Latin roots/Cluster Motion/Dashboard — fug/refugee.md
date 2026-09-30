@@ -5,15 +5,6 @@ status: unread
 ---
 # refugee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exile who flees for safety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An exile who flees for safety.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Louis Refugee and Freedmen's Home--Mrs."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Late in the fall of 1863, Miss Elliott yielded to the wishes of the Western Sanitary Commission, and became matron of the Refugee Home of St."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Some months later this poor soldier's widow came to the Refugee Home, at St."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exile who flees for safety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An exile who flees for safety.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Louis Refugee and Freedmen's Home--Mrs."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Late in the fall of 1863, Miss Elliott yielded to the wishes of the Western Sanitary Commission, and became matron of the Refugee Home of St."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Some months later this poor soldier's widow came to the Refugee Home, at St."*

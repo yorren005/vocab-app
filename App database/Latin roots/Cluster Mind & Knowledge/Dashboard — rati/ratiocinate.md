@@ -5,13 +5,6 @@ status: unread
 ---
 # ratiocinate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason methodologically and logically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reason methodologically and logically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ratiocinate designates reason methodologically and logically."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason methodologically and logically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reason methodologically and logically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ratiocinate designates reason methodologically and logically."*

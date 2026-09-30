@@ -5,14 +5,6 @@ status: unread
 ---
 # inflaming
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arousal to violent emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause inflammation in.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cousin, go draw our puissance together. [_Exit Bastard._] France, I am burn’d up with inflaming wrath; A rage whose heat hath this condition, That nothing can allay, nothing but blood, The blood, and dearest-valu’d blood, of France."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let not conscience, Which is but cold, inflaming love i’ thy bosom, Inflame too nicely; nor let pity, which Even women have cast off, melt thee, but be A soldier to thy purpose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arousal to violent emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause inflammation in.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cousin, go draw our puissance together. [_Exit Bastard._] France, I am burn’d up with inflaming wrath; A rage whose heat hath this condition, That nothing can allay, nothing but blood, The blood, and dearest-valu’d blood, of France."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let not conscience, Which is but cold, inflaming love i’ thy bosom, Inflame too nicely; nor let pity, which Even women have cast off, melt thee, but be A soldier to thy purpose."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # line-shooter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very boastful and talkative person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very boastful and talkative person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, line-shooter designates a very boastful and talkative person."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very boastful and talkative person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very boastful and talkative person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, line-shooter designates a very boastful and talkative person."*

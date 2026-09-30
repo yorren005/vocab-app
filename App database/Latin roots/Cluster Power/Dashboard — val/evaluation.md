@@ -5,14 +5,6 @@ status: unread
 ---
 # evaluation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of ascertaining or fixing the value or worth of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An appraisal of the value of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During the System's research, development, test, evaluation, engineering, construction, launch and voyage phases, the terminals are spunnel-linked and tested both as separate machines with their support systems, and as the integrated master scheme."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I need a 'how goes it' on the status of your evaluations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of ascertaining or fixing the value or worth of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An appraisal of the value of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During the System's research, development, test, evaluation, engineering, construction, launch and voyage phases, the terminals are spunnel-linked and tested both as separate machines with their support systems, and as the integrated master scheme."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I need a 'how goes it' on the status of your evaluations."*

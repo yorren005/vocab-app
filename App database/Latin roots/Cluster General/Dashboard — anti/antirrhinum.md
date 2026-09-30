@@ -5,13 +5,6 @@ status: unread
 ---
 # antirrhinum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbs of the family scrophulariaceae with brightly colored irregular flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of herbs of the family scrophulariaceae with brightly colored irregular flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antirrhinum designates a genus of herbs of the family scrophulariaceae with brightly colored irregular flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbs of the family scrophulariaceae with brightly colored irregular flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of herbs of the family scrophulariaceae with brightly colored irregular flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antirrhinum designates a genus of herbs of the family scrophulariaceae with brightly colored irregular flowers."*

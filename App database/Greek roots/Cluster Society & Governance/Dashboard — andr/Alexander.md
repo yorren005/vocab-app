@@ -5,15 +5,6 @@ status: unread
 ---
 # Alexander
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An iced cocktail made from crème de cacao, sweet cream, and gin or brandy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Name of 8 popes: especially VI (Rodrigo Borgia) 1431—1503 (pope 1492—1503).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His sons he there proclaimed the kings of kings: Great Media, Parthia, and Armenia He gave to Alexander; to Ptolemy he assigned Syria, Cilicia, and Phoenicia."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He sits in his state as a thing made for Alexander."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dost thou think Alexander looked o’ this fashion i’ th’earth?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An iced cocktail made from crème de cacao, sweet cream, and gin or brandy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Name of 8 popes: especially VI (Rodrigo Borgia) 1431—1503 (pope 1492—1503).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His sons he there proclaimed the kings of kings: Great Media, Parthia, and Armenia He gave to Alexander; to Ptolemy he assigned Syria, Cilicia, and Phoenicia."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He sits in his state as a thing made for Alexander."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dost thou think Alexander looked o’ this fashion i’ th’earth?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # eosin
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A red fluorescent dye C20H8Br4O5 obtained by the action of bromine on fluorescein and used especially in cosmetics and as a toner; also : its red to brown sodium or potassium salt used especially as a biological stain for cytoplasmic structures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several dyes related to eosin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eosin designates a red fluorescent dye c20h8br4o5 obtained by the action of bromine on fluorescein and used especially in cosmetics and as a toner; also : its red to brown sodium or potassium salt used especially as a biological stain for cytoplasmic structures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A red fluorescent dye C20H8Br4O5 obtained by the action of bromine on fluorescein and used especially in cosmetics and as a toner; also : its red to brown sodium or potassium salt used especially as a biological stain for cytoplasmic structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several dyes related to eosin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eosin designates a red fluorescent dye c20h8br4o5 obtained by the action of bromine on fluorescein and used especially in cosmetics and as a toner; also : its red to brown sodium or potassium salt used especially as a biological stain for cytoplasmic structures."*

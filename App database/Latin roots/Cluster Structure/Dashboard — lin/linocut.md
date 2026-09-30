@@ -5,13 +5,6 @@ status: unread
 ---
 # linocut
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A print that is made from a design carved in relief into a block of linoleum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A design carved in relief into a block of linoleum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linocut designates a print that is made from a design carved in relief into a block of linoleum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A print that is made from a design carved in relief into a block of linoleum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A design carved in relief into a block of linoleum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, linocut designates a print that is made from a design carved in relief into a block of linoleum."*

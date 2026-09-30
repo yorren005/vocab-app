@@ -5,15 +5,6 @@ status: unread
 ---
 # secrecy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of keeping things secret.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being concealed or hidden.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In nature’s infinite book of secrecy A little I can read."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This to me In dreadful secrecy impart they did, And I with them the third night kept the watch, Where, as they had deliver’d, both in time, Form of the thing, each word made true and good, The apparition comes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will tell you why; so shall my anticipation prevent your discovery, and your secrecy to the King and Queen moult no feather."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of keeping things secret.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being concealed or hidden.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In nature’s infinite book of secrecy A little I can read."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This to me In dreadful secrecy impart they did, And I with them the third night kept the watch, Where, as they had deliver’d, both in time, Form of the thing, each word made true and good, The apparition comes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will tell you why; so shall my anticipation prevent your discovery, and your secrecy to the King and Queen moult no feather."*

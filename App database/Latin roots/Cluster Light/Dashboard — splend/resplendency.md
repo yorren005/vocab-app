@@ -5,13 +5,6 @@ status: unread
 ---
 # resplendency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brilliant radiant beauty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brilliant radiant beauty.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Like bursting lava, I expand but to my own despair, and shine with the resplendency of 252:30 consuming fire."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brilliant radiant beauty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brilliant radiant beauty.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Like bursting lava, I expand but to my own despair, and shine with the resplendency of 252:30 consuming fire."*

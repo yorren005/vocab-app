@@ -5,14 +5,6 @@ status: unread
 ---
 # cervantes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spanish writer best remembered for `don quixote' which satirizes chivalry and influenced the development of the novel form (1547-1616).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spanish writer best remembered for `don quixote' which satirizes chivalry and influenced the development of the novel form (1547-1616).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"There seems to be no adequate reason for the baronet's whim of becoming an English Don Quixote of the eighteenth century, except the chance it gave Smollett for imitating Cervantes."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"I am neither an affected imitator of Don Quixote, nor, as I trust in Heaven, visited by that spirit of lunacy so admirably displayed in the fictitious character exhibited by the inimitable Cervantes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spanish writer best remembered for `don quixote' which satirizes chivalry and influenced the development of the novel form (1547-1616).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spanish writer best remembered for `don quixote' which satirizes chivalry and influenced the development of the novel form (1547-1616).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"There seems to be no adequate reason for the baronet's whim of becoming an English Don Quixote of the eighteenth century, except the chance it gave Smollett for imitating Cervantes."*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"I am neither an affected imitator of Don Quixote, nor, as I trust in Heaven, visited by that spirit of lunacy so admirably displayed in the fictitious character exhibited by the inimitable Cervantes."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # antiarrhythmic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug used to treat an abnormal heart rhythm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug used to treat an abnormal heart rhythm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiarrhythmic designates a drug used to treat an abnormal heart rhythm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug used to treat an abnormal heart rhythm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug used to treat an abnormal heart rhythm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiarrhythmic designates a drug used to treat an abnormal heart rhythm."*

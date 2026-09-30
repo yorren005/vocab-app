@@ -5,15 +5,6 @@ status: unread
 ---
 # condemnation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of strong disapproval; pronouncing as wrong or morally culpable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the act of condemning (as land forfeited for public use) or judging to be unfit for use (as a food product or an unsafe building).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Speak, or thy silence on the instant is Thy condemnation and thy death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To this add defiance; and tell him, for conclusion, he hath betrayed his followers, whose condemnation is pronounc’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O perilous mouths, That bear in them one and the self-same tongue Either of condemnation or approof, Bidding the law make curtsy to their will, Hooking both right and wrong to th’ appetite, To follow as it draws!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of strong disapproval; pronouncing as wrong or morally culpable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the act of condemning (as land forfeited for public use) or judging to be unfit for use (as a food product or an unsafe building).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Speak, or thy silence on the instant is Thy condemnation and thy death."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To this add defiance; and tell him, for conclusion, he hath betrayed his followers, whose condemnation is pronounc’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O perilous mouths, That bear in them one and the self-same tongue Either of condemnation or approof, Bidding the law make curtsy to their will, Hooking both right and wrong to th’ appetite, To follow as it draws!"*

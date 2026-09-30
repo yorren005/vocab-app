@@ -5,15 +5,6 @@ status: unread
 ---
 # anathema
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone or something intensely disliked or loathed —usually used in the phrase be anathema (to).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that is cursed by ecclesiastical authority.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He that is accursed, let him be accursed still,” was the pitiless anathema written in this spoliated effort of his new-born solicitousness."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He that is accursed, let him be accursed still.” was the pitiless anathema written in this spoliated effort of his new-born solicitousness."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Though it was now dark, I knew he was awake; because I heard him fulminating strange anathemas at finding himself lying in a pool of water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone or something intensely disliked or loathed —usually used in the phrase be anathema (to).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that is cursed by ecclesiastical authority.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He that is accursed, let him be accursed still,” was the pitiless anathema written in this spoliated effort of his new-born solicitousness."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He that is accursed, let him be accursed still.” was the pitiless anathema written in this spoliated effort of his new-born solicitousness."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Though it was now dark, I knew he was awake; because I heard him fulminating strange anathemas at finding himself lying in a pool of water."*

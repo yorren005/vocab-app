@@ -5,15 +5,6 @@ status: unread
 ---
 # officially
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an official role.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With official authorization.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And they assured me that they would do it officially without any hurt to their own official skins."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Tranquilly permitting these irregular cursings to evaporate, Stubb then in a plain, business-like, but still half humorous manner, cursed Pip officially; and that done, unofficially gave him much wholesome advice."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She was called, officially, the "Lady Superintendent," and her duties were general; they consisted less of actual nursing, than the organization and superintendence of her department."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an official role.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With official authorization.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And they assured me that they would do it officially without any hurt to their own official skins."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Tranquilly permitting these irregular cursings to evaporate, Stubb then in a plain, business-like, but still half humorous manner, cursed Pip officially; and that done, unofficially gave him much wholesome advice."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She was called, officially, the "Lady Superintendent," and her duties were general; they consisted less of actual nursing, than the organization and superintendence of her department."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # epictetus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greek philosopher who was a stoic (circa 50-130).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greek philosopher who was a stoic (circa 50-130).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The story of Epictetus can be more briefly told, for there is very little to tell.[52] He was born at Hierapolis in Phrygia:--he was the slave of Nero's freedman Epaphroditus, and somehow managed to hear the lectures of the Stoic Musonius."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But if they do not, let my readers know that, when he spoke them, the hearer could not avoid being affected as Epictetus wished him to be."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Farewell." [Sidenote: Epictetus on children and women] Such, save for a sentence or two omitted, is Arrian's preface,--thereafter no voice is heard but that of Epictetus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Greek philosopher who was a stoic (circa 50-130).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greek philosopher who was a stoic (circa 50-130).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The story of Epictetus can be more briefly told, for there is very little to tell.[52] He was born at Hierapolis in Phrygia:--he was the slave of Nero's freedman Epaphroditus, and somehow managed to hear the lectures of the Stoic Musonius."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But if they do not, let my readers know that, when he spoke them, the hearer could not avoid being affected as Epictetus wished him to be."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Farewell." [Sidenote: Epictetus on children and women] Such, save for a sentence or two omitted, is Arrian's preface,--thereafter no voice is heard but that of Epictetus."*

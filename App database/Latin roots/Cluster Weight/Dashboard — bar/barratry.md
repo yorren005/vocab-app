@@ -5,13 +5,6 @@ status: unread
 ---
 # barratry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Traffic in ecclesiastical offices or preferments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The crime of a judge whose judgment is influenced by bribery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Clarke, "he cannot be convicted of barratry, unless he is always at variance with some person or other, a mover of suits and quarrels, who disturbs the peace under colour of law."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Traffic in ecclesiastical offices or preferments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The crime of a judge whose judgment is influenced by bribery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Clarke, "he cannot be convicted of barratry, unless he is always at variance with some person or other, a mover of suits and quarrels, who disturbs the peace under colour of law."*

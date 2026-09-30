@@ -5,15 +5,6 @@ status: unread
 ---
 # discourteous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing no courtesy; rude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking social graces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Nor has he anything more to say or do but to nod once in the same frigid and discourteous manner and to say briefly, “You can go."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Please forgive me if I have seemed discourteous."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"It would seem absurd, not to say discourteous."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing no courtesy; rude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking social graces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Nor has he anything more to say or do but to nod once in the same frigid and discourteous manner and to say briefly, “You can go."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Please forgive me if I have seemed discourteous."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"It would seem absurd, not to say discourteous."*

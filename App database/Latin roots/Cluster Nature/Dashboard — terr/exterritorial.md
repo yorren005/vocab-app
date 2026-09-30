@@ -5,13 +5,6 @@ status: unread
 ---
 # exterritorial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Outside territorial limits or jurisdiction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Outside territorial limits or jurisdiction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exterritorial designates outside territorial limits or jurisdiction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Outside territorial limits or jurisdiction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Outside territorial limits or jurisdiction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exterritorial designates outside territorial limits or jurisdiction."*

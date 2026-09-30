@@ -5,15 +5,6 @@ status: unread
 ---
 # scandalise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strike with disgust or revulsion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strike with disgust or revulsion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"The responsibility of giving the lady away devolved upon the Aged, which led to the clergyman’s being unintentionally scandalised, and it happened thus."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Well, John?” “May I sit in Peter’s chair, as he is not here?” “Sit in father’s chair, John!” Wendy was scandalised."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"But we want you to dance.” Peter was really the best dancer among them, but he pretended to be scandalised."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strike with disgust or revulsion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strike with disgust or revulsion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The responsibility of giving the lady away devolved upon the Aged, which led to the clergyman’s being unintentionally scandalised, and it happened thus."*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"Well, John?” “May I sit in Peter’s chair, as he is not here?” “Sit in father’s chair, John!” Wendy was scandalised."*
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"But we want you to dance.” Peter was really the best dancer among them, but he pretended to be scandalised."*

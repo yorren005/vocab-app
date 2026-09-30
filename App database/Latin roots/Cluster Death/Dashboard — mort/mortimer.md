@@ -5,15 +5,6 @@ status: unread
 ---
 # mortimer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English nobleman who deposed edward ii and was executed by edward iii (1287-1330).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English nobleman who deposed edward ii and was executed by edward iii (1287-1330).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Edmund MORTIMER, Earl of March."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lady Mortimer, Daughter to Glendower."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, on the barren mountains let him starve; For I shall never hold that man my friend Whose tongue shall ask me for one penny cost To ransom home revolted Mortimer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English nobleman who deposed edward ii and was executed by edward iii (1287-1330).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English nobleman who deposed edward ii and was executed by edward iii (1287-1330).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Edmund MORTIMER, Earl of March."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lady Mortimer, Daughter to Glendower."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, on the barren mountains let him starve; For I shall never hold that man my friend Whose tongue shall ask me for one penny cost To ransom home revolted Mortimer."*

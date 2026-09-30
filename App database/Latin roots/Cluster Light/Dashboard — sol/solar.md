@@ -5,15 +5,6 @@ status: unread
 ---
 # solar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or derived from the sun or utilizing the energies of the sun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or derived from the sun or utilizing the energies of the sun.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There’s nothing solar about legs of beef and mutton."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The fashionable world—tremendous orb, nearly five miles round—is in full swing, and the solar system works respectfully at its appointed distances."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Edward Westermarck have satisfied me that the solar theory of the European fire-festivals, which I accepted from W."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or derived from the sun or utilizing the energies of the sun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or derived from the sun or utilizing the energies of the sun.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"There’s nothing solar about legs of beef and mutton."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The fashionable world—tremendous orb, nearly five miles round—is in full swing, and the solar system works respectfully at its appointed distances."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Edward Westermarck have satisfied me that the solar theory of the European fire-festivals, which I accepted from W."*

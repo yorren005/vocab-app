@@ -1,0 +1,48 @@
+{
+  "startedAt": "2026-09-30T17:10:00+08:00",
+  "lastUpdatedAt": "2026-09-30T19:14:40+08:00",
+  "currentMilestone": "Milestone 3: Individualized Curation — English vocabulary master (30 Clusters)",
+  "milestones": {
+    "milestone_0_instructions": "completed",
+    "milestone_1_mobile_ui": "completed",
+    "milestone_2_md_status_top_layout": "completed",
+    "milestone_3_english_vocab_master_curation": "in_progress",
+    "milestone_4_greek_roots_curation": "pending",
+    "milestone_5_latin_roots_curation": "pending",
+    "milestone_6_verification_and_sync": "pending"
+  },
+  "activeSubagents": {
+    "batch_3A": {
+      "id": "49417986-08d8-4353-96fc-32f0440ddc47",
+      "clusters": ["Cluster Beauty and Ugliness", "Cluster Bound and Restraint", "Cluster Conflict and Strife", "Cluster Craft and Shaping", "Cluster Earth and Stone", "Cluster Fate and Fortune"],
+      "status": "running"
+    },
+    "batch_3B": {
+      "id": "91d7ec88-d659-4420-a44e-a618f2424517",
+      "clusters": ["Cluster Feast and Hunger", "Cluster Fire and Heat", "Cluster Friendship and Enmity", "Cluster Growth and Decay", "Cluster Journey and Travel", "Cluster Light and Darkness"],
+      "status": "running"
+    },
+    "batch_3C": {
+      "id": "e05b134f-110d-4b6f-9263-b19b2c69300c",
+      "clusters": ["Cluster Magic and Spell", "Cluster Mind and Emotion", "Cluster Motion and Force", "Cluster Pain and Healing", "Cluster Pride and Humility", "Cluster Shadow and Secrecy"],
+      "status": "running"
+    },
+    "batch_3D": {
+      "id": "4029e665-c178-48ea-9fb4-bd1bc638caf7",
+      "clusters": ["Cluster Shelter and Abode", "Cluster Sight and Vision", "Cluster Sleep and Waking", "Cluster Sound and Silence", "Cluster Speech and Lore", "Cluster Speed and Haste"],
+      "status": "running"
+    },
+    "batch_3E": {
+      "id": "cd8885bb-4854-41be-954d-3cd99b7ffa25",
+      "clusters": ["Cluster Stealth and Cunning", "Cluster Time and Seasons", "Cluster Trade and Barter", "Cluster Water and Liquid", "Cluster Wealth and Poverty", "Cluster Weather and Wilderness"],
+      "status": "running"
+    }
+  },
+  "completedClusters": [],
+  "stats": {
+    "totalWordFiles": 47447,
+    "statusMovedToTopCount": 47447,
+    "doubleFrontmatterFixedCount": 4,
+    "curatedWordsCount": 7
+  }
+}

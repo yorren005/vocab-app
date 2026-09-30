@@ -5,15 +5,6 @@ status: unread
 ---
 # frigid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sexually unresponsive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely cold.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Nor has he anything more to say or do but to nod once in the same frigid and discourteous manner and to say briefly, “You can go."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The carriages in the streets are few, and other late sounds in that neighbourhood there are none, unless a man so very nomadically drunk as to stray into the frigid zone goes brawling and bellowing along the pavement."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Our tremulous lives are so different from theirs, are they not?” he musingly observed to her, as he regarded the three figures tripping before him through the frigid pallor of opening day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sexually unresponsive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely cold.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Nor has he anything more to say or do but to nod once in the same frigid and discourteous manner and to say briefly, “You can go."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The carriages in the streets are few, and other late sounds in that neighbourhood there are none, unless a man so very nomadically drunk as to stray into the frigid zone goes brawling and bellowing along the pavement."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Our tremulous lives are so different from theirs, are they not?” he musingly observed to her, as he regarded the three figures tripping before him through the frigid pallor of opening day."*

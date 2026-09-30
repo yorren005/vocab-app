@@ -5,13 +5,6 @@ status: unread
 ---
 # radiometer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meter to detect and measure radiant energy (electromagnetic or acoustic).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meter to detect and measure radiant energy (electromagnetic or acoustic).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiometer designates meter to detect and measure radiant energy (electromagnetic or acoustic)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Meter to detect and measure radiant energy (electromagnetic or acoustic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meter to detect and measure radiant energy (electromagnetic or acoustic).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, radiometer designates meter to detect and measure radiant energy (electromagnetic or acoustic)."*

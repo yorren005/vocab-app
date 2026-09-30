@@ -5,13 +5,6 @@ status: unread
 ---
 # prosodic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the rhythmic aspect of language or to the suprasegmental phonemes of pitch and stress and juncture and nasalization and voicing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the rhythmic aspect of language or to the suprasegmental phonemes of pitch and stress and juncture and nasalization and voicing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosodic designates of or relating to the rhythmic aspect of language or to the suprasegmental phonemes of pitch and stress and juncture and nasalization and voicing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the rhythmic aspect of language or to the suprasegmental phonemes of pitch and stress and juncture and nasalization and voicing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the rhythmic aspect of language or to the suprasegmental phonemes of pitch and stress and juncture and nasalization and voicing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosodic designates of or relating to the rhythmic aspect of language or to the suprasegmental phonemes of pitch and stress and juncture and nasalization and voicing."*

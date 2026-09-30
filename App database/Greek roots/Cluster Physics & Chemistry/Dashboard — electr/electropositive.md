@@ -5,13 +5,6 @@ status: unread
 ---
 # electropositive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a positive charge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a positive charge.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electropositive designates having a positive charge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a positive charge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a positive charge.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electropositive designates having a positive charge."*

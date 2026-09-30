@@ -5,13 +5,6 @@ status: unread
 ---
 # thermometrograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermometer that records temperature variations on a graph as a function of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermometer that records temperature variations on a graph as a function of time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermometrograph designates a thermometer that records temperature variations on a graph as a function of time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermometer that records temperature variations on a graph as a function of time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermometer that records temperature variations on a graph as a function of time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermometrograph designates a thermometer that records temperature variations on a graph as a function of time."*

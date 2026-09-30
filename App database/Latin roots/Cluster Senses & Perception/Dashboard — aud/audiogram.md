@@ -5,13 +5,6 @@ status: unread
 ---
 # audiogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphical representation of a person's auditory sensitivity to sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graphical representation of a person's auditory sensitivity to sound.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, audiogram designates a graphical representation of a person's auditory sensitivity to sound."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphical representation of a person's auditory sensitivity to sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graphical representation of a person's auditory sensitivity to sound.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, audiogram designates a graphical representation of a person's auditory sensitivity to sound."*

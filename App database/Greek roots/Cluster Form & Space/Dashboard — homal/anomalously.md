@@ -5,14 +5,6 @@ status: unread
 ---
 # anomalously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an anomalous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an anomalous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If he did not have a common soul in him, he had a subtle something that somehow anomalously did its duty."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"If he did not have a common soul in him, he had a subtle something that somehow anomalously did its duty."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an anomalous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an anomalous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If he did not have a common soul in him, he had a subtle something that somehow anomalously did its duty."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"If he did not have a common soul in him, he had a subtle something that somehow anomalously did its duty."*

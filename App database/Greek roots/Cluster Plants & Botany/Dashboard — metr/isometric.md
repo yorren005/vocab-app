@@ -5,13 +5,6 @@ status: unread
 ---
 # isometric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by equality of measure; especially : relating to or being a crystallographic system characterized by three equal axes at right angles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, involving, or being muscular contraction (as in isometrics) against resistance, without significant shortening of muscle fibers, and with marked increase in muscle tone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isometric designates of, relating to, or characterized by equality of measure; especially : relating to or being a crystallographic system characterized by three equal axes at right angles."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by equality of measure; especially : relating to or being a crystallographic system characterized by three equal axes at right angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, involving, or being muscular contraction (as in isometrics) against resistance, without significant shortening of muscle fibers, and with marked increase in muscle tone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isometric designates of, relating to, or characterized by equality of measure; especially : relating to or being a crystallographic system characterized by three equal axes at right angles."*

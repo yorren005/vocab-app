@@ -5,15 +5,6 @@ status: unread
 ---
 # minutes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A written account of what transpired at a meeting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of time equal to 60 seconds or 1/60th of an hour.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Nature (sovereign mistress over wrack) As thou goest onwards still will pluck thee back, She keeps thee to this purpose, that her skill May time disgrace, and wretched minutes kill."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore I have entreated him along With us to watch the minutes of this night, That if again this apparition come He may approve our eyes and speak to it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So minutes, hours, days, months, and years, Passed over to the end they were created, Would bring white hairs unto a quiet grave."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written account of what transpired at a meeting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of time equal to 60 seconds or 1/60th of an hour.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Nature (sovereign mistress over wrack) As thou goest onwards still will pluck thee back, She keeps thee to this purpose, that her skill May time disgrace, and wretched minutes kill."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore I have entreated him along With us to watch the minutes of this night, That if again this apparition come He may approve our eyes and speak to it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So minutes, hours, days, months, and years, Passed over to the end they were created, Would bring white hairs unto a quiet grave."*

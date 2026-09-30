@@ -5,15 +5,6 @@ status: unread
 ---
 # battering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of subjecting to strong attack.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strike against forcefully.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sconce, call you it? so you would leave battering, I had rather have it a head."*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"O! how shall summer’s honey breath hold out, Against the wrackful siege of battering days, When rocks impregnable are not so stout, Nor gates of steel so strong but Time decays?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Poor Boldwood had no more skill in finesse than a battering-ram, and he was uneasy with a sense of having made himself to appear stupid and, what was worse, mean."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of subjecting to strong attack.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strike against forcefully.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sconce, call you it? so you would leave battering, I had rather have it a head."*
+> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"O! how shall summer’s honey breath hold out, Against the wrackful siege of battering days, When rocks impregnable are not so stout, Nor gates of steel so strong but Time decays?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Poor Boldwood had no more skill in finesse than a battering-ram, and he was uneasy with a sense of having made himself to appear stupid and, what was worse, mean."*

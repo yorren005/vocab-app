@@ -5,14 +5,6 @@ status: unread
 ---
 # translucency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of allowing light to pass diffusely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of allowing light to pass diffusely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"A slight translucency is observable near the rim on a white T´ang cup in the Eumorfopoulos Collection."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The body of this piece is a soft white material, and the translucency is caused by a mingling of the glaze with the body where it is very thin, and it may be compared with the translucency of the Persian "gombroon" ware."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of allowing light to pass diffusely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of allowing light to pass diffusely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"A slight translucency is observable near the rim on a white T´ang cup in the Eumorfopoulos Collection."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The body of this piece is a soft white material, and the translucency is caused by a mingling of the glaze with the body where it is very thin, and it may be compared with the translucency of the Persian "gombroon" ware."*

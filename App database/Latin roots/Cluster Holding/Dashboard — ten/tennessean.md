@@ -5,13 +5,6 @@ status: unread
 ---
 # tennessean
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of tennessee.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of tennessee.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"But if there _was_ any rear guard they never saw it, although they ran into another body of Tennesseans, more than a thousand of them this time, who told them that the army gone on toward Tupelo, thirty-five miles from Corinth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of tennessee.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of tennessee.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"But if there _was_ any rear guard they never saw it, although they ran into another body of Tennesseans, more than a thousand of them this time, who told them that the army gone on toward Tupelo, thirty-five miles from Corinth."*

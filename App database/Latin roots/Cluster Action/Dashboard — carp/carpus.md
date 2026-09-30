@@ -5,13 +5,6 @@ status: unread
 ---
 # carpus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A joint between the distal end of the radius and the proximal row of carpal bones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A joint between the distal end of the radius and the proximal row of carpal bones.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpus designates a joint between the distal end of the radius and the proximal row of carpal bones."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A joint between the distal end of the radius and the proximal row of carpal bones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A joint between the distal end of the radius and the proximal row of carpal bones.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpus designates a joint between the distal end of the radius and the proximal row of carpal bones."*

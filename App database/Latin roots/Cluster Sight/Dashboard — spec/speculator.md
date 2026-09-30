@@ -5,15 +5,6 @@ status: unread
 ---
 # speculator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes conjectures without knowing the facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who risks losses for the possibility of considerable gains.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"THE SPECULATOR AS A RISK-TAKER [Sidenote: An element of speculation in all business] 1. _Every enterpriser is to some extent specializing as a risk-taker._ This familiar idea may be taken as a starting point in discussing speculation."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In a business sense the speculator is one who studies carefully the conditions and the chances of a change of prices; hence arises the thought that speculation is connected with chance."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"One may ask, How, if the miller in the long run benefits, can the speculator gain?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes conjectures without knowing the facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who risks losses for the possibility of considerable gains.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"THE SPECULATOR AS A RISK-TAKER [Sidenote: An element of speculation in all business] 1. _Every enterpriser is to some extent specializing as a risk-taker._ This familiar idea may be taken as a starting point in discussing speculation."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"In a business sense the speculator is one who studies carefully the conditions and the chances of a change of prices; hence arises the thought that speculation is connected with chance."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"One may ask, How, if the miller in the long run benefits, can the speculator gain?"*

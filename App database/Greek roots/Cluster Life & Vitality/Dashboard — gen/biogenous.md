@@ -5,13 +5,6 @@ status: unread
 ---
 # biogenous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or produced by living things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing or produced by living things.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biogenous designates producing or produced by living things."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or produced by living things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing or produced by living things.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biogenous designates producing or produced by living things."*

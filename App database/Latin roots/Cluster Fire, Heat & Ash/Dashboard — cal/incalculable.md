@@ -5,15 +5,6 @@ status: unread
 ---
 # incalculable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being computed or enumerated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being computed or enumerated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have been growing, developing, through incalculable myriads of millenniums."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oh, incalculable times again shall I be born; and yet the stupid dolts about me think that by stretching my neck with a rope they will make me cease."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I've done incalculable mischief, and, to tell you the truth, I shouldn't have chosen to raise this subject again till I'm clear of it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being computed or enumerated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being computed or enumerated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have been growing, developing, through incalculable myriads of millenniums."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oh, incalculable times again shall I be born; and yet the stupid dolts about me think that by stretching my neck with a rope they will make me cease."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"I've done incalculable mischief, and, to tell you the truth, I shouldn't have chosen to raise this subject again till I'm clear of it."*

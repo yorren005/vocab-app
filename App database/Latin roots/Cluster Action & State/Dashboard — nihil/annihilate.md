@@ -5,15 +5,6 @@ status: unread
 ---
 # annihilate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill in large numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kill in large numbers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He would annihilate the six years of his life as if they were minutes—so little did he value his time on earth beside her love."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To escape the past and all that appertained thereto was to annihilate it, and to do that she would have to get away."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I was very sorry.” Will only thought of giving a good pinch that would annihilate that vaunted laboriousness, and was unable to imagine the mode in which Dorothea would be wounded."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill in large numbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kill in large numbers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He would annihilate the six years of his life as if they were minutes—so little did he value his time on earth beside her love."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To escape the past and all that appertained thereto was to annihilate it, and to do that she would have to get away."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I was very sorry.” Will only thought of giving a good pinch that would annihilate that vaunted laboriousness, and was unable to imagine the mode in which Dorothea would be wounded."*

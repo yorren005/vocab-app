@@ -5,15 +5,6 @@ status: unread
 ---
 # abound
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be abundant or plentiful; exist in large quantities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be in a state of movement or action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The plain-song is most just, for humours do abound."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus sometimes hath the brightest day a cloud, And after summer evermore succeeds Barren winter, with his wrathful nipping cold; So cares and joys abound, as seasons fleet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do know Kinsmen of mine, three at the least, that have By this so sickened their estates that never They shall abound as formerly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be abundant or plentiful; exist in large quantities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be in a state of movement or action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The plain-song is most just, for humours do abound."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus sometimes hath the brightest day a cloud, And after summer evermore succeeds Barren winter, with his wrathful nipping cold; So cares and joys abound, as seasons fleet."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do know Kinsmen of mine, three at the least, that have By this so sickened their estates that never They shall abound as formerly."*

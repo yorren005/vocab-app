@@ -5,15 +5,6 @@ status: unread
 ---
 # anticipation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expectation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something expected (as on the basis of a norm).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will tell you why; so shall my anticipation prevent your discovery, and your secrecy to the King and Queen moult no feather."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I could have no anticipation, and I had none, that something very startling to me at the moment, and ever memorable to me in what ensued from it, was to happen before this day was out."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Well, I hope to do my duty by it all,” said Joseph Poorgrass, in a pleasant, masticating manner of anticipation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expectation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something expected (as on the basis of a norm).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will tell you why; so shall my anticipation prevent your discovery, and your secrecy to the King and Queen moult no feather."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I could have no anticipation, and I had none, that something very startling to me at the moment, and ever memorable to me in what ensued from it, was to happen before this day was out."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Well, I hope to do my duty by it all,” said Joseph Poorgrass, in a pleasant, masticating manner of anticipation."*

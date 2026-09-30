@@ -5,13 +5,6 @@ status: unread
 ---
 # geodetic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or determined by geodesy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A survey of a large land area in which corrections are made for the curvature of the earth's surface.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geodetic designates of, relating to, or determined by geodesy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or determined by geodesy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A survey of a large land area in which corrections are made for the curvature of the earth's surface.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geodetic designates of, relating to, or determined by geodesy."*

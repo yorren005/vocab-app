@@ -5,13 +5,6 @@ status: unread
 ---
 # marasmus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme malnutrition and emaciation (especially in children); can result from inadequate intake of food or from malabsorption or metabolic disorders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme malnutrition and emaciation (especially in children); can result from inadequate intake of food or from malabsorption or metabolic disorders.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marasmus designates extreme malnutrition and emaciation (especially in children); can result from inadequate intake of food or from malabsorption or metabolic disorders."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme malnutrition and emaciation (especially in children); can result from inadequate intake of food or from malabsorption or metabolic disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme malnutrition and emaciation (especially in children); can result from inadequate intake of food or from malabsorption or metabolic disorders.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marasmus designates extreme malnutrition and emaciation (especially in children); can result from inadequate intake of food or from malabsorption or metabolic disorders."*

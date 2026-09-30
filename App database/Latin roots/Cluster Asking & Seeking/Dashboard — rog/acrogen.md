@@ -5,13 +5,6 @@ status: unread
 ---
 # acrogen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any flowerless plant such as a fern (pteridophyte) or moss (bryophyte) in which growth occurs only at the tip of the main stem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any flowerless plant such as a fern (pteridophyte) or moss (bryophyte) in which growth occurs only at the tip of the main stem.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrogen designates any flowerless plant such as a fern (pteridophyte) or moss (bryophyte) in which growth occurs only at the tip of the main stem."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any flowerless plant such as a fern (pteridophyte) or moss (bryophyte) in which growth occurs only at the tip of the main stem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any flowerless plant such as a fern (pteridophyte) or moss (bryophyte) in which growth occurs only at the tip of the main stem.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrogen designates any flowerless plant such as a fern (pteridophyte) or moss (bryophyte) in which growth occurs only at the tip of the main stem."*

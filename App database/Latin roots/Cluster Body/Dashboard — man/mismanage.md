@@ -5,15 +5,6 @@ status: unread
 ---
 # mismanage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Manage badly or incompetently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manage badly or incompetently.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He knew he had mismanaged his wife’s property and was to blame toward his children, but he did not know how to remedy it)."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"The town itself was shamefully mismanaged."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He had a taste for law, which cost him many thousands yearly; and being a great deal too clever to be robbed, as he said, by any single agent, allowed his affairs to be mismanaged by a dozen, whom he all equally mistrusted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Manage badly or incompetently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manage badly or incompetently.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He knew he had mismanaged his wife’s property and was to blame toward his children, but he did not know how to remedy it)."*
+> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"The town itself was shamefully mismanaged."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He had a taste for law, which cost him many thousands yearly; and being a great deal too clever to be robbed, as he said, by any single agent, allowed his affairs to be mismanaged by a dozen, whom he all equally mistrusted."*

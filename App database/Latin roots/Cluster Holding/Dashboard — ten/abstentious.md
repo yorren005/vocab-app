@@ -5,13 +5,6 @@ status: unread
 ---
 # abstentious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Self-restraining; not indulging an appetite especially for food or drink.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Self-restraining; not indulging an appetite especially for food or drink.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abstentious designates self-restraining; not indulging an appetite especially for food or drink."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Self-restraining; not indulging an appetite especially for food or drink.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Self-restraining; not indulging an appetite especially for food or drink.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abstentious designates self-restraining; not indulging an appetite especially for food or drink."*

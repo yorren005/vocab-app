@@ -5,13 +5,6 @@ status: unread
 ---
 # defecate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have a bowel movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a bowel movement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defecate designates have a bowel movement."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have a bowel movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a bowel movement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defecate designates have a bowel movement."*

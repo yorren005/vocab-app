@@ -5,13 +5,6 @@ status: unread
 ---
 # ophthalmic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated near the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supplying or draining the eye or structures in the region of the eye.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Yet I do not call to mind that I was ever in my earlier youth the subject of remark in our social family circle, but some large-handed person took some such ophthalmic steps to patronise me."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated near the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supplying or draining the eye or structures in the region of the eye.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Yet I do not call to mind that I was ever in my earlier youth the subject of remark in our social family circle, but some large-handed person took some such ophthalmic steps to patronise me."*

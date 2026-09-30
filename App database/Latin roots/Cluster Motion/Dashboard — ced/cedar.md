@@ -5,15 +5,6 @@ status: unread
 ---
 # cedar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous trees of the family cupressaceae that resemble cedars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Durable aromatic wood of any of numerous cedar trees; especially wood of the red cedar often used for cedar chests.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The lofty cedar, royal Cymbeline, Personates thee; and thy lopp’d branches point Thy two sons forth, who, by Belarius stol’n, For many years thought dead, are now reviv’d, To the majestic cedar join’d, whose issue Promises Britain peace and plenty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus yields the cedar to the axe’s edge, Whose arms gave shelter to the princely eagle, Under whose shade the ramping lion slept, Whose top branch overpeered Jove’s spreading tree, And kept low shrubs from winter’s pow’rful wind."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He shall flourish, And, like a mountain cedar, reach his branches To all the plains about him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous trees of the family cupressaceae that resemble cedars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Durable aromatic wood of any of numerous cedar trees; especially wood of the red cedar often used for cedar chests.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The lofty cedar, royal Cymbeline, Personates thee; and thy lopp’d branches point Thy two sons forth, who, by Belarius stol’n, For many years thought dead, are now reviv’d, To the majestic cedar join’d, whose issue Promises Britain peace and plenty."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus yields the cedar to the axe’s edge, Whose arms gave shelter to the princely eagle, Under whose shade the ramping lion slept, Whose top branch overpeered Jove’s spreading tree, And kept low shrubs from winter’s pow’rful wind."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He shall flourish, And, like a mountain cedar, reach his branches To all the plains about him."*

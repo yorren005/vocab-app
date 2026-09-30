@@ -5,13 +5,6 @@ status: unread
 ---
 # devaluate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the value from; deprive of its value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lose in value.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, devaluate designates remove the value from; deprive of its value."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the value from; deprive of its value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lose in value.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, devaluate designates remove the value from; deprive of its value."*

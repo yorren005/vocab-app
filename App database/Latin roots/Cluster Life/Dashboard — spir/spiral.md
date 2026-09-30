@@ -5,15 +5,6 @@ status: unread
 ---
 # spiral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane curve traced by a point circling about the center but at increasing distances from the center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A curve that lies on the surface of a cylinder or cone and cuts the element at a constant angle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In this lantern is a spiral glass which contains a small quantity of carbonic gas."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"By turning a screw I established a communication between the wire and the spiral glass, and the sea, lit by our four lanterns, was illuminated for a circle of thirty-six yards."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I saw their spiral-shaped and fluted shells, which Cuvier justly compares to an elegant skiff."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane curve traced by a point circling about the center but at increasing distances from the center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A curve that lies on the surface of a cylinder or cone and cuts the element at a constant angle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In this lantern is a spiral glass which contains a small quantity of carbonic gas."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"By turning a screw I established a communication between the wire and the spiral glass, and the sea, lit by our four lanterns, was illuminated for a circle of thirty-six yards."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I saw their spiral-shaped and fluted shells, which Cuvier justly compares to an elegant skiff."*

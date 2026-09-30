@@ -5,13 +5,6 @@ status: unread
 ---
 # xenolith
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fragment of a rock included in another rock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fragment of a rock included in another rock.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenolith designates a fragment of a rock included in another rock."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fragment of a rock included in another rock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fragment of a rock included in another rock.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenolith designates a fragment of a rock included in another rock."*

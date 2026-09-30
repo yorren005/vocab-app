@@ -5,15 +5,6 @@ status: unread
 ---
 # compress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cloth pad or dressing (with or without medication) applied firmly to some part of the body (to relieve discomfort or reduce fever).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more compact by or as if by pressing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I only know that I found myself, with a perseverance worthy of a much better cause, making the most strenuous exertions to compress it within those limits."*
-> - 📜 **George Eliot (*Middlemarch*):** *"In her indignation there was a sense of superiority, but it went out for the present in firmness of stroke, and did not compress itself into an inward articulate voice pronouncing the once “affable archangel” a poor creature."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Would you, you could not compress him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cloth pad or dressing (with or without medication) applied firmly to some part of the body (to relieve discomfort or reduce fever).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more compact by or as if by pressing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I only know that I found myself, with a perseverance worthy of a much better cause, making the most strenuous exertions to compress it within those limits."*
+> - 📜 **George Eliot (*Middlemarch*):** *"In her indignation there was a sense of superiority, but it went out for the present in firmness of stroke, and did not compress itself into an inward articulate voice pronouncing the once “affable archangel” a poor creature."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Would you, you could not compress him."*

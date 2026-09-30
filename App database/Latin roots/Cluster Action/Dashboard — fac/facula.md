@@ -5,13 +5,6 @@ status: unread
 ---
 # facula
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bright spot on a planet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large bright spot on the sun's photosphere occurring most frequently in the vicinity of sunspots.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Consuetum item est hac vigilia ardentes deferri faculas quod Johannes fuerit ardens lucerna, et qui vias Domini praeparaverit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bright spot on a planet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large bright spot on the sun's photosphere occurring most frequently in the vicinity of sunspots.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Consuetum item est hac vigilia ardentes deferri faculas quod Johannes fuerit ardens lucerna, et qui vias Domini praeparaverit."*

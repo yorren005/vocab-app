@@ -5,13 +5,6 @@ status: unread
 ---
 # hemorrhagic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A copious or heavy discharge of blood from the blood vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rapid and uncontrollable loss or outflow.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemorrhagic designates a copious or heavy discharge of blood from the blood vessels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A copious or heavy discharge of blood from the blood vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rapid and uncontrollable loss or outflow.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemorrhagic designates a copious or heavy discharge of blood from the blood vessels."*

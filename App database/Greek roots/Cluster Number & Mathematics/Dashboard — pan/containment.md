@@ -5,13 +5,6 @@ status: unread
 ---
 # containment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A policy of creating strategic alliances in order to check the expansion of a hostile power or ideology or to force it to negotiate peacefully.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) a system designed to prevent the accidental release of radioactive material from a reactor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"How could He be otherwise, since the spiritual creation was the outgrowth, the emanation, of His infinite self- 519:6 containment and immortal wisdom? /Genesis/ ii. 1."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A policy of creating strategic alliances in order to check the expansion of a hostile power or ideology or to force it to negotiate peacefully.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) a system designed to prevent the accidental release of radioactive material from a reactor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"How could He be otherwise, since the spiritual creation was the outgrowth, the emanation, of His infinite self- 519:6 containment and immortal wisdom? /Genesis/ ii. 1."*

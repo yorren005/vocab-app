@@ -5,13 +5,6 @@ status: unread
 ---
 # citronwood
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wood of a citron tree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Durable fragrant wood; used in building (as in the roof of the cathedral at cordova, spain).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, citronwood designates wood of a citron tree."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wood of a citron tree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Durable fragrant wood; used in building (as in the roof of the cathedral at cordova, spain).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, citronwood designates wood of a citron tree."*

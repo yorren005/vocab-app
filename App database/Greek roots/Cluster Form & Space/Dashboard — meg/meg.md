@@ -5,15 +5,6 @@ status: unread
 ---
 # meg
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: megabyte.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: megohm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I thank thee, Meg; these words content me much."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, pray thee, good Meg, I’ll wear this."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Help to dress me, good coz, good Meg, good Ursula. [Exeunt.] Scene V."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: megabyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: megohm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I thank thee, Meg; these words content me much."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, pray thee, good Meg, I’ll wear this."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Help to dress me, good coz, good Meg, good Ursula. [Exeunt.] Scene V."*

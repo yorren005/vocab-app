@@ -5,20 +5,6 @@ status: unread
 ---
 # peddle
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Sell illegal narcotics
-> 2. **Nuance / Usage**: Be busy with trifles : piddle
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to peddle the target*) and intransitive clauses (*peddling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Gone in 60 Seconds (1974 film)*):** *"- How much you think this stuff is worth?<br>- Yeah, there must be a million bucks' worth.<br>- Think we could peddle it?<br>- Oh, you can always get rid of it."*
-> - 📜 **Niamh O'Connor (*Taken*):** *"Roberts was a drug dealer, nicknamed 'King Krud', who peddled death and misery."*
-> - 📜 **Oliver Brown (*Oscar Pistorius jailed for five years – sport afforded no protection against his tragic fallibilities: Bladerunner's punishment for killing Reeva Steenkamp is but a frippery when set against the burden that her bereft parents, June and Barry, must carry &#91;print version: No room for sentimentality in this tragedy, 13 September 2014, p.&nbsp;S22&#93;*):** *"Yes, there were instances of grandstanding and obsessive behaviour, but many were concealed at the time to help protect an aggressively peddled narrative of [[w:Oscar Pistorius|[Oscar] Pistorius]] the paragon, the emblem, the trailblazer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Sell illegal narcotics
+> 2. **Nuance / Usage**: Be busy with trifles : piddle
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to peddle the target*) and intransitive clauses (*peddling against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Gone in 60 Seconds (1974 film)*):** *"- How much you think this stuff is worth?<br>- Yeah, there must be a million bucks' worth.<br>- Think we could peddle it?<br>- Oh, you can always get rid of it."*
+> - 📜 **Niamh O'Connor (*Taken*):** *"Roberts was a drug dealer, nicknamed 'King Krud', who peddled death and misery."*
+> - 📜 **Oliver Brown (*Oscar Pistorius jailed for five years – sport afforded no protection against his tragic fallibilities: Bladerunner's punishment for killing Reeva Steenkamp is but a frippery when set against the burden that her bereft parents, June and Barry, must carry &#91;print version: No room for sentimentality in this tragedy, 13 September 2014, p.&nbsp;S22&#93;*):** *"Yes, there were instances of grandstanding and obsessive behaviour, but many were concealed at the time to help protect an aggressively peddled narrative of [[w:Oscar Pistorius|[Oscar] Pistorius]] the paragon, the emblem, the trailblazer."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # cresol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of three poisonous colorless isomeric phenols; derived from coal or wood tar; used as a disinfectant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of three poisonous colorless isomeric phenols; derived from coal or wood tar; used as a disinfectant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cresol designates any of three poisonous colorless isomeric phenols; derived from coal or wood tar; used as a disinfectant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of three poisonous colorless isomeric phenols; derived from coal or wood tar; used as a disinfectant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of three poisonous colorless isomeric phenols; derived from coal or wood tar; used as a disinfectant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cresol designates any of three poisonous colorless isomeric phenols; derived from coal or wood tar; used as a disinfectant."*

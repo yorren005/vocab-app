@@ -5,13 +5,6 @@ status: unread
 ---
 # coelogyne
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various orchids of the genus coelogyne with: clusters of fragrant lacy snow-white flowers; salmon-pink solitary flowers; chainlike racemes of topaz and chocolate brown flowers; spikes of delicate white spice-scented flowers; emerald green flowers marked with blue-black.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various orchids of the genus coelogyne with: clusters of fragrant lacy snow-white flowers; salmon-pink solitary flowers; chainlike racemes of topaz and chocolate brown flowers; spikes of delicate white spice-scented flowers; emerald green flowers marked with blue-black.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coelogyne designates any of various orchids of the genus coelogyne with: clusters of fragrant lacy snow-white flowers; salmon-pink solitary flowers; chainlike racemes of topaz and chocolate brown flowers; spikes of delicate white spice-scented flowers; emerald green flowers marked with blue-black."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various orchids of the genus coelogyne with: clusters of fragrant lacy snow-white flowers; salmon-pink solitary flowers; chainlike racemes of topaz and chocolate brown flowers; spikes of delicate white spice-scented flowers; emerald green flowers marked with blue-black.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various orchids of the genus coelogyne with: clusters of fragrant lacy snow-white flowers; salmon-pink solitary flowers; chainlike racemes of topaz and chocolate brown flowers; spikes of delicate white spice-scented flowers; emerald green flowers marked with blue-black.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coelogyne designates any of various orchids of the genus coelogyne with: clusters of fragrant lacy snow-white flowers; salmon-pink solitary flowers; chainlike racemes of topaz and chocolate brown flowers; spikes of delicate white spice-scented flowers; emerald green flowers marked with blue-black."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # opal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A translucent mineral consisting of hydrated silica of variable color; some varieties are used as gemstones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A translucent mineral consisting of hydrated silica of variable color; some varieties are used as gemstones.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now the melancholy god protect thee, and the tailor make thy doublet of changeable taffeta, for thy mind is a very opal."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She lay on her back with tumbled clouds all round her: mother & pearl clouds, quilted, and tinged with a sheen of opal."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They are formed alone in the tissue of the mollusc, are white, often opaque, and sometimes have the transparency of an opal; they are generally round or oval."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A translucent mineral consisting of hydrated silica of variable color; some varieties are used as gemstones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A translucent mineral consisting of hydrated silica of variable color; some varieties are used as gemstones.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now the melancholy god protect thee, and the tailor make thy doublet of changeable taffeta, for thy mind is a very opal."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"She lay on her back with tumbled clouds all round her: mother & pearl clouds, quilted, and tinged with a sheen of opal."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They are formed alone in the tissue of the mollusc, are white, often opaque, and sometimes have the transparency of an opal; they are generally round or oval."*

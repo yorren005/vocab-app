@@ -5,15 +5,6 @@ status: unread
 ---
 # discoverer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is the first to think of or make something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is the first to observe something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Does it seem incongruous to you that a Middlemarch surgeon should dream of himself as a discoverer?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"The man was still in the making, as much as the Middlemarch doctor and immortal discoverer, and there were both virtues and faults capable of shrinking or expanding."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Besides, this idea of Jonah’s weathering the Cape of Good Hope at so early a day would wrest the honor of the discovery of that great headland from Bartholomew Diaz, its reputed discoverer, and so make modern history a liar."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is the first to think of or make something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is the first to observe something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Does it seem incongruous to you that a Middlemarch surgeon should dream of himself as a discoverer?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"The man was still in the making, as much as the Middlemarch doctor and immortal discoverer, and there were both virtues and faults capable of shrinking or expanding."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Besides, this idea of Jonah’s weathering the Cape of Good Hope at so early a day would wrest the honor of the discovery of that great headland from Bartholomew Diaz, its reputed discoverer, and so make modern history a liar."*

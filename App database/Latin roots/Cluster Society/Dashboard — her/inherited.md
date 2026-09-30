@@ -5,15 +5,6 @@ status: unread
 ---
 # inherited
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtain from someone after their death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receive from a predecessor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Treason is not inherited, my lord, Or, if we did derive it from our friends, What’s that to me?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have lived To see inherited my very wishes And the buildings of my fancy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Crimes, like lands, Are not inherited."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtain from someone after their death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receive from a predecessor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Treason is not inherited, my lord, Or, if we did derive it from our friends, What’s that to me?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have lived To see inherited my very wishes And the buildings of my fancy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Crimes, like lands, Are not inherited."*

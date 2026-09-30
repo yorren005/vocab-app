@@ -5,15 +5,6 @@ status: unread
 ---
 # dedicate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give entirely to a specific person, activity, or cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open to public use, as of a highway, park, or building.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I dedicate myself to your sweet pleasure, More noble than that runagate to your bed, And will continue fast to your affection, Still close as sure."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thus unknown, Pitied nor hated, to the face of peril Myself I’ll dedicate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We have willing dames enough; there cannot be That vulture in you, to devour so many As will to greatness dedicate themselves, Finding it so inclin’d."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give entirely to a specific person, activity, or cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open to public use, as of a highway, park, or building.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I dedicate myself to your sweet pleasure, More noble than that runagate to your bed, And will continue fast to your affection, Still close as sure."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And thus unknown, Pitied nor hated, to the face of peril Myself I’ll dedicate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We have willing dames enough; there cannot be That vulture in you, to devour so many As will to greatness dedicate themselves, Finding it so inclin’d."*

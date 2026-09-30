@@ -5,13 +5,6 @@ status: unread
 ---
 # canonically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a canonical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a canonical manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Behind this lightsome couple, so close to the Maypole that its boughs shaded his jovial face, stood the figure of an English priest, canonically dressed, yet decked with flowers, in heathen fashion, and wearing a chaplet of the native vine leaves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a canonical manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a canonical manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Behind this lightsome couple, so close to the Maypole that its boughs shaded his jovial face, stood the figure of an English priest, canonically dressed, yet decked with flowers, in heathen fashion, and wearing a chaplet of the native vine leaves."*

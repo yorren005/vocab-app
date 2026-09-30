@@ -5,15 +5,6 @@ status: unread
 ---
 # devil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The personal supreme spirit of evil often represented in Christian belief as the tempter of humankind, the leader of all apostate angels, and the ruler of hell —usually used with the—often used as an interjection, an intensive, or a generalized term of abuse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An evil spirit : demon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To win me soon to hell my female evil Tempteth my better angel from my side, And would corrupt my saint to be a devil, Wooing his purity with her foul pride."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My poor body, madam, requires it; I am driven on by the flesh, and he must needs go that the devil drives."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be more expressive to them; for they wear themselves in the cap of the time; there do muster true gait; eat, speak, and move, under the influence of the most receiv’d star; and though the devil lead the measure, such are to be followed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The personal supreme spirit of evil often represented in Christian belief as the tempter of humankind, the leader of all apostate angels, and the ruler of hell —usually used with the—often used as an interjection, an intensive, or a generalized term of abuse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An evil spirit : demon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To win me soon to hell my female evil Tempteth my better angel from my side, And would corrupt my saint to be a devil, Wooing his purity with her foul pride."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My poor body, madam, requires it; I am driven on by the flesh, and he must needs go that the devil drives."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be more expressive to them; for they wear themselves in the cap of the time; there do muster true gait; eat, speak, and move, under the influence of the most receiv’d star; and though the devil lead the measure, such are to be followed."*

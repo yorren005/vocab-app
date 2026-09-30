@@ -5,15 +5,6 @@ status: unread
 ---
 # decision
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making up your mind about something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A position or opinion or judgment reached after consideration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So that, from point to point, now have you heard The fundamental reasons of this war, Whose great decision hath much blood let forth, And more thirsts after."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The time approaches, That will with due decision make us know What we shall say we have, and what we owe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reasons you allege do more conduce To the hot passion of distemp’red blood Than to make up a free determination ’Twixt right and wrong; for pleasure and revenge Have ears more deaf than adders to the voice Of any true decision."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making up your mind about something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A position or opinion or judgment reached after consideration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So that, from point to point, now have you heard The fundamental reasons of this war, Whose great decision hath much blood let forth, And more thirsts after."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The time approaches, That will with due decision make us know What we shall say we have, and what we owe."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reasons you allege do more conduce To the hot passion of distemp’red blood Than to make up a free determination ’Twixt right and wrong; for pleasure and revenge Have ears more deaf than adders to the voice Of any true decision."*

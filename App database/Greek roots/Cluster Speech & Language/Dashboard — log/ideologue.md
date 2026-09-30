@@ -5,13 +5,6 @@ status: unread
 ---
 # ideologue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An often blindly partisan advocate or adherent of a particular ideology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An impractical idealist : theorist.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ideologue designates an often blindly partisan advocate or adherent of a particular ideology."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An often blindly partisan advocate or adherent of a particular ideology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An impractical idealist : theorist.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ideologue designates an often blindly partisan advocate or adherent of a particular ideology."*

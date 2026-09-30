@@ -5,13 +5,6 @@ status: unread
 ---
 # disceptation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A contentious speech act; a dispute where there is strong disagreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contentious speech act; a dispute where there is strong disagreement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disceptation designates a contentious speech act; a dispute where there is strong disagreement."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A contentious speech act; a dispute where there is strong disagreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contentious speech act; a dispute where there is strong disagreement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disceptation designates a contentious speech act; a dispute where there is strong disagreement."*

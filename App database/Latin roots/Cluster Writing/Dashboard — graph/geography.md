@@ -5,15 +5,6 @@ status: unread
 ---
 # geography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Study of the earth's surface; includes people's responses to topography and climate and soil and vegetation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Study of the earth's surface; includes people's responses to topography and climate and soil and vegetation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She can talk French, I suppose, and do geography, and globes, and needlework, and everything?” “No doubt,” said I."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"However, the Multiplication Table doesn’t signify: let’s try Geography."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He was a little man with rosy cheeks, and was a sound scholar and an admirable teacher, whose special "fad" was Classical Geography."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Study of the earth's surface; includes people's responses to topography and climate and soil and vegetation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Study of the earth's surface; includes people's responses to topography and climate and soil and vegetation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"She can talk French, I suppose, and do geography, and globes, and needlework, and everything?” “No doubt,” said I."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"However, the Multiplication Table doesn’t signify: let’s try Geography."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"He was a little man with rosy cheeks, and was a sound scholar and an admirable teacher, whose special "fad" was Classical Geography."*

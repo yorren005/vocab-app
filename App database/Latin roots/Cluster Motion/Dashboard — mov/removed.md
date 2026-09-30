@@ -5,15 +5,6 @@ status: unread
 ---
 # removed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove something concrete, as by lifting, pushing, or taking off, or remove something abstract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove from a position or an office.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How many a holy and obsequious tear Hath dear religious love stol’n from mine eye, As interest of the dead, which now appear, But things removed that hidden in thee lie."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When your lordship sees the bottom of his success in’t, and to what metal this counterfeit lump of ore will be melted, if you give him not John Drum’s entertainment, your inclining cannot be removed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Lord, Lord, it is a hard matter for friends to meet; but mountains may be removed with earthquakes and so encounter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove something concrete, as by lifting, pushing, or taking off, or remove something abstract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove from a position or an office.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How many a holy and obsequious tear Hath dear religious love stol’n from mine eye, As interest of the dead, which now appear, But things removed that hidden in thee lie."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When your lordship sees the bottom of his success in’t, and to what metal this counterfeit lump of ore will be melted, if you give him not John Drum’s entertainment, your inclining cannot be removed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Lord, Lord, it is a hard matter for friends to meet; but mountains may be removed with earthquakes and so encounter."*

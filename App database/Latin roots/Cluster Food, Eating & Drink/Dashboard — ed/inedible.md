@@ -5,13 +5,6 @@ status: unread
 ---
 # inedible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suitable for food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not suitable for food.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The fruit, which is inedible, resembles a banana, and is clearly chosen for this purpose on account of its shape."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suitable for food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not suitable for food.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The fruit, which is inedible, resembles a banana, and is clearly chosen for this purpose on account of its shape."*

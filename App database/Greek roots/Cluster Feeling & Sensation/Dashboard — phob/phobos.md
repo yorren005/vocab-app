@@ -5,15 +5,6 @@ status: unread
 ---
 # phobos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phob.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"They take off and head for a landing strip on the slope of a mountain on Phobos, one of Planet Mars' moons."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"They land their spaceships on Phobos and explore the mountaintop."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The rainwater on Phobos is white."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phob.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"They take off and head for a landing strip on the slope of a mountain on Phobos, one of Planet Mars' moons."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"They land their spaceships on Phobos and explore the mountaintop."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The rainwater on Phobos is white."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # impolitic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not politic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not politic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It might be highly impolitic in Mr."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Sometimes vague accounts of such thing’s reach our firesides, and we coolly censure them as wrong, impolitic, needlessly severe, and dangerous to the crews of other vessels."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It seems to me it would have been as impolitic as it is wrong."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not politic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not politic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It might be highly impolitic in Mr."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Sometimes vague accounts of such thing’s reach our firesides, and we coolly censure them as wrong, impolitic, needlessly severe, and dangerous to the crews of other vessels."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It seems to me it would have been as impolitic as it is wrong."*

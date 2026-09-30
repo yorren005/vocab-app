@@ -5,15 +5,6 @@ status: unread
 ---
 # virtual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being actually such in almost every respect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing in essence or effect though not in actual fact.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The frequent use of the adjectives partial, limited, and virtual are implied but usually superfluous recognitions of the relative character of monopoly. § 2. #Political sources of monopoly.# Monopoly gets its power from various sources."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He slept upon that idea, but when he was dressing in the rational morning light, Objection said— “That will be a virtual defiance of Mr."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The result, except in the case of insanity, must for the most part be arbitrary; and insanity, without any formal or express provision, may be safely pronounced to be a virtual disqualification."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being actually such in almost every respect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing in essence or effect though not in actual fact.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The frequent use of the adjectives partial, limited, and virtual are implied but usually superfluous recognitions of the relative character of monopoly. § 2. #Political sources of monopoly.# Monopoly gets its power from various sources."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He slept upon that idea, but when he was dressing in the rational morning light, Objection said— “That will be a virtual defiance of Mr."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The result, except in the case of insanity, must for the most part be arbitrary; and insanity, without any formal or express provision, may be safely pronounced to be a virtual disqualification."*

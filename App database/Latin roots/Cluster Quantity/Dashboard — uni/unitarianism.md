@@ -5,13 +5,6 @@ status: unread
 ---
 # unitarianism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Christian doctrine that stresses individual freedom of belief and rejects the trinity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Christian doctrine that stresses individual freedom of belief and rejects the trinity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unitarianism designates christian doctrine that stresses individual freedom of belief and rejects the trinity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Christian doctrine that stresses individual freedom of belief and rejects the trinity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Christian doctrine that stresses individual freedom of belief and rejects the trinity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unitarianism designates christian doctrine that stresses individual freedom of belief and rejects the trinity."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # seriocomic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mixing the serious with the comic with comic predominating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mixing the serious with the comic with comic predominating.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"MRS BREEN: You were the lion of the night with your seriocomic recitation and you looked the part."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mixing the serious with the comic with comic predominating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mixing the serious with the comic with comic predominating.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"MRS BREEN: You were the lion of the night with your seriocomic recitation and you looked the part."*

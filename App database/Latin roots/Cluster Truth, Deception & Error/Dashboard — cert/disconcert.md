@@ -5,15 +5,6 @@ status: unread
 ---
 # disconcert
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to feel embarrassment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to lose one's composure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How could she face her parents, get back her box, and disconcert the whole scheme for the rehabilitation of her family on such sentimental grounds?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The absence of citizens and of a deputation, and even the burning of Moscow, did not disconcert him."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Why not?” I put my question quickly and somewhat sternly, on purpose to disconcert him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to feel embarrassment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to lose one's composure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How could she face her parents, get back her box, and disconcert the whole scheme for the rehabilitation of her family on such sentimental grounds?"*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The absence of citizens and of a deputation, and even the burning of Moscow, did not disconcert him."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Why not?” I put my question quickly and somewhat sternly, on purpose to disconcert him."*

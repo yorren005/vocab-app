@@ -5,13 +5,6 @@ status: unread
 ---
 # rubeola
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute and highly contagious viral disease marked by distinct red spots followed by a rash; occurs primarily in children.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute and highly contagious viral disease marked by distinct red spots followed by a rash; occurs primarily in children.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubeola designates an acute and highly contagious viral disease marked by distinct red spots followed by a rash; occurs primarily in children."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute and highly contagious viral disease marked by distinct red spots followed by a rash; occurs primarily in children.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute and highly contagious viral disease marked by distinct red spots followed by a rash; occurs primarily in children.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubeola designates an acute and highly contagious viral disease marked by distinct red spots followed by a rash; occurs primarily in children."*

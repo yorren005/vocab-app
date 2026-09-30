@@ -5,15 +5,6 @@ status: unread
 ---
 # natal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of eastern south africa on the indian ocean.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city in northeastern brazil.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Canon Henry Callaway, _Nursery Tales, Traditions, and Histories of the Zulus_ (Natal and London, 1868), p. 182, note 20."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Your pity, my darling, is the suffering mother of love: its anguish is the very natal pang of the divine passion."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Of these am I—Coila my name: And this district as mine I claim, Where once the Campbells, chiefs of fame, Held ruling power: I mark’d thy embryo-tuneful flame, Thy natal hour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of eastern south africa on the indian ocean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city in northeastern brazil.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Canon Henry Callaway, _Nursery Tales, Traditions, and Histories of the Zulus_ (Natal and London, 1868), p. 182, note 20."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Your pity, my darling, is the suffering mother of love: its anguish is the very natal pang of the divine passion."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Of these am I—Coila my name: And this district as mine I claim, Where once the Campbells, chiefs of fame, Held ruling power: I mark’d thy embryo-tuneful flame, Thy natal hour."*

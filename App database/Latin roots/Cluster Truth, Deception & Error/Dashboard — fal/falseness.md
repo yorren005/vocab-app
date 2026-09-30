@@ -5,15 +5,6 @@ status: unread
 ---
 # falseness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being false or untrue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unfaithfulness by virtue of being unreliable or treacherous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I suffered day and night, and nothing relieved me until Science proved to me the falseness of this belief by removing it."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But to stigmatise these premises as ridiculous because we can easily detect their falseness, would be ungrateful as well as unphilosophical."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"She said yes to his question, and then despised herself for the falseness of her answer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being false or untrue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unfaithfulness by virtue of being unreliable or treacherous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I suffered day and night, and nothing relieved me until Science proved to me the falseness of this belief by removing it."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But to stigmatise these premises as ridiculous because we can easily detect their falseness, would be ungrateful as well as unphilosophical."*
+> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"She said yes to his question, and then despised herself for the falseness of her answer."*

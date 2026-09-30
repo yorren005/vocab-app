@@ -5,13 +5,6 @@ status: unread
 ---
 # arthritic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected with arthritis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seemingly affected with or caused by arthritis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthritic designates of, relating to, or affected with arthritis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected with arthritis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seemingly affected with or caused by arthritis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthritic designates of, relating to, or affected with arthritis."*

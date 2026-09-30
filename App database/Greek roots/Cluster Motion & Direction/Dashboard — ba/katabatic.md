@@ -5,13 +5,6 @@ status: unread
 ---
 # katabatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or being a wind produced by the flow of cold dense air down a slope (as of a mountain or glacier) in an area subject to radiational cooling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being a wind produced by the flow of cold dense air down a slope (as of a mountain or glacier) in an area subject to radiational cooling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, katabatic designates relating to or being a wind produced by the flow of cold dense air down a slope (as of a mountain or glacier) in an area subject to radiational cooling."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or being a wind produced by the flow of cold dense air down a slope (as of a mountain or glacier) in an area subject to radiational cooling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being a wind produced by the flow of cold dense air down a slope (as of a mountain or glacier) in an area subject to radiational cooling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, katabatic designates relating to or being a wind produced by the flow of cold dense air down a slope (as of a mountain or glacier) in an area subject to radiational cooling."*

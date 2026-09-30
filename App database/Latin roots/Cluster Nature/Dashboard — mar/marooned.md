@@ -5,15 +5,6 @@ status: unread
 ---
 # marooned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leave stranded or isolated with little hope of rescue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leave stranded on a desert island without resources.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Marooners’ Rock stood alone in the forbidding waters as if it were itself marooned."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Am I listening to the chatter of these mild people, me that's heard grand stories in the forecastle of how this man was marooned in the Bahamas, and that man was married to a Maori queen, by God?"*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"I don't want to get her marooned in Chicago." * * * * * The explosions were cut off, the wings extended, and Sherman spiralled carefully downward to the spot where they had seen the moving object."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Leave stranded or isolated with little hope of rescue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leave stranded on a desert island without resources.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"Marooners’ Rock stood alone in the forbidding waters as if it were itself marooned."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Am I listening to the chatter of these mild people, me that's heard grand stories in the forecastle of how this man was marooned in the Bahamas, and that man was married to a Maori queen, by God?"*
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"I don't want to get her marooned in Chicago." * * * * * The explosions were cut off, the wings extended, and Sherman spiralled carefully downward to the spot where they had seen the moving object."*

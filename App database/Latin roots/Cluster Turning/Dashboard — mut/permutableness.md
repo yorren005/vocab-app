@@ -5,13 +5,6 @@ status: unread
 ---
 # permutableness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ability to change sequence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ability to change sequence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, permutableness designates ability to change sequence."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ability to change sequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ability to change sequence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, permutableness designates ability to change sequence."*

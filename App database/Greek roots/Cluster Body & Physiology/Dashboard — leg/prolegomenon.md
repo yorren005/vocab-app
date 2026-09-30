@@ -5,13 +5,6 @@ status: unread
 ---
 # prolegomenon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prefatory remarks; specifically : a formal essay or critical discussion serving to introduce and interpret an extended work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prefatory remarks; specifically : a formal essay or critical discussion serving to introduce and interpret an extended work.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prolegomenon designates prefatory remarks; specifically : a formal essay or critical discussion serving to introduce and interpret an extended work."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prefatory remarks; specifically : a formal essay or critical discussion serving to introduce and interpret an extended work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prefatory remarks; specifically : a formal essay or critical discussion serving to introduce and interpret an extended work.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prolegomenon designates prefatory remarks; specifically : a formal essay or critical discussion serving to introduce and interpret an extended work."*

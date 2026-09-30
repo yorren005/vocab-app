@@ -5,15 +5,6 @@ status: unread
 ---
 # fiduciary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who holds assets in trust for a beneficiary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or of the nature of a legal trust (i.e. the holding of something in trust for another).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Fiduciary money, metal and paper 6."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There are, however, numerous countries, notably in South America and Central America, which have fiduciary paper-money standards.[2] § 6.# Varying extent of the use of money#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If the standard money alone were doubled in quantity, while the various forms of fiduciary money (smaller coins, bank notes, government notes) remained unchanged, the quantity of money as a whole would not be doubled."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who holds assets in trust for a beneficiary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or of the nature of a legal trust (i.e. the holding of something in trust for another).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Fiduciary money, metal and paper 6."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There are, however, numerous countries, notably in South America and Central America, which have fiduciary paper-money standards.[2] § 6.# Varying extent of the use of money#."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If the standard money alone were doubled in quantity, while the various forms of fiduciary money (smaller coins, bank notes, government notes) remained unchanged, the quantity of money as a whole would not be doubled."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # repot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put in a new, usually larger, pot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put in a new, usually larger, pot.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repot designates put in a new, usually larger, pot."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put in a new, usually larger, pot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put in a new, usually larger, pot.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repot designates put in a new, usually larger, pot."*

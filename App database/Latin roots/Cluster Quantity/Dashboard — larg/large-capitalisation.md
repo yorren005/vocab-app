@@ -5,13 +5,6 @@ status: unread
 ---
 # large-capitalisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of stocks of companies with a market capitalization of five billion dollars or more.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of stocks of companies with a market capitalization of five billion dollars or more.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, large-capitalisation designates of stocks of companies with a market capitalization of five billion dollars or more."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of stocks of companies with a market capitalization of five billion dollars or more.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of stocks of companies with a market capitalization of five billion dollars or more.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, large-capitalisation designates of stocks of companies with a market capitalization of five billion dollars or more."*

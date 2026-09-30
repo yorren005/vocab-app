@@ -5,13 +5,6 @@ status: unread
 ---
 # spiritualty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Property or income owned by a church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Property or income owned by a church.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, let their bodies follow, my dear liege, With blood and sword and fire to win your right; In aid whereof we of the spiritualty Will raise your Highness such a mighty sum As never did the clergy at one time Bring in to any of your ancestors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Property or income owned by a church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Property or income owned by a church.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, let their bodies follow, my dear liege, With blood and sword and fire to win your right; In aid whereof we of the spiritualty Will raise your Highness such a mighty sum As never did the clergy at one time Bring in to any of your ancestors."*

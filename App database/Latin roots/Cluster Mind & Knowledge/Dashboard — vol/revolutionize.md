@@ -5,15 +5,6 @@ status: unread
 ---
 # revolutionize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change radically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overthrow by a revolution, of governments.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"On that occasion, Cook’s Court was in a manner revolutionized by the new inscription in fresh paint, PEFFER AND SNAGSBY, displacing the time-honoured and not easily to be deciphered legend PEFFER only."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I have been in Glendale a whole month now, and I can't see that my influence has revolutionized the town as yet."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Millennial glory If all who ever partook of the sacrament had really commemorated the sufferings of Jesus and drunk of 34:12 his cup, they would have revolutionized the world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Change radically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overthrow by a revolution, of governments.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"On that occasion, Cook’s Court was in a manner revolutionized by the new inscription in fresh paint, PEFFER AND SNAGSBY, displacing the time-honoured and not easily to be deciphered legend PEFFER only."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I have been in Glendale a whole month now, and I can't see that my influence has revolutionized the town as yet."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Millennial glory If all who ever partook of the sacrament had really commemorated the sufferings of Jesus and drunk of 34:12 his cup, they would have revolutionized the world."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # expand
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extend in one or more directions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become larger in size or volume or quantity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"For these reasons I thought it best to be as useful as I could, and to render what kind services I could to those immediately about me, and to try to let that circle of duty gradually and naturally expand itself."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I expand, I open, I turn my silver lining outward like Milton’s cloud, and it’s more agreeable to both of us.’ That’s my view of such things, speaking as a child!” “But suppose you went down somewhere else to-morrow,” said Mr."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was only a mind, a soul, a consciousness—call it what you will—incorporate in a nebulous brain that, while it still centred inside my skull, was expanded, and was continuing to expand, beyond my skull."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extend in one or more directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become larger in size or volume or quantity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"For these reasons I thought it best to be as useful as I could, and to render what kind services I could to those immediately about me, and to try to let that circle of duty gradually and naturally expand itself."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I expand, I open, I turn my silver lining outward like Milton’s cloud, and it’s more agreeable to both of us.’ That’s my view of such things, speaking as a child!” “But suppose you went down somewhere else to-morrow,” said Mr."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was only a mind, a soul, a consciousness—call it what you will—incorporate in a nebulous brain that, while it still centred inside my skull, was expanded, and was continuing to expand, beyond my skull."*

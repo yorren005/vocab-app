@@ -5,15 +5,6 @@ status: unread
 ---
 # illusory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or having the nature of an illusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or having the nature of an illusion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Moreover, their interest is stimulated by the fact that they are the first to gain by any temporary economies, and the more so because of the illusory belief sure to persist, that they are the ultimate as well as the immediate bearers of the costs."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This and similar notions soon, however, proved illusory."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She had only time to feel that all this was hazy and perhaps illusory; but one thing was clear and determined—her answer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or having the nature of an illusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or having the nature of an illusion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Moreover, their interest is stimulated by the fact that they are the first to gain by any temporary economies, and the more so because of the illusory belief sure to persist, that they are the ultimate as well as the immediate bearers of the costs."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This and similar notions soon, however, proved illusory."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She had only time to feel that all this was hazy and perhaps illusory; but one thing was clear and determined—her answer."*

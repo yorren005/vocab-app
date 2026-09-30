@@ -5,13 +5,6 @@ status: unread
 ---
 # solarium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A room enclosed largely with glass and affording exposure to the sun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room enclosed largely with glass and affording exposure to the sun.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solarium designates a room enclosed largely with glass and affording exposure to the sun."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room enclosed largely with glass and affording exposure to the sun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room enclosed largely with glass and affording exposure to the sun.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solarium designates a room enclosed largely with glass and affording exposure to the sun."*

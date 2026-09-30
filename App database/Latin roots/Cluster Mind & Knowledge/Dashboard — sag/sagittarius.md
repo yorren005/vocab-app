@@ -5,15 +5,6 @@ status: unread
 ---
 # sagittarius
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astrology) a person who is born while the sun is in sagittarius.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large zodiacal constellation in the southern hemisphere; between scorpius and capricornus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And by Jove, he’s found something there in the vicinity of his thigh—I guess it’s Sagittarius, or the Archer."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"And by Jove, he’s found something there in the vicinity of his thigh—I guess it’s Sagittarius, or the Archer."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When the sun is in Sagittarius and the moon is on the wane, on the first, third, or fourth day before the new moon, one ought to shoot down with an arrow the mistletoe of an oak and to catch it with the left hand as it falls."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (astrology) a person who is born while the sun is in sagittarius.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large zodiacal constellation in the southern hemisphere; between scorpius and capricornus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And by Jove, he’s found something there in the vicinity of his thigh—I guess it’s Sagittarius, or the Archer."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"And by Jove, he’s found something there in the vicinity of his thigh—I guess it’s Sagittarius, or the Archer."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When the sun is in Sagittarius and the moon is on the wane, on the first, third, or fourth day before the new moon, one ought to shoot down with an arrow the mistletoe of an oak and to catch it with the left hand as it falls."*

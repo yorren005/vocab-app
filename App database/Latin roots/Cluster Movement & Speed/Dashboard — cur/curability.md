@@ -5,13 +5,6 @@ status: unread
 ---
 # curability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capability of being cured or healed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capability of being cured or healed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curability designates capability of being cured or healed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capability of being cured or healed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capability of being cured or healed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, curability designates capability of being cured or healed."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # sinner
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who sins (without repenting).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who sins (without repenting).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s that which is too weak to be a sinner, Honest water, which ne’er left man i’ the mire."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, I will be so much a sinner to be a double-dealer: there’s another."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Because a plain blunt man, who has never been taught concealment, speaks out his mind without exactly intending it, he’s to be snapped off like the son of a sinner.” “Indeed there’s no such case between us,” she said, turning away."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who sins (without repenting).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who sins (without repenting).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s that which is too weak to be a sinner, Honest water, which ne’er left man i’ the mire."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, I will be so much a sinner to be a double-dealer: there’s another."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Because a plain blunt man, who has never been taught concealment, speaks out his mind without exactly intending it, he’s to be snapped off like the son of a sinner.” “Indeed there’s no such case between us,” she said, turning away."*

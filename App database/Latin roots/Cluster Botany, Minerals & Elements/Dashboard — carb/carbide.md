@@ -5,15 +5,6 @@ status: unread
 ---
 # carbide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A binary compound of carbon with a more electropositive element.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A binary compound of carbon with a more electropositive element.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Another is that certain volcanic rocks which are known to contain carbide of iron might, under the influence of steam, have in bygone ages given off petroleum, or paraffin, to use the other name for the same thing."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The gas, which is another of the combinations of carbon and hydrogen (its molecules containing two atoms of each), is easily made by allowing water to come into contact with calcium carbide."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"So a lump of calcium carbide, with which many readers are familiar, has vast stores of heat locked up within it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A binary compound of carbon with a more electropositive element.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A binary compound of carbon with a more electropositive element.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Another is that certain volcanic rocks which are known to contain carbide of iron might, under the influence of steam, have in bygone ages given off petroleum, or paraffin, to use the other name for the same thing."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The gas, which is another of the combinations of carbon and hydrogen (its molecules containing two atoms of each), is easily made by allowing water to come into contact with calcium carbide."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"So a lump of calcium carbide, with which many readers are familiar, has vast stores of heat locked up within it."*

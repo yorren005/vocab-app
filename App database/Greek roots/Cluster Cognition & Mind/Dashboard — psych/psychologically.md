@@ -5,15 +5,6 @@ status: unread
 ---
 # psychologically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to psychology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In terms of psychology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But, as has been indicated in another connection above, it is far from being a matter of indifference, psychologically, where the first, immediate burden of premium payment falls."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You will be psychologically adjusted as you progress through this indoctrination."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Casting the elderly into physically remote and psychologically passive roles works against the interests of grandchildren and their parents, as well as their grandparents."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to psychology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In terms of psychology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But, as has been indicated in another connection above, it is far from being a matter of indifference, psychologically, where the first, immediate burden of premium payment falls."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You will be psychologically adjusted as you progress through this indoctrination."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Casting the elderly into physically remote and psychologically passive roles works against the interests of grandchildren and their parents, as well as their grandparents."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # florey
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: British pathologist who isolated and purified penicillin, which had been discovered in 1928 by sir alexander fleming (1898-1968).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: British pathologist who isolated and purified penicillin, which had been discovered in 1928 by sir alexander fleming (1898-1968).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, florey designates british pathologist who isolated and purified penicillin, which had been discovered in 1928 by sir alexander fleming (1898-1968)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: British pathologist who isolated and purified penicillin, which had been discovered in 1928 by sir alexander fleming (1898-1968).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: British pathologist who isolated and purified penicillin, which had been discovered in 1928 by sir alexander fleming (1898-1968).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, florey designates british pathologist who isolated and purified penicillin, which had been discovered in 1928 by sir alexander fleming (1898-1968)."*

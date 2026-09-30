@@ -5,15 +5,6 @@ status: unread
 ---
 # humble
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be unpretentious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to feel shame; hurt the pride of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But since your worth, wide as the ocean is, The humble as the proudest sail doth bear, My saucy bark (inferior far to his) On your broad main doth wilfully appear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that our night of woe might have remembered My deepest sense, how hard true sorrow hits, And soon to you, as you to me then tendered The humble salve, which wounded bosoms fits!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am from humble, he from honoured name; No note upon my parents, his all noble, My master, my dear lord he is; and I His servant live, and will his vassal die."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be unpretentious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to feel shame; hurt the pride of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But since your worth, wide as the ocean is, The humble as the proudest sail doth bear, My saucy bark (inferior far to his) On your broad main doth wilfully appear."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that our night of woe might have remembered My deepest sense, how hard true sorrow hits, And soon to you, as you to me then tendered The humble salve, which wounded bosoms fits!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am from humble, he from honoured name; No note upon my parents, his all noble, My master, my dear lord he is; and I His servant live, and will his vassal die."*

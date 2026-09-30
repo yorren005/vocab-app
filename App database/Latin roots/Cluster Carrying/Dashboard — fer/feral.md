@@ -5,13 +5,6 @@ status: unread
 ---
 # feral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wild and menacing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wild and menacing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, feral designates wild and menacing."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wild and menacing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wild and menacing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, feral designates wild and menacing."*

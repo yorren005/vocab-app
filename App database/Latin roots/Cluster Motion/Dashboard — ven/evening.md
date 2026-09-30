@@ -5,15 +5,6 @@ status: unread
 ---
 # evening
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The latter part of the day (the period of decreasing daylight from late afternoon until nightfall).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A later concluding time period.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll about it this evening; and I will presently pen down my dilemmas, encourage myself in my certainty, put myself into my mortal preparation; and by midnight look to hear further from me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet this my comfort; when your words are done, My woes end likewise with the evening sun."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be rul’d by me; depart in patience, And let us to the Tiger all to dinner, And about evening, come yourself alone To know the reason of this strange restraint."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The latter part of the day (the period of decreasing daylight from late afternoon until nightfall).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A later concluding time period.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll about it this evening; and I will presently pen down my dilemmas, encourage myself in my certainty, put myself into my mortal preparation; and by midnight look to hear further from me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet this my comfort; when your words are done, My woes end likewise with the evening sun."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be rul’d by me; depart in patience, And let us to the Tiger all to dinner, And about evening, come yourself alone To know the reason of this strange restraint."*

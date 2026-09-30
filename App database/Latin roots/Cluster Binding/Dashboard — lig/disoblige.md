@@ -5,15 +5,6 @@ status: unread
 ---
 # disoblige
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause inconvenience or discomfort to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ignore someone's wishes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"But Miss Frances married, in the common phrase, to disoblige her family, and by fixing on a lieutenant of marines, without education, fortune, or connexions, did it very thoroughly."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"The statesman tells you with a sneer, His fault is to be too sincere; And, having no sinister ends, Is apt to disoblige his friends."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Prickle happened to be at variance with the innkeeper, and the curate durst not disoblige the vicar, who at that very time was suing the farmer for the small tithes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause inconvenience or discomfort to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ignore someone's wishes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"But Miss Frances married, in the common phrase, to disoblige her family, and by fixing on a lieutenant of marines, without education, fortune, or connexions, did it very thoroughly."*
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"The statesman tells you with a sneer, His fault is to be too sincere; And, having no sinister ends, Is apt to disoblige his friends."*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Prickle happened to be at variance with the innkeeper, and the curate durst not disoblige the vicar, who at that very time was suing the farmer for the small tithes."*

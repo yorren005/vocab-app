@@ -5,15 +5,6 @@ status: unread
 ---
 # voluptuousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being attractive and exciting (especially sexually exciting).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being lush and abundant and a pleasure to the senses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he filled His vacancy with his voluptuousness, Full surfeits and the dryness of his bones Call on him for’t."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The images of Asiatic despotism and voluptuousness have scarcely been wanting to crown the exaggerated scene."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The varied dances of the Marquesan girls are beautiful in the extreme, but there is an abandoned voluptuousness in their character which I dare not attempt to describe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being attractive and exciting (especially sexually exciting).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being lush and abundant and a pleasure to the senses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he filled His vacancy with his voluptuousness, Full surfeits and the dryness of his bones Call on him for’t."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The images of Asiatic despotism and voluptuousness have scarcely been wanting to crown the exaggerated scene."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The varied dances of the Marquesan girls are beautiful in the extreme, but there is an abandoned voluptuousness in their character which I dare not attempt to describe."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # trope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Language used in a figurative or nonliteral sense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Language used in a figurative or nonliteral sense.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Pure religion enthroned Through trope and metaphor, the Revelator, immortal scribe of Spirit and of a true idealism, furnishes the 571:24 mirror in which mortals may see their own image."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The bitter check had wrung from me some tears; and now, as I sat poring over the crabbed characters and flourishing tropes of an Indian scribe, my eyes filled again."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Craigdarroch led a light-arm’d core, Tropes, metaphors, and figures pour, Like Hecla streaming thunder: Glenriddel, skill’d in rusty coins, Blew up each Tory’s dark designs, And bared the treason under."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Language used in a figurative or nonliteral sense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Language used in a figurative or nonliteral sense.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Pure religion enthroned Through trope and metaphor, the Revelator, immortal scribe of Spirit and of a true idealism, furnishes the 571:24 mirror in which mortals may see their own image."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The bitter check had wrung from me some tears; and now, as I sat poring over the crabbed characters and flourishing tropes of an Indian scribe, my eyes filled again."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Craigdarroch led a light-arm’d core, Tropes, metaphors, and figures pour, Like Hecla streaming thunder: Glenriddel, skill’d in rusty coins, Blew up each Tory’s dark designs, And bared the treason under."*

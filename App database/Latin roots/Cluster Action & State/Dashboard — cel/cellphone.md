@@ -5,13 +5,6 @@ status: unread
 ---
 # cellphone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cellphone designates a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cellphone designates a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver."*

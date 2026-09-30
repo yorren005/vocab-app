@@ -5,13 +5,6 @@ status: unread
 ---
 # underquote
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offer for sale at a price lower than the market price.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quote a price lower than that quoted by (another seller).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underquote designates offer for sale at a price lower than the market price."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Offer for sale at a price lower than the market price.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quote a price lower than that quoted by (another seller).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underquote designates offer for sale at a price lower than the market price."*

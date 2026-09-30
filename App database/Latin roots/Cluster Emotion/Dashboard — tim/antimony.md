@@ -5,15 +5,6 @@ status: unread
 ---
 # antimony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metallic element having four allotropic forms; used in a wide variety of alloys; found in stibnite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metallic element having four allotropic forms; used in a wide variety of alloys; found in stibnite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Crucibles, alembics, and retorts were confusedly piled in various corners, and on a small table I saw distributed in separate bottles a number of mineral and metallic substances, which I recognized as antimony, mercury, plumbago, arsenic, borax, etc."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Here I have a metal called antimony, which is easily acted upon by chlorine."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"I will place this lump of antimony in a jar of chlorine, and so far as you can see very little action takes place between the metal and the chlorine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metallic element having four allotropic forms; used in a wide variety of alloys; found in stibnite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metallic element having four allotropic forms; used in a wide variety of alloys; found in stibnite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Crucibles, alembics, and retorts were confusedly piled in various corners, and on a small table I saw distributed in separate bottles a number of mineral and metallic substances, which I recognized as antimony, mercury, plumbago, arsenic, borax, etc."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Here I have a metal called antimony, which is easily acted upon by chlorine."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"I will place this lump of antimony in a jar of chlorine, and so far as you can see very little action takes place between the metal and the chlorine."*

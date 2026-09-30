@@ -5,15 +5,6 @@ status: unread
 ---
 # impressionable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily impressed or influenced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily impressed or influenced.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The impressionable peasant leads a larger, fuller, more dramatic life than the pachydermatous king."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"That she had done a grievous thing in taking an impressionable child to mould into the form that her wild resentment, spurned affection, and wounded pride found vengeance in, I knew full well."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"At his tenderest and most impressionable age, the boy was thus made sadly aware of the fleetingness of human life and the pains of bereavement."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily impressed or influenced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily impressed or influenced.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The impressionable peasant leads a larger, fuller, more dramatic life than the pachydermatous king."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"That she had done a grievous thing in taking an impressionable child to mould into the form that her wild resentment, spurned affection, and wounded pride found vengeance in, I knew full well."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"At his tenderest and most impressionable age, the boy was thus made sadly aware of the fleetingness of human life and the pains of bereavement."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # thermoplastic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A material that softens when heated and hardens again when cooled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the property of softening or fusing when heated and of hardening and becoming rigid again when cooled.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoplastic designates a material that softens when heated and hardens again when cooled."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A material that softens when heated and hardens again when cooled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the property of softening or fusing when heated and of hardening and becoming rigid again when cooled.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermoplastic designates a material that softens when heated and hardens again when cooled."*

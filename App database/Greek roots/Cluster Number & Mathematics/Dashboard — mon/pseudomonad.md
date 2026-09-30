@@ -5,13 +5,6 @@ status: unread
 ---
 # pseudomonad
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bacteria usually producing greenish fluorescent water-soluble pigment; some pathogenic for plants and animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bacteria usually producing greenish fluorescent water-soluble pigment; some pathogenic for plants and animals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudomonad designates bacteria usually producing greenish fluorescent water-soluble pigment; some pathogenic for plants and animals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bacteria usually producing greenish fluorescent water-soluble pigment; some pathogenic for plants and animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bacteria usually producing greenish fluorescent water-soluble pigment; some pathogenic for plants and animals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudomonad designates bacteria usually producing greenish fluorescent water-soluble pigment; some pathogenic for plants and animals."*

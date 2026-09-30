@@ -5,15 +5,6 @@ status: unread
 ---
 # exclusion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being excluded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being excommunicated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"The exclusion of all idea of cause--that is, the thing must not need explanation by Anything outside itself."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Beadle goes into various shops and parlours, examining the inhabitants, always shutting the door first, and by exclusion, delay, and general idiotcy exasperating the public."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He sees her, almost to the exclusion of himself, and cannot bear to look upon her cast down from the high place she has graced so well."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being excluded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being excommunicated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"The exclusion of all idea of cause--that is, the thing must not need explanation by Anything outside itself."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Beadle goes into various shops and parlours, examining the inhabitants, always shutting the door first, and by exclusion, delay, and general idiotcy exasperating the public."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He sees her, almost to the exclusion of himself, and cannot bear to look upon her cast down from the high place she has graced so well."*

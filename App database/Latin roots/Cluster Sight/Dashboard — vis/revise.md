@@ -5,15 +5,6 @@ status: unread
 ---
 # revise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rewriting something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make revisions in.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon was not used to expect that he should have to repeat or revise his communications of a practical or personal kind."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And, among the worthy people who have so kindly received us, I revise my record of these adventures once more."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Before committing himself to speech he made a determined effort to revise his facial expression."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rewriting something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make revisions in.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon was not used to expect that he should have to repeat or revise his communications of a practical or personal kind."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And, among the worthy people who have so kindly received us, I revise my record of these adventures once more."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Before committing himself to speech he made a determined effort to revise his facial expression."*

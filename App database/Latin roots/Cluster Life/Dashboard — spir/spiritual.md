@@ -5,15 +5,6 @@ status: unread
 ---
 # spiritual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of religious song originated by blacks in the southern united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with sacred matters or religion or the church.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art reverend Touching thy spiritual function, not thy life."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have scarce time To steal from spiritual leisure a brief span To keep your earthly audit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Lords spiritual on the right side of the throne; the Lords temporal on the left; the Commons below."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of religious song originated by blacks in the southern united states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with sacred matters or religion or the church.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art reverend Touching thy spiritual function, not thy life."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have scarce time To steal from spiritual leisure a brief span To keep your earthly audit."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Lords spiritual on the right side of the throne; the Lords temporal on the left; the Commons below."*

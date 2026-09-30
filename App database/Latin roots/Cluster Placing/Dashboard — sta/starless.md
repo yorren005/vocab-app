@@ -5,15 +5,6 @@ status: unread
 ---
 # starless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not starry; having no stars or starlike objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not starry; having no stars or starlike objects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When the woman awoke it was to find herself in the depths of a moonless and starless night."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Farther back beyond the dark trees a roof glittered with dew, to the right was a leafy tree with brilliantly white trunk and branches, and above it shone the moon, nearly at its full, in a pale, almost starless, spring sky."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"UNDER THIS SHE SAT DOWN.] When the woman awoke it was to find herself in the depths of a moonless and starless night."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not starry; having no stars or starlike objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not starry; having no stars or starlike objects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When the woman awoke it was to find herself in the depths of a moonless and starless night."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Farther back beyond the dark trees a roof glittered with dew, to the right was a leafy tree with brilliantly white trunk and branches, and above it shone the moon, nearly at its full, in a pale, almost starless, spring sky."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"UNDER THIS SHE SAT DOWN.] When the woman awoke it was to find herself in the depths of a moonless and starless night."*

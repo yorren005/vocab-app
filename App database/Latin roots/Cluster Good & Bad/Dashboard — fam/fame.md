@@ -5,15 +5,6 @@ status: unread
 ---
 # fame
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or quality of being widely honored and acclaimed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Favorable public reputation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him but copy what in you is writ, Not making worse what nature made so clear, And such a counterpart shall fame his wit, Making his style admired every where."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give my love fame faster than Time wastes life, So thou prevent’st his scythe, and crooked knife. 101 O truant Muse what shall be thy amends, For thy neglect of truth in beauty dyed?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have letters sent me That sets him high in fame."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or quality of being widely honored and acclaimed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Favorable public reputation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him but copy what in you is writ, Not making worse what nature made so clear, And such a counterpart shall fame his wit, Making his style admired every where."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give my love fame faster than Time wastes life, So thou prevent’st his scythe, and crooked knife. 101 O truant Muse what shall be thy amends, For thy neglect of truth in beauty dyed?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have letters sent me That sets him high in fame."*

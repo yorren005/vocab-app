@@ -5,13 +5,6 @@ status: unread
 ---
 # petrolatum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A semisolid mixture of hydrocarbons obtained from petroleum; used in medicinal ointments and for lubrication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A semisolid mixture of hydrocarbons obtained from petroleum; used in medicinal ointments and for lubrication.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrolatum designates a semisolid mixture of hydrocarbons obtained from petroleum; used in medicinal ointments and for lubrication."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A semisolid mixture of hydrocarbons obtained from petroleum; used in medicinal ointments and for lubrication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A semisolid mixture of hydrocarbons obtained from petroleum; used in medicinal ointments and for lubrication.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrolatum designates a semisolid mixture of hydrocarbons obtained from petroleum; used in medicinal ointments and for lubrication."*

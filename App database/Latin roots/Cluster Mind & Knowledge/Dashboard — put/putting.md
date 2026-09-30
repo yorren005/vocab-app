@@ -5,15 +5,6 @@ status: unread
 ---
 # putting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hitting a golf ball that is on the green using a putter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into a certain place or abstract location.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So putting him to rage, You should have ta’en th’ advantage of his choler And passed him unelected."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say you ne’er had done’t— Harp on that still—but by our putting on."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he were putting to my house the brand That should consume it, I have not the face To say “Beseech you, cease.”—You have made fair hands, You and your crafts!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hitting a golf ball that is on the green using a putter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into a certain place or abstract location.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So putting him to rage, You should have ta’en th’ advantage of his choler And passed him unelected."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say you ne’er had done’t— Harp on that still—but by our putting on."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he were putting to my house the brand That should consume it, I have not the face To say “Beseech you, cease.”—You have made fair hands, You and your crafts!"*

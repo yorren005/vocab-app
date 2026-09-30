@@ -5,13 +5,6 @@ status: unread
 ---
 # appareled
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with clothes or put clothes on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dressed or clothed especially in fine attire; often used in combination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appareled designates provide with clothes or put clothes on."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with clothes or put clothes on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dressed or clothed especially in fine attire; often used in combination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appareled designates provide with clothes or put clothes on."*

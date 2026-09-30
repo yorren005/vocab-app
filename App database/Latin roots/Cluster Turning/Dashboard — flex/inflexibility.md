@@ -5,15 +5,6 @@ status: unread
 ---
 # inflexibility
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of physical flexibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being rigid and rigorously severe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Our spoilt little woman,” said my guardian, “shall have her own way even in her inflexibility, though at the price, I know, of tears downstairs."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Such, gentlemen, is the inflexibility of sea-usages and the instinctive love of neatness in seamen; some of whom would not willingly drown without first washing their faces."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An absolute inflexibility on the side of the latter, although it could not have failed to involve every department of the state in the general confusion, has neither been apprehended nor experienced."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of physical flexibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being rigid and rigorously severe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Our spoilt little woman,” said my guardian, “shall have her own way even in her inflexibility, though at the price, I know, of tears downstairs."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Such, gentlemen, is the inflexibility of sea-usages and the instinctive love of neatness in seamen; some of whom would not willingly drown without first washing their faces."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An absolute inflexibility on the side of the latter, although it could not have failed to involve every department of the state in the general confusion, has neither been apprehended nor experienced."*

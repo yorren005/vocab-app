@@ -5,15 +5,6 @@ status: unread
 ---
 # polished
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make (a surface) shine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Improve or perfect by pruning or polishing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think good thoughts, whilst other write good words, And like unlettered clerk still cry Amen, To every hymn that able spirit affords, In polished form of well refined pen."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Then he is like a scrubbed out gun-barrel, all clean and polished."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The old girl has another trial to undergo after the conclusion of the repast in sitting in state to see the room cleared, the hearth swept, and the dinner-service washed up and polished in the backyard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make (a surface) shine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Improve or perfect by pruning or polishing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think good thoughts, whilst other write good words, And like unlettered clerk still cry Amen, To every hymn that able spirit affords, In polished form of well refined pen."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Then he is like a scrubbed out gun-barrel, all clean and polished."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old girl has another trial to undergo after the conclusion of the repast in sitting in state to see the room cleared, the hearth swept, and the dinner-service washed up and polished in the backyard."*

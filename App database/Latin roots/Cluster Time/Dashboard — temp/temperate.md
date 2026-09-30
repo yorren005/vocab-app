@@ -5,15 +5,6 @@ status: unread
 ---
 # temperate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of weather or climate) free from extremes; mild; or characteristic of such weather or climate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not extreme in behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, you men of Harfleur, Take pity of your town and of your people, Whiles yet my soldiers are in my command, Whiles yet the cool and temperate wind of grace O’erblows the filthy and contagious clouds Of heady murder, spoil, and villainy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So hot a speed with such advice dispos’d, Such temperate order in so fierce a cause, Doth want example."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who can be wise, amaz’d, temperate, and furious, Loyal and neutral, in a moment?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of weather or climate) free from extremes; mild; or characteristic of such weather or climate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not extreme in behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, you men of Harfleur, Take pity of your town and of your people, Whiles yet my soldiers are in my command, Whiles yet the cool and temperate wind of grace O’erblows the filthy and contagious clouds Of heady murder, spoil, and villainy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So hot a speed with such advice dispos’d, Such temperate order in so fierce a cause, Doth want example."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who can be wise, amaz’d, temperate, and furious, Loyal and neutral, in a moment?"*

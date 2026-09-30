@@ -5,15 +5,6 @@ status: unread
 ---
 # exploration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To travel for the purpose of discovery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A careful systematic search.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Simons, "An Exploration of the Goajira Peninsula," _Proceedings of the Royal Geographical Society_, N.S., vii. (1885) p. 791."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Lewis Herndon, _Exploration of the Valley of the Amazon_ (Washington, 1854), pp. 319 _sq._ The scene was described to Mr."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"One loving spirit sets another on fire." Jesus brings men to the new exploration of God, to the new commitment of themselves to God, simply by the ordinary mechanism of friendship and love."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To travel for the purpose of discovery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A careful systematic search.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Simons, "An Exploration of the Goajira Peninsula," _Proceedings of the Royal Geographical Society_, N.S., vii. (1885) p. 791."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Lewis Herndon, _Exploration of the Valley of the Amazon_ (Washington, 1854), pp. 319 _sq._ The scene was described to Mr."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"One loving spirit sets another on fire." Jesus brings men to the new exploration of God, to the new commitment of themselves to God, simply by the ordinary mechanism of friendship and love."*

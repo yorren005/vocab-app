@@ -5,15 +5,6 @@ status: unread
 ---
 # palely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner lacking interest or vitality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a pale manner; without physical or emotional color.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The fire glows brightly on the panelled wall and palely on the window-glass, where, through the cold reflection of the blaze, the colder landscape shudders in the wind and a grey mist creeps along, the only traveller besides the waste of clouds."*
-> - 📜 **James Joyce (*Ulysses*):** *"O’Molloy, smiling palely, took up the gage. —My dear Myles, he said, flinging his cigarette aside, you put a false construction on my words."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Amelia took the news very palely and calmly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner lacking interest or vitality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a pale manner; without physical or emotional color.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The fire glows brightly on the panelled wall and palely on the window-glass, where, through the cold reflection of the blaze, the colder landscape shudders in the wind and a grey mist creeps along, the only traveller besides the waste of clouds."*
+> - 📜 **James Joyce (*Ulysses*):** *"O’Molloy, smiling palely, took up the gage. —My dear Myles, he said, flinging his cigarette aside, you put a false construction on my words."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Amelia took the news very palely and calmly."*

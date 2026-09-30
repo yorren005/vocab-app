@@ -5,15 +5,6 @@ status: unread
 ---
 # expansion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of increasing (something) in size or volume or quantity or scope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A function expressed as a sum or product of terms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I had neither the strength nor bulk to steal more than a little, and the little I stole I swear I managed by sheer expansion at the joints of the bones of my frame."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The whim struck me for a moment that if a similar expansion were taking place with the whole prison, then the outer walls of San Quentin must be far out in the Pacific Ocean on one side and on the other side must be encroaching on the Nevada desert."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The nation with an expanding population is tempted to seek an outlet for its numbers and for its products by entering upon a policy of commercial expansion, which in turn has to be supported by stronger military and naval establishments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of increasing (something) in size or volume or quantity or scope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A function expressed as a sum or product of terms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I had neither the strength nor bulk to steal more than a little, and the little I stole I swear I managed by sheer expansion at the joints of the bones of my frame."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The whim struck me for a moment that if a similar expansion were taking place with the whole prison, then the outer walls of San Quentin must be far out in the Pacific Ocean on one side and on the other side must be encroaching on the Nevada desert."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The nation with an expanding population is tempted to seek an outlet for its numbers and for its products by entering upon a policy of commercial expansion, which in turn has to be supported by stronger military and naval establishments."*

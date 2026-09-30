@@ -5,15 +5,6 @@ status: unread
 ---
 # diffuse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move outward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread or diffuse through.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These fostering measures were expected to increase wealth and to diffuse a greater welfare through the community."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My work, which had appeared so vague, so hopelessly diffuse, condensed itself as he proceeded, and assumed a definite form under his shaping hand."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And the increased intercourse among those of different States will contribute not a little to diffuse a mutual knowledge of their affairs, as this again will contribute to a general assimilation of their manners and laws."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move outward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread or diffuse through.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These fostering measures were expected to increase wealth and to diffuse a greater welfare through the community."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My work, which had appeared so vague, so hopelessly diffuse, condensed itself as he proceeded, and assumed a definite form under his shaping hand."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And the increased intercourse among those of different States will contribute not a little to diffuse a mutual knowledge of their affairs, as this again will contribute to a general assimilation of their manners and laws."*

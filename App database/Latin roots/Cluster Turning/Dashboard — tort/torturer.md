@@ -5,15 +5,6 @@ status: unread
 ---
 # torturer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who inflicts severe physical pain (usually for punishment or coercion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who inflicts severe physical pain (usually for punishment or coercion).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Confess and love” Had been the very sum of my confession: O happy torment, when my torturer Doth teach me answers for deliverance!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I play the torturer by small and small To lengthen out the worst that must be spoken: Your uncle York is joined with Bolingbroke, And all your northern castles yielded up, And all your southern gentlemen in arms Upon his party."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Hence in France it was customary to shave the whole bodies of persons charged with sorcery before handing them over to the torturer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who inflicts severe physical pain (usually for punishment or coercion).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who inflicts severe physical pain (usually for punishment or coercion).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Confess and love” Had been the very sum of my confession: O happy torment, when my torturer Doth teach me answers for deliverance!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I play the torturer by small and small To lengthen out the worst that must be spoken: Your uncle York is joined with Bolingbroke, And all your northern castles yielded up, And all your southern gentlemen in arms Upon his party."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Hence in France it was customary to shave the whole bodies of persons charged with sorcery before handing them over to the torturer."*

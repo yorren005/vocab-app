@@ -5,13 +5,6 @@ status: unread
 ---
 # ungregarious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of plants) growing together in groups that are not close together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of animals) not gregarious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ungregarious designates (of plants) growing together in groups that are not close together."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of plants) growing together in groups that are not close together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of animals) not gregarious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ungregarious designates (of plants) growing together in groups that are not close together."*

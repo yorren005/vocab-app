@@ -5,15 +5,6 @@ status: unread
 ---
 # selected
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pick out, select, or choose from a number of alternatives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chosen in preference to another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The gentleman in the bag wig laid bundles of papers on his lordship’s table, and his lordship silently selected one and turned over the leaves."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"John and the ugliness of Judas Iscariot, as represented in a window of the church he attended, that not a single lineament could be selected and called worthy either of distinction or notoriety."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The starting-point selected by the judgment was her height."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pick out, select, or choose from a number of alternatives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chosen in preference to another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The gentleman in the bag wig laid bundles of papers on his lordship’s table, and his lordship silently selected one and turned over the leaves."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"John and the ugliness of Judas Iscariot, as represented in a window of the church he attended, that not a single lineament could be selected and called worthy either of distinction or notoriety."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The starting-point selected by the judgment was her height."*

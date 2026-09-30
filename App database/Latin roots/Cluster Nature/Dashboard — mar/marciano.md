@@ -5,13 +5,6 @@ status: unread
 ---
 # marciano
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states prizefighter who won the world heavyweight championship in 1952 (1924-1969).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states prizefighter who won the world heavyweight championship in 1952 (1924-1969).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marciano designates united states prizefighter who won the world heavyweight championship in 1952 (1924-1969)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states prizefighter who won the world heavyweight championship in 1952 (1924-1969).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states prizefighter who won the world heavyweight championship in 1952 (1924-1969).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marciano designates united states prizefighter who won the world heavyweight championship in 1952 (1924-1969)."*

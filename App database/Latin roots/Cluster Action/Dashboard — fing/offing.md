@@ -5,15 +5,6 @@ status: unread
 ---
 # offing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The near or foreseeable future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the sea that can be seen from the shore and is beyond the anchoring area.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I seed her reported in the offing this morning; a three years’ voyage, and a full ship."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At last I slid off into a light doze, and had pretty nearly made a good offing towards the land of Nod, when I heard a heavy footfall in the passage, and saw a glimmer of light come into the room from under the door."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"On, on we flew; and our offing gained, the Moss did homage to the blast; ducked and dived her brows as a slave before the Sultan."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The near or foreseeable future.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the sea that can be seen from the shore and is beyond the anchoring area.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I seed her reported in the offing this morning; a three years’ voyage, and a full ship."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At last I slid off into a light doze, and had pretty nearly made a good offing towards the land of Nod, when I heard a heavy footfall in the passage, and saw a glimmer of light come into the room from under the door."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"On, on we flew; and our offing gained, the Moss did homage to the blast; ducked and dived her brows as a slave before the Sultan."*

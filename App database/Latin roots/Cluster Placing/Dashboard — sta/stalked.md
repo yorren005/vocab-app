@@ -5,15 +5,6 @@ status: unread
 ---
 # stalked
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Walk stiffly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Follow stealthily or recur constantly and spontaneously to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt was left quite alone, and still the fearful creature stalked nearer."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes gauntly stalked to the fire and warmed his funeral gloves."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Woman’s prescriptive infirmity had stalked into the sunlight, which had clothed it in the freshness of an originality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Walk stiffly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Follow stealthily or recur constantly and spontaneously to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt was left quite alone, and still the fearful creature stalked nearer."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes gauntly stalked to the fire and warmed his funeral gloves."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Woman’s prescriptive infirmity had stalked into the sunlight, which had clothed it in the freshness of an originality."*

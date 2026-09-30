@@ -5,13 +5,6 @@ status: unread
 ---
 # absentmindedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an absentminded or preoccupied manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an absentminded or preoccupied manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Poul Anderson (*The Valor of Cappen Varra*):** *"He comforted her, absentmindedly, and dressed in the dark, swearing at the clumsy leggings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an absentminded or preoccupied manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an absentminded or preoccupied manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Poul Anderson (*The Valor of Cappen Varra*):** *"He comforted her, absentmindedly, and dressed in the dark, swearing at the clumsy leggings."*

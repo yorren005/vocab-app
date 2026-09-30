@@ -5,15 +5,6 @@ status: unread
 ---
 # eater
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who consumes food for nourishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any green goods that are good to eat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks sometimes I have no more wit than a Christian or an ordinary man has; but I am a great eater of beef, and I believe that does harm to my wit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Misshapen Time, copesmate of ugly night, Swift subtle post, carrier of grisly care, Eater of youth, false slave to false delight, Base watch of woes, sin’s pack-horse, virtue’s snare!"*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Save me from the bloody virgin-eater, and I will catch the squid and beat the kapa for thee all my days." The time of contest approached."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who consumes food for nourishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any green goods that are good to eat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks sometimes I have no more wit than a Christian or an ordinary man has; but I am a great eater of beef, and I believe that does harm to my wit."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Misshapen Time, copesmate of ugly night, Swift subtle post, carrier of grisly care, Eater of youth, false slave to false delight, Base watch of woes, sin’s pack-horse, virtue’s snare!"*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Save me from the bloody virgin-eater, and I will catch the squid and beat the kapa for thee all my days." The time of contest approached."*

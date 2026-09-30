@@ -5,15 +5,6 @@ status: unread
 ---
 # investor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who commits capital in order to gain financial returns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who commits capital in order to gain financial returns.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The investor in a corporation bought shares, and his liability for debts and losses was limited by charter to his share capital."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"But in present practice there are several forms (of which stock is but one) in which an investor may buy a share in the earnings of a business."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The stocks can, by this manipulation of dividends, be made a lottery for the legitimate investor, a trap for the unwary, and a source of unrighteous gain by men recreant to their trusts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who commits capital in order to gain financial returns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who commits capital in order to gain financial returns.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The investor in a corporation bought shares, and his liability for debts and losses was limited by charter to his share capital."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"But in present practice there are several forms (of which stock is but one) in which an investor may buy a share in the earnings of a business."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The stocks can, by this manipulation of dividends, be made a lottery for the legitimate investor, a trap for the unwary, and a source of unrighteous gain by men recreant to their trusts."*

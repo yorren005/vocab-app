@@ -5,15 +5,6 @@ status: unread
 ---
 # immunity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of not being susceptible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) the condition in which an organism can resist disease.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Probably, as with persons playing whist for love, the consciousness of a certain immunity under any circumstances from that worst possible ultimate, the having to pay, makes them unduly speculative."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Unless, therefore, there is a surrender of this immunity in the plan of the convention, it will remain with the States, and the danger intimated must be merely ideal."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Being so serviceable to the aliis, kukinis always enjoyed a high degree of consideration, freedom, and immunity from the strict etiquette and unwritten laws of a Hawaiian court."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of not being susceptible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) the condition in which an organism can resist disease.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Probably, as with persons playing whist for love, the consciousness of a certain immunity under any circumstances from that worst possible ultimate, the having to pay, makes them unduly speculative."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Unless, therefore, there is a surrender of this immunity in the plan of the convention, it will remain with the States, and the danger intimated must be merely ideal."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Being so serviceable to the aliis, kukinis always enjoyed a high degree of consideration, freedom, and immunity from the strict etiquette and unwritten laws of a Hawaiian court."*

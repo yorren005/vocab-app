@@ -5,15 +5,6 @@ status: unread
 ---
 # gentlefolk
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: People of good family and breeding and high social status.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: People of good family and breeding and high social status.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"We’ve been found to be the greatest gentlefolk in the whole county—reaching all back long before Oliver Grumble’s time—to the days of the Pagan Turks—with monuments, and vaults, and crests, and ’scutcheons, and the Lord knows what all."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yes, Abraham.” “Bain’t you glad that we’ve become gentlefolk?” “Not particular glad.” “But you be glad that you ’m going to marry a gentleman?” “What?” said Tess, lifting her face."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"A missionary from China told me how, thirty years ago or more, he was driven out of the town where he lived; how the gentlefolk egged on the mob, and they wrecked his house, and hounded him out of the place."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: People of good family and breeding and high social status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: People of good family and breeding and high social status.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"We’ve been found to be the greatest gentlefolk in the whole county—reaching all back long before Oliver Grumble’s time—to the days of the Pagan Turks—with monuments, and vaults, and crests, and ’scutcheons, and the Lord knows what all."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yes, Abraham.” “Bain’t you glad that we’ve become gentlefolk?” “Not particular glad.” “But you be glad that you ’m going to marry a gentleman?” “What?” said Tess, lifting her face."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"A missionary from China told me how, thirty years ago or more, he was driven out of the town where he lived; how the gentlefolk egged on the mob, and they wrecked his house, and hounded him out of the place."*

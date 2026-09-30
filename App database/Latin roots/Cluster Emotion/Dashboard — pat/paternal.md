@@ -5,15 +5,6 @@ status: unread
 ---
 # paternal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or inherited from one's father.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of a father.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"If he really sought to reconcile himself like a dutiful branch, he must be forgiven for having dismembered himself from the paternal tree."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Her paternal aunt looks after her, and both of them must abstain from eating turtle, dugong, and the heads of fish."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"She is waited on by women who stand to her in a certain relationship (_mowai_), apparently her paternal aunts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or inherited from one's father.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of a father.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"If he really sought to reconcile himself like a dutiful branch, he must be forgiven for having dismembered himself from the paternal tree."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Her paternal aunt looks after her, and both of them must abstain from eating turtle, dugong, and the heads of fish."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"She is waited on by women who stand to her in a certain relationship (_mowai_), apparently her paternal aunts."*

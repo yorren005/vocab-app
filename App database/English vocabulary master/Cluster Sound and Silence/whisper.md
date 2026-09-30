@@ -5,20 +5,6 @@ status: unread
 ---
 # whisper
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Address in a whisper
-> 2. **Nuance / Usage**: Make a sibilant sound that resembles whispering
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to whisper the target*) and intransitive clauses (*whispering against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"What did the Russian whisper in your ear?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"[_Juno and Ceres whisper, and send Iris on employment."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her heart did whisper that he had done it for her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Address in a whisper
+> 2. **Nuance / Usage**: Make a sibilant sound that resembles whispering
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to whisper the target*) and intransitive clauses (*whispering against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"What did the Russian whisper in your ear?"*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"[_Juno and Ceres whisper, and send Iris on employment."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her heart did whisper that he had done it for her."*

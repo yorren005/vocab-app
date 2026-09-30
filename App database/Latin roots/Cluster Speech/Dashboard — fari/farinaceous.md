@@ -5,14 +5,6 @@ status: unread
 ---
 # farinaceous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling starch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of or covered with particles resembling meal in texture or consistency.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Pumblechook’s premises in the High Street of the market town, were of a peppercorny and farinaceous character, as the premises of a cornchandler and seedsman should be."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"When broken, the farinaceous interior will be found replaced by a minute black dust of a very fœtid, unpleasant odour, and greasy to the touch (fig. 85)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling starch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of or covered with particles resembling meal in texture or consistency.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pumblechook’s premises in the High Street of the market town, were of a peppercorny and farinaceous character, as the premises of a cornchandler and seedsman should be."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"When broken, the farinaceous interior will be found replaced by a minute black dust of a very fœtid, unpleasant odour, and greasy to the touch (fig. 85)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # partitioning
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An analysis into mutually exclusive categories.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of dividing or partitioning; separation by the creation of a boundary that divides or keeps apart.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, partitioning designates an analysis into mutually exclusive categories."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An analysis into mutually exclusive categories.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of dividing or partitioning; separation by the creation of a boundary that divides or keeps apart.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, partitioning designates an analysis into mutually exclusive categories."*

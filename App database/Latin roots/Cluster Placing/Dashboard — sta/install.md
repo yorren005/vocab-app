@@ -5,15 +5,6 @@ status: unread
 ---
 # install
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Set up for use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into an office or a position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Levied an army, weening to redeem And have install’d me in the diadem."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, is my Lord of Winchester install’d And call’d unto a cardinal’s degree?"*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We'll install undetectable barriers against psychic probes; then there are..." "Damn you, Ram." Brad cut in, his voice crackling with rage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Set up for use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into an office or a position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Levied an army, weening to redeem And have install’d me in the diadem."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, is my Lord of Winchester install’d And call’d unto a cardinal’s degree?"*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We'll install undetectable barriers against psychic probes; then there are..." "Damn you, Ram." Brad cut in, his voice crackling with rage."*

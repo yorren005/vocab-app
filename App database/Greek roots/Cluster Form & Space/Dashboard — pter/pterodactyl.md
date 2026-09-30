@@ -5,15 +5,6 @@ status: unread
 ---
 # pterodactyl
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various pterosaurs (suborder Pterodactyloidea) of the Late Jurassic and Cretaceous having a rudimentary tail and a beak with reduced dentition; broadly : pterosaur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various pterosaurs (suborder Pterodactyloidea) of the Late Jurassic and Cretaceous having a rudimentary tail and a beak with reduced dentition; broadly : pterosaur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The exhibit also included a Petrushka the Pterodactyl and a Tallyrand the Tyranosaurus."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In the transition from the fish to the bird there is an anomalous animal, long since extinct, named by the geologists the pterodactyl, or the winged reptile, a lizard with feathers upon its paws and plumes upon its tail."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Eaton can properly be regarded as in the transition epoch and characterized as the pterodactyl of politics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various pterosaurs (suborder Pterodactyloidea) of the Late Jurassic and Cretaceous having a rudimentary tail and a beak with reduced dentition; broadly : pterosaur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various pterosaurs (suborder Pterodactyloidea) of the Late Jurassic and Cretaceous having a rudimentary tail and a beak with reduced dentition; broadly : pterosaur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The exhibit also included a Petrushka the Pterodactyl and a Tallyrand the Tyranosaurus."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In the transition from the fish to the bird there is an anomalous animal, long since extinct, named by the geologists the pterodactyl, or the winged reptile, a lizard with feathers upon its paws and plumes upon its tail."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Eaton can properly be regarded as in the transition epoch and characterized as the pterodactyl of politics."*

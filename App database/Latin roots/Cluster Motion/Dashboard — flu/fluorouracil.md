@@ -5,13 +5,6 @@ status: unread
 ---
 # fluorouracil
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antimetabolite used to treat certain cancers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antimetabolite used to treat certain cancers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluorouracil designates an antimetabolite used to treat certain cancers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antimetabolite used to treat certain cancers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antimetabolite used to treat certain cancers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluorouracil designates an antimetabolite used to treat certain cancers."*

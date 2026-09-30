@@ -5,13 +5,6 @@ status: unread
 ---
 # provirus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cdna copy of the rna genome of a retrovirus; the genetic material of a virus as incorporated into and able to replicate with the genome of a host cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cdna copy of the rna genome of a retrovirus; the genetic material of a virus as incorporated into and able to replicate with the genome of a host cell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, provirus designates cdna copy of the rna genome of a retrovirus; the genetic material of a virus as incorporated into and able to replicate with the genome of a host cell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cdna copy of the rna genome of a retrovirus; the genetic material of a virus as incorporated into and able to replicate with the genome of a host cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cdna copy of the rna genome of a retrovirus; the genetic material of a virus as incorporated into and able to replicate with the genome of a host cell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, provirus designates cdna copy of the rna genome of a retrovirus; the genetic material of a virus as incorporated into and able to replicate with the genome of a host cell."*

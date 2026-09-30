@@ -5,15 +5,6 @@ status: unread
 ---
 # anachronism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something located at a time when it could not have existed or occurred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artifact that belongs to another time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"You are too young—it is an anachronism for you to have such thoughts,” said Will, energetically, with a quick shake of the head habitual to him."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"A scene into which the artist had incautiously painted a pointed arch was condemned as an anachronism."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"What can be a greater anachronism than the death of Prince Arthur three months hence on the stage of the Panopticon Theatre?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something located at a time when it could not have existed or occurred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artifact that belongs to another time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"You are too young—it is an anachronism for you to have such thoughts,” said Will, energetically, with a quick shake of the head habitual to him."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"A scene into which the artist had incautiously painted a pointed arch was condemned as an anachronism."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"What can be a greater anachronism than the death of Prince Arthur three months hence on the stage of the Panopticon Theatre?"*

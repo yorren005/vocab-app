@@ -5,14 +5,6 @@ status: unread
 ---
 # integument
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An outer protective covering such as the skin of an animal or a cuticle or seed coat or rind or shell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An outer protective covering such as the skin of an animal or a cuticle or seed coat or rind or shell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"One morning the few lonely trees and the thorns of the hedgerows appeared as if they had put off a vegetable for an animal integument."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"I feel I hardly feel enough for him; my own calamities press about me and involve me in a thick integument not to be reached at by other folks' misfortunes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An outer protective covering such as the skin of an animal or a cuticle or seed coat or rind or shell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An outer protective covering such as the skin of an animal or a cuticle or seed coat or rind or shell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"One morning the few lonely trees and the thorns of the hedgerows appeared as if they had put off a vegetable for an animal integument."*
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"I feel I hardly feel enough for him; my own calamities press about me and involve me in a thick integument not to be reached at by other folks' misfortunes."*

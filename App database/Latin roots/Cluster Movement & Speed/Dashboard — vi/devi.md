@@ -5,15 +5,6 @@ status: unread
 ---
 # devi
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hindu mother goddess; supreme power in the universe; wife or embodiment of the female energy of siva having both beneficent and malevolent forms or aspects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hindu mother goddess; supreme power in the universe; wife or embodiment of the female energy of siva having both beneficent and malevolent forms or aspects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He vows to Singarmati Devi that, if the worms are duly born, he will make her an offering."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will be hang’d, if some eternal villain, Some busy and insinuating rogue, Some cogging, cozening slave, to get some office, Have not devis’d this slander."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You, my lord, best know, Who least will seem to do so, my past life Hath been as continent, as chaste, as true, As I am now unhappy; which is more Than history can pattern, though devis’d And play’d to take spectators."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hindu mother goddess; supreme power in the universe; wife or embodiment of the female energy of siva having both beneficent and malevolent forms or aspects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hindu mother goddess; supreme power in the universe; wife or embodiment of the female energy of siva having both beneficent and malevolent forms or aspects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He vows to Singarmati Devi that, if the worms are duly born, he will make her an offering."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will be hang’d, if some eternal villain, Some busy and insinuating rogue, Some cogging, cozening slave, to get some office, Have not devis’d this slander."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You, my lord, best know, Who least will seem to do so, my past life Hath been as continent, as chaste, as true, As I am now unhappy; which is more Than history can pattern, though devis’d And play’d to take spectators."*

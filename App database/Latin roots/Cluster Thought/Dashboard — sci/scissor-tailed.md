@@ -5,13 +5,6 @@ status: unread
 ---
 # scissor-tailed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of birds) having a deeply forked tail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of birds) having a deeply forked tail.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scissor-tailed designates (of birds) having a deeply forked tail."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of birds) having a deeply forked tail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of birds) having a deeply forked tail.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scissor-tailed designates (of birds) having a deeply forked tail."*

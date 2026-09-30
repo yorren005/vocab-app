@@ -5,13 +5,6 @@ status: unread
 ---
 # tetra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous small often brightly colored South American characin fishes often bred in tropical aquariums.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Four : having four : having four parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Do you suppose those birds--the tetra-axes or whatever Beeville calls them--?" They turned and scanned the sky."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous small often brightly colored South American characin fishes often bred in tropical aquariums.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Four : having four : having four parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Do you suppose those birds--the tetra-axes or whatever Beeville calls them--?" They turned and scanned the sky."*

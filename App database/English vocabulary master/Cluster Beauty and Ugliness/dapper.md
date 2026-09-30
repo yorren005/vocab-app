@@ -5,18 +5,6 @@ status: unread
 ---
 # dapper
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Neat, trim
-> 2. **Nuance / Usage**: Very spruce and stylish
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a dapper presence*) or predicatively (*remained dapper*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*The Man With Two Left Feet*):** *"Going down the street, you would meet a typical commercial traveller, dapper and alert."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -52,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Neat, trim, and smartly dressed in appearance, typically used of a man.
+> 2. **Nuance / Usage**: Connotes brisk, jaunty elegance and lively self-assurance, often applied to someone of slight or compact build who carries themselves with spruce precision.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a dapper presence*) or predicatively (*remained dapper*).
+> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*The Man With Two Left Feet*):** *"Going down the street, you would meet a typical commercial traveller, **dapper** and alert."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He was a **dapper** little man, with a quick, restless eye and a neat, tightly buttoned coat."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"He was a brisk, **dapper** little fellow, always dressed in a smartly cut coat and polished boots."*

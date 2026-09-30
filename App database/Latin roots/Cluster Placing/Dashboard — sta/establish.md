@@ -5,15 +5,6 @@ status: unread
 ---
 # establish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Set up or found.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set up or lay the groundwork for.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Doctor Pinch, you are a conjurer; Establish him in his true sense again, And I will please you what you will demand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, our authority is his consent, And what we do establish he confirms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, they say the senators tomorrow Mean to establish Caesar as a king; And he shall wear his crown by sea and land, In every place, save here in Italy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Set up or found.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set up or lay the groundwork for.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Doctor Pinch, you are a conjurer; Establish him in his true sense again, And I will please you what you will demand."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, our authority is his consent, And what we do establish he confirms."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, they say the senators tomorrow Mean to establish Caesar as a king; And he shall wear his crown by sea and land, In every place, save here in Italy."*

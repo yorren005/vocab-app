@@ -5,13 +5,6 @@ status: unread
 ---
 # laparoscopy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Visual examination of the abdomen by means of a laparoscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An operation (such as tubal ligation or gallbladder removal) involving laparoscopy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, laparoscopy designates visual examination of the abdomen by means of a laparoscope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Visual examination of the abdomen by means of a laparoscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An operation (such as tubal ligation or gallbladder removal) involving laparoscopy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, laparoscopy designates visual examination of the abdomen by means of a laparoscope."*

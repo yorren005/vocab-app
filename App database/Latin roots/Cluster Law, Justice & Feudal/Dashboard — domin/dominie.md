@@ -5,15 +5,6 @@ status: unread
 ---
 # dominie
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A clergyman; especially a settled minister or parson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clergyman; especially a settled minister or parson.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And when the Dominie, in the chapel, here in Folsom of a Sunday, worships God in his own good modern way, I know that in him, the Dominie, still abide the worships of the Plough, the Fish, the Tree—ay, and also all worships of Astarte and the Night."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I had to pet the Dominie decorously for a week before he regained his benign manner."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Sallie and the Dominie sat talking to you so late last night that I didn't feel it was fair to come across after they left."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clergyman; especially a settled minister or parson.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clergyman; especially a settled minister or parson.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And when the Dominie, in the chapel, here in Folsom of a Sunday, worships God in his own good modern way, I know that in him, the Dominie, still abide the worships of the Plough, the Fish, the Tree—ay, and also all worships of Astarte and the Night."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I had to pet the Dominie decorously for a week before he regained his benign manner."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Sallie and the Dominie sat talking to you so late last night that I didn't feel it was fair to come across after they left."*

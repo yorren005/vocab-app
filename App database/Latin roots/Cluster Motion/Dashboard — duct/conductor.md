@@ -5,15 +5,6 @@ status: unread
 ---
 # conductor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person who leads a musical group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance that readily conducts e.g. electricity and heat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who is conductor of his people?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jo and his conductor presently return, and Jo is assisted to his mattress by the careful Phil, to whom, after due administration of medicine by his own hands, Allan confides all needful means and instructions."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Under the shadow of this extemporized lightning-conductor he felt himself comparatively safe."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The person who leads a musical group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance that readily conducts e.g. electricity and heat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who is conductor of his people?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jo and his conductor presently return, and Jo is assisted to his mattress by the careful Phil, to whom, after due administration of medicine by his own hands, Allan confides all needful means and instructions."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Under the shadow of this extemporized lightning-conductor he felt himself comparatively safe."*

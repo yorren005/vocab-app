@@ -5,13 +5,6 @@ status: unread
 ---
 # ascaphidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of one species of frog: tailed frog.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of one species of frog: tailed frog.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascaphidae designates family of one species of frog: tailed frog."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of one species of frog: tailed frog.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of one species of frog: tailed frog.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascaphidae designates family of one species of frog: tailed frog."*

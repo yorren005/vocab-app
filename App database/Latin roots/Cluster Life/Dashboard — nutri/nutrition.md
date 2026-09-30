@@ -5,13 +5,6 @@ status: unread
 ---
 # nutrition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physiology) the organic process of nourishing or being nourished; the processes by which an organism assimilates food and uses it for growth and maintenance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A source of materials to nourish the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Rich and poor cook too much for taste and too little for nutrition or digestion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (physiology) the organic process of nourishing or being nourished; the processes by which an organism assimilates food and uses it for growth and maintenance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A source of materials to nourish the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Rich and poor cook too much for taste and too little for nutrition or digestion."*

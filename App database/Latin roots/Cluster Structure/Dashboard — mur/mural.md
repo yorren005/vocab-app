@@ -5,15 +5,6 @@ status: unread
 ---
 # mural
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A painting that is applied to a wall surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to walls.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now is the mural down between the two neighbours."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Disburd’nd Heav’n rejoic’d, and soon repaird Her mural breach, returning whence it rowld."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It rears its irregular walls and massive towers, like a mural crown around the brow of a lofty ridge, waves its royal banner in the clouds, and looks down with a lordly air upon the surrounding world."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A painting that is applied to a wall surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to walls.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now is the mural down between the two neighbours."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Disburd’nd Heav’n rejoic’d, and soon repaird Her mural breach, returning whence it rowld."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It rears its irregular walls and massive towers, like a mural crown around the brow of a lofty ridge, waves its royal banner in the clouds, and looks down with a lordly air upon the surrounding world."*

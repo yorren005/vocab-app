@@ -5,15 +5,6 @@ status: unread
 ---
 # timer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A timepiece that measures a time interval and signals its end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (sports) an official who keeps track of the time elapsed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He was a pallid-faced, little dope-fiend of a short-timer who would do anything to obtain the drug."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Once, with a guard, and once with a short-timer in solitary, I entrusted, by memorization, a letter of inquiry addressed to the curator of the Museum."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"That ought to attract you.” “I'm going to try a bit of adjustment on this timer now that Mac's out of the way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A timepiece that measures a time interval and signals its end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (sports) an official who keeps track of the time elapsed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He was a pallid-faced, little dope-fiend of a short-timer who would do anything to obtain the drug."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Once, with a guard, and once with a short-timer in solitary, I entrusted, by memorization, a letter of inquiry addressed to the curator of the Museum."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"That ought to attract you.” “I'm going to try a bit of adjustment on this timer now that Mac's out of the way."*

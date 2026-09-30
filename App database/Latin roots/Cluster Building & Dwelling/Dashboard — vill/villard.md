@@ -5,13 +5,6 @@ status: unread
 ---
 # villard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states railroad magnate and businessman (1835-1900).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states railroad magnate and businessman (1835-1900).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, villard designates united states railroad magnate and businessman (1835-1900)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states railroad magnate and businessman (1835-1900).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states railroad magnate and businessman (1835-1900).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, villard designates united states railroad magnate and businessman (1835-1900)."*

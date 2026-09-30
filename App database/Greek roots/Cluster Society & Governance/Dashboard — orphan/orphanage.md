@@ -5,15 +5,6 @@ status: unread
 ---
 # orphanage
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being a child without living parents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public institution for the care of orphans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He’ll crack a crib in Scotland one week, and be raising money to build an orphanage in Cornwall the next."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"We bought some bread at a little place next the Orphanage, and divided it among us."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"We can be of more use elsewhere." We were going in a crowd to the Orphanage."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being a child without living parents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public institution for the care of orphans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He’ll crack a crib in Scotland one week, and be raising money to build an orphanage in Cornwall the next."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"We bought some bread at a little place next the Orphanage, and divided it among us."*
+> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"We can be of more use elsewhere." We were going in a crowd to the Orphanage."*

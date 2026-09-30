@@ -5,13 +5,6 @@ status: unread
 ---
 # reflexology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of reflex action as it relates to the behavior of organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Massage to relieve tension by finger pressure; based on the belief that there are reflex points on the feet, hands, and head that are connected to every part of the body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reflexology designates the study of reflex action as it relates to the behavior of organisms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of reflex action as it relates to the behavior of organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Massage to relieve tension by finger pressure; based on the belief that there are reflex points on the feet, hands, and head that are connected to every part of the body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reflexology designates the study of reflex action as it relates to the behavior of organisms."*

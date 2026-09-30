@@ -5,13 +5,6 @@ status: unread
 ---
 # sistership
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The kinship relation between a female offspring and the siblings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An association or society of women who are linked together by a common religion or trade or interest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sistership designates the kinship relation between a female offspring and the siblings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The kinship relation between a female offspring and the siblings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An association or society of women who are linked together by a common religion or trade or interest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sistership designates the kinship relation between a female offspring and the siblings."*

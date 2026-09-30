@@ -5,15 +5,6 @@ status: unread
 ---
 # castor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A multiple star with 6 components; second brightest in gemini; close to pollux.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shaker with a perforated top for sprinkling powdered sugar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"For, my young friends,” suddenly addressing the ’prentices and Guster, to their consternation, “if I am told by the doctor that calomel or castor-oil is good for me, I may naturally ask what is calomel, and what is castor-oil."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hussey interposed the mustard-pot and vinegar-cruet, and the entire castor of her countenance."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Certainly it cannot be olive oil, nor macassar oil, nor castor oil, nor bear’s oil, nor train oil, nor cod-liver oil."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A multiple star with 6 components; second brightest in gemini; close to pollux.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shaker with a perforated top for sprinkling powdered sugar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"For, my young friends,” suddenly addressing the ’prentices and Guster, to their consternation, “if I am told by the doctor that calomel or castor-oil is good for me, I may naturally ask what is calomel, and what is castor-oil."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Hussey interposed the mustard-pot and vinegar-cruet, and the entire castor of her countenance."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Certainly it cannot be olive oil, nor macassar oil, nor castor oil, nor bear’s oil, nor train oil, nor cod-liver oil."*

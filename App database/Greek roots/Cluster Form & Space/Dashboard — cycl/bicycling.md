@@ -5,15 +5,6 @@ status: unread
 ---
 # bicycling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Riding a bicycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ride a bicycle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"My father had a small factory at Coventry, which he enlarged at the time of the invention of bicycling."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"But I also see, by what I have learned of bicycling, that the right and only sure way to learn German is by the bicycling method."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"When you have reached the point in bicycling where you can balance the machine tolerably fairly and propel it and steer it, then comes your next task—how to mount it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Riding a bicycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ride a bicycle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"My father had a small factory at Coventry, which he enlarged at the time of the invention of bicycling."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"But I also see, by what I have learned of bicycling, that the right and only sure way to learn German is by the bicycling method."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"When you have reached the point in bicycling where you can balance the machine tolerably fairly and propel it and steer it, then comes your next task—how to mount it."*

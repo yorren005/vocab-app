@@ -5,15 +5,6 @@ status: unread
 ---
 # lunatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An insane person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reckless impetuous irresponsible person.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My way is now to hie home to his house, And tell his wife that, being lunatic, He rush’d into my house and took perforce My ring away."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To whose hands have you sent the lunatic King?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It insinuateth me of insanie. _Ne intelligis, domine?_ To make frantic, lunatic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An insane person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reckless impetuous irresponsible person.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My way is now to hie home to his house, And tell his wife that, being lunatic, He rush’d into my house and took perforce My ring away."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To whose hands have you sent the lunatic King?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It insinuateth me of insanie. _Ne intelligis, domine?_ To make frantic, lunatic."*

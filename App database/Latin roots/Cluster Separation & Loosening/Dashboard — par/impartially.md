@@ -5,15 +5,6 @@ status: unread
 ---
 # impartially
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impartial manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impartial manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"This was the substance of the letter, written throughout with a justice and a dignity as if he were indeed my responsible guardian impartially representing the proposal of a friend against whom in his integrity he stated the full case."*
-> - 📜 **George Eliot (*Middlemarch*):** *"It is demonstrable that the scratches are going everywhere impartially and it is only your candle which produces the flattering illusion of a concentric arrangement, its light falling with an exclusive optical selection."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I look at him quite impartially, and I see that he has some notions—that he has set things on foot—which I can turn to good public purpose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impartial manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impartial manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"This was the substance of the letter, written throughout with a justice and a dignity as if he were indeed my responsible guardian impartially representing the proposal of a friend against whom in his integrity he stated the full case."*
+> - 📜 **George Eliot (*Middlemarch*):** *"It is demonstrable that the scratches are going everywhere impartially and it is only your candle which produces the flattering illusion of a concentric arrangement, its light falling with an exclusive optical selection."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I look at him quite impartially, and I see that he has some notions—that he has set things on foot—which I can turn to good public purpose."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # epileptic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, affected with, or having the characteristics of epilepsy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to control or prevent seizures associated with epilepsy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A plague upon your epileptic visage!"*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The bearded Hebrew, like a firebrand, possibly epileptic, not quite sane, had he at one time been brought up to the sea?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Both generals are angry, and the result is a challenge on Buxhöwden’s part and an epileptic fit on Bennigsen’s."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, affected with, or having the characteristics of epilepsy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to control or prevent seizures associated with epilepsy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A plague upon your epileptic visage!"*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The bearded Hebrew, like a firebrand, possibly epileptic, not quite sane, had he at one time been brought up to the sea?"*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Both generals are angry, and the result is a challenge on Buxhöwden’s part and an epileptic fit on Bennigsen’s."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # humourous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of or characterized by humor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of or characterized by humor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"FRANCIS BEAUMONT Born 1584 Died 1616 JOHN FLETCHER Born 1579 Died 1625 THE ELDER BROTHER THE SPANISH CURATE WIT WITHOUT MONEY BEGGARS BUSH THE HUMOUROUS LIEUTENANT THE FAITHFUL SHEPHERDESS THE TEXT EDITED BY ARNOLD GLOVER, M.A."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Could I have preserved the picturesque force of his style, and the humourous colouring which nature taught him how to throw over his descriptions, the result, I honestly believe, would have been something new in literature."*
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"I smiled at the notion; it seemed to me at the time to be humourous; and I made my preparations with the most studious care."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of or characterized by humor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of or characterized by humor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Fletcher (*The Elder Brother*):** *"FRANCIS BEAUMONT Born 1584 Died 1616 JOHN FLETCHER Born 1579 Died 1625 THE ELDER BROTHER THE SPANISH CURATE WIT WITHOUT MONEY BEGGARS BUSH THE HUMOUROUS LIEUTENANT THE FAITHFUL SHEPHERDESS THE TEXT EDITED BY ARNOLD GLOVER, M.A."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Could I have preserved the picturesque force of his style, and the humourous colouring which nature taught him how to throw over his descriptions, the result, I honestly believe, would have been something new in literature."*
+> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"I smiled at the notion; it seemed to me at the time to be humourous; and I made my preparations with the most studious care."*

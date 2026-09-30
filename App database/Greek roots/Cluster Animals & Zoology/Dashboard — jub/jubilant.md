@@ -5,15 +5,6 @@ status: unread
 ---
 # jubilant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressing great joy : exultant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or expressing great joy : exultant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"With a loud and jubilant song he joined his brothers and sisters."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It is dragged by means of a chain, to which scores of jubilant youths readily yoke themselves."*
-> - 📜 **Effie Afton (*Eventide*):** *"But, notwithstanding all the fatigues and hardships of the way, the party were in jubilant spirits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressing great joy : exultant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or expressing great joy : exultant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"With a loud and jubilant song he joined his brothers and sisters."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It is dragged by means of a chain, to which scores of jubilant youths readily yoke themselves."*
+> - 📜 **Effie Afton (*Eventide*):** *"But, notwithstanding all the fatigues and hardships of the way, the party were in jubilant spirits."*

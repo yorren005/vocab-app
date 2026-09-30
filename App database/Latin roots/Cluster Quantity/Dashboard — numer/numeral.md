@@ -5,15 +5,6 @@ status: unread
 ---
 # numeral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A symbol used to represent a number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or denoting numbers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Part 1*):** *"E._ _July_ 17. 1713. _numeral "3" unclear_"*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"FLOWER POT OF CHÜN CHOU WARE OF THE SUNG DYNASTY (_Colour_) 112 Grey porcellanous body: olive brown glaze under the base and the numeral _shih_ (ten) incised. _Eumorfopoulos Collection._ 36."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The base is glazed with olive brown and incised with the numeral _san_ (three). _Alexander Collection._ Fig. 2.--Bowl of Chün type, with close-grained porcellanous body of yellowish colour."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A symbol used to represent a number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or denoting numbers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Part 1*):** *"E._ _July_ 17. 1713. _numeral "3" unclear_"*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"FLOWER POT OF CHÜN CHOU WARE OF THE SUNG DYNASTY (_Colour_) 112 Grey porcellanous body: olive brown glaze under the base and the numeral _shih_ (ten) incised. _Eumorfopoulos Collection._ 36."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The base is glazed with olive brown and incised with the numeral _san_ (three). _Alexander Collection._ Fig. 2.--Bowl of Chün type, with close-grained porcellanous body of yellowish colour."*

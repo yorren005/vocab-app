@@ -5,15 +5,6 @@ status: unread
 ---
 # gramme
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of weight equal to one thousandth of a kilogram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of weight equal to one thousandth of a kilogram.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In a thousand grammes are found 96½ per cent. of water, and about 2-2/3 per cent. of chloride of sodium; then, in a smaller quantity, chlorides of magnesium and of potassium, bromide of magnesium, sulphate of magnesia, sulphate and carbonate of lime."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The heaviest soul ever given out weighs about ten grammes."*
-> - 📜 **James Joyce (*Ulysses*):** *"Twelve grammes one pennyweight."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of weight equal to one thousandth of a kilogram.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metric unit of weight equal to one thousandth of a kilogram.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"In a thousand grammes are found 96½ per cent. of water, and about 2-2/3 per cent. of chloride of sodium; then, in a smaller quantity, chlorides of magnesium and of potassium, bromide of magnesium, sulphate of magnesia, sulphate and carbonate of lime."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The heaviest soul ever given out weighs about ten grammes."*
+> - 📜 **James Joyce (*Ulysses*):** *"Twelve grammes one pennyweight."*

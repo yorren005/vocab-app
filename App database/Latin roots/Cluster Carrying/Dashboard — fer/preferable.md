@@ -5,15 +5,6 @@ status: unread
 ---
 # preferable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: More desirable than another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: More desirable than another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Perhaps a cloister would be preferable.” “A cloister!"*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"She could almost think anything would have been preferable to this."*
-> - 📜 **George Eliot (*Middlemarch*):** *"However slight the terrestrial intercourse between Dante and Beatrice or Petrarch and Laura, time changes the proportion of things, and in later days it is preferable to have fewer sonnets and more conversation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: More desirable than another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: More desirable than another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Perhaps a cloister would be preferable.” “A cloister!"*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"She could almost think anything would have been preferable to this."*
+> - 📜 **George Eliot (*Middlemarch*):** *"However slight the terrestrial intercourse between Dante and Beatrice or Petrarch and Laura, time changes the proportion of things, and in later days it is preferable to have fewer sonnets and more conversation."*

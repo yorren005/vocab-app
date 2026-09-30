@@ -5,14 +5,6 @@ status: unread
 ---
 # crimea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ukrainian peninsula between the black sea and the sea of azov.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ukrainian peninsula between the black sea and the sea of azov.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She at once foresaw that there would be need of the same heroic work on the part of the women of the country as that performed by Florence Nightingale and her army of women nurses in the Crimea, and with her father's approval she consulted with Dr."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In a suffering and weary voice he was saying something to Tíkhon, speaking of the Crimea and its warm nights and of the Empress."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ukrainian peninsula between the black sea and the sea of azov.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ukrainian peninsula between the black sea and the sea of azov.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She at once foresaw that there would be need of the same heroic work on the part of the women of the country as that performed by Florence Nightingale and her army of women nurses in the Crimea, and with her father's approval she consulted with Dr."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In a suffering and weary voice he was saying something to Tíkhon, speaking of the Crimea and its warm nights and of the Empress."*

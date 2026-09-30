@@ -5,13 +5,6 @@ status: unread
 ---
 # medick
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several old world herbs of the genus medicago having small flowers and trifoliate compound leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several old world herbs of the genus medicago having small flowers and trifoliate compound leaves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, medick designates any of several old world herbs of the genus medicago having small flowers and trifoliate compound leaves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several old world herbs of the genus medicago having small flowers and trifoliate compound leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several old world herbs of the genus medicago having small flowers and trifoliate compound leaves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, medick designates any of several old world herbs of the genus medicago having small flowers and trifoliate compound leaves."*

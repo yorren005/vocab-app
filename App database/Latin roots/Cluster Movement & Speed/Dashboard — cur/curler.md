@@ -5,15 +5,6 @@ status: unread
 ---
 # curler
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device consisting of a cylindrical tube around which the hair is wound to curl it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical device consisting of a cylindrical tube around which the hair is wound to curl it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Curler, one who plays at curling."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"When Winter muffles up his cloak, And binds the mire like a rock; When to the loughs the curlers flock, Wi’ gleesome speed, Wha will they station at the cock?"*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Aunty, meanwhile, was distributing her weight evenly between the toes of the Irish gentleman and those of his daughter, as she leaned out of the window to converse with a lady friend in a straw hat and hair curlers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device consisting of a cylindrical tube around which the hair is wound to curl it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical device consisting of a cylindrical tube around which the hair is wound to curl it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Curler, one who plays at curling."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"When Winter muffles up his cloak, And binds the mire like a rock; When to the loughs the curlers flock, Wi’ gleesome speed, Wha will they station at the cock?"*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Aunty, meanwhile, was distributing her weight evenly between the toes of the Irish gentleman and those of his daughter, as she leaned out of the window to converse with a lady friend in a straw hat and hair curlers."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # previously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At an earlier time or formerly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At an earlier time or formerly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Much discomposed in her nerves (which were previously in the best order) by this threat, she so fearfully mutilates that point of state as to announce “Mr. and Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Caddy had previously stolen upstairs to hug the children again and tell them that her name was Turveydrop."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We found it quieter than I had previously seen it, though quite as miserable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At an earlier time or formerly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At an earlier time or formerly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Much discomposed in her nerves (which were previously in the best order) by this threat, she so fearfully mutilates that point of state as to announce “Mr. and Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Caddy had previously stolen upstairs to hug the children again and tell them that her name was Turveydrop."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"We found it quieter than I had previously seen it, though quite as miserable."*

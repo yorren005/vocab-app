@@ -5,15 +5,6 @@ status: unread
 ---
 # operate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Direct or control; projects, businesses, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform as expected when applied.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Words, words, mere words, no matter from the heart; Th’effect doth operate another way. [_Tearing the letter_.] Go, wind, to wind, there turn and change together."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"What would happen when new gold mines were found that were much easier to operate, and gold began to be produced at a much more rapid rate than formerly?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To maintain and operate the various parts of the social machinery requires ever increasing governmental revenues."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Direct or control; projects, businesses, etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform as expected when applied.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Words, words, mere words, no matter from the heart; Th’effect doth operate another way. [_Tearing the letter_.] Go, wind, to wind, there turn and change together."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"What would happen when new gold mines were found that were much easier to operate, and gold began to be produced at a much more rapid rate than formerly?"*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To maintain and operate the various parts of the social machinery requires ever increasing governmental revenues."*

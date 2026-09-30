@@ -5,13 +5,6 @@ status: unread
 ---
 # cardinalship
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The office of cardinal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office of cardinal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardinalship designates the office of cardinal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office of cardinal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office of cardinal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardinalship designates the office of cardinal."*

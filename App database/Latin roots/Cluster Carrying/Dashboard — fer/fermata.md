@@ -5,13 +5,6 @@ status: unread
 ---
 # fermata
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical notation (over a note or chord or rest) that indicates it is to be prolonged by an unspecified amount.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) a prolongation of unspecified length on a note or chord or rest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fermata designates a musical notation (over a note or chord or rest) that indicates it is to be prolonged by an unspecified amount."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical notation (over a note or chord or rest) that indicates it is to be prolonged by an unspecified amount.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) a prolongation of unspecified length on a note or chord or rest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fermata designates a musical notation (over a note or chord or rest) that indicates it is to be prolonged by an unspecified amount."*

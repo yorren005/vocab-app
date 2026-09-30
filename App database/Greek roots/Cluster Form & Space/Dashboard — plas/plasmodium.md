@@ -5,13 +5,6 @@ status: unread
 ---
 # plasmodium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Multinucleate sheet of cytoplasm characteristic of some stages of such organisms as slime molds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasitic protozoan of the genus plasmodium that causes malaria in humans.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmodium designates multinucleate sheet of cytoplasm characteristic of some stages of such organisms as slime molds."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Multinucleate sheet of cytoplasm characteristic of some stages of such organisms as slime molds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasitic protozoan of the genus plasmodium that causes malaria in humans.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmodium designates multinucleate sheet of cytoplasm characteristic of some stages of such organisms as slime molds."*

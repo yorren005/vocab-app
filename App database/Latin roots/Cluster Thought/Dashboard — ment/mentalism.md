@@ -5,13 +5,6 @@ status: unread
 ---
 # mentalism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) a doctrine that mind is the true reality and that objects exist only as aspects of the mind's awareness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) a doctrine that mind is the true reality and that objects exist only as aspects of the mind's awareness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mentalism designates (philosophy) a doctrine that mind is the true reality and that objects exist only as aspects of the mind's awareness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) a doctrine that mind is the true reality and that objects exist only as aspects of the mind's awareness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) a doctrine that mind is the true reality and that objects exist only as aspects of the mind's awareness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mentalism designates (philosophy) a doctrine that mind is the true reality and that objects exist only as aspects of the mind's awareness."*

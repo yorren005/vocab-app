@@ -5,15 +5,6 @@ status: unread
 ---
 # stygian
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hellish; - milton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dark and dismal as of the rivers acheron and styx in hades; ; -wordsworth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I stalk about her door Like a strange soul upon the Stygian banks Staying for waftage."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Him followed his next Mate, Both glorying to have scap’t the _Stygian_ flood As Gods, and by their own recover’d strength, Not by the sufferance of supernal Power."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Him followed his next mate; Both glorying to have scaped the Stygian flood As gods, and by their own recovered strength, Not by the sufferance of supernal Power."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hellish; - milton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dark and dismal as of the rivers acheron and styx in hades; ; -wordsworth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I stalk about her door Like a strange soul upon the Stygian banks Staying for waftage."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Him followed his next Mate, Both glorying to have scap’t the _Stygian_ flood As Gods, and by their own recover’d strength, Not by the sufferance of supernal Power."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Him followed his next mate; Both glorying to have scaped the Stygian flood As gods, and by their own recovered strength, Not by the sufferance of supernal Power."*

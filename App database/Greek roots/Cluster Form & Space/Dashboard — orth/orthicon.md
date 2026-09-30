@@ -5,13 +5,6 @@ status: unread
 ---
 # orthicon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A now obsolete picture pickup tube in a television camera; electrons emitted from a photoemissive surface in proportion to the intensity of the incident light are focused onto the target causing secondary emission of electrons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A now obsolete picture pickup tube in a television camera; electrons emitted from a photoemissive surface in proportion to the intensity of the incident light are focused onto the target causing secondary emission of electrons.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthicon designates a now obsolete picture pickup tube in a television camera; electrons emitted from a photoemissive surface in proportion to the intensity of the incident light are focused onto the target causing secondary emission of electrons."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A now obsolete picture pickup tube in a television camera; electrons emitted from a photoemissive surface in proportion to the intensity of the incident light are focused onto the target causing secondary emission of electrons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A now obsolete picture pickup tube in a television camera; electrons emitted from a photoemissive surface in proportion to the intensity of the incident light are focused onto the target causing secondary emission of electrons.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthicon designates a now obsolete picture pickup tube in a television camera; electrons emitted from a photoemissive surface in proportion to the intensity of the incident light are focused onto the target causing secondary emission of electrons."*

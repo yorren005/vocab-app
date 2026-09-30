@@ -5,15 +5,6 @@ status: unread
 ---
 # apostasy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of refusing to continue to follow, obey, or recognize a religious faith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abandonment of a previous loyalty : defection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This was what he had got by apostasy, and his punishment was deserved."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"And the whole life reacts on him and we can see him, lean and worn, though still a young man, a keen, rather excitable spirit--in every feature the marks of revolt against a civilization which he views as an apostasy."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Christians fell into adultery and apostasy, and while at first this meant "delivery to Satan," restoration became progressively easy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of refusing to continue to follow, obey, or recognize a religious faith.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abandonment of a previous loyalty : defection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This was what he had got by apostasy, and his punishment was deserved."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"And the whole life reacts on him and we can see him, lean and worn, though still a young man, a keen, rather excitable spirit--in every feature the marks of revolt against a civilization which he views as an apostasy."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Christians fell into adultery and apostasy, and while at first this meant "delivery to Satan," restoration became progressively easy."*

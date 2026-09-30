@@ -5,13 +5,6 @@ status: unread
 ---
 # ecumenism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ecumenical principles and practices especially as shown among religious groups (such as Christian denominations).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ecumenical principles and practices especially as shown among religious groups (such as Christian denominations).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecumenism designates ecumenical principles and practices especially as shown among religious groups (such as christian denominations)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ecumenical principles and practices especially as shown among religious groups (such as Christian denominations).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ecumenical principles and practices especially as shown among religious groups (such as Christian denominations).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecumenism designates ecumenical principles and practices especially as shown among religious groups (such as christian denominations)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # factual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing in act or fact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characterized by facts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Don Peterson (*The White Feather Hex*):** *"I have traced it down to several families, but none could tell me anything about it that was factual."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing in act or fact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characterized by facts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Don Peterson (*The White Feather Hex*):** *"I have traced it down to several families, but none could tell me anything about it that was factual."*

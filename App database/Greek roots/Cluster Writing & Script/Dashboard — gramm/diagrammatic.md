@@ -5,13 +5,6 @@ status: unread
 ---
 # diagrammatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic design that explains rather than represents; especially : a drawing that shows arrangement and relations (as of parts).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line drawing made for mathematical or scientific purposes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diagrammatic designates a graphic design that explains rather than represents; especially : a drawing that shows arrangement and relations (as of parts)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic design that explains rather than represents; especially : a drawing that shows arrangement and relations (as of parts).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line drawing made for mathematical or scientific purposes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diagrammatic designates a graphic design that explains rather than represents; especially : a drawing that shows arrangement and relations (as of parts)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # pentimento
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The reappearance in a painting of an underlying image that had been painted over (usually when the later painting becomes transparent with age).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The reappearance in a painting of an underlying image that had been painted over (usually when the later painting becomes transparent with age).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentimento designates the reappearance in a painting of an underlying image that had been painted over (usually when the later painting becomes transparent with age)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The reappearance in a painting of an underlying image that had been painted over (usually when the later painting becomes transparent with age).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The reappearance in a painting of an underlying image that had been painted over (usually when the later painting becomes transparent with age).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentimento designates the reappearance in a painting of an underlying image that had been painted over (usually when the later painting becomes transparent with age)."*

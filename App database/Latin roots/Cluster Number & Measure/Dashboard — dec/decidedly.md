@@ -5,15 +5,6 @@ status: unread
 ---
 # decidedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without question and beyond doubt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without question and beyond doubt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But the mother now explained decidedly to the little girl that she never needed to undertake such actions in the future as she could not possibly judge which clothes she still needed and which could be given away."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I feel decidedly that too much fuss is made about the grandmother and the child."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Why are you trying to bring me back to life again?" "This is what I decidedly mean to do, so we shall banish the subject of death from now on, as I confidently believe that our Lord in Heaven has other plans for you," Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without question and beyond doubt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without question and beyond doubt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But the mother now explained decidedly to the little girl that she never needed to undertake such actions in the future as she could not possibly judge which clothes she still needed and which could be given away."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I feel decidedly that too much fuss is made about the grandmother and the child."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Why are you trying to bring me back to life again?" "This is what I decidedly mean to do, so we shall banish the subject of death from now on, as I confidently believe that our Lord in Heaven has other plans for you," Mrs."*

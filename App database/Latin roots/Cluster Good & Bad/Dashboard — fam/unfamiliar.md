@@ -5,15 +5,6 @@ status: unread
 ---
 # unfamiliar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not known or well known.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not known or well known.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"To shuffle through the streets, unfamiliar with the shapes, and in utter darkness as to the meaning, of those mysterious symbols, so abundant over the shops, and at the corners of streets, and on the doors, and in the windows!"*
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Interim The room is full of you!--As I came in And closed the door behind me, all at once A something in the air, intangible, Yet stiff with meaning, struck my senses sick!-- Sharp, unfamiliar odors have destroyed Each other room's dear personality."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He had neither map nor compass and was unfamiliar with the lie of the land, but, mindful of the station master's directions to go south and turn twice to the left, he shaped a course south-east and looked for a shepherd to ask his way of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not known or well known.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not known or well known.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"To shuffle through the streets, unfamiliar with the shapes, and in utter darkness as to the meaning, of those mysterious symbols, so abundant over the shops, and at the corners of streets, and on the doors, and in the windows!"*
+> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Interim The room is full of you!--As I came in And closed the door behind me, all at once A something in the air, intangible, Yet stiff with meaning, struck my senses sick!-- Sharp, unfamiliar odors have destroyed Each other room's dear personality."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"He had neither map nor compass and was unfamiliar with the lie of the land, but, mindful of the station master's directions to go south and turn twice to the left, he shaped a course south-east and looked for a shepherd to ask his way of."*

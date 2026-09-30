@@ -5,15 +5,6 @@ status: unread
 ---
 # armament
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weaponry used by military or naval force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of equiping with weapons in preparation for war.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I want both of you to board the Sandbox and check all installed armament that can be directed against our fleet."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Whatever it is you do, fix their armament controls so that it'll take them at least fifteen hours to get them back on line."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If they don't cooperate, I'm for back to the Dragon and let our guns talk for us." "Listen, Scarf," Brad said, exasperated, "our job is to disable the armament, not destroy the ship."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Weaponry used by military or naval force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of equiping with weapons in preparation for war.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I want both of you to board the Sandbox and check all installed armament that can be directed against our fleet."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Whatever it is you do, fix their armament controls so that it'll take them at least fifteen hours to get them back on line."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If they don't cooperate, I'm for back to the Dragon and let our guns talk for us." "Listen, Scarf," Brad said, exasperated, "our job is to disable the armament, not destroy the ship."*

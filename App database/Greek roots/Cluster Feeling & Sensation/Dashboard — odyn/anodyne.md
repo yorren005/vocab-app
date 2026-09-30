@@ -5,15 +5,6 @@ status: unread
 ---
 # anodyne
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to alleviate pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not likely to offend or arouse tensions : innocuous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The air was heavy with the perfume of the flowers, and their beauty seemed to bring him an anodyne for his pain."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I was not even permitted the anodyne of work."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Those who have been under her immediate care, will understand me when I say there is healing in the touch of her hand, and anodyne in the low melody of her voice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to alleviate pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not likely to offend or arouse tensions : innocuous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The air was heavy with the perfume of the flowers, and their beauty seemed to bring him an anodyne for his pain."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I was not even permitted the anodyne of work."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Those who have been under her immediate care, will understand me when I say there is healing in the touch of her hand, and anodyne in the low melody of her voice."*

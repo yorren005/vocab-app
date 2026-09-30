@@ -5,15 +5,6 @@ status: unread
 ---
 # lunar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or associated with the moon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or associated with the moon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Schoolcraft did not know the date of the ceremony, but he conjectured that it fell at the end of the Iroquois year, which was a lunar year of twelve or thirteen months."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"That I could have been at our old church in my old church-going clothes, on the very last Sunday that ever was, seemed a combination of impossibilities, geographical and social, solar and lunar."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Is it six calendar or six lunar months?” “It is the last day of September now, and it was the first of April when uncle gave them to you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or associated with the moon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or associated with the moon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Schoolcraft did not know the date of the ceremony, but he conjectured that it fell at the end of the Iroquois year, which was a lunar year of twelve or thirteen months."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"That I could have been at our old church in my old church-going clothes, on the very last Sunday that ever was, seemed a combination of impossibilities, geographical and social, solar and lunar."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Is it six calendar or six lunar months?” “It is the last day of September now, and it was the first of April when uncle gave them to you."*

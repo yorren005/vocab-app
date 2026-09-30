@@ -5,14 +5,6 @@ status: unread
 ---
 # convoke
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Call together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Call together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Jove, in great concern, convokes a council in the Milky Way."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"April 29th, the provisional congress, which had adjourned March 16th, reassembled at Montgomery, having been convoked by President Davis in consequence of President Lincoln’s preparations to enforce federal authority in the South."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Call together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Call together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Jove, in great concern, convokes a council in the Milky Way."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"April 29th, the provisional congress, which had adjourned March 16th, reassembled at Montgomery, having been convoked by President Davis in consequence of President Lincoln’s preparations to enforce federal authority in the South."*

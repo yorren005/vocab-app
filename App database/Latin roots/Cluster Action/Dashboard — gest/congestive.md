@@ -5,13 +5,6 @@ status: unread
 ---
 # congestive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affected by an abnormal collection of blood or other fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affected by an abnormal collection of blood or other fluid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Not matter, but Mind If exposure to a draught of air while in a state of perspiration is followed by chills, dry cough, influenza, 384:18 congestive symptoms in the lungs, or hints of inflammatory rheumatism, your Mind-remedy is safe and sure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affected by an abnormal collection of blood or other fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affected by an abnormal collection of blood or other fluid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Not matter, but Mind If exposure to a draught of air while in a state of perspiration is followed by chills, dry cough, influenza, 384:18 congestive symptoms in the lungs, or hints of inflammatory rheumatism, your Mind-remedy is safe and sure."*

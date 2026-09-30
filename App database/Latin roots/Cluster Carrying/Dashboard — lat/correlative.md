@@ -5,13 +5,6 @@ status: unread
 ---
 # correlative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two or more related or complementary variables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mutually related.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, correlative designates either of two or more related or complementary variables."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two or more related or complementary variables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mutually related.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, correlative designates either of two or more related or complementary variables."*

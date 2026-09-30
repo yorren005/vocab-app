@@ -5,15 +5,6 @@ status: unread
 ---
 # aquatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that lives in or on water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or consisting of or being in water.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"For some days we saw a great number of aquatic birds, sea-mews or gulls."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"As to the fish, they always provoked our admiration when we surprised the secrets of their aquatic life through the open panels."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"It is said that the Aymara Indians often make little images of frogs and other aquatic animals and place them on the tops of the hills as a means of bringing down rain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that lives in or on water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or consisting of or being in water.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"For some days we saw a great number of aquatic birds, sea-mews or gulls."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"As to the fish, they always provoked our admiration when we surprised the secrets of their aquatic life through the open panels."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"It is said that the Aymara Indians often make little images of frogs and other aquatic animals and place them on the tops of the hills as a means of bringing down rain."*

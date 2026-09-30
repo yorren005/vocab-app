@@ -5,15 +5,6 @@ status: unread
 ---
 # contemptible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving of contempt or scorn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving of contempt or scorn.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Heaven and our Lady gracious hath it pleased To shine on my contemptible estate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She doth well: if she should make tender of her love, ’tis very possible he’ll scorn it; for the man,—as you know all,—hath a contemptible spirit."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It had softened him that his mother had found the Knippel boys' behaviour contemptible and that she had not excused them in the least."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving of contempt or scorn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving of contempt or scorn.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Heaven and our Lady gracious hath it pleased To shine on my contemptible estate."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She doth well: if she should make tender of her love, ’tis very possible he’ll scorn it; for the man,—as you know all,—hath a contemptible spirit."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It had softened him that his mother had found the Knippel boys' behaviour contemptible and that she had not excused them in the least."*

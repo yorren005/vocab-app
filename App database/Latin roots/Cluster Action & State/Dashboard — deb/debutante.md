@@ -5,13 +5,6 @@ status: unread
 ---
 # debutante
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young woman making her debut into society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young woman making her debut into society.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It was good to see this courteous, silent man literally at the feet of the young debutante."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A young woman making her debut into society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young woman making her debut into society.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It was good to see this courteous, silent man literally at the feet of the young debutante."*

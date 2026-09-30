@@ -5,15 +5,6 @@ status: unread
 ---
 # inflation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A general and progressive increase in prices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (cosmology) a brief exponential expansion of the universe (faster than the speed of light) postulated to have occurred shortly after the big bang.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The increase in the output of gold in 1849-57,[15] caused what was the most rapid, if not the greatest money inflation that had occurred since the sixteenth century."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The issue of government paper money years before, leading to inflation and speculation, was by many believed to be the cause of the crisis of 1873."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But it is clear that these rhythmic price changes occurring in the business cycle are not due to the same causes as are the general movements of the price level, due to an increasing or decreasing output of gold or again to a paper money inflation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A general and progressive increase in prices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (cosmology) a brief exponential expansion of the universe (faster than the speed of light) postulated to have occurred shortly after the big bang.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The increase in the output of gold in 1849-57,[15] caused what was the most rapid, if not the greatest money inflation that had occurred since the sixteenth century."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The issue of government paper money years before, leading to inflation and speculation, was by many believed to be the cause of the crisis of 1873."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But it is clear that these rhythmic price changes occurring in the business cycle are not due to the same causes as are the general movements of the price level, due to an increasing or decreasing output of gold or again to a paper money inflation."*

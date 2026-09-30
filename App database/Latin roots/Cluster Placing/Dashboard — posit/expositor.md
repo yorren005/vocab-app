@@ -5,15 +5,6 @@ status: unread
 ---
 # expositor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who explains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who explains.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Here and there are incorporated passages (rehandled) from articles that have appeared in The Constructive Quarterly, The Nation, The Expositor, and elsewhere."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Let the most scrupulous expositors of delegated powers; let the most inveterate objectors against those exercised by the convention, answer these questions."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"His works are full of references to philosophy and philosophers, and he leaves us in no doubt as to his counting himself a disciple of Plato; his commentaries on Platonic doctrines give him a place in the long series of Plato's expositors."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who explains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who explains.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Here and there are incorporated passages (rehandled) from articles that have appeared in The Constructive Quarterly, The Nation, The Expositor, and elsewhere."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Let the most scrupulous expositors of delegated powers; let the most inveterate objectors against those exercised by the convention, answer these questions."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"His works are full of references to philosophy and philosophers, and he leaves us in no doubt as to his counting himself a disciple of Plato; his commentaries on Platonic doctrines give him a place in the long series of Plato's expositors."*

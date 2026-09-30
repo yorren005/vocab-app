@@ -5,15 +5,6 @@ status: unread
 ---
 # plataea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A former town in boeotia; site of a battle between the greeks and persians in 479 bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A defeat of the persian army by the greeks at plataea in 479 bc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Every few years the people of Plataea, in Boeotia, held a festival called the Little Daedala, at which they felled an oak-tree in an ancient oak forest."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Archon of Plataea might not touch iron; but once a year, at the annual commemoration of the men who fell at the battle of Plataea, he was allowed to carry a sword wherewith to sacrifice a bull."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Long years of faction and war, as he himself says, had depopulated Greece, and the whole land could hardly furnish now the three thousand hoplites that four centuries before Megara alone had sent to Plataea."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former town in boeotia; site of a battle between the greeks and persians in 479 bc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A defeat of the persian army by the greeks at plataea in 479 bc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Every few years the people of Plataea, in Boeotia, held a festival called the Little Daedala, at which they felled an oak-tree in an ancient oak forest."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Archon of Plataea might not touch iron; but once a year, at the annual commemoration of the men who fell at the battle of Plataea, he was allowed to carry a sword wherewith to sacrifice a bull."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Long years of faction and war, as he himself says, had depopulated Greece, and the whole land could hardly furnish now the three thousand hoplites that four centuries before Megara alone had sent to Plataea."*

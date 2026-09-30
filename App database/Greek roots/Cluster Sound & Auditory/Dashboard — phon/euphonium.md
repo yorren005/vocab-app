@@ -5,13 +5,6 @@ status: unread
 ---
 # euphonium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bass horn (brass wind instrument) that is the tenor of the tuba family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bass horn (brass wind instrument) that is the tenor of the tuba family.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euphonium designates a bass horn (brass wind instrument) that is the tenor of the tuba family."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bass horn (brass wind instrument) that is the tenor of the tuba family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bass horn (brass wind instrument) that is the tenor of the tuba family.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euphonium designates a bass horn (brass wind instrument) that is the tenor of the tuba family."*

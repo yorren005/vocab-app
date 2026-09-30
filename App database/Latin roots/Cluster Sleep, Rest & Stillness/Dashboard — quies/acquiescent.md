@@ -5,15 +5,6 @@ status: unread
 ---
 # acquiescent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Willing to carry out the orders or wishes of another without protest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willing to carry out the orders or wishes of another without protest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Conversational and acquiescent on both sides."*
-> - 📜 **George Eliot (*Middlemarch*):** *"It was hardly a year since they had come to live at Tipton Grange with their uncle, a man nearly sixty, of acquiescent temper, miscellaneous opinions, and uncertain vote."*
-> - 📜 **Grant Allen (*Michael's Crag*):** *"Who indeed?" she said, acquiescent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Willing to carry out the orders or wishes of another without protest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willing to carry out the orders or wishes of another without protest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Conversational and acquiescent on both sides."*
+> - 📜 **George Eliot (*Middlemarch*):** *"It was hardly a year since they had come to live at Tipton Grange with their uncle, a man nearly sixty, of acquiescent temper, miscellaneous opinions, and uncertain vote."*
+> - 📜 **Grant Allen (*Michael's Crag*):** *"Who indeed?" she said, acquiescent."*

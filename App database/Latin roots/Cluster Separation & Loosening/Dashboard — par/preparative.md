@@ -5,15 +5,6 @@ status: unread
 ---
 # preparative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preceding and preparing for something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preceding and preparing for something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But almost everybody supposed that this particular preparative heedfulness in Ahab must only be with a view to the ultimate chase of Moby Dick; for he had already revealed his intention to hunt that mortal monster in person."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"To an American visiting Europe, the long voyage he has to make is an excellent preparative."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But almost everybody supposed that this particular preparative heedfulness in Ahab must only be with a view to the ultimate chase of Moby Dick; for he had already revealed his intention to hunt that mortal monster in person."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preceding and preparing for something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preceding and preparing for something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But almost everybody supposed that this particular preparative heedfulness in Ahab must only be with a view to the ultimate chase of Moby Dick; for he had already revealed his intention to hunt that mortal monster in person."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"To an American visiting Europe, the long voyage he has to make is an excellent preparative."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But almost everybody supposed that this particular preparative heedfulness in Ahab must only be with a view to the ultimate chase of Moby Dick; for he had already revealed his intention to hunt that mortal monster in person."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # locum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone (physician or clergyman) who substitutes temporarily for another member of the same profession.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone (physician or clergyman) who substitutes temporarily for another member of the same profession.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He had accepted an appointment as _locum tenens_ for four weeks in an English Independent chapel at Hamburg, which delayed his arrival at Berlin until after the winter _semester_ had commenced."*
-> - 📜 **James Joyce (*Ulysses*):** *"And old Barlow the macebearer laid up with asthma, no mace on the table, nothing in order, no quorum even, and Hutchinson, the lord mayor, in Llandudno and little Lorcan Sherlock doing _locum tenens_ for him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone (physician or clergyman) who substitutes temporarily for another member of the same profession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone (physician or clergyman) who substitutes temporarily for another member of the same profession.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"He had accepted an appointment as _locum tenens_ for four weeks in an English Independent chapel at Hamburg, which delayed his arrival at Berlin until after the winter _semester_ had commenced."*
+> - 📜 **James Joyce (*Ulysses*):** *"And old Barlow the macebearer laid up with asthma, no mace on the table, nothing in order, no quorum even, and Hutchinson, the lord mayor, in Llandudno and little Lorcan Sherlock doing _locum tenens_ for him."*

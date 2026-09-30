@@ -5,13 +5,6 @@ status: unread
 ---
 # classicize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make classic or classical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make classic or classical.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, classicize designates make classic or classical."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make classic or classical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make classic or classical.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, classicize designates make classic or classical."*

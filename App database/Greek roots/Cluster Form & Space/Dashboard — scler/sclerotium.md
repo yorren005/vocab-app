@@ -5,13 +5,6 @@ status: unread
 ---
 # sclerotium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compact mass of hardened mycelium stored with reserve food material that in some higher fungi becomes detached and remains dormant until a favorable opportunity for growth occurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compact mass of hardened mycelium stored with reserve food material that in some higher fungi becomes detached and remains dormant until a favorable opportunity for growth occurs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerotium designates a compact mass of hardened mycelium stored with reserve food material that in some higher fungi becomes detached and remains dormant until a favorable opportunity for growth occurs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compact mass of hardened mycelium stored with reserve food material that in some higher fungi becomes detached and remains dormant until a favorable opportunity for growth occurs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compact mass of hardened mycelium stored with reserve food material that in some higher fungi becomes detached and remains dormant until a favorable opportunity for growth occurs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerotium designates a compact mass of hardened mycelium stored with reserve food material that in some higher fungi becomes detached and remains dormant until a favorable opportunity for growth occurs."*

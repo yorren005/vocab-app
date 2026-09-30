@@ -5,14 +5,6 @@ status: unread
 ---
 # underhung
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supported from below especially resting on a track instead of suspended from above.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a lower part projecting beyond the upper.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So was his face square, wide between the cheekbones, underhung with massive jaws, and topped with a broad, intelligent forehead."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"His jaw was underhung, and when he laughed, two white buck-teeth protruded themselves and glistened savagely in the midst of the grin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Supported from below especially resting on a track instead of suspended from above.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a lower part projecting beyond the upper.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So was his face square, wide between the cheekbones, underhung with massive jaws, and topped with a broad, intelligent forehead."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"His jaw was underhung, and when he laughed, two white buck-teeth protruded themselves and glistened savagely in the midst of the grin."*

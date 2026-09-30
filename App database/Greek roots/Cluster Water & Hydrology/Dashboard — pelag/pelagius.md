@@ -5,13 +5,6 @@ status: unread
 ---
 # pelagius
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A british or irish monk who denied the doctrines of original sin and predestination and defended human goodness and free will; his views were declared heretical by the council of ephesus in 431 (circa 360-418).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A british or irish monk who denied the doctrines of original sin and predestination and defended human goodness and free will; his views were declared heretical by the council of ephesus in 431 (circa 360-418).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pelagius designates a british or irish monk who denied the doctrines of original sin and predestination and defended human goodness and free will; his views were declared heretical by the council of ephesus in 431 (circa 360-418)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A british or irish monk who denied the doctrines of original sin and predestination and defended human goodness and free will; his views were declared heretical by the council of ephesus in 431 (circa 360-418).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A british or irish monk who denied the doctrines of original sin and predestination and defended human goodness and free will; his views were declared heretical by the council of ephesus in 431 (circa 360-418).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pelagius designates a british or irish monk who denied the doctrines of original sin and predestination and defended human goodness and free will; his views were declared heretical by the council of ephesus in 431 (circa 360-418)."*

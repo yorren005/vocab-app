@@ -5,13 +5,6 @@ status: unread
 ---
 # forty-fifth
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ordinal number of forty-five in counting order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordinal number of forty-five in counting order.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, forty-fifth designates the ordinal number of forty-five in counting order."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ordinal number of forty-five in counting order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordinal number of forty-five in counting order.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, forty-fifth designates the ordinal number of forty-five in counting order."*

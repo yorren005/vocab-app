@@ -5,13 +5,6 @@ status: unread
 ---
 # haematite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal form of iron ore; consists of ferric oxide in crystalline form; occurs in a red earthy form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principal form of iron ore; consists of ferric oxide in crystalline form; occurs in a red earthy form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematite designates the principal form of iron ore; consists of ferric oxide in crystalline form; occurs in a red earthy form."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal form of iron ore; consists of ferric oxide in crystalline form; occurs in a red earthy form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principal form of iron ore; consists of ferric oxide in crystalline form; occurs in a red earthy form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematite designates the principal form of iron ore; consists of ferric oxide in crystalline form; occurs in a red earthy form."*

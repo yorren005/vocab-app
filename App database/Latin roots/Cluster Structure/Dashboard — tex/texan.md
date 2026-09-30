@@ -5,15 +5,6 @@ status: unread
 ---
 # texan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of texas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of texas or its residents.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She might have added besides: “On an Australian upland or Texan plain, who is to know or care about my misfortunes, or to reproach me or you?” Yet, like the majority of women, she accepted the momentary presentment as if it were the inevitable."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Mexican War was the result of the colonization of Texan territory by American settlers and the desire of powerful interests to extend the area of land open to slavery."*
-> - 📜 **Effie Afton (*Eventide*):** *"Pshaw, girls! you'll both marry wild Texan rangers before two years," said the old gentleman, who was no less a personage than Esq."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of texas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of texas or its residents.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She might have added besides: “On an Australian upland or Texan plain, who is to know or care about my misfortunes, or to reproach me or you?” Yet, like the majority of women, she accepted the momentary presentment as if it were the inevitable."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Mexican War was the result of the colonization of Texan territory by American settlers and the desire of powerful interests to extend the area of land open to slavery."*
+> - 📜 **Effie Afton (*Eventide*):** *"Pshaw, girls! you'll both marry wild Texan rangers before two years," said the old gentleman, who was no less a personage than Esq."*

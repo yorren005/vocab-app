@@ -5,15 +5,6 @@ status: unread
 ---
 # latten
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brass (or a yellow alloy resembling brass) that was hammered into thin sheets; formerly used for church utensils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brass (or a yellow alloy resembling brass) that was hammered into thin sheets; formerly used for church utensils.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ha, thou mountain-foreigner!—Sir John and master mine, I combat challenge of this latten bilbo.— Word of denial in thy _labras_ here!"*
-> - 📜 **James Joyce (*Ulysses*):** *"I’ll make you dance Jack Latten for that."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Where <g>Latten</g> marked the abbots’ grave, And sculpture spread her trophies round it; Rank weeds in wild luxuriance wave, And mock the gaudy shrine that crowned it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brass (or a yellow alloy resembling brass) that was hammered into thin sheets; formerly used for church utensils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brass (or a yellow alloy resembling brass) that was hammered into thin sheets; formerly used for church utensils.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ha, thou mountain-foreigner!—Sir John and master mine, I combat challenge of this latten bilbo.— Word of denial in thy _labras_ here!"*
+> - 📜 **James Joyce (*Ulysses*):** *"I’ll make you dance Jack Latten for that."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Where <g>Latten</g> marked the abbots’ grave, And sculpture spread her trophies round it; Rank weeds in wild luxuriance wave, And mock the gaudy shrine that crowned it."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # odontology
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science dealing with the teeth, their structure and development, and their diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forensic odontology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, odontology designates a science dealing with the teeth, their structure and development, and their diseases."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A science dealing with the teeth, their structure and development, and their diseases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forensic odontology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, odontology designates a science dealing with the teeth, their structure and development, and their diseases."*

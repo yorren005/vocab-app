@@ -5,14 +5,6 @@ status: unread
 ---
 # erectness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being upright in posture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Position at right angles to the horizon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Bow, bondslave, before the throne of your despot’s glorious heels so glistening in their proud erectness."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Its flower of bright rose pink, veined with red, is held with the stalwart erectness of an Indian, whose love of solitude and quiet woods it shares."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being upright in posture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Position at right angles to the horizon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Bow, bondslave, before the throne of your despot’s glorious heels so glistening in their proud erectness."*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Its flower of bright rose pink, veined with red, is held with the stalwart erectness of an Indian, whose love of solitude and quiet woods it shares."*

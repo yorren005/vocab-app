@@ -5,15 +5,6 @@ status: unread
 ---
 # multiplicity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being multiple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large number.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"They took a slight survey of all; and Catherine was impressed, beyond her expectation, by their multiplicity and their convenience."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Miss Miller was more ordinary; ruddy in complexion, though of a careworn countenance; hurried in gait and action, like one who had always a multiplicity of tasks on hand: she looked, indeed, what I afterwards found she really was, an under-teacher."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"An ancient Hawaiian war-club or spear-paddle, in its full multiplicity and elaboration of carving, is as great a trophy of human perseverance as a Latin lexicon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being multiple.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large number.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"They took a slight survey of all; and Catherine was impressed, beyond her expectation, by their multiplicity and their convenience."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Miss Miller was more ordinary; ruddy in complexion, though of a careworn countenance; hurried in gait and action, like one who had always a multiplicity of tasks on hand: she looked, indeed, what I afterwards found she really was, an under-teacher."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"An ancient Hawaiian war-club or spear-paddle, in its full multiplicity and elaboration of carving, is as great a trophy of human perseverance as a Latin lexicon."*

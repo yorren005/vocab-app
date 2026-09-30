@@ -5,13 +5,6 @@ status: unread
 ---
 # chaetognath
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any worm of the chaetognatha; transparent marine worm with horizontal lateral and caudal fins and a row of movable curved spines at each side of the mouth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any worm of the chaetognatha; transparent marine worm with horizontal lateral and caudal fins and a row of movable curved spines at each side of the mouth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chaetognath designates any worm of the chaetognatha; transparent marine worm with horizontal lateral and caudal fins and a row of movable curved spines at each side of the mouth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any worm of the chaetognatha; transparent marine worm with horizontal lateral and caudal fins and a row of movable curved spines at each side of the mouth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any worm of the chaetognatha; transparent marine worm with horizontal lateral and caudal fins and a row of movable curved spines at each side of the mouth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chaetognath designates any worm of the chaetognatha; transparent marine worm with horizontal lateral and caudal fins and a row of movable curved spines at each side of the mouth."*

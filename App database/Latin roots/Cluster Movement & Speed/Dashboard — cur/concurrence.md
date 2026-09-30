@@ -5,15 +5,6 @@ status: unread
 ---
 # concurrence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Agreement of results or opinions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting together, as agents or circumstances or events.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce,” he went on, “makes no condition beyond expressing his expectation that our young friend will not at any time remove herself from the establishment in question without his knowledge and concurrence."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy glided up to him, beckoned, and whispered a few words; and with a mutual glance of concurrence the two men went into the night together."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins, “I am particularly obliged to you for this friendly caution, and you may depend upon my not taking so material a step without her Ladyship’s concurrence.” “You cannot be too much on your guard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Agreement of results or opinions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting together, as agents or circumstances or events.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce,” he went on, “makes no condition beyond expressing his expectation that our young friend will not at any time remove herself from the establishment in question without his knowledge and concurrence."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy glided up to him, beckoned, and whispered a few words; and with a mutual glance of concurrence the two men went into the night together."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins, “I am particularly obliged to you for this friendly caution, and you may depend upon my not taking so material a step without her Ladyship’s concurrence.” “You cannot be too much on your guard."*

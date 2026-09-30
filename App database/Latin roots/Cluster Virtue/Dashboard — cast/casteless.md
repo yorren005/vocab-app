@@ -5,13 +5,6 @@ status: unread
 ---
 # casteless
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not belonging to or having been expelled from a caste and thus having no place or status in society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not belonging to or having been expelled from a caste and thus having no place or status in society.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, casteless designates not belonging to or having been expelled from a caste and thus having no place or status in society."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not belonging to or having been expelled from a caste and thus having no place or status in society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not belonging to or having been expelled from a caste and thus having no place or status in society.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, casteless designates not belonging to or having been expelled from a caste and thus having no place or status in society."*

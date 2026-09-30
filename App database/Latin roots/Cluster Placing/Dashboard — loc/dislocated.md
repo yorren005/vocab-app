@@ -5,15 +5,6 @@ status: unread
 ---
 # dislocated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move out of position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put out of its usual place, position, or relationship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"His collar-bone was found to be dislocated, and such injury received in the back, as roused the most alarming ideas."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In January, 1884, she fell and broke one bone and dislocated another in the left wrist."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Not a few are captured having the deep scars of these encounters,—furrowed heads, broken teeth, scolloped fins; and in some instances, wrenched and dislocated mouths."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move out of position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put out of its usual place, position, or relationship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"His collar-bone was found to be dislocated, and such injury received in the back, as roused the most alarming ideas."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"In January, 1884, she fell and broke one bone and dislocated another in the left wrist."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Not a few are captured having the deep scars of these encounters,—furrowed heads, broken teeth, scolloped fins; and in some instances, wrenched and dislocated mouths."*

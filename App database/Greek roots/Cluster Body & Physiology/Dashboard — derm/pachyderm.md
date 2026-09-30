@@ -5,14 +5,6 @@ status: unread
 ---
 # pachyderm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various nonruminant mammals (such as an elephant, a rhinoceros, or a hippopotamus) of a former group (Pachydermata) that have hooves or nails resembling hooves and usually thick skin; especially : elephant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various nonruminant mammals (such as an elephant, a rhinoceros, or a hippopotamus) of a former group (Pachydermata) that have hooves or nails resembling hooves and usually thick skin; especially : elephant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"So, too, the Titanotherum, a gigantic pachyderm, was associated with a species of hornless rhinoceros."*
-> - 📜 **James Joyce (*Ulysses*):** *"They moan, passing upon the clouds, horned and capricorned, the trumpeted with the tusked, the lionmaned, the giantantlered, snouter and crawler, rodent, ruminant and pachyderm, all their moving moaning multitude, murderers of the sun."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various nonruminant mammals (such as an elephant, a rhinoceros, or a hippopotamus) of a former group (Pachydermata) that have hooves or nails resembling hooves and usually thick skin; especially : elephant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various nonruminant mammals (such as an elephant, a rhinoceros, or a hippopotamus) of a former group (Pachydermata) that have hooves or nails resembling hooves and usually thick skin; especially : elephant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"So, too, the Titanotherum, a gigantic pachyderm, was associated with a species of hornless rhinoceros."*
+> - 📜 **James Joyce (*Ulysses*):** *"They moan, passing upon the clouds, horned and capricorned, the trumpeted with the tusked, the lionmaned, the giantantlered, snouter and crawler, rodent, ruminant and pachyderm, all their moving moaning multitude, murderers of the sun."*

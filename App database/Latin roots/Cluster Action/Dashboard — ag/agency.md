@@ -5,15 +5,6 @@ status: unread
 ---
 # agency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An administrative unit of government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A business that serves other businesses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"I would not have you think that I am overlooking the Divine agency in what has befallen me."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The life of faith lays the soul open to assaults of the Devil by their agency."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Familiar with the various organizations of the benevolent societies, and only too happy to have an agency in supplying the wants of a laborer in Christ's vineyard, he soon started the money on its appointed errand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An administrative unit of government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A business that serves other businesses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"I would not have you think that I am overlooking the Divine agency in what has befallen me."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The life of faith lays the soul open to assaults of the Devil by their agency."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Familiar with the various organizations of the benevolent societies, and only too happy to have an agency in supplying the wants of a laborer in Christ's vineyard, he soon started the money on its appointed errand."*

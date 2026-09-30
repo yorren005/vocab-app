@@ -5,15 +5,6 @@ status: unread
 ---
 # unbound
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Untie or unfasten.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not secured within a cover.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now am I Dromio, and his man, unbound."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And unbound the rest, and then come in the other."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This precious book of love, this unbound lover, To beautify him, only lacks a cover: The fish lives in the sea; and ’tis much pride For fair without the fair within to hide."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Untie or unfasten.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not secured within a cover.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now am I Dromio, and his man, unbound."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And unbound the rest, and then come in the other."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This precious book of love, this unbound lover, To beautify him, only lacks a cover: The fish lives in the sea; and ’tis much pride For fair without the fair within to hide."*

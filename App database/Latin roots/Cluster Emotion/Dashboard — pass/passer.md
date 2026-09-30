@@ -5,15 +5,6 @@ status: unread
 ---
 # passer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who passes by casually or by chance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who passes as a member of a different ethnic or racial group.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Norcombe Hill—not far from lonely Toller-Down—was one of the spots which suggest to a passer-by that he is in the presence of a shape approaching the indestructible as nearly as any to be found on earth."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Good-night, Gabriel,” the passer said."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Anyhow, whatever the origin of the relic, there was and is something sinister, or solemn, according to mood, in the scene amid which it stands; something tending to impress the most phlegmatic passer-by."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who passes by casually or by chance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who passes as a member of a different ethnic or racial group.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Norcombe Hill—not far from lonely Toller-Down—was one of the spots which suggest to a passer-by that he is in the presence of a shape approaching the indestructible as nearly as any to be found on earth."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Good-night, Gabriel,” the passer said."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Anyhow, whatever the origin of the relic, there was and is something sinister, or solemn, according to mood, in the scene amid which it stands; something tending to impress the most phlegmatic passer-by."*

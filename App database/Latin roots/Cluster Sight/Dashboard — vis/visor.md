@@ -5,15 +5,6 @@ status: unread
 ---
 # visor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of armor plate (with eye slits) fixed or hinged to a medieval helmet to protect the face.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brim that projects to the front to shade the eyes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I beseech you, sir, to countenance William Visor of Woncot against Clement Perkes o’ th’ hill."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is many complaints, Davy, against that Visor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That Visor is an arrant knave, on my knowledge."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of armor plate (with eye slits) fixed or hinged to a medieval helmet to protect the face.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brim that projects to the front to shade the eyes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I beseech you, sir, to countenance William Visor of Woncot against Clement Perkes o’ th’ hill."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is many complaints, Davy, against that Visor."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That Visor is an arrant knave, on my knowledge."*

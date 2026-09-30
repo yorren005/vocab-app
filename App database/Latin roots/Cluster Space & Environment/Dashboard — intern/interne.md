@@ -5,15 +5,6 @@ status: unread
 ---
 # interne
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An advanced student or graduate in medicine gaining supervised practical experience (`houseman' is a british term).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advanced student or graduate in medicine gaining supervised practical experience (`houseman' is a british term).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But INNERMOST OF THE INMOST, MOST INTERIOR OF THE INTERNE, GOD CLAIMS HIS OWN, DIVINE HUMANITY RENEWING NATURE” (Mrs."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"I got kept in at school one day For lessons not half learned, And when dad asked, "Why this delay?" I said I'd been interned."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"None of us thought of searching on the other side of the moat, where was the underground oven of the Cistercians, in which Elsie (as she has already told) was interned."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advanced student or graduate in medicine gaining supervised practical experience (`houseman' is a british term).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advanced student or graduate in medicine gaining supervised practical experience (`houseman' is a british term).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But INNERMOST OF THE INMOST, MOST INTERIOR OF THE INTERNE, GOD CLAIMS HIS OWN, DIVINE HUMANITY RENEWING NATURE” (Mrs."*
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"I got kept in at school one day For lessons not half learned, And when dad asked, "Why this delay?" I said I'd been interned."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"None of us thought of searching on the other side of the moat, where was the underground oven of the Cistercians, in which Elsie (as she has already told) was interned."*

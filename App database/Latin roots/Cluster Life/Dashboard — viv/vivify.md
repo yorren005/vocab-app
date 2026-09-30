@@ -5,15 +5,6 @@ status: unread
 ---
 # vivify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give new life or energy to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more striking or animated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Throughout them all, giving up her individuality, she would become the general symbol at which the preacher and moralist might point, and in which they might vivify and embody their images of woman’s frailty and sinful passion."*
-> - 📜 **Bram Stoker (*Dracula*):** *"There have been volcanoes, some of whose openings still send out waters of strange properties, and gases that kill or make to vivify."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The air had not been renewed for forty-eight hours, and its vivifying qualities were considerably enfeebled."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give new life or energy to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more striking or animated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Throughout them all, giving up her individuality, she would become the general symbol at which the preacher and moralist might point, and in which they might vivify and embody their images of woman’s frailty and sinful passion."*
+> - 📜 **Bram Stoker (*Dracula*):** *"There have been volcanoes, some of whose openings still send out waters of strange properties, and gases that kill or make to vivify."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The air had not been renewed for forty-eight hours, and its vivifying qualities were considerably enfeebled."*

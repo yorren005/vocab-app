@@ -5,15 +5,6 @@ status: unread
 ---
 # mirthful
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of or showing high-spirited merriment; ; - wordsworth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arousing or provoking laughter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now what rests but that we spend the time With stately triumphs, mirthful comic shows, Such as befits the pleasure of the court?"*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Then ensued a merry time forming the divisions, and deciding the order of precedence; for every one was in mirthful mood."*
-> - 📜 **Effie Afton (*Eventide*):** *"Ay, quite interesting and pretty," answered he, turning his attention for a moment toward the young couple who formed the centre of a mirthful group."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of or showing high-spirited merriment; ; - wordsworth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arousing or provoking laughter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now what rests but that we spend the time With stately triumphs, mirthful comic shows, Such as befits the pleasure of the court?"*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Then ensued a merry time forming the divisions, and deciding the order of precedence; for every one was in mirthful mood."*
+> - 📜 **Effie Afton (*Eventide*):** *"Ay, quite interesting and pretty," answered he, turning his attention for a moment toward the young couple who formed the centre of a mirthful group."*

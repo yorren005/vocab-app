@@ -5,13 +5,6 @@ status: unread
 ---
 # germane
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relevant and appropriate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relevant and appropriate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not he alone shall suffer what wit can make heavy and vengeance bitter; but those that are germane to him, though removed fifty times, shall all come under the hangman: which, though it be great pity, yet it is necessary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relevant and appropriate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relevant and appropriate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not he alone shall suffer what wit can make heavy and vengeance bitter; but those that are germane to him, though removed fifty times, shall all come under the hangman: which, though it be great pity, yet it is necessary."*

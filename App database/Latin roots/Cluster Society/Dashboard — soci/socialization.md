@@ -5,13 +5,6 @@ status: unread
 ---
 # socialization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of establishing on a socialist basis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of meeting for social purposes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This great recent movement of socialization in industry is the expression not of a radical but of a moderate social philosophy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of establishing on a socialist basis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of meeting for social purposes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This great recent movement of socialization in industry is the expression not of a radical but of a moderate social philosophy."*

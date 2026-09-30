@@ -5,15 +5,6 @@ status: unread
 ---
 # junction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The place where two or more things come together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being joined together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She went through Stourcastle without pausing and onward to a junction of highways, where she could await a carrier’s van that ran to the south-west; for the railways which engirdled this interior tract of country had never yet struck across it."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A lady came along the platform and said: 'The conductor tells me the train at the junction in P---- leaves fifteen minutes before our arrival."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Somehow I couldn't hold her, knowing I had the road, and so we dashed up to the junction six minutes ahead of time.' There stood the train, and the conductor with his lantern on his arm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The place where two or more things come together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being joined together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She went through Stourcastle without pausing and onward to a junction of highways, where she could await a carrier’s van that ran to the south-west; for the railways which engirdled this interior tract of country had never yet struck across it."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"A lady came along the platform and said: 'The conductor tells me the train at the junction in P---- leaves fifteen minutes before our arrival."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Somehow I couldn't hold her, knowing I had the road, and so we dashed up to the junction six minutes ahead of time.' There stood the train, and the conductor with his lantern on his arm."*

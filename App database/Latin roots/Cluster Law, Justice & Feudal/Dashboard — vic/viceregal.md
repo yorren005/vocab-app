@@ -5,15 +5,6 @@ status: unread
 ---
 # viceregal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a viceroy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a viceroy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"His finger leaped and struck point after point, vibrating. —T is viceregal lodge."*
-> - 📜 **James Joyce (*Ulysses*):** *"Right outside the viceregal lodge, imagine! —They’re only in the hook and eye department, Myles Crawford said."*
-> - 📜 **James Joyce (*Ulysses*):** *"Saw her in the viceregal party when Stubbs the park ranger got me in with Whelan of the _Express._ Scavenging what the quality left."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a viceroy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a viceroy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"His finger leaped and struck point after point, vibrating. —T is viceregal lodge."*
+> - 📜 **James Joyce (*Ulysses*):** *"Right outside the viceregal lodge, imagine! —They’re only in the hook and eye department, Myles Crawford said."*
+> - 📜 **James Joyce (*Ulysses*):** *"Saw her in the viceregal party when Stubbs the park ranger got me in with Whelan of the _Express._ Scavenging what the quality left."*

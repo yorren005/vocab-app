@@ -5,13 +5,6 @@ status: unread
 ---
 # incommodiousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inconvenient discomfort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inconvenient discomfort.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"It was an old-fashioned place, moreover, in the moral attribute that the partners in the House were proud of its smallness, proud of its darkness, proud of its ugliness, proud of its incommodiousness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inconvenient discomfort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inconvenient discomfort.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"It was an old-fashioned place, moreover, in the moral attribute that the partners in the House were proud of its smallness, proud of its darkness, proud of its ugliness, proud of its incommodiousness."*

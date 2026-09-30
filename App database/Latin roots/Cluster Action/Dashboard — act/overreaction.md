@@ -5,13 +5,6 @@ status: unread
 ---
 # overreaction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessive reaction; a reaction with inappropriate emotional behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An excessive reaction; a reaction with inappropriate emotional behavior.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overreaction designates an excessive reaction; a reaction with inappropriate emotional behavior."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +41,9 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessive reaction; a reaction with inappropriate emotional behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An excessive reaction; a reaction with inappropriate emotional behavior.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overreaction designates an excessive reaction; a reaction with inappropriate emotional behavior."*

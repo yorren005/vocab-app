@@ -5,15 +5,6 @@ status: unread
 ---
 # mitigate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lessen or to try to lessen the seriousness or extent of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less severe or harsh.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray, uncle Gloucester, mitigate this strife."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have spoke thus much To mitigate the justice of thy plea, Which if thou follow, this strict court of Venice Must needs give sentence ’gainst the merchant there."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To mitigate the scorn he gives his uncle, He prettily and aptly taunts himself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lessen or to try to lessen the seriousness or extent of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less severe or harsh.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray, uncle Gloucester, mitigate this strife."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have spoke thus much To mitigate the justice of thy plea, Which if thou follow, this strict court of Venice Must needs give sentence ’gainst the merchant there."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To mitigate the scorn he gives his uncle, He prettily and aptly taunts himself."*

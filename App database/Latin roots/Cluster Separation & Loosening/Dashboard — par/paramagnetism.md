@@ -5,13 +5,6 @@ status: unread
 ---
 # paramagnetism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Materials like aluminum or platinum become magnetized in a magnetic field but it disappears when the field is removed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Materials like aluminum or platinum become magnetized in a magnetic field but it disappears when the field is removed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paramagnetism designates materials like aluminum or platinum become magnetized in a magnetic field but it disappears when the field is removed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Materials like aluminum or platinum become magnetized in a magnetic field but it disappears when the field is removed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Materials like aluminum or platinum become magnetized in a magnetic field but it disappears when the field is removed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paramagnetism designates materials like aluminum or platinum become magnetized in a magnetic field but it disappears when the field is removed."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # moniker
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A familiar name for a person (often a shortened version of a person's given name).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A familiar name for a person (often a shortened version of a person's given name).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moniker designates a familiar name for a person (often a shortened version of a person's given name)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A familiar name for a person (often a shortened version of a person's given name).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A familiar name for a person (often a shortened version of a person's given name).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moniker designates a familiar name for a person (often a shortened version of a person's given name)."*

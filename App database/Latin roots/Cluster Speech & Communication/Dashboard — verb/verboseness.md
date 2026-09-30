@@ -5,13 +5,6 @@ status: unread
 ---
 # verboseness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expressive style that uses excessive or empty words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expressive style that uses excessive or empty words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verboseness designates an expressive style that uses excessive or empty words."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expressive style that uses excessive or empty words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expressive style that uses excessive or empty words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, verboseness designates an expressive style that uses excessive or empty words."*

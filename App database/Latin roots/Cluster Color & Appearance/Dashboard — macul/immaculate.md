@@ -5,15 +5,6 @@ status: unread
 ---
 # immaculate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely neat and clean.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from stain or blemish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Joan of Arc hath been A virgin from her tender infancy, Chaste and immaculate in very thought; Whose maiden blood, thus rigorously effused, Will cry for vengeance at the gates of heaven."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My love is most immaculate white and red."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou sheer, immaculate, and silver fountain From whence this stream through muddy passages Hath held his current and defiled himself!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely neat and clean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from stain or blemish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Joan of Arc hath been A virgin from her tender infancy, Chaste and immaculate in very thought; Whose maiden blood, thus rigorously effused, Will cry for vengeance at the gates of heaven."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My love is most immaculate white and red."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou sheer, immaculate, and silver fountain From whence this stream through muddy passages Hath held his current and defiled himself!"*

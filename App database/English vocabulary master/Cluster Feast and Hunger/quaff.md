@@ -5,20 +5,6 @@ status: unread
 ---
 # quaff
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Misspelling of coif
-> 2. **Nuance / Usage**: Hearty draft or gulp
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to quaff the target*) and intransitive clauses (*quaffing against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*s:Dr. Heidegger's Experiment*):** *"Even while quaffing the third draught of the Fountain of Youth, they were almost awed by the expression of his mysterious visage."*
-> - 📜 **Gabriel Sherman (*“I Have Power”: Is Steve Bannon Running for President?*):** *"Bannon was padding around the room in a black blazer over two collared shirts, quaffing a can of Pocari Sweat, a popular Japanese energy drink."*
-> - 📜 **Paul Bigland (*Destination Oban: a Sunday in Scotland*):** *"If you're of a mind, the work can be observed while quaffing a pint in the Rat Race pub in the old station buildings on the existing platform."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To drink a beverage—especially ale, wine, or a celebratory draught—copiously and with hearty enjoyment.
+> 2. **Nuance / Usage**: Also used as a noun for a deep, convivial draught; carries a literary, jovial, or slightly archaic flavor compared to the coarser *guzzle*.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to quaff the target*) and intransitive clauses (*quaffing against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*Dr. Heidegger's Experiment*):** *"Even while **quaffing** the third draught of the Fountain of Youth, they were almost awed by the expression of his mysterious visage."*
+> - 📜 **Edgar Allan Poe (*The Raven*):** *"Respite—respite and nepenthe, from thy memories of Lenore; **quaff**, oh **quaff** this kind nepenthe and forget this lost Lenore!"*
+> - 📜 **Paul Bigland (*Destination Oban: A Sunday in Scotland*):** *"If you're of a mind, the work can be observed while **quaffing** a pint in the Rat Race pub in the old station buildings."*

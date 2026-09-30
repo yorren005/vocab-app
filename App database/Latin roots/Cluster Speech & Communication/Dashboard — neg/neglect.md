@@ -5,15 +5,6 @@ status: unread
 ---
 # neglect
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of attention and due care.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of something that has been unused and neglected.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give my love fame faster than Time wastes life, So thou prevent’st his scythe, and crooked knife. 101 O truant Muse what shall be thy amends, For thy neglect of truth in beauty dyed?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In so profound abysm I throw all care Of others’ voices, that my adder’s sense, To critic and to flatterer stopped are: Mark how with my neglect I do dispense."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I heard you rightly, The Duke hath put on a religious life And thrown into neglect the pompous court."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of attention and due care.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of something that has been unused and neglected.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give my love fame faster than Time wastes life, So thou prevent’st his scythe, and crooked knife. 101 O truant Muse what shall be thy amends, For thy neglect of truth in beauty dyed?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In so profound abysm I throw all care Of others’ voices, that my adder’s sense, To critic and to flatterer stopped are: Mark how with my neglect I do dispense."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I heard you rightly, The Duke hath put on a religious life And thrown into neglect the pompous court."*

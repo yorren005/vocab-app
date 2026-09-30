@@ -5,14 +5,6 @@ status: unread
 ---
 # conceptual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or characterized by concepts or their formation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or characterized by concepts or their formation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"The telecommunicator, which the surgeons had planted in his skull, caught the sound of alien voices and made a conceptual translation in terms Henig understood."*
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"Sometimes a voice sang the melody and his telecommunicator gave him a conceptual analysis of the words."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or characterized by concepts or their formation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or characterized by concepts or their formation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"The telecommunicator, which the surgeons had planted in his skull, caught the sound of alien voices and made a conceptual translation in terms Henig understood."*
+> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"Sometimes a voice sang the melody and his telecommunicator gave him a conceptual analysis of the words."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # symptomatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being a symptom of a disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the characteristics of a particular disease but arising from another cause.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The levity of some of the younger women in and about Trantridge was marked, and was perhaps symptomatic of the choice spirit who ruled The Slopes in that vicinity."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The divorce case which followed was like a gangrenous eruption symptomatic of the distempers of the age."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The extravagant nonsense found in Jewish speculation as to how many Gentile souls were equivalent in God's sight to that of one Jew is symptomatic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being a symptom of a disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the characteristics of a particular disease but arising from another cause.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The levity of some of the younger women in and about Trantridge was marked, and was perhaps symptomatic of the choice spirit who ruled The Slopes in that vicinity."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"The divorce case which followed was like a gangrenous eruption symptomatic of the distempers of the age."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The extravagant nonsense found in Jewish speculation as to how many Gentile souls were equivalent in God's sight to that of one Jew is symptomatic."*

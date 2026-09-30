@@ -5,14 +5,6 @@ status: unread
 ---
 # tricycle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vehicle with three wheels that is moved by foot pedals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vehicle with three wheels that is moved by foot pedals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The next time I went down he advised me to go and learn to ride a tricycle first."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"And with carriages and horses, bicycles, tricycles, and telephones, we may feel ourselves very near neighbors indeed," remarked Edward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vehicle with three wheels that is moved by foot pedals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vehicle with three wheels that is moved by foot pedals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The next time I went down he advised me to go and learn to ride a tricycle first."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"And with carriages and horses, bicycles, tricycles, and telephones, we may feel ourselves very near neighbors indeed," remarked Edward."*

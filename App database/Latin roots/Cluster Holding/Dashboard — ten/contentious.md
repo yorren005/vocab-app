@@ -5,15 +5,6 @@ status: unread
 ---
 # contentious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined or showing an inclination to dispute or disagree, even to engage in law suits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or likely to cause controversy; - tim w.ferfuson.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou think’st ’tis much that this contentious storm Invades us to the skin: so ’tis to thee, But where the greater malady is fix’d, The lesser is scarce felt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His bold head ’Bove the contentious waves he kept, and oared Himself with his good arms in lusty stroke To th’ shore, that o’er his wave-worn basis bowed, As stooping to relieve him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard Two emulous Philomels beat the ear o’ th’ night With their contentious throats, now one the higher, Anon the other, then again the first, And by-and-by out-breasted, that the sense Could not be judge between ’em."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined or showing an inclination to dispute or disagree, even to engage in law suits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or likely to cause controversy; - tim w.ferfuson.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou think’st ’tis much that this contentious storm Invades us to the skin: so ’tis to thee, But where the greater malady is fix’d, The lesser is scarce felt."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His bold head ’Bove the contentious waves he kept, and oared Himself with his good arms in lusty stroke To th’ shore, that o’er his wave-worn basis bowed, As stooping to relieve him."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard Two emulous Philomels beat the ear o’ th’ night With their contentious throats, now one the higher, Anon the other, then again the first, And by-and-by out-breasted, that the sense Could not be judge between ’em."*

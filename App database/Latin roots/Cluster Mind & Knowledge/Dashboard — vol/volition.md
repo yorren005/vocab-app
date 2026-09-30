@@ -5,15 +5,6 @@ status: unread
 ---
 # volition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability of conscious choice and decision and intention; - george meredith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making a choice.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But no; stay, I insist!” He seized her hand, and then volition seemed to leave her, and she went off into a state of passivity."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She lay in a state of percipience without volition, and the rustle of the straw and the cutting of the ears by the others had the weight of bodily touches."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It seemed as though, by some nameless, interior volition, he would fain have shocked into them the same fiery emotion accumulated within the Leyden jar of his own magnetic life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability of conscious choice and decision and intention; - george meredith.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making a choice.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But no; stay, I insist!” He seized her hand, and then volition seemed to leave her, and she went off into a state of passivity."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She lay in a state of percipience without volition, and the rustle of the straw and the cutting of the ears by the others had the weight of bodily touches."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It seemed as though, by some nameless, interior volition, he would fain have shocked into them the same fiery emotion accumulated within the Leyden jar of his own magnetic life."*

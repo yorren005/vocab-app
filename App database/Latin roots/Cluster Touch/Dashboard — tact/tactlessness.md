@@ -5,14 +5,6 @@ status: unread
 ---
 # tactlessness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of lacking tact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of lacking tact.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Well, after all," he said, when I pointed out to him quietly but plainly my opinion of his tactlessness, "what does it matter?"*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Mercy! how you look, Billy!” she exclaimed, with cheerful tactlessness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of lacking tact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of lacking tact.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Well, after all," he said, when I pointed out to him quietly but plainly my opinion of his tactlessness, "what does it matter?"*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Mercy! how you look, Billy!” she exclaimed, with cheerful tactlessness."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # graduation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The successful completion of a program of study.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An academic exercise in which diplomas are conferred.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The graduation principle. § 10."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The most disputed feature of the income tax is the principle of graduation, or of progression."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"To speak of all the disappointments which fell to Hoelderlin's lot would practically require the writing of his biography from the time of his graduation from Tuebingen to his return from Bordeaux, almost the entire period of his sane manhood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The successful completion of a program of study.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An academic exercise in which diplomas are conferred.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The graduation principle. § 10."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The most disputed feature of the income tax is the principle of graduation, or of progression."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"To speak of all the disappointments which fell to Hoelderlin's lot would practically require the writing of his biography from the time of his graduation from Tuebingen to his return from Bordeaux, almost the entire period of his sane manhood."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # helleri
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freshwater fish of central america having a long swordlike tail; popular aquarium fish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freshwater fish of central america having a long swordlike tail; popular aquarium fish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helleri designates freshwater fish of central america having a long swordlike tail; popular aquarium fish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freshwater fish of central america having a long swordlike tail; popular aquarium fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freshwater fish of central america having a long swordlike tail; popular aquarium fish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helleri designates freshwater fish of central america having a long swordlike tail; popular aquarium fish."*

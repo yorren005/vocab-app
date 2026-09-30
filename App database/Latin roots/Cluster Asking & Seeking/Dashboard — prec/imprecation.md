@@ -5,15 +5,6 @@ status: unread
 ---
 # imprecation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of calling down a curse that invokes evil (and usually serves as an insult).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slanderous accusation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In the canton of the Grisons there is still in common use an imprecation, "Mist, go away, or I'll heal you," which points to an old custom of burning up the fog with fire."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Gedney Raffer snarled out an imprecation when old Toby had replied as above."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Where’s your manners?” “And who are you; and where are you shoving your elbow to?” said the man, with a surpassing imprecation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of calling down a curse that invokes evil (and usually serves as an insult).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slanderous accusation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In the canton of the Grisons there is still in common use an imprecation, "Mist, go away, or I'll heal you," which points to an old custom of burning up the fog with fire."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Gedney Raffer snarled out an imprecation when old Toby had replied as above."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Where’s your manners?” “And who are you; and where are you shoving your elbow to?” said the man, with a surpassing imprecation."*

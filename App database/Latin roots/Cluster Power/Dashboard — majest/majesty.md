@@ -5,15 +5,6 @@ status: unread
 ---
 # majesty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impressiveness in scale or proportion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impressiveness in scale or proportion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thine eyes, that taught the dumb on high to sing, And heavy ignorance aloft to fly, Have added feathers to the learned’s wing, And given grace a double majesty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I in going, madam, weep o’er my father’s death anew; but I must attend his majesty’s command, to whom I am now in ward, evermore in subjection."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What hope is there of his majesty’s amendment?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impressiveness in scale or proportion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impressiveness in scale or proportion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thine eyes, that taught the dumb on high to sing, And heavy ignorance aloft to fly, Have added feathers to the learned’s wing, And given grace a double majesty."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I in going, madam, weep o’er my father’s death anew; but I must attend his majesty’s command, to whom I am now in ward, evermore in subjection."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What hope is there of his majesty’s amendment?"*

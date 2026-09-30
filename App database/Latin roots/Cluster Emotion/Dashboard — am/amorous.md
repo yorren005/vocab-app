@@ -5,15 +5,6 @@ status: unread
 ---
 # amorous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined toward or displaying love.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressive of or exciting sexual love or romance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Maybe the amorous count solicits her In the unlawful purpose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Send forth your amorous token for fair Maudlin."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Think on me That am with Phœbus’ amorous pinches black, And wrinkled deep in time?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined toward or displaying love.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressive of or exciting sexual love or romance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Maybe the amorous count solicits her In the unlawful purpose."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Send forth your amorous token for fair Maudlin."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Think on me That am with Phœbus’ amorous pinches black, And wrinkled deep in time?"*

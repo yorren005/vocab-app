@@ -5,15 +5,6 @@ status: unread
 ---
 # politico
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person active in party politics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person active in party politics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Politico-economic problems. § 2."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Raw materials for clothing, shelter, machinery, etc. § 1. #Politico-economic problems.# The word "problem" is often on our tongues."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"What then are our politico-economic problems in America?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person active in party politics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person active in party politics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Politico-economic problems. § 2."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Raw materials for clothing, shelter, machinery, etc. § 1. #Politico-economic problems.# The word "problem" is often on our tongues."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"What then are our politico-economic problems in America?"*

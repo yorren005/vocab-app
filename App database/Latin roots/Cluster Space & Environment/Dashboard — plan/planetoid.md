@@ -5,14 +5,6 @@ status: unread
 ---
 # planetoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous small celestial bodies that move around the sun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous small celestial bodies that move around the sun.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Rings of laser arrays along the edge of the Extractor's hopper flashed alive and focused their beams on a large, slowly tumbling planetoid hundreds of kilometers across its minor dimension."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Sensors, analyzers, siphons and beam-guides paralleled the lasers' signals along an incandescent column of plasma from the dissolving planetoid into the Extractor's processes and, when ready, into the hopper."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous small celestial bodies that move around the sun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous small celestial bodies that move around the sun.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Rings of laser arrays along the edge of the Extractor's hopper flashed alive and focused their beams on a large, slowly tumbling planetoid hundreds of kilometers across its minor dimension."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Sensors, analyzers, siphons and beam-guides paralleled the lasers' signals along an incandescent column of plasma from the dissolving planetoid into the Extractor's processes and, when ready, into the hopper."*

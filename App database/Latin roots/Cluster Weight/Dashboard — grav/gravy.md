@@ -5,15 +5,6 @@ status: unread
 ---
 # gravy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sauce made by adding stock, flour, or other ingredients to the juice and fat that drips from cooking meats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The seasoned but not thickened juices that drip from cooking meats; often a little water is added.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His effect of gravy, gravy, gravy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She told us a great deal that was interesting about Borrioboola-Gha and the natives, and received so many letters that Richard, who sat by her, saw four envelopes in the gravy at once."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the matter of gravy he is adamant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sauce made by adding stock, flour, or other ingredients to the juice and fat that drips from cooking meats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The seasoned but not thickened juices that drip from cooking meats; often a little water is added.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His effect of gravy, gravy, gravy."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"She told us a great deal that was interesting about Borrioboola-Gha and the natives, and received so many letters that Richard, who sat by her, saw four envelopes in the gravy at once."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"In the matter of gravy he is adamant."*

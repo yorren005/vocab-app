@@ -5,15 +5,6 @@ status: unread
 ---
 # lax
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in rigor or strictness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pronounced with muscles of the tongue and jaw relatively relaxed (e.g., the vowel sound in `bet').
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Isabel's hand lay lax in his grasp while he methodically sucked the wound and rinsed his mouth from her tumbler."*
-> - 📜 **George Eliot (*Middlemarch*):** *"For the most glutinously indefinite minds enclose some hard grains of habit; and a man has been seen lax about all his own interests except the retention of his snuff-box, concerning which he was watchful, suspicious, and greedy of clutch."*
-> - 📜 **George Eliot (*Middlemarch*):** *"In my opinion Farebrother is too lax for a clergyman."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in rigor or strictness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pronounced with muscles of the tongue and jaw relatively relaxed (e.g., the vowel sound in `bet').
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Isabel's hand lay lax in his grasp while he methodically sucked the wound and rinsed his mouth from her tumbler."*
+> - 📜 **George Eliot (*Middlemarch*):** *"For the most glutinously indefinite minds enclose some hard grains of habit; and a man has been seen lax about all his own interests except the retention of his snuff-box, concerning which he was watchful, suspicious, and greedy of clutch."*
+> - 📜 **George Eliot (*Middlemarch*):** *"In my opinion Farebrother is too lax for a clergyman."*

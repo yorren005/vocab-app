@@ -5,15 +5,6 @@ status: unread
 ---
 # accommodate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be agreeable or acceptable to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make fit for, or change to suit a new purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The safer sense will ne’er accommodate His master thus."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She firmly held the little girl's hand, for there was no telling what she might undertake otherwise, and the less independent Lippo held his mother's other hand, so that the two older brothers were obliged to accommodate their steps to the rest."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You must accommodate the visit to the demands upon my time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be agreeable or acceptable to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make fit for, or change to suit a new purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The safer sense will ne’er accommodate His master thus."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She firmly held the little girl's hand, for there was no telling what she might undertake otherwise, and the less independent Lippo held his mother's other hand, so that the two older brothers were obliged to accommodate their steps to the rest."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"You must accommodate the visit to the demands upon my time."*

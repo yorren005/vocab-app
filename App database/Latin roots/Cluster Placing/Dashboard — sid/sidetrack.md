@@ -5,13 +5,6 @@ status: unread
 ---
 # sidetrack
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short stretch of railroad track used to store rolling stock or enable trains on the same line to pass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wander from a direct or straight course.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sidetrack designates a short stretch of railroad track used to store rolling stock or enable trains on the same line to pass."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short stretch of railroad track used to store rolling stock or enable trains on the same line to pass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wander from a direct or straight course.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sidetrack designates a short stretch of railroad track used to store rolling stock or enable trains on the same line to pass."*

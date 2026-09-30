@@ -5,15 +5,6 @@ status: unread
 ---
 # alpha
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 1st letter of the greek alphabet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The beginning of a series or sequence; --revelations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"That I merited all I endured, I acknowledged—that I could scarcely endure more, I pleaded; and the alpha and omega of my heart’s wishes broke involuntarily from my lips in the words—‘Jane!"*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"There are a few of us who frequent the Alpha Inn, near the Museum—we are to be found in the Museum itself during the day, you understand."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"In a quarter of an hour we were in Bloomsbury at the Alpha Inn, which is a small public-house at the corner of one of the streets which runs down into Holborn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The 1st letter of the greek alphabet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The beginning of a series or sequence; --revelations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"That I merited all I endured, I acknowledged—that I could scarcely endure more, I pleaded; and the alpha and omega of my heart’s wishes broke involuntarily from my lips in the words—‘Jane!"*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"There are a few of us who frequent the Alpha Inn, near the Museum—we are to be found in the Museum itself during the day, you understand."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"In a quarter of an hour we were in Bloomsbury at the Alpha Inn, which is a small public-house at the corner of one of the streets which runs down into Holborn."*

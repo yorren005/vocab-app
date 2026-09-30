@@ -5,15 +5,6 @@ status: unread
 ---
 # parnassus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a mountain in central greece where (according to greek mythology) the muses lived; known as the mythological home of music and poetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a mountain in central greece where (according to greek mythology) the muses lived; known as the mythological home of music and poetry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"They gang in stirks, and come out asses, Plain truth to speak; An’ syne they think to climb Parnassus By dint o’ Greek!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"For me, I’m on Parnassus’ brink, Rivin the words to gar them clink; Whiles dazed wi’ love, whiles dazed wi’ drink, Wi’ jads or masons; An’ whiles, but aye owre late, I think Braw sober lessons."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Nae heathen name shall I prefix, Frae Pindus or Parnassus; Auld Reekie dings them a’ to sticks, For rhyme-inspiring lasses."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a mountain in central greece where (according to greek mythology) the muses lived; known as the mythological home of music and poetry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a mountain in central greece where (according to greek mythology) the muses lived; known as the mythological home of music and poetry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"They gang in stirks, and come out asses, Plain truth to speak; An’ syne they think to climb Parnassus By dint o’ Greek!"*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"For me, I’m on Parnassus’ brink, Rivin the words to gar them clink; Whiles dazed wi’ love, whiles dazed wi’ drink, Wi’ jads or masons; An’ whiles, but aye owre late, I think Braw sober lessons."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Nae heathen name shall I prefix, Frae Pindus or Parnassus; Auld Reekie dings them a’ to sticks, For rhyme-inspiring lasses."*

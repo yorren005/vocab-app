@@ -5,14 +5,6 @@ status: unread
 ---
 # scrutineer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who examines votes at an election.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who examines votes at an election.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy hastily shifted his position, after having recognized in the scrutineer the knavish bailiff Pennyways, his wife’s sworn enemy, who still hung about the outskirts of Weatherbury."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy hastily shifted his position, after having recognized in the scrutineer the knavish bailiff Pennyways, his wife’s sworn enemy, who still hung about the outskirts of Weatherbury."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who examines votes at an election.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who examines votes at an election.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy hastily shifted his position, after having recognized in the scrutineer the knavish bailiff Pennyways, his wife’s sworn enemy, who still hung about the outskirts of Weatherbury."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy hastily shifted his position, after having recognized in the scrutineer the knavish bailiff Pennyways, his wife’s sworn enemy, who still hung about the outskirts of Weatherbury."*

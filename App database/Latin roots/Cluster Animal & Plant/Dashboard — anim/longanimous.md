@@ -5,13 +5,6 @@ status: unread
 ---
 # longanimous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing patient and unruffled self-control and restraint under adversity; slow to retaliate or express resentment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing patient and unruffled self-control and restraint under adversity; slow to retaliate or express resentment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, longanimous designates showing patient and unruffled self-control and restraint under adversity; slow to retaliate or express resentment."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing patient and unruffled self-control and restraint under adversity; slow to retaliate or express resentment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing patient and unruffled self-control and restraint under adversity; slow to retaliate or express resentment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, longanimous designates showing patient and unruffled self-control and restraint under adversity; slow to retaliate or express resentment."*

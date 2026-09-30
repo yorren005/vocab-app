@@ -5,13 +5,6 @@ status: unread
 ---
 # stationmaster
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person in charge of a railway station.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person in charge of a railway station.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stationmaster designates the person in charge of a railway station."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The person in charge of a railway station.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person in charge of a railway station.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stationmaster designates the person in charge of a railway station."*

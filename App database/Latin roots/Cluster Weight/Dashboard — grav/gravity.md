@@ -5,15 +5,6 @@ status: unread
 ---
 # gravity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physics) the force of attraction between all masses in the universe; especially the attraction of the earth's mass for bodies near its surface; ; ; --albert einstein.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manner that is serious and solemn.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How ill agrees it with your gravity To counterfeit thus grossly with your slave, Abetting him to thwart me in my mood; Be it my wrong, you are from me exempt, But wrong not that wrong with a more contempt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What doth gravity out of his bed at midnight?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is not a white hair in your face but should have his effect of gravity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (physics) the force of attraction between all masses in the universe; especially the attraction of the earth's mass for bodies near its surface; ; ; --albert einstein.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manner that is serious and solemn.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How ill agrees it with your gravity To counterfeit thus grossly with your slave, Abetting him to thwart me in my mood; Be it my wrong, you are from me exempt, But wrong not that wrong with a more contempt."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What doth gravity out of his bed at midnight?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is not a white hair in your face but should have his effect of gravity."*

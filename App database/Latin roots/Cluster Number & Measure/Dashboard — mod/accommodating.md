@@ -5,15 +5,6 @@ status: unread
 ---
 # accommodating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be agreeable or acceptable to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make fit for, or change to suit a new purpose.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"On quitting the Cobb, they all went in-doors with their new friends, and found rooms so small as none but those who invite from the heart could think capable of accommodating so many."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bambridge had been accommodating enough not only to trust him for the hire of horses and the accidental expense of ruining a fine hunter, but also to make a small advance by which he might be able to meet some losses at billiards."*
-> - 📜 **George Eliot (*Middlemarch*):** *"As for him, the need of accommodating himself to her nature, which was inflexible in proportion to its negations, held him as with pincers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be agreeable or acceptable to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make fit for, or change to suit a new purpose.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"On quitting the Cobb, they all went in-doors with their new friends, and found rooms so small as none but those who invite from the heart could think capable of accommodating so many."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bambridge had been accommodating enough not only to trust him for the hire of horses and the accidental expense of ruining a fine hunter, but also to make a small advance by which he might be able to meet some losses at billiards."*
+> - 📜 **George Eliot (*Middlemarch*):** *"As for him, the need of accommodating himself to her nature, which was inflexible in proportion to its negations, held him as with pincers."*

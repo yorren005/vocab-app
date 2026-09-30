@@ -5,14 +5,6 @@ status: unread
 ---
 # salaam
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep bow; a muslim form of salutation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greet with a salaam.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"I commend the propriety and aptness of your researches, Atma Singh." So saying he withdrew with a salaam that failed to cover the swift scowl he bestowed on Bertram."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He makes a salaam before my lord the Aga."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep bow; a muslim form of salutation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greet with a salaam.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **C. A. Frazer (*Atmâ*):** *"I commend the propriety and aptness of your researches, Atma Singh." So saying he withdrew with a salaam that failed to cover the swift scowl he bestowed on Bertram."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He makes a salaam before my lord the Aga."*

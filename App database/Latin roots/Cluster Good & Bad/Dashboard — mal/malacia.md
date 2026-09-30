@@ -5,13 +5,6 @@ status: unread
 ---
 # malacia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of abnormal softening of tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of abnormal softening of tissue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malacia designates a state of abnormal softening of tissue."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of abnormal softening of tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of abnormal softening of tissue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malacia designates a state of abnormal softening of tissue."*

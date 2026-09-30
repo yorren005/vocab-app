@@ -5,13 +5,6 @@ status: unread
 ---
 # leukodystrophy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several genetically determined diseases characterized by progressive degeneration of myelin in the brain, spinal cord, and peripheral nerves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several genetically determined diseases characterized by progressive degeneration of myelin in the brain, spinal cord, and peripheral nerves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leukodystrophy designates any of several genetically determined diseases characterized by progressive degeneration of myelin in the brain, spinal cord, and peripheral nerves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several genetically determined diseases characterized by progressive degeneration of myelin in the brain, spinal cord, and peripheral nerves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several genetically determined diseases characterized by progressive degeneration of myelin in the brain, spinal cord, and peripheral nerves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leukodystrophy designates any of several genetically determined diseases characterized by progressive degeneration of myelin in the brain, spinal cord, and peripheral nerves."*

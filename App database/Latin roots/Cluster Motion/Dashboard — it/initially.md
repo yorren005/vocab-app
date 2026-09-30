@@ -5,14 +5,6 @@ status: unread
 ---
 # initially
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At the beginning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At the beginning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Note that while a copyright was initially claimed for the labor involved in digitization, that copyright claim is not consistent with current copyright requirements."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Initially in Earth orbit, later in lunar space and on Luna itself, they guided settlers in developing new lifestyles and colonizing skills, and showed them how to wrest and refine usable elements and minerals from nearby sources."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At the beginning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At the beginning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **J. M. Barrie (*Peter Pan*):** *"Note that while a copyright was initially claimed for the labor involved in digitization, that copyright claim is not consistent with current copyright requirements."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Initially in Earth orbit, later in lunar space and on Luna itself, they guided settlers in developing new lifestyles and colonizing skills, and showed them how to wrest and refine usable elements and minerals from nearby sources."*

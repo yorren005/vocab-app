@@ -5,15 +5,6 @@ status: unread
 ---
 # adjunct
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something added to another thing but not an essential part of it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is an assistant or subordinate to another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And every humour hath his adjunct pleasure, Wherein it finds a joy above the rest, But these particulars are not my measure, All these I better in one general best."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So well that what you bid me undertake, Though that my death were adjunct to my act, By heaven, I would do it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Despair to gain doth traffic oft for gaining, And when great treasure is the meed proposed, Though death be adjunct, there’s no death supposed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something added to another thing but not an essential part of it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is an assistant or subordinate to another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And every humour hath his adjunct pleasure, Wherein it finds a joy above the rest, But these particulars are not my measure, All these I better in one general best."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So well that what you bid me undertake, Though that my death were adjunct to my act, By heaven, I would do it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Despair to gain doth traffic oft for gaining, And when great treasure is the meed proposed, Though death be adjunct, there’s no death supposed."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # aspleniaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a number of families into which polypodiaceae has been subdivided in some classification systems; includes genera asplenium, pleurosorus, schaffneria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a number of families into which polypodiaceae has been subdivided in some classification systems; includes genera asplenium, pleurosorus, schaffneria.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aspleniaceae designates one of a number of families into which polypodiaceae has been subdivided in some classification systems; includes genera asplenium, pleurosorus, schaffneria."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a number of families into which polypodiaceae has been subdivided in some classification systems; includes genera asplenium, pleurosorus, schaffneria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a number of families into which polypodiaceae has been subdivided in some classification systems; includes genera asplenium, pleurosorus, schaffneria.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aspleniaceae designates one of a number of families into which polypodiaceae has been subdivided in some classification systems; includes genera asplenium, pleurosorus, schaffneria."*

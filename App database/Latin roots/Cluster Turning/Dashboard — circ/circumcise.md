@@ -5,15 +5,6 @@ status: unread
 ---
 # circumcise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut the skin over the clitoris.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut the foreskin off male babies or teenage boys.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"To this day a Hottentot priest never uses an iron knife, but always a sharp splint of quartz, in sacrificing an animal or circumcising a lad."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And say besides, that in Aleppo once, Where a malignant and a turban’d Turk Beat a Venetian and traduc’d the state, I took by the throat the circumcised dog, And smote him, thus. [_Stabs himself._] LODOVICO."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But Cleon writes that it is vain to suppose that a mere barbarian Jew, one circumcised, hath access to a secret which is shut from them, and that the King wrongs their philosophy in stooping to inquire of such an one."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut the skin over the clitoris.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut the foreskin off male babies or teenage boys.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"To this day a Hottentot priest never uses an iron knife, but always a sharp splint of quartz, in sacrificing an animal or circumcising a lad."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And say besides, that in Aleppo once, Where a malignant and a turban’d Turk Beat a Venetian and traduc’d the state, I took by the throat the circumcised dog, And smote him, thus. [_Stabs himself._] LODOVICO."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But Cleon writes that it is vain to suppose that a mere barbarian Jew, one circumcised, hath access to a secret which is shut from them, and that the King wrongs their philosophy in stooping to inquire of such an one."*

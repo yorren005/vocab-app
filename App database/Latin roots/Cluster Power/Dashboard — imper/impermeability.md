@@ -5,13 +5,6 @@ status: unread
 ---
 # impermeability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of something that cannot be pervaded by a liquid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of something that cannot be pervaded by a liquid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A series of experiments and arguments proves to every man that he, as an object of observation, is subject to certain laws, and man submits to them and never resists the laws of gravity or impermeability once he has become acquainted with them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of something that cannot be pervaded by a liquid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of something that cannot be pervaded by a liquid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A series of experiments and arguments proves to every man that he, as an object of observation, is subject to certain laws, and man submits to them and never resists the laws of gravity or impermeability once he has become acquainted with them."*

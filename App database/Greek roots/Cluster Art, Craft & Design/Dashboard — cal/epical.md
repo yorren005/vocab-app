@@ -5,13 +5,6 @@ status: unread
 ---
 # epical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting or having to do with or suggestive of a literary epic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting or having to do with or suggestive of a literary epic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epical designates constituting or having to do with or suggestive of a literary epic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting or having to do with or suggestive of a literary epic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting or having to do with or suggestive of a literary epic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epical designates constituting or having to do with or suggestive of a literary epic."*

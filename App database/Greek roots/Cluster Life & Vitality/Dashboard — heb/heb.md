@@ -5,15 +5,6 @@ status: unread
 ---
 # heb
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hebrew; Hebrews.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hebrew; Hebrews.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I will never leave thee nor forsake thee." Heb. 13:5."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I turned to the whole passage as soon as I could find it; Heb. 6: 4-6; and read, "For it is impossible for those who were once enlightened," etc., etc."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"But I concluded if a suitable text did not occur while singing, praying and reading some Scripture lesson, rather than have no text, I would take Heb. 6: 4-6."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hebrew; Hebrews.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hebrew; Hebrews.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"I will never leave thee nor forsake thee." Heb. 13:5."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"I turned to the whole passage as soon as I could find it; Heb. 6: 4-6; and read, "For it is impossible for those who were once enlightened," etc., etc."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"But I concluded if a suitable text did not occur while singing, praying and reading some Scripture lesson, rather than have no text, I would take Heb. 6: 4-6."*

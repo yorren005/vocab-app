@@ -5,13 +5,6 @@ status: unread
 ---
 # hyperemia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excess of blood in a body part : congestion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excess of blood in a body part : congestion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperemia designates excess of blood in a body part : congestion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excess of blood in a body part : congestion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excess of blood in a body part : congestion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperemia designates excess of blood in a body part : congestion."*

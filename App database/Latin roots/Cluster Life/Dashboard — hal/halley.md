@@ -5,13 +5,6 @@ status: unread
 ---
 # halley
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English astronomer who used newton's laws of motion to predict the period of a comet (1656-1742).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English astronomer who used newton's laws of motion to predict the period of a comet (1656-1742).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halley designates english astronomer who used newton's laws of motion to predict the period of a comet (1656-1742)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English astronomer who used newton's laws of motion to predict the period of a comet (1656-1742).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English astronomer who used newton's laws of motion to predict the period of a comet (1656-1742).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halley designates english astronomer who used newton's laws of motion to predict the period of a comet (1656-1742)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # fancy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something many people believe that is false.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of imagination that was held by coleridge to be more casual and superficial than true imagination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now he’s gone, and my idolatrous fancy Must sanctify his relics."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pardon, my gracious lord; for I submit My fancy to your eyes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For her own person, It beggared all description: she did lie In her pavilion, cloth-of-gold of tissue, O’erpicturing that Venus where we see The fancy outwork nature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something many people believe that is false.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of imagination that was held by coleridge to be more casual and superficial than true imagination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But now he’s gone, and my idolatrous fancy Must sanctify his relics."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pardon, my gracious lord; for I submit My fancy to your eyes."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For her own person, It beggared all description: she did lie In her pavilion, cloth-of-gold of tissue, O’erpicturing that Venus where we see The fancy outwork nature."*

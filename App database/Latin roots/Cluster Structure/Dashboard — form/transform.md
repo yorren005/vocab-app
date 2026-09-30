@@ -5,15 +5,6 @@ status: unread
 ---
 # transform
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to a mathematical transformation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change or alter in form, appearance, or nature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look where they come: Take but good note, and you shall see in him The triple pillar of the world transform’d Into a strumpet’s fool."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For shame, Transform us not to women."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Transform me, then, and to your power I’ll yield."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to a mathematical transformation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change or alter in form, appearance, or nature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look where they come: Take but good note, and you shall see in him The triple pillar of the world transform’d Into a strumpet’s fool."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For shame, Transform us not to women."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Transform me, then, and to your power I’ll yield."*

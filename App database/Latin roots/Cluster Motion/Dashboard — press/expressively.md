@@ -5,15 +5,6 @@ status: unread
 ---
 # expressively
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With expression; in an expressive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With expression; in an expressive manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"From them, however, the eight parts of speech shone out most expressively, and James could combine them with ease."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"As soon as they entered, Bingley looked at her so expressively, and shook hands with such warmth, as left no doubt of his good information; and he soon afterwards said aloud, “Mrs."*
-> - 📜 **Algis Budrys (*Citadel*):** *"I don't see why not." He gestured expressively at the star chart papered over one wall of his office."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With expression; in an expressive manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With expression; in an expressive manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"From them, however, the eight parts of speech shone out most expressively, and James could combine them with ease."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"As soon as they entered, Bingley looked at her so expressively, and shook hands with such warmth, as left no doubt of his good information; and he soon afterwards said aloud, “Mrs."*
+> - 📜 **Algis Budrys (*Citadel*):** *"I don't see why not." He gestured expressively at the star chart papered over one wall of his office."*

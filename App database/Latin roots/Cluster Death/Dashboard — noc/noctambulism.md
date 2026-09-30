@@ -5,13 +5,6 @@ status: unread
 ---
 # noctambulism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Walking by a person who is asleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walking by a person who is asleep.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noctambulism designates walking by a person who is asleep."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Walking by a person who is asleep.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walking by a person who is asleep.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noctambulism designates walking by a person who is asleep."*

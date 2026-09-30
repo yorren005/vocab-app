@@ -5,13 +5,6 @@ status: unread
 ---
 # mousepad
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small portable pad that provides traction for the ball of a computer mouse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small portable pad that provides traction for the ball of a computer mouse.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mousepad designates a small portable pad that provides traction for the ball of a computer mouse."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small portable pad that provides traction for the ball of a computer mouse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small portable pad that provides traction for the ball of a computer mouse.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mousepad designates a small portable pad that provides traction for the ball of a computer mouse."*

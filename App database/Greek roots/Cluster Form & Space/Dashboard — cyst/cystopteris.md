@@ -5,14 +5,6 @@ status: unread
 ---
 # cystopteris
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly small perennial rock ferns: bladder ferns; in some classifications placed in polypodiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly small perennial rock ferns: bladder ferns; in some classifications placed in polypodiaceae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"It has been found in the West of England, on _Cystopteris_, and Sowerby collected it, probably not very far from London."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"FERN UREDO; spots yellowish; sori subrotund, bullate, scattered and aggregate on the under surface; epidermis at length bursting; spores subglobose, yellow.—On Ferns (_Cystopteris_, &c.) Not common. =Uredo pustulata=, P."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly small perennial rock ferns: bladder ferns; in some classifications placed in polypodiaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly small perennial rock ferns: bladder ferns; in some classifications placed in polypodiaceae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"It has been found in the West of England, on _Cystopteris_, and Sowerby collected it, probably not very far from London."*
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"FERN UREDO; spots yellowish; sori subrotund, bullate, scattered and aggregate on the under surface; epidermis at length bursting; spores subglobose, yellow.—On Ferns (_Cystopteris_, &c.) Not common. =Uredo pustulata=, P."*

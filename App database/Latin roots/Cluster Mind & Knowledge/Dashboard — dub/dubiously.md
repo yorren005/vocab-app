@@ -5,15 +5,6 @@ status: unread
 ---
 # dubiously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a questionable and dubious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a doubtful manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The inquiring farmer would edge away and shake his head dubiously."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Our mis’ess has too much sense under they knots of black hair to do such a mad thing.” “You see, he’s not a coarse, ignorant man, for he was well brought up,” said Matthew, dubiously."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What’s to be done?” “I don’t see that ’tis any business of ours,” Smallbury murmured dubiously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a questionable and dubious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a doubtful manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The inquiring farmer would edge away and shake his head dubiously."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Our mis’ess has too much sense under they knots of black hair to do such a mad thing.” “You see, he’s not a coarse, ignorant man, for he was well brought up,” said Matthew, dubiously."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What’s to be done?” “I don’t see that ’tis any business of ours,” Smallbury murmured dubiously."*

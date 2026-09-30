@@ -5,13 +5,6 @@ status: unread
 ---
 # substructure
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic structure or features of a system or organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lowest support of a structure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I had placed myself at the port-scuttle, and saw some magnificent substructures of coral, zoophytes, seaweed, and fucus, agitating their enormous claws, which stretched out from the fissures of the rock."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic structure or features of a system or organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lowest support of a structure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I had placed myself at the port-scuttle, and saw some magnificent substructures of coral, zoophytes, seaweed, and fucus, agitating their enormous claws, which stretched out from the fissures of the rock."*

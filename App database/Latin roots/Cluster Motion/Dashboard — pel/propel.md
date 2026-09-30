@@ -5,15 +5,6 @@ status: unread
 ---
 # propel
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to move forward with force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an incentive for action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"While the bonfires blazed up, it was customary in some parts of Switzerland to propel burning discs of wood through the air by means of the same simple machinery which is used for the purpose in Swabia."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"As the ship travels along, the crew, handling these deadly things quite freely, as if they were innocent of any danger, propel them along to the stern, and at regular intervals push one overboard."*
-> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"In this position, partially supported by the raft, I expected to be able to propel it to the shore."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to move forward with force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an incentive for action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"While the bonfires blazed up, it was customary in some parts of Switzerland to propel burning discs of wood through the air by means of the same simple machinery which is used for the purpose in Swabia."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"As the ship travels along, the crew, handling these deadly things quite freely, as if they were innocent of any danger, propel them along to the stern, and at regular intervals push one overboard."*
+> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"In this position, partially supported by the raft, I expected to be able to propel it to the shore."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # lennon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English rock star and guitarist and songwriter who with paul mccartney wrote most of the music for the beatles (1940-1980).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English rock star and guitarist and songwriter who with paul mccartney wrote most of the music for the beatles (1940-1980).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lennon designates english rock star and guitarist and songwriter who with paul mccartney wrote most of the music for the beatles (1940-1980)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English rock star and guitarist and songwriter who with paul mccartney wrote most of the music for the beatles (1940-1980).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English rock star and guitarist and songwriter who with paul mccartney wrote most of the music for the beatles (1940-1980).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lennon designates english rock star and guitarist and songwriter who with paul mccartney wrote most of the music for the beatles (1940-1980)."*

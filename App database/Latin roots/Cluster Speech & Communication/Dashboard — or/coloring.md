@@ -5,15 +5,6 @@ status: unread
 ---
 # coloring
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A digestible substance used to give color to food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A visual attribute of things that results from the light they emit or transmit or reflect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"It won't do to question us too closely," returned Zoe, coloring and laughing."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"What was it that sent her down the steps?" "Lulu was standing there," Zoe went on, hesitating, and coloring with embarrassment, "and I saw the baby-hands clutch at her skirts"-- Again she paused."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"But, papa,"--he paused, coloring, and casting down his eyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A digestible substance used to give color to food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A visual attribute of things that results from the light they emit or transmit or reflect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"It won't do to question us too closely," returned Zoe, coloring and laughing."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"What was it that sent her down the steps?" "Lulu was standing there," Zoe went on, hesitating, and coloring with embarrassment, "and I saw the baby-hands clutch at her skirts"-- Again she paused."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"But, papa,"--he paused, coloring, and casting down his eyes."*

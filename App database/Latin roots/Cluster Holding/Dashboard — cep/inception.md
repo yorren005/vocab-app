@@ -5,15 +5,6 @@ status: unread
 ---
 # inception
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that is a beginning; a first part or stage of subsequent events.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An event that is a beginning; a first part or stage of subsequent events.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My mother, at my inception, did not create that passionate lack of fear that is mine."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The record of the Bahá'í community since inception of the Formative Age conclusively demonstrates that accomplishment of signal acts accompanied, or followed upon, periods of acute distress in European and American contemporary history."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"UNPRECEDENTED PUBLICITY Seldom, if at any time since its inception, has such a widespread publicity been accorded the infant Faith of God, now at long last emerging from an obscurity which has so long and so grievously oppressed it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that is a beginning; a first part or stage of subsequent events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An event that is a beginning; a first part or stage of subsequent events.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My mother, at my inception, did not create that passionate lack of fear that is mine."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The record of the Bahá'í community since inception of the Formative Age conclusively demonstrates that accomplishment of signal acts accompanied, or followed upon, periods of acute distress in European and American contemporary history."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"UNPRECEDENTED PUBLICITY Seldom, if at any time since its inception, has such a widespread publicity been accorded the infant Faith of God, now at long last emerging from an obscurity which has so long and so grievously oppressed it."*

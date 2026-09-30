@@ -5,13 +5,6 @@ status: unread
 ---
 # nonnormative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not based on a norm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not based on a norm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonnormative designates not based on a norm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not based on a norm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not based on a norm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonnormative designates not based on a norm."*

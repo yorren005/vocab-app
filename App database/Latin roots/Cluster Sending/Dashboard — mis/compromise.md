@@ -5,15 +5,6 @@ status: unread
 ---
 # compromise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A middle way between two extremes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An accommodation in which both sides make concessions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hast thou by secret means Used intercession to obtain a league, And, now the matter grows to compromise, Stand’st thou aloof upon comparison?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall we, upon the footing of our land, Send fair-play orders and make compromise, Insinuation, parley, and base truce To arms invasive?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wars hath not wasted it, for warred he hath not, But basely yielded upon compromise That which his ancestors achieved with blows."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A middle way between two extremes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An accommodation in which both sides make concessions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hast thou by secret means Used intercession to obtain a league, And, now the matter grows to compromise, Stand’st thou aloof upon comparison?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall we, upon the footing of our land, Send fair-play orders and make compromise, Insinuation, parley, and base truce To arms invasive?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wars hath not wasted it, for warred he hath not, But basely yielded upon compromise That which his ancestors achieved with blows."*

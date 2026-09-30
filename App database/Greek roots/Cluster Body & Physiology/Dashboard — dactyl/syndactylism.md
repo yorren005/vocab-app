@@ -5,13 +5,6 @@ status: unread
 ---
 # syndactylism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Birth defect in which there is partial or total webbing connecting two or more fingers or toes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Birth defect in which there is partial or total webbing connecting two or more fingers or toes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syndactylism designates birth defect in which there is partial or total webbing connecting two or more fingers or toes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Birth defect in which there is partial or total webbing connecting two or more fingers or toes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Birth defect in which there is partial or total webbing connecting two or more fingers or toes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syndactylism designates birth defect in which there is partial or total webbing connecting two or more fingers or toes."*

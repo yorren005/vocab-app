@@ -5,15 +5,6 @@ status: unread
 ---
 # precisely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indicating exactness or preciseness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a precise manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For full well he knows He cannot so precisely weed this land As his misdoubts present occasion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me precisely of what complexion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, precisely, can you carry your good will to the maid?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indicating exactness or preciseness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a precise manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For full well he knows He cannot so precisely weed this land As his misdoubts present occasion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me precisely of what complexion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, precisely, can you carry your good will to the maid?"*

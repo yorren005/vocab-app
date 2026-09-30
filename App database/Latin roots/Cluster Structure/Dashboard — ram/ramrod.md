@@ -5,15 +5,6 @@ status: unread
 ---
 # ramrod
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rod used to ram the charge into a muzzle-loading firearm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A harshly demanding overseer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Aunt Augusta is as temperate in all things as a steel ramrod."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A Frenchman who had just pushed a Russian soldier away was squatting by the fire, engaged in roasting a piece of meat stuck on a ramrod."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"His sleeves were rolled up and his sinewy, hairy, red hands with their short fingers deftly turned the ramrod."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rod used to ram the charge into a muzzle-loading firearm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A harshly demanding overseer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Aunt Augusta is as temperate in all things as a steel ramrod."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A Frenchman who had just pushed a Russian soldier away was squatting by the fire, engaged in roasting a piece of meat stuck on a ramrod."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"His sleeves were rolled up and his sinewy, hairy, red hands with their short fingers deftly turned the ramrod."*

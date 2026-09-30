@@ -5,15 +5,6 @@ status: unread
 ---
 # suggest
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a proposal, declare a plan for something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drop a hint; intimate by a hint.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I give thee not this to suggest thee from thy master thou talk’st of; serve him still."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If secret powers [_Lays his hand on his head._] Suggest but truth to my divining thoughts, This pretty lad will prove our country’s bliss."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"II Two loves I have, of comfort and despair, That like two spirits do suggest me still; My better angel is a man right fair, My worser spirit a woman colour’d ill."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a proposal, declare a plan for something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drop a hint; intimate by a hint.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I give thee not this to suggest thee from thy master thou talk’st of; serve him still."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If secret powers [_Lays his hand on his head._] Suggest but truth to my divining thoughts, This pretty lad will prove our country’s bliss."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"II Two loves I have, of comfort and despair, That like two spirits do suggest me still; My better angel is a man right fair, My worser spirit a woman colour’d ill."*

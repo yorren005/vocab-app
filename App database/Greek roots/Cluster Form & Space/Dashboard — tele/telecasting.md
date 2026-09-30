@@ -5,13 +5,6 @@ status: unread
 ---
 # telecasting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Broadcasting visual images of stationary or moving objects; ;  - ernie kovacs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Broadcast via television.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telecasting designates broadcasting visual images of stationary or moving objects; ;  - ernie kovacs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Broadcasting visual images of stationary or moving objects; ;  - ernie kovacs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Broadcast via television.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telecasting designates broadcasting visual images of stationary or moving objects; ;  - ernie kovacs."*

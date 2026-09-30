@@ -5,15 +5,6 @@ status: unread
 ---
 # arbitration
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) the hearing and determination of a dispute by an impartial referee agreed to by both parties (often used to settle disputes between labor and management).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of deciding as an arbiter; giving authoritative judgment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Mediation and voluntary arbitration. § 12."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Organized labor's opposition to compulsory arbitration. § 15."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The public and compulsory arbitration. § 1. #Spread of the shorter working day.# Since about 1880 a shorter working day has been one of the prime objects of organized labor in America."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) the hearing and determination of a dispute by an impartial referee agreed to by both parties (often used to settle disputes between labor and management).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of deciding as an arbiter; giving authoritative judgment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Mediation and voluntary arbitration. § 12."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Organized labor's opposition to compulsory arbitration. § 15."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The public and compulsory arbitration. § 1. #Spread of the shorter working day.# Since about 1880 a shorter working day has been one of the prime objects of organized labor in America."*

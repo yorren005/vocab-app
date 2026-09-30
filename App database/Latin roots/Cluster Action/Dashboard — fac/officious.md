@@ -5,15 +5,6 @@ status: unread
 ---
 # officious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intrusive in a meddling or offensive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intrusive in a meddling or offensive manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Till I find more than will or words to do it— I mean your malice—know, officious lords, I dare and must deny it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are too officious In her behalf that scorns your services."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, come, be everyone officious To make this banquet, which I wish may prove More stern and bloody than the Centaurs’ feast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intrusive in a meddling or offensive manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intrusive in a meddling or offensive manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Till I find more than will or words to do it— I mean your malice—know, officious lords, I dare and must deny it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are too officious In her behalf that scorns your services."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, come, be everyone officious To make this banquet, which I wish may prove More stern and bloody than the Centaurs’ feast."*

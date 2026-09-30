@@ -5,15 +5,6 @@ status: unread
 ---
 # inferiority
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being inferior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inferior quality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There were many little occurrences which suggested to me, with great consolation, how natural it is to gentle hearts to be considerate and delicate towards any inferiority."*
-> - 📜 **Jane Austen (*Persuasion*):** *"There she felt her own inferiority very keenly."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her partiality for this gentleman was not of recent origin; and he had been long withheld only by inferiority of situation from addressing her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being inferior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inferior quality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"There were many little occurrences which suggested to me, with great consolation, how natural it is to gentle hearts to be considerate and delicate towards any inferiority."*
+> - 📜 **Jane Austen (*Persuasion*):** *"There she felt her own inferiority very keenly."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her partiality for this gentleman was not of recent origin; and he had been long withheld only by inferiority of situation from addressing her."*

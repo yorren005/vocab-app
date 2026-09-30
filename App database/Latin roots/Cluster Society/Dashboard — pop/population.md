@@ -5,15 +5,6 @@ status: unread
 ---
 # population
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The people who inhabit a territory or state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of organisms of the same species inhabiting a given area.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was at this fair that new engagements were entered into for the twelve months following the ensuing Lady-Day, and those of the farming population who thought of changing their places duly attended at the county-town where the fair was held."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"These three are types of what the population is at Semur."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It was a blight some people said; and many were of opinion that it was caused by clouds of animalculæ coming, as is described in ancient writings, to destroy the crops, and even to affect the health of the population."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The people who inhabit a territory or state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of organisms of the same species inhabiting a given area.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was at this fair that new engagements were entered into for the twelve months following the ensuing Lady-Day, and those of the farming population who thought of changing their places duly attended at the county-town where the fair was held."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"These three are types of what the population is at Semur."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It was a blight some people said; and many were of opinion that it was caused by clouds of animalculæ coming, as is described in ancient writings, to destroy the crops, and even to affect the health of the population."*

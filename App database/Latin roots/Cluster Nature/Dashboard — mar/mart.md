@@ -5,15 +5,6 @@ status: unread
 ---
 # mart
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An area in a town where a public mercantile establishment is set up.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area in a town where a public mercantile establishment is set up.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Soon, at five o’clock, Please you, I’ll meet with you upon the mart, And afterward consort you till bedtime."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My charge was but to fetch you from the mart Home to your house, the Phoenix, sir, to dinner."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perhaps some merchant hath invited him, And from the mart he’s somewhere gone to dinner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An area in a town where a public mercantile establishment is set up.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area in a town where a public mercantile establishment is set up.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Soon, at five o’clock, Please you, I’ll meet with you upon the mart, And afterward consort you till bedtime."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My charge was but to fetch you from the mart Home to your house, the Phoenix, sir, to dinner."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perhaps some merchant hath invited him, And from the mart he’s somewhere gone to dinner."*

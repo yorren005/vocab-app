@@ -5,13 +5,6 @@ status: unread
 ---
 # centerpiece
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The central or most important feature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something placed at the center of something else (as on a table).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Major Spencer asked Clifton Sloane, an Improver who drove the milk to the Carmody cheese factory, if it was true that everybody would have to have his milk-stand hand-painted next summer and keep an embroidered centerpiece on it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The central or most important feature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something placed at the center of something else (as on a table).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Major Spencer asked Clifton Sloane, an Improver who drove the milk to the Carmody cheese factory, if it was true that everybody would have to have his milk-stand hand-painted next summer and keep an embroidered centerpiece on it."*

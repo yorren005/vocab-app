@@ -5,13 +5,6 @@ status: unread
 ---
 # perdurable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very long lasting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very long lasting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have professed me thy friend, and I confess me knit to thy deserving with cables of perdurable toughness; I could never better stead thee than now."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very long lasting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very long lasting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have professed me thy friend, and I confess me knit to thy deserving with cables of perdurable toughness; I could never better stead thee than now."*

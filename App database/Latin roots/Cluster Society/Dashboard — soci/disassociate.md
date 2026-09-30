@@ -5,14 +5,6 @@ status: unread
 ---
 # disassociate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Part; cease or break association with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Part; cease or break association with.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"It is very important, therefore, that the first thing for a young man going into business to learn is to disassociate success from the more prominent walks in life, and get rid of that false theory."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But it is much to be desired that in large part the finances of a system of social insurance should be disassociated from the ordinary budgetary system of taxation and public expenditures."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Part; cease or break association with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Part; cease or break association with.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"It is very important, therefore, that the first thing for a young man going into business to learn is to disassociate success from the more prominent walks in life, and get rid of that false theory."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But it is much to be desired that in large part the finances of a system of social insurance should be disassociated from the ordinary budgetary system of taxation and public expenditures."*

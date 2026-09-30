@@ -5,13 +5,6 @@ status: unread
 ---
 # monoplegia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paralysis of a single limb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paralysis of a single limb.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoplegia designates paralysis of a single limb."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paralysis of a single limb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paralysis of a single limb.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoplegia designates paralysis of a single limb."*

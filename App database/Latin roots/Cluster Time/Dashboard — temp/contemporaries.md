@@ -5,15 +5,6 @@ status: unread
 ---
 # contemporaries
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All the people living at the same time or of approximately the same age.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person of nearly the same age as another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"But Cairns, in addition to gaining academic distinctions, seems to have impressed his contemporaries in a quite exceptional degree with a sense of his power and promise."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"A Galilean peasant, dressed in the garb of his day and place, his mind fitted out with the current ideas of his contemporaries, elevated, it may be, but not essentially changed?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Nor did he, like some of his contemporaries and some modern people, exaggerate the place of pain in human experience."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: All the people living at the same time or of approximately the same age.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person of nearly the same age as another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"But Cairns, in addition to gaining academic distinctions, seems to have impressed his contemporaries in a quite exceptional degree with a sense of his power and promise."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"A Galilean peasant, dressed in the garb of his day and place, his mind fitted out with the current ideas of his contemporaries, elevated, it may be, but not essentially changed?"*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Nor did he, like some of his contemporaries and some modern people, exaggerate the place of pain in human experience."*

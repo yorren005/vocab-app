@@ -5,13 +5,6 @@ status: unread
 ---
 # insalubrious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Detrimental to health.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Detrimental to health.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He would have let the house, but could find no tenant, in consequence of its ineligible and insalubrious site."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Detrimental to health.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Detrimental to health.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He would have let the house, but could find no tenant, in consequence of its ineligible and insalubrious site."*

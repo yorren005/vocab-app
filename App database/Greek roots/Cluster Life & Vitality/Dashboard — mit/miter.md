@@ -5,13 +5,6 @@ status: unread
 ---
 # miter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Joint that forms a corner; usually both sides are bevelled at a 45-degree angle to form a 90-degree corner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surface of a beveled end of a piece where a miter joint is made.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miter designates joint that forms a corner; usually both sides are bevelled at a 45-degree angle to form a 90-degree corner."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Joint that forms a corner; usually both sides are bevelled at a 45-degree angle to form a 90-degree corner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surface of a beveled end of a piece where a miter joint is made.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miter designates joint that forms a corner; usually both sides are bevelled at a 45-degree angle to form a 90-degree corner."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # typical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Combining or exhibiting the essential characteristics of a group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conforming to a type.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Unlike and superior to either of those two typical remnants of mediævalism, the old barn embodied practices which had suffered no mutilation at the hands of time."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here’s a marble headstone beautifully crocketed, with medallions beneath of typical subjects; here’s the footstone after the same pattern, and here’s the coping to enclose the grave."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her first day’s experiences were fairly typical of those which followed through many succeeding days."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Combining or exhibiting the essential characteristics of a group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conforming to a type.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Unlike and superior to either of those two typical remnants of mediævalism, the old barn embodied practices which had suffered no mutilation at the hands of time."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here’s a marble headstone beautifully crocketed, with medallions beneath of typical subjects; here’s the footstone after the same pattern, and here’s the coping to enclose the grave."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her first day’s experiences were fairly typical of those which followed through many succeeding days."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # regalia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paraphernalia indicative of royalty (or other high office).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Especially fine or decorative clothing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In place of the golden crown he wore a peaked white cap, and his regalia, instead of being of gold encrusted with diamonds, were of rough wood."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In southern Celebes the regalia often consist of corporeal portions of deceased rajahs, which are treasured as sacred relics and confer the right to the throne."*
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"As all the afternoon our sentinels on the city wall saw Boxers in full regalia going at pleasure among the native troops stationed about the ruined Chien Men, we know that the tsung-li-yamen’s words were, as usual, a pack of lies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paraphernalia indicative of royalty (or other high office).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Especially fine or decorative clothing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In place of the golden crown he wore a peaked white cap, and his regalia, instead of being of gold encrusted with diamonds, were of rough wood."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In southern Celebes the regalia often consist of corporeal portions of deceased rajahs, which are treasured as sacred relics and confer the right to the throne."*
+> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"As all the afternoon our sentinels on the city wall saw Boxers in full regalia going at pleasure among the native troops stationed about the ruined Chien Men, we know that the tsung-li-yamen’s words were, as usual, a pack of lies."*

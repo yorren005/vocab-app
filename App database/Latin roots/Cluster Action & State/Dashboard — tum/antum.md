@@ -5,13 +5,6 @@ status: unread
 ---
 # antum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Babylonian consort of anu.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Babylonian consort of anu.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antum designates babylonian consort of anu."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Babylonian consort of anu.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Babylonian consort of anu.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antum designates babylonian consort of anu."*

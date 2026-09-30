@@ -5,15 +5,6 @@ status: unread
 ---
 # error
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wrong action attributable to bad judgment or ignorance or inattention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inadvertent incorrectness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus, Indian-like, Religious in mine error, I adore The sun that looks upon his worshipper, But knows of him no more."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What error drives our eyes and ears amiss?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The dust on antique time would lie unswept And mountainous error be too highly heaped For truth to o’erpeer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wrong action attributable to bad judgment or ignorance or inattention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inadvertent incorrectness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus, Indian-like, Religious in mine error, I adore The sun that looks upon his worshipper, But knows of him no more."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What error drives our eyes and ears amiss?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The dust on antique time would lie unswept And mountainous error be too highly heaped For truth to o’erpeer."*

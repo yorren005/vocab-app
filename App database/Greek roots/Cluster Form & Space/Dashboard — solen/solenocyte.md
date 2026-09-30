@@ -5,13 +5,6 @@ status: unread
 ---
 # solenocyte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In biology, solenocytes are elongated, flagellated cells commonly found in lower invertebrates, such as flatworms, chordates and several other animal species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In terms of function, solenocytes play a significant role in the excretory systems of their host organism(s).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solenocyte designates in biology, solenocytes are elongated, flagellated cells commonly found in lower invertebrates, such as flatworms, chordates and several other animal species."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In biology, solenocytes are elongated, flagellated cells commonly found in lower invertebrates, such as flatworms, chordates and several other animal species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In terms of function, solenocytes play a significant role in the excretory systems of their host organism(s).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solenocyte designates in biology, solenocytes are elongated, flagellated cells commonly found in lower invertebrates, such as flatworms, chordates and several other animal species."*

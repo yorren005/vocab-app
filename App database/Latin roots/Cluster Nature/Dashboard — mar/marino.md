@@ -5,13 +5,6 @@ status: unread
 ---
 # marino
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian poet (1569-1625).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian poet (1569-1625).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Through all the mutations, and revolutions, and relinings of the maps of Europe, the little territory of San Marino has been sacredly respected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian poet (1569-1625).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian poet (1569-1625).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Through all the mutations, and revolutions, and relinings of the maps of Europe, the little territory of San Marino has been sacredly respected."*

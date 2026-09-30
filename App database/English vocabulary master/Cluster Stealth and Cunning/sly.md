@@ -5,20 +5,6 @@ status: unread
 ---
 # sly
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Wise in practical affairs
-> 2. **Nuance / Usage**: Displaying cleverness : ingenious
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a sly presence*) or predicatively (*remained sly*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I am Christophero Sly; call not me honour nor lordship."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The old man shakes his head with sharp sly triumph."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"against the cow, full of sly inquiry upon him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Having or showing a cunning, secretive, and artfully deceitful nature in achieving one's ends.
+> 2. **Nuance / Usage**: Can also carry a lighter, playful connotation of knowing, mischievous humor (*a sly wink*, *a sly remark*), or appear in the idiom *on the sly* meaning secretly and out of public view.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a sly glance*, *a sly fox*), predicatively (*proved too sly*), or in the idiom *on the sly*.
+> - **Collocations & Registers**: Narrative and conversational registers; collocated with *wink*, *humor*, *triumph*, *fox*, and *grin*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old man shakes his head with a look of sharp, **sly** triumph."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She leaned her cheek against the flank of the cow, turning eyes full of **sly** inquiry upon him."*
+> - 📜 **Jane Austen (*Emma*):** *"He could not help giving her a **sly** look of amusement as the secret came out."*

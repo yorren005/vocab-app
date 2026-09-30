@@ -5,13 +5,6 @@ status: unread
 ---
 # aggregative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed of separate units gathered into a mass or whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed of separate units gathered into a mass or whole.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aggregative designates formed of separate units gathered into a mass or whole."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed of separate units gathered into a mass or whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed of separate units gathered into a mass or whole.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aggregative designates formed of separate units gathered into a mass or whole."*

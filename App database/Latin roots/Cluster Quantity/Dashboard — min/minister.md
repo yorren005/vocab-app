@@ -5,15 +5,6 @@ status: unread
 ---
 # minister
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person authorized to conduct religious worship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person appointed to a high office in the government.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that of greatest works is finisher Oft does them by the weakest minister."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And debile minister, great power, great transcendence, which should indeed give us a further use to be made than alone the recov’ry of the king, as to be— LAFEW."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is dead, Caesar, Not by a public minister of justice, Nor by a hired knife, but that self hand Which writ his honour in the acts it did Hath, with the courage which the heart did lend it, Splitted the heart."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person authorized to conduct religious worship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person appointed to a high office in the government.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that of greatest works is finisher Oft does them by the weakest minister."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And debile minister, great power, great transcendence, which should indeed give us a further use to be made than alone the recov’ry of the king, as to be— LAFEW."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is dead, Caesar, Not by a public minister of justice, Nor by a hired knife, but that self hand Which writ his honour in the acts it did Hath, with the courage which the heart did lend it, Splitted the heart."*

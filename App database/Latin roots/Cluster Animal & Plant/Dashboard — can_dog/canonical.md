@@ -5,15 +5,6 @@ status: unread
 ---
 # canonical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appearing in a biblical canon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or required by canon law.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But it may be more than a coincidence that his countrymen were impressed with his knowledge of the national literature; and traces of other than canonical books have been found in his teaching."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"They unweariedly continue their canonical hours, not piecing any service to another, except the _vigils_ for the deceased."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Thomas</g> and the clergy of the middle ages are to be condemned for resisting such injustice by prayers, and law, and canonical censures, what will be thought of <g>St."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Appearing in a biblical canon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or required by canon law.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But it may be more than a coincidence that his countrymen were impressed with his knowledge of the national literature; and traces of other than canonical books have been found in his teaching."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"They unweariedly continue their canonical hours, not piecing any service to another, except the _vigils_ for the deceased."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Thomas</g> and the clergy of the middle ages are to be condemned for resisting such injustice by prayers, and law, and canonical censures, what will be thought of <g>St."*

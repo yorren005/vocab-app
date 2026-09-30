@@ -5,15 +5,6 @@ status: unread
 ---
 # teresa
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indian nun and missionary in the roman catholic church (born of albanian parents in what is now macedonia); dedicated to helping the poor in india (1910-1997).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indian nun and missionary in the roman catholic church (born of albanian parents in what is now macedonia); dedicated to helping the poor in india (1910-1997).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Now then, Mistress Teresa d’Urberville, I have you."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Clare inquired for Teresa d’Urberville or Durbeyfield."*
-> - 📜 **James Joyce (*Ulysses*):** *"And Sarsfield and O’Donnell, duke of Tetuan in Spain, and Ulysses Browne of Camus that was fieldmarshal to Maria Teresa."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indian nun and missionary in the roman catholic church (born of albanian parents in what is now macedonia); dedicated to helping the poor in india (1910-1997).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indian nun and missionary in the roman catholic church (born of albanian parents in what is now macedonia); dedicated to helping the poor in india (1910-1997).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Now then, Mistress Teresa d’Urberville, I have you."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Clare inquired for Teresa d’Urberville or Durbeyfield."*
+> - 📜 **James Joyce (*Ulysses*):** *"And Sarsfield and O’Donnell, duke of Tetuan in Spain, and Ulysses Browne of Camus that was fieldmarshal to Maria Teresa."*

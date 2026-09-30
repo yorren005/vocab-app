@@ -5,14 +5,6 @@ status: unread
 ---
 # instal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Set up for use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into an office or a position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"General Slocum declared that he could have no partiality in his brigade, and proposed to take two large buildings, the Powell House and the Octagon House, as hospitals, and instal Miss Bradley as lady superintendent of the Brigade Hospital."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Gibbons returned for a brief space to Point Lookout, where her purpose was to instal the Misses Woolsey, and then leave them in charge of the hospital."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Set up for use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into an office or a position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"General Slocum declared that he could have no partiality in his brigade, and proposed to take two large buildings, the Powell House and the Octagon House, as hospitals, and instal Miss Bradley as lady superintendent of the Brigade Hospital."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Gibbons returned for a brief space to Point Lookout, where her purpose was to instal the Misses Woolsey, and then leave them in charge of the hospital."*

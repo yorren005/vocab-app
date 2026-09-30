@@ -5,13 +5,6 @@ status: unread
 ---
 # ligan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Goods (or wreckage) on the sea bed that is attached to a buoy so that it can be recovered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Goods (or wreckage) on the sea bed that is attached to a buoy so that it can be recovered.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ligan designates goods (or wreckage) on the sea bed that is attached to a buoy so that it can be recovered."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Goods (or wreckage) on the sea bed that is attached to a buoy so that it can be recovered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Goods (or wreckage) on the sea bed that is attached to a buoy so that it can be recovered.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ligan designates goods (or wreckage) on the sea bed that is attached to a buoy so that it can be recovered."*

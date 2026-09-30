@@ -5,15 +5,6 @@ status: unread
 ---
 # marred
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make imperfect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy or injure severely.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This man has marred his fortune."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he come not, then the play is marred."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But repetition of what thou hast marred."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make imperfect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroy or injure severely.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This man has marred his fortune."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he come not, then the play is marred."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But repetition of what thou hast marred."*

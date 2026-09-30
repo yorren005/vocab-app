@@ -5,15 +5,6 @@ status: unread
 ---
 # longevity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Duration of service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being long-lived.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Moreover: we are to consider, that from the presumed great longevity of whales, their probably attaining the age of a century and more, therefore at any one period of time, several distinct adult generations must be contemporary."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The longevity of Cape Horn whaling voyages is proverbial, frequently extending over a period of four or five years."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Moreover: we are to consider, that from the presumed great longevity of whales, their probably attaining the age of a century and more, therefore at any one period of time, several distinct adult generations must be contemporary."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Duration of service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being long-lived.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Moreover: we are to consider, that from the presumed great longevity of whales, their probably attaining the age of a century and more, therefore at any one period of time, several distinct adult generations must be contemporary."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The longevity of Cape Horn whaling voyages is proverbial, frequently extending over a period of four or five years."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Moreover: we are to consider, that from the presumed great longevity of whales, their probably attaining the age of a century and more, therefore at any one period of time, several distinct adult generations must be contemporary."*

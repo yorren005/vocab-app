@@ -5,15 +5,6 @@ status: unread
 ---
 # provoke
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Call forth (emotions, feelings, and responses).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evoke or provoke to appear or occur.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Strike not by land; keep whole; provoke not battle Till we have done at sea."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The wrongs he did me Were nothing prince-like; for he did provoke me With language that would make me spurn the sea, If it could so roar to me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Moreover that we much did long to see you, The need we have to use you did provoke Our hasty sending."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Call forth (emotions, feelings, and responses).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evoke or provoke to appear or occur.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Strike not by land; keep whole; provoke not battle Till we have done at sea."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The wrongs he did me Were nothing prince-like; for he did provoke me With language that would make me spurn the sea, If it could so roar to me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Moreover that we much did long to see you, The need we have to use you did provoke Our hasty sending."*

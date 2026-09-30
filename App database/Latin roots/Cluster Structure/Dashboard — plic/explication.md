@@ -5,15 +5,6 @@ status: unread
 ---
 # explication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making clear or removing obscurity from the meaning of a word or symbol or expression etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A detailed explanation of the meaning of something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One but painted thus Would be interpreted a thing perplex’d Beyond self-explication."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Thy prayers might subdue stones; but none but he who enjoined my purpose can shake it.” These words were a sufficient explication of the scene."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The scientific mani- festation of power is from the divine nature 83:15 and is not supernatural, since Science is an explication of nature."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making clear or removing obscurity from the meaning of a word or symbol or expression etc.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A detailed explanation of the meaning of something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One but painted thus Would be interpreted a thing perplex’d Beyond self-explication."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Thy prayers might subdue stones; but none but he who enjoined my purpose can shake it.” These words were a sufficient explication of the scene."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The scientific mani- festation of power is from the divine nature 83:15 and is not supernatural, since Science is an explication of nature."*

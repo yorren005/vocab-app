@@ -5,13 +5,6 @@ status: unread
 ---
 # solenoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A coil of wire usually in cylindrical form that when carrying a current acts like a magnet so that a movable core is drawn into the coil when a current flows and that is used especially as a switch or control for a mechanical device (such as a valve).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coil of wire usually in cylindrical form that when carrying a current acts like a magnet so that a movable core is drawn into the coil when a current flows and that is used especially as a switch or control for a mechanical device (such as a valve).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solenoid designates a coil of wire usually in cylindrical form that when carrying a current acts like a magnet so that a movable core is drawn into the coil when a current flows and that is used especially as a switch or control for a mechanical device (such as a valve)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A coil of wire usually in cylindrical form that when carrying a current acts like a magnet so that a movable core is drawn into the coil when a current flows and that is used especially as a switch or control for a mechanical device (such as a valve).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coil of wire usually in cylindrical form that when carrying a current acts like a magnet so that a movable core is drawn into the coil when a current flows and that is used especially as a switch or control for a mechanical device (such as a valve).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solenoid designates a coil of wire usually in cylindrical form that when carrying a current acts like a magnet so that a movable core is drawn into the coil when a current flows and that is used especially as a switch or control for a mechanical device (such as a valve)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # preemptor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who acquires land by preemption.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bidder in bridge who makes a preemptive bid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preemptor designates someone who acquires land by preemption."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who acquires land by preemption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bidder in bridge who makes a preemptive bid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preemptor designates someone who acquires land by preemption."*

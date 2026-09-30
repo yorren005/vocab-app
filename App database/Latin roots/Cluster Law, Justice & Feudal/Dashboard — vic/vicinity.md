@@ -5,15 +5,6 @@ status: unread
 ---
 # vicinity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surrounding or nearby region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surrounding or nearby region.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I'll find somebody for him," she said, eagerly running down the incline to the door, in whose vicinity Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed on the level ground in the vicinity snowed up in a heap of paper fragments, print, and manuscript which would appear to be the accumulated compliments that have been sent flying at her in the course of the day."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce and his wards on the occasion of an accidental meeting during their sojourn in the vicinity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surrounding or nearby region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surrounding or nearby region.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I'll find somebody for him," she said, eagerly running down the incline to the door, in whose vicinity Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed on the level ground in the vicinity snowed up in a heap of paper fragments, print, and manuscript which would appear to be the accumulated compliments that have been sent flying at her in the course of the day."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce and his wards on the occasion of an accidental meeting during their sojourn in the vicinity."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # phosphoric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or characteristic of phosphorus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or characteristic of phosphorus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The pool glittered like a dead man’s eye, and as the world awoke a breeze blew, shaking and elongating the reflection of the moon without breaking it, and turning the image of the star to a phosphoric streak upon the water."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was not a mere phosphoric phenomenon."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It is only an agglomeration of phosphoric particles,” cried one of the officers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or characteristic of phosphorus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or characteristic of phosphorus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The pool glittered like a dead man’s eye, and as the world awoke a breeze blew, shaking and elongating the reflection of the moon without breaking it, and turning the image of the star to a phosphoric streak upon the water."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was not a mere phosphoric phenomenon."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It is only an agglomeration of phosphoric particles,” cried one of the officers."*

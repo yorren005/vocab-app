@@ -5,13 +5,6 @@ status: unread
 ---
 # dicynodont
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a suborder (Dicynodontia) of small, herbivorous, therapsid vertebrates with reduced dentition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a suborder (Dicynodontia) of small, herbivorous, therapsid vertebrates with reduced dentition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicynodont designates any of a suborder (dicynodontia) of small, herbivorous, therapsid vertebrates with reduced dentition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a suborder (Dicynodontia) of small, herbivorous, therapsid vertebrates with reduced dentition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a suborder (Dicynodontia) of small, herbivorous, therapsid vertebrates with reduced dentition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicynodont designates any of a suborder (dicynodontia) of small, herbivorous, therapsid vertebrates with reduced dentition."*

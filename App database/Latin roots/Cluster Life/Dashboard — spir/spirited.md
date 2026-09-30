@@ -5,15 +5,6 @@ status: unread
 ---
 # spirited
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infuse with spirit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying animation, vigor, or liveliness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What a frosty-spirited rogue is this!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ill-spirited Worcester, did not we send grace, Pardon, and terms of love to all of you?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And shall our quick blood, spirited with wine, Seem frosty?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infuse with spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying animation, vigor, or liveliness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What a frosty-spirited rogue is this!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ill-spirited Worcester, did not we send grace, Pardon, and terms of love to all of you?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And shall our quick blood, spirited with wine, Seem frosty?"*

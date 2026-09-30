@@ -5,13 +5,6 @@ status: unread
 ---
 # xenon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy colorless and relatively inert gaseous element that occurs in air as about one part in 20 million and is used especially in specialized electric lamps (such as flash tubes) and in scientific research.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy colorless and relatively inert gaseous element that occurs in air as about one part in 20 million and is used especially in specialized electric lamps (such as flash tubes) and in scientific research.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenon designates a heavy colorless and relatively inert gaseous element that occurs in air as about one part in 20 million and is used especially in specialized electric lamps (such as flash tubes) and in scientific research."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy colorless and relatively inert gaseous element that occurs in air as about one part in 20 million and is used especially in specialized electric lamps (such as flash tubes) and in scientific research.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy colorless and relatively inert gaseous element that occurs in air as about one part in 20 million and is used especially in specialized electric lamps (such as flash tubes) and in scientific research.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenon designates a heavy colorless and relatively inert gaseous element that occurs in air as about one part in 20 million and is used especially in specialized electric lamps (such as flash tubes) and in scientific research."*

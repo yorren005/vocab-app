@@ -5,15 +5,6 @@ status: unread
 ---
 # totter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move without being stable, as if threatening to fall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walk unsteadily.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At length her onward walk dwindled to the merest totter, and she opened a gate within which was a haystack."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"John Anderson, my jo, John, We clamb the hill thegither; And mony a cantie day, John, We’ve had wi’ ane anither: Now we maun totter down, John, And hand in hand we’ll go, And sleep thegither at the foot, John Anderson, my jo."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle’s great-aunt collected her energies, and made an indiscriminate totter at them with a birch-rod."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Move without being stable, as if threatening to fall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walk unsteadily.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At length her onward walk dwindled to the merest totter, and she opened a gate within which was a haystack."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"John Anderson, my jo, John, We clamb the hill thegither; And mony a cantie day, John, We’ve had wi’ ane anither: Now we maun totter down, John, And hand in hand we’ll go, And sleep thegither at the foot, John Anderson, my jo."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle’s great-aunt collected her energies, and made an indiscriminate totter at them with a birch-rod."*

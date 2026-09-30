@@ -5,15 +5,6 @@ status: unread
 ---
 # physic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A purging medicine; stimulates evacuation of the bowels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A purging medicine; stimulates evacuation of the bowels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet practiser, thy physic I will try, That ministers thine own death if I die."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I am sure the younger of our nature, That surfeit on their ease, will day by day Come here for physic."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will physic your rankness, and yet give no thousand crowns neither."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A purging medicine; stimulates evacuation of the bowels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A purging medicine; stimulates evacuation of the bowels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet practiser, thy physic I will try, That ministers thine own death if I die."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I am sure the younger of our nature, That surfeit on their ease, will day by day Come here for physic."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will physic your rankness, and yet give no thousand crowns neither."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # underlie
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be or form the base for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lie underneath.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Society moves on lines he laid down for it; his plans underlie all."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Ah, it is so easy to follow a line of argument, and so difficult to grasp the facts that underlie it!"*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Dread of the foreigner underlies much of the present activity and openmindedness towards Western ideas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be or form the base for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lie underneath.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Society moves on lines he laid down for it; his plans underlie all."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Ah, it is so easy to follow a line of argument, and so difficult to grasp the facts that underlie it!"*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Dread of the foreigner underlies much of the present activity and openmindedness towards Western ideas."*

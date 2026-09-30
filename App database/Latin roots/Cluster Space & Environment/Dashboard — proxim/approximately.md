@@ -5,15 +5,6 @@ status: unread
 ---
 # approximately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of quantities) imprecise but fairly close to correct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of quantities) imprecise but fairly close to correct.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"While waiting, however, there came along a farmer in his spring cart, driving approximately in the direction that she wished to pursue."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Thank God!” murmured Clare; and yet he was conscious of a pang of bitterness at the thought—approximately true, though not wholly so—that having shifted the burden of her life to his shoulders, she was now reposing without care."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It was at that time invisible; we could but judge approximately."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of quantities) imprecise but fairly close to correct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of quantities) imprecise but fairly close to correct.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"While waiting, however, there came along a farmer in his spring cart, driving approximately in the direction that she wished to pursue."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Thank God!” murmured Clare; and yet he was conscious of a pang of bitterness at the thought—approximately true, though not wholly so—that having shifted the burden of her life to his shoulders, she was now reposing without care."*
+> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"It was at that time invisible; we could but judge approximately."*

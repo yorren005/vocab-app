@@ -5,15 +5,6 @@ status: unread
 ---
 # hello
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of greeting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expression of greeting.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Hello,” I tapped “Hello, stranger,” Morrell tapped back; and, from Oppenheimer, “Welcome to our city.” They were curious to know who I was, how long I was condemned to solitary, and why I had been so condemned."*
-> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Hello, Granny Fox!” he exclaimed."*
-> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Hello, what's the matter now?” Everybody looked."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of greeting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expression of greeting.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Hello,” I tapped “Hello, stranger,” Morrell tapped back; and, from Oppenheimer, “Welcome to our city.” They were curious to know who I was, how long I was condemned to solitary, and why I had been so condemned."*
+> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Hello, Granny Fox!” he exclaimed."*
+> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Hello, what's the matter now?” Everybody looked."*

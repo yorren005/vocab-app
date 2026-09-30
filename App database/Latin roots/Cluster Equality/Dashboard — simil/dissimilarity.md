@@ -5,15 +5,6 @@ status: unread
 ---
 # dissimilarity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being dissimilar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being dissimilar.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The dissimilarity is not so strong."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Nothing greatly original had resulted from these measures; and the effects of the opium had convinced him that there was an entire dissimilarity between his constitution and De Quincey’s."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The dissimilarity in the rules of naturalization has long been remarked as a fault in our system, and as laying a foundation for intricate and delicate questions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being dissimilar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being dissimilar.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The dissimilarity is not so strong."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Nothing greatly original had resulted from these measures; and the effects of the opium had convinced him that there was an entire dissimilarity between his constitution and De Quincey’s."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The dissimilarity in the rules of naturalization has long been remarked as a fault in our system, and as laying a foundation for intricate and delicate questions."*

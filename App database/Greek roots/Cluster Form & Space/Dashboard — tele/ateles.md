@@ -5,13 +5,6 @@ status: unread
 ---
 # ateles
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spider monkeys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spider monkeys.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ateles designates spider monkeys."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spider monkeys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spider monkeys.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ateles designates spider monkeys."*

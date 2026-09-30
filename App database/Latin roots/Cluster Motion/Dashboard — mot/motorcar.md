@@ -5,14 +5,6 @@ status: unread
 ---
 # motorcar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A motor vehicle with four wheels; usually propelled by an internal combustion engine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A motor vehicle with four wheels; usually propelled by an internal combustion engine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"It has vanished long ago... —She lies laid out in stark stiffness in that secondbest bed, the mobled queen, even though you prove that a bed in those days was as rare as a motorcar is now and that its carvings were the wonder of seven parishes."*
-> - 📜 **James Joyce (*Ulysses*):** *"The windscreen of that motorcar in the sun there."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A motor vehicle with four wheels; usually propelled by an internal combustion engine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A motor vehicle with four wheels; usually propelled by an internal combustion engine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"It has vanished long ago... —She lies laid out in stark stiffness in that secondbest bed, the mobled queen, even though you prove that a bed in those days was as rare as a motorcar is now and that its carvings were the wonder of seven parishes."*
+> - 📜 **James Joyce (*Ulysses*):** *"The windscreen of that motorcar in the sun there."*

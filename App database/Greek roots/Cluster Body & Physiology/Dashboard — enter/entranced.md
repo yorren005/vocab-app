@@ -5,15 +5,6 @@ status: unread
 ---
 # entranced
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract; cause to be enamored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into a trance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She hath not been entranced above five hours."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"She had sat entranced during the discussion, with hands tightly clasped, and the thought flickered up in my mind that she had already been corrupted by the religious folly of Jerusalem."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Pilate’s wife sat entranced at what I told."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract; cause to be enamored.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into a trance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She hath not been entranced above five hours."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"She had sat entranced during the discussion, with hands tightly clasped, and the thought flickered up in my mind that she had already been corrupted by the religious folly of Jerusalem."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Pilate’s wife sat entranced at what I told."*

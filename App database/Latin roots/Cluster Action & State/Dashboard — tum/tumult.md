@@ -5,15 +5,6 @@ status: unread
 ---
 # tumult
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of commotion and noise and confusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Violent agitation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Believe me, lords, my tender years can tell Civil dissension is a viperous worm That gnaws the bowels of the commonwealth. [_A noise within, “Down with the tawny-coats!”._] What tumult’s this?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For what hath broached this tumult but thy pride?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, in the body of the fleshly land, This kingdom, this confine of blood and breath, Hostility and civil tumult reigns Between my conscience and my cousin’s death."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of commotion and noise and confusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Violent agitation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Believe me, lords, my tender years can tell Civil dissension is a viperous worm That gnaws the bowels of the commonwealth. [_A noise within, “Down with the tawny-coats!”._] What tumult’s this?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For what hath broached this tumult but thy pride?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, in the body of the fleshly land, This kingdom, this confine of blood and breath, Hostility and civil tumult reigns Between my conscience and my cousin’s death."*

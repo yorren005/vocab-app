@@ -5,15 +5,6 @@ status: unread
 ---
 # quadrille
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Music for dancing the quadrille.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A square dance of 5 or more figures for 4 or more couples.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The Lobster Quadrille The Mock Turtle sighed deeply, and drew the back of one flapper across his eyes."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Shall we try another figure of the Lobster Quadrille?” the Gryphon went on."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She had also asked him twice to dine at Rosings, and had sent for him only the Saturday before, to make up her pool of quadrille in the evening."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Music for dancing the quadrille.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A square dance of 5 or more figures for 4 or more couples.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The Lobster Quadrille The Mock Turtle sighed deeply, and drew the back of one flapper across his eyes."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Shall we try another figure of the Lobster Quadrille?” the Gryphon went on."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She had also asked him twice to dine at Rosings, and had sent for him only the Saturday before, to make up her pool of quadrille in the evening."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # matricaria
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly old world strong-smelling weedy herbs; comprises plants sometimes included in other genera: e.g. tanacetum; tripleurospermum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly old world strong-smelling weedy herbs; comprises plants sometimes included in other genera: e.g. tanacetum; tripleurospermum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, matricaria designates chiefly old world strong-smelling weedy herbs; comprises plants sometimes included in other genera: e.g. tanacetum; tripleurospermum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly old world strong-smelling weedy herbs; comprises plants sometimes included in other genera: e.g. tanacetum; tripleurospermum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly old world strong-smelling weedy herbs; comprises plants sometimes included in other genera: e.g. tanacetum; tripleurospermum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, matricaria designates chiefly old world strong-smelling weedy herbs; comprises plants sometimes included in other genera: e.g. tanacetum; tripleurospermum."*

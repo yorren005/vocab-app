@@ -5,13 +5,6 @@ status: unread
 ---
 # referential
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Referring or pointing to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Referring or pointing to something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, referential designates referring or pointing to something."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Referring or pointing to something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Referring or pointing to something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, referential designates referring or pointing to something."*

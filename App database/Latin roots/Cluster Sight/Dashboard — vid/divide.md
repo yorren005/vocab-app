@@ -5,15 +5,6 @@ status: unread
 ---
 # divide
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A serious disagreement between two groups of people (typically producing tension or hostility).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ridge of land that separates two adjacent river systems.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The world and my great office will sometimes Divide me from your bosom."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that will divide a minute into a thousand parts, and break but a part of the thousand part of a minute in the affairs of love, it may be said of him that Cupid hath clapped him o’ the shoulder, but I’ll warrant him heart-whole."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make good this ostentation, and you shall Divide in all with us. [_Exeunt._] SCENE VII."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A serious disagreement between two groups of people (typically producing tension or hostility).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ridge of land that separates two adjacent river systems.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The world and my great office will sometimes Divide me from your bosom."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that will divide a minute into a thousand parts, and break but a part of the thousand part of a minute in the affairs of love, it may be said of him that Cupid hath clapped him o’ the shoulder, but I’ll warrant him heart-whole."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make good this ostentation, and you shall Divide in all with us. [_Exeunt._] SCENE VII."*

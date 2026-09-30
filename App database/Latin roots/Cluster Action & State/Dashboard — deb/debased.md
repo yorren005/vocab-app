@@ -5,15 +5,6 @@ status: unread
 ---
 # debased
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower in value by increasing the base-metal content.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yes, that’s the d’Urberville nose and chin—a little debased."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Sir Thomas Gresham (whose name has but recently been given to this so-called law), explained the principle to Queen Elizabeth when counseling her regarding the recoinage of the debased money of the realm as was done in 1560."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A ruler, either by making a higher seigniorage charge or by coining on his own account, debased the quality or reduced the weight of the money of his realm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower in value by increasing the base-metal content.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yes, that’s the d’Urberville nose and chin—a little debased."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Sir Thomas Gresham (whose name has but recently been given to this so-called law), explained the principle to Queen Elizabeth when counseling her regarding the recoinage of the debased money of the realm as was done in 1560."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A ruler, either by making a higher seigniorage charge or by coining on his own account, debased the quality or reduced the weight of the money of his realm."*

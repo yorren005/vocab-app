@@ -5,15 +5,6 @@ status: unread
 ---
 # uninvited
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwelcome and unwanted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unwelcome and unwanted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"If you had a blue-eyed daughter you wouldn’t like ME to come, uninvited, on HER birthday?’ But he stayed.” Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn, “I am sorry to be unpolite, but if you ever present yourself uninvited here—or there—again, I will give you over to the police."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"So also was Bathsheba now that he had come, though the uninvited presence of Pennyways, the bailiff who had been dismissed for theft, disturbed her equanimity for a while."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwelcome and unwanted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unwelcome and unwanted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"If you had a blue-eyed daughter you wouldn’t like ME to come, uninvited, on HER birthday?’ But he stayed.” Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn, “I am sorry to be unpolite, but if you ever present yourself uninvited here—or there—again, I will give you over to the police."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"So also was Bathsheba now that he had come, though the uninvited presence of Pennyways, the bailiff who had been dismissed for theft, disturbed her equanimity for a while."*

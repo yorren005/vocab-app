@@ -5,15 +5,6 @@ status: unread
 ---
 # untenable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of theories etc) incapable of being defended or justified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of theories etc) incapable of being defended or justified.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Nevertheless, that a male dissembler who by deluging her with untenable fictions charms the female wisely, may acquire powers reaching to the extremity of perdition, is a truth taught to many by unsought and wringing occurrences."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He moved on in silence, as if his energies were benumbed by the hitherto undreamt-of possibility that his position was untenable."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Commonly labor's protest is expressed in terms of the untenable "lump of labor" theory of wages."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of theories etc) incapable of being defended or justified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of theories etc) incapable of being defended or justified.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Nevertheless, that a male dissembler who by deluging her with untenable fictions charms the female wisely, may acquire powers reaching to the extremity of perdition, is a truth taught to many by unsought and wringing occurrences."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He moved on in silence, as if his energies were benumbed by the hitherto undreamt-of possibility that his position was untenable."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Commonly labor's protest is expressed in terms of the untenable "lump of labor" theory of wages."*

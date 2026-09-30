@@ -5,15 +5,6 @@ status: unread
 ---
 # adjudge
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare to be.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare to be.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Yet of it all nothing do I adjudge so splendid as this accolade delivered by two lifers in solitary deemed by the world as the very bottom-most of the human cesspool."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"The elected Queen of Love and Beauty was then to crown the knight whom the Prince should adjudge to have borne himself best in this second day, with a coronet composed of thin gold plate, cut into the shape of a laurel crown."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Prince John began to talk to his attendants about making ready the banquet, and the necessity of adjudging the prize to Brian de Bois-Guilbert, who had, with a single spear, overthrown two knights, and foiled a third."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Declare to be.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Declare to be.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Yet of it all nothing do I adjudge so splendid as this accolade delivered by two lifers in solitary deemed by the world as the very bottom-most of the human cesspool."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"The elected Queen of Love and Beauty was then to crown the knight whom the Prince should adjudge to have borne himself best in this second day, with a coronet composed of thin gold plate, cut into the shape of a laurel crown."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Prince John began to talk to his attendants about making ready the banquet, and the necessity of adjudging the prize to Brian de Bois-Guilbert, who had, with a single spear, overthrown two knights, and foiled a third."*

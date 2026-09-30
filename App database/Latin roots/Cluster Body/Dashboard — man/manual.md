@@ -5,15 +5,6 @@ status: unread
 ---
 # manual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small handbook.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (military) a prescribed drill in handling a rifle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is my gage, the manual seal of death That marks thee out for hell."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Archery was another favourite amusement, and he was expert at making bows from the thinnings of the Dunglass yews, and arrows tipped with iron _ousels_--almost the only manual dexterity he possessed."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I was a poor student in a Manual Labor Institute at the West."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small handbook.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (military) a prescribed drill in handling a rifle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is my gage, the manual seal of death That marks thee out for hell."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Archery was another favourite amusement, and he was expert at making bows from the thinnings of the Dunglass yews, and arrows tipped with iron _ousels_--almost the only manual dexterity he possessed."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"I was a poor student in a Manual Labor Institute at the West."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # onyx
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A translucent chalcedony in parallel layers of different colors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A translucent chalcedony in parallel layers of different colors.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"When the woman left him he considered thoughtfully the messages he had just received, slowly meanwhile undoing the claspings of the onyx box and raised the lid."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"But when a tiny onyx-box of curious workmanship was produced from the folds of his girdle, and laid before the Rajah of Kashmir, he did not repeat the look, although on its appearance Lal uttered an exulting exclamation."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"The onyx-box was all that rewarded the scrutiny of the Rajah's servants."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A translucent chalcedony in parallel layers of different colors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A translucent chalcedony in parallel layers of different colors.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **C. A. Frazer (*Atmâ*):** *"When the woman left him he considered thoughtfully the messages he had just received, slowly meanwhile undoing the claspings of the onyx box and raised the lid."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"But when a tiny onyx-box of curious workmanship was produced from the folds of his girdle, and laid before the Rajah of Kashmir, he did not repeat the look, although on its appearance Lal uttered an exulting exclamation."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"The onyx-box was all that rewarded the scrutiny of the Rajah's servants."*

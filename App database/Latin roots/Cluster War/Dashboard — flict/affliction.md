@@ -5,15 +5,6 @@ status: unread
 ---
 # affliction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of great suffering and distress due to adversity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition of suffering or distress due to ill health.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He shall be lord of Lady Imogen, And happier much by his affliction made."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her father and myself, lawful espials, Will so bestow ourselves that, seeing unseen, We may of their encounter frankly judge, And gather by him, as he is behav’d, If’t be th’affliction of his love or no That thus he suffers for."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Queen your mother, in most great affliction of spirit, hath sent me to you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of great suffering and distress due to adversity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition of suffering or distress due to ill health.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He shall be lord of Lady Imogen, And happier much by his affliction made."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her father and myself, lawful espials, Will so bestow ourselves that, seeing unseen, We may of their encounter frankly judge, And gather by him, as he is behav’d, If’t be th’affliction of his love or no That thus he suffers for."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Queen your mother, in most great affliction of spirit, hath sent me to you."*

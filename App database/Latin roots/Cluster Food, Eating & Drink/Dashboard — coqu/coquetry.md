@@ -5,15 +5,6 @@ status: unread
 ---
 # coquetry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Playful behavior intended to arouse sexual interest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Playful behavior intended to arouse sexual interest.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Do you think Miss Ingram will not suffer from your dishonest coquetry?"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"This was Isabel's first venture into coquetry."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I suppose it answers some wise ends: Providence made them so, eh, Bulstrode?” “I should be disposed to refer coquetry to another source,” said Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Playful behavior intended to arouse sexual interest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Playful behavior intended to arouse sexual interest.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Do you think Miss Ingram will not suffer from your dishonest coquetry?"*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"This was Isabel's first venture into coquetry."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I suppose it answers some wise ends: Providence made them so, eh, Bulstrode?” “I should be disposed to refer coquetry to another source,” said Mr."*

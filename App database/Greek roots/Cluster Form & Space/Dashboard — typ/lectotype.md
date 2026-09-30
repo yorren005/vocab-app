@@ -5,13 +5,6 @@ status: unread
 ---
 # lectotype
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specimen chosen as the type of a species or subspecies if the author of the name fails to designate a type.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specimen chosen as the type of a species or subspecies if the author of the name fails to designate a type.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lectotype designates a specimen chosen as the type of a species or subspecies if the author of the name fails to designate a type."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specimen chosen as the type of a species or subspecies if the author of the name fails to designate a type.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specimen chosen as the type of a species or subspecies if the author of the name fails to designate a type.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lectotype designates a specimen chosen as the type of a species or subspecies if the author of the name fails to designate a type."*

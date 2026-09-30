@@ -5,15 +5,6 @@ status: unread
 ---
 # prognostication
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sign of something about to happen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement made about the future.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, if an oily palm be not a fruitful prognostication, I cannot scratch mine ear."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"VIII, p. 354.] [Footnote 271: Cf. his vulgar prognostication of Germany's future, Kaput XXVI of the "Wintermaerchen," Werke, Vol."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"In vain were the well-meant condescensions of Sir Thomas, and all the officious prognostications of Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sign of something about to happen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement made about the future.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, if an oily palm be not a fruitful prognostication, I cannot scratch mine ear."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"VIII, p. 354.] [Footnote 271: Cf. his vulgar prognostication of Germany's future, Kaput XXVI of the "Wintermaerchen," Werke, Vol."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"In vain were the well-meant condescensions of Sir Thomas, and all the officious prognostications of Mrs."*

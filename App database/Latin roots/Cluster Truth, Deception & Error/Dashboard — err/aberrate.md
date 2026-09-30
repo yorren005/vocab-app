@@ -5,13 +5,6 @@ status: unread
 ---
 # aberrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diverge from the expected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diverge or deviate from the straight path; produce aberration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aberrate designates diverge from the expected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Diverge from the expected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diverge or deviate from the straight path; produce aberration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aberrate designates diverge from the expected."*

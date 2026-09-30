@@ -5,13 +5,6 @@ status: unread
 ---
 # heliophila
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various south african herbs and subshrubs cultivated for long showy racemes of bright blue flowers with white eyes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various south african herbs and subshrubs cultivated for long showy racemes of bright blue flowers with white eyes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Heliophila designates any of various south african herbs and subshrubs cultivated for long showy racemes of bright blue flowers with white eyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various south african herbs and subshrubs cultivated for long showy racemes of bright blue flowers with white eyes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various south african herbs and subshrubs cultivated for long showy racemes of bright blue flowers with white eyes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Heliophila designates any of various south african herbs and subshrubs cultivated for long showy racemes of bright blue flowers with white eyes."*

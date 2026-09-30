@@ -5,15 +5,6 @@ status: unread
 ---
 # medic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several old world herbs of the genus medicago having small flowers and trifoliate compound leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical practitioner in the armed forces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I can give you a quick rundown on each now, if you wish." "I do." "Myra is a logistician and a Medic certified to Level 4 in space-related trauma, physical and psychological."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If we incur casualties, the injured won't have much to depend on, and if the troops have no faith in their medics, their morale will drop, and I mean fast."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"We finally got around to talking about on-base resources that might ease the load she was carrying: the Staff Judge Advocate, Family Services and Medics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several old world herbs of the genus medicago having small flowers and trifoliate compound leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical practitioner in the armed forces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I can give you a quick rundown on each now, if you wish." "I do." "Myra is a logistician and a Medic certified to Level 4 in space-related trauma, physical and psychological."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If we incur casualties, the injured won't have much to depend on, and if the troops have no faith in their medics, their morale will drop, and I mean fast."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"We finally got around to talking about on-base resources that might ease the load she was carrying: the Staff Judge Advocate, Family Services and Medics."*

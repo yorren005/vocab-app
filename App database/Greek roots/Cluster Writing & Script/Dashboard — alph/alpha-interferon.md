@@ -5,13 +5,6 @@ status: unread
 ---
 # alpha-interferon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of interferon that is produced endogenously and commercially for its pharmacological effects (including regulation of the immune system and antiviral and antineoplastic effects).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of interferon that is produced endogenously and commercially for its pharmacological effects (including regulation of the immune system and antiviral and antineoplastic effects).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alpha-interferon designates a form of interferon that is produced endogenously and commercially for its pharmacological effects (including regulation of the immune system and antiviral and antineoplastic effects)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of interferon that is produced endogenously and commercially for its pharmacological effects (including regulation of the immune system and antiviral and antineoplastic effects).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of interferon that is produced endogenously and commercially for its pharmacological effects (including regulation of the immune system and antiviral and antineoplastic effects).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alpha-interferon designates a form of interferon that is produced endogenously and commercially for its pharmacological effects (including regulation of the immune system and antiviral and antineoplastic effects)."*

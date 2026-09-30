@@ -5,15 +5,6 @@ status: unread
 ---
 # enormous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extraordinarily large in size or extent or amount or power or degree; ; ; ; - walter lippman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extraordinarily large in size or extent or amount or power or degree; ; ; ; - walter lippman.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And shall find time From this enormous state, seeking to give Losses their remedies."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"No living man could be as enormous as that."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I thought the ghost of Wildenstein was stretching out his enormous arm towards me!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extraordinarily large in size or extent or amount or power or degree; ; ; ; - walter lippman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extraordinarily large in size or extent or amount or power or degree; ; ; ; - walter lippman.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And shall find time From this enormous state, seeking to give Losses their remedies."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"No living man could be as enormous as that."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I thought the ghost of Wildenstein was stretching out his enormous arm towards me!"*

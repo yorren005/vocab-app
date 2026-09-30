@@ -5,15 +5,6 @@ status: unread
 ---
 # ferry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A boat that transports people or vehicles across a body of water and operates on a regular schedule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transport by boat or aircraft.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now for this charm that I told you of: you must bring a piece of silver on the tip of your tongue, or no ferry."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Supposing herself the possessor of a ten cent note, over and above the twelve shillings, she went with her somewhat feeble protege over Jersey city ferry, and saw her safely in the cars."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She had a plain, worn, old gold ring on her finger; she took it off, offered it to the ferry-master, who would not take it, though she told him she found her money gone and would redeem it next day."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A boat that transports people or vehicles across a body of water and operates on a regular schedule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transport by boat or aircraft.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now for this charm that I told you of: you must bring a piece of silver on the tip of your tongue, or no ferry."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Supposing herself the possessor of a ten cent note, over and above the twelve shillings, she went with her somewhat feeble protege over Jersey city ferry, and saw her safely in the cars."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"She had a plain, worn, old gold ring on her finger; she took it off, offered it to the ferry-master, who would not take it, though she told him she found her money gone and would redeem it next day."*

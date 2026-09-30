@@ -5,15 +5,6 @@ status: unread
 ---
 # diffidence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of self-confidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of self-confidence.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We have been guided by thee hitherto, And of thy cunning had no diffidence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou dost shame thy mother And wound her honour with this diffidence."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I beg your pardon, sir,” he said to my guardian with a manly kind of diffidence, “but you did me the honour to mention the young lady’s name—” “Miss Summerson.” “Miss Summerson,” he repeated, and looked at me again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of self-confidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of self-confidence.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We have been guided by thee hitherto, And of thy cunning had no diffidence."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou dost shame thy mother And wound her honour with this diffidence."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I beg your pardon, sir,” he said to my guardian with a manly kind of diffidence, “but you did me the honour to mention the young lady’s name—” “Miss Summerson.” “Miss Summerson,” he repeated, and looked at me again."*

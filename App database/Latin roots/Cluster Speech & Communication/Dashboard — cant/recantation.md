@@ -5,15 +5,6 @@ status: unread
 ---
 # recantation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disavowal or taking back of a previous assertion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disavowal or taking back of a previous assertion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your lord and master did well to make his recantation."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Every sound of his voice beginning on the old subject stirred her with a terrifying bliss, and she coveted the recantation she feared."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Now I take him in the nick, e're I have done with him, he had better have stood between two panes of Wainscot, and made his recantation in the Market, than hear me conjure him. _And_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disavowal or taking back of a previous assertion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disavowal or taking back of a previous assertion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your lord and master did well to make his recantation."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Every sound of his voice beginning on the old subject stirred her with a terrifying bliss, and she coveted the recantation she feared."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Now I take him in the nick, e're I have done with him, he had better have stood between two panes of Wainscot, and made his recantation in the Market, than hear me conjure him. _And_."*

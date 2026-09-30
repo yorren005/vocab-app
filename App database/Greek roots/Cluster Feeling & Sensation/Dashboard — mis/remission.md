@@ -5,15 +5,6 @@ status: unread
 ---
 # remission
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abatement in intensity or degree (as in the manifestations of a disease).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A payment of money sent to a person in another place.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I owe My revenge properly, my remission lies In Volscian breasts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet Princes, what I did I did in honour, Led by th’ impartial conduct of my soul; And never shall you see that I will beg A ragged and forestall’d remission."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I find an apt remission in myself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abatement in intensity or degree (as in the manifestations of a disease).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A payment of money sent to a person in another place.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I owe My revenge properly, my remission lies In Volscian breasts."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet Princes, what I did I did in honour, Led by th’ impartial conduct of my soul; And never shall you see that I will beg A ragged and forestall’d remission."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I find an apt remission in myself."*

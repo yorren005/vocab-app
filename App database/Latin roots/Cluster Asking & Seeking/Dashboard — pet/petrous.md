@@ -5,13 +5,6 @@ status: unread
 ---
 # petrous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of bone especially the temporal bone) resembling stone in hardness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of bone especially the temporal bone) resembling stone in hardness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrous designates (of bone especially the temporal bone) resembling stone in hardness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of bone especially the temporal bone) resembling stone in hardness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of bone especially the temporal bone) resembling stone in hardness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, petrous designates (of bone especially the temporal bone) resembling stone in hardness."*

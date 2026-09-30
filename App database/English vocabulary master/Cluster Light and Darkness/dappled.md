@@ -5,20 +5,6 @@ status: unread
 ---
 # dappled
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Mark with dapples
-> 2. **Nuance / Usage**: Produce a dappled pattern
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a dappled appearance*) and predicatively after a linking verb (*remained dappled*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"like diamonds and dappled with bluish shadows."*
-> - 📜 **John Milton (*L'Allegro*):** *"To hear the lark begin his flight,<br>And singing startle the dull night,<br>From his watch-tower in the skies,<br>Till the dappled dawn doth rise [...]"*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"It was a close, sultry day: devoid of sunshine, but with a sky too dappled and hazy to threaten rain"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Mark with dapples
+> 2. **Nuance / Usage**: Produce a dappled pattern
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a dappled appearance*) and predicatively after a linking verb (*remained dappled*).
+> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"like diamonds and dappled with bluish shadows."*
+> - 📜 **John Milton (*L'Allegro*):** *"To hear the lark begin his flight,<br>And singing startle the dull night,<br>From his watch-tower in the skies,<br>Till the dappled dawn doth rise [...]"*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"It was a close, sultry day: devoid of sunshine, but with a sky too dappled and hazy to threaten rain"*

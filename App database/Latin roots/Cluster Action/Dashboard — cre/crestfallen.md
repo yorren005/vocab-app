@@ -5,15 +5,6 @@ status: unread
 ---
 # crestfallen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brought low in spirit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brought low in spirit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Remember it, and let it make thee crestfallen, Ay, and allay thus thy abortive pride."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I warrant they would whip me with their fine wits till I were as crestfallen as a dried pear."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Live in London?” “Yes, perhaps I ought to mention,” said Herbert, who had become curiously crestfallen and meek, since we entered on the interesting theme, “that she is rather below my mother’s nonsensical family notions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brought low in spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brought low in spirit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Remember it, and let it make thee crestfallen, Ay, and allay thus thy abortive pride."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I warrant they would whip me with their fine wits till I were as crestfallen as a dried pear."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Live in London?” “Yes, perhaps I ought to mention,” said Herbert, who had become curiously crestfallen and meek, since we entered on the interesting theme, “that she is rather below my mother’s nonsensical family notions."*

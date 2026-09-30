@@ -5,15 +5,6 @@ status: unread
 ---
 # misanthrope
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who dislikes people in general.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who dislikes people in general.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like a plethoric burning martyr, or a self-consuming misanthrope, once ignited, the whale supplies his own fuel and burns by his own body."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Hoelderlin we have the ardent Hellenic idealist; Lenau gives expression to all the pathos of Weltschmerz, Heine is its satirist, the misanthrope, while in Raabe we even have a pessimistic humorist."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He had absolutely nothing to do, almost died of _ennui_, and became a confirmed misanthrope."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who dislikes people in general.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who dislikes people in general.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like a plethoric burning martyr, or a self-consuming misanthrope, once ignited, the whale supplies his own fuel and burns by his own body."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Hoelderlin we have the ardent Hellenic idealist; Lenau gives expression to all the pathos of Weltschmerz, Heine is its satirist, the misanthrope, while in Raabe we even have a pessimistic humorist."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He had absolutely nothing to do, almost died of _ennui_, and became a confirmed misanthrope."*

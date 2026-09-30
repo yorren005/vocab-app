@@ -5,13 +5,6 @@ status: unread
 ---
 # bilinear
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Linear with respect to each of two variables or positions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Linear with respect to each of two variables or positions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bilinear designates linear with respect to each of two variables or positions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Linear with respect to each of two variables or positions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Linear with respect to each of two variables or positions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bilinear designates linear with respect to each of two variables or positions."*

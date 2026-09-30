@@ -5,15 +5,6 @@ status: unread
 ---
 # visitant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who visits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who visits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I rang the bell, for I wanted a candle; and I wanted, too, to get an account of this visitant."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"The king experienced a poignant grief when for a moment he feared that, unable to follow her, he must forever lose sight of his beauteous visitant."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But whatever might have been his fate, now that he was gone the natives multiplied their acts of kindness and attention towards myself, treating me with a degree of deference which could hardly have been surpassed had I been some celestial visitant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who visits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who visits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I rang the bell, for I wanted a candle; and I wanted, too, to get an account of this visitant."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"The king experienced a poignant grief when for a moment he feared that, unable to follow her, he must forever lose sight of his beauteous visitant."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But whatever might have been his fate, now that he was gone the natives multiplied their acts of kindness and attention towards myself, treating me with a degree of deference which could hardly have been surpassed had I been some celestial visitant."*

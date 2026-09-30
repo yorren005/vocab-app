@@ -5,13 +5,6 @@ status: unread
 ---
 # insufflate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Breathe or blow onto as a ritual or sacramental act, especially so as to symbolize the action of the holy spirit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat by blowing a powder or vapor into a bodily cavity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insufflate designates breathe or blow onto as a ritual or sacramental act, especially so as to symbolize the action of the holy spirit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Breathe or blow onto as a ritual or sacramental act, especially so as to symbolize the action of the holy spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat by blowing a powder or vapor into a bodily cavity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insufflate designates breathe or blow onto as a ritual or sacramental act, especially so as to symbolize the action of the holy spirit."*

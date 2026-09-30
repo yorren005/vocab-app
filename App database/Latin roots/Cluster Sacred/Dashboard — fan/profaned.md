@@ -5,15 +5,6 @@ status: unread
 ---
 # profaned
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Violate the sacred character of a place or language.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Profaned, dishonoured, and the third usurped."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy George, profaned, hath lost his lordly honour; Thy Garter, blemished, pawned his knightly virtue; Thy crown, usurped, disgraced his kingly glory."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though his false finger have profaned the ring, Mine shall not do his Julia so much wrong."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Violate the sacred character of a place or language.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Profaned, dishonoured, and the third usurped."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy George, profaned, hath lost his lordly honour; Thy Garter, blemished, pawned his knightly virtue; Thy crown, usurped, disgraced his kingly glory."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though his false finger have profaned the ring, Mine shall not do his Julia so much wrong."*

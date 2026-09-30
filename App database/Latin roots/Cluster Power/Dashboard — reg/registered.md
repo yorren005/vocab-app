@@ -5,15 +5,6 @@ status: unread
 ---
 # registered
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Record in writing; enter into a book of names or events or transactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Record in a public office or in a court of law.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But say, my lord, it were not registered, Methinks the truth should live from age to age, As ’twere retailed to all posterity, Even to the general all-ending day."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The gains are not registered, but they are real and they are never lost, and come flashing out all unexpectedly when the note is struck that calls them."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But Rosamond had registered every look and word, and estimated them as the opening incidents of a preconceived romance—incidents which gather value from the foreseen development and climax."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Record in writing; enter into a book of names or events or transactions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Record in a public office or in a court of law.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But say, my lord, it were not registered, Methinks the truth should live from age to age, As ’twere retailed to all posterity, Even to the general all-ending day."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"The gains are not registered, but they are real and they are never lost, and come flashing out all unexpectedly when the note is struck that calls them."*
+> - 📜 **George Eliot (*Middlemarch*):** *"But Rosamond had registered every look and word, and estimated them as the opening incidents of a preconceived romance—incidents which gather value from the foreseen development and climax."*

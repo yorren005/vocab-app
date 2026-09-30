@@ -5,15 +5,6 @@ status: unread
 ---
 # negus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wine and hot water with sugar and lemon juice and nutmeg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wine and hot water with sugar and lemon juice and nutmeg.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He gave us, in his glass of negus, “Better health to our young friend!” and supposed and gaily pursued the case of his being reserved like Whittington to become Lord Mayor of London."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"However, I could take some toast and some hot negus; and as I really enjoyed that refreshment, it made some recompense."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Leah, make a little hot negus and cut a sandwich or two: here are the keys of the storeroom.” And she produced from her pocket a most housewifely bunch of keys, and delivered them to the servant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wine and hot water with sugar and lemon juice and nutmeg.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wine and hot water with sugar and lemon juice and nutmeg.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"He gave us, in his glass of negus, “Better health to our young friend!” and supposed and gaily pursued the case of his being reserved like Whittington to become Lord Mayor of London."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"However, I could take some toast and some hot negus; and as I really enjoyed that refreshment, it made some recompense."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Leah, make a little hot negus and cut a sandwich or two: here are the keys of the storeroom.” And she produced from her pocket a most housewifely bunch of keys, and delivered them to the servant."*

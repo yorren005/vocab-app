@@ -5,13 +5,6 @@ status: unread
 ---
 # inspirational
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Imparting a divine influence on the mind and soul.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imparting a divine influence on the mind and soul.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"Chants Communal--Horace Traubel Boards 1.00 .10 Inspirational prose pieces."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Imparting a divine influence on the mind and soul.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imparting a divine influence on the mind and soul.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"Chants Communal--Horace Traubel Boards 1.00 .10 Inspirational prose pieces."*

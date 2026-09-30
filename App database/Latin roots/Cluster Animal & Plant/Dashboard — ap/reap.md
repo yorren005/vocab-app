@@ -5,15 +5,6 @@ status: unread
 ---
 # reap
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gather, as of natural products.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get or derive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy pains, not us’d, must by thyself be paid; Proffers, not took, reap thanks for their reward."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They that reap must sheaf and bind, Then to cart with Rosalind."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a thing Which you might from relation likewise reap, Being, as it is, much spoke of."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gather, as of natural products.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get or derive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy pains, not us’d, must by thyself be paid; Proffers, not took, reap thanks for their reward."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They that reap must sheaf and bind, Then to cart with Rosalind."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a thing Which you might from relation likewise reap, Being, as it is, much spoke of."*

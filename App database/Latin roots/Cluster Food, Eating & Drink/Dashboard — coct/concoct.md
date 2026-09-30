@@ -5,15 +5,6 @@ status: unread
 ---
 # concoct
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a concoction (of) by mixing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prepare or cook by mixing ingredients.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Petunia married Jasper according to his word of promise, and I have taught her to cook about five French dishes that he couldn't concoct to save his life, and which help her to keep him in his place."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"One afternoon, walking with Pearl in a retired part of the peninsula, she beheld the old physician with a basket on one arm and a staff in the other hand, stooping along the ground in quest of roots and herbs to concoct his medicine withal."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Anne shrouded her muslin glories in a big apron and went down to concoct her soup."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a concoction (of) by mixing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prepare or cook by mixing ingredients.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Petunia married Jasper according to his word of promise, and I have taught her to cook about five French dishes that he couldn't concoct to save his life, and which help her to keep him in his place."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"One afternoon, walking with Pearl in a retired part of the peninsula, she beheld the old physician with a basket on one arm and a staff in the other hand, stooping along the ground in quest of roots and herbs to concoct his medicine withal."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Anne shrouded her muslin glories in a big apron and went down to concoct her soup."*

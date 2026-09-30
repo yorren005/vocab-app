@@ -5,13 +5,6 @@ status: unread
 ---
 # malaga
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city and resort in andalusia in southern spain on the mediterranean.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city and resort in andalusia in southern spain on the mediterranean.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You know that we heard ages ago that he is an entirely broken man and that he lay deadly sick in Malaga."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city and resort in andalusia in southern spain on the mediterranean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city and resort in andalusia in southern spain on the mediterranean.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You know that we heard ages ago that he is an entirely broken man and that he lay deadly sick in Malaga."*

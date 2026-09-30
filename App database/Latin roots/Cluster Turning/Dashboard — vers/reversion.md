@@ -5,15 +5,6 @@ status: unread
 ---
 # reversion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) an interest in an estate that reverts to the grantor (or his heirs) at the end of some period (e.g., the death of the grantee).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) a return to a normal phenotype (usually resulting from a second mutation).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, and so we should, where now remains A sweet reversion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mine is not so, For nothing hath begot my something grief, Or something hath the nothing that I grieve. ’Tis in reversion that I do possess, But what it is, that is not yet known what, I cannot name. ’Tis nameless woe, I wot."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No perfection in reversion shall have a praise in present."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) an interest in an estate that reverts to the grantor (or his heirs) at the end of some period (e.g., the death of the grantee).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) a return to a normal phenotype (usually resulting from a second mutation).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, and so we should, where now remains A sweet reversion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mine is not so, For nothing hath begot my something grief, Or something hath the nothing that I grieve. ’Tis in reversion that I do possess, But what it is, that is not yet known what, I cannot name. ’Tis nameless woe, I wot."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No perfection in reversion shall have a praise in present."*

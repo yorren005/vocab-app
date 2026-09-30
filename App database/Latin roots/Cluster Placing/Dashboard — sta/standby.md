@@ -5,14 +5,6 @@ status: unread
 ---
 # standby
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that can be relied on when needed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An actor able to replace a regular performer when required.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I was informed that I had one week to get my affairs in order; after that I would be on standby for departure."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Back and forth, back and forth the words rolled until the teacher pronounced one of the old standby catch-words."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that can be relied on when needed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An actor able to replace a regular performer when required.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I was informed that I had one week to get my affairs in order; after that I would be on standby for departure."*
+> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Back and forth, back and forth the words rolled until the teacher pronounced one of the old standby catch-words."*

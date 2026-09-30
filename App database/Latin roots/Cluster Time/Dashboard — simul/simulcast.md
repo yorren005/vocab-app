@@ -5,13 +5,6 @@ status: unread
 ---
 # simulcast
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A broadcast that is carried simultaneously by radio and television (or by fm and am radio).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A broadcast that is carried simultaneously by radio and television (or by fm and am radio).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, simulcast designates a broadcast that is carried simultaneously by radio and television (or by fm and am radio)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A broadcast that is carried simultaneously by radio and television (or by fm and am radio).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A broadcast that is carried simultaneously by radio and television (or by fm and am radio).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, simulcast designates a broadcast that is carried simultaneously by radio and television (or by fm and am radio)."*

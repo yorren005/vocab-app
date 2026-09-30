@@ -5,20 +5,6 @@ status: unread
 ---
 # cloak
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Loose outer garment
-> 2. **Nuance / Usage**: Something that envelops or conceals
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"about the satin for my short cloak and my slops?"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"see him laugh till his face be like a wet cloak ill laid up!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"You pull’d me by the cloak; would you speak with me?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Loose outer garment
+> 2. **Nuance / Usage**: Something that envelops or conceals
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"about the satin for my short cloak and my slops?"*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"see him laugh till his face be like a wet cloak ill laid up!"*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"You pull’d me by the cloak; would you speak with me?"*

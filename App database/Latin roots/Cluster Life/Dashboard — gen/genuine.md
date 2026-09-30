@@ -5,15 +5,6 @@ status: unread
 ---
 # genuine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fake or counterfeit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not pretended; sincerely felt or expressed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But as Ada interposed and laughingly said she could only feel proud of such genuine admiration, Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If he really meant it—if his will were genuine and real, which it was—it appeared to him that it was the same as coin, and cancelled the obligation."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"His job done, he sets off for Tom-all-Alone’s, stopping in the light of innumerable gas-lamps to produce the piece of gold and give it another one-sided bite as a reassurance of its being genuine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fake or counterfeit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not pretended; sincerely felt or expressed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But as Ada interposed and laughingly said she could only feel proud of such genuine admiration, Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"If he really meant it—if his will were genuine and real, which it was—it appeared to him that it was the same as coin, and cancelled the obligation."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"His job done, he sets off for Tom-all-Alone’s, stopping in the light of innumerable gas-lamps to produce the piece of gold and give it another one-sided bite as a reassurance of its being genuine."*

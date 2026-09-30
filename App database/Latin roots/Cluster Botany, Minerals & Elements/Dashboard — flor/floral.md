@@ -5,15 +5,6 @@ status: unread
 ---
 # floral
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or made of or suggestive of flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or associated with flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"High in air the fountain flung Its living gems, on sunbeams strung They wreathed and shook the mists among; A thousand roses audience held, For floral state the place was meet, With blissful light and joy replete, And depths of sweetness unrevealed."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Besides this tribute of the men, the workers of the land, the women filled the air with the sweet odors of their floral offerings."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Being a floral family, they call me Daisy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or made of or suggestive of flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or associated with flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **C. A. Frazer (*Atmâ*):** *"High in air the fountain flung Its living gems, on sunbeams strung They wreathed and shook the mists among; A thousand roses audience held, For floral state the place was meet, With blissful light and joy replete, And depths of sweetness unrevealed."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Besides this tribute of the men, the workers of the land, the women filled the air with the sweet odors of their floral offerings."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Being a floral family, they call me Daisy."*

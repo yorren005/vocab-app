@@ -5,15 +5,6 @@ status: unread
 ---
 # infamous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Known widely and usually unfavorably.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Known widely and usually unfavorably.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Antony, Nobler than my revolt is infamous, Forgive me in thine own particular, But let the world rank me in register A master-leaver and a fugitive."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To say the truth, this fact was infamous And ill beseeming any common man, Much more a knight, a captain, and a leader."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Branching from this street and its heaps of ruins are other streets and courts so infamous that Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Known widely and usually unfavorably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Known widely and usually unfavorably.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Antony, Nobler than my revolt is infamous, Forgive me in thine own particular, But let the world rank me in register A master-leaver and a fugitive."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To say the truth, this fact was infamous And ill beseeming any common man, Much more a knight, a captain, and a leader."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Branching from this street and its heaps of ruins are other streets and courts so infamous that Mr."*

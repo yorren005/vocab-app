@@ -5,15 +5,6 @@ status: unread
 ---
 # duct
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bodily passage or tube lined with epithelial cells and conveying a secretion or other substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A continuous tube formed by a row of elongated cells lacking intervening end walls.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hodak's expertise with duct tape and hand tools would get credit for the successful escape."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The insulation of his heart by reserve during these many years, without a duct of any kind for disposable emotion, had worked its effect."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"With elaborate gestures I inspected all surfaces and seams, measured the damaged areas with my ruler, cut the proper length strip from my large roll of duct tape, and pressed it into place."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bodily passage or tube lined with epithelial cells and conveying a secretion or other substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A continuous tube formed by a row of elongated cells lacking intervening end walls.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hodak's expertise with duct tape and hand tools would get credit for the successful escape."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The insulation of his heart by reserve during these many years, without a duct of any kind for disposable emotion, had worked its effect."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"With elaborate gestures I inspected all surfaces and seams, measured the damaged areas with my ruler, cut the proper length strip from my large roll of duct tape, and pressed it into place."*

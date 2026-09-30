@@ -5,13 +5,6 @@ status: unread
 ---
 # repand
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a slightly undulating margin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a slightly undulating margin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repand designates having a slightly undulating margin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a slightly undulating margin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a slightly undulating margin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repand designates having a slightly undulating margin."*

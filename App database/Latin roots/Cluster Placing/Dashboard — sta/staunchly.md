@@ -5,15 +5,6 @@ status: unread
 ---
 # staunchly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a staunch manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a staunch manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore was so exhausted that, leaning against her companion, she fell asleep, but she staunchly held on to Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She declines to enter on the question, mooted by the maid, how the spot comes to be there, and not in her room (which is nearer to Sir Leicester’s), but staunchly declares that on the spot she will remain."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"He was simply and staunchly true to his duty alike in the large case and in the small."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a staunch manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a staunch manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore was so exhausted that, leaning against her companion, she fell asleep, but she staunchly held on to Mrs."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"She declines to enter on the question, mooted by the maid, how the spot comes to be there, and not in her room (which is nearer to Sir Leicester’s), but staunchly declares that on the spot she will remain."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"He was simply and staunchly true to his duty alike in the large case and in the small."*

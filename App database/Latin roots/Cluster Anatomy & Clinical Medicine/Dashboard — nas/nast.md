@@ -5,15 +5,6 @@ status: unread
 ---
 # nast
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states political cartoonist (1840-1902).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states political cartoonist (1840-1902).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"His letters to his friend Nast almost invariably contain some expression of his heart-ache."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Hoelderlin's earliest love-affair, that with Louise Nast, is important for his Weltschmerz only in its bearing upon the development of his general character."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Da leg' ich meinen Ossian weg und komme zu Dir," he writes in 1788 to his friend Nast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states political cartoonist (1840-1902).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states political cartoonist (1840-1902).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"His letters to his friend Nast almost invariably contain some expression of his heart-ache."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Hoelderlin's earliest love-affair, that with Louise Nast, is important for his Weltschmerz only in its bearing upon the development of his general character."*
+> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Da leg' ich meinen Ossian weg und komme zu Dir," he writes in 1788 to his friend Nast."*

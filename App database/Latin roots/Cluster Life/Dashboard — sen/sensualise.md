@@ -5,13 +5,6 @@ status: unread
 ---
 # sensualise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Debase through carnal gratification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Debase through carnal gratification.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensualise designates debase through carnal gratification."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Debase through carnal gratification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Debase through carnal gratification.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sensualise designates debase through carnal gratification."*

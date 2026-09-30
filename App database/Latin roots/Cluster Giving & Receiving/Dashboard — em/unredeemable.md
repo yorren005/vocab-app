@@ -5,13 +5,6 @@ status: unread
 ---
 # unredeemable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insusceptible of reform.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insusceptible of reform.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"An undeniable and unredeemable forfeit of all he hath about him.” “I hoarded it to purchase my freedom,” said Gurth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insusceptible of reform.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insusceptible of reform.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"An undeniable and unredeemable forfeit of all he hath about him.” “I hoarded it to purchase my freedom,” said Gurth."*

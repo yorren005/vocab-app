@@ -5,15 +5,6 @@ status: unread
 ---
 # possess
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have as an attribute, knowledge, or skill.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have ownership or possession of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will possess you of that ship and treasure."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am possess’d with an adulterate blot; My blood is mingled with the crime of lust; For if we two be one, and thou play false, I do digest the poison of thy flesh, Being strumpeted by thy contagion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But her fair sister, Possess’d with such a gentle sovereign grace, Of such enchanting presence and discourse, Hath almost made me traitor to myself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Have as an attribute, knowledge, or skill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have ownership or possession of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will possess you of that ship and treasure."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am possess’d with an adulterate blot; My blood is mingled with the crime of lust; For if we two be one, and thou play false, I do digest the poison of thy flesh, Being strumpeted by thy contagion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But her fair sister, Possess’d with such a gentle sovereign grace, Of such enchanting presence and discourse, Hath almost made me traitor to myself."*

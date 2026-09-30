@@ -5,15 +5,6 @@ status: unread
 ---
 # pantheism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (rare) worship that admits or tolerates all gods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine or belief that god is the universe and its phenomena (taken or conceived of as a whole) or the doctrine that regards the universe as a manifestation of god.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Why, through the thin partition of this consolation Pantheism can hear the groans of its neighbour, Pessimism."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"His Pantheism is an indication of it."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Pantheism is a half-way house, and marks ascent or descent according to the direction from which it is approached."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (rare) worship that admits or tolerates all gods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine or belief that god is the universe and its phenomena (taken or conceived of as a whole) or the doctrine that regards the universe as a manifestation of god.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Why, through the thin partition of this consolation Pantheism can hear the groans of its neighbour, Pessimism."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"His Pantheism is an indication of it."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Pantheism is a half-way house, and marks ascent or descent according to the direction from which it is approached."*

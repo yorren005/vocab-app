@@ -5,13 +5,6 @@ status: unread
 ---
 # bilaterally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With the involvement of two parties or governments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to involve two sides or parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bilaterally designates with the involvement of two parties or governments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With the involvement of two parties or governments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to involve two sides or parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bilaterally designates with the involvement of two parties or governments."*

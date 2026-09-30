@@ -5,15 +5,6 @@ status: unread
 ---
 # convent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A religious residence especially for nuns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A community of people in a religious order (especially nuns) living together.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One of our convent, and his confessor, Gives me this instance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All our surgeons Convent in their behoof; our richest balms, Rather than niggard, waste."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We convent naught else but woes._ THIRD QUEEN."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A religious residence especially for nuns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A community of people in a religious order (especially nuns) living together.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One of our convent, and his confessor, Gives me this instance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All our surgeons Convent in their behoof; our richest balms, Rather than niggard, waste."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We convent naught else but woes._ THIRD QUEEN."*

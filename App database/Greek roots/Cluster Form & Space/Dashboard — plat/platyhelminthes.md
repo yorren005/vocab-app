@@ -5,13 +5,6 @@ status: unread
 ---
 # platyhelminthes
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flatworms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flatworms.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platyhelminthes designates flatworms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flatworms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flatworms.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platyhelminthes designates flatworms."*

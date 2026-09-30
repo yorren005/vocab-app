@@ -5,15 +5,6 @@ status: unread
 ---
 # biography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An account of the series of events making up a person's life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An account of the series of events making up a person's life.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby’s biography, “is a lady of very remarkable strength of character who devotes herself entirely to the public."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"In biography and fiction it was less strong, but it had a complete set of the Waverley Novels in one of the early three-volume editions."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"When, however, Wilson's biography was taken in hand by his sister, Cairns promised to help her in every possible way with his advice and guidance, and this he did from week to week till the book was published."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An account of the series of events making up a person's life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An account of the series of events making up a person's life.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby’s biography, “is a lady of very remarkable strength of character who devotes herself entirely to the public."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"In biography and fiction it was less strong, but it had a complete set of the Waverley Novels in one of the early three-volume editions."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"When, however, Wilson's biography was taken in hand by his sister, Cairns promised to help her in every possible way with his advice and guidance, and this he did from week to week till the book was published."*

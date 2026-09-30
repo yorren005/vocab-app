@@ -5,15 +5,6 @@ status: unread
 ---
 # scintillating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give off.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflect brightly.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Striking scenes and freshets of scintillating dialogue rushed through my mind."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Yet here she is lying at my feet, with her golden domes and crosses scintillating and twinkling in the sunshine."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"And amid all these scintillating points of light one bright planet shone kindly and steadily like the face of an old friend."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give off.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflect brightly.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Striking scenes and freshets of scintillating dialogue rushed through my mind."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Yet here she is lying at my feet, with her golden domes and crosses scintillating and twinkling in the sunshine."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"And amid all these scintillating points of light one bright planet shone kindly and steadily like the face of an old friend."*

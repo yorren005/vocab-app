@@ -5,13 +5,6 @@ status: unread
 ---
 # ardea
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the ardeidae: large new and old world herons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the ardeidae: large new and old world herons.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her letter now is sealed, and on it writ “At Ardea to my lord with more than haste.” The post attends, and she delivers it, Charging the sour-faced groom to hie as fast As lagging fowls before the northern blast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the ardeidae: large new and old world herons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the ardeidae: large new and old world herons.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her letter now is sealed, and on it writ “At Ardea to my lord with more than haste.” The post attends, and she delivers it, Charging the sour-faced groom to hie as fast As lagging fowls before the northern blast."*

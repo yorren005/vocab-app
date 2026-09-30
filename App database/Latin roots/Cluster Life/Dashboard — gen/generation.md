@@ -5,15 +5,6 @@ status: unread
 ---
 # generation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All the people living at the same time or of approximately the same age.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Group of genetically related organisms constituting a single step in the line of descent.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And though we here fall down, We have supplies to second our attempt: If they miscarry, theirs shall second them; And so success of mischief shall be born, And heir from heir shall hold this quarrel up Whiles England shall have generation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy sins are visited in this poor child; The canon of the law is laid on him, Being but the second generation Removed from thy sin-conceiving womb."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The barbarous Scythian, Or he that makes his generation messes To gorge his appetite, shall to my bosom Be as well neighbour’d, pitied, and reliev’d, As thou my sometime daughter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: All the people living at the same time or of approximately the same age.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Group of genetically related organisms constituting a single step in the line of descent.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And though we here fall down, We have supplies to second our attempt: If they miscarry, theirs shall second them; And so success of mischief shall be born, And heir from heir shall hold this quarrel up Whiles England shall have generation."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy sins are visited in this poor child; The canon of the law is laid on him, Being but the second generation Removed from thy sin-conceiving womb."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The barbarous Scythian, Or he that makes his generation messes To gorge his appetite, shall to my bosom Be as well neighbour’d, pitied, and reliev’d, As thou my sometime daughter."*

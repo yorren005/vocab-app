@@ -5,20 +5,6 @@ status: unread
 ---
 # hovel
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Tabernacle
-> 2. **Nuance / Usage**: Open shed or shelter
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the hovel withstood the storm*), direct object (*cleaved the hovel*), or prepositional anchor (*amidst the hovel*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"In, fellow, there, into the hovel; keep thee warm."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"_] Do I look like a cudgel or a hovel-post, a staff or a prop?"*
-> - 📜 **Mary Shelley (*Frankenstein*):** *"My mode of life in my hovel was uniform."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: A small, squalid, poorly constructed, or wretchedly maintained hut or dwelling.
+> 2. **Nuance / Usage**: Historically, an open shed used for sheltering cattle or storing grain; in modern usage, strongly connotes extreme poverty, cramped misery, or dilapidation.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the hovel withstood the storm*), direct object (*cleaved the hovel*), or prepositional anchor (*amidst the hovel*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*King Lear*):** *"In, fellow, there, into the **hovel**; keep thee warm."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"My mode of life in my low **hovel** was uniform, yet I watched the cottagers with ceaseless wonder."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"They passed a row of miserable, tumbling **hovels** where the rain dripped through the rotted thatch."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # fuss
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An excited state of agitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An angry disturbance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I feel decidedly that too much fuss is made about the grandmother and the child."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You fuss and worry too much about the children," Uncle Philip said."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Death, to him, was the blackness of unbroken sleep; and yet, during his years in Jerusalem, he was ever vexed with the inescapable fuss and fury of things religious."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excited state of agitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An angry disturbance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I feel decidedly that too much fuss is made about the grandmother and the child."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You fuss and worry too much about the children," Uncle Philip said."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Death, to him, was the blackness of unbroken sleep; and yet, during his years in Jerusalem, he was ever vexed with the inescapable fuss and fury of things religious."*

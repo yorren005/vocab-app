@@ -5,13 +5,6 @@ status: unread
 ---
 # ridiculer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A humorist who uses ridicule and irony and sarcasm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A humorist who uses ridicule and irony and sarcasm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ridiculer designates a humorist who uses ridicule and irony and sarcasm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A humorist who uses ridicule and irony and sarcasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A humorist who uses ridicule and irony and sarcasm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ridiculer designates a humorist who uses ridicule and irony and sarcasm."*

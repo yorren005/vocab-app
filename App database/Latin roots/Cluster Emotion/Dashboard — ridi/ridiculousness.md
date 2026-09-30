@@ -5,13 +5,6 @@ status: unread
 ---
 # ridiculousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message whose content is at variance with reason.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message whose content is at variance with reason.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ridiculousness designates a message whose content is at variance with reason."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A message whose content is at variance with reason.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message whose content is at variance with reason.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ridiculousness designates a message whose content is at variance with reason."*

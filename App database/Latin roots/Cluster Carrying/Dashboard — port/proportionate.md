@@ -5,15 +5,6 @@ status: unread
 ---
 # proportionate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being in due proportion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agreeing in amount, magnitude, or degree.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When, in the writings of the later poets, Jove and his family are found to have moved from their cramped quarters on the peak of Olympus into the wide sky above it, their words show a proportionate increase of arrogance and reserve."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"At length, to remedy this difficulty, fractional silver coins, often called "token coins," were issued, in limited numbers, of less than full proportionate weight and bullion value."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In this way each may be encouraged by the more certain prospect of receiving a reward proportionate to his efforts and abilities."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being in due proportion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agreeing in amount, magnitude, or degree.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When, in the writings of the later poets, Jove and his family are found to have moved from their cramped quarters on the peak of Olympus into the wide sky above it, their words show a proportionate increase of arrogance and reserve."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"At length, to remedy this difficulty, fractional silver coins, often called "token coins," were issued, in limited numbers, of less than full proportionate weight and bullion value."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In this way each may be encouraged by the more certain prospect of receiving a reward proportionate to his efforts and abilities."*

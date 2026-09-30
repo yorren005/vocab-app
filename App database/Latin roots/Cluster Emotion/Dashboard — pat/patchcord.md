@@ -5,13 +5,6 @@ status: unread
 ---
 # patchcord
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A length of wire that has a plug at each end; used to make connections at a patchboard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A length of wire that has a plug at each end; used to make connections at a patchboard.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patchcord designates a length of wire that has a plug at each end; used to make connections at a patchboard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A length of wire that has a plug at each end; used to make connections at a patchboard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A length of wire that has a plug at each end; used to make connections at a patchboard.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patchcord designates a length of wire that has a plug at each end; used to make connections at a patchboard."*

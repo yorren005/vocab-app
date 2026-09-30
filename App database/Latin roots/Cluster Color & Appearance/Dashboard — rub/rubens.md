@@ -5,15 +5,6 @@ status: unread
 ---
 # rubens
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prolific flemish baroque painter; knighted by the english king charles i (1577-1640).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prolific flemish baroque painter; knighted by the english king charles i (1577-1640).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Also pictures by Murillo, Rubens, Teniers, Titian, Vandyck, and others."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Some years ago, says Richardson, in his Anecdotes of Painting, a gentleman came to me to invite me to his house: I have, said he, a picture of Rubens, and it is a rare good one."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"The shade of Rubens might have evoked the mighty allegories."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prolific flemish baroque painter; knighted by the english king charles i (1577-1640).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prolific flemish baroque painter; knighted by the english king charles i (1577-1640).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Also pictures by Murillo, Rubens, Teniers, Titian, Vandyck, and others."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Some years ago, says Richardson, in his Anecdotes of Painting, a gentleman came to me to invite me to his house: I have, said he, a picture of Rubens, and it is a rare good one."*
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"The shade of Rubens might have evoked the mighty allegories."*

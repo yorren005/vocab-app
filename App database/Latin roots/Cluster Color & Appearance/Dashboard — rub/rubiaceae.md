@@ -5,13 +5,6 @@ status: unread
 ---
 # rubiaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed family of mostly tropical trees and shrubs and herbs; includes coffee and chinchona and gardenia and madder and bedstraws and partridgeberry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed family of mostly tropical trees and shrubs and herbs; includes coffee and chinchona and gardenia and madder and bedstraws and partridgeberry.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubiaceae designates widely distributed family of mostly tropical trees and shrubs and herbs; includes coffee and chinchona and gardenia and madder and bedstraws and partridgeberry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed family of mostly tropical trees and shrubs and herbs; includes coffee and chinchona and gardenia and madder and bedstraws and partridgeberry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed family of mostly tropical trees and shrubs and herbs; includes coffee and chinchona and gardenia and madder and bedstraws and partridgeberry.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubiaceae designates widely distributed family of mostly tropical trees and shrubs and herbs; includes coffee and chinchona and gardenia and madder and bedstraws and partridgeberry."*

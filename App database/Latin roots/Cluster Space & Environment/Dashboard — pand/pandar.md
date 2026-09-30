@@ -5,15 +5,6 @@ status: unread
 ---
 # pandar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who procures customers for whores (in england they call a pimp a ponce).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who procures customers for whores (in england they call a pimp a ponce).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And he that will not follow Bourbon now, Let him go hence, and with his cap in hand, Like a base pandar, hold the chamber door Whilst by a slave, no gentler than my dog, His fairest daughter is contaminated."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I’ll go search the market. [_Exit._] PANDAR."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wife, take her in; instruct her what she has to do, that she may not be raw in her entertainment. [_Exeunt Pandar and Pirates._] BAWD."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who procures customers for whores (in england they call a pimp a ponce).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who procures customers for whores (in england they call a pimp a ponce).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And he that will not follow Bourbon now, Let him go hence, and with his cap in hand, Like a base pandar, hold the chamber door Whilst by a slave, no gentler than my dog, His fairest daughter is contaminated."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I’ll go search the market. [_Exit._] PANDAR."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wife, take her in; instruct her what she has to do, that she may not be raw in her entertainment. [_Exeunt Pandar and Pirates._] BAWD."*

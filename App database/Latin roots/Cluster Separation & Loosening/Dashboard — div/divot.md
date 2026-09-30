@@ -5,13 +5,6 @@ status: unread
 ---
 # divot
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (golf) the cavity left when a piece of turf is cut from the ground by the club head in making a stroke.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of turf dug out of a lawn or fairway (by an animals hooves or a golf club).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Section 2 For six years now, since the day they had buried his wife in the green divots of Louth, women had been alien to him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (golf) the cavity left when a piece of turf is cut from the ground by the club head in making a stroke.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of turf dug out of a lawn or fairway (by an animals hooves or a golf club).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Section 2 For six years now, since the day they had buried his wife in the green divots of Louth, women had been alien to him."*

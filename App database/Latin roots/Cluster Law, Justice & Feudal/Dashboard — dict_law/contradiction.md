@@ -5,15 +5,6 @@ status: unread
 ---
 # contradiction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposition between two conflicting forces or ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (logic) a statement that is necessarily false.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Without contradiction I have heard that."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath been used Ever to conquer and to have his worth Of contradiction."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Safely, I think. ’Twas a contention in public, which may, without contradiction, suffer the report."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposition between two conflicting forces or ideas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (logic) a statement that is necessarily false.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Without contradiction I have heard that."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath been used Ever to conquer and to have his worth Of contradiction."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Safely, I think. ’Twas a contention in public, which may, without contradiction, suffer the report."*

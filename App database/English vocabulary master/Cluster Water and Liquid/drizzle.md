@@ -5,20 +5,6 @@ status: unread
 ---
 # drizzle
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Light rain
-> 2. **Nuance / Usage**: Fine misty rain
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"—A dull and foggy day with a drizzle of rain."*
-> - 📜 **Melissa Clark (*Dinner in One*):** *"Drizzle with oil and a few squeezes from a lemon wedge or two and serve at once, with remaining lemon wedges on the side."*
-> - 📜 **Paul Clifton (*West is best in the Highlands*):** *"Up here, it's a 'dreich' day with steady drizzle. Deep drainage channels either side of the track are already more like streams: Rannoch Moor is a wet place."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Light rain
+> 2. **Nuance / Usage**: Fine misty rain
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"—A dull and foggy day with a drizzle of rain."*
+> - 📜 **Melissa Clark (*Dinner in One*):** *"Drizzle with oil and a few squeezes from a lemon wedge or two and serve at once, with remaining lemon wedges on the side."*
+> - 📜 **Paul Clifton (*West is best in the Highlands*):** *"Up here, it's a 'dreich' day with steady drizzle. Deep drainage channels either side of the track are already more like streams: Rannoch Moor is a wet place."*

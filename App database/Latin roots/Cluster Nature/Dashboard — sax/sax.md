@@ -5,15 +5,6 @@ status: unread
 ---
 # sax
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A belgian maker of musical instruments who invented the saxophone (1814-1894).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single-reed woodwind with a conical bore.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sax thousand years are near-hand fled Sin’ I was to the butching bred, An’ mony a scheme in vain’s been laid, To stap or scar me; Till ane Hornbook’s^3 ta’en up the trade, And faith! he’ll waur me."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Now comes the sax-an’-twentieth simmer I’ve seen the bud upon the timmer, Still persecuted by the limmer Frae year to year; But yet, despite the kittle kimmer, I, Rob, am here."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The sma’, droop-rumpl’t, hunter cattle Might aiblins waur’t thee for a brattle; But sax Scotch mile, thou try’t their mettle, An’ gar’t them whaizle: Nae whip nor spur, but just a wattle O’ saugh or hazel."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A belgian maker of musical instruments who invented the saxophone (1814-1894).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single-reed woodwind with a conical bore.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sax thousand years are near-hand fled Sin’ I was to the butching bred, An’ mony a scheme in vain’s been laid, To stap or scar me; Till ane Hornbook’s^3 ta’en up the trade, And faith! he’ll waur me."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Now comes the sax-an’-twentieth simmer I’ve seen the bud upon the timmer, Still persecuted by the limmer Frae year to year; But yet, despite the kittle kimmer, I, Rob, am here."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The sma’, droop-rumpl’t, hunter cattle Might aiblins waur’t thee for a brattle; But sax Scotch mile, thou try’t their mettle, An’ gar’t them whaizle: Nae whip nor spur, but just a wattle O’ saugh or hazel."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # scalp
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The skin that covers the top of the head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sell illegally, as on the black market.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, gentle Puck, take this transformèd scalp From off the head of this Athenian swain, That he awaking when the other do, May all to Athens back again repair, And think no more of this night’s accidents But as the fierce vexation of a dream."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By the bare scalp of Robin Hood’s fat friar, This fellow were a king for our wild faction."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My head was swimming, and my heart was pounding from my toenails to the hair-roots in my scalp."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The skin that covers the top of the head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sell illegally, as on the black market.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, gentle Puck, take this transformèd scalp From off the head of this Athenian swain, That he awaking when the other do, May all to Athens back again repair, And think no more of this night’s accidents But as the fierce vexation of a dream."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By the bare scalp of Robin Hood’s fat friar, This fellow were a king for our wild faction."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My head was swimming, and my heart was pounding from my toenails to the hair-roots in my scalp."*

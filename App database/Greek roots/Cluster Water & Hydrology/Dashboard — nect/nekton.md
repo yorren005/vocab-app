@@ -5,13 +5,6 @@ status: unread
 ---
 # nekton
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free-swimming aquatic animals essentially independent of wave and current action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free-swimming aquatic animals essentially independent of wave and current action.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nekton designates free-swimming aquatic animals essentially independent of wave and current action."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free-swimming aquatic animals essentially independent of wave and current action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free-swimming aquatic animals essentially independent of wave and current action.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nekton designates free-swimming aquatic animals essentially independent of wave and current action."*

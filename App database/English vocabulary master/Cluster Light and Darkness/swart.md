@@ -5,20 +5,6 @@ status: unread
 ---
 # swart
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Swarthy
-> 2. **Nuance / Usage**: Baneful, malignant
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a swart appearance*) and predicatively after a linking verb (*remained swart*).
-> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"As her eyes then ongot his weeds swart therefor sorrow she feared."*
-> - 📜 **Walter Scott (*Ivanhoe*):** *"raven blackness, corresponding to his unusually swart complexion."*
-> - 📜 **:John Keats (*Otho the Great*):** *"I'll choose a gaoler, whose swart monstrous face<br>Shall be a hell to look upon {{..."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Swarthy
+> 2. **Nuance / Usage**: Baneful, malignant
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a swart appearance*) and predicatively after a linking verb (*remained swart*).
+> - **Collocations & Registers**: Evocative descriptive registers; collocated with aesthetic proportion, sensory presence, and moral contrast.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"As her eyes then ongot his weeds swart therefor sorrow she feared."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"raven blackness, corresponding to his unusually swart complexion."*
+> - 📜 **:John Keats (*Otho the Great*):** *"I'll choose a gaoler, whose swart monstrous face<br>Shall be a hell to look upon {{..."*

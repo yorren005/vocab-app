@@ -5,13 +5,6 @@ status: unread
 ---
 # octant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument for measuring angles to a celestial body; similar to a sextant but with 45 degree calibration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument for measuring angles to a celestial body; similar to a sextant but with 45 degree calibration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octant designates a measuring instrument for measuring angles to a celestial body; similar to a sextant but with 45 degree calibration."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument for measuring angles to a celestial body; similar to a sextant but with 45 degree calibration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument for measuring angles to a celestial body; similar to a sextant but with 45 degree calibration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octant designates a measuring instrument for measuring angles to a celestial body; similar to a sextant but with 45 degree calibration."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # secluded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep away from others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hidden from general view or use.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"That secluded sister is my first remembrance.” “No, no!” he cried, starting."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet hurried us into a more secluded place and was at first too breathless to proceed, occasioning Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood lived secluded and inactive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep away from others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hidden from general view or use.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"That secluded sister is my first remembrance.” “No, no!” he cried, starting."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet hurried us into a more secluded place and was at first too breathless to proceed, occasioning Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood lived secluded and inactive."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # nonnegative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either positive or zero.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either positive or zero.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonnegative designates either positive or zero."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either positive or zero.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either positive or zero.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonnegative designates either positive or zero."*

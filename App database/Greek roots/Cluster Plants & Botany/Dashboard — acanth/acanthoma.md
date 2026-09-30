@@ -5,13 +5,6 @@ status: unread
 ---
 # acanthoma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A neoplasm originating in the epidermis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neoplasm originating in the epidermis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthoma designates a neoplasm originating in the epidermis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neoplasm originating in the epidermis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neoplasm originating in the epidermis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acanthoma designates a neoplasm originating in the epidermis."*

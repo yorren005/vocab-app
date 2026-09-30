@@ -5,13 +5,6 @@ status: unread
 ---
 # basophilia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency of cells to stain with basic dyes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tendency of cells to stain with basic dyes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basophilia designates the tendency of cells to stain with basic dyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency of cells to stain with basic dyes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tendency of cells to stain with basic dyes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basophilia designates the tendency of cells to stain with basic dyes."*

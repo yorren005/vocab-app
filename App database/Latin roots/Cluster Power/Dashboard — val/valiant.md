@@ -5,15 +5,6 @@ status: unread
 ---
 # valiant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing valor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing valor.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But he assails; and our virginity, though valiant, in the defence, yet is weak."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, my lord, and of very valiant approof."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do assure you, my lord, he is very great in knowledge, and accordingly valiant."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing valor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing valor.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But he assails; and our virginity, though valiant, in the defence, yet is weak."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, my lord, and of very valiant approof."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do assure you, my lord, he is very great in knowledge, and accordingly valiant."*

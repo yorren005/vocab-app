@@ -5,15 +5,6 @@ status: unread
 ---
 # injurious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Harmful to living things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harmful to living things.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It were for me To throw my sceptre at the injurious gods, To tell them that this world did equal theirs Till they had stolen our jewel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must know, Till the injurious Romans did extort This tribute from us, we were free."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou injurious thief, Hear but my name, and tremble."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Harmful to living things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harmful to living things.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It were for me To throw my sceptre at the injurious gods, To tell them that this world did equal theirs Till they had stolen our jewel."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must know, Till the injurious Romans did extort This tribute from us, we were free."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou injurious thief, Hear but my name, and tremble."*

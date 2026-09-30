@@ -5,15 +5,6 @@ status: unread
 ---
 # ocular
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Combination of lenses at the viewing end of optical instruments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling the eye.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me the ocular proof, Or, by the worth of man’s eternal soul, Thou hadst been better have been born a dog Than answer my wak’d wrath."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her back seemed to be endowed with a sensitiveness to ocular beams—even her clothing—so alive was she to a fancied gaze which might be resting upon her from the outside of that barn."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"In America it’s usual for people to marry.” “If it’s my duty,” Ralph asked, “is it not, by analogy, yours as well?” Miss Stackpole’s ocular surfaces unwinkingly caught the sun."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Combination of lenses at the viewing end of optical instruments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling the eye.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me the ocular proof, Or, by the worth of man’s eternal soul, Thou hadst been better have been born a dog Than answer my wak’d wrath."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her back seemed to be endowed with a sensitiveness to ocular beams—even her clothing—so alive was she to a fancied gaze which might be resting upon her from the outside of that barn."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"In America it’s usual for people to marry.” “If it’s my duty,” Ralph asked, “is it not, by analogy, yours as well?” Miss Stackpole’s ocular surfaces unwinkingly caught the sun."*

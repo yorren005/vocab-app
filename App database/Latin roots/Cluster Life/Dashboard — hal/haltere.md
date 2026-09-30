@@ -5,15 +5,6 @@ status: unread
 ---
 # haltere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the rudimentary hind wings of dipterous insects; used for maintaining equilibrium during flight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the rudimentary hind wings of dipterous insects; used for maintaining equilibrium during flight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"Here he halted for the night, knee-haltering the horse, and leaving it loose to graze, though he himself had nothing to eat."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I have savage cause, And to proclaim it civilly were like A haltered neck which does the hangman thank For being yare about him."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Before proceeding to skin the dead wolves, the Mexicans captured this old fellow and haltered him, by carbine straps, to the horns of one of the buffalo carcasses, near which he sat on his haunches, with eyes yellow from rage and fright."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the rudimentary hind wings of dipterous insects; used for maintaining equilibrium during flight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the rudimentary hind wings of dipterous insects; used for maintaining equilibrium during flight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"Here he halted for the night, knee-haltering the horse, and leaving it loose to graze, though he himself had nothing to eat."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I have savage cause, And to proclaim it civilly were like A haltered neck which does the hangman thank For being yare about him."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Before proceeding to skin the dead wolves, the Mexicans captured this old fellow and haltered him, by carbine straps, to the horns of one of the buffalo carcasses, near which he sat on his haunches, with eyes yellow from rage and fright."*

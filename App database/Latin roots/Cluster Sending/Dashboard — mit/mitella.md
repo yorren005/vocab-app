@@ -5,13 +5,6 @@ status: unread
 ---
 # mitella
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of low slender herbs of north america and northeastern asia having flowers with trifid or pinnatifid petals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of low slender herbs of north america and northeastern asia having flowers with trifid or pinnatifid petals.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mitella designates genus of low slender herbs of north america and northeastern asia having flowers with trifid or pinnatifid petals."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of low slender herbs of north america and northeastern asia having flowers with trifid or pinnatifid petals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of low slender herbs of north america and northeastern asia having flowers with trifid or pinnatifid petals.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mitella designates genus of low slender herbs of north america and northeastern asia having flowers with trifid or pinnatifid petals."*

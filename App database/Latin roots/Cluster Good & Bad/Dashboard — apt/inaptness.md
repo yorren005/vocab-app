@@ -5,14 +5,6 @@ status: unread
 ---
 # inaptness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inappropriateness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inappropriateness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Oh, I'm sorry,” murmured the girl, striving so hard to speak with impersonal unconcern that she did not notice the inaptness of her reply."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The thought of "normal price" is an abstract one, but despite the inaptness of the word it is not without some practical validity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inappropriateness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inappropriateness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Oh, I'm sorry,” murmured the girl, striving so hard to speak with impersonal unconcern that she did not notice the inaptness of her reply."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The thought of "normal price" is an abstract one, but despite the inaptness of the word it is not without some practical validity."*

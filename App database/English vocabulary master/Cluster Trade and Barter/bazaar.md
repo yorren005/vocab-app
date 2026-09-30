@@ -5,20 +5,6 @@ status: unread
 ---
 # bazaar
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Department store
-> 2. **Nuance / Usage**: Place for the sale of goods
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"square in front of the Bazaar were drummers beating the muster call."*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"slipping past him into the Bazaar passage."*
-> - 📜 **James Joyce (*Ulysses*):** *"1886 (never passed into law): a bazaar ticket, No 2004, of S."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Department store
+> 2. **Nuance / Usage**: Place for the sale of goods
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"square in front of the Bazaar were drummers beating the muster call."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"slipping past him into the Bazaar passage."*
+> - 📜 **James Joyce (*Ulysses*):** *"1886 (never passed into law): a bazaar ticket, No 2004, of S."*

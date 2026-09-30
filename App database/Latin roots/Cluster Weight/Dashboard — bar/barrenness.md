@@ -5,15 +5,6 @@ status: unread
 ---
 # barrenness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state (usually of a woman) of having no children or being unable to have children.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of yielding nothing of value.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I found it by the barrenness, hard in the palm of the hand."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Between stretched the barrenness of sand and alkali and drought."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Yet the first of May and the first of November mark turning-points of the year in Europe; the one ushers in the genial heat and the rich vegetation of summer, the other heralds, if it does not share, the cold and barrenness of winter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state (usually of a woman) of having no children or being unable to have children.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of yielding nothing of value.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I found it by the barrenness, hard in the palm of the hand."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Between stretched the barrenness of sand and alkali and drought."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Yet the first of May and the first of November mark turning-points of the year in Europe; the one ushers in the genial heat and the rich vegetation of summer, the other heralds, if it does not share, the cold and barrenness of winter."*

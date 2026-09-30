@@ -5,15 +5,6 @@ status: unread
 ---
 # impertinent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by a lightly pert and exuberant quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not pertinent to the matter under consideration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In very brief, the suit is impertinent to myself, as your worship shall know by this honest old man, and though I say it, though old man, yet poor man, my father."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear a little further, And then I’ll bring thee to the present business Which now’s upon us; without the which this story Were most impertinent."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Not one of my children has ever been so impertinent, to say the least, as your little daughter is already." "I am very sorry you should have to tell me that," Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by a lightly pert and exuberant quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not pertinent to the matter under consideration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In very brief, the suit is impertinent to myself, as your worship shall know by this honest old man, and though I say it, though old man, yet poor man, my father."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear a little further, And then I’ll bring thee to the present business Which now’s upon us; without the which this story Were most impertinent."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Not one of my children has ever been so impertinent, to say the least, as your little daughter is already." "I am very sorry you should have to tell me that," Mrs."*

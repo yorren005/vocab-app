@@ -5,15 +5,6 @@ status: unread
 ---
 # hereupon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Immediately after this.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immediately after this.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will hereupon confess I am in love; and as it is base for a soldier to love, so am I in love with a base wench."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Mercury in attendance with coffee informs Sir Leicester, hereupon, that Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes hereupon addressed me again."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Immediately after this.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immediately after this.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will hereupon confess I am in love; and as it is base for a soldier to love, so am I in love with a base wench."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mercury in attendance with coffee informs Sir Leicester, hereupon, that Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes hereupon addressed me again."*

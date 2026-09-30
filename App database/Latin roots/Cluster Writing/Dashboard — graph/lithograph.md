@@ -5,13 +5,6 @@ status: unread
 ---
 # lithograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A print produced by lithography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Duplicator that prints by lithography; a flat surface (of stone or metal) is treated to absorb or repel ink in the desired pattern.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The common seal of the Abbey, appendant to a deed, dated 1518, has been elegantly lithographed, as we read in the Monasticon, by the care of the Rev."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A print produced by lithography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Duplicator that prints by lithography; a flat surface (of stone or metal) is treated to absorb or repel ink in the desired pattern.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The common seal of the Abbey, appendant to a deed, dated 1518, has been elegantly lithographed, as we read in the Monasticon, by the care of the Rev."*

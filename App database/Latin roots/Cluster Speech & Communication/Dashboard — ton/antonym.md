@@ -5,13 +5,6 @@ status: unread
 ---
 # antonym
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word that expresses a meaning opposed to the meaning of another word, in which case the two words are antonyms of each other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word that expresses a meaning opposed to the meaning of another word, in which case the two words are antonyms of each other.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antonym designates a word that expresses a meaning opposed to the meaning of another word, in which case the two words are antonyms of each other."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word that expresses a meaning opposed to the meaning of another word, in which case the two words are antonyms of each other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word that expresses a meaning opposed to the meaning of another word, in which case the two words are antonyms of each other.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antonym designates a word that expresses a meaning opposed to the meaning of another word, in which case the two words are antonyms of each other."*

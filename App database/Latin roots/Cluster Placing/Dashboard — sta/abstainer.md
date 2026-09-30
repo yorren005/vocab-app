@@ -5,15 +5,6 @@ status: unread
 ---
 # abstainer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who practices self denial as a spiritual discipline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who refrains from drinking intoxicating beverages.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Any saver or abstainer puts aside present wants only when the future good, with the addition of time-value or of money interest, appears as large as the present good."*
-> - 📜 **James Joyce (*Ulysses*):** *"He is practically a total abstainer and I can affirm that he sleeps on a straw litter and eats the most Spartan food, cold dried grocer’s peas."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"In trying to save from intemperance a friend in Berwick who was not a member of his own congregation, he urged him to join the Good Templars, at that time the only available society of total abstainers in the town."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who practices self denial as a spiritual discipline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who refrains from drinking intoxicating beverages.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Any saver or abstainer puts aside present wants only when the future good, with the addition of time-value or of money interest, appears as large as the present good."*
+> - 📜 **James Joyce (*Ulysses*):** *"He is practically a total abstainer and I can affirm that he sleeps on a straw litter and eats the most Spartan food, cold dried grocer’s peas."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"In trying to save from intemperance a friend in Berwick who was not a member of his own congregation, he urged him to join the Good Templars, at that time the only available society of total abstainers in the town."*

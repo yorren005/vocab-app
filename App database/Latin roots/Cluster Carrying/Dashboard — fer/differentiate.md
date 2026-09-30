@@ -5,15 +5,6 @@ status: unread
 ---
 # differentiate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark as different.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be a distinctive feature, attribute, or trait; sometimes in a very positive sense.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His host and his host’s household, his men and his maids, as they became intimately known to Clare, began to differentiate themselves as in a chemical process."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Since, however, it may not be easy for the general reader to carry all these terms in his mind, we will, when it is necessary to differentiate between the two electrodes, call one the in-electrode and the other the out-electrode."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Fig. 1 Fig. 2 ] Among the various Sung and Yüan wares with more or less opalescent glazes which have reached Europe in recent years, it is possible to differentiate a considerable group whose characteristics seem to point to the Kuan yao."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark as different.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be a distinctive feature, attribute, or trait; sometimes in a very positive sense.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His host and his host’s household, his men and his maids, as they became intimately known to Clare, began to differentiate themselves as in a chemical process."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Since, however, it may not be easy for the general reader to carry all these terms in his mind, we will, when it is necessary to differentiate between the two electrodes, call one the in-electrode and the other the out-electrode."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Fig. 1 Fig. 2 ] Among the various Sung and Yüan wares with more or less opalescent glazes which have reached Europe in recent years, it is possible to differentiate a considerable group whose characteristics seem to point to the Kuan yao."*

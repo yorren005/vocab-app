@@ -5,15 +5,6 @@ status: unread
 ---
 # canteen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flask for carrying water; used by soldiers or travelers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sells food and personal items to personnel at an institution or school or camp etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Only those things he always kept with him remained in his room; a small box, a large canteen fitted with silver plate, two Turkish pistols and a saber—a present from his father who had brought it from the siege of Ochákov."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Now you, Captain,” and he turned to a thin, dirty little artillery officer who without his boots (he had given them to the canteen keeper to dry), in only his stockings, rose when they entered, smiling not altogether comfortably."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Another company, a lucky one for not all the companies had vodka, crowded round a pockmarked, broad-shouldered sergeant major who, tilting a keg, filled one after another the canteen lids held out to him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flask for carrying water; used by soldiers or travelers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sells food and personal items to personnel at an institution or school or camp etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Only those things he always kept with him remained in his room; a small box, a large canteen fitted with silver plate, two Turkish pistols and a saber—a present from his father who had brought it from the siege of Ochákov."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Now you, Captain,” and he turned to a thin, dirty little artillery officer who without his boots (he had given them to the canteen keeper to dry), in only his stockings, rose when they entered, smiling not altogether comfortably."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Another company, a lucky one for not all the companies had vodka, crowded round a pockmarked, broad-shouldered sergeant major who, tilting a keg, filled one after another the canteen lids held out to him."*

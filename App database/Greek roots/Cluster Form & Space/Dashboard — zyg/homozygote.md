@@ -5,13 +5,6 @@ status: unread
 ---
 # homozygote
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (genetics) an organism having two identical alleles of a particular gene and so breeding true for the particular characteristic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) an organism having two identical alleles of a particular gene and so breeding true for the particular characteristic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homozygote designates (genetics) an organism having two identical alleles of a particular gene and so breeding true for the particular characteristic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (genetics) an organism having two identical alleles of a particular gene and so breeding true for the particular characteristic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) an organism having two identical alleles of a particular gene and so breeding true for the particular characteristic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homozygote designates (genetics) an organism having two identical alleles of a particular gene and so breeding true for the particular characteristic."*

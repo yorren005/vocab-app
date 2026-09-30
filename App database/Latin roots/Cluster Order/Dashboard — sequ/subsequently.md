@@ -5,15 +5,6 @@ status: unread
 ---
 # subsequently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening at a time subsequent to a reference time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happening at a time subsequent to a reference time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The physician subsequently said that he thought that in that five minutes every kindred case he had ever known in a quarter century's practice passed before his mind."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Subsequently L.R. writes, 'We. are full of thankfulness and praise about E."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"An account of them was subsequently published in the _Christian_: "In 1839 I was a sailor on board the brig Pandora, Captain G----, bound from Savannah to Boston, with a cargo of cotton."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening at a time subsequent to a reference time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happening at a time subsequent to a reference time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The physician subsequently said that he thought that in that five minutes every kindred case he had ever known in a quarter century's practice passed before his mind."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"Subsequently L.R. writes, 'We. are full of thankfulness and praise about E."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"An account of them was subsequently published in the _Christian_: "In 1839 I was a sailor on board the brig Pandora, Captain G----, bound from Savannah to Boston, with a cargo of cotton."*

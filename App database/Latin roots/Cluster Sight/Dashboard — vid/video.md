@@ -5,13 +5,6 @@ status: unread
 ---
 # video
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The visible part of a television transmission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recording of both the visual and audible components (especially one containing a recording of a movie or television program).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"NATHANIEL. _Videsne quis venit?_ HOLOFERNES. _Video, et gaudeo._ ARMADO. _Chirrah!_ HOLOFERNES. _Quare_ “chirrah”, not “sirrah”?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The visible part of a television transmission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recording of both the visual and audible components (especially one containing a recording of a movie or television program).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"NATHANIEL. _Videsne quis venit?_ HOLOFERNES. _Video, et gaudeo._ ARMADO. _Chirrah!_ HOLOFERNES. _Quare_ “chirrah”, not “sirrah”?"*

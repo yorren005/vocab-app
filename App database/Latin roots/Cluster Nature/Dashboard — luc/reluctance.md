@@ -5,15 +5,6 @@ status: unread
 ---
 # reluctance
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physics) opposition to magnetic flux (analogous to electric resistance).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A certain degree of unwillingness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But his deportment is beautiful.” Caddy went on to say with considerable hesitation and reluctance that there was one thing more she wished us to know, and felt we ought to know, and which she hoped would not offend us."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes admits with an appearance of reluctance."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was not produced without much reluctance and many declarations on the part of Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (physics) opposition to magnetic flux (analogous to electric resistance).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A certain degree of unwillingness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"But his deportment is beautiful.” Caddy went on to say with considerable hesitation and reluctance that there was one thing more she wished us to know, and felt we ought to know, and which she hoped would not offend us."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes admits with an appearance of reluctance."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It was not produced without much reluctance and many declarations on the part of Mr."*

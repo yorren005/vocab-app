@@ -5,15 +5,6 @@ status: unread
 ---
 # celebrate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Behave as expected during of holidays or rites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a celebration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ENOBARBUS. [_To Antony_.] Ha, my brave emperor, Shall we dance now the Egyptian Bacchanals And celebrate our drink?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dauphin, command the citizens make bonfires And feast and banquet in the open streets To celebrate the joy that God hath given us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet there, my queen, We’ll celebrate their nuptials, and ourselves Will in that kingdom spend our following days: Our son and daughter shall in Tyrus reign."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Behave as expected during of holidays or rites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a celebration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ENOBARBUS. [_To Antony_.] Ha, my brave emperor, Shall we dance now the Egyptian Bacchanals And celebrate our drink?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dauphin, command the citizens make bonfires And feast and banquet in the open streets To celebrate the joy that God hath given us."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet there, my queen, We’ll celebrate their nuptials, and ourselves Will in that kingdom spend our following days: Our son and daughter shall in Tyrus reign."*

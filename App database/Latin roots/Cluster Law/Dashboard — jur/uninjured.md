@@ -5,15 +5,6 @@ status: unread
 ---
 # uninjured
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not injured physically or mentally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not injured physically or mentally.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Weevle and Guppy good morning, assures them of the satisfaction with which he sees them uninjured, and accompanies Mrs."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak took it up, thinking it might be better to kill the creature to save it from pain; but finding it uninjured, he placed it again among the grass."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But he was already dead, and, seeing that nothing more could be done immediately, the mail-cart man returned to his own animal, which was uninjured."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not injured physically or mentally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not injured physically or mentally.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Weevle and Guppy good morning, assures them of the satisfaction with which he sees them uninjured, and accompanies Mrs."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak took it up, thinking it might be better to kill the creature to save it from pain; but finding it uninjured, he placed it again among the grass."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But he was already dead, and, seeing that nothing more could be done immediately, the mail-cart man returned to his own animal, which was uninjured."*

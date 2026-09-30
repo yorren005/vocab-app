@@ -5,15 +5,6 @@ status: unread
 ---
 # sphere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The apparent surface of the heavens of which half forms the dome of the visible sky.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the concentric and eccentric revolving spherical transparent shells in which according to ancient astronomy stars, sun, planets, and moon are set.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In his bright radiance and collateral light Must I be comforted, not in his sphere."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To be called into a huge sphere, and not to be seen to move in ’t, are the holes where eyes should be, which pitifully disaster the cheeks."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O sun, Burn the great sphere thou mov’st in!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The apparent surface of the heavens of which half forms the dome of the visible sky.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the concentric and eccentric revolving spherical transparent shells in which according to ancient astronomy stars, sun, planets, and moon are set.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In his bright radiance and collateral light Must I be comforted, not in his sphere."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To be called into a huge sphere, and not to be seen to move in ’t, are the holes where eyes should be, which pitifully disaster the cheeks."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O sun, Burn the great sphere thou mov’st in!"*

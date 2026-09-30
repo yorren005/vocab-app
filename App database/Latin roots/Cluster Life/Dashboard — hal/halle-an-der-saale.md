@@ -5,13 +5,6 @@ status: unread
 ---
 # halle-an-der-saale
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in the saxony region of germany on the saale river; a member of the hanseatic league during the 13th and 14th centuries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in the saxony region of germany on the saale river; a member of the hanseatic league during the 13th and 14th centuries.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halle-an-der-saale designates a city in the saxony region of germany on the saale river; a member of the hanseatic league during the 13th and 14th centuries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in the saxony region of germany on the saale river; a member of the hanseatic league during the 13th and 14th centuries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in the saxony region of germany on the saale river; a member of the hanseatic league during the 13th and 14th centuries.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halle-an-der-saale designates a city in the saxony region of germany on the saale river; a member of the hanseatic league during the 13th and 14th centuries."*

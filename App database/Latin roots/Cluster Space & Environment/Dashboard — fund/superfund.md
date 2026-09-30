@@ -5,13 +5,6 @@ status: unread
 ---
 # superfund
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The federal government's program to locate and investigate and clean up the worst uncontrolled and abandoned toxic waste sites nationwide; administered by the environmental protection agency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The federal government's program to locate and investigate and clean up the worst uncontrolled and abandoned toxic waste sites nationwide; administered by the environmental protection agency.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superfund designates the federal government's program to locate and investigate and clean up the worst uncontrolled and abandoned toxic waste sites nationwide; administered by the environmental protection agency."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The federal government's program to locate and investigate and clean up the worst uncontrolled and abandoned toxic waste sites nationwide; administered by the environmental protection agency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The federal government's program to locate and investigate and clean up the worst uncontrolled and abandoned toxic waste sites nationwide; administered by the environmental protection agency.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superfund designates the federal government's program to locate and investigate and clean up the worst uncontrolled and abandoned toxic waste sites nationwide; administered by the environmental protection agency."*

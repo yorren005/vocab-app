@@ -5,13 +5,6 @@ status: unread
 ---
 # dicotyledonous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class or subclass (Magnoliopsida or Dicotyledoneae) of angiospermous plants that produce an embryo with two cotyledons and usually have floral organs arranged in cycles of four or five and leaves with reticulate venation —called also dicot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class or subclass (Magnoliopsida or Dicotyledoneae) of angiospermous plants that produce an embryo with two cotyledons and usually have floral organs arranged in cycles of four or five and leaves with reticulate venation —called also dicot.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Near Fort Harker, certain strata contain large quantities of the remains (leaves chiefly) of dicotyledonous and other forms of land vegetation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class or subclass (Magnoliopsida or Dicotyledoneae) of angiospermous plants that produce an embryo with two cotyledons and usually have floral organs arranged in cycles of four or five and leaves with reticulate venation —called also dicot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class or subclass (Magnoliopsida or Dicotyledoneae) of angiospermous plants that produce an embryo with two cotyledons and usually have floral organs arranged in cycles of four or five and leaves with reticulate venation —called also dicot.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Near Fort Harker, certain strata contain large quantities of the remains (leaves chiefly) of dicotyledonous and other forms of land vegetation."*

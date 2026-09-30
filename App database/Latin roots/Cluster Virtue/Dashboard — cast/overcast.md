@@ -5,15 +5,6 @@ status: unread
 ---
 # overcast
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of the sky when it is covered by clouds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gloomy semidarkness caused by cloud cover.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hie therefore, Robin, overcast the night; The starry welkin cover thou anon With drooping fog, as black as Acheron, And lead these testy rivals so astray As one come not within another’s way."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The lodge was so dark within, now the sky was overcast, that we only clearly saw the man who came to the door when we took shelter there and put two chairs for Ada and me."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The day waned into a gloomy evening, overcast and sad, and I still contended with the same distress."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of the sky when it is covered by clouds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gloomy semidarkness caused by cloud cover.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hie therefore, Robin, overcast the night; The starry welkin cover thou anon With drooping fog, as black as Acheron, And lead these testy rivals so astray As one come not within another’s way."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lodge was so dark within, now the sky was overcast, that we only clearly saw the man who came to the door when we took shelter there and put two chairs for Ada and me."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The day waned into a gloomy evening, overcast and sad, and I still contended with the same distress."*

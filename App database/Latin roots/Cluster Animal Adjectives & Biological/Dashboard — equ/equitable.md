@@ -5,15 +5,6 @@ status: unread
 ---
 # equitable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fair to all parties as dictated by reason and conscience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fair to all parties as dictated by reason and conscience.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Some ill-conditioned growling fellow may say to me, ‘What’s the use of these legal and equitable abuses?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These all form a complex of equitable claims, which together equal in value one undivided property right, which in turn equals the value of the wealth.[4] § 7. #Limitations of bequest and inheritance#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The law makes between property rights and equitable rights some subtle distinctions, which have their reason in the history, if not in the logic, of the law but which are not essential to economic discussion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fair to all parties as dictated by reason and conscience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fair to all parties as dictated by reason and conscience.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Some ill-conditioned growling fellow may say to me, ‘What’s the use of these legal and equitable abuses?"*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These all form a complex of equitable claims, which together equal in value one undivided property right, which in turn equals the value of the wealth.[4] § 7. #Limitations of bequest and inheritance#."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The law makes between property rights and equitable rights some subtle distinctions, which have their reason in the history, if not in the logic, of the law but which are not essential to economic discussion."*

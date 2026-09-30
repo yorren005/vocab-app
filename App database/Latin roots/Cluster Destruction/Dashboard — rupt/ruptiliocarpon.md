@@ -5,13 +5,6 @@ status: unread
 ---
 # ruptiliocarpon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: New (1993) genus of trees of central america now recognized as similar to those of genus lepidobotrys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New (1993) genus of trees of central america now recognized as similar to those of genus lepidobotrys.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ruptiliocarpon designates new (1993) genus of trees of central america now recognized as similar to those of genus lepidobotrys."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: New (1993) genus of trees of central america now recognized as similar to those of genus lepidobotrys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New (1993) genus of trees of central america now recognized as similar to those of genus lepidobotrys.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ruptiliocarpon designates new (1993) genus of trees of central america now recognized as similar to those of genus lepidobotrys."*

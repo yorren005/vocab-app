@@ -5,15 +5,6 @@ status: unread
 ---
 # realization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming to understand something clearly and distinctly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making real or giving the appearance of reality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Now came the realization that things might be different."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"How nice it must seem!” said Liddy, with the fixed features of mental realization."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Then how can you, O my own husband, stop loving me?” “I repeat, the woman I have been loving is not you.” “But who?” “Another woman in your shape.” She perceived in his words the realization of her own apprehensive foreboding in former times."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming to understand something clearly and distinctly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making real or giving the appearance of reality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Now came the realization that things might be different."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"How nice it must seem!” said Liddy, with the fixed features of mental realization."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Then how can you, O my own husband, stop loving me?” “I repeat, the woman I have been loving is not you.” “But who?” “Another woman in your shape.” She perceived in his words the realization of her own apprehensive foreboding in former times."*

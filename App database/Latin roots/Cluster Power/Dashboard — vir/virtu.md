@@ -5,15 +5,6 @@ status: unread
 ---
 # virtu
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Love of or taste for fine objects of art.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Artistic quality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have those hopes of her good that her education promises her dispositions she inherits, which makes fair gifts fairer; for where an unclean mind carries virtuous qualities, there commendations go with pity, they are virtues and traitors too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The web of our life is of a mingled yarn, good and ill together; our virtues would be proud if our faults whipped them not; and our crimes would despair if they were not cherish’d by our virtues."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do presume, sir, that you are not fallen From the report that goes upon your goodness; And therefore, goaded with most sharp occasions, Which lay nice manners by, I put you to The use of your own virtues, for the which I shall continue thankful."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Love of or taste for fine objects of art.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Artistic quality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have those hopes of her good that her education promises her dispositions she inherits, which makes fair gifts fairer; for where an unclean mind carries virtuous qualities, there commendations go with pity, they are virtues and traitors too."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The web of our life is of a mingled yarn, good and ill together; our virtues would be proud if our faults whipped them not; and our crimes would despair if they were not cherish’d by our virtues."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do presume, sir, that you are not fallen From the report that goes upon your goodness; And therefore, goaded with most sharp occasions, Which lay nice manners by, I put you to The use of your own virtues, for the which I shall continue thankful."*

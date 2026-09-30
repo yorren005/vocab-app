@@ -5,13 +5,6 @@ status: unread
 ---
 # sarcoma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant tumor arising in tissue (such as connective tissue, bone, cartilage, or striated muscle) of mesodermal origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A malignant bone tumor especially of a long bone (as of the thigh) or the pelvis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcoma designates a malignant tumor arising in tissue (such as connective tissue, bone, cartilage, or striated muscle) of mesodermal origin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant tumor arising in tissue (such as connective tissue, bone, cartilage, or striated muscle) of mesodermal origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A malignant bone tumor especially of a long bone (as of the thigh) or the pelvis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcoma designates a malignant tumor arising in tissue (such as connective tissue, bone, cartilage, or striated muscle) of mesodermal origin."*

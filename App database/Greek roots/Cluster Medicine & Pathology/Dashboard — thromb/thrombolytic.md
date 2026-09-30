@@ -5,13 +5,6 @@ status: unread
 ---
 # thrombolytic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of pharmaceutical that can break up clots blocking the flow of blood to the heart muscle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of pharmaceutical that can break up clots blocking the flow of blood to the heart muscle.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombolytic designates a kind of pharmaceutical that can break up clots blocking the flow of blood to the heart muscle."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of pharmaceutical that can break up clots blocking the flow of blood to the heart muscle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of pharmaceutical that can break up clots blocking the flow of blood to the heart muscle.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thrombolytic designates a kind of pharmaceutical that can break up clots blocking the flow of blood to the heart muscle."*

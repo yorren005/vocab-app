@@ -5,15 +5,6 @@ status: unread
 ---
 # malleability
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being physically malleable; the property of something that can be worked or hammered or shaped without breaking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being physically malleable; the property of something that can be worked or hammered or shaped without breaking.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The life-artist must know how to secure the proper degree of malleability in this mixture of flesh and soul."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Its malleability and the property of being readily toughened by simple mechanical treatment were also factors which account for the discovery of its general usefulness in such primitive times."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The _malleability_ and _ductility_ of copper are considerable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being physically malleable; the property of something that can be worked or hammered or shaped without breaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being physically malleable; the property of something that can be worked or hammered or shaped without breaking.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The life-artist must know how to secure the proper degree of malleability in this mixture of flesh and soul."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Its malleability and the property of being readily toughened by simple mechanical treatment were also factors which account for the discovery of its general usefulness in such primitive times."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The _malleability_ and _ductility_ of copper are considerable."*

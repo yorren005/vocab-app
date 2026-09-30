@@ -5,15 +5,6 @@ status: unread
 ---
 # summons
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A request to be present.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order to appear in person at a given place and time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then it started, like a guilty thing Upon a fearful summons."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I then moved you, My Lord of Canterbury, and got your leave To make this present summons."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your name, your quality? and why you answer This present summons?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A request to be present.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order to appear in person at a given place and time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then it started, like a guilty thing Upon a fearful summons."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I then moved you, My Lord of Canterbury, and got your leave To make this present summons."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your name, your quality? and why you answer This present summons?"*

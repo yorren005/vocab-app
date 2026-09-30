@@ -5,15 +5,6 @@ status: unread
 ---
 # luce
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states publisher of magazines (1898-1967).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states playwright and public official (1902-1987).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Luce concealed from Antipholus of Ephesus and his companions."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"LUCE. [_Within._] What a coil is there, Dromio, who are those at the gate?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thy name be called Luce,—Luce, thou hast answer’d him well."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states publisher of magazines (1898-1967).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states playwright and public official (1902-1987).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Luce concealed from Antipholus of Ephesus and his companions."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"LUCE. [_Within._] What a coil is there, Dromio, who are those at the gate?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thy name be called Luce,—Luce, thou hast answer’d him well."*

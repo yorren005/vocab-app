@@ -5,15 +5,6 @@ status: unread
 ---
 # agitated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Try to stir up public opinion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be agitated, excited, or roused.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Well, I shall get some to-morrow," he said, quite agitated."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell’s calm hands lose their composure when she speaks of him, and unfolding themselves from her stomacher, hover about her in an agitated manner as she says what a likely lad, what a fine lad, what a gay, good-humoured, clever lad he was!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt shipwrecked!” “Don’t be agitated, my dear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Try to stir up public opinion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be agitated, excited, or roused.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Well, I shall get some to-morrow," he said, quite agitated."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell’s calm hands lose their composure when she speaks of him, and unfolding themselves from her stomacher, hover about her in an agitated manner as she says what a likely lad, what a fine lad, what a gay, good-humoured, clever lad he was!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt shipwrecked!” “Don’t be agitated, my dear."*

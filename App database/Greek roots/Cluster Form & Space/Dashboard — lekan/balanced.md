@@ -5,15 +5,6 @@ status: unread
 ---
 # balanced
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into balance or equilibrium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compute credits and debits of an account.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Him I’ll desire To meet me at the consecrated fount, A league below the city; and from thence, By cold gradation and well-balanced form."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The account is now favourably balanced: my creditor has accepted a composition."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I suppose the people who admired him for them in his youth attached too much importance to them and too little to any training that would have balanced and adjusted them, and so he became what he is."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into balance or equilibrium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compute credits and debits of an account.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Him I’ll desire To meet me at the consecrated fount, A league below the city; and from thence, By cold gradation and well-balanced form."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The account is now favourably balanced: my creditor has accepted a composition."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I suppose the people who admired him for them in his youth attached too much importance to them and too little to any training that would have balanced and adjusted them, and so he became what he is."*

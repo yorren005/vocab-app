@@ -5,15 +5,6 @@ status: unread
 ---
 # nebula
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicinal liquid preparation intended for use in an atomizer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cloudiness of the urine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They placed the calf beside its mother again, took up the lantern, and went out, the light sinking down the hill till it was no more than a nebula."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They placed the calf beside its mother again, took up the lantern, and went out, the light sinking down the hill till it was no more than a nebula."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"For it the nebula cohered to an orb, The long slow strata piled to rest it on, Vast vegetables gave it sustenance, Monstrous sauroids transported it in their mouths and deposited it with care."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicinal liquid preparation intended for use in an atomizer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cloudiness of the urine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They placed the calf beside its mother again, took up the lantern, and went out, the light sinking down the hill till it was no more than a nebula."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They placed the calf beside its mother again, took up the lantern, and went out, the light sinking down the hill till it was no more than a nebula."*
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"For it the nebula cohered to an orb, The long slow strata piled to rest it on, Vast vegetables gave it sustenance, Monstrous sauroids transported it in their mouths and deposited it with care."*

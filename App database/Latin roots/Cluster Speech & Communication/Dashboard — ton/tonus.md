@@ -5,13 +5,6 @@ status: unread
 ---
 # tonus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The elastic tension of living muscles, arteries, etc. that facilitate response to stimuli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The elastic tension of living muscles, arteries, etc. that facilitate response to stimuli.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tonus designates the elastic tension of living muscles, arteries, etc. that facilitate response to stimuli."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The elastic tension of living muscles, arteries, etc. that facilitate response to stimuli.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The elastic tension of living muscles, arteries, etc. that facilitate response to stimuli.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tonus designates the elastic tension of living muscles, arteries, etc. that facilitate response to stimuli."*

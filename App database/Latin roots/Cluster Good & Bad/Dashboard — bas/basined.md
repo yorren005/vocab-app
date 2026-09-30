@@ -5,13 +5,6 @@ status: unread
 ---
 # basined
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enclosed in a basin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enclosed in a basin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basined designates enclosed in a basin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enclosed in a basin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enclosed in a basin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basined designates enclosed in a basin."*

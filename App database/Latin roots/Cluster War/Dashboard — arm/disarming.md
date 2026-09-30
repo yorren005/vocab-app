@@ -5,15 +5,6 @@ status: unread
 ---
 # disarming
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of reducing or depriving of arms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove offensive capability from.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Jane is one of the hunted that has turned and has come back to meet the pursuer with outstretched and disarming hand."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"; Take this, you Yankee, and remember that you will surely be hung if you don't get out of here before daylight." "I hope you are not disarming yourself," said Tom."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"In obedience to the order of his superior the lieutenant stepped upon the porch and beckoned to some of his men, who at once came in and began the work of disarming the citizens."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of reducing or depriving of arms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove offensive capability from.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Jane is one of the hunted that has turned and has come back to meet the pursuer with outstretched and disarming hand."*
+> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"; Take this, you Yankee, and remember that you will surely be hung if you don't get out of here before daylight." "I hope you are not disarming yourself," said Tom."*
+> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"In obedience to the order of his superior the lieutenant stepped upon the porch and beckoned to some of his men, who at once came in and began the work of disarming the citizens."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # semisweet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a taste that is a mixture of bitterness and sweetness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a taste that is a mixture of bitterness and sweetness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semisweet designates having a taste that is a mixture of bitterness and sweetness."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a taste that is a mixture of bitterness and sweetness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a taste that is a mixture of bitterness and sweetness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semisweet designates having a taste that is a mixture of bitterness and sweetness."*

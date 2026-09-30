@@ -5,15 +5,6 @@ status: unread
 ---
 # levity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling an inappropriate lack of seriousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manner lacking seriousness.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our graver business Frowns at this levity.—Gentle lords, let’s part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is already Traduced for levity, and ’tis said in Rome That Photinus, an eunuch, and your maids Manage this war."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our own precedent passions do instruct us What levity’s in youth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling an inappropriate lack of seriousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manner lacking seriousness.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our graver business Frowns at this levity.—Gentle lords, let’s part."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is already Traduced for levity, and ’tis said in Rome That Photinus, an eunuch, and your maids Manage this war."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our own precedent passions do instruct us What levity’s in youth."*

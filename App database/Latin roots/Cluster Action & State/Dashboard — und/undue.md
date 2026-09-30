@@ -5,15 +5,6 @@ status: unread
 ---
 # undue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not yet payable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not appropriate or proper (or even legal) in the circumstances.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No—I’ve hardly looked at her at all,” simpered Joseph, reducing his body smaller whilst talking, apparently from a meek sense of undue prominence."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is not an undue limitation of the rights of the individual depositor."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"In the calm with which you learnt you had become suddenly rich, I read a mind clear of the vice of Demas:—lucre had no undue power over you."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not yet payable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not appropriate or proper (or even legal) in the circumstances.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No—I’ve hardly looked at her at all,” simpered Joseph, reducing his body smaller whilst talking, apparently from a meek sense of undue prominence."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is not an undue limitation of the rights of the individual depositor."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"In the calm with which you learnt you had become suddenly rich, I read a mind clear of the vice of Demas:—lucre had no undue power over you."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # centering
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The concentration of attention or energy on something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (american football) putting the ball in play by passing it (between the legs) to a back.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centering designates the concentration of attention or energy on something."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The concentration of attention or energy on something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (american football) putting the ball in play by passing it (between the legs) to a back.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centering designates the concentration of attention or energy on something."*

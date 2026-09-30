@@ -5,13 +5,6 @@ status: unread
 ---
 # meromorphic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or being a function of a complex variable that is analytic everywhere in a region except for singularities at each of which infinity is the limit and each of which is contained in a neighborhood where the function is analytic except for the singular point itself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being a function of a complex variable that is analytic everywhere in a region except for singularities at each of which infinity is the limit and each of which is contained in a neighborhood where the function is analytic except for the singular point itself.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meromorphic designates relating to or being a function of a complex variable that is analytic everywhere in a region except for singularities at each of which infinity is the limit and each of which is contained in a neighborhood where the function is analytic except for the singular point itself."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or being a function of a complex variable that is analytic everywhere in a region except for singularities at each of which infinity is the limit and each of which is contained in a neighborhood where the function is analytic except for the singular point itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being a function of a complex variable that is analytic everywhere in a region except for singularities at each of which infinity is the limit and each of which is contained in a neighborhood where the function is analytic except for the singular point itself.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meromorphic designates relating to or being a function of a complex variable that is analytic everywhere in a region except for singularities at each of which infinity is the limit and each of which is contained in a neighborhood where the function is analytic except for the singular point itself."*

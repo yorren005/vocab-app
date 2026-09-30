@@ -5,13 +5,6 @@ status: unread
 ---
 # fancywork
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decorative needlework.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decorative needlework.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He could talk about rural economy with the count, fashions with the countess and Natásha, and about albums and fancywork with Sónya."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decorative needlework.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decorative needlework.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He could talk about rural economy with the count, fashions with the countess and Natásha, and about albums and fancywork with Sónya."*

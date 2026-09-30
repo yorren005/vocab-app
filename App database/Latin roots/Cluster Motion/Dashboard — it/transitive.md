@@ -5,13 +5,6 @@ status: unread
 ---
 # transitive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A verb (or verb construction) that requires an object in order to be grammatical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating a verb that requires a direct object to complete the meaning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transitive designates a verb (or verb construction) that requires an object in order to be grammatical."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A verb (or verb construction) that requires an object in order to be grammatical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating a verb that requires a direct object to complete the meaning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transitive designates a verb (or verb construction) that requires an object in order to be grammatical."*

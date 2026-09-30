@@ -5,15 +5,6 @@ status: unread
 ---
 # consequence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phenomenon that follows and is caused by some previous phenomenon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outcome of an event especially as relative to an individual.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fare you well, my lord; and believe this of me, there can be no kernal in this light nut; the soul of this man is his clothes; trust him not in matter of heavy consequence; I have kept of them tame, and know their natures."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The consequence is, then, thy jealous fits Hath scar’d thy husband from the use of’s wits."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At ‘closes in the consequence.’ At ‘friend or so,’ and ‘gentleman.’ POLONIUS."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phenomenon that follows and is caused by some previous phenomenon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outcome of an event especially as relative to an individual.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fare you well, my lord; and believe this of me, there can be no kernal in this light nut; the soul of this man is his clothes; trust him not in matter of heavy consequence; I have kept of them tame, and know their natures."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The consequence is, then, thy jealous fits Hath scar’d thy husband from the use of’s wits."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At ‘closes in the consequence.’ At ‘friend or so,’ and ‘gentleman.’ POLONIUS."*

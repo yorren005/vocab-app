@@ -5,15 +5,6 @@ status: unread
 ---
 # regularly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a regular manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a regular form.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have the honour to attend court regularly."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have the honour to attend court regularly."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Attending court the other day—I attend it regularly, with my documents—I taxed him with it, and he almost confessed."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a regular manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a regular form.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I have the honour to attend court regularly."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I have the honour to attend court regularly."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Attending court the other day—I attend it regularly, with my documents—I taxed him with it, and he almost confessed."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # humanize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more humane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more humane.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I’ve seen hundreds worse looking at your time of life, I have indeed.” The fair Volumnia, not quite unconscious perhaps of the humanizing influence of her charms, pauses in the writing of cocked-hat notes and meditatively adjusts the pearl necklace."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Each station should be like a beacon on the road towards better things, a centre for trade of course, but also for humanizing, improving, instructing.” Conceive you—that ass!"*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Nor was it only by words that Stoicism worked for humanity, for it was Stoic lawyers who softened and broadened and humanized Roman law.[114] Yet Stoicism in Seneca and Epictetus had reached its zenith."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more humane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more humane.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"I’ve seen hundreds worse looking at your time of life, I have indeed.” The fair Volumnia, not quite unconscious perhaps of the humanizing influence of her charms, pauses in the writing of cocked-hat notes and meditatively adjusts the pearl necklace."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Each station should be like a beacon on the road towards better things, a centre for trade of course, but also for humanizing, improving, instructing.” Conceive you—that ass!"*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Nor was it only by words that Stoicism worked for humanity, for it was Stoic lawyers who softened and broadened and humanized Roman law.[114] Yet Stoicism in Seneca and Epictetus had reached its zenith."*

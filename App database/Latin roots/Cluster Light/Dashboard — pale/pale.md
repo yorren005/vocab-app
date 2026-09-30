@@ -5,15 +5,6 @@ status: unread
 ---
 # pale
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wooden strip forming part of a fence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn pale, as if in fear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What was’t That moved pale Cassius to conspire?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I speak but brotherly of him, but should I anatomize him to thee as he is, I must blush and weep, and thou must look pale and wonder."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For, by this heaven, now at our sorrows pale, Say what thou canst, I’ll go along with thee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wooden strip forming part of a fence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn pale, as if in fear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What was’t That moved pale Cassius to conspire?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I speak but brotherly of him, but should I anatomize him to thee as he is, I must blush and weep, and thou must look pale and wonder."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For, by this heaven, now at our sorrows pale, Say what thou canst, I’ll go along with thee."*

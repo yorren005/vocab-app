@@ -5,15 +5,6 @@ status: unread
 ---
 # offer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The verbal act of offering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something offered (as a proposal or bid).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We’ll take your offer kindly. [_Exeunt._] SCENE VI."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have made me offer Of Sicily, Sardinia; and I must Rid all the sea of pirates; then to send Measures of wheat to Rome."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know, then, I came before you here a man prepared To take this offer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The verbal act of offering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something offered (as a proposal or bid).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We’ll take your offer kindly. [_Exeunt._] SCENE VI."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have made me offer Of Sicily, Sardinia; and I must Rid all the sea of pirates; then to send Measures of wheat to Rome."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know, then, I came before you here a man prepared To take this offer."*

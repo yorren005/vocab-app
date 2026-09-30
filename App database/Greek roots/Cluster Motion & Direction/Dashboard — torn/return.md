@@ -5,15 +5,6 @@ status: unread
 ---
 # return
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Document giving the tax collector information about the taxpayer's tax liability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coming to or returning home.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo thus by day my limbs, by night my mind, For thee, and for my self, no quiet find. 28 How can I then return in happy plight That am debarred the benefit of rest?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Till I return of posting is no need."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Return forgetful Muse, and straight redeem, In gentle numbers time so idly spent, Sing to the ear that doth thy lays esteem, And gives thy pen both skill and argument."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Document giving the tax collector information about the taxpayer's tax liability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coming to or returning home.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo thus by day my limbs, by night my mind, For thee, and for my self, no quiet find. 28 How can I then return in happy plight That am debarred the benefit of rest?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Till I return of posting is no need."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Return forgetful Muse, and straight redeem, In gentle numbers time so idly spent, Sing to the ear that doth thy lays esteem, And gives thy pen both skill and argument."*

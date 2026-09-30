@@ -5,15 +5,6 @@ status: unread
 ---
 # promotion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message issued in behalf of some product or cause or idea or person or institution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of raising in rank or position.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art not for the fashion of these times, Where none will sweat but for promotion, And having that do choke their service up Even with the having."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There, my lord: The high promotion of his Grace of Canterbury, Who holds his state at door, ’mongst pursuivants, Pages, and footboys."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The most you sought was her promotion, For ’twas your heaven she should be advanc’d, And weep ye now, seeing she is advanc’d Above the clouds, as high as heaven itself?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A message issued in behalf of some product or cause or idea or person or institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of raising in rank or position.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art not for the fashion of these times, Where none will sweat but for promotion, And having that do choke their service up Even with the having."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There, my lord: The high promotion of his Grace of Canterbury, Who holds his state at door, ’mongst pursuivants, Pages, and footboys."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The most you sought was her promotion, For ’twas your heaven she should be advanc’d, And weep ye now, seeing she is advanc’d Above the clouds, as high as heaven itself?"*

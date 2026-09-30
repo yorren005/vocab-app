@@ -5,15 +5,6 @@ status: unread
 ---
 # obsequious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attempting to win favor from influential people by flattery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attentive in an ingratiating or servile manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How many a holy and obsequious tear Hath dear religious love stol’n from mine eye, As interest of the dead, which now appear, But things removed that hidden in thee lie."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, let me be obsequious in thy heart, And take thou my oblation, poor but free, Which is not mixed with seconds, knows no art, But mutual render, only me for thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My sighing breast shall be thy funeral bell; And so obsequious will thy father be, Even for the loss of thee, having no more, As Priam was for all his valiant sons."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attempting to win favor from influential people by flattery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attentive in an ingratiating or servile manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How many a holy and obsequious tear Hath dear religious love stol’n from mine eye, As interest of the dead, which now appear, But things removed that hidden in thee lie."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, let me be obsequious in thy heart, And take thou my oblation, poor but free, Which is not mixed with seconds, knows no art, But mutual render, only me for thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My sighing breast shall be thy funeral bell; And so obsequious will thy father be, Even for the loss of thee, having no more, As Priam was for all his valiant sons."*

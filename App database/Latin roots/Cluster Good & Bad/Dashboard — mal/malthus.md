@@ -5,15 +5,6 @@ status: unread
 ---
 # malthus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An english economist who argued that increases in population would outgrow increases in the means of subsistence (1766-1834).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An english economist who argued that increases in population would outgrow increases in the means of subsistence (1766-1834).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"His work on political economy not only put into thorough repair the structure raised by Adam Smith, Malthus, and Ricardo, but raised it at least one story higher."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The idea as held by Malthus and Ricardo was modified by John Stuart Mill in somewhat inconsistent ways."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"So much useless controversy has been occasioned by the ambiguities of Malthus's argument that it seemed best not to introduce this difficulty into the text."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An english economist who argued that increases in population would outgrow increases in the means of subsistence (1766-1834).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An english economist who argued that increases in population would outgrow increases in the means of subsistence (1766-1834).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"His work on political economy not only put into thorough repair the structure raised by Adam Smith, Malthus, and Ricardo, but raised it at least one story higher."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The idea as held by Malthus and Ricardo was modified by John Stuart Mill in somewhat inconsistent ways."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"So much useless controversy has been occasioned by the ambiguities of Malthus's argument that it seemed best not to introduce this difficulty into the text."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # contractual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or part of a binding legal agreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or part of a binding legal agreement.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The same analysis will show that any credit is but a contractual claim upon some other source of income which is, or should have been, already taxed."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"As we have seen, even now fewer than 1 in 16 of all gainfully employed, and fewer than 1 in 12 of those working for contractual wages are organized."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Interest on money is the contractual form in which more and more the use of wealth is paid for."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or part of a binding legal agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or part of a binding legal agreement.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The same analysis will show that any credit is but a contractual claim upon some other source of income which is, or should have been, already taxed."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"As we have seen, even now fewer than 1 in 16 of all gainfully employed, and fewer than 1 in 12 of those working for contractual wages are organized."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Interest on money is the contractual form in which more and more the use of wealth is paid for."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # demulen
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trade name for an oral contraceptive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trade name for an oral contraceptive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demulen designates trade name for an oral contraceptive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Trade name for an oral contraceptive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trade name for an oral contraceptive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demulen designates trade name for an oral contraceptive."*

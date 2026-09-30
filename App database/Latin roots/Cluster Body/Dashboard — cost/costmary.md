@@ -5,13 +5,6 @@ status: unread
 ---
 # costmary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tansy-scented eurasian perennial herb with buttonlike yellow flowers; used as potherb or salad green and sometimes for potpourri or tea or flavoring; sometimes placed in genus chrysanthemum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leaves used sparingly (because of bitter overtones) in sauces and soups and stuffings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, costmary designates tansy-scented eurasian perennial herb with buttonlike yellow flowers; used as potherb or salad green and sometimes for potpourri or tea or flavoring; sometimes placed in genus chrysanthemum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tansy-scented eurasian perennial herb with buttonlike yellow flowers; used as potherb or salad green and sometimes for potpourri or tea or flavoring; sometimes placed in genus chrysanthemum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leaves used sparingly (because of bitter overtones) in sauces and soups and stuffings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, costmary designates tansy-scented eurasian perennial herb with buttonlike yellow flowers; used as potherb or salad green and sometimes for potpourri or tea or flavoring; sometimes placed in genus chrysanthemum."*

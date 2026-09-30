@@ -5,15 +5,6 @@ status: unread
 ---
 # err
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a mistake or be incorrect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wander from a direct course or at random.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet in good faith some say that thee behold, Thy face hath not the power to make love groan; To say they err, I dare not be so bold, Although I swear it to my self alone."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As thou lov’st her, Thy love’s to me religious; else, does err. [_Exeunt King, Bertram, Helena, Lords, and Attendants._] LAFEW."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First give me trust, the count he is my husband, And what to your sworn counsel I have spoken Is so from word to word; and then you cannot, By the good aid that I of you shall borrow, Err in bestowing it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a mistake or be incorrect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wander from a direct course or at random.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet in good faith some say that thee behold, Thy face hath not the power to make love groan; To say they err, I dare not be so bold, Although I swear it to my self alone."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As thou lov’st her, Thy love’s to me religious; else, does err. [_Exeunt King, Bertram, Helena, Lords, and Attendants._] LAFEW."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First give me trust, the count he is my husband, And what to your sworn counsel I have spoken Is so from word to word; and then you cannot, By the good aid that I of you shall borrow, Err in bestowing it."*

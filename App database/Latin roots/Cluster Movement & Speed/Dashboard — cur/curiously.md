@@ -5,15 +5,6 @@ status: unread
 ---
 # curiously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner differing from the usual or expected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With curiosity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would gladly have him see his company anatomized, that he might take a measure of his own judgments, wherein so curiously he had set this counterfeit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HORATIO. ’Twere to consider too curiously to consider so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ faith, I thank him; he hath bid me to a calf’s-head and a capon, the which if I do not carve most curiously, say my knife’s naught."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner differing from the usual or expected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With curiosity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would gladly have him see his company anatomized, that he might take a measure of his own judgments, wherein so curiously he had set this counterfeit."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HORATIO. ’Twere to consider too curiously to consider so."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ faith, I thank him; he hath bid me to a calf’s-head and a capon, the which if I do not carve most curiously, say my knife’s naught."*

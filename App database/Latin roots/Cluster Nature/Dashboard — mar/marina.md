@@ -5,15 +5,6 @@ status: unread
 ---
 # marina
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fancy dock for small yachts and cabin cruisers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fancy dock for small yachts and cabin cruisers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Before the monument of Marina at Tarsus Scene V."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MARINA, daughter to Pericles and Thaisa."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Pericles, Cleon, Dionyza and Lychorida with Marina in her arms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fancy dock for small yachts and cabin cruisers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fancy dock for small yachts and cabin cruisers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Before the monument of Marina at Tarsus Scene V."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MARINA, daughter to Pericles and Thaisa."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Pericles, Cleon, Dionyza and Lychorida with Marina in her arms."*

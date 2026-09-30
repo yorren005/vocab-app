@@ -5,15 +5,6 @@ status: unread
 ---
 # reprobation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rejection by god; the state of being condemned to eternal misery in hell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severe disapproval.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"On a dark, misty, raw morning in January, I had left a hostile roof with a desperate and embittered heart—a sense of outlawry and almost of reprobation—to seek the chilly harbourage of Lowood: that bourne so far away and unexplored."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And there will be Kenmure sae gen’rous, Whose honour is proof to the storm, To save them from stark reprobation, He lent them his name in the Firm."*
-> - 📜 **George Eliot (*Middlemarch*):** *"What news have you brought about the sheep-stealer, uncle?” “What, poor Bunch?—well, it seems we can’t get him off—he is to be hanged.” Dorothea’s brow took an expression of reprobation and pity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rejection by god; the state of being condemned to eternal misery in hell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severe disapproval.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"On a dark, misty, raw morning in January, I had left a hostile roof with a desperate and embittered heart—a sense of outlawry and almost of reprobation—to seek the chilly harbourage of Lowood: that bourne so far away and unexplored."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And there will be Kenmure sae gen’rous, Whose honour is proof to the storm, To save them from stark reprobation, He lent them his name in the Firm."*
+> - 📜 **George Eliot (*Middlemarch*):** *"What news have you brought about the sheep-stealer, uncle?” “What, poor Bunch?—well, it seems we can’t get him off—he is to be hanged.” Dorothea’s brow took an expression of reprobation and pity."*

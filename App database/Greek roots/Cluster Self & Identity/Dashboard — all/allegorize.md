@@ -5,13 +5,6 @@ status: unread
 ---
 # allegorize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpret as an allegory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make into an allegory.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The more reasonable among Jews and Christians," says Celsus, "try to allegorize them [the Scriptures], but they are beyond being {194} allegorized and are nothing but sheer mythology of the silliest type."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpret as an allegory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make into an allegory.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The more reasonable among Jews and Christians," says Celsus, "try to allegorize them [the Scriptures], but they are beyond being {194} allegorized and are nothing but sheer mythology of the silliest type."*

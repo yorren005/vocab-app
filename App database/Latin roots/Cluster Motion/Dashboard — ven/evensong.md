@@ -5,13 +5,6 @@ status: unread
 ---
 # evensong
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sixth of the seven canonical hours of the divine office; early evening; now often made a public service on sundays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anglican church) a daily evening service with prayers prescribed in the book of common prayer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Fuseblue peer from barrel rev. evensong Love on hackney jaunt Blazes blind coddoubled bicyclers Dilly with snowcake no fancy clothes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sixth of the seven canonical hours of the divine office; early evening; now often made a public service on sundays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anglican church) a daily evening service with prayers prescribed in the book of common prayer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Fuseblue peer from barrel rev. evensong Love on hackney jaunt Blazes blind coddoubled bicyclers Dilly with snowcake no fancy clothes."*

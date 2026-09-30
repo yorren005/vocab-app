@@ -5,13 +5,6 @@ status: unread
 ---
 # turbofan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An airplane propelled by a fanjet engine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A jet engine in which a fan driven by a turbine provides extra air to the burner and gives extra thrust.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, turbofan designates an airplane propelled by a fanjet engine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An airplane propelled by a fanjet engine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A jet engine in which a fan driven by a turbine provides extra air to the burner and gives extra thrust.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, turbofan designates an airplane propelled by a fanjet engine."*

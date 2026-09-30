@@ -5,13 +5,6 @@ status: unread
 ---
 # monopsony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (economics) a market in which goods or services are offered by several sellers but there is only one buyer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (economics) a market in which goods or services are offered by several sellers but there is only one buyer.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monopsony designates (economics) a market in which goods or services are offered by several sellers but there is only one buyer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (economics) a market in which goods or services are offered by several sellers but there is only one buyer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (economics) a market in which goods or services are offered by several sellers but there is only one buyer.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monopsony designates (economics) a market in which goods or services are offered by several sellers but there is only one buyer."*

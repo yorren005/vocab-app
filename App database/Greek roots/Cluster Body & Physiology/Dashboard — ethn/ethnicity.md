@@ -5,13 +5,6 @@ status: unread
 ---
 # ethnicity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ethnic quality or affiliation resulting from racial or cultural ties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ethnic quality or affiliation resulting from racial or cultural ties.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I would like to communicate with other classes all over the U.S., especially from areas where ethnicity, cultural values and religion are known to vary from the majority."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ethnic quality or affiliation resulting from racial or cultural ties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ethnic quality or affiliation resulting from racial or cultural ties.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I would like to communicate with other classes all over the U.S., especially from areas where ethnicity, cultural values and religion are known to vary from the majority."*

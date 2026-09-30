@@ -5,13 +5,6 @@ status: unread
 ---
 # paraphrasis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rewording for the purpose of clarification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rewording for the purpose of clarification.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraphrasis designates rewording for the purpose of clarification."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rewording for the purpose of clarification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rewording for the purpose of clarification.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraphrasis designates rewording for the purpose of clarification."*

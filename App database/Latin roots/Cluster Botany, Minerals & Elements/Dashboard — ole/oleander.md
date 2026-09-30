@@ -5,13 +5,6 @@ status: unread
 ---
 # oleander
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornamental but poisonous flowering shrub having narrow evergreen leaves and clusters of fragrant white to pink or red flowers: native to east indies but widely cultivated in warm regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornamental but poisonous flowering shrub having narrow evergreen leaves and clusters of fragrant white to pink or red flowers: native to east indies but widely cultivated in warm regions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"But presently, through the faint fragrance of oleanders, other sounds began to penetrate,--the strains of the waltz to which they had danced only the night before."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornamental but poisonous flowering shrub having narrow evergreen leaves and clusters of fragrant white to pink or red flowers: native to east indies but widely cultivated in warm regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ornamental but poisonous flowering shrub having narrow evergreen leaves and clusters of fragrant white to pink or red flowers: native to east indies but widely cultivated in warm regions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"But presently, through the faint fragrance of oleanders, other sounds began to penetrate,--the strains of the waltz to which they had danced only the night before."*

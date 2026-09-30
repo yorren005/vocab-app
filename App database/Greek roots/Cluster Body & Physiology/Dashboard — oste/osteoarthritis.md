@@ -5,13 +5,6 @@ status: unread
 ---
 # osteoarthritis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A common form of arthritis typically with onset during middle or old age that is characterized by progressive degenerative changes in the cartilage of one or more joints (as of the knees, hips, and hands) accompanied by thickening and overgrowth of adjacent bone and that is marked symptomatically chiefly by stiffness, swelling, pain, deformation of joints, and loss of range of motion —abbreviation OA.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common form of arthritis typically with onset during middle or old age that is characterized by progressive degenerative changes in the cartilage of one or more joints (as of the knees, hips, and hands) accompanied by thickening and overgrowth of adjacent bone and that is marked symptomatically chiefly by stiffness, swelling, pain, deformation of joints, and loss of range of motion —abbreviation OA.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteoarthritis designates a common form of arthritis typically with onset during middle or old age that is characterized by progressive degenerative changes in the cartilage of one or more joints (as of the knees, hips, and hands) accompanied by thickening and overgrowth of adjacent bone and that is marked symptomatically chiefly by stiffness, swelling, pain, deformation of joints, and loss of range of motion —abbreviation oa."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A common form of arthritis typically with onset during middle or old age that is characterized by progressive degenerative changes in the cartilage of one or more joints (as of the knees, hips, and hands) accompanied by thickening and overgrowth of adjacent bone and that is marked symptomatically chiefly by stiffness, swelling, pain, deformation of joints, and loss of range of motion —abbreviation OA.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common form of arthritis typically with onset during middle or old age that is characterized by progressive degenerative changes in the cartilage of one or more joints (as of the knees, hips, and hands) accompanied by thickening and overgrowth of adjacent bone and that is marked symptomatically chiefly by stiffness, swelling, pain, deformation of joints, and loss of range of motion —abbreviation OA.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osteoarthritis designates a common form of arthritis typically with onset during middle or old age that is characterized by progressive degenerative changes in the cartilage of one or more joints (as of the knees, hips, and hands) accompanied by thickening and overgrowth of adjacent bone and that is marked symptomatically chiefly by stiffness, swelling, pain, deformation of joints, and loss of range of motion —abbreviation oa."*

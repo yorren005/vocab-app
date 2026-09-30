@@ -5,15 +5,6 @@ status: unread
 ---
 # grotesqueness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ludicrous or incongruous unnaturalness or distortion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ludicrous or incongruous unnaturalness or distortion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The unexpectedness of his presence, the grotesqueness of his appearance in a gathered smockfrock, such as was now worn only by the most old-fashioned of the labourers, had a ghastly comicality that chilled her as to its bearing."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I knew afterward, when I awoke, that I, Darrell Standing, was the linking personality that connected all bizarreness and grotesqueness."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The waving of crooked, false-jewelled fingers gave grotesqueness to the words."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ludicrous or incongruous unnaturalness or distortion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ludicrous or incongruous unnaturalness or distortion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The unexpectedness of his presence, the grotesqueness of his appearance in a gathered smockfrock, such as was now worn only by the most old-fashioned of the labourers, had a ghastly comicality that chilled her as to its bearing."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I knew afterward, when I awoke, that I, Darrell Standing, was the linking personality that connected all bizarreness and grotesqueness."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The waving of crooked, false-jewelled fingers gave grotesqueness to the words."*

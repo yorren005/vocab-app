@@ -5,15 +5,6 @@ status: unread
 ---
 # literary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of literature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Knowledgeable about literature.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"The idea of Louisa Musgrove turned into a person of literary taste, and sentimental reflection was amusing, but she had no doubt of its being so."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"They were a notable family, full of all kinds of interesting lore, literary, scientific, and pastoral, and they exercised a boundless hospitality to all, whether gentle or simple, who came within their reach."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"For the first five years of his ministry Cairns devoted himself entirely to the work which it entailed upon him, and steadily refused to be drawn aside to the literary and philosophical tasks which many of his friends urged him to undertake."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of literature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Knowledgeable about literature.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"The idea of Louisa Musgrove turned into a person of literary taste, and sentimental reflection was amusing, but she had no doubt of its being so."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"They were a notable family, full of all kinds of interesting lore, literary, scientific, and pastoral, and they exercised a boundless hospitality to all, whether gentle or simple, who came within their reach."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"For the first five years of his ministry Cairns devoted himself entirely to the work which it entailed upon him, and steadily refused to be drawn aside to the literary and philosophical tasks which many of his friends urged him to undertake."*

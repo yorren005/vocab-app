@@ -5,13 +5,6 @@ status: unread
 ---
 # isarithm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A line drawn on a map connecting points having the same numerical value of some variable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line drawn on a map connecting points having the same numerical value of some variable.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isarithm designates a line drawn on a map connecting points having the same numerical value of some variable."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line drawn on a map connecting points having the same numerical value of some variable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line drawn on a map connecting points having the same numerical value of some variable.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isarithm designates a line drawn on a map connecting points having the same numerical value of some variable."*

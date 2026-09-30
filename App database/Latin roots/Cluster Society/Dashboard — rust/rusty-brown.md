@@ -5,13 +5,6 @@ status: unread
 ---
 # rusty-brown
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of something having the brown color of rust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of something having the brown color of rust.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rusty-brown designates of something having the brown color of rust."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of something having the brown color of rust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of something having the brown color of rust.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rusty-brown designates of something having the brown color of rust."*

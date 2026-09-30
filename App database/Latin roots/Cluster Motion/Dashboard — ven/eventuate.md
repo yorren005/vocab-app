@@ -5,13 +5,6 @@ status: unread
 ---
 # eventuate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come out in the end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come out in the end.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eventuate designates come out in the end."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Come out in the end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come out in the end.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eventuate designates come out in the end."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # fatima
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Youngest daughter of the prophet mohammed and wife of the fourth calif ali; revered especially by shiite muslims (606-632).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Youngest daughter of the prophet mohammed and wife of the fourth calif ali; revered especially by shiite muslims (606-632).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Of course she was thinking of nothing at all, barring possibly a new sherbet to be made, or whether, if they sold Fatima, the Abyssinian cook, who was becoming garrulous, would Fatima have a good home."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Youngest daughter of the prophet mohammed and wife of the fourth calif ali; revered especially by shiite muslims (606-632).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Youngest daughter of the prophet mohammed and wife of the fourth calif ali; revered especially by shiite muslims (606-632).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Of course she was thinking of nothing at all, barring possibly a new sherbet to be made, or whether, if they sold Fatima, the Abyssinian cook, who was becoming garrulous, would Fatima have a good home."*

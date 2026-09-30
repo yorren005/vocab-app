@@ -5,14 +5,6 @@ status: unread
 ---
 # virulently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a virulent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a virulent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Langeron, trying as virulently as possible to sting Weyrother’s vanity as author of the military plan, argued that Bonaparte might easily attack instead of being attacked, and so render the whole of this plan perfectly worthless."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Armfeldt virulently hated Napoleon and was a general full of self-confidence, a quality that always influenced Alexander."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a virulent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a virulent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Langeron, trying as virulently as possible to sting Weyrother’s vanity as author of the military plan, argued that Bonaparte might easily attack instead of being attacked, and so render the whole of this plan perfectly worthless."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Armfeldt virulently hated Napoleon and was a general full of self-confidence, a quality that always influenced Alexander."*

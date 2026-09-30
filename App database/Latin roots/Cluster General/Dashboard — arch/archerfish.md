@@ -5,13 +5,6 @@ status: unread
 ---
 # archerfish
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several small freshwater fishes that catch insects by squirting water at them and knocking them into the water; found in indonesia and australia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several small freshwater fishes that catch insects by squirting water at them and knocking them into the water; found in indonesia and australia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archerfish designates any of several small freshwater fishes that catch insects by squirting water at them and knocking them into the water; found in indonesia and australia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several small freshwater fishes that catch insects by squirting water at them and knocking them into the water; found in indonesia and australia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several small freshwater fishes that catch insects by squirting water at them and knocking them into the water; found in indonesia and australia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archerfish designates any of several small freshwater fishes that catch insects by squirting water at them and knocking them into the water; found in indonesia and australia."*

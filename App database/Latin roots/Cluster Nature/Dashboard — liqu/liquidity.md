@@ -5,13 +5,6 @@ status: unread
 ---
 # liquidity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state in which a substance exhibits a characteristic readiness to flow with little or no tendency to disperse and relatively high incompressibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of flowing easily.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Such basic silicates possess, however, the advantage of marked liquidity, and of flowing from the furnace in a thin limpid stream."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state in which a substance exhibits a characteristic readiness to flow with little or no tendency to disperse and relatively high incompressibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of flowing easily.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Such basic silicates possess, however, the advantage of marked liquidity, and of flowing from the furnace in a thin limpid stream."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # clough
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Arthur hugh 1819—1861 english poet
-> 2. **Nuance / Usage**: (dialectal) the cleft or fork of a tree; crotch
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the clough withstood the storm*), direct object (*cleaved the clough*), or prepositional anchor (*amidst the clough*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edward Hull; John Roche Dakyns; Richard Hill Tiddeman (*The Geology of the Burnley Coal-field and of the Country Around Clitheroe, Blackburn, Preston, Chorley, Haslingden, and Todmorden*):** *"These beds form no good escarpments southward of the clough; but they appear to be higher than the corresponding beds on the opposite side; there would thus seem to be a fault in the valley downthrowing on the west, but it is quite hidden by débris."*
-> - 📜 **Yorkshire Dialect Society (*Transactions - Volumes 1-4*):** *"The features of a clough fall well in with a Teutonic idea that Thor, their thunder-god, had smitten these places when in fits of fury and made the deep gashes in the hillsides."*
-> - 📜 **The Fall (*Jawbone and the Air-Rifle*):** *"The rabbit killer left his home for the clough"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Arthur hugh 1819—1861 english poet
+> 2. **Nuance / Usage**: (dialectal) the cleft or fork of a tree; crotch
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the clough withstood the storm*), direct object (*cleaved the clough*), or prepositional anchor (*amidst the clough*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Edward Hull; John Roche Dakyns; Richard Hill Tiddeman (*The Geology of the Burnley Coal-field and of the Country Around Clitheroe, Blackburn, Preston, Chorley, Haslingden, and Todmorden*):** *"These beds form no good escarpments southward of the clough; but they appear to be higher than the corresponding beds on the opposite side; there would thus seem to be a fault in the valley downthrowing on the west, but it is quite hidden by débris."*
+> - 📜 **Yorkshire Dialect Society (*Transactions - Volumes 1-4*):** *"The features of a clough fall well in with a Teutonic idea that Thor, their thunder-god, had smitten these places when in fits of fury and made the deep gashes in the hillsides."*
+> - 📜 **The Fall (*Jawbone and the Air-Rifle*):** *"The rabbit killer left his home for the clough"*

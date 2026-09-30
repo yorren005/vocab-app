@@ -5,15 +5,6 @@ status: unread
 ---
 # marbling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The intermixture of fat and lean in a cut of meat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paint or stain like marble.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"It is evident that streaked and mottled effects appealed specially to the taste of the time, and marbling both of the glaze and of the body was practised."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"This is the marbling of the ware, not merely by mottling the glaze as in Fig. 2 of Plate 9, or by marbling the surface, but by blending dark and light clays in the body as in the "solid agate" ware of Staffordshire."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Another Tz´ŭ Chou type is seen in a pillow in the Eumorfopoulos Collection which has passages of marbling in black and brown, and small black rosette ornaments inlaid in Corean fashion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The intermixture of fat and lean in a cut of meat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paint or stain like marble.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"It is evident that streaked and mottled effects appealed specially to the taste of the time, and marbling both of the glaze and of the body was practised."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"This is the marbling of the ware, not merely by mottling the glaze as in Fig. 2 of Plate 9, or by marbling the surface, but by blending dark and light clays in the body as in the "solid agate" ware of Staffordshire."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Another Tz´ŭ Chou type is seen in a pillow in the Eumorfopoulos Collection which has passages of marbling in black and brown, and small black rosette ornaments inlaid in Corean fashion."*

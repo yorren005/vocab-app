@@ -5,13 +5,6 @@ status: unread
 ---
 # coarsened
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make or become coarse or coarser.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less subtle or refined.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"He saw its effects in broken homes and aching hearts, in coarsened minds and reckless lives."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make or become coarse or coarser.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less subtle or refined.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"He saw its effects in broken homes and aching hearts, in coarsened minds and reckless lives."*

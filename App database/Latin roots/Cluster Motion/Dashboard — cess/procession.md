@@ -5,15 +5,6 @@ status: unread
 ---
 # procession
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (theology) the origination of the holy spirit at pentecost.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The group action of a collection of people or animals or vehicles moving ahead in more or less regular formation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter priests, &c, in procession; the corpse of Ophelia, Laertes and Mourners following; King, Queen, their Trains, &c."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, go we in procession to the village; And be it death proclaimed through our host To boast of this or take that praise from God Which is His only."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CHARLES. ’Tis Joan, not we, by whom the day is won; For which I will divide my crown with her, And all the priests and friars in my realm Shall in procession sing her endless praise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (theology) the origination of the holy spirit at pentecost.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The group action of a collection of people or animals or vehicles moving ahead in more or less regular formation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter priests, &c, in procession; the corpse of Ophelia, Laertes and Mourners following; King, Queen, their Trains, &c."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, go we in procession to the village; And be it death proclaimed through our host To boast of this or take that praise from God Which is His only."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CHARLES. ’Tis Joan, not we, by whom the day is won; For which I will divide my crown with her, And all the priests and friars in my realm Shall in procession sing her endless praise."*

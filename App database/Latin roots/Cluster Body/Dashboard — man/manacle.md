@@ -5,15 +5,6 @@ status: unread
 ---
 # manacle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shackle that consists of a metal loop that can be locked around the wrist; usually used in pairs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confine or restrain with or as if with manacles or handcuffs.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For my sake wear this; It is a manacle of love; I’ll place it Upon this fairest prisoner. [_Puts a bracelet on her arm._] IMOGEN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We’ll bait thy bears to death And manacle the bearherd in their chains, If thou dar’st bring them to the baiting-place."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"If the neck of the victim be broken by the alleged shrewd arrangement of knot and noose, and by the alleged shrewd calculation of the weight of the victim and the length of slack, then why do they manacle the arms of the victim?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shackle that consists of a metal loop that can be locked around the wrist; usually used in pairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confine or restrain with or as if with manacles or handcuffs.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For my sake wear this; It is a manacle of love; I’ll place it Upon this fairest prisoner. [_Puts a bracelet on her arm._] IMOGEN."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We’ll bait thy bears to death And manacle the bearherd in their chains, If thou dar’st bring them to the baiting-place."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"If the neck of the victim be broken by the alleged shrewd arrangement of knot and noose, and by the alleged shrewd calculation of the weight of the victim and the length of slack, then why do they manacle the arms of the victim?"*

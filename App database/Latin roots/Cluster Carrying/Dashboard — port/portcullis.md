@@ -5,15 +5,6 @@ status: unread
 ---
 # portcullis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gate consisting of an iron or wooden grating that hangs in the entry to a castle or fortified town; can be lowered to prevent passage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gate consisting of an iron or wooden grating that hangs in the entry to a castle or fortified town; can be lowered to prevent passage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Fray’s forehead was wrinkled both perpendicularly and crosswise, after the pattern of a portcullis, expressive of a double despair."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If you pry it up, so as to get it overhead, and expose its rows of teeth, it seems a terrific portcullis; and such, alas! it proves to many a poor wight in the fishery, upon whom these spikes fall with impaling force."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Fray’s forehead was wrinkled both perpendicularly and crosswise, after the pattern of a portcullis, expressive of a double despair."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gate consisting of an iron or wooden grating that hangs in the entry to a castle or fortified town; can be lowered to prevent passage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gate consisting of an iron or wooden grating that hangs in the entry to a castle or fortified town; can be lowered to prevent passage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Fray’s forehead was wrinkled both perpendicularly and crosswise, after the pattern of a portcullis, expressive of a double despair."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If you pry it up, so as to get it overhead, and expose its rows of teeth, it seems a terrific portcullis; and such, alas! it proves to many a poor wight in the fishery, upon whom these spikes fall with impaling force."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Fray’s forehead was wrinkled both perpendicularly and crosswise, after the pattern of a portcullis, expressive of a double despair."*

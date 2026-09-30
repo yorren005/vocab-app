@@ -5,15 +5,6 @@ status: unread
 ---
 # gymnastics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Physical exercises designed to develop strength and coordination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A competitive sport in which individuals perform optional and prescribed acrobatic feats mostly on special apparatus in order to demonstrate strength, balance, and body control.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He ultimately worked his passage to the United States, where he made a precarious living in various towns as Professor of Gymnastics, Sword Exercise, Fencing, and Pugilism."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He ultimately worked his passage to the United States, where he made a precarious living in various towns as Professor of Gymnastics, Sword Exercise, Fencing, and Pugilism."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"They seemed wide awake, and showed real disappointment that I could not stop to see a display of their skill in gymnastics."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Physical exercises designed to develop strength and coordination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A competitive sport in which individuals perform optional and prescribed acrobatic feats mostly on special apparatus in order to demonstrate strength, balance, and body control.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He ultimately worked his passage to the United States, where he made a precarious living in various towns as Professor of Gymnastics, Sword Exercise, Fencing, and Pugilism."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He ultimately worked his passage to the United States, where he made a precarious living in various towns as Professor of Gymnastics, Sword Exercise, Fencing, and Pugilism."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"They seemed wide awake, and showed real disappointment that I could not stop to see a display of their skill in gymnastics."*

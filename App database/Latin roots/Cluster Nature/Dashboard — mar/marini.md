@@ -5,13 +5,6 @@ status: unread
 ---
 # marini
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian poet (1569-1625).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian poet (1569-1625).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marini designates italian poet (1569-1625)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian poet (1569-1625).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian poet (1569-1625).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marini designates italian poet (1569-1625)."*

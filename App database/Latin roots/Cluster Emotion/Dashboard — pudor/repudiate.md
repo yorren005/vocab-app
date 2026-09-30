@@ -5,15 +5,6 @@ status: unread
 ---
 # repudiate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cast off.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refuse to acknowledge, ratify, or recognize as valid.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “dear me—something bronchial, I think—hem!—to remark that you was so good on that occasion as to repel and repudiate that declaration."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"This left me no course but to regret that I had been “betrayed into a warmth which,” and on the whole to repudiate, as untenable, the idea that I was to be found anywhere."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"Has she said to you since yesterday—except to repudiate her familiarity with anything so dreadful—a single other word about Miss Jessel?” “Not one, miss."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cast off.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refuse to acknowledge, ratify, or recognize as valid.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “dear me—something bronchial, I think—hem!—to remark that you was so good on that occasion as to repel and repudiate that declaration."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"This left me no course but to regret that I had been “betrayed into a warmth which,” and on the whole to repudiate, as untenable, the idea that I was to be found anywhere."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"Has she said to you since yesterday—except to repudiate her familiarity with anything so dreadful—a single other word about Miss Jessel?” “Not one, miss."*

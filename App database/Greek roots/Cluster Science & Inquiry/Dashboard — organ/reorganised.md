@@ -5,13 +5,6 @@ status: unread
 ---
 # reorganised
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Organize anew, as after a setback.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organize anew.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reorganised designates organize anew, as after a setback."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Organize anew, as after a setback.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organize anew.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reorganised designates organize anew, as after a setback."*

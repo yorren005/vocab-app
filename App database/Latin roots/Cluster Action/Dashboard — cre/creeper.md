@@ -5,15 +5,6 @@ status: unread
 ---
 # creeper
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant (as ivy or periwinkle) that grows by creeping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who crawls or creeps along the ground.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Ideal and real clashed slightly as the sun lit up their figures against the green hedges and creeper-laced house-fronts; for, though the whole troop wore white garments, no two whites were alike among them."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The aged and lichened brick gables breathed forth “Stay!” The windows smiled, the door coaxed and beckoned, the creeper blushed confederacy."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"From the jungles of Africa, and the creeper-tangled groves of the Islands of the South, arise, from the glowing hearts of a thousand flowers, heavy and intoxicating odours--the Upas-poison which dwells in barbaric sensuality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant (as ivy or periwinkle) that grows by creeping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who crawls or creeps along the ground.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Ideal and real clashed slightly as the sun lit up their figures against the green hedges and creeper-laced house-fronts; for, though the whole troop wore white garments, no two whites were alike among them."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The aged and lichened brick gables breathed forth “Stay!” The windows smiled, the door coaxed and beckoned, the creeper blushed confederacy."*
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"From the jungles of Africa, and the creeper-tangled groves of the Islands of the South, arise, from the glowing hearts of a thousand flowers, heavy and intoxicating odours--the Upas-poison which dwells in barbaric sensuality."*

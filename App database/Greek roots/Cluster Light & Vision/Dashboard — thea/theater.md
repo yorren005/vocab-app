@@ -5,15 +5,6 @@ status: unread
 ---
 # theater
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A building where theatrical performances or motion-picture shows can be presented.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of writing and producing plays.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Thus developed a spirit of panic, like the fright of theater-goers crowding toward the door at the cry of fire."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The parties walked along separate corridors from their docking berth to an arched entry into the conference theater at the hub."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"After they had provided a plan for the killing, and a means by which the killer could cover his trail and escape from the theater of the homicide, they would believe all the requirements of the problems met, and would stop."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A building where theatrical performances or motion-picture shows can be presented.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of writing and producing plays.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Thus developed a spirit of panic, like the fright of theater-goers crowding toward the door at the cry of fire."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The parties walked along separate corridors from their docking berth to an arched entry into the conference theater at the hub."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"After they had provided a plan for the killing, and a means by which the killer could cover his trail and escape from the theater of the homicide, they would believe all the requirements of the problems met, and would stop."*

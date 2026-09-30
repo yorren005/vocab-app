@@ -5,15 +5,6 @@ status: unread
 ---
 # partridge
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various typically medium-sized stout-bodied Old World gallinaceous birds (Perdix, Alectoris, and related genera) with variegated plumage that are often hunted as game.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various related birds (such as the American ruffed grouse or bobwhite) resembling the Old World partridges in size, habits, or value as game.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who finds the partridge in the puttock’s nest But may imagine how the bird was dead, Although the kite soar with unbloodied beak?"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The next morning, as I entered the garden gate, I saw a _partridge_ lie dead on the walk."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"As flies the partridge from the brake, On fear-inspired wings, So Nelly, starting, half-awake, Away affrighted springs; But Willie follow’d—as he should, He overtook her in the wood; He vow’d, he pray’d, He found the maid Forgiving all, and good."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various typically medium-sized stout-bodied Old World gallinaceous birds (Perdix, Alectoris, and related genera) with variegated plumage that are often hunted as game.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various related birds (such as the American ruffed grouse or bobwhite) resembling the Old World partridges in size, habits, or value as game.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who finds the partridge in the puttock’s nest But may imagine how the bird was dead, Although the kite soar with unbloodied beak?"*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"The next morning, as I entered the garden gate, I saw a _partridge_ lie dead on the walk."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"As flies the partridge from the brake, On fear-inspired wings, So Nelly, starting, half-awake, Away affrighted springs; But Willie follow’d—as he should, He overtook her in the wood; He vow’d, he pray’d, He found the maid Forgiving all, and good."*

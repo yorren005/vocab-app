@@ -5,15 +5,6 @@ status: unread
 ---
 # inherently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inherent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inherent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Would to God you had never taken me up, since it was only to throw me down!” Bathsheba, in spite of her mettle, began to feel unmistakable signs that she was inherently the weaker vessel."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Would to God you had never taken me up, since it was only to throw me down!” Bathsheba, in spite of her mettle, began to feel unmistakable signs that she was inherently the weaker vessel."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And there is nothing inherently impossible about this suggestion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inherent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inherent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Would to God you had never taken me up, since it was only to throw me down!” Bathsheba, in spite of her mettle, began to feel unmistakable signs that she was inherently the weaker vessel."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Would to God you had never taken me up, since it was only to throw me down!” Bathsheba, in spite of her mettle, began to feel unmistakable signs that she was inherently the weaker vessel."*
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And there is nothing inherently impossible about this suggestion."*

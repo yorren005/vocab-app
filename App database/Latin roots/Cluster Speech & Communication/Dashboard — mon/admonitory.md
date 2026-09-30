@@ -5,15 +5,6 @@ status: unread
 ---
 # admonitory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to warn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing reproof or reproach especially as a corrective.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Chadband stalks to the table, and before taking a chair, lifts up his admonitory hand."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet’s breast and with an admonitory poke recalls him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket with admonitory finger, “of throwing yourself out of window."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to warn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing reproof or reproach especially as a corrective.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Chadband stalks to the table, and before taking a chair, lifts up his admonitory hand."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet’s breast and with an admonitory poke recalls him."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket with admonitory finger, “of throwing yourself out of window."*

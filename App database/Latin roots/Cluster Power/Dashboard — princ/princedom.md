@@ -5,15 +5,6 @@ status: unread
 ---
 # princedom
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dignity or rank or position of a prince.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Territory ruled by a prince.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"Hear all ye Angels, Progenie of Light, Thrones, Dominations, Princedoms, Vertues, Powers, Hear my Decree, which unrevok’t shall stand."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Thus saying, from his radiant Seat he rose Of high collateral glorie: him Thrones and Powers, Princedoms, and Dominations ministrant Accompanied to Heaven Gate, from whence _Eden_ and all the Coast in prospect lay."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Hear, all ye Angels, progeny of light, Thrones, Dominations, Princedoms, Virtues, Powers; Hear my decree, which unrevoked shall stand."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dignity or rank or position of a prince.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Territory ruled by a prince.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"Hear all ye Angels, Progenie of Light, Thrones, Dominations, Princedoms, Vertues, Powers, Hear my Decree, which unrevok’t shall stand."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Thus saying, from his radiant Seat he rose Of high collateral glorie: him Thrones and Powers, Princedoms, and Dominations ministrant Accompanied to Heaven Gate, from whence _Eden_ and all the Coast in prospect lay."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Hear, all ye Angels, progeny of light, Thrones, Dominations, Princedoms, Virtues, Powers; Hear my decree, which unrevoked shall stand."*

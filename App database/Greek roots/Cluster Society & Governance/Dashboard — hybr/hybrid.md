@@ -5,14 +5,6 @@ status: unread
 ---
 # hybrid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word that is composed of parts from different languages (e.g., `monolingual' has a greek prefix and a latin root).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A composite of mixed origin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The effect was a mixture of breeds whose interactions had brought out a bewildering patchwork of hybrid cults, philosophies and arts."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"His travelling baggage is easily carried in his hand, and he repairs with it on foot, to a hybrid hotel in a little square behind Aldersgate Street, near the General Post Office."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word that is composed of parts from different languages (e.g., `monolingual' has a greek prefix and a latin root).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A composite of mixed origin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The effect was a mixture of breeds whose interactions had brought out a bewildering patchwork of hybrid cults, philosophies and arts."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"His travelling baggage is easily carried in his hand, and he repairs with it on foot, to a hybrid hotel in a little square behind Aldersgate Street, near the General Post Office."*

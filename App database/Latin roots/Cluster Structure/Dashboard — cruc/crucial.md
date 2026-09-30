@@ -5,15 +5,6 @@ status: unread
 ---
 # crucial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of extreme importance; vital to the resolution of a crisis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having crucial relevance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The crucial question is whether profit-sharing alone in any particular case will insure that the costs will be less than those of competitors, thus giving a source out of which an increased amount, really a wage, can be paid to the laborer."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"In his case, as in every other, the central and crucial question is, What is his experience of God?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"With Jesus this is the central and crucial reality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of extreme importance; vital to the resolution of a crisis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having crucial relevance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The crucial question is whether profit-sharing alone in any particular case will insure that the costs will be less than those of competitors, thus giving a source out of which an increased amount, really a wage, can be paid to the laborer."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"In his case, as in every other, the central and crucial question is, What is his experience of God?"*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"With Jesus this is the central and crucial reality."*

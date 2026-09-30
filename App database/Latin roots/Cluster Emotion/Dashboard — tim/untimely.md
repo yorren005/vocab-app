@@ -5,15 +5,6 @@ status: unread
 ---
 # untimely
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Badly timed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncommonly early or before the expected time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did I forget that by the house of York My father came untimely to his death?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How sweet a plant have you untimely cropped!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An untimely ague Stayed me a prisoner in my chamber when Those suns of glory, those two lights of men, Met in the vale of Andren."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Badly timed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncommonly early or before the expected time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did I forget that by the house of York My father came untimely to his death?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How sweet a plant have you untimely cropped!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An untimely ague Stayed me a prisoner in my chamber when Those suns of glory, those two lights of men, Met in the vale of Andren."*

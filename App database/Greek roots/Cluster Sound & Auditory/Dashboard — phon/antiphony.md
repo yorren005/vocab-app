@@ -5,13 +5,6 @@ status: unread
 ---
 # antiphony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Responsive alternation between two groups especially of singers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Responsive alternation between two groups especially of singers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiphony designates responsive alternation between two groups especially of singers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Responsive alternation between two groups especially of singers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Responsive alternation between two groups especially of singers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiphony designates responsive alternation between two groups especially of singers."*

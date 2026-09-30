@@ -5,15 +5,6 @@ status: unread
 ---
 # annealing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hardening something by heat treatment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to a desired consistency, texture, or hardness by a process of gradually heating and cooling.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"By annealing, diffusion is greatly assisted, and the material gradually becomes homogeneous, as is seen on microscopic examination."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Cold rolling and hammering causes a reduction in this respect, and the metal is hardened, but the properties are restored by annealing."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The annealing effect commences at about 300° C., but proceeds more effectively at higher temperatures, the factors of annealing temperature and duration necessary for annealing being inversely connected."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hardening something by heat treatment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring to a desired consistency, texture, or hardness by a process of gradually heating and cooling.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"By annealing, diffusion is greatly assisted, and the material gradually becomes homogeneous, as is seen on microscopic examination."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Cold rolling and hammering causes a reduction in this respect, and the metal is hardened, but the properties are restored by annealing."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The annealing effect commences at about 300° C., but proceeds more effectively at higher temperatures, the factors of annealing temperature and duration necessary for annealing being inversely connected."*

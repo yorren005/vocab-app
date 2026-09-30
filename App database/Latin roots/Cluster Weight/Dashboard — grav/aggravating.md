@@ -5,15 +5,6 @@ status: unread
 ---
 # aggravating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make worse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exasperate or irritate.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"You are the husband,” repeated Miss Havisham, “of the sister of this boy?” It was very aggravating; but, throughout the interview, Joe persisted in addressing Me instead of Miss Havisham."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Oh Lord!” This was so very aggravating—the more especially as I found myself making no way against his surly obtuseness—that I said, disregarding Herbert’s efforts to check me,— “Come, Mr."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Not so much cross as sort of soft, and sweet, and aggravating,” sniffled Rebecca."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make worse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exasperate or irritate.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"You are the husband,” repeated Miss Havisham, “of the sister of this boy?” It was very aggravating; but, throughout the interview, Joe persisted in addressing Me instead of Miss Havisham."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Oh Lord!” This was so very aggravating—the more especially as I found myself making no way against his surly obtuseness—that I said, disregarding Herbert’s efforts to check me,— “Come, Mr."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Not so much cross as sort of soft, and sweet, and aggravating,” sniffled Rebecca."*

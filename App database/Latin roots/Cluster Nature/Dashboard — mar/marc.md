@@ -5,15 +5,6 @@ status: unread
 ---
 # marc
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Made from residue of grapes or apples after pressing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Made from residue of grapes or apples after pressing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Marc._ iv, 17, _nihil impudentius si ille nos sibi filio faciet qui nobis filios facere non permisit aufercndo conubium_. [61] de Rossi, cited by Harnack, _Expansion_, i, 208 n. [62] Romans 1, 14. [63] See p. 241; and cf."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Marc._ iii, 20. [48] _Trypho_, 29. [49] _c."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Marc._ ii, 27, _Ille est qui descendit, ille qui interrogat, ille qui postulat, ille qui jurat; adv."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made from residue of grapes or apples after pressing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Made from residue of grapes or apples after pressing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Marc._ iv, 17, _nihil impudentius si ille nos sibi filio faciet qui nobis filios facere non permisit aufercndo conubium_. [61] de Rossi, cited by Harnack, _Expansion_, i, 208 n. [62] Romans 1, 14. [63] See p. 241; and cf."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Marc._ iii, 20. [48] _Trypho_, 29. [49] _c."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Marc._ ii, 27, _Ille est qui descendit, ille qui interrogat, ille qui postulat, ille qui jurat; adv."*

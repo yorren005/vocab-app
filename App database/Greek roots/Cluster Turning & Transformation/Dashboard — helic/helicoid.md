@@ -5,13 +5,6 @@ status: unread
 ---
 # helicoid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming or arranged in a spiral.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the form of a flat coil or flattened spiral.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helicoid designates forming or arranged in a spiral."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming or arranged in a spiral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the form of a flat coil or flattened spiral.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helicoid designates forming or arranged in a spiral."*

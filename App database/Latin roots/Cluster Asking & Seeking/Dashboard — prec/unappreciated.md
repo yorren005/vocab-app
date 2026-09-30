@@ -5,15 +5,6 @@ status: unread
 ---
 # unappreciated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not likely to be rewarded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having value that is not acknowledged.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The charms of their subtlety passed by her unappreciated, and she only received them as inimical sounds which meant that anger ruled."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Which of us has his desire, or having it is satisfied?" It is true that he shared the fate of nearly all the great poets contemporary with him, in being unappreciated."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The great unappreciated poet last cited {George Meredith} has defined passion as ‘noble strength on fire’; and this is the true passion of great natures and great poets; while sentimentalism is ignoble weakness dallying with fire; . . ."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not likely to be rewarded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having value that is not acknowledged.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The charms of their subtlety passed by her unappreciated, and she only received them as inimical sounds which meant that anger ruled."*
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Which of us has his desire, or having it is satisfied?" It is true that he shared the fate of nearly all the great poets contemporary with him, in being unappreciated."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The great unappreciated poet last cited {George Meredith} has defined passion as ‘noble strength on fire’; and this is the true passion of great natures and great poets; while sentimentalism is ignoble weakness dallying with fire; . . ."*

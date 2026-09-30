@@ -5,13 +5,6 @@ status: unread
 ---
 # anaplasmosis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease of cattle that is transmitted by cattle ticks; similar to texas fever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease of cattle that is transmitted by cattle ticks; similar to texas fever.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaplasmosis designates a disease of cattle that is transmitted by cattle ticks; similar to texas fever."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease of cattle that is transmitted by cattle ticks; similar to texas fever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease of cattle that is transmitted by cattle ticks; similar to texas fever.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaplasmosis designates a disease of cattle that is transmitted by cattle ticks; similar to texas fever."*

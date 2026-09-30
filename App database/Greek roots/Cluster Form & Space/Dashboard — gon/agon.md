@@ -5,14 +5,6 @@ status: unread
 ---
 # agon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A festivity in ancient greece at which competitors contended for prizes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A festivity in ancient greece at which competitors contended for prizes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"As soon as the horses have passed by their bridles are taken off, and they are made to go between two fires that they kindle, called by the Russians _Givoy Agon_, that is to say, living fires, of which I shall give an account."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"This is the manner of their lighting these _givoy agon_, or living fires."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A festivity in ancient greece at which competitors contended for prizes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A festivity in ancient greece at which competitors contended for prizes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"As soon as the horses have passed by their bridles are taken off, and they are made to go between two fires that they kindle, called by the Russians _Givoy Agon_, that is to say, living fires, of which I shall give an account."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"This is the manner of their lighting these _givoy agon_, or living fires."*

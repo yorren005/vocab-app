@@ -5,15 +5,6 @@ status: unread
 ---
 # purgative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A purging medicine; stimulates evacuation of the bowels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strongly laxative.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Certainly the fires are often interpreted in the latter way by the persons who light them; and this purgative use of the element comes out very prominently, as we have seen, in the general expulsion of demons from towns and villages."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Of all the modes of purification adopted on these occasions none perhaps brings out the sacramental virtue of the rite so clearly as the Creek and Seminole practice of taking a purgative before swallowing the new corn."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A similar pious fear led the Creek and Seminole Indians, as we saw, to adopt the more thoroughgoing expedient of rinsing out their bodies by a strong purgative before they dared to partake of the sacrament of first-fruits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A purging medicine; stimulates evacuation of the bowels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strongly laxative.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Certainly the fires are often interpreted in the latter way by the persons who light them; and this purgative use of the element comes out very prominently, as we have seen, in the general expulsion of demons from towns and villages."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Of all the modes of purification adopted on these occasions none perhaps brings out the sacramental virtue of the rite so clearly as the Creek and Seminole practice of taking a purgative before swallowing the new corn."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A similar pious fear led the Creek and Seminole Indians, as we saw, to adopt the more thoroughgoing expedient of rinsing out their bodies by a strong purgative before they dared to partake of the sacrament of first-fruits."*

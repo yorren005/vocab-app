@@ -5,15 +5,6 @@ status: unread
 ---
 # effectiveness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Power to be effective; the quality of being able to bring about an effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capacity to produce strong physiological or chemical effects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Of these lectures, and of others which he wrote in later years, it must be said that, while all of them were the fruit of conscientious and strenuous toil, they were of unequal merit, or at least of unequal effectiveness."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The effectiveness of a strike lies in the loss it threatens or occasions in the stopping of machinery, the ruin of materials, the loss of custom, and the failure to complete contracts that have been undertaken."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Fred, who had also seated himself near, would have felt unmixed triumph in Mary’s effectiveness if Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Power to be effective; the quality of being able to bring about an effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capacity to produce strong physiological or chemical effects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Of these lectures, and of others which he wrote in later years, it must be said that, while all of them were the fruit of conscientious and strenuous toil, they were of unequal merit, or at least of unequal effectiveness."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The effectiveness of a strike lies in the loss it threatens or occasions in the stopping of machinery, the ruin of materials, the loss of custom, and the failure to complete contracts that have been undertaken."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred, who had also seated himself near, would have felt unmixed triumph in Mary’s effectiveness if Mr."*

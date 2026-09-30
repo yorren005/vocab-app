@@ -5,15 +5,6 @@ status: unread
 ---
 # immortalize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be or provide a memorial to a person or an event.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make famous forever.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Woman, do what thou canst to save our honours; Drive them from Orleans and be immortalized."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The legend of Barbara Freitchie's defiance of Stonewall Jackson and his hosts, has been immortalized in Whittier's charming verse, and the equally brave defiance of the Rebels by Mrs."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Looking back to the palmy days of feudalism, especially as immortalized in Shakespeare's plays, what is it we find most admirable? what is it that fascinates?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be or provide a memorial to a person or an event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make famous forever.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Woman, do what thou canst to save our honours; Drive them from Orleans and be immortalized."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The legend of Barbara Freitchie's defiance of Stonewall Jackson and his hosts, has been immortalized in Whittier's charming verse, and the equally brave defiance of the Rebels by Mrs."*
+> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Looking back to the palmy days of feudalism, especially as immortalized in Shakespeare's plays, what is it we find most admirable? what is it that fascinates?"*

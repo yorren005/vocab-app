@@ -5,13 +5,6 @@ status: unread
 ---
 # encephalartos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous cycads of the genus encephalartos having stout cylindrical trunks and a terminal crown of long often spiny pinnate leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous cycads of the genus encephalartos having stout cylindrical trunks and a terminal crown of long often spiny pinnate leaves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephalartos designates any of numerous cycads of the genus encephalartos having stout cylindrical trunks and a terminal crown of long often spiny pinnate leaves."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous cycads of the genus encephalartos having stout cylindrical trunks and a terminal crown of long often spiny pinnate leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous cycads of the genus encephalartos having stout cylindrical trunks and a terminal crown of long often spiny pinnate leaves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encephalartos designates any of numerous cycads of the genus encephalartos having stout cylindrical trunks and a terminal crown of long often spiny pinnate leaves."*

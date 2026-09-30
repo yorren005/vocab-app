@@ -5,20 +5,6 @@ status: unread
 ---
 # pant
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Run panting
-> 2. **Nuance / Usage**: (figurative) eager longing
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to pant the target*) and intransitive clauses (*panting against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John C. Leggett; Suzanne Malm (*The Eighteen Stages of Love*):** *"Indeed, the projections, cravings, and everyday frolics common to trysts among buzz-activist Hollywood stars and starlets, plus their many common folk imitators, go forward with eager pant."*
-> - 📜 **Percy Bysshe Shelley (*s:Prometheus Unbound*):** *"There is a cavern where my spirit / Was panted forth in anguish."*
-> - 📜 **Annabelle du Fouet (*Weather Balloons Make Rotten Sex Toys*):** *"Anyway, one of the men who panted after Cleopatra was a Roman general named Marc Anthony, who became so enraptured with the idea of being Cleopatra’s sex slave that he set fire to Rome just to impress her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Run panting
+> 2. **Nuance / Usage**: (figurative) eager longing
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to pant the target*) and intransitive clauses (*panting against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John C. Leggett; Suzanne Malm (*The Eighteen Stages of Love*):** *"Indeed, the projections, cravings, and everyday frolics common to trysts among buzz-activist Hollywood stars and starlets, plus their many common folk imitators, go forward with eager pant."*
+> - 📜 **Percy Bysshe Shelley (*s:Prometheus Unbound*):** *"There is a cavern where my spirit / Was panted forth in anguish."*
+> - 📜 **Annabelle du Fouet (*Weather Balloons Make Rotten Sex Toys*):** *"Anyway, one of the men who panted after Cleopatra was a Roman general named Marc Anthony, who became so enraptured with the idea of being Cleopatra’s sex slave that he set fire to Rome just to impress her."*

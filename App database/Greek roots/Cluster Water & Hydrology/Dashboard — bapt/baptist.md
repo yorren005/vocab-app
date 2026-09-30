@@ -5,15 +5,6 @@ status: unread
 ---
 # baptist
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Follower of baptistic doctrines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Follower of baptistic doctrines.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"As a series of religious meetings was held in a Baptist church in ----, and the hearts of God's people were greatly encouraged, the church was consumed by fire."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"John the Baptist, but we cannot doubt that the celebration dates from a time long before the beginning of our era."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"John's Eve) "by kindling great fires in the public streets, and giving their children dolls to carry in their arms on this day, in order to make good the prophecy respecting the Baptist, _Multi in nativitate ejus gaudebunt_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Follower of baptistic doctrines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Follower of baptistic doctrines.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"As a series of religious meetings was held in a Baptist church in ----, and the hearts of God's people were greatly encouraged, the church was consumed by fire."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"John the Baptist, but we cannot doubt that the celebration dates from a time long before the beginning of our era."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"John's Eve) "by kindling great fires in the public streets, and giving their children dolls to carry in their arms on this day, in order to make good the prophecy respecting the Baptist, _Multi in nativitate ejus gaudebunt_."*

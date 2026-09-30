@@ -5,15 +5,6 @@ status: unread
 ---
 # malted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A milkshake made with malt powder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat with malt or malt extract.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I went therefrom to Norcombe, and malted there two-and-twenty years, and-two-and-twenty years I was there turnip-hoeing and harvesting."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Then I malted at Durnover four year, and four year turnip-hoeing; and I was fourteen times eleven months at Millpond St."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I went therefrom to Norcombe, and malted there two-and-twenty years, and two-and-twenty years I was there turnip-hoeing and harvesting."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A milkshake made with malt powder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat with malt or malt extract.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I went therefrom to Norcombe, and malted there two-and-twenty years, and-two-and-twenty years I was there turnip-hoeing and harvesting."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Then I malted at Durnover four year, and four year turnip-hoeing; and I was fourteen times eleven months at Millpond St."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I went therefrom to Norcombe, and malted there two-and-twenty years, and two-and-twenty years I was there turnip-hoeing and harvesting."*

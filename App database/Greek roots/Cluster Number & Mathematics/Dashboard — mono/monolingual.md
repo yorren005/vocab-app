@@ -5,13 +5,6 @@ status: unread
 ---
 # monolingual
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who knows only one language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using or knowing only one language.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monolingual designates a person who knows only one language."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who knows only one language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using or knowing only one language.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monolingual designates a person who knows only one language."*

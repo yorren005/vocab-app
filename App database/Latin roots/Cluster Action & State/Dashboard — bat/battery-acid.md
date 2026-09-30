@@ -5,13 +5,6 @@ status: unread
 ---
 # battery-acid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Street name for lysergic acid diethylamide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Street name for lysergic acid diethylamide.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, battery-acid designates street name for lysergic acid diethylamide."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Street name for lysergic acid diethylamide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Street name for lysergic acid diethylamide.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, battery-acid designates street name for lysergic acid diethylamide."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # implacable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being placated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being placated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Souls and bodies hath he divorced three, and his incensement at this moment is so implacable that satisfaction can be none but by pangs of death and sepulchre."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn observes, following her out upon the staircase, “as the most implacable and unmanageable of women."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But it is whispered that when he is most ferocious towards his old foe, he is really most considerate, and that Sir Leicester, in the dignity of being implacable, little supposes how much he is humoured."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being placated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being placated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Souls and bodies hath he divorced three, and his incensement at this moment is so implacable that satisfaction can be none but by pangs of death and sepulchre."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn observes, following her out upon the staircase, “as the most implacable and unmanageable of women."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"But it is whispered that when he is most ferocious towards his old foe, he is really most considerate, and that Sir Leicester, in the dignity of being implacable, little supposes how much he is humoured."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # flame-out
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The failure of a jet engine caused by an interruption of the fuel supply or by faulty combustion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complete or conspicuous failure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flame-out designates the failure of a jet engine caused by an interruption of the fuel supply or by faulty combustion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The failure of a jet engine caused by an interruption of the fuel supply or by faulty combustion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complete or conspicuous failure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flame-out designates the failure of a jet engine caused by an interruption of the fuel supply or by faulty combustion."*

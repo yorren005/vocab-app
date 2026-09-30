@@ -5,13 +5,6 @@ status: unread
 ---
 # pentathlon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An athletic contest involving participation by each contestant in five different events; especially : modern pentathlon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A composite contest in which all contestants compete in a 300-meter freestyle swim, a 4000-meter cross-country run, a 5000-meter 30-jump equestrian steeplechase, épée fencing, and target shooting at 25 meters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentathlon designates an athletic contest involving participation by each contestant in five different events; especially : modern pentathlon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An athletic contest involving participation by each contestant in five different events; especially : modern pentathlon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A composite contest in which all contestants compete in a 300-meter freestyle swim, a 4000-meter cross-country run, a 5000-meter 30-jump equestrian steeplechase, épée fencing, and target shooting at 25 meters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentathlon designates an athletic contest involving participation by each contestant in five different events; especially : modern pentathlon."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # hex
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To practice witchcraft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To put an evil spell on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Don Peterson (*The White Feather Hex*):** *"Have you ever heard of the hex of the white feather?" Peter thought a moment before he replied."*
-> - 📜 **Don Peterson (*The White Feather Hex*):** *"Only to learn of the white feather hex?" * * * * * Mirestone climbed to his feet and paced the room."*
-> - 📜 **Don Peterson (*The White Feather Hex*):** *"I have, like you, heard of the hex of the white feather."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To practice witchcraft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To put an evil spell on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Don Peterson (*The White Feather Hex*):** *"Have you ever heard of the hex of the white feather?" Peter thought a moment before he replied."*
+> - 📜 **Don Peterson (*The White Feather Hex*):** *"Only to learn of the white feather hex?" * * * * * Mirestone climbed to his feet and paced the room."*
+> - 📜 **Don Peterson (*The White Feather Hex*):** *"I have, like you, heard of the hex of the white feather."*

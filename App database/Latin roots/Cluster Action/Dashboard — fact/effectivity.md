@@ -5,13 +5,6 @@ status: unread
 ---
 # effectivity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Power to be effective; the quality of being able to bring about an effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Power to be effective; the quality of being able to bring about an effect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, effectivity designates power to be effective; the quality of being able to bring about an effect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Power to be effective; the quality of being able to bring about an effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Power to be effective; the quality of being able to bring about an effect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, effectivity designates power to be effective; the quality of being able to bring about an effect."*

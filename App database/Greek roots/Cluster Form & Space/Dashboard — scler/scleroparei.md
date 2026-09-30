@@ -5,13 +5,6 @@ status: unread
 ---
 # scleroparei
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scorpionfishes; sculpins; gurnards; greenlings; flying gurnards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scorpionfishes; sculpins; gurnards; greenlings; flying gurnards.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scleroparei designates scorpionfishes; sculpins; gurnards; greenlings; flying gurnards."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Scorpionfishes; sculpins; gurnards; greenlings; flying gurnards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scorpionfishes; sculpins; gurnards; greenlings; flying gurnards.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scleroparei designates scorpionfishes; sculpins; gurnards; greenlings; flying gurnards."*

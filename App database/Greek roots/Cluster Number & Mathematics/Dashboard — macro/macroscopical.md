@@ -5,13 +5,6 @@ status: unread
 ---
 # macroscopical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Visible to the naked eye; using the naked eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large enough to be visible with the naked eye.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroscopical designates visible to the naked eye; using the naked eye."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Visible to the naked eye; using the naked eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large enough to be visible with the naked eye.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroscopical designates visible to the naked eye; using the naked eye."*

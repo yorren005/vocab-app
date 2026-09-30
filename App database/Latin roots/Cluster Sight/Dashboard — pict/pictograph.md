@@ -5,14 +5,6 @@ status: unread
 ---
 # pictograph
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic character used in picture writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graphic character used in picture writing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"But these traces, and such hieroglyphics, or, to be more exact pictographs, as I have been able to decipher from the old documents, tell of one country, or perhaps it was only a city, over which this great golden idol of Quitzel presided."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"But, as a matter of fact, it is very hard to decipher the Mayan pictographs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic character used in picture writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graphic character used in picture writing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"But these traces, and such hieroglyphics, or, to be more exact pictographs, as I have been able to decipher from the old documents, tell of one country, or perhaps it was only a city, over which this great golden idol of Quitzel presided."*
+> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"But, as a matter of fact, it is very hard to decipher the Mayan pictographs."*

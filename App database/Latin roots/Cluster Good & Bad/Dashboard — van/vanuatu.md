@@ -5,13 +5,6 @@ status: unread
 ---
 # vanuatu
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A volcanic island republic in melanesia; independent since 1980.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A volcanic island republic in melanesia; independent since 1980.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vanuatu designates a volcanic island republic in melanesia; independent since 1980."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A volcanic island republic in melanesia; independent since 1980.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A volcanic island republic in melanesia; independent since 1980.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vanuatu designates a volcanic island republic in melanesia; independent since 1980."*

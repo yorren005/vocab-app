@@ -5,13 +5,6 @@ status: unread
 ---
 # tetraskele
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure consisting of four stylized human arms or legs (or bent lines) radiating from a center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A figure consisting of four stylized human arms or legs (or bent lines) radiating from a center.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetraskele designates a figure consisting of four stylized human arms or legs (or bent lines) radiating from a center."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure consisting of four stylized human arms or legs (or bent lines) radiating from a center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A figure consisting of four stylized human arms or legs (or bent lines) radiating from a center.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetraskele designates a figure consisting of four stylized human arms or legs (or bent lines) radiating from a center."*

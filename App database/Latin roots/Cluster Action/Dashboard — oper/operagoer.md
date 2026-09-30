@@ -5,13 +5,6 @@ status: unread
 ---
 # operagoer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A patron of the opera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A patron of the opera.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, operagoer designates a patron of the opera."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A patron of the opera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A patron of the opera.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, operagoer designates a patron of the opera."*

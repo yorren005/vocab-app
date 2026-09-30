@@ -5,15 +5,6 @@ status: unread
 ---
 # modesty
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from vanity or conceit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formality and propriety of manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, the care I have had to even your content, I wish might be found in the calendar of my past endeavours; for then we wound our modesty, and make foul the clearness of our deservings, when of ourselves we publish them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hope I need not to advise you further; but I hope your own grace will keep you where you are, though there were no further danger known but the modesty which is so lost."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If beauty, wisdom, modesty can settle The heart of Antony, Octavia is A blessed lottery to him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from vanity or conceit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formality and propriety of manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, the care I have had to even your content, I wish might be found in the calendar of my past endeavours; for then we wound our modesty, and make foul the clearness of our deservings, when of ourselves we publish them."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hope I need not to advise you further; but I hope your own grace will keep you where you are, though there were no further danger known but the modesty which is so lost."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If beauty, wisdom, modesty can settle The heart of Antony, Octavia is A blessed lottery to him."*

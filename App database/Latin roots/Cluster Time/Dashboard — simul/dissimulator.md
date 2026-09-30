@@ -5,13 +5,6 @@ status: unread
 ---
 # dissimulator
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who professes beliefs and opinions that he or she does not hold in order to conceal his or her real feelings or motives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who professes beliefs and opinions that he or she does not hold in order to conceal his or her real feelings or motives.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"He turned away from her, hurt by her manner, and so ill able to conceal his feelings that Miss Carew, who was watching him, set him down privately as the most inept dissimulator she had ever met."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who professes beliefs and opinions that he or she does not hold in order to conceal his or her real feelings or motives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who professes beliefs and opinions that he or she does not hold in order to conceal his or her real feelings or motives.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"He turned away from her, hurt by her manner, and so ill able to conceal his feelings that Miss Carew, who was watching him, set him down privately as the most inept dissimulator she had ever met."*

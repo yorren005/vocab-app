@@ -5,15 +5,6 @@ status: unread
 ---
 # tube
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conduit consisting of a long hollow object (usually cylindrical) used to hold and conduct objects or liquids or gases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electronic device consisting of a system of electrodes arranged in an evacuated glass or metal envelope.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was a small tube or trochar, with a lance passing down the inside; and Gabriel began to use it with a dexterity that would have graced a hospital surgeon."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Passing his hand over the sheep’s left flank, and selecting the proper point, he punctured the skin and rumen with the lance as it stood in the tube; then he suddenly withdrew the lance, retaining the tube in its place."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A current of air rushed up the tube, forcible enough to have extinguished a candle held at the orifice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conduit consisting of a long hollow object (usually cylindrical) used to hold and conduct objects or liquids or gases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electronic device consisting of a system of electrodes arranged in an evacuated glass or metal envelope.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was a small tube or trochar, with a lance passing down the inside; and Gabriel began to use it with a dexterity that would have graced a hospital surgeon."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Passing his hand over the sheep’s left flank, and selecting the proper point, he punctured the skin and rumen with the lance as it stood in the tube; then he suddenly withdrew the lance, retaining the tube in its place."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A current of air rushed up the tube, forcible enough to have extinguished a candle held at the orifice."*

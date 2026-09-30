@@ -5,13 +5,6 @@ status: unread
 ---
 # ranier
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountain peak in central washington; highest peak in the cascade range; (14,410 feet high).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountain peak in central washington; highest peak in the cascade range; (14,410 feet high).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ranier designates a mountain peak in central washington; highest peak in the cascade range; (14,410 feet high)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountain peak in central washington; highest peak in the cascade range; (14,410 feet high).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountain peak in central washington; highest peak in the cascade range; (14,410 feet high).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ranier designates a mountain peak in central washington; highest peak in the cascade range; (14,410 feet high)."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # transgress
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act in disregard of laws, rules, contracts, or promises.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread over land, especially along a subsiding shoreline.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"But list’n not to his Temptations, warne Thy weaker; let it profit thee to have heard By terrible Example the reward Of disobedience; firm they might have stood, Yet fell; remember, and fear to transgress."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Perfet within, no outward aid require; And all temptation to transgress repel."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Hadst thou bin firm and fixt in thy dissent, Neither had I transgress’d, nor thou with mee."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Act in disregard of laws, rules, contracts, or promises.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread over land, especially along a subsiding shoreline.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Milton (*Paradise Lost*):** *"But list’n not to his Temptations, warne Thy weaker; let it profit thee to have heard By terrible Example the reward Of disobedience; firm they might have stood, Yet fell; remember, and fear to transgress."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Perfet within, no outward aid require; And all temptation to transgress repel."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Hadst thou bin firm and fixt in thy dissent, Neither had I transgress’d, nor thou with mee."*

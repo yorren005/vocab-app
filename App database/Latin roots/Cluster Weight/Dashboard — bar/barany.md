@@ -5,13 +5,6 @@ status: unread
 ---
 # barany
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Austrian physician who developed a rotational method for testing the middle ear (1876-1936).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Austrian physician who developed a rotational method for testing the middle ear (1876-1936).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barany designates austrian physician who developed a rotational method for testing the middle ear (1876-1936)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Austrian physician who developed a rotational method for testing the middle ear (1876-1936).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Austrian physician who developed a rotational method for testing the middle ear (1876-1936).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, barany designates austrian physician who developed a rotational method for testing the middle ear (1876-1936)."*

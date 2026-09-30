@@ -5,15 +5,6 @@ status: unread
 ---
 # supposition
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message expressing an opinion based on incomplete evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hypothesis that is taken for granted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only to seem to deserve well, and to beguile the supposition of that lascivious young boy the count, have I run into this danger: yet who would have suspected an ambush where I was taken?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sing, siren, for thyself, and I will dote; Spread o’er the silver waves thy golden hairs, And as a bed I’ll take thee, and there lie, And, in that glorious supposition think He gains by death that hath such means to die."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet his means are in supposition: he hath an argosy bound to Tripolis, another to the Indies."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A message expressing an opinion based on incomplete evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hypothesis that is taken for granted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only to seem to deserve well, and to beguile the supposition of that lascivious young boy the count, have I run into this danger: yet who would have suspected an ambush where I was taken?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sing, siren, for thyself, and I will dote; Spread o’er the silver waves thy golden hairs, And as a bed I’ll take thee, and there lie, And, in that glorious supposition think He gains by death that hath such means to die."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet his means are in supposition: he hath an argosy bound to Tripolis, another to the Indies."*

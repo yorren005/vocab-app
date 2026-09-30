@@ -5,13 +5,6 @@ status: unread
 ---
 # dissimulative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concealing under a false appearance with the intent to deceive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concealing under a false appearance with the intent to deceive.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dissimulative designates concealing under a false appearance with the intent to deceive."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concealing under a false appearance with the intent to deceive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concealing under a false appearance with the intent to deceive.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dissimulative designates concealing under a false appearance with the intent to deceive."*

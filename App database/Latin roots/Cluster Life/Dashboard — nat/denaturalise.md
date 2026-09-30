@@ -5,13 +5,6 @@ status: unread
 ---
 # denaturalise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less natural or unnatural.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strip of the rights and duties of citizenship.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, denaturalise designates make less natural or unnatural."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less natural or unnatural.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strip of the rights and duties of citizenship.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, denaturalise designates make less natural or unnatural."*

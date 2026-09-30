@@ -5,13 +5,6 @@ status: unread
 ---
 # hospitalisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Placing in medical care in a hospital.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Placing in medical care in a hospital.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hospitalisation designates placing in medical care in a hospital."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Placing in medical care in a hospital.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Placing in medical care in a hospital.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hospitalisation designates placing in medical care in a hospital."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # sallet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light medieval helmet with a slit for vision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light medieval helmet with a slit for vision.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wherefore, o’er a brick wall have I climbed into this garden, to see if I can eat grass, or pick a sallet another while, which is not amiss to cool a man’s stomach this hot weather."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light medieval helmet with a slit for vision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light medieval helmet with a slit for vision.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wherefore, o’er a brick wall have I climbed into this garden, to see if I can eat grass, or pick a sallet another while, which is not amiss to cool a man’s stomach this hot weather."*

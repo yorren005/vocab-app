@@ -5,13 +5,6 @@ status: unread
 ---
 # orchidaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enormous cosmopolitan family of perennial terrestrial or epiphytic plants with fleshy tubers or rootstocks and unusual flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enormous cosmopolitan family of perennial terrestrial or epiphytic plants with fleshy tubers or rootstocks and unusual flowers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orchidaceae designates enormous cosmopolitan family of perennial terrestrial or epiphytic plants with fleshy tubers or rootstocks and unusual flowers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enormous cosmopolitan family of perennial terrestrial or epiphytic plants with fleshy tubers or rootstocks and unusual flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enormous cosmopolitan family of perennial terrestrial or epiphytic plants with fleshy tubers or rootstocks and unusual flowers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orchidaceae designates enormous cosmopolitan family of perennial terrestrial or epiphytic plants with fleshy tubers or rootstocks and unusual flowers."*

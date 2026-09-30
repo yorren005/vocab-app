@@ -5,15 +5,6 @@ status: unread
 ---
 # indomitable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to subdue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to subdue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"How,” says the trooper, folding his arms and looking with indomitable firmness at his brother, “how is my mother to be got to scratch me?” “I am not sure that I understand you, George,” replies the ironmaster."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I won’t tell ’em anything about your keeping silence; go on with the piece and say nothing, doing what you can by a judicious wink now and then, and a few indomitable nods in the heroic places, you know."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"For knowledge, spirituality, good sense, and indomitable spirit of the finest discretion on moral subjects, the old man is a real marvel every way."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to subdue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to subdue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"How,” says the trooper, folding his arms and looking with indomitable firmness at his brother, “how is my mother to be got to scratch me?” “I am not sure that I understand you, George,” replies the ironmaster."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I won’t tell ’em anything about your keeping silence; go on with the piece and say nothing, doing what you can by a judicious wink now and then, and a few indomitable nods in the heroic places, you know."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"For knowledge, spirituality, good sense, and indomitable spirit of the finest discretion on moral subjects, the old man is a real marvel every way."*

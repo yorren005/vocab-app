@@ -5,13 +5,6 @@ status: unread
 ---
 # hyperon
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any baryon that is not a nucleon; unstable particle with mass greater than a neutron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any baryon that is not a nucleon; unstable particle with mass greater than a neutron.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperon designates any baryon that is not a nucleon; unstable particle with mass greater than a neutron."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any baryon that is not a nucleon; unstable particle with mass greater than a neutron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any baryon that is not a nucleon; unstable particle with mass greater than a neutron.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperon designates any baryon that is not a nucleon; unstable particle with mass greater than a neutron."*

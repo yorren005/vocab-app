@@ -5,13 +5,6 @@ status: unread
 ---
 # nasion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The craniometric point at the bridge of the nose where the frontal and nasal bones of the skull meet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craniometric point at the bridge of the nose where the frontal and nasal bones of the skull meet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nasion designates the craniometric point at the bridge of the nose where the frontal and nasal bones of the skull meet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The craniometric point at the bridge of the nose where the frontal and nasal bones of the skull meet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craniometric point at the bridge of the nose where the frontal and nasal bones of the skull meet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nasion designates the craniometric point at the bridge of the nose where the frontal and nasal bones of the skull meet."*

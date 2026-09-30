@@ -5,13 +5,6 @@ status: unread
 ---
 # troposphere
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest atmospheric layer; from 4 to 11 miles high (depending on latitude).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest atmospheric layer; from 4 to 11 miles high (depending on latitude).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, troposphere designates the lowest atmospheric layer; from 4 to 11 miles high (depending on latitude)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest atmospheric layer; from 4 to 11 miles high (depending on latitude).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest atmospheric layer; from 4 to 11 miles high (depending on latitude).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, troposphere designates the lowest atmospheric layer; from 4 to 11 miles high (depending on latitude)."*

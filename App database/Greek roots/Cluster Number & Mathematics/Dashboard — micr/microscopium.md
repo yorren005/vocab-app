@@ -5,13 +5,6 @@ status: unread
 ---
 # microscopium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A faint constellation in the southern hemisphere near sagittarius and capricornus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A faint constellation in the southern hemisphere near sagittarius and capricornus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microscopium designates a faint constellation in the southern hemisphere near sagittarius and capricornus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A faint constellation in the southern hemisphere near sagittarius and capricornus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A faint constellation in the southern hemisphere near sagittarius and capricornus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microscopium designates a faint constellation in the southern hemisphere near sagittarius and capricornus."*

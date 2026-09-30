@@ -5,15 +5,6 @@ status: unread
 ---
 # tensed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become stretched or tense or taut.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increase the tension on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Out." O'Hare tensed, psy-blinked his view screen down to the instruments vital to his immediate mission, and mind-keyed several controls."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We'll pass on this." Brad tensed at Xindral's choice of words, and sensed the others had been similarly alerted."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Zolan tensed, activating the mind-mike in his armpit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become stretched or tense or taut.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increase the tension on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Out." O'Hare tensed, psy-blinked his view screen down to the instruments vital to his immediate mission, and mind-keyed several controls."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We'll pass on this." Brad tensed at Xindral's choice of words, and sensed the others had been similarly alerted."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Zolan tensed, activating the mind-mike in his armpit."*

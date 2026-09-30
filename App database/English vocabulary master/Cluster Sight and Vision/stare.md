@@ -5,20 +5,6 @@ status: unread
 ---
 # stare
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Persistent gaze
-> 2. **Nuance / Usage**: Show oneself conspicuously
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to stare the target*) and intransitive clauses (*staring against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Why are you breathless, and why stare you so?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I don’t come in to stare about me."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"No one, surely, would come here to stare about him,” he said mildly."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To look fixedly and vacantly or intently at someone or something for a long time with wide-open, unblinking eyes.
+> 2. **Nuance / Usage**: Conveys shock, rudeness, defiance, or stunned disbelief, or figuratively to be blatantly obvious (*staring one in the face*).
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to stare the target*) and intransitive clauses (*staring against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Why are you breathless, and why **stare** you so?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"No one, surely, would come into this dusty room merely to **stare** about him."*
+> - 📜 **W. H. Davies (*Leisure*):** *"What is this life if, full of care, we have no time to stand and **stare**?"*

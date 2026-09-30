@@ -5,13 +5,6 @@ status: unread
 ---
 # diplotene
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stage of meiotic prophase which follows the pachytene and during which the paired homologous chromosomes begin to separate and chiasmata become visible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stage of meiotic prophase which follows the pachytene and during which the paired homologous chromosomes begin to separate and chiasmata become visible.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplotene designates a stage of meiotic prophase which follows the pachytene and during which the paired homologous chromosomes begin to separate and chiasmata become visible."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stage of meiotic prophase which follows the pachytene and during which the paired homologous chromosomes begin to separate and chiasmata become visible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stage of meiotic prophase which follows the pachytene and during which the paired homologous chromosomes begin to separate and chiasmata become visible.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diplotene designates a stage of meiotic prophase which follows the pachytene and during which the paired homologous chromosomes begin to separate and chiasmata become visible."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # astigmatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected with, relating to, or correcting astigmatism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing incapacity for observation or discrimination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He jerked it back again, and the thing looked as if it had been hung in a dim light by an astigmatic drunkard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected with, relating to, or correcting astigmatism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing incapacity for observation or discrimination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He jerked it back again, and the thing looked as if it had been hung in a dim light by an astigmatic drunkard."*

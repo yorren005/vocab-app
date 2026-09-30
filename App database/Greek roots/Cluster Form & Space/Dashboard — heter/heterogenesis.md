@@ -5,13 +5,6 @@ status: unread
 ---
 # heterogenesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The alternation of two or more different forms in the life cycle of a plant or animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The alternation of two or more different forms in the life cycle of a plant or animal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterogenesis designates the alternation of two or more different forms in the life cycle of a plant or animal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The alternation of two or more different forms in the life cycle of a plant or animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The alternation of two or more different forms in the life cycle of a plant or animal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterogenesis designates the alternation of two or more different forms in the life cycle of a plant or animal."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # millennial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a millennium or span of a thousand years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to a millennium or span of a thousand years.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Millennial glory If all who ever partook of the sacrament had really commemorated the sufferings of Jesus and drunk of 34:12 his cup, they would have revolutionized the world."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Millennial glory As this consummation draws nearer, he who has shaped his course in accordance with divine Science 96:27 will endure to the end."*
-> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"There, haunting the taciturn tree-tops Millennial prophecies linger, The inexhaustible waters Abide there forever and aye."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a millennium or span of a thousand years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to a millennium or span of a thousand years.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Millennial glory If all who ever partook of the sacrament had really commemorated the sufferings of Jesus and drunk of 34:12 his cup, they would have revolutionized the world."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Millennial glory As this consummation draws nearer, he who has shaped his course in accordance with divine Science 96:27 will endure to the end."*
+> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"There, haunting the taciturn tree-tops Millennial prophecies linger, The inexhaustible waters Abide there forever and aye."*

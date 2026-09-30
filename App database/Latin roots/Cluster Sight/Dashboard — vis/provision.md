@@ -5,15 +5,6 @@ status: unread
 ---
 # provision
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stipulated condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of supplying or providing something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Five days we do allot thee for provision, To shield thee from disasters of the world; And on the sixth to turn thy hated back Upon our kingdom: if, on the next day following, Thy banish’d trunk be found in our dominions, The moment is thy death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If, till the expiration of your month, You will return and sojourn with my sister, Dismissing half your train, come then to me: I am now from home, and out of that provision Which shall be needful for your entertainment."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take up, take up; And follow me, that will to some provision Give thee quick conduct."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stipulated condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of supplying or providing something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Five days we do allot thee for provision, To shield thee from disasters of the world; And on the sixth to turn thy hated back Upon our kingdom: if, on the next day following, Thy banish’d trunk be found in our dominions, The moment is thy death."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If, till the expiration of your month, You will return and sojourn with my sister, Dismissing half your train, come then to me: I am now from home, and out of that provision Which shall be needful for your entertainment."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take up, take up; And follow me, that will to some provision Give thee quick conduct."*

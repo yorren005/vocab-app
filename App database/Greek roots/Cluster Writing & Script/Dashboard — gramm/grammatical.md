@@ -5,15 +5,6 @@ status: unread
 ---
 # grammatical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to grammar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conforming to the rules of grammar or usage accepted by native speakers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"No, father; I cannot underwrite Article Four (leave alone the rest), taking it ‘in the literal and grammatical sense’ as required by the Declaration; and, therefore, I can’t be a parson in the present state of affairs,” said Angel."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He lay on the study sofa while the lesson was going on, with a Tauchnitz Euripides in his hand; but sometimes, when a false quantity or a more than usually stupid grammatical blunder was made, he would spring to his feet and fairly shout with wrath."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"A small grammatical difference points us beyond minutiae to the common experience of the two men."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to grammar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conforming to the rules of grammar or usage accepted by native speakers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"No, father; I cannot underwrite Article Four (leave alone the rest), taking it ‘in the literal and grammatical sense’ as required by the Declaration; and, therefore, I can’t be a parson in the present state of affairs,” said Angel."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"He lay on the study sofa while the lesson was going on, with a Tauchnitz Euripides in his hand; but sometimes, when a false quantity or a more than usually stupid grammatical blunder was made, he would spring to his feet and fairly shout with wrath."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"A small grammatical difference points us beyond minutiae to the common experience of the two men."*

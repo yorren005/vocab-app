@@ -5,13 +5,6 @@ status: unread
 ---
 # leptosporangiate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of ferns) having each sporangium formed from a single epidermal cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of ferns) having each sporangium formed from a single epidermal cell.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptosporangiate designates (of ferns) having each sporangium formed from a single epidermal cell."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (of ferns) having each sporangium formed from a single epidermal cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of ferns) having each sporangium formed from a single epidermal cell.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptosporangiate designates (of ferns) having each sporangium formed from a single epidermal cell."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # patriotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inspired by love for your country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inspired by love for your country.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"On these national occasions dancing may be a patriotic service, and Volumnia is constantly seen hopping about for the good of an ungrateful and unpensioning country."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"—I proceed. ‘Edwin and Morcar, the earls of Mercia and Northumbria, declared for him: and even Stigand, the patriotic archbishop of Canterbury, found it advisable—’” “Found _what_?” said the Duck."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The ethical and patriotic thought is not, "How will this affect my interests?" but."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inspired by love for your country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inspired by love for your country.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"On these national occasions dancing may be a patriotic service, and Volumnia is constantly seen hopping about for the good of an ungrateful and unpensioning country."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"—I proceed. ‘Edwin and Morcar, the earls of Mercia and Northumbria, declared for him: and even Stigand, the patriotic archbishop of Canterbury, found it advisable—’” “Found _what_?” said the Duck."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The ethical and patriotic thought is not, "How will this affect my interests?" but."*

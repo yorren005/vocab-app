@@ -5,15 +5,6 @@ status: unread
 ---
 # stigmatize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To accuse or condemn or openly or formally or brand as disgraceful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark with a stigma or stigmata.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Sometimes it is said that freedom of thought, though admirable in politics, is mischievous in theology: some, advancing what they believe to be one step further, express a general approbation of freedom of thought, but stigmatize free-thinkers."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"We stigmatize the Indians, also, as cowardly and treacherous, because they use stratagem in warfare in preference to open force; but in this they are fully justified by their rude code of honor."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Even William the Conqueror, hated as he was by them, continued to draw a considerable army of Anglo-Saxons to his standard, by threatening to stigmatize those who staid at home, as nidering."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To accuse or condemn or openly or formally or brand as disgraceful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark with a stigma or stigmata.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Sometimes it is said that freedom of thought, though admirable in politics, is mischievous in theology: some, advancing what they believe to be one step further, express a general approbation of freedom of thought, but stigmatize free-thinkers."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"We stigmatize the Indians, also, as cowardly and treacherous, because they use stratagem in warfare in preference to open force; but in this they are fully justified by their rude code of honor."*
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Even William the Conqueror, hated as he was by them, continued to draw a considerable army of Anglo-Saxons to his standard, by threatening to stigmatize those who staid at home, as nidering."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # anathematise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curse or declare to be evil or anathema or threaten with divine punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curse or declare to be evil or anathema or threaten with divine punishment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Dent here bent over to the pious lady and whispered something in her ear; I suppose, from the answer elicited, it was a reminder that one of the anathematised race was present."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Little need to show that this detested family name had long been anathematised by Saint Antoine, and was wrought into the fatal register."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curse or declare to be evil or anathema or threaten with divine punishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curse or declare to be evil or anathema or threaten with divine punishment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Dent here bent over to the pious lady and whispered something in her ear; I suppose, from the answer elicited, it was a reminder that one of the anathematised race was present."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Little need to show that this detested family name had long been anathematised by Saint Antoine, and was wrought into the fatal register."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # stellar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indicating the most important performer or role.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or relating to or resembling or emanating from stars.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They were at stellar distances from her present world."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Never Boreas’ hoary path, Never Eurus’ pois’nous breath, Never baleful stellar lights, Taint thee with untimely blights!"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Copernicus mapped out the stellar system, and before he spake, astrography was chaotic, and the heavenly fields 121:6 were incorrectly explored."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indicating the most important performer or role.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or relating to or resembling or emanating from stars.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They were at stellar distances from her present world."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Never Boreas’ hoary path, Never Eurus’ pois’nous breath, Never baleful stellar lights, Taint thee with untimely blights!"*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Copernicus mapped out the stellar system, and before he spake, astrography was chaotic, and the heavenly fields 121:6 were incorrectly explored."*

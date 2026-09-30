@@ -5,15 +5,6 @@ status: unread
 ---
 # minster
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of certain cathedrals and large churches; originally connected to a monastery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of certain cathedrals and large churches; originally connected to a monastery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"The nuptials of our hero, thus formally approved by his father, were celebrated in the most august of temples, the noble Minster of York."*
-> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 1*):** *"The western sky did recompence us well With Grecian Temple, Minaret, and Bower; And, in one part, a Minster with its Tower Substantially distinct, a place for Bell Or Clock to toll from."*
-> - 📜 **Classic Author (*The Song of Roland*):** *"CCLXXX For battle, now, ready you might them see, They're well confessed, absolved, from sin set free; Masses they've heard, Communion received, Rich offerings to those minsters they leave."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of certain cathedrals and large churches; originally connected to a monastery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of certain cathedrals and large churches; originally connected to a monastery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"The nuptials of our hero, thus formally approved by his father, were celebrated in the most august of temples, the noble Minster of York."*
+> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 1*):** *"The western sky did recompence us well With Grecian Temple, Minaret, and Bower; And, in one part, a Minster with its Tower Substantially distinct, a place for Bell Or Clock to toll from."*
+> - 📜 **Classic Author (*The Song of Roland*):** *"CCLXXX For battle, now, ready you might them see, They're well confessed, absolved, from sin set free; Masses they've heard, Communion received, Rich offerings to those minsters they leave."*

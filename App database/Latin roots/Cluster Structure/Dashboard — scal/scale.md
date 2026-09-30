@@ -5,15 +5,6 @@ status: unread
 ---
 # scale
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ordered reference standard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relative magnitude.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By heaven, thy madness shall be paid by weight, Till our scale turn the beam."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God is our fortress, in whose conquering name Let us resolve to scale their flinty bulwarks."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, here’s an equivocator, that could swear in both the scales against either scale, who committed treason enough for God’s sake, yet could not equivocate to heaven: O, come in, equivocator. [_Knocking._] Knock, knock, knock!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ordered reference standard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relative magnitude.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By heaven, thy madness shall be paid by weight, Till our scale turn the beam."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God is our fortress, in whose conquering name Let us resolve to scale their flinty bulwarks."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, here’s an equivocator, that could swear in both the scales against either scale, who committed treason enough for God’s sake, yet could not equivocate to heaven: O, come in, equivocator. [_Knocking._] Knock, knock, knock!"*

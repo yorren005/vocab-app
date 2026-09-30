@@ -5,15 +5,6 @@ status: unread
 ---
 # oyster
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various marine bivalve mollusks (family Ostreidae) that have a rough irregular shell closed by a single adductor muscle and include commercially important shellfish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various mollusks resembling or related to the oysters.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good friend,” quoth he, “Say, the firm Roman to great Egypt sends This treasure of an oyster; at whose foot, To mend the petty present, I will piece Her opulent throne with kingdoms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rich honesty dwells like a miser, sir, in a poor house, as your pearl in your foul oyster."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Canst tell how an oyster makes his shell?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various marine bivalve mollusks (family Ostreidae) that have a rough irregular shell closed by a single adductor muscle and include commercially important shellfish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various mollusks resembling or related to the oysters.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good friend,” quoth he, “Say, the firm Roman to great Egypt sends This treasure of an oyster; at whose foot, To mend the petty present, I will piece Her opulent throne with kingdoms."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rich honesty dwells like a miser, sir, in a poor house, as your pearl in your foul oyster."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Canst tell how an oyster makes his shell?"*

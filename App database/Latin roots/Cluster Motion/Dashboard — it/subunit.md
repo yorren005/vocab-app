@@ -5,13 +5,6 @@ status: unread
 ---
 # subunit
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A monetary unit that is valued at a fraction (usually one hundredth) of the basic monetary unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monetary unit that is valued at a fraction (usually one hundredth) of the basic monetary unit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subunit designates a monetary unit that is valued at a fraction (usually one hundredth) of the basic monetary unit."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monetary unit that is valued at a fraction (usually one hundredth) of the basic monetary unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monetary unit that is valued at a fraction (usually one hundredth) of the basic monetary unit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subunit designates a monetary unit that is valued at a fraction (usually one hundredth) of the basic monetary unit."*

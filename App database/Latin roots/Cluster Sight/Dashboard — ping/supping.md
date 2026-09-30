@@ -5,15 +5,6 @@ status: unread
 ---
 # supping
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ingestion of liquid food with a spoon or by drinking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take solid or liquid food into the mouth a little at a time either by drinking or by eating with a spoon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What tell’st thou me of supping?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In addition to the formal evening and dinner parties, a large company, chiefly of men, gathered there every day, supping at midnight and staying till three in the morning."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I suppose you have--in nightmares, after supping on cold boiled pork and greens, or some nice little digestible morsel like that."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ingestion of liquid food with a spoon or by drinking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take solid or liquid food into the mouth a little at a time either by drinking or by eating with a spoon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What tell’st thou me of supping?"*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In addition to the formal evening and dinner parties, a large company, chiefly of men, gathered there every day, supping at midnight and staying till three in the morning."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I suppose you have--in nightmares, after supping on cold boiled pork and greens, or some nice little digestible morsel like that."*

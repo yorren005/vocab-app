@@ -5,15 +5,6 @@ status: unread
 ---
 # disreputable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking respectability in character or behavior or appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking respectability in character or behavior or appearance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Yes, and every kind of unclean and disreputable person they urged to join them, quite unlike all decent and established religions."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I do feel so--so disreputable in these clothes."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The man would soon show himself disreputable enough to make people disbelieve him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking respectability in character or behavior or appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking respectability in character or behavior or appearance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"Yes, and every kind of unclean and disreputable person they urged to join them, quite unlike all decent and established religions."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"I do feel so--so disreputable in these clothes."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The man would soon show himself disreputable enough to make people disbelieve him."*

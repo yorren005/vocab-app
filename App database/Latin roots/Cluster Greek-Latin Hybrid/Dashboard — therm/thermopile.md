@@ -5,13 +5,6 @@ status: unread
 ---
 # thermopile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of thermometer for measuring heat radiation; consists of several thermocouple junctions in series.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of thermometer for measuring heat radiation; consists of several thermocouple junctions in series.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermopile designates a kind of thermometer for measuring heat radiation; consists of several thermocouple junctions in series."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of thermometer for measuring heat radiation; consists of several thermocouple junctions in series.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of thermometer for measuring heat radiation; consists of several thermocouple junctions in series.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thermopile designates a kind of thermometer for measuring heat radiation; consists of several thermocouple junctions in series."*

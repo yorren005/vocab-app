@@ -5,13 +5,6 @@ status: unread
 ---
 # botanise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Collect and study plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Collect and study plants.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Well, have you had a good hunt, have you botanised successfully?” “Yes Captain; but we have unfortunately brought a troop of bipeds, whose vicinity troubles me.” “What bipeds?” “Savages.” “Savages!” he echoed, ironically."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Collect and study plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Collect and study plants.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Well, have you had a good hunt, have you botanised successfully?” “Yes Captain; but we have unfortunately brought a troop of bipeds, whose vicinity troubles me.” “What bipeds?” “Savages.” “Savages!” he echoed, ironically."*

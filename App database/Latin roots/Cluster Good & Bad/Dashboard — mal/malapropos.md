@@ -5,13 +5,6 @@ status: unread
 ---
 # malapropos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of an inappropriate or incorrectly applied nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At an inconvenient time.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"They were getting out of their car just outside the gates of Uplands--a most malapropos position!--but without the least hesitation he lifted his hat, and bowed, so that I was spared the troubled uncertainty which I had imagined."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of an inappropriate or incorrectly applied nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At an inconvenient time.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"They were getting out of their car just outside the gates of Uplands--a most malapropos position!--but without the least hesitation he lifted his hat, and bowed, so that I was spared the troubled uncertainty which I had imagined."*

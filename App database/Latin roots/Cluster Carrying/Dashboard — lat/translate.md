@@ -5,15 +5,6 @@ status: unread
 ---
 # translate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restate (words) from one language into another language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change from one form or medium into another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How many lambs might the stern wolf betray, If like a lamb he could his looks translate!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Happy is your grace, That can translate the stubbornness of fortune Into so quiet and so sweet a style."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You should have said That as his worthy deeds did claim no less Than what he stood for, so his gracious nature Would think upon you for your voices, and Translate his malice towards you into love, Standing your friendly lord."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Restate (words) from one language into another language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change from one form or medium into another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How many lambs might the stern wolf betray, If like a lamb he could his looks translate!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Happy is your grace, That can translate the stubbornness of fortune Into so quiet and so sweet a style."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You should have said That as his worthy deeds did claim no less Than what he stood for, so his gracious nature Would think upon you for your voices, and Translate his malice towards you into love, Standing your friendly lord."*

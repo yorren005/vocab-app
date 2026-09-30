@@ -5,13 +5,6 @@ status: unread
 ---
 # pelagianism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological doctrine put forward by pelagius which denied original sin and affirmed the ability of humans to be righteous; condemned as heresy by the council of ephesus in 431.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological doctrine put forward by pelagius which denied original sin and affirmed the ability of humans to be righteous; condemned as heresy by the council of ephesus in 431.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pelagianism designates the theological doctrine put forward by pelagius which denied original sin and affirmed the ability of humans to be righteous; condemned as heresy by the council of ephesus in 431."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological doctrine put forward by pelagius which denied original sin and affirmed the ability of humans to be righteous; condemned as heresy by the council of ephesus in 431.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological doctrine put forward by pelagius which denied original sin and affirmed the ability of humans to be righteous; condemned as heresy by the council of ephesus in 431.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pelagianism designates the theological doctrine put forward by pelagius which denied original sin and affirmed the ability of humans to be righteous; condemned as heresy by the council of ephesus in 431."*

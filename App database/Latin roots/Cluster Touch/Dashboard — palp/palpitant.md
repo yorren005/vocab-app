@@ -5,13 +5,6 @@ status: unread
 ---
 # palpitant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a slight and rapid trembling motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a slight and rapid trembling motion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"And there, when day was breaking, I knelt and looked around: The light was near, the silence Was palpitant with sound; I drew my hate from out my breast And thrust it in the ground."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a slight and rapid trembling motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a slight and rapid trembling motion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"And there, when day was breaking, I knelt and looked around: The light was near, the silence Was palpitant with sound; I drew my hate from out my breast And thrust it in the ground."*

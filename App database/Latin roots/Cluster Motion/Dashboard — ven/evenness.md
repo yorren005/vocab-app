@@ -5,15 +5,6 @@ status: unread
 ---
 # evenness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The parity of even numbers (divisible by two).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality of uniformity and lack of variation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby preserved the evenness of her disposition."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He displays the same evenness of temper in the sight of death as has marked his equable and consistent life." He died in the early morning of 3rd January 1841."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But it ought to be done; and if you will give me a sheet of paper it shall be done directly.” “And if I had not a letter to write myself, I might sit by you, and admire the evenness of your writing, as another young lady once did."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The parity of even numbers (divisible by two).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality of uniformity and lack of variation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby preserved the evenness of her disposition."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"He displays the same evenness of temper in the sight of death as has marked his equable and consistent life." He died in the early morning of 3rd January 1841."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But it ought to be done; and if you will give me a sheet of paper it shall be done directly.” “And if I had not a letter to write myself, I might sit by you, and admire the evenness of your writing, as another young lady once did."*

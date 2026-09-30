@@ -5,15 +5,6 @@ status: unread
 ---
 # albion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Archaic name for england or great britain; used poetically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaic name for england or great britain; used poetically.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Normans, but bastard Normans, Norman bastards! _Mort de ma vie_, if they march along Unfought withal, but I will sell my dukedom, To buy a slobbery and a dirty farm In that nook-shotten isle of Albion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is this the government of Britain’s isle, And this the royalty of Albion’s king?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And even with this I lost fair England’s view, And bid mine eyes be packing with my heart, And called them blind and dusky spectacles, For losing ken of Albion’s wished coast."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Archaic name for england or great britain; used poetically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaic name for england or great britain; used poetically.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Normans, but bastard Normans, Norman bastards! _Mort de ma vie_, if they march along Unfought withal, but I will sell my dukedom, To buy a slobbery and a dirty farm In that nook-shotten isle of Albion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is this the government of Britain’s isle, And this the royalty of Albion’s king?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And even with this I lost fair England’s view, And bid mine eyes be packing with my heart, And called them blind and dusky spectacles, For losing ken of Albion’s wished coast."*

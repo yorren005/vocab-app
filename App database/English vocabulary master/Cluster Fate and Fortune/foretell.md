@@ -5,20 +5,6 @@ status: unread
 ---
 # foretell
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Tell beforehand : predict
-> 2. **Nuance / Usage**: (transitive) to tell (a person) of the future
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to foretell the target*) and intransitive clauses (*foretelling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"grotesque attempts of nature to foretell or to repeat himself."*
-> - 📜 **Conyers Middleton (*The Life of Cicero*):** *"Prodigies, foretelling the future eminence and lustre of his character."*
-> - 📜 **Noe, A. H. (*The Witches' Dream Book*):** *"To lovers they foretell misfortune."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Tell beforehand : predict
+> 2. **Nuance / Usage**: (transitive) to tell (a person) of the future
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to foretell the target*) and intransitive clauses (*foretelling against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"grotesque attempts of nature to foretell or to repeat himself."*
+> - 📜 **Conyers Middleton (*The Life of Cicero*):** *"Prodigies, foretelling the future eminence and lustre of his character."*
+> - 📜 **Noe, A. H. (*The Witches' Dream Book*):** *"To lovers they foretell misfortune."*

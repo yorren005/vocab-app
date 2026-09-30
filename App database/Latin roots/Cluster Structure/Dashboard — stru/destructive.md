@@ -5,15 +5,6 @@ status: unread
 ---
 # destructive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing destruction or much damage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing destruction or much damage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby did not mean these destructive sentiments."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It may be said, and perhaps truly: better this than underpaid labor destructive to the health of the workers and evil in its competitive effects upon other wage workers."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In short, the girl is viewed as charged with a powerful force which, if not kept within bounds, may prove destructive both to herself and to all with whom she comes in contact."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing destruction or much damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing destruction or much damage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby did not mean these destructive sentiments."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It may be said, and perhaps truly: better this than underpaid labor destructive to the health of the workers and evil in its competitive effects upon other wage workers."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In short, the girl is viewed as charged with a powerful force which, if not kept within bounds, may prove destructive both to herself and to all with whom she comes in contact."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # referee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (sports) the chief official (as in boxing or american football) who is expected to ensure fair play.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who reads manuscripts and judges their suitability for publication.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The referee twice cautioned Pucking Percy for holding but the pet was tricky and his footwork a treat to watch."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"I’ll bet twenty-five pounds on it, and let the gentleman of the house be stakeholder, and the German gentleman referee."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"The conclusion of the business was a great relief to his attorneys, who had been unable to shake his conviction that the case was clear enough, but that the referee had been squared."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (sports) the chief official (as in boxing or american football) who is expected to ensure fair play.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who reads manuscripts and judges their suitability for publication.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"The referee twice cautioned Pucking Percy for holding but the pet was tricky and his footwork a treat to watch."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"I’ll bet twenty-five pounds on it, and let the gentleman of the house be stakeholder, and the German gentleman referee."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"The conclusion of the business was a great relief to his attorneys, who had been unable to shake his conviction that the case was clear enough, but that the referee had been squared."*

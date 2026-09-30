@@ -5,15 +5,6 @@ status: unread
 ---
 # inordinate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond normal limits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond normal limits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Every inordinate cup is unbless’d, and the ingredient is a devil."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Sir ---- was also invulnerable while sitting on the grand jury, where quite lately he had protracted the business to an inordinate length in order to extend his own liberty."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke’s miscellaneous invitations seemed to belong to that general laxity which came from his inordinate travel and habit of taking too much in the form of ideas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond normal limits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond normal limits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Every inordinate cup is unbless’d, and the ingredient is a devil."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"Sir ---- was also invulnerable while sitting on the grand jury, where quite lately he had protracted the business to an inordinate length in order to extend his own liberty."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Brooke’s miscellaneous invitations seemed to belong to that general laxity which came from his inordinate travel and habit of taking too much in the form of ideas."*

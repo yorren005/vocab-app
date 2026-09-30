@@ -5,15 +5,6 @@ status: unread
 ---
 # phantom
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something apparent to sense but with no substantial existence : apparition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something elusive or visionary.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Whatever you do on this side the grave, never give one lingering glance towards the horrible phantom that has haunted us so many years."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"All that prospect, which from the terrace looked so near, has moved solemnly away and changed—not the first nor the last of beautiful things that look so near and will so change—into a distant phantom."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her exuberance of spirit was pruned down; the original phantom of delight had shown herself to be not too bright for human nature’s daily food, and she had been able to enter this second poetical phase without losing much of the first in the process."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something apparent to sense but with no substantial existence : apparition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something elusive or visionary.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Whatever you do on this side the grave, never give one lingering glance towards the horrible phantom that has haunted us so many years."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"All that prospect, which from the terrace looked so near, has moved solemnly away and changed—not the first nor the last of beautiful things that look so near and will so change—into a distant phantom."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her exuberance of spirit was pruned down; the original phantom of delight had shown herself to be not too bright for human nature’s daily food, and she had been able to enter this second poetical phase without losing much of the first in the process."*

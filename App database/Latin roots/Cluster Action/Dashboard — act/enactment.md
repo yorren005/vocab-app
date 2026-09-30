@@ -5,15 +5,6 @@ status: unread
 ---
 # enactment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The passing of a law by a legislative body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A legal document codifying the result of deliberations of a committee or society or legislative body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"During the first stages of his return to perception peculiar deeds seemed to be in course of enactment."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At this time of departure, when nothing more was visible of the inside of the parlour than a thin and still chink of light between the shutters, a passionate scene was in course of enactment there."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"All the impassioned scenes of her brief experience seemed to revive with added emotion at that moment, and those scenes which had been without emotion during enactment had emotion then."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,3 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The passing of a law by a legislative body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A legal document codifying the result of deliberations of a committee or society or legislative body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"During the first stages of his return to perception peculiar deeds seemed to be in course of enactment."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At this time of departure, when nothing more was visible of the inside of the parlour than a thin and still chink of light between the shutters, a passionate scene was in course of enactment there."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"All the impassioned scenes of her brief experience seemed to revive with added emotion at that moment, and those scenes which had been without emotion during enactment had emotion then."*

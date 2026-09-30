@@ -5,15 +5,6 @@ status: unread
 ---
 # habiliment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A covering designed to be worn on a person's body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A covering designed to be worn on a person's body.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus, in this strange and sad habiliment, I will encounter with Andronicus, And say I am Revenge, sent from below To join with him and right his heinous wrongs."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She In th’ habiliments of the goddess Isis That day appeared, and oft before gave audience, As ’tis reported, so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marshal, ask yonder knight in arms Both who he is and why he cometh hither Thus plated in habiliments of war, And formally, according to our law, Depose him in the justice of his cause."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A covering designed to be worn on a person's body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A covering designed to be worn on a person's body.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus, in this strange and sad habiliment, I will encounter with Andronicus, And say I am Revenge, sent from below To join with him and right his heinous wrongs."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She In th’ habiliments of the goddess Isis That day appeared, and oft before gave audience, As ’tis reported, so."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marshal, ask yonder knight in arms Both who he is and why he cometh hither Thus plated in habiliments of war, And formally, according to our law, Depose him in the justice of his cause."*

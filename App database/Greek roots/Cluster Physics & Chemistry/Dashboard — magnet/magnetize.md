@@ -5,13 +5,6 @@ status: unread
 ---
 # magnetize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To induce magnetic properties in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To attract like a magnet : charm.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Might and wrong combined, like iron magnetized, are endowed with irresistible attraction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To induce magnetic properties in.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To attract like a magnet : charm.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Might and wrong combined, like iron magnetized, are endowed with irresistible attraction."*

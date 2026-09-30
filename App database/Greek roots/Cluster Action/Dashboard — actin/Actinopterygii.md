@@ -5,15 +5,6 @@ status: unread
 ---
 # Actinopterygii
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ray-finned fishes
-A taxonomic class within the superclass Osteichthyes.
-A taxonomic superclass within the infraphylum Gnathostomata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxonomic class within the superclass Osteichthyes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Actinopterygii designates the ray-finned fishes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ray-finned fishes
+A taxonomic class within the superclass Osteichthyes.
+A taxonomic superclass within the infraphylum Gnathostomata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxonomic class within the superclass Osteichthyes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Actinopterygii designates the ray-finned fishes."*

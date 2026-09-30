@@ -5,15 +5,6 @@ status: unread
 ---
 # zodiac
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An imaginary band in the heavens centered on the ecliptic that encompasses the apparent paths of all the planets and is divided into 12 constellations or signs each taken for astrological purposes to extend 30 degrees of longitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A figure representing the signs of the zodiac and their symbols.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As when the golden sun salutes the morn, And, having gilt the ocean with his beams, Gallops the zodiac in his glistening coach, And overlooks the highest-peering hills; So Tamora."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Star-gazers before them had placed the twelve signs of the Zodiac in the sky."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For there and then, for several consecutive years, Moby Dick had been periodically descried, lingering in those waters for awhile, as the sun, in its annual round, loiters for a predicted interval in any one sign of the Zodiac."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An imaginary band in the heavens centered on the ecliptic that encompasses the apparent paths of all the planets and is divided into 12 constellations or signs each taken for astrological purposes to extend 30 degrees of longitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A figure representing the signs of the zodiac and their symbols.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As when the golden sun salutes the morn, And, having gilt the ocean with his beams, Gallops the zodiac in his glistening coach, And overlooks the highest-peering hills; So Tamora."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Star-gazers before them had placed the twelve signs of the Zodiac in the sky."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For there and then, for several consecutive years, Moby Dick had been periodically descried, lingering in those waters for awhile, as the sun, in its annual round, loiters for a predicted interval in any one sign of the Zodiac."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # xanthorrhoeaceae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of many subfamilies into which some classification systems subdivide the liliaceae but not widely accepted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of many subfamilies into which some classification systems subdivide the liliaceae but not widely accepted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthorrhoeaceae designates one of many subfamilies into which some classification systems subdivide the liliaceae but not widely accepted."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of many subfamilies into which some classification systems subdivide the liliaceae but not widely accepted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of many subfamilies into which some classification systems subdivide the liliaceae but not widely accepted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xanthorrhoeaceae designates one of many subfamilies into which some classification systems subdivide the liliaceae but not widely accepted."*

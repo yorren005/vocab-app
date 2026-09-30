@@ -5,20 +5,6 @@ status: unread
 ---
 # smelt
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Refine, reduce
-> 2. **Nuance / Usage**: Any of the various liquids or semi-molten solids produced and used during the course of such production
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the smelt withstood the storm*), direct object (*cleaved the smelt*), or prepositional anchor (*amidst the smelt*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"peace at my bidding; there I found ’em, there I smelt ’em out."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"a beggar though she smelt brown bread and garlic."*
-> - 📜 **Levy, Donald M. (*Modern Copper Smelting*):** *"or else to roast them and smelt the product in the reverberatories."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Refine, reduce
+> 2. **Nuance / Usage**: Any of the various liquids or semi-molten solids produced and used during the course of such production
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the smelt withstood the storm*), direct object (*cleaved the smelt*), or prepositional anchor (*amidst the smelt*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"peace at my bidding; there I found ’em, there I smelt ’em out."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"a beggar though she smelt brown bread and garlic."*
+> - 📜 **Levy, Donald M. (*Modern Copper Smelting*):** *"or else to roast them and smelt the product in the reverberatories."*

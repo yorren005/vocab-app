@@ -5,13 +5,6 @@ status: unread
 ---
 # civies
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Civilian garb as opposed to a military uniform.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Civilian garb as opposed to a military uniform.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, civies designates civilian garb as opposed to a military uniform."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Civilian garb as opposed to a military uniform.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Civilian garb as opposed to a military uniform.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, civies designates civilian garb as opposed to a military uniform."*

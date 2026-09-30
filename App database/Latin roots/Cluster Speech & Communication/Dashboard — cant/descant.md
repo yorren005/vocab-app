@@ -5,15 +5,6 @@ status: unread
 ---
 # descant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative musical accompaniment (often improvised) added above a basic melody.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sing in descant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And look you get a prayer-book in your hand, And stand between two churchmen, good my lord, For on that ground I’ll make a holy descant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, now you are too flat And mar the concord with too harsh a descant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, neither be my share: She bade good night that kept my rest away; And daff’d me to a cabin hang’d with care, To descant on the doubts of my decay."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative musical accompaniment (often improvised) added above a basic melody.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sing in descant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And look you get a prayer-book in your hand, And stand between two churchmen, good my lord, For on that ground I’ll make a holy descant."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, now you are too flat And mar the concord with too harsh a descant."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, neither be my share: She bade good night that kept my rest away; And daff’d me to a cabin hang’d with care, To descant on the doubts of my decay."*

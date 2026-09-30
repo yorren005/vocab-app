@@ -5,13 +5,6 @@ status: unread
 ---
 # cryptogamia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In former classification systems: one of two major plant divisions, including all plants that do not bear seeds: ferns, mosses, algae, fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In former classification systems: one of two major plant divisions, including all plants that do not bear seeds: ferns, mosses, algae, fungi.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Relhan, for instance, only occupies one-fifth of his “Flora Cantabrigiensis,” and Hudson one-fourth of his “Flora Anglica,” with the Cryptogamia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In former classification systems: one of two major plant divisions, including all plants that do not bear seeds: ferns, mosses, algae, fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In former classification systems: one of two major plant divisions, including all plants that do not bear seeds: ferns, mosses, algae, fungi.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Relhan, for instance, only occupies one-fifth of his “Flora Cantabrigiensis,” and Hudson one-fourth of his “Flora Anglica,” with the Cryptogamia."*

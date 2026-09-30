@@ -5,13 +5,6 @@ status: unread
 ---
 # bareboating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Boating by chartering a bareboat and providing your own crew and provisions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Boating by chartering a bareboat and providing your own crew and provisions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bareboating designates boating by chartering a bareboat and providing your own crew and provisions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Boating by chartering a bareboat and providing your own crew and provisions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Boating by chartering a bareboat and providing your own crew and provisions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bareboating designates boating by chartering a bareboat and providing your own crew and provisions."*

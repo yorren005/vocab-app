@@ -5,15 +5,6 @@ status: unread
 ---
 # incorruptible
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being morally corrupted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being morally corrupted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Truly do we carry in us, each human of us alive on the planet to-day, the incorruptible history of life from life’s beginning."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The last letter I received from him drew from my eyes human tears, and yet filled my heart with divine joy: he anticipated his sure reward, his incorruptible crown."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Le cœur se sature d’amour comme d’un sel divin qui le conserve; de là l’incorruptible adhérence de ceux qui se sont aimés dès l’aube de la vie, et la fraîcheur des vielles amours prolongées."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being morally corrupted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being morally corrupted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Truly do we carry in us, each human of us alive on the planet to-day, the incorruptible history of life from life’s beginning."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The last letter I received from him drew from my eyes human tears, and yet filled my heart with divine joy: he anticipated his sure reward, his incorruptible crown."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Le cœur se sature d’amour comme d’un sel divin qui le conserve; de là l’incorruptible adhérence de ceux qui se sont aimés dès l’aube de la vie, et la fraîcheur des vielles amours prolongées."*

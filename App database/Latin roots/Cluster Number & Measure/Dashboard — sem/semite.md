@@ -5,15 +5,6 @@ status: unread
 ---
 # semite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a group of semitic-speaking peoples of the middle east and northern africa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of semites.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He visited the historic localities of New England and crossed the continent to San Francisco, stopping on the way at Salt Lake City, and extending his journey to the Yo-Semite Valley."*
-> - 📜 **James Joyce (*Ulysses*):** *"The vowels the Semite and the Saxon know not. _Kyrie!_ The radiance of the intellect."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among the Semites of Western Asia the king, in a time of national danger, sometimes gave his own son to die as a sacrifice for the people."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a group of semitic-speaking peoples of the middle east and northern africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of semites.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"He visited the historic localities of New England and crossed the continent to San Francisco, stopping on the way at Salt Lake City, and extending his journey to the Yo-Semite Valley."*
+> - 📜 **James Joyce (*Ulysses*):** *"The vowels the Semite and the Saxon know not. _Kyrie!_ The radiance of the intellect."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among the Semites of Western Asia the king, in a time of national danger, sometimes gave his own son to die as a sacrifice for the people."*

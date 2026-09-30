@@ -5,15 +5,6 @@ status: unread
 ---
 # justify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Show to be reasonable or provide adequate ground for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show to be right by providing justification or proof.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More particulars Must justify my knowledge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I cannot justify whom the law condemns. [_Exeunt Duchess and the other prisoners, guarded._] Mine eyes are full of tears, my heart of grief."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let be called before us That gentleman of Buckingham’s; in person I’ll hear his confessions justify, And point by point the treasons of his master He shall again relate."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Show to be reasonable or provide adequate ground for.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show to be right by providing justification or proof.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More particulars Must justify my knowledge."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I cannot justify whom the law condemns. [_Exeunt Duchess and the other prisoners, guarded._] Mine eyes are full of tears, my heart of grief."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let be called before us That gentleman of Buckingham’s; in person I’ll hear his confessions justify, And point by point the treasons of his master He shall again relate."*

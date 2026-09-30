@@ -5,15 +5,6 @@ status: unread
 ---
 # deservedly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As deserved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As deserved.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thy vile race, Though thou didst learn, had that in ’t which good natures Could not abide to be with; therefore wast thou Deservedly confin’d into this rock, Who hadst deserv’d more than a prison."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A very valuable person, and deservedly respected.” The debilitated cousin supposes he is “’normously rich fler.” “He has a stake in the country,” says Sir Leicester, “I have no doubt."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"My heart was deeply and most deservedly humbled as I mused over the fire for an hour or more."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As deserved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As deserved.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thy vile race, Though thou didst learn, had that in ’t which good natures Could not abide to be with; therefore wast thou Deservedly confin’d into this rock, Who hadst deserv’d more than a prison."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A very valuable person, and deservedly respected.” The debilitated cousin supposes he is “’normously rich fler.” “He has a stake in the country,” says Sir Leicester, “I have no doubt."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"My heart was deeply and most deservedly humbled as I mused over the fire for an hour or more."*

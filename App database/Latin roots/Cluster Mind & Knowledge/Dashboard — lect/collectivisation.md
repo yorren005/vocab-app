@@ -5,13 +5,6 @@ status: unread
 ---
 # collectivisation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The organization of a nation or economy on the basis of collectivism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organization of a nation or economy on the basis of collectivism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collectivisation designates the organization of a nation or economy on the basis of collectivism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The organization of a nation or economy on the basis of collectivism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organization of a nation or economy on the basis of collectivism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collectivisation designates the organization of a nation or economy on the basis of collectivism."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # physical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving the body as distinguished from the mind or spirit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the sciences dealing with matter and energy; especially physics.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The blood I drop is rather physical Than dangerous to me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is Brutus sick, and is it physical To walk unbraced and suck up the humours Of the dank morning?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not that he bears the desk any ill will, but he must do something, and it must be something of an unexciting nature, which will lay neither his physical nor his intellectual energies under too heavy contribution."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving the body as distinguished from the mind or spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the sciences dealing with matter and energy; especially physics.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The blood I drop is rather physical Than dangerous to me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is Brutus sick, and is it physical To walk unbraced and suck up the humours Of the dank morning?"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Not that he bears the desk any ill will, but he must do something, and it must be something of an unexciting nature, which will lay neither his physical nor his intellectual energies under too heavy contribution."*

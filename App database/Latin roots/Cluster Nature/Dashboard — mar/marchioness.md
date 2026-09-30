@@ -5,15 +5,6 @@ status: unread
 ---
 # marchioness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The wife or widow of a marquis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A noblewoman ranking below a duchess and above a countess.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"He will be marquis some day, and there is no denying that she would make a good marchioness: she looks handsomer than ever in her mourning.” “My dear Elinor, do let the poor woman alone."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Between the Marchioness and the natural and tender regard of mother for children, there was that cruel barrier placed of difference of faith."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The foreign personages thought that she was a lady of great distinction, and the Prince and the Princess asked severally of Lord Steyne and the Marchioness, whom they conducted to dinner, who was that petite dame who spoke so well?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The wife or widow of a marquis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A noblewoman ranking below a duchess and above a countess.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"He will be marquis some day, and there is no denying that she would make a good marchioness: she looks handsomer than ever in her mourning.” “My dear Elinor, do let the poor woman alone."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Between the Marchioness and the natural and tender regard of mother for children, there was that cruel barrier placed of difference of faith."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The foreign personages thought that she was a lady of great distinction, and the Prince and the Princess asked severally of Lord Steyne and the Marchioness, whom they conducted to dinner, who was that petite dame who spoke so well?"*

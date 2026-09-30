@@ -5,15 +5,6 @@ status: unread
 ---
 # attractor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An entertainer who attracts large audiences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) a point in the ideal multidimensional phase space that is used to describe a system toward which the system tends to evolve regardless of the starting conditions of the system.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During construction the System is linked to Planet Pluto, employing mass attractors, orbital dynamics controls and stabilizers, and other means, as appropriate."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The tugs nudged it along to a hundred kay above the dome, cut their mass-attractors and the ship disappeared into the node of the Planet Pluto Spunnel."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Mass attractors took over, fine-tuned the alignment and drift, and gently drew the Eagle a third its length into the dock."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An entertainer who attracts large audiences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) a point in the ideal multidimensional phase space that is used to describe a system toward which the system tends to evolve regardless of the starting conditions of the system.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"During construction the System is linked to Planet Pluto, employing mass attractors, orbital dynamics controls and stabilizers, and other means, as appropriate."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The tugs nudged it along to a hundred kay above the dome, cut their mass-attractors and the ship disappeared into the node of the Planet Pluto Spunnel."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Mass attractors took over, fine-tuned the alignment and drift, and gently drew the Eagle a third its length into the dock."*

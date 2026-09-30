@@ -5,15 +5,6 @@ status: unread
 ---
 # reception
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The manner in which something is greeted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal party of people; as after a wedding.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A pavilion by the side of it for the reception of the King, Princess, Lords, etc."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt was so completely confounded by this reception that he quickly fell into line with the rest, and the procession proceeded."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Boythorn’s reception, and we looked forward to his arrival with some curiosity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The manner in which something is greeted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal party of people; as after a wedding.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A pavilion by the side of it for the reception of the King, Princess, Lords, etc."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt was so completely confounded by this reception that he quickly fell into line with the rest, and the procession proceeded."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Boythorn’s reception, and we looked forward to his arrival with some curiosity."*

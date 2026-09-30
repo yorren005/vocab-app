@@ -5,13 +5,6 @@ status: unread
 ---
 # dodecaphony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Twelve-tone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Twelve-tone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dodecaphony designates twelve-tone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Twelve-tone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Twelve-tone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dodecaphony designates twelve-tone."*

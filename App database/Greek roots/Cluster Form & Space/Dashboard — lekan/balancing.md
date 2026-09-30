@@ -5,15 +5,6 @@ status: unread
 ---
 # balancing
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Getting two things to correspond.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring into balance or equilibrium.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy sitting on the window-sill, nodding his head and balancing all these possibilities in his mind, continues thoughtfully to tap it, and clasp it, and measure it with his hand, until he hastily draws his hand away."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood was stepping on, not with that quiet tread of reserved strength which was his customary gait, in which he always seemed to be balancing two thoughts."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Young Cranch was not exactly the balancing point between the wit and the idiot,—verging slightly towards the latter type, and squinting so as to leave everything in doubt about his sentiments except that they were not of a forcible character."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Getting two things to correspond.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring into balance or equilibrium.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy sitting on the window-sill, nodding his head and balancing all these possibilities in his mind, continues thoughtfully to tap it, and clasp it, and measure it with his hand, until he hastily draws his hand away."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood was stepping on, not with that quiet tread of reserved strength which was his customary gait, in which he always seemed to be balancing two thoughts."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Young Cranch was not exactly the balancing point between the wit and the idiot,—verging slightly towards the latter type, and squinting so as to leave everything in doubt about his sentiments except that they were not of a forcible character."*

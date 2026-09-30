@@ -5,13 +5,6 @@ status: unread
 ---
 # photocathode
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cathode that emits electrons when illuminated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cathode that emits electrons when illuminated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photocathode designates a cathode that emits electrons when illuminated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cathode that emits electrons when illuminated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cathode that emits electrons when illuminated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photocathode designates a cathode that emits electrons when illuminated."*

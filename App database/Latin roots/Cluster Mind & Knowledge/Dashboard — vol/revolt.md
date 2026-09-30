@@ -5,15 +5,6 @@ status: unread
 ---
 # revolt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Organized opposition to authority; a conflict in which one faction tries to wrest control from another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make revolution.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou canst not vex me with inconstant mind, Since that my life on thy revolt doth lie, O what a happy title do I find, Happy to have thy love, happy to die!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His qualities being at this poor price, I need not to ask you if gold will corrupt him to revolt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Many hot inroads They make in Italy—the borders maritime Lack blood to think on’t—and flush youth revolt."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Organized opposition to authority; a conflict in which one faction tries to wrest control from another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make revolution.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou canst not vex me with inconstant mind, Since that my life on thy revolt doth lie, O what a happy title do I find, Happy to have thy love, happy to die!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His qualities being at this poor price, I need not to ask you if gold will corrupt him to revolt."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Many hot inroads They make in Italy—the borders maritime Lack blood to think on’t—and flush youth revolt."*

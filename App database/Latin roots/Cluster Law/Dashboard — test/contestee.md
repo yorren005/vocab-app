@@ -5,13 +5,6 @@ status: unread
 ---
 # contestee
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A winner (of a race or an election etc.) whose victory is contested.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A winner (of a race or an election etc.) whose victory is contested.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contestee designates a winner (of a race or an election etc.) whose victory is contested."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A winner (of a race or an election etc.) whose victory is contested.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A winner (of a race or an election etc.) whose victory is contested.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contestee designates a winner (of a race or an election etc.) whose victory is contested."*

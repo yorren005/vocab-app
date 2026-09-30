@@ -5,13 +5,6 @@ status: unread
 ---
 # abiogenesis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The origin of life from nonliving matter; specifically : a theory in the evolution of early life on earth: organic molecules and subsequent simple life forms first originated from inorganic substances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A now-discredited notion that living organisms spontaneously originate directly from nonliving matter.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abiogenesis designates the origin of life from nonliving matter; specifically : a theory in the evolution of early life on earth: organic molecules and subsequent simple life forms first originated from inorganic substances."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The origin of life from nonliving matter; specifically : a theory in the evolution of early life on earth: organic molecules and subsequent simple life forms first originated from inorganic substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A now-discredited notion that living organisms spontaneously originate directly from nonliving matter.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abiogenesis designates the origin of life from nonliving matter; specifically : a theory in the evolution of early life on earth: organic molecules and subsequent simple life forms first originated from inorganic substances."*

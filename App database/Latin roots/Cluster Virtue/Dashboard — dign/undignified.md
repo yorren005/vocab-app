@@ -5,15 +5,6 @@ status: unread
 ---
 # undignified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking dignity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking dignity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Sometimes this obscure corner received no inhabitant for the space of two or three years, and then it was usually but a pauper, a poacher, or other sinner of undignified sins."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Sitting down as a level member of the dairyman’s household seemed at the outset an undignified proceeding."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Undignified, I call it, the way you women run after a man nowadays."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking dignity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking dignity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Sometimes this obscure corner received no inhabitant for the space of two or three years, and then it was usually but a pauper, a poacher, or other sinner of undignified sins."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Sitting down as a level member of the dairyman’s household seemed at the outset an undignified proceeding."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Undignified, I call it, the way you women run after a man nowadays."*

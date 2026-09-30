@@ -5,13 +5,6 @@ status: unread
 ---
 # synesthesia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A concomitant sensation; especially : a subjective sensation or image of a sense (as of color) other than the one (as of sound) being stimulated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition marked by the experience of such sensations.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synesthesia designates a concomitant sensation; especially : a subjective sensation or image of a sense (as of color) other than the one (as of sound) being stimulated."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A concomitant sensation; especially : a subjective sensation or image of a sense (as of color) other than the one (as of sound) being stimulated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition marked by the experience of such sensations.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synesthesia designates a concomitant sensation; especially : a subjective sensation or image of a sense (as of color) other than the one (as of sound) being stimulated."*

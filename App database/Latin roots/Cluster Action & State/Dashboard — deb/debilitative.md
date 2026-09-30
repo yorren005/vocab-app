@@ -5,13 +5,6 @@ status: unread
 ---
 # debilitative
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing debilitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing debilitation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debilitative designates causing debilitation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing debilitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing debilitation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debilitative designates causing debilitation."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # bata
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chadic language spoken south of lake chad.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chadic language spoken south of lake chad.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Fellowcountrymen, _sgenl inn ban bata coisde gan capall._ I call on my old friend, Dr Malachi Mulligan, sex specialist, to give medical testimony on my behalf."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chadic language spoken south of lake chad.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chadic language spoken south of lake chad.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Fellowcountrymen, _sgenl inn ban bata coisde gan capall._ I call on my old friend, Dr Malachi Mulligan, sex specialist, to give medical testimony on my behalf."*

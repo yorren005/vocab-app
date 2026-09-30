@@ -5,15 +5,6 @@ status: unread
 ---
 # perambulation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A walk around a territory (a parish or manor or forest etc.) in order to officially assert and record its boundaries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A leisurely walk (usually in some public place).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"So similarly he had a very shrewd suspicion that Mr Johnny Lever got rid of some £. s. d. in the course of his perambulations round the docks in the congenial atmosphere of the _Old Ireland_ tavern, come back to Erin and so on."*
-> - 📜 **James Joyce (*Ulysses*):** *"Had Bloom discussed similar subjects during nocturnal perambulations in the past?"*
-> - 📜 **James Joyce (*Ulysses*):** *"To Daniel Magrane and Francis Wade in 1882 during a juvenile friendship (terminated by the premature emigration of the former) he had advocated during nocturnal perambulations the political theory of colonial (e.g."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A walk around a territory (a parish or manor or forest etc.) in order to officially assert and record its boundaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A leisurely walk (usually in some public place).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"So similarly he had a very shrewd suspicion that Mr Johnny Lever got rid of some £. s. d. in the course of his perambulations round the docks in the congenial atmosphere of the _Old Ireland_ tavern, come back to Erin and so on."*
+> - 📜 **James Joyce (*Ulysses*):** *"Had Bloom discussed similar subjects during nocturnal perambulations in the past?"*
+> - 📜 **James Joyce (*Ulysses*):** *"To Daniel Magrane and Francis Wade in 1882 during a juvenile friendship (terminated by the premature emigration of the former) he had advocated during nocturnal perambulations the political theory of colonial (e.g."*

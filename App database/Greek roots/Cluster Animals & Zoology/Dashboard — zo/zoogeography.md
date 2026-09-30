@@ -5,13 +5,6 @@ status: unread
 ---
 # zoogeography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biogeography concerned with the geographic distribution of animals and especially with the determination of the areas characterized by specific groups of animals and the study of the causes and significance of such groups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of biogeography concerned with the geographic distribution of animals and especially with the determination of the areas characterized by specific groups of animals and the study of the causes and significance of such groups.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zoogeography designates a branch of biogeography concerned with the geographic distribution of animals and especially with the determination of the areas characterized by specific groups of animals and the study of the causes and significance of such groups."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biogeography concerned with the geographic distribution of animals and especially with the determination of the areas characterized by specific groups of animals and the study of the causes and significance of such groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of biogeography concerned with the geographic distribution of animals and especially with the determination of the areas characterized by specific groups of animals and the study of the causes and significance of such groups.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zoogeography designates a branch of biogeography concerned with the geographic distribution of animals and especially with the determination of the areas characterized by specific groups of animals and the study of the causes and significance of such groups."*

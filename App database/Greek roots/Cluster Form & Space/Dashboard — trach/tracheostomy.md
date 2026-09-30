@@ -5,13 +5,6 @@ status: unread
 ---
 # tracheostomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical formation of an opening into the trachea through the neck especially to allow the passage of air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surgical formation of an opening into the trachea through the neck especially to allow the passage of air.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tracheostomy designates the surgical formation of an opening into the trachea through the neck especially to allow the passage of air."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical formation of an opening into the trachea through the neck especially to allow the passage of air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surgical formation of an opening into the trachea through the neck especially to allow the passage of air.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tracheostomy designates the surgical formation of an opening into the trachea through the neck especially to allow the passage of air."*

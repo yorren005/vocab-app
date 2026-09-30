@@ -5,15 +5,6 @@ status: unread
 ---
 # commission
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A special group delegated to consider some matter;  - milton berle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fee for services rendered based on a percentage of an amount received or collected or agreed to be paid (as distinguished from a salary).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are more saucy with lords and honourable personages than the commission of your birth and virtue gives you heraldry."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I might ask you for your commission."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Noble Aufidius, Take your commission; hie you to your bands."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A special group delegated to consider some matter;  - milton berle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fee for services rendered based on a percentage of an amount received or collected or agreed to be paid (as distinguished from a salary).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are more saucy with lords and honourable personages than the commission of your birth and virtue gives you heraldry."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I might ask you for your commission."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Noble Aufidius, Take your commission; hie you to your bands."*

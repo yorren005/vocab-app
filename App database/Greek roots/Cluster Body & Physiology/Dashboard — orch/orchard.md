@@ -5,15 +5,6 @@ status: unread
 ---
 # orchard
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Garden consisting of a small cultivated wood without undergrowth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Garden consisting of a small cultivated wood without undergrowth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An Orchard near Oliver’s house Scene II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An Orchard near Oliver’s house Enter Orlando and Adam."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, sir, very well: here in your orchard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Garden consisting of a small cultivated wood without undergrowth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Garden consisting of a small cultivated wood without undergrowth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An Orchard near Oliver’s house Scene II."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An Orchard near Oliver’s house Enter Orlando and Adam."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, sir, very well: here in your orchard."*

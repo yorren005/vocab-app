@@ -5,20 +5,6 @@ status: unread
 ---
 # brood
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: The children of a family
-> 2. **Nuance / Usage**: Group having a common nature or origin
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"For it was lent thee all that brood to kill."*
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"at Moor House, I sought my bedroom each night to brood over it."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"heavy scent of the roses seemed to brood over everything."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To dwell moodily, anxiously, or resentfully on a painful thought, grievance, or sorrow for a long time.
+> 2. **Nuance / Usage**: Literally, for a bird to sit upon eggs to hatch them; as a noun, a family of young offspring hatched or cared for together, or a group sharing a common origin.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"When all was still at Moor House, I sought my bedroom each night to **brood** over the strange summons I had heard."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The heavy scent of the roses seemed to **brood** over everything in the studio."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Thou elvish-marked, abortive, rooting hog, for it was lent thee all that **brood** to kill."*

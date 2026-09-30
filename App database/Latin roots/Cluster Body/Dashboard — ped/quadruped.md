@@ -5,15 +5,6 @@ status: unread
 ---
 # quadruped
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal especially a mammal having four limbs specialized for walking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having four feet.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She is angry—she doesn’t know what we mean—she’ll kick over the milk!” exclaimed Tess, gently striving to free herself, her eyes concerned with the quadruped’s actions, her heart more deeply concerned with herself and Clare."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"We, helpless infants in arms or creeping quadruped-like on the floor, dreamed our dreams of air-flight."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"As for the white shark, the white gliding ghostliness of repose in that creature, when beheld in his ordinary moods, strangely tallies with the same quality in the Polar quadruped."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal especially a mammal having four limbs specialized for walking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having four feet.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She is angry—she doesn’t know what we mean—she’ll kick over the milk!” exclaimed Tess, gently striving to free herself, her eyes concerned with the quadruped’s actions, her heart more deeply concerned with herself and Clare."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"We, helpless infants in arms or creeping quadruped-like on the floor, dreamed our dreams of air-flight."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"As for the white shark, the white gliding ghostliness of repose in that creature, when beheld in his ordinary moods, strangely tallies with the same quality in the Polar quadruped."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # pulsar
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A degenerate neutron star; small and extremely dense; rotates very fast and emits regular pulses of polarized radiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A degenerate neutron star; small and extremely dense; rotates very fast and emits regular pulses of polarized radiation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pulsar designates a degenerate neutron star; small and extremely dense; rotates very fast and emits regular pulses of polarized radiation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A degenerate neutron star; small and extremely dense; rotates very fast and emits regular pulses of polarized radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A degenerate neutron star; small and extremely dense; rotates very fast and emits regular pulses of polarized radiation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pulsar designates a degenerate neutron star; small and extremely dense; rotates very fast and emits regular pulses of polarized radiation."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # castigation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe scolding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verbal punishment.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This hand of yours requires A sequester from liberty, fasting and prayer, Much castigation, exercise devout; For here’s a young and sweating devil here That commonly rebels. ’Tis a good hand, A frank one."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I suppose,” observes Volumnia, having taken a little time to recover her spirits after her late castigation, “I suppose Mr."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Grattan being asked his opinion of the valour of a certain captain, who from excess of feeling put up with a severe castigation, replied, That he thought it odd, for to his knowledge the captain had fought."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe scolding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verbal punishment.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This hand of yours requires A sequester from liberty, fasting and prayer, Much castigation, exercise devout; For here’s a young and sweating devil here That commonly rebels. ’Tis a good hand, A frank one."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I suppose,” observes Volumnia, having taken a little time to recover her spirits after her late castigation, “I suppose Mr."*
+> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Grattan being asked his opinion of the valour of a certain captain, who from excess of feeling put up with a severe castigation, replied, That he thought it odd, for to his knowledge the captain had fought."*

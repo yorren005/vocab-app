@@ -5,13 +5,6 @@ status: unread
 ---
 # spherule
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small sphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small sphere.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"So soon as it touches the moniliform threads, the disunion commences, and almost before they are enveloped in the fluid, two spherules will scarce remain attached to each other."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small sphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small sphere.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"So soon as it touches the moniliform threads, the disunion commences, and almost before they are enveloped in the fluid, two spherules will scarce remain attached to each other."*

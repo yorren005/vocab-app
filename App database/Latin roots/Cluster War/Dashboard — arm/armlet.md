@@ -5,15 +5,6 @@ status: unread
 ---
 # armlet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A band worn around the arm for decoration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A band worn around the arm for decoration.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Life and Death of Cormac the Skald*):** *"Nay, many a maiden has loved me, Thou may of the glittering armlet: For I've tricks of the tongue to beguile them And turn them from handsomer lads.” At this house they spent the night."*
-> - 📜 **James Joyce (*Ulysses*):** *"A man in a buff suit with a crape armlet."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The men wear simply a leaf of the coco-nut palm round the loins, with leglets, armlets and streamers or "wings" from the shoulders, if they wish to look extra well."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A band worn around the arm for decoration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A band worn around the arm for decoration.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Life and Death of Cormac the Skald*):** *"Nay, many a maiden has loved me, Thou may of the glittering armlet: For I've tricks of the tongue to beguile them And turn them from handsomer lads.” At this house they spent the night."*
+> - 📜 **James Joyce (*Ulysses*):** *"A man in a buff suit with a crape armlet."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The men wear simply a leaf of the coco-nut palm round the loins, with leglets, armlets and streamers or "wings" from the shoulders, if they wish to look extra well."*

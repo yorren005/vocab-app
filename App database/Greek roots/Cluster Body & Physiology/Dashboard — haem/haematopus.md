@@ -5,13 +5,6 @@ status: unread
 ---
 # haematopus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oystercatchers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oystercatchers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematopus designates oystercatchers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Oystercatchers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oystercatchers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haematopus designates oystercatchers."*

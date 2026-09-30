@@ -5,15 +5,6 @@ status: unread
 ---
 # effervescent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of wines and waters; charged naturally or artificially with carbon dioxide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a liquid) giving off bubbles.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed has been twice dispatched for effervescent drinks, and has twice mixed them in the two official tumblers and stirred them up with the ruler."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"It was apparently impregnated with an effervescent gas, for little bubbles were continually ascending from the depths of the glasses, and bursting in silvery spray at the surface."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"How many years, and through what changes of fortune and various calamity, had that bottle hoarded up its effervescent joy, to be quaffed at last by two such boon companions!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of wines and waters; charged naturally or artificially with carbon dioxide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a liquid) giving off bubbles.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed has been twice dispatched for effervescent drinks, and has twice mixed them in the two official tumblers and stirred them up with the ruler."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"It was apparently impregnated with an effervescent gas, for little bubbles were continually ascending from the depths of the glasses, and bursting in silvery spray at the surface."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"How many years, and through what changes of fortune and various calamity, had that bottle hoarded up its effervescent joy, to be quaffed at last by two such boon companions!"*

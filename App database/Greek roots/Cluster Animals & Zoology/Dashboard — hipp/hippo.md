@@ -5,15 +5,6 @@ status: unread
 ---
 # hippo
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient numidian town in northwestern africa adjoining present-day annaba in northeastern algeria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Massive thick-skinned herbivorous animal living in or around rivers of tropical africa.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"There was an old hippo that had the bad habit of getting out on the bank and roaming at night over the station grounds."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"And, after all, they did not eat each other before my face: they had brought along a provision of hippo-meat which went rotten, and made the mystery of the wilderness stink in my nostrils."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Certainly they had brought with them some rotten hippo-meat, which couldn’t have lasted very long, anyway, even if the pilgrims hadn’t, in the midst of a shocking hullabaloo, thrown a considerable quantity of it overboard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient numidian town in northwestern africa adjoining present-day annaba in northeastern algeria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Massive thick-skinned herbivorous animal living in or around rivers of tropical africa.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"There was an old hippo that had the bad habit of getting out on the bank and roaming at night over the station grounds."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"And, after all, they did not eat each other before my face: they had brought along a provision of hippo-meat which went rotten, and made the mystery of the wilderness stink in my nostrils."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Certainly they had brought with them some rotten hippo-meat, which couldn’t have lasted very long, anyway, even if the pilgrims hadn’t, in the midst of a shocking hullabaloo, thrown a considerable quantity of it overboard."*

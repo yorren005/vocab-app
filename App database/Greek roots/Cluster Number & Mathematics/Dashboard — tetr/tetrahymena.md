@@ -5,13 +5,6 @@ status: unread
 ---
 # tetrahymena
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relative of the paramecium; often used in genetics research.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relative of the paramecium; often used in genetics research.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrahymena designates relative of the paramecium; often used in genetics research."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relative of the paramecium; often used in genetics research.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relative of the paramecium; often used in genetics research.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrahymena designates relative of the paramecium; often used in genetics research."*

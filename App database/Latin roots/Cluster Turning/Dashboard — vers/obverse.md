@@ -5,15 +5,6 @@ status: unread
 ---
 # obverse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The more conspicuous of two alternatives or cases or sides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The side of a coin or medal bearing the principal stamp or design.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Were there obverse meditations of involution increasingly less vast?"*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"If slender, short and dissected with obverse little lines, and deformed either by a pale or black color, it presages weakness of the body, sickness and a short life."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"This line being straight, continued, and not dissected by obverse little lines, denotes a healthful body."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The more conspicuous of two alternatives or cases or sides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The side of a coin or medal bearing the principal stamp or design.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Were there obverse meditations of involution increasingly less vast?"*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"If slender, short and dissected with obverse little lines, and deformed either by a pale or black color, it presages weakness of the body, sickness and a short life."*
+> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"This line being straight, continued, and not dissected by obverse little lines, denotes a healthful body."*

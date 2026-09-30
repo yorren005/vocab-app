@@ -5,13 +5,6 @@ status: unread
 ---
 # fundament
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fundamental assumptions from which something is begun or developed or calculated or explained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fleshy part of the human body that you sit on.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fundament designates the fundamental assumptions from which something is begun or developed or calculated or explained."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fundamental assumptions from which something is begun or developed or calculated or explained.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fleshy part of the human body that you sit on.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fundament designates the fundamental assumptions from which something is begun or developed or calculated or explained."*

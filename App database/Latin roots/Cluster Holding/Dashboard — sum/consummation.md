@@ -5,15 +5,6 @@ status: unread
 ---
 # consummation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The completion of marriage by sexual intercourse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of bringing to completion or fruition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To die—to sleep, No more; and by a sleep to say we end The heart-ache, and the thousand natural shocks That flesh is heir to: ’tis a consummation Devoutly to be wish’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cry is “Arcite”, and “Victory!” Hark, “Arcite, victory!” The combat’s consummation is proclaimed By the wind instruments."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He would let her see, all those six years of intangible ethereal courtship, how little care he had for anything but as it bore upon the consummation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The completion of marriage by sexual intercourse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of bringing to completion or fruition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To die—to sleep, No more; and by a sleep to say we end The heart-ache, and the thousand natural shocks That flesh is heir to: ’tis a consummation Devoutly to be wish’d."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cry is “Arcite”, and “Victory!” Hark, “Arcite, victory!” The combat’s consummation is proclaimed By the wind instruments."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He would let her see, all those six years of intangible ethereal courtship, how little care he had for anything but as it bore upon the consummation."*

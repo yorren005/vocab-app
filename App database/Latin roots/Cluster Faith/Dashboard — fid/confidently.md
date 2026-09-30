@@ -5,15 +5,6 @@ status: unread
 ---
 # confidently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With confidence; in a confident manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With confidence; in a confident manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"None better than to let him fetch off his drum, which you hear him so confidently undertake to do."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not this a strange fellow, my lord, that so confidently seems to undertake this business, which he knows is not to be done; damns himself to do, and dares better be damn’d than to do’t."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Oh, mother," he said confidently, "there is no reason for you to be upset."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With confidence; in a confident manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With confidence; in a confident manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"None better than to let him fetch off his drum, which you hear him so confidently undertake to do."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not this a strange fellow, my lord, that so confidently seems to undertake this business, which he knows is not to be done; damns himself to do, and dares better be damn’d than to do’t."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Oh, mother," he said confidently, "there is no reason for you to be upset."*

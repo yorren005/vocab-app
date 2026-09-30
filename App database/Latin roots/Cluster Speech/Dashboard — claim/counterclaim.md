@@ -5,13 +5,6 @@ status: unread
 ---
 # counterclaim
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A claim filed in opposition to another claim in a legal action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set up a claim in opposition to a previous claim.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterclaim designates a claim filed in opposition to another claim in a legal action."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A claim filed in opposition to another claim in a legal action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set up a claim in opposition to a previous claim.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterclaim designates a claim filed in opposition to another claim in a legal action."*

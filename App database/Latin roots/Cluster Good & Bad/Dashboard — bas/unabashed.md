@@ -5,15 +5,6 @@ status: unread
 ---
 # unabashed
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not embarrassed; - jerome stone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not embarrassed; - jerome stone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, unabashed and candid."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lydia was Lydia still; untamed, unabashed, wild, noisy, and fearless."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But Bernard, wiping the tears from his eyes, developed unabashed his idea of a good joke."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not embarrassed; - jerome stone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not embarrassed; - jerome stone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, unabashed and candid."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lydia was Lydia still; untamed, unabashed, wild, noisy, and fearless."*
+> - 📜 **Anthony Pryde (*Nightfall*):** *"But Bernard, wiping the tears from his eyes, developed unabashed his idea of a good joke."*

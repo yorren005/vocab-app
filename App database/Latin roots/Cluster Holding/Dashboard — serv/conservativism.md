@@ -5,13 +5,6 @@ status: unread
 ---
 # conservativism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A political or theological orientation advocating the preservation of the best in society and opposing radical changes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political or theological orientation advocating the preservation of the best in society and opposing radical changes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conservativism designates a political or theological orientation advocating the preservation of the best in society and opposing radical changes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political or theological orientation advocating the preservation of the best in society and opposing radical changes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political or theological orientation advocating the preservation of the best in society and opposing radical changes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conservativism designates a political or theological orientation advocating the preservation of the best in society and opposing radical changes."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # minefield
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region in which explosives mines have been placed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region in which explosives mines have been placed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"It is of interest to note that the buoy shown on the left of the photograph on the lower part of p. 140 marks the resting-place of the German submarine which was sunk in this minefield a few days before the Armistice."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A region in which explosives mines have been placed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region in which explosives mines have been placed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"It is of interest to note that the buoy shown on the left of the photograph on the lower part of p. 140 marks the resting-place of the German submarine which was sunk in this minefield a few days before the Armistice."*

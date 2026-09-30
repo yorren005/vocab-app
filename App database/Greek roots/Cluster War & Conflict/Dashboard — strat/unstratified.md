@@ -5,13 +5,6 @@ status: unread
 ---
 # unstratified
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deposited in layers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deposited in layers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unstratified designates not deposited in layers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deposited in layers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deposited in layers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unstratified designates not deposited in layers."*

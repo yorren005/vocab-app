@@ -5,15 +5,6 @@ status: unread
 ---
 # analysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A detailed examination of anything complex in order to understand its nature or to determine its essential features : a thorough study.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement, usually in writing, explaining the results of such an examination.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It shall pollute, this very night, the choice stream (in which chemists on analysis would find the genuine nobility) of a Norman house, and his Grace shall not be able to say nay to the infamous alliance."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The task of the economist "as such" is the analysis of the economic valuation-aspects of these problems."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If the reader has different social sympathies he may prefer to draw different conclusions from the economic analysis."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A detailed examination of anything complex in order to understand its nature or to determine its essential features : a thorough study.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement, usually in writing, explaining the results of such an examination.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"It shall pollute, this very night, the choice stream (in which chemists on analysis would find the genuine nobility) of a Norman house, and his Grace shall not be able to say nay to the infamous alliance."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The task of the economist "as such" is the analysis of the economic valuation-aspects of these problems."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If the reader has different social sympathies he may prefer to draw different conclusions from the economic analysis."*

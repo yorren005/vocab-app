@@ -5,15 +5,6 @@ status: unread
 ---
 # fluent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Smooth and unconstrained in movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing yourself readily, clearly, effectively.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He spoke to everybody he met, in the train, in the steamboat, or in hotels, in fluent if rather "bookish" German, in correct but somewhat halting French, or, if it was a Roman Catholic priest he had to deal with, in sonorous Latin."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I understood her very well, for I had been accustomed to the fluent tongue of Madame Pierrot."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"His version, or rather adaptation (for much is omitted and much is paraphrased), is fluent, but he had not enough Greek to reproduce the finer shades of the original, or, indeed, to avoid gross mistakes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Smooth and unconstrained in movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing yourself readily, clearly, effectively.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"He spoke to everybody he met, in the train, in the steamboat, or in hotels, in fluent if rather "bookish" German, in correct but somewhat halting French, or, if it was a Roman Catholic priest he had to deal with, in sonorous Latin."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I understood her very well, for I had been accustomed to the fluent tongue of Madame Pierrot."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"His version, or rather adaptation (for much is omitted and much is paraphrased), is fluent, but he had not enough Greek to reproduce the finer shades of the original, or, indeed, to avoid gross mistakes."*

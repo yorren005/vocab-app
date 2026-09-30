@@ -5,15 +5,6 @@ status: unread
 ---
 # pretext
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something serving to conceal plans; a fictitious reason that is concocted in order to conceal the real reason.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artful or simulated semblance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know it, And my pretext to strike at him admits A good construction."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I made Caddy Jellyby—her maiden name was so natural to me that I always called her by it—the pretext for this visit and wrote her a note previously asking the favour of her company on a little business expedition."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was loth to admit this defeat by one small woman, and my eyes, turning aside, lighted on the disgraceful rout of my comrades and the trailing _ki-sang_ and gave me the pretext."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something serving to conceal plans; a fictitious reason that is concocted in order to conceal the real reason.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artful or simulated semblance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know it, And my pretext to strike at him admits A good construction."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I made Caddy Jellyby—her maiden name was so natural to me that I always called her by it—the pretext for this visit and wrote her a note previously asking the favour of her company on a little business expedition."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was loth to admit this defeat by one small woman, and my eyes, turning aside, lighted on the disgraceful rout of my comrades and the trailing _ki-sang_ and gave me the pretext."*

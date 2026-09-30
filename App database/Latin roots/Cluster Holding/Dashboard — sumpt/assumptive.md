@@ -5,13 +5,6 @@ status: unread
 ---
 # assumptive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively forward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accepted as real or true without proof.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, assumptive designates excessively forward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively forward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accepted as real or true without proof.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, assumptive designates excessively forward."*

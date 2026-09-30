@@ -5,13 +5,6 @@ status: unread
 ---
 # antitype
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing represented or foreshadowed by a type or symbol; especially a figure in the old testament having a counterpart in the new testament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An opposite or contrasting type.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitype designates a person or thing represented or foreshadowed by a type or symbol; especially a figure in the old testament having a counterpart in the new testament."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing represented or foreshadowed by a type or symbol; especially a figure in the old testament having a counterpart in the new testament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An opposite or contrasting type.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitype designates a person or thing represented or foreshadowed by a type or symbol; especially a figure in the old testament having a counterpart in the new testament."*

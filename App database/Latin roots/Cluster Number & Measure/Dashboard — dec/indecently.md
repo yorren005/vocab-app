@@ -5,14 +5,6 @@ status: unread
 ---
 # indecently
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an indecent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an indecent manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Unspeakable messages he telephoned mentally to Miss Dunn at an address in D’Olier street while he presented himself indecently to the instrument in the callbox."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: I was indecently treated, I..."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an indecent manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an indecent manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Unspeakable messages he telephoned mentally to Miss Dunn at an address in D’Olier street while he presented himself indecently to the instrument in the callbox."*
+> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: I was indecently treated, I..."*

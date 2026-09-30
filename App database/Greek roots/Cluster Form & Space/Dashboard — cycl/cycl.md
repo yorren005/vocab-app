@@ -5,15 +5,6 @@ status: unread
 ---
 # cycl
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: cyclic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"About six and a half years ago, however, having exhausted all material means at my command, - /materia medica/, electricity, gymnastics, cycling, and so on, - and being in a hopeless state, the study of Christian Science was taken up."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The need of greater elasticity of credit was felt in the more or less regular seasonal variations within the year, and in the more irregular variations in cycles of years from periods of prosperity to those of panic and depression in business."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"We are now to study the nature of these cycles. § 2. #Definitions.# Crisis means, generally, a decisive moment or turning point."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: circle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: cyclic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"About six and a half years ago, however, having exhausted all material means at my command, - /materia medica/, electricity, gymnastics, cycling, and so on, - and being in a hopeless state, the study of Christian Science was taken up."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The need of greater elasticity of credit was felt in the more or less regular seasonal variations within the year, and in the more irregular variations in cycles of years from periods of prosperity to those of panic and depression in business."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"We are now to study the nature of these cycles. § 2. #Definitions.# Crisis means, generally, a decisive moment or turning point."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # graft
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Scion
-> 2. **Nuance / Usage**: Grafted plant
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the graft withstood the storm*), direct object (*cleaved the graft*), or prepositional anchor (*amidst the graft*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I’ll graft it with you, and then I shall graft it with a medlar."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Pray God the plants thou graft’st may never grow!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"years of endeavour to graft technical belief on actual scepticism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Scion
+> 2. **Nuance / Usage**: Grafted plant
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the graft withstood the storm*), direct object (*cleaved the graft*), or prepositional anchor (*amidst the graft*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I’ll graft it with you, and then I shall graft it with a medlar."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Pray God the plants thou graft’st may never grow!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"years of endeavour to graft technical belief on actual scepticism."*

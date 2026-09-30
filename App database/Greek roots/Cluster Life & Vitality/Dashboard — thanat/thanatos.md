@@ -5,13 +5,6 @@ status: unread
 ---
 # thanatos
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Death instinct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An innate and unconscious tendency toward self-destruction postulated in psychoanalytic theory to explain aggressive and destructive behavior not satisfactorily explained by the pleasure principle —called also Thanatos.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thanatos designates death instinct."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Death instinct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An innate and unconscious tendency toward self-destruction postulated in psychoanalytic theory to explain aggressive and destructive behavior not satisfactorily explained by the pleasure principle —called also Thanatos.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thanatos designates death instinct."*

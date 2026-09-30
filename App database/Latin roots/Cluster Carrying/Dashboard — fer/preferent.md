@@ -5,13 +5,6 @@ status: unread
 ---
 # preferent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preferred above all others and treated with partiality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preferred above all others and treated with partiality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preferent designates preferred above all others and treated with partiality."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preferred above all others and treated with partiality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preferred above all others and treated with partiality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preferent designates preferred above all others and treated with partiality."*

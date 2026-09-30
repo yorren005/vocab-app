@@ -5,13 +5,6 @@ status: unread
 ---
 # dubonnet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (trademark) a sweet aromatic french wine (red or white) used chiefly as an aperitif.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (trademark) a sweet aromatic french wine (red or white) used chiefly as an aperitif.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dubonnet designates (trademark) a sweet aromatic french wine (red or white) used chiefly as an aperitif."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (trademark) a sweet aromatic french wine (red or white) used chiefly as an aperitif.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (trademark) a sweet aromatic french wine (red or white) used chiefly as an aperitif.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dubonnet designates (trademark) a sweet aromatic french wine (red or white) used chiefly as an aperitif."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # parting
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of departing politely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line of scalp that can be seen when sections of hair are combed in opposite directions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I grow to you, and our parting is a tortur’d body."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have, sir, as I was commanded from you, Spoke with the king, and have procur’d his leave For present parting; only he desires Some private speech with you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The soul and body rive not more in parting Than greatness going off."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of departing politely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line of scalp that can be seen when sections of hair are combed in opposite directions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I grow to you, and our parting is a tortur’d body."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have, sir, as I was commanded from you, Spoke with the king, and have procur’d his leave For present parting; only he desires Some private speech with you."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The soul and body rive not more in parting Than greatness going off."*

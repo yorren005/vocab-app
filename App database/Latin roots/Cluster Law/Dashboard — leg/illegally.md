@@ -5,15 +5,6 @@ status: unread
 ---
 # illegally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an illegal manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an illegal manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Clair, then it is obvious that no crime has been committed, and that, therefore, I am illegally detained.” “No crime, but a very great error has been committed,” said Holmes."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His skill caused his downfall: he was convicted of illegally penetrating and modifying a database that was integrating a highly sensitive project."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"I afterwards found that their real object was to witness a prize-fight that took place--illegally, of course--on the common."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an illegal manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an illegal manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Clair, then it is obvious that no crime has been committed, and that, therefore, I am illegally detained.” “No crime, but a very great error has been committed,” said Holmes."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His skill caused his downfall: he was convicted of illegally penetrating and modifying a database that was integrating a highly sensitive project."*
+> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"I afterwards found that their real object was to witness a prize-fight that took place--illegally, of course--on the common."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # surviving
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Continue to live through hardship or adversity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continue in existence after (an adversity, etc.).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So thy surviving husband shall remain The scornful mark of every open eye; Thy kinsmen hang their heads at this disdain, Thy issue blurred with nameless bastardy."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Mincing, B.A., Francis Troy, only son of the late Edward Troy, Esq., M.D., of Weatherbury, and sergeant with Dragoon Guards, to Bathsheba, only surviving daughter of the late Mr."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"David Cairns, the last surviving member of the household at Dunglass, who has taken a constant interest in the progress of the book, and has supplied me with many reminiscences and suggestions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Continue to live through hardship or adversity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continue in existence after (an adversity, etc.).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So thy surviving husband shall remain The scornful mark of every open eye; Thy kinsmen hang their heads at this disdain, Thy issue blurred with nameless bastardy."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Mincing, B.A., Francis Troy, only son of the late Edward Troy, Esq., M.D., of Weatherbury, and sergeant with Dragoon Guards, to Bathsheba, only surviving daughter of the late Mr."*
+> - 📜 **John Cairns (*Principal Cairns*):** *"David Cairns, the last surviving member of the household at Dunglass, who has taken a constant interest in the progress of the book, and has supplied me with many reminiscences and suggestions."*

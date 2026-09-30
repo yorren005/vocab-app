@@ -5,15 +5,6 @@ status: unread
 ---
 # capricorn
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astrology) a person who is born while the sun is in capricorn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A faint zodiacal constellation in the southern hemisphere; between sagittarius and aquarius.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"We had crossed the tropic of Capricorn, and the Straits of Magellan opened less than seven hundred miles to the south."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The 20th of July, the tropic of Capricorn was cut by 105° of longitude, and the 27th of the same month we crossed the equator on the 110th meridian."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"After having crossed the tropic of Capricorn in 135° longitude, it sailed W.N.W., making again for the tropical zone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (astrology) a person who is born while the sun is in capricorn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A faint zodiacal constellation in the southern hemisphere; between sagittarius and aquarius.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"We had crossed the tropic of Capricorn, and the Straits of Magellan opened less than seven hundred miles to the south."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The 20th of July, the tropic of Capricorn was cut by 105° of longitude, and the 27th of the same month we crossed the equator on the 110th meridian."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"After having crossed the tropic of Capricorn in 135° longitude, it sailed W.N.W., making again for the tropical zone."*

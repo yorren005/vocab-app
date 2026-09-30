@@ -5,15 +5,6 @@ status: unread
 ---
 # metrical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on the meter as a standard of measurement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rhythmic arrangement of syllables.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"It should react upon his metrical vocabulary to its beneficial expansion, by taking him outside his aristocratic circle of language, and keeping him in touch with the great commonalty, the proletariat of speech."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Nor do we find in him any of those new metrical effects, those sublime inventions in prosody, with which the great masters astonish us."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"No mere metrical skill, nor metrical sensibility even, could have produced it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on the meter as a standard of measurement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rhythmic arrangement of syllables.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"It should react upon his metrical vocabulary to its beneficial expansion, by taking him outside his aristocratic circle of language, and keeping him in touch with the great commonalty, the proletariat of speech."*
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Nor do we find in him any of those new metrical effects, those sublime inventions in prosody, with which the great masters astonish us."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"No mere metrical skill, nor metrical sensibility even, could have produced it."*

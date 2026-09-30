@@ -5,15 +5,6 @@ status: unread
 ---
 # valet
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A manservant who acts as a personal attendant to his employer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serve as a personal attendant to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Her former master has for nurse, servant, cook and valet only that peculiar and ancient Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Few women could think more of their personal appearance than he did, nor could the valet of any new made lord be more delighted with the place he held in society."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You could not now traverse the gallery, once so hushed, nor enter the front chambers, once so tenantless, without encountering a smart lady’s-maid or a dandy valet."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A manservant who acts as a personal attendant to his employer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serve as a personal attendant to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Her former master has for nurse, servant, cook and valet only that peculiar and ancient Mr."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Few women could think more of their personal appearance than he did, nor could the valet of any new made lord be more delighted with the place he held in society."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You could not now traverse the gallery, once so hushed, nor enter the front chambers, once so tenantless, without encountering a smart lady’s-maid or a dandy valet."*

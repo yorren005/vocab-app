@@ -5,13 +5,6 @@ status: unread
 ---
 # thymine
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A base found in dna (but not in rna) and derived from pyrimidine; pairs with adenine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A base found in dna (but not in rna) and derived from pyrimidine; pairs with adenine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thymine designates a base found in dna (but not in rna) and derived from pyrimidine; pairs with adenine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A base found in dna (but not in rna) and derived from pyrimidine; pairs with adenine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A base found in dna (but not in rna) and derived from pyrimidine; pairs with adenine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thymine designates a base found in dna (but not in rna) and derived from pyrimidine; pairs with adenine."*

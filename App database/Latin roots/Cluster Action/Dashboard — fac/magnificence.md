@@ -5,15 +5,6 @@ status: unread
 ---
 # magnificence
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Splendid or imposing in size or appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being magnificent or splendid or grand.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We cannot with such magnificence—in so rare—I know not what to say."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The flash was almost too novel for its inexpressibly dangerous nature to be at once realized, and they could only comprehend the magnificence of its beauty."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Another tribute to the magnificence of Oppenheimer’s mind: in the end he became my master at the game—he who had never seen a chessman in his life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Splendid or imposing in size or appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being magnificent or splendid or grand.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We cannot with such magnificence—in so rare—I know not what to say."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The flash was almost too novel for its inexpressibly dangerous nature to be at once realized, and they could only comprehend the magnificence of its beauty."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Another tribute to the magnificence of Oppenheimer’s mind: in the end he became my master at the game—he who had never seen a chessman in his life."*

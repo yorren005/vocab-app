@@ -5,15 +5,6 @@ status: unread
 ---
 # injustice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unjust act.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of being unjust or unfair.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thrice is he armed that hath his quarrel just, And he but naked, though locked up in steel, Whose conscience with injustice is corrupted. [_A noise within._] QUEEN MARGARET."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have no spleen against you, nor injustice For you or any."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But such is the infection of the time, That, for the health and physic of our right, We cannot deal but with the very hand Of stern injustice and confused wrong."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unjust act.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of being unjust or unfair.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thrice is he armed that hath his quarrel just, And he but naked, though locked up in steel, Whose conscience with injustice is corrupted. [_A noise within._] QUEEN MARGARET."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have no spleen against you, nor injustice For you or any."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But such is the infection of the time, That, for the health and physic of our right, We cannot deal but with the very hand Of stern injustice and confused wrong."*

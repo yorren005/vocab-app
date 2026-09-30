@@ -5,13 +5,6 @@ status: unread
 ---
 # polychromize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Color with many colors; make polychrome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Color with many colors; make polychrome.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polychromize designates color with many colors; make polychrome."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Color with many colors; make polychrome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Color with many colors; make polychrome.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polychromize designates color with many colors; make polychrome."*

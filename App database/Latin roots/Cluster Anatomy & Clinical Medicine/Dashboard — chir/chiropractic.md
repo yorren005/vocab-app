@@ -5,13 +5,6 @@ status: unread
 ---
 # chiropractic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of treatment that manipulates body structures (especially the spine) to relieve low back pain or even headache or high blood pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of treatment that manipulates body structures (especially the spine) to relieve low back pain or even headache or high blood pressure.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiropractic designates a method of treatment that manipulates body structures (especially the spine) to relieve low back pain or even headache or high blood pressure."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of treatment that manipulates body structures (especially the spine) to relieve low back pain or even headache or high blood pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of treatment that manipulates body structures (especially the spine) to relieve low back pain or even headache or high blood pressure.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiropractic designates a method of treatment that manipulates body structures (especially the spine) to relieve low back pain or even headache or high blood pressure."*

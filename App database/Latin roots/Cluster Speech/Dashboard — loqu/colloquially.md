@@ -5,13 +5,6 @@ status: unread
 ---
 # colloquially
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With the use of colloquial expressions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With the use of colloquial expressions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby with his finger on his nose, “don’t allude to it!” For some little time the jurymen hang about the Sol’s Arms colloquially."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With the use of colloquial expressions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With the use of colloquial expressions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby with his finger on his nose, “don’t allude to it!” For some little time the jurymen hang about the Sol’s Arms colloquially."*

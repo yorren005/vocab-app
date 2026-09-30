@@ -5,13 +5,6 @@ status: unread
 ---
 # Gaia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The hypothesis that the living and nonliving components of earth function as a single system in such a way that the living component regulates and maintains conditions (such as the temperature of the ocean or composition of the atmosphere) so as to be suitable for life; also : this system regarded as a single organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: City in northwestern Portugal, just south of Porto.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Gaia designates the hypothesis that the living and nonliving components of earth function as a single system in such a way that the living component regulates and maintains conditions (such as the temperature of the ocean or composition of the atmosphere) so as to be suitable for life; also : this system regarded as a single organism."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The hypothesis that the living and nonliving components of earth function as a single system in such a way that the living component regulates and maintains conditions (such as the temperature of the ocean or composition of the atmosphere) so as to be suitable for life; also : this system regarded as a single organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: City in northwestern Portugal, just south of Porto.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Gaia designates the hypothesis that the living and nonliving components of earth function as a single system in such a way that the living component regulates and maintains conditions (such as the temperature of the ocean or composition of the atmosphere) so as to be suitable for life; also : this system regarded as a single organism."*

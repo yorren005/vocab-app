@@ -5,15 +5,6 @@ status: unread
 ---
 # reverent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or showing profound respect or veneration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing great reverence for god.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A very reverent body; ay, such a one as a man may not speak of without he say “sir-reverence”."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I will touch thee but with reverent hands, I kiss these fingers for eternal peace, And lay them gently on thy tender side."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reverent care I bear unto my lord Made me collect these dangers in the Duke."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or showing profound respect or veneration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing great reverence for god.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A very reverent body; ay, such a one as a man may not speak of without he say “sir-reverence”."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I will touch thee but with reverent hands, I kiss these fingers for eternal peace, And lay them gently on thy tender side."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reverent care I bear unto my lord Made me collect these dangers in the Duke."*

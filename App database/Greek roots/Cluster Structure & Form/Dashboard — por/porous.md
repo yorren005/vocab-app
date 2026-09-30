@@ -5,15 +5,6 @@ status: unread
 ---
 # porous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to absorb fluids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of pores or vessels or holes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Graphite is not porous, but this charcoal is very porous."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"But mind, whether it be diamond, or black-lead, or this porous charcoal, each and all have the same chemical composition; they are what we call the elementary undecomposable substance carbon."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"It is not black-lead, but all the same it is _carbon_--that form of porous carbon which we generally call charcoal."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to absorb fluids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of pores or vessels or holes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Graphite is not porous, but this charcoal is very porous."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"But mind, whether it be diamond, or black-lead, or this porous charcoal, each and all have the same chemical composition; they are what we call the elementary undecomposable substance carbon."*
+> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"It is not black-lead, but all the same it is _carbon_--that form of porous carbon which we generally call charcoal."*

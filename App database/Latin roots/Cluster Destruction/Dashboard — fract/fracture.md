@@ -5,15 +5,6 @@ status: unread
 ---
 # fracture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Breaking of hard tissue such as bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (geology) a crack in the earth's crust resulting from the displacement of one side with respect to the other.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"It was as if a fracture in delicate crystal had begun, and he was afraid of any movement that might make it fatal."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"No; by a gesture he bade us crouch beside him in a deep fracture of the rock, his hand pointed to one part of the liquid mass, which I watched attentively."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"It was a nasty fracture, and you've given me an arm that'll be as good as new."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Breaking of hard tissue such as bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (geology) a crack in the earth's crust resulting from the displacement of one side with respect to the other.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"It was as if a fracture in delicate crystal had begun, and he was afraid of any movement that might make it fatal."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"No; by a gesture he bade us crouch beside him in a deep fracture of the rock, his hand pointed to one part of the liquid mass, which I watched attentively."*
+> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"It was a nasty fracture, and you've given me an arm that'll be as good as new."*

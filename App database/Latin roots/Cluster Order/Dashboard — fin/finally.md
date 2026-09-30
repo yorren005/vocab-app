@@ -5,15 +5,6 @@ status: unread
 ---
 # finally
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: After an unspecified period of time or an especially long delay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As the end result of a succession or process.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now let us understand; there is three umpires in this matter, as I understand: that is, Master Page, _fidelicet_ Master Page; and there is myself, _fidelicet_ myself; and the three party is, lastly and finally, mine host of the Garter."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He told them finally that the rector had mentioned the castle of High Ems in their lessons that day."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Finally a reply came which sounded strangely muffled, as if from up above, so he went up and into her bedroom."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: After an unspecified period of time or an especially long delay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As the end result of a succession or process.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now let us understand; there is three umpires in this matter, as I understand: that is, Master Page, _fidelicet_ Master Page; and there is myself, _fidelicet_ myself; and the three party is, lastly and finally, mine host of the Garter."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He told them finally that the rector had mentioned the castle of High Ems in their lessons that day."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Finally a reply came which sounded strangely muffled, as if from up above, so he went up and into her bedroom."*

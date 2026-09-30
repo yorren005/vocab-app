@@ -5,15 +5,6 @@ status: unread
 ---
 # consent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Permission to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an affirmative reply to; respond favorably to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And each (though enemies to either’s reign) Do in consent shake hands to torture me, The one by toil, the other to complain How far I toil, still farther off from thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dear sir, to my endeavours give consent; Of heaven, not me, make an experiment."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The count he woos your daughter Lays down his wanton siege before her beauty, Resolv’d to carry her; let her in fine consent, As we’ll direct her how ’tis best to bear it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Permission to do something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an affirmative reply to; respond favorably to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And each (though enemies to either’s reign) Do in consent shake hands to torture me, The one by toil, the other to complain How far I toil, still farther off from thee."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dear sir, to my endeavours give consent; Of heaven, not me, make an experiment."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The count he woos your daughter Lays down his wanton siege before her beauty, Resolv’d to carry her; let her in fine consent, As we’ll direct her how ’tis best to bear it."*

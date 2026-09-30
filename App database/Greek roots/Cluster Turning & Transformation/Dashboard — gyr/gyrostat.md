@@ -5,13 +5,6 @@ status: unread
 ---
 # gyrostat
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stabilizing device (as for a ship or airplane) that consists of a continuously driven gyro spinning about a vertical axis and pivoted so that its axis of spin may be tipped fore-and-aft in the vertical plane and that serves to oppose sideways motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stabilizing device (as for a ship or airplane) that consists of a continuously driven gyro spinning about a vertical axis and pivoted so that its axis of spin may be tipped fore-and-aft in the vertical plane and that serves to oppose sideways motion.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyrostat designates a stabilizing device (as for a ship or airplane) that consists of a continuously driven gyro spinning about a vertical axis and pivoted so that its axis of spin may be tipped fore-and-aft in the vertical plane and that serves to oppose sideways motion."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stabilizing device (as for a ship or airplane) that consists of a continuously driven gyro spinning about a vertical axis and pivoted so that its axis of spin may be tipped fore-and-aft in the vertical plane and that serves to oppose sideways motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stabilizing device (as for a ship or airplane) that consists of a continuously driven gyro spinning about a vertical axis and pivoted so that its axis of spin may be tipped fore-and-aft in the vertical plane and that serves to oppose sideways motion.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gyrostat designates a stabilizing device (as for a ship or airplane) that consists of a continuously driven gyro spinning about a vertical axis and pivoted so that its axis of spin may be tipped fore-and-aft in the vertical plane and that serves to oppose sideways motion."*

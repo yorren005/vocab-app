@@ -5,13 +5,6 @@ status: unread
 ---
 # liberia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in west africa; established in 1822 by americans as a way to free negro slaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in west africa; established in 1822 by americans as a way to free negro slaves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Liberia │Dollar │Gold │ 1 00│ Mexico │do │Silver │ 89.4│Peso or dollar │ │ │ │ 5, 10, 25, and │ │ │ │ 50 centavo."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in west africa; established in 1822 by americans as a way to free negro slaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in west africa; established in 1822 by americans as a way to free negro slaves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Liberia │Dollar │Gold │ 1 00│ Mexico │do │Silver │ 89.4│Peso or dollar │ │ │ │ 5, 10, 25, and │ │ │ │ 50 centavo."*

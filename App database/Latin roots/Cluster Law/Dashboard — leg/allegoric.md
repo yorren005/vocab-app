@@ -5,15 +5,6 @@ status: unread
 ---
 # allegoric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in or characteristic of or containing allegory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in or characteristic of or containing allegory.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"They were explained away by the allegoric method."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"These last fall into two classes--theorematic dreams, as when a man dreams of a voyage, and wakes to go upon a voyage, and allegoric dreams."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Allegoric methods, 72, 126, 181, 184, 226, 278, 288."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in or characteristic of or containing allegory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in or characteristic of or containing allegory.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"They were explained away by the allegoric method."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"These last fall into two classes--theorematic dreams, as when a man dreams of a voyage, and wakes to go upon a voyage, and allegoric dreams."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Allegoric methods, 72, 126, 181, 184, 226, 278, 288."*

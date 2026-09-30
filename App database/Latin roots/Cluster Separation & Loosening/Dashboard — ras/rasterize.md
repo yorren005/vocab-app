@@ -5,13 +5,6 @@ status: unread
 ---
 # rasterize
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert (an image) into pixels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert (an image) into pixels.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rasterize designates convert (an image) into pixels."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert (an image) into pixels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert (an image) into pixels.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rasterize designates convert (an image) into pixels."*

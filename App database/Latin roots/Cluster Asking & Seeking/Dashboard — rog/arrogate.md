@@ -5,15 +5,6 @@ status: unread
 ---
 # arrogate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Demand as being one's due or property; assert one's right or title to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make undue claims to having.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Far be it from me to arrogate to myself the attributes of the Deity."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Neither of them being entitled to any personal merit for what he does, it follows of necessity that neither of them has a right to arrogate to himself (personally created) superiorities over his brother."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"It surely is not from desire of applause that men seek the leadership on the road to heaven, for what man so decried in the history of the world as he who arrogates to himself the place and name of Priest?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Demand as being one's due or property; assert one's right or title to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make undue claims to having.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Bram Stoker (*Dracula*):** *"Far be it from me to arrogate to myself the attributes of the Deity."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Neither of them being entitled to any personal merit for what he does, it follows of necessity that neither of them has a right to arrogate to himself (personally created) superiorities over his brother."*
+> - 📜 **C. A. Frazer (*Atmâ*):** *"It surely is not from desire of applause that men seek the leadership on the road to heaven, for what man so decried in the history of the world as he who arrogates to himself the place and name of Priest?"*

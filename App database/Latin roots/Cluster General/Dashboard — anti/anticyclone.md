@@ -5,13 +5,6 @@ status: unread
 ---
 # anticyclone
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (meteorology) winds spiraling outward from a high pressure center; circling clockwise in the northern hemisphere and counterclockwise in the southern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (meteorology) winds spiraling outward from a high pressure center; circling clockwise in the northern hemisphere and counterclockwise in the southern.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticyclone designates (meteorology) winds spiraling outward from a high pressure center; circling clockwise in the northern hemisphere and counterclockwise in the southern."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (meteorology) winds spiraling outward from a high pressure center; circling clockwise in the northern hemisphere and counterclockwise in the southern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (meteorology) winds spiraling outward from a high pressure center; circling clockwise in the northern hemisphere and counterclockwise in the southern.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticyclone designates (meteorology) winds spiraling outward from a high pressure center; circling clockwise in the northern hemisphere and counterclockwise in the southern."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # incommode
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause inconvenience or discomfort to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause inconvenience or discomfort to.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"I bring news, or, believe me, I would not incommode you at such a time." "What news, monsieur?" asked madame, still erect."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"We cannot come to see you this summer, nor do I think it advisable to come and incommode you when you for the same expense could come to us."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"For the honour of the family, I could even resolve to incommode you to that extent."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause inconvenience or discomfort to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause inconvenience or discomfort to.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"I bring news, or, believe me, I would not incommode you at such a time." "What news, monsieur?" asked madame, still erect."*
+> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"We cannot come to see you this summer, nor do I think it advisable to come and incommode you when you for the same expense could come to us."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"For the honour of the family, I could even resolve to incommode you to that extent."*

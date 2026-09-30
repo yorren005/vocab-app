@@ -5,13 +5,6 @@ status: unread
 ---
 # platan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several trees of the genus platanus having thin pale bark that scales off in small plates and lobed leaves and ball-shaped heads of fruits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several trees of the genus platanus having thin pale bark that scales off in small plates and lobed leaves and ball-shaped heads of fruits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platan designates any of several trees of the genus platanus having thin pale bark that scales off in small plates and lobed leaves and ball-shaped heads of fruits."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several trees of the genus platanus having thin pale bark that scales off in small plates and lobed leaves and ball-shaped heads of fruits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several trees of the genus platanus having thin pale bark that scales off in small plates and lobed leaves and ball-shaped heads of fruits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platan designates any of several trees of the genus platanus having thin pale bark that scales off in small plates and lobed leaves and ball-shaped heads of fruits."*

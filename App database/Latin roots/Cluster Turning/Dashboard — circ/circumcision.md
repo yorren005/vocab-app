@@ -5,15 +5,6 @@ status: unread
 ---
 # circumcision
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church and anglican church) feast day celebrating the circumcision of jesus; celebrated on january 1st.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of circumcising performed on males eight days after birth as a jewish and muslim religious rite.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The legend adds that by command of his god he was the first to introduce circumcision to be practised among his descendants."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"There he plunged into the water and bathed all over; this done, he called on his ancestral shades (_Aumakua_), who came and performed on him the rite of circumcision while lightning flashed, thunder sounded, and the earth quaked."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Dieri also imagine that the foreskins taken from lads at circumcision have a great power of producing rain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church and anglican church) feast day celebrating the circumcision of jesus; celebrated on january 1st.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of circumcising performed on males eight days after birth as a jewish and muslim religious rite.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The legend adds that by command of his god he was the first to introduce circumcision to be practised among his descendants."*
+> - 📜 **Classic Author (*Hawaiian folk tales*):** *"There he plunged into the water and bathed all over; this done, he called on his ancestral shades (_Aumakua_), who came and performed on him the rite of circumcision while lightning flashed, thunder sounded, and the earth quaked."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Dieri also imagine that the foreskins taken from lads at circumcision have a great power of producing rain."*

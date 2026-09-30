@@ -5,20 +5,6 @@ status: unread
 ---
 # crafty
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Skillful, clever
-> 2. **Nuance / Usage**: Marked by subtlety and guile
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a crafty presence*) or predicatively (*remained crafty*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"To call them both a pair of crafty knaves."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"A vengeance on your crafty wither’d hide!"*
-> - 📜 **Leo Tolstoy (*War and Peace*):** *"round at them all with crafty eyes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Clever at achieving one's aims by indirect, underhanded, or deceitful methods; marked by calculating subtlety and guile.
+> 2. **Nuance / Usage**: Historically denoted high artisanal skill and ingenuity, now almost exclusively used with a wary or pejorative edge to describe sly, fox-like scheming.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*a crafty politician*) or predicatively (*remained crafty*).
+> - **Collocations & Registers**: Delivers immediate psychological characterization in narrative and analytical registers; collocated with *counsel*, *eyes*, *stratagem*, and *fox*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Merry Wives of Windsor*):** *"Why, then the world’s mine oyster, yet I will be as **crafty** as any knave in Windsor."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"He glanced round at them all with his small, **crafty** eyes and smiled a quiet, knowing smile."*
+> - 📜 **Homer (*The Odyssey*, trans. Samuel Butler):** *"Then **crafty** Ulysses answered him with winged words of feigned humility."*

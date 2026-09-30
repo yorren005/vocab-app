@@ -5,13 +5,6 @@ status: unread
 ---
 # Mesolithic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a transitional period of the Stone Age between the Paleolithic and the Neolithic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being a transitional period of the Stone Age between the Paleolithic and the Neolithic.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Mesolithic designates of, relating to, or being a transitional period of the stone age between the paleolithic and the neolithic."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a transitional period of the Stone Age between the Paleolithic and the Neolithic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being a transitional period of the Stone Age between the Paleolithic and the Neolithic.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Mesolithic designates of, relating to, or being a transitional period of the stone age between the paleolithic and the neolithic."*

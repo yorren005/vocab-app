@@ -5,15 +5,6 @@ status: unread
 ---
 # inhale
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw deep into the lungs in by breathing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Draw in (air).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Of yourself you could come with soft flight and nestle against my heart, if you would: seized against your will, you will elude the grasp like an essence—you will vanish ere I inhale your fragrance."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Would that he consumed his own smoke! for his smoke is horrible to inhale, and inhale it you must, and not only that, but you must live in it for the time."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"However wide awake they may have been before they entered that sleepy region, they are sure in a little time to inhale the witching influence of the air and begin to grow imaginative--to dream dreams and see apparitions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw deep into the lungs in by breathing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Draw in (air).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Of yourself you could come with soft flight and nestle against my heart, if you would: seized against your will, you will elude the grasp like an essence—you will vanish ere I inhale your fragrance."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Would that he consumed his own smoke! for his smoke is horrible to inhale, and inhale it you must, and not only that, but you must live in it for the time."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"However wide awake they may have been before they entered that sleepy region, they are sure in a little time to inhale the witching influence of the air and begin to grow imaginative--to dream dreams and see apparitions."*

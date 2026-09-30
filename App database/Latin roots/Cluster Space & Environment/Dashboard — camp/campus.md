@@ -5,15 +5,6 @@ status: unread
 ---
 # campus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A field on which the buildings of a university are situated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A field on which the buildings of a university are situated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"One day when on the Seminary campus, I heard two of the students very thoughtlessly criticising the exceeding shabbiness of L----'s wearing apparel, his short pants, old shoes, and socks with no heels in them."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Hall had charge of section five, consisting of the hospital tents which occupied a part of the academical campus."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Many of us have had comparable experiences; they deserve being entered into our lore. *** The rain sheets swirled in from the south, bent, and lurched aimless as drunken ghosts across the college campus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A field on which the buildings of a university are situated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A field on which the buildings of a university are situated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"One day when on the Seminary campus, I heard two of the students very thoughtlessly criticising the exceeding shabbiness of L----'s wearing apparel, his short pants, old shoes, and socks with no heels in them."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Hall had charge of section five, consisting of the hospital tents which occupied a part of the academical campus."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Many of us have had comparable experiences; they deserve being entered into our lore. *** The rain sheets swirled in from the south, bent, and lurched aimless as drunken ghosts across the college campus."*

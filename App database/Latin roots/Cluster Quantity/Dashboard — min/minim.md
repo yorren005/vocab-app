@@ -5,15 +5,6 @@ status: unread
 ---
 # minim
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A british imperial capacity measure (liquid or dry) equal to 1/60th fluid dram or 0.059194 cubic centimeters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A united states liquid unit equal to 1/60 fluidram.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He rests his minim rest, one, two, and the third in your bosom: the very butcher of a silk button, a duellist, a duellist; a gentleman of the very first house, of the first and second cause."*
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"He thanked me with a smiling nod, measured out a few minims of the red tincture and added one of the powders."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _Acid. nit. hydrochlor. dil.,_ 20 minims _Tinct. nux vom.,_ 5 minims _Extr. taraxel. lig.,_ 30 minims. _Aq. dis. ter in die._ CHRIS CALLINAN: What is the parallax of the subsolar ecliptic of Aldebaran?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A british imperial capacity measure (liquid or dry) equal to 1/60th fluid dram or 0.059194 cubic centimeters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A united states liquid unit equal to 1/60 fluidram.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He rests his minim rest, one, two, and the third in your bosom: the very butcher of a silk button, a duellist, a duellist; a gentleman of the very first house, of the first and second cause."*
+> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"He thanked me with a smiling nod, measured out a few minims of the red tincture and added one of the powders."*
+> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _Acid. nit. hydrochlor. dil.,_ 20 minims _Tinct. nux vom.,_ 5 minims _Extr. taraxel. lig.,_ 30 minims. _Aq. dis. ter in die._ CHRIS CALLINAN: What is the parallax of the subsolar ecliptic of Aldebaran?"*

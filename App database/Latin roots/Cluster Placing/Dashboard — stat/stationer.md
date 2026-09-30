@@ -5,15 +5,6 @@ status: unread
 ---
 # stationer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A merchant who sells writing materials and office supplies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A merchant who sells writing materials and office supplies.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, law-stationer, pursues his lawful calling."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The law-stationer’s establishment is, in Guster’s eyes, a temple of plenty and splendour."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"To Snagsby’s, Law-Stationer’s, Deeds engrossed and copied, Law-Writing executed in all its branches, &c., &c., &c."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A merchant who sells writing materials and office supplies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A merchant who sells writing materials and office supplies.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, law-stationer, pursues his lawful calling."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The law-stationer’s establishment is, in Guster’s eyes, a temple of plenty and splendour."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"To Snagsby’s, Law-Stationer’s, Deeds engrossed and copied, Law-Writing executed in all its branches, &c., &c., &c."*

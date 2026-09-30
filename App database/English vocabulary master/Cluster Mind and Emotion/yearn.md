@@ -5,20 +5,6 @@ status: unread
 ---
 # yearn
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Feel tenderness or compassion
-> 2. **Nuance / Usage**: Long persistently, wistfully, or sadly
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to yearn the target*) and intransitive clauses (*yearning against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **E. M. Forster (*Maurice (novel)*):** *"But all that night his body yearned for Alec's, despite him. He called it lustful, a word easily uttered, and opposed it to his work, his family, his friends, his position in society. {{..."*
-> - 📜 **Iris Murdoch (*An Accidental Man*):** *"If I don’t go now, thought Charlotte, I shall have lost a chance which I shall eternally regret and yearn after."*
-> - 📜 **J. M. Coetzee (*{{w*):** *"Having shaken the dust of the ugly new South Africa from his feet, is he yearning for the South Africa of the old days, when Eden was still possible?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To have an intense, deep-seated, and often sorrowful longing for someone or something absent, lost, or out of reach.
+> 2. **Nuance / Usage**: Historically and in elevated literary prose, to be moved or stirred with deep tenderness, compassion, or sympathy toward another.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to yearn the target*) and intransitive clauses (*yearning against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Emma Lazarus (*The New Colossus*):** *"Give me your tired, your poor, your huddled masses **yearning** to breathe free, the wretched refuse of your teeming shore."*
+> - 📜 **Iris Murdoch (*An Accidental Man*):** *"If I don’t go now, thought Charlotte, I shall have lost a chance which I shall eternally regret and **yearn** after."*
+> - 📜 **William Shakespeare (*Henry V*):** *"Falstaff he is dead, and we must **yearn** therefore."*

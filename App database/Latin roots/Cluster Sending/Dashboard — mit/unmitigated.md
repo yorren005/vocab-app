@@ -5,15 +5,6 @@ status: unread
 ---
 # unmitigated
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not diminished or moderated in intensity or severity; sometimes used as an intensifier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not diminished or moderated in intensity or severity; sometimes used as an intensifier.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What! bear her in hand until they come to take hands, and then, with public accusation, uncovered slander, unmitigated rancour,—O God, that I were a man!"*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"So far from diminishing its strictness, it adds emphasis to its claims, and fully meets its unmitigated requisitions."*
-> - 📜 **George Eliot (*Middlemarch*):** *"His marriage seemed an unmitigated calamity; and he was afraid of going to Rosamond before he had vented himself in this solitary rage, lest the mere sight of her should exasperate him and make him behave unwarrantably."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not diminished or moderated in intensity or severity; sometimes used as an intensifier.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not diminished or moderated in intensity or severity; sometimes used as an intensifier.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What! bear her in hand until they come to take hands, and then, with public accusation, uncovered slander, unmitigated rancour,—O God, that I were a man!"*
+> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"So far from diminishing its strictness, it adds emphasis to its claims, and fully meets its unmitigated requisitions."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His marriage seemed an unmitigated calamity; and he was afraid of going to Rosamond before he had vented himself in this solitary rage, lest the mere sight of her should exasperate him and make him behave unwarrantably."*

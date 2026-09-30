@@ -5,13 +5,6 @@ status: unread
 ---
 # pachyderma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thickening of the skin (usually unilateral on an extremity) caused by congenital enlargement of lymph vessel and lymph vessel obstruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thickening of the skin (usually unilateral on an extremity) caused by congenital enlargement of lymph vessel and lymph vessel obstruction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachyderma designates thickening of the skin (usually unilateral on an extremity) caused by congenital enlargement of lymph vessel and lymph vessel obstruction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thickening of the skin (usually unilateral on an extremity) caused by congenital enlargement of lymph vessel and lymph vessel obstruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thickening of the skin (usually unilateral on an extremity) caused by congenital enlargement of lymph vessel and lymph vessel obstruction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachyderma designates thickening of the skin (usually unilateral on an extremity) caused by congenital enlargement of lymph vessel and lymph vessel obstruction."*

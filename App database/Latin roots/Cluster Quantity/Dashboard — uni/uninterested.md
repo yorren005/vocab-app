@@ -5,15 +5,6 @@ status: unread
 ---
 # uninterested
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having or showing interest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no care or interest in knowing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn in his methodical, subdued, uninterested way, “first, whether you have any of Captain Hawdon’s writing?” “First, whether I have any of Captain Hawdon’s writing, sir,” repeats Mr."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The letter written, enveloped, addressed, and stamped, Steinberg tossed it on one side, and leaning back in his arm-chair, turned an uninterested look once more upon his visitor. ‘That affair of Bommaney’s,’ he said. ‘What was that?’ Mr."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Every night when she brushes my hair she recounts these items to me, and I pretend to be uninterested, and listen with all my ears."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having or showing interest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no care or interest in knowing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn in his methodical, subdued, uninterested way, “first, whether you have any of Captain Hawdon’s writing?” “First, whether I have any of Captain Hawdon’s writing, sir,” repeats Mr."*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The letter written, enveloped, addressed, and stamped, Steinberg tossed it on one side, and leaning back in his arm-chair, turned an uninterested look once more upon his visitor. ‘That affair of Bommaney’s,’ he said. ‘What was that?’ Mr."*
+> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Every night when she brushes my hair she recounts these items to me, and I pretend to be uninterested, and listen with all my ears."*

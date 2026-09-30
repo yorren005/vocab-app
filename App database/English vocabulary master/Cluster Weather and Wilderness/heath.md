@@ -5,20 +5,6 @@ status: unread
 ---
 # heath
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Tract of wasteland
-> 2. **Nuance / Usage**: (countable) any butterfly or moth of species:
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
-> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"those who appeared to Macbeth on the heath of Forres."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"committed to me a minute; so we climbed the slope of heath together."*
-> - 📜 **GB Edwards (*The Book of Ebenezer Le Page*):** *"There was nobody living in Jim's old house, and some of the windows was broken; but there was heath growing back and front."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Tract of wasteland
+> 2. **Nuance / Usage**: (countable) any butterfly or moth of species:
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete subject, direct object, or prepositional focus denoting an atmospheric state, tangible form, or elemental manifestation.
+> - **Collocations & Registers**: Paired with tactile and sensory descriptors to anchor atmospheric imagery.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"those who appeared to Macbeth on the heath of Forres."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"committed to me a minute; so we climbed the slope of heath together."*
+> - 📜 **GB Edwards (*The Book of Ebenezer Le Page*):** *"There was nobody living in Jim's old house, and some of the windows was broken; but there was heath growing back and front."*

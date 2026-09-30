@@ -5,14 +5,6 @@ status: unread
 ---
 # acrobatic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or suggestive of an acrobat or acrobatics : performed with leaps, body contortions, or other maneuvers requiring the great athleticism of an acrobat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or suggestive of an acrobat or acrobatics : performed with leaps, body contortions, or other maneuvers requiring the great athleticism of an acrobat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"That is an acrobatic feat that I never believed you capable of, honey.” “We-ell!"*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Instead of going to the gym on Saturday, I'll put in calisthenics and acrobatic stunts with a broom and duster.” She was thorough, too."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or suggestive of an acrobat or acrobatics : performed with leaps, body contortions, or other maneuvers requiring the great athleticism of an acrobat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or suggestive of an acrobat or acrobatics : performed with leaps, body contortions, or other maneuvers requiring the great athleticism of an acrobat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"That is an acrobatic feat that I never believed you capable of, honey.” “We-ell!"*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Instead of going to the gym on Saturday, I'll put in calisthenics and acrobatic stunts with a broom and duster.” She was thorough, too."*

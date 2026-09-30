@@ -5,14 +5,6 @@ status: unread
 ---
 # offertory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The offerings of the congregation at a religious service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the eucharist when bread and wine are offered to god.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That I can’t, indeed,” he said, moving past Oak as a Christian edges past an offertory-plate when he does not mean to contribute."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That I can’t, indeed,” he said, moving past Oak as a Christian edges past an offertory-plate when he does not mean to contribute."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The offerings of the congregation at a religious service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the eucharist when bread and wine are offered to god.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That I can’t, indeed,” he said, moving past Oak as a Christian edges past an offertory-plate when he does not mean to contribute."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That I can’t, indeed,” he said, moving past Oak as a Christian edges past an offertory-plate when he does not mean to contribute."*

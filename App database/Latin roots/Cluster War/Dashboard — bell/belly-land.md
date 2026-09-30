@@ -5,13 +5,6 @@ status: unread
 ---
 # belly-land
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Land on the underside without the landing gear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Land on the underside without the landing gear.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, belly-land designates land on the underside without the landing gear."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Land on the underside without the landing gear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Land on the underside without the landing gear.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, belly-land designates land on the underside without the landing gear."*

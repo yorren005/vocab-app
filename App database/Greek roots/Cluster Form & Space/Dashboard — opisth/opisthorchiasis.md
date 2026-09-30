@@ -5,13 +5,6 @@ status: unread
 ---
 # opisthorchiasis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infestation with flukes obtained from eating raw fish; common in eastern asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infestation with flukes obtained from eating raw fish; common in eastern asia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opisthorchiasis designates infestation with flukes obtained from eating raw fish; common in eastern asia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infestation with flukes obtained from eating raw fish; common in eastern asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infestation with flukes obtained from eating raw fish; common in eastern asia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opisthorchiasis designates infestation with flukes obtained from eating raw fish; common in eastern asia."*

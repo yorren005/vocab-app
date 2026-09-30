@@ -5,13 +5,6 @@ status: unread
 ---
 # coalescency
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The union of diverse things into one body or form or group; the growing together of parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The union of diverse things into one body or form or group; the growing together of parts.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coalescency designates the union of diverse things into one body or form or group; the growing together of parts."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The union of diverse things into one body or form or group; the growing together of parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The union of diverse things into one body or form or group; the growing together of parts.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coalescency designates the union of diverse things into one body or form or group; the growing together of parts."*

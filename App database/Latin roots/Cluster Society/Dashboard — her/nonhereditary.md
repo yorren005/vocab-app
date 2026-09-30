@@ -5,13 +5,6 @@ status: unread
 ---
 # nonhereditary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not acquirable by inheritance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not acquirable by inheritance.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonhereditary designates not acquirable by inheritance."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not acquirable by inheritance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not acquirable by inheritance.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonhereditary designates not acquirable by inheritance."*

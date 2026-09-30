@@ -5,13 +5,6 @@ status: unread
 ---
 # trichodesmium
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large colonial bacterium common in tropical open-ocean waters; important in carbon and nitrogen fixation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large colonial bacterium common in tropical open-ocean waters; important in carbon and nitrogen fixation.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichodesmium designates large colonial bacterium common in tropical open-ocean waters; important in carbon and nitrogen fixation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large colonial bacterium common in tropical open-ocean waters; important in carbon and nitrogen fixation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large colonial bacterium common in tropical open-ocean waters; important in carbon and nitrogen fixation.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichodesmium designates large colonial bacterium common in tropical open-ocean waters; important in carbon and nitrogen fixation."*

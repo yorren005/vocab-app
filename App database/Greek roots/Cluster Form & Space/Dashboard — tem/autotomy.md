@@ -5,13 +5,6 @@ status: unread
 ---
 # autotomy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reflex separation of a part (such as an appendage) from the body : division of the body into two or more pieces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflex separation of a part (such as an appendage) from the body : division of the body into two or more pieces.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autotomy designates reflex separation of a part (such as an appendage) from the body : division of the body into two or more pieces."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reflex separation of a part (such as an appendage) from the body : division of the body into two or more pieces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflex separation of a part (such as an appendage) from the body : division of the body into two or more pieces.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autotomy designates reflex separation of a part (such as an appendage) from the body : division of the body into two or more pieces."*

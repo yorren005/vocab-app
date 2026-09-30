@@ -5,15 +5,6 @@ status: unread
 ---
 # digressive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of superficial relevance if any.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of e.g. speech and writing) tending to depart from the main point or cover a wide range of subjects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Is a’ th’ amount. [Footnote 1: Duan, a term of Ossian’s for the different divisions of a digressive poem."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That remark seems somewhat digressive.” “It means that I would rather have your room than your company.” “And I would rather have curses from you than kisses from any other woman; so I’ll stay here.” Bathsheba was absolutely speechless."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"But to return from this digressive simile."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of superficial relevance if any.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of e.g. speech and writing) tending to depart from the main point or cover a wide range of subjects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Is a’ th’ amount. [Footnote 1: Duan, a term of Ossian’s for the different divisions of a digressive poem."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That remark seems somewhat digressive.” “It means that I would rather have your room than your company.” “And I would rather have curses from you than kisses from any other woman; so I’ll stay here.” Bathsheba was absolutely speechless."*
+> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"But to return from this digressive simile."*

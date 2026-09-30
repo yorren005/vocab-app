@@ -5,15 +5,6 @@ status: unread
 ---
 # transfuse
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impart gradually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pour out of one vessel into another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I wish I could transcribe, or rather transfuse into language, the glow of my heart when I read your letter."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Hence the covenant formed by eating together is less solemn and durable than the covenant formed by transfusing the blood of the covenanting parties into each other's veins, for this transfusion seems to knit them together for life."*
-> - 📜 **George Eliot (*Middlemarch*):** *"All Dorothea’s passion was transfused through a mind struggling towards an ideal life; the radiance of her transfigured girlhood fell on the first object that came within its level."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impart gradually.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pour out of one vessel into another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I wish I could transcribe, or rather transfuse into language, the glow of my heart when I read your letter."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Hence the covenant formed by eating together is less solemn and durable than the covenant formed by transfusing the blood of the covenanting parties into each other's veins, for this transfusion seems to knit them together for life."*
+> - 📜 **George Eliot (*Middlemarch*):** *"All Dorothea’s passion was transfused through a mind struggling towards an ideal life; the radiance of her transfigured girlhood fell on the first object that came within its level."*

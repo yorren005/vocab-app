@@ -5,13 +5,6 @@ status: unread
 ---
 # tachogram
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphical record of speed and distance produced by a tachograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graphical record of speed and distance produced by a tachograph.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tachogram designates a graphical record of speed and distance produced by a tachograph."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphical record of speed and distance produced by a tachograph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graphical record of speed and distance produced by a tachograph.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tachogram designates a graphical record of speed and distance produced by a tachograph."*

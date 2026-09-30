@@ -5,15 +5,6 @@ status: unread
 ---
 # economical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Using the minimum of time or resources necessary for effectiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an economy, the system of production and management of material wealth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"For four years, the clergyman says, 'My expenses were small, my habits economical, and the only _luxury_ in which I indulged was the luxury of giving."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But this does not mean that it would be economical, at present costs of mining coal and of building reservoirs, to make this substitution now."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The number of these has always been comparatively small, and their operation is less simple, democratic, and economical than the local associations."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Using the minimum of time or resources necessary for effectiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an economy, the system of production and management of material wealth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The wonders of prayer*):** *"For four years, the clergyman says, 'My expenses were small, my habits economical, and the only _luxury_ in which I indulged was the luxury of giving."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But this does not mean that it would be economical, at present costs of mining coal and of building reservoirs, to make this substitution now."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The number of these has always been comparatively small, and their operation is less simple, democratic, and economical than the local associations."*

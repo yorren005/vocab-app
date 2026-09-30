@@ -5,13 +5,6 @@ status: unread
 ---
 # tepidity
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A warmness resembling the temperature of the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A warmness resembling the temperature of the skin.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tepidity designates a warmness resembling the temperature of the skin."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A warmness resembling the temperature of the skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A warmness resembling the temperature of the skin.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tepidity designates a warmness resembling the temperature of the skin."*

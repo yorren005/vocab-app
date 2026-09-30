@@ -5,15 +5,6 @@ status: unread
 ---
 # despotic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a despot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or characteristic of a despot.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Thus night at length with slow-retreating steps departs, and the lamp-lighter going his rounds, like an executioner to a despotic king, strikes off the little heads of fire that have aspired to lessen the darkness."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Sailors, likewise, have been somewhat exceptionally treated, because, journeying far from home, they are under the often despotic control of their employers."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It has a democratic character, whereas the gains of monopoly price arouse resentment as being the work of personal, and felt to be despotic, power."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a despot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or characteristic of a despot.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Thus night at length with slow-retreating steps departs, and the lamp-lighter going his rounds, like an executioner to a despotic king, strikes off the little heads of fire that have aspired to lessen the darkness."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Sailors, likewise, have been somewhat exceptionally treated, because, journeying far from home, they are under the often despotic control of their employers."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It has a democratic character, whereas the gains of monopoly price arouse resentment as being the work of personal, and felt to be despotic, power."*

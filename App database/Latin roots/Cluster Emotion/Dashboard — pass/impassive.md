@@ -5,15 +5,6 @@ status: unread
 ---
 # impassive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or revealing little emotion or sensibility; not easily aroused or excited; ; - nordhoff & hall; -virginia woolf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberately impassive in manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Coggan, with an impassive face, implying that a true narrative, like time and tide, must run its course and would respect no man."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was an impassive King of her world."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy laid these out upon the grass, and with an impassive face set to work to plant them."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or revealing little emotion or sensibility; not easily aroused or excited; ; - nordhoff & hall; -virginia woolf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberately impassive in manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Coggan, with an impassive face, implying that a true narrative, like time and tide, must run its course and would respect no man."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was an impassive King of her world."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy laid these out upon the grass, and with an impassive face set to work to plant them."*

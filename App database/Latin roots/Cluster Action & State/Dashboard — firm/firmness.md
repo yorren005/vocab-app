@@ -5,15 +5,6 @@ status: unread
 ---
 # firmness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The muscle tone of healthy tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being resolute.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Just the same!” In the momentary firmness of the hand that was never still—a firmness inspired by the utterance of these last words, and dying away with them—I saw the confirmation of her earnest tones."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"How,” says the trooper, folding his arms and looking with indomitable firmness at his brother, “how is my mother to be got to scratch me?” “I am not sure that I understand you, George,” replies the ironmaster."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Your sister is an amiable creature; but _yours_ is the character of decision and firmness, I see."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The muscle tone of healthy tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being resolute.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Just the same!” In the momentary firmness of the hand that was never still—a firmness inspired by the utterance of these last words, and dying away with them—I saw the confirmation of her earnest tones."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"How,” says the trooper, folding his arms and looking with indomitable firmness at his brother, “how is my mother to be got to scratch me?” “I am not sure that I understand you, George,” replies the ironmaster."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Your sister is an amiable creature; but _yours_ is the character of decision and firmness, I see."*

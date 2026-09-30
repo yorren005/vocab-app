@@ -5,13 +5,6 @@ status: unread
 ---
 # syndrome
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of signs and symptoms that occur together and characterize a particular abnormality or condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of concurrent things (such as emotions or actions) that usually form an identifiable pattern.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syndrome designates a group of signs and symptoms that occur together and characterize a particular abnormality or condition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of signs and symptoms that occur together and characterize a particular abnormality or condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of concurrent things (such as emotions or actions) that usually form an identifiable pattern.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syndrome designates a group of signs and symptoms that occur together and characterize a particular abnormality or condition."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # communications
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The discipline that studies the principles of transmiting information and the methods by which it is delivered (as print or radio or television etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of communicating; the activity of conveying information.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She realized, though, that she had to put off further communications for a quiet evening hour."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had no communications to make but she was terribly eager to hear all about Leonore."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The high wall being that of a barrack, and marriage being looked upon with disfavour in the army, assignations and communications had probably been made across the river before to-night."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The discipline that studies the principles of transmiting information and the methods by which it is delivered (as print or radio or television etc.).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of communicating; the activity of conveying information.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She realized, though, that she had to put off further communications for a quiet evening hour."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had no communications to make but she was terribly eager to hear all about Leonore."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The high wall being that of a barrack, and marriage being looked upon with disfavour in the army, assignations and communications had probably been made across the river before to-night."*

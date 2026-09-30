@@ -5,13 +5,6 @@ status: unread
 ---
 # prosody
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The patterns of stress and intonation in a language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (prosody) a system of versification.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Nor do we find in him any of those new metrical effects, those sublime inventions in prosody, with which the great masters astonish us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The patterns of stress and intonation in a language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (prosody) a system of versification.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sydney Waterlow (*Shelley*):** *"Nor do we find in him any of those new metrical effects, those sublime inventions in prosody, with which the great masters astonish us."*

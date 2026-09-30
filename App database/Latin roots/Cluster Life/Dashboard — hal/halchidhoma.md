@@ -5,13 +5,6 @@ status: unread
 ---
 # halchidhoma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a north american indian people of the colorado river valley near the mouth of the gila river; allied to the maricopa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a north american indian people of the colorado river valley near the mouth of the gila river; allied to the maricopa.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halchidhoma designates a member of a north american indian people of the colorado river valley near the mouth of the gila river; allied to the maricopa."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a north american indian people of the colorado river valley near the mouth of the gila river; allied to the maricopa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a north american indian people of the colorado river valley near the mouth of the gila river; allied to the maricopa.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, halchidhoma designates a member of a north american indian people of the colorado river valley near the mouth of the gila river; allied to the maricopa."*

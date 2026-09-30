@@ -5,13 +5,6 @@ status: unread
 ---
 # calif.
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in the western united states on the pacific; the 3rd largest state; known for earthquakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in the western united states on the pacific; the 3rd largest state; known for earthquakes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calif. designates a state in the western united states on the pacific; the 3rd largest state; known for earthquakes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in the western united states on the pacific; the 3rd largest state; known for earthquakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in the western united states on the pacific; the 3rd largest state; known for earthquakes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calif. designates a state in the western united states on the pacific; the 3rd largest state; known for earthquakes."*

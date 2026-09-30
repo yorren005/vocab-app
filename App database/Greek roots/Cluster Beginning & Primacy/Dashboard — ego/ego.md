@@ -5,15 +5,6 @@ status: unread
 ---
 # ego
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The self especially as contrasted with another self or the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The self especially as contrasted with another self or the world.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, that in all you writ to Rome, or else To foreign princes, “_ego et rex meus_” Was still inscribed, in which you brought the King To be your servant."*
-> - 📜 **George Eliot (*Middlemarch*):** *"These people might not take that high view of you which I have always taken, as an alter ego, a right hand—though I always looked forward to your doing something else."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Ego non baptizo te in nomine patris, sed in nomine diaboli!” deliriously howled Ahab, as the malignant iron scorchingly devoured the baptismal blood."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The self especially as contrasted with another self or the world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The self especially as contrasted with another self or the world.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, that in all you writ to Rome, or else To foreign princes, “_ego et rex meus_” Was still inscribed, in which you brought the King To be your servant."*
+> - 📜 **George Eliot (*Middlemarch*):** *"These people might not take that high view of you which I have always taken, as an alter ego, a right hand—though I always looked forward to your doing something else."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Ego non baptizo te in nomine patris, sed in nomine diaboli!” deliriously howled Ahab, as the malignant iron scorchingly devoured the baptismal blood."*

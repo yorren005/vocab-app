@@ -5,13 +5,6 @@ status: unread
 ---
 # reignite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ignite anew, as of something burning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ignite anew, as of something burning.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reignite designates ignite anew, as of something burning."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ignite anew, as of something burning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ignite anew, as of something burning.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reignite designates ignite anew, as of something burning."*

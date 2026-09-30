@@ -5,15 +5,6 @@ status: unread
 ---
 # merino
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: White sheep originating in spain and producing a heavy fleece of exceptional quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: White sheep originating in spain and producing a heavy fleece of exceptional quality.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You are—” He stopped, ran his eye over my dress, which, as usual, was quite simple: a black merino cloak, a black beaver bonnet; neither of them half fine enough for a lady’s-maid."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The discovery that the fine long merino wools, known as the American merino, are in fact the best of combing wools and now used in many styles of dress goods has added greatly to their demand and value."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The steel used at Sheffield for cutlery is made from iron imported from Sweden and Norway; and no fine or merino wool consumed is of home growth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: White sheep originating in spain and producing a heavy fleece of exceptional quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: White sheep originating in spain and producing a heavy fleece of exceptional quality.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You are—” He stopped, ran his eye over my dress, which, as usual, was quite simple: a black merino cloak, a black beaver bonnet; neither of them half fine enough for a lady’s-maid."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The discovery that the fine long merino wools, known as the American merino, are in fact the best of combing wools and now used in many styles of dress goods has added greatly to their demand and value."*
+> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The steel used at Sheffield for cutlery is made from iron imported from Sweden and Norway; and no fine or merino wool consumed is of home growth."*

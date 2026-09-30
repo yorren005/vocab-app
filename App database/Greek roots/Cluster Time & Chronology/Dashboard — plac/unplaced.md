@@ -5,13 +5,6 @@ status: unread
 ---
 # unplaced
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not one of the first three in a race or competition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not one of the first three in a race or competition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unplaced designates not one of the first three in a race or competition."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not one of the first three in a race or competition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not one of the first three in a race or competition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unplaced designates not one of the first three in a race or competition."*

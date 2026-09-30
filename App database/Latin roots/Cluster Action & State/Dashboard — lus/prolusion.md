@@ -5,13 +5,6 @@ status: unread
 ---
 # prolusion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short introductory essay preceding the text of a book.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exercising in preparation for strenuous activity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But why such long prolusion and display, Such turning and adjustment of the harp, And taking it upon your breast, at length, Only to speak dry words across its strings?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short introductory essay preceding the text of a book.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exercising in preparation for strenuous activity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But why such long prolusion and display, Such turning and adjustment of the harp, And taking it upon your breast, at length, Only to speak dry words across its strings?"*

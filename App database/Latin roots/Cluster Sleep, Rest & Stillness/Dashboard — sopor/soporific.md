@@ -5,15 +5,6 @@ status: unread
 ---
 # soporific
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that induces sleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sleep inducing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Evidently soporific substances had been mixed with the food we had just taken."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"When the monotonous sound of Weyrother’s voice ceased, Kutúzov opened his eye as a miller wakes up when the soporific drone of the mill wheel is interrupted."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Already disposed to be drowsy, it acted upon him like a gentle soporific."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that induces sleep.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sleep inducing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Evidently soporific substances had been mixed with the food we had just taken."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"When the monotonous sound of Weyrother’s voice ceased, Kutúzov opened his eye as a miller wakes up when the soporific drone of the mill wheel is interrupted."*
+> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Already disposed to be drowsy, it acted upon him like a gentle soporific."*

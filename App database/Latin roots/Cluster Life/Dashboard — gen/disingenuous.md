@@ -5,15 +5,6 @@ status: unread
 ---
 # disingenuous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not straightforward or candid; giving a false appearance of frankness; - david cannadine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not straightforward or candid; giving a false appearance of frankness; - david cannadine.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Mr Elliot is evidently a disingenuous, artificial, worldly man, who has never had any better principle to guide him than selfishness.” But Mr Elliot was not done with."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"I am well aware that it would be disingenuous to resolve indiscriminately the opposition of any set of men (merely because their situations might subject them to suspicion) into interested or ambitious views."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The disingenuous form in which this objection is usually stated has been repeatedly adverted to and exposed, but continues to be pursued in all the conversations and writings of the opponents of the plan."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not straightforward or candid; giving a false appearance of frankness; - david cannadine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not straightforward or candid; giving a false appearance of frankness; - david cannadine.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Mr Elliot is evidently a disingenuous, artificial, worldly man, who has never had any better principle to guide him than selfishness.” But Mr Elliot was not done with."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"I am well aware that it would be disingenuous to resolve indiscriminately the opposition of any set of men (merely because their situations might subject them to suspicion) into interested or ambitious views."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The disingenuous form in which this objection is usually stated has been repeatedly adverted to and exposed, but continues to be pursued in all the conversations and writings of the opponents of the plan."*

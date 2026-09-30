@@ -5,15 +5,6 @@ status: unread
 ---
 # except
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take exception to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prevent from being included or considered or accepted.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Exeunt all except Enobarbus, Agrippa and Maecenas._] MAECENAS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To none of these, except it be the last, Namely, some love that drew him oft from home."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With all my heart, I’ll gossip at this feast. [_Exeunt except the two Dromios and two Brothers._] DROMIO OF SYRACUSE."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Take exception to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prevent from being included or considered or accepted.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Exeunt all except Enobarbus, Agrippa and Maecenas._] MAECENAS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To none of these, except it be the last, Namely, some love that drew him oft from home."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With all my heart, I’ll gossip at this feast. [_Exeunt except the two Dromios and two Brothers._] DROMIO OF SYRACUSE."*

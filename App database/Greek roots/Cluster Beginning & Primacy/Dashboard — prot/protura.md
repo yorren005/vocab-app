@@ -5,13 +5,6 @@ status: unread
 ---
 # protura
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Minute wingless arthropods: telsontails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Minute wingless arthropods: telsontails.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protura designates minute wingless arthropods: telsontails."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Minute wingless arthropods: telsontails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Minute wingless arthropods: telsontails.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protura designates minute wingless arthropods: telsontails."*

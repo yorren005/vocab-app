@@ -5,15 +5,6 @@ status: unread
 ---
 # soma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An intoxicating juice from a plant of disputed identity that was used in ancient India as an offering to the gods and as a drink of immortality by worshippers in Vedic ritual and worshipped in personified form as a Vedic god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of an organism.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For this is the very soma-plant of India, the holy grail of King Arthur, the—but enough! enough!"*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Origen's reply is absurd--_hina gar kai doxe hoti hesthein, hos soma phoron ho Iesous hesthein_."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Mayor's translation. [116] _Paed._ i, 6, 6, _to de soma kallei kai eurythmia synekerasato_. [117] Phrases mostly from Strom, vii, 6-9. _ennoian enestachtai theou_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intoxicating juice from a plant of disputed identity that was used in ancient India as an offering to the gods and as a drink of immortality by worshippers in Vedic ritual and worshipped in personified form as a Vedic god.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of an organism.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For this is the very soma-plant of India, the holy grail of King Arthur, the—but enough! enough!"*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Origen's reply is absurd--_hina gar kai doxe hoti hesthein, hos soma phoron ho Iesous hesthein_."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Mayor's translation. [116] _Paed._ i, 6, 6, _to de soma kallei kai eurythmia synekerasato_. [117] Phrases mostly from Strom, vii, 6-9. _ennoian enestachtai theou_."*

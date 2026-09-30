@@ -5,15 +5,6 @@ status: unread
 ---
 # notorious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Known widely and usually unfavorably.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Known widely and usually unfavorably.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would it were not notorious."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, sir, I shall have law in Ephesus, To your notorious shame, I doubt it not."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alençon, that notorious Machiavel!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Known widely and usually unfavorably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Known widely and usually unfavorably.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would it were not notorious."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, sir, I shall have law in Ephesus, To your notorious shame, I doubt it not."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alençon, that notorious Machiavel!"*

@@ -5,15 +5,6 @@ status: unread
 ---
 # testily
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a petulant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a petulant manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"No, no!” he responded shortly and somewhat testily."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Pumblechook, testily, “that when I have been there, I have been took up to the outside of her door, and the door has stood ajar, and she has spoke to me that way."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In the first place, how old are you, cook?” “What dat do wid de ’teak,” said the old black, testily."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a petulant manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a petulant manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"No, no!” he responded shortly and somewhat testily."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pumblechook, testily, “that when I have been there, I have been took up to the outside of her door, and the door has stood ajar, and she has spoke to me that way."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In the first place, how old are you, cook?” “What dat do wid de ’teak,” said the old black, testily."*

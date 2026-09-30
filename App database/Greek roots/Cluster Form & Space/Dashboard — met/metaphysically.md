@@ -5,14 +5,6 @@ status: unread
 ---
 # metaphysically
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a metaphysical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a metaphysical manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"To gain Christian Science and its 65:12 harmony, life should be more metaphysically regarded."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The parable may import that these spiritual laws, perverted by 118:18 a perverse material sense of law, are metaphysically pre- sented as three measures of meal, - that is, three modes of mortal thought."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a metaphysical manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a metaphysical manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"To gain Christian Science and its 65:12 harmony, life should be more metaphysically regarded."*
+> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The parable may import that these spiritual laws, perverted by 118:18 a perverse material sense of law, are metaphysically pre- sented as three measures of meal, - that is, three modes of mortal thought."*

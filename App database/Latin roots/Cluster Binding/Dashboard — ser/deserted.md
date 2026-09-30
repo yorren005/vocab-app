@@ -5,15 +5,6 @@ status: unread
 ---
 # deserted
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leave someone who needs or counts on you; leave in the lurch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Desert (a cause, a country or an army), often in order to join the opposing cause, country, or army.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"How terribly deserted and lonely it all looks," Uncle Philip said after a while."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius by everybody, came back a few years ago to the deserted castle."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Now you know why the deserted castle attracts me so despite its sad aspect, for it brings back to me my most beautiful memories." "Oh, please, mother, tell us a little more," Kurt begged eagerly, when his mother rose."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Leave someone who needs or counts on you; leave in the lurch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Desert (a cause, a country or an army), often in order to join the opposing cause, country, or army.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"How terribly deserted and lonely it all looks," Uncle Philip said after a while."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius by everybody, came back a few years ago to the deserted castle."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Now you know why the deserted castle attracts me so despite its sad aspect, for it brings back to me my most beautiful memories." "Oh, please, mother, tell us a little more," Kurt begged eagerly, when his mother rose."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # pyrrhic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot consisting of two short or unaccented syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Achieved at excessive cost; also : costly to the point of negating or outweighing expected benefits.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"The Roll of the Kettledrum; or, The Lay of the Last Charger "You have the Pyrrhic dance as yet, Where is the Pyrrhic phalanx gone?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot consisting of two short or unaccented syllables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Achieved at excessive cost; also : costly to the point of negating or outweighing expected benefits.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"The Roll of the Kettledrum; or, The Lay of the Last Charger "You have the Pyrrhic dance as yet, Where is the Pyrrhic phalanx gone?"*

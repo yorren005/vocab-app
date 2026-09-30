@@ -5,15 +5,6 @@ status: unread
 ---
 # discriminating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recognize or perceive the difference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat differently on the basis of sex or race.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"With a nicely discriminating eye, he seizes at once upon its capabilities, and pictures in his mind the future landscape."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I remember thinking her a shrewd and discriminating old lady, with a great gift of description."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"From the first she had thought this prospect small, and Isabel had been struck with the positive, discriminating, competent way in which she took the measure of his remainder of life."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Recognize or perceive the difference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat differently on the basis of sex or race.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"With a nicely discriminating eye, he seizes at once upon its capabilities, and pictures in his mind the future landscape."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I remember thinking her a shrewd and discriminating old lady, with a great gift of description."*
+> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"From the first she had thought this prospect small, and Isabel had been struck with the positive, discriminating, competent way in which she took the measure of his remainder of life."*

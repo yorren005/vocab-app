@@ -5,15 +5,6 @@ status: unread
 ---
 # levy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A charge imposed and collected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of drafting into military service.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He creates Lucius proconsul; and to you, the tribunes, For this immediate levy, he commands His absolute commission."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With those legions Which I have spoke of, whereunto your levy Must be supplyant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And did he not, in his protectorship, Levy great sums of money through the realm For soldiers’ pay in France, and never sent it?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A charge imposed and collected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of drafting into military service.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He creates Lucius proconsul; and to you, the tribunes, For this immediate levy, he commands His absolute commission."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With those legions Which I have spoke of, whereunto your levy Must be supplyant."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And did he not, in his protectorship, Levy great sums of money through the realm For soldiers’ pay in France, and never sent it?"*

@@ -5,13 +5,6 @@ status: unread
 ---
 # osculation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) a contact of two curves (or two surfaces) at which they have a common tangent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of caressing with the lips (or an instance thereof).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He kissed the plump mellow yellow smellow melons of her rump, on each plump melonous hemisphere, in their mellow yellow furrow, with obscure prolonged provocative melonsmellonous osculation."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) a contact of two curves (or two surfaces) at which they have a common tangent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of caressing with the lips (or an instance thereof).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"He kissed the plump mellow yellow smellow melons of her rump, on each plump melonous hemisphere, in their mellow yellow furrow, with obscure prolonged provocative melonsmellonous osculation."*

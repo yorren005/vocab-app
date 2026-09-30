@@ -5,15 +5,6 @@ status: unread
 ---
 # solitariness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being alone in solitary isolation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition toward being alone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The journey in itself had no terrors for her; and she began it without either dreading its length or feeling its solitariness."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The two characteristic Italian villages which slumber on its banks, and the equally Italian palace whose terraced gardens descend steeply to the lake, hardly break the stillness and even the solitariness of the scene."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"He had read her heart so well as to know, moreover, that were he to press his own suit, she, out of this youth and solitariness and weakness, might in time give herself to him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being alone in solitary isolation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition toward being alone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"The journey in itself had no terrors for her; and she began it without either dreading its length or feeling its solitariness."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The two characteristic Italian villages which slumber on its banks, and the equally Italian palace whose terraced gardens descend steeply to the lake, hardly break the stillness and even the solitariness of the scene."*
+> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"He had read her heart so well as to know, moreover, that were he to press his own suit, she, out of this youth and solitariness and weakness, might in time give herself to him."*

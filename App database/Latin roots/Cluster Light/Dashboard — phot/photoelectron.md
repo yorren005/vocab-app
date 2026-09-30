@@ -5,13 +5,6 @@ status: unread
 ---
 # photoelectron
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electron that is emitted from an atom or molecule by an incident photon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electron that is emitted from an atom or molecule by an incident photon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoelectron designates an electron that is emitted from an atom or molecule by an incident photon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electron that is emitted from an atom or molecule by an incident photon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electron that is emitted from an atom or molecule by an incident photon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoelectron designates an electron that is emitted from an atom or molecule by an incident photon."*

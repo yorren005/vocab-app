@@ -5,14 +5,6 @@ status: unread
 ---
 # decadent
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has fallen into a decadent state (morally or artistically).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by excessive self-indulgence and moral decay.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I must confess that my satisfaction with my first theories of an automatic civilisation and a decadent humanity did not long endure."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"At last I saw again the dim shadows of houses, the evidences of decadent humanity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has fallen into a decadent state (morally or artistically).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by excessive self-indulgence and moral decay.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I must confess that my satisfaction with my first theories of an automatic civilisation and a decadent humanity did not long endure."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"At last I saw again the dim shadows of houses, the evidences of decadent humanity."*

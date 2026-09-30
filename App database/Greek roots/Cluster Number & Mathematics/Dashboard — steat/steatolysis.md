@@ -5,13 +5,6 @@ status: unread
 ---
 # steatolysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The digestion of fats, involving their emulsification followed by hydrolysis into fatty acids and glycerine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The breakdown of fat.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steatolysis designates the digestion of fats, involving their emulsification followed by hydrolysis into fatty acids and glycerine."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The digestion of fats, involving their emulsification followed by hydrolysis into fatty acids and glycerine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The breakdown of fat.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steatolysis designates the digestion of fats, involving their emulsification followed by hydrolysis into fatty acids and glycerine."*

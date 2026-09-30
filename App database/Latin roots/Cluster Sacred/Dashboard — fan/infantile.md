@@ -5,15 +5,6 @@ status: unread
 ---
 # infantile
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indicating a lack of maturity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to infants or infancy.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Sir,” said Mason, “this is all drivel, infantile drivel."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Pearl was a born outcast of the infantile world."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Her sisters, Camilla and Sidonia, sat looking listlessly at nothing, or engaging in purposeless infantile controversies with one another."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indicating a lack of maturity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to infants or infancy.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Sir,” said Mason, “this is all drivel, infantile drivel."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Pearl was a born outcast of the infantile world."*
+> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Her sisters, Camilla and Sidonia, sat looking listlessly at nothing, or engaging in purposeless infantile controversies with one another."*

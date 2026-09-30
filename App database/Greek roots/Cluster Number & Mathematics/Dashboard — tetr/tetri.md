@@ -5,13 +5,6 @@ status: unread
 ---
 # tetri
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 100 tetri equal 1 lari in georgia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 100 tetri equal 1 lari in georgia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetri designates 100 tetri equal 1 lari in georgia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: 100 tetri equal 1 lari in georgia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 100 tetri equal 1 lari in georgia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetri designates 100 tetri equal 1 lari in georgia."*

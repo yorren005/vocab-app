@@ -5,15 +5,6 @@ status: unread
 ---
 # resultant
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The final point in a process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that results.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The particular economic problems which are presented to each generation of our people are the resultant of all these factors taken together."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The money use, as has just been shown, is a resultant of a number of different motives in men."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The final choice of the money-good depends on the resultant of all the advantages."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The final point in a process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that results.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The particular economic problems which are presented to each generation of our people are the resultant of all these factors taken together."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The money use, as has just been shown, is a resultant of a number of different motives in men."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The final choice of the money-good depends on the resultant of all the advantages."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # steatocystoma
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A common cyst of the skin; filled with fatty matter (sebum) that is secreted by a sebaceous gland that has been blocked.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common cyst of the skin; filled with fatty matter (sebum) that is secreted by a sebaceous gland that has been blocked.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steatocystoma designates a common cyst of the skin; filled with fatty matter (sebum) that is secreted by a sebaceous gland that has been blocked."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A common cyst of the skin; filled with fatty matter (sebum) that is secreted by a sebaceous gland that has been blocked.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common cyst of the skin; filled with fatty matter (sebum) that is secreted by a sebaceous gland that has been blocked.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steatocystoma designates a common cyst of the skin; filled with fatty matter (sebum) that is secreted by a sebaceous gland that has been blocked."*

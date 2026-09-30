@@ -5,15 +5,6 @@ status: unread
 ---
 # impeded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a hindrance or obstacle to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Block passage through.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Wrapped up in a shawl, I still carried the unknown little child: I might not lay it down anywhere, however tired were my arms—however much its weight impeded my progress, I must retain it."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Our heavy frocks soon became completely saturated with water, and by their weight, and that of the articles we had concealed beneath them, not a little impeded our progress."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The Author of the Divine Plan Himself is impeded in His purpose if the proper instruments for the execution of His design are lacking."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a hindrance or obstacle to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Block passage through.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Wrapped up in a shawl, I still carried the unknown little child: I might not lay it down anywhere, however tired were my arms—however much its weight impeded my progress, I must retain it."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Our heavy frocks soon became completely saturated with water, and by their weight, and that of the articles we had concealed beneath them, not a little impeded our progress."*
+> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The Author of the Divine Plan Himself is impeded in His purpose if the proper instruments for the execution of His design are lacking."*

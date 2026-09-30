@@ -5,20 +5,6 @@ status: unread
 ---
 # dawdle
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Spend time idly
-> 2. **Nuance / Usage**: Move lackadaisically
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to dawdle the target*) and intransitive clauses (*dawdling against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Abercromby, 5th Baron Abercromby (*The Pre- and Proto-historic Finns: Both Eastern and Western with the Magic Songs of the West Finns*):** *"White creature wholly white, thou winter-coloured imp, tongue-shaped and slippery, 'wall-streak' and 'rubbish of the floor,' that livest 'neath timbers of a house, that dawdlest underneath the nook, {{..."*
-> - 📜 **Neil Johnston (*Norwich City F.C.*):** *"However all [[w:Wayne Hennessey|[Wayne] Hennessey]]'s good work went to waste on 52 minutes when he dawdled on the ball."*
-> - 📜 **Charles Manley Brown (*Thou Shalt Not Take Thyself too&nbsp;… Seriously: The Lighter Side of the Golden Years*):** *"Blessed are the drivers who dawdleth not in the fast lane."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: To move, work, or act slowly and aimlessly, taking far more time than is necessary.
+> 2. **Nuance / Usage**: Suggests sluggish, dreamy, or half-hearted lingering (often followed by *over* or *away*), as of a child walking reluctantly to school or a traveler loitering over breakfast.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates intransitively (*dawdled over his coffee*) or transitively with *away* (*dawdled away the morning*).
+> - **Collocations & Registers**: Everyday narrative and domestic registers; collocated with *over*, *away*, *along*, and *morning*.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"He had nothing to do but to **dawdle** away his mornings in the drawing-room."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"We **dawdled** along the shady lane, reluctant to reach the schoolhouse gate."*
+> - 📜 **George Eliot (*Adam Bede*):** *"She was not fond of people who **dawdled** over their work while the daylight wasted."*

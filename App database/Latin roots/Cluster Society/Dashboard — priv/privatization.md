@@ -5,13 +5,6 @@ status: unread
 ---
 # privatization
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Changing something from state to private ownership or control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Changing something from state to private ownership or control.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, privatization designates changing something from state to private ownership or control."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Changing something from state to private ownership or control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Changing something from state to private ownership or control.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, privatization designates changing something from state to private ownership or control."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # cannibal
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who eats human flesh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who eats human flesh.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes and his relations being minor cannibal chiefs and it being proposed to abolish cannibalism, indignant champions were to put the case thus: Make man-eating unlawful, and you starve the Vholeses!"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was said they were given to cannibal practices."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"You shuddered as you gazed, and wondered what monstrous cannibal and savage could ever have gone a death-harvesting with such a hacking, horrifying implement."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who eats human flesh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who eats human flesh.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes and his relations being minor cannibal chiefs and it being proposed to abolish cannibalism, indignant champions were to put the case thus: Make man-eating unlawful, and you starve the Vholeses!"*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was said they were given to cannibal practices."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"You shuddered as you gazed, and wondered what monstrous cannibal and savage could ever have gone a death-harvesting with such a hacking, horrifying implement."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # obligingness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition or tendency to yield to the will of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition or tendency to yield to the will of others.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The harp arrived, and rather added to her beauty, wit, and good-humour; for she played with the greatest obligingness, with an expression and taste which were peculiarly becoming, and there was something clever to be said at the close of every air."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition or tendency to yield to the will of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition or tendency to yield to the will of others.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The harp arrived, and rather added to her beauty, wit, and good-humour; for she played with the greatest obligingness, with an expression and taste which were peculiarly becoming, and there was something clever to be said at the close of every air."*

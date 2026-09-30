@@ -5,13 +5,6 @@ status: unread
 ---
 # centare
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A centare is 1/100th of an are.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A centare is 1/100th of an are.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centare designates a centare is 1/100th of an are."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A centare is 1/100th of an are.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A centare is 1/100th of an are.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centare designates a centare is 1/100th of an are."*

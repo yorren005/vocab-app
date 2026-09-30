@@ -5,13 +5,6 @@ status: unread
 ---
 # tenured
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give life-time employment to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appointed for life and not subject to dismissal except for a grave crime.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenured designates give life-time employment to."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give life-time employment to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appointed for life and not subject to dismissal except for a grave crime.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenured designates give life-time employment to."*

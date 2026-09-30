@@ -5,13 +5,6 @@ status: unread
 ---
 # acoustics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with the production, control, transmission, reception, and effects of sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The qualities that determine the ability of an enclosure (such as an auditorium) to reflect sound waves in such a way as to produce distinct hearing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Because the acoustics, the resonance changes according as the weight of the water is equal to the law of falling water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with the production, control, transmission, reception, and effects of sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The qualities that determine the ability of an enclosure (such as an auditorium) to reflect sound waves in such a way as to produce distinct hearing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James Joyce (*Ulysses*):** *"Because the acoustics, the resonance changes according as the weight of the water is equal to the law of falling water."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # sarcoplasm
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cytoplasm of a striated muscle fiber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cytoplasm of a striated muscle fiber.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcoplasm designates the cytoplasm of a striated muscle fiber."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cytoplasm of a striated muscle fiber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cytoplasm of a striated muscle fiber.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sarcoplasm designates the cytoplasm of a striated muscle fiber."*

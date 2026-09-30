@@ -5,15 +5,6 @@ status: unread
 ---
 # intact
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting the undiminished entirety; lacking nothing essential especially not damaged; - bacon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a woman) having the hymen unbroken.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Surely then he might have regarded that abhorrence of the un-intact state, which he had inherited with the creed of mysticism, as at least open to correction when the result was due to treachery."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"And I'm also going to find some way to get him with all his absurd niceties of honor intact, just because that will make him happier."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That immaculate manliness we feel within ourselves, so far within us, that it remains intact though all the outer character seem gone; bleeds with keenest anguish at the undraped spectacle of a valor-ruined man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting the undiminished entirety; lacking nothing essential especially not damaged; - bacon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a woman) having the hymen unbroken.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Surely then he might have regarded that abhorrence of the un-intact state, which he had inherited with the creed of mysticism, as at least open to correction when the result was due to treachery."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"And I'm also going to find some way to get him with all his absurd niceties of honor intact, just because that will make him happier."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That immaculate manliness we feel within ourselves, so far within us, that it remains intact though all the outer character seem gone; bleeds with keenest anguish at the undraped spectacle of a valor-ruined man."*

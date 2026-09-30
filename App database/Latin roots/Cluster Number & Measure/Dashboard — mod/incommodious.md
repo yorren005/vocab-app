@@ -5,13 +5,6 @@ status: unread
 ---
 # incommodious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Uncomfortably or inconveniently small.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncomfortably or inconveniently small.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"It was very small, very dark, very ugly, very incommodious."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Uncomfortably or inconveniently small.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncomfortably or inconveniently small.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"It was very small, very dark, very ugly, very incommodious."*

@@ -5,20 +5,6 @@ status: unread
 ---
 # tawdry
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Cheap showy finery
-> 2. **Nuance / Usage**: Morally sordid, base, or distasteful
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Adjective.
-> - **Syntactic Constructions**: Functions attributively before a noun (*a tawdry presence*) or predicatively (*remained tawdry*).
-> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sir Walter Scott (*Quentin Durward*):** *"The rest of his dress—a dress always sufficiently tawdry—was overcharged with lace, embroidery, and ornament of every kind, and the plume of feathers which he wore was so high, as if intended to sweep the roof of the hall."*
-> - 📜 **Knut Hamsen (*{{w*):** *"This wasn't really a room for me; the green curtains before the windows were rather tawdry, and there was anything but an abundance of nails on the walls for hanging one's wardrobe."*
-> - 📜 **Alice Hegan Rice (*Calvary Alley*):** *"It was all cheap and incredibly tawdry, from the festoons of paper roses on the walls to the flash of paste jewels in make-believe crowns."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Showy, gaudy, and brightly adorned, but cheap and of poor quality.
+> 2. **Nuance / Usage**: Used figuratively to describe affairs, scandals, or conduct that is sleazy, sordid, cheap, and lacking in dignity or moral worth.
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Adjective.
+> - **Syntactic Constructions**: Functions attributively before a noun (*tawdry finery*) or predicatively (*looked cheap and tawdry*).
+> - **Collocations & Registers**: Delivers immediate physical or psychological contrast in descriptive and poetic registers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Sir Walter Scott (*Quentin Durward*):** *"The rest of his dress—a dress always sufficiently **tawdry**—was overcharged with lace, embroidery, and ornament of every kind."*
+> - 📜 **Alice Hegan Rice (*Calvary Alley*):** *"It was all cheap and incredibly **tawdry**, from the festoons of paper roses on the walls to the flash of paste jewels in make-believe crowns."*
+> - 📜 **Knut Hamsun (*Hunger*):** *"This wasn't really a room for me; the green curtains before the windows were rather **tawdry**, and there was scarcely a nail on the walls."*

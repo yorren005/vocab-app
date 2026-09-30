@@ -5,13 +5,6 @@ status: unread
 ---
 # fingerling
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young or small fish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young or small fish.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingerling designates a young or small fish."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A young or small fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young or small fish.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fingerling designates a young or small fish."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # computer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A machine for performing calculations automatically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert at calculation (or at operating calculating machines).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Out." Keeper's message simultaneously loaded into the recon-patroller's computer as authenticator for the mission and demolition and laser gun settings."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The computer adjusted thrust and vector to bring the ship to the 'fire' point and engage the countdown and sequence to launch, arm the warhead, and follow up."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Without warning, the computer froze."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A machine for performing calculations automatically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert at calculation (or at operating calculating machines).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Out." Keeper's message simultaneously loaded into the recon-patroller's computer as authenticator for the mission and demolition and laser gun settings."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The computer adjusted thrust and vector to bring the ship to the 'fire' point and engage the countdown and sequence to launch, arm the warhead, and follow up."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Without warning, the computer froze."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # liquify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make (a solid substance) liquid, as by heating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become liquid or fluid when heated.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The following is a brave attempt at a solution, but it failed to liquify: When they are going to say some prose or poetry before they say the poetry or prose they must put a semicolon just after the introduction of the prose or poetry."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make (a solid substance) liquid, as by heating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become liquid or fluid when heated.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The following is a brave attempt at a solution, but it failed to liquify: When they are going to say some prose or poetry before they say the poetry or prose they must put a semicolon just after the introduction of the prose or poetry."*

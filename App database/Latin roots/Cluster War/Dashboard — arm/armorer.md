@@ -5,13 +5,6 @@ status: unread
 ---
 # armorer
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker skilled in making armor or arms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enlisted man responsible for the upkeep of small arms and machine guns etc.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"Preston; four corporals, one bugler, one armorer, and one hospital steward, with sixty-eight privates."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker skilled in making armor or arms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enlisted man responsible for the upkeep of small arms and machine guns etc.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"Preston; four corporals, one bugler, one armorer, and one hospital steward, with sixty-eight privates."*

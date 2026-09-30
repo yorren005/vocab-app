@@ -5,13 +5,6 @@ status: unread
 ---
 # lignite
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intermediate between peat and bituminous coal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intermediate between peat and bituminous coal.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I went through gallery after gallery, dusty, silent, often ruinous, the exhibits sometimes mere heaps of rust and lignite, sometimes fresher."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intermediate between peat and bituminous coal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intermediate between peat and bituminous coal.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I went through gallery after gallery, dusty, silent, often ruinous, the exhibits sometimes mere heaps of rust and lignite, sometimes fresher."*

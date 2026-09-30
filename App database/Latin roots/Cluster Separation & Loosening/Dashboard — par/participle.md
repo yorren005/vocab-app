@@ -5,14 +5,6 @@ status: unread
 ---
 # participle
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-finite form of the verb; in english it is used adjectivally and to form compound tenses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A non-finite form of the verb; in english it is used adjectivally and to form compound tenses.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Baptized, we are enlightened; enlightened, we are made sons; made sons we are perfected; made perfect we become immortal [all these verbs and participles are in the present]."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"The first project was to shorten discourse by cutting polysyllables into one, and leaving out verbs and participles, because, in reality, all things imaginable are but nouns."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-finite form of the verb; in english it is used adjectivally and to form compound tenses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A non-finite form of the verb; in english it is used adjectivally and to form compound tenses.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Baptized, we are enlightened; enlightened, we are made sons; made sons we are perfected; made perfect we become immortal [all these verbs and participles are in the present]."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"The first project was to shorten discourse by cutting polysyllables into one, and leaving out verbs and participles, because, in reality, all things imaginable are but nouns."*

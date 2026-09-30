@@ -5,15 +5,6 @@ status: unread
 ---
 # unprejudiced
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from undue bias or preconceived opinions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from undue bias or preconceived opinions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Hear the truth, therefore, now, while you are unprejudiced."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Thorpe’s lodgings, and the feelings of the discerning and unprejudiced reader of Camilla gave way to the feelings of the dutiful and affectionate son, as they met Mrs."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"To ease her mind, and ascertain by the opinion of an unprejudiced person what her own conduct had really been, she took occasion to mention before Mr."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from undue bias or preconceived opinions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from undue bias or preconceived opinions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"Hear the truth, therefore, now, while you are unprejudiced."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Thorpe’s lodgings, and the feelings of the discerning and unprejudiced reader of Camilla gave way to the feelings of the dutiful and affectionate son, as they met Mrs."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"To ease her mind, and ascertain by the opinion of an unprejudiced person what her own conduct had really been, she took occasion to mention before Mr."*

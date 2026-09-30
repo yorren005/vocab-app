@@ -5,13 +5,6 @@ status: unread
 ---
 # supraorbital
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Located or occurring above the eye socket.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located or occurring above the eye socket.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supraorbital designates located or occurring above the eye socket."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Located or occurring above the eye socket.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located or occurring above the eye socket.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supraorbital designates located or occurring above the eye socket."*

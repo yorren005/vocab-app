@@ -5,13 +5,6 @@ status: unread
 ---
 # collectivise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring under collective control; of farms and industrial enterprises.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring under collective control; of farms and industrial enterprises.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collectivise designates bring under collective control; of farms and industrial enterprises."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring under collective control; of farms and industrial enterprises.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring under collective control; of farms and industrial enterprises.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collectivise designates bring under collective control; of farms and industrial enterprises."*

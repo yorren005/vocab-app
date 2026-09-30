@@ -5,14 +5,6 @@ status: unread
 ---
 # alberti
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian architect and painter; pioneering theoretician of renaissance architecture (1404-1472).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian architect and painter; pioneering theoretician of renaissance architecture (1404-1472).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Alberti (_De Kaffersaan de Zuidkust van Afrika_, Amsterdam, 1810, p. 79), George Thompson (_Travels and Adventures in Southern Africa_, London, 1827, ii. 354 _sq._), and Mr."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Alberti, _De Kaffers aan de Zuidkust van Afrika_ (Amsterdam, 1810), pp. 79 _sq._; H."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian architect and painter; pioneering theoretician of renaissance architecture (1404-1472).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian architect and painter; pioneering theoretician of renaissance architecture (1404-1472).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Alberti (_De Kaffersaan de Zuidkust van Afrika_, Amsterdam, 1810, p. 79), George Thompson (_Travels and Adventures in Southern Africa_, London, 1827, ii. 354 _sq._), and Mr."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Alberti, _De Kaffers aan de Zuidkust van Afrika_ (Amsterdam, 1810), pp. 79 _sq._; H."*

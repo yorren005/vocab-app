@@ -5,14 +5,6 @@ status: unread
 ---
 # trepang
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of warm coasts from australia to asia; used as food especially by chinese.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of warm coasts from australia to asia; used as food especially by chinese.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The chief products of the country are mother-of-pearl shell, Beche-de-mer (or trepang), copra, and tortoise-shell."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Beche-de-mer or "Trepang" is a kind of sea slug, and is found on the reefs in a few feet of water."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of warm coasts from australia to asia; used as food especially by chinese.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of warm coasts from australia to asia; used as food especially by chinese.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The chief products of the country are mother-of-pearl shell, Beche-de-mer (or trepang), copra, and tortoise-shell."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Beche-de-mer or "Trepang" is a kind of sea slug, and is found on the reefs in a few feet of water."*

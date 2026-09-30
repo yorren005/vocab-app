@@ -5,20 +5,6 @@ status: unread
 ---
 # sojourn
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Temporary stay
-> 2. **Nuance / Usage**: Short stay somewhere
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the sojourn withstood the storm*), direct object (*cleaved the sojourn*), or prepositional anchor (*amidst the sojourn*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Where shall we sojourn till our coronation?"*
-> - 📜 **Washington Irving (*The Sketch Book*):** *"author’s account of his sojourn at Newstead Abbey."*
-> - 📜 **Bram Stoker (*Dracula*):** *"knowledge during his sojourn here."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Temporary stay
+> 2. **Nuance / Usage**: Short stay somewhere
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the sojourn withstood the storm*), direct object (*cleaved the sojourn*), or prepositional anchor (*amidst the sojourn*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Where shall we sojourn till our coronation?"*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"author’s account of his sojourn at Newstead Abbey."*
+> - 📜 **Bram Stoker (*Dracula*):** *"knowledge during his sojourn here."*

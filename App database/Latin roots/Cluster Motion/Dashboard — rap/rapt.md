@@ -5,15 +5,6 @@ status: unread
 ---
 # rapt
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling great rapture or delight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling great rapture or delight.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that I see thee here, Thou noble thing, more dances my rapt heart Than when I first my wedded mistress saw Bestride my threshold."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My noble partner You greet with present grace and great prediction Of noble having and of royal hope, That he seems rapt withal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are rapt, sir, in some work, some dedication To the great lord."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling great rapture or delight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling great rapture or delight.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that I see thee here, Thou noble thing, more dances my rapt heart Than when I first my wedded mistress saw Bestride my threshold."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My noble partner You greet with present grace and great prediction Of noble having and of royal hope, That he seems rapt withal."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are rapt, sir, in some work, some dedication To the great lord."*

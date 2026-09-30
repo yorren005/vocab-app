@@ -5,13 +5,6 @@ status: unread
 ---
 # call-back
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A return call.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The recall of an employee after a layoff.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, call-back designates a return call."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A return call.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The recall of an employee after a layoff.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, call-back designates a return call."*

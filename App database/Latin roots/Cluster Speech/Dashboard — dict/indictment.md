@@ -5,15 +5,6 @@ status: unread
 ---
 # indictment
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal document written for a prosecuting attorney charging a person with some offense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An accusation of wrongdoing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, there is another indictment upon thee, for suffering flesh to be eaten in thy house, contrary to the law, for the which I think thou wilt howl."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is the indictment of the good Lord Hastings, Which in a set hand fairly is engrossed, That it may be today read o’er in Paul’s."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The indictment contained a great many counts, and charged the prisoner with the murder of Nina San Croix by striking, stabbing, choking, poisoning, and so forth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal document written for a prosecuting attorney charging a person with some offense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An accusation of wrongdoing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, there is another indictment upon thee, for suffering flesh to be eaten in thy house, contrary to the law, for the which I think thou wilt howl."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is the indictment of the good Lord Hastings, Which in a set hand fairly is engrossed, That it may be today read o’er in Paul’s."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The indictment contained a great many counts, and charged the prisoner with the murder of Nina San Croix by striking, stabbing, choking, poisoning, and so forth."*

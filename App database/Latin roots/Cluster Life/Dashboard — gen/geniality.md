@@ -5,15 +5,6 @@ status: unread
 ---
 # geniality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition to be friendly and approachable (easy to talk to).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to be friendly and approachable (easy to talk to).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Bernard's fluent geniality struck him as too good to be true--it was not in Bernard's line: and why translate a close friendship into "meeting once or twice"?"*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Henry Baker, I believe,” said he, rising from his armchair and greeting his visitor with the easy air of geniality which he could so readily assume."*
-> - 📜 **Effie Afton (*Eventide*):** *"Edson was everywhere, gliding, like the spirit of grace and beauty, among her guests, enlivening them by her humor, and spreading a rich glow of geniality through the apartments."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition to be friendly and approachable (easy to talk to).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to be friendly and approachable (easy to talk to).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Anthony Pryde (*Nightfall*):** *"Bernard's fluent geniality struck him as too good to be true--it was not in Bernard's line: and why translate a close friendship into "meeting once or twice"?"*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Henry Baker, I believe,” said he, rising from his armchair and greeting his visitor with the easy air of geniality which he could so readily assume."*
+> - 📜 **Effie Afton (*Eventide*):** *"Edson was everywhere, gliding, like the spirit of grace and beauty, among her guests, enlivening them by her humor, and spreading a rich glow of geniality through the apartments."*

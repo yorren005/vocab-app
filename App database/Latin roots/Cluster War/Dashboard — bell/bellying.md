@@ -5,14 +5,6 @@ status: unread
 ---
 # bellying
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swell out or bulge out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curving outward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"I'd be woe for the outside, for the sunshine and the water and the bellying winds--" His Uncle Robin tapped the window-pane of the club and thought hard."*
-> - 📜 **James Joyce (*Ulysses*):** *"The milkwhite dolphin tossed his mane and, rising in the golden poop the helmsman spread the bellying sail upon the wind and stood off forward with all sail set, the spinnaker to larboard."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Swell out or bulge out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curving outward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"I'd be woe for the outside, for the sunshine and the water and the bellying winds--" His Uncle Robin tapped the window-pane of the club and thought hard."*
+> - 📜 **James Joyce (*Ulysses*):** *"The milkwhite dolphin tossed his mane and, rising in the golden poop the helmsman spread the bellying sail upon the wind and stood off forward with all sail set, the spinnaker to larboard."*

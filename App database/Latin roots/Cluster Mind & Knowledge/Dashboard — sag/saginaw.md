@@ -5,13 +5,6 @@ status: unread
 ---
 # saginaw
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in east central michigan on an arm of lake huron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in east central michigan on an arm of lake huron.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saginaw designates a town in east central michigan on an arm of lake huron."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in east central michigan on an arm of lake huron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in east central michigan on an arm of lake huron.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saginaw designates a town in east central michigan on an arm of lake huron."*

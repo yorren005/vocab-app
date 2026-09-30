@@ -5,18 +5,6 @@ status: unread
 ---
 # chisel
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Cut or work with or as if with a chisel
-> 2. **Nuance / Usage**: (transitive) to work something with a chisel
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Noun (count & mass).
-> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the chisel withstood the storm*), direct object (*cleaved the chisel*), or prepositional anchor (*amidst the chisel*).
-> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Have you the chisel and the bags?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -52,3 +40,15 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Cut or work with or as if with a chisel
+> 2. **Nuance / Usage**: (transitive) to work something with a chisel
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Noun (count & mass).
+> - **Syntactic Constructions**: Functions as a concrete grammatical subject (*the chisel withstood the storm*), direct object (*cleaved the chisel*), or prepositional anchor (*amidst the chisel*).
+> - **Collocations & Registers**: Atmospheric and material registers; paired with tactile descriptors and archaic Saxon cadences.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Have you the chisel and the bags?"*

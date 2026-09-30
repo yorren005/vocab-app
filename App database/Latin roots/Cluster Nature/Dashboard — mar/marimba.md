@@ -5,13 +5,6 @@ status: unread
 ---
 # marimba
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A percussion instrument with wooden bars tuned to produce a chromatic scale and with resonators; played with small mallets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A percussion instrument with wooden bars tuned to produce a chromatic scale and with resonators; played with small mallets.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marimba designates a percussion instrument with wooden bars tuned to produce a chromatic scale and with resonators; played with small mallets."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A percussion instrument with wooden bars tuned to produce a chromatic scale and with resonators; played with small mallets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A percussion instrument with wooden bars tuned to produce a chromatic scale and with resonators; played with small mallets.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, marimba designates a percussion instrument with wooden bars tuned to produce a chromatic scale and with resonators; played with small mallets."*

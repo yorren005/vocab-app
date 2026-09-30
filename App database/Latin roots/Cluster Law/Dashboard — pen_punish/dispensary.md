@@ -5,15 +5,6 @@ status: unread
 ---
 # dispensary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clinic where medicine and medical supplies are dispensed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clinic where medicine and medical supplies are dispensed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He told of his power in the prison by virtue of his being trusty in the Warden’s office, and because of the fact that he had the run of the dispensary."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He claimed that he must have time in which to steal the dope from the dispensary."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The next morning, following instructions, I reported to the dispensary for vaccinations and immunization shots and on to the Personnel Office to sign papers that came at me from all directions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clinic where medicine and medical supplies are dispensed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clinic where medicine and medical supplies are dispensed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He told of his power in the prison by virtue of his being trusty in the Warden’s office, and because of the fact that he had the run of the dispensary."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He claimed that he must have time in which to steal the dope from the dispensary."*
+> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The next morning, following instructions, I reported to the dispensary for vaccinations and immunization shots and on to the Personnel Office to sign papers that came at me from all directions."*

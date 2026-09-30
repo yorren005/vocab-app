@@ -5,13 +5,6 @@ status: unread
 ---
 # countertransference
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The psychoanalyst's displacement of emotion onto the patient or more generally the psychoanalyst's emotional involvement in the therapeutic interaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The psychoanalyst's displacement of emotion onto the patient or more generally the psychoanalyst's emotional involvement in the therapeutic interaction.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, countertransference designates the psychoanalyst's displacement of emotion onto the patient or more generally the psychoanalyst's emotional involvement in the therapeutic interaction."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The psychoanalyst's displacement of emotion onto the patient or more generally the psychoanalyst's emotional involvement in the therapeutic interaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The psychoanalyst's displacement of emotion onto the patient or more generally the psychoanalyst's emotional involvement in the therapeutic interaction.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, countertransference designates the psychoanalyst's displacement of emotion onto the patient or more generally the psychoanalyst's emotional involvement in the therapeutic interaction."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # cyclosporeae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In more recent classifications superseded by the order fucales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In more recent classifications superseded by the order fucales.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclosporeae designates in more recent classifications superseded by the order fucales."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In more recent classifications superseded by the order fucales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In more recent classifications superseded by the order fucales.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclosporeae designates in more recent classifications superseded by the order fucales."*

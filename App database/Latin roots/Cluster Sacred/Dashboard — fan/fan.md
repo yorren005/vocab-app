@@ -5,15 +5,6 @@ status: unread
 ---
 # fan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device for creating a current of air by movement of a surface or surfaces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enthusiastic devotee of sports.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, no, although The air of paradise did fan the house, And angels offic’d all."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His captain’s heart, Which in the scuffles of great fights hath burst The buckles on his breast, reneges all temper And is become the bellows and the fan To cool a gipsy’s lust."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And here remain with your uncertainty; Let every feeble rumour shake your hearts; Your enemies, with nodding of their plumes, Fan you into despair!"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device for creating a current of air by movement of a surface or surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enthusiastic devotee of sports.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, no, although The air of paradise did fan the house, And angels offic’d all."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His captain’s heart, Which in the scuffles of great fights hath burst The buckles on his breast, reneges all temper And is become the bellows and the fan To cool a gipsy’s lust."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And here remain with your uncertainty; Let every feeble rumour shake your hearts; Your enemies, with nodding of their plumes, Fan you into despair!"*

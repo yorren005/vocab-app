@@ -5,15 +5,6 @@ status: unread
 ---
 # cordiality
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cordial disposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cordial disposition.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket with extreme cordiality."*
-> - 📜 **Jane Austen (*Persuasion*):** *"They were received with great cordiality."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Anne entered it with a sinking heart, anticipating an imprisonment of many months, and anxiously saying to herself, “Oh! when shall I leave you again?” A degree of unexpected cordiality, however, in the welcome she received, did her good."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cordial disposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cordial disposition.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket with extreme cordiality."*
+> - 📜 **Jane Austen (*Persuasion*):** *"They were received with great cordiality."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne entered it with a sinking heart, anticipating an imprisonment of many months, and anxiously saying to herself, “Oh! when shall I leave you again?” A degree of unexpected cordiality, however, in the welcome she received, did her good."*

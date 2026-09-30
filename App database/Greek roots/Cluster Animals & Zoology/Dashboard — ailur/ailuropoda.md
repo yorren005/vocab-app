@@ -5,13 +5,6 @@ status: unread
 ---
 # ailuropoda
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Only the giant panda: in some classifications considered a genus of the separate family ailuropodidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Only the giant panda: in some classifications considered a genus of the separate family ailuropodidae.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ailuropoda designates only the giant panda: in some classifications considered a genus of the separate family ailuropodidae."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Only the giant panda: in some classifications considered a genus of the separate family ailuropodidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Only the giant panda: in some classifications considered a genus of the separate family ailuropodidae.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ailuropoda designates only the giant panda: in some classifications considered a genus of the separate family ailuropodidae."*

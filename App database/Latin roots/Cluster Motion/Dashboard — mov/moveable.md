@@ -5,15 +5,6 @@ status: unread
 ---
 # moveable
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being moved or conveyed from one place to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being moved or conveyed from one place to another.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I knew you at the first, You were a moveable."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"He had bequeathed the whole of his, and what had been her, moveable property, to his father: the poor creature was threatened, or coaxed, into that act during her week’s absence, when his uncle died."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"It was indeed a moveable pair of stairs, the lowest end placed at ten feet distance from the wall of the chamber."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being moved or conveyed from one place to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being moved or conveyed from one place to another.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I knew you at the first, You were a moveable."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"He had bequeathed the whole of his, and what had been her, moveable property, to his father: the poor creature was threatened, or coaxed, into that act during her week’s absence, when his uncle died."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"It was indeed a moveable pair of stairs, the lowest end placed at ten feet distance from the wall of the chamber."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # haloperidol
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tranquilizer (trade name haldol) used to treat some psychotic disorders and tourette's syndrome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tranquilizer (trade name haldol) used to treat some psychotic disorders and tourette's syndrome.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haloperidol designates tranquilizer (trade name haldol) used to treat some psychotic disorders and tourette's syndrome."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tranquilizer (trade name haldol) used to treat some psychotic disorders and tourette's syndrome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tranquilizer (trade name haldol) used to treat some psychotic disorders and tourette's syndrome.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haloperidol designates tranquilizer (trade name haldol) used to treat some psychotic disorders and tourette's syndrome."*

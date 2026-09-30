@@ -5,13 +5,6 @@ status: unread
 ---
 # myasthenia gravis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease that is characterized by progressive weakness and exhaustibility of voluntary muscles without atrophy and is caused by an autoimmune attack on muscle cell receptors which normally bind to acetylcholine released at nerve endings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease that is characterized by progressive weakness and exhaustibility of voluntary muscles without atrophy and is caused by an autoimmune attack on muscle cell receptors which normally bind to acetylcholine released at nerve endings.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myasthenia gravis designates a disease that is characterized by progressive weakness and exhaustibility of voluntary muscles without atrophy and is caused by an autoimmune attack on muscle cell receptors which normally bind to acetylcholine released at nerve endings."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease that is characterized by progressive weakness and exhaustibility of voluntary muscles without atrophy and is caused by an autoimmune attack on muscle cell receptors which normally bind to acetylcholine released at nerve endings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease that is characterized by progressive weakness and exhaustibility of voluntary muscles without atrophy and is caused by an autoimmune attack on muscle cell receptors which normally bind to acetylcholine released at nerve endings.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myasthenia gravis designates a disease that is characterized by progressive weakness and exhaustibility of voluntary muscles without atrophy and is caused by an autoimmune attack on muscle cell receptors which normally bind to acetylcholine released at nerve endings."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # discursive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Proceeding to a conclusion by reason or argument rather than intuition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of e.g. speech and writing) tending to depart from the main point or cover a wide range of subjects.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I had not got far into it, when I judged from her looks that she was thinking in a discursive way of me, rather than of what I said."*
-> - 📜 **George Eliot (*Middlemarch*):** *"What could she do, what ought she to do?—she, hardly more than a budding woman, but yet with an active conscience and a great mental need, not to be satisfied by a girlish instruction comparable to the nibblings and judgments of a discursive mouse."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"No poetry in English literature, or in any literature, is more charged with discursive thought than his."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Proceeding to a conclusion by reason or argument rather than intuition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of e.g. speech and writing) tending to depart from the main point or cover a wide range of subjects.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I had not got far into it, when I judged from her looks that she was thinking in a discursive way of me, rather than of what I said."*
+> - 📜 **George Eliot (*Middlemarch*):** *"What could she do, what ought she to do?—she, hardly more than a budding woman, but yet with an active conscience and a great mental need, not to be satisfied by a girlish instruction comparable to the nibblings and judgments of a discursive mouse."*
+> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"No poetry in English literature, or in any literature, is more charged with discursive thought than his."*

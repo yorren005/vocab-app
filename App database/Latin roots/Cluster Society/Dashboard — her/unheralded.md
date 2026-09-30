@@ -5,15 +5,6 @@ status: unread
 ---
 # unheralded
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without warning or announcement; ; - m.a.d.howe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without warning or announcement; ; - m.a.d.howe.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"But I rebel at an unheralded ghostland, and declare frankly that your tale is incredible."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"As one of the many interesting episodes of the war, it has seemed that her good deeds should not be unheralded."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The author of the _Acts_ cites precedents for his action; and, as no great movement in man's affairs comes unheralded, it is easy to believe that even before Paul "the word" reached Gentile ears."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without warning or announcement; ; - m.a.d.howe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without warning or announcement; ; - m.a.d.howe.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"But I rebel at an unheralded ghostland, and declare frankly that your tale is incredible."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"As one of the many interesting episodes of the war, it has seemed that her good deeds should not be unheralded."*
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The author of the _Acts_ cites precedents for his action; and, as no great movement in man's affairs comes unheralded, it is easy to believe that even before Paul "the word" reached Gentile ears."*

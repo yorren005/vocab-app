@@ -5,13 +5,6 @@ status: unread
 ---
 # devitrify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become crystalline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (glassy materials) brittle or opaque.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, devitrify designates become crystalline."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Become crystalline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (glassy materials) brittle or opaque.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, devitrify designates become crystalline."*

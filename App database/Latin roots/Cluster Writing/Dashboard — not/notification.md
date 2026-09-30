@@ -5,15 +5,6 @@ status: unread
 ---
 # notification
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An accusation of crime made by a grand jury on its own initiative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informing by words.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The promised notification was hanging over her head."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The advance notification to control center was inoperative."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"I shan’t send any notification to the Committee before nine o’clock, old chap."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An accusation of crime made by a grand jury on its own initiative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informing by words.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The promised notification was hanging over her head."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The advance notification to control center was inoperative."*
+> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"I shan’t send any notification to the Committee before nine o’clock, old chap."*

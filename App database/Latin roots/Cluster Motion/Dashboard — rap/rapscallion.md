@@ -5,15 +5,6 @@ status: unread
 ---
 # rapscallion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deceitful and unreliable scoundrel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who is playfully mischievous.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"There is where the money goes he wheedles out of me every week; but I'll fix the young rapscallion."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The devil fetch ye, ye ragamuffin rapscallions; ye are all asleep."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"McLeans from the byre, The hamlet, the city, the wide open plains, The lairds and rapscallions fill up the battalions With blue blood, with true blood, the loyal McLeans."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deceitful and unreliable scoundrel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who is playfully mischievous.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Effie Afton (*Eventide*):** *"There is where the money goes he wheedles out of me every week; but I'll fix the young rapscallion."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The devil fetch ye, ye ragamuffin rapscallions; ye are all asleep."*
+> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"McLeans from the byre, The hamlet, the city, the wide open plains, The lairds and rapscallions fill up the battalions With blue blood, with true blood, the loyal McLeans."*

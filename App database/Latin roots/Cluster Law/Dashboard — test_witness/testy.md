@@ -5,15 +5,6 @@ status: unread
 ---
 # testy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily irritated or annoyed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily irritated or annoyed.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I might teach thee wit better it were, Though not to love, yet love to tell me so, As testy sick men when their deaths be near, No news but health from their physicians know."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, then you should discover a brace of unmeriting, proud, violent, testy magistrates, alias fools, as any in Rome."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Must I stand and crouch Under your testy humour?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily irritated or annoyed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily irritated or annoyed.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I might teach thee wit better it were, Though not to love, yet love to tell me so, As testy sick men when their deaths be near, No news but health from their physicians know."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, then you should discover a brace of unmeriting, proud, violent, testy magistrates, alias fools, as any in Rome."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Must I stand and crouch Under your testy humour?"*

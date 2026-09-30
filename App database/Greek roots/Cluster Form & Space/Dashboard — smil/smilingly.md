@@ -5,15 +5,6 @@ status: unread
 ---
 # smilingly
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With smiles; in a smiling manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With smiles; in a smiling manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the regions Do smilingly revolt, and who resists Are mocked for valiant ignorance And perish constant fools."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But his flaw’d heart, Alack, too weak the conflict to support! ’Twixt two extremes of passion, joy and grief, Burst smilingly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At last she smilingly with this gives o’er; “Fool, fool!” quoth she, “his wounds will not be sore.” Thus ebbs and flows the current of her sorrow, And time doth weary time with her complaining."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With smiles; in a smiling manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With smiles; in a smiling manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the regions Do smilingly revolt, and who resists Are mocked for valiant ignorance And perish constant fools."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But his flaw’d heart, Alack, too weak the conflict to support! ’Twixt two extremes of passion, joy and grief, Burst smilingly."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At last she smilingly with this gives o’er; “Fool, fool!” quoth she, “his wounds will not be sore.” Thus ebbs and flows the current of her sorrow, And time doth weary time with her complaining."*

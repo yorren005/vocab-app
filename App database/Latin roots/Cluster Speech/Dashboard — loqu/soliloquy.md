@@ -5,15 +5,6 @@ status: unread
 ---
 # soliloquy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speech you make to yourself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A (usually long) dramatic speech intended to give the illusion of unspoken reflections.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This woman was not given to soliloquy; but extremity of feeling lessens the individuality of the weak, as it increases that of the strong."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Then a man’s voice from the adjoining bedroom— “What’s the matter?” She did not answer, but went on, in a tone which was a soliloquy rather than an exclamation, and a dirge rather than a soliloquy."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My strength is quite failing me,” I said in a soliloquy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speech you make to yourself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A (usually long) dramatic speech intended to give the illusion of unspoken reflections.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This woman was not given to soliloquy; but extremity of feeling lessens the individuality of the weak, as it increases that of the strong."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Then a man’s voice from the adjoining bedroom— “What’s the matter?” She did not answer, but went on, in a tone which was a soliloquy rather than an exclamation, and a dirge rather than a soliloquy."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My strength is quite failing me,” I said in a soliloquy."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # quinsy
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A painful pus filled inflammation of the tonsils and surrounding tissues; usually a complication of tonsillitis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A painful pus filled inflammation of the tonsils and surrounding tissues; usually a complication of tonsillitis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He’d had the quinsy and swollen glands when he was young, he told me, and it had left him with a weak throat, and a hesitating, whispering fashion of speech."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The wolf paused, turned its heavy forehead toward the dogs awkwardly, like a man suffering from the quinsy, and, still slightly swaying from side to side, gave a couple of leaps and with a swish of its tail disappeared into the skirt of the wood."*
-> - 📜 **James Joyce (*Ulysses*):** *"She is a hoary pandemonium of ills, enlarged glands, mumps, quinsy, bunions, hayfever, bedsores, ringworm, floating kidney, Derbyshire neck, warts, bilious attacks, gallstones, cold feet, varicose veins."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A painful pus filled inflammation of the tonsils and surrounding tissues; usually a complication of tonsillitis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A painful pus filled inflammation of the tonsils and surrounding tissues; usually a complication of tonsillitis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He’d had the quinsy and swollen glands when he was young, he told me, and it had left him with a weak throat, and a hesitating, whispering fashion of speech."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The wolf paused, turned its heavy forehead toward the dogs awkwardly, like a man suffering from the quinsy, and, still slightly swaying from side to side, gave a couple of leaps and with a swish of its tail disappeared into the skirt of the wood."*
+> - 📜 **James Joyce (*Ulysses*):** *"She is a hoary pandemonium of ills, enlarged glands, mumps, quinsy, bunions, hayfever, bedsores, ringworm, floating kidney, Derbyshire neck, warts, bilious attacks, gallstones, cold feet, varicose veins."*

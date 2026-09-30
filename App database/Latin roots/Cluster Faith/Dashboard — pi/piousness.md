@@ -5,13 +5,6 @@ status: unread
 ---
 # piousness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Righteousness by virtue of being pious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Righteousness by virtue of being pious.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, piousness designates righteousness by virtue of being pious."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Righteousness by virtue of being pious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Righteousness by virtue of being pious.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, piousness designates righteousness by virtue of being pious."*

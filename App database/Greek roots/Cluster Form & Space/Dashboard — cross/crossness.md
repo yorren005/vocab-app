@@ -5,15 +5,6 @@ status: unread
 ---
 # crossness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An irritable petulant feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to be ill-tempered.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hero thinks surely she will die; for she says she will die if he love her not, and she will die ere she make her love known, and she will die if he woo her, rather than she will bate one breath of her accustomed crossness."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I pleaded the greatest fatigue and my impatience amounted to crossness."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"She sat down and played with them a little, but the thought of her husband and his unreasonable crossness worried her."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irritable petulant feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to be ill-tempered.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hero thinks surely she will die; for she says she will die if he love her not, and she will die ere she make her love known, and she will die if he woo her, rather than she will bate one breath of her accustomed crossness."*
+> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I pleaded the greatest fatigue and my impatience amounted to crossness."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"She sat down and played with them a little, but the thought of her husband and his unreasonable crossness worried her."*

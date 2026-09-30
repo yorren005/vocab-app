@@ -5,15 +5,6 @@ status: unread
 ---
 # vigour
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Forceful exertion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Active strength of body or mind.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In verity, you did; my bones bear witness, That since have felt the vigour of his rage."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will try the forces Of these thy compounds on such creatures as We count not worth the hanging (but none human) To try the vigour of them, and apply Allayments to their act, and by them gather Their several virtues and effects."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The grappling vigour and rough frown of war Is cold in amity and painted peace, And our oppression hath made up this league."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forceful exertion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Active strength of body or mind.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In verity, you did; my bones bear witness, That since have felt the vigour of his rage."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will try the forces Of these thy compounds on such creatures as We count not worth the hanging (but none human) To try the vigour of them, and apply Allayments to their act, and by them gather Their several virtues and effects."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The grappling vigour and rough frown of war Is cold in amity and painted peace, And our oppression hath made up this league."*

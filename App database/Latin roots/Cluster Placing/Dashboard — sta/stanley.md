@@ -5,15 +5,6 @@ status: unread
 ---
 # stanley
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states inventor who built a steam-powered automobile (1849-1918).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Welsh journalist and explorer who led an expedition to africa in search of david livingstone and found him in tanzania in 1871; he and livingstone together tried to find the source of the nile river (1841-1904).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You, madam, for you are more nobly born, Despoiled of your honour in your life, Shall, after three days’ open penance done, Live in your country here in banishment, With Sir John Stanley in the Isle of Man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the Duchess of Gloucester in a white sheet, and a taper burning in her hand; with Sir John Stanley, the Sheriff, and Officers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An ’t please your grace, here my commission stays, And Sir John Stanley is appointed now To take her with him to the Isle of Man."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: United states inventor who built a steam-powered automobile (1849-1918).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Welsh journalist and explorer who led an expedition to africa in search of david livingstone and found him in tanzania in 1871; he and livingstone together tried to find the source of the nile river (1841-1904).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You, madam, for you are more nobly born, Despoiled of your honour in your life, Shall, after three days’ open penance done, Live in your country here in banishment, With Sir John Stanley in the Isle of Man."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the Duchess of Gloucester in a white sheet, and a taper burning in her hand; with Sir John Stanley, the Sheriff, and Officers."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An ’t please your grace, here my commission stays, And Sir John Stanley is appointed now To take her with him to the Isle of Man."*

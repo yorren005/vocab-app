@@ -5,15 +5,6 @@ status: unread
 ---
 # hellespont
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The strait between the aegean and the sea of marmara that separates european turkey from asian turkey.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The strait between the aegean and the sea of marmara that separates european turkey from asian turkey.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That’s on some shallow story of deep love, How young Leander crossed the Hellespont."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"VALENTINE. ’Tis true; for you are over boots in love, And yet you never swam the Hellespont."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"But finding fault with the vagaries of a poet's fancy is much such another business as Xerxes chastising the waves of Hellespont."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The strait between the aegean and the sea of marmara that separates european turkey from asian turkey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The strait between the aegean and the sea of marmara that separates european turkey from asian turkey.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That’s on some shallow story of deep love, How young Leander crossed the Hellespont."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"VALENTINE. ’Tis true; for you are over boots in love, And yet you never swam the Hellespont."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"But finding fault with the vagaries of a poet's fancy is much such another business as Xerxes chastising the waves of Hellespont."*

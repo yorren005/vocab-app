@@ -5,13 +5,6 @@ status: unread
 ---
 # inexplicitness
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unclearness by virtue of not being explicit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unclearness by virtue of not being explicit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Waiving any exception that might be taken to the inaccuracy or inexplicitness of the distinction between internal and external, let us inquire what ground there is to presuppose that disinclination in the people."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unclearness by virtue of not being explicit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unclearness by virtue of not being explicit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Waiving any exception that might be taken to the inaccuracy or inexplicitness of the distinction between internal and external, let us inquire what ground there is to presuppose that disinclination in the people."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # lignum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Woody tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Woody tissue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"For Lignum, he’s tied so close now, and gets so little exercise, that a walk does him good."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Don’t tell me there’s anything wrong about that security of Lignum’s!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I trust my old Lignum to you, and I am sure you’ll bring him through it.” The trooper returns that this is kindly said and that he WILL bring Lignum through it somehow."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Woody tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Woody tissue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"For Lignum, he’s tied so close now, and gets so little exercise, that a walk does him good."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Don’t tell me there’s anything wrong about that security of Lignum’s!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I trust my old Lignum to you, and I am sure you’ll bring him through it.” The trooper returns that this is kindly said and that he WILL bring Lignum through it somehow."*

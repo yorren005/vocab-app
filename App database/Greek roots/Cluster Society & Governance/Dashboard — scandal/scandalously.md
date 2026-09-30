@@ -5,15 +5,6 @@ status: unread
 ---
 # scandalously
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a scandalous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a scandalous manner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Some said, that the Vincys had behaved scandalously, that Mr."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It was scandalously late—I actually believe he had talked with Auntie in the ballroom, and learned from her that I was alone."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"Some of our most inspiring "successes" are all right on paper, but in reality they are stuffed and padded scandalously."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a scandalous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a scandalous manner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"Some said, that the Vincys had behaved scandalously, that Mr."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It was scandalously late—I actually believe he had talked with Auntie in the ballroom, and learned from her that I was alone."*
+> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"Some of our most inspiring "successes" are all right on paper, but in reality they are stuffed and padded scandalously."*

@@ -5,14 +5,6 @@ status: unread
 ---
 # hellebore
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial herbs of the lily family having thick toxic rhizomes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the eurasian genus helleborus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Orion: There is nothing but what will do you good; And the drugs are simples; 'tis hellebore, Nepenthe, upas, and dragon's blood, Absinthe, and mandrake, and mandragore."*
-> - 📜 **John Keats (*Poems 1817*):** *"Of thy dark hair that extends Into many graceful bends: As the leaves of Hellebore Turn to whence they sprung before."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial herbs of the lily family having thick toxic rhizomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the eurasian genus helleborus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Orion: There is nothing but what will do you good; And the drugs are simples; 'tis hellebore, Nepenthe, upas, and dragon's blood, Absinthe, and mandrake, and mandragore."*
+> - 📜 **John Keats (*Poems 1817*):** *"Of thy dark hair that extends Into many graceful bends: As the leaves of Hellebore Turn to whence they sprung before."*

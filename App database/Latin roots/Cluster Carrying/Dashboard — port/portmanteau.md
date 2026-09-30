@@ -5,15 +5,6 @@ status: unread
 ---
 # portmanteau
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A new word formed by joining two others and combining their meanings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large travelling bag made of stiff leather.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In another corner a ragged old portmanteau on one of the two chairs serves for cabinet or wardrobe; no larger one is needed, for it collapses like the cheeks of a starved man."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Flite!” Krook follows him with his eyes, and while he is calling, finds opportunity to steal to the old portmanteau and steal back again."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn (standing by the old portmanteau) inquires if he has been dead any time."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A new word formed by joining two others and combining their meanings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large travelling bag made of stiff leather.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"In another corner a ragged old portmanteau on one of the two chairs serves for cabinet or wardrobe; no larger one is needed, for it collapses like the cheeks of a starved man."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Flite!” Krook follows him with his eyes, and while he is calling, finds opportunity to steal to the old portmanteau and steal back again."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn (standing by the old portmanteau) inquires if he has been dead any time."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # bronte
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English novelist; youngest of three bronte sisters (1820-1849).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English novelist; one of three bronte sisters (1818-1848).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Sir Walter Scott Charles Bronte Alfred the Great and Johnson were the first great novelists."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: English novelist; youngest of three bronte sisters (1820-1849).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English novelist; one of three bronte sisters (1818-1848).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Sir Walter Scott Charles Bronte Alfred the Great and Johnson were the first great novelists."*

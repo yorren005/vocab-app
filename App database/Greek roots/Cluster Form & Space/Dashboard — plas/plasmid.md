@@ -5,13 +5,6 @@ status: unread
 ---
 # plasmid
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small cellular inclusion consisting of a ring of dna that is not in a chromosome but is capable of autonomous replication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small cellular inclusion consisting of a ring of dna that is not in a chromosome but is capable of autonomous replication.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmid designates a small cellular inclusion consisting of a ring of dna that is not in a chromosome but is capable of autonomous replication."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small cellular inclusion consisting of a ring of dna that is not in a chromosome but is capable of autonomous replication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small cellular inclusion consisting of a ring of dna that is not in a chromosome but is capable of autonomous replication.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmid designates a small cellular inclusion consisting of a ring of dna that is not in a chromosome but is capable of autonomous replication."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # decurved
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bent down or curved downward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bent down or curved downward.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decurved designates bent down or curved downward."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bent down or curved downward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bent down or curved downward.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decurved designates bent down or curved downward."*

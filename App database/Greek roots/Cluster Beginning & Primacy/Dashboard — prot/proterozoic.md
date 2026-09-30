@@ -5,13 +5,6 @@ status: unread
 ---
 # proterozoic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From 2,500 to 544 million years ago; bacteria and fungi; primitive multicellular organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed in the later of two divisions of the precambrian era.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proterozoic designates from 2,500 to 544 million years ago; bacteria and fungi; primitive multicellular organisms."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From 2,500 to 544 million years ago; bacteria and fungi; primitive multicellular organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed in the later of two divisions of the precambrian era.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proterozoic designates from 2,500 to 544 million years ago; bacteria and fungi; primitive multicellular organisms."*

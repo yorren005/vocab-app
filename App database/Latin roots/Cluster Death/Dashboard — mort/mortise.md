@@ -5,15 +5,6 @@ status: unread
 ---
 # mortise
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A square hole made to receive a tenon and so to form a joint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut a hole for a tenon in.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it hath ruffian’d so upon the sea, What ribs of oak, when mountains melt on them, Can hold the mortise?"*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Look at the nice setting of the mortises; mark how the cover fits; how smooth is the working of that spring drawer."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"A defective letter could be mortised out of the plate and a good type inserted in its place."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A square hole made to receive a tenon and so to form a joint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut a hole for a tenon in.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it hath ruffian’d so upon the sea, What ribs of oak, when mountains melt on them, Can hold the mortise?"*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Look at the nice setting of the mortises; mark how the cover fits; how smooth is the working of that spring drawer."*
+> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"A defective letter could be mortised out of the plate and a good type inserted in its place."*

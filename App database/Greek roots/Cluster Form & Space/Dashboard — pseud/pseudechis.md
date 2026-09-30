@@ -5,13 +5,6 @@ status: unread
 ---
 # pseudechis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Venomous australian blacksnakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Venomous australian blacksnakes.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudechis designates venomous australian blacksnakes."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Venomous australian blacksnakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Venomous australian blacksnakes.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudechis designates venomous australian blacksnakes."*

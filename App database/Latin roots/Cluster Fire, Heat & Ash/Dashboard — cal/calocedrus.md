@@ -5,13 +5,6 @@ status: unread
 ---
 # calocedrus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall evergreens of western north america and eastern asia; formerly included in genus libocedrus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall evergreens of western north america and eastern asia; formerly included in genus libocedrus.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calocedrus designates tall evergreens of western north america and eastern asia; formerly included in genus libocedrus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall evergreens of western north america and eastern asia; formerly included in genus libocedrus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall evergreens of western north america and eastern asia; formerly included in genus libocedrus.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calocedrus designates tall evergreens of western north america and eastern asia; formerly included in genus libocedrus."*

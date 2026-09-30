@@ -5,15 +5,6 @@ status: unread
 ---
 # ag
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft white precious univalent metallic element having the highest electrical and thermal conductivity of any metal; occurs in argentite and in free form; used in coins and jewelry and tableware and photography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft white precious univalent metallic element having the highest electrical and thermal conductivity of any metal; occurs in argentite and in free form; used in coins and jewelry and tableware and photography.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"COMINIUS. [_to Sicinius_.] Aged sir, hands off."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, let her languish A drop of blood a day and, being aged, Die of this folly. [_Exit with Lords._] Enter Pisanio."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even like a man new haled from the rack, So fare my limbs with long imprisonment; And these gray locks, the pursuivants of death, Nestor-like aged in an age of care, Argue the end of Edmund Mortimer."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -50,4 +41,11 @@ toggle.addEventListener('click', async (e) => {
 dv.container.appendChild(toggle);
 ```
 
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft white precious univalent metallic element having the highest electrical and thermal conductivity of any metal; occurs in argentite and in free form; used in coins and jewelry and tableware and photography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft white precious univalent metallic element having the highest electrical and thermal conductivity of any metal; occurs in argentite and in free form; used in coins and jewelry and tableware and photography.
 
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"COMINIUS. [_to Sicinius_.] Aged sir, hands off."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, let her languish A drop of blood a day and, being aged, Die of this folly. [_Exit with Lords._] Enter Pisanio."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even like a man new haled from the rack, So fare my limbs with long imprisonment; And these gray locks, the pursuivants of death, Nestor-like aged in an age of care, Argue the end of Edmund Mortimer."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # injector
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A contrivance for injecting (e.g., water into the boiler of a steam engine or particles into an accelerator etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contrivance for injecting (e.g., water into the boiler of a steam engine or particles into an accelerator etc.).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is then necessary to restore the normal quantity of oxygen, and so, as the air passes on, it meets, in a little apparatus known as an injector, a spray of pure oxygen from the cylinders."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A contrivance for injecting (e.g., water into the boiler of a steam engine or particles into an accelerator etc.).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contrivance for injecting (e.g., water into the boiler of a steam engine or particles into an accelerator etc.).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is then necessary to restore the normal quantity of oxygen, and so, as the air passes on, it meets, in a little apparatus known as an injector, a spray of pure oxygen from the cylinders."*

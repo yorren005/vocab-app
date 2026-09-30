@@ -5,13 +5,6 @@ status: unread
 ---
 # tractarianism
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Principles of the founders of the oxford movement as expounded in pamphlets called `tracts for the times'.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Principles of the founders of the oxford movement as expounded in pamphlets called `tracts for the times'.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tractarianism designates principles of the founders of the oxford movement as expounded in pamphlets called `tracts for the times'."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Principles of the founders of the oxford movement as expounded in pamphlets called `tracts for the times'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Principles of the founders of the oxford movement as expounded in pamphlets called `tracts for the times'.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tractarianism designates principles of the founders of the oxford movement as expounded in pamphlets called `tracts for the times'."*

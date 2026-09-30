@@ -5,13 +5,6 @@ status: unread
 ---
 # licorice
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep-rooted coarse-textured plant native to the mediterranean region having blue flowers and pinnately compound leaves; widely cultivated in europe for its long thick sweet roots.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A black candy flavored with the dried root of the licorice plant.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, licorice designates deep-rooted coarse-textured plant native to the mediterranean region having blue flowers and pinnately compound leaves; widely cultivated in europe for its long thick sweet roots."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep-rooted coarse-textured plant native to the mediterranean region having blue flowers and pinnately compound leaves; widely cultivated in europe for its long thick sweet roots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A black candy flavored with the dried root of the licorice plant.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, licorice designates deep-rooted coarse-textured plant native to the mediterranean region having blue flowers and pinnately compound leaves; widely cultivated in europe for its long thick sweet roots."*

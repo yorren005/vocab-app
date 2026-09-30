@@ -5,15 +5,6 @@ status: unread
 ---
 # proprietary
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unincorporated business owned by a single person who is responsible for its liabilities and entitled to its profits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protected by trademark or patent or copyright; made or produced or distributed by one having exclusive rights.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The lower rooms were entirely given over to the birds, who walked about them with a proprietary air, as though the place had been built by themselves, and not by certain dusty copyholders who now lay east and west in the churchyard."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Each group of colonists and each proprietary landholder had to adopt some method of land tenure whether by free grant or by sale of separate holdings or by leasing to settlers."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"There were no hedges, no signs of proprietary rights, no evidences of agriculture; the whole earth had become a garden."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unincorporated business owned by a single person who is responsible for its liabilities and entitled to its profits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protected by trademark or patent or copyright; made or produced or distributed by one having exclusive rights.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The lower rooms were entirely given over to the birds, who walked about them with a proprietary air, as though the place had been built by themselves, and not by certain dusty copyholders who now lay east and west in the churchyard."*
+> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Each group of colonists and each proprietary landholder had to adopt some method of land tenure whether by free grant or by sale of separate holdings or by leasing to settlers."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"There were no hedges, no signs of proprietary rights, no evidences of agriculture; the whole earth had become a garden."*

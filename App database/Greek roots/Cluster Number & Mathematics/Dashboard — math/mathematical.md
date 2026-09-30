@@ -5,15 +5,6 @@ status: unread
 ---
 # mathematical
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or of the nature of mathematics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or having ability to think in or work with numbers.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He spent the summer of 1839 with the Donaldson family at their country seat at Auchairn, near Ballantrae, in south Ayrshire, occupying most of his leisure hours in mathematical and physical studies in preparation for the work of the coming winter."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Can any of your learned Clerks avoid it? can ye put by his Mathematical Engine? _And._ Yes, or I'le break it: thou awaken'st me, and I'le peep i'th' Moon this month but I'le watch for him."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Can ye put by his Mathematical Engine? _And._ Yes, or Ile break it; thou awaken'st me, And Ile peep ith' Moon this moneth but Ile watch for him."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or of the nature of mathematics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or having ability to think in or work with numbers.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"He spent the summer of 1839 with the Donaldson family at their country seat at Auchairn, near Ballantrae, in south Ayrshire, occupying most of his leisure hours in mathematical and physical studies in preparation for the work of the coming winter."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Can any of your learned Clerks avoid it? can ye put by his Mathematical Engine? _And._ Yes, or I'le break it: thou awaken'st me, and I'le peep i'th' Moon this month but I'le watch for him."*
+> - 📜 **John Fletcher (*The Elder Brother*):** *"Can ye put by his Mathematical Engine? _And._ Yes, or Ile break it; thou awaken'st me, And Ile peep ith' Moon this moneth but Ile watch for him."*

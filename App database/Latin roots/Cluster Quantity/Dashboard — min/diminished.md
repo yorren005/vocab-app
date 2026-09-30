@@ -5,15 +5,6 @@ status: unread
 ---
 # diminished
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decrease in size, extent, or range.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lessen the authority, dignity, or reputation of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The same formal politeness, the same composed deference that might as well be defiance; the whole man the same dark, cold object, at the same distance, which nothing has ever diminished."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And it really did me good, for though nobody but Charley and I knew anything about it, I somehow felt as if it had diminished the separation between Ada and me and had brought us together again for those moments."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The whole household were amazed to see me, without any notice, at that time in the morning, and so accompanied; and their surprise was not diminished by my inquiries."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decrease in size, extent, or range.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lessen the authority, dignity, or reputation of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"The same formal politeness, the same composed deference that might as well be defiance; the whole man the same dark, cold object, at the same distance, which nothing has ever diminished."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"And it really did me good, for though nobody but Charley and I knew anything about it, I somehow felt as if it had diminished the separation between Ada and me and had brought us together again for those moments."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The whole household were amazed to see me, without any notice, at that time in the morning, and so accompanied; and their surprise was not diminished by my inquiries."*

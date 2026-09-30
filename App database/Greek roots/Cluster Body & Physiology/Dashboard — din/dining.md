@@ -5,15 +5,6 @@ status: unread
 ---
 # dining
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of eating dinner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have supper; eat dinner.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By this heavenly ground I tread on, I must be fain to pawn both my plate and the tapestry of my dining-chambers."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Yes, I did, you little sentinel of good order," Kurt laughed out, passing Lippo in order to hasten to the dining-room."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"So Uncle Philip was taken in their midst into the dining-room, and he might have been likened to a prisoner-of-war captured by the victors amidst shouts of triumph."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of eating dinner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have supper; eat dinner.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By this heavenly ground I tread on, I must be fain to pawn both my plate and the tapestry of my dining-chambers."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Yes, I did, you little sentinel of good order," Kurt laughed out, passing Lippo in order to hasten to the dining-room."*
+> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"So Uncle Philip was taken in their midst into the dining-room, and he might have been likened to a prisoner-of-war captured by the victors amidst shouts of triumph."*

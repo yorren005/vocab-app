@@ -5,15 +5,6 @@ status: unread
 ---
 # platter
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large shallow dish used for serving food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sound recording consisting of a disk with a continuous groove; used to reproduce music by rotating while a phonograph needle tracks in the groove.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Which was the heart of one, a black buzzard, you said, by name Martinelli—whoever he may be—for the heart of Martinelli smoking on a gold platter."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Brocklehurst could not see them too; he would perhaps have felt that, whatever he might do with the outside of the cup and platter, the inside was further beyond his interference than he imagined."*
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Maria, BRING IN THE TURKEY.” Poor Bessie! she could not look up as the door opened, and something was brought in on a big platter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large shallow dish used for serving food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sound recording consisting of a disk with a continuous groove; used to reproduce music by rotating while a phonograph needle tracks in the groove.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Which was the heart of one, a black buzzard, you said, by name Martinelli—whoever he may be—for the heart of Martinelli smoking on a gold platter."*
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Brocklehurst could not see them too; he would perhaps have felt that, whatever he might do with the outside of the cup and platter, the inside was further beyond his interference than he imagined."*
+> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"Maria, BRING IN THE TURKEY.” Poor Bessie! she could not look up as the door opened, and something was brought in on a big platter."*

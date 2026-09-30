@@ -5,15 +5,6 @@ status: unread
 ---
 # sext
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fourth of the seven canonical hours; about noon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fourth of the seven canonical hours; about noon.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The "expressions" are said to go back to Xenophanes (cited by Sext."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Manual labour was to continue from morning until <g>Sext</g>; and from Sext till <g>Nones</g> was to be employed in reading."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"From Holyrood-day to Lent, the dinner hour was at <g>nones</g>; in Lent till Easter, at six o’clock; from Easter to Pentecost, at <g>sext</g>; and all summer, except on Wednesdays and Fridays, at <g>nones</g>."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fourth of the seven canonical hours; about noon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fourth of the seven canonical hours; about noon.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The "expressions" are said to go back to Xenophanes (cited by Sext."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Manual labour was to continue from morning until <g>Sext</g>; and from Sext till <g>Nones</g> was to be employed in reading."*
+> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"From Holyrood-day to Lent, the dinner hour was at <g>nones</g>; in Lent till Easter, at six o’clock; from Easter to Pentecost, at <g>sext</g>; and all summer, except on Wednesdays and Fridays, at <g>nones</g>."*

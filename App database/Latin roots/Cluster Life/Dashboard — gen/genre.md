@@ -5,14 +5,6 @@ status: unread
 ---
 # genre
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of literary or artistic work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A style of expressing yourself in writing.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"We are given, as it were, a wide landscape instead of a detailed genre picture."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"But far beyond all other impulses of my heart, was _un penchant a l'adorable moitie du genre humain_."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of literary or artistic work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A style of expressing yourself in writing.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"We are given, as it were, a wide landscape instead of a detailed genre picture."*
+> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"But far beyond all other impulses of my heart, was _un penchant a l'adorable moitie du genre humain_."*

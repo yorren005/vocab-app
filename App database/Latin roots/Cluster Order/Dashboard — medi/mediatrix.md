@@ -5,14 +5,6 @@ status: unread
 ---
 # mediatrix
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who is a mediator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman who is a mediator.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She obligingly consented to act as mediatrix in the matter."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"It was therefore agreed that the young people of both families should visit each other frequently for the future, and the friendship of course lasted as long as the jovial old mediatrix was there to keep the peace."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who is a mediator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman who is a mediator.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She obligingly consented to act as mediatrix in the matter."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"It was therefore agreed that the young people of both families should visit each other frequently for the future, and the friendship of course lasted as long as the jovial old mediatrix was there to keep the peace."*

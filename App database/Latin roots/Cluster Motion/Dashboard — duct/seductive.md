@@ -5,15 +5,6 @@ status: unread
 ---
 # seductive
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to entice into a desired action or state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to entice into a desired action or state.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Into the dining-house, unaffected by the seductive show in the window of artificially whitened cauliflowers and poultry, verdant baskets of peas, coolly blooming cucumbers, and joints ready for the spit, Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I should indeed be foolish to feel offended at anything you say or do,” he answered, in the seductive voice of the Trantridge time."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Lifted by those eternal swells, you needs must own the seductive god, bowing your head to Pan."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to entice into a desired action or state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to entice into a desired action or state.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Into the dining-house, unaffected by the seductive show in the window of artificially whitened cauliflowers and poultry, verdant baskets of peas, coolly blooming cucumbers, and joints ready for the spit, Mr."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I should indeed be foolish to feel offended at anything you say or do,” he answered, in the seductive voice of the Trantridge time."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Lifted by those eternal swells, you needs must own the seductive god, bowing your head to Pan."*

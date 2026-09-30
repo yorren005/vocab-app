@@ -5,15 +5,6 @@ status: unread
 ---
 # gregory
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) a church father known for his constant fight against perceived heresies; a saint and doctor of the church (329-391).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian pope from 1831 to 1846; conservative in politics and theology; worked to propagate catholicism in england and the united states (1765-1846).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Turk Gregory never did such deeds in arms as I have done this day."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Item, you sent a large commission To Gregory de Cassado, to conclude, Without the King’s will or the state’s allowance, A league between his Highness and Ferrara."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Sampson and Gregory armed with swords and bucklers."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) a church father known for his constant fight against perceived heresies; a saint and doctor of the church (329-391).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian pope from 1831 to 1846; conservative in politics and theology; worked to propagate catholicism in england and the united states (1765-1846).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Turk Gregory never did such deeds in arms as I have done this day."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Item, you sent a large commission To Gregory de Cassado, to conclude, Without the King’s will or the state’s allowance, A league between his Highness and Ferrara."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Sampson and Gregory armed with swords and bucklers."*

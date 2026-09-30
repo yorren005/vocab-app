@@ -5,13 +5,6 @@ status: unread
 ---
 # monogynous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having one head or chief wife at a time (along with concubines).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having one head or chief wife at a time (along with concubines).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monogynous designates having one head or chief wife at a time (along with concubines)."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having one head or chief wife at a time (along with concubines).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having one head or chief wife at a time (along with concubines).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monogynous designates having one head or chief wife at a time (along with concubines)."*

@@ -5,13 +5,6 @@ status: unread
 ---
 # punctum
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) a point or small area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anatomy) a point or small area.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I have plenty of ideas and facts, you know, and I can see he is just the man to put them into shape—remembers what the right quotations are, _omne tulit punctum_, and that sort of thing—gives subjects a kind of turn."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: (anatomy) a point or small area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anatomy) a point or small area.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **George Eliot (*Middlemarch*):** *"I have plenty of ideas and facts, you know, and I can see he is just the man to put them into shape—remembers what the right quotations are, _omne tulit punctum_, and that sort of thing—gives subjects a kind of turn."*

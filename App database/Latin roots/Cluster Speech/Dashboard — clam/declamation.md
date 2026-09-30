@@ -5,15 +5,6 @@ status: unread
 ---
 # declamation
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vehement oratory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recitation of a speech from memory with studied gestures and intonation as an exercise in elocution or rhetoric.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood has shot my husband.” Her statement of the fact in such quiet and simple words came with more force than a tragic declamation, and had somewhat the effect of setting the distorted images in each mind present into proper focus."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle said grace with theatrical declamation,—as it now appears to me, something like a religious cross of the Ghost in Hamlet with Richard the Third,—and ended with the very proper aspiration that we might be truly grateful."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"He would naturally say to himself, it is impossible that all this vehement and pathetic declamation can be without some colorable pretext."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vehement oratory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recitation of a speech from memory with studied gestures and intonation as an exercise in elocution or rhetoric.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood has shot my husband.” Her statement of the fact in such quiet and simple words came with more force than a tragic declamation, and had somewhat the effect of setting the distorted images in each mind present into proper focus."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle said grace with theatrical declamation,—as it now appears to me, something like a religious cross of the Ghost in Hamlet with Richard the Third,—and ended with the very proper aspiration that we might be truly grateful."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"He would naturally say to himself, it is impossible that all this vehement and pathetic declamation can be without some colorable pretext."*

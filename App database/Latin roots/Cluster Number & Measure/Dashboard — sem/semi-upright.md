@@ -5,13 +5,6 @@ status: unread
 ---
 # semi-upright
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of animals that are partly erect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of animals that are partly erect.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-upright designates of animals that are partly erect."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of animals that are partly erect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of animals that are partly erect.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semi-upright designates of animals that are partly erect."*

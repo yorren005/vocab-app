@@ -5,13 +5,6 @@ status: unread
 ---
 # glial
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or constituting glia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supporting tissue intermingled with the essential elements of nervous tissue especially in the brain, spinal cord, and ganglia.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glial designates of, relating to, or constituting glia."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or constituting glia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supporting tissue intermingled with the essential elements of nervous tissue especially in the brain, spinal cord, and ganglia.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glial designates of, relating to, or constituting glia."*

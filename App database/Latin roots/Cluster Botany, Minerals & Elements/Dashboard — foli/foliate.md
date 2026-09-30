@@ -5,15 +5,6 @@ status: unread
 ---
 # foliate
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hammer into thin flat foils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decorate with leaves.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Cover with foliate edges and jewel pattern, surmounted by a seated figure of Shou Lao, God of Longevity."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"A typical specimen, shown in Plate 51, is a vase of baluster form with wide shoulders strengthened by a collar with foliate edge, and small neck and mouth, ornamented with a handsome lotus scroll in relief."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The neck, for instance, may be compared with Fig. 2 of Plate 14; the phœnix head and the foliate mouth with Fig. 1 of Plate 9, and the carved ornament on the body with Fig. 3 of Plate 14."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hammer into thin flat foils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decorate with leaves.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Cover with foliate edges and jewel pattern, surmounted by a seated figure of Shou Lao, God of Longevity."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"A typical specimen, shown in Plate 51, is a vase of baluster form with wide shoulders strengthened by a collar with foliate edge, and small neck and mouth, ornamented with a handsome lotus scroll in relief."*
+> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The neck, for instance, may be compared with Fig. 2 of Plate 14; the phœnix head and the foliate mouth with Fig. 1 of Plate 9, and the carved ornament on the body with Fig. 3 of Plate 14."*

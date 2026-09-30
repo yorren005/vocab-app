@@ -5,13 +5,6 @@ status: unread
 ---
 # vidalia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in central georgia; the origin of vidalia onions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in central georgia; the origin of vidalia onions.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vidalia designates a town in central georgia; the origin of vidalia onions."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in central georgia; the origin of vidalia onions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in central georgia; the origin of vidalia onions.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vidalia designates a town in central georgia; the origin of vidalia onions."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # monotony
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of wearisome constancy, routine, and lack of variety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constancy of tone or pitch or inflection.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Why do you ask?” “Anything to vary this detestable monotony."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn stops for an instant and repeats with some little emphasis grafted upon his usual monotony, “Real flesh and blood, Miss Dedlock."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I am soon going back again to the miserable monotony of drill—and perhaps our regiment will be ordered out soon."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of wearisome constancy, routine, and lack of variety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constancy of tone or pitch or inflection.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Charles Dickens (*Bleak House*):** *"Why do you ask?” “Anything to vary this detestable monotony."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn stops for an instant and repeats with some little emphasis grafted upon his usual monotony, “Real flesh and blood, Miss Dedlock."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I am soon going back again to the miserable monotony of drill—and perhaps our regiment will be ordered out soon."*

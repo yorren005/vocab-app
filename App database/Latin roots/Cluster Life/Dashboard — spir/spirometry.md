@@ -5,13 +5,6 @@ status: unread
 ---
 # spirometry
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of a spirometer to measure vital capacity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of a spirometer to measure vital capacity.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirometry designates the use of a spirometer to measure vital capacity."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of a spirometer to measure vital capacity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of a spirometer to measure vital capacity.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spirometry designates the use of a spirometer to measure vital capacity."*

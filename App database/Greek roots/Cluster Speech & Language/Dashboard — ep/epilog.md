@@ -5,13 +5,6 @@ status: unread
 ---
 # epilog
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A concluding section that rounds out the design of a literary work : afterword.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speech often in verse addressed to the audience by an actor at the end of a play; also : the actor speaking such an epilogue.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epilog designates a concluding section that rounds out the design of a literary work : afterword."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A concluding section that rounds out the design of a literary work : afterword.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speech often in verse addressed to the audience by an actor at the end of a play; also : the actor speaking such an epilogue.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epilog designates a concluding section that rounds out the design of a literary work : afterword."*

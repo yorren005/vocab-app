@@ -5,15 +5,6 @@ status: unread
 ---
 # rupture
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State of being torn or burst open.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A personal or social separation (as between opposing factions).
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a rupture that you may easily heal, and the cure of it not only saves your brother, but keeps you from dishonour in doing it."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In answer, God has caused a rupture between them." AWAY FROM HOME, BUT NOT AWAY FROM GOD."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"On the 25th of May the _Nautilus_, being at a depth of more than 1,918 fathoms, was on the precise spot where the rupture occurred which ruined the enterprise."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: State of being torn or burst open.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A personal or social separation (as between opposing factions).
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a rupture that you may easily heal, and the cure of it not only saves your brother, but keeps you from dishonour in doing it."*
+> - 📜 **Classic Author (*The wonders of prayer*):** *"In answer, God has caused a rupture between them." AWAY FROM HOME, BUT NOT AWAY FROM GOD."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"On the 25th of May the _Nautilus_, being at a depth of more than 1,918 fathoms, was on the precise spot where the rupture occurred which ruined the enterprise."*

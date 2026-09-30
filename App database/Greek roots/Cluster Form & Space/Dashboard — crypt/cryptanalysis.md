@@ -5,13 +5,6 @@ status: unread
 ---
 # cryptanalysis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The solving of cryptograms or cryptographic systems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theory of solving cryptograms or cryptographic systems : the art of devising methods for cryptanalysis.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptanalysis designates the solving of cryptograms or cryptographic systems."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The solving of cryptograms or cryptographic systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theory of solving cryptograms or cryptographic systems : the art of devising methods for cryptanalysis.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptanalysis designates the solving of cryptograms or cryptographic systems."*

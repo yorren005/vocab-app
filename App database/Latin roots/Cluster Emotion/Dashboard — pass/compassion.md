@@ -5,15 +5,6 @@ status: unread
 ---
 # compassion
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep awareness of and sympathy for another's suffering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The humane quality of understanding the suffering of others and wanting to do something about it.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, sir, it is no little thing to make Mine eyes to sweat compassion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Compassion on the King commands me stoop, Or I would see his heart out, ere the priest Should ever get that privilege of me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Charles, and the rest, it is enacted thus: That, in regard King Henry gives consent, Of mere compassion and of lenity, To ease your country of distressful war, And suffer you to breathe in fruitful peace, You shall become true liegemen to his crown."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep awareness of and sympathy for another's suffering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The humane quality of understanding the suffering of others and wanting to do something about it.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, sir, it is no little thing to make Mine eyes to sweat compassion."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Compassion on the King commands me stoop, Or I would see his heart out, ere the priest Should ever get that privilege of me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Charles, and the rest, it is enacted thus: That, in regard King Henry gives consent, Of mere compassion and of lenity, To ease your country of distressful war, And suffer you to breathe in fruitful peace, You shall become true liegemen to his crown."*

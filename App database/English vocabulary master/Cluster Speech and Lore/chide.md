@@ -5,20 +5,6 @@ status: unread
 ---
 # chide
 
-> [!book] 📖 Concise Definition & Semantic Range
-> 1. **Primary Meaning**: Speak out in angry or displeased rebuke
-> 2. **Nuance / Usage**: (ambitransitive) to make a clamorous noise; to chafe
-
-> [!tip] 🎯 Usage & Syntactic Application
-> - **Grammatical Class**: Verb (transitive & intransitive).
-> - **Syntactic Constructions**: Operates in direct transitive constructions (*to chide the target*) and intransitive clauses (*chiding against the current*).
-> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Sweet youth, I pray you chide a year together!"*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I had rather hear you chide than this man woo."*
-> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"For what had he to do to chide at me?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -54,3 +40,17 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Concise Definition & Semantic Range
+> 1. **Primary Meaning**: Speak out in angry or displeased rebuke
+> 2. **Nuance / Usage**: (ambitransitive) to make a clamorous noise; to chafe
+
+> [!tip] 🎯 Usage & Syntactic Application
+> - **Grammatical Class**: Verb (transitive & intransitive).
+> - **Syntactic Constructions**: Operates in direct transitive constructions (*to chide the target*) and intransitive clauses (*chiding against the current*).
+> - **Collocations & Registers**: Visceral narrative registers; collocated with physical momentum, kinetic force, and sensory conflict.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"Sweet youth, I pray you chide a year together!"*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"I had rather hear you chide than this man woo."*
+> - 📜 **William Shakespeare (*The Complete Works of Shakespeare*):** *"For what had he to do to chide at me?"*

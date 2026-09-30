@@ -5,13 +5,6 @@ status: unread
 ---
 # mythic
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or described in a myth especially as contrasted with history.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing only in the imagination : fictitious, imaginary.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In this way, starting from a single personification of the corn as female, mythic fancy might in time reach a double personification of it as mother and daughter."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or described in a myth especially as contrasted with history.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing only in the imagination : fictitious, imaginary.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In this way, starting from a single personification of the corn as female, mythic fancy might in time reach a double personification of it as mother and daughter."*

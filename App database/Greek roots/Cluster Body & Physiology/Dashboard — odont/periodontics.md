@@ -5,13 +5,6 @@ status: unread
 ---
 # periodontics
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of dentistry that deals with diseases of the supporting and investing structures of the teeth including the gums, cementum, periodontal membranes, and alveolar bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of dentistry that deals with diseases of the supporting and investing structures of the teeth including the gums, cementum, periodontal membranes, and alveolar bone.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periodontics designates a branch of dentistry that deals with diseases of the supporting and investing structures of the teeth including the gums, cementum, periodontal membranes, and alveolar bone."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of dentistry that deals with diseases of the supporting and investing structures of the teeth including the gums, cementum, periodontal membranes, and alveolar bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of dentistry that deals with diseases of the supporting and investing structures of the teeth including the gums, cementum, periodontal membranes, and alveolar bone.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periodontics designates a branch of dentistry that deals with diseases of the supporting and investing structures of the teeth including the gums, cementum, periodontal membranes, and alveolar bone."*

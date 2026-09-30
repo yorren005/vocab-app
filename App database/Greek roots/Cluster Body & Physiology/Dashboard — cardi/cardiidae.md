@@ -5,13 +5,6 @@ status: unread
 ---
 # cardiidae
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat heart-shaped sand-burrowing bivalve mollusks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Somewhat heart-shaped sand-burrowing bivalve mollusks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiidae designates somewhat heart-shaped sand-burrowing bivalve mollusks."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat heart-shaped sand-burrowing bivalve mollusks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Somewhat heart-shaped sand-burrowing bivalve mollusks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiidae designates somewhat heart-shaped sand-burrowing bivalve mollusks."*

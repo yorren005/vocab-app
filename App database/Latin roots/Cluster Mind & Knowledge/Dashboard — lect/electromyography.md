@@ -5,13 +5,6 @@ status: unread
 ---
 # electromyography
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diagnosis of neuromuscular disorders with the use of an electromyograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diagnosis of neuromuscular disorders with the use of an electromyograph.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromyography designates diagnosis of neuromuscular disorders with the use of an electromyograph."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Diagnosis of neuromuscular disorders with the use of an electromyograph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diagnosis of neuromuscular disorders with the use of an electromyograph.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromyography designates diagnosis of neuromuscular disorders with the use of an electromyograph."*

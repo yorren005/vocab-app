@@ -5,14 +5,6 @@ status: unread
 ---
 # hipp
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hipp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Monsieur Cobweb; good monsieur, get you your weapons in your hand and kill me a red-hipped humble-bee on the top of a thistle; and, good monsieur, bring me the honey-bag."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"They seem hipped." "Oh, do look at that poor little brown one by the coop," said Mrs."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -48,3 +40,11 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hipp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Monsieur Cobweb; good monsieur, get you your weapons in your hand and kill me a red-hipped humble-bee on the top of a thistle; and, good monsieur, bring me the honey-bag."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"They seem hipped." "Oh, do look at that poor little brown one by the coop," said Mrs."*

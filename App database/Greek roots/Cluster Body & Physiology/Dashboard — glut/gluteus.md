@@ -5,13 +5,6 @@ status: unread
 ---
 # gluteus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the large muscles of the buttocks; especially : gluteus maximus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outermost muscle of the three glutei found in each of the human buttocks.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gluteus designates any of the large muscles of the buttocks; especially : gluteus maximus."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the large muscles of the buttocks; especially : gluteus maximus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outermost muscle of the three glutei found in each of the human buttocks.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gluteus designates any of the large muscles of the buttocks; especially : gluteus maximus."*

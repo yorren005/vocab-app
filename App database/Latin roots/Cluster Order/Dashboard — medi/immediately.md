@@ -5,15 +5,6 @@ status: unread
 ---
 # immediately
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without delay or hesitation; with no time intervening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Near or close by.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, Dromio, there’s the money, bear it straight, And bring thy master home immediately."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We’ll but seal, And then to horse immediately."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I thank your Grace for this high courtesy, Which I shall give away immediately."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without delay or hesitation; with no time intervening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Near or close by.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, Dromio, there’s the money, bear it straight, And bring thy master home immediately."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We’ll but seal, And then to horse immediately."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I thank your Grace for this high courtesy, Which I shall give away immediately."*

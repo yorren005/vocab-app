@@ -5,15 +5,6 @@ status: unread
 ---
 # disadvantageous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting a disadvantage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting a disadvantage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Among the restraints imposed by the Union of the Netherlands on its members, one is, that they shall not establish imposts disadvantageous to their neighbors, without the general permission."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He uttered no sentiment calculated to produce a disadvantageous impression; on the contrary, his observations denoted a mind alive to every generous and heroic feeling."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But the question whether the camp was advantageous or disadvantageous remained for him undecided."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting a disadvantage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting a disadvantage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Among the restraints imposed by the Union of the Netherlands on its members, one is, that they shall not establish imposts disadvantageous to their neighbors, without the general permission."*
+> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He uttered no sentiment calculated to produce a disadvantageous impression; on the contrary, his observations denoted a mind alive to every generous and heroic feeling."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But the question whether the camp was advantageous or disadvantageous remained for him undecided."*

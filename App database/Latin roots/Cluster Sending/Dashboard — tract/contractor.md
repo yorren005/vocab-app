@@ -5,15 +5,6 @@ status: unread
 ---
 # contractor
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone (a person or firm) who contracts to build things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bridge player in contract bridge who wins the bidding and can declare which suit is to be trumps.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"An iron church was erected for them, but the contractor, an Englishman, before his work was finished was seized with illness and died."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The baronet has been in communication with the architect who prepared the plans for Sir Charles, and with a contractor from London, so that we may expect great changes to begin here soon."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"A few months previous to our trip, a contractor on the Kansas Pacific Railroad determined to domesticate a young bison bull, and accordingly took it to his home at Cincinnati."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone (a person or firm) who contracts to build things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bridge player in contract bridge who wins the bidding and can declare which suit is to be trumps.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"An iron church was erected for them, but the contractor, an Englishman, before his work was finished was seized with illness and died."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The baronet has been in communication with the architect who prepared the plans for Sir Charles, and with a contractor from London, so that we may expect great changes to begin here soon."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"A few months previous to our trip, a contractor on the Kansas Pacific Railroad determined to domesticate a young bison bull, and accordingly took it to his home at Cincinnati."*

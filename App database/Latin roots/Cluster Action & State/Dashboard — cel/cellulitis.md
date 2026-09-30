@@ -5,13 +5,6 @@ status: unread
 ---
 # cellulitis
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inflammation of body tissue (especially that below the skin) characterized by fever and swelling and redness and pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inflammation of body tissue (especially that below the skin) characterized by fever and swelling and redness and pain.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cellulitis designates an inflammation of body tissue (especially that below the skin) characterized by fever and swelling and redness and pain."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inflammation of body tissue (especially that below the skin) characterized by fever and swelling and redness and pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inflammation of body tissue (especially that below the skin) characterized by fever and swelling and redness and pain.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cellulitis designates an inflammation of body tissue (especially that below the skin) characterized by fever and swelling and redness and pain."*

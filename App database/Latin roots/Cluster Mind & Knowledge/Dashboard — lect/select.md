@@ -5,15 +5,6 @@ status: unread
 ---
 # select
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pick out, select, or choose from a number of alternatives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of superior grade.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A certain number, Though thanks to all, must I select from all."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Costly thy habit as thy purse can buy, But not express’d in fancy; rich, not gaudy: For the apparel oft proclaims the man; And they in France of the best rank and station Are of a most select and generous chief in that."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Good things have been said about it by blue-nosed, bulbous-shoed old benchers in select port-wine committee after dinner in hall."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pick out, select, or choose from a number of alternatives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of superior grade.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A certain number, Though thanks to all, must I select from all."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Costly thy habit as thy purse can buy, But not express’d in fancy; rich, not gaudy: For the apparel oft proclaims the man; And they in France of the best rank and station Are of a most select and generous chief in that."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Good things have been said about it by blue-nosed, bulbous-shoed old benchers in select port-wine committee after dinner in hall."*

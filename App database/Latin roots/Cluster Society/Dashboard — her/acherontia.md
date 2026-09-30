@@ -5,13 +5,6 @@ status: unread
 ---
 # acherontia
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Death's-head moth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Death's-head moth.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acherontia designates death's-head moth."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Death's-head moth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Death's-head moth.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acherontia designates death's-head moth."*

@@ -5,15 +5,6 @@ status: unread
 ---
 # repute
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being held in high esteem and honor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Look on as or consider.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I have considered with myself The title of this most renowned duke, And in my conscience do repute his grace The rightful heir to England’s royal seat."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Till then, my noble friend, chew upon this: Brutus had rather be a villager Than to repute himself a son of Rome Under these hard conditions as this time Is like to lay upon us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Him, I, as my ever-esteemed duty pricks me on, have sent to thee, to receive the meed of punishment, by thy sweet Grace’s officer, Antony Dull, a man of good repute, carriage, bearing, and estimation._ DULL."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being held in high esteem and honor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Look on as or consider.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I have considered with myself The title of this most renowned duke, And in my conscience do repute his grace The rightful heir to England’s royal seat."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Till then, my noble friend, chew upon this: Brutus had rather be a villager Than to repute himself a son of Rome Under these hard conditions as this time Is like to lay upon us."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Him, I, as my ever-esteemed duty pricks me on, have sent to thee, to receive the meed of punishment, by thy sweet Grace’s officer, Antony Dull, a man of good repute, carriage, bearing, and estimation._ DULL."*

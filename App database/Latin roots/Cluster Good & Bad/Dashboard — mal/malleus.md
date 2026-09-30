@@ -5,13 +5,6 @@ status: unread
 ---
 # malleus
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ossicle attached to the eardrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ossicle attached to the eardrum.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malleus designates the ossicle attached to the eardrum."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ossicle attached to the eardrum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ossicle attached to the eardrum.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malleus designates the ossicle attached to the eardrum."*

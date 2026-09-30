@@ -5,15 +5,6 @@ status: unread
 ---
 # paregoric
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medicine used to treat diarrhea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medicine used to treat diarrhea.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Who’s got some paregoric?” said Stubb, “he has the stomach-ache, I’m afraid."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Who’s got some paregoric?” said Stubb, “he has the stomach-ache, I’m afraid."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Every few minutes the minister passed him the bottle and it acted like paregoric on a colicky baby."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Medicine used to treat diarrhea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medicine used to treat diarrhea.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Who’s got some paregoric?” said Stubb, “he has the stomach-ache, I’m afraid."*
+> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Who’s got some paregoric?” said Stubb, “he has the stomach-ache, I’m afraid."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Every few minutes the minister passed him the bottle and it acted like paregoric on a colicky baby."*

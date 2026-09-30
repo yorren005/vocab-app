@@ -5,13 +5,6 @@ status: unread
 ---
 # Xenarthra
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Xenarthra is a superorder and major clade of placental mammals native to the Americas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: There are 31 living species: the anteaters, tree sloths, and armadillos.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Xenarthra designates xenarthra is a superorder and major clade of placental mammals native to the americas."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Xenarthra is a superorder and major clade of placental mammals native to the Americas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: There are 31 living species: the anteaters, tree sloths, and armadillos.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Xenarthra designates xenarthra is a superorder and major clade of placental mammals native to the americas."*

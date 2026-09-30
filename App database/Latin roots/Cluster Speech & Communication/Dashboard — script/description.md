@@ -5,15 +5,6 @@ status: unread
 ---
 # description
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that represents something in words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of describing something.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For this description of thine honesty?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For her own person, It beggared all description: she did lie In her pavilion, cloth-of-gold of tissue, O’erpicturing that Venus where we see The fancy outwork nature."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will this description satisfy him?"*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that represents something in words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of describing something.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For this description of thine honesty?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For her own person, It beggared all description: she did lie In her pavilion, cloth-of-gold of tissue, O’erpicturing that Venus where we see The fancy outwork nature."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will this description satisfy him?"*

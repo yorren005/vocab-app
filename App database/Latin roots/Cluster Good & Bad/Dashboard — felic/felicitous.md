@@ -5,15 +5,6 @@ status: unread
 ---
 # felicitous
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting an agreeably appropriate manner or style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by good fortune.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He had remained in Shropshire, lamenting the blindness of his own pride, and the blunders of his own calculations, till at once released from Louisa by the astonishing and felicitous intelligence of her engagement with Benwick."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She also, by a felicitous thought, took a handkerchief from her bundle and tied it round her face under her bonnet, covering her chin and half her cheeks and temples, as if she were suffering from toothache."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"The felicitous idea occurred to me a morning or two later when I woke, that the best step I could take towards making myself uncommon was to get out of Biddy everything she knew."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting an agreeably appropriate manner or style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by good fortune.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Jane Austen (*Persuasion*):** *"He had remained in Shropshire, lamenting the blindness of his own pride, and the blunders of his own calculations, till at once released from Louisa by the astonishing and felicitous intelligence of her engagement with Benwick."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She also, by a felicitous thought, took a handkerchief from her bundle and tied it round her face under her bonnet, covering her chin and half her cheeks and temples, as if she were suffering from toothache."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The felicitous idea occurred to me a morning or two later when I woke, that the best step I could take towards making myself uncommon was to get out of Biddy everything she knew."*

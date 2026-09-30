@@ -5,15 +5,6 @@ status: unread
 ---
 # purify
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove impurities from, increase the concentration of, and separate through the process of distillation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make pure or free from sin or guilt.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The spots whereof could weeping purify, Her tears should drop on them perpetually."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"They imagined this rite had a tendency to purify their herds and flocks, and to prevent diseases."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Some love might come across his life, and purify him, and shield him from those sins that seemed to be already stirring in spirit and in flesh—those curious unpictured sins whose very mystery lent them their subtlety and their charm."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove impurities from, increase the concentration of, and separate through the process of distillation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make pure or free from sin or guilt.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The spots whereof could weeping purify, Her tears should drop on them perpetually."*
+> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"They imagined this rite had a tendency to purify their herds and flocks, and to prevent diseases."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Some love might come across his life, and purify him, and shield him from those sins that seemed to be already stirring in spirit and in flesh—those curious unpictured sins whose very mystery lent them their subtlety and their charm."*

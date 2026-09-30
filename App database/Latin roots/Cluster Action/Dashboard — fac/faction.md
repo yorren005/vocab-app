@@ -5,15 +5,6 @@ status: unread
 ---
 # faction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A clique (often secret) that seeks power usually through intrigue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dissenting clique.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will bandy with thee in faction; will o’errun thee with policy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dispatch. [_Exeunt Attendants._] Enter three or four Conspirators of Aufidius’s faction."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If’t be so, Hamlet is of the faction that is wrong’d; His madness is poor Hamlet’s enemy."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clique (often secret) that seeks power usually through intrigue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dissenting clique.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will bandy with thee in faction; will o’errun thee with policy."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dispatch. [_Exeunt Attendants._] Enter three or four Conspirators of Aufidius’s faction."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If’t be so, Hamlet is of the faction that is wrong’d; His madness is poor Hamlet’s enemy."*

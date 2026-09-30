@@ -5,13 +5,6 @@ status: unread
 ---
 # underrating
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An estimation that is too low; an estimate that is less than the true or actual value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make too low an estimate of.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. H. Costello (*Sure-dart*):** *"Sure-dart, with the exception of the serious underrating of the great lizard’s speed, had thus far made no mistake, and that blunder had not as yet brought him to grief."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -47,3 +40,10 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An estimation that is too low; an estimate that is less than the true or actual value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make too low an estimate of.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **F. H. Costello (*Sure-dart*):** *"Sure-dart, with the exception of the serious underrating of the great lizard’s speed, had thus far made no mistake, and that blunder had not as yet brought him to grief."*

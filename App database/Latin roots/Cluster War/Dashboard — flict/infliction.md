@@ -5,15 +5,6 @@ status: unread
 ---
 # infliction
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of imposing something (as a tax or an embargo).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act causing pain or damage.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The wound was small, but the point of the blade had touched the heart of the victim, who lay on his back, pale, fixed, dead, as if he had scarcely moved after the infliction of the blow."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I hope somebody will come in for the evening, and share with us the infliction of her society," Zoe said, concluding with a forlorn attempt at a laugh."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The act of paying is perhaps the most uncomfortable infliction that the two orchard thieves entailed upon us."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of imposing something (as a tax or an embargo).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act causing pain or damage.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The wound was small, but the point of the blade had touched the heart of the victim, who lay on his back, pale, fixed, dead, as if he had scarcely moved after the infliction of the blow."*
+> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I hope somebody will come in for the evening, and share with us the infliction of her society," Zoe said, concluding with a forlorn attempt at a laugh."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The act of paying is perhaps the most uncomfortable infliction that the two orchard thieves entailed upon us."*

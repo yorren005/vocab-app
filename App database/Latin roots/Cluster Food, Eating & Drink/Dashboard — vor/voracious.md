@@ -5,15 +5,6 @@ status: unread
 ---
 # voracious
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively greedy and grasping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devouring or craving food in great quantities.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Although he was a voracious reader, it must be admitted that Dr."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Happily the voracious creatures do not see well."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The voracious creature shot towards the Indian, who threw himself on one side to avoid the shark’s fins; but not its tail, for it struck his chest and stretched him on the ground."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively greedy and grasping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devouring or craving food in great quantities.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **John Cairns (*Principal Cairns*):** *"Although he was a voracious reader, it must be admitted that Dr."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Happily the voracious creatures do not see well."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The voracious creature shot towards the Indian, who threw himself on one side to avoid the shark’s fins; but not its tail, for it struck his chest and stretched him on the ground."*

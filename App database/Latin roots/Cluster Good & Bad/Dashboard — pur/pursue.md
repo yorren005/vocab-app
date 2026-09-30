@@ -5,15 +5,6 @@ status: unread
 ---
 # pursue
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carry out or participate in an activity; be involved in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Follow in or as if in pursuit.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here he comes; I pray you make us friends; I will pursue the amity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet if I knew What hoop should hold us staunch, from edge to edge O’ th’ world I would pursue it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pursue him to his house, and pluck him thence, Lest his infection, being of catching nature, Spread further."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carry out or participate in an activity; be involved in.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Follow in or as if in pursuit.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here he comes; I pray you make us friends; I will pursue the amity."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet if I knew What hoop should hold us staunch, from edge to edge O’ th’ world I would pursue it."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pursue him to his house, and pluck him thence, Lest his infection, being of catching nature, Spread further."*

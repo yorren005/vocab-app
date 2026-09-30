@@ -5,15 +5,6 @@ status: unread
 ---
 # orphan
 
-> [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A child deprived by death of one or usually both parents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young animal that has lost its mother.
-
-> [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fairies, black, grey, green, and white, You moonshine revellers and shades of night, You orphan heirs of fixed destiny, Attend your office and your quality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The patient dies while the physician sleeps; The orphan pines while the oppressor feeds; Justice is feasting while the widow weeps; Advice is sporting while infection breeds."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was so tender in them to care so much for me, it was so gracious in that father who had not forgotten me to have made my orphan way so smooth and easy and to have inclined so many youthful natures towards me, that I could hardly bear it."*
-
 > [!status] 🎯 **Status:**
 
 ```dataviewjs
@@ -49,3 +40,12 @@ toggle.addEventListener('click', async (e) => {
 });
 dv.container.appendChild(toggle);
 ```
+
+> [!book] 📖 Definitions & Semantic Range
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A child deprived by death of one or usually both parents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young animal that has lost its mother.
+
+> [!quote] 💬 Contextual Usage & Authentic Quotations
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fairies, black, grey, green, and white, You moonshine revellers and shades of night, You orphan heirs of fixed destiny, Attend your office and your quality."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The patient dies while the physician sleeps; The orphan pines while the oppressor feeds; Justice is feasting while the widow weeps; Advice is sporting while infection breeds."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It was so tender in them to care so much for me, it was so gracious in that father who had not forgotten me to have made my orphan way so smooth and easy and to have inclined so many youthful natures towards me, that I could hardly bear it."*
